@@ -307,7 +307,88 @@ export const poiExtraYemenCitiesV2: POI[] = [
     },
   },
   {
-    id: "seiyun-cities-v2",
+    id: "seiyun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "قصر سيئون",
+                  "text": "Ein ehemaliger Sultanspalast in Seiyun, der heute ein Museum beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "Hisn al Falas",
+                  "text": "Historische Ruinen einer Festungsanlage in Seiyun.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قصر سيئون",
+                  "text": "Egykori szultáni palota Seiyunban, amely ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "حصن الفلس",
+                  "text": "Egy erődítmény történelmi romjai Seiyun városában.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قصر سيئون",
+                  "text": "Un fost palat al sultanului din Seiyun, care acum găzduiește un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "حصن الفلس",
+                  "text": "Ruinele istorice ale unei fortificații din Seiyun.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Qaser Alkthiri Seiyun",
+                  "text": "A former sultan's palace in Seiyun that now houses a museum.",
+                  "category": "museum",
+                  "coords": [
+                        48.784706,
+                        15.94579
+                  ]
+            },
+            {
+                  "name": "Hisn al Falas",
+                  "text": "Historic ruins of a fortification located in Seiyun.",
+                  "category": "historical",
+                  "coords": [
+                        48.8,
+                        15.933333
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "YE-HD",
     coords: [48.7883, 15.9427],
@@ -889,7 +970,52 @@ export const poiExtraYemenCitiesV2: POI[] = [
     },
   },
   {
-    id: "yarim-cities-v2",
+    id: "yarim-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal Hilhal",
+                  "text": "Ein markanter Berggipfel in der Region um Yarim.",
+                  "category": "natural",
+                  "coords": [
+                        44.351667,
+                        14.303889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "جبل حلحال",
+                  "text": "Jellegzetes hegycsúcs Yarim régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        44.351667,
+                        14.303889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "جبل حلحال",
+                  "text": "Un vârf muntos proeminent în regiunea Yarim.",
+                  "category": "natural",
+                  "coords": [
+                        44.351667,
+                        14.303889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal Hilhal",
+                  "text": "A prominent mountain peak in the Yarim region.",
+                  "category": "natural",
+                  "coords": [
+                        44.351667,
+                        14.303889
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "YE-IB",
     coords: [44.3780, 14.2980],
@@ -1021,7 +1147,160 @@ export const poiExtraYemenCitiesV2: POI[] = [
     },
   },
   {
-    id: "ash-shihr-cities-v2",
+    id: "ash-shihr-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "متحف المحضار",
+                  "text": "Ein lokales Museum in Ash Shihr, das kulturelle Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.7667
+                  ]
+            },
+            {
+                  "name": "حصن بن عياش",
+                  "text": "Eine historische Festungsanlage zum Schutz der Stadt Ash Shihr.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604452,
+                        14.755217
+                  ]
+            },
+            {
+                  "name": "Marir",
+                  "text": "Historische Überreste einer alten Siedlung bei Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "الخيشة",
+                  "text": "Archäologische Fundstätte mit alten Ruinen in Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "متحف المحضار",
+                  "text": "Helyi múzeum Ash Shihrben, amely kulturális tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.7667
+                  ]
+            },
+            {
+                  "name": "حصن بن عياش",
+                  "text": "Történelmi erődítmény Ash Shihr városának védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604452,
+                        14.755217
+                  ]
+            },
+            {
+                  "name": "مرير",
+                  "text": "Egy régi település történelmi maradványai Ash Shihr közelében.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "الخيشة",
+                  "text": "Régészeti lelőhely ősi romokkal Ash Shihrben.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "متحف المحضار",
+                  "text": "Un muzeu local în Ash Shihr care expune obiecte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.7667
+                  ]
+            },
+            {
+                  "name": "حصن بن عياش",
+                  "text": "O fortificație istorică pentru protecția orașului Ash Shihr.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604452,
+                        14.755217
+                  ]
+            },
+            {
+                  "name": "مرير",
+                  "text": "Vestigii istorice ale unei vechi așezări de lângă Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "الخيشة",
+                  "text": "Sit arheologic cu ruine antice în Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Almehdar Museum",
+                  "text": "A local museum in Ash Shihr displaying cultural exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        49.607903,
+                        14.7667
+                  ]
+            },
+            {
+                  "name": "Bin Ayyash Fort",
+                  "text": "A historic fortification built for the protection of Ash Shihr.",
+                  "category": "fortress",
+                  "coords": [
+                        49.604452,
+                        14.755217
+                  ]
+            },
+            {
+                  "name": "Marir",
+                  "text": "Historic remains of an ancient settlement near Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.583333,
+                        14.75
+                  ]
+            },
+            {
+                  "name": "Alkhaishah",
+                  "text": "Archaeological site featuring ancient ruins in Ash Shihr.",
+                  "category": "historical",
+                  "coords": [
+                        49.601253,
+                        14.757786
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "YE-HD",
     coords: [49.6064, 14.7558],
@@ -1109,7 +1388,52 @@ export const poiExtraYemenCitiesV2: POI[] = [
     },
   },
   {
-    id: "mocha-cities-v2",
+    id: "mocha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fort Taiire",
+                  "text": "Fort Taiire ist eine archäologische Stätte in Mokka.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "قلعة تيرة",
+                  "text": "A Fort Taiire egy régészeti lelőhely Mokka városában.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "قلعة تيرة",
+                  "text": "Fort Taiire este un sit arheologic situat în Mokka.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fort Taiire",
+                  "text": "Fort Taiire is an archaeological site situated in Mokka.",
+                  "category": "historical",
+                  "coords": [
+                        43.23412,
+                        13.310707
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "YE-TA",
     coords: [43.2450, 13.3180],

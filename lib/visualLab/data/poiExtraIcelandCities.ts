@@ -3,7 +3,88 @@ import type { POI } from "./poi";
 
 export const poiExtraIcelandCities: POI[] = [
   {
-    id: "city-egilsstadir-extra",
+    id: "city-egilsstadir-extra", "sights": {
+      "de": [
+            {
+                  "name": "Safnahús",
+                  "text": "Ein Museum in Egilsstaðir, das das kulturelle Erbe Ostislands bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Menningarmiðstöð Fljótsdalshéraðs MMF",
+                  "text": "Ein Zentrum für zeitgenössische Kunst und Kultur in Egilsstaðir.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Safnahús",
+                  "text": "Egilsstaðir múzeuma, amely Kelet-Izland kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Menningarmiðstöð Fljótsdalshéraðs MMF",
+                  "text": "Kulturális és művészeti központ Egilsstaðir városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Safnahús",
+                  "text": "Un muzeu din Egilsstaðir care conservă patrimoniul cultural al Islandei de Est.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Menningarmiðstöð Fljótsdalshéraðs MMF",
+                  "text": "Un centru pentru artă și cultură contemporană în Egilsstaðir.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The East Iceland Heritage Museum",
+                  "text": "A museum in Egilsstaðir preserving the cultural heritage of East Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -14.396304,
+                        65.262621
+                  ]
+            },
+            {
+                  "name": "Center for Art and Culture in Fljótsdalshérað",
+                  "text": "A center for contemporary art and culture in Egilsstaðir.",
+                  "category": "cultural",
+                  "coords": [
+                        -14.406297,
+                        65.259176
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IS-001",
     coords: [-14.3948, 65.2669],
@@ -87,7 +168,196 @@ export const poiExtraIcelandCities: POI[] = [
       fr: ["Eskifjörður a reçu le statut de ville en 1786, étant l'un des six premiers endroits en Islande.", "Le Hólmatindur est considéré comme l'un des sommets les plus remarquables de toute la côte est.", "Le musée maritime présente des objets de l'époque des baleiniers norvégiens.", "La mine d'Helgustaðir était autrefois la plus importante source mondiale de spath d'Islande.", "Un musée des minéraux se trouve à proximité avec une collection privée d'agates locales.", "Un téléski moderne sur le mont Oddsskarð relie la localité à Neskaupstaður."],
     }, image: "/poi-images/city-eskifjordur-extra.webp"},
   {
-    id: "city-neskaupstadur-extra",
+    id: "city-neskaupstadur-extra", "sights": {
+      "de": [
+            {
+                  "name": "Náttúrugripasafnið",
+                  "text": "Das Naturkundemuseum in Neskaupstaður zeigt die lokale Flora und Fauna.",
+                  "category": "museum",
+                  "coords": [
+                        -13.68878,
+                        65.147332
+                  ]
+            },
+            {
+                  "name": "Norðfjarðarvíti",
+                  "text": "Ein Leuchtturm in Neskaupstaður, der Schiffen an der Ostküste Islands den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.655043,
+                        65.149752
+                  ]
+            },
+            {
+                  "name": "Fólkvangur Neskaupstaðar",
+                  "text": "Ein Naturschutzgebiet in Neskaupstaður mit Wanderwegen und schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -13.638931,
+                        65.170839
+                  ]
+            },
+            {
+                  "name": "Lokatindur",
+                  "text": "Ein markanter Berggipfel in der Nähe von Neskaupstaður.",
+                  "category": "natural",
+                  "coords": [
+                        -13.728833,
+                        65.168185
+                  ]
+            },
+            {
+                  "name": "Páskahellir",
+                  "text": "Eine natürliche Höhle am Meer in Neskaupstaður, bekannt für ihre geologischen Formationen.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.640723,
+                        65.157526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Náttúrugripasafnið",
+                  "text": "Természettudományi múzeum Neskaupstaðurban, amely a helyi élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -13.68878,
+                        65.147332
+                  ]
+            },
+            {
+                  "name": "Norðfjarðarvíti",
+                  "text": "Világítótorony Neskaupstaðurban, amely Izland keleti partjainál segíti a hajózást.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.655043,
+                        65.149752
+                  ]
+            },
+            {
+                  "name": "Fólkvangur Neskaupstaðar",
+                  "text": "Természetvédelmi terület Neskaupstaðurban túraútvonalakkal és szép tájakkal.",
+                  "category": "natural",
+                  "coords": [
+                        -13.638931,
+                        65.170839
+                  ]
+            },
+            {
+                  "name": "Lokatindur",
+                  "text": "Jellegzetes hegycsúcs Neskaupstaður közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -13.728833,
+                        65.168185
+                  ]
+            },
+            {
+                  "name": "Páskahellir",
+                  "text": "Természetes tengerparti barlang Neskaupstaðurban, amely geológiai képződményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.640723,
+                        65.157526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Náttúrugripasafnið",
+                  "text": "Muzeul de istorie naturală din Neskaupstaður prezintă flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        -13.68878,
+                        65.147332
+                  ]
+            },
+            {
+                  "name": "Norðfjarðarvíti",
+                  "text": "Un far în Neskaupstaður care ghidează navele pe coasta de est a Islandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.655043,
+                        65.149752
+                  ]
+            },
+            {
+                  "name": "Fólkvangur Neskaupstaðar",
+                  "text": "O rezervație naturală în Neskaupstaður cu trasee de drumeție și peisaje frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -13.638931,
+                        65.170839
+                  ]
+            },
+            {
+                  "name": "Lokatindur",
+                  "text": "Un vârf muntos proeminent în apropiere de Neskaupstaður.",
+                  "category": "natural",
+                  "coords": [
+                        -13.728833,
+                        65.168185
+                  ]
+            },
+            {
+                  "name": "Páskahellir",
+                  "text": "O peșteră naturală la malul mării în Neskaupstaður, cunoscută pentru formațiunile sale geologice.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.640723,
+                        65.157526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Náttúrugripasafnið",
+                  "text": "The natural history museum in Neskaupstaður showcasing local flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        -13.68878,
+                        65.147332
+                  ]
+            },
+            {
+                  "name": "Norðfjarðarvíti",
+                  "text": "A lighthouse in Neskaupstaður guiding ships on Iceland's east coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.655043,
+                        65.149752
+                  ]
+            },
+            {
+                  "name": "Fólkvangur Neskaupstaðar",
+                  "text": "A nature reserve in Neskaupstaður featuring hiking trails and scenic landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -13.638931,
+                        65.170839
+                  ]
+            },
+            {
+                  "name": "Lokatindur",
+                  "text": "A prominent mountain peak located near Neskaupstaður.",
+                  "category": "natural",
+                  "coords": [
+                        -13.728833,
+                        65.168185
+                  ]
+            },
+            {
+                  "name": "Páskahellir",
+                  "text": "A natural seaside cave in Neskaupstaður known for its geological formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -13.640723,
+                        65.157526
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IS-001",
     coords: [-13.6872, 65.1517],

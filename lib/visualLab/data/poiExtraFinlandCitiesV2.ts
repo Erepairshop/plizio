@@ -355,6 +355,159 @@ export const finlandCitiesV2: POI[] = [
                         25.081835,
                         60.466387
                   ]
+            },
+            {
+                  "name": "Ainola",
+                  "text": "Das ehemalige Wohnhaus des Komponisten Jean Sibelius, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        25.087398,
+                        60.453644
+                  ]
+            },
+            {
+                  "name": "Suviranta",
+                  "text": "Ehemaliges Atelierhaus des Malers Eero Järnefelt in Järvenpää.",
+                  "category": "museum",
+                  "coords": [
+                        25.079421,
+                        60.452115
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "Öffentlicher Badestrand in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063301,
+                        60.454729
+                  ]
+            },
+            {
+                  "name": "Järvenpään taidemuseo",
+                  "text": "Kunstmuseum mit Werken von Eero Järnefelt und Venny Soldan-Brofeldt.",
+                  "category": "museum",
+                  "coords": [
+                        25.092922,
+                        60.474627
+                  ]
+            },
+            {
+                  "name": "Järvenpään teatteri",
+                  "text": "Lokales Theater in der Stadt Järvenpää.",
+                  "category": "cultural",
+                  "coords": [
+                        25.093933,
+                        60.47425
+                  ]
+            },
+            {
+                  "name": "Ahola",
+                  "text": "Ehemaliges Wohnhaus des Schriftstellers Juhani Aho und der Malerin Venny Soldan-Brofeldt.",
+                  "category": "museum",
+                  "coords": [
+                        25.081145,
+                        60.456098
+                  ]
+            },
+            {
+                  "name": "Villa Kokkonen",
+                  "text": "Ehemaliges Wohnhaus des Komponisten Joonas Kokkonen, entworfen von Alvar Aalto.",
+                  "category": "museum",
+                  "coords": [
+                        25.05707,
+                        60.457475
+                  ]
+            },
+            {
+                  "name": "Järvenpään kesäteatteri",
+                  "text": "Sommertheater mit Freilichtaufführungen in Järvenpää.",
+                  "category": "cultural",
+                  "coords": [
+                        25.062844,
+                        60.455696
+                  ]
+            },
+            {
+                  "name": "Pietilän ketosukkulakoi",
+                  "text": "Kleines Naturschutzgebiet in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.125224,
+                        60.497225
+                  ]
+            },
+            {
+                  "name": "Tuusulanjärven luonnonsuojelualue",
+                  "text": "Naturschutzgebiet am Tuusulanjärvi-See in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.06713,
+                        60.458934
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen jalopuulehto",
+                  "text": "Naturschutzgebiet mit edlen Laubbäumen in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.060443,
+                        60.457563
+                  ]
+            },
+            {
+                  "name": "Lintutorni",
+                  "text": "Vogelbeobachtungsturm mit Blick auf die umliegende Natur in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.077334,
+                        60.468255
+                  ]
+            },
+            {
+                  "name": "Kotipizza",
+                  "text": "Ein Denkmal oder lokales Wahrzeichen in der Stadt Järvenpää.",
+                  "category": "historical",
+                  "coords": [
+                        25.105004,
+                        60.478709
+                  ]
+            },
+            {
+                  "name": "Kolmisointu",
+                  "text": "Eine Skulptur von Rolf Westphal, die musikalische Harmonie darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        25.083727,
+                        60.465787
+                  ]
+            },
+            {
+                  "name": "Karjalan patsas",
+                  "text": "Ein Denkmal in Järvenpää, das dem karelischen Erbe gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.105257,
+                        60.492585
+                  ]
+            },
+            {
+                  "name": "Kerava-Järvenpään adventtiseurakunta",
+                  "text": "Adventgemeinde für die Gebiete Kerava und Järvenpää.",
+                  "category": "religious",
+                  "coords": [
+                        25.095949,
+                        60.468677
+                  ]
+            },
+            {
+                  "name": "Järvenpään vapaaseurakunta Arkki",
+                  "text": "Freikirchliche Gemeinde in Järvenpää.",
+                  "category": "religious",
+                  "coords": [
+                        25.081128,
+                        60.479812
+                  ]
             }
       ],
       "hu": [
@@ -383,6 +536,159 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.081835,
                         60.466387
+                  ]
+            },
+            {
+                  "name": "Ainola",
+                  "text": "Jean Sibelius zeneszerző egykori otthona, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        25.087398,
+                        60.453644
+                  ]
+            },
+            {
+                  "name": "Suviranta",
+                  "text": "Eero Järnefelt festőművész egykori műteremháza Järvenpääben.",
+                  "category": "museum",
+                  "coords": [
+                        25.079421,
+                        60.452115
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "Nyilvános strand Järvenpääben.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063301,
+                        60.454729
+                  ]
+            },
+            {
+                  "name": "Järvenpään taidemuseo",
+                  "text": "Művészeti múzeum, amely Eero Järnefelt és Venny Soldan-Brofeldt műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.092922,
+                        60.474627
+                  ]
+            },
+            {
+                  "name": "Järvenpään teatteri",
+                  "text": "Helyi színház Järvenpää városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.093933,
+                        60.47425
+                  ]
+            },
+            {
+                  "name": "Ahola",
+                  "text": "Juhani Aho író és Venny Soldan-Brofeldt festőművész egykori otthona.",
+                  "category": "museum",
+                  "coords": [
+                        25.081145,
+                        60.456098
+                  ]
+            },
+            {
+                  "name": "Villa Kokkonen",
+                  "text": "Joonas Kokkonen zeneszerző egykori otthona, amelyet Alvar Aalto tervezett.",
+                  "category": "museum",
+                  "coords": [
+                        25.05707,
+                        60.457475
+                  ]
+            },
+            {
+                  "name": "Järvenpään kesäteatteri",
+                  "text": "Szabadtéri előadásokat tartó nyári színház Järvenpääben.",
+                  "category": "cultural",
+                  "coords": [
+                        25.062844,
+                        60.455696
+                  ]
+            },
+            {
+                  "name": "Pietilän ketosukkulakoi",
+                  "text": "Kis természetvédelmi terület Järvenpääben.",
+                  "category": "natural",
+                  "coords": [
+                        25.125224,
+                        60.497225
+                  ]
+            },
+            {
+                  "name": "Tuusulanjärven luonnonsuojelualue",
+                  "text": "Természetvédelmi terület a Tuusulanjärvi-tónál Järvenpääben.",
+                  "category": "natural",
+                  "coords": [
+                        25.06713,
+                        60.458934
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen jalopuulehto",
+                  "text": "Nemes lombos erdőket bemutató természetvédelmi terület Järvenpääben.",
+                  "category": "natural",
+                  "coords": [
+                        25.060443,
+                        60.457563
+                  ]
+            },
+            {
+                  "name": "Lintutorni",
+                  "text": "Madármegfigyelő torony, amely kilátást nyújt a környező természetre Järvenpääben.",
+                  "category": "natural",
+                  "coords": [
+                        25.077334,
+                        60.468255
+                  ]
+            },
+            {
+                  "name": "Kotipizza",
+                  "text": "Emlékmű vagy helyi jellegzetesség Järvenpää városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.105004,
+                        60.478709
+                  ]
+            },
+            {
+                  "name": "Kolmisointu",
+                  "text": "Rolf Westphal szobra, amely a zenei harmóniát jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        25.083727,
+                        60.465787
+                  ]
+            },
+            {
+                  "name": "Karjalan patsas",
+                  "text": "A karjalai örökségnek szentelt emlékmű Järvenpääben.",
+                  "category": "historical",
+                  "coords": [
+                        25.105257,
+                        60.492585
+                  ]
+            },
+            {
+                  "name": "Kerava-Järvenpään adventtiseurakunta",
+                  "text": "Kerava és Järvenpää környékét kiszolgáló adventista gyülekezet.",
+                  "category": "religious",
+                  "coords": [
+                        25.095949,
+                        60.468677
+                  ]
+            },
+            {
+                  "name": "Järvenpään vapaaseurakunta Arkki",
+                  "text": "Szabadegyházi gyülekezet Järvenpääben.",
+                  "category": "religious",
+                  "coords": [
+                        25.081128,
+                        60.479812
                   ]
             }
       ],
@@ -413,6 +719,159 @@ export const finlandCitiesV2: POI[] = [
                         25.081835,
                         60.466387
                   ]
+            },
+            {
+                  "name": "Ainola",
+                  "text": "Fosta locuință a compozitorului Jean Sibelius, în prezent muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        25.087398,
+                        60.453644
+                  ]
+            },
+            {
+                  "name": "Suviranta",
+                  "text": "Fosta casă-atelier a pictorului Eero Järnefelt din Järvenpää.",
+                  "category": "museum",
+                  "coords": [
+                        25.079421,
+                        60.452115
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "Plajă publică situată în Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063301,
+                        60.454729
+                  ]
+            },
+            {
+                  "name": "Järvenpään taidemuseo",
+                  "text": "Muzeu de artă care expune lucrări de Eero Järnefelt și Venny Soldan-Brofeldt.",
+                  "category": "museum",
+                  "coords": [
+                        25.092922,
+                        60.474627
+                  ]
+            },
+            {
+                  "name": "Järvenpään teatteri",
+                  "text": "Teatru local din orașul Järvenpää.",
+                  "category": "cultural",
+                  "coords": [
+                        25.093933,
+                        60.47425
+                  ]
+            },
+            {
+                  "name": "Ahola",
+                  "text": "Fosta casă a scriitorului Juhani Aho și a pictoriței Venny Soldan-Brofeldt.",
+                  "category": "museum",
+                  "coords": [
+                        25.081145,
+                        60.456098
+                  ]
+            },
+            {
+                  "name": "Villa Kokkonen",
+                  "text": "Fosta casă a compozitorului Joonas Kokkonen, proiectată de Alvar Aalto.",
+                  "category": "museum",
+                  "coords": [
+                        25.05707,
+                        60.457475
+                  ]
+            },
+            {
+                  "name": "Järvenpään kesäteatteri",
+                  "text": "Teatru de vară care oferă spectacole în aer liber în Järvenpää.",
+                  "category": "cultural",
+                  "coords": [
+                        25.062844,
+                        60.455696
+                  ]
+            },
+            {
+                  "name": "Pietilän ketosukkulakoi",
+                  "text": "Mică rezervație naturală situată în Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.125224,
+                        60.497225
+                  ]
+            },
+            {
+                  "name": "Tuusulanjärven luonnonsuojelualue",
+                  "text": "Rezervație naturală lângă lacul Tuusulanjärvi din Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.06713,
+                        60.458934
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen jalopuulehto",
+                  "text": "Rezervație naturală cu foioase nobile în Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.060443,
+                        60.457563
+                  ]
+            },
+            {
+                  "name": "Lintutorni",
+                  "text": "Turn de observare a păsărilor care oferă vedere spre natura înconjurătoare în Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.077334,
+                        60.468255
+                  ]
+            },
+            {
+                  "name": "Kotipizza",
+                  "text": "Un monument sau punct de reper local în orașul Järvenpää.",
+                  "category": "historical",
+                  "coords": [
+                        25.105004,
+                        60.478709
+                  ]
+            },
+            {
+                  "name": "Kolmisointu",
+                  "text": "O sculptură de Rolf Westphal care reprezintă armonia muzicală.",
+                  "category": "historical",
+                  "coords": [
+                        25.083727,
+                        60.465787
+                  ]
+            },
+            {
+                  "name": "Karjalan patsas",
+                  "text": "Un monument în Järvenpää dedicat moștenirii kareliene.",
+                  "category": "historical",
+                  "coords": [
+                        25.105257,
+                        60.492585
+                  ]
+            },
+            {
+                  "name": "Kerava-Järvenpään adventtiseurakunta",
+                  "text": "Biserică adventistă care deservește zonele Kerava și Järvenpää.",
+                  "category": "religious",
+                  "coords": [
+                        25.095949,
+                        60.468677
+                  ]
+            },
+            {
+                  "name": "Järvenpään vapaaseurakunta Arkki",
+                  "text": "Congregație a bisericii libere situată în Järvenpää.",
+                  "category": "religious",
+                  "coords": [
+                        25.081128,
+                        60.479812
+                  ]
             }
       ],
       "en": [
@@ -441,6 +900,159 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.081835,
                         60.466387
+                  ]
+            },
+            {
+                  "name": "Ainola",
+                  "text": "The former home of composer Jean Sibelius, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        25.087398,
+                        60.453644
+                  ]
+            },
+            {
+                  "name": "Suviranta",
+                  "text": "Former studio home of the painter Eero Järnefelt in Järvenpää.",
+                  "category": "museum",
+                  "coords": [
+                        25.079421,
+                        60.452115
+                  ]
+            },
+            {
+                  "name": "Uimaranta",
+                  "text": "Public swimming beach located in Järvenpää.",
+                  "category": "recreational",
+                  "coords": [
+                        25.063301,
+                        60.454729
+                  ]
+            },
+            {
+                  "name": "Järvenpään taidemuseo",
+                  "text": "Art museum showcasing works by Eero Järnefelt and Venny Soldan-Brofeldt.",
+                  "category": "museum",
+                  "coords": [
+                        25.092922,
+                        60.474627
+                  ]
+            },
+            {
+                  "name": "Järvenpään teatteri",
+                  "text": "Local theatre venue in the city of Järvenpää.",
+                  "category": "cultural",
+                  "coords": [
+                        25.093933,
+                        60.47425
+                  ]
+            },
+            {
+                  "name": "Ahola",
+                  "text": "Former home of author Juhani Aho and painter Venny Soldan-Brofeldt.",
+                  "category": "museum",
+                  "coords": [
+                        25.081145,
+                        60.456098
+                  ]
+            },
+            {
+                  "name": "Villa Kokkonen",
+                  "text": "Former home of composer Joonas Kokkonen, designed by Alvar Aalto.",
+                  "category": "museum",
+                  "coords": [
+                        25.05707,
+                        60.457475
+                  ]
+            },
+            {
+                  "name": "Järvenpään kesäteatteri",
+                  "text": "Summer theatre performing outdoor plays in Järvenpää.",
+                  "category": "cultural",
+                  "coords": [
+                        25.062844,
+                        60.455696
+                  ]
+            },
+            {
+                  "name": "Pietilän ketosukkulakoi",
+                  "text": "Small nature reserve area located in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.125224,
+                        60.497225
+                  ]
+            },
+            {
+                  "name": "Tuusulanjärven luonnonsuojelualue",
+                  "text": "Protected nature area by Lake Tuusulanjärvi in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.06713,
+                        60.458934
+                  ]
+            },
+            {
+                  "name": "Vanhankylänniemen jalopuulehto",
+                  "text": "Nature reserve featuring broad-leaved deciduous trees in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.060443,
+                        60.457563
+                  ]
+            },
+            {
+                  "name": "Lintutorni",
+                  "text": "Birdwatching tower offering views of the surrounding nature in Järvenpää.",
+                  "category": "natural",
+                  "coords": [
+                        25.077334,
+                        60.468255
+                  ]
+            },
+            {
+                  "name": "Kotipizza",
+                  "text": "A monument or local landmark in the city of Järvenpää.",
+                  "category": "historical",
+                  "coords": [
+                        25.105004,
+                        60.478709
+                  ]
+            },
+            {
+                  "name": "Kolmisointu",
+                  "text": "A sculpture by Rolf Westphal representing musical harmony.",
+                  "category": "historical",
+                  "coords": [
+                        25.083727,
+                        60.465787
+                  ]
+            },
+            {
+                  "name": "Karjalan patsas",
+                  "text": "A monument in Järvenpää dedicated to the Karelian heritage.",
+                  "category": "historical",
+                  "coords": [
+                        25.105257,
+                        60.492585
+                  ]
+            },
+            {
+                  "name": "Kerava-Järvenpään adventtiseurakunta",
+                  "text": "Seventh-day Adventist church serving the Kerava and Järvenpää areas.",
+                  "category": "religious",
+                  "coords": [
+                        25.095949,
+                        60.468677
+                  ]
+            },
+            {
+                  "name": "Järvenpään vapaaseurakunta Arkki",
+                  "text": "Free church congregation located in Järvenpää.",
+                  "category": "religious",
+                  "coords": [
+                        25.081128,
+                        60.479812
                   ]
             }
       ]
@@ -489,7 +1101,628 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-jarvenpaa-cities-v2.webp",
   },
   {
-    id: "finland-kokkola-cities-v2",
+    id: "finland-kokkola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "Das Stadttheater von Kokkola.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "Ein Theatergebäude in Kokkola.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlundin museo",
+                  "text": "Ein Kunst- und Geschichtsmuseum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "Ein Heimatmuseum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "Ein Feuerwehrmuseum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "Ein Strand in Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "Ein naturwissenschaftliches Museum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "Ein lokaler Strand in Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "Ein Denkmal in Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "Ein Herrenhaus in Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "Ein historisches Herrenhaus in Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "Eine Pfingstkirche in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "Eine Baptistengemeinde in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "Eine Methodistengemeinde in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "Ein Gebetshaus in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "Ein religiöses Gebäude in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "Englantilainen barkassi",
+                  "text": "Ein historisches britisches Boot in Kokkola.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "Kokkola városi színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "Színházi épület Kokkola városában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlundin museo",
+                  "text": "Művészeti és történelmi múzeum Kokkolában.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "Helytörténeti múzeum Kokkolában.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "Tűzoltómúzeum Kokkolában.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "Strand Kokkola városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "Természettudományi múzeum Kokkolában.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "Helyi strand Kokkolában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "Emlékmű Kokkola városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "Kúria Kokkola városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "Történelmi kúria Kokkolában.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "Pünkösdi templom Kokkolában.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "Baptista gyülekezet Kokkolában.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "Metodista gyülekezet Kokkolában.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "Imaház Kokkola városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "Vallási épület Kokkolában.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "Englantilainen barkassi",
+                  "text": "Történelmi angol csónak Kokkolában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "Teatrul municipal din Kokkola.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "O clădire de teatru în Kokkola.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlundin museo",
+                  "text": "Un muzeu de artă și istorie în Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală în Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "Un muzeu al pompierilor în Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "O plajă în Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "Un muzeu de științe naturale în Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "O plajă locală în Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "Un monument în Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "Un conac în Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "Un conac istoric în Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "O biserică penticostală în Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "O comunitate baptistă în Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "O comunitate metodistă în Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "O casă de rugăciune în Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "O clădire religioasă în Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "Englantilainen barkassi",
+                  "text": "O barcă englezească istorică în Kokkola.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "The city theatre of Kokkola.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "A theatre building in Kokkola.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlund museum",
+                  "text": "An art and history museum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "A local history museum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "A fire museum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Vanhasatamanlahden uimaranta",
+                  "text": "A beach in Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.113594,
+                        63.858064
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "A natural science museum in Kokkola.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Suntinsuun uimaranta",
+                  "text": "A local beach in Kokkola.",
+                  "category": "recreational",
+                  "coords": [
+                        23.110867,
+                        63.854784
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "A monument in Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "A manor house in Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "A historic manor house in Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "A Pentecostal church in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "A Baptist congregation in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "A Methodist congregation in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "A prayer house in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "A religious building in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "English longboat",
+                  "text": "A historic English boat in Kokkola.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kokkola", hu: "Kokkola", ro: "Kokkola", en: "Kokkola" },
@@ -634,6 +1867,159 @@ export const finlandCitiesV2: POI[] = [
                         25.171834,
                         60.398759
                   ]
+            },
+            {
+                  "name": "Heikkilän kotiseutumuseo",
+                  "text": "Heimatmuseum in Kerava, das das traditionelle bäuerliche Leben präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.1127,
+                        60.406429
+                  ]
+            },
+            {
+                  "name": "Keravan teatteritalo",
+                  "text": "Theatergebäude in Kerava, das Raum für kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        25.107536,
+                        60.400859
+                  ]
+            },
+            {
+                  "name": "Kerava-sali",
+                  "text": "Konzert- und Veranstaltungshalle im Gebäude des Gymnasiums von Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.100858,
+                        60.40533
+                  ]
+            },
+            {
+                  "name": "Vekara Teatteriyhdistys ry",
+                  "text": "Lokaler Theaterverein, der in Kerava Theaterstücke produziert.",
+                  "category": "cultural",
+                  "coords": [
+                        25.099408,
+                        60.407079
+                  ]
+            },
+            {
+                  "name": "Keravan Taide- ja museokeskus Sinkka",
+                  "text": "Kunst- und Museumszentrum in Kerava mit verschiedenen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        25.108678,
+                        60.400857
+                  ]
+            },
+            {
+                  "name": "Keravan maauimala",
+                  "text": "Freibad und Freizeiteinrichtung in Kerava.",
+                  "category": "recreational",
+                  "coords": [
+                        25.093155,
+                        60.407823
+                  ]
+            },
+            {
+                  "name": "Muinaisjäännökset, hautaröykkiöt 5kpl",
+                  "text": "Archäologische Stätte in Kerava mit fünf antiken Grabhügeln.",
+                  "category": "historical",
+                  "coords": [
+                        25.138668,
+                        60.400078
+                  ]
+            },
+            {
+                  "name": "Haukkavuoren luonnonsuojelualue",
+                  "text": "Naturschutzgebiet in Kerava, bekannt für sein felsiges Gelände.",
+                  "category": "natural",
+                  "coords": [
+                        25.134273,
+                        60.420888
+                  ]
+            },
+            {
+                  "name": "Keravan kiviholvisilta",
+                  "text": "Eine historische Steinbogenbrücke, die den Fluss Keravanjoki überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.123404,
+                        60.408797
+                  ]
+            },
+            {
+                  "name": "Keravan musiikkiopisto",
+                  "text": "Musikinstitut, das Ausbildung und kulturelle Veranstaltungen in Kerava anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104404,
+                        60.403356
+                  ]
+            },
+            {
+                  "name": "Lapilan kartano",
+                  "text": "Historisches Herrenhaus in Kerava, das heute für verschiedene Veranstaltungen genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        25.114445,
+                        60.403719
+                  ]
+            },
+            {
+                  "name": "Keravan kuvataidekoulu",
+                  "text": "Schule für Bildende Künste für Kinder und Jugendliche in Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.102898,
+                        60.404335
+                  ]
+            },
+            {
+                  "name": "Keravan kartano",
+                  "text": "Historisches Herrenhaus Kerava, auch bekannt als Humleberg.",
+                  "category": "historical",
+                  "coords": [
+                        25.119656,
+                        60.41011
+                  ]
+            },
+            {
+                  "name": "Muistomerkkiveturi Hv3",
+                  "text": "Eine in Kerava ausgestellte Denkmal-Dampflokomotive der Baureihe Hv3.",
+                  "category": "landmark",
+                  "coords": [
+                        25.106762,
+                        60.40422
+                  ]
+            },
+            {
+                  "name": "Keravan helluntaiseurakunta",
+                  "text": "Pfingstgemeinde in der Stadt Kerava.",
+                  "category": "religious",
+                  "coords": [
+                        25.108141,
+                        60.402126
+                  ]
+            },
+            {
+                  "name": "Keravan kirkko",
+                  "text": "Eine moderne lutherische Kirche in Kerava, fertiggestellt im Jahr 1963.",
+                  "category": "religious",
+                  "coords": [
+                        25.111829,
+                        60.40205
+                  ]
+            },
+            {
+                  "name": "Etelä-Keravan vesitorni",
+                  "text": "Ein markanter Wasserturm im Süden von Kerava mit markantem Design.",
+                  "category": "tower",
+                  "coords": [
+                        25.113994,
+                        60.38806
+                  ]
             }
       ],
       "hu": [
@@ -644,6 +2030,159 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.171834,
                         60.398759
+                  ]
+            },
+            {
+                  "name": "Heikkilän kotiseutumuseo",
+                  "text": "Helytörténeti múzeum Keravában, amely a hagyományos paraszti életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.1127,
+                        60.406429
+                  ]
+            },
+            {
+                  "name": "Keravan teatteritalo",
+                  "text": "Színházépület Keravában, amely kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        25.107536,
+                        60.400859
+                  ]
+            },
+            {
+                  "name": "Kerava-sali",
+                  "text": "Koncert- és rendezvényterem a keravai gimnázium épületében.",
+                  "category": "cultural",
+                  "coords": [
+                        25.100858,
+                        60.40533
+                  ]
+            },
+            {
+                  "name": "Vekara Teatteriyhdistys ry",
+                  "text": "Helyi színházi egyesület, amely előadásokat hoz létre Keravában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.099408,
+                        60.407079
+                  ]
+            },
+            {
+                  "name": "Keravan Taide- ja museokeskus Sinkka",
+                  "text": "Keravai művészeti és múzeumi központ, amely különféle kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        25.108678,
+                        60.400857
+                  ]
+            },
+            {
+                  "name": "Keravan maauimala",
+                  "text": "Szabadtéri úszómedence és szabadidős létesítmény Keravában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.093155,
+                        60.407823
+                  ]
+            },
+            {
+                  "name": "Muinaisjäännökset, hautaröykkiöt 5kpl",
+                  "text": "Régészeti lelőhely Keravában, amely öt ősi sírhalmot foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        25.138668,
+                        60.400078
+                  ]
+            },
+            {
+                  "name": "Haukkavuoren luonnonsuojelualue",
+                  "text": "Keravai természetvédelmi terület, amely sziklás terepéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.134273,
+                        60.420888
+                  ]
+            },
+            {
+                  "name": "Keravan kiviholvisilta",
+                  "text": "Történelmi kőboltozatos híd, amely a Keravanjoki folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        25.123404,
+                        60.408797
+                  ]
+            },
+            {
+                  "name": "Keravan musiikkiopisto",
+                  "text": "Zenei intézet, amely oktatást és kulturális eseményeket kínál Keravában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104404,
+                        60.403356
+                  ]
+            },
+            {
+                  "name": "Lapilan kartano",
+                  "text": "Történelmi kúria Keravában, amelyet jelenleg különféle rendezvényekre használnak.",
+                  "category": "historical",
+                  "coords": [
+                        25.114445,
+                        60.403719
+                  ]
+            },
+            {
+                  "name": "Keravan kuvataidekoulu",
+                  "text": "Gyermekek és fiatalok számára fenntartott képzőművészeti iskola Keravában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.102898,
+                        60.404335
+                  ]
+            },
+            {
+                  "name": "Keravan kartano",
+                  "text": "Történelmi Kerava kúria, más néven Humleberg.",
+                  "category": "historical",
+                  "coords": [
+                        25.119656,
+                        60.41011
+                  ]
+            },
+            {
+                  "name": "Muistomerkkiveturi Hv3",
+                  "text": "Keravában kiállított Hv3 sorozatú gőzmozdony-emlékmű.",
+                  "category": "landmark",
+                  "coords": [
+                        25.106762,
+                        60.40422
+                  ]
+            },
+            {
+                  "name": "Keravan helluntaiseurakunta",
+                  "text": "Pünkösdi gyülekezet Kerava városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.108141,
+                        60.402126
+                  ]
+            },
+            {
+                  "name": "Keravan kirkko",
+                  "text": "Modern evangélikus templom Keravában, amely 1963-ban készült el.",
+                  "category": "religious",
+                  "coords": [
+                        25.111829,
+                        60.40205
+                  ]
+            },
+            {
+                  "name": "Etelä-Keravan vesitorni",
+                  "text": "Jellegzetes víztorony Kerava déli részén, egyedi kialakítással.",
+                  "category": "tower",
+                  "coords": [
+                        25.113994,
+                        60.38806
                   ]
             }
       ],
@@ -656,6 +2195,159 @@ export const finlandCitiesV2: POI[] = [
                         25.171834,
                         60.398759
                   ]
+            },
+            {
+                  "name": "Heikkilän kotiseutumuseo",
+                  "text": "Muzeu de istorie locală din Kerava care prezintă viața tradițională țărănească.",
+                  "category": "museum",
+                  "coords": [
+                        25.1127,
+                        60.406429
+                  ]
+            },
+            {
+                  "name": "Keravan teatteritalo",
+                  "text": "Clădire de teatru care oferă un spațiu pentru spectacole culturale în Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.107536,
+                        60.400859
+                  ]
+            },
+            {
+                  "name": "Kerava-sali",
+                  "text": "Sală de concerte și evenimente situată în clădirea liceului din Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.100858,
+                        60.40533
+                  ]
+            },
+            {
+                  "name": "Vekara Teatteriyhdistys ry",
+                  "text": "Asociație teatrală locală care produce piese de teatru în Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.099408,
+                        60.407079
+                  ]
+            },
+            {
+                  "name": "Keravan Taide- ja museokeskus Sinkka",
+                  "text": "Centru de artă și muzeu din Kerava care găzduiește diverse expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        25.108678,
+                        60.400857
+                  ]
+            },
+            {
+                  "name": "Keravan maauimala",
+                  "text": "Piscină în aer liber și facilitate de recreere în Kerava.",
+                  "category": "recreational",
+                  "coords": [
+                        25.093155,
+                        60.407823
+                  ]
+            },
+            {
+                  "name": "Muinaisjäännökset, hautaröykkiöt 5kpl",
+                  "text": "Sit arheologic în Kerava care cuprinde cinci tumuli funerari antici.",
+                  "category": "historical",
+                  "coords": [
+                        25.138668,
+                        60.400078
+                  ]
+            },
+            {
+                  "name": "Haukkavuoren luonnonsuojelualue",
+                  "text": "Rezervație naturală în Kerava, cunoscută pentru terenul său stâncos.",
+                  "category": "natural",
+                  "coords": [
+                        25.134273,
+                        60.420888
+                  ]
+            },
+            {
+                  "name": "Keravan kiviholvisilta",
+                  "text": "Un pod istoric din piatră cu boltă care traversează râul Keravanjoki.",
+                  "category": "landmark",
+                  "coords": [
+                        25.123404,
+                        60.408797
+                  ]
+            },
+            {
+                  "name": "Keravan musiikkiopisto",
+                  "text": "Institut de muzică care oferă educație și evenimente culturale în Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104404,
+                        60.403356
+                  ]
+            },
+            {
+                  "name": "Lapilan kartano",
+                  "text": "Conac istoric din Kerava, utilizat în prezent pentru diverse evenimente.",
+                  "category": "historical",
+                  "coords": [
+                        25.114445,
+                        60.403719
+                  ]
+            },
+            {
+                  "name": "Keravan kuvataidekoulu",
+                  "text": "Școală de arte vizuale pentru copii și tineri în Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.102898,
+                        60.404335
+                  ]
+            },
+            {
+                  "name": "Keravan kartano",
+                  "text": "Conacul istoric Kerava, cunoscut și sub numele de Humleberg.",
+                  "category": "historical",
+                  "coords": [
+                        25.119656,
+                        60.41011
+                  ]
+            },
+            {
+                  "name": "Muistomerkkiveturi Hv3",
+                  "text": "O locomotivă cu abur memorială din clasa Hv3 expusă în Kerava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.106762,
+                        60.40422
+                  ]
+            },
+            {
+                  "name": "Keravan helluntaiseurakunta",
+                  "text": "Congregație penticostală în orașul Kerava.",
+                  "category": "religious",
+                  "coords": [
+                        25.108141,
+                        60.402126
+                  ]
+            },
+            {
+                  "name": "Keravan kirkko",
+                  "text": "O biserică luterană modernă în Kerava, finalizată în 1963.",
+                  "category": "religious",
+                  "coords": [
+                        25.111829,
+                        60.40205
+                  ]
+            },
+            {
+                  "name": "Etelä-Keravan vesitorni",
+                  "text": "Un turn de apă proeminent în sudul orașului Kerava, cu un design distinctiv.",
+                  "category": "tower",
+                  "coords": [
+                        25.113994,
+                        60.38806
+                  ]
             }
       ],
       "en": [
@@ -666,6 +2358,159 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.171834,
                         60.398759
+                  ]
+            },
+            {
+                  "name": "Heikkilän kotiseutumuseo",
+                  "text": "Local history museum in Kerava presenting traditional peasant life.",
+                  "category": "museum",
+                  "coords": [
+                        25.1127,
+                        60.406429
+                  ]
+            },
+            {
+                  "name": "Keravan teatteritalo",
+                  "text": "Theatre building providing a venue for cultural performances in Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.107536,
+                        60.400859
+                  ]
+            },
+            {
+                  "name": "Kerava-sali",
+                  "text": "Concert and event hall located within the Kerava High School building.",
+                  "category": "cultural",
+                  "coords": [
+                        25.100858,
+                        60.40533
+                  ]
+            },
+            {
+                  "name": "Vekara Teatteriyhdistys ry",
+                  "text": "Local theatre association producing plays in Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.099408,
+                        60.407079
+                  ]
+            },
+            {
+                  "name": "Keravan Taide- ja museokeskus Sinkka",
+                  "text": "Art and museum center in Kerava hosting various exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        25.108678,
+                        60.400857
+                  ]
+            },
+            {
+                  "name": "Keravan maauimala",
+                  "text": "Outdoor swimming pool and recreational facility in Kerava.",
+                  "category": "recreational",
+                  "coords": [
+                        25.093155,
+                        60.407823
+                  ]
+            },
+            {
+                  "name": "Muinaisjäännökset, hautaröykkiöt 5kpl",
+                  "text": "Archaeological site in Kerava featuring five ancient burial cairns.",
+                  "category": "historical",
+                  "coords": [
+                        25.138668,
+                        60.400078
+                  ]
+            },
+            {
+                  "name": "Haukkavuoren luonnonsuojelualue",
+                  "text": "Nature reserve area in Kerava known for its rocky terrain.",
+                  "category": "natural",
+                  "coords": [
+                        25.134273,
+                        60.420888
+                  ]
+            },
+            {
+                  "name": "Keravan kiviholvisilta",
+                  "text": "A historic stone arch bridge crossing the Keravanjoki river.",
+                  "category": "landmark",
+                  "coords": [
+                        25.123404,
+                        60.408797
+                  ]
+            },
+            {
+                  "name": "Keravan musiikkiopisto",
+                  "text": "Music institute providing education and cultural events in Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.104404,
+                        60.403356
+                  ]
+            },
+            {
+                  "name": "Lapilan kartano",
+                  "text": "Historic manor house in Kerava, currently used for various events.",
+                  "category": "historical",
+                  "coords": [
+                        25.114445,
+                        60.403719
+                  ]
+            },
+            {
+                  "name": "Keravan kuvataidekoulu",
+                  "text": "Visual arts school for children and youth in Kerava.",
+                  "category": "cultural",
+                  "coords": [
+                        25.102898,
+                        60.404335
+                  ]
+            },
+            {
+                  "name": "Keravan kartano",
+                  "text": "Historic Kerava Manor, also known as Humleberg.",
+                  "category": "historical",
+                  "coords": [
+                        25.119656,
+                        60.41011
+                  ]
+            },
+            {
+                  "name": "Muistomerkkiveturi Hv3",
+                  "text": "A memorial steam locomotive of the Hv3 class displayed in Kerava.",
+                  "category": "landmark",
+                  "coords": [
+                        25.106762,
+                        60.40422
+                  ]
+            },
+            {
+                  "name": "Keravan helluntaiseurakunta",
+                  "text": "Pentecostal church congregation in the city of Kerava.",
+                  "category": "religious",
+                  "coords": [
+                        25.108141,
+                        60.402126
+                  ]
+            },
+            {
+                  "name": "Keravan kirkko",
+                  "text": "A modern Lutheran church in Kerava, completed in 1963.",
+                  "category": "religious",
+                  "coords": [
+                        25.111829,
+                        60.40205
+                  ]
+            },
+            {
+                  "name": "Etelä-Keravan vesitorni",
+                  "text": "A prominent water tower in southern Kerava with a distinctive design.",
+                  "category": "tower",
+                  "coords": [
+                        25.113994,
+                        60.38806
                   ]
             }
       ]
@@ -724,6 +2569,123 @@ export const finlandCitiesV2: POI[] = [
                         24.190406,
                         60.537979
                   ]
+            },
+            {
+                  "name": "Karkkila-Högforsin työläismuseo",
+                  "text": "Ein Arbeitermuseum in Karkkila.",
+                  "category": "museum",
+                  "coords": [
+                        24.198189,
+                        60.528518
+                  ]
+            },
+            {
+                  "name": "Ruukkimuseo Senkka",
+                  "text": "Ein Eisenwerksmuseum in Karkkila.",
+                  "category": "museum",
+                  "coords": [
+                        24.199685,
+                        60.532905
+                  ]
+            },
+            {
+                  "name": "Karkkilasali",
+                  "text": "Ein Theatersaal in Karkkila.",
+                  "category": "cultural",
+                  "coords": [
+                        24.209533,
+                        60.533713
+                  ]
+            },
+            {
+                  "name": "Asemansuon luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.206197,
+                        60.541156
+                  ]
+            },
+            {
+                  "name": "Pumminpuisto",
+                  "text": "Ein Naturreservat in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.212878,
+                        60.530058
+                  ]
+            },
+            {
+                  "name": "Keinumäki",
+                  "text": "Ein Naturschutzgebiet in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.225772,
+                        60.518215
+                  ]
+            },
+            {
+                  "name": "Maijalankosken luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.224424,
+                        60.512292
+                  ]
+            },
+            {
+                  "name": "Pitkälän luonnonsuojelualue",
+                  "text": "Ein geschütztes Naturgebiet in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.230202,
+                        60.522574
+                  ]
+            },
+            {
+                  "name": "näkymä Ruuhilammelle",
+                  "text": "Ein Aussichtspunkt über den Ruuhilampi-See.",
+                  "category": "natural",
+                  "coords": [
+                        24.176378,
+                        60.529203
+                  ]
+            },
+            {
+                  "name": "Merimiina",
+                  "text": "Ein Denkmal in Form einer Seemine in Karkkila.",
+                  "category": "historical",
+                  "coords": [
+                        24.261553,
+                        60.531146
+                  ]
+            },
+            {
+                  "name": "Högforsin masuuni",
+                  "text": "Ein historischer Hochofen in Karkkila.",
+                  "category": "landmark",
+                  "coords": [
+                        24.200685,
+                        60.532699
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "Ein hölzerner Glockenturm in Karkkila.",
+                  "category": "tower",
+                  "coords": [
+                        24.210818,
+                        60.534861
+                  ]
+            },
+            {
+                  "name": "Karkkilan helluntaiseurakunta",
+                  "text": "Eine Pfingstkirche in Karkkila.",
+                  "category": "religious",
+                  "coords": [
+                        24.215348,
+                        60.533534
+                  ]
             }
       ],
       "hu": [
@@ -734,6 +2696,123 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.190406,
                         60.537979
+                  ]
+            },
+            {
+                  "name": "Karkkila-Högforsin työläismuseo",
+                  "text": "Munkásmúzeum Karkkila városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.198189,
+                        60.528518
+                  ]
+            },
+            {
+                  "name": "Ruukkimuseo Senkka",
+                  "text": "Vasgyári múzeum Karkkilában.",
+                  "category": "museum",
+                  "coords": [
+                        24.199685,
+                        60.532905
+                  ]
+            },
+            {
+                  "name": "Karkkilasali",
+                  "text": "Színházterem Karkkilában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.209533,
+                        60.533713
+                  ]
+            },
+            {
+                  "name": "Asemansuon luonnonsuojelualue",
+                  "text": "Természetvédelmi terület Karkkilában.",
+                  "category": "natural",
+                  "coords": [
+                        24.206197,
+                        60.541156
+                  ]
+            },
+            {
+                  "name": "Pumminpuisto",
+                  "text": "Természetvédelmi terület Karkkila városában.",
+                  "category": "natural",
+                  "coords": [
+                        24.212878,
+                        60.530058
+                  ]
+            },
+            {
+                  "name": "Keinumäki",
+                  "text": "Természetvédelmi terület Karkkilában.",
+                  "category": "natural",
+                  "coords": [
+                        24.225772,
+                        60.518215
+                  ]
+            },
+            {
+                  "name": "Maijalankosken luonnonsuojelualue",
+                  "text": "Természetvédelmi terület Karkkilában.",
+                  "category": "natural",
+                  "coords": [
+                        24.224424,
+                        60.512292
+                  ]
+            },
+            {
+                  "name": "Pitkälän luonnonsuojelualue",
+                  "text": "Védett természeti terület Karkkilában.",
+                  "category": "natural",
+                  "coords": [
+                        24.230202,
+                        60.522574
+                  ]
+            },
+            {
+                  "name": "näkymä Ruuhilammelle",
+                  "text": "Kilátópont a Ruuhilampi-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        24.176378,
+                        60.529203
+                  ]
+            },
+            {
+                  "name": "Merimiina",
+                  "text": "Tengeri akna alakú emlékmű Karkkilában.",
+                  "category": "historical",
+                  "coords": [
+                        24.261553,
+                        60.531146
+                  ]
+            },
+            {
+                  "name": "Högforsin masuuni",
+                  "text": "Történelmi nagyolvasztó Karkkilában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.200685,
+                        60.532699
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "Fából készült harangtorony Karkkilában.",
+                  "category": "tower",
+                  "coords": [
+                        24.210818,
+                        60.534861
+                  ]
+            },
+            {
+                  "name": "Karkkilan helluntaiseurakunta",
+                  "text": "Pünkösdi templom Karkkilában.",
+                  "category": "religious",
+                  "coords": [
+                        24.215348,
+                        60.533534
                   ]
             }
       ],
@@ -746,6 +2825,123 @@ export const finlandCitiesV2: POI[] = [
                         24.190406,
                         60.537979
                   ]
+            },
+            {
+                  "name": "Karkkila-Högforsin työläismuseo",
+                  "text": "Un muzeu al muncitorilor în Karkkila.",
+                  "category": "museum",
+                  "coords": [
+                        24.198189,
+                        60.528518
+                  ]
+            },
+            {
+                  "name": "Ruukkimuseo Senkka",
+                  "text": "Un muzeu al uzinei de fier în Karkkila.",
+                  "category": "museum",
+                  "coords": [
+                        24.199685,
+                        60.532905
+                  ]
+            },
+            {
+                  "name": "Karkkilasali",
+                  "text": "O sală de teatru în Karkkila.",
+                  "category": "cultural",
+                  "coords": [
+                        24.209533,
+                        60.533713
+                  ]
+            },
+            {
+                  "name": "Asemansuon luonnonsuojelualue",
+                  "text": "O rezervație naturală în Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.206197,
+                        60.541156
+                  ]
+            },
+            {
+                  "name": "Pumminpuisto",
+                  "text": "O rezervație naturală în Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.212878,
+                        60.530058
+                  ]
+            },
+            {
+                  "name": "Keinumäki",
+                  "text": "O rezervație naturală în Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.225772,
+                        60.518215
+                  ]
+            },
+            {
+                  "name": "Maijalankosken luonnonsuojelualue",
+                  "text": "O rezervație naturală în Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.224424,
+                        60.512292
+                  ]
+            },
+            {
+                  "name": "Pitkälän luonnonsuojelualue",
+                  "text": "O zonă naturală protejată în Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.230202,
+                        60.522574
+                  ]
+            },
+            {
+                  "name": "näkymä Ruuhilammelle",
+                  "text": "Un punct de belvedere asupra lacului Ruuhilampi.",
+                  "category": "natural",
+                  "coords": [
+                        24.176378,
+                        60.529203
+                  ]
+            },
+            {
+                  "name": "Merimiina",
+                  "text": "Un monument sub formă de mină marină în Karkkila.",
+                  "category": "historical",
+                  "coords": [
+                        24.261553,
+                        60.531146
+                  ]
+            },
+            {
+                  "name": "Högforsin masuuni",
+                  "text": "Un furnal istoric în Karkkila.",
+                  "category": "landmark",
+                  "coords": [
+                        24.200685,
+                        60.532699
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "O clopotniță de lemn în Karkkila.",
+                  "category": "tower",
+                  "coords": [
+                        24.210818,
+                        60.534861
+                  ]
+            },
+            {
+                  "name": "Karkkilan helluntaiseurakunta",
+                  "text": "O biserică penticostală în Karkkila.",
+                  "category": "religious",
+                  "coords": [
+                        24.215348,
+                        60.533534
+                  ]
             }
       ],
       "en": [
@@ -756,6 +2952,123 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.190406,
                         60.537979
+                  ]
+            },
+            {
+                  "name": "Karkkila-Högforsin työläismuseo",
+                  "text": "A workers' museum in Karkkila.",
+                  "category": "museum",
+                  "coords": [
+                        24.198189,
+                        60.528518
+                  ]
+            },
+            {
+                  "name": "Ruukkimuseo Senkka",
+                  "text": "An ironworks museum in Karkkila.",
+                  "category": "museum",
+                  "coords": [
+                        24.199685,
+                        60.532905
+                  ]
+            },
+            {
+                  "name": "Karkkilasali",
+                  "text": "A theatre hall in Karkkila.",
+                  "category": "cultural",
+                  "coords": [
+                        24.209533,
+                        60.533713
+                  ]
+            },
+            {
+                  "name": "Asemansuon luonnonsuojelualue",
+                  "text": "A nature reserve in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.206197,
+                        60.541156
+                  ]
+            },
+            {
+                  "name": "Pumminpuisto",
+                  "text": "A nature reserve in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.212878,
+                        60.530058
+                  ]
+            },
+            {
+                  "name": "Keinumäki",
+                  "text": "A nature reserve in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.225772,
+                        60.518215
+                  ]
+            },
+            {
+                  "name": "Maijalankosken luonnonsuojelualue",
+                  "text": "A nature reserve in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.224424,
+                        60.512292
+                  ]
+            },
+            {
+                  "name": "Pitkälän luonnonsuojelualue",
+                  "text": "A protected nature area in Karkkila.",
+                  "category": "natural",
+                  "coords": [
+                        24.230202,
+                        60.522574
+                  ]
+            },
+            {
+                  "name": "näkymä Ruuhilammelle",
+                  "text": "A viewpoint over Lake Ruuhilampi.",
+                  "category": "natural",
+                  "coords": [
+                        24.176378,
+                        60.529203
+                  ]
+            },
+            {
+                  "name": "Naval mine",
+                  "text": "A naval mine monument in Karkkila.",
+                  "category": "historical",
+                  "coords": [
+                        24.261553,
+                        60.531146
+                  ]
+            },
+            {
+                  "name": "Högforsin masuuni",
+                  "text": "A historic blast furnace in Karkkila.",
+                  "category": "landmark",
+                  "coords": [
+                        24.200685,
+                        60.532699
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "A wooden bell tower in Karkkila.",
+                  "category": "tower",
+                  "coords": [
+                        24.210818,
+                        60.534861
+                  ]
+            },
+            {
+                  "name": "Karkkilan helluntaiseurakunta",
+                  "text": "A Pentecostal church in Karkkila.",
+                  "category": "religious",
+                  "coords": [
+                        24.215348,
+                        60.533534
                   ]
             }
       ]
@@ -804,7 +3117,268 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-karkkila-cities-v2.webp",
   },
   {
-    id: "finland-kauhava-cities-v2",
+    id: "finland-kauhava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puukkomuseo",
+                  "text": "Ein Museum in Kauhava, das der lokalen Messer- und Textilproduktion gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.060773,
+                        63.100555
+                  ]
+            },
+            {
+                  "name": "Hawk-muistomerkki",
+                  "text": "Ein Denkmal in Kauhava, das einem Schulflugzeug vom Typ Hawk gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.05743,
+                        63.100686
+                  ]
+            },
+            {
+                  "name": "Fouga Magister",
+                  "text": "Ein historisches Flugzeugdenkmal, das an die Luftfahrtgeschichte von Kauhava erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.058186,
+                        63.102504
+                  ]
+            },
+            {
+                  "name": "Fouga Magister (FM-21) -muistomerkki",
+                  "text": "Ein Denkmal in Kauhava, das ein Fouga Magister Strahlflugzeug zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040897,
+                        63.113407
+                  ]
+            },
+            {
+                  "name": "Kauhavan kirkko",
+                  "text": "Die markante rote Backsteinkirche von Kauhava, erbaut im Jahr 1925.",
+                  "category": "religious",
+                  "coords": [
+                        23.067021,
+                        63.099587
+                  ]
+            },
+            {
+                  "name": "Kauhavan helluntaiseurakunta",
+                  "text": "Ein modernes Kirchengebäude der Pfingstgemeinde in Kauhava.",
+                  "category": "religious",
+                  "coords": [
+                        23.044481,
+                        63.101758
+                  ]
+            },
+            {
+                  "name": "Kauhavan vapaaseurakunta",
+                  "text": "Ein Gotteshaus der freien evangelischen Gemeinde in Kauhava.",
+                  "category": "religious",
+                  "coords": [
+                        23.047676,
+                        63.104362
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puukkomuseo",
+                  "text": "Múzeum Kauhavában, amely a helyi késkészítésnek és textiliparnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        23.060773,
+                        63.100555
+                  ]
+            },
+            {
+                  "name": "Hawk-muistomerkki",
+                  "text": "Egy Hawk típusú kiképző repülőgépnek szentelt emlékmű Kauhavában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.05743,
+                        63.100686
+                  ]
+            },
+            {
+                  "name": "Fouga Magister",
+                  "text": "Történelmi repülőgép-emlékmű, amely Kauhava repülési múltját idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.058186,
+                        63.102504
+                  ]
+            },
+            {
+                  "name": "Fouga Magister (FM-21) -muistomerkki",
+                  "text": "Egy Fouga Magister sugárhajtású repülőgépet bemutató emlékmű Kauhavában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040897,
+                        63.113407
+                  ]
+            },
+            {
+                  "name": "Kauhavan kirkko",
+                  "text": "Kauhava jellegzetes vörös tégla temploma, amely 1925-ben épült.",
+                  "category": "religious",
+                  "coords": [
+                        23.067021,
+                        63.099587
+                  ]
+            },
+            {
+                  "name": "Kauhavan helluntaiseurakunta",
+                  "text": "A kauhavai pünkösdi gyülekezet modern templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        23.044481,
+                        63.101758
+                  ]
+            },
+            {
+                  "name": "Kauhavan vapaaseurakunta",
+                  "text": "A kauhavai szabadegyház temploma és gyülekezeti központja.",
+                  "category": "religious",
+                  "coords": [
+                        23.047676,
+                        63.104362
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puukkomuseo",
+                  "text": "Un muzeu în Kauhava dedicat producției locale de cuțite și textile.",
+                  "category": "museum",
+                  "coords": [
+                        23.060773,
+                        63.100555
+                  ]
+            },
+            {
+                  "name": "Hawk-muistomerkki",
+                  "text": "Un monument în Kauhava dedicat unui avion de antrenament Hawk.",
+                  "category": "landmark",
+                  "coords": [
+                        23.05743,
+                        63.100686
+                  ]
+            },
+            {
+                  "name": "Fouga Magister",
+                  "text": "Un avion istoric expus ca monument, amintind de istoria aviației din Kauhava.",
+                  "category": "landmark",
+                  "coords": [
+                        23.058186,
+                        63.102504
+                  ]
+            },
+            {
+                  "name": "Fouga Magister (FM-21) -muistomerkki",
+                  "text": "Un monument în Kauhava care prezintă un avion cu reacție Fouga Magister.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040897,
+                        63.113407
+                  ]
+            },
+            {
+                  "name": "Kauhavan kirkko",
+                  "text": "Biserica de cărămidă roșie din Kauhava, construită în anul 1925.",
+                  "category": "religious",
+                  "coords": [
+                        23.067021,
+                        63.099587
+                  ]
+            },
+            {
+                  "name": "Kauhavan helluntaiseurakunta",
+                  "text": "Clădirea modernă a bisericii penticostale din Kauhava.",
+                  "category": "religious",
+                  "coords": [
+                        23.044481,
+                        63.101758
+                  ]
+            },
+            {
+                  "name": "Kauhavan vapaaseurakunta",
+                  "text": "Un lăcaș de cult al bisericii libere din Kauhava.",
+                  "category": "religious",
+                  "coords": [
+                        23.047676,
+                        63.104362
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kauhava Knife and Textile museum",
+                  "text": "A museum in Kauhava dedicated to the local knife-making and textile industry.",
+                  "category": "museum",
+                  "coords": [
+                        23.060773,
+                        63.100555
+                  ]
+            },
+            {
+                  "name": "Hawk-muistomerkki",
+                  "text": "A monument in Kauhava dedicated to a Hawk trainer aircraft.",
+                  "category": "landmark",
+                  "coords": [
+                        23.05743,
+                        63.100686
+                  ]
+            },
+            {
+                  "name": "Fouga Magister",
+                  "text": "A historic aircraft on display as a monument to Kauhava's aviation history.",
+                  "category": "landmark",
+                  "coords": [
+                        23.058186,
+                        63.102504
+                  ]
+            },
+            {
+                  "name": "Fouga Magister (FM-21) -muistomerkki",
+                  "text": "A monument in Kauhava featuring a Fouga Magister jet aircraft.",
+                  "category": "landmark",
+                  "coords": [
+                        23.040897,
+                        63.113407
+                  ]
+            },
+            {
+                  "name": "Kauhavan kirkko",
+                  "text": "The distinctive red brick church of Kauhava, built in 1925.",
+                  "category": "religious",
+                  "coords": [
+                        23.067021,
+                        63.099587
+                  ]
+            },
+            {
+                  "name": "Kauhavan helluntaiseurakunta",
+                  "text": "A modern church building serving the Pentecostal community in Kauhava.",
+                  "category": "religious",
+                  "coords": [
+                        23.044481,
+                        63.101758
+                  ]
+            },
+            {
+                  "name": "Kauhavan vapaaseurakunta",
+                  "text": "A place of worship for the Free Church congregation in Kauhava.",
+                  "category": "religious",
+                  "coords": [
+                        23.047676,
+                        63.104362
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kauhava", hu: "Kauhava", ro: "Kauhava", en: "Kauhava" },
@@ -859,6 +3433,60 @@ export const finlandCitiesV2: POI[] = [
                         27.423891,
                         66.714288
                   ]
+            },
+            {
+                  "name": "Kemijärven Kotiseutumuseo",
+                  "text": "Heimatmuseum, das die Geschichte und das traditionelle Leben von Kemijärvi zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.401577,
+                        66.719656
+                  ]
+            },
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Antike Jagdgruben zum Fangen von Tieren in der Gegend von Kemijärvi.",
+                  "category": "historical",
+                  "coords": [
+                        27.376559,
+                        66.706117
+                  ]
+            },
+            {
+                  "name": "Taidekeskus Puustelli",
+                  "text": "Kunstzentrum in Kemijärvi mit Ausstellungen und kulturellen Workshops.",
+                  "category": "museum",
+                  "coords": [
+                        27.397313,
+                        66.713963
+                  ]
+            },
+            {
+                  "name": "Kemijärven kirkko",
+                  "text": "Eine Holzkirche in Kemijärvi, die nach ihrer Zerstörung im Zweiten Weltkrieg wieder aufgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        27.438594,
+                        66.715449
+                  ]
+            },
+            {
+                  "name": "Kemijärven Siion",
+                  "text": "Gebäude der Pfingstgemeinde in der Stadt Kemijärvi.",
+                  "category": "religious",
+                  "coords": [
+                        27.393212,
+                        66.723963
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "Historischer Glockenturm in Kemijärvi.",
+                  "category": "tower",
+                  "coords": [
+                        27.441152,
+                        66.715436
+                  ]
             }
       ],
       "hu": [
@@ -869,6 +3497,60 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         27.423891,
                         66.714288
+                  ]
+            },
+            {
+                  "name": "Kemijärven Kotiseutumuseo",
+                  "text": "Helyi múzeum, amely Kemijärvi történelmét és hagyományos életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.401577,
+                        66.719656
+                  ]
+            },
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Állatok csapdába ejtésére használt ősi vadászgödrök Kemijärvi környékén.",
+                  "category": "historical",
+                  "coords": [
+                        27.376559,
+                        66.706117
+                  ]
+            },
+            {
+                  "name": "Taidekeskus Puustelli",
+                  "text": "Kemijärvi művészeti központja, amely kiállításoknak és kulturális workshopoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        27.397313,
+                        66.713963
+                  ]
+            },
+            {
+                  "name": "Kemijärven kirkko",
+                  "text": "Kemijärvi fatemploma, amelyet a második világháborús pusztítás után építettek újjá.",
+                  "category": "religious",
+                  "coords": [
+                        27.438594,
+                        66.715449
+                  ]
+            },
+            {
+                  "name": "Kemijärven Siion",
+                  "text": "Pünkösdi templomépület Kemijärvi városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.393212,
+                        66.723963
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "Történelmi harangtorony Kemijärviben.",
+                  "category": "tower",
+                  "coords": [
+                        27.441152,
+                        66.715436
                   ]
             }
       ],
@@ -881,6 +3563,60 @@ export const finlandCitiesV2: POI[] = [
                         27.423891,
                         66.714288
                   ]
+            },
+            {
+                  "name": "Kemijärven Kotiseutumuseo",
+                  "text": "Muzeu local care prezintă istoria și viața tradițională din Kemijärvi.",
+                  "category": "museum",
+                  "coords": [
+                        27.401577,
+                        66.719656
+                  ]
+            },
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Gropi de vânătoare antice folosite pentru prinderea animalelor în zona Kemijärvi.",
+                  "category": "historical",
+                  "coords": [
+                        27.376559,
+                        66.706117
+                  ]
+            },
+            {
+                  "name": "Taidekeskus Puustelli",
+                  "text": "Centru de artă din Kemijärvi care găzduiește expoziții și ateliere culturale.",
+                  "category": "museum",
+                  "coords": [
+                        27.397313,
+                        66.713963
+                  ]
+            },
+            {
+                  "name": "Kemijärven kirkko",
+                  "text": "O biserică de lemn în Kemijärvi, reconstruită după ce a fost distrusă în al Doilea Război Mondial.",
+                  "category": "religious",
+                  "coords": [
+                        27.438594,
+                        66.715449
+                  ]
+            },
+            {
+                  "name": "Kemijärven Siion",
+                  "text": "Clădirea bisericii penticostale din orașul Kemijärvi.",
+                  "category": "religious",
+                  "coords": [
+                        27.393212,
+                        66.723963
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "Clopotniță istorică situată în Kemijärvi.",
+                  "category": "tower",
+                  "coords": [
+                        27.441152,
+                        66.715436
+                  ]
             }
       ],
       "en": [
@@ -891,6 +3627,60 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         27.423891,
                         66.714288
+                  ]
+            },
+            {
+                  "name": "Kemijärven Kotiseutumuseo",
+                  "text": "Local museum showcasing the history and traditional life of Kemijärvi.",
+                  "category": "museum",
+                  "coords": [
+                        27.401577,
+                        66.719656
+                  ]
+            },
+            {
+                  "name": "Pyyntikuoppia",
+                  "text": "Ancient hunting pits used for trapping animals in the Kemijärvi area.",
+                  "category": "historical",
+                  "coords": [
+                        27.376559,
+                        66.706117
+                  ]
+            },
+            {
+                  "name": "Taidekeskus Puustelli",
+                  "text": "Art center in Kemijärvi hosting exhibitions and cultural workshops.",
+                  "category": "museum",
+                  "coords": [
+                        27.397313,
+                        66.713963
+                  ]
+            },
+            {
+                  "name": "Kemijärven kirkko",
+                  "text": "A wooden church in Kemijärvi, rebuilt after being destroyed in World War II.",
+                  "category": "religious",
+                  "coords": [
+                        27.438594,
+                        66.715449
+                  ]
+            },
+            {
+                  "name": "Kemijärven Siion",
+                  "text": "Pentecostal church building in the town of Kemijärvi.",
+                  "category": "religious",
+                  "coords": [
+                        27.393212,
+                        66.723963
+                  ]
+            },
+            {
+                  "name": "Kellotapuli",
+                  "text": "Historic bell tower located in Kemijärvi.",
+                  "category": "tower",
+                  "coords": [
+                        27.441152,
+                        66.715436
                   ]
             }
       ]
@@ -949,6 +3739,87 @@ export const finlandCitiesV2: POI[] = [
                         24.561074,
                         65.726827
                   ]
+            },
+            {
+                  "name": "Kemin jalokivigalleria",
+                  "text": "Ein Museum für Edelsteine in Kemi.",
+                  "category": "museum",
+                  "coords": [
+                        24.552027,
+                        65.732139
+                  ]
+            },
+            {
+                  "name": "Kemin taidemuseo",
+                  "text": "Das Kunstmuseum von Kemi.",
+                  "category": "museum",
+                  "coords": [
+                        24.558616,
+                        65.735846
+                  ]
+            },
+            {
+                  "name": "Kemin lumilinna",
+                  "text": "Eine berühmte Eisburg in Kemi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.569121,
+                        65.726629
+                  ]
+            },
+            {
+                  "name": "Meripuisto",
+                  "text": "Ein Park am Meer in Kemi.",
+                  "category": "park",
+                  "coords": [
+                        24.55559,
+                        65.731462
+                  ]
+            },
+            {
+                  "name": "Kivilonka",
+                  "text": "Ein Aussichtspunkt in Kemi.",
+                  "category": "natural",
+                  "coords": [
+                        24.617751,
+                        65.743378
+                  ]
+            },
+            {
+                  "name": "SnowExperience365",
+                  "text": "Eine ganzjährige Eis-Attraktion in Kemi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567138,
+                        65.727043
+                  ]
+            },
+            {
+                  "name": "Kemin kirkko",
+                  "text": "Eine neugotische Kirche in Kemi.",
+                  "category": "religious",
+                  "coords": [
+                        24.563262,
+                        65.73249
+                  ]
+            },
+            {
+                  "name": "Kemin kaupungintalo",
+                  "text": "Das Rathaus von Kemi.",
+                  "category": "historical",
+                  "coords": [
+                        24.570621,
+                        65.735244
+                  ]
+            },
+            {
+                  "name": "Kemin helluntaiseurakunta",
+                  "text": "Eine Pfingstgemeinde in Kemi.",
+                  "category": "religious",
+                  "coords": [
+                        24.570643,
+                        65.734019
+                  ]
             }
       ],
       "hu": [
@@ -959,6 +3830,87 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.561074,
                         65.726827
+                  ]
+            },
+            {
+                  "name": "Kemin jalokivigalleria",
+                  "text": "Drágakőmúzeum Kemi városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.552027,
+                        65.732139
+                  ]
+            },
+            {
+                  "name": "Kemin taidemuseo",
+                  "text": "Kemi művészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        24.558616,
+                        65.735846
+                  ]
+            },
+            {
+                  "name": "Kemin lumilinna",
+                  "text": "Híres jégvár Kemi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.569121,
+                        65.726629
+                  ]
+            },
+            {
+                  "name": "Meripuisto",
+                  "text": "Tengerparti park Kemi városában.",
+                  "category": "park",
+                  "coords": [
+                        24.55559,
+                        65.731462
+                  ]
+            },
+            {
+                  "name": "Kivilonka",
+                  "text": "Kilátópont Kemi városában.",
+                  "category": "natural",
+                  "coords": [
+                        24.617751,
+                        65.743378
+                  ]
+            },
+            {
+                  "name": "SnowExperience365",
+                  "text": "Egész évben nyitva tartó jeges látványosság Kemiben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567138,
+                        65.727043
+                  ]
+            },
+            {
+                  "name": "Kemin kirkko",
+                  "text": "Neogótikus templom Kemi városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.563262,
+                        65.73249
+                  ]
+            },
+            {
+                  "name": "Kemin kaupungintalo",
+                  "text": "Kemi városháza.",
+                  "category": "historical",
+                  "coords": [
+                        24.570621,
+                        65.735244
+                  ]
+            },
+            {
+                  "name": "Kemin helluntaiseurakunta",
+                  "text": "Pünkösdi gyülekezet Kemiben.",
+                  "category": "religious",
+                  "coords": [
+                        24.570643,
+                        65.734019
                   ]
             }
       ],
@@ -971,6 +3923,87 @@ export const finlandCitiesV2: POI[] = [
                         24.561074,
                         65.726827
                   ]
+            },
+            {
+                  "name": "Kemin jalokivigalleria",
+                  "text": "Un muzeu de pietre prețioase în Kemi.",
+                  "category": "museum",
+                  "coords": [
+                        24.552027,
+                        65.732139
+                  ]
+            },
+            {
+                  "name": "Kemin taidemuseo",
+                  "text": "Muzeul de artă din Kemi.",
+                  "category": "museum",
+                  "coords": [
+                        24.558616,
+                        65.735846
+                  ]
+            },
+            {
+                  "name": "Kemin lumilinna",
+                  "text": "Un castel de gheață faimos în Kemi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.569121,
+                        65.726629
+                  ]
+            },
+            {
+                  "name": "Meripuisto",
+                  "text": "Un parc la malul mării în Kemi.",
+                  "category": "park",
+                  "coords": [
+                        24.55559,
+                        65.731462
+                  ]
+            },
+            {
+                  "name": "Kivilonka",
+                  "text": "Un punct de belvedere în Kemi.",
+                  "category": "natural",
+                  "coords": [
+                        24.617751,
+                        65.743378
+                  ]
+            },
+            {
+                  "name": "SnowExperience365",
+                  "text": "O atracție cu gheață deschisă tot anul în Kemi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567138,
+                        65.727043
+                  ]
+            },
+            {
+                  "name": "Kemin kirkko",
+                  "text": "O biserică neogotică în Kemi.",
+                  "category": "religious",
+                  "coords": [
+                        24.563262,
+                        65.73249
+                  ]
+            },
+            {
+                  "name": "Kemin kaupungintalo",
+                  "text": "Primăria orașului Kemi.",
+                  "category": "historical",
+                  "coords": [
+                        24.570621,
+                        65.735244
+                  ]
+            },
+            {
+                  "name": "Kemin helluntaiseurakunta",
+                  "text": "O comunitate penticostală în Kemi.",
+                  "category": "religious",
+                  "coords": [
+                        24.570643,
+                        65.734019
+                  ]
             }
       ],
       "en": [
@@ -981,6 +4014,87 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.561074,
                         65.726827
+                  ]
+            },
+            {
+                  "name": "Kemi Gemstone Gallery",
+                  "text": "A gemstone museum in Kemi.",
+                  "category": "museum",
+                  "coords": [
+                        24.552027,
+                        65.732139
+                  ]
+            },
+            {
+                  "name": "Kemi Art Museum",
+                  "text": "The Kemi Art Museum.",
+                  "category": "museum",
+                  "coords": [
+                        24.558616,
+                        65.735846
+                  ]
+            },
+            {
+                  "name": "Kemi Snowcastle",
+                  "text": "A famous snow castle in Kemi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.569121,
+                        65.726629
+                  ]
+            },
+            {
+                  "name": "Meripuisto",
+                  "text": "A seaside park in Kemi.",
+                  "category": "park",
+                  "coords": [
+                        24.55559,
+                        65.731462
+                  ]
+            },
+            {
+                  "name": "Kivilonka",
+                  "text": "A viewpoint in Kemi.",
+                  "category": "natural",
+                  "coords": [
+                        24.617751,
+                        65.743378
+                  ]
+            },
+            {
+                  "name": "SnowExperience365",
+                  "text": "A year-round ice attraction in Kemi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.567138,
+                        65.727043
+                  ]
+            },
+            {
+                  "name": "Kemin kirkko",
+                  "text": "A Neo-Gothic church in Kemi.",
+                  "category": "religious",
+                  "coords": [
+                        24.563262,
+                        65.73249
+                  ]
+            },
+            {
+                  "name": "Kemin kaupungintalo",
+                  "text": "The town hall of Kemi.",
+                  "category": "historical",
+                  "coords": [
+                        24.570621,
+                        65.735244
+                  ]
+            },
+            {
+                  "name": "Kemin helluntaiseurakunta",
+                  "text": "A Pentecostal congregation in Kemi.",
+                  "category": "religious",
+                  "coords": [
+                        24.570643,
+                        65.734019
                   ]
             }
       ]
@@ -1029,7 +4143,232 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kemi-cities-v2.webp",
   },
   {
-    id: "finland-kitee-cities-v2",
+    id: "finland-kitee-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "A Nightwish Story",
+                  "text": "Eine Ausstellung in Kitee, die der Geschichte der Metal-Band Nightwish gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.141399,
+                        62.097777
+                  ]
+            },
+            {
+                  "name": "Kiteen kotiseutumuseo",
+                  "text": "Ein Museum, das die lokale Geschichte und Traditionen von Kitee präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        30.136853,
+                        62.09884
+                  ]
+            },
+            {
+                  "name": "Sepänniemen lintutorni",
+                  "text": "Ein Beobachtungsturm am Seeufer von Kitee, ideal zur Vogelbeobachtung.",
+                  "category": "natural",
+                  "coords": [
+                        30.128879,
+                        62.110649
+                  ]
+            },
+            {
+                  "name": "Kiteen helluntaiseurakunta",
+                  "text": "Das Kirchengebäude der Pfingstgemeinde in der Stadt Kitee.",
+                  "category": "religious",
+                  "coords": [
+                        30.143992,
+                        62.09718
+                  ]
+            },
+            {
+                  "name": "Kiteen kirkko",
+                  "text": "Die evangelisch-lutherische Hauptkirche von Kitee, ein bedeutendes Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        30.151791,
+                        62.096051
+                  ]
+            },
+            {
+                  "name": "Pyhän Kolminaisuuden ja Pyhän Nektarios Eginalaisen kirkko",
+                  "text": "Eine orthodoxe Kirche in Kitee, die der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        30.14012,
+                        62.093875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "A Nightwish Story",
+                  "text": "A Nightwish metalegyüttes történetét bemutató kiállítás Kitee-ben.",
+                  "category": "museum",
+                  "coords": [
+                        30.141399,
+                        62.097777
+                  ]
+            },
+            {
+                  "name": "Kiteen kotiseutumuseo",
+                  "text": "Múzeum, amely Kitee helyi történelmét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.136853,
+                        62.09884
+                  ]
+            },
+            {
+                  "name": "Sepänniemen lintutorni",
+                  "text": "Madármegfigyelő torony a kitee-i tóparton, természetjárók számára.",
+                  "category": "natural",
+                  "coords": [
+                        30.128879,
+                        62.110649
+                  ]
+            },
+            {
+                  "name": "Kiteen helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet templomépülete Kitee városában.",
+                  "category": "religious",
+                  "coords": [
+                        30.143992,
+                        62.09718
+                  ]
+            },
+            {
+                  "name": "Kiteen kirkko",
+                  "text": "Kitee evangélikus főtemploma, a város egyik jelentős jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        30.151791,
+                        62.096051
+                  ]
+            },
+            {
+                  "name": "Pyhän Kolminaisuuden ja Pyhän Nektarios Eginalaisen kirkko",
+                  "text": "Ortodox templom Kitee-ben, amelyet a Szentháromságnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        30.14012,
+                        62.093875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "A Nightwish Story",
+                  "text": "O expoziție în Kitee dedicată istoriei trupei de metal Nightwish.",
+                  "category": "museum",
+                  "coords": [
+                        30.141399,
+                        62.097777
+                  ]
+            },
+            {
+                  "name": "Kiteen kotiseutumuseo",
+                  "text": "Un muzeu care prezintă istoria locală și tradițiile din Kitee.",
+                  "category": "museum",
+                  "coords": [
+                        30.136853,
+                        62.09884
+                  ]
+            },
+            {
+                  "name": "Sepänniemen lintutorni",
+                  "text": "Un turn de observare pe malul lacului din Kitee, ideal pentru birdwatching.",
+                  "category": "natural",
+                  "coords": [
+                        30.128879,
+                        62.110649
+                  ]
+            },
+            {
+                  "name": "Kiteen helluntaiseurakunta",
+                  "text": "Clădirea bisericii penticostale din orașul Kitee.",
+                  "category": "religious",
+                  "coords": [
+                        30.143992,
+                        62.09718
+                  ]
+            },
+            {
+                  "name": "Kiteen kirkko",
+                  "text": "Biserica principală evanghelică-luterană din Kitee, un reper important.",
+                  "category": "religious",
+                  "coords": [
+                        30.151791,
+                        62.096051
+                  ]
+            },
+            {
+                  "name": "Pyhän Kolminaisuuden ja Pyhän Nektarios Eginalaisen kirkko",
+                  "text": "O biserică ortodoxă din Kitee dedicată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        30.14012,
+                        62.093875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "A Nightwish Story",
+                  "text": "An exhibition in Kitee dedicated to the history of the metal band Nightwish.",
+                  "category": "museum",
+                  "coords": [
+                        30.141399,
+                        62.097777
+                  ]
+            },
+            {
+                  "name": "Kiteen kotiseutumuseo",
+                  "text": "A museum showcasing the local history and traditions of Kitee.",
+                  "category": "museum",
+                  "coords": [
+                        30.136853,
+                        62.09884
+                  ]
+            },
+            {
+                  "name": "Sepänniemen birdwatching tower",
+                  "text": "A birdwatching tower on the lakeshore in Kitee, ideal for nature observers.",
+                  "category": "natural",
+                  "coords": [
+                        30.128879,
+                        62.110649
+                  ]
+            },
+            {
+                  "name": "Kiteen helluntaiseurakunta",
+                  "text": "The Pentecostal church building in the town of Kitee.",
+                  "category": "religious",
+                  "coords": [
+                        30.143992,
+                        62.09718
+                  ]
+            },
+            {
+                  "name": "Kiteen kirkko",
+                  "text": "The main Evangelical Lutheran church of Kitee, a significant local landmark.",
+                  "category": "religious",
+                  "coords": [
+                        30.151791,
+                        62.096051
+                  ]
+            },
+            {
+                  "name": "Pyhän Kolminaisuuden ja Pyhän Nektarios Eginalaisen kirkko",
+                  "text": "An Orthodox church in Kitee dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        30.14012,
+                        62.093875
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Kitee", hu: "Kitee", ro: "Kitee", en: "Kitee" },
@@ -1200,7 +4539,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-kurikka-cities-v2.webp",
   },
   {
-    id: "finland-laitila-cities-v2",
+    id: "finland-laitila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kodjalan soturihauta",
+                  "text": "Eine archäologische Stätte mit einem Kriegergrab in Laitila.",
+                  "category": "historical",
+                  "coords": [
+                        21.680317,
+                        60.850127
+                  ]
+            },
+            {
+                  "name": "Moronhattu",
+                  "text": "Eine lokale Sehenswürdigkeit in Laitila.",
+                  "category": "landmark",
+                  "coords": [
+                        21.71484,
+                        60.871089
+                  ]
+            },
+            {
+                  "name": "Laitilan kirkko",
+                  "text": "Eine historische Kirche in Laitila.",
+                  "category": "religious",
+                  "coords": [
+                        21.693192,
+                        60.878274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kodjalan soturihauta",
+                  "text": "Régészeti lelőhely egy harcos sírjával Laitilában.",
+                  "category": "historical",
+                  "coords": [
+                        21.680317,
+                        60.850127
+                  ]
+            },
+            {
+                  "name": "Moronhattu",
+                  "text": "Helyi látnivaló Laitilában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.71484,
+                        60.871089
+                  ]
+            },
+            {
+                  "name": "Laitilan kirkko",
+                  "text": "Történelmi templom Laitila városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.693192,
+                        60.878274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kodjalan soturihauta",
+                  "text": "Un sit arheologic cu mormântul unui războinic în Laitila.",
+                  "category": "historical",
+                  "coords": [
+                        21.680317,
+                        60.850127
+                  ]
+            },
+            {
+                  "name": "Moronhattu",
+                  "text": "O atracție locală în Laitila.",
+                  "category": "landmark",
+                  "coords": [
+                        21.71484,
+                        60.871089
+                  ]
+            },
+            {
+                  "name": "Laitilan kirkko",
+                  "text": "O biserică istorică în Laitila.",
+                  "category": "religious",
+                  "coords": [
+                        21.693192,
+                        60.878274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kodjalan soturihauta",
+                  "text": "An archaeological site with a warrior's grave in Laitila.",
+                  "category": "historical",
+                  "coords": [
+                        21.680317,
+                        60.850127
+                  ]
+            },
+            {
+                  "name": "Moronhattu",
+                  "text": "A local attraction in Laitila.",
+                  "category": "landmark",
+                  "coords": [
+                        21.71484,
+                        60.871089
+                  ]
+            },
+            {
+                  "name": "Laitilan kirkko",
+                  "text": "A historic church in Laitila.",
+                  "category": "religious",
+                  "coords": [
+                        21.693192,
+                        60.878274
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Laitila", hu: "Laitila", ro: "Laitila", en: "Laitila" },
@@ -1245,7 +4701,268 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-laitila-cities-v2.webp",
   },
   {
-    id: "finland-lapua-cities-v2",
+    id: "finland-lapua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyhälahden valokuvaamomuseo",
+                  "text": "Ein Museum in Lapua, das historische Fotografien und Fototechnik ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.017801,
+                        62.967678
+                  ]
+            },
+            {
+                  "name": "Teatteri Lapua",
+                  "text": "Ein lokales Theater in Lapua, das verschiedene kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        23.018978,
+                        62.968021
+                  ]
+            },
+            {
+                  "name": "Ränkimäen talomuseo",
+                  "text": "Ein Freilichtmuseum in Lapua, das das ländliche Leben vergangener Zeiten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.040071,
+                        62.970893
+                  ]
+            },
+            {
+                  "name": "Lapuan tuomiokirkko",
+                  "text": "Der Dom von Lapua ist die einzige Holzkathedrale in Finnland.",
+                  "category": "religious",
+                  "coords": [
+                        23.004875,
+                        62.967148
+                  ]
+            },
+            {
+                  "name": "Lapuan kaupungintalo",
+                  "text": "Das Verwaltungsgebäude der Stadt Lapua, ein zentrales öffentliches Bauwerk.",
+                  "category": "historical",
+                  "coords": [
+                        23.006052,
+                        62.970149
+                  ]
+            },
+            {
+                  "name": "Lapuan helluntaiseurakunta",
+                  "text": "Ein lokales Gotteshaus der Pfingstbewegung in Lapua.",
+                  "category": "religious",
+                  "coords": [
+                        23.009762,
+                        62.971489
+                  ]
+            },
+            {
+                  "name": "Lapuan vapaaseurakunta",
+                  "text": "Die Kirche der freien evangelischen Gemeinde in Lapua.",
+                  "category": "religious",
+                  "coords": [
+                        23.010781,
+                        62.970646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyhälahden valokuvaamomuseo",
+                  "text": "Múzeum Lapuában, amely történelmi fényképeket és fotótechnikát mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.017801,
+                        62.967678
+                  ]
+            },
+            {
+                  "name": "Teatteri Lapua",
+                  "text": "Helyi színház Lapuában, amely változatos kulturális előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        23.018978,
+                        62.968021
+                  ]
+            },
+            {
+                  "name": "Ränkimäen talomuseo",
+                  "text": "Szabadtéri múzeum Lapuában, amely a múltbéli vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.040071,
+                        62.970893
+                  ]
+            },
+            {
+                  "name": "Lapuan tuomiokirkko",
+                  "text": "A lapuai székesegyház Finnország egyetlen fából készült katedrálisa.",
+                  "category": "religious",
+                  "coords": [
+                        23.004875,
+                        62.967148
+                  ]
+            },
+            {
+                  "name": "Lapuan kaupungintalo",
+                  "text": "Lapua városának igazgatási épülete, központi középület.",
+                  "category": "historical",
+                  "coords": [
+                        23.006052,
+                        62.970149
+                  ]
+            },
+            {
+                  "name": "Lapuan helluntaiseurakunta",
+                  "text": "A pünkösdi mozgalom helyi imaháza Lapuában.",
+                  "category": "religious",
+                  "coords": [
+                        23.009762,
+                        62.971489
+                  ]
+            },
+            {
+                  "name": "Lapuan vapaaseurakunta",
+                  "text": "A lapuai szabadegyház gyülekezeti épülete.",
+                  "category": "religious",
+                  "coords": [
+                        23.010781,
+                        62.970646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyhälahden valokuvaamomuseo",
+                  "text": "Un muzeu în Lapua care expune fotografii istorice și tehnică fotografică.",
+                  "category": "museum",
+                  "coords": [
+                        23.017801,
+                        62.967678
+                  ]
+            },
+            {
+                  "name": "Teatteri Lapua",
+                  "text": "Un teatru local în Lapua care oferă diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.018978,
+                        62.968021
+                  ]
+            },
+            {
+                  "name": "Ränkimäen talomuseo",
+                  "text": "Un muzeu în aer liber în Lapua care prezintă viața rurală de odinioară.",
+                  "category": "museum",
+                  "coords": [
+                        23.040071,
+                        62.970893
+                  ]
+            },
+            {
+                  "name": "Lapuan tuomiokirkko",
+                  "text": "Catedrala din Lapua este singura catedrală de lemn din Finlanda.",
+                  "category": "religious",
+                  "coords": [
+                        23.004875,
+                        62.967148
+                  ]
+            },
+            {
+                  "name": "Lapuan kaupungintalo",
+                  "text": "Clădirea administrativă a orașului Lapua, o construcție publică centrală.",
+                  "category": "historical",
+                  "coords": [
+                        23.006052,
+                        62.970149
+                  ]
+            },
+            {
+                  "name": "Lapuan helluntaiseurakunta",
+                  "text": "Un lăcaș de cult local al mișcării penticostale în Lapua.",
+                  "category": "religious",
+                  "coords": [
+                        23.009762,
+                        62.971489
+                  ]
+            },
+            {
+                  "name": "Lapuan vapaaseurakunta",
+                  "text": "Biserica comunității evanghelice libere din Lapua.",
+                  "category": "religious",
+                  "coords": [
+                        23.010781,
+                        62.970646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyhälahden valokuvaamomuseo",
+                  "text": "A museum in Lapua exhibiting historical photographs and photography equipment.",
+                  "category": "museum",
+                  "coords": [
+                        23.017801,
+                        62.967678
+                  ]
+            },
+            {
+                  "name": "Teatteri Lapua",
+                  "text": "A local theatre in Lapua offering a variety of cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.018978,
+                        62.968021
+                  ]
+            },
+            {
+                  "name": "Ränkimäki homestead museum",
+                  "text": "An open-air museum in Lapua showcasing rural life from past centuries.",
+                  "category": "museum",
+                  "coords": [
+                        23.040071,
+                        62.970893
+                  ]
+            },
+            {
+                  "name": "Lapua Cathedral",
+                  "text": "Lapua Cathedral is the only wooden cathedral in Finland.",
+                  "category": "religious",
+                  "coords": [
+                        23.004875,
+                        62.967148
+                  ]
+            },
+            {
+                  "name": "Lapuan kaupungintalo",
+                  "text": "The administrative building of Lapua city, a central public structure.",
+                  "category": "historical",
+                  "coords": [
+                        23.006052,
+                        62.970149
+                  ]
+            },
+            {
+                  "name": "Lapuan helluntaiseurakunta",
+                  "text": "A local place of worship for the Pentecostal movement in Lapua.",
+                  "category": "religious",
+                  "coords": [
+                        23.009762,
+                        62.971489
+                  ]
+            },
+            {
+                  "name": "Lapuan vapaaseurakunta",
+                  "text": "The church building of the Free Church congregation in Lapua.",
+                  "category": "religious",
+                  "coords": [
+                        23.010781,
+                        62.970646
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Lapua", hu: "Lapua", ro: "Lapua", en: "Lapua" },
@@ -1552,6 +5269,159 @@ export const finlandCitiesV2: POI[] = [
                         26.238775,
                         60.444186
                   ]
+            },
+            {
+                  "name": "Loviisan Merenkulkumuseo",
+                  "text": "Ein Museum in Loviisa, das die maritime Geschichte der finnischen Küstenstadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.234398,
+                        60.452256
+                  ]
+            },
+            {
+                  "name": "Loviisan kaupungin museo",
+                  "text": "Das Stadtmuseum von Loviisa präsentiert die lokale Kulturgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        26.224651,
+                        60.462278
+                  ]
+            },
+            {
+                  "name": "Bastion Ungern",
+                  "text": "Ein Teil der historischen Befestigungsanlagen von Loviisa aus dem 18. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        26.237806,
+                        60.46119
+                  ]
+            },
+            {
+                  "name": "Bastion Rosen",
+                  "text": "Ein gut erhaltener Teil der alten Verteidigungsanlagen in Loviisa.",
+                  "category": "castle",
+                  "coords": [
+                        26.237672,
+                        60.463161
+                  ]
+            },
+            {
+                  "name": "Haruddenin luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet bei Loviisa, das für seine Küstenlandschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        26.252687,
+                        60.446728
+                  ]
+            },
+            {
+                  "name": "Boulognen metsä",
+                  "text": "Ein geschütztes Naturareal in Loviisa mit altem Baumbestand.",
+                  "category": "natural",
+                  "coords": [
+                        26.234603,
+                        60.442715
+                  ]
+            },
+            {
+                  "name": "Ankkuri",
+                  "text": "Ein monumentaler Anker in Loviisa, der die maritime Verbundenheit der Stadt symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        26.226608,
+                        60.457267
+                  ]
+            },
+            {
+                  "name": "Bongan linna",
+                  "text": "Ein Schloss in Loviisa, das heute als Atelier und Galerie des Künstlers Riitta Nelimarkka dient.",
+                  "category": "museum",
+                  "coords": [
+                        26.224396,
+                        60.455703
+                  ]
+            },
+            {
+                  "name": "Galleri Emilie",
+                  "text": "Eine Kunstgalerie in Loviisa, die lokale und nationale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.231119,
+                        60.452885
+                  ]
+            },
+            {
+                  "name": "Näköala- ja levähdyspaikka",
+                  "text": "Ein Aussichtspunkt in Loviisa, der einen weiten Blick über die Stadt und das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.235214,
+                        60.449614
+                  ]
+            },
+            {
+                  "name": "Loviisan ilmatorjunnan muistotykki",
+                  "text": "Ein Denkmal in Loviisa in Form einer historischen Flugabwehrkanone.",
+                  "category": "landmark",
+                  "coords": [
+                        26.226201,
+                        60.453806
+                  ]
+            },
+            {
+                  "name": "Harjun sarvilinna",
+                  "text": "Überreste der historischen Festungswälle, die einst Loviisa schützten.",
+                  "category": "historical",
+                  "coords": [
+                        26.221426,
+                        60.459079
+                  ]
+            },
+            {
+                  "name": "Harjun portaat",
+                  "text": "Eine Treppe, die auf den Kamm des Myllyharju-Hügels in Loviisa führt.",
+                  "category": "natural",
+                  "coords": [
+                        26.228874,
+                        60.45318
+                  ]
+            },
+            {
+                  "name": "Kukkukivi, näköalatorni",
+                  "text": "Ein Aussichtsturm in Loviisa auf dem Myllyharju-Hügel mit Blick auf das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        26.230964,
+                        60.445663
+                  ]
+            },
+            {
+                  "name": "Lovisa svenska metodistförsamling",
+                  "text": "Das Kirchengebäude der schwedischsprachigen Methodisten in Loviisa.",
+                  "category": "religious",
+                  "coords": [
+                        26.221108,
+                        60.4564
+                  ]
+            },
+            {
+                  "name": "Loviisan kirkko",
+                  "text": "Eine neugotische Backsteinkirche aus dem 19. Jahrhundert in Loviisa.",
+                  "category": "religious",
+                  "coords": [
+                        26.222837,
+                        60.456299
+                  ]
+            },
+            {
+                  "name": "Purjelaiva Österstjernan",
+                  "text": "Ein traditionelles hölzernes Segelschiff, das im Hafen von Loviisa beheimatet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        26.236239,
+                        60.452005
+                  ]
             }
       ],
       "hu": [
@@ -1562,6 +5432,159 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         26.238775,
                         60.444186
+                  ]
+            },
+            {
+                  "name": "Loviisan Merenkulkumuseo",
+                  "text": "Múzeum Loviisában, amely a finn tengerparti város tengerészeti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.234398,
+                        60.452256
+                  ]
+            },
+            {
+                  "name": "Loviisan kaupungin museo",
+                  "text": "Loviisa városi múzeuma a helyi kultúrtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.224651,
+                        60.462278
+                  ]
+            },
+            {
+                  "name": "Bastion Ungern",
+                  "text": "Loviisa 18. századi történelmi erődrendszerének egyik bástyája.",
+                  "category": "castle",
+                  "coords": [
+                        26.237806,
+                        60.46119
+                  ]
+            },
+            {
+                  "name": "Bastion Rosen",
+                  "text": "Loviisa régi védelmi rendszerének egyik jól megőrzött bástyája.",
+                  "category": "castle",
+                  "coords": [
+                        26.237672,
+                        60.463161
+                  ]
+            },
+            {
+                  "name": "Haruddenin luonnonsuojelualue",
+                  "text": "Loviisa melletti természetvédelmi terület, amely tengerparti tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        26.252687,
+                        60.446728
+                  ]
+            },
+            {
+                  "name": "Boulognen metsä",
+                  "text": "Védett természeti terület Loviisában idős faállománnyal.",
+                  "category": "natural",
+                  "coords": [
+                        26.234603,
+                        60.442715
+                  ]
+            },
+            {
+                  "name": "Ankkuri",
+                  "text": "Loviisa monumentális horgonya, amely a város tengeri kötődését jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        26.226608,
+                        60.457267
+                  ]
+            },
+            {
+                  "name": "Bongan linna",
+                  "text": "Loviisai kastély, amely ma Riitta Nelimarkka művész műtermeként és galériájaként működik.",
+                  "category": "museum",
+                  "coords": [
+                        26.224396,
+                        60.455703
+                  ]
+            },
+            {
+                  "name": "Galleri Emilie",
+                  "text": "Loviisai művészeti galéria, amely helyi és nemzeti műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.231119,
+                        60.452885
+                  ]
+            },
+            {
+                  "name": "Näköala- ja levähdyspaikka",
+                  "text": "Kilátópont Loviisában, ahonnan panorámás kilátás nyílik a városra és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        26.235214,
+                        60.449614
+                  ]
+            },
+            {
+                  "name": "Loviisan ilmatorjunnan muistotykki",
+                  "text": "Loviisai emlékmű egy történelmi légvédelmi ágyú formájában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.226201,
+                        60.453806
+                  ]
+            },
+            {
+                  "name": "Harjun sarvilinna",
+                  "text": "A Loviisát egykor védő történelmi várfalak maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        26.221426,
+                        60.459079
+                  ]
+            },
+            {
+                  "name": "Harjun portaat",
+                  "text": "Lépcsősor, amely a loviisai Myllyharju-domb gerincére vezet.",
+                  "category": "natural",
+                  "coords": [
+                        26.228874,
+                        60.45318
+                  ]
+            },
+            {
+                  "name": "Kukkukivi, näköalatorni",
+                  "text": "Kilátótorony Loviisában a Myllyharju-dombon, kilátással a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        26.230964,
+                        60.445663
+                  ]
+            },
+            {
+                  "name": "Lovisa svenska metodistförsamling",
+                  "text": "A loviisai svéd nyelvű metodista gyülekezet temploma.",
+                  "category": "religious",
+                  "coords": [
+                        26.221108,
+                        60.4564
+                  ]
+            },
+            {
+                  "name": "Loviisan kirkko",
+                  "text": "19. századi neogótikus téglatemplom Loviisa városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.222837,
+                        60.456299
+                  ]
+            },
+            {
+                  "name": "Purjelaiva Österstjernan",
+                  "text": "Hagyományos fa vitorláshajó Loviisa kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.236239,
+                        60.452005
                   ]
             }
       ],
@@ -1574,6 +5597,159 @@ export const finlandCitiesV2: POI[] = [
                         26.238775,
                         60.444186
                   ]
+            },
+            {
+                  "name": "Loviisan Merenkulkumuseo",
+                  "text": "Un muzeu în Loviisa care prezintă istoria maritimă a orașului de coastă finlandez.",
+                  "category": "museum",
+                  "coords": [
+                        26.234398,
+                        60.452256
+                  ]
+            },
+            {
+                  "name": "Loviisan kaupungin museo",
+                  "text": "Muzeul orașului Loviisa prezintă istoria culturală locală.",
+                  "category": "museum",
+                  "coords": [
+                        26.224651,
+                        60.462278
+                  ]
+            },
+            {
+                  "name": "Bastion Ungern",
+                  "text": "O parte a fortificațiilor istorice din secolul al XVIII-lea din Loviisa.",
+                  "category": "castle",
+                  "coords": [
+                        26.237806,
+                        60.46119
+                  ]
+            },
+            {
+                  "name": "Bastion Rosen",
+                  "text": "O secțiune bine conservată a vechilor fortificații de apărare din Loviisa.",
+                  "category": "castle",
+                  "coords": [
+                        26.237672,
+                        60.463161
+                  ]
+            },
+            {
+                  "name": "Haruddenin luonnonsuojelualue",
+                  "text": "O rezervație naturală lângă Loviisa, cunoscută pentru peisajul său costier.",
+                  "category": "natural",
+                  "coords": [
+                        26.252687,
+                        60.446728
+                  ]
+            },
+            {
+                  "name": "Boulognen metsä",
+                  "text": "O zonă naturală protejată în Loviisa cu arbori seculari.",
+                  "category": "natural",
+                  "coords": [
+                        26.234603,
+                        60.442715
+                  ]
+            },
+            {
+                  "name": "Ankkuri",
+                  "text": "O ancoră monumentală în Loviisa care simbolizează legătura maritimă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        26.226608,
+                        60.457267
+                  ]
+            },
+            {
+                  "name": "Bongan linna",
+                  "text": "Un castel în Loviisa care servește astăzi ca atelier și galerie pentru artista Riitta Nelimarkka.",
+                  "category": "museum",
+                  "coords": [
+                        26.224396,
+                        60.455703
+                  ]
+            },
+            {
+                  "name": "Galleri Emilie",
+                  "text": "O galerie de artă în Loviisa care expune lucrări locale și naționale.",
+                  "category": "museum",
+                  "coords": [
+                        26.231119,
+                        60.452885
+                  ]
+            },
+            {
+                  "name": "Näköala- ja levähdyspaikka",
+                  "text": "Un punct de belvedere în Loviisa care oferă o vedere panoramică asupra orașului și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        26.235214,
+                        60.449614
+                  ]
+            },
+            {
+                  "name": "Loviisan ilmatorjunnan muistotykki",
+                  "text": "Un monument în Loviisa reprezentat de un tun antiaerian istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        26.226201,
+                        60.453806
+                  ]
+            },
+            {
+                  "name": "Harjun sarvilinna",
+                  "text": "Rămășițele zidurilor istorice ale fortăreței care protejau odinioară Loviisa.",
+                  "category": "historical",
+                  "coords": [
+                        26.221426,
+                        60.459079
+                  ]
+            },
+            {
+                  "name": "Harjun portaat",
+                  "text": "O scară care duce pe creasta dealului Myllyharju din Loviisa.",
+                  "category": "natural",
+                  "coords": [
+                        26.228874,
+                        60.45318
+                  ]
+            },
+            {
+                  "name": "Kukkukivi, näköalatorni",
+                  "text": "Un turn de observare în Loviisa pe dealul Myllyharju, cu vedere la mare.",
+                  "category": "natural",
+                  "coords": [
+                        26.230964,
+                        60.445663
+                  ]
+            },
+            {
+                  "name": "Lovisa svenska metodistförsamling",
+                  "text": "Clădirea bisericii metodiste de limbă suedeză din Loviisa.",
+                  "category": "religious",
+                  "coords": [
+                        26.221108,
+                        60.4564
+                  ]
+            },
+            {
+                  "name": "Loviisan kirkko",
+                  "text": "O biserică neogotică de cărămidă din secolul al XIX-lea în Loviisa.",
+                  "category": "religious",
+                  "coords": [
+                        26.222837,
+                        60.456299
+                  ]
+            },
+            {
+                  "name": "Purjelaiva Österstjernan",
+                  "text": "O corabie tradițională din lemn situată în portul Loviisa.",
+                  "category": "landmark",
+                  "coords": [
+                        26.236239,
+                        60.452005
+                  ]
             }
       ],
       "en": [
@@ -1584,6 +5760,159 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         26.238775,
                         60.444186
+                  ]
+            },
+            {
+                  "name": "Loviisa Maritime Museum",
+                  "text": "A museum in Loviisa showcasing the maritime history of the Finnish coastal town.",
+                  "category": "museum",
+                  "coords": [
+                        26.234398,
+                        60.452256
+                  ]
+            },
+            {
+                  "name": "Loviisa Town Museum",
+                  "text": "The Loviisa Town Museum presents the local cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        26.224651,
+                        60.462278
+                  ]
+            },
+            {
+                  "name": "Bastion Ungern",
+                  "text": "A part of the 18th-century historical fortifications in Loviisa.",
+                  "category": "castle",
+                  "coords": [
+                        26.237806,
+                        60.46119
+                  ]
+            },
+            {
+                  "name": "Bastion Rosen",
+                  "text": "A well-preserved section of the old defensive fortifications in Loviisa.",
+                  "category": "castle",
+                  "coords": [
+                        26.237672,
+                        60.463161
+                  ]
+            },
+            {
+                  "name": "Harudden nature reserve",
+                  "text": "A nature reserve near Loviisa, known for its scenic coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.252687,
+                        60.446728
+                  ]
+            },
+            {
+                  "name": "Boulogne Grove",
+                  "text": "A protected natural area in Loviisa featuring mature woodlands.",
+                  "category": "natural",
+                  "coords": [
+                        26.234603,
+                        60.442715
+                  ]
+            },
+            {
+                  "name": "Anchor",
+                  "text": "A monumental anchor in Loviisa symbolizing the town's maritime heritage.",
+                  "category": "historical",
+                  "coords": [
+                        26.226608,
+                        60.457267
+                  ]
+            },
+            {
+                  "name": "Bonga Castle",
+                  "text": "A castle in Loviisa that now serves as a studio and gallery for artist Riitta Nelimarkka.",
+                  "category": "museum",
+                  "coords": [
+                        26.224396,
+                        60.455703
+                  ]
+            },
+            {
+                  "name": "Galleri Emilie",
+                  "text": "An art gallery in Loviisa showcasing local and national artworks.",
+                  "category": "museum",
+                  "coords": [
+                        26.231119,
+                        60.452885
+                  ]
+            },
+            {
+                  "name": "Viewpoint and Rest area",
+                  "text": "A viewpoint in Loviisa offering panoramic views of the town and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        26.235214,
+                        60.449614
+                  ]
+            },
+            {
+                  "name": "Loviisan ilmatorjunnan muistotykki",
+                  "text": "A monument in Loviisa featuring a historical anti-aircraft gun.",
+                  "category": "landmark",
+                  "coords": [
+                        26.226201,
+                        60.453806
+                  ]
+            },
+            {
+                  "name": "Fragment of the Fortress wall",
+                  "text": "Remnants of the historical fortress walls that once protected Loviisa.",
+                  "category": "historical",
+                  "coords": [
+                        26.221426,
+                        60.459079
+                  ]
+            },
+            {
+                  "name": "Harjun portaat",
+                  "text": "A set of stairs leading to the crest of the Myllyharju hill in Loviisa.",
+                  "category": "natural",
+                  "coords": [
+                        26.228874,
+                        60.45318
+                  ]
+            },
+            {
+                  "name": "Kukkukivi, näköalatorni",
+                  "text": "A viewpoint tower in Loviisa on the Myllyharju hill with sea views.",
+                  "category": "natural",
+                  "coords": [
+                        26.230964,
+                        60.445663
+                  ]
+            },
+            {
+                  "name": "Lovisa svenska metodistförsamling",
+                  "text": "The church building of the Swedish-speaking Methodists in Loviisa.",
+                  "category": "religious",
+                  "coords": [
+                        26.221108,
+                        60.4564
+                  ]
+            },
+            {
+                  "name": "Loviisa Church",
+                  "text": "A 19th-century neo-Gothic brick church located in Loviisa.",
+                  "category": "religious",
+                  "coords": [
+                        26.222837,
+                        60.456299
+                  ]
+            },
+            {
+                  "name": "Purjelaiva Österstjernan",
+                  "text": "A traditional wooden sailing ship based in the port of Loviisa.",
+                  "category": "landmark",
+                  "coords": [
+                        26.236239,
+                        60.452005
                   ]
             }
       ]
@@ -1777,6 +6106,69 @@ export const finlandCitiesV2: POI[] = [
                         25.032581,
                         63.903858
                   ]
+            },
+            {
+                  "name": "Kotiseutumuseo Katvala",
+                  "text": "Ein Heimatmuseum in Nivala.",
+                  "category": "museum",
+                  "coords": [
+                        24.989149,
+                        63.921816
+                  ]
+            },
+            {
+                  "name": "Kyösti ja Kalervo Kallion Museo",
+                  "text": "Ein Museum in Nivala, das dem Erbe von Kyösti und Kalervo Kallio gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.959144,
+                        63.927053
+                  ]
+            },
+            {
+                  "name": "Tillaripatsas",
+                  "text": "Ein Denkmal in Nivala, das an die traditionellen Tillari-Handwerker erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        24.959681,
+                        63.929715
+                  ]
+            },
+            {
+                  "name": "Tillari-Galleria",
+                  "text": "Eine Kunstgalerie in Nivala, die lokale und regionale Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.962056,
+                        63.929952
+                  ]
+            },
+            {
+                  "name": "Nivalan Kirkko",
+                  "text": "Die evangelisch-lutherische Kirche von Nivala ist ein bedeutendes religiöses Bauwerk der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        24.956372,
+                        63.929908
+                  ]
+            },
+            {
+                  "name": "Nivlaan helluntaiseurakunta",
+                  "text": "Ein Ort der Anbetung der Pfingstgemeinde in der Stadt Nivala.",
+                  "category": "religious",
+                  "coords": [
+                        24.956616,
+                        63.925462
+                  ]
+            },
+            {
+                  "name": "Nivalan rauhanyhdistys",
+                  "text": "Ein Versammlungshaus der Laestadianer-Gemeinschaft in Nivala.",
+                  "category": "religious",
+                  "coords": [
+                        24.972177,
+                        63.911406
+                  ]
             }
       ],
       "hu": [
@@ -1796,6 +6188,69 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.032581,
                         63.903858
+                  ]
+            },
+            {
+                  "name": "Kotiseutumuseo Katvala",
+                  "text": "Helytörténeti múzeum Nivalában.",
+                  "category": "museum",
+                  "coords": [
+                        24.989149,
+                        63.921816
+                  ]
+            },
+            {
+                  "name": "Kyösti ja Kalervo Kallion Museo",
+                  "text": "Kyösti és Kalervo Kallio életét és munkásságát bemutató múzeum Nivalában.",
+                  "category": "museum",
+                  "coords": [
+                        24.959144,
+                        63.927053
+                  ]
+            },
+            {
+                  "name": "Tillaripatsas",
+                  "text": "A hagyományos Tillari kézműveseknek emléket állító szobor Nivalában.",
+                  "category": "historical",
+                  "coords": [
+                        24.959681,
+                        63.929715
+                  ]
+            },
+            {
+                  "name": "Tillari-Galleria",
+                  "text": "Helyi és regionális kiállításoknak otthont adó művészeti galéria Nivalában.",
+                  "category": "museum",
+                  "coords": [
+                        24.962056,
+                        63.929952
+                  ]
+            },
+            {
+                  "name": "Nivalan Kirkko",
+                  "text": "Nivala evangélikus temploma a város jelentős vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        24.956372,
+                        63.929908
+                  ]
+            },
+            {
+                  "name": "Nivlaan helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet vallási helyszíne Nivala városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.956616,
+                        63.925462
+                  ]
+            },
+            {
+                  "name": "Nivalan rauhanyhdistys",
+                  "text": "A nivalai laestadiánus közösség egyik gyülekezeti háza.",
+                  "category": "religious",
+                  "coords": [
+                        24.972177,
+                        63.911406
                   ]
             }
       ],
@@ -1817,6 +6272,69 @@ export const finlandCitiesV2: POI[] = [
                         25.032581,
                         63.903858
                   ]
+            },
+            {
+                  "name": "Kotiseutumuseo Katvala",
+                  "text": "Un muzeu de istorie locală în Nivala.",
+                  "category": "museum",
+                  "coords": [
+                        24.989149,
+                        63.921816
+                  ]
+            },
+            {
+                  "name": "Kyösti ja Kalervo Kallion Museo",
+                  "text": "Un muzeu în Nivala dedicat vieții și activității lui Kyösti și Kalervo Kallio.",
+                  "category": "museum",
+                  "coords": [
+                        24.959144,
+                        63.927053
+                  ]
+            },
+            {
+                  "name": "Tillaripatsas",
+                  "text": "Un monument în Nivala care onorează meșteșugarii tradiționali Tillari.",
+                  "category": "historical",
+                  "coords": [
+                        24.959681,
+                        63.929715
+                  ]
+            },
+            {
+                  "name": "Tillari-Galleria",
+                  "text": "O galerie de artă din Nivala care găzduiește expoziții locale și regionale.",
+                  "category": "museum",
+                  "coords": [
+                        24.962056,
+                        63.929952
+                  ]
+            },
+            {
+                  "name": "Nivalan Kirkko",
+                  "text": "Biserica evanghelică din Nivala este un edificiu religios important al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        24.956372,
+                        63.929908
+                  ]
+            },
+            {
+                  "name": "Nivlaan helluntaiseurakunta",
+                  "text": "Un lăcaș de cult al bisericii penticostale din orașul Nivala.",
+                  "category": "religious",
+                  "coords": [
+                        24.956616,
+                        63.925462
+                  ]
+            },
+            {
+                  "name": "Nivalan rauhanyhdistys",
+                  "text": "O casă de adunare a comunității laestadiene din Nivala.",
+                  "category": "religious",
+                  "coords": [
+                        24.972177,
+                        63.911406
+                  ]
             }
       ],
       "en": [
@@ -1836,6 +6354,69 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.032581,
                         63.903858
+                  ]
+            },
+            {
+                  "name": "Kotiseutumuseo Katvala",
+                  "text": "A local history museum in Nivala.",
+                  "category": "museum",
+                  "coords": [
+                        24.989149,
+                        63.921816
+                  ]
+            },
+            {
+                  "name": "Kyösti ja Kalervo Kallion Museo",
+                  "text": "A museum in Nivala dedicated to the legacy of Kyösti and Kalervo Kallio.",
+                  "category": "museum",
+                  "coords": [
+                        24.959144,
+                        63.927053
+                  ]
+            },
+            {
+                  "name": "Tillaripatsas",
+                  "text": "A monument in Nivala commemorating the traditional Tillari craftsmen.",
+                  "category": "historical",
+                  "coords": [
+                        24.959681,
+                        63.929715
+                  ]
+            },
+            {
+                  "name": "Tillari-Galleria",
+                  "text": "An art gallery in Nivala hosting local and regional exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        24.962056,
+                        63.929952
+                  ]
+            },
+            {
+                  "name": "Nivalan Kirkko",
+                  "text": "The Evangelical Lutheran church of Nivala is a major religious building in the city.",
+                  "category": "religious",
+                  "coords": [
+                        24.956372,
+                        63.929908
+                  ]
+            },
+            {
+                  "name": "Nivlaan helluntaiseurakunta",
+                  "text": "A place of worship for the Pentecostal community in the town of Nivala.",
+                  "category": "religious",
+                  "coords": [
+                        24.956616,
+                        63.925462
+                  ]
+            },
+            {
+                  "name": "Nivalan rauhanyhdistys",
+                  "text": "A meeting house for the Laestadian community in Nivala.",
+                  "category": "religious",
+                  "coords": [
+                        24.972177,
+                        63.911406
                   ]
             }
       ]
@@ -2155,6 +6736,33 @@ export const finlandCitiesV2: POI[] = [
                         24.361753,
                         61.671338
                   ]
+            },
+            {
+                  "name": "Paltanmäen kotiseutumuseo",
+                  "text": "Ein lokales Heimatmuseum in Paltanmäki, das die Geschichte von Orivesi zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.352972,
+                        61.682992
+                  ]
+            },
+            {
+                  "name": "Oriveden Kirkko",
+                  "text": "Die Hauptkirche von Orivesi dient der lokalen evangelisch-lutherischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        24.357903,
+                        61.673682
+                  ]
+            },
+            {
+                  "name": "Oriveden helluntaiseurakunta",
+                  "text": "Ein Versammlungsort der Pfingstbewegung in Orivesi.",
+                  "category": "religious",
+                  "coords": [
+                        24.360193,
+                        61.67984
+                  ]
             }
       ],
       "hu": [
@@ -2183,6 +6791,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.361753,
                         61.671338
+                  ]
+            },
+            {
+                  "name": "Paltanmäen kotiseutumuseo",
+                  "text": "Paltanmäki helytörténeti múzeuma, amely Orivesi múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.352972,
+                        61.682992
+                  ]
+            },
+            {
+                  "name": "Oriveden Kirkko",
+                  "text": "Orivesi főtemploma, amely a helyi evangélikus közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        24.357903,
+                        61.673682
+                  ]
+            },
+            {
+                  "name": "Oriveden helluntaiseurakunta",
+                  "text": "Pünkösdi vallási közösségi helyszín Orivesi városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.360193,
+                        61.67984
                   ]
             }
       ],
@@ -2213,6 +6848,33 @@ export const finlandCitiesV2: POI[] = [
                         24.361753,
                         61.671338
                   ]
+            },
+            {
+                  "name": "Paltanmäen kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală în Paltanmäki care prezintă trecutul regiunii Orivesi.",
+                  "category": "museum",
+                  "coords": [
+                        24.352972,
+                        61.682992
+                  ]
+            },
+            {
+                  "name": "Oriveden Kirkko",
+                  "text": "Biserica principală din Orivesi, deservind comunitatea evanghelică locală.",
+                  "category": "religious",
+                  "coords": [
+                        24.357903,
+                        61.673682
+                  ]
+            },
+            {
+                  "name": "Oriveden helluntaiseurakunta",
+                  "text": "Un lăcaș de cult al comunității penticostale din Orivesi.",
+                  "category": "religious",
+                  "coords": [
+                        24.360193,
+                        61.67984
+                  ]
             }
       ],
       "en": [
@@ -2241,6 +6903,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.361753,
                         61.671338
+                  ]
+            },
+            {
+                  "name": "Paltanmäen kotiseutumuseo",
+                  "text": "A local history museum in Paltanmäki showcasing the heritage of Orivesi.",
+                  "category": "museum",
+                  "coords": [
+                        24.352972,
+                        61.682992
+                  ]
+            },
+            {
+                  "name": "Oriveden Kirkko",
+                  "text": "The main church of Orivesi, serving the local Evangelical Lutheran congregation.",
+                  "category": "religious",
+                  "coords": [
+                        24.357903,
+                        61.673682
+                  ]
+            },
+            {
+                  "name": "Oriveden helluntaiseurakunta",
+                  "text": "A gathering place for the Pentecostal movement in Orivesi.",
+                  "category": "religious",
+                  "coords": [
+                        24.360193,
+                        61.67984
                   ]
             }
       ]
@@ -2299,6 +6988,60 @@ export const finlandCitiesV2: POI[] = [
                         22.695684,
                         60.416681
                   ]
+            },
+            {
+                  "name": "Käsityömuseo Miila",
+                  "text": "Ein Museum in Paimio, das lokales Kunsthandwerk und Traditionen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.692618,
+                        60.45218
+                  ]
+            },
+            {
+                  "name": "Paimion kesäteatteri",
+                  "text": "Ein beliebtes Freilichttheater in Paimio, das im Sommer Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        22.686575,
+                        60.479448
+                  ]
+            },
+            {
+                  "name": "Paimion Sähkömuseo ja matkailuneuvonta",
+                  "text": "Ein Museum in Paimio, das sich der Geschichte der Elektrizität widmet.",
+                  "category": "museum",
+                  "coords": [
+                        22.693725,
+                        60.452577
+                  ]
+            },
+            {
+                  "name": "Vistan näyttämö",
+                  "text": "Ein lokales Theater in Paimio, das Raum für verschiedene kulturelle Darbietungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        22.688982,
+                        60.455372
+                  ]
+            },
+            {
+                  "name": "Spurilan kartano",
+                  "text": "Ein historisches Herrenhaus in Paimio mit einer langen regionalen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        22.709002,
+                        60.465515
+                  ]
+            },
+            {
+                  "name": "Paimion Pyhän Mikaelin kirkko",
+                  "text": "Eine mittelalterliche Steinkirche in Paimio, die dem Erzengel Michael gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.692753,
+                        60.454845
+                  ]
             }
       ],
       "hu": [
@@ -2309,6 +7052,60 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         22.695684,
                         60.416681
+                  ]
+            },
+            {
+                  "name": "Käsityömuseo Miila",
+                  "text": "A helyi kézművességet és hagyományokat bemutató múzeum Paimióban.",
+                  "category": "museum",
+                  "coords": [
+                        22.692618,
+                        60.45218
+                  ]
+            },
+            {
+                  "name": "Paimion kesäteatteri",
+                  "text": "Népszerű szabadtéri színház Paimióban, nyári előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        22.686575,
+                        60.479448
+                  ]
+            },
+            {
+                  "name": "Paimion Sähkömuseo ja matkailuneuvonta",
+                  "text": "Az elektromosság történetének szentelt múzeum Paimio városában.",
+                  "category": "museum",
+                  "coords": [
+                        22.693725,
+                        60.452577
+                  ]
+            },
+            {
+                  "name": "Vistan näyttämö",
+                  "text": "Helyi színház Paimióban, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        22.688982,
+                        60.455372
+                  ]
+            },
+            {
+                  "name": "Spurilan kartano",
+                  "text": "Történelmi kúria Paimióban, jelentős regionális múlttal.",
+                  "category": "historical",
+                  "coords": [
+                        22.709002,
+                        60.465515
+                  ]
+            },
+            {
+                  "name": "Paimion Pyhän Mikaelin kirkko",
+                  "text": "Szent Mihály arkangyalnak szentelt középkori kőtemplom Paimióban.",
+                  "category": "religious",
+                  "coords": [
+                        22.692753,
+                        60.454845
                   ]
             }
       ],
@@ -2321,6 +7118,60 @@ export const finlandCitiesV2: POI[] = [
                         22.695684,
                         60.416681
                   ]
+            },
+            {
+                  "name": "Käsityömuseo Miila",
+                  "text": "Un muzeu din Paimio care prezintă meșteșugurile și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.692618,
+                        60.45218
+                  ]
+            },
+            {
+                  "name": "Paimion kesäteatteri",
+                  "text": "Un teatru popular în aer liber din Paimio, cu spectacole în timpul verii.",
+                  "category": "cultural",
+                  "coords": [
+                        22.686575,
+                        60.479448
+                  ]
+            },
+            {
+                  "name": "Paimion Sähkömuseo ja matkailuneuvonta",
+                  "text": "Un muzeu din Paimio dedicat istoriei electricității.",
+                  "category": "museum",
+                  "coords": [
+                        22.693725,
+                        60.452577
+                  ]
+            },
+            {
+                  "name": "Vistan näyttämö",
+                  "text": "Un teatru local din Paimio care găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        22.688982,
+                        60.455372
+                  ]
+            },
+            {
+                  "name": "Spurilan kartano",
+                  "text": "Un conac istoric din Paimio cu o lungă istorie regională.",
+                  "category": "historical",
+                  "coords": [
+                        22.709002,
+                        60.465515
+                  ]
+            },
+            {
+                  "name": "Paimion Pyhän Mikaelin kirkko",
+                  "text": "O biserică medievală de piatră din Paimio, dedicată Arhanghelului Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        22.692753,
+                        60.454845
+                  ]
             }
       ],
       "en": [
@@ -2331,6 +7182,60 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         22.695684,
                         60.416681
+                  ]
+            },
+            {
+                  "name": "Käsityömuseo Miila",
+                  "text": "A museum in Paimio showcasing local handicrafts and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        22.692618,
+                        60.45218
+                  ]
+            },
+            {
+                  "name": "Paimion kesäteatteri",
+                  "text": "A popular open-air theatre in Paimio offering summer performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.686575,
+                        60.479448
+                  ]
+            },
+            {
+                  "name": "Paimion Sähkömuseo ja matkailuneuvonta",
+                  "text": "A museum in Paimio dedicated to the history of electricity.",
+                  "category": "museum",
+                  "coords": [
+                        22.693725,
+                        60.452577
+                  ]
+            },
+            {
+                  "name": "Vistan näyttämö",
+                  "text": "A local theatre in Paimio providing a venue for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.688982,
+                        60.455372
+                  ]
+            },
+            {
+                  "name": "Spurilan kartano",
+                  "text": "A historic manor house in Paimio with a long regional history.",
+                  "category": "historical",
+                  "coords": [
+                        22.709002,
+                        60.465515
+                  ]
+            },
+            {
+                  "name": "Paimion Pyhän Mikaelin kirkko",
+                  "text": "A medieval stone church in Paimio dedicated to Saint Michael the Archangel.",
+                  "category": "religious",
+                  "coords": [
+                        22.692753,
+                        60.454845
                   ]
             }
       ]
@@ -2416,6 +7321,87 @@ export const finlandCitiesV2: POI[] = [
                         22.296163,
                         60.313418
                   ]
+            },
+            {
+                  "name": "Pargas Hembygdsmuseum",
+                  "text": "Heimatmuseum in Pargas (Parainen), das historische Gebäude und Artefakte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.297581,
+                        60.300485
+                  ]
+            },
+            {
+                  "name": "Fredrikastugan",
+                  "text": "Ein kleines Häuschen aus dem 18. Jahrhundert in Pargas, einst das Zuhause von Fredrika Runeberg.",
+                  "category": "museum",
+                  "coords": [
+                        22.308741,
+                        60.301548
+                  ]
+            },
+            {
+                  "name": "Pargas industrimuseum",
+                  "text": "Museum, das die Geschichte der Kalksteinindustrie in Parainen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.291004,
+                        60.295462
+                  ]
+            },
+            {
+                  "name": "Furuvik",
+                  "text": "Historisches Anwesen und Herrenhaus im Schärengarten von Parainen.",
+                  "category": "historical",
+                  "coords": [
+                        22.300718,
+                        60.290038
+                  ]
+            },
+            {
+                  "name": "Kalkgruvans utsiktsplats",
+                  "text": "Ein Aussichtspunkt mit Blick auf den massiven Kalkstein-Tagebau in Parainen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.294403,
+                        60.299058
+                  ]
+            },
+            {
+                  "name": "Hundbanans Utsiktsplats",
+                  "text": "Aussichtspunkt in Parainen mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.282722,
+                        60.29922
+                  ]
+            },
+            {
+                  "name": "Hortensiaparken",
+                  "text": "Öffentlicher Park in Parainen, bekannt für seine Hortensienanpflanzungen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.307541,
+                        60.304495
+                  ]
+            },
+            {
+                  "name": "Paraisten vapaaseurakunta",
+                  "text": "Freikirchliche Gemeinde in der Stadt Parainen.",
+                  "category": "religious",
+                  "coords": [
+                        22.295666,
+                        60.299717
+                  ]
+            },
+            {
+                  "name": "Pargas kyrka",
+                  "text": "Eine mittelalterliche Steinkirche in Parainen aus dem 14. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        22.305757,
+                        60.301221
+                  ]
             }
       ],
       "hu": [
@@ -2453,6 +7439,87 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         22.296163,
                         60.313418
+                  ]
+            },
+            {
+                  "name": "Pargas Hembygdsmuseum",
+                  "text": "Pargas (Parainen) helytörténeti múzeuma, amely történelmi épületeket és tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.297581,
+                        60.300485
+                  ]
+            },
+            {
+                  "name": "Fredrikastugan",
+                  "text": "Kis 18. századi házikó Pargasban, amely egykor Fredrika Runeberg otthona volt.",
+                  "category": "museum",
+                  "coords": [
+                        22.308741,
+                        60.301548
+                  ]
+            },
+            {
+                  "name": "Pargas industrimuseum",
+                  "text": "A paraineni mészkőipar történetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.291004,
+                        60.295462
+                  ]
+            },
+            {
+                  "name": "Furuvik",
+                  "text": "Történelmi birtok és kúria a paraineni szigetvilágban.",
+                  "category": "historical",
+                  "coords": [
+                        22.300718,
+                        60.290038
+                  ]
+            },
+            {
+                  "name": "Kalkgruvans utsiktsplats",
+                  "text": "Kilátópálya, amely a paraineni hatalmas külszíni mészkőbányára néz.",
+                  "category": "landmark",
+                  "coords": [
+                        22.294403,
+                        60.299058
+                  ]
+            },
+            {
+                  "name": "Hundbanans Utsiktsplats",
+                  "text": "Kilátóhely Parainenben, amely kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        22.282722,
+                        60.29922
+                  ]
+            },
+            {
+                  "name": "Hortensiaparken",
+                  "text": "Paraineni közpark, amely hortenziaültetvényeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.307541,
+                        60.304495
+                  ]
+            },
+            {
+                  "name": "Paraisten vapaaseurakunta",
+                  "text": "Szabadegyházi gyülekezet Parainen városában.",
+                  "category": "religious",
+                  "coords": [
+                        22.295666,
+                        60.299717
+                  ]
+            },
+            {
+                  "name": "Pargas kyrka",
+                  "text": "Középkori kőtemplom Parainenben, amely a 14. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        22.305757,
+                        60.301221
                   ]
             }
       ],
@@ -2492,6 +7559,87 @@ export const finlandCitiesV2: POI[] = [
                         22.296163,
                         60.313418
                   ]
+            },
+            {
+                  "name": "Pargas Hembygdsmuseum",
+                  "text": "Muzeu al patrimoniului local din Pargas (Parainen), care expune clădiri și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        22.297581,
+                        60.300485
+                  ]
+            },
+            {
+                  "name": "Fredrikastugan",
+                  "text": "O mică căsuță din secolul al XVIII-lea în Pargas, fosta casă a Fredrikăi Runeberg.",
+                  "category": "museum",
+                  "coords": [
+                        22.308741,
+                        60.301548
+                  ]
+            },
+            {
+                  "name": "Pargas industrimuseum",
+                  "text": "Muzeu care documentează istoria industriei calcarului în Parainen.",
+                  "category": "museum",
+                  "coords": [
+                        22.291004,
+                        60.295462
+                  ]
+            },
+            {
+                  "name": "Furuvik",
+                  "text": "Proprietate istorică și conac în zona arhipelagului Parainen.",
+                  "category": "historical",
+                  "coords": [
+                        22.300718,
+                        60.290038
+                  ]
+            },
+            {
+                  "name": "Kalkgruvans utsiktsplats",
+                  "text": "Un punct de belvedere cu vedere la uriașa carieră de calcar în aer liber din Parainen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.294403,
+                        60.299058
+                  ]
+            },
+            {
+                  "name": "Hundbanans Utsiktsplats",
+                  "text": "Punct de belvedere în Parainen care oferă panorame ale peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        22.282722,
+                        60.29922
+                  ]
+            },
+            {
+                  "name": "Hortensiaparken",
+                  "text": "Parc public din Parainen, cunoscut pentru plantațiile sale de hortensii.",
+                  "category": "landmark",
+                  "coords": [
+                        22.307541,
+                        60.304495
+                  ]
+            },
+            {
+                  "name": "Paraisten vapaaseurakunta",
+                  "text": "Congregație a bisericii libere în orașul Parainen.",
+                  "category": "religious",
+                  "coords": [
+                        22.295666,
+                        60.299717
+                  ]
+            },
+            {
+                  "name": "Pargas kyrka",
+                  "text": "O biserică medievală de piatră în Parainen, datând din secolul al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        22.305757,
+                        60.301221
+                  ]
             }
       ],
       "en": [
@@ -2529,6 +7677,87 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         22.296163,
                         60.313418
+                  ]
+            },
+            {
+                  "name": "Pargas Hembygdsmuseum",
+                  "text": "Local heritage museum in Pargas (Parainen) displaying historic buildings and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        22.297581,
+                        60.300485
+                  ]
+            },
+            {
+                  "name": "Fredrikastugan",
+                  "text": "A small 18th-century cottage in Pargas, once home to Fredrika Runeberg.",
+                  "category": "museum",
+                  "coords": [
+                        22.308741,
+                        60.301548
+                  ]
+            },
+            {
+                  "name": "Pargas Industrial Museum",
+                  "text": "Museum documenting the history of the limestone industry in Parainen.",
+                  "category": "museum",
+                  "coords": [
+                        22.291004,
+                        60.295462
+                  ]
+            },
+            {
+                  "name": "Furuvik",
+                  "text": "Historic estate and manor house in the Parainen archipelago area.",
+                  "category": "historical",
+                  "coords": [
+                        22.300718,
+                        60.290038
+                  ]
+            },
+            {
+                  "name": "Quarry Scenic View",
+                  "text": "A viewpoint overlooking the massive open-pit limestone quarry in Parainen.",
+                  "category": "landmark",
+                  "coords": [
+                        22.294403,
+                        60.299058
+                  ]
+            },
+            {
+                  "name": "Hundbanans Utsiktsplats",
+                  "text": "Scenic viewpoint in Parainen offering vistas of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.282722,
+                        60.29922
+                  ]
+            },
+            {
+                  "name": "Hortensiaparken",
+                  "text": "Public park in Parainen known for its hydrangea plantings.",
+                  "category": "landmark",
+                  "coords": [
+                        22.307541,
+                        60.304495
+                  ]
+            },
+            {
+                  "name": "Paraisten vapaaseurakunta",
+                  "text": "Free church congregation in the city of Parainen.",
+                  "category": "religious",
+                  "coords": [
+                        22.295666,
+                        60.299717
+                  ]
+            },
+            {
+                  "name": "Pargas Church",
+                  "text": "A medieval stone church in Parainen, dating back to the 14th century.",
+                  "category": "religious",
+                  "coords": [
+                        22.305757,
+                        60.301221
                   ]
             }
       ]
@@ -2587,6 +7816,33 @@ export const finlandCitiesV2: POI[] = [
                         23.010218,
                         62.014266
                   ]
+            },
+            {
+                  "name": "Militariamuseo Karhumäki",
+                  "text": "Ein Militärmuseum in Parkano, das historische Ausrüstung und Fahrzeuge ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.000473,
+                        62.001144
+                  ]
+            },
+            {
+                  "name": "Parkanon kotiseutumuseo",
+                  "text": "Ein Heimatmuseum in Parkano, das sich auf das lokale kulturelle Erbe konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        23.022776,
+                        62.012298
+                  ]
+            },
+            {
+                  "name": "Parkanon helluntaiseurakunta",
+                  "text": "Der Ort für die Gottesdienste der Pfingstgemeinde in Parkano.",
+                  "category": "religious",
+                  "coords": [
+                        23.024603,
+                        62.010736
+                  ]
             }
       ],
       "hu": [
@@ -2597,6 +7853,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         23.010218,
                         62.014266
+                  ]
+            },
+            {
+                  "name": "Militariamuseo Karhumäki",
+                  "text": "Parkanói hadtörténeti múzeum, amely történelmi felszereléseket és járműveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.000473,
+                        62.001144
+                  ]
+            },
+            {
+                  "name": "Parkanon kotiseutumuseo",
+                  "text": "Parkanói helytörténeti múzeum, amely a helyi kulturális örökségre fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        23.022776,
+                        62.012298
+                  ]
+            },
+            {
+                  "name": "Parkanon helluntaiseurakunta",
+                  "text": "A parkanói pünkösdi gyülekezet istentiszteleteinek helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        23.024603,
+                        62.010736
                   ]
             }
       ],
@@ -2609,6 +7892,33 @@ export const finlandCitiesV2: POI[] = [
                         23.010218,
                         62.014266
                   ]
+            },
+            {
+                  "name": "Militariamuseo Karhumäki",
+                  "text": "Un muzeu militar în Parkano care expune echipamente și vehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        23.000473,
+                        62.001144
+                  ]
+            },
+            {
+                  "name": "Parkanon kotiseutumuseo",
+                  "text": "Un muzeu de istorie locală în Parkano, axat pe patrimoniul cultural al zonei.",
+                  "category": "museum",
+                  "coords": [
+                        23.022776,
+                        62.012298
+                  ]
+            },
+            {
+                  "name": "Parkanon helluntaiseurakunta",
+                  "text": "Locul de desfășurare a serviciilor religioase pentru comunitatea penticostală din Parkano.",
+                  "category": "religious",
+                  "coords": [
+                        23.024603,
+                        62.010736
+                  ]
             }
       ],
       "en": [
@@ -2619,6 +7929,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         23.010218,
                         62.014266
+                  ]
+            },
+            {
+                  "name": "Militariamuseo Karhumäki",
+                  "text": "A military museum in Parkano displaying historical equipment and vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        23.000473,
+                        62.001144
+                  ]
+            },
+            {
+                  "name": "Parkanon kotiseutumuseo",
+                  "text": "A local history museum in Parkano focusing on the area's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        23.022776,
+                        62.012298
+                  ]
+            },
+            {
+                  "name": "Parkanon helluntaiseurakunta",
+                  "text": "The venue for the Pentecostal congregation's services in Parkano.",
+                  "category": "religious",
+                  "coords": [
+                        23.024603,
+                        62.010736
                   ]
             }
       ]
@@ -2677,6 +8014,51 @@ export const finlandCitiesV2: POI[] = [
                         27.155792,
                         62.304778
                   ]
+            },
+            {
+                  "name": "Savon radan museo",
+                  "text": "Ein Eisenbahnmuseum in Pieksämäki, das in einem alten Bahnhofsgebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.167864,
+                        62.300574
+                  ]
+            },
+            {
+                  "name": "Poleeni",
+                  "text": "Ein kulturelles Zentrum und Theater in Pieksämäki für Kunst und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        27.153636,
+                        62.301132
+                  ]
+            },
+            {
+                  "name": "Pieksämäen iso-pappila",
+                  "text": "Ein historisches Pfarrhaus in Pieksämäki, das heute für kulturelle Zwecke genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        27.120998,
+                        62.303136
+                  ]
+            },
+            {
+                  "name": "Pieksämäen helluntaiseurakunta",
+                  "text": "Eine moderne Kirche der Pfingstgemeinde in Pieksämäki.",
+                  "category": "religious",
+                  "coords": [
+                        27.13734,
+                        62.297727
+                  ]
+            },
+            {
+                  "name": "Pieksämäen vanha kirkko",
+                  "text": "Eine malerische Holzkirche aus dem 18. Jahrhundert in Pieksämäki.",
+                  "category": "religious",
+                  "coords": [
+                        27.127461,
+                        62.300979
+                  ]
             }
       ],
       "hu": [
@@ -2687,6 +8069,51 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         27.155792,
                         62.304778
+                  ]
+            },
+            {
+                  "name": "Savon radan museo",
+                  "text": "Vasúti múzeum Pieksämäkiben, amely egy régi állomásépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        27.167864,
+                        62.300574
+                  ]
+            },
+            {
+                  "name": "Poleeni",
+                  "text": "Pieksämäki kulturális központja és színháza művészeti események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        27.153636,
+                        62.301132
+                  ]
+            },
+            {
+                  "name": "Pieksämäen iso-pappila",
+                  "text": "Történelmi parókia Pieksämäkiben, amely ma kulturális célokat szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        27.120998,
+                        62.303136
+                  ]
+            },
+            {
+                  "name": "Pieksämäen helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet modern temploma Pieksämäkiben.",
+                  "category": "religious",
+                  "coords": [
+                        27.13734,
+                        62.297727
+                  ]
+            },
+            {
+                  "name": "Pieksämäen vanha kirkko",
+                  "text": "Pieksämäki festői, 18. századi fatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        27.127461,
+                        62.300979
                   ]
             }
       ],
@@ -2699,6 +8126,51 @@ export const finlandCitiesV2: POI[] = [
                         27.155792,
                         62.304778
                   ]
+            },
+            {
+                  "name": "Savon radan museo",
+                  "text": "Un muzeu feroviar în Pieksämäki, găzduit într-o veche clădire de gară.",
+                  "category": "museum",
+                  "coords": [
+                        27.167864,
+                        62.300574
+                  ]
+            },
+            {
+                  "name": "Poleeni",
+                  "text": "Un centru cultural și teatru în Pieksämäki pentru artă și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        27.153636,
+                        62.301132
+                  ]
+            },
+            {
+                  "name": "Pieksämäen iso-pappila",
+                  "text": "O parohie istorică din Pieksämäki, utilizată astăzi în scopuri culturale.",
+                  "category": "historical",
+                  "coords": [
+                        27.120998,
+                        62.303136
+                  ]
+            },
+            {
+                  "name": "Pieksämäen helluntaiseurakunta",
+                  "text": "O biserică modernă a comunității penticostale din Pieksämäki.",
+                  "category": "religious",
+                  "coords": [
+                        27.13734,
+                        62.297727
+                  ]
+            },
+            {
+                  "name": "Pieksämäen vanha kirkko",
+                  "text": "O biserică pitorească de lemn din secolul al XVIII-lea în Pieksämäki.",
+                  "category": "religious",
+                  "coords": [
+                        27.127461,
+                        62.300979
+                  ]
             }
       ],
       "en": [
@@ -2709,6 +8181,51 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         27.155792,
                         62.304778
+                  ]
+            },
+            {
+                  "name": "Savo railway museum",
+                  "text": "A railway museum in Pieksämäki housed in an old station building.",
+                  "category": "museum",
+                  "coords": [
+                        27.167864,
+                        62.300574
+                  ]
+            },
+            {
+                  "name": "Poleeni",
+                  "text": "A cultural centre and theatre in Pieksämäki for arts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.153636,
+                        62.301132
+                  ]
+            },
+            {
+                  "name": "Pieksämäen iso-pappila",
+                  "text": "A historic parsonage in Pieksämäki, now used for cultural purposes.",
+                  "category": "historical",
+                  "coords": [
+                        27.120998,
+                        62.303136
+                  ]
+            },
+            {
+                  "name": "Pieksämäen helluntaiseurakunta",
+                  "text": "A modern church of the Pentecostal community in Pieksämäki.",
+                  "category": "religious",
+                  "coords": [
+                        27.13734,
+                        62.297727
+                  ]
+            },
+            {
+                  "name": "Pieksämäki old church",
+                  "text": "A picturesque 18th-century wooden church in Pieksämäki.",
+                  "category": "religious",
+                  "coords": [
+                        27.127461,
+                        62.300979
                   ]
             }
       ]
@@ -2892,7 +8409,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-pudasjarvi-cities-v2.webp",
   },
   {
-    id: "finland-pyhajarvi-cities-v2",
+    id: "finland-pyhajarvi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pyhäjärven helluntaiseurakunta",
+                  "text": "Ein Gebetshaus der Pfingstgemeinde in Pyhäjärvi.",
+                  "category": "religious",
+                  "coords": [
+                        25.974769,
+                        63.685134
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pyhäjärven helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet imaháza Pyhäjärviben.",
+                  "category": "religious",
+                  "coords": [
+                        25.974769,
+                        63.685134
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pyhäjärven helluntaiseurakunta",
+                  "text": "O casă de rugăciune a comunității penticostale din Pyhäjärvi.",
+                  "category": "religious",
+                  "coords": [
+                        25.974769,
+                        63.685134
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pyhäjärven helluntaiseurakunta",
+                  "text": "A place of worship for the Pentecostal community in Pyhäjärvi.",
+                  "category": "religious",
+                  "coords": [
+                        25.974769,
+                        63.685134
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Pyhäjärvi", hu: "Pyhäjärvi", ro: "Pyhäjärvi", en: "Pyhäjärvi" },
@@ -2956,6 +8518,123 @@ export const finlandCitiesV2: POI[] = [
                         24.448745,
                         64.676421
                   ]
+            },
+            {
+                  "name": "Raahen museo",
+                  "text": "Finnlands ältestes lokalhistorisches Museum präsentiert das maritime Erbe von Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.471415,
+                        64.687487
+                  ]
+            },
+            {
+                  "name": "Raahen teatteri",
+                  "text": "Ein lokales Theater in Raahe, das verschiedene kulturelle Aufführungen und Stücke anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        24.477538,
+                        64.686126
+                  ]
+            },
+            {
+                  "name": "Wanha Apteekki",
+                  "text": "Ein Museum in einem alten Apothekengebäude im historischen Zentrum von Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.475372,
+                        64.687265
+                  ]
+            },
+            {
+                  "name": "Kertunkankaan kehäröykkiöt",
+                  "text": "Eine archäologische Stätte in Raahe mit antiken Steinringgräbern.",
+                  "category": "historical",
+                  "coords": [
+                        24.488723,
+                        64.659593
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Ein spezieller Strandabschnitt in Raahe, an dem Hunde schwimmen dürfen.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Kruununmakasiinimuseo",
+                  "text": "Ein Museum in einem historischen ehemaligen Kronspeicher in Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.468676,
+                        64.681191
+                  ]
+            },
+            {
+                  "name": "Raahen saariston suojelualue",
+                  "text": "Ein Naturschutzgebiet, das das wunderschöne Archipelgebiet von Raahe umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        24.414498,
+                        64.69138
+                  ]
+            },
+            {
+                  "name": "Pertti Vuoren ateljee",
+                  "text": "Das Atelier und die Galerie des Künstlers Pertti Vuori in Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.481136,
+                        64.685753
+                  ]
+            },
+            {
+                  "name": "Galleria myötätuuli",
+                  "text": "Eine Kunstgalerie in Raahe, die verschiedene wechselnde Ausstellungen lokaler und nationaler Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.479673,
+                        64.684975
+                  ]
+            },
+            {
+                  "name": "Elomaan sahan jäännökset",
+                  "text": "Die Ruinen und Überreste des historischen Sägewerks Elomaa in Raahe.",
+                  "category": "historical",
+                  "coords": [
+                        24.481623,
+                        64.681598
+                  ]
+            },
+            {
+                  "name": "Janssonin Galleria",
+                  "text": "Eine Kunstgalerie in Raahe, die Werke lokaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.47594,
+                        64.68389
+                  ]
+            },
+            {
+                  "name": "Suomen pisin seinä",
+                  "text": "Eine bemerkenswerte lange Holzwand in Raahe, die als die längste ihrer Art in Finnland gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.475326,
+                        64.689924
+                  ]
+            },
+            {
+                  "name": "Raahen helluntaiseurakunta",
+                  "text": "Ein Gebäude der Pfingstgemeinde, das religiöse Dienste für die örtliche Gemeinschaft in Raahe anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        24.481209,
+                        64.687114
+                  ]
             }
       ],
       "hu": [
@@ -2975,6 +8654,123 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.448745,
                         64.676421
+                  ]
+            },
+            {
+                  "name": "Raahen museo",
+                  "text": "Finnország legrégebbi helytörténeti múzeuma, amely Raahe tengerészeti örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.471415,
+                        64.687487
+                  ]
+            },
+            {
+                  "name": "Raahen teatteri",
+                  "text": "Helyi színház Raahe városában, amely különféle kulturális előadásokat és darabokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        24.477538,
+                        64.686126
+                  ]
+            },
+            {
+                  "name": "Wanha Apteekki",
+                  "text": "Egy régi gyógyszertár épületében található múzeum Raahe történelmi központjában.",
+                  "category": "museum",
+                  "coords": [
+                        24.475372,
+                        64.687265
+                  ]
+            },
+            {
+                  "name": "Kertunkankaan kehäröykkiöt",
+                  "text": "Régészeti lelőhely Raahe városában, ókori kőgyűrűs sírokkal.",
+                  "category": "historical",
+                  "coords": [
+                        24.488723,
+                        64.659593
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "Egy kijelölt strandrész Raahe városában, ahol a kutyák úszhatnak.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Kruununmakasiinimuseo",
+                  "text": "Egy múzeum, amely egy történelmi egykori koronaraktárban található Raahe városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.468676,
+                        64.681191
+                  ]
+            },
+            {
+                  "name": "Raahen saariston suojelualue",
+                  "text": "Természetvédelmi terület, amely Raahe gyönyörű szigetvilágát foglalja magában.",
+                  "category": "natural",
+                  "coords": [
+                        24.414498,
+                        64.69138
+                  ]
+            },
+            {
+                  "name": "Pertti Vuoren ateljee",
+                  "text": "Pertti Vuori művész műterme és galériája Raahe városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.481136,
+                        64.685753
+                  ]
+            },
+            {
+                  "name": "Galleria myötätuuli",
+                  "text": "Művészeti galéria Raahe városában, amely helyi és nemzeti művészek időszaki kiállításainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        24.479673,
+                        64.684975
+                  ]
+            },
+            {
+                  "name": "Elomaan sahan jäännökset",
+                  "text": "A történelmi Elomaa fűrészüzem romjai és maradványai Raahe városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.481623,
+                        64.681598
+                  ]
+            },
+            {
+                  "name": "Janssonin Galleria",
+                  "text": "Művészeti galéria Raahe városában, amely helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.47594,
+                        64.68389
+                  ]
+            },
+            {
+                  "name": "Suomen pisin seinä",
+                  "text": "Egy figyelemre méltó hosszú fafal Raahe városában, amelyet Finnország leghosszabb ilyen jellegű falának tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        24.475326,
+                        64.689924
+                  ]
+            },
+            {
+                  "name": "Raahen helluntaiseurakunta",
+                  "text": "Pünkösdi templomépület, amely vallási szolgáltatásokat nyújt a helyi közösség számára Raahe városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.481209,
+                        64.687114
                   ]
             }
       ],
@@ -2996,6 +8792,123 @@ export const finlandCitiesV2: POI[] = [
                         24.448745,
                         64.676421
                   ]
+            },
+            {
+                  "name": "Raahen museo",
+                  "text": "Cel mai vechi muzeu de istorie locală din Finlanda, care prezintă moștenirea maritimă a orașului Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.471415,
+                        64.687487
+                  ]
+            },
+            {
+                  "name": "Raahen teatteri",
+                  "text": "Un teatru local din Raahe care oferă diverse spectacole culturale și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        24.477538,
+                        64.686126
+                  ]
+            },
+            {
+                  "name": "Wanha Apteekki",
+                  "text": "Un muzeu situat într-o clădire de farmacie veche din centrul istoric al orașului Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.475372,
+                        64.687265
+                  ]
+            },
+            {
+                  "name": "Kertunkankaan kehäröykkiöt",
+                  "text": "Un sit arheologic din Raahe care prezintă movile antice de piatră în formă de inel.",
+                  "category": "historical",
+                  "coords": [
+                        24.488723,
+                        64.659593
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "O zonă de plajă dedicată în Raahe unde câinii au voie să înoate.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Kruununmakasiinimuseo",
+                  "text": "Un muzeu găzduit într-un fost hambar istoric al coroanei din Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.468676,
+                        64.681191
+                  ]
+            },
+            {
+                  "name": "Raahen saariston suojelualue",
+                  "text": "O rezervație naturală protejată care cuprinde frumoasa zonă de arhipelag din Raahe.",
+                  "category": "natural",
+                  "coords": [
+                        24.414498,
+                        64.69138
+                  ]
+            },
+            {
+                  "name": "Pertti Vuoren ateljee",
+                  "text": "Studioul și galeria artistului Pertti Vuori, situate în Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.481136,
+                        64.685753
+                  ]
+            },
+            {
+                  "name": "Galleria myötätuuli",
+                  "text": "O galerie de artă din Raahe care găzduiește diverse expoziții temporare de artă locală și națională.",
+                  "category": "museum",
+                  "coords": [
+                        24.479673,
+                        64.684975
+                  ]
+            },
+            {
+                  "name": "Elomaan sahan jäännökset",
+                  "text": "Ruinele și vestigiile gaterului istoric Elomaa din Raahe.",
+                  "category": "historical",
+                  "coords": [
+                        24.481623,
+                        64.681598
+                  ]
+            },
+            {
+                  "name": "Janssonin Galleria",
+                  "text": "O galerie de artă din Raahe care prezintă lucrări ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        24.47594,
+                        64.68389
+                  ]
+            },
+            {
+                  "name": "Suomen pisin seinä",
+                  "text": "Un perete lung de lemn din Raahe, considerat cel mai lung de acest tip din Finlanda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.475326,
+                        64.689924
+                  ]
+            },
+            {
+                  "name": "Raahen helluntaiseurakunta",
+                  "text": "O clădire a bisericii penticostale care oferă servicii religioase comunității locale din Raahe.",
+                  "category": "religious",
+                  "coords": [
+                        24.481209,
+                        64.687114
+                  ]
             }
       ],
       "en": [
@@ -3015,6 +8928,123 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.448745,
                         64.676421
+                  ]
+            },
+            {
+                  "name": "Raahen museo",
+                  "text": "The oldest local history museum in Finland, showcasing the maritime heritage of Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.471415,
+                        64.687487
+                  ]
+            },
+            {
+                  "name": "Raahen teatteri",
+                  "text": "A local theatre in Raahe offering various cultural performances and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        24.477538,
+                        64.686126
+                  ]
+            },
+            {
+                  "name": "Wanha Apteekki",
+                  "text": "A museum located in an old pharmacy building in the historic center of Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.475372,
+                        64.687265
+                  ]
+            },
+            {
+                  "name": "Kertunkankaan kehäröykkiöt",
+                  "text": "An archaeological site in Raahe featuring ancient stone ring cairns.",
+                  "category": "historical",
+                  "coords": [
+                        24.488723,
+                        64.659593
+                  ]
+            },
+            {
+                  "name": "Koirien uimaranta",
+                  "text": "A dedicated beach area in Raahe where dogs are allowed to swim.",
+                  "category": "recreational",
+                  "coords": [
+                        24.461325,
+                        64.688029
+                  ]
+            },
+            {
+                  "name": "Kruununmakasiinimuseo",
+                  "text": "A museum housed in a historic former crown granary in Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.468676,
+                        64.681191
+                  ]
+            },
+            {
+                  "name": "Raahen saariston suojelualue",
+                  "text": "A protected nature reserve encompassing the beautiful archipelago area of Raahe.",
+                  "category": "natural",
+                  "coords": [
+                        24.414498,
+                        64.69138
+                  ]
+            },
+            {
+                  "name": "Pertti Vuoren ateljee",
+                  "text": "The studio and gallery of artist Pertti Vuori, located in Raahe.",
+                  "category": "museum",
+                  "coords": [
+                        24.481136,
+                        64.685753
+                  ]
+            },
+            {
+                  "name": "Galleria myötätuuli",
+                  "text": "An art gallery in Raahe hosting various temporary exhibitions of local and national art.",
+                  "category": "museum",
+                  "coords": [
+                        24.479673,
+                        64.684975
+                  ]
+            },
+            {
+                  "name": "Elomaan sahan jäännökset",
+                  "text": "The ruins and remains of the historic Elomaa sawmill in Raahe.",
+                  "category": "historical",
+                  "coords": [
+                        24.481623,
+                        64.681598
+                  ]
+            },
+            {
+                  "name": "Janssonin Galleria",
+                  "text": "An art gallery in Raahe showcasing works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        24.47594,
+                        64.68389
+                  ]
+            },
+            {
+                  "name": "The longest wall in Finland",
+                  "text": "A notable long wooden wall in Raahe, considered the longest of its kind in Finland.",
+                  "category": "landmark",
+                  "coords": [
+                        24.475326,
+                        64.689924
+                  ]
+            },
+            {
+                  "name": "Raahen helluntaiseurakunta",
+                  "text": "A Pentecostal church building providing religious services for the local community in Raahe.",
+                  "category": "religious",
+                  "coords": [
+                        24.481209,
+                        64.687114
                   ]
             }
       ]
@@ -3063,7 +9093,1492 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-raahe-cities-v2.webp",
   },
   {
-    id: "finland-raisio-cities-v2",
+    id: "finland-raisio-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kansakoulunmäki",
+                  "text": "Eine archäologische Ausgrabungsstätte in Raisio mit Funden aus der Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        22.190852,
+                        60.468571
+                  ]
+            },
+            {
+                  "name": "Tuomala",
+                  "text": "Ein antikes Siedlungsgebiet und eine archäologische Stätte in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.177403,
+                        60.489218
+                  ]
+            },
+            {
+                  "name": "Petterinpelto",
+                  "text": "Eine historische Ausgrabungsstätte in Raisio, die für ihre archäologischen Funde bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.17829,
+                        60.490714
+                  ]
+            },
+            {
+                  "name": "Hyrköinen",
+                  "text": "Eine bedeutende archäologische Zone in der Gemeinde Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.164277,
+                        60.457508
+                  ]
+            },
+            {
+                  "name": "Papinkallio",
+                  "text": "Ein prähistorischer Fundort in Raisio, der archäologisch untersucht wurde.",
+                  "category": "historical",
+                  "coords": [
+                        22.184661,
+                        60.477907
+                  ]
+            },
+            {
+                  "name": "Huhkonkallio",
+                  "text": "Eine archäologische Stätte in Raisio, die Aufschluss über die frühe Besiedlung gibt.",
+                  "category": "historical",
+                  "coords": [
+                        22.19499,
+                        60.473753
+                  ]
+            },
+            {
+                  "name": "Kimalistonmäki",
+                  "text": "Ein archäologisch geschütztes Gebiet in Raisio mit historischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        22.187023,
+                        60.484994
+                  ]
+            },
+            {
+                  "name": "Tortti",
+                  "text": "Eine antike Stätte in Raisio, die als archäologisches Denkmal eingestuft ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.192605,
+                        60.499519
+                  ]
+            },
+            {
+                  "name": "Jokkinen",
+                  "text": "Ein archäologisches Interessengebiet in der Stadt Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.190953,
+                        60.500559
+                  ]
+            },
+            {
+                  "name": "Varppimäki",
+                  "text": "Eine Fundstätte in Raisio mit Überresten aus vergangenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        22.155007,
+                        60.486484
+                  ]
+            },
+            {
+                  "name": "Kalliorinne",
+                  "text": "Eine archäologische Stätte in Raisio, die Teil des kulturellen Erbes der Region ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.160301,
+                        60.487045
+                  ]
+            },
+            {
+                  "name": "Kyläklemelä",
+                  "text": "Ein Gebiet in Raisio, in dem archäologische Artefakte entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        22.159886,
+                        60.490181
+                  ]
+            },
+            {
+                  "name": "Tasalanhovi",
+                  "text": "Eine historische Stätte in Raisio mit archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        22.163991,
+                        60.484685
+                  ]
+            },
+            {
+                  "name": "Lumparlanpuisto",
+                  "text": "Ein Parkgebiet in Raisio, das als archäologische Stätte ausgewiesen ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.162617,
+                        60.48237
+                  ]
+            },
+            {
+                  "name": "Siirinpuisto",
+                  "text": "Ein öffentlicher Park in Raisio, der auch eine archäologische Ausgrabungsstätte beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        22.192405,
+                        60.470345
+                  ]
+            },
+            {
+                  "name": "Siiri 2",
+                  "text": "Eine von zwei nahegelegenen archäologischen Fundstellen in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.186082,
+                        60.471328
+                  ]
+            },
+            {
+                  "name": "Linnasmäki",
+                  "text": "Eine bedeutende prähistorische Hügelfestung und archäologische Stätte in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.186862,
+                        60.472849
+                  ]
+            },
+            {
+                  "name": "Laulumaa ja Römpötti",
+                  "text": "Eine archäologische Zone in Raisio, die zwei historische Flurnamen umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        22.18199,
+                        60.478516
+                  ]
+            },
+            {
+                  "name": "Pappilanmäki",
+                  "text": "Eine historische Anhöhe in Raisio mit bedeutenden archäologischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        22.169703,
+                        60.483758
+                  ]
+            },
+            {
+                  "name": "Nallinkatu",
+                  "text": "Ein archäologischer Fundort im städtischen Bereich von Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.171838,
+                        60.486056
+                  ]
+            },
+            {
+                  "name": "Raision kirkko",
+                  "text": "Das Gebiet um die Kirche von Raisio mit archäologischen Spuren aus dem Mittelalter.",
+                  "category": "historical",
+                  "coords": [
+                        22.178192,
+                        60.484533
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 1",
+                  "text": "Teil eines größeren archäologischen Komplexes in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.179392,
+                        60.490921
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 2",
+                  "text": "Die zweite Fundstelle des Iso-Kummala-Komplexes in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.179869,
+                        60.492338
+                  ]
+            },
+            {
+                  "name": "Vehon pelto",
+                  "text": "Eine Feldfläche in Raisio, die als archäologische Stätte registriert ist.",
+                  "category": "historical",
+                  "coords": [
+                        22.185528,
+                        60.493308
+                  ]
+            },
+            {
+                  "name": "Vähätalon aitta",
+                  "text": "Ein historischer Speicherort mit archäologischer Bedeutung in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.122532,
+                        60.494513
+                  ]
+            },
+            {
+                  "name": "Kuppikivi",
+                  "text": "Ein prähistorischer Schalenstein (Kuppikivi) und eine archäologische Stätte in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.196025,
+                        60.472325
+                  ]
+            },
+            {
+                  "name": "Pernon kartano",
+                  "text": "Das Gelände des alten Herrenhauses Perno mit archäologischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        22.1502,
+                        60.458664
+                  ]
+            },
+            {
+                  "name": "Raision museo Harkko",
+                  "text": "Das städtische Museum von Raisio, das Archäologie und zeitgenössische Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.164577,
+                        60.480344
+                  ]
+            },
+            {
+                  "name": "Pähkinäsaari",
+                  "text": "Ein Naturschutzgebiet in Raisio, das für seine reiche Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.207661,
+                        60.487365
+                  ]
+            },
+            {
+                  "name": "Raision asemanseutu",
+                  "text": "Das Gebiet um den Bahnhof von Raisio beherbergt bedeutende archäologische Stätten.",
+                  "category": "historical",
+                  "coords": [
+                        22.127234,
+                        60.486718
+                  ]
+            },
+            {
+                  "name": "Pappilan männikkö",
+                  "text": "Ein geschützter Kiefernwald in Raisio mit hohem ökologischem Wert.",
+                  "category": "natural",
+                  "coords": [
+                        22.172934,
+                        60.484137
+                  ]
+            },
+            {
+                  "name": "Ihalan kuuset",
+                  "text": "Ein Naturschutzgebiet in Raisio, das alte Fichtenbestände bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        22.18267,
+                        60.463407
+                  ]
+            },
+            {
+                  "name": "Toravuoren niinipuut",
+                  "text": "Ein Schutzgebiet in Raisio für den Erhalt seltener Lindenbäume.",
+                  "category": "natural",
+                  "coords": [
+                        22.152316,
+                        60.499419
+                  ]
+            },
+            {
+                  "name": "Kuuanvuoren pähkinälehto",
+                  "text": "Ein geschützter Haselhain in Raisio, der Teil des lokalen Naturnetzes ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.140979,
+                        60.49452
+                  ]
+            },
+            {
+                  "name": "Krookilan kotiseutukeskus",
+                  "text": "Ein Museum und Kulturzentrum in Raisio, das das traditionelle Bauernleben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.138509,
+                        60.465365
+                  ]
+            },
+            {
+                  "name": "Raisionlahti",
+                  "text": "Eine flache Meeresbucht in Raisio, die ein wichtiger Ort für die Vogelbeobachtung ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.115872,
+                        60.4595
+                  ]
+            },
+            {
+                  "name": "Huhkon kartano",
+                  "text": "Ein historisches Herrenhaus in Raisio, das heute für kulturelle Zwecke genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        22.193537,
+                        60.475602
+                  ]
+            },
+            {
+                  "name": "Hintsan kartano",
+                  "text": "Ein denkmalgeschütztes Herrenhaus in Raisio mit einer langen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        22.180626,
+                        60.493801
+                  ]
+            },
+            {
+                  "name": "Optisen lennättimen muistomerkki",
+                  "text": "Ein Aussichtspunkt in Raisio, der an den ehemaligen optischen Telegrafen erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        22.142274,
+                        60.493451
+                  ]
+            },
+            {
+                  "name": "Alppiruusupuisto",
+                  "text": "Ein öffentlicher Park in Raisio, der für seine prächtige Rhododendron-Blüte bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.171691,
+                        60.478443
+                  ]
+            },
+            {
+                  "name": "Raision Vapaaseurakunta",
+                  "text": "Ein Gotteshaus der freien evangelischen Gemeinde in Raisio.",
+                  "category": "religious",
+                  "coords": [
+                        22.147638,
+                        60.482064
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kansakoulunmäki",
+                  "text": "Vaskori leletekben gazdag régészeti lelőhely Raisio területén.",
+                  "category": "historical",
+                  "coords": [
+                        22.190852,
+                        60.468571
+                  ]
+            },
+            {
+                  "name": "Tuomala",
+                  "text": "Ősi településnyomokat őrző régészeti terület Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.177403,
+                        60.489218
+                  ]
+            },
+            {
+                  "name": "Petterinpelto",
+                  "text": "Régészeti leleteiről nevezetes történelmi lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.17829,
+                        60.490714
+                  ]
+            },
+            {
+                  "name": "Hyrköinen",
+                  "text": "Jelentős régészeti övezet Raisio község területén.",
+                  "category": "historical",
+                  "coords": [
+                        22.164277,
+                        60.457508
+                  ]
+            },
+            {
+                  "name": "Papinkallio",
+                  "text": "Régészetileg feltárt őskori lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.184661,
+                        60.477907
+                  ]
+            },
+            {
+                  "name": "Huhkonkallio",
+                  "text": "A korai benépesülésről tanúskodó régészeti lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.19499,
+                        60.473753
+                  ]
+            },
+            {
+                  "name": "Kimalistonmäki",
+                  "text": "Történelmi maradványokat őrző régészetileg védett terület Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.187023,
+                        60.484994
+                  ]
+            },
+            {
+                  "name": "Tortti",
+                  "text": "Régészeti műemlékként nyilvántartott ősi lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.192605,
+                        60.499519
+                  ]
+            },
+            {
+                  "name": "Jokkinen",
+                  "text": "Régészetileg érdekes terület Raisio városában.",
+                  "category": "historical",
+                  "coords": [
+                        22.190953,
+                        60.500559
+                  ]
+            },
+            {
+                  "name": "Varppimäki",
+                  "text": "Múltbeli korszakok maradványait őrző lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.155007,
+                        60.486484
+                  ]
+            },
+            {
+                  "name": "Kalliorinne",
+                  "text": "A régió kulturális örökségéhez tartozó régészeti lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.160301,
+                        60.487045
+                  ]
+            },
+            {
+                  "name": "Kyläklemelä",
+                  "text": "Terület Raisióban, ahol régészeti műtárgyakat fedeztek fel.",
+                  "category": "historical",
+                  "coords": [
+                        22.159886,
+                        60.490181
+                  ]
+            },
+            {
+                  "name": "Tasalanhovi",
+                  "text": "Régészeti jelentőséggel bíró történelmi helyszín Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.163991,
+                        60.484685
+                  ]
+            },
+            {
+                  "name": "Lumparlanpuisto",
+                  "text": "Régészeti lelőhelyként kijelölt parkterület Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.162617,
+                        60.48237
+                  ]
+            },
+            {
+                  "name": "Siirinpuisto",
+                  "text": "Régészeti lelőhelynek is otthont adó közpark Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.192405,
+                        60.470345
+                  ]
+            },
+            {
+                  "name": "Siiri 2",
+                  "text": "A két szomszédos régészeti lelőhely egyike Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.186082,
+                        60.471328
+                  ]
+            },
+            {
+                  "name": "Linnasmäki",
+                  "text": "Jelentős őskori várhely és régészeti lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.186862,
+                        60.472849
+                  ]
+            },
+            {
+                  "name": "Laulumaa ja Römpötti",
+                  "text": "Két történelmi dűlőnevet magában foglaló régészeti övezet Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.18199,
+                        60.478516
+                  ]
+            },
+            {
+                  "name": "Pappilanmäki",
+                  "text": "Történelmi magaslat Raisióban, jelentős régészeti maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        22.169703,
+                        60.483758
+                  ]
+            },
+            {
+                  "name": "Nallinkatu",
+                  "text": "Régészeti lelőhely Raisio városi területén.",
+                  "category": "historical",
+                  "coords": [
+                        22.171838,
+                        60.486056
+                  ]
+            },
+            {
+                  "name": "Raision kirkko",
+                  "text": "A raisiói templom környéke, középkori régészeti nyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        22.178192,
+                        60.484533
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 1",
+                  "text": "Egy nagyobb régészeti komplexum része Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.179392,
+                        60.490921
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 2",
+                  "text": "Az Iso-Kummala régészeti együttes második lelőhelye Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.179869,
+                        60.492338
+                  ]
+            },
+            {
+                  "name": "Vehon pelto",
+                  "text": "Régészeti lelőhelyként nyilvántartott szántóterület Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.185528,
+                        60.493308
+                  ]
+            },
+            {
+                  "name": "Vähätalon aitta",
+                  "text": "Régészeti jelentőségű történelmi magtárhelyszín Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.122532,
+                        60.494513
+                  ]
+            },
+            {
+                  "name": "Kuppikivi",
+                  "text": "Őskori áldozati kő (csészekő) és régészeti lelőhely Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.196025,
+                        60.472325
+                  ]
+            },
+            {
+                  "name": "Pernon kartano",
+                  "text": "A purnói kastély területe, régészeti maradványokkal Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.1502,
+                        60.458664
+                  ]
+            },
+            {
+                  "name": "Raision museo Harkko",
+                  "text": "Raisio városi múzeuma, amely régészetet és kortárs művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.164577,
+                        60.480344
+                  ]
+            },
+            {
+                  "name": "Pähkinäsaari",
+                  "text": "Gazdag flórájáról ismert természetvédelmi terület Raisióban.",
+                  "category": "natural",
+                  "coords": [
+                        22.207661,
+                        60.487365
+                  ]
+            },
+            {
+                  "name": "Raision asemanseutu",
+                  "text": "A raisiói vasútállomás környéke jelentős régészeti lelőhelyeket rejt.",
+                  "category": "historical",
+                  "coords": [
+                        22.127234,
+                        60.486718
+                  ]
+            },
+            {
+                  "name": "Pappilan männikkö",
+                  "text": "Védett fenyveserdő Raisióban, magas ökológiai értékkel.",
+                  "category": "natural",
+                  "coords": [
+                        22.172934,
+                        60.484137
+                  ]
+            },
+            {
+                  "name": "Ihalan kuuset",
+                  "text": "Természetvédelmi terület Raisióban, amely öreg lucfenyőket őriz.",
+                  "category": "natural",
+                  "coords": [
+                        22.18267,
+                        60.463407
+                  ]
+            },
+            {
+                  "name": "Toravuoren niinipuut",
+                  "text": "Védett terület Raisióban a ritka hárfák megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        22.152316,
+                        60.499419
+                  ]
+            },
+            {
+                  "name": "Kuuanvuoren pähkinälehto",
+                  "text": "Védett mogyoróliget Raisióban, a helyi természeti hálózat része.",
+                  "category": "natural",
+                  "coords": [
+                        22.140979,
+                        60.49452
+                  ]
+            },
+            {
+                  "name": "Krookilan kotiseutukeskus",
+                  "text": "Raisiói múzeum és kulturális központ, amely a hagyományos paraszti életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.138509,
+                        60.465365
+                  ]
+            },
+            {
+                  "name": "Raisionlahti",
+                  "text": "Sekély tengeröböl Raisióban, amely fontos madármegfigyelő hely.",
+                  "category": "landmark",
+                  "coords": [
+                        22.115872,
+                        60.4595
+                  ]
+            },
+            {
+                  "name": "Huhkon kartano",
+                  "text": "Történelmi kúria Raisióban, amelyet ma kulturális célokra használnak.",
+                  "category": "historical",
+                  "coords": [
+                        22.193537,
+                        60.475602
+                  ]
+            },
+            {
+                  "name": "Hintsan kartano",
+                  "text": "Műemléki védelem alatt álló, nagy múltú kúria Raisióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.180626,
+                        60.493801
+                  ]
+            },
+            {
+                  "name": "Optisen lennättimen muistomerkki",
+                  "text": "Kilátópont Raisióban, amely az egykori optikai távírónak állít emléket.",
+                  "category": "natural",
+                  "coords": [
+                        22.142274,
+                        60.493451
+                  ]
+            },
+            {
+                  "name": "Alppiruusupuisto",
+                  "text": "Raisio közparkja, amely a pompás rhododendron-virágzásáról híres.",
+                  "category": "landmark",
+                  "coords": [
+                        22.171691,
+                        60.478443
+                  ]
+            },
+            {
+                  "name": "Raision Vapaaseurakunta",
+                  "text": "A raisiói szabadegyházi közösség imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        22.147638,
+                        60.482064
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kansakoulunmäki",
+                  "text": "Un sit arheologic în Raisio cu descoperiri datând din epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        22.190852,
+                        60.468571
+                  ]
+            },
+            {
+                  "name": "Tuomala",
+                  "text": "O zonă de așezări antice și sit arheologic în Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.177403,
+                        60.489218
+                  ]
+            },
+            {
+                  "name": "Petterinpelto",
+                  "text": "Un sit istoric din Raisio, cunoscut pentru descoperirile sale arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        22.17829,
+                        60.490714
+                  ]
+            },
+            {
+                  "name": "Hyrköinen",
+                  "text": "O zonă arheologică importantă în municipalitatea Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.164277,
+                        60.457508
+                  ]
+            },
+            {
+                  "name": "Papinkallio",
+                  "text": "Un sit preistoric din Raisio care a fost cercetat arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        22.184661,
+                        60.477907
+                  ]
+            },
+            {
+                  "name": "Huhkonkallio",
+                  "text": "Un sit arheologic în Raisio care oferă dovezi despre așezările timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        22.19499,
+                        60.473753
+                  ]
+            },
+            {
+                  "name": "Kimalistonmäki",
+                  "text": "O zonă protejată arheologic în Raisio, conținând vestigii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        22.187023,
+                        60.484994
+                  ]
+            },
+            {
+                  "name": "Tortti",
+                  "text": "Un sit antic în Raisio clasificat ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        22.192605,
+                        60.499519
+                  ]
+            },
+            {
+                  "name": "Jokkinen",
+                  "text": "O zonă de interes arheologic situată în orașul Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.190953,
+                        60.500559
+                  ]
+            },
+            {
+                  "name": "Varppimäki",
+                  "text": "Un sit din Raisio care păstrează vestigii din epoci trecute.",
+                  "category": "historical",
+                  "coords": [
+                        22.155007,
+                        60.486484
+                  ]
+            },
+            {
+                  "name": "Kalliorinne",
+                  "text": "Un sit arheologic în Raisio care face parte din patrimoniul cultural al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        22.160301,
+                        60.487045
+                  ]
+            },
+            {
+                  "name": "Kyläklemelä",
+                  "text": "O zonă din Raisio unde au fost descoperite artefacte arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        22.159886,
+                        60.490181
+                  ]
+            },
+            {
+                  "name": "Tasalanhovi",
+                  "text": "Un sit istoric din Raisio cu semnificație arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        22.163991,
+                        60.484685
+                  ]
+            },
+            {
+                  "name": "Lumparlanpuisto",
+                  "text": "O zonă de parc în Raisio desemnată ca sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        22.162617,
+                        60.48237
+                  ]
+            },
+            {
+                  "name": "Siirinpuisto",
+                  "text": "Un parc public din Raisio care găzduiește și un sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        22.192405,
+                        60.470345
+                  ]
+            },
+            {
+                  "name": "Siiri 2",
+                  "text": "Unul dintre cele două situri arheologice învecinate din Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.186082,
+                        60.471328
+                  ]
+            },
+            {
+                  "name": "Linnasmäki",
+                  "text": "O importantă fortăreață preistorică pe deal și sit arheologic în Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.186862,
+                        60.472849
+                  ]
+            },
+            {
+                  "name": "Laulumaa ja Römpötti",
+                  "text": "O zonă arheologică din Raisio care cuprinde două denumiri istorice de terenuri.",
+                  "category": "historical",
+                  "coords": [
+                        22.18199,
+                        60.478516
+                  ]
+            },
+            {
+                  "name": "Pappilanmäki",
+                  "text": "O colină istorică din Raisio cu vestigii arheologice importante.",
+                  "category": "historical",
+                  "coords": [
+                        22.169703,
+                        60.483758
+                  ]
+            },
+            {
+                  "name": "Nallinkatu",
+                  "text": "Un sit arheologic situat în zona urbană a orașului Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.171838,
+                        60.486056
+                  ]
+            },
+            {
+                  "name": "Raision kirkko",
+                  "text": "Zona din jurul bisericii din Raisio, cu urme arheologice din epoca medievală.",
+                  "category": "historical",
+                  "coords": [
+                        22.178192,
+                        60.484533
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 1",
+                  "text": "Parte a unui complex arheologic mai mare din Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.179392,
+                        60.490921
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 2",
+                  "text": "Al doilea sit al complexului arheologic Iso-Kummala din Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.179869,
+                        60.492338
+                  ]
+            },
+            {
+                  "name": "Vehon pelto",
+                  "text": "O suprafață de câmp din Raisio înregistrată ca sit arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        22.185528,
+                        60.493308
+                  ]
+            },
+            {
+                  "name": "Vähätalon aitta",
+                  "text": "Un sit istoric de hambar cu semnificație arheologică în Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.122532,
+                        60.494513
+                  ]
+            },
+            {
+                  "name": "Kuppikivi",
+                  "text": "O piatră cu adâncituri preistorică și sit arheologic în Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.196025,
+                        60.472325
+                  ]
+            },
+            {
+                  "name": "Pernon kartano",
+                  "text": "Terenul vechiului conac Perno, conținând vestigii arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        22.1502,
+                        60.458664
+                  ]
+            },
+            {
+                  "name": "Raision museo Harkko",
+                  "text": "Muzeul orașului Raisio, care expune arheologie și artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        22.164577,
+                        60.480344
+                  ]
+            },
+            {
+                  "name": "Pähkinäsaari",
+                  "text": "O rezervație naturală în Raisio, cunoscută pentru flora sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        22.207661,
+                        60.487365
+                  ]
+            },
+            {
+                  "name": "Raision asemanseutu",
+                  "text": "Zona din jurul gării din Raisio găzduiește situri arheologice importante.",
+                  "category": "historical",
+                  "coords": [
+                        22.127234,
+                        60.486718
+                  ]
+            },
+            {
+                  "name": "Pappilan männikkö",
+                  "text": "O pădure de pini protejată în Raisio, cu valoare ecologică ridicată.",
+                  "category": "natural",
+                  "coords": [
+                        22.172934,
+                        60.484137
+                  ]
+            },
+            {
+                  "name": "Ihalan kuuset",
+                  "text": "O rezervație naturală în Raisio care conservă exemplare vechi de molid.",
+                  "category": "natural",
+                  "coords": [
+                        22.18267,
+                        60.463407
+                  ]
+            },
+            {
+                  "name": "Toravuoren niinipuut",
+                  "text": "O zonă protejată în Raisio pentru conservarea teilor rari.",
+                  "category": "natural",
+                  "coords": [
+                        22.152316,
+                        60.499419
+                  ]
+            },
+            {
+                  "name": "Kuuanvuoren pähkinälehto",
+                  "text": "O dumbravă protejată de aluni în Raisio, parte a rețelei naturale locale.",
+                  "category": "natural",
+                  "coords": [
+                        22.140979,
+                        60.49452
+                  ]
+            },
+            {
+                  "name": "Krookilan kotiseutukeskus",
+                  "text": "Un muzeu și centru cultural din Raisio care prezintă viața țărănească tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        22.138509,
+                        60.465365
+                  ]
+            },
+            {
+                  "name": "Raisionlahti",
+                  "text": "Un golf marin puțin adânc în Raisio, fiind un loc important pentru observarea păsărilor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.115872,
+                        60.4595
+                  ]
+            },
+            {
+                  "name": "Huhkon kartano",
+                  "text": "Un conac istoric din Raisio, folosit astăzi în scopuri culturale.",
+                  "category": "historical",
+                  "coords": [
+                        22.193537,
+                        60.475602
+                  ]
+            },
+            {
+                  "name": "Hintsan kartano",
+                  "text": "Un conac protejat în Raisio, având o istorie îndelungată.",
+                  "category": "historical",
+                  "coords": [
+                        22.180626,
+                        60.493801
+                  ]
+            },
+            {
+                  "name": "Optisen lennättimen muistomerkki",
+                  "text": "Un punct de belvedere în Raisio care comemorează fostul telegraf optic.",
+                  "category": "natural",
+                  "coords": [
+                        22.142274,
+                        60.493451
+                  ]
+            },
+            {
+                  "name": "Alppiruusupuisto",
+                  "text": "Un parc public din Raisio, renumit pentru înflorirea splendidă a rododendronilor.",
+                  "category": "landmark",
+                  "coords": [
+                        22.171691,
+                        60.478443
+                  ]
+            },
+            {
+                  "name": "Raision Vapaaseurakunta",
+                  "text": "Un lăcaș de cult al comunității bisericii libere din Raisio.",
+                  "category": "religious",
+                  "coords": [
+                        22.147638,
+                        60.482064
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kansakoulunmäki",
+                  "text": "An archaeological site in Raisio featuring remains from the Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        22.190852,
+                        60.468571
+                  ]
+            },
+            {
+                  "name": "Tuomala",
+                  "text": "An ancient settlement area and archaeological site in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.177403,
+                        60.489218
+                  ]
+            },
+            {
+                  "name": "Petterinpelto",
+                  "text": "A historical excavation site in Raisio known for its archaeological findings.",
+                  "category": "historical",
+                  "coords": [
+                        22.17829,
+                        60.490714
+                  ]
+            },
+            {
+                  "name": "Hyrköinen",
+                  "text": "A significant archaeological zone located in the municipality of Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.164277,
+                        60.457508
+                  ]
+            },
+            {
+                  "name": "Papinkallio",
+                  "text": "A prehistoric site in Raisio that has been subject to archaeological study.",
+                  "category": "historical",
+                  "coords": [
+                        22.184661,
+                        60.477907
+                  ]
+            },
+            {
+                  "name": "Huhkonkallio",
+                  "text": "An archaeological site in Raisio providing evidence of early habitation.",
+                  "category": "historical",
+                  "coords": [
+                        22.19499,
+                        60.473753
+                  ]
+            },
+            {
+                  "name": "Kimalistonmäki",
+                  "text": "An archaeologically protected area in Raisio containing historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        22.187023,
+                        60.484994
+                  ]
+            },
+            {
+                  "name": "Tortti",
+                  "text": "An ancient site in Raisio classified as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        22.192605,
+                        60.499519
+                  ]
+            },
+            {
+                  "name": "Jokkinen",
+                  "text": "An area of archaeological interest located in the city of Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.190953,
+                        60.500559
+                  ]
+            },
+            {
+                  "name": "Varppimäki",
+                  "text": "A site in Raisio containing remains from past eras.",
+                  "category": "historical",
+                  "coords": [
+                        22.155007,
+                        60.486484
+                  ]
+            },
+            {
+                  "name": "Kalliorinne",
+                  "text": "An archaeological site in Raisio that is part of the region's cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        22.160301,
+                        60.487045
+                  ]
+            },
+            {
+                  "name": "Kyläklemelä",
+                  "text": "An area in Raisio where archaeological artifacts have been discovered.",
+                  "category": "historical",
+                  "coords": [
+                        22.159886,
+                        60.490181
+                  ]
+            },
+            {
+                  "name": "Tasalanhovi",
+                  "text": "A historical site in Raisio with archaeological significance.",
+                  "category": "historical",
+                  "coords": [
+                        22.163991,
+                        60.484685
+                  ]
+            },
+            {
+                  "name": "Lumparlanpuisto",
+                  "text": "A park area in Raisio designated as an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        22.162617,
+                        60.48237
+                  ]
+            },
+            {
+                  "name": "Siirinpuisto",
+                  "text": "A public park in Raisio that also contains an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        22.192405,
+                        60.470345
+                  ]
+            },
+            {
+                  "name": "Siiri 2",
+                  "text": "One of two nearby archaeological sites located in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.186082,
+                        60.471328
+                  ]
+            },
+            {
+                  "name": "Linnasmäki",
+                  "text": "A significant prehistoric hillfort and archaeological site in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.186862,
+                        60.472849
+                  ]
+            },
+            {
+                  "name": "Laulumaa ja Römpötti",
+                  "text": "An archaeological zone in Raisio encompassing two historical field names.",
+                  "category": "historical",
+                  "coords": [
+                        22.18199,
+                        60.478516
+                  ]
+            },
+            {
+                  "name": "Pappilanmäki",
+                  "text": "A historical hill in Raisio with significant archaeological remains.",
+                  "category": "historical",
+                  "coords": [
+                        22.169703,
+                        60.483758
+                  ]
+            },
+            {
+                  "name": "Nallinkatu",
+                  "text": "An archaeological site located within the urban area of Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.171838,
+                        60.486056
+                  ]
+            },
+            {
+                  "name": "Raision kirkko",
+                  "text": "The area surrounding Raisio Church, featuring archaeological traces from the medieval era.",
+                  "category": "historical",
+                  "coords": [
+                        22.178192,
+                        60.484533
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 1",
+                  "text": "Part of a larger archaeological complex in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.179392,
+                        60.490921
+                  ]
+            },
+            {
+                  "name": "Iso-Kummala 2",
+                  "text": "The second site of the Iso-Kummala archaeological complex in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.179869,
+                        60.492338
+                  ]
+            },
+            {
+                  "name": "Vehon pelto",
+                  "text": "A field area in Raisio registered as an archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        22.185528,
+                        60.493308
+                  ]
+            },
+            {
+                  "name": "Vähätalon aitta",
+                  "text": "A historical granary site with archaeological significance in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.122532,
+                        60.494513
+                  ]
+            },
+            {
+                  "name": "Kuppikivi",
+                  "text": "A prehistoric cup-marked stone and archaeological site in Raisio.",
+                  "category": "historical",
+                  "coords": [
+                        22.196025,
+                        60.472325
+                  ]
+            },
+            {
+                  "name": "Pernon kartano",
+                  "text": "The grounds of the old Perno manor, containing archaeological remains.",
+                  "category": "historical",
+                  "coords": [
+                        22.1502,
+                        60.458664
+                  ]
+            },
+            {
+                  "name": "Raision museo Harkko",
+                  "text": "The municipal museum of Raisio, showcasing archaeology and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        22.164577,
+                        60.480344
+                  ]
+            },
+            {
+                  "name": "Pähkinäsaari",
+                  "text": "A nature reserve in Raisio known for its rich flora.",
+                  "category": "natural",
+                  "coords": [
+                        22.207661,
+                        60.487365
+                  ]
+            },
+            {
+                  "name": "Raision asemanseutu",
+                  "text": "The area around the Raisio railway station contains significant archaeological sites.",
+                  "category": "historical",
+                  "coords": [
+                        22.127234,
+                        60.486718
+                  ]
+            },
+            {
+                  "name": "Pappilan männikkö",
+                  "text": "A protected pine grove in Raisio with high ecological value.",
+                  "category": "natural",
+                  "coords": [
+                        22.172934,
+                        60.484137
+                  ]
+            },
+            {
+                  "name": "Ihalan kuuset",
+                  "text": "A nature reserve in Raisio preserving old spruce stands.",
+                  "category": "natural",
+                  "coords": [
+                        22.18267,
+                        60.463407
+                  ]
+            },
+            {
+                  "name": "Toravuoren niinipuut",
+                  "text": "A protected area in Raisio for the conservation of rare lime trees.",
+                  "category": "natural",
+                  "coords": [
+                        22.152316,
+                        60.499419
+                  ]
+            },
+            {
+                  "name": "Kuuanvuoren pähkinälehto",
+                  "text": "A protected hazel grove in Raisio, part of the local nature network.",
+                  "category": "natural",
+                  "coords": [
+                        22.140979,
+                        60.49452
+                  ]
+            },
+            {
+                  "name": "Krookilan kotiseutukeskus",
+                  "text": "A museum and cultural center in Raisio showcasing traditional rural life.",
+                  "category": "museum",
+                  "coords": [
+                        22.138509,
+                        60.465365
+                  ]
+            },
+            {
+                  "name": "Raisionlahti",
+                  "text": "A shallow sea bay in Raisio, which is an important site for birdwatching.",
+                  "category": "landmark",
+                  "coords": [
+                        22.115872,
+                        60.4595
+                  ]
+            },
+            {
+                  "name": "Huhkon kartano",
+                  "text": "A historical manor house in Raisio, now used for cultural purposes.",
+                  "category": "historical",
+                  "coords": [
+                        22.193537,
+                        60.475602
+                  ]
+            },
+            {
+                  "name": "Hintsan kartano",
+                  "text": "A protected manor house in Raisio with a long history.",
+                  "category": "historical",
+                  "coords": [
+                        22.180626,
+                        60.493801
+                  ]
+            },
+            {
+                  "name": "Optisen lennättimen muistomerkki",
+                  "text": "A viewpoint in Raisio commemorating the former optical telegraph.",
+                  "category": "natural",
+                  "coords": [
+                        22.142274,
+                        60.493451
+                  ]
+            },
+            {
+                  "name": "Alppiruusupuisto",
+                  "text": "A public park in Raisio famous for its splendid rhododendron blooms.",
+                  "category": "landmark",
+                  "coords": [
+                        22.171691,
+                        60.478443
+                  ]
+            },
+            {
+                  "name": "Raision Vapaaseurakunta",
+                  "text": "A place of worship for the free evangelical community in Raisio.",
+                  "category": "religious",
+                  "coords": [
+                        22.147638,
+                        60.482064
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Raisio", hu: "Raisio", ro: "Raisio", en: "Raisio" },
@@ -3757,6 +11272,114 @@ export const finlandCitiesV2: POI[] = [
                         24.155999,
                         65.850103
                   ]
+            },
+            {
+                  "name": "Aineen taidemuseo",
+                  "text": "Ein Kunstmuseum in Tornio, das zeitgenössische und regionale Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.140089,
+                        65.846123
+                  ]
+            },
+            {
+                  "name": "Tornionlaakson museo",
+                  "text": "Ein Museum in Tornio, das sich auf die Geschichte und Kultur des Tornetals konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        24.141925,
+                        65.846038
+                  ]
+            },
+            {
+                  "name": "Tornion kesäteatteri",
+                  "text": "Ein Sommertheater in Tornio, das saisonale Aufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        24.138744,
+                        65.846852
+                  ]
+            },
+            {
+                  "name": "Tornion vesitorni",
+                  "text": "Ein markanter Wasserturm in Tornio, der als lokales Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        24.142743,
+                        65.853425
+                  ]
+            },
+            {
+                  "name": "Miukin ranta",
+                  "text": "Ein malerisches Ufer und Außengelände in Tornio.",
+                  "category": "landmark",
+                  "coords": [
+                        24.159574,
+                        65.837068
+                  ]
+            },
+            {
+                  "name": "Kortteeri",
+                  "text": "Eine Kunstgalerie in Tornio mit lokalen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        24.143848,
+                        65.842685
+                  ]
+            },
+            {
+                  "name": "Kirche von Tornio",
+                  "text": "Eine bedeutende Holzkirche in Tornio, bekannt für ihre historische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        24.143753,
+                        65.850014
+                  ]
+            },
+            {
+                  "name": "Kirche von Alatornio",
+                  "text": "Eine historische Gebetsstätte im Stadtteil Alatornio in Tornio.",
+                  "category": "religious",
+                  "coords": [
+                        24.157115,
+                        65.829867
+                  ]
+            },
+            {
+                  "name": "Tornion ortodoksinen kirkko",
+                  "text": "Eine orthodoxe Kirche, die der religiösen Gemeinschaft in Tornio dient.",
+                  "category": "religious",
+                  "coords": [
+                        24.148225,
+                        65.843108
+                  ]
+            },
+            {
+                  "name": "Haparanda kyrka",
+                  "text": "Eine Kirche in der Grenzregion von Tornio und Haparanda.",
+                  "category": "religious",
+                  "coords": [
+                        24.122095,
+                        65.832987
+                  ]
+            },
+            {
+                  "name": "Hannulan silta",
+                  "text": "Eine Brücke in Tornio, die den Fluss überspannt und verschiedene Stadtteile verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.156628,
+                        65.846833
+                  ]
+            },
+            {
+                  "name": "Tornionjoen silta",
+                  "text": "Eine Brücke über den Torne-Fluss, die Finnland und Schweden bei Tornio verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15649,
+                        65.844531
+                  ]
             }
       ],
       "hu": [
@@ -3803,6 +11426,114 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.155999,
                         65.850103
+                  ]
+            },
+            {
+                  "name": "Aineen taidemuseo",
+                  "text": "Kortárs és regionális művészetet bemutató művészeti múzeum Tornióban.",
+                  "category": "museum",
+                  "coords": [
+                        24.140089,
+                        65.846123
+                  ]
+            },
+            {
+                  "name": "Tornionlaakson museo",
+                  "text": "A Torne-völgy történelmét és kultúráját bemutató múzeum Tornióban.",
+                  "category": "museum",
+                  "coords": [
+                        24.141925,
+                        65.846038
+                  ]
+            },
+            {
+                  "name": "Tornion kesäteatteri",
+                  "text": "Szezonális előadásokat kínáló nyári színház Tornióban.",
+                  "category": "cultural",
+                  "coords": [
+                        24.138744,
+                        65.846852
+                  ]
+            },
+            {
+                  "name": "Tornion vesitorni",
+                  "text": "Tornio jellegzetes víztornya, amely helyi nevezetességként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.142743,
+                        65.853425
+                  ]
+            },
+            {
+                  "name": "Miukin ranta",
+                  "text": "Festői part és szabadtéri terület Tornióban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.159574,
+                        65.837068
+                  ]
+            },
+            {
+                  "name": "Kortteeri",
+                  "text": "Művészeti galéria Tornióban, helyi kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        24.143848,
+                        65.842685
+                  ]
+            },
+            {
+                  "name": "Tornion kirkko",
+                  "text": "Tornio jelentős fatemploma, amely történelmi építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.143753,
+                        65.850014
+                  ]
+            },
+            {
+                  "name": "Alatornion kirkko",
+                  "text": "Történelmi templom Tornio Alatornio negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        24.157115,
+                        65.829867
+                  ]
+            },
+            {
+                  "name": "Tornion ortodoksinen kirkko",
+                  "text": "Tornio vallási közösségét szolgáló ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        24.148225,
+                        65.843108
+                  ]
+            },
+            {
+                  "name": "Haparanda kyrka",
+                  "text": "Tornio és Haparanda határvidékén található templom.",
+                  "category": "religious",
+                  "coords": [
+                        24.122095,
+                        65.832987
+                  ]
+            },
+            {
+                  "name": "Hannulan silta",
+                  "text": "A folyón átívelő híd Tornióban, amely a város különböző részeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        24.156628,
+                        65.846833
+                  ]
+            },
+            {
+                  "name": "Tornionjoen silta",
+                  "text": "A Tornionjoki folyón átívelő híd, amely Finnországot és Svédországot köti össze Torniónál.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15649,
+                        65.844531
                   ]
             }
       ],
@@ -3851,6 +11582,114 @@ export const finlandCitiesV2: POI[] = [
                         24.155999,
                         65.850103
                   ]
+            },
+            {
+                  "name": "Aineen taidemuseo",
+                  "text": "Un muzeu de artă din Tornio care prezintă artă contemporană și regională.",
+                  "category": "museum",
+                  "coords": [
+                        24.140089,
+                        65.846123
+                  ]
+            },
+            {
+                  "name": "Tornionlaakson museo",
+                  "text": "Un muzeu din Tornio care se concentrează pe istoria și cultura Văii Torne.",
+                  "category": "museum",
+                  "coords": [
+                        24.141925,
+                        65.846038
+                  ]
+            },
+            {
+                  "name": "Tornion kesäteatteri",
+                  "text": "Un teatru de vară din Tornio care oferă spectacole sezoniere.",
+                  "category": "cultural",
+                  "coords": [
+                        24.138744,
+                        65.846852
+                  ]
+            },
+            {
+                  "name": "Tornion vesitorni",
+                  "text": "Un turn de apă remarcabil din Tornio care servește ca punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        24.142743,
+                        65.853425
+                  ]
+            },
+            {
+                  "name": "Miukin ranta",
+                  "text": "Un țărm pitoresc și o zonă în aer liber din Tornio.",
+                  "category": "landmark",
+                  "coords": [
+                        24.159574,
+                        65.837068
+                  ]
+            },
+            {
+                  "name": "Kortteeri",
+                  "text": "O galerie de artă din Tornio care prezintă expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        24.143848,
+                        65.842685
+                  ]
+            },
+            {
+                  "name": "Tornion kirkko",
+                  "text": "O biserică importantă de lemn din Tornio, cunoscută pentru arhitectura sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        24.143753,
+                        65.850014
+                  ]
+            },
+            {
+                  "name": "Alatornion kirkko",
+                  "text": "Un lăcaș de cult istoric situat în zona Alatornio din Tornio.",
+                  "category": "religious",
+                  "coords": [
+                        24.157115,
+                        65.829867
+                  ]
+            },
+            {
+                  "name": "Tornion ortodoksinen kirkko",
+                  "text": "O biserică ortodoxă care deservește comunitatea religioasă din Tornio.",
+                  "category": "religious",
+                  "coords": [
+                        24.148225,
+                        65.843108
+                  ]
+            },
+            {
+                  "name": "Haparanda kyrka",
+                  "text": "O biserică situată în regiunea de frontieră dintre Tornio și Haparanda.",
+                  "category": "religious",
+                  "coords": [
+                        24.122095,
+                        65.832987
+                  ]
+            },
+            {
+                  "name": "Hannulan silta",
+                  "text": "Un pod din Tornio care traversează râul și conectează diferite părți ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        24.156628,
+                        65.846833
+                  ]
+            },
+            {
+                  "name": "Tornionjoen silta",
+                  "text": "Un pod care traversează râul Torne, legând Finlanda și Suedia la Tornio.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15649,
+                        65.844531
+                  ]
             }
       ],
       "en": [
@@ -3897,6 +11736,114 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         24.155999,
                         65.850103
+                  ]
+            },
+            {
+                  "name": "Aine Art Museum",
+                  "text": "An art museum in Tornio showcasing contemporary and regional art.",
+                  "category": "museum",
+                  "coords": [
+                        24.140089,
+                        65.846123
+                  ]
+            },
+            {
+                  "name": "Museum of Torne Valley",
+                  "text": "A museum in Tornio focusing on the history and culture of the Torne Valley.",
+                  "category": "museum",
+                  "coords": [
+                        24.141925,
+                        65.846038
+                  ]
+            },
+            {
+                  "name": "Tornion kesäteatteri",
+                  "text": "A summer theatre in Tornio offering seasonal performances.",
+                  "category": "cultural",
+                  "coords": [
+                        24.138744,
+                        65.846852
+                  ]
+            },
+            {
+                  "name": "Tornion vesitorni",
+                  "text": "A notable water tower in Tornio that serves as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        24.142743,
+                        65.853425
+                  ]
+            },
+            {
+                  "name": "Miukin ranta",
+                  "text": "A scenic shore and outdoor area in Tornio.",
+                  "category": "landmark",
+                  "coords": [
+                        24.159574,
+                        65.837068
+                  ]
+            },
+            {
+                  "name": "Kortteeri",
+                  "text": "An art gallery in Tornio featuring local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        24.143848,
+                        65.842685
+                  ]
+            },
+            {
+                  "name": "Church of Tornio",
+                  "text": "A significant wooden church in Tornio, known for its historic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.143753,
+                        65.850014
+                  ]
+            },
+            {
+                  "name": "Alatornio Church",
+                  "text": "A historic place of worship located in the Alatornio area of Tornio.",
+                  "category": "religious",
+                  "coords": [
+                        24.157115,
+                        65.829867
+                  ]
+            },
+            {
+                  "name": "Tornion ortodoksinen kirkko",
+                  "text": "An Orthodox church serving the religious community in Tornio.",
+                  "category": "religious",
+                  "coords": [
+                        24.148225,
+                        65.843108
+                  ]
+            },
+            {
+                  "name": "Haparanda kyrka",
+                  "text": "A church located in the border region of Tornio and Haparanda.",
+                  "category": "religious",
+                  "coords": [
+                        24.122095,
+                        65.832987
+                  ]
+            },
+            {
+                  "name": "Hannulan silta",
+                  "text": "A bridge in Tornio spanning the river and connecting different parts of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        24.156628,
+                        65.846833
+                  ]
+            },
+            {
+                  "name": "Tornionjoen silta",
+                  "text": "A bridge crossing the Torne River, connecting Finland and Sweden at Tornio.",
+                  "category": "landmark",
+                  "coords": [
+                        24.15649,
+                        65.844531
                   ]
             }
       ]
@@ -4170,7 +12117,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-urjala-cities-v2.webp",
   },
   {
-    id: "finland-uusikaarlepyy-cities-v2",
+    id: "finland-uusikaarlepyy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuddnäs",
+                  "text": "Das ehemalige Heim des Schriftstellers Zachris Topelius, heute ein Museum in Nykarleby.",
+                  "category": "museum",
+                  "coords": [
+                        22.533697,
+                        63.530292
+                  ]
+            },
+            {
+                  "name": "Nykarleby salemförsamling",
+                  "text": "Eine christliche Kapelle der Salem-Gemeinde in Nykarleby.",
+                  "category": "religious",
+                  "coords": [
+                        22.534035,
+                        63.523007
+                  ]
+            },
+            {
+                  "name": "Nykarleby kyrka",
+                  "text": "Die hölzerne St.-Birgitta-Kirche in Nykarleby, bekannt für ihre Deckenmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        22.526482,
+                        63.522617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuddnäs",
+                  "text": "Zachris Topelius író egykori otthona, ma múzeum Nykarlebyben.",
+                  "category": "museum",
+                  "coords": [
+                        22.533697,
+                        63.530292
+                  ]
+            },
+            {
+                  "name": "Nykarleby salemförsamling",
+                  "text": "A Salem gyülekezet keresztény kápolnája Nykarlebyben.",
+                  "category": "religious",
+                  "coords": [
+                        22.534035,
+                        63.523007
+                  ]
+            },
+            {
+                  "name": "Nykarleby kyrka",
+                  "text": "A nykarlebyi Szent Brigitta fatemplom, amely mennyezeti festményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        22.526482,
+                        63.522617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuddnäs",
+                  "text": "Fosta casă a scriitorului Zachris Topelius, astăzi muzeu în Nykarleby.",
+                  "category": "museum",
+                  "coords": [
+                        22.533697,
+                        63.530292
+                  ]
+            },
+            {
+                  "name": "Nykarleby salemförsamling",
+                  "text": "O capelă creștină a comunității Salem din Nykarleby.",
+                  "category": "religious",
+                  "coords": [
+                        22.534035,
+                        63.523007
+                  ]
+            },
+            {
+                  "name": "Nykarleby kyrka",
+                  "text": "Biserica de lemn Sfânta Birgitta din Nykarleby, cunoscută pentru picturile sale pe tavan.",
+                  "category": "religious",
+                  "coords": [
+                        22.526482,
+                        63.522617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuddnäs",
+                  "text": "The former home of author Zachris Topelius, now a museum in Nykarleby.",
+                  "category": "museum",
+                  "coords": [
+                        22.533697,
+                        63.530292
+                  ]
+            },
+            {
+                  "name": "Nykarleby salemförsamling",
+                  "text": "A Christian chapel of the Salem community in Nykarleby.",
+                  "category": "religious",
+                  "coords": [
+                        22.534035,
+                        63.523007
+                  ]
+            },
+            {
+                  "name": "Nykarleby kyrka",
+                  "text": "The wooden St. Birgitta's Church in Nykarleby, known for its ceiling paintings.",
+                  "category": "religious",
+                  "coords": [
+                        22.526482,
+                        63.522617
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Uusikaarlepyy", hu: "Uusikaarlepyy", ro: "Uusikaarlepyy", en: "Uusikaarlepyy" },
@@ -4386,7 +12450,376 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-vesilahti-cities-v2.webp",
   },
   {
-    id: "finland-viitasaari-cities-v2",
+    id: "finland-viitasaari-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Metsätyömuseo",
+                  "text": "Ein Freilichtmuseum in Viitasaari, das die Geschichte der Waldarbeit zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.840322,
+                        63.088179
+                  ]
+            },
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "Ein städtischer Badestrand in Viitasaari mit guten Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Maijansalonpään luonnonsuojelualue",
+                  "text": "Ein geschütztes Naturgebiet in Viitasaari mit vielfältiger Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        25.828674,
+                        63.071448
+                  ]
+            },
+            {
+                  "name": "Aittosaari",
+                  "text": "Ein Naturschutzgebiet auf einer Insel in Viitasaari.",
+                  "category": "natural",
+                  "coords": [
+                        25.906294,
+                        63.091737
+                  ]
+            },
+            {
+                  "name": "Ruins of windmill",
+                  "text": "Die Ruinen einer alten Windmühle als historisches Wahrzeichen in Viitasaari.",
+                  "category": "historical",
+                  "coords": [
+                        25.841369,
+                        63.08905
+                  ]
+            },
+            {
+                  "name": "Savivuoren näkötorni",
+                  "text": "Ein hölzerner Aussichtsturm auf dem Hügel Savivuori in Viitasaari.",
+                  "category": "natural",
+                  "coords": [
+                        25.837772,
+                        63.088902
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "Ein Strandbad in Viitasaari mit Sandstrand und Badeanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "Ein ruhiger Badestrand in der Umgebung von Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            },
+            {
+                  "name": "Viitasaaren kirkko",
+                  "text": "Die Hauptkirche von Viitasaari, eine hölzerne Kreuzkirche aus dem Jahr 1878.",
+                  "category": "religious",
+                  "coords": [
+                        25.849304,
+                        63.073292
+                  ]
+            },
+            {
+                  "name": "Viitasaaren helluntaiseurakunta",
+                  "text": "Das Kirchengebäude der Pfingstgemeinde in Viitasaari.",
+                  "category": "religious",
+                  "coords": [
+                        25.854978,
+                        63.079495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Metsätyömuseo",
+                  "text": "Szabadtéri múzeum Viitasaariban, amely az erdei munka történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.840322,
+                        63.088179
+                  ]
+            },
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "Viitasaari városi strandja kiváló szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Maijansalonpään luonnonsuojelualue",
+                  "text": "Védett természeti terület Viitasaariban, változatos élővilággal.",
+                  "category": "natural",
+                  "coords": [
+                        25.828674,
+                        63.071448
+                  ]
+            },
+            {
+                  "name": "Aittosaari",
+                  "text": "Természetvédelmi terület egy szigeten Viitasaari mellett.",
+                  "category": "natural",
+                  "coords": [
+                        25.906294,
+                        63.091737
+                  ]
+            },
+            {
+                  "name": "Ruins of windmill",
+                  "text": "Egy régi szélmalom romjai, amely történelmi emlék Viitasaariban.",
+                  "category": "historical",
+                  "coords": [
+                        25.841369,
+                        63.08905
+                  ]
+            },
+            {
+                  "name": "Savivuoren näkötorni",
+                  "text": "Fából készült kilátótorony a Viitasaariban található Savivuori-dombon.",
+                  "category": "natural",
+                  "coords": [
+                        25.837772,
+                        63.088902
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "Homokos strand és fürdőhely Viitasaariban.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "Csendes fürdőhely Viitasaari környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            },
+            {
+                  "name": "Viitasaaren kirkko",
+                  "text": "Viitasaari főtemploma, egy 1878-ban épült kereszt alaprajzú fatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        25.849304,
+                        63.073292
+                  ]
+            },
+            {
+                  "name": "Viitasaaren helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet templomépülete Viitasaariban.",
+                  "category": "religious",
+                  "coords": [
+                        25.854978,
+                        63.079495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Metsätyömuseo",
+                  "text": "Un muzeu în aer liber din Viitasaari care prezintă istoria muncii forestiere.",
+                  "category": "museum",
+                  "coords": [
+                        25.840322,
+                        63.088179
+                  ]
+            },
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "O plajă municipală în Viitasaari, cu bune facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Maijansalonpään luonnonsuojelualue",
+                  "text": "O zonă naturală protejată din Viitasaari, cu floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        25.828674,
+                        63.071448
+                  ]
+            },
+            {
+                  "name": "Aittosaari",
+                  "text": "O rezervație naturală pe o insulă din Viitasaari.",
+                  "category": "natural",
+                  "coords": [
+                        25.906294,
+                        63.091737
+                  ]
+            },
+            {
+                  "name": "Ruins of windmill",
+                  "text": "Ruinele unei vechi mori de vânt ca punct de reper istoric în Viitasaari.",
+                  "category": "historical",
+                  "coords": [
+                        25.841369,
+                        63.08905
+                  ]
+            },
+            {
+                  "name": "Savivuoren näkötorni",
+                  "text": "Un turn de observație din lemn pe dealul Savivuori din Viitasaari.",
+                  "category": "natural",
+                  "coords": [
+                        25.837772,
+                        63.088902
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "O zonă de scăldat în Viitasaari, cu plajă de nisip și facilități.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "O plajă liniștită pentru înot în împrejurimile orașului Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            },
+            {
+                  "name": "Viitasaaren kirkko",
+                  "text": "Biserica principală din Viitasaari, o biserică de lemn în formă de cruce din 1878.",
+                  "category": "religious",
+                  "coords": [
+                        25.849304,
+                        63.073292
+                  ]
+            },
+            {
+                  "name": "Viitasaaren helluntaiseurakunta",
+                  "text": "Clădirea bisericii comunității penticostale din Viitasaari.",
+                  "category": "religious",
+                  "coords": [
+                        25.854978,
+                        63.079495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Metsätyömuseo",
+                  "text": "An open-air museum in Viitasaari showcasing the history of forestry work.",
+                  "category": "museum",
+                  "coords": [
+                        25.840322,
+                        63.088179
+                  ]
+            },
+            {
+                  "name": "Myllärinpuiston uimaranta",
+                  "text": "A municipal swimming beach in Viitasaari with good recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        25.84529,
+                        63.06853
+                  ]
+            },
+            {
+                  "name": "Maijansalonpään luonnonsuojelualue",
+                  "text": "A protected natural area in Viitasaari with diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        25.828674,
+                        63.071448
+                  ]
+            },
+            {
+                  "name": "Aittosaari",
+                  "text": "A nature reserve located on an island in Viitasaari.",
+                  "category": "natural",
+                  "coords": [
+                        25.906294,
+                        63.091737
+                  ]
+            },
+            {
+                  "name": "Ruins of windmill",
+                  "text": "The ruins of an old windmill serving as a historic landmark in Viitasaari.",
+                  "category": "historical",
+                  "coords": [
+                        25.841369,
+                        63.08905
+                  ]
+            },
+            {
+                  "name": "Savivuoren näkötorni",
+                  "text": "A wooden observation tower located on Savivuori hill in Viitasaari.",
+                  "category": "natural",
+                  "coords": [
+                        25.837772,
+                        63.088902
+                  ]
+            },
+            {
+                  "name": "Hiekan uimala",
+                  "text": "A bathing area in Viitasaari featuring a sandy beach and swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        25.838182,
+                        63.081182
+                  ]
+            },
+            {
+                  "name": "Kurkelan uimaranta",
+                  "text": "A quiet swimming beach located in the surroundings of Viitasaari.",
+                  "category": "recreational",
+                  "coords": [
+                        25.829985,
+                        63.095022
+                  ]
+            },
+            {
+                  "name": "Viitasaaren kirkko",
+                  "text": "The main church of Viitasaari, a wooden cross-church built in 1878.",
+                  "category": "religious",
+                  "coords": [
+                        25.849304,
+                        63.073292
+                  ]
+            },
+            {
+                  "name": "Viitasaaren helluntaiseurakunta",
+                  "text": "The church building of the Pentecostal community in Viitasaari.",
+                  "category": "religious",
+                  "coords": [
+                        25.854978,
+                        63.079495
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Viitasaari", hu: "Viitasaari", ro: "Viitasaari", en: "Viitasaari" },
@@ -5215,6 +13648,69 @@ export const finlandCitiesV2: POI[] = [
                         23.821731,
                         63.002792
                   ]
+            },
+            {
+                  "name": "Nelimarkka-museo",
+                  "text": "Ein Kunstmuseum in Alajärvi, das dem Erbe des Malers Eero Nelimarkka gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.835024,
+                        63.015022
+                  ]
+            },
+            {
+                  "name": "Villa Nelimarkka",
+                  "text": "Ein historisches Holzhaus in Alajärvi, das als Kunstgalerie und Künstlerresidenz dient.",
+                  "category": "museum",
+                  "coords": [
+                        23.826814,
+                        63.015904
+                  ]
+            },
+            {
+                  "name": "Villa Väinölä",
+                  "text": "Ein Kulturzentrum in Alajärvi, entworfen von Alvar Aalto.",
+                  "category": "cultural",
+                  "coords": [
+                        23.822074,
+                        62.999999
+                  ]
+            },
+            {
+                  "name": "Alajärven vapaaseurakunta",
+                  "text": "Das Versammlungshaus der Freikirche in Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.819443,
+                        63.001146
+                  ]
+            },
+            {
+                  "name": "Alajärven kirkko",
+                  "text": "Eine neoklassizistische Holzkirche in Alajärvi, entworfen von Carl Ludvig Engel.",
+                  "category": "religious",
+                  "coords": [
+                        23.825421,
+                        63.000419
+                  ]
+            },
+            {
+                  "name": "Alajärven helluntaiseurakunta",
+                  "text": "Das moderne Kirchengebäude der Pfingstgemeinde in Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.809517,
+                        63.000999
+                  ]
+            },
+            {
+                  "name": "Alajärven Rauhanyhdistys ry",
+                  "text": "Ein Gebetshaus der laestadianischen Gemeinschaft in Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.804847,
+                        63.012126
+                  ]
             }
       ],
       "hu": [
@@ -5225,6 +13721,69 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         23.821731,
                         63.002792
+                  ]
+            },
+            {
+                  "name": "Nelimarkka-museo",
+                  "text": "Eero Nelimarkka festőművész hagyatékának szentelt művészeti múzeum Alajärviben.",
+                  "category": "museum",
+                  "coords": [
+                        23.835024,
+                        63.015022
+                  ]
+            },
+            {
+                  "name": "Villa Nelimarkka",
+                  "text": "Történelmi faház Alajärviben, amely művészeti galériaként és alkotóházként működik.",
+                  "category": "museum",
+                  "coords": [
+                        23.826814,
+                        63.015904
+                  ]
+            },
+            {
+                  "name": "Villa Väinölä",
+                  "text": "Alvar Aalto által tervezett kulturális központ Alajärviben.",
+                  "category": "cultural",
+                  "coords": [
+                        23.822074,
+                        62.999999
+                  ]
+            },
+            {
+                  "name": "Alajärven vapaaseurakunta",
+                  "text": "A szabadegyház gyülekezeti háza Alajärviben.",
+                  "category": "religious",
+                  "coords": [
+                        23.819443,
+                        63.001146
+                  ]
+            },
+            {
+                  "name": "Alajärven kirkko",
+                  "text": "Carl Ludvig Engel által tervezett klasszicista fatemplom Alajärviben.",
+                  "category": "religious",
+                  "coords": [
+                        23.825421,
+                        63.000419
+                  ]
+            },
+            {
+                  "name": "Alajärven helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet modern templomépülete Alajärviben.",
+                  "category": "religious",
+                  "coords": [
+                        23.809517,
+                        63.000999
+                  ]
+            },
+            {
+                  "name": "Alajärven Rauhanyhdistys ry",
+                  "text": "A lesztadiánus közösség imaháza Alajärviben.",
+                  "category": "religious",
+                  "coords": [
+                        23.804847,
+                        63.012126
                   ]
             }
       ],
@@ -5237,6 +13796,69 @@ export const finlandCitiesV2: POI[] = [
                         23.821731,
                         63.002792
                   ]
+            },
+            {
+                  "name": "Nelimarkka-museo",
+                  "text": "Un muzeu de artă din Alajärvi dedicat moștenirii pictorului Eero Nelimarkka.",
+                  "category": "museum",
+                  "coords": [
+                        23.835024,
+                        63.015022
+                  ]
+            },
+            {
+                  "name": "Villa Nelimarkka",
+                  "text": "O casă istorică de lemn din Alajärvi, care servește ca galerie de artă și reședință pentru artiști.",
+                  "category": "museum",
+                  "coords": [
+                        23.826814,
+                        63.015904
+                  ]
+            },
+            {
+                  "name": "Villa Väinölä",
+                  "text": "Un centru cultural din Alajärvi, proiectat de Alvar Aalto.",
+                  "category": "cultural",
+                  "coords": [
+                        23.822074,
+                        62.999999
+                  ]
+            },
+            {
+                  "name": "Alajärven vapaaseurakunta",
+                  "text": "Casa de adunare a bisericii libere din Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.819443,
+                        63.001146
+                  ]
+            },
+            {
+                  "name": "Alajärven kirkko",
+                  "text": "O biserică neoclasică de lemn din Alajärvi, proiectată de Carl Ludvig Engel.",
+                  "category": "religious",
+                  "coords": [
+                        23.825421,
+                        63.000419
+                  ]
+            },
+            {
+                  "name": "Alajärven helluntaiseurakunta",
+                  "text": "Clădirea modernă a bisericii penticostale din Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.809517,
+                        63.000999
+                  ]
+            },
+            {
+                  "name": "Alajärven Rauhanyhdistys ry",
+                  "text": "O casă de rugăciune a comunității laestadiene din Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.804847,
+                        63.012126
+                  ]
             }
       ],
       "en": [
@@ -5247,6 +13869,69 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         23.821731,
                         63.002792
+                  ]
+            },
+            {
+                  "name": "Regional Art Museum Nelimarkka",
+                  "text": "An art museum in Alajärvi dedicated to the legacy of painter Eero Nelimarkka.",
+                  "category": "museum",
+                  "coords": [
+                        23.835024,
+                        63.015022
+                  ]
+            },
+            {
+                  "name": "Villa Nelimarkka",
+                  "text": "A historic wooden house in Alajärvi serving as an art gallery and artist residency.",
+                  "category": "museum",
+                  "coords": [
+                        23.826814,
+                        63.015904
+                  ]
+            },
+            {
+                  "name": "Villa Väinölä",
+                  "text": "A cultural arts centre in Alajärvi designed by Alvar Aalto.",
+                  "category": "cultural",
+                  "coords": [
+                        23.822074,
+                        62.999999
+                  ]
+            },
+            {
+                  "name": "Alajärven vapaaseurakunta",
+                  "text": "The meeting house of the Free Church in Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.819443,
+                        63.001146
+                  ]
+            },
+            {
+                  "name": "Alajärven kirkko",
+                  "text": "A neo-classical wooden church in Alajärvi designed by Carl Ludvig Engel.",
+                  "category": "religious",
+                  "coords": [
+                        23.825421,
+                        63.000419
+                  ]
+            },
+            {
+                  "name": "Alajärven helluntaiseurakunta",
+                  "text": "The modern church building of the Pentecostal community in Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.809517,
+                        63.000999
+                  ]
+            },
+            {
+                  "name": "Alajärven Rauhanyhdistys ry",
+                  "text": "A prayer house of the Laestadian community in Alajärvi.",
+                  "category": "religious",
+                  "coords": [
+                        23.804847,
+                        63.012126
                   ]
             }
       ]
@@ -5493,7 +14178,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-alavus-cities-v2.webp",
   },
   {
-    id: "finland-brande-cities-v2",
+    id: "finland-brande-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Brändö kyrka",
+                  "text": "Eine lokale Kirche, die religiöse Dienste in der Gemeinde Brändö anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        21.054343,
+                        60.416302
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Brändö kyrka",
+                  "text": "Vallási szolgáltatásokat nyújtó helyi templom Brändö községben.",
+                  "category": "religious",
+                  "coords": [
+                        21.054343,
+                        60.416302
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Brändö kyrka",
+                  "text": "O biserică locală care oferă servicii religioase în municipalitatea Brändö.",
+                  "category": "religious",
+                  "coords": [
+                        21.054343,
+                        60.416302
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Brändö kyrka",
+                  "text": "A local church providing religious services in the municipality of Brändö.",
+                  "category": "religious",
+                  "coords": [
+                        21.054343,
+                        60.416302
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Brändö", hu: "Brändö", ro: "Brändö", en: "Brändö" },
@@ -5557,6 +14287,78 @@ export const finlandCitiesV2: POI[] = [
                         19.543207,
                         60.218208
                   ]
+            },
+            {
+                  "name": "Postrotemuseet",
+                  "text": "Ein Museum in Eckerö, das die gefährliche Geschichte der Postruderer über das Meer dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.543691,
+                        60.220233
+                  ]
+            },
+            {
+                  "name": "Ålands Jakt- och Fiskemuseum",
+                  "text": "Ein Museum in Eckerö, das die Traditionen der Jagd und Fischerei auf Åland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.540191,
+                        60.232175
+                  ]
+            },
+            {
+                  "name": "Leklandet",
+                  "text": "Ein großer Indoor-Spielplatz und Aktivitätspark für Familien in Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.549408,
+                        60.229431
+                  ]
+            },
+            {
+                  "name": "Knösgärdan",
+                  "text": "Eine archäologische Stätte mit antiken Grabhügeln in der Nähe von Eckerö.",
+                  "category": "historical",
+                  "coords": [
+                        19.61322,
+                        60.210541
+                  ]
+            },
+            {
+                  "name": "Labbas hembygds- & bankmuseum",
+                  "text": "Ein kleines Museum in Eckerö, das lokale Geschichte und alte Bankutensilien kombiniert.",
+                  "category": "museum",
+                  "coords": [
+                        19.558302,
+                        60.223103
+                  ]
+            },
+            {
+                  "name": "Käringsunds Viltsafari",
+                  "text": "Ein Safaripark in Eckerö, in dem man Hirsche, Wildschweine und Lamas aus nächster Nähe sehen kann.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545238,
+                        60.228036
+                  ]
+            },
+            {
+                  "name": "Smart Park",
+                  "text": "Ein interaktiver Erlebnispark in Eckerö mit pädagogischen Spielen und Aktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        19.604789,
+                        60.212712
+                  ]
+            },
+            {
+                  "name": "Eckerö kyrka",
+                  "text": "Eine mittelalterliche Steinkirche in Eckerö, gewidmet dem Heiligen Laurentius.",
+                  "category": "religious",
+                  "coords": [
+                        19.612588,
+                        60.207818
+                  ]
             }
       ],
       "hu": [
@@ -5576,6 +14378,78 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         19.543207,
                         60.218208
+                  ]
+            },
+            {
+                  "name": "Postrotemuseet",
+                  "text": "Eckerőben található múzeum, amely a tengeri postaszállítás veszélyes történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        19.543691,
+                        60.220233
+                  ]
+            },
+            {
+                  "name": "Ålands Jakt- och Fiskemuseum",
+                  "text": "Åland vadászati és halászati hagyományait bemutató múzeum Eckerőben.",
+                  "category": "museum",
+                  "coords": [
+                        19.540191,
+                        60.232175
+                  ]
+            },
+            {
+                  "name": "Leklandet",
+                  "text": "Nagy fedett játszóház és aktivitási park családok számára Eckerőben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.549408,
+                        60.229431
+                  ]
+            },
+            {
+                  "name": "Knösgärdan",
+                  "text": "Régészeti lelőhely ősi sírhalmokkal Eckerö közelében.",
+                  "category": "historical",
+                  "coords": [
+                        19.61322,
+                        60.210541
+                  ]
+            },
+            {
+                  "name": "Labbas hembygds- & bankmuseum",
+                  "text": "Kis múzeum Eckerőben, amely a helytörténetet és régi banki eszközöket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.558302,
+                        60.223103
+                  ]
+            },
+            {
+                  "name": "Käringsunds Viltsafari",
+                  "text": "Szafaripark Eckerőben, ahol szarvasokat, vaddisznókat és lámákat láthatnak a látogatók.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545238,
+                        60.228036
+                  ]
+            },
+            {
+                  "name": "Smart Park",
+                  "text": "Interaktív élménypark Eckerőben, pedagógiai játékokkal és tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.604789,
+                        60.212712
+                  ]
+            },
+            {
+                  "name": "Eckerö kyrka",
+                  "text": "Szent Lőrincnek szentelt középkori kőtemplom Eckerőben.",
+                  "category": "religious",
+                  "coords": [
+                        19.612588,
+                        60.207818
                   ]
             }
       ],
@@ -5597,6 +14471,78 @@ export const finlandCitiesV2: POI[] = [
                         19.543207,
                         60.218208
                   ]
+            },
+            {
+                  "name": "Postrotemuseet",
+                  "text": "Un muzeu din Eckerö care documentează istoria periculoasă a transportului poștal pe mare.",
+                  "category": "museum",
+                  "coords": [
+                        19.543691,
+                        60.220233
+                  ]
+            },
+            {
+                  "name": "Ålands Jakt- och Fiskemuseum",
+                  "text": "Un muzeu din Eckerö care prezintă tradițiile de vânătoare și pescuit din Åland.",
+                  "category": "museum",
+                  "coords": [
+                        19.540191,
+                        60.232175
+                  ]
+            },
+            {
+                  "name": "Leklandet",
+                  "text": "Un mare loc de joacă interior și parc de activități pentru familii în Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.549408,
+                        60.229431
+                  ]
+            },
+            {
+                  "name": "Knösgärdan",
+                  "text": "Un sit arheologic cu tumuli antici situat lângă Eckerö.",
+                  "category": "historical",
+                  "coords": [
+                        19.61322,
+                        60.210541
+                  ]
+            },
+            {
+                  "name": "Labbas hembygds- & bankmuseum",
+                  "text": "Un mic muzeu din Eckerö care combină istoria locală cu vechi ustensile bancare.",
+                  "category": "museum",
+                  "coords": [
+                        19.558302,
+                        60.223103
+                  ]
+            },
+            {
+                  "name": "Käringsunds Viltsafari",
+                  "text": "Un parc safari în Eckerö, unde pot fi văzuți de aproape cerbi, mistreți și lame.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545238,
+                        60.228036
+                  ]
+            },
+            {
+                  "name": "Smart Park",
+                  "text": "Un parc de distracții interactiv în Eckerö, cu jocuri și activități educaționale.",
+                  "category": "recreational",
+                  "coords": [
+                        19.604789,
+                        60.212712
+                  ]
+            },
+            {
+                  "name": "Eckerö kyrka",
+                  "text": "O biserică medievală de piatră din Eckerö, dedicată Sfântului Laurențiu.",
+                  "category": "religious",
+                  "coords": [
+                        19.612588,
+                        60.207818
+                  ]
             }
       ],
       "en": [
@@ -5616,6 +14562,78 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         19.543207,
                         60.218208
+                  ]
+            },
+            {
+                  "name": "Postrotemuseet",
+                  "text": "A museum in Eckerö documenting the hazardous history of the mail rowing route across the sea.",
+                  "category": "museum",
+                  "coords": [
+                        19.543691,
+                        60.220233
+                  ]
+            },
+            {
+                  "name": "Ålands Jakt- och Fiskemuseum",
+                  "text": "A museum in Eckerö showcasing the hunting and fishing traditions of Åland.",
+                  "category": "museum",
+                  "coords": [
+                        19.540191,
+                        60.232175
+                  ]
+            },
+            {
+                  "name": "Leklandet",
+                  "text": "A large indoor playground and activity park for families in Eckerö.",
+                  "category": "recreational",
+                  "coords": [
+                        19.549408,
+                        60.229431
+                  ]
+            },
+            {
+                  "name": "Knösgärdan",
+                  "text": "An archaeological site featuring ancient burial mounds near Eckerö.",
+                  "category": "historical",
+                  "coords": [
+                        19.61322,
+                        60.210541
+                  ]
+            },
+            {
+                  "name": "Labbas hembygds- & bankmuseum",
+                  "text": "A small museum in Eckerö combining local history and old banking artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        19.558302,
+                        60.223103
+                  ]
+            },
+            {
+                  "name": "Käringsunds Viltsafari",
+                  "text": "A safari park in Eckerö where visitors can see deer, wild boar, and llamas up close.",
+                  "category": "recreational",
+                  "coords": [
+                        19.545238,
+                        60.228036
+                  ]
+            },
+            {
+                  "name": "Smart Park",
+                  "text": "An interactive theme park in Eckerö featuring educational games and activities.",
+                  "category": "recreational",
+                  "coords": [
+                        19.604789,
+                        60.212712
+                  ]
+            },
+            {
+                  "name": "Eckerö kyrka",
+                  "text": "A medieval stone church in Eckerö, dedicated to Saint Lawrence.",
+                  "category": "religious",
+                  "coords": [
+                        19.612588,
+                        60.207818
                   ]
             }
       ]
@@ -5899,6 +14917,51 @@ export const finlandCitiesV2: POI[] = [
                         19.825891,
                         60.351722
                   ]
+            },
+            {
+                  "name": "Geta Motormuseum",
+                  "text": "Ein Museum in Geta, das Oldtimer-Motoren, Autos und der Technikgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.859348,
+                        60.378022
+                  ]
+            },
+            {
+                  "name": "Myran",
+                  "text": "Eine archäologische Stätte in Geta mit Spuren prähistorischer Siedlungen.",
+                  "category": "historical",
+                  "coords": [
+                        19.852306,
+                        60.365157
+                  ]
+            },
+            {
+                  "name": "Smidbacka",
+                  "text": "Ein Ort in Geta, der für seine archäologischen Funde aus der Antike bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        19.851393,
+                        60.363211
+                  ]
+            },
+            {
+                  "name": "Getabergen",
+                  "text": "Ein malerischer Hügel und beliebter Aussichtspunkt mit Panoramablick auf die Region Geta.",
+                  "category": "natural",
+                  "coords": [
+                        19.851708,
+                        60.385546
+                  ]
+            },
+            {
+                  "name": "Geta kyrka",
+                  "text": "Eine historische mittelalterliche Steinkirche in der Gemeinde Geta.",
+                  "category": "religious",
+                  "coords": [
+                        19.848483,
+                        60.37486
+                  ]
             }
       ],
       "hu": [
@@ -5909,6 +14972,51 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         19.825891,
                         60.351722
+                  ]
+            },
+            {
+                  "name": "Geta Motormuseum",
+                  "text": "Geta városában található múzeum, amely régi motoroknak, autóknak és technikatörténetnek szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        19.859348,
+                        60.378022
+                  ]
+            },
+            {
+                  "name": "Myran",
+                  "text": "Régészeti lelőhely Geta városában, ahol őskori települések nyomai találhatók.",
+                  "category": "historical",
+                  "coords": [
+                        19.852306,
+                        60.365157
+                  ]
+            },
+            {
+                  "name": "Smidbacka",
+                  "text": "Geta egy helyszíne, amely az ókori régészeti leleteiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        19.851393,
+                        60.363211
+                  ]
+            },
+            {
+                  "name": "Getabergen",
+                  "text": "Egy festői domb és népszerű kilátóhely, amely panorámás kilátást nyújt Geta régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        19.851708,
+                        60.385546
+                  ]
+            },
+            {
+                  "name": "Geta kyrka",
+                  "text": "Történelmi középkori kőtemplom Geta községben.",
+                  "category": "religious",
+                  "coords": [
+                        19.848483,
+                        60.37486
                   ]
             }
       ],
@@ -5921,6 +15029,51 @@ export const finlandCitiesV2: POI[] = [
                         19.825891,
                         60.351722
                   ]
+            },
+            {
+                  "name": "Geta Motormuseum",
+                  "text": "Un muzeu din Geta dedicat motoarelor de epocă, mașinilor și istoriei tehnice.",
+                  "category": "museum",
+                  "coords": [
+                        19.859348,
+                        60.378022
+                  ]
+            },
+            {
+                  "name": "Myran",
+                  "text": "Un sit arheologic din Geta care conține urme de așezări preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        19.852306,
+                        60.365157
+                  ]
+            },
+            {
+                  "name": "Smidbacka",
+                  "text": "Un sit din Geta cunoscut pentru descoperirile sale arheologice din vremuri străvechi.",
+                  "category": "historical",
+                  "coords": [
+                        19.851393,
+                        60.363211
+                  ]
+            },
+            {
+                  "name": "Getabergen",
+                  "text": "Un deal pitoresc și un punct de belvedere popular care oferă vederi panoramice asupra regiunii Geta.",
+                  "category": "natural",
+                  "coords": [
+                        19.851708,
+                        60.385546
+                  ]
+            },
+            {
+                  "name": "Geta kyrka",
+                  "text": "O biserică istorică de piatră medievală situată în comuna Geta.",
+                  "category": "religious",
+                  "coords": [
+                        19.848483,
+                        60.37486
+                  ]
             }
       ],
       "en": [
@@ -5931,6 +15084,51 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         19.825891,
                         60.351722
+                  ]
+            },
+            {
+                  "name": "Geta Motormuseum",
+                  "text": "A museum in Geta dedicated to vintage engines, cars, and technical history.",
+                  "category": "museum",
+                  "coords": [
+                        19.859348,
+                        60.378022
+                  ]
+            },
+            {
+                  "name": "Myran",
+                  "text": "An archaeological site in Geta containing traces of prehistoric settlements.",
+                  "category": "historical",
+                  "coords": [
+                        19.852306,
+                        60.365157
+                  ]
+            },
+            {
+                  "name": "Smidbacka",
+                  "text": "A site in Geta known for its archaeological findings from ancient times.",
+                  "category": "historical",
+                  "coords": [
+                        19.851393,
+                        60.363211
+                  ]
+            },
+            {
+                  "name": "Getabergen",
+                  "text": "A scenic hill and popular viewpoint offering panoramic views of the Geta region.",
+                  "category": "natural",
+                  "coords": [
+                        19.851708,
+                        60.385546
+                  ]
+            },
+            {
+                  "name": "Geta Church",
+                  "text": "A historic medieval stone church located in the municipality of Geta.",
+                  "category": "religious",
+                  "coords": [
+                        19.848483,
+                        60.37486
                   ]
             }
       ]
@@ -6294,7 +15492,52 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-haapavesi-cities-v2.webp",
   },
   {
-    id: "finland-halsua-cities-v2",
+    id: "finland-halsua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Halsuan kirkko",
+                  "text": "Eine hölzerne lutherische Kirche in Halsua, bekannt für ihre traditionelle finnische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        24.17129,
+                        63.459417
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Halsuan kirkko",
+                  "text": "Halsuai evangélikus fatemplom, amely hagyományos finn építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.17129,
+                        63.459417
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Halsuan kirkko",
+                  "text": "O biserică luterană de lemn din Halsua, cunoscută pentru arhitectura sa tradițională finlandeză.",
+                  "category": "religious",
+                  "coords": [
+                        24.17129,
+                        63.459417
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Halsuan kirkko",
+                  "text": "A wooden Lutheran church in Halsua, known for its traditional Finnish architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.17129,
+                        63.459417
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Halsua", hu: "Halsua", ro: "Halsua", en: "Halsua" },
@@ -6349,6 +15592,33 @@ export const finlandCitiesV2: POI[] = [
                         19.695326,
                         60.214168
                   ]
+            },
+            {
+                  "name": "Ålands Brandkårsmuseum",
+                  "text": "Ein Museum auf den Åland-Inseln, das der Geschichte der Feuerwehr gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.711473,
+                        60.228755
+                  ]
+            },
+            {
+                  "name": "Kvarnbacken",
+                  "text": "Eine archäologische Stätte in Hammarland mit antiken Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        19.74478,
+                        60.239489
+                  ]
+            },
+            {
+                  "name": "Hammarlands kyrka",
+                  "text": "Eine historische Kirche in Hammarland, die bis ins Mittelalter zurückreicht.",
+                  "category": "religious",
+                  "coords": [
+                        19.745002,
+                        60.21772
+                  ]
             }
       ],
       "hu": [
@@ -6359,6 +15629,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         19.695326,
                         60.214168
+                  ]
+            },
+            {
+                  "name": "Ålands Brandkårsmuseum",
+                  "text": "Az Åland-szigeteken található múzeum, amely a tűzoltóság történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.711473,
+                        60.228755
+                  ]
+            },
+            {
+                  "name": "Kvarnbacken",
+                  "text": "Hammarlandban található régészeti lelőhely ókori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        19.74478,
+                        60.239489
+                  ]
+            },
+            {
+                  "name": "Hammarlands kyrka",
+                  "text": "Hammarland történelmi temploma, amely a középkorig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        19.745002,
+                        60.21772
                   ]
             }
       ],
@@ -6371,6 +15668,33 @@ export const finlandCitiesV2: POI[] = [
                         19.695326,
                         60.214168
                   ]
+            },
+            {
+                  "name": "Ålands Brandkårsmuseum",
+                  "text": "Un muzeu din Insulele Åland dedicat istoriei luptei împotriva incendiilor.",
+                  "category": "museum",
+                  "coords": [
+                        19.711473,
+                        60.228755
+                  ]
+            },
+            {
+                  "name": "Kvarnbacken",
+                  "text": "Un sit arheologic din Hammarland care prezintă vestigii antice.",
+                  "category": "historical",
+                  "coords": [
+                        19.74478,
+                        60.239489
+                  ]
+            },
+            {
+                  "name": "Hammarlands kyrka",
+                  "text": "O biserică istorică din Hammarland, datând din perioada medievală.",
+                  "category": "religious",
+                  "coords": [
+                        19.745002,
+                        60.21772
+                  ]
             }
       ],
       "en": [
@@ -6381,6 +15705,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         19.695326,
                         60.214168
+                  ]
+            },
+            {
+                  "name": "Ålands Brandkårsmuseum",
+                  "text": "A museum on the Åland Islands dedicated to the history of firefighting.",
+                  "category": "museum",
+                  "coords": [
+                        19.711473,
+                        60.228755
+                  ]
+            },
+            {
+                  "name": "Kvarnbacken",
+                  "text": "An archaeological site in Hammarland featuring ancient remains.",
+                  "category": "historical",
+                  "coords": [
+                        19.74478,
+                        60.239489
+                  ]
+            },
+            {
+                  "name": "Hammarlands kyrka",
+                  "text": "A historic church in Hammarland, dating back to the medieval period.",
+                  "category": "religious",
+                  "coords": [
+                        19.745002,
+                        60.21772
                   ]
             }
       ]
@@ -6429,7 +15780,124 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-hammarland-cities-v2.webp",
   },
   {
-    id: "finland-hartola-cities-v2",
+    id: "finland-hartola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Itä-Hämeen museo",
+                  "text": "Ein regionales Museum in Hartola, das das kulturelle Erbe von Ost-Häme bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        26.016836,
+                        61.568114
+                  ]
+            },
+            {
+                  "name": "Hartolan kirkko",
+                  "text": "Eine beeindruckende Granitkirche in Hartola, erbaut im nationalromantischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        26.020307,
+                        61.578856
+                  ]
+            },
+            {
+                  "name": "Hartolan helluntaiseurakunta",
+                  "text": "Das Versammlungszentrum der Pfingstgemeinde in Hartola.",
+                  "category": "religious",
+                  "coords": [
+                        26.018686,
+                        61.581006
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Itä-Hämeen museo",
+                  "text": "Hartolai regionális múzeum, amely Kelet-Häme kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        26.016836,
+                        61.568114
+                  ]
+            },
+            {
+                  "name": "Hartolan kirkko",
+                  "text": "Hartola lenyűgöző gránittemploma, amely nemzeti romantikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        26.020307,
+                        61.578856
+                  ]
+            },
+            {
+                  "name": "Hartolan helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet gyülekezeti központja Hartolában.",
+                  "category": "religious",
+                  "coords": [
+                        26.018686,
+                        61.581006
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Itä-Hämeen museo",
+                  "text": "Un muzeu regional din Hartola care păstrează moștenirea culturală din Häme de Est.",
+                  "category": "museum",
+                  "coords": [
+                        26.016836,
+                        61.568114
+                  ]
+            },
+            {
+                  "name": "Hartolan kirkko",
+                  "text": "O biserică impresionantă de granit în Hartola, construită în stil romantic național.",
+                  "category": "religious",
+                  "coords": [
+                        26.020307,
+                        61.578856
+                  ]
+            },
+            {
+                  "name": "Hartolan helluntaiseurakunta",
+                  "text": "Centrul de adunare al comunității penticostale din Hartola.",
+                  "category": "religious",
+                  "coords": [
+                        26.018686,
+                        61.581006
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Itä-Hämeen museo",
+                  "text": "A regional museum in Hartola preserving the cultural heritage of East Häme.",
+                  "category": "museum",
+                  "coords": [
+                        26.016836,
+                        61.568114
+                  ]
+            },
+            {
+                  "name": "Hartolan kirkko",
+                  "text": "An impressive granite church in Hartola, built in the National Romantic style.",
+                  "category": "religious",
+                  "coords": [
+                        26.020307,
+                        61.578856
+                  ]
+            },
+            {
+                  "name": "Hartolan helluntaiseurakunta",
+                  "text": "The assembly centre of the Pentecostal community in Hartola.",
+                  "category": "religious",
+                  "coords": [
+                        26.018686,
+                        61.581006
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Hartola", hu: "Hartola", ro: "Hartola", en: "Hartola" },
@@ -6637,6 +16105,33 @@ export const finlandCitiesV2: POI[] = [
                         25.359505,
                         65.180462
                   ]
+            },
+            {
+                  "name": "Teatterikuoppa",
+                  "text": "Ein lokales Theater in Haukipudas für Aufführungen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.346134,
+                        65.165377
+                  ]
+            },
+            {
+                  "name": "Kotiseutumuseo",
+                  "text": "Ein Heimatmuseum in Haukipudas, das das regionale Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.351384,
+                        65.178405
+                  ]
+            },
+            {
+                  "name": "Haukiputaan kirkko",
+                  "text": "Ein zentrales Gotteshaus und historisches Gebäude in Haukipudas.",
+                  "category": "religious",
+                  "coords": [
+                        25.350459,
+                        65.179867
+                  ]
             }
       ],
       "hu": [
@@ -6674,6 +16169,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.359505,
                         65.180462
+                  ]
+            },
+            {
+                  "name": "Teatterikuoppa",
+                  "text": "Helyi színházi helyszín Haukipudasban előadások és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        25.346134,
+                        65.165377
+                  ]
+            },
+            {
+                  "name": "Kotiseutumuseo",
+                  "text": "Haukipudas helytörténeti múzeuma, amely a regionális örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.351384,
+                        65.178405
+                  ]
+            },
+            {
+                  "name": "Haukiputaan kirkko",
+                  "text": "Központi templom és történelmi épület Haukipudasban.",
+                  "category": "religious",
+                  "coords": [
+                        25.350459,
+                        65.179867
                   ]
             }
       ],
@@ -6713,6 +16235,33 @@ export const finlandCitiesV2: POI[] = [
                         25.359505,
                         65.180462
                   ]
+            },
+            {
+                  "name": "Teatterikuoppa",
+                  "text": "Un loc de teatru local din Haukipudas pentru spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        25.346134,
+                        65.165377
+                  ]
+            },
+            {
+                  "name": "Kotiseutumuseo",
+                  "text": "Un muzeu local de istorie din Haukipudas care prezintă patrimoniul regional.",
+                  "category": "museum",
+                  "coords": [
+                        25.351384,
+                        65.178405
+                  ]
+            },
+            {
+                  "name": "Haukiputaan kirkko",
+                  "text": "Un lăcaș de cult central și o clădire istorică din Haukipudas.",
+                  "category": "religious",
+                  "coords": [
+                        25.350459,
+                        65.179867
+                  ]
             }
       ],
       "en": [
@@ -6750,6 +16299,33 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.359505,
                         65.180462
+                  ]
+            },
+            {
+                  "name": "Teatterikuoppa",
+                  "text": "A local theatre venue in Haukipudas for performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        25.346134,
+                        65.165377
+                  ]
+            },
+            {
+                  "name": "Kotiseutumuseo",
+                  "text": "A local history museum in Haukipudas showcasing regional heritage.",
+                  "category": "museum",
+                  "coords": [
+                        25.351384,
+                        65.178405
+                  ]
+            },
+            {
+                  "name": "Haukiputaan kirkko",
+                  "text": "A central place of worship and historic building in Haukipudas.",
+                  "category": "religious",
+                  "coords": [
+                        25.350459,
+                        65.179867
                   ]
             }
       ]
@@ -7213,6 +16789,42 @@ export const finlandCitiesV2: POI[] = [
                         28.46227,
                         64.70035
                   ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Ein lokales Freilichttheater in Hyrynsalmi mit sommerlichen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.485435,
+                        64.664573
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkko",
+                  "text": "Eine hölzerne Kreuzkirche in Hyrynsalmi aus dem späten 18. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        28.508673,
+                        64.681038
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen helluntaiseurakunta",
+                  "text": "Der Versammlungsort der Pfingstgemeinde in Hyrynsalmi.",
+                  "category": "religious",
+                  "coords": [
+                        28.476886,
+                        64.680302
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkon tapuli",
+                  "text": "Der historische Glockenstapel der Kirche von Hyrynsalmi.",
+                  "category": "tower",
+                  "coords": [
+                        28.507773,
+                        64.680746
+                  ]
             }
       ],
       "hu": [
@@ -7223,6 +16835,42 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         28.46227,
                         64.70035
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Helyi szabadtéri színház Hyrynsalmiban, nyári előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        28.485435,
+                        64.664573
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkko",
+                  "text": "18. század végi kereszt alaprajzú fatemplom Hyrynsalmiban.",
+                  "category": "religious",
+                  "coords": [
+                        28.508673,
+                        64.681038
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen helluntaiseurakunta",
+                  "text": "A pünkösdi gyülekezet találkozóhelye Hyrynsalmiban.",
+                  "category": "religious",
+                  "coords": [
+                        28.476886,
+                        64.680302
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkon tapuli",
+                  "text": "A hyrynsalmi templom történelmi harangtornya.",
+                  "category": "tower",
+                  "coords": [
+                        28.507773,
+                        64.680746
                   ]
             }
       ],
@@ -7235,6 +16883,42 @@ export const finlandCitiesV2: POI[] = [
                         28.46227,
                         64.70035
                   ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "Un teatru local în aer liber din Hyrynsalmi, cu spectacole de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        28.485435,
+                        64.664573
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkko",
+                  "text": "O biserică de lemn în formă de cruce din Hyrynsalmi, de la sfârșitul secolului al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        28.508673,
+                        64.681038
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen helluntaiseurakunta",
+                  "text": "Locul de adunare al comunității penticostale din Hyrynsalmi.",
+                  "category": "religious",
+                  "coords": [
+                        28.476886,
+                        64.680302
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkon tapuli",
+                  "text": "Clopotnița istorică a bisericii din Hyrynsalmi.",
+                  "category": "tower",
+                  "coords": [
+                        28.507773,
+                        64.680746
+                  ]
             }
       ],
       "en": [
@@ -7245,6 +16929,42 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         28.46227,
                         64.70035
+                  ]
+            },
+            {
+                  "name": "Kesäteatteri",
+                  "text": "A local open-air theatre in Hyrynsalmi featuring summer performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.485435,
+                        64.664573
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkko",
+                  "text": "A wooden cross-church in Hyrynsalmi dating from the late 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        28.508673,
+                        64.681038
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen helluntaiseurakunta",
+                  "text": "The meeting place of the Pentecostal community in Hyrynsalmi.",
+                  "category": "religious",
+                  "coords": [
+                        28.476886,
+                        64.680302
+                  ]
+            },
+            {
+                  "name": "Hyrynsalmen kirkon tapuli",
+                  "text": "The historic bell tower belonging to the church of Hyrynsalmi.",
+                  "category": "tower",
+                  "coords": [
+                        28.507773,
+                        64.680746
                   ]
             }
       ]
@@ -7725,7 +17445,196 @@ export const finlandCitiesV2: POI[] = [
     image: "/poi-images/finland-jokioinen-cities-v2.webp",
   },
   {
-    id: "finland-joutsa-cities-v2",
+    id: "finland-joutsa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Joutsan talomuseo",
+                  "text": "Ein Freilichtmuseum in Joutsa, das traditionelle ländliche Gebäude und Lebensweisen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.115079,
+                        61.758082
+                  ]
+            },
+            {
+                  "name": "Jousan ryvin rauniot",
+                  "text": "Die Ruinen eines alten Gebäudes in der Gemeinde Joutsa.",
+                  "category": "historical",
+                  "coords": [
+                        26.108342,
+                        61.736873
+                  ]
+            },
+            {
+                  "name": "Taidelaitos Haihatus",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in Joutsa, das Ausstellungen, Residenzen und Veranstaltungen beherberget.",
+                  "category": "cultural",
+                  "coords": [
+                        26.115604,
+                        61.751464
+                  ]
+            },
+            {
+                  "name": "Joutsan helluntaiseurakunta",
+                  "text": "Eine Pfingstkirche in Joutsa, die der örtlichen religiösen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        26.113133,
+                        61.739698
+                  ]
+            },
+            {
+                  "name": "Joutsan kirkon tapuli",
+                  "text": "Der Glockenturm, der zur Hauptkirche von Joutsa gehört.",
+                  "category": "tower",
+                  "coords": [
+                        26.116163,
+                        61.741391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Joutsan talomuseo",
+                  "text": "Szabadtéri múzeum Joutsában, amely hagyományos vidéki épületeket és életmódot mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.115079,
+                        61.758082
+                  ]
+            },
+            {
+                  "name": "Jousan ryvin rauniot",
+                  "text": "Egy régi építmény romjai Joutsa községben.",
+                  "category": "historical",
+                  "coords": [
+                        26.108342,
+                        61.736873
+                  ]
+            },
+            {
+                  "name": "Taidelaitos Haihatus",
+                  "text": "Kortárs művészeti központ Joutsában, amely kiállításoknak, rezidencia-programoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        26.115604,
+                        61.751464
+                  ]
+            },
+            {
+                  "name": "Joutsan helluntaiseurakunta",
+                  "text": "Pünkösdi templom Joutsában, amely a helyi vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        26.113133,
+                        61.739698
+                  ]
+            },
+            {
+                  "name": "Joutsan kirkon tapuli",
+                  "text": "Joutsa főtemplomához tartozó harangtorony.",
+                  "category": "tower",
+                  "coords": [
+                        26.116163,
+                        61.741391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Joutsan talomuseo",
+                  "text": "Un muzeu în aer liber din Joutsa care prezintă clădiri rurale tradiționale și stilul de viață de altădată.",
+                  "category": "museum",
+                  "coords": [
+                        26.115079,
+                        61.758082
+                  ]
+            },
+            {
+                  "name": "Jousan ryvin rauniot",
+                  "text": "Ruinele unei vechi structuri situate în comuna Joutsa.",
+                  "category": "historical",
+                  "coords": [
+                        26.108342,
+                        61.736873
+                  ]
+            },
+            {
+                  "name": "Taidelaitos Haihatus",
+                  "text": "Un centru de artă contemporană din Joutsa care găzduiește expoziții, rezidențe și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        26.115604,
+                        61.751464
+                  ]
+            },
+            {
+                  "name": "Joutsan helluntaiseurakunta",
+                  "text": "O biserică penticostală din Joutsa care deservește comunitatea religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        26.113133,
+                        61.739698
+                  ]
+            },
+            {
+                  "name": "Joutsan kirkon tapuli",
+                  "text": "Turnul-clopotniță asociat cu biserica principală din Joutsa.",
+                  "category": "tower",
+                  "coords": [
+                        26.116163,
+                        61.741391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Joutsan talomuseo",
+                  "text": "An open-air museum in Joutsa showcasing traditional rural buildings and lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        26.115079,
+                        61.758082
+                  ]
+            },
+            {
+                  "name": "Jousan ryvin rauniot",
+                  "text": "The ruins of an old structure located in the municipality of Joutsa.",
+                  "category": "historical",
+                  "coords": [
+                        26.108342,
+                        61.736873
+                  ]
+            },
+            {
+                  "name": "Taidelaitos Haihatus",
+                  "text": "A contemporary art center in Joutsa hosting exhibitions, residencies, and events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.115604,
+                        61.751464
+                  ]
+            },
+            {
+                  "name": "Joutsan helluntaiseurakunta",
+                  "text": "A Pentecostal church in Joutsa serving the local religious community.",
+                  "category": "religious",
+                  "coords": [
+                        26.113133,
+                        61.739698
+                  ]
+            },
+            {
+                  "name": "Joutsan kirkon tapuli",
+                  "text": "The bell tower associated with the main church of Joutsa.",
+                  "category": "tower",
+                  "coords": [
+                        26.116163,
+                        61.741391
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "FI",
     name: { de: "Joutsa", hu: "Joutsa", ro: "Joutsa", en: "Joutsa" },
@@ -7825,6 +17734,51 @@ export const finlandCitiesV2: POI[] = [
                         27.870521,
                         61.889124
                   ]
+            },
+            {
+                  "name": "Juvan museo; Juvan karjalaisten museo; Galleria Kuninkaankartano",
+                  "text": "Ein kultureller Museumskomplex in Juva, der lokale Geschichte und Kunst vereint.",
+                  "category": "museum",
+                  "coords": [
+                        27.883524,
+                        61.893051
+                  ]
+            },
+            {
+                  "name": "Ukonsaari",
+                  "text": "Ein Naturschutzgebiet auf einer Insel im See Jukajärvi bei Juva.",
+                  "category": "natural",
+                  "coords": [
+                        27.882547,
+                        61.87536
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Ein geschütztes Naturareal in Juva, das die lokale Flora und Fauna bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        27.873096,
+                        61.890179
+                  ]
+            },
+            {
+                  "name": "Juvan kirkko",
+                  "text": "Die lutherische Steinkirche von Juva ist ein markantes religiöses Bauwerk der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.854568,
+                        61.899225
+                  ]
+            },
+            {
+                  "name": "Juvan helluntaiseurakunta",
+                  "text": "Ein Ort der Religionsausübung der Pfingstgemeinde in Juva.",
+                  "category": "religious",
+                  "coords": [
+                        27.857486,
+                        61.901013
+                  ]
             }
       ],
       "hu": [
@@ -7835,6 +17789,51 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         27.870521,
                         61.889124
+                  ]
+            },
+            {
+                  "name": "Juvan museo; Juvan karjalaisten museo; Galleria Kuninkaankartano",
+                  "text": "Kulturális múzeumegyüttes Juvában, amely a helytörténetet és a művészetet ötvözi.",
+                  "category": "museum",
+                  "coords": [
+                        27.883524,
+                        61.893051
+                  ]
+            },
+            {
+                  "name": "Ukonsaari",
+                  "text": "Természetvédelmi terület a Juva melletti Jukajärvi-tó egyik szigetén.",
+                  "category": "natural",
+                  "coords": [
+                        27.882547,
+                        61.87536
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "Védett természeti terület Juva környékén, amely megőrzi a helyi élővilágot.",
+                  "category": "natural",
+                  "coords": [
+                        27.873096,
+                        61.890179
+                  ]
+            },
+            {
+                  "name": "Juvan kirkko",
+                  "text": "Juva evangélikus kőtemploma a város egyik jelentős vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        27.854568,
+                        61.899225
+                  ]
+            },
+            {
+                  "name": "Juvan helluntaiseurakunta",
+                  "text": "Pünkösdi felekezeti templom és hitéleti központ Juva városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.857486,
+                        61.901013
                   ]
             }
       ],
@@ -7847,6 +17846,51 @@ export const finlandCitiesV2: POI[] = [
                         27.870521,
                         61.889124
                   ]
+            },
+            {
+                  "name": "Juvan museo; Juvan karjalaisten museo; Galleria Kuninkaankartano",
+                  "text": "Un complex muzeal cultural în Juva, care îmbină istoria locală și arta.",
+                  "category": "museum",
+                  "coords": [
+                        27.883524,
+                        61.893051
+                  ]
+            },
+            {
+                  "name": "Ukonsaari",
+                  "text": "O rezervație naturală pe o insulă din lacul Jukajärvi, lângă Juva.",
+                  "category": "natural",
+                  "coords": [
+                        27.882547,
+                        61.87536
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "O zonă naturală protejată în Juva, care conservă flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        27.873096,
+                        61.890179
+                  ]
+            },
+            {
+                  "name": "Juvan kirkko",
+                  "text": "Biserica de piatră din Juva este un edificiu religios proeminent al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        27.854568,
+                        61.899225
+                  ]
+            },
+            {
+                  "name": "Juvan helluntaiseurakunta",
+                  "text": "Un lăcaș de cult al comunității penticostale din Juva.",
+                  "category": "religious",
+                  "coords": [
+                        27.857486,
+                        61.901013
+                  ]
             }
       ],
       "en": [
@@ -7857,6 +17901,51 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         27.870521,
                         61.889124
+                  ]
+            },
+            {
+                  "name": "Juvan museo; Juvan karjalaisten museo; Galleria Kuninkaankartano",
+                  "text": "A cultural museum complex in Juva combining local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        27.883524,
+                        61.893051
+                  ]
+            },
+            {
+                  "name": "Ukonsaari",
+                  "text": "A nature reserve located on an island in Lake Jukajärvi near Juva.",
+                  "category": "natural",
+                  "coords": [
+                        27.882547,
+                        61.87536
+                  ]
+            },
+            {
+                  "name": "Luonnonsuojelualue",
+                  "text": "A protected natural area in Juva preserving local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        27.873096,
+                        61.890179
+                  ]
+            },
+            {
+                  "name": "Juvan kirkko",
+                  "text": "The Lutheran stone church of Juva is a prominent religious building in the town.",
+                  "category": "religious",
+                  "coords": [
+                        27.854568,
+                        61.899225
+                  ]
+            },
+            {
+                  "name": "Juvan helluntaiseurakunta",
+                  "text": "A place of worship for the Pentecostal community in Juva.",
+                  "category": "religious",
+                  "coords": [
+                        27.857486,
+                        61.901013
                   ]
             }
       ]
@@ -7996,6 +18085,357 @@ export const finlandCitiesV2: POI[] = [
                         25.805905,
                         62.217547
                   ]
+            },
+            {
+                  "name": "Keski-Suomen luontomuseo",
+                  "text": "Ein Museum, das der vielfältigen Flora und Fauna Mittelfinnlands gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.739532,
+                        62.243077
+                  ]
+            },
+            {
+                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet bei Jyväskylä, das für seinen Laubwald bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.740742,
+                        62.227853
+                  ]
+            },
+            {
+                  "name": "Alvar Aalto -museo",
+                  "text": "Ein Museum in Jyväskylä, das vom Architekten Alvar Aalto entworfen wurde und seinem Werk gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.730995,
+                        62.233424
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Kaupunginteatteri",
+                  "text": "Ein bekanntes Theater in Jyväskylä, das eine Vielzahl von dramatischen Aufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        25.747448,
+                        62.240094
+                  ]
+            },
+            {
+                  "name": "Pitkäruohon luonnonsuojelualue",
+                  "text": "Ein Naturschutzgebiet in der Region Jyväskylä, das sich auf den Erhalt der lokalen Artenvielfalt konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        25.789721,
+                        62.231914
+                  ]
+            },
+            {
+                  "name": "Toivolan Vanha Piha",
+                  "text": "Ein historischer Innenhof in Jyväskylä mit traditionellen Gebäuden und Kunsthandwerksläden.",
+                  "category": "museum",
+                  "coords": [
+                        25.744721,
+                        62.237716
+                  ]
+            },
+            {
+                  "name": "Haukanniemen luonnonsuojelualue",
+                  "text": "Ein Naturgebiet bei Jyväskylä, das wegen seines ökologischen und landschaftlichen Wertes erhalten wird.",
+                  "category": "natural",
+                  "coords": [
+                        25.710252,
+                        62.259065
+                  ]
+            },
+            {
+                  "name": "AaltoAlvari",
+                  "text": "Ein beliebter Wasserpark und Schwimmzentrum in Jyväskylä, entworfen von Alvar Aalto.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728224,
+                        62.236189
+                  ]
+            },
+            {
+                  "name": "Teatteri Vakiopaine",
+                  "text": "Ein unabhängiges Theater in Jyväskylä, in dem verschiedene kulturelle Darbietungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        25.740047,
+                        62.238679
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Huoneteatteri",
+                  "text": "Ein kleines, gemeinschaftsorientiertes Theater in der Stadt Jyväskylä.",
+                  "category": "cultural",
+                  "coords": [
+                        25.74627,
+                        62.246074
+                  ]
+            },
+            {
+                  "name": "Jyväskylän taidemuseo",
+                  "text": "Ein Kunstmuseum in Jyväskylä, das finnische und internationale bildende Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.744395,
+                        62.241288
+                  ]
+            },
+            {
+                  "name": "Jyväskylän kaupunginteatteri, Pavilijonki väistötila",
+                  "text": "Ein temporärer Aufführungsort für das Stadttheater Jyväskylä während der Renovierungsarbeiten.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757377,
+                        62.239091
+                  ]
+            },
+            {
+                  "name": "Teatteri Eurooppa 4",
+                  "text": "Eine professionelle Tournee-Theatergruppe mit Sitz in der Region Jyväskylä.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741245,
+                        62.248424
+                  ]
+            },
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "Ein beliebter Stadtstrand in Jyväskylä, der Schwimmen und Erholung am See Tuomiojärvi bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744343,
+                        62.254722
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "Ein Sandstrand im Viitaniemi-Viertel von Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Latoteatteri Kulissi",
+                  "text": "Eine Freilichtbühne in Jyväskylä, die für ihre Bühne im Scheunenstil bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        25.772303,
+                        62.230629
+                  ]
+            },
+            {
+                  "name": "Rautpohja",
+                  "text": "Ein Buchtenbereich in Jyväskylä, der malerische Ausblicke aufs Wasser und Erholung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.711084,
+                        62.252639
+                  ]
+            },
+            {
+                  "name": "Taulumäki",
+                  "text": "Ein markanter Hügel oder Gipfel in der Region Jyväskylä.",
+                  "category": "natural",
+                  "coords": [
+                        25.747783,
+                        62.253693
+                  ]
+            },
+            {
+                  "name": "Lounaispuisto",
+                  "text": "Ein öffentlicher Park in Jyväskylä, der Grünflächen und Aktivitäten im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        25.738069,
+                        62.236853
+                  ]
+            },
+            {
+                  "name": "Taavettilan riihi",
+                  "text": "Eine historische Dreschscheune in Jyväskylä, die als kulturelle Attraktion dient.",
+                  "category": "landmark",
+                  "coords": [
+                        25.733835,
+                        62.235758
+                  ]
+            },
+            {
+                  "name": "Kompassi",
+                  "text": "Ein bekannter Treffpunkt und Wahrzeichen im Stadtzentrum von Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.74735,
+                        62.242639
+                  ]
+            },
+            {
+                  "name": "Torikuningas",
+                  "text": "Ein Denkmal in Jyväskylä, das der lokalen Markttradition gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.746042,
+                        62.24474
+                  ]
+            },
+            {
+                  "name": "Ratamo Printmaking and Photography Centre",
+                  "text": "Ein Kulturzentrum in Jyväskylä, das auf Druckgrafik und Fotografie spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757972,
+                        62.244409
+                  ]
+            },
+            {
+                  "name": "Kirjailijatalo",
+                  "text": "Ein historisches Gebäude in Jyväskylä, das mit der lokalen Literaturgeschichte verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.735398,
+                        62.236105
+                  ]
+            },
+            {
+                  "name": "Eerolanpuron kosteikko",
+                  "text": "Ein Feuchtgebiet bei Jyväskylä, das Möglichkeiten zur Vogel- und Naturbeobachtung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.721637,
+                        62.248107
+                  ]
+            },
+            {
+                  "name": "Kortesuon Kartano",
+                  "text": "Ein historisches Herrenhaus in der Region Jyväskylä.",
+                  "category": "historical",
+                  "coords": [
+                        25.717649,
+                        62.248131
+                  ]
+            },
+            {
+                  "name": "Survon kartano",
+                  "text": "Ein lokales Herrenhaus und eine Sehenswürdigkeit in Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.771277,
+                        62.230233
+                  ]
+            },
+            {
+                  "name": "Matti Nykäsen muistomerkki",
+                  "text": "Ein Denkmal zu Ehren des berühmten finnischen Skispringers Matti Nykänen.",
+                  "category": "historical",
+                  "coords": [
+                        25.721529,
+                        62.234405
+                  ]
+            },
+            {
+                  "name": "Yliopiston kappeli",
+                  "text": "Eine Universitätskapelle für Gottesdienste in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.733094,
+                        62.237501
+                  ]
+            },
+            {
+                  "name": "Jyväskylän vapaaseurakunta",
+                  "text": "Eine Freikirche, die religiöse Dienste in Jyväskylä anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        25.780126,
+                        62.258955
+                  ]
+            },
+            {
+                  "name": "Jyväskylän reformoitu baptistiseurakunta",
+                  "text": "Eine reformierte Baptistengemeinde in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.771893,
+                        62.225106
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Cityseurakunta",
+                  "text": "Eine lokale City-Kirche in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.738283,
+                        62.238411
+                  ]
+            },
+            {
+                  "name": "Taulumäen kirkko",
+                  "text": "Eine bedeutende Kirche im Stadtteil Taulumäki von Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.751352,
+                        62.253449
+                  ]
+            },
+            {
+                  "name": "Jyväskylän rauhanyhdistys",
+                  "text": "Ein Versammlungsort für religiöse Gemeinschaften in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.749682,
+                        62.25426
+                  ]
+            },
+            {
+                  "name": "Kuokkalan kirkko",
+                  "text": "Eine moderne Kirche im Stadtteil Kuokkala in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.771662,
+                        62.226967
+                  ]
+            },
+            {
+                  "name": "Jyväskylän helluntaiseurakunta",
+                  "text": "Eine Pfingstgemeinde in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.723532,
+                        62.239077
+                  ]
+            },
+            {
+                  "name": "Ylistön silta",
+                  "text": "Eine architektonisch markante Brücke für Fußgänger und Radfahrer in Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.737005,
+                        62.229843
+                  ]
+            },
+            {
+                  "name": "Kuokkalan silta",
+                  "text": "Eine bedeutende Brücke, die verschiedene Stadtteile von Jyväskylä verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.763838,
+                        62.234344
+                  ]
+            },
+            {
+                  "name": "Vr2 961",
+                  "text": "Eine historische Dampflokomotive, die in Jyväskylä ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.751753,
+                        62.240111
+                  ]
             }
       ],
       "hu": [
@@ -8042,6 +18482,357 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.805905,
                         62.217547
+                  ]
+            },
+            {
+                  "name": "Keski-Suomen luontomuseo",
+                  "text": "Közép-Finnország változatos növény- és állatvilágának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.739532,
+                        62.243077
+                  ]
+            },
+            {
+                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
+                  "text": "Jyväskylä közeli természetvédelmi terület, amely lombhullató erdőiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.740742,
+                        62.227853
+                  ]
+            },
+            {
+                  "name": "Alvar Aalto -museo",
+                  "text": "Alvar Aalto építész által tervezett és munkásságának szentelt múzeum Jyväskylében.",
+                  "category": "museum",
+                  "coords": [
+                        25.730995,
+                        62.233424
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Kaupunginteatteri",
+                  "text": "Kiváló színház Jyväskylében, amely különféle drámai előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        25.747448,
+                        62.240094
+                  ]
+            },
+            {
+                  "name": "Pitkäruohon luonnonsuojelualue",
+                  "text": "Természetvédelmi terület a Jyväskylä régióban, amely a helyi biodiverzitás megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        25.789721,
+                        62.231914
+                  ]
+            },
+            {
+                  "name": "Toivolan Vanha Piha",
+                  "text": "Történelmi udvar Jyväskylében tradicionális épületekkel és kézműves boltokkal.",
+                  "category": "museum",
+                  "coords": [
+                        25.744721,
+                        62.237716
+                  ]
+            },
+            {
+                  "name": "Haukanniemen luonnonsuojelualue",
+                  "text": "Jyväskylä közeli természeti terület, amelyet ökológiai és táji értékei miatt őriztek meg.",
+                  "category": "natural",
+                  "coords": [
+                        25.710252,
+                        62.259065
+                  ]
+            },
+            {
+                  "name": "AaltoAlvari",
+                  "text": "Népszerű vízipark és úszóközpont Jyväskylében, amelyet Alvar Aalto tervezett.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728224,
+                        62.236189
+                  ]
+            },
+            {
+                  "name": "Teatteri Vakiopaine",
+                  "text": "Független színházi helyszín Jyväskylében, amely különféle kulturális produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        25.740047,
+                        62.238679
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Huoneteatteri",
+                  "text": "Kicsi, közösségközpontú színház Jyväskylé városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.74627,
+                        62.246074
+                  ]
+            },
+            {
+                  "name": "Jyväskylän taidemuseo",
+                  "text": "Finn és nemzetközi vizuális művészeteket bemutató művészeti múzeum Jyväskylében.",
+                  "category": "museum",
+                  "coords": [
+                        25.744395,
+                        62.241288
+                  ]
+            },
+            {
+                  "name": "Jyväskylän kaupunginteatteri, Pavilijonki väistötila",
+                  "text": "A Jyväskylé Városi Színház ideiglenes előadóhelye a felújítások ideje alatt.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757377,
+                        62.239091
+                  ]
+            },
+            {
+                  "name": "Teatteri Eurooppa 4",
+                  "text": "Professzionális utazó színházi társulat a Jyväskylé régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741245,
+                        62.248424
+                  ]
+            },
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "Népszerű városi strand Jyväskylében, amely úszási és kikapcsolódási lehetőséget kínál a Tuomiojärvi-tavon.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744343,
+                        62.254722
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "Homokos strand Jyväskylé Viitaniemi negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Latoteatteri Kulissi",
+                  "text": "Szabadtéri színház Jyväskylében, amely pajta stílusú színpadáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        25.772303,
+                        62.230629
+                  ]
+            },
+            {
+                  "name": "Rautpohja",
+                  "text": "Öböl Jyväskylében, amely festői kilátást és kikapcsolódást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        25.711084,
+                        62.252639
+                  ]
+            },
+            {
+                  "name": "Taulumäki",
+                  "text": "Jelentős domb vagy csúcs a Jyväskylä régióban.",
+                  "category": "natural",
+                  "coords": [
+                        25.747783,
+                        62.253693
+                  ]
+            },
+            {
+                  "name": "Lounaispuisto",
+                  "text": "Nyilvános park Jyväskylében, amely zöldfelületet és szabadtéri tevékenységeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        25.738069,
+                        62.236853
+                  ]
+            },
+            {
+                  "name": "Taavettilan riihi",
+                  "text": "Történelmi cséplőpajta Jyväskylében, amely kulturális látnivalóként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        25.733835,
+                        62.235758
+                  ]
+            },
+            {
+                  "name": "Kompassi",
+                  "text": "Ismert találkozási pont és nevezetesség Jyväskylé városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.74735,
+                        62.242639
+                  ]
+            },
+            {
+                  "name": "Torikuningas",
+                  "text": "Jyväskylé egyik emlékműve, amelyet a helyi piaci hagyományoknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        25.746042,
+                        62.24474
+                  ]
+            },
+            {
+                  "name": "Ratamo Printmaking and Photography Centre",
+                  "text": "Grafikai és fotóművészeti központ Jyväskylében.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757972,
+                        62.244409
+                  ]
+            },
+            {
+                  "name": "Kirjailijatalo",
+                  "text": "Történelmi épület Jyväskylében, amely a helyi irodalomtörténethez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.735398,
+                        62.236105
+                  ]
+            },
+            {
+                  "name": "Eerolanpuron kosteikko",
+                  "text": "Jyväskylä közeli vizes élőhely, amely madármegfigyelési és természetjárási lehetőséget kínál.",
+                  "category": "natural",
+                  "coords": [
+                        25.721637,
+                        62.248107
+                  ]
+            },
+            {
+                  "name": "Kortesuon Kartano",
+                  "text": "Történelmi kúria Jyväskylä környékén.",
+                  "category": "historical",
+                  "coords": [
+                        25.717649,
+                        62.248131
+                  ]
+            },
+            {
+                  "name": "Survon kartano",
+                  "text": "Helyi kúria és látnivaló Jyväskylä városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.771277,
+                        62.230233
+                  ]
+            },
+            {
+                  "name": "Matti Nykäsen muistomerkki",
+                  "text": "Emlékmű a híres finn síugró, Matti Nykänen tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        25.721529,
+                        62.234405
+                  ]
+            },
+            {
+                  "name": "Yliopiston kappeli",
+                  "text": "Egyetemi kápolna Jyväskylä városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.733094,
+                        62.237501
+                  ]
+            },
+            {
+                  "name": "Jyväskylän vapaaseurakunta",
+                  "text": "Szabadegyház, amely vallási szolgáltatásokat nyújt Jyväskylä városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.780126,
+                        62.258955
+                  ]
+            },
+            {
+                  "name": "Jyväskylän reformoitu baptistiseurakunta",
+                  "text": "Református baptista gyülekezet Jyväskylä városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.771893,
+                        62.225106
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Cityseurakunta",
+                  "text": "Helyi városi gyülekezet Jyväskylä területén.",
+                  "category": "religious",
+                  "coords": [
+                        25.738283,
+                        62.238411
+                  ]
+            },
+            {
+                  "name": "Taulumäen kirkko",
+                  "text": "Jelentős templom Jyväskylä Taulumäki negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        25.751352,
+                        62.253449
+                  ]
+            },
+            {
+                  "name": "Jyväskylän rauhanyhdistys",
+                  "text": "Vallási gyülekezeti hely Jyväskylä városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.749682,
+                        62.25426
+                  ]
+            },
+            {
+                  "name": "Kuokkalan kirkko",
+                  "text": "Modern templom Jyväskylä Kuokkala negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        25.771662,
+                        62.226967
+                  ]
+            },
+            {
+                  "name": "Jyväskylän helluntaiseurakunta",
+                  "text": "Pünkösdi gyülekezet Jyväskylä városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.723532,
+                        62.239077
+                  ]
+            },
+            {
+                  "name": "Ylistön silta",
+                  "text": "Építészetileg kiemelkedő gyalogos és kerékpáros híd Jyväskylä városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.737005,
+                        62.229843
+                  ]
+            },
+            {
+                  "name": "Kuokkalan silta",
+                  "text": "Jelentős híd, amely Jyväskylä különböző negyedeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        25.763838,
+                        62.234344
+                  ]
+            },
+            {
+                  "name": "Vr2 961",
+                  "text": "Jyväskylä városában kiállított történelmi gőzmozdony.",
+                  "category": "landmark",
+                  "coords": [
+                        25.751753,
+                        62.240111
                   ]
             }
       ],
@@ -8090,6 +18881,357 @@ export const finlandCitiesV2: POI[] = [
                         25.805905,
                         62.217547
                   ]
+            },
+            {
+                  "name": "Keski-Suomen luontomuseo",
+                  "text": "Un muzeu dedicat florei și faunei diverse din Finlanda Centrală.",
+                  "category": "museum",
+                  "coords": [
+                        25.739532,
+                        62.243077
+                  ]
+            },
+            {
+                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
+                  "text": "O zonă naturală protejată de lângă Jyväskylä, cunoscută pentru pădurea sa de foioase.",
+                  "category": "natural",
+                  "coords": [
+                        25.740742,
+                        62.227853
+                  ]
+            },
+            {
+                  "name": "Alvar Aalto -museo",
+                  "text": "Un muzeu din Jyväskylä proiectat de arhitectul Alvar Aalto și dedicat operei sale.",
+                  "category": "museum",
+                  "coords": [
+                        25.730995,
+                        62.233424
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Kaupunginteatteri",
+                  "text": "Un teatru proeminent din Jyväskylä care oferă o varietate de spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        25.747448,
+                        62.240094
+                  ]
+            },
+            {
+                  "name": "Pitkäruohon luonnonsuojelualue",
+                  "text": "O rezervație naturală din regiunea Jyväskylä axată pe conservarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        25.789721,
+                        62.231914
+                  ]
+            },
+            {
+                  "name": "Toivolan Vanha Piha",
+                  "text": "O curte istorică din Jyväskylä, cu clădiri tradiționale și magazine de artizanat.",
+                  "category": "museum",
+                  "coords": [
+                        25.744721,
+                        62.237716
+                  ]
+            },
+            {
+                  "name": "Haukanniemen luonnonsuojelualue",
+                  "text": "O zonă naturală de lângă Jyväskylä conservată pentru valoarea sa ecologică și pitorească.",
+                  "category": "natural",
+                  "coords": [
+                        25.710252,
+                        62.259065
+                  ]
+            },
+            {
+                  "name": "AaltoAlvari",
+                  "text": "Un parc acvatic și centru de înot popular din Jyväskylä, proiectat de arhitectul Alvar Aalto.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728224,
+                        62.236189
+                  ]
+            },
+            {
+                  "name": "Teatteri Vakiopaine",
+                  "text": "Un loc de teatru independent din Jyväskylä care găzduiește diverse acte culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        25.740047,
+                        62.238679
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Huoneteatteri",
+                  "text": "Un teatru mic, axat pe comunitate, din orașul Jyväskylä.",
+                  "category": "cultural",
+                  "coords": [
+                        25.74627,
+                        62.246074
+                  ]
+            },
+            {
+                  "name": "Jyväskylän taidemuseo",
+                  "text": "Un muzeu de artă din Jyväskylä care prezintă arte vizuale finlandeze și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        25.744395,
+                        62.241288
+                  ]
+            },
+            {
+                  "name": "Jyväskylän kaupunginteatteri, Pavilijonki väistötila",
+                  "text": "Un spațiu temporar de spectacol pentru Teatrul Orașului Jyväskylä în timpul renovărilor.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757377,
+                        62.239091
+                  ]
+            },
+            {
+                  "name": "Teatteri Eurooppa 4",
+                  "text": "O trupă de teatru profesionistă cu sediul în regiunea Jyväskylä.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741245,
+                        62.248424
+                  ]
+            },
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "O plajă populară de oraș din Jyväskylä, care oferă înot și recreere pe lacul Tuomiojärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744343,
+                        62.254722
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "O plajă cu nisip în districtul Viitaniemi din Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Latoteatteri Kulissi",
+                  "text": "Un loc de teatru în aer liber din Jyväskylä, cunoscut pentru scena sa în stil șură.",
+                  "category": "cultural",
+                  "coords": [
+                        25.772303,
+                        62.230629
+                  ]
+            },
+            {
+                  "name": "Rautpohja",
+                  "text": "O zonă de golf din Jyväskylä care oferă vederi pitorești la apă și recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        25.711084,
+                        62.252639
+                  ]
+            },
+            {
+                  "name": "Taulumäki",
+                  "text": "Un deal sau vârf proeminent din regiunea Jyväskylä.",
+                  "category": "natural",
+                  "coords": [
+                        25.747783,
+                        62.253693
+                  ]
+            },
+            {
+                  "name": "Lounaispuisto",
+                  "text": "Un parc public din Jyväskylä care oferă spațiu verde și activități în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        25.738069,
+                        62.236853
+                  ]
+            },
+            {
+                  "name": "Taavettilan riihi",
+                  "text": "O șură istorică din Jyväskylä care servește ca atracție culturală.",
+                  "category": "landmark",
+                  "coords": [
+                        25.733835,
+                        62.235758
+                  ]
+            },
+            {
+                  "name": "Kompassi",
+                  "text": "Un punct de întâlnire binecunoscut și un punct de reper în centrul orașului Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.74735,
+                        62.242639
+                  ]
+            },
+            {
+                  "name": "Torikuningas",
+                  "text": "Un monument din Jyväskylä dedicat tradiției pieței locale.",
+                  "category": "historical",
+                  "coords": [
+                        25.746042,
+                        62.24474
+                  ]
+            },
+            {
+                  "name": "Ratamo Printmaking and Photography Centre",
+                  "text": "Un centru cultural din Jyväskylä specializat în gravură și fotografie.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757972,
+                        62.244409
+                  ]
+            },
+            {
+                  "name": "Kirjailijatalo",
+                  "text": "O clădire istorică din Jyväskylä asociată cu istoria literară locală.",
+                  "category": "landmark",
+                  "coords": [
+                        25.735398,
+                        62.236105
+                  ]
+            },
+            {
+                  "name": "Eerolanpuron kosteikko",
+                  "text": "O zonă umedă de lângă Jyväskylä care oferă posibilități de observare a păsărilor și a naturii.",
+                  "category": "natural",
+                  "coords": [
+                        25.721637,
+                        62.248107
+                  ]
+            },
+            {
+                  "name": "Kortesuon Kartano",
+                  "text": "Un conac istoric din regiunea Jyväskylä.",
+                  "category": "historical",
+                  "coords": [
+                        25.717649,
+                        62.248131
+                  ]
+            },
+            {
+                  "name": "Survon kartano",
+                  "text": "Un conac local și o atracție în Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.771277,
+                        62.230233
+                  ]
+            },
+            {
+                  "name": "Matti Nykäsen muistomerkki",
+                  "text": "Un monument dedicat faimosului săritor cu schiurile finlandez Matti Nykänen.",
+                  "category": "historical",
+                  "coords": [
+                        25.721529,
+                        62.234405
+                  ]
+            },
+            {
+                  "name": "Yliopiston kappeli",
+                  "text": "O chapelă universitară pentru servicii religioase în Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.733094,
+                        62.237501
+                  ]
+            },
+            {
+                  "name": "Jyväskylän vapaaseurakunta",
+                  "text": "O biserică liberă care oferă servicii religioase în Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.780126,
+                        62.258955
+                  ]
+            },
+            {
+                  "name": "Jyväskylän reformoitu baptistiseurakunta",
+                  "text": "O biserică baptistă reformată în Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.771893,
+                        62.225106
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Cityseurakunta",
+                  "text": "O biserică orășenească locală în Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.738283,
+                        62.238411
+                  ]
+            },
+            {
+                  "name": "Taulumäen kirkko",
+                  "text": "O biserică importantă în cartierul Taulumäki din Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.751352,
+                        62.253449
+                  ]
+            },
+            {
+                  "name": "Jyväskylän rauhanyhdistys",
+                  "text": "Un loc de adunare pentru comunitățile religioase din Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.749682,
+                        62.25426
+                  ]
+            },
+            {
+                  "name": "Kuokkalan kirkko",
+                  "text": "O biserică modernă în districtul Kuokkala din Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.771662,
+                        62.226967
+                  ]
+            },
+            {
+                  "name": "Jyväskylän helluntaiseurakunta",
+                  "text": "O biserică penticostală în Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.723532,
+                        62.239077
+                  ]
+            },
+            {
+                  "name": "Ylistön silta",
+                  "text": "Un pod distinctiv din punct de vedere arhitectural pentru pietoni și bicicliști în Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.737005,
+                        62.229843
+                  ]
+            },
+            {
+                  "name": "Kuokkalan silta",
+                  "text": "Un pod important care leagă diferite districte din Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.763838,
+                        62.234344
+                  ]
+            },
+            {
+                  "name": "Vr2 961",
+                  "text": "O locomotivă cu abur istorică expusă în Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.751753,
+                        62.240111
+                  ]
             }
       ],
       "en": [
@@ -8136,6 +19278,357 @@ export const finlandCitiesV2: POI[] = [
                   "coords": [
                         25.805905,
                         62.217547
+                  ]
+            },
+            {
+                  "name": "Keski-Suomen luontomuseo",
+                  "text": "A museum dedicated to the diverse flora and fauna of Central Finland.",
+                  "category": "museum",
+                  "coords": [
+                        25.739532,
+                        62.243077
+                  ]
+            },
+            {
+                  "name": "Ylistönrinteen lehdon luonnonsuojelualue",
+                  "text": "A protected nature area near Jyväskylä known for its deciduous forest.",
+                  "category": "natural",
+                  "coords": [
+                        25.740742,
+                        62.227853
+                  ]
+            },
+            {
+                  "name": "Alvar Aalto Museum",
+                  "text": "A museum in Jyväskylä designed by and dedicated to the work of architect Alvar Aalto.",
+                  "category": "museum",
+                  "coords": [
+                        25.730995,
+                        62.233424
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Kaupunginteatteri",
+                  "text": "A prominent theatre in Jyväskylä offering a variety of dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        25.747448,
+                        62.240094
+                  ]
+            },
+            {
+                  "name": "Pitkäruohon luonnonsuojelualue",
+                  "text": "A nature reserve in the Jyväskylä region focused on preserving local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        25.789721,
+                        62.231914
+                  ]
+            },
+            {
+                  "name": "Toivolan Vanha Piha",
+                  "text": "A historic courtyard in Jyväskylä featuring traditional buildings and craft shops.",
+                  "category": "museum",
+                  "coords": [
+                        25.744721,
+                        62.237716
+                  ]
+            },
+            {
+                  "name": "Haukanniemen luonnonsuojelualue",
+                  "text": "A natural area near Jyväskylä preserved for its ecological and scenic value.",
+                  "category": "natural",
+                  "coords": [
+                        25.710252,
+                        62.259065
+                  ]
+            },
+            {
+                  "name": "AaltoAlvari",
+                  "text": "A popular water park and swimming centre in Jyväskylä designed by Alvar Aalto.",
+                  "category": "recreational",
+                  "coords": [
+                        25.728224,
+                        62.236189
+                  ]
+            },
+            {
+                  "name": "Teatteri Vakiopaine",
+                  "text": "An independent theatre venue in Jyväskylä hosting diverse cultural acts.",
+                  "category": "cultural",
+                  "coords": [
+                        25.740047,
+                        62.238679
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Huoneteatteri",
+                  "text": "A small, community-focused theatre in the city of Jyväskylä.",
+                  "category": "cultural",
+                  "coords": [
+                        25.74627,
+                        62.246074
+                  ]
+            },
+            {
+                  "name": "Jyväskylän taidemuseo",
+                  "text": "An art museum in Jyväskylä showcasing Finnish and international visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        25.744395,
+                        62.241288
+                  ]
+            },
+            {
+                  "name": "Jyväskylän kaupunginteatteri, Pavilijonki väistötila",
+                  "text": "A temporary performance space for the Jyväskylä City Theatre during renovations.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757377,
+                        62.239091
+                  ]
+            },
+            {
+                  "name": "Teatteri Eurooppa 4",
+                  "text": "A professional touring theatre group based in the Jyväskylä region.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741245,
+                        62.248424
+                  ]
+            },
+            {
+                  "name": "Tuomiojärven uimaranta",
+                  "text": "A popular city beach in Jyväskylä offering swimming and recreation on Lake Tuomiojärvi.",
+                  "category": "recreational",
+                  "coords": [
+                        25.744343,
+                        62.254722
+                  ]
+            },
+            {
+                  "name": "Viitaniemen uimaranta",
+                  "text": "A sandy beach in the Viitaniemi district of Jyväskylä.",
+                  "category": "recreational",
+                  "coords": [
+                        25.726615,
+                        62.253869
+                  ]
+            },
+            {
+                  "name": "Latoteatteri Kulissi",
+                  "text": "An open-air theatre venue in Jyväskylä known for its barn-style stage.",
+                  "category": "cultural",
+                  "coords": [
+                        25.772303,
+                        62.230629
+                  ]
+            },
+            {
+                  "name": "Rautpohja",
+                  "text": "A bay area in Jyväskylä providing scenic water views and recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        25.711084,
+                        62.252639
+                  ]
+            },
+            {
+                  "name": "Taulumäki",
+                  "text": "A prominent hill or peak in the Jyväskylä region.",
+                  "category": "natural",
+                  "coords": [
+                        25.747783,
+                        62.253693
+                  ]
+            },
+            {
+                  "name": "Lounaispuisto",
+                  "text": "A public park in Jyväskylä providing green space and outdoor activities.",
+                  "category": "park",
+                  "coords": [
+                        25.738069,
+                        62.236853
+                  ]
+            },
+            {
+                  "name": "Taavettilan riihi",
+                  "text": "A historic threshing barn in Jyväskylä that serves as a cultural attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        25.733835,
+                        62.235758
+                  ]
+            },
+            {
+                  "name": "Kompassi",
+                  "text": "A well-known meeting point and landmark in the city centre of Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.74735,
+                        62.242639
+                  ]
+            },
+            {
+                  "name": "Torikuningas",
+                  "text": "A monument in Jyväskylä dedicated to the local market tradition.",
+                  "category": "historical",
+                  "coords": [
+                        25.746042,
+                        62.24474
+                  ]
+            },
+            {
+                  "name": "Ratamo Printmaking and Photography Centre",
+                  "text": "A cultural centre in Jyväskylä specializing in printmaking and photography.",
+                  "category": "cultural",
+                  "coords": [
+                        25.757972,
+                        62.244409
+                  ]
+            },
+            {
+                  "name": "Kirjailijatalo",
+                  "text": "A historic building in Jyväskylä associated with local literary history.",
+                  "category": "landmark",
+                  "coords": [
+                        25.735398,
+                        62.236105
+                  ]
+            },
+            {
+                  "name": "Eerolanpuron kosteikko",
+                  "text": "A wetland area near Jyväskylä offering birdwatching and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        25.721637,
+                        62.248107
+                  ]
+            },
+            {
+                  "name": "Kortesuon Kartano",
+                  "text": "A historic manor house in the Jyväskylä area.",
+                  "category": "historical",
+                  "coords": [
+                        25.717649,
+                        62.248131
+                  ]
+            },
+            {
+                  "name": "Survon kartano",
+                  "text": "A local manor and attraction in Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.771277,
+                        62.230233
+                  ]
+            },
+            {
+                  "name": "Matti Nykänen’s memorial",
+                  "text": "A memorial dedicated to the famous Finnish ski jumper Matti Nykänen.",
+                  "category": "historical",
+                  "coords": [
+                        25.721529,
+                        62.234405
+                  ]
+            },
+            {
+                  "name": "Yliopiston kappeli",
+                  "text": "A university chapel for religious services in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.733094,
+                        62.237501
+                  ]
+            },
+            {
+                  "name": "Jyväskylän vapaaseurakunta",
+                  "text": "A free church offering religious services in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.780126,
+                        62.258955
+                  ]
+            },
+            {
+                  "name": "Jyväskylän reformoitu baptistiseurakunta",
+                  "text": "A reformed Baptist church in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.771893,
+                        62.225106
+                  ]
+            },
+            {
+                  "name": "Jyväskylän Cityseurakunta",
+                  "text": "A local city church in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.738283,
+                        62.238411
+                  ]
+            },
+            {
+                  "name": "Taulumäen kirkko",
+                  "text": "A prominent church in the Taulumäki district of Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.751352,
+                        62.253449
+                  ]
+            },
+            {
+                  "name": "Jyväskylän rauhanyhdistys",
+                  "text": "A gathering place for religious communities in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.749682,
+                        62.25426
+                  ]
+            },
+            {
+                  "name": "Kuokkalan kirkko",
+                  "text": "A modern church in the Kuokkala district of Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.771662,
+                        62.226967
+                  ]
+            },
+            {
+                  "name": "Jyväskylän helluntaiseurakunta",
+                  "text": "A pentecostal church in Jyväskylä.",
+                  "category": "religious",
+                  "coords": [
+                        25.723532,
+                        62.239077
+                  ]
+            },
+            {
+                  "name": "Ylistön silta",
+                  "text": "An architecturally striking bridge for pedestrians and cyclists in Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.737005,
+                        62.229843
+                  ]
+            },
+            {
+                  "name": "Kuokkalan silta",
+                  "text": "A significant bridge connecting different districts of Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.763838,
+                        62.234344
+                  ]
+            },
+            {
+                  "name": "Vr2 961",
+                  "text": "A historic steam locomotive on display in Jyväskylä.",
+                  "category": "landmark",
+                  "coords": [
+                        25.751753,
+                        62.240111
                   ]
             }
       ]

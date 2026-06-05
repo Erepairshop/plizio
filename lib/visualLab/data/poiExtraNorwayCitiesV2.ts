@@ -3,7 +3,484 @@ import { POI } from './poi';
 export const norwayCitiesV2: POI[] = [
 
   {
-    id: "norway-molde-cities-v2",
+    id: "norway-molde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatret Vårt",
+                  "text": "Das Regionaltheater von Møre og Romsdal mit Sitz in Molde.",
+                  "category": "cultural",
+                  "coords": [
+                        7.155576,
+                        62.736325
+                  ]
+            },
+            {
+                  "name": "Chateauet",
+                  "text": "Ein historisches Herrenhaus und Museum in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.15073,
+                        62.736671
+                  ]
+            },
+            {
+                  "name": "Romsdalsmuseet - Krona",
+                  "text": "Das moderne Hauptgebäude des Romsdal-Museums in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.150809,
+                        62.739683
+                  ]
+            },
+            {
+                  "name": "Bygata på Romsdalsmuseet",
+                  "text": "Ein rekonstruierter Stadtstraßenabschnitt im Freilichtmuseum von Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.149344,
+                        62.739541
+                  ]
+            },
+            {
+                  "name": "Fiskerimuseet Hjertøya",
+                  "text": "Ein Fischereimuseum auf der Insel Hjertøya bei Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.168851,
+                        62.716952
+                  ]
+            },
+            {
+                  "name": "Holmarka besøksgård",
+                  "text": "Ein Besucherbauernhof und Museum in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.14708,
+                        62.741442
+                  ]
+            },
+            {
+                  "name": "Salmon Center Molde",
+                  "text": "Ein Informationszentrum über die Lachszucht in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.159674,
+                        62.737344
+                  ]
+            },
+            {
+                  "name": "Bygde- og bysamlinga i Molde",
+                  "text": "Eine Sammlung zur Stadt- und Dorfgeschichte in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.146829,
+                        62.738916
+                  ]
+            },
+            {
+                  "name": "Fredslunden",
+                  "text": "Ein Gedenkpark in Molde, der dem Frieden gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        7.127455,
+                        62.740208
+                  ]
+            },
+            {
+                  "name": "Moldefjorden",
+                  "text": "Ein malerischer Fjord, der an der Stadt Molde liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140598,
+                        62.723742
+                  ]
+            },
+            {
+                  "name": "Kringsjåbakken",
+                  "text": "Ein Aussichtspunkt in Molde mit weitem Blick über die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        7.149231,
+                        62.746438
+                  ]
+            },
+            {
+                  "name": "St. Sunniva kirke",
+                  "text": "Eine katholische Kirche im Zentrum von Molde.",
+                  "category": "religious",
+                  "coords": [
+                        7.153865,
+                        62.737939
+                  ]
+            },
+            {
+                  "name": "Molde domkirke",
+                  "text": "Die Kathedrale von Molde ist ein moderner Bau mit freistehendem Glockenturm.",
+                  "category": "religious",
+                  "coords": [
+                        7.160347,
+                        62.73837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatret Vårt",
+                  "text": "Møre og Romsdal regionális színháza Molde városában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.155576,
+                        62.736325
+                  ]
+            },
+            {
+                  "name": "Chateauet",
+                  "text": "Történelmi kúria és múzeum Molde városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.15073,
+                        62.736671
+                  ]
+            },
+            {
+                  "name": "Romsdalsmuseet - Krona",
+                  "text": "A moldei Romsdal Múzeum modern központi épülete.",
+                  "category": "museum",
+                  "coords": [
+                        7.150809,
+                        62.739683
+                  ]
+            },
+            {
+                  "name": "Bygata på Romsdalsmuseet",
+                  "text": "Egy rekonstruált városi utca Molde szabadtéri múzeumában.",
+                  "category": "museum",
+                  "coords": [
+                        7.149344,
+                        62.739541
+                  ]
+            },
+            {
+                  "name": "Fiskerimuseet Hjertøya",
+                  "text": "Halászati múzeum a Molde melletti Hjertøya-szigeten.",
+                  "category": "museum",
+                  "coords": [
+                        7.168851,
+                        62.716952
+                  ]
+            },
+            {
+                  "name": "Holmarka besøksgård",
+                  "text": "Látogatható gazdaság és múzeum Molde városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.14708,
+                        62.741442
+                  ]
+            },
+            {
+                  "name": "Salmon Center Molde",
+                  "text": "A lazactenyésztéssel foglalkozó információs központ Moldéban.",
+                  "category": "museum",
+                  "coords": [
+                        7.159674,
+                        62.737344
+                  ]
+            },
+            {
+                  "name": "Bygde- og bysamlinga i Molde",
+                  "text": "Város- és falutörténeti gyűjtemény Molde városában.",
+                  "category": "museum",
+                  "coords": [
+                        7.146829,
+                        62.738916
+                  ]
+            },
+            {
+                  "name": "Fredslunden",
+                  "text": "A békének szentelt emlékpark Molde városában.",
+                  "category": "park",
+                  "coords": [
+                        7.127455,
+                        62.740208
+                  ]
+            },
+            {
+                  "name": "Moldefjorden",
+                  "text": "Molde városa mellett elterülő festői fjord.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140598,
+                        62.723742
+                  ]
+            },
+            {
+                  "name": "Kringsjåbakken",
+                  "text": "Moldei kilátópont, ahonnan szép kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        7.149231,
+                        62.746438
+                  ]
+            },
+            {
+                  "name": "St. Sunniva kirke",
+                  "text": "Katolikus templom Molde központjában.",
+                  "category": "religious",
+                  "coords": [
+                        7.153865,
+                        62.737939
+                  ]
+            },
+            {
+                  "name": "Molde domkirke",
+                  "text": "A moldei székesegyház egy modern épület különálló harangtoronnyal.",
+                  "category": "religious",
+                  "coords": [
+                        7.160347,
+                        62.73837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatret Vårt",
+                  "text": "Teatrul regional din Møre og Romsdal, situat în Molde.",
+                  "category": "cultural",
+                  "coords": [
+                        7.155576,
+                        62.736325
+                  ]
+            },
+            {
+                  "name": "Chateauet",
+                  "text": "Un conac istoric și muzeu situat în Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.15073,
+                        62.736671
+                  ]
+            },
+            {
+                  "name": "Romsdalsmuseet - Krona",
+                  "text": "Clădirea principală modernă a Muzeului Romsdal din Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.150809,
+                        62.739683
+                  ]
+            },
+            {
+                  "name": "Bygata på Romsdalsmuseet",
+                  "text": "O secțiune de stradă urbană reconstituită în muzeul în aer liber din Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.149344,
+                        62.739541
+                  ]
+            },
+            {
+                  "name": "Fiskerimuseet Hjertøya",
+                  "text": "Un muzeu al pescuitului pe insula Hjertøya, lângă Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.168851,
+                        62.716952
+                  ]
+            },
+            {
+                  "name": "Holmarka besøksgård",
+                  "text": "O fermă de vizitare și muzeu în Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.14708,
+                        62.741442
+                  ]
+            },
+            {
+                  "name": "Salmon Center Molde",
+                  "text": "Un centru de informare despre creșterea somonului în Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.159674,
+                        62.737344
+                  ]
+            },
+            {
+                  "name": "Bygde- og bysamlinga i Molde",
+                  "text": "O colecție de istorie urbană și rurală în Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.146829,
+                        62.738916
+                  ]
+            },
+            {
+                  "name": "Fredslunden",
+                  "text": "Un parc memorial în Molde, dedicat păcii.",
+                  "category": "park",
+                  "coords": [
+                        7.127455,
+                        62.740208
+                  ]
+            },
+            {
+                  "name": "Moldefjorden",
+                  "text": "Un fjord pitoresc situat lângă orașul Molde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140598,
+                        62.723742
+                  ]
+            },
+            {
+                  "name": "Kringsjåbakken",
+                  "text": "Un punct de belvedere în Molde, oferind vederi panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        7.149231,
+                        62.746438
+                  ]
+            },
+            {
+                  "name": "St. Sunniva kirke",
+                  "text": "O biserică catolică situată în centrul orașului Molde.",
+                  "category": "religious",
+                  "coords": [
+                        7.153865,
+                        62.737939
+                  ]
+            },
+            {
+                  "name": "Molde domkirke",
+                  "text": "Catedrala din Molde este un edificiu modern cu o clopotniță separată.",
+                  "category": "religious",
+                  "coords": [
+                        7.160347,
+                        62.73837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatret Vårt",
+                  "text": "The regional theatre of Møre og Romsdal, based in Molde.",
+                  "category": "cultural",
+                  "coords": [
+                        7.155576,
+                        62.736325
+                  ]
+            },
+            {
+                  "name": "Chateauet",
+                  "text": "A historic manor house and museum located in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.15073,
+                        62.736671
+                  ]
+            },
+            {
+                  "name": "Romsdalsmuseet - Krona",
+                  "text": "The modern main building of the Romsdal Museum in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.150809,
+                        62.739683
+                  ]
+            },
+            {
+                  "name": "Bygata på Romsdalsmuseet",
+                  "text": "A reconstructed town street section in the open-air museum of Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.149344,
+                        62.739541
+                  ]
+            },
+            {
+                  "name": "Fiskerimuseet Hjertøya",
+                  "text": "A fisheries museum located on the island of Hjertøya near Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.168851,
+                        62.716952
+                  ]
+            },
+            {
+                  "name": "Holmarka besøksgård",
+                  "text": "A visiting farm and museum located in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.14708,
+                        62.741442
+                  ]
+            },
+            {
+                  "name": "Salmon Center Molde",
+                  "text": "An information center about salmon farming located in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.159674,
+                        62.737344
+                  ]
+            },
+            {
+                  "name": "Bygde- og bysamlinga i Molde",
+                  "text": "A collection dedicated to town and village history in Molde.",
+                  "category": "museum",
+                  "coords": [
+                        7.146829,
+                        62.738916
+                  ]
+            },
+            {
+                  "name": "Fredslunden",
+                  "text": "A memorial park in Molde dedicated to peace.",
+                  "category": "park",
+                  "coords": [
+                        7.127455,
+                        62.740208
+                  ]
+            },
+            {
+                  "name": "Moldefjorden",
+                  "text": "A scenic fjord located adjacent to the city of Molde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140598,
+                        62.723742
+                  ]
+            },
+            {
+                  "name": "Kringsjåbakken",
+                  "text": "A viewpoint in Molde offering panoramic views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.149231,
+                        62.746438
+                  ]
+            },
+            {
+                  "name": "St. Sunniva kirke",
+                  "text": "A Catholic church located in the center of Molde.",
+                  "category": "religious",
+                  "coords": [
+                        7.153865,
+                        62.737939
+                  ]
+            },
+            {
+                  "name": "Molde Cathedral",
+                  "text": "Molde Cathedral is a modern building featuring a free-standing bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        7.160347,
+                        62.73837
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Molde", hu: "Molde", ro: "Molde", en: "Molde" },
@@ -48,7 +525,628 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-molde-cities-v2.webp",
   },
   {
-    id: "norway-hamar-cities-v2",
+    id: "norway-hamar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Norsk jernbanemuseum",
+                  "text": "Das Norwegische Eisenbahnmuseum in Hamar ist das Nationalmuseum für Eisenbahngeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        11.027119,
+                        60.8005
+                  ]
+            },
+            {
+                  "name": "Anno museum",
+                  "text": "Das Anno Museum in Hamar ist ein Regionalmuseum, das sich auf die Kulturgeschichte von Hedmark konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        11.039132,
+                        60.793547
+                  ]
+            },
+            {
+                  "name": "Hedmarksmuseet",
+                  "text": "Dieses Museum in Hamar präsentiert die regionale Geschichte und das Erbe der Region Hedmark.",
+                  "category": "museum",
+                  "coords": [
+                        11.033898,
+                        60.795246
+                  ]
+            },
+            {
+                  "name": "Kirsten Flagstadmuseet",
+                  "text": "Ein Museum in Hamar, das dem Leben und der Karriere der berühmten Opernsängerin Kirsten Flagstad gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.068805,
+                        60.796034
+                  ]
+            },
+            {
+                  "name": "Kunstbanken",
+                  "text": "Kunstbanken ist ein Museum für zeitgenössische Kunst und eine Galerie in der Stadt Hamar.",
+                  "category": "museum",
+                  "coords": [
+                        11.077795,
+                        60.792554
+                  ]
+            },
+            {
+                  "name": "Aulaen Domkirkeodden",
+                  "text": "Ein Veranstaltungsort in Hamar im historischen Bereich von Domkirkeodden.",
+                  "category": "cultural",
+                  "coords": [
+                        11.039734,
+                        60.792175
+                  ]
+            },
+            {
+                  "name": "Hamarkaupangen",
+                  "text": "Eine archäologische Stätte in Hamar mit Überresten der mittelalterlichen Marktstadt.",
+                  "category": "historical",
+                  "coords": [
+                        11.04374,
+                        60.792859
+                  ]
+            },
+            {
+                  "name": "Sandvikastranda",
+                  "text": "Sandvikastranda ist ein beliebter Badebereich am Ufer des Mjøsa-Sees in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.096801,
+                        60.780016
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda",
+                  "text": "Ein öffentlicher Strand in Hamar, der Freizeitaktivitäten am Mjøsa-See bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        11.051355,
+                        60.792494
+                  ]
+            },
+            {
+                  "name": "Hamar park",
+                  "text": "Der Hamar Park ist eine zentrale Grünanlage in der Stadt, die Raum für Entspannung und Spiel bietet.",
+                  "category": "park",
+                  "coords": [
+                        11.084059,
+                        60.794703
+                  ]
+            },
+            {
+                  "name": "Geiteryggen",
+                  "text": "Geiteryggen ist ein Aussichtspunkt mit Panoramablick über Hamar und den Mjøsa-See.",
+                  "category": "natural",
+                  "coords": [
+                        11.033803,
+                        60.792027
+                  ]
+            },
+            {
+                  "name": "Galleri EKG",
+                  "text": "Die Galleri EKG ist eine Kunstgalerie in Hamar, die zeitgenössische Werke lokaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.068825,
+                        60.794662
+                  ]
+            },
+            {
+                  "name": "Lokhallen",
+                  "text": "Lokhallen ist ein historisches Eisenbahngebäude in Hamar, das heute für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        11.034011,
+                        60.797686
+                  ]
+            },
+            {
+                  "name": "Hamar Kulturhus",
+                  "text": "Das Kulturhaus Hamar ist eine moderne Einrichtung für Konzerte, Kino und Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        11.067243,
+                        60.795211
+                  ]
+            },
+            {
+                  "name": "Hamardomen",
+                  "text": "Hamardomen ist eine einzigartige, gläsern umschlossene Kathedralruine in Hamar.",
+                  "category": "religious",
+                  "coords": [
+                        11.038384,
+                        60.792054
+                  ]
+            },
+            {
+                  "name": "Utvandrerkirken",
+                  "text": "Die Auswandererkirche in Hamar ist eine historische Holzkirche mit Bezug zur norwegischen Migration.",
+                  "category": "religious",
+                  "coords": [
+                        11.121199,
+                        60.788765
+                  ]
+            },
+            {
+                  "name": "Storhamar kirke",
+                  "text": "Die Storhamar-Kirche ist eine örtliche Pfarrkirche für den Stadtteil Storhamar in Hamar.",
+                  "category": "religious",
+                  "coords": [
+                        11.046271,
+                        60.803922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Norsk jernbanemuseum",
+                  "text": "A hamari Norvég Vasúti Múzeum a vasúttörténet nemzeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        11.027119,
+                        60.8005
+                  ]
+            },
+            {
+                  "name": "Anno museum",
+                  "text": "A hamari Anno Múzeum egy regionális múzeum, amely Hedmark kultúrtörténetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        11.039132,
+                        60.793547
+                  ]
+            },
+            {
+                  "name": "Hedmarksmuseet",
+                  "text": "Ez a hamari múzeum Hedmark régió történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.033898,
+                        60.795246
+                  ]
+            },
+            {
+                  "name": "Kirsten Flagstadmuseet",
+                  "text": "Hamari múzeum, amelyet Kirsten Flagstad híres operaénekesnő életének és karrierjének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        11.068805,
+                        60.796034
+                  ]
+            },
+            {
+                  "name": "Kunstbanken",
+                  "text": "A Kunstbanken egy kortárs művészeti múzeum és galéria Hamar városában.",
+                  "category": "museum",
+                  "coords": [
+                        11.077795,
+                        60.792554
+                  ]
+            },
+            {
+                  "name": "Aulaen Domkirkeodden",
+                  "text": "Hamari előadóhelyszín, amely a történelmi Domkirkeodden területén található.",
+                  "category": "cultural",
+                  "coords": [
+                        11.039734,
+                        60.792175
+                  ]
+            },
+            {
+                  "name": "Hamarkaupangen",
+                  "text": "Hamari régészeti lelőhely, amely a középkori mezőváros maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        11.04374,
+                        60.792859
+                  ]
+            },
+            {
+                  "name": "Sandvikastranda",
+                  "text": "A Sandvikastranda egy népszerű fürdőhely a Mjøsa-tó partján, Hamarban.",
+                  "category": "recreational",
+                  "coords": [
+                        11.096801,
+                        60.780016
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda",
+                  "text": "Nyilvános strand Hamarban, amely kikapcsolódási lehetőségeket kínál a Mjøsa-tó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        11.051355,
+                        60.792494
+                  ]
+            },
+            {
+                  "name": "Hamar park",
+                  "text": "A Hamar park a város központi zöldterülete, amely pihenésre és játékra kínál lehetőséget.",
+                  "category": "park",
+                  "coords": [
+                        11.084059,
+                        60.794703
+                  ]
+            },
+            {
+                  "name": "Geiteryggen",
+                  "text": "A Geiteryggen egy kilátó, ahonnan panorámás kilátás nyílik Hamarra és a Mjøsa-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        11.033803,
+                        60.792027
+                  ]
+            },
+            {
+                  "name": "Galleri EKG",
+                  "text": "A Galleri EKG egy hamari művészeti galéria, amely helyi művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.068825,
+                        60.794662
+                  ]
+            },
+            {
+                  "name": "Lokhallen",
+                  "text": "A Lokhallen egy történelmi vasúti épület Hamarban, amelyet ma kulturális eseményekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        11.034011,
+                        60.797686
+                  ]
+            },
+            {
+                  "name": "Hamar Kulturhus",
+                  "text": "A Hamari Kulturális Ház egy modern létesítmény, amely koncerteknek, mozinak és színháznak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.067243,
+                        60.795211
+                  ]
+            },
+            {
+                  "name": "Hamardomen",
+                  "text": "A Hamardomen egy egyedülálló, üveggel körülvett katedrálisrom Hamarban.",
+                  "category": "religious",
+                  "coords": [
+                        11.038384,
+                        60.792054
+                  ]
+            },
+            {
+                  "name": "Utvandrerkirken",
+                  "text": "A hamari Kivándorlók temploma egy történelmi fatemplom, amely a norvég migrációhoz kapcsolódik.",
+                  "category": "religious",
+                  "coords": [
+                        11.121199,
+                        60.788765
+                  ]
+            },
+            {
+                  "name": "Storhamar kirke",
+                  "text": "A Storhamar templom egy helyi plébániatemplom Hamar Storhamar negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        11.046271,
+                        60.803922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Norsk jernbanemuseum",
+                  "text": "Muzeul Căilor Ferate Norvegiene din Hamar este muzeul național pentru istoria feroviară.",
+                  "category": "museum",
+                  "coords": [
+                        11.027119,
+                        60.8005
+                  ]
+            },
+            {
+                  "name": "Anno museum",
+                  "text": "Muzeul Anno din Hamar este un muzeu regional axat pe istoria culturală a regiunii Hedmark.",
+                  "category": "museum",
+                  "coords": [
+                        11.039132,
+                        60.793547
+                  ]
+            },
+            {
+                  "name": "Hedmarksmuseet",
+                  "text": "Acest muzeu din Hamar prezintă istoria și moștenirea regională a zonei Hedmark.",
+                  "category": "museum",
+                  "coords": [
+                        11.033898,
+                        60.795246
+                  ]
+            },
+            {
+                  "name": "Kirsten Flagstadmuseet",
+                  "text": "Un muzeu din Hamar dedicat vieții și carierei celebrei cântărețe de operă Kirsten Flagstad.",
+                  "category": "museum",
+                  "coords": [
+                        11.068805,
+                        60.796034
+                  ]
+            },
+            {
+                  "name": "Kunstbanken",
+                  "text": "Kunstbanken este un muzeu de artă contemporană și o galerie situată în orașul Hamar.",
+                  "category": "museum",
+                  "coords": [
+                        11.077795,
+                        60.792554
+                  ]
+            },
+            {
+                  "name": "Aulaen Domkirkeodden",
+                  "text": "O locație pentru spectacole din Hamar situată în zona istorică Domkirkeodden.",
+                  "category": "cultural",
+                  "coords": [
+                        11.039734,
+                        60.792175
+                  ]
+            },
+            {
+                  "name": "Hamarkaupangen",
+                  "text": "Un sit arheologic din Hamar care prezintă resturi ale orașului comercial medieval.",
+                  "category": "historical",
+                  "coords": [
+                        11.04374,
+                        60.792859
+                  ]
+            },
+            {
+                  "name": "Sandvikastranda",
+                  "text": "Sandvikastranda este o zonă populară pentru înot pe malul lacului Mjøsa din Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.096801,
+                        60.780016
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda",
+                  "text": "O plajă publică din Hamar care oferă activități recreative de-a lungul lacului Mjøsa.",
+                  "category": "recreational",
+                  "coords": [
+                        11.051355,
+                        60.792494
+                  ]
+            },
+            {
+                  "name": "Hamar park",
+                  "text": "Parcul Hamar este un spațiu verde central din oraș, oferind zone pentru relaxare și joacă.",
+                  "category": "park",
+                  "coords": [
+                        11.084059,
+                        60.794703
+                  ]
+            },
+            {
+                  "name": "Geiteryggen",
+                  "text": "Geiteryggen este un punct de belvedere care oferă priveliști panoramice asupra orașului Hamar și lacului Mjøsa.",
+                  "category": "natural",
+                  "coords": [
+                        11.033803,
+                        60.792027
+                  ]
+            },
+            {
+                  "name": "Galleri EKG",
+                  "text": "Galleri EKG este o galerie de artă din Hamar care expune lucrări contemporane ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        11.068825,
+                        60.794662
+                  ]
+            },
+            {
+                  "name": "Lokhallen",
+                  "text": "Lokhallen este o clădire feroviară istorică din Hamar, folosită acum pentru evenimente culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        11.034011,
+                        60.797686
+                  ]
+            },
+            {
+                  "name": "Hamar Kulturhus",
+                  "text": "Casa de Cultură din Hamar este o facilitate modernă care găzduiește concerte, cinema și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        11.067243,
+                        60.795211
+                  ]
+            },
+            {
+                  "name": "Hamardomen",
+                  "text": "Hamardomen este o ruină de catedrală unică, închisă în sticlă, din Hamar.",
+                  "category": "religious",
+                  "coords": [
+                        11.038384,
+                        60.792054
+                  ]
+            },
+            {
+                  "name": "Utvandrerkirken",
+                  "text": "Biserica Emigranților din Hamar este o biserică istorică din lemn legată de migrația norvegiană.",
+                  "category": "religious",
+                  "coords": [
+                        11.121199,
+                        60.788765
+                  ]
+            },
+            {
+                  "name": "Storhamar kirke",
+                  "text": "Biserica Storhamar este o biserică parohială locală care deservește districtul Storhamar din Hamar.",
+                  "category": "religious",
+                  "coords": [
+                        11.046271,
+                        60.803922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Norsk jernbanemuseum",
+                  "text": "The Norwegian Railway Museum in Hamar is the national museum for railway history.",
+                  "category": "museum",
+                  "coords": [
+                        11.027119,
+                        60.8005
+                  ]
+            },
+            {
+                  "name": "Anno museum",
+                  "text": "Anno Museum in Hamar is a regional museum focusing on the cultural history of Hedmark.",
+                  "category": "museum",
+                  "coords": [
+                        11.039132,
+                        60.793547
+                  ]
+            },
+            {
+                  "name": "Hedmarksmuseet",
+                  "text": "This museum in Hamar showcases the regional history and heritage of the Hedmark area.",
+                  "category": "museum",
+                  "coords": [
+                        11.033898,
+                        60.795246
+                  ]
+            },
+            {
+                  "name": "Kirsten Flagstadmuseet",
+                  "text": "A museum in Hamar dedicated to the life and career of the famous opera singer Kirsten Flagstad.",
+                  "category": "museum",
+                  "coords": [
+                        11.068805,
+                        60.796034
+                  ]
+            },
+            {
+                  "name": "Kunstbanken",
+                  "text": "Kunstbanken is a contemporary art museum and gallery located in the city of Hamar.",
+                  "category": "museum",
+                  "coords": [
+                        11.077795,
+                        60.792554
+                  ]
+            },
+            {
+                  "name": "Aulaen Domkirkeodden",
+                  "text": "A performance venue in Hamar located within the historic Domkirkeodden area.",
+                  "category": "cultural",
+                  "coords": [
+                        11.039734,
+                        60.792175
+                  ]
+            },
+            {
+                  "name": "Hamarkaupangen",
+                  "text": "An archaeological site in Hamar featuring remains of the medieval market town.",
+                  "category": "historical",
+                  "coords": [
+                        11.04374,
+                        60.792859
+                  ]
+            },
+            {
+                  "name": "Sandvikastranda",
+                  "text": "Sandvikastranda is a popular swimming area on the shores of Lake Mjøsa in Hamar.",
+                  "category": "recreational",
+                  "coords": [
+                        11.096801,
+                        60.780016
+                  ]
+            },
+            {
+                  "name": "Ridehusstranda",
+                  "text": "A public beach in Hamar offering recreational activities along Lake Mjøsa.",
+                  "category": "recreational",
+                  "coords": [
+                        11.051355,
+                        60.792494
+                  ]
+            },
+            {
+                  "name": "Hamar park",
+                  "text": "Hamar Park is a central green space in the city providing areas for relaxation and play.",
+                  "category": "park",
+                  "coords": [
+                        11.084059,
+                        60.794703
+                  ]
+            },
+            {
+                  "name": "Geiteryggen",
+                  "text": "Geiteryggen is a scenic viewpoint offering panoramic vistas over Hamar and Lake Mjøsa.",
+                  "category": "natural",
+                  "coords": [
+                        11.033803,
+                        60.792027
+                  ]
+            },
+            {
+                  "name": "Galleri EKG",
+                  "text": "Galleri EKG is an art gallery in Hamar showcasing contemporary works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        11.068825,
+                        60.794662
+                  ]
+            },
+            {
+                  "name": "Lokhallen",
+                  "text": "Lokhallen is a historic railway building in Hamar now used for cultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        11.034011,
+                        60.797686
+                  ]
+            },
+            {
+                  "name": "Hamar Kulturhus",
+                  "text": "The Hamar Culture House is a modern facility hosting concerts, cinema, and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        11.067243,
+                        60.795211
+                  ]
+            },
+            {
+                  "name": "Hamardomen",
+                  "text": "Hamardomen is a unique glass-enclosed cathedral ruin in Hamar.",
+                  "category": "religious",
+                  "coords": [
+                        11.038384,
+                        60.792054
+                  ]
+            },
+            {
+                  "name": "Utvandrerkirken",
+                  "text": "The Emigrant Church in Hamar is a historic wooden church related to Norwegian migration.",
+                  "category": "religious",
+                  "coords": [
+                        11.121199,
+                        60.788765
+                  ]
+            },
+            {
+                  "name": "Storhamar kirke",
+                  "text": "Storhamar Church is a local parish church serving the Storhamar district of Hamar.",
+                  "category": "religious",
+                  "coords": [
+                        11.046271,
+                        60.803922
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Hamar", hu: "Hamar", ro: "Hamar", en: "Hamar" },
@@ -93,7 +1191,808 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-hamar-cities-v2.webp",
   },
   {
-    id: "norway-sarpsborg-cities-v2",
+    id: "norway-sarpsborg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vestvannet naturreservat",
+                  "text": "Ein Naturschutzgebiet bei Sarpsborg, das wichtige Lebensräume für die lokale Tierwelt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.062525,
+                        59.307074
+                  ]
+            },
+            {
+                  "name": "Tunevannet",
+                  "text": "Ein beliebter Binnensee-Strand in Sarpsborg, ideal zum Schwimmen und für Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        11.086684,
+                        59.293783
+                  ]
+            },
+            {
+                  "name": "Sarpsborg Scene",
+                  "text": "Ein Kulturzentrum und Theater in Sarpsborg, das verschiedene Aufführungen und Veranstaltungen ausrichtet.",
+                  "category": "cultural",
+                  "coords": [
+                        11.120059,
+                        59.28022
+                  ]
+            },
+            {
+                  "name": "Borgarsyssel museum",
+                  "text": "Ein Freilichtmuseum in Sarpsborg, das die regionale Geschichte und Architektur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.12268,
+                        59.279311
+                  ]
+            },
+            {
+                  "name": "Hafslund Bronze Age Rock Carvings",
+                  "text": "Eine archäologische Stätte mit gut erhaltenen Felsritzungen aus der Bronzezeit in Sarpsborg.",
+                  "category": "historical",
+                  "coords": [
+                        11.135013,
+                        59.268421
+                  ]
+            },
+            {
+                  "name": "Ravneberget Fort",
+                  "text": "Eine historische Festungsanlage in Sarpsborg, die einst Teil der regionalen Verteidigung war.",
+                  "category": "fortress",
+                  "coords": [
+                        11.127477,
+                        59.302442
+                  ]
+            },
+            {
+                  "name": "Roald Amundsens fødested",
+                  "text": "Das Museum befindet sich im Geburtshaus des berühmten Polarforschers Roald Amundsen.",
+                  "category": "museum",
+                  "coords": [
+                        11.080038,
+                        59.264356
+                  ]
+            },
+            {
+                  "name": "Vestre batteri",
+                  "text": "Eine ehemalige Verteidigungsanlage in Sarpsborg, die als historisches Denkmal dient.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100408,
+                        59.30099
+                  ]
+            },
+            {
+                  "name": "Glenghuset",
+                  "text": "Ein lokales Theater und Konzerthaus in Sarpsborg mit einem vielfältigen Kulturprogramm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.107204,
+                        59.282038
+                  ]
+            },
+            {
+                  "name": "Årumfjellet",
+                  "text": "Ein markanter Berggipfel in der Nähe von Sarpsborg, der Wanderwege und Naturerlebnisse bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.1033,
+                        59.2585
+                  ]
+            },
+            {
+                  "name": "Inspiria Science Center",
+                  "text": "Ein interaktives Wissenschaftszentrum in Sarpsborg, das sich auf Technik, Natur und Umwelt konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.061953,
+                        59.297868
+                  ]
+            },
+            {
+                  "name": "Appelsintoppen",
+                  "text": "Ein beliebter Aussichtspunkt in Sarpsborg, der weite Blicke über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        11.113307,
+                        59.309138
+                  ]
+            },
+            {
+                  "name": "SOL Hytta",
+                  "text": "Ein lokales Ausflugsziel und eine Hütte in der Natur von Sarpsborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.104174,
+                        59.300172
+                  ]
+            },
+            {
+                  "name": "Borregaardsmonumentet",
+                  "text": "Ein Denkmal in Sarpsborg, das an die industrielle Geschichte des Borregaard-Konzerns erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        11.130837,
+                        59.276977
+                  ]
+            },
+            {
+                  "name": "Ballspillgruppe",
+                  "text": "Eine Skulptur in Sarpsborg, die eine Gruppe von Ballspielern darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        11.100547,
+                        59.286841
+                  ]
+            },
+            {
+                  "name": "Sarpefossen",
+                  "text": "Ein Aussichtspunkt am mächtigen Wasserfall Sarpefossen, einem der wasserreichsten Fälle Europas.",
+                  "category": "natural",
+                  "coords": [
+                        11.130155,
+                        59.275384
+                  ]
+            },
+            {
+                  "name": "Tune kirke",
+                  "text": "Eine historische Kirche in Sarpsborg, die als zentrales geistliches Gebäude der Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        11.083552,
+                        59.292204
+                  ]
+            },
+            {
+                  "name": "Fagerheim bedehuskapell",
+                  "text": "Eine Kapelle in Sarpsborg, die für lokale Gottesdienste und religiöse Treffen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        11.105616,
+                        59.259622
+                  ]
+            },
+            {
+                  "name": "Hafslund kirke",
+                  "text": "Eine Kirche im Stadtteil Hafslund in Sarpsborg, bekannt für ihre lokale Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        11.139608,
+                        59.272729
+                  ]
+            },
+            {
+                  "name": "Kurland menighetssenter",
+                  "text": "Ein modernes Gemeindezentrum und Gotteshaus im Stadtteil Kurland in Sarpsborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.105452,
+                        59.294653
+                  ]
+            },
+            {
+                  "name": "Sarpebrua",
+                  "text": "Eine Brücke in Sarpsborg, die den Fluss Glomma direkt über dem Sarpefossen-Wasserfall überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        11.132059,
+                        59.276663
+                  ]
+            },
+            {
+                  "name": "Sannesundbroen",
+                  "text": "Eine große Straßenbrücke in Sarpsborg, die eine wichtige Verkehrsverbindung darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.091217,
+                        59.27057
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vestvannet naturreservat",
+                  "text": "Természetvédelmi terület Sarpsborg mellett, amely fontos élőhelyet biztosít a helyi élővilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        11.062525,
+                        59.307074
+                  ]
+            },
+            {
+                  "name": "Tunevannet",
+                  "text": "Népszerű tóparti strand Sarpsborgban, amely ideális úszáshoz és kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        11.086684,
+                        59.293783
+                  ]
+            },
+            {
+                  "name": "Sarpsborg Scene",
+                  "text": "Kulturális központ és színház Sarpsborgban, amely különféle előadásoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.120059,
+                        59.28022
+                  ]
+            },
+            {
+                  "name": "Borgarsyssel museum",
+                  "text": "Szabadtéri múzeum Sarpsborgban, amely a regionális történelmet és építészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.12268,
+                        59.279311
+                  ]
+            },
+            {
+                  "name": "Hafslund Bronze Age Rock Carvings",
+                  "text": "Régészeti lelőhely jól megőrzött bronzkori sziklarajzokkal Sarpsborgban.",
+                  "category": "historical",
+                  "coords": [
+                        11.135013,
+                        59.268421
+                  ]
+            },
+            {
+                  "name": "Ravneberget Fort",
+                  "text": "Történelmi erődítmény Sarpsborgban, amely egykor a regionális védelem része volt.",
+                  "category": "fortress",
+                  "coords": [
+                        11.127477,
+                        59.302442
+                  ]
+            },
+            {
+                  "name": "Roald Amundsens fødested",
+                  "text": "A múzeum a híres sarkkutató, Roald Amundsen szülőházában található.",
+                  "category": "museum",
+                  "coords": [
+                        11.080038,
+                        59.264356
+                  ]
+            },
+            {
+                  "name": "Vestre batteri",
+                  "text": "Egykori védelmi üteg Sarpsborgban, amely történelmi emlékműként szolgál.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100408,
+                        59.30099
+                  ]
+            },
+            {
+                  "name": "Glenghuset",
+                  "text": "Helyi színház és koncertterem Sarpsborgban, változatos kulturális programmal.",
+                  "category": "cultural",
+                  "coords": [
+                        11.107204,
+                        59.282038
+                  ]
+            },
+            {
+                  "name": "Årumfjellet",
+                  "text": "Jellegzetes hegycsúcs Sarpsborg közelében, amely túraútvonalakat és természeti élményeket kínál.",
+                  "category": "natural",
+                  "coords": [
+                        11.1033,
+                        59.2585
+                  ]
+            },
+            {
+                  "name": "Inspiria Science Center",
+                  "text": "Interaktív tudományos központ Sarpsborgban, amely a technológiára, a természetre és a környezetre összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        11.061953,
+                        59.297868
+                  ]
+            },
+            {
+                  "name": "Appelsintoppen",
+                  "text": "Népszerű kilátópont Sarpsborgban, amely tágas kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        11.113307,
+                        59.309138
+                  ]
+            },
+            {
+                  "name": "SOL Hytta",
+                  "text": "Helyi kirándulóhely és pihenőház Sarpsborg természetközeli részén.",
+                  "category": "landmark",
+                  "coords": [
+                        11.104174,
+                        59.300172
+                  ]
+            },
+            {
+                  "name": "Borregaardsmonumentet",
+                  "text": "Emlékmű Sarpsborgban, amely a Borregaard konszern ipari történetének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        11.130837,
+                        59.276977
+                  ]
+            },
+            {
+                  "name": "Ballspillgruppe",
+                  "text": "Szobor Sarpsborgban, amely labdázó csoportot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        11.100547,
+                        59.286841
+                  ]
+            },
+            {
+                  "name": "Sarpefossen",
+                  "text": "Kilátópont a hatalmas Sarpefossen-vízesésnél, amely Európa egyik legbővizűbb vízesése.",
+                  "category": "natural",
+                  "coords": [
+                        11.130155,
+                        59.275384
+                  ]
+            },
+            {
+                  "name": "Tune kirke",
+                  "text": "Történelmi templom Sarpsborgban, amely a közösség központi hitéleti épülete.",
+                  "category": "religious",
+                  "coords": [
+                        11.083552,
+                        59.292204
+                  ]
+            },
+            {
+                  "name": "Fagerheim bedehuskapell",
+                  "text": "Kápolna Sarpsborgban, amelyet helyi istentiszteletek és vallási összejövetelek céljára használnak.",
+                  "category": "religious",
+                  "coords": [
+                        11.105616,
+                        59.259622
+                  ]
+            },
+            {
+                  "name": "Hafslund kirke",
+                  "text": "Templom Sarpsborg Hafslund városrészében, amely helyi jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.139608,
+                        59.272729
+                  ]
+            },
+            {
+                  "name": "Kurland menighetssenter",
+                  "text": "Modern közösségi központ és templom Sarpsborg Kurland negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        11.105452,
+                        59.294653
+                  ]
+            },
+            {
+                  "name": "Sarpebrua",
+                  "text": "Híd Sarpsborgban, amely a Glomma folyón ível át közvetlenül a Sarpefossen-vízesés felett.",
+                  "category": "landmark",
+                  "coords": [
+                        11.132059,
+                        59.276663
+                  ]
+            },
+            {
+                  "name": "Sannesundbroen",
+                  "text": "Nagyméretű közúti híd Sarpsborgban, amely fontos közlekedési útvonalat alkot.",
+                  "category": "landmark",
+                  "coords": [
+                        11.091217,
+                        59.27057
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vestvannet naturreservat",
+                  "text": "O rezervație naturală lângă Sarpsborg, care oferă habitate importante pentru fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        11.062525,
+                        59.307074
+                  ]
+            },
+            {
+                  "name": "Tunevannet",
+                  "text": "O plajă populară de lac în Sarpsborg, ideală pentru înot și activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        11.086684,
+                        59.293783
+                  ]
+            },
+            {
+                  "name": "Sarpsborg Scene",
+                  "text": "Un centru cultural și teatru în Sarpsborg, care găzduiește diverse spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        11.120059,
+                        59.28022
+                  ]
+            },
+            {
+                  "name": "Borgarsyssel museum",
+                  "text": "Un muzeu în aer liber în Sarpsborg, care prezintă istoria și arhitectura regională.",
+                  "category": "museum",
+                  "coords": [
+                        11.12268,
+                        59.279311
+                  ]
+            },
+            {
+                  "name": "Hafslund Bronze Age Rock Carvings",
+                  "text": "Un sit arheologic cu gravuri rupestre bine conservate din Epoca Bronzului în Sarpsborg.",
+                  "category": "historical",
+                  "coords": [
+                        11.135013,
+                        59.268421
+                  ]
+            },
+            {
+                  "name": "Ravneberget Fort",
+                  "text": "O fortificație istorică în Sarpsborg, care a făcut parte odată din apărarea regională.",
+                  "category": "fortress",
+                  "coords": [
+                        11.127477,
+                        59.302442
+                  ]
+            },
+            {
+                  "name": "Roald Amundsens fødested",
+                  "text": "Muzeul este situat în casa natală a celebrului explorator polar Roald Amundsen.",
+                  "category": "museum",
+                  "coords": [
+                        11.080038,
+                        59.264356
+                  ]
+            },
+            {
+                  "name": "Vestre batteri",
+                  "text": "O fostă baterie de apărare în Sarpsborg, care servește ca monument istoric.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100408,
+                        59.30099
+                  ]
+            },
+            {
+                  "name": "Glenghuset",
+                  "text": "Un teatru local și sală de concerte în Sarpsborg, cu un program cultural divers.",
+                  "category": "cultural",
+                  "coords": [
+                        11.107204,
+                        59.282038
+                  ]
+            },
+            {
+                  "name": "Årumfjellet",
+                  "text": "Un vârf montan proeminent lângă Sarpsborg, care oferă trasee de drumeție și experiențe în natură.",
+                  "category": "natural",
+                  "coords": [
+                        11.1033,
+                        59.2585
+                  ]
+            },
+            {
+                  "name": "Inspiria Science Center",
+                  "text": "Un centru de știință interactiv în Sarpsborg, axat pe tehnologie, natură și mediu.",
+                  "category": "landmark",
+                  "coords": [
+                        11.061953,
+                        59.297868
+                  ]
+            },
+            {
+                  "name": "Appelsintoppen",
+                  "text": "Un punct de belvedere popular în Sarpsborg, oferind vederi largi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        11.113307,
+                        59.309138
+                  ]
+            },
+            {
+                  "name": "SOL Hytta",
+                  "text": "O destinație locală de excursie și o cabană în natura din Sarpsborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.104174,
+                        59.300172
+                  ]
+            },
+            {
+                  "name": "Borregaardsmonumentet",
+                  "text": "Un monument în Sarpsborg care comemorează istoria industrială a concernului Borregaard.",
+                  "category": "historical",
+                  "coords": [
+                        11.130837,
+                        59.276977
+                  ]
+            },
+            {
+                  "name": "Ballspillgruppe",
+                  "text": "O sculptură în Sarpsborg reprezentând un grup de jucători cu mingea.",
+                  "category": "historical",
+                  "coords": [
+                        11.100547,
+                        59.286841
+                  ]
+            },
+            {
+                  "name": "Sarpefossen",
+                  "text": "Un punct de belvedere la puternica cascadă Sarpefossen, una dintre cele mai mari din Europa ca volum.",
+                  "category": "natural",
+                  "coords": [
+                        11.130155,
+                        59.275384
+                  ]
+            },
+            {
+                  "name": "Tune kirke",
+                  "text": "O biserică istorică din Sarpsborg, care servește ca edificiu spiritual central al comunității.",
+                  "category": "religious",
+                  "coords": [
+                        11.083552,
+                        59.292204
+                  ]
+            },
+            {
+                  "name": "Fagerheim bedehuskapell",
+                  "text": "O capelă din Sarpsborg, utilizată pentru servicii religioase locale și întâlniri.",
+                  "category": "religious",
+                  "coords": [
+                        11.105616,
+                        59.259622
+                  ]
+            },
+            {
+                  "name": "Hafslund kirke",
+                  "text": "O biserică din cartierul Hafslund din Sarpsborg, cunoscută pentru importanța sa locală.",
+                  "category": "religious",
+                  "coords": [
+                        11.139608,
+                        59.272729
+                  ]
+            },
+            {
+                  "name": "Kurland menighetssenter",
+                  "text": "Un centru parohial modern și lăcaș de cult în cartierul Kurland din Sarpsborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.105452,
+                        59.294653
+                  ]
+            },
+            {
+                  "name": "Sarpebrua",
+                  "text": "Un pod din Sarpsborg care traversează râul Glomma direct deasupra cascadei Sarpefossen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.132059,
+                        59.276663
+                  ]
+            },
+            {
+                  "name": "Sannesundbroen",
+                  "text": "Un pod rutier mare în Sarpsborg, reprezentând o legătură importantă de transport.",
+                  "category": "landmark",
+                  "coords": [
+                        11.091217,
+                        59.27057
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vestvannet naturreservat",
+                  "text": "A nature reserve near Sarpsborg that provides important habitats for local wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        11.062525,
+                        59.307074
+                  ]
+            },
+            {
+                  "name": "Tunevannet",
+                  "text": "A popular lakeside beach in Sarpsborg, ideal for swimming and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        11.086684,
+                        59.293783
+                  ]
+            },
+            {
+                  "name": "Sarpsborg Scene",
+                  "text": "A cultural center and theatre in Sarpsborg hosting various performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.120059,
+                        59.28022
+                  ]
+            },
+            {
+                  "name": "Borgarsyssel museum",
+                  "text": "An open-air museum in Sarpsborg showcasing regional history and architecture.",
+                  "category": "museum",
+                  "coords": [
+                        11.12268,
+                        59.279311
+                  ]
+            },
+            {
+                  "name": "Hafslund Bronze Age Rock Carvings",
+                  "text": "An archaeological site featuring well-preserved Bronze Age rock carvings in Sarpsborg.",
+                  "category": "historical",
+                  "coords": [
+                        11.135013,
+                        59.268421
+                  ]
+            },
+            {
+                  "name": "Ravneberget Fort",
+                  "text": "A historic fortification in Sarpsborg that was once part of the regional defense.",
+                  "category": "fortress",
+                  "coords": [
+                        11.127477,
+                        59.302442
+                  ]
+            },
+            {
+                  "name": "Roald Amundsens fødested",
+                  "text": "The museum is located in the birthplace of the famous polar explorer Roald Amundsen.",
+                  "category": "museum",
+                  "coords": [
+                        11.080038,
+                        59.264356
+                  ]
+            },
+            {
+                  "name": "Vestre batteri",
+                  "text": "A former defensive battery in Sarpsborg that serves as a historical monument.",
+                  "category": "fortress",
+                  "coords": [
+                        11.100408,
+                        59.30099
+                  ]
+            },
+            {
+                  "name": "Glenghuset",
+                  "text": "A local theatre and concert venue in Sarpsborg with a diverse cultural program.",
+                  "category": "cultural",
+                  "coords": [
+                        11.107204,
+                        59.282038
+                  ]
+            },
+            {
+                  "name": "Årumfjellet",
+                  "text": "A prominent mountain peak near Sarpsborg offering hiking trails and nature experiences.",
+                  "category": "natural",
+                  "coords": [
+                        11.1033,
+                        59.2585
+                  ]
+            },
+            {
+                  "name": "Inspiria Science Center",
+                  "text": "An interactive science center in Sarpsborg focusing on technology, nature, and the environment.",
+                  "category": "landmark",
+                  "coords": [
+                        11.061953,
+                        59.297868
+                  ]
+            },
+            {
+                  "name": "Appelsintoppen",
+                  "text": "A popular viewpoint in Sarpsborg offering expansive views over the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        11.113307,
+                        59.309138
+                  ]
+            },
+            {
+                  "name": "SOL Hytta",
+                  "text": "A local excursion destination and cabin in the nature of Sarpsborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.104174,
+                        59.300172
+                  ]
+            },
+            {
+                  "name": "Borregaardsmonumentet",
+                  "text": "A monument in Sarpsborg commemorating the industrial history of the Borregaard corporation.",
+                  "category": "historical",
+                  "coords": [
+                        11.130837,
+                        59.276977
+                  ]
+            },
+            {
+                  "name": "Ballspillgruppe",
+                  "text": "A sculpture in Sarpsborg depicting a group of ball players.",
+                  "category": "historical",
+                  "coords": [
+                        11.100547,
+                        59.286841
+                  ]
+            },
+            {
+                  "name": "Sarpefossen",
+                  "text": "A viewpoint at the powerful Sarpefossen waterfall, one of Europe's largest by volume.",
+                  "category": "natural",
+                  "coords": [
+                        11.130155,
+                        59.275384
+                  ]
+            },
+            {
+                  "name": "Tune kirke",
+                  "text": "A historic church in Sarpsborg serving as a central spiritual building for the community.",
+                  "category": "religious",
+                  "coords": [
+                        11.083552,
+                        59.292204
+                  ]
+            },
+            {
+                  "name": "Fagerheim bedehuskapell",
+                  "text": "A chapel in Sarpsborg used for local services and religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        11.105616,
+                        59.259622
+                  ]
+            },
+            {
+                  "name": "Hafslund kirke",
+                  "text": "A church in the Hafslund district of Sarpsborg, known for its local importance.",
+                  "category": "religious",
+                  "coords": [
+                        11.139608,
+                        59.272729
+                  ]
+            },
+            {
+                  "name": "Kurland menighetssenter",
+                  "text": "A modern community center and place of worship in the Kurland district of Sarpsborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.105452,
+                        59.294653
+                  ]
+            },
+            {
+                  "name": "Sarpebrua",
+                  "text": "A bridge in Sarpsborg crossing the Glomma river directly above the Sarpefossen waterfall.",
+                  "category": "landmark",
+                  "coords": [
+                        11.132059,
+                        59.276663
+                  ]
+            },
+            {
+                  "name": "Sannesundbroen",
+                  "text": "A large road bridge in Sarpsborg representing an important transport link.",
+                  "category": "landmark",
+                  "coords": [
+                        11.091217,
+                        59.27057
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Sarpsborg", hu: "Sarpsborg", ro: "Sarpsborg", en: "Sarpsborg" },
@@ -183,7 +2082,736 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-skien-cities-v2.webp",
   },
   {
-    id: "norway-haugesund-cities-v2",
+    id: "norway-haugesund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tonjer fyr",
+                  "text": "Der Leuchtturm Tonjer ist eine historische maritime Stätte in Haugesund, die heute Museumsexponate beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        5.240513,
+                        59.423987
+                  ]
+            },
+            {
+                  "name": "Vardafjellet batteri",
+                  "text": "Eine historische Küstenbefestigung in Haugesund mit Blick auf das umliegende Meer.",
+                  "category": "fortress",
+                  "coords": [
+                        5.299743,
+                        59.41226
+                  ]
+            },
+            {
+                  "name": "Karmsund folkemuseum",
+                  "text": "Dieses Museum in Haugesund konzentriert sich auf die Kultur- und Seefahrtsgeschichte der Region Karmsund.",
+                  "category": "museum",
+                  "coords": [
+                        5.270238,
+                        59.41353
+                  ]
+            },
+            {
+                  "name": "Dokken friluftsmuseum",
+                  "text": "Ein Freilichtmuseum in Haugesund, das traditionelles Küstenleben und Kulturerbe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.259865,
+                        59.416432
+                  ]
+            },
+            {
+                  "name": "Haugesund Teater",
+                  "text": "Das Haupttheater in Haugesund, das eine Vielzahl von Bühnenproduktionen und Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.265487,
+                        59.414113
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "Festiviteten ist ein Veranstaltungsort in Haugesund für Theater, Konzerte und Festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        5.274287,
+                        59.410392
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Haugesjøen",
+                  "text": "Eine Museumsstiftung in Haugesund, die sich der Bewahrung des lokalen maritimen Erbes widmet.",
+                  "category": "museum",
+                  "coords": [
+                        5.263016,
+                        59.413614
+                  ]
+            },
+            {
+                  "name": "Steinparken Amfi",
+                  "text": "Ein Freilicht-Amphitheater in Haugesund im Steinparken.",
+                  "category": "cultural",
+                  "coords": [
+                        5.270869,
+                        59.412135
+                  ]
+            },
+            {
+                  "name": "Vangen",
+                  "text": "Vangen ist ein beliebter Park- und Badebereich in der Nähe des Zentrums von Haugesund.",
+                  "category": "recreational",
+                  "coords": [
+                        5.281304,
+                        59.427789
+                  ]
+            },
+            {
+                  "name": "Haraldstøtta",
+                  "text": "Ein Nationaldenkmal in Haugesund zum Gedenken an die Vereinigung Norwegens unter König Harald Schönhaar.",
+                  "category": "historical",
+                  "coords": [
+                        5.258786,
+                        59.42903
+                  ]
+            },
+            {
+                  "name": "Haugesund billedgalleri",
+                  "text": "Die Kunstgalerie Haugesund zeigt eine bedeutende Sammlung norwegischer und internationaler Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        5.263687,
+                        59.418523
+                  ]
+            },
+            {
+                  "name": "Krosshaugen",
+                  "text": "Krosshaugen ist eine historische Stätte in Haugesund mit einem alten Steinkreuz.",
+                  "category": "historical",
+                  "coords": [
+                        5.259488,
+                        59.428091
+                  ]
+            },
+            {
+                  "name": "Havnaberg",
+                  "text": "Havnaberg ist ein Aussichtspunkt an der Küste von Haugesund mit Blick auf die Nordsee.",
+                  "category": "natural",
+                  "coords": [
+                        5.261847,
+                        59.417267
+                  ]
+            },
+            {
+                  "name": "Haugaland Kunstverk",
+                  "text": "Ein Kunstzentrum in Haugesund, das Raum für kreative Workshops und lokale Kunstausstellungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.252274,
+                        59.416537
+                  ]
+            },
+            {
+                  "name": "Wonderwall Galleri",
+                  "text": "Die Wonderwall Galleri ist eine Galerie für zeitgenössische Kunst in Haugesund.",
+                  "category": "museum",
+                  "coords": [
+                        5.276891,
+                        59.412892
+                  ]
+            },
+            {
+                  "name": "Haugesund rådhus",
+                  "text": "Das Rathaus von Haugesund ist ein markantes neoklassizistisches Gebäude und das Verwaltungszentrum der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        5.275557,
+                        59.410227
+                  ]
+            },
+            {
+                  "name": "Rossabø kirke",
+                  "text": "Die Rossabø-Kirche ist eine moderne Pfarrkirche für den südlichen Teil von Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.289578,
+                        59.399526
+                  ]
+            },
+            {
+                  "name": "Skåre kirke",
+                  "text": "Die Skåre-Kirche ist ein historisches Kirchengebäude und ein aktives Gotteshaus in Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.263403,
+                        59.419497
+                  ]
+            },
+            {
+                  "name": "Udland kirke",
+                  "text": "Die Udland-Kirche ist eine örtliche Kirche in Haugesund für die religiösen Bedürfnisse des Gebiets Udland.",
+                  "category": "religious",
+                  "coords": [
+                        5.270287,
+                        59.438235
+                  ]
+            },
+            {
+                  "name": "Vår Frelsers kirke",
+                  "text": "Die Erlöserkirche ist eine markante Backsteinkirche im Zentrum von Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.270106,
+                        59.414481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tonjer fyr",
+                  "text": "A Tonjer világítótorony egy történelmi tengerészeti helyszín Haugesundban, amely ma múzeumi kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        5.240513,
+                        59.423987
+                  ]
+            },
+            {
+                  "name": "Vardafjellet batteri",
+                  "text": "Történelmi tengerparti erődítmény Haugesundban, kilátással a környező tengerre.",
+                  "category": "fortress",
+                  "coords": [
+                        5.299743,
+                        59.41226
+                  ]
+            },
+            {
+                  "name": "Karmsund folkemuseum",
+                  "text": "Ez a haugesundi múzeum a Karmsund régió kulturális és tengerészeti történelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        5.270238,
+                        59.41353
+                  ]
+            },
+            {
+                  "name": "Dokken friluftsmuseum",
+                  "text": "Szabadtéri múzeum Haugesundban, amely a hagyományos tengerparti életet és örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.259865,
+                        59.416432
+                  ]
+            },
+            {
+                  "name": "Haugesund Teater",
+                  "text": "Haugesund fő színháza, amely különféle színpadi produkcióknak és előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.265487,
+                        59.414113
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "A Festiviteten egy kulturális helyszín Haugesundban, amelyet színházi előadásokra, koncertekre és fesztiválokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        5.274287,
+                        59.410392
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Haugesjøen",
+                  "text": "Haugesundi múzeumi alapítvány, amely a helyi tengerészeti örökség megőrzésének szentelte magát.",
+                  "category": "museum",
+                  "coords": [
+                        5.263016,
+                        59.413614
+                  ]
+            },
+            {
+                  "name": "Steinparken Amfi",
+                  "text": "Szabadtéri amfiteátrum Haugesundban, a Steinparken kőparkban található.",
+                  "category": "cultural",
+                  "coords": [
+                        5.270869,
+                        59.412135
+                  ]
+            },
+            {
+                  "name": "Vangen",
+                  "text": "A Vangen egy népszerű park és fürdőhely Haugesund központja közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        5.281304,
+                        59.427789
+                  ]
+            },
+            {
+                  "name": "Haraldstøtta",
+                  "text": "Nemzeti emlékmű Haugesundban, amely Norvégia I. Harald király alatti egyesítésének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        5.258786,
+                        59.42903
+                  ]
+            },
+            {
+                  "name": "Haugesund billedgalleri",
+                  "text": "A haugesundi képtár jelentős norvég és nemzetközi művészeti gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        5.263687,
+                        59.418523
+                  ]
+            },
+            {
+                  "name": "Krosshaugen",
+                  "text": "A Krosshaugen egy történelmi helyszín Haugesundban, ahol egy ősi kőkereszt található.",
+                  "category": "historical",
+                  "coords": [
+                        5.259488,
+                        59.428091
+                  ]
+            },
+            {
+                  "name": "Havnaberg",
+                  "text": "A Havnaberg egy tengerparti kilátó Haugesundban, kilátással az Északi-tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        5.261847,
+                        59.417267
+                  ]
+            },
+            {
+                  "name": "Haugaland Kunstverk",
+                  "text": "Haugesundi művészeti központ, amely kreatív műhelyeknek és helyi művészeti kiállításoknak ad helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        5.252274,
+                        59.416537
+                  ]
+            },
+            {
+                  "name": "Wonderwall Galleri",
+                  "text": "A Wonderwall Galleri egy kortárs művészeti galéria Haugesundban, amely modern alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        5.276891,
+                        59.412892
+                  ]
+            },
+            {
+                  "name": "Haugesund rådhus",
+                  "text": "A haugesundi városháza egy kiemelkedő neoklasszicista épület és a város adminisztratív központja.",
+                  "category": "historical",
+                  "coords": [
+                        5.275557,
+                        59.410227
+                  ]
+            },
+            {
+                  "name": "Rossabø kirke",
+                  "text": "A Rossabø templom egy modern plébániatemplom Haugesund déli részén.",
+                  "category": "religious",
+                  "coords": [
+                        5.289578,
+                        59.399526
+                  ]
+            },
+            {
+                  "name": "Skåre kirke",
+                  "text": "A Skåre templom egy történelmi templomépület és aktív vallási helyszín Haugesundban.",
+                  "category": "religious",
+                  "coords": [
+                        5.263403,
+                        59.419497
+                  ]
+            },
+            {
+                  "name": "Udland kirke",
+                  "text": "Az udlandi templom egy helyi templom Haugesundban, amely az udlandi terület vallási igényeit szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        5.270287,
+                        59.438235
+                  ]
+            },
+            {
+                  "name": "Vår Frelsers kirke",
+                  "text": "A Megváltó-templom egy jellegzetes vöröstéglás templom Haugesund központjában.",
+                  "category": "religious",
+                  "coords": [
+                        5.270106,
+                        59.414481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tonjer fyr",
+                  "text": "Farul Tonjer este un sit maritim istoric din Haugesund, care găzduiește acum exponate de muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        5.240513,
+                        59.423987
+                  ]
+            },
+            {
+                  "name": "Vardafjellet batteri",
+                  "text": "O fortificație de coastă istorică din Haugesund care oferă priveliști spre marea înconjurătoare.",
+                  "category": "fortress",
+                  "coords": [
+                        5.299743,
+                        59.41226
+                  ]
+            },
+            {
+                  "name": "Karmsund folkemuseum",
+                  "text": "Acest muzeu din Haugesund se concentrează pe istoria culturală și maritimă a regiunii Hedmark.",
+                  "category": "museum",
+                  "coords": [
+                        5.270238,
+                        59.41353
+                  ]
+            },
+            {
+                  "name": "Dokken friluftsmuseum",
+                  "text": "Un muzeu în aer liber din Haugesund care prezintă viața de coastă tradițională și moștenirea culturală.",
+                  "category": "museum",
+                  "coords": [
+                        5.259865,
+                        59.416432
+                  ]
+            },
+            {
+                  "name": "Haugesund Teater",
+                  "text": "Teatrul principal din Haugesund care găzduiește o varietate de producții scenice și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        5.265487,
+                        59.414113
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "Festiviteten este o locație culturală din Haugesund folosită pentru teatru, concerte și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        5.274287,
+                        59.410392
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Haugesjøen",
+                  "text": "O fundație muzeală din Haugesund dedicată conservării moștenirii maritime locale.",
+                  "category": "museum",
+                  "coords": [
+                        5.263016,
+                        59.413614
+                  ]
+            },
+            {
+                  "name": "Steinparken Amfi",
+                  "text": "Un amfiteatru în aer liber din Haugesund situat în parcul de piatră Steinparken.",
+                  "category": "cultural",
+                  "coords": [
+                        5.270869,
+                        59.412135
+                  ]
+            },
+            {
+                  "name": "Vangen",
+                  "text": "Vangen este un parc și o zonă de înot populară situată lângă centrul orașului Haugesund.",
+                  "category": "recreational",
+                  "coords": [
+                        5.281304,
+                        59.427789
+                  ]
+            },
+            {
+                  "name": "Haraldstøtta",
+                  "text": "Un monument național din Haugesund care comemorează unificarea Norvegiei sub regele Harald cel Frumos.",
+                  "category": "historical",
+                  "coords": [
+                        5.258786,
+                        59.42903
+                  ]
+            },
+            {
+                  "name": "Haugesund billedgalleri",
+                  "text": "Galeria de Artă din Haugesund prezintă o colecție importantă de artă norvegiană și internațională.",
+                  "category": "museum",
+                  "coords": [
+                        5.263687,
+                        59.418523
+                  ]
+            },
+            {
+                  "name": "Krosshaugen",
+                  "text": "Krosshaugen este un sit istoric din Haugesund care prezintă o cruce veche de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        5.259488,
+                        59.428091
+                  ]
+            },
+            {
+                  "name": "Havnaberg",
+                  "text": "Havnaberg este un punct de belvedere de coastă din Haugesund care oferă priveliști spre Marea Nordului.",
+                  "category": "natural",
+                  "coords": [
+                        5.261847,
+                        59.417267
+                  ]
+            },
+            {
+                  "name": "Haugaland Kunstverk",
+                  "text": "Un centru de artă din Haugesund care oferă spațiu pentru ateliere creative și expoziții de artă locale.",
+                  "category": "cultural",
+                  "coords": [
+                        5.252274,
+                        59.416537
+                  ]
+            },
+            {
+                  "name": "Wonderwall Galleri",
+                  "text": "Wonderwall Galleri este o galerie de artă contemporană care expune lucrări moderne în Haugesund.",
+                  "category": "museum",
+                  "coords": [
+                        5.276891,
+                        59.412892
+                  ]
+            },
+            {
+                  "name": "Haugesund rådhus",
+                  "text": "Primăria din Haugesund este o clădire neoclasică proeminentă și inima administrativă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        5.275557,
+                        59.410227
+                  ]
+            },
+            {
+                  "name": "Rossabø kirke",
+                  "text": "Biserica Rossabø este o biserică parohială modernă care deservește partea de sud a orașului Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.289578,
+                        59.399526
+                  ]
+            },
+            {
+                  "name": "Skåre kirke",
+                  "text": "Biserica Skåre este o clădire de biserică istorică și un lăcaș de cult activ din Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.263403,
+                        59.419497
+                  ]
+            },
+            {
+                  "name": "Udland kirke",
+                  "text": "Biserica Udland este o biserică locală din Haugesund care răspunde nevoilor religioase ale zonei Udland.",
+                  "category": "religious",
+                  "coords": [
+                        5.270287,
+                        59.438235
+                  ]
+            },
+            {
+                  "name": "Vår Frelsers kirke",
+                  "text": "Biserica Mântuitorul Nostru este o biserică proeminentă din cărămidă roșie situată în centrul orașului Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.270106,
+                        59.414481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tonjer fyr",
+                  "text": "Tonjer Lighthouse is a historic maritime site in Haugesund, now housing museum exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        5.240513,
+                        59.423987
+                  ]
+            },
+            {
+                  "name": "Vardafjellet batteri",
+                  "text": "A historic coastal fortification in Haugesund offering views of the surrounding sea.",
+                  "category": "fortress",
+                  "coords": [
+                        5.299743,
+                        59.41226
+                  ]
+            },
+            {
+                  "name": "Karmsund folkemuseum",
+                  "text": "This museum in Haugesund focuses on the cultural and maritime history of the Karmsund region.",
+                  "category": "museum",
+                  "coords": [
+                        5.270238,
+                        59.41353
+                  ]
+            },
+            {
+                  "name": "Dokken friluftsmuseum",
+                  "text": "An open-air museum in Haugesund showcasing traditional coastal living and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        5.259865,
+                        59.416432
+                  ]
+            },
+            {
+                  "name": "Haugesund Teater",
+                  "text": "The main theatre in Haugesund hosting a variety of stage productions and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        5.265487,
+                        59.414113
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "Festiviteten is a cultural venue in Haugesund used for theatre, concerts, and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        5.274287,
+                        59.410392
+                  ]
+            },
+            {
+                  "name": "Stiftelsen Haugesjøen",
+                  "text": "A museum foundation in Haugesund dedicated to preserving local maritime heritage.",
+                  "category": "museum",
+                  "coords": [
+                        5.263016,
+                        59.413614
+                  ]
+            },
+            {
+                  "name": "Steinparken Amfi",
+                  "text": "An outdoor amphitheatre in Haugesund located within the Steinparken stone park.",
+                  "category": "cultural",
+                  "coords": [
+                        5.270869,
+                        59.412135
+                  ]
+            },
+            {
+                  "name": "Vangen",
+                  "text": "Vangen is a popular park and swimming area located near the center of Haugesund.",
+                  "category": "recreational",
+                  "coords": [
+                        5.281304,
+                        59.427789
+                  ]
+            },
+            {
+                  "name": "Haraldstøtta",
+                  "text": "A national monument in Haugesund commemorating the unification of Norway under King Harald Fairhair.",
+                  "category": "historical",
+                  "coords": [
+                        5.258786,
+                        59.42903
+                  ]
+            },
+            {
+                  "name": "Haugesund billedgalleri",
+                  "text": "The Haugesund Art Gallery features a significant collection of Norwegian and international art.",
+                  "category": "museum",
+                  "coords": [
+                        5.263687,
+                        59.418523
+                  ]
+            },
+            {
+                  "name": "Krosshaugen",
+                  "text": "Krosshaugen is a historic site in Haugesund featuring an ancient stone cross.",
+                  "category": "historical",
+                  "coords": [
+                        5.259488,
+                        59.428091
+                  ]
+            },
+            {
+                  "name": "Havnaberg",
+                  "text": "Havnaberg is a coastal viewpoint in Haugesund providing views of the North Sea.",
+                  "category": "natural",
+                  "coords": [
+                        5.261847,
+                        59.417267
+                  ]
+            },
+            {
+                  "name": "Haugaland Kunstverk",
+                  "text": "An arts centre in Haugesund providing space for creative workshops and local art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        5.252274,
+                        59.416537
+                  ]
+            },
+            {
+                  "name": "Wonderwall Galleri",
+                  "text": "Wonderwall Galleri is a contemporary art gallery showcasing modern works in Haugesund.",
+                  "category": "museum",
+                  "coords": [
+                        5.276891,
+                        59.412892
+                  ]
+            },
+            {
+                  "name": "Haugesund rådhus",
+                  "text": "Haugesund City Hall is a prominent neo-classical building and the administrative heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        5.275557,
+                        59.410227
+                  ]
+            },
+            {
+                  "name": "Rossabø kirke",
+                  "text": "Rossabø Church is a modern parish church serving the southern part of Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.289578,
+                        59.399526
+                  ]
+            },
+            {
+                  "name": "Skåre kirke",
+                  "text": "Skåre Church is a historic church building and an active place of worship in Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.263403,
+                        59.419497
+                  ]
+            },
+            {
+                  "name": "Udland kirke",
+                  "text": "Udland Church is a local church in Haugesund catering to the religious needs of the Udland area.",
+                  "category": "religious",
+                  "coords": [
+                        5.270287,
+                        59.438235
+                  ]
+            },
+            {
+                  "name": "Vår Frelsers kirke",
+                  "text": "Our Saviour's Church is a prominent red-brick church located in the center of Haugesund.",
+                  "category": "religious",
+                  "coords": [
+                        5.270106,
+                        59.414481
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Haugesund", hu: "Haugesund", ro: "Haugesund", en: "Haugesund" },
@@ -363,7 +2991,628 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-arendal-cities-v2.webp",
   },
   {
-    id: "norway-larvik-cities-v2",
+    id: "norway-larvik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Larvik sjøfartsmuseum",
+                  "text": "Dieses Museum in Larvik widmet sich der reichen Seefahrtsgeschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        10.034403,
+                        59.047993
+                  ]
+            },
+            {
+                  "name": "Larvik museum",
+                  "text": "Das Regionalmuseum von Larvik präsentiert Ausstellungen zur lokalen Kultur und Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        10.01846,
+                        59.051242
+                  ]
+            },
+            {
+                  "name": "Teaterhuset Munken",
+                  "text": "Ein Kulturhaus und Theater in Larvik, das für verschiedene künstlerische Darbietungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033852,
+                        59.049976
+                  ]
+            },
+            {
+                  "name": "Plauane",
+                  "text": "Ein lokaler Strand in Larvik, der Bademöglichkeiten an der Küste bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.016463,
+                        59.062917
+                  ]
+            },
+            {
+                  "name": "Karistranda",
+                  "text": "Ein Küstenabschnitt mit Strand in Larvik, ideal für Erholung im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        10.039543,
+                        59.045801
+                  ]
+            },
+            {
+                  "name": "Jordestranda",
+                  "text": "Ein Sandstrand in Larvik, der ein beliebtes Ziel für Sommergäste ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018745,
+                        59.030128
+                  ]
+            },
+            {
+                  "name": "Jordfallet",
+                  "text": "Ein Strandbereich in Larvik, der für seine natürliche Umgebung bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        10.017292,
+                        59.042278
+                  ]
+            },
+            {
+                  "name": "Batteristranda",
+                  "text": "Ein Strand in Larvik, der sich in der Nähe einer historischen Befestigungsanlage befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018443,
+                        59.04879
+                  ]
+            },
+            {
+                  "name": "Furumoa",
+                  "text": "Ein öffentlicher Park in Larvik, der als grüne Oase zur Entspannung einlädt.",
+                  "category": "park",
+                  "coords": [
+                        10.053236,
+                        59.045844
+                  ]
+            },
+            {
+                  "name": "Herregården",
+                  "text": "Ein prächtiges barockes Herrenhaus in Larvik, das heute als Museum dient.",
+                  "category": "historical",
+                  "coords": [
+                        10.037676,
+                        59.04959
+                  ]
+            },
+            {
+                  "name": "Balders Hage",
+                  "text": "Ein gepflegter öffentlicher Garten in Larvik mit historischem Flair.",
+                  "category": "park",
+                  "coords": [
+                        10.016293,
+                        59.044157
+                  ]
+            },
+            {
+                  "name": "Tolderodden",
+                  "text": "Ein markanter Küstenpunkt in Larvik, der für Spaziergänge und Meerblick geschätzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        10.033197,
+                        59.047325
+                  ]
+            },
+            {
+                  "name": "Larvik rådhus",
+                  "text": "Das Rathaus von Larvik ist der Sitz der städtischen Verwaltung.",
+                  "category": "historical",
+                  "coords": [
+                        10.028268,
+                        59.051518
+                  ]
+            },
+            {
+                  "name": "Larvik kirke",
+                  "text": "Die Hauptkirche von Larvik, ein markantes religiöses Gebäude im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        10.035326,
+                        59.046777
+                  ]
+            },
+            {
+                  "name": "Nanset kirke",
+                  "text": "Eine moderne Kirche in Larvik, die der örtlichen Gemeinde für Gottesdienste dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.056185,
+                        59.066588
+                  ]
+            },
+            {
+                  "name": "Langestrand kirke",
+                  "text": "Eine historische Kirche im Stadtteil Langestrand in Larvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.010265,
+                        59.049631
+                  ]
+            },
+            {
+                  "name": "Østre Halsen kirke",
+                  "text": "Die Pfarrkirche des Stadtteils Østre Halsen in Larvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.070269,
+                        59.037331
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Larvik sjøfartsmuseum",
+                  "text": "Ez a larviki múzeum a régió gazdag tengerészeti múltjának szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        10.034403,
+                        59.047993
+                  ]
+            },
+            {
+                  "name": "Larvik museum",
+                  "text": "A Larvik Múzeum a helyi kultúrát és történelmet bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.01846,
+                        59.051242
+                  ]
+            },
+            {
+                  "name": "Teaterhuset Munken",
+                  "text": "Kulturális ház és színház Larvikban, amelyet különféle művészeti előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033852,
+                        59.049976
+                  ]
+            },
+            {
+                  "name": "Plauane",
+                  "text": "Helyi strand Larvikban, amely fürdőzési lehetőséget kínál a tengerparton.",
+                  "category": "recreational",
+                  "coords": [
+                        10.016463,
+                        59.062917
+                  ]
+            },
+            {
+                  "name": "Karistranda",
+                  "text": "Tengerparti szakasz stranddal Larvikban, amely ideális a szabadidős kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        10.039543,
+                        59.045801
+                  ]
+            },
+            {
+                  "name": "Jordestranda",
+                  "text": "Homokos strand Larvikban, amely a nyári látogatók kedvelt célpontja.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018745,
+                        59.030128
+                  ]
+            },
+            {
+                  "name": "Jordfallet",
+                  "text": "Strandterület Larvikban, amely természetes környezetéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        10.017292,
+                        59.042278
+                  ]
+            },
+            {
+                  "name": "Batteristranda",
+                  "text": "Strand Larvikban, amely egy történelmi erődítmény közelében fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018443,
+                        59.04879
+                  ]
+            },
+            {
+                  "name": "Furumoa",
+                  "text": "Nyilvános park Larvikban, amely zöld oázisként hívogat pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        10.053236,
+                        59.045844
+                  ]
+            },
+            {
+                  "name": "Herregården",
+                  "text": "Pompás barokk kúria Larvikban, amely ma múzeumként működik.",
+                  "category": "historical",
+                  "coords": [
+                        10.037676,
+                        59.04959
+                  ]
+            },
+            {
+                  "name": "Balders Hage",
+                  "text": "Gondozott nyilvános kert Larvikban, történelmi hangulattal.",
+                  "category": "park",
+                  "coords": [
+                        10.016293,
+                        59.044157
+                  ]
+            },
+            {
+                  "name": "Tolderodden",
+                  "text": "Jellegzetes tengerparti pont Larvikban, amelyet sétákhoz és a tengeri kilátáshoz kedvelnek.",
+                  "category": "landmark",
+                  "coords": [
+                        10.033197,
+                        59.047325
+                  ]
+            },
+            {
+                  "name": "Larvik rådhus",
+                  "text": "A larviki városháza a városi önkormányzat székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        10.028268,
+                        59.051518
+                  ]
+            },
+            {
+                  "name": "Larvik kirke",
+                  "text": "Larvik főtemploma, a városközpont jellegzetes vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        10.035326,
+                        59.046777
+                  ]
+            },
+            {
+                  "name": "Nanset kirke",
+                  "text": "Modern templom Larvikban, amely a helyi közösség istentiszteleti helyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        10.056185,
+                        59.066588
+                  ]
+            },
+            {
+                  "name": "Langestrand kirke",
+                  "text": "Történelmi templom Larvik Langestrand negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.010265,
+                        59.049631
+                  ]
+            },
+            {
+                  "name": "Østre Halsen kirke",
+                  "text": "Larvik Østre Halsen városrészének plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        10.070269,
+                        59.037331
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Larvik sjøfartsmuseum",
+                  "text": "Acest muzeu din Larvik este dedicat istoriei maritime bogate a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        10.034403,
+                        59.047993
+                  ]
+            },
+            {
+                  "name": "Larvik museum",
+                  "text": "Muzeul regional din Larvik prezintă expoziții despre cultura și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        10.01846,
+                        59.051242
+                  ]
+            },
+            {
+                  "name": "Teaterhuset Munken",
+                  "text": "O casă de cultură și teatru în Larvik, utilizată pentru diverse spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033852,
+                        59.049976
+                  ]
+            },
+            {
+                  "name": "Plauane",
+                  "text": "O plajă locală din Larvik, care oferă posibilități de scăldat la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        10.016463,
+                        59.062917
+                  ]
+            },
+            {
+                  "name": "Karistranda",
+                  "text": "O porțiune de coastă cu plajă în Larvik, ideală pentru recreere în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        10.039543,
+                        59.045801
+                  ]
+            },
+            {
+                  "name": "Jordestranda",
+                  "text": "O plajă cu nisip în Larvik, fiind o destinație populară pentru vizitatorii de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018745,
+                        59.030128
+                  ]
+            },
+            {
+                  "name": "Jordfallet",
+                  "text": "O zonă de plajă din Larvik, cunoscută pentru mediul său natural.",
+                  "category": "recreational",
+                  "coords": [
+                        10.017292,
+                        59.042278
+                  ]
+            },
+            {
+                  "name": "Batteristranda",
+                  "text": "O plajă din Larvik, situată în apropierea unei foste fortificații istorice.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018443,
+                        59.04879
+                  ]
+            },
+            {
+                  "name": "Furumoa",
+                  "text": "Un parc public din Larvik, care invită la relaxare ca o oază de verdeață.",
+                  "category": "park",
+                  "coords": [
+                        10.053236,
+                        59.045844
+                  ]
+            },
+            {
+                  "name": "Herregården",
+                  "text": "Un conac baroc magnific din Larvik, care servește astăzi ca muzeu.",
+                  "category": "historical",
+                  "coords": [
+                        10.037676,
+                        59.04959
+                  ]
+            },
+            {
+                  "name": "Balders Hage",
+                  "text": "O grădină publică bine întreținută din Larvik, cu un aer istoric.",
+                  "category": "park",
+                  "coords": [
+                        10.016293,
+                        59.044157
+                  ]
+            },
+            {
+                  "name": "Tolderodden",
+                  "text": "Un punct de coastă proeminent în Larvik, apreciat pentru plimbări și vederea la mare.",
+                  "category": "landmark",
+                  "coords": [
+                        10.033197,
+                        59.047325
+                  ]
+            },
+            {
+                  "name": "Larvik rådhus",
+                  "text": "Primăria din Larvik este sediul administrației municipale.",
+                  "category": "historical",
+                  "coords": [
+                        10.028268,
+                        59.051518
+                  ]
+            },
+            {
+                  "name": "Larvik kirke",
+                  "text": "Biserica principală din Larvik, o clădire religioasă proeminentă din centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        10.035326,
+                        59.046777
+                  ]
+            },
+            {
+                  "name": "Nanset kirke",
+                  "text": "O biserică modernă din Larvik, care servește comunității locale pentru slujbe.",
+                  "category": "religious",
+                  "coords": [
+                        10.056185,
+                        59.066588
+                  ]
+            },
+            {
+                  "name": "Langestrand kirke",
+                  "text": "O biserică istorică în cartierul Langestrand din Larvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.010265,
+                        59.049631
+                  ]
+            },
+            {
+                  "name": "Østre Halsen kirke",
+                  "text": "Biserica parohială din cartierul Østre Halsen din Larvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.070269,
+                        59.037331
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Larvik sjøfartsmuseum",
+                  "text": "This museum in Larvik is dedicated to the region's rich maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        10.034403,
+                        59.047993
+                  ]
+            },
+            {
+                  "name": "Larvik museum",
+                  "text": "The regional museum of Larvik presents exhibitions on local culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        10.01846,
+                        59.051242
+                  ]
+            },
+            {
+                  "name": "Teaterhuset Munken",
+                  "text": "A cultural house and theatre in Larvik used for various artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033852,
+                        59.049976
+                  ]
+            },
+            {
+                  "name": "Plauane",
+                  "text": "A local beach in Larvik offering swimming opportunities along the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        10.016463,
+                        59.062917
+                  ]
+            },
+            {
+                  "name": "Karistranda",
+                  "text": "A coastal stretch with a beach in Larvik, ideal for outdoor recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        10.039543,
+                        59.045801
+                  ]
+            },
+            {
+                  "name": "Jordestranda",
+                  "text": "A sandy beach in Larvik that is a popular destination for summer visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018745,
+                        59.030128
+                  ]
+            },
+            {
+                  "name": "Jordfallet",
+                  "text": "A beach area in Larvik known for its natural surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        10.017292,
+                        59.042278
+                  ]
+            },
+            {
+                  "name": "Batteristranda",
+                  "text": "A beach in Larvik located near a historic fortification.",
+                  "category": "recreational",
+                  "coords": [
+                        10.018443,
+                        59.04879
+                  ]
+            },
+            {
+                  "name": "Furumoa",
+                  "text": "A public park in Larvik that serves as a green oasis for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        10.053236,
+                        59.045844
+                  ]
+            },
+            {
+                  "name": "Herregården",
+                  "text": "A magnificent baroque manor house in Larvik that now serves as a museum.",
+                  "category": "historical",
+                  "coords": [
+                        10.037676,
+                        59.04959
+                  ]
+            },
+            {
+                  "name": "Balders Hage",
+                  "text": "A well-maintained public garden in Larvik with a historical feel.",
+                  "category": "park",
+                  "coords": [
+                        10.016293,
+                        59.044157
+                  ]
+            },
+            {
+                  "name": "Tolderodden",
+                  "text": "A prominent coastal point in Larvik appreciated for walks and sea views.",
+                  "category": "landmark",
+                  "coords": [
+                        10.033197,
+                        59.047325
+                  ]
+            },
+            {
+                  "name": "Larvik rådhus",
+                  "text": "Larvik Town Hall is the seat of the municipal administration.",
+                  "category": "historical",
+                  "coords": [
+                        10.028268,
+                        59.051518
+                  ]
+            },
+            {
+                  "name": "Larvik kirke",
+                  "text": "The main church of Larvik, a prominent religious building in the town center.",
+                  "category": "religious",
+                  "coords": [
+                        10.035326,
+                        59.046777
+                  ]
+            },
+            {
+                  "name": "Nanset kirke",
+                  "text": "A modern church in Larvik serving the local community for worship.",
+                  "category": "religious",
+                  "coords": [
+                        10.056185,
+                        59.066588
+                  ]
+            },
+            {
+                  "name": "Langestrand kirke",
+                  "text": "A historic church in the Langestrand district of Larvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.010265,
+                        59.049631
+                  ]
+            },
+            {
+                  "name": "Østre Halsen kirke",
+                  "text": "The parish church for the Østre Halsen district of Larvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.070269,
+                        59.037331
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Larvik", hu: "Larvik", ro: "Larvik", en: "Larvik" },
@@ -408,7 +3657,1060 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-larvik-cities-v2.webp",
   },
   {
-    id: "norway-kristiansund-cities-v2",
+    id: "norway-kristiansund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Norsk klippfiskmuseum",
+                  "text": "Ein Museum in Kristiansund, das der Geschichte der Klippfischproduktion gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.738985,
+                        63.115426
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "Ein bedeutendes Theater- und Opernhaus in Kristiansund.",
+                  "category": "cultural",
+                  "coords": [
+                        7.723997,
+                        63.111699
+                  ]
+            },
+            {
+                  "name": "Mellemværftet",
+                  "text": "Ein lebendiges Werftmuseum in Kristiansund, das alte Schiffbautraditionen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.729312,
+                        63.119337
+                  ]
+            },
+            {
+                  "name": "Fugløya naturreservat",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Kristiansund, bekannt für seine Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        7.77005,
+                        63.094851
+                  ]
+            },
+            {
+                  "name": "Skjerva",
+                  "text": "Ein beliebter Strand- und Badebereich in Kristiansund.",
+                  "category": "recreational",
+                  "coords": [
+                        7.730423,
+                        63.101713
+                  ]
+            },
+            {
+                  "name": "Kristiansund Nord kystfort",
+                  "text": "Eine ehemalige Küstenfestung im Norden von Kristiansund.",
+                  "category": "fortress",
+                  "coords": [
+                        7.708743,
+                        63.127477
+                  ]
+            },
+            {
+                  "name": "Innlandet kystfort",
+                  "text": "Eine historische Küstenbefestigung im Stadtteil Innlandet von Kristiansund.",
+                  "category": "fortress",
+                  "coords": [
+                        7.725156,
+                        63.103737
+                  ]
+            },
+            {
+                  "name": "Nordmøre museum",
+                  "text": "Das Regionalmuseum für die Region Nordmøre mit Sitz in Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.731098,
+                        63.109072
+                  ]
+            },
+            {
+                  "name": "Kristiansund museum, friluftsavdelingen",
+                  "text": "Die Freilichtabteilung des Kristiansund-Museums zeigt historische Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        7.733259,
+                        63.124548
+                  ]
+            },
+            {
+                  "name": "Kulturfabrikken",
+                  "text": "Ein Kulturzentrum und Veranstaltungsort in Kristiansund.",
+                  "category": "cultural",
+                  "coords": [
+                        7.732227,
+                        63.117202
+                  ]
+            },
+            {
+                  "name": "Handelshuset Patrick Volckmar",
+                  "text": "Ein historisches Handelshaus und Museum in Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.729897,
+                        63.121828
+                  ]
+            },
+            {
+                  "name": "Brunsvikens reperbane",
+                  "text": "Eine historische Seilerei in Kristiansund, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        7.713984,
+                        63.121915
+                  ]
+            },
+            {
+                  "name": "Bremsnesfjorden",
+                  "text": "Ein Fjord bei Kristiansund, der die Stadt vom Umland trennt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708111,
+                        63.065725
+                  ]
+            },
+            {
+                  "name": "Bautaen",
+                  "text": "Ein Gedenkstein oder Monolith im Stadtgebiet von Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.740947,
+                        63.105683
+                  ]
+            },
+            {
+                  "name": "Bjønnahaugen",
+                  "text": "Ein Aussichtspunkt in Kristiansund mit Blick auf den Hafen und die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        7.748602,
+                        63.11242
+                  ]
+            },
+            {
+                  "name": "Nordic Light Fotohus",
+                  "text": "Ein Zentrum für Fotografie und Galerie in Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.729281,
+                        63.109494
+                  ]
+            },
+            {
+                  "name": "Minebøssa",
+                  "text": "Eine ehemalige Seemine in Kristiansund, die als Denkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        7.733659,
+                        63.111556
+                  ]
+            },
+            {
+                  "name": "Kongesteinen",
+                  "text": "Ein Gedenkstein in Kristiansund zur Erinnerung an einen königlichen Besuch.",
+                  "category": "historical",
+                  "coords": [
+                        7.726028,
+                        63.111964
+                  ]
+            },
+            {
+                  "name": "Bræinlunden",
+                  "text": "Ein Denkmal oder Gedenkstätte in der Stadt Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.725009,
+                        63.111305
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Ingeborg Ellingsæter",
+                  "text": "Ein Denkmal für Ingeborg Ellingsæter in Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.738853,
+                        63.084194
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Kristen Fostervold",
+                  "text": "Ein Denkmal zu Ehren von Kristen Fostervold in Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.76921,
+                        63.11128
+                  ]
+            },
+            {
+                  "name": "Arnulf Øverlands Galleri",
+                  "text": "Eine Kunstgalerie in Kristiansund, benannt nach dem Dichter Arnulf Øverland.",
+                  "category": "museum",
+                  "coords": [
+                        7.73639,
+                        63.107737
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "Ein Aussichtspunkt in Kristiansund, der weite Blicke auf das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.712484,
+                        63.113099
+                  ]
+            },
+            {
+                  "name": "Radarbunker",
+                  "text": "Die Überreste eines Radarbunkers aus dem Zweiten Weltkrieg in Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.69743,
+                        63.114728
+                  ]
+            },
+            {
+                  "name": "Nerparken",
+                  "text": "Eine Grünanlage und Erholungsort im Stadtzentrum von Kristiansund.",
+                  "category": "landmark",
+                  "coords": [
+                        7.726782,
+                        63.110953
+                  ]
+            },
+            {
+                  "name": "Nordlandet kirke",
+                  "text": "Eine markante Steinkirche im Stadtteil Nordlandet von Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.747817,
+                        63.109171
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kirke",
+                  "text": "Eine moderne Kirche in Kristiansund, bekannt für ihre mutige Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        7.725663,
+                        63.11463
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kapell",
+                  "text": "Eine Kapelle auf der Insel Kirkelandet in Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.708083,
+                        63.117048
+                  ]
+            },
+            {
+                  "name": "St. Eystein kirke",
+                  "text": "Die katholische St.-Eystein-Kirche in Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.726649,
+                        63.117356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Norsk klippfiskmuseum",
+                  "text": "A kliphal-gyártás történetének szentelt múzeum Kristiansundban.",
+                  "category": "museum",
+                  "coords": [
+                        7.738985,
+                        63.115426
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "Kristiansund jelentős színház- és operaháza.",
+                  "category": "cultural",
+                  "coords": [
+                        7.723997,
+                        63.111699
+                  ]
+            },
+            {
+                  "name": "Mellemværftet",
+                  "text": "Élő hajógyári múzeum Kristiansundban, amely a régi hajóépítési hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.729312,
+                        63.119337
+                  ]
+            },
+            {
+                  "name": "Fugløya naturreservat",
+                  "text": "Kristiansund közeli természetvédelmi terület, amely madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.77005,
+                        63.094851
+                  ]
+            },
+            {
+                  "name": "Skjerva",
+                  "text": "Népszerű strand és fürdőhely Kristiansundban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.730423,
+                        63.101713
+                  ]
+            },
+            {
+                  "name": "Kristiansund Nord kystfort",
+                  "text": "Egykori parti erőd Kristiansund északi részén.",
+                  "category": "fortress",
+                  "coords": [
+                        7.708743,
+                        63.127477
+                  ]
+            },
+            {
+                  "name": "Innlandet kystfort",
+                  "text": "Történelmi parti erőd Kristiansund Innlandet városrészében.",
+                  "category": "fortress",
+                  "coords": [
+                        7.725156,
+                        63.103737
+                  ]
+            },
+            {
+                  "name": "Nordmøre museum",
+                  "text": "Kristiansundi székhelyű regionális múzeum a Nordmøre régió számára.",
+                  "category": "museum",
+                  "coords": [
+                        7.731098,
+                        63.109072
+                  ]
+            },
+            {
+                  "name": "Kristiansund museum, friluftsavdelingen",
+                  "text": "A Kristiansund Múzeum szabadtéri részlege történelmi épületeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.733259,
+                        63.124548
+                  ]
+            },
+            {
+                  "name": "Kulturfabrikken",
+                  "text": "Kulturális központ és rendezvényhelyszín Kristiansundban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.732227,
+                        63.117202
+                  ]
+            },
+            {
+                  "name": "Handelshuset Patrick Volckmar",
+                  "text": "Történelmi kereskedőház és múzeum Kristiansundban.",
+                  "category": "museum",
+                  "coords": [
+                        7.729897,
+                        63.121828
+                  ]
+            },
+            {
+                  "name": "Brunsvikens reperbane",
+                  "text": "Történelmi kötélverő műhely Kristiansundban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        7.713984,
+                        63.121915
+                  ]
+            },
+            {
+                  "name": "Bremsnesfjorden",
+                  "text": "Kristiansund melletti fjord, amely elválasztja a várost a környező területektől.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708111,
+                        63.065725
+                  ]
+            },
+            {
+                  "name": "Bautaen",
+                  "text": "Emlékkő vagy monolit Kristiansund területén.",
+                  "category": "historical",
+                  "coords": [
+                        7.740947,
+                        63.105683
+                  ]
+            },
+            {
+                  "name": "Bjønnahaugen",
+                  "text": "Kristiansundi kilátópont, ahonnan rálátás nyílik a kikötőre és a városra.",
+                  "category": "natural",
+                  "coords": [
+                        7.748602,
+                        63.11242
+                  ]
+            },
+            {
+                  "name": "Nordic Light Fotohus",
+                  "text": "Fotóművészeti központ és galéria Kristiansundban.",
+                  "category": "museum",
+                  "coords": [
+                        7.729281,
+                        63.109494
+                  ]
+            },
+            {
+                  "name": "Minebøssa",
+                  "text": "Kristiansundban található egykori tengeri akna, amely emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        7.733659,
+                        63.111556
+                  ]
+            },
+            {
+                  "name": "Kongesteinen",
+                  "text": "Emlékkő Kristiansundban egy királyi látogatás emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        7.726028,
+                        63.111964
+                  ]
+            },
+            {
+                  "name": "Bræinlunden",
+                  "text": "Emlékmű vagy emlékhely Kristiansund városában.",
+                  "category": "historical",
+                  "coords": [
+                        7.725009,
+                        63.111305
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Ingeborg Ellingsæter",
+                  "text": "Ingeborg Ellingsæter emlékműve Kristiansundban.",
+                  "category": "historical",
+                  "coords": [
+                        7.738853,
+                        63.084194
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Kristen Fostervold",
+                  "text": "Kristen Fostervold tiszteletére állított emlékmű Kristiansundban.",
+                  "category": "historical",
+                  "coords": [
+                        7.76921,
+                        63.11128
+                  ]
+            },
+            {
+                  "name": "Arnulf Øverlands Galleri",
+                  "text": "Kristiansundi művészeti galéria, amely Arnulf Øverland költőről kapta nevét.",
+                  "category": "museum",
+                  "coords": [
+                        7.73639,
+                        63.107737
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "Kilátópont Kristiansundban, ahonnan kilátás nyílik a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        7.712484,
+                        63.113099
+                  ]
+            },
+            {
+                  "name": "Radarbunker",
+                  "text": "Második világháborús radarbunker maradványai Kristiansundban.",
+                  "category": "historical",
+                  "coords": [
+                        7.69743,
+                        63.114728
+                  ]
+            },
+            {
+                  "name": "Nerparken",
+                  "text": "Zöldterület és pihenőhely Kristiansund városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.726782,
+                        63.110953
+                  ]
+            },
+            {
+                  "name": "Nordlandet kirke",
+                  "text": "Jellegzetes kőtemplom Kristiansund Nordlandet városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        7.747817,
+                        63.109171
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kirke",
+                  "text": "Modern templom Kristiansundban, amely merész építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.725663,
+                        63.11463
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kapell",
+                  "text": "Kápolna Kristiansund Kirkelandet szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        7.708083,
+                        63.117048
+                  ]
+            },
+            {
+                  "name": "St. Eystein kirke",
+                  "text": "A kristiansundi Szent Eystein katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        7.726649,
+                        63.117356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Norsk klippfiskmuseum",
+                  "text": "Un muzeu în Kristiansund dedicat istoriei producției de pește uscat.",
+                  "category": "museum",
+                  "coords": [
+                        7.738985,
+                        63.115426
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "O clădire importantă de teatru și operă în Kristiansund.",
+                  "category": "cultural",
+                  "coords": [
+                        7.723997,
+                        63.111699
+                  ]
+            },
+            {
+                  "name": "Mellemværftet",
+                  "text": "Un muzeu viu al șantierului naval din Kristiansund, care prezintă tradiții vechi de construcție a navelor.",
+                  "category": "museum",
+                  "coords": [
+                        7.729312,
+                        63.119337
+                  ]
+            },
+            {
+                  "name": "Fugløya naturreservat",
+                  "text": "O rezervație naturală lângă Kristiansund, cunoscută pentru fauna sa aviară.",
+                  "category": "natural",
+                  "coords": [
+                        7.77005,
+                        63.094851
+                  ]
+            },
+            {
+                  "name": "Skjerva",
+                  "text": "O plajă populară și zonă de scăldat în Kristiansund.",
+                  "category": "recreational",
+                  "coords": [
+                        7.730423,
+                        63.101713
+                  ]
+            },
+            {
+                  "name": "Kristiansund Nord kystfort",
+                  "text": "O fostă fortăreață de coastă în nordul orașului Kristiansund.",
+                  "category": "fortress",
+                  "coords": [
+                        7.708743,
+                        63.127477
+                  ]
+            },
+            {
+                  "name": "Innlandet kystfort",
+                  "text": "O fortificație de coastă istorică în cartierul Innlandet din Kristiansund.",
+                  "category": "fortress",
+                  "coords": [
+                        7.725156,
+                        63.103737
+                  ]
+            },
+            {
+                  "name": "Nordmøre museum",
+                  "text": "Muzeul regional pentru regiunea Nordmøre, situat în Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.731098,
+                        63.109072
+                  ]
+            },
+            {
+                  "name": "Kristiansund museum, friluftsavdelingen",
+                  "text": "Secția în aer liber a Muzeului Kristiansund prezintă clădiri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.733259,
+                        63.124548
+                  ]
+            },
+            {
+                  "name": "Kulturfabrikken",
+                  "text": "Un centru cultural și loc de evenimente în Kristiansund.",
+                  "category": "cultural",
+                  "coords": [
+                        7.732227,
+                        63.117202
+                  ]
+            },
+            {
+                  "name": "Handelshuset Patrick Volckmar",
+                  "text": "O casă comercială istorică și muzeu în Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.729897,
+                        63.121828
+                  ]
+            },
+            {
+                  "name": "Brunsvikens reperbane",
+                  "text": "O veche fabrică de frânghii din Kristiansund, transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        7.713984,
+                        63.121915
+                  ]
+            },
+            {
+                  "name": "Bremsnesfjorden",
+                  "text": "Un fjord lângă Kristiansund, care separă orașul de zonele înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708111,
+                        63.065725
+                  ]
+            },
+            {
+                  "name": "Bautaen",
+                  "text": "O piatră memorială sau monolit în zona orașului Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.740947,
+                        63.105683
+                  ]
+            },
+            {
+                  "name": "Bjønnahaugen",
+                  "text": "Un punct de belvedere în Kristiansund cu vedere spre port și oraș.",
+                  "category": "natural",
+                  "coords": [
+                        7.748602,
+                        63.11242
+                  ]
+            },
+            {
+                  "name": "Nordic Light Fotohus",
+                  "text": "Un centru de fotografie și galerie în Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.729281,
+                        63.109494
+                  ]
+            },
+            {
+                  "name": "Minebøssa",
+                  "text": "O fostă mină marină în Kristiansund, care servește drept monument.",
+                  "category": "historical",
+                  "coords": [
+                        7.733659,
+                        63.111556
+                  ]
+            },
+            {
+                  "name": "Kongesteinen",
+                  "text": "O piatră memorială în Kristiansund, ridicată în amintirea unei vizite regale.",
+                  "category": "historical",
+                  "coords": [
+                        7.726028,
+                        63.111964
+                  ]
+            },
+            {
+                  "name": "Bræinlunden",
+                  "text": "Un monument sau loc memorial în orașul Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.725009,
+                        63.111305
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Ingeborg Ellingsæter",
+                  "text": "Un monument dedicat lui Ingeborg Ellingsæter în Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.738853,
+                        63.084194
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Kristen Fostervold",
+                  "text": "Un monument în onoarea lui Kristen Fostervold în Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.76921,
+                        63.11128
+                  ]
+            },
+            {
+                  "name": "Arnulf Øverlands Galleri",
+                  "text": "O galerie de artă în Kristiansund, numită după poetul Arnulf Øverland.",
+                  "category": "museum",
+                  "coords": [
+                        7.73639,
+                        63.107737
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "Un punct de belvedere în Kristiansund, oferind vederi spre mare.",
+                  "category": "natural",
+                  "coords": [
+                        7.712484,
+                        63.113099
+                  ]
+            },
+            {
+                  "name": "Radarbunker",
+                  "text": "Ruinele unui buncăr radar din Al Doilea Război Mondial în Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.69743,
+                        63.114728
+                  ]
+            },
+            {
+                  "name": "Nerparken",
+                  "text": "Un spațiu verde și loc de recreere în centrul orașului Kristiansund.",
+                  "category": "landmark",
+                  "coords": [
+                        7.726782,
+                        63.110953
+                  ]
+            },
+            {
+                  "name": "Nordlandet kirke",
+                  "text": "O biserică de piatră distinctivă în cartierul Nordlandet din Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.747817,
+                        63.109171
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kirke",
+                  "text": "O biserică modernă în Kristiansund, cunoscută pentru arhitectura sa îndrăzneață.",
+                  "category": "religious",
+                  "coords": [
+                        7.725663,
+                        63.11463
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kapell",
+                  "text": "O capelă situată pe insula Kirkelandet din Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.708083,
+                        63.117048
+                  ]
+            },
+            {
+                  "name": "St. Eystein kirke",
+                  "text": "Biserica catolică Sfântul Eystein din Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.726649,
+                        63.117356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Norsk klippfiskmuseum",
+                  "text": "A museum in Kristiansund dedicated to the history of clipfish production.",
+                  "category": "museum",
+                  "coords": [
+                        7.738985,
+                        63.115426
+                  ]
+            },
+            {
+                  "name": "Festiviteten",
+                  "text": "A prominent theatre and opera house located in Kristiansund.",
+                  "category": "cultural",
+                  "coords": [
+                        7.723997,
+                        63.111699
+                  ]
+            },
+            {
+                  "name": "Mellemværftet",
+                  "text": "A living shipyard museum in Kristiansund showcasing old shipbuilding traditions.",
+                  "category": "museum",
+                  "coords": [
+                        7.729312,
+                        63.119337
+                  ]
+            },
+            {
+                  "name": "Fugløya naturreservat",
+                  "text": "A nature reserve near Kristiansund, known for its bird life.",
+                  "category": "natural",
+                  "coords": [
+                        7.77005,
+                        63.094851
+                  ]
+            },
+            {
+                  "name": "Skjerva",
+                  "text": "A popular beach and swimming area located in Kristiansund.",
+                  "category": "recreational",
+                  "coords": [
+                        7.730423,
+                        63.101713
+                  ]
+            },
+            {
+                  "name": "Kristiansund Nord kystfort",
+                  "text": "A former coastal fortress located in the northern part of Kristiansund.",
+                  "category": "fortress",
+                  "coords": [
+                        7.708743,
+                        63.127477
+                  ]
+            },
+            {
+                  "name": "Innlandet kystfort",
+                  "text": "A historic coastal fortification in the Innlandet district of Kristiansund.",
+                  "category": "fortress",
+                  "coords": [
+                        7.725156,
+                        63.103737
+                  ]
+            },
+            {
+                  "name": "Nordmøre museum",
+                  "text": "The regional museum for the Nordmøre region, located in Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.731098,
+                        63.109072
+                  ]
+            },
+            {
+                  "name": "Kristiansund museum, friluftsavdelingen",
+                  "text": "The open-air department of the Kristiansund Museum featuring historical buildings.",
+                  "category": "museum",
+                  "coords": [
+                        7.733259,
+                        63.124548
+                  ]
+            },
+            {
+                  "name": "Kulturfabrikken",
+                  "text": "A cultural center and performance venue in Kristiansund.",
+                  "category": "cultural",
+                  "coords": [
+                        7.732227,
+                        63.117202
+                  ]
+            },
+            {
+                  "name": "Handelshuset Patrick Volckmar",
+                  "text": "A historic trading house and museum in Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.729897,
+                        63.121828
+                  ]
+            },
+            {
+                  "name": "Brunsvikens reperbane",
+                  "text": "A historical ropewalk in Kristiansund that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        7.713984,
+                        63.121915
+                  ]
+            },
+            {
+                  "name": "Bremsnesfjorden",
+                  "text": "A fjord near Kristiansund that separates the city from the surrounding areas.",
+                  "category": "landmark",
+                  "coords": [
+                        7.708111,
+                        63.065725
+                  ]
+            },
+            {
+                  "name": "Bautaen",
+                  "text": "A memorial stone or monolith located within Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.740947,
+                        63.105683
+                  ]
+            },
+            {
+                  "name": "Bjønnahaugen",
+                  "text": "A viewpoint in Kristiansund overlooking the harbor and the city.",
+                  "category": "natural",
+                  "coords": [
+                        7.748602,
+                        63.11242
+                  ]
+            },
+            {
+                  "name": "Nordic Light Fotohus",
+                  "text": "A photography center and gallery located in Kristiansund.",
+                  "category": "museum",
+                  "coords": [
+                        7.729281,
+                        63.109494
+                  ]
+            },
+            {
+                  "name": "Minebøssa",
+                  "text": "A former naval mine in Kristiansund that serves as a monument.",
+                  "category": "historical",
+                  "coords": [
+                        7.733659,
+                        63.111556
+                  ]
+            },
+            {
+                  "name": "Kongesteinen",
+                  "text": "A memorial stone in Kristiansund commemorating a royal visit.",
+                  "category": "historical",
+                  "coords": [
+                        7.726028,
+                        63.111964
+                  ]
+            },
+            {
+                  "name": "Bræinlunden",
+                  "text": "A monument or memorial site located in the city of Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.725009,
+                        63.111305
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Ingeborg Ellingsæter",
+                  "text": "A monument dedicated to Ingeborg Ellingsæter in Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.738853,
+                        63.084194
+                  ]
+            },
+            {
+                  "name": "Minnesmerke over Kristen Fostervold",
+                  "text": "A monument in honor of Kristen Fostervold in Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.76921,
+                        63.11128
+                  ]
+            },
+            {
+                  "name": "Arnulf Øverlands Galleri",
+                  "text": "An art gallery in Kristiansund named after the poet Arnulf Øverland.",
+                  "category": "museum",
+                  "coords": [
+                        7.73639,
+                        63.107737
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "A viewpoint in Kristiansund offering views over the sea.",
+                  "category": "natural",
+                  "coords": [
+                        7.712484,
+                        63.113099
+                  ]
+            },
+            {
+                  "name": "Radarbunker",
+                  "text": "The ruins of a radar bunker from World War II located in Kristiansund.",
+                  "category": "historical",
+                  "coords": [
+                        7.69743,
+                        63.114728
+                  ]
+            },
+            {
+                  "name": "Nerparken",
+                  "text": "A green space and recreational area in the city center of Kristiansund.",
+                  "category": "landmark",
+                  "coords": [
+                        7.726782,
+                        63.110953
+                  ]
+            },
+            {
+                  "name": "Nordlandet kirke",
+                  "text": "A distinctive stone church located in the Nordlandet district of Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.747817,
+                        63.109171
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kirke",
+                  "text": "A modern church in Kristiansund, known for its bold architecture.",
+                  "category": "religious",
+                  "coords": [
+                        7.725663,
+                        63.11463
+                  ]
+            },
+            {
+                  "name": "Kirkelandet kapell",
+                  "text": "A chapel located on the island of Kirkelandet in Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.708083,
+                        63.117048
+                  ]
+            },
+            {
+                  "name": "St. Eystein kirke",
+                  "text": "The Catholic St. Eystein Church located in Kristiansund.",
+                  "category": "religious",
+                  "coords": [
+                        7.726649,
+                        63.117356
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kristiansund", hu: "Kristiansund", ro: "Kristiansund", en: "Kristiansund" },
@@ -453,7 +4755,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-kristiansund-cities-v2.webp",
   },
   {
-    id: "norway-eidsvoll-cities-v2",
+    id: "norway-eidsvoll-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eidsvoll kirke",
+                  "text": "Eine historische Kirche in Eidsvoll.",
+                  "category": "religious",
+                  "coords": [
+                        11.24423,
+                        60.32341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eidsvoll kirke",
+                  "text": "Történelmi templom Eidsvollban.",
+                  "category": "religious",
+                  "coords": [
+                        11.24423,
+                        60.32341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eidsvoll kirke",
+                  "text": "O biserică istorică în Eidsvoll.",
+                  "category": "religious",
+                  "coords": [
+                        11.24423,
+                        60.32341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eidsvoll kirke",
+                  "text": "A historic church located in Eidsvoll.",
+                  "category": "religious",
+                  "coords": [
+                        11.24423,
+                        60.32341
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Eidsvoll", hu: "Eidsvoll", ro: "Eidsvoll", en: "Eidsvoll" },
@@ -498,7 +4845,628 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-eidsvoll-cities-v2.webp",
   },
   {
-    id: "norway-horten-cities-v2",
+    id: "norway-horten-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marinemuseet",
+                  "text": "Dieses Museum in Horten zeigt die Geschichte der königlichen norwegischen Marine.",
+                  "category": "museum",
+                  "coords": [
+                        10.486802,
+                        59.42543
+                  ]
+            },
+            {
+                  "name": "Borrehaugene",
+                  "text": "Eine archäologische Stätte in Horten mit beeindruckenden Grabhügeln aus der Wikingerzeit.",
+                  "category": "historical",
+                  "coords": [
+                        10.471334,
+                        59.383395
+                  ]
+            },
+            {
+                  "name": "Borrevannet naturreservat",
+                  "text": "Ein Naturschutzgebiet um den See Borrevannet, bekannt für seine vielfältige Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        10.435797,
+                        59.411936
+                  ]
+            },
+            {
+                  "name": "Bueskjær biotopvernområde",
+                  "text": "Ein geschütztes Meeresbiotop bei Horten zur Erhaltung der lokalen Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        10.460906,
+                        59.435162
+                  ]
+            },
+            {
+                  "name": "Rørestrand",
+                  "text": "Ein beliebter Strand in Horten, der Erholung am Oslofjord bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.481577,
+                        59.396267
+                  ]
+            },
+            {
+                  "name": "Vollane",
+                  "text": "Ein Küstenabschnitt in Horten, der für Freizeitaktivitäten und Baden genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Horten bilmuseum",
+                  "text": "Ein Museum in Horten, das eine Sammlung historischer Kraftfahrzeuge präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        10.4806,
+                        59.405631
+                  ]
+            },
+            {
+                  "name": "Lokalhistorisk senter",
+                  "text": "Ein Zentrum für Lokalgeschichte in Horten, das das kulturelle Erbe der Stadt bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        10.487886,
+                        59.423928
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "Ein beliebter Badestrand in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "Ein Küstenabschnitt mit Bademöglichkeiten in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.494056,
+                        59.432417
+                  ]
+            },
+            {
+                  "name": "Tordenskioldeika",
+                  "text": "Eine historische Eiche in Horten, die als Naturdenkmal gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        10.454156,
+                        59.432596
+                  ]
+            },
+            {
+                  "name": "Brårudåsen batteri",
+                  "text": "Ein Aussichtspunkt auf einer ehemaligen Verteidigungsanlage in Horten.",
+                  "category": "natural",
+                  "coords": [
+                        10.464759,
+                        59.417287
+                  ]
+            },
+            {
+                  "name": "Gildehallen",
+                  "text": "Ein rekonstruiertes Langhaus aus der Wikingerzeit in Horten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469891,
+                        59.387373
+                  ]
+            },
+            {
+                  "name": "Horten kirke",
+                  "text": "Eine evangelische Kirche in der Stadt Horten.",
+                  "category": "religious",
+                  "coords": [
+                        10.490224,
+                        59.426873
+                  ]
+            },
+            {
+                  "name": "Sentrumskirken",
+                  "text": "Eine moderne Kirche im Zentrum von Horten.",
+                  "category": "religious",
+                  "coords": [
+                        10.47736,
+                        59.411736
+                  ]
+            },
+            {
+                  "name": "KNM Utstein",
+                  "text": "Ein historisches U-Boot, das als Museumsschiff in Horten besichtigt werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        10.487913,
+                        59.42578
+                  ]
+            },
+            {
+                  "name": "KNM Narvik",
+                  "text": "Eine ausgemusterte Fregatte, die heute in Horten als Museum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        10.485174,
+                        59.424976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marinemuseet",
+                  "text": "Ez a horteni múzeum a Norvég Királyi Haditengerészet történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.486802,
+                        59.42543
+                  ]
+            },
+            {
+                  "name": "Borrehaugene",
+                  "text": "Régészeti lelőhely Hortenben, lenyűgöző viking kori sírhalmokkal.",
+                  "category": "historical",
+                  "coords": [
+                        10.471334,
+                        59.383395
+                  ]
+            },
+            {
+                  "name": "Borrevannet naturreservat",
+                  "text": "Természetvédelmi terület a Borrevannet-tó körül, amely változatos madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        10.435797,
+                        59.411936
+                  ]
+            },
+            {
+                  "name": "Bueskjær biotopvernområde",
+                  "text": "Védett tengeri biotóp Horten közelében a helyi biodiverzitás megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        10.460906,
+                        59.435162
+                  ]
+            },
+            {
+                  "name": "Rørestrand",
+                  "text": "Népszerű strand Hortenben, amely kikapcsolódást kínál az Oslo-fjord partján.",
+                  "category": "recreational",
+                  "coords": [
+                        10.481577,
+                        59.396267
+                  ]
+            },
+            {
+                  "name": "Vollane",
+                  "text": "Tengerparti szakasz Hortenben, amelyet szabadidős tevékenységekre és fürdésre használnak.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Horten bilmuseum",
+                  "text": "Múzeum Hortenben, amely veterán gépjárművek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.4806,
+                        59.405631
+                  ]
+            },
+            {
+                  "name": "Lokalhistorisk senter",
+                  "text": "Helytörténeti központ Hortenben, amely a város kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        10.487886,
+                        59.423928
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "Népszerű strand Horten városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "Tengerparti terület fürdési lehetőséggel Hortenben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.494056,
+                        59.432417
+                  ]
+            },
+            {
+                  "name": "Tordenskioldeika",
+                  "text": "Történelmi tölgyfa Hortenben, amely természeti emlék.",
+                  "category": "landmark",
+                  "coords": [
+                        10.454156,
+                        59.432596
+                  ]
+            },
+            {
+                  "name": "Brårudåsen batteri",
+                  "text": "Kilátópont egy egykori védművön Hortenben.",
+                  "category": "natural",
+                  "coords": [
+                        10.464759,
+                        59.417287
+                  ]
+            },
+            {
+                  "name": "Gildehallen",
+                  "text": "Rekonstruált viking kori hosszúház Hortenben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469891,
+                        59.387373
+                  ]
+            },
+            {
+                  "name": "Horten kirke",
+                  "text": "Evangélikus templom Horten városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.490224,
+                        59.426873
+                  ]
+            },
+            {
+                  "name": "Sentrumskirken",
+                  "text": "Modern templom Horten központjában.",
+                  "category": "religious",
+                  "coords": [
+                        10.47736,
+                        59.411736
+                  ]
+            },
+            {
+                  "name": "KNM Utstein",
+                  "text": "Történelmi tengeralattjáró, amely múzeumhajóként látogatható Hortenben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.487913,
+                        59.42578
+                  ]
+            },
+            {
+                  "name": "KNM Narvik",
+                  "text": "Kivont fregatt, amely ma múzeumként szolgál Hortenben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.485174,
+                        59.424976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marinemuseet",
+                  "text": "Acest muzeu din Horten prezintă istoria Marinei Regale Norvegiene.",
+                  "category": "museum",
+                  "coords": [
+                        10.486802,
+                        59.42543
+                  ]
+            },
+            {
+                  "name": "Borrehaugene",
+                  "text": "Un sit arheologic în Horten cu tumuli impresionanți din epoca vikingă.",
+                  "category": "historical",
+                  "coords": [
+                        10.471334,
+                        59.383395
+                  ]
+            },
+            {
+                  "name": "Borrevannet naturreservat",
+                  "text": "O rezervație naturală în jurul lacului Borrevannet, cunoscută pentru diversitatea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        10.435797,
+                        59.411936
+                  ]
+            },
+            {
+                  "name": "Bueskjær biotopvernområde",
+                  "text": "Un biotop marin protejat lângă Horten pentru conservarea biodiversității locale.",
+                  "category": "natural",
+                  "coords": [
+                        10.460906,
+                        59.435162
+                  ]
+            },
+            {
+                  "name": "Rørestrand",
+                  "text": "O plajă populară în Horten, oferind recreere pe malul fiordului Oslo.",
+                  "category": "recreational",
+                  "coords": [
+                        10.481577,
+                        59.396267
+                  ]
+            },
+            {
+                  "name": "Vollane",
+                  "text": "O porțiune de coastă în Horten, utilizată pentru activități recreative și scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Horten bilmuseum",
+                  "text": "Un muzeu din Horten care prezintă o colecție de autovehicule istorice.",
+                  "category": "museum",
+                  "coords": [
+                        10.4806,
+                        59.405631
+                  ]
+            },
+            {
+                  "name": "Lokalhistorisk senter",
+                  "text": "Un centru de istorie locală în Horten, care păstrează moștenirea culturală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        10.487886,
+                        59.423928
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "O plajă populară în Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "O zonă de coastă cu posibilități de scăldat în Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.494056,
+                        59.432417
+                  ]
+            },
+            {
+                  "name": "Tordenskioldeika",
+                  "text": "Un stejar istoric în Horten, considerat monument al naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        10.454156,
+                        59.432596
+                  ]
+            },
+            {
+                  "name": "Brårudåsen batteri",
+                  "text": "Un punct de belvedere pe o fostă fortificație din Horten.",
+                  "category": "natural",
+                  "coords": [
+                        10.464759,
+                        59.417287
+                  ]
+            },
+            {
+                  "name": "Gildehallen",
+                  "text": "O casă lungă reconstruită din epoca vikingă în Horten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469891,
+                        59.387373
+                  ]
+            },
+            {
+                  "name": "Horten kirke",
+                  "text": "O biserică evanghelică în orașul Horten.",
+                  "category": "religious",
+                  "coords": [
+                        10.490224,
+                        59.426873
+                  ]
+            },
+            {
+                  "name": "Sentrumskirken",
+                  "text": "O biserică modernă în centrul orașului Horten.",
+                  "category": "religious",
+                  "coords": [
+                        10.47736,
+                        59.411736
+                  ]
+            },
+            {
+                  "name": "KNM Utstein",
+                  "text": "Un submarin istoric care poate fi vizitat ca navă-muzeu în Horten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.487913,
+                        59.42578
+                  ]
+            },
+            {
+                  "name": "KNM Narvik",
+                  "text": "O fregată scoasă din uz, care astăzi servește ca muzeu în Horten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.485174,
+                        59.424976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Norwegian Navy Museum",
+                  "text": "This museum in Horten showcases the history of the Royal Norwegian Navy.",
+                  "category": "museum",
+                  "coords": [
+                        10.486802,
+                        59.42543
+                  ]
+            },
+            {
+                  "name": "Borrehaugene",
+                  "text": "An archaeological site in Horten featuring impressive Viking Age burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        10.471334,
+                        59.383395
+                  ]
+            },
+            {
+                  "name": "Borrevannet naturreservat",
+                  "text": "A nature reserve around Lake Borrevannet, known for its diverse birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        10.435797,
+                        59.411936
+                  ]
+            },
+            {
+                  "name": "Bueskjær biotopvernområde",
+                  "text": "A protected marine biotope near Horten for the preservation of local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        10.460906,
+                        59.435162
+                  ]
+            },
+            {
+                  "name": "Rørestrand",
+                  "text": "A popular beach in Horten offering recreation along the Oslofjord.",
+                  "category": "recreational",
+                  "coords": [
+                        10.481577,
+                        59.396267
+                  ]
+            },
+            {
+                  "name": "Vollane",
+                  "text": "A coastal stretch in Horten used for leisure activities and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        10.49408,
+                        59.426523
+                  ]
+            },
+            {
+                  "name": "Horten bilmuseum",
+                  "text": "A museum in Horten presenting a collection of historic motor vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        10.4806,
+                        59.405631
+                  ]
+            },
+            {
+                  "name": "Lokalhistorisk senter",
+                  "text": "A local history center in Horten preserving the city's cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        10.487886,
+                        59.423928
+                  ]
+            },
+            {
+                  "name": "Tivolistranda",
+                  "text": "A popular swimming beach in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.495447,
+                        59.42548
+                  ]
+            },
+            {
+                  "name": "Møringa",
+                  "text": "A coastal area with swimming opportunities in Horten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.494056,
+                        59.432417
+                  ]
+            },
+            {
+                  "name": "Tordenskioldeika",
+                  "text": "A historic oak tree in Horten, regarded as a natural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        10.454156,
+                        59.432596
+                  ]
+            },
+            {
+                  "name": "Brårudåsen batteri",
+                  "text": "A viewpoint located on a former defense site in Horten.",
+                  "category": "natural",
+                  "coords": [
+                        10.464759,
+                        59.417287
+                  ]
+            },
+            {
+                  "name": "Gildehallen",
+                  "text": "A reconstructed Viking-era longhouse in Horten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.469891,
+                        59.387373
+                  ]
+            },
+            {
+                  "name": "Horten kirke",
+                  "text": "An evangelical church in the town of Horten.",
+                  "category": "religious",
+                  "coords": [
+                        10.490224,
+                        59.426873
+                  ]
+            },
+            {
+                  "name": "Sentrumskirken",
+                  "text": "A modern church in the center of Horten.",
+                  "category": "religious",
+                  "coords": [
+                        10.47736,
+                        59.411736
+                  ]
+            },
+            {
+                  "name": "KNM Utstein",
+                  "text": "A historic submarine preserved as a museum ship in Horten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.487913,
+                        59.42578
+                  ]
+            },
+            {
+                  "name": "KNM Narvik",
+                  "text": "A decommissioned frigate that now serves as a museum in Horten.",
+                  "category": "landmark",
+                  "coords": [
+                        10.485174,
+                        59.424976
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Horten", hu: "Horten", ro: "Horten", en: "Horten" },
@@ -543,7 +5511,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-horten-cities-v2.webp",
   },
   {
-    id: "norway-skedsmokorset-cities-v2",
+    id: "norway-skedsmokorset-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skedsmo bygdemuseum",
+                  "text": "Ein Heimatmuseum in Skedsmokorset, das die lokale Geschichte beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        11.034415,
+                        60.001196
+                  ]
+            },
+            {
+                  "name": "Skedsmo kirke",
+                  "text": "Eine historische Steinkirche in Skedsmokorset mit mittelalterlichen Ursprüngen.",
+                  "category": "religious",
+                  "coords": [
+                        11.045244,
+                        59.993732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skedsmo bygdemuseum",
+                  "text": "Skedsmokorset helytörténeti múzeuma, amely a helyi múltat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.034415,
+                        60.001196
+                  ]
+            },
+            {
+                  "name": "Skedsmo kirke",
+                  "text": "Történelmi kőtemplom Skedsmokorsetben, középkori eredettel.",
+                  "category": "religious",
+                  "coords": [
+                        11.045244,
+                        59.993732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skedsmo bygdemuseum",
+                  "text": "Un muzeu local în Skedsmokorset, care prezintă istoria zonei.",
+                  "category": "museum",
+                  "coords": [
+                        11.034415,
+                        60.001196
+                  ]
+            },
+            {
+                  "name": "Skedsmo kirke",
+                  "text": "O biserică de piatră istorică în Skedsmokorset, cu origini medievale.",
+                  "category": "religious",
+                  "coords": [
+                        11.045244,
+                        59.993732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skedsmo bygdemuseum",
+                  "text": "A local history museum in Skedsmokorset showcasing the area's past.",
+                  "category": "museum",
+                  "coords": [
+                        11.034415,
+                        60.001196
+                  ]
+            },
+            {
+                  "name": "Skedsmo kirke",
+                  "text": "A historic stone church in Skedsmokorset with medieval origins.",
+                  "category": "religious",
+                  "coords": [
+                        11.045244,
+                        59.993732
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Skedsmokorset", hu: "Skedsmokorset", ro: "Skedsmokorset", en: "Skedsmokorset" },
@@ -588,7 +5637,232 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-skedsmokorset-cities-v2.webp",
   },
   {
-    id: "norway-lillestrom-cities-v2",
+    id: "norway-lillestrom-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lillestrøm kultursenter",
+                  "text": "Kulturzentrum und Theater in Lillestrøm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.04349,
+                        59.95533
+                  ]
+            },
+            {
+                  "name": "Nebbursvollen Friluftsbad",
+                  "text": "Ein beliebtes Freibad und Wasserpark in Lillestrøm.",
+                  "category": "recreational",
+                  "coords": [
+                        11.02805,
+                        59.967217
+                  ]
+            },
+            {
+                  "name": "Museumsfabrikken Strømmen",
+                  "text": "Ein Museum in einer ehemaligen Fabrik in Lillestrøm.",
+                  "category": "museum",
+                  "coords": [
+                        11.01186,
+                        59.948455
+                  ]
+            },
+            {
+                  "name": "Lillestrøm kirke",
+                  "text": "Die Hauptkirche von Lillestrøm.",
+                  "category": "religious",
+                  "coords": [
+                        11.048293,
+                        59.958607
+                  ]
+            },
+            {
+                  "name": "Lillestrømbrua",
+                  "text": "Eine Brücke über den Fluss in Lillestrøm.",
+                  "category": "landmark",
+                  "coords": [
+                        11.045344,
+                        59.949928
+                  ]
+            },
+            {
+                  "name": "Strømmen kirke",
+                  "text": "Eine Kirche im Stadtteil Strømmen von Lillestrøm.",
+                  "category": "religious",
+                  "coords": [
+                        11.015102,
+                        59.95263
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lillestrøm kultursenter",
+                  "text": "Kulturális központ és színház Lillestrømben.",
+                  "category": "cultural",
+                  "coords": [
+                        11.04349,
+                        59.95533
+                  ]
+            },
+            {
+                  "name": "Nebbursvollen Friluftsbad",
+                  "text": "Népszerű szabadtéri strand és vízi park Lillestrømben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.02805,
+                        59.967217
+                  ]
+            },
+            {
+                  "name": "Museumsfabrikken Strømmen",
+                  "text": "Múzeum egy egykori gyárépületben Lillestrømben.",
+                  "category": "museum",
+                  "coords": [
+                        11.01186,
+                        59.948455
+                  ]
+            },
+            {
+                  "name": "Lillestrøm kirke",
+                  "text": "Lillestrøm főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.048293,
+                        59.958607
+                  ]
+            },
+            {
+                  "name": "Lillestrømbrua",
+                  "text": "Híd a folyó felett Lillestrømben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.045344,
+                        59.949928
+                  ]
+            },
+            {
+                  "name": "Strømmen kirke",
+                  "text": "Templom Lillestrøm Strømmen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        11.015102,
+                        59.95263
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lillestrøm kultursenter",
+                  "text": "Centru cultural și teatru în Lillestrøm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.04349,
+                        59.95533
+                  ]
+            },
+            {
+                  "name": "Nebbursvollen Friluftsbad",
+                  "text": "Un ștrand în aer liber și parc acvatic în Lillestrøm.",
+                  "category": "recreational",
+                  "coords": [
+                        11.02805,
+                        59.967217
+                  ]
+            },
+            {
+                  "name": "Museumsfabrikken Strømmen",
+                  "text": "Un muzeu situat într-o fostă fabrică din Lillestrøm.",
+                  "category": "museum",
+                  "coords": [
+                        11.01186,
+                        59.948455
+                  ]
+            },
+            {
+                  "name": "Lillestrøm kirke",
+                  "text": "Biserica principală din Lillestrøm.",
+                  "category": "religious",
+                  "coords": [
+                        11.048293,
+                        59.958607
+                  ]
+            },
+            {
+                  "name": "Lillestrømbrua",
+                  "text": "Un pod peste râu în Lillestrøm.",
+                  "category": "landmark",
+                  "coords": [
+                        11.045344,
+                        59.949928
+                  ]
+            },
+            {
+                  "name": "Strømmen kirke",
+                  "text": "O biserică în cartierul Strømmen din Lillestrøm.",
+                  "category": "religious",
+                  "coords": [
+                        11.015102,
+                        59.95263
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lillestrøm kultursenter",
+                  "text": "Cultural center and theatre in Lillestrøm.",
+                  "category": "cultural",
+                  "coords": [
+                        11.04349,
+                        59.95533
+                  ]
+            },
+            {
+                  "name": "Nebbursvollen Friluftsbad",
+                  "text": "A popular outdoor swimming pool and water park in Lillestrøm.",
+                  "category": "recreational",
+                  "coords": [
+                        11.02805,
+                        59.967217
+                  ]
+            },
+            {
+                  "name": "Museumsfabrikken Strømmen",
+                  "text": "A museum housed in a former factory in Lillestrøm.",
+                  "category": "museum",
+                  "coords": [
+                        11.01186,
+                        59.948455
+                  ]
+            },
+            {
+                  "name": "Lillestrøm kirke",
+                  "text": "The main church of Lillestrøm.",
+                  "category": "religious",
+                  "coords": [
+                        11.048293,
+                        59.958607
+                  ]
+            },
+            {
+                  "name": "Lillestrømbrua",
+                  "text": "A bridge crossing the river in Lillestrøm.",
+                  "category": "landmark",
+                  "coords": [
+                        11.045344,
+                        59.949928
+                  ]
+            },
+            {
+                  "name": "Strømmen kirke",
+                  "text": "A church in the Strømmen district of Lillestrøm.",
+                  "category": "religious",
+                  "coords": [
+                        11.015102,
+                        59.95263
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Lillestrøm", hu: "Lillestrøm", ro: "Lillestrøm", en: "Lillestrøm" },
@@ -633,7 +5907,484 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-lillestrom-cities-v2.webp",
   },
   {
-    id: "norway-gjøvik-cities-v2",
+    id: "norway-gjøvik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eiktunet",
+                  "text": "Ein Freilichtmuseum in Gjøvik, das regionale Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "Ein historisches Gebäude und Museum im Zentrum von Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "Ein Industriemuseum in Gjøvik, das der Geschichte der Firma Mustad gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "Ein historisches Herrenhaus und Museum in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "Ein interaktives Wissenschaftszentrum für Besucher in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "Ein bewaldeter Gipfel nahe Gjøvik mit Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über Gjøvik bietet.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "Die Hauptkirche der Stadt Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "Eine Brücke in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "Eine lokale Brückenkonstruktion in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "Eine moderne Kirche im Stadtteil Hunn in Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "Eine im 20. Jahrhundert erbaut Kirche in Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "Ein Badeplatz am Ufer des Mjøsa-Sees in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eiktunet",
+                  "text": "Szabadtéri múzeum Gjøvikben, amely a regionális történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "Történelmi épület és múzeum Gjøvik központjában.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "Ipari múzeum Gjøvikben, amely a Mustad cég történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "Történelmi udvarház és múzeum Gjøvikben.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "Interaktív tudományos központ látogatók számára Gjøvikben.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "Erdős hegycsúcs Gjøvik közelében túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "Kilátópont, amely széles kilátást nyújt Gjøvikre.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "Gjøvik városának főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "Egy híd Gjøvikben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "Helyi híd Gjøvikben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "Modern templom Gjøvik Hunn negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "A 20. században épült templom Gjøvikben.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "Fürdőhely a Mjøsa-tó partján Gjøvikben.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eiktunet",
+                  "text": "Un muzeu în aer liber din Gjøvik, care prezintă istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "O clădire istorică și muzeu în centrul orașului Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "Un muzeu industrial din Gjøvik, dedicat istoriei companiei Mustad.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "Un conac istoric și muzeu în Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "Un centru științific interactiv pentru vizitatori în Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "Un vârf împădurit lângă Gjøvik, cu trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "Un punct de belvedere care oferă o priveliște largă asupra orașului Gjøvik.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "Biserica principală a orașului Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "Un pod în Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "O construcție locală de pod în Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "O biserică modernă în cartierul Hunn din Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "O biserică construită în secolul al XX-lea în Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "Un loc de scăldat pe malul lacului Mjøsa în Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eiktunet",
+                  "text": "An open-air museum in Gjøvik showcasing regional history.",
+                  "category": "museum",
+                  "coords": [
+                        10.64557,
+                        60.805482
+                  ]
+            },
+            {
+                  "name": "Kauffeldtgården",
+                  "text": "A historic building and museum in the center of Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691935,
+                        60.795277
+                  ]
+            },
+            {
+                  "name": "Mustad Bedriftsmuseum",
+                  "text": "An industrial museum in Gjøvik dedicated to the history of the Mustad company.",
+                  "category": "museum",
+                  "coords": [
+                        10.673649,
+                        60.789605
+                  ]
+            },
+            {
+                  "name": "Gjøvik gård",
+                  "text": "A historic manor house and museum in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.691703,
+                        60.793187
+                  ]
+            },
+            {
+                  "name": "Vitensenteret Innlandet",
+                  "text": "An interactive science center for visitors in Gjøvik.",
+                  "category": "museum",
+                  "coords": [
+                        10.688956,
+                        60.792838
+                  ]
+            },
+            {
+                  "name": "Hovdetoppen",
+                  "text": "A forested peak near Gjøvik with hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        10.676675,
+                        60.794061
+                  ]
+            },
+            {
+                  "name": "Bergstoppen",
+                  "text": "A viewpoint offering a wide vista over Gjøvik.",
+                  "category": "natural",
+                  "coords": [
+                        10.64451,
+                        60.810593
+                  ]
+            },
+            {
+                  "name": "Gjøvik kirke",
+                  "text": "The main church of the city of Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.687758,
+                        60.798041
+                  ]
+            },
+            {
+                  "name": "Kallerud bru",
+                  "text": "A bridge located in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.668261,
+                        60.787373
+                  ]
+            },
+            {
+                  "name": "Engbrua",
+                  "text": "A local bridge structure in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.666681,
+                        60.788589
+                  ]
+            },
+            {
+                  "name": "Hunn kirke",
+                  "text": "A modern church in the Hunn district of Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.65681,
+                        60.793895
+                  ]
+            },
+            {
+                  "name": "Engehaugen kirke",
+                  "text": "A church built in the 20th century in Gjøvik.",
+                  "category": "religious",
+                  "coords": [
+                        10.669387,
+                        60.773812
+                  ]
+            },
+            {
+                  "name": "Rambekkvika",
+                  "text": "A bathing area on the shores of Lake Mjøsa in Gjøvik.",
+                  "category": "landmark",
+                  "coords": [
+                        10.703102,
+                        60.781829
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Gjøvik", hu: "Gjøvik", ro: "Gjøvik", en: "Gjøvik" },
@@ -768,7 +6519,376 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-stjordal-cities-v2.webp",
   },
   {
-    id: "norway-steinkjer-cities-v2",
+    id: "norway-steinkjer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lundleiret fuglefredningsområde",
+                  "text": "Ein geschütztes Naturgebiet für Vögel in Steinkjer.",
+                  "category": "natural",
+                  "coords": [
+                        11.421721,
+                        64.021403
+                  ]
+            },
+            {
+                  "name": "Våttåbakken",
+                  "text": "Eine archäologische Fundstätte mit antiken Denkmälern in Steinkjer.",
+                  "category": "historical",
+                  "coords": [
+                        11.495693,
+                        64.023178
+                  ]
+            },
+            {
+                  "name": "Egge museum",
+                  "text": "Ein Regionalmuseum in Steinkjer, das sich mit Kulturgeschichte befasst.",
+                  "category": "museum",
+                  "coords": [
+                        11.465539,
+                        64.022291
+                  ]
+            },
+            {
+                  "name": "Østbysaga",
+                  "text": "Ein kleines Museum in Steinkjer.",
+                  "category": "museum",
+                  "coords": [
+                        11.476716,
+                        64.036097
+                  ]
+            },
+            {
+                  "name": "Dampsaga Bad og Gym",
+                  "text": "Ein Sport- und Freizeitbad in Steinkjer.",
+                  "category": "recreational",
+                  "coords": [
+                        11.488758,
+                        64.017572
+                  ]
+            },
+            {
+                  "name": "Oftenåsen",
+                  "text": "Ein beliebter Hügel und Aussichtspunkt in Steinkjer.",
+                  "category": "natural",
+                  "coords": [
+                        11.53103,
+                        63.993584
+                  ]
+            },
+            {
+                  "name": "Fylkesmannsgården",
+                  "text": "Ein historisches Herrenhaus in Steinkjer.",
+                  "category": "historical",
+                  "coords": [
+                        11.47887,
+                        64.024589
+                  ]
+            },
+            {
+                  "name": "Gammelstien",
+                  "text": "Ein historischer Pfad oder eine Attraktion in Steinkjer.",
+                  "category": "landmark",
+                  "coords": [
+                        11.528607,
+                        63.992097
+                  ]
+            },
+            {
+                  "name": "Egge kirke",
+                  "text": "Eine traditionelle Steinkirche in Steinkjer.",
+                  "category": "religious",
+                  "coords": [
+                        11.474777,
+                        64.023348
+                  ]
+            },
+            {
+                  "name": "Steinkjer kirke",
+                  "text": "Die moderne Hauptkirche von Steinkjer.",
+                  "category": "religious",
+                  "coords": [
+                        11.49409,
+                        64.014901
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lundleiret fuglefredningsområde",
+                  "text": "Védett természeti terület madarak számára Steinkjerben.",
+                  "category": "natural",
+                  "coords": [
+                        11.421721,
+                        64.021403
+                  ]
+            },
+            {
+                  "name": "Våttåbakken",
+                  "text": "Régészeti lelőhely ősi műemlékekkel Steinkjerben.",
+                  "category": "historical",
+                  "coords": [
+                        11.495693,
+                        64.023178
+                  ]
+            },
+            {
+                  "name": "Egge museum",
+                  "text": "Regionális múzeum Steinkjerben, amely kultúrtörténettel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        11.465539,
+                        64.022291
+                  ]
+            },
+            {
+                  "name": "Østbysaga",
+                  "text": "Kisméretű múzeum Steinkjerben.",
+                  "category": "museum",
+                  "coords": [
+                        11.476716,
+                        64.036097
+                  ]
+            },
+            {
+                  "name": "Dampsaga Bad og Gym",
+                  "text": "Sport- és szabadidős fürdő Steinkjerben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.488758,
+                        64.017572
+                  ]
+            },
+            {
+                  "name": "Oftenåsen",
+                  "text": "Népszerű domb és kilátópont Steinkjerben.",
+                  "category": "natural",
+                  "coords": [
+                        11.53103,
+                        63.993584
+                  ]
+            },
+            {
+                  "name": "Fylkesmannsgården",
+                  "text": "Történelmi udvarház Steinkjerben.",
+                  "category": "historical",
+                  "coords": [
+                        11.47887,
+                        64.024589
+                  ]
+            },
+            {
+                  "name": "Gammelstien",
+                  "text": "Történelmi ösvény vagy látnivaló Steinkjerben.",
+                  "category": "landmark",
+                  "coords": [
+                        11.528607,
+                        63.992097
+                  ]
+            },
+            {
+                  "name": "Egge kirke",
+                  "text": "Hagyományos kőtemplom Steinkjerben.",
+                  "category": "religious",
+                  "coords": [
+                        11.474777,
+                        64.023348
+                  ]
+            },
+            {
+                  "name": "Steinkjer kirke",
+                  "text": "Steinkjer modern főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.49409,
+                        64.014901
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lundleiret fuglefredningsområde",
+                  "text": "O zonă naturală protejată pentru păsări în Steinkjer.",
+                  "category": "natural",
+                  "coords": [
+                        11.421721,
+                        64.021403
+                  ]
+            },
+            {
+                  "name": "Våttåbakken",
+                  "text": "Un sit arheologic cu monumente antice în Steinkjer.",
+                  "category": "historical",
+                  "coords": [
+                        11.495693,
+                        64.023178
+                  ]
+            },
+            {
+                  "name": "Egge museum",
+                  "text": "Un muzeu regional din Steinkjer, care se ocupă de istoria culturală.",
+                  "category": "museum",
+                  "coords": [
+                        11.465539,
+                        64.022291
+                  ]
+            },
+            {
+                  "name": "Østbysaga",
+                  "text": "Un mic muzeu în Steinkjer.",
+                  "category": "museum",
+                  "coords": [
+                        11.476716,
+                        64.036097
+                  ]
+            },
+            {
+                  "name": "Dampsaga Bad og Gym",
+                  "text": "Un parc acvatic și centru de fitness în Steinkjer.",
+                  "category": "recreational",
+                  "coords": [
+                        11.488758,
+                        64.017572
+                  ]
+            },
+            {
+                  "name": "Oftenåsen",
+                  "text": "Un deal popular și punct de belvedere în Steinkjer.",
+                  "category": "natural",
+                  "coords": [
+                        11.53103,
+                        63.993584
+                  ]
+            },
+            {
+                  "name": "Fylkesmannsgården",
+                  "text": "Un conac istoric în Steinkjer.",
+                  "category": "historical",
+                  "coords": [
+                        11.47887,
+                        64.024589
+                  ]
+            },
+            {
+                  "name": "Gammelstien",
+                  "text": "O potecă istorică sau atracție în Steinkjer.",
+                  "category": "landmark",
+                  "coords": [
+                        11.528607,
+                        63.992097
+                  ]
+            },
+            {
+                  "name": "Egge kirke",
+                  "text": "O biserică tradițională de piatră în Steinkjer.",
+                  "category": "religious",
+                  "coords": [
+                        11.474777,
+                        64.023348
+                  ]
+            },
+            {
+                  "name": "Steinkjer kirke",
+                  "text": "Biserica principală modernă din Steinkjer.",
+                  "category": "religious",
+                  "coords": [
+                        11.49409,
+                        64.014901
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lundleiret fuglefredningsområde",
+                  "text": "A protected nature area for birds in Steinkjer.",
+                  "category": "natural",
+                  "coords": [
+                        11.421721,
+                        64.021403
+                  ]
+            },
+            {
+                  "name": "Våttåbakken",
+                  "text": "An archaeological site featuring ancient monuments in Steinkjer.",
+                  "category": "historical",
+                  "coords": [
+                        11.495693,
+                        64.023178
+                  ]
+            },
+            {
+                  "name": "Egge museum",
+                  "text": "A regional museum in Steinkjer focusing on cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        11.465539,
+                        64.022291
+                  ]
+            },
+            {
+                  "name": "Østbysaga",
+                  "text": "A small museum located in Steinkjer.",
+                  "category": "museum",
+                  "coords": [
+                        11.476716,
+                        64.036097
+                  ]
+            },
+            {
+                  "name": "Dampsaga Bad og Gym",
+                  "text": "A water park and fitness center in Steinkjer.",
+                  "category": "recreational",
+                  "coords": [
+                        11.488758,
+                        64.017572
+                  ]
+            },
+            {
+                  "name": "Oftenåsen",
+                  "text": "A popular hill and viewpoint in Steinkjer.",
+                  "category": "natural",
+                  "coords": [
+                        11.53103,
+                        63.993584
+                  ]
+            },
+            {
+                  "name": "Fylkesmannsgården",
+                  "text": "A historic manor house in Steinkjer.",
+                  "category": "historical",
+                  "coords": [
+                        11.47887,
+                        64.024589
+                  ]
+            },
+            {
+                  "name": "Gammelstien",
+                  "text": "A historic path or attraction in Steinkjer.",
+                  "category": "landmark",
+                  "coords": [
+                        11.528607,
+                        63.992097
+                  ]
+            },
+            {
+                  "name": "Egge kirke",
+                  "text": "A traditional stone church in Steinkjer.",
+                  "category": "religious",
+                  "coords": [
+                        11.474777,
+                        64.023348
+                  ]
+            },
+            {
+                  "name": "Steinkjer kirke",
+                  "text": "The modern main church of Steinkjer.",
+                  "category": "religious",
+                  "coords": [
+                        11.49409,
+                        64.014901
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Steinkjer", hu: "Steinkjer", ro: "Steinkjer", en: "Steinkjer" },
@@ -813,7 +6933,376 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-steinkjer-cities-v2.webp",
   },
   {
-    id: "norway-namsos-cities-v2",
+    id: "norway-namsos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rock City",
+                  "text": "Ein Erlebniszentrum für norwegische Rockmusik in Namsos.",
+                  "category": "museum",
+                  "coords": [
+                        11.487231,
+                        64.468821
+                  ]
+            },
+            {
+                  "name": "Storvikskogen naturreservat",
+                  "text": "Ein Naturschutzgebiet bei Namsos, das für seine Waldlandschaft geschützt ist.",
+                  "category": "natural",
+                  "coords": [
+                        11.496002,
+                        64.439463
+                  ]
+            },
+            {
+                  "name": "Namdalsmuseet",
+                  "text": "Das Kulturgeschichtliche Museum für die Region Namdalen in Namsos.",
+                  "category": "museum",
+                  "coords": [
+                        11.521539,
+                        64.469231
+                  ]
+            },
+            {
+                  "name": "Mærraneset fort",
+                  "text": "Eine ehemalige Festungsanlage bei Namsos.",
+                  "category": "fortress",
+                  "coords": [
+                        11.441866,
+                        64.455447
+                  ]
+            },
+            {
+                  "name": "Kunstmuseet Nord-Trøndelag",
+                  "text": "Ein Kunstmuseum in Namsos, das Werke aus der Region Nord-Trøndelag zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.503023,
+                        64.468076
+                  ]
+            },
+            {
+                  "name": "Norsk Sagbruksmuseum",
+                  "text": "Ein nationales Museum in Namsos, das der Geschichte der Sägewerksindustrie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.51315,
+                        64.448502
+                  ]
+            },
+            {
+                  "name": "Namsenfjorden",
+                  "text": "Ein Fjord in Mittelnorwegen, an dessen Ende die Stadt Namsos liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.251888,
+                        64.526259
+                  ]
+            },
+            {
+                  "name": "Bjørumsklumpen",
+                  "text": "Ein Berg und Aussichtspunkt direkt bei Namsos mit Blick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        11.496233,
+                        64.470582
+                  ]
+            },
+            {
+                  "name": "Bastion",
+                  "text": "Ein historischer Aussichtspunkt oder Denkmal in Namsos.",
+                  "category": "landmark",
+                  "coords": [
+                        11.49825,
+                        64.468129
+                  ]
+            },
+            {
+                  "name": "Namsos kirke",
+                  "text": "Eine evangelisch-lutherische Kirche in Namsos.",
+                  "category": "religious",
+                  "coords": [
+                        11.494992,
+                        64.465682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rock City",
+                  "text": "A norvég rockzene élményközpontja Namsos városában.",
+                  "category": "museum",
+                  "coords": [
+                        11.487231,
+                        64.468821
+                  ]
+            },
+            {
+                  "name": "Storvikskogen naturreservat",
+                  "text": "Természetvédelmi terület Namsos közelében, amelyet erdős tájai miatt védenek.",
+                  "category": "natural",
+                  "coords": [
+                        11.496002,
+                        64.439463
+                  ]
+            },
+            {
+                  "name": "Namdalsmuseet",
+                  "text": "Namsos városában található kulturális múzeum a Namdalen régió számára.",
+                  "category": "museum",
+                  "coords": [
+                        11.521539,
+                        64.469231
+                  ]
+            },
+            {
+                  "name": "Mærraneset fort",
+                  "text": "Egykori erődítmény Namsos közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        11.441866,
+                        64.455447
+                  ]
+            },
+            {
+                  "name": "Kunstmuseet Nord-Trøndelag",
+                  "text": "Namsosi művészeti múzeum, amely Nord-Trøndelag régió alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.503023,
+                        64.468076
+                  ]
+            },
+            {
+                  "name": "Norsk Sagbruksmuseum",
+                  "text": "Namsosi nemzeti múzeum, amely a fűrésztelepek és a fafeldolgozás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.51315,
+                        64.448502
+                  ]
+            },
+            {
+                  "name": "Namsenfjorden",
+                  "text": "Közép-norvégiai fjord, amelynek végén Namsos városa található.",
+                  "category": "landmark",
+                  "coords": [
+                        11.251888,
+                        64.526259
+                  ]
+            },
+            {
+                  "name": "Bjørumsklumpen",
+                  "text": "Namsos melletti hegy és kilátópont, ahonnan rálátni a városra.",
+                  "category": "natural",
+                  "coords": [
+                        11.496233,
+                        64.470582
+                  ]
+            },
+            {
+                  "name": "Bastion",
+                  "text": "Történelmi kilátópont vagy emlékmű Namsosban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.49825,
+                        64.468129
+                  ]
+            },
+            {
+                  "name": "Namsos kirke",
+                  "text": "Egy evangélikus templom Namsos városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.494992,
+                        64.465682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rock City",
+                  "text": "Un centru de experiență dedicat muzicii rock norvegiene în Namsos.",
+                  "category": "museum",
+                  "coords": [
+                        11.487231,
+                        64.468821
+                  ]
+            },
+            {
+                  "name": "Storvikskogen naturreservat",
+                  "text": "O rezervație naturală lângă Namsos, protejată pentru peisajele sale forestiere.",
+                  "category": "natural",
+                  "coords": [
+                        11.496002,
+                        64.439463
+                  ]
+            },
+            {
+                  "name": "Namdalsmuseet",
+                  "text": "Muzeul de istorie culturală pentru regiunea Namdalen, situat în Namsos.",
+                  "category": "museum",
+                  "coords": [
+                        11.521539,
+                        64.469231
+                  ]
+            },
+            {
+                  "name": "Mærraneset fort",
+                  "text": "O fostă fortificație situată lângă Namsos.",
+                  "category": "fortress",
+                  "coords": [
+                        11.441866,
+                        64.455447
+                  ]
+            },
+            {
+                  "name": "Kunstmuseet Nord-Trøndelag",
+                  "text": "Un muzeu de artă în Namsos, care expune lucrări din regiunea Nord-Trøndelag.",
+                  "category": "museum",
+                  "coords": [
+                        11.503023,
+                        64.468076
+                  ]
+            },
+            {
+                  "name": "Norsk Sagbruksmuseum",
+                  "text": "Un muzeu național în Namsos dedicat istoriei industriei gaterelor.",
+                  "category": "museum",
+                  "coords": [
+                        11.51315,
+                        64.448502
+                  ]
+            },
+            {
+                  "name": "Namsenfjorden",
+                  "text": "Un fjord în Norvegia centrală, la capătul căruia se află orașul Namsos.",
+                  "category": "landmark",
+                  "coords": [
+                        11.251888,
+                        64.526259
+                  ]
+            },
+            {
+                  "name": "Bjørumsklumpen",
+                  "text": "Un munte și punct de belvedere lângă Namsos, cu vedere spre oraș.",
+                  "category": "natural",
+                  "coords": [
+                        11.496233,
+                        64.470582
+                  ]
+            },
+            {
+                  "name": "Bastion",
+                  "text": "Un punct de belvedere istoric sau monument în Namsos.",
+                  "category": "landmark",
+                  "coords": [
+                        11.49825,
+                        64.468129
+                  ]
+            },
+            {
+                  "name": "Namsos kirke",
+                  "text": "O biserică luterană evanghelică în Namsos.",
+                  "category": "religious",
+                  "coords": [
+                        11.494992,
+                        64.465682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rock City",
+                  "text": "An experience center for Norwegian rock music located in Namsos.",
+                  "category": "museum",
+                  "coords": [
+                        11.487231,
+                        64.468821
+                  ]
+            },
+            {
+                  "name": "Storvikskogen naturreservat",
+                  "text": "A nature reserve near Namsos, protected for its forested landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        11.496002,
+                        64.439463
+                  ]
+            },
+            {
+                  "name": "Namdalsmuseet",
+                  "text": "The cultural history museum for the Namdalen region, located in Namsos.",
+                  "category": "museum",
+                  "coords": [
+                        11.521539,
+                        64.469231
+                  ]
+            },
+            {
+                  "name": "Mærraneset fort",
+                  "text": "A former fortification located near Namsos.",
+                  "category": "fortress",
+                  "coords": [
+                        11.441866,
+                        64.455447
+                  ]
+            },
+            {
+                  "name": "Kunstmuseet Nord-Trøndelag",
+                  "text": "An art museum in Namsos displaying works from the Nord-Trøndelag region.",
+                  "category": "museum",
+                  "coords": [
+                        11.503023,
+                        64.468076
+                  ]
+            },
+            {
+                  "name": "Norsk Sagbruksmuseum",
+                  "text": "A national museum in Namsos dedicated to the history of the sawmill industry.",
+                  "category": "museum",
+                  "coords": [
+                        11.51315,
+                        64.448502
+                  ]
+            },
+            {
+                  "name": "Namsenfjorden",
+                  "text": "A fjord in central Norway with the city of Namsos located at its head.",
+                  "category": "landmark",
+                  "coords": [
+                        11.251888,
+                        64.526259
+                  ]
+            },
+            {
+                  "name": "Bjørumsklumpen",
+                  "text": "A hill and viewpoint near Namsos offering views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        11.496233,
+                        64.470582
+                  ]
+            },
+            {
+                  "name": "Bastion",
+                  "text": "A historical viewpoint or monument located in Namsos.",
+                  "category": "landmark",
+                  "coords": [
+                        11.49825,
+                        64.468129
+                  ]
+            },
+            {
+                  "name": "Namsos kirke",
+                  "text": "An evangelical Lutheran church in Namsos.",
+                  "category": "religious",
+                  "coords": [
+                        11.494992,
+                        64.465682
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Namsos", hu: "Namsos", ro: "Namsos", en: "Namsos" },
@@ -858,7 +7347,412 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-namsos-cities-v2.webp",
   },
   {
-    id: "norway-mosjoen-cities-v2",
+    id: "norway-mosjoen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Andås naturreservat",
+                  "text": "Ein Naturschutzgebiet in der Nähe von Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.251037,
+                        65.826106
+                  ]
+            },
+            {
+                  "name": "Etterseterbekken naturreservat",
+                  "text": "Naturschutzgebiet zum Schutz der lokalen Bachlandschaft in Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.175843,
+                        65.810429
+                  ]
+            },
+            {
+                  "name": "Politimestergården",
+                  "text": "Ein historisches Museumsgebäude in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.206235,
+                        65.844613
+                  ]
+            },
+            {
+                  "name": "Jacobsenbrygga",
+                  "text": "Museum in einem traditionellen Speicherhaus in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.187585,
+                        65.836893
+                  ]
+            },
+            {
+                  "name": "Shellstasjonen",
+                  "text": "Eine historische Tankstelle, die als Museum in Mosjøen erhalten ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.187824,
+                        65.839105
+                  ]
+            },
+            {
+                  "name": "Hotellmuseum",
+                  "text": "Ein Museum zur Hotelgeschichte in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.191072,
+                        65.835234
+                  ]
+            },
+            {
+                  "name": "Oladalens Venner",
+                  "text": "Ein lokales Museum oder historischer Ort in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.210981,
+                        65.837127
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.228859,
+                        65.84184
+                  ]
+            },
+            {
+                  "name": "Kaukarberget",
+                  "text": "Ein Aussichtspunkt über der Gegend von Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.212016,
+                        65.846558
+                  ]
+            },
+            {
+                  "name": "Prestmyra",
+                  "text": "Eine lokale Attraktion oder ein Erholungsgebiet in Mosjøen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.222066,
+                        65.845522
+                  ]
+            },
+            {
+                  "name": "Dolstad kirke",
+                  "text": "Eine historische Holzkirche in Mosjøen.",
+                  "category": "religious",
+                  "coords": [
+                        13.204012,
+                        65.84447
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Andås naturreservat",
+                  "text": "Természetvédelmi terület Mosjøen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.251037,
+                        65.826106
+                  ]
+            },
+            {
+                  "name": "Etterseterbekken naturreservat",
+                  "text": "Természetvédelmi terület a helyi patak mentén Mosjøenben.",
+                  "category": "natural",
+                  "coords": [
+                        13.175843,
+                        65.810429
+                  ]
+            },
+            {
+                  "name": "Politimestergården",
+                  "text": "Történelmi múzeumépület Mosjøenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.206235,
+                        65.844613
+                  ]
+            },
+            {
+                  "name": "Jacobsenbrygga",
+                  "text": "Múzeum egy hagyományos rakparti épületben Mosjøenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.187585,
+                        65.836893
+                  ]
+            },
+            {
+                  "name": "Shellstasjonen",
+                  "text": "Múzeumként megőrzött történelmi benzinkút Mosjøenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.187824,
+                        65.839105
+                  ]
+            },
+            {
+                  "name": "Hotellmuseum",
+                  "text": "A szállodatörténetnek szentelt múzeum Mosjøenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.191072,
+                        65.835234
+                  ]
+            },
+            {
+                  "name": "Oladalens Venner",
+                  "text": "Helyi múzeum vagy történelmi helyszín Mosjøenben.",
+                  "category": "museum",
+                  "coords": [
+                        13.210981,
+                        65.837127
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Kilátóhely panorámás kilátással Mosjøenre.",
+                  "category": "natural",
+                  "coords": [
+                        13.228859,
+                        65.84184
+                  ]
+            },
+            {
+                  "name": "Kaukarberget",
+                  "text": "Kilátóhely Mosjøen környékén.",
+                  "category": "natural",
+                  "coords": [
+                        13.212016,
+                        65.846558
+                  ]
+            },
+            {
+                  "name": "Prestmyra",
+                  "text": "Helyi látványosság vagy pihenőhely Mosjøenben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.222066,
+                        65.845522
+                  ]
+            },
+            {
+                  "name": "Dolstad kirke",
+                  "text": "Történelmi fatemplom Mosjøenben.",
+                  "category": "religious",
+                  "coords": [
+                        13.204012,
+                        65.84447
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Andås naturreservat",
+                  "text": "O rezervație naturală în apropiere de Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.251037,
+                        65.826106
+                  ]
+            },
+            {
+                  "name": "Etterseterbekken naturreservat",
+                  "text": "Rezervație naturală care protejează pârâul local din Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.175843,
+                        65.810429
+                  ]
+            },
+            {
+                  "name": "Politimestergården",
+                  "text": "O clădire istorică de muzeu în Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.206235,
+                        65.844613
+                  ]
+            },
+            {
+                  "name": "Jacobsenbrygga",
+                  "text": "Muzeu situat într-o clădire tradițională de dig în Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.187585,
+                        65.836893
+                  ]
+            },
+            {
+                  "name": "Shellstasjonen",
+                  "text": "O benzinărie istorică păstrată ca muzeu în Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.187824,
+                        65.839105
+                  ]
+            },
+            {
+                  "name": "Hotellmuseum",
+                  "text": "Un muzeu dedicat istoriei hotelurilor în Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.191072,
+                        65.835234
+                  ]
+            },
+            {
+                  "name": "Oladalens Venner",
+                  "text": "Un muzeu local sau sit istoric în Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.210981,
+                        65.837127
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "Un punct de belvedere cu vedere panoramică asupra Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.228859,
+                        65.84184
+                  ]
+            },
+            {
+                  "name": "Kaukarberget",
+                  "text": "Un punct de belvedere deasupra zonei Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.212016,
+                        65.846558
+                  ]
+            },
+            {
+                  "name": "Prestmyra",
+                  "text": "O atracție locală sau zonă de recreere în Mosjøen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.222066,
+                        65.845522
+                  ]
+            },
+            {
+                  "name": "Dolstad kirke",
+                  "text": "O biserică istorică de lemn în Mosjøen.",
+                  "category": "religious",
+                  "coords": [
+                        13.204012,
+                        65.84447
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andås naturreservat",
+                  "text": "A nature reserve located near Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.251037,
+                        65.826106
+                  ]
+            },
+            {
+                  "name": "Etterseterbekken naturreservat",
+                  "text": "Nature reserve protecting the local stream environment in Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.175843,
+                        65.810429
+                  ]
+            },
+            {
+                  "name": "Politimestergården",
+                  "text": "A historical museum building in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.206235,
+                        65.844613
+                  ]
+            },
+            {
+                  "name": "Jacobsenbrygga",
+                  "text": "Museum located in a traditional wharf building in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.187585,
+                        65.836893
+                  ]
+            },
+            {
+                  "name": "Shellstasjonen",
+                  "text": "A historical gas station preserved as a museum in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.187824,
+                        65.839105
+                  ]
+            },
+            {
+                  "name": "Hotellmuseum",
+                  "text": "A museum dedicated to hotel history in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.191072,
+                        65.835234
+                  ]
+            },
+            {
+                  "name": "Oladalens Venner",
+                  "text": "A local museum or historical site in Mosjøen.",
+                  "category": "museum",
+                  "coords": [
+                        13.210981,
+                        65.837127
+                  ]
+            },
+            {
+                  "name": "Panorama",
+                  "text": "A viewpoint offering panoramic views of Mosjøen.",
+                  "category": "natural",
+                  "coords": [
+                        13.228859,
+                        65.84184
+                  ]
+            },
+            {
+                  "name": "Kaukarberget",
+                  "text": "A viewpoint overlooking the Mosjøen area.",
+                  "category": "natural",
+                  "coords": [
+                        13.212016,
+                        65.846558
+                  ]
+            },
+            {
+                  "name": "Prestmyra",
+                  "text": "A local attraction or recreation area in Mosjøen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.222066,
+                        65.845522
+                  ]
+            },
+            {
+                  "name": "Dolstad kirke",
+                  "text": "A historic wooden church in Mosjøen.",
+                  "category": "religious",
+                  "coords": [
+                        13.204012,
+                        65.84447
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Mosjøen", hu: "Mosjøen", ro: "Mosjøen", en: "Mosjøen" },
@@ -948,7 +7842,700 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-mo-i-rana-cities-v2.webp",
   },
   {
-    id: "norway-farsund-cities-v2",
+    id: "norway-farsund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Røyrtjønn naturreservat",
+                  "text": "Ein geschütztes Naturreservat in der Nähe von Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.793595,
+                        58.069108
+                  ]
+            },
+            {
+                  "name": "Sellegrod naturreservat",
+                  "text": "Ein Naturschutzgebiet in der Region Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.786091,
+                        58.115362
+                  ]
+            },
+            {
+                  "name": "Skydskjær naturreservat",
+                  "text": "Ein Küstennaturreservat in der Gemeinde Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.820431,
+                        58.086564
+                  ]
+            },
+            {
+                  "name": "Lundevågen dyrefredningsområde",
+                  "text": "Ein ausgewiesenes Tierschutzgebiet bei Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.774675,
+                        58.07922
+                  ]
+            },
+            {
+                  "name": "Hanangervann og Kråkenesvann landskapsvernområde",
+                  "text": "Ein Landschaftsschutzgebiet, das Seen in Farsund umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        6.74212,
+                        58.083545
+                  ]
+            },
+            {
+                  "name": "Geitfjellet bygdeborg",
+                  "text": "Reste einer historischen Wallburg auf dem Berg Geitfjellet.",
+                  "category": "historical",
+                  "coords": [
+                        6.796468,
+                        58.075058
+                  ]
+            },
+            {
+                  "name": "Svarthaug",
+                  "text": "Eine archäologische Fundstätte in der Gegend von Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.765243,
+                        58.077497
+                  ]
+            },
+            {
+                  "name": "Berge",
+                  "text": "Eine historische Stätte von archäologischem Interesse in Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.780056,
+                        58.105975
+                  ]
+            },
+            {
+                  "name": "Dyrebakk bygdeborg",
+                  "text": "Eine antike Wallburg als archäologisches Denkmal in Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.809973,
+                        58.075522
+                  ]
+            },
+            {
+                  "name": "Lodshavn fort",
+                  "text": "Eine historische Befestigungsanlage in Lodshavn bei Farsund.",
+                  "category": "fortress",
+                  "coords": [
+                        6.816809,
+                        58.065297
+                  ]
+            },
+            {
+                  "name": "Barbrostranden",
+                  "text": "Ein lokaler Badestrand in der Stadt Farsund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810851,
+                        58.090756
+                  ]
+            },
+            {
+                  "name": "Skjolnesveten",
+                  "text": "Ein markanter Aussichtspunkt mit Blick über Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.80051,
+                        58.073786
+                  ]
+            },
+            {
+                  "name": "Ingersjå",
+                  "text": "Ein Aussichtspunkt, der weite Ausblicke auf die Umgebung von Farsund bietet.",
+                  "category": "natural",
+                  "coords": [
+                        6.790031,
+                        58.116263
+                  ]
+            },
+            {
+                  "name": "Bellevy",
+                  "text": "Ein beliebter Ort für Panoramablicke in Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.801323,
+                        58.092664
+                  ]
+            },
+            {
+                  "name": "Knyggen",
+                  "text": "Ein erhöhter Punkt in Farsund, der als Aussichtsplattform dient.",
+                  "category": "natural",
+                  "coords": [
+                        6.82289,
+                        58.111669
+                  ]
+            },
+            {
+                  "name": "Badehuset",
+                  "text": "Eine Badeanlage am Wasser in Farsund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.806946,
+                        58.087222
+                  ]
+            },
+            {
+                  "name": "Galleri Farsund",
+                  "text": "Eine Kunstgalerie, die Werke lokaler Künstler in Farsund ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        6.803524,
+                        58.094729
+                  ]
+            },
+            {
+                  "name": "Nordsund bru",
+                  "text": "Eine Brücke, die Nordsund in Farsund überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.812635,
+                        58.095695
+                  ]
+            },
+            {
+                  "name": "Frelserens kirke",
+                  "text": "Die Erlöserkirche, ein zentrales Gotteshaus in Farsund.",
+                  "category": "religious",
+                  "coords": [
+                        6.801748,
+                        58.094296
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Røyrtjønn naturreservat",
+                  "text": "Védett természetvédelmi terület Farsund közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.793595,
+                        58.069108
+                  ]
+            },
+            {
+                  "name": "Sellegrod naturreservat",
+                  "text": "Természetvédelmi terület Farsund régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        6.786091,
+                        58.115362
+                  ]
+            },
+            {
+                  "name": "Skydskjær naturreservat",
+                  "text": "Partmenti természetvédelmi terület Farsund községben.",
+                  "category": "natural",
+                  "coords": [
+                        6.820431,
+                        58.086564
+                  ]
+            },
+            {
+                  "name": "Lundevågen dyrefredningsområde",
+                  "text": "Kijelölt állatvédelmi terület Farsundnál.",
+                  "category": "natural",
+                  "coords": [
+                        6.774675,
+                        58.07922
+                  ]
+            },
+            {
+                  "name": "Hanangervann og Kråkenesvann landskapsvernområde",
+                  "text": "Tájvédelmi körzet, amely tavakat foglal magában Farsundban.",
+                  "category": "natural",
+                  "coords": [
+                        6.74212,
+                        58.083545
+                  ]
+            },
+            {
+                  "name": "Geitfjellet bygdeborg",
+                  "text": "Egy történelmi erődítmény maradványai a Geitfjellet-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        6.796468,
+                        58.075058
+                  ]
+            },
+            {
+                  "name": "Svarthaug",
+                  "text": "Régészeti lelőhely Farsund környékén.",
+                  "category": "historical",
+                  "coords": [
+                        6.765243,
+                        58.077497
+                  ]
+            },
+            {
+                  "name": "Berge",
+                  "text": "Régészeti jelentőségű történelmi helyszín Farsundban.",
+                  "category": "historical",
+                  "coords": [
+                        6.780056,
+                        58.105975
+                  ]
+            },
+            {
+                  "name": "Dyrebakk bygdeborg",
+                  "text": "Ókori erődítmény mint régészeti emlék Farsundban.",
+                  "category": "historical",
+                  "coords": [
+                        6.809973,
+                        58.075522
+                  ]
+            },
+            {
+                  "name": "Lodshavn fort",
+                  "text": "Történelmi erődítmény Lodshavnban, Farsund közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        6.816809,
+                        58.065297
+                  ]
+            },
+            {
+                  "name": "Barbrostranden",
+                  "text": "Helyi fürdőzőhely Farsund városában.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810851,
+                        58.090756
+                  ]
+            },
+            {
+                  "name": "Skjolnesveten",
+                  "text": "Jellegzetes kilátóhely panorámával Farsundra.",
+                  "category": "natural",
+                  "coords": [
+                        6.80051,
+                        58.073786
+                  ]
+            },
+            {
+                  "name": "Ingersjå",
+                  "text": "Kilátóhely, amely széles kilátást nyújt Farsund környékére.",
+                  "category": "natural",
+                  "coords": [
+                        6.790031,
+                        58.116263
+                  ]
+            },
+            {
+                  "name": "Bellevy",
+                  "text": "Népszerű hely panorámás kilátáshoz Farsundban.",
+                  "category": "natural",
+                  "coords": [
+                        6.801323,
+                        58.092664
+                  ]
+            },
+            {
+                  "name": "Knyggen",
+                  "text": "Magaslati pont Farsundban, amely kilátóként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        6.82289,
+                        58.111669
+                  ]
+            },
+            {
+                  "name": "Badehuset",
+                  "text": "Vízparti fürdőhely Farsundban.",
+                  "category": "recreational",
+                  "coords": [
+                        6.806946,
+                        58.087222
+                  ]
+            },
+            {
+                  "name": "Galleri Farsund",
+                  "text": "Helyi művészek alkotásait bemutató művészeti galéria Farsundban.",
+                  "category": "museum",
+                  "coords": [
+                        6.803524,
+                        58.094729
+                  ]
+            },
+            {
+                  "name": "Nordsund bru",
+                  "text": "A Farsundban található Nordsundot átívelő híd.",
+                  "category": "landmark",
+                  "coords": [
+                        6.812635,
+                        58.095695
+                  ]
+            },
+            {
+                  "name": "Frelserens kirke",
+                  "text": "A Megváltó temploma, Farsund központi hitéleti helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        6.801748,
+                        58.094296
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Røyrtjønn naturreservat",
+                  "text": "O rezervație naturală protejată lângă Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.793595,
+                        58.069108
+                  ]
+            },
+            {
+                  "name": "Sellegrod naturreservat",
+                  "text": "O zonă de conservare a naturii în regiunea Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.786091,
+                        58.115362
+                  ]
+            },
+            {
+                  "name": "Skydskjær naturreservat",
+                  "text": "O rezervație naturală de coastă în comuna Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.820431,
+                        58.086564
+                  ]
+            },
+            {
+                  "name": "Lundevågen dyrefredningsområde",
+                  "text": "O zonă desemnată pentru protecția animalelor lângă Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.774675,
+                        58.07922
+                  ]
+            },
+            {
+                  "name": "Hanangervann og Kråkenesvann landskapsvernområde",
+                  "text": "O zonă de protecție a peisajului care cuprinde lacuri în Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.74212,
+                        58.083545
+                  ]
+            },
+            {
+                  "name": "Geitfjellet bygdeborg",
+                  "text": "Rămășițele unei cetăți istorice pe muntele Geitfjellet.",
+                  "category": "historical",
+                  "coords": [
+                        6.796468,
+                        58.075058
+                  ]
+            },
+            {
+                  "name": "Svarthaug",
+                  "text": "Un sit arheologic în zona Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.765243,
+                        58.077497
+                  ]
+            },
+            {
+                  "name": "Berge",
+                  "text": "Un sit istoric de interes arheologic în Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.780056,
+                        58.105975
+                  ]
+            },
+            {
+                  "name": "Dyrebakk bygdeborg",
+                  "text": "O cetate antică ca monument arheologic în Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.809973,
+                        58.075522
+                  ]
+            },
+            {
+                  "name": "Lodshavn fort",
+                  "text": "O fortificație istorică în Lodshavn, lângă Farsund.",
+                  "category": "fortress",
+                  "coords": [
+                        6.816809,
+                        58.065297
+                  ]
+            },
+            {
+                  "name": "Barbrostranden",
+                  "text": "O plajă locală în orașul Farsund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810851,
+                        58.090756
+                  ]
+            },
+            {
+                  "name": "Skjolnesveten",
+                  "text": "Un punct de observație cu vedere panoramică asupra Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.80051,
+                        58.073786
+                  ]
+            },
+            {
+                  "name": "Ingersjå",
+                  "text": "Un punct de belvedere care oferă vederi largi asupra împrejurimilor Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.790031,
+                        58.116263
+                  ]
+            },
+            {
+                  "name": "Bellevy",
+                  "text": "Un loc popular pentru vederi panoramice în Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.801323,
+                        58.092664
+                  ]
+            },
+            {
+                  "name": "Knyggen",
+                  "text": "Un punct înalt în Farsund care servește drept platformă de observație.",
+                  "category": "natural",
+                  "coords": [
+                        6.82289,
+                        58.111669
+                  ]
+            },
+            {
+                  "name": "Badehuset",
+                  "text": "O facilitate de scăldat pe malul apei în Farsund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.806946,
+                        58.087222
+                  ]
+            },
+            {
+                  "name": "Galleri Farsund",
+                  "text": "O galerie de artă care expune lucrări ale artiștilor locali în Farsund.",
+                  "category": "museum",
+                  "coords": [
+                        6.803524,
+                        58.094729
+                  ]
+            },
+            {
+                  "name": "Nordsund bru",
+                  "text": "Un pod care traversează Nordsund în Farsund.",
+                  "category": "landmark",
+                  "coords": [
+                        6.812635,
+                        58.095695
+                  ]
+            },
+            {
+                  "name": "Frelserens kirke",
+                  "text": "Biserica Mântuitorului, un lăcaș de cult central în Farsund.",
+                  "category": "religious",
+                  "coords": [
+                        6.801748,
+                        58.094296
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Røyrtjønn naturreservat",
+                  "text": "A protected nature reserve near Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.793595,
+                        58.069108
+                  ]
+            },
+            {
+                  "name": "Sellegrod naturreservat",
+                  "text": "A nature conservation area in the Farsund region.",
+                  "category": "natural",
+                  "coords": [
+                        6.786091,
+                        58.115362
+                  ]
+            },
+            {
+                  "name": "Skydskjær naturreservat",
+                  "text": "A coastal nature reserve in Farsund municipality.",
+                  "category": "natural",
+                  "coords": [
+                        6.820431,
+                        58.086564
+                  ]
+            },
+            {
+                  "name": "Lundevågen dyrefredningsområde",
+                  "text": "A designated animal protection area near Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.774675,
+                        58.07922
+                  ]
+            },
+            {
+                  "name": "Hanangervann og Kråkenesvann landskapsvernområde",
+                  "text": "A landscape protection area encompassing lakes in Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.74212,
+                        58.083545
+                  ]
+            },
+            {
+                  "name": "Geitfjellet bygdeborg",
+                  "text": "Remains of a historical hill fort on Geitfjellet mountain.",
+                  "category": "historical",
+                  "coords": [
+                        6.796468,
+                        58.075058
+                  ]
+            },
+            {
+                  "name": "Svarthaug",
+                  "text": "An archaeological site in the Farsund area.",
+                  "category": "historical",
+                  "coords": [
+                        6.765243,
+                        58.077497
+                  ]
+            },
+            {
+                  "name": "Berge",
+                  "text": "A historical site of archaeological interest in Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.780056,
+                        58.105975
+                  ]
+            },
+            {
+                  "name": "Dyrebakk bygdeborg",
+                  "text": "An ancient hill fort as an archaeological monument in Farsund.",
+                  "category": "historical",
+                  "coords": [
+                        6.809973,
+                        58.075522
+                  ]
+            },
+            {
+                  "name": "Lodshavn fort",
+                  "text": "A historical fortification in Lodshavn near Farsund.",
+                  "category": "fortress",
+                  "coords": [
+                        6.816809,
+                        58.065297
+                  ]
+            },
+            {
+                  "name": "Barbrostranden",
+                  "text": "A local bathing beach in the town of Farsund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.810851,
+                        58.090756
+                  ]
+            },
+            {
+                  "name": "Skjolnesveten",
+                  "text": "A prominent viewpoint with vistas over Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.80051,
+                        58.073786
+                  ]
+            },
+            {
+                  "name": "Ingersjå",
+                  "text": "A viewpoint offering broad views of the Farsund surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        6.790031,
+                        58.116263
+                  ]
+            },
+            {
+                  "name": "Bellevy",
+                  "text": "A popular spot for panoramic views in Farsund.",
+                  "category": "natural",
+                  "coords": [
+                        6.801323,
+                        58.092664
+                  ]
+            },
+            {
+                  "name": "Knyggen",
+                  "text": "An elevated point in Farsund serving as a lookout.",
+                  "category": "natural",
+                  "coords": [
+                        6.82289,
+                        58.111669
+                  ]
+            },
+            {
+                  "name": "Badehuset",
+                  "text": "A waterside bathing facility in Farsund.",
+                  "category": "recreational",
+                  "coords": [
+                        6.806946,
+                        58.087222
+                  ]
+            },
+            {
+                  "name": "Galleri Farsund",
+                  "text": "An art gallery exhibiting works by local artists in Farsund.",
+                  "category": "museum",
+                  "coords": [
+                        6.803524,
+                        58.094729
+                  ]
+            },
+            {
+                  "name": "Nordsund bru",
+                  "text": "A bridge spanning the Nordsund in Farsund.",
+                  "category": "landmark",
+                  "coords": [
+                        6.812635,
+                        58.095695
+                  ]
+            },
+            {
+                  "name": "Frelserens kirke",
+                  "text": "The Church of the Saviour, a central place of worship in Farsund.",
+                  "category": "religious",
+                  "coords": [
+                        6.801748,
+                        58.094296
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Farsund", hu: "Farsund", ro: "Farsund", en: "Farsund" },
@@ -993,7 +8580,232 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-farsund-cities-v2.webp",
   },
   {
-    id: "norway-flekkefjord-cities-v2",
+    id: "norway-flekkefjord-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "Ein Museum zur Lokalgeschichte in Flekkefjord.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "Ein Aussichtspunkt mit Blick über Flekkefjord.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "Ein Denkmal oder Wahrzeichen in Flekkefjord.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "Eine natürliche Attraktion in der Nähe von Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "Eine historische Museumsbahn in Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "Eine markante Kirche in Flekkefjord.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "Helytörténeti múzeum Flekkefjordban.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "Kilátóhely kilátással Flekkefjordra.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "Emlékmű vagy nevezetesség Flekkefjordban.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "Természeti látványosság Flekkefjord közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "Történelmi vasútvonal és látványosság Flekkefjordban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "Jellegzetes templom Flekkefjordban.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "Un muzeu de istorie locală în Flekkefjord.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "Un punct de belvedere cu vedere spre Flekkefjord.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "Un monument sau punct de reper în Flekkefjord.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "O atracție naturală în apropiere de Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "O cale ferată istorică și atracție în Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "O biserică distinctivă în Flekkefjord.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Flekkefjord museum",
+                  "text": "A museum of local history in Flekkefjord.",
+                  "category": "museum",
+                  "coords": [
+                        6.661765,
+                        58.29816
+                  ]
+            },
+            {
+                  "name": "storeheia",
+                  "text": "A viewpoint with a view over Flekkefjord.",
+                  "category": "natural",
+                  "coords": [
+                        6.653755,
+                        58.301441
+                  ]
+            },
+            {
+                  "name": "Grimetjørn",
+                  "text": "A monument or landmark in Flekkefjord.",
+                  "category": "historical",
+                  "coords": [
+                        6.640362,
+                        58.292051
+                  ]
+            },
+            {
+                  "name": "Jettegryte",
+                  "text": "A natural attraction near Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.678895,
+                        58.290142
+                  ]
+            },
+            {
+                  "name": "Flekkfjordbanen",
+                  "text": "A heritage railway and attraction in Flekkefjord.",
+                  "category": "landmark",
+                  "coords": [
+                        6.667593,
+                        58.295181
+                  ]
+            },
+            {
+                  "name": "Flekkefjord kirke",
+                  "text": "A prominent church in Flekkefjord.",
+                  "category": "religious",
+                  "coords": [
+                        6.661879,
+                        58.296047
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Flekkefjord", hu: "Flekkefjord", ro: "Flekkefjord", en: "Flekkefjord" },
@@ -1038,7 +8850,232 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-flekkefjord-cities-v2.webp",
   },
   {
-    id: "norway-odda-cities-v2",
+    id: "norway-odda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odda Vitensenter",
+                  "text": "Ein Wissenschaftszentrum in Odda, das Technik und Industrie thematisiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.547193,
+                        60.067892
+                  ]
+            },
+            {
+                  "name": "Folgefonngata 9",
+                  "text": "Ein Museumshaus in Odda.",
+                  "category": "museum",
+                  "coords": [
+                        6.544361,
+                        60.06779
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "Ein malerischer Fjordarm in der Region Hardanger bei Odda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.611977,
+                        60.235892
+                  ]
+            },
+            {
+                  "name": "Skipheller",
+                  "text": "Eine lokale Sehenswürdigkeit in Odda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545733,
+                        60.053432
+                  ]
+            },
+            {
+                  "name": "Mot Jordalen",
+                  "text": "Ein Aussichtspunkt mit Blick in Richtung Jordalen bei Odda.",
+                  "category": "natural",
+                  "coords": [
+                        6.561394,
+                        60.042995
+                  ]
+            },
+            {
+                  "name": "Odda kirke",
+                  "text": "Die Gemeindekirche in Odda.",
+                  "category": "religious",
+                  "coords": [
+                        6.547904,
+                        60.070183
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odda Vitensenter",
+                  "text": "Tudományos központ Oddában, amely a technikával és iparral foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        6.547193,
+                        60.067892
+                  ]
+            },
+            {
+                  "name": "Folgefonngata 9",
+                  "text": "Múzeumház Oddában.",
+                  "category": "museum",
+                  "coords": [
+                        6.544361,
+                        60.06779
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "Gleccser vájta fjordág a Hardanger régióban Odda mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        6.611977,
+                        60.235892
+                  ]
+            },
+            {
+                  "name": "Skipheller",
+                  "text": "Helyi látnivaló Oddában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545733,
+                        60.053432
+                  ]
+            },
+            {
+                  "name": "Mot Jordalen",
+                  "text": "Kilátópont Jordalen irányába Odda közelében.",
+                  "category": "natural",
+                  "coords": [
+                        6.561394,
+                        60.042995
+                  ]
+            },
+            {
+                  "name": "Odda kirke",
+                  "text": "Odda községi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        6.547904,
+                        60.070183
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odda Vitensenter",
+                  "text": "Un centru științific în Odda, care abordează tehnologia și industria.",
+                  "category": "museum",
+                  "coords": [
+                        6.547193,
+                        60.067892
+                  ]
+            },
+            {
+                  "name": "Folgefonngata 9",
+                  "text": "O casă muzeu în Odda.",
+                  "category": "museum",
+                  "coords": [
+                        6.544361,
+                        60.06779
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "Un braț pitoresc de fjord în regiunea Hardanger, lângă Odda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.611977,
+                        60.235892
+                  ]
+            },
+            {
+                  "name": "Skipheller",
+                  "text": "O atracție locală în Odda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545733,
+                        60.053432
+                  ]
+            },
+            {
+                  "name": "Mot Jordalen",
+                  "text": "Un punct de belvedere cu vedere spre Jordalen, lângă Odda.",
+                  "category": "natural",
+                  "coords": [
+                        6.561394,
+                        60.042995
+                  ]
+            },
+            {
+                  "name": "Odda kirke",
+                  "text": "Biserica parohială din Odda.",
+                  "category": "religious",
+                  "coords": [
+                        6.547904,
+                        60.070183
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odda Vitensenter",
+                  "text": "A science center in Odda focusing on technology and industry.",
+                  "category": "museum",
+                  "coords": [
+                        6.547193,
+                        60.067892
+                  ]
+            },
+            {
+                  "name": "Folgefonngata 9",
+                  "text": "A museum house located in Odda.",
+                  "category": "museum",
+                  "coords": [
+                        6.544361,
+                        60.06779
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "A picturesque fjord branch in the Hardanger region near Odda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.611977,
+                        60.235892
+                  ]
+            },
+            {
+                  "name": "Skipheller",
+                  "text": "A local attraction in Odda.",
+                  "category": "landmark",
+                  "coords": [
+                        6.545733,
+                        60.053432
+                  ]
+            },
+            {
+                  "name": "Mot Jordalen",
+                  "text": "A viewpoint looking towards Jordalen near Odda.",
+                  "category": "natural",
+                  "coords": [
+                        6.561394,
+                        60.042995
+                  ]
+            },
+            {
+                  "name": "Odda kirke",
+                  "text": "The parish church in Odda.",
+                  "category": "religious",
+                  "coords": [
+                        6.547904,
+                        60.070183
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Odda", hu: "Odda", ro: "Odda", en: "Odda" },
@@ -1083,7 +9120,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-odda-cities-v2.webp",
   },
   {
-    id: "norway-førde-cities-v2",
+    id: "norway-førde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sogn og Fjordane Kunstmuseum",
+                  "text": "Regionales Kunstmuseum in Førde, das Kunst aus Sogn og Fjordane zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.856613,
+                        61.451923
+                  ]
+            },
+            {
+                  "name": "Sogn og Fjordane teater",
+                  "text": "Das regionale Theater von Sogn og Fjordane mit Sitz in Førde.",
+                  "category": "cultural",
+                  "coords": [
+                        5.867763,
+                        61.453701
+                  ]
+            },
+            {
+                  "name": "Førdefjorden",
+                  "text": "Ein langer Fjord in der Provinz Vestland bei Førde.",
+                  "category": "landmark",
+                  "coords": [
+                        5.535564,
+                        61.471444
+                  ]
+            },
+            {
+                  "name": "Førde kyrkje",
+                  "text": "Eine steinerne Langkirche aus dem 19. Jahrhundert in Førde.",
+                  "category": "religious",
+                  "coords": [
+                        5.862852,
+                        61.455796
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sogn og Fjordane Kunstmuseum",
+                  "text": "Regionális művészeti múzeum Førde városában, Sogn og Fjordane művészetével.",
+                  "category": "museum",
+                  "coords": [
+                        5.856613,
+                        61.451923
+                  ]
+            },
+            {
+                  "name": "Sogn og Fjordane teater",
+                  "text": "Sogn og Fjordane regionális színháza, amelynek Førde ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.867763,
+                        61.453701
+                  ]
+            },
+            {
+                  "name": "Førdefjorden",
+                  "text": "Egy hosszú fjord Vestland megyében, Førde közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        5.535564,
+                        61.471444
+                  ]
+            },
+            {
+                  "name": "Førde kyrkje",
+                  "text": "19. századi kőből épült templom Førde városában.",
+                  "category": "religious",
+                  "coords": [
+                        5.862852,
+                        61.455796
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sogn og Fjordane Kunstmuseum",
+                  "text": "Muzeu regional de artă în Førde, expunând artă din Sogn og Fjordane.",
+                  "category": "museum",
+                  "coords": [
+                        5.856613,
+                        61.451923
+                  ]
+            },
+            {
+                  "name": "Sogn og Fjordane teater",
+                  "text": "Teatrul regional din Sogn og Fjordane, cu sediul în Førde.",
+                  "category": "cultural",
+                  "coords": [
+                        5.867763,
+                        61.453701
+                  ]
+            },
+            {
+                  "name": "Førdefjorden",
+                  "text": "Un fiord lung în provincia Vestland, lângă Førde.",
+                  "category": "landmark",
+                  "coords": [
+                        5.535564,
+                        61.471444
+                  ]
+            },
+            {
+                  "name": "Førde kyrkje",
+                  "text": "O biserică de piatră din secolul al XIX-lea în Førde.",
+                  "category": "religious",
+                  "coords": [
+                        5.862852,
+                        61.455796
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sogn og Fjordane Kunstmuseum",
+                  "text": "Regional art museum in Førde showcasing art from Sogn og Fjordane.",
+                  "category": "museum",
+                  "coords": [
+                        5.856613,
+                        61.451923
+                  ]
+            },
+            {
+                  "name": "Sogn og Fjordane teater",
+                  "text": "The regional theatre for Sogn og Fjordane, based in Førde.",
+                  "category": "cultural",
+                  "coords": [
+                        5.867763,
+                        61.453701
+                  ]
+            },
+            {
+                  "name": "Førdefjorden",
+                  "text": "A long fjord in Vestland province near Førde.",
+                  "category": "landmark",
+                  "coords": [
+                        5.535564,
+                        61.471444
+                  ]
+            },
+            {
+                  "name": "Førde kyrkje",
+                  "text": "A 19th-century stone church located in Førde.",
+                  "category": "religious",
+                  "coords": [
+                        5.862852,
+                        61.455796
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Førde", hu: "Førde", ro: "Førde", en: "Førde" },
@@ -1173,7 +9363,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-måløy-cities-v2.webp",
   },
   {
-    id: "norway-brønnøysund-cities-v2",
+    id: "norway-brønnøysund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "Ein Leuchtturm an der Küste von Brønnøysund.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Festningen",
+                  "text": "Eine historische Festungsanlage in Brønnøysund.",
+                  "category": "castle",
+                  "coords": [
+                        12.185964,
+                        65.450523
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "Eine Bucht und Naturbadeplatz in Brønnøysund.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "Eine mittelalterliche Steinkirche in Brønnøysund.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "Világítótorony Brønnøysund partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Festningen",
+                  "text": "Történelmi erődítmény Brønnøysundban.",
+                  "category": "castle",
+                  "coords": [
+                        12.185964,
+                        65.450523
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "Öböl és természetes fürdőhely Brønnøysundban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "Középkori kőtemplom Brønnøysundban.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "Un far pe coasta din Brønnøysund.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Festningen",
+                  "text": "O fortificație istorică în Brønnøysund.",
+                  "category": "castle",
+                  "coords": [
+                        12.185964,
+                        65.450523
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "Un golf și loc natural de scăldat în Brønnøysund.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "O biserică medievală de piatră în Brønnøysund.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "A lighthouse on the coast of Brønnøysund.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Festningen",
+                  "text": "A historic fortification in Brønnøysund.",
+                  "category": "castle",
+                  "coords": [
+                        12.185964,
+                        65.450523
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "A bay and natural swimming area in Brønnøysund.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "A medieval stone church in Brønnøysund.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Brønnøysund", hu: "Brønnøysund", ro: "Brønnøysund", en: "Brønnøysund" },
@@ -1218,7 +9561,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-brønnøysund-cities-v2.webp",
   },
   {
-    id: "norway-sandnessjoen-cities-v2",
+    id: "norway-sandnessjoen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sandnessjøen krigsminnesamling",
+                  "text": "Ein Museum in Sandnessjøen, das der lokalen Kriegsgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.620581,
+                        66.016611
+                  ]
+            },
+            {
+                  "name": "Sandnessjøen kirke",
+                  "text": "Die Hauptkirche der Stadt Sandnessjøen.",
+                  "category": "religious",
+                  "coords": [
+                        12.61822,
+                        66.019218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sandnessjøen krigsminnesamling",
+                  "text": "Sandnessjøen múzeuma, amely a helyi háborús történelemnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        12.620581,
+                        66.016611
+                  ]
+            },
+            {
+                  "name": "Sandnessjøen kirke",
+                  "text": "Sandnessjøen városának főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        12.61822,
+                        66.019218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sandnessjøen krigsminnesamling",
+                  "text": "Un muzeu în Sandnessjøen dedicat istoriei locale de război.",
+                  "category": "museum",
+                  "coords": [
+                        12.620581,
+                        66.016611
+                  ]
+            },
+            {
+                  "name": "Sandnessjøen kirke",
+                  "text": "Biserica principală a orașului Sandnessjøen.",
+                  "category": "religious",
+                  "coords": [
+                        12.61822,
+                        66.019218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sandnessjøen krigsminnesamling",
+                  "text": "A museum in Sandnessjøen dedicated to local war history.",
+                  "category": "museum",
+                  "coords": [
+                        12.620581,
+                        66.016611
+                  ]
+            },
+            {
+                  "name": "Sandnessjøen kirke",
+                  "text": "The main church of the town of Sandnessjøen.",
+                  "category": "religious",
+                  "coords": [
+                        12.61822,
+                        66.019218
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Sandnessjøen", hu: "Sandnessjøen", ro: "Sandnessjøen", en: "Sandnessjøen" },
@@ -1398,7 +9822,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-kirkenes-cities-v2.webp",
   },
   {
-    id: "norway-bardufoss-cities-v2",
+    id: "norway-bardufoss-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fossmotunet",
+                  "text": "Ein Freilichtmuseum in Bardufoss.",
+                  "category": "museum",
+                  "coords": [
+                        18.595495,
+                        69.045068
+                  ]
+            },
+            {
+                  "name": "Heggelia kapell",
+                  "text": "Eine Kapelle in Bardufoss.",
+                  "category": "religious",
+                  "coords": [
+                        18.510459,
+                        69.045169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fossmotunet",
+                  "text": "Szabadtéri múzeum Bardufossban.",
+                  "category": "museum",
+                  "coords": [
+                        18.595495,
+                        69.045068
+                  ]
+            },
+            {
+                  "name": "Heggelia kapell",
+                  "text": "Kápolna Bardufossban.",
+                  "category": "religious",
+                  "coords": [
+                        18.510459,
+                        69.045169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fossmotunet",
+                  "text": "Un muzeu în aer liber în Bardufoss.",
+                  "category": "museum",
+                  "coords": [
+                        18.595495,
+                        69.045068
+                  ]
+            },
+            {
+                  "name": "Heggelia kapell",
+                  "text": "O capelă în Bardufoss.",
+                  "category": "religious",
+                  "coords": [
+                        18.510459,
+                        69.045169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fossmotunet",
+                  "text": "An open-air museum in Bardufoss.",
+                  "category": "museum",
+                  "coords": [
+                        18.595495,
+                        69.045068
+                  ]
+            },
+            {
+                  "name": "Heggelia kapell",
+                  "text": "A chapel in Bardufoss.",
+                  "category": "religious",
+                  "coords": [
+                        18.510459,
+                        69.045169
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Bardufoss", hu: "Bardufoss", ro: "Bardufoss", en: "Bardufoss" },
@@ -1623,7 +10128,196 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-svolvaer-cities-v2.webp",
   },
   {
-    id: "norway-leknes-cities-v2",
+    id: "norway-leknes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Storeidvatnet naturreservat",
+                  "text": "Ein vogelschonendes Naturreservat am Storeidvatnet-See bei Leknes.",
+                  "category": "natural",
+                  "coords": [
+                        13.565742,
+                        68.139119
+                  ]
+            },
+            {
+                  "name": "Fygle museum",
+                  "text": "Ein Freilichtmuseum in Leknes, das die regionale Kulturgeschichte beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        13.646424,
+                        68.144743
+                  ]
+            },
+            {
+                  "name": "Storeidvatnet fugletårn",
+                  "text": "Ein Turm zur Beobachtung von Vögeln am Storeidvatnet-See.",
+                  "category": "natural",
+                  "coords": [
+                        13.569375,
+                        68.138074
+                  ]
+            },
+            {
+                  "name": "Hol kirke",
+                  "text": "Eine historische Kirche in der Ortschaft Hol bei Leknes.",
+                  "category": "religious",
+                  "coords": [
+                        13.642175,
+                        68.13873
+                  ]
+            },
+            {
+                  "name": "Adventkirken i Lofoten",
+                  "text": "Ein Gotteshaus der Adventisten auf den Lofoten-Inseln.",
+                  "category": "religious",
+                  "coords": [
+                        13.616782,
+                        68.149507
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Storeidvatnet naturreservat",
+                  "text": "Madárvédelmi terület a Storeidvatnet-tónál, Leknes közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.565742,
+                        68.139119
+                  ]
+            },
+            {
+                  "name": "Fygle museum",
+                  "text": "Szabadtéri múzeum Leknesben, amely a regionális kultúrtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.646424,
+                        68.144743
+                  ]
+            },
+            {
+                  "name": "Storeidvatnet fugletårn",
+                  "text": "Madármegfigyelő torony a Storeidvatnet-tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        13.569375,
+                        68.138074
+                  ]
+            },
+            {
+                  "name": "Hol kirke",
+                  "text": "Történelmi templom Hol faluban, Leknes közelében.",
+                  "category": "religious",
+                  "coords": [
+                        13.642175,
+                        68.13873
+                  ]
+            },
+            {
+                  "name": "Adventkirken i Lofoten",
+                  "text": "Adventista templom a Lofoten-szigeteken.",
+                  "category": "religious",
+                  "coords": [
+                        13.616782,
+                        68.149507
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Storeidvatnet naturreservat",
+                  "text": "O rezervație naturală pentru protecția păsărilor la lacul Storeidvatnet, lângă Leknes.",
+                  "category": "natural",
+                  "coords": [
+                        13.565742,
+                        68.139119
+                  ]
+            },
+            {
+                  "name": "Fygle museum",
+                  "text": "Un muzeu în aer liber în Leknes care prezintă istoria culturală regională.",
+                  "category": "museum",
+                  "coords": [
+                        13.646424,
+                        68.144743
+                  ]
+            },
+            {
+                  "name": "Storeidvatnet fugletårn",
+                  "text": "Un turn pentru observarea păsărilor pe malul lacului Storeidvatnet.",
+                  "category": "natural",
+                  "coords": [
+                        13.569375,
+                        68.138074
+                  ]
+            },
+            {
+                  "name": "Hol kirke",
+                  "text": "O biserică istorică în satul Hol, lângă Leknes.",
+                  "category": "religious",
+                  "coords": [
+                        13.642175,
+                        68.13873
+                  ]
+            },
+            {
+                  "name": "Adventkirken i Lofoten",
+                  "text": "Un lăcaș de cult adventist în insulele Lofoten.",
+                  "category": "religious",
+                  "coords": [
+                        13.616782,
+                        68.149507
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Storeidvatnet naturreservat",
+                  "text": "A bird-rich nature reserve by Storeidvatnet lake near Leknes.",
+                  "category": "natural",
+                  "coords": [
+                        13.565742,
+                        68.139119
+                  ]
+            },
+            {
+                  "name": "Fygle museum",
+                  "text": "An open-air museum in Leknes highlighting regional cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        13.646424,
+                        68.144743
+                  ]
+            },
+            {
+                  "name": "Storeidvatnet fugletårn",
+                  "text": "A tower for birdwatching on the shores of Storeidvatnet lake.",
+                  "category": "natural",
+                  "coords": [
+                        13.569375,
+                        68.138074
+                  ]
+            },
+            {
+                  "name": "Hol kirke",
+                  "text": "A historical church in the village of Hol near Leknes.",
+                  "category": "religious",
+                  "coords": [
+                        13.642175,
+                        68.13873
+                  ]
+            },
+            {
+                  "name": "Adventkirken i Lofoten",
+                  "text": "An Adventist place of worship in the Lofoten islands.",
+                  "category": "religious",
+                  "coords": [
+                        13.616782,
+                        68.149507
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Leknes", hu: "Leknes", ro: "Leknes", en: "Leknes" },
@@ -1668,7 +10362,196 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-leknes-cities-v2.webp",
   },
   {
-    id: "norway-andenes-cities-v2",
+    id: "norway-andenes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Andøymuseet",
+                  "text": "Ein Museum in Andenes zur Polargeschichte und Natur.",
+                  "category": "museum",
+                  "coords": [
+                        16.117265,
+                        69.323274
+                  ]
+            },
+            {
+                  "name": "Andenes fyr",
+                  "text": "Ein hoher Leuchtturm und Wahrzeichen von Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.115915,
+                        69.324005
+                  ]
+            },
+            {
+                  "name": "Hvalsafari Andenes",
+                  "text": "Attraktion für Walbeobachtungstouren in Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.119781,
+                        69.323422
+                  ]
+            },
+            {
+                  "name": "Sea Safari Andenes",
+                  "text": "Anbieter von Bootstouren und Meeresabenteuern in Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.121624,
+                        69.322761
+                  ]
+            },
+            {
+                  "name": "Andenes kirke",
+                  "text": "Eine Kirche in der Küstenstadt Andenes.",
+                  "category": "religious",
+                  "coords": [
+                        16.12678,
+                        69.318475
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Andøymuseet",
+                  "text": "Andenes múzeuma, amely a sarki történelemre és természetre fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        16.117265,
+                        69.323274
+                  ]
+            },
+            {
+                  "name": "Andenes fyr",
+                  "text": "Magas világítótorony és Andenes jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        16.115915,
+                        69.324005
+                  ]
+            },
+            {
+                  "name": "Hvalsafari Andenes",
+                  "text": "Bálnales túrákat kínáló látványosság Andenesben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.119781,
+                        69.323422
+                  ]
+            },
+            {
+                  "name": "Sea Safari Andenes",
+                  "text": "Hajótúrákat és tengeri kalandokat kínáló szolgáltató Andenesben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.121624,
+                        69.322761
+                  ]
+            },
+            {
+                  "name": "Andenes kirke",
+                  "text": "Templom Andenes tengerparti városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.12678,
+                        69.318475
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Andøymuseet",
+                  "text": "Un muzeu în Andenes concentrat pe istoria polară și natură.",
+                  "category": "museum",
+                  "coords": [
+                        16.117265,
+                        69.323274
+                  ]
+            },
+            {
+                  "name": "Andenes fyr",
+                  "text": "Un far înalt și simbol al localității Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.115915,
+                        69.324005
+                  ]
+            },
+            {
+                  "name": "Hvalsafari Andenes",
+                  "text": "Atracție care oferă tururi de observare a balenelor în Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.119781,
+                        69.323422
+                  ]
+            },
+            {
+                  "name": "Sea Safari Andenes",
+                  "text": "Furnizor de tururi cu barca și aventuri marine în Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.121624,
+                        69.322761
+                  ]
+            },
+            {
+                  "name": "Andenes kirke",
+                  "text": "O biserică în orașul de coastă Andenes.",
+                  "category": "religious",
+                  "coords": [
+                        16.12678,
+                        69.318475
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andøymuseet",
+                  "text": "A museum in Andenes focusing on polar history and nature.",
+                  "category": "museum",
+                  "coords": [
+                        16.117265,
+                        69.323274
+                  ]
+            },
+            {
+                  "name": "Andenes fyr",
+                  "text": "A tall lighthouse and landmark of Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.115915,
+                        69.324005
+                  ]
+            },
+            {
+                  "name": "Hvalsafari Andenes",
+                  "text": "Attraction offering whale watching tours in Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.119781,
+                        69.323422
+                  ]
+            },
+            {
+                  "name": "Sea Safari Andenes",
+                  "text": "Provider of boat tours and sea adventures in Andenes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.121624,
+                        69.322761
+                  ]
+            },
+            {
+                  "name": "Andenes kirke",
+                  "text": "A church in the coastal town of Andenes.",
+                  "category": "religious",
+                  "coords": [
+                        16.12678,
+                        69.318475
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Andenes", hu: "Andenes", ro: "Andenes", en: "Andenes" },
@@ -1713,7 +10596,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-andenes-cities-v2.webp",
   },
   {
-    id: "norway-setermoen-cities-v2",
+    id: "norway-setermoen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Troms Forsvarsmuseum",
+                  "text": "Ein Militärmuseum in Setermoen, das die regionale Verteidigungsgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.349595,
+                        68.858132
+                  ]
+            },
+            {
+                  "name": "Bardu kirke",
+                  "text": "Eine hölzerne Kreuzkirche in Setermoen.",
+                  "category": "religious",
+                  "coords": [
+                        18.346348,
+                        68.865055
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Troms Forsvarsmuseum",
+                  "text": "Katonai múzeum Setermoenben, amely a regionális hadtörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.349595,
+                        68.858132
+                  ]
+            },
+            {
+                  "name": "Bardu kirke",
+                  "text": "Fából készült keresztirányú templom Setermoenben.",
+                  "category": "religious",
+                  "coords": [
+                        18.346348,
+                        68.865055
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Troms Forsvarsmuseum",
+                  "text": "Un muzeu militar în Setermoen, care prezintă istoria apărării regionale.",
+                  "category": "museum",
+                  "coords": [
+                        18.349595,
+                        68.858132
+                  ]
+            },
+            {
+                  "name": "Bardu kirke",
+                  "text": "O biserică de lemn în formă de cruce în Setermoen.",
+                  "category": "religious",
+                  "coords": [
+                        18.346348,
+                        68.865055
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Troms Forsvarsmuseum",
+                  "text": "A military museum in Setermoen showcasing regional defense history.",
+                  "category": "museum",
+                  "coords": [
+                        18.349595,
+                        68.858132
+                  ]
+            },
+            {
+                  "name": "Bardu kirke",
+                  "text": "A wooden cruciform church in Setermoen.",
+                  "category": "religious",
+                  "coords": [
+                        18.346348,
+                        68.865055
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Setermoen", hu: "Setermoen", ro: "Setermoen", en: "Setermoen" },
@@ -1803,7 +10767,52 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-skjervøy-cities-v2.webp",
   },
   {
-    id: "norway-lakselv-cities-v2",
+    id: "norway-lakselv-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lakselv kirke",
+                  "text": "Die Hauptkirche in Lakselv.",
+                  "category": "religious",
+                  "coords": [
+                        24.952835,
+                        70.050356
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lakselv kirke",
+                  "text": "Lakselv főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        24.952835,
+                        70.050356
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lakselv kirke",
+                  "text": "Biserica principală din Lakselv.",
+                  "category": "religious",
+                  "coords": [
+                        24.952835,
+                        70.050356
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lakselv kirke",
+                  "text": "The main church in Lakselv.",
+                  "category": "religious",
+                  "coords": [
+                        24.952835,
+                        70.050356
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Lakselv", hu: "Lakselv", ro: "Lakselv", en: "Lakselv" },
@@ -1848,7 +10857,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-lakselv-cities-v2.webp",
   },
   {
-    id: "norway-honningsvåg-cities-v2",
+    id: "norway-honningsvåg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Søre Honningsvåg",
+                  "text": "Ein Leuchtturm südlich von Honningsvåg.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964932,
+                        70.977049
+                  ]
+            },
+            {
+                  "name": "Nordkappmuseet",
+                  "text": "Ein Museum in Honningsvåg, das sich der Geschichte des Nordkaps widmet.",
+                  "category": "museum",
+                  "coords": [
+                        25.970096,
+                        70.981406
+                  ]
+            },
+            {
+                  "name": "Honningsvåg kirke",
+                  "text": "Die älteste Kirche in Honningsvåg, die den Zweiten Weltkrieg überstand.",
+                  "category": "religious",
+                  "coords": [
+                        25.979114,
+                        70.977984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Søre Honningsvåg",
+                  "text": "Világítótorony Honningsvågtól délre.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964932,
+                        70.977049
+                  ]
+            },
+            {
+                  "name": "Nordkappmuseet",
+                  "text": "Múzeum Honningsvågban, amely az Északi-fok történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        25.970096,
+                        70.981406
+                  ]
+            },
+            {
+                  "name": "Honningsvåg kirke",
+                  "text": "Honningsvåg legrégebbi temploma, amely túlélte a második világháborút.",
+                  "category": "religious",
+                  "coords": [
+                        25.979114,
+                        70.977984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Søre Honningsvåg",
+                  "text": "Un far situat la sud de Honningsvåg.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964932,
+                        70.977049
+                  ]
+            },
+            {
+                  "name": "Nordkappmuseet",
+                  "text": "Un muzeu în Honningsvåg, dedicat istoriei Capului Nord.",
+                  "category": "museum",
+                  "coords": [
+                        25.970096,
+                        70.981406
+                  ]
+            },
+            {
+                  "name": "Honningsvåg kirke",
+                  "text": "Cea mai veche biserică din Honningsvåg, care a supraviețuit celui de-al Doilea Război Mondial.",
+                  "category": "religious",
+                  "coords": [
+                        25.979114,
+                        70.977984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Søre Honningsvåg",
+                  "text": "A lighthouse located south of Honningsvåg.",
+                  "category": "landmark",
+                  "coords": [
+                        25.964932,
+                        70.977049
+                  ]
+            },
+            {
+                  "name": "Nordkappmuseet",
+                  "text": "A museum in Honningsvåg dedicated to the history of the North Cape.",
+                  "category": "museum",
+                  "coords": [
+                        25.970096,
+                        70.981406
+                  ]
+            },
+            {
+                  "name": "Honningsvåg kirke",
+                  "text": "The oldest church in Honningsvåg, which survived World War II.",
+                  "category": "religious",
+                  "coords": [
+                        25.979114,
+                        70.977984
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Honningsvåg", hu: "Honningsvåg", ro: "Honningsvåg", en: "Honningsvåg" },
@@ -1893,7 +11019,484 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-honningsvåg-cities-v2.webp",
   },
   {
-    id: "norway-reine-cities-v2",
+    id: "norway-reine-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fiskarskjæret",
+                  "text": "Ein Leuchtturm auf einer kleinen Schäre bei Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.102406,
+                        67.93639
+                  ]
+            },
+            {
+                  "name": "Lofotodden nasjonalpark",
+                  "text": "Ein Museum, das über den Lofotodden-Nationalpark in Reine informiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.087668,
+                        67.932202
+                  ]
+            },
+            {
+                  "name": "Gravdalsbukta",
+                  "text": "Eine malerische Bucht in der Nähe des Fischerdorfes Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.084694,
+                        67.931025
+                  ]
+            },
+            {
+                  "name": "Gylttinden",
+                  "text": "Ein markanter Berggipfel in der Umgebung von Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.038806,
+                        67.912371
+                  ]
+            },
+            {
+                  "name": "Olstinden",
+                  "text": "Einer der bekanntesten und fotogensten Gipfel bei Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.076849,
+                        67.95648
+                  ]
+            },
+            {
+                  "name": "Navaren",
+                  "text": "Ein spitzer Berggipfel in der zerklüfteten Landschaft von Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.043648,
+                        67.938102
+                  ]
+            },
+            {
+                  "name": "Reinevågen",
+                  "text": "Ein kleiner Seitenarm des Fjords bei Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.080658,
+                        67.936725
+                  ]
+            },
+            {
+                  "name": "Vorfjorden",
+                  "text": "Ein abgelegener Fjord in der Region Lofoten nahe Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103948,
+                        67.959164
+                  ]
+            },
+            {
+                  "name": "Reinefjorden",
+                  "text": "Der Hauptfjord, an dem das Dorf Reine liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.056264,
+                        67.949707
+                  ]
+            },
+            {
+                  "name": "Ancient Fisherboat Hanna Mathilde",
+                  "text": "Ein historisches Fischerboot, das als kulturelle Attraktion in Reine dient.",
+                  "category": "landmark",
+                  "coords": [
+                        13.088122,
+                        67.934231
+                  ]
+            },
+            {
+                  "name": "Aqua Lofoten Coast Adventure",
+                  "text": "Ein Anbieter für Bootstouren und Naturerlebnisse in Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.090225,
+                        67.934798
+                  ]
+            },
+            {
+                  "name": "Reinehalsen",
+                  "text": "Ein berühmter Aussichtspunkt am Eingang von Reine mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        13.084359,
+                        67.928332
+                  ]
+            },
+            {
+                  "name": "Preikstolen",
+                  "text": "Ein lokaler Aussichtspunkt in Reine (nicht zu verwechseln mit dem berühmten Felsen).",
+                  "category": "natural",
+                  "coords": [
+                        13.083045,
+                        67.940254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fiskarskjæret",
+                  "text": "Világítótorony egy kis sziklazátonyon Reine közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.102406,
+                        67.93639
+                  ]
+            },
+            {
+                  "name": "Lofotodden nasjonalpark",
+                  "text": "A Reine-ben található múzeum, amely a Lofotodden Nemzeti Parkot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.087668,
+                        67.932202
+                  ]
+            },
+            {
+                  "name": "Gravdalsbukta",
+                  "text": "Gleccser vájta öböl Reine halászfalu közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.084694,
+                        67.931025
+                  ]
+            },
+            {
+                  "name": "Gylttinden",
+                  "text": "Jellegzetes hegycsúcs Reine környékén.",
+                  "category": "natural",
+                  "coords": [
+                        13.038806,
+                        67.912371
+                  ]
+            },
+            {
+                  "name": "Olstinden",
+                  "text": "Az egyik legismertebb és legfotogénebb csúcs Reine közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.076849,
+                        67.95648
+                  ]
+            },
+            {
+                  "name": "Navaren",
+                  "text": "Hegyes hegycsúcs Reine sziklás táján.",
+                  "category": "natural",
+                  "coords": [
+                        13.043648,
+                        67.938102
+                  ]
+            },
+            {
+                  "name": "Reinevågen",
+                  "text": "A fjord egyik kis ága Reine közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.080658,
+                        67.936725
+                  ]
+            },
+            {
+                  "name": "Vorfjorden",
+                  "text": "Félreeső fjord a Lofoten-régióban, Reine közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103948,
+                        67.959164
+                  ]
+            },
+            {
+                  "name": "Reinefjorden",
+                  "text": "A fő fjord, amelynek partján Reine falu fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        13.056264,
+                        67.949707
+                  ]
+            },
+            {
+                  "name": "Ancient Fisherboat Hanna Mathilde",
+                  "text": "Történelmi halászhajó, amely kulturális látványosságként szolgál Reine-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.088122,
+                        67.934231
+                  ]
+            },
+            {
+                  "name": "Aqua Lofoten Coast Adventure",
+                  "text": "Hajós túrákat és természetjáró élményeket kínáló szolgáltató Reine-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.090225,
+                        67.934798
+                  ]
+            },
+            {
+                  "name": "Reinehalsen",
+                  "text": "Híres kilátóhely Reine bejáratánál, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        13.084359,
+                        67.928332
+                  ]
+            },
+            {
+                  "name": "Preikstolen",
+                  "text": "Helyi kilátóhely Reine-ben (nem összetévesztendő a híres sziklával).",
+                  "category": "natural",
+                  "coords": [
+                        13.083045,
+                        67.940254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fiskarskjæret",
+                  "text": "Un far pe o mică insulă stâncoasă lângă Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.102406,
+                        67.93639
+                  ]
+            },
+            {
+                  "name": "Lofotodden nasjonalpark",
+                  "text": "Un muzeu care oferă informații despre Parcul Național Lofotodden din Reine.",
+                  "category": "museum",
+                  "coords": [
+                        13.087668,
+                        67.932202
+                  ]
+            },
+            {
+                  "name": "Gravdalsbukta",
+                  "text": "Un golf pitoresc în apropierea satului de pescari Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.084694,
+                        67.931025
+                  ]
+            },
+            {
+                  "name": "Gylttinden",
+                  "text": "Un vârf montan proeminent în împrejurimile Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.038806,
+                        67.912371
+                  ]
+            },
+            {
+                  "name": "Olstinden",
+                  "text": "Unul dintre cele mai cunoscute și fotogenice vârfuri de lângă Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.076849,
+                        67.95648
+                  ]
+            },
+            {
+                  "name": "Navaren",
+                  "text": "Un vârf montan ascuțit în peisajul accidentat din Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.043648,
+                        67.938102
+                  ]
+            },
+            {
+                  "name": "Reinevågen",
+                  "text": "O mică ramificație a fiordului lângă Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.080658,
+                        67.936725
+                  ]
+            },
+            {
+                  "name": "Vorfjorden",
+                  "text": "Un fiord izolat în regiunea Lofoten, lângă Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103948,
+                        67.959164
+                  ]
+            },
+            {
+                  "name": "Reinefjorden",
+                  "text": "Fiordul principal pe malul căruia se află satul Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.056264,
+                        67.949707
+                  ]
+            },
+            {
+                  "name": "Ancient Fisherboat Hanna Mathilde",
+                  "text": "O barcă istorică de pescuit care servește drept atracție culturală în Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.088122,
+                        67.934231
+                  ]
+            },
+            {
+                  "name": "Aqua Lofoten Coast Adventure",
+                  "text": "Un furnizor de tururi cu barca și experiențe în natură în Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.090225,
+                        67.934798
+                  ]
+            },
+            {
+                  "name": "Reinehalsen",
+                  "text": "Un punct de belvedere celebru la intrarea în Reine, cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        13.084359,
+                        67.928332
+                  ]
+            },
+            {
+                  "name": "Preikstolen",
+                  "text": "Un punct de belvedere local în Reine (a nu se confunda cu celebra stâncă).",
+                  "category": "natural",
+                  "coords": [
+                        13.083045,
+                        67.940254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fiskarskjæret",
+                  "text": "A lighthouse on a small skerry near Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.102406,
+                        67.93639
+                  ]
+            },
+            {
+                  "name": "Lofotodden National Park museum",
+                  "text": "A museum providing information about the Lofotodden National Park in Reine.",
+                  "category": "museum",
+                  "coords": [
+                        13.087668,
+                        67.932202
+                  ]
+            },
+            {
+                  "name": "Gravdalsbukta",
+                  "text": "A scenic bay near the fishing village of Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.084694,
+                        67.931025
+                  ]
+            },
+            {
+                  "name": "Gylttinden",
+                  "text": "A prominent mountain peak in the Reine area.",
+                  "category": "natural",
+                  "coords": [
+                        13.038806,
+                        67.912371
+                  ]
+            },
+            {
+                  "name": "Olstinden",
+                  "text": "One of the most famous and photogenic peaks near Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.076849,
+                        67.95648
+                  ]
+            },
+            {
+                  "name": "Navaren",
+                  "text": "A sharp mountain peak in the rugged landscape of Reine.",
+                  "category": "natural",
+                  "coords": [
+                        13.043648,
+                        67.938102
+                  ]
+            },
+            {
+                  "name": "Reinevågen",
+                  "text": "A small arm of the fjord near Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.080658,
+                        67.936725
+                  ]
+            },
+            {
+                  "name": "Vorfjorden",
+                  "text": "A secluded fjord in the Lofoten region near Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.103948,
+                        67.959164
+                  ]
+            },
+            {
+                  "name": "Reinefjorden",
+                  "text": "The main fjord along which the village of Reine is situated.",
+                  "category": "landmark",
+                  "coords": [
+                        13.056264,
+                        67.949707
+                  ]
+            },
+            {
+                  "name": "Ancient Fisherboat Hanna Mathilde",
+                  "text": "A historical fishing boat serving as a cultural attraction in Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.088122,
+                        67.934231
+                  ]
+            },
+            {
+                  "name": "Aqua Lofoten Coast Adventure",
+                  "text": "A provider of boat tours and nature experiences in Reine.",
+                  "category": "landmark",
+                  "coords": [
+                        13.090225,
+                        67.934798
+                  ]
+            },
+            {
+                  "name": "Reinehalsen",
+                  "text": "A famous viewpoint at the entrance of Reine with panoramic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        13.084359,
+                        67.928332
+                  ]
+            },
+            {
+                  "name": "Preikstolen",
+                  "text": "A local viewpoint in Reine (not to be confused with the famous cliff).",
+                  "category": "natural",
+                  "coords": [
+                        13.083045,
+                        67.940254
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Reine", hu: "Reine", ro: "Reine", en: "Reine" },
@@ -1983,7 +11586,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-hemavan-cities-v2.webp",
   },
   {
-    id: "norway-brønnøy-cities-v2",
+    id: "norway-brønnøy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "Ein Küstenfeuer in der Gemeinde Brønnøy.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "Eine geschützte Bucht in Brønnøy.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Vannbasseng",
+                  "text": "Überreste einer historischen Wasseranlage in Brønnøy.",
+                  "category": "historical",
+                  "coords": [
+                        12.265971,
+                        65.493687
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "Eine historische Steinkirche in der Gemeinde Brønnøy.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "Parti világítótorony Brønnøy községben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "Védett öböl Brønnøyban.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Vannbasseng",
+                  "text": "Történelmi víztározó maradványai Brønnøyban.",
+                  "category": "historical",
+                  "coords": [
+                        12.265971,
+                        65.493687
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "Történelmi kőtemplom Brønnøy községben.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "Un far de coastă în comuna Brønnøy.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "Un golf protejat în Brønnøy.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Vannbasseng",
+                  "text": "Rămășițele unui rezervor istoric de apă în Brønnøy.",
+                  "category": "historical",
+                  "coords": [
+                        12.265971,
+                        65.493687
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "O biserică istorică de piatră în comuna Brønnøy.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odinskjeret fyr",
+                  "text": "A coastal lighthouse in Brønnøy municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        12.198937,
+                        65.472619
+                  ]
+            },
+            {
+                  "name": "Frøkenosen",
+                  "text": "A sheltered bay in Brønnøy.",
+                  "category": "landmark",
+                  "coords": [
+                        12.212288,
+                        65.472434
+                  ]
+            },
+            {
+                  "name": "Vannbasseng",
+                  "text": "Remains of a historic water basin in Brønnøy.",
+                  "category": "historical",
+                  "coords": [
+                        12.265971,
+                        65.493687
+                  ]
+            },
+            {
+                  "name": "Brønnøy kirke",
+                  "text": "A historic stone church in Brønnøy municipality.",
+                  "category": "religious",
+                  "coords": [
+                        12.206501,
+                        65.468881
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Brønnøy", hu: "Brønnøy", ro: "Brønnøy", en: "Brønnøy" },
@@ -2028,7 +11784,340 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-brønnøy-cities-v2.webp",
   },
   {
-    id: "norway-porsgrunn-cities-v2",
+    id: "norway-porsgrunn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "Maritimes Museum und Wissenschaftszentrum in Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "Ein Museum, das die Geschichte der Porzellanherstellung in Porsgrunn zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "Ein Museum zur Schifffahrtsgeschichte in Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "Eine unabhängige Theatergruppe mit eigenem Spielort in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "Ein modernes Kulturhaus und Theater am Fluss in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "Der Theatersaal im Rathaus von Porsgrunn für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "Ein Aussichtspunkt in Porsgrunn mit Blick auf die Stadt und das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "Eine historische Holzkirche im westlichen Teil von Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "Eine Backsteinkirche aus dem frühen 20. Jahrhundert in Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "Tengerészeti múzeum és tudományos központ Porsgrunnban.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "A porsgrunni porcelángyártás történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "Hajózástörténeti múzeum Porsgrunnban.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "Független színtársulat saját játszóhellyel Porsgrunnban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "Modern kulturális központ és színház a folyóparton Porsgrunnban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "A porsgrunni városháza színházterme különféle előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "Kilátóhely Porsgrunnban, rálátással a városra és a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "Történelmi fatemplom Porsgrunn nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "20. század eleji téglaépítésű templom Porsgrunnban.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "Muzeu maritim și centru de știință în Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "Un muzeu care prezintă istoria fabricării porțelanului în Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "Un muzeu al istoriei navigației în Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "O companie de teatru independentă cu propriul spațiu în Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "O casă de cultură modernă și teatru pe malul râului în Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "Sala de teatru din primăria Porsgrunn pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "Un punct de belvedere în Porsgrunn cu vedere spre oraș și apă.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "O biserică istorică de lemn în partea de vest a orașului Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "O biserică de cărămidă de la începutul secolului XX în Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "DuVerden sjøfartsmuseum og vitensenter",
+                  "text": "Maritime museum and science center in Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.637258,
+                        59.136649
+                  ]
+            },
+            {
+                  "name": "Porselensmuseet",
+                  "text": "A museum showcasing the history of porcelain production in Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.639159,
+                        59.140818
+                  ]
+            },
+            {
+                  "name": "Sjøfartsmuseet",
+                  "text": "A museum dedicated to maritime history in Porsgrunn.",
+                  "category": "museum",
+                  "coords": [
+                        9.638412,
+                        59.137229
+                  ]
+            },
+            {
+                  "name": "Grenland friteater",
+                  "text": "An independent theatre company with its own venue in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.642969,
+                        59.137253
+                  ]
+            },
+            {
+                  "name": "Ælvespeilet",
+                  "text": "A modern cultural center and theatre by the river in Porsgrunn.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655391,
+                        59.142132
+                  ]
+            },
+            {
+                  "name": "Teatersalen, Porsgrunn rådhus",
+                  "text": "The theatre hall in Porsgrunn City Hall for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.655774,
+                        59.141152
+                  ]
+            },
+            {
+                  "name": "Dansesletta",
+                  "text": "A viewpoint in Porsgrunn with views over the town and water.",
+                  "category": "natural",
+                  "coords": [
+                        9.664522,
+                        59.151393
+                  ]
+            },
+            {
+                  "name": "Vestre Porsgrunn kirke",
+                  "text": "A historical wooden church in the western part of Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.641758,
+                        59.142905
+                  ]
+            },
+            {
+                  "name": "Borgestad kirke",
+                  "text": "An early 20th-century brick church located in Porsgrunn.",
+                  "category": "religious",
+                  "coords": [
+                        9.657862,
+                        59.160256
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Porsgrunn", hu: "Porsgrunn", ro: "Porsgrunn", en: "Porsgrunn" },
@@ -2073,7 +12162,700 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-porsgrunn-cities-v2.webp",
   },
   {
-    id: "norway-kragero-cities-v2",
+    id: "norway-kragero-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kittelsenhuset",
+                  "text": "Museum in Kragerø, das dem Künstler Theodor Kittelsen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.411776,
+                        58.868597
+                  ]
+            },
+            {
+                  "name": "Rognholmen naturreservat",
+                  "text": "Ein Naturschutzgebiet auf einer Insel bei Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.449511,
+                        58.852158
+                  ]
+            },
+            {
+                  "name": "Storkollen naturreservat",
+                  "text": "Ein Naturschutzgebiet mit Wanderwegen in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.378034,
+                        58.866249
+                  ]
+            },
+            {
+                  "name": "Frydensborg plante- og dyrefredningsområde",
+                  "text": "Ein geschütztes Naturgebiet in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.395359,
+                        58.874189
+                  ]
+            },
+            {
+                  "name": "Malmhella plantefredningsområde",
+                  "text": "Ein Pflanzenschutzgebiet in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.418499,
+                        58.879778
+                  ]
+            },
+            {
+                  "name": "Playmobil museum",
+                  "text": "Ein Museum mit einer großen Playmobil-Sammlung in Kragerø.",
+                  "category": "museum",
+                  "coords": [
+                        9.41285,
+                        58.869489
+                  ]
+            },
+            {
+                  "name": "Gunnarsholmen",
+                  "text": "Ein beliebter Strand und Erholungsort in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.411251,
+                        58.864804
+                  ]
+            },
+            {
+                  "name": "Lindvika",
+                  "text": "Ein schöner Strandbereich in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.416313,
+                        58.864693
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Ein öffentliches Seebad und Strand in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.41442,
+                        58.864737
+                  ]
+            },
+            {
+                  "name": "Vestre Stabbestad",
+                  "text": "Ein Strand im Viertel Stabbestad von Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.389245,
+                        58.849669
+                  ]
+            },
+            {
+                  "name": "Breibukta",
+                  "text": "Ein Strand im Schärengarten von Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.371669,
+                        58.856319
+                  ]
+            },
+            {
+                  "name": "Sjøstrand",
+                  "text": "Ein küstennaher Strandbereich in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.382023,
+                        58.858299
+                  ]
+            },
+            {
+                  "name": "Skrubben",
+                  "text": "Ein Aussichtspunkt in Kragerø mit Blick auf den Fjord.",
+                  "category": "natural",
+                  "coords": [
+                        9.407105,
+                        58.864495
+                  ]
+            },
+            {
+                  "name": "Veten",
+                  "text": "Ein markanter Aussichtspunkt in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.419205,
+                        58.865435
+                  ]
+            },
+            {
+                  "name": "Steinmann",
+                  "text": "Ein Aussichtspunkt über der Stadt Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.409778,
+                        58.869804
+                  ]
+            },
+            {
+                  "name": "Darefjell",
+                  "text": "Ein Aussichtspunkt und Wanderziel in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.449321,
+                        58.85955
+                  ]
+            },
+            {
+                  "name": "Kragerø Kunstforening",
+                  "text": "Regionale Kunstgalerie und Verein in Kragerø.",
+                  "category": "museum",
+                  "coords": [
+                        9.412023,
+                        58.870424
+                  ]
+            },
+            {
+                  "name": "Bjørnsborgparken",
+                  "text": "Ein öffentlicher Park und Attraktion in Kragerø.",
+                  "category": "landmark",
+                  "coords": [
+                        9.413521,
+                        58.872516
+                  ]
+            },
+            {
+                  "name": "Kragerø kirke",
+                  "text": "Eine große Backsteinkirche in Kragerø.",
+                  "category": "religious",
+                  "coords": [
+                        9.414378,
+                        58.871156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kittelsenhuset",
+                  "text": "Theodor Kittelsen művésznek szentelt múzeum Kragerőben.",
+                  "category": "museum",
+                  "coords": [
+                        9.411776,
+                        58.868597
+                  ]
+            },
+            {
+                  "name": "Rognholmen naturreservat",
+                  "text": "Természetvédelmi terület egy Kragerő melletti szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        9.449511,
+                        58.852158
+                  ]
+            },
+            {
+                  "name": "Storkollen naturreservat",
+                  "text": "Természetvédelmi terület túraútvonalakkal Kragerőben.",
+                  "category": "natural",
+                  "coords": [
+                        9.378034,
+                        58.866249
+                  ]
+            },
+            {
+                  "name": "Frydensborg plante- og dyrefredningsområde",
+                  "text": "Védett természeti terület Kragerőben.",
+                  "category": "natural",
+                  "coords": [
+                        9.395359,
+                        58.874189
+                  ]
+            },
+            {
+                  "name": "Malmhella plantefredningsområde",
+                  "text": "Növényvédelmi terület Kragerőben.",
+                  "category": "natural",
+                  "coords": [
+                        9.418499,
+                        58.879778
+                  ]
+            },
+            {
+                  "name": "Playmobil museum",
+                  "text": "Múzeum nagy Playmobil-gyűjteménnyel Kragerőben.",
+                  "category": "museum",
+                  "coords": [
+                        9.41285,
+                        58.869489
+                  ]
+            },
+            {
+                  "name": "Gunnarsholmen",
+                  "text": "Népszerű strand és pihenőhely Kragerőben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.411251,
+                        58.864804
+                  ]
+            },
+            {
+                  "name": "Lindvika",
+                  "text": "Szép tengerparti rész Kragerőben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.416313,
+                        58.864693
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "Nyilvános tengeri fürdő és strand Kragerőben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.41442,
+                        58.864737
+                  ]
+            },
+            {
+                  "name": "Vestre Stabbestad",
+                  "text": "Strand Kragerő Stabbestad negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        9.389245,
+                        58.849669
+                  ]
+            },
+            {
+                  "name": "Breibukta",
+                  "text": "Strand a kragerői szigetvilágban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.371669,
+                        58.856319
+                  ]
+            },
+            {
+                  "name": "Sjøstrand",
+                  "text": "Tengerparti strand Kragerőben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.382023,
+                        58.858299
+                  ]
+            },
+            {
+                  "name": "Skrubben",
+                  "text": "Kilátóhely Kragerőben, kilátással a fjordra.",
+                  "category": "natural",
+                  "coords": [
+                        9.407105,
+                        58.864495
+                  ]
+            },
+            {
+                  "name": "Veten",
+                  "text": "Jelentős kilátóhely Kragerőben.",
+                  "category": "natural",
+                  "coords": [
+                        9.419205,
+                        58.865435
+                  ]
+            },
+            {
+                  "name": "Steinmann",
+                  "text": "Kilátóhely Kragerő városa felett.",
+                  "category": "natural",
+                  "coords": [
+                        9.409778,
+                        58.869804
+                  ]
+            },
+            {
+                  "name": "Darefjell",
+                  "text": "Kilátóhely és túracélpont Kragerőben.",
+                  "category": "natural",
+                  "coords": [
+                        9.449321,
+                        58.85955
+                  ]
+            },
+            {
+                  "name": "Kragerø Kunstforening",
+                  "text": "Helyi művészeti galéria és egyesület Kragerőben.",
+                  "category": "museum",
+                  "coords": [
+                        9.412023,
+                        58.870424
+                  ]
+            },
+            {
+                  "name": "Bjørnsborgparken",
+                  "text": "Nyilvános park és látványosság Kragerőben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.413521,
+                        58.872516
+                  ]
+            },
+            {
+                  "name": "Kragerø kirke",
+                  "text": "Nagy téglaépítésű templom Kragerőben.",
+                  "category": "religious",
+                  "coords": [
+                        9.414378,
+                        58.871156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kittelsenhuset",
+                  "text": "Muzeu în Kragerø dedicat artistului Theodor Kittelsen.",
+                  "category": "museum",
+                  "coords": [
+                        9.411776,
+                        58.868597
+                  ]
+            },
+            {
+                  "name": "Rognholmen naturreservat",
+                  "text": "Rezervație naturală pe o insulă de lângă Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.449511,
+                        58.852158
+                  ]
+            },
+            {
+                  "name": "Storkollen naturreservat",
+                  "text": "O rezervație naturală cu trasee de drumeție în Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.378034,
+                        58.866249
+                  ]
+            },
+            {
+                  "name": "Frydensborg plante- og dyrefredningsområde",
+                  "text": "O zonă naturală protejată în Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.395359,
+                        58.874189
+                  ]
+            },
+            {
+                  "name": "Malmhella plantefredningsområde",
+                  "text": "O zonă de protecție a plantelor în Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.418499,
+                        58.879778
+                  ]
+            },
+            {
+                  "name": "Playmobil museum",
+                  "text": "Un muzeu cu o colecție mare de Playmobil în Kragerø.",
+                  "category": "museum",
+                  "coords": [
+                        9.41285,
+                        58.869489
+                  ]
+            },
+            {
+                  "name": "Gunnarsholmen",
+                  "text": "O plajă populară și loc de recreere în Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.411251,
+                        58.864804
+                  ]
+            },
+            {
+                  "name": "Lindvika",
+                  "text": "O zonă de plajă frumoasă în Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.416313,
+                        58.864693
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "O baie publică marină și plajă în Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.41442,
+                        58.864737
+                  ]
+            },
+            {
+                  "name": "Vestre Stabbestad",
+                  "text": "O plajă în cartierul Stabbestad din Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.389245,
+                        58.849669
+                  ]
+            },
+            {
+                  "name": "Breibukta",
+                  "text": "O plajă în arhipelagul Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.371669,
+                        58.856319
+                  ]
+            },
+            {
+                  "name": "Sjøstrand",
+                  "text": "O zonă de plajă la coastă în Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.382023,
+                        58.858299
+                  ]
+            },
+            {
+                  "name": "Skrubben",
+                  "text": "Un punct de belvedere în Kragerø cu vedere spre fjord.",
+                  "category": "natural",
+                  "coords": [
+                        9.407105,
+                        58.864495
+                  ]
+            },
+            {
+                  "name": "Veten",
+                  "text": "Un punct de belvedere important în Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.419205,
+                        58.865435
+                  ]
+            },
+            {
+                  "name": "Steinmann",
+                  "text": "Un punct de belvedere deasupra orașului Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.409778,
+                        58.869804
+                  ]
+            },
+            {
+                  "name": "Darefjell",
+                  "text": "Un punct de belvedere și destinație de drumeție în Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.449321,
+                        58.85955
+                  ]
+            },
+            {
+                  "name": "Kragerø Kunstforening",
+                  "text": "Galerie de artă locală și asociație în Kragerø.",
+                  "category": "museum",
+                  "coords": [
+                        9.412023,
+                        58.870424
+                  ]
+            },
+            {
+                  "name": "Bjørnsborgparken",
+                  "text": "Un parc public și atracție în Kragerø.",
+                  "category": "landmark",
+                  "coords": [
+                        9.413521,
+                        58.872516
+                  ]
+            },
+            {
+                  "name": "Kragerø kirke",
+                  "text": "O biserică mare din cărămidă în Kragerø.",
+                  "category": "religious",
+                  "coords": [
+                        9.414378,
+                        58.871156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kittelsenhuset",
+                  "text": "Museum in Kragerø dedicated to the artist Theodor Kittelsen.",
+                  "category": "museum",
+                  "coords": [
+                        9.411776,
+                        58.868597
+                  ]
+            },
+            {
+                  "name": "Rognholmen naturreservat",
+                  "text": "A nature reserve on an island near Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.449511,
+                        58.852158
+                  ]
+            },
+            {
+                  "name": "Storkollen naturreservat",
+                  "text": "A nature reserve with hiking trails in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.378034,
+                        58.866249
+                  ]
+            },
+            {
+                  "name": "Frydensborg plante- og dyrefredningsområde",
+                  "text": "A protected nature area in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.395359,
+                        58.874189
+                  ]
+            },
+            {
+                  "name": "Malmhella plantefredningsområde",
+                  "text": "A plant protection area in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.418499,
+                        58.879778
+                  ]
+            },
+            {
+                  "name": "Playmobil museum",
+                  "text": "A museum featuring a large collection of Playmobil in Kragerø.",
+                  "category": "museum",
+                  "coords": [
+                        9.41285,
+                        58.869489
+                  ]
+            },
+            {
+                  "name": "Gunnarsholmen",
+                  "text": "A popular beach and recreation area in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.411251,
+                        58.864804
+                  ]
+            },
+            {
+                  "name": "Lindvika",
+                  "text": "A scenic beach area in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.416313,
+                        58.864693
+                  ]
+            },
+            {
+                  "name": "Sjøbadet",
+                  "text": "A public sea bath and beach in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.41442,
+                        58.864737
+                  ]
+            },
+            {
+                  "name": "Vestre Stabbestad",
+                  "text": "A beach in the Stabbestad area of Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.389245,
+                        58.849669
+                  ]
+            },
+            {
+                  "name": "Breibukta",
+                  "text": "A beach in the Kragerø archipelago.",
+                  "category": "recreational",
+                  "coords": [
+                        9.371669,
+                        58.856319
+                  ]
+            },
+            {
+                  "name": "Sjøstrand",
+                  "text": "A coastal beach area in Kragerø.",
+                  "category": "recreational",
+                  "coords": [
+                        9.382023,
+                        58.858299
+                  ]
+            },
+            {
+                  "name": "Skrubben",
+                  "text": "A viewpoint in Kragerø with views of the fjord.",
+                  "category": "natural",
+                  "coords": [
+                        9.407105,
+                        58.864495
+                  ]
+            },
+            {
+                  "name": "Veten",
+                  "text": "A prominent viewpoint in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.419205,
+                        58.865435
+                  ]
+            },
+            {
+                  "name": "Steinmann",
+                  "text": "A viewpoint overlooking the town of Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.409778,
+                        58.869804
+                  ]
+            },
+            {
+                  "name": "Darefjell",
+                  "text": "A viewpoint and hiking destination in Kragerø.",
+                  "category": "natural",
+                  "coords": [
+                        9.449321,
+                        58.85955
+                  ]
+            },
+            {
+                  "name": "Kragerø Kunstforening",
+                  "text": "Local art gallery and association in Kragerø.",
+                  "category": "museum",
+                  "coords": [
+                        9.412023,
+                        58.870424
+                  ]
+            },
+            {
+                  "name": "Bjørnsborgparken",
+                  "text": "A public park and attraction in Kragerø.",
+                  "category": "landmark",
+                  "coords": [
+                        9.413521,
+                        58.872516
+                  ]
+            },
+            {
+                  "name": "Kragerø kirke",
+                  "text": "A large brick church in Kragerø.",
+                  "category": "religious",
+                  "coords": [
+                        9.414378,
+                        58.871156
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kragerø", hu: "Kragerø", ro: "Kragerø", en: "Kragerø" },
@@ -2118,7 +12900,736 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-kragero-cities-v2.webp",
   },
   {
-    id: "norway-risør-cities-v2",
+    id: "norway-risør-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stangholmen fyrstasjon",
+                  "text": "Ein Leuchtturm auf einer Insel vor Risør.",
+                  "category": "landmark",
+                  "coords": [
+                        9.243425,
+                        58.709421
+                  ]
+            },
+            {
+                  "name": "Risørhuset",
+                  "text": "Ein Kultur- und Theaterzentrum in Risør.",
+                  "category": "cultural",
+                  "coords": [
+                        9.229014,
+                        58.719459
+                  ]
+            },
+            {
+                  "name": "Risør fort",
+                  "text": "Eine ehemalige Befestigungsanlage in Risør.",
+                  "category": "fortress",
+                  "coords": [
+                        9.24017,
+                        58.724603
+                  ]
+            },
+            {
+                  "name": "Risør Museum",
+                  "text": "Ein Museum, das die Stadt- und Seefahrtsgeschichte von Risør dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.230519,
+                        58.721643
+                  ]
+            },
+            {
+                  "name": "Sagjordet badeplass",
+                  "text": "Ein öffentlicher Badestrand in Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.231367,
+                        58.72819
+                  ]
+            },
+            {
+                  "name": "Risør Akvarium",
+                  "text": "Ein lokales Aquarium, das die Meereswelt der norwegischen Südküste zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        9.240194,
+                        58.718255
+                  ]
+            },
+            {
+                  "name": "HV-brakka",
+                  "text": "Ein lokales Museum in Risør, das der regionalen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.238216,
+                        58.724612
+                  ]
+            },
+            {
+                  "name": "Midtskjær",
+                  "text": "Ein Küstenleuchtturm in Risør, der als maritimes Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        9.247663,
+                        58.723019
+                  ]
+            },
+            {
+                  "name": "\"Hemmeligstranda\"",
+                  "text": "Ein malerischer Küstenstrand in Risør, ideal zur Entspannung.",
+                  "category": "recreational",
+                  "coords": [
+                        9.201294,
+                        58.704896
+                  ]
+            },
+            {
+                  "name": "Vestre Randvik",
+                  "text": "Ein beliebter lokaler Strand in Risør mit schöner Küstenlandschaft.",
+                  "category": "recreational",
+                  "coords": [
+                        9.213063,
+                        58.707215
+                  ]
+            },
+            {
+                  "name": "Østerfjorden",
+                  "text": "Eine malerische Bucht in der Region Risør, die natürliche Schönheit bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.276881,
+                        58.737791
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "Eine malerische Bucht bei Risør, bekannt für ihre Küstenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        9.141504,
+                        58.72602
+                  ]
+            },
+            {
+                  "name": "Nordfjorden",
+                  "text": "Eine natürliche Bucht in Risør mit ruhigem Wasser und Küstenblick.",
+                  "category": "landmark",
+                  "coords": [
+                        9.167747,
+                        58.741109
+                  ]
+            },
+            {
+                  "name": "Risørflekken",
+                  "text": "Ein berühmter weiß gestrichener Fels und Aussichtspunkt über den Hafen.",
+                  "category": "natural",
+                  "coords": [
+                        9.239817,
+                        58.72325
+                  ]
+            },
+            {
+                  "name": "Tjenndalsheia",
+                  "text": "Ein Aussichtspunkt in Risør mit Panoramablick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        9.218281,
+                        58.735356
+                  ]
+            },
+            {
+                  "name": "Galleri Branntårnet i Risør",
+                  "text": "Eine Kunstgalerie in einem historischen Feuerwachturm in Risør.",
+                  "category": "museum",
+                  "coords": [
+                        9.235323,
+                        58.719991
+                  ]
+            },
+            {
+                  "name": "Galleri Villvin",
+                  "text": "Eine Galerie in Risør, bekannt für die Ausstellung moderner norwegischer Handwerkskunst.",
+                  "category": "museum",
+                  "coords": [
+                        9.233473,
+                        58.720536
+                  ]
+            },
+            {
+                  "name": "Lillevarden",
+                  "text": "Ein lokaler Aussichtspunkt in Risør mit Blick über das Küstengebiet.",
+                  "category": "natural",
+                  "coords": [
+                        9.238046,
+                        58.718112
+                  ]
+            },
+            {
+                  "name": "Storevarden",
+                  "text": "Ein Aussichtspunkt in Risør mit weitem Blick auf die Stadt und den Fjord.",
+                  "category": "natural",
+                  "coords": [
+                        9.236509,
+                        58.71697
+                  ]
+            },
+            {
+                  "name": "Frydendal kirke",
+                  "text": "Eine lokale Kirche in Risør, die der regionalen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        9.208835,
+                        58.71719
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stangholmen fyrstasjon",
+                  "text": "Világítótorony egy szigeten Risør előtt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.243425,
+                        58.709421
+                  ]
+            },
+            {
+                  "name": "Risørhuset",
+                  "text": "Kulturális és színházi központ Risørben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.229014,
+                        58.719459
+                  ]
+            },
+            {
+                  "name": "Risør fort",
+                  "text": "Egykori erődítmény Risørben.",
+                  "category": "fortress",
+                  "coords": [
+                        9.24017,
+                        58.724603
+                  ]
+            },
+            {
+                  "name": "Risør Museum",
+                  "text": "Múzeum, amely Risør városi és tengerészeti történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        9.230519,
+                        58.721643
+                  ]
+            },
+            {
+                  "name": "Sagjordet badeplass",
+                  "text": "Nyilvános fürdőstrand Risørben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.231367,
+                        58.72819
+                  ]
+            },
+            {
+                  "name": "Risør Akvarium",
+                  "text": "Helyi akvárium, amely a norvég déli partvidék tengeri életét mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        9.240194,
+                        58.718255
+                  ]
+            },
+            {
+                  "name": "HV-brakka",
+                  "text": "Risøri helyi múzeum, amely a regionális történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.238216,
+                        58.724612
+                  ]
+            },
+            {
+                  "name": "Midtskjær",
+                  "text": "Parti világítótorony Risørben, amely tengeri jelzőpontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        9.247663,
+                        58.723019
+                  ]
+            },
+            {
+                  "name": "\"Hemmeligstranda\"",
+                  "text": "Festői tengerparti strand Risørben, amely ideális a kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        9.201294,
+                        58.704896
+                  ]
+            },
+            {
+                  "name": "Vestre Randvik",
+                  "text": "Népszerű helyi strand Risørben, szép tengerparti tájjal.",
+                  "category": "recreational",
+                  "coords": [
+                        9.213063,
+                        58.707215
+                  ]
+            },
+            {
+                  "name": "Østerfjorden",
+                  "text": "Festői öböl Risør környékén, amely természeti szépségeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        9.276881,
+                        58.737791
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "Risør melletti festői öböl, amely partmenti tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.141504,
+                        58.72602
+                  ]
+            },
+            {
+                  "name": "Nordfjorden",
+                  "text": "Természetes öböl Risørben, nyugodt vízzel és tengerparti kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        9.167747,
+                        58.741109
+                  ]
+            },
+            {
+                  "name": "Risørflekken",
+                  "text": "Híres fehérre festett szikla és kilátóhely, ahonnan rálátni a kikötőre.",
+                  "category": "natural",
+                  "coords": [
+                        9.239817,
+                        58.72325
+                  ]
+            },
+            {
+                  "name": "Tjenndalsheia",
+                  "text": "Kilátóhely Risørben, ahonnan panorámás kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        9.218281,
+                        58.735356
+                  ]
+            },
+            {
+                  "name": "Galleri Branntårnet i Risør",
+                  "text": "Művészeti galéria egy történelmi tűztoronyban, Risørben.",
+                  "category": "museum",
+                  "coords": [
+                        9.235323,
+                        58.719991
+                  ]
+            },
+            {
+                  "name": "Galleri Villvin",
+                  "text": "Galéria Risørben, amely modern norvég kézműves alkotások kiállításáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        9.233473,
+                        58.720536
+                  ]
+            },
+            {
+                  "name": "Lillevarden",
+                  "text": "Helyi kilátóhely Risørben, kilátással a partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        9.238046,
+                        58.718112
+                  ]
+            },
+            {
+                  "name": "Storevarden",
+                  "text": "Kilátóhely Risørben, ahonnan széles kilátás nyílik a városra és a fjordra.",
+                  "category": "natural",
+                  "coords": [
+                        9.236509,
+                        58.71697
+                  ]
+            },
+            {
+                  "name": "Frydendal kirke",
+                  "text": "Risøri helyi templom, amely a környék közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        9.208835,
+                        58.71719
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stangholmen fyrstasjon",
+                  "text": "Un far pe o insulă în fața localității Risør.",
+                  "category": "landmark",
+                  "coords": [
+                        9.243425,
+                        58.709421
+                  ]
+            },
+            {
+                  "name": "Risørhuset",
+                  "text": "Un centru cultural și de teatru în Risør.",
+                  "category": "cultural",
+                  "coords": [
+                        9.229014,
+                        58.719459
+                  ]
+            },
+            {
+                  "name": "Risør fort",
+                  "text": "O fostă fortificație în Risør.",
+                  "category": "fortress",
+                  "coords": [
+                        9.24017,
+                        58.724603
+                  ]
+            },
+            {
+                  "name": "Risør Museum",
+                  "text": "Un muzeu care documentează istoria urbană și maritimă a orașului Risør.",
+                  "category": "museum",
+                  "coords": [
+                        9.230519,
+                        58.721643
+                  ]
+            },
+            {
+                  "name": "Sagjordet badeplass",
+                  "text": "O plajă publică în Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.231367,
+                        58.72819
+                  ]
+            },
+            {
+                  "name": "Risør Akvarium",
+                  "text": "Un acvariu local care prezintă viața marină de pe coasta de sud a Norvegiei.",
+                  "category": "recreational",
+                  "coords": [
+                        9.240194,
+                        58.718255
+                  ]
+            },
+            {
+                  "name": "HV-brakka",
+                  "text": "Un muzeu local din Risør dedicat istoriei regionale.",
+                  "category": "museum",
+                  "coords": [
+                        9.238216,
+                        58.724612
+                  ]
+            },
+            {
+                  "name": "Midtskjær",
+                  "text": "Un far de coastă din Risør care servește ca reper maritim.",
+                  "category": "landmark",
+                  "coords": [
+                        9.247663,
+                        58.723019
+                  ]
+            },
+            {
+                  "name": "\"Hemmeligstranda\"",
+                  "text": "O plajă de coastă pitorească în Risør, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        9.201294,
+                        58.704896
+                  ]
+            },
+            {
+                  "name": "Vestre Randvik",
+                  "text": "O plajă locală populară în Risør, cu peisaje de coastă frumoase.",
+                  "category": "recreational",
+                  "coords": [
+                        9.213063,
+                        58.707215
+                  ]
+            },
+            {
+                  "name": "Østerfjorden",
+                  "text": "Un golf pitoresc din regiunea Risør, care oferă frumusețe naturală.",
+                  "category": "landmark",
+                  "coords": [
+                        9.276881,
+                        58.737791
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "Un golf pitoresc lângă Risør, cunoscut pentru peisajul său de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.141504,
+                        58.72602
+                  ]
+            },
+            {
+                  "name": "Nordfjorden",
+                  "text": "Un golf natural în Risør care oferă ape liniștite și vederi la coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        9.167747,
+                        58.741109
+                  ]
+            },
+            {
+                  "name": "Risørflekken",
+                  "text": "O faimoasă stâncă pictată în alb și punct de belvedere deasupra portului.",
+                  "category": "natural",
+                  "coords": [
+                        9.239817,
+                        58.72325
+                  ]
+            },
+            {
+                  "name": "Tjenndalsheia",
+                  "text": "Un punct de belvedere în Risør care oferă vederi panoramice asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        9.218281,
+                        58.735356
+                  ]
+            },
+            {
+                  "name": "Galleri Branntårnet i Risør",
+                  "text": "O galerie de artă situată într-un turn de foc istoric din Risør.",
+                  "category": "museum",
+                  "coords": [
+                        9.235323,
+                        58.719991
+                  ]
+            },
+            {
+                  "name": "Galleri Villvin",
+                  "text": "O galerie din Risør cunoscută pentru expunerea meșteșugurilor norvegiene moderne.",
+                  "category": "museum",
+                  "coords": [
+                        9.233473,
+                        58.720536
+                  ]
+            },
+            {
+                  "name": "Lillevarden",
+                  "text": "Un punct de belvedere local din Risør cu vedere spre zona de coastă.",
+                  "category": "natural",
+                  "coords": [
+                        9.238046,
+                        58.718112
+                  ]
+            },
+            {
+                  "name": "Storevarden",
+                  "text": "Un punct de belvedere din Risør care oferă vederi largi asupra orașului și fjordului.",
+                  "category": "natural",
+                  "coords": [
+                        9.236509,
+                        58.71697
+                  ]
+            },
+            {
+                  "name": "Frydendal kirke",
+                  "text": "O biserică locală din Risør care deservește comunitatea regională.",
+                  "category": "religious",
+                  "coords": [
+                        9.208835,
+                        58.71719
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stangholmen fyrstasjon",
+                  "text": "A lighthouse located on an island off the coast of Risør.",
+                  "category": "landmark",
+                  "coords": [
+                        9.243425,
+                        58.709421
+                  ]
+            },
+            {
+                  "name": "Risørhuset",
+                  "text": "A cultural and theatre center in Risør.",
+                  "category": "cultural",
+                  "coords": [
+                        9.229014,
+                        58.719459
+                  ]
+            },
+            {
+                  "name": "Risør fort",
+                  "text": "A former fortification in Risør.",
+                  "category": "fortress",
+                  "coords": [
+                        9.24017,
+                        58.724603
+                  ]
+            },
+            {
+                  "name": "Risør Museum",
+                  "text": "A museum documenting the urban and maritime history of Risør.",
+                  "category": "museum",
+                  "coords": [
+                        9.230519,
+                        58.721643
+                  ]
+            },
+            {
+                  "name": "Sagjordet badeplass",
+                  "text": "A public swimming beach in Risør.",
+                  "category": "recreational",
+                  "coords": [
+                        9.231367,
+                        58.72819
+                  ]
+            },
+            {
+                  "name": "Risør Akvarium",
+                  "text": "A local aquarium showcasing the marine life of the southern Norwegian coast.",
+                  "category": "recreational",
+                  "coords": [
+                        9.240194,
+                        58.718255
+                  ]
+            },
+            {
+                  "name": "HV-brakka",
+                  "text": "A local museum in Risør dedicated to regional history.",
+                  "category": "museum",
+                  "coords": [
+                        9.238216,
+                        58.724612
+                  ]
+            },
+            {
+                  "name": "Midtskjær",
+                  "text": "A coastal lighthouse in Risør serving as a maritime landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        9.247663,
+                        58.723019
+                  ]
+            },
+            {
+                  "name": "\"Hemmeligstranda\"",
+                  "text": "A scenic coastal beach in Risør ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        9.201294,
+                        58.704896
+                  ]
+            },
+            {
+                  "name": "Vestre Randvik",
+                  "text": "A popular local beach in Risør with scenic coastal surroundings.",
+                  "category": "recreational",
+                  "coords": [
+                        9.213063,
+                        58.707215
+                  ]
+            },
+            {
+                  "name": "Østerfjorden",
+                  "text": "A picturesque bay in the Risør region offering natural beauty.",
+                  "category": "landmark",
+                  "coords": [
+                        9.276881,
+                        58.737791
+                  ]
+            },
+            {
+                  "name": "Sørfjorden",
+                  "text": "A scenic bay near Risør known for its coastal landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        9.141504,
+                        58.72602
+                  ]
+            },
+            {
+                  "name": "Nordfjorden",
+                  "text": "A natural bay in Risør offering calm waters and coastal views.",
+                  "category": "landmark",
+                  "coords": [
+                        9.167747,
+                        58.741109
+                  ]
+            },
+            {
+                  "name": "Risørflekken",
+                  "text": "A famous white-painted rock and viewpoint overlooking the harbor.",
+                  "category": "natural",
+                  "coords": [
+                        9.239817,
+                        58.72325
+                  ]
+            },
+            {
+                  "name": "Tjenndalsheia",
+                  "text": "A viewpoint in Risør offering panoramic views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        9.218281,
+                        58.735356
+                  ]
+            },
+            {
+                  "name": "Galleri Branntårnet i Risør",
+                  "text": "An art gallery located in a historic fire tower in Risør.",
+                  "category": "museum",
+                  "coords": [
+                        9.235323,
+                        58.719991
+                  ]
+            },
+            {
+                  "name": "Galleri Villvin",
+                  "text": "A gallery in Risør known for exhibiting modern Norwegian crafts.",
+                  "category": "museum",
+                  "coords": [
+                        9.233473,
+                        58.720536
+                  ]
+            },
+            {
+                  "name": "Lillevarden",
+                  "text": "A local viewpoint in Risør with views over the coastal area.",
+                  "category": "natural",
+                  "coords": [
+                        9.238046,
+                        58.718112
+                  ]
+            },
+            {
+                  "name": "Storevarden",
+                  "text": "A viewpoint in Risør offering wide vistas of the town and fjord.",
+                  "category": "natural",
+                  "coords": [
+                        9.236509,
+                        58.71697
+                  ]
+            },
+            {
+                  "name": "Frydendal kirke",
+                  "text": "A local church in Risør serving the regional community.",
+                  "category": "religious",
+                  "coords": [
+                        9.208835,
+                        58.71719
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Risør", hu: "Risør", ro: "Risør", en: "Risør" },
@@ -2163,7 +13674,448 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-risør-cities-v2.webp",
   },
   {
-    id: "norway-tvedestrand-cities-v2",
+    id: "norway-tvedestrand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vennevannsliene naturreservat",
+                  "text": "Ein Waldreservat in der Nähe von Tvedestrand.",
+                  "category": "natural",
+                  "coords": [
+                        8.896101,
+                        58.60501
+                  ]
+            },
+            {
+                  "name": "Angelstad gård (Østre Angelstad)",
+                  "text": "Ein historischer Bauernhof und Museum in Tvedestrand.",
+                  "category": "museum",
+                  "coords": [
+                        8.921736,
+                        58.646362
+                  ]
+            },
+            {
+                  "name": "Tvedestrand museum - Forvaltergården",
+                  "text": "Das Stadtmuseum von Tvedestrand, untergebracht in einem historischen Gebäude.",
+                  "category": "museum",
+                  "coords": [
+                        8.930407,
+                        58.622357
+                  ]
+            },
+            {
+                  "name": "Tvedestrandfjorden",
+                  "text": "Eine malerische Bucht in Tvedestrand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.944467,
+                        58.60791
+                  ]
+            },
+            {
+                  "name": "Heståsen",
+                  "text": "Ein Aussichtspunkt mit Blick über die umliegende Landschaft in Tvedestrand.",
+                  "category": "natural",
+                  "coords": [
+                        8.911152,
+                        58.608715
+                  ]
+            },
+            {
+                  "name": "Øksenåsen",
+                  "text": "Ein Aussichtspunkt in Tvedestrand, der weite Ausblicke auf die Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.930462,
+                        58.630533
+                  ]
+            },
+            {
+                  "name": "Roligheta",
+                  "text": "Historische Ruinen in der Gegend von Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.96373,
+                        58.626817
+                  ]
+            },
+            {
+                  "name": "Tuftene",
+                  "text": "Alte Überreste und Ruinen in Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.93942,
+                        58.650173
+                  ]
+            },
+            {
+                  "name": "Tveitedalen",
+                  "text": "Ruinen einer ehemaligen Siedlung in Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.934421,
+                        58.644654
+                  ]
+            },
+            {
+                  "name": "Øvre Hovrinden",
+                  "text": "Historische Ruinenstätte in der Gemeinde Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.872145,
+                        58.639477
+                  ]
+            },
+            {
+                  "name": "Øygarden",
+                  "text": "Überreste historischer Gebäude in Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.904297,
+                        58.609698
+                  ]
+            },
+            {
+                  "name": "Tvedestrand kirke",
+                  "text": "Eine lokale Kirche für die Gemeinde von Tvedestrand.",
+                  "category": "religious",
+                  "coords": [
+                        8.927722,
+                        58.623684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vennevannsliene naturreservat",
+                  "text": "Erdőrezervátum Tvedestrand közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.896101,
+                        58.60501
+                  ]
+            },
+            {
+                  "name": "Angelstad gård (Østre Angelstad)",
+                  "text": "Történelmi gazdaság és múzeum Tvedestrandban.",
+                  "category": "museum",
+                  "coords": [
+                        8.921736,
+                        58.646362
+                  ]
+            },
+            {
+                  "name": "Tvedestrand museum - Forvaltergården",
+                  "text": "Tvedestrand városi múzeuma, amely egy történelmi épületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        8.930407,
+                        58.622357
+                  ]
+            },
+            {
+                  "name": "Tvedestrandfjorden",
+                  "text": "Festői öböl Tvedestrand területén.",
+                  "category": "landmark",
+                  "coords": [
+                        8.944467,
+                        58.60791
+                  ]
+            },
+            {
+                  "name": "Heståsen",
+                  "text": "Kilátóhely, ahonnan panoráma nyílik a környékre Tvedestrandban.",
+                  "category": "natural",
+                  "coords": [
+                        8.911152,
+                        58.608715
+                  ]
+            },
+            {
+                  "name": "Øksenåsen",
+                  "text": "Kilátópont Tvedestrandban, ahonnan tágas kilátás nyílik a természetre.",
+                  "category": "natural",
+                  "coords": [
+                        8.930462,
+                        58.630533
+                  ]
+            },
+            {
+                  "name": "Roligheta",
+                  "text": "Történelmi romok Tvedestrand környékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.96373,
+                        58.626817
+                  ]
+            },
+            {
+                  "name": "Tuftene",
+                  "text": "Régi maradványok és romok Tvedestrandban.",
+                  "category": "historical",
+                  "coords": [
+                        8.93942,
+                        58.650173
+                  ]
+            },
+            {
+                  "name": "Tveitedalen",
+                  "text": "Egy egykori település romjai Tvedestrandban.",
+                  "category": "historical",
+                  "coords": [
+                        8.934421,
+                        58.644654
+                  ]
+            },
+            {
+                  "name": "Øvre Hovrinden",
+                  "text": "Történelmi romterület Tvedestrand községben.",
+                  "category": "historical",
+                  "coords": [
+                        8.872145,
+                        58.639477
+                  ]
+            },
+            {
+                  "name": "Øygarden",
+                  "text": "Történelmi épületek maradványai Tvedestrandban.",
+                  "category": "historical",
+                  "coords": [
+                        8.904297,
+                        58.609698
+                  ]
+            },
+            {
+                  "name": "Tvedestrand kirke",
+                  "text": "Helyi templom Tvedestrand közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.927722,
+                        58.623684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vennevannsliene naturreservat",
+                  "text": "O rezervație forestieră lângă Tvedestrand.",
+                  "category": "natural",
+                  "coords": [
+                        8.896101,
+                        58.60501
+                  ]
+            },
+            {
+                  "name": "Angelstad gård (Østre Angelstad)",
+                  "text": "O fermă istorică și muzeu în Tvedestrand.",
+                  "category": "museum",
+                  "coords": [
+                        8.921736,
+                        58.646362
+                  ]
+            },
+            {
+                  "name": "Tvedestrand museum - Forvaltergården",
+                  "text": "Muzeul orașului Tvedestrand, găzduit într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        8.930407,
+                        58.622357
+                  ]
+            },
+            {
+                  "name": "Tvedestrandfjorden",
+                  "text": "Un golf pitoresc situat în Tvedestrand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.944467,
+                        58.60791
+                  ]
+            },
+            {
+                  "name": "Heståsen",
+                  "text": "Un punct de observație ce oferă panorame asupra peisajului din Tvedestrand.",
+                  "category": "natural",
+                  "coords": [
+                        8.911152,
+                        58.608715
+                  ]
+            },
+            {
+                  "name": "Øksenåsen",
+                  "text": "Un punct de belvedere în Tvedestrand care oferă vederi extinse asupra naturii.",
+                  "category": "natural",
+                  "coords": [
+                        8.930462,
+                        58.630533
+                  ]
+            },
+            {
+                  "name": "Roligheta",
+                  "text": "Ruine istorice situate în zona Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.96373,
+                        58.626817
+                  ]
+            },
+            {
+                  "name": "Tuftene",
+                  "text": "Vestigii vechi și ruine în Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.93942,
+                        58.650173
+                  ]
+            },
+            {
+                  "name": "Tveitedalen",
+                  "text": "Ruinele unei foste așezări în Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.934421,
+                        58.644654
+                  ]
+            },
+            {
+                  "name": "Øvre Hovrinden",
+                  "text": "Situl unor ruine istorice în comuna Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.872145,
+                        58.639477
+                  ]
+            },
+            {
+                  "name": "Øygarden",
+                  "text": "Rămășițe ale unor clădiri istorice în Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.904297,
+                        58.609698
+                  ]
+            },
+            {
+                  "name": "Tvedestrand kirke",
+                  "text": "O biserică locală care deservește comunitatea din Tvedestrand.",
+                  "category": "religious",
+                  "coords": [
+                        8.927722,
+                        58.623684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vennevannsliene naturreservat",
+                  "text": "A forest reserve located near Tvedestrand.",
+                  "category": "natural",
+                  "coords": [
+                        8.896101,
+                        58.60501
+                  ]
+            },
+            {
+                  "name": "Angelstad gård (Østre Angelstad)",
+                  "text": "A historical farm and museum in Tvedestrand.",
+                  "category": "museum",
+                  "coords": [
+                        8.921736,
+                        58.646362
+                  ]
+            },
+            {
+                  "name": "Tvedestrand museum - Forvaltergården",
+                  "text": "The town museum of Tvedestrand, housed in a historical building.",
+                  "category": "museum",
+                  "coords": [
+                        8.930407,
+                        58.622357
+                  ]
+            },
+            {
+                  "name": "Tvedestrandfjorden",
+                  "text": "A scenic bay located in Tvedestrand.",
+                  "category": "landmark",
+                  "coords": [
+                        8.944467,
+                        58.60791
+                  ]
+            },
+            {
+                  "name": "Heståsen",
+                  "text": "A scenic viewpoint offering views over the surrounding landscape in Tvedestrand.",
+                  "category": "natural",
+                  "coords": [
+                        8.911152,
+                        58.608715
+                  ]
+            },
+            {
+                  "name": "Øksenåsen",
+                  "text": "A viewpoint in Tvedestrand providing broad views of the natural surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        8.930462,
+                        58.630533
+                  ]
+            },
+            {
+                  "name": "Roligheta",
+                  "text": "Historical ruins located in the area of Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.96373,
+                        58.626817
+                  ]
+            },
+            {
+                  "name": "Tuftene",
+                  "text": "Old remains and ruins in Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.93942,
+                        58.650173
+                  ]
+            },
+            {
+                  "name": "Tveitedalen",
+                  "text": "Ruins of a former settlement in Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.934421,
+                        58.644654
+                  ]
+            },
+            {
+                  "name": "Øvre Hovrinden",
+                  "text": "Historical ruins site in the Tvedestrand municipality.",
+                  "category": "historical",
+                  "coords": [
+                        8.872145,
+                        58.639477
+                  ]
+            },
+            {
+                  "name": "Øygarden",
+                  "text": "Remains of historical buildings in Tvedestrand.",
+                  "category": "historical",
+                  "coords": [
+                        8.904297,
+                        58.609698
+                  ]
+            },
+            {
+                  "name": "Tvedestrand kirke",
+                  "text": "A local church serving the community of Tvedestrand.",
+                  "category": "religious",
+                  "coords": [
+                        8.927722,
+                        58.623684
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Tvedestrand", hu: "Tvedestrand", ro: "Tvedestrand", en: "Tvedestrand" },
@@ -2253,7 +14205,304 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-grimstad-cities-v2.webp",
   },
   {
-    id: "norway-lillesand-cities-v2",
+    id: "norway-lillesand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lillesand By- og Sjøfartsmuseum",
+                  "text": "Ein Stadt- und Schifffahrtsmuseum, das die Seefahrtsgeschichte von Lillesand zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.379222,
+                        58.249665
+                  ]
+            },
+            {
+                  "name": "Olashei naturreservat",
+                  "text": "Ein Naturschutzgebiet bei Lillesand, das die lokale Artenvielfalt bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        8.363157,
+                        58.285025
+                  ]
+            },
+            {
+                  "name": "Skogerøy-Lyngholmen naturreservat",
+                  "text": "Ein geschütztes Küstengebiet bei Lillesand mit einzigartigen Naturmerkmalen.",
+                  "category": "natural",
+                  "coords": [
+                        8.393988,
+                        58.226484
+                  ]
+            },
+            {
+                  "name": "Lillesand batteri",
+                  "text": "Eine historische Küstenbefestigung in Lillesand mit Militärgeschichte.",
+                  "category": "fortress",
+                  "coords": [
+                        8.353992,
+                        58.265721
+                  ]
+            },
+            {
+                  "name": "Saltfolmen fyr",
+                  "text": "Ein Küstenleuchtturm in der Gegend von Lillesand, der den Schiffsverkehr leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.404817,
+                        58.231409
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Ein beliebter Stadtstrand in Lillesand zum Schwimmen und zur Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378229,
+                        58.248135
+                  ]
+            },
+            {
+                  "name": "Vestre Moland kirke",
+                  "text": "Eine historische mittelalterliche Steinkirche in der Nähe von Lillesand.",
+                  "category": "religious",
+                  "coords": [
+                        8.365158,
+                        58.258854
+                  ]
+            },
+            {
+                  "name": "Lillesand kirke",
+                  "text": "Eine zentrale Kirche in Lillesand, die als markantes Wahrzeichen dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.381816,
+                        58.250389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lillesand By- og Sjøfartsmuseum",
+                  "text": "Városi és tengerészeti múzeum, amely Lillesand hajózási múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.379222,
+                        58.249665
+                  ]
+            },
+            {
+                  "name": "Olashei naturreservat",
+                  "text": "Természetvédelmi terület Lillesand közelében, amely megőrzi a helyi élővilágot.",
+                  "category": "natural",
+                  "coords": [
+                        8.363157,
+                        58.285025
+                  ]
+            },
+            {
+                  "name": "Skogerøy-Lyngholmen naturreservat",
+                  "text": "Védett partmenti terület Lillesand közelében, különleges természeti adottságokkal.",
+                  "category": "natural",
+                  "coords": [
+                        8.393988,
+                        58.226484
+                  ]
+            },
+            {
+                  "name": "Lillesand batteri",
+                  "text": "Történelmi tengerparti erődítmény Lillesandben, katonai múlttal.",
+                  "category": "fortress",
+                  "coords": [
+                        8.353992,
+                        58.265721
+                  ]
+            },
+            {
+                  "name": "Saltfolmen fyr",
+                  "text": "Parti világítótorony Lillesand környékén, amely a tengeri forgalmat segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        8.404817,
+                        58.231409
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "Népszerű városi strand Lillesandben fürdésre és kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378229,
+                        58.248135
+                  ]
+            },
+            {
+                  "name": "Vestre Moland kirke",
+                  "text": "Történelmi középkori kőtemplom Lillesand közelében.",
+                  "category": "religious",
+                  "coords": [
+                        8.365158,
+                        58.258854
+                  ]
+            },
+            {
+                  "name": "Lillesand kirke",
+                  "text": "Központi templom Lillesandben, amely meghatározó jelkép.",
+                  "category": "religious",
+                  "coords": [
+                        8.381816,
+                        58.250389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lillesand By- og Sjøfartsmuseum",
+                  "text": "Un muzeu orășenesc și maritim care prezintă istoria navală a orașului Lillesand.",
+                  "category": "museum",
+                  "coords": [
+                        8.379222,
+                        58.249665
+                  ]
+            },
+            {
+                  "name": "Olashei naturreservat",
+                  "text": "O rezervație naturală lângă Lillesand care conservă biodiversitatea locală.",
+                  "category": "natural",
+                  "coords": [
+                        8.363157,
+                        58.285025
+                  ]
+            },
+            {
+                  "name": "Skogerøy-Lyngholmen naturreservat",
+                  "text": "O zonă de coastă protejată lângă Lillesand, cu caracteristici naturale unice.",
+                  "category": "natural",
+                  "coords": [
+                        8.393988,
+                        58.226484
+                  ]
+            },
+            {
+                  "name": "Lillesand batteri",
+                  "text": "O fortificație de coastă istorică în Lillesand, cu o istorie militară.",
+                  "category": "fortress",
+                  "coords": [
+                        8.353992,
+                        58.265721
+                  ]
+            },
+            {
+                  "name": "Saltfolmen fyr",
+                  "text": "Un far de coastă din zona Lillesand care ghidează traficul maritim.",
+                  "category": "landmark",
+                  "coords": [
+                        8.404817,
+                        58.231409
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "O plajă urbană populară în Lillesand pentru înot și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378229,
+                        58.248135
+                  ]
+            },
+            {
+                  "name": "Vestre Moland kirke",
+                  "text": "O biserică de piatră medievală istorică situată lângă Lillesand.",
+                  "category": "religious",
+                  "coords": [
+                        8.365158,
+                        58.258854
+                  ]
+            },
+            {
+                  "name": "Lillesand kirke",
+                  "text": "O biserică centrală din Lillesand care servește ca reper proeminent.",
+                  "category": "religious",
+                  "coords": [
+                        8.381816,
+                        58.250389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lillesand By- og Sjøfartsmuseum",
+                  "text": "A town and maritime museum showcasing Lillesand's shipping history.",
+                  "category": "museum",
+                  "coords": [
+                        8.379222,
+                        58.249665
+                  ]
+            },
+            {
+                  "name": "Olashei naturreservat",
+                  "text": "A nature reserve near Lillesand preserving local biodiversity and landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        8.363157,
+                        58.285025
+                  ]
+            },
+            {
+                  "name": "Skogerøy-Lyngholmen naturreservat",
+                  "text": "A protected coastal area near Lillesand with unique natural features.",
+                  "category": "natural",
+                  "coords": [
+                        8.393988,
+                        58.226484
+                  ]
+            },
+            {
+                  "name": "Lillesand batteri",
+                  "text": "A historic coastal fortification in Lillesand with military history.",
+                  "category": "fortress",
+                  "coords": [
+                        8.353992,
+                        58.265721
+                  ]
+            },
+            {
+                  "name": "Saltfolmen fyr",
+                  "text": "A coastal lighthouse in the Lillesand area guiding maritime traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        8.404817,
+                        58.231409
+                  ]
+            },
+            {
+                  "name": "Bystranda",
+                  "text": "A popular city beach in Lillesand for swimming and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        8.378229,
+                        58.248135
+                  ]
+            },
+            {
+                  "name": "Vestre Moland kirke",
+                  "text": "A historic medieval stone church located near Lillesand.",
+                  "category": "religious",
+                  "coords": [
+                        8.365158,
+                        58.258854
+                  ]
+            },
+            {
+                  "name": "Lillesand kirke",
+                  "text": "A central church in Lillesand serving as a prominent landmark.",
+                  "category": "religious",
+                  "coords": [
+                        8.381816,
+                        58.250389
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Lillesand", hu: "Lillesand", ro: "Lillesand", en: "Lillesand" },
@@ -2298,7 +14547,268 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-lillesand-cities-v2.webp",
   },
   {
-    id: "norway-vennesla-cities-v2",
+    id: "norway-vennesla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Setesdalsbanen - Grovane stasjon",
+                  "text": "Eine Museumsstation an der historischen Setesdalsbanen, einer Schmalspurbahn.",
+                  "category": "museum",
+                  "coords": [
+                        7.980517,
+                        58.29514
+                  ]
+            },
+            {
+                  "name": "Paulen naturreservat",
+                  "text": "Ein Naturschutzgebiet bei Vennesla, das das lokale Ökosystem bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        7.936804,
+                        58.315494
+                  ]
+            },
+            {
+                  "name": "Vennesla skole- og bygdemuseum",
+                  "text": "Ein Heimatmuseum in Vennesla, das das lokale Erbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.967214,
+                        58.275205
+                  ]
+            },
+            {
+                  "name": "Steinsfossen",
+                  "text": "Ein malerischer Wasserfall und eine beliebte lokale Sehenswürdigkeit in Vennesla.",
+                  "category": "landmark",
+                  "coords": [
+                        7.966316,
+                        58.301054
+                  ]
+            },
+            {
+                  "name": "Svinefjell",
+                  "text": "Ein Aussichtspunkt in Vennesla mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        7.953629,
+                        58.256315
+                  ]
+            },
+            {
+                  "name": "Vennesla gamle kirke",
+                  "text": "Eine historische Holzkirche in Vennesla, die aus dem 19. Jahrhundert stammt.",
+                  "category": "religious",
+                  "coords": [
+                        7.969111,
+                        58.276305
+                  ]
+            },
+            {
+                  "name": "Vennesla kirke",
+                  "text": "Die Hauptkirche von Vennesla, ein moderneres religiöses Gebäude.",
+                  "category": "religious",
+                  "coords": [
+                        7.970403,
+                        58.276106
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Setesdalsbanen - Grovane stasjon",
+                  "text": "Múzeumállomás a történelmi Setesdal-vasútvonalon, amely egy keskeny nyomtávú vasút.",
+                  "category": "museum",
+                  "coords": [
+                        7.980517,
+                        58.29514
+                  ]
+            },
+            {
+                  "name": "Paulen naturreservat",
+                  "text": "Természetvédelmi terület Vennesla közelében, amely a helyi ökoszisztémát védi.",
+                  "category": "natural",
+                  "coords": [
+                        7.936804,
+                        58.315494
+                  ]
+            },
+            {
+                  "name": "Vennesla skole- og bygdemuseum",
+                  "text": "Helytörténeti múzeum Venneslában, amely a helyi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.967214,
+                        58.275205
+                  ]
+            },
+            {
+                  "name": "Steinsfossen",
+                  "text": "Festői vízesés és népszerű helyi látnivaló Venneslában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.966316,
+                        58.301054
+                  ]
+            },
+            {
+                  "name": "Svinefjell",
+                  "text": "Kilátóhely Venneslában, kilátással a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        7.953629,
+                        58.256315
+                  ]
+            },
+            {
+                  "name": "Vennesla gamle kirke",
+                  "text": "Vennesla történelmi fatemploma, amely a 19. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        7.969111,
+                        58.276305
+                  ]
+            },
+            {
+                  "name": "Vennesla kirke",
+                  "text": "Vennesla főtemploma, egy modern vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        7.970403,
+                        58.276106
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Setesdalsbanen - Grovane stasjon",
+                  "text": "O stație muzeu pe linia istorică Setesdal, o cale ferată cu ecartament îngust.",
+                  "category": "museum",
+                  "coords": [
+                        7.980517,
+                        58.29514
+                  ]
+            },
+            {
+                  "name": "Paulen naturreservat",
+                  "text": "O rezervație naturală lângă Vennesla, care protejează ecosistemul local.",
+                  "category": "natural",
+                  "coords": [
+                        7.936804,
+                        58.315494
+                  ]
+            },
+            {
+                  "name": "Vennesla skole- og bygdemuseum",
+                  "text": "Un muzeu de istorie locală în Vennesla, care prezintă moștenirea locală.",
+                  "category": "museum",
+                  "coords": [
+                        7.967214,
+                        58.275205
+                  ]
+            },
+            {
+                  "name": "Steinsfossen",
+                  "text": "O cascadă pitorească și o atracție locală populară în Vennesla.",
+                  "category": "landmark",
+                  "coords": [
+                        7.966316,
+                        58.301054
+                  ]
+            },
+            {
+                  "name": "Svinefjell",
+                  "text": "Un punct de observație în Vennesla, oferind vederi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        7.953629,
+                        58.256315
+                  ]
+            },
+            {
+                  "name": "Vennesla gamle kirke",
+                  "text": "O biserică istorică din lemn în Vennesla, datând din secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        7.969111,
+                        58.276305
+                  ]
+            },
+            {
+                  "name": "Vennesla kirke",
+                  "text": "Biserica principală din Vennesla, o clădire religioasă modernă.",
+                  "category": "religious",
+                  "coords": [
+                        7.970403,
+                        58.276106
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Setesdalsbanen - Grovane stasjon",
+                  "text": "A museum station on the historic Setesdal Line, a narrow-gauge railway.",
+                  "category": "museum",
+                  "coords": [
+                        7.980517,
+                        58.29514
+                  ]
+            },
+            {
+                  "name": "Paulen naturreservat",
+                  "text": "A protected nature reserve near Vennesla, preserving the local ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        7.936804,
+                        58.315494
+                  ]
+            },
+            {
+                  "name": "Vennesla skole- og bygdemuseum",
+                  "text": "A local history museum in Vennesla showcasing local heritage.",
+                  "category": "museum",
+                  "coords": [
+                        7.967214,
+                        58.275205
+                  ]
+            },
+            {
+                  "name": "Steinsfossen",
+                  "text": "A scenic waterfall and popular local attraction in Vennesla.",
+                  "category": "landmark",
+                  "coords": [
+                        7.966316,
+                        58.301054
+                  ]
+            },
+            {
+                  "name": "Svinefjell",
+                  "text": "A viewpoint in Vennesla offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.953629,
+                        58.256315
+                  ]
+            },
+            {
+                  "name": "Vennesla gamle kirke",
+                  "text": "A historical wooden church in Vennesla, dating back to the 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        7.969111,
+                        58.276305
+                  ]
+            },
+            {
+                  "name": "Vennesla kirke",
+                  "text": "The main church of Vennesla, a modern religious building.",
+                  "category": "religious",
+                  "coords": [
+                        7.970403,
+                        58.276106
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Vennesla", hu: "Vennesla", ro: "Vennesla", en: "Vennesla" },
@@ -2343,7 +14853,772 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-vennesla-cities-v2.webp",
   },
   {
-    id: "norway-mandal-cities-v2",
+    id: "norway-mandal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vigeland Hus",
+                  "text": "Museum in Mandal im Geburtshaus der Brüder Vigeland.",
+                  "category": "museum",
+                  "coords": [
+                        7.449547,
+                        58.027983
+                  ]
+            },
+            {
+                  "name": "Hattholmen fyr",
+                  "text": "Ein Leuchtturm auf einer Insel bei Mandal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.449464,
+                        58.003442
+                  ]
+            },
+            {
+                  "name": "Mandal museum",
+                  "text": "Das Mandal Museum präsentiert die Lokalgeschichte und die maritime Tradition der Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.452489,
+                        58.026726
+                  ]
+            },
+            {
+                  "name": "Verdens ende",
+                  "text": "Verdens ende ist ein beliebter Erholungsort und Wasserpark direkt am Fluss in Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.431192,
+                        58.015199
+                  ]
+            },
+            {
+                  "name": "Landehobde fort",
+                  "text": "Das Fort Landehobde ist eine historische Küstenbefestigungsanlage in der Nähe von Mandal.",
+                  "category": "fortress",
+                  "coords": [
+                        7.418633,
+                        58.010692
+                  ]
+            },
+            {
+                  "name": "Ime batteri",
+                  "text": "Ime batteri ist eine ehemalige militärische Anlage und ein Aussichtspunkt in Mandal.",
+                  "category": "fortress",
+                  "coords": [
+                        7.490192,
+                        58.034962
+                  ]
+            },
+            {
+                  "name": "Lordens",
+                  "text": "Lordens ist ein einladender Sandstrand in der Küstenlandschaft von Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440919,
+                        58.016016
+                  ]
+            },
+            {
+                  "name": "Stumpestrendene",
+                  "text": "Stumpestrendene bietet ruhige Badeabschnitte an der Küste von Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440578,
+                        58.014653
+                  ]
+            },
+            {
+                  "name": "Kanelstranda",
+                  "text": "Kanelstranda ist ein bekannter kleiner Sandstrand im Erholungsgebiet von Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.437288,
+                        58.014924
+                  ]
+            },
+            {
+                  "name": "Storebanken",
+                  "text": "Storebanken ist einer der beliebten Sandstrände im Küstenpark von Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430543,
+                        58.016967
+                  ]
+            },
+            {
+                  "name": "Lillebanken",
+                  "text": "Lillebanken ist ein familienfreundlicher Strandabschnitt in der Nähe von Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430249,
+                        58.019269
+                  ]
+            },
+            {
+                  "name": "Spindsbo",
+                  "text": "Spindsbo ist ein ruhiger Küstenabschnitt, der sich ideal zum Entspannen in Mandal eignet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.434103,
+                        58.0149
+                  ]
+            },
+            {
+                  "name": "Torkilshåla",
+                  "text": "Torkilshåla ist eine versteckte Badebucht in der felsigen Küstenlinie von Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428444,
+                        58.018356
+                  ]
+            },
+            {
+                  "name": "Ballastbrygga industrihistoriske senter",
+                  "text": "Das Ballastbrygga Center dokumentiert die bedeutende Industriegeschichte von Mandal.",
+                  "category": "museum",
+                  "coords": [
+                        7.455954,
+                        58.023727
+                  ]
+            },
+            {
+                  "name": "Buen Kulturhus",
+                  "text": "Buen Kulturhus ist ein modernes Kulturzentrum mit Theater und Bibliothek in Mandal.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456055,
+                        58.025374
+                  ]
+            },
+            {
+                  "name": "Hobdeheia",
+                  "text": "Hobdeheia ist ein Aussichtspunkt, der einen weiten Blick über Mandal und das Meer bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.442849,
+                        58.017359
+                  ]
+            },
+            {
+                  "name": "Landehobde",
+                  "text": "Landehobde ist ein markanter Aussichtspunkt an der Küste von Mandal.",
+                  "category": "natural",
+                  "coords": [
+                        7.419753,
+                        58.009576
+                  ]
+            },
+            {
+                  "name": "Skottehåla",
+                  "text": "Skottehåla bezeichnet historische Ruinen in der Naturlandschaft von Mandal.",
+                  "category": "historical",
+                  "coords": [
+                        7.45671,
+                        58.028218
+                  ]
+            },
+            {
+                  "name": "Kua",
+                  "text": "Kua ist ein Aussichtspunkt in Mandal, bekannt für seinen Blick auf die Schärenküste.",
+                  "category": "natural",
+                  "coords": [
+                        7.487048,
+                        58.021133
+                  ]
+            },
+            {
+                  "name": "Kastellet",
+                  "text": "Kastellet ist ein historischer Aussichtspunkt mit Blick auf das Stadtzentrum von Mandal.",
+                  "category": "natural",
+                  "coords": [
+                        7.455181,
+                        58.022816
+                  ]
+            },
+            {
+                  "name": "Mandaler Kirche",
+                  "text": "Die Kirche von Mandal ist eine der größten Holzkirchen Norwegens, erbaut im Empirestil.",
+                  "category": "religious",
+                  "coords": [
+                        7.459604,
+                        58.031136
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vigeland Hus",
+                  "text": "Múzeum Mandalban, a Vigeland fivérek szülőházában.",
+                  "category": "museum",
+                  "coords": [
+                        7.449547,
+                        58.027983
+                  ]
+            },
+            {
+                  "name": "Hattholmen fyr",
+                  "text": "Világítótorony egy Mandal melletti szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        7.449464,
+                        58.003442
+                  ]
+            },
+            {
+                  "name": "Mandal museum",
+                  "text": "A Mandal múzeum a régió helytörténetét és tengerészeti hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.452489,
+                        58.026726
+                  ]
+            },
+            {
+                  "name": "Verdens ende",
+                  "text": "A Verdens ende egy népszerű szabadidőpark és vízi élménypark Mandalban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.431192,
+                        58.015199
+                  ]
+            },
+            {
+                  "name": "Landehobde fort",
+                  "text": "A Landehobde erőd egy történelmi partmenti erődítmény Mandal közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        7.418633,
+                        58.010692
+                  ]
+            },
+            {
+                  "name": "Ime batteri",
+                  "text": "Az Ime batteri egy egykori katonai létesítmény és kilátóhely Mandalban.",
+                  "category": "fortress",
+                  "coords": [
+                        7.490192,
+                        58.034962
+                  ]
+            },
+            {
+                  "name": "Lordens",
+                  "text": "A Lordens egy barátságos homokos strand Mandal partvidékén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440919,
+                        58.016016
+                  ]
+            },
+            {
+                  "name": "Stumpestrendene",
+                  "text": "A Stumpestrendene nyugodt fürdőhelyeket kínál Mandal partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440578,
+                        58.014653
+                  ]
+            },
+            {
+                  "name": "Kanelstranda",
+                  "text": "A Kanelstranda egy jól ismert kis homokos strand Mandal üdülőövezetében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.437288,
+                        58.014924
+                  ]
+            },
+            {
+                  "name": "Storebanken",
+                  "text": "A Storebanken Mandal egyik népszerű homokos strandja a tengerparti parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430543,
+                        58.016967
+                  ]
+            },
+            {
+                  "name": "Lillebanken",
+                  "text": "A Lillebanken egy családbarát strand Mandal közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430249,
+                        58.019269
+                  ]
+            },
+            {
+                  "name": "Spindsbo",
+                  "text": "A Spindsbo egy csendes tengerparti rész, amely ideális a kikapcsolódásra Mandalban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.434103,
+                        58.0149
+                  ]
+            },
+            {
+                  "name": "Torkilshåla",
+                  "text": "A Torkilshåla egy rejtett fürdőöböl Mandal sziklás partvonalán.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428444,
+                        58.018356
+                  ]
+            },
+            {
+                  "name": "Ballastbrygga industrihistoriske senter",
+                  "text": "A Ballastbrygga központ Mandal jelentős ipartörténetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        7.455954,
+                        58.023727
+                  ]
+            },
+            {
+                  "name": "Buen Kulturhus",
+                  "text": "A Buen Kulturhus egy modern kulturális központ színházzal és könyvtárral Mandalban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456055,
+                        58.025374
+                  ]
+            },
+            {
+                  "name": "Hobdeheia",
+                  "text": "A Hobdeheia egy kilátóhely, ahonnan pazar kilátás nyílik Mandalra és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        7.442849,
+                        58.017359
+                  ]
+            },
+            {
+                  "name": "Landehobde",
+                  "text": "A Landehobde egy jellegzetes kilátóhely Mandal partjainál.",
+                  "category": "natural",
+                  "coords": [
+                        7.419753,
+                        58.009576
+                  ]
+            },
+            {
+                  "name": "Skottehåla",
+                  "text": "A Skottehåla történelmi romokat jelöl Mandal természeti környezetében.",
+                  "category": "historical",
+                  "coords": [
+                        7.45671,
+                        58.028218
+                  ]
+            },
+            {
+                  "name": "Kua",
+                  "text": "A Kua egy kilátóhely Mandalban, amely a szigetvilágra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.487048,
+                        58.021133
+                  ]
+            },
+            {
+                  "name": "Kastellet",
+                  "text": "A Kastellet egy történelmi kilátóhely, ahonnan rálátni Mandal városközpontjára.",
+                  "category": "natural",
+                  "coords": [
+                        7.455181,
+                        58.022816
+                  ]
+            },
+            {
+                  "name": "Mandal kirke",
+                  "text": "A mandali templom Norvégia egyik legnagyobb fatemploma, empire stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        7.459604,
+                        58.031136
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vigeland Hus",
+                  "text": "Muzeu în Mandal situat în casa natală a fraților Vigeland.",
+                  "category": "museum",
+                  "coords": [
+                        7.449547,
+                        58.027983
+                  ]
+            },
+            {
+                  "name": "Hattholmen fyr",
+                  "text": "Un far pe o insulă de lângă Mandal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.449464,
+                        58.003442
+                  ]
+            },
+            {
+                  "name": "Mandal museum",
+                  "text": "Muzeul Mandal prezintă istoria locală și tradiția maritimă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        7.452489,
+                        58.026726
+                  ]
+            },
+            {
+                  "name": "Verdens ende",
+                  "text": "Verdens ende este un loc popular de recreere și parc acvatic situat pe malul râului în Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.431192,
+                        58.015199
+                  ]
+            },
+            {
+                  "name": "Landehobde fort",
+                  "text": "Fortăreața Landehobde este o fortificație de coastă istorică situată lângă Mandal.",
+                  "category": "fortress",
+                  "coords": [
+                        7.418633,
+                        58.010692
+                  ]
+            },
+            {
+                  "name": "Ime batteri",
+                  "text": "Ime batteri este o fostă instalație militară și un punct de belvedere în Mandal.",
+                  "category": "fortress",
+                  "coords": [
+                        7.490192,
+                        58.034962
+                  ]
+            },
+            {
+                  "name": "Lordens",
+                  "text": "Lordens este o plajă de nisip primitoare în peisajul de coastă din Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440919,
+                        58.016016
+                  ]
+            },
+            {
+                  "name": "Stumpestrendene",
+                  "text": "Stumpestrendene oferă zone liniștite de scăldat pe coasta din Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440578,
+                        58.014653
+                  ]
+            },
+            {
+                  "name": "Kanelstranda",
+                  "text": "Kanelstranda este o plajă mică de nisip bine cunoscută în zona de agrement din Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.437288,
+                        58.014924
+                  ]
+            },
+            {
+                  "name": "Storebanken",
+                  "text": "Storebanken este una dintre plajele populare de nisip din parcul de coastă al orașului Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430543,
+                        58.016967
+                  ]
+            },
+            {
+                  "name": "Lillebanken",
+                  "text": "Lillebanken este o secțiune de plajă potrivită pentru familii, situată lângă Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430249,
+                        58.019269
+                  ]
+            },
+            {
+                  "name": "Spindsbo",
+                  "text": "Spindsbo este o secțiune liniștită de coastă, ideală pentru relaxare în Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.434103,
+                        58.0149
+                  ]
+            },
+            {
+                  "name": "Torkilshåla",
+                  "text": "Torkilshåla este un golf ascuns pentru scăldat în linia de coastă stâncoasă a Mandalului.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428444,
+                        58.018356
+                  ]
+            },
+            {
+                  "name": "Ballastbrygga industrihistoriske senter",
+                  "text": "Centrul Ballastbrygga documentează istoria industrială semnificativă a orașului Mandal.",
+                  "category": "museum",
+                  "coords": [
+                        7.455954,
+                        58.023727
+                  ]
+            },
+            {
+                  "name": "Buen Kulturhus",
+                  "text": "Buen Kulturhus este un centru cultural modern, cu teatru și bibliotecă în Mandal.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456055,
+                        58.025374
+                  ]
+            },
+            {
+                  "name": "Hobdeheia",
+                  "text": "Hobdeheia este un punct de belvedere care oferă o vedere largă asupra Mandalului și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        7.442849,
+                        58.017359
+                  ]
+            },
+            {
+                  "name": "Landehobde",
+                  "text": "Landehobde este un punct de belvedere distinctiv pe coasta din Mandal.",
+                  "category": "natural",
+                  "coords": [
+                        7.419753,
+                        58.009576
+                  ]
+            },
+            {
+                  "name": "Skottehåla",
+                  "text": "Skottehåla se referă la ruine istorice în peisajul natural al orașului Mandal.",
+                  "category": "historical",
+                  "coords": [
+                        7.45671,
+                        58.028218
+                  ]
+            },
+            {
+                  "name": "Kua",
+                  "text": "Kua este un punct de belvedere în Mandal, cunoscut pentru vederea asupra coastei cu insulițe.",
+                  "category": "natural",
+                  "coords": [
+                        7.487048,
+                        58.021133
+                  ]
+            },
+            {
+                  "name": "Kastellet",
+                  "text": "Kastellet este un punct de belvedere istoric, cu vedere spre centrul orașului Mandal.",
+                  "category": "natural",
+                  "coords": [
+                        7.455181,
+                        58.022816
+                  ]
+            },
+            {
+                  "name": "Mandal kirke",
+                  "text": "Biserica din Mandal este una dintre cele mai mari biserici de lemn din Norvegia, construită în stil Empire.",
+                  "category": "religious",
+                  "coords": [
+                        7.459604,
+                        58.031136
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vigeland Hus",
+                  "text": "Museum in Mandal located in the childhood home of the Vigeland brothers.",
+                  "category": "museum",
+                  "coords": [
+                        7.449547,
+                        58.027983
+                  ]
+            },
+            {
+                  "name": "Hattholmen fyr",
+                  "text": "A lighthouse on an island near Mandal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.449464,
+                        58.003442
+                  ]
+            },
+            {
+                  "name": "Mandal museum",
+                  "text": "Mandal museum showcases the local history and maritime traditions of the region.",
+                  "category": "museum",
+                  "coords": [
+                        7.452489,
+                        58.026726
+                  ]
+            },
+            {
+                  "name": "Verdens ende",
+                  "text": "Verdens ende is a popular recreational area and water park located by the river in Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.431192,
+                        58.015199
+                  ]
+            },
+            {
+                  "name": "Landehobde fort",
+                  "text": "Landehobde fort is a historic coastal fortification located near Mandal.",
+                  "category": "fortress",
+                  "coords": [
+                        7.418633,
+                        58.010692
+                  ]
+            },
+            {
+                  "name": "Ime batteri",
+                  "text": "Ime batteri is a former military installation and viewpoint in Mandal.",
+                  "category": "fortress",
+                  "coords": [
+                        7.490192,
+                        58.034962
+                  ]
+            },
+            {
+                  "name": "Lordens",
+                  "text": "Lordens is an inviting sandy beach in the coastal landscape of Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440919,
+                        58.016016
+                  ]
+            },
+            {
+                  "name": "Stumpestrendene",
+                  "text": "Stumpestrendene offers quiet swimming areas along the coast of Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.440578,
+                        58.014653
+                  ]
+            },
+            {
+                  "name": "Kanelstranda",
+                  "text": "Kanelstranda is a well-known small sandy beach in the recreational area of Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.437288,
+                        58.014924
+                  ]
+            },
+            {
+                  "name": "Storebanken",
+                  "text": "Storebanken is one of the popular sandy beaches in the coastal park of Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430543,
+                        58.016967
+                  ]
+            },
+            {
+                  "name": "Lillebanken",
+                  "text": "Lillebanken is a family-friendly beach section located near Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.430249,
+                        58.019269
+                  ]
+            },
+            {
+                  "name": "Spindsbo",
+                  "text": "Spindsbo is a quiet coastal stretch ideal for relaxation in Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.434103,
+                        58.0149
+                  ]
+            },
+            {
+                  "name": "Torkilshåla",
+                  "text": "Torkilshåla is a hidden swimming cove in the rocky coastline of Mandal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.428444,
+                        58.018356
+                  ]
+            },
+            {
+                  "name": "Ballastbrygga industrihistoriske senter",
+                  "text": "Ballastbrygga center documents the significant industrial history of Mandal.",
+                  "category": "museum",
+                  "coords": [
+                        7.455954,
+                        58.023727
+                  ]
+            },
+            {
+                  "name": "Buen Kulturhus",
+                  "text": "Buen Kulturhus is a modern cultural center featuring a theater and library in Mandal.",
+                  "category": "cultural",
+                  "coords": [
+                        7.456055,
+                        58.025374
+                  ]
+            },
+            {
+                  "name": "Hobdeheia",
+                  "text": "Hobdeheia is a viewpoint offering a broad view over Mandal and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        7.442849,
+                        58.017359
+                  ]
+            },
+            {
+                  "name": "Landehobde",
+                  "text": "Landehobde is a prominent viewpoint on the coast of Mandal.",
+                  "category": "natural",
+                  "coords": [
+                        7.419753,
+                        58.009576
+                  ]
+            },
+            {
+                  "name": "Skottehåla",
+                  "text": "Skottehåla refers to historic ruins in the natural landscape of Mandal.",
+                  "category": "historical",
+                  "coords": [
+                        7.45671,
+                        58.028218
+                  ]
+            },
+            {
+                  "name": "Kua",
+                  "text": "Kua is a viewpoint in Mandal known for its views of the skerries.",
+                  "category": "natural",
+                  "coords": [
+                        7.487048,
+                        58.021133
+                  ]
+            },
+            {
+                  "name": "Kastellet",
+                  "text": "Kastellet is a historic viewpoint overlooking the city center of Mandal.",
+                  "category": "natural",
+                  "coords": [
+                        7.455181,
+                        58.022816
+                  ]
+            },
+            {
+                  "name": "Mandal Church",
+                  "text": "Mandal Church is one of Norway's largest wooden churches, built in the Empire style.",
+                  "category": "religious",
+                  "coords": [
+                        7.459604,
+                        58.031136
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Mandal", hu: "Mandal", ro: "Mandal", en: "Mandal" },
@@ -2433,7 +15708,340 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-lyngdal-cities-v2.webp",
   },
   {
-    id: "norway-sogndal-cities-v2",
+    id: "norway-sogndal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stedjeberget naturreservat",
+                  "text": "Naturschutzgebiet in Sogndal, das für seine natürliche Flora bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        7.078902,
+                        61.211517
+                  ]
+            },
+            {
+                  "name": "Loftesnes naturreservat",
+                  "text": "Ein geschütztes Naturgebiet am Ufer des Fjords in Sogndal.",
+                  "category": "natural",
+                  "coords": [
+                        7.133101,
+                        61.223978
+                  ]
+            },
+            {
+                  "name": "Gjestheim",
+                  "text": "Ein lokales Museum in Sogndal, das sich mit der Kulturgeschichte befasst.",
+                  "category": "museum",
+                  "coords": [
+                        7.103005,
+                        61.2294
+                  ]
+            },
+            {
+                  "name": "Norafjorden",
+                  "text": "Ein Seitenarm des Sognefjords, der durch Sogndal fließt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.060615,
+                        61.194348
+                  ]
+            },
+            {
+                  "name": "Barsnesfjorden",
+                  "text": "Ein malerischer Fjordarm in der Nähe von Sogndal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.144519,
+                        61.249374
+                  ]
+            },
+            {
+                  "name": "Eidsfjorden",
+                  "text": "Ein ruhiger Fjordabschnitt in der Gemeinde Sogndal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140712,
+                        61.203478
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "Ein erhöhter Aussichtspunkt mit Panorama auf den Sogndalsfjord.",
+                  "category": "natural",
+                  "coords": [
+                        7.075916,
+                        61.214521
+                  ]
+            },
+            {
+                  "name": "Martin-løa",
+                  "text": "Überreste einer historischen Scheune oder eines landwirtschaftlichen Gebäudes in Sogndal.",
+                  "category": "historical",
+                  "coords": [
+                        7.091773,
+                        61.222887
+                  ]
+            },
+            {
+                  "name": "Stedje kyrkje",
+                  "text": "Eine historische Steinkirche, die das Zentrum der Gemeinde Stedje bildet.",
+                  "category": "religious",
+                  "coords": [
+                        7.095709,
+                        61.226599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stedjeberget naturreservat",
+                  "text": "Természetvédelmi terület Sogndalban, amely természetes flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        7.078902,
+                        61.211517
+                  ]
+            },
+            {
+                  "name": "Loftesnes naturreservat",
+                  "text": "Védett természeti terület a fjord partján, Sogndalban.",
+                  "category": "natural",
+                  "coords": [
+                        7.133101,
+                        61.223978
+                  ]
+            },
+            {
+                  "name": "Gjestheim",
+                  "text": "Helyi múzeum Sogndalban, amely a kultúrtörténettel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        7.103005,
+                        61.2294
+                  ]
+            },
+            {
+                  "name": "Norafjorden",
+                  "text": "A Sogne-fjord egyik ága, amely Sogndalon keresztül folyik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.060615,
+                        61.194348
+                  ]
+            },
+            {
+                  "name": "Barsnesfjorden",
+                  "text": "Festői fjordág Sogndal közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.144519,
+                        61.249374
+                  ]
+            },
+            {
+                  "name": "Eidsfjorden",
+                  "text": "Nyugodt fjordszakasz Sogndal községben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140712,
+                        61.203478
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "Magaslati kilátóhely panorámával a Sogndals-fjordra.",
+                  "category": "natural",
+                  "coords": [
+                        7.075916,
+                        61.214521
+                  ]
+            },
+            {
+                  "name": "Martin-løa",
+                  "text": "Történelmi csűr vagy gazdasági épület maradványai Sogndalban.",
+                  "category": "historical",
+                  "coords": [
+                        7.091773,
+                        61.222887
+                  ]
+            },
+            {
+                  "name": "Stedje kyrkje",
+                  "text": "Történelmi kőtemplom, amely Stedje közösségének központja.",
+                  "category": "religious",
+                  "coords": [
+                        7.095709,
+                        61.226599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stedjeberget naturreservat",
+                  "text": "Rezervație naturală în Sogndal, cunoscută pentru flora sa naturală.",
+                  "category": "natural",
+                  "coords": [
+                        7.078902,
+                        61.211517
+                  ]
+            },
+            {
+                  "name": "Loftesnes naturreservat",
+                  "text": "O zonă naturală protejată pe malul fjordului în Sogndal.",
+                  "category": "natural",
+                  "coords": [
+                        7.133101,
+                        61.223978
+                  ]
+            },
+            {
+                  "name": "Gjestheim",
+                  "text": "Un muzeu local din Sogndal dedicat istoriei culturale.",
+                  "category": "museum",
+                  "coords": [
+                        7.103005,
+                        61.2294
+                  ]
+            },
+            {
+                  "name": "Norafjorden",
+                  "text": "Un braț al Sognefjordului care trece prin Sogndal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.060615,
+                        61.194348
+                  ]
+            },
+            {
+                  "name": "Barsnesfjorden",
+                  "text": "O ramificație pitorească a fjordului lângă Sogndal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.144519,
+                        61.249374
+                  ]
+            },
+            {
+                  "name": "Eidsfjorden",
+                  "text": "O secțiune liniștită de fjord în comuna Sogndal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140712,
+                        61.203478
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "Un punct de belvedere ridicat cu panoramă asupra Sogndalsfjord.",
+                  "category": "natural",
+                  "coords": [
+                        7.075916,
+                        61.214521
+                  ]
+            },
+            {
+                  "name": "Martin-løa",
+                  "text": "Vestigiile unei șuri istorice sau ale unei clădiri agricole în Sogndal.",
+                  "category": "historical",
+                  "coords": [
+                        7.091773,
+                        61.222887
+                  ]
+            },
+            {
+                  "name": "Stedje kyrkje",
+                  "text": "O biserică istorică din piatră care formează centrul comunității Stedje.",
+                  "category": "religious",
+                  "coords": [
+                        7.095709,
+                        61.226599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stedjeberget naturreservat",
+                  "text": "Nature reserve in Sogndal, known for its natural flora.",
+                  "category": "natural",
+                  "coords": [
+                        7.078902,
+                        61.211517
+                  ]
+            },
+            {
+                  "name": "Loftesnes naturreservat",
+                  "text": "A protected natural area on the shores of the fjord in Sogndal.",
+                  "category": "natural",
+                  "coords": [
+                        7.133101,
+                        61.223978
+                  ]
+            },
+            {
+                  "name": "Gjestheim",
+                  "text": "A local museum in Sogndal focused on cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        7.103005,
+                        61.2294
+                  ]
+            },
+            {
+                  "name": "Norafjorden",
+                  "text": "A branch of the Sognefjord that flows through Sogndal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.060615,
+                        61.194348
+                  ]
+            },
+            {
+                  "name": "Barsnesfjorden",
+                  "text": "A scenic fjord branch near Sogndal.",
+                  "category": "landmark",
+                  "coords": [
+                        7.144519,
+                        61.249374
+                  ]
+            },
+            {
+                  "name": "Eidsfjorden",
+                  "text": "A quiet section of fjord in the Sogndal municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        7.140712,
+                        61.203478
+                  ]
+            },
+            {
+                  "name": "Utsikten",
+                  "text": "An elevated viewpoint with a panorama of the Sogndalsfjord.",
+                  "category": "natural",
+                  "coords": [
+                        7.075916,
+                        61.214521
+                  ]
+            },
+            {
+                  "name": "Martin-løa",
+                  "text": "Remains of a historical barn or farm building in Sogndal.",
+                  "category": "historical",
+                  "coords": [
+                        7.091773,
+                        61.222887
+                  ]
+            },
+            {
+                  "name": "Stedje kyrkje",
+                  "text": "A historical stone church forming the center of the Stedje community.",
+                  "category": "religious",
+                  "coords": [
+                        7.095709,
+                        61.226599
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Sogndal", hu: "Sogndal", ro: "Sogndal", en: "Sogndal" },
@@ -2568,7 +16176,232 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-ulvik-cities-v2.webp",
   },
   {
-    id: "norway-voss-cities-v2",
+    id: "norway-voss-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mølstertunet",
+                  "text": "Ein Freilichtmuseum in Voss, das einen traditionellen Bauernhofkomplex darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        6.412667,
+                        60.633439
+                  ]
+            },
+            {
+                  "name": "Utescena",
+                  "text": "Eine Freilichtbühne in Voss für kulturelle Veranstaltungen und Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418031,
+                        60.626625
+                  ]
+            },
+            {
+                  "name": "Voss folkemuseum",
+                  "text": "Kulturhistorisches Museum, das die Geschichte der Region Voss dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.41145,
+                        60.63362
+                  ]
+            },
+            {
+                  "name": "Finnesloftet",
+                  "text": "Ein mittelalterliches Holzgebäude in Voss, eines der ältesten profanen Bauwerke Norwegens.",
+                  "category": "landmark",
+                  "coords": [
+                        6.395455,
+                        60.627218
+                  ]
+            },
+            {
+                  "name": "Bordalsgjelet",
+                  "text": "Eine beeindruckende Schlucht bei Voss, die durch Wanderwege erschlossen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.423735,
+                        60.612413
+                  ]
+            },
+            {
+                  "name": "Vangskyrkja",
+                  "text": "Eine Steinkirche aus dem 13. Jahrhundert im Zentrum von Voss.",
+                  "category": "religious",
+                  "coords": [
+                        6.416868,
+                        60.628777
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mølstertunet",
+                  "text": "Szabadtéri múzeum Vossban, amely egy hagyományos gazdasági épületegyüttest mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.412667,
+                        60.633439
+                  ]
+            },
+            {
+                  "name": "Utescena",
+                  "text": "Szabadtéri színpad Vossban kulturális események és színház számára.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418031,
+                        60.626625
+                  ]
+            },
+            {
+                  "name": "Voss folkemuseum",
+                  "text": "Kultúrtörténeti múzeum, amely Voss régiójának történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.41145,
+                        60.63362
+                  ]
+            },
+            {
+                  "name": "Finnesloftet",
+                  "text": "Középkori faépület Vossban, Norvégia egyik legrégebbi világi építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        6.395455,
+                        60.627218
+                  ]
+            },
+            {
+                  "name": "Bordalsgjelet",
+                  "text": "Lenyűgöző szurdok Voss közelében, gyalogutakkal felfedezhető.",
+                  "category": "landmark",
+                  "coords": [
+                        6.423735,
+                        60.612413
+                  ]
+            },
+            {
+                  "name": "Vangskyrkja",
+                  "text": "13. századi kőtemplom Voss központjában.",
+                  "category": "religious",
+                  "coords": [
+                        6.416868,
+                        60.628777
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mølstertunet",
+                  "text": "Un muzeu în aer liber în Voss, reprezentând un complex tradițional de ferme.",
+                  "category": "museum",
+                  "coords": [
+                        6.412667,
+                        60.633439
+                  ]
+            },
+            {
+                  "name": "Utescena",
+                  "text": "O scenă în aer liber în Voss pentru evenimente culturale și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418031,
+                        60.626625
+                  ]
+            },
+            {
+                  "name": "Voss folkemuseum",
+                  "text": "Muzeu de istorie culturală care documentează istoria regiunii Voss.",
+                  "category": "museum",
+                  "coords": [
+                        6.41145,
+                        60.63362
+                  ]
+            },
+            {
+                  "name": "Finnesloftet",
+                  "text": "O clădire medievală din lemn în Voss, una dintre cele mai vechi clădiri laice din Norvegia.",
+                  "category": "landmark",
+                  "coords": [
+                        6.395455,
+                        60.627218
+                  ]
+            },
+            {
+                  "name": "Bordalsgjelet",
+                  "text": "Un defileu impresionant lângă Voss, accesibil prin trasee de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        6.423735,
+                        60.612413
+                  ]
+            },
+            {
+                  "name": "Vangskyrkja",
+                  "text": "Biserică din piatră din secolul al XIII-lea situată în centrul localității Voss.",
+                  "category": "religious",
+                  "coords": [
+                        6.416868,
+                        60.628777
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mølstertunet",
+                  "text": "An open-air museum in Voss representing a traditional farm cluster.",
+                  "category": "museum",
+                  "coords": [
+                        6.412667,
+                        60.633439
+                  ]
+            },
+            {
+                  "name": "Utescena",
+                  "text": "An outdoor stage in Voss for cultural events and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        6.418031,
+                        60.626625
+                  ]
+            },
+            {
+                  "name": "Voss folkemuseum",
+                  "text": "Cultural history museum documenting the history of the Voss region.",
+                  "category": "museum",
+                  "coords": [
+                        6.41145,
+                        60.63362
+                  ]
+            },
+            {
+                  "name": "Finnesloftet",
+                  "text": "A medieval wooden building in Voss, one of the oldest secular buildings in Norway.",
+                  "category": "landmark",
+                  "coords": [
+                        6.395455,
+                        60.627218
+                  ]
+            },
+            {
+                  "name": "Bordalsgjelet",
+                  "text": "An impressive gorge near Voss, accessible via walking paths.",
+                  "category": "landmark",
+                  "coords": [
+                        6.423735,
+                        60.612413
+                  ]
+            },
+            {
+                  "name": "Vangskyrkja",
+                  "text": "A 13th-century stone church located in the center of Voss.",
+                  "category": "religious",
+                  "coords": [
+                        6.416868,
+                        60.628777
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Voss", hu: "Voss", ro: "Voss", en: "Voss" },
@@ -2658,7 +16491,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-karmøy-cities-v2.webp",
   },
   {
-    id: "norway-kopervik-cities-v2",
+    id: "norway-kopervik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Øvre Eide naturreservat",
+                  "text": "Ein Naturschutzgebiet in Kopervik, das die lokale Umwelt und Flora bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        5.27261,
+                        59.273105
+                  ]
+            },
+            {
+                  "name": "Kopervik kirke",
+                  "text": "Die Hauptkirche von Kopervik, die der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.304634,
+                        59.281869
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Øvre Eide naturreservat",
+                  "text": "Természetvédelmi terület Kopervikben, amely megőrzi a helyi növényvilágot.",
+                  "category": "natural",
+                  "coords": [
+                        5.27261,
+                        59.273105
+                  ]
+            },
+            {
+                  "name": "Kopervik kirke",
+                  "text": "Kopervik főtemploma, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        5.304634,
+                        59.281869
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Øvre Eide naturreservat",
+                  "text": "O rezervație naturală în Kopervik care conservă mediul și flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        5.27261,
+                        59.273105
+                  ]
+            },
+            {
+                  "name": "Kopervik kirke",
+                  "text": "Biserica principală din Kopervik, care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        5.304634,
+                        59.281869
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Øvre Eide naturreservat",
+                  "text": "A nature reserve in Kopervik preserving the local environment and flora.",
+                  "category": "natural",
+                  "coords": [
+                        5.27261,
+                        59.273105
+                  ]
+            },
+            {
+                  "name": "Kopervik kirke",
+                  "text": "The main church of Kopervik, serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        5.304634,
+                        59.281869
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kopervik", hu: "Kopervik", ro: "Kopervik", en: "Kopervik" },
@@ -2748,7 +16662,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-skudeneshavn-cities-v2.webp",
   },
   {
-    id: "norway-eigerøy-cities-v2",
+    id: "norway-eigerøy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eigerøy fyr",
+                  "text": "Der Leuchtturm Eigerøy ist ein markanter gusseiserner Turm an der Küste von Eigersund.",
+                  "category": "landmark",
+                  "coords": [
+                        5.867622,
+                        58.430814
+                  ]
+            },
+            {
+                  "name": "Egersund fort",
+                  "text": "Das Fort Egersund ist eine historische Verteidigungsanlage auf der Insel Eigerøy.",
+                  "category": "fortress",
+                  "coords": [
+                        5.904045,
+                        58.438649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eigerøy fyr",
+                  "text": "Az Eigerøy világítótorony egy jellegzetes öntöttvas torony Eigersund partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        5.867622,
+                        58.430814
+                  ]
+            },
+            {
+                  "name": "Egersund fort",
+                  "text": "Az Egersund erőd egy történelmi védmű Eigerøy szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        5.904045,
+                        58.438649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eigerøy fyr",
+                  "text": "Farul Eigerøy este un turn distinctiv din fontă pe coasta Eigersund.",
+                  "category": "landmark",
+                  "coords": [
+                        5.867622,
+                        58.430814
+                  ]
+            },
+            {
+                  "name": "Egersund fort",
+                  "text": "Fortăreața Egersund este o fortificație istorică pe insula Eigerøy.",
+                  "category": "fortress",
+                  "coords": [
+                        5.904045,
+                        58.438649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eigerøy",
+                  "text": "Eigerøy lighthouse is a prominent cast-iron tower on the Eigersund coast.",
+                  "category": "landmark",
+                  "coords": [
+                        5.867622,
+                        58.430814
+                  ]
+            },
+            {
+                  "name": "Egersund fort",
+                  "text": "Egersund fort is a historic defense site on the island of Eigerøy.",
+                  "category": "fortress",
+                  "coords": [
+                        5.904045,
+                        58.438649
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Eigerøy", hu: "Eigerøy", ro: "Eigerøy", en: "Eigerøy" },
@@ -2793,7 +16788,448 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-eigerøy-cities-v2.webp",
   },
   {
-    id: "norway-egersund-cities-v2",
+    id: "norway-egersund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stoplesteinan",
+                  "text": "Ein alter Steinkreis in Egersund, der vermutlich aus der Eisenzeit stammt.",
+                  "category": "historical",
+                  "coords": [
+                        6.014372,
+                        58.439616
+                  ]
+            },
+            {
+                  "name": "Dalane folkemuseum",
+                  "text": "Ein Regionalmuseum in Egersund, das sich auf die Kulturgeschichte von Dalane konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        6.02273,
+                        58.472668
+                  ]
+            },
+            {
+                  "name": "Egersund Fayancemuseum",
+                  "text": "Ein Museum, das der Geschichte der berühmten Egersunder Fayence-Industrie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.00461,
+                        58.452873
+                  ]
+            },
+            {
+                  "name": "Bilstadhuset",
+                  "text": "Ein historisches Museumsgebäude in Egersund, das regionale Wohnkultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.996985,
+                        58.449986
+                  ]
+            },
+            {
+                  "name": "Berentsens Brygghus AS",
+                  "text": "Eine historische Brauerei und Brennerei in Familienbesitz mit Sitz in Egersund.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003798,
+                        58.457967
+                  ]
+            },
+            {
+                  "name": "Elverhøy",
+                  "text": "Ein lokaler Park in Egersund, der Grünflächen zur Entspannung bietet.",
+                  "category": "park",
+                  "coords": [
+                        6.0143,
+                        58.455153
+                  ]
+            },
+            {
+                  "name": "Fløyen",
+                  "text": "Ein beliebter Aussichtspunkt in Egersund mit Panoramablick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        5.993897,
+                        58.452957
+                  ]
+            },
+            {
+                  "name": "Kontraritoppen",
+                  "text": "Ein malerischer Aussichtspunkt in Egersund mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.995884,
+                        58.455443
+                  ]
+            },
+            {
+                  "name": "Årstafjellet",
+                  "text": "Ein Aussichtspunkt auf einem Hügel in Egersund mit Blick auf die Region.",
+                  "category": "natural",
+                  "coords": [
+                        6.012631,
+                        58.448474
+                  ]
+            },
+            {
+                  "name": "Hyseberget",
+                  "text": "Ein natürlicher Aussichtspunkt in Egersund mit Blick auf die Küste und die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        5.9954,
+                        58.424987
+                  ]
+            },
+            {
+                  "name": "Egersund kirke",
+                  "text": "Eine historische Kreuzkirche in Egersund, deren Ursprünge bis ins Mittelalter zurückreichen.",
+                  "category": "religious",
+                  "coords": [
+                        5.999892,
+                        58.451939
+                  ]
+            },
+            {
+                  "name": "Bakkebø kirke",
+                  "text": "Eine lokale Kirche in Egersund, die der Kirchengemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.022552,
+                        58.470858
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stoplesteinan",
+                  "text": "Ősi kőkör Egersundben, amely valószínűleg a vaskorból származik.",
+                  "category": "historical",
+                  "coords": [
+                        6.014372,
+                        58.439616
+                  ]
+            },
+            {
+                  "name": "Dalane folkemuseum",
+                  "text": "Regionális múzeum Egersundben, amely Dalane kultúrtörténetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        6.02273,
+                        58.472668
+                  ]
+            },
+            {
+                  "name": "Egersund Fayancemuseum",
+                  "text": "A híres egersundi fazekasipar történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.00461,
+                        58.452873
+                  ]
+            },
+            {
+                  "name": "Bilstadhuset",
+                  "text": "Történelmi múzeumi épület Egersundben, amely a környék lakáskultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.996985,
+                        58.449986
+                  ]
+            },
+            {
+                  "name": "Berentsens Brygghus AS",
+                  "text": "Történelmi családi tulajdonban lévő sörfőzde és szeszfőzde Egersundben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003798,
+                        58.457967
+                  ]
+            },
+            {
+                  "name": "Elverhøy",
+                  "text": "Helyi park Egersundben, amely zöldterületet kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        6.0143,
+                        58.455153
+                  ]
+            },
+            {
+                  "name": "Fløyen",
+                  "text": "Népszerű kilátóhely Egersundben, panorámás kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        5.993897,
+                        58.452957
+                  ]
+            },
+            {
+                  "name": "Kontraritoppen",
+                  "text": "Festői kilátóhely Egersundben, kilátással a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        5.995884,
+                        58.455443
+                  ]
+            },
+            {
+                  "name": "Årstafjellet",
+                  "text": "Dombvidéki kilátóhely Egersundben, ahonnan kilátás nyílik a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        6.012631,
+                        58.448474
+                  ]
+            },
+            {
+                  "name": "Hyseberget",
+                  "text": "Természetes kilátóhely Egersundben, kilátással a partra és a városra.",
+                  "category": "natural",
+                  "coords": [
+                        5.9954,
+                        58.424987
+                  ]
+            },
+            {
+                  "name": "Egersund kirke",
+                  "text": "Történelmi kereszt alaprajzú templom Egersundben, amelynek eredete a középkorig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        5.999892,
+                        58.451939
+                  ]
+            },
+            {
+                  "name": "Bakkebø kirke",
+                  "text": "Helyi templom Egersundben, amely a plébániai közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.022552,
+                        58.470858
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stoplesteinan",
+                  "text": "Un cerc de piatră antic în Egersund, datând probabil din epoca fierului.",
+                  "category": "historical",
+                  "coords": [
+                        6.014372,
+                        58.439616
+                  ]
+            },
+            {
+                  "name": "Dalane folkemuseum",
+                  "text": "Un muzeu regional în Egersund care se concentrează pe istoria culturală din Dalane.",
+                  "category": "museum",
+                  "coords": [
+                        6.02273,
+                        58.472668
+                  ]
+            },
+            {
+                  "name": "Egersund Fayancemuseum",
+                  "text": "Un muzeu dedicat istoriei faimoasei industrii de olărit din Egersund.",
+                  "category": "museum",
+                  "coords": [
+                        6.00461,
+                        58.452873
+                  ]
+            },
+            {
+                  "name": "Bilstadhuset",
+                  "text": "O clădire muzeală istorică din Egersund care expune cultura locuirii regionale.",
+                  "category": "museum",
+                  "coords": [
+                        5.996985,
+                        58.449986
+                  ]
+            },
+            {
+                  "name": "Berentsens Brygghus AS",
+                  "text": "O berărie și distilerie istorică de familie, cu sediul în Egersund.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003798,
+                        58.457967
+                  ]
+            },
+            {
+                  "name": "Elverhøy",
+                  "text": "Un parc local în Egersund care oferă spațiu verde pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        6.0143,
+                        58.455153
+                  ]
+            },
+            {
+                  "name": "Fløyen",
+                  "text": "Un punct de belvedere popular în Egersund, cu vederi panoramice asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        5.993897,
+                        58.452957
+                  ]
+            },
+            {
+                  "name": "Kontraritoppen",
+                  "text": "Un punct de belvedere pitoresc în Egersund, cu vedere spre peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        5.995884,
+                        58.455443
+                  ]
+            },
+            {
+                  "name": "Årstafjellet",
+                  "text": "Un punct de belvedere de pe deal în Egersund, oferind vederi asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        6.012631,
+                        58.448474
+                  ]
+            },
+            {
+                  "name": "Hyseberget",
+                  "text": "Un punct de belvedere natural în Egersund care oferă vederi spre coastă și oraș.",
+                  "category": "natural",
+                  "coords": [
+                        5.9954,
+                        58.424987
+                  ]
+            },
+            {
+                  "name": "Egersund kirke",
+                  "text": "O biserică istorică în formă de cruce din Egersund, ale cărei origini datează din Evul Mediu.",
+                  "category": "religious",
+                  "coords": [
+                        5.999892,
+                        58.451939
+                  ]
+            },
+            {
+                  "name": "Bakkebø kirke",
+                  "text": "O biserică locală din Egersund care deservește comunitatea parohială.",
+                  "category": "religious",
+                  "coords": [
+                        6.022552,
+                        58.470858
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stoplesteinan",
+                  "text": "An ancient stone circle in Egersund dating back to the Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        6.014372,
+                        58.439616
+                  ]
+            },
+            {
+                  "name": "Dalane folkemuseum",
+                  "text": "A regional museum in Egersund focusing on the cultural history of Dalane.",
+                  "category": "museum",
+                  "coords": [
+                        6.02273,
+                        58.472668
+                  ]
+            },
+            {
+                  "name": "Egersund Fayancemuseum",
+                  "text": "A museum dedicated to the history of the famous Egersund pottery industry.",
+                  "category": "museum",
+                  "coords": [
+                        6.00461,
+                        58.452873
+                  ]
+            },
+            {
+                  "name": "Bilstadhuset",
+                  "text": "A historic museum building in Egersund displaying regional home interiors.",
+                  "category": "museum",
+                  "coords": [
+                        5.996985,
+                        58.449986
+                  ]
+            },
+            {
+                  "name": "Berentsens Brygghus AS",
+                  "text": "A historic family-owned brewery and distillery based in Egersund.",
+                  "category": "landmark",
+                  "coords": [
+                        6.003798,
+                        58.457967
+                  ]
+            },
+            {
+                  "name": "Elverhøy",
+                  "text": "A local park in Egersund offering green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        6.0143,
+                        58.455153
+                  ]
+            },
+            {
+                  "name": "Fløyen",
+                  "text": "A popular viewpoint in Egersund with panoramic views of the town.",
+                  "category": "natural",
+                  "coords": [
+                        5.993897,
+                        58.452957
+                  ]
+            },
+            {
+                  "name": "Kontraritoppen",
+                  "text": "A scenic viewpoint in Egersund overlooking the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.995884,
+                        58.455443
+                  ]
+            },
+            {
+                  "name": "Årstafjellet",
+                  "text": "A hilltop viewpoint in Egersund offering vistas of the region.",
+                  "category": "natural",
+                  "coords": [
+                        6.012631,
+                        58.448474
+                  ]
+            },
+            {
+                  "name": "Hyseberget",
+                  "text": "A natural viewpoint in Egersund providing views of the coast and town.",
+                  "category": "natural",
+                  "coords": [
+                        5.9954,
+                        58.424987
+                  ]
+            },
+            {
+                  "name": "Egersund kirke",
+                  "text": "A historic cruciform church in Egersund with origins dating back to the Middle Ages.",
+                  "category": "religious",
+                  "coords": [
+                        5.999892,
+                        58.451939
+                  ]
+            },
+            {
+                  "name": "Bakkebø kirke",
+                  "text": "A local church in Egersund serving the parish community.",
+                  "category": "religious",
+                  "coords": [
+                        6.022552,
+                        58.470858
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Egersund", hu: "Egersund", ro: "Egersund", en: "Egersund" },
@@ -2838,7 +17274,340 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-egersund-cities-v2.webp",
   },
   {
-    id: "norway-bryne-cities-v2",
+    id: "norway-bryne-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Linemyra naturreservat",
+                  "text": "Ein geschütztes Feuchtgebiet und Naturschutzgebiet in Bryne.",
+                  "category": "natural",
+                  "coords": [
+                        5.638517,
+                        58.716182
+                  ]
+            },
+            {
+                  "name": "Smokkevatnet naturreservat",
+                  "text": "Ein Naturschutzgebiet um einen See bei Bryne, wichtig für die Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        5.659007,
+                        58.711866
+                  ]
+            },
+            {
+                  "name": "Krosshaug",
+                  "text": "Ein archäologischer Fundplatz mit einem markanten Grabhügel in Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.637308,
+                        58.754323
+                  ]
+            },
+            {
+                  "name": "Grønhaug",
+                  "text": "Eine antike Grabstätte und archäologische Sehenswürdigkeit in Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.642752,
+                        58.753696
+                  ]
+            },
+            {
+                  "name": "Dysjane",
+                  "text": "Eine Gruppe von eisenzeitlichen Hausgrundrissen und Gräbern in Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.640101,
+                        58.75481
+                  ]
+            },
+            {
+                  "name": "Andreas Bøe-samlinga",
+                  "text": "Eine Kunstsammlung in Bryne, die dem Werk von Andreas Bøe gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        5.64193,
+                        58.736623
+                  ]
+            },
+            {
+                  "name": "Garborgsenteret",
+                  "text": "Ein Museum und Dokumentationszentrum über den Schriftsteller Arne Garborg.",
+                  "category": "museum",
+                  "coords": [
+                        5.650315,
+                        58.73379
+                  ]
+            },
+            {
+                  "name": "Jærens kunstgalleri",
+                  "text": "Ein Kunstzentrum in Bryne, das regionale und nationale Kunst ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        5.64443,
+                        58.735605
+                  ]
+            },
+            {
+                  "name": "Bryne kyrkje",
+                  "text": "Die moderne Gemeindekirche der Stadt Bryne.",
+                  "category": "religious",
+                  "coords": [
+                        5.644712,
+                        58.737237
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linemyra naturreservat",
+                  "text": "Védett mocsaras terület és természetvédelmi övezet Bryne-ben.",
+                  "category": "natural",
+                  "coords": [
+                        5.638517,
+                        58.716182
+                  ]
+            },
+            {
+                  "name": "Smokkevatnet naturreservat",
+                  "text": "Természetvédelmi terület egy tó körül Bryne közelében, fontos madárélőhely.",
+                  "category": "natural",
+                  "coords": [
+                        5.659007,
+                        58.711866
+                  ]
+            },
+            {
+                  "name": "Krosshaug",
+                  "text": "Régészeti lelőhely egy jellegzetes sírhalommal Bryne-ben.",
+                  "category": "historical",
+                  "coords": [
+                        5.637308,
+                        58.754323
+                  ]
+            },
+            {
+                  "name": "Grønhaug",
+                  "text": "Ősi temetkezési hely és régészeti látnivaló Bryne-ben.",
+                  "category": "historical",
+                  "coords": [
+                        5.642752,
+                        58.753696
+                  ]
+            },
+            {
+                  "name": "Dysjane",
+                  "text": "Vaskori házalapok és sírok csoportja Bryne-ben.",
+                  "category": "historical",
+                  "coords": [
+                        5.640101,
+                        58.75481
+                  ]
+            },
+            {
+                  "name": "Andreas Bøe-samlinga",
+                  "text": "Művészeti gyűjtemény Bryne-ben, Andreas Bøe munkásságának szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        5.64193,
+                        58.736623
+                  ]
+            },
+            {
+                  "name": "Garborgsenteret",
+                  "text": "Múzeum és dokumentációs központ Arne Garborg íróról.",
+                  "category": "museum",
+                  "coords": [
+                        5.650315,
+                        58.73379
+                  ]
+            },
+            {
+                  "name": "Jærens kunstgalleri",
+                  "text": "Művészeti központ Bryne-ben, amely regionális és nemzeti műveket mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        5.64443,
+                        58.735605
+                  ]
+            },
+            {
+                  "name": "Bryne kyrkje",
+                  "text": "Bryne városának modern közösségi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        5.644712,
+                        58.737237
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linemyra naturreservat",
+                  "text": "O zonă umedă protejată și rezervație naturală în Bryne.",
+                  "category": "natural",
+                  "coords": [
+                        5.638517,
+                        58.716182
+                  ]
+            },
+            {
+                  "name": "Smokkevatnet naturreservat",
+                  "text": "O rezervație naturală în jurul unui lac de lângă Bryne, importantă pentru păsări.",
+                  "category": "natural",
+                  "coords": [
+                        5.659007,
+                        58.711866
+                  ]
+            },
+            {
+                  "name": "Krosshaug",
+                  "text": "Un sit arheologic cu un tumul proeminent în Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.637308,
+                        58.754323
+                  ]
+            },
+            {
+                  "name": "Grønhaug",
+                  "text": "Un loc de înmormântare antic și obiectiv arheologic în Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.642752,
+                        58.753696
+                  ]
+            },
+            {
+                  "name": "Dysjane",
+                  "text": "Un grup de fundații de case și morminte din epoca fierului în Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.640101,
+                        58.75481
+                  ]
+            },
+            {
+                  "name": "Andreas Bøe-samlinga",
+                  "text": "O colecție de artă în Bryne, dedicată operei lui Andreas Bøe.",
+                  "category": "museum",
+                  "coords": [
+                        5.64193,
+                        58.736623
+                  ]
+            },
+            {
+                  "name": "Garborgsenteret",
+                  "text": "Un muzeu și centru de documentare despre scriitorul Arne Garborg.",
+                  "category": "museum",
+                  "coords": [
+                        5.650315,
+                        58.73379
+                  ]
+            },
+            {
+                  "name": "Jærens kunstgalleri",
+                  "text": "Un centru de artă în Bryne, care expune artă regională și națională.",
+                  "category": "cultural",
+                  "coords": [
+                        5.64443,
+                        58.735605
+                  ]
+            },
+            {
+                  "name": "Bryne kyrkje",
+                  "text": "Biserica modernă a comunității din orașul Bryne.",
+                  "category": "religious",
+                  "coords": [
+                        5.644712,
+                        58.737237
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linemyra naturreservat",
+                  "text": "A protected wetland and nature reserve in Bryne.",
+                  "category": "natural",
+                  "coords": [
+                        5.638517,
+                        58.716182
+                  ]
+            },
+            {
+                  "name": "Smokkevatnet naturreservat",
+                  "text": "A nature reserve around a lake near Bryne, important for birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        5.659007,
+                        58.711866
+                  ]
+            },
+            {
+                  "name": "Krosshaug",
+                  "text": "An archaeological site featuring a prominent burial mound in Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.637308,
+                        58.754323
+                  ]
+            },
+            {
+                  "name": "Grønhaug",
+                  "text": "An ancient burial site and archaeological attraction in Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.642752,
+                        58.753696
+                  ]
+            },
+            {
+                  "name": "Dysjane",
+                  "text": "A group of Iron Age house foundations and burials in Bryne.",
+                  "category": "historical",
+                  "coords": [
+                        5.640101,
+                        58.75481
+                  ]
+            },
+            {
+                  "name": "Andreas Bøe-samlinga",
+                  "text": "An art collection in Bryne dedicated to the work of Andreas Bøe.",
+                  "category": "museum",
+                  "coords": [
+                        5.64193,
+                        58.736623
+                  ]
+            },
+            {
+                  "name": "Garborgsenteret",
+                  "text": "A museum and documentation center about the writer Arne Garborg.",
+                  "category": "museum",
+                  "coords": [
+                        5.650315,
+                        58.73379
+                  ]
+            },
+            {
+                  "name": "Jærens kunstgalleri",
+                  "text": "An arts centre in Bryne exhibiting regional and national art.",
+                  "category": "cultural",
+                  "coords": [
+                        5.64443,
+                        58.735605
+                  ]
+            },
+            {
+                  "name": "Bryne kyrkje",
+                  "text": "The modern community church of Bryne city.",
+                  "category": "religious",
+                  "coords": [
+                        5.644712,
+                        58.737237
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Bryne", hu: "Bryne", ro: "Bryne", en: "Bryne" },
@@ -2883,7 +17652,268 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-bryne-cities-v2.webp",
   },
   {
-    id: "norway-kleppe-cities-v2",
+    id: "norway-kleppe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grudevatn naturreservat",
+                  "text": "Das Naturschutzgebiet Grudevatn ist ein wichtiges Feuchtgebiet für Vögel bei Kleppe.",
+                  "category": "natural",
+                  "coords": [
+                        5.624554,
+                        58.80165
+                  ]
+            },
+            {
+                  "name": "Kristinahuset",
+                  "text": "Kristinahuset ist ein lokales Museum in Kleppe, das Einblicke in die regionale Kultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        5.643323,
+                        58.786042
+                  ]
+            },
+            {
+                  "name": "Klepp bygdemuseum",
+                  "text": "Das Klepp bygdemuseum zeigt die ländliche Geschichte und das Leben in der Gemeinde Klepp.",
+                  "category": "museum",
+                  "coords": [
+                        5.622743,
+                        58.770512
+                  ]
+            },
+            {
+                  "name": "Kleppevarden",
+                  "text": "Kleppevarden ist ein Aussichtspunkt in Kleppe mit weitem Blick über die Jæren-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        5.62133,
+                        58.775871
+                  ]
+            },
+            {
+                  "name": "Bore gammle kyrkjegard",
+                  "text": "Der alte Friedhof von Bore ist eine historische Stätte mit bedeutenden kulturellen Denkmälern.",
+                  "category": "landmark",
+                  "coords": [
+                        5.579464,
+                        58.790075
+                  ]
+            },
+            {
+                  "name": "Klepp kyrkje",
+                  "text": "Die Kirche von Klepp ist ein zentrales religiöses Gebäude der Gemeinde in Kleppe.",
+                  "category": "religious",
+                  "coords": [
+                        5.624412,
+                        58.773341
+                  ]
+            },
+            {
+                  "name": "Bore kyrkje",
+                  "text": "Die Kirche von Bore ist ein historisches Gotteshaus in der Nähe der Küste von Kleppe.",
+                  "category": "religious",
+                  "coords": [
+                        5.598874,
+                        58.794943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grudevatn naturreservat",
+                  "text": "A Grudevatn természetvédelmi terület egy fontos vizes élőhely a madarak számára Kleppe közelében.",
+                  "category": "natural",
+                  "coords": [
+                        5.624554,
+                        58.80165
+                  ]
+            },
+            {
+                  "name": "Kristinahuset",
+                  "text": "A Kristinahuset egy helyi múzeum Kleppében, amely betekintést nyújt a régió kultúrájába.",
+                  "category": "museum",
+                  "coords": [
+                        5.643323,
+                        58.786042
+                  ]
+            },
+            {
+                  "name": "Klepp bygdemuseum",
+                  "text": "A Klepp bygdemuseum a község vidéki történelmét és életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.622743,
+                        58.770512
+                  ]
+            },
+            {
+                  "name": "Kleppevarden",
+                  "text": "A Kleppevarden egy kilátóhely Kleppében, ahonnan messzire ellátni a Jæren-vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        5.62133,
+                        58.775871
+                  ]
+            },
+            {
+                  "name": "Bore gammle kyrkjegard",
+                  "text": "Bore régi temetője egy történelmi helyszín, jelentős kulturális műemlékekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        5.579464,
+                        58.790075
+                  ]
+            },
+            {
+                  "name": "Klepp kyrkje",
+                  "text": "Klepp temploma a község központi vallási épülete Kleppében.",
+                  "category": "religious",
+                  "coords": [
+                        5.624412,
+                        58.773341
+                  ]
+            },
+            {
+                  "name": "Bore kyrkje",
+                  "text": "Bore temploma egy történelmi imaház Kleppe partjainak közelében.",
+                  "category": "religious",
+                  "coords": [
+                        5.598874,
+                        58.794943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grudevatn naturreservat",
+                  "text": "Rezervația naturală Grudevatn este o zonă umedă importantă pentru păsări lângă Kleppe.",
+                  "category": "natural",
+                  "coords": [
+                        5.624554,
+                        58.80165
+                  ]
+            },
+            {
+                  "name": "Kristinahuset",
+                  "text": "Kristinahuset este un muzeu local din Kleppe, care oferă informații despre cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        5.643323,
+                        58.786042
+                  ]
+            },
+            {
+                  "name": "Klepp bygdemuseum",
+                  "text": "Muzeul satului Klepp prezintă istoria rurală și viața din comuna Klepp.",
+                  "category": "museum",
+                  "coords": [
+                        5.622743,
+                        58.770512
+                  ]
+            },
+            {
+                  "name": "Kleppevarden",
+                  "text": "Kleppevarden este un punct de belvedere în Kleppe, cu o vedere largă asupra peisajului Jæren.",
+                  "category": "natural",
+                  "coords": [
+                        5.62133,
+                        58.775871
+                  ]
+            },
+            {
+                  "name": "Bore gammle kyrkjegard",
+                  "text": "Vechiul cimitir din Bore este un sit istoric cu monumente culturale semnificative.",
+                  "category": "landmark",
+                  "coords": [
+                        5.579464,
+                        58.790075
+                  ]
+            },
+            {
+                  "name": "Klepp kyrkje",
+                  "text": "Biserica din Klepp este un edificiu religios central al comunei din Kleppe.",
+                  "category": "religious",
+                  "coords": [
+                        5.624412,
+                        58.773341
+                  ]
+            },
+            {
+                  "name": "Bore kyrkje",
+                  "text": "Biserica din Bore este un lăcaș de cult istoric situat lângă coasta din Kleppe.",
+                  "category": "religious",
+                  "coords": [
+                        5.598874,
+                        58.794943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grudevatn naturreservat",
+                  "text": "Grudevatn nature reserve is an important wetland area for birds near Kleppe.",
+                  "category": "natural",
+                  "coords": [
+                        5.624554,
+                        58.80165
+                  ]
+            },
+            {
+                  "name": "Kristinahuset",
+                  "text": "Kristinahuset is a local museum in Kleppe offering insights into regional culture.",
+                  "category": "museum",
+                  "coords": [
+                        5.643323,
+                        58.786042
+                  ]
+            },
+            {
+                  "name": "Klepp bygdemuseum",
+                  "text": "Klepp bygdemuseum displays the rural history and life in the Klepp community.",
+                  "category": "museum",
+                  "coords": [
+                        5.622743,
+                        58.770512
+                  ]
+            },
+            {
+                  "name": "Kleppevarden",
+                  "text": "Kleppevarden is a viewpoint in Kleppe with far-reaching views over the Jæren landscape.",
+                  "category": "natural",
+                  "coords": [
+                        5.62133,
+                        58.775871
+                  ]
+            },
+            {
+                  "name": "Bore gammle kyrkjegard",
+                  "text": "Bore old cemetery is a historic site with significant cultural monuments.",
+                  "category": "landmark",
+                  "coords": [
+                        5.579464,
+                        58.790075
+                  ]
+            },
+            {
+                  "name": "Klepp kyrkje",
+                  "text": "Klepp church is a central religious building for the community in Kleppe.",
+                  "category": "religious",
+                  "coords": [
+                        5.624412,
+                        58.773341
+                  ]
+            },
+            {
+                  "name": "Bore kyrkje",
+                  "text": "Bore church is a historic place of worship located near the coast in Kleppe.",
+                  "category": "religious",
+                  "coords": [
+                        5.598874,
+                        58.794943
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kleppe", hu: "Kleppe", ro: "Kleppe", en: "Kleppe" },
@@ -2973,7 +18003,700 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-sola-cities-v2.webp",
   },
   {
-    id: "norway-randaberg-cities-v2",
+    id: "norway-randaberg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Svarthola/Vistehålå",
+                  "text": "Eine berühmte prähistorische Höhle bei Randaberg, die seit der Steinzeit genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        5.596665,
+                        58.987294
+                  ]
+            },
+            {
+                  "name": "Tuptene",
+                  "text": "Ein archäologischer Fundplatz mit Siedlungsresten in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.626119,
+                        59.012949
+                  ]
+            },
+            {
+                  "name": "Steingardar",
+                  "text": "Historische Steinmauern, die als archäologische Stätte in Randaberg gelten.",
+                  "category": "historical",
+                  "coords": [
+                        5.565662,
+                        59.015617
+                  ]
+            },
+            {
+                  "name": "Bø kystfort",
+                  "text": "Ein Küstenfort in Randaberg, das zu Verteidigungszwecken errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        5.568493,
+                        59.011782
+                  ]
+            },
+            {
+                  "name": "Børaunen bautas",
+                  "text": "Bautasteine und archäologische Denkmäler am Børaunen in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.578667,
+                        59.014244
+                  ]
+            },
+            {
+                  "name": "Vistnestunet",
+                  "text": "Ein restaurierter historischer Bauernhof in Randaberg, der als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        5.574995,
+                        58.984933
+                  ]
+            },
+            {
+                  "name": "Vistnes skole",
+                  "text": "Ein Schulmuseum in Randaberg, das die Geschichte der Bildung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.583549,
+                        58.989162
+                  ]
+            },
+            {
+                  "name": "Grav haug/minne bronsealder",
+                  "text": "Ein Grabhügel aus der Bronzezeit in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.595879,
+                        58.991612
+                  ]
+            },
+            {
+                  "name": "Gravminne - bauta",
+                  "text": "Ein aufrecht stehender Bautastein als archäologisches Grabmal in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.622773,
+                        58.988405
+                  ]
+            },
+            {
+                  "name": "Goaskipreid naust (not visible)",
+                  "text": "Standort eines ehemaligen Bootshauses aus der Eisenzeit in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.60848,
+                        58.983166
+                  ]
+            },
+            {
+                  "name": "Einarsvarden",
+                  "text": "Ein lokaler Orientierungspunkt oder Denkmal in Randaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.565492,
+                        59.002201
+                  ]
+            },
+            {
+                  "name": "WWII German gun site",
+                  "text": "Überreste einer deutschen Geschützstellung aus dem Zweiten Weltkrieg in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.601973,
+                        58.984991
+                  ]
+            },
+            {
+                  "name": "Gamle naust",
+                  "text": "Ruinen alter Bootshäuser an der Küste von Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.565827,
+                        59.014525
+                  ]
+            },
+            {
+                  "name": "Ukjent (gammel driftsbygning)",
+                  "text": "Überreste eines alten Wirtschaftsgebäudes unbekannter Herkunft in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.58018,
+                        59.005195
+                  ]
+            },
+            {
+                  "name": "Vistnes",
+                  "text": "Ein Aussichtspunkt an der Küste von Randaberg mit weitem Meerblick.",
+                  "category": "natural",
+                  "coords": [
+                        5.565776,
+                        58.98087
+                  ]
+            },
+            {
+                  "name": "Vistekirken middelalder",
+                  "text": "Ruinen einer mittelalterlichen Kirche in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.592762,
+                        58.991166
+                  ]
+            },
+            {
+                  "name": "Børaunen",
+                  "text": "Eine markante geologische Formation und Küstenlandschaft in Randaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.574164,
+                        59.016854
+                  ]
+            },
+            {
+                  "name": "Rudlå",
+                  "text": "Ein Aussichtspunkt in Randaberg, der einen Blick über die Region bietet.",
+                  "category": "natural",
+                  "coords": [
+                        5.611865,
+                        58.982638
+                  ]
+            },
+            {
+                  "name": "Randaberg kirke",
+                  "text": "Eine örtliche Pfarrkirche, die der Gemeinde Randaberg dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.619411,
+                        58.99978
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Svarthola/Vistehålå",
+                  "text": "Híres őskori barlang Randaberg közelében, amelyet a kőkorszak óta laktak.",
+                  "category": "historical",
+                  "coords": [
+                        5.596665,
+                        58.987294
+                  ]
+            },
+            {
+                  "name": "Tuptene",
+                  "text": "Régészeti lelőhely településmaradványokkal Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.626119,
+                        59.012949
+                  ]
+            },
+            {
+                  "name": "Steingardar",
+                  "text": "Történelmi kőfalak, amelyeket régészeti lelőhelyként tartanak számon Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.565662,
+                        59.015617
+                  ]
+            },
+            {
+                  "name": "Bø kystfort",
+                  "text": "Parti erőd Randabergben, amelyet védelmi célokra építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        5.568493,
+                        59.011782
+                  ]
+            },
+            {
+                  "name": "Børaunen bautas",
+                  "text": "Bautakövek és régészeti emlékek Børaunennél, Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.578667,
+                        59.014244
+                  ]
+            },
+            {
+                  "name": "Vistnestunet",
+                  "text": "Restaurált történelmi gazdaság Randabergben, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        5.574995,
+                        58.984933
+                  ]
+            },
+            {
+                  "name": "Vistnes skole",
+                  "text": "Iskolamúzeum Randabergben, amely az oktatás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.583549,
+                        58.989162
+                  ]
+            },
+            {
+                  "name": "Grav haug/minne bronsealder",
+                  "text": "Bronzkori sírhalom Randaberg területén.",
+                  "category": "historical",
+                  "coords": [
+                        5.595879,
+                        58.991612
+                  ]
+            },
+            {
+                  "name": "Gravminne - bauta",
+                  "text": "Álló bautakő, mint régészeti síremlék Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.622773,
+                        58.988405
+                  ]
+            },
+            {
+                  "name": "Goaskipreid naust (not visible)",
+                  "text": "Egy vaskori csónakház egykori helyszíne Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.60848,
+                        58.983166
+                  ]
+            },
+            {
+                  "name": "Einarsvarden",
+                  "text": "Helyi tájékozódási pont vagy emlékmű Randabergben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.565492,
+                        59.002201
+                  ]
+            },
+            {
+                  "name": "WWII German gun site",
+                  "text": "Második világháborús német ágyúállás maradványai Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.601973,
+                        58.984991
+                  ]
+            },
+            {
+                  "name": "Gamle naust",
+                  "text": "Régi csónakházak romjai Randaberg partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        5.565827,
+                        59.014525
+                  ]
+            },
+            {
+                  "name": "Ukjent (gammel driftsbygning)",
+                  "text": "Ismeretlen eredetű régi gazdasági épület maradványai Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.58018,
+                        59.005195
+                  ]
+            },
+            {
+                  "name": "Vistnes",
+                  "text": "Kilátóhely Randaberg partján, tágas tengeri kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        5.565776,
+                        58.98087
+                  ]
+            },
+            {
+                  "name": "Vistekirken middelalder",
+                  "text": "Középkori templom romjai Randabergben.",
+                  "category": "historical",
+                  "coords": [
+                        5.592762,
+                        58.991166
+                  ]
+            },
+            {
+                  "name": "Børaunen",
+                  "text": "Jellegzetes geológiai képződmény és tengerparti táj Randabergben.",
+                  "category": "landmark",
+                  "coords": [
+                        5.574164,
+                        59.016854
+                  ]
+            },
+            {
+                  "name": "Rudlå",
+                  "text": "Kilátóhely Randabergben, amely rálátást nyújt a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        5.611865,
+                        58.982638
+                  ]
+            },
+            {
+                  "name": "Randaberg kirke",
+                  "text": "Randaberg közösségét szolgáló helyi plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        5.619411,
+                        58.99978
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Svarthola/Vistehålå",
+                  "text": "O faimoasă peșteră preistorică lângă Randaberg, locuită încă din epoca pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        5.596665,
+                        58.987294
+                  ]
+            },
+            {
+                  "name": "Tuptene",
+                  "text": "Un sit arheologic cu vestigii de așezări în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.626119,
+                        59.012949
+                  ]
+            },
+            {
+                  "name": "Steingardar",
+                  "text": "Ziduri istorice de piatră, considerate sit arheologic în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.565662,
+                        59.015617
+                  ]
+            },
+            {
+                  "name": "Bø kystfort",
+                  "text": "Un fort de coastă în Randaberg, construit în scopuri defensive.",
+                  "category": "fortress",
+                  "coords": [
+                        5.568493,
+                        59.011782
+                  ]
+            },
+            {
+                  "name": "Børaunen bautas",
+                  "text": "Menhire și monumente arheologice la Børaunen, în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.578667,
+                        59.014244
+                  ]
+            },
+            {
+                  "name": "Vistnestunet",
+                  "text": "O fermă istorică restaurată în Randaberg, care servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        5.574995,
+                        58.984933
+                  ]
+            },
+            {
+                  "name": "Vistnes skole",
+                  "text": "Un muzeu școlar în Randaberg, care prezintă istoria educației.",
+                  "category": "museum",
+                  "coords": [
+                        5.583549,
+                        58.989162
+                  ]
+            },
+            {
+                  "name": "Grav haug/minne bronsealder",
+                  "text": "Un tumul din epoca bronzului în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.595879,
+                        58.991612
+                  ]
+            },
+            {
+                  "name": "Gravminne - bauta",
+                  "text": "Un menhir ridicat ca monument funerar arheologic în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.622773,
+                        58.988405
+                  ]
+            },
+            {
+                  "name": "Goaskipreid naust (not visible)",
+                  "text": "Locul unei foste remize de bărci din epoca fierului în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.60848,
+                        58.983166
+                  ]
+            },
+            {
+                  "name": "Einarsvarden",
+                  "text": "Un punct de reper local sau monument în Randaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.565492,
+                        59.002201
+                  ]
+            },
+            {
+                  "name": "WWII German gun site",
+                  "text": "Rămășițele unei poziții de artilerie germane din al Doilea Război Mondial în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.601973,
+                        58.984991
+                  ]
+            },
+            {
+                  "name": "Gamle naust",
+                  "text": "Ruinele unor vechi remize de bărci pe coasta din Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.565827,
+                        59.014525
+                  ]
+            },
+            {
+                  "name": "Ukjent (gammel driftsbygning)",
+                  "text": "Rămășițele unei clădiri agricole vechi de origine necunoscută în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.58018,
+                        59.005195
+                  ]
+            },
+            {
+                  "name": "Vistnes",
+                  "text": "Un punct de belvedere pe coasta Randaberg cu vedere largă la mare.",
+                  "category": "natural",
+                  "coords": [
+                        5.565776,
+                        58.98087
+                  ]
+            },
+            {
+                  "name": "Vistekirken middelalder",
+                  "text": "Ruinele unei biserici medievale în Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.592762,
+                        58.991166
+                  ]
+            },
+            {
+                  "name": "Børaunen",
+                  "text": "O formațiune geologică distinctivă și peisaj de coastă în Randaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.574164,
+                        59.016854
+                  ]
+            },
+            {
+                  "name": "Rudlå",
+                  "text": "Un punct de observație în Randaberg, oferind o vedere asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        5.611865,
+                        58.982638
+                  ]
+            },
+            {
+                  "name": "Randaberg kirke",
+                  "text": "O biserică parohială locală care deservește comunitatea din Randaberg.",
+                  "category": "religious",
+                  "coords": [
+                        5.619411,
+                        58.99978
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Svarthola/Vistehålå",
+                  "text": "A famous prehistoric cave site near Randaberg, used since the Stone Age.",
+                  "category": "historical",
+                  "coords": [
+                        5.596665,
+                        58.987294
+                  ]
+            },
+            {
+                  "name": "Tuptene",
+                  "text": "An archaeological site with settlement remains in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.626119,
+                        59.012949
+                  ]
+            },
+            {
+                  "name": "Steingardar",
+                  "text": "Historical stone walls considered an archaeological site in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.565662,
+                        59.015617
+                  ]
+            },
+            {
+                  "name": "Bø kystfort",
+                  "text": "A coastal fort in Randaberg, built for defensive purposes.",
+                  "category": "fortress",
+                  "coords": [
+                        5.568493,
+                        59.011782
+                  ]
+            },
+            {
+                  "name": "Børaunen bautas",
+                  "text": "Bauta stones and archaeological monuments at Børaunen in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.578667,
+                        59.014244
+                  ]
+            },
+            {
+                  "name": "Vistnestunet",
+                  "text": "A restored historical farm in Randaberg serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        5.574995,
+                        58.984933
+                  ]
+            },
+            {
+                  "name": "Vistnes skole",
+                  "text": "A school museum in Randaberg showing the history of education.",
+                  "category": "museum",
+                  "coords": [
+                        5.583549,
+                        58.989162
+                  ]
+            },
+            {
+                  "name": "Grav haug/minne bronsealder",
+                  "text": "A burial mound from the Bronze Age in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.595879,
+                        58.991612
+                  ]
+            },
+            {
+                  "name": "Gravminne - bauta",
+                  "text": "An upright bauta stone serving as an archaeological grave marker in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.622773,
+                        58.988405
+                  ]
+            },
+            {
+                  "name": "Goaskipreid naust (not visible)",
+                  "text": "Site of a former Iron Age boathouse in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.60848,
+                        58.983166
+                  ]
+            },
+            {
+                  "name": "Einarsvarden",
+                  "text": "A local landmark or monument in Randaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.565492,
+                        59.002201
+                  ]
+            },
+            {
+                  "name": "WWII German gun site",
+                  "text": "Remains of a WWII German gun site in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.601973,
+                        58.984991
+                  ]
+            },
+            {
+                  "name": "Gamle naust",
+                  "text": "Ruins of old boathouses on the coast of Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.565827,
+                        59.014525
+                  ]
+            },
+            {
+                  "name": "Ukjent (gammel driftsbygning)",
+                  "text": "Remains of an old farm building of unknown origin in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.58018,
+                        59.005195
+                  ]
+            },
+            {
+                  "name": "Vistnes",
+                  "text": "A viewpoint on the coast of Randaberg with wide sea views.",
+                  "category": "natural",
+                  "coords": [
+                        5.565776,
+                        58.98087
+                  ]
+            },
+            {
+                  "name": "Vistekirken middelalder",
+                  "text": "Ruins of a medieval church in Randaberg.",
+                  "category": "historical",
+                  "coords": [
+                        5.592762,
+                        58.991166
+                  ]
+            },
+            {
+                  "name": "Børaunen",
+                  "text": "A distinctive geological formation and coastal area in Randaberg.",
+                  "category": "landmark",
+                  "coords": [
+                        5.574164,
+                        59.016854
+                  ]
+            },
+            {
+                  "name": "Rudlå",
+                  "text": "A viewpoint in Randaberg offering a view over the region.",
+                  "category": "natural",
+                  "coords": [
+                        5.611865,
+                        58.982638
+                  ]
+            },
+            {
+                  "name": "Randaberg kirke",
+                  "text": "A local parish church serving the community of Randaberg.",
+                  "category": "religious",
+                  "coords": [
+                        5.619411,
+                        58.99978
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Randaberg", hu: "Randaberg", ro: "Randaberg", en: "Randaberg" },
@@ -3108,7 +18831,232 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-vindafjord-cities-v2.webp",
   },
   {
-    id: "norway-sauda-cities-v2",
+    id: "norway-sauda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tinghaug",
+                  "text": "Ein Kulturmuseum, das die lokale Geschichte in Sauda präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.316238,
+                        59.647842
+                  ]
+            },
+            {
+                  "name": "Fagerheimsamlinga",
+                  "text": "Ein Museum in Sauda mit einer bedeutenden lokalen Kunstsammlung.",
+                  "category": "museum",
+                  "coords": [
+                        6.357185,
+                        59.651187
+                  ]
+            },
+            {
+                  "name": "Industriarbeidarmuseet i Sauda",
+                  "text": "Dieses Museum dokumentiert die industrielle Arbeitsgeschichte von Sauda.",
+                  "category": "museum",
+                  "coords": [
+                        6.363841,
+                        59.650482
+                  ]
+            },
+            {
+                  "name": "Rondehaugen",
+                  "text": "Ein Aussichtspunkt mit Panoramablick auf Sauda und seine Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        6.371948,
+                        59.670588
+                  ]
+            },
+            {
+                  "name": "Saudasjøen kapell",
+                  "text": "Eine historische Kapelle im Dorf Saudasjøen.",
+                  "category": "religious",
+                  "coords": [
+                        6.305536,
+                        59.64011
+                  ]
+            },
+            {
+                  "name": "Sauda kyrkje",
+                  "text": "Die Hauptkirche von Sauda, die als zentrales Gotteshaus dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.354408,
+                        59.65179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tinghaug",
+                  "text": "Sauda helyi történelmét bemutató kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        6.316238,
+                        59.647842
+                  ]
+            },
+            {
+                  "name": "Fagerheimsamlinga",
+                  "text": "Jelentős helyi művészeti gyűjteménnyel rendelkező múzeum Saudában.",
+                  "category": "museum",
+                  "coords": [
+                        6.357185,
+                        59.651187
+                  ]
+            },
+            {
+                  "name": "Industriarbeidarmuseet i Sauda",
+                  "text": "Ez a múzeum Sauda ipari munkástörténetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.363841,
+                        59.650482
+                  ]
+            },
+            {
+                  "name": "Rondehaugen",
+                  "text": "Kilátóhely, ahonnan panorámás kilátás nyílik Saudára és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        6.371948,
+                        59.670588
+                  ]
+            },
+            {
+                  "name": "Saudasjøen kapell",
+                  "text": "Történelmi kápolna Saudasjøen faluban.",
+                  "category": "religious",
+                  "coords": [
+                        6.305536,
+                        59.64011
+                  ]
+            },
+            {
+                  "name": "Sauda kyrkje",
+                  "text": "Sauda főtemploma, amely központi istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        6.354408,
+                        59.65179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tinghaug",
+                  "text": "Un muzeu cultural care prezintă istoria locală din Sauda.",
+                  "category": "museum",
+                  "coords": [
+                        6.316238,
+                        59.647842
+                  ]
+            },
+            {
+                  "name": "Fagerheimsamlinga",
+                  "text": "Un muzeu din Sauda care adăpostește o importantă colecție locală de artă.",
+                  "category": "museum",
+                  "coords": [
+                        6.357185,
+                        59.651187
+                  ]
+            },
+            {
+                  "name": "Industriarbeidarmuseet i Sauda",
+                  "text": "Acest muzeu documentează istoria muncii industriale din Sauda.",
+                  "category": "museum",
+                  "coords": [
+                        6.363841,
+                        59.650482
+                  ]
+            },
+            {
+                  "name": "Rondehaugen",
+                  "text": "Un punct de belvedere care oferă vederi panoramice asupra Sauda și împrejurimilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        6.371948,
+                        59.670588
+                  ]
+            },
+            {
+                  "name": "Saudasjøen kapell",
+                  "text": "O capelă istorică situată în satul Saudasjøen.",
+                  "category": "religious",
+                  "coords": [
+                        6.305536,
+                        59.64011
+                  ]
+            },
+            {
+                  "name": "Sauda kyrkje",
+                  "text": "Biserica principală din Sauda, servind ca loc central de cult.",
+                  "category": "religious",
+                  "coords": [
+                        6.354408,
+                        59.65179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tinghaug",
+                  "text": "A cultural museum showcasing local history in Sauda.",
+                  "category": "museum",
+                  "coords": [
+                        6.316238,
+                        59.647842
+                  ]
+            },
+            {
+                  "name": "Fagerheimsamlinga",
+                  "text": "A museum in Sauda featuring a significant local art collection.",
+                  "category": "museum",
+                  "coords": [
+                        6.357185,
+                        59.651187
+                  ]
+            },
+            {
+                  "name": "Industriarbeidarmuseet i Sauda",
+                  "text": "This museum documents the industrial labor history of Sauda.",
+                  "category": "museum",
+                  "coords": [
+                        6.363841,
+                        59.650482
+                  ]
+            },
+            {
+                  "name": "Rondehaugen",
+                  "text": "A scenic viewpoint offering panoramic views of Sauda and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        6.371948,
+                        59.670588
+                  ]
+            },
+            {
+                  "name": "Saudasjøen kapell",
+                  "text": "A historic chapel located in the village of Saudasjøen.",
+                  "category": "religious",
+                  "coords": [
+                        6.305536,
+                        59.64011
+                  ]
+            },
+            {
+                  "name": "Sauda kyrkje",
+                  "text": "The main church of Sauda, serving as a central place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        6.354408,
+                        59.65179
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Sauda", hu: "Sauda", ro: "Sauda", en: "Sauda" },
@@ -3153,7 +19101,88 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-sauda-cities-v2.webp",
   },
   {
-    id: "norway-suldal-cities-v2",
+    id: "norway-suldal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Drotninghei naturreservat",
+                  "text": "Drotninghei ist ein Naturschutzgebiet in Suldal, bekannt für seine unberührte Berglandschaft.",
+                  "category": "natural",
+                  "coords": [
+                        6.374352,
+                        59.472541
+                  ]
+            },
+            {
+                  "name": "Kvednahola kvernhusanlegg",
+                  "text": "Das Kvednahola Mühlenmuseum zeigt historische Wassermühlen in der Region Suldal.",
+                  "category": "museum",
+                  "coords": [
+                        6.411317,
+                        59.464305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Drotninghei naturreservat",
+                  "text": "A Drotninghei természetvédelmi terület Suldalban, érintetlen hegyi tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        6.374352,
+                        59.472541
+                  ]
+            },
+            {
+                  "name": "Kvednahola kvernhusanlegg",
+                  "text": "A Kvednahola malommúzeum történelmi vízimalmokat mutat be Suldal régiójában.",
+                  "category": "museum",
+                  "coords": [
+                        6.411317,
+                        59.464305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Drotninghei naturreservat",
+                  "text": "Rezervația naturală Drotninghei din Suldal este cunoscută pentru peisajul său montan nealterat.",
+                  "category": "natural",
+                  "coords": [
+                        6.374352,
+                        59.472541
+                  ]
+            },
+            {
+                  "name": "Kvednahola kvernhusanlegg",
+                  "text": "Muzeul morilor Kvednahola prezintă mori de apă istorice din regiunea Suldal.",
+                  "category": "museum",
+                  "coords": [
+                        6.411317,
+                        59.464305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Drotninghei naturreservat",
+                  "text": "Drotninghei is a nature reserve in Suldal, known for its untouched mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        6.374352,
+                        59.472541
+                  ]
+            },
+            {
+                  "name": "Kvednahola kvernhusanlegg",
+                  "text": "Kvednahola mill museum showcases historical water mills in the Suldal region.",
+                  "category": "museum",
+                  "coords": [
+                        6.411317,
+                        59.464305
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Suldal", hu: "Suldal", ro: "Suldal", en: "Suldal" },
@@ -3288,7 +19317,232 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-forsand-cities-v2.webp",
   },
   {
-    id: "norway-kvitsøy-cities-v2",
+    id: "norway-kvitsøy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kvitsøy",
+                  "text": "Der Leuchtturm von Kvitsøy ist ein wichtiges Wahrzeichen auf der Inselgruppe Kvitsøy.",
+                  "category": "landmark",
+                  "coords": [
+                        5.400105,
+                        59.062032
+                  ]
+            },
+            {
+                  "name": "Hummermuseet",
+                  "text": "Das Hummermuseum in Kvitsøy widmet sich der Geschichte des Hummerfangs in der Region.",
+                  "category": "museum",
+                  "coords": [
+                        5.399156,
+                        59.058867
+                  ]
+            },
+            {
+                  "name": "Kvittingsøy kystfort",
+                  "text": "Das Küstenfort Kvittingsøy ist eine ehemalige Verteidigungsanlage auf Kvitsøy.",
+                  "category": "fortress",
+                  "coords": [
+                        5.39704,
+                        59.06561
+                  ]
+            },
+            {
+                  "name": "St. Clements Kirke",
+                  "text": "Die St. Clements Kirche sind die Überreste einer mittelalterlichen Steinkirche auf Kvitsøy.",
+                  "category": "historical",
+                  "coords": [
+                        5.431489,
+                        59.066143
+                  ]
+            },
+            {
+                  "name": "ehp.no Elisabet Holmgard Pedersen",
+                  "text": "Die Galerie von Elisabet Holmgard Pedersen zeigt zeitgenössische Kunst auf Kvitsøy.",
+                  "category": "museum",
+                  "coords": [
+                        5.398008,
+                        59.066302
+                  ]
+            },
+            {
+                  "name": "Kvitsøy kirke",
+                  "text": "Die Kirche von Kvitsøy ist ein traditionelles Holzgebäude im Herzen der Inselgemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        5.416427,
+                        59.064037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kvitsøy",
+                  "text": "A kvitsøyi világítótorony a Kvitsøy-szigetek fontos jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        5.400105,
+                        59.062032
+                  ]
+            },
+            {
+                  "name": "Hummermuseet",
+                  "text": "A kvitsøyi Homármúzeum a régió homárhalászatának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.399156,
+                        59.058867
+                  ]
+            },
+            {
+                  "name": "Kvittingsøy kystfort",
+                  "text": "A Kvittingsøy kystfort egy egykori partmenti erődítmény Kvitsøy szigetén.",
+                  "category": "fortress",
+                  "coords": [
+                        5.39704,
+                        59.06561
+                  ]
+            },
+            {
+                  "name": "St. Clements Kirke",
+                  "text": "A Szent Kelemen-templom egy középkori kőtemplom maradványai Kvitsøy szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        5.431489,
+                        59.066143
+                  ]
+            },
+            {
+                  "name": "ehp.no Elisabet Holmgard Pedersen",
+                  "text": "Elisabet Holmgard Pedersen galériája kortárs művészeti alkotásokat mutat be Kvitsøy szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        5.398008,
+                        59.066302
+                  ]
+            },
+            {
+                  "name": "Kvitsøy kirke",
+                  "text": "A kvitsøyi templom egy hagyományos faépület a szigeti közösség szívében.",
+                  "category": "religious",
+                  "coords": [
+                        5.416427,
+                        59.064037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kvitsøy",
+                  "text": "Farul din Kvitsøy este un punct de reper important pe arhipelagul Kvitsøy.",
+                  "category": "landmark",
+                  "coords": [
+                        5.400105,
+                        59.062032
+                  ]
+            },
+            {
+                  "name": "Hummermuseet",
+                  "text": "Muzeul Homarului din Kvitsøy este dedicat istoriei pescuitului de homari din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        5.399156,
+                        59.058867
+                  ]
+            },
+            {
+                  "name": "Kvittingsøy kystfort",
+                  "text": "Fortăreața de coastă Kvittingsøy este o fostă instalație de apărare pe Kvitsøy.",
+                  "category": "fortress",
+                  "coords": [
+                        5.39704,
+                        59.06561
+                  ]
+            },
+            {
+                  "name": "St. Clements Kirke",
+                  "text": "Biserica Sf. Clement reprezintă resturile unei biserici medievale de piatră de pe Kvitsøy.",
+                  "category": "historical",
+                  "coords": [
+                        5.431489,
+                        59.066143
+                  ]
+            },
+            {
+                  "name": "ehp.no Elisabet Holmgard Pedersen",
+                  "text": "Galeria Elisabet Holmgard Pedersen expune artă contemporană pe Kvitsøy.",
+                  "category": "museum",
+                  "coords": [
+                        5.398008,
+                        59.066302
+                  ]
+            },
+            {
+                  "name": "Kvitsøy kirke",
+                  "text": "Biserica din Kvitsøy este o clădire tradițională de lemn din inima comunității insulare.",
+                  "category": "religious",
+                  "coords": [
+                        5.416427,
+                        59.064037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kvitsøy",
+                  "text": "The Kvitsøy lighthouse is a significant landmark on the Kvitsøy archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        5.400105,
+                        59.062032
+                  ]
+            },
+            {
+                  "name": "Hummermuseet",
+                  "text": "The lobster museum in Kvitsøy is dedicated to the history of lobster fishing in the region.",
+                  "category": "museum",
+                  "coords": [
+                        5.399156,
+                        59.058867
+                  ]
+            },
+            {
+                  "name": "Kvittingsøy kystfort",
+                  "text": "Kvittingsøy coastal fort is a former defense installation on Kvitsøy.",
+                  "category": "fortress",
+                  "coords": [
+                        5.39704,
+                        59.06561
+                  ]
+            },
+            {
+                  "name": "St. Clements Kirke",
+                  "text": "St. Clements Church are the remains of a medieval stone church on Kvitsøy.",
+                  "category": "historical",
+                  "coords": [
+                        5.431489,
+                        59.066143
+                  ]
+            },
+            {
+                  "name": "ehp.no Elisabet Holmgard Pedersen",
+                  "text": "The gallery of Elisabet Holmgard Pedersen displays contemporary art on Kvitsøy.",
+                  "category": "museum",
+                  "coords": [
+                        5.398008,
+                        59.066302
+                  ]
+            },
+            {
+                  "name": "Kvitsøy kirke",
+                  "text": "Kvitsøy church is a traditional wooden building in the heart of the island community.",
+                  "category": "religious",
+                  "coords": [
+                        5.416427,
+                        59.064037
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Kvitsøy", hu: "Kvitsøy", ro: "Kvitsøy", en: "Kvitsøy" },
@@ -3333,7 +19587,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-kvitsøy-cities-v2.webp",
   },
   {
-    id: "norway-bokn-cities-v2",
+    id: "norway-bokn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Røykstova på Laupland",
+                  "text": "Ein historisches Rauchhausmuseum in Bokn, das traditionelle Lebensbedingungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        5.445209,
+                        59.185701
+                  ]
+            },
+            {
+                  "name": "Bokn bygdemuseum",
+                  "text": "Ein lokales Dorfmuseum in Bokn, das sich auf die regionale Geschichte konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        5.442161,
+                        59.214092
+                  ]
+            },
+            {
+                  "name": "Bokn kyrkje",
+                  "text": "Eine lokale Pfarrkirche in Bokn, die der Dorfgemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.440639,
+                        59.223767
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Røykstova på Laupland",
+                  "text": "Történelmi füstölőház-múzeum Boknban, amely a hagyományos életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.445209,
+                        59.185701
+                  ]
+            },
+            {
+                  "name": "Bokn bygdemuseum",
+                  "text": "Helyi falumúzeum Boknban, amely a regionális történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        5.442161,
+                        59.214092
+                  ]
+            },
+            {
+                  "name": "Bokn kyrkje",
+                  "text": "Helyi plébániatemplom Boknban, amely a falu közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        5.440639,
+                        59.223767
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Røykstova på Laupland",
+                  "text": "Un muzeu istoric de tip afumătoare în Bokn, prezentând condițiile de viață tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        5.445209,
+                        59.185701
+                  ]
+            },
+            {
+                  "name": "Bokn bygdemuseum",
+                  "text": "Un muzeu sătesc local în Bokn, axat pe istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        5.442161,
+                        59.214092
+                  ]
+            },
+            {
+                  "name": "Bokn kyrkje",
+                  "text": "O biserică parohială locală în Bokn, care deservește comunitatea satului.",
+                  "category": "religious",
+                  "coords": [
+                        5.440639,
+                        59.223767
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Røykstova på Laupland",
+                  "text": "A historic smokehouse museum in Bokn showing traditional living conditions.",
+                  "category": "museum",
+                  "coords": [
+                        5.445209,
+                        59.185701
+                  ]
+            },
+            {
+                  "name": "Bokn bygdemuseum",
+                  "text": "A local village museum in Bokn focusing on regional history.",
+                  "category": "museum",
+                  "coords": [
+                        5.442161,
+                        59.214092
+                  ]
+            },
+            {
+                  "name": "Bokn kyrkje",
+                  "text": "A local parish church in Bokn serving the village community.",
+                  "category": "religious",
+                  "coords": [
+                        5.440639,
+                        59.223767
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Bokn", hu: "Bokn", ro: "Bokn", en: "Bokn" },
@@ -3378,7 +19749,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-bokn-cities-v2.webp",
   },
   {
-    id: "norway-utsira-cities-v2",
+    id: "norway-utsira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Utsira fyr",
+                  "text": "Norwegens höchstgelegener Leuchtturm, der 1844 auf der Insel Utsira errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        4.871239,
+                        59.306857
+                  ]
+            },
+            {
+                  "name": "Spannholmane naturreservat",
+                  "text": "Ein geschütztes Naturschutzgebiet bei Utsira, das für seine vielfältige Vogelwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        4.849012,
+                        59.283055
+                  ]
+            },
+            {
+                  "name": "Sjøhuset til Mikal L. Klovning",
+                  "text": "Ein Museum in Utsira, das traditionelle maritime Ausrüstung und Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        4.891973,
+                        59.298593
+                  ]
+            },
+            {
+                  "name": "Utsira kirke",
+                  "text": "Die örtliche Pfarrkirche auf der Insel Utsira.",
+                  "category": "religious",
+                  "coords": [
+                        4.882807,
+                        59.309451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Utsira fyr",
+                  "text": "Norvégia legmagasabban fekvő világítótornya, amelyet 1844-ben alapítottak Utsira szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        4.871239,
+                        59.306857
+                  ]
+            },
+            {
+                  "name": "Spannholmane naturreservat",
+                  "text": "Utsira közeli védett természetvédelmi terület, amely változatos madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        4.849012,
+                        59.283055
+                  ]
+            },
+            {
+                  "name": "Sjøhuset til Mikal L. Klovning",
+                  "text": "Utsirai múzeum, amely hagyományos tengerészeti felszereléseket és történelmet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        4.891973,
+                        59.298593
+                  ]
+            },
+            {
+                  "name": "Utsira kirke",
+                  "text": "Helyi plébániatemplom Utsira szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        4.882807,
+                        59.309451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Utsira fyr",
+                  "text": "Cel mai înalt far din Norvegia, înființat în 1844 pe insula Utsira.",
+                  "category": "landmark",
+                  "coords": [
+                        4.871239,
+                        59.306857
+                  ]
+            },
+            {
+                  "name": "Spannholmane naturreservat",
+                  "text": "O rezervație naturală protejată lângă Utsira, cunoscută pentru diversitatea păsărilor sale.",
+                  "category": "natural",
+                  "coords": [
+                        4.849012,
+                        59.283055
+                  ]
+            },
+            {
+                  "name": "Sjøhuset til Mikal L. Klovning",
+                  "text": "Un muzeu din Utsira care prezintă echipamente maritime tradiționale și istorie.",
+                  "category": "museum",
+                  "coords": [
+                        4.891973,
+                        59.298593
+                  ]
+            },
+            {
+                  "name": "Utsira kirke",
+                  "text": "Biserica parohială locală de pe insula Utsira.",
+                  "category": "religious",
+                  "coords": [
+                        4.882807,
+                        59.309451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Utsira fyr",
+                  "text": "Norway's highest-positioned lighthouse, established in 1844 on the island of Utsira.",
+                  "category": "landmark",
+                  "coords": [
+                        4.871239,
+                        59.306857
+                  ]
+            },
+            {
+                  "name": "Spannholmane naturreservat",
+                  "text": "A protected nature reserve near Utsira known for its diverse birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        4.849012,
+                        59.283055
+                  ]
+            },
+            {
+                  "name": "Sjøhuset til Mikal L. Klovning",
+                  "text": "A museum in Utsira showcasing traditional maritime equipment and history.",
+                  "category": "museum",
+                  "coords": [
+                        4.891973,
+                        59.298593
+                  ]
+            },
+            {
+                  "name": "Utsira kirke",
+                  "text": "The local parish church on the island of Utsira.",
+                  "category": "religious",
+                  "coords": [
+                        4.882807,
+                        59.309451
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Utsira", hu: "Utsira", ro: "Utsira", en: "Utsira" },
@@ -3513,7 +20037,124 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-sveio-cities-v2.webp",
   },
   {
-    id: "norway-eta-cities-v2",
+    id: "norway-eta-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sæbøtunet",
+                  "text": "Ein Freilichtmuseum in Etne mit historischen Bauernhofgebäuden.",
+                  "category": "museum",
+                  "coords": [
+                        5.928545,
+                        59.662197
+                  ]
+            },
+            {
+                  "name": "Etne kyrkje",
+                  "text": "Eine traditionelle Holzkirche, die der Gemeinde Etne dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.944494,
+                        59.669667
+                  ]
+            },
+            {
+                  "name": "Gjerde kyrkje",
+                  "text": "Eine historische Steinkirche im Dorf Gjerde.",
+                  "category": "religious",
+                  "coords": [
+                        5.934852,
+                        59.664087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sæbøtunet",
+                  "text": "Szabadtéri múzeum Etnében, történelmi farmépületekkel.",
+                  "category": "museum",
+                  "coords": [
+                        5.928545,
+                        59.662197
+                  ]
+            },
+            {
+                  "name": "Etne kyrkje",
+                  "text": "Az etnei közösséget szolgáló hagyományos fatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        5.944494,
+                        59.669667
+                  ]
+            },
+            {
+                  "name": "Gjerde kyrkje",
+                  "text": "Történelmi kőtemplom Gjerde faluban.",
+                  "category": "religious",
+                  "coords": [
+                        5.934852,
+                        59.664087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sæbøtunet",
+                  "text": "Un muzeu în aer liber din Etne, cu clădiri de fermă istorice.",
+                  "category": "museum",
+                  "coords": [
+                        5.928545,
+                        59.662197
+                  ]
+            },
+            {
+                  "name": "Etne kyrkje",
+                  "text": "O biserică tradițională din lemn care deservește comunitatea Etne.",
+                  "category": "religious",
+                  "coords": [
+                        5.944494,
+                        59.669667
+                  ]
+            },
+            {
+                  "name": "Gjerde kyrkje",
+                  "text": "O biserică istorică din piatră situată în satul Gjerde.",
+                  "category": "religious",
+                  "coords": [
+                        5.934852,
+                        59.664087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sæbøtunet",
+                  "text": "An open-air museum in Etne featuring historic farm buildings.",
+                  "category": "museum",
+                  "coords": [
+                        5.928545,
+                        59.662197
+                  ]
+            },
+            {
+                  "name": "Etne kyrkje",
+                  "text": "A traditional wooden church serving the Etne community.",
+                  "category": "religious",
+                  "coords": [
+                        5.944494,
+                        59.669667
+                  ]
+            },
+            {
+                  "name": "Gjerde kyrkje",
+                  "text": "A historic stone church located in the village of Gjerde.",
+                  "category": "religious",
+                  "coords": [
+                        5.934852,
+                        59.664087
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Etne", hu: "Etne", ro: "Etne", en: "Etne" },
@@ -3558,7 +20199,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-eta-cities-v2.webp",
   },
   {
-    id: "norway-skånevik-cities-v2",
+    id: "norway-skånevik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skåno naturreservat",
+                  "text": "Das Naturschutzgebiet Skåno umfasst eine wertvolle Küstenlandschaft bei Skånevik.",
+                  "category": "natural",
+                  "coords": [
+                        5.927598,
+                        59.738238
+                  ]
+            },
+            {
+                  "name": "Norsk Motormuseum",
+                  "text": "Das Norsk Motormuseum präsentiert eine Sammlung historischer Motoren in Skånevik.",
+                  "category": "museum",
+                  "coords": [
+                        5.939485,
+                        59.733238
+                  ]
+            },
+            {
+                  "name": "Pebaren",
+                  "text": "Pebaren ist ein lokaler Strand in Skånevik, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930177,
+                        59.733385
+                  ]
+            },
+            {
+                  "name": "Skånevik kyrkje",
+                  "text": "Die Kirche von Skånevik ist das religiöse Wahrzeichen des Dorfes Skånevik.",
+                  "category": "religious",
+                  "coords": [
+                        5.939343,
+                        59.731992
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skåno naturreservat",
+                  "text": "A Skåno természetvédelmi terület értékes partmenti tájat foglal magában Skåneviknél.",
+                  "category": "natural",
+                  "coords": [
+                        5.927598,
+                        59.738238
+                  ]
+            },
+            {
+                  "name": "Norsk Motormuseum",
+                  "text": "A Norsk Motormuseum történelmi motorok gyűjteményét mutatja be Skånevikben.",
+                  "category": "museum",
+                  "coords": [
+                        5.939485,
+                        59.733238
+                  ]
+            },
+            {
+                  "name": "Pebaren",
+                  "text": "A Pebaren egy helyi strand Skånevikben, amely nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930177,
+                        59.733385
+                  ]
+            },
+            {
+                  "name": "Skånevik kyrkje",
+                  "text": "Skånevik temploma a település vallási jelképe Skånevikben.",
+                  "category": "religious",
+                  "coords": [
+                        5.939343,
+                        59.731992
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skåno naturreservat",
+                  "text": "Rezervația naturală Skåno cuprinde un peisaj costier valoros lângă Skånevik.",
+                  "category": "natural",
+                  "coords": [
+                        5.927598,
+                        59.738238
+                  ]
+            },
+            {
+                  "name": "Norsk Motormuseum",
+                  "text": "Norsk Motormuseum prezintă o colecție de motoare istorice în Skånevik.",
+                  "category": "museum",
+                  "coords": [
+                        5.939485,
+                        59.733238
+                  ]
+            },
+            {
+                  "name": "Pebaren",
+                  "text": "Pebaren este o plajă locală în Skånevik, cunoscută pentru atmosfera sa relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930177,
+                        59.733385
+                  ]
+            },
+            {
+                  "name": "Skånevik kyrkje",
+                  "text": "Biserica din Skånevik este simbolul religios al satului Skånevik.",
+                  "category": "religious",
+                  "coords": [
+                        5.939343,
+                        59.731992
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skåno naturreservat",
+                  "text": "Skåno nature reserve encompasses a valuable coastal landscape near Skånevik.",
+                  "category": "natural",
+                  "coords": [
+                        5.927598,
+                        59.738238
+                  ]
+            },
+            {
+                  "name": "Norsk Motormuseum",
+                  "text": "Norsk Motormuseum presents a collection of historic engines in Skånevik.",
+                  "category": "museum",
+                  "coords": [
+                        5.939485,
+                        59.733238
+                  ]
+            },
+            {
+                  "name": "Pebaren",
+                  "text": "Pebaren is a local beach in Skånevik known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        5.930177,
+                        59.733385
+                  ]
+            },
+            {
+                  "name": "Skånevik kyrkje",
+                  "text": "Skånevik church is the religious landmark of the village of Skånevik.",
+                  "category": "religious",
+                  "coords": [
+                        5.939343,
+                        59.731992
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Skånevik", hu: "Skånevik", ro: "Skånevik", en: "Skånevik" },
@@ -3648,7 +20442,160 @@ export const norwayCitiesV2: POI[] = [
     image: "/poi-images/norway-rosendal-cities-v2.webp",
   },
   {
-    id: "norway-husnes-cities-v2",
+    id: "norway-husnes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Prestnesholmen naturreservat",
+                  "text": "Ein friedliches Naturschutzgebiet auf einer Insel bei Husnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.718934,
+                        59.859541
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Husnes",
+                  "text": "Ein lokales Kulturzentrum in Husnes, in dem Theater- und Musikveranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755812,
+                        59.860484
+                  ]
+            },
+            {
+                  "name": "Husnes kyrkje",
+                  "text": "Eine moderne Kirche, die den Einwohnern von Husnes dient.",
+                  "category": "religious",
+                  "coords": [
+                        5.757918,
+                        59.866968
+                  ]
+            },
+            {
+                  "name": "Valen kyrkje",
+                  "text": "Eine Langkirche im Dorf Valen bei Husnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.774037,
+                        59.832723
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prestnesholmen naturreservat",
+                  "text": "Békés természetvédelmi terület egy Husnes melletti szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        5.718934,
+                        59.859541
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Husnes",
+                  "text": "Helyi kulturális központ Husnesben, amely színházi és zenei eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755812,
+                        59.860484
+                  ]
+            },
+            {
+                  "name": "Husnes kyrkje",
+                  "text": "Husnes lakóit szolgáló modern templom.",
+                  "category": "religious",
+                  "coords": [
+                        5.757918,
+                        59.866968
+                  ]
+            },
+            {
+                  "name": "Valen kyrkje",
+                  "text": "Valen faluban, Husnes közelében található hosszhajós templom.",
+                  "category": "religious",
+                  "coords": [
+                        5.774037,
+                        59.832723
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prestnesholmen naturreservat",
+                  "text": "O rezervație naturală liniștită pe o insulă de lângă Husnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.718934,
+                        59.859541
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Husnes",
+                  "text": "Un centru cultural local din Husnes care găzduiește evenimente de teatru și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755812,
+                        59.860484
+                  ]
+            },
+            {
+                  "name": "Husnes kyrkje",
+                  "text": "O biserică modernă care deservește locuitorii din Husnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.757918,
+                        59.866968
+                  ]
+            },
+            {
+                  "name": "Valen kyrkje",
+                  "text": "O biserică situată în satul Valen, lângă Husnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.774037,
+                        59.832723
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prestnesholmen naturreservat",
+                  "text": "A peaceful nature reserve on an island near Husnes.",
+                  "category": "natural",
+                  "coords": [
+                        5.718934,
+                        59.859541
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Husnes",
+                  "text": "A local cultural center in Husnes hosting theater and music events.",
+                  "category": "cultural",
+                  "coords": [
+                        5.755812,
+                        59.860484
+                  ]
+            },
+            {
+                  "name": "Husnes kyrkje",
+                  "text": "A modern church serving the residents of Husnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.757918,
+                        59.866968
+                  ]
+            },
+            {
+                  "name": "Valen kyrkje",
+                  "text": "A long church located in the village of Valen near Husnes.",
+                  "category": "religious",
+                  "coords": [
+                        5.774037,
+                        59.832723
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NO",
     name: { de: "Husnes", hu: "Husnes", ro: "Husnes", en: "Husnes" },

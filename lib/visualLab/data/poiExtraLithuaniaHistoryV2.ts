@@ -509,7 +509,412 @@ imageHint: "Raudonė Castle red brick tower river view",
     },
     image: "/poi-images/lithuania-raudone-castle-history-v2.webp",
 },  {
-    id: "lithuania-kedainiai-old-town-history-v2",
+    id: "lithuania-kedainiai-old-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "Ein Regionalmuseum, das die Geschichte und Kultur von Kėdainiai präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "Ein Mausoleum der Fürsten Radziwiłł in der reformierten Kirche von Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "Ein Museum, das Holzschnitzereien des Künstlers Vytautas Ulevičius zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "Eine Kunstgalerie und ein Museum in der Altstadt von Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "Ein freistehendes Minarett in Kėdainiai, ein seltenes orientalisches Denkmal in Litauen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "Eine gotische Kirche in Kėdainiai, gewidmet dem heiligen Georg.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "Eine weitläufige Grünanlage im Zentrum von Kėdainiai.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Babėnų miško sveikatingumo trasa ir pažintinis rekreacinis takas",
+                  "text": "Ein Naturlehrpfad und Erholungsweg im Babėnai-Wald bei Kėdainiai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.989158,
+                        55.308862
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "Die alte Synagoge von Kėdainiai, ein Zeugnis der jüdischen Geschichte der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Kėdainiai",
+                  "text": "Eine evangelisch-lutherische Kirche in Kėdainiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "Eine markante Fußgängerbrücke über die Nevėžis in Kėdainiai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "Kėdainiai történelmét és kultúráját bemutató regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "A Radziwiłł hercegek mauzóleuma a kėdainiai református templomban.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "Vytautas Ulevičius fafaragásait bemutató múzeum Kėdainiaiban.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "Művészeti galéria és múzeum Kėdainiai óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "Szabadon álló minaret Kėdainiaiban, ritka keleti műemlék Litvániában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "Szent Györgynek szentelt gótikus templom Kėdainiaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "Kiterjedt park Kėdainiai központjában.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Babėnų miško sveikatingumo trasa ir pažintinis rekreacinis takas",
+                  "text": "Tanösvény és szabadidős útvonal a Kėdainiai melletti Babėnai-erdőben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.989158,
+                        55.308862
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "Kėdainiai régi zsinagógája, a város zsidó történelmének emléke.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom Kėdainiaiban.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "Jellegzetes gyalogoshíd a Nevėžis folyó felett Kėdainiaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "Un muzeu regional care prezintă istoria și cultura orașului Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "Mausoleul prinților Radziwiłł situat în biserica reformată din Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "Un muzeu care expune sculpturile în lemn ale artistului Vytautas Ulevičius.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "O galerie de artă și muzeu în centrul vechi din Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "Un minaret de sine stătător din Kėdainiai, un monument oriental rar în Lituania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "O biserică gotică din Kėdainiai, închinată Sfântului Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "Un parc central spațios în orașul Kėdainiai.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Babėnų miško sveikatingumo trasa ir pažintinis rekreacinis takas",
+                  "text": "Un traseu educativ și recreativ în pădurea Babėnai de lângă Kėdainiai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.989158,
+                        55.308862
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "Sinagoga veche din Kėdainiai, o mărturie a istoriei evreiești a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
+                  "text": "O biserică evanghelică luterană din Kėdainiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "Un pod pietonal distinctiv peste râul Nevėžis în Kėdainiai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "A regional museum showcasing the history and culture of Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "A mausoleum of the Radziwiłł princes located in the Reformed Church of Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "A museum exhibiting wood carvings by the artist Vytautas Ulevičius.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "An art gallery and museum in the old town of Kėdainiai.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "A free-standing minaret in Kėdainiai, a rare oriental monument in Lithuania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "A Gothic church in Kėdainiai, dedicated to Saint George.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "A spacious central park in the city of Kėdainiai.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Babėnų miško sveikatingumo trasa ir pažintinis rekreacinis takas",
+                  "text": "A nature and recreation trail in the Babėnai forest near Kėdainiai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.989158,
+                        55.308862
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "The old synagogue of Kėdainiai, a witness to the city's Jewish history.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
+                  "text": "An Evangelical Lutheran church in Kėdainiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "A distinctive pedestrian bridge crossing the Nevėžis River in Kėdainiai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "town",
     name: { de: "Altstadt von Kėdainiai", hu: "Kėdainiai óvárosa", ro: "Orașul Vechi din Kėdainiai", en: "Kėdainiai Old Town"},

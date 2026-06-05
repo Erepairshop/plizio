@@ -129,7 +129,340 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-mary-cities-v2",
+    id: "tm-mary-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "Ein Museum, das die archäologische und ethnografische Geschichte der Region Mary zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        61.854562,
+                        37.585451
+                  ]
+            },
+            {
+                  "name": "Kemine adyndaky Döwlet Drama Teatry",
+                  "text": "Ein Staatstheater in Mary, benannt nach dem berühmten turkmenischen Dichter Kemine.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848895,
+                        37.589778
+                  ]
+            },
+            {
+                  "name": "World War II Monument",
+                  "text": "Ein Denkmal in Mary für die Gefallenen und Teilnehmer des Zweiten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        61.83992,
+                        37.594071
+                  ]
+            },
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "Eine Statue in Mary zu Ehren des klassischen turkmenischen Dichters und Musikers Mollanepes.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Magtymguly Monument",
+                  "text": "Ein Denkmal für Magtymguly Pyragy, den Nationaldichter Turkmenistans, in Mary.",
+                  "category": "historical",
+                  "coords": [
+                        61.837974,
+                        37.588666
+                  ]
+            },
+            {
+                  "name": "Saparmyrat Nyýazow",
+                  "text": "Ein Denkmal in Mary für Saparmurad Nijasow, den ersten Präsidenten Turkmenistans.",
+                  "category": "historical",
+                  "coords": [
+                        61.839878,
+                        37.591313
+                  ]
+            },
+            {
+                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
+                  "text": "Eine Kunstgalerie und Werkstatt für den Künstlerverband in Mary.",
+                  "category": "museum",
+                  "coords": [
+                        61.826813,
+                        37.59608
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Metjidi",
+                  "text": "Eine moderne große Moschee in Mary, die als bedeutendes religiöses Wahrzeichen der Stadt gilt.",
+                  "category": "religious",
+                  "coords": [
+                        61.852682,
+                        37.589234
+                  ]
+            },
+            {
+                  "name": "Mukaddes Töwellaçylyk buthanasy",
+                  "text": "Eine orthodoxe Kirche, die als Gotteshaus für die christliche Gemeinde in Mary dient.",
+                  "category": "religious",
+                  "coords": [
+                        61.854767,
+                        37.59748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "Mary régió régészeti és néprajzi történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        61.854562,
+                        37.585451
+                  ]
+            },
+            {
+                  "name": "Kemine adyndaky Döwlet Drama Teatry",
+                  "text": "Állami színház Mary városában, a híres türkmén költőről, Keminéről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848895,
+                        37.589778
+                  ]
+            },
+            {
+                  "name": "World War II Monument",
+                  "text": "A második világháború áldozatainak és résztvevőinek emléket állító emlékmű Maryben.",
+                  "category": "historical",
+                  "coords": [
+                        61.83992,
+                        37.594071
+                  ]
+            },
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "Mary városában álló szobor, amely Mollanepes klasszikus türkmén költő és zenész előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Magtymguly Monument",
+                  "text": "Magtymguly Pyragy türkmén nemzeti költő tiszteletére állított emlékmű Maryben.",
+                  "category": "historical",
+                  "coords": [
+                        61.837974,
+                        37.588666
+                  ]
+            },
+            {
+                  "name": "Saparmyrat Nyýazow",
+                  "text": "Saparmurad Niyazovnak, Türkmenisztán első elnökének szentelt emlékmű Maryben.",
+                  "category": "historical",
+                  "coords": [
+                        61.839878,
+                        37.591313
+                  ]
+            },
+            {
+                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
+                  "text": "Művészeti galéria és műhelyhelyszín a maryi művészek szövetsége számára.",
+                  "category": "museum",
+                  "coords": [
+                        61.826813,
+                        37.59608
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Metjidi",
+                  "text": "Modern nagymecset Maryben, amely a város jelentős vallási nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        61.852682,
+                        37.589234
+                  ]
+            },
+            {
+                  "name": "Mukaddes Töwellaçylyk buthanasy",
+                  "text": "Ortodox templom, amely a maryi keresztény közösség imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        61.854767,
+                        37.59748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mary Welaýat Taryhy we Ülkäni Öwreniş Muzeýi",
+                  "text": "Un muzeu care prezintă istoria arheologică și etnografică a regiunii Mary.",
+                  "category": "museum",
+                  "coords": [
+                        61.854562,
+                        37.585451
+                  ]
+            },
+            {
+                  "name": "Kemine adyndaky Döwlet Drama Teatry",
+                  "text": "Un teatru de stat din Mary numit după celebrul poet turkmen Kemine.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848895,
+                        37.589778
+                  ]
+            },
+            {
+                  "name": "World War II Monument",
+                  "text": "Un monument din Mary dedicat celor care au servit și au căzut în timpul celui de-al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        61.83992,
+                        37.594071
+                  ]
+            },
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "O statuie din Mary care îl onorează pe poetul și muzicianul turkmen clasic Mollanepes.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Magtymguly Monument",
+                  "text": "Un monument dedicat lui Magtymguly Pyragy, poetul național al Turkmenistanului, în Mary.",
+                  "category": "historical",
+                  "coords": [
+                        61.837974,
+                        37.588666
+                  ]
+            },
+            {
+                  "name": "Saparmyrat Nyýazow",
+                  "text": "Un monument din Mary dedicat lui Saparmurad Niyazov, primul președinte al Turkmenistanului.",
+                  "category": "historical",
+                  "coords": [
+                        61.839878,
+                        37.591313
+                  ]
+            },
+            {
+                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
+                  "text": "O galerie de artă și un spațiu de atelier pentru uniunea artiștilor din Mary.",
+                  "category": "museum",
+                  "coords": [
+                        61.826813,
+                        37.59608
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Metjidi",
+                  "text": "O moschee mare și modernă din Mary, recunoscută ca un punct de reper religios semnificativ în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        61.852682,
+                        37.589234
+                  ]
+            },
+            {
+                  "name": "Mukaddes Töwellaçylyk buthanasy",
+                  "text": "O biserică ortodoxă care oferă un lăcaș de cult pentru comunitatea creștină din Mary.",
+                  "category": "religious",
+                  "coords": [
+                        61.854767,
+                        37.59748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mary Provincial Regional and History Museum",
+                  "text": "A museum showcasing the archeological and ethnographic history of the Mary region.",
+                  "category": "museum",
+                  "coords": [
+                        61.854562,
+                        37.585451
+                  ]
+            },
+            {
+                  "name": "Kemine State Drama Theater",
+                  "text": "A state theater in Mary named after the famous Turkmen poet Kemine.",
+                  "category": "cultural",
+                  "coords": [
+                        61.848895,
+                        37.589778
+                  ]
+            },
+            {
+                  "name": "World War II Monument",
+                  "text": "A memorial in Mary dedicated to those who served and fell during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        61.83992,
+                        37.594071
+                  ]
+            },
+            {
+                  "name": "Mollanepes Monument",
+                  "text": "A statue in Mary honoring the classic Turkmen poet and musician Mollanepes.",
+                  "category": "historical",
+                  "coords": [
+                        61.844241,
+                        37.591287
+                  ]
+            },
+            {
+                  "name": "Magtymguly Monument",
+                  "text": "A monument dedicated to Magtymguly Pyragy, the national poet of Turkmenistan, in Mary.",
+                  "category": "historical",
+                  "coords": [
+                        61.837974,
+                        37.588666
+                  ]
+            },
+            {
+                  "name": "Saparmurad Niyazov",
+                  "text": "A monument in Mary dedicated to Saparmurad Niyazov, the first president of Turkmenistan.",
+                  "category": "historical",
+                  "coords": [
+                        61.839878,
+                        37.591313
+                  ]
+            },
+            {
+                  "name": "Nakgaşlar birleşiginiň ussahanalary we sergi jaýy",
+                  "text": "An art gallery and workshop space for the union of artists in Mary.",
+                  "category": "museum",
+                  "coords": [
+                        61.826813,
+                        37.59608
+                  ]
+            },
+            {
+                  "name": "Gurbanguly Hajy Mosque",
+                  "text": "A modern large mosque in Mary, recognized as a significant religious landmark in the city.",
+                  "category": "religious",
+                  "coords": [
+                        61.852682,
+                        37.589234
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Intercession",
+                  "text": "An Orthodox church providing a place of worship for the Christian community in Mary.",
+                  "category": "religious",
+                  "coords": [
+                        61.854767,
+                        37.59748
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-M",
     coords: [61.8333, 37.6],
@@ -305,7 +638,52 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-tejen-cities-v2",
+    id: "tm-tejen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tejen Medeniýet Öýi",
+                  "text": "Das Tejen House of Culture ist ein Theater und Veranstaltungsort in Tejen.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tejen Medeniýet Öýi",
+                  "text": "A Tejen House of Culture egy színház és kulturális létesítmény Tejenben.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tejen Medeniýet Öýi",
+                  "text": "Tejen House of Culture este un teatru și o locație culturală din Tejen.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tejen House of Culture",
+                  "text": "Tejen House of Culture is a theatre and cultural venue in Tejen.",
+                  "category": "cultural",
+                  "coords": [
+                        60.490139,
+                        37.366633
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-A",
     coords: [60.5, 37.3833],
@@ -349,7 +727,88 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-abadan-cities-v2",
+    id: "tm-abadan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ýasmansalyk Medeniýet Öýi",
+                  "text": "Ein lokales Kulturzentrum und Theater in Büzmeýin.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192221,
+                        38.051932
+                  ]
+            },
+            {
+                  "name": "MiG-15",
+                  "text": "Ein Denkmal in Büzmeýin, das einem MiG-15-Flugzeug gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ýasmansalyk Medeniýet Öýi",
+                  "text": "Helyi kulturális központ és színház Büzmeýin városában.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192221,
+                        38.051932
+                  ]
+            },
+            {
+                  "name": "MiG-15",
+                  "text": "Egy MiG-15-ös repülőgépnek szentelt emlékmű Büzmeýinben.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ýasmansalyk Medeniýet Öýi",
+                  "text": "Un centru cultural local și teatru în Büzmeýin.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192221,
+                        38.051932
+                  ]
+            },
+            {
+                  "name": "MiG-15",
+                  "text": "Un monument dedicat unui avion MiG-15 în Büzmeýin.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yasmansalyk House of Culture",
+                  "text": "A local cultural center and theatre in Büzmeýin.",
+                  "category": "cultural",
+                  "coords": [
+                        58.192221,
+                        38.051932
+                  ]
+            },
+            {
+                  "name": "MiG-15",
+                  "text": "A monument dedicated to a MiG-15 aircraft in Büzmeýin.",
+                  "category": "historical",
+                  "coords": [
+                        58.188981,
+                        38.041493
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-S",
     coords: [58.2167, 38.05],
@@ -437,7 +896,52 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-kerki-cities-v2",
+    id: "tm-kerki-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kerki Medeniýet Öýi",
+                  "text": "Das Kerki House of Culture ist ein Theater in Kerki.",
+                  "category": "cultural",
+                  "coords": [
+                        65.203804,
+                        37.838415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kerki Medeniýet Öýi",
+                  "text": "A Kerki House of Culture egy színház Kerki városában.",
+                  "category": "cultural",
+                  "coords": [
+                        65.203804,
+                        37.838415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kerki Medeniýet Öýi",
+                  "text": "Kerki House of Culture este un teatru situat în Kerki.",
+                  "category": "cultural",
+                  "coords": [
+                        65.203804,
+                        37.838415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kerki House of Culture",
+                  "text": "Kerki House of Culture is a theatre located in Kerki.",
+                  "category": "cultural",
+                  "coords": [
+                        65.203804,
+                        37.838415
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-L",
     coords: [65.2, 37.8333],
@@ -525,7 +1029,196 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-koneurgenc-cities-v2",
+    id: "tm-koneurgenc-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "Ein antiker archäologischer Hügel in Köneürgenç, auf dem sich vermutlich eine frühe Akademie befand.",
+                  "category": "historical",
+                  "coords": [
+                        59.14632,
+                        42.308536
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "Die Ruinen einer antiken Festung oder „Weißen Burg“ in Köneürgenç.",
+                  "category": "historical",
+                  "coords": [
+                        59.151995,
+                        42.296333
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "Ein Kulturhaus und Theater für die Bewohner von Köneürgenç.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155113,
+                        42.315807
+                  ]
+            },
+            {
+                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
+                  "text": "Eine Bildungseinrichtung und Galerieraum für Kunst in Köneürgenç.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Gutlug Timuryň minarasy",
+                  "text": "Ein hochragendes mittelalterliches Minarett in Köneürgenç, eines der höchsten in Zentralasien.",
+                  "category": "tower",
+                  "coords": [
+                        59.141867,
+                        42.308649
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "Köneürgenç ókori régészeti dombja, amely vélhetően egy korai akadémia helyszíne volt.",
+                  "category": "historical",
+                  "coords": [
+                        59.14632,
+                        42.308536
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "Egy ókori erőd vagy „Fehér Vár” romjai Köneürgençben.",
+                  "category": "historical",
+                  "coords": [
+                        59.151995,
+                        42.296333
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "Kulturház és színházi helyszín Köneürgenç lakói számára.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155113,
+                        42.315807
+                  ]
+            },
+            {
+                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
+                  "text": "Művészeti oktatási intézmény és galéria Köneürgençben.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Gutlug Timuryň minarasy",
+                  "text": "Kimagasló középkori minaret Köneürgençben, Közép-Ázsia egyik legmagasabbja.",
+                  "category": "tower",
+                  "coords": [
+                        59.141867,
+                        42.308649
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "Un vechi tumul arheologic din Köneürgenç, despre care se crede că a fost locul unei academii timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        59.14632,
+                        42.308536
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "Ruinele unei vechi cetăți sau „Castelul Alb” situat în Köneürgenç.",
+                  "category": "historical",
+                  "coords": [
+                        59.151995,
+                        42.296333
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "O casă de cultură și un loc de spectacol pentru rezidenții din Köneürgenç.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155113,
+                        42.315807
+                  ]
+            },
+            {
+                  "name": "Köneürgenç şäher Çeperçilik Mekdebi",
+                  "text": "O instituție de învățământ și spațiu de galerie pentru arte din Köneürgenç.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Gutlug Timuryň minarasy",
+                  "text": "Un minaret medieval impunător din Köneürgenç, unul dintre cele mai înalte din Asia Centrală.",
+                  "category": "tower",
+                  "coords": [
+                        59.141867,
+                        42.308649
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kyrk Molla Hill",
+                  "text": "An ancient archaeological mound in Köneürgenç believed to be the site of an early academy.",
+                  "category": "historical",
+                  "coords": [
+                        59.14632,
+                        42.308536
+                  ]
+            },
+            {
+                  "name": "Ak Kala",
+                  "text": "The ruins of an ancient fortress or \"White Castle\" located in Köneürgenç.",
+                  "category": "historical",
+                  "coords": [
+                        59.151995,
+                        42.296333
+                  ]
+            },
+            {
+                  "name": "Akgala Medeniýet Öýi",
+                  "text": "A cultural house and theater venue serving the residents of Köneürgenç.",
+                  "category": "cultural",
+                  "coords": [
+                        59.155113,
+                        42.315807
+                  ]
+            },
+            {
+                  "name": "Art School",
+                  "text": "An educational institution and gallery space for arts in Köneürgenç.",
+                  "category": "museum",
+                  "coords": [
+                        59.17897,
+                        42.318984
+                  ]
+            },
+            {
+                  "name": "Timur Qutlugh Minaret",
+                  "text": "A towering medieval minaret in Köneürgenç, one of the tallest in Central Asia.",
+                  "category": "tower",
+                  "coords": [
+                        59.141867,
+                        42.308649
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-D",
     coords: [59.15, 42.3167],
@@ -877,7 +1570,52 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-boldumsaz-cities-v2",
+    id: "tm-boldumsaz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Boldumsaz Medeniýet Merkezi",
+                  "text": "Ein regionales Theater und Kulturzentrum in Boldumsaz.",
+                  "category": "cultural",
+                  "coords": [
+                        59.667462,
+                        42.128582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Boldumsaz Medeniýet Merkezi",
+                  "text": "Regionális színház és kulturális központ Boldumsazban.",
+                  "category": "cultural",
+                  "coords": [
+                        59.667462,
+                        42.128582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Boldumsaz Medeniýet Merkezi",
+                  "text": "Un teatru regional și centru cultural în Boldumsaz.",
+                  "category": "cultural",
+                  "coords": [
+                        59.667462,
+                        42.128582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Boldumsaz Medeniýet Merkezi",
+                  "text": "A regional theatre and cultural center in Boldumsaz.",
+                  "category": "cultural",
+                  "coords": [
+                        59.667462,
+                        42.128582
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-D",
     coords: [59.65, 42.1333],
@@ -921,7 +1659,124 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-gokdepe-cities-v2",
+    id: "tm-gokdepe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gökdepe Galasy",
+                  "text": "Ort der Schlacht von Geok Tepe im Jahr 1881 zwischen Turkmenen und dem Russischen Reich.",
+                  "category": "fortress",
+                  "coords": [
+                        57.968851,
+                        38.168545
+                  ]
+            },
+            {
+                  "name": "Gökdepe Milli Muzeýi",
+                  "text": "Ein Museum in Gökdepe, das der lokalen Geschichte und Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        57.967185,
+                        38.160627
+                  ]
+            },
+            {
+                  "name": "Gökdepe Medeniýet Köşgi",
+                  "text": "Ein Kulturzentrum und Theater in Gökdepe für lokale Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        57.94777,
+                        38.16116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gökdepe Galasy",
+                  "text": "Az 1881-es türkmén-orosz csata helyszíne.",
+                  "category": "fortress",
+                  "coords": [
+                        57.968851,
+                        38.168545
+                  ]
+            },
+            {
+                  "name": "Gökdepe Milli Muzeýi",
+                  "text": "Gökdepe helytörténeti és kulturális múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        57.967185,
+                        38.160627
+                  ]
+            },
+            {
+                  "name": "Gökdepe Medeniýet Köşgi",
+                  "text": "Kulturális központ és színház Gökdepében.",
+                  "category": "cultural",
+                  "coords": [
+                        57.94777,
+                        38.16116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gökdepe Galasy",
+                  "text": "Locul bătăliei din 1881 dintre turkmeni și Imperiul Rus.",
+                  "category": "fortress",
+                  "coords": [
+                        57.968851,
+                        38.168545
+                  ]
+            },
+            {
+                  "name": "Gökdepe Milli Muzeýi",
+                  "text": "Un muzeu din Gökdepe dedicat istoriei și culturii locale.",
+                  "category": "museum",
+                  "coords": [
+                        57.967185,
+                        38.160627
+                  ]
+            },
+            {
+                  "name": "Gökdepe Medeniýet Köşgi",
+                  "text": "O instituție culturală și teatru din Gökdepe pentru spectacole locale.",
+                  "category": "cultural",
+                  "coords": [
+                        57.94777,
+                        38.16116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gokdepe Fortress",
+                  "text": "Site of the 1881 battle between the Turkmens and the Russian Empire.",
+                  "category": "fortress",
+                  "coords": [
+                        57.968851,
+                        38.168545
+                  ]
+            },
+            {
+                  "name": "Gokdepe National Museum",
+                  "text": "A museum in Gökdepe dedicated to local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        57.967185,
+                        38.160627
+                  ]
+            },
+            {
+                  "name": "Gokdepe Palace of Culture",
+                  "text": "A cultural venue and theatre in Gökdepe for local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        57.94777,
+                        38.16116
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-A",
     coords: [57.9667, 38.15],
@@ -1185,7 +2040,52 @@ export const poiExtraTurkmenistanCitiesV2: POI[] = [
     },
   },
   {
-    id: "tm-serdar-cities-v2",
+    id: "tm-serdar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gyzylarbat Şäherinyň Taryhy Muzeyi",
+                  "text": "Ein Museum, das die Geschichte der Stadt Serdar dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        56.276178,
+                        38.977589
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gyzylarbat Şäherinyň Taryhy Muzeyi",
+                  "text": "Serdar városának történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        56.276178,
+                        38.977589
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gyzylarbat Şäherinyň Taryhy Muzeyi",
+                  "text": "Un muzeu care documentează istoria orașului Serdar.",
+                  "category": "museum",
+                  "coords": [
+                        56.276178,
+                        38.977589
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gyzylarbat City History Museum",
+                  "text": "A museum documenting the history of the city of Serdar.",
+                  "category": "museum",
+                  "coords": [
+                        56.276178,
+                        38.977589
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TM-B",
     coords: [56.2833, 38.9833],

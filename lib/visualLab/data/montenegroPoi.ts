@@ -834,7 +834,196 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-002: Rožaje
   {
-    id: "me-002-city",
+    id: "me-002-city", "sights": {
+      "de": [
+            {
+                  "name": "Muzej",
+                  "text": "Ein Museum in Rožaje, das sich mit der lokalen Geschichte und Kultur der Region befasst.",
+                  "category": "museum",
+                  "coords": [
+                        20.168357,
+                        42.844874
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Ein lokales Kulturzentrum in Rožaje für Theateraufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.167693,
+                        42.843229
+                  ]
+            },
+            {
+                  "name": "Privatni muzej",
+                  "text": "Ein Privatmuseum, das persönliche Sammlungen zur Regionalgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.175059,
+                        42.845924
+                  ]
+            },
+            {
+                  "name": "Džamija Sultan Murat II",
+                  "text": "Eine bedeutende historische Moschee im Zentrum von Rožaje aus dem 18. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        20.166764,
+                        42.844514
+                  ]
+            },
+            {
+                  "name": "Kučanska džamija",
+                  "text": "Ein traditionelles islamisches Gotteshaus in Rožaje mit charakteristischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        20.16965,
+                        42.844851
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej",
+                  "text": "Múzeum Rožajében, amely a régió helyi történelmével és kultúrájával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        20.168357,
+                        42.844874
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Helyi kulturális központ Rožajében színházi előadások és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        20.167693,
+                        42.843229
+                  ]
+            },
+            {
+                  "name": "Privatni muzej",
+                  "text": "Magánmúzeum, amely a regionális történelemmel kapcsolatos személyes gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.175059,
+                        42.845924
+                  ]
+            },
+            {
+                  "name": "Džamija Sultan Murat II",
+                  "text": "Rožaje központjának jelentős, 18. századi történelmi mecsetje.",
+                  "category": "religious",
+                  "coords": [
+                        20.166764,
+                        42.844514
+                  ]
+            },
+            {
+                  "name": "Kučanska džamija",
+                  "text": "Hagyományos iszlám templom Rožajében, jellegzetes építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        20.16965,
+                        42.844851
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej",
+                  "text": "Un muzeu în Rožaje care se ocupă de istoria și cultura locală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.168357,
+                        42.844874
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "Un centru cultural local în Rožaje pentru spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        20.167693,
+                        42.843229
+                  ]
+            },
+            {
+                  "name": "Privatni muzej",
+                  "text": "Un muzeu privat care expune colecții personale legate de istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        20.175059,
+                        42.845924
+                  ]
+            },
+            {
+                  "name": "Džamija Sultan Murat II",
+                  "text": "O importantă moschee istorică din centrul orașului Rožaje, datând din secolul al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        20.166764,
+                        42.844514
+                  ]
+            },
+            {
+                  "name": "Kučanska džamija",
+                  "text": "Un lăcaș de cult islamic tradițional în Rožaje, cu o arhitectură caracteristică.",
+                  "category": "religious",
+                  "coords": [
+                        20.16965,
+                        42.844851
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej",
+                  "text": "A museum in Rožaje dealing with the local history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        20.168357,
+                        42.844874
+                  ]
+            },
+            {
+                  "name": "Dom kulture",
+                  "text": "A local cultural center in Rožaje for theater performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        20.167693,
+                        42.843229
+                  ]
+            },
+            {
+                  "name": "Privatni muzej",
+                  "text": "A private museum displaying personal collections related to regional history.",
+                  "category": "museum",
+                  "coords": [
+                        20.175059,
+                        42.845924
+                  ]
+            },
+            {
+                  "name": "Džamija Sultan Murat II",
+                  "text": "A significant historical mosque in the center of Rožaje, dating back to the 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        20.166764,
+                        42.844514
+                  ]
+            },
+            {
+                  "name": "Kučanska džamija",
+                  "text": "A traditional Islamic place of worship in Rožaje with characteristic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        20.16965,
+                        42.844851
+                  ]
+            }
+      ]
+},
     name: { de: "Rožaje", hu: "Rožaje", ro: "Rožaje", en: "Rožaje" },
     type: "city",
     coords: [20.1667, 42.8333],
@@ -941,6 +1130,60 @@ export const montenegroAllPoi: POI[] = [
                         19.871919,
                         42.834079
                   ]
+            },
+            {
+                  "name": "Manastir Đurđevi Stupovi",
+                  "text": "Ein serbisch-orthodoxes Kloster aus dem 13. Jahrhundert in Berane, Sitz der Diözese Budimlja-Nikšić.",
+                  "category": "religious",
+                  "coords": [
+                        19.86102,
+                        42.852697
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Mašo",
+                  "text": "Ein kleiner Zoo in Berane, der verschiedene Tierarten in einer natürlichen Umgebung zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        19.873081,
+                        42.856122
+                  ]
+            },
+            {
+                  "name": "Polimski muzej",
+                  "text": "Das Regionalmuseum in Berane zeigt archäologische und ethnologische Funde aus der Polimlje-Region.",
+                  "category": "museum",
+                  "coords": [
+                        19.872603,
+                        42.844056
+                  ]
+            },
+            {
+                  "name": "Kuća Vojvode Gavra Vukovića",
+                  "text": "Das ehemalige Wohnhaus des Diplomaten Gavro Vuković in Berane dient heute als Gedenkstätte.",
+                  "category": "museum",
+                  "coords": [
+                        19.872466,
+                        42.842569
+                  ]
+            },
+            {
+                  "name": "Bukovac",
+                  "text": "Ein Gipfel in der Nähe von Berane, der Ausblicke auf die umliegende Berglandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.899781,
+                        42.826041
+                  ]
+            },
+            {
+                  "name": "Jasikovac",
+                  "text": "Ein Hügel über Berane, bekannt für sein Denkmal und die Panoramaaussicht auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        19.879906,
+                        42.850745
+                  ]
             }
       ],
       "hu": [
@@ -960,6 +1203,60 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         19.871919,
                         42.834079
+                  ]
+            },
+            {
+                  "name": "Manastir Đurđevi Stupovi",
+                  "text": "13. századi szerb ortodox kolostor Berane-ban, a Budimlja-Nikšić egyházmegye székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        19.86102,
+                        42.852697
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Mašo",
+                  "text": "Kis állatkert Berane-ban, amely különféle állatfajokat mutat be természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        19.873081,
+                        42.856122
+                  ]
+            },
+            {
+                  "name": "Polimski muzej",
+                  "text": "A berane-i regionális múzeum a Polimlje-vidék régészeti és néprajzi leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.872603,
+                        42.844056
+                  ]
+            },
+            {
+                  "name": "Kuća Vojvode Gavra Vukovića",
+                  "text": "Gavro Vuković diplomata egykori berane-i lakóháza ma emlékhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        19.872466,
+                        42.842569
+                  ]
+            },
+            {
+                  "name": "Bukovac",
+                  "text": "Berane közelében lévő csúcs, ahonnan kilátás nyílik a környező hegyi tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.899781,
+                        42.826041
+                  ]
+            },
+            {
+                  "name": "Jasikovac",
+                  "text": "Berane feletti domb, amely emlékművéről és a városra nyíló panorámás kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.879906,
+                        42.850745
                   ]
             }
       ],
@@ -981,6 +1278,60 @@ export const montenegroAllPoi: POI[] = [
                         19.871919,
                         42.834079
                   ]
+            },
+            {
+                  "name": "Manastir Đurđevi Stupovi",
+                  "text": "O mănăstire ortodoxă sârbă din secolul al XIII-lea din Berane, sediul eparhiei Budimlja-Nikšić.",
+                  "category": "religious",
+                  "coords": [
+                        19.86102,
+                        42.852697
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Mašo",
+                  "text": "O mică grădină zoologică din Berane care prezintă diverse specii de animale într-un mediu natural.",
+                  "category": "recreational",
+                  "coords": [
+                        19.873081,
+                        42.856122
+                  ]
+            },
+            {
+                  "name": "Polimski muzej",
+                  "text": "Muzeul regional din Berane expune descoperiri arheologice și etnologice din regiunea Polimlje.",
+                  "category": "museum",
+                  "coords": [
+                        19.872603,
+                        42.844056
+                  ]
+            },
+            {
+                  "name": "Kuća Vojvode Gavra Vukovića",
+                  "text": "Fosta reședință a diplomatului Gavro Vuković din Berane servește astăzi drept memorial.",
+                  "category": "museum",
+                  "coords": [
+                        19.872466,
+                        42.842569
+                  ]
+            },
+            {
+                  "name": "Bukovac",
+                  "text": "Un vârf lângă Berane care oferă vedere spre peisajul montan înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        19.899781,
+                        42.826041
+                  ]
+            },
+            {
+                  "name": "Jasikovac",
+                  "text": "Un deal deasupra orașului Berane, cunoscut pentru monumentul său și vederea panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        19.879906,
+                        42.850745
+                  ]
             }
       ],
       "en": [
@@ -1000,6 +1351,60 @@ export const montenegroAllPoi: POI[] = [
                   "coords": [
                         19.871919,
                         42.834079
+                  ]
+            },
+            {
+                  "name": "Manastir Đurđevi Stupovi",
+                  "text": "A 13th-century Serbian Orthodox monastery in Berane, seat of the Diocese of Budimlja-Nikšić.",
+                  "category": "religious",
+                  "coords": [
+                        19.86102,
+                        42.852697
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Mašo",
+                  "text": "A small zoo in Berane showcasing various animal species in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        19.873081,
+                        42.856122
+                  ]
+            },
+            {
+                  "name": "Polimski muzej",
+                  "text": "The regional museum in Berane displays archaeological and ethnological finds from the Polimlje region.",
+                  "category": "museum",
+                  "coords": [
+                        19.872603,
+                        42.844056
+                  ]
+            },
+            {
+                  "name": "Kuća Vojvode Gavra Vukovića",
+                  "text": "The former residence of diplomat Gavro Vuković in Berane now serves as a memorial.",
+                  "category": "museum",
+                  "coords": [
+                        19.872466,
+                        42.842569
+                  ]
+            },
+            {
+                  "name": "Bukovac",
+                  "text": "A peak near Berane offering views of the surrounding mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.899781,
+                        42.826041
+                  ]
+            },
+            {
+                  "name": "Jasikovac",
+                  "text": "A hill overlooking Berane, known for its monument and the panoramic view of the city.",
+                  "category": "natural",
+                  "coords": [
+                        19.879906,
+                        42.850745
                   ]
             }
       ]
@@ -1091,7 +1496,268 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-004: Plav
   {
-    id: "me-004-city",
+    id: "me-004-city", "sights": {
+      "de": [
+            {
+                  "name": "Sv. Trojice",
+                  "text": "Sv. Trojice ist ein Kloster in Plav.",
+                  "category": "religious",
+                  "coords": [
+                        19.937623,
+                        42.618232
+                  ]
+            },
+            {
+                  "name": "Mali Skić",
+                  "text": "Mali Skić ist ein Berggipfel in Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.936802,
+                        42.614344
+                  ]
+            },
+            {
+                  "name": "Veliki Skić",
+                  "text": "Veliki Skić ist ein Berggipfel in Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.946329,
+                        42.608486
+                  ]
+            },
+            {
+                  "name": "Završ",
+                  "text": "Završ ist ein Berggipfel in Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.935353,
+                        42.582153
+                  ]
+            },
+            {
+                  "name": "Redžepagića kula",
+                  "text": "Redžepagića kula ist eine Touristenattraktion in Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.945971,
+                        42.595716
+                  ]
+            },
+            {
+                  "name": "An old linden tree hit by a lightning strike",
+                  "text": "Dieser alte, vom Blitz getroffene Lindenbaum ist eine Touristenattraktion in Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.941961,
+                        42.606478
+                  ]
+            },
+            {
+                  "name": "Sultanija",
+                  "text": "Sultanija ist eine Touristenattraktion in Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944151,
+                        42.597418
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sv. Trojice",
+                  "text": "A Sv. Trojice egy kolostor Plavban.",
+                  "category": "religious",
+                  "coords": [
+                        19.937623,
+                        42.618232
+                  ]
+            },
+            {
+                  "name": "Mali Skić",
+                  "text": "A Mali Skić egy hegycsúcs Plavban.",
+                  "category": "natural",
+                  "coords": [
+                        19.936802,
+                        42.614344
+                  ]
+            },
+            {
+                  "name": "Veliki Skić",
+                  "text": "A Veliki Skić egy hegycsúcs Plavban.",
+                  "category": "natural",
+                  "coords": [
+                        19.946329,
+                        42.608486
+                  ]
+            },
+            {
+                  "name": "Završ",
+                  "text": "A Završ egy hegycsúcs Plavban.",
+                  "category": "natural",
+                  "coords": [
+                        19.935353,
+                        42.582153
+                  ]
+            },
+            {
+                  "name": "Redžepagića kula",
+                  "text": "A Redžepagića kula egy turisztikai látványosság Plavban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.945971,
+                        42.595716
+                  ]
+            },
+            {
+                  "name": "An old linden tree hit by a lightning strike",
+                  "text": "Ez a villámcsapás érte öreg hársfa egy turisztikai látványosság Plavban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.941961,
+                        42.606478
+                  ]
+            },
+            {
+                  "name": "Sultanija",
+                  "text": "A Sultanija egy turisztikai látványosság Plavban.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944151,
+                        42.597418
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sv. Trojice",
+                  "text": "Sv. Trojice este o mănăstire situată în Plav.",
+                  "category": "religious",
+                  "coords": [
+                        19.937623,
+                        42.618232
+                  ]
+            },
+            {
+                  "name": "Mali Skić",
+                  "text": "Mali Skić este un vârf de munte situat în Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.936802,
+                        42.614344
+                  ]
+            },
+            {
+                  "name": "Veliki Skić",
+                  "text": "Veliki Skić este un vârf de munte situat în Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.946329,
+                        42.608486
+                  ]
+            },
+            {
+                  "name": "Završ",
+                  "text": "Završ este un vârf de munte situat în Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.935353,
+                        42.582153
+                  ]
+            },
+            {
+                  "name": "Redžepagića kula",
+                  "text": "Redžepagića kula este o atracție turistică situată în Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.945971,
+                        42.595716
+                  ]
+            },
+            {
+                  "name": "An old linden tree hit by a lightning strike",
+                  "text": "Acest vechi tei lovit de fulger este o atracție turistică situată în Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.941961,
+                        42.606478
+                  ]
+            },
+            {
+                  "name": "Sultanija",
+                  "text": "Sultanija este o atracție turistică situată în Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944151,
+                        42.597418
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sv. Trojice",
+                  "text": "Sv. Trojice is a monastery located in Plav.",
+                  "category": "religious",
+                  "coords": [
+                        19.937623,
+                        42.618232
+                  ]
+            },
+            {
+                  "name": "Mali Skić",
+                  "text": "Mali Skić is a mountain peak located in Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.936802,
+                        42.614344
+                  ]
+            },
+            {
+                  "name": "Veliki Skić",
+                  "text": "Veliki Skić is a mountain peak located in Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.946329,
+                        42.608486
+                  ]
+            },
+            {
+                  "name": "Završ",
+                  "text": "Završ is a mountain peak located in Plav.",
+                  "category": "natural",
+                  "coords": [
+                        19.935353,
+                        42.582153
+                  ]
+            },
+            {
+                  "name": "Redžepagića kula",
+                  "text": "Redžepagića kula is a tourist attraction located in Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.945971,
+                        42.595716
+                  ]
+            },
+            {
+                  "name": "An old linden tree hit by a lightning strike",
+                  "text": "This old linden tree hit by a lightning strike is a tourist attraction located in Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.941961,
+                        42.606478
+                  ]
+            },
+            {
+                  "name": "Sultanija",
+                  "text": "Sultanija is a tourist attraction located in Plav.",
+                  "category": "landmark",
+                  "coords": [
+                        19.944151,
+                        42.597418
+                  ]
+            }
+      ]
+},
     name: { de: "Plav", hu: "Plav", ro: "Plav", en: "Plav" },
     type: "city",
     coords: [19.9450, 42.5967],
@@ -1179,7 +1845,124 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-005: Pljevlja
   {
-    id: "me-005-city",
+    id: "me-005-city", "sights": {
+      "de": [
+            {
+                  "name": "Manastir Sv. Trojica",
+                  "text": "Ein bedeutendes serbisch-orthodoxes Kloster in Pljevlja, bekannt für seine Fresken und Ikonen.",
+                  "category": "religious",
+                  "coords": [
+                        19.358247,
+                        43.369729
+                  ]
+            },
+            {
+                  "name": "Etno Kuća \"Ruža\"",
+                  "text": "Ein ethnografisches Museum, das das traditionelle Leben in der Region Pljevlja dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.358492,
+                        43.356477
+                  ]
+            },
+            {
+                  "name": "Mrestilište Vodice",
+                  "text": "Eine lokale Einrichtung zur Fischzucht und Beobachtung von Wasserlebewesen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.362188,
+                        43.363628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manastir Sv. Trojica",
+                  "text": "Jelentős szerb ortodox kolostor Pljevljában, amely freskóiról és ikonjairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        19.358247,
+                        43.369729
+                  ]
+            },
+            {
+                  "name": "Etno Kuća \"Ruža\"",
+                  "text": "Etnográfiai múzeum, amely a pljevljai régió hagyományos életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.358492,
+                        43.356477
+                  ]
+            },
+            {
+                  "name": "Mrestilište Vodice",
+                  "text": "Helyi létesítmény haltenyésztésre és vízi élőlények megfigyelésére.",
+                  "category": "recreational",
+                  "coords": [
+                        19.362188,
+                        43.363628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manastir Sv. Trojica",
+                  "text": "O importantă mănăstire ortodoxă sârbă din Pljevlja, cunoscută pentru frescele și icoanele sale.",
+                  "category": "religious",
+                  "coords": [
+                        19.358247,
+                        43.369729
+                  ]
+            },
+            {
+                  "name": "Etno Kuća \"Ruža\"",
+                  "text": "Un muzeu etnografic care documentează viața tradițională din regiunea Pljevlja.",
+                  "category": "museum",
+                  "coords": [
+                        19.358492,
+                        43.356477
+                  ]
+            },
+            {
+                  "name": "Mrestilište Vodice",
+                  "text": "O facilitate locală pentru piscicultură și observarea vieții acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        19.362188,
+                        43.363628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manastir Sv. Trojica",
+                  "text": "A significant Serbian Orthodox monastery in Pljevlja, known for its frescoes and icons.",
+                  "category": "religious",
+                  "coords": [
+                        19.358247,
+                        43.369729
+                  ]
+            },
+            {
+                  "name": "Etno Kuća \"Ruža\"",
+                  "text": "An ethnographic museum documenting traditional life in the Pljevlja region.",
+                  "category": "museum",
+                  "coords": [
+                        19.358492,
+                        43.356477
+                  ]
+            },
+            {
+                  "name": "Mrestilište Vodice",
+                  "text": "A local facility for fish breeding and observation of aquatic life.",
+                  "category": "recreational",
+                  "coords": [
+                        19.362188,
+                        43.363628
+                  ]
+            }
+      ]
+},
     name: { de: "Pljevlja", hu: "Pljevlja", ro: "Pljevlja", en: "Pljevlja" },
     type: "city",
     coords: [19.3583, 43.3567],
@@ -1268,7 +2051,196 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-006: Bijelo Polje
   {
-    id: "me-006-city",
+    id: "me-006-city", "sights": {
+      "de": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "Das Stadtmuseum in Bijelo Polje präsentiert die Geschichte und Kultur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        19.745691,
+                        43.032943
+                  ]
+            },
+            {
+                  "name": "Džafića brdo",
+                  "text": "Ein Aussichtspunkt auf einem Hügel bei Bijelo Polje mit Blick auf das Lim-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        19.754751,
+                        43.050547
+                  ]
+            },
+            {
+                  "name": "Cokotin",
+                  "text": "Ein Berggipfel in der Region Bijelo Polje, der bei Wanderern beliebt ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.756656,
+                        43.022941
+                  ]
+            },
+            {
+                  "name": "Žute kose",
+                  "text": "Ein Gipfel in der Nähe von Bijelo Polje, Teil der bergigen Landschaft im Norden Montenegros.",
+                  "category": "natural",
+                  "coords": [
+                        19.719651,
+                        43.038638
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Petra i Pavla",
+                  "text": "Eine bedeutende serbisch-orthodoxe Kirche in Bijelo Polje, in der das Miroslav-Evangelium entstand.",
+                  "category": "religious",
+                  "coords": [
+                        19.744723,
+                        43.035694
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "A Bijelo Polje-i városi múzeum a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.745691,
+                        43.032943
+                  ]
+            },
+            {
+                  "name": "Džafića brdo",
+                  "text": "Kilátópont egy dombon Bijelo Polje közelében, rálátással a Lim-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        19.754751,
+                        43.050547
+                  ]
+            },
+            {
+                  "name": "Cokotin",
+                  "text": "Hegyi csúcs Bijelo Polje régiójában, amely népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        19.756656,
+                        43.022941
+                  ]
+            },
+            {
+                  "name": "Žute kose",
+                  "text": "Bijelo Polje közelében lévő csúcs, Észak-Montenegró hegyvidéki tájának része.",
+                  "category": "natural",
+                  "coords": [
+                        19.719651,
+                        43.038638
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Petra i Pavla",
+                  "text": "Jelentős szerb ortodox templom Bijelo Polje-ben, ahol a Miroszláv-evangélium készült.",
+                  "category": "religious",
+                  "coords": [
+                        19.744723,
+                        43.035694
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "Muzeul orașului din Bijelo Polje prezintă istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        19.745691,
+                        43.032943
+                  ]
+            },
+            {
+                  "name": "Džafića brdo",
+                  "text": "Un punct de observație pe un deal lângă Bijelo Polje, cu vedere spre valea Lim.",
+                  "category": "natural",
+                  "coords": [
+                        19.754751,
+                        43.050547
+                  ]
+            },
+            {
+                  "name": "Cokotin",
+                  "text": "Un vârf muntos din regiunea Bijelo Polje, popular printre excursioniști.",
+                  "category": "natural",
+                  "coords": [
+                        19.756656,
+                        43.022941
+                  ]
+            },
+            {
+                  "name": "Žute kose",
+                  "text": "Un vârf lângă Bijelo Polje, parte a peisajului montan din nordul Muntenegrului.",
+                  "category": "natural",
+                  "coords": [
+                        19.719651,
+                        43.038638
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Petra i Pavla",
+                  "text": "O biserică ortodoxă sârbă importantă din Bijelo Polje, unde a fost scris Evangheliarul lui Miroslav.",
+                  "category": "religious",
+                  "coords": [
+                        19.744723,
+                        43.035694
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gradski muzej",
+                  "text": "The city museum in Bijelo Polje showcases the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        19.745691,
+                        43.032943
+                  ]
+            },
+            {
+                  "name": "Džafića brdo",
+                  "text": "A viewpoint on a hill near Bijelo Polje overlooking the Lim valley.",
+                  "category": "natural",
+                  "coords": [
+                        19.754751,
+                        43.050547
+                  ]
+            },
+            {
+                  "name": "Cokotin",
+                  "text": "A mountain peak in the Bijelo Polje region, popular among hikers.",
+                  "category": "natural",
+                  "coords": [
+                        19.756656,
+                        43.022941
+                  ]
+            },
+            {
+                  "name": "Žute kose",
+                  "text": "A peak near Bijelo Polje, part of the mountainous landscape of northern Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.719651,
+                        43.038638
+                  ]
+            },
+            {
+                  "name": "Crkva Svetog Petra i Pavla",
+                  "text": "An important Serbian Orthodox church in Bijelo Polje where the Miroslav Gospel was written.",
+                  "category": "religious",
+                  "coords": [
+                        19.744723,
+                        43.035694
+                  ]
+            }
+      ]
+},
     name: { de: "Bijelo Polje", hu: "Bijelo Polje", ro: "Bijelo Polje", en: "Bijelo Polje" },
     type: "city",
     coords: [19.7475, 43.0383],
@@ -1489,7 +2461,52 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-010: Kotor
   {
-    id: "me-010-perast",
+    id: "me-010-perast", "sights": {
+      "de": [
+            {
+                  "name": "Palata Bujovic",
+                  "text": "Ein prächtiger Barockpalast in Perast, der heute das Stadtmuseum beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        18.695659,
+                        42.487935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palata Bujovic",
+                  "text": "Pompás barokk palota Perastban, amely ma a városi múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        18.695659,
+                        42.487935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palata Bujovic",
+                  "text": "Un splendid palat baroc din Perast, care găzduiește astăzi muzeul orașului.",
+                  "category": "castle",
+                  "coords": [
+                        18.695659,
+                        42.487935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bujović Palace",
+                  "text": "A magnificent Baroque palace in Perast, which now houses the town museum.",
+                  "category": "castle",
+                  "coords": [
+                        18.695659,
+                        42.487935
+                  ]
+            }
+      ]
+},
     name: { de: "Perast", hu: "Perast", ro: "Perast", en: "Perast" },
     type: "city",
     coords: [18.7000, 42.4867],
@@ -1533,7 +2550,196 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-011: Andrijevica
   {
-    id: "me-011-city",
+    id: "me-011-city", "sights": {
+      "de": [
+            {
+                  "name": "Zavičajni muzej",
+                  "text": "Das Heimatmuseum in Andrijevica bewahrt das kulturelle Erbe der Berane-Region.",
+                  "category": "museum",
+                  "coords": [
+                        19.757338,
+                        42.734369
+                  ]
+            },
+            {
+                  "name": "Teferič",
+                  "text": "Ein Gipfel bei Andrijevica, der eine weite Sicht auf die montenegrinischen Alpen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.820585,
+                        42.74337
+                  ]
+            },
+            {
+                  "name": "Kostreš",
+                  "text": "Ein markanter Berggipfel in der Umgebung von Andrijevica, ideal für Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        19.767958,
+                        42.753247
+                  ]
+            },
+            {
+                  "name": "Vidikovac Provala",
+                  "text": "Ein Aussichtspunkt in Andrijevica, bekannt für den Blick auf die umliegenden Schluchten.",
+                  "category": "natural",
+                  "coords": [
+                        19.824243,
+                        42.731999
+                  ]
+            },
+            {
+                  "name": "Kraljska barutana",
+                  "text": "Die Ruinen eines historischen Pulvermagazins in Andrijevica aus der Zeit des Königreichs Montenegro.",
+                  "category": "historical",
+                  "coords": [
+                        19.758356,
+                        42.735369
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zavičajni muzej",
+                  "text": "Az andrijevicai honismereti múzeum a környék kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        19.757338,
+                        42.734369
+                  ]
+            },
+            {
+                  "name": "Teferič",
+                  "text": "Andrijevica melletti csúcs, ahonnan tágas kilátás nyílik a montenegrói Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        19.820585,
+                        42.74337
+                  ]
+            },
+            {
+                  "name": "Kostreš",
+                  "text": "Jellegzetes hegyi csúcs Andrijevica környékén, ideális a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        19.767958,
+                        42.753247
+                  ]
+            },
+            {
+                  "name": "Vidikovac Provala",
+                  "text": "Kilátópont Andrijevica-ban, amely a környező szurdokokra nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.824243,
+                        42.731999
+                  ]
+            },
+            {
+                  "name": "Kraljska barutana",
+                  "text": "Egy történelmi lőpormagazin romjai Andrijevica-ban, a Montenegrói Királyság idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        19.758356,
+                        42.735369
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zavičajni muzej",
+                  "text": "Muzeul local din Andrijevica păstrează moștenirea culturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        19.757338,
+                        42.734369
+                  ]
+            },
+            {
+                  "name": "Teferič",
+                  "text": "Un vârf lângă Andrijevica care oferă o vedere largă asupra Alpilor muntenegreni.",
+                  "category": "natural",
+                  "coords": [
+                        19.820585,
+                        42.74337
+                  ]
+            },
+            {
+                  "name": "Kostreš",
+                  "text": "Un vârf muntos proeminent în împrejurimile orașului Andrijevica, ideal pentru observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        19.767958,
+                        42.753247
+                  ]
+            },
+            {
+                  "name": "Vidikovac Provala",
+                  "text": "Un punct de observație din Andrijevica, cunoscut pentru vederea asupra cheilor din jur.",
+                  "category": "natural",
+                  "coords": [
+                        19.824243,
+                        42.731999
+                  ]
+            },
+            {
+                  "name": "Kraljska barutana",
+                  "text": "Ruinele unui depozit istoric de praf de pușcă din Andrijevica, datând din perioada Regatului Muntenegru.",
+                  "category": "historical",
+                  "coords": [
+                        19.758356,
+                        42.735369
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zavičajni muzej",
+                  "text": "The local heritage museum in Andrijevica preserves the cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        19.757338,
+                        42.734369
+                  ]
+            },
+            {
+                  "name": "Teferič",
+                  "text": "A peak near Andrijevica offering a wide view of the Montenegrin Alps.",
+                  "category": "natural",
+                  "coords": [
+                        19.820585,
+                        42.74337
+                  ]
+            },
+            {
+                  "name": "Kostreš",
+                  "text": "A prominent mountain peak in the surroundings of Andrijevica, ideal for nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        19.767958,
+                        42.753247
+                  ]
+            },
+            {
+                  "name": "Vidikovac Provala",
+                  "text": "A viewpoint in Andrijevica known for its view of the surrounding gorges.",
+                  "category": "natural",
+                  "coords": [
+                        19.824243,
+                        42.731999
+                  ]
+            },
+            {
+                  "name": "Kraljska barutana",
+                  "text": "The ruins of a historic gunpowder magazine in Andrijevica dating from the Kingdom of Montenegro era.",
+                  "category": "historical",
+                  "coords": [
+                        19.758356,
+                        42.735369
+                  ]
+            }
+      ]
+},
     name: { de: "Andrijevica", hu: "Andrijevica", ro: "Andrijevica", en: "Andrijevica" },
     type: "city",
     coords: [19.7917, 42.7339],
@@ -1838,7 +3044,232 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-017: Mojkovac
   {
-    id: "me-017-city",
+    id: "me-017-city", "sights": {
+      "de": [
+            {
+                  "name": "Topovi",
+                  "text": "Topovi ist ein Berggipfel in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.55565,
+                        42.944631
+                  ]
+            },
+            {
+                  "name": "Paljokina kosa",
+                  "text": "Paljokina kosa ist ein Berggipfel in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.565935,
+                        42.952988
+                  ]
+            },
+            {
+                  "name": "Mutovak",
+                  "text": "Mutovak ist ein Berggipfel in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.594259,
+                        42.941994
+                  ]
+            },
+            {
+                  "name": "Karova kosa",
+                  "text": "Karova kosa ist ein Berggipfel in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.581663,
+                        42.941491
+                  ]
+            },
+            {
+                  "name": "Tutića kosa",
+                  "text": "Tutića kosa ist ein Berggipfel in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.575081,
+                        42.974275
+                  ]
+            },
+            {
+                  "name": "Suvovrh",
+                  "text": "Suvovrh ist ein Berggipfel in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.595892,
+                        42.972319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Topovi",
+                  "text": "A Topovi egy hegycsúcs Mojkovacban.",
+                  "category": "natural",
+                  "coords": [
+                        19.55565,
+                        42.944631
+                  ]
+            },
+            {
+                  "name": "Paljokina kosa",
+                  "text": "A Paljokina kosa egy hegycsúcs Mojkovacban.",
+                  "category": "natural",
+                  "coords": [
+                        19.565935,
+                        42.952988
+                  ]
+            },
+            {
+                  "name": "Mutovak",
+                  "text": "A Mutovak egy hegycsúcs Mojkovacban.",
+                  "category": "natural",
+                  "coords": [
+                        19.594259,
+                        42.941994
+                  ]
+            },
+            {
+                  "name": "Karova kosa",
+                  "text": "A Karova kosa egy hegycsúcs Mojkovacban.",
+                  "category": "natural",
+                  "coords": [
+                        19.581663,
+                        42.941491
+                  ]
+            },
+            {
+                  "name": "Tutića kosa",
+                  "text": "A Tutića kosa egy hegycsúcs Mojkovacban.",
+                  "category": "natural",
+                  "coords": [
+                        19.575081,
+                        42.974275
+                  ]
+            },
+            {
+                  "name": "Suvovrh",
+                  "text": "A Suvovrh egy hegycsúcs Mojkovacban.",
+                  "category": "natural",
+                  "coords": [
+                        19.595892,
+                        42.972319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Topovi",
+                  "text": "Topovi este un vârf de munte situat în Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.55565,
+                        42.944631
+                  ]
+            },
+            {
+                  "name": "Paljokina kosa",
+                  "text": "Paljokina kosa este un vârf de munte situat în Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.565935,
+                        42.952988
+                  ]
+            },
+            {
+                  "name": "Mutovak",
+                  "text": "Mutovak este un vârf de munte situat în Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.594259,
+                        42.941994
+                  ]
+            },
+            {
+                  "name": "Karova kosa",
+                  "text": "Karova kosa este un vârf de munte situat în Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.581663,
+                        42.941491
+                  ]
+            },
+            {
+                  "name": "Tutića kosa",
+                  "text": "Tutića kosa este un vârf de munte situat în Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.575081,
+                        42.974275
+                  ]
+            },
+            {
+                  "name": "Suvovrh",
+                  "text": "Suvovrh este un vârf de munte situat în Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.595892,
+                        42.972319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Topovi",
+                  "text": "Topovi is a mountain peak located in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.55565,
+                        42.944631
+                  ]
+            },
+            {
+                  "name": "Paljokina kosa",
+                  "text": "Paljokina kosa is a mountain peak located in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.565935,
+                        42.952988
+                  ]
+            },
+            {
+                  "name": "Mutovak",
+                  "text": "Mutovak is a mountain peak located in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.594259,
+                        42.941994
+                  ]
+            },
+            {
+                  "name": "Karova kosa",
+                  "text": "Karova kosa is a mountain peak located in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.581663,
+                        42.941491
+                  ]
+            },
+            {
+                  "name": "Tutića kosa",
+                  "text": "Tutića kosa is a mountain peak located in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.575081,
+                        42.974275
+                  ]
+            },
+            {
+                  "name": "Suvovrh",
+                  "text": "Suvovrh is a mountain peak located in Mojkovac.",
+                  "category": "natural",
+                  "coords": [
+                        19.595892,
+                        42.972319
+                  ]
+            }
+      ]
+},
     name: { de: "Mojkovac", hu: "Mojkovac", ro: "Mojkovac", en: "Mojkovac" },
     type: "city",
     coords: [19.5833, 42.9600],
@@ -2015,7 +3446,268 @@ export const montenegroAllPoi: POI[] = [
   },
   // ME-020: Kolašin
   {
-    id: "me-020-city",
+    id: "me-020-city", "sights": {
+      "de": [
+            {
+                  "name": "Tvrđava Barutana",
+                  "text": "Archäologische Stätte einer ehemaligen Festung in Kolašin.",
+                  "category": "historical",
+                  "coords": [
+                        19.519975,
+                        42.817637
+                  ]
+            },
+            {
+                  "name": "Muzej",
+                  "text": "Lokales Museum, das die Geschichte und Kultur von Kolašin präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.520927,
+                        42.823851
+                  ]
+            },
+            {
+                  "name": "Bablja greda",
+                  "text": "Markanter Berggipfel in der Nähe von Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.510488,
+                        42.827635
+                  ]
+            },
+            {
+                  "name": "Otašev lom",
+                  "text": "Ein Gipfel in der bergigen Umgebung von Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.500648,
+                        42.810308
+                  ]
+            },
+            {
+                  "name": "Durutovac",
+                  "text": "Berggipfel, der Wanderer in der Region Kolašin anzieht.",
+                  "category": "natural",
+                  "coords": [
+                        19.530596,
+                        42.797837
+                  ]
+            },
+            {
+                  "name": "Kukunovac",
+                  "text": "Ein Ziel für Naturliebhaber in der Nähe von Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.543148,
+                        42.801773
+                  ]
+            },
+            {
+                  "name": "Kolašin",
+                  "text": "Aussichtspunkt mit weitem Blick über die Stadt Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.53189,
+                        42.818883
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tvrđava Barutana",
+                  "text": "Egy egykori erődítmény régészeti lelőhelye Kolašinban.",
+                  "category": "historical",
+                  "coords": [
+                        19.519975,
+                        42.817637
+                  ]
+            },
+            {
+                  "name": "Muzej",
+                  "text": "Helyi múzeum, amely Kolašin történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.520927,
+                        42.823851
+                  ]
+            },
+            {
+                  "name": "Bablja greda",
+                  "text": "Jelentős hegycsúcs Kolašin közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.510488,
+                        42.827635
+                  ]
+            },
+            {
+                  "name": "Otašev lom",
+                  "text": "Egy hegycsúcs Kolašin hegyvidéki környezetében.",
+                  "category": "natural",
+                  "coords": [
+                        19.500648,
+                        42.810308
+                  ]
+            },
+            {
+                  "name": "Durutovac",
+                  "text": "Hegyi csúcs, amely vonzza a túrázókat Kolašin régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        19.530596,
+                        42.797837
+                  ]
+            },
+            {
+                  "name": "Kukunovac",
+                  "text": "Természetjárók célpontja Kolašin közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.543148,
+                        42.801773
+                  ]
+            },
+            {
+                  "name": "Kolašin",
+                  "text": "Kilátópont, ahonnan széles kilátás nyílik Kolašin városára.",
+                  "category": "natural",
+                  "coords": [
+                        19.53189,
+                        42.818883
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tvrđava Barutana",
+                  "text": "Situl arheologic al unei foste fortărețe din Kolašin.",
+                  "category": "historical",
+                  "coords": [
+                        19.519975,
+                        42.817637
+                  ]
+            },
+            {
+                  "name": "Muzej",
+                  "text": "Muzeu local care prezintă istoria și cultura orașului Kolašin.",
+                  "category": "museum",
+                  "coords": [
+                        19.520927,
+                        42.823851
+                  ]
+            },
+            {
+                  "name": "Bablja greda",
+                  "text": "Un vârf montan proeminent în apropiere de Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.510488,
+                        42.827635
+                  ]
+            },
+            {
+                  "name": "Otašev lom",
+                  "text": "Un vârf în împrejurimile muntoase ale orașului Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.500648,
+                        42.810308
+                  ]
+            },
+            {
+                  "name": "Durutovac",
+                  "text": "Vârf montan care atrage drumeții în regiunea Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.530596,
+                        42.797837
+                  ]
+            },
+            {
+                  "name": "Kukunovac",
+                  "text": "O destinație pentru iubitorii de natură lângă Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.543148,
+                        42.801773
+                  ]
+            },
+            {
+                  "name": "Kolašin",
+                  "text": "Punct de belvedere cu o vedere panoramică asupra orașului Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.53189,
+                        42.818883
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tvrđava Barutana",
+                  "text": "Archaeological site of a former fortress in Kolašin.",
+                  "category": "historical",
+                  "coords": [
+                        19.519975,
+                        42.817637
+                  ]
+            },
+            {
+                  "name": "Muzej",
+                  "text": "Local museum showcasing the history and culture of Kolašin.",
+                  "category": "museum",
+                  "coords": [
+                        19.520927,
+                        42.823851
+                  ]
+            },
+            {
+                  "name": "Bablja greda",
+                  "text": "A prominent mountain peak located near Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.510488,
+                        42.827635
+                  ]
+            },
+            {
+                  "name": "Otašev lom",
+                  "text": "A peak in the mountainous surroundings of Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.500648,
+                        42.810308
+                  ]
+            },
+            {
+                  "name": "Durutovac",
+                  "text": "Mountain peak attracting hikers in the Kolašin region.",
+                  "category": "natural",
+                  "coords": [
+                        19.530596,
+                        42.797837
+                  ]
+            },
+            {
+                  "name": "Kukunovac",
+                  "text": "A destination for nature lovers near Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.543148,
+                        42.801773
+                  ]
+            },
+            {
+                  "name": "Kolašin",
+                  "text": "Viewpoint offering a broad view over the town of Kolašin.",
+                  "category": "natural",
+                  "coords": [
+                        19.53189,
+                        42.818883
+                  ]
+            }
+      ]
+},
     name: { de: "Kolašin", hu: "Kolašin", ro: "Kolašin", en: "Kolašin" },
     type: "city",
     coords: [19.5214, 42.8225],

@@ -2068,7 +2068,160 @@ export const bosniaherzegovinaHistoryV2: POI[] = [
     image: "/poi-images/bosniaherzegovina-dabar-monastery-history-v2.webp",
   },
   {
-    id: "bosniaherzegovina-gornja-skakava-history-v2",
+    id: "bosniaherzegovina-gornja-skakava-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Partizansko spomen-groblje",
+                  "text": "Ein Gedenkfriedhof für Partisanen in Gornja Skakava.",
+                  "category": "historical",
+                  "coords": [
+                        18.797184,
+                        44.879077
+                  ]
+            },
+            {
+                  "name": "Spomenik Dobri Jovanoviću",
+                  "text": "Ein Denkmal zu Ehren von Dobra Jovanović.",
+                  "category": "historical",
+                  "coords": [
+                        18.809702,
+                        44.872389
+                  ]
+            },
+            {
+                  "name": "Džamija Gunja",
+                  "text": "Ein islamisches Gebetshaus in Gornja Skakava.",
+                  "category": "religious",
+                  "coords": [
+                        18.81981,
+                        44.889887
+                  ]
+            },
+            {
+                  "name": "Gradska vijećnica",
+                  "text": "Das historische Rathausgebäude der Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        18.809675,
+                        44.878159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Partizansko spomen-groblje",
+                  "text": "Partizán emlékhely és temető Gornja Skakava faluban.",
+                  "category": "historical",
+                  "coords": [
+                        18.797184,
+                        44.879077
+                  ]
+            },
+            {
+                  "name": "Spomenik Dobri Jovanoviću",
+                  "text": "Dobra Jovanović tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        18.809702,
+                        44.872389
+                  ]
+            },
+            {
+                  "name": "Džamija Gunja",
+                  "text": "Iszlám imaház Gornja Skakava településen.",
+                  "category": "religious",
+                  "coords": [
+                        18.81981,
+                        44.889887
+                  ]
+            },
+            {
+                  "name": "Gradska vijećnica",
+                  "text": "A település történelmi városháza épülete.",
+                  "category": "historical",
+                  "coords": [
+                        18.809675,
+                        44.878159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Partizansko spomen-groblje",
+                  "text": "Un cimitir memorial al partizanilor în Gornja Skakava.",
+                  "category": "historical",
+                  "coords": [
+                        18.797184,
+                        44.879077
+                  ]
+            },
+            {
+                  "name": "Spomenik Dobri Jovanoviću",
+                  "text": "Un monument ridicat în onoarea lui Dobra Jovanović.",
+                  "category": "historical",
+                  "coords": [
+                        18.809702,
+                        44.872389
+                  ]
+            },
+            {
+                  "name": "Džamija Gunja",
+                  "text": "O casă de rugăciune islamică în Gornja Skakava.",
+                  "category": "religious",
+                  "coords": [
+                        18.81981,
+                        44.889887
+                  ]
+            },
+            {
+                  "name": "Gradska vijećnica",
+                  "text": "Clădirea istorică a primăriei din localitate.",
+                  "category": "historical",
+                  "coords": [
+                        18.809675,
+                        44.878159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Partizansko spomen-groblje",
+                  "text": "A partisan memorial cemetery in Gornja Skakava.",
+                  "category": "historical",
+                  "coords": [
+                        18.797184,
+                        44.879077
+                  ]
+            },
+            {
+                  "name": "Spomenik Dobri Jovanoviću",
+                  "text": "A monument dedicated to the memory of Dobra Jovanović.",
+                  "category": "historical",
+                  "coords": [
+                        18.809702,
+                        44.872389
+                  ]
+            },
+            {
+                  "name": "Džamija Gunja",
+                  "text": "An Islamic place of worship in Gornja Skakava.",
+                  "category": "religious",
+                  "coords": [
+                        18.81981,
+                        44.889887
+                  ]
+            },
+            {
+                  "name": "Gradska vijećnica",
+                  "text": "The historical town hall building of the municipality.",
+                  "category": "historical",
+                  "coords": [
+                        18.809675,
+                        44.878159
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "BA",
     name: { de: "Gornja Skakava", hu: "Gornja Skakava", ro: "Gornja Skakava", en: "Gornja Skakava" },

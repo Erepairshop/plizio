@@ -130,7 +130,1240 @@ imageHint: "Helsingborg harbor with Kärnan tower in background",
     },
     image: "/poi-images/sweden-helsingborg-cities-v2.webp",
 },  {
-    id: "sweden-norrkoping-cities-v2",
+    id: "sweden-norrkoping-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stora teatern",
+                  "text": "Ein prächtiges Theater aus dem 19. Jahrhundert in Norrköping, das als Hauptspielstätte für die regionalen darstellenden Künste dient.",
+                  "category": "cultural",
+                  "coords": [
+                        16.1821,
+                        58.594101
+                  ]
+            },
+            {
+                  "name": "Norrköpings stadsmuseum",
+                  "text": "Das Stadtmuseum von Norrköping, das die reiche Industriegeschichte der Stadt in einer ehemaligen Textilfabrik dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.179927,
+                        58.589679
+                  ]
+            },
+            {
+                  "name": "Vrinneviskogen Naturreservat",
+                  "text": "Ein großes städtisches Naturschutzgebiet in Norrköping mit ausgedehnten Wäldern, Wanderwegen und Erholungsgebieten im Freien.",
+                  "category": "natural",
+                  "coords": [
+                        16.203454,
+                        58.562066
+                  ]
+            },
+            {
+                  "name": "Louis De Geer Konsert & Kongress",
+                  "text": "Eine bedeutende Konzert- und Kongresshalle in Norrköping, benannt nach dem prominenten Industriellen Louis De Geer.",
+                  "category": "cultural",
+                  "coords": [
+                        16.183817,
+                        58.588172
+                  ]
+            },
+            {
+                  "name": "X-Scenen",
+                  "text": "Ein Veranstaltungsort für zeitgenössisches Theater und experimentelle Aufführungen in Norrköping.",
+                  "category": "cultural",
+                  "coords": [
+                        16.189455,
+                        58.588898
+                  ]
+            },
+            {
+                  "name": "Hällristningar",
+                  "text": "Antike Felsritzungen in Himmelstalund bei Norrköping, die bis in die Bronzezeit zurückreichen.",
+                  "category": "historical",
+                  "coords": [
+                        16.144999,
+                        58.593359
+                  ]
+            },
+            {
+                  "name": "Visualiseringscenter C",
+                  "text": "Ein hochmodernes Wissenschaftszentrum in Norrköping, das sich auf Visualisierungstechnologie und interaktive digitale Medien konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        16.177478,
+                        58.589128
+                  ]
+            },
+            {
+                  "name": "Färgargården friluftsmuseum",
+                  "text": "Ein Freilichtmuseum in Norrköping, das einen historischen Färberhof und das Werkstattleben des 19. Jahrhunderts zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.167677,
+                        58.588037
+                  ]
+            },
+            {
+                  "name": "Norrköpings konstmuseum",
+                  "text": "Ein Kunstmuseum in Norrköping mit einer bedeutenden Sammlung schwedischer Moderne und zeitgenössischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        16.190874,
+                        58.583033
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Ein Kulturort in Norrköping, an dem Theateraufführungen, Konzerte und jugendgerechte künstlerische Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        16.177853,
+                        58.593302
+                  ]
+            },
+            {
+                  "name": "Lilla teatern",
+                  "text": "Ein gemütliches Theater in Norrköping, das für kleinere Produktionen und lokale Theatergruppen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.172386,
+                        58.594676
+                  ]
+            },
+            {
+                  "name": "Egna Hems hällristningar",
+                  "text": "Eine Sammlung prähistorischer Felsritzungen im Wohngebiet Egna Hem in Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.19806,
+                        58.574123
+                  ]
+            },
+            {
+                  "name": "Hällristningsmuséet",
+                  "text": "Museum in Norrköping, das sich den prähistorischen Felsritzungen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.155239,
+                        58.591248
+                  ]
+            },
+            {
+                  "name": "Norrköpings spårvägsmuseum",
+                  "text": "Museum in Norrköping, das die Geschichte der städtischen Straßenbahnen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.206935,
+                        58.585437
+                  ]
+            },
+            {
+                  "name": "Folkparken",
+                  "text": "Ein weitläufiger Volkspark in Norrköping für Erholung und Veranstaltungen.",
+                  "category": "park",
+                  "coords": [
+                        16.168058,
+                        58.59104
+                  ]
+            },
+            {
+                  "name": "Strömparken",
+                  "text": "Ein zentral gelegener Park am Flussufer in Norrköping.",
+                  "category": "park",
+                  "coords": [
+                        16.184357,
+                        58.591231
+                  ]
+            },
+            {
+                  "name": "Johannisborg",
+                  "text": "Überreste einer Schlossfestung aus dem 17. Jahrhundert in Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.197212,
+                        58.600119
+                  ]
+            },
+            {
+                  "name": "Kaktusplanteringen",
+                  "text": "Berühmte Kakteenanlage in Norrköping, die jährlich wechselnde Motive zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.184559,
+                        58.594185
+                  ]
+            },
+            {
+                  "name": "Ingelstad gård",
+                  "text": "Überreste eines historischen Gebäudes oder Anwesens in Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.173348,
+                        58.611649
+                  ]
+            },
+            {
+                  "name": "Mässhallen",
+                  "text": "Eine große Mehrzweckhalle für Veranstaltungen und Messen in Norrköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.146759,
+                        58.586867
+                  ]
+            },
+            {
+                  "name": "Ståhl Collection",
+                  "text": "Private Kunstsammlung in Norrköping mit Fokus auf zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        16.183308,
+                        58.590026
+                  ]
+            },
+            {
+                  "name": "Mot strömmen",
+                  "text": "Eine Kunstgalerie in Norrköping, die verschiedene Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.188093,
+                        58.590847
+                  ]
+            },
+            {
+                  "name": "Rest av serveringen för Industri och konstutställningen 1906",
+                  "text": "Überreste eines Gastronomiegebäudes der Industrieausstellung von 1906.",
+                  "category": "historical",
+                  "coords": [
+                        16.212264,
+                        58.593042
+                  ]
+            },
+            {
+                  "name": "Johannisborgs f.d. vallgrav",
+                  "text": "Die sichtbaren Überreste des ehemaligen Wassergrabens der Festung Johannisborg.",
+                  "category": "historical",
+                  "coords": [
+                        16.199453,
+                        58.601029
+                  ]
+            },
+            {
+                  "name": "Himmelstadlund",
+                  "text": "Ein Herrenhaus in Norrköping, bekannt für die angrenzenden prähistorischen Felsritzungen.",
+                  "category": "historical",
+                  "coords": [
+                        16.152498,
+                        58.587811
+                  ]
+            },
+            {
+                  "name": "Restaurangtorget, Knäppingsborg",
+                  "text": "Ein beliebter Platz mit Gastronomie im historischen Viertel Knäppingsborg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.1852,
+                        58.58913
+                  ]
+            },
+            {
+                  "name": "Matteus kyrka",
+                  "text": "Eine neugotische Backsteinkirche im nördlichen Teil von Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.171778,
+                        58.59308
+                  ]
+            },
+            {
+                  "name": "Sankt Olai kyrka",
+                  "text": "Die Hauptkirche von Norrköping, ein markantes barockes Bauwerk im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        16.189416,
+                        58.590056
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Vasaparken",
+                  "text": "Ein Sakralbau in Norrköping, der direkt am Vasaparken liegt.",
+                  "category": "religious",
+                  "coords": [
+                        16.192368,
+                        58.584058
+                  ]
+            },
+            {
+                  "name": "Hedvigs kyrka",
+                  "text": "Historische Barockkirche in Norrköping, die ursprünglich der deutschen Gemeinde diente.",
+                  "category": "religious",
+                  "coords": [
+                        16.18785,
+                        58.592812
+                  ]
+            },
+            {
+                  "name": "S:t Johannes kyrka",
+                  "text": "Eine große Backsteinkirche in Norrköping mit einem markanten Turm.",
+                  "category": "religious",
+                  "coords": [
+                        16.197285,
+                        58.576647
+                  ]
+            },
+            {
+                  "name": "Söderledskyrkan",
+                  "text": "Ein modernes Kirchengebäude im südlichen Teil von Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.166535,
+                        58.57421
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "Das Kirchengebäude der Siebenten-Tags-Adventisten in Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.155838,
+                        58.577772
+                  ]
+            },
+            {
+                  "name": "Händelöbron",
+                  "text": "Eine Brücke in Norrköping, die das Festland mit der Industrieinsel Händelö verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.206439,
+                        58.609805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stora teatern",
+                  "text": "Norrköping impozáns, 19. századi színháza, amely a régió előadó-művészetének egyik központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        16.1821,
+                        58.594101
+                  ]
+            },
+            {
+                  "name": "Norrköpings stadsmuseum",
+                  "text": "Norrköping városi múzeuma, amely a város gazdag ipari múltját mutatja be egy egykori textilgyár épületében.",
+                  "category": "museum",
+                  "coords": [
+                        16.179927,
+                        58.589679
+                  ]
+            },
+            {
+                  "name": "Vrinneviskogen Naturreservat",
+                  "text": "Norrköping nagy városi természetvédelmi területe kiterjedt erdőkkel, túraútvonalakkal és szabadtéri pihenőhelyekkel.",
+                  "category": "natural",
+                  "coords": [
+                        16.203454,
+                        58.562066
+                  ]
+            },
+            {
+                  "name": "Louis De Geer Konsert & Kongress",
+                  "text": "Norrköping jelentős koncert- és kongresszusi központja, amely a neves iparosról, Louis De Geerről kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        16.183817,
+                        58.588172
+                  ]
+            },
+            {
+                  "name": "X-Scenen",
+                  "text": "Kortárs színházi és kísérleti előadások helyszíne Norrköpingben.",
+                  "category": "cultural",
+                  "coords": [
+                        16.189455,
+                        58.588898
+                  ]
+            },
+            {
+                  "name": "Hällristningar",
+                  "text": "Norrköping melletti Himmelstalundnál található ősi sziklarajzok, amelyek a bronzkorból származnak.",
+                  "category": "historical",
+                  "coords": [
+                        16.144999,
+                        58.593359
+                  ]
+            },
+            {
+                  "name": "Visualiseringscenter C",
+                  "text": "Norrköpingi csúcstechnológiás tudományos központ, amely a vizualizációs technológiára és az interaktív digitális médiára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        16.177478,
+                        58.589128
+                  ]
+            },
+            {
+                  "name": "Färgargården friluftsmuseum",
+                  "text": "Szabadtéri múzeum Norrköpingben, amely egy történelmi kelmefestő műhelyt és a 19. századi iparoséletet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.167677,
+                        58.588037
+                  ]
+            },
+            {
+                  "name": "Norrköpings konstmuseum",
+                  "text": "Norrköpingi művészeti múzeum, amely a svéd modernizmus és a kortárs művészet jelentős gyűjteményével rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        16.190874,
+                        58.583033
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Norrköpingi kulturális helyszín, amely színházi előadásoknak, koncerteknek és ifjúsági művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.177853,
+                        58.593302
+                  ]
+            },
+            {
+                  "name": "Lilla teatern",
+                  "text": "Norrköpingi meghitt színház, amely kisebb produkcióknak és helyi színtársulatoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.172386,
+                        58.594676
+                  ]
+            },
+            {
+                  "name": "Egna Hems hällristningar",
+                  "text": "Norrköping Egna Hem lakónegyedében található őskori sziklarajzok gyűjteménye.",
+                  "category": "historical",
+                  "coords": [
+                        16.19806,
+                        58.574123
+                  ]
+            },
+            {
+                  "name": "Hällristningsmuséet",
+                  "text": "Múzeum Norrköpingben, amely a prehisztorikus sziklarajzokkal foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        16.155239,
+                        58.591248
+                  ]
+            },
+            {
+                  "name": "Norrköpings spårvägsmuseum",
+                  "text": "Múzeum Norrköpingben, amely a városi villamosok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.206935,
+                        58.585437
+                  ]
+            },
+            {
+                  "name": "Folkparken",
+                  "text": "Kiterjedt néppark Norrköpingben kikapcsolódáshoz és rendezvényekhez.",
+                  "category": "park",
+                  "coords": [
+                        16.168058,
+                        58.59104
+                  ]
+            },
+            {
+                  "name": "Strömparken",
+                  "text": "Központi fekvésű folyóparti park Norrköpingben.",
+                  "category": "park",
+                  "coords": [
+                        16.184357,
+                        58.591231
+                  ]
+            },
+            {
+                  "name": "Johannisborg",
+                  "text": "Egy 17. századi várkastély maradványai Norrköpingben.",
+                  "category": "historical",
+                  "coords": [
+                        16.197212,
+                        58.600119
+                  ]
+            },
+            {
+                  "name": "Kaktusplanteringen",
+                  "text": "Híres kaktuszültetés Norrköpingben, amely évente változó motívumokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        16.184559,
+                        58.594185
+                  ]
+            },
+            {
+                  "name": "Ingelstad gård",
+                  "text": "Egy történelmi épület vagy birtok maradványai Norrköpingben.",
+                  "category": "historical",
+                  "coords": [
+                        16.173348,
+                        58.611649
+                  ]
+            },
+            {
+                  "name": "Mässhallen",
+                  "text": "Nagy többcélú csarnok rendezvények és vásárok számára Norrköpingben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.146759,
+                        58.586867
+                  ]
+            },
+            {
+                  "name": "Ståhl Collection",
+                  "text": "Magán művészeti gyűjtemény Norrköpingben, a kortárs művészetre összpontosítva.",
+                  "category": "museum",
+                  "coords": [
+                        16.183308,
+                        58.590026
+                  ]
+            },
+            {
+                  "name": "Mot strömmen",
+                  "text": "Művészeti galéria Norrköpingben, amely különféle kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.188093,
+                        58.590847
+                  ]
+            },
+            {
+                  "name": "Rest av serveringen för Industri och konstutställningen 1906",
+                  "text": "Az 1906-os ipari kiállítás egyik vendéglátó épületének maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        16.212264,
+                        58.593042
+                  ]
+            },
+            {
+                  "name": "Johannisborgs f.d. vallgrav",
+                  "text": "A Johannisborg-erőd egykori vizesárkának látható maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        16.199453,
+                        58.601029
+                  ]
+            },
+            {
+                  "name": "Himmelstadlund",
+                  "text": "Udvarház Norrköpingben, a szomszédos prehisztorikus sziklarajzokról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        16.152498,
+                        58.587811
+                  ]
+            },
+            {
+                  "name": "Restaurangtorget, Knäppingsborg",
+                  "text": "Népszerű tér vendéglátóhelyekkel a történelmi Knäppingsborg negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.1852,
+                        58.58913
+                  ]
+            },
+            {
+                  "name": "Matteus kyrka",
+                  "text": "Neogótikus téglatemplom Norrköping északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        16.171778,
+                        58.59308
+                  ]
+            },
+            {
+                  "name": "Sankt Olai kyrka",
+                  "text": "Norrköping főtemploma, egy jellegzetes barokk épület a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        16.189416,
+                        58.590056
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Vasaparken",
+                  "text": "Templom Norrköpingben, közvetlenül a Vasaparken mellett.",
+                  "category": "religious",
+                  "coords": [
+                        16.192368,
+                        58.584058
+                  ]
+            },
+            {
+                  "name": "Hedvigs kyrka",
+                  "text": "Történelmi barokk templom Norrköpingben, amely eredetileg a német közösséget szolgálta.",
+                  "category": "religious",
+                  "coords": [
+                        16.18785,
+                        58.592812
+                  ]
+            },
+            {
+                  "name": "S:t Johannes kyrka",
+                  "text": "Nagy téglatemplom Norrköpingben, jellegzetes toronnyal.",
+                  "category": "religious",
+                  "coords": [
+                        16.197285,
+                        58.576647
+                  ]
+            },
+            {
+                  "name": "Söderledskyrkan",
+                  "text": "Modern templomépület Norrköping déli részén.",
+                  "category": "religious",
+                  "coords": [
+                        16.166535,
+                        58.57421
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "A Hetednapi Adventista Egyház templomépülete Norrköpingben.",
+                  "category": "religious",
+                  "coords": [
+                        16.155838,
+                        58.577772
+                  ]
+            },
+            {
+                  "name": "Händelöbron",
+                  "text": "Híd Norrköpingben, amely a szárazföldet köti össze Händelö ipari szigetével.",
+                  "category": "landmark",
+                  "coords": [
+                        16.206439,
+                        58.609805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stora teatern",
+                  "text": "Un teatru grandios din secolul al XIX-lea în Norrköping, servind ca loc principal pentru artele spectacolului regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.1821,
+                        58.594101
+                  ]
+            },
+            {
+                  "name": "Norrköpings stadsmuseum",
+                  "text": "Muzeul orașului Norrköping, care documentează bogata istorie industrială a orașului într-o fostă fabrică de textile.",
+                  "category": "museum",
+                  "coords": [
+                        16.179927,
+                        58.589679
+                  ]
+            },
+            {
+                  "name": "Vrinneviskogen Naturreservat",
+                  "text": "O mare rezervație naturală urbană în Norrköping, cu păduri extinse, trasee și zone de recreere în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        16.203454,
+                        58.562066
+                  ]
+            },
+            {
+                  "name": "Louis De Geer Konsert & Kongress",
+                  "text": "O importantă sală de concerte și congrese în Norrköping, numită după proeminentul industriaș Louis De Geer.",
+                  "category": "cultural",
+                  "coords": [
+                        16.183817,
+                        58.588172
+                  ]
+            },
+            {
+                  "name": "X-Scenen",
+                  "text": "Un loc pentru teatru contemporan și spectacole experimentale situat în Norrköping.",
+                  "category": "cultural",
+                  "coords": [
+                        16.189455,
+                        58.588898
+                  ]
+            },
+            {
+                  "name": "Hällristningar",
+                  "text": "Sculpturi rupestre antice situate la Himmelstalund lângă Norrköping, datând din Epoca Bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        16.144999,
+                        58.593359
+                  ]
+            },
+            {
+                  "name": "Visualiseringscenter C",
+                  "text": "Un centru științific de înaltă tehnologie în Norrköping, axat pe tehnologia de vizualizare și mediile digitale interactive.",
+                  "category": "museum",
+                  "coords": [
+                        16.177478,
+                        58.589128
+                  ]
+            },
+            {
+                  "name": "Färgargården friluftsmuseum",
+                  "text": "Un muzeu în aer liber în Norrköping, care prezintă o fermă istorică de vopsitori și viața de atelier din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        16.167677,
+                        58.588037
+                  ]
+            },
+            {
+                  "name": "Norrköpings konstmuseum",
+                  "text": "Un muzeu de artă din Norrköping cu o colecție semnificativă de modernism suedez și artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        16.190874,
+                        58.583033
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Un spațiu cultural în Norrköping care găzduiește teatru, concerte și evenimente artistice orientate spre tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.177853,
+                        58.593302
+                  ]
+            },
+            {
+                  "name": "Lilla teatern",
+                  "text": "Un teatru intim din Norrköping, cunoscut pentru găzduirea unor producții mai mici și a grupurilor de teatru locale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.172386,
+                        58.594676
+                  ]
+            },
+            {
+                  "name": "Egna Hems hällristningar",
+                  "text": "O colecție de sculpturi rupestre preistorice situate în zona rezidențială Egna Hem din Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.19806,
+                        58.574123
+                  ]
+            },
+            {
+                  "name": "Hällristningsmuséet",
+                  "text": "Muzeu din Norrköping dedicat gravurilor rupestre preistorice.",
+                  "category": "museum",
+                  "coords": [
+                        16.155239,
+                        58.591248
+                  ]
+            },
+            {
+                  "name": "Norrköpings spårvägsmuseum",
+                  "text": "Muzeu din Norrköping care prezintă istoria tramvaielor orașului.",
+                  "category": "museum",
+                  "coords": [
+                        16.206935,
+                        58.585437
+                  ]
+            },
+            {
+                  "name": "Folkparken",
+                  "text": "Un parc public vast în Norrköping pentru recreere și evenimente.",
+                  "category": "park",
+                  "coords": [
+                        16.168058,
+                        58.59104
+                  ]
+            },
+            {
+                  "name": "Strömparken",
+                  "text": "Un parc central situat pe malul râului în Norrköping.",
+                  "category": "park",
+                  "coords": [
+                        16.184357,
+                        58.591231
+                  ]
+            },
+            {
+                  "name": "Johannisborg",
+                  "text": "Ruinele unei fortărețe de castel din secolul al XVII-lea în Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.197212,
+                        58.600119
+                  ]
+            },
+            {
+                  "name": "Kaktusplanteringen",
+                  "text": "Faimoasa plantație de cactuși din Norrköping, cu motive care se schimbă anual.",
+                  "category": "landmark",
+                  "coords": [
+                        16.184559,
+                        58.594185
+                  ]
+            },
+            {
+                  "name": "Ingelstad gård",
+                  "text": "Ruinele unei clădiri sau proprietăți istorice în Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.173348,
+                        58.611649
+                  ]
+            },
+            {
+                  "name": "Mässhallen",
+                  "text": "O sală multifuncțională mare pentru evenimente și târguri în Norrköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.146759,
+                        58.586867
+                  ]
+            },
+            {
+                  "name": "Ståhl Collection",
+                  "text": "Colecție privată de artă în Norrköping, cu accent pe arta contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        16.183308,
+                        58.590026
+                  ]
+            },
+            {
+                  "name": "Mot strömmen",
+                  "text": "O galerie de artă în Norrköping care prezintă diverse expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        16.188093,
+                        58.590847
+                  ]
+            },
+            {
+                  "name": "Rest av serveringen för Industri och konstutställningen 1906",
+                  "text": "Ruinele unei clădiri de catering de la Expoziția Industrială din 1906.",
+                  "category": "historical",
+                  "coords": [
+                        16.212264,
+                        58.593042
+                  ]
+            },
+            {
+                  "name": "Johannisborgs f.d. vallgrav",
+                  "text": "Rămășițele vizibile ale fostului șanț de apărare al cetății Johannisborg.",
+                  "category": "historical",
+                  "coords": [
+                        16.199453,
+                        58.601029
+                  ]
+            },
+            {
+                  "name": "Himmelstadlund",
+                  "text": "Un conac în Norrköping, cunoscut pentru gravurile rupestre preistorice adiacente.",
+                  "category": "historical",
+                  "coords": [
+                        16.152498,
+                        58.587811
+                  ]
+            },
+            {
+                  "name": "Restaurangtorget, Knäppingsborg",
+                  "text": "O piață populară cu restaurante în cartierul istoric Knäppingsborg.",
+                  "category": "landmark",
+                  "coords": [
+                        16.1852,
+                        58.58913
+                  ]
+            },
+            {
+                  "name": "Matteus kyrka",
+                  "text": "O biserică neogotică din cărămidă în partea de nord a orașului Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.171778,
+                        58.59308
+                  ]
+            },
+            {
+                  "name": "Sankt Olai kyrka",
+                  "text": "Biserica principală din Norrköping, o structură barocă proeminentă în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        16.189416,
+                        58.590056
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Vasaparken",
+                  "text": "O clădire religioasă în Norrköping, situată direct lângă Vasaparken.",
+                  "category": "religious",
+                  "coords": [
+                        16.192368,
+                        58.584058
+                  ]
+            },
+            {
+                  "name": "Hedvigs kyrka",
+                  "text": "Biserică barocă istorică în Norrköping, care a servit inițial comunitatea germană.",
+                  "category": "religious",
+                  "coords": [
+                        16.18785,
+                        58.592812
+                  ]
+            },
+            {
+                  "name": "S:t Johannes kyrka",
+                  "text": "O biserică mare din cărămidă în Norrköping, cu un turn proeminent.",
+                  "category": "religious",
+                  "coords": [
+                        16.197285,
+                        58.576647
+                  ]
+            },
+            {
+                  "name": "Söderledskyrkan",
+                  "text": "O clădire modernă de biserică în partea de sud a orașului Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.166535,
+                        58.57421
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "Clădirea bisericii Adventiste de Ziua a Șaptea din Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.155838,
+                        58.577772
+                  ]
+            },
+            {
+                  "name": "Händelöbron",
+                  "text": "Un pod în Norrköping care leagă continentul de insula industrială Händelö.",
+                  "category": "landmark",
+                  "coords": [
+                        16.206439,
+                        58.609805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stora teatern",
+                  "text": "A grand 19th-century theater in Norrköping, serving as a primary venue for regional performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        16.1821,
+                        58.594101
+                  ]
+            },
+            {
+                  "name": "Norrköpings stadsmuseum",
+                  "text": "The city museum of Norrköping, documenting the town's rich industrial history in a former textile mill.",
+                  "category": "museum",
+                  "coords": [
+                        16.179927,
+                        58.589679
+                  ]
+            },
+            {
+                  "name": "Vrinneviskogen Naturreservat",
+                  "text": "A large urban nature reserve in Norrköping featuring extensive forests, trails, and outdoor recreation areas.",
+                  "category": "natural",
+                  "coords": [
+                        16.203454,
+                        58.562066
+                  ]
+            },
+            {
+                  "name": "Louis De Geer Konsert & Kongress",
+                  "text": "A major concert and congress hall in Norrköping, named after the prominent industrialist Louis De Geer.",
+                  "category": "cultural",
+                  "coords": [
+                        16.183817,
+                        58.588172
+                  ]
+            },
+            {
+                  "name": "X-Scenen",
+                  "text": "A venue for contemporary theater and experimental performances located in Norrköping.",
+                  "category": "cultural",
+                  "coords": [
+                        16.189455,
+                        58.588898
+                  ]
+            },
+            {
+                  "name": "Hällristningar",
+                  "text": "Ancient rock carvings located at Himmelstalund near Norrköping, dating back to the Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        16.144999,
+                        58.593359
+                  ]
+            },
+            {
+                  "name": "Visualiseringscenter C",
+                  "text": "A high-tech science center in Norrköping focused on visualization technology and interactive digital media.",
+                  "category": "museum",
+                  "coords": [
+                        16.177478,
+                        58.589128
+                  ]
+            },
+            {
+                  "name": "Färgargården friluftsmuseum",
+                  "text": "An open-air museum in Norrköping showcasing a historic dyer's farm and 19th-century workshop life.",
+                  "category": "museum",
+                  "coords": [
+                        16.167677,
+                        58.588037
+                  ]
+            },
+            {
+                  "name": "Norrköpings konstmuseum",
+                  "text": "An art museum in Norrköping with a significant collection of Swedish modernism and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        16.190874,
+                        58.583033
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "A cultural venue in Norrköping hosting theater, concerts, and youth-oriented artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        16.177853,
+                        58.593302
+                  ]
+            },
+            {
+                  "name": "Lilla teatern",
+                  "text": "An intimate theater in Norrköping known for hosting smaller productions and local drama groups.",
+                  "category": "cultural",
+                  "coords": [
+                        16.172386,
+                        58.594676
+                  ]
+            },
+            {
+                  "name": "Egna Hems hällristningar",
+                  "text": "A collection of prehistoric rock carvings located in the Egna Hem residential area of Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.19806,
+                        58.574123
+                  ]
+            },
+            {
+                  "name": "Hällristningsmuséet",
+                  "text": "Museum in Norrköping dedicated to prehistoric rock carvings.",
+                  "category": "museum",
+                  "coords": [
+                        16.155239,
+                        58.591248
+                  ]
+            },
+            {
+                  "name": "Norrköpings spårvägsmuseum",
+                  "text": "Museum in Norrköping showcasing the history of the city's trams.",
+                  "category": "museum",
+                  "coords": [
+                        16.206935,
+                        58.585437
+                  ]
+            },
+            {
+                  "name": "Folkparken",
+                  "text": "A large public park in Norrköping for recreation and events.",
+                  "category": "park",
+                  "coords": [
+                        16.168058,
+                        58.59104
+                  ]
+            },
+            {
+                  "name": "Strömparken",
+                  "text": "A centrally located riverside park in Norrköping.",
+                  "category": "park",
+                  "coords": [
+                        16.184357,
+                        58.591231
+                  ]
+            },
+            {
+                  "name": "Johannisborg",
+                  "text": "Remains of a 17th-century castle fortification in Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.197212,
+                        58.600119
+                  ]
+            },
+            {
+                  "name": "Kaktusplanteringen",
+                  "text": "Famous cactus plantation in Norrköping featuring annually changing motifs.",
+                  "category": "landmark",
+                  "coords": [
+                        16.184559,
+                        58.594185
+                  ]
+            },
+            {
+                  "name": "Ingelstad gård",
+                  "text": "Remains of a historical building or estate in Norrköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.173348,
+                        58.611649
+                  ]
+            },
+            {
+                  "name": "Mässhallen",
+                  "text": "A large multi-purpose hall for events and trade fairs in Norrköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.146759,
+                        58.586867
+                  ]
+            },
+            {
+                  "name": "Ståhl Collection",
+                  "text": "Private art collection in Norrköping focusing on contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        16.183308,
+                        58.590026
+                  ]
+            },
+            {
+                  "name": "Mot strömmen",
+                  "text": "An art gallery in Norrköping presenting various exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.188093,
+                        58.590847
+                  ]
+            },
+            {
+                  "name": "Rest av serveringen för Industri och konstutställningen 1906",
+                  "text": "Remains of a catering building from the 1906 Industrial Exhibition.",
+                  "category": "historical",
+                  "coords": [
+                        16.212264,
+                        58.593042
+                  ]
+            },
+            {
+                  "name": "Johannisborgs f.d. vallgrav",
+                  "text": "The visible remains of the former moat of the Johannisborg fortification.",
+                  "category": "historical",
+                  "coords": [
+                        16.199453,
+                        58.601029
+                  ]
+            },
+            {
+                  "name": "Himmelstadlund",
+                  "text": "A manor in Norrköping known for the adjacent prehistoric rock carvings.",
+                  "category": "historical",
+                  "coords": [
+                        16.152498,
+                        58.587811
+                  ]
+            },
+            {
+                  "name": "Restaurangtorget, Knäppingsborg",
+                  "text": "A popular square with dining options in the historical Knäppingsborg district.",
+                  "category": "landmark",
+                  "coords": [
+                        16.1852,
+                        58.58913
+                  ]
+            },
+            {
+                  "name": "Matteus kyrka",
+                  "text": "A Neo-Gothic brick church in the northern part of Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.171778,
+                        58.59308
+                  ]
+            },
+            {
+                  "name": "Sankt Olai kyrka",
+                  "text": "The main church of Norrköping, a prominent Baroque building in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        16.189416,
+                        58.590056
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Vasaparken",
+                  "text": "A religious building in Norrköping located directly by Vasaparken.",
+                  "category": "religious",
+                  "coords": [
+                        16.192368,
+                        58.584058
+                  ]
+            },
+            {
+                  "name": "Hedvigs kyrka",
+                  "text": "Historical Baroque church in Norrköping that originally served the German congregation.",
+                  "category": "religious",
+                  "coords": [
+                        16.18785,
+                        58.592812
+                  ]
+            },
+            {
+                  "name": "S:t Johannes kyrka",
+                  "text": "A large brick church in Norrköping with a prominent tower.",
+                  "category": "religious",
+                  "coords": [
+                        16.197285,
+                        58.576647
+                  ]
+            },
+            {
+                  "name": "Söderledskyrkan",
+                  "text": "A modern church building in the southern part of Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.166535,
+                        58.57421
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "The Seventh-day Adventist church building in Norrköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.155838,
+                        58.577772
+                  ]
+            },
+            {
+                  "name": "Händelöbron",
+                  "text": "A bridge in Norrköping connecting the mainland with the industrial island of Händelö.",
+                  "category": "landmark",
+                  "coords": [
+                        16.206439,
+                        58.609805
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Norrköping", hu: "Norrköping", ro: "Norrköping", en: "Norrköping"},
@@ -176,7 +1409,592 @@ imageHint: "Industrial landscape of Norrköping along the river",
     },
     image: "/poi-images/sweden-norrkoping-cities-v2.webp",
 },  {
-    id: "sweden-boras-cities-v2",
+    id: "sweden-boras-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Borås Konstmuseum",
+                  "text": "Das Kunstmuseum von Borås ist bekannt für seine Sammlung zeitgenössischer Kunst und Skulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        12.948015,
+                        57.721328
+                  ]
+            },
+            {
+                  "name": "Textilmuseet",
+                  "text": "Ein Museum in Borås, das die bedeutende Textilgeschichte der Stadt und Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.937603,
+                        57.724911
+                  ]
+            },
+            {
+                  "name": "Folkan",
+                  "text": "Ein traditionelles Theater- und Veranstaltungsgebäude in Borås.",
+                  "category": "cultural",
+                  "coords": [
+                        12.938935,
+                        57.724468
+                  ]
+            },
+            {
+                  "name": "Abecita Popkonst och Foto",
+                  "text": "Ein Museum in Borås mit Fokus auf Pop-Art und zeitgenössische Fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        12.942047,
+                        57.735127
+                  ]
+            },
+            {
+                  "name": "Biblioteksmuseet",
+                  "text": "Ein Museum in Borås, das sich mit der Geschichte der Bibliotheken und Literatur befasst.",
+                  "category": "museum",
+                  "coords": [
+                        12.945746,
+                        57.72143
+                  ]
+            },
+            {
+                  "name": "Borås Djurpark",
+                  "text": "Ein beliebter Zoo in Borås, der für seine großen Gehege und afrikanischen Tiere bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941157,
+                        57.740657
+                  ]
+            },
+            {
+                  "name": "Borås Museum",
+                  "text": "Das Freilichtmuseum in Borås zeigt historische Gebäude aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        12.918082,
+                        57.721194
+                  ]
+            },
+            {
+                  "name": "Ryssby klint",
+                  "text": "Ein Aussichtspunkt bei Borås mit weitem Blick über die schwedische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        12.912987,
+                        57.731731
+                  ]
+            },
+            {
+                  "name": "Hestra klint",
+                  "text": "Ein natürlicher Aussichtspunkt in der Nähe von Borås.",
+                  "category": "natural",
+                  "coords": [
+                        12.91089,
+                        57.729484
+                  ]
+            },
+            {
+                  "name": "Flaménska galleriet",
+                  "text": "Eine Kunstgalerie in Borås, die Werke lokaler und regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.942174,
+                        57.718611
+                  ]
+            },
+            {
+                  "name": "Ålgården",
+                  "text": "Ein Künstlerzentrum und eine Galerie in einer historischen Mühle in Borås.",
+                  "category": "museum",
+                  "coords": [
+                        12.928645,
+                        57.734409
+                  ]
+            },
+            {
+                  "name": "Caroli kyrka",
+                  "text": "Die nach König Karl XI. benannte Caroli-Kirche ist das älteste Gebäude in Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.93949,
+                        57.722248
+                  ]
+            },
+            {
+                  "name": "Byttorpskyrkan",
+                  "text": "Moderne Kirche im Stadtteil Byttorp in Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.908808,
+                        57.724552
+                  ]
+            },
+            {
+                  "name": "Dammsvedjans kyrka",
+                  "text": "Lokaler Sakralbau im Gebiet Dammsvedjan in Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.946377,
+                        57.697436
+                  ]
+            },
+            {
+                  "name": "Hässleholmens kyrka",
+                  "text": "Modernes Kirchengebäude im Stadtteil Hässleholmen in Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.981968,
+                        57.729996
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kapell",
+                  "text": "Eine religiöse Kapelle in der Stadt Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.935864,
+                        57.717833
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Borås Konstmuseum",
+                  "text": "A Borås-i Művészeti Múzeum kortárs művészeti gyűjteményéről és szobrairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        12.948015,
+                        57.721328
+                  ]
+            },
+            {
+                  "name": "Textilmuseet",
+                  "text": "Borås-i múzeum, amely a város és a régió jelentős textilipari múltját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        12.937603,
+                        57.724911
+                  ]
+            },
+            {
+                  "name": "Folkan",
+                  "text": "Hagyományos színház- és rendezvényépület Boråsban.",
+                  "category": "cultural",
+                  "coords": [
+                        12.938935,
+                        57.724468
+                  ]
+            },
+            {
+                  "name": "Abecita Popkonst och Foto",
+                  "text": "Borås-i múzeum, amely a pop-artra és a kortárs fotográfiára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        12.942047,
+                        57.735127
+                  ]
+            },
+            {
+                  "name": "Biblioteksmuseet",
+                  "text": "Borås-i múzeum, amely a könyvtárak és az irodalom történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        12.945746,
+                        57.72143
+                  ]
+            },
+            {
+                  "name": "Borås Djurpark",
+                  "text": "Népszerű állatkert Boråsban, amely tágas kifutóiról és afrikai állatairól ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941157,
+                        57.740657
+                  ]
+            },
+            {
+                  "name": "Borås Museum",
+                  "text": "A Borås-i szabadtéri múzeum a régió történelmi épületeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.918082,
+                        57.721194
+                  ]
+            },
+            {
+                  "name": "Ryssby klint",
+                  "text": "Kilátópont Borås közelében, széles kilátással a svéd tájra.",
+                  "category": "natural",
+                  "coords": [
+                        12.912987,
+                        57.731731
+                  ]
+            },
+            {
+                  "name": "Hestra klint",
+                  "text": "Természetes kilátópont Borås közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.91089,
+                        57.729484
+                  ]
+            },
+            {
+                  "name": "Flaménska galleriet",
+                  "text": "Művészeti galéria Boråsban, amely helyi és regionális művészek alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        12.942174,
+                        57.718611
+                  ]
+            },
+            {
+                  "name": "Ålgården",
+                  "text": "Művészeti központ és galéria egy történelmi malomban Boråsban.",
+                  "category": "museum",
+                  "coords": [
+                        12.928645,
+                        57.734409
+                  ]
+            },
+            {
+                  "name": "Caroli kyrka",
+                  "text": "A XI. Károly királyról elnevezett Caroli-templom Borås legrégebbi épülete.",
+                  "category": "religious",
+                  "coords": [
+                        12.93949,
+                        57.722248
+                  ]
+            },
+            {
+                  "name": "Byttorpskyrkan",
+                  "text": "Modern templom Borås Byttorp városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        12.908808,
+                        57.724552
+                  ]
+            },
+            {
+                  "name": "Dammsvedjans kyrka",
+                  "text": "Helyi vallási hely Borås Dammsvedjan negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.946377,
+                        57.697436
+                  ]
+            },
+            {
+                  "name": "Hässleholmens kyrka",
+                  "text": "Modern építésű templom Borås Hässleholmen kerületében.",
+                  "category": "religious",
+                  "coords": [
+                        12.981968,
+                        57.729996
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kapell",
+                  "text": "Vallási célú kápolna Borås területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.935864,
+                        57.717833
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Borås Konstmuseum",
+                  "text": "Muzeul de Artă din Borås este cunoscut pentru colecția sa de artă contemporană și sculpturi.",
+                  "category": "museum",
+                  "coords": [
+                        12.948015,
+                        57.721328
+                  ]
+            },
+            {
+                  "name": "Textilmuseet",
+                  "text": "Un muzeu în Borås care documentează istoria textilă importantă a orașului și a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        12.937603,
+                        57.724911
+                  ]
+            },
+            {
+                  "name": "Folkan",
+                  "text": "O clădire tradițională de teatru și evenimente în Borås.",
+                  "category": "cultural",
+                  "coords": [
+                        12.938935,
+                        57.724468
+                  ]
+            },
+            {
+                  "name": "Abecita Popkonst och Foto",
+                  "text": "Un muzeu în Borås axat pe pop-art și fotografie contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        12.942047,
+                        57.735127
+                  ]
+            },
+            {
+                  "name": "Biblioteksmuseet",
+                  "text": "Un muzeu în Borås dedicat istoriei bibliotecilor și literaturii.",
+                  "category": "museum",
+                  "coords": [
+                        12.945746,
+                        57.72143
+                  ]
+            },
+            {
+                  "name": "Borås Djurpark",
+                  "text": "O grădină zoologică populară în Borås, cunoscută pentru incintele sale mari și animalele africane.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941157,
+                        57.740657
+                  ]
+            },
+            {
+                  "name": "Borås Museum",
+                  "text": "Muzeul în aer liber din Borås prezintă clădiri istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        12.918082,
+                        57.721194
+                  ]
+            },
+            {
+                  "name": "Ryssby klint",
+                  "text": "Un punct de belvedere lângă Borås, cu o vedere largă asupra peisajului suedez.",
+                  "category": "natural",
+                  "coords": [
+                        12.912987,
+                        57.731731
+                  ]
+            },
+            {
+                  "name": "Hestra klint",
+                  "text": "Un punct de belvedere natural în apropiere de Borås.",
+                  "category": "natural",
+                  "coords": [
+                        12.91089,
+                        57.729484
+                  ]
+            },
+            {
+                  "name": "Flaménska galleriet",
+                  "text": "O galerie de artă în Borås care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        12.942174,
+                        57.718611
+                  ]
+            },
+            {
+                  "name": "Ålgården",
+                  "text": "Un centru artistic și o galerie situate într-o moară istorică în Borås.",
+                  "category": "museum",
+                  "coords": [
+                        12.928645,
+                        57.734409
+                  ]
+            },
+            {
+                  "name": "Caroli kyrka",
+                  "text": "Biserica Caroli, numită după regele Carol al XI-lea, este cea mai veche clădire din Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.93949,
+                        57.722248
+                  ]
+            },
+            {
+                  "name": "Byttorpskyrkan",
+                  "text": "O biserică modernă situată în cartierul Byttorp din Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.908808,
+                        57.724552
+                  ]
+            },
+            {
+                  "name": "Dammsvedjans kyrka",
+                  "text": "Lăcaș de cult local în zona Dammsvedjan din Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.946377,
+                        57.697436
+                  ]
+            },
+            {
+                  "name": "Hässleholmens kyrka",
+                  "text": "Biserică cu arhitectură modernă în districtul Hässleholmen din Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.981968,
+                        57.729996
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kapell",
+                  "text": "O capelă religioasă situată în Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.935864,
+                        57.717833
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Borås Konstmuseum",
+                  "text": "Borås Art Museum is known for its collection of contemporary art and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        12.948015,
+                        57.721328
+                  ]
+            },
+            {
+                  "name": "Textilmuseet",
+                  "text": "A museum in Borås documenting the city and region's significant textile history.",
+                  "category": "museum",
+                  "coords": [
+                        12.937603,
+                        57.724911
+                  ]
+            },
+            {
+                  "name": "Folkan",
+                  "text": "A traditional theatre and event building in Borås.",
+                  "category": "cultural",
+                  "coords": [
+                        12.938935,
+                        57.724468
+                  ]
+            },
+            {
+                  "name": "Abecita Popkonst och Foto",
+                  "text": "A museum in Borås focusing on pop art and contemporary photography.",
+                  "category": "museum",
+                  "coords": [
+                        12.942047,
+                        57.735127
+                  ]
+            },
+            {
+                  "name": "Library museum",
+                  "text": "A museum in Borås dedicated to the history of libraries and literature.",
+                  "category": "museum",
+                  "coords": [
+                        12.945746,
+                        57.72143
+                  ]
+            },
+            {
+                  "name": "Borås Djurpark",
+                  "text": "A popular zoo in Borås known for its large enclosures and African animals.",
+                  "category": "recreational",
+                  "coords": [
+                        12.941157,
+                        57.740657
+                  ]
+            },
+            {
+                  "name": "Borås Museum",
+                  "text": "The open-air museum in Borås displays historical buildings from the region.",
+                  "category": "museum",
+                  "coords": [
+                        12.918082,
+                        57.721194
+                  ]
+            },
+            {
+                  "name": "Ryssby klint",
+                  "text": "A viewpoint near Borås with a wide view over the Swedish landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.912987,
+                        57.731731
+                  ]
+            },
+            {
+                  "name": "Hestra klint",
+                  "text": "A natural viewpoint located near Borås.",
+                  "category": "natural",
+                  "coords": [
+                        12.91089,
+                        57.729484
+                  ]
+            },
+            {
+                  "name": "Flaménska galleriet",
+                  "text": "An art gallery in Borås exhibiting works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        12.942174,
+                        57.718611
+                  ]
+            },
+            {
+                  "name": "Ålgården",
+                  "text": "An art center and gallery located in a historical mill in Borås.",
+                  "category": "museum",
+                  "coords": [
+                        12.928645,
+                        57.734409
+                  ]
+            },
+            {
+                  "name": "Caroli kyrka",
+                  "text": "Caroli Church, named after King Charles XI, is the oldest building in Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.93949,
+                        57.722248
+                  ]
+            },
+            {
+                  "name": "Byttorpskyrkan",
+                  "text": "A modern church located in the Byttorp district of Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.908808,
+                        57.724552
+                  ]
+            },
+            {
+                  "name": "Dammsvedjans kyrka",
+                  "text": "Local place of worship in the Dammsvedjan area of Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.946377,
+                        57.697436
+                  ]
+            },
+            {
+                  "name": "Hässleholmens kyrka",
+                  "text": "Modern church building in the Hässleholmen district of Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.981968,
+                        57.729996
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kapell",
+                  "text": "A religious chapel located in the city of Borås.",
+                  "category": "religious",
+                  "coords": [
+                        12.935864,
+                        57.717833
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Borås", hu: "Borås", ro: "Borås", en: "Borås"},
@@ -250,6 +2068,222 @@ imageHint: "Modern street art and sculptures in Borås city center",
                         16.518494,
                         59.372406
                   ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "Stadtmuseum zur Geschichte und industriellen Entwicklung von Eskilstuna.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Kunstmuseum mit schwedischer und internationaler Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "Ein Industriemuseum, das die Geschichte der Munktell-Maschinen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "Ein großes Naturschutzgebiet mit Wanderwegen und Wiesen.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "Ein Naturgebiet in der Nähe von Eskilstuna mit vielfältiger Flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "Historische Schmieden aus dem 17. Jahrhundert, heute ein lebendiges Museum.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "Ein historisches Theatergebäude für Aufführungen in Eskilstuna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "Ein Freilichtmuseum, das das ländliche Leben in Sörmland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "Eine Attraktion im Parken Zoo in Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Kamele im Zoo von Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "Ein klassisches Karussell für Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Leopardengehege im Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Tigergehege im Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Löwengehege im Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "Eine moderne Kirche in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Die älteste Kirche von Eskilstuna, die bis ins 11. Jahrhundert zurückreicht.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "Eine markante Kirche mit zwei Türmen in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Ein freikirchliches Gebäude in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Eine evangelische Kirche in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Eine christliche Gebetsstätte in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Eine historische Brücke über den Fluss Eskilstunaån.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Eine moderne Gemeindekirche in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Eine lokale Kirche in der Stadt Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Ein modernes Kirchengebäude in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
+                  ]
             }
       ],
       "hu": [
@@ -278,6 +2312,222 @@ imageHint: "Modern street art and sculptures in Borås city center",
                   "coords": [
                         16.518494,
                         59.372406
+                  ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "Eskilstuna történelmét és ipari fejlődését bemutató városi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Művészeti múzeum svéd és nemzetközi alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "A Munktell gépek történetét bemutató ipari múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "Nagy természetvédelmi terület túraútvonalakkal és rétekkel.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "Természeti terület Eskilstuna közelében, változatos flórával.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "17. századi történelmi kovácsműhelyek, ma élő múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "Történelmi színházépület Eskilstunában.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "A sörmlandi vidéki életet bemutató szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "Attrakció az eskilstunai Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Teve az eskilstunai állatkertben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "Klasszikus körhinta a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Leopárdkifutó a Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Tigriskifutó a Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Oroszlánkifutó a Parken Zooban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "Modern templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Eskilstuna legrégebbi temploma, amely a 11. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "Jellegzetes kétmilliós templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Szabadegyházi épület Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Evangélikus templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Keresztény imaház Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Történelmi híd az Eskilstunaån folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Modern egyházközségi templom Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Helyi templom Eskilstuna városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Modern templomépület Eskilstunában.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
                   ]
             }
       ],
@@ -308,6 +2558,222 @@ imageHint: "Modern street art and sculptures in Borås city center",
                         16.518494,
                         59.372406
                   ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "Muzeul orașului despre istoria și dezvoltarea industrială a orașului Eskilstuna.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Muzeu de artă care expune lucrări suedeze și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "Un muzeu industrial care prezintă istoria utilajelor Munktell.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "O rezervație naturală mare cu trasee de drumeție și pajiști.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "O zonă naturală lângă Eskilstuna cu o floră diversă.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "Forje istorice din secolul al XVII-lea, astăzi un muzeu viu.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "O clădire istorică de teatru pentru spectacole în Eskilstuna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "Un muzeu în aer liber care prezintă viața rurală din Sörmland.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "O atracție în Parken Zoo din Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Cămile la grădina zoologică din Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "Un carusel clasic pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Țarcul leopardului în Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Țarcul tigrului în Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Țarcul leului în Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "O biserică modernă în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Cea mai veche biserică din Eskilstuna, datând din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "O biserică proeminentă cu două turnuri în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "O clădire a bisericii libere în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "O biserică evanghelică în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Un lăcaș de cult creștin în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Un pod istoric peste râul Eskilstunaån.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "O biserică parohială modernă în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "O biserică locală în orașul Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "O clădire modernă de biserică în Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
+                  ]
             }
       ],
       "en": [
@@ -336,6 +2802,222 @@ imageHint: "Modern street art and sculptures in Borås city center",
                   "coords": [
                         16.518494,
                         59.372406
+                  ]
+            },
+            {
+                  "name": "Eskilstuna stadsmuseum",
+                  "text": "City museum detailing the history and industrial development of Eskilstuna.",
+                  "category": "museum",
+                  "coords": [
+                        16.509852,
+                        59.375144
+                  ]
+            },
+            {
+                  "name": "Eskilstuna konstmuseum",
+                  "text": "Art museum featuring Swedish and international works.",
+                  "category": "museum",
+                  "coords": [
+                        16.510649,
+                        59.37766
+                  ]
+            },
+            {
+                  "name": "Munktellmuseet",
+                  "text": "An industrial museum focusing on the history of Munktell machinery.",
+                  "category": "museum",
+                  "coords": [
+                        16.510108,
+                        59.376493
+                  ]
+            },
+            {
+                  "name": "Kronskogen-Stenby äng",
+                  "text": "A large nature reserve with hiking trails and meadows.",
+                  "category": "natural",
+                  "coords": [
+                        16.476689,
+                        59.364258
+                  ]
+            },
+            {
+                  "name": "Årby",
+                  "text": "A nature area near Eskilstuna with diverse flora.",
+                  "category": "natural",
+                  "coords": [
+                        16.519065,
+                        59.392546
+                  ]
+            },
+            {
+                  "name": "Rademachersmedjorna",
+                  "text": "Historic 17th-century smithies, now a living museum.",
+                  "category": "museum",
+                  "coords": [
+                        16.507853,
+                        59.374049
+                  ]
+            },
+            {
+                  "name": "Eskilstuna Teater",
+                  "text": "A historical theatre building for performances in Eskilstuna.",
+                  "category": "cultural",
+                  "coords": [
+                        16.51275,
+                        59.372979
+                  ]
+            },
+            {
+                  "name": "Sörmlandsgården",
+                  "text": "An open-air museum showing rural life in Sörmland.",
+                  "category": "museum",
+                  "coords": [
+                        16.536119,
+                        59.367324
+                  ]
+            },
+            {
+                  "name": "Tropikrally",
+                  "text": "An attraction at Parken Zoo in Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.482838,
+                        59.372431
+                  ]
+            },
+            {
+                  "name": "Kamel",
+                  "text": "Camels at the zoo in Eskilstuna.",
+                  "category": "landmark",
+                  "coords": [
+                        16.47638,
+                        59.369534
+                  ]
+            },
+            {
+                  "name": "Karusell",
+                  "text": "A classic carousel for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        16.484508,
+                        59.37244
+                  ]
+            },
+            {
+                  "name": "Leopard",
+                  "text": "Leopard enclosure at Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.478782,
+                        59.369902
+                  ]
+            },
+            {
+                  "name": "Tiger",
+                  "text": "Tiger enclosure at Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.48014,
+                        59.37043
+                  ]
+            },
+            {
+                  "name": "Lejon",
+                  "text": "Lion enclosure at Parken Zoo.",
+                  "category": "landmark",
+                  "coords": [
+                        16.481525,
+                        59.370121
+                  ]
+            },
+            {
+                  "name": "S:t Eskilskyrkan",
+                  "text": "A modern church in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.510105,
+                        59.365662
+                  ]
+            },
+            {
+                  "name": "Fors kyrka",
+                  "text": "Eskilstuna's oldest church, dating back to the 11th century.",
+                  "category": "religious",
+                  "coords": [
+                        16.516103,
+                        59.367335
+                  ]
+            },
+            {
+                  "name": "Klosters kyrka",
+                  "text": "A prominent church with twin towers in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.518392,
+                        59.374956
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "A free church building in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.509338,
+                        59.370518
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "An evangelical church in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.491106,
+                        59.392342
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "A Christian place of worship in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.542953,
+                        59.393329
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "A historic bridge over the Eskilstunaån river.",
+                  "category": "landmark",
+                  "coords": [
+                        16.515794,
+                        59.373441
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "A modern parish church in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.477799,
+                        59.356788
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "A local church in the city of Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.516811,
+                        59.359023
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A modern church building in Eskilstuna.",
+                  "category": "religious",
+                  "coords": [
+                        16.499485,
+                        59.357425
                   ]
             }
       ]
@@ -385,7 +3067,1384 @@ imageHint: "Eskilstuna city center river view",
     },
     image: "/poi-images/sweden-eskilstuna-cities-v2.webp",
 },  {
-    id: "sweden-gavle-cities-v2",
+    id: "sweden-gavle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gävle teater",
+                  "text": "Ein elegantes Theatergebäude in Gävle, das Ende des 19. Jahrhunderts erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        17.141622,
+                        60.677538
+                  ]
+            },
+            {
+                  "name": "Joe Hill-gården",
+                  "text": "Museum im Geburtshaus des berühmten Gewerkschaftsaktivisten Joe Hill.",
+                  "category": "museum",
+                  "coords": [
+                        17.149921,
+                        60.672172
+                  ]
+            },
+            {
+                  "name": "Schwedisches Eisenbahnmuseum",
+                  "text": "Das schwedische Nationalmuseum für Eisenbahngeschichte mit historischen Lokomotiven.",
+                  "category": "museum",
+                  "coords": [
+                        17.171114,
+                        60.661748
+                  ]
+            },
+            {
+                  "name": "Länsmuseet Gävleborg",
+                  "text": "Museum in Gävle, das Kunst und Kulturgeschichte der Region Gävleborg präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.150018,
+                        60.673784
+                  ]
+            },
+            {
+                  "name": "Gävle slott",
+                  "text": "Ein historisches Schloss in Gävle, das heute als Sitz des Provinzgouverneurs dient.",
+                  "category": "castle",
+                  "coords": [
+                        17.144158,
+                        60.672097
+                  ]
+            },
+            {
+                  "name": "Stenbäckens NVO",
+                  "text": "Ein geschütztes Naturgebiet in der Nähe von Gävle für Outdoor-Aktivitäten.",
+                  "category": "natural",
+                  "coords": [
+                        17.084074,
+                        60.673582
+                  ]
+            },
+            {
+                  "name": "Testeboåns delta",
+                  "text": "Ein ökologisch bedeutendes Flussdelta und Naturschutzgebiet bei Gävle.",
+                  "category": "natural",
+                  "coords": [
+                        17.173846,
+                        60.689102
+                  ]
+            },
+            {
+                  "name": "Sätraskogen",
+                  "text": "Ein stadtnahes Waldgebiet und Naturschutzgebiet für Erholungssuchende in Gävle.",
+                  "category": "natural",
+                  "coords": [
+                        17.126648,
+                        60.700356
+                  ]
+            },
+            {
+                  "name": "T-uddens naturreservat",
+                  "text": "Naturschutzgebiet an der Küste bei Gävle mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        17.192149,
+                        60.675616
+                  ]
+            },
+            {
+                  "name": "Konstcentrum",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in Gävle mit wechselnden Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        17.124879,
+                        60.672397
+                  ]
+            },
+            {
+                  "name": "Fjärran Höjderbadet",
+                  "text": "Ein beliebtes Erlebnisbad in Gävle mit verschiedenen Schwimmbecken und Wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        17.132123,
+                        60.664403
+                  ]
+            },
+            {
+                  "name": "Sveriges Fängelsemuseum",
+                  "text": "Museum, das sich mit der Geschichte des schwedischen Gefängniswesens befasst.",
+                  "category": "museum",
+                  "coords": [
+                        17.142988,
+                        60.671451
+                  ]
+            },
+            {
+                  "name": "Valls Hage",
+                  "text": "Ein weitläufiger Park und Arboretum in Gävle mit einer Vielfalt an Bäumen.",
+                  "category": "park",
+                  "coords": [
+                        17.11119,
+                        60.677274
+                  ]
+            },
+            {
+                  "name": "Kvarnparken",
+                  "text": "Ein kleiner, gepflegter Stadtpark in Gävle.",
+                  "category": "park",
+                  "coords": [
+                        17.135827,
+                        60.673051
+                  ]
+            },
+            {
+                  "name": "Storvetas Park",
+                  "text": "Eine Grünanlage in Gävle für Freizeit und Erholung.",
+                  "category": "park",
+                  "coords": [
+                        17.14821,
+                        60.672128
+                  ]
+            },
+            {
+                  "name": "Nobelparken",
+                  "text": "Ein nach Alfred Nobel benannter Park in Gävle.",
+                  "category": "park",
+                  "coords": [
+                        17.146796,
+                        60.668747
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "Gävles größter Stadtpark, inspiriert vom Bois de Boulogne in Paris.",
+                  "category": "park",
+                  "coords": [
+                        17.115498,
+                        60.672854
+                  ]
+            },
+            {
+                  "name": "Navigationsparken",
+                  "text": "Ein kleiner Park im Hafenbereich von Gävle.",
+                  "category": "park",
+                  "coords": [
+                        17.151143,
+                        60.668569
+                  ]
+            },
+            {
+                  "name": "Gamla stans krukmakeri",
+                  "text": "Ein Zentrum für Kunsthandwerk in der historischen Altstadt von Gävle.",
+                  "category": "cultural",
+                  "coords": [
+                        17.147869,
+                        60.673491
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "Ein Denkmal oder markantes Gebäude im Stadtgebiet von Gävle.",
+                  "category": "historical",
+                  "coords": [
+                        17.155331,
+                        60.672035
+                  ]
+            },
+            {
+                  "name": "Briggen Gerdas ankare",
+                  "text": "Ein Denkmal in Form eines Ankers, das an das Schiff Gerda erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        17.150777,
+                        60.674687
+                  ]
+            },
+            {
+                  "name": "Gävlebocken",
+                  "text": "Standort der berühmten riesigen Weihnachtenziege aus Stroh in Gävle.",
+                  "category": "historical",
+                  "coords": [
+                        17.144192,
+                        60.674987
+                  ]
+            },
+            {
+                  "name": "Svanar",
+                  "text": "Eine Skulptur in Gävle, die eine Gruppe von Schwänen darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        17.145854,
+                        60.673484
+                  ]
+            },
+            {
+                  "name": "Gasklockornas industriområde",
+                  "text": "Ein ehemaliges Industriegelände mit Gasometern, das heute für Kultur genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        17.179138,
+                        60.678296
+                  ]
+            },
+            {
+                  "name": "Tolvfors herrgård",
+                  "text": "Ein historisches Herrenhaus in Gävle, verbunden mit der örtlichen Eisenhütte.",
+                  "category": "historical",
+                  "coords": [
+                        17.113965,
+                        60.681231
+                  ]
+            },
+            {
+                  "name": "Soldatkyrkan",
+                  "text": "Eine historische Kultstätte in Gävle, bekannt als Soldatenkirche.",
+                  "category": "religious",
+                  "coords": [
+                        17.122823,
+                        60.670698
+                  ]
+            },
+            {
+                  "name": "Staffanskyrkan",
+                  "text": "Eine markante lutherische Kirche im Gävle-Viertel Brynäs.",
+                  "category": "religious",
+                  "coords": [
+                        17.162839,
+                        60.670781
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighets kyrka",
+                  "text": "Die evangelisch-lutherische Hauptkirche im Zentrum von Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.1381,
+                        60.672691
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Eine christliche Kirche der Missionsgemeinde in Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.15314,
+                        60.672885
+                  ]
+            },
+            {
+                  "name": "Rikets sal",
+                  "text": "Ein Versammlungsort der Zeugen Jehovas in der Stadt Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.153496,
+                        60.655025
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kyrka av Sista Dagars Heliga",
+                  "text": "Ein modernes Kirchengebäude der Heiligen der Letzten Tage in Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.162152,
+                        60.660387
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Eine lokale Kirche im Stadtteil Bomhus in Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.14545,
+                        60.658998
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Ein sakraler Ort der Andacht im Stadtgebiet von Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.115087,
+                        60.691597
+                  ]
+            },
+            {
+                  "name": "Tolvfors bruk",
+                  "text": "Ein gut erhaltenes historisches Eisenhüttengelände in Gävle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.10983,
+                        60.680747
+                  ]
+            },
+            {
+                  "name": "Hemlingby kyrka",
+                  "text": "Eine charmante Holzkirche im Naherholungsgebiet Hemlingby.",
+                  "category": "religious",
+                  "coords": [
+                        17.165983,
+                        60.656541
+                  ]
+            },
+            {
+                  "name": "Hedvigslundskyrkan",
+                  "text": "Ein modernes Kirchengebäude im Stadtteil Hedvigslund in Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.122856,
+                        60.66516
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Ein christliches Gotteshaus im Stadtzentrum von Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.140813,
+                        60.679556
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "Ein hölzerner Beobachtungsturm zur Vogelbeobachtung in Gävle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.190389,
+                        60.677786
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gävle teater",
+                  "text": "Elegáns színházépület Gävle városában, a 19. század végén épült.",
+                  "category": "cultural",
+                  "coords": [
+                        17.141622,
+                        60.677538
+                  ]
+            },
+            {
+                  "name": "Joe Hill-gården",
+                  "text": "Múzeum a híres szakszervezeti aktivista, Joe Hill szülőházában.",
+                  "category": "museum",
+                  "coords": [
+                        17.149921,
+                        60.672172
+                  ]
+            },
+            {
+                  "name": "Sveriges Järnvägsmuseum",
+                  "text": "Svédország nemzeti vasúttörténeti múzeuma történelmi mozdonyokkal.",
+                  "category": "museum",
+                  "coords": [
+                        17.171114,
+                        60.661748
+                  ]
+            },
+            {
+                  "name": "Länsmuseet Gävleborg",
+                  "text": "Gävlei múzeum, amely Gävleborg régió művészetét és kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.150018,
+                        60.673784
+                  ]
+            },
+            {
+                  "name": "Gävle slott",
+                  "text": "Történelmi kastély Gävle városában, amely ma a megyei kormányzó székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        17.144158,
+                        60.672097
+                  ]
+            },
+            {
+                  "name": "Stenbäckens NVO",
+                  "text": "Védett természeti terület Gävle közelében szabadtéri tevékenységekhez.",
+                  "category": "natural",
+                  "coords": [
+                        17.084074,
+                        60.673582
+                  ]
+            },
+            {
+                  "name": "Testeboåns delta",
+                  "text": "Ökológiailag jelentős folyódelta és természetvédelmi terület Gävle közelében.",
+                  "category": "natural",
+                  "coords": [
+                        17.173846,
+                        60.689102
+                  ]
+            },
+            {
+                  "name": "Sätraskogen",
+                  "text": "Városközeli erdő és természetvédelmi terület a kikapcsolódni vágyóknak Gävle városában.",
+                  "category": "natural",
+                  "coords": [
+                        17.126648,
+                        60.700356
+                  ]
+            },
+            {
+                  "name": "T-uddens naturreservat",
+                  "text": "Természetvédelmi terület Gävle partjainál, szép kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        17.192149,
+                        60.675616
+                  ]
+            },
+            {
+                  "name": "Konstcentrum",
+                  "text": "Kortárs művészeti központ Gävle városában, időszaki kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        17.124879,
+                        60.672397
+                  ]
+            },
+            {
+                  "name": "Fjärran Höjderbadet",
+                  "text": "Népszerű élményfürdő Gävle városában különféle medencékkel és wellnesszel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.132123,
+                        60.664403
+                  ]
+            },
+            {
+                  "name": "Sveriges Fängelsemuseum",
+                  "text": "Múzeum, amely a svéd börtönrendszer történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        17.142988,
+                        60.671451
+                  ]
+            },
+            {
+                  "name": "Valls Hage",
+                  "text": "Kiterjedt park és arborétum Gävle városában, különféle fákkal.",
+                  "category": "park",
+                  "coords": [
+                        17.11119,
+                        60.677274
+                  ]
+            },
+            {
+                  "name": "Kvarnparken",
+                  "text": "Kicsi, gondozott városi park Gävle városában.",
+                  "category": "park",
+                  "coords": [
+                        17.135827,
+                        60.673051
+                  ]
+            },
+            {
+                  "name": "Storvetas Park",
+                  "text": "Zöld terület Gävle városában szabadidőhöz és kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        17.14821,
+                        60.672128
+                  ]
+            },
+            {
+                  "name": "Nobelparken",
+                  "text": "Alfred Nobelről elnevezett park Gävle városában.",
+                  "category": "park",
+                  "coords": [
+                        17.146796,
+                        60.668747
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "Gävle legnagyobb városi parkja, amelyet a párizsi Bois de Boulogne ihletett.",
+                  "category": "park",
+                  "coords": [
+                        17.115498,
+                        60.672854
+                  ]
+            },
+            {
+                  "name": "Navigationsparken",
+                  "text": "Kicsi park Gävle kikötői negyedében.",
+                  "category": "park",
+                  "coords": [
+                        17.151143,
+                        60.668569
+                  ]
+            },
+            {
+                  "name": "Gamla stans krukmakeri",
+                  "text": "Kézműves központ Gävle történelmi óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        17.147869,
+                        60.673491
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "Emlékmű vagy jellegzetes épület Gävle városában.",
+                  "category": "historical",
+                  "coords": [
+                        17.155331,
+                        60.672035
+                  ]
+            },
+            {
+                  "name": "Briggen Gerdas ankare",
+                  "text": "Horgony alakú emlékmű, amely a Gerda nevű hajóra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        17.150777,
+                        60.674687
+                  ]
+            },
+            {
+                  "name": "Gävlebocken",
+                  "text": "A híres óriási szalmakecske, a Gävlebocken helyszíne Gävle városában.",
+                  "category": "historical",
+                  "coords": [
+                        17.144192,
+                        60.674987
+                  ]
+            },
+            {
+                  "name": "Svanar",
+                  "text": "Szobor Gävle városában, amely egy csoport hattyút ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        17.145854,
+                        60.673484
+                  ]
+            },
+            {
+                  "name": "Gasklockornas industriområde",
+                  "text": "Egykori ipari terület gáztartályokkal, amelyet ma kulturális célokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        17.179138,
+                        60.678296
+                  ]
+            },
+            {
+                  "name": "Tolvfors herrgård",
+                  "text": "Történelmi udvarház Gävle városában, amely a helyi vasgyárhoz kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        17.113965,
+                        60.681231
+                  ]
+            },
+            {
+                  "name": "Soldatkyrkan",
+                  "text": "Gävle történelmi temploma, amelyet katonák templomaként ismernek.",
+                  "category": "religious",
+                  "coords": [
+                        17.122823,
+                        60.670698
+                  ]
+            },
+            {
+                  "name": "Staffanskyrkan",
+                  "text": "Jellegzetes evangélikus templom Gävle Brynäs negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.162839,
+                        60.670781
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighets kyrka",
+                  "text": "Gävle központjának fő evangélikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        17.1381,
+                        60.672691
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "A missziós szövetség keresztény temploma Gävle városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.15314,
+                        60.672885
+                  ]
+            },
+            {
+                  "name": "Rikets sal",
+                  "text": "Jehova Tanúi gyülekezeti helye Gävle városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.153496,
+                        60.655025
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kyrka av Sista Dagars Heliga",
+                  "text": "Az Utolsó Napi Szentek modern egyházi épülete Gävle városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.162152,
+                        60.660387
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Helyi templom Gävle Bomhus negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.14545,
+                        60.658998
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Szakrális istentiszteleti hely Gävle városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.115087,
+                        60.691597
+                  ]
+            },
+            {
+                  "name": "Tolvfors bruk",
+                  "text": "Egy jól megőrzött történelmi vasmű területe Gävle városában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.10983,
+                        60.680747
+                  ]
+            },
+            {
+                  "name": "Hemlingby kyrka",
+                  "text": "Bájos fatemplom a Hemlingby szabadidős területen.",
+                  "category": "religious",
+                  "coords": [
+                        17.165983,
+                        60.656541
+                  ]
+            },
+            {
+                  "name": "Hedvigslundskyrkan",
+                  "text": "Modern egyházi épület Gävle Hedvigslund negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.122856,
+                        60.66516
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Keresztény istentiszteleti hely Gävle városközpontjában.",
+                  "category": "religious",
+                  "coords": [
+                        17.140813,
+                        60.679556
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "Fából készült kilátótorony madármegfigyeléshez Gävle területén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.190389,
+                        60.677786
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gävle teater",
+                  "text": "O clădire elegantă de teatru în Gävle, construită la sfârșitul secolului al XIX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        17.141622,
+                        60.677538
+                  ]
+            },
+            {
+                  "name": "Joe Hill-gården",
+                  "text": "Muzeu situat în casa natală a celebrului activist sindical Joe Hill.",
+                  "category": "museum",
+                  "coords": [
+                        17.149921,
+                        60.672172
+                  ]
+            },
+            {
+                  "name": "Sveriges Järnvägsmuseum",
+                  "text": "Muzeul național al istoriei feroviare din Suedia, cu locomotive istorice.",
+                  "category": "museum",
+                  "coords": [
+                        17.171114,
+                        60.661748
+                  ]
+            },
+            {
+                  "name": "Länsmuseet Gävleborg",
+                  "text": "Muzeu din Gävle care prezintă arta și istoria culturală a regiunii Gävleborg.",
+                  "category": "museum",
+                  "coords": [
+                        17.150018,
+                        60.673784
+                  ]
+            },
+            {
+                  "name": "Gävle slott",
+                  "text": "Un castel istoric din Gävle, care servește astăzi ca reședință a guvernatorului.",
+                  "category": "castle",
+                  "coords": [
+                        17.144158,
+                        60.672097
+                  ]
+            },
+            {
+                  "name": "Stenbäckens NVO",
+                  "text": "O zonă naturală protejată lângă Gävle pentru activități în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.084074,
+                        60.673582
+                  ]
+            },
+            {
+                  "name": "Testeboåns delta",
+                  "text": "O deltă fluvială importantă din punct de vedere ecologic și rezervație naturală lângă Gävle.",
+                  "category": "natural",
+                  "coords": [
+                        17.173846,
+                        60.689102
+                  ]
+            },
+            {
+                  "name": "Sätraskogen",
+                  "text": "O zonă forestieră și rezervație naturală aproape de oraș pentru recreere în Gävle.",
+                  "category": "natural",
+                  "coords": [
+                        17.126648,
+                        60.700356
+                  ]
+            },
+            {
+                  "name": "T-uddens naturreservat",
+                  "text": "Rezervație naturală pe coasta de lângă Gävle, cu vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        17.192149,
+                        60.675616
+                  ]
+            },
+            {
+                  "name": "Konstcentrum",
+                  "text": "Un centru pentru artă contemporană în Gävle, cu expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        17.124879,
+                        60.672397
+                  ]
+            },
+            {
+                  "name": "Fjärran Höjderbadet",
+                  "text": "Un parc acvatic popular în Gävle, cu diverse piscine și facilități wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        17.132123,
+                        60.664403
+                  ]
+            },
+            {
+                  "name": "Sveriges Fängelsemuseum",
+                  "text": "Muzeu care se ocupă cu istoria sistemului penitenciar suedez.",
+                  "category": "museum",
+                  "coords": [
+                        17.142988,
+                        60.671451
+                  ]
+            },
+            {
+                  "name": "Valls Hage",
+                  "text": "Un parc vast și arboretum în Gävle, cu o varietate de arbori.",
+                  "category": "park",
+                  "coords": [
+                        17.11119,
+                        60.677274
+                  ]
+            },
+            {
+                  "name": "Kvarnparken",
+                  "text": "Un parc municipal mic și bine întreținut în Gävle.",
+                  "category": "park",
+                  "coords": [
+                        17.135827,
+                        60.673051
+                  ]
+            },
+            {
+                  "name": "Storvetas Park",
+                  "text": "O zonă verde în Gävle pentru petrecerea timpului liber și recreere.",
+                  "category": "park",
+                  "coords": [
+                        17.14821,
+                        60.672128
+                  ]
+            },
+            {
+                  "name": "Nobelparken",
+                  "text": "Un parc din Gävle numit după Alfred Nobel.",
+                  "category": "park",
+                  "coords": [
+                        17.146796,
+                        60.668747
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "Cel mai mare parc din Gävle, inspirat de Bois de Boulogne din Paris.",
+                  "category": "park",
+                  "coords": [
+                        17.115498,
+                        60.672854
+                  ]
+            },
+            {
+                  "name": "Navigationsparken",
+                  "text": "Un parc mic în zona portuară din Gävle.",
+                  "category": "park",
+                  "coords": [
+                        17.151143,
+                        60.668569
+                  ]
+            },
+            {
+                  "name": "Gamla stans krukmakeri",
+                  "text": "Un centru de artizanat situat în orașul vechi istoric din Gävle.",
+                  "category": "cultural",
+                  "coords": [
+                        17.147869,
+                        60.673491
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "Un monument sau o clădire proeminentă în zona urbană Gävle.",
+                  "category": "historical",
+                  "coords": [
+                        17.155331,
+                        60.672035
+                  ]
+            },
+            {
+                  "name": "Briggen Gerdas ankare",
+                  "text": "Un monument sub formă de ancoră, dedicat navei Gerda.",
+                  "category": "historical",
+                  "coords": [
+                        17.150777,
+                        60.674687
+                  ]
+            },
+            {
+                  "name": "Gävlebocken",
+                  "text": "Locul unde este amplasată celebra capră uriașă de paie în Gävle.",
+                  "category": "historical",
+                  "coords": [
+                        17.144192,
+                        60.674987
+                  ]
+            },
+            {
+                  "name": "Svanar",
+                  "text": "O sculptură din Gävle care înfățișează un grup de lebede.",
+                  "category": "historical",
+                  "coords": [
+                        17.145854,
+                        60.673484
+                  ]
+            },
+            {
+                  "name": "Gasklockornas industriområde",
+                  "text": "O fostă zonă industrială cu gazometre, utilizată astăzi pentru cultură.",
+                  "category": "landmark",
+                  "coords": [
+                        17.179138,
+                        60.678296
+                  ]
+            },
+            {
+                  "name": "Tolvfors herrgård",
+                  "text": "Un conac istoric în Gävle, legat de topitoria de fier locală.",
+                  "category": "historical",
+                  "coords": [
+                        17.113965,
+                        60.681231
+                  ]
+            },
+            {
+                  "name": "Soldatkyrkan",
+                  "text": "O biserică istorică din Gävle, cunoscută sub numele de Biserica Soldaților.",
+                  "category": "religious",
+                  "coords": [
+                        17.122823,
+                        60.670698
+                  ]
+            },
+            {
+                  "name": "Staffanskyrkan",
+                  "text": "O biserică luterană proeminentă din cartierul Brynäs din Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.162839,
+                        60.670781
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighets kyrka",
+                  "text": "Biserica luterană principală din centrul orașului Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.1381,
+                        60.672691
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "O biserică creștină a pactului misionar din Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.15314,
+                        60.672885
+                  ]
+            },
+            {
+                  "name": "Rikets sal",
+                  "text": "Un lăcaș de cult al Martorilor lui Iehova din orașul Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.153496,
+                        60.655025
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kyrka av Sista Dagars Heliga",
+                  "text": "O clădire bisericească modernă a sfinților din ultimele zile în Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.162152,
+                        60.660387
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "O biserică locală din cartierul Bomhus din Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.14545,
+                        60.658998
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Un lăcaș sacru de cult în zona urbană a orașului Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.115087,
+                        60.691597
+                  ]
+            },
+            {
+                  "name": "Tolvfors bruk",
+                  "text": "Un sit istoric bine conservat al unei foste turnătorii de fier din Gävle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.10983,
+                        60.680747
+                  ]
+            },
+            {
+                  "name": "Hemlingby kyrka",
+                  "text": "O biserică fermecătoare din lemn în zona de recreere Hemlingby.",
+                  "category": "religious",
+                  "coords": [
+                        17.165983,
+                        60.656541
+                  ]
+            },
+            {
+                  "name": "Hedvigslundskyrkan",
+                  "text": "O clădire bisericească modernă în cartierul Hedvigslund din Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.122856,
+                        60.66516
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Un lăcaș de cult creștin în centrul orașului Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.140813,
+                        60.679556
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "Un turn de observație din lemn pentru observarea păsărilor în Gävle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.190389,
+                        60.677786
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gävle teater",
+                  "text": "An elegant theatre building in Gävle, built in the late 19th century.",
+                  "category": "cultural",
+                  "coords": [
+                        17.141622,
+                        60.677538
+                  ]
+            },
+            {
+                  "name": "Joe Hill-gården",
+                  "text": "Museum located in the birthplace of the famous labor activist Joe Hill.",
+                  "category": "museum",
+                  "coords": [
+                        17.149921,
+                        60.672172
+                  ]
+            },
+            {
+                  "name": "Swedish Railway Museum",
+                  "text": "The Swedish national museum of railway history featuring historical locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        17.171114,
+                        60.661748
+                  ]
+            },
+            {
+                  "name": "Gävleborg County Museum",
+                  "text": "Museum in Gävle presenting the art and cultural history of the Gävleborg region.",
+                  "category": "museum",
+                  "coords": [
+                        17.150018,
+                        60.673784
+                  ]
+            },
+            {
+                  "name": "Gävle slott",
+                  "text": "A historical castle in Gävle that now serves as the residence of the county governor.",
+                  "category": "castle",
+                  "coords": [
+                        17.144158,
+                        60.672097
+                  ]
+            },
+            {
+                  "name": "Stenbäckens NVO",
+                  "text": "A protected nature area near Gävle for outdoor activities.",
+                  "category": "natural",
+                  "coords": [
+                        17.084074,
+                        60.673582
+                  ]
+            },
+            {
+                  "name": "Testeboåns delta",
+                  "text": "An ecologically significant river delta and nature reserve near Gävle.",
+                  "category": "natural",
+                  "coords": [
+                        17.173846,
+                        60.689102
+                  ]
+            },
+            {
+                  "name": "Sätraskogen",
+                  "text": "A forest area and nature reserve near the city for recreation in Gävle.",
+                  "category": "natural",
+                  "coords": [
+                        17.126648,
+                        60.700356
+                  ]
+            },
+            {
+                  "name": "T-uddens naturreservat",
+                  "text": "Nature reserve on the coast near Gävle with beautiful views.",
+                  "category": "natural",
+                  "coords": [
+                        17.192149,
+                        60.675616
+                  ]
+            },
+            {
+                  "name": "Konstcentrum",
+                  "text": "A center for contemporary art in Gävle featuring rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        17.124879,
+                        60.672397
+                  ]
+            },
+            {
+                  "name": "Fjärran Höjderbadet",
+                  "text": "A popular water park in Gävle with various pools and wellness facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        17.132123,
+                        60.664403
+                  ]
+            },
+            {
+                  "name": "Sveriges Fängelsemuseum",
+                  "text": "Museum dealing with the history of the Swedish prison system.",
+                  "category": "museum",
+                  "coords": [
+                        17.142988,
+                        60.671451
+                  ]
+            },
+            {
+                  "name": "Valls Hage",
+                  "text": "A spacious park and arboretum in Gävle with a variety of trees.",
+                  "category": "park",
+                  "coords": [
+                        17.11119,
+                        60.677274
+                  ]
+            },
+            {
+                  "name": "Kvarnparken",
+                  "text": "A small, well-maintained city park in Gävle.",
+                  "category": "park",
+                  "coords": [
+                        17.135827,
+                        60.673051
+                  ]
+            },
+            {
+                  "name": "Storvetas Park",
+                  "text": "A green space in Gävle for leisure and recreation.",
+                  "category": "park",
+                  "coords": [
+                        17.14821,
+                        60.672128
+                  ]
+            },
+            {
+                  "name": "Nobelparken",
+                  "text": "A park in Gävle named after Alfred Nobel.",
+                  "category": "park",
+                  "coords": [
+                        17.146796,
+                        60.668747
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "Gävle's largest city park, inspired by the Bois de Boulogne in Paris.",
+                  "category": "park",
+                  "coords": [
+                        17.115498,
+                        60.672854
+                  ]
+            },
+            {
+                  "name": "Navigationsparken",
+                  "text": "A small park in the harbor area of Gävle.",
+                  "category": "park",
+                  "coords": [
+                        17.151143,
+                        60.668569
+                  ]
+            },
+            {
+                  "name": "Gamla stans krukmakeri",
+                  "text": "An arts and crafts centre located in Gävle's historical old town.",
+                  "category": "cultural",
+                  "coords": [
+                        17.147869,
+                        60.673491
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "A monument or prominent building in the Gävle urban area.",
+                  "category": "historical",
+                  "coords": [
+                        17.155331,
+                        60.672035
+                  ]
+            },
+            {
+                  "name": "Briggen Gerdas ankare",
+                  "text": "A monument in the shape of an anchor, commemorating the ship Gerda.",
+                  "category": "historical",
+                  "coords": [
+                        17.150777,
+                        60.674687
+                  ]
+            },
+            {
+                  "name": "Gävlebocken",
+                  "text": "The site of the famous giant straw Christmas goat in Gävle.",
+                  "category": "historical",
+                  "coords": [
+                        17.144192,
+                        60.674987
+                  ]
+            },
+            {
+                  "name": "Svanar",
+                  "text": "A sculpture in Gävle depicting a group of swans.",
+                  "category": "historical",
+                  "coords": [
+                        17.145854,
+                        60.673484
+                  ]
+            },
+            {
+                  "name": "Gasklockornas industriområde",
+                  "text": "A former industrial site with gasometers, now used for culture.",
+                  "category": "landmark",
+                  "coords": [
+                        17.179138,
+                        60.678296
+                  ]
+            },
+            {
+                  "name": "Tolvfors herrgård",
+                  "text": "A historical manor in Gävle associated with the local ironworks.",
+                  "category": "historical",
+                  "coords": [
+                        17.113965,
+                        60.681231
+                  ]
+            },
+            {
+                  "name": "Soldatkyrkan",
+                  "text": "A historic place of worship in Gävle, known as the Soldier's Church.",
+                  "category": "religious",
+                  "coords": [
+                        17.122823,
+                        60.670698
+                  ]
+            },
+            {
+                  "name": "Staffanskyrkan",
+                  "text": "A prominent Lutheran church in the Brynäs district of Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.162839,
+                        60.670781
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighets kyrka",
+                  "text": "The main Lutheran church located in central Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.1381,
+                        60.672691
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "A Christian church of the Mission Covenant in Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.15314,
+                        60.672885
+                  ]
+            },
+            {
+                  "name": "Rikets sal",
+                  "text": "A place of assembly for Jehovah's Witnesses in Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.153496,
+                        60.655025
+                  ]
+            },
+            {
+                  "name": "Jesu Kristi Kyrka av Sista Dagars Heliga",
+                  "text": "A modern church building of the Latter-day Saints in Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.162152,
+                        60.660387
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "A local church situated in the Bomhus district of Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.14545,
+                        60.658998
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "A sacred place of worship within the urban area of Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.115087,
+                        60.691597
+                  ]
+            },
+            {
+                  "name": "Tolvfors bruk",
+                  "text": "A well-preserved historical ironworks site in Gävle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.10983,
+                        60.680747
+                  ]
+            },
+            {
+                  "name": "Hemlingby kyrka",
+                  "text": "A charming wooden church located in the Hemlingby recreation area.",
+                  "category": "religious",
+                  "coords": [
+                        17.165983,
+                        60.656541
+                  ]
+            },
+            {
+                  "name": "Hedvigslundskyrkan",
+                  "text": "A modern church building in the Hedvigslund district of Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.122856,
+                        60.66516
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "A Christian house of worship in the city center of Gävle.",
+                  "category": "religious",
+                  "coords": [
+                        17.140813,
+                        60.679556
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "A wooden observation tower for birdwatching in Gävle.",
+                  "category": "landmark",
+                  "coords": [
+                        17.190389,
+                        60.677786
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Gävle", hu: "Gävle", ro: "Gävle", en: "Gävle"},
@@ -431,7 +4490,412 @@ imageHint: "Giant straw Gävle Goat in the snowy city square",
     },
     image: "/poi-images/sweden-gavle-cities-v2.webp",
 },  {
-    id: "sweden-vaxjo-cities-v2",
+    id: "sweden-vaxjo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Växjö Teater",
+                  "text": "Eines der ältesten Provinztheater Schwedens im Zentrum von Växjö.",
+                  "category": "cultural",
+                  "coords": [
+                        14.803483,
+                        56.879861
+                  ]
+            },
+            {
+                  "name": "Utvandrarnas hus",
+                  "text": "Ein Institut und Archiv in Växjö, das der Geschichte der schwedischen Auswanderung nach Nordamerika gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.808832,
+                        56.875604
+                  ]
+            },
+            {
+                  "name": "Smålands Museum",
+                  "text": "Schwedens ältestes Provinzmuseum, bekannt für seine umfangreiche Glassammlung.",
+                  "category": "museum",
+                  "coords": [
+                        14.807317,
+                        56.875765
+                  ]
+            },
+            {
+                  "name": "Teleborgs slott",
+                  "text": "Ein romantisches Schloss aus dem späten 19. Jahrhundert in Växjö, das heute als Hotel und Veranstaltungsort genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        14.83419,
+                        56.857146
+                  ]
+            },
+            {
+                  "name": "Kampa pelare",
+                  "text": "Ein Denkmal in der Stadt Växjö.",
+                  "category": "historical",
+                  "coords": [
+                        14.814283,
+                        56.86976
+                  ]
+            },
+            {
+                  "name": "Högstorps kyrka",
+                  "text": "Lokale Pfarrkirche im Stadtteil Högstorp in Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.840656,
+                        56.87714
+                  ]
+            },
+            {
+                  "name": "Teleborgs kyrka",
+                  "text": "Moderne Kirche im Stadtteil Teleborg in Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.818238,
+                        56.853977
+                  ]
+            },
+            {
+                  "name": "Växjö Domkyrka",
+                  "text": "Der markante Dom von Växjö mit seinen zwei Türmen ist ein Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.812133,
+                        56.877399
+                  ]
+            },
+            {
+                  "name": "Skogslyckans kyrka",
+                  "text": "Ein Kirchengebäude auf einem Friedhof in Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.813061,
+                        56.889547
+                  ]
+            },
+            {
+                  "name": "Västrabokyrkan",
+                  "text": "Lokaler Sakralbau für die Gemeinde in Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.784489,
+                        56.884206
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Ein modernes religiöses Gebäude in der Stadt Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.800373,
+                        56.900137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Växjö Teater",
+                  "text": "Svédország egyik legrégebbi vidéki színházépülete Växjö központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.803483,
+                        56.879861
+                  ]
+            },
+            {
+                  "name": "Utvandrarnas hus",
+                  "text": "A svéd kivándorlás történetét bemutató intézet és levéltár Växjöben.",
+                  "category": "museum",
+                  "coords": [
+                        14.808832,
+                        56.875604
+                  ]
+            },
+            {
+                  "name": "Smålands Museum",
+                  "text": "Svédország legrégebbi tartományi múzeuma, amely híres üveggyűjteményéről.",
+                  "category": "museum",
+                  "coords": [
+                        14.807317,
+                        56.875765
+                  ]
+            },
+            {
+                  "name": "Teleborgs slott",
+                  "text": "A 19. század végén épült romantikus stílusú kastély Växjöben, ma szálloda és rendezvényhelyszín.",
+                  "category": "castle",
+                  "coords": [
+                        14.83419,
+                        56.857146
+                  ]
+            },
+            {
+                  "name": "Kampa pelare",
+                  "text": "Emlékmű Växjö városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.814283,
+                        56.86976
+                  ]
+            },
+            {
+                  "name": "Högstorps kyrka",
+                  "text": "Helyi plébániatemplom Växjö Högstorp városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        14.840656,
+                        56.87714
+                  ]
+            },
+            {
+                  "name": "Teleborgs kyrka",
+                  "text": "Modern templom Växjö Teleborg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        14.818238,
+                        56.853977
+                  ]
+            },
+            {
+                  "name": "Växjö Domkyrka",
+                  "text": "Växjö kéttornyú székesegyháza a város egyik legfontosabb jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        14.812133,
+                        56.877399
+                  ]
+            },
+            {
+                  "name": "Skogslyckans kyrka",
+                  "text": "Temetői templom Växjöben.",
+                  "category": "religious",
+                  "coords": [
+                        14.813061,
+                        56.889547
+                  ]
+            },
+            {
+                  "name": "Västrabokyrkan",
+                  "text": "Helyi vallási közösségi hely Växjöben.",
+                  "category": "religious",
+                  "coords": [
+                        14.784489,
+                        56.884206
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Modern vallási épület Växjö városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.800373,
+                        56.900137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Växjö Teater",
+                  "text": "Una dintre cele mai vechi clădiri de teatru din Suedia, situată în Växjö.",
+                  "category": "cultural",
+                  "coords": [
+                        14.803483,
+                        56.879861
+                  ]
+            },
+            {
+                  "name": "Utvandrarnas hus",
+                  "text": "Institut și arhivă dedicată istoriei emigrării suedeze în America de Nord, situat în Växjö.",
+                  "category": "museum",
+                  "coords": [
+                        14.808832,
+                        56.875604
+                  ]
+            },
+            {
+                  "name": "Smålands Museum",
+                  "text": "Cel mai vechi muzeu provincial din Suedia, renumit pentru colecția sa de sticlărie.",
+                  "category": "museum",
+                  "coords": [
+                        14.807317,
+                        56.875765
+                  ]
+            },
+            {
+                  "name": "Teleborgs slott",
+                  "text": "Un castel romantic de la sfârșitul secolului al XIX-al, care servește astăzi ca hotel și centru de evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        14.83419,
+                        56.857146
+                  ]
+            },
+            {
+                  "name": "Kampa pelare",
+                  "text": "Un monument situat în orașul Växjö.",
+                  "category": "historical",
+                  "coords": [
+                        14.814283,
+                        56.86976
+                  ]
+            },
+            {
+                  "name": "Högstorps kyrka",
+                  "text": "Biserică parohială locală în cartierul Högstorp din Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.840656,
+                        56.87714
+                  ]
+            },
+            {
+                  "name": "Teleborgs kyrka",
+                  "text": "Biserică modernă situată în districtul Teleborg din Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.818238,
+                        56.853977
+                  ]
+            },
+            {
+                  "name": "Växjö Domkyrka",
+                  "text": "Catedrala din Växjö, cu cele două turnuri distinctive, este un simbol al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        14.812133,
+                        56.877399
+                  ]
+            },
+            {
+                  "name": "Skogslyckans kyrka",
+                  "text": "O biserică situată în cimitirul din Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.813061,
+                        56.889547
+                  ]
+            },
+            {
+                  "name": "Västrabokyrkan",
+                  "text": "Lăcaș de cult local situat în Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.784489,
+                        56.884206
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "O clădire religioasă modernă în orașul Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.800373,
+                        56.900137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Växjö Teater",
+                  "text": "One of Sweden's oldest provincial theater buildings, located in central Växjö.",
+                  "category": "cultural",
+                  "coords": [
+                        14.803483,
+                        56.879861
+                  ]
+            },
+            {
+                  "name": "Emigrant Institute",
+                  "text": "An institute and archive dedicated to the history of Swedish emigration to North America, based in Växjö.",
+                  "category": "museum",
+                  "coords": [
+                        14.808832,
+                        56.875604
+                  ]
+            },
+            {
+                  "name": "Museum of Småland",
+                  "text": "Sweden's oldest provincial museum, famous for its extensive glass collection.",
+                  "category": "museum",
+                  "coords": [
+                        14.807317,
+                        56.875765
+                  ]
+            },
+            {
+                  "name": "Teleborg's Castle",
+                  "text": "A romantic late 19th-century castle in Växjö, now used as a hotel and event venue.",
+                  "category": "castle",
+                  "coords": [
+                        14.83419,
+                        56.857146
+                  ]
+            },
+            {
+                  "name": "Kampa pelare",
+                  "text": "A monument located in the city of Växjö.",
+                  "category": "historical",
+                  "coords": [
+                        14.814283,
+                        56.86976
+                  ]
+            },
+            {
+                  "name": "Högstorps kyrka",
+                  "text": "Local parish church in the Högstorp district of Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.840656,
+                        56.87714
+                  ]
+            },
+            {
+                  "name": "Teleborgs kyrka",
+                  "text": "Modern church located in the Teleborg district of Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.818238,
+                        56.853977
+                  ]
+            },
+            {
+                  "name": "Växjö Domkyrka",
+                  "text": "Växjö's prominent cathedral with its two towers is a landmark of the city.",
+                  "category": "religious",
+                  "coords": [
+                        14.812133,
+                        56.877399
+                  ]
+            },
+            {
+                  "name": "Skogslyckans kyrka",
+                  "text": "A church building located at a cemetery in Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.813061,
+                        56.889547
+                  ]
+            },
+            {
+                  "name": "Västrabokyrkan",
+                  "text": "Local place of worship serving the community in Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.784489,
+                        56.884206
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "A modern religious building in the city of Växjö.",
+                  "category": "religious",
+                  "coords": [
+                        14.800373,
+                        56.900137
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Växjö", hu: "Växjö", ro: "Växjö", en: "Växjö"},
@@ -477,7 +4941,772 @@ imageHint: "Växjö Cathedral with its unique twin towers",
     },
     image: "/poi-images/sweden-vaxjo-cities-v2.webp",
 },  {
-    id: "sweden-sodertalje-cities-v2",
+    id: "sweden-sodertalje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tom Tits Experiment",
+                  "text": "Ein interaktives Wissenschaftszentrum in Södertälje für alle Altersgruppen.",
+                  "category": "museum",
+                  "coords": [
+                        17.622771,
+                        59.200158
+                  ]
+            },
+            {
+                  "name": "Oktoberteatern",
+                  "text": "Ein professionelles Theater in Södertälje mit Fokus auf gesellschaftskritische Stücke.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628921,
+                        59.195015
+                  ]
+            },
+            {
+                  "name": "Lina",
+                  "text": "Ein Naturschutzgebiet in Södertälje mit Wäldern und Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        17.582338,
+                        59.223621
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Naturkundemuseum in Södertälje, das die regionale Flora und Fauna zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.63496,
+                        59.199578
+                  ]
+            },
+            {
+                  "name": "Sydpoolen",
+                  "text": "Ein großer Indoor-Wasserpark und Sportkomplex in Södertälje.",
+                  "category": "recreational",
+                  "coords": [
+                        17.6355,
+                        59.189739
+                  ]
+            },
+            {
+                  "name": "Telge hus",
+                  "text": "Ruinen einer mittelalterlichen Burg auf der Insel Slottsholmen in Södertälje.",
+                  "category": "historical",
+                  "coords": [
+                        17.609973,
+                        59.218114
+                  ]
+            },
+            {
+                  "name": "Torekällbergets friluftmuseum",
+                  "text": "Freilichtmuseum in Södertälje, das das Stadtleben im 19. Jahrhundert zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616008,
+                        59.191671
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "Der zentrale Stadtpark von Södertälje, ideal für Erholung.",
+                  "category": "park",
+                  "coords": [
+                        17.628205,
+                        59.192093
+                  ]
+            },
+            {
+                  "name": "Galleri Kretsen",
+                  "text": "Eine Kunstgalerie in Södertälje, die zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.629743,
+                        59.195991
+                  ]
+            },
+            {
+                  "name": "Nora kvarn",
+                  "text": "Eine historische Windmühle im Stadtgebiet von Södertälje.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616963,
+                        59.192435
+                  ]
+            },
+            {
+                  "name": "Saltskog gård",
+                  "text": "Kulturzentrum in einem historischen Herrenhof in Södertälje.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628858,
+                        59.178503
+                  ]
+            },
+            {
+                  "name": "Sankta Ragnhilds kyrka",
+                  "text": "Die Hauptkirche von Södertälje, deren Ursprünge bis ins Mittelalter zurückreichen.",
+                  "category": "religious",
+                  "coords": [
+                        17.626187,
+                        59.19846
+                  ]
+            },
+            {
+                  "name": "Södertälje stadshus",
+                  "text": "Das moderne Verwaltungsgebäude und Rathaus der Stadt Södertälje.",
+                  "category": "historical",
+                  "coords": [
+                        17.62496,
+                        59.191268
+                  ]
+            },
+            {
+                  "name": "Brunnsängs kyrka",
+                  "text": "Eine moderne Kirche im Stadtteil Brunnsäng in Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.634791,
+                        59.212147
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars katolska kyrka",
+                  "text": "Eine katholische Kirche in Södertälje, gewidmet dem heiligen Ansgar.",
+                  "category": "religious",
+                  "coords": [
+                        17.629189,
+                        59.200972
+                  ]
+            },
+            {
+                  "name": "Alla Helgons kyrka",
+                  "text": "Eine der Schwedischen Kirche zugehörige Allerheiligenkirche in Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.664288,
+                        59.18481
+                  ]
+            },
+            {
+                  "name": "Sankt Afrem syrianska ortodoxa kyrka",
+                  "text": "Syrisch-orthodoxe Kathedrale in Södertälje, ein wichtiges religiöses Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        17.577424,
+                        59.196465
+                  ]
+            },
+            {
+                  "name": "S:t Tomas kyrka",
+                  "text": "Eine syrisch-orthodoxe Kirche im Stadtgebiet von Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.601282,
+                        59.209391
+                  ]
+            },
+            {
+                  "name": "Lina kyrka",
+                  "text": "Eine moderne Gemeindekirche im Stadtteil Lina in Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.602101,
+                        59.2111
+                  ]
+            },
+            {
+                  "name": "Saltsjöbron",
+                  "text": "Eine Klappbrücke, die den Södertälje-Kanal im Stadtzentrum überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.642329,
+                        59.184991
+                  ]
+            },
+            {
+                  "name": "Mälarbron",
+                  "text": "Eine wichtige Straßenbrücke über den Södertälje-Kanal.",
+                  "category": "landmark",
+                  "coords": [
+                        17.627991,
+                        59.199843
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tom Tits Experiment",
+                  "text": "Interaktív tudományos központ Södertäljében minden korosztály számára.",
+                  "category": "museum",
+                  "coords": [
+                        17.622771,
+                        59.200158
+                  ]
+            },
+            {
+                  "name": "Oktoberteatern",
+                  "text": "Södertälje professzionális színháza, amely társadalomkritikai darabjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628921,
+                        59.195015
+                  ]
+            },
+            {
+                  "name": "Lina",
+                  "text": "Természetvédelmi terület Södertälje mellett, erdőkkel és túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        17.582338,
+                        59.223621
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Természettudományi múzeum Södertälje városában, amely a helyi élővilágot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.63496,
+                        59.199578
+                  ]
+            },
+            {
+                  "name": "Sydpoolen",
+                  "text": "Nagy fedett vízi park és sportkomplexum Södertälje városában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.6355,
+                        59.189739
+                  ]
+            },
+            {
+                  "name": "Telge hus",
+                  "text": "Egy középkori vár romjai Södertälje városában, a Slottsholmen-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        17.609973,
+                        59.218114
+                  ]
+            },
+            {
+                  "name": "Torekällbergets friluftmuseum",
+                  "text": "Szabadtéri múzeum Södertäljében, amely a 19. századi városi életet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616008,
+                        59.191671
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "Södertälje központi városi parkja, amely kiváló kikapcsolódási helyszín.",
+                  "category": "park",
+                  "coords": [
+                        17.628205,
+                        59.192093
+                  ]
+            },
+            {
+                  "name": "Galleri Kretsen",
+                  "text": "Művészeti galéria Södertäljében, amely kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.629743,
+                        59.195991
+                  ]
+            },
+            {
+                  "name": "Nora kvarn",
+                  "text": "Történelmi szélmalom Södertälje városi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616963,
+                        59.192435
+                  ]
+            },
+            {
+                  "name": "Saltskog gård",
+                  "text": "Kulturális központ egy történelmi udvarházban Södertälje mellett.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628858,
+                        59.178503
+                  ]
+            },
+            {
+                  "name": "Sankta Ragnhilds kyrka",
+                  "text": "Södertälje főtemploma, amelynek eredete a középkorig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        17.626187,
+                        59.19846
+                  ]
+            },
+            {
+                  "name": "Södertälje stadshus",
+                  "text": "Södertälje modern városházája és közigazgatási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        17.62496,
+                        59.191268
+                  ]
+            },
+            {
+                  "name": "Brunnsängs kyrka",
+                  "text": "Modern templom Södertälje Brunnsäng negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.634791,
+                        59.212147
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars katolska kyrka",
+                  "text": "Södertälje katolikus temploma, amelyet Szent Ansgar tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        17.629189,
+                        59.200972
+                  ]
+            },
+            {
+                  "name": "Alla Helgons kyrka",
+                  "text": "A Svéd Egyházhoz tartozó Mindenszentek temploma Södertäljében.",
+                  "category": "religious",
+                  "coords": [
+                        17.664288,
+                        59.18481
+                  ]
+            },
+            {
+                  "name": "Sankt Afrem syrianska ortodoxa kyrka",
+                  "text": "Szír ortodox székesegyház Södertäljében, amely fontos vallási központ.",
+                  "category": "religious",
+                  "coords": [
+                        17.577424,
+                        59.196465
+                  ]
+            },
+            {
+                  "name": "S:t Tomas kyrka",
+                  "text": "Szír ortodox templom Södertälje városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        17.601282,
+                        59.209391
+                  ]
+            },
+            {
+                  "name": "Lina kyrka",
+                  "text": "Modern egyházközségi templom Södertälje Lina negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.602101,
+                        59.2111
+                  ]
+            },
+            {
+                  "name": "Saltsjöbron",
+                  "text": "A Södertälje-csatornát átívelő felnyitható híd a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.642329,
+                        59.184991
+                  ]
+            },
+            {
+                  "name": "Mälarbron",
+                  "text": "Fontos közúti híd, amely a Södertälje-csatorna felett halad át.",
+                  "category": "landmark",
+                  "coords": [
+                        17.627991,
+                        59.199843
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tom Tits Experiment",
+                  "text": "Un centru de știință interactiv în Södertälje pentru toate vârstele.",
+                  "category": "museum",
+                  "coords": [
+                        17.622771,
+                        59.200158
+                  ]
+            },
+            {
+                  "name": "Oktoberteatern",
+                  "text": "Un teatru profesionist din Södertälje, cunoscut pentru piesele sale cu mesaj social.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628921,
+                        59.195015
+                  ]
+            },
+            {
+                  "name": "Lina",
+                  "text": "O rezervație naturală în Södertälje, cu păduri și trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        17.582338,
+                        59.223621
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Muzeu de istorie naturală din Södertälje, care prezintă flora și fauna regională.",
+                  "category": "museum",
+                  "coords": [
+                        17.63496,
+                        59.199578
+                  ]
+            },
+            {
+                  "name": "Sydpoolen",
+                  "text": "Un parc acvatic interior și complex sportiv de mari dimensiuni în Södertälje.",
+                  "category": "recreational",
+                  "coords": [
+                        17.6355,
+                        59.189739
+                  ]
+            },
+            {
+                  "name": "Telge hus",
+                  "text": "Ruinele unui castel medieval situat pe insula Slottsholmen din Södertälje.",
+                  "category": "historical",
+                  "coords": [
+                        17.609973,
+                        59.218114
+                  ]
+            },
+            {
+                  "name": "Torekällbergets friluftmuseum",
+                  "text": "Muzeu în aer liber din Södertälje, care ilustrează viața orașului în secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616008,
+                        59.191671
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "Parcul central al orașului Södertälje, ideal pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        17.628205,
+                        59.192093
+                  ]
+            },
+            {
+                  "name": "Galleri Kretsen",
+                  "text": "O galerie de artă în Södertälje, care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        17.629743,
+                        59.195991
+                  ]
+            },
+            {
+                  "name": "Nora kvarn",
+                  "text": "O moară de vânt istorică situată în zona urbană a orașului Södertälje.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616963,
+                        59.192435
+                  ]
+            },
+            {
+                  "name": "Saltskog gård",
+                  "text": "Centru cultural situat într-un conac istoric din Södertälje.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628858,
+                        59.178503
+                  ]
+            },
+            {
+                  "name": "Sankta Ragnhilds kyrka",
+                  "text": "Biserica principală din Södertälje, cu origini ce datează din Evul Mediu.",
+                  "category": "religious",
+                  "coords": [
+                        17.626187,
+                        59.19846
+                  ]
+            },
+            {
+                  "name": "Södertälje stadshus",
+                  "text": "Clădirea administrativă modernă și primăria orașului Södertälje.",
+                  "category": "historical",
+                  "coords": [
+                        17.62496,
+                        59.191268
+                  ]
+            },
+            {
+                  "name": "Brunnsängs kyrka",
+                  "text": "O biserică modernă situată în districtul Brunnsäng din Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.634791,
+                        59.212147
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars katolska kyrka",
+                  "text": "O biserică catolică din Södertälje, dedicată Sfântului Ansgar.",
+                  "category": "religious",
+                  "coords": [
+                        17.629189,
+                        59.200972
+                  ]
+            },
+            {
+                  "name": "Alla Helgons kyrka",
+                  "text": "Biserica tuturor sfinților din Södertälje, aparținând Bisericii Suediei.",
+                  "category": "religious",
+                  "coords": [
+                        17.664288,
+                        59.18481
+                  ]
+            },
+            {
+                  "name": "Sankt Afrem syrianska ortodoxa kyrka",
+                  "text": "Catedrală ortodoxă siriană din Södertälje, un important centru religios.",
+                  "category": "religious",
+                  "coords": [
+                        17.577424,
+                        59.196465
+                  ]
+            },
+            {
+                  "name": "S:t Tomas kyrka",
+                  "text": "O biserică ortodoxă siriană situată în orașul Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.601282,
+                        59.209391
+                  ]
+            },
+            {
+                  "name": "Lina kyrka",
+                  "text": "O biserică parohială modernă în districtul Lina din Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.602101,
+                        59.2111
+                  ]
+            },
+            {
+                  "name": "Saltsjöbron",
+                  "text": "Un pod basculant care traversează canalul Södertälje în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.642329,
+                        59.184991
+                  ]
+            },
+            {
+                  "name": "Mälarbron",
+                  "text": "Un pod rutier important care traversează canalul Södertälje.",
+                  "category": "landmark",
+                  "coords": [
+                        17.627991,
+                        59.199843
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tom Tits Experiment",
+                  "text": "An interactive science center in Södertälje for all ages.",
+                  "category": "museum",
+                  "coords": [
+                        17.622771,
+                        59.200158
+                  ]
+            },
+            {
+                  "name": "Oktoberteatern",
+                  "text": "A professional theatre in Södertälje known for its socially conscious productions.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628921,
+                        59.195015
+                  ]
+            },
+            {
+                  "name": "Lina",
+                  "text": "A nature reserve in Södertälje featuring forests and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        17.582338,
+                        59.223621
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Natural history museum in Södertälje showcasing regional flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        17.63496,
+                        59.199578
+                  ]
+            },
+            {
+                  "name": "Sydpoolen",
+                  "text": "A large indoor water park and sports complex in Södertälje.",
+                  "category": "recreational",
+                  "coords": [
+                        17.6355,
+                        59.189739
+                  ]
+            },
+            {
+                  "name": "Telge hus",
+                  "text": "Ruins of a medieval castle located on the island of Slottsholmen in Södertälje.",
+                  "category": "historical",
+                  "coords": [
+                        17.609973,
+                        59.218114
+                  ]
+            },
+            {
+                  "name": "Torekällberget Open Air Museum",
+                  "text": "Open-air museum in Södertälje showing city life in the 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616008,
+                        59.191671
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "The central city park of Södertälje, ideal for recreation.",
+                  "category": "park",
+                  "coords": [
+                        17.628205,
+                        59.192093
+                  ]
+            },
+            {
+                  "name": "Galleri Kretsen",
+                  "text": "An art gallery in Södertälje exhibiting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        17.629743,
+                        59.195991
+                  ]
+            },
+            {
+                  "name": "Nora kvarn",
+                  "text": "A historic windmill located in the city area of Södertälje.",
+                  "category": "landmark",
+                  "coords": [
+                        17.616963,
+                        59.192435
+                  ]
+            },
+            {
+                  "name": "Saltskog gård",
+                  "text": "Cultural centre and historic manor house in Södertälje.",
+                  "category": "cultural",
+                  "coords": [
+                        17.628858,
+                        59.178503
+                  ]
+            },
+            {
+                  "name": "Sankta Ragnhilds kyrka",
+                  "text": "The main church of Södertälje, dating back to the Middle Ages.",
+                  "category": "religious",
+                  "coords": [
+                        17.626187,
+                        59.19846
+                  ]
+            },
+            {
+                  "name": "Södertälje stadshus",
+                  "text": "The modern administrative building and city hall of Södertälje.",
+                  "category": "historical",
+                  "coords": [
+                        17.62496,
+                        59.191268
+                  ]
+            },
+            {
+                  "name": "Brunnsängs kyrka",
+                  "text": "A modern church in the Brunnsäng district of Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.634791,
+                        59.212147
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars katolska kyrka",
+                  "text": "A Catholic church in Södertälje dedicated to Saint Ansgar.",
+                  "category": "religious",
+                  "coords": [
+                        17.629189,
+                        59.200972
+                  ]
+            },
+            {
+                  "name": "Alla Helgons kyrka",
+                  "text": "An All Saints church in Södertälje belonging to the Church of Sweden.",
+                  "category": "religious",
+                  "coords": [
+                        17.664288,
+                        59.18481
+                  ]
+            },
+            {
+                  "name": "Sankt Afrem syrianska ortodoxa kyrka",
+                  "text": "Syriac Orthodox cathedral in Södertälje, a major religious center.",
+                  "category": "religious",
+                  "coords": [
+                        17.577424,
+                        59.196465
+                  ]
+            },
+            {
+                  "name": "S:t Tomas kyrka",
+                  "text": "A Syriac Orthodox church in the city area of Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.601282,
+                        59.209391
+                  ]
+            },
+            {
+                  "name": "Lina kyrka",
+                  "text": "A modern parish church in the Lina district of Södertälje.",
+                  "category": "religious",
+                  "coords": [
+                        17.602101,
+                        59.2111
+                  ]
+            },
+            {
+                  "name": "Saltsjöbron",
+                  "text": "A bascule bridge spanning the Södertälje Canal in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        17.642329,
+                        59.184991
+                  ]
+            },
+            {
+                  "name": "Mälarbron",
+                  "text": "An important road bridge crossing the Södertälje Canal.",
+                  "category": "landmark",
+                  "coords": [
+                        17.627991,
+                        59.199843
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Södertälje", hu: "Södertälje", ro: "Södertälje", en: "Södertälje"},
@@ -579,6 +5808,249 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.676236,
                         60.589799
                   ]
+            },
+            {
+                  "name": "Dalarnas Museum",
+                  "text": "Regionalmuseum in Falun, das die Kulturgeschichte und Kunst der Provinz Dalarna zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.627476,
+                        60.605945
+                  ]
+            },
+            {
+                  "name": "Dalateatern",
+                  "text": "Das Regionaltheater der Provinz Dalarna mit Sitz in Falun.",
+                  "category": "cultural",
+                  "coords": [
+                        15.631257,
+                        60.603881
+                  ]
+            },
+            {
+                  "name": "Medicinhistoriska museet",
+                  "text": "Museum zur Geschichte der Medizin in der Region Falun.",
+                  "category": "museum",
+                  "coords": [
+                        15.643085,
+                        60.60763
+                  ]
+            },
+            {
+                  "name": "Gruvmuseet",
+                  "text": "Museum zur Geschichte der Kupfermine von Falun, die zum UNESCO-Weltkulturerbe gehört.",
+                  "category": "museum",
+                  "coords": [
+                        15.616595,
+                        60.600228
+                  ]
+            },
+            {
+                  "name": "Dalregementets museum",
+                  "text": "Militärhistorisches Museum über das lokale Dalregementet.",
+                  "category": "museum",
+                  "coords": [
+                        15.65266,
+                        60.604564
+                  ]
+            },
+            {
+                  "name": "Thunströms köpmansgård",
+                  "text": "Ein historisches Kaufmannshaus und Museum in Falun.",
+                  "category": "museum",
+                  "coords": [
+                        15.625616,
+                        60.610447
+                  ]
+            },
+            {
+                  "name": "Lugnets skidmuseum",
+                  "text": "Skimuseum im Sportkomplex Lugnet in Falun, bekannt für Weltmeisterschaftsereignisse.",
+                  "category": "museum",
+                  "coords": [
+                        15.665482,
+                        60.621091
+                  ]
+            },
+            {
+                  "name": "Falu Vildvattenpark",
+                  "text": "Ein künstlicher Wildwasserpark für Kanu- und Kajaksport in Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646718,
+                        60.59178
+                  ]
+            },
+            {
+                  "name": "Falu Fängelse",
+                  "text": "Ein ehemaliges Gefängnis, das heute als Museum und Herberge dient.",
+                  "category": "museum",
+                  "coords": [
+                        15.634754,
+                        60.611958
+                  ]
+            },
+            {
+                  "name": "Friluftsbad",
+                  "text": "Freibad und Erholungszentrum in Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.656125,
+                        60.618517
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Ein lokaler Badeplatz zur Erholung in Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.586568,
+                        60.598655
+                  ]
+            },
+            {
+                  "name": "Stora Stöten",
+                  "text": "Eine gewaltige Pinge, die 1687 durch einen großen Einsturz der Kupfermine entstand.",
+                  "category": "historical",
+                  "coords": [
+                        15.612407,
+                        60.599309
+                  ]
+            },
+            {
+                  "name": "Ernst Rolf-gården",
+                  "text": "Das Geburtshaus des berühmten schwedischen Sängers und Schauspielers Ernst Rolf in Falun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.623601,
+                        60.601406
+                  ]
+            },
+            {
+                  "name": "Gruvrisberget",
+                  "text": "Ein Aussichtspunkt auf dem Hügel Gruvrisberget mit Blick über die Stadt Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.5984,
+                        60.587344
+                  ]
+            },
+            {
+                  "name": "Magasinet",
+                  "text": "Ein ehemaliges Lagerhaus, das heute als Kulturzentrum für Konzerte und Ausstellungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643303,
+                        60.603964
+                  ]
+            },
+            {
+                  "name": "Drottningens utkik",
+                  "text": "Aussichtspunkt in der Nähe des Bergbaugebiets von Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.614933,
+                        60.597452
+                  ]
+            },
+            {
+                  "name": "Gustafs schakt Västra utkiken",
+                  "text": "Beobachtungspunkt mit Blick auf einen Schacht der historischen Kupfermine.",
+                  "category": "natural",
+                  "coords": [
+                        15.607842,
+                        60.599295
+                  ]
+            },
+            {
+                  "name": "Hoppbackarna",
+                  "text": "Die berühmten Skisprungschanzen im Lugnet-Stadion in Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.663891,
+                        60.620767
+                  ]
+            },
+            {
+                  "name": "Krokodilen",
+                  "text": "Eine lokale Sehenswürdigkeit oder Skulptur in der Stadt Falun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.600423,
+                        60.624194
+                  ]
+            },
+            {
+                  "name": "Carl XVI Gustafs utkik",
+                  "text": "Ein Aussichtspunkt, benannt nach dem schwedischen König Carl XVI. Gustaf.",
+                  "category": "natural",
+                  "coords": [
+                        15.611308,
+                        60.597278
+                  ]
+            },
+            {
+                  "name": "Samuelsdals Herrgård",
+                  "text": "Ein historisches Herrenhaus in der Nähe der Stadt Falun.",
+                  "category": "historical",
+                  "coords": [
+                        15.615059,
+                        60.582737
+                  ]
+            },
+            {
+                  "name": "Falu stads rådhus",
+                  "text": "Das historische Rathaus von Falun am Hauptmarktplatz.",
+                  "category": "historical",
+                  "coords": [
+                        15.629626,
+                        60.607827
+                  ]
+            },
+            {
+                  "name": "Den Goda Herdens Katolska Kyrka",
+                  "text": "Katholische Kirche und Gemeindezentrum in der Stadt Falun.",
+                  "category": "religious",
+                  "coords": [
+                        15.633517,
+                        60.611507
+                  ]
+            },
+            {
+                  "name": "Lugnetkyrkan",
+                  "text": "Eine moderne Kirche im Sport- und Erholungsgebiet Lugnet.",
+                  "category": "religious",
+                  "coords": [
+                        15.656894,
+                        60.614393
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kapell",
+                  "text": "Eine Kapelle auf einem der Friedhöfe in Falun.",
+                  "category": "religious",
+                  "coords": [
+                        15.63926,
+                        60.589838
+                  ]
+            },
+            {
+                  "name": "Kristine kyrka",
+                  "text": "Die zentrale Stadtkirche von Falun am Marktplatz, erbaut im 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        15.631223,
+                        60.607733
+                  ]
+            },
+            {
+                  "name": "Stora Kopparbergs kyrka",
+                  "text": "Das älteste Gebäude in Falun, eng verbunden mit der Geschichte der Kupfermine.",
+                  "category": "religious",
+                  "coords": [
+                        15.629547,
+                        60.614408
+                  ]
             }
       ],
       "hu": [
@@ -589,6 +6061,249 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.676236,
                         60.589799
+                  ]
+            },
+            {
+                  "name": "Dalarnas Museum",
+                  "text": "Dalarna tartomány kultúráját és művészetét bemutató regionális múzeum Falunban.",
+                  "category": "museum",
+                  "coords": [
+                        15.627476,
+                        60.605945
+                  ]
+            },
+            {
+                  "name": "Dalateatern",
+                  "text": "Dalarna tartományi színháza, amelynek székhelye Falunban található.",
+                  "category": "cultural",
+                  "coords": [
+                        15.631257,
+                        60.603881
+                  ]
+            },
+            {
+                  "name": "Medicinhistoriska museet",
+                  "text": "Az orvostudomány történetét bemutató múzeum Falunban.",
+                  "category": "museum",
+                  "coords": [
+                        15.643085,
+                        60.60763
+                  ]
+            },
+            {
+                  "name": "Gruvmuseet",
+                  "text": "A faluni rézbánya történetét bemutató múzeum, amely az UNESCO Világörökség része.",
+                  "category": "museum",
+                  "coords": [
+                        15.616595,
+                        60.600228
+                  ]
+            },
+            {
+                  "name": "Dalregementets museum",
+                  "text": "A helyi Dalarna ezred hadtörténetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.65266,
+                        60.604564
+                  ]
+            },
+            {
+                  "name": "Thunströms köpmansgård",
+                  "text": "Történelmi kereskedőház és múzeum Falunban.",
+                  "category": "museum",
+                  "coords": [
+                        15.625616,
+                        60.610447
+                  ]
+            },
+            {
+                  "name": "Lugnets skidmuseum",
+                  "text": "Síelési múzeum a Lugnet sportközpontban, a síugró sáncok közelében.",
+                  "category": "museum",
+                  "coords": [
+                        15.665482,
+                        60.621091
+                  ]
+            },
+            {
+                  "name": "Falu Vildvattenpark",
+                  "text": "Mesterséges vadvízi pálya kajakosok és kenusok számára Falunban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646718,
+                        60.59178
+                  ]
+            },
+            {
+                  "name": "Falu Fängelse",
+                  "text": "Egykori börtönépület, amely ma múzeumként és szálláshelyként működik.",
+                  "category": "museum",
+                  "coords": [
+                        15.634754,
+                        60.611958
+                  ]
+            },
+            {
+                  "name": "Friluftsbad",
+                  "text": "Szabadtéri strand és szabadidős központ Falunban.",
+                  "category": "recreational",
+                  "coords": [
+                        15.656125,
+                        60.618517
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Helyi fürdőhely Falun közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        15.586568,
+                        60.598655
+                  ]
+            },
+            {
+                  "name": "Stora Stöten",
+                  "text": "A faluni rézbánya 1687-es beomlásakor keletkezett hatalmas kráter.",
+                  "category": "historical",
+                  "coords": [
+                        15.612407,
+                        60.599309
+                  ]
+            },
+            {
+                  "name": "Ernst Rolf-gården",
+                  "text": "Ernst Rolf híres svéd énekes és színész szülőháza.",
+                  "category": "landmark",
+                  "coords": [
+                        15.623601,
+                        60.601406
+                  ]
+            },
+            {
+                  "name": "Gruvrisberget",
+                  "text": "Kilátópont a Gruvrisberget dombon, ahonnan belátni Falun városát.",
+                  "category": "natural",
+                  "coords": [
+                        15.5984,
+                        60.587344
+                  ]
+            },
+            {
+                  "name": "Magasinet",
+                  "text": "Korábbi raktárépület, amely ma koncerteknek és kiállításoknak otthont adó kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643303,
+                        60.603964
+                  ]
+            },
+            {
+                  "name": "Drottningens utkik",
+                  "text": "Kilátóhely a faluni bányaterület közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.614933,
+                        60.597452
+                  ]
+            },
+            {
+                  "name": "Gustafs schakt Västra utkiken",
+                  "text": "Kilátópont a történelmi rézbánya egyik aknája felett.",
+                  "category": "natural",
+                  "coords": [
+                        15.607842,
+                        60.599295
+                  ]
+            },
+            {
+                  "name": "Hoppbackarna",
+                  "text": "A Lugnet stadion híres síugró sáncai, amelyek kilátóként is szolgálnak.",
+                  "category": "natural",
+                  "coords": [
+                        15.663891,
+                        60.620767
+                  ]
+            },
+            {
+                  "name": "Krokodilen",
+                  "text": "Helyi látnivaló vagy szobor Falun területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.600423,
+                        60.624194
+                  ]
+            },
+            {
+                  "name": "Carl XVI Gustafs utkik",
+                  "text": "XVI. Károly Gusztáv svéd királyról elnevezett kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        15.611308,
+                        60.597278
+                  ]
+            },
+            {
+                  "name": "Samuelsdals Herrgård",
+                  "text": "Történelmi udvarház Falun közelében.",
+                  "category": "historical",
+                  "coords": [
+                        15.615059,
+                        60.582737
+                  ]
+            },
+            {
+                  "name": "Falu stads rådhus",
+                  "text": "Falun történelmi városháza a város főterén.",
+                  "category": "historical",
+                  "coords": [
+                        15.629626,
+                        60.607827
+                  ]
+            },
+            {
+                  "name": "Den Goda Herdens Katolska Kyrka",
+                  "text": "Katolikus plébániatemplom Falun városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.633517,
+                        60.611507
+                  ]
+            },
+            {
+                  "name": "Lugnetkyrkan",
+                  "text": "Modern templom a Lugnet sport- és szabadidőpark területén.",
+                  "category": "religious",
+                  "coords": [
+                        15.656894,
+                        60.614393
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kapell",
+                  "text": "Kápolna Falun egyik temetőjében.",
+                  "category": "religious",
+                  "coords": [
+                        15.63926,
+                        60.589838
+                  ]
+            },
+            {
+                  "name": "Kristine kyrka",
+                  "text": "Falun központi temploma a főtéren, amely a 17. században épült.",
+                  "category": "religious",
+                  "coords": [
+                        15.631223,
+                        60.607733
+                  ]
+            },
+            {
+                  "name": "Stora Kopparbergs kyrka",
+                  "text": "Falun legrégebbi épülete, amely szorosan kapcsolódik a rézbánya történetéhez.",
+                  "category": "religious",
+                  "coords": [
+                        15.629547,
+                        60.614408
                   ]
             }
       ],
@@ -601,6 +6316,249 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.676236,
                         60.589799
                   ]
+            },
+            {
+                  "name": "Dalarnas Museum",
+                  "text": "Muzeu regional dedicat culturii și artei provinciei Dalarna, situat în Falun.",
+                  "category": "museum",
+                  "coords": [
+                        15.627476,
+                        60.605945
+                  ]
+            },
+            {
+                  "name": "Dalateatern",
+                  "text": "Teatrul regional al provinciei Dalarna, cu sediul în Falun.",
+                  "category": "cultural",
+                  "coords": [
+                        15.631257,
+                        60.603881
+                  ]
+            },
+            {
+                  "name": "Medicinhistoriska museet",
+                  "text": "Muzeu dedicat istoriei medicinei în regiunea Falun.",
+                  "category": "museum",
+                  "coords": [
+                        15.643085,
+                        60.60763
+                  ]
+            },
+            {
+                  "name": "Gruvmuseet",
+                  "text": "Muzeu dedicat istoriei minei de cupru din Falun, sit aflat în patrimoniul mondial UNESCO.",
+                  "category": "museum",
+                  "coords": [
+                        15.616595,
+                        60.600228
+                  ]
+            },
+            {
+                  "name": "Dalregementets museum",
+                  "text": "Muzeu de istorie militară despre regimentul local Dalarna.",
+                  "category": "museum",
+                  "coords": [
+                        15.65266,
+                        60.604564
+                  ]
+            },
+            {
+                  "name": "Thunströms köpmansgård",
+                  "text": "O casă istorică de negustori din Falun, transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        15.625616,
+                        60.610447
+                  ]
+            },
+            {
+                  "name": "Lugnets skidmuseum",
+                  "text": "Muzeu al schiului situat în complexul sportiv Lugnet din Falun.",
+                  "category": "museum",
+                  "coords": [
+                        15.665482,
+                        60.621091
+                  ]
+            },
+            {
+                  "name": "Falu Vildvattenpark",
+                  "text": "Un parc artificial de ape repezi pentru sporturi cu caiacul și canoa în Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646718,
+                        60.59178
+                  ]
+            },
+            {
+                  "name": "Falu Fängelse",
+                  "text": "O fostă închisoare care funcționează astăzi ca muzeu și unitate de cazare.",
+                  "category": "museum",
+                  "coords": [
+                        15.634754,
+                        60.611958
+                  ]
+            },
+            {
+                  "name": "Friluftsbad",
+                  "text": "Ștrand în aer liber și centru de recreere în Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.656125,
+                        60.618517
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "Un loc local pentru scăldat și relaxare lângă Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.586568,
+                        60.598655
+                  ]
+            },
+            {
+                  "name": "Stora Stöten",
+                  "text": "O groapă imensă formată prin prăbușirea unei părți a minei de cupru în 1687.",
+                  "category": "historical",
+                  "coords": [
+                        15.612407,
+                        60.599309
+                  ]
+            },
+            {
+                  "name": "Ernst Rolf-gården",
+                  "text": "Casa natală a celebrului cântăreț și actor suedez Ernst Rolf din Falun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.623601,
+                        60.601406
+                  ]
+            },
+            {
+                  "name": "Gruvrisberget",
+                  "text": "Un punct de observație pe dealul Gruvrisberget, oferind vederi asupra orașului Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.5984,
+                        60.587344
+                  ]
+            },
+            {
+                  "name": "Magasinet",
+                  "text": "Un fost depozit transformat în centru cultural pentru concerte și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643303,
+                        60.603964
+                  ]
+            },
+            {
+                  "name": "Drottningens utkik",
+                  "text": "Punct de belvedere situat lângă zona minieră din Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.614933,
+                        60.597452
+                  ]
+            },
+            {
+                  "name": "Gustafs schakt Västra utkiken",
+                  "text": "Punct de observație deasupra unui puț al minei istorice de cupru.",
+                  "category": "natural",
+                  "coords": [
+                        15.607842,
+                        60.599295
+                  ]
+            },
+            {
+                  "name": "Hoppbackarna",
+                  "text": "Celebrele trambuline de sărituri cu schiurile de pe stadionul Lugnet din Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.663891,
+                        60.620767
+                  ]
+            },
+            {
+                  "name": "Krokodilen",
+                  "text": "O atracție locală sau sculptură în orașul Falun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.600423,
+                        60.624194
+                  ]
+            },
+            {
+                  "name": "Carl XVI Gustafs utkik",
+                  "text": "Un punct de belvedere numit după regele Suediei, Carl al XVI-lea Gustaf.",
+                  "category": "natural",
+                  "coords": [
+                        15.611308,
+                        60.597278
+                  ]
+            },
+            {
+                  "name": "Samuelsdals Herrgård",
+                  "text": "Un conac istoric situat în apropiere de orașul Falun.",
+                  "category": "historical",
+                  "coords": [
+                        15.615059,
+                        60.582737
+                  ]
+            },
+            {
+                  "name": "Falu stads rådhus",
+                  "text": "Primăria istorică a orașului Falun, situată în piața centrală.",
+                  "category": "historical",
+                  "coords": [
+                        15.629626,
+                        60.607827
+                  ]
+            },
+            {
+                  "name": "Den Goda Herdens Katolska Kyrka",
+                  "text": "Biserică și parohie catolică situată în orașul Falun.",
+                  "category": "religious",
+                  "coords": [
+                        15.633517,
+                        60.611507
+                  ]
+            },
+            {
+                  "name": "Lugnetkyrkan",
+                  "text": "O biserică modernă în zona de sport și recreere Lugnet din Falun.",
+                  "category": "religious",
+                  "coords": [
+                        15.656894,
+                        60.614393
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kapell",
+                  "text": "O capelă situată într-unul dintre cimitirele din Falun.",
+                  "category": "religious",
+                  "coords": [
+                        15.63926,
+                        60.589838
+                  ]
+            },
+            {
+                  "name": "Kristine kyrka",
+                  "text": "Biserica centrală a orașului Falun, construită în secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        15.631223,
+                        60.607733
+                  ]
+            },
+            {
+                  "name": "Stora Kopparbergs kyrka",
+                  "text": "Cea mai veche clădire din Falun, strâns legată de istoria minei de cupru.",
+                  "category": "religious",
+                  "coords": [
+                        15.629547,
+                        60.614408
+                  ]
             }
       ],
       "en": [
@@ -611,6 +6569,249 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.676236,
                         60.589799
+                  ]
+            },
+            {
+                  "name": "Dalarnas Museum",
+                  "text": "Regional museum showcasing the cultural history and art of the Dalarna province in Falun.",
+                  "category": "museum",
+                  "coords": [
+                        15.627476,
+                        60.605945
+                  ]
+            },
+            {
+                  "name": "Dalateatern",
+                  "text": "The regional theater of Dalarna province, based in the city of Falun.",
+                  "category": "cultural",
+                  "coords": [
+                        15.631257,
+                        60.603881
+                  ]
+            },
+            {
+                  "name": "Medicinhistoriska museet",
+                  "text": "Museum dedicated to the history of medicine in the Falun region.",
+                  "category": "museum",
+                  "coords": [
+                        15.643085,
+                        60.60763
+                  ]
+            },
+            {
+                  "name": "Mine museum",
+                  "text": "Museum documenting the history of the Falun copper mine, a UNESCO World Heritage site.",
+                  "category": "museum",
+                  "coords": [
+                        15.616595,
+                        60.600228
+                  ]
+            },
+            {
+                  "name": "Dalregementets museum",
+                  "text": "Military history museum focused on the local Dalarna Regiment.",
+                  "category": "museum",
+                  "coords": [
+                        15.65266,
+                        60.604564
+                  ]
+            },
+            {
+                  "name": "Thunströms köpmansgård",
+                  "text": "A historic merchant's house and museum in Falun.",
+                  "category": "museum",
+                  "coords": [
+                        15.625616,
+                        60.610447
+                  ]
+            },
+            {
+                  "name": "Lugnets skidmuseum",
+                  "text": "Ski museum located at the Lugnet sports complex, famous for world championship events.",
+                  "category": "museum",
+                  "coords": [
+                        15.665482,
+                        60.621091
+                  ]
+            },
+            {
+                  "name": "Falu Vildvattenpark",
+                  "text": "An artificial whitewater park for canoeing and kayaking sports in Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.646718,
+                        60.59178
+                  ]
+            },
+            {
+                  "name": "Falun Prison",
+                  "text": "A former prison that now serves as a museum and accommodation.",
+                  "category": "museum",
+                  "coords": [
+                        15.634754,
+                        60.611958
+                  ]
+            },
+            {
+                  "name": "Friluftsbad",
+                  "text": "Outdoor swimming facility and recreation center in Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.656125,
+                        60.618517
+                  ]
+            },
+            {
+                  "name": "Badplats",
+                  "text": "A local beach and swimming area for recreation in Falun.",
+                  "category": "recreational",
+                  "coords": [
+                        15.586568,
+                        60.598655
+                  ]
+            },
+            {
+                  "name": "Great Pit",
+                  "text": "A massive pit formed by a major collapse of the copper mine in 1687.",
+                  "category": "historical",
+                  "coords": [
+                        15.612407,
+                        60.599309
+                  ]
+            },
+            {
+                  "name": "Ernst Rolf-gården",
+                  "text": "The birthplace of the famous Swedish singer and actor Ernst Rolf in Falun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.623601,
+                        60.601406
+                  ]
+            },
+            {
+                  "name": "Gruvrisberget",
+                  "text": "A viewpoint on the Gruvrisberget hill offering views over the city of Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.5984,
+                        60.587344
+                  ]
+            },
+            {
+                  "name": "Magasinet",
+                  "text": "A former warehouse now used as a cultural center for concerts and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643303,
+                        60.603964
+                  ]
+            },
+            {
+                  "name": "Drottningens utkik",
+                  "text": "Viewing point located near the Falun mining area.",
+                  "category": "natural",
+                  "coords": [
+                        15.614933,
+                        60.597452
+                  ]
+            },
+            {
+                  "name": "Gustafs schakt Västra utkiken",
+                  "text": "Observation point overlooking a shaft of the historic copper mine.",
+                  "category": "natural",
+                  "coords": [
+                        15.607842,
+                        60.599295
+                  ]
+            },
+            {
+                  "name": "Hoppbackarna",
+                  "text": "The famous ski jumping hills at the Lugnet stadium in Falun.",
+                  "category": "natural",
+                  "coords": [
+                        15.663891,
+                        60.620767
+                  ]
+            },
+            {
+                  "name": "Krokodilen",
+                  "text": "A local attraction or sculpture located in the city of Falun.",
+                  "category": "landmark",
+                  "coords": [
+                        15.600423,
+                        60.624194
+                  ]
+            },
+            {
+                  "name": "Carl XVI Gustafs viewing point",
+                  "text": "A viewing point named after the Swedish King, Carl XVI Gustaf.",
+                  "category": "natural",
+                  "coords": [
+                        15.611308,
+                        60.597278
+                  ]
+            },
+            {
+                  "name": "Samuelsdals Herrgård",
+                  "text": "A historic manor house located near the city of Falun.",
+                  "category": "historical",
+                  "coords": [
+                        15.615059,
+                        60.582737
+                  ]
+            },
+            {
+                  "name": "Falu stads rådhus",
+                  "text": "The historic town hall of Falun, situated on the main market square.",
+                  "category": "historical",
+                  "coords": [
+                        15.629626,
+                        60.607827
+                  ]
+            },
+            {
+                  "name": "Saint Catherine Parish",
+                  "text": "Catholic church and parish center located in the city of Falun.",
+                  "category": "religious",
+                  "coords": [
+                        15.633517,
+                        60.611507
+                  ]
+            },
+            {
+                  "name": "Lugnetkyrkan",
+                  "text": "A modern church located in the Lugnet sports and recreation area.",
+                  "category": "religious",
+                  "coords": [
+                        15.656894,
+                        60.614393
+                  ]
+            },
+            {
+                  "name": "Sankt Örjans kapell",
+                  "text": "A chapel located at one of the cemeteries in Falun.",
+                  "category": "religious",
+                  "coords": [
+                        15.63926,
+                        60.589838
+                  ]
+            },
+            {
+                  "name": "Kristine Church",
+                  "text": "Falun's central city church on the market square, built in the 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        15.631223,
+                        60.607733
+                  ]
+            },
+            {
+                  "name": "Stora Kopparbergs kyrka",
+                  "text": "The oldest building in Falun, closely linked to the history of the copper mine.",
+                  "category": "religious",
+                  "coords": [
+                        15.629547,
+                        60.614408
                   ]
             }
       ]
@@ -661,7 +6862,448 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-kalmar-cities-v2",
+    id: "sweden-kalmar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skansgrundet",
+                  "text": "Ein Leuchtturm im Kalmarsund, der den Schiffsverkehr vor der Küste leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.37515,
+                        56.651867
+                  ]
+            },
+            {
+                  "name": "Kalmar Teater",
+                  "text": "Ein prachtvolles historisches Theatergebäude im Zentrum von Kalmar.",
+                  "category": "cultural",
+                  "coords": [
+                        16.360207,
+                        56.66284
+                  ]
+            },
+            {
+                  "name": "Kalmar läns museum",
+                  "text": "Regionalmuseum in Kalmar mit Ausstellungen zur Geschichte der Provinz.",
+                  "category": "museum",
+                  "coords": [
+                        16.370467,
+                        56.664397
+                  ]
+            },
+            {
+                  "name": "Byteatern",
+                  "text": "Ein Regionaltheater in Kalmar mit Fokus auf Kinder- und Jugendstücke.",
+                  "category": "cultural",
+                  "coords": [
+                        16.365176,
+                        56.658588
+                  ]
+            },
+            {
+                  "name": "Grimskärs skans",
+                  "text": "Ehemalige Verteidigungsanlage auf einer kleinen Insel vor Kalmar.",
+                  "category": "castle",
+                  "coords": [
+                        16.370301,
+                        56.652194
+                  ]
+            },
+            {
+                  "name": "KIKAIN",
+                  "text": "Eine kleine Galerie in Kalmar, die lokale Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.355619,
+                        56.662488
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "Ein kultureller Ausstellungsraum in einem markanten runden Gebäude in Kalmar.",
+                  "category": "museum",
+                  "coords": [
+                        16.357347,
+                        56.662662
+                  ]
+            },
+            {
+                  "name": "Kalmar slottskyrka",
+                  "text": "Die Schlosskapelle von Kalmar, bekannt für ihre prachtvolle Renaissance-Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        16.35511,
+                        56.657786
+                  ]
+            },
+            {
+                  "name": "Kalmar domkyrka",
+                  "text": "Barockdom aus dem 17. Jahrhundert im historischen Zentrum von Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.365405,
+                        56.664516
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Eine moderne Kirche im südlichen Teil der Stadt Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.328735,
+                        56.663553
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Eine der evangelischen Mission gewidmete Kirche in Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.344939,
+                        56.66132
+                  ]
+            },
+            {
+                  "name": "Ölandsbron",
+                  "text": "Eine imposante Brücke, die Kalmar mit der Insel Öland verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.422123,
+                        56.674666
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skansgrundet",
+                  "text": "Világítótorony a Kalmar-szorosban, amely a part menti hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        16.37515,
+                        56.651867
+                  ]
+            },
+            {
+                  "name": "Kalmar Teater",
+                  "text": "Kalmar központjának impozáns történelmi színházépülete.",
+                  "category": "cultural",
+                  "coords": [
+                        16.360207,
+                        56.66284
+                  ]
+            },
+            {
+                  "name": "Kalmar läns museum",
+                  "text": "Kalmar megyei múzeuma, amely a tartomány történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.370467,
+                        56.664397
+                  ]
+            },
+            {
+                  "name": "Byteatern",
+                  "text": "Kalmar regionális színháza, amely főként gyermek- és ifjúsági darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        16.365176,
+                        56.658588
+                  ]
+            },
+            {
+                  "name": "Grimskärs skans",
+                  "text": "Egykori erődítmény egy kis szigeten Kalmar partjainál.",
+                  "category": "castle",
+                  "coords": [
+                        16.370301,
+                        56.652194
+                  ]
+            },
+            {
+                  "name": "KIKAIN",
+                  "text": "Kisméretű galéria Kalmarban, amely helyi művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.355619,
+                        56.662488
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "Kulturális kiállítótér egy jellegzetes kerek épületben Kalmarban.",
+                  "category": "museum",
+                  "coords": [
+                        16.357347,
+                        56.662662
+                  ]
+            },
+            {
+                  "name": "Kalmar slottskyrka",
+                  "text": "A kalmari vár kápolnája, amely gazdag reneszánsz belső teréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        16.35511,
+                        56.657786
+                  ]
+            },
+            {
+                  "name": "Kalmar domkyrka",
+                  "text": "17. századi barokk székesegyház Kalmar történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        16.365405,
+                        56.664516
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Modern templom Kalmar városának déli részén.",
+                  "category": "religious",
+                  "coords": [
+                        16.328735,
+                        56.663553
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Az evangélikus misszióhoz tartozó templom Kalmarban.",
+                  "category": "religious",
+                  "coords": [
+                        16.344939,
+                        56.66132
+                  ]
+            },
+            {
+                  "name": "Ölandsbron",
+                  "text": "Impozáns híd, amely összeköti Kalmart Öland szigetével.",
+                  "category": "landmark",
+                  "coords": [
+                        16.422123,
+                        56.674666
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skansgrundet",
+                  "text": "Un far situat în strâmtoarea Kalmar, care ghidează traficul maritim.",
+                  "category": "landmark",
+                  "coords": [
+                        16.37515,
+                        56.651867
+                  ]
+            },
+            {
+                  "name": "Kalmar Teater",
+                  "text": "O clădire istorică impunătoare a teatrului din centrul orașului Kalmar.",
+                  "category": "cultural",
+                  "coords": [
+                        16.360207,
+                        56.66284
+                  ]
+            },
+            {
+                  "name": "Kalmar läns museum",
+                  "text": "Muzeul regional din Kalmar, cu expoziții dedicate istoriei provinciei.",
+                  "category": "museum",
+                  "coords": [
+                        16.370467,
+                        56.664397
+                  ]
+            },
+            {
+                  "name": "Byteatern",
+                  "text": "Un teatru regional din Kalmar, axat pe piese pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        16.365176,
+                        56.658588
+                  ]
+            },
+            {
+                  "name": "Grimskärs skans",
+                  "text": "O fostă fortificație situată pe o mică insulă lângă Kalmar.",
+                  "category": "castle",
+                  "coords": [
+                        16.370301,
+                        56.652194
+                  ]
+            },
+            {
+                  "name": "KIKAIN",
+                  "text": "O mică galerie în Kalmar care prezintă opere de artă locale.",
+                  "category": "museum",
+                  "coords": [
+                        16.355619,
+                        56.662488
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "Un spațiu cultural de expoziție situat într-o clădire rotundă distinctivă din Kalmar.",
+                  "category": "museum",
+                  "coords": [
+                        16.357347,
+                        56.662662
+                  ]
+            },
+            {
+                  "name": "Kalmar slottskyrka",
+                  "text": "Capela castelului din Kalmar, cunoscută pentru interiorul său bogat în stil renascentist.",
+                  "category": "religious",
+                  "coords": [
+                        16.35511,
+                        56.657786
+                  ]
+            },
+            {
+                  "name": "Kalmar domkyrka",
+                  "text": "Catedrală barocă din secolul al XVII-lea în centrul istoric al orașului Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.365405,
+                        56.664516
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "O biserică modernă situată în partea de sud a orașului Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.328735,
+                        56.663553
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "O biserică dedicată misiunii evanghelice din Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.344939,
+                        56.66132
+                  ]
+            },
+            {
+                  "name": "Ölandsbron",
+                  "text": "Un pod impunător care leagă orașul Kalmar de insula Öland.",
+                  "category": "landmark",
+                  "coords": [
+                        16.422123,
+                        56.674666
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skansgrundet",
+                  "text": "A lighthouse in the Kalmar Strait guiding maritime traffic near the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        16.37515,
+                        56.651867
+                  ]
+            },
+            {
+                  "name": "Kalmar Teater",
+                  "text": "An impressive historic theatre building in the center of Kalmar.",
+                  "category": "cultural",
+                  "coords": [
+                        16.360207,
+                        56.66284
+                  ]
+            },
+            {
+                  "name": "Kalmar läns museum",
+                  "text": "County museum in Kalmar featuring exhibitions on provincial history.",
+                  "category": "museum",
+                  "coords": [
+                        16.370467,
+                        56.664397
+                  ]
+            },
+            {
+                  "name": "Byteatern",
+                  "text": "A regional theatre in Kalmar focusing on children's and youth plays.",
+                  "category": "cultural",
+                  "coords": [
+                        16.365176,
+                        56.658588
+                  ]
+            },
+            {
+                  "name": "Grimskärs skans",
+                  "text": "A former fortification located on a small island off the coast of Kalmar.",
+                  "category": "castle",
+                  "coords": [
+                        16.370301,
+                        56.652194
+                  ]
+            },
+            {
+                  "name": "KIKAIN",
+                  "text": "A small gallery in Kalmar presenting local artworks.",
+                  "category": "museum",
+                  "coords": [
+                        16.355619,
+                        56.662488
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "A cultural exhibition space in a distinctive round building in Kalmar.",
+                  "category": "museum",
+                  "coords": [
+                        16.357347,
+                        56.662662
+                  ]
+            },
+            {
+                  "name": "Kalmar slottskyrka",
+                  "text": "The castle chapel in Kalmar, known for its rich Renaissance interior.",
+                  "category": "religious",
+                  "coords": [
+                        16.35511,
+                        56.657786
+                  ]
+            },
+            {
+                  "name": "Kalmar domkyrka",
+                  "text": "A 17th-century Baroque cathedral in the historic center of Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.365405,
+                        56.664516
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "A modern church located in the southern part of Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.328735,
+                        56.663553
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "A church dedicated to the evangelical mission in Kalmar.",
+                  "category": "religious",
+                  "coords": [
+                        16.344939,
+                        56.66132
+                  ]
+            },
+            {
+                  "name": "Ölandsbron",
+                  "text": "An impressive bridge connecting Kalmar with the island of Öland.",
+                  "category": "landmark",
+                  "coords": [
+                        16.422123,
+                        56.674666
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Kalmar", hu: "Kalmar", ro: "Kalmar", en: "Kalmar"},
@@ -708,7 +7350,556 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-skovde-cities-v2",
+    id: "sweden-skovde-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kulturfabriken",
+                  "text": "Ein lebendiges Kulturzentrum und Museum in der Stadt Skövde.",
+                  "category": "museum",
+                  "coords": [
+                        13.85138,
+                        58.402006
+                  ]
+            },
+            {
+                  "name": "Ulveksbackarna",
+                  "text": "Ein schönes Naturschutzgebiet in der Nähe von Skövde.",
+                  "category": "natural",
+                  "coords": [
+                        13.840602,
+                        58.413325
+                  ]
+            },
+            {
+                  "name": "Billingekleven naturreservat",
+                  "text": "Ein Naturschutzgebiet am Hang des Billingen-Plateaus in Skövde.",
+                  "category": "natural",
+                  "coords": [
+                        13.82303,
+                        58.414676
+                  ]
+            },
+            {
+                  "name": "Stadsteater",
+                  "text": "Das städtische Theater von Skövde, Schauplatz zahlreicher Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        13.85052,
+                        58.390138
+                  ]
+            },
+            {
+                  "name": "Hällkista",
+                  "text": "Eine antike Steinkiste aus der Megalithkultur in Skövde.",
+                  "category": "historical",
+                  "coords": [
+                        13.823056,
+                        58.391186
+                  ]
+            },
+            {
+                  "name": "GöteborgsOperan Skövdescenen",
+                  "text": "Die regionale Bühne der Göteborger Oper in Skövde.",
+                  "category": "cultural",
+                  "coords": [
+                        13.845813,
+                        58.386618
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "Ein beliebter Stadtpark im Zentrum von Skövde mit Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        13.858271,
+                        58.390109
+                  ]
+            },
+            {
+                  "name": "Rhododendrondalen",
+                  "text": "Ein malerisches Tal in Skövde, bekannt für seine Rhododendronblüte.",
+                  "category": "landmark",
+                  "coords": [
+                        13.826923,
+                        58.406074
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Ein modernes Kirchengebäude im westlichen Teil von Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.828713,
+                        58.370656
+                  ]
+            },
+            {
+                  "name": "Sankta Helena kyrka",
+                  "text": "Die älteste Kirche von Skövde, die der Stadtpatronin Helena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.847175,
+                        58.389204
+                  ]
+            },
+            {
+                  "name": "Våmbs kyrka",
+                  "text": "Eine gut erhaltene romanische Kirche aus dem 12. Jahrhundert in Våmb.",
+                  "category": "religious",
+                  "coords": [
+                        13.814365,
+                        58.382337
+                  ]
+            },
+            {
+                  "name": "Skövde stadshus",
+                  "text": "Der Sitz der lokalen Verwaltung in der Innenstadt von Skövde.",
+                  "category": "historical",
+                  "coords": [
+                        13.842157,
+                        58.389881
+                  ]
+            },
+            {
+                  "name": "Däldernas kapell",
+                  "text": "Eine kleine Friedhofskapelle im Stadtteil Dälderna in Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.834671,
+                        58.409425
+                  ]
+            },
+            {
+                  "name": "Sankta Birgittas kapell",
+                  "text": "Eine schlichte Kapelle im Stadtgebiet von Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.835522,
+                        58.397009
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas kyrka",
+                  "text": "Ein zeitgenössisches Gotteshaus im Viertel Södra Ryd in Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.822427,
+                        58.404153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kulturfabriken",
+                  "text": "Élénk kulturális központ és múzeum Skövde városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.85138,
+                        58.402006
+                  ]
+            },
+            {
+                  "name": "Ulveksbackarna",
+                  "text": "Szép természetvédelmi terület Skövde közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.840602,
+                        58.413325
+                  ]
+            },
+            {
+                  "name": "Billingekleven naturreservat",
+                  "text": "Természetvédelmi terület a Skövde melletti Billingen-fennsík lejtőjén.",
+                  "category": "natural",
+                  "coords": [
+                        13.82303,
+                        58.414676
+                  ]
+            },
+            {
+                  "name": "Stadsteater",
+                  "text": "Skövde városi színháza, számos előadás helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        13.85052,
+                        58.390138
+                  ]
+            },
+            {
+                  "name": "Hällkista",
+                  "text": "Egy ősi kőkorszakbeli sírépítmény Skövde területén.",
+                  "category": "historical",
+                  "coords": [
+                        13.823056,
+                        58.391186
+                  ]
+            },
+            {
+                  "name": "GöteborgsOperan Skövdescenen",
+                  "text": "A Göteborgi Opera regionális színpada Skövde városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.845813,
+                        58.386618
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "Népszerű városi park Skövde központjában, sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        13.858271,
+                        58.390109
+                  ]
+            },
+            {
+                  "name": "Rhododendrondalen",
+                  "text": "Gleccservölgy Skövde városában, amely rododendronvirágzásáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        13.826923,
+                        58.406074
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Modern egyházi épület Skövde nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        13.828713,
+                        58.370656
+                  ]
+            },
+            {
+                  "name": "Sankta Helena kyrka",
+                  "text": "Skövde legrégebbi temploma, amelyet Szent Helénának, a város védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        13.847175,
+                        58.389204
+                  ]
+            },
+            {
+                  "name": "Våmbs kyrka",
+                  "text": "Egy jól megőrzött 12. századi román stílusú templom Våmbban.",
+                  "category": "religious",
+                  "coords": [
+                        13.814365,
+                        58.382337
+                  ]
+            },
+            {
+                  "name": "Skövde stadshus",
+                  "text": "A helyi önkormányzat székhelye Skövde belvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        13.842157,
+                        58.389881
+                  ]
+            },
+            {
+                  "name": "Däldernas kapell",
+                  "text": "Egy kis temetői kápolna Skövde Dälderna negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        13.834671,
+                        58.409425
+                  ]
+            },
+            {
+                  "name": "Sankta Birgittas kapell",
+                  "text": "Egyszerű kápolna Skövde városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.835522,
+                        58.397009
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas kyrka",
+                  "text": "Kortárs istentiszteleti hely Skövde Södra Ryd negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        13.822427,
+                        58.404153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kulturfabriken",
+                  "text": "Un centru cultural și muzeu vibrant în orașul Skövde.",
+                  "category": "museum",
+                  "coords": [
+                        13.85138,
+                        58.402006
+                  ]
+            },
+            {
+                  "name": "Ulveksbackarna",
+                  "text": "O frumoasă rezervație naturală situată lângă Skövde.",
+                  "category": "natural",
+                  "coords": [
+                        13.840602,
+                        58.413325
+                  ]
+            },
+            {
+                  "name": "Billingekleven naturreservat",
+                  "text": "O rezervație naturală pe versantul platoului Billingen din Skövde.",
+                  "category": "natural",
+                  "coords": [
+                        13.82303,
+                        58.414676
+                  ]
+            },
+            {
+                  "name": "Stadsteater",
+                  "text": "Teatrul municipal din Skövde, locul a numeroase spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        13.85052,
+                        58.390138
+                  ]
+            },
+            {
+                  "name": "Hällkista",
+                  "text": "Un mormânt antic din piatră din epoca megalitică în Skövde.",
+                  "category": "historical",
+                  "coords": [
+                        13.823056,
+                        58.391186
+                  ]
+            },
+            {
+                  "name": "GöteborgsOperan Skövdescenen",
+                  "text": "Scena regională a Operei din Göteborg din Skövde.",
+                  "category": "cultural",
+                  "coords": [
+                        13.845813,
+                        58.386618
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "Un parc urban popular în centrul orașului Skövde, cu alei de promenadă.",
+                  "category": "park",
+                  "coords": [
+                        13.858271,
+                        58.390109
+                  ]
+            },
+            {
+                  "name": "Rhododendrondalen",
+                  "text": "O vale pitorească din Skövde, cunoscută pentru înflorirea rododendronilor.",
+                  "category": "landmark",
+                  "coords": [
+                        13.826923,
+                        58.406074
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "O clădire bisericească modernă în partea de vest a orașului Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.828713,
+                        58.370656
+                  ]
+            },
+            {
+                  "name": "Sankta Helena kyrka",
+                  "text": "Cea mai veche biserică din Skövde, dedicată Sfintei Elena, patroana orașului.",
+                  "category": "religious",
+                  "coords": [
+                        13.847175,
+                        58.389204
+                  ]
+            },
+            {
+                  "name": "Våmbs kyrka",
+                  "text": "O biserică romanică bine conservată din secolul al XII-lea în Våmb.",
+                  "category": "religious",
+                  "coords": [
+                        13.814365,
+                        58.382337
+                  ]
+            },
+            {
+                  "name": "Skövde stadshus",
+                  "text": "Sediul administrației locale din centrul orașului Skövde.",
+                  "category": "historical",
+                  "coords": [
+                        13.842157,
+                        58.389881
+                  ]
+            },
+            {
+                  "name": "Däldernas kapell",
+                  "text": "O mică capelă de cimitir din cartierul Dälderna din Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.834671,
+                        58.409425
+                  ]
+            },
+            {
+                  "name": "Sankta Birgittas kapell",
+                  "text": "O capelă simplă situată în zona urbană a orașului Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.835522,
+                        58.397009
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas kyrka",
+                  "text": "Un lăcaș de cult contemporan în districtul Södra Ryd din Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.822427,
+                        58.404153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kulturfabriken",
+                  "text": "A vibrant cultural center and museum in the city of Skövde.",
+                  "category": "museum",
+                  "coords": [
+                        13.85138,
+                        58.402006
+                  ]
+            },
+            {
+                  "name": "Ulveksbackarna",
+                  "text": "A beautiful nature reserve located near Skövde.",
+                  "category": "natural",
+                  "coords": [
+                        13.840602,
+                        58.413325
+                  ]
+            },
+            {
+                  "name": "Billingekleven naturreservat",
+                  "text": "A nature reserve on the slope of the Billingen plateau in Skövde.",
+                  "category": "natural",
+                  "coords": [
+                        13.82303,
+                        58.414676
+                  ]
+            },
+            {
+                  "name": "Stadsteater",
+                  "text": "The municipal theatre of Skövde, hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.85052,
+                        58.390138
+                  ]
+            },
+            {
+                  "name": "Hällkista",
+                  "text": "An ancient stone cist grave from the megalithic era in Skövde.",
+                  "category": "historical",
+                  "coords": [
+                        13.823056,
+                        58.391186
+                  ]
+            },
+            {
+                  "name": "GöteborgsOperan Skövdescenen",
+                  "text": "The regional stage of the Gothenburg Opera in Skövde.",
+                  "category": "cultural",
+                  "coords": [
+                        13.845813,
+                        58.386618
+                  ]
+            },
+            {
+                  "name": "Boulognerskogen",
+                  "text": "A popular city park in central Skövde with walking paths.",
+                  "category": "park",
+                  "coords": [
+                        13.858271,
+                        58.390109
+                  ]
+            },
+            {
+                  "name": "Rhododendrondalen",
+                  "text": "A picturesque valley in Skövde known for its rhododendron blooms.",
+                  "category": "landmark",
+                  "coords": [
+                        13.826923,
+                        58.406074
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "A modern church building in the western part of Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.828713,
+                        58.370656
+                  ]
+            },
+            {
+                  "name": "Sankta Helena kyrka",
+                  "text": "The oldest church in Skövde, dedicated to the city's patron saint, Helena.",
+                  "category": "religious",
+                  "coords": [
+                        13.847175,
+                        58.389204
+                  ]
+            },
+            {
+                  "name": "Våmbs kyrka",
+                  "text": "A well-preserved 12th-century Romanesque church in Våmb.",
+                  "category": "religious",
+                  "coords": [
+                        13.814365,
+                        58.382337
+                  ]
+            },
+            {
+                  "name": "Skövde stadshus",
+                  "text": "The seat of local government in downtown Skövde.",
+                  "category": "historical",
+                  "coords": [
+                        13.842157,
+                        58.389881
+                  ]
+            },
+            {
+                  "name": "Däldernas kapell",
+                  "text": "A small cemetery chapel in the Dälderna district of Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.834671,
+                        58.409425
+                  ]
+            },
+            {
+                  "name": "Sankta Birgittas kapell",
+                  "text": "A simple chapel located within the urban area of Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.835522,
+                        58.397009
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas kyrka",
+                  "text": "A contemporary house of worship in the Södra Ryd district of Skövde.",
+                  "category": "religious",
+                  "coords": [
+                        13.822427,
+                        58.404153
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Skövde", hu: "Skövde", ro: "Skövde", en: "Skövde"},
@@ -765,6 +7956,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.190543,
                         56.011733
                   ]
+            },
+            {
+                  "name": "Kristianstads järnvägsmuseum",
+                  "text": "Eisenbahnmuseum in Kristianstad, das historische Lokomotiven und Waggons zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.163363,
+                        56.021729
+                  ]
+            },
+            {
+                  "name": "Regionmuseet Kristianstad",
+                  "text": "Regionalmuseum für die Geschichte und Kultur der Region Nordost-Schonen.",
+                  "category": "museum",
+                  "coords": [
+                        14.156233,
+                        56.031925
+                  ]
+            },
+            {
+                  "name": "Åsums ängar och Åsumallets naturreservat",
+                  "text": "Naturschutzgebiet mit Feuchtwiesen am Ufer des Sees Hammarsjön.",
+                  "category": "natural",
+                  "coords": [
+                        14.171511,
+                        55.998241
+                  ]
+            },
+            {
+                  "name": "Konserthuset Kristianstad",
+                  "text": "Das zentrale Konzerthaus von Kristianstad und Hauptveranstaltungsort für Musik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.160132,
+                        56.031669
+                  ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "Ein großer Indoor-Spielplatz für Kinder und Familien in Kristianstad.",
+                  "category": "recreational",
+                  "coords": [
+                        14.193703,
+                        56.024759
+                  ]
+            },
+            {
+                  "name": "Teatern",
+                  "text": "Historisches Theatergebäude von Kristianstad im Tivoli-Park.",
+                  "category": "cultural",
+                  "coords": [
+                        14.15307,
+                        56.027433
+                  ]
+            },
+            {
+                  "name": "Utemuseum Kanalhuset",
+                  "text": "Freilichtmuseum und Informationszentrum über das Biosphärenreservat Kristianstads Vattenrike.",
+                  "category": "museum",
+                  "coords": [
+                        14.14657,
+                        56.032295
+                  ]
+            },
+            {
+                  "name": "Årummet",
+                  "text": "Naturschutzgebiet am Fluss Helge å im Stadtzentrum.",
+                  "category": "natural",
+                  "coords": [
+                        14.14623,
+                        56.031274
+                  ]
+            },
+            {
+                  "name": "Sveriges lägsta punkt",
+                  "text": "Schwedens geografisch tiefster Punkt, der 2,41 Meter unter dem Meeresspiegel liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.183887,
+                        56.021616
+                  ]
+            },
+            {
+                  "name": "Bastionen Konungen",
+                  "text": "Eine erhaltene Bastion der historischen Stadtbefestigung von Kristianstad.",
+                  "category": "landmark",
+                  "coords": [
+                        14.155147,
+                        56.034488
+                  ]
+            },
+            {
+                  "name": "Galleri Gauffinska Gården",
+                  "text": "Eine private Kunstgalerie in einem historischen Gebäude im Zentrum von Kristianstad.",
+                  "category": "museum",
+                  "coords": [
+                        14.155831,
+                        56.030782
+                  ]
+            },
+            {
+                  "name": "Österbergska gården",
+                  "text": "Ein historisches Herrenhaus in Kristianstad.",
+                  "category": "historical",
+                  "coords": [
+                        14.155013,
+                        56.033402
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "Eine bedeutende Renaissancekirche im Zentrum von Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.152882,
+                        56.031876
+                  ]
+            },
+            {
+                  "name": "Österängs kyrka",
+                  "text": "Eine moderne Kirche im Stadtteil Österäng von Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.180504,
+                        56.042759
+                  ]
+            },
+            {
+                  "name": "Vilans kyrka",
+                  "text": "Ein religiöses Bauwerk im Stadtteil Vilan in Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.145235,
+                        56.02016
+                  ]
             }
       ],
       "hu": [
@@ -775,6 +8101,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.190543,
                         56.011733
+                  ]
+            },
+            {
+                  "name": "Kristianstads järnvägsmuseum",
+                  "text": "Történelmi mozdonyokat és kocsikat bemutató vasúti múzeum Kristianstadban.",
+                  "category": "museum",
+                  "coords": [
+                        14.163363,
+                        56.021729
+                  ]
+            },
+            {
+                  "name": "Regionmuseet Kristianstad",
+                  "text": "Északkelet-Skåne történelmét és kultúráját bemutató regionális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.156233,
+                        56.031925
+                  ]
+            },
+            {
+                  "name": "Åsums ängar och Åsumallets naturreservat",
+                  "text": "Természetvédelmi terület nedves rétekkel a Hammarsjön-tó partján.",
+                  "category": "natural",
+                  "coords": [
+                        14.171511,
+                        55.998241
+                  ]
+            },
+            {
+                  "name": "Konserthuset Kristianstad",
+                  "text": "Kristianstad központi koncertterme és zenei központja.",
+                  "category": "cultural",
+                  "coords": [
+                        14.160132,
+                        56.031669
+                  ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "Nagy fedett játszóház gyermekek és családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        14.193703,
+                        56.024759
+                  ]
+            },
+            {
+                  "name": "Teatern",
+                  "text": "Kristianstad történelmi színháza a Tivoli parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.15307,
+                        56.027433
+                  ]
+            },
+            {
+                  "name": "Utemuseum Kanalhuset",
+                  "text": "Szabadtéri információs központ a Kristianstads Vattenrike bioszféra-rezervátumról.",
+                  "category": "museum",
+                  "coords": [
+                        14.14657,
+                        56.032295
+                  ]
+            },
+            {
+                  "name": "Årummet",
+                  "text": "Természetvédelmi terület a Helge å folyó mentén a városközpontban.",
+                  "category": "natural",
+                  "coords": [
+                        14.14623,
+                        56.031274
+                  ]
+            },
+            {
+                  "name": "Sveriges lägsta punkt",
+                  "text": "Svédország legalacsonyabb földrajzi pontja, amely 2,41 méterrel van a tengerszint alatt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.183887,
+                        56.021616
+                  ]
+            },
+            {
+                  "name": "Bastionen Konungen",
+                  "text": "Kristianstad történelmi erődítményrendszerének fennmaradt bástyája.",
+                  "category": "landmark",
+                  "coords": [
+                        14.155147,
+                        56.034488
+                  ]
+            },
+            {
+                  "name": "Galleri Gauffinska Gården",
+                  "text": "Magángaléria egy történelmi épületben Kristianstad központjában.",
+                  "category": "museum",
+                  "coords": [
+                        14.155831,
+                        56.030782
+                  ]
+            },
+            {
+                  "name": "Österbergska gården",
+                  "text": "Egy történelmi kúria Kristianstadban.",
+                  "category": "historical",
+                  "coords": [
+                        14.155013,
+                        56.033402
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "Kristianstad központjának jelentős reneszánsz temploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.152882,
+                        56.031876
+                  ]
+            },
+            {
+                  "name": "Österängs kyrka",
+                  "text": "Egy modern templom Kristianstad Österäng negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        14.180504,
+                        56.042759
+                  ]
+            },
+            {
+                  "name": "Vilans kyrka",
+                  "text": "Egy vallási épület Kristianstad Vilan negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        14.145235,
+                        56.02016
                   ]
             }
       ],
@@ -787,6 +8248,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.190543,
                         56.011733
                   ]
+            },
+            {
+                  "name": "Kristianstads järnvägsmuseum",
+                  "text": "Muzeu feroviar care expune locomotive și vagoane istorice în Kristianstad.",
+                  "category": "museum",
+                  "coords": [
+                        14.163363,
+                        56.021729
+                  ]
+            },
+            {
+                  "name": "Regionmuseet Kristianstad",
+                  "text": "Muzeu regional dedicat istoriei și culturii din nord-estul regiunii Scania.",
+                  "category": "museum",
+                  "coords": [
+                        14.156233,
+                        56.031925
+                  ]
+            },
+            {
+                  "name": "Åsums ängar och Åsumallets naturreservat",
+                  "text": "Rezervație naturală cu pajiști umede situată pe malul lacului Hammarsjön.",
+                  "category": "natural",
+                  "coords": [
+                        14.171511,
+                        55.998241
+                  ]
+            },
+            {
+                  "name": "Konserthuset Kristianstad",
+                  "text": "Sala de concerte centrală a orașului Kristianstad, sediul principal pentru muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        14.160132,
+                        56.031669
+                  ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "Un mare spațiu de joacă interior pentru copii și familii în Kristianstad.",
+                  "category": "recreational",
+                  "coords": [
+                        14.193703,
+                        56.024759
+                  ]
+            },
+            {
+                  "name": "Teatern",
+                  "text": "Teatrul istoric al orașului Kristianstad, situat în parcul Tivoli.",
+                  "category": "cultural",
+                  "coords": [
+                        14.15307,
+                        56.027433
+                  ]
+            },
+            {
+                  "name": "Utemuseum Kanalhuset",
+                  "text": "Muzeu în aer liber și centru de informare despre rezervația biosferei Kristianstads Vattenrike.",
+                  "category": "museum",
+                  "coords": [
+                        14.14657,
+                        56.032295
+                  ]
+            },
+            {
+                  "name": "Årummet",
+                  "text": "Rezervație naturală situată de-a lungul râului Helge å în centrul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        14.14623,
+                        56.031274
+                  ]
+            },
+            {
+                  "name": "Sveriges lägsta punkt",
+                  "text": "Cel mai jos punct geografic din Suedia, situat la 2,41 metri sub nivelul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        14.183887,
+                        56.021616
+                  ]
+            },
+            {
+                  "name": "Bastionen Konungen",
+                  "text": "Un bastion păstrat din fostele fortificații istorice ale orașului Kristianstad.",
+                  "category": "landmark",
+                  "coords": [
+                        14.155147,
+                        56.034488
+                  ]
+            },
+            {
+                  "name": "Galleri Gauffinska Gården",
+                  "text": "O galerie de artă privată situată într-o clădire istorică din Kristianstad.",
+                  "category": "museum",
+                  "coords": [
+                        14.155831,
+                        56.030782
+                  ]
+            },
+            {
+                  "name": "Österbergska gården",
+                  "text": "Un conac istoric din Kristianstad.",
+                  "category": "historical",
+                  "coords": [
+                        14.155013,
+                        56.033402
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "O biserică renascentistă importantă din centrul orașului Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.152882,
+                        56.031876
+                  ]
+            },
+            {
+                  "name": "Österängs kyrka",
+                  "text": "O biserică modernă în cartierul Österäng din Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.180504,
+                        56.042759
+                  ]
+            },
+            {
+                  "name": "Vilans kyrka",
+                  "text": "O clădire religioasă din cartierul Vilan din Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.145235,
+                        56.02016
+                  ]
             }
       ],
       "en": [
@@ -797,6 +8393,141 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.190543,
                         56.011733
+                  ]
+            },
+            {
+                  "name": "Kristianstad's Railway Museum",
+                  "text": "Railway museum showcasing historic locomotives and carriages in Kristianstad.",
+                  "category": "museum",
+                  "coords": [
+                        14.163363,
+                        56.021729
+                  ]
+            },
+            {
+                  "name": "Kristianstad's Regional Museum",
+                  "text": "Regional museum for the history and culture of the northeast Scania region.",
+                  "category": "museum",
+                  "coords": [
+                        14.156233,
+                        56.031925
+                  ]
+            },
+            {
+                  "name": "Åsums ängar och Åsumallets naturreservat",
+                  "text": "Nature reserve with wet meadows located on the shores of Lake Hammarsjön.",
+                  "category": "natural",
+                  "coords": [
+                        14.171511,
+                        55.998241
+                  ]
+            },
+            {
+                  "name": "Konserthuset Kristianstad",
+                  "text": "Kristianstad's central concert hall and primary venue for music events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.160132,
+                        56.031669
+                  ]
+            },
+            {
+                  "name": "Leo's Lekland",
+                  "text": "A large indoor playground for children and families in Kristianstad.",
+                  "category": "recreational",
+                  "coords": [
+                        14.193703,
+                        56.024759
+                  ]
+            },
+            {
+                  "name": "Teatern",
+                  "text": "Kristianstad's historic theater building located in Tivoli Park.",
+                  "category": "cultural",
+                  "coords": [
+                        14.15307,
+                        56.027433
+                  ]
+            },
+            {
+                  "name": "Utemuseum Kanalhuset",
+                  "text": "Open-air museum and information center about the Kristianstads Vattenrike biosphere reserve.",
+                  "category": "museum",
+                  "coords": [
+                        14.14657,
+                        56.032295
+                  ]
+            },
+            {
+                  "name": "Årummet",
+                  "text": "Nature reserve located along the Helge å river in the city center.",
+                  "category": "natural",
+                  "coords": [
+                        14.14623,
+                        56.031274
+                  ]
+            },
+            {
+                  "name": "Sweden's lowest point",
+                  "text": "Sweden's lowest geographical point, located 2.41 meters below sea level.",
+                  "category": "landmark",
+                  "coords": [
+                        14.183887,
+                        56.021616
+                  ]
+            },
+            {
+                  "name": "Bastionen Konungen",
+                  "text": "A preserved bastion from Kristianstad's historic city fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        14.155147,
+                        56.034488
+                  ]
+            },
+            {
+                  "name": "Galleri Gauffinska Gården",
+                  "text": "A private art gallery located in a historic building in central Kristianstad.",
+                  "category": "museum",
+                  "coords": [
+                        14.155831,
+                        56.030782
+                  ]
+            },
+            {
+                  "name": "Österbergska gården",
+                  "text": "A historic manor house in Kristianstad.",
+                  "category": "historical",
+                  "coords": [
+                        14.155013,
+                        56.033402
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "A significant Renaissance church in the center of Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.152882,
+                        56.031876
+                  ]
+            },
+            {
+                  "name": "Österängs kyrka",
+                  "text": "A modern church in the Österäng district of Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.180504,
+                        56.042759
+                  ]
+            },
+            {
+                  "name": "Vilans kyrka",
+                  "text": "A religious building in the Vilan district of Kristianstad.",
+                  "category": "religious",
+                  "coords": [
+                        14.145235,
+                        56.02016
                   ]
             }
       ]
@@ -857,6 +8588,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.852761,
                         55.856761
                   ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "Eine gut erhaltene Festung aus dem 16. Jahrhundert in Landskrona.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "Ein Naturschutzgebiet auf der Insel Gråen vor Landskrona.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "Ein elegantes Theatergebäude aus dem frühen 20. Jahrhundert in Landskrona.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "Eine Voliere für Vögel in der Nähe der Zitadelle von Landskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "Eine für ihre Architektur bekannte Kunsthalle in Landskrona.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "Eine private Kunstgalerie, die zeitgenössische Werke in Landskrona ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "Das Verwaltungszentrum und Rathaus der Stadt Landskrona.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "Eine markante Stadtkirche aus dem 18. Jahrhundert in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Eine moderne Gemeindekirche im Stadtgebiet von Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Döparens kyrka",
+                  "text": "Katholische Kirche, die der Gemeinde in Landskrona dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
+                  ]
             }
       ],
       "hu": [
@@ -867,6 +8688,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.852761,
                         55.856761
+                  ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "Jó állapotban fennmaradt 16. századi erődítmény Landskrona városában.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "Természetvédelmi terület a Landskrona előtti Gråen-szigeten.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "Elegáns, 20. század eleji színházépület Landskrona központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "Madárröpde a landskronai citadella közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "Landskrona művészeti csarnoka, amely modern építészetéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "Magángaléria Landskronában, amely kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "Landskrona városának közigazgatási központja és városházája.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "Jellegzetes 18. századi városi templom Landskrona központjában.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Modern egyházközségi templom Landskrona városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Döparens kyrka",
+                  "text": "A landskronai közösséget kiszolgáló katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
                   ]
             }
       ],
@@ -879,6 +8790,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.852761,
                         55.856761
                   ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "O fortăreață bine conservată din secolul al XVI-lea în Landskrona.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "O rezervație naturală pe insula Gråen, lângă Landskrona.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "O clădire elegantă de teatru din secolul al XX-lea în Landskrona.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "O volieră pentru păsări situată în apropierea citadelei din Landskrona.",
+                  "category": "recreational",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "O sală de artă din Landskrona, cunoscută pentru arhitectura sa modernă.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "O galerie de artă privată din Landskrona, care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "Centrul administrativ și primăria orașului Landskrona.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "O biserică urbană distinctivă din secolul al XVIII-lea în Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "O biserică parohială modernă în zona urbană a Landskronei.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Döparens kyrka",
+                  "text": "Biserică catolică ce deservește comunitatea din Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
+                  ]
             }
       ],
       "en": [
@@ -889,6 +8890,96 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.852761,
                         55.856761
+                  ]
+            },
+            {
+                  "name": "Citadellet",
+                  "text": "A well-preserved 16th-century fortress in Landskrona.",
+                  "category": "castle",
+                  "coords": [
+                        12.822992,
+                        55.87306
+                  ]
+            },
+            {
+                  "name": "Gråens naturreservat",
+                  "text": "A nature reserve on the island of Gråen off the coast of Landskrona.",
+                  "category": "natural",
+                  "coords": [
+                        12.818706,
+                        55.863421
+                  ]
+            },
+            {
+                  "name": "Landskrona teater",
+                  "text": "An elegant theatre building from the early 20th century in Landskrona.",
+                  "category": "cultural",
+                  "coords": [
+                        12.833374,
+                        55.870029
+                  ]
+            },
+            {
+                  "name": "Öresunds Fågelförening Friflygningsvoljär",
+                  "text": "A bird aviary located near the Landskrona Citadel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.850398,
+                        55.87457
+                  ]
+            },
+            {
+                  "name": "Landskrona konsthall",
+                  "text": "An art hall in Landskrona known for its modernist architecture.",
+                  "category": "museum",
+                  "coords": [
+                        12.824409,
+                        55.871178
+                  ]
+            },
+            {
+                  "name": "ArtGallery PeterPlato",
+                  "text": "A private art gallery exhibiting contemporary works in Landskrona.",
+                  "category": "museum",
+                  "coords": [
+                        12.827455,
+                        55.870226
+                  ]
+            },
+            {
+                  "name": "Landskrona stadshus",
+                  "text": "The administrative centre and city hall of Landskrona.",
+                  "category": "historical",
+                  "coords": [
+                        12.825767,
+                        55.869147
+                  ]
+            },
+            {
+                  "name": "Sofia Albertina kyrka",
+                  "text": "A prominent 18th-century city church in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.826702,
+                        55.86818
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "A modern parish church in the city area of Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.829526,
+                        55.882551
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist Catholic Church",
+                  "text": "Catholic church serving the community in Landskrona.",
+                  "category": "religious",
+                  "coords": [
+                        12.83138,
+                        55.873609
                   ]
             }
       ]
@@ -949,6 +9040,177 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.001356,
                         58.553575
                   ]
+            },
+            {
+                  "name": "Staffanstorp",
+                  "text": "Ein abwechslungsreiches Naturschutzgebiet bei Motala mit Wanderpfaden.",
+                  "category": "natural",
+                  "coords": [
+                        15.090124,
+                        58.531102
+                  ]
+            },
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "Ein familienfreundlicher Badeplatz am Ufer von Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            },
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "Ein schönes Strandbad auf der Halbinsel Råssnäs in Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            },
+            {
+                  "name": "Motala motormuseum",
+                  "text": "Eines der meistbesuchten Motormuseen Schwedens in Motala.",
+                  "category": "museum",
+                  "coords": [
+                        15.037262,
+                        58.533318
+                  ]
+            },
+            {
+                  "name": "Sveriges rundradiomuseum",
+                  "text": "Ein Museum, das der Geschichte des schwedischen Rundfunks gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.042791,
+                        58.545538
+                  ]
+            },
+            {
+                  "name": "Motala konsthall",
+                  "text": "Eine Kunsthalle in Motala, die wechselnde Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.035719,
+                        58.535547
+                  ]
+            },
+            {
+                  "name": "Vätternakvariet",
+                  "text": "Ein Aquarium in Motala, das sich auf Fischarten des Vätternsees spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        15.038801,
+                        58.53445
+                  ]
+            },
+            {
+                  "name": "Motala Industrimuseum",
+                  "text": "Ein Museum, das die reiche Industriegeschichte von Motala beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        15.068706,
+                        58.547898
+                  ]
+            },
+            {
+                  "name": "Charlottenborgs slott",
+                  "text": "Ein Herrenhaus und Museum in Motala mit Kunst- und Geschichtssammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        15.06408,
+                        58.540714
+                  ]
+            },
+            {
+                  "name": "Hundsten",
+                  "text": "Ein kleiner Leuchtturm im Hafenbereich von Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.012825,
+                        58.529242
+                  ]
+            },
+            {
+                  "name": "Varamonbadet",
+                  "text": "Ein bekanntes Erholungsgebiet und Strand am Vätternsee in Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005248,
+                        58.549797
+                  ]
+            },
+            {
+                  "name": "Hällegårdshagen",
+                  "text": "Historische Ruinen in der Umgebung der Stadt Motala.",
+                  "category": "historical",
+                  "coords": [
+                        15.033952,
+                        58.561499
+                  ]
+            },
+            {
+                  "name": "Otto Edvard Carlsund",
+                  "text": "Ein Denkmal zu Ehren des Ingenieurs Otto Edvard Carlsund in Motala.",
+                  "category": "historical",
+                  "coords": [
+                        15.065412,
+                        58.545483
+                  ]
+            },
+            {
+                  "name": "Motala kyrka",
+                  "text": "Die evangelisch-lutherische Stadtkirche von Motala am Vätternsee.",
+                  "category": "religious",
+                  "coords": [
+                        15.038681,
+                        58.535393
+                  ]
+            },
+            {
+                  "name": "Charlottenborgskyrkan",
+                  "text": "Eine moderne Kirche im Stadtteil Charlottenborg in Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.06507,
+                        58.538235
+                  ]
+            },
+            {
+                  "name": "Sankt Maximilians katolska kyrka",
+                  "text": "Die katholische Kirche von Motala, benannt nach dem Heiligen Maximilian.",
+                  "category": "religious",
+                  "coords": [
+                        15.04722,
+                        58.539325
+                  ]
+            },
+            {
+                  "name": "Råssnäskyrkan",
+                  "text": "Ein kirchliches Gebäude auf der Råssnäs-Halbinsel in Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.002897,
+                        58.535742
+                  ]
+            },
+            {
+                  "name": "Lillkyrkan",
+                  "text": "Ein kleines Gotteshaus im Zentrum der Stadt Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.074345,
+                        58.554579
+                  ]
+            },
+            {
+                  "name": "Motalabron",
+                  "text": "Eine markante Schrägseilbrücke, die den Göta-Kanal in Motala überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.018577,
+                        58.529829
+                  ]
             }
       ],
       "hu": [
@@ -959,6 +9221,177 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.001356,
                         58.553575
+                  ]
+            },
+            {
+                  "name": "Staffanstorp",
+                  "text": "Változatos természetvédelmi terület Motala közelében, túraösvényekkel.",
+                  "category": "natural",
+                  "coords": [
+                        15.090124,
+                        58.531102
+                  ]
+            },
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "Családbarát fürdőhely Motala partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            },
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "Szép strandfürdő a motalai Råssnäs-félszigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            },
+            {
+                  "name": "Motala motormuseum",
+                  "text": "Svédország egyik leglátogatottabb motormúzeuma Motala városában.",
+                  "category": "museum",
+                  "coords": [
+                        15.037262,
+                        58.533318
+                  ]
+            },
+            {
+                  "name": "Sveriges rundradiomuseum",
+                  "text": "A svéd műsorszórás történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.042791,
+                        58.545538
+                  ]
+            },
+            {
+                  "name": "Motala konsthall",
+                  "text": "Műcsarnok Motalában, amely időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.035719,
+                        58.535547
+                  ]
+            },
+            {
+                  "name": "Vätternakvariet",
+                  "text": "Motalai akvárium, amely a Vättern-tó halfajaira specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        15.038801,
+                        58.53445
+                  ]
+            },
+            {
+                  "name": "Motala Industrimuseum",
+                  "text": "Múzeum, amely Motala gazdag ipari múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.068706,
+                        58.547898
+                  ]
+            },
+            {
+                  "name": "Charlottenborgs slott",
+                  "text": "Kúria és múzeum Motalában művészeti és történelmi gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        15.06408,
+                        58.540714
+                  ]
+            },
+            {
+                  "name": "Hundsten",
+                  "text": "Kisméretű világítótorony Motala kikötői területén.",
+                  "category": "landmark",
+                  "coords": [
+                        15.012825,
+                        58.529242
+                  ]
+            },
+            {
+                  "name": "Varamonbadet",
+                  "text": "Híres üdülőhely és strand a Vättern-tónál Motalában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005248,
+                        58.549797
+                  ]
+            },
+            {
+                  "name": "Hällegårdshagen",
+                  "text": "Történelmi romok Motala városának környékén.",
+                  "category": "historical",
+                  "coords": [
+                        15.033952,
+                        58.561499
+                  ]
+            },
+            {
+                  "name": "Otto Edvard Carlsund",
+                  "text": "Emlékmű Otto Edvard Carlsund mérnök tiszteletére Motalában.",
+                  "category": "historical",
+                  "coords": [
+                        15.065412,
+                        58.545483
+                  ]
+            },
+            {
+                  "name": "Motala kyrka",
+                  "text": "Motala városi evangélikus temploma a Vättern-tó partján.",
+                  "category": "religious",
+                  "coords": [
+                        15.038681,
+                        58.535393
+                  ]
+            },
+            {
+                  "name": "Charlottenborgskyrkan",
+                  "text": "Modern templom Motala Charlottenborg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.06507,
+                        58.538235
+                  ]
+            },
+            {
+                  "name": "Sankt Maximilians katolska kyrka",
+                  "text": "Motala katolikus temploma, amely Szent Maximilianról kapta nevét.",
+                  "category": "religious",
+                  "coords": [
+                        15.04722,
+                        58.539325
+                  ]
+            },
+            {
+                  "name": "Råssnäskyrkan",
+                  "text": "Egyházi épület a motalai Råssnäs-félszigeten.",
+                  "category": "religious",
+                  "coords": [
+                        15.002897,
+                        58.535742
+                  ]
+            },
+            {
+                  "name": "Lillkyrkan",
+                  "text": "Kisméretű templom Motala város központjában.",
+                  "category": "religious",
+                  "coords": [
+                        15.074345,
+                        58.554579
+                  ]
+            },
+            {
+                  "name": "Motalabron",
+                  "text": "Jellegzetes ferdekábeles híd, amely a Göta-csatorna felett ível át Motalában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.018577,
+                        58.529829
                   ]
             }
       ],
@@ -971,6 +9404,177 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         15.001356,
                         58.553575
                   ]
+            },
+            {
+                  "name": "Staffanstorp",
+                  "text": "O rezervație naturală variată lângă Motala, cu trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        15.090124,
+                        58.531102
+                  ]
+            },
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "Un loc de scăldat potrivit pentru familii pe malul orașului Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            },
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "O zonă de scăldat frumoasă pe peninsula Råssnäs din Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            },
+            {
+                  "name": "Motala motormuseum",
+                  "text": "Unul dintre cele mai vizitate muzee auto din Suedia, situat în Motala.",
+                  "category": "museum",
+                  "coords": [
+                        15.037262,
+                        58.533318
+                  ]
+            },
+            {
+                  "name": "Sveriges rundradiomuseum",
+                  "text": "Un muzeu dedicat istoriei radiodifuziunii suedeze.",
+                  "category": "museum",
+                  "coords": [
+                        15.042791,
+                        58.545538
+                  ]
+            },
+            {
+                  "name": "Motala konsthall",
+                  "text": "O galerie de artă din Motala care găzduiește expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        15.035719,
+                        58.535547
+                  ]
+            },
+            {
+                  "name": "Vätternakvariet",
+                  "text": "Un acvariu din Motala specializat în speciile de pești din lacul Vättern.",
+                  "category": "museum",
+                  "coords": [
+                        15.038801,
+                        58.53445
+                  ]
+            },
+            {
+                  "name": "Motala Industrimuseum",
+                  "text": "Un muzeu care evidențiază bogata istorie industrială a orașului Motala.",
+                  "category": "museum",
+                  "coords": [
+                        15.068706,
+                        58.547898
+                  ]
+            },
+            {
+                  "name": "Charlottenborgs slott",
+                  "text": "Un conac și muzeu din Motala cu colecții de artă și istorie.",
+                  "category": "museum",
+                  "coords": [
+                        15.06408,
+                        58.540714
+                  ]
+            },
+            {
+                  "name": "Hundsten",
+                  "text": "Un far mic situat în zona portului din Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.012825,
+                        58.529242
+                  ]
+            },
+            {
+                  "name": "Varamonbadet",
+                  "text": "O zonă de recreere și plajă cunoscută pe malul lacului Vättern în Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005248,
+                        58.549797
+                  ]
+            },
+            {
+                  "name": "Hällegårdshagen",
+                  "text": "Ruine istorice în împrejurimile orașului Motala.",
+                  "category": "historical",
+                  "coords": [
+                        15.033952,
+                        58.561499
+                  ]
+            },
+            {
+                  "name": "Otto Edvard Carlsund",
+                  "text": "Un monument în cinstea inginerului Otto Edvard Carlsund în Motala.",
+                  "category": "historical",
+                  "coords": [
+                        15.065412,
+                        58.545483
+                  ]
+            },
+            {
+                  "name": "Motala kyrka",
+                  "text": "Biserica luterană principală din Motala, situată lângă lacul Vättern.",
+                  "category": "religious",
+                  "coords": [
+                        15.038681,
+                        58.535393
+                  ]
+            },
+            {
+                  "name": "Charlottenborgskyrkan",
+                  "text": "O biserică modernă în cartierul Charlottenborg din Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.06507,
+                        58.538235
+                  ]
+            },
+            {
+                  "name": "Sankt Maximilians katolska kyrka",
+                  "text": "Biserica catolică din Motala, numită după Sfântul Maximilian.",
+                  "category": "religious",
+                  "coords": [
+                        15.04722,
+                        58.539325
+                  ]
+            },
+            {
+                  "name": "Råssnäskyrkan",
+                  "text": "O clădire bisericească pe peninsula Råssnäs din Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.002897,
+                        58.535742
+                  ]
+            },
+            {
+                  "name": "Lillkyrkan",
+                  "text": "Un lăcaș de cult mic în centrul orașului Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.074345,
+                        58.554579
+                  ]
+            },
+            {
+                  "name": "Motalabron",
+                  "text": "Un pod hobanat proeminent care traversează canalul Göta în Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.018577,
+                        58.529829
+                  ]
             }
       ],
       "en": [
@@ -981,6 +9585,177 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         15.001356,
                         58.553575
+                  ]
+            },
+            {
+                  "name": "Staffanstorp",
+                  "text": "A diverse nature reserve near Motala with hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        15.090124,
+                        58.531102
+                  ]
+            },
+            {
+                  "name": "Jerusalemsbadet",
+                  "text": "A family-friendly swimming spot on the shores of Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        15.013311,
+                        58.513772
+                  ]
+            },
+            {
+                  "name": "Råssnäsbadet",
+                  "text": "A pleasant swimming area on the Råssnäs peninsula in Motala.",
+                  "category": "recreational",
+                  "coords": [
+                        14.990734,
+                        58.529269
+                  ]
+            },
+            {
+                  "name": "Motala motormuseum",
+                  "text": "One of Sweden's most visited motor museums, located in Motala.",
+                  "category": "museum",
+                  "coords": [
+                        15.037262,
+                        58.533318
+                  ]
+            },
+            {
+                  "name": "Sveriges rundradiomuseum",
+                  "text": "A museum dedicated to the history of Swedish broadcasting.",
+                  "category": "museum",
+                  "coords": [
+                        15.042791,
+                        58.545538
+                  ]
+            },
+            {
+                  "name": "Motala konsthall",
+                  "text": "An art gallery in Motala featuring rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        15.035719,
+                        58.535547
+                  ]
+            },
+            {
+                  "name": "Vätternakvariet",
+                  "text": "An aquarium in Motala specializing in fish species from Lake Vättern.",
+                  "category": "museum",
+                  "coords": [
+                        15.038801,
+                        58.53445
+                  ]
+            },
+            {
+                  "name": "Motala Industrimuseum",
+                  "text": "A museum highlighting the rich industrial history of Motala.",
+                  "category": "museum",
+                  "coords": [
+                        15.068706,
+                        58.547898
+                  ]
+            },
+            {
+                  "name": "Charlottenborgs slott",
+                  "text": "A manor house and museum in Motala featuring art and history collections.",
+                  "category": "museum",
+                  "coords": [
+                        15.06408,
+                        58.540714
+                  ]
+            },
+            {
+                  "name": "Hundsten",
+                  "text": "A small lighthouse located in the harbor area of Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.012825,
+                        58.529242
+                  ]
+            },
+            {
+                  "name": "Varamonbadet",
+                  "text": "A famous recreation area and beach on Lake Vättern in Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.005248,
+                        58.549797
+                  ]
+            },
+            {
+                  "name": "Hällegårdshagen",
+                  "text": "Historical ruins located in the surroundings of Motala.",
+                  "category": "historical",
+                  "coords": [
+                        15.033952,
+                        58.561499
+                  ]
+            },
+            {
+                  "name": "Otto Edvard Carlsund",
+                  "text": "A monument honoring the engineer Otto Edvard Carlsund in Motala.",
+                  "category": "historical",
+                  "coords": [
+                        15.065412,
+                        58.545483
+                  ]
+            },
+            {
+                  "name": "Motala kyrka",
+                  "text": "The main Lutheran church of Motala, situated by Lake Vättern.",
+                  "category": "religious",
+                  "coords": [
+                        15.038681,
+                        58.535393
+                  ]
+            },
+            {
+                  "name": "Charlottenborgskyrkan",
+                  "text": "A modern church in the Charlottenborg district of Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.06507,
+                        58.538235
+                  ]
+            },
+            {
+                  "name": "Sankt Maximilians katolska kyrka",
+                  "text": "The Catholic church of Motala, named after Saint Maximilian.",
+                  "category": "religious",
+                  "coords": [
+                        15.04722,
+                        58.539325
+                  ]
+            },
+            {
+                  "name": "Råssnäskyrkan",
+                  "text": "A church building located on the Råssnäs peninsula in Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.002897,
+                        58.535742
+                  ]
+            },
+            {
+                  "name": "Lillkyrkan",
+                  "text": "A small house of worship in the center of Motala.",
+                  "category": "religious",
+                  "coords": [
+                        15.074345,
+                        58.554579
+                  ]
+            },
+            {
+                  "name": "Motalabron",
+                  "text": "A prominent cable-stayed bridge crossing the Göta Canal in Motala.",
+                  "category": "landmark",
+                  "coords": [
+                        15.018577,
+                        58.529829
                   ]
             }
       ]
@@ -1422,7 +10197,556 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-varberg-cities-v2",
+    id: "sweden-varberg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Getteröns naturreservat",
+                  "text": "Ein bekanntes Vogelschutzgebiet und Naturschutzgebiet bei Varberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.235803,
+                        57.1336
+                  ]
+            },
+            {
+                  "name": "Hallands kulturhistoriska museum",
+                  "text": "Ein kulturhistorisches Museum in der Festung von Varberg.",
+                  "category": "museum",
+                  "coords": [
+                        12.23953,
+                        57.105979
+                  ]
+            },
+            {
+                  "name": "Subbeberget fyr",
+                  "text": "Ein kleiner Leuchtturm auf einer Klippe südlich des Zentrums von Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.236915,
+                        57.088149
+                  ]
+            },
+            {
+                  "name": "Varbergs Teater",
+                  "text": "Ein denkmalgeschütztes Theatergebäude aus dem Jahr 1895 in Varberg.",
+                  "category": "cultural",
+                  "coords": [
+                        12.251052,
+                        57.108597
+                  ]
+            },
+            {
+                  "name": "Kanonberget",
+                  "text": "Ein Aussichtspunkt in Varberg mit Blick auf den Kattegat.",
+                  "category": "natural",
+                  "coords": [
+                        12.259164,
+                        57.101811
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens kapell",
+                  "text": "Eine Friedhofskapelle am Stadtrand von Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.265351,
+                        57.111377
+                  ]
+            },
+            {
+                  "name": "Varbergs kyrka",
+                  "text": "Die Hauptkirche von Varberg, ein Wahrzeichen im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        12.250691,
+                        57.105991
+                  ]
+            },
+            {
+                  "name": "Apelvikshöjds kyrka",
+                  "text": "Ein modernes Kirchengebäude im Stadtteil Apelvikshöjd in Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.259973,
+                        57.091817
+                  ]
+            },
+            {
+                  "name": "Getakärrs kyrkoruin",
+                  "text": "Die Ruinen einer mittelalterlichen Kirche am Nordrand von Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.253104,
+                        57.112516
+                  ]
+            },
+            {
+                  "name": "Träslövs kyrka",
+                  "text": "Die Träslövs kyrka ist eine historische Pfarrkirche in der schwedischen Stadt Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.298579,
+                        57.107796
+                  ]
+            },
+            {
+                  "name": "Den Gudomliga Barmhärtighetens kyrka",
+                  "text": "Diese katholische Kirche in Varberg ist der Göttlichen Barmherzigkeit geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        12.263863,
+                        57.116465
+                  ]
+            },
+            {
+                  "name": "Sollyckans kyrka",
+                  "text": "Die Sollyckans kyrka ist ein modernes Kirchengebäude im Stadtteil Sollyckan in Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.275313,
+                        57.110984
+                  ]
+            },
+            {
+                  "name": "Apelvikens kapell",
+                  "text": "Die Apelvikens kapell ist eine kleine Kapelle in der Nähe des beliebten Strandes von Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.246602,
+                        57.086782
+                  ]
+            },
+            {
+                  "name": "Stora Gömslet",
+                  "text": "Stora Gömslet ist eine Vogelbeobachtungshütte, die einen weiten Blick auf die Natur von Varberg bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249296,
+                        57.125753
+                  ]
+            },
+            {
+                  "name": "Vassgömslet",
+                  "text": "Vassgömslet ist ein Beobachtungspunkt für Vögel in den Schilfgebieten von Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.250648,
+                        57.12496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Getteröns naturreservat",
+                  "text": "Híres madárrezervátum és természetvédelmi terület Varberg közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.235803,
+                        57.1336
+                  ]
+            },
+            {
+                  "name": "Hallands kulturhistoriska museum",
+                  "text": "Kultúrtörténeti múzeum a varbergi erődben.",
+                  "category": "museum",
+                  "coords": [
+                        12.23953,
+                        57.105979
+                  ]
+            },
+            {
+                  "name": "Subbeberget fyr",
+                  "text": "Kis világítótorony egy sziklán Varberg központjától délre.",
+                  "category": "landmark",
+                  "coords": [
+                        12.236915,
+                        57.088149
+                  ]
+            },
+            {
+                  "name": "Varbergs Teater",
+                  "text": "1895-ben épült, műemlékvédelem alatt álló színházépület Varbergben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.251052,
+                        57.108597
+                  ]
+            },
+            {
+                  "name": "Kanonberget",
+                  "text": "Kilátópont Varbergben, kilátással a Kattegat-tengerszorosra.",
+                  "category": "natural",
+                  "coords": [
+                        12.259164,
+                        57.101811
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens kapell",
+                  "text": "Temetői kápolna Varberg városának szélén.",
+                  "category": "religious",
+                  "coords": [
+                        12.265351,
+                        57.111377
+                  ]
+            },
+            {
+                  "name": "Varbergs kyrka",
+                  "text": "Varberg főtemploma, a városközpont egyik jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        12.250691,
+                        57.105991
+                  ]
+            },
+            {
+                  "name": "Apelvikshöjds kyrka",
+                  "text": "Modern templomépület Varberg Apelvikshöjd negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.259973,
+                        57.091817
+                  ]
+            },
+            {
+                  "name": "Getakärrs kyrkoruin",
+                  "text": "Középkori templom romjai Varberg északi szélén.",
+                  "category": "religious",
+                  "coords": [
+                        12.253104,
+                        57.112516
+                  ]
+            },
+            {
+                  "name": "Träslövs kyrka",
+                  "text": "A Träslövs kyrka egy történelmi plébániatemplom a svédországi Varberg városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.298579,
+                        57.107796
+                  ]
+            },
+            {
+                  "name": "Den Gudomliga Barmhärtighetens kyrka",
+                  "text": "Ez a varbergi katolikus templom az Isteni Irgalmasságnak van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        12.263863,
+                        57.116465
+                  ]
+            },
+            {
+                  "name": "Sollyckans kyrka",
+                  "text": "A Sollyckans kyrka egy modern templomépület Varberg Sollyckan negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.275313,
+                        57.110984
+                  ]
+            },
+            {
+                  "name": "Apelvikens kapell",
+                  "text": "Az Apelvikens kapell egy kis kápolna Varberg népszerű strandjának közelében.",
+                  "category": "religious",
+                  "coords": [
+                        12.246602,
+                        57.086782
+                  ]
+            },
+            {
+                  "name": "Stora Gömslet",
+                  "text": "A Stora Gömslet egy madármegfigyelő hely, amely széles kilátást nyújt Varberg természetére.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249296,
+                        57.125753
+                  ]
+            },
+            {
+                  "name": "Vassgömslet",
+                  "text": "A Vassgömslet egy madármegfigyelő pont Varberg nádas területein.",
+                  "category": "landmark",
+                  "coords": [
+                        12.250648,
+                        57.12496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Getteröns naturreservat",
+                  "text": "O rezervație naturală și de păsări renumită situată lângă Varberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.235803,
+                        57.1336
+                  ]
+            },
+            {
+                  "name": "Hallands kulturhistoriska museum",
+                  "text": "Un muzeu de istorie culturală situat în interiorul cetății Varberg.",
+                  "category": "museum",
+                  "coords": [
+                        12.23953,
+                        57.105979
+                  ]
+            },
+            {
+                  "name": "Subbeberget fyr",
+                  "text": "Un far mic pe o stâncă la sud de centrul orașului Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.236915,
+                        57.088149
+                  ]
+            },
+            {
+                  "name": "Varbergs Teater",
+                  "text": "O clădire de teatru istorică din 1895, situată în Varberg.",
+                  "category": "cultural",
+                  "coords": [
+                        12.251052,
+                        57.108597
+                  ]
+            },
+            {
+                  "name": "Kanonberget",
+                  "text": "Un punct de observație în Varberg cu vedere spre strâmtoarea Kattegat.",
+                  "category": "natural",
+                  "coords": [
+                        12.259164,
+                        57.101811
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens kapell",
+                  "text": "O capelă de cimitir situată la marginea orașului Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.265351,
+                        57.111377
+                  ]
+            },
+            {
+                  "name": "Varbergs kyrka",
+                  "text": "Biserica principală din Varberg, un punct de reper în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        12.250691,
+                        57.105991
+                  ]
+            },
+            {
+                  "name": "Apelvikshöjds kyrka",
+                  "text": "O clădire bisericească modernă în cartierul Apelvikshöjd din Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.259973,
+                        57.091817
+                  ]
+            },
+            {
+                  "name": "Getakärrs kyrkoruin",
+                  "text": "Ruinele unei biserici medievale la marginea de nord a orașului Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.253104,
+                        57.112516
+                  ]
+            },
+            {
+                  "name": "Träslövs kyrka",
+                  "text": "Träslövs kyrka este o biserică parohială istorică din orașul suedez Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.298579,
+                        57.107796
+                  ]
+            },
+            {
+                  "name": "Den Gudomliga Barmhärtighetens kyrka",
+                  "text": "Această biserică catolică din Varberg este dedicată Divinei Milostiviri.",
+                  "category": "religious",
+                  "coords": [
+                        12.263863,
+                        57.116465
+                  ]
+            },
+            {
+                  "name": "Sollyckans kyrka",
+                  "text": "Sollyckans kyrka este o clădire modernă de biserică din cartierul Sollyckan, Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.275313,
+                        57.110984
+                  ]
+            },
+            {
+                  "name": "Apelvikens kapell",
+                  "text": "Apelvikens kapell este o mică capelă situată în apropierea plajei populare din Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.246602,
+                        57.086782
+                  ]
+            },
+            {
+                  "name": "Stora Gömslet",
+                  "text": "Stora Gömslet este un adăpost pentru observarea păsărilor, oferind o vedere largă asupra naturii din Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249296,
+                        57.125753
+                  ]
+            },
+            {
+                  "name": "Vassgömslet",
+                  "text": "Vassgömslet este un punct de observare a păsărilor situat în zonele cu stuf din Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.250648,
+                        57.12496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Getteröns naturreservat",
+                  "text": "A renowned bird and nature reserve located near Varberg.",
+                  "category": "natural",
+                  "coords": [
+                        12.235803,
+                        57.1336
+                  ]
+            },
+            {
+                  "name": "Hallands kulturhistoriska museum",
+                  "text": "A museum of cultural history located inside the Varberg Fortress.",
+                  "category": "museum",
+                  "coords": [
+                        12.23953,
+                        57.105979
+                  ]
+            },
+            {
+                  "name": "Subbeberget fyr",
+                  "text": "A small lighthouse on a cliff south of central Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.236915,
+                        57.088149
+                  ]
+            },
+            {
+                  "name": "Varbergs Teater",
+                  "text": "A historic theatre building from 1895 located in Varberg.",
+                  "category": "cultural",
+                  "coords": [
+                        12.251052,
+                        57.108597
+                  ]
+            },
+            {
+                  "name": "Kanonberget",
+                  "text": "A viewpoint in Varberg offering views over the Kattegat sea.",
+                  "category": "natural",
+                  "coords": [
+                        12.259164,
+                        57.101811
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens kapell",
+                  "text": "A cemetery chapel located on the outskirts of Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.265351,
+                        57.111377
+                  ]
+            },
+            {
+                  "name": "Varbergs kyrka",
+                  "text": "The main church of Varberg, a landmark in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        12.250691,
+                        57.105991
+                  ]
+            },
+            {
+                  "name": "Apelvikshöjds kyrka",
+                  "text": "A modern church building in the Apelvikshöjd district of Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.259973,
+                        57.091817
+                  ]
+            },
+            {
+                  "name": "Getakärrs kyrkoruin",
+                  "text": "The ruins of a medieval church on the northern edge of Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.253104,
+                        57.112516
+                  ]
+            },
+            {
+                  "name": "Träslövs kyrka",
+                  "text": "Träslövs kyrka is a historic parish church located in the Swedish town of Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.298579,
+                        57.107796
+                  ]
+            },
+            {
+                  "name": "The Church of Divine Mercy",
+                  "text": "This Catholic church in Varberg is dedicated to the Divine Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        12.263863,
+                        57.116465
+                  ]
+            },
+            {
+                  "name": "Sollyckans kyrka",
+                  "text": "Sollyckans kyrka is a modern church building in the Sollyckan district of Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.275313,
+                        57.110984
+                  ]
+            },
+            {
+                  "name": "Apelvikens kapell",
+                  "text": "Apelvikens kapell is a small chapel located near the popular beach in Varberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.246602,
+                        57.086782
+                  ]
+            },
+            {
+                  "name": "Stora Gömslet",
+                  "text": "Stora Gömslet is a bird hide offering a wide view of the nature in Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.249296,
+                        57.125753
+                  ]
+            },
+            {
+                  "name": "Vassgömslet",
+                  "text": "Vassgömslet is a bird hide located in the reed beds of Varberg.",
+                  "category": "landmark",
+                  "coords": [
+                        12.250648,
+                        57.12496
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Varberg", hu: "Varberg", ro: "Varberg", en: "Varberg"},
@@ -1469,7 +10793,340 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-trelleborg-cities-v2",
+    id: "sweden-trelleborg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Axel Ebbes Konsthall",
+                  "text": "Ein Kunstmuseum in Trelleborg, das dem Werk von Axel Ebbe gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.161343,
+                        55.375375
+                  ]
+            },
+            {
+                  "name": "Trelleborgen",
+                  "text": "Eine rekonstruierte Wikingerburg aus der Zeit um das Jahr 980 in Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.147184,
+                        55.376348
+                  ]
+            },
+            {
+                  "name": "Trelleborgs museum",
+                  "text": "Ein lokales Museum, das die Geschichte von Trelleborg und der Umgebung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.15805,
+                        55.376039
+                  ]
+            },
+            {
+                  "name": "Jättegraven",
+                  "text": "Eine neolithische Grabanlage in der Nähe von Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.20318,
+                        55.373188
+                  ]
+            },
+            {
+                  "name": "Östra Stranden",
+                  "text": "Ein beliebter Sandstrand an der Ostsee in Trelleborg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Sankta Katarina klosterruin",
+                  "text": "Die historischen Überreste eines ehemaligen Franziskanerklosters in Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.150082,
+                        55.374391
+                  ]
+            },
+            {
+                  "name": "Utkiken",
+                  "text": "Ein Aussichtspunkt in Trelleborg mit weitem Blick über die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        13.147231,
+                        55.366652
+                  ]
+            },
+            {
+                  "name": "Kyrkoköpinge kyrka",
+                  "text": "Eine mittelalterliche Kirche in der Gemeinde Kyrkoköpinge bei Trelleborg.",
+                  "category": "religious",
+                  "coords": [
+                        13.186255,
+                        55.385039
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "Die Hauptkirche von Trelleborg, die im neugotischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        13.150643,
+                        55.376144
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Axel Ebbes Konsthall",
+                  "text": "Axel Ebbe munkásságának szentelt művészeti múzeum Trelleborgban.",
+                  "category": "museum",
+                  "coords": [
+                        13.161343,
+                        55.375375
+                  ]
+            },
+            {
+                  "name": "Trelleborgen",
+                  "text": "Egy rekonstruált viking gyűrűvár Trelleborgban 980 környékéről.",
+                  "category": "historical",
+                  "coords": [
+                        13.147184,
+                        55.376348
+                  ]
+            },
+            {
+                  "name": "Trelleborgs museum",
+                  "text": "Helytörténeti múzeum, amely Trelleborg és környéke múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.15805,
+                        55.376039
+                  ]
+            },
+            {
+                  "name": "Jättegraven",
+                  "text": "Egy újkőkorszaki sírhely Trelleborg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.20318,
+                        55.373188
+                  ]
+            },
+            {
+                  "name": "Östra Stranden",
+                  "text": "Népszerű homokos tengerpart a Balti-tengernél Trelleborgban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Sankta Katarina klosterruin",
+                  "text": "Egy egykori ferences kolostor történelmi maradványai Trelleborgban.",
+                  "category": "historical",
+                  "coords": [
+                        13.150082,
+                        55.374391
+                  ]
+            },
+            {
+                  "name": "Utkiken",
+                  "text": "Kilátóhely Trelleborgban, széles kilátással a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        13.147231,
+                        55.366652
+                  ]
+            },
+            {
+                  "name": "Kyrkoköpinge kyrka",
+                  "text": "Egy középkori templom Kyrkoköpinge községben, Trelleborg mellett.",
+                  "category": "religious",
+                  "coords": [
+                        13.186255,
+                        55.385039
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "Trelleborg főtemploma, amely neogótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        13.150643,
+                        55.376144
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Axel Ebbes Konsthall",
+                  "text": "Un muzeu de artă din Trelleborg dedicat operei lui Axel Ebbe.",
+                  "category": "museum",
+                  "coords": [
+                        13.161343,
+                        55.375375
+                  ]
+            },
+            {
+                  "name": "Trelleborgen",
+                  "text": "O fortăreață vikingă circulară reconstituită în Trelleborg, datând din jurul anului 980.",
+                  "category": "historical",
+                  "coords": [
+                        13.147184,
+                        55.376348
+                  ]
+            },
+            {
+                  "name": "Trelleborgs museum",
+                  "text": "Un muzeu local care prezintă istoria orașului Trelleborg și a împrejurimilor sale.",
+                  "category": "museum",
+                  "coords": [
+                        13.15805,
+                        55.376039
+                  ]
+            },
+            {
+                  "name": "Jättegraven",
+                  "text": "Un sit funerar neolitic situat lângă Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.20318,
+                        55.373188
+                  ]
+            },
+            {
+                  "name": "Östra Stranden",
+                  "text": "O plajă populară cu nisip la Marea Baltică în Trelleborg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Sankta Katarina klosterruin",
+                  "text": "Vestigiile istorice ale unei foste mănăstiri franciscane din Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.150082,
+                        55.374391
+                  ]
+            },
+            {
+                  "name": "Utkiken",
+                  "text": "Un punct de observație din Trelleborg cu o vedere largă asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        13.147231,
+                        55.366652
+                  ]
+            },
+            {
+                  "name": "Kyrkoköpinge kyrka",
+                  "text": "O biserică medievală din localitatea Kyrkoköpinge, lângă Trelleborg.",
+                  "category": "religious",
+                  "coords": [
+                        13.186255,
+                        55.385039
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "Biserica principală din Trelleborg, construită în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        13.150643,
+                        55.376144
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Axel Ebbes Konsthall",
+                  "text": "An art museum in Trelleborg dedicated to the work of Axel Ebbe.",
+                  "category": "museum",
+                  "coords": [
+                        13.161343,
+                        55.375375
+                  ]
+            },
+            {
+                  "name": "Trelleborgen",
+                  "text": "A reconstructed Viking ring fortress from around the year 980 in Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.147184,
+                        55.376348
+                  ]
+            },
+            {
+                  "name": "Trelleborgs museum",
+                  "text": "A local museum showcasing the history of Trelleborg and the surrounding area.",
+                  "category": "museum",
+                  "coords": [
+                        13.15805,
+                        55.376039
+                  ]
+            },
+            {
+                  "name": "Jättegraven",
+                  "text": "A Neolithic burial site located near Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.20318,
+                        55.373188
+                  ]
+            },
+            {
+                  "name": "Östra Stranden",
+                  "text": "A popular sandy beach on the Baltic Sea in Trelleborg.",
+                  "category": "recreational",
+                  "coords": [
+                        13.193652,
+                        55.365253
+                  ]
+            },
+            {
+                  "name": "Sankta Katarina klosterruin",
+                  "text": "The historical remains of a former Franciscan monastery in Trelleborg.",
+                  "category": "historical",
+                  "coords": [
+                        13.150082,
+                        55.374391
+                  ]
+            },
+            {
+                  "name": "Utkiken",
+                  "text": "A viewpoint in Trelleborg with a wide view over the coast.",
+                  "category": "natural",
+                  "coords": [
+                        13.147231,
+                        55.366652
+                  ]
+            },
+            {
+                  "name": "Kyrkoköpinge kyrka",
+                  "text": "A medieval church in Kyrkoköpinge near Trelleborg.",
+                  "category": "religious",
+                  "coords": [
+                        13.186255,
+                        55.385039
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "The main church of Trelleborg, built in the Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        13.150643,
+                        55.376144
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Trelleborg", hu: "Trelleborg", ro: "Trelleborg", en: "Trelleborg"},
@@ -1516,7 +11173,232 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-lidkoping-cities-v2",
+    id: "sweden-lidkoping-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vänermuseet",
+                  "text": "Museum in Lidköping, das sich mit der Natur und Kultur des Vänersees befasst.",
+                  "category": "museum",
+                  "coords": [
+                        13.147042,
+                        58.511123
+                  ]
+            },
+            {
+                  "name": "Idrottsmuseum",
+                  "text": "Ein Sportmuseum in Lidköping, das lokale sportliche Erfolge dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.155895,
+                        58.500837
+                  ]
+            },
+            {
+                  "name": "Rörstrand Museum",
+                  "text": "Museum, das die berühmte Porzellangeschichte von Rörstrand in Lidköping zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.158721,
+                        58.507139
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "Die zentrale Kirche von Lidköping, bekannt für ihren markanten Turm.",
+                  "category": "religious",
+                  "coords": [
+                        13.160415,
+                        58.501436
+                  ]
+            },
+            {
+                  "name": "Sigfridskyrkan",
+                  "text": "Eine moderne Kirche im Stadtgebiet von Lidköping.",
+                  "category": "religious",
+                  "coords": [
+                        13.139585,
+                        58.500947
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Eine der Jungfrau Maria gewidmete Kirche in Lidköping.",
+                  "category": "religious",
+                  "coords": [
+                        13.171377,
+                        58.493522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vänermuseet",
+                  "text": "Lidköpingi múzeum, amely a Vänern-tó természetével és kultúrájával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        13.147042,
+                        58.511123
+                  ]
+            },
+            {
+                  "name": "Idrottsmuseum",
+                  "text": "Sportmúzeum Lidköpingben, amely a helyi sporteredményeket dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        13.155895,
+                        58.500837
+                  ]
+            },
+            {
+                  "name": "Rörstrand Museum",
+                  "text": "A híres Rörstrand porcelángyártás történetét bemutató múzeum Lidköpingben.",
+                  "category": "museum",
+                  "coords": [
+                        13.158721,
+                        58.507139
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "Lidköping központi temploma, amely jellegzetes tornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        13.160415,
+                        58.501436
+                  ]
+            },
+            {
+                  "name": "Sigfridskyrkan",
+                  "text": "Modern templom Lidköping városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        13.139585,
+                        58.500947
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Szűz Máriának szentelt templom Lidköping városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.171377,
+                        58.493522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vänermuseet",
+                  "text": "Muzeu din Lidköping dedicat naturii și culturii lacului Vänern.",
+                  "category": "museum",
+                  "coords": [
+                        13.147042,
+                        58.511123
+                  ]
+            },
+            {
+                  "name": "Idrottsmuseum",
+                  "text": "Un muzeu al sportului în Lidköping, care documentează succesele sportive locale.",
+                  "category": "museum",
+                  "coords": [
+                        13.155895,
+                        58.500837
+                  ]
+            },
+            {
+                  "name": "Rörstrand Museum",
+                  "text": "Muzeu care prezintă istoria faimosului porțelan Rörstrand în Lidköping.",
+                  "category": "museum",
+                  "coords": [
+                        13.158721,
+                        58.507139
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "Biserica centrală din Lidköping, cunoscută pentru turnul său distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        13.160415,
+                        58.501436
+                  ]
+            },
+            {
+                  "name": "Sigfridskyrkan",
+                  "text": "O biserică modernă în zona urbană a orașului Lidköping.",
+                  "category": "religious",
+                  "coords": [
+                        13.139585,
+                        58.500947
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "O biserică dedicată Sfintei Maria în orașul Lidköping.",
+                  "category": "religious",
+                  "coords": [
+                        13.171377,
+                        58.493522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vänermuseet",
+                  "text": "Museum in Lidköping focusing on the nature and culture of Lake Vänern.",
+                  "category": "museum",
+                  "coords": [
+                        13.147042,
+                        58.511123
+                  ]
+            },
+            {
+                  "name": "Idrottsmuseum",
+                  "text": "A sports museum in Lidköping documenting local athletic achievements.",
+                  "category": "museum",
+                  "coords": [
+                        13.155895,
+                        58.500837
+                  ]
+            },
+            {
+                  "name": "Rörstrand Museum",
+                  "text": "Museum showcasing the famous Rörstrand porcelain history in Lidköping.",
+                  "category": "museum",
+                  "coords": [
+                        13.158721,
+                        58.507139
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrka",
+                  "text": "The central church of Lidköping, known for its prominent tower.",
+                  "category": "religious",
+                  "coords": [
+                        13.160415,
+                        58.501436
+                  ]
+            },
+            {
+                  "name": "Sigfridskyrkan",
+                  "text": "A modern church in the city area of Lidköping.",
+                  "category": "religious",
+                  "coords": [
+                        13.139585,
+                        58.500947
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "A church dedicated to Saint Mary in the city of Lidköping.",
+                  "category": "religious",
+                  "coords": [
+                        13.171377,
+                        58.493522
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Lidköping", hu: "Lidköping", ro: "Lidköping", en: "Lidköping"},
@@ -1563,7 +11445,304 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-enkoping-cities-v2",
+    id: "sweden-enkoping-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Enköpings franciskankonvent",
+                  "text": "Dieses ehemalige Franziskanerkloster ist eine bedeutende mittelalterliche Stätte in Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.074533,
+                        59.632138
+                  ]
+            },
+            {
+                  "name": "Pepparrotsbadet",
+                  "text": "Das Pepparrotsbadet ist ein moderner Wasserpark und ein beliebtes Freizeitzentrum in Enköping.",
+                  "category": "recreational",
+                  "coords": [
+                        17.092346,
+                        59.630175
+                  ]
+            },
+            {
+                  "name": "Afzeliiplan",
+                  "text": "Der Afzelius Place ist ein ruhiger Stadtpark im Zentrum von Enköping.",
+                  "category": "park",
+                  "coords": [
+                        17.079982,
+                        59.637473
+                  ]
+            },
+            {
+                  "name": "Skolparken",
+                  "text": "Der Schulpark in Enköping ist für seine gepflegten Grünflächen und die Nähe zu Bildungseinrichtungen bekannt.",
+                  "category": "park",
+                  "coords": [
+                        17.081381,
+                        59.639461
+                  ]
+            },
+            {
+                  "name": "Vårfrukyrkan",
+                  "text": "Die Vårfrukyrkan ist eine der ältesten und bedeutendsten Kirchen in Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.082509,
+                        59.638699
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "Die Ruinen oder das Gebäude der Sankt Lars kyrka erinnern an die religiöse Geschichte von Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.054532,
+                        59.64421
+                  ]
+            },
+            {
+                  "name": "Västerledskyrkan",
+                  "text": "Die Västerledskyrkan ist eine moderne Kirche, die die Gemeinde im westlichen Teil von Enköping bedient.",
+                  "category": "religious",
+                  "coords": [
+                        17.065381,
+                        59.643786
+                  ]
+            },
+            {
+                  "name": "Sankt Adai ﻿syrisk-ortodoxa kyrka",
+                  "text": "Dies ist eine syrisch-orthodoxe Kirche, die ein wichtiges geistliches Zentrum in Enköping darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        17.102169,
+                        59.639643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Enköpings franciskankonvent",
+                  "text": "Ez az egykori ferences kolostor Enköping egyik jelentős középkori helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        17.074533,
+                        59.632138
+                  ]
+            },
+            {
+                  "name": "Pepparrotsbadet",
+                  "text": "A Pepparrotsbadet egy modern vízi park és népszerű szabadidőközpont Enköpingben.",
+                  "category": "recreational",
+                  "coords": [
+                        17.092346,
+                        59.630175
+                  ]
+            },
+            {
+                  "name": "Afzeliiplan",
+                  "text": "Az Afzelius Place egy csendes városi park Enköping központjában.",
+                  "category": "park",
+                  "coords": [
+                        17.079982,
+                        59.637473
+                  ]
+            },
+            {
+                  "name": "Skolparken",
+                  "text": "Az enköpingi Iskolapark gondozott zöldfelületeiről és oktatási intézményekhez való közelségéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        17.081381,
+                        59.639461
+                  ]
+            },
+            {
+                  "name": "Vårfrukyrkan",
+                  "text": "A Vårfrukyrkan Enköping egyik legrégebbi és legjelentősebb temploma.",
+                  "category": "religious",
+                  "coords": [
+                        17.082509,
+                        59.638699
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "A Sankt Lars kyrka romjai vagy épülete Enköping vallástörténetére emlékeztetnek.",
+                  "category": "religious",
+                  "coords": [
+                        17.054532,
+                        59.64421
+                  ]
+            },
+            {
+                  "name": "Västerledskyrkan",
+                  "text": "A Västerledskyrkan egy modern templom, amely Enköping nyugati részének közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        17.065381,
+                        59.643786
+                  ]
+            },
+            {
+                  "name": "Sankt Adai ﻿syrisk-ortodoxa kyrka",
+                  "text": "Ez egy szír ortodox templom, amely Enköping egyik fontos lelki központja.",
+                  "category": "religious",
+                  "coords": [
+                        17.102169,
+                        59.639643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Enköpings franciskankonvent",
+                  "text": "Această fostă mănăstire franciscană este un sit medieval important din Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.074533,
+                        59.632138
+                  ]
+            },
+            {
+                  "name": "Pepparrotsbadet",
+                  "text": "Pepparrotsbadet este un parc acvatic modern și un centru de recreere popular în Enköping.",
+                  "category": "recreational",
+                  "coords": [
+                        17.092346,
+                        59.630175
+                  ]
+            },
+            {
+                  "name": "Afzeliiplan",
+                  "text": "Afzelius Place este un parc municipal liniștit în centrul orașului Enköping.",
+                  "category": "park",
+                  "coords": [
+                        17.079982,
+                        59.637473
+                  ]
+            },
+            {
+                  "name": "Skolparken",
+                  "text": "Parcul Școlii din Enköping este cunoscut pentru spațiile verzi îngrijite și proximitatea față de instituțiile de învățământ.",
+                  "category": "park",
+                  "coords": [
+                        17.081381,
+                        59.639461
+                  ]
+            },
+            {
+                  "name": "Vårfrukyrkan",
+                  "text": "Vårfrukyrkan este una dintre cele mai vechi și importante biserici din Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.082509,
+                        59.638699
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "Ruinele sau clădirea Sankt Lars kyrka amintesc de istoria religioasă a orașului Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.054532,
+                        59.64421
+                  ]
+            },
+            {
+                  "name": "Västerledskyrkan",
+                  "text": "Västerledskyrkan este o biserică modernă care deservește comunitatea din partea de vest a orașului Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.065381,
+                        59.643786
+                  ]
+            },
+            {
+                  "name": "Sankt Adai ﻿syrisk-ortodoxa kyrka",
+                  "text": "Aceasta este o biserică siriacă ortodoxă, reprezentând un centru spiritual important în Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.102169,
+                        59.639643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Enköpings franciskankonvent",
+                  "text": "This former Franciscan monastery is a significant medieval site in Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.074533,
+                        59.632138
+                  ]
+            },
+            {
+                  "name": "Pepparrotsbadet",
+                  "text": "Pepparrotsbadet is a modern water park and a popular leisure center in Enköping.",
+                  "category": "recreational",
+                  "coords": [
+                        17.092346,
+                        59.630175
+                  ]
+            },
+            {
+                  "name": "Afzelius Place",
+                  "text": "Afzelius Place is a peaceful urban park in the center of Enköping.",
+                  "category": "park",
+                  "coords": [
+                        17.079982,
+                        59.637473
+                  ]
+            },
+            {
+                  "name": "The School Park",
+                  "text": "The School Park in Enköping is known for its well-kept green spaces and proximity to educational institutions.",
+                  "category": "park",
+                  "coords": [
+                        17.081381,
+                        59.639461
+                  ]
+            },
+            {
+                  "name": "Vårfrukyrkan",
+                  "text": "Vårfrukyrkan is one of the oldest and most significant churches in Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.082509,
+                        59.638699
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "The Sankt Lars kyrka ruins or building recall the religious history of Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.054532,
+                        59.64421
+                  ]
+            },
+            {
+                  "name": "Västerledskyrkan",
+                  "text": "Västerledskyrkan is a modern church serving the community in the western part of Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.065381,
+                        59.643786
+                  ]
+            },
+            {
+                  "name": "Sankt Adai ﻿syrisk-ortodoxa kyrka",
+                  "text": "This is a Syrian Orthodox church, representing an important spiritual center in Enköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.102169,
+                        59.639643
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Enköping", hu: "Enköping", ro: "Enköping", en: "Enköping"},
@@ -1610,7 +11789,412 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-nykoping-cities-v2",
+    id: "sweden-nykoping-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sörmlands museum",
+                  "text": "Ein regionales Museum in Nyköping, das Kunst und Kulturgeschichte von Södermanland präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.013839,
+                        58.745949
+                  ]
+            },
+            {
+                  "name": "Nyköpings Teater",
+                  "text": "Ein historisches Theatergebäude im Zentrum von Nyköping.",
+                  "category": "cultural",
+                  "coords": [
+                        17.001243,
+                        58.750562
+                  ]
+            },
+            {
+                  "name": "Culturum Konsertsal Bibliotek",
+                  "text": "Ein kulturelles Zentrum in Nyköping, das eine Konzerthalle und eine Bibliothek beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.008915,
+                        58.754256
+                  ]
+            },
+            {
+                  "name": "Borggården",
+                  "text": "Ein historischer Platz und archäologische Stätte am Schloss Nyköpingshus.",
+                  "category": "historical",
+                  "coords": [
+                        17.011542,
+                        58.748566
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Slottsvakten",
+                  "text": "Ein Kulturhaus und Museum in einem historischen Gebäude am Schloss von Nyköping.",
+                  "category": "museum",
+                  "coords": [
+                        17.009622,
+                        58.749351
+                  ]
+            },
+            {
+                  "name": "Västra klockstapeln",
+                  "text": "Ein markanter freistehender Glockenturm aus Holz in Nyköping.",
+                  "category": "landmark",
+                  "coords": [
+                        17.00688,
+                        58.753975
+                  ]
+            },
+            {
+                  "name": "Kråkberget",
+                  "text": "Ein Aussichtspunkt in Nyköping mit schönem Blick über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        17.011005,
+                        58.759346
+                  ]
+            },
+            {
+                  "name": "Runenstein von Släbro",
+                  "text": "Ein historischer Runenstein in der Umgebung von Nyköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.971338,
+                        58.770436
+                  ]
+            },
+            {
+                  "name": "Alla Helgona kyrka",
+                  "text": "Eine der beiden großen Stadtkirchen von Nyköping mit mittelalterlichen Ursprüngen.",
+                  "category": "religious",
+                  "coords": [
+                        17.016294,
+                        58.751358
+                  ]
+            },
+            {
+                  "name": "Nyköpings stadshus",
+                  "text": "Das Verwaltungszentrum und architektonische Wahrzeichen der Stadt Nyköping.",
+                  "category": "historical",
+                  "coords": [
+                        17.00918,
+                        58.752392
+                  ]
+            },
+            {
+                  "name": "Hjortensbergskyrkan",
+                  "text": "Eine moderne Kirche und Gemeindezentrum in Nyköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.028515,
+                        58.762835
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sörmlands museum",
+                  "text": "Regionális múzeum Nyköpingben, amely Södermanland művészetét és kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.013839,
+                        58.745949
+                  ]
+            },
+            {
+                  "name": "Nyköpings Teater",
+                  "text": "Történelmi színházépület Nyköping központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        17.001243,
+                        58.750562
+                  ]
+            },
+            {
+                  "name": "Culturum Konsertsal Bibliotek",
+                  "text": "Kulturális központ Nyköpingben, amely koncertteremnek és könyvtárnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.008915,
+                        58.754256
+                  ]
+            },
+            {
+                  "name": "Borggården",
+                  "text": "Történelmi tér és régészeti lelőhely a Nyköpingshus kastélynál.",
+                  "category": "historical",
+                  "coords": [
+                        17.011542,
+                        58.748566
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Slottsvakten",
+                  "text": "Kultúrház és múzeum egy történelmi épületben a nyköpingi várnál.",
+                  "category": "museum",
+                  "coords": [
+                        17.009622,
+                        58.749351
+                  ]
+            },
+            {
+                  "name": "Västra klockstapeln",
+                  "text": "Jellegzetes szabadon álló fa harangtorony Nyköpingben.",
+                  "category": "landmark",
+                  "coords": [
+                        17.00688,
+                        58.753975
+                  ]
+            },
+            {
+                  "name": "Kråkberget",
+                  "text": "Kilátóhely Nyköpingben, szép kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        17.011005,
+                        58.759346
+                  ]
+            },
+            {
+                  "name": "Södermanlands runinskrifter 367",
+                  "text": "Egy történelmi rúnakő Nyköping környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.971338,
+                        58.770436
+                  ]
+            },
+            {
+                  "name": "Alla Helgona kyrka",
+                  "text": "Nyköping két nagy városi templomának egyike, középkori eredettel.",
+                  "category": "religious",
+                  "coords": [
+                        17.016294,
+                        58.751358
+                  ]
+            },
+            {
+                  "name": "Nyköpings stadshus",
+                  "text": "Nyköping városának közigazgatási központja és építészeti nevezetessége.",
+                  "category": "historical",
+                  "coords": [
+                        17.00918,
+                        58.752392
+                  ]
+            },
+            {
+                  "name": "Hjortensbergskyrkan",
+                  "text": "Modern templom és gyülekezeti központ Nyköpingben.",
+                  "category": "religious",
+                  "coords": [
+                        17.028515,
+                        58.762835
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sörmlands museum",
+                  "text": "Un muzeu regional din Nyköping care prezintă arta și istoria culturală a regiunii Södermanland.",
+                  "category": "museum",
+                  "coords": [
+                        17.013839,
+                        58.745949
+                  ]
+            },
+            {
+                  "name": "Nyköpings Teater",
+                  "text": "O clădire istorică de teatru în centrul orașului Nyköping.",
+                  "category": "cultural",
+                  "coords": [
+                        17.001243,
+                        58.750562
+                  ]
+            },
+            {
+                  "name": "Culturum Konsertsal Bibliotek",
+                  "text": "Un centru cultural din Nyköping care găzduiește o sală de concerte și o bibliotecă.",
+                  "category": "cultural",
+                  "coords": [
+                        17.008915,
+                        58.754256
+                  ]
+            },
+            {
+                  "name": "Borggården",
+                  "text": "O piață istorică și sit arheologic lângă castelul Nyköpingshus.",
+                  "category": "historical",
+                  "coords": [
+                        17.011542,
+                        58.748566
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Slottsvakten",
+                  "text": "O casă de cultură și muzeu într-o clădire istorică de lângă castelul din Nyköping.",
+                  "category": "museum",
+                  "coords": [
+                        17.009622,
+                        58.749351
+                  ]
+            },
+            {
+                  "name": "Västra klockstapeln",
+                  "text": "O clopotniță de lemn distinctivă, de sine stătătoare, în Nyköping.",
+                  "category": "landmark",
+                  "coords": [
+                        17.00688,
+                        58.753975
+                  ]
+            },
+            {
+                  "name": "Kråkberget",
+                  "text": "Un punct de observație în Nyköping cu o vedere frumoasă asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        17.011005,
+                        58.759346
+                  ]
+            },
+            {
+                  "name": "Södermanlands runinskrifter 367",
+                  "text": "O piatră runică istorică din împrejurimile orașului Nyköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.971338,
+                        58.770436
+                  ]
+            },
+            {
+                  "name": "Alla Helgona kyrka",
+                  "text": "Una dintre cele două mari biserici orășenești din Nyköping, cu origini medievale.",
+                  "category": "religious",
+                  "coords": [
+                        17.016294,
+                        58.751358
+                  ]
+            },
+            {
+                  "name": "Nyköpings stadshus",
+                  "text": "Centrul administrativ și un reper arhitectural al orașului Nyköping.",
+                  "category": "historical",
+                  "coords": [
+                        17.00918,
+                        58.752392
+                  ]
+            },
+            {
+                  "name": "Hjortensbergskyrkan",
+                  "text": "O biserică modernă și centru comunitar în Nyköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.028515,
+                        58.762835
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sörmlands museum",
+                  "text": "A regional museum in Nyköping presenting the art and cultural history of Södermanland.",
+                  "category": "museum",
+                  "coords": [
+                        17.013839,
+                        58.745949
+                  ]
+            },
+            {
+                  "name": "Nyköpings Teater",
+                  "text": "A historic theatre building in the center of Nyköping.",
+                  "category": "cultural",
+                  "coords": [
+                        17.001243,
+                        58.750562
+                  ]
+            },
+            {
+                  "name": "Culturum Konsertsal Bibliotek",
+                  "text": "A cultural center in Nyköping housing a concert hall and a library.",
+                  "category": "cultural",
+                  "coords": [
+                        17.008915,
+                        58.754256
+                  ]
+            },
+            {
+                  "name": "Borggården",
+                  "text": "A historic square and archaeological site at Nyköpingshus Castle.",
+                  "category": "historical",
+                  "coords": [
+                        17.011542,
+                        58.748566
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Slottsvakten",
+                  "text": "A culture house and museum in a historic building by the castle in Nyköping.",
+                  "category": "museum",
+                  "coords": [
+                        17.009622,
+                        58.749351
+                  ]
+            },
+            {
+                  "name": "Västra klockstapeln",
+                  "text": "A distinctive free-standing wooden bell tower in Nyköping.",
+                  "category": "landmark",
+                  "coords": [
+                        17.00688,
+                        58.753975
+                  ]
+            },
+            {
+                  "name": "Kråkberget",
+                  "text": "A viewpoint in Nyköping with a beautiful view over the city.",
+                  "category": "natural",
+                  "coords": [
+                        17.011005,
+                        58.759346
+                  ]
+            },
+            {
+                  "name": "Södermanland Runic Inscription 367",
+                  "text": "A historic rune stone in the surroundings of Nyköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.971338,
+                        58.770436
+                  ]
+            },
+            {
+                  "name": "Alla Helgona kyrka",
+                  "text": "One of the two large city churches in Nyköping with medieval origins.",
+                  "category": "religious",
+                  "coords": [
+                        17.016294,
+                        58.751358
+                  ]
+            },
+            {
+                  "name": "City Hall of Nyköping",
+                  "text": "The administrative center and an architectural landmark of the city of Nyköping.",
+                  "category": "historical",
+                  "coords": [
+                        17.00918,
+                        58.752392
+                  ]
+            },
+            {
+                  "name": "Hjortensbergskyrkan",
+                  "text": "A modern church and community center in Nyköping.",
+                  "category": "religious",
+                  "coords": [
+                        17.028515,
+                        58.762835
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Nyköping", hu: "Nyköping", ro: "Nyköping", en: "Nyköping"},
@@ -1657,7 +12241,268 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-pitea-cities-v2",
+    id: "sweden-pitea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piteå museum",
+                  "text": "Regionalmuseum im alten Rathaus von Piteå.",
+                  "category": "museum",
+                  "coords": [
+                        21.483129,
+                        65.316159
+                  ]
+            },
+            {
+                  "name": "Räkan",
+                  "text": "Ein Sandstrand und Erholungsgebiet in der Nähe von Piteå.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            },
+            {
+                  "name": "Båtmuseumet",
+                  "text": "Ein Bootsmuseum in Piteå, das traditionellen Schiffsbau zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.465002,
+                        65.313295
+                  ]
+            },
+            {
+                  "name": "Studio Acusticum",
+                  "text": "Ein modernes Konzerthaus und Kulturzentrum in Piteå.",
+                  "category": "cultural",
+                  "coords": [
+                        21.464001,
+                        65.328619
+                  ]
+            },
+            {
+                  "name": "Strömnäskyrkan",
+                  "text": "Eine Gemeindekirche im Stadtteil Strömnäs von Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.511631,
+                        65.309452
+                  ]
+            },
+            {
+                  "name": "Furubergskyrkan",
+                  "text": "Eine moderne Kirche im Stadtteil Furuberget in Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.500515,
+                        65.295774
+                  ]
+            },
+            {
+                  "name": "Piteå stadskyrka",
+                  "text": "Eine historische Holzkirche im Stadtzentrum von Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.4836,
+                        65.318367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piteå museum",
+                  "text": "Regionális múzeum Piteå régi városházájának épületében.",
+                  "category": "museum",
+                  "coords": [
+                        21.483129,
+                        65.316159
+                  ]
+            },
+            {
+                  "name": "Räkan",
+                  "text": "Homokos tengerpart és üdülőhely Piteå közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            },
+            {
+                  "name": "Båtmuseumet",
+                  "text": "Hajómúzeum Piteå városában, amely a hagyományos hajóépítést mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.465002,
+                        65.313295
+                  ]
+            },
+            {
+                  "name": "Studio Acusticum",
+                  "text": "Modern koncertterem és kulturális központ Piteå városában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.464001,
+                        65.328619
+                  ]
+            },
+            {
+                  "name": "Strömnäskyrkan",
+                  "text": "Egyházközségi templom Piteå Strömnäs negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        21.511631,
+                        65.309452
+                  ]
+            },
+            {
+                  "name": "Furubergskyrkan",
+                  "text": "Modern templom Piteå Furuberget negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        21.500515,
+                        65.295774
+                  ]
+            },
+            {
+                  "name": "Piteå stadskyrka",
+                  "text": "Történelmi fatemplom Piteå városközpontjában.",
+                  "category": "religious",
+                  "coords": [
+                        21.4836,
+                        65.318367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piteå museum",
+                  "text": "Muzeu regional situat în vechea primărie din Piteå.",
+                  "category": "museum",
+                  "coords": [
+                        21.483129,
+                        65.316159
+                  ]
+            },
+            {
+                  "name": "Räkan",
+                  "text": "O plajă de nisip și zonă de recreere în apropiere de Piteå.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            },
+            {
+                  "name": "Båtmuseumet",
+                  "text": "Un muzeu al ambarcațiunilor în Piteå, care prezintă construcția tradițională de nave.",
+                  "category": "museum",
+                  "coords": [
+                        21.465002,
+                        65.313295
+                  ]
+            },
+            {
+                  "name": "Studio Acusticum",
+                  "text": "O sală de concerte modernă și centru cultural în Piteå.",
+                  "category": "cultural",
+                  "coords": [
+                        21.464001,
+                        65.328619
+                  ]
+            },
+            {
+                  "name": "Strömnäskyrkan",
+                  "text": "O biserică parohială în districtul Strömnäs din Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.511631,
+                        65.309452
+                  ]
+            },
+            {
+                  "name": "Furubergskyrkan",
+                  "text": "O biserică modernă în districtul Furuberget din Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.500515,
+                        65.295774
+                  ]
+            },
+            {
+                  "name": "Piteå stadskyrka",
+                  "text": "O biserică istorică din lemn situată în centrul orașului Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.4836,
+                        65.318367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piteå museum",
+                  "text": "Regional museum located in the old town hall of Piteå.",
+                  "category": "museum",
+                  "coords": [
+                        21.483129,
+                        65.316159
+                  ]
+            },
+            {
+                  "name": "Räkan",
+                  "text": "A sandy beach and recreation area near Piteå.",
+                  "category": "recreational",
+                  "coords": [
+                        21.477853,
+                        65.339519
+                  ]
+            },
+            {
+                  "name": "Båtmuseumet",
+                  "text": "A boat museum in Piteå showcasing traditional shipbuilding.",
+                  "category": "museum",
+                  "coords": [
+                        21.465002,
+                        65.313295
+                  ]
+            },
+            {
+                  "name": "Studio Acusticum",
+                  "text": "A modern concert hall and arts centre in Piteå.",
+                  "category": "cultural",
+                  "coords": [
+                        21.464001,
+                        65.328619
+                  ]
+            },
+            {
+                  "name": "Strömnäskyrkan",
+                  "text": "A parish church in the Strömnäs district of Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.511631,
+                        65.309452
+                  ]
+            },
+            {
+                  "name": "Furubergskyrkan",
+                  "text": "A modern church in the Furuberget district of Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.500515,
+                        65.295774
+                  ]
+            },
+            {
+                  "name": "Piteå stadskyrka",
+                  "text": "A historic wooden church in the city center of Piteå.",
+                  "category": "religious",
+                  "coords": [
+                        21.4836,
+                        65.318367
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Piteå", hu: "Piteå", ro: "Piteå", en: "Piteå"},
@@ -1761,6 +12606,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.81422,
                         56.236907
                   ]
+            },
+            {
+                  "name": "Ängelholms strandskogs naturreservat",
+                  "text": "Ein Naturschutzgebiet mit Küstenwald und Dünen bei Ängelholm.",
+                  "category": "natural",
+                  "coords": [
+                        12.822802,
+                        56.24409
+                  ]
+            },
+            {
+                  "name": "Järnvägens Museum Ängelholm",
+                  "text": "Ein Museum, das die Entwicklung der schwedischen Eisenbahngeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.853902,
+                        56.242816
+                  ]
+            },
+            {
+                  "name": "Läder- och Lokalhistoriskt Museum",
+                  "text": "Ein Museum in Ängelholm, das sich der Lederindustrie und der lokalen Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.865177,
+                        56.254609
+                  ]
+            },
+            {
+                  "name": "Ängelholms hembygdspark",
+                  "text": "Ein Park mit Wildgehege, Museen und Spielplätzen in Ängelholm.",
+                  "category": "recreational",
+                  "coords": [
+                        12.86331,
+                        56.254003
+                  ]
+            },
+            {
+                  "name": "Skolmuseum",
+                  "text": "Ein kleines Museum, das den Schulalltag vergangener Zeiten in Ängelholm zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.865358,
+                        56.253669
+                  ]
+            },
+            {
+                  "name": "Värn 794",
+                  "text": "Ein historischer Verteidigungsbunker an der Küste von Ängelholm.",
+                  "category": "fortress",
+                  "coords": [
+                        12.826676,
+                        56.250124
+                  ]
+            },
+            {
+                  "name": "UFO-Denkmal Ängelholm",
+                  "text": "Ein Denkmal im Wald bei Ängelholm, das an eine angebliche UFO-Landung im Jahr 1946 erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.819116,
+                        56.232836
+                  ]
+            },
+            {
+                  "name": "Rebbelberga kyrka",
+                  "text": "Eine mittelalterliche Steinkirche am Stadtrand von Ängelholm.",
+                  "category": "religious",
+                  "coords": [
+                        12.879829,
+                        56.253509
+                  ]
+            },
+            {
+                  "name": "Ängelholms kyrka",
+                  "text": "Die Hauptkirche von Ängelholm, die im 19. Jahrhundert an der Stelle eines Vorgängerbaus errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        12.86009,
+                        56.243443
+                  ]
+            },
+            {
+                  "name": "Sankt Mikael",
+                  "text": "Eine moderne Kirche in Ängelholm, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.840945,
+                        56.227138
+                  ]
+            },
+            {
+                  "name": "Heliga korsets kapell",
+                  "text": "Eine Kapelle auf dem Friedhof von Ängelholm, bekannt für ihre moderne Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        12.871572,
+                        56.254657
+                  ]
             }
       ],
       "hu": [
@@ -1771,6 +12715,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.81422,
                         56.236907
+                  ]
+            },
+            {
+                  "name": "Ängelholms strandskogs naturreservat",
+                  "text": "Természetvédelmi terület parti erdővel és dűnékkel Ängelholm mellett.",
+                  "category": "natural",
+                  "coords": [
+                        12.822802,
+                        56.24409
+                  ]
+            },
+            {
+                  "name": "Järnvägens Museum Ängelholm",
+                  "text": "Múzeum, amely a svéd vasúttörténet fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.853902,
+                        56.242816
+                  ]
+            },
+            {
+                  "name": "Läder- och Lokalhistoriskt Museum",
+                  "text": "Ängelholmi múzeum, amely a bőriparnak és a helytörténetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        12.865177,
+                        56.254609
+                  ]
+            },
+            {
+                  "name": "Ängelholms hembygdspark",
+                  "text": "Vadasparkkal, múzeumokkal és játszóterekkel rendelkező park Ängelholmban.",
+                  "category": "recreational",
+                  "coords": [
+                        12.86331,
+                        56.254003
+                  ]
+            },
+            {
+                  "name": "Skolmuseum",
+                  "text": "Kismúzeum, amely a régi idők iskolai életét mutatja be Ängelholmban.",
+                  "category": "museum",
+                  "coords": [
+                        12.865358,
+                        56.253669
+                  ]
+            },
+            {
+                  "name": "Värn 794",
+                  "text": "Történelmi védelmi bunker Ängelholm tengerpartján.",
+                  "category": "fortress",
+                  "coords": [
+                        12.826676,
+                        56.250124
+                  ]
+            },
+            {
+                  "name": "UFO-monumentet i Ängelholm",
+                  "text": "Emlékmű az Ängelholm melletti erdőben, amely egy állítólagos 1946-os UFO-leszállásnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        12.819116,
+                        56.232836
+                  ]
+            },
+            {
+                  "name": "Rebbelberga kyrka",
+                  "text": "Középkori kőtemplom Ängelholm szélén.",
+                  "category": "religious",
+                  "coords": [
+                        12.879829,
+                        56.253509
+                  ]
+            },
+            {
+                  "name": "Ängelholms kyrka",
+                  "text": "Ängelholm főtemploma, amely a 19. században épült egy korábbi épület helyén.",
+                  "category": "religious",
+                  "coords": [
+                        12.86009,
+                        56.243443
+                  ]
+            },
+            {
+                  "name": "Sankt Mikael",
+                  "text": "Modern templom Ängelholmban, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        12.840945,
+                        56.227138
+                  ]
+            },
+            {
+                  "name": "Heliga korsets kapell",
+                  "text": "Kápolna az ängelholmi temetőben, amely modern építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        12.871572,
+                        56.254657
                   ]
             }
       ],
@@ -1783,6 +12826,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         12.81422,
                         56.236907
                   ]
+            },
+            {
+                  "name": "Ängelholms strandskogs naturreservat",
+                  "text": "O rezervație naturală cu pădure de coastă și dune lângă Ängelholm.",
+                  "category": "natural",
+                  "coords": [
+                        12.822802,
+                        56.24409
+                  ]
+            },
+            {
+                  "name": "Järnvägens Museum Ängelholm",
+                  "text": "Un muzeu care prezintă evoluția istoriei feroviare suedeze.",
+                  "category": "museum",
+                  "coords": [
+                        12.853902,
+                        56.242816
+                  ]
+            },
+            {
+                  "name": "Läder- och Lokalhistoriskt Museum",
+                  "text": "Un muzeu din Ängelholm dedicat industriei pielăriei și istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        12.865177,
+                        56.254609
+                  ]
+            },
+            {
+                  "name": "Ängelholms hembygdspark",
+                  "text": "Un parc cu un parc zoologic, muzee și locuri de joacă în Ängelholm.",
+                  "category": "recreational",
+                  "coords": [
+                        12.86331,
+                        56.254003
+                  ]
+            },
+            {
+                  "name": "Skolmuseum",
+                  "text": "Un mic muzeu care prezintă viața școlară de altădată în Ängelholm.",
+                  "category": "museum",
+                  "coords": [
+                        12.865358,
+                        56.253669
+                  ]
+            },
+            {
+                  "name": "Värn 794",
+                  "text": "Un buncăr istoric de apărare pe coasta orașului Ängelholm.",
+                  "category": "fortress",
+                  "coords": [
+                        12.826676,
+                        56.250124
+                  ]
+            },
+            {
+                  "name": "UFO-monumentet i Ängelholm",
+                  "text": "Un monument în pădurea de lângă Ängelholm, care comemorează o presupusă aterizare OZN din 1946.",
+                  "category": "landmark",
+                  "coords": [
+                        12.819116,
+                        56.232836
+                  ]
+            },
+            {
+                  "name": "Rebbelberga kyrka",
+                  "text": "O biserică medievală de piatră la marginea orașului Ängelholm.",
+                  "category": "religious",
+                  "coords": [
+                        12.879829,
+                        56.253509
+                  ]
+            },
+            {
+                  "name": "Ängelholms kyrka",
+                  "text": "Biserica principală din Ängelholm, construită în secolul al XIX-lea pe locul unei structuri anterioare.",
+                  "category": "religious",
+                  "coords": [
+                        12.86009,
+                        56.243443
+                  ]
+            },
+            {
+                  "name": "Sankt Mikael",
+                  "text": "O biserică modernă din Ängelholm care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        12.840945,
+                        56.227138
+                  ]
+            },
+            {
+                  "name": "Heliga korsets kapell",
+                  "text": "O capelă din cimitirul din Ängelholm, cunoscută pentru arhitectura sa modernă.",
+                  "category": "religious",
+                  "coords": [
+                        12.871572,
+                        56.254657
+                  ]
             }
       ],
       "en": [
@@ -1793,6 +12935,105 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         12.81422,
                         56.236907
+                  ]
+            },
+            {
+                  "name": "Ängelholms strandskogs naturreservat",
+                  "text": "A nature reserve with coastal forest and dunes near Ängelholm.",
+                  "category": "natural",
+                  "coords": [
+                        12.822802,
+                        56.24409
+                  ]
+            },
+            {
+                  "name": "Järnvägens Museum Ängelholm",
+                  "text": "A museum showing the development of Swedish railway history.",
+                  "category": "museum",
+                  "coords": [
+                        12.853902,
+                        56.242816
+                  ]
+            },
+            {
+                  "name": "Läder- och Lokalhistoriskt Museum",
+                  "text": "A museum in Ängelholm dedicated to the leather industry and local history.",
+                  "category": "museum",
+                  "coords": [
+                        12.865177,
+                        56.254609
+                  ]
+            },
+            {
+                  "name": "Ängelholms hembygdspark",
+                  "text": "A park with a deer park, museums, and playgrounds in Ängelholm.",
+                  "category": "recreational",
+                  "coords": [
+                        12.86331,
+                        56.254003
+                  ]
+            },
+            {
+                  "name": "Skolmuseum",
+                  "text": "A small museum showing school life of the past in Ängelholm.",
+                  "category": "museum",
+                  "coords": [
+                        12.865358,
+                        56.253669
+                  ]
+            },
+            {
+                  "name": "Värn 794",
+                  "text": "A historic defense bunker on the coast of Ängelholm.",
+                  "category": "fortress",
+                  "coords": [
+                        12.826676,
+                        56.250124
+                  ]
+            },
+            {
+                  "name": "UFO-Memorial Ängelholm",
+                  "text": "A monument in the forest near Ängelholm commemorating an alleged UFO landing in 1946.",
+                  "category": "landmark",
+                  "coords": [
+                        12.819116,
+                        56.232836
+                  ]
+            },
+            {
+                  "name": "Rebbelberga kyrka",
+                  "text": "A medieval stone church on the outskirts of Ängelholm.",
+                  "category": "religious",
+                  "coords": [
+                        12.879829,
+                        56.253509
+                  ]
+            },
+            {
+                  "name": "Ängelholms kyrka",
+                  "text": "The main church of Ängelholm, built in the 19th century on the site of an earlier structure.",
+                  "category": "religious",
+                  "coords": [
+                        12.86009,
+                        56.243443
+                  ]
+            },
+            {
+                  "name": "Sankt Mikael",
+                  "text": "A modern church in Ängelholm serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        12.840945,
+                        56.227138
+                  ]
+            },
+            {
+                  "name": "Heliga korsets kapell",
+                  "text": "A chapel in the Ängelholm cemetery, known for its modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        12.871572,
+                        56.254657
                   ]
             }
       ]
@@ -1853,6 +13094,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.173969,
                         58.98286
                   ]
+            },
+            {
+                  "name": "Musikens hus",
+                  "text": "Kulturstätte in Katrineholm, in der verschiedene Musik- und Theateraufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        16.20632,
+                        58.99338
+                  ]
+            },
+            {
+                  "name": "ETC Solpark",
+                  "text": "Innovativer Solarpark in Katrineholm mit Schwerpunkt auf erneuerbaren Energien und nachhaltigen Lösungen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.207022,
+                        59.008696
+                  ]
+            },
+            {
+                  "name": "Gröna Kulle",
+                  "text": "Historisches Gebäude in Katrineholm, das als Rathaus und Verwaltungszentrum dient.",
+                  "category": "historical",
+                  "coords": [
+                        16.207458,
+                        58.993579
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Moderne Gebetsstätte in Katrineholm, bekannt für ihre zeitgenössische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        16.208512,
+                        58.993723
+                  ]
+            },
+            {
+                  "name": "Katrineholms kyrka",
+                  "text": "Die Hauptpfarrkirche von Katrineholm mit klassischer kirchlicher Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        16.206029,
+                        58.998945
+                  ]
+            },
+            {
+                  "name": "Nävertorps kyrka",
+                  "text": "Lokale Kirche im Stadtteil Nävertorp von Katrineholm, die der Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.186021,
+                        58.987232
+                  ]
             }
       ],
       "hu": [
@@ -1863,6 +13158,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.173969,
                         58.98286
+                  ]
+            },
+            {
+                  "name": "Musikens hus",
+                  "text": "Kulturális helyszín Katrineholmban, amely különféle zenei és színházi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.20632,
+                        58.99338
+                  ]
+            },
+            {
+                  "name": "ETC Solpark",
+                  "text": "Innovatív naperőműpark Katrineholmban, amely a megújuló energiára és a fenntartható megoldásokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        16.207022,
+                        59.008696
+                  ]
+            },
+            {
+                  "name": "Gröna Kulle",
+                  "text": "Történelmi épület Katrineholmban, amely városházaként és adminisztratív központként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        16.207458,
+                        58.993579
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Modern templom Katrineholmban, amely kortárs építészeti kialakításáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        16.208512,
+                        58.993723
+                  ]
+            },
+            {
+                  "name": "Katrineholms kyrka",
+                  "text": "Katrineholm fő plébániatemploma, klasszikus egyházi építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        16.206029,
+                        58.998945
+                  ]
+            },
+            {
+                  "name": "Nävertorps kyrka",
+                  "text": "Helyi templom Katrineholm Nävertorp negyedében, amely a közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        16.186021,
+                        58.987232
                   ]
             }
       ],
@@ -1875,6 +13224,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         16.173969,
                         58.98286
                   ]
+            },
+            {
+                  "name": "Musikens hus",
+                  "text": "Locație culturală din Katrineholm care găzduiește diverse spectacole muzicale și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        16.20632,
+                        58.99338
+                  ]
+            },
+            {
+                  "name": "ETC Solpark",
+                  "text": "Parc solar inovator în Katrineholm, axat pe energie regenerabilă și soluții sustenabile.",
+                  "category": "landmark",
+                  "coords": [
+                        16.207022,
+                        59.008696
+                  ]
+            },
+            {
+                  "name": "Gröna Kulle",
+                  "text": "Clădire istorică din Katrineholm care servește drept primărie și centru administrativ.",
+                  "category": "historical",
+                  "coords": [
+                        16.207458,
+                        58.993579
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Lăcaș de cult modern din Katrineholm, cunoscut pentru designul său arhitectural contemporan.",
+                  "category": "religious",
+                  "coords": [
+                        16.208512,
+                        58.993723
+                  ]
+            },
+            {
+                  "name": "Katrineholms kyrka",
+                  "text": "Biserica parohială principală din Katrineholm, cu arhitectură ecleziastică clasică.",
+                  "category": "religious",
+                  "coords": [
+                        16.206029,
+                        58.998945
+                  ]
+            },
+            {
+                  "name": "Nävertorps kyrka",
+                  "text": "Biserică locală în districtul Nävertorp din Katrineholm, în slujba comunității.",
+                  "category": "religious",
+                  "coords": [
+                        16.186021,
+                        58.987232
+                  ]
             }
       ],
       "en": [
@@ -1885,6 +13288,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         16.173969,
                         58.98286
+                  ]
+            },
+            {
+                  "name": "Musikens hus",
+                  "text": "Cultural venue in Katrineholm hosting various musical and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        16.20632,
+                        58.99338
+                  ]
+            },
+            {
+                  "name": "ETC Solpark",
+                  "text": "Innovative solar park in Katrineholm focusing on renewable energy and sustainable solutions.",
+                  "category": "landmark",
+                  "coords": [
+                        16.207022,
+                        59.008696
+                  ]
+            },
+            {
+                  "name": "Gröna Kulle",
+                  "text": "Historic building in Katrineholm serving as the town hall and administrative center.",
+                  "category": "historical",
+                  "coords": [
+                        16.207458,
+                        58.993579
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Modern place of worship in Katrineholm known for its contemporary architectural design.",
+                  "category": "religious",
+                  "coords": [
+                        16.208512,
+                        58.993723
+                  ]
+            },
+            {
+                  "name": "Katrineholms kyrka",
+                  "text": "The main parish church of Katrineholm, featuring classic ecclesiastical architecture.",
+                  "category": "religious",
+                  "coords": [
+                        16.206029,
+                        58.998945
+                  ]
+            },
+            {
+                  "name": "Nävertorps kyrka",
+                  "text": "Local church in the Nävertorp district of Katrineholm serving the community.",
+                  "category": "religious",
+                  "coords": [
+                        16.186021,
+                        58.987232
                   ]
             }
       ]
@@ -2063,7 +13520,376 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-karlshamn-cities-v2",
+    id: "sweden-karlshamn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Karlshamns museum",
+                  "text": "Ein Museum in Karlshamn, das die Geschichte der Stadt und ihrer Industrie dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.859267,
+                        56.173893
+                  ]
+            },
+            {
+                  "name": "Sjöfartsmuseet Karlshamn",
+                  "text": "Ein Museum, das sich der maritimen Geschichte und Seefahrtstradition von Karlshamn widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.86521,
+                        56.165834
+                  ]
+            },
+            {
+                  "name": "Ortholmen",
+                  "text": "Ein kleiner Leuchtturm, der den Schiffsweg in den Hafen von Karlshamn markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.875917,
+                        56.155667
+                  ]
+            },
+            {
+                  "name": "Kreativum",
+                  "text": "Ein interaktives Wissenschaftszentrum in Karlshamn für Entdecker jeden Alters.",
+                  "category": "museum",
+                  "coords": [
+                        14.852258,
+                        56.194665
+                  ]
+            },
+            {
+                  "name": "Höga rör",
+                  "text": "Ein prähistorisches Hügelgrab aus der Bronzezeit in der Nähe von Karlshamn.",
+                  "category": "historical",
+                  "coords": [
+                        14.844966,
+                        56.14927
+                  ]
+            },
+            {
+                  "name": "Punschmuseet",
+                  "text": "Ein einzigartiges Museum in Karlshamn, das die Geschichte der schwedischen Punschherstellung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.85819,
+                        56.173821
+                  ]
+            },
+            {
+                  "name": "Karlshamns Stadsteater",
+                  "text": "Das städtische Theater von Karlshamn, ein Ort für lokale Aufführungen und Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871188,
+                        56.16853
+                  ]
+            },
+            {
+                  "name": "Lokstallarna",
+                  "text": "Ein ehemaliges Bahnbetriebswerk in Karlshamn, das heute als Kulturzentrum genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.852683,
+                        56.177179
+                  ]
+            },
+            {
+                  "name": "Snäckan",
+                  "text": "Eine bekannte Freilichtbühne in Karlshamn für Konzerte und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871491,
+                        56.166029
+                  ]
+            },
+            {
+                  "name": "Carl Gustafs kyrka",
+                  "text": "Die im 17. Jahrhundert erbaute Hauptkirche von Karlshamn, benannt nach Karl X. Gustav.",
+                  "category": "religious",
+                  "coords": [
+                        14.862177,
+                        56.171428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Karlshamns museum",
+                  "text": "Múzeum Karlshamnban, amely a város és iparának történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        14.859267,
+                        56.173893
+                  ]
+            },
+            {
+                  "name": "Sjöfartsmuseet Karlshamn",
+                  "text": "Múzeum, amely Karlshamn tengerészeti történetének és hajózási hagyományainak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        14.86521,
+                        56.165834
+                  ]
+            },
+            {
+                  "name": "Ortholmen",
+                  "text": "Kisméretű világítótorony, amely a karlshamni kikötőbe vezető útvonalat jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.875917,
+                        56.155667
+                  ]
+            },
+            {
+                  "name": "Kreativum",
+                  "text": "Interaktív tudományos központ Karlshamnban minden korosztály számára.",
+                  "category": "museum",
+                  "coords": [
+                        14.852258,
+                        56.194665
+                  ]
+            },
+            {
+                  "name": "Höga rör",
+                  "text": "Bronzkori történelem előtti halomsír Karlshamn közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.844966,
+                        56.14927
+                  ]
+            },
+            {
+                  "name": "Punschmuseet",
+                  "text": "Egyedülálló múzeum Karlshamnban, amely a svéd puncskészítés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.85819,
+                        56.173821
+                  ]
+            },
+            {
+                  "name": "Karlshamns Stadsteater",
+                  "text": "Karlshamn városi színháza, helyi előadások és kultúra helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871188,
+                        56.16853
+                  ]
+            },
+            {
+                  "name": "Lokstallarna",
+                  "text": "Egykori fűtőház Karlshamnban, amelyet ma kulturális központként használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        14.852683,
+                        56.177179
+                  ]
+            },
+            {
+                  "name": "Snäckan",
+                  "text": "Karlshamn ismert szabadtéri színpada koncertek és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871491,
+                        56.166029
+                  ]
+            },
+            {
+                  "name": "Carl Gustafs kyrka",
+                  "text": "Karlshamn 17. században épült főtemploma, amelyet X. Károly Gusztávról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        14.862177,
+                        56.171428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Karlshamns museum",
+                  "text": "Un muzeu din Karlshamn care documentează istoria orașului și a industriei sale.",
+                  "category": "museum",
+                  "coords": [
+                        14.859267,
+                        56.173893
+                  ]
+            },
+            {
+                  "name": "Sjöfartsmuseet Karlshamn",
+                  "text": "Un muzeu dedicat istoriei maritime și tradiției navale din Karlshamn.",
+                  "category": "museum",
+                  "coords": [
+                        14.86521,
+                        56.165834
+                  ]
+            },
+            {
+                  "name": "Ortholmen",
+                  "text": "Un far mic care marchează traseul spre portul Karlshamn.",
+                  "category": "landmark",
+                  "coords": [
+                        14.875917,
+                        56.155667
+                  ]
+            },
+            {
+                  "name": "Kreativum",
+                  "text": "Un centru științific interactiv în Karlshamn pentru exploratori de toate vârstele.",
+                  "category": "museum",
+                  "coords": [
+                        14.852258,
+                        56.194665
+                  ]
+            },
+            {
+                  "name": "Höga rör",
+                  "text": "Un tumul funerar preistoric din epoca bronzului, situat lângă Karlshamn.",
+                  "category": "historical",
+                  "coords": [
+                        14.844966,
+                        56.14927
+                  ]
+            },
+            {
+                  "name": "Punschmuseet",
+                  "text": "Un muzeu unic din Karlshamn care prezintă istoria producției suedeze de punch.",
+                  "category": "museum",
+                  "coords": [
+                        14.85819,
+                        56.173821
+                  ]
+            },
+            {
+                  "name": "Karlshamns Stadsteater",
+                  "text": "Teatrul municipal din Karlshamn, un loc pentru spectacole locale și cultură.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871188,
+                        56.16853
+                  ]
+            },
+            {
+                  "name": "Lokstallarna",
+                  "text": "Un fost depou de locomotive din Karlshamn, folosit astăzi ca centru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        14.852683,
+                        56.177179
+                  ]
+            },
+            {
+                  "name": "Snäckan",
+                  "text": "O scenă în aer liber cunoscută din Karlshamn pentru concerte și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871491,
+                        56.166029
+                  ]
+            },
+            {
+                  "name": "Carl Gustafs kyrka",
+                  "text": "Biserica principală din Karlshamn, construită în secolul al XVII-lea și numită după Carol al X-lea Gustav.",
+                  "category": "religious",
+                  "coords": [
+                        14.862177,
+                        56.171428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Karlshamn's Museum",
+                  "text": "A museum in Karlshamn documenting the history of the city and its industry.",
+                  "category": "museum",
+                  "coords": [
+                        14.859267,
+                        56.173893
+                  ]
+            },
+            {
+                  "name": "Sjöfartsmuseet Karlshamn",
+                  "text": "A museum dedicated to the maritime history and seafaring tradition of Karlshamn.",
+                  "category": "museum",
+                  "coords": [
+                        14.86521,
+                        56.165834
+                  ]
+            },
+            {
+                  "name": "Ortholmen",
+                  "text": "A small lighthouse marking the approach to the port of Karlshamn.",
+                  "category": "landmark",
+                  "coords": [
+                        14.875917,
+                        56.155667
+                  ]
+            },
+            {
+                  "name": "Kreativum",
+                  "text": "An interactive science center in Karlshamn for explorers of all ages.",
+                  "category": "museum",
+                  "coords": [
+                        14.852258,
+                        56.194665
+                  ]
+            },
+            {
+                  "name": "Höga rör",
+                  "text": "A prehistoric burial mound from the Bronze Age located near Karlshamn.",
+                  "category": "historical",
+                  "coords": [
+                        14.844966,
+                        56.14927
+                  ]
+            },
+            {
+                  "name": "Punschmuseet",
+                  "text": "A unique museum in Karlshamn showing the history of Swedish punch production.",
+                  "category": "museum",
+                  "coords": [
+                        14.85819,
+                        56.173821
+                  ]
+            },
+            {
+                  "name": "Karlshamns Stadsteater",
+                  "text": "The municipal theatre of Karlshamn, a venue for local performances and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871188,
+                        56.16853
+                  ]
+            },
+            {
+                  "name": "Lokstallarna",
+                  "text": "A former locomotive shed in Karlshamn, now used as a cultural center.",
+                  "category": "cultural",
+                  "coords": [
+                        14.852683,
+                        56.177179
+                  ]
+            },
+            {
+                  "name": "Snäckan",
+                  "text": "A well-known open-air stage in Karlshamn for concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.871491,
+                        56.166029
+                  ]
+            },
+            {
+                  "name": "Carl Gustafs kyrka",
+                  "text": "The main church of Karlshamn, built in the 17th century and named after Karl X Gustav.",
+                  "category": "religious",
+                  "coords": [
+                        14.862177,
+                        56.171428
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Karlshamn", hu: "Karlshamn", ro: "Karlshamn", en: "Karlshamn"},
@@ -2120,6 +13946,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.161964,
                         61.719827
                   ]
+            },
+            {
+                  "name": "Hudiksvalls Teater",
+                  "text": "Historisches Theater in Hudiksvall, Ende des 19. Jahrhunderts erbaut und noch immer Schauplatz von Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        17.103744,
+                        61.731107
+                  ]
+            },
+            {
+                  "name": "Hälsinglands Museum",
+                  "text": "Regionalmuseum in Hudiksvall, das die Kulturgeschichte und Kunst der Region Hälsingland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.107727,
+                        61.727966
+                  ]
+            },
+            {
+                  "name": "Per-Jansgården",
+                  "text": "Lokales Heimatmuseum in Hudiksvall, das traditionelle Bauernhofgebäude und die Lebensweise bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        17.095292,
+                        61.703887
+                  ]
+            },
+            {
+                  "name": "Jakobs kyrka",
+                  "text": "Historische Steinkirche in Hudiksvall aus dem 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        17.10456,
+                        61.726184
+                  ]
+            },
+            {
+                  "name": "Håstakyrkan",
+                  "text": "Stadtteilkirche in Hudiksvall, die als Versammlungsort für die örtliche Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.085513,
+                        61.72056
+                  ]
+            },
+            {
+                  "name": "Björkbergskyrkan",
+                  "text": "Moderne Gemeindekirche in Hudiksvall, die geistliche Dienste für die Nachbarschaft anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        17.14035,
+                        61.729993
+                  ]
             }
       ],
       "hu": [
@@ -2130,6 +14010,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.161964,
                         61.719827
+                  ]
+            },
+            {
+                  "name": "Hudiksvalls Teater",
+                  "text": "Történelmi színház Hudiksvallban, amely a 19. század végén épült, és ma is eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.103744,
+                        61.731107
+                  ]
+            },
+            {
+                  "name": "Hälsinglands Museum",
+                  "text": "Regionális múzeum Hudiksvallban, amely Hälsingland vidékének kultúrtörténetét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.107727,
+                        61.727966
+                  ]
+            },
+            {
+                  "name": "Per-Jansgården",
+                  "text": "Helyi tájház Hudiksvallban, amely a hagyományos gazdasági épületeket és életmódot őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        17.095292,
+                        61.703887
+                  ]
+            },
+            {
+                  "name": "Jakobs kyrka",
+                  "text": "Történelmi kőtemplom Hudiksvallban, amely a 17. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        17.10456,
+                        61.726184
+                  ]
+            },
+            {
+                  "name": "Håstakyrkan",
+                  "text": "Kerületi templom Hudiksvallban, amely a helyi gyülekezet találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        17.085513,
+                        61.72056
+                  ]
+            },
+            {
+                  "name": "Björkbergskyrkan",
+                  "text": "Modern közösségi templom Hudiksvallban, amely spirituális szolgáltatásokat nyújt a környéknek.",
+                  "category": "religious",
+                  "coords": [
+                        17.14035,
+                        61.729993
                   ]
             }
       ],
@@ -2142,6 +14076,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.161964,
                         61.719827
                   ]
+            },
+            {
+                  "name": "Hudiksvalls Teater",
+                  "text": "Teatru istoric din Hudiksvall, construit la sfârșitul secolului al XIX-lea și care încă găzduiește evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        17.103744,
+                        61.731107
+                  ]
+            },
+            {
+                  "name": "Hälsinglands Museum",
+                  "text": "Muzeu regional din Hudiksvall care prezintă istoria culturală și arta zonei Hälsingland.",
+                  "category": "museum",
+                  "coords": [
+                        17.107727,
+                        61.727966
+                  ]
+            },
+            {
+                  "name": "Per-Jansgården",
+                  "text": "Muzeu local de patrimoniu din Hudiksvall, care conservă clădirile tradiționale de fermă și stilul de viață.",
+                  "category": "museum",
+                  "coords": [
+                        17.095292,
+                        61.703887
+                  ]
+            },
+            {
+                  "name": "Jakobs kyrka",
+                  "text": "Biserică istorică de piatră din Hudiksvall, datând din secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        17.10456,
+                        61.726184
+                  ]
+            },
+            {
+                  "name": "Håstakyrkan",
+                  "text": "Biserică de district din Hudiksvall, care servește drept loc de adunare pentru congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        17.085513,
+                        61.72056
+                  ]
+            },
+            {
+                  "name": "Björkbergskyrkan",
+                  "text": "Biserică comunitară modernă din Hudiksvall, care oferă servicii spirituale cartierului.",
+                  "category": "religious",
+                  "coords": [
+                        17.14035,
+                        61.729993
+                  ]
             }
       ],
       "en": [
@@ -2152,6 +14140,60 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.161964,
                         61.719827
+                  ]
+            },
+            {
+                  "name": "Hudiksvalls Teater",
+                  "text": "Historic theater in Hudiksvall, built in the late 19th century and still hosting events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.103744,
+                        61.731107
+                  ]
+            },
+            {
+                  "name": "Hälsinglands Museum",
+                  "text": "Regional museum in Hudiksvall showcasing the cultural history and art of the Hälsingland area.",
+                  "category": "museum",
+                  "coords": [
+                        17.107727,
+                        61.727966
+                  ]
+            },
+            {
+                  "name": "Per-Jansgården",
+                  "text": "Local heritage museum in Hudiksvall preserving traditional farm buildings and lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        17.095292,
+                        61.703887
+                  ]
+            },
+            {
+                  "name": "St. Jacob's Church",
+                  "text": "Historic stone church in Hudiksvall dating back to the 17th century.",
+                  "category": "religious",
+                  "coords": [
+                        17.10456,
+                        61.726184
+                  ]
+            },
+            {
+                  "name": "Håstakyrkan",
+                  "text": "District church in Hudiksvall serving as a gathering place for the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        17.085513,
+                        61.72056
+                  ]
+            },
+            {
+                  "name": "Björkbergskyrkan",
+                  "text": "Modern community church in Hudiksvall providing spiritual services to the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        17.14035,
+                        61.729993
                   ]
             }
       ]
@@ -2202,7 +14244,340 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-varnamo-cities-v2",
+    id: "sweden-varnamo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bruno Mathsson Center",
+                  "text": "Das Bruno Mathsson Center ist dem Werk des berühmten schwedischen Möbeldesigners in Värnamo gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.052273,
+                        57.18041
+                  ]
+            },
+            {
+                  "name": "Mosslelunds gravfält",
+                  "text": "Dieses Gräberfeld ist eine wichtige archäologische Stätte aus der Eisenzeit in der Nähe von Värnamo.",
+                  "category": "historical",
+                  "coords": [
+                        14.036086,
+                        57.171282
+                  ]
+            },
+            {
+                  "name": "Stora scenen",
+                  "text": "Die Hauptbühne (Stora scenen) ist ein zentraler Ort für Aufführungen und kulturelle Veranstaltungen in Värnamo.",
+                  "category": "cultural",
+                  "coords": [
+                        14.025787,
+                        57.185777
+                  ]
+            },
+            {
+                  "name": "Auditoriet",
+                  "text": "Das Auditoriet ist ein moderner Veranstaltungssaal für Theater und Konzerte in Värnamo.",
+                  "category": "cultural",
+                  "coords": [
+                        14.037133,
+                        57.188639
+                  ]
+            },
+            {
+                  "name": "Värnamo Wake Park",
+                  "text": "Der Värnamo Wake Park bietet spannende Wassersportmöglichkeiten für Besucher in der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        14.024146,
+                        57.20599
+                  ]
+            },
+            {
+                  "name": "Vandalorum",
+                  "text": "Vandalorum ist ein renommiertes Zentrum für Kunst und Design am Stadtrand von Värnamo.",
+                  "category": "museum",
+                  "coords": [
+                        14.064409,
+                        57.16561
+                  ]
+            },
+            {
+                  "name": "Värnamo kyrka",
+                  "text": "Die Kirche von Värnamo ist ein markantes religiöses Bauwerk im Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.048619,
+                        57.18394
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Die Sankt Johannes kyrka ist eine architektonisch interessante Kirche in Värnamo.",
+                  "category": "religious",
+                  "coords": [
+                        14.027835,
+                        57.18366
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Die Mariakyrkan ist eine moderne Kirche, die für die Gemeinde von Värnamo errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        14.068241,
+                        57.183056
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bruno Mathsson Center",
+                  "text": "A Bruno Mathsson Center a híres svéd bútortervező munkásságának van szentelve Värnamóban.",
+                  "category": "museum",
+                  "coords": [
+                        14.052273,
+                        57.18041
+                  ]
+            },
+            {
+                  "name": "Mosslelunds gravfält",
+                  "text": "Ez a sírmező egy fontos vaskori régészeti lelőhely Värnamo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.036086,
+                        57.171282
+                  ]
+            },
+            {
+                  "name": "Stora scenen",
+                  "text": "A Stora scenen (Nagy színpad) az előadások és kulturális események központi helyszíne Värnamóban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.025787,
+                        57.185777
+                  ]
+            },
+            {
+                  "name": "Auditoriet",
+                  "text": "Az Auditoriet egy modern színházi és koncertterem Värnamóban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.037133,
+                        57.188639
+                  ]
+            },
+            {
+                  "name": "Värnamo Wake Park",
+                  "text": "A Värnamo Wake Park izgalmas vízi sportolási lehetőségeket kínál a város látogatóinak.",
+                  "category": "recreational",
+                  "coords": [
+                        14.024146,
+                        57.20599
+                  ]
+            },
+            {
+                  "name": "Vandalorum",
+                  "text": "A Vandalorum egy neves művészeti és design központ Värnamo szélén.",
+                  "category": "museum",
+                  "coords": [
+                        14.064409,
+                        57.16561
+                  ]
+            },
+            {
+                  "name": "Värnamo kyrka",
+                  "text": "Värnamo temploma a városközpont egyik meghatározó vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        14.048619,
+                        57.18394
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "A Sankt Johannes kyrka egy építészetileg érdekes templom Värnamóban.",
+                  "category": "religious",
+                  "coords": [
+                        14.027835,
+                        57.18366
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "A Mariakyrkan egy modern templom, amely Värnamo közössége számára épült.",
+                  "category": "religious",
+                  "coords": [
+                        14.068241,
+                        57.183056
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bruno Mathsson Center",
+                  "text": "Centrul Bruno Mathsson este dedicat operei celebrului designer de mobilier suedez din Värnamo.",
+                  "category": "museum",
+                  "coords": [
+                        14.052273,
+                        57.18041
+                  ]
+            },
+            {
+                  "name": "Mosslelunds gravfält",
+                  "text": "Acest câmp de morminte este un sit arheologic important din epoca fierului, situat lângă Värnamo.",
+                  "category": "historical",
+                  "coords": [
+                        14.036086,
+                        57.171282
+                  ]
+            },
+            {
+                  "name": "Stora scenen",
+                  "text": "Scena mare (Stora scenen) este un loc central pentru spectacole și evenimente culturale în Värnamo.",
+                  "category": "cultural",
+                  "coords": [
+                        14.025787,
+                        57.185777
+                  ]
+            },
+            {
+                  "name": "Auditoriet",
+                  "text": "Auditoriet este o sală modernă de spectacole pentru teatru și concerte în Värnamo.",
+                  "category": "cultural",
+                  "coords": [
+                        14.037133,
+                        57.188639
+                  ]
+            },
+            {
+                  "name": "Värnamo Wake Park",
+                  "text": "Värnamo Wake Park oferă facilități captivante pentru sporturi nautice vizitatorilor din oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        14.024146,
+                        57.20599
+                  ]
+            },
+            {
+                  "name": "Vandalorum",
+                  "text": "Vandalorum este un centru renumit pentru artă și design situat la marginea orașului Värnamo.",
+                  "category": "museum",
+                  "coords": [
+                        14.064409,
+                        57.16561
+                  ]
+            },
+            {
+                  "name": "Värnamo kyrka",
+                  "text": "Biserica din Värnamo este o structură religioasă proeminentă din centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        14.048619,
+                        57.18394
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Sankt Johannes kyrka este o biserică interesantă din punct de vedere arhitectural din Värnamo.",
+                  "category": "religious",
+                  "coords": [
+                        14.027835,
+                        57.18366
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Mariakyrkan este o biserică modernă construită pentru comunitatea din Värnamo.",
+                  "category": "religious",
+                  "coords": [
+                        14.068241,
+                        57.183056
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bruno Mathsson Center",
+                  "text": "The Bruno Mathsson Center is dedicated to the work of the famous Swedish furniture designer in Värnamo.",
+                  "category": "museum",
+                  "coords": [
+                        14.052273,
+                        57.18041
+                  ]
+            },
+            {
+                  "name": "Mosslelunds gravfält",
+                  "text": "This grave field is an important Iron Age archaeological site located near Värnamo.",
+                  "category": "historical",
+                  "coords": [
+                        14.036086,
+                        57.171282
+                  ]
+            },
+            {
+                  "name": "Stora scenen",
+                  "text": "The Main Stage (Stora scenen) is a central venue for performances and cultural events in Värnamo.",
+                  "category": "cultural",
+                  "coords": [
+                        14.025787,
+                        57.185777
+                  ]
+            },
+            {
+                  "name": "Auditoriet",
+                  "text": "The Auditorium is a modern venue for theatre and concerts in Värnamo.",
+                  "category": "cultural",
+                  "coords": [
+                        14.037133,
+                        57.188639
+                  ]
+            },
+            {
+                  "name": "Värnamo Wake Park",
+                  "text": "Värnamo Wake Park offers exciting water sports facilities for visitors in the city.",
+                  "category": "recreational",
+                  "coords": [
+                        14.024146,
+                        57.20599
+                  ]
+            },
+            {
+                  "name": "Vandalorum",
+                  "text": "Vandalorum is a renowned center for art and design located on the outskirts of Värnamo.",
+                  "category": "museum",
+                  "coords": [
+                        14.064409,
+                        57.16561
+                  ]
+            },
+            {
+                  "name": "Värnamo kyrka",
+                  "text": "Värnamo Church is a prominent religious building in the center of the city.",
+                  "category": "religious",
+                  "coords": [
+                        14.048619,
+                        57.18394
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Sankt Johannes kyrka is an architecturally interesting church in Värnamo.",
+                  "category": "religious",
+                  "coords": [
+                        14.027835,
+                        57.18366
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Mariakyrkan is a modern church built for the community of Värnamo.",
+                  "category": "religious",
+                  "coords": [
+                        14.068241,
+                        57.183056
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Värnamo", hu: "Värnamo", ro: "Värnamo", en: "Värnamo"},
@@ -2249,7 +14624,448 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-ystad-cities-v2",
+    id: "sweden-ystad-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "Ein ausgedehntes Wald- und Naturschutzgebiet mit Sandstränden östlich von Ystad.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "Ein prächtiges Theatergebäude aus dem Jahr 1894 im Herzen von Ystad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "Ein bedeutendes Kunstmuseum in Ystad mit Fokus auf südschwedische und dänische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "Ein Museum, das der Filmindustrie und der Filmgeschichte in Ystad gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "Ein beliebter Strandbereich in der Küstenstadt Ystad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "Ein Museum in Ystad, das die Geschichte der örtlichen freiwilligen Feuerwehr zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "Eine Fotogalerie in Ystad, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "Eine Galerie für zeitgenössische Kunst im Zentrum von Ystad.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "Ein gut erhaltenes historisches Fachwerkhaus in Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "Ein markantes historisches Gebäude in der Altstadt von Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankt-Marien-Kirche",
+                  "text": "Eine bedeutende mittelalterliche Backsteinkirche im Zentrum von Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "Eine historische Landkirche in der Nähe von Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "Kiterjedt erdő- és természetvédelmi terület homokos strandokkal Ystadról keletre.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "Egy pompás, 1894-ben épült színházépület Ystad szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "Jelentős művészeti múzeum Ystadban, amely a dél-svéd és dán művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "Ystad filmiparát és filmtörténetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "Népszerű tengerparti szakasz Ystad városában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "Az önkéntes tűzoltóság történetét bemutató múzeum Ystadban.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "Kortárs műveket bemutató fotógaléria Ystadban.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "Kortárs művészeti galéria Ystad központjában.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "Egy jó állapotban fennmaradt történelmi fagerendás ház Ystadban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "Jellegzetes történelmi épület Ystad óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Ystad központjának jelentős középkori tégla-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "Történelmi vidéki templom Ystad közelében.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "O zonă extinsă de pădure și rezervație naturală cu plaje cu nisip, la est de Ystad.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "O clădire somptuoasă de teatru din 1894, situată în inima orașului Ystad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "Un muzeu de artă important din Ystad, cu accent pe arta din sudul Suediei și Danemarca.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "Un muzeu dedicat industriei cinematografice și istoriei filmului din Ystad.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "O zonă de plajă populară în orașul de coastă Ystad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "Un muzeu din Ystad care prezintă istoria pompierilor voluntari locali.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "O galerie foto din Ystad care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "O galerie de artă contemporană situată în centrul orașului Ystad.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "O casă istorică cu structură din lemn, bine conservată, în Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "O clădire istorică distinctivă în orașul vechi din Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "O biserică medievală importantă din cărămidă în centrul orașului Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "O biserică rurală istorică situată în apropiere de Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ystads sandskog",
+                  "text": "An extensive forest and nature reserve with sandy beaches east of Ystad.",
+                  "category": "natural",
+                  "coords": [
+                        13.895335,
+                        55.43256
+                  ]
+            },
+            {
+                  "name": "Ystads teater",
+                  "text": "A grand theatre building from 1894 located in the heart of Ystad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.818333,
+                        55.427702
+                  ]
+            },
+            {
+                  "name": "Ystads Konstmuseum",
+                  "text": "A significant art museum in Ystad with a focus on Southern Swedish and Danish art.",
+                  "category": "museum",
+                  "coords": [
+                        13.824084,
+                        55.428325
+                  ]
+            },
+            {
+                  "name": "Ystad Studios Visitor Center",
+                  "text": "A museum dedicated to the film industry and film history in Ystad.",
+                  "category": "museum",
+                  "coords": [
+                        13.843838,
+                        55.433862
+                  ]
+            },
+            {
+                  "name": "Strand",
+                  "text": "A popular beach area in the coastal town of Ystad.",
+                  "category": "recreational",
+                  "coords": [
+                        13.78855,
+                        55.423889
+                  ]
+            },
+            {
+                  "name": "Frivilliga Brandkårens Museum",
+                  "text": "A museum in Ystad showcasing the history of the local volunteer fire brigade.",
+                  "category": "museum",
+                  "coords": [
+                        13.820156,
+                        55.43043
+                  ]
+            },
+            {
+                  "name": "Fotogalleri Stefan Idemark",
+                  "text": "A photo gallery in Ystad showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        13.827076,
+                        55.429924
+                  ]
+            },
+            {
+                  "name": "Gallery M1",
+                  "text": "A contemporary art gallery located in the center of Ystad.",
+                  "category": "museum",
+                  "coords": [
+                        13.821813,
+                        55.427998
+                  ]
+            },
+            {
+                  "name": "Pilgrändshuset",
+                  "text": "A well-preserved historic half-timbered house in Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.82432,
+                        55.430267
+                  ]
+            },
+            {
+                  "name": "Tvärhuset",
+                  "text": "A distinctive historic building in the old town of Ystad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.817665,
+                        55.428989
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "A significant medieval brick church in the center of Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.819013,
+                        55.429304
+                  ]
+            },
+            {
+                  "name": "Öja kyrka",
+                  "text": "A historic rural church located near Ystad.",
+                  "category": "religious",
+                  "coords": [
+                        13.843403,
+                        55.452902
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Ystad", hu: "Ystad", ro: "Ystad", en: "Ystad"},
@@ -2296,7 +15112,304 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-kristinehamn-cities-v2",
+    id: "sweden-kristinehamn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kristinehamns hembygdsgård",
+                  "text": "Freilichtmuseum in Kristinehamn mit historischen Gebäuden aus der Region Värmland.",
+                  "category": "museum",
+                  "coords": [
+                        14.129961,
+                        59.314225
+                  ]
+            },
+            {
+                  "name": "Kristinehamns konstmuseum",
+                  "text": "Kunstmuseum in Kristinehamn, das zeitgenössische Werke in einem ehemaligen Krankenhausgebäude ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.085821,
+                        59.327092
+                  ]
+            },
+            {
+                  "name": "Christinateatern",
+                  "text": "Elegantes Theater in Kristinehamn, das für eine Vielzahl von Bühnenstücken und kulturellen Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.108723,
+                        59.307546
+                  ]
+            },
+            {
+                  "name": "Kristinehamns historiska museum",
+                  "text": "Lokalhistorisches Museum in Kristinehamn, das die Entwicklung der Stadt und ihrer Industrie darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.104711,
+                        59.309773
+                  ]
+            },
+            {
+                  "name": "Presteruds herrgård",
+                  "text": "Bemerkenswertes historisches Herrenhaus in Kristinehamn, umgeben von einer malerischen Parkanlage.",
+                  "category": "castle",
+                  "coords": [
+                        14.066498,
+                        59.308437
+                  ]
+            },
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Öffentlicher Badeplatz in Kristinehamn am Ufer des Vänersees.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            },
+            {
+                  "name": "Varnumsviken",
+                  "text": "Malerische Bucht des Vänersees bei Kristinehamn, beliebt zum Bootfahren und zur Vogelbeobachtung.",
+                  "category": "landmark",
+                  "coords": [
+                        14.07476,
+                        59.320189
+                  ]
+            },
+            {
+                  "name": "Kristinehamns kyrka",
+                  "text": "Prominente neugotische Kirche in Kristinehamn, ein Wahrzeichen der Stadt seit dem 19. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        14.116527,
+                        59.310535
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kristinehamns hembygdsgård",
+                  "text": "Szabadtéri múzeum Kristinehamnban, amely Värmland régió történelmi épületeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.129961,
+                        59.314225
+                  ]
+            },
+            {
+                  "name": "Kristinehamns konstmuseum",
+                  "text": "Művészeti múzeum Kristinehamnban, amely kortárs műveket mutat be egy egykori kórházépületben.",
+                  "category": "museum",
+                  "coords": [
+                        14.085821,
+                        59.327092
+                  ]
+            },
+            {
+                  "name": "Christinateatern",
+                  "text": "Elegáns színház Kristinehamnban, amelyet különféle színpadi darabokhoz és kulturális eseményekhez használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        14.108723,
+                        59.307546
+                  ]
+            },
+            {
+                  "name": "Kristinehamns historiska museum",
+                  "text": "Helytörténeti múzeum Kristinehamnban, amely a város és iparának fejlődését részletezi.",
+                  "category": "museum",
+                  "coords": [
+                        14.104711,
+                        59.309773
+                  ]
+            },
+            {
+                  "name": "Presteruds herrgård",
+                  "text": "Nevezetes történelmi udvarház Kristinehamnban, amelyet festői parkos terület vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        14.066498,
+                        59.308437
+                  ]
+            },
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Nyilvános strand Kristinehamnban, a Vänern-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            },
+            {
+                  "name": "Varnumsviken",
+                  "text": "A Vänern-tó festői öble Kristinehamn közelében, amely népszerű csónakázásra és madármegfigyelésre.",
+                  "category": "landmark",
+                  "coords": [
+                        14.07476,
+                        59.320189
+                  ]
+            },
+            {
+                  "name": "Kristinehamns kyrka",
+                  "text": "Kiemelkedő neogótikus templom Kristinehamnban, a város jelképe a 19. század óta.",
+                  "category": "religious",
+                  "coords": [
+                        14.116527,
+                        59.310535
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kristinehamns hembygdsgård",
+                  "text": "Muzeu în aer liber din Kristinehamn, care prezintă clădiri istorice din regiunea Värmland.",
+                  "category": "museum",
+                  "coords": [
+                        14.129961,
+                        59.314225
+                  ]
+            },
+            {
+                  "name": "Kristinehamns konstmuseum",
+                  "text": "Muzeu de artă din Kristinehamn, care expune lucrări contemporane într-o fostă clădire de spital.",
+                  "category": "museum",
+                  "coords": [
+                        14.085821,
+                        59.327092
+                  ]
+            },
+            {
+                  "name": "Christinateatern",
+                  "text": "Teatru elegant din Kristinehamn, folosit pentru o varietate de piese de teatru și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.108723,
+                        59.307546
+                  ]
+            },
+            {
+                  "name": "Kristinehamns historiska museum",
+                  "text": "Muzeu de istorie locală din Kristinehamn, care detaliază dezvoltarea orașului și a industriei sale.",
+                  "category": "museum",
+                  "coords": [
+                        14.104711,
+                        59.309773
+                  ]
+            },
+            {
+                  "name": "Presteruds herrgård",
+                  "text": "Conac istoric notabil din Kristinehamn, înconjurat de o zonă de parc pitorească.",
+                  "category": "castle",
+                  "coords": [
+                        14.066498,
+                        59.308437
+                  ]
+            },
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Plajă publică din Kristinehamn situată pe malul lacului Vänern.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            },
+            {
+                  "name": "Varnumsviken",
+                  "text": "Golf pitoresc al lacului Vänern lângă Kristinehamn, popular pentru plimbări cu barca și observarea păsărilor.",
+                  "category": "landmark",
+                  "coords": [
+                        14.07476,
+                        59.320189
+                  ]
+            },
+            {
+                  "name": "Kristinehamns kyrka",
+                  "text": "Biserică neogotică proeminentă din Kristinehamn, un reper al orașului încă din secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        14.116527,
+                        59.310535
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kristinehamns hembygdsgård",
+                  "text": "Open-air museum in Kristinehamn featuring historic buildings from the Värmland region.",
+                  "category": "museum",
+                  "coords": [
+                        14.129961,
+                        59.314225
+                  ]
+            },
+            {
+                  "name": "Kristinehamns konstmuseum",
+                  "text": "Art museum in Kristinehamn exhibiting contemporary works in a former mental hospital building.",
+                  "category": "museum",
+                  "coords": [
+                        14.085821,
+                        59.327092
+                  ]
+            },
+            {
+                  "name": "Christinateatern",
+                  "text": "Elegant theater in Kristinehamn used for a variety of stage plays and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.108723,
+                        59.307546
+                  ]
+            },
+            {
+                  "name": "Kristinehamns historiska museum",
+                  "text": "Local history museum in Kristinehamn detailing the development of the city and its industry.",
+                  "category": "museum",
+                  "coords": [
+                        14.104711,
+                        59.309773
+                  ]
+            },
+            {
+                  "name": "Presteruds herrgård",
+                  "text": "Notable historic manor house in Kristinehamn surrounded by a scenic park area.",
+                  "category": "castle",
+                  "coords": [
+                        14.066498,
+                        59.308437
+                  ]
+            },
+            {
+                  "name": "Skymninges Badplats",
+                  "text": "Public beach in Kristinehamn located on the shores of Lake Vänern.",
+                  "category": "recreational",
+                  "coords": [
+                        14.059291,
+                        59.302935
+                  ]
+            },
+            {
+                  "name": "Varnumsviken",
+                  "text": "Scenic bay of Lake Vänern near Kristinehamn, popular for boating and birdwatching.",
+                  "category": "landmark",
+                  "coords": [
+                        14.07476,
+                        59.320189
+                  ]
+            },
+            {
+                  "name": "Kristinehamns kyrka",
+                  "text": "Prominent neo-Gothic church in Kristinehamn, a landmark of the city since the 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        14.116527,
+                        59.310535
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Kristinehamn", hu: "Kristinehamn", ro: "Kristinehamn", en: "Kristinehamn"},
@@ -2343,7 +15456,664 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-harnosand-cities-v2",
+    id: "sweden-harnosand-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Härnösands Teater",
+                  "text": "Das Theater von Härnösand ist ein kultureller Treffpunkt für lokale und regionale Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        17.936173,
+                        62.630068
+                  ]
+            },
+            {
+                  "name": "NorrDans",
+                  "text": "NorrDans ist ein professionelles Tanzensemble und Theater mit Sitz in Härnösand.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937298,
+                        62.629945
+                  ]
+            },
+            {
+                  "name": "Härnösands Bilmuseum",
+                  "text": "Dieses Automuseum in Härnösand ist eines der größten seiner Art in Schweden.",
+                  "category": "museum",
+                  "coords": [
+                        17.934317,
+                        62.636787
+                  ]
+            },
+            {
+                  "name": "Västernorrlands museum",
+                  "text": "Das Västernorrlands Museum präsentiert die reiche Kulturgeschichte der Region in Härnösand.",
+                  "category": "museum",
+                  "coords": [
+                        17.923694,
+                        62.645204
+                  ]
+            },
+            {
+                  "name": "Vårdkasmalen",
+                  "text": "Vårdkasmalen ist ein Naturschutzgebiet mit beeindruckenden Geröllfeldern in Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.956726,
+                        62.607039
+                  ]
+            },
+            {
+                  "name": "Gådeåbrännans naturreservat",
+                  "text": "Dieses Naturschutzgebiet in Härnösand schützt wertvolle Wald- und Küstenlandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        17.898286,
+                        62.628443
+                  ]
+            },
+            {
+                  "name": "Murbergets fiskeläge",
+                  "text": "Das Murbergets fiskeläge ist ein Teil eines Freilichtmuseums, das ein altes Fischerdorf zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.981024,
+                        62.644205
+                  ]
+            },
+            {
+                  "name": "Vårdkasberget",
+                  "text": "Vårdkasberget bietet einen herrlichen Panoramablick über Härnösand und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        17.950919,
+                        62.609878
+                  ]
+            },
+            {
+                  "name": "Norra utsikten",
+                  "text": "Die Nordaussicht ist ein schöner Aussichtspunkt im Norden von Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.974536,
+                        62.613854
+                  ]
+            },
+            {
+                  "name": "Tjusarklinten",
+                  "text": "Tjusarklinten ist ein Aussichtspunkt, der für seine weite Sicht auf die umliegende Natur bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        17.894075,
+                        62.617646
+                  ]
+            },
+            {
+                  "name": "Södra utsikten",
+                  "text": "Die Südaussicht bietet einen weiten Blick über die südlichen Teile der Küste von Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.951142,
+                        62.608255
+                  ]
+            },
+            {
+                  "name": "Sälstens havsbad",
+                  "text": "Sälstens havsbad ist ein beliebter Badeplatz an der Küste von Härnösand.",
+                  "category": "landmark",
+                  "coords": [
+                        17.962292,
+                        62.644036
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "Die Kunsthalle in Härnösand zeigt wechselnde Ausstellungen zeitgenössischer Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937399,
+                        62.632035
+                  ]
+            },
+            {
+                  "name": "Ängekyrkan",
+                  "text": "Die Ängekyrkan ist eine lokale Kirche, die der Gemeinde in Härnösand dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.924189,
+                        62.64138
+                  ]
+            },
+            {
+                  "name": "Murbergskyrkan",
+                  "text": "Diese Kirche befindet sich auf dem Gelände des Murberget-Museums in Härnösand.",
+                  "category": "religious",
+                  "coords": [
+                        17.924485,
+                        62.646327
+                  ]
+            },
+            {
+                  "name": "Dom zu Härnösand",
+                  "text": "Die Kathedrale von Härnösand ist die kleinste Domkirche Schwedens und ein Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        17.941689,
+                        62.630992
+                  ]
+            },
+            {
+                  "name": "Härnösands Rådhus",
+                  "text": "Das Rathaus von Härnösand ist ein elegantes Gebäude, das die lokale Verwaltung beherbergt.",
+                  "category": "historical",
+                  "coords": [
+                        17.940905,
+                        62.632577
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "Dieser Vogelbeobachtungsturm bietet gute Möglichkeiten zur Naturbeobachtung in Härnösand.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903714,
+                        62.61167
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Härnösands Teater",
+                  "text": "A Härnösandi Színház a helyi és regionális színművészet kulturális találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        17.936173,
+                        62.630068
+                  ]
+            },
+            {
+                  "name": "NorrDans",
+                  "text": "A NorrDans egy hivatásos táncegyüttes és színház, amelynek Härnösand ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937298,
+                        62.629945
+                  ]
+            },
+            {
+                  "name": "Härnösands Bilmuseum",
+                  "text": "Ez a härnösandi autómúzeum Svédország egyik legnagyobb ilyen jellegű intézménye.",
+                  "category": "museum",
+                  "coords": [
+                        17.934317,
+                        62.636787
+                  ]
+            },
+            {
+                  "name": "Västernorrlands museum",
+                  "text": "A Västernorrlands Museum a régió gazdag kultúrtörténetét mutatja be Härnösandban.",
+                  "category": "museum",
+                  "coords": [
+                        17.923694,
+                        62.645204
+                  ]
+            },
+            {
+                  "name": "Vårdkasmalen",
+                  "text": "Vårdkasmalen egy természetvédelmi terület lenyűgöző kőtengerekkel Härnösandban.",
+                  "category": "natural",
+                  "coords": [
+                        17.956726,
+                        62.607039
+                  ]
+            },
+            {
+                  "name": "Gådeåbrännans naturreservat",
+                  "text": "Ez a härnösandi természetvédelmi terület értékes erdei és tengerparti tájakat óv.",
+                  "category": "natural",
+                  "coords": [
+                        17.898286,
+                        62.628443
+                  ]
+            },
+            {
+                  "name": "Murbergets fiskeläge",
+                  "text": "A Murbergets fiskeläge egy szabadtéri múzeum része, amely egy régi halászfalut mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.981024,
+                        62.644205
+                  ]
+            },
+            {
+                  "name": "Vårdkasberget",
+                  "text": "A Vårdkasberget csodálatos panorámát kínál Härnösand városára és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        17.950919,
+                        62.609878
+                  ]
+            },
+            {
+                  "name": "Norra utsikten",
+                  "text": "Az Északi kilátó egy szép kilátópont Härnösand északi részén.",
+                  "category": "natural",
+                  "coords": [
+                        17.974536,
+                        62.613854
+                  ]
+            },
+            {
+                  "name": "Tjusarklinten",
+                  "text": "Tjusarklinten egy kilátóhely, amely a környező természetre nyíló tágas kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.894075,
+                        62.617646
+                  ]
+            },
+            {
+                  "name": "Södra utsikten",
+                  "text": "A Déli kilátó széles rálátást nyújt Härnösand tengerpartjának déli részeire.",
+                  "category": "natural",
+                  "coords": [
+                        17.951142,
+                        62.608255
+                  ]
+            },
+            {
+                  "name": "Sälstens havsbad",
+                  "text": "A Sälstens havsbad egy népszerű fürdőhely Härnösand tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        17.962292,
+                        62.644036
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "A härnösandi művészeti csarnok kortárs művészeti időszaki kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937399,
+                        62.632035
+                  ]
+            },
+            {
+                  "name": "Ängekyrkan",
+                  "text": "Az Ängekyrkan egy helyi templom, amely Härnösand közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        17.924189,
+                        62.64138
+                  ]
+            },
+            {
+                  "name": "Murbergskyrkan",
+                  "text": "Ez a templom a härnösandi Murberget Múzeum területén található.",
+                  "category": "religious",
+                  "coords": [
+                        17.924485,
+                        62.646327
+                  ]
+            },
+            {
+                  "name": "Härnösands domkyrka",
+                  "text": "A Härnösandi székesegyház Svédország legkisebb dómja és a város egyik jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        17.941689,
+                        62.630992
+                  ]
+            },
+            {
+                  "name": "Härnösands Rådhus",
+                  "text": "A Härnösandi városháza egy elegáns épület, amely a helyi közigazgatásnak ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        17.940905,
+                        62.632577
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "Ez a madármegfigyelő torony remek lehetőséget nyújt a természet megfigyelésére Härnösandban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903714,
+                        62.61167
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Härnösands Teater",
+                  "text": "Teatrul din Härnösand este un punct de întâlnire cultural pentru artele spectacolului locale și regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.936173,
+                        62.630068
+                  ]
+            },
+            {
+                  "name": "NorrDans",
+                  "text": "NorrDans este o companie de dans profesionist și un teatru cu sediul în Härnösand.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937298,
+                        62.629945
+                  ]
+            },
+            {
+                  "name": "Härnösands Bilmuseum",
+                  "text": "Acest muzeu de automobile din Härnösand este unul dintre cele mai mari de acest gen din Suedia.",
+                  "category": "museum",
+                  "coords": [
+                        17.934317,
+                        62.636787
+                  ]
+            },
+            {
+                  "name": "Västernorrlands museum",
+                  "text": "Muzeul Västernorrlands prezintă bogata istorie culturală a regiunii în Härnösand.",
+                  "category": "museum",
+                  "coords": [
+                        17.923694,
+                        62.645204
+                  ]
+            },
+            {
+                  "name": "Vårdkasmalen",
+                  "text": "Vårdkasmalen este o rezervație naturală cu câmpuri de pietriș impresionante în Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.956726,
+                        62.607039
+                  ]
+            },
+            {
+                  "name": "Gådeåbrännans naturreservat",
+                  "text": "Această rezervație naturală din Härnösand protejează peisaje forestiere și de coastă valoroase.",
+                  "category": "natural",
+                  "coords": [
+                        17.898286,
+                        62.628443
+                  ]
+            },
+            {
+                  "name": "Murbergets fiskeläge",
+                  "text": "Murbergets fiskeläge face parte dintr-un muzeu în aer liber care prezintă un vechi sat de pescari.",
+                  "category": "museum",
+                  "coords": [
+                        17.981024,
+                        62.644205
+                  ]
+            },
+            {
+                  "name": "Vårdkasberget",
+                  "text": "Vårdkasberget oferă o vedere panoramică magnifică asupra orașului Härnösand și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        17.950919,
+                        62.609878
+                  ]
+            },
+            {
+                  "name": "Norra utsikten",
+                  "text": "Vederea de Nord este un punct de observare frumos situat în partea de nord a orașului Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.974536,
+                        62.613854
+                  ]
+            },
+            {
+                  "name": "Tjusarklinten",
+                  "text": "Tjusarklinten este un punct de belvedere cunoscut pentru vederea largă asupra naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        17.894075,
+                        62.617646
+                  ]
+            },
+            {
+                  "name": "Södra utsikten",
+                  "text": "Vederea de Sud oferă o perspectivă largă asupra părților sudice ale coastei din Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.951142,
+                        62.608255
+                  ]
+            },
+            {
+                  "name": "Sälstens havsbad",
+                  "text": "Sälstens havsbad este un loc popular de scăldat de pe coasta orașului Härnösand.",
+                  "category": "landmark",
+                  "coords": [
+                        17.962292,
+                        62.644036
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "Sala de artă din Härnösand găzduiește expoziții temporare de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937399,
+                        62.632035
+                  ]
+            },
+            {
+                  "name": "Ängekyrkan",
+                  "text": "Ängekyrkan este o biserică locală care deservește comunitatea din Härnösand.",
+                  "category": "religious",
+                  "coords": [
+                        17.924189,
+                        62.64138
+                  ]
+            },
+            {
+                  "name": "Murbergskyrkan",
+                  "text": "Această biserică este situată pe terenul muzeului Murberget din Härnösand.",
+                  "category": "religious",
+                  "coords": [
+                        17.924485,
+                        62.646327
+                  ]
+            },
+            {
+                  "name": "Härnösands domkyrka",
+                  "text": "Catedrala din Härnösand este cea mai mică catedrală din Suedia și un punct de reper al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        17.941689,
+                        62.630992
+                  ]
+            },
+            {
+                  "name": "Härnösands Rådhus",
+                  "text": "Primăria din Härnösand este o clădire elegantă care găzduiește administrația locală.",
+                  "category": "historical",
+                  "coords": [
+                        17.940905,
+                        62.632577
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "Acest turn de observare a păsărilor oferă oportunități bune pentru observarea naturii în Härnösand.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903714,
+                        62.61167
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Härnösands Teater",
+                  "text": "Härnösand Theatre is a cultural hub for local and regional performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        17.936173,
+                        62.630068
+                  ]
+            },
+            {
+                  "name": "NorrDans",
+                  "text": "NorrDans is a professional dance company and theatre based in Härnösand.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937298,
+                        62.629945
+                  ]
+            },
+            {
+                  "name": "Härnösands Bilmuseum",
+                  "text": "This car museum in Härnösand is one of the largest of its kind in Sweden.",
+                  "category": "museum",
+                  "coords": [
+                        17.934317,
+                        62.636787
+                  ]
+            },
+            {
+                  "name": "Västernorrlands museum",
+                  "text": "Västernorrlands Museum showcases the region's rich cultural history in Härnösand.",
+                  "category": "museum",
+                  "coords": [
+                        17.923694,
+                        62.645204
+                  ]
+            },
+            {
+                  "name": "Vårdkasmalen",
+                  "text": "Vårdkasmalen is a nature reserve featuring impressive boulder fields in Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.956726,
+                        62.607039
+                  ]
+            },
+            {
+                  "name": "Gådeåbrännans naturreservat",
+                  "text": "This nature reserve in Härnösand protects valuable forest and coastal landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        17.898286,
+                        62.628443
+                  ]
+            },
+            {
+                  "name": "Murbergets fiskeläge",
+                  "text": "Murbergets fiskeläge is part of an open-air museum showcasing an old fishing village.",
+                  "category": "museum",
+                  "coords": [
+                        17.981024,
+                        62.644205
+                  ]
+            },
+            {
+                  "name": "Vårdkasberget",
+                  "text": "Vårdkasberget offers a magnificent panoramic view over Härnösand and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        17.950919,
+                        62.609878
+                  ]
+            },
+            {
+                  "name": "Norra utsikten",
+                  "text": "The North View is a beautiful viewpoint located in the northern part of Härnösand.",
+                  "category": "natural",
+                  "coords": [
+                        17.974536,
+                        62.613854
+                  ]
+            },
+            {
+                  "name": "Tjusarklinten",
+                  "text": "Tjusarklinten is a viewpoint known for its expansive views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        17.894075,
+                        62.617646
+                  ]
+            },
+            {
+                  "name": "Södra utsikten",
+                  "text": "The South View offers an extensive look over the southern parts of the Härnösand coast.",
+                  "category": "natural",
+                  "coords": [
+                        17.951142,
+                        62.608255
+                  ]
+            },
+            {
+                  "name": "Sälstens havsbad",
+                  "text": "Sälstens havsbad is a popular bathing spot on the coast of Härnösand.",
+                  "category": "landmark",
+                  "coords": [
+                        17.962292,
+                        62.644036
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "The Art Gallery in Härnösand features rotating exhibitions of contemporary art.",
+                  "category": "cultural",
+                  "coords": [
+                        17.937399,
+                        62.632035
+                  ]
+            },
+            {
+                  "name": "Ängekyrkan",
+                  "text": "Ängekyrkan is a local church serving the community in Härnösand.",
+                  "category": "religious",
+                  "coords": [
+                        17.924189,
+                        62.64138
+                  ]
+            },
+            {
+                  "name": "Murbergskyrkan",
+                  "text": "This church is located on the grounds of the Murberget Museum in Härnösand.",
+                  "category": "religious",
+                  "coords": [
+                        17.924485,
+                        62.646327
+                  ]
+            },
+            {
+                  "name": "Härnösand Cathedral",
+                  "text": "Härnösand Cathedral is the smallest cathedral in Sweden and a landmark of the city.",
+                  "category": "religious",
+                  "coords": [
+                        17.941689,
+                        62.630992
+                  ]
+            },
+            {
+                  "name": "Härnösands Rådhus",
+                  "text": "Härnösand Town Hall is an elegant building housing the local administration.",
+                  "category": "historical",
+                  "coords": [
+                        17.940905,
+                        62.632577
+                  ]
+            },
+            {
+                  "name": "Fågeltorn",
+                  "text": "This bird watching tower provides good opportunities for nature observation in Härnösand.",
+                  "category": "landmark",
+                  "coords": [
+                        17.903714,
+                        62.61167
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Härnösand", hu: "Härnösand", ro: "Härnösand", en: "Härnösand"},
@@ -2400,6 +16170,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.628602,
                         63.203311
                   ]
+            },
+            {
+                  "name": "Storsjöbadet",
+                  "text": "Ein großer Wasserpark mit Hallen- und Freibädern in Östersund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.674477,
+                        63.160711
+                  ]
+            },
+            {
+                  "name": "Ändsjön",
+                  "text": "Ein Naturschutzgebiet um den See Ändsjön, bekannt für seine Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        14.574133,
+                        63.177118
+                  ]
+            },
+            {
+                  "name": "Odensalakärret",
+                  "text": "Ein Naturschutzgebiet in Östersund, das für seine kalkreichen Moore bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.671254,
+                        63.154602
+                  ]
+            },
+            {
+                  "name": "Rannåsen",
+                  "text": "Ein Naturschutzgebiet und Naherholungsgebiet in der Nähe von Östersund.",
+                  "category": "natural",
+                  "coords": [
+                        14.687658,
+                        63.197871
+                  ]
+            },
+            {
+                  "name": "Jamtli",
+                  "text": "Ein preisgekröntes Regionalmuseum und Freilichtmuseum in Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.636436,
+                        63.187134
+                  ]
+            },
+            {
+                  "name": "Jamtli Historieland",
+                  "text": "Der Teil des Jamtli-Museums, der historische Epochen durch Darsteller zum Leben erweckt.",
+                  "category": "museum",
+                  "coords": [
+                        14.635501,
+                        63.187909
+                  ]
+            },
+            {
+                  "name": "Storsjöteatern",
+                  "text": "Das Haupttheater und Kulturzentrum der Stadt Östersund.",
+                  "category": "cultural",
+                  "coords": [
+                        14.635781,
+                        63.179567
+                  ]
+            },
+            {
+                  "name": "Surfbukten",
+                  "text": "Ein Aktivitätszentrum am Wasser in Östersund mit Möglichkeiten zum Baden und Surfen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.62388,
+                        63.181876
+                  ]
+            },
+            {
+                  "name": "Stadsmuséet Ahlbergshallen",
+                  "text": "Ein Kunstmuseum in Östersund, das in einer ehemaligen Turnhalle untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.639826,
+                        63.178042
+                  ]
+            },
+            {
+                  "name": "Jämtlands läns museum",
+                  "text": "Das Regionalmuseum für die Provinz Jämtland in Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.637731,
+                        63.186585
+                  ]
+            },
+            {
+                  "name": "Talldungen",
+                  "text": "Ein kleineres Museum oder historisches Gebäude in Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.663013,
+                        63.178099
+                  ]
+            },
+            {
+                  "name": "Mjälleborgen",
+                  "text": "Überreste einer antiken Fliehburg auf der Insel Frösön.",
+                  "category": "historical",
+                  "coords": [
+                        14.593352,
+                        63.169953
+                  ]
+            },
+            {
+                  "name": "Frösötornet",
+                  "text": "Ein Aussichtsturm auf der Insel Frösön mit Panoramablick über den Storsjön.",
+                  "category": "natural",
+                  "coords": [
+                        14.597477,
+                        63.183217
+                  ]
+            },
+            {
+                  "name": "Veteranmonumentet",
+                  "text": "Ein Denkmal in Östersund, das den Veteranen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.630344,
+                        63.180394
+                  ]
+            },
+            {
+                  "name": "Storsjöodjuret",
+                  "text": "Ein Denkmal in Östersund, das dem legendären Seeungeheuer des Storsjön gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.610572,
+                        63.170072
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt Östersund",
+                  "text": "Ein markanter Punkt in Östersund, der eine gute Aussicht auf die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.60644,
+                        63.18669
+                  ]
+            },
+            {
+                  "name": "M/S Thomée",
+                  "text": "Ein historisches Dampfschiff, das auf dem Storsjön in Östersund verkehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.630273,
+                        63.177572
+                  ]
+            },
+            {
+                  "name": "Frösöstenen",
+                  "text": "Schwedens nördlichster Runenstein, der sich auf der Insel Frösön befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618656,
+                        63.183397
+                  ]
+            },
+            {
+                  "name": "Stora kyrkan",
+                  "text": "Die Hauptkirche von Östersund, bekannt für ihren großen Turm.",
+                  "category": "religious",
+                  "coords": [
+                        14.642373,
+                        63.171673
+                  ]
+            },
+            {
+                  "name": "Östersunds rådhus",
+                  "text": "Das markante Backsteingebäude des Rathauses von Östersund.",
+                  "category": "historical",
+                  "coords": [
+                        14.641465,
+                        63.177601
+                  ]
+            },
+            {
+                  "name": "Marielundskyrkan",
+                  "text": "Ein Kirchengebäude im Stadtteil Marielund von Östersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.66512,
+                        63.165203
+                  ]
             }
       ],
       "hu": [
@@ -2410,6 +16369,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.628602,
                         63.203311
+                  ]
+            },
+            {
+                  "name": "Storsjöbadet",
+                  "text": "Nagy vízipark beltéri és kültéri medencékkel Östersundban.",
+                  "category": "recreational",
+                  "coords": [
+                        14.674477,
+                        63.160711
+                  ]
+            },
+            {
+                  "name": "Ändsjön",
+                  "text": "Az Ändsjön-tó körüli természetvédelmi terület, amely gazdag madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.574133,
+                        63.177118
+                  ]
+            },
+            {
+                  "name": "Odensalakärret",
+                  "text": "Mészgazdag lápjairól ismert természetvédelmi terület Östersundban.",
+                  "category": "natural",
+                  "coords": [
+                        14.671254,
+                        63.154602
+                  ]
+            },
+            {
+                  "name": "Rannåsen",
+                  "text": "Természetvédelmi és szabadidős terület Östersund közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.687658,
+                        63.197871
+                  ]
+            },
+            {
+                  "name": "Jamtli",
+                  "text": "Díjnyertes regionális és szabadtéri múzeum Östersundban.",
+                  "category": "museum",
+                  "coords": [
+                        14.636436,
+                        63.187134
+                  ]
+            },
+            {
+                  "name": "Jamtli Historieland",
+                  "text": "A Jamtli múzeum része, ahol színészek keltik életre a történelmi korszakokat.",
+                  "category": "museum",
+                  "coords": [
+                        14.635501,
+                        63.187909
+                  ]
+            },
+            {
+                  "name": "Storsjöteatern",
+                  "text": "Östersund városának fő színháza és kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        14.635781,
+                        63.179567
+                  ]
+            },
+            {
+                  "name": "Surfbukten",
+                  "text": "Vízparti szabadidős központ Östersundban fürdési és szörfözési lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.62388,
+                        63.181876
+                  ]
+            },
+            {
+                  "name": "Stadsmuséet Ahlbergshallen",
+                  "text": "Egy egykori tornacsarnokban kialakított művészeti múzeum Östersundban.",
+                  "category": "museum",
+                  "coords": [
+                        14.639826,
+                        63.178042
+                  ]
+            },
+            {
+                  "name": "Jämtlands läns museum",
+                  "text": "Jämtland tartomány regionális múzeuma Östersundban.",
+                  "category": "museum",
+                  "coords": [
+                        14.637731,
+                        63.186585
+                  ]
+            },
+            {
+                  "name": "Talldungen",
+                  "text": "Kisebb múzeum vagy történelmi épület Östersundban.",
+                  "category": "museum",
+                  "coords": [
+                        14.663013,
+                        63.178099
+                  ]
+            },
+            {
+                  "name": "Mjälleborgen",
+                  "text": "Egy ősi erődítmény maradványai Frösön szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        14.593352,
+                        63.169953
+                  ]
+            },
+            {
+                  "name": "Frösötornet",
+                  "text": "Kilátótorony Frösön szigetén, panorámás kilátással a Storsjön-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        14.597477,
+                        63.183217
+                  ]
+            },
+            {
+                  "name": "Veteranmonumentet",
+                  "text": "A veteránok tiszteletére emelt emlékmű Östersundban.",
+                  "category": "historical",
+                  "coords": [
+                        14.630344,
+                        63.180394
+                  ]
+            },
+            {
+                  "name": "Storsjöodjuret",
+                  "text": "A Storsjön-tó legendás szörnyének szentelt emlékmű Östersundban.",
+                  "category": "historical",
+                  "coords": [
+                        14.610572,
+                        63.170072
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt Östersund",
+                  "text": "Östersund egyik pontja, amely jó kilátást nyújt a városra.",
+                  "category": "natural",
+                  "coords": [
+                        14.60644,
+                        63.18669
+                  ]
+            },
+            {
+                  "name": "M/S Thomée",
+                  "text": "Történelmi gőzhajó, amely a Storsjön-tavon közlekedik Östersundban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.630273,
+                        63.177572
+                  ]
+            },
+            {
+                  "name": "Frösöstenen",
+                  "text": "Svédország legészakibb rúnaköve Frösön szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618656,
+                        63.183397
+                  ]
+            },
+            {
+                  "name": "Stora kyrkan",
+                  "text": "Östersund főtemploma, amely nagy tornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        14.642373,
+                        63.171673
+                  ]
+            },
+            {
+                  "name": "Östersunds rådhus",
+                  "text": "Östersund városházájának jellegzetes téglaépülete.",
+                  "category": "historical",
+                  "coords": [
+                        14.641465,
+                        63.177601
+                  ]
+            },
+            {
+                  "name": "Marielundskyrkan",
+                  "text": "Templomépület Östersund Marielund városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        14.66512,
+                        63.165203
                   ]
             }
       ],
@@ -2422,6 +16570,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.628602,
                         63.203311
                   ]
+            },
+            {
+                  "name": "Storsjöbadet",
+                  "text": "Un parc acvatic mare, cu piscine interioare și exterioare, în Östersund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.674477,
+                        63.160711
+                  ]
+            },
+            {
+                  "name": "Ändsjön",
+                  "text": "O rezervație naturală în jurul lacului Ändsjön, cunoscută pentru fauna sa aviară.",
+                  "category": "natural",
+                  "coords": [
+                        14.574133,
+                        63.177118
+                  ]
+            },
+            {
+                  "name": "Odensalakärret",
+                  "text": "O rezervație naturală din Östersund, cunoscută pentru mlaștinile sale calcaroase.",
+                  "category": "natural",
+                  "coords": [
+                        14.671254,
+                        63.154602
+                  ]
+            },
+            {
+                  "name": "Rannåsen",
+                  "text": "O rezervație naturală și zonă de recreere situată lângă Östersund.",
+                  "category": "natural",
+                  "coords": [
+                        14.687658,
+                        63.197871
+                  ]
+            },
+            {
+                  "name": "Jamtli",
+                  "text": "Un muzeu regional și în aer liber premiat, situat în Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.636436,
+                        63.187134
+                  ]
+            },
+            {
+                  "name": "Jamtli Historieland",
+                  "text": "Partea muzeului Jamtli unde epocile istorice sunt readuse la viață de actori.",
+                  "category": "museum",
+                  "coords": [
+                        14.635501,
+                        63.187909
+                  ]
+            },
+            {
+                  "name": "Storsjöteatern",
+                  "text": "Principalul teatru și centru cultural din orașul Östersund.",
+                  "category": "cultural",
+                  "coords": [
+                        14.635781,
+                        63.179567
+                  ]
+            },
+            {
+                  "name": "Surfbukten",
+                  "text": "Un centru de activități pe malul apei în Östersund, cu facilități pentru înot și surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        14.62388,
+                        63.181876
+                  ]
+            },
+            {
+                  "name": "Stadsmuséet Ahlbergshallen",
+                  "text": "Un muzeu de artă din Östersund, amenajat într-o fostă sală de sport.",
+                  "category": "museum",
+                  "coords": [
+                        14.639826,
+                        63.178042
+                  ]
+            },
+            {
+                  "name": "Jämtlands läns museum",
+                  "text": "Muzeul regional pentru provincia Jämtland, situat în Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.637731,
+                        63.186585
+                  ]
+            },
+            {
+                  "name": "Talldungen",
+                  "text": "Un muzeu mai mic sau o clădire istorică în Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.663013,
+                        63.178099
+                  ]
+            },
+            {
+                  "name": "Mjälleborgen",
+                  "text": "Rămășițele unei cetăți antice situate pe insula Frösön.",
+                  "category": "historical",
+                  "coords": [
+                        14.593352,
+                        63.169953
+                  ]
+            },
+            {
+                  "name": "Frösötornet",
+                  "text": "Un turn de observare pe insula Frösön, oferind vedere panoramică asupra lacului Storsjön.",
+                  "category": "natural",
+                  "coords": [
+                        14.597477,
+                        63.183217
+                  ]
+            },
+            {
+                  "name": "Veteranmonumentet",
+                  "text": "Un monument în Östersund dedicat veteranilor.",
+                  "category": "historical",
+                  "coords": [
+                        14.630344,
+                        63.180394
+                  ]
+            },
+            {
+                  "name": "Storsjöodjuret",
+                  "text": "Un monument în Östersund dedicat legendarului monstru din lacul Storsjön.",
+                  "category": "historical",
+                  "coords": [
+                        14.610572,
+                        63.170072
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt Östersund",
+                  "text": "Un punct de observație în Östersund care oferă o vedere frumoasă asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        14.60644,
+                        63.18669
+                  ]
+            },
+            {
+                  "name": "M/S Thomée",
+                  "text": "O navă istorică cu aburi care operează pe lacul Storsjön din Östersund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.630273,
+                        63.177572
+                  ]
+            },
+            {
+                  "name": "Frösöstenen",
+                  "text": "Cea mai nordică piatră runică din Suedia, situată pe insula Frösön.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618656,
+                        63.183397
+                  ]
+            },
+            {
+                  "name": "Stora kyrkan",
+                  "text": "Biserica principală din Östersund, cunoscută pentru turnul său impunător.",
+                  "category": "religious",
+                  "coords": [
+                        14.642373,
+                        63.171673
+                  ]
+            },
+            {
+                  "name": "Östersunds rådhus",
+                  "text": "Clădirea distinctivă din cărămidă a primăriei din Östersund.",
+                  "category": "historical",
+                  "coords": [
+                        14.641465,
+                        63.177601
+                  ]
+            },
+            {
+                  "name": "Marielundskyrkan",
+                  "text": "O clădire bisericească în districtul Marielund din Östersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.66512,
+                        63.165203
+                  ]
             }
       ],
       "en": [
@@ -2432,6 +16769,195 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.628602,
                         63.203311
+                  ]
+            },
+            {
+                  "name": "Storsjöbadet",
+                  "text": "A large water park with indoor and outdoor pools in Östersund.",
+                  "category": "recreational",
+                  "coords": [
+                        14.674477,
+                        63.160711
+                  ]
+            },
+            {
+                  "name": "Ändsjön",
+                  "text": "A nature reserve around Lake Ändsjön, known for its birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        14.574133,
+                        63.177118
+                  ]
+            },
+            {
+                  "name": "Odensalakärret",
+                  "text": "A nature reserve in Östersund known for its lime-rich fens.",
+                  "category": "natural",
+                  "coords": [
+                        14.671254,
+                        63.154602
+                  ]
+            },
+            {
+                  "name": "Rannåsen",
+                  "text": "A nature reserve and recreational area located near Östersund.",
+                  "category": "natural",
+                  "coords": [
+                        14.687658,
+                        63.197871
+                  ]
+            },
+            {
+                  "name": "Jamtli",
+                  "text": "An award-winning regional and open-air museum in Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.636436,
+                        63.187134
+                  ]
+            },
+            {
+                  "name": "Jamtli Historieland",
+                  "text": "The part of the Jamtli museum where historical eras are brought to life by actors.",
+                  "category": "museum",
+                  "coords": [
+                        14.635501,
+                        63.187909
+                  ]
+            },
+            {
+                  "name": "Storsjöteatern",
+                  "text": "The main theatre and cultural center in the city of Östersund.",
+                  "category": "cultural",
+                  "coords": [
+                        14.635781,
+                        63.179567
+                  ]
+            },
+            {
+                  "name": "Surfbukten",
+                  "text": "A waterfront activity center in Östersund with facilities for swimming and surfing.",
+                  "category": "recreational",
+                  "coords": [
+                        14.62388,
+                        63.181876
+                  ]
+            },
+            {
+                  "name": "Stadsmuséet Ahlbergshallen",
+                  "text": "An art museum in Östersund housed in a former gymnasium building.",
+                  "category": "museum",
+                  "coords": [
+                        14.639826,
+                        63.178042
+                  ]
+            },
+            {
+                  "name": "Jämtlands läns museum",
+                  "text": "The regional museum for the Jämtland province, located in Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.637731,
+                        63.186585
+                  ]
+            },
+            {
+                  "name": "Talldungen",
+                  "text": "A smaller museum or historic building located in Östersund.",
+                  "category": "museum",
+                  "coords": [
+                        14.663013,
+                        63.178099
+                  ]
+            },
+            {
+                  "name": "Mjälleborgen",
+                  "text": "The remains of an ancient hillfort located on Frösön island.",
+                  "category": "historical",
+                  "coords": [
+                        14.593352,
+                        63.169953
+                  ]
+            },
+            {
+                  "name": "Frösötornet",
+                  "text": "An observation tower on Frösön island with panoramic views of Lake Storsjön.",
+                  "category": "natural",
+                  "coords": [
+                        14.597477,
+                        63.183217
+                  ]
+            },
+            {
+                  "name": "Veteranmonumentet",
+                  "text": "A monument in Östersund dedicated to veterans.",
+                  "category": "historical",
+                  "coords": [
+                        14.630344,
+                        63.180394
+                  ]
+            },
+            {
+                  "name": "Storsjöodjuret",
+                  "text": "A monument in Östersund dedicated to the legendary monster of Lake Storsjön.",
+                  "category": "historical",
+                  "coords": [
+                        14.610572,
+                        63.170072
+                  ]
+            },
+            {
+                  "name": "Utsiktspunkt Östersund",
+                  "text": "A viewpoint in Östersund offering a good view of the city.",
+                  "category": "natural",
+                  "coords": [
+                        14.60644,
+                        63.18669
+                  ]
+            },
+            {
+                  "name": "M/S Thomée",
+                  "text": "A historic steamship operating on Lake Storsjön in Östersund.",
+                  "category": "landmark",
+                  "coords": [
+                        14.630273,
+                        63.177572
+                  ]
+            },
+            {
+                  "name": "Frösöstenen",
+                  "text": "Sweden's northernmost rune stone, located on Frösön island.",
+                  "category": "landmark",
+                  "coords": [
+                        14.618656,
+                        63.183397
+                  ]
+            },
+            {
+                  "name": "Stora kyrkan",
+                  "text": "The main church of Östersund, known for its large tower.",
+                  "category": "religious",
+                  "coords": [
+                        14.642373,
+                        63.171673
+                  ]
+            },
+            {
+                  "name": "Östersunds rådhus",
+                  "text": "The distinctive brick building of the Östersund town hall.",
+                  "category": "historical",
+                  "coords": [
+                        14.641465,
+                        63.177601
+                  ]
+            },
+            {
+                  "name": "Marielundskyrkan",
+                  "text": "A church building in the Marielund district of Östersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.66512,
+                        63.165203
                   ]
             }
       ]
@@ -2482,7 +17008,376 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-hassleholm-cities-v2",
+    id: "sweden-hassleholm-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Västra Göinge Hembygdsmuseum",
+                  "text": "Lokalhistorisches Museum in Hässleholm, das sich auf das Erbe der Region Västra Göinge konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        13.771378,
+                        56.155998
+                  ]
+            },
+            {
+                  "name": "Hässleholms museum",
+                  "text": "Museum in Hässleholm, das Militärgeschichte, Pferdekutschen und industrielles Erbe zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.784125,
+                        56.161272
+                  ]
+            },
+            {
+                  "name": "Filfabriken",
+                  "text": "Industriemuseum in Hässleholm in einer ehemaligen Feilenfabrik, das das lokale Handwerk bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        13.76218,
+                        56.164151
+                  ]
+            },
+            {
+                  "name": "Hässleholms Modelljärnväg",
+                  "text": "Eine der größten Modelleisenbahnausstellungen Schwedens mit Sitz in Hässleholm.",
+                  "category": "museum",
+                  "coords": [
+                        13.728198,
+                        56.145757
+                  ]
+            },
+            {
+                  "name": "Qpoolen",
+                  "text": "Mehrzweck-Hallenbad und Sportkomplex in der Stadt Hässleholm.",
+                  "category": "recreational",
+                  "coords": [
+                        13.776339,
+                        56.155245
+                  ]
+            },
+            {
+                  "name": "Gömsle Magle våtmark",
+                  "text": "Vogelbeobachtungshütte und Aussichtspunkt im Magle-Feuchtgebiet bei Hässleholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.760646,
+                        56.13651
+                  ]
+            },
+            {
+                  "name": "Hässleholm Kulturhus",
+                  "text": "Zentrales Kulturzentrum in Hässleholm mit Bibliothek, Kino und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        13.763827,
+                        56.156963
+                  ]
+            },
+            {
+                  "name": "Hässleholms kyrka",
+                  "text": "Die Hauptpfarrkirche von Hässleholm, Anfang des 20. Jahrhunderts im Backsteinstil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        13.770168,
+                        56.156878
+                  ]
+            },
+            {
+                  "name": "Ljungdala kyrka",
+                  "text": "Moderne Kirche und Gemeindezentrum für den Stadtteil Ljungdala in Hässleholm.",
+                  "category": "religious",
+                  "coords": [
+                        13.787251,
+                        56.167242
+                  ]
+            },
+            {
+                  "name": "Västerkyrkan",
+                  "text": "Lokale Gemeindekirche in Hässleholm, die verschiedene geistliche und soziale Aktivitäten anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        13.756907,
+                        56.161146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Västra Göinge Hembygdsmuseum",
+                  "text": "Helytörténeti múzeum Hässleholmban, amely Västra Göinge régió örökségére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.771378,
+                        56.155998
+                  ]
+            },
+            {
+                  "name": "Hässleholms museum",
+                  "text": "Múzeum Hässleholmban, amely hadtörténetet, lovas kocsikat és ipari örökséget mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.784125,
+                        56.161272
+                  ]
+            },
+            {
+                  "name": "Filfabriken",
+                  "text": "Ipari múzeum Hässleholmban, egy egykori reszelőgyárban, amely a helyi kézművességet őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        13.76218,
+                        56.164151
+                  ]
+            },
+            {
+                  "name": "Hässleholms Modelljärnväg",
+                  "text": "Svédország egyik legnagyobb vasútmodell-kiállítása Hässleholmban.",
+                  "category": "museum",
+                  "coords": [
+                        13.728198,
+                        56.145757
+                  ]
+            },
+            {
+                  "name": "Qpoolen",
+                  "text": "Többcélú fedett uszoda és sportkomplexum Hässleholm városában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.776339,
+                        56.155245
+                  ]
+            },
+            {
+                  "name": "Gömsle Magle våtmark",
+                  "text": "Madármegfigyelő hely és kilátópont a Hässleholm melletti Magle vizes élőhelyen.",
+                  "category": "natural",
+                  "coords": [
+                        13.760646,
+                        56.13651
+                  ]
+            },
+            {
+                  "name": "Hässleholm Kulturhus",
+                  "text": "Központi kulturális központ Hässleholmban, könyvtárral, mozival és színházi előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        13.763827,
+                        56.156963
+                  ]
+            },
+            {
+                  "name": "Hässleholms kyrka",
+                  "text": "Hässleholm fő plébániatemploma, a 20. század elején épült tégla stílusban.",
+                  "category": "religious",
+                  "coords": [
+                        13.770168,
+                        56.156878
+                  ]
+            },
+            {
+                  "name": "Ljungdala kyrka",
+                  "text": "Modern templom és közösségi központ Hässleholm Ljungdala negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        13.787251,
+                        56.167242
+                  ]
+            },
+            {
+                  "name": "Västerkyrkan",
+                  "text": "Helyi gyülekezeti templom Hässleholmban, amely különféle hitéleti és közösségi tevékenységeket kínál.",
+                  "category": "religious",
+                  "coords": [
+                        13.756907,
+                        56.161146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Västra Göinge Hembygdsmuseum",
+                  "text": "Muzeu de istorie locală din Hässleholm, axat pe patrimoniul regiunii Västra Göinge.",
+                  "category": "museum",
+                  "coords": [
+                        13.771378,
+                        56.155998
+                  ]
+            },
+            {
+                  "name": "Hässleholms museum",
+                  "text": "Muzeu din Hässleholm care prezintă istoria militară, trăsuri trase de cai și patrimoniul industrial.",
+                  "category": "museum",
+                  "coords": [
+                        13.784125,
+                        56.161272
+                  ]
+            },
+            {
+                  "name": "Filfabriken",
+                  "text": "Muzeu industrial din Hässleholm situat într-o fostă fabrică de pile, care conservă meșteșugurile locale.",
+                  "category": "museum",
+                  "coords": [
+                        13.76218,
+                        56.164151
+                  ]
+            },
+            {
+                  "name": "Hässleholms Modelljärnväg",
+                  "text": "Una dintre cele mai mari expoziții de machete feroviare din Suedia, situată în Hässleholm.",
+                  "category": "museum",
+                  "coords": [
+                        13.728198,
+                        56.145757
+                  ]
+            },
+            {
+                  "name": "Qpoolen",
+                  "text": "Complex polivalent de înot și sport în interior din orașul Hässleholm.",
+                  "category": "recreational",
+                  "coords": [
+                        13.776339,
+                        56.155245
+                  ]
+            },
+            {
+                  "name": "Gömsle Magle våtmark",
+                  "text": "Observator de păsări și punct de belvedere în zona umedă Magle de lângă Hässleholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.760646,
+                        56.13651
+                  ]
+            },
+            {
+                  "name": "Hässleholm Kulturhus",
+                  "text": "Centru cultural central din Hässleholm, care găzduiește o bibliotecă, un cinematograf și spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        13.763827,
+                        56.156963
+                  ]
+            },
+            {
+                  "name": "Hässleholms kyrka",
+                  "text": "Biserica parohială principală din Hässleholm, construită la începutul secolului al XX-lea în stil de cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        13.770168,
+                        56.156878
+                  ]
+            },
+            {
+                  "name": "Ljungdala kyrka",
+                  "text": "Biserică modernă și centru comunitar care deservește districtul Ljungdala din Hässleholm.",
+                  "category": "religious",
+                  "coords": [
+                        13.787251,
+                        56.167242
+                  ]
+            },
+            {
+                  "name": "Västerkyrkan",
+                  "text": "Biserică locală din Hässleholm, care oferă diverse activități spirituale și sociale.",
+                  "category": "religious",
+                  "coords": [
+                        13.756907,
+                        56.161146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Västra Göinge Hembygdsmuseum",
+                  "text": "Local history museum in Hässleholm focusing on the heritage of the Västra Göinge region.",
+                  "category": "museum",
+                  "coords": [
+                        13.771378,
+                        56.155998
+                  ]
+            },
+            {
+                  "name": "Hässleholms museum",
+                  "text": "Museum in Hässleholm showcasing military history, horse-drawn carriages, and industrial heritage.",
+                  "category": "museum",
+                  "coords": [
+                        13.784125,
+                        56.161272
+                  ]
+            },
+            {
+                  "name": "Filfabriken",
+                  "text": "Industrial museum in Hässleholm located in a former file factory, preserving local craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        13.76218,
+                        56.164151
+                  ]
+            },
+            {
+                  "name": "Hässleholms Modelljärnväg",
+                  "text": "One of Sweden's largest model railway exhibitions, located in Hässleholm.",
+                  "category": "museum",
+                  "coords": [
+                        13.728198,
+                        56.145757
+                  ]
+            },
+            {
+                  "name": "Qpoolen",
+                  "text": "Multi-purpose indoor swimming and sports complex in the city of Hässleholm.",
+                  "category": "recreational",
+                  "coords": [
+                        13.776339,
+                        56.155245
+                  ]
+            },
+            {
+                  "name": "Gömsle Magle våtmark",
+                  "text": "Bird hide and viewpoint in the Magle wetland area near Hässleholm.",
+                  "category": "natural",
+                  "coords": [
+                        13.760646,
+                        56.13651
+                  ]
+            },
+            {
+                  "name": "Hässleholm Kulturhus",
+                  "text": "Central cultural center in Hässleholm hosting a library, cinema, and theater performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.763827,
+                        56.156963
+                  ]
+            },
+            {
+                  "name": "Hässleholms kyrka",
+                  "text": "The main parish church of Hässleholm, built in the early 20th century in brick style.",
+                  "category": "religious",
+                  "coords": [
+                        13.770168,
+                        56.156878
+                  ]
+            },
+            {
+                  "name": "Ljungdala kyrka",
+                  "text": "Modern church and community center serving the Ljungdala district in Hässleholm.",
+                  "category": "religious",
+                  "coords": [
+                        13.787251,
+                        56.167242
+                  ]
+            },
+            {
+                  "name": "Västerkyrkan",
+                  "text": "Local congregation church in Hässleholm offering various spiritual and social activities.",
+                  "category": "religious",
+                  "coords": [
+                        13.756907,
+                        56.161146
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Hässleholm", hu: "Hässleholm", ro: "Hässleholm", en: "Hässleholm"},
@@ -2633,6 +17528,69 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.751712,
                         58.699628
                   ]
+            },
+            {
+                  "name": "Mariestads Teater",
+                  "text": "Historisches Holztheater in Mariestad, eines der am besten erhaltenen seiner Art in Schweden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.822945,
+                        58.708383
+                  ]
+            },
+            {
+                  "name": "Gamla Ekuddens naturreservat",
+                  "text": "Naturschutzgebiet in Mariestad, bekannt für seine alten Eichen und die Landschaft am Seeufer.",
+                  "category": "natural",
+                  "coords": [
+                        13.805221,
+                        58.718132
+                  ]
+            },
+            {
+                  "name": "Mariestads Industrimuseum",
+                  "text": "Museum zur Dokumentation der Industriegeschichte und technologischen Entwicklung von Mariestad.",
+                  "category": "museum",
+                  "coords": [
+                        13.818498,
+                        58.70828
+                  ]
+            },
+            {
+                  "name": "Galleri Imma",
+                  "text": "Galerie für zeitgenössische Kunst in Mariestad, die Werke lokaler und regionaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.819815,
+                        58.709229
+                  ]
+            },
+            {
+                  "name": "Mariestads Domkyrka",
+                  "text": "Prachtvolle Kathedrale aus dem 16. Jahrhundert in Mariestad, bekannt für ihre hohe Turmspitze und Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        13.822515,
+                        58.712514
+                  ]
+            },
+            {
+                  "name": "Leksbergs kyrka",
+                  "text": "Kirche mittelalterlichen Ursprungs bei Mariestad mit historischer Innenausstattung und Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        13.812876,
+                        58.683806
+                  ]
+            },
+            {
+                  "name": "Marieholmskyrkan",
+                  "text": "Moderne Pfarrkirche in Mariestad, die der umliegenden Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        13.804078,
+                        58.704596
+                  ]
             }
       ],
       "hu": [
@@ -2643,6 +17601,69 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.751712,
                         58.699628
+                  ]
+            },
+            {
+                  "name": "Mariestads Teater",
+                  "text": "Történelmi faszínház Mariestadban, amely az egyik legjobb állapotban fennmaradt ilyen jellegű épület Svédországban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.822945,
+                        58.708383
+                  ]
+            },
+            {
+                  "name": "Gamla Ekuddens naturreservat",
+                  "text": "Természetvédelmi terület Mariestadban, amely ősi tölgyfáiról és tóparti tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.805221,
+                        58.718132
+                  ]
+            },
+            {
+                  "name": "Mariestads Industrimuseum",
+                  "text": "Mariestad ipartörténetét és technológiai fejlődését dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.818498,
+                        58.70828
+                  ]
+            },
+            {
+                  "name": "Galleri Imma",
+                  "text": "Kortárs művészeti galéria Mariestadban, amely helyi és regionális művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.819815,
+                        58.709229
+                  ]
+            },
+            {
+                  "name": "Mariestads Domkyrka",
+                  "text": "Pompás 16. századi székesegyház Mariestadban, amely magas tornyáról és építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        13.822515,
+                        58.712514
+                  ]
+            },
+            {
+                  "name": "Leksbergs kyrka",
+                  "text": "Középkori eredetű templom Mariestad közelében, történelmi belső díszítéssel és hangulattal.",
+                  "category": "religious",
+                  "coords": [
+                        13.812876,
+                        58.683806
+                  ]
+            },
+            {
+                  "name": "Marieholmskyrkan",
+                  "text": "Modern plébániatemplom Mariestadban, amely a környező helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        13.804078,
+                        58.704596
                   ]
             }
       ],
@@ -2655,6 +17676,69 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         13.751712,
                         58.699628
                   ]
+            },
+            {
+                  "name": "Mariestads Teater",
+                  "text": "Teatru istoric din lemn din Mariestad, unul dintre cele mai bine conservate de acest fel din Suedia.",
+                  "category": "cultural",
+                  "coords": [
+                        13.822945,
+                        58.708383
+                  ]
+            },
+            {
+                  "name": "Gamla Ekuddens naturreservat",
+                  "text": "Rezervație naturală din Mariestad, cunoscută pentru stejarii săi antici și peisajul de la malul lacului.",
+                  "category": "natural",
+                  "coords": [
+                        13.805221,
+                        58.718132
+                  ]
+            },
+            {
+                  "name": "Mariestads Industrimuseum",
+                  "text": "Muzeu care documentează istoria industrială și dezvoltarea tehnologică a orașului Mariestad.",
+                  "category": "museum",
+                  "coords": [
+                        13.818498,
+                        58.70828
+                  ]
+            },
+            {
+                  "name": "Galleri Imma",
+                  "text": "Galerie de artă contemporană din Mariestad, care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        13.819815,
+                        58.709229
+                  ]
+            },
+            {
+                  "name": "Mariestads Domkyrka",
+                  "text": "Catedrală magnifică din secolul al XVI-lea din Mariestad, notabilă pentru turla sa înaltă și arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        13.822515,
+                        58.712514
+                  ]
+            },
+            {
+                  "name": "Leksbergs kyrka",
+                  "text": "Biserică de origine medievală lângă Mariestad, cu decorațiuni interioare și atmosferă istorică.",
+                  "category": "religious",
+                  "coords": [
+                        13.812876,
+                        58.683806
+                  ]
+            },
+            {
+                  "name": "Marieholmskyrkan",
+                  "text": "Biserică parohială modernă din Mariestad, în slujba comunității locale înconjurătoare.",
+                  "category": "religious",
+                  "coords": [
+                        13.804078,
+                        58.704596
+                  ]
             }
       ],
       "en": [
@@ -2665,6 +17749,69 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         13.751712,
                         58.699628
+                  ]
+            },
+            {
+                  "name": "Mariestads Teater",
+                  "text": "Historic wooden theater in Mariestad, one of the best-preserved of its kind in Sweden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.822945,
+                        58.708383
+                  ]
+            },
+            {
+                  "name": "Gamla Ekuddens naturreservat",
+                  "text": "Nature reserve in Mariestad known for its ancient oak trees and lakeside scenery.",
+                  "category": "natural",
+                  "coords": [
+                        13.805221,
+                        58.718132
+                  ]
+            },
+            {
+                  "name": "Mariestads Industrimuseum",
+                  "text": "Museum documenting the industrial history and technological development of Mariestad.",
+                  "category": "museum",
+                  "coords": [
+                        13.818498,
+                        58.70828
+                  ]
+            },
+            {
+                  "name": "Galleri Imma",
+                  "text": "Contemporary art gallery in Mariestad showcasing works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        13.819815,
+                        58.709229
+                  ]
+            },
+            {
+                  "name": "Mariestads Domkyrka",
+                  "text": "Magnificent 16th-century cathedral in Mariestad, notable for its tall spire and architecture.",
+                  "category": "religious",
+                  "coords": [
+                        13.822515,
+                        58.712514
+                  ]
+            },
+            {
+                  "name": "Leksbergs kyrka",
+                  "text": "Medieval origin church near Mariestad, featuring historic interior decorations and atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        13.812876,
+                        58.683806
+                  ]
+            },
+            {
+                  "name": "Marieholmskyrkan",
+                  "text": "Modern parish church in Mariestad serving the surrounding local community.",
+                  "category": "religious",
+                  "coords": [
+                        13.804078,
+                        58.704596
                   ]
             }
       ]
@@ -2715,7 +17862,448 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-borlange-cities-v2",
+    id: "sweden-borlange-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Smäcken",
+                  "text": "Smäcken ist ein ruhiges Naturschutzgebiet in der Nähe von Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.454614,
+                        60.457993
+                  ]
+            },
+            {
+                  "name": "Lusmyrans naturreservat",
+                  "text": "Das Lusmyrans Naturschutzgebiet schützt Feuchtgebiete und die lokale Artenvielfalt in Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.424162,
+                        60.470659
+                  ]
+            },
+            {
+                  "name": "Tunabygdens Gammelgård",
+                  "text": "Der Tunabygdens Gammelgård ist ein großes Freilichtmuseum mit historischen Gebäuden in Borlänge.",
+                  "category": "museum",
+                  "coords": [
+                        15.438303,
+                        60.496116
+                  ]
+            },
+            {
+                  "name": "2047 Science Center",
+                  "text": "Das 2047 Science Center ist ein interaktives Museum für Technik und Wissenschaft in Borlänge.",
+                  "category": "museum",
+                  "coords": [
+                        15.430592,
+                        60.48816
+                  ]
+            },
+            {
+                  "name": "Geologiska museet",
+                  "text": "Das Geologische Museum in Borlänge zeigt eine beeindruckende Sammlung von Steinen und Mineralien.",
+                  "category": "museum",
+                  "coords": [
+                        15.430143,
+                        60.484157
+                  ]
+            },
+            {
+                  "name": "Borganäs",
+                  "text": "Borganäs ist eine archäologische Stätte einer mittelalterlichen Festung in Borlänge.",
+                  "category": "historical",
+                  "coords": [
+                        15.451175,
+                        60.496708
+                  ]
+            },
+            {
+                  "name": "Älvravinerna",
+                  "text": "Die Älvravinerna sind ein Naturschutzgebiet mit dramatischen Schluchten entlang des Flusses in Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.440729,
+                        60.501574
+                  ]
+            },
+            {
+                  "name": "Maximteatern",
+                  "text": "Das Maximteatern ist eine zentrale Spielstätte für Unterhaltung und Theater in Borlänge.",
+                  "category": "cultural",
+                  "coords": [
+                        15.438182,
+                        60.485249
+                  ]
+            },
+            {
+                  "name": "Aqua Nova",
+                  "text": "Aqua Nova ist ein Erlebnisbad in Borlänge mit vielen Rutschen und Wasserattraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        15.410242,
+                        60.491816
+                  ]
+            },
+            {
+                  "name": "Utanfors herrgård",
+                  "text": "Das Utanfors herrgård ist ein historisches Herrenhaus in der Umgebung von Borlänge.",
+                  "category": "historical",
+                  "coords": [
+                        15.434435,
+                        60.493414
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "Die Hagakyrkan ist eine moderne Gemeindekirche im Stadtteil Haga in Borlänge.",
+                  "category": "religious",
+                  "coords": [
+                        15.428149,
+                        60.491905
+                  ]
+            },
+            {
+                  "name": "Jakobs kapell",
+                  "text": "Die Jakobs kapell ist eine kleine, friedliche Kapelle in Borlänge.",
+                  "category": "religious",
+                  "coords": [
+                        15.401379,
+                        60.483558
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Smäcken",
+                  "text": "Smäcken egy csendes természetvédelmi terület Borlänge közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.454614,
+                        60.457993
+                  ]
+            },
+            {
+                  "name": "Lusmyrans naturreservat",
+                  "text": "A Lusmyrans természetvédelmi terület vizes élőhelyeket és a helyi biodiverzitást védi Borlängében.",
+                  "category": "natural",
+                  "coords": [
+                        15.424162,
+                        60.470659
+                  ]
+            },
+            {
+                  "name": "Tunabygdens Gammelgård",
+                  "text": "A Tunabygdens Gammelgård egy nagy szabadtéri múzeum történelmi épületekkel Borlängében.",
+                  "category": "museum",
+                  "coords": [
+                        15.438303,
+                        60.496116
+                  ]
+            },
+            {
+                  "name": "2047 Science Center",
+                  "text": "A 2047 Science Center egy interaktív műszaki és tudományos múzeum Borlängében.",
+                  "category": "museum",
+                  "coords": [
+                        15.430592,
+                        60.48816
+                  ]
+            },
+            {
+                  "name": "Geologiska museet",
+                  "text": "A borlängei Geológiai Múzeum kőzetek és ásványok lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.430143,
+                        60.484157
+                  ]
+            },
+            {
+                  "name": "Borganäs",
+                  "text": "Borganäs egy középkori erődítmény régészeti lelőhelye Borlängében.",
+                  "category": "historical",
+                  "coords": [
+                        15.451175,
+                        60.496708
+                  ]
+            },
+            {
+                  "name": "Älvravinerna",
+                  "text": "Az Älvravinerna egy természetvédelmi terület drámai szurdokokkal a folyó mentén Borlängében.",
+                  "category": "natural",
+                  "coords": [
+                        15.440729,
+                        60.501574
+                  ]
+            },
+            {
+                  "name": "Maximteatern",
+                  "text": "A Maximteatern a borlängei szórakoztatás és színházi élet egyik központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        15.438182,
+                        60.485249
+                  ]
+            },
+            {
+                  "name": "Aqua Nova",
+                  "text": "Az Aqua Nova egy élményfürdő Borlängében, számos csúszdával és vízi attrakcióval.",
+                  "category": "recreational",
+                  "coords": [
+                        15.410242,
+                        60.491816
+                  ]
+            },
+            {
+                  "name": "Utanfors herrgård",
+                  "text": "Az Utanfors herrgård egy történelmi kúria Borlänge környékén.",
+                  "category": "historical",
+                  "coords": [
+                        15.434435,
+                        60.493414
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "A Hagakyrkan egy modern közösségi templom Borlänge Haga negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.428149,
+                        60.491905
+                  ]
+            },
+            {
+                  "name": "Jakobs kapell",
+                  "text": "A Jakobs kapell egy kicsi, békés kápolna Borlängében.",
+                  "category": "religious",
+                  "coords": [
+                        15.401379,
+                        60.483558
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Smäcken",
+                  "text": "Smäcken este o rezervație naturală liniștită situată lângă Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.454614,
+                        60.457993
+                  ]
+            },
+            {
+                  "name": "Lusmyrans naturreservat",
+                  "text": "Rezervația naturală Lusmyrans protejează zonele umede și biodiversitatea locală din Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.424162,
+                        60.470659
+                  ]
+            },
+            {
+                  "name": "Tunabygdens Gammelgård",
+                  "text": "Tunabygdens Gammelgård este un muzeu mare în aer liber cu clădiri istorice din Borlänge.",
+                  "category": "museum",
+                  "coords": [
+                        15.438303,
+                        60.496116
+                  ]
+            },
+            {
+                  "name": "2047 Science Center",
+                  "text": "2047 Science Center este un muzeu interactiv de tehnologie și știință din Borlänge.",
+                  "category": "museum",
+                  "coords": [
+                        15.430592,
+                        60.48816
+                  ]
+            },
+            {
+                  "name": "Geologiska museet",
+                  "text": "Muzeul Geologic din Borlänge expune o colecție impresionantă de roci și minerale.",
+                  "category": "museum",
+                  "coords": [
+                        15.430143,
+                        60.484157
+                  ]
+            },
+            {
+                  "name": "Borganäs",
+                  "text": "Borganäs este situl arheologic al unei fortărețe medievale din Borlänge.",
+                  "category": "historical",
+                  "coords": [
+                        15.451175,
+                        60.496708
+                  ]
+            },
+            {
+                  "name": "Älvravinerna",
+                  "text": "Älvravinerna este o rezervație naturală cu râpe dramatice de-a lungul râului din Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.440729,
+                        60.501574
+                  ]
+            },
+            {
+                  "name": "Maximteatern",
+                  "text": "Maximteatern este o locație centrală pentru divertisment și teatru în Borlänge.",
+                  "category": "cultural",
+                  "coords": [
+                        15.438182,
+                        60.485249
+                  ]
+            },
+            {
+                  "name": "Aqua Nova",
+                  "text": "Aqua Nova este un parc acvatic din Borlänge cu numeroase tobogane și atracții acvatice.",
+                  "category": "recreational",
+                  "coords": [
+                        15.410242,
+                        60.491816
+                  ]
+            },
+            {
+                  "name": "Utanfors herrgård",
+                  "text": "Utanfors herrgård este un conac istoric situat în împrejurimile orașului Borlänge.",
+                  "category": "historical",
+                  "coords": [
+                        15.434435,
+                        60.493414
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "Hagakyrkan este o biserică parohială modernă din cartierul Haga, Borlänge.",
+                  "category": "religious",
+                  "coords": [
+                        15.428149,
+                        60.491905
+                  ]
+            },
+            {
+                  "name": "Jakobs kapell",
+                  "text": "Jakobs kapell este o capelă mică și liniștită din Borlänge.",
+                  "category": "religious",
+                  "coords": [
+                        15.401379,
+                        60.483558
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Smäcken",
+                  "text": "Smäcken is a peaceful nature reserve located near Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.454614,
+                        60.457993
+                  ]
+            },
+            {
+                  "name": "Lusmyrans naturreservat",
+                  "text": "Lusmyrans nature reserve protects wetlands and local biodiversity in Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.424162,
+                        60.470659
+                  ]
+            },
+            {
+                  "name": "Tunabygdens Gammelgård",
+                  "text": "Tunabygdens Gammelgård is a large open-air museum with historic buildings in Borlänge.",
+                  "category": "museum",
+                  "coords": [
+                        15.438303,
+                        60.496116
+                  ]
+            },
+            {
+                  "name": "2047 Science Center",
+                  "text": "2047 Science Center is an interactive museum for technology and science in Borlänge.",
+                  "category": "museum",
+                  "coords": [
+                        15.430592,
+                        60.48816
+                  ]
+            },
+            {
+                  "name": "Geological museum",
+                  "text": "The Geological museum in Borlänge displays an impressive collection of rocks and minerals.",
+                  "category": "museum",
+                  "coords": [
+                        15.430143,
+                        60.484157
+                  ]
+            },
+            {
+                  "name": "Borganäs",
+                  "text": "Borganäs is the archaeological site of a medieval fortress in Borlänge.",
+                  "category": "historical",
+                  "coords": [
+                        15.451175,
+                        60.496708
+                  ]
+            },
+            {
+                  "name": "Älvravinerna",
+                  "text": "Älvravinerna is a nature reserve featuring dramatic ravines along the river in Borlänge.",
+                  "category": "natural",
+                  "coords": [
+                        15.440729,
+                        60.501574
+                  ]
+            },
+            {
+                  "name": "Maximteatern",
+                  "text": "Maximteatern is a central venue for entertainment and theatre in Borlänge.",
+                  "category": "cultural",
+                  "coords": [
+                        15.438182,
+                        60.485249
+                  ]
+            },
+            {
+                  "name": "Aqua Nova",
+                  "text": "Aqua Nova is a water park in Borlänge with many slides and water attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        15.410242,
+                        60.491816
+                  ]
+            },
+            {
+                  "name": "Utanfors herrgård",
+                  "text": "Utanfors herrgård is a historic manor house in the surroundings of Borlänge.",
+                  "category": "historical",
+                  "coords": [
+                        15.434435,
+                        60.493414
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "Hagakyrkan is a modern community church in the Haga district of Borlänge.",
+                  "category": "religious",
+                  "coords": [
+                        15.428149,
+                        60.491905
+                  ]
+            },
+            {
+                  "name": "Jakobs kapell",
+                  "text": "Jakobs kapell is a small, peaceful chapel in Borlänge.",
+                  "category": "religious",
+                  "coords": [
+                        15.401379,
+                        60.483558
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "city",
     name: { de: "Borlänge", hu: "Borlänge", ro: "Borlänge", en: "Borlänge"},
@@ -2762,7 +18350,268 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-sandviken-cities-v2",
+    id: "sweden-sandviken-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parkbadet",
+                  "text": "Ein beliebter Wasserpark und Freizeitbad in Sandviken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.76892,
+                        60.619067
+                  ]
+            },
+            {
+                  "name": "Scherpbacken",
+                  "text": "Eine archäologische Fundstätte mit antiken Überresten in Sandviken.",
+                  "category": "historical",
+                  "coords": [
+                        16.735922,
+                        60.622663
+                  ]
+            },
+            {
+                  "name": "Smedsgården Bruksmuseum",
+                  "text": "Ein Industriemuseum in Sandviken, das die Geschichte des örtlichen Hüttenwerks zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.779962,
+                        60.616801
+                  ]
+            },
+            {
+                  "name": "Torpet Isakas",
+                  "text": "Die Ruinen einer historischen Kate in der Nähe von Sandviken.",
+                  "category": "historical",
+                  "coords": [
+                        16.819018,
+                        60.636739
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "Eine Galerie in Sandviken, die verschiedene Kunstausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.779864,
+                        60.620571
+                  ]
+            },
+            {
+                  "name": "Sandvikens kyrka",
+                  "text": "Das Hauptkirchengebäude der Gemeinde Sandviken.",
+                  "category": "religious",
+                  "coords": [
+                        16.784423,
+                        60.620785
+                  ]
+            },
+            {
+                  "name": "S:t Katolska kyrka",
+                  "text": "Ein katholisches Kirchengebäude in Sandviken.",
+                  "category": "religious",
+                  "coords": [
+                        16.77279,
+                        60.604976
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parkbadet",
+                  "text": "Népszerű vízipark és szabadidős fürdő Sandvikenben.",
+                  "category": "recreational",
+                  "coords": [
+                        16.76892,
+                        60.619067
+                  ]
+            },
+            {
+                  "name": "Scherpbacken",
+                  "text": "Régészeti lelőhely ősi maradványokkal Sandvikenben.",
+                  "category": "historical",
+                  "coords": [
+                        16.735922,
+                        60.622663
+                  ]
+            },
+            {
+                  "name": "Smedsgården Bruksmuseum",
+                  "text": "Ipartörténeti múzeum Sandvikenben, amely a helyi vasmű történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.779962,
+                        60.616801
+                  ]
+            },
+            {
+                  "name": "Torpet Isakas",
+                  "text": "Egy történelmi zsellérház romjai Sandviken közelében.",
+                  "category": "historical",
+                  "coords": [
+                        16.819018,
+                        60.636739
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "Sandviken galériája, amely különféle művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.779864,
+                        60.620571
+                  ]
+            },
+            {
+                  "name": "Sandvikens kyrka",
+                  "text": "Sandviken közösségének fő templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        16.784423,
+                        60.620785
+                  ]
+            },
+            {
+                  "name": "S:t Katolska kyrka",
+                  "text": "Katolikus templomépület Sandvikenben.",
+                  "category": "religious",
+                  "coords": [
+                        16.77279,
+                        60.604976
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parkbadet",
+                  "text": "Un parc acvatic și centru de agrement popular în Sandviken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.76892,
+                        60.619067
+                  ]
+            },
+            {
+                  "name": "Scherpbacken",
+                  "text": "Un sit arheologic cu vestigii antice în Sandviken.",
+                  "category": "historical",
+                  "coords": [
+                        16.735922,
+                        60.622663
+                  ]
+            },
+            {
+                  "name": "Smedsgården Bruksmuseum",
+                  "text": "Un muzeu industrial din Sandviken care prezintă istoria combinatului siderurgic local.",
+                  "category": "museum",
+                  "coords": [
+                        16.779962,
+                        60.616801
+                  ]
+            },
+            {
+                  "name": "Torpet Isakas",
+                  "text": "Ruinele unei colibe istorice situată lângă Sandviken.",
+                  "category": "historical",
+                  "coords": [
+                        16.819018,
+                        60.636739
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "O galerie din Sandviken care prezintă diverse expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        16.779864,
+                        60.620571
+                  ]
+            },
+            {
+                  "name": "Sandvikens kyrka",
+                  "text": "Principala clădire a bisericii din comunitatea Sandviken.",
+                  "category": "religious",
+                  "coords": [
+                        16.784423,
+                        60.620785
+                  ]
+            },
+            {
+                  "name": "S:t Katolska kyrka",
+                  "text": "O clădire a bisericii catolice din Sandviken.",
+                  "category": "religious",
+                  "coords": [
+                        16.77279,
+                        60.604976
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parkbadet",
+                  "text": "A popular water park and leisure pool in Sandviken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.76892,
+                        60.619067
+                  ]
+            },
+            {
+                  "name": "Scherpbacken",
+                  "text": "An archaeological site with ancient remains in Sandviken.",
+                  "category": "historical",
+                  "coords": [
+                        16.735922,
+                        60.622663
+                  ]
+            },
+            {
+                  "name": "Smedsgården Bruksmuseum",
+                  "text": "An industrial museum in Sandviken showcasing the history of the local ironworks.",
+                  "category": "museum",
+                  "coords": [
+                        16.779962,
+                        60.616801
+                  ]
+            },
+            {
+                  "name": "Torpet Isakas",
+                  "text": "The ruins of a historic cottage located near Sandviken.",
+                  "category": "historical",
+                  "coords": [
+                        16.819018,
+                        60.636739
+                  ]
+            },
+            {
+                  "name": "Konsthallen",
+                  "text": "A gallery in Sandviken presenting various art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.779864,
+                        60.620571
+                  ]
+            },
+            {
+                  "name": "Sandvikens kyrka",
+                  "text": "The main church building of the Sandviken community.",
+                  "category": "religious",
+                  "coords": [
+                        16.784423,
+                        60.620785
+                  ]
+            },
+            {
+                  "name": "S:t Katolska kyrka",
+                  "text": "A Catholic church building in Sandviken.",
+                  "category": "religious",
+                  "coords": [
+                        16.77279,
+                        60.604976
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Sandviken", hu: "Sandviken", ro: "Sandviken", en: "Sandviken"},
@@ -2809,7 +18658,376 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     },
   },
   {
-    id: "sweden-falkenberg-cities-v2",
+    id: "sweden-falkenberg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fotomuseet Olympia",
+                  "text": "Museum in Falkenberg, das der Geschichte der Fotografie und Filmtechnik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.488186,
+                        56.90349
+                  ]
+            },
+            {
+                  "name": "Borgen Falkenberg",
+                  "text": "Archäologische Überreste einer mittelalterlichen Festung in Falkenberg aus dem 13. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        12.495872,
+                        56.903199
+                  ]
+            },
+            {
+                  "name": "Vallarnas friluftsteater",
+                  "text": "Beliebtes Freilichttheater in Falkenberg, bekannt für seine sommerlichen Comedy-Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.50459,
+                        56.90577
+                  ]
+            },
+            {
+                  "name": "Rian designmuseum",
+                  "text": "Designmuseum in Falkenberg, das zeitgenössisches und industrielles Design sowie Kunsthandwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.494723,
+                        56.898973
+                  ]
+            },
+            {
+                  "name": "Falkenbergs teater",
+                  "text": "Lokaler Veranstaltungsort für darstellende Künste in Falkenberg, an dem Konzerte, Theaterstücke und kulturelle Events stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        12.502801,
+                        56.912085
+                  ]
+            },
+            {
+                  "name": "Bilmuseum - Toveks Bil",
+                  "text": "Privates Automuseum in Falkenberg, das eine Sammlung von Oldtimern und klassischen Fahrzeugen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.52499,
+                        56.899481
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "Die älteste Kirche in Falkenberg, ein mittelalterlicher Steinbau im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        12.494258,
+                        56.901016
+                  ]
+            },
+            {
+                  "name": "Stafsinge kyrka",
+                  "text": "Historische Landkirche bei Falkenberg, deren Ursprünge bis ins Mittelalter zurückreichen.",
+                  "category": "religious",
+                  "coords": [
+                        12.486647,
+                        56.919652
+                  ]
+            },
+            {
+                  "name": "Falkenberg Skrea",
+                  "text": "Modernes Kirchengebäude im Stadtteil Herting von Falkenberg, das der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.504537,
+                        56.891845
+                  ]
+            },
+            {
+                  "name": "Falkenbergs kyrka",
+                  "text": "Bedeutende Kirche in Falkenberg, bekannt für ihre Architektur aus rotem Backstein und ihre Lage an der Küste.",
+                  "category": "religious",
+                  "coords": [
+                        12.48955,
+                        56.902113
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fotomuseet Olympia",
+                  "text": "Fotográfiai és filmtechnikai történeti múzeum Falkenbergben.",
+                  "category": "museum",
+                  "coords": [
+                        12.488186,
+                        56.90349
+                  ]
+            },
+            {
+                  "name": "Borgen Falkenberg",
+                  "text": "Egy 13. századi középkori erőd régészeti maradványai Falkenbergben.",
+                  "category": "historical",
+                  "coords": [
+                        12.495872,
+                        56.903199
+                  ]
+            },
+            {
+                  "name": "Vallarnas friluftsteater",
+                  "text": "Népszerű szabadtéri színház Falkenbergben, amely nyári vígjátékairól híres.",
+                  "category": "cultural",
+                  "coords": [
+                        12.50459,
+                        56.90577
+                  ]
+            },
+            {
+                  "name": "Rian designmuseum",
+                  "text": "Designmúzeum Falkenbergben, amely kortárs és ipari designt, valamint kézművességet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.494723,
+                        56.898973
+                  ]
+            },
+            {
+                  "name": "Falkenbergs teater",
+                  "text": "Helyi előadó-művészeti helyszín Falkenbergben, amely koncerteknek, színdaraboknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.502801,
+                        56.912085
+                  ]
+            },
+            {
+                  "name": "Bilmuseum - Toveks Bil",
+                  "text": "Magánautómúzeum Falkenbergben, amely veterán és klasszikus járművek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.52499,
+                        56.899481
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "Falkenberg legrégebbi temploma, egy középkori kőépület a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        12.494258,
+                        56.901016
+                  ]
+            },
+            {
+                  "name": "Stafsinge kyrka",
+                  "text": "Történelmi vidéki templom Falkenberg közelében, amelynek eredete a középkorig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        12.486647,
+                        56.919652
+                  ]
+            },
+            {
+                  "name": "Falkenberg Skrea",
+                  "text": "Modern templomépület Falkenberg Herting negyedében, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        12.504537,
+                        56.891845
+                  ]
+            },
+            {
+                  "name": "Falkenbergs kyrka",
+                  "text": "Jelentős templom Falkenbergben, amely vörös téglás építészetéről és tengerparti környezetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        12.48955,
+                        56.902113
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fotomuseet Olympia",
+                  "text": "Muzeu din Falkenberg dedicat istoriei fotografiei și tehnologiei cinematografice.",
+                  "category": "museum",
+                  "coords": [
+                        12.488186,
+                        56.90349
+                  ]
+            },
+            {
+                  "name": "Borgen Falkenberg",
+                  "text": "Rămășițe arheologice ale unei cetăți medievale din Falkenberg, datând din secolul al XIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        12.495872,
+                        56.903199
+                  ]
+            },
+            {
+                  "name": "Vallarnas friluftsteater",
+                  "text": "Teatru popular în aer liber din Falkenberg, faimos pentru spectacolele sale de comedie de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        12.50459,
+                        56.90577
+                  ]
+            },
+            {
+                  "name": "Rian designmuseum",
+                  "text": "Muzeu de design din Falkenberg care prezintă design contemporan și industrial, precum și meșteșuguri.",
+                  "category": "museum",
+                  "coords": [
+                        12.494723,
+                        56.898973
+                  ]
+            },
+            {
+                  "name": "Falkenbergs teater",
+                  "text": "Locație locală pentru artele spectacolului din Falkenberg, care găzduiește concerte, piese de teatru și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        12.502801,
+                        56.912085
+                  ]
+            },
+            {
+                  "name": "Bilmuseum - Toveks Bil",
+                  "text": "Muzeu privat de mașini din Falkenberg, care expune o colecție de vehicule de epocă și clasice.",
+                  "category": "museum",
+                  "coords": [
+                        12.52499,
+                        56.899481
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "Cea mai veche biserică din Falkenberg, o structură medievală de piatră situată în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        12.494258,
+                        56.901016
+                  ]
+            },
+            {
+                  "name": "Stafsinge kyrka",
+                  "text": "Biserică istorică de țară lângă Falkenberg, cu origini care datează din Evul Mediu.",
+                  "category": "religious",
+                  "coords": [
+                        12.486647,
+                        56.919652
+                  ]
+            },
+            {
+                  "name": "Falkenberg Skrea",
+                  "text": "Clădire modernă de biserică în zona Herting din Falkenberg, în slujba comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        12.504537,
+                        56.891845
+                  ]
+            },
+            {
+                  "name": "Falkenbergs kyrka",
+                  "text": "Biserică semnificativă din Falkenberg, cunoscută pentru arhitectura sa din cărămidă roșie și amplasarea pe coastă.",
+                  "category": "religious",
+                  "coords": [
+                        12.48955,
+                        56.902113
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fotomuseet Olympia",
+                  "text": "Museum in Falkenberg dedicated to the history of photography and film technology.",
+                  "category": "museum",
+                  "coords": [
+                        12.488186,
+                        56.90349
+                  ]
+            },
+            {
+                  "name": "Borgen Falkenberg",
+                  "text": "Archaeological remains of a medieval fortress in Falkenberg dating back to the 13th century.",
+                  "category": "historical",
+                  "coords": [
+                        12.495872,
+                        56.903199
+                  ]
+            },
+            {
+                  "name": "Vallarnas friluftsteater",
+                  "text": "Popular open-air theater in Falkenberg famous for its summer comedy performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.50459,
+                        56.90577
+                  ]
+            },
+            {
+                  "name": "Rian designmuseum",
+                  "text": "Design museum in Falkenberg showcasing contemporary and industrial design and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        12.494723,
+                        56.898973
+                  ]
+            },
+            {
+                  "name": "Falkenbergs teater",
+                  "text": "Local performing arts venue in Falkenberg hosting concerts, plays, and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        12.502801,
+                        56.912085
+                  ]
+            },
+            {
+                  "name": "Bilmuseum - Toveks Bil",
+                  "text": "Private car museum in Falkenberg displaying a collection of vintage and classic vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        12.52499,
+                        56.899481
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "The oldest church in Falkenberg, a medieval stone structure located in the town center.",
+                  "category": "religious",
+                  "coords": [
+                        12.494258,
+                        56.901016
+                  ]
+            },
+            {
+                  "name": "Stafsinge kyrka",
+                  "text": "Historic countryside church near Falkenberg with origins dating back to the Middle Ages.",
+                  "category": "religious",
+                  "coords": [
+                        12.486647,
+                        56.919652
+                  ]
+            },
+            {
+                  "name": "Falkenberg Skrea",
+                  "text": "Modern church building in the Herting area of Falkenberg serving the community.",
+                  "category": "religious",
+                  "coords": [
+                        12.504537,
+                        56.891845
+                  ]
+            },
+            {
+                  "name": "Falkenbergs kyrka",
+                  "text": "Significant church in Falkenberg known for its red brick architecture and coastal setting.",
+                  "category": "religious",
+                  "coords": [
+                        12.48955,
+                        56.902113
+                  ]
+            }
+      ]
+},
     parent: "SE",
     type: "town",
     name: { de: "Falkenberg", hu: "Falkenberg", ro: "Falkenberg", en: "Falkenberg"},
@@ -2950,7 +19168,340 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
   }
 ,
   {
-    id: "sweden-karlskoga-cities-v2",
+    id: "sweden-karlskoga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nobelmuseet - Björkborns Herrgård",
+                  "text": "Alfred Nobels letztes Wohnhaus in Schweden, heute ein Museum, das seinem Leben und Werk gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.534684,
+                        59.340273
+                  ]
+            },
+            {
+                  "name": "Bofors Industrimuseum",
+                  "text": "Museum in Karlskoga, das die Industriegeschichte und Entwicklung der Firma Bofors zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.534815,
+                        59.341405
+                  ]
+            },
+            {
+                  "name": "Kungsteatern",
+                  "text": "Traditionelles Theater in Karlskoga, in dem lokale Bühnenproduktionen und Musikaufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        14.527262,
+                        59.326119
+                  ]
+            },
+            {
+                  "name": "Boda borg",
+                  "text": "Abenteuerhaus in Karlskoga mit interaktiven Team-Herausforderungen und Rätselräumen.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487024,
+                        59.32385
+                  ]
+            },
+            {
+                  "name": "Gråbo Arbetarmuseum",
+                  "text": "Museum in Karlskoga, das die Lebensbedingungen von Industriearbeitern im frühen 20. Jahrhundert darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.548155,
+                        59.33291
+                  ]
+            },
+            {
+                  "name": "Alfred Nobels laboratorium",
+                  "text": "Erhaltenes Laboratorium in Karlskoga, in dem Alfred Nobel seine wissenschaftlichen Forschungen durchführte.",
+                  "category": "museum",
+                  "coords": [
+                        14.534492,
+                        59.343
+                  ]
+            },
+            {
+                  "name": "Karlskoga Hembygdsgård",
+                  "text": "Ein lokaler Heimathof in Karlskoga, der regionale Kultur und Geschichte bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514115,
+                        59.309349
+                  ]
+            },
+            {
+                  "name": "Rävåskanonen",
+                  "text": "Eine historische Kanone als Denkmal in der Stadt Karlskoga.",
+                  "category": "landmark",
+                  "coords": [
+                        14.52053,
+                        59.32729
+                  ]
+            },
+            {
+                  "name": "Rävåskyrkan",
+                  "text": "Eine lokale Kirche in Karlskoga, die als Ort der Anbetung dient.",
+                  "category": "religious",
+                  "coords": [
+                        14.521121,
+                        59.329077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nobelmuseet - Björkborns Herrgård",
+                  "text": "Alfred Nobel utolsó svédországi otthona, ma életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.534684,
+                        59.340273
+                  ]
+            },
+            {
+                  "name": "Bofors Industrimuseum",
+                  "text": "Múzeum Karlskogában, amely a Bofors vállalat ipartörténetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.534815,
+                        59.341405
+                  ]
+            },
+            {
+                  "name": "Kungsteatern",
+                  "text": "Hagyományos színház Karlskogában, amely helyi színpadi produkcióknak és zenei előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        14.527262,
+                        59.326119
+                  ]
+            },
+            {
+                  "name": "Boda borg",
+                  "text": "Kalandház Karlskogában, interaktív csapatfeladatokkal és rejtvénytermekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487024,
+                        59.32385
+                  ]
+            },
+            {
+                  "name": "Gråbo Arbetarmuseum",
+                  "text": "Múzeum Karlskogában, amely az ipari munkások életkörülményeit mutatja be a 20. század elején.",
+                  "category": "museum",
+                  "coords": [
+                        14.548155,
+                        59.33291
+                  ]
+            },
+            {
+                  "name": "Alfred Nobels laboratorium",
+                  "text": "Megőrzött laboratórium Karlskogában, ahol Alfred Nobel tudományos kutatásait végezte.",
+                  "category": "museum",
+                  "coords": [
+                        14.534492,
+                        59.343
+                  ]
+            },
+            {
+                  "name": "Karlskoga Hembygdsgård",
+                  "text": "Helyi tájház Karlskoga városában, amely a regionális kultúrát és történelmet mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514115,
+                        59.309349
+                  ]
+            },
+            {
+                  "name": "Rävåskanonen",
+                  "text": "Egy történelmi ágyú, amely emlékműként szolgál Karlskoga városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.52053,
+                        59.32729
+                  ]
+            },
+            {
+                  "name": "Rävåskyrkan",
+                  "text": "Helyi templom Karlskoga városában, amely istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        14.521121,
+                        59.329077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nobelmuseet - Björkborns Herrgård",
+                  "text": "Ultima casă a lui Alfred Nobel din Suedia, acum un muzeu dedicat vieții și operei sale.",
+                  "category": "museum",
+                  "coords": [
+                        14.534684,
+                        59.340273
+                  ]
+            },
+            {
+                  "name": "Bofors Industrimuseum",
+                  "text": "Muzeu din Karlskoga care prezintă istoria industrială și dezvoltarea companiei Bofors.",
+                  "category": "museum",
+                  "coords": [
+                        14.534815,
+                        59.341405
+                  ]
+            },
+            {
+                  "name": "Kungsteatern",
+                  "text": "Teatru tradițional din Karlskoga, care găzduiește producții scenice locale și spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.527262,
+                        59.326119
+                  ]
+            },
+            {
+                  "name": "Boda borg",
+                  "text": "Casă de aventură în Karlskoga, cu provocări interactive în echipă și camere cu puzzle-uri.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487024,
+                        59.32385
+                  ]
+            },
+            {
+                  "name": "Gråbo Arbetarmuseum",
+                  "text": "Muzeu din Karlskoga care înfățișează condițiile de viață ale muncitorilor industriali la începutul secolului XX.",
+                  "category": "museum",
+                  "coords": [
+                        14.548155,
+                        59.33291
+                  ]
+            },
+            {
+                  "name": "Alfred Nobels laboratorium",
+                  "text": "Laborator conservat din Karlskoga, unde Alfred Nobel și-a desfășurat cercetările științifice.",
+                  "category": "museum",
+                  "coords": [
+                        14.534492,
+                        59.343
+                  ]
+            },
+            {
+                  "name": "Karlskoga Hembygdsgård",
+                  "text": "O fermă locală de patrimoniu în Karlskoga, care conservă cultura și istoria regională.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514115,
+                        59.309349
+                  ]
+            },
+            {
+                  "name": "Rävåskanonen",
+                  "text": "Un tun istoric care servește drept monument în orașul Karlskoga.",
+                  "category": "landmark",
+                  "coords": [
+                        14.52053,
+                        59.32729
+                  ]
+            },
+            {
+                  "name": "Rävåskyrkan",
+                  "text": "O biserică locală în Karlskoga, servind ca lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        14.521121,
+                        59.329077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nobelmuseet - Björkborns Herrgård",
+                  "text": "Alfred Nobel's final home in Sweden, now a museum dedicated to his life and work.",
+                  "category": "museum",
+                  "coords": [
+                        14.534684,
+                        59.340273
+                  ]
+            },
+            {
+                  "name": "Bofors Industrimuseum",
+                  "text": "Museum in Karlskoga showcasing the industrial history and development of the Bofors company.",
+                  "category": "museum",
+                  "coords": [
+                        14.534815,
+                        59.341405
+                  ]
+            },
+            {
+                  "name": "Kungsteatern",
+                  "text": "Traditional theater in Karlskoga hosting local stage productions and musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        14.527262,
+                        59.326119
+                  ]
+            },
+            {
+                  "name": "Boda borg",
+                  "text": "Adventure house in Karlskoga featuring interactive team challenges and puzzle rooms.",
+                  "category": "recreational",
+                  "coords": [
+                        14.487024,
+                        59.32385
+                  ]
+            },
+            {
+                  "name": "Gråbo Arbetarmuseum",
+                  "text": "Museum in Karlskoga depicting the living conditions of industrial workers in the early 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        14.548155,
+                        59.33291
+                  ]
+            },
+            {
+                  "name": "Alfred Nobels laboratorium",
+                  "text": "Preserved laboratory in Karlskoga where Alfred Nobel conducted his scientific research.",
+                  "category": "museum",
+                  "coords": [
+                        14.534492,
+                        59.343
+                  ]
+            },
+            {
+                  "name": "Karlskoga Hembygdsgård",
+                  "text": "A local heritage farm in Karlskoga, preserving regional culture and history.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514115,
+                        59.309349
+                  ]
+            },
+            {
+                  "name": "Rävåskanonen",
+                  "text": "A historical cannon serving as a monument in the city of Karlskoga.",
+                  "category": "landmark",
+                  "coords": [
+                        14.52053,
+                        59.32729
+                  ]
+            },
+            {
+                  "name": "Rävåskyrkan",
+                  "text": "A local church in Karlskoga, serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        14.521121,
+                        59.329077
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Karlskoga", hu: "Karlskoga", ro: "Karlskoga", en: "Karlskoga" },
@@ -2995,7 +19546,376 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-karlskoga-cities-v2.webp",
   },
   {
-    id: "sweden-alingsas-cities-v2",
+    id: "sweden-alingsas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "S/S Herbert",
+                  "text": "Die S/S Herbert ist ein historisches Dampfschiff, das heute als Museum in Alingsås dient.",
+                  "category": "museum",
+                  "coords": [
+                        12.508122,
+                        57.929227
+                  ]
+            },
+            {
+                  "name": "Kvarnsjöns naturreservat",
+                  "text": "Das Kvarnsjöns Naturschutzgebiet bietet schöne Wanderwege rund um den See bei Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.517589,
+                        57.951089
+                  ]
+            },
+            {
+                  "name": "Alingsås Museum",
+                  "text": "Das Alingsås Museum beleuchtet die Geschichte und Entwicklung der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        12.532627,
+                        57.928547
+                  ]
+            },
+            {
+                  "name": "Nolhaga bergs naturreservat",
+                  "text": "Das Nolhaga bergs Naturschutzgebiet bietet Aussichten und Naturerlebnisse direkt in Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.517309,
+                        57.935116
+                  ]
+            },
+            {
+                  "name": "Nolhaga slott",
+                  "text": "Das Schloss Nolhaga ist ein charmantes Herrenhaus inmitten eines großen Parks in Alingsås.",
+                  "category": "castle",
+                  "coords": [
+                        12.517922,
+                        57.932999
+                  ]
+            },
+            {
+                  "name": "Christinae kyrka",
+                  "text": "Die Christinae kyrka ist eine bedeutende Kirche im Herzen von Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.53208,
+                        57.931065
+                  ]
+            },
+            {
+                  "name": "Landskyrkan",
+                  "text": "Die Landskyrkan ist eine historische Kirche in Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.539118,
+                        57.933892
+                  ]
+            },
+            {
+                  "name": "Stockslyckekyrkan",
+                  "text": "Die Stockslyckekyrkan ist ein modernes Kirchengebäude in Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.5532,
+                        57.921415
+                  ]
+            },
+            {
+                  "name": "Nolby gravkapell",
+                  "text": "Das Nolby gravkapell ist eine Friedhofskapelle in Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.559235,
+                        57.934197
+                  ]
+            },
+            {
+                  "name": "Noltorpskyrkan",
+                  "text": "Die Noltorpskyrkan ist eine evangelische Kirche im Stadtteil Noltorp in Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.5187,
+                        57.937593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "S/S Herbert",
+                  "text": "Az S/S Herbert egy történelmi gőzhajó, amely ma múzeumként működik Alingsåsban.",
+                  "category": "museum",
+                  "coords": [
+                        12.508122,
+                        57.929227
+                  ]
+            },
+            {
+                  "name": "Kvarnsjöns naturreservat",
+                  "text": "A Kvarnsjöns természetvédelmi terület szép túraútvonalakat kínál az Alingsås melletti tó körül.",
+                  "category": "natural",
+                  "coords": [
+                        12.517589,
+                        57.951089
+                  ]
+            },
+            {
+                  "name": "Alingsås Museum",
+                  "text": "Az Alingsås Museum a város történelmét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.532627,
+                        57.928547
+                  ]
+            },
+            {
+                  "name": "Nolhaga bergs naturreservat",
+                  "text": "A Nolhaga bergs természetvédelmi terület kilátást és természeti élményeket kínál Alingsåsban.",
+                  "category": "natural",
+                  "coords": [
+                        12.517309,
+                        57.935116
+                  ]
+            },
+            {
+                  "name": "Nolhaga slott",
+                  "text": "A Nolhaga kastély egy bájos kúria egy nagy park közepén Alingsåsban.",
+                  "category": "castle",
+                  "coords": [
+                        12.517922,
+                        57.932999
+                  ]
+            },
+            {
+                  "name": "Christinae kyrka",
+                  "text": "A Christinae kyrka egy jelentős templom Alingsås szívében.",
+                  "category": "religious",
+                  "coords": [
+                        12.53208,
+                        57.931065
+                  ]
+            },
+            {
+                  "name": "Landskyrkan",
+                  "text": "Az alingsåsi Landskyrkan egy jelentős evangélikus templom Svédországban.",
+                  "category": "religious",
+                  "coords": [
+                        12.539118,
+                        57.933892
+                  ]
+            },
+            {
+                  "name": "Stockslyckekyrkan",
+                  "text": "Az alingsåsi Stockslyckekyrkan egy helyi vallási központ és templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.5532,
+                        57.921415
+                  ]
+            },
+            {
+                  "name": "Nolby gravkapell",
+                  "text": "Az alingsåsi Nolby gravkapell egy csendes temetőkápolna.",
+                  "category": "religious",
+                  "coords": [
+                        12.559235,
+                        57.934197
+                  ]
+            },
+            {
+                  "name": "Noltorpskyrkan",
+                  "text": "Az alingsåsi Noltorpskyrkan egy helyi közösségi templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.5187,
+                        57.937593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "S/S Herbert",
+                  "text": "S/S Herbert este un vapor istoric care astăzi servește drept muzeu în Alingsås.",
+                  "category": "museum",
+                  "coords": [
+                        12.508122,
+                        57.929227
+                  ]
+            },
+            {
+                  "name": "Kvarnsjöns naturreservat",
+                  "text": "Rezervația naturală Kvarnsjöns oferă trasee frumoase de drumeție în jurul lacului de lângă Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.517589,
+                        57.951089
+                  ]
+            },
+            {
+                  "name": "Alingsås Museum",
+                  "text": "Muzeul Alingsås evidențiază istoria și dezvoltarea orașului.",
+                  "category": "museum",
+                  "coords": [
+                        12.532627,
+                        57.928547
+                  ]
+            },
+            {
+                  "name": "Nolhaga bergs naturreservat",
+                  "text": "Rezervația naturală Nolhaga bergs oferă priveliști și experiențe în natură direct în Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.517309,
+                        57.935116
+                  ]
+            },
+            {
+                  "name": "Nolhaga slott",
+                  "text": "Castelul Nolhaga este un conac fermecător situat în mijlocul unui parc mare din Alingsås.",
+                  "category": "castle",
+                  "coords": [
+                        12.517922,
+                        57.932999
+                  ]
+            },
+            {
+                  "name": "Christinae kyrka",
+                  "text": "Christinae kyrka este o biserică importantă situată în inima orașului Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.53208,
+                        57.931065
+                  ]
+            },
+            {
+                  "name": "Landskyrkan",
+                  "text": "Landskyrkan este o biserică istorică situată în orașul Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.539118,
+                        57.933892
+                  ]
+            },
+            {
+                  "name": "Stockslyckekyrkan",
+                  "text": "Stockslyckekyrkan este o biserică parohială situată în Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.5532,
+                        57.921415
+                  ]
+            },
+            {
+                  "name": "Nolby gravkapell",
+                  "text": "Nolby gravkapell este o capelă funerară liniștită din Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.559235,
+                        57.934197
+                  ]
+            },
+            {
+                  "name": "Noltorpskyrkan",
+                  "text": "Noltorpskyrkan este o biserică modernă situată în orașul Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.5187,
+                        57.937593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "S/S Herbert",
+                  "text": "S/S Herbert is a historic steamboat that now serves as a museum in Alingsås.",
+                  "category": "museum",
+                  "coords": [
+                        12.508122,
+                        57.929227
+                  ]
+            },
+            {
+                  "name": "Kvarnsjöns naturreservat",
+                  "text": "Kvarnsjöns nature reserve offers beautiful hiking trails around the lake near Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.517589,
+                        57.951089
+                  ]
+            },
+            {
+                  "name": "Alingsås Museum",
+                  "text": "Alingsås Museum highlights the history and development of the town.",
+                  "category": "museum",
+                  "coords": [
+                        12.532627,
+                        57.928547
+                  ]
+            },
+            {
+                  "name": "Nolhaga bergs naturreservat",
+                  "text": "Nolhaga bergs nature reserve offers views and nature experiences directly in Alingsås.",
+                  "category": "natural",
+                  "coords": [
+                        12.517309,
+                        57.935116
+                  ]
+            },
+            {
+                  "name": "Nolhaga slott",
+                  "text": "Nolhaga Castle is a charming manor house set in a large park in Alingsås.",
+                  "category": "castle",
+                  "coords": [
+                        12.517922,
+                        57.932999
+                  ]
+            },
+            {
+                  "name": "Christinae kyrka",
+                  "text": "Christinae kyrka is a significant church located in the heart of Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.53208,
+                        57.931065
+                  ]
+            },
+            {
+                  "name": "Landskyrkan",
+                  "text": "Landskyrkan is a historic church located in Alingsås, Sweden.",
+                  "category": "religious",
+                  "coords": [
+                        12.539118,
+                        57.933892
+                  ]
+            },
+            {
+                  "name": "Stockslyckekyrkan",
+                  "text": "Stockslyckekyrkan is a parish church serving the community of Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.5532,
+                        57.921415
+                  ]
+            },
+            {
+                  "name": "Nolby gravkapell",
+                  "text": "Nolby gravkapell is a cemetery chapel located in Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.559235,
+                        57.934197
+                  ]
+            },
+            {
+                  "name": "Noltorpskyrkan",
+                  "text": "Noltorpskyrkan is a local community church in Alingsås.",
+                  "category": "religious",
+                  "coords": [
+                        12.5187,
+                        57.937593
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Alingsås", hu: "Alingsås", ro: "Alingsås", en: "Alingsås" },
@@ -3040,7 +19960,268 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-alingsas-cities-v2.webp",
   },
   {
-    id: "sweden-skovde-v2-cities-v2",
+    id: "sweden-skovde-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Västergötlands museum",
+                  "text": "Ein Regionalmuseum in Skara, das die Geschichte und Kultur von Västergötland zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.440257,
+                        58.390032
+                  ]
+            },
+            {
+                  "name": "Skara järnvägsmuseum",
+                  "text": "Ein Museum in Skara, das der Eisenbahngeschichte der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.439932,
+                        58.383091
+                  ]
+            },
+            {
+                  "name": "Hospitalskyrkan",
+                  "text": "Überreste einer mittelalterlichen Hospitalkirche in Skara.",
+                  "category": "historical",
+                  "coords": [
+                        13.426398,
+                        58.379939
+                  ]
+            },
+            {
+                  "name": "Fornbyn",
+                  "text": "Ein Freilichtmuseum in Skara mit historischen Gebäuden aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        13.442402,
+                        58.389851
+                  ]
+            },
+            {
+                  "name": "Skara Domkyrka",
+                  "text": "Eine beeindruckende gotische Kathedrale und Sitz des Bischofs von Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.439272,
+                        58.386495
+                  ]
+            },
+            {
+                  "name": "Skara gravkapell",
+                  "text": "Eine historische Grabkapelle in der Stadt Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.445725,
+                        58.384776
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrkoruin",
+                  "text": "Die Überreste einer mittelalterlichen Kirche in Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.437233,
+                        58.386684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Västergötlands museum",
+                  "text": "Regionális múzeum Skarában, amely Västergötland történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.440257,
+                        58.390032
+                  ]
+            },
+            {
+                  "name": "Skara järnvägsmuseum",
+                  "text": "A régió vasúttörténetének szentelt múzeum Skarában.",
+                  "category": "museum",
+                  "coords": [
+                        13.439932,
+                        58.383091
+                  ]
+            },
+            {
+                  "name": "Hospitalskyrkan",
+                  "text": "Egy középkori ispotálytemplom maradványai Skarában.",
+                  "category": "historical",
+                  "coords": [
+                        13.426398,
+                        58.379939
+                  ]
+            },
+            {
+                  "name": "Fornbyn",
+                  "text": "Szabadtéri múzeum Skarában, a régióból származó történelmi épületekkel.",
+                  "category": "museum",
+                  "coords": [
+                        13.442402,
+                        58.389851
+                  ]
+            },
+            {
+                  "name": "Skara Domkyrka",
+                  "text": "Lenyűgöző gótikus székesegyház, a skarai püspökség székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        13.439272,
+                        58.386495
+                  ]
+            },
+            {
+                  "name": "Skara gravkapell",
+                  "text": "Történelmi temetkezési kápolna Skara városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.445725,
+                        58.384776
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrkoruin",
+                  "text": "Egy középkori templom maradványai Skarában.",
+                  "category": "religious",
+                  "coords": [
+                        13.437233,
+                        58.386684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Västergötlands museum",
+                  "text": "Un muzeu regional din Skara care prezintă istoria și cultura regiunii Västergötland.",
+                  "category": "museum",
+                  "coords": [
+                        13.440257,
+                        58.390032
+                  ]
+            },
+            {
+                  "name": "Skara järnvägsmuseum",
+                  "text": "Un muzeu din Skara dedicat istoriei feroviare a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        13.439932,
+                        58.383091
+                  ]
+            },
+            {
+                  "name": "Hospitalskyrkan",
+                  "text": "Rămășițele unei biserici de spital medievale din Skara.",
+                  "category": "historical",
+                  "coords": [
+                        13.426398,
+                        58.379939
+                  ]
+            },
+            {
+                  "name": "Fornbyn",
+                  "text": "Un muzeu în aer liber din Skara, cu clădiri istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        13.442402,
+                        58.389851
+                  ]
+            },
+            {
+                  "name": "Skara Domkyrka",
+                  "text": "O catedrală gotică impresionantă și sediul episcopului de Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.439272,
+                        58.386495
+                  ]
+            },
+            {
+                  "name": "Skara gravkapell",
+                  "text": "O chapelă funerară istorică în orașul Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.445725,
+                        58.384776
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrkoruin",
+                  "text": "Vestigiile unei biserici medievale din Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.437233,
+                        58.386684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Västergötlands museum",
+                  "text": "A regional museum in Skara showcasing the history and culture of Västergötland.",
+                  "category": "museum",
+                  "coords": [
+                        13.440257,
+                        58.390032
+                  ]
+            },
+            {
+                  "name": "Skara järnvägsmuseum",
+                  "text": "A museum in Skara dedicated to the railway history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.439932,
+                        58.383091
+                  ]
+            },
+            {
+                  "name": "Hospitalskyrkan",
+                  "text": "The remains of a medieval hospital church in Skara.",
+                  "category": "historical",
+                  "coords": [
+                        13.426398,
+                        58.379939
+                  ]
+            },
+            {
+                  "name": "Fornbyn",
+                  "text": "An open-air museum in Skara featuring historic buildings from the region.",
+                  "category": "museum",
+                  "coords": [
+                        13.442402,
+                        58.389851
+                  ]
+            },
+            {
+                  "name": "Skara Domkyrka",
+                  "text": "An impressive Gothic cathedral and seat of the Bishop of Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.439272,
+                        58.386495
+                  ]
+            },
+            {
+                  "name": "Skara gravkapell",
+                  "text": "A historic burial chapel in the city of Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.445725,
+                        58.384776
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai kyrkoruin",
+                  "text": "The remains of a medieval church in Skara.",
+                  "category": "religious",
+                  "coords": [
+                        13.437233,
+                        58.386684
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Skara", hu: "Skara", ro: "Skara", en: "Skara" },
@@ -3095,6 +20276,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.701629,
                         57.642826
                   ]
+            },
+            {
+                  "name": "Nässjö Järnvägsmuseum",
+                  "text": "Ein Eisenbahnmuseum in Nässjö, das die Geschichte des Schienenverkehrs der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.696736,
+                        57.649618
+                  ]
+            },
+            {
+                  "name": "Anneforskapellet",
+                  "text": "Eine kleine Kapelle in Nässjö, die für Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        14.703055,
+                        57.660835
+                  ]
+            },
+            {
+                  "name": "Nässjö stadskyrka",
+                  "text": "Die Stadtkirche von Nässjö ist ein zentrales religiöses Gebäude in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.695044,
+                        57.657331
+                  ]
             }
       ],
       "hu": [
@@ -3105,6 +20313,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.701629,
                         57.642826
+                  ]
+            },
+            {
+                  "name": "Nässjö Järnvägsmuseum",
+                  "text": "Vasúti múzeum Nässjö városában, amely a régió vasúttörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.696736,
+                        57.649618
+                  ]
+            },
+            {
+                  "name": "Anneforskapellet",
+                  "text": "Egy kis kápolna Nässjö városában, amelyet istentiszteletekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        14.703055,
+                        57.660835
+                  ]
+            },
+            {
+                  "name": "Nässjö stadskyrka",
+                  "text": "Nässjö városi temploma a település egyik központi vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        14.695044,
+                        57.657331
                   ]
             }
       ],
@@ -3117,6 +20352,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         14.701629,
                         57.642826
                   ]
+            },
+            {
+                  "name": "Nässjö Järnvägsmuseum",
+                  "text": "Un muzeu feroviar în Nässjö, care prezintă istoria transportului pe șine din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        14.696736,
+                        57.649618
+                  ]
+            },
+            {
+                  "name": "Anneforskapellet",
+                  "text": "O mică capelă în Nässjö, utilizată pentru servicii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        14.703055,
+                        57.660835
+                  ]
+            },
+            {
+                  "name": "Nässjö stadskyrka",
+                  "text": "Biserica orașului Nässjö este o clădire religioasă centrală din localitate.",
+                  "category": "religious",
+                  "coords": [
+                        14.695044,
+                        57.657331
+                  ]
             }
       ],
       "en": [
@@ -3127,6 +20389,33 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         14.701629,
                         57.642826
+                  ]
+            },
+            {
+                  "name": "Nässjö Järnvägsmuseum",
+                  "text": "A railway museum in Nässjö, showcasing the region's rail history.",
+                  "category": "museum",
+                  "coords": [
+                        14.696736,
+                        57.649618
+                  ]
+            },
+            {
+                  "name": "Anneforskapellet",
+                  "text": "A small chapel in Nässjö, used for religious services.",
+                  "category": "religious",
+                  "coords": [
+                        14.703055,
+                        57.660835
+                  ]
+            },
+            {
+                  "name": "Nässjö stadskyrka",
+                  "text": "Nässjö's city church is a central religious building in the town.",
+                  "category": "religious",
+                  "coords": [
+                        14.695044,
+                        57.657331
                   ]
             }
       ]
@@ -3265,7 +20554,376 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-karlshamn-v2-cities-v2.webp",
   },
   {
-    id: "sweden-motala-v2-cities-v2",
+    id: "sweden-motala-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "Ein Kunstmuseum und ehemaliges Heim des Bildhauers Gottfrid Larsson in Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "Ein Museum, das die Stadtgeschichte von Vadstena dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "Eines der ältesten erhaltenen Privattheater Schwedens in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "Ein modernes Theatergebäude für lokale Aufführungen in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "Ein Museum, das die Geschichte der medizinischen Versorgung in Vadstena beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "Ein kulturelles Zentrum für Kunstausbildung in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "Eine Kunstgalerie in Vadstena, die lokale und regionale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst in der Stadt Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "Diese bedeutende spätgotische Kirche gehört zum ehemaligen Kloster der Heiligen Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "Ein modernes christliches Gotteshaus in Vadstena.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "Gottfrid Larsson szobrászművész egykori otthona és művészeti múzeuma Vadstenában.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "Vadstena várostörténetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "Svédország egyik legrégebbi fennmaradt magánszínháza Vadstenában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "Modern színházépület helyi előadások számára Vadstenában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "Vadstena orvosi ellátásának történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "Művészeti oktatásnak helyet adó kulturális központ Vadstenában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "Helyi és regionális műveket bemutató művészeti galéria Vadstenában.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "Kortárs művészeti kiállítótér Vadstena városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "Ez a jelentős késő gótikus templom a Szent Birgitta-kolostorhoz tartozott.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "Modern keresztény templom Vadstenában.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "Un muzeu de artă și fosta casă a sculptorului Gottfrid Larsson din Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "Un muzeu care documentează istoria orașului Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "Unul dintre cele mai vechi teatre private conservate din Suedia, situat în Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "O clădire modernă de teatru pentru spectacole locale în Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "Un muzeu care prezintă istoria îngrijirii medicale din Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "Un centru cultural pentru educație artistică în Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "O galerie de artă din Vadstena care expune lucrări locale și regionale.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "Un spațiu de expoziție pentru artă contemporană în orașul Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "Această biserică gotică târzie importantă a aparținut fostei mănăstiri a Sfintei Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "Un lăcaș de cult creștin modern în Vadstena.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gottfrid Larsson Gården",
+                  "text": "An art museum and former home of sculptor Gottfrid Larsson in Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.896605,
+                        58.447899
+                  ]
+            },
+            {
+                  "name": "Vadstena Stadsmuseum",
+                  "text": "A museum documenting the city history of Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.887964,
+                        58.44764
+                  ]
+            },
+            {
+                  "name": "Gamla Teatern",
+                  "text": "One of Sweden's oldest preserved private theatres, located in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.893124,
+                        58.449767
+                  ]
+            },
+            {
+                  "name": "Vadstena Nya Teater",
+                  "text": "A modern theatre building for local performances in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.891331,
+                        58.448442
+                  ]
+            },
+            {
+                  "name": "Hospitalmuseet",
+                  "text": "A museum outlining the history of medical care in Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.894097,
+                        58.451576
+                  ]
+            },
+            {
+                  "name": "Kulturskolan i Vadstena",
+                  "text": "A cultural center for arts education in Vadstena.",
+                  "category": "cultural",
+                  "coords": [
+                        14.897307,
+                        58.452383
+                  ]
+            },
+            {
+                  "name": "Vadstena Konstgalleri",
+                  "text": "An art gallery in Vadstena showcasing local and regional works.",
+                  "category": "museum",
+                  "coords": [
+                        14.89036,
+                        58.447981
+                  ]
+            },
+            {
+                  "name": "Galleri Vita rum",
+                  "text": "An exhibition space for contemporary art in the town of Vadstena.",
+                  "category": "museum",
+                  "coords": [
+                        14.889259,
+                        58.448608
+                  ]
+            },
+            {
+                  "name": "Vadstena Klosterkyrka",
+                  "text": "This significant late Gothic church belonged to the former Saint Bridget's Abbey.",
+                  "category": "religious",
+                  "coords": [
+                        14.891543,
+                        58.450789
+                  ]
+            },
+            {
+                  "name": "Vätternkyrkan",
+                  "text": "A modern Christian place of worship in Vadstena.",
+                  "category": "religious",
+                  "coords": [
+                        14.892355,
+                        58.447656
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Vadstena", hu: "Vadstena", ro: "Vadstena", en: "Vadstena" },
@@ -3310,7 +20968,196 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-motala-v2-cities-v2.webp",
   },
   {
-    id: "sweden-askersund-cities-v2",
+    id: "sweden-askersund-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stadsparken",
+                  "text": "Ein Stadtpark und Naturschutzgebiet in Askersund für Spaziergänge im Grünen.",
+                  "category": "natural",
+                  "coords": [
+                        14.919098,
+                        58.883419
+                  ]
+            },
+            {
+                  "name": "Väderkvarnsbacken",
+                  "text": "Ein Naturschutzgebiet in Askersund, das für seine malerische Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.900463,
+                        58.891703
+                  ]
+            },
+            {
+                  "name": "Passagerarbåten Wettervik",
+                  "text": "Ein Passagierschiff in Askersund, das Touren auf dem See Vättern anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.9016,
+                        58.877774
+                  ]
+            },
+            {
+                  "name": "Askersunds landskyrka",
+                  "text": "Eine historische Landkirche am Rande von Askersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.898059,
+                        58.878031
+                  ]
+            },
+            {
+                  "name": "Sofia Magdalena kyrka",
+                  "text": "Eine markante Kirche in Askersund, benannt nach der schwedischen Königin Sofia Magdalena.",
+                  "category": "religious",
+                  "coords": [
+                        14.902479,
+                        58.881376
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stadsparken",
+                  "text": "Városi park és természetvédelmi terület Askersundban, ideális sétákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        14.919098,
+                        58.883419
+                  ]
+            },
+            {
+                  "name": "Väderkvarnsbacken",
+                  "text": "Természetvédelmi terület Askersundban, amely festői tájairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.900463,
+                        58.891703
+                  ]
+            },
+            {
+                  "name": "Passagerarbåten Wettervik",
+                  "text": "Sétahajó Askersundban, amely túrákat kínál a Vättern-tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        14.9016,
+                        58.877774
+                  ]
+            },
+            {
+                  "name": "Askersunds landskyrka",
+                  "text": "Történelmi vidéki templom Askersund szélén.",
+                  "category": "religious",
+                  "coords": [
+                        14.898059,
+                        58.878031
+                  ]
+            },
+            {
+                  "name": "Sofia Magdalena kyrka",
+                  "text": "Askersund jellegzetes temploma, amely Sofia Magdalena svéd királynőről kapta nevét.",
+                  "category": "religious",
+                  "coords": [
+                        14.902479,
+                        58.881376
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stadsparken",
+                  "text": "Un parc orășenesc și rezervație naturală în Askersund, pentru plimbări în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        14.919098,
+                        58.883419
+                  ]
+            },
+            {
+                  "name": "Väderkvarnsbacken",
+                  "text": "O rezervație naturală în Askersund, cunoscută pentru peisajele sale pitorești.",
+                  "category": "natural",
+                  "coords": [
+                        14.900463,
+                        58.891703
+                  ]
+            },
+            {
+                  "name": "Passagerarbåten Wettervik",
+                  "text": "O navă de pasageri în Askersund, care oferă tururi pe lacul Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.9016,
+                        58.877774
+                  ]
+            },
+            {
+                  "name": "Askersunds landskyrka",
+                  "text": "O biserică istorică de țară situată la marginea orașului Askersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.898059,
+                        58.878031
+                  ]
+            },
+            {
+                  "name": "Sofia Magdalena kyrka",
+                  "text": "O biserică distinctivă în Askersund, numită după regina suedeză Sofia Magdalena.",
+                  "category": "religious",
+                  "coords": [
+                        14.902479,
+                        58.881376
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stadsparken",
+                  "text": "A city park and nature reserve in Askersund for greenery and walks.",
+                  "category": "natural",
+                  "coords": [
+                        14.919098,
+                        58.883419
+                  ]
+            },
+            {
+                  "name": "Väderkvarnsbacken",
+                  "text": "A nature reserve in Askersund, known for its scenic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        14.900463,
+                        58.891703
+                  ]
+            },
+            {
+                  "name": "Passengerboat Wettervik",
+                  "text": "A passenger boat in Askersund, offering tours on Lake Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.9016,
+                        58.877774
+                  ]
+            },
+            {
+                  "name": "Askersunds landskyrka",
+                  "text": "A historical country church located on the outskirts of Askersund.",
+                  "category": "religious",
+                  "coords": [
+                        14.898059,
+                        58.878031
+                  ]
+            },
+            {
+                  "name": "Sofia Magdalena kyrka",
+                  "text": "A prominent church in Askersund, named after the Swedish Queen Sofia Magdalena.",
+                  "category": "religious",
+                  "coords": [
+                        14.902479,
+                        58.881376
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Askersund", hu: "Askersund", ro: "Askersund", en: "Askersund" },
@@ -3355,7 +21202,304 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-askersund-cities-v2.webp",
   },
   {
-    id: "sweden-soderkoping-cities-v2",
+    id: "sweden-soderkoping-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ramundersborgs naturreservat",
+                  "text": "Das Naturreservat Ramundersborg bietet Wanderwege und Aussichten bei Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.350171,
+                        58.491954
+                  ]
+            },
+            {
+                  "name": "S:t Ragnhilds Gilles Stadshistoriska museum",
+                  "text": "Dieses Museum zeigt die Stadtgeschichte von Söderköping.",
+                  "category": "museum",
+                  "coords": [
+                        16.320719,
+                        58.480414
+                  ]
+            },
+            {
+                  "name": "Biotopskydd 2008:467",
+                  "text": "Ein geschütztes Biotop zur Erhaltung der lokalen Artenvielfalt in Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.282319,
+                        58.477442
+                  ]
+            },
+            {
+                  "name": "Sankt Ragnhilds källa",
+                  "text": "Die historische Sankt-Ragnhild-Quelle ist ein sagenumwobener Ort in Söderköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.324689,
+                        58.482866
+                  ]
+            },
+            {
+                  "name": "Skvallertorget",
+                  "text": "Der Skvallertorget ist ein zentraler und belebter Platz in der Altstadt von Söderköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.316786,
+                        58.480644
+                  ]
+            },
+            {
+                  "name": "Drothems kyrka",
+                  "text": "Die Drothems kyrka ist eine mittelalterliche Steinkirche in Söderköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.315883,
+                        58.480851
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "Die Sankt-Laurentii-Kirche ist ein markantes Bauwerk im Herzen von Söderköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.319767,
+                        58.480281
+                  ]
+            },
+            {
+                  "name": "Skönberga kyrka",
+                  "text": "Die Kirche von Skönberga ist für ihren gut erhaltenen mittelalterlichen Charakter bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        16.358492,
+                        58.465435
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ramundersborgs naturreservat",
+                  "text": "A Ramundersborg természetvédelmi terület kirándulóhelyekkel várja a látogatókat Söderköping mellett.",
+                  "category": "natural",
+                  "coords": [
+                        16.350171,
+                        58.491954
+                  ]
+            },
+            {
+                  "name": "S:t Ragnhilds Gilles Stadshistoriska museum",
+                  "text": "Söderköping várostörténeti múzeuma a helyi múlt emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.320719,
+                        58.480414
+                  ]
+            },
+            {
+                  "name": "Biotopskydd 2008:467",
+                  "text": "Söderköping környéki védett biotóp a helyi élővilág megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        16.282319,
+                        58.477442
+                  ]
+            },
+            {
+                  "name": "Sankt Ragnhilds källa",
+                  "text": "A történelmi Szent Ragnhild-forrás egy legendás helyszín Söderköpingben.",
+                  "category": "historical",
+                  "coords": [
+                        16.324689,
+                        58.482866
+                  ]
+            },
+            {
+                  "name": "Skvallertorget",
+                  "text": "A Skvallertorget Söderköping óvárosának egyik központi, hangulatos tere.",
+                  "category": "landmark",
+                  "coords": [
+                        16.316786,
+                        58.480644
+                  ]
+            },
+            {
+                  "name": "Drothems kyrka",
+                  "text": "A Drothems kyrka Söderköping egyik középkori kőtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        16.315883,
+                        58.480851
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "A Szent Lőrinc-templom Söderköping egyik jelentős vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        16.319767,
+                        58.480281
+                  ]
+            },
+            {
+                  "name": "Skönberga kyrka",
+                  "text": "A skönberga-i templom középkori jellegéről és történelmi hangulatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        16.358492,
+                        58.465435
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ramundersborgs naturreservat",
+                  "text": "Rezervația naturală Ramundersborg oferă trasee de drumeție și peisaje pitorești lângă Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.350171,
+                        58.491954
+                  ]
+            },
+            {
+                  "name": "S:t Ragnhilds Gilles Stadshistoriska museum",
+                  "text": "Acest muzeu prezintă istoria locală a orașului Söderköping.",
+                  "category": "museum",
+                  "coords": [
+                        16.320719,
+                        58.480414
+                  ]
+            },
+            {
+                  "name": "Biotopskydd 2008:467",
+                  "text": "O zonă de biotop protejată pentru conservarea biodiversității locale în Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.282319,
+                        58.477442
+                  ]
+            },
+            {
+                  "name": "Sankt Ragnhilds källa",
+                  "text": "Izvorul istoric Sfânta Ragnhild este un loc legendar din Söderköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.324689,
+                        58.482866
+                  ]
+            },
+            {
+                  "name": "Skvallertorget",
+                  "text": "Skvallertorget este o piață centrală animată în orașul vechi Söderköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.316786,
+                        58.480644
+                  ]
+            },
+            {
+                  "name": "Drothems kyrka",
+                  "text": "Drothems kyrka este o biserică medievală de piatră din Söderköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.315883,
+                        58.480851
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "Biserica Sfântul Laurențiu este un edificiu religios important din Söderköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.319767,
+                        58.480281
+                  ]
+            },
+            {
+                  "name": "Skönberga kyrka",
+                  "text": "Biserica din Skönberga este cunoscută pentru caracterul său medieval bine conservat.",
+                  "category": "religious",
+                  "coords": [
+                        16.358492,
+                        58.465435
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ramundersborgs naturreservat",
+                  "text": "Ramundersborg nature reserve offers hiking trails and scenic views near Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.350171,
+                        58.491954
+                  ]
+            },
+            {
+                  "name": "S:t Ragnhilds Gilles Stadshistoriska museum",
+                  "text": "This museum presents the local history of the city of Söderköping.",
+                  "category": "museum",
+                  "coords": [
+                        16.320719,
+                        58.480414
+                  ]
+            },
+            {
+                  "name": "Biotopskydd 2008:467",
+                  "text": "A protected biotope area for preserving local biodiversity in Söderköping.",
+                  "category": "natural",
+                  "coords": [
+                        16.282319,
+                        58.477442
+                  ]
+            },
+            {
+                  "name": "Sankt Ragnhilds källa",
+                  "text": "The historic Saint Ragnhild's spring is a legendary site in Söderköping.",
+                  "category": "historical",
+                  "coords": [
+                        16.324689,
+                        58.482866
+                  ]
+            },
+            {
+                  "name": "Skvallertorget",
+                  "text": "Skvallertorget is a central and lively square in the old town of Söderköping.",
+                  "category": "landmark",
+                  "coords": [
+                        16.316786,
+                        58.480644
+                  ]
+            },
+            {
+                  "name": "Drothems kyrka",
+                  "text": "Drothems kyrka is a medieval stone church located in Söderköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.315883,
+                        58.480851
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii kyrka",
+                  "text": "Saint Laurentii Church is a prominent religious building in the heart of Söderköping.",
+                  "category": "religious",
+                  "coords": [
+                        16.319767,
+                        58.480281
+                  ]
+            },
+            {
+                  "name": "Skönberga kyrka",
+                  "text": "Skönberga Church is known for its well-preserved medieval character.",
+                  "category": "religious",
+                  "coords": [
+                        16.358492,
+                        58.465435
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Söderköping", hu: "Söderköping", ro: "Söderköping", en: "Söderköping" },
@@ -3400,7 +21544,376 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-soderkoping-cities-v2.webp",
   },
   {
-    id: "sweden-granna-cities-v2",
+    id: "sweden-granna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Västanå",
+                  "text": "Ein Naturschutzgebiet bei Gränna mit Wanderwegen und schöner Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        14.405666,
+                        57.985537
+                  ]
+            },
+            {
+                  "name": "Vretaholms eklandskap",
+                  "text": "Ein geschütztes Gebiet mit alter Eichenlandschaft in der Nähe von Gränna.",
+                  "category": "natural",
+                  "coords": [
+                        14.495943,
+                        58.045528
+                  ]
+            },
+            {
+                  "name": "Grenna Museum",
+                  "text": "Ein Museum in Gränna, das die lokale Geschichte und Polarforschung beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        14.467527,
+                        58.021898
+                  ]
+            },
+            {
+                  "name": "Grännabergets friluftsmuseum",
+                  "text": "Ein Freilichtmuseum auf dem Grännaberget, das historische Gebäude der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.465117,
+                        58.017818
+                  ]
+            },
+            {
+                  "name": "Grännaberget",
+                  "text": "Ein markanter Berg über Gränna, der eine weite Aussicht auf den Vättern bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.473793,
+                        58.018036
+                  ]
+            },
+            {
+                  "name": "Kramboberget",
+                  "text": "Ein Gipfel in der Umgebung von Gränna mit Blick auf die umliegende Natur.",
+                  "category": "natural",
+                  "coords": [
+                        14.492995,
+                        58.012895
+                  ]
+            },
+            {
+                  "name": "Oscarshöjd",
+                  "text": "Ein Aussichtspunkt in Gränna, benannt nach König Oscar II.",
+                  "category": "natural",
+                  "coords": [
+                        14.467096,
+                        58.019554
+                  ]
+            },
+            {
+                  "name": "Björkmans kulle",
+                  "text": "Ein lokaler Aussichtspunkt, der einen weiten Blick über Gränna bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.46373,
+                        58.017383
+                  ]
+            },
+            {
+                  "name": "Gränna kyrka",
+                  "text": "Diese im 12. Jahrhundert gegründete Kirche wurde nach einem Brand im 19. Jahrhundert wieder aufgebaut.",
+                  "category": "religious",
+                  "coords": [
+                        14.465413,
+                        58.020238
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan",
+                  "text": "Eine christliche Freikirche im Zentrum von Gränna.",
+                  "category": "religious",
+                  "coords": [
+                        14.469214,
+                        58.023896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Västanå",
+                  "text": "Természetvédelmi terület Gränna közelében, túraútvonalakkal és szép tájjal.",
+                  "category": "natural",
+                  "coords": [
+                        14.405666,
+                        57.985537
+                  ]
+            },
+            {
+                  "name": "Vretaholms eklandskap",
+                  "text": "Védett terület öreg tölgyesekkel Gränna közelében.",
+                  "category": "natural",
+                  "coords": [
+                        14.495943,
+                        58.045528
+                  ]
+            },
+            {
+                  "name": "Grenna Museum",
+                  "text": "Gränna múzeuma, amely a helyi történelmet és a sarkkutatást mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.467527,
+                        58.021898
+                  ]
+            },
+            {
+                  "name": "Grännabergets friluftsmuseum",
+                  "text": "Szabadtéri múzeum a Grännabergeten, amely a régió történelmi épületeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.465117,
+                        58.017818
+                  ]
+            },
+            {
+                  "name": "Grännaberget",
+                  "text": "Jellegzetes hegy Gränna felett, ahonnan pazar kilátás nyílik a Vättern-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        14.473793,
+                        58.018036
+                  ]
+            },
+            {
+                  "name": "Kramboberget",
+                  "text": "Egy hegycsúcs Gränna környékén, kilátással a környező természetre.",
+                  "category": "natural",
+                  "coords": [
+                        14.492995,
+                        58.012895
+                  ]
+            },
+            {
+                  "name": "Oscarshöjd",
+                  "text": "II. Oszkár királyról elnevezett kilátóhely Grännában.",
+                  "category": "natural",
+                  "coords": [
+                        14.467096,
+                        58.019554
+                  ]
+            },
+            {
+                  "name": "Björkmans kulle",
+                  "text": "Helyi kilátópont, amely széles rálátást biztosít Grännára.",
+                  "category": "natural",
+                  "coords": [
+                        14.46373,
+                        58.017383
+                  ]
+            },
+            {
+                  "name": "Gränna kyrka",
+                  "text": "Ezt a 12. században alapított templomot egy 19. századi tűzvész után újjáépítették.",
+                  "category": "religious",
+                  "coords": [
+                        14.465413,
+                        58.020238
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan",
+                  "text": "Keresztény szabadegyházi templom Gränna központjában.",
+                  "category": "religious",
+                  "coords": [
+                        14.469214,
+                        58.023896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Västanå",
+                  "text": "O rezervație naturală lângă Gränna, cu trasee de drumeție și peisaje frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        14.405666,
+                        57.985537
+                  ]
+            },
+            {
+                  "name": "Vretaholms eklandskap",
+                  "text": "O zonă protejată cu peisaj de stejari bătrâni în apropiere de Gränna.",
+                  "category": "natural",
+                  "coords": [
+                        14.495943,
+                        58.045528
+                  ]
+            },
+            {
+                  "name": "Grenna Museum",
+                  "text": "Un muzeu în Gränna care prezintă istoria locală și explorările polare.",
+                  "category": "museum",
+                  "coords": [
+                        14.467527,
+                        58.021898
+                  ]
+            },
+            {
+                  "name": "Grännabergets friluftsmuseum",
+                  "text": "Un muzeu în aer liber pe Grännaberget, care prezintă clădiri istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        14.465117,
+                        58.017818
+                  ]
+            },
+            {
+                  "name": "Grännaberget",
+                  "text": "Un deal proeminent deasupra orașului Gränna, oferind o vedere panoramică asupra lacului Vättern.",
+                  "category": "natural",
+                  "coords": [
+                        14.473793,
+                        58.018036
+                  ]
+            },
+            {
+                  "name": "Kramboberget",
+                  "text": "Un vârf în zona Gränna, cu vedere spre natura înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        14.492995,
+                        58.012895
+                  ]
+            },
+            {
+                  "name": "Oscarshöjd",
+                  "text": "Un punct de belvedere în Gränna, numit după regele Oscar al II-lea.",
+                  "category": "natural",
+                  "coords": [
+                        14.467096,
+                        58.019554
+                  ]
+            },
+            {
+                  "name": "Björkmans kulle",
+                  "text": "Un punct de belvedere local care oferă o vedere largă asupra orașului Gränna.",
+                  "category": "natural",
+                  "coords": [
+                        14.46373,
+                        58.017383
+                  ]
+            },
+            {
+                  "name": "Gränna kyrka",
+                  "text": "Această biserică fondată în secolul al XII-lea a fost reconstruită după un incendiu în secolul al XIX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        14.465413,
+                        58.020238
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan",
+                  "text": "O biserică creștină liberă în centrul orașului Gränna.",
+                  "category": "religious",
+                  "coords": [
+                        14.469214,
+                        58.023896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Västanå",
+                  "text": "A nature reserve near Gränna featuring hiking trails and scenic landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        14.405666,
+                        57.985537
+                  ]
+            },
+            {
+                  "name": "Vretaholms eklandskap",
+                  "text": "A protected area featuring an ancient oak landscape near Gränna.",
+                  "category": "natural",
+                  "coords": [
+                        14.495943,
+                        58.045528
+                  ]
+            },
+            {
+                  "name": "Grenna Museum",
+                  "text": "A museum in Gränna highlighting local history and polar exploration.",
+                  "category": "museum",
+                  "coords": [
+                        14.467527,
+                        58.021898
+                  ]
+            },
+            {
+                  "name": "Grännabergets friluftsmuseum",
+                  "text": "An open-air museum on Grännaberget showcasing historical buildings from the region.",
+                  "category": "museum",
+                  "coords": [
+                        14.465117,
+                        58.017818
+                  ]
+            },
+            {
+                  "name": "Grännaberget",
+                  "text": "A prominent hill above Gränna offering wide views of Lake Vättern.",
+                  "category": "natural",
+                  "coords": [
+                        14.473793,
+                        58.018036
+                  ]
+            },
+            {
+                  "name": "Kramboberget",
+                  "text": "A peak in the Gränna area with views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        14.492995,
+                        58.012895
+                  ]
+            },
+            {
+                  "name": "Oscarshöjd",
+                  "text": "A viewpoint in Gränna named after King Oscar II.",
+                  "category": "natural",
+                  "coords": [
+                        14.467096,
+                        58.019554
+                  ]
+            },
+            {
+                  "name": "Björkmans kulle",
+                  "text": "A local viewpoint offering a broad view over Gränna.",
+                  "category": "natural",
+                  "coords": [
+                        14.46373,
+                        58.017383
+                  ]
+            },
+            {
+                  "name": "Gränna kyrka",
+                  "text": "Founded in the 12th century, this church was rebuilt after a fire in the 19th century.",
+                  "category": "religious",
+                  "coords": [
+                        14.465413,
+                        58.020238
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan",
+                  "text": "A Christian free church located in central Gränna.",
+                  "category": "religious",
+                  "coords": [
+                        14.469214,
+                        58.023896
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Gränna", hu: "Gränna", ro: "Gränna", en: "Gränna" },
@@ -3455,6 +21968,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.575854,
                         58.871471
                   ]
+            },
+            {
+                  "name": "Garvaregården",
+                  "text": "Ein Museum in Trosa, das in einer ehemaligen Gerberei untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.545855,
+                        58.897925
+                  ]
+            },
+            {
+                  "name": "Tomtaklintskogen",
+                  "text": "Ein geschütztes Waldgebiet bei Trosa, ideal für Wanderungen in der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        17.560774,
+                        58.91085
+                  ]
+            },
+            {
+                  "name": "Tureholm",
+                  "text": "Ein prächtiges Schloss aus dem 18. Jahrhundert in der Nähe von Trosa.",
+                  "category": "castle",
+                  "coords": [
+                        17.516173,
+                        58.895918
+                  ]
+            },
+            {
+                  "name": "Trosa stads kyrka",
+                  "text": "Die Stadtkirche von Trosa ist ein historisches Wahrzeichen im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        17.544087,
+                        58.898026
+                  ]
+            },
+            {
+                  "name": "Trosa kvarn",
+                  "text": "Eine historische Wassermühle in Trosa, die an die industrielle Vergangenheit erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.547832,
+                        58.902329
+                  ]
             }
       ],
       "hu": [
@@ -3465,6 +22023,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.575854,
                         58.871471
+                  ]
+            },
+            {
+                  "name": "Garvaregården",
+                  "text": "Múzeum Trosa városában, amely egy egykori tímárműhelyben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        17.545855,
+                        58.897925
+                  ]
+            },
+            {
+                  "name": "Tomtaklintskogen",
+                  "text": "Védett erdős terület Trosa mellett, amely ideális természeti túrákhoz.",
+                  "category": "natural",
+                  "coords": [
+                        17.560774,
+                        58.91085
+                  ]
+            },
+            {
+                  "name": "Tureholm",
+                  "text": "Pompás 18. századi kastély Trosa közelében.",
+                  "category": "castle",
+                  "coords": [
+                        17.516173,
+                        58.895918
+                  ]
+            },
+            {
+                  "name": "Trosa stads kyrka",
+                  "text": "Trosa városi temploma a városközpont egyik történelmi jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        17.544087,
+                        58.898026
+                  ]
+            },
+            {
+                  "name": "Trosa kvarn",
+                  "text": "Történelmi vízimalom Trosában, amely a város ipari múltjára emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.547832,
+                        58.902329
                   ]
             }
       ],
@@ -3477,6 +22080,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.575854,
                         58.871471
                   ]
+            },
+            {
+                  "name": "Garvaregården",
+                  "text": "Un muzeu în Trosa, situat într-o fostă tăpărie istorică.",
+                  "category": "museum",
+                  "coords": [
+                        17.545855,
+                        58.897925
+                  ]
+            },
+            {
+                  "name": "Tomtaklintskogen",
+                  "text": "O zonă forestieră protejată lângă Trosa, ideală pentru drumeții în natură.",
+                  "category": "natural",
+                  "coords": [
+                        17.560774,
+                        58.91085
+                  ]
+            },
+            {
+                  "name": "Tureholm",
+                  "text": "Un castel magnific din secolul al XVIII-lea situat lângă Trosa.",
+                  "category": "castle",
+                  "coords": [
+                        17.516173,
+                        58.895918
+                  ]
+            },
+            {
+                  "name": "Trosa stads kyrka",
+                  "text": "Biserica orașului Trosa este un reper istoric din centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        17.544087,
+                        58.898026
+                  ]
+            },
+            {
+                  "name": "Trosa kvarn",
+                  "text": "O moară de apă istorică în Trosa, care amintește de trecutul industrial.",
+                  "category": "landmark",
+                  "coords": [
+                        17.547832,
+                        58.902329
+                  ]
             }
       ],
       "en": [
@@ -3487,6 +22135,51 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.575854,
                         58.871471
+                  ]
+            },
+            {
+                  "name": "Garvaregården",
+                  "text": "A museum in Trosa, housed in a former historical tannery.",
+                  "category": "museum",
+                  "coords": [
+                        17.545855,
+                        58.897925
+                  ]
+            },
+            {
+                  "name": "Tomtaklintskogen",
+                  "text": "A protected forest area near Trosa, ideal for nature hikes.",
+                  "category": "natural",
+                  "coords": [
+                        17.560774,
+                        58.91085
+                  ]
+            },
+            {
+                  "name": "Tureholm",
+                  "text": "A magnificent 18th-century castle located near Trosa.",
+                  "category": "castle",
+                  "coords": [
+                        17.516173,
+                        58.895918
+                  ]
+            },
+            {
+                  "name": "Trosa stads kyrka",
+                  "text": "Trosa's city church is a historical landmark in the town center.",
+                  "category": "religious",
+                  "coords": [
+                        17.544087,
+                        58.898026
+                  ]
+            },
+            {
+                  "name": "Trosa kvarn",
+                  "text": "A historical watermill in Trosa, reminding of the town's industrial past.",
+                  "category": "landmark",
+                  "coords": [
+                        17.547832,
+                        58.902329
                   ]
             }
       ]
@@ -3535,7 +22228,268 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-trosa-cities-v2.webp",
   },
   {
-    id: "sweden-mariestad-v2-cities-v2",
+    id: "sweden-mariestad-v2-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hjo Södra fyr",
+                  "text": "Der südliche Leuchtturm von Hjo ist ein Wahrzeichen am Hafen des Vätternsees.",
+                  "category": "landmark",
+                  "coords": [
+                        14.294958,
+                        58.301237
+                  ]
+            },
+            {
+                  "name": "Hjo Norra fyr",
+                  "text": "Der nördliche Leuchtturm markiert die Hafeneinfahrt von Hjo am Vätternsee.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297021,
+                        58.302853
+                  ]
+            },
+            {
+                  "name": "Hjo Folkhögskolas kapell",
+                  "text": "Diese Kapelle gehört zur Volkshochschule in Hjo und dient der Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        14.265826,
+                        58.305701
+                  ]
+            },
+            {
+                  "name": "Hjo kyrka",
+                  "text": "Die Hjo kyrka ist die Hauptkirche der Stadt und besticht durch ihre Lage.",
+                  "category": "religious",
+                  "coords": [
+                        14.287877,
+                        58.301902
+                  ]
+            },
+            {
+                  "name": "Hjo begravningskapell",
+                  "text": "Das Friedhofskapelle von Hjo ist ein Ort der Ruhe und des Abschieds.",
+                  "category": "religious",
+                  "coords": [
+                        14.282136,
+                        58.300466
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Hjo",
+                  "text": "Die Equmeniakyrkan in Hjo ist eine aktive Freikirche in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        14.286676,
+                        58.300903
+                  ]
+            },
+            {
+                  "name": "Svärtans kapell",
+                  "text": "Eine kleine, ruhige Kapelle in der Nähe von Hjo.",
+                  "category": "religious",
+                  "coords": [
+                        14.252804,
+                        58.31123
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hjo Södra fyr",
+                  "text": "Hjo déli világítótornya a Vättern-tó partján álló ikonikus építmény.",
+                  "category": "landmark",
+                  "coords": [
+                        14.294958,
+                        58.301237
+                  ]
+            },
+            {
+                  "name": "Hjo Norra fyr",
+                  "text": "Az északi világítótorony jelzi Hjo kikötőjének bejáratát a Vättern-tónál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297021,
+                        58.302853
+                  ]
+            },
+            {
+                  "name": "Hjo Folkhögskolas kapell",
+                  "text": "A Hjo népfőiskolájához tartozó kápolna az elcsendesedés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        14.265826,
+                        58.305701
+                  ]
+            },
+            {
+                  "name": "Hjo kyrka",
+                  "text": "A Hjo kyrka a város főtemploma, amely festői környezetben fekszik.",
+                  "category": "religious",
+                  "coords": [
+                        14.287877,
+                        58.301902
+                  ]
+            },
+            {
+                  "name": "Hjo begravningskapell",
+                  "text": "Hjo temetőkápolnája a nyugalom és a búcsúzás helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        14.282136,
+                        58.300466
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Hjo",
+                  "text": "A hjo-i Equmeniakyrkan egy aktív szabadegyházi közösség temploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.286676,
+                        58.300903
+                  ]
+            },
+            {
+                  "name": "Svärtans kapell",
+                  "text": "Egy kicsi, csendes kápolna Hjo közelében.",
+                  "category": "religious",
+                  "coords": [
+                        14.252804,
+                        58.31123
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hjo Södra fyr",
+                  "text": "Farul de sud din Hjo este un punct de reper simbolic pe malul lacului Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.294958,
+                        58.301237
+                  ]
+            },
+            {
+                  "name": "Hjo Norra fyr",
+                  "text": "Farul de nord marchează intrarea în portul Hjo de pe lacul Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297021,
+                        58.302853
+                  ]
+            },
+            {
+                  "name": "Hjo Folkhögskolas kapell",
+                  "text": "Această capelă aparține universității populare din Hjo și servește pentru meditație.",
+                  "category": "religious",
+                  "coords": [
+                        14.265826,
+                        58.305701
+                  ]
+            },
+            {
+                  "name": "Hjo kyrka",
+                  "text": "Hjo kyrka este biserica principală a orașului, remarcându-se prin amplasarea sa.",
+                  "category": "religious",
+                  "coords": [
+                        14.287877,
+                        58.301902
+                  ]
+            },
+            {
+                  "name": "Hjo begravningskapell",
+                  "text": "Capela funerară din Hjo este un loc de liniște și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        14.282136,
+                        58.300466
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Hjo",
+                  "text": "Equmeniakyrkan din Hjo este o biserică liberă activă în cadrul comunității.",
+                  "category": "religious",
+                  "coords": [
+                        14.286676,
+                        58.300903
+                  ]
+            },
+            {
+                  "name": "Svärtans kapell",
+                  "text": "O mică capelă liniștită situată în apropiere de Hjo.",
+                  "category": "religious",
+                  "coords": [
+                        14.252804,
+                        58.31123
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hjo Södra fyr",
+                  "text": "The Hjo Southern lighthouse is an iconic landmark on the shores of Lake Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.294958,
+                        58.301237
+                  ]
+            },
+            {
+                  "name": "Hjo Norra fyr",
+                  "text": "The northern lighthouse marks the harbor entrance of Hjo on Lake Vättern.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297021,
+                        58.302853
+                  ]
+            },
+            {
+                  "name": "Hjo Folkhögskolas kapell",
+                  "text": "This chapel belongs to the folk high school in Hjo and serves as a place for reflection.",
+                  "category": "religious",
+                  "coords": [
+                        14.265826,
+                        58.305701
+                  ]
+            },
+            {
+                  "name": "Hjo kyrka",
+                  "text": "Hjo Church is the main church of the city, notable for its central location.",
+                  "category": "religious",
+                  "coords": [
+                        14.287877,
+                        58.301902
+                  ]
+            },
+            {
+                  "name": "Hjo begravningskapell",
+                  "text": "The Hjo burial chapel is a place of peace and remembrance.",
+                  "category": "religious",
+                  "coords": [
+                        14.282136,
+                        58.300466
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Hjo",
+                  "text": "Equmeniakyrkan in Hjo is an active free church within the community.",
+                  "category": "religious",
+                  "coords": [
+                        14.286676,
+                        58.300903
+                  ]
+            },
+            {
+                  "name": "Svärtans kapell",
+                  "text": "A small, peaceful chapel located near Hjo.",
+                  "category": "religious",
+                  "coords": [
+                        14.252804,
+                        58.31123
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Hjo", hu: "Hjo", ro: "Hjo", en: "Hjo" },
@@ -3850,7 +22804,1168 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-vaxholm-cities-v2.webp",
   },
   {
-    id: "sweden-sundbyberg-cities-v2",
+    id: "sweden-sundbyberg-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "Ein herrschaftliches Schloss in Bromma bei Sundbyberg, das heute als Hotel genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "Ein Museum, das die lokale Geschichte und Entwicklung von Sundbyberg zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "Ein Fachmuseum in Sundbyberg, das der Geschichte der Sanitär- und Heizungstechnik gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "Ein lokales Heimatmuseum in Sundbyberg mit Ausstellungen zur Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "Ein beliebter Badeplatz am Wasser in der Region Sundbyberg.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "Ein markanter Park in Sundbyberg, bekannt für seinen historischen Wasserturm.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "Ein kleiner Stadtpark in Sundbyberg, benannt nach der Dichterin Maria Wine.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "Eine Parkanlage in Sundbyberg, gewidmet dem Schriftsteller Artur Lundkvist.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "Ein grüner Stadtpark in Sundbyberg, der Raum für Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Lillsjöparken",
+                  "text": "Ein Park in Sundbyberg, der als lokaler Treffpunkt im Grünen dient.",
+                  "category": "park",
+                  "coords": [
+                        17.955398,
+                        59.339098
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "Eine Kunsthalle in Sundbyberg, die zeitgenössische Kunst in einer Parkanlage präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "Ein sonniger Stadtpark in Sundbyberg für Freizeitaktivitäten.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Åkeshovs arboretum",
+                  "text": "Ein Arboretum in Sundbyberg mit einer vielfältigen Sammlung von Bäumen und Sträuchern.",
+                  "category": "park",
+                  "coords": [
+                        17.922628,
+                        59.341763
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "Ein kleiner Park in Sundbyberg, der nach dem Bildhauer Eric Grate benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Himmelsfärdsberget",
+                  "text": "Ein Aussichtspunkt in Sundbyberg, der einen weiten Blick über die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.983302,
+                        59.339875
+                  ]
+            },
+            {
+                  "name": "Solna Kulturskola",
+                  "text": "Ein kulturelles Zentrum in Sundbyberg, das künstlerische Ausbildung und Aktivitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99664,
+                        59.354141
+                  ]
+            },
+            {
+                  "name": "Åkeshovs slott",
+                  "text": "Ein historisches Herrenhaus in Sundbyberg, bekannt für seine klassische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        17.924947,
+                        59.340996
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Brommaplan",
+                  "text": "Eine moderne Kirche am Brommaplan im Bereich Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.941144,
+                        59.339841
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "Ein lokales Kirchengebäude in Sundbyberg, das für Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "Die Hauptkirche von Sundbyberg, ein markantes Gebäude im Stadtbild.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "Eine Kirche im Stadtteil Råsunda bei Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "Die Kirche des Stadtteils Hagalund in Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Bromma kyrka",
+                  "text": "Eine mittelalterliche Kirche in Sundbyberg/Bromma, bekannt für ihre historischen Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        17.92077,
+                        59.354402
+                  ]
+            },
+            {
+                  "name": "Rissnekyrkan",
+                  "text": "Ein modernes Kirchengebäude im Stadtteil Rissne in Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.937479,
+                        59.37685
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "Eine Kirche in Sundbyberg, benannt nach dem Heiligen Ansgar.",
+                  "category": "religious",
+                  "coords": [
+                        17.978085,
+                        59.334528
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "Eine zentral gelegene Kirche in Sundbyberg für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Abrahamsbergskyrkan",
+                  "text": "Ein Kirchengebäude im Stadtteil Abrahamsberg bei Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.953147,
+                        59.33468
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "Eine Kirche im charmanten Stadtteil Duvbo in Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "Eine historische Brücke in Sundbyberg, die den Fluss Bällstaån überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Bromma kyrkas klockstapel",
+                  "text": "Ein freistehender Glockenturm der Bromma-Kirche in Sundbyberg.",
+                  "category": "tower",
+                  "coords": [
+                        17.92257,
+                        59.356137
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Das Rathaus von Solna, ein Verwaltungszentrum in der Nähe von Sundbyberg.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "Eine syrisch-orthodoxe Kirche in Sundbyberg, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "Impozáns kastély Sundbyberg közelében, amely ma szállodaként működik.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "Múzeum, amely Sundbyberg helyi történelmét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "Szakmúzeum Sundbybergben, amely a víz- és fűtéstechnika történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "Helyi helytörténeti múzeum Sundbybergben, városi kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "Népszerű vízparti fürdőhely Sundbyberg környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "Jellegzetes park Sundbybergben, amely történelmi víztornyáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "Kis városi park Sundbybergben, Maria Wine költőnőről elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "Sundbybergi park, amelyet Artur Lundkvist írónak szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "Zöld városi park Sundbybergben, amely pihenési lehetőséget nyújt.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Lillsjöparken",
+                  "text": "Park Sundbybergben, amely helyi zöld találkozóhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        17.955398,
+                        59.339098
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "Kortárs művészeti galéria Sundbybergben, egy szép park közepén.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "Napsütötte városi park Sundbybergben, szabadidős tevékenységekhez.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Åkeshovs arboretum",
+                  "text": "Arborétum Sundbybergben, különféle fa- és cserjegyűjteménnyel.",
+                  "category": "park",
+                  "coords": [
+                        17.922628,
+                        59.341763
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "Kis park Sundbybergben, amely Eric Grate szobrászról kapta nevét.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Himmelsfärdsberget",
+                  "text": "Kilátópont Sundbybergben, ahonnan szép kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        17.983302,
+                        59.339875
+                  ]
+            },
+            {
+                  "name": "Solna Kulturskola",
+                  "text": "Kulturális központ Sundbybergben, amely művészeti oktatást és programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99664,
+                        59.354141
+                  ]
+            },
+            {
+                  "name": "Åkeshovs slott",
+                  "text": "Történelmi kúria Sundbybergben, amely klasszikus építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        17.924947,
+                        59.340996
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Brommaplan",
+                  "text": "Modern templom a Brommaplan közelében, Sundbyberg környékén.",
+                  "category": "religious",
+                  "coords": [
+                        17.941144,
+                        59.339841
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "Helyi templomépület Sundbybergben, amelyet istentiszteletekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "Sundbyberg főtemploma, a városkép egyik meghatározó épülete.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "Templom Sundbyberg Råsunda negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "Hagalund városrész temploma Sundbybergben.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Bromma kyrka",
+                  "text": "Középkori templom Sundbyberg/Bromma környékén, híres történelmi falfestményeiről.",
+                  "category": "religious",
+                  "coords": [
+                        17.92077,
+                        59.354402
+                  ]
+            },
+            {
+                  "name": "Rissnekyrkan",
+                  "text": "Modern templomépület Sundbyberg Rissne negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.937479,
+                        59.37685
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "Szent Anzgárról elnevezett templom Sundbybergben.",
+                  "category": "religious",
+                  "coords": [
+                        17.978085,
+                        59.334528
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "Központi fekvésű templom Sundbybergben a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Abrahamsbergskyrkan",
+                  "text": "Templomépület Sundbyberg Abrahamsberg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.953147,
+                        59.33468
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "Templom Sundbyberg hangulatos Duvbo negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "Történelmi híd Sundbybergben, amely a Bällstaån folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Bromma kyrkas klockstapel",
+                  "text": "A Bromma-templom különálló harangtornya Sundbybergben.",
+                  "category": "tower",
+                  "coords": [
+                        17.92257,
+                        59.356137
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Solna városháza, közigazgatási központ Sundbyberg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "Szír-ortodox templom Sundbybergben, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "Un castel impunător în apropiere de Sundbyberg, utilizat astăzi ca hotel.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "Un muzeu care prezintă istoria locală și dezvoltarea orașului Sundbyberg.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "Un muzeu specializat în Sundbyberg, dedicat istoriei instalațiilor sanitare și de încălzire.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "Un muzeu local de istorie în Sundbyberg, cu expoziții despre oraș.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "O zonă de plajă populară pe malul apei în regiunea Sundbyberg.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "Un parc distinctiv în Sundbyberg, cunoscut pentru turnul său de apă istoric.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "Un mic parc orășenesc în Sundbyberg, numit după poeta Maria Wine.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "O zonă de parc în Sundbyberg, dedicată scriitorului Artur Lundkvist.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "Un parc orășenesc verde în Sundbyberg, oferind spațiu pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Lillsjöparken",
+                  "text": "Un parc în Sundbyberg care servește ca loc de întâlnire în natură.",
+                  "category": "park",
+                  "coords": [
+                        17.955398,
+                        59.339098
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "O galerie de artă contemporană în Sundbyberg, situată într-un parc frumos.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "Un parc orășenesc însorit în Sundbyberg pentru activități de agrement.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Åkeshovs arboretum",
+                  "text": "Un arboretum în Sundbyberg, cu o colecție diversă de arbori și arbuști.",
+                  "category": "park",
+                  "coords": [
+                        17.922628,
+                        59.341763
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "Un mic parc în Sundbyberg, numit după sculptorul Eric Grate.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Himmelsfärdsberget",
+                  "text": "Un punct de belvedere în Sundbyberg, oferind o vedere largă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        17.983302,
+                        59.339875
+                  ]
+            },
+            {
+                  "name": "Solna Kulturskola",
+                  "text": "Un centru cultural în Sundbyberg, care oferă educație și activități artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99664,
+                        59.354141
+                  ]
+            },
+            {
+                  "name": "Åkeshovs slott",
+                  "text": "Un conac istoric în Sundbyberg, cunoscut pentru arhitectura sa clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        17.924947,
+                        59.340996
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Brommaplan",
+                  "text": "O biserică modernă situată la Brommaplan, în zona Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.941144,
+                        59.339841
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "O clădire bisericească locală în Sundbyberg, utilizată pentru cult.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "Biserica principală din Sundbyberg, o clădire proeminentă în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "O biserică în cartierul Råsunda din apropiere de Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "Biserica cartierului Hagalund din Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Bromma kyrka",
+                  "text": "O biserică medievală în zona Sundbyberg/Bromma, cunoscută pentru frescele sale istorice.",
+                  "category": "religious",
+                  "coords": [
+                        17.92077,
+                        59.354402
+                  ]
+            },
+            {
+                  "name": "Rissnekyrkan",
+                  "text": "O clădire bisericească modernă în cartierul Rissne din Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.937479,
+                        59.37685
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "O biserică în Sundbyberg, numită după Sfântul Ansgar.",
+                  "category": "religious",
+                  "coords": [
+                        17.978085,
+                        59.334528
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "O biserică situată central în Sundbyberg pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Abrahamsbergskyrkan",
+                  "text": "O clădire bisericească în cartierul Abrahamsberg din apropiere de Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.953147,
+                        59.33468
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "O biserică în cartierul pitoresc Duvbo din Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "Un pod istoric în Sundbyberg, care traversează râul Bällstaån.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Bromma kyrkas klockstapel",
+                  "text": "Clopotnița de sine stătătoare a bisericii Bromma din Sundbyberg.",
+                  "category": "tower",
+                  "coords": [
+                        17.92257,
+                        59.356137
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Primăria din Solna, un centru administrativ în apropiere de Sundbyberg.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "O biserică siriacă ortodoxă în Sundbyberg, care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "A stately castle near Sundbyberg, currently used as a hotel.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "A museum showcasing the local history and development of Sundbyberg.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "A specialized museum in Sundbyberg dedicated to the history of plumbing and heating.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "A local heritage museum in Sundbyberg with exhibitions on city history.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Huvudsta strandbad",
+                  "text": "A popular waterside bathing spot in the Sundbyberg area.",
+                  "category": "recreational",
+                  "coords": [
+                        17.990457,
+                        59.3454
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "A prominent park in Sundbyberg, known for its historical water tower.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "A small city park in Sundbyberg, named after the poet Maria Wine.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "A park area in Sundbyberg dedicated to the writer Artur Lundkvist.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "A green city park in Sundbyberg providing space for recreation.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Lillsjöparken",
+                  "text": "A park in Sundbyberg serving as a local green gathering spot.",
+                  "category": "park",
+                  "coords": [
+                        17.955398,
+                        59.339098
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "A contemporary art gallery in Sundbyberg located within a scenic park.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "A sunny city park in Sundbyberg for leisure activities.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Åkeshovs arboretum",
+                  "text": "An arboretum in Sundbyberg featuring a diverse collection of trees and shrubs.",
+                  "category": "park",
+                  "coords": [
+                        17.922628,
+                        59.341763
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "A small park in Sundbyberg named after the sculptor Eric Grate.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Himmelsfärdsberget",
+                  "text": "A viewpoint in Sundbyberg offering a wide view over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        17.983302,
+                        59.339875
+                  ]
+            },
+            {
+                  "name": "Solna Kulturskola",
+                  "text": "A cultural centre in Sundbyberg offering artistic education and activities.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99664,
+                        59.354141
+                  ]
+            },
+            {
+                  "name": "Åkeshovs slott",
+                  "text": "A historical manor house in Sundbyberg, known for its classical architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        17.924947,
+                        59.340996
+                  ]
+            },
+            {
+                  "name": "Kyrkan vid Brommaplan",
+                  "text": "A modern church located at Brommaplan in the Sundbyberg area.",
+                  "category": "religious",
+                  "coords": [
+                        17.941144,
+                        59.339841
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "A local church building in Sundbyberg used for worship services.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "The main church of Sundbyberg, a prominent building in the cityscape.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "A church in the Råsunda district near Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "The church of the Hagalund district in Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Bromma kyrka",
+                  "text": "A medieval church in the Sundbyberg/Bromma area, famous for its historical murals.",
+                  "category": "religious",
+                  "coords": [
+                        17.92077,
+                        59.354402
+                  ]
+            },
+            {
+                  "name": "Rissnekyrkan",
+                  "text": "A modern church building in the Rissne district of Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.937479,
+                        59.37685
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "A church in Sundbyberg named after Saint Ansgar.",
+                  "category": "religious",
+                  "coords": [
+                        17.978085,
+                        59.334528
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "A centrally located church in Sundbyberg for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Abrahamsbergskyrkan",
+                  "text": "A church building in the Abrahamsberg district near Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.953147,
+                        59.33468
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "A church in the charming Duvbo district of Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "A historical bridge in Sundbyberg crossing the Bällstaån river.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Bromma kyrkas klockstapel",
+                  "text": "The free-standing bell tower of Bromma Church in Sundbyberg.",
+                  "category": "tower",
+                  "coords": [
+                        17.92257,
+                        59.356137
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Solna's town hall, an administrative centre near Sundbyberg.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "A Syriac Orthodox church in Sundbyberg serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Sundbyberg", hu: "Sundbyberg", ro: "Sundbyberg", en: "Sundbyberg" },
@@ -3905,6 +24020,528 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.990457,
                         59.3454
                   ]
+            },
+            {
+                  "name": "Fjärilshuset Haga Ocean",
+                  "text": "Das Fjärilshuset in Solna beherbergt exotische Schmetterlinge und ein großes Aquarium.",
+                  "category": "museum",
+                  "coords": [
+                        18.030607,
+                        59.366082
+                  ]
+            },
+            {
+                  "name": "Haga Parkmuseum",
+                  "text": "Dieses Museum dokumentiert die Geschichte und Entwicklung des Haga-Parks.",
+                  "category": "museum",
+                  "coords": [
+                        18.030463,
+                        59.364473
+                  ]
+            },
+            {
+                  "name": "Olle Olsson Hagalund-museet",
+                  "text": "Das Museum ist dem Leben und Werk des Künstlers Olle Olsson gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.016045,
+                        59.361024
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "Das Museum zeigt die Stadtentwicklung und Industriegeschichte von Sundbyberg.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "Schwedens VVS-Museum zeigt die Geschichte der Sanitär- und Heizungstechnik.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Gustav III:s paviljong",
+                  "text": "Der Pavillon Gustavs III. ist ein bedeutendes Beispiel des schwedischen Klassizismus.",
+                  "category": "castle",
+                  "coords": [
+                        18.039127,
+                        59.362618
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "Eine Kunsthalle für zeitgenössische Kunst im preisgekrönten Marabouparken.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "Schloss Ulvsunda ist ein prachtvolles Barockschloss mit einer reichen Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Kungshögen",
+                  "text": "Kungshögen ist ein beeindruckender Grabhügel aus der Eisenzeit in Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.009234,
+                        59.382552
+                  ]
+            },
+            {
+                  "name": "U 121",
+                  "text": "Der Runenstein U 121 ist ein historisches Denkmal mit Wikinger-Inschriften.",
+                  "category": "historical",
+                  "coords": [
+                        18.01937,
+                        59.366354
+                  ]
+            },
+            {
+                  "name": "Mellanjärva gravfält",
+                  "text": "Ein Gräberfeld mit Überresten aus der Eisenzeit in der Nähe von Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.011726,
+                        59.38257
+                  ]
+            },
+            {
+                  "name": "Haga slottsgrund",
+                  "text": "Die Fundamente eines nie vollendeten Schlosses von Gustav III. im Haga-Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.035809,
+                        59.364511
+                  ]
+            },
+            {
+                  "name": "Prins Gustafs monument",
+                  "text": "Ein Denkmal zu Ehren von Prinz Gustaf im malerischen Haga-Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.039671,
+                        59.36581
+                  ]
+            },
+            {
+                  "name": "Kristinebergs slott",
+                  "text": "Das Herrenhaus Kristineberg blickt auf eine lange Geschichte als Adelssitz zurück.",
+                  "category": "historical",
+                  "coords": [
+                        18.005661,
+                        59.333648
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Das Rathaus von Solna ist das Verwaltungszentrum der Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "Die Ekensbergskyrkan ist eine moderne Kirche in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Solna kyrka",
+                  "text": "Die Solna kyrka ist eine der ältesten Rundkirchen Schwedens.",
+                  "category": "religious",
+                  "coords": [
+                        18.024039,
+                        59.353015
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "Die Kirche von Sundbyberg ist ein markantes Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "Die Råsunda kyrka dient der evangelisch-lutherischen Gemeinde in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "Die Hagalunds kyrka ist eine charmante Holzkirche in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "Die Filadelfiakyrkan ist eine bekannte Pfingstkirche in der Region Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.034458,
+                        59.33941
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "Die Centrumkyrkan ist eine moderne Freikirche im Zentrum von Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Norra kapellet",
+                  "text": "Das Nordkapell ist ein friedlicher Ort der Andacht auf dem Friedhof von Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.020081,
+                        59.358114
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "Die Kirche von Duvbo ist eine kleine, malerische Kirche in Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "Diese syrisch-orthodoxe Kirche dient der christlichen Gemeinde in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "Die Sankt-Matthäus-Kirche ist ein markantes religiöses Bauwerk in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.04253,
+                        59.345318
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "Die Bällstabro ist eine wichtige Brückenverbindung in Solna.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Tranebergsbron",
+                  "text": "Die Tranebergsbron ist eine markante Bogenbrücke, die Solna mit Bromma verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.99512,
+                        59.333436
+                  ]
+            },
+            {
+                  "name": "Ulriksdals naturreservat",
+                  "text": "Das Ulriksdal-Naturreservat bietet weite Grünflächen und historische Parklandschaften.",
+                  "category": "natural",
+                  "coords": [
+                        18.010455,
+                        59.384202
+                  ]
+            },
+            {
+                  "name": "Frösundatoppen",
+                  "text": "Der Frösundatoppen bietet einen weiten Panoramablick über Solna und Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.024842,
+                        59.366164
+                  ]
+            },
+            {
+                  "name": "Bellevueparken",
+                  "text": "Der Bellevue-Park ist eine historische Parkanlage mit Blick auf den Brunnsviken.",
+                  "category": "park",
+                  "coords": [
+                        18.049863,
+                        59.352969
+                  ]
+            },
+            {
+                  "name": "Vanadisplan",
+                  "text": "Ein städtischer Platz mit Grünanlagen im Stadtteil Solna.",
+                  "category": "park",
+                  "coords": [
+                        18.039667,
+                        59.345004
+                  ]
+            },
+            {
+                  "name": "Bergianska trädgården",
+                  "text": "Der Botanische Garten Bergius zeigt eine beeindruckende Vielfalt an Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        18.044793,
+                        59.368607
+                  ]
+            },
+            {
+                  "name": "Sankt Eriksparken",
+                  "text": "Ein lokaler Park in Solna, der zum Entspannen im Grünen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        18.042865,
+                        59.349034
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "Der Tornparken ist eine beliebte Grünanlage in Sundbyberg bei Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "Ein nach dem Schriftsteller Artur Lundkvist benannter Park in Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Pelouse",
+                  "text": "Die Pelouse ist eine weite Rasenfläche im berühmten Haga-Park.",
+                  "category": "park",
+                  "coords": [
+                        18.034969,
+                        59.363332
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "Der Tuvanparken ist eine ruhige Grünanlage am Wasser in Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Kristinebergs strandpark",
+                  "text": "Ein moderner Uferpark in Solna mit Freizeit- und Bademöglichkeiten.",
+                  "category": "park",
+                  "coords": [
+                        18.002548,
+                        59.337227
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "Ein kleiner, sonniger Park im Herzen von Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Brovaktarparken",
+                  "text": "Ein öffentlicher Park in Solna, der Grünflächen zur Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        18.011238,
+                        59.340118
+                  ]
+            },
+            {
+                  "name": "Nelly Sachs Park",
+                  "text": "Ein Park in Solna, benannt nach der Literaturnobelpreisträgerin Nelly Sachs.",
+                  "category": "park",
+                  "coords": [
+                        18.008412,
+                        59.339055
+                  ]
+            },
+            {
+                  "name": "Hornsbergs strandpark",
+                  "text": "Ein moderner Park am Ufer mit Wanderwegen und malerischem Blick auf das Wasser.",
+                  "category": "park",
+                  "coords": [
+                        18.007855,
+                        59.340396
+                  ]
+            },
+            {
+                  "name": "Lindhagens kulle",
+                  "text": "Ein Gedenkgarten auf dem Nordfriedhof (Norra begravningsplatsen) in Solna.",
+                  "category": "park",
+                  "coords": [
+                        18.018541,
+                        59.356109
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "Ein öffentlicher Park in Solna, benannt nach dem schwedischen Bildhauer Eric Grate.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Mikaelskapellet",
+                  "text": "Eine kleine Kapelle in Solna, die für Gottesdienste und Besinnung genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        18.032942,
+                        59.342573
+                  ]
+            },
+            {
+                  "name": "Katolska kyrkogårdens kapell",
+                  "text": "Eine Kapelle auf dem katholischen Friedhof in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.028953,
+                        59.35716
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "Ein lokaler Park in Solna, der der schwedischen Schriftstellerin und Dichterin Maria Wine gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "Ein Heimatmuseum in Solna, das das kulturelle Erbe der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Maria Vulfovitch Gallery",
+                  "text": "Eine Kunstgalerie in Solna mit zeitgenössischen Werken und Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        18.046326,
+                        59.34738
+                  ]
+            },
+            {
+                  "name": "Beeg Gallery",
+                  "text": "Eine private Kunstgalerie in Solna, die verschiedene künstlerische Ausdrucksformen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.038701,
+                        59.346299
+                  ]
+            },
+            {
+                  "name": "Galerie Nordenhake",
+                  "text": "Eine bekannte Galerie für zeitgenössische Kunst mit einem Standort im Bereich Solna/Stockholm.",
+                  "category": "museum",
+                  "coords": [
+                        18.037745,
+                        59.345802
+                  ]
+            },
+            {
+                  "name": "Nordic Art",
+                  "text": "Eine Kunstgalerie in Solna mit Schwerpunkt auf moderner und zeitgenössischer nordischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        18.035726,
+                        59.341216
+                  ]
+            },
+            {
+                  "name": "PF Event",
+                  "text": "Eine Galerie und ein Veranstaltungsort in Solna für Kunstausstellungen und kulturelle Events.",
+                  "category": "museum",
+                  "coords": [
+                        17.999102,
+                        59.334872
+                  ]
+            },
+            {
+                  "name": "The Cell",
+                  "text": "Ein moderner Kunstraum in Solna für Ausstellungen und kreative Darstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        18.032283,
+                        59.347642
+                  ]
+            },
+            {
+                  "name": "SOLKUNGEN",
+                  "text": "Eine antike archäologische Stätte in Solna mit historischen Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        18.036902,
+                        59.3613
+                  ]
+            },
+            {
+                  "name": "Stallgrunden",
+                  "text": "Eine archäologische Stätte in Solna, die Spuren vergangener menschlicher Aktivitäten bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        18.031486,
+                        59.361961
+                  ]
+            },
+            {
+                  "name": "Neptuni tempel",
+                  "text": "Ein kleiner Zierbau in Form eines Tempels im Haga-Park in Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.020181,
+                        59.342518
+                  ]
             }
       ],
       "hu": [
@@ -3915,6 +24552,528 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.990457,
                         59.3454
+                  ]
+            },
+            {
+                  "name": "Fjärilshuset Haga Ocean",
+                  "text": "A solnai Fjärilshuset egzotikus lepkéket és egy hatalmas akváriumot mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.030607,
+                        59.366082
+                  ]
+            },
+            {
+                  "name": "Haga Parkmuseum",
+                  "text": "Ez a múzeum a Haga-park történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.030463,
+                        59.364473
+                  ]
+            },
+            {
+                  "name": "Olle Olsson Hagalund-museet",
+                  "text": "A múzeum Olle Olsson művész életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        18.016045,
+                        59.361024
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "A múzeum Sundbyberg városfejlődését és ipartörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "Svédország VVS-múzeuma a szaniter- és fűtéstechnika történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Gustav III:s paviljong",
+                  "text": "III. Gusztáv pavilonja a svéd klasszicista építészet egyik kiemelkedő példája.",
+                  "category": "castle",
+                  "coords": [
+                        18.039127,
+                        59.362618
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "Kortárs művészeti galéria a díjnyertes Marabouparken területén.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "Az Ulvsunda-kastély egy pompás barokk épület jelentős történelmi múlttal.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Kungshögen",
+                  "text": "A Kungshögen egy lenyűgöző vaskori sírhalom Solna területén.",
+                  "category": "historical",
+                  "coords": [
+                        18.009234,
+                        59.382552
+                  ]
+            },
+            {
+                  "name": "U 121",
+                  "text": "Az U 121-es rúnakő egy viking feliratokat őrző történelmi emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        18.01937,
+                        59.366354
+                  ]
+            },
+            {
+                  "name": "Mellanjärva gravfält",
+                  "text": "Vaskori maradványokat őrző sírmező Solna közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.011726,
+                        59.38257
+                  ]
+            },
+            {
+                  "name": "Haga slottsgrund",
+                  "text": "III. Gusztáv soha be nem fejezett kastélyának alapjai a Haga-parkban.",
+                  "category": "historical",
+                  "coords": [
+                        18.035809,
+                        59.364511
+                  ]
+            },
+            {
+                  "name": "Prins Gustafs monument",
+                  "text": "Emlékmű Gustaf herceg tiszteletére a festői Haga-parkban.",
+                  "category": "historical",
+                  "coords": [
+                        18.039671,
+                        59.36581
+                  ]
+            },
+            {
+                  "name": "Kristinebergs slott",
+                  "text": "A Kristineberg-kúria hosszú múltra tekint vissza nemesi rezidenciaként.",
+                  "category": "historical",
+                  "coords": [
+                        18.005661,
+                        59.333648
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Solna városháza a település közigazgatási központja.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "Az Ekensbergskyrkan egy modern stílusú templom Solnában.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Solna kyrka",
+                  "text": "A solnai templom Svédország egyik legrégebbi körtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        18.024039,
+                        59.353015
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "Sundbyberg temploma a város egyik meghatározó építészeti emléke.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "A Råsunda kyrka a solnai evangélikus közösség temploma.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "A Hagalunds kyrka egy bájos fatemplom Solna városában.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "A Filadelfiakyrkan a stockholmi régió egyik ismert pünkösdi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        18.034458,
+                        59.33941
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "A Centrumkyrkan egy modern szabadegyház Sundbyberg központjában.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Norra kapellet",
+                  "text": "Az Északi kápolna egy békés imahely Solna temetőjében.",
+                  "category": "religious",
+                  "coords": [
+                        18.020081,
+                        59.358114
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "Duvbo temploma egy kicsi, festői egyházi épület Sundbybergben.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "Ez a szír-ortodox templom a régió keresztény közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "A Szent Máté-templom Solna egyik jelentős vallási építménye.",
+                  "category": "religious",
+                  "coords": [
+                        18.04253,
+                        59.345318
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "A Bällstabro Solna egyik fontos hídja és közlekedési útvonala.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Tranebergsbron",
+                  "text": "A Tranebergsbron egy jellegzetes ívhíd, amely Solnát köti össze Brommával.",
+                  "category": "landmark",
+                  "coords": [
+                        17.99512,
+                        59.333436
+                  ]
+            },
+            {
+                  "name": "Ulriksdals naturreservat",
+                  "text": "Az Ulriksdal természetvédelmi terület tágas zöldfelületeket és történelmi parkokat kínál.",
+                  "category": "natural",
+                  "coords": [
+                        18.010455,
+                        59.384202
+                  ]
+            },
+            {
+                  "name": "Frösundatoppen",
+                  "text": "A Frösundatoppen tágas panorámát kínál Solnára és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        18.024842,
+                        59.366164
+                  ]
+            },
+            {
+                  "name": "Bellevueparken",
+                  "text": "A Bellevue-park egy történelmi közpark, kilátással a Brunnsviken-öbölre.",
+                  "category": "park",
+                  "coords": [
+                        18.049863,
+                        59.352969
+                  ]
+            },
+            {
+                  "name": "Vanadisplan",
+                  "text": "Városi tér zöldterületekkel Solna városrészében.",
+                  "category": "park",
+                  "coords": [
+                        18.039667,
+                        59.345004
+                  ]
+            },
+            {
+                  "name": "Bergianska trädgården",
+                  "text": "A Bergius Botanikus Kert lenyűgöző növényfajok sokaságát mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        18.044793,
+                        59.368607
+                  ]
+            },
+            {
+                  "name": "Sankt Eriksparken",
+                  "text": "Helyi park Solnában, amely kikapcsolódást kínál a zöldben.",
+                  "category": "park",
+                  "coords": [
+                        18.042865,
+                        59.349034
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "A Tornparken Sundbyberg egyik kedvelt zöldterülete Solna közelében.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "Artur Lundkvist íróról elnevezett park Solna városában.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Pelouse",
+                  "text": "A Pelouse egy tágas füves terület a híres Haga-parkban.",
+                  "category": "park",
+                  "coords": [
+                        18.034969,
+                        59.363332
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "A Tuvanparken egy csendes, vízparti zöldterület Solnában.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Kristinebergs strandpark",
+                  "text": "Modern vízparti park Solnában szabadidős és fürdőzési lehetőségekkel.",
+                  "category": "park",
+                  "coords": [
+                        18.002548,
+                        59.337227
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "Egy kicsi, napos park Solna szívében.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Brovaktarparken",
+                  "text": "Nyilvános park Solnában, amely zöldterületet kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        18.011238,
+                        59.340118
+                  ]
+            },
+            {
+                  "name": "Nelly Sachs Park",
+                  "text": "Solnai park, amelyet a Nobel-díjas költőről, Nelly Sachsról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        18.008412,
+                        59.339055
+                  ]
+            },
+            {
+                  "name": "Hornsbergs strandpark",
+                  "text": "Modern vízparti park sétányokkal és szép kilátással a vízre.",
+                  "category": "park",
+                  "coords": [
+                        18.007855,
+                        59.340396
+                  ]
+            },
+            {
+                  "name": "Lindhagens kulle",
+                  "text": "Emlékkert a solnai Északi Temetőben.",
+                  "category": "park",
+                  "coords": [
+                        18.018541,
+                        59.356109
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "Solnai közpark, amelyet Eric Grate svéd szobrászról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Mikaelskapellet",
+                  "text": "Kisméretű kápolna Solnában, amely istentiszteleteknek és elcsendesedésnek ad helyet.",
+                  "category": "religious",
+                  "coords": [
+                        18.032942,
+                        59.342573
+                  ]
+            },
+            {
+                  "name": "Katolska kyrkogårdens kapell",
+                  "text": "A solnai katolikus temető területén található kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        18.028953,
+                        59.35716
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "Solnai park, amelyet Maria Wine svéd írónőnek és költőnek szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "Helytörténeti múzeum Solnában, amely a környék kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Maria Vulfovitch Gallery",
+                  "text": "Kortárs műveket és kiállításokat bemutató művészeti galéria Solnában.",
+                  "category": "museum",
+                  "coords": [
+                        18.046326,
+                        59.34738
+                  ]
+            },
+            {
+                  "name": "Beeg Gallery",
+                  "text": "Magánkézben lévő művészeti galéria Solnában.",
+                  "category": "museum",
+                  "coords": [
+                        18.038701,
+                        59.346299
+                  ]
+            },
+            {
+                  "name": "Galerie Nordenhake",
+                  "text": "Ismert kortárs művészeti galéria Solna és Stockholm határán.",
+                  "category": "museum",
+                  "coords": [
+                        18.037745,
+                        59.345802
+                  ]
+            },
+            {
+                  "name": "Nordic Art",
+                  "text": "Modern és kortárs északi művészetre összpontosító galéria Solnában.",
+                  "category": "museum",
+                  "coords": [
+                        18.035726,
+                        59.341216
+                  ]
+            },
+            {
+                  "name": "PF Event",
+                  "text": "Galéria és rendezvényhelyszín Solnában, amely művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.999102,
+                        59.334872
+                  ]
+            },
+            {
+                  "name": "The Cell",
+                  "text": "Modern művészeti tér Solnában, amely kiállításoknak és kreatív projekteknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.032283,
+                        59.347642
+                  ]
+            },
+            {
+                  "name": "SOLKUNGEN",
+                  "text": "Ősi régészeti lelőhely Solnában, történelmi maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        18.036902,
+                        59.3613
+                  ]
+            },
+            {
+                  "name": "Stallgrunden",
+                  "text": "Régészeti lelőhely Solnában, amely a múltbéli emberi tevékenység nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        18.031486,
+                        59.361961
+                  ]
+            },
+            {
+                  "name": "Neptuni tempel",
+                  "text": "Templom formájú kisméretű díszépítmény a solnai Haga-parkban.",
+                  "category": "historical",
+                  "coords": [
+                        18.020181,
+                        59.342518
                   ]
             }
       ],
@@ -3927,6 +25086,528 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.990457,
                         59.3454
                   ]
+            },
+            {
+                  "name": "Fjärilshuset Haga Ocean",
+                  "text": "Fjärilshuset din Solna găzduiește fluturi exotici și un acvariu de mari dimensiuni.",
+                  "category": "museum",
+                  "coords": [
+                        18.030607,
+                        59.366082
+                  ]
+            },
+            {
+                  "name": "Haga Parkmuseum",
+                  "text": "Acest muzeu documentează istoria și dezvoltarea parcului Haga.",
+                  "category": "museum",
+                  "coords": [
+                        18.030463,
+                        59.364473
+                  ]
+            },
+            {
+                  "name": "Olle Olsson Hagalund-museet",
+                  "text": "Muzeul este dedicat vieții și operei artistului Olle Olsson.",
+                  "category": "museum",
+                  "coords": [
+                        18.016045,
+                        59.361024
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "Muzeul prezintă dezvoltarea urbană și istoria industrială a orașului Sundbyberg.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "Muzeul VVS din Suedia prezintă istoria tehnologiei sanitare și de încălzire.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Gustav III:s paviljong",
+                  "text": "Pavilionul lui Gustav al III-lea este un exemplu important al clasicismului suedez.",
+                  "category": "castle",
+                  "coords": [
+                        18.039127,
+                        59.362618
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "O galerie de artă contemporană situată în premiatul parc Marabou.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "Castelul Ulvsunda este un palat baroc magnific cu o istorie bogată.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Kungshögen",
+                  "text": "Kungshögen este un tumul impresionant din epoca fierului situat în Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.009234,
+                        59.382552
+                  ]
+            },
+            {
+                  "name": "U 121",
+                  "text": "Piatra runică U 121 este un monument istoric cu inscripții vikinge.",
+                  "category": "historical",
+                  "coords": [
+                        18.01937,
+                        59.366354
+                  ]
+            },
+            {
+                  "name": "Mellanjärva gravfält",
+                  "text": "Un câmp funerar cu vestigii din epoca fierului situat lângă Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.011726,
+                        59.38257
+                  ]
+            },
+            {
+                  "name": "Haga slottsgrund",
+                  "text": "Fundațiile unui castel neterminat al lui Gustav al III-lea în parcul Haga.",
+                  "category": "historical",
+                  "coords": [
+                        18.035809,
+                        59.364511
+                  ]
+            },
+            {
+                  "name": "Prins Gustafs monument",
+                  "text": "Un monument ridicat în onoarea Prințului Gustaf în pitorescul parc Haga.",
+                  "category": "historical",
+                  "coords": [
+                        18.039671,
+                        59.36581
+                  ]
+            },
+            {
+                  "name": "Kristinebergs slott",
+                  "text": "Conacul Kristineberg are o istorie lungă ca reședință nobiliară.",
+                  "category": "historical",
+                  "coords": [
+                        18.005661,
+                        59.333648
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Primăria din Solna este centrul administrativ al municipalității.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "Ekensbergskyrkan este o biserică modernă situată în Solna.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Solna kyrka",
+                  "text": "Biserica din Solna este una dintre cele mai vechi biserici rotunde din Suedia.",
+                  "category": "religious",
+                  "coords": [
+                        18.024039,
+                        59.353015
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "Biserica din Sundbyberg este un punct de reper vizibil al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "Råsunda kyrka deservește comunitatea evanghelică-luterană din Solna.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "Hagalunds kyrka este o biserică de lemn pitorească din Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "Filadelfiakyrkan este o cunoscută biserică penticostală din regiunea Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.034458,
+                        59.33941
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "Centrumkyrkan este o biserică liberă modernă în centrul orașului Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Norra kapellet",
+                  "text": "Capela de Nord este un loc liniștit de reculegere în cimitirul din Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.020081,
+                        59.358114
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "Biserica din Duvbo este o mică biserică pitorească din Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "Această biserică siriacă ortodoxă deservește comunitatea creștină din regiune.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "Biserica Sfântul Matei este un edificiu religios notabil din Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.04253,
+                        59.345318
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "Bällstabro este o conexiune importantă prin pod în Solna.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Tranebergsbron",
+                  "text": "Tranebergsbron este un pod arcuit remarcabil care leagă Solna de Bromma.",
+                  "category": "landmark",
+                  "coords": [
+                        17.99512,
+                        59.333436
+                  ]
+            },
+            {
+                  "name": "Ulriksdals naturreservat",
+                  "text": "Rezervația naturală Ulriksdal oferă spații verzi vaste și peisaje de parc istorice.",
+                  "category": "natural",
+                  "coords": [
+                        18.010455,
+                        59.384202
+                  ]
+            },
+            {
+                  "name": "Frösundatoppen",
+                  "text": "Frösundatoppen oferă o vedere panoramică largă asupra orașului Solna și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        18.024842,
+                        59.366164
+                  ]
+            },
+            {
+                  "name": "Bellevueparken",
+                  "text": "Parcul Bellevue este un parc istoric cu vedere spre golful Brunnsviken.",
+                  "category": "park",
+                  "coords": [
+                        18.049863,
+                        59.352969
+                  ]
+            },
+            {
+                  "name": "Vanadisplan",
+                  "text": "O piață urbană cu spații verzi în districtul Solna.",
+                  "category": "park",
+                  "coords": [
+                        18.039667,
+                        59.345004
+                  ]
+            },
+            {
+                  "name": "Bergianska trädgården",
+                  "text": "Grădina Botanică Bergius prezintă o varietate impresionantă de specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        18.044793,
+                        59.368607
+                  ]
+            },
+            {
+                  "name": "Sankt Eriksparken",
+                  "text": "Un parc local din Solna care invită la relaxare în natură.",
+                  "category": "park",
+                  "coords": [
+                        18.042865,
+                        59.349034
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "Tornparken este un spațiu verde popular din Sundbyberg, lângă Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "Un parc din Solna numit după scriitorul Artur Lundkvist.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Pelouse",
+                  "text": "Pelouse este o zonă vastă cu gazon situată în celebrul parc Haga.",
+                  "category": "park",
+                  "coords": [
+                        18.034969,
+                        59.363332
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "Tuvanparken este un spațiu verde liniștit situat pe malul apei în Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Kristinebergs strandpark",
+                  "text": "Un parc modern pe malul apei în Solna, cu facilități de agrement și scăldat.",
+                  "category": "park",
+                  "coords": [
+                        18.002548,
+                        59.337227
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "Un mic parc însorit în inima orașului Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Brovaktarparken",
+                  "text": "Un parc public situat în Solna, oferind spațiu verde pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        18.011238,
+                        59.340118
+                  ]
+            },
+            {
+                  "name": "Nelly Sachs Park",
+                  "text": "Un parc din Solna numit după poeta laureată a Premiului Nobel, Nelly Sachs.",
+                  "category": "park",
+                  "coords": [
+                        18.008412,
+                        59.339055
+                  ]
+            },
+            {
+                  "name": "Hornsbergs strandpark",
+                  "text": "Un parc modern pe malul apei, cu alei de promenadă și vedere panoramică.",
+                  "category": "park",
+                  "coords": [
+                        18.007855,
+                        59.340396
+                  ]
+            },
+            {
+                  "name": "Lindhagens kulle",
+                  "text": "O grădină memorială situată în Cimitirul de Nord din Solna.",
+                  "category": "park",
+                  "coords": [
+                        18.018541,
+                        59.356109
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "Un parc public din Solna numit după sculptorul suedez Eric Grate.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Mikaelskapellet",
+                  "text": "O mică capelă din Solna folosită pentru servicii religioase și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        18.032942,
+                        59.342573
+                  ]
+            },
+            {
+                  "name": "Katolska kyrkogårdens kapell",
+                  "text": "O capelă situată în cadrul cimitirului catolic din Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.028953,
+                        59.35716
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "Un parc local din Solna dedicat scriitoarei și poetei suedeze Maria Wine.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "Un muzeu de istorie locală din Solna care prezintă moștenirea culturală a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Maria Vulfovitch Gallery",
+                  "text": "O galerie de artă din Solna care prezintă lucrări și expoziții contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        18.046326,
+                        59.34738
+                  ]
+            },
+            {
+                  "name": "Beeg Gallery",
+                  "text": "O galerie de artă privată din Solna care expune diverse expresii artistice.",
+                  "category": "museum",
+                  "coords": [
+                        18.038701,
+                        59.346299
+                  ]
+            },
+            {
+                  "name": "Galerie Nordenhake",
+                  "text": "O galerie de artă contemporană bine-cunoscută, situată în zona Solna/Stockholm.",
+                  "category": "museum",
+                  "coords": [
+                        18.037745,
+                        59.345802
+                  ]
+            },
+            {
+                  "name": "Nordic Art",
+                  "text": "O galerie de artă din Solna axată pe arta nordică modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        18.035726,
+                        59.341216
+                  ]
+            },
+            {
+                  "name": "PF Event",
+                  "text": "O galerie și spațiu pentru evenimente din Solna care găzduiește expoziții de artă și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        17.999102,
+                        59.334872
+                  ]
+            },
+            {
+                  "name": "The Cell",
+                  "text": "Un spațiu de artă modern din Solna dedicat expozițiilor și prezentărilor creative.",
+                  "category": "museum",
+                  "coords": [
+                        18.032283,
+                        59.347642
+                  ]
+            },
+            {
+                  "name": "SOLKUNGEN",
+                  "text": "Un sit arheologic vechi din Solna, care prezintă vestigii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        18.036902,
+                        59.3613
+                  ]
+            },
+            {
+                  "name": "Stallgrunden",
+                  "text": "Un sit arheologic din Solna care păstrează urme ale activității umane din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        18.031486,
+                        59.361961
+                  ]
+            },
+            {
+                  "name": "Neptuni tempel",
+                  "text": "O mică clădire ornamentală sub formă de templu în Parcul Haga din Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.020181,
+                        59.342518
+                  ]
             }
       ],
       "en": [
@@ -3937,6 +25618,528 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.990457,
                         59.3454
+                  ]
+            },
+            {
+                  "name": "Butterfly House Haga Ocean",
+                  "text": "The Butterfly House in Solna features exotic butterflies and a large aquarium.",
+                  "category": "museum",
+                  "coords": [
+                        18.030607,
+                        59.366082
+                  ]
+            },
+            {
+                  "name": "Haga Parkmuseum",
+                  "text": "This museum documents the history and development of Haga Park.",
+                  "category": "museum",
+                  "coords": [
+                        18.030463,
+                        59.364473
+                  ]
+            },
+            {
+                  "name": "Olle Olsson Hagalund-museet",
+                  "text": "The museum is dedicated to the life and work of the artist Olle Olsson.",
+                  "category": "museum",
+                  "coords": [
+                        18.016045,
+                        59.361024
+                  ]
+            },
+            {
+                  "name": "Sundbybergs museum",
+                  "text": "The museum showcases the urban development and industrial history of Sundbyberg.",
+                  "category": "museum",
+                  "coords": [
+                        17.962829,
+                        59.364734
+                  ]
+            },
+            {
+                  "name": "Sveriges VVS-museum",
+                  "text": "Sweden's VVS Museum displays the history of plumbing and heating technology.",
+                  "category": "museum",
+                  "coords": [
+                        17.957782,
+                        59.357124
+                  ]
+            },
+            {
+                  "name": "Gustav III:s paviljong",
+                  "text": "Gustav III's Pavilion is a significant example of Swedish Neoclassical architecture.",
+                  "category": "castle",
+                  "coords": [
+                        18.039127,
+                        59.362618
+                  ]
+            },
+            {
+                  "name": "Marabouparken konsthall",
+                  "text": "A contemporary art gallery located in the award-winning Marabou Park.",
+                  "category": "museum",
+                  "coords": [
+                        17.957309,
+                        59.364309
+                  ]
+            },
+            {
+                  "name": "Ulvsunda Slott",
+                  "text": "Ulvsunda Castle is a magnificent Baroque palace with a rich history.",
+                  "category": "historical",
+                  "coords": [
+                        17.964409,
+                        59.340986
+                  ]
+            },
+            {
+                  "name": "Kungshögen",
+                  "text": "Kungshögen is an impressive Iron Age burial mound located in Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.009234,
+                        59.382552
+                  ]
+            },
+            {
+                  "name": "U 121",
+                  "text": "Rune stone U 121 is a historic monument featuring Viking inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        18.01937,
+                        59.366354
+                  ]
+            },
+            {
+                  "name": "Mellanjärva gravfält",
+                  "text": "A burial field with remains from the Iron Age located near Solna.",
+                  "category": "historical",
+                  "coords": [
+                        18.011726,
+                        59.38257
+                  ]
+            },
+            {
+                  "name": "Haga Palace Ruins",
+                  "text": "The foundations of an unfinished palace commissioned by Gustav III in Haga Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.035809,
+                        59.364511
+                  ]
+            },
+            {
+                  "name": "Prins Gustafs monument",
+                  "text": "A monument dedicated to Prince Gustaf in the scenic Haga Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.039671,
+                        59.36581
+                  ]
+            },
+            {
+                  "name": "Kristinebergs slott",
+                  "text": "Kristineberg Manor has a long history as a noble residence.",
+                  "category": "historical",
+                  "coords": [
+                        18.005661,
+                        59.333648
+                  ]
+            },
+            {
+                  "name": "Solna stadshus",
+                  "text": "Solna Town Hall is the administrative center of the municipality.",
+                  "category": "historical",
+                  "coords": [
+                        18.002783,
+                        59.359031
+                  ]
+            },
+            {
+                  "name": "Ekensbergskyrkan",
+                  "text": "Ekensbergskyrkan is a modern church building in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        17.994779,
+                        59.361925
+                  ]
+            },
+            {
+                  "name": "Solna kyrka",
+                  "text": "Solna Church is one of the oldest round churches in Sweden.",
+                  "category": "religious",
+                  "coords": [
+                        18.024039,
+                        59.353015
+                  ]
+            },
+            {
+                  "name": "Sundbybergs kyrka",
+                  "text": "Sundbyberg Church is a prominent landmark in the city.",
+                  "category": "religious",
+                  "coords": [
+                        17.972628,
+                        59.36416
+                  ]
+            },
+            {
+                  "name": "Råsunda kyrka",
+                  "text": "Råsunda Church serves the Evangelical Lutheran community in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        17.987714,
+                        59.368514
+                  ]
+            },
+            {
+                  "name": "Hagalunds kyrka",
+                  "text": "Hagalund Church is a charming wooden church in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.008621,
+                        59.36247
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "Filadelfia Church is a well-known Pentecostal church in the Stockholm region.",
+                  "category": "religious",
+                  "coords": [
+                        18.034458,
+                        59.33941
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "Centrumkyrkan is a modern free church in the center of Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.970792,
+                        59.363253
+                  ]
+            },
+            {
+                  "name": "Norra kapellet",
+                  "text": "The North Chapel is a peaceful place of worship in Solna's cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        18.020081,
+                        59.358114
+                  ]
+            },
+            {
+                  "name": "Duvbo kyrka",
+                  "text": "Duvbo Church is a small, picturesque church in Sundbyberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.956709,
+                        59.371824
+                  ]
+            },
+            {
+                  "name": "S:t Petrus Syrisk-Ortodoxa Kyrka",
+                  "text": "This Syriac Orthodox church serves the Christian community in the region.",
+                  "category": "religious",
+                  "coords": [
+                        17.969678,
+                        59.376094
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "Saint Matthew's Church is a notable religious building in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.04253,
+                        59.345318
+                  ]
+            },
+            {
+                  "name": "Bällstabro",
+                  "text": "Bällstabro is a key bridge connection in Solna.",
+                  "category": "landmark",
+                  "coords": [
+                        17.960722,
+                        59.360255
+                  ]
+            },
+            {
+                  "name": "Tranebergsbron",
+                  "text": "Tranebergsbron is a striking arch bridge connecting Solna with Bromma.",
+                  "category": "landmark",
+                  "coords": [
+                        17.99512,
+                        59.333436
+                  ]
+            },
+            {
+                  "name": "Ulriksdals naturreservat",
+                  "text": "Ulriksdal nature reserve offers vast green spaces and historic parklands.",
+                  "category": "natural",
+                  "coords": [
+                        18.010455,
+                        59.384202
+                  ]
+            },
+            {
+                  "name": "Frösundatoppen",
+                  "text": "Frösundatoppen offers a wide panoramic view over Solna and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.024842,
+                        59.366164
+                  ]
+            },
+            {
+                  "name": "Bellevueparken",
+                  "text": "Bellevue Park is a historic park area overlooking the Brunnsviken bay.",
+                  "category": "park",
+                  "coords": [
+                        18.049863,
+                        59.352969
+                  ]
+            },
+            {
+                  "name": "Vanadisplan",
+                  "text": "An urban square with green spaces in the Solna district.",
+                  "category": "park",
+                  "coords": [
+                        18.039667,
+                        59.345004
+                  ]
+            },
+            {
+                  "name": "Bergianska trädgården",
+                  "text": "The Bergius Botanical Garden displays an impressive variety of plant species.",
+                  "category": "park",
+                  "coords": [
+                        18.044793,
+                        59.368607
+                  ]
+            },
+            {
+                  "name": "Sankt Eriksparken",
+                  "text": "A local park in Solna offering a green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        18.042865,
+                        59.349034
+                  ]
+            },
+            {
+                  "name": "Tornparken",
+                  "text": "Tornparken is a popular green space in Sundbyberg near Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.967365,
+                        59.36544
+                  ]
+            },
+            {
+                  "name": "Artur Lundkvists park",
+                  "text": "A park in Solna named after the writer Artur Lundkvist.",
+                  "category": "park",
+                  "coords": [
+                        17.98054,
+                        59.365652
+                  ]
+            },
+            {
+                  "name": "Pelouse",
+                  "text": "The Pelouse is a vast lawn area in the famous Haga Park.",
+                  "category": "park",
+                  "coords": [
+                        18.034969,
+                        59.363332
+                  ]
+            },
+            {
+                  "name": "Tuvanparken",
+                  "text": "Tuvanparken is a peaceful green space by the water in Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.965932,
+                        59.358378
+                  ]
+            },
+            {
+                  "name": "Kristinebergs strandpark",
+                  "text": "A modern waterfront park in Solna with recreation and swimming areas.",
+                  "category": "park",
+                  "coords": [
+                        18.002548,
+                        59.337227
+                  ]
+            },
+            {
+                  "name": "Solparken",
+                  "text": "A small, sunny park in the heart of Solna.",
+                  "category": "park",
+                  "coords": [
+                        17.993104,
+                        59.365697
+                  ]
+            },
+            {
+                  "name": "Brovaktarparken",
+                  "text": "A public park located in Solna, providing a green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        18.011238,
+                        59.340118
+                  ]
+            },
+            {
+                  "name": "Nelly Sachs Park",
+                  "text": "A park in Solna named after the Nobel Prize-winning poet Nelly Sachs.",
+                  "category": "park",
+                  "coords": [
+                        18.008412,
+                        59.339055
+                  ]
+            },
+            {
+                  "name": "Hornsbergs strandpark",
+                  "text": "A modern waterfront park offering walking paths and scenic views by the water.",
+                  "category": "park",
+                  "coords": [
+                        18.007855,
+                        59.340396
+                  ]
+            },
+            {
+                  "name": "Lindhagens kulle",
+                  "text": "A memorial garden located within the Northern Cemetery in Solna.",
+                  "category": "park",
+                  "coords": [
+                        18.018541,
+                        59.356109
+                  ]
+            },
+            {
+                  "name": "Eric Grates park",
+                  "text": "A public park in Solna named after the Swedish sculptor Eric Grate.",
+                  "category": "park",
+                  "coords": [
+                        18.001483,
+                        59.3581
+                  ]
+            },
+            {
+                  "name": "Mikaelskapellet",
+                  "text": "A small chapel in Solna used for religious services and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        18.032942,
+                        59.342573
+                  ]
+            },
+            {
+                  "name": "Katolska kyrkogårdens kapell",
+                  "text": "A chapel located within the Catholic cemetery in Solna.",
+                  "category": "religious",
+                  "coords": [
+                        18.028953,
+                        59.35716
+                  ]
+            },
+            {
+                  "name": "Maria Wines park",
+                  "text": "A local park in Solna dedicated to the Swedish writer and poet Maria Wine.",
+                  "category": "park",
+                  "coords": [
+                        17.986155,
+                        59.366666
+                  ]
+            },
+            {
+                  "name": "Hembygdsmuseum",
+                  "text": "A local history museum in Solna showcasing the cultural heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        17.998915,
+                        59.363349
+                  ]
+            },
+            {
+                  "name": "Maria Vulfovitch Gallery",
+                  "text": "An art gallery in Solna featuring contemporary works and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        18.046326,
+                        59.34738
+                  ]
+            },
+            {
+                  "name": "Beeg Gallery",
+                  "text": "A private art gallery in Solna showcasing various artistic expressions.",
+                  "category": "museum",
+                  "coords": [
+                        18.038701,
+                        59.346299
+                  ]
+            },
+            {
+                  "name": "Galerie Nordenhake",
+                  "text": "A well-known contemporary art gallery with a location in the Solna/Stockholm area.",
+                  "category": "museum",
+                  "coords": [
+                        18.037745,
+                        59.345802
+                  ]
+            },
+            {
+                  "name": "Nordic Art",
+                  "text": "An art gallery in Solna focusing on modern and contemporary Nordic art.",
+                  "category": "museum",
+                  "coords": [
+                        18.035726,
+                        59.341216
+                  ]
+            },
+            {
+                  "name": "PF Event",
+                  "text": "A gallery and event space in Solna hosting various art exhibitions and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        17.999102,
+                        59.334872
+                  ]
+            },
+            {
+                  "name": "The Cell",
+                  "text": "A modern art space in Solna dedicated to exhibitions and creative displays.",
+                  "category": "museum",
+                  "coords": [
+                        18.032283,
+                        59.347642
+                  ]
+            },
+            {
+                  "name": "SOLKUNGEN",
+                  "text": "An ancient archaeological site in Solna featuring historical remains.",
+                  "category": "historical",
+                  "coords": [
+                        18.036902,
+                        59.3613
+                  ]
+            },
+            {
+                  "name": "Stallgrunden",
+                  "text": "An archaeological site in Solna preserving traces of past human activity.",
+                  "category": "historical",
+                  "coords": [
+                        18.031486,
+                        59.361961
+                  ]
+            },
+            {
+                  "name": "Neptuni tempel",
+                  "text": "A small ornamental building in the form of a temple in Solna's Haga Park.",
+                  "category": "historical",
+                  "coords": [
+                        18.020181,
+                        59.342518
                   ]
             }
       ]
@@ -4004,6 +26207,150 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.214256,
                         59.363266
                   ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "Das Museum präsentiert das kulturelle Erbe und die Geschichte der Insel Lidingö.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "Ein Naturschutzgebiet auf Lidingö mit reicher Flora und historischen Parkanlagen.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "Eine antike Begräbnisstätte auf Lidingö aus der nordischen Bronzezeit.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "Das ehemalige Wohnhaus und Atelier des Bildhauers Carl Milles ist heute ein Kunstmuseum.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "Ein Park auf Lidingö, der den Verbindungen zwischen Schweden und Finnland gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "Ein Denkmal zu Ehren des berühmten jährlichen Geländelaufs auf Lidingö.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "Ein Denkmal für die humanitären Taten von Raoul Wallenberg, der auf Lidingö geboren wurde.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet startplats",
+                  "text": "Eine Gedenktafel am Startpunkt des weltweit größten Geländelaufs.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "Eine historische Windmühle auf der Insel Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "Ein Aussichtspunkt an der Bucht Grönstaviken mit Blick auf das Wasser.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "Eine öffentliche Skulptur auf Lidingö, die als lokales Denkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "Die evangelisch-lutherische Hauptkirche der Gemeinde Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "Eine im Jugendstil errichtete Backsteinkirche im Stockholmer Stadtteil Hjorthagen.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Ein modernes Kirchengebäude der Unierten Kirche Schwedens auf Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "Diese Brücke verbindet die Insel Lidingö mit dem Stockholmer Festland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "Eine neue kombinierte Brücke für Fußgänger, Radfahrer und die Lidingö-Bahn.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
+                  ]
             }
       ],
       "hu": [
@@ -4023,6 +26370,150 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.214256,
                         59.363266
+                  ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "A múzeum Lidingö szigetének kulturális örökségét és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "Természetvédelmi terület Lidingőn gazdag flórával és történelmi parkokkal.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "Ősi temetkezési hely Lidingőn az északi bronzkorból.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "Carl Milles szobrászművész egykori otthona és műterme ma művészeti múzeum.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "Lidingö egyik parkja, amelyet a Svédország és Finnország közötti kapcsolatoknak szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "Emlékmű a híres éves Lidingö-mezei futóverseny tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "Emlékmű a Lidingőn született Raoul Wallenberg humanitárius tetteinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet startplats",
+                  "text": "Emlékkő a világ legnagyobb mezei futóversenyének rajtjánál.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "Történelmi szélmalom Lidingö szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "Kilátóhely a Grönstaviken-öbölnél, kilátással a vízre.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "Köztéri szobor Lidingőn, amely helyi emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "Lidingö egyházközség fő evangélikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "Szecessziós stílusú téglatemplom Stockholm Hjorthagen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A Svédországi Egyesült Egyház modern templomépülete Lidingőn.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "Ez a híd köti össze Lidingö szigetét Stockholm szárazföldi részével.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "Új kombinált híd gyalogosok, kerékpárosok és a Lidingö-vasút számára.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
                   ]
             }
       ],
@@ -4044,6 +26535,150 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.214256,
                         59.363266
                   ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "Muzeul prezintă moștenirea culturală și istoria insulei Lidingö.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "O rezervație naturală pe Lidingö, cu floră bogată și parcuri istorice.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "Un sit funerar antic pe Lidingö datând din epoca bronzului.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "Fosta casă și atelier al sculptorului Carl Milles este astăzi un muzeu de artă.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "Un parc pe Lidingö dedicat legăturilor dintre Suedia și Finlanda.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "Un monument onorând faimoasa cursă anuală de cros de pe Lidingö.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "Un monument dedicat faptelor umanitare ale lui Raoul Wallenberg, care s-a născut pe Lidingö.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet startplats",
+                  "text": "O piatră memorială la punctul de start al celei mai mari curse de cros din lume.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "O moară de vânt istorică pe insula Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "Un punct de belvedere la golful Grönstaviken, cu vedere spre apă.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "O sculptură publică pe Lidingö care servește ca monument local.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "Biserica evanghelică-luterană principală a parohiei Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "O biserică de cărămidă în stil Art Nouveau în districtul Hjorthagen din Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "O clădire modernă a bisericii aparținând Bisericii Unite din Suedia, pe Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "Acest pod face legătura între insula Lidingö și partea continentală a Stockholmului.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "Un pod nou combinat pentru pietoni, bicicliști și trenul ușor Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
+                  ]
             }
       ],
       "en": [
@@ -4063,6 +26698,150 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.214256,
                         59.363266
+                  ]
+            },
+            {
+                  "name": "Lidingö museum",
+                  "text": "The museum presents the cultural heritage and history of Lidingö island.",
+                  "category": "museum",
+                  "coords": [
+                        18.136017,
+                        59.366705
+                  ]
+            },
+            {
+                  "name": "Kappsta",
+                  "text": "A nature reserve on Lidingö with rich flora and historical parklands.",
+                  "category": "natural",
+                  "coords": [
+                        18.167534,
+                        59.340533
+                  ]
+            },
+            {
+                  "name": "Gravröse från bronsåldern",
+                  "text": "An ancient burial site on Lidingö dating from the Nordic Bronze Age.",
+                  "category": "historical",
+                  "coords": [
+                        18.097281,
+                        59.362498
+                  ]
+            },
+            {
+                  "name": "Millesgården",
+                  "text": "The former home and studio of sculptor Carl Milles is now an art museum.",
+                  "category": "landmark",
+                  "coords": [
+                        18.121449,
+                        59.358959
+                  ]
+            },
+            {
+                  "name": "Finlandsparken",
+                  "text": "A park on Lidingö dedicated to the connections between Sweden and Finland.",
+                  "category": "park",
+                  "coords": [
+                        18.10592,
+                        59.348227
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet",
+                  "text": "A monument honoring the famous annual cross-country running race on Lidingö.",
+                  "category": "historical",
+                  "coords": [
+                        18.156221,
+                        59.378653
+                  ]
+            },
+            {
+                  "name": "Raul Wallenbergs gärning-",
+                  "text": "A monument dedicated to the humanitarian deeds of Raoul Wallenberg, who was born on Lidingö.",
+                  "category": "historical",
+                  "coords": [
+                        18.134455,
+                        59.365323
+                  ]
+            },
+            {
+                  "name": "Lidingöloppet start stone",
+                  "text": "A commemorative stone at the starting point of the world's largest cross-country race.",
+                  "category": "historical",
+                  "coords": [
+                        18.176615,
+                        59.360199
+                  ]
+            },
+            {
+                  "name": "Näsets kvarn",
+                  "text": "A historical windmill located on the island of Lidingö.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151936,
+                        59.367685
+                  ]
+            },
+            {
+                  "name": "Grönstaviken",
+                  "text": "A viewpoint by the Grönstaviken bay with views over the water.",
+                  "category": "natural",
+                  "coords": [
+                        18.165533,
+                        59.37834
+                  ]
+            },
+            {
+                  "name": "Ögat--",
+                  "text": "A public sculpture on Lidingö serving as a local monument.",
+                  "category": "historical",
+                  "coords": [
+                        18.132814,
+                        59.364436
+                  ]
+            },
+            {
+                  "name": "Lidingö kyrka",
+                  "text": "The main Evangelical Lutheran church of the Lidingö parish.",
+                  "category": "religious",
+                  "coords": [
+                        18.157313,
+                        59.366769
+                  ]
+            },
+            {
+                  "name": "Hjorthagens kyrka",
+                  "text": "An Art Nouveau brick church located in the Hjorthagen district of Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.10333,
+                        59.354947
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A modern church building belonging to the Uniting Church in Sweden on Lidingö.",
+                  "category": "religious",
+                  "coords": [
+                        18.132435,
+                        59.365657
+                  ]
+            },
+            {
+                  "name": "Lidingöbron",
+                  "text": "This bridge connects the island of Lidingö with the Stockholm mainland.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110489,
+                        59.360308
+                  ]
+            },
+            {
+                  "name": "Lilla Lidingöbron",
+                  "text": "A new combined bridge for pedestrians, cyclists, and the Lidingö light rail.",
+                  "category": "landmark",
+                  "coords": [
+                        18.110119,
+                        59.361271
                   ]
             }
       ]
@@ -4139,6 +26918,159 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.188795,
                         59.307733
                   ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "Ein markanter Leuchtturm an der Küste von Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "Ein kleiner Leuchtturm im Schärengarten von Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "Ein renommiertes Kunstmuseum in Nacka, das ehemalige Wohnhaus von Prinz Eugen.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "Eine Kunstgalerie in Nacka, bekannt für ihre Sammlung nordischer Kunst der Jahrhundertwende.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "Ein gut erhaltenes Rokoko-Sommerhaus und Schlösschen in Nacka.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "Ein Naturschutzgebiet in Nacka mit Wanderwegen durch unberührte Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "Ein Kulturzentrum in Nacka, das Theateraufführungen und Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "Ein Leuchtturm in der Gemeinde Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "Ein Museum für traditionelle Boote in Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "Eine Bucht der Ostsee im Gebiet von Nacka und Stockholm.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "Frihetens Port",
+                  "text": "Ein Denkmal in Nacka, das estnischen Flüchtlingen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "Ein Hügel und Wohngebiet in der Gemeinde Nacka.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "Eine historische Ölmühle und Windmühle bei Waldemarsudde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Historische Ruinen in der Gemeinde Nacka.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "Ein lokaler Teich und eine Sehenswürdigkeit in Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "Eine Kunstgalerie in der Gemeinde Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "Die Hauptkirche der Kirchengemeinde Nacka.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
+                  ]
             }
       ],
       "hu": [
@@ -4167,6 +27099,159 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.188795,
                         59.307733
+                  ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "Jellegzetes világítótorony Nacka partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "Kisméretű világítótorony Nacka szigetvilágában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "Híres művészeti múzeum Nackában, Jenő herceg egykori otthona.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "Művészeti galéria Nackában, amely századfordulós északi művészeti gyűjteményéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "Jó állapotban fennmaradt rokokó nyári lak és kastély Nackában.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "Természetvédelmi terület Nackában, érintetlen erdőkön átvezető túraútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "Kulturális központ Nackában, amely színházi előadásoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "Egy világítótorony Nacka községben.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "Hagyományos hajókat bemutató múzeum Nackában.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "A Balti-tenger egyik öble Nacka és Stockholm térségében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "Frihetens Port",
+                  "text": "Észt menekülteknek szentelt emlékmű Nackában.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "Domb és lakónegyed Nacka községben.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "Történelmi olajmalom és szélmalom Waldemarsuddénál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Történelmi romok Nacka községben.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "Helyi tó és látnivaló Nackában.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "Művészeti galéria Nacka községben.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "Nacka egyházközségének főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
                   ]
             }
       ],
@@ -4197,6 +27282,159 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.188795,
                         59.307733
                   ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "Un far distinctiv pe coasta localității Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "Un mic far în arhipelagul localității Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "Un renumit muzeu de artă în Nacka, fosta reședință a Prințului Eugen.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "O galerie de artă în Nacka, cunoscută pentru colecția sa de artă nordică de la începutul secolului.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "O casă de vară în stil rococo și un mic castel bine conservat în Nacka.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "O rezervație naturală în Nacka, cu trasee de drumeție prin păduri virgine.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "Un centru cultural în Nacka, care găzduiește spectacole de teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "Un far în comuna Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "Un muzeu dedicat ambarcațiunilor tradiționale în Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "Un golf la Marea Baltică în zona Nacka și Stockholm.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "Frihetens Port",
+                  "text": "Un monument în Nacka dedicat refugiaților estonieni.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "Un deal și zonă rezidențială în comuna Nacka.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "O moară de ulei și moară de vânt istorică la Waldemarsudde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Ruine istorice în comuna Nacka.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "Un iaz local și punct de atracție în Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "O galerie de artă în comuna Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "Biserica principală a parohiei Nacka.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
+                  ]
             }
       ],
       "en": [
@@ -4225,6 +27463,159 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.188795,
                         59.307733
+                  ]
+            },
+            {
+                  "name": "Blockhusudden",
+                  "text": "A prominent lighthouse on the coast of Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.154908,
+                        59.320767
+                  ]
+            },
+            {
+                  "name": "Libertus",
+                  "text": "A small lighthouse in the Nacka archipelago.",
+                  "category": "landmark",
+                  "coords": [
+                        18.176414,
+                        59.332282
+                  ]
+            },
+            {
+                  "name": "Prins Eugens Waldemarsudde",
+                  "text": "A renowned art museum in Nacka, the former home of Prince Eugen.",
+                  "category": "museum",
+                  "coords": [
+                        18.114554,
+                        59.320222
+                  ]
+            },
+            {
+                  "name": "Thielska galleriet",
+                  "text": "An art gallery in Nacka, known for its collection of Nordic art from the turn of the century.",
+                  "category": "museum",
+                  "coords": [
+                        18.148629,
+                        59.322297
+                  ]
+            },
+            {
+                  "name": "Svindersvik",
+                  "text": "A well-preserved rococo summer house and small castle in Nacka.",
+                  "category": "castle",
+                  "coords": [
+                        18.130502,
+                        59.310216
+                  ]
+            },
+            {
+                  "name": "Ryssbergens naturreservat",
+                  "text": "A nature reserve in Nacka with hiking trails through untouched forests.",
+                  "category": "natural",
+                  "coords": [
+                        18.14686,
+                        59.313152
+                  ]
+            },
+            {
+                  "name": "Dieselverkstaden",
+                  "text": "A cultural centre in Nacka hosting theatre performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.120744,
+                        59.305493
+                  ]
+            },
+            {
+                  "name": "AGA-fyren",
+                  "text": "A lighthouse located in the Nacka municipality.",
+                  "category": "landmark",
+                  "coords": [
+                        18.151491,
+                        59.303455
+                  ]
+            },
+            {
+                  "name": "Allmogebåtarna",
+                  "text": "A museum dedicated to traditional boats in Nacka.",
+                  "category": "museum",
+                  "coords": [
+                        18.176523,
+                        59.328755
+                  ]
+            },
+            {
+                  "name": "Saltsjön",
+                  "text": "A bay of the Baltic Sea in the Nacka and Stockholm area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.128893,
+                        59.319794
+                  ]
+            },
+            {
+                  "name": "The Freedom Gate",
+                  "text": "A monument in Nacka dedicated to Estonian refugees.",
+                  "category": "historical",
+                  "coords": [
+                        18.133498,
+                        59.322052
+                  ]
+            },
+            {
+                  "name": "Finnberget",
+                  "text": "A hill and residential area in the Nacka municipality.",
+                  "category": "natural",
+                  "coords": [
+                        18.126899,
+                        59.31404
+                  ]
+            },
+            {
+                  "name": "Waldemarsuddes oljekvarn",
+                  "text": "A historic oil mill and windmill at Waldemarsudde.",
+                  "category": "landmark",
+                  "coords": [
+                        18.116126,
+                        59.320103
+                  ]
+            },
+            {
+                  "name": "Värn",
+                  "text": "Historic ruins located in the Nacka municipality.",
+                  "category": "historical",
+                  "coords": [
+                        18.182399,
+                        59.302906
+                  ]
+            },
+            {
+                  "name": "Björkhagendammen",
+                  "text": "A local pond and attraction in Nacka.",
+                  "category": "landmark",
+                  "coords": [
+                        18.123417,
+                        59.293197
+                  ]
+            },
+            {
+                  "name": "Ground",
+                  "text": "An art gallery in the Nacka municipality.",
+                  "category": "museum",
+                  "coords": [
+                        18.108946,
+                        59.306018
+                  ]
+            },
+            {
+                  "name": "Nacka kyrka",
+                  "text": "The main church of the Nacka parish.",
+                  "category": "religious",
+                  "coords": [
+                        18.142914,
+                        59.307266
                   ]
             }
       ]
@@ -4283,6 +27674,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.063191,
                         59.521069
                   ]
+            },
+            {
+                  "name": "Arkils Tingstad",
+                  "text": "Ein historischer Versammlungsplatz aus der Wikingerzeit in der Nähe des Vallentuna-Sees.",
+                  "category": "historical",
+                  "coords": [
+                        18.053842,
+                        59.515955
+                  ]
+            },
+            {
+                  "name": "Gullbron",
+                  "text": "Eine archäologische Stätte in Vallentuna mit einer antiken Steinbrückenkonstruktion.",
+                  "category": "historical",
+                  "coords": [
+                        18.034112,
+                        59.543281
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Ein antikes Gräberfeld in Vallentuna, das aus früheren historischen Perioden stammt.",
+                  "category": "historical",
+                  "coords": [
+                        18.091781,
+                        59.535182
+                  ]
+            },
+            {
+                  "name": "Väsby gravfält",
+                  "text": "Ein historisches Gräberfeld im Gebiet Väsby in Vallentuna.",
+                  "category": "historical",
+                  "coords": [
+                        18.065079,
+                        59.53373
+                  ]
+            },
+            {
+                  "name": "Tellushallen, Vallentuna Teater",
+                  "text": "Ein Kulturzentrum in Vallentuna, das für Theateraufführungen und Sportveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        18.080699,
+                        59.533001
+                  ]
+            },
+            {
+                  "name": "Vallentuna 4H-Gård",
+                  "text": "Ein Bauernhof für Jugendliche und ein kleiner Zoo, in dem Besucher mit Haustieren interagieren können.",
+                  "category": "recreational",
+                  "coords": [
+                        18.067285,
+                        59.544537
+                  ]
+            },
+            {
+                  "name": "Väsby kvarn",
+                  "text": "Eine gut erhaltene historische Windmühle, die als lokales Wahrzeichen in Vallentuna dient.",
+                  "category": "landmark",
+                  "coords": [
+                        18.067228,
+                        59.533056
+                  ]
+            },
+            {
+                  "name": "Atelje Öga",
+                  "text": "Eine kleine Kunstgalerie in Vallentuna, die lokale kreative Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.076658,
+                        59.535428
+                  ]
+            },
+            {
+                  "name": "Vallentuna kyrka",
+                  "text": "Eine mittelalterliche Steinkirche in Vallentuna, bekannt für ihre historische Architektur und Runensteine.",
+                  "category": "religious",
+                  "coords": [
+                        18.07391,
+                        59.531343
+                  ]
             }
       ],
       "hu": [
@@ -4293,6 +27765,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.063191,
                         59.521069
+                  ]
+            },
+            {
+                  "name": "Arkils Tingstad",
+                  "text": "Történelmi viking kori gyülekezőhely és törvényszék a Vallentuna-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        18.053842,
+                        59.515955
+                  ]
+            },
+            {
+                  "name": "Gullbron",
+                  "text": "Régészeti lelőhely Vallentunában, amely egy ősi kőhíd maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        18.034112,
+                        59.543281
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Ősi temetkezési hely Vallentunában, amely korábbi történelmi korszakokból származik.",
+                  "category": "historical",
+                  "coords": [
+                        18.091781,
+                        59.535182
+                  ]
+            },
+            {
+                  "name": "Väsby gravfält",
+                  "text": "Történelmi temetkezési hely Vallentuna Väsby körzetében.",
+                  "category": "historical",
+                  "coords": [
+                        18.065079,
+                        59.53373
+                  ]
+            },
+            {
+                  "name": "Tellushallen, Vallentuna Teater",
+                  "text": "Vallentunai kulturális helyszín, amelyet színházi előadásokra és sporteseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        18.080699,
+                        59.533001
+                  ]
+            },
+            {
+                  "name": "Vallentuna 4H-Gård",
+                  "text": "Ifjúsági tanya és kisállatkert, ahol a látogatók háziállatokkal ismerkedhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        18.067285,
+                        59.544537
+                  ]
+            },
+            {
+                  "name": "Väsby kvarn",
+                  "text": "Jó állapotban megmaradt történelmi szélmalom, Vallentuna egyik helyi jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.067228,
+                        59.533056
+                  ]
+            },
+            {
+                  "name": "Atelje Öga",
+                  "text": "Vallentunai kis művészeti galéria, amely helyi alkotók munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.076658,
+                        59.535428
+                  ]
+            },
+            {
+                  "name": "Vallentuna kyrka",
+                  "text": "Középkori kőtemplom Vallentunában, amely történelmi építészetéről és rúnaköveiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        18.07391,
+                        59.531343
                   ]
             }
       ],
@@ -4305,6 +27858,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         18.063191,
                         59.521069
                   ]
+            },
+            {
+                  "name": "Arkils Tingstad",
+                  "text": "Un loc istoric de adunare din epoca vikingă, situat lângă lacul Vallentuna.",
+                  "category": "historical",
+                  "coords": [
+                        18.053842,
+                        59.515955
+                  ]
+            },
+            {
+                  "name": "Gullbron",
+                  "text": "Un sit arheologic din Vallentuna care prezintă construcția unui vechi pod de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        18.034112,
+                        59.543281
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Un vechi câmp funerar din Vallentuna, datând din perioade istorice timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        18.091781,
+                        59.535182
+                  ]
+            },
+            {
+                  "name": "Väsby gravfält",
+                  "text": "Un câmp funerar istoric situat în zona Väsby din Vallentuna.",
+                  "category": "historical",
+                  "coords": [
+                        18.065079,
+                        59.53373
+                  ]
+            },
+            {
+                  "name": "Tellushallen, Vallentuna Teater",
+                  "text": "Un loc cultural din Vallentuna folosit pentru spectacole de teatru și evenimente sportive.",
+                  "category": "cultural",
+                  "coords": [
+                        18.080699,
+                        59.533001
+                  ]
+            },
+            {
+                  "name": "Vallentuna 4H-Gård",
+                  "text": "O fermă orientată spre tineret și o mică grădină zoologică unde vizitatorii pot interacționa cu animale domestice.",
+                  "category": "recreational",
+                  "coords": [
+                        18.067285,
+                        59.544537
+                  ]
+            },
+            {
+                  "name": "Väsby kvarn",
+                  "text": "O moară de vânt istorică bine conservată, care servește ca punct de reper local în Vallentuna.",
+                  "category": "landmark",
+                  "coords": [
+                        18.067228,
+                        59.533056
+                  ]
+            },
+            {
+                  "name": "Atelje Öga",
+                  "text": "O mică galerie de artă din Vallentuna care expune lucrări creative locale.",
+                  "category": "museum",
+                  "coords": [
+                        18.076658,
+                        59.535428
+                  ]
+            },
+            {
+                  "name": "Vallentuna kyrka",
+                  "text": "O biserică de piatră medievală din Vallentuna, cunoscută pentru arhitectura sa istorică și pietrele runice.",
+                  "category": "religious",
+                  "coords": [
+                        18.07391,
+                        59.531343
+                  ]
             }
       ],
       "en": [
@@ -4315,6 +27949,87 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         18.063191,
                         59.521069
+                  ]
+            },
+            {
+                  "name": "Arkils Tingstad",
+                  "text": "A historical Viking Age thingstead and assembly site near Lake Vallentuna.",
+                  "category": "historical",
+                  "coords": [
+                        18.053842,
+                        59.515955
+                  ]
+            },
+            {
+                  "name": "Gullbron",
+                  "text": "An archaeological site in Vallentuna featuring an ancient stone bridge construction.",
+                  "category": "historical",
+                  "coords": [
+                        18.034112,
+                        59.543281
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "An ancient burial ground in Vallentuna dating back to earlier historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        18.091781,
+                        59.535182
+                  ]
+            },
+            {
+                  "name": "Väsby gravfält",
+                  "text": "A historical grave field located in the Väsby area of Vallentuna.",
+                  "category": "historical",
+                  "coords": [
+                        18.065079,
+                        59.53373
+                  ]
+            },
+            {
+                  "name": "Tellushallen, Vallentuna Teater",
+                  "text": "A cultural venue in Vallentuna used for theater performances and sports events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.080699,
+                        59.533001
+                  ]
+            },
+            {
+                  "name": "Vallentuna 4H-Gård",
+                  "text": "A youth-oriented farm and small zoo where visitors can interact with domestic animals.",
+                  "category": "recreational",
+                  "coords": [
+                        18.067285,
+                        59.544537
+                  ]
+            },
+            {
+                  "name": "Väsby kvarn",
+                  "text": "A well-preserved historical windmill serving as a local landmark in Vallentuna.",
+                  "category": "landmark",
+                  "coords": [
+                        18.067228,
+                        59.533056
+                  ]
+            },
+            {
+                  "name": "Atelje Öga",
+                  "text": "A small art gallery in Vallentuna showcasing local creative works.",
+                  "category": "museum",
+                  "coords": [
+                        18.076658,
+                        59.535428
+                  ]
+            },
+            {
+                  "name": "Vallentuna kyrka",
+                  "text": "A medieval stone church in Vallentuna known for its historical architecture and runes.",
+                  "category": "religious",
+                  "coords": [
+                        18.07391,
+                        59.531343
                   ]
             }
       ]
@@ -4382,6 +28097,123 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.96334,
                         59.499654
                   ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "Ein rekonstruierter Wikingerbauernhof, der das Leben in der Eisenzeit veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "Ein barockes Herrenhaus in Upplands Väsby, bekannt für seine Gartenarchitektur.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "Ein Schlossgebäude in Upplands Väsby mit historischer Bedeutung.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "Eine antike Grabstätte der Wikingerzeit in der Region Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "Ein archäologischer Fundplatz in Upplands Väsby mit antiken Überresten.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Ein historisches Gräberfeld mit Überresten aus vergangenen Epochen.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "Eine archäologische Stätte in Upplands Väsby mit historischen Grabhügeln.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Eine Ansammlung historischer Gräber in der Nähe von Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "Ein Kulturzentrum in Upplands Väsby, das Theater und Konzerte veranstaltet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "Eine Kunstgalerie, die zeitgenössische Werke in Upplands Väsby ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "Eine mittelalterliche Steinkirche in Upplands Väsby mit historischen Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "Diese historische Kirche in Upplands Väsby stammt ursprünglich aus dem 12. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "Ein modernes Kirchengebäude im Stadtteil Vilunda von Upplands Väsby.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
+                  ]
             }
       ],
       "hu": [
@@ -4401,6 +28233,123 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.96334,
                         59.499654
+                  ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "Rekonstruált viking gazdaság, amely a vaskori életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "Barokk kastély Upplands Väsbyben, amely kertépítészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "Kastélyépület Upplands Väsbyben, történelmi jelentőséggel.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "Ősi viking kori sírhely Upplands Väsby régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "Régészeti lelőhely Upplands Väsbyben, ókori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Történelmi sírmező múltbéli korszakok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "Régészeti lelőhely Upplands Väsbyben történelmi sírhalmokkal.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Történelmi sírok csoportja Upplands Väsby közelében.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "Kulturális központ Upplands Väsbyben, amely színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "Kortárs műveket bemutató művészeti galéria Upplands Väsbyben.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "Középkori kőtemplom Upplands Väsbyben, történelmi falfestményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "Ez a történelmi templom Upplands Väsbyben eredetileg a 12. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "Modern templomépület Upplands Väsby Vilunda negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
                   ]
             }
       ],
@@ -4422,6 +28371,123 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.96334,
                         59.499654
                   ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "O fermă vikingă reconstruită care ilustrează viața în epoca fierului.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "Un conac baroc în Upplands Väsby, cunoscut pentru arhitectura grădinilor sale.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "O clădire de castel în Upplands Väsby cu semnificație istorică.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "Un mormânt antic din epoca vikingă în regiunea Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "Un sit arheologic în Upplands Väsby cu vestigii antice.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "Un câmp funerar istoric cu vestigii din epoci trecute.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "Un sit arheologic în Upplands Väsby cu tumuli istorici.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "Un grup de morminte istorice în apropiere de Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "Un centru cultural în Upplands Väsby care găzduiește spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "O galerie de artă care expune lucrări contemporane în Upplands Väsby.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "O biserică medievală de piatră în Upplands Väsby, cu picturi murale istorice.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "Această biserică istorică din Upplands Väsby datează inițial din secolul al XII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "O clădire modernă de biserică în districtul Vilunda din Upplands Väsby.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
+                  ]
             }
       ],
       "en": [
@@ -4441,6 +28507,123 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.96334,
                         59.499654
+                  ]
+            },
+            {
+                  "name": "Vikingagården Gunnes gård",
+                  "text": "A reconstructed Viking farm that illustrates life during the Iron Age.",
+                  "category": "museum",
+                  "coords": [
+                        17.906797,
+                        59.508401
+                  ]
+            },
+            {
+                  "name": "Stora Väsby slott",
+                  "text": "A Baroque manor house in Upplands Väsby, known for its garden architecture.",
+                  "category": "castle",
+                  "coords": [
+                        17.905555,
+                        59.532364
+                  ]
+            },
+            {
+                  "name": "Edsby slott",
+                  "text": "A castle building in Upplands Väsby with historical significance.",
+                  "category": "castle",
+                  "coords": [
+                        17.868444,
+                        59.511208
+                  ]
+            },
+            {
+                  "name": "Vikingagrav",
+                  "text": "An ancient Viking Age burial site in the Upplands Väsby region.",
+                  "category": "historical",
+                  "coords": [
+                        17.906219,
+                        59.507312
+                  ]
+            },
+            {
+                  "name": "Zamores kulle",
+                  "text": "An archaeological site in Upplands Väsby featuring ancient remains.",
+                  "category": "historical",
+                  "coords": [
+                        17.893897,
+                        59.517331
+                  ]
+            },
+            {
+                  "name": "Gravfält",
+                  "text": "A historical burial field containing remains from past eras.",
+                  "category": "historical",
+                  "coords": [
+                        17.941928,
+                        59.528917
+                  ]
+            },
+            {
+                  "name": "Vilunda ättehage",
+                  "text": "An archaeological site in Upplands Väsby featuring historical burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        17.905336,
+                        59.51398
+                  ]
+            },
+            {
+                  "name": "Graves",
+                  "text": "A collection of historical graves near Upplands Väsby.",
+                  "category": "historical",
+                  "coords": [
+                        17.932412,
+                        59.50813
+                  ]
+            },
+            {
+                  "name": "Kulturhuset Messingen",
+                  "text": "A cultural center in Upplands Väsby hosting theater performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        17.901865,
+                        59.521121
+                  ]
+            },
+            {
+                  "name": "Väsby konsthall",
+                  "text": "An art gallery exhibiting contemporary works in Upplands Väsby.",
+                  "category": "museum",
+                  "coords": [
+                        17.914707,
+                        59.525746
+                  ]
+            },
+            {
+                  "name": "Eds kyrka",
+                  "text": "A medieval stone church in Upplands Väsby featuring historical murals.",
+                  "category": "religious",
+                  "coords": [
+                        17.868357,
+                        59.507878
+                  ]
+            },
+            {
+                  "name": "Hammarby kyrka",
+                  "text": "This historical church in Upplands Väsby dates back to the 12th century.",
+                  "category": "religious",
+                  "coords": [
+                        17.923425,
+                        59.537437
+                  ]
+            },
+            {
+                  "name": "Vilunda kyrka",
+                  "text": "A modern church building in the Vilunda district of Upplands Väsby.",
+                  "category": "religious",
+                  "coords": [
+                        17.91195,
+                        59.519571
                   ]
             }
       ]
@@ -5120,6 +29303,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.925466,
                         59.251797
                   ]
+            },
+            {
+                  "name": "Stensättra fornborg",
+                  "text": "Die Überreste einer antiken Wallburg in der Gemeinde Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.991749,
+                        59.214169
+                  ]
+            },
+            {
+                  "name": "Visättra fornborg",
+                  "text": "Eine prähistorische Wallburg in Huddinge, die als archäologisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.974242,
+                        59.221452
+                  ]
+            },
+            {
+                  "name": "Nyboda hembygds- och skolmuseum",
+                  "text": "Ein lokales Museum in Huddinge, das in einem alten Schulgebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.985362,
+                        59.238764
+                  ]
+            },
+            {
+                  "name": "Vistabergs Gårdsruin",
+                  "text": "Die archäologischen Überreste eines historischen Gutshofes in Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.948935,
+                        59.234225
+                  ]
+            },
+            {
+                  "name": "Huddinge aula",
+                  "text": "Ein Veranstaltungsort für Versammlungen und kulturelle Events in Huddinge.",
+                  "category": "cultural",
+                  "coords": [
+                        17.995344,
+                        59.243218
+                  ]
+            },
+            {
+                  "name": "Fullersta bio",
+                  "text": "Ein ehemaliges Kino in Huddinge, das heute als Kunst- und Kulturzentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        17.972705,
+                        59.240148
+                  ]
+            },
+            {
+                  "name": "Sjödalsparken",
+                  "text": "Ein zentraler Stadtpark in Huddinge mit Grünflächen für die Öffentlichkeit.",
+                  "category": "park",
+                  "coords": [
+                        17.98438,
+                        59.236602
+                  ]
+            },
+            {
+                  "name": "Rådsparken",
+                  "text": "Ein beliebter Park in Huddinge mit einem Streichelzoo und Spielplätzen.",
+                  "category": "park",
+                  "coords": [
+                        17.987345,
+                        59.240902
+                  ]
+            },
+            {
+                  "name": "fd torpet Stensberg",
+                  "text": "Die Ruinen einer ehemaligen kleinen Kate namens Stensberg in Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.981831,
+                        59.203541
+                  ]
+            },
+            {
+                  "name": "Untsikstsplats Solgårds fornborg",
+                  "text": "Ein Aussichtspunkt bei der alten Wallburg Solgård in Huddinge.",
+                  "category": "natural",
+                  "coords": [
+                        17.974941,
+                        59.224315
+                  ]
+            },
+            {
+                  "name": "fd torpet Gullarängen",
+                  "text": "Die Überreste des historischen Katen Gullarängen in der Gegend von Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.998276,
+                        59.205206
+                  ]
+            },
+            {
+                  "name": "Huset",
+                  "text": "Ein lokales Kultur- und Kunstzentrum in Huddinge.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99294,
+                        59.230889
+                  ]
+            },
+            {
+                  "name": "Huddinge kyrka",
+                  "text": "Eine bedeutende Kirche in Huddinge mit mittelalterlichen Ursprüngen.",
+                  "category": "religious",
+                  "coords": [
+                        17.985222,
+                        59.240055
+                  ]
+            },
+            {
+                  "name": "Flemingsbergs kyrka",
+                  "text": "Ein moderner Kirchenbau im Stadtteil Flemingsberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.93886,
+                        59.223556
+                  ]
             }
       ],
       "hu": [
@@ -5139,6 +29448,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.925466,
                         59.251797
+                  ]
+            },
+            {
+                  "name": "Stensättra fornborg",
+                  "text": "Egy ókori erődítmény maradványai Huddinge községben.",
+                  "category": "historical",
+                  "coords": [
+                        17.991749,
+                        59.214169
+                  ]
+            },
+            {
+                  "name": "Visättra fornborg",
+                  "text": "Huddingei őskori erődítmény, amely régészeti emlékként védett.",
+                  "category": "historical",
+                  "coords": [
+                        17.974242,
+                        59.221452
+                  ]
+            },
+            {
+                  "name": "Nyboda hembygds- och skolmuseum",
+                  "text": "Huddinge helytörténeti múzeuma, amely egy régi iskolaépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        17.985362,
+                        59.238764
+                  ]
+            },
+            {
+                  "name": "Vistabergs Gårdsruin",
+                  "text": "Egy történelmi udvarház régészeti maradványai Huddingében.",
+                  "category": "historical",
+                  "coords": [
+                        17.948935,
+                        59.234225
+                  ]
+            },
+            {
+                  "name": "Huddinge aula",
+                  "text": "Gyűlések és kulturális események helyszíne Huddingében.",
+                  "category": "cultural",
+                  "coords": [
+                        17.995344,
+                        59.243218
+                  ]
+            },
+            {
+                  "name": "Fullersta bio",
+                  "text": "Egykori mozi Huddingében, amely ma művészeti és kulturális központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        17.972705,
+                        59.240148
+                  ]
+            },
+            {
+                  "name": "Sjödalsparken",
+                  "text": "Központi városi park Huddingében nyilvános zöldfelületekkel.",
+                  "category": "park",
+                  "coords": [
+                        17.98438,
+                        59.236602
+                  ]
+            },
+            {
+                  "name": "Rådsparken",
+                  "text": "Népszerű park Huddingében állatsimogatóval és játszóterekkel.",
+                  "category": "park",
+                  "coords": [
+                        17.987345,
+                        59.240902
+                  ]
+            },
+            {
+                  "name": "fd torpet Stensberg",
+                  "text": "Egykori kis kunyhó, a Stensberg romjai Huddingében.",
+                  "category": "historical",
+                  "coords": [
+                        17.981831,
+                        59.203541
+                  ]
+            },
+            {
+                  "name": "Untsikstsplats Solgårds fornborg",
+                  "text": "Kilátóhely a huddingei Solgård ősi erődítményénél.",
+                  "category": "natural",
+                  "coords": [
+                        17.974941,
+                        59.224315
+                  ]
+            },
+            {
+                  "name": "fd torpet Gullarängen",
+                  "text": "A történelmi Gullarängen kunyhó maradványai Huddinge környékén.",
+                  "category": "historical",
+                  "coords": [
+                        17.998276,
+                        59.205206
+                  ]
+            },
+            {
+                  "name": "Huset",
+                  "text": "Helyi kulturális és művészeti központ Huddinge városában.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99294,
+                        59.230889
+                  ]
+            },
+            {
+                  "name": "Huddinge kyrka",
+                  "text": "Huddinge egyik jelentős, középkori eredetű temploma.",
+                  "category": "religious",
+                  "coords": [
+                        17.985222,
+                        59.240055
+                  ]
+            },
+            {
+                  "name": "Flemingsbergs kyrka",
+                  "text": "Modern templomépület Flemingsberg városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        17.93886,
+                        59.223556
                   ]
             }
       ],
@@ -5160,6 +29595,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                         17.925466,
                         59.251797
                   ]
+            },
+            {
+                  "name": "Stensättra fornborg",
+                  "text": "Vestigiile unei cetăți antice în comuna Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.991749,
+                        59.214169
+                  ]
+            },
+            {
+                  "name": "Visättra fornborg",
+                  "text": "O cetate preistorică în Huddinge, protejată ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        17.974242,
+                        59.221452
+                  ]
+            },
+            {
+                  "name": "Nyboda hembygds- och skolmuseum",
+                  "text": "Un muzeu local în Huddinge, situat într-o veche clădire de școală.",
+                  "category": "museum",
+                  "coords": [
+                        17.985362,
+                        59.238764
+                  ]
+            },
+            {
+                  "name": "Vistabergs Gårdsruin",
+                  "text": "Vestigiile arheologice ale unui fost conac istoric în Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.948935,
+                        59.234225
+                  ]
+            },
+            {
+                  "name": "Huddinge aula",
+                  "text": "O locație pentru adunări și evenimente culturale în Huddinge.",
+                  "category": "cultural",
+                  "coords": [
+                        17.995344,
+                        59.243218
+                  ]
+            },
+            {
+                  "name": "Fullersta bio",
+                  "text": "Un fost cinematograf în Huddinge care servește astăzi drept centru cultural și de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        17.972705,
+                        59.240148
+                  ]
+            },
+            {
+                  "name": "Sjödalsparken",
+                  "text": "Un parc urban central în Huddinge cu spații verzi pentru public.",
+                  "category": "park",
+                  "coords": [
+                        17.98438,
+                        59.236602
+                  ]
+            },
+            {
+                  "name": "Rådsparken",
+                  "text": "Un parc popular în Huddinge, cu o mini-grădină zoologică și locuri de joacă.",
+                  "category": "park",
+                  "coords": [
+                        17.987345,
+                        59.240902
+                  ]
+            },
+            {
+                  "name": "fd torpet Stensberg",
+                  "text": "Ruinele unei foste căsuțe numite Stensberg în Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.981831,
+                        59.203541
+                  ]
+            },
+            {
+                  "name": "Untsikstsplats Solgårds fornborg",
+                  "text": "Un punct de belvedere lângă vechea cetate Solgård din Huddinge.",
+                  "category": "natural",
+                  "coords": [
+                        17.974941,
+                        59.224315
+                  ]
+            },
+            {
+                  "name": "fd torpet Gullarängen",
+                  "text": "Vestigiile colibei istorice Gullarängen în zona Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.998276,
+                        59.205206
+                  ]
+            },
+            {
+                  "name": "Huset",
+                  "text": "Un centru local de artă și cultură în Huddinge.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99294,
+                        59.230889
+                  ]
+            },
+            {
+                  "name": "Huddinge kyrka",
+                  "text": "O biserică importantă din Huddinge, cu origini medievale.",
+                  "category": "religious",
+                  "coords": [
+                        17.985222,
+                        59.240055
+                  ]
+            },
+            {
+                  "name": "Flemingsbergs kyrka",
+                  "text": "O clădire modernă de biserică în cartierul Flemingsberg.",
+                  "category": "religious",
+                  "coords": [
+                        17.93886,
+                        59.223556
+                  ]
             }
       ],
       "en": [
@@ -5179,6 +29740,132 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
                   "coords": [
                         17.925466,
                         59.251797
+                  ]
+            },
+            {
+                  "name": "Stensättra fornborg",
+                  "text": "The remains of an ancient hillfort in Huddinge municipality.",
+                  "category": "historical",
+                  "coords": [
+                        17.991749,
+                        59.214169
+                  ]
+            },
+            {
+                  "name": "Visättra fornborg",
+                  "text": "A prehistoric hillfort in Huddinge protected as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        17.974242,
+                        59.221452
+                  ]
+            },
+            {
+                  "name": "Nyboda hembygds- och skolmuseum",
+                  "text": "A local museum in Huddinge housed in an old school building.",
+                  "category": "museum",
+                  "coords": [
+                        17.985362,
+                        59.238764
+                  ]
+            },
+            {
+                  "name": "Vistabergs Gårdsruin",
+                  "text": "The archaeological remains of a historical manor farm in Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.948935,
+                        59.234225
+                  ]
+            },
+            {
+                  "name": "Huddinge aula",
+                  "text": "A venue for assemblies and cultural events in Huddinge.",
+                  "category": "cultural",
+                  "coords": [
+                        17.995344,
+                        59.243218
+                  ]
+            },
+            {
+                  "name": "Fullersta bio",
+                  "text": "A former cinema in Huddinge that now serves as an arts and culture center.",
+                  "category": "cultural",
+                  "coords": [
+                        17.972705,
+                        59.240148
+                  ]
+            },
+            {
+                  "name": "Sjödalsparken",
+                  "text": "A central urban park in Huddinge providing green spaces for the public.",
+                  "category": "park",
+                  "coords": [
+                        17.98438,
+                        59.236602
+                  ]
+            },
+            {
+                  "name": "Rådsparken",
+                  "text": "A popular park in Huddinge featuring a petting zoo and playgrounds.",
+                  "category": "park",
+                  "coords": [
+                        17.987345,
+                        59.240902
+                  ]
+            },
+            {
+                  "name": "fd torpet Stensberg",
+                  "text": "The ruins of a former small cottage named Stensberg in Huddinge.",
+                  "category": "historical",
+                  "coords": [
+                        17.981831,
+                        59.203541
+                  ]
+            },
+            {
+                  "name": "Untsikstsplats Solgårds fornborg",
+                  "text": "A viewpoint located at the ancient Solgård hillfort in Huddinge.",
+                  "category": "natural",
+                  "coords": [
+                        17.974941,
+                        59.224315
+                  ]
+            },
+            {
+                  "name": "fd torpet Gullarängen",
+                  "text": "The remains of the historical Gullarängen cottage in the Huddinge area.",
+                  "category": "historical",
+                  "coords": [
+                        17.998276,
+                        59.205206
+                  ]
+            },
+            {
+                  "name": "Huset",
+                  "text": "A local arts and culture centre in Huddinge.",
+                  "category": "cultural",
+                  "coords": [
+                        17.99294,
+                        59.230889
+                  ]
+            },
+            {
+                  "name": "Huddinge kyrka",
+                  "text": "A significant church in Huddinge with medieval origins.",
+                  "category": "religious",
+                  "coords": [
+                        17.985222,
+                        59.240055
+                  ]
+            },
+            {
+                  "name": "Flemingsbergs kyrka",
+                  "text": "A modern church building in the Flemingsberg district.",
+                  "category": "religious",
+                  "coords": [
+                        17.93886,
+                        59.223556
                   ]
             }
       ]
@@ -5227,7 +29914,628 @@ imageHint: "Massive waterfalls in Trollhättan during water release",
     image: "/poi-images/sweden-huddinge-cities-v2.webp",
   },
   {
-    id: "sweden-botkyrka-cities-v2",
+    id: "sweden-botkyrka-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ekholmen",
+                  "text": "Ein Naturschutzgebiet in der Gemeinde Botkyrka.",
+                  "category": "natural",
+                  "coords": [
+                        17.808661,
+                        59.226602
+                  ]
+            },
+            {
+                  "name": "Tumba Bruksmuseum",
+                  "text": "Ein Museum über die Geschichte der Papierfabrik Tumba Bruk.",
+                  "category": "museum",
+                  "coords": [
+                        17.817254,
+                        59.201314
+                  ]
+            },
+            {
+                  "name": "Botkyrka 203:1",
+                  "text": "Eine archäologische Fundstätte in der Gemeinde Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.828708,
+                        59.188347
+                  ]
+            },
+            {
+                  "name": "Botkyrka 355:1",
+                  "text": "Eine archäologische Stätte in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.831844,
+                        59.185644
+                  ]
+            },
+            {
+                  "name": "Botkyrka 357:1",
+                  "text": "Historische archäologische Überreste in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.832678,
+                        59.188083
+                  ]
+            },
+            {
+                  "name": "Botkyrka 193:1",
+                  "text": "Eine registrierte archäologische Stätte in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.86835,
+                        59.209033
+                  ]
+            },
+            {
+                  "name": "Tumbascenen",
+                  "text": "Eine Theaterbühne in Tumba, Botkyrka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.835401,
+                        59.201696
+                  ]
+            },
+            {
+                  "name": "Fornåker",
+                  "text": "Eine archäologische Fundstätte in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.819248,
+                        59.19925
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein Freilichttheater in der Gemeinde Botkyrka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.84483,
+                        59.193988
+                  ]
+            },
+            {
+                  "name": "Sven Tumbas park",
+                  "text": "Ein nach dem Sportler Sven Tumba benannter Park in Botkyrka.",
+                  "category": "park",
+                  "coords": [
+                        17.832645,
+                        59.20308
+                  ]
+            },
+            {
+                  "name": "Botkyrka 677",
+                  "text": "Überreste einer historischen Struktur in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.857156,
+                        59.195708
+                  ]
+            },
+            {
+                  "name": "Elverk 1900-1925",
+                  "text": "Ruinen eines ehemaligen Elektrizitätswerks aus dem frühen 20. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        17.860931,
+                        59.197115
+                  ]
+            },
+            {
+                  "name": "Mellantorp",
+                  "text": "Historische Ruinen in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.859142,
+                        59.191886
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "Ein Kirchengebäude im Zentrum von Tumba.",
+                  "category": "religious",
+                  "coords": [
+                        17.831723,
+                        59.198059
+                  ]
+            },
+            {
+                  "name": "Tumba Kyrka",
+                  "text": "Eine christliche Kirche in Tumba, Botkyrka.",
+                  "category": "religious",
+                  "coords": [
+                        17.826389,
+                        59.205644
+                  ]
+            },
+            {
+                  "name": "Ängskyrkan",
+                  "text": "Eine moderne Kirche in der Gemeinde Botkyrka.",
+                  "category": "religious",
+                  "coords": [
+                        17.833706,
+                        59.189129
+                  ]
+            },
+            {
+                  "name": "Hågelbyhus",
+                  "text": "Ein historisches Haus im Hågelby-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830894,
+                        59.220745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ekholmen",
+                  "text": "Természetvédelmi terület Botkyrka községben.",
+                  "category": "natural",
+                  "coords": [
+                        17.808661,
+                        59.226602
+                  ]
+            },
+            {
+                  "name": "Tumba Bruksmuseum",
+                  "text": "A Tumba Bruk papírgyár történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.817254,
+                        59.201314
+                  ]
+            },
+            {
+                  "name": "Botkyrka 203:1",
+                  "text": "Régészeti lelőhely Botkyrka községben.",
+                  "category": "historical",
+                  "coords": [
+                        17.828708,
+                        59.188347
+                  ]
+            },
+            {
+                  "name": "Botkyrka 355:1",
+                  "text": "Régészeti lelőhely Botkyrkában.",
+                  "category": "historical",
+                  "coords": [
+                        17.831844,
+                        59.185644
+                  ]
+            },
+            {
+                  "name": "Botkyrka 357:1",
+                  "text": "Történelmi régészeti maradványok Botkyrkában.",
+                  "category": "historical",
+                  "coords": [
+                        17.832678,
+                        59.188083
+                  ]
+            },
+            {
+                  "name": "Botkyrka 193:1",
+                  "text": "Bejegyzett régészeti lelőhely Botkyrkában.",
+                  "category": "historical",
+                  "coords": [
+                        17.86835,
+                        59.209033
+                  ]
+            },
+            {
+                  "name": "Tumbascenen",
+                  "text": "Színházi színpad Tumbában, Botkyrka községben.",
+                  "category": "cultural",
+                  "coords": [
+                        17.835401,
+                        59.201696
+                  ]
+            },
+            {
+                  "name": "Fornåker",
+                  "text": "Régészeti lelőhely Botkyrkában.",
+                  "category": "historical",
+                  "coords": [
+                        17.819248,
+                        59.19925
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Szabadtéri színház Botkyrka községben.",
+                  "category": "cultural",
+                  "coords": [
+                        17.84483,
+                        59.193988
+                  ]
+            },
+            {
+                  "name": "Sven Tumbas park",
+                  "text": "Sven Tumba sportolóról elnevezett park Botkyrkában.",
+                  "category": "park",
+                  "coords": [
+                        17.832645,
+                        59.20308
+                  ]
+            },
+            {
+                  "name": "Botkyrka 677",
+                  "text": "Történelmi építmény maradványai Botkyrkában.",
+                  "category": "historical",
+                  "coords": [
+                        17.857156,
+                        59.195708
+                  ]
+            },
+            {
+                  "name": "Elverk 1900-1925",
+                  "text": "Egy egykori, 20. század eleji villamosmű romjai.",
+                  "category": "historical",
+                  "coords": [
+                        17.860931,
+                        59.197115
+                  ]
+            },
+            {
+                  "name": "Mellantorp",
+                  "text": "Történelmi romok Botkyrkában.",
+                  "category": "historical",
+                  "coords": [
+                        17.859142,
+                        59.191886
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "Egy templomépület Tumba központjában.",
+                  "category": "religious",
+                  "coords": [
+                        17.831723,
+                        59.198059
+                  ]
+            },
+            {
+                  "name": "Tumba Kyrka",
+                  "text": "Keresztény templom Tumbában, Botkyrkában.",
+                  "category": "religious",
+                  "coords": [
+                        17.826389,
+                        59.205644
+                  ]
+            },
+            {
+                  "name": "Ängskyrkan",
+                  "text": "Modern templom Botkyrka községben.",
+                  "category": "religious",
+                  "coords": [
+                        17.833706,
+                        59.189129
+                  ]
+            },
+            {
+                  "name": "Hågelbyhus",
+                  "text": "Történelmi ház a Hågelby parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830894,
+                        59.220745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ekholmen",
+                  "text": "O rezervație naturală în comuna Botkyrka.",
+                  "category": "natural",
+                  "coords": [
+                        17.808661,
+                        59.226602
+                  ]
+            },
+            {
+                  "name": "Tumba Bruksmuseum",
+                  "text": "Un muzeu despre istoria fabricii de hârtie Tumba Bruk.",
+                  "category": "museum",
+                  "coords": [
+                        17.817254,
+                        59.201314
+                  ]
+            },
+            {
+                  "name": "Botkyrka 203:1",
+                  "text": "Un sit arheologic în comuna Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.828708,
+                        59.188347
+                  ]
+            },
+            {
+                  "name": "Botkyrka 355:1",
+                  "text": "Un sit arheologic în Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.831844,
+                        59.185644
+                  ]
+            },
+            {
+                  "name": "Botkyrka 357:1",
+                  "text": "Vestigii arheologice istorice în Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.832678,
+                        59.188083
+                  ]
+            },
+            {
+                  "name": "Botkyrka 193:1",
+                  "text": "Un sit arheologic înregistrat în Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.86835,
+                        59.209033
+                  ]
+            },
+            {
+                  "name": "Tumbascenen",
+                  "text": "O scenă de teatru în Tumba, Botkyrka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.835401,
+                        59.201696
+                  ]
+            },
+            {
+                  "name": "Fornåker",
+                  "text": "Un sit arheologic în Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.819248,
+                        59.19925
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Un amfiteatru în comuna Botkyrka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.84483,
+                        59.193988
+                  ]
+            },
+            {
+                  "name": "Sven Tumbas park",
+                  "text": "Un parc în Botkyrka numit după sportivul Sven Tumba.",
+                  "category": "park",
+                  "coords": [
+                        17.832645,
+                        59.20308
+                  ]
+            },
+            {
+                  "name": "Botkyrka 677",
+                  "text": "Vestigiile unei structuri istorice în Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.857156,
+                        59.195708
+                  ]
+            },
+            {
+                  "name": "Elverk 1900-1925",
+                  "text": "Ruinele unei foste uzine electrice de la începutul secolului XX.",
+                  "category": "historical",
+                  "coords": [
+                        17.860931,
+                        59.197115
+                  ]
+            },
+            {
+                  "name": "Mellantorp",
+                  "text": "Ruine istorice în Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.859142,
+                        59.191886
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "O clădire bisericească în centrul localității Tumba.",
+                  "category": "religious",
+                  "coords": [
+                        17.831723,
+                        59.198059
+                  ]
+            },
+            {
+                  "name": "Tumba Kyrka",
+                  "text": "O biserică creștină în Tumba, Botkyrka.",
+                  "category": "religious",
+                  "coords": [
+                        17.826389,
+                        59.205644
+                  ]
+            },
+            {
+                  "name": "Ängskyrkan",
+                  "text": "O biserică modernă în comuna Botkyrka.",
+                  "category": "religious",
+                  "coords": [
+                        17.833706,
+                        59.189129
+                  ]
+            },
+            {
+                  "name": "Hågelbyhus",
+                  "text": "O casă istorică în parcul Hågelby.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830894,
+                        59.220745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ekholmen",
+                  "text": "A nature reserve in the Botkyrka municipality.",
+                  "category": "natural",
+                  "coords": [
+                        17.808661,
+                        59.226602
+                  ]
+            },
+            {
+                  "name": "Tumba Bruksmuseum",
+                  "text": "A museum about the history of the Tumba Bruk paper mill.",
+                  "category": "museum",
+                  "coords": [
+                        17.817254,
+                        59.201314
+                  ]
+            },
+            {
+                  "name": "Botkyrka 203:1",
+                  "text": "An archaeological site in the Botkyrka municipality.",
+                  "category": "historical",
+                  "coords": [
+                        17.828708,
+                        59.188347
+                  ]
+            },
+            {
+                  "name": "Botkyrka 355:1",
+                  "text": "An archaeological site in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.831844,
+                        59.185644
+                  ]
+            },
+            {
+                  "name": "Botkyrka 357:1",
+                  "text": "Historic archaeological remains in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.832678,
+                        59.188083
+                  ]
+            },
+            {
+                  "name": "Botkyrka 193:1",
+                  "text": "A registered archaeological site in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.86835,
+                        59.209033
+                  ]
+            },
+            {
+                  "name": "Tumbascenen",
+                  "text": "A theatre stage in Tumba, Botkyrka.",
+                  "category": "cultural",
+                  "coords": [
+                        17.835401,
+                        59.201696
+                  ]
+            },
+            {
+                  "name": "Fornåker",
+                  "text": "An archaeological site in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.819248,
+                        59.19925
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "An open-air theatre in the Botkyrka municipality.",
+                  "category": "cultural",
+                  "coords": [
+                        17.84483,
+                        59.193988
+                  ]
+            },
+            {
+                  "name": "Sven Tumbas park",
+                  "text": "A park in Botkyrka named after the athlete Sven Tumba.",
+                  "category": "park",
+                  "coords": [
+                        17.832645,
+                        59.20308
+                  ]
+            },
+            {
+                  "name": "Botkyrka 677",
+                  "text": "Remains of a historic structure in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.857156,
+                        59.195708
+                  ]
+            },
+            {
+                  "name": "Elverk 1900-1925",
+                  "text": "Ruins of a former power plant from the early 20th century.",
+                  "category": "historical",
+                  "coords": [
+                        17.860931,
+                        59.197115
+                  ]
+            },
+            {
+                  "name": "Mellantorp",
+                  "text": "Historic ruins in Botkyrka.",
+                  "category": "historical",
+                  "coords": [
+                        17.859142,
+                        59.191886
+                  ]
+            },
+            {
+                  "name": "Centrumkyrkan",
+                  "text": "A church building in the center of Tumba.",
+                  "category": "religious",
+                  "coords": [
+                        17.831723,
+                        59.198059
+                  ]
+            },
+            {
+                  "name": "Tumba Kyrka",
+                  "text": "A Christian church in Tumba, Botkyrka.",
+                  "category": "religious",
+                  "coords": [
+                        17.826389,
+                        59.205644
+                  ]
+            },
+            {
+                  "name": "Ängskyrkan",
+                  "text": "A modern church in the Botkyrka municipality.",
+                  "category": "religious",
+                  "coords": [
+                        17.833706,
+                        59.189129
+                  ]
+            },
+            {
+                  "name": "Hågelbyhus",
+                  "text": "A historic house located in Hågelby Park.",
+                  "category": "landmark",
+                  "coords": [
+                        17.830894,
+                        59.220745
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SE",
     name: { de: "Botkyrka", hu: "Botkyrka", ro: "Botkyrka", en: "Botkyrka" },

@@ -173,7 +173,124 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "lospalos-cities-v2",
+    id: "lospalos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "New market",
+                  "text": "Ein lokaler Marktplatz in Lospalos, der als Zentrum für Handel und Begegnung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Fataluku House",
+                  "text": "Ein traditionelles Haus der Fataluku in Lospalos, bekannt für seine charakteristische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "Ein Denkmal in Lospalos, das den Helden der Region gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512434
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "New market",
+                  "text": "Helyi piactér Lospalosban, amely a kereskedelem és a találkozások központjaként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Fataluku House",
+                  "text": "Egy tradicionális fataluku ház Lospalosban, jellegzetes építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "Emlékmű Lospalosban, amelyet a régió hőseinek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512434
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "New market",
+                  "text": "O piață locală în Lospalos, care servește ca centru pentru comerț și întâlniri.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Fataluku House",
+                  "text": "O casă tradițională Fataluku din Lospalos, cunoscută pentru arhitectura sa caracteristică.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "Un monument în Lospalos dedicat eroilor regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512434
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "New market",
+                  "text": "A local marketplace in Lospalos serving as a center for trade and social gathering.",
+                  "category": "landmark",
+                  "coords": [
+                        127.003503,
+                        -8.51095
+                  ]
+            },
+            {
+                  "name": "Fataluku House",
+                  "text": "A traditional Fataluku house in Lospalos, known for its distinctive architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        126.998897,
+                        -8.521876
+                  ]
+            },
+            {
+                  "name": "Herois",
+                  "text": "A monument in Lospalos dedicated to the heroes of the region.",
+                  "category": "historical",
+                  "coords": [
+                        126.986537,
+                        -8.512434
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-LA",
     coords: [126.9961, -8.5186],
@@ -393,7 +510,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "aileu-cities-v2",
+    id: "aileu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "Das Jardim ADS Massacre do Aileu ist ein Denkmal in Aileu.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "A Jardim ADS Massacre do Aileu egy emlékmű Aileu városában.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "Jardim ADS Massacre do Aileu este un monument situat în Aileu.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jardim ADS Massacre do Aileu",
+                  "text": "Jardim ADS Massacre do Aileu is a monument located in Aileu.",
+                  "category": "historical",
+                  "coords": [
+                        125.567365,
+                        -8.731301
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-AL",
     coords: [125.5664, -8.7281],
@@ -701,7 +863,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "tutuala-cities-v2",
+    id: "tutuala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lost world",
+                  "text": "Ein Aussichtspunkt in Tutuala, der weite Blicke über die unberührte Natur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lost world",
+                  "text": "Kilátópont Tutualában, amely tágas kilátást nyújt az érintetlen természetre.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lost world",
+                  "text": "Un punct de belvedere în Tutuala, care oferă vederi largi asupra naturii virgine.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lost world",
+                  "text": "A viewpoint in Tutuala offering expansive views over the untouched nature.",
+                  "category": "natural",
+                  "coords": [
+                        127.257206,
+                        -8.391427
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-LA",
     coords: [127.2561, -8.3931],
@@ -745,7 +952,88 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "balibo-cities-v2",
+    id: "balibo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Balibo flag house",
+                  "text": "Ein Museum in Balibo, das an die dort im Jahr 1975 getöteten Journalisten erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        125.04361,
+                        -8.969515
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "Ruinen einer ehemaligen portugiesischen Garnison in der Nähe der Festung Balibo.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Balibo flag house",
+                  "text": "Múzeum Balibóban, amely az 1975-ben ott megölt újságíróknak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        125.04361,
+                        -8.969515
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "Egy egykori portugál helyőrség romjai a balibói erőd közelében.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Balibo flag house",
+                  "text": "Un muzeu în Balibo care comemorează jurnaliștii uciși acolo în 1975.",
+                  "category": "museum",
+                  "coords": [
+                        125.04361,
+                        -8.969515
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "Ruinele unei foste garnizoane portugheze lângă fortăreața Balibo.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Balibo flag house",
+                  "text": "A museum in Balibo commemorating the journalists killed there in 1975.",
+                  "category": "museum",
+                  "coords": [
+                        125.04361,
+                        -8.969515
+                  ]
+            },
+            {
+                  "name": "old portuguese barracks;Former Portuguese garrison (ruins)",
+                  "text": "Ruins of a former Portuguese garrison near the Balibo Fort.",
+                  "category": "historical",
+                  "coords": [
+                        125.045204,
+                        -8.969838
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-BO",
     coords: [125.0417, -8.9681],
@@ -1185,7 +1473,52 @@ export const poiExtraTimorlesteCitiesV2: POI[] = [
     },
   },
   {
-    id: "laclubar-cities-v2",
+    id: "laclubar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "Maubere Mountain Coffee ist eine Attraktion in Laclubar.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "A Maubere Mountain Coffee egy látványosság Laclubar területén.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "Maubere Mountain Coffee este o atracție situată în Laclubar.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maubere Mountain Coffee",
+                  "text": "Maubere Mountain Coffee is an attraction located in Laclubar.",
+                  "category": "landmark",
+                  "coords": [
+                        125.908,
+                        -8.74087
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TL-MT",
     coords: [125.9083, -8.7472],

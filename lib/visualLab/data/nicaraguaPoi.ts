@@ -43,7 +43,844 @@ export const nicaraguaCities: POI[] = [
     },
     historyYear: 1852, image: "/poi-images/ni-managua.webp"},
   {
-    id: "ni-leon",
+    id: "ni-leon", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Arte Fundación Ortiz-Gurdián",
+                  "text": "Ein bedeutendes Kunstmuseum in León, das Werke der Stiftung Ortiz-Gurdián ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -86.881633,
+                        12.434779
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal José de la Cruz Mena",
+                  "text": "Ein historisches Theatergebäude in León, benannt nach José de la Cruz Mena.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.880664,
+                        12.433709
+                  ]
+            },
+            {
+                  "name": "Museo de Leyendas y Tradiciones",
+                  "text": "Dieses Museum in León widmet sich lokalen Legenden und Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        -86.878832,
+                        12.432151
+                  ]
+            },
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Ein Museum in León, das die Geschichte der nicaraguanischen Revolution dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -86.879561,
+                        12.434656
+                  ]
+            },
+            {
+                  "name": "Museo Archivo Rubén Darío",
+                  "text": "Dieses Museum bewahrt das Erbe und die Archive des Dichters Rubén Darío in León.",
+                  "category": "museum",
+                  "coords": [
+                        -86.882867,
+                        12.434888
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico",
+                  "text": "Ein Museum in León, das auf Insektenkunde spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        -86.87458,
+                        12.437551
+                  ]
+            },
+            {
+                  "name": "River Splash",
+                  "text": "Ein Wasserpark in León, der verschiedene Freizeitaktivitäten im Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.877527,
+                        12.429681
+                  ]
+            },
+            {
+                  "name": "Museum Adiact",
+                  "text": "Ein lokales Museum in León, das sich mit der regionalen Kultur befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -86.893986,
+                        12.434818
+                  ]
+            },
+            {
+                  "name": "Héroes y Mártires de la Arrocera",
+                  "text": "Ein Denkmal in León zum Gedenken an die Helden und Märtyrer von Arrocera.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865514,
+                        12.426287
+                  ]
+            },
+            {
+                  "name": "Salomón de la Selva",
+                  "text": "Ein Denkmal in León, das Salomón de la Selva gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -86.880487,
+                        12.434962
+                  ]
+            },
+            {
+                  "name": "Virgen de la Concepción",
+                  "text": "Ein religiöses Denkmal in León, das die Jungfrau Maria darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -86.87145,
+                        12.420834
+                  ]
+            },
+            {
+                  "name": "Estatua Frai",
+                  "text": "Ein Denkmal in León, das eine religiöse oder historische Figur darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -86.874289,
+                        12.43533
+                  ]
+            },
+            {
+                  "name": "iglesia Veracruz",
+                  "text": "Ruinen einer historischen Kirche in León.",
+                  "category": "historical",
+                  "coords": [
+                        -86.897003,
+                        12.43271
+                  ]
+            },
+            {
+                  "name": "Casa FC Barcelona",
+                  "text": "Ein spezielles Denkmal oder Gebäude in León mit Bezug zum FC Barcelona.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865409,
+                        12.445165
+                  ]
+            },
+            {
+                  "name": "Fortín de Acosasco",
+                  "text": "Eine historische Festung und Sehenswürdigkeit in der Nähe von León.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.892628,
+                        12.417261
+                  ]
+            },
+            {
+                  "name": "Viernes Santo",
+                  "text": "Temporäre Straßenkunst-Tradition während des Karfreitags in León.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.888727,
+                        12.432282
+                  ]
+            },
+            {
+                  "name": "Artemag Galeria",
+                  "text": "Eine Kunstgalerie in León, die zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -86.887889,
+                        12.435
+                  ]
+            },
+            {
+                  "name": "Estatua a la Madre",
+                  "text": "Ein Denkmal in León, das allen Müttern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -86.875654,
+                        12.439598
+                  ]
+            },
+            {
+                  "name": "Mausoleo Heroes y Mártires de la Revolución",
+                  "text": "Ein Mausoleum zum Gedenken an die gefallenen Helden der nicaraguanischen Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        -86.878411,
+                        12.435493
+                  ]
+            },
+            {
+                  "name": "A los Bomberos",
+                  "text": "Ein Denkmal in León zu Ehren der Feuerwehr.",
+                  "category": "historical",
+                  "coords": [
+                        -86.877452,
+                        12.421338
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Eine historische Kirche in León, bekannt für ihre Barockarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        -86.879027,
+                        12.436499
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe",
+                  "text": "Eine bedeutende religiöse Stätte in León, Nicaragua.",
+                  "category": "religious",
+                  "coords": [
+                        -86.880334,
+                        12.442063
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recolección",
+                  "text": "Eine der architektonisch auffälligsten Kirchen in der Stadt León.",
+                  "category": "religious",
+                  "coords": [
+                        -86.876996,
+                        12.43752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Arte Fundación Ortiz-Gurdián",
+                  "text": "León jelentős művészeti múzeuma, amely az Ortiz-Gurdián Alapítvány gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -86.881633,
+                        12.434779
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal José de la Cruz Mena",
+                  "text": "Történelmi színházépület Leónban, José de la Cruz Menáról elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.880664,
+                        12.433709
+                  ]
+            },
+            {
+                  "name": "Museo de Leyendas y Tradiciones",
+                  "text": "Ez a leóni múzeum a helyi legendáknak és hagyományoknak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -86.878832,
+                        12.432151
+                  ]
+            },
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Múzeum Leónban, amely a nicaraguai forradalom történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -86.879561,
+                        12.434656
+                  ]
+            },
+            {
+                  "name": "Museo Archivo Rubén Darío",
+                  "text": "Ez a múzeum őrzi Rubén Darío költő örökségét és archívumát Leónban.",
+                  "category": "museum",
+                  "coords": [
+                        -86.882867,
+                        12.434888
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico",
+                  "text": "Rovartani kutatásra szakosodott múzeum León városában.",
+                  "category": "museum",
+                  "coords": [
+                        -86.87458,
+                        12.437551
+                  ]
+            },
+            {
+                  "name": "River Splash",
+                  "text": "Vízi vidámpark Leónban, amely különféle vizes kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.877527,
+                        12.429681
+                  ]
+            },
+            {
+                  "name": "Museum Adiact",
+                  "text": "Helyi múzeum Leónban, amely a regionális kultúrával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -86.893986,
+                        12.434818
+                  ]
+            },
+            {
+                  "name": "Héroes y Mártires de la Arrocera",
+                  "text": "Emlékmű Leónban az Arrocera hőseinek és mártírjainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865514,
+                        12.426287
+                  ]
+            },
+            {
+                  "name": "Salomón de la Selva",
+                  "text": "Salomón de la Selva emlékére állított emlékmű Leónban.",
+                  "category": "historical",
+                  "coords": [
+                        -86.880487,
+                        12.434962
+                  ]
+            },
+            {
+                  "name": "Virgen de la Concepción",
+                  "text": "Szűz Máriát ábrázoló vallási emlékmű Leónban.",
+                  "category": "historical",
+                  "coords": [
+                        -86.87145,
+                        12.420834
+                  ]
+            },
+            {
+                  "name": "Estatua Frai",
+                  "text": "Vallási vagy történelmi alakot ábrázoló emlékmű Leónban.",
+                  "category": "historical",
+                  "coords": [
+                        -86.874289,
+                        12.43533
+                  ]
+            },
+            {
+                  "name": "iglesia Veracruz",
+                  "text": "Egy történelmi templom romjai León városában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.897003,
+                        12.43271
+                  ]
+            },
+            {
+                  "name": "Casa FC Barcelona",
+                  "text": "Egy különleges emlékmű vagy épület Leónban, amely az FC Barcelonához kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865409,
+                        12.445165
+                  ]
+            },
+            {
+                  "name": "Fortín de Acosasco",
+                  "text": "Történelmi erőd és látnivaló León közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.892628,
+                        12.417261
+                  ]
+            },
+            {
+                  "name": "Viernes Santo",
+                  "text": "Ideiglenes utcai művészeti hagyomány nagypénteken Leónban.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.888727,
+                        12.432282
+                  ]
+            },
+            {
+                  "name": "Artemag Galeria",
+                  "text": "Művészeti galéria Leónban, amely kortárs műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -86.887889,
+                        12.435
+                  ]
+            },
+            {
+                  "name": "Estatua a la Madre",
+                  "text": "Az anyáknak szentelt emlékmű León városában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.875654,
+                        12.439598
+                  ]
+            },
+            {
+                  "name": "Mausoleo Heroes y Mártires de la Revolución",
+                  "text": "Mauzóleum a nicaraguai forradalom hőseinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -86.878411,
+                        12.435493
+                  ]
+            },
+            {
+                  "name": "A los Bomberos",
+                  "text": "Emlékmű a tűzoltók tiszteletére León városában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.877452,
+                        12.421338
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "Történelmi templom Leónban, amely barokk építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -86.879027,
+                        12.436499
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe",
+                  "text": "Jelentős vallási helyszín a nicaraguai Leónban.",
+                  "category": "religious",
+                  "coords": [
+                        -86.880334,
+                        12.442063
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recolección",
+                  "text": "León városának egyik építészetileg leglátványosabb temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -86.876996,
+                        12.43752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Arte Fundación Ortiz-Gurdián",
+                  "text": "Un important muzeu de artă din León, care expune colecțiile Fundației Ortiz-Gurdián.",
+                  "category": "museum",
+                  "coords": [
+                        -86.881633,
+                        12.434779
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal José de la Cruz Mena",
+                  "text": "O clădire istorică de teatru din León, numită după José de la Cruz Mena.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.880664,
+                        12.433709
+                  ]
+            },
+            {
+                  "name": "Museo de Leyendas y Tradiciones",
+                  "text": "Acest muzeu din León este dedicat legendelor și tradițiilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        -86.878832,
+                        12.432151
+                  ]
+            },
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Un muzeu din León care documentează istoria revoluției nicaraguane.",
+                  "category": "museum",
+                  "coords": [
+                        -86.879561,
+                        12.434656
+                  ]
+            },
+            {
+                  "name": "Museo Archivo Rubén Darío",
+                  "text": "Acest muzeu păstrează moștenirea și arhivele poetului Rubén Darío din León.",
+                  "category": "museum",
+                  "coords": [
+                        -86.882867,
+                        12.434888
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico",
+                  "text": "Un muzeu din León specializat în studiul insectelor.",
+                  "category": "museum",
+                  "coords": [
+                        -86.87458,
+                        12.437551
+                  ]
+            },
+            {
+                  "name": "River Splash",
+                  "text": "Un parc acvatic din León care oferă diverse activități recreative în apă.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.877527,
+                        12.429681
+                  ]
+            },
+            {
+                  "name": "Museum Adiact",
+                  "text": "Un muzeu local din León care se ocupă de cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        -86.893986,
+                        12.434818
+                  ]
+            },
+            {
+                  "name": "Héroes y Mártires de la Arrocera",
+                  "text": "Un monument din León în memoria eroilor și martirilor din Arrocera.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865514,
+                        12.426287
+                  ]
+            },
+            {
+                  "name": "Salomón de la Selva",
+                  "text": "Un monument din León dedicat lui Salomón de la Selva.",
+                  "category": "historical",
+                  "coords": [
+                        -86.880487,
+                        12.434962
+                  ]
+            },
+            {
+                  "name": "Virgen de la Concepción",
+                  "text": "Un monument religios din León care o înfățișează pe Fecioara Maria.",
+                  "category": "historical",
+                  "coords": [
+                        -86.87145,
+                        12.420834
+                  ]
+            },
+            {
+                  "name": "Estatua Frai",
+                  "text": "Un monument din León care reprezintă o figură religioasă sau istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -86.874289,
+                        12.43533
+                  ]
+            },
+            {
+                  "name": "iglesia Veracruz",
+                  "text": "Ruinele unei biserici istorice din León.",
+                  "category": "historical",
+                  "coords": [
+                        -86.897003,
+                        12.43271
+                  ]
+            },
+            {
+                  "name": "Casa FC Barcelona",
+                  "text": "Un monument sau o clădire specială din León legată de FC Barcelona.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865409,
+                        12.445165
+                  ]
+            },
+            {
+                  "name": "Fortín de Acosasco",
+                  "text": "O fortăreață istorică și punct de atracție lângă León.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.892628,
+                        12.417261
+                  ]
+            },
+            {
+                  "name": "Viernes Santo",
+                  "text": "Tradiție de artă stradală temporară în Vinerea Mare la León.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.888727,
+                        12.432282
+                  ]
+            },
+            {
+                  "name": "Artemag Galeria",
+                  "text": "O galerie de artă din León care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -86.887889,
+                        12.435
+                  ]
+            },
+            {
+                  "name": "Estatua a la Madre",
+                  "text": "Un monument din León dedicat tuturor mamelor.",
+                  "category": "historical",
+                  "coords": [
+                        -86.875654,
+                        12.439598
+                  ]
+            },
+            {
+                  "name": "Mausoleo Heroes y Mártires de la Revolución",
+                  "text": "Un mausoleu în memoria eroilor căzuți în revoluția nicaraguană.",
+                  "category": "historical",
+                  "coords": [
+                        -86.878411,
+                        12.435493
+                  ]
+            },
+            {
+                  "name": "A los Bomberos",
+                  "text": "Un monument în León în cinstea pompierilor.",
+                  "category": "historical",
+                  "coords": [
+                        -86.877452,
+                        12.421338
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "O biserică istorică din León, cunoscută pentru arhitectura sa barocă.",
+                  "category": "religious",
+                  "coords": [
+                        -86.879027,
+                        12.436499
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe",
+                  "text": "Un lăcaș de cult important din León, Nicaragua.",
+                  "category": "religious",
+                  "coords": [
+                        -86.880334,
+                        12.442063
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recolección",
+                  "text": "Una dintre cele mai remarcabile biserici din orașul León sub aspect arhitectural.",
+                  "category": "religious",
+                  "coords": [
+                        -86.876996,
+                        12.43752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Arte Fundación Ortiz-Gurdián",
+                  "text": "An important art museum in León exhibiting the collections of the Ortiz-Gurdián Foundation.",
+                  "category": "museum",
+                  "coords": [
+                        -86.881633,
+                        12.434779
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal José de la Cruz Mena",
+                  "text": "A historical theater building in León, named after José de la Cruz Mena.",
+                  "category": "cultural",
+                  "coords": [
+                        -86.880664,
+                        12.433709
+                  ]
+            },
+            {
+                  "name": "Museo de Leyendas y Tradiciones",
+                  "text": "This museum in León is dedicated to local legends and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -86.878832,
+                        12.432151
+                  ]
+            },
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "A museum in León documenting the history of the Nicaraguan revolution.",
+                  "category": "museum",
+                  "coords": [
+                        -86.879561,
+                        12.434656
+                  ]
+            },
+            {
+                  "name": "Museo Archivo Rubén Darío",
+                  "text": "This museum preserves the legacy and archives of the poet Rubén Darío in León.",
+                  "category": "museum",
+                  "coords": [
+                        -86.882867,
+                        12.434888
+                  ]
+            },
+            {
+                  "name": "Museo Entomológico",
+                  "text": "A museum in León specializing in entomology.",
+                  "category": "museum",
+                  "coords": [
+                        -86.87458,
+                        12.437551
+                  ]
+            },
+            {
+                  "name": "River Splash",
+                  "text": "A water park in León offering various water-based recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.877527,
+                        12.429681
+                  ]
+            },
+            {
+                  "name": "Museum Adiact",
+                  "text": "A local museum in León dealing with regional culture.",
+                  "category": "museum",
+                  "coords": [
+                        -86.893986,
+                        12.434818
+                  ]
+            },
+            {
+                  "name": "Héroes y Mártires de la Arrocera",
+                  "text": "A monument in León commemorating the heroes and martyrs of Arrocera.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865514,
+                        12.426287
+                  ]
+            },
+            {
+                  "name": "Salomón de la Selva",
+                  "text": "A monument in León dedicated to Salomón de la Selva.",
+                  "category": "historical",
+                  "coords": [
+                        -86.880487,
+                        12.434962
+                  ]
+            },
+            {
+                  "name": "Virgen de la Concepción",
+                  "text": "A religious monument in León depicting the Virgin Mary.",
+                  "category": "historical",
+                  "coords": [
+                        -86.87145,
+                        12.420834
+                  ]
+            },
+            {
+                  "name": "Estatua Frai",
+                  "text": "A monument in León representing a religious or historical figure.",
+                  "category": "historical",
+                  "coords": [
+                        -86.874289,
+                        12.43533
+                  ]
+            },
+            {
+                  "name": "iglesia Veracruz",
+                  "text": "Ruins of a historical church in León.",
+                  "category": "historical",
+                  "coords": [
+                        -86.897003,
+                        12.43271
+                  ]
+            },
+            {
+                  "name": "Casa FC Barcelona",
+                  "text": "A special monument or building in León related to FC Barcelona.",
+                  "category": "historical",
+                  "coords": [
+                        -86.865409,
+                        12.445165
+                  ]
+            },
+            {
+                  "name": "Fortín de Acosasco",
+                  "text": "A historical fortress and attraction near León.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.892628,
+                        12.417261
+                  ]
+            },
+            {
+                  "name": "Street art on Good Friday",
+                  "text": "Temporary street art tradition during Good Friday in León.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.888727,
+                        12.432282
+                  ]
+            },
+            {
+                  "name": "Artemag Galeria",
+                  "text": "An art gallery in León showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -86.887889,
+                        12.435
+                  ]
+            },
+            {
+                  "name": "Estatua a la Madre",
+                  "text": "A monument in León dedicated to all mothers.",
+                  "category": "historical",
+                  "coords": [
+                        -86.875654,
+                        12.439598
+                  ]
+            },
+            {
+                  "name": "Mausoleo Heroes y Mártires de la Revolución",
+                  "text": "A mausoleum commemorating the fallen heroes of the Nicaraguan revolution.",
+                  "category": "historical",
+                  "coords": [
+                        -86.878411,
+                        12.435493
+                  ]
+            },
+            {
+                  "name": "A los Bomberos",
+                  "text": "A monument in León honoring the firefighters.",
+                  "category": "historical",
+                  "coords": [
+                        -86.877452,
+                        12.421338
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Merced",
+                  "text": "A historical church in León known for its Baroque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -86.879027,
+                        12.436499
+                  ]
+            },
+            {
+                  "name": "Iglesia San Felipe",
+                  "text": "An important religious site in León, Nicaragua.",
+                  "category": "religious",
+                  "coords": [
+                        -86.880334,
+                        12.442063
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Recolección",
+                  "text": "One of the most architecturally striking churches in the city of León.",
+                  "category": "religious",
+                  "coords": [
+                        -86.876996,
+                        12.43752
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI",
     coords: [-86.8780, 12.4380],
@@ -113,7 +950,412 @@ export const nicaraguaCities: POI[] = [
     },
     historyYear: 1524, image: "/poi-images/ni-granada.webp"},
   {
-    id: "ni-masaya",
+    id: "ni-masaya", "sights": {
+      "de": [
+            {
+                  "name": "Fortaleza El Coyotepe",
+                  "text": "Fortaleza El Coyotepe ist eine lokale Festung in Masaya.",
+                  "category": "fortress",
+                  "coords": [
+                        -86.098333,
+                        11.995941
+                  ]
+            },
+            {
+                  "name": "Cailagua",
+                  "text": "Cailagua ist eine archäologische Stätte in Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.102858,
+                        11.968107
+                  ]
+            },
+            {
+                  "name": "Museo del Folclor",
+                  "text": "Das Museo del Folclor ist ein Museum in Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.093529,
+                        11.974156
+                  ]
+            },
+            {
+                  "name": "Museo camilo ortega",
+                  "text": "Das Museo camilo ortega ist ein lokales Museum in Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.082763,
+                        11.965489
+                  ]
+            },
+            {
+                  "name": "Antigua Estación de Tren Masaya",
+                  "text": "Die Old Railway Station of Masaya dient derzeit als Museum in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096129,
+                        11.981306
+                  ]
+            },
+            {
+                  "name": "Volcán Masaya Museum",
+                  "text": "Das Volcán Masaya Museum ist ein in Masaya ansässiges Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -86.097356,
+                        11.977327
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alejandro Vega Matus",
+                  "text": "Das Centro Cultural Alejandro Vega Matus fungiert als kulturelles Museum in Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096919,
+                        11.975907
+                  ]
+            },
+            {
+                  "name": "Zepeda Guitarras",
+                  "text": "Zepeda Guitars ist eine lokale Sehenswürdigkeit in Masaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.08456,
+                        11.978855
+                  ]
+            },
+            {
+                  "name": "6 de junio",
+                  "text": "6 de junio ist ein lokales Denkmal in Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.08523,
+                        11.975968
+                  ]
+            },
+            {
+                  "name": "Petroglifos Del Cailagua",
+                  "text": "Petroglifos Del Cailagua ist eine Sehenswürdigkeit in Masaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.103451,
+                        11.962911
+                  ]
+            },
+            {
+                  "name": "Héroes de la Revolución Sandinista",
+                  "text": "Héroes de la Revolución Sandinista ist ein Gedenkmonument in Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096613,
+                        11.973248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza El Coyotepe",
+                  "text": "A Fortaleza El Coyotepe egy helyi erőd Masaya városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -86.098333,
+                        11.995941
+                  ]
+            },
+            {
+                  "name": "Cailagua",
+                  "text": "A Cailagua egy régészeti lelőhely Masaya városában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.102858,
+                        11.968107
+                  ]
+            },
+            {
+                  "name": "Museo del Folclor",
+                  "text": "A Museo del Folclor egy múzeum Masaya városában.",
+                  "category": "museum",
+                  "coords": [
+                        -86.093529,
+                        11.974156
+                  ]
+            },
+            {
+                  "name": "Museo camilo ortega",
+                  "text": "A Museo camilo ortega egy helyi múzeum Masaya városában.",
+                  "category": "museum",
+                  "coords": [
+                        -86.082763,
+                        11.965489
+                  ]
+            },
+            {
+                  "name": "Antigua Estación de Tren Masaya",
+                  "text": "A Masaya régi vasútállomása ma múzeumként működik a városban.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096129,
+                        11.981306
+                  ]
+            },
+            {
+                  "name": "Volcán Masaya Museum",
+                  "text": "A Volcán Masaya Museum egy múzeum Masaya területén.",
+                  "category": "museum",
+                  "coords": [
+                        -86.097356,
+                        11.977327
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alejandro Vega Matus",
+                  "text": "A Centro Cultural Alejandro Vega Matus kulturális múzeumként működik Masayában.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096919,
+                        11.975907
+                  ]
+            },
+            {
+                  "name": "Zepeda Guitarras",
+                  "text": "A Zepeda Guitars egy helyi látványosság Masaya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.08456,
+                        11.978855
+                  ]
+            },
+            {
+                  "name": "6 de junio",
+                  "text": "A 6 de junio egy helyi emlékmű Masaya városában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.08523,
+                        11.975968
+                  ]
+            },
+            {
+                  "name": "Petroglifos Del Cailagua",
+                  "text": "A Petroglifos Del Cailagua egy látnivaló Masaya területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.103451,
+                        11.962911
+                  ]
+            },
+            {
+                  "name": "Héroes de la Revolución Sandinista",
+                  "text": "A Héroes de la Revolución Sandinista egy emlékmű Masaya városában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096613,
+                        11.973248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza El Coyotepe",
+                  "text": "Fortaleza El Coyotepe este un fort local situat în Masaya.",
+                  "category": "fortress",
+                  "coords": [
+                        -86.098333,
+                        11.995941
+                  ]
+            },
+            {
+                  "name": "Cailagua",
+                  "text": "Cailagua este un sit arheologic situat în Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.102858,
+                        11.968107
+                  ]
+            },
+            {
+                  "name": "Museo del Folclor",
+                  "text": "Museo del Folclor este un muzeu situat în Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.093529,
+                        11.974156
+                  ]
+            },
+            {
+                  "name": "Museo camilo ortega",
+                  "text": "Museo camilo ortega este un muzeu local situat în Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.082763,
+                        11.965489
+                  ]
+            },
+            {
+                  "name": "Antigua Estación de Tren Masaya",
+                  "text": "Vechea gară din Masaya servește în prezent ca muzeu în oraș.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096129,
+                        11.981306
+                  ]
+            },
+            {
+                  "name": "Volcán Masaya Museum",
+                  "text": "Volcán Masaya Museum este un muzeu dedicat situat în Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.097356,
+                        11.977327
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alejandro Vega Matus",
+                  "text": "Centro Cultural Alejandro Vega Matus funcționează ca un muzeu cultural în Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096919,
+                        11.975907
+                  ]
+            },
+            {
+                  "name": "Zepeda Guitarras",
+                  "text": "Zepeda Guitars este o atracție locală situată în Masaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.08456,
+                        11.978855
+                  ]
+            },
+            {
+                  "name": "6 de junio",
+                  "text": "6 de junio este un monument local situat în Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.08523,
+                        11.975968
+                  ]
+            },
+            {
+                  "name": "Petroglifos Del Cailagua",
+                  "text": "Petroglifos Del Cailagua este o atracție de vizitat în Masaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.103451,
+                        11.962911
+                  ]
+            },
+            {
+                  "name": "Héroes de la Revolución Sandinista",
+                  "text": "Héroes de la Revolución Sandinista este un monument comemorativ din Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096613,
+                        11.973248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortaleza El Coyotepe",
+                  "text": "Fortaleza El Coyotepe is a local fort located in Masaya.",
+                  "category": "fortress",
+                  "coords": [
+                        -86.098333,
+                        11.995941
+                  ]
+            },
+            {
+                  "name": "Cailagua",
+                  "text": "Cailagua is an archaeological site located in Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.102858,
+                        11.968107
+                  ]
+            },
+            {
+                  "name": "Museo del Folclor",
+                  "text": "Museo del Folclor is a museum situated in Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.093529,
+                        11.974156
+                  ]
+            },
+            {
+                  "name": "Museo camilo ortega",
+                  "text": "Museo camilo ortega is a local museum located in Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.082763,
+                        11.965489
+                  ]
+            },
+            {
+                  "name": "Old Railway Station of Masaya",
+                  "text": "The Old Railway Station of Masaya currently serves as a museum in the city.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096129,
+                        11.981306
+                  ]
+            },
+            {
+                  "name": "Volcán Masaya Museum",
+                  "text": "The Volcán Masaya Museum is a dedicated museum located in Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.097356,
+                        11.977327
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Alejandro Vega Matus",
+                  "text": "Centro Cultural Alejandro Vega Matus functions as a cultural museum in Masaya.",
+                  "category": "museum",
+                  "coords": [
+                        -86.096919,
+                        11.975907
+                  ]
+            },
+            {
+                  "name": "Zepeda Guitars",
+                  "text": "Zepeda Guitars is a local attraction located in Masaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.08456,
+                        11.978855
+                  ]
+            },
+            {
+                  "name": "6 de junio",
+                  "text": "The 6 de junio is a local monument situated in Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.08523,
+                        11.975968
+                  ]
+            },
+            {
+                  "name": "Petroglifos Del Cailagua",
+                  "text": "Petroglifos Del Cailagua is an attraction to visit in Masaya.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.103451,
+                        11.962911
+                  ]
+            },
+            {
+                  "name": "Héroes de la Revolución Sandinista",
+                  "text": "Héroes de la Revolución Sandinista is a commemorative monument in Masaya.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096613,
+                        11.973248
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI",
     coords: [-86.0961, 11.9744],
@@ -567,7 +1809,232 @@ export const nicaraguaLandmarks: POI[] = [
     },
     area: 21, image: "/poi-images/ni-apoyo.webp"},
   {
-    id: "ni-sanjuandelsur",
+    id: "ni-sanjuandelsur", "sights": {
+      "de": [
+            {
+                  "name": "Faro San Juan del Sur",
+                  "text": "Ein Leuchtturm, der einen weiten Blick über die Bucht von San Juan del Sur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.880875,
+                        11.242971
+                  ]
+            },
+            {
+                  "name": "Fortaleza el Vigia.",
+                  "text": "Eine historische Festungsanlage auf einem Hügel über der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        -85.87807,
+                        11.245459
+                  ]
+            },
+            {
+                  "name": "Finca Las Nubes",
+                  "text": "Ein ökologisches Reservat in den Hügeln, das für nachhaltige Landwirtschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -85.846066,
+                        11.276293
+                  ]
+            },
+            {
+                  "name": "Cristo de la Misericordia",
+                  "text": "Eine große Christusstatue, die von einem Hügel aus die Bucht überblickt.",
+                  "category": "historical",
+                  "coords": [
+                        -85.881862,
+                        11.261754
+                  ]
+            },
+            {
+                  "name": "Bahía San Juan del Sur",
+                  "text": "Eine malerische Bucht am Pazifik, die das Zentrum von San Juan del Sur bildet.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.881195,
+                        11.253774
+                  ]
+            },
+            {
+                  "name": "Ensenada La Mosea",
+                  "text": "Eine Küstenbucht in der Nähe von San Juan del Sur mit natürlicher Landschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.865139,
+                        11.233023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro San Juan del Sur",
+                  "text": "Világítótorony, amely széles kilátást nyújt a San Juan del Sur-öbölre.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.880875,
+                        11.242971
+                  ]
+            },
+            {
+                  "name": "Fortaleza el Vigia.",
+                  "text": "Történelmi erődítmény egy dombon a város felett.",
+                  "category": "castle",
+                  "coords": [
+                        -85.87807,
+                        11.245459
+                  ]
+            },
+            {
+                  "name": "Finca Las Nubes",
+                  "text": "Ökológiai rezervátum a dombok között, amely fenntartható gazdálkodásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -85.846066,
+                        11.276293
+                  ]
+            },
+            {
+                  "name": "Cristo de la Misericordia",
+                  "text": "Hatalmas Krisztus-szobor, amely egy dombról tekint az öbölre.",
+                  "category": "historical",
+                  "coords": [
+                        -85.881862,
+                        11.261754
+                  ]
+            },
+            {
+                  "name": "Bahía San Juan del Sur",
+                  "text": "Gleccser vájta festői öböl a Csendes-óceánnál, San Juan del Sur központja.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.881195,
+                        11.253774
+                  ]
+            },
+            {
+                  "name": "Ensenada La Mosea",
+                  "text": "Tengerparti öböl San Juan del Sur közelében, természetes környezetben.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.865139,
+                        11.233023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro San Juan del Sur",
+                  "text": "Un far care oferă o vedere panoramică asupra golfului San Juan del Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.880875,
+                        11.242971
+                  ]
+            },
+            {
+                  "name": "Fortaleza el Vigia.",
+                  "text": "O fortificație istorică situată pe un deal deasupra orașului.",
+                  "category": "castle",
+                  "coords": [
+                        -85.87807,
+                        11.245459
+                  ]
+            },
+            {
+                  "name": "Finca Las Nubes",
+                  "text": "O rezervație ecologică în dealuri, cunoscută pentru agricultura durabilă.",
+                  "category": "natural",
+                  "coords": [
+                        -85.846066,
+                        11.276293
+                  ]
+            },
+            {
+                  "name": "Cristo de la Misericordia",
+                  "text": "O statuie impunătoare a lui Hristos care domină golful de pe un deal.",
+                  "category": "historical",
+                  "coords": [
+                        -85.881862,
+                        11.261754
+                  ]
+            },
+            {
+                  "name": "Bahía San Juan del Sur",
+                  "text": "Un golf pitoresc la Pacific, care reprezintă inima localității San Juan del Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.881195,
+                        11.253774
+                  ]
+            },
+            {
+                  "name": "Ensenada La Mosea",
+                  "text": "Un golf de coastă lângă San Juan del Sur, cu un peisaj natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.865139,
+                        11.233023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Juan del Sur Lighthouse",
+                  "text": "A lighthouse offering expansive views over the San Juan del Sur bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.880875,
+                        11.242971
+                  ]
+            },
+            {
+                  "name": "Fortaleza el Vigia.",
+                  "text": "A historic fortification located on a hill overlooking the town.",
+                  "category": "castle",
+                  "coords": [
+                        -85.87807,
+                        11.245459
+                  ]
+            },
+            {
+                  "name": "Finca Las Nubes",
+                  "text": "An ecological reserve in the hills known for sustainable farming practices.",
+                  "category": "natural",
+                  "coords": [
+                        -85.846066,
+                        11.276293
+                  ]
+            },
+            {
+                  "name": "Christ of the Mercy",
+                  "text": "A large statue of Christ overlooking the bay from a hilltop.",
+                  "category": "historical",
+                  "coords": [
+                        -85.881862,
+                        11.261754
+                  ]
+            },
+            {
+                  "name": "Bahía San Juan del Sur",
+                  "text": "A scenic Pacific bay that forms the heart of San Juan del Sur.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.881195,
+                        11.253774
+                  ]
+            },
+            {
+                  "name": "Ensenada La Mosea",
+                  "text": "A coastal bay near San Juan del Sur with a natural landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.865139,
+                        11.233023
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI",
     coords: [-85.8667, 11.2500],

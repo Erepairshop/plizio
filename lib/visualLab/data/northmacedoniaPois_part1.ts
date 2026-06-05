@@ -4,7 +4,376 @@ import type { POI } from "./poi";
 export const mkPoisPart1: POI[] = [
   // MK-001: Struga
   {
-    id: "MK-001-struga-city",
+    id: "MK-001-struga-city", "sights": {
+      "de": [
+            {
+                  "name": "Д-р Никола Незлобински",
+                  "text": "Dr. Nikola Nezlobinski ist ein lokales Museum in Struga.",
+                  "category": "museum",
+                  "coords": [
+                        20.677608,
+                        41.180574
+                  ]
+            },
+            {
+                  "name": "Луна парк Струга",
+                  "text": "Der Luna Park in Struga bietet Vergnügungsmöglichkeiten für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680973,
+                        41.173447
+                  ]
+            },
+            {
+                  "name": "Дрим",
+                  "text": "Drim ist ein schöner Strand in der Stadt Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.679696,
+                        41.172484
+                  ]
+            },
+            {
+                  "name": "Машка",
+                  "text": "Mashka ist ein lokaler Strand in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.681896,
+                        41.172537
+                  ]
+            },
+            {
+                  "name": "Солферино",
+                  "text": "Solferino ist ein bekannter Strand am Wasser in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.684712,
+                        41.172256
+                  ]
+            },
+            {
+                  "name": "Аквариус",
+                  "text": "Beach Aquarius ist ein beliebter Strand in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668335,
+                        41.172164
+                  ]
+            },
+            {
+                  "name": "Мајски Цвет",
+                  "text": "May Flower ist ein entspannender Strand in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.670412,
+                        41.17208
+                  ]
+            },
+            {
+                  "name": "Женска плажа",
+                  "text": "Der Frauenstrand ist ein spezifischer Strandabschnitt in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.675,
+                        41.173683
+                  ]
+            },
+            {
+                  "name": "Сергеј Есенин",
+                  "text": "Das Sergei-Essenin-Denkmal ist ein kulturelles Monument in Struga.",
+                  "category": "historical",
+                  "coords": [
+                        20.678375,
+                        41.173653
+                  ]
+            },
+            {
+                  "name": "Парк на поезијата",
+                  "text": "Der Poesiepark ist eine ruhige und inspirierende Attraktion in Struga.",
+                  "category": "landmark",
+                  "coords": [
+                        20.677342,
+                        41.175032
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Д-р Никола Незлобински",
+                  "text": "A Dr. Nikola Nezlobinski egy helyi múzeum Struga városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.677608,
+                        41.180574
+                  ]
+            },
+            {
+                  "name": "Луна парк Струга",
+                  "text": "A Strugai Luna Park szórakozási lehetőségeket kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680973,
+                        41.173447
+                  ]
+            },
+            {
+                  "name": "Дрим",
+                  "text": "A Drim egy gyönyörű strand Struga városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.679696,
+                        41.172484
+                  ]
+            },
+            {
+                  "name": "Машка",
+                  "text": "A Mashka egy helyi strand Struga városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.681896,
+                        41.172537
+                  ]
+            },
+            {
+                  "name": "Солферино",
+                  "text": "A Solferino egy ismert strand a vízparton Strugában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.684712,
+                        41.172256
+                  ]
+            },
+            {
+                  "name": "Аквариус",
+                  "text": "A Beach Aquarius egy népszerű strand Struga városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668335,
+                        41.172164
+                  ]
+            },
+            {
+                  "name": "Мајски Цвет",
+                  "text": "A May Flower egy pihentető strand Struga városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.670412,
+                        41.17208
+                  ]
+            },
+            {
+                  "name": "Женска плажа",
+                  "text": "A Női strand egy specifikus partszakasz Struga városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.675,
+                        41.173683
+                  ]
+            },
+            {
+                  "name": "Сергеј Есенин",
+                  "text": "A Szergej Jeszenyin-emlékmű egy kulturális műemlék Struga városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.678375,
+                        41.173653
+                  ]
+            },
+            {
+                  "name": "Парк на поезијата",
+                  "text": "A Költészet parkja egy békés és inspiráló látványosság Strugában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.677342,
+                        41.175032
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Д-р Никола Незлобински",
+                  "text": "Dr. Nikola Nezlobinski este un muzeu local situat în Struga.",
+                  "category": "museum",
+                  "coords": [
+                        20.677608,
+                        41.180574
+                  ]
+            },
+            {
+                  "name": "Луна парк Струга",
+                  "text": "Luna Park Struga oferă facilități de distracție pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680973,
+                        41.173447
+                  ]
+            },
+            {
+                  "name": "Дрим",
+                  "text": "Drim este o plajă frumoasă în orașul Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.679696,
+                        41.172484
+                  ]
+            },
+            {
+                  "name": "Машка",
+                  "text": "Mashka este o plajă locală în Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.681896,
+                        41.172537
+                  ]
+            },
+            {
+                  "name": "Солферино",
+                  "text": "Solferino este o plajă recunoscută din Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.684712,
+                        41.172256
+                  ]
+            },
+            {
+                  "name": "Аквариус",
+                  "text": "Beach Aquarius este o plajă populară situată în Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668335,
+                        41.172164
+                  ]
+            },
+            {
+                  "name": "Мајски Цвет",
+                  "text": "May Flower este o plajă relaxantă în Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.670412,
+                        41.17208
+                  ]
+            },
+            {
+                  "name": "Женска плажа",
+                  "text": "Plaja Femeilor este o secțiune de plajă specifică din Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.675,
+                        41.173683
+                  ]
+            },
+            {
+                  "name": "Сергеј Есенин",
+                  "text": "Monumentul Serghei Esenin este un monument cultural în Struga.",
+                  "category": "historical",
+                  "coords": [
+                        20.678375,
+                        41.173653
+                  ]
+            },
+            {
+                  "name": "Парк на поезијата",
+                  "text": "Parcul Poeziei este o atracție liniștită și plină de inspirație în Struga.",
+                  "category": "landmark",
+                  "coords": [
+                        20.677342,
+                        41.175032
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Д-р Никола Незлобински",
+                  "text": "Dr. Nikola Nezlobinski is a local museum located in Struga.",
+                  "category": "museum",
+                  "coords": [
+                        20.677608,
+                        41.180574
+                  ]
+            },
+            {
+                  "name": "Луна парк Струга",
+                  "text": "Luna Park Struga is an amusement park offering entertainment for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680973,
+                        41.173447
+                  ]
+            },
+            {
+                  "name": "Дрим",
+                  "text": "Drim is a beautiful beach located in the city of Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.679696,
+                        41.172484
+                  ]
+            },
+            {
+                  "name": "Машка",
+                  "text": "Mashka is a local beach in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.681896,
+                        41.172537
+                  ]
+            },
+            {
+                  "name": "Солферино",
+                  "text": "Solferino is a well-known beach located in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.684712,
+                        41.172256
+                  ]
+            },
+            {
+                  "name": "Beach Aquarius",
+                  "text": "Beach Aquarius is a popular beach in the city of Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.668335,
+                        41.172164
+                  ]
+            },
+            {
+                  "name": "May Flower",
+                  "text": "May Flower is a relaxing beach located in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.670412,
+                        41.17208
+                  ]
+            },
+            {
+                  "name": "Женска плажа",
+                  "text": "Women's Beach is a specific beach area located in Struga.",
+                  "category": "recreational",
+                  "coords": [
+                        20.675,
+                        41.173683
+                  ]
+            },
+            {
+                  "name": "Сергеј Есенин",
+                  "text": "The Sergei Yesenin monument is a cultural monument located in Struga.",
+                  "category": "historical",
+                  "coords": [
+                        20.678375,
+                        41.173653
+                  ]
+            },
+            {
+                  "name": "Poetry park",
+                  "text": "Poetry park is a peaceful and inspiring attraction located in Struga.",
+                  "category": "landmark",
+                  "coords": [
+                        20.677342,
+                        41.175032
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK-001",
     coords: [20.6783, 41.1778],
@@ -182,7 +551,88 @@ export const mkPoisPart1: POI[] = [
   },
   // MK-003: Debar
   {
-    id: "MK-003-debar-city",
+    id: "MK-003-debar-city", "sights": {
+      "de": [
+            {
+                  "name": "Рајчки Манастир",
+                  "text": "Ein bedeutendes Kloster, das für die Reliquien des Heiligen Georg bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.549073,
+                        41.514776
+                  ]
+            },
+            {
+                  "name": "Пијанечка Црква",
+                  "text": "Ein lokales orthodoxes Gotteshaus in der Nähe von Debar.",
+                  "category": "religious",
+                  "coords": [
+                        20.528409,
+                        41.5367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Рајчки Манастир",
+                  "text": "Jelentős kolostor, amely Szent György ereklyéiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.549073,
+                        41.514776
+                  ]
+            },
+            {
+                  "name": "Пијанечка Црква",
+                  "text": "Helyi ortodox templom Debar közelében.",
+                  "category": "religious",
+                  "coords": [
+                        20.528409,
+                        41.5367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Рајчки Манастир",
+                  "text": "O mănăstire importantă cunoscută pentru moaștele Sfântului Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        20.549073,
+                        41.514776
+                  ]
+            },
+            {
+                  "name": "Пијанечка Црква",
+                  "text": "O biserică ortodoxă locală în apropiere de Debar.",
+                  "category": "religious",
+                  "coords": [
+                        20.528409,
+                        41.5367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monastery of Rajchica",
+                  "text": "A significant monastery known for housing relics of Saint George.",
+                  "category": "landmark",
+                  "coords": [
+                        20.549073,
+                        41.514776
+                  ]
+            },
+            {
+                  "name": "Пијанечка Црква",
+                  "text": "A local Orthodox place of worship near Debar.",
+                  "category": "religious",
+                  "coords": [
+                        20.528409,
+                        41.5367
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK-003",
     coords: [20.5272, 41.5236],
@@ -360,7 +810,52 @@ export const mkPoisPart1: POI[] = [
   },
   // MK-005: Gostivar
   {
-    id: "MK-005-gostivar-city",
+    id: "MK-005-gostivar-city", "sights": {
+      "de": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "Ein historischer Uhrturm in Gostivar, ein markantes Wahrzeichen der Stadt aus der osmanischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "Gostivar történelmi óratornya, a város egyik jellegzetes oszmán kori műemléke.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "Un turn cu ceas istoric din Gostivar, un punct de reper distinctiv al orașului din epoca otomană.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sahat Kula",
+                  "text": "A historic clock tower in Gostivar, serving as a prominent landmark from the Ottoman era.",
+                  "category": "historical",
+                  "coords": [
+                        20.910857,
+                        41.794932
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MK-005",
     coords: [20.9114, 41.7961],

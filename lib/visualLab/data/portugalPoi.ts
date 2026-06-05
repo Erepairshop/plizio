@@ -2908,7 +2908,1456 @@ export const portugalNature: POI[] = [
 
 export const portugalCities: POI[] = [
   {
-    id: "city-coimbra",
+    id: "city-coimbra", "sights": {
+      "de": [
+            {
+                  "name": "Palácio Sub-Ripas",
+                  "text": "Ein bemerkenswerter Adelspalast in Coimbra mit markanten manuelinischen Architekturelementen.",
+                  "category": "castle",
+                  "coords": [
+                        -8.42838,
+                        40.209434
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Santa Clara-a-Velha",
+                  "text": "Die Ruinen eines gotischen Klosters in Coimbra, das heute als Museum und Ausgrabungsstätte dient.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432716,
+                        40.201946
+                  ]
+            },
+            {
+                  "name": "Teatro da Cerca de São Bernardo",
+                  "text": "Ein Theater in Coimbra, das als Raum für zeitgenössische Aufführungen und Kulturveranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.4296,
+                        40.212684
+                  ]
+            },
+            {
+                  "name": "Sé Velha de Coimbra",
+                  "text": "Die Alte Kathedrale von Coimbra, eine der wichtigsten romanischen Kirchen Portugals.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426994,
+                        40.208774
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António dos Olivais",
+                  "text": "Eine historische Kirche und ein ehemaliges Franziskanerkloster auf einem Hügel in Coimbra.",
+                  "category": "religious",
+                  "coords": [
+                        -8.403812,
+                        40.218075
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Cruz",
+                  "text": "Eine bedeutende Kirche und ein ehemaliges Kloster, das als nationales Pantheon Portugals dient.",
+                  "category": "religious",
+                  "coords": [
+                        -8.428736,
+                        40.21093
+                  ]
+            },
+            {
+                  "name": "Capela de São Miguel",
+                  "text": "Die Kapelle der Universität von Coimbra, bekannt für ihre reiche barocke Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426461,
+                        40.207415
+                  ]
+            },
+            {
+                  "name": "Penedo da Saudade",
+                  "text": "Ein terrassenförmiger Garten in Coimbra mit Denkmälern und Blick auf den Fluss Mondego.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.414659,
+                        40.205123
+                  ]
+            },
+            {
+                  "name": "Aqueduto de São Sebastião",
+                  "text": "Ein historisches Aquädukt aus dem 16. Jahrhundert, das die Stadt Coimbra mit Wasser versorgte.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.420686,
+                        40.206843
+                  ]
+            },
+            {
+                  "name": "Ponte Pedonal Pedro e Inês",
+                  "text": "Eine moderne Fußgängerbrücke in Coimbra, die für ihr farbenfrohes Glasdesign bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.427117,
+                        40.201132
+                  ]
+            },
+            {
+                  "name": "Açude-ponte de Coimbra",
+                  "text": "Ein Bauwerk, das gleichzeitig als Brücke und Wehr über den Fluss Mondego in Coimbra dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.440932,
+                        40.214945
+                  ]
+            },
+            {
+                  "name": "Parque de Santa Cruz",
+                  "text": "Ein historischer öffentlicher Park in Coimbra, der auch als Jardim da Sereia bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -8.416954,
+                        40.209687
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico da Universidade de Coimbra",
+                  "text": "Ein bedeutender botanischer Garten der Universität Coimbra mit einer großen Vielfalt an Pflanzen.",
+                  "category": "park",
+                  "coords": [
+                        -8.423517,
+                        40.20353
+                  ]
+            },
+            {
+                  "name": "Mata Nacional do Choupal",
+                  "text": "Ein weitläufiger Waldpark am Ufer des Mondego, ideal für Spaziergänge und Erholung.",
+                  "category": "park",
+                  "coords": [
+                        -8.454245,
+                        40.220092
+                  ]
+            },
+            {
+                  "name": "Portugal dos Pequenitos",
+                  "text": "Ein Themenpark in Coimbra mit Miniaturmodellen bedeutender portugiesischer Bauwerke.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.434012,
+                        40.201645
+                  ]
+            },
+            {
+                  "name": "Museu da Ciência",
+                  "text": "Das Wissenschaftsmuseum der Universität Coimbra mit historischen wissenschaftlichen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -8.423564,
+                        40.210187
+                  ]
+            },
+            {
+                  "name": "Casa Museu Bissaya Barreto",
+                  "text": "Ein Hausmuseum in Coimbra, das dem Leben und der Kunstsammlung von Professor Bissaya Barreto gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.419455,
+                        40.206173
+                  ]
+            },
+            {
+                  "name": "Exploratório - Centro Ciência Viva de Coimbra",
+                  "text": "Ein interaktives Wissenschaftszentrum in Coimbra, das sich an Kinder und Familien richtet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.429296,
+                        40.197027
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Miguel Torga",
+                  "text": "Das ehemalige Wohnhaus des Schriftstellers Miguel Torga in Coimbra, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -8.407108,
+                        40.215318
+                  ]
+            },
+            {
+                  "name": "União de Freguesias de Coimbra (secção Almedina)",
+                  "text": "Ein Verwaltungsgebäude im historischen Stadtteil Almedina in Coimbra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.428842,
+                        40.207409
+                  ]
+            },
+            {
+                  "name": "Teatro Académico Gil Vicente",
+                  "text": "Ein bedeutendes Theater in Coimbra, das eng mit der Universität verbunden ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.420573,
+                        40.209315
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Justa",
+                  "text": "Eine Pfarrkirche in Coimbra, die im 18. Jahrhundert neu erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -8.432721,
+                        40.21558
+                  ]
+            },
+            {
+                  "name": "Igreja de São João de Almedina",
+                  "text": "Eine historische Kirche innerhalb der alten Stadtmauern von Coimbra.",
+                  "category": "religious",
+                  "coords": [
+                        -8.425167,
+                        40.209122
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Esperança",
+                  "text": "Eine kleine Kapelle in Coimbra, die der Muttergottes der Hoffnung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.437136,
+                        40.201653
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Coimbra",
+                  "text": "Ein historischer Pranger in Coimbra, der als Symbol der städtischen Gerichtsbarkeit dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.415885,
+                        40.209401
+                  ]
+            },
+            {
+                  "name": "Fonte da Cheira",
+                  "text": "Ein traditioneller öffentlicher Brunnen in Coimbra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.405921,
+                        40.200431
+                  ]
+            },
+            {
+                  "name": "Ponte de Santa Clara",
+                  "text": "Eine Hauptbrücke über den Mondego, die das Stadtzentrum von Coimbra mit dem linken Ufer verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.430509,
+                        40.206021
+                  ]
+            },
+            {
+                  "name": "Parque Doutor Manuel Braga",
+                  "text": "Ein am Fluss gelegener Park in Coimbra mit schattigen Wegen und Denkmälern.",
+                  "category": "park",
+                  "coords": [
+                        -8.42759,
+                        40.205082
+                  ]
+            },
+            {
+                  "name": "Parque Verde do Mondego",
+                  "text": "Ein moderner Freizeitpark am Ufer des Mondego mit Cafés und Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        -8.424938,
+                        40.201345
+                  ]
+            },
+            {
+                  "name": "Lapa dos Esteios",
+                  "text": "Ein Waldpark am linken Ufer des Mondego in Coimbra, bekannt für seine Aussichtspunkte.",
+                  "category": "park",
+                  "coords": [
+                        -8.425424,
+                        40.190627
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes Urbanos de Coimbra",
+                  "text": "Ein Museum in Coimbra, das die Geschichte der städtischen Verkehrsmittel, einschließlich alter Straßenbahnen, zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.425471,
+                        40.205209
+                  ]
+            },
+            {
+                  "name": "Sala de Trofeus da AAC-OAF",
+                  "text": "Der Trophäenraum des Sportvereins Académica de Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.408661,
+                        40.203264
+                  ]
+            },
+            {
+                  "name": "Memorial Irmã Lúcia",
+                  "text": "Eine Gedenkstätte in Coimbra für Schwester Lúcia, eine der Seherinnen von Fatima.",
+                  "category": "museum",
+                  "coords": [
+                        -8.414993,
+                        40.206674
+                  ]
+            },
+            {
+                  "name": "Micro Museu de Santa Clara",
+                  "text": "Ein kleines Museum im Stadtteil Santa Clara in Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431776,
+                        40.204936
+                  ]
+            },
+            {
+                  "name": "Atelier do Corvo",
+                  "text": "Eine Kunstgalerie und ein Atelier in Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.427952,
+                        40.213729
+                  ]
+            },
+            {
+                  "name": "E.R.V.A. gallery",
+                  "text": "Eine Galerie in Coimbra, die verschiedenen künstlerischen Ausdrucksformen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431794,
+                        40.212396
+                  ]
+            },
+            {
+                  "name": "Galeria Sete",
+                  "text": "Eine Kunstgalerie in Coimbra, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.401173,
+                        40.205905
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Casa da Mutualidade",
+                  "text": "Eine Kunstgalerie im Gebäude der Casa da Mutualidade in Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432016,
+                        40.213835
+                  ]
+            },
+            {
+                  "name": "Quinta da Malavada",
+                  "text": "Überreste eines historischen Anwesens oder Gebäudes in Coimbra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413844,
+                        40.190649
+                  ]
+            },
+            {
+                  "name": "Teatro Público",
+                  "text": "Ein öffentliches Theater in Coimbra für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.409848,
+                        40.195397
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palácio Sub-Ripas",
+                  "text": "Nevezetes nemesi palota Coimbrában, jellegzetes mánuel stílusú építészeti elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        -8.42838,
+                        40.209434
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Santa Clara-a-Velha",
+                  "text": "Egy gótikus kolostor romjai Coimbrában, amely ma múzeumként és régészeti lelőhelyként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432716,
+                        40.201946
+                  ]
+            },
+            {
+                  "name": "Teatro da Cerca de São Bernardo",
+                  "text": "Coimbrai színház, amely kortárs előadásoknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.4296,
+                        40.212684
+                  ]
+            },
+            {
+                  "name": "Sé Velha de Coimbra",
+                  "text": "Coimbra régi székesegyháza, Portugália egyik legjelentősebb román stílusú temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426994,
+                        40.208774
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António dos Olivais",
+                  "text": "Történelmi templom és egykori ferences kolostor Coimbra egyik dombján.",
+                  "category": "religious",
+                  "coords": [
+                        -8.403812,
+                        40.218075
+                  ]
+            },
+            {
+                  "name": "Szent Kereszt templom",
+                  "text": "Jelentős templom és egykori kolostor, amely Portugália nemzeti panteonjaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -8.428736,
+                        40.21093
+                  ]
+            },
+            {
+                  "name": "Szent Mihály arkangyal kápolna",
+                  "text": "A Coimbrai Egyetem kápolnája, amely gazdag barokk belső díszítéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426461,
+                        40.207415
+                  ]
+            },
+            {
+                  "name": "Penedo da Saudade",
+                  "text": "Teraszos kert Coimbrában emlékművekkel és kilátással a Mondego folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.414659,
+                        40.205123
+                  ]
+            },
+            {
+                  "name": "Aqueduto de São Sebastião",
+                  "text": "16. századi történelmi vízvezeték, amely Coimbra vízellátását biztosította.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.420686,
+                        40.206843
+                  ]
+            },
+            {
+                  "name": "Ponte Pedonal Pedro e Inês",
+                  "text": "Modern gyalogoshíd Coimbrában, amely színes üvegkialakításáról nevezetes.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.427117,
+                        40.201132
+                  ]
+            },
+            {
+                  "name": "Açude-ponte de Coimbra",
+                  "text": "Hídként és gátként is szolgáló építmény a Mondego folyón Coimbrában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.440932,
+                        40.214945
+                  ]
+            },
+            {
+                  "name": "Parque de Santa Cruz",
+                  "text": "Történelmi közpark Coimbrában, amelyet Jardim da Sereia néven is ismernek.",
+                  "category": "park",
+                  "coords": [
+                        -8.416954,
+                        40.209687
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico da Universidade de Coimbra",
+                  "text": "A Coimbrai Egyetem jelentős botanikus kertje gazdag növényvilággal.",
+                  "category": "park",
+                  "coords": [
+                        -8.423517,
+                        40.20353
+                  ]
+            },
+            {
+                  "name": "Mata Nacional do Choupal",
+                  "text": "Kiterjedt erdei park a Mondego partján, amely ideális sétákhoz és kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        -8.454245,
+                        40.220092
+                  ]
+            },
+            {
+                  "name": "Portugal dos Pequenitos",
+                  "text": "Tematikus park Coimbrában, amely jelentős portugál építmények miniatűr másait mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.434012,
+                        40.201645
+                  ]
+            },
+            {
+                  "name": "Museu da Ciência",
+                  "text": "A Coimbrai Egyetem tudományos múzeuma történelmi tudományos gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -8.423564,
+                        40.210187
+                  ]
+            },
+            {
+                  "name": "Casa Museu Bissaya Barreto",
+                  "text": "Emlékház Coimbrában, amely Bissaya Barreto professzor életét és műgyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.419455,
+                        40.206173
+                  ]
+            },
+            {
+                  "name": "Exploratório - Centro Ciência Viva de Coimbra",
+                  "text": "Interaktív tudományos központ Coimbrában, amely gyermekeknek és családoknak kínál programokat.",
+                  "category": "museum",
+                  "coords": [
+                        -8.429296,
+                        40.197027
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Miguel Torga",
+                  "text": "Miguel Torga író egykori lakóháza Coimbrában, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -8.407108,
+                        40.215318
+                  ]
+            },
+            {
+                  "name": "União de Freguesias de Coimbra (secção Almedina)",
+                  "text": "Közigazgatási épület Coimbra történelmi Almedina negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.428842,
+                        40.207409
+                  ]
+            },
+            {
+                  "name": "Teatro Académico Gil Vicente",
+                  "text": "Jelentős színház Coimbrában, amely szorosan kapcsolódik az egyetemhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.420573,
+                        40.209315
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Justa",
+                  "text": "Coimbrai plébániatemplom, amelyet a 18. században építettek újjá.",
+                  "category": "religious",
+                  "coords": [
+                        -8.432721,
+                        40.21558
+                  ]
+            },
+            {
+                  "name": "Igreja de São João de Almedina",
+                  "text": "Történelmi templom Coimbra régi városfalain belül.",
+                  "category": "religious",
+                  "coords": [
+                        -8.425167,
+                        40.209122
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Esperança",
+                  "text": "Kisméretű kápolna Coimbrában, amelyet a Reménység Anyjának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.437136,
+                        40.201653
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Coimbra",
+                  "text": "Történelmi szégyenoszlop Coimbrában, a városi igazságszolgáltatás szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.415885,
+                        40.209401
+                  ]
+            },
+            {
+                  "name": "Fonte da Cheira",
+                  "text": "Hagyományos közösségi kút Coimbra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.405921,
+                        40.200431
+                  ]
+            },
+            {
+                  "name": "Ponte de Santa Clara",
+                  "text": "A Mondegón átívelő főhíd, amely Coimbra központját köti össze a bal parttal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.430509,
+                        40.206021
+                  ]
+            },
+            {
+                  "name": "Parque Doutor Manuel Braga",
+                  "text": "Folyóparti park Coimbrában árnyas sétányokkal és emlékművekkel.",
+                  "category": "park",
+                  "coords": [
+                        -8.42759,
+                        40.205082
+                  ]
+            },
+            {
+                  "name": "Parque Verde do Mondego",
+                  "text": "Modern szabadidőpark a Mondego partján kávézókkal és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        -8.424938,
+                        40.201345
+                  ]
+            },
+            {
+                  "name": "Lapa dos Esteios",
+                  "text": "Erdei park a Mondego bal partján Coimbrában, amely kilátóhelyeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        -8.425424,
+                        40.190627
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes Urbanos de Coimbra",
+                  "text": "Coimbrai múzeum, amely a városi közlekedés történetét és régi villamosokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.425471,
+                        40.205209
+                  ]
+            },
+            {
+                  "name": "Sala de Trofeus da AAC-OAF",
+                  "text": "Az Académica de Coimbra sportegyesület trófeaterme.",
+                  "category": "museum",
+                  "coords": [
+                        -8.408661,
+                        40.203264
+                  ]
+            },
+            {
+                  "name": "Memorial Irmã Lúcia",
+                  "text": "Emlékhely Coimbrában Lúcia nővérnek, a fátimai látnokok egyikének tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        -8.414993,
+                        40.206674
+                  ]
+            },
+            {
+                  "name": "Micro Museu de Santa Clara",
+                  "text": "Egy kisméretű múzeum Coimbra Santa Clara negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431776,
+                        40.204936
+                  ]
+            },
+            {
+                  "name": "Atelier do Corvo",
+                  "text": "Művészeti galéria és műhely Coimbrában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.427952,
+                        40.213729
+                  ]
+            },
+            {
+                  "name": "E.R.V.A. gallery",
+                  "text": "Coimbrai galéria, amely különféle művészeti ágaknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431794,
+                        40.212396
+                  ]
+            },
+            {
+                  "name": "Galeria Sete",
+                  "text": "Kortárs műveket bemutató művészeti galéria Coimbrában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.401173,
+                        40.205905
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Casa da Mutualidade",
+                  "text": "Művészeti galéria a coimbrai Casa da Mutualidade épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432016,
+                        40.213835
+                  ]
+            },
+            {
+                  "name": "Quinta da Malavada",
+                  "text": "Egy történelmi birtok vagy épület maradványai Coimbrában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413844,
+                        40.190649
+                  ]
+            },
+            {
+                  "name": "Teatro Público",
+                  "text": "Coimbrai nyilvános színház, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.409848,
+                        40.195397
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palácio Sub-Ripas",
+                  "text": "Un palat nobiliar remarcabil din Coimbra, cu elemente arhitecturale manueline distinctive.",
+                  "category": "castle",
+                  "coords": [
+                        -8.42838,
+                        40.209434
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Santa Clara-a-Velha",
+                  "text": "Ruinele unei mănăstiri gotice din Coimbra, care astăzi servește ca muzeu și sit arheologic.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432716,
+                        40.201946
+                  ]
+            },
+            {
+                  "name": "Teatro da Cerca de São Bernardo",
+                  "text": "Un teatru din Coimbra utilizat ca spațiu pentru spectacole contemporane și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.4296,
+                        40.212684
+                  ]
+            },
+            {
+                  "name": "Sé Velha de Coimbra",
+                  "text": "Vechea Catedrală din Coimbra, una dintre cele mai importante biserici romanice din Portugalia.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426994,
+                        40.208774
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António dos Olivais",
+                  "text": "O biserică istorică și fostă mănăstire franciscană situată pe un deal din Coimbra.",
+                  "category": "religious",
+                  "coords": [
+                        -8.403812,
+                        40.218075
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Cruz",
+                  "text": "O biserică importantă și fostă mănăstire care servește drept panteon național al Portugaliei.",
+                  "category": "religious",
+                  "coords": [
+                        -8.428736,
+                        40.21093
+                  ]
+            },
+            {
+                  "name": "Capela de São Miguel",
+                  "text": "Capela Universității din Coimbra, cunoscută pentru decorul său interior baroc bogat.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426461,
+                        40.207415
+                  ]
+            },
+            {
+                  "name": "Penedo da Saudade",
+                  "text": "O grădină terasată din Coimbra, cu monumente și vedere spre râul Mondego.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.414659,
+                        40.205123
+                  ]
+            },
+            {
+                  "name": "Aqueduto de São Sebastião",
+                  "text": "Un apeduct istoric din secolul al XVI-lea care asigura alimentarea cu apă a orașului Coimbra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.420686,
+                        40.206843
+                  ]
+            },
+            {
+                  "name": "Ponte Pedonal Pedro e Inês",
+                  "text": "Un pod pietonal modern din Coimbra, cunoscut pentru designul său cu sticlă colorată.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.427117,
+                        40.201132
+                  ]
+            },
+            {
+                  "name": "Açude-ponte de Coimbra",
+                  "text": "O structură care servește atât ca pod, cât și ca baraj peste râul Mondego în Coimbra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.440932,
+                        40.214945
+                  ]
+            },
+            {
+                  "name": "Parque de Santa Cruz",
+                  "text": "Un parc public istoric din Coimbra, cunoscut și sub numele de Jardim da Sereia.",
+                  "category": "park",
+                  "coords": [
+                        -8.416954,
+                        40.209687
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico da Universidade de Coimbra",
+                  "text": "O grădină botanică importantă a Universității din Coimbra, cu o mare varietate de plante.",
+                  "category": "park",
+                  "coords": [
+                        -8.423517,
+                        40.20353
+                  ]
+            },
+            {
+                  "name": "Mata Nacional do Choupal",
+                  "text": "Un parc forestier vast pe malul râului Mondego, ideal pentru plimbări și recreere.",
+                  "category": "park",
+                  "coords": [
+                        -8.454245,
+                        40.220092
+                  ]
+            },
+            {
+                  "name": "Portugal dos Pequenitos",
+                  "text": "Un parc tematic din Coimbra cu machete în miniatură ale unor edificii portugheze importante.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.434012,
+                        40.201645
+                  ]
+            },
+            {
+                  "name": "Museu da Ciência",
+                  "text": "Muzeul de Știință al Universității din Coimbra, cu colecții științifice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -8.423564,
+                        40.210187
+                  ]
+            },
+            {
+                  "name": "Casa Museu Bissaya Barreto",
+                  "text": "O casă-muzeu din Coimbra dedicată vieții și colecției de artă a profesorului Bissaya Barreto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.419455,
+                        40.206173
+                  ]
+            },
+            {
+                  "name": "Exploratório - Centro Ciência Viva de Coimbra",
+                  "text": "Un centru științific interactiv din Coimbra, destinat copiilor și familiilor.",
+                  "category": "museum",
+                  "coords": [
+                        -8.429296,
+                        40.197027
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Miguel Torga",
+                  "text": "Fosta locuință a scriitorului Miguel Torga din Coimbra, care astăzi servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -8.407108,
+                        40.215318
+                  ]
+            },
+            {
+                  "name": "União de Freguesias de Coimbra (secção Almedina)",
+                  "text": "O clădire administrativă din cartierul istoric Almedina din Coimbra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.428842,
+                        40.207409
+                  ]
+            },
+            {
+                  "name": "Teatro Académico Gil Vicente",
+                  "text": "Un teatru important din Coimbra, strâns legat de universitate.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.420573,
+                        40.209315
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Justa",
+                  "text": "O biserică parohială din Coimbra, reconstruită în secolul al XVIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -8.432721,
+                        40.21558
+                  ]
+            },
+            {
+                  "name": "Igreja de São João de Almedina",
+                  "text": "O biserică istorică situată în interiorul vechilor ziduri ale orașului Coimbra.",
+                  "category": "religious",
+                  "coords": [
+                        -8.425167,
+                        40.209122
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Esperança",
+                  "text": "O mică chapelă din Coimbra dedicată Maicii Domnului a Speranței.",
+                  "category": "religious",
+                  "coords": [
+                        -8.437136,
+                        40.201653
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Coimbra",
+                  "text": "Un pilon istoric din Coimbra, simbol al jurisdicției municipale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.415885,
+                        40.209401
+                  ]
+            },
+            {
+                  "name": "Fonte da Cheira",
+                  "text": "O fântână publică tradițională din orașul Coimbra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.405921,
+                        40.200431
+                  ]
+            },
+            {
+                  "name": "Ponte de Santa Clara",
+                  "text": "Un pod principal peste Mondego, care leagă centrul orașului Coimbra de malul stâng.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.430509,
+                        40.206021
+                  ]
+            },
+            {
+                  "name": "Parque Doutor Manuel Braga",
+                  "text": "Un parc situat pe malul râului în Coimbra, cu alei umbrite și monumente.",
+                  "category": "park",
+                  "coords": [
+                        -8.42759,
+                        40.205082
+                  ]
+            },
+            {
+                  "name": "Parque Verde do Mondego",
+                  "text": "Un parc de recreere modern pe malul râului Mondego, cu cafenele și trasee de plimbare.",
+                  "category": "park",
+                  "coords": [
+                        -8.424938,
+                        40.201345
+                  ]
+            },
+            {
+                  "name": "Lapa dos Esteios",
+                  "text": "Un parc forestier pe malul stâng al râului Mondego în Coimbra, cunoscut pentru punctele sale de belvedere.",
+                  "category": "park",
+                  "coords": [
+                        -8.425424,
+                        40.190627
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes Urbanos de Coimbra",
+                  "text": "Un muzeu din Coimbra care prezintă istoria transportului urban, inclusiv tramvaie vechi.",
+                  "category": "museum",
+                  "coords": [
+                        -8.425471,
+                        40.205209
+                  ]
+            },
+            {
+                  "name": "Sala de Trofeus da AAC-OAF",
+                  "text": "Sala de trofee a clubului sportiv Académica de Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.408661,
+                        40.203264
+                  ]
+            },
+            {
+                  "name": "Memorial Irmã Lúcia",
+                  "text": "Un memorial în Coimbra dedicat Sorei Lúcia, una dintre vizionarele de la Fatima.",
+                  "category": "museum",
+                  "coords": [
+                        -8.414993,
+                        40.206674
+                  ]
+            },
+            {
+                  "name": "Micro Museu de Santa Clara",
+                  "text": "Un mic muzeu situat în cartierul Santa Clara din Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431776,
+                        40.204936
+                  ]
+            },
+            {
+                  "name": "Atelier do Corvo",
+                  "text": "O galerie de artă și atelier în Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.427952,
+                        40.213729
+                  ]
+            },
+            {
+                  "name": "E.R.V.A. gallery",
+                  "text": "O galerie din Coimbra dedicată diverselor forme de exprimare artistică.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431794,
+                        40.212396
+                  ]
+            },
+            {
+                  "name": "Galeria Sete",
+                  "text": "O galerie de artă din Coimbra care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -8.401173,
+                        40.205905
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Casa da Mutualidade",
+                  "text": "O galerie de artă situată în clădirea Casa da Mutualidade din Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432016,
+                        40.213835
+                  ]
+            },
+            {
+                  "name": "Quinta da Malavada",
+                  "text": "Vestigiile unei proprietăți sau clădiri istorice din Coimbra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413844,
+                        40.190649
+                  ]
+            },
+            {
+                  "name": "Teatro Público",
+                  "text": "Un teatru public din Coimbra care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.409848,
+                        40.195397
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palácio Sub-Ripas",
+                  "text": "A notable noble palace in Coimbra featuring distinct Manueline architectural elements.",
+                  "category": "castle",
+                  "coords": [
+                        -8.42838,
+                        40.209434
+                  ]
+            },
+            {
+                  "name": "Mosteiro de Santa Clara-a-Velha",
+                  "text": "The ruins of a Gothic monastery in Coimbra, now serving as a museum and archaeological site.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432716,
+                        40.201946
+                  ]
+            },
+            {
+                  "name": "Teatro da Cerca de São Bernardo",
+                  "text": "A theatre in Coimbra used as a space for contemporary performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.4296,
+                        40.212684
+                  ]
+            },
+            {
+                  "name": "Sé Velha de Coimbra",
+                  "text": "The Old Cathedral of Coimbra, one of the most important Romanesque churches in Portugal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426994,
+                        40.208774
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António dos Olivais",
+                  "text": "A historic church and former Franciscan monastery located on a hill in Coimbra.",
+                  "category": "religious",
+                  "coords": [
+                        -8.403812,
+                        40.218075
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Cruz",
+                  "text": "A significant church and former monastery that serves as a National Pantheon of Portugal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.428736,
+                        40.21093
+                  ]
+            },
+            {
+                  "name": "Capela de São Miguel",
+                  "text": "The chapel of the University of Coimbra, known for its rich Baroque interior decoration.",
+                  "category": "religious",
+                  "coords": [
+                        -8.426461,
+                        40.207415
+                  ]
+            },
+            {
+                  "name": "Penedo da Saudade",
+                  "text": "A terraced garden in Coimbra featuring monuments and views of the Mondego River.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.414659,
+                        40.205123
+                  ]
+            },
+            {
+                  "name": "Aqueduto de São Sebastião",
+                  "text": "A historic 16th-century aqueduct that supplied water to the city of Coimbra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.420686,
+                        40.206843
+                  ]
+            },
+            {
+                  "name": "Ponte Pedonal Pedro e Inês",
+                  "text": "A modern pedestrian bridge in Coimbra known for its colorful glass design.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.427117,
+                        40.201132
+                  ]
+            },
+            {
+                  "name": "Açude-ponte de Coimbra",
+                  "text": "A structure serving both as a bridge and a dam over the Mondego River in Coimbra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.440932,
+                        40.214945
+                  ]
+            },
+            {
+                  "name": "Parque de Santa Cruz",
+                  "text": "A historic public park in Coimbra, also known as Jardim da Sereia.",
+                  "category": "park",
+                  "coords": [
+                        -8.416954,
+                        40.209687
+                  ]
+            },
+            {
+                  "name": "Botanical Garden of the University of Coimbra",
+                  "text": "A significant botanical garden of the University of Coimbra with a wide variety of plants.",
+                  "category": "park",
+                  "coords": [
+                        -8.423517,
+                        40.20353
+                  ]
+            },
+            {
+                  "name": "Mata Nacional do Choupal",
+                  "text": "An extensive forest park on the banks of the Mondego, ideal for walks and recreation.",
+                  "category": "park",
+                  "coords": [
+                        -8.454245,
+                        40.220092
+                  ]
+            },
+            {
+                  "name": "Portugal dos Pequenitos",
+                  "text": "A theme park in Coimbra featuring miniature models of significant Portuguese buildings.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.434012,
+                        40.201645
+                  ]
+            },
+            {
+                  "name": "Museu da Ciência",
+                  "text": "The science museum of the University of Coimbra featuring historical scientific collections.",
+                  "category": "museum",
+                  "coords": [
+                        -8.423564,
+                        40.210187
+                  ]
+            },
+            {
+                  "name": "Casa Museu Bissaya Barreto",
+                  "text": "A house-museum in Coimbra dedicated to the life and art collection of Professor Bissaya Barreto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.419455,
+                        40.206173
+                  ]
+            },
+            {
+                  "name": "Exploratório - Centro Ciência Viva de Coimbra",
+                  "text": "An interactive science center in Coimbra aimed at children and families.",
+                  "category": "museum",
+                  "coords": [
+                        -8.429296,
+                        40.197027
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Miguel Torga",
+                  "text": "The former residence of writer Miguel Torga in Coimbra, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.407108,
+                        40.215318
+                  ]
+            },
+            {
+                  "name": "União de Freguesias de Coimbra (secção Almedina)",
+                  "text": "An administrative building in the historic Almedina district of Coimbra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.428842,
+                        40.207409
+                  ]
+            },
+            {
+                  "name": "Teatro Académico Gil Vicente",
+                  "text": "A significant theatre in Coimbra, closely linked to the university.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.420573,
+                        40.209315
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Justa",
+                  "text": "A parish church in Coimbra, rebuilt in the 18th century.",
+                  "category": "religious",
+                  "coords": [
+                        -8.432721,
+                        40.21558
+                  ]
+            },
+            {
+                  "name": "Igreja de São João de Almedina",
+                  "text": "A historic church located within the old city walls of Coimbra.",
+                  "category": "religious",
+                  "coords": [
+                        -8.425167,
+                        40.209122
+                  ]
+            },
+            {
+                  "name": "Capela da Nossa Senhora da Esperança",
+                  "text": "A small chapel in Coimbra dedicated to Our Lady of Hope.",
+                  "category": "religious",
+                  "coords": [
+                        -8.437136,
+                        40.201653
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Coimbra",
+                  "text": "A historic pillory in Coimbra serving as a symbol of municipal jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.415885,
+                        40.209401
+                  ]
+            },
+            {
+                  "name": "Fonte da Cheira",
+                  "text": "A traditional public fountain in the city of Coimbra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.405921,
+                        40.200431
+                  ]
+            },
+            {
+                  "name": "Ponte de Santa Clara",
+                  "text": "A main bridge over the Mondego connecting Coimbra's city center with the left bank.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.430509,
+                        40.206021
+                  ]
+            },
+            {
+                  "name": "Parque Doutor Manuel Braga",
+                  "text": "A riverside park in Coimbra featuring shaded paths and monuments.",
+                  "category": "park",
+                  "coords": [
+                        -8.42759,
+                        40.205082
+                  ]
+            },
+            {
+                  "name": "Parque Verde do Mondego",
+                  "text": "A modern leisure park on the banks of the Mondego with cafes and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        -8.424938,
+                        40.201345
+                  ]
+            },
+            {
+                  "name": "Lapa dos Esteios",
+                  "text": "A forest park on the left bank of the Mondego in Coimbra, known for its viewpoints.",
+                  "category": "park",
+                  "coords": [
+                        -8.425424,
+                        40.190627
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes Urbanos de Coimbra",
+                  "text": "A museum in Coimbra showcasing the history of urban transport, including old trams.",
+                  "category": "museum",
+                  "coords": [
+                        -8.425471,
+                        40.205209
+                  ]
+            },
+            {
+                  "name": "Sala de Trofeus da AAC-OAF",
+                  "text": "The trophy room of the Académica de Coimbra sports club.",
+                  "category": "museum",
+                  "coords": [
+                        -8.408661,
+                        40.203264
+                  ]
+            },
+            {
+                  "name": "Memorial Irmã Lúcia",
+                  "text": "A memorial in Coimbra dedicated to Sister Lúcia, one of the seers of Fatima.",
+                  "category": "museum",
+                  "coords": [
+                        -8.414993,
+                        40.206674
+                  ]
+            },
+            {
+                  "name": "Micro Museu de Santa Clara",
+                  "text": "A small museum located in the Santa Clara district of Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431776,
+                        40.204936
+                  ]
+            },
+            {
+                  "name": "Atelier do Corvo",
+                  "text": "An art gallery and studio located in Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.427952,
+                        40.213729
+                  ]
+            },
+            {
+                  "name": "E.R.V.A. gallery",
+                  "text": "A gallery in Coimbra dedicated to various forms of artistic expression.",
+                  "category": "museum",
+                  "coords": [
+                        -8.431794,
+                        40.212396
+                  ]
+            },
+            {
+                  "name": "Galeria Sete",
+                  "text": "An art gallery in Coimbra presenting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -8.401173,
+                        40.205905
+                  ]
+            },
+            {
+                  "name": "Galeria de Arte Casa da Mutualidade",
+                  "text": "An art gallery located in the Casa da Mutualidade building in Coimbra.",
+                  "category": "museum",
+                  "coords": [
+                        -8.432016,
+                        40.213835
+                  ]
+            },
+            {
+                  "name": "Quinta da Malavada",
+                  "text": "Remains of a historic estate or building in Coimbra.",
+                  "category": "historical",
+                  "coords": [
+                        -8.413844,
+                        40.190649
+                  ]
+            },
+            {
+                  "name": "Teatro Público",
+                  "text": "A public theatre in Coimbra hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.409848,
+                        40.195397
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.4103, 40.2033],
@@ -2996,7 +4445,1024 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-faro",
+    id: "city-faro", "sights": {
+      "de": [
+            {
+                  "name": "Museu Marítimo Almirante Ramalho Ortigão",
+                  "text": "Ein Schifffahrtsmuseum, das die Seefahrtsgeschichte der Algarve in Faro zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.937518,
+                        37.016373
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Faro",
+                  "text": "Das Hauptmuseum der Stadt Faro, untergebracht in einem ehemaligen Kloster.",
+                  "category": "museum",
+                  "coords": [
+                        -7.933893,
+                        37.012951
+                  ]
+            },
+            {
+                  "name": "Teatro das Figuras",
+                  "text": "Ein modernes Theater und Veranstaltungszentrum für darstellende Künste in Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.944547,
+                        37.024985
+                  ]
+            },
+            {
+                  "name": "Paço Episcopal",
+                  "text": "Der historische Bischofspalast, ein Wahrzeichen der Altstadt von Faro.",
+                  "category": "castle",
+                  "coords": [
+                        -7.935016,
+                        37.014011
+                  ]
+            },
+            {
+                  "name": "Palacete Guerreirinho",
+                  "text": "Ein historisches palastartiges Gebäude in der Stadt Faro.",
+                  "category": "castle",
+                  "coords": [
+                        -7.938068,
+                        37.019469
+                  ]
+            },
+            {
+                  "name": "Museu Regional do Algarve",
+                  "text": "Ein Museum für Kultur und Ethnographie der Region Algarve in Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.931102,
+                        37.016091
+                  ]
+            },
+            {
+                  "name": "Teatro Lethes",
+                  "text": "Ein historisches Theater, das in einem ehemaligen Jesuitenkolleg in Faro eingerichtet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.931733,
+                        37.018291
+                  ]
+            },
+            {
+                  "name": "Museu e Igreja da Misericórdia",
+                  "text": "Ein Museum- und Kirchenkomplex der Bruderschaft Misericórdia in Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.934736,
+                        37.015223
+                  ]
+            },
+            {
+                  "name": "Faro story spot",
+                  "text": "Ein interaktives Museum über die Geschichte und Legenden von Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.935162,
+                        37.0129
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "Ein Küstenabschnitt und Strandbereich in der Region Faro.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.941509,
+                        37.006532
+                  ]
+            },
+            {
+                  "name": "Centro de Ciência Viva do Algarve",
+                  "text": "Ein Wissenschaftszentrum und Museum für Meeresbiologie und Umwelt in Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.936148,
+                        37.013299
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Veranstaltungsort im Freien für Aufführungen und Theater in Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.947722,
+                        37.026623
+                  ]
+            },
+            {
+                  "name": "Anfiteateatro da Penha",
+                  "text": "Ein Theater- und Veranstaltungsort im Stadtteil Penha von Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.92203,
+                        37.028307
+                  ]
+            },
+            {
+                  "name": "Palácio Fialho",
+                  "text": "Ein bedeutendes Herrenhaus aus dem frühen 20. Jahrhundert in Faro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.917393,
+                        37.019559
+                  ]
+            },
+            {
+                  "name": "Casa das Figuras",
+                  "text": "Ein historisches Gebäude in Faro, das für seine architektonischen Details bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.945341,
+                        37.026122
+                  ]
+            },
+            {
+                  "name": "Palacete Belmarço",
+                  "text": "Ein elegantes historisches Herrenhaus und architektonisches Denkmal in Faro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.932905,
+                        37.01409
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 738",
+                  "text": "Der symbolische Endpunkt der historischen Nationalstraße EN 2 in Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.932024,
+                        37.026004
+                  ]
+            },
+            {
+                  "name": "Palacio Bivar",
+                  "text": "Ein markantes historisches Palastgebäude im Zentrum von Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.93523,
+                        37.016822
+                  ]
+            },
+            {
+                  "name": "Casa Crispim",
+                  "text": "Ein bedeutendes historisches Wohnhaus und Gebäude in Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.935852,
+                        37.018066
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António dos Capuchos",
+                  "text": "Ein ehemaliges Kapuzinerkloster mit religiöser und historischer Bedeutung in Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.936774,
+                        37.019783
+                  ]
+            },
+            {
+                  "name": "Galeria Between",
+                  "text": "Eine Kunstgalerie für zeitgenössische Werke in der Stadt Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.929287,
+                        37.021946
+                  ]
+            },
+            {
+                  "name": "Miradouro da Atalaia",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Region Faro bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -7.915695,
+                        37.016388
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf die Stadt Faro ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        -7.92031,
+                        37.019432
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Pedro",
+                  "text": "Die Hauptpfarrkirche des Stadtteils São Pedro in Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934596,
+                        37.018692
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Eine Barockkirche in Faro, die für ihre Knochenkapelle bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934708,
+                        37.020232
+                  ]
+            },
+            {
+                  "name": "Igreja da Ordem Terceira de São Francisco",
+                  "text": "Eine historische katholische Kirche in Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930826,
+                        37.012787
+                  ]
+            },
+            {
+                  "name": "Capela de São Luís",
+                  "text": "Eine kleine Kapelle in Faro, die dem heiligen Ludwig gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.927639,
+                        37.021965
+                  ]
+            },
+            {
+                  "name": "Ermida de São Miguel",
+                  "text": "Eine religiöse Gebetsstätte in Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.940428,
+                        37.036108
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Marítimo Almirante Ramalho Ortigão",
+                  "text": "Tengerészeti múzeum Faro városában, amely az Algarve hajózási múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.937518,
+                        37.016373
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Faro",
+                  "text": "Faro városának fő múzeuma, amely egy egykori kolostorban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.933893,
+                        37.012951
+                  ]
+            },
+            {
+                  "name": "Teatro das Figuras",
+                  "text": "Modern színház és előadóművészeti központ Faro városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.944547,
+                        37.024985
+                  ]
+            },
+            {
+                  "name": "Paço Episcopal",
+                  "text": "A történelmi püspöki palota, Faro óvárosának egyik nevezetessége.",
+                  "category": "castle",
+                  "coords": [
+                        -7.935016,
+                        37.014011
+                  ]
+            },
+            {
+                  "name": "Palacete Guerreirinho",
+                  "text": "Történelmi palotaépület Faro városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.938068,
+                        37.019469
+                  ]
+            },
+            {
+                  "name": "Museu Regional do Algarve",
+                  "text": "Faro múzeuma, amely az Algarve régió kultúráját és néprajzát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.931102,
+                        37.016091
+                  ]
+            },
+            {
+                  "name": "Teatro Lethes",
+                  "text": "Történelmi színház, amelyet egy egykori jezsuita kollégiumban alakítottak ki Faróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.931733,
+                        37.018291
+                  ]
+            },
+            {
+                  "name": "Museu e Igreja da Misericórdia",
+                  "text": "A Misericórdia testvériség múzeum- és templomegyüttese Faróban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.934736,
+                        37.015223
+                  ]
+            },
+            {
+                  "name": "Faro story spot",
+                  "text": "Interaktív múzeum Faro történelméről és legendáiról.",
+                  "category": "museum",
+                  "coords": [
+                        -7.935162,
+                        37.0129
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "Tengerparti szakasz és strand Faro környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.941509,
+                        37.006532
+                  ]
+            },
+            {
+                  "name": "Centro de Ciência Viva do Algarve",
+                  "text": "Tudományos központ és múzeum a tengeri életről és a környezetről Faróban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.936148,
+                        37.013299
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Szabadtéri helyszín előadások és színházi produkciók számára Faróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.947722,
+                        37.026623
+                  ]
+            },
+            {
+                  "name": "Anfiteateatro da Penha",
+                  "text": "Színházi és előadói helyszín Faro Penha negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.92203,
+                        37.028307
+                  ]
+            },
+            {
+                  "name": "Palácio Fialho",
+                  "text": "Jelentős, 20. század eleji udvarház Faro városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.917393,
+                        37.019559
+                  ]
+            },
+            {
+                  "name": "Casa das Figuras",
+                  "text": "Történelmi épület Faróban, amely építészeti részleteiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.945341,
+                        37.026122
+                  ]
+            },
+            {
+                  "name": "Palacete Belmarço",
+                  "text": "Elegáns történelmi kúria és építészeti műemlék Faróban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.932905,
+                        37.01409
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 738",
+                  "text": "A történelmi EN 2-es országút szimbolikus végpontja Faróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.932024,
+                        37.026004
+                  ]
+            },
+            {
+                  "name": "Palacio Bivar",
+                  "text": "Kiemelkedő történelmi palotaépület Faro központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.93523,
+                        37.016822
+                  ]
+            },
+            {
+                  "name": "Casa Crispim",
+                  "text": "Jelentős történelmi lakóház és épület Faróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.935852,
+                        37.018066
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António dos Capuchos",
+                  "text": "Egykori kapucinus kolostor vallási és történelmi jelentőséggel Faróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.936774,
+                        37.019783
+                  ]
+            },
+            {
+                  "name": "Galeria Between",
+                  "text": "Kortárs művészeti galéria Faro városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.929287,
+                        37.021946
+                  ]
+            },
+            {
+                  "name": "Miradouro da Atalaia",
+                  "text": "Kilátópont, ahonnan tágas kilátás nyílik Faro régiójára.",
+                  "category": "natural",
+                  "coords": [
+                        -7.915695,
+                        37.016388
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "Kilátóhely, amely panorámás kilátást nyújt Faro városára.",
+                  "category": "natural",
+                  "coords": [
+                        -7.92031,
+                        37.019432
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Pedro",
+                  "text": "Faro São Pedro negyedének fő plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934596,
+                        37.018692
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Barokk templom Faróban, amely a csontkápolnájáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934708,
+                        37.020232
+                  ]
+            },
+            {
+                  "name": "Igreja da Ordem Terceira de São Francisco",
+                  "text": "Történelmi katolikus templom Faro városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930826,
+                        37.012787
+                  ]
+            },
+            {
+                  "name": "Capela de São Luís",
+                  "text": "Szent Lajosnak szentelt kis kápolna Faro városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.927639,
+                        37.021965
+                  ]
+            },
+            {
+                  "name": "Ermida de São Miguel",
+                  "text": "Vallási kegyhely Faro városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.940428,
+                        37.036108
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Marítimo Almirante Ramalho Ortigão",
+                  "text": "Un muzeu maritim din Faro care prezintă istoria navigației din Algarve.",
+                  "category": "museum",
+                  "coords": [
+                        -7.937518,
+                        37.016373
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Faro",
+                  "text": "Principalul muzeu al orașului Faro, găzduit într-o fostă mănăstire.",
+                  "category": "museum",
+                  "coords": [
+                        -7.933893,
+                        37.012951
+                  ]
+            },
+            {
+                  "name": "Teatro das Figuras",
+                  "text": "Un teatru modern și centru pentru artele spectacolului în Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.944547,
+                        37.024985
+                  ]
+            },
+            {
+                  "name": "Paço Episcopal",
+                  "text": "Palatul Episcopal istoric, un punct de reper în orașul vechi din Faro.",
+                  "category": "castle",
+                  "coords": [
+                        -7.935016,
+                        37.014011
+                  ]
+            },
+            {
+                  "name": "Palacete Guerreirinho",
+                  "text": "O clădire istorică de tip palat în orașul Faro.",
+                  "category": "castle",
+                  "coords": [
+                        -7.938068,
+                        37.019469
+                  ]
+            },
+            {
+                  "name": "Museu Regional do Algarve",
+                  "text": "Un muzeu dedicat culturii și etnografiei regiunii Algarve din Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.931102,
+                        37.016091
+                  ]
+            },
+            {
+                  "name": "Teatro Lethes",
+                  "text": "Un teatru istoric amenajat într-un fost colegiu iezuit din Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.931733,
+                        37.018291
+                  ]
+            },
+            {
+                  "name": "Museu e Igreja da Misericórdia",
+                  "text": "Un complex muzeal și bisericesc aparținând frăției Misericórdia din Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.934736,
+                        37.015223
+                  ]
+            },
+            {
+                  "name": "Faro story spot",
+                  "text": "Un muzeu interactiv despre istoria și legendele orașului Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.935162,
+                        37.0129
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "O secțiune de coastă și zonă de plajă în regiunea Faro.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.941509,
+                        37.006532
+                  ]
+            },
+            {
+                  "name": "Centro de Ciência Viva do Algarve",
+                  "text": "Un centru științific și muzeu dedicat vieții marine și mediului în Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.936148,
+                        37.013299
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un spațiu în aer liber pentru spectacole și teatru în Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.947722,
+                        37.026623
+                  ]
+            },
+            {
+                  "name": "Anfiteateatro da Penha",
+                  "text": "Un spațiu pentru teatru și spectacole în cartierul Penha din Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.92203,
+                        37.028307
+                  ]
+            },
+            {
+                  "name": "Palácio Fialho",
+                  "text": "Un conac remarcabil de la începutul secolului al XX-lea din Faro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.917393,
+                        37.019559
+                  ]
+            },
+            {
+                  "name": "Casa das Figuras",
+                  "text": "O clădire istorică din Faro, cunoscută pentru detaliile sale arhitecturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.945341,
+                        37.026122
+                  ]
+            },
+            {
+                  "name": "Palacete Belmarço",
+                  "text": "Un conac istoric elegant și monument arhitectural în Faro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.932905,
+                        37.01409
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 738",
+                  "text": "Punctul terminal simbolic al drumului istoric național EN 2 din Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.932024,
+                        37.026004
+                  ]
+            },
+            {
+                  "name": "Palacio Bivar",
+                  "text": "O clădire istorică de palat proeminentă în centrul orașului Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.93523,
+                        37.016822
+                  ]
+            },
+            {
+                  "name": "Casa Crispim",
+                  "text": "O reședință istorică și clădire notabilă în Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.935852,
+                        37.018066
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António dos Capuchos",
+                  "text": "O fostă mănăstire capucină cu semnificație religioasă și istorică în Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.936774,
+                        37.019783
+                  ]
+            },
+            {
+                  "name": "Galeria Between",
+                  "text": "O galerie de artă pentru lucrări contemporane în orașul Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.929287,
+                        37.021946
+                  ]
+            },
+            {
+                  "name": "Miradouro da Atalaia",
+                  "text": "Un punct de observație care oferă o vedere largă asupra regiunii Faro.",
+                  "category": "natural",
+                  "coords": [
+                        -7.915695,
+                        37.016388
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra orașului Faro.",
+                  "category": "natural",
+                  "coords": [
+                        -7.92031,
+                        37.019432
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Pedro",
+                  "text": "Biserica parohială principală a cartierului São Pedro din Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934596,
+                        37.018692
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "O biserică barocă din Faro, celebră pentru capela sa din oase.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934708,
+                        37.020232
+                  ]
+            },
+            {
+                  "name": "Igreja da Ordem Terceira de São Francisco",
+                  "text": "O biserică catolică istorică din Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930826,
+                        37.012787
+                  ]
+            },
+            {
+                  "name": "Capela de São Luís",
+                  "text": "O mică chapelă în Faro dedicată Sfântului Ludovic.",
+                  "category": "religious",
+                  "coords": [
+                        -7.927639,
+                        37.021965
+                  ]
+            },
+            {
+                  "name": "Ermida de São Miguel",
+                  "text": "Un lăcaș de cult religios din Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.940428,
+                        37.036108
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Marítimo Almirante Ramalho Ortigão",
+                  "text": "A maritime museum in Faro showcasing the seafaring history of the Algarve.",
+                  "category": "museum",
+                  "coords": [
+                        -7.937518,
+                        37.016373
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Faro",
+                  "text": "The main museum of the city of Faro, housed in a former convent.",
+                  "category": "museum",
+                  "coords": [
+                        -7.933893,
+                        37.012951
+                  ]
+            },
+            {
+                  "name": "Teatro das Figuras",
+                  "text": "A modern theatre and performing arts center in Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.944547,
+                        37.024985
+                  ]
+            },
+            {
+                  "name": "Paço Episcopal",
+                  "text": "The historic Bishop's Palace, a landmark in Faro's old town.",
+                  "category": "castle",
+                  "coords": [
+                        -7.935016,
+                        37.014011
+                  ]
+            },
+            {
+                  "name": "Palacete Guerreirinho",
+                  "text": "A historic palatial building located in the city of Faro.",
+                  "category": "castle",
+                  "coords": [
+                        -7.938068,
+                        37.019469
+                  ]
+            },
+            {
+                  "name": "Museu Regional do Algarve",
+                  "text": "A museum dedicated to the culture and ethnography of the Algarve region in Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.931102,
+                        37.016091
+                  ]
+            },
+            {
+                  "name": "Teatro Lethes",
+                  "text": "A historic theatre established in a former Jesuit college in Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.931733,
+                        37.018291
+                  ]
+            },
+            {
+                  "name": "Museu e Igreja da Misericórdia",
+                  "text": "A museum and church complex belonging to the Misericórdia brotherhood in Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.934736,
+                        37.015223
+                  ]
+            },
+            {
+                  "name": "Faro story spot",
+                  "text": "An interactive museum about the history and legends of Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.935162,
+                        37.0129
+                  ]
+            },
+            {
+                  "name": "Praia dos Tesos",
+                  "text": "A coastal stretch and beach area in the Faro region.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.941509,
+                        37.006532
+                  ]
+            },
+            {
+                  "name": "Algarve Life Sciences Center",
+                  "text": "A science center and museum focused on marine life and the environment in Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.936148,
+                        37.013299
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An outdoor venue for performances and theatre in Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.947722,
+                        37.026623
+                  ]
+            },
+            {
+                  "name": "Anfiteateatro da Penha",
+                  "text": "A theatre and performance venue in the Penha district of Faro.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.92203,
+                        37.028307
+                  ]
+            },
+            {
+                  "name": "Palácio Fialho",
+                  "text": "A notable early 20th-century manor house in Faro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.917393,
+                        37.019559
+                  ]
+            },
+            {
+                  "name": "Casa das Figuras",
+                  "text": "A historic building in Faro known for its architectural details.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.945341,
+                        37.026122
+                  ]
+            },
+            {
+                  "name": "Palacete Belmarço",
+                  "text": "An elegant historic mansion and architectural landmark in Faro.",
+                  "category": "historical",
+                  "coords": [
+                        -7.932905,
+                        37.01409
+                  ]
+            },
+            {
+                  "name": "EN 2 Km 738",
+                  "text": "The symbolic southern end of the historic EN 2 national road in Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.932024,
+                        37.026004
+                  ]
+            },
+            {
+                  "name": "Palacio Bivar",
+                  "text": "A prominent historic palace building in the center of Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.93523,
+                        37.016822
+                  ]
+            },
+            {
+                  "name": "Casa Crispim",
+                  "text": "A notable historic residence and building in Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.935852,
+                        37.018066
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António dos Capuchos",
+                  "text": "A former Capuchin convent with religious and historical significance in Faro.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.936774,
+                        37.019783
+                  ]
+            },
+            {
+                  "name": "Galeria Between",
+                  "text": "An art gallery for contemporary works in the city of Faro.",
+                  "category": "museum",
+                  "coords": [
+                        -7.929287,
+                        37.021946
+                  ]
+            },
+            {
+                  "name": "Miradouro da Atalaia",
+                  "text": "A viewpoint offering broad vistas over the Faro region.",
+                  "category": "natural",
+                  "coords": [
+                        -7.915695,
+                        37.016388
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santo António",
+                  "text": "A vantage point providing panoramic views of the city of Faro.",
+                  "category": "natural",
+                  "coords": [
+                        -7.92031,
+                        37.019432
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Pedro",
+                  "text": "The main parish church of the São Pedro district in Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934596,
+                        37.018692
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "A Baroque church in Faro famous for its Bone Chapel.",
+                  "category": "religious",
+                  "coords": [
+                        -7.934708,
+                        37.020232
+                  ]
+            },
+            {
+                  "name": "Igreja da Ordem Terceira de São Francisco",
+                  "text": "A historic Catholic church located in Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.930826,
+                        37.012787
+                  ]
+            },
+            {
+                  "name": "Capela de São Luís",
+                  "text": "A small chapel in Faro dedicated to Saint Louis.",
+                  "category": "religious",
+                  "coords": [
+                        -7.927639,
+                        37.021965
+                  ]
+            },
+            {
+                  "name": "Ermida de São Miguel",
+                  "text": "A religious place of worship located in Faro.",
+                  "category": "religious",
+                  "coords": [
+                        -7.940428,
+                        37.036108
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.9304, 37.0193],
@@ -3040,7 +5506,1096 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-setubal",
+    id: "city-setubal", "sights": {
+      "de": [
+            {
+                  "name": "Fábrica Romana de Salga",
+                  "text": "Eine archäologische Stätte in Setúbal, die eine römische Fischsalzfabrik zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.890267,
+                        38.523569
+                  ]
+            },
+            {
+                  "name": "Farol da Azeda",
+                  "text": "Ein Leuchtturm in Setúbal, der Schiffen als Orientierung dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.87844,
+                        38.538652
+                  ]
+            },
+            {
+                  "name": "Teatro Animação de Setúbal",
+                  "text": "Ein Theater in Setúbal, das für seine lokalen Kulturaufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.896195,
+                        38.525286
+                  ]
+            },
+            {
+                  "name": "Forte de São Filipe",
+                  "text": "Eine historische Festung in Setúbal, die heute als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        -8.90907,
+                        38.517843
+                  ]
+            },
+            {
+                  "name": "Praia de Albarquel",
+                  "text": "Ein beliebter Sandstrand in der Nähe von Setúbal mit Blick auf die Halbinsel Tróia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.915682,
+                        38.510901
+                  ]
+            },
+            {
+                  "name": "Forte de Albarquel",
+                  "text": "Eine Festung aus dem 17. Jahrhundert, die die Küste von Setúbal schützt.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.91355,
+                        38.511084
+                  ]
+            },
+            {
+                  "name": "Praia da Saúde",
+                  "text": "Ein Stadtstrand in Setúbal, ideal für Spaziergänge am Ufer.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.906037,
+                        38.516745
+                  ]
+            },
+            {
+                  "name": "Forte de São Luiz Gonzaga",
+                  "text": "Eine historische Verteidigungsanlage in der Stadt Setúbal.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.906076,
+                        38.528494
+                  ]
+            },
+            {
+                  "name": "Museu de Setúbal",
+                  "text": "Das Stadtmuseum von Setúbal, das Kunstwerke und lokale Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.895148,
+                        38.525936
+                  ]
+            },
+            {
+                  "name": "Via Antiga do Viso",
+                  "text": "Eine archäologische Stätte in Setúbal, die Reste einer alten Straße zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.919188,
+                        38.527056
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e Etnografia do Distrito de Setúbal",
+                  "text": "Ein Museum in Setúbal, das sich der Archäologie und Volkskunde der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.889135,
+                        38.523164
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "Eine städtische Galerie in Setúbal, die wechselnde Kunstausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.892189,
+                        38.522671
+                  ]
+            },
+            {
+                  "name": "Hospital de João Palmeiro",
+                  "text": "Eine archäologische Fundstätte in Setúbal an der Stelle eines ehemaligen Krankenhauses.",
+                  "category": "historical",
+                  "coords": [
+                        -8.88827,
+                        38.524131
+                  ]
+            },
+            {
+                  "name": "Pedra Furada",
+                  "text": "Ein Naturschutzgebiet in Setúbal, bekannt für seine besonderen Felsformationen.",
+                  "category": "natural",
+                  "coords": [
+                        -8.876389,
+                        38.519644
+                  ]
+            },
+            {
+                  "name": "Praia da Maria Esguelha",
+                  "text": "Ein ruhiger Strand in der Nähe von Setúbal, eingebettet in die Natur.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.918385,
+                        38.510763
+                  ]
+            },
+            {
+                  "name": "Museu Do Trabalho Michel Giacometti",
+                  "text": "Ein Museum in Setúbal, das der Industriegeschichte und dem Arbeitsleben gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.886599,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Fórum Municipal Luísa Todi",
+                  "text": "Das wichtigste Theater und Kulturzentrum in Setúbal für Konzerte und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.890323,
+                        38.522488
+                  ]
+            },
+            {
+                  "name": "Casa do Turismo",
+                  "text": "Ein Informationszentrum und Museum in Setúbal, das die touristischen Highlights der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.893054,
+                        38.52477
+                  ]
+            },
+            {
+                  "name": "Convento de São Paulo de Alferrara",
+                  "text": "Ein ehemaliges Kloster in Setúbal, das von historischer Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.910531,
+                        38.546972
+                  ]
+            },
+            {
+                  "name": "Parque José Afonso",
+                  "text": "Eine öffentliche Parkanlage in Setúbal, benannt nach dem berühmten Sänger Zeca Afonso.",
+                  "category": "park",
+                  "coords": [
+                        -8.897872,
+                        38.52182
+                  ]
+            },
+            {
+                  "name": "Moinho de Vento da Desgraça",
+                  "text": "Eine traditionelle Windmühle in Setúbal, ein Relikt der alten Landwirtschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.913464,
+                        38.514042
+                  ]
+            },
+            {
+                  "name": "Casa de Luísa Todi",
+                  "text": "Das Geburtshaus der berühmten Opernsängerin Luísa Todi in Setúbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899967,
+                        38.524694
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Setúbal",
+                  "text": "Ein historisches Aquädukt in Setúbal, das einst die Stadt mit Wasser versorgte.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.895996,
+                        38.530228
+                  ]
+            },
+            {
+                  "name": "Miradouro Nossa Senhora do Cais",
+                  "text": "Ein Aussichtspunkt in Setúbal mit weitem Blick über den Fluss Sado.",
+                  "category": "natural",
+                  "coords": [
+                        -8.906029,
+                        38.526383
+                  ]
+            },
+            {
+                  "name": "Miradouro de Albarquel",
+                  "text": "Ein malerischer Aussichtspunkt in Setúbal mit Blick auf die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -8.915254,
+                        38.512434
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Setúbal",
+                  "text": "Ein historischer Pranger auf der Praça de Bocage in Setúbal, Symbol der städtischen Gerichtsbarkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.898455,
+                        38.523623
+                  ]
+            },
+            {
+                  "name": "Mercado do Livramento",
+                  "text": "Eine berühmte Markthalle in Setúbal, bekannt für ihre frischen Produkte und Fliesenbilder.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.894229,
+                        38.522487
+                  ]
+            },
+            {
+                  "name": "Chafariz da Praça Teófilo Braga",
+                  "text": "Ein historischer Springbrunnen auf der Praça Teófilo Braga in Setúbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.896766,
+                        38.523891
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Anunciada",
+                  "text": "Eine Pfarrkirche in Setúbal, die der Muttergottes der Verkündigung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.900765,
+                        38.522295
+                  ]
+            },
+            {
+                  "name": "Casa de Bocage",
+                  "text": "Das Geburtshaus des berühmten portugiesischen Dichters Manuel Maria Barbosa du Bocage.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.885141,
+                        38.523643
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fábrica Romana de Salga",
+                  "text": "Setúbali régészeti lelőhely, amely egy római kori halsózó üzemet mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        -8.890267,
+                        38.523569
+                  ]
+            },
+            {
+                  "name": "Farol da Azeda",
+                  "text": "Setúbali világítótorony, amely a hajók tájékozódását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.87844,
+                        38.538652
+                  ]
+            },
+            {
+                  "name": "Teatro Animação de Setúbal",
+                  "text": "Setúbali színház, amely helyi kulturális előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.896195,
+                        38.525286
+                  ]
+            },
+            {
+                  "name": "Forte de São Filipe",
+                  "text": "Setúbali történelmi erőd, amely ma kilátóként szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        -8.90907,
+                        38.517843
+                  ]
+            },
+            {
+                  "name": "Praia de Albarquel",
+                  "text": "Népszerű homokos tengerpart Setúbal közelében, kilátással a Tróia-félszigetre.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.915682,
+                        38.510901
+                  ]
+            },
+            {
+                  "name": "Forte de Albarquel",
+                  "text": "17. századi erődítmény, amely Setúbal partvidékét védi.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.91355,
+                        38.511084
+                  ]
+            },
+            {
+                  "name": "Praia da Saúde",
+                  "text": "Setúbali városi strand, amely ideális a parti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.906037,
+                        38.516745
+                  ]
+            },
+            {
+                  "name": "Forte de São Luiz Gonzaga",
+                  "text": "Történelmi védelmi építmény Setúbal városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.906076,
+                        38.528494
+                  ]
+            },
+            {
+                  "name": "Museu de Setúbal",
+                  "text": "Setúbal városi múzeuma, amely műalkotásokat és helyi történelmet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.895148,
+                        38.525936
+                  ]
+            },
+            {
+                  "name": "Via Antiga do Viso",
+                  "text": "Setúbali régészeti lelőhely, amely egy régi út maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -8.919188,
+                        38.527056
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e Etnografia do Distrito de Setúbal",
+                  "text": "Setúbali múzeum, amely a régió régészetével és néprajzával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -8.889135,
+                        38.523164
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "Setúbali önkormányzati galéria, amely időszaki művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -8.892189,
+                        38.522671
+                  ]
+            },
+            {
+                  "name": "Hospital de João Palmeiro",
+                  "text": "Régészeti lelőhely Setúbalban egy egykori kórház helyén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.88827,
+                        38.524131
+                  ]
+            },
+            {
+                  "name": "Pedra Furada",
+                  "text": "Természetvédelmi terület Setúbalban, amely különleges sziklaformációiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -8.876389,
+                        38.519644
+                  ]
+            },
+            {
+                  "name": "Praia da Maria Esguelha",
+                  "text": "Nyugodt tengerpart Setúbal közelében, természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.918385,
+                        38.510763
+                  ]
+            },
+            {
+                  "name": "Museu Do Trabalho Michel Giacometti",
+                  "text": "Setúbali múzeum, amely az ipartörténetnek és a munkáséletnek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -8.886599,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Fórum Municipal Luísa Todi",
+                  "text": "Setúbal legfontosabb színháza és kulturális központja koncertekhez és előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.890323,
+                        38.522488
+                  ]
+            },
+            {
+                  "name": "Casa do Turismo",
+                  "text": "Információs központ és múzeum Setúbalban, amely a régió turisztikai látnivalóit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.893054,
+                        38.52477
+                  ]
+            },
+            {
+                  "name": "Convento de São Paulo de Alferrara",
+                  "text": "Egykori kolostor Setúbalban, amely történelmi jelentőséggel bír.",
+                  "category": "religious",
+                  "coords": [
+                        -8.910531,
+                        38.546972
+                  ]
+            },
+            {
+                  "name": "Parque José Afonso",
+                  "text": "Setúbali közpark, amelyet a híres énekesről, Zeca Afonsóról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -8.897872,
+                        38.52182
+                  ]
+            },
+            {
+                  "name": "Moinho de Vento da Desgraça",
+                  "text": "Hagyományos szélmalom Setúbalban, a régi mezőgazdaság emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.913464,
+                        38.514042
+                  ]
+            },
+            {
+                  "name": "Casa de Luísa Todi",
+                  "text": "Luísa Todi, a híres operaénekesnő szülőháza Setúbalban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899967,
+                        38.524694
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Setúbal",
+                  "text": "Történelmi vízvezeték Setúbalban, amely egykor a várost látta el vízzel.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.895996,
+                        38.530228
+                  ]
+            },
+            {
+                  "name": "Miradouro Nossa Senhora do Cais",
+                  "text": "Kilátópont Setúbalban, széles kilátással a Sado-folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        -8.906029,
+                        38.526383
+                  ]
+            },
+            {
+                  "name": "Miradouro de Albarquel",
+                  "text": "Festői kilátóhely Setúbalban, kilátással a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        -8.915254,
+                        38.512434
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Setúbal",
+                  "text": "Történelmi szégyenoszlop Setúbalban a Praça de Bocage téren, a városi bíráskodás jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.898455,
+                        38.523623
+                  ]
+            },
+            {
+                  "name": "Mercado do Livramento",
+                  "text": "Setúbal híres piaccsarnoka, amely friss termékeiről és díszes csempeképeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.894229,
+                        38.522487
+                  ]
+            },
+            {
+                  "name": "Chafariz da Praça Teófilo Braga",
+                  "text": "Történelmi szökőkút a setúbali Praça Teófilo Braga téren.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.896766,
+                        38.523891
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Anunciada",
+                  "text": "Setúbali plébániatemplom, amelyet Gyümölcsoltó Boldogasszonynak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.900765,
+                        38.522295
+                  ]
+            },
+            {
+                  "name": "Casa de Bocage",
+                  "text": "Manuel Maria Barbosa du Bocage híres portugál költő szülőháza.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.885141,
+                        38.523643
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fábrica Romana de Salga",
+                  "text": "Un sit arheologic din Setúbal care prezintă o fabrică romană de sărare a peștelui.",
+                  "category": "historical",
+                  "coords": [
+                        -8.890267,
+                        38.523569
+                  ]
+            },
+            {
+                  "name": "Farol da Azeda",
+                  "text": "Un far din Setúbal care servește drept punct de orientare pentru nave.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.87844,
+                        38.538652
+                  ]
+            },
+            {
+                  "name": "Teatro Animação de Setúbal",
+                  "text": "Un teatru din Setúbal cunoscut pentru spectacolele sale culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.896195,
+                        38.525286
+                  ]
+            },
+            {
+                  "name": "Forte de São Filipe",
+                  "text": "O fortăreață istorică din Setúbal care servește astăzi ca punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        -8.90907,
+                        38.517843
+                  ]
+            },
+            {
+                  "name": "Praia de Albarquel",
+                  "text": "O plajă de nisip populară lângă Setúbal, cu vedere spre Peninsula Tróia.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.915682,
+                        38.510901
+                  ]
+            },
+            {
+                  "name": "Forte de Albarquel",
+                  "text": "O fortăreață din secolul al XVII-lea care protejează coasta orașului Setúbal.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.91355,
+                        38.511084
+                  ]
+            },
+            {
+                  "name": "Praia da Saúde",
+                  "text": "O plajă urbană în Setúbal, ideală pentru plimbări pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.906037,
+                        38.516745
+                  ]
+            },
+            {
+                  "name": "Forte de São Luiz Gonzaga",
+                  "text": "O structură defensivă istorică situată în orașul Setúbal.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.906076,
+                        38.528494
+                  ]
+            },
+            {
+                  "name": "Museu de Setúbal",
+                  "text": "Muzeul orașului Setúbal, care prezintă opere de artă și istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        -8.895148,
+                        38.525936
+                  ]
+            },
+            {
+                  "name": "Via Antiga do Viso",
+                  "text": "Un sit arheologic din Setúbal care prezintă resturile unui drum vechi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.919188,
+                        38.527056
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e Etnografia do Distrito de Setúbal",
+                  "text": "Un muzeu din Setúbal dedicat arheologiei și etnografiei regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -8.889135,
+                        38.523164
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "O galerie municipală din Setúbal care găzduiește expoziții de artă temporare.",
+                  "category": "museum",
+                  "coords": [
+                        -8.892189,
+                        38.522671
+                  ]
+            },
+            {
+                  "name": "Hospital de João Palmeiro",
+                  "text": "Un sit arheologic din Setúbal situat pe locul unui fost spital.",
+                  "category": "historical",
+                  "coords": [
+                        -8.88827,
+                        38.524131
+                  ]
+            },
+            {
+                  "name": "Pedra Furada",
+                  "text": "O rezervație naturală din Setúbal, cunoscută pentru formațiunile sale stâncoase deosebite.",
+                  "category": "natural",
+                  "coords": [
+                        -8.876389,
+                        38.519644
+                  ]
+            },
+            {
+                  "name": "Praia da Maria Esguelha",
+                  "text": "O plajă liniștită lângă Setúbal, situată într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.918385,
+                        38.510763
+                  ]
+            },
+            {
+                  "name": "Museu Do Trabalho Michel Giacometti",
+                  "text": "Un muzeu din Setúbal dedicat istoriei industriale și vieții profesionale.",
+                  "category": "museum",
+                  "coords": [
+                        -8.886599,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Fórum Municipal Luísa Todi",
+                  "text": "Principalul teatru și centru cultural din Setúbal pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.890323,
+                        38.522488
+                  ]
+            },
+            {
+                  "name": "Casa do Turismo",
+                  "text": "Un centru de informare și muzeu din Setúbal care prezintă atracțiile turistice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -8.893054,
+                        38.52477
+                  ]
+            },
+            {
+                  "name": "Convento de São Paulo de Alferrara",
+                  "text": "O fostă mănăstire din Setúbal, cu importanță istorică.",
+                  "category": "religious",
+                  "coords": [
+                        -8.910531,
+                        38.546972
+                  ]
+            },
+            {
+                  "name": "Parque José Afonso",
+                  "text": "Un parc public din Setúbal, numit după celebrul cântăreț Zeca Afonso.",
+                  "category": "park",
+                  "coords": [
+                        -8.897872,
+                        38.52182
+                  ]
+            },
+            {
+                  "name": "Moinho de Vento da Desgraça",
+                  "text": "O moară de vânt tradițională din Setúbal, un vestigiu al agriculturii vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.913464,
+                        38.514042
+                  ]
+            },
+            {
+                  "name": "Casa de Luísa Todi",
+                  "text": "Casa natală a celebrei cântărețe de operă Luísa Todi din Setúbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899967,
+                        38.524694
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Setúbal",
+                  "text": "Un apeduct istoric din Setúbal care aproviziona odinioară orașul cu apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.895996,
+                        38.530228
+                  ]
+            },
+            {
+                  "name": "Miradouro Nossa Senhora do Cais",
+                  "text": "Un punct de belvedere din Setúbal cu o vedere panoramică asupra râului Sado.",
+                  "category": "natural",
+                  "coords": [
+                        -8.906029,
+                        38.526383
+                  ]
+            },
+            {
+                  "name": "Miradouro de Albarquel",
+                  "text": "Un punct de belvedere pitoresc din Setúbal cu vedere spre coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -8.915254,
+                        38.512434
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Setúbal",
+                  "text": "Un stâlp al infamiei istoric în Praça de Bocage din Setúbal, simbol al jurisdicției municipale.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.898455,
+                        38.523623
+                  ]
+            },
+            {
+                  "name": "Mercado do Livramento",
+                  "text": "O piață faimoasă din Setúbal, cunoscută pentru produsele proaspete și panourile de faianță.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.894229,
+                        38.522487
+                  ]
+            },
+            {
+                  "name": "Chafariz da Praça Teófilo Braga",
+                  "text": "O fântână istorică situată în Praça Teófilo Braga din Setúbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.896766,
+                        38.523891
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Anunciada",
+                  "text": "O biserică parohială din Setúbal dedicată Maicii Domnului de Buna Vestire.",
+                  "category": "religious",
+                  "coords": [
+                        -8.900765,
+                        38.522295
+                  ]
+            },
+            {
+                  "name": "Casa de Bocage",
+                  "text": "Casa natală a faimosului poet portughez Manuel Maria Barbosa du Bocage.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.885141,
+                        38.523643
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fábrica Romana de Salga",
+                  "text": "An archaeological site in Setúbal featuring a Roman fish salting factory.",
+                  "category": "historical",
+                  "coords": [
+                        -8.890267,
+                        38.523569
+                  ]
+            },
+            {
+                  "name": "Farol da Azeda",
+                  "text": "A lighthouse in Setúbal that serves as a landmark for maritime navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.87844,
+                        38.538652
+                  ]
+            },
+            {
+                  "name": "Teatro Animação de Setúbal",
+                  "text": "A theatre in Setúbal known for its local cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.896195,
+                        38.525286
+                  ]
+            },
+            {
+                  "name": "Forte de São Filipe",
+                  "text": "A historic fort in Setúbal that now serves as a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        -8.90907,
+                        38.517843
+                  ]
+            },
+            {
+                  "name": "Praia de Albarquel",
+                  "text": "A popular sandy beach near Setúbal with views of the Tróia Peninsula.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.915682,
+                        38.510901
+                  ]
+            },
+            {
+                  "name": "Forte de Albarquel",
+                  "text": "A 17th-century fortification protecting the coast of Setúbal.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.91355,
+                        38.511084
+                  ]
+            },
+            {
+                  "name": "Praia da Saúde",
+                  "text": "An urban beach in Setúbal, ideal for walks along the shore.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.906037,
+                        38.516745
+                  ]
+            },
+            {
+                  "name": "Forte de São Luiz Gonzaga",
+                  "text": "A historic defensive structure located in the city of Setúbal.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.906076,
+                        38.528494
+                  ]
+            },
+            {
+                  "name": "Museum of Setúbal",
+                  "text": "The municipal museum of Setúbal, showcasing artworks and local history.",
+                  "category": "museum",
+                  "coords": [
+                        -8.895148,
+                        38.525936
+                  ]
+            },
+            {
+                  "name": "Via Antiga do Viso",
+                  "text": "An archaeological site in Setúbal featuring the remains of an ancient road.",
+                  "category": "historical",
+                  "coords": [
+                        -8.919188,
+                        38.527056
+                  ]
+            },
+            {
+                  "name": "Museu de Arqueologia e Etnografia do Distrito de Setúbal",
+                  "text": "A museum in Setúbal dedicated to the archaeology and ethnography of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -8.889135,
+                        38.523164
+                  ]
+            },
+            {
+                  "name": "Galeria Municipal",
+                  "text": "A municipal gallery in Setúbal hosting rotating art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -8.892189,
+                        38.522671
+                  ]
+            },
+            {
+                  "name": "Hospital de João Palmeiro",
+                  "text": "An archaeological site in Setúbal located at the site of a former hospital.",
+                  "category": "historical",
+                  "coords": [
+                        -8.88827,
+                        38.524131
+                  ]
+            },
+            {
+                  "name": "Pedra Furada",
+                  "text": "A nature reserve in Setúbal known for its unique rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -8.876389,
+                        38.519644
+                  ]
+            },
+            {
+                  "name": "Praia da Maria Esguelha",
+                  "text": "A quiet beach near Setúbal, nestled in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.918385,
+                        38.510763
+                  ]
+            },
+            {
+                  "name": "Museu Do Trabalho Michel Giacometti",
+                  "text": "A museum in Setúbal dedicated to industrial history and working life.",
+                  "category": "museum",
+                  "coords": [
+                        -8.886599,
+                        38.52321
+                  ]
+            },
+            {
+                  "name": "Fórum Municipal Luísa Todi",
+                  "text": "The main theatre and cultural center in Setúbal for concerts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.890323,
+                        38.522488
+                  ]
+            },
+            {
+                  "name": "Casa do Turismo",
+                  "text": "An information center and museum in Setúbal showcasing the region's tourist highlights.",
+                  "category": "museum",
+                  "coords": [
+                        -8.893054,
+                        38.52477
+                  ]
+            },
+            {
+                  "name": "Convento de São Paulo de Alferrara",
+                  "text": "A former monastery in Setúbal of historical significance.",
+                  "category": "religious",
+                  "coords": [
+                        -8.910531,
+                        38.546972
+                  ]
+            },
+            {
+                  "name": "Parque José Afonso",
+                  "text": "A public park in Setúbal named after the famous singer Zeca Afonso.",
+                  "category": "park",
+                  "coords": [
+                        -8.897872,
+                        38.52182
+                  ]
+            },
+            {
+                  "name": "Moinho de Vento da Desgraça",
+                  "text": "A traditional windmill in Setúbal, a relic of old agricultural practices.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.913464,
+                        38.514042
+                  ]
+            },
+            {
+                  "name": "Casa de Luísa Todi",
+                  "text": "The birthplace of the famous opera singer Luísa Todi in Setúbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.899967,
+                        38.524694
+                  ]
+            },
+            {
+                  "name": "Aqueduto de Setúbal",
+                  "text": "A historic aqueduct in Setúbal that once supplied the city with water.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.895996,
+                        38.530228
+                  ]
+            },
+            {
+                  "name": "Miradouro Nossa Senhora do Cais",
+                  "text": "A viewpoint in Setúbal offering panoramic views over the Sado River.",
+                  "category": "natural",
+                  "coords": [
+                        -8.906029,
+                        38.526383
+                  ]
+            },
+            {
+                  "name": "Miradouro de Albarquel",
+                  "text": "A scenic viewpoint in Setúbal with views of the coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -8.915254,
+                        38.512434
+                  ]
+            },
+            {
+                  "name": "Pillory of Setúbal",
+                  "text": "A historic pillory located in Praça de Bocage in Setúbal, a symbol of municipal jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.898455,
+                        38.523623
+                  ]
+            },
+            {
+                  "name": "Mercado do Livramento",
+                  "text": "A famous market hall in Setúbal, known for its fresh produce and decorative tile panels.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.894229,
+                        38.522487
+                  ]
+            },
+            {
+                  "name": "Chafariz da Praça Teófilo Braga",
+                  "text": "A historic fountain located in Praça Teófilo Braga in Setúbal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.896766,
+                        38.523891
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Anunciada",
+                  "text": "A parish church in Setúbal dedicated to Our Lady of the Annunciation.",
+                  "category": "religious",
+                  "coords": [
+                        -8.900765,
+                        38.522295
+                  ]
+            },
+            {
+                  "name": "Casa de Bocage",
+                  "text": "The birthplace of the famous Portuguese poet Manuel Maria Barbosa du Bocage.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.885141,
+                        38.523643
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.8928, 38.5244],
@@ -3084,7 +6639,1276 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-evora",
+    id: "city-evora", "sights": {
+      "de": [
+            {
+                  "name": "Capela dos Ossos",
+                  "text": "Die Knochenkapelle ist ein Beinhaus-Museum in Évora, das mit menschlichen Skelettresten verziert ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908371,
+                        38.568753
+                  ]
+            },
+            {
+                  "name": "Forte de Santo António da Piedade",
+                  "text": "Das Forte de Santo António da Piedade ist eine historische Burg und Festung in Évora.",
+                  "category": "castle",
+                  "coords": [
+                        -7.915648,
+                        38.578449
+                  ]
+            },
+            {
+                  "name": "Palácio de Dom Manuel",
+                  "text": "Das Palácio de Dom Manuel ist ein ehemaliger Königspalast, der heute als Museum in Évora dient.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909244,
+                        38.567793
+                  ]
+            },
+            {
+                  "name": "Porta de Aviz",
+                  "text": "Porta de Aviz ist ein historisches Stadttor, das Teil der mittelalterlichen Mauern von Évora ist.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.910341,
+                        38.576704
+                  ]
+            },
+            {
+                  "name": "Teatro Garcia de Resende",
+                  "text": "Das Teatro Garcia de Resende ist ein elegantes Theater im italienischen Stil in Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.913304,
+                        38.572758
+                  ]
+            },
+            {
+                  "name": "São João Evangelista",
+                  "text": "São João Evangelista ist eine Kirche in Évora, die für ihre schönen Azulejo-Kacheln bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.906925,
+                        38.572946
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Água de Prata",
+                  "text": "Das Aqueduto da Água de Prata ist ein Aquädukt aus dem 16. Jahrhundert, das Évora historisch mit Wasser versorgte.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911064,
+                        38.574587
+                  ]
+            },
+            {
+                  "name": "Torre de Sisebuto",
+                  "text": "Der Torre de Sisebuto ist eine historische Turmanlage in Évora.",
+                  "category": "tower",
+                  "coords": [
+                        -7.90936,
+                        38.571673
+                  ]
+            },
+            {
+                  "name": "Palácio dos Condes de Basto",
+                  "text": "Das Palácio dos Condes de Basto ist ein historischer Palast, der als Museum in Évora dient.",
+                  "category": "museum",
+                  "coords": [
+                        -7.905727,
+                        38.572889
+                  ]
+            },
+            {
+                  "name": "Palácio do Vimioso",
+                  "text": "Das Palácio do Vimioso ist eine Burg und eine historische Residenz in Évora.",
+                  "category": "castle",
+                  "coords": [
+                        -7.90707,
+                        38.57132
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de São Mamede",
+                  "text": "Die Junta de Freguesia de São Mamede ist ein lokales Rathausgebäude in Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.909425,
+                        38.574975
+                  ]
+            },
+            {
+                  "name": "Porta do Raimundo",
+                  "text": "Porta do Raimundo ist ein historisches Stadttor in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.912996,
+                        38.567547
+                  ]
+            },
+            {
+                  "name": "Salão Central Eborense",
+                  "text": "Der Salão Central Eborense ist ein Kunst- und Veranstaltungszentrum in Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.907545,
+                        38.570408
+                  ]
+            },
+            {
+                  "name": "Igreja do Espírito Santo",
+                  "text": "Die Igreja do Espírito Santo ist eine bemerkenswerte Kirche in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.90464,
+                        38.572789
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador",
+                  "text": "Die Igreja do Salvador ist ein religiöses Gebäude und eine Kirche in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.909961,
+                        38.572738
+                  ]
+            },
+            {
+                  "name": "Igreja de São Mamede",
+                  "text": "Die Igreja de São Mamede ist ein Gotteshaus in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907621,
+                        38.57443
+                  ]
+            },
+            {
+                  "name": "Convento do Carmo",
+                  "text": "Das Convento do Carmo ist ein historisches Kloster und Gotteshaus in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.905475,
+                        38.569861
+                  ]
+            },
+            {
+                  "name": "Igreja do Senhor Jesus da Pobreza",
+                  "text": "Die Igreja do Senhor Jesus da Pobreza ist ein lokales Gotteshaus in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.903305,
+                        38.568264
+                  ]
+            },
+            {
+                  "name": "Igreja das Mercês",
+                  "text": "Die Igreja das Mercês ist ein Gotteshaus in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.91182,
+                        38.568758
+                  ]
+            },
+            {
+                  "name": "Igreja de São Brás",
+                  "text": "Die Igreja de São Brás ist ein historisches Gotteshaus in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907168,
+                        38.564955
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora da Cabeça",
+                  "text": "Die Ermida de Nossa Senhora da Cabeça ist eine Kapelle und ein Gotteshaus bei Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.902498,
+                        38.571273
+                  ]
+            },
+            {
+                  "name": "Alto dos Cucos",
+                  "text": "Alto dos Cucos ist ein Gipfel in Évora.",
+                  "category": "natural",
+                  "coords": [
+                        -7.934562,
+                        38.56837
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Évora",
+                  "text": "Jardim Público de Évora ist ein Park in Évora.",
+                  "category": "park",
+                  "coords": [
+                        -7.910464,
+                        38.567262
+                  ]
+            },
+            {
+                  "name": "Jardim das Casas Pintadas",
+                  "text": "Jardim das Casas Pintadas ist ein Garten in Évora.",
+                  "category": "park",
+                  "coords": [
+                        -7.908076,
+                        38.572404
+                  ]
+            },
+            {
+                  "name": "Museu do Relógio",
+                  "text": "Museu do Relógio ist ein Museum in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910643,
+                        38.571203
+                  ]
+            },
+            {
+                  "name": "Núcleo Interpretativo do Megalitismo",
+                  "text": "Núcleo Interpretativo do Megalitismo ist ein Museum in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915383,
+                        38.569853
+                  ]
+            },
+            {
+                  "name": "Plato",
+                  "text": "Plato ist eine Galerie in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.91005,
+                        38.57002
+                  ]
+            },
+            {
+                  "name": "Baluarte do Assa",
+                  "text": "Baluarte do Assa ist eine Festung in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.902209,
+                        38.568079
+                  ]
+            },
+            {
+                  "name": "Baluarte de Nossa Senhora de Machede",
+                  "text": "Baluarte de Nossa Senhora de Machede ist eine Festung in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.901356,
+                        38.573451
+                  ]
+            },
+            {
+                  "name": "Baluarte dos Apóstolos",
+                  "text": "Baluarte dos Apóstolos ist eine Festung in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.903675,
+                        38.57518
+                  ]
+            },
+            {
+                  "name": "Baluarte de São Bartolomeu",
+                  "text": "Baluarte de São Bartolomeu ist eine Festung in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.909186,
+                        38.577346
+                  ]
+            },
+            {
+                  "name": "Baluarte do Picadeiro",
+                  "text": "Baluarte do Picadeiro ist eine Festung in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.904656,
+                        38.56692
+                  ]
+            },
+            {
+                  "name": "Mezuzah",
+                  "text": "Mezuzah ist eine archäologische Stätte in Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.912191,
+                        38.570264
+                  ]
+            },
+            {
+                  "name": "Palacete Conde da Serra da Tourega",
+                  "text": "Palacete Conde da Serra da Tourega ist ein Herrenhaus in Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.905864,
+                        38.571248
+                  ]
+            },
+            {
+                  "name": "Arena d'Évora",
+                  "text": "Arena d'Évora ist ein Theater in Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.911046,
+                        38.566359
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Capela dos Ossos",
+                  "text": "A Csontkápolna egy emberi csontvázakkal díszített csontház és múzeum Évorában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908371,
+                        38.568753
+                  ]
+            },
+            {
+                  "name": "Forte de Santo António da Piedade",
+                  "text": "A Forte de Santo António da Piedade egy történelmi erődítmény Évorában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.915648,
+                        38.578449
+                  ]
+            },
+            {
+                  "name": "Palácio de Dom Manuel",
+                  "text": "A Palácio de Dom Manuel egy egykori királyi palota, amely ma múzeumként működik Évorában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909244,
+                        38.567793
+                  ]
+            },
+            {
+                  "name": "Porta de Aviz",
+                  "text": "A Porta de Aviz egy történelmi városkapu Évora középkori falainak részeként.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.910341,
+                        38.576704
+                  ]
+            },
+            {
+                  "name": "Teatro Garcia de Resende",
+                  "text": "A Teatro Garcia de Resende egy elegáns, olasz stílusú színház Évorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.913304,
+                        38.572758
+                  ]
+            },
+            {
+                  "name": "São João Evangelista",
+                  "text": "A São João Evangelista egy templom Évorában, amely gyönyörű azulejo csempéiről híres.",
+                  "category": "religious",
+                  "coords": [
+                        -7.906925,
+                        38.572946
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Água de Prata",
+                  "text": "Az Aqueduto da Água de Prata egy 16. századi vízvezeték, amely történelmileg vízzel látta el Évorát.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911064,
+                        38.574587
+                  ]
+            },
+            {
+                  "name": "Torre de Sisebuto",
+                  "text": "A Torre de Sisebuto egy történelmi toronyépítmény Évorában.",
+                  "category": "tower",
+                  "coords": [
+                        -7.90936,
+                        38.571673
+                  ]
+            },
+            {
+                  "name": "Palácio dos Condes de Basto",
+                  "text": "A Palácio dos Condes de Basto egy történelmi palota, amely múzeumként működik Évorában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.905727,
+                        38.572889
+                  ]
+            },
+            {
+                  "name": "Palácio do Vimioso",
+                  "text": "A Palácio do Vimioso egy vár és történelmi rezidencia Évorában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.90707,
+                        38.57132
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de São Mamede",
+                  "text": "A Junta de Freguesia de São Mamede egy helyi városháza Évorában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.909425,
+                        38.574975
+                  ]
+            },
+            {
+                  "name": "Porta do Raimundo",
+                  "text": "A Porta do Raimundo egy történelmi városkapu Évorában.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.912996,
+                        38.567547
+                  ]
+            },
+            {
+                  "name": "Salão Central Eborense",
+                  "text": "A Salão Central Eborense egy művészeti és rendezvényközpont Évorában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.907545,
+                        38.570408
+                  ]
+            },
+            {
+                  "name": "Igreja do Espírito Santo",
+                  "text": "Az Igreja do Espírito Santo egy jelentős templom Évorában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.90464,
+                        38.572789
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador",
+                  "text": "Az Igreja do Salvador egy vallási épület és templom Évorában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.909961,
+                        38.572738
+                  ]
+            },
+            {
+                  "name": "Igreja de São Mamede",
+                  "text": "Az Igreja de São Mamede egy templom Évorában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907621,
+                        38.57443
+                  ]
+            },
+            {
+                  "name": "Convento do Carmo",
+                  "text": "A Convento do Carmo egy történelmi kolostor és istentiszteleti hely Évorában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.905475,
+                        38.569861
+                  ]
+            },
+            {
+                  "name": "Igreja do Senhor Jesus da Pobreza",
+                  "text": "Az Igreja do Senhor Jesus da Pobreza egy helyi istentiszteleti hely Évorában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.903305,
+                        38.568264
+                  ]
+            },
+            {
+                  "name": "Igreja das Mercês",
+                  "text": "Az Igreja das Mercês egy templom Évorában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.91182,
+                        38.568758
+                  ]
+            },
+            {
+                  "name": "Igreja de São Brás",
+                  "text": "Az Igreja de São Brás egy történelmi templom Évorában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907168,
+                        38.564955
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora da Cabeça",
+                  "text": "Az Ermida de Nossa Senhora da Cabeça egy kápolna és istentiszteleti hely Évora közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.902498,
+                        38.571273
+                  ]
+            },
+            {
+                  "name": "Alto dos Cucos",
+                  "text": "Az Alto dos Cucos egy hegycsúcs Évora városában.",
+                  "category": "natural",
+                  "coords": [
+                        -7.934562,
+                        38.56837
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Évora",
+                  "text": "A Jardim Público de Évora egy park Évora városában.",
+                  "category": "park",
+                  "coords": [
+                        -7.910464,
+                        38.567262
+                  ]
+            },
+            {
+                  "name": "Jardim das Casas Pintadas",
+                  "text": "A Jardim das Casas Pintadas egy kert Évora városában.",
+                  "category": "park",
+                  "coords": [
+                        -7.908076,
+                        38.572404
+                  ]
+            },
+            {
+                  "name": "Museu do Relógio",
+                  "text": "A Museu do Relógio egy múzeum Évora városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910643,
+                        38.571203
+                  ]
+            },
+            {
+                  "name": "Núcleo Interpretativo do Megalitismo",
+                  "text": "A Núcleo Interpretativo do Megalitismo egy múzeum Évora városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915383,
+                        38.569853
+                  ]
+            },
+            {
+                  "name": "Plato",
+                  "text": "A Plato egy galéria Évora városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.91005,
+                        38.57002
+                  ]
+            },
+            {
+                  "name": "Baluarte do Assa",
+                  "text": "A Baluarte do Assa egy erőd Évora városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.902209,
+                        38.568079
+                  ]
+            },
+            {
+                  "name": "Baluarte de Nossa Senhora de Machede",
+                  "text": "A Baluarte de Nossa Senhora de Machede egy erőd Évora városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.901356,
+                        38.573451
+                  ]
+            },
+            {
+                  "name": "Baluarte dos Apóstolos",
+                  "text": "A Baluarte dos Apóstolos egy erőd Évora városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.903675,
+                        38.57518
+                  ]
+            },
+            {
+                  "name": "Baluarte de São Bartolomeu",
+                  "text": "A Baluarte de São Bartolomeu egy erőd Évora városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.909186,
+                        38.577346
+                  ]
+            },
+            {
+                  "name": "Baluarte do Picadeiro",
+                  "text": "A Baluarte do Picadeiro egy erőd Évora városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.904656,
+                        38.56692
+                  ]
+            },
+            {
+                  "name": "Mezuzah",
+                  "text": "A Mezuzah egy régészeti lelőhely Évora városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.912191,
+                        38.570264
+                  ]
+            },
+            {
+                  "name": "Palacete Conde da Serra da Tourega",
+                  "text": "A Palacete Conde da Serra da Tourega egy udvarház Évora városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.905864,
+                        38.571248
+                  ]
+            },
+            {
+                  "name": "Arena d'Évora",
+                  "text": "Az Arena d'Évora egy színház Évora városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.911046,
+                        38.566359
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Capela dos Ossos",
+                  "text": "Capela Oaselor este un muzeu-osuar din Évora, decorat cu rămășițe scheletice umane.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908371,
+                        38.568753
+                  ]
+            },
+            {
+                  "name": "Forte de Santo António da Piedade",
+                  "text": "Forte de Santo António da Piedade este un castel și fort istoric din Évora.",
+                  "category": "castle",
+                  "coords": [
+                        -7.915648,
+                        38.578449
+                  ]
+            },
+            {
+                  "name": "Palácio de Dom Manuel",
+                  "text": "Palácio de Dom Manuel este un fost palat regal care servește drept muzeu în Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909244,
+                        38.567793
+                  ]
+            },
+            {
+                  "name": "Porta de Aviz",
+                  "text": "Porta de Aviz este o poartă istorică a orașului care face parte din zidurile medievale din Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.910341,
+                        38.576704
+                  ]
+            },
+            {
+                  "name": "Teatro Garcia de Resende",
+                  "text": "Teatrul Garcia de Resende este un teatru elegant în stil italian situat în Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.913304,
+                        38.572758
+                  ]
+            },
+            {
+                  "name": "São João Evangelista",
+                  "text": "São João Evangelista este o biserică din Évora, renumită pentru frumoasele sale plăci de azulejo.",
+                  "category": "religious",
+                  "coords": [
+                        -7.906925,
+                        38.572946
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Água de Prata",
+                  "text": "Aqueduto da Água de Prata este un apeduct din secolul al XVI-lea care a furnizat istoric apă orașului Évora.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911064,
+                        38.574587
+                  ]
+            },
+            {
+                  "name": "Torre de Sisebuto",
+                  "text": "Torre de Sisebuto este un turn istoric situat în Évora.",
+                  "category": "tower",
+                  "coords": [
+                        -7.90936,
+                        38.571673
+                  ]
+            },
+            {
+                  "name": "Palácio dos Condes de Basto",
+                  "text": "Palácio dos Condes de Basto este un palat istoric care funcționează ca muzeu în Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.905727,
+                        38.572889
+                  ]
+            },
+            {
+                  "name": "Palácio do Vimioso",
+                  "text": "Palácio do Vimioso este un castel și o reședință istorică situată în Évora.",
+                  "category": "castle",
+                  "coords": [
+                        -7.90707,
+                        38.57132
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de São Mamede",
+                  "text": "Junta de Freguesia de São Mamede este o clădire a primăriei locale situată în Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.909425,
+                        38.574975
+                  ]
+            },
+            {
+                  "name": "Porta do Raimundo",
+                  "text": "Porta do Raimundo este o poartă istorică a orașului situată în Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.912996,
+                        38.567547
+                  ]
+            },
+            {
+                  "name": "Salão Central Eborense",
+                  "text": "Salão Central Eborense este un centru de arte și evenimente situat în Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.907545,
+                        38.570408
+                  ]
+            },
+            {
+                  "name": "Igreja do Espírito Santo",
+                  "text": "Igreja do Espírito Santo este o biserică notabilă din Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.90464,
+                        38.572789
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador",
+                  "text": "Igreja do Salvador este o clădire religioasă și biserică situată în Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.909961,
+                        38.572738
+                  ]
+            },
+            {
+                  "name": "Igreja de São Mamede",
+                  "text": "Igreja de São Mamede este un lăcaș de cult situat în Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907621,
+                        38.57443
+                  ]
+            },
+            {
+                  "name": "Convento do Carmo",
+                  "text": "Convento do Carmo este o mănăstire istorică și un lăcaș de cult din Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.905475,
+                        38.569861
+                  ]
+            },
+            {
+                  "name": "Igreja do Senhor Jesus da Pobreza",
+                  "text": "Igreja do Senhor Jesus da Pobreza este un lăcaș de cult local din Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.903305,
+                        38.568264
+                  ]
+            },
+            {
+                  "name": "Igreja das Mercês",
+                  "text": "Igreja das Mercês este un lăcaș de cult situat în Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.91182,
+                        38.568758
+                  ]
+            },
+            {
+                  "name": "Igreja de São Brás",
+                  "text": "Igreja de São Brás este un lăcaș de cult istoric situat în Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907168,
+                        38.564955
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora da Cabeça",
+                  "text": "Ermida de Nossa Senhora da Cabeça este o capelă și un lăcaș de cult lângă Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.902498,
+                        38.571273
+                  ]
+            },
+            {
+                  "name": "Alto dos Cucos",
+                  "text": "Alto dos Cucos este un vârf în Évora.",
+                  "category": "natural",
+                  "coords": [
+                        -7.934562,
+                        38.56837
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Évora",
+                  "text": "Jardim Público de Évora este un parc în Évora.",
+                  "category": "park",
+                  "coords": [
+                        -7.910464,
+                        38.567262
+                  ]
+            },
+            {
+                  "name": "Jardim das Casas Pintadas",
+                  "text": "Jardim das Casas Pintadas este o grădină în Évora.",
+                  "category": "park",
+                  "coords": [
+                        -7.908076,
+                        38.572404
+                  ]
+            },
+            {
+                  "name": "Museu do Relógio",
+                  "text": "Museu do Relógio este un muzeu în Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910643,
+                        38.571203
+                  ]
+            },
+            {
+                  "name": "Núcleo Interpretativo do Megalitismo",
+                  "text": "Núcleo Interpretativo do Megalitismo este un muzeu în Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915383,
+                        38.569853
+                  ]
+            },
+            {
+                  "name": "Plato",
+                  "text": "Plato este o galerie în Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.91005,
+                        38.57002
+                  ]
+            },
+            {
+                  "name": "Baluarte do Assa",
+                  "text": "Baluarte do Assa este un fort în Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.902209,
+                        38.568079
+                  ]
+            },
+            {
+                  "name": "Baluarte de Nossa Senhora de Machede",
+                  "text": "Baluarte de Nossa Senhora de Machede este un fort în Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.901356,
+                        38.573451
+                  ]
+            },
+            {
+                  "name": "Baluarte dos Apóstolos",
+                  "text": "Baluarte dos Apóstolos este un fort în Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.903675,
+                        38.57518
+                  ]
+            },
+            {
+                  "name": "Baluarte de São Bartolomeu",
+                  "text": "Baluarte de São Bartolomeu este un fort în Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.909186,
+                        38.577346
+                  ]
+            },
+            {
+                  "name": "Baluarte do Picadeiro",
+                  "text": "Baluarte do Picadeiro este un fort în Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.904656,
+                        38.56692
+                  ]
+            },
+            {
+                  "name": "Mezuzah",
+                  "text": "Mezuzah este un sit arheologic în Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.912191,
+                        38.570264
+                  ]
+            },
+            {
+                  "name": "Palacete Conde da Serra da Tourega",
+                  "text": "Palacete Conde da Serra da Tourega este un conac în Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.905864,
+                        38.571248
+                  ]
+            },
+            {
+                  "name": "Arena d'Évora",
+                  "text": "Arena d'Évora este un teatru în Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.911046,
+                        38.566359
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chapel of Bones",
+                  "text": "The Chapel of Bones is an ossuary museum in Évora decorated with human skeletal remains.",
+                  "category": "museum",
+                  "coords": [
+                        -7.908371,
+                        38.568753
+                  ]
+            },
+            {
+                  "name": "Forte de Santo António da Piedade",
+                  "text": "Forte de Santo António da Piedade is a historic castle and fort in Évora.",
+                  "category": "castle",
+                  "coords": [
+                        -7.915648,
+                        38.578449
+                  ]
+            },
+            {
+                  "name": "Palácio de Dom Manuel",
+                  "text": "Palácio de Dom Manuel is a former royal palace that serves as a museum in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909244,
+                        38.567793
+                  ]
+            },
+            {
+                  "name": "Porta de Aviz",
+                  "text": "Porta de Aviz is a historic city gate forming part of the medieval walls of Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.910341,
+                        38.576704
+                  ]
+            },
+            {
+                  "name": "Teatro Garcia de Resende",
+                  "text": "Teatro Garcia de Resende is an elegant Italianate theatre located in Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.913304,
+                        38.572758
+                  ]
+            },
+            {
+                  "name": "São João Evangelista",
+                  "text": "São João Evangelista is a church in Évora renowned for its beautiful azulejo tilework.",
+                  "category": "religious",
+                  "coords": [
+                        -7.906925,
+                        38.572946
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Água de Prata",
+                  "text": "Aqueduto da Água de Prata is a 16th-century aqueduct that historically supplied water to Évora.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911064,
+                        38.574587
+                  ]
+            },
+            {
+                  "name": "Torre de Sisebuto",
+                  "text": "Torre de Sisebuto is a historic tower structure situated in Évora.",
+                  "category": "tower",
+                  "coords": [
+                        -7.90936,
+                        38.571673
+                  ]
+            },
+            {
+                  "name": "Palácio dos Condes de Basto",
+                  "text": "Palácio dos Condes de Basto is a historic palace functioning as a museum in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.905727,
+                        38.572889
+                  ]
+            },
+            {
+                  "name": "Palácio do Vimioso",
+                  "text": "Palácio do Vimioso is a castle and historic residence situated in Évora.",
+                  "category": "castle",
+                  "coords": [
+                        -7.90707,
+                        38.57132
+                  ]
+            },
+            {
+                  "name": "Junta de Freguesia de São Mamede",
+                  "text": "Junta de Freguesia de São Mamede is a local town hall building located in Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.909425,
+                        38.574975
+                  ]
+            },
+            {
+                  "name": "Porta do Raimundo",
+                  "text": "Porta do Raimundo is a historic city gate located in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.912996,
+                        38.567547
+                  ]
+            },
+            {
+                  "name": "Salão Central Eborense",
+                  "text": "Salão Central Eborense is an arts and events centre located in Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.907545,
+                        38.570408
+                  ]
+            },
+            {
+                  "name": "Igreja do Espírito Santo",
+                  "text": "Igreja do Espírito Santo is a notable church in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.90464,
+                        38.572789
+                  ]
+            },
+            {
+                  "name": "Igreja do Salvador",
+                  "text": "Igreja do Salvador is a religious building and church situated in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.909961,
+                        38.572738
+                  ]
+            },
+            {
+                  "name": "Igreja de São Mamede",
+                  "text": "Igreja de São Mamede is a place of worship located in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907621,
+                        38.57443
+                  ]
+            },
+            {
+                  "name": "Convento do Carmo",
+                  "text": "Convento do Carmo is a historic convent and place of worship in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.905475,
+                        38.569861
+                  ]
+            },
+            {
+                  "name": "Igreja do Senhor Jesus da Pobreza",
+                  "text": "Igreja do Senhor Jesus da Pobreza is a local place of worship in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.903305,
+                        38.568264
+                  ]
+            },
+            {
+                  "name": "Igreja das Mercês",
+                  "text": "Igreja das Mercês is a place of worship situated within Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.91182,
+                        38.568758
+                  ]
+            },
+            {
+                  "name": "Igreja de São Brás",
+                  "text": "Igreja de São Brás is a historic place of worship located in Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.907168,
+                        38.564955
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora da Cabeça",
+                  "text": "Ermida de Nossa Senhora da Cabeça is a chapel and place of worship near Évora.",
+                  "category": "religious",
+                  "coords": [
+                        -7.902498,
+                        38.571273
+                  ]
+            },
+            {
+                  "name": "Alto dos Cucos",
+                  "text": "Alto dos Cucos is a peak located in Évora.",
+                  "category": "natural",
+                  "coords": [
+                        -7.934562,
+                        38.56837
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Évora",
+                  "text": "Jardim Público de Évora is a park located in Évora.",
+                  "category": "park",
+                  "coords": [
+                        -7.910464,
+                        38.567262
+                  ]
+            },
+            {
+                  "name": "Jardim das Casas Pintadas",
+                  "text": "Jardim das Casas Pintadas is a garden located in Évora.",
+                  "category": "park",
+                  "coords": [
+                        -7.908076,
+                        38.572404
+                  ]
+            },
+            {
+                  "name": "Museu do Relógio",
+                  "text": "Museu do Relógio is a museum located in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910643,
+                        38.571203
+                  ]
+            },
+            {
+                  "name": "Núcleo Interpretativo do Megalitismo",
+                  "text": "Núcleo Interpretativo do Megalitismo is a museum located in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.915383,
+                        38.569853
+                  ]
+            },
+            {
+                  "name": "Plato",
+                  "text": "Plato is a gallery located in Évora.",
+                  "category": "museum",
+                  "coords": [
+                        -7.91005,
+                        38.57002
+                  ]
+            },
+            {
+                  "name": "Baluarte do Assa",
+                  "text": "Baluarte do Assa is a fort located in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.902209,
+                        38.568079
+                  ]
+            },
+            {
+                  "name": "Baluarte de Nossa Senhora de Machede",
+                  "text": "Baluarte de Nossa Senhora de Machede is a fort located in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.901356,
+                        38.573451
+                  ]
+            },
+            {
+                  "name": "Baluarte dos Apóstolos",
+                  "text": "Baluarte dos Apóstolos is a fort located in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.903675,
+                        38.57518
+                  ]
+            },
+            {
+                  "name": "Baluarte de São Bartolomeu",
+                  "text": "Baluarte de São Bartolomeu is a fort located in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.909186,
+                        38.577346
+                  ]
+            },
+            {
+                  "name": "Baluarte do Picadeiro",
+                  "text": "Baluarte do Picadeiro is a fort located in Évora.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.904656,
+                        38.56692
+                  ]
+            },
+            {
+                  "name": "Mezuzah",
+                  "text": "Mezuzah is an archaeological site located in Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.912191,
+                        38.570264
+                  ]
+            },
+            {
+                  "name": "Palacete Conde da Serra da Tourega",
+                  "text": "Palacete Conde da Serra da Tourega is a manor located in Évora.",
+                  "category": "historical",
+                  "coords": [
+                        -7.905864,
+                        38.571248
+                  ]
+            },
+            {
+                  "name": "Arena d'Évora",
+                  "text": "Arena d'Évora is a theatre located in Évora.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.911046,
+                        38.566359
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.9069, 38.5717],
@@ -3172,7 +7996,988 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-aveiro",
+    id: "city-aveiro", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Aveirense",
+                  "text": "Das wichtigste Theatergebäude in Aveiro mit einem vielfältigen Kulturprogramm.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.654082,
+                        40.640128
+                  ]
+            },
+            {
+                  "name": "CETA - Circulo Experimental de Teatro de Aveiro",
+                  "text": "Ein experimentelles Theaterzentrum in Aveiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.655666,
+                        40.644283
+                  ]
+            },
+            {
+                  "name": "Museu Arte Nova",
+                  "text": "Dieses Museum in Aveiro widmet sich der Kunstrichtung des Jugendstils.",
+                  "category": "museum",
+                  "coords": [
+                        -8.655608,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "Museu Cidade de Aveiro",
+                  "text": "Das Stadtmuseum von Aveiro präsentiert die lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65446,
+                        40.641624
+                  ]
+            },
+            {
+                  "name": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                  "text": "Ein Museum, das in der Karmeliterkirche von Aveiro untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.653423,
+                        40.63832
+                  ]
+            },
+            {
+                  "name": "Museu da Federação Académica do Desporto Universitário",
+                  "text": "Ein Museum in Aveiro, das dem akademischen Universitätssport gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652247,
+                        40.637632
+                  ]
+            },
+            {
+                  "name": "Fábrica - Centro Ciência Viva de Aveiro",
+                  "text": "Ein interaktives Wissenschaftszentrum in Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.657697,
+                        40.638146
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Marinha da Troncalhada",
+                  "text": "Ein Freilichtmuseum in den Salzwiesen von Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.662983,
+                        40.644085
+                  ]
+            },
+            {
+                  "name": "Escola de Belas Artes",
+                  "text": "Ein Zentrum für Kunst und Bildung in Aveiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.64868,
+                        40.636732
+                  ]
+            },
+            {
+                  "name": "Eu Amo Aveiro",
+                  "text": "Ein moderner Fotospot und eine Sehenswürdigkeit in Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645697,
+                        40.638389
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Die traditionellen Salinen von Aveiro, in denen Meersalz gewonnen wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.667383,
+                        40.648353
+                  ]
+            },
+            {
+                  "name": "Baloiços da Ribeira de Vilar - 3",
+                  "text": "Ein Aussichtspunkt mit Schaukeln in der Nähe von Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.634805,
+                        40.631037
+                  ]
+            },
+            {
+                  "name": "São Gonçalinho (Paulo Noves)",
+                  "text": "Ein Denkmal in Aveiro, das dem lokalen Heiligen São Gonçalinho gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.655223,
+                        40.643121
+                  ]
+            },
+            {
+                  "name": "Paraquedistas",
+                  "text": "Ein Denkmal zu Ehren der Fallschirmjäger in Aveiro.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646352,
+                        40.642209
+                  ]
+            },
+            {
+                  "name": "Galeria da Estação",
+                  "text": "Ein Kunstraum, der sich im Bahnhofsgebäude von Aveiro befindet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.640583,
+                        40.644182
+                  ]
+            },
+            {
+                  "name": "Galeria da Capitania",
+                  "text": "Eine Kunstgalerie im historischen Kapitänsgebäude von Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652672,
+                        40.64144
+                  ]
+            },
+            {
+                  "name": "Pirâmides",
+                  "text": "Ein markantes Denkmal in der Nähe der Salinen von Aveiro.",
+                  "category": "historical",
+                  "coords": [
+                        -8.661718,
+                        40.645345
+                  ]
+            },
+            {
+                  "name": "Aveiro com Paixão - Passeio de Barco",
+                  "text": "Ein Anbieter für touristische Bootstouren in Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.656561,
+                        40.641213
+                  ]
+            },
+            {
+                  "name": "Praias da Ria",
+                  "text": "Die Strände entlang der Lagune von Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.657621,
+                        40.641926
+                  ]
+            },
+            {
+                  "name": "Pedestrian bridge (closed)",
+                  "text": "Ein Aussichtspunkt auf einer ehemaligen Fußgängerbrücke in Aveiro.",
+                  "category": "natural",
+                  "coords": [
+                        -8.644785,
+                        40.631352
+                  ]
+            },
+            {
+                  "name": "Praia da Marinha da Noeirinha",
+                  "text": "Ein Strandbad in der Nähe der Salinen von Aveiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658969,
+                        40.645444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Aguada de Cima",
+                  "text": "Ein historischer Pranger in Aguada de Cima bei Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.650929,
+                        40.639403
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Esgueira",
+                  "text": "Ein denkmalgeschützter Pranger im Stadtteil Esgueira von Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.628107,
+                        40.64851
+                  ]
+            },
+            {
+                  "name": "Capela do Espírito Santo",
+                  "text": "Eine Heilig-Geist-Kapelle in Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626291,
+                        40.647233
+                  ]
+            },
+            {
+                  "name": "Capela das Barrocas",
+                  "text": "Eine barocke Kapelle in Aveiro, die für ihre Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.641326,
+                        40.647243
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora da Alegria",
+                  "text": "Eine kleine Kapelle in Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.642962,
+                        40.646369
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Eine dem Karmeliterorden zugehörige Kirche in Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.648107,
+                        40.644465
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Aveirense",
+                  "text": "Aveiro fő színházépülete, amely változatos kulturális programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.654082,
+                        40.640128
+                  ]
+            },
+            {
+                  "name": "CETA - Circulo Experimental de Teatro de Aveiro",
+                  "text": "Experimentális színházi központ Aveiróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.655666,
+                        40.644283
+                  ]
+            },
+            {
+                  "name": "Museu Arte Nova",
+                  "text": "Ez az aveirói múzeum a szecessziós művészetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.655608,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "Museu Cidade de Aveiro",
+                  "text": "Aveiro városi múzeuma a helyi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65446,
+                        40.641624
+                  ]
+            },
+            {
+                  "name": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                  "text": "Az aveirói karmelita templomban helyet kapott múzeumi részleg.",
+                  "category": "museum",
+                  "coords": [
+                        -8.653423,
+                        40.63832
+                  ]
+            },
+            {
+                  "name": "Museu da Federação Académica do Desporto Universitário",
+                  "text": "Az akadémiai egyetemi sportnak szentelt múzeum Aveiróban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652247,
+                        40.637632
+                  ]
+            },
+            {
+                  "name": "Fábrica - Centro Ciência Viva de Aveiro",
+                  "text": "Interaktív tudományos központ Aveiróban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.657697,
+                        40.638146
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Marinha da Troncalhada",
+                  "text": "Szabadtéri múzeum Aveiro sós mocsaraiban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.662983,
+                        40.644085
+                  ]
+            },
+            {
+                  "name": "Escola de Belas Artes",
+                  "text": "Művészeti és oktatási központ Aveiróban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.64868,
+                        40.636732
+                  ]
+            },
+            {
+                  "name": "Eu Amo Aveiro",
+                  "text": "Modern fotópont és látványosság Aveiróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645697,
+                        40.638389
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Aveiro hagyományos lepárlói, ahol tengeri sót nyernek ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.667383,
+                        40.648353
+                  ]
+            },
+            {
+                  "name": "Baloiços da Ribeira de Vilar - 3",
+                  "text": "Kilátópont hintákkal Aveiro közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.634805,
+                        40.631037
+                  ]
+            },
+            {
+                  "name": "São Gonçalinho (Paulo Noves)",
+                  "text": "Aveirói emlékmű, amelyet a helyi szentnek, São Gonçalinhónak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -8.655223,
+                        40.643121
+                  ]
+            },
+            {
+                  "name": "Paraquedistas",
+                  "text": "Emlékmű az ejtőernyősök tiszteletére Aveiróban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646352,
+                        40.642209
+                  ]
+            },
+            {
+                  "name": "Galeria da Estação",
+                  "text": "Művészeti tér Aveiro vasútállomásának épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -8.640583,
+                        40.644182
+                  ]
+            },
+            {
+                  "name": "Galeria da Capitania",
+                  "text": "Művészeti galéria Aveiro történelmi kapitánysági épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652672,
+                        40.64144
+                  ]
+            },
+            {
+                  "name": "Pirâmides",
+                  "text": "Jellegzetes emlékmű az aveirói sólepárlók közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.661718,
+                        40.645345
+                  ]
+            },
+            {
+                  "name": "Aveiro com Paixão - Passeio de Barco",
+                  "text": "Turisztikai hajókirándulásokat kínáló szolgáltató Aveiróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.656561,
+                        40.641213
+                  ]
+            },
+            {
+                  "name": "Praias da Ria",
+                  "text": "Strandok az aveirói lagúna mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.657621,
+                        40.641926
+                  ]
+            },
+            {
+                  "name": "Pedestrian bridge (closed)",
+                  "text": "Kilátópont egy volt gyalogoshídon Aveiróban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.644785,
+                        40.631352
+                  ]
+            },
+            {
+                  "name": "Praia da Marinha da Noeirinha",
+                  "text": "Strandfürdő az aveirói sólepárlók közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658969,
+                        40.645444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Aguada de Cima",
+                  "text": "Történelmi szégyenoszlop Aguada de Cimában, Aveiro közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.650929,
+                        40.639403
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Esgueira",
+                  "text": "Műemléki szégyenoszlop Aveiro Esgueira negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.628107,
+                        40.64851
+                  ]
+            },
+            {
+                  "name": "Capela do Espírito Santo",
+                  "text": "Szent Lélek kápolna Aveiróban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626291,
+                        40.647233
+                  ]
+            },
+            {
+                  "name": "Capela das Barrocas",
+                  "text": "Barokk kápolna Aveiróban, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.641326,
+                        40.647243
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora da Alegria",
+                  "text": "Egy kis kápolna Aveiróban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.642962,
+                        40.646369
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "A karmelita rendhez tartozó templom Aveiróban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.648107,
+                        40.644465
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Aveirense",
+                  "text": "Clădirea principală a teatrului din Aveiro, cu un program cultural divers.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.654082,
+                        40.640128
+                  ]
+            },
+            {
+                  "name": "CETA - Circulo Experimental de Teatro de Aveiro",
+                  "text": "Un centru de teatru experimental din Aveiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.655666,
+                        40.644283
+                  ]
+            },
+            {
+                  "name": "Museu Arte Nova",
+                  "text": "Acest muzeu din Aveiro este dedicat stilului artistic Art Nouveau.",
+                  "category": "museum",
+                  "coords": [
+                        -8.655608,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "Museu Cidade de Aveiro",
+                  "text": "Muzeul orașului Aveiro prezintă istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65446,
+                        40.641624
+                  ]
+            },
+            {
+                  "name": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                  "text": "Un nucleu muzeal găzduit în biserica Carmelitilor din Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.653423,
+                        40.63832
+                  ]
+            },
+            {
+                  "name": "Museu da Federação Académica do Desporto Universitário",
+                  "text": "Un muzeu din Aveiro dedicat sportului universitar academic.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652247,
+                        40.637632
+                  ]
+            },
+            {
+                  "name": "Fábrica - Centro Ciência Viva de Aveiro",
+                  "text": "Un centru de știință interactiv din Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.657697,
+                        40.638146
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Marinha da Troncalhada",
+                  "text": "Un ecomuzeu situat în salinele din Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.662983,
+                        40.644085
+                  ]
+            },
+            {
+                  "name": "Escola de Belas Artes",
+                  "text": "Un centru de artă și educație din Aveiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.64868,
+                        40.636732
+                  ]
+            },
+            {
+                  "name": "Eu Amo Aveiro",
+                  "text": "Un punct modern pentru fotografii și atracție în Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645697,
+                        40.638389
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "Salinele tradiționale din Aveiro, unde se extrage sarea de mare.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.667383,
+                        40.648353
+                  ]
+            },
+            {
+                  "name": "Baloiços da Ribeira de Vilar - 3",
+                  "text": "Un punct de belvedere cu leagăne lângă Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.634805,
+                        40.631037
+                  ]
+            },
+            {
+                  "name": "São Gonçalinho (Paulo Noves)",
+                  "text": "Un monument din Aveiro dedicat sfântului local São Gonçalinho.",
+                  "category": "historical",
+                  "coords": [
+                        -8.655223,
+                        40.643121
+                  ]
+            },
+            {
+                  "name": "Paraquedistas",
+                  "text": "Un monument în onoarea parașutiștilor din Aveiro.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646352,
+                        40.642209
+                  ]
+            },
+            {
+                  "name": "Galeria da Estação",
+                  "text": "Un spațiu de artă situat în clădirea gării din Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.640583,
+                        40.644182
+                  ]
+            },
+            {
+                  "name": "Galeria da Capitania",
+                  "text": "O galerie de artă în clădirea istorică a căpitaniei din Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652672,
+                        40.64144
+                  ]
+            },
+            {
+                  "name": "Pirâmides",
+                  "text": "Un monument distinctiv lângă salinele din Aveiro.",
+                  "category": "historical",
+                  "coords": [
+                        -8.661718,
+                        40.645345
+                  ]
+            },
+            {
+                  "name": "Aveiro com Paixão - Passeio de Barco",
+                  "text": "Un furnizor de tururi turistice cu barca în Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.656561,
+                        40.641213
+                  ]
+            },
+            {
+                  "name": "Praias da Ria",
+                  "text": "Plajele de-a lungul lagunei din Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.657621,
+                        40.641926
+                  ]
+            },
+            {
+                  "name": "Pedestrian bridge (closed)",
+                  "text": "Un punct de belvedere pe un fost pod pietonal din Aveiro.",
+                  "category": "natural",
+                  "coords": [
+                        -8.644785,
+                        40.631352
+                  ]
+            },
+            {
+                  "name": "Praia da Marinha da Noeirinha",
+                  "text": "O stațiune de plajă lângă salinele din Aveiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658969,
+                        40.645444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Aguada de Cima",
+                  "text": "Un stâlp al infamiei istoric în Aguada de Cima, lângă Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.650929,
+                        40.639403
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Esgueira",
+                  "text": "Un stâlp al infamiei monument istoric în cartierul Esgueira din Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.628107,
+                        40.64851
+                  ]
+            },
+            {
+                  "name": "Capela „Sfântului Duh”",
+                  "text": "O capelă a Sfântului Duh din Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626291,
+                        40.647233
+                  ]
+            },
+            {
+                  "name": "Capela das Barrocas",
+                  "text": "O capelă barocă din Aveiro, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        -8.641326,
+                        40.647243
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora da Alegria",
+                  "text": "O mică capelă în Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.642962,
+                        40.646369
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "O biserică aparținând ordinului carmelit din Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.648107,
+                        40.644465
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Aveirense",
+                  "text": "The main theatre building in Aveiro, offering a diverse cultural program.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.654082,
+                        40.640128
+                  ]
+            },
+            {
+                  "name": "CETA - Circulo Experimental de Teatro de Aveiro",
+                  "text": "An experimental theatre centre located in Aveiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.655666,
+                        40.644283
+                  ]
+            },
+            {
+                  "name": "Museu Arte Nova",
+                  "text": "This museum in Aveiro is dedicated to the Art Nouveau art movement.",
+                  "category": "museum",
+                  "coords": [
+                        -8.655608,
+                        40.641795
+                  ]
+            },
+            {
+                  "name": "City Museum Aveiro",
+                  "text": "The city museum of Aveiro presents the local history.",
+                  "category": "museum",
+                  "coords": [
+                        -8.65446,
+                        40.641624
+                  ]
+            },
+            {
+                  "name": "Núcleo Museulógico da Igreja das Carmelitas de Aveiro",
+                  "text": "A museum section housed within the Carmelites Church of Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.653423,
+                        40.63832
+                  ]
+            },
+            {
+                  "name": "Museu da Federação Académica do Desporto Universitário",
+                  "text": "A museum in Aveiro dedicated to academic university sports.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652247,
+                        40.637632
+                  ]
+            },
+            {
+                  "name": "Fábrica - Centro Ciência Viva de Aveiro",
+                  "text": "An interactive science centre located in Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.657697,
+                        40.638146
+                  ]
+            },
+            {
+                  "name": "Ecomuseu Marinha da Troncalhada",
+                  "text": "An open-air museum located in the salt pans of Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.662983,
+                        40.644085
+                  ]
+            },
+            {
+                  "name": "Escola de Belas Artes",
+                  "text": "A centre for arts and education in Aveiro.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.64868,
+                        40.636732
+                  ]
+            },
+            {
+                  "name": "I Love Aveiro",
+                  "text": "A modern photo spot and attraction in Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.645697,
+                        40.638389
+                  ]
+            },
+            {
+                  "name": "Salinas",
+                  "text": "The traditional salt pans of Aveiro where sea salt is produced.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.667383,
+                        40.648353
+                  ]
+            },
+            {
+                  "name": "Baloiços da Ribeira de Vilar - 3",
+                  "text": "A viewpoint featuring swings located near Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.634805,
+                        40.631037
+                  ]
+            },
+            {
+                  "name": "São Gonçalinho (Paulo Noves)",
+                  "text": "A monument in Aveiro dedicated to the local saint, São Gonçalinho.",
+                  "category": "historical",
+                  "coords": [
+                        -8.655223,
+                        40.643121
+                  ]
+            },
+            {
+                  "name": "Paraquedistas",
+                  "text": "A monument honoring paratroopers in Aveiro.",
+                  "category": "historical",
+                  "coords": [
+                        -8.646352,
+                        40.642209
+                  ]
+            },
+            {
+                  "name": "Galeria da Estação",
+                  "text": "An art space located within the station building of Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.640583,
+                        40.644182
+                  ]
+            },
+            {
+                  "name": "Galeria da Capitania",
+                  "text": "An art gallery in the historic captaincy building of Aveiro.",
+                  "category": "museum",
+                  "coords": [
+                        -8.652672,
+                        40.64144
+                  ]
+            },
+            {
+                  "name": "Pirâmides",
+                  "text": "A distinctive monument located near the salt pans of Aveiro.",
+                  "category": "historical",
+                  "coords": [
+                        -8.661718,
+                        40.645345
+                  ]
+            },
+            {
+                  "name": "Aveiro com Paixão - Boat Tours",
+                  "text": "A provider of tourist boat tours in Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.656561,
+                        40.641213
+                  ]
+            },
+            {
+                  "name": "Praias da Ria",
+                  "text": "The beaches located along the Aveiro lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.657621,
+                        40.641926
+                  ]
+            },
+            {
+                  "name": "Pedestrian bridge (closed)",
+                  "text": "A viewpoint on a former pedestrian bridge in Aveiro.",
+                  "category": "natural",
+                  "coords": [
+                        -8.644785,
+                        40.631352
+                  ]
+            },
+            {
+                  "name": "Praia da Marinha da Noeirinha",
+                  "text": "A beach resort located near the salt pans of Aveiro.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.658969,
+                        40.645444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Aguada de Cima",
+                  "text": "A historic pillory in Aguada de Cima, near Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.650929,
+                        40.639403
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Esgueira",
+                  "text": "A historic pillory located in the Esgueira district of Aveiro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.628107,
+                        40.64851
+                  ]
+            },
+            {
+                  "name": "Capela do Espírito Santo",
+                  "text": "A Holy Spirit chapel located in Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626291,
+                        40.647233
+                  ]
+            },
+            {
+                  "name": "Capela das Barrocas",
+                  "text": "A Baroque chapel in Aveiro known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.641326,
+                        40.647243
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora da Alegria",
+                  "text": "A small chapel located in Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.642962,
+                        40.646369
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "A church belonging to the Carmelite order in Aveiro.",
+                  "category": "religious",
+                  "coords": [
+                        -8.648107,
+                        40.644465
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.6538, 40.6405],
@@ -3216,7 +9021,1024 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-viseu",
+    id: "city-viseu", "sights": {
+      "de": [
+            {
+                  "name": "Casa da Ribeira",
+                  "text": "Ein kleines Museum in Viseu, das sich dem traditionellen Handwerk und der Volkskunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910148,
+                        40.663447
+                  ]
+            },
+            {
+                  "name": "Teatro Viriato",
+                  "text": "Ein renommiertes Theater in Viseu, das ein vielfältiges Programm an Bühnenkunst bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.908173,
+                        40.660882
+                  ]
+            },
+            {
+                  "name": "Coleção Arqueológica José Coelho",
+                  "text": "Eine Museumssammlung in Viseu, die archäologische Funde des Forschers José Coelho zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910819,
+                        40.660787
+                  ]
+            },
+            {
+                  "name": "Museu de Almeida Moreira",
+                  "text": "Das ehemalige Wohnhaus des Kunstsammlers Almeida Moreira in Viseu, heute ein Kunstmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        -7.913276,
+                        40.65857
+                  ]
+            },
+            {
+                  "name": "Museu da Misericórdia de Viseu",
+                  "text": "Ein Museum in Viseu, das religiöse Kunst und die Geschichte der Bruderschaft Misericórdia zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.911729,
+                        40.6602
+                  ]
+            },
+            {
+                  "name": "Muralha de Viseu",
+                  "text": "Die Überreste der mittelalterlichen Stadtmauer, die einst das Zentrum von Viseu schützte.",
+                  "category": "historical",
+                  "coords": [
+                        -7.907282,
+                        40.659769
+                  ]
+            },
+            {
+                  "name": "Muralha Romana da Rua Formosa",
+                  "text": "Ein Abschnitt der antiken römischen Stadtmauer, der in der Rua Formosa in Viseu erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910854,
+                        40.657117
+                  ]
+            },
+            {
+                  "name": "Aula Magna do IPV",
+                  "text": "Die Aula Magna des Polytechnischen Instituts von Viseu, genutzt für akademische und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.919883,
+                        40.646497
+                  ]
+            },
+            {
+                  "name": "Estrada Romana Imperador Cláudio",
+                  "text": "Reste einer alten römischen Straße in Viseu, die nach Kaiser Claudius benannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -7.895977,
+                        40.641679
+                  ]
+            },
+            {
+                  "name": "IPDJ",
+                  "text": "Ein Veranstaltungsort in Viseu für Jugendaktivitäten und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.904988,
+                        40.660244
+                  ]
+            },
+            {
+                  "name": "Museu de História da Cidade",
+                  "text": "Ein Museum, das die historische Entwicklung und das Erbe der Stadt Viseu dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910616,
+                        40.658691
+                  ]
+            },
+            {
+                  "name": "Centro de Monitorização e Interpretação Ambiental",
+                  "text": "Umweltbeobachtungs- und Interpretationszentrum in Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.919554,
+                        40.662946
+                  ]
+            },
+            {
+                  "name": "Parque Aquilino Ribeiro",
+                  "text": "Ein öffentlicher Park in Viseu, benannt nach dem portugiesischen Schriftsteller Aquilino Ribeiro.",
+                  "category": "park",
+                  "coords": [
+                        -7.915674,
+                        40.655621
+                  ]
+            },
+            {
+                  "name": "Solar do Dão",
+                  "text": "Ein historisches Herrenhaus in Viseu, das heute als Empfangszentrum für Dão-Weine dient.",
+                  "category": "historical",
+                  "coords": [
+                        -7.901121,
+                        40.661365
+                  ]
+            },
+            {
+                  "name": "Parque do Fontelo",
+                  "text": "Ein großer historischer Waldpark in Viseu mit Gärten und Sportanlagen.",
+                  "category": "park",
+                  "coords": [
+                        -7.898761,
+                        40.658431
+                  ]
+            },
+            {
+                  "name": "Porta de Viriato",
+                  "text": "Ein historisches Stadttor in Viseu, das mit dem lusitanischen Anführer Viriatus in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912609,
+                        40.664994
+                  ]
+            },
+            {
+                  "name": "Porta de São Mateus",
+                  "text": "Eines der verbliebenen historischen Stadttore von Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911347,
+                        40.663783
+                  ]
+            },
+            {
+                  "name": "Porta Sol Posto",
+                  "text": "Ein historisches Tor, das Teil der alten Stadtmauer von Viseu war.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.914952,
+                        40.663383
+                  ]
+            },
+            {
+                  "name": "Ínsula Romana da Rua da Prebenda",
+                  "text": "Ruinen eines römischen Wohnblocks, die in Viseu gefunden wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -7.908951,
+                        40.658907
+                  ]
+            },
+            {
+                  "name": "Escadaria de São Teotónio",
+                  "text": "Eine historische Treppe in Viseu, benannt nach dem heiligen Teotónio.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912341,
+                        40.655629
+                  ]
+            },
+            {
+                  "name": "Monte Viseu",
+                  "text": "Ein Aussichtspunkt oder markantes Gebiet in Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.905163,
+                        40.666091
+                  ]
+            },
+            {
+                  "name": "Quinta da Cruz",
+                  "text": "Ein öffentliches Anwesen in Viseu, in dem häufig Kunstausstellungen und kulturelle Veranstaltungen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.934081,
+                        40.655678
+                  ]
+            },
+            {
+                  "name": "Infante Dom Henrique",
+                  "text": "Ein Denkmal in Viseu zu Ehren von Prinz Heinrich dem Seefahrer.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920584,
+                        40.656764
+                  ]
+            },
+            {
+                  "name": "Eminente Tattoo e Galeria",
+                  "text": "Ein kombiniertes Tattoo-Studio und Kunstgalerie in Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909886,
+                        40.645727
+                  ]
+            },
+            {
+                  "name": "Laje do Concelho",
+                  "text": "Ein Aussichtspunkt in Viseu mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -7.901571,
+                        40.642479
+                  ]
+            },
+            {
+                  "name": "Praça Combatentes do Ultramar",
+                  "text": "Ein Denkmal und Platz in Viseu, gewidmet den Soldaten der Überseekriege.",
+                  "category": "historical",
+                  "coords": [
+                        -7.923642,
+                        40.643902
+                  ]
+            },
+            {
+                  "name": "Catedral Sé de Viseu",
+                  "text": "Die historische Hauptkathedrale von Viseu, die eine Mischung aus Baustilen aufweist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910732,
+                        40.65979
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Remédios",
+                  "text": "Eine kleine Kapelle in Viseu, die Unserer Lieben Frau der Heilmittel gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.912659,
+                        40.659593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa da Ribeira",
+                  "text": "Kisméretű múzeum Viseuban, amely a hagyományos mesterségekkel és népművészettel foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910148,
+                        40.663447
+                  ]
+            },
+            {
+                  "name": "Teatro Viriato",
+                  "text": "Neves színház Viseuban, amely változatos színpadi műsorokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.908173,
+                        40.660882
+                  ]
+            },
+            {
+                  "name": "Coleção Arqueológica José Coelho",
+                  "text": "Viseui múzeumi gyűjtemény, amely José Coelho kutató régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910819,
+                        40.660787
+                  ]
+            },
+            {
+                  "name": "Museu de Almeida Moreira",
+                  "text": "Almeida Moreira műgyűjtő egykori lakóháza Viseuban, amely ma művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -7.913276,
+                        40.65857
+                  ]
+            },
+            {
+                  "name": "Museu da Misericórdia de Viseu",
+                  "text": "Viseui múzeum, amely egyházi művészetet és a Misericórdia testvériség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.911729,
+                        40.6602
+                  ]
+            },
+            {
+                  "name": "Muralha de Viseu",
+                  "text": "A középkori városfal maradványai, amelyek egykor Viseu központját védték.",
+                  "category": "historical",
+                  "coords": [
+                        -7.907282,
+                        40.659769
+                  ]
+            },
+            {
+                  "name": "Muralha Romana da Rua Formosa",
+                  "text": "Az ókori római városfal egy szakasza, amely a viseui Rua Formosa utcában maradt fenn.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910854,
+                        40.657117
+                  ]
+            },
+            {
+                  "name": "Aula Magna do IPV",
+                  "text": "A Viseui Politechnikai Intézet Aula Magnája, amelyet akadémiai és kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.919883,
+                        40.646497
+                  ]
+            },
+            {
+                  "name": "Estrada Romana Imperador Cláudio",
+                  "text": "Egy régi római út maradványai Viseuban, amelyet Claudius császárról neveztek el.",
+                  "category": "historical",
+                  "coords": [
+                        -7.895977,
+                        40.641679
+                  ]
+            },
+            {
+                  "name": "IPDJ",
+                  "text": "Ifjúsági tevékenységeknek és színházi előadásoknak otthont adó helyszín Viseuban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.904988,
+                        40.660244
+                  ]
+            },
+            {
+                  "name": "Museu de História da Cidade",
+                  "text": "Múzeum, amely Viseu városának történelmi fejlődését és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910616,
+                        40.658691
+                  ]
+            },
+            {
+                  "name": "Centro de Monitorização e Interpretação Ambiental",
+                  "text": "Környezetvédelmi monitorozási és interpretációs központ Viseuban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.919554,
+                        40.662946
+                  ]
+            },
+            {
+                  "name": "Parque Aquilino Ribeiro",
+                  "text": "Közpark Viseuban, amelyet Aquilino Ribeiro portugál íróról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -7.915674,
+                        40.655621
+                  ]
+            },
+            {
+                  "name": "Solar do Dão",
+                  "text": "Történelmi udvarház Viseuban, amely ma a Dão borok fogadóközpontjaként működik.",
+                  "category": "historical",
+                  "coords": [
+                        -7.901121,
+                        40.661365
+                  ]
+            },
+            {
+                  "name": "Parque do Fontelo",
+                  "text": "Nagy történelmi erdei park Viseuban, kertekkel és sportlétesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        -7.898761,
+                        40.658431
+                  ]
+            },
+            {
+                  "name": "Porta de Viriato",
+                  "text": "Történelmi kapu Viseuban, amely Viriatus luzitán vezérhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912609,
+                        40.664994
+                  ]
+            },
+            {
+                  "name": "Porta de São Mateus",
+                  "text": "Viseu egyik fennmaradt történelmi városkapuja.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911347,
+                        40.663783
+                  ]
+            },
+            {
+                  "name": "Porta Sol Posto",
+                  "text": "Történelmi kapu, amely Viseu régi védőfalainak része volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.914952,
+                        40.663383
+                  ]
+            },
+            {
+                  "name": "Ínsula Romana da Rua da Prebenda",
+                  "text": "Viseuban talált római lakótömb romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -7.908951,
+                        40.658907
+                  ]
+            },
+            {
+                  "name": "Escadaria de São Teotónio",
+                  "text": "Szent Teotónióról elnevezett történelmi lépcsősor Viseuban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912341,
+                        40.655629
+                  ]
+            },
+            {
+                  "name": "Monte Viseu",
+                  "text": "Kilátóhely vagy jellegzetes terület Viseuban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.905163,
+                        40.666091
+                  ]
+            },
+            {
+                  "name": "Quinta da Cruz",
+                  "text": "Nyilvános birtok Viseuban, amely gyakran ad otthont művészeti kiállításoknak és kulturális eseményeknek.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.934081,
+                        40.655678
+                  ]
+            },
+            {
+                  "name": "Infante Dom Henrique",
+                  "text": "Tengerész Henrik herceg tiszteletére emelt emlékmű Viseuban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920584,
+                        40.656764
+                  ]
+            },
+            {
+                  "name": "Eminente Tattoo e Galeria",
+                  "text": "Tetoválószalon és művészeti galéria Viseuban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909886,
+                        40.645727
+                  ]
+            },
+            {
+                  "name": "Laje do Concelho",
+                  "text": "Kilátóhely Viseuban, ahonnan kilátás nyílik a környező területre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.901571,
+                        40.642479
+                  ]
+            },
+            {
+                  "name": "Praça Combatentes do Ultramar",
+                  "text": "Az tengerentúli háborúk katonáinak szentelt emlékmű és tér Viseuban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.923642,
+                        40.643902
+                  ]
+            },
+            {
+                  "name": "Catedral Sé de Viseu",
+                  "text": "Viseu történelmi főszékesegyháza, amely többféle építészeti stílust ötvöz.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910732,
+                        40.65979
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Remédios",
+                  "text": "Kis kápolna Viseuban, amelyet az Orvosló Boldogasszonynak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -7.912659,
+                        40.659593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa da Ribeira",
+                  "text": "Un mic muzeu din Viseu dedicat meșteșugurilor tradiționale și artei populare.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910148,
+                        40.663447
+                  ]
+            },
+            {
+                  "name": "Teatro Viriato",
+                  "text": "Un teatru renumit din Viseu care oferă un program divers de arte scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.908173,
+                        40.660882
+                  ]
+            },
+            {
+                  "name": "Coleção Arqueológica José Coelho",
+                  "text": "O colecție muzeală din Viseu care expune descoperirile arheologice ale cercetătorului José Coelho.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910819,
+                        40.660787
+                  ]
+            },
+            {
+                  "name": "Museu de Almeida Moreira",
+                  "text": "Fosta casă a colecționarului de artă Almeida Moreira din Viseu, astăzi muzeu de artă.",
+                  "category": "museum",
+                  "coords": [
+                        -7.913276,
+                        40.65857
+                  ]
+            },
+            {
+                  "name": "Museu da Misericórdia de Viseu",
+                  "text": "Un muzeu din Viseu care prezintă artă religioasă și istoria frăției Misericórdia.",
+                  "category": "museum",
+                  "coords": [
+                        -7.911729,
+                        40.6602
+                  ]
+            },
+            {
+                  "name": "Muralha de Viseu",
+                  "text": "Resturile zidului medieval al orașului care proteja odinioară centrul orașului Viseu.",
+                  "category": "historical",
+                  "coords": [
+                        -7.907282,
+                        40.659769
+                  ]
+            },
+            {
+                  "name": "Muralha Romana da Rua Formosa",
+                  "text": "O secțiune a zidului roman antic păstrată pe strada Rua Formosa din Viseu.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910854,
+                        40.657117
+                  ]
+            },
+            {
+                  "name": "Aula Magna do IPV",
+                  "text": "Aula Magna a Institutului Politehnic din Viseu, utilizată pentru evenimente academice și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.919883,
+                        40.646497
+                  ]
+            },
+            {
+                  "name": "Estrada Romana Imperador Cláudio",
+                  "text": "Resturile unui drum roman antic din Viseu, numit după împăratul Claudius.",
+                  "category": "historical",
+                  "coords": [
+                        -7.895977,
+                        40.641679
+                  ]
+            },
+            {
+                  "name": "IPDJ",
+                  "text": "Un spațiu din Viseu destinat activităților pentru tineret și spectacolelor de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.904988,
+                        40.660244
+                  ]
+            },
+            {
+                  "name": "Museu de História da Cidade",
+                  "text": "Un muzeu care documentează dezvoltarea istorică și moștenirea orașului Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910616,
+                        40.658691
+                  ]
+            },
+            {
+                  "name": "Centro de Monitorização e Interpretação Ambiental",
+                  "text": "Centru de monitorizare și interpretare a mediului în Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.919554,
+                        40.662946
+                  ]
+            },
+            {
+                  "name": "Parque Aquilino Ribeiro",
+                  "text": "Un parc public din Viseu, numit după scriitorul portughez Aquilino Ribeiro.",
+                  "category": "park",
+                  "coords": [
+                        -7.915674,
+                        40.655621
+                  ]
+            },
+            {
+                  "name": "Solar do Dão",
+                  "text": "Un conac istoric din Viseu, care servește în prezent ca centru de primire pentru vinurile Dão.",
+                  "category": "historical",
+                  "coords": [
+                        -7.901121,
+                        40.661365
+                  ]
+            },
+            {
+                  "name": "Parque do Fontelo",
+                  "text": "Un parc forestier istoric mare din Viseu, cu grădini și facilități sportive.",
+                  "category": "park",
+                  "coords": [
+                        -7.898761,
+                        40.658431
+                  ]
+            },
+            {
+                  "name": "Porta de Viriato",
+                  "text": "O poartă istorică din Viseu asociată cu liderul lusitan Viriatus.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912609,
+                        40.664994
+                  ]
+            },
+            {
+                  "name": "Porta de São Mateus",
+                  "text": "Una dintre porțile istorice rămase ale orașului Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911347,
+                        40.663783
+                  ]
+            },
+            {
+                  "name": "Porta Sol Posto",
+                  "text": "O poartă istorică ce făcea parte din vechile ziduri de apărare ale orașului Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.914952,
+                        40.663383
+                  ]
+            },
+            {
+                  "name": "Ínsula Romana da Rua da Prebenda",
+                  "text": "Ruinele unui bloc de locuințe roman descoperite în Viseu.",
+                  "category": "historical",
+                  "coords": [
+                        -7.908951,
+                        40.658907
+                  ]
+            },
+            {
+                  "name": "Escadaria de São Teotónio",
+                  "text": "O scară istorică din Viseu, numită după Sfântul Teotónio.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912341,
+                        40.655629
+                  ]
+            },
+            {
+                  "name": "Monte Viseu",
+                  "text": "Un loc pitoresc sau o zonă de referință din Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.905163,
+                        40.666091
+                  ]
+            },
+            {
+                  "name": "Quinta da Cruz",
+                  "text": "O proprietate publică din Viseu care găzduiește adesea expoziții de artă și evenimente culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.934081,
+                        40.655678
+                  ]
+            },
+            {
+                  "name": "Infante Dom Henrique",
+                  "text": "Un monument din Viseu dedicat Prințului Henric Navigatorul.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920584,
+                        40.656764
+                  ]
+            },
+            {
+                  "name": "Eminente Tattoo e Galeria",
+                  "text": "Un studio de tatuaje și galerie de artă combinat în Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909886,
+                        40.645727
+                  ]
+            },
+            {
+                  "name": "Laje do Concelho",
+                  "text": "Un punct de belvedere din Viseu care oferă priveliști asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -7.901571,
+                        40.642479
+                  ]
+            },
+            {
+                  "name": "Praça Combatentes do Ultramar",
+                  "text": "Un monument și o piață în Viseu dedicate soldaților din războaiele de peste mări.",
+                  "category": "historical",
+                  "coords": [
+                        -7.923642,
+                        40.643902
+                  ]
+            },
+            {
+                  "name": "Catedral Sé de Viseu",
+                  "text": "Catedrala principală istorică din Viseu, cu un amestec de stiluri arhitecturale.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910732,
+                        40.65979
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Remédios",
+                  "text": "O mică capelă din Viseu dedicată Maicii Domnului a Remediilor.",
+                  "category": "religious",
+                  "coords": [
+                        -7.912659,
+                        40.659593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa da Ribeira",
+                  "text": "A small museum in Viseu dedicated to traditional crafts and folk art.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910148,
+                        40.663447
+                  ]
+            },
+            {
+                  "name": "Teatro Viriato",
+                  "text": "A renowned theatre in Viseu offering a diverse program of performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.908173,
+                        40.660882
+                  ]
+            },
+            {
+                  "name": "Coleção Arqueológica José Coelho",
+                  "text": "A museum collection in Viseu exhibiting archaeological finds by researcher José Coelho.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910819,
+                        40.660787
+                  ]
+            },
+            {
+                  "name": "Museu de Almeida Moreira",
+                  "text": "The former home of art collector Almeida Moreira in Viseu, now serving as an art museum.",
+                  "category": "museum",
+                  "coords": [
+                        -7.913276,
+                        40.65857
+                  ]
+            },
+            {
+                  "name": "Museu da Misericórdia de Viseu",
+                  "text": "A museum in Viseu showcasing sacred art and the history of the Misericórdia brotherhood.",
+                  "category": "museum",
+                  "coords": [
+                        -7.911729,
+                        40.6602
+                  ]
+            },
+            {
+                  "name": "Muralha de Viseu",
+                  "text": "The remains of the medieval city wall that once protected the center of Viseu.",
+                  "category": "historical",
+                  "coords": [
+                        -7.907282,
+                        40.659769
+                  ]
+            },
+            {
+                  "name": "Muralha Romana da Rua Formosa",
+                  "text": "A section of the ancient Roman wall preserved in Rua Formosa in Viseu.",
+                  "category": "historical",
+                  "coords": [
+                        -7.910854,
+                        40.657117
+                  ]
+            },
+            {
+                  "name": "Aula Magna do IPV",
+                  "text": "The Aula Magna of the Polytechnic Institute of Viseu, used for academic and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.919883,
+                        40.646497
+                  ]
+            },
+            {
+                  "name": "Estrada Romana Imperador Cláudio",
+                  "text": "Remains of an ancient Roman road in Viseu named after Emperor Claudius.",
+                  "category": "historical",
+                  "coords": [
+                        -7.895977,
+                        40.641679
+                  ]
+            },
+            {
+                  "name": "IPDJ",
+                  "text": "A venue in Viseu for youth activities and theatre performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.904988,
+                        40.660244
+                  ]
+            },
+            {
+                  "name": "Museu de História da Cidade",
+                  "text": "A museum documenting the historical development and heritage of the city of Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.910616,
+                        40.658691
+                  ]
+            },
+            {
+                  "name": "Centro de Monitorização e Interpretação Ambiental",
+                  "text": "Environmental monitoring and interpretation center in Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.919554,
+                        40.662946
+                  ]
+            },
+            {
+                  "name": "Aquilino Ribeiro Park",
+                  "text": "A public park in Viseu named after the Portuguese writer Aquilino Ribeiro.",
+                  "category": "park",
+                  "coords": [
+                        -7.915674,
+                        40.655621
+                  ]
+            },
+            {
+                  "name": "Solar do Dão",
+                  "text": "A historic manor house in Viseu, currently serving as the Dão Wine welcome center.",
+                  "category": "historical",
+                  "coords": [
+                        -7.901121,
+                        40.661365
+                  ]
+            },
+            {
+                  "name": "Parque do Fontelo",
+                  "text": "A large historic forest park in Viseu featuring gardens and sports facilities.",
+                  "category": "park",
+                  "coords": [
+                        -7.898761,
+                        40.658431
+                  ]
+            },
+            {
+                  "name": "Porta de Viriato",
+                  "text": "A historic gate in Viseu associated with the Lusitanian leader Viriatus.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912609,
+                        40.664994
+                  ]
+            },
+            {
+                  "name": "Porta de São Mateus",
+                  "text": "One of the remaining historic city gates in Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.911347,
+                        40.663783
+                  ]
+            },
+            {
+                  "name": "Porta Sol Posto",
+                  "text": "A historic gate that was part of the old defensive walls of Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.914952,
+                        40.663383
+                  ]
+            },
+            {
+                  "name": "Ínsula Romana da Rua da Prebenda",
+                  "text": "Ruins of a Roman residential block found in Viseu.",
+                  "category": "historical",
+                  "coords": [
+                        -7.908951,
+                        40.658907
+                  ]
+            },
+            {
+                  "name": "Escadaria de São Teotónio",
+                  "text": "A historic staircase in Viseu named after Saint Teotónio.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.912341,
+                        40.655629
+                  ]
+            },
+            {
+                  "name": "Monte Viseu",
+                  "text": "A scenic spot or landmark area in Viseu.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.905163,
+                        40.666091
+                  ]
+            },
+            {
+                  "name": "Quinta da Cruz",
+                  "text": "A public estate in Viseu that often hosts art exhibitions and cultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.934081,
+                        40.655678
+                  ]
+            },
+            {
+                  "name": "Infante Dom Henrique",
+                  "text": "A monument in Viseu dedicated to Prince Henry the Navigator.",
+                  "category": "historical",
+                  "coords": [
+                        -7.920584,
+                        40.656764
+                  ]
+            },
+            {
+                  "name": "Eminente Tattoo e Galeria",
+                  "text": "A combined tattoo studio and art gallery in Viseu.",
+                  "category": "museum",
+                  "coords": [
+                        -7.909886,
+                        40.645727
+                  ]
+            },
+            {
+                  "name": "Laje do Concelho",
+                  "text": "A viewpoint in Viseu offering vistas of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -7.901571,
+                        40.642479
+                  ]
+            },
+            {
+                  "name": "Praça Combatentes do Ultramar",
+                  "text": "A monument and square in Viseu dedicated to soldiers of the overseas wars.",
+                  "category": "historical",
+                  "coords": [
+                        -7.923642,
+                        40.643902
+                  ]
+            },
+            {
+                  "name": "Catedral Sé de Viseu",
+                  "text": "The historic main cathedral of Viseu, featuring a mix of architectural styles.",
+                  "category": "religious",
+                  "coords": [
+                        -7.910732,
+                        40.65979
+                  ]
+            },
+            {
+                  "name": "Capela Nossa Senhora dos Remédios",
+                  "text": "A small chapel in Viseu dedicated to Our Lady of Remedies.",
+                  "category": "religious",
+                  "coords": [
+                        -7.912659,
+                        40.659593
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.9125, 40.661],
@@ -3260,7 +10082,412 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-beja",
+    id: "city-beja", "sights": {
+      "de": [
+            {
+                  "name": "Museu Regional de Beja",
+                  "text": "Das Museu Regional de Beja ist ein Museum in Beja. Es ist im ehemaligen Nonnenkloster der Empfängnis untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        -7.862998,
+                        38.013906
+                  ]
+            },
+            {
+                  "name": "Castelo de Beja",
+                  "text": "Das Castelo de Beja ist eine Burg in Beja. Es verfügt über einen markanten mittelalterlichen Bergfried.",
+                  "category": "castle",
+                  "coords": [
+                        -7.865289,
+                        38.017197
+                  ]
+            },
+            {
+                  "name": "Museu Jorge Vieira",
+                  "text": "Museu Jorge Vieira ist ein Museum in Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.864136,
+                        38.014409
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Museu de Arte Sacra ist ein Museum in Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.857711,
+                        38.011329
+                  ]
+            },
+            {
+                  "name": "Escudeiros - Galeria Municipal Ds Beja",
+                  "text": "Escudeiros - Galeria Municipal Ds Beja ist ein Museum in Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.865836,
+                        38.014651
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro ist ein Theater in Beja.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860781,
+                        38.010236
+                  ]
+            },
+            {
+                  "name": "Arco das Portas de Avis",
+                  "text": "Der Arco das Portas de Avis ist ein Stadttor in Beja. Es ist Teil der alten Stadtmauer.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.862427,
+                        38.017282
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Beja",
+                  "text": "Câmara Municipal de Beja ist ein Rathaus in Beja.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865129,
+                        38.015888
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria",
+                  "text": "Die Igreja de Santa Maria ist eine Andachtsstätte in Beja. Sie ist eine historische Pfarrkirche der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        -7.862741,
+                        38.015065
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo André",
+                  "text": "Ermida de Santo André ist eine Andachtsstätte in Beja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.870254,
+                        38.020002
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Pé da Cruz",
+                  "text": "Igreja de Nossa Senhora do Pé da Cruz ist eine Andachtsstätte in Beja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.857776,
+                        38.016373
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Regional de Beja",
+                  "text": "A Museu Regional de Beja egy múzeum Beja városában. Az egykori Fogantatás zárdájában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.862998,
+                        38.013906
+                  ]
+            },
+            {
+                  "name": "Castelo de Beja",
+                  "text": "A Castelo de Beja egy vár Beja városában. Kiemelkedő középkori öregtoronnyal rendelkezik.",
+                  "category": "castle",
+                  "coords": [
+                        -7.865289,
+                        38.017197
+                  ]
+            },
+            {
+                  "name": "Museu Jorge Vieira",
+                  "text": "A Museu Jorge Vieira egy múzeum Beja városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.864136,
+                        38.014409
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "A Museu de Arte Sacra egy múzeum Beja városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.857711,
+                        38.011329
+                  ]
+            },
+            {
+                  "name": "Escudeiros - Galeria Municipal Ds Beja",
+                  "text": "Az Escudeiros - Galeria Municipal Ds Beja egy múzeum Beja városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.865836,
+                        38.014651
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Az Anfiteatro egy színház Beja városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860781,
+                        38.010236
+                  ]
+            },
+            {
+                  "name": "Arco das Portas de Avis",
+                  "text": "Az Arco das Portas de Avis egy városkapu Beja városában. Az ősi városfal része.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.862427,
+                        38.017282
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Beja",
+                  "text": "A Câmara Municipal de Beja egy városháza Beja városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865129,
+                        38.015888
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria",
+                  "text": "Az Igreja de Santa Maria egy istentiszteleti hely Beja városában. Ez a város egyik történelmi plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -7.862741,
+                        38.015065
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo André",
+                  "text": "Az Ermida de Santo André egy istentiszteleti hely Beja városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.870254,
+                        38.020002
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Pé da Cruz",
+                  "text": "Az Igreja de Nossa Senhora do Pé da Cruz egy istentiszteleti hely Beja városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.857776,
+                        38.016373
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Regional de Beja",
+                  "text": "Museu Regional de Beja este un muzeu în Beja. Este găzduit în fosta Mănăstire a Concepției.",
+                  "category": "museum",
+                  "coords": [
+                        -7.862998,
+                        38.013906
+                  ]
+            },
+            {
+                  "name": "Castelo de Beja",
+                  "text": "Castelo de Beja este un castel în Beja. Dispune de un donjon medieval proeminent.",
+                  "category": "castle",
+                  "coords": [
+                        -7.865289,
+                        38.017197
+                  ]
+            },
+            {
+                  "name": "Museu Jorge Vieira",
+                  "text": "Museu Jorge Vieira este un muzeu în Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.864136,
+                        38.014409
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Museu de Arte Sacra este un muzeu în Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.857711,
+                        38.011329
+                  ]
+            },
+            {
+                  "name": "Escudeiros - Galeria Municipal Ds Beja",
+                  "text": "Escudeiros - Galeria Municipal Ds Beja este un muzeu în Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.865836,
+                        38.014651
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro este un teatru în Beja.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860781,
+                        38.010236
+                  ]
+            },
+            {
+                  "name": "Arco das Portas de Avis",
+                  "text": "Arco das Portas de Avis este o poartă a orașului în Beja. Face parte din vechile ziduri ale orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.862427,
+                        38.017282
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Beja",
+                  "text": "Câmara Municipal de Beja este o primărie în Beja.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865129,
+                        38.015888
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria",
+                  "text": "Igreja de Santa Maria este un lăcaș de cult în Beja. Este o biserică parohială istorică.",
+                  "category": "religious",
+                  "coords": [
+                        -7.862741,
+                        38.015065
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo André",
+                  "text": "Ermida de Santo André este un lăcaș de cult în Beja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.870254,
+                        38.020002
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Pé da Cruz",
+                  "text": "Igreja de Nossa Senhora do Pé da Cruz este un lăcaș de cult în Beja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.857776,
+                        38.016373
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Regional de Beja",
+                  "text": "Museu Regional de Beja is a museum located in Beja. It is housed in the former Convent of the Conception.",
+                  "category": "museum",
+                  "coords": [
+                        -7.862998,
+                        38.013906
+                  ]
+            },
+            {
+                  "name": "Castelo de Beja",
+                  "text": "Castelo de Beja is a castle located in Beja. It features a prominent medieval keep.",
+                  "category": "castle",
+                  "coords": [
+                        -7.865289,
+                        38.017197
+                  ]
+            },
+            {
+                  "name": "Museu Jorge Vieira",
+                  "text": "Museu Jorge Vieira is a museum located in Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.864136,
+                        38.014409
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Museu de Arte Sacra is a museum located in Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.857711,
+                        38.011329
+                  ]
+            },
+            {
+                  "name": "Escudeiros - Galeria Municipal Ds Beja",
+                  "text": "Escudeiros - Galeria Municipal Ds Beja is a museum located in Beja.",
+                  "category": "museum",
+                  "coords": [
+                        -7.865836,
+                        38.014651
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro is a theatre located in Beja.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.860781,
+                        38.010236
+                  ]
+            },
+            {
+                  "name": "Arco das Portas de Avis",
+                  "text": "Arco das Portas de Avis is a city gate located in Beja. It is part of the ancient city wall structures.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.862427,
+                        38.017282
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Beja",
+                  "text": "Câmara Municipal de Beja is a townhall located in Beja.",
+                  "category": "historical",
+                  "coords": [
+                        -7.865129,
+                        38.015888
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Maria",
+                  "text": "Igreja de Santa Maria is a place of worship located in Beja. It is a significant historic parish church.",
+                  "category": "religious",
+                  "coords": [
+                        -7.862741,
+                        38.015065
+                  ]
+            },
+            {
+                  "name": "Ermida de Santo André",
+                  "text": "Ermida de Santo André is a place of worship located in Beja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.870254,
+                        38.020002
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora do Pé da Cruz",
+                  "text": "Igreja de Nossa Senhora do Pé da Cruz is a place of worship located in Beja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.857776,
+                        38.016373
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.8632, 38.0151],
@@ -3348,7 +10575,700 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-leiria",
+    id: "city-leiria", "sights": {
+      "de": [
+            {
+                  "name": "Moinho do Papel",
+                  "text": "Ein Museum in Leiria in einer ehemaligen Papiermühle, das die traditionelle Papier- und Getreideverarbeitung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.800653,
+                        39.740535
+                  ]
+            },
+            {
+                  "name": "Teatro Miguel Franco",
+                  "text": "Ein lokales Theater in Leiria, das einen Veranstaltungsort für verschiedene darstellende Künste bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.807656,
+                        39.742812
+                  ]
+            },
+            {
+                  "name": "O Nariz",
+                  "text": "Eine Theatergruppe und ein Aufführungsort in Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803196,
+                        39.740946
+                  ]
+            },
+            {
+                  "name": "Museu Sporting em Leiria",
+                  "text": "Ein Museum in Leiria, das der Geschichte des Sporting Clube de Portugal gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812735,
+                        39.746876
+                  ]
+            },
+            {
+                  "name": "Te-Ato",
+                  "text": "Eine zeitgenössische Theatergruppe und Spielstätte in Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.811015,
+                        39.743724
+                  ]
+            },
+            {
+                  "name": "Centro de Diálogo Intercultural de Leiria (Antiga Sinagoga de Leiria)",
+                  "text": "Ein Kulturzentrum in Leiria, das im Gebäude der ehemaligen Synagoge untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807809,
+                        39.745241
+                  ]
+            },
+            {
+                  "name": "Museu da Imagem em Movimento - m|i|mo",
+                  "text": "Ein Museum in Leiria, das der Geschichte und Technologie bewegter Bilder gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807309,
+                        39.747561
+                  ]
+            },
+            {
+                  "name": "Santuário de Nossa Senhora da Encarnação",
+                  "text": "Ein auf einem Hügel gelegenes Heiligtum in Leiria mit einer Treppe und Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.79985,
+                        39.738797
+                  ]
+            },
+            {
+                  "name": "Fonte Quente",
+                  "text": "Ein historischer Brunnen in Leiria, der für seine Wasserquelle bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.80136,
+                        39.747095
+                  ]
+            },
+            {
+                  "name": "Homenagem à Indústria dos Plásticos",
+                  "text": "Ein Denkmal in Leiria zu Ehren der lokalen Kunststoffindustrie.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.803431,
+                        39.750748
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque Verde de Leiria",
+                  "text": "Eine Aussichtsschaukel im grünen Stadtpark von Leiria.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.821432,
+                        39.739821
+                  ]
+            },
+            {
+                  "name": "Villa Portela",
+                  "text": "Ein historisches Chalet und Anwesen in Leiria, das heute für kulturelle Aktivitäten genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.809142,
+                        39.741251
+                  ]
+            },
+            {
+                  "name": "Teatro José Lúcio da Silva",
+                  "text": "Ein städtisches Haupttheater und Kulturort in der Stadt Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803869,
+                        39.746717
+                  ]
+            },
+            {
+                  "name": "Ludoteca Municipal de Leiria",
+                  "text": "Eine städtische Ludothek und ein Spielzentrum in Leiria.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812551,
+                        39.751939
+                  ]
+            },
+            {
+                  "name": "Miradouro Ernesto Korrodi",
+                  "text": "Ein nach dem Architekten Ernesto Korrodi benannter Aussichtspunkt in Leiria mit Blick auf die Burg.",
+                  "category": "natural",
+                  "coords": [
+                        -8.809408,
+                        39.746009
+                  ]
+            },
+            {
+                  "name": "Fonte das 3 Bicas",
+                  "text": "Ein historischer Brunnen in Leiria mit drei Wasserspeiern.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.805825,
+                        39.742951
+                  ]
+            },
+            {
+                  "name": "Convento da Portela",
+                  "text": "Ein historisches ehemaliges Kloster im Viertel Portela von Leiria.",
+                  "category": "religious",
+                  "coords": [
+                        -8.811392,
+                        39.741636
+                  ]
+            },
+            {
+                  "name": "Torre Sineira da Sé",
+                  "text": "Ein einzigartiger Glockenturm in Leiria, der vom Hauptgebäude der Kathedrale getrennt steht.",
+                  "category": "tower",
+                  "coords": [
+                        -8.807821,
+                        39.746626
+                  ]
+            },
+            {
+                  "name": "Beechcraft C-45 Expeditor",
+                  "text": "Ein historisches Flugzeug, das in Leiria ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.802754,
+                        39.746471
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moinho do Papel",
+                  "text": "Egy egykori papírmalomban kialakított múzeum Leiriában, amely a hagyományos papír- és gabonafeldolgozást mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.800653,
+                        39.740535
+                  ]
+            },
+            {
+                  "name": "Teatro Miguel Franco",
+                  "text": "Helyi színház Leiriában, amely különböző előadóművészeti ágaknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.807656,
+                        39.742812
+                  ]
+            },
+            {
+                  "name": "O Nariz",
+                  "text": "Színházi társulat és előadótér Leiriában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803196,
+                        39.740946
+                  ]
+            },
+            {
+                  "name": "Museu Sporting em Leiria",
+                  "text": "A Sporting Clube de Portugal történetének szentelt múzeum Leiriában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812735,
+                        39.746876
+                  ]
+            },
+            {
+                  "name": "Te-Ato",
+                  "text": "Kortárs színházi társulat és helyszín Leiriában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.811015,
+                        39.743724
+                  ]
+            },
+            {
+                  "name": "Centro de Diálogo Intercultural de Leiria (Antiga Sinagoga de Leiria)",
+                  "text": "Kulturális központ Leiriában, az egykori zsinagóga épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807809,
+                        39.745241
+                  ]
+            },
+            {
+                  "name": "Museu da Imagem em Movimento - m|i|mo",
+                  "text": "A mozgókép történetének és technológiájának szentelt múzeum Leiriában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807309,
+                        39.747561
+                  ]
+            },
+            {
+                  "name": "Santuário de Nossa Senhora da Encarnação",
+                  "text": "Dombtetőn álló szentély Leiriában, lépcsősorral és panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.79985,
+                        39.738797
+                  ]
+            },
+            {
+                  "name": "Fonte Quente",
+                  "text": "Történelmi szökőkút Leiriában, amely vízforrásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.80136,
+                        39.747095
+                  ]
+            },
+            {
+                  "name": "Homenagem à Indústria dos Plásticos",
+                  "text": "Emlékmű Leiriában, amely a helyi műanyagipar előtt tiszteleg.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.803431,
+                        39.750748
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque Verde de Leiria",
+                  "text": "Kilátást nyújtó hinta Leiria zöld parkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.821432,
+                        39.739821
+                  ]
+            },
+            {
+                  "name": "Villa Portela",
+                  "text": "Történelmi faház és birtok Leiriában, amelyet ma kulturális tevékenységekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.809142,
+                        39.741251
+                  ]
+            },
+            {
+                  "name": "Teatro José Lúcio da Silva",
+                  "text": "Fő önkormányzati színház és kulturális helyszín Leiria városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803869,
+                        39.746717
+                  ]
+            },
+            {
+                  "name": "Ludoteca Municipal de Leiria",
+                  "text": "Önkormányzati játéktár és játszóközpont Leiriában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812551,
+                        39.751939
+                  ]
+            },
+            {
+                  "name": "Miradouro Ernesto Korrodi",
+                  "text": "Ernesto Korrodi építészről elnevezett kilátóhely Leiriában, kilátással a várra.",
+                  "category": "natural",
+                  "coords": [
+                        -8.809408,
+                        39.746009
+                  ]
+            },
+            {
+                  "name": "Fonte das 3 Bicas",
+                  "text": "Történelmi szökőkút Leiriában, három vízköpővel.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.805825,
+                        39.742951
+                  ]
+            },
+            {
+                  "name": "Convento da Portela",
+                  "text": "Történelmi egykori kolostor Leiria Portela negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.811392,
+                        39.741636
+                  ]
+            },
+            {
+                  "name": "Torre Sineira da Sé",
+                  "text": "Egyedülálló harangtorony Leiriában, amely a székesegyház főépületétől külön áll.",
+                  "category": "tower",
+                  "coords": [
+                        -8.807821,
+                        39.746626
+                  ]
+            },
+            {
+                  "name": "Beechcraft C-45 Expeditor",
+                  "text": "Leiriában kiállított történelmi repülőgép.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.802754,
+                        39.746471
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moinho do Papel",
+                  "text": "Un muzeu din Leiria găzduit într-o fostă moară de hârtie, care prezintă prelucrarea tradițională a hârtiei și a cerealelor.",
+                  "category": "museum",
+                  "coords": [
+                        -8.800653,
+                        39.740535
+                  ]
+            },
+            {
+                  "name": "Teatro Miguel Franco",
+                  "text": "Un teatru local din Leiria care oferă un spațiu pentru diverse arte ale spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.807656,
+                        39.742812
+                  ]
+            },
+            {
+                  "name": "O Nariz",
+                  "text": "O companie de teatru și spațiu de spectacol situat în Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803196,
+                        39.740946
+                  ]
+            },
+            {
+                  "name": "Museu Sporting em Leiria",
+                  "text": "Un muzeu din Leiria dedicat istoriei clubului Sporting Clube de Portugal.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812735,
+                        39.746876
+                  ]
+            },
+            {
+                  "name": "Te-Ato",
+                  "text": "Un grup de teatru contemporan și spațiu de spectacol în Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.811015,
+                        39.743724
+                  ]
+            },
+            {
+                  "name": "Centro de Diálogo Intercultural de Leiria (Antiga Sinagoga de Leiria)",
+                  "text": "Un centru cultural din Leiria situat în clădirea fostei sinagogi.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807809,
+                        39.745241
+                  ]
+            },
+            {
+                  "name": "Museu da Imagem em Movimento - m|i|mo",
+                  "text": "Un muzeu din Leiria dedicat istoriei și tehnologiei imaginilor în mișcare.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807309,
+                        39.747561
+                  ]
+            },
+            {
+                  "name": "Santuário de Nossa Senhora da Encarnação",
+                  "text": "Un sanctuar situat pe un deal în Leiria, cu o scară și vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.79985,
+                        39.738797
+                  ]
+            },
+            {
+                  "name": "Fonte Quente",
+                  "text": "O fântână istorică din Leiria, cunoscută pentru sursa sa de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.80136,
+                        39.747095
+                  ]
+            },
+            {
+                  "name": "Homenagem à Indústria dos Plásticos",
+                  "text": "Un monument din Leiria care aduce un omagiu industriei locale a maselor plastice.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.803431,
+                        39.750748
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque Verde de Leiria",
+                  "text": "Un leagăn pitoresc situat în zona parcului verde din Leiria.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.821432,
+                        39.739821
+                  ]
+            },
+            {
+                  "name": "Villa Portela",
+                  "text": "Un chalet și o proprietate istorică din Leiria, utilizate acum pentru activități culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.809142,
+                        39.741251
+                  ]
+            },
+            {
+                  "name": "Teatro José Lúcio da Silva",
+                  "text": "Un teatru municipal principal și spațiu cultural din orașul Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803869,
+                        39.746717
+                  ]
+            },
+            {
+                  "name": "Ludoteca Municipal de Leiria",
+                  "text": "O ludotecă municipală și centru de joacă din Leiria.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812551,
+                        39.751939
+                  ]
+            },
+            {
+                  "name": "Miradouro Ernesto Korrodi",
+                  "text": "Un punct de belvedere din Leiria, numit după arhitectul Ernesto Korrodi, care oferă vedere spre castel.",
+                  "category": "natural",
+                  "coords": [
+                        -8.809408,
+                        39.746009
+                  ]
+            },
+            {
+                  "name": "Fonte das 3 Bicas",
+                  "text": "O fântână istorică din Leiria, cu trei guri de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.805825,
+                        39.742951
+                  ]
+            },
+            {
+                  "name": "Convento da Portela",
+                  "text": "O fostă mănăstire istorică situată în zona Portela din Leiria.",
+                  "category": "religious",
+                  "coords": [
+                        -8.811392,
+                        39.741636
+                  ]
+            },
+            {
+                  "name": "Torre Sineira da Sé",
+                  "text": "Un turn clopotniță unic din Leiria, care se află detașat de clădirea principală a catedralei.",
+                  "category": "tower",
+                  "coords": [
+                        -8.807821,
+                        39.746626
+                  ]
+            },
+            {
+                  "name": "Beechcraft C-45 Expeditor",
+                  "text": "O aeronavă istorică expusă în Leiria.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.802754,
+                        39.746471
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moinho do Papel",
+                  "text": "A museum in Leiria housed in a former paper mill, showcasing traditional paper and cereal processing.",
+                  "category": "museum",
+                  "coords": [
+                        -8.800653,
+                        39.740535
+                  ]
+            },
+            {
+                  "name": "Teatro Miguel Franco",
+                  "text": "A local theater in Leiria providing a venue for various performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.807656,
+                        39.742812
+                  ]
+            },
+            {
+                  "name": "O Nariz",
+                  "text": "A theater company and performance space located in Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803196,
+                        39.740946
+                  ]
+            },
+            {
+                  "name": "Museu Sporting em Leiria",
+                  "text": "A museum in Leiria dedicated to the history of Sporting Clube de Portugal.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812735,
+                        39.746876
+                  ]
+            },
+            {
+                  "name": "Te-Ato",
+                  "text": "A contemporary theater group and venue in Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.811015,
+                        39.743724
+                  ]
+            },
+            {
+                  "name": "Centro de Diálogo Intercultural de Leiria (Antiga Sinagoga de Leiria)",
+                  "text": "A cultural center in Leiria located in the building of the former synagogue.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807809,
+                        39.745241
+                  ]
+            },
+            {
+                  "name": "Museu da Imagem em Movimento - m|i|mo",
+                  "text": "A museum in Leiria dedicated to the history and technology of moving images.",
+                  "category": "museum",
+                  "coords": [
+                        -8.807309,
+                        39.747561
+                  ]
+            },
+            {
+                  "name": "Santuário de Nossa Senhora da Encarnação",
+                  "text": "A hilltop sanctuary in Leiria with a staircase and panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.79985,
+                        39.738797
+                  ]
+            },
+            {
+                  "name": "Fonte Quente",
+                  "text": "A historic fountain in Leiria known for its water source.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.80136,
+                        39.747095
+                  ]
+            },
+            {
+                  "name": "Homenagem à Indústria dos Plásticos",
+                  "text": "A monument in Leiria paying tribute to the local plastics industry.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.803431,
+                        39.750748
+                  ]
+            },
+            {
+                  "name": "Baloiço do Parque Verde de Leiria",
+                  "text": "A scenic swing located in the green park area of Leiria.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.821432,
+                        39.739821
+                  ]
+            },
+            {
+                  "name": "Villa Portela",
+                  "text": "A historic chalet and estate in Leiria now used for cultural activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.809142,
+                        39.741251
+                  ]
+            },
+            {
+                  "name": "Teatro José Lúcio da Silva",
+                  "text": "A main municipal theater and cultural venue in the city of Leiria.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.803869,
+                        39.746717
+                  ]
+            },
+            {
+                  "name": "Ludoteca Municipal de Leiria",
+                  "text": "A municipal toy library and play center in Leiria.",
+                  "category": "museum",
+                  "coords": [
+                        -8.812551,
+                        39.751939
+                  ]
+            },
+            {
+                  "name": "Miradouro Ernesto Korrodi",
+                  "text": "A viewpoint in Leiria named after the architect Ernesto Korrodi, offering views of the castle.",
+                  "category": "natural",
+                  "coords": [
+                        -8.809408,
+                        39.746009
+                  ]
+            },
+            {
+                  "name": "Fonte das 3 Bicas",
+                  "text": "A historic fountain in Leiria featuring three water spouts.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.805825,
+                        39.742951
+                  ]
+            },
+            {
+                  "name": "Convento da Portela",
+                  "text": "A historic former convent located in the Portela area of Leiria.",
+                  "category": "religious",
+                  "coords": [
+                        -8.811392,
+                        39.741636
+                  ]
+            },
+            {
+                  "name": "Torre Sineira da Sé",
+                  "text": "A unique bell tower in Leiria that stands detached from the main cathedral building.",
+                  "category": "tower",
+                  "coords": [
+                        -8.807821,
+                        39.746626
+                  ]
+            },
+            {
+                  "name": "Beechcraft C-45 Expeditor",
+                  "text": "A historic aircraft on display in Leiria.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.802754,
+                        39.746471
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.807, 39.7436],
@@ -3392,7 +11312,736 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-portimao",
+    id: "city-portimao", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Rocha",
+                  "text": "Die Praia da Rocha ist ein Strand in Portimão. Er ist einer der bekanntesten Ferienorte an der Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.536273,
+                        37.115647
+                  ]
+            },
+            {
+                  "name": "Praia Grande (Ferragudo)",
+                  "text": "Die Praia Grande (Ferragudo) ist ein Strand in Portimão. Er ist ein weitläufiger Sandstrand, der bei Besuchern sehr beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.52026,
+                        37.116416
+                  ]
+            },
+            {
+                  "name": "Praia da Angrinha",
+                  "text": "Die Praia da Angrinha ist ein Strand in Portimão. Er liegt in der Nähe der Mündung des Flusses Arade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522726,
+                        37.121504
+                  ]
+            },
+            {
+                  "name": "Castelo de São João de Arade",
+                  "text": "Das Castelo de São João de Arade ist eine Burg in Portimão. Es ist eine Festung an der Mündung des Flusses Arade.",
+                  "category": "castle",
+                  "coords": [
+                        -8.52247,
+                        37.119599
+                  ]
+            },
+            {
+                  "name": "Praia do Vau",
+                  "text": "Die Praia do Vau ist ein Strand in Portimão. Er ist bekannt für seine malerischen Klippen und das ruhige Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.559292,
+                        37.119863
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Catarina",
+                  "text": "Das Forte de Santa Catarina ist eine Festung in Portimão. Es wurde erbaut, um die lokale Flussmündung zu verteidigen.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.529682,
+                        37.116549
+                  ]
+            },
+            {
+                  "name": "Praia dos Três Castelos",
+                  "text": "Praia dos Três Castelos ist ein Strand in Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.547906,
+                        37.117654
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Portimão",
+                  "text": "Teatro Municipal de Portimão ist ein Theater in Portimão.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.535963,
+                        37.138214
+                  ]
+            },
+            {
+                  "name": "Festa Fantástica",
+                  "text": "Festa Fantástica ist ein Theater in Portimão.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.536394,
+                        37.139718
+                  ]
+            },
+            {
+                  "name": "Museu Diogo Gonçalves",
+                  "text": "Museu Diogo Gonçalves ist ein Museum in Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.537572,
+                        37.139637
+                  ]
+            },
+            {
+                  "name": "Museu de Portimão",
+                  "text": "Portimao Museum ist ein Museum in Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.534512,
+                        37.130669
+                  ]
+            },
+            {
+                  "name": "Praia do Barranco das Canas",
+                  "text": "Praia do Barranco das Canas ist ein Strand in der Stadt Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564496,
+                        37.119214
+                  ]
+            },
+            {
+                  "name": "Studio Bongard",
+                  "text": "Studio Bongard ist ein Museum in der Stadt Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.521721,
+                        37.126802
+                  ]
+            },
+            {
+                  "name": "Praia dos Careanos",
+                  "text": "Praia dos Careanos ist ein Strand in der Stadt Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.555377,
+                        37.119051
+                  ]
+            },
+            {
+                  "name": "Praia do Alemão",
+                  "text": "Praia do Alemão ist ein Strand in der Stadt Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.562213,
+                        37.119778
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande ist eine Attraktion in der Stadt Portimão.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.521011,
+                        37.118057
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Três Castelos",
+                  "text": "Miradouro dos Três Castelos ist ein Aussichtspunkt in der Stadt Portimão.",
+                  "category": "natural",
+                  "coords": [
+                        -8.543005,
+                        37.117282
+                  ]
+            },
+            {
+                  "name": "Carso litoral da Ponta de João Arens",
+                  "text": "Carso litoral da Ponta de João Arens ist eine Attraktion in der Stadt Portimão.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.570634,
+                        37.116633
+                  ]
+            },
+            {
+                  "name": "Fiat G91 R3",
+                  "text": "Fiat G91 R3 ist ein Denkmal in der Stadt Portimão.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538878,
+                        37.144131
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portimão",
+                  "text": "Câmara Municipal de Portimão ist das Rathaus in der Stadt Portimão.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538167,
+                        37.136935
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Rocha",
+                  "text": "A Praia da Rocha egy strand Portimão városában. Ez az Algarve egyik leghíresebb üdülőhelye.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.536273,
+                        37.115647
+                  ]
+            },
+            {
+                  "name": "Praia Grande (Ferragudo)",
+                  "text": "A Praia Grande (Ferragudo) egy strand Portimão városában. Ez egy tágas homokos strand, amely nagyon népszerű a látogatók körében.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.52026,
+                        37.116416
+                  ]
+            },
+            {
+                  "name": "Praia da Angrinha",
+                  "text": "A Praia da Angrinha egy strand Portimão városában. Az Arade folyó torkolatának közelében található.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522726,
+                        37.121504
+                  ]
+            },
+            {
+                  "name": "Castelo de São João de Arade",
+                  "text": "A Castelo de São João de Arade egy vár Portimão városában. Ez egy erődítmény az Arade folyó torkolatánál.",
+                  "category": "castle",
+                  "coords": [
+                        -8.52247,
+                        37.119599
+                  ]
+            },
+            {
+                  "name": "Praia do Vau",
+                  "text": "A Praia do Vau egy strand Portimão városában. Festői szikláiról és nyugodt vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.559292,
+                        37.119863
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Catarina",
+                  "text": "A Forte de Santa Catarina egy erőd Portimão városában. A helyi folyótorkolat védelmére épült.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.529682,
+                        37.116549
+                  ]
+            },
+            {
+                  "name": "Praia dos Três Castelos",
+                  "text": "A Praia dos Três Castelos egy strand Portimão városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.547906,
+                        37.117654
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Portimão",
+                  "text": "A Teatro Municipal de Portimão egy színház Portimão városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.535963,
+                        37.138214
+                  ]
+            },
+            {
+                  "name": "Festa Fantástica",
+                  "text": "A Festa Fantástica egy színház Portimão városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.536394,
+                        37.139718
+                  ]
+            },
+            {
+                  "name": "Museu Diogo Gonçalves",
+                  "text": "A Museu Diogo Gonçalves egy múzeum Portimão városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.537572,
+                        37.139637
+                  ]
+            },
+            {
+                  "name": "Museu de Portimão",
+                  "text": "A Portimao Museum egy múzeum Portimão városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.534512,
+                        37.130669
+                  ]
+            },
+            {
+                  "name": "Praia do Barranco das Canas",
+                  "text": "A Praia do Barranco das Canas egy strand Portimão városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564496,
+                        37.119214
+                  ]
+            },
+            {
+                  "name": "Studio Bongard",
+                  "text": "A Studio Bongard egy múzeum Portimão városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.521721,
+                        37.126802
+                  ]
+            },
+            {
+                  "name": "Praia dos Careanos",
+                  "text": "A Praia dos Careanos egy strand Portimão városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.555377,
+                        37.119051
+                  ]
+            },
+            {
+                  "name": "Praia do Alemão",
+                  "text": "A Praia do Alemão egy strand Portimão városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.562213,
+                        37.119778
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "A Praia Grande egy látványosság Portimão városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.521011,
+                        37.118057
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Três Castelos",
+                  "text": "A Miradouro dos Três Castelos egy kilátó Portimão városában.",
+                  "category": "natural",
+                  "coords": [
+                        -8.543005,
+                        37.117282
+                  ]
+            },
+            {
+                  "name": "Carso litoral da Ponta de João Arens",
+                  "text": "A Carso litoral da Ponta de João Arens egy látványosság Portimão városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.570634,
+                        37.116633
+                  ]
+            },
+            {
+                  "name": "Fiat G91 R3",
+                  "text": "A Fiat G91 R3 egy emlékmű Portimão városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538878,
+                        37.144131
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portimão",
+                  "text": "A Câmara Municipal de Portimão a városháza Portimão városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538167,
+                        37.136935
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Rocha",
+                  "text": "Praia da Rocha este o plajă în Portimão. Este una dintre cele mai faimoase stațiuni din Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.536273,
+                        37.115647
+                  ]
+            },
+            {
+                  "name": "Praia Grande (Ferragudo)",
+                  "text": "Praia Grande (Ferragudo) este o plajă în Portimão. Este o plajă spațioasă cu nisip, populară printre vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.52026,
+                        37.116416
+                  ]
+            },
+            {
+                  "name": "Praia da Angrinha",
+                  "text": "Praia da Angrinha este o plajă în Portimão. Este situată în apropierea gurii de vărsare a râului Arade.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522726,
+                        37.121504
+                  ]
+            },
+            {
+                  "name": "Castelo de São João de Arade",
+                  "text": "Castelo de São João de Arade este un castel în Portimão. Este o fortificație la estuarul râului Arade.",
+                  "category": "castle",
+                  "coords": [
+                        -8.52247,
+                        37.119599
+                  ]
+            },
+            {
+                  "name": "Praia do Vau",
+                  "text": "Praia do Vau este o plajă în Portimão. Este recunoscută pentru stâncile sale pitorești și apele calme.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.559292,
+                        37.119863
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Catarina",
+                  "text": "Forte de Santa Catarina este un fort în Portimão. A fost construit pentru a apăra estuarul local.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.529682,
+                        37.116549
+                  ]
+            },
+            {
+                  "name": "Praia dos Três Castelos",
+                  "text": "Praia dos Três Castelos este o plajă în Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.547906,
+                        37.117654
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Portimão",
+                  "text": "Teatro Municipal de Portimão este un teatru în Portimão.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.535963,
+                        37.138214
+                  ]
+            },
+            {
+                  "name": "Festa Fantástica",
+                  "text": "Festa Fantástica este un teatru în Portimão.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.536394,
+                        37.139718
+                  ]
+            },
+            {
+                  "name": "Museu Diogo Gonçalves",
+                  "text": "Museu Diogo Gonçalves este un muzeu în Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.537572,
+                        37.139637
+                  ]
+            },
+            {
+                  "name": "Museu de Portimão",
+                  "text": "Portimao Museum este un muzeu în Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.534512,
+                        37.130669
+                  ]
+            },
+            {
+                  "name": "Praia do Barranco das Canas",
+                  "text": "Praia do Barranco das Canas este o plajă în orașul Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564496,
+                        37.119214
+                  ]
+            },
+            {
+                  "name": "Studio Bongard",
+                  "text": "Studio Bongard este un muzeu în orașul Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.521721,
+                        37.126802
+                  ]
+            },
+            {
+                  "name": "Praia dos Careanos",
+                  "text": "Praia dos Careanos este o plajă în orașul Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.555377,
+                        37.119051
+                  ]
+            },
+            {
+                  "name": "Praia do Alemão",
+                  "text": "Praia do Alemão este o plajă în orașul Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.562213,
+                        37.119778
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande este o atracție în orașul Portimão.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.521011,
+                        37.118057
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Três Castelos",
+                  "text": "Miradouro dos Três Castelos este un punct de belvedere în orașul Portimão.",
+                  "category": "natural",
+                  "coords": [
+                        -8.543005,
+                        37.117282
+                  ]
+            },
+            {
+                  "name": "Carso litoral da Ponta de João Arens",
+                  "text": "Carso litoral da Ponta de João Arens este o atracție în orașul Portimão.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.570634,
+                        37.116633
+                  ]
+            },
+            {
+                  "name": "Fiat G91 R3",
+                  "text": "Fiat G91 R3 este un monument în orașul Portimão.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538878,
+                        37.144131
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portimão",
+                  "text": "Câmara Municipal de Portimão este primăria din orașul Portimão.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538167,
+                        37.136935
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Rocha",
+                  "text": "Praia da Rocha is a beach located in Portimão. It is one of the most famous resorts in the Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.536273,
+                        37.115647
+                  ]
+            },
+            {
+                  "name": "Praia Grande (Ferragudo)",
+                  "text": "Praia Grande (Ferragudo) is a beach located in Portimão. It is a spacious sandy beach popular with visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.52026,
+                        37.116416
+                  ]
+            },
+            {
+                  "name": "Praia da Angrinha",
+                  "text": "Praia da Angrinha is a beach located in Portimão. It is situated near the mouth of the Arade River.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.522726,
+                        37.121504
+                  ]
+            },
+            {
+                  "name": "Castelo de São João de Arade",
+                  "text": "Castelo de São João de Arade is a castle located in Portimão. It is a fortification defending the Arade River estuary.",
+                  "category": "castle",
+                  "coords": [
+                        -8.52247,
+                        37.119599
+                  ]
+            },
+            {
+                  "name": "Praia do Vau",
+                  "text": "Praia do Vau is a beach located in Portimão. It is well known for its picturesque cliffs and calm waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.559292,
+                        37.119863
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Catarina",
+                  "text": "Forte de Santa Catarina is a fort located in Portimão. It was built to defend the local river estuary.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.529682,
+                        37.116549
+                  ]
+            },
+            {
+                  "name": "Praia dos Três Castelos",
+                  "text": "Praia dos Três Castelos is a beach located in Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.547906,
+                        37.117654
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal de Portimão",
+                  "text": "Teatro Municipal de Portimão is a theatre located in Portimão.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.535963,
+                        37.138214
+                  ]
+            },
+            {
+                  "name": "Festa Fantástica",
+                  "text": "Festa Fantástica is a theatre located in Portimão.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.536394,
+                        37.139718
+                  ]
+            },
+            {
+                  "name": "Museu Diogo Gonçalves",
+                  "text": "Museu Diogo Gonçalves is a museum located in Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.537572,
+                        37.139637
+                  ]
+            },
+            {
+                  "name": "Portimao Museum",
+                  "text": "Portimao Museum is a museum located in Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.534512,
+                        37.130669
+                  ]
+            },
+            {
+                  "name": "Praia do Barranco das Canas",
+                  "text": "Praia do Barranco das Canas is a beach in the city of Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.564496,
+                        37.119214
+                  ]
+            },
+            {
+                  "name": "Studio Bongard",
+                  "text": "Studio Bongard is a museum in the city of Portimão.",
+                  "category": "museum",
+                  "coords": [
+                        -8.521721,
+                        37.126802
+                  ]
+            },
+            {
+                  "name": "Praia dos Careanos",
+                  "text": "Praia dos Careanos is a beach in the city of Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.555377,
+                        37.119051
+                  ]
+            },
+            {
+                  "name": "Praia do Alemão",
+                  "text": "Praia do Alemão is a beach in the city of Portimão.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.562213,
+                        37.119778
+                  ]
+            },
+            {
+                  "name": "Praia Grande",
+                  "text": "Praia Grande is an attraction in the city of Portimão.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.521011,
+                        37.118057
+                  ]
+            },
+            {
+                  "name": "Miradouro dos Três Castelos",
+                  "text": "Miradouro dos Três Castelos is a viewpoint in the city of Portimão.",
+                  "category": "natural",
+                  "coords": [
+                        -8.543005,
+                        37.117282
+                  ]
+            },
+            {
+                  "name": "Carso litoral da Ponta de João Arens",
+                  "text": "Carso litoral da Ponta de João Arens is an attraction in the city of Portimão.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.570634,
+                        37.116633
+                  ]
+            },
+            {
+                  "name": "Fiat G91 R3",
+                  "text": "Fiat G91 R3 is a monument in the city of Portimão.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538878,
+                        37.144131
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portimão",
+                  "text": "Câmara Municipal de Portimão is the town hall in the city of Portimão.",
+                  "category": "historical",
+                  "coords": [
+                        -8.538167,
+                        37.136935
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.5401, 37.1367],
@@ -3436,7 +12085,952 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-ponta-delgada",
+    id: "city-ponta-delgada", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Micaelense",
+                  "text": "Das größte Kultur- und Theaterzentrum in Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.666253,
+                        37.741796
+                  ]
+            },
+            {
+                  "name": "Palácio da Fonte Bela",
+                  "text": "Ein neoklassizistischer Palast in Ponta Delgada.",
+                  "category": "castle",
+                  "coords": [
+                        -25.671471,
+                        37.740936
+                  ]
+            },
+            {
+                  "name": "Palácio José do Canto",
+                  "text": "Ein herrschaftliches Anwesen mit einem botanischen Garten in Ponta Delgada.",
+                  "category": "castle",
+                  "coords": [
+                        -25.670486,
+                        37.749592
+                  ]
+            },
+            {
+                  "name": "Anfiteatro das Portas do Mar",
+                  "text": "Ein Open-Air-Theater im Hafenbereich von Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.662678,
+                        37.738629
+                  ]
+            },
+            {
+                  "name": "Galeria Fonseca Macedo",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668732,
+                        37.743398
+                  ]
+            },
+            {
+                  "name": "Museu Hebraico Sahar Hassamaim",
+                  "text": "Ein Museum, das in der historischen Synagoge von Ponta Delgada untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669885,
+                        37.739619
+                  ]
+            },
+            {
+                  "name": "Melo abreu",
+                  "text": "Ein Museum, das mit der Brautradition in Ponta Delgada verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        -25.671386,
+                        37.73805
+                  ]
+            },
+            {
+                  "name": "Museu Militar dos Açores",
+                  "text": "Das Militärmuseum der Azoren in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.672532,
+                        37.736594
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Arte Sacra",
+                  "text": "Die Abteilung für sakrale Kunst des Carlos-Machado-Museums in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.670024,
+                        37.743816
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Santa Bárbara",
+                  "text": "Ein Kernbereich des Carlos-Machado-Museums in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668008,
+                        37.742435
+                  ]
+            },
+            {
+                  "name": "Gruta do Carvão",
+                  "text": "Die Gruta do Carvão ist eine bedeutende Lavahöhle in Ponta Delgada, die vulkanische Geologie zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.687069,
+                        37.748164
+                  ]
+            },
+            {
+                  "name": "Miradouro do Ilhéu de Rosto de Cão",
+                  "text": "Dieser Aussichtspunkt bietet einen malerischen Blick auf die kleine Insel nahe Ponta Delgada.",
+                  "category": "natural",
+                  "coords": [
+                        -25.636978,
+                        37.745713
+                  ]
+            },
+            {
+                  "name": "Academia das Artes dos Açores",
+                  "text": "Ein Bildungs- und Kreativzentrum für Künste in der Stadt Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.664365,
+                        37.741397
+                  ]
+            },
+            {
+                  "name": "Jardim José do Canto",
+                  "text": "Ein großer botanischer Garten in Ponta Delgada mit einer vielfältigen Sammlung exotischer Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.670057,
+                        37.748544
+                  ]
+            },
+            {
+                  "name": "Plantação de Ananás dos Açores",
+                  "text": "Eine traditionelle Plantage, auf der Besucher mehr über den Ananas-Anbau auf den Azoren erfahren können.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.654933,
+                        37.748497
+                  ]
+            },
+            {
+                  "name": "Ilha de São Miguel",
+                  "text": "Ein Aussichtspunkt in Ponta Delgada mit weitem Blick über die Insel São Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -25.638732,
+                        37.744343
+                  ]
+            },
+            {
+                  "name": "Alto da Mãe de Deus",
+                  "text": "Ein hochgelegener Aussichtspunkt, der einen Panoramablick über die Stadt und den Ozean bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -25.660799,
+                        37.743907
+                  ]
+            },
+            {
+                  "name": "Plantação de ananás Santo António",
+                  "text": "Eine Attraktion in Ponta Delgada, die sich auf den traditionellen Ananasanbau der Region konzentriert.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.642969,
+                        37.756077
+                  ]
+            },
+            {
+                  "name": "Art gallery & studio",
+                  "text": "Eine lokale Galerie und ein Atelier, das zeitgenössische künstlerische Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669108,
+                        37.742324
+                  ]
+            },
+            {
+                  "name": "Santa Catarina manor",
+                  "text": "Ein historisches Herrenhaus in Ponta Delgada, das als bedeutendes Architekturdenkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        -25.679291,
+                        37.741889
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Eine bedeutende Pfarrkirche in Ponta Delgada, die für ihre traditionelle Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -25.662704,
+                        37.740493
+                  ]
+            },
+            {
+                  "name": "Igreja de São José",
+                  "text": "Ein religiöses Wahrzeichen und eine Kirche in Ponta Delgada mit einer markanten Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        -25.673954,
+                        37.737454
+                  ]
+            },
+            {
+                  "name": "Ermida De Sant'Ana",
+                  "text": "Eine kleine, historische Kapelle in Ponta Delgada, die der Heiligen Anna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -25.670311,
+                        37.74676
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Sebastião",
+                  "text": "Die Hauptpfarrkirche von Ponta Delgada mit einem wunderschönen Manuelinik-Portal.",
+                  "category": "religious",
+                  "coords": [
+                        -25.668198,
+                        37.740078
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Piedade",
+                  "text": "Ein lokales Gotteshaus in Ponta Delgada, das der katholischen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -25.689475,
+                        37.760454
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora dos Anjos",
+                  "text": "Eine traditionelle Kirche in Ponta Delgada, die Unserer Lieben Frau von den Engeln gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -25.64928,
+                        37.758279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Micaelense",
+                  "text": "Ponta Delgada legnagyobb kulturális és színházi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.666253,
+                        37.741796
+                  ]
+            },
+            {
+                  "name": "Palácio da Fonte Bela",
+                  "text": "Neoklasszicista palota Ponta Delgadában.",
+                  "category": "castle",
+                  "coords": [
+                        -25.671471,
+                        37.740936
+                  ]
+            },
+            {
+                  "name": "Palácio José do Canto",
+                  "text": "Úri birtok botanikus kerttel Ponta Delgadában.",
+                  "category": "castle",
+                  "coords": [
+                        -25.670486,
+                        37.749592
+                  ]
+            },
+            {
+                  "name": "Anfiteatro das Portas do Mar",
+                  "text": "Szabadtéri színház Ponta Delgada kikötői negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.662678,
+                        37.738629
+                  ]
+            },
+            {
+                  "name": "Galeria Fonseca Macedo",
+                  "text": "Kortárs művészeti galéria Ponta Delgadában.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668732,
+                        37.743398
+                  ]
+            },
+            {
+                  "name": "Museu Hebraico Sahar Hassamaim",
+                  "text": "Ponta Delgada történelmi zsinagógájában berendezett múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669885,
+                        37.739619
+                  ]
+            },
+            {
+                  "name": "Melo abreu",
+                  "text": "Ponta Delgada sörfőzési hagyományaihoz kapcsolódó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -25.671386,
+                        37.73805
+                  ]
+            },
+            {
+                  "name": "Museu Militar dos Açores",
+                  "text": "Az Azori-szigetek hadtörténeti múzeuma Ponta Delgadában.",
+                  "category": "museum",
+                  "coords": [
+                        -25.672532,
+                        37.736594
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Arte Sacra",
+                  "text": "A Carlos Machado Múzeum szakrális művészeti részlege Ponta Delgadában.",
+                  "category": "museum",
+                  "coords": [
+                        -25.670024,
+                        37.743816
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Santa Bárbara",
+                  "text": "A Carlos Machado Múzeum egyik központja Ponta Delgadában.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668008,
+                        37.742435
+                  ]
+            },
+            {
+                  "name": "Gruta do Carvão",
+                  "text": "A Gruta do Carvão egy jelentős lávabarlang Ponta Delgadában, amely a vulkáni geológiát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.687069,
+                        37.748164
+                  ]
+            },
+            {
+                  "name": "Miradouro do Ilhéu de Rosto de Cão",
+                  "text": "Ez a kilátópont festői partmenti kilátást nyújt a Ponta Delgada melletti szigetre.",
+                  "category": "natural",
+                  "coords": [
+                        -25.636978,
+                        37.745713
+                  ]
+            },
+            {
+                  "name": "Academia das Artes dos Açores",
+                  "text": "Oktatási és kreatív művészeti központ Ponta Delgada városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.664365,
+                        37.741397
+                  ]
+            },
+            {
+                  "name": "Jardim José do Canto",
+                  "text": "Nagy botanikus kert Ponta Delgadában, egzotikus növények változatos gyűjteményével.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.670057,
+                        37.748544
+                  ]
+            },
+            {
+                  "name": "Plantação de Ananás dos Açores",
+                  "text": "Hagyományos ültetvény, ahol a látogatók megismerhetik az azori ananásztermesztést.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.654933,
+                        37.748497
+                  ]
+            },
+            {
+                  "name": "Ilha de São Miguel",
+                  "text": "Kilátópont Ponta Delgadában, amely pazar kilátást nyújt São Miguel szigetére.",
+                  "category": "natural",
+                  "coords": [
+                        -25.638732,
+                        37.744343
+                  ]
+            },
+            {
+                  "name": "Alto da Mãe de Deus",
+                  "text": "Magaslati kilátópont, ahonnan panorámás kilátás nyílik a városra és az óceánra.",
+                  "category": "natural",
+                  "coords": [
+                        -25.660799,
+                        37.743907
+                  ]
+            },
+            {
+                  "name": "Plantação de ananás Santo António",
+                  "text": "Ponta Delgada-i látványosság, amely a régió hagyományos ananásztermesztésére összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.642969,
+                        37.756077
+                  ]
+            },
+            {
+                  "name": "Art gallery & studio",
+                  "text": "Helyi galéria és műterem, ahol kortárs művészeti alkotásokat mutatnak be.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669108,
+                        37.742324
+                  ]
+            },
+            {
+                  "name": "Santa Catarina manor",
+                  "text": "Történelmi udvarház Ponta Delgadában, amely figyelemre méltó építészeti emlékként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -25.679291,
+                        37.741889
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "Ponta Delgada egyik jelentős plébániatemploma, amely hagyományos építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -25.662704,
+                        37.740493
+                  ]
+            },
+            {
+                  "name": "Igreja de São José",
+                  "text": "Vallási látnivaló és templom Ponta Delgadában, jellegzetes homlokzattal.",
+                  "category": "religious",
+                  "coords": [
+                        -25.673954,
+                        37.737454
+                  ]
+            },
+            {
+                  "name": "Ermida De Sant'Ana",
+                  "text": "Kisméretű, történelmi kápolna Ponta Delgadában, amelyet Szent Annának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -25.670311,
+                        37.74676
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Sebastião",
+                  "text": "Ponta Delgada főplébániatemploma, amely gyönyörű mánuel stílusú kapuzattal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -25.668198,
+                        37.740078
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Piedade",
+                  "text": "Helyi templom Ponta Delgadában, amely a katolikus közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -25.689475,
+                        37.760454
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora dos Anjos",
+                  "text": "Hagyományos templom Ponta Delgadában, amelyet az Angyalok Boldogasszonyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -25.64928,
+                        37.758279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Micaelense",
+                  "text": "Cel mai mare centru cultural și de teatru din Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.666253,
+                        37.741796
+                  ]
+            },
+            {
+                  "name": "Palácio da Fonte Bela",
+                  "text": "Un palat neoclasic în Ponta Delgada.",
+                  "category": "castle",
+                  "coords": [
+                        -25.671471,
+                        37.740936
+                  ]
+            },
+            {
+                  "name": "Palácio José do Canto",
+                  "text": "O reședință nobiliară cu o grădină botanică în Ponta Delgada.",
+                  "category": "castle",
+                  "coords": [
+                        -25.670486,
+                        37.749592
+                  ]
+            },
+            {
+                  "name": "Anfiteatro das Portas do Mar",
+                  "text": "Un teatru în aer liber în zona portului din Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.662678,
+                        37.738629
+                  ]
+            },
+            {
+                  "name": "Galeria Fonseca Macedo",
+                  "text": "O galerie de artă contemporană în Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668732,
+                        37.743398
+                  ]
+            },
+            {
+                  "name": "Museu Hebraico Sahar Hassamaim",
+                  "text": "Un muzeu situat în sinagoga istorică din Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669885,
+                        37.739619
+                  ]
+            },
+            {
+                  "name": "Melo abreu",
+                  "text": "Un muzeu legat de tradiția berii din Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.671386,
+                        37.73805
+                  ]
+            },
+            {
+                  "name": "Museu Militar dos Açores",
+                  "text": "Muzeul militar al Azorelor din Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.672532,
+                        37.736594
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Arte Sacra",
+                  "text": "Secția de artă sacră a Muzeului Carlos Machado din Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.670024,
+                        37.743816
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Santa Bárbara",
+                  "text": "Un nucleu al Muzeului Carlos Machado din Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668008,
+                        37.742435
+                  ]
+            },
+            {
+                  "name": "Gruta do Carvão",
+                  "text": "Gruta do Carvão este un tub de lavă semnificativ din Ponta Delgada, care prezintă geologia vulcanică.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.687069,
+                        37.748164
+                  ]
+            },
+            {
+                  "name": "Miradouro do Ilhéu de Rosto de Cão",
+                  "text": "Acest punct de observare oferă vederi de coastă pitorești asupra insulei de lângă Ponta Delgada.",
+                  "category": "natural",
+                  "coords": [
+                        -25.636978,
+                        37.745713
+                  ]
+            },
+            {
+                  "name": "Academia das Artes dos Açores",
+                  "text": "Un centru de educație și creație artistică situat în orașul Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.664365,
+                        37.741397
+                  ]
+            },
+            {
+                  "name": "Jardim José do Canto",
+                  "text": "O grădină botanică mare din Ponta Delgada, cu o colecție diversă de plante exotice.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.670057,
+                        37.748544
+                  ]
+            },
+            {
+                  "name": "Plantação de Ananás dos Açores",
+                  "text": "O plantație tradițională unde vizitatorii pot învăța despre cultivarea ananasului în Azore.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.654933,
+                        37.748497
+                  ]
+            },
+            {
+                  "name": "Ilha de São Miguel",
+                  "text": "Un punct de observare din Ponta Delgada care oferă vederi panoramice asupra insulei São Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -25.638732,
+                        37.744343
+                  ]
+            },
+            {
+                  "name": "Alto da Mãe de Deus",
+                  "text": "Un punct de observare înalt care oferă vederi panoramice asupra orașului și oceanului.",
+                  "category": "natural",
+                  "coords": [
+                        -25.660799,
+                        37.743907
+                  ]
+            },
+            {
+                  "name": "Plantação de ananás Santo António",
+                  "text": "O atracție din Ponta Delgada concentrată pe cultivarea tradițională a ananasului în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.642969,
+                        37.756077
+                  ]
+            },
+            {
+                  "name": "Art gallery & studio",
+                  "text": "O galerie locală și un spațiu de studio care prezintă lucrări artistice contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669108,
+                        37.742324
+                  ]
+            },
+            {
+                  "name": "Santa Catarina manor",
+                  "text": "Un conac istoric din Ponta Delgada care servește ca un monument arhitectural notabil.",
+                  "category": "historical",
+                  "coords": [
+                        -25.679291,
+                        37.741889
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "O biserică parohială proeminentă din Ponta Delgada, cunoscută pentru arhitectura sa tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        -25.662704,
+                        37.740493
+                  ]
+            },
+            {
+                  "name": "Igreja de São José",
+                  "text": "Un punct de reper religios și o biserică din Ponta Delgada cu o fațadă distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        -25.673954,
+                        37.737454
+                  ]
+            },
+            {
+                  "name": "Ermida De Sant'Ana",
+                  "text": "O mică chapelă istorică din Ponta Delgada dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -25.670311,
+                        37.74676
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Sebastião",
+                  "text": "Biserica parohială principală din Ponta Delgada, cu un frumos portal în stil manuelin.",
+                  "category": "religious",
+                  "coords": [
+                        -25.668198,
+                        37.740078
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Piedade",
+                  "text": "Un lăcaș de cult local din Ponta Delgada care deservește comunitatea catolică.",
+                  "category": "religious",
+                  "coords": [
+                        -25.689475,
+                        37.760454
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora dos Anjos",
+                  "text": "O biserică tradițională din Ponta Delgada dedicată Maicii Domnului a Îngerilor.",
+                  "category": "religious",
+                  "coords": [
+                        -25.64928,
+                        37.758279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Micaelense",
+                  "text": "The largest cultural and theatre centre in Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.666253,
+                        37.741796
+                  ]
+            },
+            {
+                  "name": "Palácio da Fonte Bela",
+                  "text": "A neoclassical palace located in Ponta Delgada.",
+                  "category": "castle",
+                  "coords": [
+                        -25.671471,
+                        37.740936
+                  ]
+            },
+            {
+                  "name": "Palácio José do Canto",
+                  "text": "A stately manor with a botanical garden in Ponta Delgada.",
+                  "category": "castle",
+                  "coords": [
+                        -25.670486,
+                        37.749592
+                  ]
+            },
+            {
+                  "name": "Anfiteatro das Portas do Mar",
+                  "text": "An open-air theatre located in the Portas do Mar area of Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.662678,
+                        37.738629
+                  ]
+            },
+            {
+                  "name": "Galeria Fonseca Macedo",
+                  "text": "A contemporary art gallery in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668732,
+                        37.743398
+                  ]
+            },
+            {
+                  "name": "Museu Hebraico Sahar Hassamaim",
+                  "text": "A museum housed in the historic synagogue of Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669885,
+                        37.739619
+                  ]
+            },
+            {
+                  "name": "Melo abreu",
+                  "text": "A museum associated with the brewing tradition in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.671386,
+                        37.73805
+                  ]
+            },
+            {
+                  "name": "Military Museum of the Azores",
+                  "text": "The Military Museum of the Azores located in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.672532,
+                        37.736594
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Arte Sacra",
+                  "text": "The sacred art section of the Carlos Machado Museum in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.670024,
+                        37.743816
+                  ]
+            },
+            {
+                  "name": "Museu Carlos Machado - Núcleo de Santa Bárbara",
+                  "text": "A core section of the Carlos Machado Museum in Ponta Delgada.",
+                  "category": "museum",
+                  "coords": [
+                        -25.668008,
+                        37.742435
+                  ]
+            },
+            {
+                  "name": "Gruta do Carvão",
+                  "text": "Gruta do Carvão is a significant lava tube in Ponta Delgada, showcasing volcanic geology.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.687069,
+                        37.748164
+                  ]
+            },
+            {
+                  "name": "Miradouro do Ilhéu de Rosto de Cão",
+                  "text": "This viewpoint offers scenic coastal views of the islet near Ponta Delgada.",
+                  "category": "natural",
+                  "coords": [
+                        -25.636978,
+                        37.745713
+                  ]
+            },
+            {
+                  "name": "Academia das Artes dos Açores",
+                  "text": "An educational and creative arts center located in the city of Ponta Delgada.",
+                  "category": "cultural",
+                  "coords": [
+                        -25.664365,
+                        37.741397
+                  ]
+            },
+            {
+                  "name": "Jardim José do Canto",
+                  "text": "A large botanical garden in Ponta Delgada with a diverse collection of exotic plants.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.670057,
+                        37.748544
+                  ]
+            },
+            {
+                  "name": "Azorean Pineapple Plantation",
+                  "text": "A traditional plantation where visitors can learn about Azorean pineapple cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.654933,
+                        37.748497
+                  ]
+            },
+            {
+                  "name": "Ilha de São Miguel",
+                  "text": "A viewpoint in Ponta Delgada offering sweeping vistas across São Miguel island.",
+                  "category": "natural",
+                  "coords": [
+                        -25.638732,
+                        37.744343
+                  ]
+            },
+            {
+                  "name": "Alto da Mãe de Deus",
+                  "text": "A high viewpoint providing panoramic views over the city and the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -25.660799,
+                        37.743907
+                  ]
+            },
+            {
+                  "name": "Pineapple Plantation Santo António",
+                  "text": "An attraction in Ponta Delgada focused on the region's traditional pineapple farming.",
+                  "category": "landmark",
+                  "coords": [
+                        -25.642969,
+                        37.756077
+                  ]
+            },
+            {
+                  "name": "Art gallery & studio",
+                  "text": "A local gallery and studio space showcasing contemporary artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        -25.669108,
+                        37.742324
+                  ]
+            },
+            {
+                  "name": "Santa Catarina manor",
+                  "text": "A historic manor house in Ponta Delgada serving as a notable architectural monument.",
+                  "category": "historical",
+                  "coords": [
+                        -25.679291,
+                        37.741889
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro",
+                  "text": "A prominent parish church in Ponta Delgada known for its traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -25.662704,
+                        37.740493
+                  ]
+            },
+            {
+                  "name": "Igreja de São José",
+                  "text": "A religious landmark and church in Ponta Delgada with a distinctive facade.",
+                  "category": "religious",
+                  "coords": [
+                        -25.673954,
+                        37.737454
+                  ]
+            },
+            {
+                  "name": "Ermida De Sant'Ana",
+                  "text": "A small, historic chapel in Ponta Delgada dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        -25.670311,
+                        37.74676
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de São Sebastião",
+                  "text": "The main parish church of Ponta Delgada, featuring a beautiful Manueline portal.",
+                  "category": "religious",
+                  "coords": [
+                        -25.668198,
+                        37.740078
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Piedade",
+                  "text": "A local place of worship in Ponta Delgada serving the Catholic community.",
+                  "category": "religious",
+                  "coords": [
+                        -25.689475,
+                        37.760454
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora dos Anjos",
+                  "text": "A traditional church in Ponta Delgada dedicated to Our Lady of the Angels.",
+                  "category": "religious",
+                  "coords": [
+                        -25.64928,
+                        37.758279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-25.6687, 37.7412],
@@ -3480,7 +13074,1600 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-funchal",
+    id: "city-funchal", "sights": {
+      "de": [
+            {
+                  "name": "Casa Museu Frederico de Freitas",
+                  "text": "Ein Museum in Funchal, das die Privatsammlung des Anwalts Frederico de Freitas in einem historischen Haus zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -16.912345,
+                        32.64989
+                  ]
+            },
+            {
+                  "name": "Museu da Quinta das Cruzes",
+                  "text": "Ein Museum für dekorative Kunst in Funchal, untergebracht in einer ehemaligen Villa mit schönen Gärten.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913874,
+                        32.651046
+                  ]
+            },
+            {
+                  "name": "Museu da Fotografia \"Vicentes\"",
+                  "text": "Ein Fotografiemuseum in Funchal, untergebracht im ältesten Fotostudio Portugals.",
+                  "category": "museum",
+                  "coords": [
+                        -16.910292,
+                        32.648893
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Cidade do Açúcar",
+                  "text": "Ein Museum in Funchal, das der Geschichte der Zuckerindustrie auf der Insel Madeira gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -16.907119,
+                        32.648219
+                  ]
+            },
+            {
+                  "name": "Museu CR7",
+                  "text": "Ein modernes Museum in Funchal, das der Karriere des Fußballstars Cristiano Ronaldo gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913847,
+                        32.644118
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Das Museum zeigt eine bedeutende Sammlung flämischer Gemälde und religiöser Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -16.908415,
+                        32.649309
+                  ]
+            },
+            {
+                  "name": "Museu Monte Palace",
+                  "text": "Ein Museum im Monte Palace Tropical Garden, das Skulpturen und Mineralien ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -16.901009,
+                        32.675849
+                  ]
+            },
+            {
+                  "name": "Museu Henrique e Francisco Franco",
+                  "text": "Das Museum ehrt das Werk der aus Madeira stammenden Brüder Henrique und Francisco Franco.",
+                  "category": "museum",
+                  "coords": [
+                        -16.903936,
+                        32.651517
+                  ]
+            },
+            {
+                  "name": "Fortaleza do Pico",
+                  "text": "Eine historische Festung in Funchal, die einen weiten Panoramablick über die Stadt bietet.",
+                  "category": "fortress",
+                  "coords": [
+                        -16.916385,
+                        32.650877
+                  ]
+            },
+            {
+                  "name": "Sé do Funchal",
+                  "text": "Die Kathedrale von Funchal ist ein spätgotisches Bauwerk und ein nationales Denkmal Portugals.",
+                  "category": "religious",
+                  "coords": [
+                        -16.90823,
+                        32.648216
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho",
+                  "text": "Diese Pfarrkirche in Funchal ist ein wichtiges lokales religiöses Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        -16.944039,
+                        32.64919
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Monte",
+                  "text": "Eine bekannte Wallfahrtskirche in Monte, in der der letzte Kaiser von Österreich bestattet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -16.902472,
+                        32.67606
+                  ]
+            },
+            {
+                  "name": "Casino da Madeira",
+                  "text": "Das von Oscar Niemeyer entworfene Casino ist ein markantes Beispiel moderner Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.916082,
+                        32.643968
+                  ]
+            },
+            {
+                  "name": "Teleférico do Funchal",
+                  "text": "Die Seilbahn verbindet das Zentrum von Funchal mit dem höher gelegenen Ortsteil Monte.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.901193,
+                        32.661339
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Baltazar Dias",
+                  "text": "Ein historisches Stadttheater in Funchal, das nach einem bekannten lokalen Musiker benannt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.911418,
+                        32.646944
+                  ]
+            },
+            {
+                  "name": "Monte Palace",
+                  "text": "Ein prachtvolles Anwesen in Funchal, das für seine weitläufigen tropischen Gärten bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        -16.902826,
+                        32.673641
+                  ]
+            },
+            {
+                  "name": "Quinta Cova",
+                  "text": "Ein historisches Herrenhaus in Funchal, das die traditionelle Architektur der Insel zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -16.911083,
+                        32.655401
+                  ]
+            },
+            {
+                  "name": "Quinta da Torrinha",
+                  "text": "Ein traditionelles Anwesen in Funchal mit historischem Charakter.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910636,
+                        32.656606
+                  ]
+            },
+            {
+                  "name": "Artes & Ofícios Tradicionais da Madeira",
+                  "text": "Ein Zentrum in Funchal, das sich der Erhaltung traditioneller madeirensischer Handwerkskunst widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.909652,
+                        32.650711
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "Eine kleine Kapelle in Funchal, die als Ort der Ruhe und Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        -16.910177,
+                        32.660681
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "Diese Kirche ist ein wichtiges religiöses Wahrzeichen im Stadtteil Santo António.",
+                  "category": "religious",
+                  "coords": [
+                        -16.938873,
+                        32.663562
+                  ]
+            },
+            {
+                  "name": "Igreja Inglesa",
+                  "text": "Eine anglikanische Kirche in Funchal, die der englischsprachigen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -16.913873,
+                        32.649412
+                  ]
+            },
+            {
+                  "name": "Hospício da Princesa Dona Maria Amélia",
+                  "text": "Ein historisches Hospiz und eine Kapelle, die von der kaiserlichen Familie gegründet wurden.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915216,
+                        32.646765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Roque",
+                  "text": "Die Pfarrkirche von São Roque ist ein zentraler Ort des Glaubens in diesem Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        -16.923005,
+                        32.66888
+                  ]
+            },
+            {
+                  "name": "Capela da Nazaré",
+                  "text": "Eine kleine Kapelle in Funchal, die der Jungfrau von Nazaré gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -16.934462,
+                        32.647194
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Luzia",
+                  "text": "Diese Kirche ist der spirituelle Mittelpunkt der Gemeinde Santa Luzia in Funchal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.908631,
+                        32.654392
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Eine traditionsreiche Kirche in Funchal, die zum kulturellen Erbe der Stadt gehört.",
+                  "category": "religious",
+                  "coords": [
+                        -16.906402,
+                        32.649813
+                  ]
+            },
+            {
+                  "name": "Igreja do Imaculado Coração de Maria",
+                  "text": "Eine moderne Pfarrkirche in Funchal, die der Unbefleckten Herz Mariens gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915136,
+                        32.66154
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Amparo",
+                  "text": "Eine kleine Kapelle in Funchal, die einen Ort für Gebet und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -16.929416,
+                        32.662782
+                  ]
+            },
+            {
+                  "name": "Capela de São Paulo",
+                  "text": "Diese Kapelle ist ein lokales religiöses Bauwerk in der Stadt Funchal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.916712,
+                        32.649378
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Rosário",
+                  "text": "Eine historische Kapelle, die der Rosenkranzmadonna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -16.918474,
+                        32.669939
+                  ]
+            },
+            {
+                  "name": "Capela da Conceição",
+                  "text": "Eine schlichte Kapelle in Funchal, die der Unbefleckten Empfängnis gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -16.922063,
+                        32.663215
+                  ]
+            },
+            {
+                  "name": "Pico dos Barcelos",
+                  "text": "Ein beliebter Aussichtspunkt, der einen weiten Blick über die Bucht von Funchal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -16.939411,
+                        32.658662
+                  ]
+            },
+            {
+                  "name": "Volta da Malhada",
+                  "text": "Ein Berggipfel in der Nähe von Funchal, ideal für Wanderungen und Naturbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -16.950614,
+                        32.684244
+                  ]
+            },
+            {
+                  "name": "Romeiras",
+                  "text": "Eine markante Erhebung in der Region Funchal mit Ausblick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -16.946667,
+                        32.66373
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Ein Gipfel in der bergigen Landschaft oberhalb von Funchal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.951985,
+                        32.666377
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico do Palácio de São Lourenço",
+                  "text": "Dieses Museum befindet sich im Palast von São Lourenço und zeigt historische Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        -16.91026,
+                        32.647282
+                  ]
+            },
+            {
+                  "name": "Arquivo e História Adelino Rodrigues",
+                  "text": "Ein Museum und Archiv in Funchal, das lokale historische Dokumente und Objekte bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -16.928487,
+                        32.64634
+                  ]
+            },
+            {
+                  "name": "Museu Imersivo da Madeira",
+                  "text": "Ein modernes Museum, das die Geschichte Madeiras durch immersive Technologien erlebbar macht.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913245,
+                        32.648374
+                  ]
+            },
+            {
+                  "name": "MAMMA – Museu de Arte Moderna da Madeira",
+                  "text": "Ein Museum für moderne Kunst in Funchal, das zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -16.923966,
+                        32.643251
+                  ]
+            },
+            {
+                  "name": "Infante D. Henrique",
+                  "text": "Ein Denkmal zu Ehren von Prinz Heinrich dem Seefahrer, einer Schlüsselfigur der Entdeckungen.",
+                  "category": "historical",
+                  "coords": [
+                        -16.91316,
+                        32.646418
+                  ]
+            },
+            {
+                  "name": "Combatente Madeirense no Ultramar",
+                  "text": "Ein Denkmal in Funchal zum Gedenken an die madeirensischen Soldaten der Überseekriege.",
+                  "category": "historical",
+                  "coords": [
+                        -16.934795,
+                        32.643695
+                  ]
+            },
+            {
+                  "name": "30 Anos de Autonomia",
+                  "text": "Ein Monument, das den 30. Jahrestag der politischen Autonomie Madeiras feiert.",
+                  "category": "historical",
+                  "coords": [
+                        -16.917221,
+                        32.648464
+                  ]
+            },
+            {
+                  "name": "Quinta dos Pinheiros",
+                  "text": "Ein weiteres Beispiel für die traditionellen Herrenhäuser in der Stadt Funchal.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910364,
+                        32.659606
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Museu Frederico de Freitas",
+                  "text": "Frederico de Freitas ügyvéd magángyűjteményét bemutató múzeum egy történelmi házban, Funchalban.",
+                  "category": "museum",
+                  "coords": [
+                        -16.912345,
+                        32.64989
+                  ]
+            },
+            {
+                  "name": "Museu da Quinta das Cruzes",
+                  "text": "Iparművészeti múzeum Funchalban, egy egykori villában, gyönyörű kertekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913874,
+                        32.651046
+                  ]
+            },
+            {
+                  "name": "Museu da Fotografia \"Vicentes\"",
+                  "text": "Fotómúzeum Funchalban, Portugália legrégebbi fotóműtermében kialakítva.",
+                  "category": "museum",
+                  "coords": [
+                        -16.910292,
+                        32.648893
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Cidade do Açúcar",
+                  "text": "A madeira-szigeti cukoripar történetének szentelt múzeum Funchalban.",
+                  "category": "museum",
+                  "coords": [
+                        -16.907119,
+                        32.648219
+                  ]
+            },
+            {
+                  "name": "Museu CR7",
+                  "text": "Modern múzeum Funchalban, amely Cristiano Ronaldo labdarúgó pályafutásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913847,
+                        32.644118
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "A múzeum flamand festmények és vallási művészeti alkotások jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.908415,
+                        32.649309
+                  ]
+            },
+            {
+                  "name": "Museu Monte Palace",
+                  "text": "A Monte Palace Trópusi Kertben található múzeum, amely szobrokat és ásványokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.901009,
+                        32.675849
+                  ]
+            },
+            {
+                  "name": "Museu Henrique e Francisco Franco",
+                  "text": "A múzeum a Madeiráról származó Henrique és Francisco Franco testvérek munkássága előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        -16.903936,
+                        32.651517
+                  ]
+            },
+            {
+                  "name": "Fortaleza do Pico",
+                  "text": "Történelmi erőd Funchalban, amely széles panorámát kínál a városra.",
+                  "category": "fortress",
+                  "coords": [
+                        -16.916385,
+                        32.650877
+                  ]
+            },
+            {
+                  "name": "Sé do Funchal",
+                  "text": "Funchal székesegyháza egy késő gótikus épület és Portugália nemzeti műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        -16.90823,
+                        32.648216
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho",
+                  "text": "Ez a funchali plébániatemplom fontos helyi vallási központ.",
+                  "category": "religious",
+                  "coords": [
+                        -16.944039,
+                        32.64919
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Monte",
+                  "text": "Ismert zarándoktemplom Montéban, ahol az utolsó osztrák császár nyugszik.",
+                  "category": "religious",
+                  "coords": [
+                        -16.902472,
+                        32.67606
+                  ]
+            },
+            {
+                  "name": "Casino da Madeira",
+                  "text": "Az Oscar Niemeyer által tervezett kaszinó a modern építészet kiemelkedő példája.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.916082,
+                        32.643968
+                  ]
+            },
+            {
+                  "name": "Teleférico do Funchal",
+                  "text": "A felvonó összeköti Funchal központját a magasabban fekvő Monte városrésszel.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.901193,
+                        32.661339
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Baltazar Dias",
+                  "text": "Funchal történelmi városi színháza, amelyet egy ismert helyi zenészről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.911418,
+                        32.646944
+                  ]
+            },
+            {
+                  "name": "Monte Palace",
+                  "text": "Pompás birtok Funchalban, amely kiterjedt trópusi kertjeiről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -16.902826,
+                        32.673641
+                  ]
+            },
+            {
+                  "name": "Quinta Cova",
+                  "text": "Történelmi udvarház Funchalban, amely a sziget hagyományos építészetét mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -16.911083,
+                        32.655401
+                  ]
+            },
+            {
+                  "name": "Quinta da Torrinha",
+                  "text": "Hagyományos birtok Funchalban, történelmi jelleggel.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910636,
+                        32.656606
+                  ]
+            },
+            {
+                  "name": "Artes & Ofícios Tradicionais da Madeira",
+                  "text": "Központ Funchalban, amely a hagyományos madeirai kézművesség megőrzésének szentelt.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.909652,
+                        32.650711
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "Kisméretű kápolna Funchalban, amely a nyugalom és az áhítat helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        -16.910177,
+                        32.660681
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "Ez a templom fontos vallási jelkép Santo António városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        -16.938873,
+                        32.663562
+                  ]
+            },
+            {
+                  "name": "Igreja Inglesa",
+                  "text": "Anglikán templom Funchalban, amely az angol nyelvű közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -16.913873,
+                        32.649412
+                  ]
+            },
+            {
+                  "name": "Hospício da Princesa Dona Maria Amélia",
+                  "text": "Történelmi ispotály és kápolna, amelyet a császári család alapított.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915216,
+                        32.646765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Roque",
+                  "text": "São Roque plébániatemploma a hitélet központi helyszíne ebben a negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -16.923005,
+                        32.66888
+                  ]
+            },
+            {
+                  "name": "Capela da Nazaré",
+                  "text": "Kisméretű kápolna Funchalban, a Nazaréi Szűznek szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -16.934462,
+                        32.647194
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Luzia",
+                  "text": "Ez a templom Funchal Santa Luzia egyházközségének spirituális központja.",
+                  "category": "religious",
+                  "coords": [
+                        -16.908631,
+                        32.654392
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Nagy múltú templom Funchalban, amely a város kulturális örökségének része.",
+                  "category": "religious",
+                  "coords": [
+                        -16.906402,
+                        32.649813
+                  ]
+            },
+            {
+                  "name": "Igreja do Imaculado Coração de Maria",
+                  "text": "Modern plébániatemplom Funchalban, Mária Szeplőtelen Szívének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915136,
+                        32.66154
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Amparo",
+                  "text": "Kisméretű kápolna Funchalban, amely helyet biztosít az imádságnak és az elmélkedésnek.",
+                  "category": "religious",
+                  "coords": [
+                        -16.929416,
+                        32.662782
+                  ]
+            },
+            {
+                  "name": "Capela de São Paulo",
+                  "text": "Ez a kápolna egy helyi vallási épület Funchal városában.",
+                  "category": "religious",
+                  "coords": [
+                        -16.916712,
+                        32.649378
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Rosário",
+                  "text": "Történelmi kápolna, amelyet a Rózsafüzér Királynőjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -16.918474,
+                        32.669939
+                  ]
+            },
+            {
+                  "name": "Capela da Conceição",
+                  "text": "Egyszerű kápolna Funchalban, a Szeplőtelen Fogantatásnak szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -16.922063,
+                        32.663215
+                  ]
+            },
+            {
+                  "name": "Pico dos Barcelos",
+                  "text": "Népszerű kilátóhely, amely tágas kilátást nyújt a Funchali-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.939411,
+                        32.658662
+                  ]
+            },
+            {
+                  "name": "Volta da Malhada",
+                  "text": "Hegycsúcs Funchal közelében, ideális túrázásra és természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        -16.950614,
+                        32.684244
+                  ]
+            },
+            {
+                  "name": "Romeiras",
+                  "text": "Kiemelkedő magaslat Funchal környékén, kilátással a környező vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -16.946667,
+                        32.66373
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Hegycsúcs a Funchal feletti hegyvidéki tájon.",
+                  "category": "natural",
+                  "coords": [
+                        -16.951985,
+                        32.666377
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico do Palácio de São Lourenço",
+                  "text": "Ez a múzeum a São Lourenço-palotában található, és történelmi kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.91026,
+                        32.647282
+                  ]
+            },
+            {
+                  "name": "Arquivo e História Adelino Rodrigues",
+                  "text": "Funchali múzeum és archívum, amely helyi történelmi dokumentumokat és tárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -16.928487,
+                        32.64634
+                  ]
+            },
+            {
+                  "name": "Museu Imersivo da Madeira",
+                  "text": "Modern múzeum, amely immerzív technológiák segítségével teszi átélhetővé Madeira történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913245,
+                        32.648374
+                  ]
+            },
+            {
+                  "name": "MAMMA – Museu de Arte Moderna da Madeira",
+                  "text": "Modern művészeti múzeum Funchalban, amely kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -16.923966,
+                        32.643251
+                  ]
+            },
+            {
+                  "name": "Infante D. Henrique",
+                  "text": "Emlékmű Tengerész Henrik herceg tiszteletére, aki a felfedezések korának kulcsfigurája volt.",
+                  "category": "historical",
+                  "coords": [
+                        -16.91316,
+                        32.646418
+                  ]
+            },
+            {
+                  "name": "Combatente Madeirense no Ultramar",
+                  "text": "Emlékmű Funchalban a tengerentúli háborúk madeirai katonáinak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -16.934795,
+                        32.643695
+                  ]
+            },
+            {
+                  "name": "30 Anos de Autonomia",
+                  "text": "Emlékmű, amely Madeira politikai autonómiájának 30. évfordulóját ünnepli.",
+                  "category": "historical",
+                  "coords": [
+                        -16.917221,
+                        32.648464
+                  ]
+            },
+            {
+                  "name": "Quinta dos Pinheiros",
+                  "text": "Újabb példa Funchal városának hagyományos udvarházaira.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910364,
+                        32.659606
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Museu Frederico de Freitas",
+                  "text": "Un muzeu din Funchal care expune colecția privată a avocatului Frederico de Freitas într-o casă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -16.912345,
+                        32.64989
+                  ]
+            },
+            {
+                  "name": "Museu da Quinta das Cruzes",
+                  "text": "Un muzeu de arte decorative din Funchal situat într-o fostă vilă cu grădini frumoase.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913874,
+                        32.651046
+                  ]
+            },
+            {
+                  "name": "Museu da Fotografia \"Vicentes\"",
+                  "text": "Un muzeu de fotografie din Funchal găzduit în cel mai vechi studio de fotografie din Portugalia.",
+                  "category": "museum",
+                  "coords": [
+                        -16.910292,
+                        32.648893
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Cidade do Açúcar",
+                  "text": "Un muzeu din Funchal dedicat istoriei industriei zahărului de pe insula Madeira.",
+                  "category": "museum",
+                  "coords": [
+                        -16.907119,
+                        32.648219
+                  ]
+            },
+            {
+                  "name": "Museu CR7",
+                  "text": "Un muzeu modern din Funchal dedicat carierei starului de fotbal Cristiano Ronaldo.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913847,
+                        32.644118
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "Muzeul expune o colecție importantă de picturi flamande și artă religioasă.",
+                  "category": "museum",
+                  "coords": [
+                        -16.908415,
+                        32.649309
+                  ]
+            },
+            {
+                  "name": "Museu Monte Palace",
+                  "text": "Un muzeu situat în Grădina Tropicală Monte Palace, care expune sculpturi și minerale.",
+                  "category": "museum",
+                  "coords": [
+                        -16.901009,
+                        32.675849
+                  ]
+            },
+            {
+                  "name": "Museu Henrique e Francisco Franco",
+                  "text": "Muzeul onorează opera fraților Henrique și Francisco Franco, originari din Madeira.",
+                  "category": "museum",
+                  "coords": [
+                        -16.903936,
+                        32.651517
+                  ]
+            },
+            {
+                  "name": "Fortaleza do Pico",
+                  "text": "O cetate istorică din Funchal care oferă o vedere panoramică largă asupra orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -16.916385,
+                        32.650877
+                  ]
+            },
+            {
+                  "name": "Sé do Funchal",
+                  "text": "Catedrala din Funchal este o structură în stil gotic târziu și un monument național al Portugaliei.",
+                  "category": "religious",
+                  "coords": [
+                        -16.90823,
+                        32.648216
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho",
+                  "text": "Această biserică parohială din Funchal este un centru religios local important.",
+                  "category": "religious",
+                  "coords": [
+                        -16.944039,
+                        32.64919
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Monte",
+                  "text": "O cunoscută biserică de pelerinaj din Monte, unde este înmormântat ultimul împărat al Austriei.",
+                  "category": "religious",
+                  "coords": [
+                        -16.902472,
+                        32.67606
+                  ]
+            },
+            {
+                  "name": "Casino da Madeira",
+                  "text": "Cazinoul proiectat de Oscar Niemeyer este un exemplu marcant de arhitectură modernă.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.916082,
+                        32.643968
+                  ]
+            },
+            {
+                  "name": "Teleférico do Funchal",
+                  "text": "Telecabina face legătura între centrul orașului Funchal și cartierul Monte, situat la înălțime.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.901193,
+                        32.661339
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Baltazar Dias",
+                  "text": "Un teatru municipal istoric din Funchal, numit după un cunoscut muzician local.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.911418,
+                        32.646944
+                  ]
+            },
+            {
+                  "name": "Monte Palace",
+                  "text": "O proprietate splendidă din Funchal, cunoscută pentru grădinile sale tropicale vaste.",
+                  "category": "castle",
+                  "coords": [
+                        -16.902826,
+                        32.673641
+                  ]
+            },
+            {
+                  "name": "Quinta Cova",
+                  "text": "Un conac istoric din Funchal care prezintă arhitectura tradițională a insulei.",
+                  "category": "historical",
+                  "coords": [
+                        -16.911083,
+                        32.655401
+                  ]
+            },
+            {
+                  "name": "Quinta da Torrinha",
+                  "text": "O proprietate tradițională din Funchal cu caracter istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910636,
+                        32.656606
+                  ]
+            },
+            {
+                  "name": "Artes & Ofícios Tradicionais da Madeira",
+                  "text": "Un centru din Funchal dedicat conservării meșteșugurilor tradiționale din Madeira.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.909652,
+                        32.650711
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "O mică capelă din Funchal care servește ca loc de liniște și devoțiune.",
+                  "category": "religious",
+                  "coords": [
+                        -16.910177,
+                        32.660681
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "Această biserică este un reper religios important în cartierul Santo António.",
+                  "category": "religious",
+                  "coords": [
+                        -16.938873,
+                        32.663562
+                  ]
+            },
+            {
+                  "name": "Igreja Inglesa",
+                  "text": "O biserică anglicană din Funchal care deservește comunitatea de limbă engleză.",
+                  "category": "religious",
+                  "coords": [
+                        -16.913873,
+                        32.649412
+                  ]
+            },
+            {
+                  "name": "Hospício da Princesa Dona Maria Amélia",
+                  "text": "Un ospiciu istoric și o capelă, fondate de familia imperială.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915216,
+                        32.646765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Roque",
+                  "text": "Biserica parohială din São Roque este un loc central de cult în acest cartier.",
+                  "category": "religious",
+                  "coords": [
+                        -16.923005,
+                        32.66888
+                  ]
+            },
+            {
+                  "name": "Capela da Nazaré",
+                  "text": "O mică capelă din Funchal dedicată Fecioarei din Nazaré.",
+                  "category": "religious",
+                  "coords": [
+                        -16.934462,
+                        32.647194
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Luzia",
+                  "text": "Această biserică este centrul spiritual al parohiei Santa Luzia din Funchal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.908631,
+                        32.654392
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "O biserică cu tradiție din Funchal, care face parte din patrimoniul cultural al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -16.906402,
+                        32.649813
+                  ]
+            },
+            {
+                  "name": "Igreja do Imaculado Coração de Maria",
+                  "text": "O biserică parohială modernă din Funchal dedicată Inimii Neprihănite a Mariei.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915136,
+                        32.66154
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Amparo",
+                  "text": "O mică capelă din Funchal care oferă un loc pentru rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        -16.929416,
+                        32.662782
+                  ]
+            },
+            {
+                  "name": "Capela de São Paulo",
+                  "text": "Această capelă este o structură religioasă locală din orașul Funchal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.916712,
+                        32.649378
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Rosário",
+                  "text": "O capelă istorică dedicată Maicii Domnului a Rozariului.",
+                  "category": "religious",
+                  "coords": [
+                        -16.918474,
+                        32.669939
+                  ]
+            },
+            {
+                  "name": "Capela da Conceição",
+                  "text": "O capelă simplă din Funchal dedicată Neprihănitei Zămisliri.",
+                  "category": "religious",
+                  "coords": [
+                        -16.922063,
+                        32.663215
+                  ]
+            },
+            {
+                  "name": "Pico dos Barcelos",
+                  "text": "Un punct de belvedere popular care oferă o vedere largă asupra golfului Funchal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.939411,
+                        32.658662
+                  ]
+            },
+            {
+                  "name": "Volta da Malhada",
+                  "text": "Un vârf montan lângă Funchal, ideal pentru drumeții și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        -16.950614,
+                        32.684244
+                  ]
+            },
+            {
+                  "name": "Romeiras",
+                  "text": "O înălțime proeminentă în regiunea Funchal, cu vedere spre împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        -16.946667,
+                        32.66373
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "Un vârf în peisajul muntos de deasupra orașului Funchal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.951985,
+                        32.666377
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico do Palácio de São Lourenço",
+                  "text": "Acest muzeu este situat în Palatul São Lourenço și expune piese istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -16.91026,
+                        32.647282
+                  ]
+            },
+            {
+                  "name": "Arquivo e História Adelino Rodrigues",
+                  "text": "Un muzeu și arhivă din Funchal care păstrează documente și obiecte istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        -16.928487,
+                        32.64634
+                  ]
+            },
+            {
+                  "name": "Museu Imersivo da Madeira",
+                  "text": "Un muzeu modern care face istoria Madeirei accesibilă prin tehnologii imersive.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913245,
+                        32.648374
+                  ]
+            },
+            {
+                  "name": "MAMMA – Museu de Arte Moderna da Madeira",
+                  "text": "Un muzeu de artă modernă din Funchal care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -16.923966,
+                        32.643251
+                  ]
+            },
+            {
+                  "name": "Infante D. Henrique",
+                  "text": "Un monument în onoarea Prințului Henric Navigatorul, o figură cheie a epocii descoperirilor.",
+                  "category": "historical",
+                  "coords": [
+                        -16.91316,
+                        32.646418
+                  ]
+            },
+            {
+                  "name": "Combatente Madeirense no Ultramar",
+                  "text": "Un monument în Funchal dedicat memoriei soldaților din Madeira din războaiele de peste mări.",
+                  "category": "historical",
+                  "coords": [
+                        -16.934795,
+                        32.643695
+                  ]
+            },
+            {
+                  "name": "30 Anos de Autonomia",
+                  "text": "Un monument care celebrează a 30-a aniversare a autonomiei politice a Madeirei.",
+                  "category": "historical",
+                  "coords": [
+                        -16.917221,
+                        32.648464
+                  ]
+            },
+            {
+                  "name": "Quinta dos Pinheiros",
+                  "text": "Un alt exemplu de conac tradițional din orașul Funchal.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910364,
+                        32.659606
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Museu Frederico de Freitas",
+                  "text": "A museum in Funchal displaying the private collection of lawyer Frederico de Freitas in a historic house.",
+                  "category": "museum",
+                  "coords": [
+                        -16.912345,
+                        32.64989
+                  ]
+            },
+            {
+                  "name": "Museu da Quinta das Cruzes",
+                  "text": "A decorative arts museum in Funchal located in a former villa with beautiful gardens.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913874,
+                        32.651046
+                  ]
+            },
+            {
+                  "name": "Vicentes Photography Museum",
+                  "text": "A photography museum in Funchal housed in the oldest photography studio in Portugal.",
+                  "category": "museum",
+                  "coords": [
+                        -16.910292,
+                        32.648893
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico da Cidade do Açúcar",
+                  "text": "A museum in Funchal dedicated to the history of the sugar industry on Madeira island.",
+                  "category": "museum",
+                  "coords": [
+                        -16.907119,
+                        32.648219
+                  ]
+            },
+            {
+                  "name": "Museu CR7",
+                  "text": "A modern museum in Funchal dedicated to the career of football star Cristiano Ronaldo.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913847,
+                        32.644118
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Sacra",
+                  "text": "The museum exhibits a significant collection of Flemish paintings and religious art.",
+                  "category": "museum",
+                  "coords": [
+                        -16.908415,
+                        32.649309
+                  ]
+            },
+            {
+                  "name": "Museu Monte Palace",
+                  "text": "A museum located in the Monte Palace Tropical Garden, exhibiting sculptures and minerals.",
+                  "category": "museum",
+                  "coords": [
+                        -16.901009,
+                        32.675849
+                  ]
+            },
+            {
+                  "name": "Museu Henrique e Francisco Franco",
+                  "text": "The museum honors the work of the Madeiran brothers Henrique and Francisco Franco.",
+                  "category": "museum",
+                  "coords": [
+                        -16.903936,
+                        32.651517
+                  ]
+            },
+            {
+                  "name": "Fortaleza do Pico",
+                  "text": "A historic fortress in Funchal offering wide panoramic views over the city.",
+                  "category": "fortress",
+                  "coords": [
+                        -16.916385,
+                        32.650877
+                  ]
+            },
+            {
+                  "name": "Sé do Funchal",
+                  "text": "The Cathedral of Funchal is a late Gothic structure and a national monument of Portugal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.90823,
+                        32.648216
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho",
+                  "text": "This parish church in Funchal is an important local religious center.",
+                  "category": "religious",
+                  "coords": [
+                        -16.944039,
+                        32.64919
+                  ]
+            },
+            {
+                  "name": "Nossa Senhora do Monte",
+                  "text": "A well-known pilgrimage church in Monte, where the last Emperor of Austria is buried.",
+                  "category": "religious",
+                  "coords": [
+                        -16.902472,
+                        32.67606
+                  ]
+            },
+            {
+                  "name": "Casino da Madeira",
+                  "text": "The casino, designed by Oscar Niemeyer, is a striking example of modern architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.916082,
+                        32.643968
+                  ]
+            },
+            {
+                  "name": "Funchal Cable Car",
+                  "text": "The cable car connects the center of Funchal with the elevated Monte district.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.901193,
+                        32.661339
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Baltazar Dias",
+                  "text": "A historic municipal theatre in Funchal named after a well-known local musician.",
+                  "category": "landmark",
+                  "coords": [
+                        -16.911418,
+                        32.646944
+                  ]
+            },
+            {
+                  "name": "Monte Palace",
+                  "text": "A magnificent estate in Funchal known for its extensive tropical gardens.",
+                  "category": "castle",
+                  "coords": [
+                        -16.902826,
+                        32.673641
+                  ]
+            },
+            {
+                  "name": "Quinta Cova",
+                  "text": "A historic manor house in Funchal showcasing the island's traditional architecture.",
+                  "category": "historical",
+                  "coords": [
+                        -16.911083,
+                        32.655401
+                  ]
+            },
+            {
+                  "name": "Quinta da Torrinha",
+                  "text": "A traditional estate in Funchal with historical character.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910636,
+                        32.656606
+                  ]
+            },
+            {
+                  "name": "Artes & Ofícios Tradicionais da Madeira",
+                  "text": "A center in Funchal dedicated to the preservation of traditional Madeiran crafts.",
+                  "category": "cultural",
+                  "coords": [
+                        -16.909652,
+                        32.650711
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "A small chapel in Funchal serving as a place of quiet and devotion.",
+                  "category": "religious",
+                  "coords": [
+                        -16.910177,
+                        32.660681
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "This church is an important religious landmark in the Santo António district.",
+                  "category": "religious",
+                  "coords": [
+                        -16.938873,
+                        32.663562
+                  ]
+            },
+            {
+                  "name": "English Church",
+                  "text": "An Anglican church in Funchal serving the English-speaking community.",
+                  "category": "religious",
+                  "coords": [
+                        -16.913873,
+                        32.649412
+                  ]
+            },
+            {
+                  "name": "Hospício da Princesa Dona Maria Amélia",
+                  "text": "A historic hospice and chapel founded by the imperial family.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915216,
+                        32.646765
+                  ]
+            },
+            {
+                  "name": "Igreja de São Roque",
+                  "text": "The parish church of São Roque is a central place of worship in this neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        -16.923005,
+                        32.66888
+                  ]
+            },
+            {
+                  "name": "Capela da Nazaré",
+                  "text": "A small chapel in Funchal dedicated to Our Lady of Nazaré.",
+                  "category": "religious",
+                  "coords": [
+                        -16.934462,
+                        32.647194
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Luzia",
+                  "text": "This church is the spiritual center of the Santa Luzia parish in Funchal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.908631,
+                        32.654392
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "A traditional church in Funchal that is part of the city's cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        -16.906402,
+                        32.649813
+                  ]
+            },
+            {
+                  "name": "Igreja do Imaculado Coração de Maria",
+                  "text": "A modern parish church in Funchal dedicated to the Immaculate Heart of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        -16.915136,
+                        32.66154
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Amparo",
+                  "text": "A small chapel in Funchal providing a place for prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -16.929416,
+                        32.662782
+                  ]
+            },
+            {
+                  "name": "Capela de São Paulo",
+                  "text": "This chapel is a local religious structure in the city of Funchal.",
+                  "category": "religious",
+                  "coords": [
+                        -16.916712,
+                        32.649378
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora do Rosário",
+                  "text": "A historic chapel dedicated to Our Lady of the Rosary.",
+                  "category": "religious",
+                  "coords": [
+                        -16.918474,
+                        32.669939
+                  ]
+            },
+            {
+                  "name": "Capela da Conceição",
+                  "text": "A simple chapel in Funchal dedicated to the Immaculate Conception.",
+                  "category": "religious",
+                  "coords": [
+                        -16.922063,
+                        32.663215
+                  ]
+            },
+            {
+                  "name": "Pico dos Barcelos",
+                  "text": "A popular viewpoint offering a broad view over the bay of Funchal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.939411,
+                        32.658662
+                  ]
+            },
+            {
+                  "name": "Volta da Malhada",
+                  "text": "A mountain peak near Funchal, ideal for hiking and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        -16.950614,
+                        32.684244
+                  ]
+            },
+            {
+                  "name": "Romeiras",
+                  "text": "A prominent elevation in the Funchal region with views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -16.946667,
+                        32.66373
+                  ]
+            },
+            {
+                  "name": "Cardo",
+                  "text": "A peak in the mountainous landscape above Funchal.",
+                  "category": "natural",
+                  "coords": [
+                        -16.951985,
+                        32.666377
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico do Palácio de São Lourenço",
+                  "text": "This museum is located in the Palace of São Lourenço and displays historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -16.91026,
+                        32.647282
+                  ]
+            },
+            {
+                  "name": "Arquivo e História Adelino Rodrigues",
+                  "text": "A museum and archive in Funchal preserving local historical documents and objects.",
+                  "category": "museum",
+                  "coords": [
+                        -16.928487,
+                        32.64634
+                  ]
+            },
+            {
+                  "name": "Immersive Museum of Madeira",
+                  "text": "A modern museum that brings the history of Madeira to life through immersive technologies.",
+                  "category": "museum",
+                  "coords": [
+                        -16.913245,
+                        32.648374
+                  ]
+            },
+            {
+                  "name": "MAMMA – Museu de Arte Moderna da Madeira",
+                  "text": "A modern art museum in Funchal presenting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -16.923966,
+                        32.643251
+                  ]
+            },
+            {
+                  "name": "Infante D. Henrique",
+                  "text": "A monument honoring Prince Henry the Navigator, a key figure of the Age of Discovery.",
+                  "category": "historical",
+                  "coords": [
+                        -16.91316,
+                        32.646418
+                  ]
+            },
+            {
+                  "name": "Combatente Madeirense no Ultramar",
+                  "text": "A monument in Funchal commemorating the Madeiran soldiers of the overseas wars.",
+                  "category": "historical",
+                  "coords": [
+                        -16.934795,
+                        32.643695
+                  ]
+            },
+            {
+                  "name": "30 Anos de Autonomia",
+                  "text": "A monument celebrating the 30th anniversary of Madeira's political autonomy.",
+                  "category": "historical",
+                  "coords": [
+                        -16.917221,
+                        32.648464
+                  ]
+            },
+            {
+                  "name": "Quinta dos Pinheiros",
+                  "text": "Another example of the traditional manor houses in the city of Funchal.",
+                  "category": "historical",
+                  "coords": [
+                        -16.910364,
+                        32.659606
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-16.9288, 32.6669],
@@ -3524,7 +14711,520 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-mafra",
+    id: "city-mafra", "sights": {
+      "de": [
+            {
+                  "name": "Museu Nacional da Música",
+                  "text": "Das Museu Nacional da Música ist ein Museum in Mafra und beherbergt eine der wichtigsten Sammlungen historischer Musikinstrumente Europas.",
+                  "category": "museum",
+                  "coords": [
+                        -9.326887,
+                        38.937484
+                  ]
+            },
+            {
+                  "name": "Forte da Ribeira Alva",
+                  "text": "Forte da Ribeira Alva ist eine archäologische Stätte in der Stadt Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.327451,
+                        38.957642
+                  ]
+            },
+            {
+                  "name": "Forte da Murgeira",
+                  "text": "Forte da Murgeira ist eine archäologische Stätte in der Stadt Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.321103,
+                        38.965533
+                  ]
+            },
+            {
+                  "name": "Aldeia Típica de José Franco",
+                  "text": "Die Aldeia Típica de José Franco ist ein Themenpark in Mafra, der ein traditionelles portugiesisches Dorf im Miniaturformat nachbildet.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35279,
+                        38.959637
+                  ]
+            },
+            {
+                  "name": "Forte do Sonivel",
+                  "text": "Forte do Sonivel ist eine archäologische Stätte in der Stadt Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.294305,
+                        38.946022
+                  ]
+            },
+            {
+                  "name": "Forte do Samoco",
+                  "text": "Forte do Samoco ist eine archäologische Stätte in der Stadt Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.322603,
+                        38.963576
+                  ]
+            },
+            {
+                  "name": "Forte do Juncal",
+                  "text": "Forte do Juncal ist eine archäologische Stätte in der Stadt Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309892,
+                        38.940407
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Beatriz Costa",
+                  "text": "Auditorio Municipal Beatriz Costa ist ein Theater in der Stadt Mafra.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.328788,
+                        38.940111
+                  ]
+            },
+            {
+                  "name": "Tapada Nacional de Mafra",
+                  "text": "Die Tapada Nacional de Mafra ist eine Attraktion in Mafra, die ursprünglich im 18. Jahrhundert als königliches Jagdrevier angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.296534,
+                        38.952877
+                  ]
+            },
+            {
+                  "name": "Jardim do Cerco",
+                  "text": "Jardim do Cerco ist ein Park in der Stadt Mafra.",
+                  "category": "park",
+                  "coords": [
+                        -9.323238,
+                        38.937244
+                  ]
+            },
+            {
+                  "name": "Cavalo Livre",
+                  "text": "Cavalo Livre ist ein Denkmal in der Stadt Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.330354,
+                        38.941342
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Mafra",
+                  "text": "Pelourinho de Mafra ist ein Pranger in der Stadt Mafra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.333069,
+                        38.937888
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mafra",
+                  "text": "Câmara Municipal de Mafra ist das Rathaus in der Stadt Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.332011,
+                        38.940989
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo André",
+                  "text": "Die Igreja de Santo André ist eine gotische Kirche in Mafra, deren Bau zwischen dem 13. und 14. Jahrhundert begonnen wurde.",
+                  "category": "religious",
+                  "coords": [
+                        -9.337719,
+                        38.936491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Nacional da Música",
+                  "text": "A Museu Nacional da Música egy múzeum Mafrában, amely Európa egyik legjelentősebb történelmi hangszergyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -9.326887,
+                        38.937484
+                  ]
+            },
+            {
+                  "name": "Forte da Ribeira Alva",
+                  "text": "A Forte da Ribeira Alva egy régészeti lelőhely Mafra városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.327451,
+                        38.957642
+                  ]
+            },
+            {
+                  "name": "Forte da Murgeira",
+                  "text": "A Forte da Murgeira egy régészeti lelőhely Mafra városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.321103,
+                        38.965533
+                  ]
+            },
+            {
+                  "name": "Aldeia Típica de José Franco",
+                  "text": "Az Aldeia Típica de José Franco egy témapark Mafrában, amely egy hagyományos portugál falut mutat be miniatűr formában.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35279,
+                        38.959637
+                  ]
+            },
+            {
+                  "name": "Forte do Sonivel",
+                  "text": "A Forte do Sonivel egy régészeti lelőhely Mafra városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.294305,
+                        38.946022
+                  ]
+            },
+            {
+                  "name": "Forte do Samoco",
+                  "text": "A Forte do Samoco egy régészeti lelőhely Mafra városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.322603,
+                        38.963576
+                  ]
+            },
+            {
+                  "name": "Forte do Juncal",
+                  "text": "A Forte do Juncal egy régészeti lelőhely Mafra városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309892,
+                        38.940407
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Beatriz Costa",
+                  "text": "Az Auditorio Municipal Beatriz Costa egy színház Mafra városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.328788,
+                        38.940111
+                  ]
+            },
+            {
+                  "name": "Tapada Nacional de Mafra",
+                  "text": "A Tapada Nacional de Mafra egy látványosság Mafrában, amelyet eredetileg királyi vadászterületként hoztak létre a 18. században.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.296534,
+                        38.952877
+                  ]
+            },
+            {
+                  "name": "Jardim do Cerco",
+                  "text": "A Jardim do Cerco egy park Mafra városában.",
+                  "category": "park",
+                  "coords": [
+                        -9.323238,
+                        38.937244
+                  ]
+            },
+            {
+                  "name": "Cavalo Livre",
+                  "text": "A Cavalo Livre egy emlékmű Mafra városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.330354,
+                        38.941342
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Mafra",
+                  "text": "A Pelourinho de Mafra egy pellengér Mafra városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.333069,
+                        38.937888
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mafra",
+                  "text": "A Câmara Municipal de Mafra a városháza Mafra városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.332011,
+                        38.940989
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo André",
+                  "text": "Az Igreja de Santo André egy gótikus templom Mafrában, amelynek építése a 13. és 14. század között kezdődött.",
+                  "category": "religious",
+                  "coords": [
+                        -9.337719,
+                        38.936491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Nacional da Música",
+                  "text": "Museu Nacional da Música este un muzeu din Mafra care găzduiește una dintre cele mai importante colecții de instrumente muzicale istorice din Europa.",
+                  "category": "museum",
+                  "coords": [
+                        -9.326887,
+                        38.937484
+                  ]
+            },
+            {
+                  "name": "Forte da Ribeira Alva",
+                  "text": "Forte da Ribeira Alva este un sit arheologic în orașul Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.327451,
+                        38.957642
+                  ]
+            },
+            {
+                  "name": "Forte da Murgeira",
+                  "text": "Forte da Murgeira este un sit arheologic în orașul Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.321103,
+                        38.965533
+                  ]
+            },
+            {
+                  "name": "Aldeia Típica de José Franco",
+                  "text": "Aldeia Típica de José Franco este un parc tematic din Mafra care recreează un sat tradițional portughez în miniatură.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35279,
+                        38.959637
+                  ]
+            },
+            {
+                  "name": "Forte do Sonivel",
+                  "text": "Forte do Sonivel este un sit arheologic în orașul Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.294305,
+                        38.946022
+                  ]
+            },
+            {
+                  "name": "Forte do Samoco",
+                  "text": "Forte do Samoco este un sit arheologic în orașul Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.322603,
+                        38.963576
+                  ]
+            },
+            {
+                  "name": "Forte do Juncal",
+                  "text": "Forte do Juncal este un sit arheologic în orașul Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309892,
+                        38.940407
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Beatriz Costa",
+                  "text": "Auditorio Municipal Beatriz Costa este un teatru în orașul Mafra.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.328788,
+                        38.940111
+                  ]
+            },
+            {
+                  "name": "Tapada Nacional de Mafra",
+                  "text": "Tapada Nacional de Mafra este o atracție din Mafra, creată inițial ca domeniu regal de vânătoare în secolul al XVIII-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.296534,
+                        38.952877
+                  ]
+            },
+            {
+                  "name": "Jardim do Cerco",
+                  "text": "Jardim do Cerco este un parc în orașul Mafra.",
+                  "category": "park",
+                  "coords": [
+                        -9.323238,
+                        38.937244
+                  ]
+            },
+            {
+                  "name": "Cavalo Livre",
+                  "text": "Cavalo Livre este un monument în orașul Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.330354,
+                        38.941342
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Mafra",
+                  "text": "Pelourinho de Mafra este un stâlp al infamiei în orașul Mafra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.333069,
+                        38.937888
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mafra",
+                  "text": "Câmara Municipal de Mafra este primăria din orașul Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.332011,
+                        38.940989
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo André",
+                  "text": "Igreja de Santo André este o biserică gotică din Mafra, a cărei construcție a început între secolele al XIII-lea și al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -9.337719,
+                        38.936491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Nacional da Música",
+                  "text": "The Museu Nacional da Música is a museum in Mafra housing one of Europe's most important collections of historical musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        -9.326887,
+                        38.937484
+                  ]
+            },
+            {
+                  "name": "Forte da Ribeira Alva",
+                  "text": "Forte da Ribeira Alva is an archaeological site in the city of Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.327451,
+                        38.957642
+                  ]
+            },
+            {
+                  "name": "Forte da Murgeira",
+                  "text": "Forte da Murgeira is an archaeological site in the city of Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.321103,
+                        38.965533
+                  ]
+            },
+            {
+                  "name": "Aldeia Típica de José Franco",
+                  "text": "The Aldeia Típica de José Franco is a theme park in Mafra recreating a traditional Portuguese village in miniature.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.35279,
+                        38.959637
+                  ]
+            },
+            {
+                  "name": "Forte do Sonivel",
+                  "text": "Forte do Sonivel is an archaeological site in the city of Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.294305,
+                        38.946022
+                  ]
+            },
+            {
+                  "name": "Forte do Samoco",
+                  "text": "Forte do Samoco is an archaeological site in the city of Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.322603,
+                        38.963576
+                  ]
+            },
+            {
+                  "name": "Forte do Juncal",
+                  "text": "Forte do Juncal is an archaeological site in the city of Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.309892,
+                        38.940407
+                  ]
+            },
+            {
+                  "name": "Auditorio Municipal Beatriz Costa",
+                  "text": "Auditorio Municipal Beatriz Costa is a theatre in the city of Mafra.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.328788,
+                        38.940111
+                  ]
+            },
+            {
+                  "name": "Tapada Nacional de Mafra",
+                  "text": "The Tapada Nacional de Mafra is an attraction in Mafra that was originally created in the 18th century as a royal hunting ground.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.296534,
+                        38.952877
+                  ]
+            },
+            {
+                  "name": "Jardim do Cerco",
+                  "text": "Jardim do Cerco is a park in the city of Mafra.",
+                  "category": "park",
+                  "coords": [
+                        -9.323238,
+                        38.937244
+                  ]
+            },
+            {
+                  "name": "Cavalo Livre",
+                  "text": "Cavalo Livre is a monument in the city of Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.330354,
+                        38.941342
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Mafra",
+                  "text": "Pelourinho de Mafra is a pillory in the city of Mafra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.333069,
+                        38.937888
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Mafra",
+                  "text": "Câmara Municipal de Mafra is the town hall in the city of Mafra.",
+                  "category": "historical",
+                  "coords": [
+                        -9.332011,
+                        38.940989
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo André",
+                  "text": "The Igreja de Santo André is a Gothic church in Mafra that began construction between the 13th and 14th centuries.",
+                  "category": "religious",
+                  "coords": [
+                        -9.337719,
+                        38.936491
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-9.3273, 38.9411],
@@ -3568,7 +15268,340 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-obidos",
+    id: "city-obidos", "sights": {
+      "de": [
+            {
+                  "name": "Cidade Romana de Eburobrittium",
+                  "text": "Eine archäologische Stätte bei Óbidos mit den Überresten einer römischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140926,
+                        39.364525
+                  ]
+            },
+            {
+                  "name": "Museu Abílio de Mattos e Silva",
+                  "text": "Ein Museum in Óbidos, das dem Werk des Künstlers Abílio de Mattos e Silva gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.156734,
+                        39.36167
+                  ]
+            },
+            {
+                  "name": "Museu Paroquial",
+                  "text": "Ein Museum in Óbidos, das religiöse Kunst und die Geschichte der lokalen Gemeinde zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15814,
+                        39.358637
+                  ]
+            },
+            {
+                  "name": "Padrão Camoniano",
+                  "text": "Ein Denkmal in der Stadt Óbidos zu Ehren des berühmten portugiesischen Dichters Camões.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.157803,
+                        39.359705
+                  ]
+            },
+            {
+                  "name": "Miradouro Jogo da Bola",
+                  "text": "Ein Aussichtspunkt in Óbidos mit einem angenehmen Ausblick auf die Umgebung der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.158193,
+                        39.361098
+                  ]
+            },
+            {
+                  "name": "Termas",
+                  "text": "Die Ruinen antiker römischer Bäder, die in der Nähe von Óbidos entdeckt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140024,
+                        39.364078
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Usseira",
+                  "text": "Ein steinerner Aquädukt, der Óbidos historisch mit Wasser versorgte.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.156205,
+                        39.355036
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Carmo",
+                  "text": "Eine kleine religiöse Kapelle in Óbidos, die Unserer Lieben Frau vom Berge Karmel gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -9.158757,
+                        39.363209
+                  ]
+            },
+            {
+                  "name": "Santuário do Senhor Jesus da Pedra",
+                  "text": "Ein einzigartiges hexagonales Heiligtum direkt vor den Mauern von Óbidos.",
+                  "category": "religious",
+                  "coords": [
+                        -9.149966,
+                        39.364597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cidade Romana de Eburobrittium",
+                  "text": "Régészeti lelőhely Óbidos közelében, amely egy római város maradványait tartalmazza.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140926,
+                        39.364525
+                  ]
+            },
+            {
+                  "name": "Museu Abílio de Mattos e Silva",
+                  "text": "Óbidosi múzeum, amely Abílio de Mattos e Silva művész munkásságának szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        -9.156734,
+                        39.36167
+                  ]
+            },
+            {
+                  "name": "Museu Paroquial",
+                  "text": "Óbidosi múzeum, amely egyházművészetet és a helyi plébánia történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15814,
+                        39.358637
+                  ]
+            },
+            {
+                  "name": "Padrão Camoniano",
+                  "text": "Óbidos városában található emlékmű a híres portugál költő, Camões tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.157803,
+                        39.359705
+                  ]
+            },
+            {
+                  "name": "Miradouro Jogo da Bola",
+                  "text": "Kilátópont Óbidosban, ahonnan kellemes kilátás nyílik a város környékére.",
+                  "category": "natural",
+                  "coords": [
+                        -9.158193,
+                        39.361098
+                  ]
+            },
+            {
+                  "name": "Termas",
+                  "text": "Óbidos környékén felfedezett ókori római fürdők romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140024,
+                        39.364078
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Usseira",
+                  "text": "Kőből készült akvadukt, amely történelmileg Óbidos vízellátását biztosította.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.156205,
+                        39.355036
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Carmo",
+                  "text": "Kisméretű vallási kápolna Óbidosban, amelyet a Karmelhegyi Boldogasszonynak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -9.158757,
+                        39.363209
+                  ]
+            },
+            {
+                  "name": "Santuário do Senhor Jesus da Pedra",
+                  "text": "Különleges, hatszögletű szentély közvetlenül Óbidos falain kívül.",
+                  "category": "religious",
+                  "coords": [
+                        -9.149966,
+                        39.364597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cidade Romana de Eburobrittium",
+                  "text": "Un sit arheologic lângă Óbidos care conține rămășițele unui oraș roman.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140926,
+                        39.364525
+                  ]
+            },
+            {
+                  "name": "Museu Abílio de Mattos e Silva",
+                  "text": "Un muzeu din Óbidos dedicat operei artistului Abílio de Mattos e Silva.",
+                  "category": "museum",
+                  "coords": [
+                        -9.156734,
+                        39.36167
+                  ]
+            },
+            {
+                  "name": "Museu Paroquial",
+                  "text": "Un muzeu din Óbidos care prezintă artă religioasă și istoria parohiei locale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15814,
+                        39.358637
+                  ]
+            },
+            {
+                  "name": "Padrão Camoniano",
+                  "text": "Un monument din orașul Óbidos care îl onorează pe faimosul poet portughez Camões.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.157803,
+                        39.359705
+                  ]
+            },
+            {
+                  "name": "Miradouro Jogo da Bola",
+                  "text": "Un punct de observare din Óbidos care oferă o perspectivă plăcută asupra împrejurimilor orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -9.158193,
+                        39.361098
+                  ]
+            },
+            {
+                  "name": "Termas",
+                  "text": "Ruinele unor băi romane antice descoperite în vecinătatea orașului Óbidos.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140024,
+                        39.364078
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Usseira",
+                  "text": "Un apeduct de piatră care a furnizat istoric apă orașului Óbidos.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.156205,
+                        39.355036
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Carmo",
+                  "text": "O mică chapelă religioasă din Óbidos dedicată Maicii Domnului de pe Muntele Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -9.158757,
+                        39.363209
+                  ]
+            },
+            {
+                  "name": "Santuário do Senhor Jesus da Pedra",
+                  "text": "Un sanctuar hexagonal unic situat chiar în afara zidurilor orașului Óbidos.",
+                  "category": "religious",
+                  "coords": [
+                        -9.149966,
+                        39.364597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cidade Romana de Eburobrittium",
+                  "text": "An archaeological site near Óbidos containing the remains of a Roman city.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140926,
+                        39.364525
+                  ]
+            },
+            {
+                  "name": "Abílio de Mattos e Silva Museum",
+                  "text": "A museum in Óbidos dedicated to the work of artist Abílio de Mattos e Silva.",
+                  "category": "museum",
+                  "coords": [
+                        -9.156734,
+                        39.36167
+                  ]
+            },
+            {
+                  "name": "Parish Museum",
+                  "text": "A museum in Óbidos showcasing religious art and local parish history.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15814,
+                        39.358637
+                  ]
+            },
+            {
+                  "name": "Camões Monument",
+                  "text": "A monument in the town of Óbidos honoring the famous Portuguese poet Camões.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.157803,
+                        39.359705
+                  ]
+            },
+            {
+                  "name": "Miradouro Jogo da Bola",
+                  "text": "A viewpoint in Óbidos offering a pleasant outlook over the town's surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -9.158193,
+                        39.361098
+                  ]
+            },
+            {
+                  "name": "Termas",
+                  "text": "The ruins of ancient Roman baths discovered in the vicinity of Óbidos.",
+                  "category": "historical",
+                  "coords": [
+                        -9.140024,
+                        39.364078
+                  ]
+            },
+            {
+                  "name": "Aqueduto da Usseira",
+                  "text": "A stone aqueduct that historically supplied water to the town of Óbidos.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.156205,
+                        39.355036
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Carmo",
+                  "text": "A small religious chapel in Óbidos dedicated to Our Lady of Carmel.",
+                  "category": "religious",
+                  "coords": [
+                        -9.158757,
+                        39.363209
+                  ]
+            },
+            {
+                  "name": "Santuário do Senhor Jesus da Pedra",
+                  "text": "A unique hexagonal sanctuary located just outside the walls of Óbidos.",
+                  "category": "religious",
+                  "coords": [
+                        -9.149966,
+                        39.364597
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-9.1578, 39.3606],
@@ -3656,7 +15689,1060 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-viana-do-castelo",
+    id: "city-viana-do-castelo", "sights": {
+      "de": [
+            {
+                  "name": "Farol da Senhora da Agonia",
+                  "text": "Farol da Senhora da Agonia ist ein Leuchtturm in der Stadt Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.837798,
+                        41.693205
+                  ]
+            },
+            {
+                  "name": "Forte de Santiago da Barra",
+                  "text": "Forte de Santiago da Barra ist ein Fort in Viana do Castelo, das ursprünglich zur Verteidigung der Flussmündung des Lima errichtet wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.838174,
+                        41.689006
+                  ]
+            },
+            {
+                  "name": "Citânia de Santa Luzia",
+                  "text": "Die Citânia de Santa Luzia ist eine archäologische Stätte in Viana do Castelo, die für ihre gut erhaltenen Überreste einer eisenzeitlichen Siedlung bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835595,
+                        41.705334
+                  ]
+            },
+            {
+                  "name": "Museu de Artes Decorativas",
+                  "text": "Museu de Artes Decorativas ist ein Museum in der Stadt Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.833447,
+                        41.692054
+                  ]
+            },
+            {
+                  "name": "Museu do Traje",
+                  "text": "Museu do Traje ist ein Museum in der Stadt Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.828728,
+                        41.692783
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico de Santa Luzia",
+                  "text": "Núcleo Museológico de Santa Luzia ist ein Museum in der Stadt Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.835291,
+                        41.701633
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré das Azenhas de D. Prior",
+                  "text": "Moinho de Maré das Azenhas de D. Prior ist ein Museum in der Stadt Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.8178,
+                        41.696947
+                  ]
+            },
+            {
+                  "name": "Praia do Coral",
+                  "text": "Praia do Coral ist ein Strand in der Stadt Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845341,
+                        41.682905
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Viana do Castelo",
+                  "text": "Praia Fluvial de Viana do Castelo ist ein Strand in der Stadt Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814407,
+                        41.695845
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Sá de Miranda",
+                  "text": "Teatro Municipal Sá de Miranda ist ein Theater in der Stadt Viana do Castelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828728,
+                        41.695812
+                  ]
+            },
+            {
+                  "name": "Casa da Praça",
+                  "text": "Casa da Praça ist ein Schloss in der Stadt Viana do Castelo.",
+                  "category": "castle",
+                  "coords": [
+                        -8.827261,
+                        41.693879
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "Praia do Cabedelo ist ein Strand in der Stadt Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825128,
+                        41.661849
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "Praia do Aquário ist ein Strand in der Stadt Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83373,
+                        41.683005
+                  ]
+            },
+            {
+                  "name": "Convento de São Francisco do Monte",
+                  "text": "Convento de São Francisco do Monte ist ein Kloster in der Stadt Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825678,
+                        41.716608
+                  ]
+            },
+            {
+                  "name": "Elevador de Santa Luzia",
+                  "text": "Der Elevador de Santa Luzia ist eine Standseilbahn in Viana do Castelo, die die Stadt mit dem Heiligtum auf dem Berg Santa Luzia verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.831224,
+                        41.698013
+                  ]
+            },
+            {
+                  "name": "Casa dos Werneck",
+                  "text": "Casa dos Werneck ist eine Attraktion in der Stadt Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830235,
+                        41.694931
+                  ]
+            },
+            {
+                  "name": "Palácio dos Cunhas",
+                  "text": "Palácio dos Cunhas ist eine Attraktion in der Stadt Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.824453,
+                        41.69637
+                  ]
+            },
+            {
+                  "name": "Casa dos Alpuim",
+                  "text": "Casa dos Alpuim ist ein Herrenhaus in der Stadt Viana do Castelo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.829252,
+                        41.694526
+                  ]
+            },
+            {
+                  "name": "Praia Norte",
+                  "text": "Praia Norte ist ein Aussichtspunkt in der Stadt Viana do Castelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.849906,
+                        41.694963
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "Miradouro de Santa Luzia ist ein Aussichtspunkt in der Stadt Viana do Castelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.834256,
+                        41.701262
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Viana do Castelo",
+                  "text": "Centro Cultural de Viana do Castelo ist ein Kunstzentrum in der Stadt Viana do Castelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828843,
+                        41.69022
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "Fabrica ist eine Ruine in der Stadt Viana do Castelo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.8108,
+                        41.696599
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Igreja do Carmo ist eine Kultstätte in der Stadt Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.823123,
+                        41.696704
+                  ]
+            },
+            {
+                  "name": "Navio Hospital Gil Eanes",
+                  "text": "Das Navio Hospital Gil Eanes ist ein ehemaliges Hospitalschiff in Viana do Castelo, das heute als Museum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830315,
+                        41.690128
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "Igreja de Santo António ist eine Kultstätte in der Stadt Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.828149,
+                        41.697858
+                  ]
+            },
+            {
+                  "name": "Igreja de S. Bento",
+                  "text": "Igreja de S. Bento ist eine Kultstätte in der Stadt Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.824017,
+                        41.694772
+                  ]
+            },
+            {
+                  "name": "Igreja das Almas",
+                  "text": "Die Igreja das Almas ist eine Kirche in Viana do Castelo, die historisch auch als Matriz Velha bekannt war.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825224,
+                        41.694422
+                  ]
+            },
+            {
+                  "name": "Capela de Santa Catarina",
+                  "text": "Capela de Santa Catarina ist eine Kultstätte in der Stadt Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.83468,
+                        41.689512
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Cruz",
+                  "text": "Die Igreja de Santa Cruz ist eine lokale Kultstätte in Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.834402,
+                        41.691451
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farol da Senhora da Agonia",
+                  "text": "A Farol da Senhora da Agonia egy világítótorony Viana do Castelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.837798,
+                        41.693205
+                  ]
+            },
+            {
+                  "name": "Forte de Santiago da Barra",
+                  "text": "A Forte de Santiago da Barra egy erőd Viana do Castelo városában, amelyet a Lima folyó torkolatának védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.838174,
+                        41.689006
+                  ]
+            },
+            {
+                  "name": "Citânia de Santa Luzia",
+                  "text": "A Citânia de Santa Luzia egy régészeti lelőhely Viana do Castelo városában, amely egy vaskori település jól megőrzött maradványairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835595,
+                        41.705334
+                  ]
+            },
+            {
+                  "name": "Museu de Artes Decorativas",
+                  "text": "A Museu de Artes Decorativas egy múzeum Viana do Castelo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.833447,
+                        41.692054
+                  ]
+            },
+            {
+                  "name": "Museu do Traje",
+                  "text": "A Museu do Traje egy múzeum Viana do Castelo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.828728,
+                        41.692783
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico de Santa Luzia",
+                  "text": "A Núcleo Museológico de Santa Luzia egy múzeum Viana do Castelo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.835291,
+                        41.701633
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré das Azenhas de D. Prior",
+                  "text": "A Moinho de Maré das Azenhas de D. Prior egy múzeum Viana do Castelo városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.8178,
+                        41.696947
+                  ]
+            },
+            {
+                  "name": "Praia do Coral",
+                  "text": "A Praia do Coral egy strand Viana do Castelo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845341,
+                        41.682905
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Viana do Castelo",
+                  "text": "A Praia Fluvial de Viana do Castelo egy strand Viana do Castelo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814407,
+                        41.695845
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Sá de Miranda",
+                  "text": "A Teatro Municipal Sá de Miranda egy színház Viana do Castelo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828728,
+                        41.695812
+                  ]
+            },
+            {
+                  "name": "Casa da Praça",
+                  "text": "A Casa da Praça egy kastély Viana do Castelo városában.",
+                  "category": "castle",
+                  "coords": [
+                        -8.827261,
+                        41.693879
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "A Praia do Cabedelo egy strand Viana do Castelo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825128,
+                        41.661849
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "A Praia do Aquário egy strand Viana do Castelo városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83373,
+                        41.683005
+                  ]
+            },
+            {
+                  "name": "Convento de São Francisco do Monte",
+                  "text": "A Convento de São Francisco do Monte egy kolostor Viana do Castelo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825678,
+                        41.716608
+                  ]
+            },
+            {
+                  "name": "Elevador de Santa Luzia",
+                  "text": "Az Elevador de Santa Luzia egy sikló Viana do Castelo városában, amely összeköti a várost a Santa Luzia-hegyen lévő szentéllyel.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.831224,
+                        41.698013
+                  ]
+            },
+            {
+                  "name": "Casa dos Werneck",
+                  "text": "A Casa dos Werneck egy látványosság Viana do Castelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830235,
+                        41.694931
+                  ]
+            },
+            {
+                  "name": "Palácio dos Cunhas",
+                  "text": "A Palácio dos Cunhas egy látványosság Viana do Castelo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.824453,
+                        41.69637
+                  ]
+            },
+            {
+                  "name": "Casa dos Alpuim",
+                  "text": "A Casa dos Alpuim egy udvarház Viana do Castelo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.829252,
+                        41.694526
+                  ]
+            },
+            {
+                  "name": "Praia Norte",
+                  "text": "A Praia Norte egy kilátó Viana do Castelo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -8.849906,
+                        41.694963
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "A Miradouro de Santa Luzia egy kilátó Viana do Castelo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -8.834256,
+                        41.701262
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Viana do Castelo",
+                  "text": "A Centro Cultural de Viana do Castelo egy művészeti központ Viana do Castelo városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828843,
+                        41.69022
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "A Fabrica egy rom Viana do Castelo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.8108,
+                        41.696599
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Az Igreja do Carmo egy istentiszteleti hely Viana do Castelo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.823123,
+                        41.696704
+                  ]
+            },
+            {
+                  "name": "Navio Hospital Gil Eanes",
+                  "text": "A Navio Hospital Gil Eanes egy egykori kórházhajó Viana do Castelo városában, amely ma múzeumként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830315,
+                        41.690128
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "Az Igreja de Santo António egy istentiszteleti hely Viana do Castelo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.828149,
+                        41.697858
+                  ]
+            },
+            {
+                  "name": "Igreja de S. Bento",
+                  "text": "Az Igreja de S. Bento egy istentiszteleti hely Viana do Castelo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.824017,
+                        41.694772
+                  ]
+            },
+            {
+                  "name": "Igreja das Almas",
+                  "text": "Az Igreja das Almas egy templom Viana do Castelo városában, amely történelmileg Matriz Velha néven is ismert volt.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825224,
+                        41.694422
+                  ]
+            },
+            {
+                  "name": "Capela de Santa Catarina",
+                  "text": "A Capela de Santa Catarina egy istentiszteleti hely Viana do Castelo városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.83468,
+                        41.689512
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Cruz",
+                  "text": "Az Igreja de Santa Cruz egy helyi imahely Viana do Castelóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.834402,
+                        41.691451
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farol da Senhora da Agonia",
+                  "text": "Farol da Senhora da Agonia este un far în orașul Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.837798,
+                        41.693205
+                  ]
+            },
+            {
+                  "name": "Forte de Santiago da Barra",
+                  "text": "Forte de Santiago da Barra este un fort din Viana do Castelo construit inițial pentru a apăra gura râului Lima.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.838174,
+                        41.689006
+                  ]
+            },
+            {
+                  "name": "Citânia de Santa Luzia",
+                  "text": "Citânia de Santa Luzia este un sit arheologic din Viana do Castelo cunoscut pentru ruinele bine conservate ale unei așezări din Epoca Fierului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835595,
+                        41.705334
+                  ]
+            },
+            {
+                  "name": "Museu de Artes Decorativas",
+                  "text": "Museu de Artes Decorativas este un muzeu în orașul Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.833447,
+                        41.692054
+                  ]
+            },
+            {
+                  "name": "Museu do Traje",
+                  "text": "Museu do Traje este un muzeu în orașul Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.828728,
+                        41.692783
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico de Santa Luzia",
+                  "text": "Núcleo Museológico de Santa Luzia este un muzeu în orașul Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.835291,
+                        41.701633
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré das Azenhas de D. Prior",
+                  "text": "Moinho de Maré das Azenhas de D. Prior este un muzeu în orașul Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.8178,
+                        41.696947
+                  ]
+            },
+            {
+                  "name": "Praia do Coral",
+                  "text": "Praia do Coral este o plajă în orașul Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845341,
+                        41.682905
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Viana do Castelo",
+                  "text": "Praia Fluvial de Viana do Castelo este o plajă în orașul Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814407,
+                        41.695845
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Sá de Miranda",
+                  "text": "Teatro Municipal Sá de Miranda este un teatru în orașul Viana do Castelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828728,
+                        41.695812
+                  ]
+            },
+            {
+                  "name": "Casa da Praça",
+                  "text": "Casa da Praça este un castel în orașul Viana do Castelo.",
+                  "category": "castle",
+                  "coords": [
+                        -8.827261,
+                        41.693879
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "Praia do Cabedelo este o plajă în orașul Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825128,
+                        41.661849
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "Praia do Aquário este o plajă în orașul Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83373,
+                        41.683005
+                  ]
+            },
+            {
+                  "name": "Convento de São Francisco do Monte",
+                  "text": "Convento de São Francisco do Monte este o mănăstire în orașul Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825678,
+                        41.716608
+                  ]
+            },
+            {
+                  "name": "Elevador de Santa Luzia",
+                  "text": "Elevador de Santa Luzia este un funicular din Viana do Castelo care leagă orașul de sanctuarul de pe Muntele Santa Luzia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.831224,
+                        41.698013
+                  ]
+            },
+            {
+                  "name": "Casa dos Werneck",
+                  "text": "Casa dos Werneck este o atracție în orașul Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830235,
+                        41.694931
+                  ]
+            },
+            {
+                  "name": "Palácio dos Cunhas",
+                  "text": "Palácio dos Cunhas este o atracție în orașul Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.824453,
+                        41.69637
+                  ]
+            },
+            {
+                  "name": "Casa dos Alpuim",
+                  "text": "Casa dos Alpuim este un conac în orașul Viana do Castelo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.829252,
+                        41.694526
+                  ]
+            },
+            {
+                  "name": "Praia Norte",
+                  "text": "Praia Norte este un punct de belvedere în orașul Viana do Castelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.849906,
+                        41.694963
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "Miradouro de Santa Luzia este un punct de belvedere în orașul Viana do Castelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.834256,
+                        41.701262
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Viana do Castelo",
+                  "text": "Centro Cultural de Viana do Castelo este un centru de arte în orașul Viana do Castelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828843,
+                        41.69022
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "Fabrica este o ruine în orașul Viana do Castelo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.8108,
+                        41.696599
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Igreja do Carmo este un lăcaș de cult în orașul Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.823123,
+                        41.696704
+                  ]
+            },
+            {
+                  "name": "Navio Hospital Gil Eanes",
+                  "text": "Navio Hospital Gil Eanes este o fostă navă-spital din Viana do Castelo care servește acum ca muzeu.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830315,
+                        41.690128
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "Igreja de Santo António este un lăcaș de cult în orașul Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.828149,
+                        41.697858
+                  ]
+            },
+            {
+                  "name": "Igreja de S. Bento",
+                  "text": "Igreja de S. Bento este un lăcaș de cult în orașul Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.824017,
+                        41.694772
+                  ]
+            },
+            {
+                  "name": "Igreja das Almas",
+                  "text": "Igreja das Almas este o biserică din Viana do Castelo, cunoscută istoric și sub numele de Matriz Velha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825224,
+                        41.694422
+                  ]
+            },
+            {
+                  "name": "Capela de Santa Catarina",
+                  "text": "Capela de Santa Catarina este un lăcaș de cult în orașul Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.83468,
+                        41.689512
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Cruz",
+                  "text": "Igreja de Santa Cruz este un lăcaș de cult local din Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.834402,
+                        41.691451
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farol da Senhora da Agonia",
+                  "text": "Farol da Senhora da Agonia is a lighthouse in the city of Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.837798,
+                        41.693205
+                  ]
+            },
+            {
+                  "name": "Forte de Santiago da Barra",
+                  "text": "Forte de Santiago da Barra is a fort in Viana do Castelo originally constructed to defend the mouth of the Lima River.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.838174,
+                        41.689006
+                  ]
+            },
+            {
+                  "name": "Citânia de Santa Luzia",
+                  "text": "The Citânia de Santa Luzia is an archaeological site in Viana do Castelo known for the well-preserved remains of an Iron Age settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -8.835595,
+                        41.705334
+                  ]
+            },
+            {
+                  "name": "Museu de Artes Decorativas",
+                  "text": "Museu de Artes Decorativas is a museum in the city of Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.833447,
+                        41.692054
+                  ]
+            },
+            {
+                  "name": "Museu do Traje",
+                  "text": "Museu do Traje is a museum in the city of Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.828728,
+                        41.692783
+                  ]
+            },
+            {
+                  "name": "Núcleo Museológico de Santa Luzia",
+                  "text": "Núcleo Museológico de Santa Luzia is a museum in the city of Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.835291,
+                        41.701633
+                  ]
+            },
+            {
+                  "name": "Moinho de Maré das Azenhas de D. Prior",
+                  "text": "Moinho de Maré das Azenhas de D. Prior is a museum in the city of Viana do Castelo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.8178,
+                        41.696947
+                  ]
+            },
+            {
+                  "name": "Praia do Coral",
+                  "text": "Praia do Coral is a beach in the city of Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.845341,
+                        41.682905
+                  ]
+            },
+            {
+                  "name": "Praia Fluvial de Viana do Castelo",
+                  "text": "Praia Fluvial de Viana do Castelo is a beach in the city of Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.814407,
+                        41.695845
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Sá de Miranda",
+                  "text": "Teatro Municipal Sá de Miranda is a theatre in the city of Viana do Castelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828728,
+                        41.695812
+                  ]
+            },
+            {
+                  "name": "Casa da Praça",
+                  "text": "Casa da Praça is a castle in the city of Viana do Castelo.",
+                  "category": "castle",
+                  "coords": [
+                        -8.827261,
+                        41.693879
+                  ]
+            },
+            {
+                  "name": "Praia do Cabedelo",
+                  "text": "Praia do Cabedelo is a beach in the city of Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.825128,
+                        41.661849
+                  ]
+            },
+            {
+                  "name": "Praia do Aquário",
+                  "text": "Praia do Aquário is a beach in the city of Viana do Castelo.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.83373,
+                        41.683005
+                  ]
+            },
+            {
+                  "name": "Convento de São Francisco do Monte",
+                  "text": "Convento de São Francisco do Monte is a monastery in the city of Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825678,
+                        41.716608
+                  ]
+            },
+            {
+                  "name": "Elevador de Santa Luzia",
+                  "text": "The Elevador de Santa Luzia is a funicular railway in Viana do Castelo connecting the city to the sanctuary on Mount Santa Luzia.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.831224,
+                        41.698013
+                  ]
+            },
+            {
+                  "name": "Casa dos Werneck",
+                  "text": "Casa dos Werneck is an attraction in the city of Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830235,
+                        41.694931
+                  ]
+            },
+            {
+                  "name": "Palácio dos Cunhas",
+                  "text": "Palácio dos Cunhas is an attraction in the city of Viana do Castelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.824453,
+                        41.69637
+                  ]
+            },
+            {
+                  "name": "Casa dos Alpuim",
+                  "text": "Casa dos Alpuim is a manor in the city of Viana do Castelo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.829252,
+                        41.694526
+                  ]
+            },
+            {
+                  "name": "Praia Norte",
+                  "text": "Praia Norte is a viewpoint in the city of Viana do Castelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.849906,
+                        41.694963
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "Miradouro de Santa Luzia is a viewpoint in the city of Viana do Castelo.",
+                  "category": "natural",
+                  "coords": [
+                        -8.834256,
+                        41.701262
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Viana do Castelo",
+                  "text": "Centro Cultural de Viana do Castelo is an arts centre in the city of Viana do Castelo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.828843,
+                        41.69022
+                  ]
+            },
+            {
+                  "name": "Fabrica",
+                  "text": "Fabrica is ruins in the city of Viana do Castelo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.8108,
+                        41.696599
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Igreja do Carmo is a place of worship in the city of Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.823123,
+                        41.696704
+                  ]
+            },
+            {
+                  "name": "Navio Hospital Gil Eanes",
+                  "text": "The Navio Hospital Gil Eanes is a former hospital ship in Viana do Castelo that now serves as a museum.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.830315,
+                        41.690128
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António",
+                  "text": "Igreja de Santo António is a place of worship in the city of Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.828149,
+                        41.697858
+                  ]
+            },
+            {
+                  "name": "Igreja de S. Bento",
+                  "text": "Igreja de S. Bento is a place of worship in the city of Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.824017,
+                        41.694772
+                  ]
+            },
+            {
+                  "name": "Igreja das Almas",
+                  "text": "The Igreja das Almas is a church in Viana do Castelo that was historically known as the Matriz Velha.",
+                  "category": "religious",
+                  "coords": [
+                        -8.825224,
+                        41.694422
+                  ]
+            },
+            {
+                  "name": "Capela de Santa Catarina",
+                  "text": "Capela de Santa Catarina is a place of worship in the city of Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.83468,
+                        41.689512
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Cruz",
+                  "text": "The Igreja de Santa Cruz is a local place of worship in Viana do Castelo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.834402,
+                        41.691451
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.8291, 41.6932],
@@ -3700,7 +16786,844 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-tavira",
+    id: "city-tavira", "sights": {
+      "de": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "Ein ruhiger und schmaler Strand auf der malerischen Insel Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "Die Ruinen einer Küstenfestung aus dem 18. Jahrhundert, die den Fluss Gilão in Tavira bewachte.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "Eine archäologische Stätte in Tavira mit den Überresten eines islamischen Wohnviertels.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "Ein Museum in Tavira, das dem islamischen Erbe und der Geschichte der Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva de Tavira",
+                  "text": "Ein interaktives Wissenschaftszentrum in Tavira in einem ehemaligen Wasserpumpwerk.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "Ein beliebter Sandstrand auf der Insel Tavira, erreichbar mit dem Boot von der Stadt aus.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.620998,
+                        37.109911
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Ein Küstenstrandabschnitt in Tavira an der Mündung des Flusses ins Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "Ein Sandstrand in Tavira in der Nähe der Überreste einer alten Verteidigungsfestung.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Das städtische Hauptmuseum von Tavira, das die lokale Geschichte und Kunst erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "Ein malerischer Strand in der Küstenstadt Tavira an der Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museu da Antiga Armação de Pesca do Atum",
+                  "text": "Ein Museum in Tavira, das der Geschichte des traditionellen Thunfischfangs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "Ein lokaler Park in Tavira, der als erholsame Grünanlage dient.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "Ein Kulturzentrum in Tavira, das verschiedene Kunstausstellungen und Veranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "Ein Veranstaltungsort in Tavira, der für lokale Messen und Ausstellungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "Ein malerischer Platz in Tavira, der als Aussichtspunkt auf die Umgebung dient.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "Eine religiöse Stätte in Tavira, die traditionell mit der Seefahrergemeinschaft verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "Eine kleine Kapelle in Tavira, die dem Heiligen Sebastian gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "Eine historische Kirche in Tavira, die ursprünglich zu einem Franziskanerkloster gehörte.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "Die Kirche eines ehemaligen Klosters in Tavira, die der religiösen Geschichte der Region gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "Eine kleine Kapelle in Tavira, die für ihre ruhige Atmosphäre und religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "Eine dem Heiligen Rochus gewidmete Kapelle in Tavira, die als lokales Kulturdenkmal gilt.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "Eine kleine religiöse Kapelle in Tavira, die der Muttergottes der Ängste gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "Eine dem religiösen Gebet gewidmete Kapelle in der Umgebung von Tavira.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "Csendes és keskeny strand a festői Tavira-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "Egy 18. századi tengerparti erőd romjai, amely a Gilão-folyót őrizte Taviránál.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "Régészeti lelőhely Taviránál, amely egy iszlám lakónegyed maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "Tavira múzeuma, amelyet a város iszlám örökségének és történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva de Tavira",
+                  "text": "Interaktív tudományos központ Taviránál, egy egykori szivattyúállomás épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "Népszerű homokos strand a Tavira-szigeten, amely hajóval érhető el a városból.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.620998,
+                        37.109911
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "Tavira-i tengerparti strandrész ott, ahol a folyó a tengerrel találkozik.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "Homokos strand Taviránál, egy régi védelmi erőd maradványai közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Tavira központi városi múzeuma, amely a helyi történelmet és művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "Festői tengerparti strand Tavira városában, az Algarve-parton.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museu da Antiga Armação de Pesca do Atum",
+                  "text": "A hagyományos tonhalhalászat történetét bemutató múzeum Tavira városában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "Helyi park Tavira városában, amely pihenésre alkalmas zöldterületként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "Kulturális központ Tavira városában, amely különféle művészeti kiállításokat és eseményeket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "Tavira városának rendezvényhelyszíne, amelyet helyi vásárokra és kiállításokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "Festői tér Tavira városában, amely kilátópontként szolgál a környező területre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "Vallási helyszín Tavira városában, amely hagyományosan a tengerész közösséghez kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "Szent Sebestyén tiszteletére szentelt kisméretű kápolna Tavira városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "Történelmi templom Tavira városában, amely eredetileg egy ferences kolostor része volt.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "Egy egykori kolostor temploma Tavira városában, amely a régió vallástörténetét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "Kisméretű kápolna Tavira városában, amely nyugodt légköréről és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "Szent Rókusnak szentelt kápolna Tavira városában, amely helyi műemléknek számít.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "Kisméretű vallási kápolna Tavira városában, a Szorongó Szűzanyának szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "Vallási áhítatnak szentelt kápolna Tavira környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "O plajă liniștită și îngustă situată pe pitoreasca insulă Tavira.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "Ruinele unui fort de coastă din secolul al XVIII-lea care păzea râul Gilão din Tavira.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "Un sit arheologic din Tavira care prezintă rămășițele unui cartier rezidențial islamic.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "Un muzeu din Tavira dedicat moștenirii islamice și istoriei orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Centro Ciência Viva de Tavira",
+                  "text": "Un centru de știință interactiv din Tavira, situat într-o fostă stație de pompare a apei.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "O plajă de nisip populară pe insula Tavira, accesibilă cu barca din oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.620998,
+                        37.109911
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "O zonă de plajă de coastă din Tavira, situată acolo unde râul se întâlnește cu marea.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "O plajă de nisip din Tavira situată lângă rămășițele unui vechi fort defensiv.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "Principalul muzeu municipal din Tavira, care explorează istoria și arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "O plajă pitorească situată în orașul de coastă Tavira, pe malul Algarvei.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museu da Antiga Armação de Pesca do Atum",
+                  "text": "Un muzeu din Tavira dedicat istoriei pescuitului tradițional de ton.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "Un parc local din Tavira care servește ca zonă verde pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "Un centru cultural din Tavira care promovează diverse expoziții de artă și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "Un spațiu de evenimente din Tavira utilizat pentru târguri locale și expoziții.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "O piață pitorească din Tavira care servește drept punct de belvedere asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "Un lăcaș de cult din Tavira, legat tradițional de comunitatea navigatorilor.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "O mică capelă din Tavira dedicată Sfântului Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "O biserică istorică din Tavira care a aparținut inițial unei mănăstiri franciscane.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "Biserica unei foste mănăstiri din Tavira, dedicată istoriei religioase a regiunii.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "O mică capelă din Tavira cunoscută pentru atmosfera sa liniștită și semnificația religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "O capelă dedicată Sfântului Rochus în Tavira, considerată monument cultural local.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "O mică capelă religioasă din Tavira dedicată Maicii Domnului a Suferințelor.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "O capelă dedicată rugăciunii religioase în zona Tavira.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Praia da Terra Estreita na Ilha de Tavira",
+                  "text": "A quiet and narrow beach located on the scenic Tavira Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.639625,
+                        37.098588
+                  ]
+            },
+            {
+                  "name": "Forte do Rato",
+                  "text": "The ruins of an 18th-century coastal fort guarding the Gilão River in Tavira.",
+                  "category": "castle",
+                  "coords": [
+                        -7.621336,
+                        37.121483
+                  ]
+            },
+            {
+                  "name": "Bairro Almóada do Convento da Graça",
+                  "text": "An archaeological site in Tavira showcasing the remains of an Islamic residential quarter.",
+                  "category": "historical",
+                  "coords": [
+                        -7.652777,
+                        37.125175
+                  ]
+            },
+            {
+                  "name": "Museu Islâmico",
+                  "text": "A museum in Tavira dedicated to the city's Islamic heritage and history.",
+                  "category": "museum",
+                  "coords": [
+                        -7.650226,
+                        37.125905
+                  ]
+            },
+            {
+                  "name": "Tavira Science Centre",
+                  "text": "An interactive science center in Tavira located in a former water pumping station.",
+                  "category": "museum",
+                  "coords": [
+                        -7.646031,
+                        37.129091
+                  ]
+            },
+            {
+                  "name": "Praia da Ilha de Tavira",
+                  "text": "A popular sandy beach on Tavira Island, accessible by boat from the city.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.620998,
+                        37.109911
+                  ]
+            },
+            {
+                  "name": "Praia Tavira-Ria",
+                  "text": "A coastal beach area in Tavira located where the river meets the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.623417,
+                        37.115079
+                  ]
+            },
+            {
+                  "name": "Praia do Forte da Barra",
+                  "text": "A sandy beach in Tavira situated near the remains of an old defensive fort.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.61198,
+                        37.120012
+                  ]
+            },
+            {
+                  "name": "Museu Municipal",
+                  "text": "The main municipal museum of Tavira, exploring local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        -7.651402,
+                        37.126027
+                  ]
+            },
+            {
+                  "name": "Praia do Rato",
+                  "text": "A scenic beach located in the coastal city of Tavira on the Algarve.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.625204,
+                        37.11859
+                  ]
+            },
+            {
+                  "name": "Museum of the traditional tuna fishing",
+                  "text": "A museum in Tavira dedicated to the history of traditional tuna fishing.",
+                  "category": "museum",
+                  "coords": [
+                        -7.626941,
+                        37.119256
+                  ]
+            },
+            {
+                  "name": "Parque Rodoviário",
+                  "text": "A local park in Tavira that serves as a relaxing green area.",
+                  "category": "park",
+                  "coords": [
+                        -7.654295,
+                        37.130826
+                  ]
+            },
+            {
+                  "name": "Casa das Artes de Tavira",
+                  "text": "A cultural center in Tavira promoting various art exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.652299,
+                        37.128894
+                  ]
+            },
+            {
+                  "name": "Parque de Feiras e Exposições de Tavira",
+                  "text": "An event venue in Tavira used for local fairs and exhibitions.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.644563,
+                        37.140344
+                  ]
+            },
+            {
+                  "name": "Largo de Santa Ana",
+                  "text": "A picturesque square in Tavira that serves as a viewpoint over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -7.65136,
+                        37.128617
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro Gonçalves Telmo",
+                  "text": "A religious site in Tavira traditionally associated with the seafaring community.",
+                  "category": "religious",
+                  "coords": [
+                        -7.648582,
+                        37.125155
+                  ]
+            },
+            {
+                  "name": "Ermida de São Sebastião",
+                  "text": "A small chapel in Tavira dedicated to Saint Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -7.647067,
+                        37.122375
+                  ]
+            },
+            {
+                  "name": "Igreja do antigo convento de São Francisco",
+                  "text": "A historic church in Tavira that originally belonged to a Franciscan convent.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650892,
+                        37.122878
+                  ]
+            },
+            {
+                  "name": "Igreja do Antigo Convento dos Eremitas de São Paulo",
+                  "text": "The church of a former convent in Tavira, dedicated to the religious history of the region.",
+                  "category": "religious",
+                  "coords": [
+                        -7.649741,
+                        37.128855
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Consolação",
+                  "text": "A small chapel in Tavira known for its calm atmosphere and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        -7.650802,
+                        37.12466
+                  ]
+            },
+            {
+                  "name": "Ermida de São Roque",
+                  "text": "A chapel dedicated to Saint Roch in Tavira, considered a local cultural monument.",
+                  "category": "religious",
+                  "coords": [
+                        -7.654324,
+                        37.125345
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora das Angústias",
+                  "text": "A small religious chapel in Tavira dedicated to Our Lady of Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        -7.660473,
+                        37.118696
+                  ]
+            },
+            {
+                  "name": "Ermida de Nossa Senhora do Livramento",
+                  "text": "A chapel dedicated to religious devotion in the area of Tavira.",
+                  "category": "religious",
+                  "coords": [
+                        -7.644296,
+                        37.128342
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.6486, 37.1272],
@@ -3744,7 +17667,412 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-loule",
+    id: "city-loule", "sights": {
+      "de": [
+            {
+                  "name": "In The Pink - Galeria Fotografia",
+                  "text": "Eine zeitgenössische Fotogalerie in Loulé, die internationale und lokale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.023206,
+                        37.139674
+                  ]
+            },
+            {
+                  "name": "Palácio Fonte da Pipa",
+                  "text": "Ein markantes Palastgebäude in Loulé mit historischer Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020018,
+                        37.129081
+                  ]
+            },
+            {
+                  "name": "ArtCatto",
+                  "text": "Eine renommierte Kunstgalerie im Zentrum von Loulé, die moderne Malerei und Skulpturen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.020279,
+                        37.138196
+                  ]
+            },
+            {
+                  "name": "Bicas Velhas",
+                  "text": "Eine historische Sehenswürdigkeit in Loulé.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.024119,
+                        37.13924
+                  ]
+            },
+            {
+                  "name": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim",
+                  "text": "Ein Denkmal in Loulé zu Ehren lokaler Persönlichkeiten.",
+                  "category": "historical",
+                  "coords": [
+                        -8.021257,
+                        37.138827
+                  ]
+            },
+            {
+                  "name": "Loulé Criativo",
+                  "text": "Ein Zentrum zur Förderung von lokalem Handwerk und Kreativität.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.02322,
+                        37.141522
+                  ]
+            },
+            {
+                  "name": "Francisco X. D'Ataire Oliveira",
+                  "text": "Ein Denkmal zu Ehren von Francisco X. D'Ataire Oliveira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.025686,
+                        37.140532
+                  ]
+            },
+            {
+                  "name": "Mercado de Loulé",
+                  "text": "Die markante Markthalle ist für ihre neo-arabische Architektur bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022348,
+                        37.138281
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "Eine historische Kirche der Misericórdia-Bruderschaft in Loulé.",
+                  "category": "religious",
+                  "coords": [
+                        -8.02205,
+                        37.137037
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Loulé",
+                  "text": "Die gotische Hauptkirche von Loulé stammt aus dem 13. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.023542,
+                        37.137423
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "Ein ehemaliges Franziskanerkloster, das heute für Ausstellungen genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -8.031598,
+                        37.141474
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "In The Pink - Galeria Fotografia",
+                  "text": "Kortárs fotógaléria Louléban, amely nemzetközi és helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.023206,
+                        37.139674
+                  ]
+            },
+            {
+                  "name": "Palácio Fonte da Pipa",
+                  "text": "Jellegzetes palotaépület Louléban, történelmi építészettel.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020018,
+                        37.129081
+                  ]
+            },
+            {
+                  "name": "ArtCatto",
+                  "text": "Nves művészeti galéria Loulé központjában, modern festményeket és szobrokat bemutatva.",
+                  "category": "museum",
+                  "coords": [
+                        -8.020279,
+                        37.138196
+                  ]
+            },
+            {
+                  "name": "Bicas Velhas",
+                  "text": "Történelmi látnivaló Loulé városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.024119,
+                        37.13924
+                  ]
+            },
+            {
+                  "name": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim",
+                  "text": "Helyi személyiségek tiszteletére állított emlékmű Louléban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.021257,
+                        37.138827
+                  ]
+            },
+            {
+                  "name": "Loulé Criativo",
+                  "text": "A helyi kézművességet és kreativitást népszerűsítő központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.02322,
+                        37.141522
+                  ]
+            },
+            {
+                  "name": "Francisco X. D'Ataire Oliveira",
+                  "text": "Francisco X. D'Ataire Oliveira emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -8.025686,
+                        37.140532
+                  ]
+            },
+            {
+                  "name": "Mercado de Loulé",
+                  "text": "A város jellegzetes piaccsarnoka, amely neo-arab stílusáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022348,
+                        37.138281
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "A Misericórdia testvériség történelmi temploma Louléban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.02205,
+                        37.137037
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Loulé",
+                  "text": "Loulé gótikus főtemploma a 13. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        -8.023542,
+                        37.137423
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "Egykori ferences kolostor, amelyet ma kiállításokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -8.031598,
+                        37.141474
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "In The Pink - Galeria Fotografia",
+                  "text": "O galerie de fotografie contemporană din Loulé, care expune lucrări internaționale și locale.",
+                  "category": "museum",
+                  "coords": [
+                        -8.023206,
+                        37.139674
+                  ]
+            },
+            {
+                  "name": "Palácio Fonte da Pipa",
+                  "text": "O clădire de palat proeminentă din Loulé, cu arhitectură istorică.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020018,
+                        37.129081
+                  ]
+            },
+            {
+                  "name": "ArtCatto",
+                  "text": "O galerie de artă renumită în centrul orașului Loulé, care expune pictură și sculptură modernă.",
+                  "category": "museum",
+                  "coords": [
+                        -8.020279,
+                        37.138196
+                  ]
+            },
+            {
+                  "name": "Bicas Velhas",
+                  "text": "O atracție istorică situată în Loulé.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.024119,
+                        37.13924
+                  ]
+            },
+            {
+                  "name": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim",
+                  "text": "Un monument din Loulé ridicat în cinstea unor personalități locale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.021257,
+                        37.138827
+                  ]
+            },
+            {
+                  "name": "Loulé Criativo",
+                  "text": "Un centru pentru promovarea meșteșugurilor și creativității locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.02322,
+                        37.141522
+                  ]
+            },
+            {
+                  "name": "Francisco X. D'Ataire Oliveira",
+                  "text": "Un monument dedicat lui Francisco X. D'Ataire Oliveira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.025686,
+                        37.140532
+                  ]
+            },
+            {
+                  "name": "Mercado de Loulé",
+                  "text": "Piața municipală este renumită pentru arhitectura sa neo-arabă.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022348,
+                        37.138281
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "O biserică istorică a frăției Misericórdia din Loulé.",
+                  "category": "religious",
+                  "coords": [
+                        -8.02205,
+                        37.137037
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Loulé",
+                  "text": "Principala biserică gotică din Loulé datează din secolul al XIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -8.023542,
+                        37.137423
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "O fostă mănăstire franciscană, folosită astăzi pentru expoziții.",
+                  "category": "religious",
+                  "coords": [
+                        -8.031598,
+                        37.141474
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "In The Pink - Galeria Fotografia",
+                  "text": "A contemporary photography gallery in Loulé exhibiting international and local works.",
+                  "category": "museum",
+                  "coords": [
+                        -8.023206,
+                        37.139674
+                  ]
+            },
+            {
+                  "name": "Palácio Fonte da Pipa",
+                  "text": "A prominent palace building in Loulé with historic architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -8.020018,
+                        37.129081
+                  ]
+            },
+            {
+                  "name": "ArtCatto",
+                  "text": "A renowned art gallery in the center of Loulé, showcasing modern painting and sculpture.",
+                  "category": "museum",
+                  "coords": [
+                        -8.020279,
+                        37.138196
+                  ]
+            },
+            {
+                  "name": "Bicas Velhas",
+                  "text": "A historic attraction located in Loulé.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.024119,
+                        37.13924
+                  ]
+            },
+            {
+                  "name": "Dr. José Alves Batalim Júnior e Maria Augusta M. Batalim",
+                  "text": "A monument in Loulé honoring local figures.",
+                  "category": "historical",
+                  "coords": [
+                        -8.021257,
+                        37.138827
+                  ]
+            },
+            {
+                  "name": "Loulé Criativo",
+                  "text": "A centre promoting local craftsmanship and creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.02322,
+                        37.141522
+                  ]
+            },
+            {
+                  "name": "Francisco X. D'Ataire Oliveira",
+                  "text": "A monument dedicated to Francisco X. D'Ataire Oliveira.",
+                  "category": "historical",
+                  "coords": [
+                        -8.025686,
+                        37.140532
+                  ]
+            },
+            {
+                  "name": "Mercado de Loulé",
+                  "text": "The iconic municipal market is known for its Neo-Arab architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.022348,
+                        37.138281
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "A historic church of the Misericórdia brotherhood in Loulé.",
+                  "category": "religious",
+                  "coords": [
+                        -8.02205,
+                        37.137037
+                  ]
+            },
+            {
+                  "name": "Igreja Matriz de Loulé",
+                  "text": "The Gothic main church of Loulé dates back to the 13th century.",
+                  "category": "religious",
+                  "coords": [
+                        -8.023542,
+                        37.137423
+                  ]
+            },
+            {
+                  "name": "Convento de Santo António",
+                  "text": "A former Franciscan convent, now used for exhibitions.",
+                  "category": "religious",
+                  "coords": [
+                        -8.031598,
+                        37.141474
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.0093, 37.1372],
@@ -3788,7 +18116,304 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-silves",
+    id: "city-silves", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Marcarenhas Gregório",
+                  "text": "Das Teatro Marcarenhas Gregório ist ein Theater in der Stadt Silves.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.436672,
+                        37.189792
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia de Silves",
+                  "text": "Das Silves Archaeological Museum ist eine kulturelle Einrichtung, die lokale archäologische Funde ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.438887,
+                        37.188966
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura Islâmica e Mediterrânica",
+                  "text": "Die Casa da Cultura Islâmica e Mediterrânica ist ein Museum in Silves.",
+                  "category": "museum",
+                  "coords": [
+                        -8.447293,
+                        37.189752
+                  ]
+            },
+            {
+                  "name": "Museu da Cortiça",
+                  "text": "Das Museu da Cortiça ist ein Museum in Silves, das sich mit der Korkproduktion befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -8.435652,
+                        37.190814
+                  ]
+            },
+            {
+                  "name": "Fissul",
+                  "text": "Fissul ist eine lokale Sehenswürdigkeit in Silves.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.446481,
+                        37.185982
+                  ]
+            },
+            {
+                  "name": "Baloiço da Ponte Romana",
+                  "text": "Der Baloiço da Ponte Romana ist eine Attraktion in Silves.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.438803,
+                        37.186464
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Silves",
+                  "text": "Die Sé Catedral de Silves ist ein bedeutendes gotisches Denkmal und eine ehemalige Kathedrale an der Algarve.",
+                  "category": "religious",
+                  "coords": [
+                        -8.438555,
+                        37.190022
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Silves",
+                  "text": "Die Câmara Municipal de Silves ist das Rathaus der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -8.43998,
+                        37.18896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Marcarenhas Gregório",
+                  "text": "A Teatro Marcarenhas Gregório egy színház Silves városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.436672,
+                        37.189792
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia de Silves",
+                  "text": "A Silves Archaeological Museum egy kulturális intézmény, amely helyi régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.438887,
+                        37.188966
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura Islâmica e Mediterrânica",
+                  "text": "A Casa da Cultura Islâmica e Mediterrânica egy múzeum Silves városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.447293,
+                        37.189752
+                  ]
+            },
+            {
+                  "name": "Museu da Cortiça",
+                  "text": "A Museu da Cortiça egy múzeum Silvesben.",
+                  "category": "museum",
+                  "coords": [
+                        -8.435652,
+                        37.190814
+                  ]
+            },
+            {
+                  "name": "Fissul",
+                  "text": "A Fissul egy helyi látványosság Silvesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.446481,
+                        37.185982
+                  ]
+            },
+            {
+                  "name": "Baloiço da Ponte Romana",
+                  "text": "A Baloiço da Ponte Romana egy látványosság Silvesben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.438803,
+                        37.186464
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Silves",
+                  "text": "A Sé Catedral de Silves egy jelentős gótikus műemlék és egykori katedrális Algarve régióban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.438555,
+                        37.190022
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Silves",
+                  "text": "A Câmara Municipal de Silves a város városházája.",
+                  "category": "historical",
+                  "coords": [
+                        -8.43998,
+                        37.18896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Marcarenhas Gregório",
+                  "text": "Teatro Marcarenhas Gregório este un teatru din orașul Silves.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.436672,
+                        37.189792
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Arqueologia de Silves",
+                  "text": "Silves Archaeological Museum este o instituție culturală care expune descoperiri arheologice locale.",
+                  "category": "museum",
+                  "coords": [
+                        -8.438887,
+                        37.188966
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura Islâmica e Mediterrânica",
+                  "text": "Casa da Cultura Islâmica e Mediterrânica este un muzeu din Silves.",
+                  "category": "museum",
+                  "coords": [
+                        -8.447293,
+                        37.189752
+                  ]
+            },
+            {
+                  "name": "Museu da Cortiça",
+                  "text": "Museu da Cortiça este un muzeu în Silves.",
+                  "category": "museum",
+                  "coords": [
+                        -8.435652,
+                        37.190814
+                  ]
+            },
+            {
+                  "name": "Fissul",
+                  "text": "Fissul este o atracție locală în Silves.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.446481,
+                        37.185982
+                  ]
+            },
+            {
+                  "name": "Baloiço da Ponte Romana",
+                  "text": "Baloiço da Ponte Romana este o atracție în Silves.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.438803,
+                        37.186464
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Silves",
+                  "text": "Sé Catedral de Silves este un monument gotic semnificativ și o fostă catedrală din Algarve.",
+                  "category": "religious",
+                  "coords": [
+                        -8.438555,
+                        37.190022
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Silves",
+                  "text": "Câmara Municipal de Silves este primăria orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.43998,
+                        37.18896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Marcarenhas Gregório",
+                  "text": "The Teatro Marcarenhas Gregório is a theatre located in the city of Silves.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.436672,
+                        37.189792
+                  ]
+            },
+            {
+                  "name": "Silves Archaeological Museum",
+                  "text": "The Silves Archaeological Museum is a cultural institution displaying local archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        -8.438887,
+                        37.188966
+                  ]
+            },
+            {
+                  "name": "Casa da Cultura Islâmica e Mediterrânica",
+                  "text": "The Casa da Cultura Islâmica e Mediterrânica is a museum in Silves.",
+                  "category": "museum",
+                  "coords": [
+                        -8.447293,
+                        37.189752
+                  ]
+            },
+            {
+                  "name": "Museu da Cortiça",
+                  "text": "The Museu da Cortiça is a museum located in Silves.",
+                  "category": "museum",
+                  "coords": [
+                        -8.435652,
+                        37.190814
+                  ]
+            },
+            {
+                  "name": "Fissul",
+                  "text": "Fissul is a local attraction in Silves.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.446481,
+                        37.185982
+                  ]
+            },
+            {
+                  "name": "Baloiço da Ponte Romana",
+                  "text": "The Baloiço da Ponte Romana is an attraction located in Silves.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.438803,
+                        37.186464
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Silves",
+                  "text": "The Sé Catedral de Silves is a significant Gothic monument and former cathedral in the Algarve.",
+                  "category": "religious",
+                  "coords": [
+                        -8.438555,
+                        37.190022
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Silves",
+                  "text": "The Câmara Municipal de Silves is the town hall of the city.",
+                  "category": "historical",
+                  "coords": [
+                        -8.43998,
+                        37.18896
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.4406, 37.1894],
@@ -3876,7 +18501,268 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-guarda",
+    id: "city-guarda", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Municipal da Guarda",
+                  "text": "Das moderne Stadttheater ist ein wichtiges Kulturzentrum in Guarda.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.268558,
+                        40.534492
+                  ]
+            },
+            {
+                  "name": "Conjunto Histórico da Póvoa do Mileu",
+                  "text": "Eine archäologische Stätte mit Überresten einer römischen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        -7.257074,
+                        40.543348
+                  ]
+            },
+            {
+                  "name": "Terração",
+                  "text": "Eine Aussichtsterrasse mit weitem Blick über die Stadt Guarda.",
+                  "category": "natural",
+                  "coords": [
+                        -7.269319,
+                        40.53829
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Guarda",
+                  "text": "Der historische Schandpfahl aus Stein ist ein Symbol der Stadtfreiheit.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.267791,
+                        40.538355
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Guarda",
+                  "text": "Das Rathaus von Guarda befindet sich an der zentralen Praça Luís de Camões.",
+                  "category": "historical",
+                  "coords": [
+                        -7.26667,
+                        40.536612
+                  ]
+            },
+            {
+                  "name": "Capela de São Pedro",
+                  "text": "Eine kleine historische Kapelle in der Nähe der Stadtmauern.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268521,
+                        40.53732
+                  ]
+            },
+            {
+                  "name": "Igreja de São Vicente",
+                  "text": "Eine barocke Kirche im historischen Zentrum von Guarda.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268307,
+                        40.540026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Municipal da Guarda",
+                  "text": "A modern városi színház Guarda egyik fontos kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.268558,
+                        40.534492
+                  ]
+            },
+            {
+                  "name": "Conjunto Histórico da Póvoa do Mileu",
+                  "text": "Régészeti lelőhely egy római település maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -7.257074,
+                        40.543348
+                  ]
+            },
+            {
+                  "name": "Kilátás a tetőről",
+                  "text": "Kilátóterasz, ahonnan panorámás kilátás nyílik Guarda városára.",
+                  "category": "natural",
+                  "coords": [
+                        -7.269319,
+                        40.53829
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Guarda",
+                  "text": "A történelmi kő szégyenoszlop a városi szabadságjogok jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.267791,
+                        40.538355
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Guarda",
+                  "text": "Guarda városházája a központi Praça Luís de Camões téren található.",
+                  "category": "historical",
+                  "coords": [
+                        -7.26667,
+                        40.536612
+                  ]
+            },
+            {
+                  "name": "Szent Péter kápolna",
+                  "text": "Kis történelmi kápolna a városfalak közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268521,
+                        40.53732
+                  ]
+            },
+            {
+                  "name": "Igreja de São Vicente",
+                  "text": "Barokk stílusú templom Guarda történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268307,
+                        40.540026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Municipal da Guarda",
+                  "text": "Teatrul municipal modern este un centru cultural important în Guarda.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.268558,
+                        40.534492
+                  ]
+            },
+            {
+                  "name": "Conjunto Histórico da Póvoa do Mileu",
+                  "text": "Un sit arheologic ce cuprinde vestigiile unei așezări romane.",
+                  "category": "historical",
+                  "coords": [
+                        -7.257074,
+                        40.543348
+                  ]
+            },
+            {
+                  "name": "Terração",
+                  "text": "O terasă panoramică ce oferă o priveliște amplă asupra orașului Guarda.",
+                  "category": "natural",
+                  "coords": [
+                        -7.269319,
+                        40.53829
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Guarda",
+                  "text": "Stâlpul infamiei din piatră este un simbol istoric al libertății orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.267791,
+                        40.538355
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Guarda",
+                  "text": "Primăria din Guarda este situată în piața centrală Praça Luís de Camões.",
+                  "category": "historical",
+                  "coords": [
+                        -7.26667,
+                        40.536612
+                  ]
+            },
+            {
+                  "name": "Capela de São Pedro",
+                  "text": "O mică chapelă istorică situată în apropierea zidurilor orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268521,
+                        40.53732
+                  ]
+            },
+            {
+                  "name": "Igreja de São Vicente",
+                  "text": "O biserică barocă situată în centrul istoric al orașului Guarda.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268307,
+                        40.540026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Municipal da Guarda",
+                  "text": "The modern municipal theatre is a key cultural centre in Guarda.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.268558,
+                        40.534492
+                  ]
+            },
+            {
+                  "name": "Conjunto Histórico da Póvoa do Mileu",
+                  "text": "An archaeological site containing remains of a Roman settlement.",
+                  "category": "historical",
+                  "coords": [
+                        -7.257074,
+                        40.543348
+                  ]
+            },
+            {
+                  "name": "Roof terrace",
+                  "text": "A roof terrace providing panoramic views over the city of Guarda.",
+                  "category": "natural",
+                  "coords": [
+                        -7.269319,
+                        40.53829
+                  ]
+            },
+            {
+                  "name": "Pelourinho da Guarda",
+                  "text": "The historic stone pillory is a symbol of municipal autonomy.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.267791,
+                        40.538355
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal da Guarda",
+                  "text": "The town hall of Guarda is located in the central Praça Luís de Camões.",
+                  "category": "historical",
+                  "coords": [
+                        -7.26667,
+                        40.536612
+                  ]
+            },
+            {
+                  "name": "Capela de São Pedro",
+                  "text": "A small historic chapel located near the city walls.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268521,
+                        40.53732
+                  ]
+            },
+            {
+                  "name": "Igreja de São Vicente",
+                  "text": "A Baroque church located in the historic centre of Guarda.",
+                  "category": "religious",
+                  "coords": [
+                        -7.268307,
+                        40.540026
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.2659, 40.5373],
@@ -3920,7 +18806,520 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-chaves",
+    id: "city-chaves", "sights": {
+      "de": [
+            {
+                  "name": "Barragem Romana da Abobeleira",
+                  "text": "Die Barragem Romana da Abobeleira ist eine archäologische Stätte in Chaves.",
+                  "category": "historical",
+                  "coords": [
+                        -7.491159,
+                        41.756721
+                  ]
+            },
+            {
+                  "name": "Forte de São Neutel",
+                  "text": "Das Forte de São Neutel ist eine Festungsanlage in Chaves.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.4676,
+                        41.750653
+                  ]
+            },
+            {
+                  "name": "Forte de São Francisco",
+                  "text": "Das Forte de São Francisco ist eine sternförmige Festung in Chaves, die während des Restaurationskrieges eine Rolle spielte.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.469135,
+                        41.742972
+                  ]
+            },
+            {
+                  "name": "Museu Termas Romanas de Chaves",
+                  "text": "Das Museu Termas Romanas de Chaves ist eine archäologische Stätte in Chaves.",
+                  "category": "historical",
+                  "coords": [
+                        -7.468058,
+                        41.739333
+                  ]
+            },
+            {
+                  "name": "Ínsula do Arquivo Histórico de Chaves",
+                  "text": "Die Ínsula do Arquivo Histórico de Chaves ist eine archäologische Stätte in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.469903,
+                        41.740028
+                  ]
+            },
+            {
+                  "name": "Museu Militar",
+                  "text": "Das Museu Militar ist ein Museum in Chaves.",
+                  "category": "museum",
+                  "coords": [
+                        -7.471766,
+                        41.739586
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea Nadir Afonso",
+                  "text": "Das Museum of Contemporary Arts Nadir Afonso ist ein Museum für zeitgenössische Kunst in Chaves.",
+                  "category": "museum",
+                  "coords": [
+                        -7.465643,
+                        41.741028
+                  ]
+            },
+            {
+                  "name": "Núcleo de Chaves do Museu Ferroviário",
+                  "text": "Das Núcleo de Chaves do Museu Ferroviário ist ein Eisenbahnmuseum in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.470422,
+                        41.745172
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Chaves",
+                  "text": "Der Jardim Público de Chaves ist ein öffentlicher Park in Chaves.",
+                  "category": "park",
+                  "coords": [
+                        -7.466403,
+                        41.736708
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Chaves",
+                  "text": "Das Centro Cultural de Chaves ist ein Kulturzentrum in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.468294,
+                        41.746233
+                  ]
+            },
+            {
+                  "name": "EN2 Km 0",
+                  "text": "EN2 Km 0 ist eine lokale Attraktion in Chaves, die den Beginn einer Route markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.464921,
+                        41.736725
+                  ]
+            },
+            {
+                  "name": "Postigo das Caldas",
+                  "text": "Das Postigo das Caldas ist eine Sehenswürdigkeit in Chaves.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.470623,
+                        41.73905
+                  ]
+            },
+            {
+                  "name": "Ponte de Trajano",
+                  "text": "Die Ponte de Trajano ist eine alte römische Brücke, die den Fluss Tâmega überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.467081,
+                        41.73826
+                  ]
+            },
+            {
+                  "name": "Capela da Granjinha",
+                  "text": "Die Capela da Granjinha ist eine kleine ländliche Kapelle romanischen Ursprungs in Chaves.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491142,
+                        41.729044
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barragem Romana da Abobeleira",
+                  "text": "A Barragem Romana da Abobeleira egy régészeti lelőhely Chaves városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.491159,
+                        41.756721
+                  ]
+            },
+            {
+                  "name": "Forte de São Neutel",
+                  "text": "A Forte de São Neutel egy erődítmény Chavesben.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.4676,
+                        41.750653
+                  ]
+            },
+            {
+                  "name": "Forte de São Francisco",
+                  "text": "A Forte de São Francisco egy csillagvizsgáló alakú erőd Chavesben, amely szerepet játszott a portugál restaurációs háborúban.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.469135,
+                        41.742972
+                  ]
+            },
+            {
+                  "name": "Museu Termas Romanas de Chaves",
+                  "text": "A Museu Termas Romanas de Chaves egy régészeti lelőhely Chaves városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.468058,
+                        41.739333
+                  ]
+            },
+            {
+                  "name": "Ínsula do Arquivo Histórico de Chaves",
+                  "text": "Az Ínsula do Arquivo Histórico de Chaves egy régészeti lelőhely a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.469903,
+                        41.740028
+                  ]
+            },
+            {
+                  "name": "Museu Militar",
+                  "text": "A Museu Militar egy múzeum Chavesben.",
+                  "category": "museum",
+                  "coords": [
+                        -7.471766,
+                        41.739586
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea Nadir Afonso",
+                  "text": "A Museum of Contemporary Arts Nadir Afonso egy kortárs művészeti múzeum Chavesben.",
+                  "category": "museum",
+                  "coords": [
+                        -7.465643,
+                        41.741028
+                  ]
+            },
+            {
+                  "name": "Núcleo de Chaves do Museu Ferroviário",
+                  "text": "A Núcleo de Chaves do Museu Ferroviário egy vasúti múzeum a városban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.470422,
+                        41.745172
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Chaves",
+                  "text": "A Jardim Público de Chaves egy nyilvános park Chaves városában.",
+                  "category": "park",
+                  "coords": [
+                        -7.466403,
+                        41.736708
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Chaves",
+                  "text": "A Centro Cultural de Chaves egy kulturális központ a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.468294,
+                        41.746233
+                  ]
+            },
+            {
+                  "name": "EN2 Km 0",
+                  "text": "Az EN2 Km 0 egy helyi látványosság Chavesben, amely egy útvonal kezdetét jelöli.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.464921,
+                        41.736725
+                  ]
+            },
+            {
+                  "name": "Postigo das Caldas",
+                  "text": "A Postigo das Caldas egy látványosság Chaves városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.470623,
+                        41.73905
+                  ]
+            },
+            {
+                  "name": "Ponte de Trajano",
+                  "text": "A Ponte de Trajano egy ókori római híd, amely a Tâmega folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.467081,
+                        41.73826
+                  ]
+            },
+            {
+                  "name": "Capela da Granjinha",
+                  "text": "A Capela da Granjinha egy kis, román kori vidéki kápolna Chavesben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491142,
+                        41.729044
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barragem Romana da Abobeleira",
+                  "text": "Barragem Romana da Abobeleira este un sit arheologic în Chaves.",
+                  "category": "historical",
+                  "coords": [
+                        -7.491159,
+                        41.756721
+                  ]
+            },
+            {
+                  "name": "Forte de São Neutel",
+                  "text": "Forte de São Neutel este un fort situat în Chaves.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.4676,
+                        41.750653
+                  ]
+            },
+            {
+                  "name": "Forte de São Francisco",
+                  "text": "Forte de São Francisco este un fort în formă de stea din Chaves, care a jucat un rol în Războiul de Restaurare.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.469135,
+                        41.742972
+                  ]
+            },
+            {
+                  "name": "Museu Termas Romanas de Chaves",
+                  "text": "Museu Termas Romanas de Chaves este un sit arheologic din Chaves.",
+                  "category": "historical",
+                  "coords": [
+                        -7.468058,
+                        41.739333
+                  ]
+            },
+            {
+                  "name": "Ínsula do Arquivo Histórico de Chaves",
+                  "text": "Ínsula do Arquivo Histórico de Chaves este un sit arheologic din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -7.469903,
+                        41.740028
+                  ]
+            },
+            {
+                  "name": "Museu Militar",
+                  "text": "Museu Militar este un muzeu în Chaves.",
+                  "category": "museum",
+                  "coords": [
+                        -7.471766,
+                        41.739586
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea Nadir Afonso",
+                  "text": "Museum of Contemporary Arts Nadir Afonso este un muzeu de artă contemporană în Chaves.",
+                  "category": "museum",
+                  "coords": [
+                        -7.465643,
+                        41.741028
+                  ]
+            },
+            {
+                  "name": "Núcleo de Chaves do Museu Ferroviário",
+                  "text": "Núcleo de Chaves do Museu Ferroviário este un muzeu feroviar din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        -7.470422,
+                        41.745172
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Chaves",
+                  "text": "Jardim Público de Chaves este un parc public din Chaves.",
+                  "category": "park",
+                  "coords": [
+                        -7.466403,
+                        41.736708
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Chaves",
+                  "text": "Centro Cultural de Chaves este un centru de arte din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.468294,
+                        41.746233
+                  ]
+            },
+            {
+                  "name": "EN2 Km 0",
+                  "text": "EN2 Km 0 este o atracție locală din Chaves.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.464921,
+                        41.736725
+                  ]
+            },
+            {
+                  "name": "Postigo das Caldas",
+                  "text": "Postigo das Caldas este o atracție din Chaves.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.470623,
+                        41.73905
+                  ]
+            },
+            {
+                  "name": "Ponte de Trajano",
+                  "text": "Ponte de Trajano este un pod roman antic care traversează râul Tâmega.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.467081,
+                        41.73826
+                  ]
+            },
+            {
+                  "name": "Capela da Granjinha",
+                  "text": "Capela da Granjinha este o mică capelă rurală de origine romanică în Chaves.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491142,
+                        41.729044
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barragem Romana da Abobeleira",
+                  "text": "The Barragem Romana da Abobeleira is an archaeological site in Chaves.",
+                  "category": "historical",
+                  "coords": [
+                        -7.491159,
+                        41.756721
+                  ]
+            },
+            {
+                  "name": "Forte de São Neutel",
+                  "text": "The Forte de São Neutel is a fort located in Chaves.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.4676,
+                        41.750653
+                  ]
+            },
+            {
+                  "name": "Forte de São Francisco",
+                  "text": "The Forte de São Francisco is a star fort in Chaves that played a role in the Restoration War.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.469135,
+                        41.742972
+                  ]
+            },
+            {
+                  "name": "Museu Termas Romanas de Chaves",
+                  "text": "The Museu Termas Romanas de Chaves is an archaeological site in Chaves.",
+                  "category": "historical",
+                  "coords": [
+                        -7.468058,
+                        41.739333
+                  ]
+            },
+            {
+                  "name": "Ínsula do Arquivo Histórico de Chaves",
+                  "text": "The Ínsula do Arquivo Histórico de Chaves is an archaeological site in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -7.469903,
+                        41.740028
+                  ]
+            },
+            {
+                  "name": "Museu Militar",
+                  "text": "The Museu Militar is a museum located in Chaves.",
+                  "category": "museum",
+                  "coords": [
+                        -7.471766,
+                        41.739586
+                  ]
+            },
+            {
+                  "name": "Museum of Contemporary Arts Nadir Afonso",
+                  "text": "The Museum of Contemporary Arts Nadir Afonso is a contemporary art museum located in Chaves.",
+                  "category": "museum",
+                  "coords": [
+                        -7.465643,
+                        41.741028
+                  ]
+            },
+            {
+                  "name": "Núcleo de Chaves do Museu Ferroviário",
+                  "text": "The Núcleo de Chaves do Museu Ferroviário is a railway museum in the city.",
+                  "category": "museum",
+                  "coords": [
+                        -7.470422,
+                        41.745172
+                  ]
+            },
+            {
+                  "name": "Jardim Público de Chaves",
+                  "text": "The Jardim Público de Chaves is a public park located in Chaves.",
+                  "category": "park",
+                  "coords": [
+                        -7.466403,
+                        41.736708
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de Chaves",
+                  "text": "The Centro Cultural de Chaves is an arts centre in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.468294,
+                        41.746233
+                  ]
+            },
+            {
+                  "name": "EN2 Km 0",
+                  "text": "EN2 Km 0 is a local attraction located in Chaves.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.464921,
+                        41.736725
+                  ]
+            },
+            {
+                  "name": "Postigo das Caldas",
+                  "text": "The Postigo das Caldas is an attraction in Chaves.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.470623,
+                        41.73905
+                  ]
+            },
+            {
+                  "name": "Ponte de Trajano",
+                  "text": "The Ponte de Trajano is an ancient Roman bridge crossing the Tâmega river.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.467081,
+                        41.73826
+                  ]
+            },
+            {
+                  "name": "Capela da Granjinha",
+                  "text": "The Capela da Granjinha is a small rural chapel of Romanesque origin in Chaves.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491142,
+                        41.729044
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.4688, 41.7402],
@@ -4008,7 +19407,844 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-portalegre",
+    id: "city-portalegre", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Portalegrense",
+                  "text": "Ein traditionsreiches Theatergebäude im Herzen von Portalegre.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.43057,
+                        39.294072
+                  ]
+            },
+            {
+                  "name": "Castelo de Portalegre",
+                  "text": "Die mittelalterliche Burg bietet einen weiten Blick über Portalegre.",
+                  "category": "castle",
+                  "coords": [
+                        -7.430575,
+                        39.29106
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Portalegre",
+                  "text": "Das Stadtmuseum zeigt sakrale Kunst und lokale Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -7.433529,
+                        39.291478
+                  ]
+            },
+            {
+                  "name": "Museu José Régio",
+                  "text": "Das Museum im Wohnhaus des Dichters José Régio zeigt dessen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -7.429907,
+                        39.288792
+                  ]
+            },
+            {
+                  "name": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                  "text": "Ein Museum, das der traditionsreichen Teppichkunst von Portalegre gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.432988,
+                        39.292645
+                  ]
+            },
+            {
+                  "name": "Castelo de Torrejão",
+                  "text": "Überreste einer historischen Befestigungsanlage in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        -7.423323,
+                        39.2931
+                  ]
+            },
+            {
+                  "name": "Rádio Portalegre",
+                  "text": "Ein Gebäude, das eng mit der lokalen Rundfunkgeschichte verbunden ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.426438,
+                        39.301451
+                  ]
+            },
+            {
+                  "name": "Plátano do Rossio",
+                  "text": "Eine riesige Platane aus dem Jahr 1838, die ein Wahrzeichen der Stadt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.430257,
+                        39.296079
+                  ]
+            },
+            {
+                  "name": "Miradouro da Serra",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Berge und die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.423669,
+                        39.304522
+                  ]
+            },
+            {
+                  "name": "Kartódromo",
+                  "text": "Eine Freizeitanlage für Kartsport in Portalegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.423439,
+                        39.275525
+                  ]
+            },
+            {
+                  "name": "Jardim",
+                  "text": "Eine gepflegte Gartenanlage im Stadtgebiet von Portalegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.425708,
+                        39.291732
+                  ]
+            },
+            {
+                  "name": "Heliporto do Hospital",
+                  "text": "Ein Hubschrauberlandeplatz für medizinische Notfälle am Krankenhaus.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428137,
+                        39.299448
+                  ]
+            },
+            {
+                  "name": "Marco Geodésico",
+                  "text": "Ein Vermessungspunkt auf einer Anhöhe zur geografischen Orientierung.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.418762,
+                        39.287919
+                  ]
+            },
+            {
+                  "name": "Quiosque do Atalaião",
+                  "text": "Ein kleiner Kiosk an einem beliebten Aussichtspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.424413,
+                        39.291492
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Bonfim",
+                  "text": "Ein religiöses Denkmal in Form eines Steinkreuzes.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.433988,
+                        39.304305
+                  ]
+            },
+            {
+                  "name": "Miradouro Novo",
+                  "text": "Ein modern gestalteter Aussichtspunkt in Portalegre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.422234,
+                        39.307526
+                  ]
+            },
+            {
+                  "name": "Manufactura de Tapeçarias de Portalegre",
+                  "text": "Eine Werkstatt, die für die Herstellung kunstvoller Tapisserien bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428707,
+                        39.288769
+                  ]
+            },
+            {
+                  "name": "Homenagem aos Dadores de Sangue",
+                  "text": "Ein Denkmal als Dank für freiwillige Blutspender.",
+                  "category": "historical",
+                  "coords": [
+                        -7.431906,
+                        39.278576
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portalegre",
+                  "text": "Das Verwaltungsgebäude der Stadtgemeinde von Portalegre.",
+                  "category": "historical",
+                  "coords": [
+                        -7.429128,
+                        39.2949
+                  ]
+            },
+            {
+                  "name": "Igreja de Santana",
+                  "text": "Eine schlichte Kirche, die der heiligen Anna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.432414,
+                        39.286887
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha",
+                  "text": "Eine kleine Kapelle, die einen Panoramablick über die Stadt bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -7.442336,
+                        39.297426
+                  ]
+            },
+            {
+                  "name": "Capela do Calvário",
+                  "text": "Eine kleine Kapelle, die der Besinnung und dem Gebet dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.427928,
+                        39.296412
+                  ]
+            },
+            {
+                  "name": "Coreto do Jardim do Tarro",
+                  "text": "Ein eleganter Musikpavillon in einer der Parkanlagen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.429355,
+                        39.297961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Portalegrense",
+                  "text": "Nagy múltú színházépület Portalegre szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.43057,
+                        39.294072
+                  ]
+            },
+            {
+                  "name": "Castelo de Portalegre",
+                  "text": "A középkori várfalakról szép kilátás nyílik Portalegre városára.",
+                  "category": "castle",
+                  "coords": [
+                        -7.430575,
+                        39.29106
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Portalegre",
+                  "text": "A városi múzeum szakrális művészetet és helytörténetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.433529,
+                        39.291478
+                  ]
+            },
+            {
+                  "name": "Museu José Régio",
+                  "text": "A José Régio költő lakóházában működő múzeum a művész gyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.429907,
+                        39.288792
+                  ]
+            },
+            {
+                  "name": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                  "text": "A portalegrei szőnyegszövés hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -7.432988,
+                        39.292645
+                  ]
+            },
+            {
+                  "name": "Castelo de Torrejão",
+                  "text": "Egy történelmi erődítmény maradványai a régióban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.423323,
+                        39.2931
+                  ]
+            },
+            {
+                  "name": "Rádio Portalegre",
+                  "text": "Az épület, amely szorosan kötődik a helyi rádiózás történetéhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.426438,
+                        39.301451
+                  ]
+            },
+            {
+                  "name": "Plátano do Rossio",
+                  "text": "Egy hatalmas, 1838-ban ültetett platánfa, a város egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.430257,
+                        39.296079
+                  ]
+            },
+            {
+                  "name": "Miradouro da Serra",
+                  "text": "Kilátóhely, ahonnan pazar kilátás nyílik a hegyekre és a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -7.423669,
+                        39.304522
+                  ]
+            },
+            {
+                  "name": "Kartódromo",
+                  "text": "Gokartozásra alkalmas szabadidős létesítmény Portalegrében.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.423439,
+                        39.275525
+                  ]
+            },
+            {
+                  "name": "Jardim",
+                  "text": "Gondozott kert és park Portalegre belterületén.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.425708,
+                        39.291732
+                  ]
+            },
+            {
+                  "name": "Heliporto do Hospital",
+                  "text": "A kórház melletti helikopter-leszállóhely orvosi vészhelyzetekre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428137,
+                        39.299448
+                  ]
+            },
+            {
+                  "name": "Marco Geodésico",
+                  "text": "Földmérési pont egy magaslaton a földrajzi tájékozódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.418762,
+                        39.287919
+                  ]
+            },
+            {
+                  "name": "Quiosque do Atalaião",
+                  "text": "Kis pavilon egy népszerű kilátóhelyen.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.424413,
+                        39.291492
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Bonfim",
+                  "text": "Vallási emlékhely egy kőkereszt formájában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.433988,
+                        39.304305
+                  ]
+            },
+            {
+                  "name": "Miradouro Novo",
+                  "text": "Modern kialakítású kilátóhely Portalegrében.",
+                  "category": "natural",
+                  "coords": [
+                        -7.422234,
+                        39.307526
+                  ]
+            },
+            {
+                  "name": "Manufactura de Tapeçarias de Portalegre",
+                  "text": "Műhely, amely művészi falikárpitok készítéséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428707,
+                        39.288769
+                  ]
+            },
+            {
+                  "name": "Homenagem aos Dadores de Sangue",
+                  "text": "Az önkéntes véradóknak állított hálaadó emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -7.431906,
+                        39.278576
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portalegre",
+                  "text": "Portalegre városi önkormányzatának igazgatási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -7.429128,
+                        39.2949
+                  ]
+            },
+            {
+                  "name": "Igreja de Santana",
+                  "text": "Szent Annának szentelt egyszerű templom.",
+                  "category": "religious",
+                  "coords": [
+                        -7.432414,
+                        39.286887
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha",
+                  "text": "Kis kápolna, ahonnan panorámás kilátás nyílik a városra.",
+                  "category": "religious",
+                  "coords": [
+                        -7.442336,
+                        39.297426
+                  ]
+            },
+            {
+                  "name": "Capela do Calvário",
+                  "text": "Elmélkedésre és imádságra szolgáló kis kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        -7.427928,
+                        39.296412
+                  ]
+            },
+            {
+                  "name": "Coreto do Jardim do Tarro",
+                  "text": "Elegáns zenepavilon a város egyik parkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.429355,
+                        39.297961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Portalegrense",
+                  "text": "O clădire de teatru cu tradiție situată în inima orașului Portalegre.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.43057,
+                        39.294072
+                  ]
+            },
+            {
+                  "name": "Castelo de Portalegre",
+                  "text": "Castelul medieval oferă o vedere panoramică asupra orașului Portalegre.",
+                  "category": "castle",
+                  "coords": [
+                        -7.430575,
+                        39.29106
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Portalegre",
+                  "text": "Muzeul municipal expune artă sacră și istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        -7.433529,
+                        39.291478
+                  ]
+            },
+            {
+                  "name": "Museu José Régio",
+                  "text": "Muzeul din casa poetului José Régio expune colecțiile acestuia.",
+                  "category": "museum",
+                  "coords": [
+                        -7.429907,
+                        39.288792
+                  ]
+            },
+            {
+                  "name": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                  "text": "Un muzeu dedicat tradiției tapiseriilor de Portalegre.",
+                  "category": "museum",
+                  "coords": [
+                        -7.432988,
+                        39.292645
+                  ]
+            },
+            {
+                  "name": "Castelo de Torrejão",
+                  "text": "Vestigiile unei fortificații istorice din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        -7.423323,
+                        39.2931
+                  ]
+            },
+            {
+                  "name": "Rádio Portalegre",
+                  "text": "O clădire strâns legată de istoria radiodifuziunii locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.426438,
+                        39.301451
+                  ]
+            },
+            {
+                  "name": "Plátano do Rossio",
+                  "text": "Un platan uriaș plantat în 1838, care este un simbol al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.430257,
+                        39.296079
+                  ]
+            },
+            {
+                  "name": "Miradouro da Serra",
+                  "text": "Un punct de observație cu o vedere panoramică asupra munților și orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -7.423669,
+                        39.304522
+                  ]
+            },
+            {
+                  "name": "Kartódromo",
+                  "text": "O facilitate de agrement pentru karting în Portalegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.423439,
+                        39.275525
+                  ]
+            },
+            {
+                  "name": "Jardim",
+                  "text": "O grădină îngrijită situată în zona urbană a orașului Portalegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.425708,
+                        39.291732
+                  ]
+            },
+            {
+                  "name": "Heliporto do Hospital",
+                  "text": "Un heliport pentru urgențe medicale situat lângă spital.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428137,
+                        39.299448
+                  ]
+            },
+            {
+                  "name": "Marco Geodésico",
+                  "text": "Un punct de măsurare situat pe o culme pentru orientare geografică.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.418762,
+                        39.287919
+                  ]
+            },
+            {
+                  "name": "Quiosque do Atalaião",
+                  "text": "Un mic chioșc situat într-un punct de belvedere popular.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.424413,
+                        39.291492
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Bonfim",
+                  "text": "Un monument religios sub formă de cruce de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.433988,
+                        39.304305
+                  ]
+            },
+            {
+                  "name": "Miradouro Novo",
+                  "text": "Un punct de belvedere cu design modern în Portalegre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.422234,
+                        39.307526
+                  ]
+            },
+            {
+                  "name": "Manufactura de Tapeçarias de Portalegre",
+                  "text": "Un atelier renumit pentru fabricarea tapiseriilor artistice.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428707,
+                        39.288769
+                  ]
+            },
+            {
+                  "name": "Homenagem aos Dadores de Sangue",
+                  "text": "Un monument ridicat în semn de recunoștință pentru donatorii de sânge.",
+                  "category": "historical",
+                  "coords": [
+                        -7.431906,
+                        39.278576
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portalegre",
+                  "text": "Clădirea administrativă a municipalității din Portalegre.",
+                  "category": "historical",
+                  "coords": [
+                        -7.429128,
+                        39.2949
+                  ]
+            },
+            {
+                  "name": "Igreja de Santana",
+                  "text": "O biserică simplă dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.432414,
+                        39.286887
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha",
+                  "text": "O mică chapelă ce oferă o vedere panoramică asupra orașului.",
+                  "category": "religious",
+                  "coords": [
+                        -7.442336,
+                        39.297426
+                  ]
+            },
+            {
+                  "name": "Capela do Calvário",
+                  "text": "O mică chapelă destinată meditației și rugăciunii.",
+                  "category": "religious",
+                  "coords": [
+                        -7.427928,
+                        39.296412
+                  ]
+            },
+            {
+                  "name": "Coreto do Jardim do Tarro",
+                  "text": "Un foișor elegant pentru fanfară situat într-unul din parcurile orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.429355,
+                        39.297961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Portalegrense",
+                  "text": "A theatre building with a long tradition in the heart of Portalegre.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.43057,
+                        39.294072
+                  ]
+            },
+            {
+                  "name": "Castelo de Portalegre",
+                  "text": "The medieval castle offers panoramic views over Portalegre.",
+                  "category": "castle",
+                  "coords": [
+                        -7.430575,
+                        39.29106
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Portalegre",
+                  "text": "The municipal museum displays sacred art and local history.",
+                  "category": "museum",
+                  "coords": [
+                        -7.433529,
+                        39.291478
+                  ]
+            },
+            {
+                  "name": "Museu José Régio",
+                  "text": "The museum in the house of poet José Régio showcases his private collections.",
+                  "category": "museum",
+                  "coords": [
+                        -7.429907,
+                        39.288792
+                  ]
+            },
+            {
+                  "name": "Museu da Tapeçaria de Portalegre - Guy Fino",
+                  "text": "A museum dedicated to the traditional tapestry art of Portalegre.",
+                  "category": "museum",
+                  "coords": [
+                        -7.432988,
+                        39.292645
+                  ]
+            },
+            {
+                  "name": "Castelo de Torrejão",
+                  "text": "Remains of a historic fortification in the region.",
+                  "category": "castle",
+                  "coords": [
+                        -7.423323,
+                        39.2931
+                  ]
+            },
+            {
+                  "name": "Rádio Portalegre",
+                  "text": "A building closely linked to the history of local radio broadcasting.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.426438,
+                        39.301451
+                  ]
+            },
+            {
+                  "name": "Plátano do Rossio",
+                  "text": "A giant plane tree planted in 1838, which is a landmark of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.430257,
+                        39.296079
+                  ]
+            },
+            {
+                  "name": "Miradouro da Serra",
+                  "text": "A viewpoint offering broad vistas over the mountains and the city.",
+                  "category": "natural",
+                  "coords": [
+                        -7.423669,
+                        39.304522
+                  ]
+            },
+            {
+                  "name": "Kartódromo",
+                  "text": "A leisure facility for go-karting in Portalegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.423439,
+                        39.275525
+                  ]
+            },
+            {
+                  "name": "Jardim",
+                  "text": "A well-maintained garden area within the urban part of Portalegre.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.425708,
+                        39.291732
+                  ]
+            },
+            {
+                  "name": "Heliporto do Hospital",
+                  "text": "A helipad for medical emergencies located at the hospital.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428137,
+                        39.299448
+                  ]
+            },
+            {
+                  "name": "Marco Geodésico",
+                  "text": "A surveying marker on a height used for geographical orientation.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.418762,
+                        39.287919
+                  ]
+            },
+            {
+                  "name": "Quiosque do Atalaião",
+                  "text": "A small kiosk located at a popular viewpoint.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.424413,
+                        39.291492
+                  ]
+            },
+            {
+                  "name": "Cruzeiro do Bonfim",
+                  "text": "A religious monument in the form of a stone cross.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.433988,
+                        39.304305
+                  ]
+            },
+            {
+                  "name": "Miradouro Novo",
+                  "text": "A modernly designed viewpoint in Portalegre.",
+                  "category": "natural",
+                  "coords": [
+                        -7.422234,
+                        39.307526
+                  ]
+            },
+            {
+                  "name": "Manufactura de Tapeçarias de Portalegre",
+                  "text": "A workshop famous for the production of artistic tapestries.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.428707,
+                        39.288769
+                  ]
+            },
+            {
+                  "name": "Homenagem aos Dadores de Sangue",
+                  "text": "A monument erected in gratitude to voluntary blood donors.",
+                  "category": "historical",
+                  "coords": [
+                        -7.431906,
+                        39.278576
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Portalegre",
+                  "text": "The administrative building of the Portalegre municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -7.429128,
+                        39.2949
+                  ]
+            },
+            {
+                  "name": "Igreja de Santana",
+                  "text": "A simple church dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        -7.432414,
+                        39.286887
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora da Penha",
+                  "text": "A small chapel providing a panoramic view over the city.",
+                  "category": "religious",
+                  "coords": [
+                        -7.442336,
+                        39.297426
+                  ]
+            },
+            {
+                  "name": "Capela do Calvário",
+                  "text": "A small chapel used for reflection and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        -7.427928,
+                        39.296412
+                  ]
+            },
+            {
+                  "name": "Coreto do Jardim do Tarro",
+                  "text": "An elegant bandstand located in one of the city's parks.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.429355,
+                        39.297961
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.4313, 39.2967],
@@ -4052,7 +20288,736 @@ export const portugalCities: POI[] = [
     },
   },
   {
-    id: "city-castelo-branco",
+    id: "city-castelo-branco", "sights": {
+      "de": [
+            {
+                  "name": "Casa do Arco do Bispo",
+                  "text": "Die Casa do Arco do Bispo ist ein Museum in Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.49346,
+                        39.825578
+                  ]
+            },
+            {
+                  "name": "Castelo de Castelo Branco",
+                  "text": "Das Castelo de Castelo Branco ist eine historische Burg in der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        -7.496537,
+                        39.825536
+                  ]
+            },
+            {
+                  "name": "Museu Francisco Tavares Proença Júnior",
+                  "text": "Das Museu Francisco Tavares Proença Júnior ist ein wichtiges Regionalmuseum, das im ehemaligen Bischofspalast untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494233,
+                        39.828233
+                  ]
+            },
+            {
+                  "name": "Convento da Graça Museu de Arte Sacra",
+                  "text": "Das Convento da Graça Museu de Arte Sacra ist ein Kloster und Museum in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494409,
+                        39.829373
+                  ]
+            },
+            {
+                  "name": "Casa da Memória da Presença Judaica em Castelo Branco",
+                  "text": "Die Casa da Memória da Presença Judaica em Castelo Branco ist ein Museum in Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492902,
+                        39.827135
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Contemporânea de Castelo Branco",
+                  "text": "Das Centro de Cultura Contemporânea de Castelo Branco ist ein Museum in der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.490171,
+                        39.823326
+                  ]
+            },
+            {
+                  "name": "Museu Cargaleiro",
+                  "text": "Das Museu Cargaleiro ist ein Museum in Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494729,
+                        39.825279
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Castelo Branco",
+                  "text": "Die Câmara Municipal de Castelo Branco ist ein herrschaftliches Gebäude in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.49303,
+                        39.822717
+                  ]
+            },
+            {
+                  "name": "Associação Cultural E Desportiva Carapalha",
+                  "text": "Die Associação Cultural E Desportiva Carapalha ist ein Kulturzentrum in Castelo Branco.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483386,
+                        39.81534
+                  ]
+            },
+            {
+                  "name": "Antigos Palheiros",
+                  "text": "Die Antigos Palheiros sind Ruinen in Castelo Branco.",
+                  "category": "historical",
+                  "coords": [
+                        -7.485134,
+                        39.828224
+                  ]
+            },
+            {
+                  "name": "Mirante da Senhora de Mércoles",
+                  "text": "Der Mirante da Senhora de Mércoles ist ein Aussichtspunkt in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492701,
+                        39.812525
+                  ]
+            },
+            {
+                  "name": "Mirante de Castelo Branco",
+                  "text": "Der Mirante de Castelo Branco ist ein Aussichtspunkt in der Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493528,
+                        39.815089
+                  ]
+            },
+            {
+                  "name": "Fábrica da Criatividade",
+                  "text": "Die Fábrica da Criatividade ist ein Kunstzentrum in Castelo Branco.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483074,
+                        39.824342
+                  ]
+            },
+            {
+                  "name": "Mirante da Raia",
+                  "text": "Der Mirante da Raia ist ein Aussichtspunkt in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492903,
+                        39.810778
+                  ]
+            },
+            {
+                  "name": "Mirante do Barrocal",
+                  "text": "Der Mirante do Barrocal ist ein Aussichtspunkt in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493475,
+                        39.813948
+                  ]
+            },
+            {
+                  "name": "Mirante do Carvalhal",
+                  "text": "Der Mirante do Carvalhal ist ein Aussichtspunkt in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.49384,
+                        39.811406
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Castelo Branco",
+                  "text": "Die Sé Catedral de Castelo Branco ist eine bedeutende Kirche in der portugiesischen Stadt Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491026,
+                        39.826729
+                  ]
+            },
+            {
+                  "name": "Capela de São Marcos",
+                  "text": "Die Capela de São Marcos ist eine religiöse Stätte in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489671,
+                        39.824668
+                  ]
+            },
+            {
+                  "name": "Capela do Espírito Santo",
+                  "text": "Die Capela do Espírito Santo ist eine religiöse Stätte in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494917,
+                        39.822411
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora Fátima",
+                  "text": "Die Igreja Nossa Senhora Fátima ist eine religiöse Stätte in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491361,
+                        39.820764
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa do Arco do Bispo",
+                  "text": "A Casa do Arco do Bispo egy múzeum Castelo Brancóban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.49346,
+                        39.825578
+                  ]
+            },
+            {
+                  "name": "Castelo de Castelo Branco",
+                  "text": "A Castelo de Castelo Branco egy történelmi vár a városban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.496537,
+                        39.825536
+                  ]
+            },
+            {
+                  "name": "Museu Francisco Tavares Proença Júnior",
+                  "text": "A Museu Francisco Tavares Proença Júnior egy fontos regionális múzeum az egykori püspöki palotában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494233,
+                        39.828233
+                  ]
+            },
+            {
+                  "name": "Convento da Graça Museu de Arte Sacra",
+                  "text": "A Convento da Graça Museu de Arte Sacra egy kolostor és múzeum Castelo Brancóban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494409,
+                        39.829373
+                  ]
+            },
+            {
+                  "name": "Casa da Memória da Presença Judaica em Castelo Branco",
+                  "text": "A Casa da Memória da Presença Judaica em Castelo Branco egy múzeum Castelo Brancóban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492902,
+                        39.827135
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Contemporânea de Castelo Branco",
+                  "text": "A Centro de Cultura Contemporânea de Castelo Branco egy múzeum a városban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.490171,
+                        39.823326
+                  ]
+            },
+            {
+                  "name": "Museu Cargaleiro",
+                  "text": "A Museu Cargaleiro egy múzeum Castelo Brancóban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494729,
+                        39.825279
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Castelo Branco",
+                  "text": "A Câmara Municipal de Castelo Branco egy udvarház a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.49303,
+                        39.822717
+                  ]
+            },
+            {
+                  "name": "Associação Cultural E Desportiva Carapalha",
+                  "text": "Az Associação Cultural E Desportiva Carapalha egy kulturális központ Castelo Brancóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483386,
+                        39.81534
+                  ]
+            },
+            {
+                  "name": "Antigos Palheiros",
+                  "text": "Az Antigos Palheiros romok Castelo Brancóban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.485134,
+                        39.828224
+                  ]
+            },
+            {
+                  "name": "Mirante da Senhora de Mércoles",
+                  "text": "A Mirante da Senhora de Mércoles egy kilátó Castelo Brancóban.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492701,
+                        39.812525
+                  ]
+            },
+            {
+                  "name": "Mirante de Castelo Branco",
+                  "text": "A Mirante de Castelo Branco egy kilátó a városban.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493528,
+                        39.815089
+                  ]
+            },
+            {
+                  "name": "Fábrica da Criatividade",
+                  "text": "A Fábrica da Criatividade egy művészeti központ Castelo Brancóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483074,
+                        39.824342
+                  ]
+            },
+            {
+                  "name": "Mirante da Raia",
+                  "text": "A Mirante da Raia egy kilátó Castelo Brancóban.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492903,
+                        39.810778
+                  ]
+            },
+            {
+                  "name": "Mirante do Barrocal",
+                  "text": "A Mirante do Barrocal egy kilátó Castelo Brancóban.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493475,
+                        39.813948
+                  ]
+            },
+            {
+                  "name": "Mirante do Carvalhal",
+                  "text": "A Mirante do Carvalhal egy kilátó Castelo Brancóban.",
+                  "category": "natural",
+                  "coords": [
+                        -7.49384,
+                        39.811406
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Castelo Branco",
+                  "text": "A Sé Catedral de Castelo Branco egy jelentős templom a portugáliai Castelo Branco városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491026,
+                        39.826729
+                  ]
+            },
+            {
+                  "name": "Capela de São Marcos",
+                  "text": "A Capela de São Marcos egy vallási helyszín Castelo Branco városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489671,
+                        39.824668
+                  ]
+            },
+            {
+                  "name": "Capela do Espírito Santo",
+                  "text": "A Capela do Espírito Santo egy vallási helyszín Castelo Branco városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494917,
+                        39.822411
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora Fátima",
+                  "text": "Az Igreja Nossa Senhora Fátima egy vallási helyszín Castelo Branco városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491361,
+                        39.820764
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa do Arco do Bispo",
+                  "text": "Casa do Arco do Bispo este un muzeu din Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.49346,
+                        39.825578
+                  ]
+            },
+            {
+                  "name": "Castelo de Castelo Branco",
+                  "text": "Castelo de Castelo Branco este un castel istoric din oraș.",
+                  "category": "castle",
+                  "coords": [
+                        -7.496537,
+                        39.825536
+                  ]
+            },
+            {
+                  "name": "Museu Francisco Tavares Proença Júnior",
+                  "text": "Museu Francisco Tavares Proença Júnior este un important muzeu regional găzduit în fostul Palat Episcopal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494233,
+                        39.828233
+                  ]
+            },
+            {
+                  "name": "Convento da Graça Museu de Arte Sacra",
+                  "text": "Convento da Graça Museu de Arte Sacra este o mănăstire și un muzeu în Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494409,
+                        39.829373
+                  ]
+            },
+            {
+                  "name": "Casa da Memória da Presença Judaica em Castelo Branco",
+                  "text": "Casa da Memória da Presença Judaica em Castelo Branco este un muzeu din Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492902,
+                        39.827135
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Contemporânea de Castelo Branco",
+                  "text": "Centro de Cultura Contemporânea de Castelo Branco este un muzeu din oraș.",
+                  "category": "museum",
+                  "coords": [
+                        -7.490171,
+                        39.823326
+                  ]
+            },
+            {
+                  "name": "Museu Cargaleiro",
+                  "text": "Museu Cargaleiro este un muzeu din Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494729,
+                        39.825279
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Castelo Branco",
+                  "text": "Câmara Municipal de Castelo Branco este un conac din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -7.49303,
+                        39.822717
+                  ]
+            },
+            {
+                  "name": "Associação Cultural E Desportiva Carapalha",
+                  "text": "Associação Cultural E Desportiva Carapalha este un centru de arte din Castelo Branco.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483386,
+                        39.81534
+                  ]
+            },
+            {
+                  "name": "Antigos Palheiros",
+                  "text": "Antigos Palheiros reprezintă niște ruine din Castelo Branco.",
+                  "category": "historical",
+                  "coords": [
+                        -7.485134,
+                        39.828224
+                  ]
+            },
+            {
+                  "name": "Mirante da Senhora de Mércoles",
+                  "text": "Mirante da Senhora de Mércoles este un punct de belvedere din Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492701,
+                        39.812525
+                  ]
+            },
+            {
+                  "name": "Mirante de Castelo Branco",
+                  "text": "Mirante de Castelo Branco este un punct de belvedere din oraș.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493528,
+                        39.815089
+                  ]
+            },
+            {
+                  "name": "Fábrica da Criatividade",
+                  "text": "Fábrica da Criatividade este un centru de arte din Castelo Branco.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483074,
+                        39.824342
+                  ]
+            },
+            {
+                  "name": "Mirante da Raia",
+                  "text": "Mirante da Raia este un punct de belvedere din Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492903,
+                        39.810778
+                  ]
+            },
+            {
+                  "name": "Mirante do Barrocal",
+                  "text": "Mirante do Barrocal este un punct de belvedere din Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493475,
+                        39.813948
+                  ]
+            },
+            {
+                  "name": "Mirante do Carvalhal",
+                  "text": "Mirante do Carvalhal este un punct de belvedere din Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.49384,
+                        39.811406
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Castelo Branco",
+                  "text": "Sé Catedral de Castelo Branco este o biserică importantă din orașul portughez Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491026,
+                        39.826729
+                  ]
+            },
+            {
+                  "name": "Capela de São Marcos",
+                  "text": "Capela de São Marcos este un lăcaș de cult în Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489671,
+                        39.824668
+                  ]
+            },
+            {
+                  "name": "Capela do Espírito Santo",
+                  "text": "Capela do Espírito Santo este un lăcaș de cult în Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494917,
+                        39.822411
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora Fátima",
+                  "text": "Igreja Nossa Senhora Fátima este un lăcaș de cult în Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491361,
+                        39.820764
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa do Arco do Bispo",
+                  "text": "The Casa do Arco do Bispo is a museum in Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.49346,
+                        39.825578
+                  ]
+            },
+            {
+                  "name": "Castelo de Castelo Branco",
+                  "text": "The Castelo de Castelo Branco is a historic castle located in the city.",
+                  "category": "castle",
+                  "coords": [
+                        -7.496537,
+                        39.825536
+                  ]
+            },
+            {
+                  "name": "Museu Francisco Tavares Proença Júnior",
+                  "text": "The Museu Francisco Tavares Proença Júnior is an important regional museum housed in the former Episcopal Palace.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494233,
+                        39.828233
+                  ]
+            },
+            {
+                  "name": "Convento da Graça Museu de Arte Sacra",
+                  "text": "The Convento da Graça Museu de Arte Sacra is a monastery and museum in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494409,
+                        39.829373
+                  ]
+            },
+            {
+                  "name": "Casa da Memória da Presença Judaica em Castelo Branco",
+                  "text": "The Casa da Memória da Presença Judaica em Castelo Branco is a museum in Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492902,
+                        39.827135
+                  ]
+            },
+            {
+                  "name": "Centro de Cultura Contemporânea de Castelo Branco",
+                  "text": "The Centro de Cultura Contemporânea de Castelo Branco is a museum in the city.",
+                  "category": "museum",
+                  "coords": [
+                        -7.490171,
+                        39.823326
+                  ]
+            },
+            {
+                  "name": "Museu Cargaleiro",
+                  "text": "The Museu Cargaleiro is a museum located in Castelo Branco.",
+                  "category": "museum",
+                  "coords": [
+                        -7.494729,
+                        39.825279
+                  ]
+            },
+            {
+                  "name": "Câmara Municipal de Castelo Branco",
+                  "text": "The Câmara Municipal de Castelo Branco is a manor located in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -7.49303,
+                        39.822717
+                  ]
+            },
+            {
+                  "name": "Associação Cultural E Desportiva Carapalha",
+                  "text": "The Associação Cultural E Desportiva Carapalha is an arts centre in Castelo Branco.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483386,
+                        39.81534
+                  ]
+            },
+            {
+                  "name": "Antigos Palheiros",
+                  "text": "The Antigos Palheiros are ruins located in Castelo Branco.",
+                  "category": "historical",
+                  "coords": [
+                        -7.485134,
+                        39.828224
+                  ]
+            },
+            {
+                  "name": "Mirante da Senhora de Mércoles",
+                  "text": "The Mirante da Senhora de Mércoles is a viewpoint in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492701,
+                        39.812525
+                  ]
+            },
+            {
+                  "name": "Mirante de Castelo Branco",
+                  "text": "The Mirante de Castelo Branco is a viewpoint in the city.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493528,
+                        39.815089
+                  ]
+            },
+            {
+                  "name": "Fábrica da Criatividade",
+                  "text": "The Fábrica da Criatividade is an arts centre located in Castelo Branco.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.483074,
+                        39.824342
+                  ]
+            },
+            {
+                  "name": "Mirante da Raia",
+                  "text": "The Mirante da Raia is a viewpoint in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.492903,
+                        39.810778
+                  ]
+            },
+            {
+                  "name": "Mirante do Barrocal",
+                  "text": "The Mirante do Barrocal is a viewpoint in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.493475,
+                        39.813948
+                  ]
+            },
+            {
+                  "name": "Mirante do Carvalhal",
+                  "text": "The Mirante do Carvalhal is a viewpoint in Castelo Branco.",
+                  "category": "natural",
+                  "coords": [
+                        -7.49384,
+                        39.811406
+                  ]
+            },
+            {
+                  "name": "Sé Catedral de Castelo Branco",
+                  "text": "The Sé Catedral de Castelo Branco is an important church in the Portuguese city of Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491026,
+                        39.826729
+                  ]
+            },
+            {
+                  "name": "Capela de São Marcos",
+                  "text": "The Capela de São Marcos is a place of worship in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489671,
+                        39.824668
+                  ]
+            },
+            {
+                  "name": "Capela do Espírito Santo",
+                  "text": "The Capela do Espírito Santo is a place of worship in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.494917,
+                        39.822411
+                  ]
+            },
+            {
+                  "name": "Igreja Nossa Senhora Fátima",
+                  "text": "The Igreja Nossa Senhora Fátima is a place of worship in Castelo Branco.",
+                  "category": "religious",
+                  "coords": [
+                        -7.491361,
+                        39.820764
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-7.49, 39.8222],

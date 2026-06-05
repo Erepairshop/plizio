@@ -4,7 +4,1852 @@ import type { POI } from "./poi";
 
 export const poiExtraSloveniaCities: POI[] = [
   {
-    id: "city-ljubljana-extra",
+    id: "city-ljubljana-extra", "sights": {
+      "de": [
+            {
+                  "name": "Mestni muzej Ljubljana",
+                  "text": "Das Mestni muzej Ljubljana ist das Stadtmuseum der slowenischen Hauptstadt Ljubljana.",
+                  "category": "museum",
+                  "coords": [
+                        14.504024,
+                        46.047004
+                  ]
+            },
+            {
+                  "name": "Računalniški muzej",
+                  "text": "Dieses Museum in Ljubljana dokumentiert die slowenische und internationale Computergeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        14.490352,
+                        46.068551
+                  ]
+            },
+            {
+                  "name": "Tivolski grad",
+                  "text": "Tivolski grad ist ein historisches Schloss, das sich im Tivoli-Park in Ljubljana befindet.",
+                  "category": "castle",
+                  "coords": [
+                        14.492925,
+                        46.054632
+                  ]
+            },
+            {
+                  "name": "Burg von Ljubljana",
+                  "text": "Das Ljubljana Castle ist eine markante Burganlage über der Altstadt von Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.50857,
+                        46.04885
+                  ]
+            },
+            {
+                  "name": "Nationalgalerie",
+                  "text": "Die Nationalgalerie in Ljubljana beherbergt die bedeutendste Kunstsammlung Sloweniens.",
+                  "category": "museum",
+                  "coords": [
+                        14.500252,
+                        46.05398
+                  ]
+            },
+            {
+                  "name": "Železniški muzej Slovenskih železnic",
+                  "text": "Das Slowenische Eisenbahnmuseum in Ljubljana dokumentiert die Geschichte des Schienenverkehrs im Land.",
+                  "category": "museum",
+                  "coords": [
+                        14.502556,
+                        46.062609
+                  ]
+            },
+            {
+                  "name": "Plečnik-Haus",
+                  "text": "Die Plečnik House ist ein Museum im ehemaligen Wohnhaus des berühmten slowenischen Architekten Jože Plečnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.502242,
+                        46.042366
+                  ]
+            },
+            {
+                  "name": "Slovenski etnografski muzej",
+                  "text": "Das Slowenische Ethnografische Museum in Ljubljana präsentiert die traditionelle und alltägliche Kultur Sloweniens.",
+                  "category": "museum",
+                  "coords": [
+                        14.516175,
+                        46.054977
+                  ]
+            },
+            {
+                  "name": "Gruberjeva palača",
+                  "text": "Die Gruberjeva palača ist ein prächtiges Barockpalais im Zentrum von Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.507035,
+                        46.04543
+                  ]
+            },
+            {
+                  "name": "Škuc",
+                  "text": "Die Škuc ist eine bekannte Galerie für zeitgenössische Kunst in Ljubljana.",
+                  "category": "museum",
+                  "coords": [
+                        14.50665,
+                        46.047002
+                  ]
+            },
+            {
+                  "name": "Navje",
+                  "text": "Navje ist ein monumentaler Gedenkpark in Ljubljana, in dem berühmte slowenische Persönlichkeiten begraben sind.",
+                  "category": "historical",
+                  "coords": [
+                        14.511859,
+                        46.060763
+                  ]
+            },
+            {
+                  "name": "Galetov grad",
+                  "text": "Galetov grad ist ein historisches Herrenhaus in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.489651,
+                        46.066167
+                  ]
+            },
+            {
+                  "name": "Hotel Bellevue",
+                  "text": "Die Ruinen des Hotel Bellevue zeugen von einem ehemals bedeutenden Gebäude in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.494692,
+                        46.061577
+                  ]
+            },
+            {
+                  "name": "Prešernov spomenik",
+                  "text": "Das Prešern-Denkmal auf dem Prešeren-Platz in Ljubljana ehrt den slowenischen Nationaldichter France Prešeren.",
+                  "category": "historical",
+                  "coords": [
+                        14.50631,
+                        46.051378
+                  ]
+            },
+            {
+                  "name": "Mestna občina Ljubljana",
+                  "text": "Dies ist das historische Rathaus, in dem sich die Stadtverwaltung von Ljubljana befindet.",
+                  "category": "historical",
+                  "coords": [
+                        14.507157,
+                        46.049805
+                  ]
+            },
+            {
+                  "name": "Slovensko mladinsko gledališče",
+                  "text": "Das Slovensko mladinsko gledališče ist ein innovatives Jugendtheater in Ljubljana.",
+                  "category": "cultural",
+                  "coords": [
+                        14.509605,
+                        46.061023
+                  ]
+            },
+            {
+                  "name": "Kulturnica",
+                  "text": "Kulturnica ist ein Theaterstudio in Ljubljana, das oft für Puppenspielproduktionen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.504689,
+                        46.048575
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Ljubljana",
+                  "text": "Das Puppentheater Ljubljana ist eine der wichtigsten Institutionen für Figurentheater in Slowenien.",
+                  "category": "cultural",
+                  "coords": [
+                        14.510096,
+                        46.050099
+                  ]
+            },
+            {
+                  "name": "SNG Opera in balet Ljubljana",
+                  "text": "Die SNG Opera in balet Ljubljana ist das nationale Opern- und Balletthaus der slowenischen Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        14.500423,
+                        46.052693
+                  ]
+            },
+            {
+                  "name": "Drama",
+                  "text": "Die Ljubljana Drama ist das bedeutendste Nationaltheater für Schauspielproduktionen in Slowenien.",
+                  "category": "cultural",
+                  "coords": [
+                        14.501276,
+                        46.0488
+                  ]
+            },
+            {
+                  "name": "Vodnikova domačija",
+                  "text": "Die Vodnikova domačija ist ein Kultur- und Kunstzentrum im ehemaligen Wohnhaus des Dichters Valentin Vodnik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.485997,
+                        46.067083
+                  ]
+            },
+            {
+                  "name": "Metelkova",
+                  "text": "Metelkova ist ein autonomes kulturelles Zentrum und Zentrum für alternative Kunst in Ljubljana.",
+                  "category": "cultural",
+                  "coords": [
+                        14.516965,
+                        46.056868
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega obiskanja",
+                  "text": "Die Kirche Mariä Heimsuchung ist eine historische Kultstätte in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.47735,
+                        46.055108
+                  ]
+            },
+            {
+                  "name": "Kathedrale Heiliger Nikolaus",
+                  "text": "Die Kathedrale von Ljubljana ist die römisch-katholische Hauptkirche der slowenischen Hauptstadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.508252,
+                        46.050763
+                  ]
+            },
+            {
+                  "name": "Uršulinska cerkev svete Trojice",
+                  "text": "Die Ursulinenkirche der Heiligen Dreifaltigkeit ist eine bekannte barocke Kirche in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.501926,
+                        46.050135
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Jerneja",
+                  "text": "Die Bartholomäuskirche ist ein historisches Gotteshaus im Viertel Šiška in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.494384,
+                        46.063222
+                  ]
+            },
+            {
+                  "name": "Sv, Anton Padovanski",
+                  "text": "Diese Kirche in Ljubljana ist dem Heiligen Antonius von Padua gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        14.478069,
+                        46.041755
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev svetega Frančiška Asiškega",
+                  "text": "Die Pfarrkirche des Heiligen Franz von Assisi in Ljubljana ist ein bekanntes Werk des Architekten Jože Plečnik.",
+                  "category": "religious",
+                  "coords": [
+                        14.496761,
+                        46.068272
+                  ]
+            },
+            {
+                  "name": "Mormonska cerkev",
+                  "text": "Dies ist eine Kirche der Mormonen, die sich in Ljubljana befindet.",
+                  "category": "religious",
+                  "coords": [
+                        14.479026,
+                        46.07026
+                  ]
+            },
+            {
+                  "name": "Ljubljanska džamija",
+                  "text": "Die Džamija in Ljubljana ist das islamische religiöse und kulturelle Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        14.502156,
+                        46.060818
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Florijana",
+                  "text": "Die St. Florianskirche ist ein barockes Gotteshaus in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.508731,
+                        46.046228
+                  ]
+            },
+            {
+                  "name": "Krakovska kapelica",
+                  "text": "Die Krakovska kapelica ist eine kleine, historische Kapelle in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.502233,
+                        46.044934
+                  ]
+            },
+            {
+                  "name": "Astronomsko geofizikalni observatorij Golovec",
+                  "text": "Das Astronomisch-Geophysikalische Observatorium Golovec ist eine Sternwarte in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527809,
+                        46.043828
+                  ]
+            },
+            {
+                  "name": "Drachenbrücke",
+                  "text": "Die Drachenbrücke ist eine berühmte Jugendstilbrücke in Ljubljana, die mit Drachenstatuen verziert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510406,
+                        46.051949
+                  ]
+            },
+            {
+                  "name": "Karlovški most-novi",
+                  "text": "Der neue Karlovški most ist eine wichtige Verkehrsbrücke in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514436,
+                        46.042181
+                  ]
+            },
+            {
+                  "name": "Mesarski most",
+                  "text": "Die Metzgerbrücke in Ljubljana ist eine moderne Fußgängerbrücke, die für ihre Liebesschlösser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508792,
+                        46.051724
+                  ]
+            },
+            {
+                  "name": "Prulski most",
+                  "text": "Der Prulski most ist eine Brücke über den Fluss Ljubljanica in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.509434,
+                        46.041491
+                  ]
+            },
+            {
+                  "name": "Šempetrski most",
+                  "text": "Der Šempetrski most verbindet verschiedene Stadtteile von Ljubljana über das Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        14.516466,
+                        46.050489
+                  ]
+            },
+            {
+                  "name": "Fabianijev most",
+                  "text": "Der Fabianijev most ist eine moderne Doppelstockbrücke in Ljubljana, die nach dem Architekten Max Fabiani benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.519389,
+                        46.050092
+                  ]
+            },
+            {
+                  "name": "Hradeckega most",
+                  "text": "Der Hradeckega most ist eine der ältesten erhaltenen gusseisernen Brücken in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505742,
+                        46.044406
+                  ]
+            },
+            {
+                  "name": "Plečnikov most",
+                  "text": "Der Trnovo-Brücke in Ljubljana ist ein bekanntes Werk von Jože Plečnik und wird von Bäumen gesäumt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502172,
+                        46.043378
+                  ]
+            },
+            {
+                  "name": "Ribja brv",
+                  "text": "Ribja brv ist eine moderne Fußgängerbrücke mit transparenten Elementen in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505545,
+                        46.050291
+                  ]
+            },
+            {
+                  "name": "Schusterbrücke",
+                  "text": "Die Schusterbrücke ist eine elegante Brücke in Ljubljana, die vom Architekten Jože Plečnik entworfen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505592,
+                        46.048427
+                  ]
+            },
+            {
+                  "name": "Šentjakobski most",
+                  "text": "Der Šentjakobski most ist eine Straßenbrücke, die den Fluss in Ljubljana überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505588,
+                        46.045863
+                  ]
+            },
+            {
+                  "name": "Šišenski hrib",
+                  "text": "Der Šišenski hrib ist ein bewaldeter Hügel im Tivoli-Rožnik-Šišenski hrib Landschaftspark in Ljubljana.",
+                  "category": "natural",
+                  "coords": [
+                        14.48844,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Miklošičev park",
+                  "text": "Der Miklošičev park ist ein öffentlicher Park in Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.506531,
+                        46.054258
+                  ]
+            },
+            {
+                  "name": "Ambrožev trg",
+                  "text": "Ambrožev trg ist ein Park und Platz in Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.517666,
+                        46.049898
+                  ]
+            },
+            {
+                  "name": "Šlajmerjev park",
+                  "text": "Der Šlajmer Park ist ein Park in Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.522977,
+                        46.053034
+                  ]
+            },
+            {
+                  "name": "šance",
+                  "text": "Šance ist eine archäologische Stätte mit ehemaligen Befestigungsresten in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.480994,
+                        46.064574
+                  ]
+            },
+            {
+                  "name": "Spomenik Ć",
+                  "text": "Spomenik Ć ist ein öffentliches Denkmal in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.515419,
+                        46.052036
+                  ]
+            },
+            {
+                  "name": "Grad Rakovnik",
+                  "text": "Grad Rakovnik ist ein historisches Herrenhaus in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.525945,
+                        46.037431
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mestni muzej Ljubljana",
+                  "text": "A Mestni muzej Ljubljana Szlovénia fővárosának városi múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        14.504024,
+                        46.047004
+                  ]
+            },
+            {
+                  "name": "Računalniški muzej",
+                  "text": "Ez a ljubljanai múzeum a szlovén és a nemzetközi számítástechnika történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.490352,
+                        46.068551
+                  ]
+            },
+            {
+                  "name": "Tivolski grad",
+                  "text": "A Tivolski grad egy történelmi kastély a ljubljanai Tivoli parkban.",
+                  "category": "castle",
+                  "coords": [
+                        14.492925,
+                        46.054632
+                  ]
+            },
+            {
+                  "name": "Ljubljanski grad",
+                  "text": "A ljubljanai vár egy jelentős erődítmény, amely a szlovén főváros óvárosa fölött magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        14.50857,
+                        46.04885
+                  ]
+            },
+            {
+                  "name": "Narodna galerija",
+                  "text": "A ljubljanai Nemzeti Galéria Szlovénia legjelentősebb történelmi művészeti gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        14.500252,
+                        46.05398
+                  ]
+            },
+            {
+                  "name": "Železniški muzej Slovenskih železnic",
+                  "text": "A szlovén Vasúti Múzeum Ljubljana városában mutatja be a nemzeti vasút történetét.",
+                  "category": "museum",
+                  "coords": [
+                        14.502556,
+                        46.062609
+                  ]
+            },
+            {
+                  "name": "Plečnikova hiša",
+                  "text": "A Plečnik-ház egy múzeum Jože Plečnik híres szlovén építész egykori otthonában.",
+                  "category": "museum",
+                  "coords": [
+                        14.502242,
+                        46.042366
+                  ]
+            },
+            {
+                  "name": "Slovenski etnografski muzej",
+                  "text": "A Szlovén Néprajzi Múzeum Ljubljana városában mutatja be a szlovén népi kultúrát és hagyományokat.",
+                  "category": "museum",
+                  "coords": [
+                        14.516175,
+                        46.054977
+                  ]
+            },
+            {
+                  "name": "Gruberjeva palača",
+                  "text": "A Gruberjeva palača egy elegáns barokk palota Ljubljana központjában.",
+                  "category": "castle",
+                  "coords": [
+                        14.507035,
+                        46.04543
+                  ]
+            },
+            {
+                  "name": "Škuc",
+                  "text": "A Škuc egy ismert kortárs művészeti galéria Ljubljana városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.50665,
+                        46.047002
+                  ]
+            },
+            {
+                  "name": "Navje",
+                  "text": "A Navje egy emlékkert Ljubljana területén, ahol számos híres szlovén történelmi személyiség nyugszik.",
+                  "category": "historical",
+                  "coords": [
+                        14.511859,
+                        46.060763
+                  ]
+            },
+            {
+                  "name": "Galetov grad",
+                  "text": "A Galetov grad egy történelmi kúria Ljubljana területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.489651,
+                        46.066167
+                  ]
+            },
+            {
+                  "name": "Hotel Bellevue",
+                  "text": "A Hotel Bellevue romjai egy egykor jelentős épület maradványai Ljubljana városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.494692,
+                        46.061577
+                  ]
+            },
+            {
+                  "name": "Prešernov spomenik",
+                  "text": "A Prešeren-emlékmű Ljubljana főterén tiszteleg France Prešeren, a szlovén nemzeti költő előtt.",
+                  "category": "historical",
+                  "coords": [
+                        14.50631,
+                        46.051378
+                  ]
+            },
+            {
+                  "name": "Mestna občina Ljubljana",
+                  "text": "Ez a történelmi városháza ad otthont Ljubljana önkormányzatának.",
+                  "category": "historical",
+                  "coords": [
+                        14.507157,
+                        46.049805
+                  ]
+            },
+            {
+                  "name": "Slovensko mladinsko gledališče",
+                  "text": "A Slovensko mladinsko gledališče egy innovatív ifjúsági színház Ljubljana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.509605,
+                        46.061023
+                  ]
+            },
+            {
+                  "name": "Kulturnica",
+                  "text": "A Kulturnica egy ljubljanai színházi stúdió, amelyet gyakran használnak bábszínházi előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.504689,
+                        46.048575
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Ljubljana",
+                  "text": "A Ljubljanai Bábszínház Szlovénia egyik legfontosabb bábjátékos intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        14.510096,
+                        46.050099
+                  ]
+            },
+            {
+                  "name": "SNG Opera in balet Ljubljana",
+                  "text": "Az SNG Opera in balet Ljubljana a szlovén főváros nemzeti opera- és balettszínháza.",
+                  "category": "cultural",
+                  "coords": [
+                        14.500423,
+                        46.052693
+                  ]
+            },
+            {
+                  "name": "Drama",
+                  "text": "A ljubljanai Drama Szlovénia legfontosabb nemzeti színháza prózai előadások tekintetében.",
+                  "category": "cultural",
+                  "coords": [
+                        14.501276,
+                        46.0488
+                  ]
+            },
+            {
+                  "name": "Vodnikova domačija",
+                  "text": "A Vodnikova domačija egy kulturális központ Valentin Vodnik költő egykori otthonában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.485997,
+                        46.067083
+                  ]
+            },
+            {
+                  "name": "Metelkova",
+                  "text": "A Metelkova egy autonóm kulturális és alternatív művészeti központ Ljubljana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.516965,
+                        46.056868
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega obiskanja",
+                  "text": "A Mária látogatása templom egy történelmi istentiszteleti hely Ljubljana városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.47735,
+                        46.055108
+                  ]
+            },
+            {
+                  "name": "Stolnica sv. Nikolaja",
+                  "text": "A ljubljanai székesegyház a szlovén főváros legfontosabb római katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.508252,
+                        46.050763
+                  ]
+            },
+            {
+                  "name": "Uršulinska cerkev svete Trojice",
+                  "text": "A Szentháromság Orsolya-rendi templom egy jelentős barokk stílusú egyházi épület Ljubljana területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.501926,
+                        46.050135
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Jerneja",
+                  "text": "A Szent Bertalan-templom egy történelmi istentiszteleti hely a ljubljanai Šiška negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        14.494384,
+                        46.063222
+                  ]
+            },
+            {
+                  "name": "Sv, Anton Padovanski",
+                  "text": "Ezt a ljubljanai templomot Páduai Szent Antalnak szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        14.478069,
+                        46.041755
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev svetega Frančiška Asiškega",
+                  "text": "A ljubljanai Assisi Szent Ferenc-plébániatemplom Jože Plečnik építész egyik jelentős alkotása.",
+                  "category": "religious",
+                  "coords": [
+                        14.496761,
+                        46.068272
+                  ]
+            },
+            {
+                  "name": "Mormonska cerkev",
+                  "text": "Ez egy mormon templom, amely Ljubljana városában működik.",
+                  "category": "religious",
+                  "coords": [
+                        14.479026,
+                        46.07026
+                  ]
+            },
+            {
+                  "name": "Ljubljanska džamija",
+                  "text": "A ljubljanai Džamija a város iszlám vallási és kulturális központja.",
+                  "category": "religious",
+                  "coords": [
+                        14.502156,
+                        46.060818
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Florijana",
+                  "text": "A Szent Flórián-templom egy történelmi barokk egyházi épület Ljubljana városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.508731,
+                        46.046228
+                  ]
+            },
+            {
+                  "name": "Krakovska kapelica",
+                  "text": "A Krakovska kapelica egy kis történelmi kápolna Ljubljana területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.502233,
+                        46.044934
+                  ]
+            },
+            {
+                  "name": "Astronomsko geofizikalni observatorij Golovec",
+                  "text": "A Golovec Asztronómiai és Geofizikai Obszervatórium egy csillagvizsgáló Ljubljana közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527809,
+                        46.043828
+                  ]
+            },
+            {
+                  "name": "Zmajski most",
+                  "text": "A Sárkány híd egy híres szecessziós híd Ljubljana városában, amelyet sárkányszobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510406,
+                        46.051949
+                  ]
+            },
+            {
+                  "name": "Karlovški most-novi",
+                  "text": "Az új Karlovški most egy fontos közúti híd Ljubljana területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514436,
+                        46.042181
+                  ]
+            },
+            {
+                  "name": "Mesarski most",
+                  "text": "A ljubljanai Mészáros híd egy modern gyalogoshíd, amely a rajta hagyott szerelemlakatokról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508792,
+                        46.051724
+                  ]
+            },
+            {
+                  "name": "Prulski most",
+                  "text": "A Prulski most egy híd a Ljubljanica folyó felett Ljubljana területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.509434,
+                        46.041491
+                  ]
+            },
+            {
+                  "name": "Šempetrski most",
+                  "text": "A Šempetrski most Ljubljana városrészeit köti össze a víz felett.",
+                  "category": "landmark",
+                  "coords": [
+                        14.516466,
+                        46.050489
+                  ]
+            },
+            {
+                  "name": "Fabianijev most",
+                  "text": "A Fabianijev most egy modern kétszintes híd Ljubljana városában, amelyet Max Fabiani építészről neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        14.519389,
+                        46.050092
+                  ]
+            },
+            {
+                  "name": "Hradeckega most",
+                  "text": "A Hradecky híd Ljubljana egyik legrégebbi fennmaradt öntöttvas hídja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505742,
+                        46.044406
+                  ]
+            },
+            {
+                  "name": "Plečnikov most",
+                  "text": "A ljubljanai Trnovo híd Jože Plečnik egyik ismert alkotása, amelyet fák szegélyeznek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502172,
+                        46.043378
+                  ]
+            },
+            {
+                  "name": "Ribja brv",
+                  "text": "A Ribja brv egy modern gyalogoshíd átlátszó elemekkel Ljubljana központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505545,
+                        46.050291
+                  ]
+            },
+            {
+                  "name": "Čevljarski most",
+                  "text": "A Suszterek hídja egy elegáns gyalogoshíd Ljubljana területén, amelyet Jože Plečnik tervezett.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505592,
+                        46.048427
+                  ]
+            },
+            {
+                  "name": "Šentjakobski most",
+                  "text": "A Šentjakobski most egy közúti híd, amely a folyót íveli át Ljubljana városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505588,
+                        46.045863
+                  ]
+            },
+            {
+                  "name": "Šišenski hrib",
+                  "text": "A Šišenski hrib egy erdős domb a ljubljanai Tivoli-Rožnik tájvédelmi körzetben.",
+                  "category": "natural",
+                  "coords": [
+                        14.48844,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Miklošičev park",
+                  "text": "A Miklošičev park egy köztér és park Ljubljanában.",
+                  "category": "park",
+                  "coords": [
+                        14.506531,
+                        46.054258
+                  ]
+            },
+            {
+                  "name": "Ambrožev trg",
+                  "text": "Az Ambrožev trg egy park és tér Ljubljanában.",
+                  "category": "park",
+                  "coords": [
+                        14.517666,
+                        46.049898
+                  ]
+            },
+            {
+                  "name": "Šlajmerjev park",
+                  "text": "A Šlajmer Park egy park Ljubljanában.",
+                  "category": "park",
+                  "coords": [
+                        14.522977,
+                        46.053034
+                  ]
+            },
+            {
+                  "name": "šance",
+                  "text": "A Šance egy régészeti lelőhely egykori erődítmények maradványaival Ljubljanában.",
+                  "category": "historical",
+                  "coords": [
+                        14.480994,
+                        46.064574
+                  ]
+            },
+            {
+                  "name": "Spomenik Ć",
+                  "text": "A Spomenik Ć egy köztéri emlékmű Ljubljanában.",
+                  "category": "historical",
+                  "coords": [
+                        14.515419,
+                        46.052036
+                  ]
+            },
+            {
+                  "name": "Grad Rakovnik",
+                  "text": "A Grad Rakovnik egy történelmi udvarház Ljubljanában.",
+                  "category": "historical",
+                  "coords": [
+                        14.525945,
+                        46.037431
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mestni muzej Ljubljana",
+                  "text": "Mestni muzej Ljubljana este muzeul orașului în capitala Sloveniei.",
+                  "category": "museum",
+                  "coords": [
+                        14.504024,
+                        46.047004
+                  ]
+            },
+            {
+                  "name": "Računalniški muzej",
+                  "text": "Acest muzeu din Ljubljana este dedicat istoriei calculatoarelor.",
+                  "category": "museum",
+                  "coords": [
+                        14.490352,
+                        46.068551
+                  ]
+            },
+            {
+                  "name": "Tivolski grad",
+                  "text": "Tivolski grad este un castel istoric situat în parcul Tivoli din Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.492925,
+                        46.054632
+                  ]
+            },
+            {
+                  "name": "Ljubljanski grad",
+                  "text": "Castelul din Ljubljana este o fortăreață proeminentă care domină centrul istoric al orașului Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.50857,
+                        46.04885
+                  ]
+            },
+            {
+                  "name": "Narodna galerija",
+                  "text": "Galeria Națională din Ljubljana găzduiește cea mai importantă colecție de artă a Sloveniei.",
+                  "category": "museum",
+                  "coords": [
+                        14.500252,
+                        46.05398
+                  ]
+            },
+            {
+                  "name": "Železniški muzej Slovenskih železnic",
+                  "text": "Muzeul Căilor Ferate Slovene din Ljubljana documentează istoria transportului feroviar național.",
+                  "category": "museum",
+                  "coords": [
+                        14.502556,
+                        46.062609
+                  ]
+            },
+            {
+                  "name": "Plečnikova hiša",
+                  "text": "Casa Plečnik este un muzeu amenajat în fosta reședință a faimosului arhitect sloven Jože Plečnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.502242,
+                        46.042366
+                  ]
+            },
+            {
+                  "name": "Slovenski etnografski muzej",
+                  "text": "Muzeul Etnografic Sloven din Ljubljana expune cultura tradițională și cotidiană a țării.",
+                  "category": "museum",
+                  "coords": [
+                        14.516175,
+                        46.054977
+                  ]
+            },
+            {
+                  "name": "Gruberjeva palača",
+                  "text": "Gruberjeva palača este un palat în stil baroc situat în Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.507035,
+                        46.04543
+                  ]
+            },
+            {
+                  "name": "Škuc",
+                  "text": "Škuc este o galerie dedicată artei contemporane din Ljubljana.",
+                  "category": "museum",
+                  "coords": [
+                        14.50665,
+                        46.047002
+                  ]
+            },
+            {
+                  "name": "Navje",
+                  "text": "Navje este un parc memorial din Ljubljana, unde se află mormintele unor personalități slovene notabile.",
+                  "category": "historical",
+                  "coords": [
+                        14.511859,
+                        46.060763
+                  ]
+            },
+            {
+                  "name": "Galetov grad",
+                  "text": "Galetov grad este un conac istoric situat în Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.489651,
+                        46.066167
+                  ]
+            },
+            {
+                  "name": "Hotel Bellevue",
+                  "text": "Ruinele Hotelului Bellevue reprezintă rămășițele unei clădiri odinioară importante din Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.494692,
+                        46.061577
+                  ]
+            },
+            {
+                  "name": "Prešernov spomenik",
+                  "text": "Monumentul Prešeren din Ljubljana este o statuie dedicată poetului național sloven France Prešeren.",
+                  "category": "historical",
+                  "coords": [
+                        14.50631,
+                        46.051378
+                  ]
+            },
+            {
+                  "name": "Mestna občina Ljubljana",
+                  "text": "Aceasta este primăria istorică care găzduiește municipalitatea din Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.507157,
+                        46.049805
+                  ]
+            },
+            {
+                  "name": "Slovensko mladinsko gledališče",
+                  "text": "Slovensko mladinsko gledališče este un teatru dedicat tineretului și producțiilor inovatoare din Ljubljana.",
+                  "category": "cultural",
+                  "coords": [
+                        14.509605,
+                        46.061023
+                  ]
+            },
+            {
+                  "name": "Kulturnica",
+                  "text": "Kulturnica este un studio de teatru de păpuși din Ljubljana.",
+                  "category": "cultural",
+                  "coords": [
+                        14.504689,
+                        46.048575
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Ljubljana",
+                  "text": "Teatrul de Păpuși din Ljubljana este o instituție culturală dedicată spectacolelor cu păpuși.",
+                  "category": "cultural",
+                  "coords": [
+                        14.510096,
+                        46.050099
+                  ]
+            },
+            {
+                  "name": "SNG Opera in balet Ljubljana",
+                  "text": "SNG Opera in balet Ljubljana este instituția națională de operă și balet din capitala Sloveniei.",
+                  "category": "cultural",
+                  "coords": [
+                        14.500423,
+                        46.052693
+                  ]
+            },
+            {
+                  "name": "Drama",
+                  "text": "Teatrul Drama din Ljubljana este principalul teatru național pentru spectacole de teatru din Slovenia.",
+                  "category": "cultural",
+                  "coords": [
+                        14.501276,
+                        46.0488
+                  ]
+            },
+            {
+                  "name": "Vodnikova domačija",
+                  "text": "Vodnikova domačija este un centru de arte și cultură amenajat în fosta casă a poetului Valentin Vodnik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.485997,
+                        46.067083
+                  ]
+            },
+            {
+                  "name": "Metelkova",
+                  "text": "Metelkova este un centru cultural autonom și un hub de artă alternativă din Ljubljana.",
+                  "category": "cultural",
+                  "coords": [
+                        14.516965,
+                        46.056868
+                  ]
+            },
+            {
+                  "name": "Cerkev Marijinega obiskanja",
+                  "text": "Biserica Vizitarea Mariei este un lăcaș de cult istoric situat în Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.47735,
+                        46.055108
+                  ]
+            },
+            {
+                  "name": "Stolnica sv. Nikolaja",
+                  "text": "Catedrala din Ljubljana este principala biserică romano-catolică din capitala Sloveniei.",
+                  "category": "religious",
+                  "coords": [
+                        14.508252,
+                        46.050763
+                  ]
+            },
+            {
+                  "name": "Uršulinska cerkev svete Trojice",
+                  "text": "Biserica Ursulinelor Sfânta Treime este o biserică barocă distinctivă din Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.501926,
+                        46.050135
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Jerneja",
+                  "text": "Biserica Sfântul Bartolomeu este un lăcaș de cult istoric din districtul Šiška din Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.494384,
+                        46.063222
+                  ]
+            },
+            {
+                  "name": "Sv, Anton Padovanski",
+                  "text": "Această biserică din Ljubljana îi este dedicată Sfântului Anton de Padova.",
+                  "category": "religious",
+                  "coords": [
+                        14.478069,
+                        46.041755
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev svetega Frančiška Asiškega",
+                  "text": "Biserica parohială Sfântul Francisc de Assisi din Ljubljana a fost proiectată de arhitectul Jože Plečnik.",
+                  "category": "religious",
+                  "coords": [
+                        14.496761,
+                        46.068272
+                  ]
+            },
+            {
+                  "name": "Mormonska cerkev",
+                  "text": "Aceasta este o biserică mormonă situată în orașul Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.479026,
+                        46.07026
+                  ]
+            },
+            {
+                  "name": "Ljubljanska džamija",
+                  "text": "Moscheea din Ljubljana servește drept centru religios și cultural islamic al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        14.502156,
+                        46.060818
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Florijana",
+                  "text": "Biserica Sfântul Florian este un lăcaș de cult baroc situat în Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.508731,
+                        46.046228
+                  ]
+            },
+            {
+                  "name": "Krakovska kapelica",
+                  "text": "Krakovska kapelica este o mică capelă istorică situată în Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.502233,
+                        46.044934
+                  ]
+            },
+            {
+                  "name": "Astronomsko geofizikalni observatorij Golovec",
+                  "text": "Observatorul astronomic și geofizic Golovec este situat în Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527809,
+                        46.043828
+                  ]
+            },
+            {
+                  "name": "Zmajski most",
+                  "text": "Podul Dragonului este un faimos pod Art Nouveau din Ljubljana, decorat cu statui de dragoni.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510406,
+                        46.051949
+                  ]
+            },
+            {
+                  "name": "Karlovški most-novi",
+                  "text": "Noul pod Karlovški este un pod rutier din Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514436,
+                        46.042181
+                  ]
+            },
+            {
+                  "name": "Mesarski most",
+                  "text": "Podul Măcelarilor este un pod pietonal modern din Ljubljana, faimos pentru lacătele dragostei.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508792,
+                        46.051724
+                  ]
+            },
+            {
+                  "name": "Prulski most",
+                  "text": "Podul Prule traversează râul Ljubljanica în orașul Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.509434,
+                        46.041491
+                  ]
+            },
+            {
+                  "name": "Šempetrski most",
+                  "text": "Podul Šempeter este o structură care traversează apa în Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.516466,
+                        46.050489
+                  ]
+            },
+            {
+                  "name": "Fabianijev most",
+                  "text": "Podul Fabiani este o punte cu două niveluri din Ljubljana, numită în onoarea arhitectului Max Fabiani.",
+                  "category": "landmark",
+                  "coords": [
+                        14.519389,
+                        46.050092
+                  ]
+            },
+            {
+                  "name": "Hradeckega most",
+                  "text": "Podul Hradecky este unul dintre cele mai vechi poduri din fontă păstrate în Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505742,
+                        46.044406
+                  ]
+            },
+            {
+                  "name": "Plečnikov most",
+                  "text": "Podul Trnovo din Ljubljana este o operă notabilă a lui Jože Plečnik, având copaci plantați pe el.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502172,
+                        46.043378
+                  ]
+            },
+            {
+                  "name": "Ribja brv",
+                  "text": "Ribja brv este o pasarelă pietonală modernă din Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505545,
+                        46.050291
+                  ]
+            },
+            {
+                  "name": "Čevljarski most",
+                  "text": "Podul Cizmarilor este o structură elegantă din Ljubljana, creată de arhitectul Jože Plečnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505592,
+                        46.048427
+                  ]
+            },
+            {
+                  "name": "Šentjakobski most",
+                  "text": "Podul Sfântul Iacob este un pod rutier care traversează râul din Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505588,
+                        46.045863
+                  ]
+            },
+            {
+                  "name": "Šišenski hrib",
+                  "text": "Šišenski hrib este un deal împădurit situat în parcul peisagistic din Ljubljana.",
+                  "category": "natural",
+                  "coords": [
+                        14.48844,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Miklošičev park",
+                  "text": "Miklošičev park este un parc public situat în Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.506531,
+                        46.054258
+                  ]
+            },
+            {
+                  "name": "Ambrožev trg",
+                  "text": "Ambrožev trg este un parc și o piață situată în Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.517666,
+                        46.049898
+                  ]
+            },
+            {
+                  "name": "Šlajmerjev park",
+                  "text": "Šlajmer Park este un parc din Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.522977,
+                        46.053034
+                  ]
+            },
+            {
+                  "name": "šance",
+                  "text": "Šance este un sit arheologic cu rămășițe de fortificații în Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.480994,
+                        46.064574
+                  ]
+            },
+            {
+                  "name": "Spomenik Ć",
+                  "text": "Spomenik Ć este un monument public situat în Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.515419,
+                        46.052036
+                  ]
+            },
+            {
+                  "name": "Grad Rakovnik",
+                  "text": "Grad Rakovnik este un conac istoric din Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.525945,
+                        46.037431
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mestni muzej Ljubljana",
+                  "text": "The Mestni muzej Ljubljana is the city museum of Slovenia's capital, Ljubljana.",
+                  "category": "museum",
+                  "coords": [
+                        14.504024,
+                        46.047004
+                  ]
+            },
+            {
+                  "name": "Computer History Museum Slovenia",
+                  "text": "This museum in Ljubljana is dedicated to the history of computing in Slovenia and beyond.",
+                  "category": "museum",
+                  "coords": [
+                        14.490352,
+                        46.068551
+                  ]
+            },
+            {
+                  "name": "Tivolski grad",
+                  "text": "Tivolski grad is a historic castle located in Tivoli City Park in Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.492925,
+                        46.054632
+                  ]
+            },
+            {
+                  "name": "Ljubljana Castle",
+                  "text": "Ljubljana Castle is a prominent castle complex situated above the historical downtown of Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.50857,
+                        46.04885
+                  ]
+            },
+            {
+                  "name": "National Gallery",
+                  "text": "The National Gallery in Ljubljana houses Slovenia's most significant historical art collection.",
+                  "category": "museum",
+                  "coords": [
+                        14.500252,
+                        46.05398
+                  ]
+            },
+            {
+                  "name": "Slovenian Railway Museum",
+                  "text": "The Slovenian Railway Museum in Ljubljana exhibits the history of the country's railway system.",
+                  "category": "museum",
+                  "coords": [
+                        14.502556,
+                        46.062609
+                  ]
+            },
+            {
+                  "name": "Plečnik House",
+                  "text": "Plečnik House is a museum located in the former home of the renowned Slovenian architect Jože Plečnik.",
+                  "category": "museum",
+                  "coords": [
+                        14.502242,
+                        46.042366
+                  ]
+            },
+            {
+                  "name": "Slovenian Ethnographic Museum",
+                  "text": "The Slovenian Ethnographic Museum in Ljubljana presents the traditional and everyday culture of Slovenia.",
+                  "category": "museum",
+                  "coords": [
+                        14.516175,
+                        46.054977
+                  ]
+            },
+            {
+                  "name": "Gruberjeva palača",
+                  "text": "The Gruber Mansion is a prominent Baroque palace located in Ljubljana.",
+                  "category": "castle",
+                  "coords": [
+                        14.507035,
+                        46.04543
+                  ]
+            },
+            {
+                  "name": "Škuc",
+                  "text": "Škuc is a well-known gallery focusing on contemporary art in Ljubljana.",
+                  "category": "museum",
+                  "coords": [
+                        14.50665,
+                        46.047002
+                  ]
+            },
+            {
+                  "name": "Navje",
+                  "text": "Navje is a memorial park in Ljubljana featuring the graves of many notable Slovenian historical figures.",
+                  "category": "historical",
+                  "coords": [
+                        14.511859,
+                        46.060763
+                  ]
+            },
+            {
+                  "name": "Galetov grad",
+                  "text": "Galetov grad is a historical manor house located in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.489651,
+                        46.066167
+                  ]
+            },
+            {
+                  "name": "Hotel Bellevue",
+                  "text": "The ruins of Hotel Bellevue mark the remains of a once-prominent building in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.494692,
+                        46.061577
+                  ]
+            },
+            {
+                  "name": "Prešern Memorial",
+                  "text": "The Prešeren Monument in Ljubljana is a prominent statue dedicated to the Slovenian national poet France Prešeren.",
+                  "category": "historical",
+                  "coords": [
+                        14.50631,
+                        46.051378
+                  ]
+            },
+            {
+                  "name": "Mestna občina Ljubljana",
+                  "text": "This historic townhall is the seat of the municipality of Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.507157,
+                        46.049805
+                  ]
+            },
+            {
+                  "name": "Slovensko mladinsko gledališče",
+                  "text": "The Slovenian Youth Theatre is an innovative theatrical institution located in Ljubljana.",
+                  "category": "cultural",
+                  "coords": [
+                        14.509605,
+                        46.061023
+                  ]
+            },
+            {
+                  "name": "Kulturnica",
+                  "text": "Kulturnica is a theatre studio space in Ljubljana often associated with puppet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        14.504689,
+                        46.048575
+                  ]
+            },
+            {
+                  "name": "Ljubljana Puppet Theatre",
+                  "text": "The Ljubljana Puppet Theatre is a premier institution for puppetry performances in Slovenia.",
+                  "category": "cultural",
+                  "coords": [
+                        14.510096,
+                        46.050099
+                  ]
+            },
+            {
+                  "name": "SNG Opera in balet Ljubljana",
+                  "text": "SNG Opera in balet Ljubljana serves as the national opera and ballet house in Slovenia's capital.",
+                  "category": "cultural",
+                  "coords": [
+                        14.500423,
+                        46.052693
+                  ]
+            },
+            {
+                  "name": "Drama",
+                  "text": "The Ljubljana Drama is the central national theatre for dramatic performances in Slovenia.",
+                  "category": "cultural",
+                  "coords": [
+                        14.501276,
+                        46.0488
+                  ]
+            },
+            {
+                  "name": "Vodnikova domačija",
+                  "text": "Vodnikova domačija is a cultural and arts centre located in the former home of poet Valentin Vodnik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.485997,
+                        46.067083
+                  ]
+            },
+            {
+                  "name": "Metelkova",
+                  "text": "Metelkova is an autonomous cultural zone and alternative arts centre in Ljubljana.",
+                  "category": "cultural",
+                  "coords": [
+                        14.516965,
+                        46.056868
+                  ]
+            },
+            {
+                  "name": "Visitation of Mary Church",
+                  "text": "The Visitation of Mary Church is a historic place of worship located in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.47735,
+                        46.055108
+                  ]
+            },
+            {
+                  "name": "Ljubljana Cathedral",
+                  "text": "The Ljubljana Cathedral is the main Roman Catholic church in the Slovenian capital.",
+                  "category": "religious",
+                  "coords": [
+                        14.508252,
+                        46.050763
+                  ]
+            },
+            {
+                  "name": "Ursuline Church of the Holy Trinity",
+                  "text": "The Ursuline Church of the Holy Trinity is a distinctive Baroque church situated in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.501926,
+                        46.050135
+                  ]
+            },
+            {
+                  "name": "Saint Bartholomew's church",
+                  "text": "Saint Bartholomew's Church is a historical place of worship located in the Šiška district of Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.494384,
+                        46.063222
+                  ]
+            },
+            {
+                  "name": "Sv, Anton Padovanski",
+                  "text": "This parish church in Ljubljana is dedicated to Saint Anthony of Padua.",
+                  "category": "religious",
+                  "coords": [
+                        14.478069,
+                        46.041755
+                  ]
+            },
+            {
+                  "name": "Župnijska cerkev svetega Frančiška Asiškega",
+                  "text": "The Parish Church of Saint Francis of Assisi in Ljubljana was designed by the renowned architect Jože Plečnik.",
+                  "category": "religious",
+                  "coords": [
+                        14.496761,
+                        46.068272
+                  ]
+            },
+            {
+                  "name": "Mormonska cerkev",
+                  "text": "This is a Mormon church serving the local community in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.479026,
+                        46.07026
+                  ]
+            },
+            {
+                  "name": "Ljubljanska džamija",
+                  "text": "The Ljubljana Mosque serves as the principal Islamic religious and cultural centre in the city.",
+                  "category": "religious",
+                  "coords": [
+                        14.502156,
+                        46.060818
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Florijana",
+                  "text": "St. Florian's Church is a historic Baroque church located in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.508731,
+                        46.046228
+                  ]
+            },
+            {
+                  "name": "Krakovska kapelica",
+                  "text": "Krakovska kapelica is a small, historical chapel located in Ljubljana.",
+                  "category": "religious",
+                  "coords": [
+                        14.502233,
+                        46.044934
+                  ]
+            },
+            {
+                  "name": "Astronomsko geofizikalni observatorij Golovec",
+                  "text": "The Golovec Astronomical and Geophysical Observatory is an active astronomical facility in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.527809,
+                        46.043828
+                  ]
+            },
+            {
+                  "name": "Dragon Bridge",
+                  "text": "The Dragon Bridge is a famous Art Nouveau bridge in Ljubljana adorned with dragon statues.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510406,
+                        46.051949
+                  ]
+            },
+            {
+                  "name": "Karlovški most-novi",
+                  "text": "The new Karlovški Bridge is a functional transport bridge located in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514436,
+                        46.042181
+                  ]
+            },
+            {
+                  "name": "Butcher Bridge",
+                  "text": "The Butchers' Bridge is a modern pedestrian bridge in Ljubljana famous for its love padlocks.",
+                  "category": "landmark",
+                  "coords": [
+                        14.508792,
+                        46.051724
+                  ]
+            },
+            {
+                  "name": "Prulski most",
+                  "text": "The Prule Bridge crosses the Ljubljanica river in the city of Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.509434,
+                        46.041491
+                  ]
+            },
+            {
+                  "name": "Šempetrski most",
+                  "text": "The Šempeter Bridge is one of the crossings over the river in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.516466,
+                        46.050489
+                  ]
+            },
+            {
+                  "name": "Fabianijev most",
+                  "text": "Fabiani Bridge is a double-deck bridge in Ljubljana named after the architect Max Fabiani.",
+                  "category": "landmark",
+                  "coords": [
+                        14.519389,
+                        46.050092
+                  ]
+            },
+            {
+                  "name": "Hradeckega most",
+                  "text": "The Hradecky Bridge is one of the oldest preserved cast-iron bridges in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505742,
+                        46.044406
+                  ]
+            },
+            {
+                  "name": "Trnovo Bridge",
+                  "text": "The Trnovo Bridge in Ljubljana is a notable work by Jože Plečnik featuring prominent tree plantings.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502172,
+                        46.043378
+                  ]
+            },
+            {
+                  "name": "Ribja brv",
+                  "text": "Ribja brv is a minimalist pedestrian bridge crossing the river in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505545,
+                        46.050291
+                  ]
+            },
+            {
+                  "name": "Cobblers' Bridge",
+                  "text": "The Cobblers' Bridge is an elegant stone bridge in Ljubljana designed by Jože Plečnik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505592,
+                        46.048427
+                  ]
+            },
+            {
+                  "name": "Šentjakobski most",
+                  "text": "The St. James Bridge is a road bridge spanning the river in Ljubljana.",
+                  "category": "landmark",
+                  "coords": [
+                        14.505588,
+                        46.045863
+                  ]
+            },
+            {
+                  "name": "Šišenski hrib",
+                  "text": "Šišenski hrib is a forested hill located within the Tivoli-Rožnik-Šišenski hill landscape park in Ljubljana.",
+                  "category": "natural",
+                  "coords": [
+                        14.48844,
+                        46.06037
+                  ]
+            },
+            {
+                  "name": "Miklošičev park",
+                  "text": "Miklošičev park is a public park located in Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.506531,
+                        46.054258
+                  ]
+            },
+            {
+                  "name": "Ambrožev trg",
+                  "text": "Ambrožev trg is a park and square situated in Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.517666,
+                        46.049898
+                  ]
+            },
+            {
+                  "name": "Šlajmer Park",
+                  "text": "Šlajmer Park is a park located in Ljubljana.",
+                  "category": "park",
+                  "coords": [
+                        14.522977,
+                        46.053034
+                  ]
+            },
+            {
+                  "name": "šance",
+                  "text": "Šance is an archaeological site with former fortification remains in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.480994,
+                        46.064574
+                  ]
+            },
+            {
+                  "name": "Spomenik Ć",
+                  "text": "Spomenik Ć is a public monument located in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.515419,
+                        46.052036
+                  ]
+            },
+            {
+                  "name": "Grad Rakovnik",
+                  "text": "Grad Rakovnik is a historic manor house in Ljubljana.",
+                  "category": "historical",
+                  "coords": [
+                        14.525945,
+                        46.037431
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "si-ljubljana",
     coords: [14.5058, 46.0569],
@@ -43,7 +1888,1348 @@ export const poiExtraSloveniaCities: POI[] = [
       fr: ["Le Pont des Dragons a été achevé en 1901 et est orné de quatre statues de dragons.", "Le marché central, également conçu par Plečnik, s'étend le long de la rivière.", "Le château de Ljubljana a été reconstruit au XVe siècle et est accessible par un funiculaire.", "La ville a une superficie d'environ 163,8 kilomètres carrés.", "Ljubljana a été nommée Capitale verte de l'Europe en 2016.", "L'université de Ljubljana, fondée en 1919, est la plus ancienne et la plus grande du pays."],
     }, image: "/poi-images/city-ljubljana-extra.webp"},
   {
-    id: "city-maribor-extra",
+    id: "city-maribor-extra", "sights": {
+      "de": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "Ein ikonischer modularer Kiosk aus dem ehemaligen Jugoslawien, der in Maribor ausgestellt wird.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "Ein Aquarium und Terrarium in Maribor, das eine Vielzahl von Fischen und Reptilien zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "Dieses Museum in Maribor befasst sich mit der Geschichte der nationalen Befreiungsbewegung.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Sinagoga Maribor",
+                  "text": "Eine der ältesten erhaltenen Synagogen Europas, die heute als Kulturzentrum in Maribor dient.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "Ein barockes Schloss am Stadtrand von Maribor.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Slovensko narodno gledališče Maribor",
+                  "text": "Das Slowenische Nationaltheater in Maribor ist die größte Kulturinstitution des Landes.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej",
+                  "text": "Das Regionalmuseum von Maribor zeigt Exponate zur lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Überreste der mittelalterlichen Stadtmauer von Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "Das Militärmuseum der slowenischen Streitkräfte befindet sich in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "Ein Museum in Maribor, das sich mit der Geschichte des Radios befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - Muzej za enega",
+                  "text": "Ein winziges Museum in einem ehemaligen Kiosk in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "Das Puppentheater von Maribor bietet Aufführungen für Kinder und Erwachsene.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Pyramiedenkogel",
+                  "text": "Ein beliebter Aussichtspunkt auf einem Hügel in Maribor, wo einst die Stadtburg stand.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "Ein bedeutendes Kultur- und Veranstaltungszentrum im Herzen von Maribor.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "Ein markanter Punkt mit Aussicht in der Nähe von Maribor.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Ein Hügel in Maribor mit einem Kreuzweg und herrlicher Aussicht auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Älteste Weinrebe",
+                  "text": "Die älteste produktive Weinrebe der Welt wächst im Zentrum von Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "Dieses Denkmal in Maribor ehrt den slowenischen General und Dichter Rudolf Maister.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "Der Stadtpark von Maribor ist eine grüne Oase mit Teichen und Wanderwegen.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "Eine historische Quelle oder ein Brunnen in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "Ein Aussichtspunkt in Maribor, bekannt als „Bei den sieben Eichen“.",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "Ein Aussichtspunkt in Maribor mit Blick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "Ein Ausstellungsraum der Kunstgalerie Maribor für zeitgenössische Kunstprojekte.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "Ein experimenteller Kunstraum und eine Galerie im Zentrum von Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "Eine Kunstgalerie in Maribor, die lokale und internationale Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "Ein Denkmal in Maribor für die Geiseln, die im April 1945 gefallen sind.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "Ein zeitgenössischer Kunstraum und eine Galerie in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "Ein Denkmal zur Erinnerung an die Unabhängigkeit Sloweniens in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "Eine Büste, die an eine bedeutende Persönlichkeit in Maribor erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Denkmal für den Nationalhelden Slavko Šlander in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Weinkeller VINAG",
+                  "text": "Einer der größten und ältesten klassischen Weinkeller Europas befindet sich in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Stolna cerkev sv. Janeza Krstnika",
+                  "text": "Die Kathedrale des Heiligen Johannes des Täufers ist der Sitz der Diözese Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "Eine evangelische Kirche in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "Eine kleine Kapelle für Gottesdienste in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "Eine barocke Kapelle zu Ehren der Heiligen Anna in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "Eine historische Dampflokomotive, die als Denkmal in Maribor ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "Eine alte Lokomotive, die als technisches Denkmal in Maribor besichtigt werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "Ikonikus jugoszláv moduláris kioszk, amelyet Mariborban állítottak ki.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "Akvárium és terrárium Mariborban, ahol különféle halakat és hüllőket mutatnak be.",
+                  "category": "recreational",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "Ez a maribori múzeum a nemzeti felszabadító mozgalom történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Maribori Zsinagóga",
+                  "text": "Európa egyik legrégebbi fennmaradt zsinagógája, amely ma kulturális központként működik Mariborban.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "Barokk kastély Maribor szélén.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Nemzeti Színház",
+                  "text": "A Maribori Szlovén Nemzeti Színház az ország legnagyobb kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Helyi múzeum",
+                  "text": "A Maribori Regionális Múzeum a helyi történelem és kultúra emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Maribor középkori városfalának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "A szlovén fegyveres erők katonai múzeuma Mariborban található.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "Maribori múzeum, amely a rádiózás történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - Muzej za enega",
+                  "text": "Apró múzeum egy egykori kioszkban Mariborban.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "A Maribori Bábszínház előadásokat kínál gyerekeknek és felnőtteknek egyaránt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Piramida",
+                  "text": "Népszerű kilátóhely egy dombon Mariborban, ahol egykor a város vára állt.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "Jelentős kulturális és rendezvényközpont Maribor szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "Jellegzetes kilátópont Maribor közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kálvária-domb",
+                  "text": "Domb Mariborban keresztúttal és kiváló kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Öreg szőlőtőke",
+                  "text": "A világ legidősebb termő szőlőtőkéje Maribor központjában található.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "Ez a maribori emlékmű Rudolf Maister szlovén tábornok és költő előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "A maribori városi park egy zöld oázis tavakkal és sétautakkal.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "Történelmi forrás vagy kút Mariborban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "Kilátóhely Mariborban, az „A hét tölgynél” néven ismert területen.",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "Kilátóhely Mariborban, ahonnan rálátni a városra.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "A Maribori Művészeti Galéria kiállítótere kortárs művészeti projektek számára.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "Kísérleti művészeti tér és galéria Maribor központjában.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "Művészeti galéria Mariborban, amely helyi és nemzetközi műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "Maribori emlékmű az 1945 áprilisában kivégzett túszok emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "Kortárs művészeti tér és galéria Mariborban.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "A szlovén függetlenség emlékére állított emlékmű Mariborban.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "Egy jelentős személyiség emlékére állított mellszobor Mariborban.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Slavko Šlander népi hős emlékműve Mariborban.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Vinska klet VINAG",
+                  "text": "A világ egyik legnagyobb és legrégebbi klasszikus borospincéje Mariborban található.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Keresztelő Szent János-székesegyház",
+                  "text": "A Keresztelő Szent János-székesegyház a Maribori egyházmegye központja.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "Evangélikus templom Mariborban.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "Kis kápolna Mariborban.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "Szent Anna tiszteletére szentelt barokk kápolna Mariborban.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "Történelmi gőzmozdony, amelyet emlékműként állítottak ki Mariborban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "Régi mozdony, amely technikai műemlékként látható Mariborban.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "Un chioșc modular iugoslav iconic, expus în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "Un acvariu și terariu din Maribor care prezintă o varietate de pești și reptile.",
+                  "category": "recreational",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "Acest muzeu din Maribor este dedicat istoriei mișcării de eliberare națională.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Sinagoga Maribor",
+                  "text": "Una dintre cele mai vechi sinagogi conservate din Europa, servind acum ca centru cultural în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "Un castel baroc situat la periferia orașului Maribor.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Slovensko narodno gledališče Maribor",
+                  "text": "Teatrul Național Sloven din Maribor este cea mai mare instituție culturală din țară.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej",
+                  "text": "Muzeul Regional din Maribor expune obiecte legate de istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Rămășițele zidurilor medievale ale orașului Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "Muzeul Militar al Forțelor Armate Slovene este situat în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "Un muzeu din Maribor dedicat istoriei radioului.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - Muzej za enega",
+                  "text": "Un muzeu minuscul situat într-un fost chioșc din Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "Teatrul de Păpuși din Maribor oferă spectacole pentru copii și adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Piramida",
+                  "text": "Un punct de belvedere popular pe un deal din Maribor, unde se afla odinioară castelul orașului.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "Un important centru cultural și de evenimente în inima orașului Maribor.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "Un punct de observație distinctiv lângă Maribor.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kalvarija",
+                  "text": "Un deal din Maribor cu o cale a crucii și o vedere excelentă asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Stara trta",
+                  "text": "Cea mai veche viță-de-vie productivă din lume crește în centrul orașului Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "Acest monument din Maribor îl onorează pe generalul și poetul sloven Rudolf Maister.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "Parcul orașului Maribor este o oază de verdeață cu iazuri și alei.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "O sursă istorică de apă sau o fântână în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "Un punct de belvedere în Maribor, cunoscut sub numele de „La cei șapte stejari”.",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "Un punct de belvedere în Maribor cu vedere spre oraș.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "Un spațiu expozițional al Galeriei de Artă din Maribor pentru proiecte de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "Un spațiu de artă experimental și galerie în centrul orașului Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "O galerie de artă din Maribor care prezintă lucrări locale și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "Un monument în Maribor dedicat ostaticilor căzuți în aprilie 1945.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "Un spațiu de artă contemporană și galerie în Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "Un monument care comemorează independența Sloveniei în Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "Un bust care comemorează o personalitate importantă în Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Monument dedicat eroului național Slavko Šlander în Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Vinska klet VINAG",
+                  "text": "Una dintre cele mai mari și vechi crame clasice din Europa este situată în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Stolna cerkev sv. Janeza Krstnika",
+                  "text": "Catedrala Sfântul Ioan Botezătorul este sediul eparhiei din Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "O biserică evanghelică din Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "O mică capelă pentru cult în Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "O capelă barocă dedicată Sfintei Ana în Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "O locomotivă istorică cu abur, expusă ca monument în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "O locomotivă veche care poate fi văzută ca monument tehnic în Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kiosk K67",
+                  "text": "An iconic Yugoslav modular kiosk design exhibited in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.64173,
+                        46.558656
+                  ]
+            },
+            {
+                  "name": "Akvarij - terarij Maribor",
+                  "text": "An aquarium and terrarium in Maribor featuring a variety of fish and reptiles.",
+                  "category": "recreational",
+                  "coords": [
+                        15.649563,
+                        46.564788
+                  ]
+            },
+            {
+                  "name": "Muzej narodne osvoboditve Maribor",
+                  "text": "This museum in Maribor documents the history of the national liberation movement.",
+                  "category": "museum",
+                  "coords": [
+                        15.64789,
+                        46.562784
+                  ]
+            },
+            {
+                  "name": "Maribor Synagogue",
+                  "text": "One of the oldest preserved synagogues in Europe, now serving as a cultural center in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.647645,
+                        46.556785
+                  ]
+            },
+            {
+                  "name": "Dvorec Betnava",
+                  "text": "A Baroque castle located on the outskirts of Maribor.",
+                  "category": "castle",
+                  "coords": [
+                        15.639859,
+                        46.528511
+                  ]
+            },
+            {
+                  "name": "Slovensko narodno gledališče Maribor",
+                  "text": "The Slovene National Theatre Maribor is the largest cultural and arts institution in the country.",
+                  "category": "cultural",
+                  "coords": [
+                        15.643949,
+                        46.559842
+                  ]
+            },
+            {
+                  "name": "Regional museum",
+                  "text": "The Regional Museum of Maribor displays exhibits related to local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        15.648543,
+                        46.560437
+                  ]
+            },
+            {
+                  "name": "Medieval wall ruins",
+                  "text": "Remains of the medieval city walls in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.642594,
+                        46.560687
+                  ]
+            },
+            {
+                  "name": "Vojaški muzej Slovenske Vojske",
+                  "text": "The Military Museum of the Slovenian Armed Forces is located in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.630949,
+                        46.547889
+                  ]
+            },
+            {
+                  "name": "Radijski muzej Radio City",
+                  "text": "A museum in Maribor focusing on the history of radio broadcasting.",
+                  "category": "museum",
+                  "coords": [
+                        15.646743,
+                        46.561104
+                  ]
+            },
+            {
+                  "name": "Trafika - museum for one",
+                  "text": "A tiny museum housed in a former kiosk in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.645695,
+                        46.554679
+                  ]
+            },
+            {
+                  "name": "Lutkovno gledališče Maribor",
+                  "text": "The Maribor Puppet Theatre offers performances for both children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        15.642068,
+                        46.556969
+                  ]
+            },
+            {
+                  "name": "Piramida",
+                  "text": "A popular viewpoint on a hill in Maribor, located at the site of the former city castle.",
+                  "category": "natural",
+                  "coords": [
+                        15.652333,
+                        46.568083
+                  ]
+            },
+            {
+                  "name": "Narodni Dom",
+                  "text": "A significant cultural and event center located in the heart of Maribor.",
+                  "category": "cultural",
+                  "coords": [
+                        15.64949,
+                        46.557582
+                  ]
+            },
+            {
+                  "name": "Samotni bor",
+                  "text": "A distinctive viewpoint near Maribor.",
+                  "category": "natural",
+                  "coords": [
+                        15.635272,
+                        46.577061
+                  ]
+            },
+            {
+                  "name": "Kalvarija",
+                  "text": "A hill in Maribor featuring a way of the cross and great views of the city.",
+                  "category": "natural",
+                  "coords": [
+                        15.639712,
+                        46.569077
+                  ]
+            },
+            {
+                  "name": "Old Vine",
+                  "text": "The oldest productive grape vine in the world is located in the center of Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.644234,
+                        46.55672
+                  ]
+            },
+            {
+                  "name": "General Maister",
+                  "text": "This monument in Maribor honors the Slovenian general and poet Rudolf Maister.",
+                  "category": "historical",
+                  "coords": [
+                        15.64872,
+                        46.561681
+                  ]
+            },
+            {
+                  "name": "Mestni park",
+                  "text": "The city park of Maribor is a green oasis featuring ponds and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        15.646683,
+                        46.568292
+                  ]
+            },
+            {
+                  "name": "Jožefov studenec",
+                  "text": "A historical spring or fountain in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631315,
+                        46.557455
+                  ]
+            },
+            {
+                  "name": "Razgledišče Pri sedmih hrastih",
+                  "text": "A viewpoint in Maribor known as \"By the Seven Oaks.\"",
+                  "category": "natural",
+                  "coords": [
+                        15.642823,
+                        46.568646
+                  ]
+            },
+            {
+                  "name": "VIM1",
+                  "text": "A viewpoint in Maribor offering views of the city.",
+                  "category": "natural",
+                  "coords": [
+                        15.683964,
+                        46.556923
+                  ]
+            },
+            {
+                  "name": "UGM Studio",
+                  "text": "An exhibition space of the Maribor Art Gallery dedicated to contemporary art projects.",
+                  "category": "museum",
+                  "coords": [
+                        15.648597,
+                        46.559229
+                  ]
+            },
+            {
+                  "name": "artKIT",
+                  "text": "An experimental art space and gallery in the center of Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.6454,
+                        46.55782
+                  ]
+            },
+            {
+                  "name": "Galerija ArtB",
+                  "text": "An art gallery in Maribor showcasing local and international art.",
+                  "category": "museum",
+                  "coords": [
+                        15.64561,
+                        46.553738
+                  ]
+            },
+            {
+                  "name": "Spomenik talcem padlim ob zori svobode aprila 1945",
+                  "text": "A monument in Maribor dedicated to the hostages who fell in April 1945.",
+                  "category": "historical",
+                  "coords": [
+                        15.62289,
+                        46.539735
+                  ]
+            },
+            {
+                  "name": "Galerija K18",
+                  "text": "A contemporary art space and gallery in Maribor.",
+                  "category": "museum",
+                  "coords": [
+                        15.642713,
+                        46.557982
+                  ]
+            },
+            {
+                  "name": "Obeležje v spomin na osamosvojitev Slovenije",
+                  "text": "A monument commemorating the independence of Slovenia in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.665202,
+                        46.56665
+                  ]
+            },
+            {
+                  "name": "Doprsni spomenik",
+                  "text": "A bust memorializing a significant figure in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.623894,
+                        46.56483
+                  ]
+            },
+            {
+                  "name": "Spomenik Narodnemu Heroju Slavku Šlandru",
+                  "text": "Monument dedicated to the national hero Slavko Šlander in Maribor.",
+                  "category": "historical",
+                  "coords": [
+                        15.637862,
+                        46.539873
+                  ]
+            },
+            {
+                  "name": "Wine Cellar VINAG",
+                  "text": "One of the largest and oldest classic wine cellars in Europe is located in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.649826,
+                        46.560994
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. John the Baptist",
+                  "text": "The Cathedral of St. John the Baptist is the seat of the Maribor diocese.",
+                  "category": "religious",
+                  "coords": [
+                        15.64502,
+                        46.559129
+                  ]
+            },
+            {
+                  "name": "Evangeličanska cerkev",
+                  "text": "An Evangelical church in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.644026,
+                        46.561475
+                  ]
+            },
+            {
+                  "name": "Kapela",
+                  "text": "A small chapel for worship in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.665007,
+                        46.549314
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Ane",
+                  "text": "A Baroque chapel dedicated to Saint Anne in Maribor.",
+                  "category": "religious",
+                  "coords": [
+                        15.638704,
+                        46.577949
+                  ]
+            },
+            {
+                  "name": "Lokomotiva JŽ 151-001",
+                  "text": "A historical steam locomotive exhibited as a monument in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.657186,
+                        46.561879
+                  ]
+            },
+            {
+                  "name": "Lokomotiva 62-019",
+                  "text": "An old locomotive on display as a technical monument in Maribor.",
+                  "category": "landmark",
+                  "coords": [
+                        15.624447,
+                        46.553284
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "si-maribor",
     coords: [15.6459, 46.5547],
@@ -82,7 +3268,520 @@ export const poiExtraSloveniaCities: POI[] = [
       fr: ["La Vieille Vigne de Maribor est inscrite au Livre Guinness des records comme la plus ancienne vigne du monde.", "Le festival Lent est le plus grand festival en plein air de Slovénie.", "Le château de Maribor, du XVe siècle, abrite aujourd'hui le musée régional.", "La ville a été capitale européenne de la culture en 2012 avec Guimarães, au Portugal.", "Les montagnes Pohorje près de Maribor sont une zone populaire pour le ski et la randonnée.", "La première mention documentée du château de Marchburch date de 1164."],
     }, image: "/poi-images/city-maribor-extra.webp"},
   {
-    id: "city-celje-extra",
+    id: "city-celje-extra", "sights": {
+      "de": [
+            {
+                  "name": "Celjski grad",
+                  "text": "Die größte Burganlage Sloweniens, einst Stammsitz der Grafen von Cilli.",
+                  "category": "castle",
+                  "coords": [
+                        15.27226,
+                        46.219629
+                  ]
+            },
+            {
+                  "name": "Knežji dvorec, Celje",
+                  "text": "Die ehemalige Stadtresidenz der Grafen von Cilli in Celje, heute ein Museum.",
+                  "category": "castle",
+                  "coords": [
+                        15.260795,
+                        46.228882
+                  ]
+            },
+            {
+                  "name": "Slovensko ljudsko gledališče Celje",
+                  "text": "Das slowenische Volkstheater in Celje ist ein bedeutendes Zentrum für darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262173,
+                        46.230625
+                  ]
+            },
+            {
+                  "name": "Herkulovo svetišče",
+                  "text": "Die archäologischen Überreste eines antiken Herkules-Heiligtums in Celje.",
+                  "category": "historical",
+                  "coords": [
+                        15.262245,
+                        46.224858
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Celje",
+                  "text": "Ein Regionalmuseum in Celje, das die Geschichte und das archäologische Erbe der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        15.26189,
+                        46.227685
+                  ]
+            },
+            {
+                  "name": "Tehnopark Celje",
+                  "text": "Ein interaktives Wissenschaftszentrum und Technikmuseum für Besucher in Celje.",
+                  "category": "museum",
+                  "coords": [
+                        15.265885,
+                        46.22934
+                  ]
+            },
+            {
+                  "name": "Razgledni stolp",
+                  "text": "Ein Aussichtsturm, der einen weiten Blick über die Stadt Celje und die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.262673,
+                        46.222284
+                  ]
+            },
+            {
+                  "name": "Baumhaus",
+                  "text": "Ein großes Baumhaus im Stadtwald von Celje, das als Ausflugsziel und Erholungsort dient.",
+                  "category": "landmark",
+                  "coords": [
+                        15.248814,
+                        46.228134
+                  ]
+            },
+            {
+                  "name": "Sv. Jožef",
+                  "text": "Eine dem heiligen Josef gewidmete Kirche in der Stadt Celje.",
+                  "category": "religious",
+                  "coords": [
+                        15.277826,
+                        46.226616
+                  ]
+            },
+            {
+                  "name": "Sv. Maksimilijan",
+                  "text": "Eine historische Kirche in Celje, die dem heiligen Maximilian gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.267489,
+                        46.232161
+                  ]
+            },
+            {
+                  "name": "stolnica svetega Danijela",
+                  "text": "Die Kathedrale von Celje, ein bedeutendes religiöses Bauwerk, das dem heiligen Daniel gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.264785,
+                        46.227093
+                  ]
+            },
+            {
+                  "name": "Sveti Miklavž",
+                  "text": "Eine Kirche in Celje, die dem heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.260882,
+                        46.222494
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 25-002",
+                  "text": "Eine historische Dampflokomotive, die als technisches Denkmal in Celje ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268434,
+                        46.227886
+                  ]
+            },
+            {
+                  "name": "Dizelska lokomotiva Šeka",
+                  "text": "Eine historische Diesellokomotive, die in Celje als Exponat besichtigt werden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268469,
+                        46.230215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Celjski grad",
+                  "text": "Szlovénia legnagyobb várkomplexuma, egykor a Cillei grófok székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        15.27226,
+                        46.219629
+                  ]
+            },
+            {
+                  "name": "Knežji dvorec, Celje",
+                  "text": "A Cillei grófok egykori városi rezidenciája Celjében, ma múzeum.",
+                  "category": "castle",
+                  "coords": [
+                        15.260795,
+                        46.228882
+                  ]
+            },
+            {
+                  "name": "Slovensko ljudsko gledališče Celje",
+                  "text": "A celjei Szlovén Népszínház az előadóművészetek jelentős központja.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262173,
+                        46.230625
+                  ]
+            },
+            {
+                  "name": "Herkulovo svetišče",
+                  "text": "Egy ókori Herkules-szentély régészeti maradványai Celjében.",
+                  "category": "historical",
+                  "coords": [
+                        15.262245,
+                        46.224858
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Celje",
+                  "text": "Celje regionális múzeuma, amely a város történelmét és régészeti örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.26189,
+                        46.227685
+                  ]
+            },
+            {
+                  "name": "Tehnopark Celje",
+                  "text": "Interaktív tudományos központ és technológiai múzeum Celjében.",
+                  "category": "museum",
+                  "coords": [
+                        15.265885,
+                        46.22934
+                  ]
+            },
+            {
+                  "name": "Razgledni stolp",
+                  "text": "Kilátótorony, amely széles körpanorámát kínál Celje városára és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        15.262673,
+                        46.222284
+                  ]
+            },
+            {
+                  "name": "Celje - hiša na drevesu",
+                  "text": "Egy nagy lombkoronaház Celje városi erdejében, amely kirándulóhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        15.248814,
+                        46.228134
+                  ]
+            },
+            {
+                  "name": "Sv. Jožef",
+                  "text": "Szent Józsefnek szentelt templom Celje városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.277826,
+                        46.226616
+                  ]
+            },
+            {
+                  "name": "Sv. Maksimilijan",
+                  "text": "Szent Miksa tiszteletére szentelt történelmi templom Celjében.",
+                  "category": "religious",
+                  "coords": [
+                        15.267489,
+                        46.232161
+                  ]
+            },
+            {
+                  "name": "stolnica svetega Danijela",
+                  "text": "Celje székesegyháza, Szent Dánielnek szentelt jelentős vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        15.264785,
+                        46.227093
+                  ]
+            },
+            {
+                  "name": "Sveti Miklavž",
+                  "text": "Szent Miklósnak szentelt templom Celje városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.260882,
+                        46.222494
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 25-002",
+                  "text": "Műszaki emlékként kiállított történelmi gőzmozdony Celjében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268434,
+                        46.227886
+                  ]
+            },
+            {
+                  "name": "Dizelska lokomotiva Šeka",
+                  "text": "Celjében kiállított történelmi dízelmozdony.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268469,
+                        46.230215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Celjski grad",
+                  "text": "Cel mai mare complex fortificat din Slovenia, fostă reședință a conților de Celje.",
+                  "category": "castle",
+                  "coords": [
+                        15.27226,
+                        46.219629
+                  ]
+            },
+            {
+                  "name": "Knežji dvorec, Celje",
+                  "text": "Fosta reședință urbană a conților de Celje, transformată astăzi în muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        15.260795,
+                        46.228882
+                  ]
+            },
+            {
+                  "name": "Slovensko ljudsko gledališče Celje",
+                  "text": "Teatrul Popular Sloven din Celje este un centru important pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262173,
+                        46.230625
+                  ]
+            },
+            {
+                  "name": "Herkulovo svetišče",
+                  "text": "Vestigiile arheologice ale unui sanctuar antic dedicat lui Hercule în Celje.",
+                  "category": "historical",
+                  "coords": [
+                        15.262245,
+                        46.224858
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Celje",
+                  "text": "Un muzeu regional din Celje care prezintă istoria și moștenirea arheologică a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        15.26189,
+                        46.227685
+                  ]
+            },
+            {
+                  "name": "Tehnopark Celje",
+                  "text": "Un centru științific interactiv și muzeu de tehnologie din Celje.",
+                  "category": "museum",
+                  "coords": [
+                        15.265885,
+                        46.22934
+                  ]
+            },
+            {
+                  "name": "Razgledni stolp",
+                  "text": "Un turn de observare care oferă o vedere panoramică asupra orașului Celje și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        15.262673,
+                        46.222284
+                  ]
+            },
+            {
+                  "name": "Celje - hiša na drevesu",
+                  "text": "O casă în copac mare situată în pădurea orașului Celje, servind ca destinație de agrement.",
+                  "category": "landmark",
+                  "coords": [
+                        15.248814,
+                        46.228134
+                  ]
+            },
+            {
+                  "name": "Sv. Jožef",
+                  "text": "O biserică dedicată Sfântului Iosif din orașul Celje.",
+                  "category": "religious",
+                  "coords": [
+                        15.277826,
+                        46.226616
+                  ]
+            },
+            {
+                  "name": "Sv. Maksimilijan",
+                  "text": "O biserică istorică din Celje dedicată Sfântului Maximilian.",
+                  "category": "religious",
+                  "coords": [
+                        15.267489,
+                        46.232161
+                  ]
+            },
+            {
+                  "name": "stolnica svetega Danijela",
+                  "text": "Catedrala din Celje, un edificiu religios important dedicat Sfântului Daniel.",
+                  "category": "religious",
+                  "coords": [
+                        15.264785,
+                        46.227093
+                  ]
+            },
+            {
+                  "name": "Sveti Miklavž",
+                  "text": "O biserică din Celje dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        15.260882,
+                        46.222494
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 25-002",
+                  "text": "O locomotivă cu abur istorică expusă ca monument tehnic în Celje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268434,
+                        46.227886
+                  ]
+            },
+            {
+                  "name": "Dizelska lokomotiva Šeka",
+                  "text": "O locomotivă diesel istorică ce poate fi văzută ca exponat în Celje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268469,
+                        46.230215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Celjski grad",
+                  "text": "Slovenia's largest castle complex, once the seat of the Counts of Celje.",
+                  "category": "castle",
+                  "coords": [
+                        15.27226,
+                        46.219629
+                  ]
+            },
+            {
+                  "name": "Knežji dvorec, Celje",
+                  "text": "The former urban residence of the Counts of Celje, now housing a museum.",
+                  "category": "castle",
+                  "coords": [
+                        15.260795,
+                        46.228882
+                  ]
+            },
+            {
+                  "name": "Slovensko ljudsko gledališče Celje",
+                  "text": "The Slovenian People's Theatre in Celje is a significant center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        15.262173,
+                        46.230625
+                  ]
+            },
+            {
+                  "name": "Herkulovo svetišče",
+                  "text": "The archaeological remains of an ancient sanctuary dedicated to Hercules in Celje.",
+                  "category": "historical",
+                  "coords": [
+                        15.262245,
+                        46.224858
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Celje",
+                  "text": "A regional museum in Celje showcasing the city's history and archaeological heritage.",
+                  "category": "museum",
+                  "coords": [
+                        15.26189,
+                        46.227685
+                  ]
+            },
+            {
+                  "name": "Tehnopark Celje",
+                  "text": "An interactive science center and technology museum for visitors in Celje.",
+                  "category": "museum",
+                  "coords": [
+                        15.265885,
+                        46.22934
+                  ]
+            },
+            {
+                  "name": "Razgledni stolp",
+                  "text": "An observation tower offering broad views over the city of Celje and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        15.262673,
+                        46.222284
+                  ]
+            },
+            {
+                  "name": "Treehouse",
+                  "text": "A large treehouse in the Celje city forest serving as a leisure destination.",
+                  "category": "landmark",
+                  "coords": [
+                        15.248814,
+                        46.228134
+                  ]
+            },
+            {
+                  "name": "Sv. Jožef",
+                  "text": "A church dedicated to Saint Joseph in the city of Celje.",
+                  "category": "religious",
+                  "coords": [
+                        15.277826,
+                        46.226616
+                  ]
+            },
+            {
+                  "name": "Sv. Maksimilijan",
+                  "text": "A historic church in Celje dedicated to Saint Maximilian.",
+                  "category": "religious",
+                  "coords": [
+                        15.267489,
+                        46.232161
+                  ]
+            },
+            {
+                  "name": "stolnica svetega Danijela",
+                  "text": "The Cathedral of Celje, a significant religious building dedicated to Saint Daniel.",
+                  "category": "religious",
+                  "coords": [
+                        15.264785,
+                        46.227093
+                  ]
+            },
+            {
+                  "name": "Sveti Miklavž",
+                  "text": "A church in Celje dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        15.260882,
+                        46.222494
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva JŽ 25-002",
+                  "text": "A historic steam locomotive displayed as a technical monument in Celje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268434,
+                        46.227886
+                  ]
+            },
+            {
+                  "name": "Dizelska lokomotiva Šeka",
+                  "text": "A historic diesel locomotive that can be seen as an exhibit in Celje.",
+                  "category": "landmark",
+                  "coords": [
+                        15.268469,
+                        46.230215
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "si-celje",
     coords: [15.2674, 46.2361],
@@ -121,7 +3820,484 @@ export const poiExtraSloveniaCities: POI[] = [
       fr: ["Le château de Celje est le plus grand complexe de fortification de Slovénie.", "Les comtes de Cilli étaient une importante dynastie noble européenne aux XIVe et XVe siècles.", "Sous la ville se trouvent les vestiges de la ville romaine de Celeia.", "La Fürstenhaus (Knežji dvor) était la résidence des comtes de Cilli.", "Celje est située au confluent des rivières Savinja, Ložnica et Voglajna.", "La Foire internationale de l'artisanat (MOS) à Celje est la plus grande du genre en Slovénie."],
     }, image: "/poi-images/city-celje-extra.webp"},
   {
-    id: "city-kranj-extra",
+    id: "city-kranj-extra", "sights": {
+      "de": [
+            {
+                  "name": "Prešernova hiša",
+                  "text": "Prešernova hiša ist ein Gedenkmuseum in Kranj.",
+                  "category": "museum",
+                  "coords": [
+                        14.356177,
+                        46.240238
+                  ]
+            },
+            {
+                  "name": "Prešernovo gledališče",
+                  "text": "Das Prešeren Theater ist ein Theater in Kranj.",
+                  "category": "cultural",
+                  "coords": [
+                        14.355901,
+                        46.238012
+                  ]
+            },
+            {
+                  "name": "Grad Khislstein",
+                  "text": "Schloss Khislstein ist eine historische Burg in Kranj.",
+                  "category": "castle",
+                  "coords": [
+                        14.354392,
+                        46.238432
+                  ]
+            },
+            {
+                  "name": "Wartenberg castle ruins",
+                  "text": "Die Burgruine Wartenberg ist eine archäologische Stätte in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.330174,
+                        46.247197
+                  ]
+            },
+            {
+                  "name": "Šmarjetna gora",
+                  "text": "Šmarjetna gora ist ein markanter Gipfel oberhalb von Kranj.",
+                  "category": "natural",
+                  "coords": [
+                        14.336239,
+                        46.243732
+                  ]
+            },
+            {
+                  "name": "Prešernov gaj",
+                  "text": "Prešernov gaj ist ein Gedenkpark in Kranj.",
+                  "category": "park",
+                  "coords": [
+                        14.358161,
+                        46.244731
+                  ]
+            },
+            {
+                  "name": "Šrotenturn",
+                  "text": "Šrotenturn ist ein Herrenhaus in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.339223,
+                        46.23541
+                  ]
+            },
+            {
+                  "name": "Janez Bleiweis pl. Trsteniški",
+                  "text": "Janez Bleiweis pl. Trsteniški ist ein Denkmal in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.355051,
+                        46.245415
+                  ]
+            },
+            {
+                  "name": "Spomenik padlim športnikom",
+                  "text": "Spomenik padlim športnikom ist ein Denkmal für gefallene Sportler in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.364387,
+                        46.250788
+                  ]
+            },
+            {
+                  "name": "Gerija Prešernovih nagrajencev",
+                  "text": "Gerija Prešernovih nagrajencev ist eine lokale Galerie in Kranj.",
+                  "category": "museum",
+                  "coords": [
+                        14.355355,
+                        46.239074
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Šmartinski dom",
+                  "text": "Das Kulturni dom Šmartinski dom ist ein Kunst- und Kulturzentrum in Kranj.",
+                  "category": "cultural",
+                  "coords": [
+                        14.346372,
+                        46.231639
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Mihaela",
+                  "text": "Die Cerkev sv. Mihaela ist eine Kirche in Kranj.",
+                  "category": "religious",
+                  "coords": [
+                        14.371018,
+                        46.218018
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Petra",
+                  "text": "Kapela sv. Petra ist eine Kapelle in Kranj.",
+                  "category": "religious",
+                  "coords": [
+                        14.340503,
+                        46.236161
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Prešernova hiša",
+                  "text": "A Prešernova hiša egy emlékmúzeum Kranjban.",
+                  "category": "museum",
+                  "coords": [
+                        14.356177,
+                        46.240238
+                  ]
+            },
+            {
+                  "name": "Prešernovo gledališče",
+                  "text": "A Prešeren Színház egy kulturális színház Kranjban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.355901,
+                        46.238012
+                  ]
+            },
+            {
+                  "name": "Grad Khislstein",
+                  "text": "A Khislstein kastély egy történelmi vár Kranj városában.",
+                  "category": "castle",
+                  "coords": [
+                        14.354392,
+                        46.238432
+                  ]
+            },
+            {
+                  "name": "Wartenberg castle ruins",
+                  "text": "A Wartenberg várrom egy régészeti lelőhely Kranjban.",
+                  "category": "historical",
+                  "coords": [
+                        14.330174,
+                        46.247197
+                  ]
+            },
+            {
+                  "name": "Šmarjetna gora",
+                  "text": "A Šmarjetna gora egy kiemelkedő hegycsúcs Kranj felett.",
+                  "category": "natural",
+                  "coords": [
+                        14.336239,
+                        46.243732
+                  ]
+            },
+            {
+                  "name": "Prešernov gaj",
+                  "text": "A Prešernov gaj egy emlékpark Kranjban.",
+                  "category": "park",
+                  "coords": [
+                        14.358161,
+                        46.244731
+                  ]
+            },
+            {
+                  "name": "Šrotenturn",
+                  "text": "A Šrotenturn egy udvarház Kranjban.",
+                  "category": "historical",
+                  "coords": [
+                        14.339223,
+                        46.23541
+                  ]
+            },
+            {
+                  "name": "Janez Bleiweis pl. Trsteniški",
+                  "text": "A Janez Bleiweis pl. Trsteniški egy emlékmű Kranjban.",
+                  "category": "historical",
+                  "coords": [
+                        14.355051,
+                        46.245415
+                  ]
+            },
+            {
+                  "name": "Spomenik padlim športnikom",
+                  "text": "A Spomenik padlim športnikom az elesett sportolók emlékműve Kranjban.",
+                  "category": "historical",
+                  "coords": [
+                        14.364387,
+                        46.250788
+                  ]
+            },
+            {
+                  "name": "Gerija Prešernovih nagrajencev",
+                  "text": "A Gerija Prešernovih nagrajencev egy helyi galéria Kranjban.",
+                  "category": "museum",
+                  "coords": [
+                        14.355355,
+                        46.239074
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Šmartinski dom",
+                  "text": "A Kulturni dom Šmartinski dom egy művészeti és kulturális központ Kranjban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.346372,
+                        46.231639
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Mihaela",
+                  "text": "A Cerkev sv. Mihaela egy templom Kranjban.",
+                  "category": "religious",
+                  "coords": [
+                        14.371018,
+                        46.218018
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Petra",
+                  "text": "A Kapela sv. Petra egy kápolna Kranjban.",
+                  "category": "religious",
+                  "coords": [
+                        14.340503,
+                        46.236161
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Prešernova hiša",
+                  "text": "Prešernova hiša este un muzeu memorial situat în Kranj.",
+                  "category": "museum",
+                  "coords": [
+                        14.356177,
+                        46.240238
+                  ]
+            },
+            {
+                  "name": "Prešernovo gledališče",
+                  "text": "Teatrul Prešeren este un teatru cultural situat în Kranj.",
+                  "category": "cultural",
+                  "coords": [
+                        14.355901,
+                        46.238012
+                  ]
+            },
+            {
+                  "name": "Grad Khislstein",
+                  "text": "Castelul Khislstein este un castel istoric situat în Kranj.",
+                  "category": "castle",
+                  "coords": [
+                        14.354392,
+                        46.238432
+                  ]
+            },
+            {
+                  "name": "Wartenberg castle ruins",
+                  "text": "Ruinele castelului Wartenberg sunt un sit arheologic din Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.330174,
+                        46.247197
+                  ]
+            },
+            {
+                  "name": "Šmarjetna gora",
+                  "text": "Šmarjetna gora este un vârf proeminent situat deasupra orașului Kranj.",
+                  "category": "natural",
+                  "coords": [
+                        14.336239,
+                        46.243732
+                  ]
+            },
+            {
+                  "name": "Prešernov gaj",
+                  "text": "Prešernov gaj este un parc memorial situat în Kranj.",
+                  "category": "park",
+                  "coords": [
+                        14.358161,
+                        46.244731
+                  ]
+            },
+            {
+                  "name": "Šrotenturn",
+                  "text": "Šrotenturn este un conac situat în Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.339223,
+                        46.23541
+                  ]
+            },
+            {
+                  "name": "Janez Bleiweis pl. Trsteniški",
+                  "text": "Janez Bleiweis pl. Trsteniški este un monument situat în Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.355051,
+                        46.245415
+                  ]
+            },
+            {
+                  "name": "Spomenik padlim športnikom",
+                  "text": "Spomenik padlim športnikom este un monument dedicat sportivilor căzuți din Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.364387,
+                        46.250788
+                  ]
+            },
+            {
+                  "name": "Gerija Prešernovih nagrajencev",
+                  "text": "Gerija Prešernovih nagrajencev este o galerie situată în Kranj.",
+                  "category": "museum",
+                  "coords": [
+                        14.355355,
+                        46.239074
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Šmartinski dom",
+                  "text": "Kulturni dom Šmartinski dom este un centru de artă și cultură din Kranj.",
+                  "category": "cultural",
+                  "coords": [
+                        14.346372,
+                        46.231639
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Mihaela",
+                  "text": "Cerkev sv. Mihaela este o biserică situată în Kranj.",
+                  "category": "religious",
+                  "coords": [
+                        14.371018,
+                        46.218018
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Petra",
+                  "text": "Kapela sv. Petra este o capelă situată în Kranj.",
+                  "category": "religious",
+                  "coords": [
+                        14.340503,
+                        46.236161
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Prešernova hiša",
+                  "text": "Prešernova hiša is a memorial museum situated in Kranj.",
+                  "category": "museum",
+                  "coords": [
+                        14.356177,
+                        46.240238
+                  ]
+            },
+            {
+                  "name": "Prešeren Theater",
+                  "text": "Prešeren Theater is a cultural theatre located in Kranj.",
+                  "category": "cultural",
+                  "coords": [
+                        14.355901,
+                        46.238012
+                  ]
+            },
+            {
+                  "name": "Castle Khislstein",
+                  "text": "Castle Khislstein is a historic castle located in Kranj.",
+                  "category": "castle",
+                  "coords": [
+                        14.354392,
+                        46.238432
+                  ]
+            },
+            {
+                  "name": "Wartenberg castle ruins",
+                  "text": "The Wartenberg castle ruins are an archaeological site in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.330174,
+                        46.247197
+                  ]
+            },
+            {
+                  "name": "Šmarjetna gora",
+                  "text": "Šmarjetna gora is a prominent peak situated above Kranj.",
+                  "category": "natural",
+                  "coords": [
+                        14.336239,
+                        46.243732
+                  ]
+            },
+            {
+                  "name": "Prešernov gaj",
+                  "text": "Prešernov gaj is a memorial park located in Kranj.",
+                  "category": "park",
+                  "coords": [
+                        14.358161,
+                        46.244731
+                  ]
+            },
+            {
+                  "name": "Šrotenturn",
+                  "text": "Šrotenturn is a manor house situated in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.339223,
+                        46.23541
+                  ]
+            },
+            {
+                  "name": "Janez Bleiweis pl. Trsteniški",
+                  "text": "Janez Bleiweis pl. Trsteniški is a monument located in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.355051,
+                        46.245415
+                  ]
+            },
+            {
+                  "name": "Spomenik padlim športnikom",
+                  "text": "Spomenik padlim športnikom is a monument to fallen athletes in Kranj.",
+                  "category": "historical",
+                  "coords": [
+                        14.364387,
+                        46.250788
+                  ]
+            },
+            {
+                  "name": "Gerija Prešernovih nagrajencev",
+                  "text": "Gerija Prešernovih nagrajencev is a local gallery situated in Kranj.",
+                  "category": "museum",
+                  "coords": [
+                        14.355355,
+                        46.239074
+                  ]
+            },
+            {
+                  "name": "Kulturni dom Šmartinski dom",
+                  "text": "Kulturni dom Šmartinski dom is an arts and cultural centre in Kranj.",
+                  "category": "cultural",
+                  "coords": [
+                        14.346372,
+                        46.231639
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Mihaela",
+                  "text": "Cerkev sv. Mihaela is a church located in Kranj.",
+                  "category": "religious",
+                  "coords": [
+                        14.371018,
+                        46.218018
+                  ]
+            },
+            {
+                  "name": "Kapela sv. Petra",
+                  "text": "Kapela sv. Petra is a chapel situated in Kranj.",
+                  "category": "religious",
+                  "coords": [
+                        14.340503,
+                        46.236161
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "si-kranj",
     coords: [14.3556, 46.2389],
@@ -160,7 +4336,664 @@ export const poiExtraSloveniaCities: POI[] = [
       fr: ["Kranj se situe sur un conglomérat rocheux de 30 mètres de haut.", "La ville est un site industriel important, notamment pour l'électronique et le caoutchouc.", "Le théâtre Prešeren à Kranj est l'un des théâtres les plus importants du pays.", "La gorge de la rivière Kokra a 30 mètres de profondeur et traverse la ville.", "Les tunnels souterrains sous le centre historique font environ 1 300 mètres de long.", "France Prešeren, le poète national de Slovénie, a vécu à Kranj de 1846 à 1849."],
     }, image: "/poi-images/city-kranj-extra.webp"},
   {
-    id: "city-koper-extra",
+    id: "city-koper-extra", "sights": {
+      "de": [
+            {
+                  "name": "Gledališče",
+                  "text": "Das Theater von Koper ist ein bedeutendes kulturelles Zentrum an der slowenischen Küste.",
+                  "category": "cultural",
+                  "coords": [
+                        13.729439,
+                        45.548778
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Koper",
+                  "text": "Das Regionalmuseum von Koper präsentiert die Geschichte und Kunst der Küstenregion.",
+                  "category": "museum",
+                  "coords": [
+                        13.728108,
+                        45.548305
+                  ]
+            },
+            {
+                  "name": "Školjčišče",
+                  "text": "Ein markanter Dünenbereich aus Muschelschalen in der Nähe von Ankaran.",
+                  "category": "recreational",
+                  "coords": [
+                        13.743068,
+                        45.570222
+                  ]
+            },
+            {
+                  "name": "Gravisijev grad",
+                  "text": "Ein historisches Schlossgebäude in der Stadt Koper.",
+                  "category": "castle",
+                  "coords": [
+                        13.715287,
+                        45.542538
+                  ]
+            },
+            {
+                  "name": "Naravni rezervat Škocjanski zatok / Riserva naturale di Val Stagnon",
+                  "text": "Das größte Brackwasser-Feuchtgebiet Sloweniens in der Nähe von Koper.",
+                  "category": "natural",
+                  "coords": [
+                        13.750951,
+                        45.546231
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Ein Hügel, der einen Panoramablick über die Stadt Koper bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Sveta Katarina",
+                  "text": "Ein beliebtes Küstenerholungsgebiet und Strandbad in Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.742605,
+                        45.572249
+                  ]
+            },
+            {
+                  "name": "Monumento del lungomare di Capodistria",
+                  "text": "Ein Denkmal an der Meerespromenade von Koper.",
+                  "category": "historical",
+                  "coords": [
+                        13.724858,
+                        45.549686
+                  ]
+            },
+            {
+                  "name": "Koper, geod. točka 0. reda",
+                  "text": "Ein bedeutender geodätischer Referenzpunkt in der Stadt Koper.",
+                  "category": "historical",
+                  "coords": [
+                        13.724559,
+                        45.548106
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva kkStB U.37",
+                  "text": "Eine historische Schmalspur-Dampflokomotive, die in Koper ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.738326,
+                        45.538884
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Ane / Chiesa di Sant'Anna",
+                  "text": "Ein historisches Kirchengebäude im Stadtzentrum von Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.735753,
+                        45.54905
+                  ]
+            },
+            {
+                  "name": "Rotunda Marijinega vnebovzetja",
+                  "text": "Ein historisches religiöses Bauwerk mit kreisförmigem Grundriss in Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.732487,
+                        45.548779
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Blaža / Chiesa di San Biagio",
+                  "text": "Ein historisches christliches Gotteshaus in der Stadt Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.731054,
+                        45.548967
+                  ]
+            },
+            {
+                  "name": "Viadukt Bonifika / Viadotto Bonifica",
+                  "text": "Ein markantes Brückenbauwerk im Stadtteil Bonifika von Koper.",
+                  "category": "landmark",
+                  "coords": [
+                        13.75585,
+                        45.55719
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Bassa / Chiesa di San Basso",
+                  "text": "Eine historische Kirche am zentralen Platz von Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.730132,
+                        45.545142
+                  ]
+            },
+            {
+                  "name": "Kapela svetega Tomaža / Cappella di San Tommaso",
+                  "text": "Eine kleine historische Kapelle, die dem Heiligen Thomas gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.733621,
+                        45.546582
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Trojice / Chiesa della Santissima Trinità",
+                  "text": "Ein religiöses Gebäude für die örtliche Gemeinschaft in Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.7267,
+                        45.548482
+                  ]
+            },
+            {
+                  "name": "Tržnica / Mercato",
+                  "text": "Der zentrale Marktplatz von Koper für lokale Produkte und Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726042,
+                        45.546147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gledališče",
+                  "text": "A Koperi Színház a szlovén tengerpart egyik fontos kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        13.729439,
+                        45.548778
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Koper",
+                  "text": "A Koperi Regionális Múzeum a part menti régió történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.728108,
+                        45.548305
+                  ]
+            },
+            {
+                  "name": "Školjčišče",
+                  "text": "Egy jellegzetes, kagylóhéjakból álló dűne Ankaran közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        13.743068,
+                        45.570222
+                  ]
+            },
+            {
+                  "name": "Gravisijev grad",
+                  "text": "Történelmi kastélyépület Koper városában.",
+                  "category": "castle",
+                  "coords": [
+                        13.715287,
+                        45.542538
+                  ]
+            },
+            {
+                  "name": "Naravni rezervat Škocjanski zatok / Riserva naturale di Val Stagnon",
+                  "text": "Szlovénia legnagyobb félsós mocsaras területe Koper közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.750951,
+                        45.546231
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Egy domb, amelyről panorámás kilátás nyílik Koper városára.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Sveta Katarina",
+                  "text": "Népszerű tengerparti üdülőhely és strand Koperben.",
+                  "category": "recreational",
+                  "coords": [
+                        13.742605,
+                        45.572249
+                  ]
+            },
+            {
+                  "name": "Monumento del lungomare di Capodistria",
+                  "text": "Emlékmű Koper tengerparti sétányán.",
+                  "category": "historical",
+                  "coords": [
+                        13.724858,
+                        45.549686
+                  ]
+            },
+            {
+                  "name": "Koper, geod. točka 0. reda",
+                  "text": "Fontos geodéziai referenciapont Koper városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.724559,
+                        45.548106
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva kkStB U.37",
+                  "text": "Koperben kiállított történelmi keskeny nyomtávú gőzmozdony.",
+                  "category": "landmark",
+                  "coords": [
+                        13.738326,
+                        45.538884
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Ane / Chiesa di Sant'Anna",
+                  "text": "Történelmi templomépület Koper városközpontjában.",
+                  "category": "religious",
+                  "coords": [
+                        13.735753,
+                        45.54905
+                  ]
+            },
+            {
+                  "name": "Rotunda Marijinega vnebovzetja",
+                  "text": "Történelmi vallási épület kör alaprajzzal Koperben.",
+                  "category": "religious",
+                  "coords": [
+                        13.732487,
+                        45.548779
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Blaža / Chiesa di San Biagio",
+                  "text": "Történelmi keresztény templom Koper városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.731054,
+                        45.548967
+                  ]
+            },
+            {
+                  "name": "Viadukt Bonifika / Viadotto Bonifica",
+                  "text": "Kiemelkedő hídszerkezet Koper Bonifika negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.75585,
+                        45.55719
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Bassa / Chiesa di San Basso",
+                  "text": "Történelmi templom Koper központi terén.",
+                  "category": "religious",
+                  "coords": [
+                        13.730132,
+                        45.545142
+                  ]
+            },
+            {
+                  "name": "Kapela svetega Tomaža / Cappella di San Tommaso",
+                  "text": "Szent Tamásnak szentelt kis történelmi kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        13.733621,
+                        45.546582
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Trojice / Chiesa della Santissima Trinità",
+                  "text": "A helyi közösséget kiszolgáló vallási épület Koperben.",
+                  "category": "religious",
+                  "coords": [
+                        13.7267,
+                        45.548482
+                  ]
+            },
+            {
+                  "name": "Tržnica / Mercato",
+                  "text": "Koper központi piaca a helyi termékek és áruk számára.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726042,
+                        45.546147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gledališče",
+                  "text": "Teatrul din Koper este un centru cultural important de pe coasta slovenă.",
+                  "category": "cultural",
+                  "coords": [
+                        13.729439,
+                        45.548778
+                  ]
+            },
+            {
+                  "name": "Pokrajinski muzej Koper",
+                  "text": "Muzeul Regional din Koper prezintă istoria și arta regiunii de coastă.",
+                  "category": "museum",
+                  "coords": [
+                        13.728108,
+                        45.548305
+                  ]
+            },
+            {
+                  "name": "Školjčišče",
+                  "text": "O zonă distinctivă de dune formate din cochilii de scoici lângă Ankaran.",
+                  "category": "recreational",
+                  "coords": [
+                        13.743068,
+                        45.570222
+                  ]
+            },
+            {
+                  "name": "Gravisijev grad",
+                  "text": "O clădire istorică de castel situată în orașul Koper.",
+                  "category": "castle",
+                  "coords": [
+                        13.715287,
+                        45.542538
+                  ]
+            },
+            {
+                  "name": "Naravni rezervat Škocjanski zatok / Riserva naturale di Val Stagnon",
+                  "text": "Cea mai mare zonă umedă cu apă salmastră din Slovenia, lângă Koper.",
+                  "category": "natural",
+                  "coords": [
+                        13.750951,
+                        45.546231
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "Un deal care oferă vedere panoramică asupra orașului Koper.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Sveta Katarina",
+                  "text": "O zonă populară de recreere pe coastă și stațiune balneară în Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.742605,
+                        45.572249
+                  ]
+            },
+            {
+                  "name": "Monumento del lungomare di Capodistria",
+                  "text": "Un monument situat pe faleza orașului Koper.",
+                  "category": "historical",
+                  "coords": [
+                        13.724858,
+                        45.549686
+                  ]
+            },
+            {
+                  "name": "Koper, geod. točka 0. reda",
+                  "text": "Un punct de referință geodezic important în orașul Koper.",
+                  "category": "historical",
+                  "coords": [
+                        13.724559,
+                        45.548106
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva kkStB U.37",
+                  "text": "O locomotivă cu abur istorică, cu ecartament îngust, expusă în Koper.",
+                  "category": "landmark",
+                  "coords": [
+                        13.738326,
+                        45.538884
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Ane / Chiesa di Sant'Anna",
+                  "text": "O clădire istorică de biserică în centrul orașului Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.735753,
+                        45.54905
+                  ]
+            },
+            {
+                  "name": "Rotunda Marijinega vnebovzetja",
+                  "text": "O construcție religioasă istorică cu plan circular în Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.732487,
+                        45.548779
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Blaža / Chiesa di San Biagio",
+                  "text": "Un lăcaș de cult creștin istoric în orașul Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.731054,
+                        45.548967
+                  ]
+            },
+            {
+                  "name": "Viadukt Bonifika / Viadotto Bonifica",
+                  "text": "O structură de pod proeminentă în zona Bonifika din Koper.",
+                  "category": "landmark",
+                  "coords": [
+                        13.75585,
+                        45.55719
+                  ]
+            },
+            {
+                  "name": "Cerkev svetega Bassa / Chiesa di San Basso",
+                  "text": "O biserică istorică situată în piața centrală din Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.730132,
+                        45.545142
+                  ]
+            },
+            {
+                  "name": "Kapela svetega Tomaža / Cappella di San Tommaso",
+                  "text": "O mică chapelă istorică dedicată Sfântului Toma.",
+                  "category": "religious",
+                  "coords": [
+                        13.733621,
+                        45.546582
+                  ]
+            },
+            {
+                  "name": "Cerkev svete Trojice / Chiesa della Santissima Trinità",
+                  "text": "O clădire religioasă care deservește comunitatea locală din Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.7267,
+                        45.548482
+                  ]
+            },
+            {
+                  "name": "Tržnica / Mercato",
+                  "text": "Piața centrală din Koper pentru produse și mărfuri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726042,
+                        45.546147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gledališče",
+                  "text": "The Koper Theatre is a major cultural center on the Slovenian coast.",
+                  "category": "cultural",
+                  "coords": [
+                        13.729439,
+                        45.548778
+                  ]
+            },
+            {
+                  "name": "Regional museum of Koper",
+                  "text": "The Regional Museum of Koper showcases the history and art of the coastal region.",
+                  "category": "museum",
+                  "coords": [
+                        13.728108,
+                        45.548305
+                  ]
+            },
+            {
+                  "name": "Školjčišče",
+                  "text": "A distinctive dune area made of seashells located near Ankaran.",
+                  "category": "recreational",
+                  "coords": [
+                        13.743068,
+                        45.570222
+                  ]
+            },
+            {
+                  "name": "Gravisijev grad",
+                  "text": "A historic castle building located in the city of Koper.",
+                  "category": "castle",
+                  "coords": [
+                        13.715287,
+                        45.542538
+                  ]
+            },
+            {
+                  "name": "Naravni rezervat Škocjanski zatok / Riserva naturale di Val Stagnon",
+                  "text": "The largest brackish wetland in Slovenia, located near Koper.",
+                  "category": "natural",
+                  "coords": [
+                        13.750951,
+                        45.546231
+                  ]
+            },
+            {
+                  "name": "Markovec / S. Marco",
+                  "text": "A hill offering panoramic views over the city of Koper.",
+                  "category": "natural",
+                  "coords": [
+                        13.701216,
+                        45.537301
+                  ]
+            },
+            {
+                  "name": "Sveta Katarina",
+                  "text": "A popular coastal recreation area and beach resort in Koper.",
+                  "category": "recreational",
+                  "coords": [
+                        13.742605,
+                        45.572249
+                  ]
+            },
+            {
+                  "name": "Monumento del lungomare di Capodistria",
+                  "text": "A monument located along the seaside promenade of Koper.",
+                  "category": "historical",
+                  "coords": [
+                        13.724858,
+                        45.549686
+                  ]
+            },
+            {
+                  "name": "Koper, geod. točka 0. reda",
+                  "text": "An important geodetic reference point in the city of Koper.",
+                  "category": "historical",
+                  "coords": [
+                        13.724559,
+                        45.548106
+                  ]
+            },
+            {
+                  "name": "Parna lokomotiva kkStB U.37",
+                  "text": "A historic narrow-gauge steam locomotive on display in Koper.",
+                  "category": "landmark",
+                  "coords": [
+                        13.738326,
+                        45.538884
+                  ]
+            },
+            {
+                  "name": "St Anne's Church",
+                  "text": "A historic church building in the city center of Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.735753,
+                        45.54905
+                  ]
+            },
+            {
+                  "name": "Rotunda of Mary's Assumption",
+                  "text": "A historic religious building with a circular floor plan in Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.732487,
+                        45.548779
+                  ]
+            },
+            {
+                  "name": "St Blaise Church",
+                  "text": "A historic Christian place of worship in the city of Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.731054,
+                        45.548967
+                  ]
+            },
+            {
+                  "name": "Viadukt Bonifika / Viadotto Bonifica",
+                  "text": "A prominent bridge structure in the Bonifika district of Koper.",
+                  "category": "landmark",
+                  "coords": [
+                        13.75585,
+                        45.55719
+                  ]
+            },
+            {
+                  "name": "St Bassus Church",
+                  "text": "A historic church located in the central square of Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.730132,
+                        45.545142
+                  ]
+            },
+            {
+                  "name": "St Thomas Chapel",
+                  "text": "A small historic chapel dedicated to Saint Thomas.",
+                  "category": "religious",
+                  "coords": [
+                        13.733621,
+                        45.546582
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Trinity",
+                  "text": "A religious building serving the local community in Koper.",
+                  "category": "religious",
+                  "coords": [
+                        13.7267,
+                        45.548482
+                  ]
+            },
+            {
+                  "name": "Tržnica / Mercato",
+                  "text": "The central marketplace of Koper for local products and goods.",
+                  "category": "landmark",
+                  "coords": [
+                        13.726042,
+                        45.546147
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "si-koper",
     coords: [13.7299, 45.5469],

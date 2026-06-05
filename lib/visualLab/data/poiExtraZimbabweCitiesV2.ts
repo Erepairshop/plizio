@@ -65,7 +65,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
       en: ["Known as: The City of Kings.", "Heritage: Former capital of the Ndebele Kingdom.", "Key sites: Near Matobo National Park and Khami Ruins.", "Economy: Rail network and manufacturing hub.", "Atmosphere: Known for its wide, grid-patterned streets.", "Location: Southwestern Zimbabwe."]
     }, image: "/poi-images/bulawayo-cities-v2.webp"},
   {
-    id: "chitungwiza-cities-v2",
+    id: "chitungwiza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maiguru Mai Vinicent Home",
+                  "text": "Maiguru Mai Vinicent Home ist eine lokale Sehenswürdigkeit in Chitungwiza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.057209,
+                        -18.009341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maiguru Mai Vinicent Home",
+                  "text": "A Maiguru Mai Vinicent Home egy helyi látványosság Chitungwiza városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.057209,
+                        -18.009341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maiguru Mai Vinicent Home",
+                  "text": "Maiguru Mai Vinicent Home este o atracție locală situată în Chitungwiza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.057209,
+                        -18.009341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maiguru Mai Vinicent Home",
+                  "text": "Maiguru Mai Vinicent Home is a local attraction located in Chitungwiza.",
+                  "category": "landmark",
+                  "coords": [
+                        31.057209,
+                        -18.009341
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-HA",
     coords: [31.0756, -18.0127],
@@ -161,7 +206,88 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     }
   },
   {
-    id: "kwekwe-cities-v2",
+    id: "kwekwe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "National Mining Museum",
+                  "text": "Ein Museum in Kwekwe, das die Geschichte des Bergbaus in Simbabwe dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            },
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "Museum zur Bergbaugeschichte der Region Kwekwe.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Mining Museum",
+                  "text": "Kwekwei múzeum, amely Zimbabwe bányászatának történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            },
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "Múzeum a Kwekwe régió bányászati történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Mining Museum",
+                  "text": "Un muzeu în Kwekwe care documentează istoria mineritului din Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            },
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "Muzeu dedicat istoriei miniere a regiunii Kwekwe.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Mining Museum",
+                  "text": "A museum in Kwekwe documenting the history of mining in Zimbabwe.",
+                  "category": "museum",
+                  "coords": [
+                        29.801016,
+                        -18.925449
+                  ]
+            },
+            {
+                  "name": "Kwekwe Mining Museum",
+                  "text": "Museum dedicated to the mining history of the Kwekwe region.",
+                  "category": "museum",
+                  "coords": [
+                        29.809136,
+                        -18.935982
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-MI",
     coords: [29.8142, -18.9281],
@@ -353,7 +479,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "ruwa-cities-v2",
+    id: "ruwa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ERIC",
+                  "text": "Ein historisches Herrenhaus in der Gegend von Ruwa.",
+                  "category": "historical",
+                  "coords": [
+                        31.238195,
+                        -17.906648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ERIC",
+                  "text": "Történelmi kúria Ruwa környékén.",
+                  "category": "historical",
+                  "coords": [
+                        31.238195,
+                        -17.906648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ERIC",
+                  "text": "Un conac istoric în zona Ruwa.",
+                  "category": "historical",
+                  "coords": [
+                        31.238195,
+                        -17.906648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "ERIC",
+                  "text": "A historic manor house located in the Ruwa area.",
+                  "category": "historical",
+                  "coords": [
+                        31.238195,
+                        -17.906648
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-ME",
     coords: [31.2447, -17.8897],
@@ -385,7 +556,88 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "chegutu-cities-v2",
+    id: "chegutu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roma",
+                  "text": "Ein Denkmal in Chegutu zur Erinnerung an lokale Ereignisse.",
+                  "category": "historical",
+                  "coords": [
+                        30.141327,
+                        -18.124606
+                  ]
+            },
+            {
+                  "name": "mukoma art centre",
+                  "text": "Ein Zentrum in Chegutu, das lokale Kunst und Kultur fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        30.15192,
+                        -18.128269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roma",
+                  "text": "Helyi események emlékére állított emlékmű Chegutuban.",
+                  "category": "historical",
+                  "coords": [
+                        30.141327,
+                        -18.124606
+                  ]
+            },
+            {
+                  "name": "mukoma art centre",
+                  "text": "Chegutuban található központ, amely a helyi művészetet és kultúrát népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        30.15192,
+                        -18.128269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roma",
+                  "text": "Un monument în Chegutu care comemorează evenimente locale.",
+                  "category": "historical",
+                  "coords": [
+                        30.141327,
+                        -18.124606
+                  ]
+            },
+            {
+                  "name": "mukoma art centre",
+                  "text": "Un centru din Chegutu care promovează arta și cultura locală.",
+                  "category": "cultural",
+                  "coords": [
+                        30.15192,
+                        -18.128269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roma",
+                  "text": "A monument in Chegutu commemorating local events.",
+                  "category": "historical",
+                  "coords": [
+                        30.141327,
+                        -18.124606
+                  ]
+            },
+            {
+                  "name": "mukoma art centre",
+                  "text": "A centre in Chegutu promoting local art and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        30.15192,
+                        -18.128269
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-MW",
     coords: [30.1492, -18.1303],
@@ -545,7 +797,952 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "victoria-falls-cities-v2",
+    id: "victoria-falls-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "Das Victoria Falls Bridge Visitor Centre ist ein Museum, das Informationen über die Brücke in Victoria Falls bietet.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "The Snake Pit",
+                  "text": "The Snake Pit ist eine zoologische Einrichtung in Victoria Falls.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83847,
+                        -17.928293
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "Steam Loco ist eine Museumsausstellung in Victoria Falls.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Horseshoe Falls",
+                  "text": "Horseshoe Falls ist ein markanter Klippenabschnitt der berühmten Victoriafälle.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854848,
+                        -17.924223
+                  ]
+            },
+            {
+                  "name": "Devil's Cataract",
+                  "text": "Devil's Cataract ist ein markanter Klippenabschnitt der berühmten Victoriafälle.",
+                  "category": "landmark",
+                  "coords": [
+                        25.847687,
+                        -17.922909
+                  ]
+            },
+            {
+                  "name": "Main Falls",
+                  "text": "Main Falls ist der größte Klippenabschnitt der spektakulären Victoriafälle.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852124,
+                        -17.923806
+                  ]
+            },
+            {
+                  "name": "Eastern Cataract",
+                  "text": "Eastern Cataract ist eine bedeutende Klippenformation, die Teil der Victoriafälle ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.861152,
+                        -17.925548
+                  ]
+            },
+            {
+                  "name": "Rainbow Falls",
+                  "text": "Rainbow Falls ist eine bekannte Klippenkante der gewaltigen Victoriafälle.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857128,
+                        -17.924506
+                  ]
+            },
+            {
+                  "name": "Arm Chair Falls",
+                  "text": "Arm Chair Falls ist ein spezifisches Klippenmerkmal der weitläufigen Victoriafälle.",
+                  "category": "landmark",
+                  "coords": [
+                        25.858979,
+                        -17.924941
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "Danger Point ist ein Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "Boiling Pot ist ein malerischer Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "Der Big Tree (Baobab) ist eine bemerkenswerte natürliche Sehenswürdigkeit in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "14 Rainbow Falls ist ein etablierter Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "The log ist ein lokaler Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "7. Cataract Island View",
+                  "text": "7. Cataract Island View ist ein malerischer Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.849417,
+                        -17.923968
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "12 Livingstone Island ist ein Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "13 Horse Shoe Falls ist ein Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "Gorge Swing ist eine Extremsport-Attraktion in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "Bridge Swing & Zipline - End (Shearwater) ist eine Abenteuer-Attraktion in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "Bridge Zipline - Beginning (Shearwater) ist eine Abenteuersport-Attraktion in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "Die Baobab trees road ist eine landschaftlich reizvolle Route und Sehenswürdigkeit in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "Der Zambezi river view point ist ein malerischer Aussichtspunkt in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "Chipala Cultural Experience ist eine lokale kulturelle Attraktion in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "Zambezi Horse Trails ist eine Reitattraktion in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "Gorge Swing & Zipline (Wild Horizons) ist eine Abenteuer-Attraktion in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "Die Adventure zone ist eine Freizeitattraktion in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834391,
+                        -17.931925
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "A Victoria Falls Bridge Visitor Centre egy múzeum Victoria Falls városában, amely a hídról nyújt információkat.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "The Snake Pit",
+                  "text": "A The Snake Pit egy állatkerti létesítmény Victoria Falls területén.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83847,
+                        -17.928293
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "A Steam Loco egy múzeumi kiállítás Victoria Falls városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Horseshoe Falls",
+                  "text": "A Horseshoe Falls a híres Viktória-vízesés egyik különálló sziklapereme.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854848,
+                        -17.924223
+                  ]
+            },
+            {
+                  "name": "Devil's Cataract",
+                  "text": "A Devil's Cataract a híres Viktória-vízesés egyik kiemelkedő sziklapereme.",
+                  "category": "landmark",
+                  "coords": [
+                        25.847687,
+                        -17.922909
+                  ]
+            },
+            {
+                  "name": "Main Falls",
+                  "text": "A Main Falls a látványos Viktória-vízesés legnagyobb sziklapereme.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852124,
+                        -17.923806
+                  ]
+            },
+            {
+                  "name": "Eastern Cataract",
+                  "text": "Az Eastern Cataract egy jelentős sziklaalakzat, amely a Viktória-vízesés részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        25.861152,
+                        -17.925548
+                  ]
+            },
+            {
+                  "name": "Rainbow Falls",
+                  "text": "A Rainbow Falls a hatalmas Viktória-vízesés egyik jól ismert sziklapereme.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857128,
+                        -17.924506
+                  ]
+            },
+            {
+                  "name": "Arm Chair Falls",
+                  "text": "Az Arm Chair Falls a kiterjedt Viktória-vízesés egyik jellegzetes sziklaképződménye.",
+                  "category": "landmark",
+                  "coords": [
+                        25.858979,
+                        -17.924941
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "A Danger Point egy kilátóhely Victoria Falls területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "A Boiling Pot egy festői kilátóhely Victoria Falls városában.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "A Big Tree (Baobab) egy nevezetes természeti látványosság Victoria Falls területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "A 14 Rainbow Falls egy kiépített kilátóhely Victoria Falls területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "A The log egy helyi kilátóhely Victoria Falls területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "7. Cataract Island View",
+                  "text": "A 7. Cataract Island View egy festői kilátóhely Victoria Falls területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.849417,
+                        -17.923968
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "A 12 Livingstone Island egy kilátóhely Victoria Falls területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "A 13 Horse Shoe Falls egy kilátóhely Victoria Falls városában.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "A Gorge Swing egy extrém sportlétesítmény Victoria Falls területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "A Bridge Swing & Zipline - End (Shearwater) egy kalandparki látványosság Victoria Falls városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "A Bridge Zipline - Beginning (Shearwater) egy kalandsport-létesítmény Victoria Falls területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "A Baobab trees road egy festői útvonal és látványosság Victoria Falls területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "A Zambezi river view point egy festői kilátóhely Victoria Falls területén.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "A Chipala Cultural Experience egy helyi kulturális látványosság Victoria Falls területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "A Zambezi Horse Trails egy lovas látványosság Victoria Falls városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "A Gorge Swing & Zipline (Wild Horizons) egy kalandos látványosság Victoria Falls városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "Az Adventure zone egy rekreációs látványosság Victoria Falls területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834391,
+                        -17.931925
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "Victoria Falls Bridge Visitor Centre este un muzeu care oferă informații despre podul din Victoria Falls.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "The Snake Pit",
+                  "text": "The Snake Pit este o facilitate zoologică situată în Victoria Falls.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83847,
+                        -17.928293
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "Steam Loco este o expoziție muzeală situată în Victoria Falls.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Horseshoe Falls",
+                  "text": "Horseshoe Falls este o secțiune de stâncă distinctă a faimoasei Cascade Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854848,
+                        -17.924223
+                  ]
+            },
+            {
+                  "name": "Devil's Cataract",
+                  "text": "Devil's Cataract este o secțiune de stâncă proeminentă a renumitei Cascade Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.847687,
+                        -17.922909
+                  ]
+            },
+            {
+                  "name": "Main Falls",
+                  "text": "Main Falls este cea mai mare secțiune de stâncă a spectaculoasei Cascade Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852124,
+                        -17.923806
+                  ]
+            },
+            {
+                  "name": "Eastern Cataract",
+                  "text": "Eastern Cataract este o formațiune de stâncă semnificativă care face parte din Cascada Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.861152,
+                        -17.925548
+                  ]
+            },
+            {
+                  "name": "Rainbow Falls",
+                  "text": "Rainbow Falls este o margine de stâncă renumită a vastei Cascade Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857128,
+                        -17.924506
+                  ]
+            },
+            {
+                  "name": "Arm Chair Falls",
+                  "text": "Arm Chair Falls este o caracteristică de stâncă specifică a vastei Cascade Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.858979,
+                        -17.924941
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "Danger Point este un punct de belvedere situat în Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "Boiling Pot este un punct de belvedere pitoresc situat în Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "Big Tree (Baobab) este o atracție naturală notabilă din Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "14 Rainbow Falls este un punct de belvedere stabilit situat în Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "The log este un punct local de belvedere situat în Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "7. Cataract Island View",
+                  "text": "7. Cataract Island View este un punct de belvedere pitoresc situat în Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.849417,
+                        -17.923968
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "12 Livingstone Island este un punct de belvedere situat în Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "13 Horse Shoe Falls este un punct de belvedere situat în Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "Gorge Swing este o atracție de sporturi extreme situată în Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "Bridge Swing & Zipline - End (Shearwater) este o atracție de aventură din Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "Bridge Zipline - Beginning (Shearwater) este o atracție de sporturi de aventură din Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "Baobab trees road este un traseu pitoresc și o atracție situată în Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "Zambezi river view point este un punct pitoresc de belvedere din Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "Chipala Cultural Experience este o atracție culturală locală situată în Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "Zambezi Horse Trails este o atracție ecvestră situată în Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "Gorge Swing & Zipline (Wild Horizons) este o atracție de aventură situată în Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "Adventure zone este o atracție de recreere situată în Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834391,
+                        -17.931925
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Victoria Falls Bridge Visitor Centre",
+                  "text": "Victoria Falls Bridge Visitor Centre is a museum providing information about the bridge in Victoria Falls.",
+                  "category": "museum",
+                  "coords": [
+                        25.85768,
+                        -17.929589
+                  ]
+            },
+            {
+                  "name": "The Snake Pit",
+                  "text": "The Snake Pit is a zoological facility located in Victoria Falls.",
+                  "category": "recreational",
+                  "coords": [
+                        25.83847,
+                        -17.928293
+                  ]
+            },
+            {
+                  "name": "Steam Loco",
+                  "text": "Steam Loco is a museum exhibit located in Victoria Falls.",
+                  "category": "museum",
+                  "coords": [
+                        25.839878,
+                        -17.927367
+                  ]
+            },
+            {
+                  "name": "Horseshoe Falls",
+                  "text": "Horseshoe Falls is a distinct cliff section of the famous Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854848,
+                        -17.924223
+                  ]
+            },
+            {
+                  "name": "Devil's Cataract",
+                  "text": "Devil's Cataract is a prominent cliff section of the renowned Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.847687,
+                        -17.922909
+                  ]
+            },
+            {
+                  "name": "Main Falls",
+                  "text": "Main Falls is the largest cliff section of the spectacular Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.852124,
+                        -17.923806
+                  ]
+            },
+            {
+                  "name": "Eastern Cataract",
+                  "text": "Eastern Cataract is a significant cliff formation forming part of Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.861152,
+                        -17.925548
+                  ]
+            },
+            {
+                  "name": "Rainbow Falls",
+                  "text": "Rainbow Falls is a renowned cliff edge of the vast Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857128,
+                        -17.924506
+                  ]
+            },
+            {
+                  "name": "Arm Chair Falls",
+                  "text": "Arm Chair Falls is a specific cliff feature of the expansive Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.858979,
+                        -17.924941
+                  ]
+            },
+            {
+                  "name": "Danger Point",
+                  "text": "Danger Point is an observational viewpoint situated in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.859155,
+                        -17.926972
+                  ]
+            },
+            {
+                  "name": "Boiling Pot",
+                  "text": "Boiling Pot is a scenic viewpoint located in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.859391,
+                        -17.928151
+                  ]
+            },
+            {
+                  "name": "Big Tree (Baobab)",
+                  "text": "The Big Tree (Baobab) is a notable natural attraction in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.84125,
+                        -17.912613
+                  ]
+            },
+            {
+                  "name": "14 Rainbow Falls",
+                  "text": "14 Rainbow Falls is an established viewpoint located in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.856644,
+                        -17.925845
+                  ]
+            },
+            {
+                  "name": "The log",
+                  "text": "The log is a local observational viewpoint located in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847257,
+                        -17.921792
+                  ]
+            },
+            {
+                  "name": "7. Cataract Island View",
+                  "text": "7. Cataract Island View is a scenic viewpoint situated in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.849417,
+                        -17.923968
+                  ]
+            },
+            {
+                  "name": "12 Livingstone Island",
+                  "text": "12 Livingstone Island is an observational viewpoint located in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.85329,
+                        -17.925003
+                  ]
+            },
+            {
+                  "name": "13 Horse Shoe Falls",
+                  "text": "13 Horse Shoe Falls is a viewpoint situated in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.854963,
+                        -17.925385
+                  ]
+            },
+            {
+                  "name": "Gorge Swing",
+                  "text": "Gorge Swing is an extreme sports attraction located in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.8565,
+                        -17.944877
+                  ]
+            },
+            {
+                  "name": "Bridge Swing & Zipline - End (Shearwater)",
+                  "text": "Bridge Swing & Zipline - End (Shearwater) is an adventure attraction in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.857253,
+                        -17.928479
+                  ]
+            },
+            {
+                  "name": "Bridge Zipline - Beginning (Shearwater)",
+                  "text": "Bridge Zipline - Beginning (Shearwater) is an adventure sports attraction in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.85659,
+                        -17.929566
+                  ]
+            },
+            {
+                  "name": "Baobab trees road",
+                  "text": "Baobab trees road is a scenic route and attraction located in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.843328,
+                        -17.914314
+                  ]
+            },
+            {
+                  "name": "Zambezi river view point",
+                  "text": "Zambezi river view point is a scenic observational point in Victoria Falls.",
+                  "category": "natural",
+                  "coords": [
+                        25.847457,
+                        -17.920218
+                  ]
+            },
+            {
+                  "name": "Chipala Cultural Experience",
+                  "text": "Chipala Cultural Experience is a local cultural attraction situated in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.839812,
+                        -17.928755
+                  ]
+            },
+            {
+                  "name": "Zambezi Horse Trails",
+                  "text": "Zambezi Horse Trails is an equestrian attraction located in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.83757,
+                        -17.919781
+                  ]
+            },
+            {
+                  "name": "Gorge Swing & Zipline (Wild Horizons)",
+                  "text": "Gorge Swing & Zipline (Wild Horizons) is an adventure attraction situated in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.848257,
+                        -17.928627
+                  ]
+            },
+            {
+                  "name": "Adventure zone",
+                  "text": "Adventure zone is a recreational attraction located in Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.834391,
+                        -17.931925
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-MN",
     coords: [25.8333, -17.9333],
@@ -1025,7 +2222,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "glendale-cities-v2",
+    id: "glendale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kane York AT ADJV Presentations",
+                  "text": "Eine lokale Attraktion in Glendale für Präsentationen und Veranstaltungen.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050433,
+                        -17.402646
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kane York AT ADJV Presentations",
+                  "text": "Helyi látványosság Glendale-ben prezentációk és rendezvények számára.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050433,
+                        -17.402646
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kane York AT ADJV Presentations",
+                  "text": "O atracție locală în Glendale pentru prezentări și evenimente.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050433,
+                        -17.402646
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kane York AT ADJV Presentations",
+                  "text": "A local attraction in Glendale for presentations and events.",
+                  "category": "landmark",
+                  "coords": [
+                        31.050433,
+                        -17.402646
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-MC",
     coords: [31.0667, -17.3833],
@@ -1409,7 +2651,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "binga-cities-v2",
+    id: "binga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Batonga Museum",
+                  "text": "Ein Museum in Binga, das der Kultur des Tonga-Volkes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.345084,
+                        -17.624639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batonga Museum",
+                  "text": "Bingában található múzeum, amely a tonga nép kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.345084,
+                        -17.624639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Batonga Museum",
+                  "text": "Un muzeu din Binga dedicat culturii poporului Tonga.",
+                  "category": "museum",
+                  "coords": [
+                        27.345084,
+                        -17.624639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batonga Museum",
+                  "text": "A museum in Binga dedicated to the culture of the Tonga people.",
+                  "category": "museum",
+                  "coords": [
+                        27.345084,
+                        -17.624639
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-MN",
     coords: [27.3414, -17.6203],
@@ -1601,7 +2888,52 @@ export const poiExtraZimbabweCitiesV2: POI[] = [
     },
   },
   {
-    id: "chimanimani-cities-v2",
+    id: "chimanimani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "Ein spektakulärer Aussichtspunkt auf die Bridal Veil Wasserfälle bei Chimanimani.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "Látványos kilátópont a Bridal Veil-vízesésre Chimanimani közelében.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "Un punct de observație spectaculos asupra cascadei Bridal Veil de lângă Chimanimani.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bridal Veil Falls",
+                  "text": "A spectacular viewpoint overlooking the Bridal Veil Falls near Chimanimani.",
+                  "category": "natural",
+                  "coords": [
+                        32.848134,
+                        -19.792095
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZW-MA",
     coords: [32.8667, -19.8],

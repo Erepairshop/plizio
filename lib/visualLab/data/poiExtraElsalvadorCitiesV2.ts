@@ -3,7 +3,124 @@ import type { POI } from "./poi";
 
 export const poiExtraElsalvadorCitiesV2: POI[] = [
   {
-    id: "soyapango-cities-v2",
+    id: "soyapango-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Acuatico Texincal",
+                  "text": "Der Parque Acuatico Texincal ist ein beliebtes Ausflugsziel für Wasserspaß in Soyapango.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.167337,
+                        13.719047
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Delgado",
+                  "text": "Dieses Kulturzentrum in Soyapango fördert die lokale Kunst und Bildung.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.166914,
+                        13.723667
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "Die Pinacoteca in Soyapango ist eine Galerie, die lokale Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Acuatico Texincal",
+                  "text": "A Parque Acuatico Texincal népszerű vízi élménypark Soyapango városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.167337,
+                        13.719047
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Delgado",
+                  "text": "Ez a soyapangói kulturális központ a helyi művészetet és oktatást támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.166914,
+                        13.723667
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "A soyapangói Pinacoteca egy galéria, amely helyi műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Acuatico Texincal",
+                  "text": "Parque Acuatico Texincal este o destinație populară pentru distracție acvatică în Soyapango.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.167337,
+                        13.719047
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Delgado",
+                  "text": "Acest centru cultural din Soyapango promovează arta și educația locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.166914,
+                        13.723667
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "Pinacoteca din Soyapango este o galerie care expune opere de artă locale.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Acuatico Texincal",
+                  "text": "Parque Acuatico Texincal is a popular destination for water fun in Soyapango.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.167337,
+                        13.719047
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Ciudad Delgado",
+                  "text": "This cultural center in Soyapango promotes local arts and education.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.166914,
+                        13.723667
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "The Pinacoteca in Soyapango is a gallery showcasing local artworks.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SS",
     coords: [-89.148, 13.708],
@@ -234,7 +351,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "colon-city-cities-v2",
+    id: "colon-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Poliedro (EN DESUSO)",
+                  "text": "Ein ehemaliges Theatergebäude in Colón, das heute nicht mehr in Betrieb ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.353249,
+                        13.719115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Poliedro (EN DESUSO)",
+                  "text": "Egy korábbi színházépület Colón városában, amely jelenleg használaton kívül van.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.353249,
+                        13.719115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Poliedro (EN DESUSO)",
+                  "text": "O fostă clădire de teatru în Colón, care în prezent nu mai este utilizată.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.353249,
+                        13.719115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Poliedro (EN DESUSO)",
+                  "text": "A former theatre building in Colón that is currently no longer in use.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.353249,
+                        13.719115
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LI",
     coords: [-89.35, 13.733],
@@ -272,7 +434,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "acajutla-cities-v2",
+    id: "acajutla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muelle Antiguo",
+                  "text": "Die Überreste des alten Piers von Acajutla, ein Zeugnis der Hafengeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.8373,
+                        13.594829
+                  ]
+            },
+            {
+                  "name": "Edificio del Muelle Antiguo",
+                  "text": "Eine Gebäuderuine am alten Pier, die Einblicke in die frühere Infrastruktur bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -89.835355,
+                        13.59582
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muelle Antiguo",
+                  "text": "Acajutla régi mólójának maradványai, a kikötő történelmének emléke.",
+                  "category": "historical",
+                  "coords": [
+                        -89.8373,
+                        13.594829
+                  ]
+            },
+            {
+                  "name": "Edificio del Muelle Antiguo",
+                  "text": "Épületrom a régi mólónál, amely betekintést nyújt a korábbi infrastruktúrába.",
+                  "category": "historical",
+                  "coords": [
+                        -89.835355,
+                        13.59582
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muelle Antiguo",
+                  "text": "Vestigiile vechiului debarcader din Acajutla, mărturie a istoriei portuare.",
+                  "category": "historical",
+                  "coords": [
+                        -89.8373,
+                        13.594829
+                  ]
+            },
+            {
+                  "name": "Edificio del Muelle Antiguo",
+                  "text": "O ruină de clădire situată lângă vechiul debarcader, oferind detalii despre infrastructura trecută.",
+                  "category": "historical",
+                  "coords": [
+                        -89.835355,
+                        13.59582
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muelle Antiguo",
+                  "text": "The remains of the old pier in Acajutla, a testament to the port's history.",
+                  "category": "historical",
+                  "coords": [
+                        -89.8373,
+                        13.594829
+                  ]
+            },
+            {
+                  "name": "Edificio del Muelle Antiguo",
+                  "text": "A ruined building at the old pier, providing insight into the former infrastructure.",
+                  "category": "historical",
+                  "coords": [
+                        -89.835355,
+                        13.59582
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.833, 13.583],
@@ -310,7 +553,124 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "iztapán-cities-v2",
+    id: "iztapán-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Chantecuán",
+                  "text": "Der Parque Chantecuán ist ein Naturschutzgebiet in San Sebastián Salitrillo.",
+                  "category": "natural",
+                  "coords": [
+                        -89.130847,
+                        13.73888
+                  ]
+            },
+            {
+                  "name": "Monumento al Paracaidista Salvadoreño",
+                  "text": "Dieses Denkmal ehrt die Fallschirmjäger El Salvadors in San Sebastián Salitrillo.",
+                  "category": "historical",
+                  "coords": [
+                        -89.113768,
+                        13.697322
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "Die Pinacoteca in San Sebastián Salitrillo präsentiert Ausstellungen bildender Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Chantecuán",
+                  "text": "A Parque Chantecuán egy természetvédelmi terület San Sebastián Salitrillo városában.",
+                  "category": "natural",
+                  "coords": [
+                        -89.130847,
+                        13.73888
+                  ]
+            },
+            {
+                  "name": "Monumento al Paracaidista Salvadoreño",
+                  "text": "Ez az emlékmű Salvador ejtőernyősei előtt tiszteleg San Sebastián Salitrillóban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.113768,
+                        13.697322
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "A San Sebastián Salitrillo-i Pinacoteca képzőművészeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Chantecuán",
+                  "text": "Parque Chantecuán este o rezervație naturală din San Sebastián Salitrillo.",
+                  "category": "natural",
+                  "coords": [
+                        -89.130847,
+                        13.73888
+                  ]
+            },
+            {
+                  "name": "Monumento al Paracaidista Salvadoreño",
+                  "text": "Acest monument onorează parașutiștii din El Salvador în San Sebastián Salitrillo.",
+                  "category": "historical",
+                  "coords": [
+                        -89.113768,
+                        13.697322
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "Pinacoteca din San Sebastián Salitrillo prezintă expoziții de artă plastică.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Chantecuán",
+                  "text": "Parque Chantecuán is a nature reserve located in San Sebastián Salitrillo.",
+                  "category": "natural",
+                  "coords": [
+                        -89.130847,
+                        13.73888
+                  ]
+            },
+            {
+                  "name": "Monumento al Paracaidista Salvadoreño",
+                  "text": "This monument honors the paratroopers of El Salvador in San Sebastián Salitrillo.",
+                  "category": "historical",
+                  "coords": [
+                        -89.113768,
+                        13.697322
+                  ]
+            },
+            {
+                  "name": "Pinacoteca",
+                  "text": "The Pinacoteca in San Sebastián Salitrillo presents fine art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -89.153167,
+                        13.71685
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SS",
     coords: [-89.133, 13.716],
@@ -348,7 +708,232 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "chalchuapa-cities-v2",
+    id: "chalchuapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Arqueológico Casa Blanca",
+                  "text": "Ein archäologischer Park in Chalchuapa mit Ruinen aus der präkolumbianischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        -89.672213,
+                        13.988998
+                  ]
+            },
+            {
+                  "name": "Tazumal",
+                  "text": "Eine bedeutende Maya-Ausgrabungsstätte in Chalchuapa mit gut erhaltenen Pyramiden.",
+                  "category": "historical",
+                  "coords": [
+                        -89.674617,
+                        13.979815
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico \"Casa Blanca\"",
+                  "text": "Dieses Museum in Chalchuapa zeigt archäologische Artefakte der Casa Blanca Fundstätte.",
+                  "category": "museum",
+                  "coords": [
+                        -89.671122,
+                        13.988686
+                  ]
+            },
+            {
+                  "name": "Balneario El Trapiche",
+                  "text": "Ein beliebtes Ausflugsziel in Chalchuapa mit Schwimmbecken und Freizeitanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.671684,
+                        13.996251
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Ein lokales Denkmal in Chalchuapa, das als Ehrenmal für alle Mütter errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -89.67525,
+                        13.985518
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura de Chalchuapa",
+                  "text": "Ein Kulturzentrum in Chalchuapa, das lokale Künste und Traditionen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.681921,
+                        13.982817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Arqueológico Casa Blanca",
+                  "text": "Régészeti park Chalchuapa városában prekolumbián kori romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -89.672213,
+                        13.988998
+                  ]
+            },
+            {
+                  "name": "Tazumal",
+                  "text": "Jelentős maja régészeti lelőhely Chalchuapa városában, jól megőrzött piramisokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -89.674617,
+                        13.979815
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico \"Casa Blanca\"",
+                  "text": "Ez a chalchuapai múzeum a Casa Blanca lelőhely régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.671122,
+                        13.988686
+                  ]
+            },
+            {
+                  "name": "Balneario El Trapiche",
+                  "text": "Népszerű chalchuapai pihenőhely úszómedencékkel és szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.671684,
+                        13.996251
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Helyi emlékmű Chalchuapa városában, amelyet az édesanyák tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        -89.67525,
+                        13.985518
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura de Chalchuapa",
+                  "text": "Kulturális központ Chalchuapa városában, amely a helyi művészeteket és hagyományokat ápolja.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.681921,
+                        13.982817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Arqueológico Casa Blanca",
+                  "text": "Un parc arheologic în Chalchuapa care prezintă ruine din perioada precolumbiană.",
+                  "category": "historical",
+                  "coords": [
+                        -89.672213,
+                        13.988998
+                  ]
+            },
+            {
+                  "name": "Tazumal",
+                  "text": "Un sit arheologic maiaș important în Chalchuapa, cu piramide bine conservate.",
+                  "category": "historical",
+                  "coords": [
+                        -89.674617,
+                        13.979815
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico \"Casa Blanca\"",
+                  "text": "Acest muzeu din Chalchuapa expune artefacte arheologice de la situl Casa Blanca.",
+                  "category": "museum",
+                  "coords": [
+                        -89.671122,
+                        13.988686
+                  ]
+            },
+            {
+                  "name": "Balneario El Trapiche",
+                  "text": "O destinație de agrement populară în Chalchuapa, cu piscine și facilități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.671684,
+                        13.996251
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Un monument local în Chalchuapa ridicat ca omagiu pentru toate mamele.",
+                  "category": "historical",
+                  "coords": [
+                        -89.67525,
+                        13.985518
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura de Chalchuapa",
+                  "text": "Un centru cultural în Chalchuapa care promovează artele și tradițiile locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.681921,
+                        13.982817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Arqueológico Casa Blanca",
+                  "text": "An archaeological park in Chalchuapa featuring ruins from the pre-Columbian era.",
+                  "category": "historical",
+                  "coords": [
+                        -89.672213,
+                        13.988998
+                  ]
+            },
+            {
+                  "name": "Tazumal",
+                  "text": "A major Mayan archaeological site in Chalchuapa featuring well-preserved pyramids.",
+                  "category": "historical",
+                  "coords": [
+                        -89.674617,
+                        13.979815
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico \"Casa Blanca\"",
+                  "text": "This museum in Chalchuapa displays archaeological artifacts from the Casa Blanca site.",
+                  "category": "museum",
+                  "coords": [
+                        -89.671122,
+                        13.988686
+                  ]
+            },
+            {
+                  "name": "Balneario El Trapiche",
+                  "text": "A popular recreational destination in Chalchuapa with swimming pools and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.671684,
+                        13.996251
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A local monument in Chalchuapa erected as a tribute to mothers.",
+                  "category": "historical",
+                  "coords": [
+                        -89.67525,
+                        13.985518
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura de Chalchuapa",
+                  "text": "A cultural center in Chalchuapa promoting local arts and traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.681921,
+                        13.982817
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SA",
     coords: [-89.683, 13.983],
@@ -424,7 +1009,916 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "antiguo-cuscatlan-cities-v2",
+    id: "antiguo-cuscatlan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "Dieses Nationalmuseum in Antiguo Cuscatlán zeigt bedeutende archäologische Funde El Salvadors.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "Das Teatro Presidente ist eines der wichtigsten Theater des Landes in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "Dieses Auditorium in Antiguo Cuscatlán ist ein wichtiger Ort für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Ein zentraler Ort für Vorträge und Aufführungen in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Diese Freilichtbühne in Antiguo Cuscatlán wird für Konzerte und Veranstaltungen genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "Das FEPADE-Auditorium ist ein modernes Zentrum für Konferenzen und Kultur in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "Das Museo Forma ist das erste Kunstmuseum El Salvadors und befindet sich in Antiguo Cuscatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "Dieses berühmte Denkmal in Antiguo Cuscatlán ist ein nationales Symbol von El Salvador.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "Dieser botanische Garten in Antiguo Cuscatlán liegt in einem Krater und zeigt exotische Pflanzen.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "Ein Zentrum zur Förderung des kulturellen Austauschs zwischen Spanien und El Salvador.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "Die Plaza Brasil ist ein öffentlicher Platz und Denkmal in Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "Dieses Denkmal ehrt den salvadorianischen Soldaten in Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "Ein lokales Denkmal zu Ehren der legendären indigenen Figur Atlacatl.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "Ein öffentliches Denkmal, das der Meinungsfreiheit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "Ein Denkmal zu Ehren des berühmten deutschen Komponisten Ludwig van Beethoven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "Ein Denkmalplatz zur Feier der freundschaftlichen Beziehungen zu Guatemala.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "Ein markantes Denkmal, das Reisende in der Stadt willkommen heißt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "Ein Denkmalplatz zur Feier der kulturellen Verbindungen zu Italien.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "Ein Denkmal zu Ehren des südamerikanischen Befreiers José de San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Ein Denkmal, das dem Souveränen Malteserorden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "Ein Denkmal zu Ehren des dominikanischen Gründungsvaters Juan Pablo Duarte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "Ein Denkmalplatz, der der palästinensischen Kultur gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "Ein Denkmal zu Ehren des Wohltäters Walter Thilo Deininger.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "Ein Kulturzentrum, das die französische Sprache und Kunst fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "Ez az Antiguo Cuscatlán-i nemzeti múzeum Salvador jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "A Teatro Presidente az ország egyik legfontosabb színháza Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "Ez az Antiguo Cuscatlán-i auditórium a kulturális események fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Előadások és produkciók központi helyszíne Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Ezt az Antiguo Cuscatlán-i szabadtéri színpadot koncertekre és rendezvényekre használják.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "A FEPADE auditórium modern konferencia- és kulturális központ Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Az előadóművészetek helyi színhelye Antiguo Cuscatlánban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "A Museo Forma Salvador első művészeti múzeuma, amely Antiguo Cuscatlánban található.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "Ez a híres Antiguo Cuscatlán-i emlékmű Salvador nemzeti szimbóluma.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "Ez az Antiguo Cuscatlán-i botanikus kert egy kráterben található, és egzotikus növényeket mutat be.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "A Spanyolország és Salvador közötti kulturális csereprogramokat elősegítő központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "A Plaza Brasil egy nyilvános tér és emlékmű Antiguo Cuscatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "Ez az emlékmű a salvadori katonák tiszteletére készült Antiguo Cuscatlánban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "Helyi emlékmű a legendás őslakos figura, Atlacatl tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "A véleménynyilvánítás szabadságának szentelt nyilvános emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "Emlékmű a híres német zeneszerző, Ludwig van Beethoven tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "Guatemalával való baráti kapcsolatokat ünneplő emléktér.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "Jellegzetes emlékmű, amely köszönti az utazókat a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "Itáliával való kulturális kapcsolatokat ünneplő emléktér.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "Emlékmű a dél-amerikai felszabadító, José de San Martín tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A Szuverén Máltai Lovagrendnek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "Emlékmű a dominikai alapító atya, Juan Pablo Duarte tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "A palesztin kultúrának szentelt emléktér.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "Emlékmű a jótevő Walter Thilo Deininger tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "A francia nyelvet és művészetet népszerűsítő kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "Acest muzeu național din Antiguo Cuscatlán expune descoperiri arheologice importante din El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "Teatro Presidente este unul dintre cele mai importante teatre din țară, situat în Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "Acest auditoriu din Antiguo Cuscatlán este un loc important pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "Un loc central pentru conferințe și spectacole în Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Această scenă în aer liber din Antiguo Cuscatlán este utilizată pentru concerte și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "Auditoriul FEPADE este un centru modern pentru conferințe și cultură din Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Un loc local pentru artele spectacolului în Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "Museo Forma este primul muzeu de artă din El Salvador, situat în Antiguo Cuscatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "Acest monument faimos din Antiguo Cuscatlán este un simbol național al El Salvadorului.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "Această grădină botanică din Antiguo Cuscatlán este situată într-un crater și prezintă plante exotice.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "Un centru pentru promovarea schimburilor culturale între Spania și El Salvador.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "Plaza Brasil este o piață publică și un monument din Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "Acest monument onorează soldatul salvadorian din Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "Un monument local în onoarea figurii indigene legendare Atlacatl.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "Un monument public dedicat libertății de exprimare.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "Un monument în onoarea celebrului compozitor german Ludwig van Beethoven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "O piață monumentală care celebrează relațiile de prietenie cu Guatemala.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "Un monument distinctiv care urează bun venit călătorilor în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "O piață monumentală care celebrează legăturile culturale cu Italia.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "Un monument în onoarea eliberatorului sud-american José de San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Un monument dedicat Ordinului Suveran de Malta.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "Un monument în onoarea tatălui fondator dominican Juan Pablo Duarte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "O piață monumentală dedicată culturii palestiniene.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "Un monument în onoarea binefăcătorului Walter Thilo Deininger.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "Un centru cultural care promovează limba și arta franceză.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Nacional de Antropología \"David J. Guzmán\"",
+                  "text": "This national museum in Antiguo Cuscatlán showcases significant archaeological finds from El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.238583,
+                        13.687159
+                  ]
+            },
+            {
+                  "name": "Teatro Presidente",
+                  "text": "Teatro Presidente is one of the country's most important theaters, located in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.241458,
+                        13.693423
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Ignacio Ellacuría\"",
+                  "text": "This auditorium in Antiguo Cuscatlán is an important venue for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.236012,
+                        13.680877
+                  ]
+            },
+            {
+                  "name": "Auditorio",
+                  "text": "A central venue for lectures and performances in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233709,
+                        13.673462
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "This open-air stage in Antiguo Cuscatlán is used for concerts and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Auditorio FEPADE",
+                  "text": "The FEPADE auditorium is a modern center for conferences and culture in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.253835,
+                        13.679295
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "A local venue for performing arts in Antiguo Cuscatlán.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Museo Forma",
+                  "text": "Museo Forma is the first art museum in El Salvador, located in Antiguo Cuscatlán.",
+                  "category": "museum",
+                  "coords": [
+                        -89.225695,
+                        13.700783
+                  ]
+            },
+            {
+                  "name": "Monumento al Divino Salvador del Mundo",
+                  "text": "This famous monument in Antiguo Cuscatlán is a national symbol of El Salvador.",
+                  "category": "historical",
+                  "coords": [
+                        -89.224454,
+                        13.701275
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico La Laguna",
+                  "text": "This botanical garden in Antiguo Cuscatlán is located in a crater and features exotic plants.",
+                  "category": "park",
+                  "coords": [
+                        -89.246948,
+                        13.669915
+                  ]
+            },
+            {
+                  "name": "Centro Cultural de España en El Salvador",
+                  "text": "A center for promoting cultural exchange between Spain and El Salvador.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.233322,
+                        13.69393
+                  ]
+            },
+            {
+                  "name": "Plaza Brasil",
+                  "text": "Plaza Brasil is a public square and monument in Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.235779,
+                        13.69465
+                  ]
+            },
+            {
+                  "name": "Monumento al Soldado Salvadoreño",
+                  "text": "This monument honors the Salvadoran soldier in Antiguo Cuscatlán.",
+                  "category": "historical",
+                  "coords": [
+                        -89.241217,
+                        13.682939
+                  ]
+            },
+            {
+                  "name": "Atlacatl",
+                  "text": "A local monument honoring the legendary indigenous figure Atlacatl.",
+                  "category": "historical",
+                  "coords": [
+                        -89.243293,
+                        13.674545
+                  ]
+            },
+            {
+                  "name": "Plaza Libertad de Expresión",
+                  "text": "A public monument dedicated to freedom of expression.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23598,
+                        13.660813
+                  ]
+            },
+            {
+                  "name": "Monumento de Beethoven",
+                  "text": "A monument honoring the famous German composer Ludwig van Beethoven.",
+                  "category": "historical",
+                  "coords": [
+                        -89.23287,
+                        13.702611
+                  ]
+            },
+            {
+                  "name": "Plaza Guatemala",
+                  "text": "A monumental plaza celebrating friendly relations with Guatemala.",
+                  "category": "historical",
+                  "coords": [
+                        -89.242651,
+                        13.681269
+                  ]
+            },
+            {
+                  "name": "Monumento Hermano Bienvenido a Casa",
+                  "text": "A distinctive monument welcoming travelers to the city.",
+                  "category": "historical",
+                  "coords": [
+                        -89.21806,
+                        13.684686
+                  ]
+            },
+            {
+                  "name": "Plaza Italia",
+                  "text": "A monumental plaza celebrating cultural ties with Italy.",
+                  "category": "historical",
+                  "coords": [
+                        -89.239868,
+                        13.689839
+                  ]
+            },
+            {
+                  "name": "Monumento de Jose de San Martin",
+                  "text": "A monument honoring the South American liberator José de San Martín.",
+                  "category": "historical",
+                  "coords": [
+                        -89.232961,
+                        13.701601
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A monument dedicated to the Sovereign Military Order of Malta.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Juan Pablo Duarte y Díez",
+                  "text": "A monument honoring the Dominican founding father Juan Pablo Duarte.",
+                  "category": "historical",
+                  "coords": [
+                        -89.254237,
+                        13.708602
+                  ]
+            },
+            {
+                  "name": "Plaza Palestina",
+                  "text": "A monumental plaza dedicated to Palestinian culture.",
+                  "category": "historical",
+                  "coords": [
+                        -89.237968,
+                        13.707311
+                  ]
+            },
+            {
+                  "name": "Monumento a Walter Thilo Deininger",
+                  "text": "A monument honoring the benefactor Walter Thilo Deininger.",
+                  "category": "historical",
+                  "coords": [
+                        -89.247635,
+                        13.676988
+                  ]
+            },
+            {
+                  "name": "Alianza Francesa San Salvador",
+                  "text": "A cultural centre promoting French language and arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.237132,
+                        13.697385
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LI",
     coords: [-89.245, 13.685],
@@ -462,7 +1956,160 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "armenien-city-cities-v2",
+    id: "armenien-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Ein weitläufiges Biosphärenreservat bei Armenia mit reicher biologischer Vielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
+                  "text": "Ein geschützter Naturkomplex in Armenia, der dem Erhalt des lokalen Ökosystems dient.",
+                  "category": "natural",
+                  "coords": [
+                        -89.504952,
+                        13.800282
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "Ein Teilabschnitt des San Marcelino Schutzgebietes in Armenia mit ursprünglicher Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -89.549801,
+                        13.800758
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción Las Lajas)",
+                  "text": "Ein ausgewiesenes Naturschutzgebiet in Armenia, das wichtige Lebensräume schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -89.542059,
+                        13.80873
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Kiterjedt bioszféra-rezervátum Armenia közelében, gazdag biológiai sokféleséggel.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
+                  "text": "Védett természeti komplexum Armenia területén a helyi ökoszisztéma megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        -89.504952,
+                        13.800282
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "A San Marcelino védett terület egy szakasza Armenia közelében, érintetlen természettel.",
+                  "category": "natural",
+                  "coords": [
+                        -89.549801,
+                        13.800758
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción Las Lajas)",
+                  "text": "Kijelölt természetvédelmi terület Armenia területén, amely fontos élőhelyeket óv.",
+                  "category": "natural",
+                  "coords": [
+                        -89.542059,
+                        13.80873
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "O vastă rezervație a biosferei lângă Armenia, cu o bogată diversitate biologică.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
+                  "text": "Un complex natural protejat în Armenia pentru conservarea ecosistemului local.",
+                  "category": "natural",
+                  "coords": [
+                        -89.504952,
+                        13.800282
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "O secțiune a ariei protejate San Marcelino din Armenia, cu natură virgină.",
+                  "category": "natural",
+                  "coords": [
+                        -89.549801,
+                        13.800758
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción Las Lajas)",
+                  "text": "O rezervație naturală desemnată în Armenia care protejează habitate importante.",
+                  "category": "natural",
+                  "coords": [
+                        -89.542059,
+                        13.80873
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "A vast biosphere reserve near Armenia with rich biological diversity.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción La Presa)",
+                  "text": "A protected natural complex in Armenia dedicated to conserving the local ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -89.504952,
+                        13.800282
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "A section of the San Marcelino protected area in Armenia featuring pristine nature.",
+                  "category": "natural",
+                  "coords": [
+                        -89.549801,
+                        13.800758
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción Las Lajas)",
+                  "text": "A designated nature reserve in Armenia protecting important wildlife habitats.",
+                  "category": "natural",
+                  "coords": [
+                        -89.542059,
+                        13.80873
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.516, 13.783],
@@ -501,7 +2148,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-martin-cities-v2",
+    id: "san-martin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ciudad Mujer - San Martín",
+                  "text": "Eine Einrichtung zur Unterstützung von Frauen, die als wichtiges soziales Wahrzeichen dient.",
+                  "category": "historical",
+                  "coords": [
+                        -89.067993,
+                        13.733305
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ciudad Mujer - San Martín",
+                  "text": "Nőket segítő intézmény, amely jelentős társadalmi jelképként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -89.067993,
+                        13.733305
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ciudad Mujer - San Martín",
+                  "text": "O instituție de sprijin pentru femei, care servește ca un reper social important.",
+                  "category": "historical",
+                  "coords": [
+                        -89.067993,
+                        13.733305
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ciudad Mujer - San Martín",
+                  "text": "A facility dedicated to supporting women, serving as an important social landmark.",
+                  "category": "historical",
+                  "coords": [
+                        -89.067993,
+                        13.733305
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SS",
     coords: [-89.05, 13.733],
@@ -539,7 +2231,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "izalko-city-cities-v2",
+    id: "izalko-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional Los Volcanes",
+                  "text": "Ein bedeutendes Schutzgebiet, das markante Vulkane wie den Izalco umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        -89.639949,
+                        13.818939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional Los Volcanes",
+                  "text": "Jelentős védett terület, amely olyan markáns vulkánokat foglal magában, mint az Izalco.",
+                  "category": "natural",
+                  "coords": [
+                        -89.639949,
+                        13.818939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional Los Volcanes",
+                  "text": "O arie protejată importantă care cuprinde vulcani proeminenți precum Izalco.",
+                  "category": "natural",
+                  "coords": [
+                        -89.639949,
+                        13.818939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Nacional Los Volcanes",
+                  "text": "A significant protected area encompassing prominent volcanoes like Izalco.",
+                  "category": "natural",
+                  "coords": [
+                        -89.639949,
+                        13.818939
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.65, 13.8],
@@ -615,7 +2352,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "jiquilisco-cities-v2",
+    id: "jiquilisco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Natural Protegida Chaguantique",
+                  "text": "Ein Schutzgebiet, das für seine Population von Klammeraffen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -88.567338,
+                        13.288984
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Natural Protegida Chaguantique",
+                  "text": "Védett terület, amely pókmajom-populációjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -88.567338,
+                        13.288984
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Natural Protegida Chaguantique",
+                  "text": "O arie naturală protejată, cunoscută pentru populația sa de maimuțe păianjen.",
+                  "category": "natural",
+                  "coords": [
+                        -88.567338,
+                        13.288984
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Natural Protegida Chaguantique",
+                  "text": "A protected natural area known for its population of spider monkeys.",
+                  "category": "natural",
+                  "coords": [
+                        -88.567338,
+                        13.288984
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-US",
     coords: [-88.566, 13.316],
@@ -729,7 +2511,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "jucuapa-cities-v2",
+    id: "jucuapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "Ein Gebiet mit geothermischer Aktivität und dampfenden Fumarolen.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "Geotermikus aktivitással és gőzölgő fumarolákkal rendelkező terület.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "O zonă cu activitate geotermală și fumarole care scot aburi.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "An area featuring geothermal activity and steaming fumaroles.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-US",
     coords: [-88.383, 13.516],
@@ -771,7 +2598,340 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "suchitoto-cities-v2",
+    id: "suchitoto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Alejandro Cotto",
+                  "text": "Ein lokales Theater, benannt nach dem bedeutenden salvadorianischen Filmemacher Alejandro Cotto.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.027181,
+                        13.937808
+                  ]
+            },
+            {
+                  "name": "Cascada Los Tercios",
+                  "text": "Ein spektakulärer Wasserfall, der für seine seltenen hexagonalen Basaltsäulen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.013149,
+                        13.937261
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Alejandro Coto",
+                  "text": "Ein Museum in Suchitoto, das Kunstwerke und persönliche Sammlungen von Alejandro Cotto zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -89.020651,
+                        13.942117
+                  ]
+            },
+            {
+                  "name": "Turicentro Puerto San Juan",
+                  "text": "Ein touristisches Zentrum am Ufer des Suchitlán-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.016171,
+                        13.945797
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Ein zentraler Erholungsort in der historischen Stadt Suchitoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.022825,
+                        13.940062
+                  ]
+            },
+            {
+                  "name": "Salto El Cubo",
+                  "text": "Ein natürlicher Wasserfall in der malerischen Umgebung von Suchitoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.03226,
+                        13.936521
+                  ]
+            },
+            {
+                  "name": "Mirador La Roca",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -89.008361,
+                        13.94137
+                  ]
+            },
+            {
+                  "name": "Centro de Arte para la Paz",
+                  "text": "Ein Kunstzentrum, das Frieden und Versöhnung durch kreativen Ausdruck fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.028926,
+                        13.938546
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Suchitoto",
+                  "text": "Eine Institution, die sich der Erhaltung lokaler Traditionen und Kultur widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.025455,
+                        13.93707
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Alejandro Cotto",
+                  "text": "A neves salvadori filmművészről, Alejandro Cottóról elnevezett helyi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.027181,
+                        13.937808
+                  ]
+            },
+            {
+                  "name": "Cascada Los Tercios",
+                  "text": "Látványos vízesés, amely ritka hexagonális bazaltoszlopairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.013149,
+                        13.937261
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Alejandro Coto",
+                  "text": "Suchitotóban található múzeum, amely Alejandro Cotto műalkotásait és magángyűjteményeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.020651,
+                        13.942117
+                  ]
+            },
+            {
+                  "name": "Turicentro Puerto San Juan",
+                  "text": "Turisztikai központ a Suchitlán-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.016171,
+                        13.945797
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Központi pihenőhely Suchitoto történelmi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.022825,
+                        13.940062
+                  ]
+            },
+            {
+                  "name": "Salto El Cubo",
+                  "text": "Természetes vízesés Suchitoto festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.03226,
+                        13.936521
+                  ]
+            },
+            {
+                  "name": "Mirador La Roca",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -89.008361,
+                        13.94137
+                  ]
+            },
+            {
+                  "name": "Centro de Arte para la Paz",
+                  "text": "Művészeti központ, amely a békét és a megbékélést hirdeti kreatív kifejezésmóddal.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.028926,
+                        13.938546
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Suchitoto",
+                  "text": "A helyi hagyományok és kultúra megőrzésének szentelt intézmény.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.025455,
+                        13.93707
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Alejandro Cotto",
+                  "text": "Un teatru local numit după proeminentul cineast salvadorian Alejandro Cotto.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.027181,
+                        13.937808
+                  ]
+            },
+            {
+                  "name": "Cascada Los Tercios",
+                  "text": "O cascadă spectaculoasă cunoscută pentru coloanele sale rare de bazalt hexagonal.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.013149,
+                        13.937261
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Alejandro Coto",
+                  "text": "Un muzeu în Suchitoto care expune opere de artă și colecții personale ale lui Alejandro Cotto.",
+                  "category": "museum",
+                  "coords": [
+                        -89.020651,
+                        13.942117
+                  ]
+            },
+            {
+                  "name": "Turicentro Puerto San Juan",
+                  "text": "Un centru turistic situat pe malul lacului Suchitlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.016171,
+                        13.945797
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Un loc central de recreere în orașul istoric Suchitoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.022825,
+                        13.940062
+                  ]
+            },
+            {
+                  "name": "Salto El Cubo",
+                  "text": "O cascadă naturală în împrejurimile pitorești din Suchitoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.03226,
+                        13.936521
+                  ]
+            },
+            {
+                  "name": "Mirador La Roca",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        -89.008361,
+                        13.94137
+                  ]
+            },
+            {
+                  "name": "Centro de Arte para la Paz",
+                  "text": "Un centru de artă care promovează pacea și reconcilierea prin exprimare creativă.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.028926,
+                        13.938546
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Suchitoto",
+                  "text": "O instituție dedicată conservării tradițiilor și culturii locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.025455,
+                        13.93707
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Alejandro Cotto",
+                  "text": "A local theatre named after the prominent Salvadoran filmmaker Alejandro Cotto.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.027181,
+                        13.937808
+                  ]
+            },
+            {
+                  "name": "Cascada Los Tercios",
+                  "text": "A spectacular waterfall known for its rare hexagonal basalt columns.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.013149,
+                        13.937261
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Alejandro Coto",
+                  "text": "A museum in Suchitoto displaying artworks and personal collections of Alejandro Cotto.",
+                  "category": "museum",
+                  "coords": [
+                        -89.020651,
+                        13.942117
+                  ]
+            },
+            {
+                  "name": "Turicentro Puerto San Juan",
+                  "text": "A tourist centre located on the shores of Lake Suchitlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.016171,
+                        13.945797
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "A central recreational spot in the historic town of Suchitoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.022825,
+                        13.940062
+                  ]
+            },
+            {
+                  "name": "Waterfall El Cubo",
+                  "text": "A natural waterfall in the scenic surroundings of Suchitoto.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.03226,
+                        13.936521
+                  ]
+            },
+            {
+                  "name": "Rock Viewpoint",
+                  "text": "A viewpoint offering a panoramic vista of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -89.008361,
+                        13.94137
+                  ]
+            },
+            {
+                  "name": "Centro de Arte para la Paz",
+                  "text": "An arts centre promoting peace and reconciliation through creative expression.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.028926,
+                        13.938546
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Suchitoto",
+                  "text": "An institution dedicated to preserving local traditions and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.025455,
+                        13.93707
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-CU",
     coords: [-89.016, 13.933],
@@ -810,7 +2970,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "apaneca-cities-v2",
+    id: "apaneca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Ein bedeutendes Biosphärenreservat in Apaneca, bekannt für seine vulkanische Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Apaneca Canopy Tour",
+                  "text": "Ein Abenteuerpark in Apaneca, der Ziplining über den Baumwipfeln anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.803374,
+                        13.858769
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Jelentős bioszféra-rezervátum Apanecában, amely vulkanikus tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Apaneca Canopy Tour",
+                  "text": "Kalandpark Apanecában, amely drótkötélpályás siklást kínál a lombok felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.803374,
+                        13.858769
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "O rezervație importantă a biosferei în Apaneca, cunoscută pentru peisajul său vulcanic.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Apaneca Canopy Tour",
+                  "text": "Un parc de aventură în Apaneca care oferă trasee de tiroliană peste coronamentul pădurii.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.803374,
+                        13.858769
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "A major biosphere reserve in Apaneca, known for its volcanic landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Apaneca Canopy Tour",
+                  "text": "An adventure tour in Apaneca offering ziplining experiences above the forest canopy.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.803374,
+                        13.858769
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-AH",
     coords: [-89.816, 13.85],
@@ -849,7 +3090,196 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "ataco-cities-v2",
+    id: "ataco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Museo",
+                  "text": "Ein lokales Museum, das Artefakte und Geschichte der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -89.851182,
+                        13.870555
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Ein großes Biosphärenreservat, das für seine Kaffeeplantagen und Vulkane bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de la Cruz de Ataco",
+                  "text": "Ein Aussichtspunkt mit einem großen Kreuz und Panoramablick über die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.85217,
+                        13.86554
+                  ]
+            },
+            {
+                  "name": "Finca y Mirador La Providencia de Concepción de Ataco",
+                  "text": "Eine Kaffeefarm mit einem Aussichtspunkt, der weite Ausblicke auf die Berge bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -89.856797,
+                        13.886184
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Inmaculada Concepción",
+                  "text": "Eine charmante katholische Kirche im Herzen des Dorfes Ataco.",
+                  "category": "religious",
+                  "coords": [
+                        -89.84996,
+                        13.870111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Museo",
+                  "text": "Helyi múzeum, amely a régió leleteit és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -89.851182,
+                        13.870555
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Nagy bioszféra-rezervátum, amely kávéültetvényeiről és vulkánjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de la Cruz de Ataco",
+                  "text": "Kilátópont egy nagy kereszttel és panorámás kilátással a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.85217,
+                        13.86554
+                  ]
+            },
+            {
+                  "name": "Finca y Mirador La Providencia de Concepción de Ataco",
+                  "text": "Kávéfarm egy kilátóval, amely tágas kilátást nyújt a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        -89.856797,
+                        13.886184
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Inmaculada Concepción",
+                  "text": "Bájos katolikus templom Ataco falu szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -89.84996,
+                        13.870111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Museo",
+                  "text": "Un muzeu local care prezintă artefacte și istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -89.851182,
+                        13.870555
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "O mare rezervație a biosferei, cunoscută pentru plantațiile de cafea și vulcani.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de la Cruz de Ataco",
+                  "text": "Un punct de observație cu o cruce mare și vedere panoramică asupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.85217,
+                        13.86554
+                  ]
+            },
+            {
+                  "name": "Finca y Mirador La Providencia de Concepción de Ataco",
+                  "text": "O fermă de cafea cu un punct de observație care oferă vederi largi asupra munților.",
+                  "category": "natural",
+                  "coords": [
+                        -89.856797,
+                        13.886184
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Inmaculada Concepción",
+                  "text": "O biserică catolică fermecătoare situată în inima satului Ataco.",
+                  "category": "religious",
+                  "coords": [
+                        -89.84996,
+                        13.870111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Museo",
+                  "text": "A local museum showcasing artifacts and history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -89.851182,
+                        13.870555
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "A large biosphere reserve known for its coffee plantations and volcanoes.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de la Cruz de Ataco",
+                  "text": "A viewpoint featuring a large cross and panoramic views of the town.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.85217,
+                        13.86554
+                  ]
+            },
+            {
+                  "name": "Finca y Mirador La Providencia de Concepción de Ataco",
+                  "text": "A coffee farm with a viewpoint offering wide vistas of the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        -89.856797,
+                        13.886184
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Inmaculada Concepción",
+                  "text": "A charming Catholic church located in the heart of Ataco village.",
+                  "category": "religious",
+                  "coords": [
+                        -89.84996,
+                        13.870111
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-AH",
     coords: [-89.85, 13.866],
@@ -888,7 +3318,196 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "juayua-cities-v2",
+    id: "juayua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Ein spezialisiertes Museum, das die Geschichte der Drucktechnik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Berge von Juayúa.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "La Calera",
+                  "text": "Eine natürliche Attraktion, bekannt für ihre Wasserfälle und Badestellen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Ein bekanntes Wochenend-Event, das lokale salvadorianische Spezialitäten anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Ein Park, der für seine ruhige Atmosphäre und Aussichtspunkte geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "A nyomtatási technika történetét bemutató specializált múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "Kilátópont, ahonnan messzire ellátni Juayúa hegyei felett.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "La Calera",
+                  "text": "Természeti látványosság, amely vízeséseiről és fürdőhelyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Ismert hétvégi esemény, amely helyi salvadori különlegességeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Nyugodt légköréről és kilátóiról kedvelt park.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Un muzeu specializat care prezintă istoria tehnicilor de tipărire.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "Un punct de observație cu vederi largi peste munții din Juayúa.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "La Calera",
+                  "text": "O atracție naturală cunoscută pentru cascadele și locurile sale de scăldat.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Un eveniment de weekend cunoscut care oferă specialități locale salvadoriene.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Un parc apreciat pentru atmosfera sa liniștită și punctele de observație.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "A specialized museum showcasing the history of printing technology.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "A viewpoint with broad vistas over the mountains of Juayúa.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "La Calera",
+                  "text": "A natural attraction known for its waterfalls and swimming spots.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.731318,
+                        13.835721
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "A well-known weekend event offering local Salvadoran specialties.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "A park appreciated for its tranquil atmosphere and viewpoints.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.75, 13.85],
@@ -927,7 +3546,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "najuizalco-cities-v2",
+    id: "najuizalco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cascada de Talcomunca",
+                  "text": "Ein malerischer Wasserfall in Nahuizalco, umgeben von tropischer Vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.701671,
+                        13.775907
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cascada de Talcomunca",
+                  "text": "Gleccseres vízesés Nahuizalco közelében, trópusi növényzettel körülvéve.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.701671,
+                        13.775907
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cascada de Talcomunca",
+                  "text": "O cascadă pitorească în Nahuizalco, înconjurată de vegetație tropicală.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.701671,
+                        13.775907
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cascada de Talcomunca",
+                  "text": "A picturesque waterfall in Nahuizalco surrounded by tropical vegetation.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.701671,
+                        13.775907
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.716, 13.783],
@@ -966,7 +3630,196 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "salcoatitan-cities-v2",
+    id: "salcoatitan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Ein Museum, das sich der Geschichte des Buchdrucks in El Salvador widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Teil des ökologisch wichtigen Biosphärenreservats in der Region Apaneca.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Kaffee-Region.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Ein Wochenendmarkt, auf dem lokale kulinarische Spezialitäten angeboten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Eine kleine Parkanlage, die einen friedlichen Blick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Salvadori nyomdászat történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Az ökológiailag jelentős Apaneca régió bioszféra-rezervátumának része.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "Kilátópont tágas kilátással a kávétermelő vidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Hétvégi gasztronómiai vásár helyi ételkülönlegességekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Kis park, amely békés kilátást nyújt a környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "Un muzeu dedicat istoriei tiparului în El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Parte a rezervației biosferei de importanță ecologică din regiunea Apaneca.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "Un punct de observație care oferă o vedere largă asupra regiunii cafelei.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "Un târg gastronomic de weekend care oferă specialități culinare locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "Un mic parc care oferă o vedere liniștită asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Germinal Museo de la Imprenta",
+                  "text": "A museum dedicated to the history of printing in El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -89.757869,
+                        13.83016
+                  ]
+            },
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Part of the ecologically significant biosphere reserve in the Apaneca region.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Mirador de Juayúa",
+                  "text": "A viewpoint offering broad views over the coffee-growing region.",
+                  "category": "natural",
+                  "coords": [
+                        -89.764212,
+                        13.841611
+                  ]
+            },
+            {
+                  "name": "Feria Gastronomica sàbado y domingo 0800 a 1700",
+                  "text": "A weekend gastronomic fair offering local culinary specialties.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.746877,
+                        13.843025
+                  ]
+            },
+            {
+                  "name": "Parque Esmeralda",
+                  "text": "A small park area offering peaceful views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -89.744394,
+                        13.846279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.766, 13.833],
@@ -1004,7 +3857,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "conchagua-cities-v2",
+    id: "conchagua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Natural Protegida Complejo Conchagua",
+                  "text": "Ein Naturschutzgebiet am Vulkan Conchagua mit Blick auf den Golf von Fonseca.",
+                  "category": "natural",
+                  "coords": [
+                        -87.823587,
+                        13.266643
+                  ]
+            },
+            {
+                  "name": "El Espíritu de la Montaña",
+                  "text": "Ein beliebter Aussichtspunkt auf dem Gipfel des Vulkans Conchagua.",
+                  "category": "natural",
+                  "coords": [
+                        -87.838738,
+                        13.274653
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Natural Protegida Complejo Conchagua",
+                  "text": "Természetvédelmi terület a Conchagua-vulkánnál, kilátással a Fonseca-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -87.823587,
+                        13.266643
+                  ]
+            },
+            {
+                  "name": "El Espíritu de la Montaña",
+                  "text": "Népszerű kilátópont a Conchagua-vulkán csúcsán.",
+                  "category": "natural",
+                  "coords": [
+                        -87.838738,
+                        13.274653
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Natural Protegida Complejo Conchagua",
+                  "text": "O rezervație naturală la vulcanul Conchagua, cu vedere spre Golful Fonseca.",
+                  "category": "natural",
+                  "coords": [
+                        -87.823587,
+                        13.266643
+                  ]
+            },
+            {
+                  "name": "El Espíritu de la Montaña",
+                  "text": "Un punct de observație popular pe vârful vulcanului Conchagua.",
+                  "category": "natural",
+                  "coords": [
+                        -87.838738,
+                        13.274653
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Natural Protegida Complejo Conchagua",
+                  "text": "A nature reserve at Conchagua Volcano with views over the Gulf of Fonseca.",
+                  "category": "natural",
+                  "coords": [
+                        -87.823587,
+                        13.266643
+                  ]
+            },
+            {
+                  "name": "El Espíritu de la Montaña",
+                  "text": "A popular viewpoint located on the summit of Conchagua Volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -87.838738,
+                        13.274653
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LU",
     coords: [-87.86, 13.28],
@@ -1043,7 +3977,232 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "perquin-cities-v2",
+    id: "perquin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Ein historisches Museum in Perquín, das die Ereignisse des salvadorianischen Bürgerkriegs dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -88.16349,
+                        13.958589
+                  ]
+            },
+            {
+                  "name": "Las Margaritas",
+                  "text": "Ein lokaler Wasserpark in Perquín mit Erfrischungsmöglichkeiten für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.144197,
+                        13.949721
+                  ]
+            },
+            {
+                  "name": "LLANO MUERTO",
+                  "text": "Ein Freizeitbad in Perquín, das für Entspannung und Wasserspaß bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.129617,
+                        13.975409
+                  ]
+            },
+            {
+                  "name": "POZA EL PEROL",
+                  "text": "Ein natürliches Schwimmbecken in Perquín, ideal für ein Bad im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.128426,
+                        13.975585
+                  ]
+            },
+            {
+                  "name": "Cueva El Ratón",
+                  "text": "Ein Ausflugsziel in Perquín, das Wasseraktivitäten in einer natürlichen Umgebung bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.14159,
+                        13.953334
+                  ]
+            },
+            {
+                  "name": "Quebrada el Perquin",
+                  "text": "Ein natürlicher Wasserlauf in Perquín, der Besucher durch seine Landschaft anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.146961,
+                        13.963939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Történelmi múzeum Perquínben, amely a salvadori polgárháború eseményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -88.16349,
+                        13.958589
+                  ]
+            },
+            {
+                  "name": "Las Margaritas",
+                  "text": "Helyi vízipark Perquínben, amely felfrissülést kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.144197,
+                        13.949721
+                  ]
+            },
+            {
+                  "name": "LLANO MUERTO",
+                  "text": "Szabadidős fürdőhely Perquínben, amely kikapcsolódást és vízi szórakozást kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.129617,
+                        13.975409
+                  ]
+            },
+            {
+                  "name": "POZA EL PEROL",
+                  "text": "Természetes fürdőhely Perquínben, amely ideális a szabadtéri mártózáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.128426,
+                        13.975585
+                  ]
+            },
+            {
+                  "name": "Cueva El Ratón",
+                  "text": "Kirándulóhely Perquínben, amely vízi tevékenységeket kínál természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.14159,
+                        13.953334
+                  ]
+            },
+            {
+                  "name": "Quebrada el Perquin",
+                  "text": "Természetes vízfolyás Perquínben, amely tájával vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.146961,
+                        13.963939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Un muzeu istoric în Perquín care documentează evenimentele războiului civil salvadorian.",
+                  "category": "museum",
+                  "coords": [
+                        -88.16349,
+                        13.958589
+                  ]
+            },
+            {
+                  "name": "Las Margaritas",
+                  "text": "Un parc acvatic local în Perquín care oferă posibilități de răcorire pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.144197,
+                        13.949721
+                  ]
+            },
+            {
+                  "name": "LLANO MUERTO",
+                  "text": "Un ștrand recreativ în Perquín, cunoscut pentru relaxare și distracție acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.129617,
+                        13.975409
+                  ]
+            },
+            {
+                  "name": "POZA EL PEROL",
+                  "text": "O piscină naturală în Perquín, ideală pentru o baie în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.128426,
+                        13.975585
+                  ]
+            },
+            {
+                  "name": "Cueva El Ratón",
+                  "text": "O destinație în Perquín care oferă activități acvatice într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.14159,
+                        13.953334
+                  ]
+            },
+            {
+                  "name": "Quebrada el Perquin",
+                  "text": "Un curs de apă natural în Perquín care atrage vizitatorii prin peisajul său.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.146961,
+                        13.963939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "A historical museum in Perquín documenting the events of the Salvadoran Civil War.",
+                  "category": "museum",
+                  "coords": [
+                        -88.16349,
+                        13.958589
+                  ]
+            },
+            {
+                  "name": "Las Margaritas",
+                  "text": "A local water park in Perquín offering refreshment for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.144197,
+                        13.949721
+                  ]
+            },
+            {
+                  "name": "LLANO MUERTO",
+                  "text": "A recreational water park in Perquín known for relaxation and water fun.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.129617,
+                        13.975409
+                  ]
+            },
+            {
+                  "name": "POZA EL PEROL",
+                  "text": "A natural swimming spot in Perquín, ideal for an outdoor dip.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.128426,
+                        13.975585
+                  ]
+            },
+            {
+                  "name": "Cueva El Ratón",
+                  "text": "A destination in Perquín offering water activities in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.14159,
+                        13.953334
+                  ]
+            },
+            {
+                  "name": "Quebrada el Perquin",
+                  "text": "A natural stream in Perquín that attracts visitors with its scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.146961,
+                        13.963939
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-MO",
     coords: [-88.15, 13.96],
@@ -1120,7 +4279,124 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "metapan-cities-v2",
+    id: "metapan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Arte Trifinio El Salvador",
+                  "text": "Ein Museum, das regionale Kunst aus der Grenzregion Trifinio präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -89.447051,
+                        14.332267
+                  ]
+            },
+            {
+                  "name": "Foto Arte Estudio",
+                  "text": "Eine Galerie, die sich auf lokale Fotokunst und Ausstellungen spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        -89.443758,
+                        14.331004
+                  ]
+            },
+            {
+                  "name": "Foto Estudio Montecristo",
+                  "text": "Ein Studio und Galerie, das historische und künstlerische Fotografie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -89.446308,
+                        14.331093
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Arte Trifinio El Salvador",
+                  "text": "A Trifinio határmenti régió regionális művészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -89.447051,
+                        14.332267
+                  ]
+            },
+            {
+                  "name": "Foto Arte Estudio",
+                  "text": "Helyi fotóművészetre és kiállításokra szakosodott galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -89.443758,
+                        14.331004
+                  ]
+            },
+            {
+                  "name": "Foto Estudio Montecristo",
+                  "text": "Történelmi és művészi fotográfiát bemutató stúdió és galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -89.446308,
+                        14.331093
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Arte Trifinio El Salvador",
+                  "text": "Un muzeu care prezintă arta regională din zona de frontieră Trifinio.",
+                  "category": "museum",
+                  "coords": [
+                        -89.447051,
+                        14.332267
+                  ]
+            },
+            {
+                  "name": "Foto Arte Estudio",
+                  "text": "O galerie specializată în arta fotografică locală și expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        -89.443758,
+                        14.331004
+                  ]
+            },
+            {
+                  "name": "Foto Estudio Montecristo",
+                  "text": "Un studio și galerie care expune fotografie istorică și artistică.",
+                  "category": "museum",
+                  "coords": [
+                        -89.446308,
+                        14.331093
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Arte Trifinio El Salvador",
+                  "text": "A museum showcasing regional art from the Trifinio border region.",
+                  "category": "museum",
+                  "coords": [
+                        -89.447051,
+                        14.332267
+                  ]
+            },
+            {
+                  "name": "Foto Arte Estudio",
+                  "text": "A gallery specializing in local photographic art and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -89.443758,
+                        14.331004
+                  ]
+            },
+            {
+                  "name": "Foto Estudio Montecristo",
+                  "text": "A studio and gallery showcasing historical and artistic photography.",
+                  "category": "museum",
+                  "coords": [
+                        -89.446308,
+                        14.331093
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SA",
     coords: [-89.45, 14.333],
@@ -1162,7 +4438,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "jocoro-cities-v2",
+    id: "jocoro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MINAS DE ORO SAN CARLOS MORAZAN",
+                  "text": "Historische Goldminenstätten in Jocoro, die Einblicke in die Bergbaugeschichte bieten.",
+                  "category": "historical",
+                  "coords": [
+                        -88.100495,
+                        13.612463
+                  ]
+            },
+            {
+                  "name": "CUEVAS DE MINAS DE ORO",
+                  "text": "Höhlensysteme in Jocoro, die einst als Teil von Goldminen genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        -88.095638,
+                        13.605936
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MINAS DE ORO SAN CARLOS MORAZAN",
+                  "text": "Történelmi aranybányászati lelőhelyek Jocoro területén, bepillantást nyújtva a bányászat múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        -88.100495,
+                        13.612463
+                  ]
+            },
+            {
+                  "name": "CUEVAS DE MINAS DE ORO",
+                  "text": "Barlangrendszerek Jocoro területén, amelyeket egykor aranybányák részeként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        -88.095638,
+                        13.605936
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MINAS DE ORO SAN CARLOS MORAZAN",
+                  "text": "Situl unor vechi mine de aur în Jocoro, oferind perspective asupra istoriei miniere.",
+                  "category": "historical",
+                  "coords": [
+                        -88.100495,
+                        13.612463
+                  ]
+            },
+            {
+                  "name": "CUEVAS DE MINAS DE ORO",
+                  "text": "Sisteme de peșteri în Jocoro care au fost utilizate odinioară ca parte a minelor de aur.",
+                  "category": "historical",
+                  "coords": [
+                        -88.095638,
+                        13.605936
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MINAS DE ORO SAN CARLOS MORAZAN",
+                  "text": "Historical gold mining sites in Jocoro, offering insights into the mining history.",
+                  "category": "historical",
+                  "coords": [
+                        -88.100495,
+                        13.612463
+                  ]
+            },
+            {
+                  "name": "CUEVAS DE MINAS DE ORO",
+                  "text": "Cave systems in Jocoro that were once used as part of gold mines.",
+                  "category": "historical",
+                  "coords": [
+                        -88.095638,
+                        13.605936
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-MO",
     coords: [-88.08, 13.62],
@@ -1270,7 +4627,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     }
   },
   {
-    id: "jujutla-cities-v2",
+    id: "jujutla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Río de Montaña",
+                  "text": "Ein landschaftlich reizvoller Bergfluss, ideal für Naturbeobachtungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.855003,
+                        13.815217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Río de Montaña",
+                  "text": "Festői hegyi folyó, ideális a természet megfigyelésére.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.855003,
+                        13.815217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Río de Montaña",
+                  "text": "Un râu de munte pitoresc, ideal pentru observarea naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.855003,
+                        13.815217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Río de Montaña",
+                  "text": "A scenic mountain river ideal for nature observation.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.855003,
+                        13.815217
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-AH",
     coords: [-89.86, 13.79],
@@ -1309,7 +4711,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "guaymango-cities-v2",
+    id: "guaymango-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Observatorio Juvenil de Guaymango",
+                  "text": "Ein lokaler Aussichtspunkt oder Bildungsort für Jugendliche in Guaymango.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.843324,
+                        13.749766
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Observatorio Juvenil de Guaymango",
+                  "text": "Helyi kilátó vagy oktatási helyszín fiatalok számára Guaymango városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.843324,
+                        13.749766
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Observatorio Juvenil de Guaymango",
+                  "text": "Un punct de observație local sau loc educațional pentru tineret în Guaymango.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.843324,
+                        13.749766
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Observatorio Juvenil de Guaymango",
+                  "text": "A local viewpoint or educational site for youth in Guaymango.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.843324,
+                        13.749766
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-AH",
     coords: [-89.85, 13.75],
@@ -1348,7 +4795,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-julian-cities-v2",
+    id: "san-julian-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Ein Naturschutzgebiet, das zur Erhaltung der lokalen Berglandschaft beiträgt.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "Ein geschütztes Naturgebiet mit bedeutenden Waldressourcen.",
+                  "category": "natural",
+                  "coords": [
+                        -89.58744,
+                        13.80772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Természetvédelmi terület, amely hozzájárul a helyi hegyvidéki táj megőrzéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "Védett természeti terület jelentős erdőforrásokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -89.58744,
+                        13.80772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "O rezervație naturală care contribuie la conservarea peisajului montan local.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "O zonă naturală protejată cu resurse forestiere importante.",
+                  "category": "natural",
+                  "coords": [
+                        -89.58744,
+                        13.80772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "A nature reserve contributing to the conservation of the local mountain landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Complejo San Marcelino (Porción San Isidro)",
+                  "text": "A protected natural area featuring significant forest resources.",
+                  "category": "natural",
+                  "coords": [
+                        -89.58744,
+                        13.80772
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.58, 13.78],
@@ -1387,7 +4915,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-pedro-masahuat-cities-v2",
+    id: "san-pedro-masahuat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Piedra Trabada",
+                  "text": "Eine markante geologische Felsformation in der Nähe von San Pedro Masahuat.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.053838,
+                        13.583122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Piedra Trabada",
+                  "text": "Jellegzetes geológiai sziklaformáció San Pedro Masahuat közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.053838,
+                        13.583122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Piedra Trabada",
+                  "text": "O formațiune stâncoasă geologică distinctivă lângă San Pedro Masahuat.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.053838,
+                        13.583122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "La Piedra Trabada",
+                  "text": "A distinctive geological rock formation near San Pedro Masahuat.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.053838,
+                        13.583122
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-PA",
     coords: [-89.05, 13.56],
@@ -1426,7 +4999,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-rafael-oriente-cities-v2",
+    id: "san-rafael-oriente-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "Ein im Entstehen begriffenes Naturschutzgebiet rund um den Vulkan von San Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "Kialakítás alatt álló természetvédelmi terület a San Miguel-vulkán körül.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "O rezervație naturală în curs de înființare în jurul vulcanului San Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "A nature reserve in development around the San Miguel volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SM",
     coords: [-88.28, 13.43],
@@ -1506,7 +5124,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "santo-domingo-guzman-cities-v2",
+    id: "santo-domingo-guzman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "Ein UNESCO-Biosphärenreservat, das für seine reiche Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "UNESCO bioszféra-rezervátum, amely gazdag biológiai sokféleségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "O rezervație a biosferei UNESCO cunoscută pentru biodiversitatea sa bogată.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de La Biosfera Apaneca-Ilamatepec",
+                  "text": "A UNESCO biosphere reserve known for its rich biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -89.652286,
+                        13.825831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SO",
     coords: [-89.78, 13.78],
@@ -1545,7 +5208,628 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "panchimalco-cities-v2",
+    id: "panchimalco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Acuatico",
+                  "text": "Ein Freizeitpark in Panchimalco mit Wasserbecken für die ganze Familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.181873,
+                        13.608824
+                  ]
+            },
+            {
+                  "name": "La Granjita Educativa",
+                  "text": "Ein kleiner pädagogischer Zoo in Panchimalco, der besonders für Kinder geeignet ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.194899,
+                        13.642534
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Cultural Puerta del Diablo",
+                  "text": "Ein bekannter Park in Panchimalco, berühmt für die markanten Felsformationen der Puerta del Diablo.",
+                  "category": "park",
+                  "coords": [
+                        -89.189749,
+                        13.624829
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein Aussichtspunkt in Panchimalco, der einen weiten Blick über die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -89.184253,
+                        13.644403
+                  ]
+            },
+            {
+                  "name": "Felsen 1",
+                  "text": "Ein markanter Felsen in der Gegend von Panchimalco mit Blick auf die Natur.",
+                  "category": "natural",
+                  "coords": [
+                        -89.190325,
+                        13.623733
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Ein monumentaler Obelisk im Park von Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.187096,
+                        13.64151
+                  ]
+            },
+            {
+                  "name": "Cusuco",
+                  "text": "Eine Tierskulptur, die ein Gürteltier darstellt, im Skulpturenpark von Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171102,
+                        13.624646
+                  ]
+            },
+            {
+                  "name": "Gorila",
+                  "text": "Eine Gorillaskulptur, die Teil der künstlerischen Gestaltung in Panchimalco ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.17201,
+                        13.626364
+                  ]
+            },
+            {
+                  "name": "Iguanas",
+                  "text": "Künstlerische Skulpturen von Iguanas, die in Panchimalco zu sehen sind.",
+                  "category": "historical",
+                  "coords": [
+                        -89.179225,
+                        13.640711
+                  ]
+            },
+            {
+                  "name": "Caballos, Jirafa y Leones",
+                  "text": "Eine Gruppe von Skulpturen in Panchimalco, die Pferde, eine Giraffe und Löwen darstellen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.170045,
+                        13.623735
+                  ]
+            },
+            {
+                  "name": "Gato y cotuza",
+                  "text": "Skulpturen einer Katze und eines Agutis im öffentlichen Raum von Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.176575,
+                        13.622256
+                  ]
+            },
+            {
+                  "name": "Hipopotamo",
+                  "text": "Eine Nilpferdskulptur, die zur Dekoration des Parks in Panchimalco beiträgt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.177912,
+                        13.640515
+                  ]
+            },
+            {
+                  "name": "Manos",
+                  "text": "Eine Skulptur, die Hände darstellt, als Teil des kulturellen Parks in Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.175029,
+                        13.637421
+                  ]
+            },
+            {
+                  "name": "Serpiente",
+                  "text": "Eine Schlangenskulptur, die Teil des Skulpturenpfades in Panchimalco ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.169948,
+                        13.622783
+                  ]
+            },
+            {
+                  "name": "Caballos",
+                  "text": "Skulpturen von Pferden im öffentlichen Raum von Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171437,
+                        13.621929
+                  ]
+            },
+            {
+                  "name": "Santuario de Fátima",
+                  "text": "Eine religiöse Stätte in Panchimalco, die Unserer Lieben Frau von Fátima gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -89.187748,
+                        13.643391
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz de Roma",
+                  "text": "Die historische Kirche von Panchimalco, bekannt für ihre koloniale Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -89.179386,
+                        13.611074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Acuatico",
+                  "text": "Szabadidőpark Panchimalcóban vizes medencékkel az egész család számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.181873,
+                        13.608824
+                  ]
+            },
+            {
+                  "name": "La Granjita Educativa",
+                  "text": "Kisméretű oktató állatkert Panchimalcóban, amely kifejezetten gyermekeknek ajánlott.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.194899,
+                        13.642534
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Cultural Puerta del Diablo",
+                  "text": "Ismert park Panchimalcóban, amely a Puerta del Diablo jellegzetes sziklaformációiról híres.",
+                  "category": "park",
+                  "coords": [
+                        -89.189749,
+                        13.624829
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Kilátóhely Panchimalcóban, ahonnan széles körpanoráma nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -89.184253,
+                        13.644403
+                  ]
+            },
+            {
+                  "name": "Peña 1",
+                  "text": "Jellegzetes szikla Panchimalco környékén, kilátással a természetre.",
+                  "category": "natural",
+                  "coords": [
+                        -89.190325,
+                        13.623733
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Egy monumentális obeliszk Panchimalco parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.187096,
+                        13.64151
+                  ]
+            },
+            {
+                  "name": "Cusuco",
+                  "text": "Egy tatut ábrázoló állatszobor Panchimalco szoborparkjában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171102,
+                        13.624646
+                  ]
+            },
+            {
+                  "name": "Gorila",
+                  "text": "Egy gorillaszobor, amely a művészeti kialakítás része Panchimalcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.17201,
+                        13.626364
+                  ]
+            },
+            {
+                  "name": "Iguanas",
+                  "text": "Leguánokat ábrázoló művészeti szobrok Panchimalco területén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.179225,
+                        13.640711
+                  ]
+            },
+            {
+                  "name": "Caballos, Jirafa y Leones",
+                  "text": "Lovakat, zsiráfot és oroszlánokat ábrázoló szoborcsoport Panchimalcóban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.170045,
+                        13.623735
+                  ]
+            },
+            {
+                  "name": "Gato y cotuza",
+                  "text": "Egy macskát és egy agutit ábrázoló szobrok Panchimalco közterületén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.176575,
+                        13.622256
+                  ]
+            },
+            {
+                  "name": "Hipopotamo",
+                  "text": "Egy vízilószobor, amely Panchimalco parkjának díszítéséhez járul hozzá.",
+                  "category": "historical",
+                  "coords": [
+                        -89.177912,
+                        13.640515
+                  ]
+            },
+            {
+                  "name": "Manos",
+                  "text": "Kezeket ábrázoló szobor Panchimalco kulturális parkjának részeként.",
+                  "category": "historical",
+                  "coords": [
+                        -89.175029,
+                        13.637421
+                  ]
+            },
+            {
+                  "name": "Serpiente",
+                  "text": "Egy kígyószobor, amely a panchimalcói szoborsétány része.",
+                  "category": "historical",
+                  "coords": [
+                        -89.169948,
+                        13.622783
+                  ]
+            },
+            {
+                  "name": "Caballos",
+                  "text": "Lovakat ábrázoló szobrok Panchimalco közterületén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171437,
+                        13.621929
+                  ]
+            },
+            {
+                  "name": "Santuario de Fátima",
+                  "text": "Vallási helyszín Panchimalcóban, amelyet a Fatimai Szűzanyának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -89.187748,
+                        13.643391
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz de Roma",
+                  "text": "Panchimalco történelmi temploma, amely koloniális építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -89.179386,
+                        13.611074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Acuatico",
+                  "text": "Un parc recreativ în Panchimalco cu bazine pentru întreaga familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.181873,
+                        13.608824
+                  ]
+            },
+            {
+                  "name": "La Granjita Educativa",
+                  "text": "O mică grădină zoologică educațională în Panchimalco, potrivită în special pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.194899,
+                        13.642534
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Cultural Puerta del Diablo",
+                  "text": "Un parc renumit în Panchimalco, celebru pentru formațiunile stâncoase Puerta del Diablo.",
+                  "category": "park",
+                  "coords": [
+                        -89.189749,
+                        13.624829
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere în Panchimalco care oferă o vedere panoramică asupra peisajului din jur.",
+                  "category": "natural",
+                  "coords": [
+                        -89.184253,
+                        13.644403
+                  ]
+            },
+            {
+                  "name": "Peña 1",
+                  "text": "O stâncă proeminentă în zona Panchimalco, cu vedere spre natură.",
+                  "category": "natural",
+                  "coords": [
+                        -89.190325,
+                        13.623733
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "Un obelisc monumental situat în parcul din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.187096,
+                        13.64151
+                  ]
+            },
+            {
+                  "name": "Cusuco",
+                  "text": "O sculptură de animal reprezentând un tatu în parcul de sculpturi din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171102,
+                        13.624646
+                  ]
+            },
+            {
+                  "name": "Gorila",
+                  "text": "O sculptură de gorilă, parte a decorului artistic din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.17201,
+                        13.626364
+                  ]
+            },
+            {
+                  "name": "Iguanas",
+                  "text": "Sculpturi artistice de iguane care pot fi văzute în Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.179225,
+                        13.640711
+                  ]
+            },
+            {
+                  "name": "Caballos, Jirafa y Leones",
+                  "text": "Un grup de sculpturi în Panchimalco reprezentând cai, o girafă și lei.",
+                  "category": "historical",
+                  "coords": [
+                        -89.170045,
+                        13.623735
+                  ]
+            },
+            {
+                  "name": "Gato y cotuza",
+                  "text": "Sculpturi ale unei pisici și ale unei aguti în spațiul public din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.176575,
+                        13.622256
+                  ]
+            },
+            {
+                  "name": "Hipopotamo",
+                  "text": "O sculptură de hipopotam care contribuie la decorul parcului din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.177912,
+                        13.640515
+                  ]
+            },
+            {
+                  "name": "Manos",
+                  "text": "O sculptură reprezentând mâini, parte a parcului cultural din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.175029,
+                        13.637421
+                  ]
+            },
+            {
+                  "name": "Serpiente",
+                  "text": "O sculptură de șarpe care face parte din traseul sculpturilor din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.169948,
+                        13.622783
+                  ]
+            },
+            {
+                  "name": "Caballos",
+                  "text": "Sculpturi de cai în spațiul public din Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171437,
+                        13.621929
+                  ]
+            },
+            {
+                  "name": "Santuario de Fátima",
+                  "text": "Un lăcaș de cult în Panchimalco dedicat Maicii Domnului de la Fátima.",
+                  "category": "religious",
+                  "coords": [
+                        -89.187748,
+                        13.643391
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz de Roma",
+                  "text": "Biserica istorică din Panchimalco, cunoscută pentru arhitectura sa colonială.",
+                  "category": "religious",
+                  "coords": [
+                        -89.179386,
+                        13.611074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Acuatico",
+                  "text": "A recreational park in Panchimalco with swimming pools for the family.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.181873,
+                        13.608824
+                  ]
+            },
+            {
+                  "name": "La Granjita Educativa",
+                  "text": "A small educational zoo in Panchimalco, particularly suitable for children.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.194899,
+                        13.642534
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Cultural Puerta del Diablo",
+                  "text": "A notable park in Panchimalco, famous for the striking Puerta del Diablo rock formations.",
+                  "category": "park",
+                  "coords": [
+                        -89.189749,
+                        13.624829
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A viewpoint in Panchimalco offering a wide view of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -89.184253,
+                        13.644403
+                  ]
+            },
+            {
+                  "name": "Rock 1",
+                  "text": "A prominent rock in the Panchimalco area with views of nature.",
+                  "category": "natural",
+                  "coords": [
+                        -89.190325,
+                        13.623733
+                  ]
+            },
+            {
+                  "name": "Obelisco",
+                  "text": "A monumental obelisk located in the park of Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.187096,
+                        13.64151
+                  ]
+            },
+            {
+                  "name": "Cusuco",
+                  "text": "An animal sculpture representing an armadillo in the sculpture park of Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171102,
+                        13.624646
+                  ]
+            },
+            {
+                  "name": "Gorila",
+                  "text": "A gorilla sculpture that is part of the artistic design in Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.17201,
+                        13.626364
+                  ]
+            },
+            {
+                  "name": "Iguanas",
+                  "text": "Artistic sculptures of iguanas that can be seen in Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.179225,
+                        13.640711
+                  ]
+            },
+            {
+                  "name": "Caballos, Jirafa y Leones",
+                  "text": "A group of sculptures in Panchimalco representing horses, a giraffe, and lions.",
+                  "category": "historical",
+                  "coords": [
+                        -89.170045,
+                        13.623735
+                  ]
+            },
+            {
+                  "name": "Gato y cotuza",
+                  "text": "Sculptures of a cat and an agouti in the public space of Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.176575,
+                        13.622256
+                  ]
+            },
+            {
+                  "name": "Hipopotamo",
+                  "text": "A hippopotamus sculpture contributing to the decoration of the park in Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.177912,
+                        13.640515
+                  ]
+            },
+            {
+                  "name": "Manos",
+                  "text": "A sculpture representing hands as part of the cultural park in Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.175029,
+                        13.637421
+                  ]
+            },
+            {
+                  "name": "Serpiente",
+                  "text": "A snake sculpture that is part of the sculpture trail in Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.169948,
+                        13.622783
+                  ]
+            },
+            {
+                  "name": "Caballos",
+                  "text": "Sculptures of horses in the public space of Panchimalco.",
+                  "category": "historical",
+                  "coords": [
+                        -89.171437,
+                        13.621929
+                  ]
+            },
+            {
+                  "name": "Santuario de Fátima",
+                  "text": "A religious site in Panchimalco dedicated to Our Lady of Fátima.",
+                  "category": "religious",
+                  "coords": [
+                        -89.187748,
+                        13.643391
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Santa Cruz de Roma",
+                  "text": "The historical church of Panchimalco, known for its colonial architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -89.179386,
+                        13.611074
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SS",
     coords: [-89.18, 13.62],
@@ -1584,7 +5868,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-pedro-perulapan-cities-v2",
+    id: "san-pedro-perulapan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Punta El Piñal",
+                  "text": "Ein ruhiger Küstenabschnitt, der sich am Ufer des Ilopango-Sees befindet.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.996886,
+                        13.70604
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Punta El Piñal",
+                  "text": "Csendes tengerparti szakasz az Ilopango-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.996886,
+                        13.70604
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Punta El Piñal",
+                  "text": "O porțiune de coastă liniștită situată pe malul lacului Ilopango.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.996886,
+                        13.70604
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Punta El Piñal",
+                  "text": "A quiet coastal stretch located on the shores of Lake Ilopango.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.996886,
+                        13.70604
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-CU",
     coords: [-89.0, 13.73],
@@ -1623,7 +5952,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "chinameca-cities-v2",
+    id: "chinameca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "Ein Naturschutzprojekt am Vulkan San Miguel zur Erhaltung des Ökosystems.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            },
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "Ein Ort mit geothermischer Aktivität und natürlichen Fumarolen.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "Természetvédelmi projekt a San Miguel-vulkánnál az ökoszisztéma megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            },
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "Geotermikus aktivitással és természetes fumarolákkal rendelkező hely.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "Un proiect de conservare a naturii la vulcanul San Miguel pentru păstrarea ecosistemului.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            },
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "Un loc cu activitate geotermală și fumarole naturale.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Natural Protegida Volcán de San Miguel (en proceso)",
+                  "text": "A nature conservation project at San Miguel Volcano to preserve the ecosystem.",
+                  "category": "natural",
+                  "coords": [
+                        -88.29418,
+                        13.431383
+                  ]
+            },
+            {
+                  "name": "Ausoles La Viejona",
+                  "text": "A site featuring geothermal activity and natural fumaroles.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358693,
+                        13.508918
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SM",
     coords: [-88.35, 13.5],
@@ -1777,7 +6187,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "pasaquina-cities-v2",
+    id: "pasaquina-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Natural Protegida Bahía de la Unión",
+                  "text": "Ein geschütztes Küstengebiet in Pasaquina, das die Bucht und ihre Mangroven bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -87.874263,
+                        13.393811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Natural Protegida Bahía de la Unión",
+                  "text": "Védett tengerparti terület Pasaquinában, amely az öblöt és a mangroveerdőket óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -87.874263,
+                        13.393811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Natural Protegida Bahía de la Unión",
+                  "text": "O zonă de coastă protejată în Pasaquina care conservă golful și mlaștinile sale de mangrove.",
+                  "category": "natural",
+                  "coords": [
+                        -87.874263,
+                        13.393811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Natural Protegida Bahía de la Unión",
+                  "text": "A protected coastal area in Pasaquina preserving the bay and its mangroves.",
+                  "category": "natural",
+                  "coords": [
+                        -87.874263,
+                        13.393811
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LU",
     coords: [-87.88, 13.43],
@@ -1816,7 +6271,124 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "la-palma-cities-v2",
+    id: "la-palma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Fernando Llort",
+                  "text": "Ein Museum, das das Werk des berühmten Künstlers Fernando Llort zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -89.17262,
+                        14.316572
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Ein lokaler Markt, bekannt für seine bunten Textilien und handgefertigten Waren.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.170235,
+                        14.316792
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Berglandschaft von Chalatenango bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -89.156218,
+                        14.319513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Fernando Llort",
+                  "text": "Fernando Llort híres művész munkásságát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -89.17262,
+                        14.316572
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "Helyi piac, amely színes textiljeiről és kézműves áruiról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.170235,
+                        14.316792
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Kilátópont, amely tágas kilátást nyújt Chalatenango hegyvidéki tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        -89.156218,
+                        14.319513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Fernando Llort",
+                  "text": "Un muzeu care expune opera celebrului artist Fernando Llort.",
+                  "category": "museum",
+                  "coords": [
+                        -89.17262,
+                        14.316572
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "O piață locală cunoscută pentru textilele sale colorate și produsele artizanale.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.170235,
+                        14.316792
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de observație care oferă o vedere largă asupra peisajului montan din Chalatenango.",
+                  "category": "natural",
+                  "coords": [
+                        -89.156218,
+                        14.319513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Fernando Llort",
+                  "text": "A museum showcasing the work of the famous artist Fernando Llort.",
+                  "category": "museum",
+                  "coords": [
+                        -89.17262,
+                        14.316572
+                  ]
+            },
+            {
+                  "name": "Market",
+                  "text": "A local market known for its colorful textiles and handmade goods.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.170235,
+                        14.316792
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A viewpoint offering wide vistas over the mountainous landscape of Chalatenango.",
+                  "category": "natural",
+                  "coords": [
+                        -89.156218,
+                        14.319513
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-CH",
     coords: [-89.15, 14.31],
@@ -1893,7 +6465,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "osicala-cities-v2",
+    id: "osicala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUNDO ACUATICO",
+                  "text": "Ein lokaler Wasserpark in Osicala für Freizeitaktivitäten und Familienspaß.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.162816,
+                        13.80846
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUNDO ACUATICO",
+                  "text": "Helyi vízipark Osicalában szabadidős tevékenységekhez és családi szórakozáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.162816,
+                        13.80846
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUNDO ACUATICO",
+                  "text": "Un parc acvatic local în Osicala pentru activități de agrement și distracție în familie.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.162816,
+                        13.80846
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUNDO ACUATICO",
+                  "text": "A local water park in Osicala for leisure activities and family fun.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.162816,
+                        13.80846
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-MO",
     coords: [-88.15, 13.8],
@@ -2047,7 +6664,124 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "alegria-cities-v2",
+    id: "alegria-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Natural Protegida Laguna de Alegría",
+                  "text": "Ein Kratersee, der für sein smaragdgrünes Wasser und seine Schwefelquellen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -88.49932,
+                        13.488236
+                  ]
+            },
+            {
+                  "name": "Mirador Las 100 Gradas",
+                  "text": "Ein Aussichtspunkt, den man über eine Treppe erreicht und der einen Blick auf die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -88.48862,
+                        13.509637
+                  ]
+            },
+            {
+                  "name": "Parque ecológico Cartagena",
+                  "text": "Ein ökologischer Park, der zur Entspannung und zum Wandern in der Natur einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.487375,
+                        13.511233
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Natural Protegida Laguna de Alegría",
+                  "text": "Krátertó, amely smaragdzöld vizéről és kénes forrásairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -88.49932,
+                        13.488236
+                  ]
+            },
+            {
+                  "name": "Mirador Las 100 Gradas",
+                  "text": "Lépcsőn elérhető kilátópont, ahonnan kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        -88.48862,
+                        13.509637
+                  ]
+            },
+            {
+                  "name": "Parque ecológico Cartagena",
+                  "text": "Ökológiai park, amely természetjárásra és kikapcsolódásra hívogat.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.487375,
+                        13.511233
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Natural Protegida Laguna de Alegría",
+                  "text": "Un lac de crater cunoscut pentru apele sale de culoarea smaraldului și izvoarele de sulf.",
+                  "category": "natural",
+                  "coords": [
+                        -88.49932,
+                        13.488236
+                  ]
+            },
+            {
+                  "name": "Mirador Las 100 Gradas",
+                  "text": "Un punct de observație accesibil pe trepte, care oferă o vedere asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        -88.48862,
+                        13.509637
+                  ]
+            },
+            {
+                  "name": "Parque ecológico Cartagena",
+                  "text": "Un parc ecologic care oferă spațiu pentru relaxare și drumeții în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.487375,
+                        13.511233
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Natural Protegida Laguna de Alegría",
+                  "text": "A crater lake known for its emerald-green waters and sulfur springs.",
+                  "category": "natural",
+                  "coords": [
+                        -88.49932,
+                        13.488236
+                  ]
+            },
+            {
+                  "name": "Mirador Las 100 Gradas",
+                  "text": "A viewpoint reached via steps, offering a view over the town.",
+                  "category": "natural",
+                  "coords": [
+                        -88.48862,
+                        13.509637
+                  ]
+            },
+            {
+                  "name": "Ecological park Cartagena",
+                  "text": "An ecological park offering a space for nature walks and relaxation.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.487375,
+                        13.511233
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-US",
     coords: [-88.48, 13.5],
@@ -2086,7 +6820,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-juan-nonualco-cities-v2",
+    id: "san-juan-nonualco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque La Alameda",
+                  "text": "Ein städtischer Park, der zur Erholung in San Juan Nonualco einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.873218,
+                        13.508687
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque La Alameda",
+                  "text": "San Juan Nonualco-i városi park, amely kikapcsolódásra hívogat.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.873218,
+                        13.508687
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque La Alameda",
+                  "text": "Un parc urban care invită la recreere în San Juan Nonualco.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.873218,
+                        13.508687
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque La Alameda",
+                  "text": "An urban park inviting recreation in San Juan Nonualco.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.873218,
+                        13.508687
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-PA",
     coords: [-88.9, 13.51],
@@ -2204,7 +6983,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "tacuba-cities-v2",
+    id: "tacuba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ruinas de la Iglesia Vieja",
+                  "text": "Historische Überreste einer alten Kirche in der Stadt Tacuba.",
+                  "category": "historical",
+                  "coords": [
+                        -89.932152,
+                        13.903175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ruinas de la Iglesia Vieja",
+                  "text": "Egy régi templom történelmi maradványai Tacuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.932152,
+                        13.903175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ruinas de la Iglesia Vieja",
+                  "text": "Vestigii istorice ale unei vechi biserici din orașul Tacuba.",
+                  "category": "historical",
+                  "coords": [
+                        -89.932152,
+                        13.903175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ruinas de la Iglesia Vieja",
+                  "text": "Historic remains of an old church in the town of Tacuba.",
+                  "category": "historical",
+                  "coords": [
+                        -89.932152,
+                        13.903175
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-AH",
     coords: [-89.93, 13.9],
@@ -2434,7 +7258,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "jicalapa-cities-v2",
+    id: "jicalapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sitio Arqueologico Zinacatan Sector 1",
+                  "text": "Eine archäologische Stätte, die Überreste alter Siedlungen in Jicalapa bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394724,
+                        13.54675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sitio Arqueologico Zinacatan Sector 1",
+                  "text": "Régészeti lelőhely, amely ősi települések maradványait őrzi Jicalapában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394724,
+                        13.54675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sitio Arqueologico Zinacatan Sector 1",
+                  "text": "Un sit arheologic care păstrează vestigii ale unor așezări vechi în Jicalapa.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394724,
+                        13.54675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sitio Arqueologico Zinacatan Sector 1",
+                  "text": "An archaeological site preserving remains of ancient settlements in Jicalapa.",
+                  "category": "historical",
+                  "coords": [
+                        -89.394724,
+                        13.54675
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LI",
     coords: [-89.38, 13.56],
@@ -2623,7 +7492,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "sacacoyo-cities-v2",
+    id: "sacacoyo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Acuático Casa Blanca",
+                  "text": "Ein Wasserpark mit verschiedenen Pools und Rutschen für Familienfreizeit.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.445362,
+                        13.744554
+                  ]
+            },
+            {
+                  "name": "Alcaldía municipal de Sacacoyo",
+                  "text": "Das Rathaus von Sacacoyo ist das Verwaltungszentrum der Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        -89.471229,
+                        13.736082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Acuático Casa Blanca",
+                  "text": "Vízi park különböző medencékkel és csúszdákkal a családi kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.445362,
+                        13.744554
+                  ]
+            },
+            {
+                  "name": "Alcaldía municipal de Sacacoyo",
+                  "text": "Sacacoyo polgármesteri hivatala a község közigazgatási központja.",
+                  "category": "historical",
+                  "coords": [
+                        -89.471229,
+                        13.736082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Acuático Casa Blanca",
+                  "text": "Un parc acvatic cu diverse piscine și tobogane pentru recreerea familiei.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.445362,
+                        13.744554
+                  ]
+            },
+            {
+                  "name": "Alcaldía municipal de Sacacoyo",
+                  "text": "Primăria din Sacacoyo este centrul administrativ al municipalității.",
+                  "category": "historical",
+                  "coords": [
+                        -89.471229,
+                        13.736082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Acuático Casa Blanca",
+                  "text": "A water park featuring various pools and slides for family recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.445362,
+                        13.744554
+                  ]
+            },
+            {
+                  "name": "Alcaldía municipal de Sacacoyo",
+                  "text": "The town hall of Sacacoyo is the administrative center of the municipality.",
+                  "category": "historical",
+                  "coords": [
+                        -89.471229,
+                        13.736082
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LI",
     coords: [-89.45, 13.75],
@@ -2699,7 +7649,52 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-antonio-pajonal-cities-v2",
+    id: "san-antonio-pajonal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional San Diego y San Felipe las Barras",
+                  "text": "Ein Versammlungsort der Methodistengemeinde in Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545329,
+                        14.302109
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional San Diego y San Felipe las Barras",
+                  "text": "A kundai metodista gyülekezet vallási központja.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545329,
+                        14.302109
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional San Diego y San Felipe las Barras",
+                  "text": "Centrul religios al congregației metodiste din Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545329,
+                        14.302109
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Nacional San Diego y San Felipe las Barras",
+                  "text": "A place of worship for the Methodist congregation in Kunda.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545329,
+                        14.302109
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-SA",
     coords: [-89.55, 14.28],
@@ -2880,7 +7875,88 @@ export const poiExtraElsalvadorCitiesV2: POI[] = [
     }
   },
   {
-    id: "san-alejo-cities-v2",
+    id: "san-alejo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Acuático Queiquín",
+                  "text": "Ein Freizeitzentrum mit Schwimmbecken und Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.963348,
+                        13.435348
+                  ]
+            },
+            {
+                  "name": "Turicentro La Simbra",
+                  "text": "Ein touristisches Zentrum mit Wasserbecken zur Erfrischung im warmen Klima.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.96677,
+                        13.433845
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Acuático Queiquín",
+                  "text": "Szabadidőközpont úszómedencékkel és gyermekeknek szóló attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.963348,
+                        13.435348
+                  ]
+            },
+            {
+                  "name": "Turicentro La Simbra",
+                  "text": "Turisztikai központ vizes medencékkel a meleg éghajlaton való felfrissüléshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.96677,
+                        13.433845
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Acuático Queiquín",
+                  "text": "Un centru de recreere cu piscine și atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.963348,
+                        13.435348
+                  ]
+            },
+            {
+                  "name": "Turicentro La Simbra",
+                  "text": "Un centru turistic cu bazine cu apă pentru răcorire în climatul cald.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.96677,
+                        13.433845
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Acuático Queiquín",
+                  "text": "A recreational center with swimming pools and attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.963348,
+                        13.435348
+                  ]
+            },
+            {
+                  "name": "Turicentro La Simbra",
+                  "text": "A tourist center with water pools for refreshment in the warm climate.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.96677,
+                        13.433845
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SV-LU",
     coords: [-87.96, 13.45],

@@ -237,7 +237,304 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "aneho-cities-v2",
+    id: "aneho-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Place Akofin",
+                  "text": "Ein lokales Theater in Aného, das kulturelle Aufführungen und Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "Ein religiöses Denkmal in Aného, das als Ort der Besinnung dient.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "Eine traditionelle Mühle in Aného, die zur Verarbeitung von Mais genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "Eine Kunstgalerie in Aného, die zeitgenössische afrikanische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Eine historische oder funktionale Maismühle im Stadtgebiet von Aného.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "Ein Gedenkmal in Aného zur Erinnerung an Adokoin Kpadji.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "Ein Jugend- und Kulturzentrum in Aného, das kreative Aktivitäten fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "Ein kulturelles Zentrum in Aného, das Bildungs- und Freizeitprogramme anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Place Akofin",
+                  "text": "Helyi színház Anéhóban, amely kulturális előadásoknak és eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "Vallási emlékmű Anéhóban, amely az elmélkedés helyszínéül szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "Hagyományos malom Anéhóban, amelyet kukorica feldolgozására használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "Művészeti galéria Anéhóban, amely kortárs afrikai alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "Történelmi vagy működő kukoricamalom Aného városában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "Emlékmű Anéhóban, Adokoin Kpadji emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "Ifjúsági és kulturális központ Anéhóban, amely kreatív tevékenységeket ösztönöz.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "Kulturális központ Anéhóban, amely oktatási és szabadidős programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Place Akofin",
+                  "text": "Un teatru local în Aného, care oferă spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "Un monument religios în Aného, care servește ca loc de reflecție.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "O moară tradițională în Aného, utilizată pentru procesarea porumbului.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "O galerie de artă în Aného, care prezintă lucrări africane contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "O moară de porumb istorică sau funcțională în zona urbană a orașului Aného.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "Un monument în Aného pentru comemorarea lui Adokoin Kpadji.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "Un centru pentru tineret și cultură în Aného, care promovează activități creative.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "Un centru cultural în Aného, care oferă programe educaționale și de petrecere a timpului liber.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Place Akofin",
+                  "text": "A local theatre in Aného providing cultural performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        1.602405,
+                        6.228612
+                  ]
+            },
+            {
+                  "name": "Monument de Jesus",
+                  "text": "A religious monument in Aného serving as a place of reflection.",
+                  "category": "historical",
+                  "coords": [
+                        1.609973,
+                        6.237818
+                  ]
+            },
+            {
+                  "name": "moulin pour Mais",
+                  "text": "A traditional mill in Aného used for processing corn.",
+                  "category": "landmark",
+                  "coords": [
+                        1.620113,
+                        6.238183
+                  ]
+            },
+            {
+                  "name": "Galerie Africa Ligth",
+                  "text": "An art gallery in Aného presenting contemporary African works.",
+                  "category": "museum",
+                  "coords": [
+                        1.603427,
+                        6.229281
+                  ]
+            },
+            {
+                  "name": "Moulin à maïs",
+                  "text": "A historic or functional corn mill within the town of Aného.",
+                  "category": "landmark",
+                  "coords": [
+                        1.582047,
+                        6.230504
+                  ]
+            },
+            {
+                  "name": "Memorial d'Adokoin Kpadji",
+                  "text": "A memorial monument in Aného commemorating Adokoin Kpadji.",
+                  "category": "historical",
+                  "coords": [
+                        1.601445,
+                        6.228928
+                  ]
+            },
+            {
+                  "name": "CRJ Centre des Rêves pour Jeunes",
+                  "text": "A youth and arts centre in Aného promoting creative activities.",
+                  "category": "cultural",
+                  "coords": [
+                        1.599219,
+                        6.228475
+                  ]
+            },
+            {
+                  "name": "Centre d'IYF Aného",
+                  "text": "A cultural centre in Aného offering educational and leisure programs.",
+                  "category": "cultural",
+                  "coords": [
+                        1.586085,
+                        6.231089
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-M",
     coords: [1.5964, 6.2275],
@@ -457,7 +754,88 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "sansanne-mango-cities-v2",
+    id: "sansanne-mango-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Farver's house",
+                  "text": "Farver's house ist eine Burg in Sansanné-Mango.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "Farver's 2.0 ist eine Attraktion in Sansanné-Mango.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Farver's house",
+                  "text": "A Farver's house egy vár Sansanné-Mango városában.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "A Farver's 2.0 egy látványosság Sansanné-Mango városában.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Farver's house",
+                  "text": "Farver's house este un castel situat în Sansanné-Mango.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "Farver's 2.0 este o atracție situată în Sansanné-Mango.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Farver's house",
+                  "text": "Farver's house is a castle located in Sansanné-Mango.",
+                  "category": "castle",
+                  "coords": [
+                        0.453632,
+                        10.338769
+                  ]
+            },
+            {
+                  "name": "Farver's 2.0",
+                  "text": "Farver's 2.0 is an attraction located in Sansanné-Mango.",
+                  "category": "landmark",
+                  "coords": [
+                        0.459585,
+                        10.338915
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-S",
     coords: [0.4667, 10.3500],
@@ -677,7 +1055,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "bafilo-cities-v2",
+    id: "bafilo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "École islamique",
+                  "text": "Eine religiöse Bildungseinrichtung und Sehenswürdigkeit in Bafilo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.248449,
+                        9.361811
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "École islamique",
+                  "text": "Vallási oktatási intézmény és nevezetesség Bafilóban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.248449,
+                        9.361811
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "École islamique",
+                  "text": "O instituție de învățământ religios și atracție în Bafilo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.248449,
+                        9.361811
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "École islamique",
+                  "text": "A religious educational institution and attraction in Bafilo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.248449,
+                        9.361811
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-K",
     coords: [1.2667, 9.3500],
@@ -765,7 +1188,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "sotouboua-cities-v2",
+    id: "sotouboua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centre Culturel et de Loisir de Sotouboua",
+                  "text": "Ein Zentrum für Kultur und Freizeitaktivitäten in Sotouboua.",
+                  "category": "cultural",
+                  "coords": [
+                        0.975541,
+                        8.562401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centre Culturel et de Loisir de Sotouboua",
+                  "text": "Kulturális és szabadidős központ Sotoubouában.",
+                  "category": "cultural",
+                  "coords": [
+                        0.975541,
+                        8.562401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centre Culturel et de Loisir de Sotouboua",
+                  "text": "Un centru pentru cultură și activități de recreere în Sotouboua.",
+                  "category": "cultural",
+                  "coords": [
+                        0.975541,
+                        8.562401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centre Culturel et de Loisir de Sotouboua",
+                  "text": "A centre for culture and leisure activities in Sotouboua.",
+                  "category": "cultural",
+                  "coords": [
+                        0.975541,
+                        8.562401
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-C",
     coords: [0.9833, 8.5667],
@@ -1469,7 +1937,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "pagouda-cities-v2",
+    id: "pagouda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "Ein lokales Kulturzentrum für Jugend und Künste in Pagouda.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "Helyi kulturális központ az ifjúság és a művészetek számára Pagoudában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "Un centru cultural local pentru tineret și arte în Pagouda.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "A local cultural center for youth and arts in Pagouda.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-K",
     coords: [1.3000, 9.7500],
@@ -1601,7 +2114,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "kpagouda-cities-v2",
+    id: "kpagouda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "Ein lokales Haus der Jugend und Kultur in Pagouda für soziale und künstlerische Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "Helyi ifjúsági és művelődési ház Pagoudában szociális és művészeti projektek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "O casă locală a tineretului și culturii în Pagouda pentru proiecte sociale și artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison des jeunes et de la culture de Pagouda",
+                  "text": "A local youth and culture centre in Pagouda for social and artistic projects.",
+                  "category": "cultural",
+                  "coords": [
+                        1.325816,
+                        9.750308
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-K",
     coords: [1.3333, 9.7500],
@@ -1821,7 +2379,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "yade-cities-v2",
+    id: "yade-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "Martyrs de Pya Hodo ist ein Denkmal in Yadé.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "A Martyrs de Pya Hodo egy emlékmű Yadé városában.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "Martyrs de Pya Hodo este un monument situat în Yadé.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Martyrs de Pya Hodo",
+                  "text": "Martyrs de Pya Hodo is a monument located in Yadé.",
+                  "category": "historical",
+                  "coords": [
+                        1.17237,
+                        9.667877
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-K",
     coords: [1.1833, 9.6500],
@@ -1865,7 +2468,52 @@ export const poiExtraTogoCitiesV2: POI[] = [
     },
   },
   {
-    id: "biankouri-cities-v2",
+    id: "biankouri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "Ein Naturschutzgebiet in Biankouri, das für seine Tierwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "Természetvédelmi terület Biankouriban, amely vadvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "O rezervație naturală în Biankouri, cunoscută pentru viața sa sălbatică.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fosse aux lions",
+                  "text": "A nature reserve in Biankouri known for its wildlife.",
+                  "category": "natural",
+                  "coords": [
+                        0.196555,
+                        10.765178
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TG-S",
     coords: [0.1833, 10.7500],

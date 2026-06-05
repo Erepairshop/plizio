@@ -27,7 +27,160 @@ export const bahamasCities: POI[] = [
       ro: ["Nassau ocupă aproximativ 207 kilometri pătrați pe insula New Providence.", "Orașul a fost sediul unei 'Republici a Piraților' între 1706 și 1718.", "Scara Reginei are o înălțime de aproximativ 31 de metri.", "Aeroportul Internațional Lynden Pindling este cel mai mare din Bahamas.", "Piața Parlamentului a fost construită în stil colonial loialist în 1815.", "Turismul contribuie cu peste 50% la economia orașului Nassau.", "Nassau găzduiește sediul CARICOM pentru anumite agenții regionale.", "Temperaturile apei mării în jurul orașului Nassau sunt de aproximativ 26°C pe tot parcursul anului."],
       en: ["Nassau is the largest city in the Bahamas by population and land area.", "It was renamed in honor of King William III of England (House of Nassau).", "The city’s harbor was deepened in the 1960s to accommodate giant cruise ships.", "Government House is the official residence of the Governor-General of the Bahamas.", "The Pompey Museum of Slavery and Emancipation is located in a historic marketplace.", "Nassau’s climate is tropical savanna, with a wet season from May to October.", "The city has a literacy rate of over 95%.", "Bay Street is the oldest thoroughfare and the main shopping district in Nassau."],
     }, area: 207, historyYear: 1670, image: "/poi-images/bs-nassau.webp"},
-  { id: "bs-freeport", type: "city", parent: "BS", coords: [-78.6946, 26.5333], name: { de: "Freeport", hu: "Freeport", ro: "Freeport", en: "Freeport" }, description: { de: "Eine Stadt und Freihandelszone auf der Insel Grand Bahama.", hu: "Város és szabadkereskedelmi övezet a Grand Bahama szigeten.", ro: "Un oraș și zonă de comerț liber pe insula Grand Bahama.", en: "A city and free trade zone located on Grand Bahama island." , es: "Una ciudad y zona de libre comercio en la isla Gran Bahama.", pt: "Uma cidade e zona franca na ilha de Grand Bahama.", fr: "Une ville et zone franche sur l'île de Grand Bahama."},
+  { id: "bs-freeport", "sights": {
+      "de": [
+            {
+                  "name": "Rand Nature Centre",
+                  "text": "Ein Naturschutzgebiet in Freeport, bekannt für seine Wanderwege und Vogelbeobachtungen.",
+                  "category": "natural",
+                  "coords": [
+                        -78.671828,
+                        26.538248
+                  ]
+            },
+            {
+                  "name": "Mosaic",
+                  "text": "Eine Kunstgalerie in Freeport, die lokale Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -78.681297,
+                        26.51703
+                  ]
+            },
+            {
+                  "name": "Grand Bahama Arts and Crafts Center",
+                  "text": "Ein Zentrum für Kunst und Handwerk in Freeport, das lokale Traditionen pflegt.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.684164,
+                        26.516178
+                  ]
+            },
+            {
+                  "name": "Mary Star of the Sea",
+                  "text": "Eine katholische Kirche in Freeport.",
+                  "category": "religious",
+                  "coords": [
+                        -78.689325,
+                        26.517252
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rand Nature Centre",
+                  "text": "Természetvédelmi terület Freeportban, amely túraútvonalairól és madármegfigyelő helyeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -78.671828,
+                        26.538248
+                  ]
+            },
+            {
+                  "name": "Mosaic",
+                  "text": "Művészeti galéria Freeportban, amely helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -78.681297,
+                        26.51703
+                  ]
+            },
+            {
+                  "name": "Grand Bahama Arts and Crafts Center",
+                  "text": "Művészeti és kézműves központ Freeportban, amely a helyi hagyományokat mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.684164,
+                        26.516178
+                  ]
+            },
+            {
+                  "name": "Mary Star of the Sea",
+                  "text": "Katolikus templom Freeportban.",
+                  "category": "religious",
+                  "coords": [
+                        -78.689325,
+                        26.517252
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rand Nature Centre",
+                  "text": "O rezervație naturală din Freeport, cunoscută pentru traseele sale și observarea păsărilor.",
+                  "category": "natural",
+                  "coords": [
+                        -78.671828,
+                        26.538248
+                  ]
+            },
+            {
+                  "name": "Mosaic",
+                  "text": "O galerie de artă din Freeport care expune lucrări locale.",
+                  "category": "museum",
+                  "coords": [
+                        -78.681297,
+                        26.51703
+                  ]
+            },
+            {
+                  "name": "Grand Bahama Arts and Crafts Center",
+                  "text": "Un centru de artă și meșteșuguri din Freeport, dedicat tradițiilor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.684164,
+                        26.516178
+                  ]
+            },
+            {
+                  "name": "Mary Star of the Sea",
+                  "text": "O biserică catolică din Freeport.",
+                  "category": "religious",
+                  "coords": [
+                        -78.689325,
+                        26.517252
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rand Nature Centre",
+                  "text": "A nature reserve in Freeport known for its trails and birdwatching opportunities.",
+                  "category": "natural",
+                  "coords": [
+                        -78.671828,
+                        26.538248
+                  ]
+            },
+            {
+                  "name": "Mosaic",
+                  "text": "An art gallery in Freeport showcasing local works.",
+                  "category": "museum",
+                  "coords": [
+                        -78.681297,
+                        26.51703
+                  ]
+            },
+            {
+                  "name": "Grand Bahama Arts and Crafts Center",
+                  "text": "A centre for arts and crafts in Freeport showcasing local creative traditions.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.684164,
+                        26.516178
+                  ]
+            },
+            {
+                  "name": "Mary Star of the Sea",
+                  "text": "A Catholic church located in Freeport.",
+                  "category": "religious",
+                  "coords": [
+                        -78.689325,
+                        26.517252
+                  ]
+            }
+      ]
+}, type: "city", parent: "BS", coords: [-78.6946, 26.5333], name: { de: "Freeport", hu: "Freeport", ro: "Freeport", en: "Freeport" }, description: { de: "Eine Stadt und Freihandelszone auf der Insel Grand Bahama.", hu: "Város és szabadkereskedelmi övezet a Grand Bahama szigeten.", ro: "Un oraș și zonă de comerț liber pe insula Grand Bahama.", en: "A city and free trade zone located on Grand Bahama island." , es: "Una ciudad y zona de libre comercio en la isla Gran Bahama.", pt: "Uma cidade e zona franca na ilha de Grand Bahama.", fr: "Une ville et zone franche sur l'île de Grand Bahama."},
     descriptionAdvanced: {
       de: "Freeport ist die zweitgrößte Stadt der Bahamas und liegt auf der Insel Grand Bahama. Die Stadt wurde 1955 als geplantes Wirtschaftszentrum gegründet, basierend auf dem Hawksbill Creek Agreement, das Unternehmen weitreichende Steuerbefreiungen gewährte. Diese Vereinbarung ermöglichte den Bau eines massiven Tiefwasserhafens und die Entwicklung einer bedeutenden Industriezone, die Freeport von anderen Städten der Region unterscheidet. Geographisch ist die Stadt von einer flachen Landschaft und ausgedehnten Kiefernwäldern umgeben. Ein Highlight der Region ist der Lucayan Nationalpark, der eines der weltweit größten unterseeischen Höhlensysteme schützt und durch seine vielfältigen Ökosysteme wie Mangroven und Sandstrände besticht. Der Port Lucaya Marketplace dient als touristischer Mittelpunkt mit zahlreichen Geschäften und Restaurants. Trotz schwerer Schäden durch Hurrikans in den letzten Jahren bleibt Freeport ein wichtiger Knotenpunkt für den maritimen Handel und ein beliebtes Ziel für Ökotourismus.",
       hu: "Freeport a Bahama-szigetek második legnagyobb városa, amely a Grand Bahama-szigeten található. A várost 1955-ben alapították tervezett gazdasági központként, a Hawksbill Creek-megállapodás alapján, amely a vállalatoknak széles körű adómentességet biztosított. Ez a megállapodás tette lehetővé egy hatalmas mélyvízi kikötő megépítését és egy jelentős ipari zóna kialakítását, ami megkülönbözteti Freeportot a régió többi városától. Földrajzilag a várost sík táj és kiterjedt fenyőerdők veszik körül. A régió egyik fénypontja a Lucayan Nemzeti Park, amely a világ egyik legnagyobb víz alatti barlangrendszerét védi, és változatos ökoszisztémáival, például mangroveerdőkkel és homokos strandokkal nyűgöz le. A Port Lucaya Marketplace a turisztikai központ, számos üzlettel és étteremmel. Az elmúlt évek hurrikánjai által okozott súlyos károk ellenére Freeport továbbra is a tengeri kereskedelem fontos csomópontja és az ökoturizmus kedvelt célpontja.",

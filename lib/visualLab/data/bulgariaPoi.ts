@@ -32,7 +32,232 @@ export const bulgariaAllPoi: POI[] = [
     image: "/images/visualLab/bulgaria/country.jpg"
   },
   {
-    id: "bg-bansko",
+    id: "bg-bansko", "sights": {
+      "de": [
+            {
+                  "name": "Историко-етнографски комплекс \"Радонова къща\"",
+                  "text": "Ethnografisches Museum in einem traditionellen Haus aus der Wiedergeburtszeit.",
+                  "category": "museum",
+                  "coords": [
+                        23.485665,
+                        41.833666
+                  ]
+            },
+            {
+                  "name": "Къща музей Никола Вапцаров",
+                  "text": "Geburtshaus und Museum des berühmten bulgarischen Dichters Nikola Wapzarow.",
+                  "category": "museum",
+                  "coords": [
+                        23.488802,
+                        41.837502
+                  ]
+            },
+            {
+                  "name": "Паисий Хилендарски",
+                  "text": "Kulturzentrum und Museum zu Ehren des Gelehrten Paisij von Hilandar.",
+                  "category": "museum",
+                  "coords": [
+                        23.485437,
+                        41.835166
+                  ]
+            },
+            {
+                  "name": "Неофит Рилски",
+                  "text": "Museum im ehemaligen Wohnhaus des bulgarischen Gelehrten Neofit Rilski.",
+                  "category": "museum",
+                  "coords": [
+                        23.486521,
+                        41.835208
+                  ]
+            },
+            {
+                  "name": "Velyanova House",
+                  "text": "Historisches Haus aus dem 18. Jahrhundert mit beeindruckenden Wandmalereien.",
+                  "category": "museum",
+                  "coords": [
+                        23.488027,
+                        41.835497
+                  ]
+            },
+            {
+                  "name": "мегдан",
+                  "text": "Zentraler Platz im historischen Kern der Stadt Bansko.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488812,
+                        41.833942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Историко-етнографски комплекс \"Радонова къща\"",
+                  "text": "Néprajzi múzeum egy hagyományos, újjászületés korabeli házban.",
+                  "category": "museum",
+                  "coords": [
+                        23.485665,
+                        41.833666
+                  ]
+            },
+            {
+                  "name": "Къща музей Никола Вапцаров",
+                  "text": "Nikola Vapcarov híres bolgár költő szülőháza és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        23.488802,
+                        41.837502
+                  ]
+            },
+            {
+                  "name": "Паисий Хилендарски",
+                  "text": "Kulturális központ és múzeum Paiszij Hilendarszki tudós tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        23.485437,
+                        41.835166
+                  ]
+            },
+            {
+                  "name": "Неофит Рилски",
+                  "text": "Múzeum Neofit Rilszki bolgár tudós egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        23.486521,
+                        41.835208
+                  ]
+            },
+            {
+                  "name": "Velyanova House",
+                  "text": "18. századi történelmi ház lenyűgöző falfestményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        23.488027,
+                        41.835497
+                  ]
+            },
+            {
+                  "name": "мегдан",
+                  "text": "Banszko város történelmi magjának központi tere.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488812,
+                        41.833942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Историко-етнографски комплекс \"Радонова къща\"",
+                  "text": "Muzeu etnografic într-o casă tradițională din epoca renașterii.",
+                  "category": "museum",
+                  "coords": [
+                        23.485665,
+                        41.833666
+                  ]
+            },
+            {
+                  "name": "Къща музей Никола Вапцаров",
+                  "text": "Casa natală și muzeul celebrului poet bulgar Nikola Vapțarov.",
+                  "category": "museum",
+                  "coords": [
+                        23.488802,
+                        41.837502
+                  ]
+            },
+            {
+                  "name": "Паисий Хилендарски",
+                  "text": "Centru cultural și muzeu în cinstea cărturarului Paisie de la Hilandar.",
+                  "category": "museum",
+                  "coords": [
+                        23.485437,
+                        41.835166
+                  ]
+            },
+            {
+                  "name": "Неофит Рилски",
+                  "text": "Muzeu situat în fosta casă a cărturarului bulgar Neofit Rilski.",
+                  "category": "museum",
+                  "coords": [
+                        23.486521,
+                        41.835208
+                  ]
+            },
+            {
+                  "name": "Velyanova House",
+                  "text": "Casă istorică din secolul al XVIII-lea cu picturi murale impresionante.",
+                  "category": "museum",
+                  "coords": [
+                        23.488027,
+                        41.835497
+                  ]
+            },
+            {
+                  "name": "мегдан",
+                  "text": "Piața centrală din nucleul istoric al orașului Bansko.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488812,
+                        41.833942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ethnic and historical complex Radonova house",
+                  "text": "Ethnographic museum located in a traditional National Revival house.",
+                  "category": "museum",
+                  "coords": [
+                        23.485665,
+                        41.833666
+                  ]
+            },
+            {
+                  "name": "Nikola Vaptsarov",
+                  "text": "Birthplace and museum of the famous Bulgarian poet Nikola Vaptsarov.",
+                  "category": "museum",
+                  "coords": [
+                        23.488802,
+                        41.837502
+                  ]
+            },
+            {
+                  "name": "Паисий Хилендарски",
+                  "text": "Cultural center and museum dedicated to the scholar Paisius of Hilendar.",
+                  "category": "museum",
+                  "coords": [
+                        23.485437,
+                        41.835166
+                  ]
+            },
+            {
+                  "name": "Неофит Рилски",
+                  "text": "Museum located in the former house of the Bulgarian scholar Neofit Rilski.",
+                  "category": "museum",
+                  "coords": [
+                        23.486521,
+                        41.835208
+                  ]
+            },
+            {
+                  "name": "Velyanov House",
+                  "text": "Historic 18th-century house featuring impressive murals.",
+                  "category": "museum",
+                  "coords": [
+                        23.488027,
+                        41.835497
+                  ]
+            },
+            {
+                  "name": "Old town main square",
+                  "text": "Central square in the historic core of Bansko.",
+                  "category": "landmark",
+                  "coords": [
+                        23.488812,
+                        41.833942
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [23.4857, 41.8383],
@@ -81,7 +306,736 @@ export const bulgariaAllPoi: POI[] = [
     },
   },
   {
-    id: "bg-nessebar",
+    id: "bg-nessebar", "sights": {
+      "de": [
+            {
+                  "name": "Археологически музей",
+                  "text": "Das Archäologische Museum in Nessebar ist eine anerkannte Institution, die antike Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Св. Архангели Гавраил и Михаил",
+                  "text": "Die Church of the Holy Archangels Michael and Gabriel ist ein bekanntes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "Църква „Свети Стефан“",
+                  "text": "St. Stefan ist ein anerkanntes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Църква „Свети Тодор“",
+                  "text": "Die Church of St Theodore ist ein bekanntes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Църква „Успение Богородично“",
+                  "text": "Die Church \"Dormition of Theotokos\" ist ein bedeutendes Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Навигационна светлина Несебър",
+                  "text": "Навигационна светлина Несебър ist ein Leuchtturm in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Музей Старинен Несебър",
+                  "text": "Das Ancient Nessebar Museum ist ein Museum in der Stadt Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "Нудистки плаж ist ein Strand in der Küstenstadt Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Лунапарк",
+                  "text": "Лунапарк ist ein Freizeitpark in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Das Ethnographic Museum ist ein Museum in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "Nudist Beach ist ein Strandabschnitt in der Stadt Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Морской аквариум \"Свети Никола\"",
+                  "text": "Das Meeresaquarium „Sveti Nikola“ ist eine maritime Attraktion in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Южен плаж",
+                  "text": "Der Südstrand (Yuzhen plazh) ist ein Strandbereich in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            },
+            {
+                  "name": "Mini-Aquapark Pirates of the Caribbean",
+                  "text": "Pirates of the Caribbean ist ein Wasserpark in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Статуя на рибаря",
+                  "text": "Die Statue des Fischers ist eine Attraktion und ein maritimes Symbol von Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Света Богородица Елеуса (Несебър)",
+                  "text": "Die Basilika der Heiligen Muttergottes Eleusa ist eine zerstörte ehemalige Klosterkirche in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "Sonnenstrand (Sunny Beach) ist ein großer Badeort in der Nähe von Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "Das alte Schiff ist eine Attraktion in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Фундамент за закрепване на артилерийско оръдие",
+                  "text": "Dieser Ort beherbergt das zerstörte Fundament einer Artilleriegeschützhalterung in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Св. Йоан Кръстител",
+                  "text": "Die Kirche St. Johannes der Täufer ist eine gut erhaltene historische Kreuzkuppelkirche in Nessebar.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Régészeti múzeum",
+                  "text": "A neszebari Régészeti Múzeum egy elismert intézmény, amely ókori leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Св. Архангели Гавраил и Михаил",
+                  "text": "A Church of the Holy Archangels Michael and Gabriel egy híres múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "Szent István templom",
+                  "text": "A St. Stefan egy elismert múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Szent Teodor templom",
+                  "text": "A Church of St Theodore egy ismert múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Istenszülő elszenderedése",
+                  "text": "A Church \"Dormition of Theotokos\" egy kiemelkedő múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Навигационна светлина Несебър",
+                  "text": "A Навигационна светлина Несебър egy világítótorony Neszebarban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Музей Старинен Несебър",
+                  "text": "Az Ancient Nessebar Museum egy múzeum Neszebar városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "A Нудистки плаж egy strand a part menti Neszebar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Лунапарк",
+                  "text": "A Лунапарк egy vidámpark Neszebarban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Az Ethnographic Museum egy múzeum Neszebarban.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "A Nudist Beach egy tengerparti szakasz Neszebar városában.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Морской аквариум \"Свети Никола\"",
+                  "text": "A \"Sveti Nikola\" Tengeri Akvárium Neszebar városában található.",
+                  "category": "recreational",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Южен плаж",
+                  "text": "A Déli strand (Juzsen plazs) Neszebar tengerparti része.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            },
+            {
+                  "name": "Mini-Aquapark Pirates of the Caribbean",
+                  "text": "A Pirates of the Caribbean egy vízipark Neszebarban.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Статуя на рибаря",
+                  "text": "A Halász szobra egy tengerparti látványosság, amely Neszebar tengeri örökségének szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Света Богородица Елеуса (Несебър)",
+                  "text": "Az Irgalmas Szűzanya-bazilika (Eleusza) egy egykori kolostortemplom romja Neszebarban.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "A Napospart (Sunny Beach) egy tengerparti üdülőhely Neszebar közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "A The Old Ship egy látványosság Neszebarban.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Фундамент за закрепване на артилерийско оръдие",
+                  "text": "A helyszínen egy neszebari tüzérségi ágyúállvány romos alapozása található.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Св. Йоан Кръстител",
+                  "text": "A Keresztelő Szent János-templom egy fennmaradt történelmi kupolás kereszt alakú templom Neszebarban.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Археологически музей",
+                  "text": "Muzeul Arheologic din Nessebar este o instituție recunoscută ce expune artefacte antice.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Св. Архангели Гавраил и Михаил",
+                  "text": "Church of the Holy Archangels Michael and Gabriel este un muzeu renumit în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "Църква „Свети Стефан“",
+                  "text": "St. Stefan este un muzeu apreciat în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Църква „Свети Тодор“",
+                  "text": "Church of St Theodore este un muzeu bine-cunoscut din Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Църква „Успение Богородично“",
+                  "text": "Church \"Dormition of Theotokos\" este un muzeu distins situat în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Навигационна светлина Несебър",
+                  "text": "Навигационна светлина Несебър este un far maritim în Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Музей Старинен Несебър",
+                  "text": "Ancient Nessebar Museum este un muzeu situat în orașul Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "Нудистки плаж este o plajă situată în orașul Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Лунапарк",
+                  "text": "Лунапарк este un parc tematic situat în Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "Ethnographic Museum este un muzeu situat în Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "Nudist Beach este o plajă situată în orașul Nesebăr.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Морской аквариум \"Свети Никола\"",
+                  "text": "Acvariul marin „Sveti Nikola” este o atracție situată în orașul Nesebăr.",
+                  "category": "recreational",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Южен плаж",
+                  "text": "Plaja de Sud (Yuzhen plazh) este o zonă de plajă din Nesebăr.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            },
+            {
+                  "name": "Mini-Aquapark Pirates of the Caribbean",
+                  "text": "Pirates of the Caribbean este un parc acvatic situat în Nesebăr.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Статуя на рибаря",
+                  "text": "Statuia Pescarului este o atracție care simbolizează moștenirea maritimă a orașului Nesebăr.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Света Богородица Елеуса (Несебър)",
+                  "text": "Bazilica Maica Domnului Eleusa reprezintă ruinele unei foste biserici mănăstirești din Nesebăr.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "Sunny Beach este o stațiune litorală situată în orașul Nesebăr.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "The Old Ship este o atracție turistică situată în Nesebăr.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Фундамент за закрепване на артилерийско оръдие",
+                  "text": "Acest sit prezintă ruinele fundației unui suport de tun de artilerie din Nesebăr.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Св. Йоан Кръстител",
+                  "text": "Biserica Sfântul Ioan Botezătorul este o biserică istorică cruciformă cu cupolă, situată în Nesebăr.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Археологически музей",
+                  "text": "The Archaeological Museum in Nessebar is a recognized institution displaying ancient artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        27.730728,
+                        42.658347
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Archangels Michael and Gabriel",
+                  "text": "The Church of the Holy Archangels Michael and Gabriel is a renowned museum located in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.735115,
+                        42.659641
+                  ]
+            },
+            {
+                  "name": "St. Stefan",
+                  "text": "St. Stefan is an acclaimed museum structure operating in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.733086,
+                        42.657818
+                  ]
+            },
+            {
+                  "name": "Church of St Theodore (Todor)",
+                  "text": "The Church of St Theodore is a well-known museum facility in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.738797,
+                        42.659881
+                  ]
+            },
+            {
+                  "name": "Church \"Dormition of Theotokos\"",
+                  "text": "The Church \"Dormition of Theotokos\" is a distinguished museum located in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736368,
+                        42.660094
+                  ]
+            },
+            {
+                  "name": "Навигационна светлина Несебър",
+                  "text": "Навигационна светлина Несебър is a local lighthouse providing maritime navigation in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729171,
+                        42.654541
+                  ]
+            },
+            {
+                  "name": "Ancient Nessebar Museum",
+                  "text": "The Ancient Nessebar Museum is a museum facility located in the city of Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.728052,
+                        42.65958
+                  ]
+            },
+            {
+                  "name": "Нудистки плаж",
+                  "text": "Нудистки плаж is a beach located in the coastal city of Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711778,
+                        42.648103
+                  ]
+            },
+            {
+                  "name": "Лунапарк",
+                  "text": "Лунапарк is a theme park located in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.724361,
+                        42.660824
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum",
+                  "text": "The Ethnographic Museum is a cultural museum located in Nessebar.",
+                  "category": "museum",
+                  "coords": [
+                        27.736305,
+                        42.658316
+                  ]
+            },
+            {
+                  "name": "Nudist Beach",
+                  "text": "Nudist Beach is a beach area located in the city of Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.711661,
+                        42.676558
+                  ]
+            },
+            {
+                  "name": "Морской аквариум \"Свети Никола\"",
+                  "text": "The \"Sveti Nikola\" Sea Aquarium is a marine attraction located in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.722967,
+                        42.66194
+                  ]
+            },
+            {
+                  "name": "Южен плаж",
+                  "text": "South Beach (Yuzhen plazh) is a popular beach area situated in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.716534,
+                        42.654951
+                  ]
+            },
+            {
+                  "name": "Pirates of the Caribbean",
+                  "text": "Pirates of the Caribbean is a water park attraction located in Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.707555,
+                        42.665935
+                  ]
+            },
+            {
+                  "name": "Статуя на рибаря",
+                  "text": "The Statue of the Fisherman is a seaside attraction serving as a symbol of Nessebar's maritime heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        27.729118,
+                        42.658715
+                  ]
+            },
+            {
+                  "name": "Ruins basilica Virgin Merciful (Eleusa)",
+                  "text": "The Basilica of the Holy Mother of God Eleusa is a ruined former monastery church in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.738019,
+                        42.661026
+                  ]
+            },
+            {
+                  "name": "Sunny Beach",
+                  "text": "Sunny Beach is a large and popular beach resort area near Nessebar.",
+                  "category": "recreational",
+                  "coords": [
+                        27.721044,
+                        42.687684
+                  ]
+            },
+            {
+                  "name": "The Old Ship",
+                  "text": "The Old Ship is a tourist attraction situated in Nessebar.",
+                  "category": "landmark",
+                  "coords": [
+                        27.737411,
+                        42.657795
+                  ]
+            },
+            {
+                  "name": "Фундамент за закрепване на артилерийско оръдие",
+                  "text": "This site features the ruined foundation of an artillery gun mount in Nessebar.",
+                  "category": "historical",
+                  "coords": [
+                        27.710365,
+                        42.646546
+                  ]
+            },
+            {
+                  "name": "Church of Saint John the Baptist",
+                  "text": "The Church of Saint John the Baptist is a preserved historic domed cruciform church in Nessebar.",
+                  "category": "religious",
+                  "coords": [
+                        27.734071,
+                        42.659053
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "bg-country",
     coords: [27.7360, 42.6593],

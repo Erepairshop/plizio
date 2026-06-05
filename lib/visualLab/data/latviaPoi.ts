@@ -75,7 +75,1924 @@ export const latviaAllPoi = [
     image: "/images/visualLab/latvia/country.jpg"
   },
   {
-    id: "lv-riga",
+    id: "lv-riga", "sights": {
+      "de": [
+            {
+                  "name": "Latvijas Ugunsdzēsības muzejs",
+                  "text": "Ein Museum in Riga, das die Geschichte des Feuerwehrwesens in Lettland dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.112138,
+                        56.962269
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais dabas muzejs",
+                  "text": "Das älteste naturhistorische Museum im Baltikum mit umfangreichen Sammlungen in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.118111,
+                        56.949486
+                  ]
+            },
+            {
+                  "name": "Pharmaziemuseum",
+                  "text": "Ein Museum in der Altstadt von Riga, das die Entwicklung der Pharmazie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.111738,
+                        56.94851
+                  ]
+            },
+            {
+                  "name": "Stūra māja",
+                  "text": "Das ehemalige Hauptquartier des KGB in Riga, heute ein Museum über die sowjetische Besatzung.",
+                  "category": "museum",
+                  "coords": [
+                        24.124212,
+                        56.958168
+                  ]
+            },
+            {
+                  "name": "Latvijas Arhitektūras muzejs",
+                  "text": "Ein Architekturmuseum im historischen Gebäudekomplex „Drei Brüder“ in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.104307,
+                        56.950326
+                  ]
+            },
+            {
+                  "name": "Jews in Latvia",
+                  "text": "Ein Museum in Riga, das dem Leben und der Geschichte der Juden in Lettland gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.116619,
+                        56.956396
+                  ]
+            },
+            {
+                  "name": "Museum für dekorative Kunst und Design",
+                  "text": "Ein Museum für dekorative Kunst und Design in der ehemaligen St.-Georgs-Kirche in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.109262,
+                        56.948118
+                  ]
+            },
+            {
+                  "name": "Krišjāņa Barona muzejs",
+                  "text": "Ein Museum in Riga, das dem Sammler lettischer Volkslieder gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.121226,
+                        56.951369
+                  ]
+            },
+            {
+                  "name": "Lettisches Nationales Geschichtsmuseum",
+                  "text": "Das wichtigste Museum für die Geschichte Lettlands mit Exponaten von der Steinzeit bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        24.100966,
+                        56.950585
+                  ]
+            },
+            {
+                  "name": "Lettisches Museum für Fotografie",
+                  "text": "Ein Museum in Riga, das die Entwicklung der Fotokunst in Lettland präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.104167,
+                        56.955336
+                  ]
+            },
+            {
+                  "name": "Rigaer Geschichts- und Schifffahrtsmuseum",
+                  "text": "Das älteste Museum im Baltikum, das die Geschichte Rigas und der Seefahrt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.104308,
+                        56.948499
+                  ]
+            },
+            {
+                  "name": "Arsenal",
+                  "text": "Eine bedeutende Kunstgalerie in einem ehemaligen Militärlagerhaus in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.10412,
+                        56.951501
+                  ]
+            },
+            {
+                  "name": "Lettisches Museum für Eisenbahngeschichte",
+                  "text": "Ein Museum in Riga mit einer umfangreichen Sammlung historischer Lokomotiven und Waggons.",
+                  "category": "museum",
+                  "coords": [
+                        24.094541,
+                        56.940932
+                  ]
+            },
+            {
+                  "name": "Lettisches Kriegsmuseum",
+                  "text": "Das lettische Kriegsmuseum im historischen Pulverturm in der Altstadt von Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.108351,
+                        56.951178
+                  ]
+            },
+            {
+                  "name": "Lettisches Nationales Kunstmuseum",
+                  "text": "Das bedeutendste Kunstmuseum Lettlands beherbergt eine umfangreiche Sammlung nationaler Werke in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.113069,
+                        56.95578
+                  ]
+            },
+            {
+                  "name": "Mentzendorffhaus",
+                  "text": "Ein historisches Wohnhausmuseum in Riga, das Einblicke in das Leben wohlhabender Bürger vergangener Jahrhunderte bietet.",
+                  "category": "museum",
+                  "coords": [
+                        24.108255,
+                        56.946764
+                  ]
+            },
+            {
+                  "name": "Museum des Rigaer Ghettos und des Holocausts in Lettland",
+                  "text": "Dieses Museum dokumentiert die Geschichte des jüdischen Ghettos in Riga und die Ereignisse des Holocaust in Lettland.",
+                  "category": "museum",
+                  "coords": [
+                        24.117613,
+                        56.94131
+                  ]
+            },
+            {
+                  "name": "Freiheitsdenkmal",
+                  "text": "Ein bedeutendes Wahrzeichen in Riga, das als Symbol für die nationale Unabhängigkeit und Freiheit Lettlands steht.",
+                  "category": "historical",
+                  "coords": [
+                        24.113344,
+                        56.951503
+                  ]
+            },
+            {
+                  "name": "Rīgas Horālā sinagoga",
+                  "text": "Die Überreste der einst prächtigen Großen Choral-Synagoge dienen heute als Mahnmal in der lettischen Hauptstadt.",
+                  "category": "historical",
+                  "coords": [
+                        24.126316,
+                        56.942397
+                  ]
+            },
+            {
+                  "name": "Bloka muiža",
+                  "text": "Ein klassizistisches Herrenhaus in Riga, das für seine historische Holzarchitektur bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.089631,
+                        56.926057
+                  ]
+            },
+            {
+                  "name": "Švarcmuiža",
+                  "text": "Ein historisches Gutshaus im Stadtteil Pārdaugava, das Zeugnis der früheren ländlichen Bebauung Rigas ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        24.07679,
+                        56.948007
+                  ]
+            },
+            {
+                  "name": "Hāmaņa muiža",
+                  "text": "Ein denkmalgeschütztes Holzherrenhaus, das zu den architektonischen Schätzen auf dem linken Daugava-Ufer gehört.",
+                  "category": "historical",
+                  "coords": [
+                        24.065437,
+                        56.950535
+                  ]
+            },
+            {
+                  "name": "Schwedentor",
+                  "text": "Das einzige erhaltene Stadttor der alten Stadtbefestigung Rigas in der malerischen Altstadt.",
+                  "category": "fortress",
+                  "coords": [
+                        24.106378,
+                        56.951445
+                  ]
+            },
+            {
+                  "name": "Lettische Nationaloper",
+                  "text": "Das prachtvolle Opernhaus in Riga ist das kulturelle Zentrum für erstklassige Opern- und Ballettaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.114385,
+                        56.949287
+                  ]
+            },
+            {
+                  "name": "Lettisches Nationaltheater",
+                  "text": "Ein bedeutendes Theatergebäude, in dem im Jahr 1918 die Unabhängigkeit Lettlands proklamiert wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        24.104724,
+                        56.953753
+                  ]
+            },
+            {
+                  "name": "Rīgas cirks",
+                  "text": "Eines der ältesten Zirkusgebäude Europas, das heute für vielfältige kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        24.119274,
+                        56.949444
+                  ]
+            },
+            {
+                  "name": "Große Gilde",
+                  "text": "Ein historisches Gebäude in der Altstadt, das einst die Kaufleute beherbergte und heute als Konzerthalle dient.",
+                  "category": "cultural",
+                  "coords": [
+                        24.10799,
+                        56.949824
+                  ]
+            },
+            {
+                  "name": "Thorensberger Kirche",
+                  "text": "Eine markante lutherische Kirche im Stadtteil Torņakalns, bekannt für ihre neugotische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        24.087176,
+                        56.928715
+                  ]
+            },
+            {
+                  "name": "Rīgas Jaunā Svētās Ģertrūdes baznīca",
+                  "text": "Eine beeindruckende neugotische Kirche in Riga, die durch ihre markante Architektur und rote Backsteinbauweise auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        24.136464,
+                        56.963036
+                  ]
+            },
+            {
+                  "name": "Svētā Pētera un Pāvila baznīca",
+                  "text": "Eine historische Kirche im Zitadellen-Viertel von Riga, die heute für kulturelle Zwecke und Konzerte genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        24.101267,
+                        56.955082
+                  ]
+            },
+            {
+                  "name": "Geburtskathedrale",
+                  "text": "Die größte orthodoxe Kathedrale in Riga, ein prachtvolles Beispiel neobyzantinischer Architektur im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        24.115613,
+                        56.953919
+                  ]
+            },
+            {
+                  "name": "Jesuskirche",
+                  "text": "Ein monumentaler Holzbau des Klassizismus in Riga und die größte hölzerne Kirche in ganz Lettland.",
+                  "category": "religious",
+                  "coords": [
+                        24.123566,
+                        56.941576
+                  ]
+            },
+            {
+                  "name": "Svētā Pāvila baznīca",
+                  "text": "Eine lutherische Kirche im Stadtteil Grīziņkalns, die einen wichtigen Orientierungspunkt in der Umgebung bildet.",
+                  "category": "religious",
+                  "coords": [
+                        24.149298,
+                        56.954134
+                  ]
+            },
+            {
+                  "name": "Svētā labticīgā Aleksandra Ņevska pareizticīgo baznīca",
+                  "text": "Diese kleine, aber kunstvoll verzierte Holzkirche im Zentrum Rigas ist ein bedeutendes Zeugnis orthodoxer Tradition.",
+                  "category": "religious",
+                  "coords": [
+                        24.121377,
+                        56.956031
+                  ]
+            },
+            {
+                  "name": "Kristus Evanģēliski luteriskā baznīca",
+                  "text": "Eine lutherische Kirche in Riga, die der lokalen Gemeinde als Ort des Gebets und der Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        24.137407,
+                        56.968789
+                  ]
+            },
+            {
+                  "name": "Svētā Jāzepa katoļu baznīca",
+                  "text": "Eine katholische Kirche in Riga, die durch ihre schlichte Architektur und ihre Bedeutung für die Gemeinde besticht.",
+                  "category": "religious",
+                  "coords": [
+                        24.068051,
+                        56.96306
+                  ]
+            },
+            {
+                  "name": "Alte Kirche der Heiligen Gertrud",
+                  "text": "Eine ikonische neugotische Kirche in Riga, die ein markantes Element des Stadtbildes darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        24.121663,
+                        56.957956
+                  ]
+            },
+            {
+                  "name": "Rīgas Svētā Franciska Romas katoļu baznīca",
+                  "text": "Eine katholische Kirche im Stadtteil Maskavas forštate, bekannt für ihre charakteristische Backsteinarchitektur.",
+                  "category": "religious",
+                  "coords": [
+                        24.136704,
+                        56.944376
+                  ]
+            },
+            {
+                  "name": "Kirche der Verkündigung Unserer Lieben Frau",
+                  "text": "Eine orthodoxe Kirche in Riga, die als ein wichtiges geistliches Zentrum für die gläubige Gemeinschaft fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        24.123065,
+                        56.94397
+                  ]
+            },
+            {
+                  "name": "Reformationskirche",
+                  "text": "Die ehemalige reformierte Kirche in der Altstadt von Riga ist ein historisches Gebäude mit einer wechselvollen Geschichte.",
+                  "category": "religious",
+                  "coords": [
+                        24.110371,
+                        56.946418
+                  ]
+            },
+            {
+                  "name": "St.-Johannis-Kirche",
+                  "text": "Eine der ältesten Kirchen Rigas, bekannt für ihren markanten Treppengiebel und ihre gotische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        24.110614,
+                        56.947625
+                  ]
+            },
+            {
+                  "name": "Anglikanische Kirche",
+                  "text": "Eine markante anglikanische Kirche aus rotem Backstein, die direkt am Ufer der Daugava in der Altstadt liegt.",
+                  "category": "religious",
+                  "coords": [
+                        24.101925,
+                        56.949764
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "Eine lutherische Kirche im Stadtteil Pārdaugava, die einen wichtigen Teil des religiösen Lebens im Viertel ausmacht.",
+                  "category": "religious",
+                  "coords": [
+                        24.071889,
+                        56.950237
+                  ]
+            },
+            {
+                  "name": "Laima Uhr",
+                  "text": "Eine berühmte Uhr in der Nähe des Freiheitsdenkmals, die seit Jahrzehnten ein beliebter Treffpunkt in Riga ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.11198,
+                        56.950442
+                  ]
+            },
+            {
+                  "name": "Schwarzhäupterhaus",
+                  "text": "Ein prächtig rekonstruiertes Gebäude in der Altstadt, das einst für die Versammlungen unverheirateter Kaufleute genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        24.106821,
+                        56.947136
+                  ]
+            },
+            {
+                  "name": "Vanšu-Brücke",
+                  "text": "Eine beeindruckende Schrägseilbrücke, die den Fluss Daugava überspannt und zwei Teile Rigas miteinander verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.095849,
+                        56.95124
+                  ]
+            },
+            {
+                  "name": "Zentralmarkt",
+                  "text": "Einer der größten und meistbesuchten Märkte Europas, untergebracht in ehemaligen Zeppelin-Hangar-Hallen.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116656,
+                        56.943938
+                  ]
+            },
+            {
+                  "name": "Steinbrücke",
+                  "text": "Diese zentrale Brücke über die Daugava verbindet die historische Altstadt mit den modernen Vierteln am linken Ufer.",
+                  "category": "landmark",
+                  "coords": [
+                        24.101231,
+                        56.944649
+                  ]
+            },
+            {
+                  "name": "Berga bazārs",
+                  "text": "Ein historisches Einkaufsviertel in Riga mit charmanten Passagen, Geschäften und Cafés.",
+                  "category": "landmark",
+                  "coords": [
+                        24.122826,
+                        56.950374
+                  ]
+            },
+            {
+                  "name": "Eisenbahnbrücke",
+                  "text": "Eine wichtige Eisenbahnverbindung über den Fluss Daugava, die für den Verkehr in der lettischen Hauptstadt essenziell ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.105081,
+                        56.941503
+                  ]
+            },
+            {
+                  "name": "Āgenskalna tirgus",
+                  "text": "Ein beliebter lokaler Marktplatz in Riga, bekannt für sein Angebot an frischen Lebensmitteln und regionalen Produkten.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072422,
+                        56.935962
+                  ]
+            },
+            {
+                  "name": "Āgenskalna televīzijas tornis",
+                  "text": "Ein markanter Turm im Stadtteil Āgenskalns, der früher für die Fernsehübertragung genutzt wurde.",
+                  "category": "tower",
+                  "coords": [
+                        24.072252,
+                        56.936922
+                  ]
+            },
+            {
+                  "name": "Dzegužkalns",
+                  "text": "Der höchste Hügel in Riga bietet einen schönen Park und ist ein beliebter Ort für Spaziergänge und lokale Feste.",
+                  "category": "natural",
+                  "coords": [
+                        24.06956,
+                        56.962261
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Latvijas Ugunsdzēsības muzejs",
+                  "text": "Rigai múzeum, amely a lettországi tűzoltóság történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.112138,
+                        56.962269
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais dabas muzejs",
+                  "text": "A Baltikum legrégebbi természettudományi múzeuma gazdag gyűjteménnyel Rigában.",
+                  "category": "museum",
+                  "coords": [
+                        24.118111,
+                        56.949486
+                  ]
+            },
+            {
+                  "name": "Farmācijas muzejs",
+                  "text": "Muzeum Riga óvárosában, amely a gyógyszerészet fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.111738,
+                        56.94851
+                  ]
+            },
+            {
+                  "name": "Stūra māja",
+                  "text": "A KGB egykori rigai székháza, ma a szovjet megszállás múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        24.124212,
+                        56.958168
+                  ]
+            },
+            {
+                  "name": "Latvijas Arhitektūras muzejs",
+                  "text": "Építészeti múzeum a rigai „Három fivér” történelmi épületegyüttesben.",
+                  "category": "museum",
+                  "coords": [
+                        24.104307,
+                        56.950326
+                  ]
+            },
+            {
+                  "name": "Jews in Latvia",
+                  "text": "Rigai múzeum, amely a lettországi zsidóság életének és történelmének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        24.116619,
+                        56.956396
+                  ]
+            },
+            {
+                  "name": "Dekoratīvās mākslas un dizaina muzejs",
+                  "text": "Dekoratív művészeti és design múzeum az egykori Szent György-templomban, Rigában.",
+                  "category": "museum",
+                  "coords": [
+                        24.109262,
+                        56.948118
+                  ]
+            },
+            {
+                  "name": "Krišjāņa Barona muzejs",
+                  "text": "A lett népdalok gyűjtőjének szentelt múzeum Rigában.",
+                  "category": "museum",
+                  "coords": [
+                        24.121226,
+                        56.951369
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais vēstures muzejs",
+                  "text": "Lettország legjelentősebb történelmi múzeuma a kőkorszaktól napjainkig tartó tárlattal.",
+                  "category": "museum",
+                  "coords": [
+                        24.100966,
+                        56.950585
+                  ]
+            },
+            {
+                  "name": "Latvijas Fotogrāfijas muzejs",
+                  "text": "Rigai múzeum, amely a lett fotóművészet fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.104167,
+                        56.955336
+                  ]
+            },
+            {
+                  "name": "Rīgas vēstures un kuģniecības muzejs",
+                  "text": "A Baltikum legrégebbi múzeuma, amely Riga és a hajózás történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.104308,
+                        56.948499
+                  ]
+            },
+            {
+                  "name": "Izstāžu zāle Arsenāls",
+                  "text": "Jelentős művészeti galéria egy egykori katonai raktárépületben, Rigában.",
+                  "category": "museum",
+                  "coords": [
+                        24.10412,
+                        56.951501
+                  ]
+            },
+            {
+                  "name": "Latvijas dzelzceļa vēstures muzejs",
+                  "text": "Rigai múzeum történelmi mozdonyok és vasúti kocsik gazdag gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        24.094541,
+                        56.940932
+                  ]
+            },
+            {
+                  "name": "Latvijas kara muzejs",
+                  "text": "A lett hadtörténeti múzeum a rigai óváros történelmi Lőportornyában.",
+                  "category": "museum",
+                  "coords": [
+                        24.108351,
+                        56.951178
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais Mākslas muzejs",
+                  "text": "Lettország legjelentősebb művészeti múzeuma, amely a nemzeti képzőművészet gazdag gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        24.113069,
+                        56.95578
+                  ]
+            },
+            {
+                  "name": "Mencendorfa nams",
+                  "text": "Történelmi lakóház-múzeum Rigában, amely a múlt századok jómódú polgárainak életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.108255,
+                        56.946764
+                  ]
+            },
+            {
+                  "name": "Rīgas Geto un Latvijas Holokausta muzejs",
+                  "text": "Ez a múzeum a rigai zsidó gettó történetét és a lettországi holokauszt eseményeit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        24.117613,
+                        56.94131
+                  ]
+            },
+            {
+                  "name": "Brīvības piemineklis",
+                  "text": "Riga egyik legfontosabb jelképe, amely Lettország nemzeti függetlenségét és szabadságát hirdeti.",
+                  "category": "historical",
+                  "coords": [
+                        24.113344,
+                        56.951503
+                  ]
+            },
+            {
+                  "name": "Rīgas Horālā sinagoga",
+                  "text": "Az egykori pompás Nagy Korál-zsinagóga maradványai ma emlékműként szolgálnak a lett fővárosban.",
+                  "category": "historical",
+                  "coords": [
+                        24.126316,
+                        56.942397
+                  ]
+            },
+            {
+                  "name": "Bloka muiža",
+                  "text": "Klasszicista stílusú udvarház Rigában, amely történelmi faépítészetéről nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        24.089631,
+                        56.926057
+                  ]
+            },
+            {
+                  "name": "Švarcmuiža",
+                  "text": "Történelmi udvarház Riga Pārdaugava negyedében, amely a város korábbi vidéki építészetének emléke.",
+                  "category": "historical",
+                  "coords": [
+                        24.07679,
+                        56.948007
+                  ]
+            },
+            {
+                  "name": "Hāmaņa muiža",
+                  "text": "Műemléki védettségű fa udvarház, amely a Daugava bal partjának építészeti kincsei közé tartozik.",
+                  "category": "historical",
+                  "coords": [
+                        24.065437,
+                        56.950535
+                  ]
+            },
+            {
+                  "name": "Zviedru vārti",
+                  "text": "Riga egykori városfalának egyetlen épségben maradt kapuja a festői óvárosban.",
+                  "category": "fortress",
+                  "coords": [
+                        24.106378,
+                        56.951445
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālā opera un balets",
+                  "text": "A pompás rigai operaház a magas színvonalú opera- és balettelőadások kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        24.114385,
+                        56.949287
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais teātris",
+                  "text": "Jelentős színházépület, ahol 1918-ban kikiáltották Lettország függetlenségét.",
+                  "category": "cultural",
+                  "coords": [
+                        24.104724,
+                        56.953753
+                  ]
+            },
+            {
+                  "name": "Rīgas cirks",
+                  "text": "Európa egyik legrégebbi cirkuszépülete, amelyet ma változatos kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        24.119274,
+                        56.949444
+                  ]
+            },
+            {
+                  "name": "Lielā Ģilde",
+                  "text": "Történelmi épület az óvárosban, amely egykor a kereskedők céhének székháza volt, ma pedig koncertterem.",
+                  "category": "cultural",
+                  "coords": [
+                        24.10799,
+                        56.949824
+                  ]
+            },
+            {
+                  "name": "Torņakalna baznīca",
+                  "text": "Jellegzetes evangélikus templom Torņakalns negyedben, amely neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.087176,
+                        56.928715
+                  ]
+            },
+            {
+                  "name": "Rīgas Jaunā Svētās Ģertrūdes baznīca",
+                  "text": "Lenyűgöző neogótikus templom Rigában, amely jellegzetes vörös téglaépítészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        24.136464,
+                        56.963036
+                  ]
+            },
+            {
+                  "name": "Svētā Pētera un Pāvila baznīca",
+                  "text": "Történelmi templom a rigai citadella negyedben, amelyet ma kulturális célokra és koncertekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        24.101267,
+                        56.955082
+                  ]
+            },
+            {
+                  "name": "Kristus Piedzimšanas pareizticīgo katedrāle",
+                  "text": "Riga legnagyobb ortodox székesegyháza, a neobizánci építészet pompás példája a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        24.115613,
+                        56.953919
+                  ]
+            },
+            {
+                  "name": "Jēzus baznīca",
+                  "text": "A klasszicista faépítészet monumentális emléke Rigában, és Lettország legnagyobb fatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        24.123566,
+                        56.941576
+                  ]
+            },
+            {
+                  "name": "Svētā Pāvila baznīca",
+                  "text": "Evangélikus templom Grīziņkalns negyedben, amely a környék fontos tájékozódási pontja.",
+                  "category": "religious",
+                  "coords": [
+                        24.149298,
+                        56.954134
+                  ]
+            },
+            {
+                  "name": "Svētā labticīgā Aleksandra Ņevska pareizticīgo baznīca",
+                  "text": "Ez a kicsi, de gazdagon díszített fatemplom Riga központjában az ortodox hagyomány jelentős emléke.",
+                  "category": "religious",
+                  "coords": [
+                        24.121377,
+                        56.956031
+                  ]
+            },
+            {
+                  "name": "Kristus Evanģēliski luteriskā baznīca",
+                  "text": "Evangélikus templom Rigában, amely a helyi közösség hitéletének helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        24.137407,
+                        56.968789
+                  ]
+            },
+            {
+                  "name": "Svētā Jāzepa katoļu baznīca",
+                  "text": "Katolikus templom Rigában, amely egyszerű építészetével és közösségi jelentőségével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        24.068051,
+                        56.96306
+                  ]
+            },
+            {
+                  "name": "Vecā Ģertrūdes baznīca",
+                  "text": "Ikonikus neogótikus templom Rigában, amely a városkép meghatározó eleme.",
+                  "category": "religious",
+                  "coords": [
+                        24.121663,
+                        56.957956
+                  ]
+            },
+            {
+                  "name": "Rīgas Svētā Franciska Romas katoļu baznīca",
+                  "text": "Katolikus templom a Maskavas forštate negyedben, jellegzetes téglaépítészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.136704,
+                        56.944376
+                  ]
+            },
+            {
+                  "name": "Vissvētās Dievmātes pasludināšanas baznīca",
+                  "text": "Ortodox templom Rigában, amely a hívő közösség fontos lelki központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        24.123065,
+                        56.94397
+                  ]
+            },
+            {
+                  "name": "Reformātu baznīca",
+                  "text": "Az egykori református templom Riga óvárosában egy változatos múltú történelmi épület.",
+                  "category": "religious",
+                  "coords": [
+                        24.110371,
+                        56.946418
+                  ]
+            },
+            {
+                  "name": "Svētā Jāņa baznīca",
+                  "text": "Riga egyik legrégebbi temploma, amely jellegzetes lépcsőzetes oromzatáról és gótikus stílusáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.110614,
+                        56.947625
+                  ]
+            },
+            {
+                  "name": "Anglikāņu baznīca",
+                  "text": "Jellegzetes vörös téglás anglikán templom, amely közvetlenül a Daugava partján fekszik az óvárosban.",
+                  "category": "religious",
+                  "coords": [
+                        24.101925,
+                        56.949764
+                  ]
+            },
+            {
+                  "name": "Rīgas Mārtiņa Evaņģēliski luteriskā baznīca",
+                  "text": "Evangélikus templom Pārdaugava negyedben, amely a környék hitéletének meghatározó helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        24.071889,
+                        56.950237
+                  ]
+            },
+            {
+                  "name": "Laimas pulkstenis",
+                  "text": "Híres óra a Szabadság-emlékmű közelében, amely évtizedek óta Riga népszerű találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        24.11198,
+                        56.950442
+                  ]
+            },
+            {
+                  "name": "Melngalvju nams",
+                  "text": "Pompásan rekonstruált épület az óvárosban, amely egykor a nőtlen kereskedők gyűléshelyeként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        24.106821,
+                        56.947136
+                  ]
+            },
+            {
+                  "name": "Vanšu tilts",
+                  "text": "Lenyűgöző ferdekábeles híd, amely a Daugava folyót íveli át, összekötve Riga két részét.",
+                  "category": "landmark",
+                  "coords": [
+                        24.095849,
+                        56.95124
+                  ]
+            },
+            {
+                  "name": "Centrāltirgus",
+                  "text": "Európa egyik legnagyobb és leglátogatottabb piaca, amely egykori Zeppelinhangárokban kapott helyet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116656,
+                        56.943938
+                  ]
+            },
+            {
+                  "name": "Akmens tilts",
+                  "text": "Ez a központi híd a Daugava felett köti össze a történelmi óvárost a bal parti modern negyedekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        24.101231,
+                        56.944649
+                  ]
+            },
+            {
+                  "name": "Berga bazārs",
+                  "text": "Történelmi bevásárlónegyed Rigában, bájos passzázsokkal, üzletekkel és kávézókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.122826,
+                        56.950374
+                  ]
+            },
+            {
+                  "name": "Dzelzceļa tilts",
+                  "text": "Fontos vasúti összeköttetés a Daugava folyón, amely elengedhetetlen a lett főváros közlekedéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        24.105081,
+                        56.941503
+                  ]
+            },
+            {
+                  "name": "Āgenskalna tirgus",
+                  "text": "Népszerű helyi piac Rigában, amely friss élelmiszereiről és regionális termékeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072422,
+                        56.935962
+                  ]
+            },
+            {
+                  "name": "Āgenskalna televīzijas tornis",
+                  "text": "Jellegzetes torony Āgenskalns negyedben, amelyet korábban televíziós közvetítésre használtak.",
+                  "category": "tower",
+                  "coords": [
+                        24.072252,
+                        56.936922
+                  ]
+            },
+            {
+                  "name": "Dzegužkalns",
+                  "text": "Riga legmagasabb dombja szép parkkal büszkélkedhet, és népszerű hely sétákhoz és helyi ünnepekhez.",
+                  "category": "natural",
+                  "coords": [
+                        24.06956,
+                        56.962261
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Latvijas Ugunsdzēsības muzejs",
+                  "text": "Un muzeu din Riga care documentează istoria serviciului de pompieri din Letonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.112138,
+                        56.962269
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais dabas muzejs",
+                  "text": "Cel mai vechi muzeu de istorie naturală din Țările Baltice, situat în Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.118111,
+                        56.949486
+                  ]
+            },
+            {
+                  "name": "Farmācijas muzejs",
+                  "text": "Un muzeu în centrul vechi din Riga care prezintă evoluția farmaciei.",
+                  "category": "museum",
+                  "coords": [
+                        24.111738,
+                        56.94851
+                  ]
+            },
+            {
+                  "name": "Stūra māja",
+                  "text": "Fostul sediu al KGB din Riga, astăzi un muzeu despre ocupația sovietică.",
+                  "category": "museum",
+                  "coords": [
+                        24.124212,
+                        56.958168
+                  ]
+            },
+            {
+                  "name": "Latvijas Arhitektūras muzejs",
+                  "text": "Un muzeu de arhitectură situat în complexul istoric „Trei Frați” din Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.104307,
+                        56.950326
+                  ]
+            },
+            {
+                  "name": "Jews in Latvia",
+                  "text": "Un muzeu din Riga dedicat vieții și istoriei evreilor din Letonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.116619,
+                        56.956396
+                  ]
+            },
+            {
+                  "name": "Dekoratīvās mākslas un dizaina muzejs",
+                  "text": "Un muzeu de arte decorative și design în fosta biserică Sfântul Gheorghe din Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.109262,
+                        56.948118
+                  ]
+            },
+            {
+                  "name": "Krišjāņa Barona muzejs",
+                  "text": "Un muzeu din Riga dedicat colecționarului de cântece populare letone.",
+                  "category": "museum",
+                  "coords": [
+                        24.121226,
+                        56.951369
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais vēstures muzejs",
+                  "text": "Cel mai important muzeu de istorie a Letoniei, cu exponate din epoca pietrei până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        24.100966,
+                        56.950585
+                  ]
+            },
+            {
+                  "name": "Latvijas Fotogrāfijas muzejs",
+                  "text": "Un muzeu din Riga care prezintă dezvoltarea artei fotografice în Letonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.104167,
+                        56.955336
+                  ]
+            },
+            {
+                  "name": "Rīgas vēstures un kuģniecības muzejs",
+                  "text": "Cel mai vechi muzeu din Țările Baltice, prezentând istoria Rigăi și a navigației.",
+                  "category": "museum",
+                  "coords": [
+                        24.104308,
+                        56.948499
+                  ]
+            },
+            {
+                  "name": "Izstāžu zāle Arsenāls",
+                  "text": "O galerie de artă importantă situată într-un fost depozit militar din Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.10412,
+                        56.951501
+                  ]
+            },
+            {
+                  "name": "Latvijas dzelzceļa vēstures muzejs",
+                  "text": "Un muzeu din Riga cu o colecție bogată de locomotive și vagoane istorice.",
+                  "category": "museum",
+                  "coords": [
+                        24.094541,
+                        56.940932
+                  ]
+            },
+            {
+                  "name": "Latvijas kara muzejs",
+                  "text": "Muzeul leton al războiului, situat în Turnul Pulberii din centrul vechi al Rigăi.",
+                  "category": "museum",
+                  "coords": [
+                        24.108351,
+                        56.951178
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais Mākslas muzejs",
+                  "text": "Cel mai important muzeu de artă din Letonia, care găzduiește o colecție vastă de opere naționale.",
+                  "category": "museum",
+                  "coords": [
+                        24.113069,
+                        56.95578
+                  ]
+            },
+            {
+                  "name": "Mencendorfa nams",
+                  "text": "O casă-muzeu istorică din Riga, care oferă o privire asupra vieții cetățenilor înstăriți din secolele trecute.",
+                  "category": "museum",
+                  "coords": [
+                        24.108255,
+                        56.946764
+                  ]
+            },
+            {
+                  "name": "Rīgas Geto un Latvijas Holokausta muzejs",
+                  "text": "Acest muzeu documentează istoria ghetoului evreiesc din Riga și evenimentele Holocaustului în Letonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.117613,
+                        56.94131
+                  ]
+            },
+            {
+                  "name": "Monumentul Libertății",
+                  "text": "Un monument emblematic în Riga, ridicat ca simbol al independenței și libertății naționale a Letoniei.",
+                  "category": "historical",
+                  "coords": [
+                        24.113344,
+                        56.951503
+                  ]
+            },
+            {
+                  "name": "Rīgas Horālā sinagoga",
+                  "text": "Ruinele fostei Mari Sinagogi Corale din Riga servesc astăzi drept loc de comemorare în capitala Letoniei.",
+                  "category": "historical",
+                  "coords": [
+                        24.126316,
+                        56.942397
+                  ]
+            },
+            {
+                  "name": "Bloka muiža",
+                  "text": "Un conac în stil neoclasic din Riga, cunoscut pentru arhitectura sa istorică din lemn.",
+                  "category": "historical",
+                  "coords": [
+                        24.089631,
+                        56.926057
+                  ]
+            },
+            {
+                  "name": "Švarcmuiža",
+                  "text": "Un conac istoric din cartierul Pārdaugava, care atestă dezvoltarea rurală timpurie a Rigăi.",
+                  "category": "historical",
+                  "coords": [
+                        24.07679,
+                        56.948007
+                  ]
+            },
+            {
+                  "name": "Hāmaņa muiža",
+                  "text": "Un conac din lemn protejat ca monument istoric, făcând parte din patrimoniul arhitectural de pe malul stâng al Daugavei.",
+                  "category": "historical",
+                  "coords": [
+                        24.065437,
+                        56.950535
+                  ]
+            },
+            {
+                  "name": "Zviedru vārti",
+                  "text": "Singura poartă a orașului care s-a păstrat din vechile fortificații ale Rigăi, situată în centrul vechi.",
+                  "category": "fortress",
+                  "coords": [
+                        24.106378,
+                        56.951445
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālā opera un balets",
+                  "text": "Splendida operă din Riga este centrul cultural pentru spectacole de operă și balet de clasă mondială.",
+                  "category": "cultural",
+                  "coords": [
+                        24.114385,
+                        56.949287
+                  ]
+            },
+            {
+                  "name": "Latvijas Nacionālais teātris",
+                  "text": "O clădire teatrală importantă unde, în anul 1918, a fost proclamată independența Letoniei.",
+                  "category": "cultural",
+                  "coords": [
+                        24.104724,
+                        56.953753
+                  ]
+            },
+            {
+                  "name": "Rīgas cirks",
+                  "text": "Una dintre cele mai vechi clădiri de circ din Europa, utilizată astăzi pentru diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        24.119274,
+                        56.949444
+                  ]
+            },
+            {
+                  "name": "Lielā Ģilde",
+                  "text": "O clădire istorică din centrul vechi, care a găzduit cândva breasla comercianților și servește acum ca sală de concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        24.10799,
+                        56.949824
+                  ]
+            },
+            {
+                  "name": "Torņakalna baznīca",
+                  "text": "O biserică luterană proeminentă din cartierul Torņakalns, cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        24.087176,
+                        56.928715
+                  ]
+            },
+            {
+                  "name": "Rīgas Jaunā Svētās Ģertrūdes baznīca",
+                  "text": "O biserică neogotică impresionantă din Riga, care se remarcă prin arhitectura sa distinctivă din cărămidă roșie.",
+                  "category": "religious",
+                  "coords": [
+                        24.136464,
+                        56.963036
+                  ]
+            },
+            {
+                  "name": "Svētā Pētera un Pāvila baznīca",
+                  "text": "O biserică istorică din zona Cetății din Riga, utilizată astăzi pentru scopuri culturale și concerte.",
+                  "category": "religious",
+                  "coords": [
+                        24.101267,
+                        56.955082
+                  ]
+            },
+            {
+                  "name": "Kristus Piedzimšanas pareizticīgo katedrāle",
+                  "text": "Cea mai mare catedrală ortodoxă din Riga, un exemplu magnific de arhitectură neobizantină în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        24.115613,
+                        56.953919
+                  ]
+            },
+            {
+                  "name": "Jēzus baznīca",
+                  "text": "O clădire monumentală din lemn în stil neoclasic din Riga, fiind cea mai mare biserică de lemn din Letonia.",
+                  "category": "religious",
+                  "coords": [
+                        24.123566,
+                        56.941576
+                  ]
+            },
+            {
+                  "name": "Svētā Pāvila baznīca",
+                  "text": "O biserică luterană din cartierul Grīziņkalns, constituind un punct de reper important în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        24.149298,
+                        56.954134
+                  ]
+            },
+            {
+                  "name": "Svētā labticīgā Aleksandra Ņevska pareizticīgo baznīca",
+                  "text": "Această mică biserică din lemn, dar bogat ornamentată, din centrul Rigăi este o dovadă importantă a tradiției ortodoxe.",
+                  "category": "religious",
+                  "coords": [
+                        24.121377,
+                        56.956031
+                  ]
+            },
+            {
+                  "name": "Kristus Evanģēliski luteriskā baznīca",
+                  "text": "O biserică luterană din Riga, servind comunității locale ca loc de rugăciune și reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        24.137407,
+                        56.968789
+                  ]
+            },
+            {
+                  "name": "Svētā Jāzepa katoļu baznīca",
+                  "text": "O biserică catolică din Riga, care se remarcă prin arhitectura sa simplă și importanța pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        24.068051,
+                        56.96306
+                  ]
+            },
+            {
+                  "name": "Vecā Ģertrūdes baznīca",
+                  "text": "O biserică neogotică iconică din Riga, reprezentând un element distinctiv al peisajului urban.",
+                  "category": "religious",
+                  "coords": [
+                        24.121663,
+                        56.957956
+                  ]
+            },
+            {
+                  "name": "Rīgas Svētā Franciska Romas katoļu baznīca",
+                  "text": "O biserică catolică din cartierul Maskavas forštate, cunoscută pentru arhitectura sa caracteristică din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        24.136704,
+                        56.944376
+                  ]
+            },
+            {
+                  "name": "Vissvētās Dievmātes pasludināšanas baznīca",
+                  "text": "O biserică ortodoxă din Riga, care funcționează ca un centru spiritual important pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        24.123065,
+                        56.94397
+                  ]
+            },
+            {
+                  "name": "Reformātu baznīca",
+                  "text": "Fosta biserică reformată din centrul vechi al Rigăi este o clădire istorică cu o poveste fascinantă.",
+                  "category": "religious",
+                  "coords": [
+                        24.110371,
+                        56.946418
+                  ]
+            },
+            {
+                  "name": "Svētā Jāņa baznīca",
+                  "text": "Una dintre cele mai vechi biserici din Riga, cunoscută pentru frontonul său în trepte și arhitectura gotică.",
+                  "category": "religious",
+                  "coords": [
+                        24.110614,
+                        56.947625
+                  ]
+            },
+            {
+                  "name": "Anglikāņu baznīca",
+                  "text": "O biserică anglicană distinctivă din cărămidă roșie, situată chiar pe malul râului Daugava, în centrul vechi.",
+                  "category": "religious",
+                  "coords": [
+                        24.101925,
+                        56.949764
+                  ]
+            },
+            {
+                  "name": "Rīgas Mārtiņa Evaņģēliski luteriskā baznīca",
+                  "text": "O biserică luterană din cartierul Pārdaugava, reprezentând o parte importantă a vieții religioase din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        24.071889,
+                        56.950237
+                  ]
+            },
+            {
+                  "name": "Laimas pulkstenis",
+                  "text": "Un ceas celebru situat lângă Monumentul Libertății, fiind de decenii un loc de întâlnire popular în Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.11198,
+                        56.950442
+                  ]
+            },
+            {
+                  "name": "Melngalvju nams",
+                  "text": "O clădire splendid reconstruită în centrul vechi, care a servit cândva pentru adunările comercianților celibatari.",
+                  "category": "landmark",
+                  "coords": [
+                        24.106821,
+                        56.947136
+                  ]
+            },
+            {
+                  "name": "Vanšu tilts",
+                  "text": "Un pod hobanat impresionant care traversează râul Daugava, conectând două părți importante ale Rigăi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.095849,
+                        56.95124
+                  ]
+            },
+            {
+                  "name": "Centrāltirgus",
+                  "text": "Una dintre cele mai mari și vizitate piețe din Europa, găzduită în foste hangare pentru zepeline.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116656,
+                        56.943938
+                  ]
+            },
+            {
+                  "name": "Akmens tilts",
+                  "text": "Acest pod central peste Daugava leagă centrul istoric de cartierele moderne de pe malul stâng.",
+                  "category": "landmark",
+                  "coords": [
+                        24.101231,
+                        56.944649
+                  ]
+            },
+            {
+                  "name": "Berga bazārs",
+                  "text": "O zonă comercială istorică din Riga, cu pasaje fermecătoare, magazine și cafenele.",
+                  "category": "landmark",
+                  "coords": [
+                        24.122826,
+                        56.950374
+                  ]
+            },
+            {
+                  "name": "Dzelzceļa tilts",
+                  "text": "O legătură feroviară importantă peste râul Daugava, esențială pentru transportul din capitala Letoniei.",
+                  "category": "landmark",
+                  "coords": [
+                        24.105081,
+                        56.941503
+                  ]
+            },
+            {
+                  "name": "Āgenskalna tirgus",
+                  "text": "O piață locală populară din Riga, cunoscută pentru oferta sa de alimente proaspete și produse regionale.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072422,
+                        56.935962
+                  ]
+            },
+            {
+                  "name": "Āgenskalna televīzijas tornis",
+                  "text": "Un turn proeminent din cartierul Āgenskalns, care a fost utilizat anterior pentru transmisii de televiziune.",
+                  "category": "tower",
+                  "coords": [
+                        24.072252,
+                        56.936922
+                  ]
+            },
+            {
+                  "name": "Dzegužkalns",
+                  "text": "Cel mai înalt deal din Riga oferă un parc frumos și este un loc popular pentru plimbări și sărbători locale.",
+                  "category": "natural",
+                  "coords": [
+                        24.06956,
+                        56.962261
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Latvian fire fighting museum",
+                  "text": "A museum in Riga documenting the history of firefighting in Latvia.",
+                  "category": "museum",
+                  "coords": [
+                        24.112138,
+                        56.962269
+                  ]
+            },
+            {
+                  "name": "Latvian National Museum of Natural History",
+                  "text": "The oldest natural history museum in the Baltics, located in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.118111,
+                        56.949486
+                  ]
+            },
+            {
+                  "name": "Pharmacy Museum",
+                  "text": "A museum in Riga's old town showcasing the development of pharmacy.",
+                  "category": "museum",
+                  "coords": [
+                        24.111738,
+                        56.94851
+                  ]
+            },
+            {
+                  "name": "KGB Building \"Corner House\"",
+                  "text": "The former KGB headquarters in Riga, now a museum about the Soviet occupation.",
+                  "category": "museum",
+                  "coords": [
+                        24.124212,
+                        56.958168
+                  ]
+            },
+            {
+                  "name": "Latvian Museum of Architecture",
+                  "text": "An architecture museum located in the \"Three Brothers\" historic building complex in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.104307,
+                        56.950326
+                  ]
+            },
+            {
+                  "name": "Jews in Latvia",
+                  "text": "A museum in Riga dedicated to the life and history of Jews in Latvia.",
+                  "category": "museum",
+                  "coords": [
+                        24.116619,
+                        56.956396
+                  ]
+            },
+            {
+                  "name": "Museum of Decorative Arts and Design",
+                  "text": "A museum of decorative arts and design located in the former St. George's Church in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.109262,
+                        56.948118
+                  ]
+            },
+            {
+                  "name": "Krišjāņa Barona muzejs",
+                  "text": "A museum in Riga dedicated to the collector of Latvian folk songs.",
+                  "category": "museum",
+                  "coords": [
+                        24.121226,
+                        56.951369
+                  ]
+            },
+            {
+                  "name": "National History Museum of Latvia",
+                  "text": "The primary museum of Latvian history, with exhibits ranging from the Stone Age to the present.",
+                  "category": "museum",
+                  "coords": [
+                        24.100966,
+                        56.950585
+                  ]
+            },
+            {
+                  "name": "Latvian Museum of Photography",
+                  "text": "A museum in Riga presenting the development of photographic art in Latvia.",
+                  "category": "museum",
+                  "coords": [
+                        24.104167,
+                        56.955336
+                  ]
+            },
+            {
+                  "name": "Museum of the history of Riga and navigation",
+                  "text": "The oldest museum in the Baltics, showcasing the history of Riga and navigation.",
+                  "category": "museum",
+                  "coords": [
+                        24.104308,
+                        56.948499
+                  ]
+            },
+            {
+                  "name": "Arsenāls Exhibition Hall",
+                  "text": "A significant art gallery located in a former military warehouse in Riga.",
+                  "category": "museum",
+                  "coords": [
+                        24.10412,
+                        56.951501
+                  ]
+            },
+            {
+                  "name": "Latvian Railway History Museum",
+                  "text": "A museum in Riga featuring a large collection of historic locomotives and wagons.",
+                  "category": "museum",
+                  "coords": [
+                        24.094541,
+                        56.940932
+                  ]
+            },
+            {
+                  "name": "Latvian War Museum",
+                  "text": "The Latvian War Museum, located in the historic Powder Tower in Riga's old town.",
+                  "category": "museum",
+                  "coords": [
+                        24.108351,
+                        56.951178
+                  ]
+            },
+            {
+                  "name": "The Latvian National Museum of Art",
+                  "text": "The most significant art museum in Latvia, housing an extensive collection of national visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        24.113069,
+                        56.95578
+                  ]
+            },
+            {
+                  "name": "Mencendorfa nams",
+                  "text": "A historic dwelling house museum in Riga, showcasing the lifestyle of wealthy citizens from past centuries.",
+                  "category": "museum",
+                  "coords": [
+                        24.108255,
+                        56.946764
+                  ]
+            },
+            {
+                  "name": "Riga Gheto and Latvian Holocaust museum",
+                  "text": "This museum documents the history of the Riga Jewish ghetto and the events of the Holocaust in Latvia.",
+                  "category": "museum",
+                  "coords": [
+                        24.117613,
+                        56.94131
+                  ]
+            },
+            {
+                  "name": "Freedom Monument",
+                  "text": "An iconic landmark in Riga, serving as a symbol of Latvian national independence and freedom.",
+                  "category": "historical",
+                  "coords": [
+                        24.113344,
+                        56.951503
+                  ]
+            },
+            {
+                  "name": "Rīgas Horālā sinagoga",
+                  "text": "The ruins of the once grand Great Choral Synagogue now serve as a memorial site in the Latvian capital.",
+                  "category": "historical",
+                  "coords": [
+                        24.126316,
+                        56.942397
+                  ]
+            },
+            {
+                  "name": "Bloka muiža",
+                  "text": "A Neoclassical manor house in Riga, notable for its historic wooden architecture.",
+                  "category": "historical",
+                  "coords": [
+                        24.089631,
+                        56.926057
+                  ]
+            },
+            {
+                  "name": "Švarcmuiža",
+                  "text": "A historic manor house in the Pārdaugava district, reflecting the early suburban development of Riga.",
+                  "category": "historical",
+                  "coords": [
+                        24.07679,
+                        56.948007
+                  ]
+            },
+            {
+                  "name": "Hāmaņa muiža",
+                  "text": "A protected wooden manor house that is part of the architectural heritage on the left bank of the Daugava.",
+                  "category": "historical",
+                  "coords": [
+                        24.065437,
+                        56.950535
+                  ]
+            },
+            {
+                  "name": "Swedish Gate",
+                  "text": "The only remaining city gate of Riga's former fortifications, located in the picturesque Old Town.",
+                  "category": "fortress",
+                  "coords": [
+                        24.106378,
+                        56.951445
+                  ]
+            },
+            {
+                  "name": "Latvian National Opera and Ballet",
+                  "text": "The magnificent opera house in Riga is the cultural hub for world-class opera and ballet performances.",
+                  "category": "cultural",
+                  "coords": [
+                        24.114385,
+                        56.949287
+                  ]
+            },
+            {
+                  "name": "Latvian National Theatre",
+                  "text": "A prominent theatre building where the independence of Latvia was proclaimed in 1918.",
+                  "category": "cultural",
+                  "coords": [
+                        24.104724,
+                        56.953753
+                  ]
+            },
+            {
+                  "name": "Riga Circus",
+                  "text": "One of the oldest circus buildings in Europe, currently used for a variety of cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        24.119274,
+                        56.949444
+                  ]
+            },
+            {
+                  "name": "Great Guild",
+                  "text": "A historic building in the Old Town that once housed the merchant guild and now serves as a concert hall.",
+                  "category": "cultural",
+                  "coords": [
+                        24.10799,
+                        56.949824
+                  ]
+            },
+            {
+                  "name": "Torņakalna baznīca",
+                  "text": "A prominent Lutheran church in the Torņakalns district, known for its Neo-Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.087176,
+                        56.928715
+                  ]
+            },
+            {
+                  "name": "Rīgas Jaunā Svētās Ģertrūdes baznīca",
+                  "text": "An impressive Neo-Gothic church in Riga, standing out with its distinctive red-brick architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.136464,
+                        56.963036
+                  ]
+            },
+            {
+                  "name": "Svētā Pētera un Pāvila baznīca",
+                  "text": "A historic church in the Citadel area of Riga, currently used for cultural purposes and concerts.",
+                  "category": "religious",
+                  "coords": [
+                        24.101267,
+                        56.955082
+                  ]
+            },
+            {
+                  "name": "Kristus Piedzimšanas pareizticīgo katedrāle",
+                  "text": "The largest Orthodox cathedral in Riga, a magnificent example of Neo-Byzantine architecture in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        24.115613,
+                        56.953919
+                  ]
+            },
+            {
+                  "name": "Jēzus baznīca",
+                  "text": "A monumental wooden building of Neoclassicism in Riga and the largest wooden church in Latvia.",
+                  "category": "religious",
+                  "coords": [
+                        24.123566,
+                        56.941576
+                  ]
+            },
+            {
+                  "name": "Svētā Pāvila baznīca",
+                  "text": "A Lutheran church in the Grīziņkalns neighborhood, serving as an important local landmark.",
+                  "category": "religious",
+                  "coords": [
+                        24.149298,
+                        56.954134
+                  ]
+            },
+            {
+                  "name": "Svētā labticīgā Aleksandra Ņevska pareizticīgo baznīca",
+                  "text": "This small but ornately decorated wooden church in central Riga is a significant testament to Orthodox tradition.",
+                  "category": "religious",
+                  "coords": [
+                        24.121377,
+                        56.956031
+                  ]
+            },
+            {
+                  "name": "Kristus Evanģēliski luteriskā baznīca",
+                  "text": "A Lutheran church in Riga, serving the local community as a place of worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        24.137407,
+                        56.968789
+                  ]
+            },
+            {
+                  "name": "Svētā Jāzepa katoļu baznīca",
+                  "text": "A Catholic church in Riga, notable for its modest architecture and importance to the local parish.",
+                  "category": "religious",
+                  "coords": [
+                        24.068051,
+                        56.96306
+                  ]
+            },
+            {
+                  "name": "Vecā Ģertrūdes baznīca",
+                  "text": "An iconic Neo-Gothic church in Riga, forming a prominent part of the city's architectural skyline.",
+                  "category": "religious",
+                  "coords": [
+                        24.121663,
+                        56.957956
+                  ]
+            },
+            {
+                  "name": "Rīgas Svētā Franciska Romas katoļu baznīca",
+                  "text": "A Catholic church in the Maskavas forštate district, known for its characteristic brick architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.136704,
+                        56.944376
+                  ]
+            },
+            {
+                  "name": "Annunciation of Our Most Holy Lady Church",
+                  "text": "An Orthodox church in Riga, acting as an important spiritual center for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        24.123065,
+                        56.94397
+                  ]
+            },
+            {
+                  "name": "Reformed Church of Riga",
+                  "text": "The former Reformed Church in Riga's Old Town is a historic building with a diverse past.",
+                  "category": "religious",
+                  "coords": [
+                        24.110371,
+                        56.946418
+                  ]
+            },
+            {
+                  "name": "St. John's Church",
+                  "text": "One of the oldest churches in Riga, known for its distinctive stepped gable and Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.110614,
+                        56.947625
+                  ]
+            },
+            {
+                  "name": "Anglikāņu baznīca",
+                  "text": "A distinctive red-brick Anglican church located right on the banks of the Daugava in the Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        24.101925,
+                        56.949764
+                  ]
+            },
+            {
+                  "name": "Rīgas Mārtiņa Evaņģēliski luteriskā baznīca",
+                  "text": "A Lutheran church in the Pārdaugava district, playing an important role in the local religious community.",
+                  "category": "religious",
+                  "coords": [
+                        24.071889,
+                        56.950237
+                  ]
+            },
+            {
+                  "name": "Laima Clock",
+                  "text": "A famous clock near the Freedom Monument, serving as a popular meeting point in Riga for decades.",
+                  "category": "landmark",
+                  "coords": [
+                        24.11198,
+                        56.950442
+                  ]
+            },
+            {
+                  "name": "House of the Black Heads",
+                  "text": "A magnificently reconstructed building in the Old Town, formerly used for meetings of unmarried merchants.",
+                  "category": "landmark",
+                  "coords": [
+                        24.106821,
+                        56.947136
+                  ]
+            },
+            {
+                  "name": "Vanšu Bridge",
+                  "text": "An impressive cable-stayed bridge spanning the Daugava River and connecting two major parts of Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.095849,
+                        56.95124
+                  ]
+            },
+            {
+                  "name": "Central Market",
+                  "text": "One of the largest and most visited markets in Europe, housed in former Zeppelin hangars.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116656,
+                        56.943938
+                  ]
+            },
+            {
+                  "name": "Stone Bridge",
+                  "text": "This central bridge over the Daugava connects the historical Old Town with modern districts on the left bank.",
+                  "category": "landmark",
+                  "coords": [
+                        24.101231,
+                        56.944649
+                  ]
+            },
+            {
+                  "name": "Berga bazārs",
+                  "text": "A historic shopping area in Riga featuring charming passages, shops, and cafes.",
+                  "category": "landmark",
+                  "coords": [
+                        24.122826,
+                        56.950374
+                  ]
+            },
+            {
+                  "name": "Dzelzceļa tilts",
+                  "text": "An important railway connection over the Daugava River, essential for transport in the Latvian capital.",
+                  "category": "landmark",
+                  "coords": [
+                        24.105081,
+                        56.941503
+                  ]
+            },
+            {
+                  "name": "Āgenskalna tirgus",
+                  "text": "A popular local marketplace in Riga, known for its selection of fresh food and regional products.",
+                  "category": "landmark",
+                  "coords": [
+                        24.072422,
+                        56.935962
+                  ]
+            },
+            {
+                  "name": "Āgenskalna televīzijas tornis",
+                  "text": "A prominent tower in the Āgenskalns district, previously used for television broadcasting.",
+                  "category": "tower",
+                  "coords": [
+                        24.072252,
+                        56.936922
+                  ]
+            },
+            {
+                  "name": "Dzegužkalns",
+                  "text": "The highest hill in Riga features a lovely park and is a popular spot for walks and local celebrations.",
+                  "category": "natural",
+                  "coords": [
+                        24.06956,
+                        56.962261
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [24.1052, 56.9496],
@@ -124,7 +2041,448 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-jurmala",
+    id: "lv-jurmala", "sights": {
+      "de": [
+            {
+                  "name": "Raiņa un Aspazijas vasarnīca",
+                  "text": "Das Sommerhaus der lettischen Dichter Rainis und Aspazija dient heute als Gedenkmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        23.80801,
+                        56.975936
+                  ]
+            },
+            {
+                  "name": "Aspazijas māja",
+                  "text": "Ein Museum in Jūrmala, das dem Leben und Werk der Dichterin Aspazija gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.78133,
+                        56.971492
+                  ]
+            },
+            {
+                  "name": "Dzintaru koncertzāle",
+                  "text": "Die berühmteste Konzerthalle Lettlands in Jūrmala ist für ihre hervorragende Akustik bekannt.",
+                  "category": "cultural",
+                  "coords": [
+                        23.812012,
+                        56.97789
+                  ]
+            },
+            {
+                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
+                  "text": "Ein Naturschutzgebiet an der Mündung der Lielupe mit geschützten Wiesen und Pflanzenarten.",
+                  "category": "natural",
+                  "coords": [
+                        23.778933,
+                        56.95192
+                  ]
+            },
+            {
+                  "name": "Latvenergo Energoefektivitātes centrs",
+                  "text": "Dieses Informationszentrum in Jūrmala widmet sich der Aufklärung über effiziente Energienutzung.",
+                  "category": "museum",
+                  "coords": [
+                        23.789502,
+                        56.972047
+                  ]
+            },
+            {
+                  "name": "Jūrmalas pilsētas muzejs",
+                  "text": "Das Stadtmuseum zeigt die Geschichte des Kurortes Jūrmala und zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        23.801411,
+                        56.971207
+                  ]
+            },
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "Ein beliebter Sandstrand in Jūrmala, ideal für lange Spaziergänge am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            },
+            {
+                  "name": "Mākslas stacija \"Dubulti\"",
+                  "text": "Eine einzigartige Kunstgalerie, die sich im historischen Bahnhofsgebäude von Dubulti befindet.",
+                  "category": "museum",
+                  "coords": [
+                        23.776144,
+                        56.969666
+                  ]
+            },
+            {
+                  "name": "Inner Light Art Gallery",
+                  "text": "Diese Galerie in Jūrmala präsentiert faszinierende fluoreszierende Gemälde unter speziellem Licht.",
+                  "category": "museum",
+                  "coords": [
+                        23.798436,
+                        56.973521
+                  ]
+            },
+            {
+                  "name": "Piemineklis Mihailam Zadornovam",
+                  "text": "Ein Denkmal in Jūrmala, das dem bekannten russischen Satiriker Mikhail Zadorny gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.762321,
+                        56.960443
+                  ]
+            },
+            {
+                  "name": "Raiņa sēta",
+                  "text": "Ein historisches Anwesen in Jūrmala, das mit dem Leben des lettischen Nationaldichters Rainis verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.745109,
+                        56.963115
+                  ]
+            },
+            {
+                  "name": "Dubultu evanģēliski luteriskā baznīca",
+                  "text": "Diese lutherische Kirche in Jūrmala ist ein markantes Beispiel für die Architektur des frühen 20. Jahrhunderts.",
+                  "category": "religious",
+                  "coords": [
+                        23.773727,
+                        56.969585
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raiņa un Aspazijas vasarnīca",
+                  "text": "Rainis és Aspazija lett költők nyaralója ma emlékmúzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        23.80801,
+                        56.975936
+                  ]
+            },
+            {
+                  "name": "Aspazijas māja",
+                  "text": "Jūrmalai múzeum, amelyet Aspazija költőnő életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        23.78133,
+                        56.971492
+                  ]
+            },
+            {
+                  "name": "Dzintaru koncertzāle",
+                  "text": "Lettország leghíresebb koncertterme Jūrmalában, amely kiváló akusztikájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        23.812012,
+                        56.97789
+                  ]
+            },
+            {
+                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
+                  "text": "Természetvédelmi terület a Lielupe torkolatánál, védett rétekkel és növényfajokkal.",
+                  "category": "natural",
+                  "coords": [
+                        23.778933,
+                        56.95192
+                  ]
+            },
+            {
+                  "name": "Latvenergo Energoefektivitātes centrs",
+                  "text": "Ez a jūrmalai információs központ a hatékony energiafelhasználással kapcsolatos oktatásnak szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        23.789502,
+                        56.972047
+                  ]
+            },
+            {
+                  "name": "Jūrmalas pilsētas muzejs",
+                  "text": "A városi múzeum Jūrmala üdülőváros történetét és kortárs művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.801411,
+                        56.971207
+                  ]
+            },
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "Népszerű homokos strand Jūrmalában, amely ideális a hosszú tengerparti sétákhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            },
+            {
+                  "name": "Mākslas stacija \"Dubulti\"",
+                  "text": "Egyedülálló művészeti galéria, amely Dubulti történelmi vasútállomásának épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        23.776144,
+                        56.969666
+                  ]
+            },
+            {
+                  "name": "Inner Light Art Gallery",
+                  "text": "Ez a jūrmalai galéria különleges megvilágítású, lenyűgöző fluoreszkáló festményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.798436,
+                        56.973521
+                  ]
+            },
+            {
+                  "name": "Piemineklis Mihailam Zadornovam",
+                  "text": "Jūrmalai emlékmű, amelyet a jól ismert orosz szatirikusról, Mihail Zadornijról neveztek el.",
+                  "category": "historical",
+                  "coords": [
+                        23.762321,
+                        56.960443
+                  ]
+            },
+            {
+                  "name": "Raiņa sēta",
+                  "text": "Történelmi birtok Jūrmalában, amely Rainis lett nemzeti költő életéhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        23.745109,
+                        56.963115
+                  ]
+            },
+            {
+                  "name": "Dubultu evanģēliski luteriskā baznīca",
+                  "text": "Ez a jūrmalai evangélikus templom a 20. század eleji építészet egyik kiemelkedő példája.",
+                  "category": "religious",
+                  "coords": [
+                        23.773727,
+                        56.969585
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raiņa un Aspazijas vasarnīca",
+                  "text": "Casa de vară a poeților letoni Rainis și Aspazija servește astăzi ca muzeu memorial.",
+                  "category": "museum",
+                  "coords": [
+                        23.80801,
+                        56.975936
+                  ]
+            },
+            {
+                  "name": "Aspazijas māja",
+                  "text": "Un muzeu din Jūrmala dedicat vieții și operei poetei Aspazija.",
+                  "category": "museum",
+                  "coords": [
+                        23.78133,
+                        56.971492
+                  ]
+            },
+            {
+                  "name": "Dzintaru koncertzāle",
+                  "text": "Cea mai faimoasă sală de concerte din Letonia, situată în Jūrmala, este cunoscută pentru acustica sa excelentă.",
+                  "category": "cultural",
+                  "coords": [
+                        23.812012,
+                        56.97789
+                  ]
+            },
+            {
+                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
+                  "text": "O rezervație naturală la gura de vărsare a râului Lielupe, cu pajiști și specii de plante protejate.",
+                  "category": "natural",
+                  "coords": [
+                        23.778933,
+                        56.95192
+                  ]
+            },
+            {
+                  "name": "Latvenergo Energoefektivitātes centrs",
+                  "text": "Acest centru de informare din Jūrmala este dedicat educației privind utilizarea eficientă a energiei.",
+                  "category": "museum",
+                  "coords": [
+                        23.789502,
+                        56.972047
+                  ]
+            },
+            {
+                  "name": "Jūrmalas pilsētas muzejs",
+                  "text": "Muzeul orașului prezintă istoria stațiunii Jūrmala și artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        23.801411,
+                        56.971207
+                  ]
+            },
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "O plajă de nisip populară în Jūrmala, ideală pentru plimbări lungi pe malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            },
+            {
+                  "name": "Mākslas stacija \"Dubulti\"",
+                  "text": "O galerie de artă unică, situată în clădirea istorică a gării din Dubulti.",
+                  "category": "museum",
+                  "coords": [
+                        23.776144,
+                        56.969666
+                  ]
+            },
+            {
+                  "name": "Inner Light Art Gallery",
+                  "text": "Această galerie din Jūrmala prezintă picturi fluorescente fascinante sub lumină specială.",
+                  "category": "museum",
+                  "coords": [
+                        23.798436,
+                        56.973521
+                  ]
+            },
+            {
+                  "name": "Piemineklis Mihailam Zadornovam",
+                  "text": "Un monument din Jūrmala dedicat cunoscutului satiric rus Mihail Zadornîi.",
+                  "category": "historical",
+                  "coords": [
+                        23.762321,
+                        56.960443
+                  ]
+            },
+            {
+                  "name": "Raiņa sēta",
+                  "text": "O proprietate istorică din Jūrmala legată de viața poetului național leton Rainis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.745109,
+                        56.963115
+                  ]
+            },
+            {
+                  "name": "Dubultu evanģēliski luteriskā baznīca",
+                  "text": "Această biserică luterană din Jūrmala este un exemplu proeminent al arhitecturii de la începutul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        23.773727,
+                        56.969585
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raiņa un Aspazijas vasarnīca",
+                  "text": "The summer house of Latvian poets Rainis and Aspazija now serves as a memorial museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.80801,
+                        56.975936
+                  ]
+            },
+            {
+                  "name": "Aspazijas māja",
+                  "text": "A museum in Jūrmala dedicated to the life and work of the poetess Aspazija.",
+                  "category": "museum",
+                  "coords": [
+                        23.78133,
+                        56.971492
+                  ]
+            },
+            {
+                  "name": "Dzintaru koncertzāle",
+                  "text": "Latvia's most famous concert hall in Jūrmala is known for its excellent acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        23.812012,
+                        56.97789
+                  ]
+            },
+            {
+                  "name": "Dabas liegums \"Lielupes grīvas pļavas\"",
+                  "text": "A nature reserve at the mouth of the Lielupe River with protected meadows and plant species.",
+                  "category": "natural",
+                  "coords": [
+                        23.778933,
+                        56.95192
+                  ]
+            },
+            {
+                  "name": "Latvenergo Energoefektivitātes centrs",
+                  "text": "This information center in Jūrmala is dedicated to education on efficient energy use.",
+                  "category": "museum",
+                  "coords": [
+                        23.789502,
+                        56.972047
+                  ]
+            },
+            {
+                  "name": "Jurmala city museum",
+                  "text": "The city museum showcases the history of the resort town Jūrmala and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        23.801411,
+                        56.971207
+                  ]
+            },
+            {
+                  "name": "Mellužu pludmale",
+                  "text": "A popular sandy beach in Jūrmala, ideal for long walks by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        23.712213,
+                        56.965249
+                  ]
+            },
+            {
+                  "name": "Mākslas stacija \"Dubulti\"",
+                  "text": "A unique art gallery located within the historic Dubulti railway station building.",
+                  "category": "museum",
+                  "coords": [
+                        23.776144,
+                        56.969666
+                  ]
+            },
+            {
+                  "name": "Inner Light Art Gallery",
+                  "text": "This gallery in Jūrmala presents fascinating fluorescent paintings under special lighting.",
+                  "category": "museum",
+                  "coords": [
+                        23.798436,
+                        56.973521
+                  ]
+            },
+            {
+                  "name": "Monument to Mikhail Zadorny",
+                  "text": "A monument in Jūrmala dedicated to the well-known Russian satirist Mikhail Zadorny.",
+                  "category": "historical",
+                  "coords": [
+                        23.762321,
+                        56.960443
+                  ]
+            },
+            {
+                  "name": "Raiņa sēta",
+                  "text": "A historic property in Jūrmala associated with the life of the Latvian national poet Rainis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.745109,
+                        56.963115
+                  ]
+            },
+            {
+                  "name": "Dubultu evanģēliski luteriskā baznīca",
+                  "text": "This Lutheran church in Jūrmala is a prominent example of early 20th-century architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.773727,
+                        56.969585
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [23.7704, 56.9680],
@@ -173,7 +2531,1204 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-sigulda",
+    id: "lv-sigulda", "sights": {
+      "de": [
+            {
+                  "name": "Die mittelalterliche Burg von Sigulda",
+                  "text": "Die Ruinen einer livländischen Burg aus dem 13. Jahrhundert, die über dem Gauja-Tal thronen.",
+                  "category": "castle",
+                  "coords": [
+                        24.849273,
+                        57.166623
+                  ]
+            },
+            {
+                  "name": "Burgruine Krimulda",
+                  "text": "Mittelalterliche Burgruinen in Krimulda, die einen weiten Blick auf das Gauja-Flusstal bieten.",
+                  "category": "castle",
+                  "coords": [
+                        24.832307,
+                        57.170859
+                  ]
+            },
+            {
+                  "name": "Satezeles pilskalns",
+                  "text": "Eine archäologische Stätte in Sigulda, die den Ort einer alten lettischen Wallburg markiert.",
+                  "category": "historical",
+                  "coords": [
+                        24.870701,
+                        57.171613
+                  ]
+            },
+            {
+                  "name": "Vikmestes pilskalns",
+                  "text": "Ein historischer Burgberg in Sigulda mit Überresten antiker Befestigungsanlagen im Nationalpark.",
+                  "category": "historical",
+                  "coords": [
+                        24.828723,
+                        57.175793
+                  ]
+            },
+            {
+                  "name": "Turaidas Rata kakts",
+                  "text": "Ein bedeutender archäologischer Ort in der Nähe von Turaida mit Spuren früher Besiedlung.",
+                  "category": "historical",
+                  "coords": [
+                        24.83722,
+                        57.17305
+                  ]
+            },
+            {
+                  "name": "Krusta kalna pilskalns",
+                  "text": "Ein alter Burgberg, der Einblicke in die frühe Geschichte der Region Sigulda bietet.",
+                  "category": "historical",
+                  "coords": [
+                        24.848331,
+                        57.167754
+                  ]
+            },
+            {
+                  "name": "Nurmižu gravu rezervāts",
+                  "text": "Ein Naturschutzgebiet mit tiefen Schluchten und einer reichen Vielfalt an Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        24.903222,
+                        57.194381
+                  ]
+            },
+            {
+                  "name": "Gaujas plostnieku stāsts",
+                  "text": "Ein Museum in Sigulda, das die Traditionen und das Leben der Flößer auf dem Fluss Gauja zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.836454,
+                        57.158679
+                  ]
+            },
+            {
+                  "name": "Siguldas pludmale",
+                  "text": "Ein Erholungsgebiet am Ufer der Gauja, das im Sommer zum Schwimmen und Sonnenbaden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            },
+            {
+                  "name": "Gūtmaņa ala",
+                  "text": "Die größte Grotte im Baltikum, bekannt für ihre historischen Wandinscriptions und Legenden.",
+                  "category": "natural",
+                  "coords": [
+                        24.84236,
+                        57.176197
+                  ]
+            },
+            {
+                  "name": "Siguldas Jaunā pils",
+                  "text": "Ein Herrenhaus aus dem 19. Jahrhundert, das als Neues Schloss Sigulda bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.850132,
+                        57.16555
+                  ]
+            },
+            {
+                  "name": "Ķeizarskats",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über das Gauja-Tal, benannt nach einem kaiserlichen Besuch.",
+                  "category": "natural",
+                  "coords": [
+                        24.81779,
+                        57.142941
+                  ]
+            },
+            {
+                  "name": "Siguldas panorāmas rats",
+                  "text": "Ein Riesenrad in Sigulda, das Besuchern einen Blick aus der Vogelperspektive auf die Umgebung ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        24.843564,
+                        57.16223
+                  ]
+            },
+            {
+                  "name": "Kraukļu aiza",
+                  "text": "Eine enge Sandsteinschlucht in Sigulda, die Teil eines beliebten Wanderwegs ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.867386,
+                        57.173981
+                  ]
+            },
+            {
+                  "name": "skats uz Velnalu",
+                  "text": "Ein Aussichtspunkt, der einen Blick auf die legendäre Teufelshöhle (Velnala) im Gauja-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.811872,
+                        57.149799
+                  ]
+            },
+            {
+                  "name": "Ķeizarkrēsls",
+                  "text": "Ein historischer Aussichtspunkt in Sigulda, markiert durch einen steinernen Thron.",
+                  "category": "landmark",
+                  "coords": [
+                        24.823627,
+                        57.142742
+                  ]
+            },
+            {
+                  "name": "Saltavots",
+                  "text": "Eine natürliche Quelle in Sigulda, die für ihr klares und mineralreiches Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850724,
+                        57.131348
+                  ]
+            },
+            {
+                  "name": "Krimuldas muiža",
+                  "text": "Ein elegantes Herrenhaus in Krimulda, das für seine Architektur und seinen Gesundheitstourismus bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.829355,
+                        57.16791
+                  ]
+            },
+            {
+                  "name": "Ziediņkalns",
+                  "text": "Ein malerischer Aussichtspunkt in Sigulda, der weite Ausblicke auf die bewaldete Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.842631,
+                        57.161056
+                  ]
+            },
+            {
+                  "name": "Satezeles kanjons",
+                  "text": "Ein markanter Canyon in der Nähe von Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.868609,
+                        57.171783
+                  ]
+            },
+            {
+                  "name": "Skats uz Gaujas senleju",
+                  "text": "Ein Aussichtspunkt mit Blick auf das Gauja-Urtal.",
+                  "category": "natural",
+                  "coords": [
+                        24.839022,
+                        57.149335
+                  ]
+            },
+            {
+                  "name": "Bungee jumping",
+                  "text": "Ein Ort für Bungee-Jumping in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.845736,
+                        57.164547
+                  ]
+            },
+            {
+                  "name": "Dzintaru darbnīca",
+                  "text": "Eine Bernsteinerwerkstatt in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850758,
+                        57.149877
+                  ]
+            },
+            {
+                  "name": "Paradīzes kalns",
+                  "text": "Ein Hügel mit herrlicher Aussicht auf das Tal.",
+                  "category": "natural",
+                  "coords": [
+                        24.86574,
+                        57.175034
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Baltais Flīģelis\"",
+                  "text": "Ein Kultur- und Konzerthaus in Sigulda.",
+                  "category": "cultural",
+                  "coords": [
+                        24.844732,
+                        57.153154
+                  ]
+            },
+            {
+                  "name": "Mīlas Beka",
+                  "text": "Ein malerischer Aussichtspunkt in Sigulda.",
+                  "category": "natural",
+                  "coords": [
+                        24.841454,
+                        57.163714
+                  ]
+            },
+            {
+                  "name": "Piedzīvojumu parks „Mežakaķis”",
+                  "text": "Ein Abenteuerpark mit Kletterparcours.",
+                  "category": "landmark",
+                  "coords": [
+                        24.8291,
+                        57.143582
+                  ]
+            },
+            {
+                  "name": "bijušais tramplīns",
+                  "text": "Der Standort einer ehemaligen Skisprungschanze.",
+                  "category": "landmark",
+                  "coords": [
+                        24.870748,
+                        57.176293
+                  ]
+            },
+            {
+                  "name": "Lindes atteka",
+                  "text": "Ein naturnaher Ort am Ufer der Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.832379,
+                        57.148774
+                  ]
+            },
+            {
+                  "name": "Kājnieku tilts",
+                  "text": "Eine Fußgängerbrücke über den Fluss Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.807073,
+                        57.149147
+                  ]
+            },
+            {
+                  "name": "Komplex neue Burg von Sigulda",
+                  "text": "Ein historischer Schlosskomplex in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.851292,
+                        57.165255
+                  ]
+            },
+            {
+                  "name": "Mežakaķis",
+                  "text": "Ein Wald-Abenteuerpark in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.828482,
+                        57.144959
+                  ]
+            },
+            {
+                  "name": "Siguldas Katoļu baznīca",
+                  "text": "Eine katholische Kirche in Sigulda.",
+                  "category": "religious",
+                  "coords": [
+                        24.857003,
+                        57.150919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Siguldas viduslaiku pils",
+                  "text": "Egy 13. századi livóniai lovagrendi vár romjai, amelyek a Gauja-völgy felett magasodnak.",
+                  "category": "castle",
+                  "coords": [
+                        24.849273,
+                        57.166623
+                  ]
+            },
+            {
+                  "name": "Krimuldas pilsdrupas",
+                  "text": "Középkori várromok Krimuldában, amelyek tágas kilátást nyújtanak a Gauja folyó völgyére.",
+                  "category": "castle",
+                  "coords": [
+                        24.832307,
+                        57.170859
+                  ]
+            },
+            {
+                  "name": "Satezeles pilskalns",
+                  "text": "Régészeti helyszín Siguldában, amely egy ősi lett földvár helyét jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        24.870701,
+                        57.171613
+                  ]
+            },
+            {
+                  "name": "Vikmestes pilskalns",
+                  "text": "Történelmi várhegy Siguldában, ókori erődítmények maradványaival a nemzeti park területén.",
+                  "category": "historical",
+                  "coords": [
+                        24.828723,
+                        57.175793
+                  ]
+            },
+            {
+                  "name": "Turaidas Rata kakts",
+                  "text": "Jelentős régészeti lelőhely Turaida közelében, korai településnyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        24.83722,
+                        57.17305
+                  ]
+            },
+            {
+                  "name": "Krusta kalna pilskalns",
+                  "text": "Ősi várhegy, amely betekintést nyújt Sigulda régiójának korai történelmébe.",
+                  "category": "historical",
+                  "coords": [
+                        24.848331,
+                        57.167754
+                  ]
+            },
+            {
+                  "name": "Nurmižu gravu rezervāts",
+                  "text": "Természetvédelmi terület mély szurdokokkal, valamint gazdag növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        24.903222,
+                        57.194381
+                  ]
+            },
+            {
+                  "name": "Gaujas plostnieku stāsts",
+                  "text": "Siguldai múzeum, amely a Gauja folyón dolgozó tutajosok hagyományait és életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.836454,
+                        57.158679
+                  ]
+            },
+            {
+                  "name": "Siguldas pludmale",
+                  "text": "Pihenőhely a Gauja partján, amely nyáron úszásra és napozásra invitál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            },
+            {
+                  "name": "Gūtmaņa ala",
+                  "text": "A Baltikum legnagyobb barlangja, amely történelmi falfeliratairól és legendáiról híres.",
+                  "category": "natural",
+                  "coords": [
+                        24.84236,
+                        57.176197
+                  ]
+            },
+            {
+                  "name": "Siguldas Jaunā pils",
+                  "text": "19. századi udvarház, amely Siguldai Új Kastélyként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        24.850132,
+                        57.16555
+                  ]
+            },
+            {
+                  "name": "Ķeizarskats",
+                  "text": "Kilátóhely tágas kilátással a Gauja-völgyre, amelyet egy császári látogatásról neveztek el.",
+                  "category": "natural",
+                  "coords": [
+                        24.81779,
+                        57.142941
+                  ]
+            },
+            {
+                  "name": "Siguldas panorāmas rats",
+                  "text": "Óriáskerék Siguldában, amely madártávlatból kínál kilátást a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        24.843564,
+                        57.16223
+                  ]
+            },
+            {
+                  "name": "Kraukļu aiza",
+                  "text": "Szűk homokkő-szurdok Siguldában, amely egy népszerű túraútvonal része.",
+                  "category": "landmark",
+                  "coords": [
+                        24.867386,
+                        57.173981
+                  ]
+            },
+            {
+                  "name": "skats uz Velnalu",
+                  "text": "Kilátóhely, amely rálátást biztosít a Gauja-völgyben található legendás Ördög-barlangra (Velnala).",
+                  "category": "natural",
+                  "coords": [
+                        24.811872,
+                        57.149799
+                  ]
+            },
+            {
+                  "name": "Ķeizarkrēsls",
+                  "text": "Történelmi kilátóhely Siguldában, amelyet egy kőszék jelöl.",
+                  "category": "landmark",
+                  "coords": [
+                        24.823627,
+                        57.142742
+                  ]
+            },
+            {
+                  "name": "Saltavots",
+                  "text": "Természetes forrás Siguldában, amely tiszta és ásványi anyagokban gazdag vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850724,
+                        57.131348
+                  ]
+            },
+            {
+                  "name": "Krimuldas muiža",
+                  "text": "Elegáns udvarház Krimuldában, amely építészetéről és egészségturizmusáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        24.829355,
+                        57.16791
+                  ]
+            },
+            {
+                  "name": "Ziediņkalns",
+                  "text": "Gleccservölgyi kilátó Siguldában, amely tágas rálátást biztosít az erdős tájra.",
+                  "category": "natural",
+                  "coords": [
+                        24.842631,
+                        57.161056
+                  ]
+            },
+            {
+                  "name": "Satezeles kanjons",
+                  "text": "Egy látványos kanyon Sigulda közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.868609,
+                        57.171783
+                  ]
+            },
+            {
+                  "name": "Skats uz Gaujas senleju",
+                  "text": "Kilátópont, ahonnan panoráma nyílik a Gauja-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        24.839022,
+                        57.149335
+                  ]
+            },
+            {
+                  "name": "Bungee jumping",
+                  "text": "Bungee jumping helyszín Siguldában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.845736,
+                        57.164547
+                  ]
+            },
+            {
+                  "name": "Dzintaru darbnīca",
+                  "text": "Borostyánműhely Siguldában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850758,
+                        57.149877
+                  ]
+            },
+            {
+                  "name": "Paradīzes kalns",
+                  "text": "Domb, ahonnan gyönyörű kilátás nyílik a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        24.86574,
+                        57.175034
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Baltais Flīģelis\"",
+                  "text": "Kulturális központ és koncertterem Siguldában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.844732,
+                        57.153154
+                  ]
+            },
+            {
+                  "name": "Mīlas Beka",
+                  "text": "Gleccserhordalékos kilátóhely Siguldában.",
+                  "category": "natural",
+                  "coords": [
+                        24.841454,
+                        57.163714
+                  ]
+            },
+            {
+                  "name": "Piedzīvojumu parks „Mežakaķis”",
+                  "text": "Kalandpark kötélpályákkal Siguldában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.8291,
+                        57.143582
+                  ]
+            },
+            {
+                  "name": "bijušais tramplīns",
+                  "text": "Egy egykori síugró sánc helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        24.870748,
+                        57.176293
+                  ]
+            },
+            {
+                  "name": "Lindes atteka",
+                  "text": "Természetközeli hely a Gauja partján.",
+                  "category": "landmark",
+                  "coords": [
+                        24.832379,
+                        57.148774
+                  ]
+            },
+            {
+                  "name": "Kājnieku tilts",
+                  "text": "Gyalogoshíd a Gauja folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        24.807073,
+                        57.149147
+                  ]
+            },
+            {
+                  "name": "Siguldas Jaunās pils komplekss",
+                  "text": "Történelmi kastélyegyüttes Siguldában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.851292,
+                        57.165255
+                  ]
+            },
+            {
+                  "name": "Mežakaķis",
+                  "text": "Erdei kalandpark Siguldában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.828482,
+                        57.144959
+                  ]
+            },
+            {
+                  "name": "Siguldas Katoļu baznīca",
+                  "text": "Katolikus templom Siguldában.",
+                  "category": "religious",
+                  "coords": [
+                        24.857003,
+                        57.150919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Siguldas viduslaiku pils",
+                  "text": "Ruinele unui castel al Ordinului Livonian din secolul al XIII-lea, situat deasupra văii Gauja.",
+                  "category": "castle",
+                  "coords": [
+                        24.849273,
+                        57.166623
+                  ]
+            },
+            {
+                  "name": "Krimuldas pilsdrupas",
+                  "text": "Ruinele castelului medieval din Krimulda, care oferă o vedere largă asupra văii râului Gauja.",
+                  "category": "castle",
+                  "coords": [
+                        24.832307,
+                        57.170859
+                  ]
+            },
+            {
+                  "name": "Satezeles pilskalns",
+                  "text": "Un sit arheologic din Sigulda care marchează locul unei vechi cetăți letone.",
+                  "category": "historical",
+                  "coords": [
+                        24.870701,
+                        57.171613
+                  ]
+            },
+            {
+                  "name": "Vikmestes pilskalns",
+                  "text": "Un deal istoric al cetății din Sigulda, cu rămășițe ale fortificațiilor antice în parcul național.",
+                  "category": "historical",
+                  "coords": [
+                        24.828723,
+                        57.175793
+                  ]
+            },
+            {
+                  "name": "Turaidas Rata kakts",
+                  "text": "Un sit arheologic important lângă Turaida, cu urme de așezări timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        24.83722,
+                        57.17305
+                  ]
+            },
+            {
+                  "name": "Krusta kalna pilskalns",
+                  "text": "Un vechi deal al cetății care oferă perspective asupra istoriei timpurii a regiunii Sigulda.",
+                  "category": "historical",
+                  "coords": [
+                        24.848331,
+                        57.167754
+                  ]
+            },
+            {
+                  "name": "Nurmižu gravu rezervāts",
+                  "text": "O rezervație naturală cu defilee adânci și o mare diversitate de floră și faună.",
+                  "category": "natural",
+                  "coords": [
+                        24.903222,
+                        57.194381
+                  ]
+            },
+            {
+                  "name": "Gaujas plostnieku stāsts",
+                  "text": "Un muzeu din Sigulda care prezintă tradițiile și viața plutașilor de pe râul Gauja.",
+                  "category": "museum",
+                  "coords": [
+                        24.836454,
+                        57.158679
+                  ]
+            },
+            {
+                  "name": "Siguldas pludmale",
+                  "text": "O zonă de recreere pe malul râului Gauja, populară pentru înot și plajă în timpul verii.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            },
+            {
+                  "name": "Gūtmaņa ala",
+                  "text": "Cea mai mare grotă din Țările Baltice, faimoasă pentru inscripțiile sale istorice și legende.",
+                  "category": "natural",
+                  "coords": [
+                        24.84236,
+                        57.176197
+                  ]
+            },
+            {
+                  "name": "Siguldas Jaunā pils",
+                  "text": "Un conac din secolul al XIX-lea, cunoscut sub numele de Noul Castel din Sigulda.",
+                  "category": "historical",
+                  "coords": [
+                        24.850132,
+                        57.16555
+                  ]
+            },
+            {
+                  "name": "Ķeizarskats",
+                  "text": "Un punct de belvedere cu vedere largă asupra văii Gauja, numit după o vizită imperială.",
+                  "category": "natural",
+                  "coords": [
+                        24.81779,
+                        57.142941
+                  ]
+            },
+            {
+                  "name": "Siguldas panorāmas rats",
+                  "text": "O roată panoramică în Sigulda care oferă vizitatorilor o vedere de ansamblu asupra zonei înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        24.843564,
+                        57.16223
+                  ]
+            },
+            {
+                  "name": "Kraukļu aiza",
+                  "text": "Un defileu îngust de gresie în Sigulda, parte a unui traseu popular de drumeție.",
+                  "category": "landmark",
+                  "coords": [
+                        24.867386,
+                        57.173981
+                  ]
+            },
+            {
+                  "name": "skats uz Velnalu",
+                  "text": "Un punct de belvedere care oferă o vedere spre legendara Peșteră a Diavolului (Velnala) din valea Gauja.",
+                  "category": "natural",
+                  "coords": [
+                        24.811872,
+                        57.149799
+                  ]
+            },
+            {
+                  "name": "Ķeizarkrēsls",
+                  "text": "Un punct de belvedere istoric din Sigulda, marcat de un scaun de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        24.823627,
+                        57.142742
+                  ]
+            },
+            {
+                  "name": "Saltavots",
+                  "text": "Un izvor natural în Sigulda, cunoscut pentru apa sa limpede și bogată în minerale.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850724,
+                        57.131348
+                  ]
+            },
+            {
+                  "name": "Krimuldas muiža",
+                  "text": "Un conac elegant în Krimulda, cunoscut pentru arhitectura sa și turismul de sănătate.",
+                  "category": "historical",
+                  "coords": [
+                        24.829355,
+                        57.16791
+                  ]
+            },
+            {
+                  "name": "Ziediņkalns",
+                  "text": "Un punct de belvedere pitoresc în Sigulda, oferind vederi largi asupra peisajului împădurit.",
+                  "category": "natural",
+                  "coords": [
+                        24.842631,
+                        57.161056
+                  ]
+            },
+            {
+                  "name": "Satezeles kanjons",
+                  "text": "Un canyon spectaculos în apropiere de Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.868609,
+                        57.171783
+                  ]
+            },
+            {
+                  "name": "Skats uz Gaujas senleju",
+                  "text": "Un punct de observație cu vedere asupra văii Gauja.",
+                  "category": "natural",
+                  "coords": [
+                        24.839022,
+                        57.149335
+                  ]
+            },
+            {
+                  "name": "Bungee jumping",
+                  "text": "Locație pentru bungee jumping în Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.845736,
+                        57.164547
+                  ]
+            },
+            {
+                  "name": "Dzintaru darbnīca",
+                  "text": "Un atelier de chihlimbar în Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850758,
+                        57.149877
+                  ]
+            },
+            {
+                  "name": "Paradīzes kalns",
+                  "text": "Un deal cu o vedere pitorească asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        24.86574,
+                        57.175034
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Baltais Flīģelis\"",
+                  "text": "O sală de concerte și centru cultural în Sigulda.",
+                  "category": "cultural",
+                  "coords": [
+                        24.844732,
+                        57.153154
+                  ]
+            },
+            {
+                  "name": "Mīlas Beka",
+                  "text": "Un punct de observație pitoresc în Sigulda.",
+                  "category": "natural",
+                  "coords": [
+                        24.841454,
+                        57.163714
+                  ]
+            },
+            {
+                  "name": "Piedzīvojumu parks „Mežakaķis”",
+                  "text": "Un parc de aventură cu trasee de cățărare.",
+                  "category": "landmark",
+                  "coords": [
+                        24.8291,
+                        57.143582
+                  ]
+            },
+            {
+                  "name": "bijušais tramplīns",
+                  "text": "Locul unei foste trambuline de sărituri cu schiurile.",
+                  "category": "landmark",
+                  "coords": [
+                        24.870748,
+                        57.176293
+                  ]
+            },
+            {
+                  "name": "Lindes atteka",
+                  "text": "O locație naturală pe malul râului Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.832379,
+                        57.148774
+                  ]
+            },
+            {
+                  "name": "Kājnieku tilts",
+                  "text": "Un pod pietonal peste râul Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.807073,
+                        57.149147
+                  ]
+            },
+            {
+                  "name": "Siguldas Jaunās pils komplekss",
+                  "text": "Un complex istoric de castele în Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.851292,
+                        57.165255
+                  ]
+            },
+            {
+                  "name": "Mežakaķis",
+                  "text": "Un parc de aventură în pădure la Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.828482,
+                        57.144959
+                  ]
+            },
+            {
+                  "name": "Siguldas Katoļu baznīca",
+                  "text": "Biserica Catolică din Sigulda.",
+                  "category": "religious",
+                  "coords": [
+                        24.857003,
+                        57.150919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Siguldas viduslaiku pils",
+                  "text": "The ruins of a 13th-century Livonian Order castle perched above the Gauja Valley.",
+                  "category": "castle",
+                  "coords": [
+                        24.849273,
+                        57.166623
+                  ]
+            },
+            {
+                  "name": "Krimuldas castle",
+                  "text": "Medieval castle ruins in Krimulda offering wide views of the Gauja River valley.",
+                  "category": "castle",
+                  "coords": [
+                        24.832307,
+                        57.170859
+                  ]
+            },
+            {
+                  "name": "Satezeles pilskalns",
+                  "text": "An archaeological site in Sigulda marking the location of an ancient Latvian hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        24.870701,
+                        57.171613
+                  ]
+            },
+            {
+                  "name": "Vikmestes pilskalns",
+                  "text": "A historical hillfort in Sigulda with remains of ancient fortifications within the national park.",
+                  "category": "historical",
+                  "coords": [
+                        24.828723,
+                        57.175793
+                  ]
+            },
+            {
+                  "name": "Turaidas Rata kakts",
+                  "text": "A significant archaeological site near Turaida with traces of early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        24.83722,
+                        57.17305
+                  ]
+            },
+            {
+                  "name": "Krusta kalna pilskalns",
+                  "text": "An ancient hillfort providing insights into the early history of the Sigulda region.",
+                  "category": "historical",
+                  "coords": [
+                        24.848331,
+                        57.167754
+                  ]
+            },
+            {
+                  "name": "Nurmižu gravu rezervāts",
+                  "text": "A nature reserve featuring deep ravines and a rich diversity of flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        24.903222,
+                        57.194381
+                  ]
+            },
+            {
+                  "name": "Gaujas plostnieku stāsts",
+                  "text": "A museum in Sigulda showcasing the traditions and life of raftsmen on the Gauja River.",
+                  "category": "museum",
+                  "coords": [
+                        24.836454,
+                        57.158679
+                  ]
+            },
+            {
+                  "name": "Sigulda beach",
+                  "text": "A recreational area on the banks of the Gauja, popular for swimming and sunbathing in summer.",
+                  "category": "recreational",
+                  "coords": [
+                        24.835506,
+                        57.159787
+                  ]
+            },
+            {
+                  "name": "Gütmanis (Gutmann) Cave",
+                  "text": "The largest grotto in the Baltics, famous for its historic wall inscriptions and legends.",
+                  "category": "natural",
+                  "coords": [
+                        24.84236,
+                        57.176197
+                  ]
+            },
+            {
+                  "name": "Sigulda Castle",
+                  "text": "A 19th-century manor house known as the New Sigulda Castle.",
+                  "category": "historical",
+                  "coords": [
+                        24.850132,
+                        57.16555
+                  ]
+            },
+            {
+                  "name": "Ķeizarskats",
+                  "text": "A viewpoint offering wide vistas over the Gauja Valley, named after an imperial visit.",
+                  "category": "natural",
+                  "coords": [
+                        24.81779,
+                        57.142941
+                  ]
+            },
+            {
+                  "name": "Sigulda Ferris wheel",
+                  "text": "A Ferris wheel in Sigulda providing visitors with a bird's-eye view of the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        24.843564,
+                        57.16223
+                  ]
+            },
+            {
+                  "name": "Kraukļu aiza",
+                  "text": "A narrow sandstone ravine in Sigulda, part of a popular hiking trail.",
+                  "category": "landmark",
+                  "coords": [
+                        24.867386,
+                        57.173981
+                  ]
+            },
+            {
+                  "name": "skats uz Velnalu",
+                  "text": "A viewpoint providing a look at the legendary Devil's Cave (Velnala) in the Gauja Valley.",
+                  "category": "natural",
+                  "coords": [
+                        24.811872,
+                        57.149799
+                  ]
+            },
+            {
+                  "name": "Ķeizarkrēsls",
+                  "text": "A historical viewpoint in Sigulda marked by a stone chair.",
+                  "category": "landmark",
+                  "coords": [
+                        24.823627,
+                        57.142742
+                  ]
+            },
+            {
+                  "name": "Saltavots",
+                  "text": "A natural spring in Sigulda known for its clear and mineral-rich water.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850724,
+                        57.131348
+                  ]
+            },
+            {
+                  "name": "Krimuldas muiža",
+                  "text": "An elegant manor house in Krimulda known for its architecture and health tourism.",
+                  "category": "historical",
+                  "coords": [
+                        24.829355,
+                        57.16791
+                  ]
+            },
+            {
+                  "name": "Ziediņkalns",
+                  "text": "A scenic viewpoint in Sigulda offering wide vistas of the forested landscape.",
+                  "category": "natural",
+                  "coords": [
+                        24.842631,
+                        57.161056
+                  ]
+            },
+            {
+                  "name": "Satezeles kanjons",
+                  "text": "A scenic canyon located near Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.868609,
+                        57.171783
+                  ]
+            },
+            {
+                  "name": "Skats uz Gaujas senleju",
+                  "text": "A viewpoint offering panoramic views of the Gauja valley.",
+                  "category": "natural",
+                  "coords": [
+                        24.839022,
+                        57.149335
+                  ]
+            },
+            {
+                  "name": "Bungee jumping",
+                  "text": "A bungee jumping site in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.845736,
+                        57.164547
+                  ]
+            },
+            {
+                  "name": "Dzintaru darbnīca",
+                  "text": "An amber workshop in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.850758,
+                        57.149877
+                  ]
+            },
+            {
+                  "name": "Paradise hill",
+                  "text": "A hill offering scenic views of the Gauja valley.",
+                  "category": "natural",
+                  "coords": [
+                        24.86574,
+                        57.175034
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Baltais Flīģelis\"",
+                  "text": "A concert hall and arts centre in Sigulda.",
+                  "category": "cultural",
+                  "coords": [
+                        24.844732,
+                        57.153154
+                  ]
+            },
+            {
+                  "name": "Mīlas Beka",
+                  "text": "A scenic viewpoint in Sigulda.",
+                  "category": "natural",
+                  "coords": [
+                        24.841454,
+                        57.163714
+                  ]
+            },
+            {
+                  "name": "Piedzīvojumu parks „Mežakaķis”",
+                  "text": "An adventure park with rope courses.",
+                  "category": "landmark",
+                  "coords": [
+                        24.8291,
+                        57.143582
+                  ]
+            },
+            {
+                  "name": "bijušais tramplīns",
+                  "text": "The site of a former ski jump.",
+                  "category": "landmark",
+                  "coords": [
+                        24.870748,
+                        57.176293
+                  ]
+            },
+            {
+                  "name": "Lindes atteka",
+                  "text": "A natural site along the banks of the Gauja.",
+                  "category": "landmark",
+                  "coords": [
+                        24.832379,
+                        57.148774
+                  ]
+            },
+            {
+                  "name": "Kājnieku tilts",
+                  "text": "A pedestrian bridge over the Gauja river.",
+                  "category": "landmark",
+                  "coords": [
+                        24.807073,
+                        57.149147
+                  ]
+            },
+            {
+                  "name": "Complex of Sigulda New Castle",
+                  "text": "A historic castle complex in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.851292,
+                        57.165255
+                  ]
+            },
+            {
+                  "name": "Mežakaķis",
+                  "text": "A forest adventure park in Sigulda.",
+                  "category": "landmark",
+                  "coords": [
+                        24.828482,
+                        57.144959
+                  ]
+            },
+            {
+                  "name": "Siguldas Katoļu baznīca",
+                  "text": "A Catholic church in Sigulda.",
+                  "category": "religious",
+                  "coords": [
+                        24.857003,
+                        57.150919
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [24.8538, 57.1533],
@@ -271,7 +3826,736 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-liepaja",
+    id: "lv-liepaja", "sights": {
+      "de": [
+            {
+                  "name": "dabas liegums „Liepājas ezers”",
+                  "text": "Ein Naturschutzgebiet am Libauer See, das für seine reiche Vogelwelt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.056711,
+                        56.45358
+                  ]
+            },
+            {
+                  "name": "Liepājas teātris",
+                  "text": "Das älteste professionelle Theater Lettlands befindet sich im Herzen von Liepāja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.014823,
+                        56.509789
+                  ]
+            },
+            {
+                  "name": "Liepājas muzejs",
+                  "text": "Das Museum beherbergt eine umfangreiche Sammlung zur Geschichte und Kunst der Region Kurland.",
+                  "category": "museum",
+                  "coords": [
+                        21.00204,
+                        56.510825
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Libau",
+                  "text": "Dieser markante Leuchtturm in Liepāja ist ein wichtiges Wahrzeichen für die Schifffahrt an der Ostsee.",
+                  "category": "landmark",
+                  "coords": [
+                        20.99229,
+                        56.516788
+                  ]
+            },
+            {
+                  "name": "Liepājas Leļļu teātris",
+                  "text": "Ein professionelles Puppentheater in Liepāja, das Vorstellungen für Kinder und Familien anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        21.012389,
+                        56.507663
+                  ]
+            },
+            {
+                  "name": "Liepājas okupācijas muzejs",
+                  "text": "Dieses Museum dokumentiert die Zeit der sowjetischen und nationalsozialistischen Besatzung in Liepāja.",
+                  "category": "museum",
+                  "coords": [
+                        21.01073,
+                        56.502496
+                  ]
+            },
+            {
+                  "name": "Graudu ielas koncertzāle",
+                  "text": "Ein bedeutender Veranstaltungsort für Konzerte und kulturelle Events in der Graudu-Straße.",
+                  "category": "cultural",
+                  "coords": [
+                        21.008666,
+                        56.508359
+                  ]
+            },
+            {
+                  "name": "Hoijeres kundzes viesu nams",
+                  "text": "Ein restauriertes Gasthaus aus dem 17. Jahrhundert, das Einblicke in das historische Leben in Liepāja bietet.",
+                  "category": "museum",
+                  "coords": [
+                        21.015237,
+                        56.506178
+                  ]
+            },
+            {
+                  "name": "Koncertestrāde \"Pūt vējiņi\"",
+                  "text": "Eine legendäre Freilichtbühne in Liepāja, die für ihre Rockkonzerte und Festivals bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        20.994484,
+                        56.506462
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Ein Veranstaltungsort im Freien in Liepāja für verschiedene kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.007134,
+                        56.51345
+                  ]
+            },
+            {
+                  "name": "Lielais Dzintars",
+                  "text": "Die moderne Konzerthalle „Großer Bernstein“ ist ein architektonisches Highlight von Liepāja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.010572,
+                        56.511403
+                  ]
+            },
+            {
+                  "name": "Dienvidu forts",
+                  "text": "Teil der ehemaligen Seefestung von Liepāja, der heute als historisches Denkmal besichtigt werden kann.",
+                  "category": "fortress",
+                  "coords": [
+                        21.006035,
+                        56.478267
+                  ]
+            },
+            {
+                  "name": "Jāņa Čakstes laukums",
+                  "text": "Ein zentraler Platz in Liepāja, benannt nach dem ersten Präsidenten Lettlands, Jānis Čakste.",
+                  "category": "park",
+                  "coords": [
+                        21.005587,
+                        56.503551
+                  ]
+            },
+            {
+                  "name": "Piemineklis bojā gājušajiem jūrniekiem un zvejniekiem",
+                  "text": "Dieses Denkmal ehrt die Seeleute und Fischer, die auf See ihr Leben gelassen haben.",
+                  "category": "historical",
+                  "coords": [
+                        20.991408,
+                        56.509347
+                  ]
+            },
+            {
+                  "name": "Liepājas ezera laipa",
+                  "text": "Ein hölzerner Steg, der durch das Schilf des Libauer Sees führt und Naturbeobachtungen ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        21.027533,
+                        56.493846
+                  ]
+            },
+            {
+                  "name": "Putnu vērošanas tornis",
+                  "text": "Ein Aussichtsturm am Libauer See, der ideal für die Beobachtung seltener Vogelarten ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.030531,
+                        56.49312
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "Diese Kirche ist bekannt für ihren prächtigen geschnitzten Holzaltar aus dem 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        21.011824,
+                        56.504454
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitskathedrale",
+                  "text": "Die Kathedrale beherbergt eine der weltweit größten mechanischen Orgeln, die noch unumbaut ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.013392,
+                        56.50982
+                  ]
+            },
+            {
+                  "name": "Liepājas Svētā Meinarda baznīca",
+                  "text": "Eine katholische Kirche in Liepāja, die dem heiligen Meinard gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.015915,
+                        56.49546
+                  ]
+            },
+            {
+                  "name": "Kathedrale St. Josef",
+                  "text": "Die prächtige katholische Kathedrale von Liepāja beeindruckt mit ihrer neobarocken Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        21.007527,
+                        56.504902
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas liegums „Liepājas ezers”",
+                  "text": "Természetvédelmi terület a Liepāja-tónál, amely gazdag madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        21.056711,
+                        56.45358
+                  ]
+            },
+            {
+                  "name": "Liepājas teātris",
+                  "text": "Lettország legrégebbi professzionális színháza Liepāja szívében található.",
+                  "category": "cultural",
+                  "coords": [
+                        21.014823,
+                        56.509789
+                  ]
+            },
+            {
+                  "name": "Liepājas muzejs",
+                  "text": "A múzeum a kúrlandi régió történelmével és művészetével kapcsolatos kiterjedt gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        21.00204,
+                        56.510825
+                  ]
+            },
+            {
+                  "name": "Liepājas bāka",
+                  "text": "Ez a jellegzetes liepājai világítótorony a balti-tengeri hajózás fontos tájékozódási pontja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.99229,
+                        56.516788
+                  ]
+            },
+            {
+                  "name": "Liepājas Leļļu teātris",
+                  "text": "Liepājai professzionális bábszínház, amely gyerekeknek és családoknak kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        21.012389,
+                        56.507663
+                  ]
+            },
+            {
+                  "name": "Liepājas okupācijas muzejs",
+                  "text": "Ez a múzeum Liepāja szovjet és náci megszállásának időszakát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        21.01073,
+                        56.502496
+                  ]
+            },
+            {
+                  "name": "Graudu ielas koncertzāle",
+                  "text": "A Graudu utcában található jelentős helyszín koncertek és kulturális események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.008666,
+                        56.508359
+                  ]
+            },
+            {
+                  "name": "Hoijeres kundzes viesu nams",
+                  "text": "Restaurált 17. századi vendégfogadó, amely betekintést nyújt Liepāja történelmi életébe.",
+                  "category": "museum",
+                  "coords": [
+                        21.015237,
+                        56.506178
+                  ]
+            },
+            {
+                  "name": "Koncertestrāde \"Pūt vējiņi\"",
+                  "text": "Liepāja legendás szabadtéri színpada, amely rockkoncertjeiről és fesztiváljairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        20.994484,
+                        56.506462
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "Liepājai szabadtéri helyszín különféle kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.007134,
+                        56.51345
+                  ]
+            },
+            {
+                  "name": "Lielais Dzintars",
+                  "text": "A modern „Nagy Borostyán” koncertterem Liepāja építészeti fénypontja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.010572,
+                        56.511403
+                  ]
+            },
+            {
+                  "name": "Dienvidu forts",
+                  "text": "Liepāja egykori tengeri erődjének része, amely ma történelmi emlékműként látogatható.",
+                  "category": "fortress",
+                  "coords": [
+                        21.006035,
+                        56.478267
+                  ]
+            },
+            {
+                  "name": "Jāņa Čakstes laukums",
+                  "text": "Liepāja központi tere, amelyet Lettország első elnökéről, Jānis Čakstéről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        21.005587,
+                        56.503551
+                  ]
+            },
+            {
+                  "name": "Piemineklis bojā gājušajiem jūrniekiem un zvejniekiem",
+                  "text": "Ez az emlékmű a tengeren életüket vesztett tengerészek és halászok előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        20.991408,
+                        56.509347
+                  ]
+            },
+            {
+                  "name": "Liepājas ezera laipa",
+                  "text": "A Liepāja-tó nádasain keresztülvezető fapalló, amely lehetővé teszi a természet megfigyelését.",
+                  "category": "landmark",
+                  "coords": [
+                        21.027533,
+                        56.493846
+                  ]
+            },
+            {
+                  "name": "Putnu vērošanas tornis",
+                  "text": "A Liepāja-tónál található kilátótorony, amely ideális ritka madárfajok megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        21.030531,
+                        56.49312
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "Ez a templom a 17. századból származó, pompás faragott faoltáráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.011824,
+                        56.504454
+                  ]
+            },
+            {
+                  "name": "Svētās Trīsvienības Baznīca",
+                  "text": "A székesegyházban található a világ egyik legnagyobb, eredeti állapotában megőrzött mechanikus orgonája.",
+                  "category": "religious",
+                  "coords": [
+                        21.013392,
+                        56.50982
+                  ]
+            },
+            {
+                  "name": "Liepājas Svētā Meinarda baznīca",
+                  "text": "Szent Meinárdnak szentelt katolikus templom Liepājában.",
+                  "category": "religious",
+                  "coords": [
+                        21.015915,
+                        56.49546
+                  ]
+            },
+            {
+                  "name": "Liepājas Svētā Jāzepa Romas katoļu katedrāle",
+                  "text": "Liepāja pompás katolikus székesegyháza neobarokk építészetével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        21.007527,
+                        56.504902
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas liegums „Liepājas ezers”",
+                  "text": "O rezervație naturală pe lacul Liepāja, cunoscută pentru fauna sa bogată de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        21.056711,
+                        56.45358
+                  ]
+            },
+            {
+                  "name": "Liepājas teātris",
+                  "text": "Cel mai vechi teatru profesionist din Letonia se află în inima orașului Liepāja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.014823,
+                        56.509789
+                  ]
+            },
+            {
+                  "name": "Liepājas muzejs",
+                  "text": "Muzeul găzduiește o colecție extinsă despre istoria și arta regiunii Curlanda.",
+                  "category": "museum",
+                  "coords": [
+                        21.00204,
+                        56.510825
+                  ]
+            },
+            {
+                  "name": "Liepājas bāka",
+                  "text": "Acest far distinctiv din Liepāja este un punct de reper important pentru navigația la Marea Baltică.",
+                  "category": "landmark",
+                  "coords": [
+                        20.99229,
+                        56.516788
+                  ]
+            },
+            {
+                  "name": "Liepājas Leļļu teātris",
+                  "text": "Un teatru de păpuși profesionist din Liepāja care oferă spectacole pentru copii și familii.",
+                  "category": "cultural",
+                  "coords": [
+                        21.012389,
+                        56.507663
+                  ]
+            },
+            {
+                  "name": "Liepājas okupācijas muzejs",
+                  "text": "Acest muzeu documentează perioada ocupației sovietice și naziste în Liepāja.",
+                  "category": "museum",
+                  "coords": [
+                        21.01073,
+                        56.502496
+                  ]
+            },
+            {
+                  "name": "Graudu ielas koncertzāle",
+                  "text": "O locație importantă pentru concerte și evenimente culturale situată pe strada Graudu.",
+                  "category": "cultural",
+                  "coords": [
+                        21.008666,
+                        56.508359
+                  ]
+            },
+            {
+                  "name": "Hoijeres kundzes viesu nams",
+                  "text": "Un han restaurat din secolul al XVII-lea, care oferă o perspectivă asupra vieții istorice din Liepāja.",
+                  "category": "museum",
+                  "coords": [
+                        21.015237,
+                        56.506178
+                  ]
+            },
+            {
+                  "name": "Koncertestrāde \"Pūt vējiņi\"",
+                  "text": "O scenă legendară în aer liber din Liepāja, cunoscută pentru concertele sale rock și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        20.994484,
+                        56.506462
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "O locație în aer liber din Liepāja pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        21.007134,
+                        56.51345
+                  ]
+            },
+            {
+                  "name": "Lielais Dzintars",
+                  "text": "Sala de concerte modernă „Marele Chihlimbar” este un punct culminant arhitectural al orașului Liepāja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.010572,
+                        56.511403
+                  ]
+            },
+            {
+                  "name": "Dienvidu forts",
+                  "text": "Parte a fostei cetăți navale din Liepāja, care poate fi vizitată astăzi ca monument istoric.",
+                  "category": "fortress",
+                  "coords": [
+                        21.006035,
+                        56.478267
+                  ]
+            },
+            {
+                  "name": "Jāņa Čakstes laukums",
+                  "text": "O piață centrală din Liepāja, numită după primul președinte al Letoniei, Jānis Čakste.",
+                  "category": "park",
+                  "coords": [
+                        21.005587,
+                        56.503551
+                  ]
+            },
+            {
+                  "name": "Piemineklis bojā gājušajiem jūrniekiem un zvejniekiem",
+                  "text": "Acest monument îi onorează pe marinarii și pescarii care și-au pierdut viața pe mare.",
+                  "category": "historical",
+                  "coords": [
+                        20.991408,
+                        56.509347
+                  ]
+            },
+            {
+                  "name": "Liepājas ezera laipa",
+                  "text": "Un ponton de lemn care trece prin stuful lacului Liepāja, permițând observarea naturii.",
+                  "category": "landmark",
+                  "coords": [
+                        21.027533,
+                        56.493846
+                  ]
+            },
+            {
+                  "name": "Putnu vērošanas tornis",
+                  "text": "Un turn de observare de pe lacul Liepāja, ideal pentru observarea speciilor rare de păsări.",
+                  "category": "natural",
+                  "coords": [
+                        21.030531,
+                        56.49312
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "Această biserică este cunoscută pentru magnificul său altar din lemn sculptat din secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        21.011824,
+                        56.504454
+                  ]
+            },
+            {
+                  "name": "Svētās Trīsvienības Baznīca",
+                  "text": "Catedrala găzduiește una dintre cele mai mari orgi mecanice din lume care a rămas în forma sa originală.",
+                  "category": "religious",
+                  "coords": [
+                        21.013392,
+                        56.50982
+                  ]
+            },
+            {
+                  "name": "Liepājas Svētā Meinarda baznīca",
+                  "text": "O biserică catolică din Liepāja dedicată Sfântului Meinard.",
+                  "category": "religious",
+                  "coords": [
+                        21.015915,
+                        56.49546
+                  ]
+            },
+            {
+                  "name": "Liepājas Svētā Jāzepa Romas katoļu katedrāle",
+                  "text": "Splendida catedrală catolică din Liepāja impresionează prin arhitectura sa neobarocă.",
+                  "category": "religious",
+                  "coords": [
+                        21.007527,
+                        56.504902
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "dabas liegums „Liepājas ezers”",
+                  "text": "A nature reserve at Lake Liepāja, known for its rich birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        21.056711,
+                        56.45358
+                  ]
+            },
+            {
+                  "name": "Liepājas teātris",
+                  "text": "Latvia's oldest professional theater is located in the heart of Liepāja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.014823,
+                        56.509789
+                  ]
+            },
+            {
+                  "name": "Liepājas muzejs",
+                  "text": "The museum houses an extensive collection related to the history and art of the Courland region.",
+                  "category": "museum",
+                  "coords": [
+                        21.00204,
+                        56.510825
+                  ]
+            },
+            {
+                  "name": "Liepājas bāka",
+                  "text": "This distinctive lighthouse in Liepāja is an important landmark for Baltic Sea navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        20.99229,
+                        56.516788
+                  ]
+            },
+            {
+                  "name": "Liepājas Leļļu teātris",
+                  "text": "A professional puppet theater in Liepāja offering performances for children and families.",
+                  "category": "cultural",
+                  "coords": [
+                        21.012389,
+                        56.507663
+                  ]
+            },
+            {
+                  "name": "Liepājas okupācijas muzejs",
+                  "text": "This museum documents the period of Soviet and Nazi occupations in Liepāja.",
+                  "category": "museum",
+                  "coords": [
+                        21.01073,
+                        56.502496
+                  ]
+            },
+            {
+                  "name": "Graudu ielas koncertzāle",
+                  "text": "A significant venue for concerts and cultural events located on Graudu Street.",
+                  "category": "cultural",
+                  "coords": [
+                        21.008666,
+                        56.508359
+                  ]
+            },
+            {
+                  "name": "Hoijeres kundzes viesu nams",
+                  "text": "A restored 17th-century guest house offering insights into historic life in Liepāja.",
+                  "category": "museum",
+                  "coords": [
+                        21.015237,
+                        56.506178
+                  ]
+            },
+            {
+                  "name": "Koncertestrāde \"Pūt vējiņi\"",
+                  "text": "A legendary open-air stage in Liepāja known for its rock concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        20.994484,
+                        56.506462
+                  ]
+            },
+            {
+                  "name": "Amphitheater",
+                  "text": "An outdoor venue in Liepāja for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        21.007134,
+                        56.51345
+                  ]
+            },
+            {
+                  "name": "Lielais Dzintars",
+                  "text": "The modern 'Great Amber' concert hall is an architectural highlight of Liepāja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.010572,
+                        56.511403
+                  ]
+            },
+            {
+                  "name": "Dienvidu forts",
+                  "text": "Part of the former Liepāja naval fortress, which can be visited today as a historical monument.",
+                  "category": "fortress",
+                  "coords": [
+                        21.006035,
+                        56.478267
+                  ]
+            },
+            {
+                  "name": "Jāņa Čakstes laukums",
+                  "text": "A central square in Liepāja named after the first president of Latvia, Jānis Čakste.",
+                  "category": "park",
+                  "coords": [
+                        21.005587,
+                        56.503551
+                  ]
+            },
+            {
+                  "name": "Piemineklis bojā gājušajiem jūrniekiem un zvejniekiem",
+                  "text": "This monument honors the sailors and fishermen who lost their lives at sea.",
+                  "category": "historical",
+                  "coords": [
+                        20.991408,
+                        56.509347
+                  ]
+            },
+            {
+                  "name": "Liepājas ezera laipa",
+                  "text": "A wooden boardwalk leading through the reeds of Lake Liepāja, allowing for nature observation.",
+                  "category": "landmark",
+                  "coords": [
+                        21.027533,
+                        56.493846
+                  ]
+            },
+            {
+                  "name": "Putnu vērošanas tornis",
+                  "text": "A viewing tower at Lake Liepāja, ideal for spotting rare bird species.",
+                  "category": "natural",
+                  "coords": [
+                        21.030531,
+                        56.49312
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "This church is famous for its magnificent 17th-century carved wooden altar.",
+                  "category": "religious",
+                  "coords": [
+                        21.011824,
+                        56.504454
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Cathedral",
+                  "text": "The cathedral houses one of the world's largest mechanical organs that has remained unaltered.",
+                  "category": "religious",
+                  "coords": [
+                        21.013392,
+                        56.50982
+                  ]
+            },
+            {
+                  "name": "Liepājas Svētā Meinarda baznīca",
+                  "text": "A Catholic church in Liepāja dedicated to Saint Meinard.",
+                  "category": "religious",
+                  "coords": [
+                        21.015915,
+                        56.49546
+                  ]
+            },
+            {
+                  "name": "Liepājas Svētā Jāzepa Romas katoļu katedrāle",
+                  "text": "The magnificent Catholic cathedral of Liepāja impresses with its Neo-Baroque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        21.007527,
+                        56.504902
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [21.0108, 56.5047],
@@ -418,7 +4702,664 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-jelgava",
+    id: "lv-jelgava", "sights": {
+      "de": [
+            {
+                  "name": "Academia Petrina",
+                  "text": "Das älteste höhere Bildungsinstitut Lettlands.",
+                  "category": "museum",
+                  "coords": [
+                        23.728814,
+                        56.649893
+                  ]
+            },
+            {
+                  "name": "Ādolfa Alunāna memoriālais muzejs",
+                  "text": "Ein Museum zum Gedenken an den Vater des lettischen Theaters.",
+                  "category": "museum",
+                  "coords": [
+                        23.710375,
+                        56.644281
+                  ]
+            },
+            {
+                  "name": "Jelgavas Svētās Trīsvienības baznīcas tornis",
+                  "text": "Der erhaltene Turm einer historischen Kirche.",
+                  "category": "museum",
+                  "coords": [
+                        23.728812,
+                        56.652472
+                  ]
+            },
+            {
+                  "name": "LBTU Studentu teātris",
+                  "text": "Ein Studententheater in Jelgava.",
+                  "category": "cultural",
+                  "coords": [
+                        23.729749,
+                        56.651807
+                  ]
+            },
+            {
+                  "name": "Leļļu teātris",
+                  "text": "Ein Puppentheater für Kinder in Jelgava.",
+                  "category": "cultural",
+                  "coords": [
+                        23.718282,
+                        56.647952
+                  ]
+            },
+            {
+                  "name": "Kurzemes hercogu kapenes",
+                  "text": "Die Grabstätten der Herzöge von Kurland im Schloss Jelgava.",
+                  "category": "museum",
+                  "coords": [
+                        23.734006,
+                        56.655335
+                  ]
+            },
+            {
+                  "name": "ANRU CAR & MOTOR MUSEUM",
+                  "text": "Ein Museum für Autos und Motoren in Jelgava.",
+                  "category": "museum",
+                  "coords": [
+                        23.749461,
+                        56.656501
+                  ]
+            },
+            {
+                  "name": "Vecpilsētas māja",
+                  "text": "Ein restauriertes historisches Gebäude in der Altstadt.",
+                  "category": "museum",
+                  "coords": [
+                        23.711405,
+                        56.650673
+                  ]
+            },
+            {
+                  "name": "Vecās skansts vieta",
+                  "text": "Eine archäologische Stätte alter Befestigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        23.718836,
+                        56.667089
+                  ]
+            },
+            {
+                  "name": "Latvijas Dzelzceļa vēstures muzejs, Jelgavas ekspozīcija",
+                  "text": "Eine Außenstelle des Lettischen Eisenbahnmuseums.",
+                  "category": "museum",
+                  "coords": [
+                        23.729913,
+                        56.641021
+                  ]
+            },
+            {
+                  "name": "Slimnīcas vēstures muzejs",
+                  "text": "Ein Museum zur Geschichte des Gesundheitswesens.",
+                  "category": "museum",
+                  "coords": [
+                        23.691545,
+                        56.637269
+                  ]
+            },
+            {
+                  "name": "Schloß Waldeck",
+                  "text": "Ein neugotisches Herrenhaus in Jelgava.",
+                  "category": "historical",
+                  "coords": [
+                        23.750867,
+                        56.662255
+                  ]
+            },
+            {
+                  "name": "Villa Medem",
+                  "text": "Ein klassizistisches Herrenhaus in Jelgava.",
+                  "category": "historical",
+                  "coords": [
+                        23.718541,
+                        56.659852
+                  ]
+            },
+            {
+                  "name": "Bāka",
+                  "text": "Ein Aussichtsturm oder Leuchtturm in Jelgava.",
+                  "category": "landmark",
+                  "coords": [
+                        23.732378,
+                        56.652657
+                  ]
+            },
+            {
+                  "name": "JELGAVA",
+                  "text": "Ein monumentaler Stadtschriftzug in Jelgava.",
+                  "category": "landmark",
+                  "coords": [
+                        23.733453,
+                        56.651289
+                  ]
+            },
+            {
+                  "name": "Jelgavas kultūras nams",
+                  "text": "Ein Zentrum für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.723431,
+                        56.653905
+                  ]
+            },
+            {
+                  "name": "Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "Eine historische lutherische Kirche in Jelgava.",
+                  "category": "religious",
+                  "coords": [
+                        23.71577,
+                        56.650762
+                  ]
+            },
+            {
+                  "name": "Jāņa baznīca",
+                  "text": "Eine lutherische Kirche in Jelgava.",
+                  "category": "religious",
+                  "coords": [
+                        23.728645,
+                        56.644491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jelgavas vēstures un mākslas muzejs",
+                  "text": "Lettország legrégebbi felsőoktatási intézménye.",
+                  "category": "museum",
+                  "coords": [
+                        23.728814,
+                        56.649893
+                  ]
+            },
+            {
+                  "name": "Ādolfa Alunāna memoriālais muzejs",
+                  "text": "A lett színház atyjának emlékmúzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        23.710375,
+                        56.644281
+                  ]
+            },
+            {
+                  "name": "Jelgavas Svētās Trīsvienības baznīcas tornis",
+                  "text": "Egy történelmi templom megmaradt tornya.",
+                  "category": "museum",
+                  "coords": [
+                        23.728812,
+                        56.652472
+                  ]
+            },
+            {
+                  "name": "LBTU Studentu teātris",
+                  "text": "Egyetemi diákszínház Jelgavában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.729749,
+                        56.651807
+                  ]
+            },
+            {
+                  "name": "Leļļu teātris",
+                  "text": "Bábszínház gyerekeknek Jelgavában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.718282,
+                        56.647952
+                  ]
+            },
+            {
+                  "name": "Kurzemes hercogu kapenes",
+                  "text": "A kurföldi hercegek temetkezési helye a jelgavai palotában.",
+                  "category": "museum",
+                  "coords": [
+                        23.734006,
+                        56.655335
+                  ]
+            },
+            {
+                  "name": "ANRU CAR & MOTOR MUSEUM",
+                  "text": "Autó- és motormúzeum Jelgavában.",
+                  "category": "museum",
+                  "coords": [
+                        23.749461,
+                        56.656501
+                  ]
+            },
+            {
+                  "name": "Vecpilsētas māja",
+                  "text": "Restaurált történelmi épület az óvárosban.",
+                  "category": "museum",
+                  "coords": [
+                        23.711405,
+                        56.650673
+                  ]
+            },
+            {
+                  "name": "Vecās skansts vieta",
+                  "text": "Régi erődítmények régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        23.718836,
+                        56.667089
+                  ]
+            },
+            {
+                  "name": "Latvijas Dzelzceļa vēstures muzejs, Jelgavas ekspozīcija",
+                  "text": "A Lett Vasúttörténeti Múzeum jelgavai részlege.",
+                  "category": "museum",
+                  "coords": [
+                        23.729913,
+                        56.641021
+                  ]
+            },
+            {
+                  "name": "Slimnīcas vēstures muzejs",
+                  "text": "Az egészségügy történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.691545,
+                        56.637269
+                  ]
+            },
+            {
+                  "name": "Valdekas pils",
+                  "text": "Neogótikus udvarház Jelgavában.",
+                  "category": "historical",
+                  "coords": [
+                        23.750867,
+                        56.662255
+                  ]
+            },
+            {
+                  "name": "Villa Medem",
+                  "text": "Klasszicista stílusú udvarház Jelgavában.",
+                  "category": "historical",
+                  "coords": [
+                        23.718541,
+                        56.659852
+                  ]
+            },
+            {
+                  "name": "Bāka",
+                  "text": "Kilátótorony vagy világítótorony Jelgavában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.732378,
+                        56.652657
+                  ]
+            },
+            {
+                  "name": "JELGAVA",
+                  "text": "Monumentális városfelirat Jelgavában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.733453,
+                        56.651289
+                  ]
+            },
+            {
+                  "name": "Jelgavas kultūras nams",
+                  "text": "Kulturális események központja.",
+                  "category": "cultural",
+                  "coords": [
+                        23.723431,
+                        56.653905
+                  ]
+            },
+            {
+                  "name": "Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "Történelmi evangélikus templom Jelgavában.",
+                  "category": "religious",
+                  "coords": [
+                        23.71577,
+                        56.650762
+                  ]
+            },
+            {
+                  "name": "Jāņa baznīca",
+                  "text": "Evangélikus templom Jelgavában.",
+                  "category": "religious",
+                  "coords": [
+                        23.728645,
+                        56.644491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jelgavas vēstures un mākslas muzejs",
+                  "text": "Cea mai veche instituție de învățământ superior din Letonia.",
+                  "category": "museum",
+                  "coords": [
+                        23.728814,
+                        56.649893
+                  ]
+            },
+            {
+                  "name": "Ādolfa Alunāna memoriālais muzejs",
+                  "text": "Muzeu memorial dedicat tatălui teatrului leton.",
+                  "category": "museum",
+                  "coords": [
+                        23.710375,
+                        56.644281
+                  ]
+            },
+            {
+                  "name": "Jelgavas Svētās Trīsvienības baznīcas tornis",
+                  "text": "Turnul unei biserici istorice din Jelgava.",
+                  "category": "museum",
+                  "coords": [
+                        23.728812,
+                        56.652472
+                  ]
+            },
+            {
+                  "name": "LBTU Studentu teātris",
+                  "text": "Teatru studențesc în Jelgava.",
+                  "category": "cultural",
+                  "coords": [
+                        23.729749,
+                        56.651807
+                  ]
+            },
+            {
+                  "name": "Leļļu teātris",
+                  "text": "Un teatru de păpuși în Jelgava.",
+                  "category": "cultural",
+                  "coords": [
+                        23.718282,
+                        56.647952
+                  ]
+            },
+            {
+                  "name": "Kurzemes hercogu kapenes",
+                  "text": "Criptele ducilor de Curlanda din palatul Jelgava.",
+                  "category": "museum",
+                  "coords": [
+                        23.734006,
+                        56.655335
+                  ]
+            },
+            {
+                  "name": "ANRU CAR & MOTOR MUSEUM",
+                  "text": "Un muzeu de mașini și motoare în Jelgava.",
+                  "category": "museum",
+                  "coords": [
+                        23.749461,
+                        56.656501
+                  ]
+            },
+            {
+                  "name": "Vecpilsētas māja",
+                  "text": "O clădire istorică restaurată în orașul vechi.",
+                  "category": "museum",
+                  "coords": [
+                        23.711405,
+                        56.650673
+                  ]
+            },
+            {
+                  "name": "Vecās skansts vieta",
+                  "text": "Sit arheologic al unor vechi fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        23.718836,
+                        56.667089
+                  ]
+            },
+            {
+                  "name": "Latvijas Dzelzceļa vēstures muzejs, Jelgavas ekspozīcija",
+                  "text": "Filiala din Jelgava a Muzeului de Istorie a Căilor Ferate Letone.",
+                  "category": "museum",
+                  "coords": [
+                        23.729913,
+                        56.641021
+                  ]
+            },
+            {
+                  "name": "Slimnīcas vēstures muzejs",
+                  "text": "Un muzeu dedicat istoriei spitalului și medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        23.691545,
+                        56.637269
+                  ]
+            },
+            {
+                  "name": "Valdekas pils",
+                  "text": "Un conac neogotic în Jelgava.",
+                  "category": "historical",
+                  "coords": [
+                        23.750867,
+                        56.662255
+                  ]
+            },
+            {
+                  "name": "Villa Medem",
+                  "text": "Un conac în stil neoclasic în Jelgava.",
+                  "category": "historical",
+                  "coords": [
+                        23.718541,
+                        56.659852
+                  ]
+            },
+            {
+                  "name": "Bāka",
+                  "text": "Un turn de observație sau far în Jelgava.",
+                  "category": "landmark",
+                  "coords": [
+                        23.732378,
+                        56.652657
+                  ]
+            },
+            {
+                  "name": "JELGAVA",
+                  "text": "O inscripție monumentală cu numele orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        23.733453,
+                        56.651289
+                  ]
+            },
+            {
+                  "name": "Jelgavas kultūras nams",
+                  "text": "Un centru pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.723431,
+                        56.653905
+                  ]
+            },
+            {
+                  "name": "Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "O biserică luterană istorică în Jelgava.",
+                  "category": "religious",
+                  "coords": [
+                        23.71577,
+                        56.650762
+                  ]
+            },
+            {
+                  "name": "Jāņa baznīca",
+                  "text": "O biserică luterană în Jelgava.",
+                  "category": "religious",
+                  "coords": [
+                        23.728645,
+                        56.644491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Academia Petrina",
+                  "text": "The oldest higher education institution in Latvia.",
+                  "category": "museum",
+                  "coords": [
+                        23.728814,
+                        56.649893
+                  ]
+            },
+            {
+                  "name": "Ādolfa Alunāna memoriālais muzejs",
+                  "text": "A memorial museum for the father of Latvian theatre.",
+                  "category": "museum",
+                  "coords": [
+                        23.710375,
+                        56.644281
+                  ]
+            },
+            {
+                  "name": "Jelgavas Svētās Trīsvienības baznīcas tornis",
+                  "text": "The preserved tower of a historic church in Jelgava.",
+                  "category": "museum",
+                  "coords": [
+                        23.728812,
+                        56.652472
+                  ]
+            },
+            {
+                  "name": "LBTU Studentu teātris",
+                  "text": "A student theatre in Jelgava.",
+                  "category": "cultural",
+                  "coords": [
+                        23.729749,
+                        56.651807
+                  ]
+            },
+            {
+                  "name": "Leļļu teātris",
+                  "text": "A puppet theatre in Jelgava.",
+                  "category": "cultural",
+                  "coords": [
+                        23.718282,
+                        56.647952
+                  ]
+            },
+            {
+                  "name": "Kurzemes hercogu kapenes",
+                  "text": "The burial vaults of the Dukes of Courland in Jelgava Palace.",
+                  "category": "museum",
+                  "coords": [
+                        23.734006,
+                        56.655335
+                  ]
+            },
+            {
+                  "name": "ANRU CAR & MOTOR MUSEUM",
+                  "text": "A car and motor museum in Jelgava.",
+                  "category": "museum",
+                  "coords": [
+                        23.749461,
+                        56.656501
+                  ]
+            },
+            {
+                  "name": "Vecpilsētas māja",
+                  "text": "A restored historic building in the old town.",
+                  "category": "museum",
+                  "coords": [
+                        23.711405,
+                        56.650673
+                  ]
+            },
+            {
+                  "name": "Vecās skansts vieta",
+                  "text": "An archaeological site of old fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        23.718836,
+                        56.667089
+                  ]
+            },
+            {
+                  "name": "Jelgava branch of the Latvian Railway History Museum",
+                  "text": "The Jelgava branch of the Latvian Railway History Museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.729913,
+                        56.641021
+                  ]
+            },
+            {
+                  "name": "Slimnīcas vēstures muzejs",
+                  "text": "A museum dedicated to the history of the hospital.",
+                  "category": "museum",
+                  "coords": [
+                        23.691545,
+                        56.637269
+                  ]
+            },
+            {
+                  "name": "Valdekas pils",
+                  "text": "A Neo-Gothic manor house in Jelgava.",
+                  "category": "historical",
+                  "coords": [
+                        23.750867,
+                        56.662255
+                  ]
+            },
+            {
+                  "name": "Villa Medem",
+                  "text": "A Neoclassical manor house in Jelgava.",
+                  "category": "historical",
+                  "coords": [
+                        23.718541,
+                        56.659852
+                  ]
+            },
+            {
+                  "name": "Bāka",
+                  "text": "An observation tower or lighthouse in Jelgava.",
+                  "category": "landmark",
+                  "coords": [
+                        23.732378,
+                        56.652657
+                  ]
+            },
+            {
+                  "name": "JELGAVA",
+                  "text": "A monumental city sign in Jelgava.",
+                  "category": "landmark",
+                  "coords": [
+                        23.733453,
+                        56.651289
+                  ]
+            },
+            {
+                  "name": "Jelgavas kultūras nams",
+                  "text": "A centre for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        23.723431,
+                        56.653905
+                  ]
+            },
+            {
+                  "name": "Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "A historic Lutheran church in Jelgava.",
+                  "category": "religious",
+                  "coords": [
+                        23.71577,
+                        56.650762
+                  ]
+            },
+            {
+                  "name": "Jāņa baznīca",
+                  "text": "A Lutheran church in Jelgava.",
+                  "category": "religious",
+                  "coords": [
+                        23.728645,
+                        56.644491
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [23.723, 56.65],
@@ -516,7 +5457,448 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-rezekne",
+    id: "lv-rezekne", "sights": {
+      "de": [
+            {
+                  "name": "Latgales kultūrvēstures muzejs",
+                  "text": "Dieses Museum in Rēzekne dokumentiert die reiche Geschichte und Kultur der Region Lettgallen.",
+                  "category": "museum",
+                  "coords": [
+                        27.332214,
+                        56.507568
+                  ]
+            },
+            {
+                  "name": "Ratnieku pilskalns",
+                  "text": "Eine archäologische Stätte bei Rēzekne, die einen ehemaligen Burgwall der frühen Siedler markiert.",
+                  "category": "historical",
+                  "coords": [
+                        27.353441,
+                        56.516247
+                  ]
+            },
+            {
+                  "name": "Brīvvalsts dārgumu nams",
+                  "text": "Dieses Museum in Rēzekne zeigt Schätze und Exponate aus der Zeit der ersten lettischen Republik.",
+                  "category": "museum",
+                  "coords": [
+                        27.333838,
+                        56.501985
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pilskalns",
+                  "text": "Auf diesem Hügel befinden sich die Ruinen der einstigen mittelalterlichen Burg von Rēzekne.",
+                  "category": "historical",
+                  "coords": [
+                        27.335059,
+                        56.502535
+                  ]
+            },
+            {
+                  "name": "Vienoti Latvijai",
+                  "text": "Dieses markante Denkmal, auch „Lettgallische Mara“ genannt, symbolisiert die Einheit Lettlands.",
+                  "category": "historical",
+                  "coords": [
+                        27.3308,
+                        56.506541
+                  ]
+            },
+            {
+                  "name": "Piemineklis “Latgales kongresam 100\"",
+                  "text": "Ein Denkmal zur Erinnerung an den 100. Jahrestag des historischen Lettgallen-Kongresses.",
+                  "category": "historical",
+                  "coords": [
+                        27.326649,
+                        56.499609
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pils makets",
+                  "text": "Ein detailliertes Modell am Fuße des Burghügels, das die ursprüngliche Burg von Rēzekne darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        27.331951,
+                        56.502762
+                  ]
+            },
+            {
+                  "name": "Rēzekne",
+                  "text": "Ein zentraler Punkt in Rēzekne, der die kulturelle Identität der Stadt repräsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        27.347086,
+                        56.508179
+                  ]
+            },
+            {
+                  "name": "Mākslas nams",
+                  "text": "Dieses historische Holzgebäude in Rēzekne dient heute als Zentrum für Kunst und Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        27.339082,
+                        56.50872
+                  ]
+            },
+            {
+                  "name": "Zeimuļs",
+                  "text": "Ein modernes Architekturwunder in Rēzekne, das ein kreatives Dienstleistungszentrum für Kinder beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        27.33374,
+                        56.503237
+                  ]
+            },
+            {
+                  "name": "STALAG 347 piemiņas vieta",
+                  "text": "Eine Gedenkstätte für die Opfer des ehemaligen Kriegsgefangenenlagers Stalag 347.",
+                  "category": "historical",
+                  "coords": [
+                        27.34878,
+                        56.524633
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Dieva Žēlsirdības Romas katoļu baznīca",
+                  "text": "Eine moderne katholische Kirche in Rēzekne, die der göttlichen Barmherzigkeit geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.351613,
+                        56.524502
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Latgales kultūrvēstures muzejs",
+                  "text": "Ez a rēzeknei múzeum Latgale régió gazdag történelmét és kultúráját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        27.332214,
+                        56.507568
+                  ]
+            },
+            {
+                  "name": "Ratnieku pilskalns",
+                  "text": "Rēzekne melletti régészeti lelőhely, amely a korai telepesek egykori várhelyét jelzi.",
+                  "category": "historical",
+                  "coords": [
+                        27.353441,
+                        56.516247
+                  ]
+            },
+            {
+                  "name": "Brīvvalsts dārgumu nams",
+                  "text": "Ez a rēzeknei múzeum az első lett köztársaság idejéből származó kincseket és kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        27.333838,
+                        56.501985
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pilskalns",
+                  "text": "Ezen a dombon találhatók Rēzekne egykori középkori várának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        27.335059,
+                        56.502535
+                  ]
+            },
+            {
+                  "name": "Vienoti Latvijai",
+                  "text": "Ez a jellegzetes emlékmű, amelyet „Latgale-i Mara” néven is ismernek, Lettország egységét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        27.3308,
+                        56.506541
+                  ]
+            },
+            {
+                  "name": "Piemineklis “Latgales kongresam 100\"",
+                  "text": "Emlékmű a történelmi Latgale-kongresszus 100. évfordulójának emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        27.326649,
+                        56.499609
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pils makets",
+                  "text": "A várhegy lábánál található részletes makett, amely Rēzekne eredeti várát ábrázolja.",
+                  "category": "landmark",
+                  "coords": [
+                        27.331951,
+                        56.502762
+                  ]
+            },
+            {
+                  "name": "Rēzekne",
+                  "text": "Rēzekne egyik központi pontja, amely a város kulturális identitását képviseli.",
+                  "category": "landmark",
+                  "coords": [
+                        27.347086,
+                        56.508179
+                  ]
+            },
+            {
+                  "name": "Mākslas nams",
+                  "text": "Ez a történelmi rēzeknei faépület ma művészeti és kulturális központként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        27.339082,
+                        56.50872
+                  ]
+            },
+            {
+                  "name": "Zeimuļs",
+                  "text": "Modern építészeti csoda Rēzeknében, amely egy kreatív szolgáltató központnak ad otthont gyerekek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        27.33374,
+                        56.503237
+                  ]
+            },
+            {
+                  "name": "STALAG 347 piemiņas vieta",
+                  "text": "Emlékhely az egykori Stalag 347 hadifogolytábor áldozatainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        27.34878,
+                        56.524633
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Dieva Žēlsirdības Romas katoļu baznīca",
+                  "text": "Modern katolikus templom Rēzeknében, amelyet az isteni irgalmasságnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        27.351613,
+                        56.524502
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Latgales kultūrvēstures muzejs",
+                  "text": "Acest muzeu din Rēzekne documentează istoria și cultura bogată a regiunii Latgale.",
+                  "category": "museum",
+                  "coords": [
+                        27.332214,
+                        56.507568
+                  ]
+            },
+            {
+                  "name": "Ratnieku pilskalns",
+                  "text": "Un sit arheologic lângă Rēzekne care marchează un fost castru al primilor așezări.",
+                  "category": "historical",
+                  "coords": [
+                        27.353441,
+                        56.516247
+                  ]
+            },
+            {
+                  "name": "Brīvvalsts dārgumu nams",
+                  "text": "Acest muzeu din Rēzekne expune comori și exponate din perioada primei Republici Letone.",
+                  "category": "museum",
+                  "coords": [
+                        27.333838,
+                        56.501985
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pilskalns",
+                  "text": "Pe acest deal se află ruinele fostului castel medieval din Rēzekne.",
+                  "category": "historical",
+                  "coords": [
+                        27.335059,
+                        56.502535
+                  ]
+            },
+            {
+                  "name": "Vienoti Latvijai",
+                  "text": "Acest monument distinctiv, cunoscut și sub numele de „Mara din Latgale”, simbolizează unitatea Letoniei.",
+                  "category": "historical",
+                  "coords": [
+                        27.3308,
+                        56.506541
+                  ]
+            },
+            {
+                  "name": "Piemineklis “Latgales kongresam 100\"",
+                  "text": "Un monument dedicat aniversării a 100 de ani de la istoricul Congres din Latgale.",
+                  "category": "historical",
+                  "coords": [
+                        27.326649,
+                        56.499609
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pils makets",
+                  "text": "O machetă detaliată la poalele dealului castelului care reprezintă castelul original din Rēzekne.",
+                  "category": "landmark",
+                  "coords": [
+                        27.331951,
+                        56.502762
+                  ]
+            },
+            {
+                  "name": "Rēzekne",
+                  "text": "Un punct central din Rēzekne care reprezintă identitatea culturală a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        27.347086,
+                        56.508179
+                  ]
+            },
+            {
+                  "name": "Mākslas nams",
+                  "text": "Această clădire istorică din lemn din Rēzekne servește astăzi ca centru pentru artă și cultură.",
+                  "category": "cultural",
+                  "coords": [
+                        27.339082,
+                        56.50872
+                  ]
+            },
+            {
+                  "name": "Zeimuļs",
+                  "text": "O minune arhitecturală modernă în Rēzekne, care găzduiește un centru de servicii creative pentru copii.",
+                  "category": "cultural",
+                  "coords": [
+                        27.33374,
+                        56.503237
+                  ]
+            },
+            {
+                  "name": "STALAG 347 piemiņas vieta",
+                  "text": "Un loc memorial dedicat victimelor fostului lagăr de prizonieri de război Stalag 347.",
+                  "category": "historical",
+                  "coords": [
+                        27.34878,
+                        56.524633
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Dieva Žēlsirdības Romas katoļu baznīca",
+                  "text": "O biserică catolică modernă din Rēzekne dedicată Divinei Milostiviri.",
+                  "category": "religious",
+                  "coords": [
+                        27.351613,
+                        56.524502
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Latgales kultūrvēstures muzejs",
+                  "text": "This museum in Rēzekne documents the rich history and culture of the Latgale region.",
+                  "category": "museum",
+                  "coords": [
+                        27.332214,
+                        56.507568
+                  ]
+            },
+            {
+                  "name": "Ratnieku pilskalns",
+                  "text": "An archaeological site near Rēzekne marking a former hillfort of early settlers.",
+                  "category": "historical",
+                  "coords": [
+                        27.353441,
+                        56.516247
+                  ]
+            },
+            {
+                  "name": "Brīvvalsts dārgumu nams",
+                  "text": "This museum in Rēzekne displays treasures and exhibits from the period of the first Latvian Republic.",
+                  "category": "museum",
+                  "coords": [
+                        27.333838,
+                        56.501985
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pilskalns",
+                  "text": "On this hill are the ruins of the former medieval castle of Rēzekne.",
+                  "category": "historical",
+                  "coords": [
+                        27.335059,
+                        56.502535
+                  ]
+            },
+            {
+                  "name": "Vienoti Latvijai",
+                  "text": "This prominent monument, also known as 'Latgale's Mara', symbolizes the unity of Latvia.",
+                  "category": "historical",
+                  "coords": [
+                        27.3308,
+                        56.506541
+                  ]
+            },
+            {
+                  "name": "Piemineklis “Latgales kongresam 100\"",
+                  "text": "A monument commemorating the 100th anniversary of the historic Latgale Congress.",
+                  "category": "historical",
+                  "coords": [
+                        27.326649,
+                        56.499609
+                  ]
+            },
+            {
+                  "name": "Rēzeknes pils makets",
+                  "text": "A detailed model at the foot of the castle hill representing the original castle of Rēzekne.",
+                  "category": "landmark",
+                  "coords": [
+                        27.331951,
+                        56.502762
+                  ]
+            },
+            {
+                  "name": "Rēzekne",
+                  "text": "A central point in Rēzekne representing the city's cultural identity.",
+                  "category": "landmark",
+                  "coords": [
+                        27.347086,
+                        56.508179
+                  ]
+            },
+            {
+                  "name": "Mākslas nams",
+                  "text": "This historic wooden building in Rēzekne now serves as a center for arts and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        27.339082,
+                        56.50872
+                  ]
+            },
+            {
+                  "name": "Zeimuļs",
+                  "text": "A modern architectural marvel in Rēzekne housing a creative services center for children.",
+                  "category": "cultural",
+                  "coords": [
+                        27.33374,
+                        56.503237
+                  ]
+            },
+            {
+                  "name": "STALAG 347 piemiņas vieta",
+                  "text": "A memorial site dedicated to the victims of the former Stalag 347 prisoner-of-war camp.",
+                  "category": "historical",
+                  "coords": [
+                        27.34878,
+                        56.524633
+                  ]
+            },
+            {
+                  "name": "Rēzeknes Dieva Žēlsirdības Romas katoļu baznīca",
+                  "text": "A modern Catholic church in Rēzekne dedicated to Divine Mercy.",
+                  "category": "religious",
+                  "coords": [
+                        27.351613,
+                        56.524502
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [27.3401, 56.5099],
@@ -565,7 +5947,340 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-valmiera",
+    id: "lv-valmiera", "sights": {
+      "de": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "Ein bedeutendes professionelles Theater in Valmiera.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Schloß Wolmar",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in Valmiera.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "Ein Freizeit- und Badebereich in Valmiera.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "Ein Museum für regionale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "Ein beliebter Strand am Fluss Gauja.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "Eine Freilichtbühne für Konzerte und Shows.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "Ein lokales Naturdenkmal in Form einer markanten Linde.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Valmiera.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "Ein Denkmal zur Erinnerung an die Barrikadenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "Jelentős hivatásos színház Valmierában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Valmieras pils",
+                  "text": "Egy középkori vár romjai Valmierában.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "Szabadidős és fürdőhely Valmierában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "Regionális történelmi és kulturális múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "Népszerű strand a Gauja folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "Szabadtéri színpad koncertekhez és előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "Helyi természeti emlék egy jellegzetes hársfa formájában.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "Kortárs művészeti galéria Valmierában.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "A barikádok időszakára emlékeztető emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "Un teatru profesionist important în Valmiera.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Valmieras pils",
+                  "text": "Ruinele unui castel medieval în Valmiera.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "O zonă de recreere și înot în Valmiera.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "Un muzeu de istorie și cultură regională.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "O plajă populară pe malul râului Gauja.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "O scenă în aer liber pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "Un monument natural local sub forma unui tei distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "O galerie de artă contemporană în Valmiera.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "Un monument dedicat memoriei perioadei baricadelor.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valmieras drāmas teātris",
+                  "text": "A prominent professional theatre in Valmiera.",
+                  "category": "cultural",
+                  "coords": [
+                        25.425756,
+                        57.53931
+                  ]
+            },
+            {
+                  "name": "Valmieras pils",
+                  "text": "The ruins of a medieval castle in Valmiera.",
+                  "category": "castle",
+                  "coords": [
+                        25.427977,
+                        57.539024
+                  ]
+            },
+            {
+                  "name": "Valmieras Peldbaseina Atpūtas Zona",
+                  "text": "A recreation and swimming area in Valmiera.",
+                  "category": "recreational",
+                  "coords": [
+                        25.388492,
+                        57.527572
+                  ]
+            },
+            {
+                  "name": "Valmieras novadpētniecības muzejs",
+                  "text": "A museum of regional history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        25.429035,
+                        57.539328
+                  ]
+            },
+            {
+                  "name": "Daliņu Pludmale",
+                  "text": "A popular beach on the banks of the Gauja river.",
+                  "category": "recreational",
+                  "coords": [
+                        25.454391,
+                        57.541761
+                  ]
+            },
+            {
+                  "name": "Valmieras brīvdabas estrāde",
+                  "text": "An open-air stage for concerts and shows.",
+                  "category": "cultural",
+                  "coords": [
+                        25.438642,
+                        57.538013
+                  ]
+            },
+            {
+                  "name": "Sašķeltā liepa",
+                  "text": "A local natural monument in the form of a distinctive linden tree.",
+                  "category": "historical",
+                  "coords": [
+                        25.432911,
+                        57.540238
+                  ]
+            },
+            {
+                  "name": "Laipa",
+                  "text": "A contemporary art gallery in Valmiera.",
+                  "category": "museum",
+                  "coords": [
+                        25.436832,
+                        57.525406
+                  ]
+            },
+            {
+                  "name": "Barikāžu piemiņas vieta",
+                  "text": "A monument commemorating the period of the barricades.",
+                  "category": "historical",
+                  "coords": [
+                        25.404995,
+                        57.536092
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [25.4276, 57.5383],
@@ -614,7 +6329,484 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-ogre",
+    id: "lv-ogre", "sights": {
+      "de": [
+            {
+                  "name": "Ogres vēstures un mākslas muzejs",
+                  "text": "Dieses Museum zeigt die Geschichte und kulturelle Entwicklung der Stadt Ogre durch vielfältige Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        24.606008,
+                        56.817856
+                  ]
+            },
+            {
+                  "name": "Gaidu un Skautu Muzejs",
+                  "text": "Ein Museum in Ogre, das der Geschichte der Pfadfinderbewegung in Lettland gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.596825,
+                        56.820497
+                  ]
+            },
+            {
+                  "name": "Ogres tautas teātris",
+                  "text": "Das Volkstheater von Ogre bietet der lokalen Gemeinschaft eine Plattform für darstellende Künste und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.603511,
+                        56.817356
+                  ]
+            },
+            {
+                  "name": "Ķentes pilskalns",
+                  "text": "Eine bedeutende archäologische Stätte bei Ogre, die Überreste einer antiken Siedlung und Wallburg umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        24.644029,
+                        56.797832
+                  ]
+            },
+            {
+                  "name": "Tehnika no pagātnes",
+                  "text": "Ein Museum in Ogre, das eine Sammlung historischer Technik und Gerätschaften aus vergangenen Zeiten präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.625574,
+                        56.794218
+                  ]
+            },
+            {
+                  "name": "Brīvības ceļš",
+                  "text": "Ein Museum in Ogre, das sich mit der Geschichte der Freiheit und Unabhängigkeitsbewegungen befasst.",
+                  "category": "museum",
+                  "coords": [
+                        24.600545,
+                        56.813189
+                  ]
+            },
+            {
+                  "name": "dabas piemineklis „Ogres dolomītu krauja”",
+                  "text": "Ein geschütztes Naturdenkmal bei Ogre, das durch seine markanten Dolomitfelsen am Flussufer beeindruckt.",
+                  "category": "natural",
+                  "coords": [
+                        24.658471,
+                        56.818085
+                  ]
+            },
+            {
+                  "name": "Zilo Kalnu Milžu Taka",
+                  "text": "Ein Abenteuerpfad in den Blauen Bergen von Ogre, der Naturerlebnis und aktive Erholung miteinander verbindet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.595974,
+                        56.826312
+                  ]
+            },
+            {
+                  "name": "Ogres estrāde",
+                  "text": "Die Freilichtbühne von Ogre ist ein beliebter Ort für sommerliche Konzerte und kulturelle Veranstaltungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        24.614863,
+                        56.813717
+                  ]
+            },
+            {
+                  "name": "Komunistiskā genocīda upuru piemiņas vieta",
+                  "text": "Ein Denkmal in Ogre, das an die Opfer der kommunistischen Regime und die Deportationen erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        24.600602,
+                        56.817936
+                  ]
+            },
+            {
+                  "name": "Kodolbunkurs",
+                  "text": "Ein ehemaliger Schutzraum in Ogre, der heute als touristische Attraktion Einblicke in Zeiten des Kalten Krieges bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.628173,
+                        56.806699
+                  ]
+            },
+            {
+                  "name": "Ogres rajona prokuratūra",
+                  "text": "Dieses Verwaltungsgebäude ist ein interessanter Anziehungspunkt in Ogre.",
+                  "category": "landmark",
+                  "coords": [
+                        24.613133,
+                        56.816877
+                  ]
+            },
+            {
+                  "name": "Latviešu brīvības klints",
+                  "text": "Ein der Freiheit gewidmetes Denkmal in der Stadt Ogre.",
+                  "category": "historical",
+                  "coords": [
+                        24.599565,
+                        56.812855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ogres vēstures un mākslas muzejs",
+                  "text": "Ez a múzeum Ogre városának történelmét és kulturális fejlődését mutatja be változatos kiállításokon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        24.606008,
+                        56.817856
+                  ]
+            },
+            {
+                  "name": "Gaidu un Skautu Muzejs",
+                  "text": "Múzeum Ogre városában, amelyet a lettországi cserkészmozgalom történetének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        24.596825,
+                        56.820497
+                  ]
+            },
+            {
+                  "name": "Ogres tautas teātris",
+                  "text": "Az ogrei népszínház a helyi közösség számára nyújt lehetőséget előadóművészeti produkciók bemutatására.",
+                  "category": "cultural",
+                  "coords": [
+                        24.603511,
+                        56.817356
+                  ]
+            },
+            {
+                  "name": "Ķentes pilskalns",
+                  "text": "Jelentős régészeti lelőhely Ogre közelében, amely egy ősi település és várhely maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        24.644029,
+                        56.797832
+                  ]
+            },
+            {
+                  "name": "Tehnika no pagātnes",
+                  "text": "Múzeum Ogre városában, amely a múltbéli technika és eszközök gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.625574,
+                        56.794218
+                  ]
+            },
+            {
+                  "name": "Brīvības ceļš",
+                  "text": "Múzeum Ogre városában, amely a szabadság és a függetlenségi mozgalmak történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        24.600545,
+                        56.813189
+                  ]
+            },
+            {
+                  "name": "dabas piemineklis „Ogres dolomītu krauja”",
+                  "text": "Védett természeti emlék Ogre közelében, amely a folyóparti jellegzetes dolomitszikláival nyűgöz le.",
+                  "category": "natural",
+                  "coords": [
+                        24.658471,
+                        56.818085
+                  ]
+            },
+            {
+                  "name": "Zilo Kalnu Milžu Taka",
+                  "text": "Kalandösvény az ogrei Kék-hegyekben, amely a természetközeli élményt és az aktív kikapcsolódást ötvözi.",
+                  "category": "recreational",
+                  "coords": [
+                        24.595974,
+                        56.826312
+                  ]
+            },
+            {
+                  "name": "Ogres estrāde",
+                  "text": "Az ogrei szabadtéri színpad népszerű helyszín nyári koncertekhez és szabadtéri kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        24.614863,
+                        56.813717
+                  ]
+            },
+            {
+                  "name": "Komunistiskā genocīda upuru piemiņas vieta",
+                  "text": "Emlékmű Ogre városában, amely a kommunista rendszer áldozataira és a deportálásokra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        24.600602,
+                        56.817936
+                  ]
+            },
+            {
+                  "name": "Kodolbunkurs",
+                  "text": "Egykori óvóhely Ogre városában, amely ma turisztikai látványosságként nyújt betekintést a hidegháború idejébe.",
+                  "category": "landmark",
+                  "coords": [
+                        24.628173,
+                        56.806699
+                  ]
+            },
+            {
+                  "name": "Ogres rajona prokuratūra",
+                  "text": "Ez a közigazgatási épület egy érdekes látnivaló Ogre városában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.613133,
+                        56.816877
+                  ]
+            },
+            {
+                  "name": "Latviešu brīvības klints",
+                  "text": "A szabadságnak szentelt emlékmű Ogre városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.599565,
+                        56.812855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ogres vēstures un mākslas muzejs",
+                  "text": "Acest muzeu prezintă istoria și dezvoltarea culturală a orașului Ogre prin diverse exponate.",
+                  "category": "museum",
+                  "coords": [
+                        24.606008,
+                        56.817856
+                  ]
+            },
+            {
+                  "name": "Gaidu un Skautu Muzejs",
+                  "text": "Un muzeu în Ogre dedicat istoriei mișcării cercetașilor din Letonia.",
+                  "category": "museum",
+                  "coords": [
+                        24.596825,
+                        56.820497
+                  ]
+            },
+            {
+                  "name": "Ogres tautas teātris",
+                  "text": "Teatrul popular din Ogre oferă comunității locale o platformă pentru artele spectacolului și reprezentații.",
+                  "category": "cultural",
+                  "coords": [
+                        24.603511,
+                        56.817356
+                  ]
+            },
+            {
+                  "name": "Ķentes pilskalns",
+                  "text": "Un sit arheologic important lângă Ogre, care cuprinde resturile unei așezări antice și ale unei cetăți.",
+                  "category": "historical",
+                  "coords": [
+                        24.644029,
+                        56.797832
+                  ]
+            },
+            {
+                  "name": "Tehnika no pagātnes",
+                  "text": "Un muzeu în Ogre care prezintă o colecție de tehnologie și echipamente din vremurile trecute.",
+                  "category": "museum",
+                  "coords": [
+                        24.625574,
+                        56.794218
+                  ]
+            },
+            {
+                  "name": "Brīvības ceļš",
+                  "text": "Un muzeu în Ogre care se ocupă cu istoria libertății și a mișcărilor de independență.",
+                  "category": "museum",
+                  "coords": [
+                        24.600545,
+                        56.813189
+                  ]
+            },
+            {
+                  "name": "dabas piemineklis „Ogres dolomītu krauja”",
+                  "text": "Un monument natural protejat lângă Ogre, care impresionează prin stâncile sale de dolomit de pe malul râului.",
+                  "category": "natural",
+                  "coords": [
+                        24.658471,
+                        56.818085
+                  ]
+            },
+            {
+                  "name": "Zilo Kalnu Milžu Taka",
+                  "text": "Un traseu de aventură în Munții Albaștri din Ogre, care îmbină experiența naturii cu recreerea activă.",
+                  "category": "recreational",
+                  "coords": [
+                        24.595974,
+                        56.826312
+                  ]
+            },
+            {
+                  "name": "Ogres estrāde",
+                  "text": "Scena în aer liber din Ogre este un loc popular pentru concerte estivale și evenimente culturale în exterior.",
+                  "category": "cultural",
+                  "coords": [
+                        24.614863,
+                        56.813717
+                  ]
+            },
+            {
+                  "name": "Komunistiskā genocīda upuru piemiņas vieta",
+                  "text": "Un monument în Ogre care onorează memoria victimelor regimului comunist și ale deportărilor.",
+                  "category": "historical",
+                  "coords": [
+                        24.600602,
+                        56.817936
+                  ]
+            },
+            {
+                  "name": "Kodolbunkurs",
+                  "text": "Un fost buncăr în Ogre, care astăzi servește ca atracție turistică oferind detalii despre perioada Războiului Rece.",
+                  "category": "landmark",
+                  "coords": [
+                        24.628173,
+                        56.806699
+                  ]
+            },
+            {
+                  "name": "Ogres rajona prokuratūra",
+                  "text": "Această clădire administrativă este un punct de interes în Ogre.",
+                  "category": "landmark",
+                  "coords": [
+                        24.613133,
+                        56.816877
+                  ]
+            },
+            {
+                  "name": "Latviešu brīvības klints",
+                  "text": "Un monument dedicat libertății, situat în orașul Ogre.",
+                  "category": "historical",
+                  "coords": [
+                        24.599565,
+                        56.812855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ogre History and Art Museum",
+                  "text": "This museum showcases the history and cultural development of the town of Ogre through various exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        24.606008,
+                        56.817856
+                  ]
+            },
+            {
+                  "name": "Gaidu un Skautu Muzejs",
+                  "text": "A museum in Ogre dedicated to the history of the scouting movement in Latvia.",
+                  "category": "museum",
+                  "coords": [
+                        24.596825,
+                        56.820497
+                  ]
+            },
+            {
+                  "name": "Ogres tautas teātris",
+                  "text": "The Ogre People's Theatre provides the local community with a platform for performing arts and stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        24.603511,
+                        56.817356
+                  ]
+            },
+            {
+                  "name": "Ķentes pilskalns",
+                  "text": "A significant archaeological site near Ogre, featuring the remains of an ancient settlement and hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        24.644029,
+                        56.797832
+                  ]
+            },
+            {
+                  "name": "Tehnika no pagātnes",
+                  "text": "A museum in Ogre presenting a collection of historical technology and machinery from times past.",
+                  "category": "museum",
+                  "coords": [
+                        24.625574,
+                        56.794218
+                  ]
+            },
+            {
+                  "name": "Brīvības ceļš",
+                  "text": "A museum in Ogre focusing on the history of freedom and independence movements.",
+                  "category": "museum",
+                  "coords": [
+                        24.600545,
+                        56.813189
+                  ]
+            },
+            {
+                  "name": "dabas piemineklis „Ogres dolomītu krauja”",
+                  "text": "A protected natural monument near Ogre, notable for its striking dolomite cliffs along the riverbank.",
+                  "category": "natural",
+                  "coords": [
+                        24.658471,
+                        56.818085
+                  ]
+            },
+            {
+                  "name": "Zilo Kalnu Milžu Taka",
+                  "text": "An adventure trail in the Blue Mountains of Ogre, combining nature experience with active recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        24.595974,
+                        56.826312
+                  ]
+            },
+            {
+                  "name": "Ogres estrāde",
+                  "text": "The Ogre open-air stage is a popular venue for summer concerts and outdoor cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        24.614863,
+                        56.813717
+                  ]
+            },
+            {
+                  "name": "The monument to the victims of Communist regime",
+                  "text": "A monument in Ogre commemorating the victims of communist regimes and deportations.",
+                  "category": "historical",
+                  "coords": [
+                        24.600602,
+                        56.817936
+                  ]
+            },
+            {
+                  "name": "Kodolbunkurs",
+                  "text": "A former bunker in Ogre that now serves as a tourist attraction, offering insights into the Cold War era.",
+                  "category": "landmark",
+                  "coords": [
+                        24.628173,
+                        56.806699
+                  ]
+            },
+            {
+                  "name": "Ogre District Prosecutors Office",
+                  "text": "This administrative building is an interesting point of interest in Ogre.",
+                  "category": "landmark",
+                  "coords": [
+                        24.613133,
+                        56.816877
+                  ]
+            },
+            {
+                  "name": "Latviešu brīvības klints",
+                  "text": "A monument dedicated to freedom, located in the town of Ogre.",
+                  "category": "historical",
+                  "coords": [
+                        24.599565,
+                        56.812855
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [24.614, 56.8169],
@@ -663,7 +6855,340 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-tukums",
+    id: "lv-tukums", "sights": {
+      "de": [
+            {
+                  "name": "Tukuma pilskalns",
+                  "text": "Ein alter lettischer Burgwall in Tukums, der heute ein beliebter Ort für Spaziergänge ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.129603,
+                        56.968558
+                  ]
+            },
+            {
+                  "name": "Salmu muzejs",
+                  "text": "Dieses einzigartige Museum in Tukums präsentiert beeindruckende Kunstwerke aus Stroh.",
+                  "category": "museum",
+                  "coords": [
+                        23.160428,
+                        56.967825
+                  ]
+            },
+            {
+                  "name": "Tukku Magi",
+                  "text": "Ein Kultur- und Kunstzentrum in Tukums, das in einem historischen Speichergebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.16246,
+                        56.9653
+                  ]
+            },
+            {
+                  "name": "Pils tornis",
+                  "text": "Der Turm der ehemaligen Burg von Tukums beherbergt heute ein Museum zur Stadtgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        23.155587,
+                        56.964626
+                  ]
+            },
+            {
+                  "name": "Mākslas muzejs",
+                  "text": "Das Kunstmuseum von Tukums zeigt eine wertvolle Sammlung lettischer Malerei des 20. Jahrhunderts.",
+                  "category": "museum",
+                  "coords": [
+                        23.15153,
+                        56.965715
+                  ]
+            },
+            {
+                  "name": "Māte - Dzimtene",
+                  "text": "Ein monumentales Denkmal in Tukums, das als „Mutter Heimat“ bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.13678,
+                        56.966238
+                  ]
+            },
+            {
+                  "name": "Durbes muiža",
+                  "text": "Ein klassizistisches Herrenhaus in Tukums, das für seine Architektur und Ausstellungen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.193327,
+                        56.966555
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "Eine historische Rotunde in Tukums, die oft für kleine kulturelle Veranstaltungen genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        23.190589,
+                        56.964849
+                  ]
+            },
+            {
+                  "name": "Tukuma evaņģēliski luteriskā baznīca",
+                  "text": "Die evangelisch-lutherische Kirche ist ein zentrales religiöses und architektonisches Wahrzeichen von Tukums.",
+                  "category": "religious",
+                  "coords": [
+                        23.153997,
+                        56.964903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tukuma pilskalns",
+                  "text": "Régi lett várhely Tukumsban, amely ma népszerű sétahely.",
+                  "category": "historical",
+                  "coords": [
+                        23.129603,
+                        56.968558
+                  ]
+            },
+            {
+                  "name": "Salmu muzejs",
+                  "text": "Ez az egyedülálló tukumsi múzeum lenyűgöző szalmaművészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.160428,
+                        56.967825
+                  ]
+            },
+            {
+                  "name": "Tukku Magi",
+                  "text": "Tukumsi kulturális és művészeti központ, amely egy történelmi raktárépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        23.16246,
+                        56.9653
+                  ]
+            },
+            {
+                  "name": "Pils tornis",
+                  "text": "Az egykori tukumsi vár tornya ma várostörténeti múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        23.155587,
+                        56.964626
+                  ]
+            },
+            {
+                  "name": "Mākslas muzejs",
+                  "text": "A tukumsi művészeti múzeum a 20. századi lett festészet értékes gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.15153,
+                        56.965715
+                  ]
+            },
+            {
+                  "name": "Māte - Dzimtene",
+                  "text": "Tukumsi monumentális emlékmű, amelyet „Anya-Haza” néven ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        23.13678,
+                        56.966238
+                  ]
+            },
+            {
+                  "name": "Durbes muiža",
+                  "text": "Klasszicista kúria Tukumsban, amely építészetéről és kiállításairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        23.193327,
+                        56.966555
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "Történelmi rotunda Tukumsban, amelyet gyakran használnak kisebb kulturális eseményekre.",
+                  "category": "landmark",
+                  "coords": [
+                        23.190589,
+                        56.964849
+                  ]
+            },
+            {
+                  "name": "Tukuma evaņģēliski luteriskā baznīca",
+                  "text": "Az evangélikus-luteránus templom Tukums egyik központi vallási és építészeti nevezetessége.",
+                  "category": "religious",
+                  "coords": [
+                        23.153997,
+                        56.964903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tukuma pilskalns",
+                  "text": "Un vechi castru leton în Tukums, care este astăzi un loc popular pentru plimbări.",
+                  "category": "historical",
+                  "coords": [
+                        23.129603,
+                        56.968558
+                  ]
+            },
+            {
+                  "name": "Salmu muzejs",
+                  "text": "Acest muzeu unic din Tukums prezintă opere de artă impresionante realizate din paie.",
+                  "category": "museum",
+                  "coords": [
+                        23.160428,
+                        56.967825
+                  ]
+            },
+            {
+                  "name": "Tukku Magi",
+                  "text": "Un centru cultural și de artă din Tukums, găzduit într-o clădire istorică de depozit.",
+                  "category": "museum",
+                  "coords": [
+                        23.16246,
+                        56.9653
+                  ]
+            },
+            {
+                  "name": "Pils tornis",
+                  "text": "Turnul fostului castel din Tukums găzduiește astăzi un muzeu de istorie a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        23.155587,
+                        56.964626
+                  ]
+            },
+            {
+                  "name": "Mākslas muzejs",
+                  "text": "Muzeul de artă din Tukums expune o colecție valoroasă de pictură letonă din secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        23.15153,
+                        56.965715
+                  ]
+            },
+            {
+                  "name": "Māte - Dzimtene",
+                  "text": "Un monument monumental din Tukums cunoscut sub numele de „Mama Patrie”.",
+                  "category": "historical",
+                  "coords": [
+                        23.13678,
+                        56.966238
+                  ]
+            },
+            {
+                  "name": "Durbes muiža",
+                  "text": "Un conac clasicist din Tukums, cunoscut pentru arhitectura și expozițiile sale.",
+                  "category": "historical",
+                  "coords": [
+                        23.193327,
+                        56.966555
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "O rotondă istorică din Tukums, folosită adesea pentru mici evenimente culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        23.190589,
+                        56.964849
+                  ]
+            },
+            {
+                  "name": "Tukuma evaņģēliski luteriskā baznīca",
+                  "text": "Biserica evanghelică luterană este un punct de reper religios și arhitectural central din Tukums.",
+                  "category": "religious",
+                  "coords": [
+                        23.153997,
+                        56.964903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tukuma pilskalns",
+                  "text": "An ancient Latvian hillfort in Tukums, now a popular spot for walks.",
+                  "category": "historical",
+                  "coords": [
+                        23.129603,
+                        56.968558
+                  ]
+            },
+            {
+                  "name": "Straw Museum",
+                  "text": "This unique museum in Tukums showcases impressive artworks made from straw.",
+                  "category": "museum",
+                  "coords": [
+                        23.160428,
+                        56.967825
+                  ]
+            },
+            {
+                  "name": "Tukku Magi",
+                  "text": "A cultural and arts center in Tukums housed in a historic warehouse building.",
+                  "category": "museum",
+                  "coords": [
+                        23.16246,
+                        56.9653
+                  ]
+            },
+            {
+                  "name": "Pils tornis",
+                  "text": "The tower of the former Tukums castle now houses a museum of local history.",
+                  "category": "museum",
+                  "coords": [
+                        23.155587,
+                        56.964626
+                  ]
+            },
+            {
+                  "name": "Mākslas muzejs",
+                  "text": "The Tukums Art Museum displays a valuable collection of 20th-century Latvian painting.",
+                  "category": "museum",
+                  "coords": [
+                        23.15153,
+                        56.965715
+                  ]
+            },
+            {
+                  "name": "Māte - Dzimtene",
+                  "text": "A monumental memorial in Tukums known as 'Motherland'.",
+                  "category": "historical",
+                  "coords": [
+                        23.13678,
+                        56.966238
+                  ]
+            },
+            {
+                  "name": "Durbes muiža",
+                  "text": "A Classicist manor house in Tukums known for its architecture and exhibitions.",
+                  "category": "historical",
+                  "coords": [
+                        23.193327,
+                        56.966555
+                  ]
+            },
+            {
+                  "name": "Rotonda",
+                  "text": "A historic rotunda in Tukums often used for small cultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        23.190589,
+                        56.964849
+                  ]
+            },
+            {
+                  "name": "Tukuma evaņģēliski luteriskā baznīca",
+                  "text": "The Evangelical Lutheran church is a central religious and architectural landmark of Tukums.",
+                  "category": "religious",
+                  "coords": [
+                        23.153997,
+                        56.964903
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [23.1606, 56.9676],
@@ -712,7 +7237,628 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-kuldiga-city",
+    id: "lv-kuldiga-city", "sights": {
+      "de": [
+            {
+                  "name": "Veckuldīgas pilskalns",
+                  "text": "Der Standort einer alten lettischen Wallburg.",
+                  "category": "historical",
+                  "coords": [
+                        21.961494,
+                        56.994051
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Ventas ieleja”",
+                  "text": "Ein Naturschutzgebiet im Tal des Flusses Venta.",
+                  "category": "natural",
+                  "coords": [
+                        21.957198,
+                        57.012699
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzejs",
+                  "text": "Ein Museum zur Geschichte der Region Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.976543,
+                        56.96821
+                  ]
+            },
+            {
+                  "name": "Dzīvais muzejs",
+                  "text": "Ein interaktives Museum zur lokalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        21.971637,
+                        56.967528
+                  ]
+            },
+            {
+                  "name": "Adatu tornis",
+                  "text": "Ein Museum in einem historischen Turm in Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.963044,
+                        56.968591
+                  ]
+            },
+            {
+                  "name": "Cits laiks",
+                  "text": "Ein lokales Museum in Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.97092,
+                        56.969105
+                  ]
+            },
+            {
+                  "name": "Veckuldīgas senpilsēta",
+                  "text": "Die archäologische Stätte der ursprünglichen Siedlung.",
+                  "category": "historical",
+                  "coords": [
+                        21.95973,
+                        56.992897
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzeja krājums",
+                  "text": "Die Sammlung des Bezirksmuseums von Kuldīga mit historischen Exponaten der Region.",
+                  "category": "museum",
+                  "coords": [
+                        21.967339,
+                        56.967243
+                  ]
+            },
+            {
+                  "name": "dabas parks „Riežupe”",
+                  "text": "Ein Naturpark bei Kuldīga, der für seine Landschaft und Sandsteinhöhlen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.003255,
+                        56.999571
+                  ]
+            },
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "Ein beliebter Badeplatz am Fluss Venta auf der Insel Mārtiņsala in Kuldīga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            },
+            {
+                  "name": "Windauer Rummel",
+                  "text": "Mit etwa 240 Metern Breite gilt dieser Wasserfall in Kuldīga als der breiteste Europas.",
+                  "category": "landmark",
+                  "coords": [
+                        21.979248,
+                        56.968045
+                  ]
+            },
+            {
+                  "name": "Riteņdārzs",
+                  "text": "Ein öffentlicher Park in Kuldīga, der als Erholungsgebiet dient.",
+                  "category": "park",
+                  "coords": [
+                        21.973696,
+                        56.961678
+                  ]
+            },
+            {
+                  "name": "Līvijas Rezevskas izstāžu zāle",
+                  "text": "Eine Kunstgalerie in Kuldīga, die Werke der Bildhauerin Līvija Rezevska ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        21.963661,
+                        56.967353
+                  ]
+            },
+            {
+                  "name": "Kuldīgas Mākslas nams",
+                  "text": "Ein Kultur- und Ausstellungszentrum für zeitgenössische Kunst in Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.967955,
+                        56.969177
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "Eine historische Kirche in Kuldīga, die der Heiligen Anna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.968039,
+                        56.966242
+                  ]
+            },
+            {
+                  "name": "Sankt Katarina Evangelisch lutherisch Kirche",
+                  "text": "Die älteste Kirche der Stadt Kuldīga, bekannt für ihre Verbindung zum Herzogtum Kurland.",
+                  "category": "religious",
+                  "coords": [
+                        21.973251,
+                        56.970111
+                  ]
+            },
+            {
+                  "name": "Svētās Trīsvienības baznīca",
+                  "text": "Eine katholische Kirche in Kuldīga, die für ihre barocke Innenausstattung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.969915,
+                        56.967828
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Veckuldīgas pilskalns",
+                  "text": "Egy ősi lett várhelyszín.",
+                  "category": "historical",
+                  "coords": [
+                        21.961494,
+                        56.994051
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Ventas ieleja”",
+                  "text": "Természetvédelmi terület a Venta folyó völgyében.",
+                  "category": "natural",
+                  "coords": [
+                        21.957198,
+                        57.012699
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzejs",
+                  "text": "Kuldīga régió történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.976543,
+                        56.96821
+                  ]
+            },
+            {
+                  "name": "Dzīvais muzejs",
+                  "text": "Interaktív helytörténeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.971637,
+                        56.967528
+                  ]
+            },
+            {
+                  "name": "Adatu tornis",
+                  "text": "Múzeum egy történelmi toronyban Kuldīgában.",
+                  "category": "museum",
+                  "coords": [
+                        21.963044,
+                        56.968591
+                  ]
+            },
+            {
+                  "name": "Cits laiks",
+                  "text": "Helyi múzeum Kuldīgában.",
+                  "category": "museum",
+                  "coords": [
+                        21.97092,
+                        56.969105
+                  ]
+            },
+            {
+                  "name": "Veckuldīgas senpilsēta",
+                  "text": "Az eredeti település régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        21.95973,
+                        56.992897
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzeja krājums",
+                  "text": "A Kuldīga vidéki múzeum gyűjteménye a régió történelmi emlékeivel.",
+                  "category": "museum",
+                  "coords": [
+                        21.967339,
+                        56.967243
+                  ]
+            },
+            {
+                  "name": "dabas parks „Riežupe”",
+                  "text": "Természetvédelmi terület Kuldīga közelében, amely tájairól és homokkő barlangjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.003255,
+                        56.999571
+                  ]
+            },
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "Népszerű fürdőhely a Venta-folyón, a kuldīgai Mārtiņsala-szigeten.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            },
+            {
+                  "name": "Ventas rumba",
+                  "text": "Körülbelül 240 méteres szélességével ez a kuldīgai vízesés Európa legszélesebbje.",
+                  "category": "landmark",
+                  "coords": [
+                        21.979248,
+                        56.968045
+                  ]
+            },
+            {
+                  "name": "Riteņdārzs",
+                  "text": "Nyilvános park Kuldīga városában, amely pihenőhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        21.973696,
+                        56.961678
+                  ]
+            },
+            {
+                  "name": "Līvijas Rezevskas izstāžu zāle",
+                  "text": "Művészeti galéria Kuldīgában, amely Līvija Rezevska szobrászművész alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.963661,
+                        56.967353
+                  ]
+            },
+            {
+                  "name": "Kuldīgas Mākslas nams",
+                  "text": "Kulturális és kiállítóhely a kortárs művészet számára Kuldīga városában.",
+                  "category": "museum",
+                  "coords": [
+                        21.967955,
+                        56.969177
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "Szent Annának szentelt történelmi templom Kuldīga városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.968039,
+                        56.966242
+                  ]
+            },
+            {
+                  "name": "Svētās Katrīnas evaņģēliski luteriskā baznīca",
+                  "text": "Kuldīga városának legrégebbi temploma, amely a Kurföldi Hercegséghez fűződő kapcsolatairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.973251,
+                        56.970111
+                  ]
+            },
+            {
+                  "name": "Svētās Trīsvienības baznīca",
+                  "text": "Kuldīgai katolikus templom, amely barokk belső teréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        21.969915,
+                        56.967828
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Veckuldīgas pilskalns",
+                  "text": "Situl unei vechi cetăți letone.",
+                  "category": "historical",
+                  "coords": [
+                        21.961494,
+                        56.994051
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Ventas ieleja”",
+                  "text": "O rezervație naturală în valea râului Venta.",
+                  "category": "natural",
+                  "coords": [
+                        21.957198,
+                        57.012699
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzejs",
+                  "text": "Un muzeu dedicat istoriei regiunii Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.976543,
+                        56.96821
+                  ]
+            },
+            {
+                  "name": "Dzīvais muzejs",
+                  "text": "Un muzeu interactiv de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        21.971637,
+                        56.967528
+                  ]
+            },
+            {
+                  "name": "Adatu tornis",
+                  "text": "Un muzeu situat într-un turn istoric din Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.963044,
+                        56.968591
+                  ]
+            },
+            {
+                  "name": "Cits laiks",
+                  "text": "Un muzeu local în Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.97092,
+                        56.969105
+                  ]
+            },
+            {
+                  "name": "Veckuldīgas senpilsēta",
+                  "text": "Situl arheologic al așezării originale.",
+                  "category": "historical",
+                  "coords": [
+                        21.95973,
+                        56.992897
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzeja krājums",
+                  "text": "Colecția muzeului regional din Kuldīga, cuprinzând exponate istorice ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        21.967339,
+                        56.967243
+                  ]
+            },
+            {
+                  "name": "dabas parks „Riežupe”",
+                  "text": "Un parc natural lângă Kuldīga, cunoscut pentru peisajele sale și peșterile de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        22.003255,
+                        56.999571
+                  ]
+            },
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "Un loc popular pentru scăldat pe râul Venta, pe insula Mārtiņsala din Kuldīga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            },
+            {
+                  "name": "Ventas rumba",
+                  "text": "Cu o lățime de aproximativ 240 de metri, această cascadă din Kuldīga este cea mai lată din Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        21.979248,
+                        56.968045
+                  ]
+            },
+            {
+                  "name": "Riteņdārzs",
+                  "text": "Un parc public din Kuldīga care servește ca zonă de recreere.",
+                  "category": "park",
+                  "coords": [
+                        21.973696,
+                        56.961678
+                  ]
+            },
+            {
+                  "name": "Līvijas Rezevskas izstāžu zāle",
+                  "text": "O galerie de artă din Kuldīga care expune lucrările sculptoriței Līvija Rezevska.",
+                  "category": "museum",
+                  "coords": [
+                        21.963661,
+                        56.967353
+                  ]
+            },
+            {
+                  "name": "Kuldīgas Mākslas nams",
+                  "text": "Un centru cultural și expozițional pentru artă contemporană în Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.967955,
+                        56.969177
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "O biserică istorică din Kuldīga dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        21.968039,
+                        56.966242
+                  ]
+            },
+            {
+                  "name": "Svētās Katrīnas evaņģēliski luteriskā baznīca",
+                  "text": "Cea mai veche biserică din Kuldīga, cunoscută pentru legăturile sale cu Ducatul Curlandei.",
+                  "category": "religious",
+                  "coords": [
+                        21.973251,
+                        56.970111
+                  ]
+            },
+            {
+                  "name": "Svētās Trīsvienības baznīca",
+                  "text": "O biserică catolică din Kuldīga, cunoscută pentru interiorul său baroc.",
+                  "category": "religious",
+                  "coords": [
+                        21.969915,
+                        56.967828
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Veckuldīgas pilskalns",
+                  "text": "The site of an ancient Latvian hillfort.",
+                  "category": "historical",
+                  "coords": [
+                        21.961494,
+                        56.994051
+                  ]
+            },
+            {
+                  "name": "dabas liegums „Ventas ieleja”",
+                  "text": "A nature reserve in the valley of the Venta river.",
+                  "category": "natural",
+                  "coords": [
+                        21.957198,
+                        57.012699
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzejs",
+                  "text": "A museum showcasing the history of the Kuldīga region.",
+                  "category": "museum",
+                  "coords": [
+                        21.976543,
+                        56.96821
+                  ]
+            },
+            {
+                  "name": "Dzīvais muzejs",
+                  "text": "An interactive museum of local history.",
+                  "category": "museum",
+                  "coords": [
+                        21.971637,
+                        56.967528
+                  ]
+            },
+            {
+                  "name": "Adatu tornis",
+                  "text": "A museum located in a historic tower in Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.963044,
+                        56.968591
+                  ]
+            },
+            {
+                  "name": "Other time",
+                  "text": "A local museum in Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.97092,
+                        56.969105
+                  ]
+            },
+            {
+                  "name": "Veckuldīgas senpilsēta",
+                  "text": "The archaeological site of the original settlement.",
+                  "category": "historical",
+                  "coords": [
+                        21.95973,
+                        56.992897
+                  ]
+            },
+            {
+                  "name": "Kuldīgas novada muzeja krājums",
+                  "text": "The collection of the Kuldīga district museum featuring historical exhibits of the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.967339,
+                        56.967243
+                  ]
+            },
+            {
+                  "name": "dabas parks „Riežupe”",
+                  "text": "A nature park near Kuldīga known for its landscapes and sandstone caves.",
+                  "category": "natural",
+                  "coords": [
+                        22.003255,
+                        56.999571
+                  ]
+            },
+            {
+                  "name": "Mārtiņsalas peldvieta",
+                  "text": "A popular swimming spot on the Venta River on Mārtiņsala Island in Kuldīga.",
+                  "category": "recreational",
+                  "coords": [
+                        21.981305,
+                        56.967852
+                  ]
+            },
+            {
+                  "name": "Venta Rapid",
+                  "text": "At approximately 240 meters wide, this waterfall in Kuldīga is considered the widest in Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        21.979248,
+                        56.968045
+                  ]
+            },
+            {
+                  "name": "Riteņdārzs",
+                  "text": "A public park in Kuldīga serving as a recreational area.",
+                  "category": "park",
+                  "coords": [
+                        21.973696,
+                        56.961678
+                  ]
+            },
+            {
+                  "name": "Līvijas Rezevskas izstāžu zāle",
+                  "text": "An art gallery in Kuldīga exhibiting works by the sculptor Līvija Rezevska.",
+                  "category": "museum",
+                  "coords": [
+                        21.963661,
+                        56.967353
+                  ]
+            },
+            {
+                  "name": "Kuldīgas Mākslas nams",
+                  "text": "A cultural and exhibition center for contemporary art in Kuldīga.",
+                  "category": "museum",
+                  "coords": [
+                        21.967955,
+                        56.969177
+                  ]
+            },
+            {
+                  "name": "Svētās Annas baznīca",
+                  "text": "A historic church in Kuldīga dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        21.968039,
+                        56.966242
+                  ]
+            },
+            {
+                  "name": "Saint Catherine Lutheran church",
+                  "text": "The oldest church in Kuldīga, known for its historical ties to the Duchy of Courland.",
+                  "category": "religious",
+                  "coords": [
+                        21.973251,
+                        56.970111
+                  ]
+            },
+            {
+                  "name": "Svētās Trīsvienības baznīca",
+                  "text": "A Catholic church in Kuldīga known for its Baroque interior.",
+                  "category": "religious",
+                  "coords": [
+                        21.969915,
+                        56.967828
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [21.9747, 56.9738],
@@ -761,7 +7907,196 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-saldus",
+    id: "lv-saldus", "sights": {
+      "de": [
+            {
+                  "name": "Saldus pilskalns",
+                  "text": "Ein antiker Burgwall, der die frühe Geschichte der Region Saldus repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        22.508324,
+                        56.670536
+                  ]
+            },
+            {
+                  "name": "Saldus ordeņa pils atrašanās vieta",
+                  "text": "Die historische Stätte, an der einst die ehemalige Burg des Livländischen Ordens stand.",
+                  "category": "historical",
+                  "coords": [
+                        22.492675,
+                        56.672079
+                  ]
+            },
+            {
+                  "name": "Jaņa Rozentāla Saldus vēstures un mākslas muzejs",
+                  "text": "Ein Museum, das dem berühmten lettischen Maler Janis Rozentāls in seiner Heimatstadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.496961,
+                        56.663294
+                  ]
+            },
+            {
+                  "name": "Saldus muižas ēka",
+                  "text": "Ein historisches Herrenhaus in der Stadt Saldus.",
+                  "category": "historical",
+                  "coords": [
+                        22.491671,
+                        56.672413
+                  ]
+            },
+            {
+                  "name": "Saldus Sv. Pētera un Pāvila Romas katoļu baznīca",
+                  "text": "Eine bedeutende römisch-katholische Kirche, die der Gemeinde in Saldus dient.",
+                  "category": "religious",
+                  "coords": [
+                        22.501451,
+                        56.662087
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saldus pilskalns",
+                  "text": "Egy ősi várhely, amely Saldus környékének korai történelmét reprezentálja.",
+                  "category": "historical",
+                  "coords": [
+                        22.508324,
+                        56.670536
+                  ]
+            },
+            {
+                  "name": "Saldus ordeņa pils atrašanās vieta",
+                  "text": "A történelmi helyszín, ahol egykor a Livóniai Lovagrend egykori vára állt.",
+                  "category": "historical",
+                  "coords": [
+                        22.492675,
+                        56.672079
+                  ]
+            },
+            {
+                  "name": "Jaņa Rozentāla Saldus vēstures un mākslas muzejs",
+                  "text": "A híres lett festőnek, Janis Rozentālsnak szentelt múzeum szülővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        22.496961,
+                        56.663294
+                  ]
+            },
+            {
+                  "name": "Saldus muižas ēka",
+                  "text": "Egy történelmi kúriaépület Saldus városában.",
+                  "category": "historical",
+                  "coords": [
+                        22.491671,
+                        56.672413
+                  ]
+            },
+            {
+                  "name": "Saldus Sv. Pētera un Pāvila Romas katoļu baznīca",
+                  "text": "Jelentős római katolikus templom, amely a saldusi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        22.501451,
+                        56.662087
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saldus pilskalns",
+                  "text": "Un sit arheologic al unei cetăți antice care reprezintă istoria timpurie a regiunii Saldus.",
+                  "category": "historical",
+                  "coords": [
+                        22.508324,
+                        56.670536
+                  ]
+            },
+            {
+                  "name": "Saldus ordeņa pils atrašanās vieta",
+                  "text": "Locul istoric unde s-a aflat odinioară fostul castel al Ordinului Livonian.",
+                  "category": "historical",
+                  "coords": [
+                        22.492675,
+                        56.672079
+                  ]
+            },
+            {
+                  "name": "Jaņa Rozentāla Saldus vēstures un mākslas muzejs",
+                  "text": "Un muzeu dedicat celebrului pictor leton Janis Rozentāls în orașul său natal.",
+                  "category": "museum",
+                  "coords": [
+                        22.496961,
+                        56.663294
+                  ]
+            },
+            {
+                  "name": "Saldus muižas ēka",
+                  "text": "O clădire istorică de conac situată în orașul Saldus.",
+                  "category": "historical",
+                  "coords": [
+                        22.491671,
+                        56.672413
+                  ]
+            },
+            {
+                  "name": "Saldus Sv. Pētera un Pāvila Romas katoļu baznīca",
+                  "text": "O importantă biserică romano-catolică ce deservește comunitatea din Saldus.",
+                  "category": "religious",
+                  "coords": [
+                        22.501451,
+                        56.662087
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saldus pilskalns",
+                  "text": "An ancient hillfort representing the early history of the Saldus area.",
+                  "category": "historical",
+                  "coords": [
+                        22.508324,
+                        56.670536
+                  ]
+            },
+            {
+                  "name": "Saldus ordeņa pils atrašanās vieta",
+                  "text": "The historical site where the former castle of the Livonian Order once stood.",
+                  "category": "historical",
+                  "coords": [
+                        22.492675,
+                        56.672079
+                  ]
+            },
+            {
+                  "name": "Jaņa Rozentāla Saldus vēstures un mākslas muzejs",
+                  "text": "A museum dedicated to the famous Latvian painter Janis Rozentāls in his hometown.",
+                  "category": "museum",
+                  "coords": [
+                        22.496961,
+                        56.663294
+                  ]
+            },
+            {
+                  "name": "Saldus muižas ēka",
+                  "text": "A historical manor building located in the town of Saldus.",
+                  "category": "historical",
+                  "coords": [
+                        22.491671,
+                        56.672413
+                  ]
+            },
+            {
+                  "name": "Saldus Sv. Pētera un Pāvila Romas katoļu baznīca",
+                  "text": "A significant Roman Catholic church serving the community in Saldus.",
+                  "category": "religious",
+                  "coords": [
+                        22.501451,
+                        56.662087
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [22.4885, 56.6632],
@@ -810,7 +8145,124 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-aizkraukle",
+    id: "lv-aizkraukle", "sights": {
+      "de": [
+            {
+                  "name": "Kalnaziedu pilskalns",
+                  "text": "Ein archäologisch bedeutsamer Burgwall in Aizkraukle mit Blick auf das Daugava-Tal.",
+                  "category": "historical",
+                  "coords": [
+                        25.274015,
+                        56.599796
+                  ]
+            },
+            {
+                  "name": "Aizkraukles Vēstures un mākslas muzejs",
+                  "text": "Ein Museum in Aizkraukle, das sich der lokalen Geschichte und Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        25.272205,
+                        56.599305
+                  ]
+            },
+            {
+                  "name": "Ekspozīcija \"Padomju gadi\"",
+                  "text": "Diese Ausstellung in Aizkraukle befasst sich mit dem Leben während der Sowjetjahre.",
+                  "category": "landmark",
+                  "coords": [
+                        25.224833,
+                        56.615199
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalnaziedu pilskalns",
+                  "text": "Régészeti jelentőségű várhely Aizkraukléban, kilátással a Daugava völgyére.",
+                  "category": "historical",
+                  "coords": [
+                        25.274015,
+                        56.599796
+                  ]
+            },
+            {
+                  "name": "Aizkraukles Vēstures un mākslas muzejs",
+                  "text": "Helytörténeti és művészeti múzeum Aizkraukle városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.272205,
+                        56.599305
+                  ]
+            },
+            {
+                  "name": "Ekspozīcija \"Padomju gadi\"",
+                  "text": "Az aizkrauklei kiállítás a szovjet korszak mindennapjait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        25.224833,
+                        56.615199
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalnaziedu pilskalns",
+                  "text": "Un castru de importanță arheologică din Aizkraukle, cu vedere spre valea râului Daugava.",
+                  "category": "historical",
+                  "coords": [
+                        25.274015,
+                        56.599796
+                  ]
+            },
+            {
+                  "name": "Aizkraukles Vēstures un mākslas muzejs",
+                  "text": "Un muzeu de istorie și artă situat în orașul Aizkraukle.",
+                  "category": "museum",
+                  "coords": [
+                        25.272205,
+                        56.599305
+                  ]
+            },
+            {
+                  "name": "Ekspozīcija \"Padomju gadi\"",
+                  "text": "O expoziție din Aizkraukle care prezintă viața din timpul anilor sovietici.",
+                  "category": "landmark",
+                  "coords": [
+                        25.224833,
+                        56.615199
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalnaziedu pilskalns",
+                  "text": "An archaeologically significant hillfort in Aizkraukle overlooking the Daugava River valley.",
+                  "category": "historical",
+                  "coords": [
+                        25.274015,
+                        56.599796
+                  ]
+            },
+            {
+                  "name": "Aizkraukles Vēstures un mākslas muzejs",
+                  "text": "A museum in Aizkraukle dedicated to local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        25.272205,
+                        56.599305
+                  ]
+            },
+            {
+                  "name": "Ekspozīcija \"Padomju gadi\"",
+                  "text": "This exhibition in Aizkraukle focuses on life during the Soviet years.",
+                  "category": "landmark",
+                  "coords": [
+                        25.224833,
+                        56.615199
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [25.2564, 56.6028],
@@ -869,6 +8321,24 @@ export const latviaAllPoi = [
                         26.168038,
                         56.326349
                   ]
+            },
+            {
+                  "name": "Līvānu atbrīvošanas piemineklis",
+                  "text": "Ein Denkmal in Līvāni zur Erinnerung an die Befreiung der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.181502,
+                        56.353559
+                  ]
+            },
+            {
+                  "name": "Līvānu Svētā Erceņģeļa Miķeļa Romas katoļu baznīca",
+                  "text": "Eine markante katholische Kirche in Līvāni, erbaut im frühen 20. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        26.165022,
+                        56.364448
+                  ]
             }
       ],
       "hu": [
@@ -879,6 +8349,24 @@ export const latviaAllPoi = [
                   "coords": [
                         26.168038,
                         56.326349
+                  ]
+            },
+            {
+                  "name": "Līvānu atbrīvošanas piemineklis",
+                  "text": "Emlékmű Līvāni városában a város felszabadításának emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        26.181502,
+                        56.353559
+                  ]
+            },
+            {
+                  "name": "Līvānu Svētā Erceņģeļa Miķeļa Romas katoļu baznīca",
+                  "text": "Jellegzetes katolikus templom Līvāni városában, amely a 20. század elején épült.",
+                  "category": "religious",
+                  "coords": [
+                        26.165022,
+                        56.364448
                   ]
             }
       ],
@@ -891,6 +8379,24 @@ export const latviaAllPoi = [
                         26.168038,
                         56.326349
                   ]
+            },
+            {
+                  "name": "Līvānu atbrīvošanas piemineklis",
+                  "text": "Un monument în Līvāni care comemorează eliberarea orașului.",
+                  "category": "historical",
+                  "coords": [
+                        26.181502,
+                        56.353559
+                  ]
+            },
+            {
+                  "name": "Līvānu Svētā Erceņģeļa Miķeļa Romas katoļu baznīca",
+                  "text": "O biserică catolică proeminentă din Līvāni, construită la începutul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        26.165022,
+                        56.364448
+                  ]
             }
       ],
       "en": [
@@ -901,6 +8407,24 @@ export const latviaAllPoi = [
                   "coords": [
                         26.168038,
                         56.326349
+                  ]
+            },
+            {
+                  "name": "Līvānu atbrīvošanas piemineklis",
+                  "text": "A monument in Līvāni commemorating the liberation of the town.",
+                  "category": "historical",
+                  "coords": [
+                        26.181502,
+                        56.353559
+                  ]
+            },
+            {
+                  "name": "Līvānu Svētā Erceņģeļa Miķeļa Romas katoļu baznīca",
+                  "text": "A prominent Catholic church in Līvāni, built in the early 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        26.165022,
+                        56.364448
                   ]
             }
       ]
@@ -3796,7 +11320,88 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-iecava",
+    id: "lv-iecava", "sights": {
+      "de": [
+            {
+                  "name": "Kultūras nams",
+                  "text": "Ein lokales Zentrum für kulturelle Veranstaltungen und Gemeinschaftstreffen in Iecava.",
+                  "category": "cultural",
+                  "coords": [
+                        24.196555,
+                        56.597012
+                  ]
+            },
+            {
+                  "name": "Iecavas mūzikas un mākslas skola",
+                  "text": "Eine Bildungseinrichtung in Iecava mit Schwerpunkt auf Musik und Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        24.205045,
+                        56.59316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kultūras nams",
+                  "text": "A kulturális események és közösségi összejövetelek helyi központja Iecavában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.196555,
+                        56.597012
+                  ]
+            },
+            {
+                  "name": "Iecavas mūzikas un mākslas skola",
+                  "text": "Zenére és művészetekre összpontosító oktatási intézmény Iecavában.",
+                  "category": "cultural",
+                  "coords": [
+                        24.205045,
+                        56.59316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kultūras nams",
+                  "text": "Un centru local pentru evenimente culturale și întâlniri comunitare în Iecava.",
+                  "category": "cultural",
+                  "coords": [
+                        24.196555,
+                        56.597012
+                  ]
+            },
+            {
+                  "name": "Iecavas mūzikas un mākslas skola",
+                  "text": "O instituție de învățământ axată pe muzică și artă în Iecava.",
+                  "category": "cultural",
+                  "coords": [
+                        24.205045,
+                        56.59316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kultūras nams",
+                  "text": "A local center for cultural events and community gatherings in Iecava.",
+                  "category": "cultural",
+                  "coords": [
+                        24.196555,
+                        56.597012
+                  ]
+            },
+            {
+                  "name": "Iecavas mūzikas un mākslas skola",
+                  "text": "An educational institution focused on music and arts in Iecava.",
+                  "category": "cultural",
+                  "coords": [
+                        24.205045,
+                        56.59316
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [24.2020, 56.5970],
@@ -3845,7 +11450,340 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-kraslava",
+    id: "lv-kraslava", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Kreslau",
+                  "text": "Das Barockschloss der Familie Plater ist ein markantes Wahrzeichen von Krāslava.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Ein Naturpark, der die malerischen Mäander des Flusses Düna bei Krāslava schützt.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "Eine archäologische Stätte eines alten Burgwalls in der Nähe von Krāslava.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "Ein historischer Burgwall in Krāslava mit archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Zelta pludmale",
+                  "text": "Ein Strand in Krāslava, der zur Erholung am Wasser einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "Ein Aussichtspunkt in Krāslava mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "Eine lokale Sehenswürdigkeit in Krāslava, die oft von Besuchern aufgesucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "Ein Kunstzentrum in Krāslava, das Raum für kreative Ausstellungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "Eine bedeutende römisch-katholische Kirche in Krāslava, dem heiligen Ludwig gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krāslavas Grāfu Plāteru pils",
+                  "text": "A Plater család barokk stílusú kastélya Krāslava egyik nevezetessége.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Természetvédelmi terület, amely a Daugava folyó festői kanyarulatait védi Krāslava környékén.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "Egy ősi várhely régészeti lelőhelye Krāslava közelében.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "Krāslava történelmi várhegye, amely fontos régészeti helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Zelta pludmale",
+                  "text": "Strand Krāslava városában, amely kikapcsolódási lehetőséget kínál a vízparton.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "Kilátópont Krāslavában, ahonnan panoráma nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "Krāslava egyik helyi látványossága, amely népszerű a látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "Művészeti központ Krāslavában, amely különféle kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "Szent Lajosnak szentelt jelentős római katolikus templom Krāslava városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krāslavas Grāfu Plāteru pils",
+                  "text": "Palatul familiei Plater este un castel baroc reprezentativ pentru orașul Krāslava.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "dabas parks „Daugavas loki”",
+                  "text": "Un parc natural care protejează meandrele pitorești ale râului Daugava lângă Krāslava.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "Un sit arheologic ce cuprinde o veche așezare fortificată lângă Krāslava.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "Un vechi dâmb fortificat din Krāslava, având o mare importanță arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Zelta pludmale",
+                  "text": "O plajă în Krāslava, ideală pentru relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "Un punct de observație în Krāslava ce oferă priveliști asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "O atracție locală din Krāslava, frecventată de turiști și localnici.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "Un centru de artă din Krāslava care găzduiește diverse activități creative și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "O biserică romano-catolică importantă din Krāslava, dedicată Sfântului Ludovic.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krāslava Plater Palace",
+                  "text": "The Plater family's Baroque palace is a prominent landmark in Krāslava.",
+                  "category": "castle",
+                  "coords": [
+                        27.159684,
+                        55.899614
+                  ]
+            },
+            {
+                  "name": "Daugava river bends nature park",
+                  "text": "A nature park protecting the scenic meanders of the Daugava River near Krāslava.",
+                  "category": "natural",
+                  "coords": [
+                        26.928458,
+                        55.895251
+                  ]
+            },
+            {
+                  "name": "Adamovas pilskalns",
+                  "text": "An archaeological site of an ancient hillfort located near Krāslava.",
+                  "category": "historical",
+                  "coords": [
+                        27.13361,
+                        55.89388
+                  ]
+            },
+            {
+                  "name": "Krāslavas pilskalns",
+                  "text": "A historic hillfort in Krāslava with significant archaeological value.",
+                  "category": "historical",
+                  "coords": [
+                        27.16611,
+                        55.91
+                  ]
+            },
+            {
+                  "name": "Zelta pludmale",
+                  "text": "A beach in Krāslava offering a place for recreation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        27.15289,
+                        55.895674
+                  ]
+            },
+            {
+                  "name": "Skatu laukums",
+                  "text": "A viewpoint in Krāslava offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        27.135769,
+                        55.894383
+                  ]
+            },
+            {
+                  "name": "Karņicka kalns",
+                  "text": "A local attraction in Krāslava frequently visited by tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        27.146434,
+                        55.899456
+                  ]
+            },
+            {
+                  "name": "Mākslas māja",
+                  "text": "An arts centre in Krāslava that hosts various creative exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        27.170254,
+                        55.895231
+                  ]
+            },
+            {
+                  "name": "Krāslavas Svētā Ludvika Romas katoļu baznīca",
+                  "text": "A significant Roman Catholic church in Krāslava dedicated to Saint Louis.",
+                  "category": "religious",
+                  "coords": [
+                        27.169943,
+                        55.897943
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [27.1660, 55.8950],
@@ -3894,7 +11832,160 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-vilaka",
+    id: "lv-vilaka", "sights": {
+      "de": [
+            {
+                  "name": "Marienhauzenas pils drupas",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in Viļaka auf einer Insel im See.",
+                  "category": "castle",
+                  "coords": [
+                        27.688758,
+                        57.193962
+                  ]
+            },
+            {
+                  "name": "bij. Kapucīnu klostera ēka / čekas pagrabi",
+                  "text": "Ein ehemaliges Kloster in Viļaka, das heute Ausstellungen zur lokalen Geschichte beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        27.669227,
+                        57.183823
+                  ]
+            },
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "Der städtische Strand von Viļaka am Ufer des Viļaka-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            },
+            {
+                  "name": "Viļakas Vissvētā Jēzus Sirds Romas katoļu baznīca",
+                  "text": "Eine neugotische katholische Kirche in Viļaka, ein bedeutendes lokales Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        27.680789,
+                        57.178073
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marienhauzenas pils drupas",
+                  "text": "Egy középkori vár romjai Viļaka városában, egy tóban található szigeten.",
+                  "category": "castle",
+                  "coords": [
+                        27.688758,
+                        57.193962
+                  ]
+            },
+            {
+                  "name": "bij. Kapucīnu klostera ēka / čekas pagrabi",
+                  "text": "Egykori kolostor Viļakában, amely ma helytörténeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        27.669227,
+                        57.183823
+                  ]
+            },
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "Viļaka városi strandja a Viļaka-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            },
+            {
+                  "name": "Viļakas Vissvētā Jēzus Sirds Romas katoļu baznīca",
+                  "text": "Neogótikus katolikus templom Viļakában, amely jelentős helyi jelkép.",
+                  "category": "religious",
+                  "coords": [
+                        27.680789,
+                        57.178073
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marienhauzenas pils drupas",
+                  "text": "Ruinele unui castel medieval din Viļaka, situat pe o insulă în lac.",
+                  "category": "castle",
+                  "coords": [
+                        27.688758,
+                        57.193962
+                  ]
+            },
+            {
+                  "name": "bij. Kapucīnu klostera ēka / čekas pagrabi",
+                  "text": "O fostă mănăstire din Viļaka, care găzduiește astăzi expoziții de istorie locală.",
+                  "category": "museum",
+                  "coords": [
+                        27.669227,
+                        57.183823
+                  ]
+            },
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "Plaja orașului Viļaka, situată pe malul lacului Viļaka.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            },
+            {
+                  "name": "Viļakas Vissvētā Jēzus Sirds Romas katoļu baznīca",
+                  "text": "O biserică catolică neogotică din Viļaka, un reper local important.",
+                  "category": "religious",
+                  "coords": [
+                        27.680789,
+                        57.178073
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marienhauzenas pils drupas",
+                  "text": "The ruins of a medieval castle in Viļaka located on an island in the lake.",
+                  "category": "castle",
+                  "coords": [
+                        27.688758,
+                        57.193962
+                  ]
+            },
+            {
+                  "name": "bij. Kapucīnu klostera ēka / čekas pagrabi",
+                  "text": "A former monastery in Viļaka that now houses local history exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        27.669227,
+                        57.183823
+                  ]
+            },
+            {
+                  "name": "Viļakas pilsētas pludmale",
+                  "text": "The city beach of Viļaka located on the shores of Lake Viļaka.",
+                  "category": "recreational",
+                  "coords": [
+                        27.683489,
+                        57.188856
+                  ]
+            },
+            {
+                  "name": "Viļakas Vissvētā Jēzus Sirds Romas katoļu baznīca",
+                  "text": "A Neo-Gothic Catholic church in Viļaka, a significant local landmark.",
+                  "category": "religious",
+                  "coords": [
+                        27.680789,
+                        57.178073
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [27.6750, 57.1845],
@@ -3992,7 +12083,304 @@ export const latviaAllPoi = [
     },
   },
   {
-    id: "lv-salaspils",
+    id: "lv-salaspils", "sights": {
+      "de": [
+            {
+                  "name": "Salaspils memoriālais ansamblis",
+                  "text": "Eine Gedenkstätte in Salaspils, die an die Opfer des dortigen Konzentrationslagers erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        24.302352,
+                        56.872989
+                  ]
+            },
+            {
+                  "name": "Botania",
+                  "text": "Ein Museum oder eine Ausstellung in Salaspils, die sich mit botanischen Themen befasst.",
+                  "category": "museum",
+                  "coords": [
+                        24.354205,
+                        56.862603
+                  ]
+            },
+            {
+                  "name": "Kurmīškalns",
+                  "text": "Ein Aussichtspunkt in Salaspils, der Ausblicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.375671,
+                        56.857136
+                  ]
+            },
+            {
+                  "name": "Salaspils pilsdrupas",
+                  "text": "Die Überreste einer historischen Burg in der Stadt Salaspils.",
+                  "category": "historical",
+                  "coords": [
+                        24.33282,
+                        56.84842
+                  ]
+            },
+            {
+                  "name": "Tvaika lokomobīle",
+                  "text": "Eine historische Dampflokomobile, die in Salaspils als Sehenswürdigkeit ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.337974,
+                        56.85497
+                  ]
+            },
+            {
+                  "name": "Studija\"RADI\"",
+                  "text": "Ein lokales Kunstzentrum in Salaspils, das kreative Projekte unterstützt.",
+                  "category": "cultural",
+                  "coords": [
+                        24.349754,
+                        56.861804
+                  ]
+            },
+            {
+                  "name": "Salaspils kultūras nams \"Enerģētiķis\"",
+                  "text": "Ein Kulturhaus in Salaspils, das als Zentrum für Veranstaltungen und Kunst dient.",
+                  "category": "cultural",
+                  "coords": [
+                        24.337196,
+                        56.853566
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "Historische Ruinen in Salaspils, die oft mit der Geschichte des Ortes verbunden sind.",
+                  "category": "historical",
+                  "coords": [
+                        24.303575,
+                        56.874906
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salaspils memoriālais ansamblis",
+                  "text": "Salaspilsi emlékhely, amely az egykori koncentrációs tábor áldozatainak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        24.302352,
+                        56.872989
+                  ]
+            },
+            {
+                  "name": "Botania",
+                  "text": "Botanikai témájú múzeum vagy kiállítás Salaspils városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.354205,
+                        56.862603
+                  ]
+            },
+            {
+                  "name": "Kurmīškalns",
+                  "text": "Kilátóhely Salaspilsben, ahonnan rálátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        24.375671,
+                        56.857136
+                  ]
+            },
+            {
+                  "name": "Salaspils pilsdrupas",
+                  "text": "Egy történelmi vár romjai Salaspils városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.33282,
+                        56.84842
+                  ]
+            },
+            {
+                  "name": "Tvaika lokomobīle",
+                  "text": "Salaspilsben kiállított történelmi gőzlokomobil, amely ipari műemlék.",
+                  "category": "landmark",
+                  "coords": [
+                        24.337974,
+                        56.85497
+                  ]
+            },
+            {
+                  "name": "Studija\"RADI\"",
+                  "text": "Salaspilsi művészeti stúdió és központ, amely kreatív projekteknek ad helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        24.349754,
+                        56.861804
+                  ]
+            },
+            {
+                  "name": "Salaspils kultūras nams \"Enerģētiķis\"",
+                  "text": "Salaspils kulturális központja, amely rendezvényernek és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        24.337196,
+                        56.853566
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "Történelmi romok Salaspilsben, amelyek a helyi múlthoz kapcsolódnak.",
+                  "category": "historical",
+                  "coords": [
+                        24.303575,
+                        56.874906
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salaspils memoriālais ansamblis",
+                  "text": "Un ansamblu memorial în Salaspils, ridicat în memoria victimelor fostului lagăr de concentrare.",
+                  "category": "museum",
+                  "coords": [
+                        24.302352,
+                        56.872989
+                  ]
+            },
+            {
+                  "name": "Botania",
+                  "text": "Un muzeu din Salaspils dedicat temelor botanice și naturii.",
+                  "category": "museum",
+                  "coords": [
+                        24.354205,
+                        56.862603
+                  ]
+            },
+            {
+                  "name": "Kurmīškalns",
+                  "text": "Un punct de observație în Salaspils care oferă panorame asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        24.375671,
+                        56.857136
+                  ]
+            },
+            {
+                  "name": "Salaspils pilsdrupas",
+                  "text": "Ruinele unei cetăți istorice situate în orașul Salaspils.",
+                  "category": "historical",
+                  "coords": [
+                        24.33282,
+                        56.84842
+                  ]
+            },
+            {
+                  "name": "Tvaika lokomobīle",
+                  "text": "O locomobilă cu aburi istorică, expusă ca atracție în Salaspils.",
+                  "category": "landmark",
+                  "coords": [
+                        24.337974,
+                        56.85497
+                  ]
+            },
+            {
+                  "name": "Studija\"RADI\"",
+                  "text": "Un centru de artă local din Salaspils care susține diverse proiecte creative.",
+                  "category": "cultural",
+                  "coords": [
+                        24.349754,
+                        56.861804
+                  ]
+            },
+            {
+                  "name": "Salaspils kultūras nams \"Enerģētiķis\"",
+                  "text": "O casă de cultură în Salaspils care servește drept centru pentru evenimente și arte.",
+                  "category": "cultural",
+                  "coords": [
+                        24.337196,
+                        56.853566
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "Ruine istorice în Salaspils, adesea asociate cu trecutul localității.",
+                  "category": "historical",
+                  "coords": [
+                        24.303575,
+                        56.874906
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salaspils Memorial Ensemble",
+                  "text": "A memorial complex in Salaspils commemorating the victims of the former concentration camp.",
+                  "category": "museum",
+                  "coords": [
+                        24.302352,
+                        56.872989
+                  ]
+            },
+            {
+                  "name": "Botania",
+                  "text": "A museum or exhibition in Salaspils focused on botanical themes.",
+                  "category": "museum",
+                  "coords": [
+                        24.354205,
+                        56.862603
+                  ]
+            },
+            {
+                  "name": "Kurmīškalns",
+                  "text": "A viewpoint in Salaspils providing views over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        24.375671,
+                        56.857136
+                  ]
+            },
+            {
+                  "name": "Salaspils pilsdrupas",
+                  "text": "The remains of a historic castle located in the town of Salaspils.",
+                  "category": "historical",
+                  "coords": [
+                        24.33282,
+                        56.84842
+                  ]
+            },
+            {
+                  "name": "Steam lokomobile",
+                  "text": "A historic steam lokomobile exhibited as an attraction in Salaspils.",
+                  "category": "landmark",
+                  "coords": [
+                        24.337974,
+                        56.85497
+                  ]
+            },
+            {
+                  "name": "Studija\"RADI\"",
+                  "text": "A local arts centre in Salaspils that supports various creative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        24.349754,
+                        56.861804
+                  ]
+            },
+            {
+                  "name": "Salaspils kultūras nams \"Enerģētiķis\"",
+                  "text": "A culture house in Salaspils serving as a hub for events and the arts.",
+                  "category": "cultural",
+                  "coords": [
+                        24.337196,
+                        56.853566
+                  ]
+            },
+            {
+                  "name": "Baraka",
+                  "text": "Historic ruins in Salaspils, often connected to the location's history.",
+                  "category": "historical",
+                  "coords": [
+                        24.303575,
+                        56.874906
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [24.3460, 56.8610],
@@ -4044,7 +12432,952 @@ export const latviaAllPoi = [
 
 export const latviaCities = [
   {
-    id: "city-daugavpils",
+    id: "city-daugavpils", "sights": {
+      "de": [
+            {
+                  "name": "Daugavpils teātris",
+                  "text": "Ein professionelles Theater in Daugavpils mit einem vielfältigen Programm in mehreren Sprachen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.516512,
+                        55.870533
+                  ]
+            },
+            {
+                  "name": "Zitadelle Dünaburg",
+                  "text": "Eine weitläufige Festungsanlage aus dem 19. Jahrhundert in Daugavpils.",
+                  "category": "castle",
+                  "coords": [
+                        26.495068,
+                        55.886042
+                  ]
+            },
+            {
+                  "name": "Rotko muzejs",
+                  "text": "Ein Kunstzentrum in Daugavpils, das dem Leben und Werk des Malers Mark Rothko gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.49745,
+                        55.883844
+                  ]
+            },
+            {
+                  "name": "Latgales zoodārzs",
+                  "text": "Ein kleiner Zoo in Daugavpils, der sich auf exotische Reptilien und Amphibien spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509689,
+                        55.873676
+                  ]
+            },
+            {
+                  "name": "Daugavpils skrošu rūpnīca",
+                  "text": "Ein Industriemuseum in Daugavpils, das die Herstellung von Bleischrot zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.535323,
+                        55.874943
+                  ]
+            },
+            {
+                  "name": "Daugavpils Novadpētniecības un Mākslas muzejs",
+                  "text": "Das Regionalmuseum für Geschichte und Kunst in Daugavpils.",
+                  "category": "museum",
+                  "coords": [
+                        26.511651,
+                        55.868989
+                  ]
+            },
+            {
+                  "name": "Ebreji Daugavpilī un Latgalē",
+                  "text": "Ein Museum in Daugavpils, das die jüdische Geschichte der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.520918,
+                        55.870447
+                  ]
+            },
+            {
+                  "name": "Daugavpils cietokšņa 3. roduts",
+                  "text": "Ein Teil der historischen Festungsanlagen in der Stadt Daugavpils.",
+                  "category": "castle",
+                  "coords": [
+                        26.509629,
+                        55.891248
+                  ]
+            },
+            {
+                  "name": "Daugavpils Jezuītu baznīcas pamati",
+                  "text": "Archäologische Überreste einer ehemaligen Jesuitenkirche in Daugavpils.",
+                  "category": "historical",
+                  "coords": [
+                        26.499156,
+                        55.884033
+                  ]
+            },
+            {
+                  "name": "Pie Komendanta",
+                  "text": "Ein Museumsbereich in Daugavpils, der historische Uniformen und Gegenstände zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.496886,
+                        55.885074
+                  ]
+            },
+            {
+                  "name": "Medicīnas izstāde",
+                  "text": "Eine Ausstellung in Daugavpils, die sich mit der Geschichte der Medizin befasst.",
+                  "category": "museum",
+                  "coords": [
+                        26.494742,
+                        55.884165
+                  ]
+            },
+            {
+                  "name": "Daugavpils inovāciju centrs",
+                  "text": "Ein interaktives Bildungszentrum in Daugavpils, das sich mit Wissenschaft und Innovation befasst.",
+                  "category": "museum",
+                  "coords": [
+                        26.512233,
+                        55.873577
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "Ein öffentlicher Strand am Šuņezers-See in Daugavpils.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            },
+            {
+                  "name": "Dubrovina parks",
+                  "text": "Ein zentraler Park in Daugavpils, benannt nach dem ehemaligen Bürgermeister Pawel Dubrowin.",
+                  "category": "park",
+                  "coords": [
+                        26.510648,
+                        55.869776
+                  ]
+            },
+            {
+                  "name": "Lāzeršautuve",
+                  "text": "Ein Freizeitzentrum in Daugavpils, das Lasertag-Spiele anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.530192,
+                        55.870304
+                  ]
+            },
+            {
+                  "name": "RVR tramvajs",
+                  "text": "Ein historischer Straßenbahnwagen in Daugavpils, der als technisches Denkmal dient.",
+                  "category": "landmark",
+                  "coords": [
+                        26.499819,
+                        55.885539
+                  ]
+            },
+            {
+                  "name": "Latvijas laikmetīgās keramikas centrs",
+                  "text": "Ein Zentrum in Daugavpils, das zeitgenössische Keramikkunst fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        26.493987,
+                        55.887549
+                  ]
+            },
+            {
+                  "name": "Daugavpils Māla Mākslas Centrs",
+                  "text": "Ein Zentrum in Daugavpils, das traditionelles Handwerk und Keramikkunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        26.524614,
+                        55.865938
+                  ]
+            },
+            {
+                  "name": "Mārtiņa Lutera katedrāle",
+                  "text": "Die lutherische Hauptkirche von Daugavpils, die sich auf dem Hügel der Kirchen befindet.",
+                  "category": "religious",
+                  "coords": [
+                        26.540908,
+                        55.870699
+                  ]
+            },
+            {
+                  "name": "Daugavpils Dievmātes Romas katoļu draudzes baznīca",
+                  "text": "Eine katholische Kirche in Daugavpils, bekannt für ihre weiße Fassade und Türme.",
+                  "category": "religious",
+                  "coords": [
+                        26.542902,
+                        55.870834
+                  ]
+            },
+            {
+                  "name": "Boris- und Gleb-Kathedrale",
+                  "text": "Die größte orthodoxe Kathedrale Lettlands, die sich in Daugavpils befindet.",
+                  "category": "religious",
+                  "coords": [
+                        26.538008,
+                        55.870651
+                  ]
+            },
+            {
+                  "name": "Daugavpils Vecticībnieku Pomoras Baznīca",
+                  "text": "Eine Kirche der Altgläubigen in Daugavpils, ein wichtiges religiöses Zentrum der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        26.539753,
+                        55.872992
+                  ]
+            },
+            {
+                  "name": "Svēta Pētera ķēdēs Romas katoļu draudzes baznīca",
+                  "text": "Eine römisch-katholische Kirche im Zentrum von Daugavpils mit klassizistischen Merkmalen.",
+                  "category": "religious",
+                  "coords": [
+                        26.519474,
+                        55.872594
+                  ]
+            },
+            {
+                  "name": "Grīvas Svētās Jaunavas Marijas draudze",
+                  "text": "Eine katholische Gemeinde und Kirche im Stadtteil Grīva von Daugavpils.",
+                  "category": "religious",
+                  "coords": [
+                        26.515762,
+                        55.85913
+                  ]
+            },
+            {
+                  "name": "Daugavpils radio un televīzijas tornis",
+                  "text": "Eines der höchsten Bauwerke des Baltikums, das den Rundfunk in Daugavpils versorgt.",
+                  "category": "tower",
+                  "coords": [
+                        26.533505,
+                        55.872489
+                  ]
+            },
+            {
+                  "name": "Vienības tilts",
+                  "text": "Eine wichtige Brücke über den Fluss Düna, die zwei Stadtteile von Daugavpils verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.512099,
+                        55.865761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daugavpils teātris",
+                  "text": "Daugavpils hivatásos színháza, amely többnyelvű repertoárral rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        26.516512,
+                        55.870533
+                  ]
+            },
+            {
+                  "name": "Daugavpils cietoksnis",
+                  "text": "Hatalmas, 19. századi erődrendszer Daugavpils városában.",
+                  "category": "castle",
+                  "coords": [
+                        26.495068,
+                        55.886042
+                  ]
+            },
+            {
+                  "name": "Rotko muzejs",
+                  "text": "Daugavpilsi művészeti központ, amelyet Mark Rothko festőművész életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        26.49745,
+                        55.883844
+                  ]
+            },
+            {
+                  "name": "Latgales zoodārzs",
+                  "text": "Kisméretű állatkert Daugavpilsben, amely egzotikus hüllőkre és kétéltűekre specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509689,
+                        55.873676
+                  ]
+            },
+            {
+                  "name": "Daugavpils skrošu rūpnīca",
+                  "text": "Ipari múzeum Daugavpilsben, amely az ólomsörét gyártását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.535323,
+                        55.874943
+                  ]
+            },
+            {
+                  "name": "Daugavpils Novadpētniecības un Mākslas muzejs",
+                  "text": "Daugavpils történeti és művészeti regionális múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        26.511651,
+                        55.868989
+                  ]
+            },
+            {
+                  "name": "Ebreji Daugavpilī un Latgalē",
+                  "text": "Daugavpilsi múzeum, amely a régió zsidó történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        26.520918,
+                        55.870447
+                  ]
+            },
+            {
+                  "name": "Daugavpils cietokšņa 3. roduts",
+                  "text": "A daugavpilsi történelmi erődrendszer egyik része.",
+                  "category": "castle",
+                  "coords": [
+                        26.509629,
+                        55.891248
+                  ]
+            },
+            {
+                  "name": "Daugavpils Jezuītu baznīcas pamati",
+                  "text": "Egy egykori daugavpilsi jezsuita templom régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        26.499156,
+                        55.884033
+                  ]
+            },
+            {
+                  "name": "Pie Komendanta",
+                  "text": "Múzeumi részleg Daugavpilsben, amely történelmi egyenruhákat és tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.496886,
+                        55.885074
+                  ]
+            },
+            {
+                  "name": "Medicīnas izstāde",
+                  "text": "Orvostörténeti kiállítás Daugavpils városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.494742,
+                        55.884165
+                  ]
+            },
+            {
+                  "name": "Daugavpils inovāciju centrs",
+                  "text": "Interaktív oktatási központ Daugavpilsben, amely a tudománnyal és innovációval foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        26.512233,
+                        55.873577
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "Nyilvános strand a daugavpilsi Šuņezers-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            },
+            {
+                  "name": "Dubrovina parks",
+                  "text": "Daugavpils központi parkja, amely Pavel Dubrovin egykori polgármester nevét viseli.",
+                  "category": "park",
+                  "coords": [
+                        26.510648,
+                        55.869776
+                  ]
+            },
+            {
+                  "name": "Lāzeršautuve",
+                  "text": "Szórakoztató központ Daugavpilsben, amely lézerjátékokat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        26.530192,
+                        55.870304
+                  ]
+            },
+            {
+                  "name": "RVR tramvajs",
+                  "text": "Történelmi villamoskocsi Daugavpilsben, amely technikai emlékként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        26.499819,
+                        55.885539
+                  ]
+            },
+            {
+                  "name": "Latvijas laikmetīgās keramikas centrs",
+                  "text": "Daugavpilsi központ, amely a kortárs kerámiaművészetet népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        26.493987,
+                        55.887549
+                  ]
+            },
+            {
+                  "name": "Daugavpils Māla Mākslas Centrs",
+                  "text": "Daugavpilsi központ, amely a hagyományos mesterségeket és a kerámiaművészetet mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        26.524614,
+                        55.865938
+                  ]
+            },
+            {
+                  "name": "Mārtiņa Lutera katedrāle",
+                  "text": "Daugavpils fő evangélikus temploma a Templomhegyen.",
+                  "category": "religious",
+                  "coords": [
+                        26.540908,
+                        55.870699
+                  ]
+            },
+            {
+                  "name": "Daugavpils Dievmātes Romas katoļu draudzes baznīca",
+                  "text": "Fehér homlokzatáról és tornyairól ismert katolikus templom Daugavpilsben.",
+                  "category": "religious",
+                  "coords": [
+                        26.542902,
+                        55.870834
+                  ]
+            },
+            {
+                  "name": "Daugavpils Svētā Borisa un Gļeba pareizticīgo katedrāle",
+                  "text": "Lettország legnagyobb ortodox székesegyháza, amely Daugavpilsben található.",
+                  "category": "religious",
+                  "coords": [
+                        26.538008,
+                        55.870651
+                  ]
+            },
+            {
+                  "name": "Daugavpils Vecticībnieku Pomoras Baznīca",
+                  "text": "Óhitűek temploma Daugavpilsben, a közösség fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        26.539753,
+                        55.872992
+                  ]
+            },
+            {
+                  "name": "Svēta Pētera ķēdēs Romas katoļu draudzes baznīca",
+                  "text": "Római katolikus templom Daugavpils központjában, klasszicista jegyekkel.",
+                  "category": "religious",
+                  "coords": [
+                        26.519474,
+                        55.872594
+                  ]
+            },
+            {
+                  "name": "Grīvas Svētās Jaunavas Marijas draudze",
+                  "text": "Katolikus egyházközség és templom Daugavpils Grīva negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        26.515762,
+                        55.85913
+                  ]
+            },
+            {
+                  "name": "Daugavpils radio un televīzijas tornis",
+                  "text": "A Baltikum egyik legmagasabb építménye, amely Daugavpils rádió- és tévéadását biztosítja.",
+                  "category": "tower",
+                  "coords": [
+                        26.533505,
+                        55.872489
+                  ]
+            },
+            {
+                  "name": "Vienības tilts",
+                  "text": "Fontos híd a Daugva-folyón, amely Daugavpils két városrészét köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        26.512099,
+                        55.865761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daugavpils teātris",
+                  "text": "Un teatru profesionist din Daugavpils cu un program diversificat în mai multe limbi.",
+                  "category": "cultural",
+                  "coords": [
+                        26.516512,
+                        55.870533
+                  ]
+            },
+            {
+                  "name": "Daugavpils cietoksnis",
+                  "text": "O fortificație vastă din secolul al XIX-lea în Daugavpils.",
+                  "category": "castle",
+                  "coords": [
+                        26.495068,
+                        55.886042
+                  ]
+            },
+            {
+                  "name": "Rotko muzejs",
+                  "text": "Un centru de artă din Daugavpils dedicat vieții și operei pictorului Mark Rothko.",
+                  "category": "museum",
+                  "coords": [
+                        26.49745,
+                        55.883844
+                  ]
+            },
+            {
+                  "name": "Latgales zoodārzs",
+                  "text": "O mică grădină zoologică din Daugavpils, specializată în reptile și amfibieni exotici.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509689,
+                        55.873676
+                  ]
+            },
+            {
+                  "name": "Daugavpils skrošu rūpnīca",
+                  "text": "Un muzeu industrial din Daugavpils care prezintă producția de alice de plumb.",
+                  "category": "museum",
+                  "coords": [
+                        26.535323,
+                        55.874943
+                  ]
+            },
+            {
+                  "name": "Daugavpils Novadpētniecības un Mākslas muzejs",
+                  "text": "Muzeul regional de istorie și artă din Daugavpils.",
+                  "category": "museum",
+                  "coords": [
+                        26.511651,
+                        55.868989
+                  ]
+            },
+            {
+                  "name": "Ebreji Daugavpilī un Latgalē",
+                  "text": "Un muzeu din Daugavpils care documentează istoria evreiască a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        26.520918,
+                        55.870447
+                  ]
+            },
+            {
+                  "name": "Daugavpils cietokšņa 3. roduts",
+                  "text": "O parte a fortificațiilor istorice din orașul Daugavpils.",
+                  "category": "castle",
+                  "coords": [
+                        26.509629,
+                        55.891248
+                  ]
+            },
+            {
+                  "name": "Daugavpils Jezuītu baznīcas pamati",
+                  "text": "Resturile arheologice ale unei foste biserici iezuite din Daugavpils.",
+                  "category": "historical",
+                  "coords": [
+                        26.499156,
+                        55.884033
+                  ]
+            },
+            {
+                  "name": "Pie Komendanta",
+                  "text": "O secțiune muzeală din Daugavpils care prezintă uniforme și obiecte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        26.496886,
+                        55.885074
+                  ]
+            },
+            {
+                  "name": "Medicīnas izstāde",
+                  "text": "O expoziție din Daugavpils dedicată istoriei medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        26.494742,
+                        55.884165
+                  ]
+            },
+            {
+                  "name": "Daugavpils inovāciju centrs",
+                  "text": "Un centru educațional interactiv din Daugavpils, dedicat științei și inovației.",
+                  "category": "museum",
+                  "coords": [
+                        26.512233,
+                        55.873577
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "O plajă publică la lacul Šuņezers din Daugavpils.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            },
+            {
+                  "name": "Dubrovina parks",
+                  "text": "Un parc central din Daugavpils, numit după fostul primar Pavel Dubrovin.",
+                  "category": "park",
+                  "coords": [
+                        26.510648,
+                        55.869776
+                  ]
+            },
+            {
+                  "name": "Lāzeršautuve",
+                  "text": "Un centru de agrement din Daugavpils care oferă jocuri de tip lasertag.",
+                  "category": "landmark",
+                  "coords": [
+                        26.530192,
+                        55.870304
+                  ]
+            },
+            {
+                  "name": "RVR tramvajs",
+                  "text": "Un vagon de tramvai istoric din Daugavpils, care servește ca monument tehnic.",
+                  "category": "landmark",
+                  "coords": [
+                        26.499819,
+                        55.885539
+                  ]
+            },
+            {
+                  "name": "Latvijas laikmetīgās keramikas centrs",
+                  "text": "Un centru din Daugavpils care promovează arta ceramică contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        26.493987,
+                        55.887549
+                  ]
+            },
+            {
+                  "name": "Daugavpils Māla Mākslas Centrs",
+                  "text": "Un centru din Daugavpils care prezintă meșteșugurile tradiționale și arta ceramicii.",
+                  "category": "cultural",
+                  "coords": [
+                        26.524614,
+                        55.865938
+                  ]
+            },
+            {
+                  "name": "Mārtiņa Lutera katedrāle",
+                  "text": "Principala biserică luterană din Daugavpils, situată pe Dealul Bisericilor.",
+                  "category": "religious",
+                  "coords": [
+                        26.540908,
+                        55.870699
+                  ]
+            },
+            {
+                  "name": "Daugavpils Dievmātes Romas katoļu draudzes baznīca",
+                  "text": "O biserică catolică din Daugavpils, cunoscută pentru fațada sa albă și turnuri.",
+                  "category": "religious",
+                  "coords": [
+                        26.542902,
+                        55.870834
+                  ]
+            },
+            {
+                  "name": "Daugavpils Svētā Borisa un Gļeba pareizticīgo katedrāle",
+                  "text": "Cea mai mare catedrală ortodoxă din Letonia, situată în Daugavpils.",
+                  "category": "religious",
+                  "coords": [
+                        26.538008,
+                        55.870651
+                  ]
+            },
+            {
+                  "name": "Daugavpils Vecticībnieku Pomoras Baznīca",
+                  "text": "O biserică a credincioșilor de rit vechi din Daugavpils, un centru religios important al comunității.",
+                  "category": "religious",
+                  "coords": [
+                        26.539753,
+                        55.872992
+                  ]
+            },
+            {
+                  "name": "Svēta Pētera ķēdēs Romas katoļu draudzes baznīca",
+                  "text": "O biserică romano-catolică din centrul orașului Daugavpils, cu elemente clasiciste.",
+                  "category": "religious",
+                  "coords": [
+                        26.519474,
+                        55.872594
+                  ]
+            },
+            {
+                  "name": "Grīvas Svētās Jaunavas Marijas draudze",
+                  "text": "O parohie și biserică catolică din cartierul Grīva al orașului Daugavpils.",
+                  "category": "religious",
+                  "coords": [
+                        26.515762,
+                        55.85913
+                  ]
+            },
+            {
+                  "name": "Daugavpils radio un televīzijas tornis",
+                  "text": "Una dintre cele mai înalte structuri din țările baltice, care deservește radiodifuziunea din Daugavpils.",
+                  "category": "tower",
+                  "coords": [
+                        26.533505,
+                        55.872489
+                  ]
+            },
+            {
+                  "name": "Vienības tilts",
+                  "text": "Un pod important peste râul Daugava, care leagă două părți ale orașului Daugavpils.",
+                  "category": "landmark",
+                  "coords": [
+                        26.512099,
+                        55.865761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daugavpils teātris",
+                  "text": "A professional theatre in Daugavpils with a diverse repertoire in multiple languages.",
+                  "category": "cultural",
+                  "coords": [
+                        26.516512,
+                        55.870533
+                  ]
+            },
+            {
+                  "name": "Daugavpils Fortress",
+                  "text": "A vast 19th-century fortification complex in Daugavpils.",
+                  "category": "castle",
+                  "coords": [
+                        26.495068,
+                        55.886042
+                  ]
+            },
+            {
+                  "name": "Rothko Museum",
+                  "text": "An art center in Daugavpils dedicated to the life and works of the painter Mark Rothko.",
+                  "category": "museum",
+                  "coords": [
+                        26.49745,
+                        55.883844
+                  ]
+            },
+            {
+                  "name": "Latgales zoodārzs",
+                  "text": "A small zoo in Daugavpils specializing in exotic reptiles and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        26.509689,
+                        55.873676
+                  ]
+            },
+            {
+                  "name": "Daugavpils Shot Factory",
+                  "text": "An industrial museum in Daugavpils showcasing the production of lead shot.",
+                  "category": "museum",
+                  "coords": [
+                        26.535323,
+                        55.874943
+                  ]
+            },
+            {
+                  "name": "Daugavpils Novadpētniecības un Mākslas muzejs",
+                  "text": "The regional museum of history and art in Daugavpils.",
+                  "category": "museum",
+                  "coords": [
+                        26.511651,
+                        55.868989
+                  ]
+            },
+            {
+                  "name": "Ebreji Daugavpilī un Latgalē",
+                  "text": "A museum in Daugavpils documenting the Jewish history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.520918,
+                        55.870447
+                  ]
+            },
+            {
+                  "name": "Daugavpils cietokšņa 3. roduts",
+                  "text": "A part of the historical fortifications in the city of Daugavpils.",
+                  "category": "castle",
+                  "coords": [
+                        26.509629,
+                        55.891248
+                  ]
+            },
+            {
+                  "name": "Daugavpils Jezuītu baznīcas pamati",
+                  "text": "Archaeological remains of a former Jesuit church in Daugavpils.",
+                  "category": "historical",
+                  "coords": [
+                        26.499156,
+                        55.884033
+                  ]
+            },
+            {
+                  "name": "Pie Komendanta",
+                  "text": "A museum area in Daugavpils displaying historical uniforms and objects.",
+                  "category": "museum",
+                  "coords": [
+                        26.496886,
+                        55.885074
+                  ]
+            },
+            {
+                  "name": "Medicīnas izstāde",
+                  "text": "An exhibition in Daugavpils focused on the history of medicine.",
+                  "category": "museum",
+                  "coords": [
+                        26.494742,
+                        55.884165
+                  ]
+            },
+            {
+                  "name": "Daugavpils inovāciju centrs",
+                  "text": "An interactive educational center in Daugavpils focused on science and innovation.",
+                  "category": "museum",
+                  "coords": [
+                        26.512233,
+                        55.873577
+                  ]
+            },
+            {
+                  "name": "Šuņezera pludmale",
+                  "text": "A public beach at Lake Šuņezers in Daugavpils.",
+                  "category": "recreational",
+                  "coords": [
+                        26.512441,
+                        55.896768
+                  ]
+            },
+            {
+                  "name": "Dubrovina parks",
+                  "text": "A central park in Daugavpils named after the former mayor Pavel Dubrovin.",
+                  "category": "park",
+                  "coords": [
+                        26.510648,
+                        55.869776
+                  ]
+            },
+            {
+                  "name": "Lāzeršautuve",
+                  "text": "A leisure center in Daugavpils offering laser tag games.",
+                  "category": "landmark",
+                  "coords": [
+                        26.530192,
+                        55.870304
+                  ]
+            },
+            {
+                  "name": "RVR tramvajs",
+                  "text": "A historical tram car in Daugavpils serving as a technical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        26.499819,
+                        55.885539
+                  ]
+            },
+            {
+                  "name": "Latvian centre for contemporary ceramics",
+                  "text": "A center in Daugavpils promoting contemporary ceramic art.",
+                  "category": "cultural",
+                  "coords": [
+                        26.493987,
+                        55.887549
+                  ]
+            },
+            {
+                  "name": "Daugavpils Māla Mākslas Centrs",
+                  "text": "A center in Daugavpils showcasing traditional crafts and ceramic art.",
+                  "category": "cultural",
+                  "coords": [
+                        26.524614,
+                        55.865938
+                  ]
+            },
+            {
+                  "name": "Mārtiņa Lutera katedrāle",
+                  "text": "The main Lutheran church in Daugavpils located on the Hill of Churches.",
+                  "category": "religious",
+                  "coords": [
+                        26.540908,
+                        55.870699
+                  ]
+            },
+            {
+                  "name": "Daugavpils Dievmātes Romas katoļu draudzes baznīca",
+                  "text": "A Catholic church in Daugavpils known for its white facade and towers.",
+                  "category": "religious",
+                  "coords": [
+                        26.542902,
+                        55.870834
+                  ]
+            },
+            {
+                  "name": "Daugavpils Saints Boris and Gleb Cathedral",
+                  "text": "The largest Orthodox cathedral in Latvia, located in Daugavpils.",
+                  "category": "religious",
+                  "coords": [
+                        26.538008,
+                        55.870651
+                  ]
+            },
+            {
+                  "name": "Daugavpils Vecticībnieku Pomoras Baznīca",
+                  "text": "An Old Believers' church in Daugavpils, an important religious center for the community.",
+                  "category": "religious",
+                  "coords": [
+                        26.539753,
+                        55.872992
+                  ]
+            },
+            {
+                  "name": "Svēta Pētera ķēdēs Romas katoļu draudzes baznīca",
+                  "text": "A Roman Catholic church in the center of Daugavpils with Classicist features.",
+                  "category": "religious",
+                  "coords": [
+                        26.519474,
+                        55.872594
+                  ]
+            },
+            {
+                  "name": "Grīvas Svētās Jaunavas Marijas draudze",
+                  "text": "A Catholic parish and church in the Grīva district of Daugavpils.",
+                  "category": "religious",
+                  "coords": [
+                        26.515762,
+                        55.85913
+                  ]
+            },
+            {
+                  "name": "Daugavpils radio un televīzijas tornis",
+                  "text": "One of the tallest structures in the Baltics, serving broadcasting in Daugavpils.",
+                  "category": "tower",
+                  "coords": [
+                        26.533505,
+                        55.872489
+                  ]
+            },
+            {
+                  "name": "Vienības tilts",
+                  "text": "An important bridge across the Daugava River connecting two parts of Daugavpils.",
+                  "category": "landmark",
+                  "coords": [
+                        26.512099,
+                        55.865761
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [26.5333, 55.8750],
@@ -4246,7 +13579,196 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-ainazi",
+    id: "lv-ainazi", "sights": {
+      "de": [
+            {
+                  "name": "Ainažu vecā bāka",
+                  "text": "Ein historischer Leuchtturm, der das maritime Erbe von Ainaži kennzeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.36046,
+                        57.866359
+                  ]
+            },
+            {
+                  "name": "Ainažu jūrskolas muzejs",
+                  "text": "Dieses Museum erzählt die Geschichte der ersten lettischen Seefahrtschule, die in Ainaži gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        24.360413,
+                        57.865134
+                  ]
+            },
+            {
+                  "name": "Ugunsdzēsēju muzejs",
+                  "text": "Ein Museum, das der Geschichte der Brandbekämpfung in der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.35856,
+                        57.862222
+                  ]
+            },
+            {
+                  "name": "Ainažu mols",
+                  "text": "Eine Hafenmole, die einen weiten Blick auf die Ostseeküste bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.348958,
+                        57.876743
+                  ]
+            },
+            {
+                  "name": "Veides pils",
+                  "text": "Ein historisches Herrenhaus in Ainaži, das mit der Familie Veide verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        24.359472,
+                        57.865262
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ainažu vecā bāka",
+                  "text": "Történelmi világítótorony, amely Ainaži tengeri örökségét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        24.36046,
+                        57.866359
+                  ]
+            },
+            {
+                  "name": "Ainažu jūrskolas muzejs",
+                  "text": "Ez a múzeum az Ainažiban alapított első lett tengerészeti iskola történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.360413,
+                        57.865134
+                  ]
+            },
+            {
+                  "name": "Ugunsdzēsēju muzejs",
+                  "text": "A régió tűzoltóságának történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.35856,
+                        57.862222
+                  ]
+            },
+            {
+                  "name": "Ainažu mols",
+                  "text": "Egy móló, amelyről gyönyörű kilátás nyílik a balti-tengeri partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        24.348958,
+                        57.876743
+                  ]
+            },
+            {
+                  "name": "Veides pils",
+                  "text": "Ainažiban található történelmi kúria, amely a Veide családdal kapcsolatos.",
+                  "category": "historical",
+                  "coords": [
+                        24.359472,
+                        57.865262
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ainažu vecā bāka",
+                  "text": "Un far istoric ce marchează moștenirea maritimă a orașului Ainaži.",
+                  "category": "landmark",
+                  "coords": [
+                        24.36046,
+                        57.866359
+                  ]
+            },
+            {
+                  "name": "Ainažu jūrskolas muzejs",
+                  "text": "Acest muzeu prezintă istoria primei școli navale letone fondate în Ainaži.",
+                  "category": "museum",
+                  "coords": [
+                        24.360413,
+                        57.865134
+                  ]
+            },
+            {
+                  "name": "Ugunsdzēsēju muzejs",
+                  "text": "Un muzeu dedicat istoriei luptei împotriva incendiilor din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        24.35856,
+                        57.862222
+                  ]
+            },
+            {
+                  "name": "Ainažu mols",
+                  "text": "Un dig care oferă vederi pitorești asupra coastei Mării Baltice.",
+                  "category": "natural",
+                  "coords": [
+                        24.348958,
+                        57.876743
+                  ]
+            },
+            {
+                  "name": "Veides pils",
+                  "text": "Un conac istoric din Ainaži asociat cu familia Veide.",
+                  "category": "historical",
+                  "coords": [
+                        24.359472,
+                        57.865262
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ainaži old lighthouse",
+                  "text": "A historic lighthouse marking the maritime heritage of Ainaži.",
+                  "category": "landmark",
+                  "coords": [
+                        24.36046,
+                        57.866359
+                  ]
+            },
+            {
+                  "name": "Museum of Ainaži Naval School",
+                  "text": "This museum tells the history of the first Latvian naval school founded in Ainaži.",
+                  "category": "museum",
+                  "coords": [
+                        24.360413,
+                        57.865134
+                  ]
+            },
+            {
+                  "name": "Ugunsdzēsēju muzejs",
+                  "text": "A museum dedicated to the history of firefighting in the region.",
+                  "category": "museum",
+                  "coords": [
+                        24.35856,
+                        57.862222
+                  ]
+            },
+            {
+                  "name": "Ainažu mols",
+                  "text": "A breakwater pier offering scenic views of the Baltic Sea coast.",
+                  "category": "natural",
+                  "coords": [
+                        24.348958,
+                        57.876743
+                  ]
+            },
+            {
+                  "name": "Veides pils",
+                  "text": "A historical manor house associated with the Veide family in Ainaži.",
+                  "category": "historical",
+                  "coords": [
+                        24.359472,
+                        57.865262
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [24.3570, 57.8618],
@@ -4295,7 +13817,196 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-salacgriva",
+    id: "lv-salacgriva", "sights": {
+      "de": [
+            {
+                  "name": "Salacas pils",
+                  "text": "Die Überreste einer mittelalterlichen Befestigung an der Mündung der Salaca.",
+                  "category": "fortress",
+                  "coords": [
+                        24.363215,
+                        57.754382
+                  ]
+            },
+            {
+                  "name": "dabas parks „Salacas ieleja”",
+                  "text": "Ein Naturschutzgebiet, das das malerische Tal des Flusses Salaca bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Salismünde",
+                  "text": "Ein historischer Leuchtturm in Salacgrīva, der an der Küste der Rigaer Bucht steht.",
+                  "category": "landmark",
+                  "coords": [
+                        24.358144,
+                        57.756163
+                  ]
+            },
+            {
+                  "name": "nēģu muzejs",
+                  "text": "Ein Museum in Salacgrīva, das der Tradition des Neunaugenfangs gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.355847,
+                        57.751561
+                  ]
+            },
+            {
+                  "name": "Salacgrīvas Svētās Marijas Goreti katoļu baznīca",
+                  "text": "Eine katholische Kirche in Salacgrīva, gewidmet der heiligen Maria Goretti.",
+                  "category": "religious",
+                  "coords": [
+                        24.359195,
+                        57.749074
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salacas pils",
+                  "text": "Középkori erődítmény maradványai a Salaca folyó torkolatánál.",
+                  "category": "fortress",
+                  "coords": [
+                        24.363215,
+                        57.754382
+                  ]
+            },
+            {
+                  "name": "dabas parks „Salacas ieleja”",
+                  "text": "Természetvédelmi terület, amely a Salaca folyó festői völgyét óvja.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Salacgrīvas bāka",
+                  "text": "Salacgrīva történelmi világítótornya a Rigai-öböl partján.",
+                  "category": "landmark",
+                  "coords": [
+                        24.358144,
+                        57.756163
+                  ]
+            },
+            {
+                  "name": "nēģu muzejs",
+                  "text": "Az ingolahalászat hagyományait bemutató múzeum Salacgrīva városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.355847,
+                        57.751561
+                  ]
+            },
+            {
+                  "name": "Salacgrīvas Svētās Marijas Goreti katoļu baznīca",
+                  "text": "Goretti Szent Máriának szentelt katolikus templom Salacgrīva városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.359195,
+                        57.749074
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salacas pils",
+                  "text": "Vestigiile unei fortificații medievale situate la gura de vărsare a râului Salaca.",
+                  "category": "fortress",
+                  "coords": [
+                        24.363215,
+                        57.754382
+                  ]
+            },
+            {
+                  "name": "dabas parks „Salacas ieleja”",
+                  "text": "O rezervație naturală care protejează valea pitorească a râului Salaca.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Salacgrīvas bāka",
+                  "text": "Un far istoric situat în Salacgrīva, pe malul Golfului Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.358144,
+                        57.756163
+                  ]
+            },
+            {
+                  "name": "nēģu muzejs",
+                  "text": "Un muzeu din Salacgrīva dedicat tradiției pescuitului de chișcar.",
+                  "category": "museum",
+                  "coords": [
+                        24.355847,
+                        57.751561
+                  ]
+            },
+            {
+                  "name": "Salacgrīvas Svētās Marijas Goreti katoļu baznīca",
+                  "text": "O biserică catolică din Salacgrīva, dedicată Sfintei Maria Goretti.",
+                  "category": "religious",
+                  "coords": [
+                        24.359195,
+                        57.749074
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salacas pils",
+                  "text": "The remains of a medieval fortification at the mouth of the Salaca River.",
+                  "category": "fortress",
+                  "coords": [
+                        24.363215,
+                        57.754382
+                  ]
+            },
+            {
+                  "name": "Salaca Valley nature park",
+                  "text": "A nature reserve protecting the scenic valley of the Salaca River.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Salacgrīvas bāka",
+                  "text": "A historic lighthouse in Salacgrīva located on the coast of the Gulf of Riga.",
+                  "category": "landmark",
+                  "coords": [
+                        24.358144,
+                        57.756163
+                  ]
+            },
+            {
+                  "name": "nēģu muzejs",
+                  "text": "A museum in Salacgrīva dedicated to the tradition of lamprey fishing.",
+                  "category": "museum",
+                  "coords": [
+                        24.355847,
+                        57.751561
+                  ]
+            },
+            {
+                  "name": "Salacgrīvas Svētās Marijas Goreti katoļu baznīca",
+                  "text": "A Catholic church in Salacgrīva dedicated to Saint Maria Goretti.",
+                  "category": "religious",
+                  "coords": [
+                        24.359195,
+                        57.749074
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [24.3436, 57.7512],
@@ -4344,7 +14055,376 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-mazsalaca",
+    id: "lv-mazsalaca", "sights": {
+      "de": [
+            {
+                  "name": "dabas parks „Salacas ieleja”",
+                  "text": "Ein Naturpark im Tal des Flusses Salaca bei Mazsalaca, bekannt für seine Sandsteinfelsen.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Mazsalacas novada muzejs",
+                  "text": "Das Museum des Bezirks Mazsalaca zeigt Ausstellungen zur lokalen Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        25.036623,
+                        57.86238
+                  ]
+            },
+            {
+                  "name": "Seno Spēkratu Kolekcija Dzintari",
+                  "text": "Eine private Sammlung historischer Fahrzeuge in der Nähe von Mazsalaca.",
+                  "category": "museum",
+                  "coords": [
+                        25.043081,
+                        57.843501
+                  ]
+            },
+            {
+                  "name": "Eņģeļu ala",
+                  "text": "Eine natürliche Sandsteinhöhle und Aussichtspunkt im Salaca-Tal bei Mazsalaca.",
+                  "category": "natural",
+                  "coords": [
+                        25.009987,
+                        57.862333
+                  ]
+            },
+            {
+                  "name": "Velna akmens",
+                  "text": "Ein markanter Stein im Fluss Salaca bei Mazsalaca, um den sich lokale Legenden ranken.",
+                  "category": "landmark",
+                  "coords": [
+                        25.016753,
+                        57.86242
+                  ]
+            },
+            {
+                  "name": "Velna kancele",
+                  "text": "Ein Aussichtspunkt auf einem Sandsteinfelsen bei Mazsalaca mit Blick auf das Salaca-Tal.",
+                  "category": "natural",
+                  "coords": [
+                        25.007692,
+                        57.870756
+                  ]
+            },
+            {
+                  "name": "Vilkaču priede",
+                  "text": "Eine legendäre Kiefer und lokale Sehenswürdigkeit in Mazsalaca.",
+                  "category": "landmark",
+                  "coords": [
+                        25.022731,
+                        57.862998
+                  ]
+            },
+            {
+                  "name": "Lībiešu pilskalns",
+                  "text": "Ein alter Burgberg in Mazsalaca mit schöner Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        25.031655,
+                        57.859752
+                  ]
+            },
+            {
+                  "name": "Bezdelīgas klintis un alas",
+                  "text": "Sandsteinfelsen und Höhlen in Mazsalaca mit einem Aussichtspunkt.",
+                  "category": "natural",
+                  "coords": [
+                        25.028753,
+                        57.860991
+                  ]
+            },
+            {
+                  "name": "Mazsalacas Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "Eine lutherische Kirche in Mazsalaca, bekannt für ihre historische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        25.066855,
+                        57.858554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "dabas parks „Salacas ieleja”",
+                  "text": "Természetvédelmi terület a Salaca-folyó völgyében Mazsalaca közelében, homokkő szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Mazsalacas novada muzejs",
+                  "text": "A Mazsalaca vidéki múzeum a helyi történelmet és kultúrát bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        25.036623,
+                        57.86238
+                  ]
+            },
+            {
+                  "name": "Seno Spēkratu Kolekcija Dzintari",
+                  "text": "Magángyűjtemény történelmi járművekből Mazsalaca közelében.",
+                  "category": "museum",
+                  "coords": [
+                        25.043081,
+                        57.843501
+                  ]
+            },
+            {
+                  "name": "Eņģeļu ala",
+                  "text": "Természetes homokkő barlang és kilátópont a Salaca-völgyben, Mazsalaca közelében.",
+                  "category": "natural",
+                  "coords": [
+                        25.009987,
+                        57.862333
+                  ]
+            },
+            {
+                  "name": "Velna akmens",
+                  "text": "Jellegzetes kő a Salaca-folyóban Mazsalaca közelében, amelyhez helyi legendák fűződnek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.016753,
+                        57.86242
+                  ]
+            },
+            {
+                  "name": "Velna kancele",
+                  "text": "Kilátópont egy homokkő sziklán Mazsalaca közelében, rálátással a Salaca-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        25.007692,
+                        57.870756
+                  ]
+            },
+            {
+                  "name": "Vilkaču priede",
+                  "text": "Egy legendás erdeifenyő és helyi látnivaló Mazsalacában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.022731,
+                        57.862998
+                  ]
+            },
+            {
+                  "name": "Lībiešu pilskalns",
+                  "text": "Egy ősi várhely Mazsalacában, amely szép kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        25.031655,
+                        57.859752
+                  ]
+            },
+            {
+                  "name": "Bezdelīgas klintis un alas",
+                  "text": "Homokkő sziklák és barlangok Mazsalacában, kilátóval.",
+                  "category": "natural",
+                  "coords": [
+                        25.028753,
+                        57.860991
+                  ]
+            },
+            {
+                  "name": "Mazsalacas Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "Mazsalaca evangélikus temploma, amely történelmi építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        25.066855,
+                        57.858554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "dabas parks „Salacas ieleja”",
+                  "text": "Un parc natural în valea râului Salaca lângă Mazsalaca, cunoscut pentru stâncile de gresie.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Mazsalacas novada muzejs",
+                  "text": "Muzeul districtual din Mazsalaca prezintă expoziții despre istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        25.036623,
+                        57.86238
+                  ]
+            },
+            {
+                  "name": "Seno Spēkratu Kolekcija Dzintari",
+                  "text": "O colecție privată de vehicule istorice situată lângă Mazsalaca.",
+                  "category": "museum",
+                  "coords": [
+                        25.043081,
+                        57.843501
+                  ]
+            },
+            {
+                  "name": "Eņģeļu ala",
+                  "text": "O peșteră naturală de gresie și punct de belvedere în valea Salaca, lângă Mazsalaca.",
+                  "category": "natural",
+                  "coords": [
+                        25.009987,
+                        57.862333
+                  ]
+            },
+            {
+                  "name": "Velna akmens",
+                  "text": "O piatră proeminentă în râul Salaca lângă Mazsalaca, de care se leagă legende locale.",
+                  "category": "landmark",
+                  "coords": [
+                        25.016753,
+                        57.86242
+                  ]
+            },
+            {
+                  "name": "Velna kancele",
+                  "text": "Un punct de belvedere pe o stâncă de gresie lângă Mazsalaca, cu vedere spre valea Salaca.",
+                  "category": "natural",
+                  "coords": [
+                        25.007692,
+                        57.870756
+                  ]
+            },
+            {
+                  "name": "Vilkaču priede",
+                  "text": "Un pin legendar și o atracție locală în Mazsalaca.",
+                  "category": "landmark",
+                  "coords": [
+                        25.022731,
+                        57.862998
+                  ]
+            },
+            {
+                  "name": "Lībiešu pilskalns",
+                  "text": "O veche cetate de pământ în Mazsalaca, oferind priveliști panoramice.",
+                  "category": "natural",
+                  "coords": [
+                        25.031655,
+                        57.859752
+                  ]
+            },
+            {
+                  "name": "Bezdelīgas klintis un alas",
+                  "text": "Stânci de gresie și peșteri în Mazsalaca, cu un punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        25.028753,
+                        57.860991
+                  ]
+            },
+            {
+                  "name": "Mazsalacas Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "O biserică luterană din Mazsalaca, cunoscută pentru arhitectura sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        25.066855,
+                        57.858554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salaca Valley nature park",
+                  "text": "A nature park in the valley of the Salaca River near Mazsalaca, known for sandstone cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        24.698862,
+                        57.839221
+                  ]
+            },
+            {
+                  "name": "Mazsalaca County Museum",
+                  "text": "The Mazsalaca district museum features exhibitions on local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        25.036623,
+                        57.86238
+                  ]
+            },
+            {
+                  "name": "Seno Spēkratu Kolekcija Dzintari",
+                  "text": "A private collection of historical vehicles located near Mazsalaca.",
+                  "category": "museum",
+                  "coords": [
+                        25.043081,
+                        57.843501
+                  ]
+            },
+            {
+                  "name": "Eņģeļu ala",
+                  "text": "A natural sandstone cave and viewpoint in the Salaca Valley near Mazsalaca.",
+                  "category": "natural",
+                  "coords": [
+                        25.009987,
+                        57.862333
+                  ]
+            },
+            {
+                  "name": "Velna akmens",
+                  "text": "A prominent stone in the Salaca River near Mazsalaca, surrounded by local legends.",
+                  "category": "landmark",
+                  "coords": [
+                        25.016753,
+                        57.86242
+                  ]
+            },
+            {
+                  "name": "Velna kancele",
+                  "text": "A viewpoint on a sandstone cliff near Mazsalaca overlooking the Salaca Valley.",
+                  "category": "natural",
+                  "coords": [
+                        25.007692,
+                        57.870756
+                  ]
+            },
+            {
+                  "name": "Werewolf's pine",
+                  "text": "A legendary pine tree and local attraction in Mazsalaca.",
+                  "category": "landmark",
+                  "coords": [
+                        25.022731,
+                        57.862998
+                  ]
+            },
+            {
+                  "name": "Lībiešu pilskalns",
+                  "text": "An ancient hillfort in Mazsalaca offering scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        25.031655,
+                        57.859752
+                  ]
+            },
+            {
+                  "name": "Bezdelīgas klintis un alas",
+                  "text": "Sandstone cliffs and caves in Mazsalaca with a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        25.028753,
+                        57.860991
+                  ]
+            },
+            {
+                  "name": "Mazsalacas Svētās Annas evaņģēliski luteriskā baznīca",
+                  "text": "A Lutheran church in Mazsalaca known for its historic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        25.066855,
+                        57.858554
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [25.0546, 57.8632],
@@ -4393,7 +14473,592 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-valka",
+    id: "lv-valka", "sights": {
+      "de": [
+            {
+                  "name": "Valkas novadpētniecības muzejs",
+                  "text": "Ein Museum, das die lokale Geschichte und Kultur der Region Valka präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.006096,
+                        57.768197
+                  ]
+            },
+            {
+                  "name": "Valga Muuseum",
+                  "text": "Ein informatives Museum, das die Geschichte der geteilten Grenzstadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.037383,
+                        57.777014
+                  ]
+            },
+            {
+                  "name": "Valga isamaalise kasvatuse püsiekspositsioon",
+                  "text": "Museumsausstellung in Valga, die sich auf Militärgeschichte und patriotische Erziehung konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        26.053037,
+                        57.78231
+                  ]
+            },
+            {
+                  "name": "Valkas estrāde",
+                  "text": "Eine Freilichtbühne in Valka für Konzerte und kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.004501,
+                        57.783916
+                  ]
+            },
+            {
+                  "name": "Planču pilskalns",
+                  "text": "Eine archäologische Stätte eines antiken Burgwalls in der Nähe von Valka.",
+                  "category": "historical",
+                  "coords": [
+                        26.03788,
+                        57.765982
+                  ]
+            },
+            {
+                  "name": "Zviedru skansts",
+                  "text": "Historische schwedische Befestigungsanlagen in der Stadt Valka.",
+                  "category": "fortress",
+                  "coords": [
+                        26.01379,
+                        57.775607
+                  ]
+            },
+            {
+                  "name": "Valga Pedeli supelrand",
+                  "text": "Ein beliebtes Erholungsgebiet und Badestelle am Ufer des Flusses Pedeli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            },
+            {
+                  "name": "Valkas kultūras nams",
+                  "text": "Ein zentraler Veranstaltungsort für kulturelle Aktivitäten und Aufführungen in Valka.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018162,
+                        57.773963
+                  ]
+            },
+            {
+                  "name": "Linnapark",
+                  "text": "Ein zentraler Stadtpark, der Grünflächen und Erholung in Valga bietet.",
+                  "category": "park",
+                  "coords": [
+                        26.050617,
+                        57.779426
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Ein Gedenkmonument in der Stadt Valka.",
+                  "category": "historical",
+                  "coords": [
+                        25.998162,
+                        57.785267
+                  ]
+            },
+            {
+                  "name": "Putraskalna skatu platforma",
+                  "text": "Eine erhöhte Plattform mit Panoramablick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        26.025283,
+                        57.780379
+                  ]
+            },
+            {
+                  "name": "Valga raekoda",
+                  "text": "Das historische Rathausgebäude ist ein markantes Wahrzeichen von Valga.",
+                  "category": "historical",
+                  "coords": [
+                        26.031133,
+                        57.77649
+                  ]
+            },
+            {
+                  "name": "Valga Pühavaimu kirik",
+                  "text": "Ein bemerkenswertes lutherisches Kirchengebäude in Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.054926,
+                        57.777191
+                  ]
+            },
+            {
+                  "name": "Jumalaema Vladimiri Pühakuju kirik",
+                  "text": "Eine orthodoxe Kirche in Valga, die für ihre traditionelle Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.052854,
+                        57.772683
+                  ]
+            },
+            {
+                  "name": "Valga adventkirik",
+                  "text": "Die Kirche der Siebenten-Tags-Adventisten für die lokale Gemeinde in Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.036455,
+                        57.775822
+                  ]
+            },
+            {
+                  "name": "Valga Issidori peakirik",
+                  "text": "Eine wunderschöne orthodoxe Kathedrale, die das religiöse Erbe von Valga repräsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        26.044553,
+                        57.775722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Valkas novadpētniecības muzejs",
+                  "text": "Valka vidékének helytörténetét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.006096,
+                        57.768197
+                  ]
+            },
+            {
+                  "name": "Valga Muuseum",
+                  "text": "Érdekes múzeum, amely a kettéosztott határváros történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        26.037383,
+                        57.777014
+                  ]
+            },
+            {
+                  "name": "Valga isamaalise kasvatuse püsiekspositsioon",
+                  "text": "Valgai múzeumi kiállítás, amely a hadtörténetre és a hazafias nevelésre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        26.053037,
+                        57.78231
+                  ]
+            },
+            {
+                  "name": "Valkas estrāde",
+                  "text": "Szabadtéri színpad Valkában, amely koncerteknek és kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        26.004501,
+                        57.783916
+                  ]
+            },
+            {
+                  "name": "Planču pilskalns",
+                  "text": "Egy ősi várhely régészeti lelőhelye Valka közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.03788,
+                        57.765982
+                  ]
+            },
+            {
+                  "name": "Zviedru skansts",
+                  "text": "Történelmi svéd erődítmények Valka városában.",
+                  "category": "fortress",
+                  "coords": [
+                        26.01379,
+                        57.775607
+                  ]
+            },
+            {
+                  "name": "Valga Pedeli supelrand",
+                  "text": "Népszerű üdülőhely és fürdőhely a Pedeli-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            },
+            {
+                  "name": "Valkas kultūras nams",
+                  "text": "Kulturális tevékenységek és előadások központi helyszíne Valkában.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018162,
+                        57.773963
+                  ]
+            },
+            {
+                  "name": "Linnapark",
+                  "text": "Központi városi park, amely zöldterületet és kikapcsolódást nyújt Valgában.",
+                  "category": "park",
+                  "coords": [
+                        26.050617,
+                        57.779426
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Emlékmű Valka városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.998162,
+                        57.785267
+                  ]
+            },
+            {
+                  "name": "Putraskalna skatu platforma",
+                  "text": "Kilátóplatform, amelyről panorámás kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        26.025283,
+                        57.780379
+                  ]
+            },
+            {
+                  "name": "Valga raekoda",
+                  "text": "A történelmi városháza épülete Valga egyik kiemelkedő látnivalója.",
+                  "category": "historical",
+                  "coords": [
+                        26.031133,
+                        57.77649
+                  ]
+            },
+            {
+                  "name": "Valga Pühavaimu kirik",
+                  "text": "Figyelemre méltó evangélikus templomépület Valgában.",
+                  "category": "religious",
+                  "coords": [
+                        26.054926,
+                        57.777191
+                  ]
+            },
+            {
+                  "name": "Jumalaema Vladimiri Pühakuju kirik",
+                  "text": "Tradicionális építészetéről ismert ortodox templom Valgában.",
+                  "category": "religious",
+                  "coords": [
+                        26.052854,
+                        57.772683
+                  ]
+            },
+            {
+                  "name": "Valga adventkirik",
+                  "text": "A helyi közösséget kiszolgáló hetednapi adventista templom Valgában.",
+                  "category": "religious",
+                  "coords": [
+                        26.036455,
+                        57.775822
+                  ]
+            },
+            {
+                  "name": "Valga Issidori peakirik",
+                  "text": "Gyönyörű ortodox székesegyház, amely Valga vallási örökségét képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        26.044553,
+                        57.775722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Valkas novadpētniecības muzejs",
+                  "text": "Un muzeu care prezintă istoria și cultura locală a regiunii Valka.",
+                  "category": "museum",
+                  "coords": [
+                        26.006096,
+                        57.768197
+                  ]
+            },
+            {
+                  "name": "Valga Muuseum",
+                  "text": "Un muzeu informativ care documentează istoria orașului de frontieră divizat.",
+                  "category": "museum",
+                  "coords": [
+                        26.037383,
+                        57.777014
+                  ]
+            },
+            {
+                  "name": "Valga isamaalise kasvatuse püsiekspositsioon",
+                  "text": "Expoziție muzeală axată pe istoria militară și educația patriotică în Valga.",
+                  "category": "museum",
+                  "coords": [
+                        26.053037,
+                        57.78231
+                  ]
+            },
+            {
+                  "name": "Valkas estrāde",
+                  "text": "O scenă în aer liber utilizată pentru concerte și spectacole culturale în Valka.",
+                  "category": "cultural",
+                  "coords": [
+                        26.004501,
+                        57.783916
+                  ]
+            },
+            {
+                  "name": "Planču pilskalns",
+                  "text": "Un sit arheologic al unei cetăți antice situat lângă Valka.",
+                  "category": "historical",
+                  "coords": [
+                        26.03788,
+                        57.765982
+                  ]
+            },
+            {
+                  "name": "Zviedru skansts",
+                  "text": "Fortificații suedeze istorice situate în orașul Valka.",
+                  "category": "fortress",
+                  "coords": [
+                        26.01379,
+                        57.775607
+                  ]
+            },
+            {
+                  "name": "Valga Pedeli supelrand",
+                  "text": "O zonă de recreere populară și loc de scăldat pe malul râului Pedeli.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            },
+            {
+                  "name": "Valkas kultūras nams",
+                  "text": "O locație centrală pentru activități culturale și spectacole în Valka.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018162,
+                        57.773963
+                  ]
+            },
+            {
+                  "name": "Linnapark",
+                  "text": "Un parc urban central care oferă spațiu verde și recreere în Valga.",
+                  "category": "park",
+                  "coords": [
+                        26.050617,
+                        57.779426
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "Un monument comemorativ situat în orașul Valka.",
+                  "category": "historical",
+                  "coords": [
+                        25.998162,
+                        57.785267
+                  ]
+            },
+            {
+                  "name": "Putraskalna skatu platforma",
+                  "text": "O platformă ridicată care oferă vederi panoramice asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        26.025283,
+                        57.780379
+                  ]
+            },
+            {
+                  "name": "Valga raekoda",
+                  "text": "Clădirea istorică a primăriei, un reper proeminent în Valga.",
+                  "category": "historical",
+                  "coords": [
+                        26.031133,
+                        57.77649
+                  ]
+            },
+            {
+                  "name": "Valga Pühavaimu kirik",
+                  "text": "O remarcabilă clădire a bisericii luterane din Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.054926,
+                        57.777191
+                  ]
+            },
+            {
+                  "name": "Jumalaema Vladimiri Pühakuju kirik",
+                  "text": "O biserică ortodoxă din Valga cunoscută pentru arhitectura sa tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        26.052854,
+                        57.772683
+                  ]
+            },
+            {
+                  "name": "Valga adventkirik",
+                  "text": "Biserica Adventistă de Ziua a Șaptea care deservește comunitatea locală din Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.036455,
+                        57.775822
+                  ]
+            },
+            {
+                  "name": "Valga Issidori peakirik",
+                  "text": "O frumoasă catedrală ortodoxă ce reprezintă moștenirea religioasă a orașului Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.044553,
+                        57.775722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Valkas novadpētniecības muzejs",
+                  "text": "A museum showcasing the local history and culture of the Valka region.",
+                  "category": "museum",
+                  "coords": [
+                        26.006096,
+                        57.768197
+                  ]
+            },
+            {
+                  "name": "Valga Museum",
+                  "text": "An informative museum documenting the history of the divided border town.",
+                  "category": "museum",
+                  "coords": [
+                        26.037383,
+                        57.777014
+                  ]
+            },
+            {
+                  "name": "Permanent Exhibition of Patriotic Education in Valga",
+                  "text": "A museum exhibition focused on military history and patriotic education in Valga.",
+                  "category": "museum",
+                  "coords": [
+                        26.053037,
+                        57.78231
+                  ]
+            },
+            {
+                  "name": "Valkas estrāde",
+                  "text": "An open-air stage used for concerts and cultural performances in Valka.",
+                  "category": "cultural",
+                  "coords": [
+                        26.004501,
+                        57.783916
+                  ]
+            },
+            {
+                  "name": "Planču pilskalns",
+                  "text": "An archaeological site of an ancient hillfort located near Valka.",
+                  "category": "historical",
+                  "coords": [
+                        26.03788,
+                        57.765982
+                  ]
+            },
+            {
+                  "name": "Zviedru skansts",
+                  "text": "Historical Swedish fortifications located in the town of Valka.",
+                  "category": "fortress",
+                  "coords": [
+                        26.01379,
+                        57.775607
+                  ]
+            },
+            {
+                  "name": "Valga Pedeli River beach",
+                  "text": "A popular recreation area and swimming spot on the banks of the Pedeli River.",
+                  "category": "recreational",
+                  "coords": [
+                        26.047817,
+                        57.786931
+                  ]
+            },
+            {
+                  "name": "Culture house Valka",
+                  "text": "A central venue for cultural activities and performances in Valka.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018162,
+                        57.773963
+                  ]
+            },
+            {
+                  "name": "Linnapark",
+                  "text": "A central urban park providing green space and recreation in Valga.",
+                  "category": "park",
+                  "coords": [
+                        26.050617,
+                        57.779426
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A commemorative monument located in the town of Valka.",
+                  "category": "historical",
+                  "coords": [
+                        25.998162,
+                        57.785267
+                  ]
+            },
+            {
+                  "name": "Putraskalna skatu platforma",
+                  "text": "An elevated platform offering panoramic views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.025283,
+                        57.780379
+                  ]
+            },
+            {
+                  "name": "Valga raekoda",
+                  "text": "The historic town hall building, a prominent landmark in Valga.",
+                  "category": "historical",
+                  "coords": [
+                        26.031133,
+                        57.77649
+                  ]
+            },
+            {
+                  "name": "Valga Pühavaimu kirik",
+                  "text": "A notable Lutheran church building in Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.054926,
+                        57.777191
+                  ]
+            },
+            {
+                  "name": "Jumalaema Vladimiri Pühakuju kirik",
+                  "text": "An Orthodox church in Valga known for its traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.052854,
+                        57.772683
+                  ]
+            },
+            {
+                  "name": "Valga adventkirik",
+                  "text": "The Seventh-day Adventist church serving the local community in Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.036455,
+                        57.775822
+                  ]
+            },
+            {
+                  "name": "Valga Issidori peakirik",
+                  "text": "A beautiful Orthodox cathedral representing the religious heritage of Valga.",
+                  "category": "religious",
+                  "coords": [
+                        26.044553,
+                        57.775722
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [26.0100, 57.7752],
@@ -4442,7 +15107,232 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-smiltene",
+    id: "lv-smiltene", "sights": {
+      "de": [
+            {
+                  "name": "Cērtenes pilskalns",
+                  "text": "Ein alter Burgwall in Smiltene, der als archäologisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.9003,
+                        57.410269
+                  ]
+            },
+            {
+                  "name": "Smiltenes pils",
+                  "text": "Die Ruinen oder Überreste der historischen Burg von Smiltene.",
+                  "category": "castle",
+                  "coords": [
+                        25.911128,
+                        57.427984
+                  ]
+            },
+            {
+                  "name": "Smiltenes muiža",
+                  "text": "Ein Herrenhaus in Smiltene, das Teil eines historischen Gutsensembles ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.909235,
+                        57.427452
+                  ]
+            },
+            {
+                  "name": "Smiltenes meteorīta krāteris",
+                  "text": "Eine geologische Besonderheit in Smiltene, die als Meteoritenkrater bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.902996,
+                        57.416577
+                  ]
+            },
+            {
+                  "name": "Smiltenes Stounenhdža",
+                  "text": "Eine Ansammlung von Ruinen in Smiltene, die lokal als \"Stonehenge\" bezeichnet wird.",
+                  "category": "historical",
+                  "coords": [
+                        25.909654,
+                        57.43344
+                  ]
+            },
+            {
+                  "name": "Smiltenes Luterāņu baznīca",
+                  "text": "Die evangelisch-lutherische Kirche von Smiltene, ein zentrales religiöses Gebäude.",
+                  "category": "religious",
+                  "coords": [
+                        25.905089,
+                        57.423673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cērtenes pilskalns",
+                  "text": "Smiltene ősi várhelye, amely védett régészeti emlék.",
+                  "category": "historical",
+                  "coords": [
+                        25.9003,
+                        57.410269
+                  ]
+            },
+            {
+                  "name": "Smiltenes pils",
+                  "text": "Smiltene történelmi várának romjai vagy maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        25.911128,
+                        57.427984
+                  ]
+            },
+            {
+                  "name": "Smiltenes muiža",
+                  "text": "Smiltene egyik nemesi udvarháza, amely egy történelmi uradalom része.",
+                  "category": "historical",
+                  "coords": [
+                        25.909235,
+                        57.427452
+                  ]
+            },
+            {
+                  "name": "Smiltenes meteorīta krāteris",
+                  "text": "Smiltene geológiai érdekessége, amelyet meteoritkráterként tartanak számon.",
+                  "category": "landmark",
+                  "coords": [
+                        25.902996,
+                        57.416577
+                  ]
+            },
+            {
+                  "name": "Smiltenes Stounenhdža",
+                  "text": "Smiltene romegyüttese, amelyet a helyiek tréfásan „Stonehenge”-nek neveznek.",
+                  "category": "historical",
+                  "coords": [
+                        25.909654,
+                        57.43344
+                  ]
+            },
+            {
+                  "name": "Smiltenes Luterāņu baznīca",
+                  "text": "Smiltene evangélikus luteránus temploma, a város központi hitéleti épülete.",
+                  "category": "religious",
+                  "coords": [
+                        25.905089,
+                        57.423673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cērtenes pilskalns",
+                  "text": "Un vechi dâmb fortificat din Smiltene, protejat ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        25.9003,
+                        57.410269
+                  ]
+            },
+            {
+                  "name": "Smiltenes pils",
+                  "text": "Ruinele sau rămășițele castelului istoric din Smiltene.",
+                  "category": "castle",
+                  "coords": [
+                        25.911128,
+                        57.427984
+                  ]
+            },
+            {
+                  "name": "Smiltenes muiža",
+                  "text": "Un conac din Smiltene, făcând parte dintr-un ansamblu nobiliar istoric.",
+                  "category": "historical",
+                  "coords": [
+                        25.909235,
+                        57.427452
+                  ]
+            },
+            {
+                  "name": "Smiltenes meteorīta krāteris",
+                  "text": "O curiozitate geologică din Smiltene, cunoscută sub numele de crater de meteorit.",
+                  "category": "landmark",
+                  "coords": [
+                        25.902996,
+                        57.416577
+                  ]
+            },
+            {
+                  "name": "Smiltenes Stounenhdža",
+                  "text": "Un grup de ruine din Smiltene, poreclit local „Stonehenge”.",
+                  "category": "historical",
+                  "coords": [
+                        25.909654,
+                        57.43344
+                  ]
+            },
+            {
+                  "name": "Smiltenes Luterāņu baznīca",
+                  "text": "Biserica evanghelică luterană din Smiltene, un edificiu religios central.",
+                  "category": "religious",
+                  "coords": [
+                        25.905089,
+                        57.423673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cērtenes pilskalns",
+                  "text": "An ancient hillfort in Smiltene protected as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        25.9003,
+                        57.410269
+                  ]
+            },
+            {
+                  "name": "Smiltenes pils",
+                  "text": "The ruins or remains of the historic castle in Smiltene.",
+                  "category": "castle",
+                  "coords": [
+                        25.911128,
+                        57.427984
+                  ]
+            },
+            {
+                  "name": "Smiltenes muiža",
+                  "text": "A manor house in Smiltene that is part of a historic estate ensemble.",
+                  "category": "historical",
+                  "coords": [
+                        25.909235,
+                        57.427452
+                  ]
+            },
+            {
+                  "name": "Smiltenes meteorīta krāteris",
+                  "text": "A geological curiosity in Smiltene known as a meteorite creator.",
+                  "category": "landmark",
+                  "coords": [
+                        25.902996,
+                        57.416577
+                  ]
+            },
+            {
+                  "name": "Smiltenes Stounenhdža",
+                  "text": "A group of ruins in Smiltene locally referred to as \"Stonehenge\".",
+                  "category": "historical",
+                  "coords": [
+                        25.909654,
+                        57.43344
+                  ]
+            },
+            {
+                  "name": "Smiltenes Luterāņu baznīca",
+                  "text": "The Evangelical Lutheran church of Smiltene, a central religious building.",
+                  "category": "religious",
+                  "coords": [
+                        25.905089,
+                        57.423673
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [25.9009, 57.4240],
@@ -4488,7 +15378,484 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-aizpute",
+    id: "lv-aizpute", "sights": {
+      "de": [
+            {
+                  "name": "Aizputes ordeņa pils",
+                  "text": "Die Ruinen einer Burg des Livländischen Ordens in Aizpute.",
+                  "category": "castle",
+                  "coords": [
+                        21.595208,
+                        56.721002
+                  ]
+            },
+            {
+                  "name": "Aizputes pilskalns",
+                  "text": "Eine archäologische Stätte, die einen alten Burgberg in Aizpute markiert.",
+                  "category": "historical",
+                  "coords": [
+                        21.599857,
+                        56.721148
+                  ]
+            },
+            {
+                  "name": "Baltcepuru pilskalns",
+                  "text": "Ein alter Burgberg und archäologische Stätte bei Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.567608,
+                        56.725911
+                  ]
+            },
+            {
+                  "name": "Lažas pilskalns",
+                  "text": "Eine archäologische Stätte mit einem alten Burgberg im Gebiet von Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.614589,
+                        56.737487
+                  ]
+            },
+            {
+                  "name": "Aizputes novadpētniecības muzejs",
+                  "text": "Ein Heimatmuseum, das das Erbe von Aizpute präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.59815,
+                        56.722527
+                  ]
+            },
+            {
+                  "name": "Valdas Jēriņas leļļu kolekcija",
+                  "text": "Ein Museum in Aizpute mit einer privaten Puppensammlung.",
+                  "category": "museum",
+                  "coords": [
+                        21.60289,
+                        56.719379
+                  ]
+            },
+            {
+                  "name": "Ormu kalns",
+                  "text": "Eine archäologische Stätte auf einem Hügel in Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.610583,
+                        56.700155
+                  ]
+            },
+            {
+                  "name": "Dzintarkalnu viduslaiku kapsēta",
+                  "text": "Ein mittelalterlicher Friedhof und archäologische Stätte in Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.606491,
+                        56.70258
+                  ]
+            },
+            {
+                  "name": "Štakeldangas muiža",
+                  "text": "Ein historisches Herrenhaus und lokale Sehenswürdigkeit in Aizpute.",
+                  "category": "landmark",
+                  "coords": [
+                        21.602768,
+                        56.737335
+                  ]
+            },
+            {
+                  "name": "Pasaules mazākā izstāžu zāle",
+                  "text": "Ein einzigartiger kleiner Galerieraum in Aizpute.",
+                  "category": "museum",
+                  "coords": [
+                        21.603307,
+                        56.721261
+                  ]
+            },
+            {
+                  "name": "Ūdens skatutornis",
+                  "text": "Ein als Aussichtspunkt genutzter Wasserturm in Aizpute.",
+                  "category": "natural",
+                  "coords": [
+                        21.605215,
+                        56.716957
+                  ]
+            },
+            {
+                  "name": "Aizputes Septītās dienas adventistu baznīca",
+                  "text": "Eine Kirche der Siebenten-Tags-Adventisten in Aizpute.",
+                  "category": "religious",
+                  "coords": [
+                        21.614189,
+                        56.715686
+                  ]
+            },
+            {
+                  "name": "Aizputes Romas katoļu draudze",
+                  "text": "Die römisch-katholische Pfarrkirche in Aizpute.",
+                  "category": "religious",
+                  "coords": [
+                        21.604666,
+                        56.721661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aizputes ordeņa pils",
+                  "text": "A Livóniai Lovagrend várának romjai Aizputében.",
+                  "category": "castle",
+                  "coords": [
+                        21.595208,
+                        56.721002
+                  ]
+            },
+            {
+                  "name": "Aizputes pilskalns",
+                  "text": "Régészeti lelőhely, amely egy ősi várhelyet jelöl Aizputében.",
+                  "category": "historical",
+                  "coords": [
+                        21.599857,
+                        56.721148
+                  ]
+            },
+            {
+                  "name": "Baltcepuru pilskalns",
+                  "text": "Egy ősi várhely és régészeti lelőhely Aizpute közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.567608,
+                        56.725911
+                  ]
+            },
+            {
+                  "name": "Lažas pilskalns",
+                  "text": "Régészeti lelőhely egy ősi várhellyel Aizpute környékén.",
+                  "category": "historical",
+                  "coords": [
+                        21.614589,
+                        56.737487
+                  ]
+            },
+            {
+                  "name": "Aizputes novadpētniecības muzejs",
+                  "text": "Helytörténeti múzeum, amely Aizpute örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.59815,
+                        56.722527
+                  ]
+            },
+            {
+                  "name": "Valdas Jēriņas leļļu kolekcija",
+                  "text": "Egy múzeum Aizputében, amely egy magán babagyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.60289,
+                        56.719379
+                  ]
+            },
+            {
+                  "name": "Ormu kalns",
+                  "text": "Egy dombon található régészeti lelőhely Aizputében.",
+                  "category": "historical",
+                  "coords": [
+                        21.610583,
+                        56.700155
+                  ]
+            },
+            {
+                  "name": "Dzintarkalnu viduslaiku kapsēta",
+                  "text": "Középkori temető és régészeti lelőhely Aizputében.",
+                  "category": "historical",
+                  "coords": [
+                        21.606491,
+                        56.70258
+                  ]
+            },
+            {
+                  "name": "Štakeldangas muiža",
+                  "text": "Történelmi udvarház és helyi látnivaló Aizputében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.602768,
+                        56.737335
+                  ]
+            },
+            {
+                  "name": "Pasaules mazākā izstāžu zāle",
+                  "text": "Egy egyedülálló kis galéria Aizputében.",
+                  "category": "museum",
+                  "coords": [
+                        21.603307,
+                        56.721261
+                  ]
+            },
+            {
+                  "name": "Ūdens skatutornis",
+                  "text": "Kilátóként használt víztorony Aizputében.",
+                  "category": "natural",
+                  "coords": [
+                        21.605215,
+                        56.716957
+                  ]
+            },
+            {
+                  "name": "Aizputes Septītās dienas adventistu baznīca",
+                  "text": "A Hetednapi Adventista Egyház temploma Aizputében.",
+                  "category": "religious",
+                  "coords": [
+                        21.614189,
+                        56.715686
+                  ]
+            },
+            {
+                  "name": "Aizputes Romas katoļu draudze",
+                  "text": "A római katolikus plébániatemplom Aizputében.",
+                  "category": "religious",
+                  "coords": [
+                        21.604666,
+                        56.721661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aizputes ordeņa pils",
+                  "text": "Ruinele unui castel al Ordinului Livonian în Aizpute.",
+                  "category": "castle",
+                  "coords": [
+                        21.595208,
+                        56.721002
+                  ]
+            },
+            {
+                  "name": "Aizputes pilskalns",
+                  "text": "Un sit arheologic care marchează o veche cetate de pământ în Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.599857,
+                        56.721148
+                  ]
+            },
+            {
+                  "name": "Baltcepuru pilskalns",
+                  "text": "O veche cetate de pământ și sit arheologic lângă Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.567608,
+                        56.725911
+                  ]
+            },
+            {
+                  "name": "Lažas pilskalns",
+                  "text": "Un sit arheologic care cuprinde o veche cetate de pământ în zona Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.614589,
+                        56.737487
+                  ]
+            },
+            {
+                  "name": "Aizputes novadpētniecības muzejs",
+                  "text": "Un muzeu de istorie locală care prezintă moștenirea orașului Aizpute.",
+                  "category": "museum",
+                  "coords": [
+                        21.59815,
+                        56.722527
+                  ]
+            },
+            {
+                  "name": "Valdas Jēriņas leļļu kolekcija",
+                  "text": "Un muzeu din Aizpute care prezintă o colecție privată de păpuși.",
+                  "category": "museum",
+                  "coords": [
+                        21.60289,
+                        56.719379
+                  ]
+            },
+            {
+                  "name": "Ormu kalns",
+                  "text": "Un sit arheologic situat pe un deal în Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.610583,
+                        56.700155
+                  ]
+            },
+            {
+                  "name": "Dzintarkalnu viduslaiku kapsēta",
+                  "text": "Un cimitir medieval și sit arheologic în Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.606491,
+                        56.70258
+                  ]
+            },
+            {
+                  "name": "Štakeldangas muiža",
+                  "text": "Un conac istoric și o atracție locală în Aizpute.",
+                  "category": "landmark",
+                  "coords": [
+                        21.602768,
+                        56.737335
+                  ]
+            },
+            {
+                  "name": "Pasaules mazākā izstāžu zāle",
+                  "text": "O mică galerie de artă unică situată în Aizpute.",
+                  "category": "museum",
+                  "coords": [
+                        21.603307,
+                        56.721261
+                  ]
+            },
+            {
+                  "name": "Ūdens skatutornis",
+                  "text": "Un turn de apă din Aizpute transformat în punct de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        21.605215,
+                        56.716957
+                  ]
+            },
+            {
+                  "name": "Aizputes Septītās dienas adventistu baznīca",
+                  "text": "O biserică adventistă de ziua a șaptea din Aizpute.",
+                  "category": "religious",
+                  "coords": [
+                        21.614189,
+                        56.715686
+                  ]
+            },
+            {
+                  "name": "Aizputes Romas katoļu draudze",
+                  "text": "Biserica parohială romano-catolică din Aizpute.",
+                  "category": "religious",
+                  "coords": [
+                        21.604666,
+                        56.721661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aizputes ordeņa pils",
+                  "text": "The ruins of a Livonian Order castle in Aizpute.",
+                  "category": "castle",
+                  "coords": [
+                        21.595208,
+                        56.721002
+                  ]
+            },
+            {
+                  "name": "Aizputes pilskalns",
+                  "text": "An archaeological site marking an ancient hillfort in Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.599857,
+                        56.721148
+                  ]
+            },
+            {
+                  "name": "Baltcepuru pilskalns",
+                  "text": "An ancient hillfort and archaeological site near Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.567608,
+                        56.725911
+                  ]
+            },
+            {
+                  "name": "Lažas pilskalns",
+                  "text": "An archaeological site featuring an ancient hillfort in the Aizpute area.",
+                  "category": "historical",
+                  "coords": [
+                        21.614589,
+                        56.737487
+                  ]
+            },
+            {
+                  "name": "Aizputes novadpētniecības muzejs",
+                  "text": "A local history museum showcasing the heritage of Aizpute.",
+                  "category": "museum",
+                  "coords": [
+                        21.59815,
+                        56.722527
+                  ]
+            },
+            {
+                  "name": "Valdas Jēriņas leļļu kolekcija",
+                  "text": "A museum in Aizpute featuring a private collection of dolls.",
+                  "category": "museum",
+                  "coords": [
+                        21.60289,
+                        56.719379
+                  ]
+            },
+            {
+                  "name": "Ormu kalns",
+                  "text": "An archaeological site located on a hill in Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.610583,
+                        56.700155
+                  ]
+            },
+            {
+                  "name": "Dzintarkalnu viduslaiku kapsēta",
+                  "text": "A medieval cemetery and archaeological site in Aizpute.",
+                  "category": "historical",
+                  "coords": [
+                        21.606491,
+                        56.70258
+                  ]
+            },
+            {
+                  "name": "Štakeldangas muiža",
+                  "text": "A historic manor house and local attraction in Aizpute.",
+                  "category": "landmark",
+                  "coords": [
+                        21.602768,
+                        56.737335
+                  ]
+            },
+            {
+                  "name": "Pasaules mazākā izstāžu zāle",
+                  "text": "A unique small gallery space located in Aizpute.",
+                  "category": "museum",
+                  "coords": [
+                        21.603307,
+                        56.721261
+                  ]
+            },
+            {
+                  "name": "Ūdens skatutornis",
+                  "text": "A water tower in Aizpute repurposed as a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        21.605215,
+                        56.716957
+                  ]
+            },
+            {
+                  "name": "Aizputes Septītās dienas adventistu baznīca",
+                  "text": "A Seventh-day Adventist church in Aizpute.",
+                  "category": "religious",
+                  "coords": [
+                        21.614189,
+                        56.715686
+                  ]
+            },
+            {
+                  "name": "Aizputes Romas katoļu draudze",
+                  "text": "The Roman Catholic parish church in Aizpute.",
+                  "category": "religious",
+                  "coords": [
+                        21.604666,
+                        56.721661
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [21.6060, 56.7198],
@@ -4580,7 +15947,376 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-grobina",
+    id: "lv-grobina", "sights": {
+      "de": [
+            {
+                  "name": "Ruine der Ordensburg Grobin",
+                  "text": "Die Ruinen einer mittelalterlichen Burg des Livländischen Ordens in Grobiņa.",
+                  "category": "castle",
+                  "coords": [
+                        21.16264,
+                        56.534473
+                  ]
+            },
+            {
+                  "name": "Padambju bedrīšakmens",
+                  "text": "Ein prähistorischer Schalenstein in der Nähe von Grobiņa mit archäologischem Wert.",
+                  "category": "historical",
+                  "coords": [
+                        21.206081,
+                        56.539283
+                  ]
+            },
+            {
+                  "name": "Kuršu pilskalns",
+                  "text": "Ein historischer kurländischer Burgwall, eine bedeutende archäologische Stätte in Grobiņa.",
+                  "category": "historical",
+                  "coords": [
+                        21.163822,
+                        56.532991
+                  ]
+            },
+            {
+                  "name": "Priediena senkapi",
+                  "text": "Ein altes Gräberfeld in Grobiņa, das Zeugnisse skandinavischer und kurischer Besiedlung zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        21.189121,
+                        56.528522
+                  ]
+            },
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "Ein Badeplatz am Mühlenteich in Grobiņa für Freizeit und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            },
+            {
+                  "name": "Zentas Mauriņas piemiņas istabas",
+                  "text": "Ein Gedenkmuseum in Grobiņa, das der lettischen Schriftstellerin Zenta Mauriņa gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.171784,
+                        56.535127
+                  ]
+            },
+            {
+                  "name": "Aktīvā tūrisma centrs „Kuršu Vikingu apmetne”",
+                  "text": "Ein Erlebniszentrum in Grobiņa, das das Leben der kurländischen Wikinger nachempfindet.",
+                  "category": "landmark",
+                  "coords": [
+                        21.151166,
+                        56.534079
+                  ]
+            },
+            {
+                  "name": "Akmens stāsti",
+                  "text": "Eine lokale Sehenswürdigkeit in Grobiņa, die mit Steinen und Legenden verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.158481,
+                        56.534633
+                  ]
+            },
+            {
+                  "name": "Grobiņas Svētās Brigitas Romas katoļu baznīca",
+                  "text": "Die römisch-katholische Kirche der heiligen Brigitta in Grobiņa.",
+                  "category": "religious",
+                  "coords": [
+                        21.172411,
+                        56.537196
+                  ]
+            },
+            {
+                  "name": "Grobiņas luterāņu baznīca",
+                  "text": "Die lutherische Kirche von Grobiņa, ein historisches Sakralgebäude.",
+                  "category": "religious",
+                  "coords": [
+                        21.162949,
+                        56.535689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grobiņas pilsdrupas",
+                  "text": "A Livóniai Rend középkori várának romjai Grobiņa városában.",
+                  "category": "castle",
+                  "coords": [
+                        21.16264,
+                        56.534473
+                  ]
+            },
+            {
+                  "name": "Padambju bedrīšakmens",
+                  "text": "Grobiņa közeli történelem előtti áldozati kő, amely régészeti értékkel bír.",
+                  "category": "historical",
+                  "coords": [
+                        21.206081,
+                        56.539283
+                  ]
+            },
+            {
+                  "name": "Kuršu pilskalns",
+                  "text": "Történelmi kúr várhely Grobiņában, amely fontos régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        21.163822,
+                        56.532991
+                  ]
+            },
+            {
+                  "name": "Priediena senkapi",
+                  "text": "Ősi temetkezési hely Grobiņában, amely skandináv és kúr jelenlétre utal.",
+                  "category": "historical",
+                  "coords": [
+                        21.189121,
+                        56.528522
+                  ]
+            },
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "Fürdőhely a grobiņai Malom-tónál, amely kikapcsolódást nyújt.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            },
+            {
+                  "name": "Zentas Mauriņas piemiņas istabas",
+                  "text": "Zenta Mauriņa lett írónő emlékére berendezett múzeumi szobák Grobiņában.",
+                  "category": "museum",
+                  "coords": [
+                        21.171784,
+                        56.535127
+                  ]
+            },
+            {
+                  "name": "Aktīvā tūrisma centrs „Kuršu Vikingu apmetne”",
+                  "text": "Grobiņai élményközpont, amely a kúr vikingek életmódját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        21.151166,
+                        56.534079
+                  ]
+            },
+            {
+                  "name": "Akmens stāsti",
+                  "text": "Helyi látványosság Grobiņában, amely kövekhez kapcsolódó történeteket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        21.158481,
+                        56.534633
+                  ]
+            },
+            {
+                  "name": "Grobiņas Svētās Brigitas Romas katoļu baznīca",
+                  "text": "Szent Brigitta római katolikus templom Grobiņa városában.",
+                  "category": "religious",
+                  "coords": [
+                        21.172411,
+                        56.537196
+                  ]
+            },
+            {
+                  "name": "Grobiņas luterāņu baznīca",
+                  "text": "Grobiņa evangélikus temploma, amely történelmi egyházi épület.",
+                  "category": "religious",
+                  "coords": [
+                        21.162949,
+                        56.535689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grobiņas pilsdrupas",
+                  "text": "Ruinele unui castel medieval al Ordinului Livonian situat în Grobiņa.",
+                  "category": "castle",
+                  "coords": [
+                        21.16264,
+                        56.534473
+                  ]
+            },
+            {
+                  "name": "Padambju bedrīšakmens",
+                  "text": "O piatră preistorică cu adâncituri lângă Grobiņa, având valoare arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        21.206081,
+                        56.539283
+                  ]
+            },
+            {
+                  "name": "Kuršu pilskalns",
+                  "text": "Un vechi dâmb fortificat al curonienilor, sit arheologic important în Grobiņa.",
+                  "category": "historical",
+                  "coords": [
+                        21.163822,
+                        56.532991
+                  ]
+            },
+            {
+                  "name": "Priediena senkapi",
+                  "text": "Un vechi cimitir în Grobiņa care oferă dovezi ale așezărilor scandinave și curoniene.",
+                  "category": "historical",
+                  "coords": [
+                        21.189121,
+                        56.528522
+                  ]
+            },
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "Un loc de scăldat la iazul morii din Grobiņa, destinat recreerii.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            },
+            {
+                  "name": "Zentas Mauriņas piemiņas istabas",
+                  "text": "Camere memoriale în Grobiņa dedicate scriitoarei letone Zenta Mauriņa.",
+                  "category": "museum",
+                  "coords": [
+                        21.171784,
+                        56.535127
+                  ]
+            },
+            {
+                  "name": "Aktīvā tūrisma centrs „Kuršu Vikingu apmetne”",
+                  "text": "Un centru de turism activ din Grobiņa care reconstituie viața vikinilor curonieni.",
+                  "category": "landmark",
+                  "coords": [
+                        21.151166,
+                        56.534079
+                  ]
+            },
+            {
+                  "name": "Akmens stāsti",
+                  "text": "O atracție locală din Grobiņa legată de legende și structuri de piatră.",
+                  "category": "landmark",
+                  "coords": [
+                        21.158481,
+                        56.534633
+                  ]
+            },
+            {
+                  "name": "Grobiņas Svētās Brigitas Romas katoļu baznīca",
+                  "text": "Biserica romano-catolică Sfânta Brigita din Grobiņa.",
+                  "category": "religious",
+                  "coords": [
+                        21.172411,
+                        56.537196
+                  ]
+            },
+            {
+                  "name": "Grobiņas luterāņu baznīca",
+                  "text": "Biserica luterană din Grobiņa, un edificiu religios istoric.",
+                  "category": "religious",
+                  "coords": [
+                        21.162949,
+                        56.535689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grobiņas pilsdrupas",
+                  "text": "The ruins of a medieval Livonian Order castle located in Grobiņa.",
+                  "category": "castle",
+                  "coords": [
+                        21.16264,
+                        56.534473
+                  ]
+            },
+            {
+                  "name": "Padambju bedrīšakmens",
+                  "text": "A prehistoric cup-marked stone near Grobiņa with archaeological value.",
+                  "category": "historical",
+                  "coords": [
+                        21.206081,
+                        56.539283
+                  ]
+            },
+            {
+                  "name": "Kuršu pilskalns",
+                  "text": "A historic Curonian hillfort, a significant archaeological site in Grobiņa.",
+                  "category": "historical",
+                  "coords": [
+                        21.163822,
+                        56.532991
+                  ]
+            },
+            {
+                  "name": "Priediena senkapi",
+                  "text": "An ancient burial ground in Grobiņa showing evidence of Scandinavian and Curonian settlement.",
+                  "category": "historical",
+                  "coords": [
+                        21.189121,
+                        56.528522
+                  ]
+            },
+            {
+                  "name": "Dzirnavas dīķa peldētava",
+                  "text": "A bathing spot at the mill pond in Grobiņa for leisure and recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        21.155364,
+                        56.534015
+                  ]
+            },
+            {
+                  "name": "Zentas Mauriņas piemiņas istabas",
+                  "text": "A memorial museum in Grobiņa dedicated to the Latvian writer Zenta Mauriņa.",
+                  "category": "museum",
+                  "coords": [
+                        21.171784,
+                        56.535127
+                  ]
+            },
+            {
+                  "name": "Aktīvā tūrisma centrs „Kuršu Vikingu apmetne”",
+                  "text": "An active tourism centre in Grobiņa recreating the life of Curonian Vikings.",
+                  "category": "landmark",
+                  "coords": [
+                        21.151166,
+                        56.534079
+                  ]
+            },
+            {
+                  "name": "Akmens stāsti",
+                  "text": "A local attraction in Grobiņa related to stone stories and legends.",
+                  "category": "landmark",
+                  "coords": [
+                        21.158481,
+                        56.534633
+                  ]
+            },
+            {
+                  "name": "Grobiņas Svētās Brigitas Romas katoļu baznīca",
+                  "text": "The Saint Brigid Roman Catholic church in Grobiņa.",
+                  "category": "religious",
+                  "coords": [
+                        21.172411,
+                        56.537196
+                  ]
+            },
+            {
+                  "name": "Grobiņas luterāņu baznīca",
+                  "text": "The Lutheran church of Grobiņa, a historic religious building.",
+                  "category": "religious",
+                  "coords": [
+                        21.162949,
+                        56.535689
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [21.1660, 56.5360],
@@ -4626,7 +16362,268 @@ export const latviaNature = [
     },
   },
   {
-    id: "lv-dobele",
+    id: "lv-dobele", "sights": {
+      "de": [
+            {
+                  "name": "Dobeles novadpētniecības muzejs",
+                  "text": "Ein Heimatmuseum, das die Vergangenheit von Dobele dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.276413,
+                        56.625112
+                  ]
+            },
+            {
+                  "name": "Ceriņu dārzs",
+                  "text": "Ein berühmter Fliedergarten und Museum in Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.296686,
+                        56.610355
+                  ]
+            },
+            {
+                  "name": "Kultūras nams",
+                  "text": "Ein Kulturzentrum und Theater für Veranstaltungen in Dobele.",
+                  "category": "cultural",
+                  "coords": [
+                        23.282764,
+                        56.623304
+                  ]
+            },
+            {
+                  "name": "Dobeles pilskalns",
+                  "text": "Eine alte Burgwallanlage in der Stadt Dobele.",
+                  "category": "historical",
+                  "coords": [
+                        23.27194,
+                        56.62194
+                  ]
+            },
+            {
+                  "name": "Dobeles Livonijas pils ordeņa kapela",
+                  "text": "Ein Museum in der Kapelle der livländischen Ordensburg in Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.273127,
+                        56.622716
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Zinta\"",
+                  "text": "Ein Konzertsaal und Veranstaltungsort in Dobele.",
+                  "category": "cultural",
+                  "coords": [
+                        23.278594,
+                        56.622385
+                  ]
+            },
+            {
+                  "name": "Komunistiskā genocīda upuru piemiņas vieta",
+                  "text": "Ein Denkmal für die Opfer des kommunistischen Genozids in Dobele.",
+                  "category": "historical",
+                  "coords": [
+                        23.287174,
+                        56.627163
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dobeles novadpētniecības muzejs",
+                  "text": "Helytörténeti múzeum, amely Dobele múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.276413,
+                        56.625112
+                  ]
+            },
+            {
+                  "name": "Ceriņu dārzs",
+                  "text": "Híres orgonakert és múzeum Dobelében.",
+                  "category": "museum",
+                  "coords": [
+                        23.296686,
+                        56.610355
+                  ]
+            },
+            {
+                  "name": "Kultūras nams",
+                  "text": "Kulturális központ és színház Dobelében.",
+                  "category": "cultural",
+                  "coords": [
+                        23.282764,
+                        56.623304
+                  ]
+            },
+            {
+                  "name": "Dobeles pilskalns",
+                  "text": "Egy ősi várhely Dobele városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.27194,
+                        56.62194
+                  ]
+            },
+            {
+                  "name": "Dobeles Livonijas pils ordeņa kapela",
+                  "text": "Múzeum a dobelei livóniai lovagrendi vár kápolnájában.",
+                  "category": "museum",
+                  "coords": [
+                        23.273127,
+                        56.622716
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Zinta\"",
+                  "text": "Hangversenyterem és előadóhely Dobelében.",
+                  "category": "cultural",
+                  "coords": [
+                        23.278594,
+                        56.622385
+                  ]
+            },
+            {
+                  "name": "Komunistiskā genocīda upuru piemiņas vieta",
+                  "text": "A kommunista népirtás áldozatainak emlékműve Dobelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.287174,
+                        56.627163
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dobeles novadpētniecības muzejs",
+                  "text": "Un muzeu de istorie locală care documentează trecutul orașului Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.276413,
+                        56.625112
+                  ]
+            },
+            {
+                  "name": "Ceriņu dārzs",
+                  "text": "O faimoasă grădină de liliac și muzeu în Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.296686,
+                        56.610355
+                  ]
+            },
+            {
+                  "name": "Kultūras nams",
+                  "text": "Un centru cultural și teatru care găzduiește evenimente în Dobele.",
+                  "category": "cultural",
+                  "coords": [
+                        23.282764,
+                        56.623304
+                  ]
+            },
+            {
+                  "name": "Dobeles pilskalns",
+                  "text": "Un sit al unei vechi cetăți de pământ în orașul Dobele.",
+                  "category": "historical",
+                  "coords": [
+                        23.27194,
+                        56.62194
+                  ]
+            },
+            {
+                  "name": "Dobeles Livonijas pils ordeņa kapela",
+                  "text": "Un muzeu situat în capela castelului Ordinului Livonian din Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.273127,
+                        56.622716
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Zinta\"",
+                  "text": "O sală de concerte și spațiu de spectacole în Dobele.",
+                  "category": "cultural",
+                  "coords": [
+                        23.278594,
+                        56.622385
+                  ]
+            },
+            {
+                  "name": "Komunistiskā genocīda upuru piemiņas vieta",
+                  "text": "Un monument dedicat victimelor genocidului comunist în Dobele.",
+                  "category": "historical",
+                  "coords": [
+                        23.287174,
+                        56.627163
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dobeles novadpētniecības muzejs",
+                  "text": "A local history museum documenting the past of Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.276413,
+                        56.625112
+                  ]
+            },
+            {
+                  "name": "Ceriņu dārzs",
+                  "text": "A famous lilac garden and museum in Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.296686,
+                        56.610355
+                  ]
+            },
+            {
+                  "name": "Kultūras nams",
+                  "text": "A cultural centre and theatre hosting events in Dobele.",
+                  "category": "cultural",
+                  "coords": [
+                        23.282764,
+                        56.623304
+                  ]
+            },
+            {
+                  "name": "Dobeles pilskalns",
+                  "text": "An ancient hillfort site in the town of Dobele.",
+                  "category": "historical",
+                  "coords": [
+                        23.27194,
+                        56.62194
+                  ]
+            },
+            {
+                  "name": "Dobeles Livonijas pils ordeņa kapela",
+                  "text": "A museum housed in the chapel of the Livonian Order castle in Dobele.",
+                  "category": "museum",
+                  "coords": [
+                        23.273127,
+                        56.622716
+                  ]
+            },
+            {
+                  "name": "Koncertzāle \"Zinta\"",
+                  "text": "A concert hall and performance venue in Dobele.",
+                  "category": "cultural",
+                  "coords": [
+                        23.278594,
+                        56.622385
+                  ]
+            },
+            {
+                  "name": "Komunistiskā genocīda upuru piemiņas vieta",
+                  "text": "A monument dedicated to the victims of communist genocide in Dobele.",
+                  "category": "historical",
+                  "coords": [
+                        23.287174,
+                        56.627163
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lv-country",
     coords: [23.2810, 56.6250],

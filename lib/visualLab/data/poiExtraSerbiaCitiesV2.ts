@@ -48,7 +48,160 @@ export const serbiaCitiesV2: POI[] = [
     image: "/poi-images/serbia-prijepolje-cities-v2.webp",
   },
   {
-    id: "serbia-loznica-cities-v2",
+    id: "serbia-loznica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Музеј Јадра",
+                  "text": "Das Museum widmet sich der Geschichte und dem kulturellen Erbe der Region Jadar.",
+                  "category": "museum",
+                  "coords": [
+                        19.22457,
+                        44.531596
+                  ]
+            },
+            {
+                  "name": "Лознички град",
+                  "text": "Überreste der historischen Befestigungsanlagen der Stadt Loznica.",
+                  "category": "fortress",
+                  "coords": [
+                        19.218989,
+                        44.530847
+                  ]
+            },
+            {
+                  "name": "Споменик војводи Степи Степановићу",
+                  "text": "Dieses Denkmal ehrt den serbischen Feldmarschall Stepa Stepanović.",
+                  "category": "historical",
+                  "coords": [
+                        19.230593,
+                        44.529487
+                  ]
+            },
+            {
+                  "name": "Кућа Катића са Галеријом Миће Поповића",
+                  "text": "Ein historisches Haus, das heute eine Galerie mit Werken des Künstlers Mića Popović beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        19.221782,
+                        44.530924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музеј Јадра",
+                  "text": "A múzeum a Jadar régió történelmének és kulturális örökségének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        19.22457,
+                        44.531596
+                  ]
+            },
+            {
+                  "name": "Лознички град",
+                  "text": "Loznica város történelmi erődítményeinek maradványai.",
+                  "category": "fortress",
+                  "coords": [
+                        19.218989,
+                        44.530847
+                  ]
+            },
+            {
+                  "name": "Споменик војводи Степи Степановићу",
+                  "text": "Ez az emlékmű Stepa Stepanović szerb tábornagynak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        19.230593,
+                        44.529487
+                  ]
+            },
+            {
+                  "name": "Кућа Катића са Галеријом Миће Поповића",
+                  "text": "Történelmi ház, amely ma Mića Popović művész alkotásait bemutató galériának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        19.221782,
+                        44.530924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музеј Јадра",
+                  "text": "Muzeul este dedicat istoriei și moștenirii culturale a regiunii Jadar.",
+                  "category": "museum",
+                  "coords": [
+                        19.22457,
+                        44.531596
+                  ]
+            },
+            {
+                  "name": "Лознички град",
+                  "text": "Rămășițele fortificațiilor istorice ale orașului Loznica.",
+                  "category": "fortress",
+                  "coords": [
+                        19.218989,
+                        44.530847
+                  ]
+            },
+            {
+                  "name": "Споменик војводи Степи Степановићу",
+                  "text": "Acest monument îl onorează pe mareșalul sârb Stepa Stepanović.",
+                  "category": "historical",
+                  "coords": [
+                        19.230593,
+                        44.529487
+                  ]
+            },
+            {
+                  "name": "Кућа Катића са Галеријом Миће Поповића",
+                  "text": "O casă istorică ce găzduiește astăzi o galerie cu lucrările artistului Mića Popović.",
+                  "category": "museum",
+                  "coords": [
+                        19.221782,
+                        44.530924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jadar Museum",
+                  "text": "The museum is dedicated to the history and cultural heritage of the Jadar region.",
+                  "category": "museum",
+                  "coords": [
+                        19.22457,
+                        44.531596
+                  ]
+            },
+            {
+                  "name": "Лознички град",
+                  "text": "Remains of the historical fortifications of the city of Loznica.",
+                  "category": "fortress",
+                  "coords": [
+                        19.218989,
+                        44.530847
+                  ]
+            },
+            {
+                  "name": "Field Marshal Stepa Stepanovic Monument",
+                  "text": "This monument honors the Serbian Field Marshal Stepa Stepanović.",
+                  "category": "historical",
+                  "coords": [
+                        19.230593,
+                        44.529487
+                  ]
+            },
+            {
+                  "name": "Кућа Катића са Галеријом Миће Поповића",
+                  "text": "A historic house that now houses a gallery with works by the artist Mića Popović.",
+                  "category": "museum",
+                  "coords": [
+                        19.221782,
+                        44.530924
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Loznica", hu: "Loznica", ro: "Loznica", en: "Loznica" },

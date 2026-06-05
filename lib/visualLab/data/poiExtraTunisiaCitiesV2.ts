@@ -748,7 +748,268 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "midoun-cities-v2",
+    id: "midoun-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Amna el Qazoulia",
+                  "text": "Eine antike archäologische Stätte in der Nähe der Stadt Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.999851,
+                        33.791642
+                  ]
+            },
+            {
+                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
+                  "text": "Ein Museum in Midoun, das eine Sammlung von Oldtimern und Motorrädern zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.017958,
+                        33.796351
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou",
+                  "text": "Die Ruinen einer antiken numidischen und römischen Siedlung in der Nähe von Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.968894,
+                        33.821452
+                  ]
+            },
+            {
+                  "name": "Trojjete - fours à chaux historiques",
+                  "text": "Eine Stätte mit historischen Kalköfen, die für die traditionelle lokale Produktion bei Midoun genutzt wurden.",
+                  "category": "historical",
+                  "coords": [
+                        11.023693,
+                        33.809384
+                  ]
+            },
+            {
+                  "name": "Huilerie Amer Ben Hamza",
+                  "text": "Eine traditionelle Ölmühle in Midoun, die lokale Methoden der Olivenölherstellung zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.006393,
+                        33.784556
+                  ]
+            },
+            {
+                  "name": "Menzel Mhiri",
+                  "text": "Historische Ruinen eines traditionellen Architekturkomplexes in Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        11.000656,
+                        33.811745
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou - mausolée",
+                  "text": "Ein antikes Grabmal an der Ausgrabungsstätte Henchir Bourgou bei Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.970369,
+                        33.819721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amna el Qazoulia",
+                  "text": "Egy ókori régészeti lelőhely Midoun városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.999851,
+                        33.791642
+                  ]
+            },
+            {
+                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
+                  "text": "Múzeum Midounban, amely veterán autók és motorkerékpárok gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.017958,
+                        33.796351
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou",
+                  "text": "Egy ókori numidiai és római település romjai Midoun közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.968894,
+                        33.821452
+                  ]
+            },
+            {
+                  "name": "Trojjete - fours à chaux historiques",
+                  "text": "Történelmi mészégető kemencék helyszíne Midoun közelében, amelyeket a hagyományos helyi termelésben használtak.",
+                  "category": "historical",
+                  "coords": [
+                        11.023693,
+                        33.809384
+                  ]
+            },
+            {
+                  "name": "Huilerie Amer Ben Hamza",
+                  "text": "Hagyományos olajütő Midounban, amely a helyi olívaolaj-termelési módszereket mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        11.006393,
+                        33.784556
+                  ]
+            },
+            {
+                  "name": "Menzel Mhiri",
+                  "text": "Egy hagyományos építészeti együttes történelmi romjai Midounban.",
+                  "category": "historical",
+                  "coords": [
+                        11.000656,
+                        33.811745
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou - mausolée",
+                  "text": "Egy ókori temetkezési emlékmű a Midoun melletti Henchir Bourgou lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        10.970369,
+                        33.819721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amna el Qazoulia",
+                  "text": "Un sit arheologic antic situat în apropierea orașului Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.999851,
+                        33.791642
+                  ]
+            },
+            {
+                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
+                  "text": "Un muzeu din Midoun care expune o colecție de automobile și motociclete de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        11.017958,
+                        33.796351
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou",
+                  "text": "Ruinele unei vechi așezări numidiene și romane situate lângă Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.968894,
+                        33.821452
+                  ]
+            },
+            {
+                  "name": "Trojjete - fours à chaux historiques",
+                  "text": "Un sit care prezintă cuptoare de var istorice utilizate în producția locală tradițională lângă Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        11.023693,
+                        33.809384
+                  ]
+            },
+            {
+                  "name": "Huilerie Amer Ben Hamza",
+                  "text": "O presă de ulei tradițională din Midoun, care prezintă metodele locale de producție a uleiului de măsline.",
+                  "category": "landmark",
+                  "coords": [
+                        11.006393,
+                        33.784556
+                  ]
+            },
+            {
+                  "name": "Menzel Mhiri",
+                  "text": "Ruinele istorice ale unui complex arhitectural tradițional situat în Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        11.000656,
+                        33.811745
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou - mausolée",
+                  "text": "Un monument funerar antic situat în situl Henchir Bourgou de lângă Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.970369,
+                        33.819721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amna el Qazoulia",
+                  "text": "An ancient archaeological site located near the town of Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.999851,
+                        33.791642
+                  ]
+            },
+            {
+                  "name": "La Ferme de Lotos - Musée de l'automobile et de la moto",
+                  "text": "A museum in Midoun displaying a collection of vintage automobiles and motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        11.017958,
+                        33.796351
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou",
+                  "text": "The ruins of an ancient Numidian and Roman settlement located near Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.968894,
+                        33.821452
+                  ]
+            },
+            {
+                  "name": "Trojjete - fours à chaux historiques",
+                  "text": "A site featuring historic lime kilns used in traditional local production near Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        11.023693,
+                        33.809384
+                  ]
+            },
+            {
+                  "name": "Huilerie Amer Ben Hamza",
+                  "text": "A traditional oil mill in Midoun showcasing local olive oil production methods.",
+                  "category": "landmark",
+                  "coords": [
+                        11.006393,
+                        33.784556
+                  ]
+            },
+            {
+                  "name": "Menzel Mhiri",
+                  "text": "Historical ruins of a traditional architectural complex located in Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        11.000656,
+                        33.811745
+                  ]
+            },
+            {
+                  "name": "Henchir Bourgou - mausolée",
+                  "text": "An ancient funerary monument situated at the Henchir Bourgou site near Midoun.",
+                  "category": "historical",
+                  "coords": [
+                        10.970369,
+                        33.819721
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-82",
     coords: [10.9934, 33.8058],
@@ -781,7 +1042,340 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "hammamet-cities-v2",
+    id: "hammamet-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phare d'Hammamet",
+                  "text": "Phare d'Hammamet ist ein bekannter Leuchtturm in der Küstenstadt Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.61357,
+                        36.394395
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "Der Club nautique hammamet C.N.H ist ein Vergnügungs- und Freizeitpark in Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "شاطئ الحمامات",
+                  "text": "Der Hammamet Beach ist ein beliebter Sandstrand in Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.617679,
+                        36.394148
+                  ]
+            },
+            {
+                  "name": "Dschabal al-Hammamat",
+                  "text": "Jabal Al Hammamat ist ein markanter Berggipfel in der Nähe von Hammamet.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "Golf von al-Hammamat",
+                  "text": "Der Golf von Hammamet ist eine große Bucht an der Küste von Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "Centre Culturel International de Hammamet",
+                  "text": "Das International Culture Center of Hammamet ist ein Kunstzentrum, das für sein internationales Festival bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594646,
+                        36.404219
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "Die Statue d'un Soldat Martyr ist ein Denkmal in Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "Das Théatre Plein Air de Hammamet ist ein kultureller Veranstaltungsort im Freien in Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613498,
+                        36.392631
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "Die Salle Des Fêtes Boussetta ist ein Kunst- und Veranstaltungszentrum in Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628232,
+                        36.409126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phare d'Hammamet",
+                  "text": "A Phare d'Hammamet egy jól ismert világítótorony Hammamet tengerparti városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.61357,
+                        36.394395
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "A Club nautique hammamet C.N.H egy vidámpark és szabadidőpark Hammametben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "شاطئ الحمامات",
+                  "text": "A Hammamet Beach egy népszerű homokos tengerpart Hammametben.",
+                  "category": "recreational",
+                  "coords": [
+                        10.617679,
+                        36.394148
+                  ]
+            },
+            {
+                  "name": "جبل الحمامات",
+                  "text": "A Jabal Al Hammamat egy kiemelkedő hegycsúcs Hammamet közelében.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "خليج الحمامات",
+                  "text": "A Hammameti-öböl egy jelentős nagy öböl Hammamet partjai mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "Centre Culturel International de Hammamet",
+                  "text": "A Hammameti Nemzetközi Kulturális Központ egy művészeti központ, amely a város nemzetközi fesztiváljának ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594646,
+                        36.404219
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "A Statue d'un Soldat Martyr egy emlékmű Hammametben.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "A Théatre Plein Air de Hammamet egy szabadtéri kulturális művészeti helyszín Hammametben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613498,
+                        36.392631
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "A Salle Des Fêtes Boussetta egy művészeti és rendezvényközpont Hammametben.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628232,
+                        36.409126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phare d'Hammamet",
+                  "text": "Phare d'Hammamet este un far binecunoscut situat în orașul de coastă Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.61357,
+                        36.394395
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "Club nautique hammamet C.N.H este un parc de distracții și agrement din Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "شاطئ الحمامات",
+                  "text": "Hammamet Beach este o plajă de nisip populară situată în Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.617679,
+                        36.394148
+                  ]
+            },
+            {
+                  "name": "جبل الحمامات",
+                  "text": "Jabal Al Hammamat este un vârf muntos proeminent situat lângă Hammamet.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "خليج الحمامات",
+                  "text": "Golful Hammamet este un golf mare și notabil de-a lungul coastei din Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "Centre Culturel International de Hammamet",
+                  "text": "Centrul Internațional de Cultură din Hammamet este un centru de arte recunoscut pentru găzduirea festivalului internațional al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594646,
+                        36.404219
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "Statue d'un Soldat Martyr este un monument comemorativ situat în Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "Théatre Plein Air de Hammamet este un loc de artă culturală în aer liber din Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613498,
+                        36.392631
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "Salle Des Fêtes Boussetta este un centru de arte și evenimente situat în Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628232,
+                        36.409126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phare d'Hammamet",
+                  "text": "Phare d'Hammamet is a well-known lighthouse located in the coastal city of Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.61357,
+                        36.394395
+                  ]
+            },
+            {
+                  "name": "Club nautique hammamet C.N.H",
+                  "text": "Club nautique hammamet C.N.H is an amusement and leisure park in Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.611369,
+                        36.397481
+                  ]
+            },
+            {
+                  "name": "Hammamet Beach",
+                  "text": "Hammamet Beach is a popular sandy shoreline situated in Hammamet.",
+                  "category": "recreational",
+                  "coords": [
+                        10.617679,
+                        36.394148
+                  ]
+            },
+            {
+                  "name": "Jabal Al Hammamat",
+                  "text": "Jabal Al Hammamat is a prominent mountain peak located near Hammamet.",
+                  "category": "natural",
+                  "coords": [
+                        10.63059,
+                        36.41495
+                  ]
+            },
+            {
+                  "name": "Gulf of Al Hammamat",
+                  "text": "The Gulf of Al Hammamat is a notable large bay along the coast of Hammamet.",
+                  "category": "landmark",
+                  "coords": [
+                        10.610935,
+                        36.395783
+                  ]
+            },
+            {
+                  "name": "International Culture Center of Hammamet",
+                  "text": "The International Culture Center of Hammamet is an arts center known for hosting the city's international festival.",
+                  "category": "cultural",
+                  "coords": [
+                        10.594646,
+                        36.404219
+                  ]
+            },
+            {
+                  "name": "Statue d'un Soldat Martyr",
+                  "text": "Statue d'un Soldat Martyr is a commemorative monument situated in Hammamet.",
+                  "category": "historical",
+                  "coords": [
+                        10.630382,
+                        36.405092
+                  ]
+            },
+            {
+                  "name": "Théatre Plein Air de Hammamet",
+                  "text": "Théatre Plein Air de Hammamet is an outdoor cultural arts venue in Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.613498,
+                        36.392631
+                  ]
+            },
+            {
+                  "name": "Salle Des Fêtes Boussetta",
+                  "text": "Salle Des Fêtes Boussetta is an arts and events center located in Hammamet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.628232,
+                        36.409126
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-21",
     coords: [10.6122, 36.4011],
@@ -814,7 +1408,88 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "zarzis-cities-v2",
+    id: "zarzis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "Ein Museum in Zarzis, das in einer ehemaligen Kirche untergebracht ist und Funde zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.113926,
+                        33.502051
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "Ein Leuchtturm, der der Küstenstadt Zarzis dient.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "Zarzis múzeuma, amely egy egykori templomban található, és régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.113926,
+                        33.502051
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "Zarzis kikötővárosát kiszolgáló világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "Un muzeu din Zarzis situat într-o fostă biserică, expunând descoperiri arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        11.113926,
+                        33.502051
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "Un far care deservește orașul de coastă Zarzis.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée de Zarzis",
+                  "text": "A museum in Zarzis located in a former church, displaying archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        11.113926,
+                        33.502051
+                  ]
+            },
+            {
+                  "name": "Leuchtturm Zarzis",
+                  "text": "A lighthouse serving the coastal city of Zarzis.",
+                  "category": "landmark",
+                  "coords": [
+                        11.119708,
+                        33.49714
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-82",
     coords: [11.1121, 33.5039],
@@ -847,7 +1522,88 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "douz-cities-v2",
+    id: "douz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maison de culture",
+                  "text": "Ein Kulturzentrum in Douz, in dem Theateraufführungen und künstlerische Veranstaltungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.452421
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "Ein Museum, das der Kultur, Geschichte und den Traditionen der Sahara und des Nomadenlebens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maison de culture",
+                  "text": "Douzi kulturális központ, amely színházi előadásoknak és művészeti eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.452421
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "A Szahara és a nomád élet kultúrájának, történelmének és hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maison de culture",
+                  "text": "Un centru cultural din Douz care găzduiește spectacole de teatru și evenimente artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.452421
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "Un muzeu dedicat culturii, istoriei și tradițiilor Saharei și vieții nomade.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maison de culture",
+                  "text": "A cultural centre in Douz that hosts theatrical performances and artistic events.",
+                  "category": "cultural",
+                  "coords": [
+                        9.020069,
+                        33.452421
+                  ]
+            },
+            {
+                  "name": "Musée du Sahara de Douz",
+                  "text": "A museum dedicated to the culture, history, and traditions of the Sahara and nomadic life.",
+                  "category": "museum",
+                  "coords": [
+                        9.018325,
+                        33.451911
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-73",
     coords: [9.0256, 33.4566],
@@ -880,7 +1636,412 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sbeitla-cities-v2",
+    id: "sbeitla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "آثار رومانية سبيطلة",
+                  "text": "Die römischen Ruinen von Sbeitla sind eine bedeutende archäologische Stätte in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.118776,
+                        35.239973
+                  ]
+            },
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla ist eine renommierte archäologische Attraktion mit weitläufigen antiken Ruinen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "Das Amphitheater in Sbeitla zeigt die Ruinen eines antiken Veranstaltungsortes.",
+                  "category": "historical",
+                  "coords": [
+                        9.114584,
+                        35.243636
+                  ]
+            },
+            {
+                  "name": "Pont Aqueduc",
+                  "text": "Die Aquäduktbrücke ist eine anerkannte archäologische Brückenruine in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Théâtre",
+                  "text": "Das Theater besteht aus antiken architektonischen Ruinen in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.122424,
+                        35.239611
+                  ]
+            },
+            {
+                  "name": "Arc Tétrarchie",
+                  "text": "Der Bogen der Tetrarchie ist eine antike monumentale Ruine in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Chapelle de Jucundus",
+                  "text": "Die Kapelle von Jucundus ist die Ruine eines historischen religiösen Gebäudes in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.119609,
+                        35.241673
+                  ]
+            },
+            {
+                  "name": "Citernes",
+                  "text": "Die Citernes sind historische zerstörte Wasserreservoirs in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.120682,
+                        35.23939
+                  ]
+            },
+            {
+                  "name": "Tempel",
+                  "text": "Der Tempel zeigt die Überreste eines antiken Gotteshauses in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.116253,
+                        35.243097
+                  ]
+            },
+            {
+                  "name": "Thermes",
+                  "text": "Die Thermen sind die archäologischen Überreste antiker öffentlicher Badeanlagen in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Église des martyrs",
+                  "text": "Die Kirche der Märtyrer ist eine zerstörte Stätte von historischer religiöser Bedeutung in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.120741,
+                        35.238126
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "آثار رومانية سبيطلة",
+                  "text": "Sbeitla római romjai egy jelentős régészeti lelőhely Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.118776,
+                        35.239973
+                  ]
+            },
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla egy híres régészeti látványosság, amely kiterjedt ősi romokat mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "A sbeitlai amfiteátrum egy ókori előadóhely romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        9.114584,
+                        35.243636
+                  ]
+            },
+            {
+                  "name": "Pont Aqueduc",
+                  "text": "A vízvezeték-híd egy elismert régészeti hídrom Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Théâtre",
+                  "text": "A Színház ősi építészeti romokból áll Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.122424,
+                        35.239611
+                  ]
+            },
+            {
+                  "name": "Arc Tétrarchie",
+                  "text": "A Tetrarchia diadalkapuja egy ókori monumentális rom Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Chapelle de Jucundus",
+                  "text": "A Jucundus-kápolna egy történelmi vallási épület romja Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.119609,
+                        35.241673
+                  ]
+            },
+            {
+                  "name": "Citernes",
+                  "text": "A Citernes történelmi romos víztározók Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.120682,
+                        35.23939
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "A Templom egy ókori istentiszteleti hely maradványait mutatja be Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.116253,
+                        35.243097
+                  ]
+            },
+            {
+                  "name": "Thermes",
+                  "text": "A Fürdők az ókori nyilvános fürdőhelyiségek régészeti maradványai Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Église des martyrs",
+                  "text": "A Mártírok temploma egy történelmi vallási jelentőségű romterület Sbeitlában.",
+                  "category": "historical",
+                  "coords": [
+                        9.120741,
+                        35.238126
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "آثار رومانية سبيطلة",
+                  "text": "Ruinele romane din Sbeitla reprezintă un sit arheologic important din Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.118776,
+                        35.239973
+                  ]
+            },
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla este o atracție arheologică renumită, cu ruine antice extinse.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Amphithéâtre",
+                  "text": "Amfiteatrul din Sbeitla prezintă ruinele unui vechi loc de spectacol.",
+                  "category": "historical",
+                  "coords": [
+                        9.114584,
+                        35.243636
+                  ]
+            },
+            {
+                  "name": "Pont Aqueduc",
+                  "text": "Podul apeductului este o ruină arheologică recunoscută situată în Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Théâtre",
+                  "text": "Teatrul constă din ruine arhitecturale antice situate în Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.122424,
+                        35.239611
+                  ]
+            },
+            {
+                  "name": "Arc Tétrarchie",
+                  "text": "Arcul Tetrarhiei este o ruină monumentală antică găsită în Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Chapelle de Jucundus",
+                  "text": "Capela lui Jucundus reprezintă ruinele unei clădiri religioase istorice din Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.119609,
+                        35.241673
+                  ]
+            },
+            {
+                  "name": "Citernes",
+                  "text": "Cisternele sunt rezervoare istorice de apă în ruină situate în Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.120682,
+                        35.23939
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "Templul prezintă rămășițele unui vechi lăcaș de cult din Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.116253,
+                        35.243097
+                  ]
+            },
+            {
+                  "name": "Thermes",
+                  "text": "Băile sunt rămășițele arheologice ale vechilor facilități de baie publică din Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Église des martyrs",
+                  "text": "Biserica Martirilor este un sit în ruină cu importanță istorică religioasă din Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.120741,
+                        35.238126
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Ruins of Sbeitla",
+                  "text": "The Roman Ruins of Sbeitla is a significant archaeological site in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.118776,
+                        35.239973
+                  ]
+            },
+            {
+                  "name": "Sbeïtla",
+                  "text": "Sbeïtla is a renowned archaeological attraction featuring extensive ancient ruins.",
+                  "category": "landmark",
+                  "coords": [
+                        9.120342,
+                        35.240338
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "The Amphitheatre in Sbeitla features the ruins of an ancient performance venue.",
+                  "category": "historical",
+                  "coords": [
+                        9.114584,
+                        35.243636
+                  ]
+            },
+            {
+                  "name": "Aqueduct bridge",
+                  "text": "The Aqueduct bridge is a recognized archaeological bridge ruin located in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.117636,
+                        35.245227
+                  ]
+            },
+            {
+                  "name": "Theatre",
+                  "text": "The Theatre consists of ancient architectural ruins located in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.122424,
+                        35.239611
+                  ]
+            },
+            {
+                  "name": "Arch of the Tetrarchy",
+                  "text": "The Arch of the Tetrarchy is an ancient monumental ruin found in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.123544,
+                        35.235638
+                  ]
+            },
+            {
+                  "name": "Chapel of Jucundus",
+                  "text": "The Chapel of Jucundus is the ruins of a historical religious building in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.119609,
+                        35.241673
+                  ]
+            },
+            {
+                  "name": "Citernes",
+                  "text": "The Citernes are historical ruined water reservoirs located in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.120682,
+                        35.23939
+                  ]
+            },
+            {
+                  "name": "Temple",
+                  "text": "The Temple features the remnants of an ancient place of worship in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.116253,
+                        35.243097
+                  ]
+            },
+            {
+                  "name": "Baths",
+                  "text": "The Baths are the archaeological remains of ancient public bathing facilities in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.121166,
+                        35.241413
+                  ]
+            },
+            {
+                  "name": "Church of the Martyrs",
+                  "text": "The Church of the Martyrs is a ruined site of historical religious importance in Sbeitla.",
+                  "category": "historical",
+                  "coords": [
+                        9.120741,
+                        35.238126
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-42",
     coords: [9.1235, 35.2349],
@@ -979,7 +2140,52 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "rads-cities-v2",
+    id: "rads-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Église De Maxula-Rades",
+                  "text": "Die Église De Maxula-Rades ist ein historisches Gotteshaus in Radès.",
+                  "category": "religious",
+                  "coords": [
+                        10.275582,
+                        36.768026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Église De Maxula-Rades",
+                  "text": "Az Église De Maxula-Rades egy történelmi istentiszteleti hely Radèsben.",
+                  "category": "religious",
+                  "coords": [
+                        10.275582,
+                        36.768026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Église De Maxula-Rades",
+                  "text": "Église De Maxula-Rades este un lăcaș de cult istoric situat în Radès.",
+                  "category": "religious",
+                  "coords": [
+                        10.275582,
+                        36.768026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Église De Maxula-Rades",
+                  "text": "Église De Maxula-Rades is a historical place of worship located in Radès.",
+                  "category": "religious",
+                  "coords": [
+                        10.275582,
+                        36.768026
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-13",
     coords: [10.2828, 36.7649],
@@ -1012,7 +2218,196 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "la-goulette-cities-v2",
+    id: "la-goulette-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ḥalq al-Wādī",
+                  "text": "Ein Leuchtturm in der Hafenstadt La Goulette.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "شاطئ الکرم",
+                  "text": "Ein Sandstrand im Viertel Le Kram.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31885,
+                        36.830759
+                  ]
+            },
+            {
+                  "name": "الفلوكة",
+                  "text": "Ein Denkmal in Form eines Schiffes in La Goulette.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
+                  "text": "Ein bedeutendes Ausstellungs- und Handelszentrum in der Region Tunis.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301343,
+                        36.839382
+                  ]
+            },
+            {
+                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
+                  "text": "Eine historische katholische Kirche in La Goulette.",
+                  "category": "religious",
+                  "coords": [
+                        10.30161,
+                        36.816077
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حلق الوادي",
+                  "text": "La Goulette kikötővárosában található világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "شاطئ الکرم",
+                  "text": "Homokos tengerpart Le Kram negyedében.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31885,
+                        36.830759
+                  ]
+            },
+            {
+                  "name": "الفلوكة",
+                  "text": "Hajó formájú emlékmű La Goulette-ben.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
+                  "text": "Jelentős kiállítási és kereskedelmi központ Tunisz környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301343,
+                        36.839382
+                  ]
+            },
+            {
+                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
+                  "text": "Történelmi katolikus templom La Goulette-ben.",
+                  "category": "religious",
+                  "coords": [
+                        10.30161,
+                        36.816077
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حلق الوادي",
+                  "text": "Un far situat în orașul-port La Goulette.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "شاطئ الکرم",
+                  "text": "O plajă cu nisip situată în districtul Le Kram.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31885,
+                        36.830759
+                  ]
+            },
+            {
+                  "name": "الفلوكة",
+                  "text": "Un monument în formă de navă în La Goulette.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
+                  "text": "Un centru major de expoziții și comerț în zona Tunis.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301343,
+                        36.839382
+                  ]
+            },
+            {
+                  "name": "Église Saint-Augustin-et-Saint-Fidèle",
+                  "text": "O biserică catolică istorică în La Goulette.",
+                  "category": "religious",
+                  "coords": [
+                        10.30161,
+                        36.816077
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ḥalq al-Wādī",
+                  "text": "A lighthouse located in the port town of La Goulette.",
+                  "category": "landmark",
+                  "coords": [
+                        10.308768,
+                        36.80656
+                  ]
+            },
+            {
+                  "name": "Le Kram Beach",
+                  "text": "A sandy beach located in the Le Kram district.",
+                  "category": "recreational",
+                  "coords": [
+                        10.31885,
+                        36.830759
+                  ]
+            },
+            {
+                  "name": "The Ship monument",
+                  "text": "A monument shaped like a ship in La Goulette.",
+                  "category": "historical",
+                  "coords": [
+                        10.295893,
+                        36.817931
+                  ]
+            },
+            {
+                  "name": "Le Kram - Exhibition and International Trade Center of Tunis",
+                  "text": "A major exhibition and trade center in the Tunis area.",
+                  "category": "cultural",
+                  "coords": [
+                        10.301343,
+                        36.839382
+                  ]
+            },
+            {
+                  "name": "St Augustine and St Fidelis Church",
+                  "text": "A historic Catholic church in La Goulette.",
+                  "category": "religious",
+                  "coords": [
+                        10.30161,
+                        36.816077
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-11",
     coords: [10.3019, 36.8142],
@@ -1045,7 +2440,88 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "hammam-lif-cities-v2",
+    id: "hammam-lif-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ecomuseum",
+                  "text": "Ein Museum in Hammam-Lif, das sich auf die lokale Umwelt und das Erbe konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        10.32972,
+                        36.726355
+                  ]
+            },
+            {
+                  "name": "I ❤ HAMMAM LIF",
+                  "text": "Ein modernes Wahrzeichen und Fotopunkt in der Stadt Hammam-Lif.",
+                  "category": "historical",
+                  "coords": [
+                        10.323478,
+                        36.732677
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ecomuseum",
+                  "text": "Hammam-Lif-i múzeum, amely a helyi környezetre és örökségre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        10.32972,
+                        36.726355
+                  ]
+            },
+            {
+                  "name": "I ❤ HAMMAM LIF",
+                  "text": "Modern jelkép és fotópont Hammam-Lif városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.323478,
+                        36.732677
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ecomuseum",
+                  "text": "Un muzeu din Hammam-Lif axat pe mediul și patrimoniul local.",
+                  "category": "museum",
+                  "coords": [
+                        10.32972,
+                        36.726355
+                  ]
+            },
+            {
+                  "name": "I ❤ HAMMAM LIF",
+                  "text": "Un punct de reper modern și loc pentru fotografii situat în orașul Hammam-Lif.",
+                  "category": "historical",
+                  "coords": [
+                        10.323478,
+                        36.732677
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ecomuseum",
+                  "text": "A museum in Hammam-Lif focused on the local environment and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        10.32972,
+                        36.726355
+                  ]
+            },
+            {
+                  "name": "I ❤ HAMMAM LIF",
+                  "text": "A modern landmark and photo spot located in the town of Hammam-Lif.",
+                  "category": "historical",
+                  "coords": [
+                        10.323478,
+                        36.732677
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-13",
     coords: [10.3411, 36.7328],
@@ -1150,7 +2626,232 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "el-djem-cities-v2",
+    id: "el-djem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "Ein Museum in El Djem mit Exponaten zur lokalen römischen Geschichte und Mosaiken.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Musée et Monuments du Quartier Sud de Thysdrus",
+                  "text": "Ein archäologisches Areal, das die Ruinen von Wohnvierteln der antiken Stadt Thysdrus bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        10.704947,
+                        35.290213
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "Ein ausgewiesener Park mit bedeutenden Ruinen aus der Römerzeit in El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.700217,
+                        35.29678
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "Die Überreste eines antiken römischen Stadions für Wagenrennen in El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.693711,
+                        35.302014
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "Die ausgegrabenen Ruinen eines römischen öffentlichen Thermenkomplexes im antiken Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.698759,
+                        35.291426
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "Ein kommunales Kunstzentrum in El Djem, das lokale kulturelle und künstlerische Aktivitäten fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708029,
+                        35.301779
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "Múzeum El Djemben, amely a helyi római kori történelmet és mozaikokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Musée et Monuments du Quartier Sud de Thysdrus",
+                  "text": "Régészeti terület, amely az ókori Thysdrus városának lakónegyedeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        10.704947,
+                        35.290213
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "Kijelölt parkterület, amely jelentős római kori romokat tartalmaz El Djemben.",
+                  "category": "historical",
+                  "coords": [
+                        10.700217,
+                        35.29678
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "Egy ókori római stadion maradványai El Djemben, amelyet kocsiversenyekre használtak.",
+                  "category": "historical",
+                  "coords": [
+                        10.693711,
+                        35.302014
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "Egy római nyilvános fürdőkomplexum feltárt romjai az ókori Thysdrusban.",
+                  "category": "historical",
+                  "coords": [
+                        10.698759,
+                        35.291426
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "Közösségi művészeti központ El Djemben, amely a helyi kulturális és művészeti tevékenységeket népszerűsíti.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708029,
+                        35.301779
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "Un muzeu din El Djem care prezintă exponate despre istoria romană locală și mozaicuri.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Musée et Monuments du Quartier Sud de Thysdrus",
+                  "text": "O zonă arheologică ce păstrează ruinele cartierelor rezidențiale din orașul antic Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.704947,
+                        35.290213
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "O zonă de parc desemnată care conține ruine semnificative din perioada romană în El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.700217,
+                        35.29678
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "Rămășițele unui stadion roman antic folosit pentru curse de care în El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.693711,
+                        35.302014
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "Ruinele excavate ale unui complex de băi publice romane din anticul Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.698759,
+                        35.291426
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "Un centru de artă comunitar din El Djem care promovează activitățile culturale și artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708029,
+                        35.301779
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dar El Jem",
+                  "text": "A museum in El Djem featuring exhibits on local Roman history and mosaics.",
+                  "category": "museum",
+                  "coords": [
+                        10.705421,
+                        35.298418
+                  ]
+            },
+            {
+                  "name": "Museum and Monuments of the South Quarters of Thysdrus",
+                  "text": "An archaeological area preserving the ruins of residential quarters from the ancient city of Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.704947,
+                        35.290213
+                  ]
+            },
+            {
+                  "name": "Archeological Park",
+                  "text": "A designated park area containing significant ruins from the Roman period in El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.700217,
+                        35.29678
+                  ]
+            },
+            {
+                  "name": "Roman Hippodrome of El Jem",
+                  "text": "The remains of an ancient Roman stadium used for chariot racing in El Djem.",
+                  "category": "historical",
+                  "coords": [
+                        10.693711,
+                        35.302014
+                  ]
+            },
+            {
+                  "name": "Baths of Thysdrus",
+                  "text": "The excavated ruins of a Roman public bathing complex in ancient Thysdrus.",
+                  "category": "historical",
+                  "coords": [
+                        10.698759,
+                        35.291426
+                  ]
+            },
+            {
+                  "name": "Inb Khaldoun Culture House",
+                  "text": "A community arts centre in El Djem that promotes local cultural and artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        10.708029,
+                        35.301779
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-53",
     coords: [10.7105, 35.2959],
@@ -1186,7 +2887,88 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "ksar-hellal-cities-v2",
+    id: "ksar-hellal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mausolée Sidi Ammar",
+                  "text": "Das Mausolée Sidi Ammar dient als lokales Museum in Ksar Hellal.",
+                  "category": "museum",
+                  "coords": [
+                        10.892351,
+                        35.670719
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air de Moknine",
+                  "text": "Das Théâtre de plein air de Moknine ist ein Freilufttheater in Ksar Hellal.",
+                  "category": "cultural",
+                  "coords": [
+                        10.895955,
+                        35.630898
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mausolée Sidi Ammar",
+                  "text": "A Mausolée Sidi Ammar helyi múzeumként működik Ksar Hellalban.",
+                  "category": "museum",
+                  "coords": [
+                        10.892351,
+                        35.670719
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air de Moknine",
+                  "text": "A Théâtre de plein air de Moknine egy szabadtéri színházi helyszín Ksar Hellalban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.895955,
+                        35.630898
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mausolée Sidi Ammar",
+                  "text": "Mausolée Sidi Ammar servește ca muzeu local situat în Ksar Hellal.",
+                  "category": "museum",
+                  "coords": [
+                        10.892351,
+                        35.670719
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air de Moknine",
+                  "text": "Théâtre de plein air de Moknine este un loc de teatru în aer liber situat în Ksar Hellal.",
+                  "category": "cultural",
+                  "coords": [
+                        10.895955,
+                        35.630898
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mausolée Sidi Ammar",
+                  "text": "Mausolée Sidi Ammar serves as a local museum situated in Ksar Hellal.",
+                  "category": "museum",
+                  "coords": [
+                        10.892351,
+                        35.670719
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air de Moknine",
+                  "text": "Théâtre de plein air de Moknine is an open-air theatrical venue located in Ksar Hellal.",
+                  "category": "cultural",
+                  "coords": [
+                        10.895955,
+                        35.630898
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-52",
     coords: [10.8876, 35.6441],
@@ -1294,7 +3076,88 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "menzel-bourguiba-cities-v2",
+    id: "menzel-bourguiba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "Opéra de Menzel Bourguiba ist ein Kunstzentrum in Menzel Bourguiba.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793658,
+                        37.155298
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "Salle Couverte de Menzel-Bourguiba ist ein Kunstzentrum in Menzel Bourguiba.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803619,
+                        37.151958
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "Az Opéra de Menzel Bourguiba egy művészeti központ Menzel Bourguiba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793658,
+                        37.155298
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "A Salle Couverte de Menzel-Bourguiba egy művészeti központ Menzel Bourguiba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803619,
+                        37.151958
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "Opéra de Menzel Bourguiba este un centru de arte în Menzel Bourguiba.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793658,
+                        37.155298
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "Salle Couverte de Menzel-Bourguiba este un centru de arte în Menzel Bourguiba.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803619,
+                        37.151958
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Opéra de Menzel Bourguiba",
+                  "text": "Opéra de Menzel Bourguiba is an arts centre in Menzel Bourguiba.",
+                  "category": "cultural",
+                  "coords": [
+                        9.793658,
+                        37.155298
+                  ]
+            },
+            {
+                  "name": "Salle Couverte de Menzel-Bourguiba",
+                  "text": "Salle Couverte de Menzel-Bourguiba is an arts centre in Menzel Bourguiba.",
+                  "category": "cultural",
+                  "coords": [
+                        9.803619,
+                        37.151958
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-23",
     coords: [9.7914, 37.1558],
@@ -1330,7 +3193,52 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "menzel-temime-cities-v2",
+    id: "menzel-temime-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Plage Amoud",
+                  "text": "Ein Strandabschnitt in Menzel Temime.",
+                  "category": "recreational",
+                  "coords": [
+                        11.005336,
+                        36.766698
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Plage Amoud",
+                  "text": "Tengerparti terület Menzel Temime-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        11.005336,
+                        36.766698
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Plage Amoud",
+                  "text": "O zonă de plajă în Menzel Temime.",
+                  "category": "recreational",
+                  "coords": [
+                        11.005336,
+                        36.766698
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Plage Amoud",
+                  "text": "A beach area in Menzel Temime.",
+                  "category": "recreational",
+                  "coords": [
+                        11.005336,
+                        36.766698
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-21",
     coords: [10.9856, 36.7825],
@@ -1582,7 +3490,52 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "feriana-cities-v2",
+    id: "feriana-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Thelepte",
+                  "text": "Bedeutende archäologische Überreste einer römischen Siedlung in Fériana.",
+                  "category": "historical",
+                  "coords": [
+                        8.587789,
+                        34.967517
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Thelepte",
+                  "text": "Egy római település jelentős régészeti maradványai Fériana városában.",
+                  "category": "historical",
+                  "coords": [
+                        8.587789,
+                        34.967517
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Thelepte",
+                  "text": "Vestigii arheologice semnificative ale unei așezări romane situate în Fériana.",
+                  "category": "historical",
+                  "coords": [
+                        8.587789,
+                        34.967517
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Ruins",
+                  "text": "Significant archaeological remains of a Roman settlement located in Fériana.",
+                  "category": "historical",
+                  "coords": [
+                        8.587789,
+                        34.967517
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-42",
     coords: [8.5678, 34.9567],
@@ -1654,7 +3607,340 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "makthar-cities-v2",
+    id: "makthar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zama Minor",
+                  "text": "Eine antike archäologische Stätte in der Nähe von Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "Eine weitläufige römische und numidische Ausgrabungsstätte in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Musée de Maktaris",
+                  "text": "Ein Museum, das Artefakte der Ausgrabungsstätte Mactaris ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        9.206376,
+                        35.856003
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "Antike punische Ruinen in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Basilique d'Hildeguns",
+                  "text": "Ruinen einer frühchristlichen Basilika in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.208084,
+                        35.853022
+                  ]
+            },
+            {
+                  "name": "Basilique à péristyle",
+                  "text": "Archäologische Überreste einer Peristyl-Basilika in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.206195,
+                        35.852537
+                  ]
+            },
+            {
+                  "name": "Thermes du Capitole",
+                  "text": "Überreste römischer Thermen in der Nähe des Kapitols in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.205756,
+                        35.853799
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "Umfangreiche Ruinen der römischen Thermen in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.208519,
+                        35.851837
+                  ]
+            },
+            {
+                  "name": "Temple d'Hathor Miskar",
+                  "text": "Überreste eines antiken Tempels einer punisch-römischen Gottheit in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zama Minor",
+                  "text": "Ősi régészeti lelőhely Makthar közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "Kiterjedt római és numidiai régészeti lelőhely Maktharban.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Musée de Maktaris",
+                  "text": "A Mactaris régészeti lelőhely leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.206376,
+                        35.856003
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "Ősi pun romok Maktharban.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Basilique d'Hildeguns",
+                  "text": "Egy kora keresztény bazilika romjai Maktharban.",
+                  "category": "historical",
+                  "coords": [
+                        9.208084,
+                        35.853022
+                  ]
+            },
+            {
+                  "name": "Basilique à péristyle",
+                  "text": "Egy oszlopcsarnokos bazilika régészeti maradványai Maktharban.",
+                  "category": "historical",
+                  "coords": [
+                        9.206195,
+                        35.852537
+                  ]
+            },
+            {
+                  "name": "Thermes du Capitole",
+                  "text": "Római fürdők maradványai a Capitolium közelében Maktharban.",
+                  "category": "historical",
+                  "coords": [
+                        9.205756,
+                        35.853799
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "A makthari római termálfürdők kiterjedt romjai.",
+                  "category": "historical",
+                  "coords": [
+                        9.208519,
+                        35.851837
+                  ]
+            },
+            {
+                  "name": "Temple d'Hathor Miskar",
+                  "text": "Egy pun-római istenségnek szentelt ókori templom maradványai Maktharban.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zama Minor",
+                  "text": "Un sit arheologic antic situat lângă Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "Un sit arheologic extins roman și numidian în Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Musée de Maktaris",
+                  "text": "Un muzeu care expune artefacte din situl arheologic Mactaris.",
+                  "category": "museum",
+                  "coords": [
+                        9.206376,
+                        35.856003
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "Ruine punice antice situate în Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Basilique d'Hildeguns",
+                  "text": "Ruinele unei basilici creștine timpurii în Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.208084,
+                        35.853022
+                  ]
+            },
+            {
+                  "name": "Basilique à péristyle",
+                  "text": "Resturi arheologice ale unei basilici cu peristil în Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.206195,
+                        35.852537
+                  ]
+            },
+            {
+                  "name": "Thermes du Capitole",
+                  "text": "Rămășițele unor băi romane lângă Capitoliu în Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.205756,
+                        35.853799
+                  ]
+            },
+            {
+                  "name": "Grand Thermes",
+                  "text": "Ruine extinse ale băilor termale romane din Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.208519,
+                        35.851837
+                  ]
+            },
+            {
+                  "name": "Temple d'Hathor Miskar",
+                  "text": "Rămășițele unui templu antic dedicat unei zeități punico-romane în Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zama Minor",
+                  "text": "An ancient archaeological site located near Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.205708,
+                        35.860508
+                  ]
+            },
+            {
+                  "name": "Mactaris",
+                  "text": "An extensive Roman and Numidian archaeological site in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.20754,
+                        35.85413
+                  ]
+            },
+            {
+                  "name": "Musée de Maktaris",
+                  "text": "A museum showcasing artifacts from the Mactaris archaeological site.",
+                  "category": "museum",
+                  "coords": [
+                        9.206376,
+                        35.856003
+                  ]
+            },
+            {
+                  "name": "Monument punique",
+                  "text": "Ancient Punic ruins located in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.202908,
+                        35.851657
+                  ]
+            },
+            {
+                  "name": "Basilique of Hildeguns",
+                  "text": "Ruins of an early Christian basilica in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.208084,
+                        35.853022
+                  ]
+            },
+            {
+                  "name": "Basilique à péristyle",
+                  "text": "Archaeological remains of a peristyle basilica in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.206195,
+                        35.852537
+                  ]
+            },
+            {
+                  "name": "Capitol Baths",
+                  "text": "Remains of the Roman baths near the Capitol in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.205756,
+                        35.853799
+                  ]
+            },
+            {
+                  "name": "Large Baths",
+                  "text": "Extensive ruins of the Roman thermal baths in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.208519,
+                        35.851837
+                  ]
+            },
+            {
+                  "name": "Temple of Hathor Miskar",
+                  "text": "Remains of an ancient temple dedicated to a Punic-Roman deity in Makthar.",
+                  "category": "historical",
+                  "coords": [
+                        9.209082,
+                        35.854594
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-34",
     coords: [9.2064, 35.8569],
@@ -1690,7 +3976,52 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "medjez-el-bab-cities-v2",
+    id: "medjez-el-bab-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "pont historique de Mourad II bey",
+                  "text": "Eine historische Steinbrücke über den Fluss Medjerda, erbaut während der osmanischen Zeit in Medjez el-Bab.",
+                  "category": "historical",
+                  "coords": [
+                        9.606282,
+                        36.64896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "pont historique de Mourad II bey",
+                  "text": "Történelmi kőhíd a Medjerda-folyón, amely az oszmán korszakban épült Medjez el-Babban.",
+                  "category": "historical",
+                  "coords": [
+                        9.606282,
+                        36.64896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "pont historique de Mourad II bey",
+                  "text": "Un pod istoric de piatră peste râul Medjerda, construit în epoca otomană în Medjez el-Bab.",
+                  "category": "historical",
+                  "coords": [
+                        9.606282,
+                        36.64896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "pont historique de Mourad II bey",
+                  "text": "A historic stone bridge across the Medjerda River, built during the Ottoman era in Medjez el-Bab.",
+                  "category": "historical",
+                  "coords": [
+                        9.606282,
+                        36.64896
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-31",
     coords: [9.6103, 36.6492],
@@ -1726,7 +4057,52 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "teboursouk-cities-v2",
+    id: "teboursouk-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "Djebbel Kharroub ist eine Ruinenstätte in Téboursouk.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "A Djebbel Kharroub egy romterület Téboursoukban.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "Djebbel Kharroub este un sit de ruine în Téboursouk.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Djebbel Kharroub",
+                  "text": "Djebbel Kharroub is a ruins site in Téboursouk.",
+                  "category": "historical",
+                  "coords": [
+                        9.263854,
+                        36.472949
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-31",
     coords: [9.2536, 36.4589],
@@ -1906,7 +4282,52 @@ export const poiExtraTunisiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bou-salem-cities-v2",
+    id: "bou-salem-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Souk-el-Khemis Airfield",
+                  "text": "Ein ehemaliger Militärflugplatz aus dem Zweiten Weltkrieg in der Nähe von Bou Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        8.971277,
+                        36.582147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Souk-el-Khemis Airfield",
+                  "text": "Egykori második világháborús katonai repülőtér Bou Salem közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.971277,
+                        36.582147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Souk-el-Khemis Airfield",
+                  "text": "Un fost aerodrom militar din cel de-al Doilea Război Mondial situat lângă Bou Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        8.971277,
+                        36.582147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Souk-el-Khemis Airfield",
+                  "text": "A former World War II military airfield located near Bou Salem.",
+                  "category": "landmark",
+                  "coords": [
+                        8.971277,
+                        36.582147
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TN-32",
     coords: [8.9692, 36.6067],

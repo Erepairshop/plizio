@@ -88,7 +88,88 @@ export const vietnamCities: POI[] = [
     area: 3358.6, image: "/poi-images/vn-hanoi.webp"
   },
   {
-    id: "vn-hochiminh",
+    id: "vn-hochiminh", "sights": {
+      "de": [
+            {
+                  "name": "Tanaka Tei",
+                  "text": "Ein Museum in Ho-Chi-Minh-Stadt, das lokale Geschichte oder Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        106.643463,
+                        10.800788
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm liệt sĩ quận Tân Bình",
+                  "text": "Ein Denkmal zu Ehren der gefallenen Soldaten des Bezirks Tan Binh.",
+                  "category": "historical",
+                  "coords": [
+                        106.636132,
+                        10.803638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tanaka Tei",
+                  "text": "Múzeum Ho Si Minh-városban, amely a helyi történelmet vagy művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.643463,
+                        10.800788
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm liệt sĩ quận Tân Bình",
+                  "text": "Emlékmű a Tan Binh kerület elesett katonáinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        106.636132,
+                        10.803638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tanaka Tei",
+                  "text": "Un muzeu din Ho Și Min care prezintă istoria sau arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        106.643463,
+                        10.800788
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm liệt sĩ quận Tân Bình",
+                  "text": "Un monument ridicat în onoarea soldaților căzuți din districtul Tan Binh.",
+                  "category": "historical",
+                  "coords": [
+                        106.636132,
+                        10.803638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tanaka Tei",
+                  "text": "A museum in Ho Chi Minh City showcasing local history or art.",
+                  "category": "museum",
+                  "coords": [
+                        106.643463,
+                        10.800788
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm liệt sĩ quận Tân Bình",
+                  "text": "A monument honoring the fallen soldiers of the Tan Binh district.",
+                  "category": "historical",
+                  "coords": [
+                        106.636132,
+                        10.803638
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [106.6297, 10.8231],
@@ -133,7 +214,520 @@ export const vietnamCities: POI[] = [
     area: 2095, image: "/poi-images/vn-hochiminh.webp"
   },
   {
-    id: "vn-danang",
+    id: "vn-danang", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng Nghệ thuật Điêu khắc Chăm Đà Nẵng",
+                  "text": "Ein Museum in Da Nang, das die weltweit größte Sammlung von Cham-Skulpturen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        108.223168,
+                        16.060196
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Quân khu 5",
+                  "text": "Ein Museum in Da Nang, das sich mit der Militärgeschichte der Region befasst.",
+                  "category": "museum",
+                  "coords": [
+                        108.21736,
+                        16.047874
+                  ]
+            },
+            {
+                  "name": "Nhà hát Trưng Vương",
+                  "text": "Ein bedeutendes Theater und Kulturzentrum im Herzen von Da Nang.",
+                  "category": "cultural",
+                  "coords": [
+                        108.220753,
+                        16.068995
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hồ Chí Minh",
+                  "text": "Ein Museum, das dem Leben von Hồ Chí Minh und der lokalen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        108.218247,
+                        16.046482
+                  ]
+            },
+            {
+                  "name": "Cầu Rồng",
+                  "text": "Eine markante Brücke in Da Nang, die wie ein Drache geformt ist und Feuer speien kann.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227898,
+                        16.061168
+                  ]
+            },
+            {
+                  "name": "Cầu Trần Thị Lý",
+                  "text": "Eine moderne Schrägseilbrücke in Da Nang, die für ihre auffällige Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Cau Nguyen Van Troi Bridge",
+                  "text": "Eine historische Brückenquerung über den Fluss in Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Pont main",
+                  "text": "Eine Fußgängerbrücke in Da Nang, die oft als 'Goldene Brücke' bezeichnet wird.",
+                  "category": "landmark",
+                  "coords": [
+                        108.215636,
+                        16.052077
+                  ]
+            },
+            {
+                  "name": "Dragon's Tail",
+                  "text": "Ein Teil der berühmten Drachenbrücke oder eine zugehörige Sehenswürdigkeit in Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224817,
+                        16.06108
+                  ]
+            },
+            {
+                  "name": "Lang Bich hoa Da Nang",
+                  "text": "Ein Viertel in Da Nang, das für seine bunten Wandgemälde und Straßenkunst bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220025,
+                        16.06071
+                  ]
+            },
+            {
+                  "name": "Tượng Mẹ Nhu",
+                  "text": "Ein Denkmal in Da Nang, das eine heldenhafte Mutter der vietnamesischen Geschichte ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        108.183354,
+                        16.065261
+                  ]
+            },
+            {
+                  "name": "Queen Cobra",
+                  "text": "Eine Achterbahn in einem der Freizeitparks von Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.22599,
+                        16.043299
+                  ]
+            },
+            {
+                  "name": "Chợ Cồn",
+                  "text": "Ein belebter lokaler Markt in Da Nang, bekannt für Street Food und Waren aller Art.",
+                  "category": "landmark",
+                  "coords": [
+                        108.214534,
+                        16.06817
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm Liệt sỹ thành phố Đà Nẵng",
+                  "text": "Ein Denkmal in Da Nang zum Gedenken an die gefallenen Helden der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        108.224323,
+                        16.040971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng Nghệ thuật Điêu khắc Chăm Đà Nẵng",
+                  "text": "Da Nang-i múzeum, amely a világ legnagyobb Csampa-szoborgyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        108.223168,
+                        16.060196
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Quân khu 5",
+                  "text": "Da Nang-i múzeum, amely a régió hadtörténetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        108.21736,
+                        16.047874
+                  ]
+            },
+            {
+                  "name": "Nhà hát Trưng Vương",
+                  "text": "Jelentős színház és kulturális központ Da Nang szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        108.220753,
+                        16.068995
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hồ Chí Minh",
+                  "text": "Ho Si Minh életének és a helyi történelemnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        108.218247,
+                        16.046482
+                  ]
+            },
+            {
+                  "name": "Cầu Rồng",
+                  "text": "Jellegzetes sárkány alakú híd Da Nangban, amely tüzet is tud fújni.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227898,
+                        16.061168
+                  ]
+            },
+            {
+                  "name": "Cầu Trần Thị Lý",
+                  "text": "Modern ferdekábeles híd Da Nangban, amely feltűnő építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Cau Nguyen Van Troi Bridge",
+                  "text": "Történelmi folyami átkelőhely Da Nangban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Pont main",
+                  "text": "Da Nang-i gyalogoshíd, amelyet gyakran 'Aranyhídnak' is neveznek.",
+                  "category": "landmark",
+                  "coords": [
+                        108.215636,
+                        16.052077
+                  ]
+            },
+            {
+                  "name": "Dragon's Tail",
+                  "text": "A híres sárkányhíd része vagy egy ahhoz kapcsolódó látnivaló Da Nangban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224817,
+                        16.06108
+                  ]
+            },
+            {
+                  "name": "Lang Bich hoa Da Nang",
+                  "text": "Színes falfestményeiről és utcaművészetéről ismert negyed Da Nangban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220025,
+                        16.06071
+                  ]
+            },
+            {
+                  "name": "Tượng Mẹ Nhu",
+                  "text": "Emlékmű Da Nangban, amely a vietnámi történelem egyik hős anyja előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        108.183354,
+                        16.065261
+                  ]
+            },
+            {
+                  "name": "Queen Cobra",
+                  "text": "Hullámvasút Da Nang egyik vidámparkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        108.22599,
+                        16.043299
+                  ]
+            },
+            {
+                  "name": "Chợ Cồn",
+                  "text": "Nyüzsgő helyi piac Da Nangban, amely utcai ételeiről és mindenféle árujáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.214534,
+                        16.06817
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm Liệt sỹ thành phố Đà Nẵng",
+                  "text": "Emlékmű Da Nangban a város elesett hőseinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        108.224323,
+                        16.040971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng Nghệ thuật Điêu khắc Chăm Đà Nẵng",
+                  "text": "Un muzeu din Da Nang care găzduiește cea mai mare colecție de sculpturi Cham din lume.",
+                  "category": "museum",
+                  "coords": [
+                        108.223168,
+                        16.060196
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Quân khu 5",
+                  "text": "Un muzeu din Da Nang care se ocupă cu istoria militară a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        108.21736,
+                        16.047874
+                  ]
+            },
+            {
+                  "name": "Nhà hát Trưng Vương",
+                  "text": "Un teatru și centru cultural important din inima orașului Da Nang.",
+                  "category": "cultural",
+                  "coords": [
+                        108.220753,
+                        16.068995
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hồ Chí Minh",
+                  "text": "Un muzeu dedicat vieții lui Hồ Chí Minh și istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        108.218247,
+                        16.046482
+                  ]
+            },
+            {
+                  "name": "Cầu Rồng",
+                  "text": "Un pod emblematic din Da Nang, în formă de dragon, care poate scuipa foc.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227898,
+                        16.061168
+                  ]
+            },
+            {
+                  "name": "Cầu Trần Thị Lý",
+                  "text": "Un pod modern pe hobane din Da Nang, cunoscut pentru arhitectura sa frapantă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Cau Nguyen Van Troi Bridge",
+                  "text": "O trecere istorică peste râu în Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Pont main",
+                  "text": "Un pod pietonal din Da Nang, adesea numit „Podul de Aur”.",
+                  "category": "landmark",
+                  "coords": [
+                        108.215636,
+                        16.052077
+                  ]
+            },
+            {
+                  "name": "Dragon's Tail",
+                  "text": "O parte a faimosului pod al dragonului sau o atracție conexă din Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224817,
+                        16.06108
+                  ]
+            },
+            {
+                  "name": "Lang Bich hoa Da Nang",
+                  "text": "Un cartier din Da Nang cunoscut pentru picturile murale colorate și arta stradală.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220025,
+                        16.06071
+                  ]
+            },
+            {
+                  "name": "Tượng Mẹ Nhu",
+                  "text": "Un monument din Da Nang care onorează o mamă eroină din istoria vietnameză.",
+                  "category": "historical",
+                  "coords": [
+                        108.183354,
+                        16.065261
+                  ]
+            },
+            {
+                  "name": "Queen Cobra",
+                  "text": "Un roller coaster într-unul dintre parcurile de distracții din Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.22599,
+                        16.043299
+                  ]
+            },
+            {
+                  "name": "Chợ Cồn",
+                  "text": "O piață locală plină de viață din Da Nang, cunoscută pentru mâncarea stradală și mărfuri diverse.",
+                  "category": "landmark",
+                  "coords": [
+                        108.214534,
+                        16.06817
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm Liệt sỹ thành phố Đà Nẵng",
+                  "text": "Un monument în Da Nang dedicat memoriei eroilor căzuți ai orașului.",
+                  "category": "historical",
+                  "coords": [
+                        108.224323,
+                        16.040971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Đà Nẵng Museum of Cham Sculpture",
+                  "text": "A museum in Da Nang housing the world's largest collection of Cham sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        108.223168,
+                        16.060196
+                  ]
+            },
+            {
+                  "name": "Military Zone 5 Museum",
+                  "text": "A museum in Da Nang focusing on the military history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        108.21736,
+                        16.047874
+                  ]
+            },
+            {
+                  "name": "Nhà hát Trưng Vương",
+                  "text": "A prominent theatre and cultural center in the heart of Da Nang.",
+                  "category": "cultural",
+                  "coords": [
+                        108.220753,
+                        16.068995
+                  ]
+            },
+            {
+                  "name": "Hồ Chí Minh Museum",
+                  "text": "A museum dedicated to the life of Hồ Chí Minh and local history.",
+                  "category": "museum",
+                  "coords": [
+                        108.218247,
+                        16.046482
+                  ]
+            },
+            {
+                  "name": "Dragon Bridge",
+                  "text": "A distinctive bridge in Da Nang shaped like a dragon that can breathe fire.",
+                  "category": "landmark",
+                  "coords": [
+                        108.227898,
+                        16.061168
+                  ]
+            },
+            {
+                  "name": "Tran Thi Ly Bridge",
+                  "text": "A modern cable-stayed bridge in Da Nang known for its striking architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229381,
+                        16.050179
+                  ]
+            },
+            {
+                  "name": "Old River Crossing Bridge",
+                  "text": "A historical river crossing bridge in Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.229247,
+                        16.051089
+                  ]
+            },
+            {
+                  "name": "Pont main",
+                  "text": "A pedestrian bridge in Da Nang, often referred to as the 'Golden Bridge'.",
+                  "category": "landmark",
+                  "coords": [
+                        108.215636,
+                        16.052077
+                  ]
+            },
+            {
+                  "name": "Dragon's Tail",
+                  "text": "A part of the famous Dragon Bridge or a related attraction in Da Nang.",
+                  "category": "landmark",
+                  "coords": [
+                        108.224817,
+                        16.06108
+                  ]
+            },
+            {
+                  "name": "Fresco Village Da Nang",
+                  "text": "A neighborhood in Da Nang known for its colorful murals and street art.",
+                  "category": "landmark",
+                  "coords": [
+                        108.220025,
+                        16.06071
+                  ]
+            },
+            {
+                  "name": "Tượng Mẹ Nhu",
+                  "text": "A monument in Da Nang honoring a heroic mother of Vietnamese history.",
+                  "category": "historical",
+                  "coords": [
+                        108.183354,
+                        16.065261
+                  ]
+            },
+            {
+                  "name": "Queen Cobra",
+                  "text": "A roller coaster located in one of Da Nang's amusement parks.",
+                  "category": "landmark",
+                  "coords": [
+                        108.22599,
+                        16.043299
+                  ]
+            },
+            {
+                  "name": "Con Market",
+                  "text": "A bustling local market in Da Nang known for street food and various goods.",
+                  "category": "landmark",
+                  "coords": [
+                        108.214534,
+                        16.06817
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm Liệt sỹ thành phố Đà Nẵng",
+                  "text": "A monument in Da Nang commemorating the fallen heroes of the city.",
+                  "category": "historical",
+                  "coords": [
+                        108.224323,
+                        16.040971
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [108.2022, 16.0544],
@@ -178,7 +772,592 @@ export const vietnamCities: POI[] = [
     area: 1285.4, image: "/poi-images/vn-danang.webp"
   },
   {
-    id: "vn-haiphong",
+    id: "vn-haiphong", "sights": {
+      "de": [
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "Das Opernhaus von Haiphong ist ein neoklassizistisches Gebäude, das für kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681824,
+                        20.857498
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "Eine historische Anlage in Haiphong, die für ihre traditionelle Architektur bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847684
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải quân",
+                  "text": "Ein Museum in Haiphong, das die maritime Geschichte und die Marine Vietnams dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        106.700461,
+                        20.826081
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải Phòng",
+                  "text": "Das Stadtmuseum von Haiphong zeigt Ausstellungen zur lokalen Geschichte, Kultur und Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "Ein kulturelles Zentrum in Haiphong, das lokale Kunst und literarische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Chè Cô Hương",
+                  "text": "Eine beliebte lokale Attraktion in Haiphong, die für ihre traditionellen vietnamesischen Süßspeisen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700152,
+                        20.845102
+                  ]
+            },
+            {
+                  "name": "Cho Ga",
+                  "text": "Ein geschäftiger Tagesmarkt in Haiphong, auf dem frische Produkte und lokale Waren verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684883,
+                        20.855477
+                  ]
+            },
+            {
+                  "name": "Korea Town",
+                  "text": "Ein Viertel in Haiphong mit koreanischem Einfluss bei Geschäften und Restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700315,
+                        20.838363
+                  ]
+            },
+            {
+                  "name": "Cung văn hóa thiếu nhi",
+                  "text": "Eine farbenfrohe lokale Attraktion in Haiphong, die für ihr dekoratives Design bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        106.692055,
+                        20.845741
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "Ein Denkmal im Bezirk Ngo Quyen, das den vietnamesischen Helden und Märtyrern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        106.692224,
+                        20.847256
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm các Anh hùng Liệt sĩ Quận Lê Chân",
+                  "text": "Ein Ehrenmal im Bezirk Le Chan zum Gedenken an die tapferen Helden der Region.",
+                  "category": "historical",
+                  "coords": [
+                        106.68818,
+                        20.825266
+                  ]
+            },
+            {
+                  "name": "Cầu Rào",
+                  "text": "Eine bedeutende Brücke in Haiphong, die den Fluss Lach Tray überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.698814,
+                        20.828685
+                  ]
+            },
+            {
+                  "name": "Cầu Võ Nguyên Giáp (Cầu Rào 2)",
+                  "text": "Eine moderne Brücke in Haiphong, benannt nach dem berühmten vietnamesischen General.",
+                  "category": "landmark",
+                  "coords": [
+                        106.694632,
+                        20.819502
+                  ]
+            },
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "Eine Brücke über den Fluss Tam Bac, die wichtige Stadtteile von Haiphong verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666884,
+                        20.854421
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "Eine bekannte Brücke in Haiphong, die eine zentrale Rolle im Verkehrssystem der Stadt spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.678545,
+                        20.862278
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "Eine architektonisch markante Brücke, die eine wichtige Verkehrsader in Haiphong darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        106.681282,
+                        20.869975
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "A Haiphong-i Operaház egy neoklasszicista épület, amelyet kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681824,
+                        20.857498
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "Történelmi helyszín Haiphongban, amely hagyományos építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847684
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải quân",
+                  "text": "Haiphongi múzeum, amely Vietnam tengerészeti történelmét és haditengerészetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        106.700461,
+                        20.826081
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải Phòng",
+                  "text": "A Haiphong Múzeum helyi történelmi, kulturális és művészeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "Kulturális központ Haiphongban, amely helyi művészeti és irodalmi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Chè Cô Hương",
+                  "text": "Népszerű helyi látványosság Haiphongban, amely hagyományos vietnami édességeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700152,
+                        20.845102
+                  ]
+            },
+            {
+                  "name": "Cho Ga",
+                  "text": "Nyüzsgő nappali piac Haiphongban, ahol friss termékeket és helyi árukat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684883,
+                        20.855477
+                  ]
+            },
+            {
+                  "name": "Korea Town",
+                  "text": "Haiphong egyik negyede, ahol koreai hatás érvényesül az üzletek és éttermek körében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700315,
+                        20.838363
+                  ]
+            },
+            {
+                  "name": "Cung văn hóa thiếu nhi",
+                  "text": "Színes helyi látványosság Haiphongban, amely dekoratív kialakításáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        106.692055,
+                        20.845741
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "A Ngo Quyen kerületben található emlékmű, amelyet a vietnami hősöknek és mártíroknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        106.692224,
+                        20.847256
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm các Anh hùng Liệt sĩ Quận Lê Chân",
+                  "text": "Emlékmű a Le Chan kerületben, amely a régió bátor hőseinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        106.68818,
+                        20.825266
+                  ]
+            },
+            {
+                  "name": "Cầu Rào",
+                  "text": "Jelentős híd Haiphongban, amely a Lach Tray folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        106.698814,
+                        20.828685
+                  ]
+            },
+            {
+                  "name": "Cầu Võ Nguyên Giáp (Cầu Rào 2)",
+                  "text": "Modern híd Haiphongban, amelyet a híres vietnami tábornokról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        106.694632,
+                        20.819502
+                  ]
+            },
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "A Tam Bac folyón átívelő híd, amely Haiphong fontos városrészeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666884,
+                        20.854421
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "Ismert híd Haiphongban, amely központi szerepet játszik a város közlekedési rendszerében.",
+                  "category": "landmark",
+                  "coords": [
+                        106.678545,
+                        20.862278
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "Építészetileg meghatározó híd, amely Haiphong egyik fontos közlekedési útvonala.",
+                  "category": "landmark",
+                  "coords": [
+                        106.681282,
+                        20.869975
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "Opera din Haiphong este o clădire neoclasică utilizată pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681824,
+                        20.857498
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "Un sit istoric din Haiphong, cunoscut pentru arhitectura sa tradițională.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847684
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải quân",
+                  "text": "Un muzeu din Haiphong care documentează istoria maritimă și marina Vietnamului.",
+                  "category": "museum",
+                  "coords": [
+                        106.700461,
+                        20.826081
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải Phòng",
+                  "text": "Muzeul din Haiphong prezintă expoziții despre istoria, cultura și arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "Un centru cultural din Haiphong care prezintă artă locală și lucrări literare.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Chè Cô Hương",
+                  "text": "O atracție locală populară din Haiphong, cunoscută pentru deserturile sale tradiționale vietnameze.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700152,
+                        20.845102
+                  ]
+            },
+            {
+                  "name": "Cho Ga",
+                  "text": "O piață de zi plină de viață din Haiphong, unde se vând produse proaspete și mărfuri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684883,
+                        20.855477
+                  ]
+            },
+            {
+                  "name": "Korea Town",
+                  "text": "Un cartier din Haiphong cu influență coreeană în rândul magazinelor și restaurantelor.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700315,
+                        20.838363
+                  ]
+            },
+            {
+                  "name": "Cung văn hóa thiếu nhi",
+                  "text": "O atracție locală colorată din Haiphong, cunoscută pentru designul său decorativ.",
+                  "category": "landmark",
+                  "coords": [
+                        106.692055,
+                        20.845741
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "Un monument în districtul Ngo Quyen dedicat eroilor și martirilor vietnamezi.",
+                  "category": "historical",
+                  "coords": [
+                        106.692224,
+                        20.847256
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm các Anh hùng Liệt sĩ Quận Lê Chân",
+                  "text": "Un monument în districtul Le Chan care comemorează eroii curajoși ai regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        106.68818,
+                        20.825266
+                  ]
+            },
+            {
+                  "name": "Cầu Rào",
+                  "text": "Un pod important din Haiphong care traversează râul Lach Tray.",
+                  "category": "landmark",
+                  "coords": [
+                        106.698814,
+                        20.828685
+                  ]
+            },
+            {
+                  "name": "Cầu Võ Nguyên Giáp (Cầu Rào 2)",
+                  "text": "Un pod modern din Haiphong, numit după celebrul general vietnamez.",
+                  "category": "landmark",
+                  "coords": [
+                        106.694632,
+                        20.819502
+                  ]
+            },
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "Un pod peste râul Tam Bac, care conectează părți importante ale orașului Haiphong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666884,
+                        20.854421
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "Un pod cunoscut din Haiphong care joacă un rol central în sistemul de transport al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        106.678545,
+                        20.862278
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "Un pod cu o arhitectură distinctivă, care reprezintă o arteră importantă în Haiphong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.681282,
+                        20.869975
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nhà hát Thành phố Hải Phòng",
+                  "text": "The Haiphong Opera House is a neoclassical building used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        106.681824,
+                        20.857498
+                  ]
+            },
+            {
+                  "name": "Chùa An Dương",
+                  "text": "A historic site in Haiphong known for its traditional architecture.",
+                  "category": "castle",
+                  "coords": [
+                        106.665407,
+                        20.847684
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hải quân",
+                  "text": "A museum in Haiphong documenting Vietnam's maritime history and navy.",
+                  "category": "museum",
+                  "coords": [
+                        106.700461,
+                        20.826081
+                  ]
+            },
+            {
+                  "name": "Hai Phong Museum",
+                  "text": "The Hai Phong Museum features exhibits on local history, culture, and art.",
+                  "category": "museum",
+                  "coords": [
+                        106.682703,
+                        20.861966
+                  ]
+            },
+            {
+                  "name": "Hội Liên Hiệp Văn Học Nghệ Thuật Hải Phòng",
+                  "text": "A cultural center in Haiphong showcasing local art and literary works.",
+                  "category": "museum",
+                  "coords": [
+                        106.683745,
+                        20.857742
+                  ]
+            },
+            {
+                  "name": "Chè Cô Hương",
+                  "text": "A popular local attraction in Haiphong known for its traditional Vietnamese desserts.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700152,
+                        20.845102
+                  ]
+            },
+            {
+                  "name": "day market",
+                  "text": "A bustling day market in Haiphong selling fresh produce and local goods.",
+                  "category": "landmark",
+                  "coords": [
+                        106.684883,
+                        20.855477
+                  ]
+            },
+            {
+                  "name": "Korea Town",
+                  "text": "A district in Haiphong with Korean influence among shops and restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        106.700315,
+                        20.838363
+                  ]
+            },
+            {
+                  "name": "rainbow",
+                  "text": "A colorful local attraction in Haiphong known for its decorative design.",
+                  "category": "landmark",
+                  "coords": [
+                        106.692055,
+                        20.845741
+                  ]
+            },
+            {
+                  "name": "Đài tưởng niệm các anh hùng Liệt sĩ Quận Ngô Quyền",
+                  "text": "A monument in Ngo Quyen District dedicated to Vietnamese heroes and martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        106.692224,
+                        20.847256
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng niệm các Anh hùng Liệt sĩ Quận Lê Chân",
+                  "text": "A monument in Le Chan District commemorating the brave heroes of the region.",
+                  "category": "historical",
+                  "coords": [
+                        106.68818,
+                        20.825266
+                  ]
+            },
+            {
+                  "name": "Cầu Rào",
+                  "text": "A significant bridge in Haiphong crossing the Lach Tray River.",
+                  "category": "landmark",
+                  "coords": [
+                        106.698814,
+                        20.828685
+                  ]
+            },
+            {
+                  "name": "Cầu Võ Nguyên Giáp (Cầu Rào 2)",
+                  "text": "A modern bridge in Haiphong named after the famous Vietnamese general.",
+                  "category": "landmark",
+                  "coords": [
+                        106.694632,
+                        20.819502
+                  ]
+            },
+            {
+                  "name": "Cầu Tam Bạc",
+                  "text": "A bridge over the Tam Bac River connecting important parts of Haiphong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.666884,
+                        20.854421
+                  ]
+            },
+            {
+                  "name": "Cầu Lạc Long",
+                  "text": "A well-known bridge in Haiphong that plays a central role in the city's transport system.",
+                  "category": "landmark",
+                  "coords": [
+                        106.678545,
+                        20.862278
+                  ]
+            },
+            {
+                  "name": "Cầu Hoàng Văn Thụ",
+                  "text": "An architecturally striking bridge that serves as a major thoroughfare in Haiphong.",
+                  "category": "landmark",
+                  "coords": [
+                        106.681282,
+                        20.869975
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [106.6881, 20.8449],
@@ -223,7 +1402,1492 @@ export const vietnamCities: POI[] = [
     area: 1561.8, image: "/poi-images/vn-haiphong.webp"
   },
   {
-    id: "vn-hue",
+    id: "vn-hue", "sights": {
+      "de": [
+            {
+                  "name": "Kaiserstadt",
+                  "text": "Die Kaiserstadt von Hue ist ein UNESCO-Weltkulturerbe und ehemalige Residenz der Nguyen-Dynastie.",
+                  "category": "castle",
+                  "coords": [
+                        107.578127,
+                        16.468973
+                  ]
+            },
+            {
+                  "name": "Kinh thành Huế",
+                  "text": "Ein weitläufiger Festungskomplex im Zentrum von Hue, der die Kaiserstadt umschließt.",
+                  "category": "castle",
+                  "coords": [
+                        107.572655,
+                        16.476765
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Dòng Chúa Cứu Thế Huế",
+                  "text": "Eine markante katholische Kirche in Hue, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        107.59536,
+                        16.457966
+                  ]
+            },
+            {
+                  "name": "Chùa Báo Quốc",
+                  "text": "Ein historischer buddhistischer Tempel, der auf dem Ham Long Hügel in Hue liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.579682,
+                        16.454238
+                  ]
+            },
+            {
+                  "name": "Nhà hát Sông Hương",
+                  "text": "Ein modernes Theatergebäude am Ufer des Parfüm-Flusses in Hue.",
+                  "category": "cultural",
+                  "coords": [
+                        107.577306,
+                        16.459045
+                  ]
+            },
+            {
+                  "name": "Chùa Quốc Ân",
+                  "text": "Eine ruhige buddhistische Pagode in der historischen Stadt Hue.",
+                  "category": "religious",
+                  "coords": [
+                        107.587725,
+                        16.442937
+                  ]
+            },
+            {
+                  "name": "Điềm Phùng Thį",
+                  "text": "Ein Museum in Hue, das die Werke der berühmten Bildhauerin Diem Phung Thi ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        107.584215,
+                        16.457835
+                  ]
+            },
+            {
+                  "name": "Tang  tho lao",
+                  "text": "Ein Museum in Hue, das in einem historischen kaiserlichen Archivgebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        107.576605,
+                        16.480955
+                  ]
+            },
+            {
+                  "name": "Gểnal Nguyen Chi Thahn Múeum",
+                  "text": "Dieses Museum ist dem Leben und der Karriere des vietnamesischen Generals Nguyen Chi Thanh gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        107.57292,
+                        16.470602
+                  ]
+            },
+            {
+                  "name": "Trung tâm Nghệ thuật Điềm Phùng Thị",
+                  "text": "Eine Kunststiftung in Hue, die das künstlerische Erbe von Diem Phung Thi bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        107.58956,
+                        16.466971
+                  ]
+            },
+            {
+                  "name": "Trung tâm Thanh thiếu nhi Huế",
+                  "text": "Ein nationales Museum in Hue, das kulturelle und historische Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        107.582246,
+                        16.459247
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hồ Chí Minh",
+                  "text": "Ein Museum in Hue, das dem Leben und Wirken von Ho Chi Minh gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        107.581108,
+                        16.459625
+                  ]
+            },
+            {
+                  "name": "Điện Kiến Trung",
+                  "text": "Ein restaurierter kaiserlicher Palast innerhalb der Zitadelle von Hue.",
+                  "category": "castle",
+                  "coords": [
+                        107.576522,
+                        16.471095
+                  ]
+            },
+            {
+                  "name": "Di tích Nhà Lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "Ein Gedenkhaus für Ho Chi Minh in Hue, das Einblicke in seine Jugend gibt.",
+                  "category": "museum",
+                  "coords": [
+                        107.580622,
+                        16.475617
+                  ]
+            },
+            {
+                  "name": "Viện Cơ Mật - Tam Toà",
+                  "text": "Ein historisches Verwaltungsgebäude in Hue, das einst den kaiserlichen Geheimrat beherbergte.",
+                  "category": "museum",
+                  "coords": [
+                        107.583647,
+                        16.471959
+                  ]
+            },
+            {
+                  "name": "Hue Royal Antiquities Museum",
+                  "text": "Dieses Museum zeigt eine Sammlung von Antiquitäten und Artefakten aus der Nguyen-Dynastie.",
+                  "category": "museum",
+                  "coords": [
+                        107.581942,
+                        16.471307
+                  ]
+            },
+            {
+                  "name": "Le Ba Dang Art Foundation",
+                  "text": "Eine Galerie in Hue, die die modernen Kunstwerke von Le Ba Dang präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        107.587955,
+                        16.465373
+                  ]
+            },
+            {
+                  "name": "Tượng đài vua Quang Trung",
+                  "text": "Eine Statue zu Ehren des vietnamesischen Kaisers Quang Trung.",
+                  "category": "historical",
+                  "coords": [
+                        107.591446,
+                        16.442004
+                  ]
+            },
+            {
+                  "name": "Đàn Xã Tắc",
+                  "text": "Ein historischer Altar in Hue, der den Geistern der Erde und des Getreides gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        107.571209,
+                        16.465042
+                  ]
+            },
+            {
+                  "name": "Điện Càn Thành",
+                  "text": "Ruinen des ehemaligen Privatpalastes des Kaisers in der Purpurnen Verbotenen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        107.57736,
+                        16.470029
+                  ]
+            },
+            {
+                  "name": "Điện Phụng Tiên",
+                  "text": "Ein ehemaliger Tempelkomplex in der Zitadelle, der der Ahnenverehrung gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        107.575975,
+                        16.468127
+                  ]
+            },
+            {
+                  "name": "Canh Y Điện",
+                  "text": "Archäologische Überreste eines Gebäudes innerhalb der kaiserlichen Mauern.",
+                  "category": "historical",
+                  "coords": [
+                        107.577137,
+                        16.467422
+                  ]
+            },
+            {
+                  "name": "Sở Thượng Thiện",
+                  "text": "Die Ruinen der ehemaligen kaiserlichen Küche, in der Mahlzeiten für den Hof zubereitet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        107.578748,
+                        16.470591
+                  ]
+            },
+            {
+                  "name": "Cung An Định",
+                  "text": "Ein eleganter Palast in Hue, der traditionelle vietnamesische und europäische Architektur vereint.",
+                  "category": "historical",
+                  "coords": [
+                        107.597942,
+                        16.457467
+                  ]
+            },
+            {
+                  "name": "46 Phú Mộng",
+                  "text": "Ein historisches Gartenhaus in Hue, das die traditionelle Lebensweise der Region zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        107.563933,
+                        16.462864
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa trung tâm Thành Phố",
+                  "text": "Ein kulturelles Zentrum in Hue, das Theateraufführungen und lokale Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        107.585571,
+                        16.469125
+                  ]
+            },
+            {
+                  "name": "Trung tâm Văn hóa Thông tin tỉnh Thừa Thiên Huế",
+                  "text": "Ein Zentrum für kulturelle Informationen und künstlerische Aktivitäten der Provinz.",
+                  "category": "cultural",
+                  "coords": [
+                        107.596278,
+                        16.463277
+                  ]
+            },
+            {
+                  "name": "Bac Khuyet Dai",
+                  "text": "Ein Teil der Verteidigungsanlagen der Zitadelle von Hue mit Blick auf die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575812,
+                        16.471996
+                  ]
+            },
+            {
+                  "name": "Quoc Hoc",
+                  "text": "Ein Denkmal vor der berühmten Quoc Hoc Oberschule, das an gefallene Soldaten erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        107.582534,
+                        16.460945
+                  ]
+            },
+            {
+                  "name": "Cầu Vĩ Dạ",
+                  "text": "Eine Brücke in Hue, die den Zugang zum malerischen Dorf Vi Da ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        107.59975,
+                        16.471466
+                  ]
+            },
+            {
+                  "name": "Cau Thuy Van",
+                  "text": "Eine lokale Brücke, die wichtige Stadtteile von Hue miteinander verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.604088,
+                        16.482492
+                  ]
+            },
+            {
+                  "name": "Cau Van Duong",
+                  "text": "Eine der Brücken in Hue, die zur Überquerung der Kanäle oder Flüsse dient.",
+                  "category": "landmark",
+                  "coords": [
+                        107.607897,
+                        16.474146
+                  ]
+            },
+            {
+                  "name": "Quan Tượng Đài",
+                  "text": "Ein Turm, der für meteorologische Beobachtungen in der Region genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        107.570736,
+                        16.462173
+                  ]
+            },
+            {
+                  "name": "Điện Biên Phủ",
+                  "text": "Ein Ort in Hue, der nach der historischen Schlacht von Dien Bien Phu benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580946,
+                        16.456655
+                  ]
+            },
+            {
+                  "name": "Cầu Ga",
+                  "text": "Diese Brücke befindet sich in der Nähe des Bahnhofs von Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.578872,
+                        16.457213
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Ba",
+                  "text": "Der Dong Ba Markt ist der größte und lebhafteste traditionelle Markt in Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.588656,
+                        16.472533
+                  ]
+            },
+            {
+                  "name": "Triệu Miếu",
+                  "text": "Ein der Nguyen-Dynastie gewidmeter Tempel in der kaiserlichen Stadt Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580093,
+                        16.470199
+                  ]
+            },
+            {
+                  "name": "Cung Trường Sanh",
+                  "text": "Ein Palast für Kaiserinnenwitwen in der kaiserlichen Stadt von Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.574678,
+                        16.469718
+                  ]
+            },
+            {
+                  "name": "Đông Khuyết Đài",
+                  "text": "Eine Verteidigungsanlage an der Ostseite der Zitadelle von Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580041,
+                        16.471596
+                  ]
+            },
+            {
+                  "name": "Tây Khuyết Đài",
+                  "text": "Eine Verteidigungsanlage an der Westseite der Zitadelle von Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575068,
+                        16.468038
+                  ]
+            },
+            {
+                  "name": "Holy Cannons of the Citadel of Hue",
+                  "text": "Neun symbolische Bronzekanonen in der Nähe des Haupteingangs der Zitadelle von Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.581238,
+                        16.467918
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hoàng Thành Huế",
+                  "text": "A huei császári citadella az UNESCO Világörökség része és a Nguyen-dinasztia egykori székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        107.578127,
+                        16.468973
+                  ]
+            },
+            {
+                  "name": "Kinh thành Huế",
+                  "text": "Hatalmas erődrendszer Hue központjában, amely magában foglalja a császári várost.",
+                  "category": "castle",
+                  "coords": [
+                        107.572655,
+                        16.476765
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Dòng Chúa Cứu Thế Huế",
+                  "text": "Jelentős katolikus templom Huéban, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        107.59536,
+                        16.457966
+                  ]
+            },
+            {
+                  "name": "Chùa Báo Quốc",
+                  "text": "Történelmi buddhista templom, amely a huei Ham Long-dombon található.",
+                  "category": "landmark",
+                  "coords": [
+                        107.579682,
+                        16.454238
+                  ]
+            },
+            {
+                  "name": "Nhà hát Sông Hương",
+                  "text": "Modern színházépület a Parfüm-folyó partján, Huéban.",
+                  "category": "cultural",
+                  "coords": [
+                        107.577306,
+                        16.459045
+                  ]
+            },
+            {
+                  "name": "Chùa Quốc Ân",
+                  "text": "Nyugodt buddhista pagoda Hue történelmi városában.",
+                  "category": "religious",
+                  "coords": [
+                        107.587725,
+                        16.442937
+                  ]
+            },
+            {
+                  "name": "Điềm Phùng Thį",
+                  "text": "Múzeum Huéban, amely Diem Phung Thi neves szobrászművész alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        107.584215,
+                        16.457835
+                  ]
+            },
+            {
+                  "name": "Tang  tho lao",
+                  "text": "Múzeum Huéban, amely egy történelmi császári levéltári épületben található.",
+                  "category": "museum",
+                  "coords": [
+                        107.576605,
+                        16.480955
+                  ]
+            },
+            {
+                  "name": "Gểnal Nguyen Chi Thahn Múeum",
+                  "text": "Ez a múzeum Nguyen Chi Thanh vietnami tábornok életének és pályafutásának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        107.57292,
+                        16.470602
+                  ]
+            },
+            {
+                  "name": "Trung tâm Nghệ thuật Điềm Phùng Thị",
+                  "text": "Művészeti alapítvány Huéban, amely Diem Phung Thi művészi örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        107.58956,
+                        16.466971
+                  ]
+            },
+            {
+                  "name": "Trung tâm Thanh thiếu nhi Huế",
+                  "text": "Nemzeti múzeum Huéban, amely kulturális és történelmi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        107.582246,
+                        16.459247
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hồ Chí Minh",
+                  "text": "Ho Si Minh életének és munkásságának szentelt múzeum Huéban.",
+                  "category": "museum",
+                  "coords": [
+                        107.581108,
+                        16.459625
+                  ]
+            },
+            {
+                  "name": "Điện Kiến Trung",
+                  "text": "Restaurált császári palota a huei citadellán belül.",
+                  "category": "castle",
+                  "coords": [
+                        107.576522,
+                        16.471095
+                  ]
+            },
+            {
+                  "name": "Di tích Nhà Lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "Ho Si Minh-emlékház Huéban, amely betekintést nyújt ifjúkorába.",
+                  "category": "museum",
+                  "coords": [
+                        107.580622,
+                        16.475617
+                  ]
+            },
+            {
+                  "name": "Viện Cơ Mật - Tam Toà",
+                  "text": "Történelmi adminisztratív épület Huéban, amely egykor a császári titkos tanácsnak adott otthont.",
+                  "category": "museum",
+                  "coords": [
+                        107.583647,
+                        16.471959
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Cổ vật Cung đình Huế",
+                  "text": "Ez a múzeum a Nguyen-dinasztia korából származó régiségeket és tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        107.581942,
+                        16.471307
+                  ]
+            },
+            {
+                  "name": "Le Ba Dang Art Foundation",
+                  "text": "Galéria Huéban, amely Le Ba Dang modern képzőművészeti alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        107.587955,
+                        16.465373
+                  ]
+            },
+            {
+                  "name": "Tượng đài vua Quang Trung",
+                  "text": "Szobor Quang Trung vietnami császár tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        107.591446,
+                        16.442004
+                  ]
+            },
+            {
+                  "name": "Đàn Xã Tắc",
+                  "text": "Történelmi oltár Huéban, amelyet a föld és a gabona szellemeinek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        107.571209,
+                        16.465042
+                  ]
+            },
+            {
+                  "name": "Điện Càn Thành",
+                  "text": "A császár egykori magánpalotájának romjai a Bíbor Tiltott Városban.",
+                  "category": "historical",
+                  "coords": [
+                        107.57736,
+                        16.470029
+                  ]
+            },
+            {
+                  "name": "Điện Phụng Tiên",
+                  "text": "Egykori templomegyüttes a citadellában, amelyet az ősök tiszteletére szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        107.575975,
+                        16.468127
+                  ]
+            },
+            {
+                  "name": "Canh Y Điện",
+                  "text": "Régészeti maradványok egy épületről a császári falakon belül.",
+                  "category": "historical",
+                  "coords": [
+                        107.577137,
+                        16.467422
+                  ]
+            },
+            {
+                  "name": "Sở Thượng Thiện",
+                  "text": "Az egykori császári konyha romjai, ahol az udvar ételeit készítették.",
+                  "category": "historical",
+                  "coords": [
+                        107.578748,
+                        16.470591
+                  ]
+            },
+            {
+                  "name": "Cung An Định",
+                  "text": "Elegáns palota Huéban, amely a hagyományos vietnami és az európai építészetet ötvözi.",
+                  "category": "historical",
+                  "coords": [
+                        107.597942,
+                        16.457467
+                  ]
+            },
+            {
+                  "name": "46 Phú Mộng",
+                  "text": "Történelmi kertes ház Huéban, amely a régió hagyományos életmódját mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        107.563933,
+                        16.462864
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa trung tâm Thành Phố",
+                  "text": "Kulturális központ Huéban, amely színházi előadásoknak és helyi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        107.585571,
+                        16.469125
+                  ]
+            },
+            {
+                  "name": "Trung tâm Văn hóa Thông tin tỉnh Thừa Thiên Huế",
+                  "text": "A tartomány kulturális információs és művészeti tevékenységeinek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        107.596278,
+                        16.463277
+                  ]
+            },
+            {
+                  "name": "Bac Khuyet Dai",
+                  "text": "A huei citadella védműveinek része, kilátással a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575812,
+                        16.471996
+                  ]
+            },
+            {
+                  "name": "Quoc Hoc",
+                  "text": "A híres Quoc Hoc középiskola előtti emlékmű, amely az elesett katonákra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        107.582534,
+                        16.460945
+                  ]
+            },
+            {
+                  "name": "Cầu Vĩ Dạ",
+                  "text": "Híd Huéban, amely utat biztosít a festői Vi Da faluba.",
+                  "category": "landmark",
+                  "coords": [
+                        107.59975,
+                        16.471466
+                  ]
+            },
+            {
+                  "name": "Cau Thuy Van",
+                  "text": "Helyi híd, amely Hue fontos városrészeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        107.604088,
+                        16.482492
+                  ]
+            },
+            {
+                  "name": "Cau Van Duong",
+                  "text": "Hue egyik hídja, amely csatornák vagy folyók feletti átkelésre szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        107.607897,
+                        16.474146
+                  ]
+            },
+            {
+                  "name": "Quan Tượng Đài",
+                  "text": "Meteorológiai megfigyelésekre használt torony a régióban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.570736,
+                        16.462173
+                  ]
+            },
+            {
+                  "name": "Điện Biên Phủ",
+                  "text": "Hue egyik helyszíne, amely a történelmi Dien Bien Phu-i csatáról kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580946,
+                        16.456655
+                  ]
+            },
+            {
+                  "name": "Cầu Ga",
+                  "text": "Ez a híd a huei vasútállomás közelében található.",
+                  "category": "landmark",
+                  "coords": [
+                        107.578872,
+                        16.457213
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Ba",
+                  "text": "A Dong Ba piac Hue legnagyobb és legélénkebb hagyományos piaca.",
+                  "category": "landmark",
+                  "coords": [
+                        107.588656,
+                        16.472533
+                  ]
+            },
+            {
+                  "name": "Triệu Miếu",
+                  "text": "A Nguyen-dinasztiának szentelt templom a huei császárvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580093,
+                        16.470199
+                  ]
+            },
+            {
+                  "name": "Cung Trường Sanh",
+                  "text": "Az özvegy császárnék palotája a huei császárvárosban.",
+                  "category": "landmark",
+                  "coords": [
+                        107.574678,
+                        16.469718
+                  ]
+            },
+            {
+                  "name": "Đông Khuyết Đài",
+                  "text": "Védelmi építmény a huei citadella keleti oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580041,
+                        16.471596
+                  ]
+            },
+            {
+                  "name": "Tây Khuyết Đài",
+                  "text": "Védelmi építmény a huei citadella nyugati oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575068,
+                        16.468038
+                  ]
+            },
+            {
+                  "name": "Holy Cannons of the Citadel of Hue",
+                  "text": "Kilenc szimbolikus ágyú a huei citadella főbejáratának közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        107.581238,
+                        16.467918
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hoàng Thành Huế",
+                  "text": "Citadela Imperială din Hue este un sit UNESCO și fosta reședință a dinastiei Nguyen.",
+                  "category": "castle",
+                  "coords": [
+                        107.578127,
+                        16.468973
+                  ]
+            },
+            {
+                  "name": "Kinh thành Huế",
+                  "text": "Un complex fortificat vast din centrul orașului Hue, care cuprinde orașul imperial.",
+                  "category": "castle",
+                  "coords": [
+                        107.572655,
+                        16.476765
+                  ]
+            },
+            {
+                  "name": "Nhà Thờ Dòng Chúa Cứu Thế Huế",
+                  "text": "O biserică catolică proeminentă din Hue, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        107.59536,
+                        16.457966
+                  ]
+            },
+            {
+                  "name": "Chùa Báo Quốc",
+                  "text": "Un templu budist istoric situat pe dealul Ham Long din Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.579682,
+                        16.454238
+                  ]
+            },
+            {
+                  "name": "Nhà hát Sông Hương",
+                  "text": "O clădire modernă de teatru situată pe malul râului Huong din Hue.",
+                  "category": "cultural",
+                  "coords": [
+                        107.577306,
+                        16.459045
+                  ]
+            },
+            {
+                  "name": "Chùa Quốc Ân",
+                  "text": "O pagodă budistă liniștită situată în orașul istoric Hue.",
+                  "category": "religious",
+                  "coords": [
+                        107.587725,
+                        16.442937
+                  ]
+            },
+            {
+                  "name": "Điềm Phùng Thį",
+                  "text": "Un muzeu din Hue care expune lucrările celebrei sculptorițe Diem Phung Thi.",
+                  "category": "museum",
+                  "coords": [
+                        107.584215,
+                        16.457835
+                  ]
+            },
+            {
+                  "name": "Tang  tho lao",
+                  "text": "Un muzeu din Hue găzduit într-o clădire istorică a arhivelor imperiale.",
+                  "category": "museum",
+                  "coords": [
+                        107.576605,
+                        16.480955
+                  ]
+            },
+            {
+                  "name": "Gểnal Nguyen Chi Thahn Múeum",
+                  "text": "Acest muzeu este dedicat vieții și carierei generalului vietnamez Nguyen Chi Thanh.",
+                  "category": "museum",
+                  "coords": [
+                        107.57292,
+                        16.470602
+                  ]
+            },
+            {
+                  "name": "Trung tâm Nghệ thuật Điềm Phùng Thị",
+                  "text": "O fundație de artă din Hue care conservă moștenirea artistică a lui Diem Phung Thi.",
+                  "category": "museum",
+                  "coords": [
+                        107.58956,
+                        16.466971
+                  ]
+            },
+            {
+                  "name": "Trung tâm Thanh thiếu nhi Huế",
+                  "text": "Un muzeu național din Hue care prezintă exponate culturale și istorice.",
+                  "category": "museum",
+                  "coords": [
+                        107.582246,
+                        16.459247
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Hồ Chí Minh",
+                  "text": "Un muzeu din Hue dedicat vieții și activității lui Ho Și Min.",
+                  "category": "museum",
+                  "coords": [
+                        107.581108,
+                        16.459625
+                  ]
+            },
+            {
+                  "name": "Điện Kiến Trung",
+                  "text": "Un palat imperial restaurat în incinta citadelei din Hue.",
+                  "category": "castle",
+                  "coords": [
+                        107.576522,
+                        16.471095
+                  ]
+            },
+            {
+                  "name": "Di tích Nhà Lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "O casă memorială Ho Și Min din Hue, care oferă informații despre tinerețea sa.",
+                  "category": "museum",
+                  "coords": [
+                        107.580622,
+                        16.475617
+                  ]
+            },
+            {
+                  "name": "Viện Cơ Mật - Tam Toà",
+                  "text": "O clădire administrativă istorică din Hue care a găzduit odinioară Consiliul Privat imperial.",
+                  "category": "museum",
+                  "coords": [
+                        107.583647,
+                        16.471959
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Cổ vật Cung đình Huế",
+                  "text": "Acest muzeu expune o colecție de antichități și artefacte din timpul dinastiei Nguyen.",
+                  "category": "museum",
+                  "coords": [
+                        107.581942,
+                        16.471307
+                  ]
+            },
+            {
+                  "name": "Le Ba Dang Art Foundation",
+                  "text": "O galerie din Hue care prezintă operele de artă modernă ale lui Le Ba Dang.",
+                  "category": "museum",
+                  "coords": [
+                        107.587955,
+                        16.465373
+                  ]
+            },
+            {
+                  "name": "Tượng đài vua Quang Trung",
+                  "text": "O statuie ridicată în onoarea împăratului vietnamez Quang Trung.",
+                  "category": "historical",
+                  "coords": [
+                        107.591446,
+                        16.442004
+                  ]
+            },
+            {
+                  "name": "Đàn Xã Tắc",
+                  "text": "Un altar istoric din Hue dedicat spiritelor pământului și cerealelor.",
+                  "category": "historical",
+                  "coords": [
+                        107.571209,
+                        16.465042
+                  ]
+            },
+            {
+                  "name": "Điện Càn Thành",
+                  "text": "Ruinele fostului palat privat al împăratului din Orașul Interzis Purpuriu.",
+                  "category": "historical",
+                  "coords": [
+                        107.57736,
+                        16.470029
+                  ]
+            },
+            {
+                  "name": "Điện Phụng Tiên",
+                  "text": "Un fost complex de temple din citadelă, dedicat venerării strămoșilor.",
+                  "category": "historical",
+                  "coords": [
+                        107.575975,
+                        16.468127
+                  ]
+            },
+            {
+                  "name": "Canh Y Điện",
+                  "text": "Rămășițe arheologice ale unei clădiri din interiorul zidurilor imperiale.",
+                  "category": "historical",
+                  "coords": [
+                        107.577137,
+                        16.467422
+                  ]
+            },
+            {
+                  "name": "Sở Thượng Thiện",
+                  "text": "Ruinele fostei bucătării imperiale, unde se pregăteau mesele pentru curte.",
+                  "category": "historical",
+                  "coords": [
+                        107.578748,
+                        16.470591
+                  ]
+            },
+            {
+                  "name": "Cung An Định",
+                  "text": "Un palat elegant din Hue care îmbină arhitectura tradițională vietnameză și cea europeană.",
+                  "category": "historical",
+                  "coords": [
+                        107.597942,
+                        16.457467
+                  ]
+            },
+            {
+                  "name": "46 Phú Mộng",
+                  "text": "O casă istorică cu grădină din Hue, care prezintă modul de viață tradițional din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        107.563933,
+                        16.462864
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa trung tâm Thành Phố",
+                  "text": "Un centru cultural din Hue care găzduiește spectacole de teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        107.585571,
+                        16.469125
+                  ]
+            },
+            {
+                  "name": "Trung tâm Văn hóa Thông tin tỉnh Thừa Thiên Huế",
+                  "text": "Un centru pentru informații culturale și activități artistice provinciale.",
+                  "category": "cultural",
+                  "coords": [
+                        107.596278,
+                        16.463277
+                  ]
+            },
+            {
+                  "name": "Bac Khuyet Dai",
+                  "text": "O parte a fortificațiilor citadelei din Hue, cu vedere spre împrejurimi.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575812,
+                        16.471996
+                  ]
+            },
+            {
+                  "name": "Quoc Hoc",
+                  "text": "Un monument în fața faimosului liceu Quoc Hoc, care comemorează soldații căzuți.",
+                  "category": "landmark",
+                  "coords": [
+                        107.582534,
+                        16.460945
+                  ]
+            },
+            {
+                  "name": "Cầu Vĩ Dạ",
+                  "text": "Un pod din Hue care oferă acces către satul pitoresc Vi Da.",
+                  "category": "landmark",
+                  "coords": [
+                        107.59975,
+                        16.471466
+                  ]
+            },
+            {
+                  "name": "Cau Thuy Van",
+                  "text": "Un pod local care conectează districte importante din Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.604088,
+                        16.482492
+                  ]
+            },
+            {
+                  "name": "Cau Van Duong",
+                  "text": "Unul dintre podurile din Hue, folosit pentru traversarea canalelor sau a râurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        107.607897,
+                        16.474146
+                  ]
+            },
+            {
+                  "name": "Quan Tượng Đài",
+                  "text": "Un turn folosit pentru observații meteorologice în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        107.570736,
+                        16.462173
+                  ]
+            },
+            {
+                  "name": "Điện Biên Phủ",
+                  "text": "O locație din Hue care poartă numele bătăliei istorice de la Dien Bien Phu.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580946,
+                        16.456655
+                  ]
+            },
+            {
+                  "name": "Cầu Ga",
+                  "text": "Acest pod este situat în apropierea gării din Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.578872,
+                        16.457213
+                  ]
+            },
+            {
+                  "name": "Chợ Đông Ba",
+                  "text": "Piața Dong Ba este cea mai mare și mai animată piață tradițională din Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.588656,
+                        16.472533
+                  ]
+            },
+            {
+                  "name": "Triệu Miếu",
+                  "text": "Un templu dedicat dinastiei Nguyen în orașul imperial Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580093,
+                        16.470199
+                  ]
+            },
+            {
+                  "name": "Cung Trường Sanh",
+                  "text": "Un palat pentru împărătesele văduve în orașul imperial Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.574678,
+                        16.469718
+                  ]
+            },
+            {
+                  "name": "Đông Khuyết Đài",
+                  "text": "O structură de apărare în partea de est a cetății Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580041,
+                        16.471596
+                  ]
+            },
+            {
+                  "name": "Tây Khuyết Đài",
+                  "text": "O structură de apărare în partea de vest a cetății Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575068,
+                        16.468038
+                  ]
+            },
+            {
+                  "name": "Holy Cannons of the Citadel of Hue",
+                  "text": "Nouă tunuri simbolice din bronz situate lângă intrarea principală a cetății Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.581238,
+                        16.467918
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Imperial Citadel",
+                  "text": "The Imperial Citadel of Hue is a UNESCO World Heritage site and the former residence of the Nguyen Dynasty.",
+                  "category": "castle",
+                  "coords": [
+                        107.578127,
+                        16.468973
+                  ]
+            },
+            {
+                  "name": "Hue Citadel",
+                  "text": "A vast fortified complex in the center of Hue that encompasses the Imperial City.",
+                  "category": "castle",
+                  "coords": [
+                        107.572655,
+                        16.476765
+                  ]
+            },
+            {
+                  "name": "Redemptorist Church of Hue",
+                  "text": "A prominent Catholic church in Hue, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        107.59536,
+                        16.457966
+                  ]
+            },
+            {
+                  "name": "Báo Quốc Temple",
+                  "text": "A historic Buddhist temple situated on Ham Long Hill in Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.579682,
+                        16.454238
+                  ]
+            },
+            {
+                  "name": "Nhà hát Sông Hương",
+                  "text": "A modern theatre building located on the banks of the Perfume River in Hue.",
+                  "category": "cultural",
+                  "coords": [
+                        107.577306,
+                        16.459045
+                  ]
+            },
+            {
+                  "name": "Quoc An Pagoda",
+                  "text": "A serene Buddhist pagoda located in the historic city of Hue.",
+                  "category": "religious",
+                  "coords": [
+                        107.587725,
+                        16.442937
+                  ]
+            },
+            {
+                  "name": "Diem Phung Thi Art Exhibition House",
+                  "text": "A museum in Hue showcasing the works of the renowned sculptor Diem Phung Thi.",
+                  "category": "museum",
+                  "coords": [
+                        107.584215,
+                        16.457835
+                  ]
+            },
+            {
+                  "name": "Tang  tho lao",
+                  "text": "A museum in Hue housed in a historic imperial archives building.",
+                  "category": "museum",
+                  "coords": [
+                        107.576605,
+                        16.480955
+                  ]
+            },
+            {
+                  "name": "Gểnal Nguyen Chi Thahn Múeum",
+                  "text": "This museum is dedicated to the life and career of the Vietnamese General Nguyen Chi Thanh.",
+                  "category": "museum",
+                  "coords": [
+                        107.57292,
+                        16.470602
+                  ]
+            },
+            {
+                  "name": "Diem Phung Thi art foundation",
+                  "text": "An art foundation in Hue preserving the artistic legacy of Diem Phung Thi.",
+                  "category": "museum",
+                  "coords": [
+                        107.58956,
+                        16.466971
+                  ]
+            },
+            {
+                  "name": "National Museum",
+                  "text": "A national museum in Hue featuring cultural and historical exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        107.582246,
+                        16.459247
+                  ]
+            },
+            {
+                  "name": "Ho Chi Minh Museum",
+                  "text": "A museum in Hue dedicated to the life and work of Ho Chi Minh.",
+                  "category": "museum",
+                  "coords": [
+                        107.581108,
+                        16.459625
+                  ]
+            },
+            {
+                  "name": "Kiến Trung Palace",
+                  "text": "A restored imperial palace building within the Hue Citadel.",
+                  "category": "castle",
+                  "coords": [
+                        107.576522,
+                        16.471095
+                  ]
+            },
+            {
+                  "name": "Di tích Nhà Lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "A memorial house for Ho Chi Minh in Hue, providing insights into his youth.",
+                  "category": "museum",
+                  "coords": [
+                        107.580622,
+                        16.475617
+                  ]
+            },
+            {
+                  "name": "Viện Cơ Mật - Tam Toà",
+                  "text": "A historic administrative building in Hue that once housed the imperial Privy Council.",
+                  "category": "museum",
+                  "coords": [
+                        107.583647,
+                        16.471959
+                  ]
+            },
+            {
+                  "name": "Hue Royal Antiquities Museum",
+                  "text": "This museum displays a collection of antiquities and artifacts from the Nguyen Dynasty.",
+                  "category": "museum",
+                  "coords": [
+                        107.581942,
+                        16.471307
+                  ]
+            },
+            {
+                  "name": "Le Ba Dang Art Foundation",
+                  "text": "A gallery in Hue presenting the modern artworks of Le Ba Dang.",
+                  "category": "museum",
+                  "coords": [
+                        107.587955,
+                        16.465373
+                  ]
+            },
+            {
+                  "name": "Statue of Emperor Quang Trung",
+                  "text": "A statue honoring the Vietnamese Emperor Quang Trung.",
+                  "category": "historical",
+                  "coords": [
+                        107.591446,
+                        16.442004
+                  ]
+            },
+            {
+                  "name": "Đàn Xã Tắc",
+                  "text": "A historic altar in Hue dedicated to the spirits of the Earth and Grain.",
+                  "category": "historical",
+                  "coords": [
+                        107.571209,
+                        16.465042
+                  ]
+            },
+            {
+                  "name": "Điện Càn Thành",
+                  "text": "Ruins of the Emperor's former private palace within the Purple Forbidden City.",
+                  "category": "historical",
+                  "coords": [
+                        107.57736,
+                        16.470029
+                  ]
+            },
+            {
+                  "name": "Điện Phụng Tiên",
+                  "text": "A former temple complex in the citadel dedicated to ancestor worship.",
+                  "category": "historical",
+                  "coords": [
+                        107.575975,
+                        16.468127
+                  ]
+            },
+            {
+                  "name": "Canh Y Điện",
+                  "text": "Archaeological remains of a building within the imperial walls.",
+                  "category": "historical",
+                  "coords": [
+                        107.577137,
+                        16.467422
+                  ]
+            },
+            {
+                  "name": "Sở Thượng Thiện",
+                  "text": "The ruins of the former imperial kitchen where meals for the court were prepared.",
+                  "category": "historical",
+                  "coords": [
+                        107.578748,
+                        16.470591
+                  ]
+            },
+            {
+                  "name": "An Dinh Palace",
+                  "text": "An elegant palace in Hue combining traditional Vietnamese and European architecture.",
+                  "category": "historical",
+                  "coords": [
+                        107.597942,
+                        16.457467
+                  ]
+            },
+            {
+                  "name": "46 Phú Mộng",
+                  "text": "A historic garden house in Hue showcasing the traditional lifestyle of the region.",
+                  "category": "historical",
+                  "coords": [
+                        107.563933,
+                        16.462864
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa trung tâm Thành Phố",
+                  "text": "A cultural center in Hue hosting theatrical performances and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        107.585571,
+                        16.469125
+                  ]
+            },
+            {
+                  "name": "Provincial Culture and Information Centre",
+                  "text": "A center for provincial cultural information and artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        107.596278,
+                        16.463277
+                  ]
+            },
+            {
+                  "name": "North Bastion",
+                  "text": "A part of the Hue Citadel's defenses overlooking the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575812,
+                        16.471996
+                  ]
+            },
+            {
+                  "name": "Quoc Hoc Memorial",
+                  "text": "A memorial in front of the famous Quoc Hoc High School commemorating fallen soldiers.",
+                  "category": "landmark",
+                  "coords": [
+                        107.582534,
+                        16.460945
+                  ]
+            },
+            {
+                  "name": "Vi Da Bridge",
+                  "text": "A bridge in Hue providing access to the picturesque Vi Da village.",
+                  "category": "landmark",
+                  "coords": [
+                        107.59975,
+                        16.471466
+                  ]
+            },
+            {
+                  "name": "Thuy Van Bridge",
+                  "text": "A local bridge connecting important districts of Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.604088,
+                        16.482492
+                  ]
+            },
+            {
+                  "name": "Van Duong Bridge",
+                  "text": "One of the bridges in Hue used for crossing canals or rivers.",
+                  "category": "landmark",
+                  "coords": [
+                        107.607897,
+                        16.474146
+                  ]
+            },
+            {
+                  "name": "Meteorological Tower",
+                  "text": "A tower used for meteorological observations in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        107.570736,
+                        16.462173
+                  ]
+            },
+            {
+                  "name": "Điện Biên Phủ",
+                  "text": "A location in Hue named after the historic Battle of Dien Bien Phu.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580946,
+                        16.456655
+                  ]
+            },
+            {
+                  "name": "Ga Bridge",
+                  "text": "This bridge is located near the Hue railway station.",
+                  "category": "landmark",
+                  "coords": [
+                        107.578872,
+                        16.457213
+                  ]
+            },
+            {
+                  "name": "Dong Ba Market",
+                  "text": "Dong Ba Market is the largest and most vibrant traditional market in Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.588656,
+                        16.472533
+                  ]
+            },
+            {
+                  "name": "Trieu Mieu Temple",
+                  "text": "A temple dedicated to the Nguyen dynasty in the Imperial City of Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580093,
+                        16.470199
+                  ]
+            },
+            {
+                  "name": "Truong Sanh Residences - Palace of Longevity",
+                  "text": "A palace for Dowager Empresses located in the Imperial City of Hue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.574678,
+                        16.469718
+                  ]
+            },
+            {
+                  "name": "East Bastion",
+                  "text": "A defensive structure located on the eastern side of the Hue Citadel.",
+                  "category": "landmark",
+                  "coords": [
+                        107.580041,
+                        16.471596
+                  ]
+            },
+            {
+                  "name": "West Bastion",
+                  "text": "A defensive structure located on the western side of the Hue Citadel.",
+                  "category": "landmark",
+                  "coords": [
+                        107.575068,
+                        16.468038
+                  ]
+            },
+            {
+                  "name": "Holy Cannons of the Citadel of Hue",
+                  "text": "Nine symbolic bronze cannons located near the main entrance of the Hue Citadel.",
+                  "category": "landmark",
+                  "coords": [
+                        107.581238,
+                        16.467918
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [107.5909, 16.4637],
@@ -268,7 +2932,520 @@ export const vietnamCities: POI[] = [
     area: 70.99, image: "/poi-images/vn-hue.webp"
   },
   {
-    id: "vn-nhatrang",
+    id: "vn-nhatrang", "sights": {
+      "de": [
+            {
+                  "name": "Tháp Po Nagar",
+                  "text": "Eine antike Tempelanlage der Cham in Nha Trang aus dem 8. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        109.195136,
+                        12.2653
+                  ]
+            },
+            {
+                  "name": "Bào Tàng Alexandre Yersin",
+                  "text": "Ein Museum, das dem Leben und Werk des Bakteriologen Alexandre Yersin gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        109.196133,
+                        12.250937
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Ein ehemaliges Museumsgebäude in Nha Trang, das derzeit nicht für Besucher geöffnet ist.",
+                  "category": "museum",
+                  "coords": [
+                        109.191906,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Flood Beach 2025",
+                  "text": "Ein Küstenabschnitt in Nha Trang, der für seine Strandlage bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        109.198821,
+                        12.260027
+                  ]
+            },
+            {
+                  "name": "Monument Alexander Yersin",
+                  "text": "Ein Denkmal in Nha Trang zu Ehren des Wissenschaftlers Alexandre Yersin.",
+                  "category": "historical",
+                  "coords": [
+                        109.198761,
+                        12.258953
+                  ]
+            },
+            {
+                  "name": "Long Thanh Art Gallery",
+                  "text": "Eine Galerie in Nha Trang, die Schwarz-Weiß-Fotografien lokaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        109.187261,
+                        12.250627
+                  ]
+            },
+            {
+                  "name": "Mai Loc Photo Gallery",
+                  "text": "Eine Fotogalerie in Nha Trang, die die Werke eines lokalen Fotografen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        109.194616,
+                        12.234415
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "Ein kulturelles Zentrum in Nha Trang, das traditionelles vietnamesisches Handwerk präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "RailWay",
+                  "text": "Ein Aussichtspunkt in Nha Trang mit Blick auf die Bahngleise und die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        109.187848,
+                        12.245446
+                  ]
+            },
+            {
+                  "name": "Nha Trang Beach",
+                  "text": "Ein bekannter Badeort in Vietnam, berühmt für seine Sandstrände und Tauchreviere.",
+                  "category": "recreational",
+                  "coords": [
+                        109.20347,
+                        12.235793
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Eine Parkanlage am Meer in Nha Trang mit Freizeit- und Erholungsmöglichkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19961,
+                        12.228975
+                  ]
+            },
+            {
+                  "name": "Chợ Đầm",
+                  "text": "Der größte und bekannteste Markt in Nha Trang mit einer markanten runden Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        109.191792,
+                        12.254969
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Chính tòa Nha Trang",
+                  "text": "Eine auf einem Hügel gelegene katholische Kathedrale im neugotischen Stil in Nha Trang.",
+                  "category": "religious",
+                  "coords": [
+                        109.188128,
+                        12.246788
+                  ]
+            },
+            {
+                  "name": "Long Son Pagode",
+                  "text": "Ein buddhistischer Tempel in Nha Trang, bekannt für seine große weiße Buddha-Statue.",
+                  "category": "religious",
+                  "coords": [
+                        109.180556,
+                        12.251258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tháp Po Nagar",
+                  "text": "Nha Trang-i ősi Csampa templomegyüttes a 8. századból.",
+                  "category": "historical",
+                  "coords": [
+                        109.195136,
+                        12.2653
+                  ]
+            },
+            {
+                  "name": "Bào Tàng Alexandre Yersin",
+                  "text": "Alexandre Yersin bakteriológus életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        109.196133,
+                        12.250937
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "Korábbi múzeumi épület Nha Trangban, amely jelenleg nem látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        109.191906,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Flood Beach 2025",
+                  "text": "Nha Trang-i tengerparti szakasz, amely strandjáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        109.198821,
+                        12.260027
+                  ]
+            },
+            {
+                  "name": "Monument Alexander Yersin",
+                  "text": "Emlékmű Nha Trangban Alexandre Yersin tudós tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        109.198761,
+                        12.258953
+                  ]
+            },
+            {
+                  "name": "Long Thanh Art Gallery",
+                  "text": "Nha Trang-i galéria, amely helyi művészek fekete-fehér fotóit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        109.187261,
+                        12.250627
+                  ]
+            },
+            {
+                  "name": "Mai Loc Photo Gallery",
+                  "text": "Fotógaléria Nha Trangban, amely egy helyi fotóművész munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        109.194616,
+                        12.234415
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "Kulturális központ Nha Trangban, amely hagyományos vietnámi mesterségeket mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "RailWay",
+                  "text": "Kilátóhely Nha Trangban, rálátással a vasúti sínekre és a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        109.187848,
+                        12.245446
+                  ]
+            },
+            {
+                  "name": "Nha Trang",
+                  "text": "Ismert vietnámi üdülőhely, amely homokos strandjairól és merülőhelyeiről híres.",
+                  "category": "recreational",
+                  "coords": [
+                        109.20347,
+                        12.235793
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Tengerparti park Nha Trangban szabadidős és kikapcsolódási lehetőségekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19961,
+                        12.228975
+                  ]
+            },
+            {
+                  "name": "Chợ Đầm",
+                  "text": "Nha Trang legnagyobb és legismertebb piaca, jellegzetes kerek építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        109.191792,
+                        12.254969
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Chính tòa Nha Trang",
+                  "text": "Dombtetőn épült neogótikus stílusú katolikus székesegyház Nha Trangban.",
+                  "category": "religious",
+                  "coords": [
+                        109.188128,
+                        12.246788
+                  ]
+            },
+            {
+                  "name": "Chùa Long Sơn",
+                  "text": "Nha Trang-i buddhista templom, amely hatalmas fehér Buddha-szobráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        109.180556,
+                        12.251258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tháp Po Nagar",
+                  "text": "Un complex antic de temple Cham din Nha Trang, datând din secolul al VIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        109.195136,
+                        12.2653
+                  ]
+            },
+            {
+                  "name": "Bào Tàng Alexandre Yersin",
+                  "text": "Un muzeu dedicat vieții și activității bacteriologului Alexandre Yersin.",
+                  "category": "museum",
+                  "coords": [
+                        109.196133,
+                        12.250937
+                  ]
+            },
+            {
+                  "name": "Museum",
+                  "text": "O fostă clădire de muzeu din Nha Trang, care momentan nu este deschisă vizitatorilor.",
+                  "category": "museum",
+                  "coords": [
+                        109.191906,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Flood Beach 2025",
+                  "text": "O secțiune de coastă din Nha Trang, cunoscută pentru plaja sa.",
+                  "category": "recreational",
+                  "coords": [
+                        109.198821,
+                        12.260027
+                  ]
+            },
+            {
+                  "name": "Monument Alexander Yersin",
+                  "text": "Un monument în Nha Trang în onoarea omului de știință Alexandre Yersin.",
+                  "category": "historical",
+                  "coords": [
+                        109.198761,
+                        12.258953
+                  ]
+            },
+            {
+                  "name": "Long Thanh Art Gallery",
+                  "text": "O galerie din Nha Trang care expune fotografii alb-negru ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        109.187261,
+                        12.250627
+                  ]
+            },
+            {
+                  "name": "Mai Loc Photo Gallery",
+                  "text": "O galerie foto din Nha Trang care expune lucrările unui fotograf local.",
+                  "category": "museum",
+                  "coords": [
+                        109.194616,
+                        12.234415
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "Un centru cultural din Nha Trang care prezintă meșteșuguri tradiționale vietnameze.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "RailWay",
+                  "text": "Un punct de observație din Nha Trang, cu vedere spre calea ferată și împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        109.187848,
+                        12.245446
+                  ]
+            },
+            {
+                  "name": "Nha Trang",
+                  "text": "O stațiune balneară cunoscută din Vietnam, faimoasă pentru plajele cu nisip și locurile de scufundări.",
+                  "category": "recreational",
+                  "coords": [
+                        109.20347,
+                        12.235793
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "Un parc pe malul mării în Nha Trang, cu facilități de agrement și recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19961,
+                        12.228975
+                  ]
+            },
+            {
+                  "name": "Chợ Đầm",
+                  "text": "Cea mai mare și cunoscută piață din Nha Trang, cu o arhitectură circulară distinctivă.",
+                  "category": "landmark",
+                  "coords": [
+                        109.191792,
+                        12.254969
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Chính tòa Nha Trang",
+                  "text": "O catedrală catolică în stil neogotic, situată pe un deal în Nha Trang.",
+                  "category": "religious",
+                  "coords": [
+                        109.188128,
+                        12.246788
+                  ]
+            },
+            {
+                  "name": "Chùa Long Sơn",
+                  "text": "Un templu budist din Nha Trang, cunoscut pentru marea sa statuie albă a lui Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        109.180556,
+                        12.251258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Po Nagar Cham Towers",
+                  "text": "An ancient Cham temple complex in Nha Trang dating back to the 8th century.",
+                  "category": "historical",
+                  "coords": [
+                        109.195136,
+                        12.2653
+                  ]
+            },
+            {
+                  "name": "Museum of Yersin",
+                  "text": "A museum dedicated to the life and work of bacteriologist Alexandre Yersin.",
+                  "category": "museum",
+                  "coords": [
+                        109.196133,
+                        12.250937
+                  ]
+            },
+            {
+                  "name": "Museum (closed!)",
+                  "text": "A former museum building in Nha Trang that is currently not open to visitors.",
+                  "category": "museum",
+                  "coords": [
+                        109.191906,
+                        12.218199
+                  ]
+            },
+            {
+                  "name": "Flood Beach 2025",
+                  "text": "A coastal section in Nha Trang known for its beach area.",
+                  "category": "recreational",
+                  "coords": [
+                        109.198821,
+                        12.260027
+                  ]
+            },
+            {
+                  "name": "Monument Alexander Yersin",
+                  "text": "A monument in Nha Trang honoring the scientist Alexandre Yersin.",
+                  "category": "historical",
+                  "coords": [
+                        109.198761,
+                        12.258953
+                  ]
+            },
+            {
+                  "name": "Long Thanh Art Gallery",
+                  "text": "A gallery in Nha Trang exhibiting black-and-white photographs by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        109.187261,
+                        12.250627
+                  ]
+            },
+            {
+                  "name": "Mai Loc Photo Gallery",
+                  "text": "A photo gallery in Nha Trang exhibiting the works of a local photographer.",
+                  "category": "museum",
+                  "coords": [
+                        109.194616,
+                        12.234415
+                  ]
+            },
+            {
+                  "name": "Lang nghe truong son",
+                  "text": "A cultural center in Nha Trang showcasing traditional Vietnamese crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        109.200081,
+                        12.213992
+                  ]
+            },
+            {
+                  "name": "RailWay",
+                  "text": "A viewpoint in Nha Trang overlooking the railway tracks and surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        109.187848,
+                        12.245446
+                  ]
+            },
+            {
+                  "name": "Nha Trang",
+                  "text": "A well-known seaside resort in Vietnam, famous for its sandy beaches and diving spots.",
+                  "category": "recreational",
+                  "coords": [
+                        109.20347,
+                        12.235793
+                  ]
+            },
+            {
+                  "name": "Central Park",
+                  "text": "A seaside park in Nha Trang offering leisure and recreation facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        109.19961,
+                        12.228975
+                  ]
+            },
+            {
+                  "name": "Đầm Market",
+                  "text": "The largest and most famous market in Nha Trang, featuring distinctive circular architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        109.191792,
+                        12.254969
+                  ]
+            },
+            {
+                  "name": "Christ the King Cathedral, Nha Trang",
+                  "text": "A neo-Gothic style Catholic cathedral situated on a hill in Nha Trang.",
+                  "category": "religious",
+                  "coords": [
+                        109.188128,
+                        12.246788
+                  ]
+            },
+            {
+                  "name": "Long Sơn Temple",
+                  "text": "A Buddhist temple in Nha Trang known for its large white Buddha statue.",
+                  "category": "religious",
+                  "coords": [
+                        109.180556,
+                        12.251258
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [109.1967, 12.2388],
@@ -313,7 +3490,232 @@ export const vietnamCities: POI[] = [
     area: 251, image: "/poi-images/vn-nhatrang.webp"
   },
   {
-    id: "vn-cantho",
+    id: "vn-cantho", "sights": {
+      "de": [
+            {
+                  "name": "Nhà cổ Bình Thủy",
+                  "text": "Ein bekannter Garten in Can Tho, der für seine Orchideen und historischen Gebäude bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        105.749631,
+                        10.066996
+                  ]
+            },
+            {
+                  "name": "Cầu Bà Bộ",
+                  "text": "Eine lokale Brücke in Can Tho, die gelegentlich als Ort für kulturelle Darbietungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        105.746225,
+                        10.035524
+                  ]
+            },
+            {
+                  "name": "Fruit garden",
+                  "text": "Ein üppiger Obstgarten in Can Tho, in dem Besucher regionale Früchte direkt vom Baum probieren können.",
+                  "category": "landmark",
+                  "coords": [
+                        105.732386,
+                        10.028706
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến Thắng",
+                  "text": "Ein Denkmal in Can Tho, das zur Feier historischer Siege der Region errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        105.768351,
+                        10.055984
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa quân khu 9 - Đoàn ca múa nhạc",
+                  "text": "Ein Kunstzentrum in Can Tho, das Aufführungen von Musik- und Tanzensembles der Armee beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760421,
+                        10.059023
+                  ]
+            },
+            {
+                  "name": "NHÀ DÁT VÀNG CẦN THƠ",
+                  "text": "Eine einzigartige Attraktion in Can Tho mit aufwendig vergoldeten Innenräumen und Dekorationen.",
+                  "category": "landmark",
+                  "coords": [
+                        105.758195,
+                        10.042761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhà cổ Bình Thủy",
+                  "text": "Ismert kert Can Tho-ban, amely orchideáiról és történelmi épületeiről nevezetes.",
+                  "category": "historical",
+                  "coords": [
+                        105.749631,
+                        10.066996
+                  ]
+            },
+            {
+                  "name": "Cầu Bà Bộ",
+                  "text": "Helyi híd Can Tho-ban, amelyet alkalmanként kulturális előadások helyszíneként használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        105.746225,
+                        10.035524
+                  ]
+            },
+            {
+                  "name": "Fruit garden",
+                  "text": "Bujja gyümölcsöskert Can Tho-ban, ahol a látogatók közvetlenül a fáról kóstolhatják meg a helyi gyümölcsöket.",
+                  "category": "landmark",
+                  "coords": [
+                        105.732386,
+                        10.028706
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến Thắng",
+                  "text": "Emlékmű Can Tho-ban, amelyet a régió történelmi győzelmeinek emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        105.768351,
+                        10.055984
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa quân khu 9 - Đoàn ca múa nhạc",
+                  "text": "Művészeti központ Can Tho-ban, amely a hadsereg zenei és táncegyütteseinek előadásainak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760421,
+                        10.059023
+                  ]
+            },
+            {
+                  "name": "NHÀ DÁT VÀNG CẦN THƠ",
+                  "text": "Különleges látványosság Can Tho-ban, gazdagon aranyozott belső terekkel és díszítésekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        105.758195,
+                        10.042761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhà cổ Bình Thủy",
+                  "text": "O grădină cunoscută din Can Tho, faimoasă pentru orhideele sale și clădirile istorice.",
+                  "category": "historical",
+                  "coords": [
+                        105.749631,
+                        10.066996
+                  ]
+            },
+            {
+                  "name": "Cầu Bà Bộ",
+                  "text": "Un pod local din Can Tho, folosit ocazional ca loc pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        105.746225,
+                        10.035524
+                  ]
+            },
+            {
+                  "name": "Fruit garden",
+                  "text": "O livadă luxuriantă din Can Tho, unde vizitatorii pot gusta fructe regionale direct din pom.",
+                  "category": "landmark",
+                  "coords": [
+                        105.732386,
+                        10.028706
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến Thắng",
+                  "text": "Un monument în Can Tho ridicat pentru a celebra victoriile istorice ale regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        105.768351,
+                        10.055984
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa quân khu 9 - Đoàn ca múa nhạc",
+                  "text": "Un centru de artă din Can Tho care găzduiește spectacole ale ansamblurilor de muzică și dans ale armatei.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760421,
+                        10.059023
+                  ]
+            },
+            {
+                  "name": "NHÀ DÁT VÀNG CẦN THƠ",
+                  "text": "O atracție unică în Can Tho, cu interioare și decorațiuni aurite elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        105.758195,
+                        10.042761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Binh Thuy Orchid Garden",
+                  "text": "A well-known garden in Can Tho famous for its orchids and historical buildings.",
+                  "category": "historical",
+                  "coords": [
+                        105.749631,
+                        10.066996
+                  ]
+            },
+            {
+                  "name": "Ba Bo Bridge",
+                  "text": "A local bridge in Can Tho occasionally used as a site for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        105.746225,
+                        10.035524
+                  ]
+            },
+            {
+                  "name": "Fruit garden",
+                  "text": "A lush fruit orchard in Can Tho where visitors can taste regional fruits directly from the tree.",
+                  "category": "landmark",
+                  "coords": [
+                        105.732386,
+                        10.028706
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến Thắng",
+                  "text": "A monument in Can Tho erected to celebrate historical victories of the region.",
+                  "category": "historical",
+                  "coords": [
+                        105.768351,
+                        10.055984
+                  ]
+            },
+            {
+                  "name": "Nhà văn hóa quân khu 9 - Đoàn ca múa nhạc",
+                  "text": "An arts center in Can Tho housing performances by army music and dance ensembles.",
+                  "category": "cultural",
+                  "coords": [
+                        105.760421,
+                        10.059023
+                  ]
+            },
+            {
+                  "name": "NHÀ DÁT VÀNG CẦN THƠ",
+                  "text": "A unique attraction in Can Tho featuring elaborately gilded interiors and decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        105.758195,
+                        10.042761
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [105.7469, 10.0452],
@@ -358,7 +3760,1204 @@ export const vietnamCities: POI[] = [
     area: 1408.9, image: "/poi-images/vn-cantho.webp"
   },
   {
-    id: "vn-vungtau",
+    id: "vn-vungtau", "sights": {
+      "de": [
+            {
+                  "name": "Bãi Trước",
+                  "text": "Ein beliebter Strand im Stadtzentrum von Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.073862,
+                        10.343835
+                  ]
+            },
+            {
+                  "name": "Hải đăng Cao Trang",
+                  "text": "Ein Leuchtturm in Vung Tau, der Schiffen den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        107.060372,
+                        10.356867
+                  ]
+            },
+            {
+                  "name": "Phòng Trà Memory",
+                  "text": "Ein Veranstaltungsort für Musik und Theater in Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.074509,
+                        10.348634
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Vũ khí cổ Robert Taylor",
+                  "text": "Ein Museum mit einer großen privaten Sammlung von Waffen und Uniformen in Vung Tau.",
+                  "category": "museum",
+                  "coords": [
+                        107.0748,
+                        10.351134
+                  ]
+            },
+            {
+                  "name": "Hồ Mây Park",
+                  "text": "Ein Freizeitpark auf einem Hügel in Vung Tau, der mit einer Seilbahn erreichbar ist.",
+                  "category": "recreational",
+                  "coords": [
+                        107.06765,
+                        10.359471
+                  ]
+            },
+            {
+                  "name": "Bãi Lãng Du",
+                  "text": "Ein malerischer Strandabschnitt an der Küste von Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.083297,
+                        10.323301
+                  ]
+            },
+            {
+                  "name": "Công viên nước Vũng Tàu",
+                  "text": "Ein Wasserpark mit verschiedenen Rutschen und Attraktionen in Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084761,
+                        10.365731
+                  ]
+            },
+            {
+                  "name": "Rạp Điện Biên",
+                  "text": "Ein lokales Theater für kulturelle Aufführungen in Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.077816,
+                        10.349088
+                  ]
+            },
+            {
+                  "name": "Bãi Dứa",
+                  "text": "Ein ruhiger Strand in Vung Tau, der auch als Bai Dua bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        107.080159,
+                        10.327534
+                  ]
+            },
+            {
+                  "name": "Hải đăng Vũng Tàu",
+                  "text": "Ein historischer Leuchtturm auf dem Gipfel des Kleinen Berges mit Panoramablick.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077656,
+                        10.33411
+                  ]
+            },
+            {
+                  "name": "Bãi Ô Quắn",
+                  "text": "Ein kleiner Strandbereich an der Küste von Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.087782,
+                        10.325833
+                  ]
+            },
+            {
+                  "name": "Bãi Sau",
+                  "text": "Der längste und beliebteste Strand in Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.098228,
+                        10.342572
+                  ]
+            },
+            {
+                  "name": "Bến Thạch Kiều",
+                  "text": "Ein Küstenabschnitt in Vung Tau, der zum Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        107.071254,
+                        10.338579
+                  ]
+            },
+            {
+                  "name": "Công viên Thỏ Trắng",
+                  "text": "Ein familienfreundlicher Freizeitpark mit verschiedenen Fahrgeschäften in Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.100958,
+                        10.351927
+                  ]
+            },
+            {
+                  "name": "Rạp Duy Tân",
+                  "text": "Ein lokales Kino oder Theater in der Stadt Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.07692,
+                        10.351686
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Bà Rịa-Vũng Tàu",
+                  "text": "Ein Museum, das die Geschichte und Kultur der Provinz Ba Ria-Vung Tau zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        107.069681,
+                        10.350539
+                  ]
+            },
+            {
+                  "name": "Di tích nhà má Tám Nhung",
+                  "text": "Ein historisches Haus in Vung Tau, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        107.074453,
+                        10.370274
+                  ]
+            },
+            {
+                  "name": "Bãi Vọng Nguyệt",
+                  "text": "Ein malerischer Strand in Vung Tau, der für seine Aussicht bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084719,
+                        10.322342
+                  ]
+            },
+            {
+                  "name": "Tượng Chúa Kitô Vua",
+                  "text": "Eine monumentale Jesus-Statue auf dem Kleinen Berg in Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.084521,
+                        10.326501
+                  ]
+            },
+            {
+                  "name": "Niết Bàn Tịnh Xá",
+                  "text": "Ein buddhistischer Tempel in Vung Tau, bekannt für seine große liegende Buddha-Statue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.076799,
+                        10.330631
+                  ]
+            },
+            {
+                  "name": "Đài Liệt sĩ",
+                  "text": "Ein Denkmal in Vung Tau zu Ehren der gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        107.092707,
+                        10.348905
+                  ]
+            },
+            {
+                  "name": "Bạch Dinh",
+                  "text": "Eine Villa aus der Kolonialzeit in Vung Tau, die als Bach Dinh bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        107.068398,
+                        10.350737
+                  ]
+            },
+            {
+                  "name": "Đồi Con Heo",
+                  "text": "Ein Aussichtspunkt in Vung Tau mit Panoramablick auf die Stadt und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        107.086597,
+                        10.32806
+                  ]
+            },
+            {
+                  "name": "Lô Cốt Hải Đăng",
+                  "text": "Überreste alter militärischer Befestigungsanlagen in der Nähe des Leuchtturms von Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.074099,
+                        10.336805
+                  ]
+            },
+            {
+                  "name": "Cáp treo Vũng Tàu",
+                  "text": "Eine Seilbahn in Vung Tau, die Besucher zum Hồ Mây Park auf dem Berg führt.",
+                  "category": "landmark",
+                  "coords": [
+                        107.066362,
+                        10.351106
+                  ]
+            },
+            {
+                  "name": "Trận địa pháo trên Núi Lớn",
+                  "text": "Eine historische Artilleriestellung auf dem Großen Berg in Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.06361,
+                        10.356824
+                  ]
+            },
+            {
+                  "name": "Đường Sách Vũng Tàu",
+                  "text": "Eine Fußgängerzone in Vung Tau mit Buchläden und kulturellen Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        107.073598,
+                        10.34765
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Eine beeindruckende Buddha-Statue in der Stadt Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.071131,
+                        10.357008
+                  ]
+            },
+            {
+                  "name": "Seaside Resort",
+                  "text": "Eine Ferienanlage am Meer in Vung Tau für Erholungssuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        107.064501,
+                        10.353328
+                  ]
+            },
+            {
+                  "name": "Cầu Đá cổ",
+                  "text": "Die Überreste eines alten steinernen Stegs an der Küste von Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.069379,
+                        10.339869
+                  ]
+            },
+            {
+                  "name": "Khu du lịch New Wave",
+                  "text": "Ein touristisches Resort am Strand von Vung Tau mit verschiedenen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        107.093372,
+                        10.339995
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Vũng Tàu",
+                  "text": "Eine bedeutende katholische Kirche im Herzen von Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077365,
+                        10.34612
+                  ]
+            },
+            {
+                  "name": "Ancient Artillary Battlefield",
+                  "text": "Ein historisches Schlachtfeld in Vung Tau mit alten Kanonenstellungen.",
+                  "category": "landmark",
+                  "coords": [
+                        107.082677,
+                        10.328678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bãi Trước",
+                  "text": "Népszerű tengerpart Vung Tau városközpontjában.",
+                  "category": "recreational",
+                  "coords": [
+                        107.073862,
+                        10.343835
+                  ]
+            },
+            {
+                  "name": "Hải đăng Cao Trang",
+                  "text": "Vung Tau egyik világítótornya, amely a hajók tájékozódását segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        107.060372,
+                        10.356867
+                  ]
+            },
+            {
+                  "name": "Phòng Trà Memory",
+                  "text": "Zenei és színházi előadóhely Vung Tauban.",
+                  "category": "cultural",
+                  "coords": [
+                        107.074509,
+                        10.348634
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Vũ khí cổ Robert Taylor",
+                  "text": "Magángyűjteményből álló fegyver- és egyenruha-múzeum Vung Tauban.",
+                  "category": "museum",
+                  "coords": [
+                        107.0748,
+                        10.351134
+                  ]
+            },
+            {
+                  "name": "Hồ Mây Park",
+                  "text": "Domboldalon fekvő vidámpark Vung Tauban, amely felvonóval érhető el.",
+                  "category": "recreational",
+                  "coords": [
+                        107.06765,
+                        10.359471
+                  ]
+            },
+            {
+                  "name": "Bãi Lãng Du",
+                  "text": "Festői tengerparti szakasz Vung Tau partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        107.083297,
+                        10.323301
+                  ]
+            },
+            {
+                  "name": "Công viên nước Vũng Tàu",
+                  "text": "Csúszdákkal és vízi attrakciókkal teli élménypark Vung Tauban.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084761,
+                        10.365731
+                  ]
+            },
+            {
+                  "name": "Rạp Điện Biên",
+                  "text": "Helyi színház kulturális előadások számára Vung Tauban.",
+                  "category": "cultural",
+                  "coords": [
+                        107.077816,
+                        10.349088
+                  ]
+            },
+            {
+                  "name": "Bãi Dứa",
+                  "text": "Csendes tengerpart Vung Tauban, más néven Bai Dua.",
+                  "category": "recreational",
+                  "coords": [
+                        107.080159,
+                        10.327534
+                  ]
+            },
+            {
+                  "name": "Hải đăng Vũng Tàu",
+                  "text": "Történelmi világítótorony a Kis-hegy tetején, panorámás kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077656,
+                        10.33411
+                  ]
+            },
+            {
+                  "name": "Bãi Ô Quắn",
+                  "text": "Kis tengerparti szakasz Vung Tau partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        107.087782,
+                        10.325833
+                  ]
+            },
+            {
+                  "name": "Bãi Sau",
+                  "text": "Vung Tau leghosszabb és legnépszerűbb tengerpartja.",
+                  "category": "recreational",
+                  "coords": [
+                        107.098228,
+                        10.342572
+                  ]
+            },
+            {
+                  "name": "Bến Thạch Kiều",
+                  "text": "Tengerparti szakasz Vung Tauban, amely pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        107.071254,
+                        10.338579
+                  ]
+            },
+            {
+                  "name": "Công viên Thỏ Trắng",
+                  "text": "Családbarát vidámpark különféle játékokkal Vung Tauban.",
+                  "category": "recreational",
+                  "coords": [
+                        107.100958,
+                        10.351927
+                  ]
+            },
+            {
+                  "name": "Rạp Duy Tân",
+                  "text": "Helyi mozi vagy színház Vung Tau városában.",
+                  "category": "cultural",
+                  "coords": [
+                        107.07692,
+                        10.351686
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Bà Rịa-Vũng Tàu",
+                  "text": "A Ba Ria-Vung Tau tartomány történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        107.069681,
+                        10.350539
+                  ]
+            },
+            {
+                  "name": "Di tích nhà má Tám Nhung",
+                  "text": "Történelmi ház Vung Tauban, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        107.074453,
+                        10.370274
+                  ]
+            },
+            {
+                  "name": "Bãi Vọng Nguyệt",
+                  "text": "Festői tengerpart Vung Tauban, amely a kilátásáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084719,
+                        10.322342
+                  ]
+            },
+            {
+                  "name": "Tượng Chúa Kitô Vua",
+                  "text": "Monumentális Jézus-szobor Vung Tau Kis-hegyén.",
+                  "category": "historical",
+                  "coords": [
+                        107.084521,
+                        10.326501
+                  ]
+            },
+            {
+                  "name": "Niết Bàn Tịnh Xá",
+                  "text": "Buddhista templom Vung Tauban, amely a nagy fekvő Buddha-szobráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        107.076799,
+                        10.330631
+                  ]
+            },
+            {
+                  "name": "Đài Liệt sĩ",
+                  "text": "Vung Tau elesett katonáinak tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        107.092707,
+                        10.348905
+                  ]
+            },
+            {
+                  "name": "Bạch Dinh",
+                  "text": "Gyarmati korszakból származó villa Vung Tauban, Bach Dinh néven ismert.",
+                  "category": "historical",
+                  "coords": [
+                        107.068398,
+                        10.350737
+                  ]
+            },
+            {
+                  "name": "Đồi Con Heo",
+                  "text": "Kilátóhely Vung Tauban, ahonnan panorámás kilátás nyílik a városra és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        107.086597,
+                        10.32806
+                  ]
+            },
+            {
+                  "name": "Lô Cốt Hải Đăng",
+                  "text": "Régi katonai erődítmények maradványai a vung tau-i világítótorony közelében.",
+                  "category": "historical",
+                  "coords": [
+                        107.074099,
+                        10.336805
+                  ]
+            },
+            {
+                  "name": "Cáp treo Vũng Tàu",
+                  "text": "Felvonó Vung Tauban, amely a hegyen lévő Hồ Mây Parkba szállítja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        107.066362,
+                        10.351106
+                  ]
+            },
+            {
+                  "name": "Trận địa pháo trên Núi Lớn",
+                  "text": "Történelmi tüzérségi állás a vung tau-i Nagy-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        107.06361,
+                        10.356824
+                  ]
+            },
+            {
+                  "name": "Đường Sách Vũng Tàu",
+                  "text": "Sétálóutca Vung Tauban könyvesboltokkal és kulturális programokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        107.073598,
+                        10.34765
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Impozáns Buddha-szobor Vung Tau városában.",
+                  "category": "historical",
+                  "coords": [
+                        107.071131,
+                        10.357008
+                  ]
+            },
+            {
+                  "name": "Seaside Resort",
+                  "text": "Tengerparti üdülőhely Vung Tauban a pihenni vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        107.064501,
+                        10.353328
+                  ]
+            },
+            {
+                  "name": "Cầu Đá cổ",
+                  "text": "Egy régi kőmóló maradványai Vung Tau partjainál.",
+                  "category": "historical",
+                  "coords": [
+                        107.069379,
+                        10.339869
+                  ]
+            },
+            {
+                  "name": "Khu du lịch New Wave",
+                  "text": "Turisztikai üdülőhely Vung Tau tengerpartján, különféle szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        107.093372,
+                        10.339995
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Vũng Tàu",
+                  "text": "Jelentős katolikus templom Vung Tau szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077365,
+                        10.34612
+                  ]
+            },
+            {
+                  "name": "Ancient Artillary Battlefield",
+                  "text": "Történelmi csatatér Vung Tauban régi ágyúállásokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        107.082677,
+                        10.328678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bãi Trước",
+                  "text": "O plajă populară în centrul orașului Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.073862,
+                        10.343835
+                  ]
+            },
+            {
+                  "name": "Hải đăng Cao Trang",
+                  "text": "Un far în Vung Tau care ghidează navele.",
+                  "category": "landmark",
+                  "coords": [
+                        107.060372,
+                        10.356867
+                  ]
+            },
+            {
+                  "name": "Phòng Trà Memory",
+                  "text": "O locație pentru muzică și teatru în Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.074509,
+                        10.348634
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Vũ khí cổ Robert Taylor",
+                  "text": "Un muzeu cu o colecție privată impresionantă de arme și uniforme în Vung Tau.",
+                  "category": "museum",
+                  "coords": [
+                        107.0748,
+                        10.351134
+                  ]
+            },
+            {
+                  "name": "Hồ Mây Park",
+                  "text": "Un parc de distracții pe un deal în Vung Tau, accesibil cu telecabina.",
+                  "category": "recreational",
+                  "coords": [
+                        107.06765,
+                        10.359471
+                  ]
+            },
+            {
+                  "name": "Bãi Lãng Du",
+                  "text": "O secțiune pitorească de plajă pe coasta orașului Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.083297,
+                        10.323301
+                  ]
+            },
+            {
+                  "name": "Công viên nước Vũng Tàu",
+                  "text": "Un parc acvatic cu diverse tobogane și atracții în Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084761,
+                        10.365731
+                  ]
+            },
+            {
+                  "name": "Rạp Điện Biên",
+                  "text": "Un teatru local pentru spectacole culturale în Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.077816,
+                        10.349088
+                  ]
+            },
+            {
+                  "name": "Bãi Dứa",
+                  "text": "O plajă liniștită în Vung Tau, cunoscută și sub numele de Bai Dua.",
+                  "category": "recreational",
+                  "coords": [
+                        107.080159,
+                        10.327534
+                  ]
+            },
+            {
+                  "name": "Hải đăng Vũng Tàu",
+                  "text": "Un far istoric pe vârful Muntelui Mic, oferind vedere panoramică.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077656,
+                        10.33411
+                  ]
+            },
+            {
+                  "name": "Bãi Ô Quắn",
+                  "text": "O mică zonă de plajă pe coasta orașului Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.087782,
+                        10.325833
+                  ]
+            },
+            {
+                  "name": "Bãi Sau",
+                  "text": "Cea mai lungă și populară plajă din Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.098228,
+                        10.342572
+                  ]
+            },
+            {
+                  "name": "Bến Thạch Kiều",
+                  "text": "O zonă de plajă în Vung Tau, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        107.071254,
+                        10.338579
+                  ]
+            },
+            {
+                  "name": "Công viên Thỏ Trắng",
+                  "text": "Un parc de distracții pentru familii, cu diverse atracții în Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.100958,
+                        10.351927
+                  ]
+            },
+            {
+                  "name": "Rạp Duy Tân",
+                  "text": "Un cinematograf sau teatru local în orașul Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.07692,
+                        10.351686
+                  ]
+            },
+            {
+                  "name": "Bảo tàng Bà Rịa-Vũng Tàu",
+                  "text": "Un muzeu care prezintă istoria și cultura provinciei Ba Ria-Vung Tau.",
+                  "category": "museum",
+                  "coords": [
+                        107.069681,
+                        10.350539
+                  ]
+            },
+            {
+                  "name": "Di tích nhà má Tám Nhung",
+                  "text": "O casă istorică din Vung Tau care servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        107.074453,
+                        10.370274
+                  ]
+            },
+            {
+                  "name": "Bãi Vọng Nguyệt",
+                  "text": "O plajă pitorească în Vung Tau, cunoscută pentru priveliștile sale.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084719,
+                        10.322342
+                  ]
+            },
+            {
+                  "name": "Tượng Chúa Kitô Vua",
+                  "text": "O statuie monumentală a lui Iisus pe Muntele Mic din Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.084521,
+                        10.326501
+                  ]
+            },
+            {
+                  "name": "Niết Bàn Tịnh Xá",
+                  "text": "Un templu budist din Vung Tau, cunoscut pentru marea sa statuie a lui Buddha culcat.",
+                  "category": "landmark",
+                  "coords": [
+                        107.076799,
+                        10.330631
+                  ]
+            },
+            {
+                  "name": "Đài Liệt sĩ",
+                  "text": "Un monument în Vung Tau ridicat în onoarea soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        107.092707,
+                        10.348905
+                  ]
+            },
+            {
+                  "name": "Bạch Dinh",
+                  "text": "O vilă din epoca colonială în Vung Tau, cunoscută sub numele de Bach Dinh.",
+                  "category": "historical",
+                  "coords": [
+                        107.068398,
+                        10.350737
+                  ]
+            },
+            {
+                  "name": "Đồi Con Heo",
+                  "text": "Un punct de observație în Vung Tau care oferă vedere panoramică asupra orașului și mării.",
+                  "category": "natural",
+                  "coords": [
+                        107.086597,
+                        10.32806
+                  ]
+            },
+            {
+                  "name": "Lô Cốt Hải Đăng",
+                  "text": "Rămășițele unor vechi fortificații militare de lângă farul din Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.074099,
+                        10.336805
+                  ]
+            },
+            {
+                  "name": "Cáp treo Vũng Tàu",
+                  "text": "O telecabină în Vung Tau care duce vizitatorii la parcul Hồ Mây de pe munte.",
+                  "category": "landmark",
+                  "coords": [
+                        107.066362,
+                        10.351106
+                  ]
+            },
+            {
+                  "name": "Trận địa pháo trên Núi Lớn",
+                  "text": "O poziție istorică de artilerie pe Muntele Mare din Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.06361,
+                        10.356824
+                  ]
+            },
+            {
+                  "name": "Đường Sách Vũng Tàu",
+                  "text": "O stradă pietonală în Vung Tau cu librării și activități culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        107.073598,
+                        10.34765
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "O statuie impresionantă a lui Buddha în orașul Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.071131,
+                        10.357008
+                  ]
+            },
+            {
+                  "name": "Seaside Resort",
+                  "text": "O stațiune la malul mării în Vung Tau pentru turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        107.064501,
+                        10.353328
+                  ]
+            },
+            {
+                  "name": "Cầu Đá cổ",
+                  "text": "Rămășițele unui vechi debarcader de piatră pe coasta orașului Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.069379,
+                        10.339869
+                  ]
+            },
+            {
+                  "name": "Khu du lịch New Wave",
+                  "text": "O stațiune turistică pe plaja din Vung Tau, oferind diverse facilități.",
+                  "category": "recreational",
+                  "coords": [
+                        107.093372,
+                        10.339995
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Vũng Tàu",
+                  "text": "O biserică catolică importantă în inima orașului Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077365,
+                        10.34612
+                  ]
+            },
+            {
+                  "name": "Ancient Artillary Battlefield",
+                  "text": "Un câmp de luptă istoric în Vung Tau cu vechi poziții de tunuri.",
+                  "category": "landmark",
+                  "coords": [
+                        107.082677,
+                        10.328678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Front Beach",
+                  "text": "A popular beach located in the city center of Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.073862,
+                        10.343835
+                  ]
+            },
+            {
+                  "name": "Cao Trang Light",
+                  "text": "A lighthouse in Vung Tau that guides ships.",
+                  "category": "landmark",
+                  "coords": [
+                        107.060372,
+                        10.356867
+                  ]
+            },
+            {
+                  "name": "Phòng Trà Memory",
+                  "text": "A music and theatre venue located in Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.074509,
+                        10.348634
+                  ]
+            },
+            {
+                  "name": "Robert Taylor Worldwide Arms Museum",
+                  "text": "A museum featuring a large private collection of weapons and uniforms in Vung Tau.",
+                  "category": "museum",
+                  "coords": [
+                        107.0748,
+                        10.351134
+                  ]
+            },
+            {
+                  "name": "Hồ Mây Park",
+                  "text": "An amusement park on a hilltop in Vung Tau, accessible by cable car.",
+                  "category": "recreational",
+                  "coords": [
+                        107.06765,
+                        10.359471
+                  ]
+            },
+            {
+                  "name": "Bãi Lãng Du",
+                  "text": "A scenic beach area along the coast of Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.083297,
+                        10.323301
+                  ]
+            },
+            {
+                  "name": "Vung Tau Waterpark",
+                  "text": "A water park with various slides and attractions in Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084761,
+                        10.365731
+                  ]
+            },
+            {
+                  "name": "Dien Bien Theatre",
+                  "text": "A local theatre for cultural performances in Vung Tau.",
+                  "category": "cultural",
+                  "coords": [
+                        107.077816,
+                        10.349088
+                  ]
+            },
+            {
+                  "name": "Pineapple Beach",
+                  "text": "A quiet beach in Vung Tau, also known as Bai Dua.",
+                  "category": "recreational",
+                  "coords": [
+                        107.080159,
+                        10.327534
+                  ]
+            },
+            {
+                  "name": "Vung Tau Lighthouse",
+                  "text": "A historic lighthouse on top of Small Mountain, offering panoramic views.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077656,
+                        10.33411
+                  ]
+            },
+            {
+                  "name": "O Quan Beach",
+                  "text": "A small beach area along the coast of Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.087782,
+                        10.325833
+                  ]
+            },
+            {
+                  "name": "Back Beach",
+                  "text": "The longest and most popular beach in Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.098228,
+                        10.342572
+                  ]
+            },
+            {
+                  "name": "Bến Thạch Kiều",
+                  "text": "A beach area in Vung Tau, suitable for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        107.071254,
+                        10.338579
+                  ]
+            },
+            {
+                  "name": "Công viên Thỏ Trắng",
+                  "text": "A family-friendly amusement park with various rides in Vung Tau.",
+                  "category": "recreational",
+                  "coords": [
+                        107.100958,
+                        10.351927
+                  ]
+            },
+            {
+                  "name": "Rạp Duy Tân",
+                  "text": "A local cinema or theatre in Vung Tau city.",
+                  "category": "cultural",
+                  "coords": [
+                        107.07692,
+                        10.351686
+                  ]
+            },
+            {
+                  "name": "Ba Ria-Vung Tau Museum",
+                  "text": "A museum showcasing the history and culture of the Ba Ria-Vung Tau province.",
+                  "category": "museum",
+                  "coords": [
+                        107.069681,
+                        10.350539
+                  ]
+            },
+            {
+                  "name": "Mrs. Tám Nhung's house",
+                  "text": "A historic house in Vung Tau that serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        107.074453,
+                        10.370274
+                  ]
+            },
+            {
+                  "name": "Moonview Beach",
+                  "text": "A scenic beach in Vung Tau known for its views.",
+                  "category": "recreational",
+                  "coords": [
+                        107.084719,
+                        10.322342
+                  ]
+            },
+            {
+                  "name": "Christ of Vung Tau",
+                  "text": "A monumental statue of Jesus located on Small Mountain in Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.084521,
+                        10.326501
+                  ]
+            },
+            {
+                  "name": "Niết Bàn Tịnh Xá",
+                  "text": "A Buddhist temple in Vung Tau, known for its large reclining Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        107.076799,
+                        10.330631
+                  ]
+            },
+            {
+                  "name": "Martyrs Monument",
+                  "text": "A monument in Vung Tau honoring fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        107.092707,
+                        10.348905
+                  ]
+            },
+            {
+                  "name": "Villa Blanche",
+                  "text": "A colonial-era villa in Vung Tau, also known as Bach Dinh.",
+                  "category": "historical",
+                  "coords": [
+                        107.068398,
+                        10.350737
+                  ]
+            },
+            {
+                  "name": "Đồi Con Heo",
+                  "text": "A viewpoint in Vung Tau offering panoramic views of the city and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        107.086597,
+                        10.32806
+                  ]
+            },
+            {
+                  "name": "Lô Cốt Hải Đăng",
+                  "text": "Remains of old military fortifications located near the Vung Tau lighthouse.",
+                  "category": "historical",
+                  "coords": [
+                        107.074099,
+                        10.336805
+                  ]
+            },
+            {
+                  "name": "Vung Tau Cable Cars",
+                  "text": "A cable car system in Vung Tau that transports visitors to Ho May Park on the mountain.",
+                  "category": "landmark",
+                  "coords": [
+                        107.066362,
+                        10.351106
+                  ]
+            },
+            {
+                  "name": "Trận địa pháo trên Núi Lớn",
+                  "text": "A historic artillery site located on Big Mountain in Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.06361,
+                        10.356824
+                  ]
+            },
+            {
+                  "name": "Vung Tau Book Street",
+                  "text": "A pedestrian street in Vung Tau featuring bookshops and cultural activities.",
+                  "category": "landmark",
+                  "coords": [
+                        107.073598,
+                        10.34765
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "An impressive Buddha statue located in Vung Tau city.",
+                  "category": "historical",
+                  "coords": [
+                        107.071131,
+                        10.357008
+                  ]
+            },
+            {
+                  "name": "Seaside Resort",
+                  "text": "A seaside resort in Vung Tau catering to tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        107.064501,
+                        10.353328
+                  ]
+            },
+            {
+                  "name": "Old rocky pier",
+                  "text": "The remains of an old rocky pier along the coast of Vung Tau.",
+                  "category": "historical",
+                  "coords": [
+                        107.069379,
+                        10.339869
+                  ]
+            },
+            {
+                  "name": "Khu du lịch New Wave",
+                  "text": "A tourist resort on the beach in Vung Tau with various leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        107.093372,
+                        10.339995
+                  ]
+            },
+            {
+                  "name": "Vung Tau Church",
+                  "text": "A significant Catholic church located in the heart of Vung Tau.",
+                  "category": "landmark",
+                  "coords": [
+                        107.077365,
+                        10.34612
+                  ]
+            },
+            {
+                  "name": "Ancient Artillary Battlefield",
+                  "text": "A historic battlefield in Vung Tau featuring old artillery positions.",
+                  "category": "landmark",
+                  "coords": [
+                        107.082677,
+                        10.328678
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [107.0843, 10.346],
@@ -403,7 +5002,592 @@ export const vietnamCities: POI[] = [
     area: 141.1, image: "/poi-images/vn-vungtau.webp"
   },
   {
-    id: "vn-dalat",
+    id: "vn-dalat", "sights": {
+      "de": [
+            {
+                  "name": "Dinh Bao Dai 1",
+                  "text": "Eine ehemalige Sommerresidenz des letzten Kaisers von Vietnam in Da Lat.",
+                  "category": "castle",
+                  "coords": [
+                        108.469868,
+                        11.944455
+                  ]
+            },
+            {
+                  "name": "Bảo Tàng Lâm Đồng",
+                  "text": "Ein Museum in Da Lat, das Exponate zur lokalen Geschichte und Kultur der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        108.459904,
+                        11.940576
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "Eine kulturelle Einrichtung oder ein kleines Museum in der Stadt Da Lat.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Nhà Pháp gần tu viện bỏ hoang",
+                  "text": "Ein Gebäude im französischen Stil in Da Lat, das für die lokale Geschichte von Bedeutung ist.",
+                  "category": "museum",
+                  "coords": [
+                        108.463556,
+                        11.941057
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "Ein interaktives Museum in Da Lat mit dreidimensionalen Kunstwerken und Fotomöglichkeiten.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Dinh Toàn Quyền",
+                  "text": "Ein historisches Gebäude in Da Lat, das einst als Amtssitz diente.",
+                  "category": "castle",
+                  "coords": [
+                        108.447958,
+                        11.935623
+                  ]
+            },
+            {
+                  "name": "Đồi Cù",
+                  "text": "Ein bekannter Hügel in Da Lat, der heute vor allem als Golfplatz genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        108.444621,
+                        11.946772
+                  ]
+            },
+            {
+                  "name": "Coffee weasels plantation",
+                  "text": "Eine Plantage in Da Lat, auf der der berühmte Wiesel-Kaffee produziert wird.",
+                  "category": "landmark",
+                  "coords": [
+                        108.467265,
+                        11.934841
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "Eine einzigartig gestaltete Bar in Da Lat mit einem labyrinthartigen Aufbau.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Ga Đà Lạt",
+                  "text": "Eine historische Eisenbahnausstellung am Bahnhof von Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Ar Ti So",
+                  "text": "Ein Ort oder eine Struktur in Da Lat, die der Artischocke gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        108.444135,
+                        11.938535
+                  ]
+            },
+            {
+                  "name": "Yersin",
+                  "text": "Ein Denkmal in Da Lat zur Erinnerung an Alexandre Yersin, den Gründer der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        108.446876,
+                        11.939303
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Verschiedene Wandmalereien und künstlerische Gestaltungen in den Straßen von Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.94316
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "Dieses Viertel in Da Lat ist bekannt für seine gut erhaltene französische Kolonialarchitektur.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449737,
+                        11.93639
+                  ]
+            },
+            {
+                  "name": "Thiên Vương Cổ Sát (Chùa Tàu)",
+                  "text": "Diese buddhistische Tempelanlage in Da Lat wird oft als die Pagode der Chinesen bezeichnet.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Sơn",
+                  "text": "Eine bedeutende buddhistische Pagode in Da Lat, die für ihre ruhige Atmosphäre bekannt ist.",
+                  "category": "tower",
+                  "coords": [
+                        108.437023,
+                        11.950259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dinh Bao Dai 1",
+                  "text": "Vietnám utolsó császárának egykori nyári rezidenciája Da Latban.",
+                  "category": "castle",
+                  "coords": [
+                        108.469868,
+                        11.944455
+                  ]
+            },
+            {
+                  "name": "Bảo Tàng Lâm Đồng",
+                  "text": "Da Lat-i múzeum, amely a régió helyi történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        108.459904,
+                        11.940576
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "Kulturális intézmény vagy kisebb múzeum Da Lat városában.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Nhà Pháp gần tu viện bỏ hoang",
+                  "text": "Francia stílusú épület Da Latban, amely a helyi történelem szempontjából jelentős.",
+                  "category": "museum",
+                  "coords": [
+                        108.463556,
+                        11.941057
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "Interaktív múzeum Da Latban, háromdimenziós alkotásokkal és fotózási lehetőségekkel.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Dinh Toàn Quyền",
+                  "text": "Történelmi épület Da Latban, amely egykor hivatalos rezidenciaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        108.447958,
+                        11.935623
+                  ]
+            },
+            {
+                  "name": "Đồi Cù",
+                  "text": "Ismert domb Da Latban, amelyet ma főként golfpályaként használnak.",
+                  "category": "natural",
+                  "coords": [
+                        108.444621,
+                        11.946772
+                  ]
+            },
+            {
+                  "name": "Coffee weasels plantation",
+                  "text": "Da Lat-i ültetvény, ahol a híres civetkávét (maki-kávé) termelik.",
+                  "category": "landmark",
+                  "coords": [
+                        108.467265,
+                        11.934841
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "Egyedi kialakítású, útvesztőszerű bár Da Latban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Ga Đà Lạt",
+                  "text": "Történelmi vasúti kiállítás Da Lat vasútállomásán.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Ar Ti So",
+                  "text": "Az articsókának szentelt hely vagy építmény Da Latban.",
+                  "category": "landmark",
+                  "coords": [
+                        108.444135,
+                        11.938535
+                  ]
+            },
+            {
+                  "name": "Yersin",
+                  "text": "Emlékmű Da Latban Alexandre Yersin, a város alapítójának emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        108.446876,
+                        11.939303
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Különböző falfestmények és művészeti alkotások Da Lat utcáin.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.94316
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "Ez a Da Lat-i negyed a jól megőrzött francia gyarmati építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449737,
+                        11.93639
+                  ]
+            },
+            {
+                  "name": "Thiên Vương Cổ Sát (Chùa Tàu)",
+                  "text": "Ezt a Da Lat-i buddhista templomkomplexumot gyakran a kínaiak pagodájaként emlegetik.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Sơn",
+                  "text": "Da Lat egyik jelentős buddhista pagodája, amely nyugodt légköréről ismert.",
+                  "category": "tower",
+                  "coords": [
+                        108.437023,
+                        11.950259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dinh Bao Dai 1",
+                  "text": "O fostă reședință de vară a ultimului împărat al Vietnamului din Da Lat.",
+                  "category": "castle",
+                  "coords": [
+                        108.469868,
+                        11.944455
+                  ]
+            },
+            {
+                  "name": "Bảo Tàng Lâm Đồng",
+                  "text": "Un muzeu din Da Lat care expune piese referitoare la istoria și cultura locală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        108.459904,
+                        11.940576
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "O instituție culturală sau un mic muzeu din orașul Da Lat.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Nhà Pháp gần tu viện bỏ hoang",
+                  "text": "O clădire în stil francez din Da Lat, importantă pentru istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        108.463556,
+                        11.941057
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "Un muzeu interactiv din Da Lat cu opere de artă tridimensionale și oportunități foto.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Dinh Toàn Quyền",
+                  "text": "O clădire istorică din Da Lat care a servit odinioară ca reședință oficială.",
+                  "category": "castle",
+                  "coords": [
+                        108.447958,
+                        11.935623
+                  ]
+            },
+            {
+                  "name": "Đồi Cù",
+                  "text": "O colină cunoscută din Da Lat, folosită astăzi în principal ca teren de golf.",
+                  "category": "natural",
+                  "coords": [
+                        108.444621,
+                        11.946772
+                  ]
+            },
+            {
+                  "name": "Coffee weasels plantation",
+                  "text": "O plantație din Da Lat unde se produce celebra cafea de civetă.",
+                  "category": "landmark",
+                  "coords": [
+                        108.467265,
+                        11.934841
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "Un bar cu un design unic în Da Lat, având o structură asemănătoare unui labirint.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Ga Đà Lạt",
+                  "text": "O expoziție feroviară istorică la gara din Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Ar Ti So",
+                  "text": "Un loc sau o structură din Da Lat dedicată anghinarei.",
+                  "category": "landmark",
+                  "coords": [
+                        108.444135,
+                        11.938535
+                  ]
+            },
+            {
+                  "name": "Yersin",
+                  "text": "Un monument în Da Lat în memoria lui Alexandre Yersin, fondatorul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        108.446876,
+                        11.939303
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Diverse picturi murale și creații artistice pe străzile din Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.94316
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "Acest cartier din Da Lat este cunoscut pentru arhitectura sa colonială franceză bine conservată.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449737,
+                        11.93639
+                  ]
+            },
+            {
+                  "name": "Thiên Vương Cổ Sát (Chùa Tàu)",
+                  "text": "Acest complex de temple budiste din Da Lat este adesea numit Pagoda Chinezilor.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Chùa Linh Sơn",
+                  "text": "O pagodă budistă importantă din Da Lat, cunoscută pentru atmosfera sa liniștită.",
+                  "category": "tower",
+                  "coords": [
+                        108.437023,
+                        11.950259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bao Dai Palace 1",
+                  "text": "A former summer residence of the last emperor of Vietnam in Da Lat.",
+                  "category": "castle",
+                  "coords": [
+                        108.469868,
+                        11.944455
+                  ]
+            },
+            {
+                  "name": "Lam Dong Museum",
+                  "text": "A museum in Da Lat displaying exhibits on the local history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        108.459904,
+                        11.940576
+                  ]
+            },
+            {
+                  "name": "Ngộ quán",
+                  "text": "A cultural institution or small museum located in the city of Da Lat.",
+                  "category": "museum",
+                  "coords": [
+                        108.430796,
+                        11.940827
+                  ]
+            },
+            {
+                  "name": "Nhà Pháp gần tu viện bỏ hoang",
+                  "text": "A French-style building in Da Lat that is significant to local history.",
+                  "category": "museum",
+                  "coords": [
+                        108.463556,
+                        11.941057
+                  ]
+            },
+            {
+                  "name": "3D World",
+                  "text": "An interactive museum in Da Lat featuring three-dimensional artworks and photo opportunities.",
+                  "category": "museum",
+                  "coords": [
+                        108.438012,
+                        11.942975
+                  ]
+            },
+            {
+                  "name": "Governor Palace",
+                  "text": "A historical building in Da Lat that once served as an official residence.",
+                  "category": "castle",
+                  "coords": [
+                        108.447958,
+                        11.935623
+                  ]
+            },
+            {
+                  "name": "Đồi Cù",
+                  "text": "A well-known hill in Da Lat, currently used primarily as a golf course.",
+                  "category": "natural",
+                  "coords": [
+                        108.444621,
+                        11.946772
+                  ]
+            },
+            {
+                  "name": "Coffee weasels plantation",
+                  "text": "A plantation in Da Lat where the famous weasel coffee is produced.",
+                  "category": "landmark",
+                  "coords": [
+                        108.467265,
+                        11.934841
+                  ]
+            },
+            {
+                  "name": "Maze Bar",
+                  "text": "A uniquely designed bar in Da Lat with a labyrinth-like layout.",
+                  "category": "landmark",
+                  "coords": [
+                        108.43756,
+                        11.944611
+                  ]
+            },
+            {
+                  "name": "Old Train & Carriages",
+                  "text": "A historical railway exhibition located at the Da Lat train station.",
+                  "category": "landmark",
+                  "coords": [
+                        108.454235,
+                        11.94156
+                  ]
+            },
+            {
+                  "name": "Ar Ti So",
+                  "text": "A location or structure in Da Lat dedicated to the artichoke.",
+                  "category": "landmark",
+                  "coords": [
+                        108.444135,
+                        11.938535
+                  ]
+            },
+            {
+                  "name": "Yersin",
+                  "text": "A monument in Da Lat commemorating Alexandre Yersin, the founder of the city.",
+                  "category": "historical",
+                  "coords": [
+                        108.446876,
+                        11.939303
+                  ]
+            },
+            {
+                  "name": "Street Art",
+                  "text": "Various murals and artistic designs found throughout the streets of Da Lat.",
+                  "category": "landmark",
+                  "coords": [
+                        108.435659,
+                        11.94316
+                  ]
+            },
+            {
+                  "name": "French Quarter",
+                  "text": "This district in Da Lat is known for its well-preserved French colonial architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        108.449737,
+                        11.93639
+                  ]
+            },
+            {
+                  "name": "Thien Vuong Co Sat",
+                  "text": "This Buddhist temple complex in Da Lat is often referred to as the Pagoda of the Chinese.",
+                  "category": "religious",
+                  "coords": [
+                        108.45959,
+                        11.925943
+                  ]
+            },
+            {
+                  "name": "Linh Son Pagoda",
+                  "text": "A prominent Buddhist pagoda in Da Lat known for its peaceful atmosphere.",
+                  "category": "tower",
+                  "coords": [
+                        108.437023,
+                        11.950259
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN",
     coords: [108.4583, 11.9404],

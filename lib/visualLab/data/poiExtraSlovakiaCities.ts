@@ -3,7 +3,952 @@ import { POI } from "./poi";
 
 export const slovakiaCities: POI[] = [
   {
-    id: "city-banska-bystrica",
+    id: "city-banska-bystrica", "sights": {
+      "de": [
+            {
+                  "name": "Barbakan",
+                  "text": "Barbakan ist eine Burg in der Stadt Neusohl.",
+                  "category": "castle",
+                  "coords": [
+                        19.146458,
+                        48.736721
+                  ]
+            },
+            {
+                  "name": "Štátna opera",
+                  "text": "Die Štátna opera ist ein Theater in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.146303,
+                        48.733169
+                  ]
+            },
+            {
+                  "name": "Thurzov Dom",
+                  "text": "Das Thurzov Dom ist ein Museum in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.145595,
+                        48.735115
+                  ]
+            },
+            {
+                  "name": "Bábkové divadlo na Rázcestí",
+                  "text": "Das Bábkové divadlo na Rázcestí ist ein Theater in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.152089,
+                        48.739087
+                  ]
+            },
+            {
+                  "name": "Tihányiovský kaštieľ",
+                  "text": "Tihányiovský kaštieľ ist ein anerkanntes Museum in einem Herrenhaus in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.137003,
+                        48.719102
+                  ]
+            },
+            {
+                  "name": "Matejov dom",
+                  "text": "Matejov dom ist ein Museum in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.146543,
+                        48.737674
+                  ]
+            },
+            {
+                  "name": "Múzeum SNP",
+                  "text": "Das Múzeum SNP ist ein Museum in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.149775,
+                        48.735331
+                  ]
+            },
+            {
+                  "name": "Divadlo Štúdio tanca",
+                  "text": "Das Divadlo Štúdio tanca ist ein Theater in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.148376,
+                        48.742755
+                  ]
+            },
+            {
+                  "name": "Divadlo pod balkónom",
+                  "text": "Das Divadlo pod balkónom ist ein Theater in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.165682,
+                        48.757062
+                  ]
+            },
+            {
+                  "name": "Skanzen ťažkej bojovej techniky",
+                  "text": "Skanzen ťažkej bojovej techniky ist ein Museum in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.148581,
+                        48.735597
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Amfiteáter ist ein Theater in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.137344,
+                        48.740964
+                  ]
+            },
+            {
+                  "name": "Aqualand Banská Bystrica",
+                  "text": "Aqualand Banská Bystrica ist ein Wasserpark in Neusohl.",
+                  "category": "recreational",
+                  "coords": [
+                        19.127851,
+                        48.735748
+                  ]
+            },
+            {
+                  "name": "Vartovka",
+                  "text": "Vartovka ist ein Berggipfel in der Stadt Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.153682,
+                        48.71805
+                  ]
+            },
+            {
+                  "name": "Urpín",
+                  "text": "Urpín ist ein Berggipfel in Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.140869,
+                        48.725181
+                  ]
+            },
+            {
+                  "name": "Laskomer",
+                  "text": "Laskomer ist ein markanter Berggipfel in Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.118308,
+                        48.756074
+                  ]
+            },
+            {
+                  "name": "Bárczyovský kaštieľ",
+                  "text": "Bárczyovský kaštieľ ist ein historisches Herrenhaus in Neusohl.",
+                  "category": "historical",
+                  "coords": [
+                        19.13066,
+                        48.722355
+                  ]
+            },
+            {
+                  "name": "Park pod pamätníkom SNP",
+                  "text": "Park pod pamätníkom SNP ist ein Park in Neusohl.",
+                  "category": "park",
+                  "coords": [
+                        19.150825,
+                        48.735126
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Mestský park ist ein Park in der Stadt Neusohl.",
+                  "category": "park",
+                  "coords": [
+                        19.137816,
+                        48.736604
+                  ]
+            },
+            {
+                  "name": "Monument v Majeri",
+                  "text": "Monument Majer ist ein Denkmal in Neusohl.",
+                  "category": "historical",
+                  "coords": [
+                        19.179561,
+                        48.74051
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Die Evanjelický a. v. kostol ist eine Kultstätte in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.142604,
+                        48.739891
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Jána Nepomuckého",
+                  "text": "Die Chapel of St. John of Nepomuk ist eine Kultstätte in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.146314,
+                        48.731386
+                  ]
+            },
+            {
+                  "name": "Kostol Narodenia Panny Márie",
+                  "text": "Kostol Narodenia Panny Márie ist eine Kirche in Neusohl, die der Mariä Geburt gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.130168,
+                        48.721411
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Alžbety",
+                  "text": "Kostol sv. Alžbety ist eine christliche Kirche in Neusohl, die der Heiligen Elisabeth gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.141109,
+                        48.732289
+                  ]
+            },
+            {
+                  "name": "Kostol povýšenia Svätého kríža",
+                  "text": "Kostol povýšenia Svätého kríža ist eine der Kreuzerhöhung gewidmete Kirche in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.147998,
+                        48.729956
+                  ]
+            },
+            {
+                  "name": "svätých Antona a Pavla pustovníkov",
+                  "text": "Diese Stätte ist eine Kirche in Neusohl, die den Heiligen Eremiten Antonius und Paulus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.1575,
+                        48.757681
+                  ]
+            },
+            {
+                  "name": "Lietadlo Li-2",
+                  "text": "Das Lietadlo Li-2 ist ein historisches Flugzeug, das in Neusohl ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.14846,
+                        48.734597
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Barbakán",
+                  "text": "A Barbakan egy vár Neusohl városában.",
+                  "category": "castle",
+                  "coords": [
+                        19.146458,
+                        48.736721
+                  ]
+            },
+            {
+                  "name": "Štátna opera",
+                  "text": "A Štátna opera egy színház Neusohl városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.146303,
+                        48.733169
+                  ]
+            },
+            {
+                  "name": "Közép-Szlovákiai Múzeum",
+                  "text": "A Thurzov Dom egy múzeum Neusohl városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.145595,
+                        48.735115
+                  ]
+            },
+            {
+                  "name": "Bábkové divadlo na Rázcestí",
+                  "text": "A Bábkové divadlo na Rázcestí egy színház Neusohl városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.152089,
+                        48.739087
+                  ]
+            },
+            {
+                  "name": "Tihanyi kastély",
+                  "text": "A Tihányiovský kaštieľ egy elismert múzeum Neusohl városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.137003,
+                        48.719102
+                  ]
+            },
+            {
+                  "name": "Mátyás ház",
+                  "text": "A Matejov dom egy múzeum Neusohl városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.146543,
+                        48.737674
+                  ]
+            },
+            {
+                  "name": "Szlovák Nemzeti Felkelés Múzeuma",
+                  "text": "A Múzeum SNP egy múzeum Neusohl városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.149775,
+                        48.735331
+                  ]
+            },
+            {
+                  "name": "Divadlo Štúdio tanca",
+                  "text": "A Divadlo Štúdio tanca egy színház Neusohl városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.148376,
+                        48.742755
+                  ]
+            },
+            {
+                  "name": "Divadlo pod balkónom",
+                  "text": "A Divadlo pod balkónom egy színház Neusohl városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.165682,
+                        48.757062
+                  ]
+            },
+            {
+                  "name": "Skanzen ťažkej bojovej techniky",
+                  "text": "A Skanzen ťažkej bojovej techniky egy múzeum Neusohl városában.",
+                  "category": "museum",
+                  "coords": [
+                        19.148581,
+                        48.735597
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Az Amfiteáter egy színház Neusohl városában.",
+                  "category": "cultural",
+                  "coords": [
+                        19.137344,
+                        48.740964
+                  ]
+            },
+            {
+                  "name": "Aqualand Banská Bystrica",
+                  "text": "Az Aqualand Banská Bystrica egy vízi park Neusohl városában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.127851,
+                        48.735748
+                  ]
+            },
+            {
+                  "name": "Vartovka",
+                  "text": "A Vartovka egy hegycsúcs Neusohl városában.",
+                  "category": "natural",
+                  "coords": [
+                        19.153682,
+                        48.71805
+                  ]
+            },
+            {
+                  "name": "Urpín",
+                  "text": "Az Urpín egy hegycsúcs Neusohl városában.",
+                  "category": "natural",
+                  "coords": [
+                        19.140869,
+                        48.725181
+                  ]
+            },
+            {
+                  "name": "Laskomer",
+                  "text": "A Laskomer egy kiemelkedő hegycsúcs Neusohl területén.",
+                  "category": "natural",
+                  "coords": [
+                        19.118308,
+                        48.756074
+                  ]
+            },
+            {
+                  "name": "Bárczyovský kaštieľ",
+                  "text": "A Bárczyovský kaštieľ egy történelmi kastély Neusohl városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.13066,
+                        48.722355
+                  ]
+            },
+            {
+                  "name": "Park pod pamätníkom SNP",
+                  "text": "A Park pod pamätníkom SNP egy park Neusohl városában.",
+                  "category": "park",
+                  "coords": [
+                        19.150825,
+                        48.735126
+                  ]
+            },
+            {
+                  "name": "Mestský park",
+                  "text": "A Mestský park egy park Neusohl városában.",
+                  "category": "park",
+                  "coords": [
+                        19.137816,
+                        48.736604
+                  ]
+            },
+            {
+                  "name": "Monument v Majeri",
+                  "text": "A Monument Majer egy emlékmű Neusohl városában.",
+                  "category": "historical",
+                  "coords": [
+                        19.179561,
+                        48.74051
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Az Evanjelický a. v. kostol egy istentiszteleti hely Neusohl városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.142604,
+                        48.739891
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Jána Nepomuckého",
+                  "text": "A Chapel of St. John of Nepomuk egy istentiszteleti hely Neusohl városában.",
+                  "category": "religious",
+                  "coords": [
+                        19.146314,
+                        48.731386
+                  ]
+            },
+            {
+                  "name": "Szűz Mária születése templom",
+                  "text": "A Kostol Narodenia Panny Márie egy Szűz Mária születésének szentelt templom Besztercebányán.",
+                  "category": "religious",
+                  "coords": [
+                        19.130168,
+                        48.721411
+                  ]
+            },
+            {
+                  "name": "Szent Erzsébet templom",
+                  "text": "A Kostol sv. Alžbety egy Árpád-házi Szent Erzsébetnek szentelt templom Besztercebányán.",
+                  "category": "religious",
+                  "coords": [
+                        19.141109,
+                        48.732289
+                  ]
+            },
+            {
+                  "name": "Szent Kereszt felmagasztalás templom",
+                  "text": "A Kostol povýšenia Svätého kríža a Szent Kereszt felmagasztalásának szentelt templom Besztercebányán.",
+                  "category": "religious",
+                  "coords": [
+                        19.147998,
+                        48.729956
+                  ]
+            },
+            {
+                  "name": "svätých Antona a Pavla pustovníkov",
+                  "text": "Ez a templom Remete Szent Antalnak és Pálnak van szentelve Besztercebányán.",
+                  "category": "religious",
+                  "coords": [
+                        19.1575,
+                        48.757681
+                  ]
+            },
+            {
+                  "name": "Lietadlo Li-2",
+                  "text": "A Lietadlo Li-2 egy történelmi repülőgép, amely Besztercebányán van kiállítva.",
+                  "category": "landmark",
+                  "coords": [
+                        19.14846,
+                        48.734597
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Barbakan",
+                  "text": "Barbakan este un castel situat în orașul Neusohl.",
+                  "category": "castle",
+                  "coords": [
+                        19.146458,
+                        48.736721
+                  ]
+            },
+            {
+                  "name": "Štátna opera",
+                  "text": "Štátna opera este un teatru situat în Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.146303,
+                        48.733169
+                  ]
+            },
+            {
+                  "name": "Thurzov Dom",
+                  "text": "Thurzov Dom este un muzeu situat în Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.145595,
+                        48.735115
+                  ]
+            },
+            {
+                  "name": "Bábkové divadlo na Rázcestí",
+                  "text": "Bábkové divadlo na Rázcestí este un teatru situat în Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.152089,
+                        48.739087
+                  ]
+            },
+            {
+                  "name": "Tihányiovský kaštieľ",
+                  "text": "Tihányiovský kaštieľ este un muzeu recunoscut aflat într-un conac din Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.137003,
+                        48.719102
+                  ]
+            },
+            {
+                  "name": "Matejov dom",
+                  "text": "Matejov dom este un muzeu situat în Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.146543,
+                        48.737674
+                  ]
+            },
+            {
+                  "name": "Múzeum SNP",
+                  "text": "Múzeum SNP este un muzeu situat în Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.149775,
+                        48.735331
+                  ]
+            },
+            {
+                  "name": "Divadlo Štúdio tanca",
+                  "text": "Divadlo Štúdio tanca este un teatru situat în Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.148376,
+                        48.742755
+                  ]
+            },
+            {
+                  "name": "Divadlo pod balkónom",
+                  "text": "Divadlo pod balkónom este un teatru situat în Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.165682,
+                        48.757062
+                  ]
+            },
+            {
+                  "name": "Skanzen ťažkej bojovej techniky",
+                  "text": "Skanzen ťažkej bojovej techniky este un muzeu situat în Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.148581,
+                        48.735597
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Amfiteáter este un teatru situat în Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.137344,
+                        48.740964
+                  ]
+            },
+            {
+                  "name": "Aqualand Banská Bystrica",
+                  "text": "Aqualand Banská Bystrica este un parc acvatic situat în Neusohl.",
+                  "category": "recreational",
+                  "coords": [
+                        19.127851,
+                        48.735748
+                  ]
+            },
+            {
+                  "name": "Vartovka",
+                  "text": "Vartovka este un vârf situat în orașul Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.153682,
+                        48.71805
+                  ]
+            },
+            {
+                  "name": "Urpín",
+                  "text": "Urpín este un vârf situat în Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.140869,
+                        48.725181
+                  ]
+            },
+            {
+                  "name": "Laskomer",
+                  "text": "Laskomer este un vârf muntos proeminent situat în Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.118308,
+                        48.756074
+                  ]
+            },
+            {
+                  "name": "Bárczyovský kaštieľ",
+                  "text": "Bárczyovský kaštieľ este un conac istoric situat în Neusohl.",
+                  "category": "historical",
+                  "coords": [
+                        19.13066,
+                        48.722355
+                  ]
+            },
+            {
+                  "name": "Park pod pamätníkom SNP",
+                  "text": "Park pod pamätníkom SNP este un parc situat în Neusohl.",
+                  "category": "park",
+                  "coords": [
+                        19.150825,
+                        48.735126
+                  ]
+            },
+            {
+                  "name": "Mestský park",
+                  "text": "Mestský park este un parc situat în orașul Neusohl.",
+                  "category": "park",
+                  "coords": [
+                        19.137816,
+                        48.736604
+                  ]
+            },
+            {
+                  "name": "Monument v Majeri",
+                  "text": "Monument Majer este un monument situat în Neusohl.",
+                  "category": "historical",
+                  "coords": [
+                        19.179561,
+                        48.74051
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Evanjelický a. v. kostol este un lăcaș de cult situat în Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.142604,
+                        48.739891
+                  ]
+            },
+            {
+                  "name": "Kaplnka sv. Jána Nepomuckého",
+                  "text": "Chapel of St. John of Nepomuk este un lăcaș de cult situat în Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.146314,
+                        48.731386
+                  ]
+            },
+            {
+                  "name": "Kostol Narodenia Panny Márie",
+                  "text": "Kostol Narodenia Panny Márie este o biserică dedicată Nașterii Maicii Domnului în Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.130168,
+                        48.721411
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Alžbety",
+                  "text": "Kostol sv. Alžbety este o biserică dedicată Sfintei Elisabeta, situată în Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.141109,
+                        48.732289
+                  ]
+            },
+            {
+                  "name": "Kostol povýšenia Svätého kríža",
+                  "text": "Kostol povýšenia Svätého kríža este o biserică dedicată Înălțării Sfintei Cruci în Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.147998,
+                        48.729956
+                  ]
+            },
+            {
+                  "name": "svätých Antona a Pavla pustovníkov",
+                  "text": "Acest lăcaș de cult din Neusohl este dedicat Sfinților Pustnici Anton și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        19.1575,
+                        48.757681
+                  ]
+            },
+            {
+                  "name": "Lietadlo Li-2",
+                  "text": "Lietadlo Li-2 este o aeronavă istorică expusă în Neusohl.",
+                  "category": "landmark",
+                  "coords": [
+                        19.14846,
+                        48.734597
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Barbakan",
+                  "text": "Barbakan is a castle located in the city of Neusohl.",
+                  "category": "castle",
+                  "coords": [
+                        19.146458,
+                        48.736721
+                  ]
+            },
+            {
+                  "name": "Štátna opera",
+                  "text": "Štátna opera is a theatre situated in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.146303,
+                        48.733169
+                  ]
+            },
+            {
+                  "name": "Thurzov Dom",
+                  "text": "Thurzov Dom is a museum located in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.145595,
+                        48.735115
+                  ]
+            },
+            {
+                  "name": "Bábkové divadlo na Rázcestí",
+                  "text": "Bábkové divadlo na Rázcestí is a theatre located in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.152089,
+                        48.739087
+                  ]
+            },
+            {
+                  "name": "Tihányiovský kaštieľ",
+                  "text": "Tihányiovský kaštieľ is a recognized museum housed in a manor located in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.137003,
+                        48.719102
+                  ]
+            },
+            {
+                  "name": "Matejov dom",
+                  "text": "Matejov dom is a museum located in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.146543,
+                        48.737674
+                  ]
+            },
+            {
+                  "name": "Múzeum SNP",
+                  "text": "Múzeum SNP is a museum situated in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.149775,
+                        48.735331
+                  ]
+            },
+            {
+                  "name": "Divadlo Štúdio tanca",
+                  "text": "Divadlo Štúdio tanca is a theatre located in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.148376,
+                        48.742755
+                  ]
+            },
+            {
+                  "name": "Divadlo pod balkónom",
+                  "text": "Divadlo pod balkónom is a theatre situated in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.165682,
+                        48.757062
+                  ]
+            },
+            {
+                  "name": "Skanzen ťažkej bojovej techniky",
+                  "text": "Skanzen ťažkej bojovej techniky is a museum located in Neusohl.",
+                  "category": "museum",
+                  "coords": [
+                        19.148581,
+                        48.735597
+                  ]
+            },
+            {
+                  "name": "Amfiteáter",
+                  "text": "Amfiteáter is a theatre situated in Neusohl.",
+                  "category": "cultural",
+                  "coords": [
+                        19.137344,
+                        48.740964
+                  ]
+            },
+            {
+                  "name": "Aqualand Banská Bystrica",
+                  "text": "Aqualand Banská Bystrica is a water park located in Neusohl.",
+                  "category": "recreational",
+                  "coords": [
+                        19.127851,
+                        48.735748
+                  ]
+            },
+            {
+                  "name": "Vartovka",
+                  "text": "Vartovka is a peak located in the city of Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.153682,
+                        48.71805
+                  ]
+            },
+            {
+                  "name": "Urpín",
+                  "text": "Urpín is a peak situated in Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.140869,
+                        48.725181
+                  ]
+            },
+            {
+                  "name": "Laskomer",
+                  "text": "Laskomer is a prominent mountain peak located in Neusohl.",
+                  "category": "natural",
+                  "coords": [
+                        19.118308,
+                        48.756074
+                  ]
+            },
+            {
+                  "name": "Bárczyovský kaštieľ",
+                  "text": "Bárczyovský kaštieľ is a historical manor located in Neusohl.",
+                  "category": "historical",
+                  "coords": [
+                        19.13066,
+                        48.722355
+                  ]
+            },
+            {
+                  "name": "Park pod pamätníkom SNP",
+                  "text": "Park pod pamätníkom SNP is a park situated in Neusohl.",
+                  "category": "park",
+                  "coords": [
+                        19.150825,
+                        48.735126
+                  ]
+            },
+            {
+                  "name": "Mestský park",
+                  "text": "Mestský park is a park located in the city of Neusohl.",
+                  "category": "park",
+                  "coords": [
+                        19.137816,
+                        48.736604
+                  ]
+            },
+            {
+                  "name": "Monument Majer",
+                  "text": "Monument Majer is a monument situated in Neusohl.",
+                  "category": "historical",
+                  "coords": [
+                        19.179561,
+                        48.74051
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Evanjelický a. v. kostol is a place of worship located in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.142604,
+                        48.739891
+                  ]
+            },
+            {
+                  "name": "Chapel of St. John of Nepomuk",
+                  "text": "The Chapel of St. John of Nepomuk is a place of worship situated in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.146314,
+                        48.731386
+                  ]
+            },
+            {
+                  "name": "Kostol Narodenia Panny Márie",
+                  "text": "Kostol Narodenia Panny Márie is a church dedicated to the Nativity of the Blessed Virgin Mary in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.130168,
+                        48.721411
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Alžbety",
+                  "text": "Kostol sv. Alžbety is a church dedicated to Saint Elizabeth located in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.141109,
+                        48.732289
+                  ]
+            },
+            {
+                  "name": "Kostol povýšenia Svätého kríža",
+                  "text": "Kostol povýšenia Svätého kríža is a church dedicated to the Exaltation of the Holy Cross in Neusohl.",
+                  "category": "religious",
+                  "coords": [
+                        19.147998,
+                        48.729956
+                  ]
+            },
+            {
+                  "name": "svätých Antona a Pavla pustovníkov",
+                  "text": "This place of worship in Neusohl is dedicated to Saints Anthony and Paul the Hermits.",
+                  "category": "religious",
+                  "coords": [
+                        19.1575,
+                        48.757681
+                  ]
+            },
+            {
+                  "name": "Lietadlo Li-2",
+                  "text": "The Lietadlo Li-2 is a historic aircraft on display in Neusohl.",
+                  "category": "landmark",
+                  "coords": [
+                        19.14846,
+                        48.734597
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-slovakia",
     coords: [19.145, 48.7395],
@@ -77,7 +1022,808 @@ export const slovakiaCities: POI[] = [
     image: "/geo-images/slovakia/city-banska-bystrica.webp"
   },
   {
-    id: "city-zilina",
+    id: "city-zilina", "sights": {
+      "de": [
+            {
+                  "name": "Bábkové divadlo Žilina",
+                  "text": "Ein professionelles Puppentheater in Žilina, das Stücke für Kinder und Erwachsene aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.736192,
+                        49.22434
+                  ]
+            },
+            {
+                  "name": "Považské múzeum",
+                  "text": "Ein Regionalmuseum in Žilina mit Ausstellungen zur Geschichte und Natur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        18.734975,
+                        49.236269
+                  ]
+            },
+            {
+                  "name": "Žilinský hrad",
+                  "text": "Eine archäologische Fundstelle einer ehemaligen mittelalterlichen Burg in Žilina.",
+                  "category": "historical",
+                  "coords": [
+                        18.740344,
+                        49.224669
+                  ]
+            },
+            {
+                  "name": "Mestské divadlo",
+                  "text": "Das Stadttheater von Žilina bietet ein vielfältiges Programm an dramatischen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.741276,
+                        49.223991
+                  ]
+            },
+            {
+                  "name": "Múzeum židovskej kultúry",
+                  "text": "Dieses Museum dokumentiert die Geschichte und Kultur der jüdischen Gemeinde in der Slowakei.",
+                  "category": "museum",
+                  "coords": [
+                        18.744725,
+                        49.2236
+                  ]
+            },
+            {
+                  "name": "Farma Žirafa",
+                  "text": "Ein kleiner Zoo und Streichelzoo in Žilina, ideal für Familien mit Kindern.",
+                  "category": "recreational",
+                  "coords": [
+                        18.746631,
+                        49.213835
+                  ]
+            },
+            {
+                  "name": "Pamätná izba Vrbu a Wetzlera",
+                  "text": "Ein Gedenkraum in Žilina für Rudolf Vrba und Alfréd Wetzler, die aus Auschwitz flohen.",
+                  "category": "museum",
+                  "coords": [
+                        18.738606,
+                        49.22742
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Das städtische Schwimmbad von Žilina bietet Möglichkeiten zum Schwimmen und für Wassersport.",
+                  "category": "recreational",
+                  "coords": [
+                        18.748651,
+                        49.212321
+                  ]
+            },
+            {
+                  "name": "Stanica Žilina-Záriečie",
+                  "text": "Ein unabhängiges Kulturzentrum in Žilina, das in einem funktionierenden Bahnhof untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        18.730871,
+                        49.218288
+                  ]
+            },
+            {
+                  "name": "Považská galéria",
+                  "text": "Eine Kunstgalerie in Žilina, die sich auf moderne und zeitgenössische Kunst konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.742714,
+                        49.224609
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bánová",
+                  "text": "Ein historisches Herrenhaus im Stadtteil Bánová von Žilina.",
+                  "category": "historical",
+                  "coords": [
+                        18.721135,
+                        49.202299
+                  ]
+            },
+            {
+                  "name": "Nová Synagóga Žilina",
+                  "text": "Ein bedeutendes Architekturdenkmal in Žilina, das heute als Kulturraum genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        18.737127,
+                        49.224567
+                  ]
+            },
+            {
+                  "name": "Kráľovská colnica",
+                  "text": "Ein historisches Herrenhaus in Žilina, das früher als königliches Zollamt diente.",
+                  "category": "historical",
+                  "coords": [
+                        18.769769,
+                        49.217258
+                  ]
+            },
+            {
+                  "name": "Vyhliadková veža Dubeň",
+                  "text": "Ein Aussichtsturm auf dem Hügel Dubeň mit weitem Blick über Žilina und Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        18.760302,
+                        49.232954
+                  ]
+            },
+            {
+                  "name": "Tanečná škola Plešinger",
+                  "text": "Ein Zentrum für Tanzsport und künstlerische Ausbildung in Žilina.",
+                  "category": "cultural",
+                  "coords": [
+                        18.73213,
+                        49.219393
+                  ]
+            },
+            {
+                  "name": "Krajská hvezdáreň v Žiline",
+                  "text": "Die Regionalsternwarte in Žilina bietet astronomische Beobachtungen und Bildungsprogramme an.",
+                  "category": "landmark",
+                  "coords": [
+                        18.741071,
+                        49.222342
+                  ]
+            },
+            {
+                  "name": "Pozorovateľňa na Malom diele",
+                  "text": "Ein Aussichtspunkt und Beobachtungsstation in der Nähe von Žilina.",
+                  "category": "landmark",
+                  "coords": [
+                        18.751763,
+                        49.2057
+                  ]
+            },
+            {
+                  "name": "Dom umenia Fatra",
+                  "text": "Ein bedeutendes Kultur- und Konzerthaus in Žilina, Sitz der Staatsphilharmonie.",
+                  "category": "landmark",
+                  "coords": [
+                        18.738348,
+                        49.222564
+                  ]
+            },
+            {
+                  "name": "Dobrého Pastiera",
+                  "text": "Eine moderne katholische Kirche im Stadtteil Solinky in Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.738211,
+                        49.198856
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Ein evangelisches Gotteshaus der Augsburger Konfession in Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.733237,
+                        49.224491
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "Eine barocke Franziskanerkirche in Žilina mit wertvoller Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        18.738704,
+                        49.2254
+                  ]
+            },
+            {
+                  "name": "sv. Štefana Kráľa",
+                  "text": "Die Kirche des Heiligen Königs Stephan ist eines der ältesten Gebäude in Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.726999,
+                        49.21611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bábkové divadlo Žilina",
+                  "text": "Zsolnai bábszínház, amely gyermekek és felnőttek számára is kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        18.736192,
+                        49.22434
+                  ]
+            },
+            {
+                  "name": "Považské múzeum",
+                  "text": "Zsolnai regionális múzeum a környék történelmét és természeti értékeit bemutató tárlatokkal.",
+                  "category": "museum",
+                  "coords": [
+                        18.734975,
+                        49.236269
+                  ]
+            },
+            {
+                  "name": "Žilinský hrad",
+                  "text": "Egy korábbi középkori vár régészeti lelőhelye Zsolnán.",
+                  "category": "historical",
+                  "coords": [
+                        18.740344,
+                        49.224669
+                  ]
+            },
+            {
+                  "name": "Mestské divadlo",
+                  "text": "Zsolna városi színháza, amely drámai előadások változatos programját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.741276,
+                        49.223991
+                  ]
+            },
+            {
+                  "name": "Múzeum židovskej kultúry",
+                  "text": "Ez a múzeum a szlovákiai zsidó közösség történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.744725,
+                        49.2236
+                  ]
+            },
+            {
+                  "name": "Farma Žirafa",
+                  "text": "Kisebb állatkert és állatsimogató Zsolnán, ideális gyermekes családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        18.746631,
+                        49.213835
+                  ]
+            },
+            {
+                  "name": "Pamätná izba Vrbu a Wetzlera",
+                  "text": "Emlékszoba Zsolnán az Auschwitzból megszökött Rudolf Vrba és Alfréd Wetzler tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        18.738606,
+                        49.22742
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Zsolna városi uszodája, amely úszási és vízisportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        18.748651,
+                        49.212321
+                  ]
+            },
+            {
+                  "name": "Stanica Žilina-Záriečie",
+                  "text": "Független kulturális központ Zsolnán, amely egy működő vasútállomáson található.",
+                  "category": "cultural",
+                  "coords": [
+                        18.730871,
+                        49.218288
+                  ]
+            },
+            {
+                  "name": "Považská galéria",
+                  "text": "Zsolnai művészeti galéria, amely a modern és kortárs művészetre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        18.742714,
+                        49.224609
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bánová",
+                  "text": "Történelmi udvarház Zsolna Bánová városrészében.",
+                  "category": "historical",
+                  "coords": [
+                        18.721135,
+                        49.202299
+                  ]
+            },
+            {
+                  "name": "Nová Synagóga Žilina",
+                  "text": "Zsolna egyik jelentős építészeti emléke, amely ma kulturális térként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        18.737127,
+                        49.224567
+                  ]
+            },
+            {
+                  "name": "Kráľovská colnica",
+                  "text": "Történelmi udvarház Zsolnán, amely korábban királyi vámházként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        18.769769,
+                        49.217258
+                  ]
+            },
+            {
+                  "name": "Vyhliadková veža Dubeň",
+                  "text": "Kilátótorony a Dubeň-hegyen, ahonnan pazar kilátás nyílik Zsolnára és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        18.760302,
+                        49.232954
+                  ]
+            },
+            {
+                  "name": "Tanečná škola Plešinger",
+                  "text": "Táncsport- és művészeti oktatási központ Zsolnán.",
+                  "category": "cultural",
+                  "coords": [
+                        18.73213,
+                        49.219393
+                  ]
+            },
+            {
+                  "name": "Krajská hvezdáreň v Žiline",
+                  "text": "Zsolnai regionális csillagvizsgáló, amely csillagászati megfigyeléseket és oktatást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.741071,
+                        49.222342
+                  ]
+            },
+            {
+                  "name": "Pozorovateľňa na Malom diele",
+                  "text": "Kilátópont és megfigyelőállomás Zsolna közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        18.751763,
+                        49.2057
+                  ]
+            },
+            {
+                  "name": "Dom umenia Fatra",
+                  "text": "Zsolna fontos kulturális és koncerthelyszíne, az Állami Filharmonikusok székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        18.738348,
+                        49.222564
+                  ]
+            },
+            {
+                  "name": "Dobrého Pastiera",
+                  "text": "Modern római katolikus templom Zsolna Solinky lakótelepén.",
+                  "category": "religious",
+                  "coords": [
+                        18.738211,
+                        49.198856
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "Ágostai hitvallású evangélikus templom Zsolnán.",
+                  "category": "religious",
+                  "coords": [
+                        18.733237,
+                        49.224491
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "Zsolnai barokk ferences templom értékes belső berendezéssel.",
+                  "category": "religious",
+                  "coords": [
+                        18.738704,
+                        49.2254
+                  ]
+            },
+            {
+                  "name": "sv. Štefana Kráľa",
+                  "text": "Szent István király-templom, Zsolna egyik legrégebbi épülete.",
+                  "category": "religious",
+                  "coords": [
+                        18.726999,
+                        49.21611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bábkové divadlo Žilina",
+                  "text": "Un teatru de păpuși profesionist din Žilina, cu spectacole pentru copii și adulți.",
+                  "category": "cultural",
+                  "coords": [
+                        18.736192,
+                        49.22434
+                  ]
+            },
+            {
+                  "name": "Považské múzeum",
+                  "text": "Un muzeu regional din Žilina cu expoziții despre istoria și natura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        18.734975,
+                        49.236269
+                  ]
+            },
+            {
+                  "name": "Žilinský hrad",
+                  "text": "Situl arheologic al unui fost castel medieval din Žilina.",
+                  "category": "historical",
+                  "coords": [
+                        18.740344,
+                        49.224669
+                  ]
+            },
+            {
+                  "name": "Mestské divadlo",
+                  "text": "Teatrul municipal din Žilina oferă un program variat de spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        18.741276,
+                        49.223991
+                  ]
+            },
+            {
+                  "name": "Múzeum židovskej kultúry",
+                  "text": "Acest muzeu documentează istoria și cultura comunității evreiești din Slovacia.",
+                  "category": "museum",
+                  "coords": [
+                        18.744725,
+                        49.2236
+                  ]
+            },
+            {
+                  "name": "Farma Žirafa",
+                  "text": "O mică grădină zoologică din Žilina, ideală pentru familiile cu copii.",
+                  "category": "recreational",
+                  "coords": [
+                        18.746631,
+                        49.213835
+                  ]
+            },
+            {
+                  "name": "Pamätná izba Vrbu a Wetzlera",
+                  "text": "O cameră memorială în Žilina dedicată lui Rudolf Vrba și Alfréd Wetzler, care au evadat de la Auschwitz.",
+                  "category": "museum",
+                  "coords": [
+                        18.738606,
+                        49.22742
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "Piscina municipală din Žilina oferă facilități pentru înot și sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        18.748651,
+                        49.212321
+                  ]
+            },
+            {
+                  "name": "Stanica Žilina-Záriečie",
+                  "text": "Un centru cultural independent din Žilina, situat într-o gară funcțională.",
+                  "category": "cultural",
+                  "coords": [
+                        18.730871,
+                        49.218288
+                  ]
+            },
+            {
+                  "name": "Považská galéria",
+                  "text": "O galerie de artă din Žilina axată pe arta modernă și contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        18.742714,
+                        49.224609
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bánová",
+                  "text": "Un conac istoric situat în cartierul Bánová din Žilina.",
+                  "category": "historical",
+                  "coords": [
+                        18.721135,
+                        49.202299
+                  ]
+            },
+            {
+                  "name": "Nová Synagóga Žilina",
+                  "text": "Un important monument arhitectural din Žilina, folosit astăzi ca spațiu cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        18.737127,
+                        49.224567
+                  ]
+            },
+            {
+                  "name": "Kráľovská colnica",
+                  "text": "Un conac istoric din Žilina care a servit anterior ca vamă regală.",
+                  "category": "historical",
+                  "coords": [
+                        18.769769,
+                        49.217258
+                  ]
+            },
+            {
+                  "name": "Vyhliadková veža Dubeň",
+                  "text": "Un turn de observație pe dealul Dubeň, oferind o vedere panoramică asupra orașului Žilina.",
+                  "category": "natural",
+                  "coords": [
+                        18.760302,
+                        49.232954
+                  ]
+            },
+            {
+                  "name": "Tanečná škola Plešinger",
+                  "text": "Un centru pentru dans sportiv și educație artistică în Žilina.",
+                  "category": "cultural",
+                  "coords": [
+                        18.73213,
+                        49.219393
+                  ]
+            },
+            {
+                  "name": "Krajská hvezdáreň v Žiline",
+                  "text": "Observatorul regional din Žilina oferă observații astronomice și programe educaționale.",
+                  "category": "landmark",
+                  "coords": [
+                        18.741071,
+                        49.222342
+                  ]
+            },
+            {
+                  "name": "Pozorovateľňa na Malom diele",
+                  "text": "Un punct de belvedere și stație de observație lângă Žilina.",
+                  "category": "landmark",
+                  "coords": [
+                        18.751763,
+                        49.2057
+                  ]
+            },
+            {
+                  "name": "Dom umenia Fatra",
+                  "text": "O casă de cultură și concerte importantă din Žilina, sediul Filarmonicii de Stat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.738348,
+                        49.222564
+                  ]
+            },
+            {
+                  "name": "Dobrého Pastiera",
+                  "text": "O biserică catolică modernă situată în cartierul Solinky din Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.738211,
+                        49.198856
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "O biserică evanghelică de confesiune augustană în Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.733237,
+                        49.224491
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "O biserică franciscană barocă în Žilina, cu un interior valoros.",
+                  "category": "religious",
+                  "coords": [
+                        18.738704,
+                        49.2254
+                  ]
+            },
+            {
+                  "name": "sv. Štefana Kráľa",
+                  "text": "Biserica Sfântul Ștefan Regele este una dintre cele mai vechi clădiri din Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.726999,
+                        49.21611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bábkové divadlo Žilina",
+                  "text": "A professional puppet theatre in Žilina performing plays for children and adults.",
+                  "category": "cultural",
+                  "coords": [
+                        18.736192,
+                        49.22434
+                  ]
+            },
+            {
+                  "name": "Považské múzeum",
+                  "text": "A regional museum in Žilina featuring exhibits on local history and nature.",
+                  "category": "museum",
+                  "coords": [
+                        18.734975,
+                        49.236269
+                  ]
+            },
+            {
+                  "name": "Žilinský hrad",
+                  "text": "The archaeological site of a former medieval castle in Žilina.",
+                  "category": "historical",
+                  "coords": [
+                        18.740344,
+                        49.224669
+                  ]
+            },
+            {
+                  "name": "Mestské divadlo",
+                  "text": "The municipal theatre of Žilina offers a varied program of dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.741276,
+                        49.223991
+                  ]
+            },
+            {
+                  "name": "Múzeum židovskej kultúry",
+                  "text": "This museum documents the history and culture of the Jewish community in Slovakia.",
+                  "category": "museum",
+                  "coords": [
+                        18.744725,
+                        49.2236
+                  ]
+            },
+            {
+                  "name": "Farma Žirafa",
+                  "text": "A small zoo and petting farm in Žilina, ideal for families with children.",
+                  "category": "recreational",
+                  "coords": [
+                        18.746631,
+                        49.213835
+                  ]
+            },
+            {
+                  "name": "Pamätná izba Vrbu a Wetzlera",
+                  "text": "A memorial room in Žilina for Rudolf Vrba and Alfréd Wetzler, who escaped from Auschwitz.",
+                  "category": "museum",
+                  "coords": [
+                        18.738606,
+                        49.22742
+                  ]
+            },
+            {
+                  "name": "Mestská plaváreň",
+                  "text": "The municipal swimming pool of Žilina offers facilities for swimming and water sports.",
+                  "category": "recreational",
+                  "coords": [
+                        18.748651,
+                        49.212321
+                  ]
+            },
+            {
+                  "name": "Stanica Žilina-Záriečie",
+                  "text": "An independent cultural center in Žilina located in a functioning railway station.",
+                  "category": "cultural",
+                  "coords": [
+                        18.730871,
+                        49.218288
+                  ]
+            },
+            {
+                  "name": "Považská galéria",
+                  "text": "An art gallery in Žilina focusing on modern and contemporary art.",
+                  "category": "cultural",
+                  "coords": [
+                        18.742714,
+                        49.224609
+                  ]
+            },
+            {
+                  "name": "Kaštieľ Bánová",
+                  "text": "A historical manor house in the Bánová district of Žilina.",
+                  "category": "historical",
+                  "coords": [
+                        18.721135,
+                        49.202299
+                  ]
+            },
+            {
+                  "name": "Nová Synagóga Žilina",
+                  "text": "A significant architectural monument in Žilina, now used as a cultural space.",
+                  "category": "cultural",
+                  "coords": [
+                        18.737127,
+                        49.224567
+                  ]
+            },
+            {
+                  "name": "Kráľovská colnica",
+                  "text": "A historical manor house in Žilina that formerly served as a royal custom house.",
+                  "category": "historical",
+                  "coords": [
+                        18.769769,
+                        49.217258
+                  ]
+            },
+            {
+                  "name": "Vyhliadková veža Dubeň",
+                  "text": "An observation tower on Dubeň hill offering wide views of Žilina and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        18.760302,
+                        49.232954
+                  ]
+            },
+            {
+                  "name": "Tanečná škola Plešinger",
+                  "text": "A center for dance sports and artistic education in Žilina.",
+                  "category": "cultural",
+                  "coords": [
+                        18.73213,
+                        49.219393
+                  ]
+            },
+            {
+                  "name": "Krajská hvezdáreň v Žiline",
+                  "text": "The regional observatory in Žilina offers astronomical observations and educational programs.",
+                  "category": "landmark",
+                  "coords": [
+                        18.741071,
+                        49.222342
+                  ]
+            },
+            {
+                  "name": "Pozorovateľňa na Malom diele",
+                  "text": "A viewpoint and observation station located near Žilina.",
+                  "category": "landmark",
+                  "coords": [
+                        18.751763,
+                        49.2057
+                  ]
+            },
+            {
+                  "name": "Dom umenia Fatra",
+                  "text": "A significant cultural and concert hall in Žilina, seat of the State Philharmonic.",
+                  "category": "landmark",
+                  "coords": [
+                        18.738348,
+                        49.222564
+                  ]
+            },
+            {
+                  "name": "Dobrého Pastiera",
+                  "text": "A modern Catholic church located in the Solinky district of Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.738211,
+                        49.198856
+                  ]
+            },
+            {
+                  "name": "Evanjelický a. v. kostol",
+                  "text": "An Evangelical church of the Augsburg Confession in Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.733237,
+                        49.224491
+                  ]
+            },
+            {
+                  "name": "Kostol sv. Barbory",
+                  "text": "A Baroque Franciscan church in Žilina featuring valuable interior decorations.",
+                  "category": "religious",
+                  "coords": [
+                        18.738704,
+                        49.2254
+                  ]
+            },
+            {
+                  "name": "sv. Štefana Kráľa",
+                  "text": "St. Stephen the King Church is one of the oldest buildings in Žilina.",
+                  "category": "religious",
+                  "coords": [
+                        18.726999,
+                        49.21611
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-slovakia",
     coords: [18.7408, 49.2236],

@@ -3,7 +3,1636 @@ import { POI } from './poi';
 export const monacoCitiesV2: POI[] = [
 
   {
-    id: "monaco-jardin-val-thore-cities-v2",
+    id: "monaco-jardin-val-thore-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Diese Sammlung in Val Thore zeigt die beeindruckenden privaten Automobile des Fürsten von Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Ozeanographisches Museum Monaco",
+                  "text": "Das von Fürst Albert I. gegründete Ozeanographische Museum ist ein weltberühmtes Zentrum für Meereskunde.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Ein markantes Herrenhaus in Val Thore mit Blick auf die Küste.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Ein römisches Siegesdenkmal aus dem 1. Jahrhundert v. Chr. zur Feier der Siege des Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Ein bedeutendes Theater in Val Thore, das nach Fürstin Gracia Patricia benannt wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Eine historische Kapelle in Val Thore, die für ihre religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Diese Kapelle in Val Thore ist der Schutzpatronin von Monaco gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Eine bedeutende catholiche Kirche im Stil der Neorenaissance in Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Eine charmante Kirche im Stadtteil Fontvieille von Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Eine Kirche in Val Thore, die für ihre ruhige Atmosphäre und Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Das geistliche Zentrum der jüdischen Gemeinde in Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Ein prächtiges Opernhaus in Val Thore, entworfen vom Architekten Charles Garnier.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanischer Garten",
+                  "text": "Ein friedlicher Zen-Garten in Val Thore, der nach japanischen Prinzipien gestaltet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Ein markanter Berggipfel bei Val Thore, der einen Panoramablick über die Riviera bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Exotischer Garten",
+                  "text": "Ein berühmter Garten in Val Thore, der für seine riesige Sammlung exotischer Sukkulenten bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Der zoologische Garten von Val Thore bietet Einblicke in die lokale und exotische Tierwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Eine katholische Kirche in Val Thore, die der Muttergottes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Eine historische Kirche in Val Thore, die dem heiligen Martin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Eine Kirche in Val Thore, die dem Heiligsten Herzen Jesu geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Ein religiöses Heiligtum in Val Thore, das dem heiligen Josef gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Eine kleine Kapelle in Val Thore, die dem heiligen Rochus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille ist ein Berggipfel in Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Der Princess Grace Rose Garden ist ein bekannter Rosengarten in Val Thore.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala ist ein malerischer Strand in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Marquet Beach ist ein Badestrand in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Dieses Museum in Val Thore stellt die private Autosammlung des Fürsten von Monaco aus.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias ist ein lokales Museum in Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Exhibition Hall ist eine Ausstellungsstätte für Museen in Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Diese Galerie in Val Thore widmet sich der Motorsportgeschichte der Formel 1.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth ist eine Galerie für zeitgenössische Kunst in Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er ist eine historische Festungsanlage in Val Thore.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Das Auditorium Rainier III ist ein Veranstaltungsort für Theater und Konzerte in Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Théâtre des Muses ist ein kleineres Theater in Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Théâtre de plein air Jean Cocteau ist ein Freilichttheater in Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Die Fairmont-Haarnadelkurve ist ein berühmter Streckenabschnitt in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Grotte Bleue ist eine natürliche Attraktion in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Chapiteau de Fontvieille ist ein bekannter Veranstaltungsort in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium ist eine künstliche Badeplattform in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach ist ein Privatstrand in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien ist ein markanter Aussichtspunkt über Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie ist ein Aussichtspunkt in Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Die Orientierungstafel am Mont des Mules bietet Panoramablicke über Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo ist eine Wellness- und Badeanlage in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) ist ein Strandabschnitt in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Plage de Bon Voyage ist ein Küstenstreifen in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Ez a Val Thore-i gyűjtemény Monaco hercegének lenyűgöző magánautóit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Az I. Albert herceg által alapított Óceánográfiai Múzeum világhírű tengerkutatási központ.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Jellegzetes udvarház Val Thore-ban, kilátással a tengerpartra.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Római győzelmi emlékmű az i. e. 1. századból, Augustus győzelmeinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Jelentős színház Val Thore-ban, amelyet Gracia Patricia hercegnőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Történelmi kápolna Val Thore-ban, amely vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Ez a Val Thore-i kápolna Monaco védőszentjének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Jelentős neoreneszánsz stílusú katolikus templom Val Thore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Bájos templom Val Thore Fontvieille negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Templom Val Thore-ban, amely nyugodt légköréről és építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "A Val Thore-i zsidó közösség lelki központja.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Pompás operaház Val Thore-ban, amelyet Charles Garnier építész tervezett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "Békés zen kert Val Thore-ban, amelyet japán elvek alapján alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Jellegzetes hegycsúcs Val Thore közelében, ahonnan panorámás kilátás nyílik a Riviérára.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "Híres kert Val Thore-ban, amely egzotikus pozsgás növények hatalmas gyűjteményéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Val Thore állatkertje bepillantást nyújt a helyi és egzotikus állatvilágba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Szűz Máriának szentelt katolikus templom Val Thore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Szent Mártonnak szentelt történelmi templom Val Thore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Jézus Szentséges Szívének szentelt templom Val Thore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Szent Józsefnek szentelt vallási kegyhely Val Thore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Szent Rókusnak szentelt kis kápolna Val Thore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "A Mont de la Bataille egy hegycsúcs Val Thore területén.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "A Princess Grace Rose Garden egy híres rózsakert Val Thore területén.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "A Plage de la Mala egy festői tengerpart Val Thore területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "A Marquet Beach egy fürdőzésre alkalmas tengerpart Val Thore területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Ez a Val Thore-i múzeum a monacói herceg magánautó-gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "A Villa les Camélias egy helyi múzeum Val Thore területén.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Az Exhibition Hall egy kiállítóterem Val Thore területén.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Ez a Val Thore-i galéria a Forma-1 motorsporttörténetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A Hauser & Wirth egy kortárs művészeti galéria Val Thore területén.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "A Fort Antoine 1er egy történelmi erődítmény Val Thore területén.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Az Auditorium Rainier III egy színházi és koncerthelyszín Val Thore területén.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "A Théâtre des Muses egy kisebb színház Val Thore területén.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "A Théâtre de plein air Jean Cocteau egy szabadtéri színház Val Thore területén.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "A Fairmont-tűkanyar egy híres útszakasz Val Thore területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "A Grotte Bleue egy természeti látványosság Val Thore területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "A Chapiteau de Fontvieille egy híres rendezvényhelyszín Val Thore területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "A Plage du Solarium egy mesterséges fürdőhely Val Thore területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "A Le Méridien • Beach egy magánstrand Val Thore területén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "A Tête de Chien egy jellegzetes kilátópont Val Thore felett.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "A Nuit à la turbie egy kilátópont Val Thore területén.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "A Mont des Mules tájékozódási táblája panorámás kilátást nyújt Val Thore környékére.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "A Thermes Marins Monte-Carlo egy gyógyfürdő és wellness központ Val Thore területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "A Plage Pointe des Douaniers (Est) egy tengerparti szakasz Val Thore területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "A Plage de Bon Voyage egy tengerparti rész Val Thore területén.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Această colecție din Val Thore prezintă impresionantele automobile private ale Prințului de Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Muzeul Oceanografic, fondat de Prințul Albert I, este un centru de renume mondial pentru științele marine.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Un conac distinctiv în Val Thore, cu vedere spre coastă.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Un monument roman de victorie din secolul I î.Hr., celebrând victoriile lui Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Un teatru important în Val Thore, numit după Prințesa Grace.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "O chapelă istorică în Val Thore, cunoscută pentru semnificația sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Această chapelă din Val Thore este dedicată patroanei spirituale a Monaco-ului.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "O biserică catolică importantă în stil neorenascentist în Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "O biserică fermecătoare în cartierul Fontvieille din Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "O biserică din Val Thore, cunoscută pentru atmosfera sa liniștită și arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Centrul spiritual al comunității evreiești din Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "O operă splendidă în Val Thore, proiectată de arhitectul Charles Garnier.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "O grădină zen liniștită în Val Thore, amenajată conform principiilor japoneze.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Un vârf muntos distinctiv lângă Val Thore, oferind o vedere panoramică asupra Rivierei.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "O grădină celebră în Val Thore, cunoscută pentru colecția sa vastă de plante suculente exotice.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Grădina zoologică din Val Thore oferă o privire asupra lumii animale locale și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "O biserică catolică în Val Thore, dedicată Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "O biserică istorică din Val Thore, dedicată Sfântului Martin.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "O biserică din Val Thore, dedicată Preasfintei Inimi a lui Iisus.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Un sanctuar religios în Val Thore, dedicat Sfântului Iosif.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "O mică chapelă în Val Thore, dedicată Sfântului Roch.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille este un vârf montan din Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Princess Grace Rose Garden este o grădină de trandafiri celebră din Val Thore.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala este o plajă pitorească din Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Marquet Beach este o plajă de scăldat din Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Acest muzeu din Val Thore expune colecția privată de mașini a Prințului de Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias este un muzeu local din Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Exhibition Hall este o sală de expoziții muzeale din Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Această galerie din Val Thore este dedicată istoriei sportului cu motor Formula 1.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth este o galerie de artă contemporană din Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er este o fortificație istorică din Val Thore.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Auditorium Rainier III este o sală de spectacole și teatru din Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Théâtre des Muses este un teatru mai mic din Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Théâtre de plein air Jean Cocteau este un teatru în aer liber din Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Acul de păr Fairmont este o secțiune celebră a traseului din Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Grotte Bleue este o atracție naturală din Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Chapiteau de Fontvieille este un loc de evenimente cunoscut din Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium este o platformă de plajă artificială din Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach este o plajă privată din Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien este un punct de belvedere proeminent deasupra Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie este un punct de belvedere din Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Masa de orientare de pe Mont des Mules oferă vederi panoramice asupra Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo este un centru termal și de wellness din Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) este o secțiune de plajă din Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Plage de Bon Voyage este o zonă de plajă din Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cars collection of HSH the Prince of Monaco",
+                  "text": "This collection in Val Thore displays the impressive private automobiles of the Prince of Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Oceanographic Museum of Monaco",
+                  "text": "The Oceanographic Museum, founded by Prince Albert I, is a world-renowned centre for marine science.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "A distinctive manor house in Val Thore overlooking the coast.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "A Roman victory monument from the 1st century BC, celebrating Augustus's victories.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "An important theatre in Val Thore named after Princess Grace.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "A historical chapel in Val Thore known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "This chapel in Val Thore is dedicated to the patron saint of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "An important Neo-Renaissance style Catholic church in Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "A charming church located in the Fontvieille district of Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "A church in Val Thore known for its peaceful atmosphere and architecture.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "The spiritual centre of the Jewish community in Val Thore.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "A splendid opera house in Val Thore designed by architect Charles Garnier.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "A peaceful Zen garden in Val Thore, designed according to Japanese principles.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "A prominent mountain peak near Val Thore offering panoramic views over the Riviera.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "A famous garden in Val Thore known for its vast collection of exotic succulents.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Zoological Garden of Monaco",
+                  "text": "The zoological garden of Val Thore offers insights into local and exotic wildlife.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "A Catholic church in Val Thore dedicated to Our Lady.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A historical church in Val Thore dedicated to Saint Martin.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "A church in Val Thore dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "A religious sanctuary in Val Thore dedicated to Saint Joseph.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "A small chapel in Val Thore dedicated to Saint Roch.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille is a mountain peak in Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Princess Grace Rose Garden",
+                  "text": "The Princess Grace Rose Garden is a famous rose garden in Val Thore.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala is a picturesque beach in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Marquet Beach",
+                  "text": "Marquet Beach is a swimming beach in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "The Car Collection of HSH the Prince of Monaco",
+                  "text": "This museum in Val Thore exhibits the private car collection of the Prince of Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias is a local museum in Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "Exhibition Hall is a museum exhibition space in Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "This gallery in Val Thore is dedicated to Formula 1 motorsport history.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth is a contemporary art gallery in Val Thore.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er is a historic fortification in Val Thore.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Auditorium Rainier III is a theatre and concert venue in Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Théâtre des Muses is a small theatre in Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Théâtre de plein air Jean Cocteau is an open-air theatre in Val Thore.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "The Fairmont Hairpin is a famous section of the race track in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Grotte Bleue is a natural attraction in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Chapiteau de Fontvieille is a well-known event venue in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium is an artificial beach platform in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach is a private beach in Val Thore.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien is a prominent viewpoint overlooking Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie is a viewpoint in Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "The orientation table at Mont des Mules offers panoramic views over Val Thore.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo is a spa and wellness complex in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) is a beach area in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Plage de Bon Voyage is a coastal beach area in Val Thore.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MC",
     name: { de: "Val Thore", hu: "Val Thore", ro: "Val Thore", en: "Val Thore" },
@@ -48,7 +1677,1636 @@ export const monacoCitiesV2: POI[] = [
     image: "/poi-images/monaco-jardin-val-thore-cities-v2.webp",
   },
   {
-    id: "monaco-les-revoires-cities-v2",
+    id: "monaco-les-revoires-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Die private Oldtimer-Sammlung von Fürst Rainier III. von Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Ozeanographisches Museum Monaco",
+                  "text": "Ein weltberühmtes Museum für Meereskunde und Aquarien in Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Eine prächtige historische Villa an der Grenze zu Monaco, einst Wohnsitz von Karl Lagerfeld.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Ein imposantes römisches Siegesdenkmal in La Turbie nahe Monaco.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Ein nach Prinzessin Grace benanntes Theater mit vielfältigem Programm in Monaco.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Eine Barockkapelle in der Altstadt von Monaco, Sitz der Bruderschaft der Schwarzen Büßer.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Eine Kirche, die der Schutzpatronin von Monaco gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Eine im Neorenaissancestil erbaut Kirche in Monte Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Die Pfarrkirche des Stadtteils Fontvieille in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Eine katholische Kirche des Ordens der Karmeliten in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Das jüdische Gebetshaus für die Gemeinde im Fürstentum Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Das prachtvolle Opernhaus von Monte Carlo, entworfen von Charles Garnier.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanischer Garten",
+                  "text": "Ein meditativer japanischer Garten direkt am Meer in Monaco.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Ein markanter Felsenberg mit spektakulärem Blick über Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Exotischer Garten",
+                  "text": "Ein berühmter botanischer Garten mit einer großen Sammlung von Sukkulenten in Monaco.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Der zoologische Garten von Monaco im Stadtteil Fontvieille.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Eine katholische Kirche in der Nähe von Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Eine moderne Kirche in Cap-d'Ail an der Grenze zu Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Eine religiöse Gebetsstätte in der Umgebung von Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Die Herz-Jesu-Kirche in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Ein religiöses Heiligtum, das dem Heiligen Josef in Monaco gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Eine kleine historische Kapelle in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Ein Hügel in den Seealpen oberhalb von Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Ein wunderschöner Rosengarten in Fontvieille, angelegt zum Gedenken an Prinzessin Grace.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Ein malerischer Strand in der Nähe von Les Révoires, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Ein beliebter Küstenabschnitt bei Les Révoires, ideal zum Entspannen am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Die beeindruckende private Autosammlung des Fürsten von Monaco in Les Révoires.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Ein Museum in Les Révoires, das regionale Kunst und Geschichte in einer historischen Villa präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Ein Veranstaltungsort für verschiedene Ausstellungen und kulturelle Events in Les Révoires.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Eine Galerie in Les Révoires, die sich auf den Motorsport und die Geschichte der Formel 1 konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Les Révoires, die internationale Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Eine historische Festungsanlage in Les Révoires, die heute oft für Freiluftaufführungen genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Ein bedeutendes Konzerthaus in Les Révoires, bekannt für seine hervorragende Akustik.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Ein gemütliches Theater in Les Révoires, das ein abwechslungsreiches Programm an Stücken bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Ein unter freiem Himmel gelegenes Theater in Les Révoires für kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Die berühmte, engste Kurve der Formel-1-Rennstrecke von Monaco in Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Eine natürliche Grotte oder Attraktion in der Umgebung von Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Ein bekannter Veranstaltungsort in Les Révoires, oft für Zirkusfestivals und Galas genutzt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Ein beliebter Badeplatz am Meer in Les Révoires mit Liegeflächen zum Sonnen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Ein exklusiver Strandbereich, der zum Méridien-Komplex in Les Révoires gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Ein markanter Aussichtspunkt auf einem Felsen oberhalb von Les Révoires mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Ein Aussichtspunkt in Les Révoires mit Blick auf die Gemeinde La Turbie.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Eine Orientierungstafel auf dem Mont des Mules bei Les Révoires mit weitem Ausblick.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Ein luxuriöses Wellness- und Thalassotherapie-Zentrum in Les Révoires.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "Ein abgelegener FKK-Strand in der Nähe von Les Révoires.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Monaco hercegének magánautó-gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Világhírű tengerkutatási múzeum és akvárium Monacóban.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Pompás történelmi villa Monaco határán, egykor Karl Lagerfeld lakhelye.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Impozáns római győzelmi emlékmű La Turbie-ban, Monaco közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Grace hercegnőről elnevezett színház változatos programokkal Monacóban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Barokk kápolna Monaco óvárosában, a Fekete Bűnbánók testvériségének székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Monaco védőszentjének szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Neoreneszánsz stílusú templom Monte-Carlóban.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Monaco Fontvieille negyedének plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "A karmelita rend katolikus temploma Monacóban.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "A monacói hercegség zsidó közösségének imaháza.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "A Monte-Carlo-i operaház pazar épülete, amelyet Charles Garnier tervezett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "Meditatív japán kert közvetlenül a tengerparton Monacóban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Jellegzetes sziklahegy, ahonnan látványos kilátás nyílik Monacóra.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "Híres botanikus kert Monacóban, pozsgás növények hatalmas gyűjteményével.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Monaco állatkertje Fontvieille negyedben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Katolikus templom Monaco közelében.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Modern templom Cap-d'Ailban, Monaco határán.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Vallási kegyhely Monaco környékén.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "A monacói Szent Szív-templom.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Szent Józsefnek szentelt vallási szentély Monacóban.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Kis történelmi kápolna Monacóban.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Domb a Tengeri-Alpokban, Monaco felett.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Gyönyörű rózsakert Fontvieille-ben, amelyet Grace hercegnő emlékére hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Gondozott tengerparti strand Les Révoires közelében, tiszta vízzel.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Népszerű tengerparti szakasz Les Révoires közelében, ideális pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Monaco hercegének lenyűgöző magánautó-gyűjteménye Les Révoires-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Regionális művészeti és történelmi múzeum Les Révoires-ban, egy történelmi villában.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Különböző kiállításoknak és kulturális eseményeknek otthont adó helyszín Les Révoires-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Galéria Les Révoires-ban, amely a motorsportra és a Forma-1 történetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Kortárs művészeti galéria Les Révoires-ban, amely nemzetközi művészeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Történelmi erődítmény Les Révoires-ban, amelyet ma gyakran szabadtéri előadásokra használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Jelentős hangversenyterem Les Révoires-ban, amely kiváló akusztikájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Hangulatos színház Les Révoires-ban, amely változatos színdarabokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Szabadtéri színház Les Révoires-ban kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "A monacói Forma-1-es versenypálya híres, legszűkebb kanyarja Les Révoires-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Természetes barlang vagy látnivaló Les Révoires környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Ismert rendezvényhelyszín Les Révoires-ban, gyakran cirkuszfesztiválok és gálák helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Népszerű tengerparti fürdőhely Les Révoires-ban napozóhelyekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Exkluzív strandterület, amely a Les Révoires-i Méridien komplexumhoz tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Jellegzetes kilátópont egy sziklán Les Révoires felett, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Kilátópont Les Révoires-ban, kilátással La Turbie községre.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Tájékozódási tábla a Mont des Mules-nél Les Révoires közelében, széles kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Luxus wellness- és talasszoterápiás központ Les Révoires-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "Elszigetelt nudista strand Les Révoires közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Colecția privată de automobile a Prințului de Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Un muzeu de oceanografie și acvariu renumit în întreaga lume din Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "O vilă istorică somptuoasă la granița cu Monaco, fosta reședință a lui Karl Lagerfeld.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Un impunător monument de victorie roman din La Turbie, lângă Monaco.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Un teatru numit după Prințesa Grace, cu un program variat în Monaco.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "O capelă barocă din orașul vechi al Monaco, sediul confreriei Penitenților Negri.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "O biserică dedicată patroanei spirituale a principatului Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "O biserică construită în stil neorenascentist în Monte Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Biserica parohială a cartierului Fontvieille din Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "O biserică catolică a ordinului carmelit din Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Casa de rugăciune evreiască pentru comunitatea din Principatul Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Splendida operă din Monte Carlo, proiectată de Charles Garnier.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "O grădină japoneză meditativă situată pe malul mării în Monaco.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Un promontoriu stâncos proeminent cu o vedere spectaculoasă asupra Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "O faimoasă grădină botanică cu o colecție bogată de plante suculente din Monaco.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Grădina zoologică din Monaco situată în districtul Fontvieille.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "O biserică catolică situată în apropiere de Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "O biserică modernă din Cap-d'Ail, la granița cu Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Un lăcaș de cult religios în împrejurimile Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Biserica Sacré Coeur din Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Un sanctuar religios dedicat Sfântului Iosif în Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "O mică capelă istorică din Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Un deal din Alpii Maritimi situat deasupra Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "O grădină de trandafiri superbă în Fontvieille, creată în memoria Prințesei Grace.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "O plajă pitorească situată lângă Les Révoires, cunoscută pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "O secțiune populară de coastă lângă Les Révoires, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Impresionanta colecție privată de mașini a Prințului de Monaco din Les Révoires.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Un muzeu din Les Révoires care prezintă artă și istorie regională într-o vilă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "O locație pentru diverse expoziții și evenimente culturale în Les Révoires.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "O galerie în Les Révoires concentrată pe sportul cu motor și istoria Formulei 1.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "O galerie de artă contemporană în Les Révoires care prezintă artiști internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "O fortificație istorică în Les Révoires, utilizată astăzi adesea pentru spectacole în aer liber.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "O sală de concerte importantă în Les Révoires, cunoscută pentru acustica sa excelentă.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Un teatru primitor în Les Révoires, care oferă un program variat de piese.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Un teatru în aer liber în Les Révoires pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Cea mai faimoasă și strânsă curbă a circuitului de Formula 1 din Monaco, situată în Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "O grotă naturală sau atracție în împrejurimile localității Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "O locație renumită în Les Révoires, folosită adesea pentru festivaluri de circ și gale.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Un loc popular pentru scăldat în mare în Les Révoires, cu zone pentru plajă.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "O zonă de plajă exclusivistă aparținând complexului Méridien din Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Un punct de observație proeminent pe o stâncă deasupra Les Révoires, cu vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Un punct de observație în Les Révoires cu vedere spre comuna La Turbie.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "O masă de orientare pe Mont des Mules lângă Les Révoires, cu o priveliște vastă.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Un centru de wellness și talasoterapie de lux în Les Révoires.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "O plajă de nudiști retrasă situată lângă Les Révoires.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cars collection of HSH the Prince of Monaco",
+                  "text": "The private collection of vintage cars belonging to the Prince of Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Oceanographic Museum of Monaco",
+                  "text": "A world-famous museum of oceanography and aquarium in Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "A grand historical villa on the border of Monaco, once the residence of Karl Lagerfeld.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "An imposing Roman victory monument located in La Turbie near Monaco.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "A theatre named after Princess Grace with a diverse program in Monaco.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "A Baroque chapel in Monaco's Old Town, seat of the brotherhood of Black Penitents.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "A church dedicated to the patron saint of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "A church built in the Neo-Renaissance style in Monte Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "The parish church of the Fontvieille district in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "A Catholic church of the Carmelite order in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "The Jewish place of worship for the community in the Principality of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "The grand opera house of Monte Carlo, designed by Charles Garnier.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "A meditative Japanese garden located right on the seafront in Monaco.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "A prominent rocky peak with spectacular views over Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "A famous botanical garden in Monaco with a vast collection of succulents.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Zoological Garden of Monaco",
+                  "text": "The zoological garden of Monaco located in the Fontvieille district.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "A Catholic church located near Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "A modern church in Cap-d'Ail on the border of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A religious place of worship in the surroundings of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "The Sacred Heart church in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "A religious sanctuary dedicated to Saint Joseph in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "A small historical chapel in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "A hill in the Maritime Alps located above Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Princess Grace Rose Garden",
+                  "text": "A beautiful rose garden in Fontvieille, created in memory of Princess Grace.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "A picturesque beach located near Les Révoires, known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Marquet Beach",
+                  "text": "A popular coastal stretch near Les Révoires, ideal for relaxing by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "The Car Collection of HSH the Prince of Monaco",
+                  "text": "The impressive private car collection of the Prince of Monaco in Les Révoires.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "A museum in Les Révoires presenting regional art and history in a historic villa.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "A venue for various exhibitions and cultural events in Les Révoires.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "A gallery in Les Révoires focused on motorsport and Formula 1 history.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A contemporary art gallery in Les Révoires showcasing international artists.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "A historical fortification in Les Révoires, now often used for open-air performances.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "A prominent concert hall in Les Révoires, known for its excellent acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "A cozy theatre in Les Révoires offering a diverse program of plays.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "An outdoor theatre in Les Révoires used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "The famous, tightest hairpin on the Monaco Formula 1 circuit in Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "A natural grotto or attraction in the surroundings of Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "A well-known venue in Les Révoires, often used for circus festivals and galas.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "A popular seaside bathing spot in Les Révoires with areas for sunbathing.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "An exclusive beach area belonging to the Méridien complex in Les Révoires.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "A prominent viewpoint on a rock above Les Révoires with panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "A viewpoint in Les Révoires offering views towards the commune of La Turbie.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "An orientation table on Mont des Mules near Les Révoires with a wide view.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "A luxurious wellness and thalassotherapy centre in Les Révoires.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "A secluded nudist beach located near Les Révoires.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MC",
     name: { de: "Les Révoires", hu: "Les Révoires", ro: "Les Révoires", en: "Les Révoires" },

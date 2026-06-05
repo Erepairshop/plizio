@@ -777,7 +777,160 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-varna-roman-thermae-history-v2.webp",
   },
   {
-    id: "bulgaria-zheravna-architectural-history-v2",
+    id: "bulgaria-zheravna-architectural-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Къща на Сава Филаретов",
+                  "text": "Ein Museum im Architekturreservat Scherawna, das dem Gelehrten Sawa Filaretow gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.458386,
+                        42.834032
+                  ]
+            },
+            {
+                  "name": "Къща-музей Йордан Йовков",
+                  "text": "Ein Museum zu Ehren des berühmten bulgarischen Schriftstellers Jordan Jowkow in seinem Geburtsort Scherawna.",
+                  "category": "museum",
+                  "coords": [
+                        26.456984,
+                        42.832534
+                  ]
+            },
+            {
+                  "name": "Бележити жеравненци",
+                  "text": "Ein Denkmal zu Ehren der berühmten Persönlichkeiten aus dem Dorf Scherawna.",
+                  "category": "historical",
+                  "coords": [
+                        26.459327,
+                        42.83422
+                  ]
+            },
+            {
+                  "name": "Художествената галерия  Жеравна",
+                  "text": "Eine Kunstgalerie, die Werke im traditionellen und modernen Stil im Dorf Scherawna ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.45719,
+                        42.834584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Къща на Сава Филаретов",
+                  "text": "Szava Filaretov tudósnak szentelt múzeum Zseravna építészeti rezervátumában.",
+                  "category": "museum",
+                  "coords": [
+                        26.458386,
+                        42.834032
+                  ]
+            },
+            {
+                  "name": "Къща-музей Йордан Йовков",
+                  "text": "Jordan Jovkov híres bolgár író tiszteletére szentelt múzeum szülőhelyén, Zseravnában.",
+                  "category": "museum",
+                  "coords": [
+                        26.456984,
+                        42.832534
+                  ]
+            },
+            {
+                  "name": "Бележити жеравненци",
+                  "text": "Emlékmű Zseravna falu híres szülötteinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.459327,
+                        42.83422
+                  ]
+            },
+            {
+                  "name": "Художествената галерия  Жеравна",
+                  "text": "Művészeti galéria, amely hagyományos és modern alkotásokat mutat be Zseravna faluban.",
+                  "category": "museum",
+                  "coords": [
+                        26.45719,
+                        42.834584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Къща на Сава Филаретов",
+                  "text": "Un muzeu din rezervația arhitecturală Jeravna dedicat cărturarului Sava Filaretov.",
+                  "category": "museum",
+                  "coords": [
+                        26.458386,
+                        42.834032
+                  ]
+            },
+            {
+                  "name": "Къща-музей Йордан Йовков",
+                  "text": "Un muzeu ridicat în onoarea celebrului scriitor bulgar Iordan Iovkov în locul său natal, Jeravna.",
+                  "category": "museum",
+                  "coords": [
+                        26.456984,
+                        42.832534
+                  ]
+            },
+            {
+                  "name": "Бележити жеравненци",
+                  "text": "Un monument ridicat în onoarea personalităților marcante din satul Jeravna.",
+                  "category": "historical",
+                  "coords": [
+                        26.459327,
+                        42.83422
+                  ]
+            },
+            {
+                  "name": "Художествената галерия  Жеравна",
+                  "text": "O galerie de artă care expune lucrări în stil tradițional și modern în satul Jeravna.",
+                  "category": "museum",
+                  "coords": [
+                        26.45719,
+                        42.834584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sava Filaretov House",
+                  "text": "A museum in the Zheravna architectural reserve dedicated to the scholar Sava Filaretov.",
+                  "category": "museum",
+                  "coords": [
+                        26.458386,
+                        42.834032
+                  ]
+            },
+            {
+                  "name": "Yordan Yovkov Museum",
+                  "text": "A museum honoring the famous Bulgarian writer Yordan Yovkov in his birthplace, Zheravna.",
+                  "category": "museum",
+                  "coords": [
+                        26.456984,
+                        42.832534
+                  ]
+            },
+            {
+                  "name": "Бележити жеравненци",
+                  "text": "A monument dedicated to the prominent figures from the village of Zheravna.",
+                  "category": "historical",
+                  "coords": [
+                        26.459327,
+                        42.83422
+                  ]
+            },
+            {
+                  "name": "Zheravna Art Gallery",
+                  "text": "An art gallery exhibiting works in traditional and modern styles in the village of Zheravna.",
+                  "category": "museum",
+                  "coords": [
+                        26.45719,
+                        42.834584
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "BG",
     name: { de: "Architekturreservat Scherawna", hu: "Zseravna építészeti rezervátum", ro: "Rezervația arhitecturală Jeravna", en: "Zheravna Architectural Reserve" },
@@ -1137,7 +1290,1024 @@ export const bulgariaHistoryV2: POI[] = [
     image: "/poi-images/bulgaria-koprivshtitsa-history-house-v2.webp",
   },
   {
-    id: "bulgaria-veliko-tarnovo-art-history-v2",
+    id: "bulgaria-veliko-tarnovo-art-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Къща музей “Петко Р. Славейков”",
+                  "text": "Museum im ehemaligen Wohnhaus des bulgarischen Schriftstellers Petko Slavejkov.",
+                  "category": "museum",
+                  "coords": [
+                        25.635498,
+                        43.0854
+                  ]
+            },
+            {
+                  "name": "Сарафкина къща",
+                  "text": "Ein historisches Museumshaus, das das bürgerliche Leben des 19. Jahrhunderts zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.640669,
+                        43.081997
+                  ]
+            },
+            {
+                  "name": "Царевец",
+                  "text": "Eine mittelalterliche Festung, die als Hauptburg des Zweiten Bulgarischen Reiches diente.",
+                  "category": "castle",
+                  "coords": [
+                        25.650474,
+                        43.083563
+                  ]
+            },
+            {
+                  "name": "Музикално-Драматичен Театър Константин Кисимов",
+                  "text": "Ein bedeutendes Theater für Musik- und Dramenaufführungen in Weliko Tarnowo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.63055,
+                        43.081615
+                  ]
+            },
+            {
+                  "name": "Трапезица",
+                  "text": "Ein historischer Hügel mit den Ruinen einer bedeutenden mittelalterlichen Festung.",
+                  "category": "castle",
+                  "coords": [
+                        25.646163,
+                        43.085376
+                  ]
+            },
+            {
+                  "name": "Летен театър",
+                  "text": "Ein Freilichttheater für Sommeraufführungen im Kulturviertel.",
+                  "category": "cultural",
+                  "coords": [
+                        25.632857,
+                        43.078707
+                  ]
+            },
+            {
+                  "name": "Регионален Исторически Музей",
+                  "text": "Museum zur Geschichte der Region Weliko Tarnowo von der Antike bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        25.6443,
+                        43.081466
+                  ]
+            },
+            {
+                  "name": "Археологически музей",
+                  "text": "Museum mit Funden aus der reichen antiken und mittelalterlichen Geschichte der Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        25.642027,
+                        43.080878
+                  ]
+            },
+            {
+                  "name": "Главна порта",
+                  "text": "Die Überreste des historischen Haupteingangs der alten Festung.",
+                  "category": "historical",
+                  "coords": [
+                        25.647913,
+                        43.08216
+                  ]
+            },
+            {
+                  "name": "Музей на илюзиите",
+                  "text": "Ein interaktives Museum mit optischen Täuschungen und physikalischen Rätseln.",
+                  "category": "museum",
+                  "coords": [
+                        25.640316,
+                        43.083112
+                  ]
+            },
+            {
+                  "name": "Шишманова баня",
+                  "text": "Archäologische Ruinen einer mittelalterlichen Badeanlage am Fuße der Festung.",
+                  "category": "historical",
+                  "coords": [
+                        25.649823,
+                        43.086695
+                  ]
+            },
+            {
+                  "name": "Град на Франките",
+                  "text": "Historische Stätte, die mit der Anwesenheit westlicher Siedler im Mittelalter verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.656399,
+                        43.078622
+                  ]
+            },
+            {
+                  "name": "Парк Мини България",
+                  "text": "Themenpark mit Miniaturmodellen der berühmtesten Sehenswürdigkeiten Bulgariens.",
+                  "category": "recreational",
+                  "coords": [
+                        25.654668,
+                        43.07935
+                  ]
+            },
+            {
+                  "name": "Къщата с маймунката",
+                  "text": "Ein ikonisches Gebäude aus dem Jahr 1849, geschmückt mit einer kleinen Affenstatue.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636852,
+                        43.085026
+                  ]
+            },
+            {
+                  "name": "Парк Дружба",
+                  "text": "Ein zentraler Stadtpark für Erholung und Spaziergänge in Weliko Tarnowo.",
+                  "category": "park",
+                  "coords": [
+                        25.629244,
+                        43.074778
+                  ]
+            },
+            {
+                  "name": "Парк Кольо Фичето",
+                  "text": "Parkanlage zu Ehren des berühmten bulgarischen Baumeisters Koljo Fitscheto.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Балдуинова кула",
+                  "text": "Ein Turm in der Festung Zarewez, benannt nach dem lateinischen Kaiser Balduin I.",
+                  "category": "historical",
+                  "coords": [
+                        25.65307,
+                        43.080548
+                  ]
+            },
+            {
+                  "name": "Св. Евтимий Патриарх Търновски",
+                  "text": "Denkmal für den Patriarchen Euthymius, eine bedeutende geistliche Figur.",
+                  "category": "historical",
+                  "coords": [
+                        25.649077,
+                        43.078924
+                  ]
+            },
+            {
+                  "name": "Дворец на Асеневци",
+                  "text": "Die Ruinen des Palastkomplexes der mittelalterlichen Asen-Dynastie.",
+                  "category": "historical",
+                  "coords": [
+                        25.646998,
+                        43.086949
+                  ]
+            },
+            {
+                  "name": "Люлката на любовта",
+                  "text": "Eine beliebte lokale Sehenswürdigkeit mit romantischer Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        25.648269,
+                        43.091265
+                  ]
+            },
+            {
+                  "name": "Изгрева Картала",
+                  "text": "Ein Aussichtspunkt im Kartala-Viertel, ideal für den Blick auf den Sonnenaufgang.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Изложбени зали \"Рафаел Михайлов\"",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst und kulturelle Projekte.",
+                  "category": "museum",
+                  "coords": [
+                        25.63237,
+                        43.083625
+                  ]
+            },
+            {
+                  "name": "Държавна художествена галерия \"Борис Денев\"",
+                  "text": "Ein bedeutendes Kunstmuseum, das nach dem Maler Boris Denew benannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.638557,
+                        43.081798
+                  ]
+            },
+            {
+                  "name": "Патриаршия",
+                  "text": "Die Ruinen des ehemaligen Sitzes der bulgarischen Patriarchen.",
+                  "category": "historical",
+                  "coords": [
+                        25.652632,
+                        43.083109
+                  ]
+            },
+            {
+                  "name": "Св. 40 мъченици",
+                  "text": "Eine bedeutende mittelalterliche Kirche, die den Sieg von Zar Iwan Assen II. feiert.",
+                  "category": "religious",
+                  "coords": [
+                        25.649937,
+                        43.084493
+                  ]
+            },
+            {
+                  "name": "Свети Димитър Солунски",
+                  "text": "Eine historische Kirche, in der der Aufstand der Brüder Assen und Peter begann.",
+                  "category": "religious",
+                  "coords": [
+                        25.648319,
+                        43.087935
+                  ]
+            },
+            {
+                  "name": "Свети Петър и Павел",
+                  "text": "Eine gut erhaltene mittelalterliche Kirche mit bedeutenden Freskenzyklen.",
+                  "category": "religious",
+                  "coords": [
+                        25.650919,
+                        43.087685
+                  ]
+            },
+            {
+                  "name": "Стамболовият мост",
+                  "text": "Eine markante Stahlbrücke, die das Stadtzentrum mit dem Asenewzi-Denkmal verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.63721,
+                        43.081784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Къща музей “Петко Р. Славейков”",
+                  "text": "Múzeum Petko Szlavejkov bolgár író egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        25.635498,
+                        43.0854
+                  ]
+            },
+            {
+                  "name": "Сарафкина къща",
+                  "text": "Történelmi múzeumház, amely a 19. századi polgári életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.640669,
+                        43.081997
+                  ]
+            },
+            {
+                  "name": "Царевец",
+                  "text": "Középkori erődítmény, amely a Második Bolgár Birodalom legfőbb vára volt.",
+                  "category": "castle",
+                  "coords": [
+                        25.650474,
+                        43.083563
+                  ]
+            },
+            {
+                  "name": "Музикално-Драматичен Театър Константин Кисимов",
+                  "text": "Veliko Tarnovo jelentős zenei és drámai színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        25.63055,
+                        43.081615
+                  ]
+            },
+            {
+                  "name": "Трапезица",
+                  "text": "Történelmi domb egy jelentős középkori erődítmény romjaival.",
+                  "category": "castle",
+                  "coords": [
+                        25.646163,
+                        43.085376
+                  ]
+            },
+            {
+                  "name": "Летен театър",
+                  "text": "Szabadtéri színház nyári előadásokhoz a kulturális negyedben.",
+                  "category": "cultural",
+                  "coords": [
+                        25.632857,
+                        43.078707
+                  ]
+            },
+            {
+                  "name": "Регионален Исторически Музей",
+                  "text": "Veliko Tarnovo régiójának történelmét bemutató múzeum az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        25.6443,
+                        43.081466
+                  ]
+            },
+            {
+                  "name": "Археологически музей",
+                  "text": "A város gazdag ókori és középkori történelmének leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.642027,
+                        43.080878
+                  ]
+            },
+            {
+                  "name": "Главна порта",
+                  "text": "Az ősi erődítmény történelmi főkapujának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        25.647913,
+                        43.08216
+                  ]
+            },
+            {
+                  "name": "Музей на илюзиите",
+                  "text": "Interaktív múzeum optikai csalódásokkal és fizikai rejtélyekkel.",
+                  "category": "museum",
+                  "coords": [
+                        25.640316,
+                        43.083112
+                  ]
+            },
+            {
+                  "name": "Шишманова баня",
+                  "text": "Középkori fürdő régészeti romjai az erőd lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        25.649823,
+                        43.086695
+                  ]
+            },
+            {
+                  "name": "Град на Франките",
+                  "text": "Középkori nyugati telepesek jelenlétéhez kötődő történelmi helyszín.",
+                  "category": "historical",
+                  "coords": [
+                        25.656399,
+                        43.078622
+                  ]
+            },
+            {
+                  "name": "Парк Мини България",
+                  "text": "Tematikus park Bulgária leghíresebb látnivalóinak makettjeivel.",
+                  "category": "recreational",
+                  "coords": [
+                        25.654668,
+                        43.07935
+                  ]
+            },
+            {
+                  "name": "Къщата с маймунката",
+                  "text": "Jellegzetes, 1849-ben épült ház, amelyet egy kis majomszobor díszít.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636852,
+                        43.085026
+                  ]
+            },
+            {
+                  "name": "Парк Дружба",
+                  "text": "Központi városi park kikapcsolódáshoz és sétákhoz Veliko Tarnovóban.",
+                  "category": "park",
+                  "coords": [
+                        25.629244,
+                        43.074778
+                  ]
+            },
+            {
+                  "name": "Парк Кольо Фичето",
+                  "text": "A híres bolgár építőmester, Koljo Ficseto tiszteletére elnevezett park.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Балдуинова кула",
+                  "text": "A Carevec-erőd tornya, amely I. Balduin latin császárról kapta a nevét.",
+                  "category": "historical",
+                  "coords": [
+                        25.65307,
+                        43.080548
+                  ]
+            },
+            {
+                  "name": "Св. Евтимий Патриарх Търновски",
+                  "text": "Emlékmű Euthümiosz pátriárka, jelentős egyházi személyiség tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        25.649077,
+                        43.078924
+                  ]
+            },
+            {
+                  "name": "Дворец на Асеневци",
+                  "text": "A középkori Aszen-dinasztia palotakomplexumának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        25.646998,
+                        43.086949
+                  ]
+            },
+            {
+                  "name": "Люлката на любовта",
+                  "text": "Népszerű helyi látnivaló romantikus hangulattal.",
+                  "category": "landmark",
+                  "coords": [
+                        25.648269,
+                        43.091265
+                  ]
+            },
+            {
+                  "name": "Изгрева Картала",
+                  "text": "Kilátóhely a Kartala negyedben, ideális a napfelkelte megtekintéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Изложбени зали \"Рафаел Михайлов\"",
+                  "text": "Kiállítóterem kortárs művészeti és kulturális projektek számára.",
+                  "category": "museum",
+                  "coords": [
+                        25.63237,
+                        43.083625
+                  ]
+            },
+            {
+                  "name": "Държавна художествена галерия \"Борис Денев\"",
+                  "text": "Jelentős művészeti múzeum, amely Borisz Denev festőről kapta a nevét.",
+                  "category": "museum",
+                  "coords": [
+                        25.638557,
+                        43.081798
+                  ]
+            },
+            {
+                  "name": "Патриаршия",
+                  "text": "A bolgár pátriárkák egykori székhelyének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        25.652632,
+                        43.083109
+                  ]
+            },
+            {
+                  "name": "Св. 40 мъченици",
+                  "text": "Jelentős középkori templom, amely II. Iván Aszen cár győzelmét hirdeti.",
+                  "category": "religious",
+                  "coords": [
+                        25.649937,
+                        43.084493
+                  ]
+            },
+            {
+                  "name": "Свети Димитър Солунски",
+                  "text": "Történelmi templom, ahol az Aszen és Péter testvérek felkelése kezdődött.",
+                  "category": "religious",
+                  "coords": [
+                        25.648319,
+                        43.087935
+                  ]
+            },
+            {
+                  "name": "Свети Петър и Павел",
+                  "text": "Jó állapotban fennmaradt középkori templom jelentős freskókkal.",
+                  "category": "religious",
+                  "coords": [
+                        25.650919,
+                        43.087685
+                  ]
+            },
+            {
+                  "name": "Стамболовият мост",
+                  "text": "Jellegzetes acélhíd, amely a városközpontot köti össze az Aszen-emlékművel.",
+                  "category": "landmark",
+                  "coords": [
+                        25.63721,
+                        43.081784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Къща музей “Петко Р. Славейков”",
+                  "text": "Muzeu situat în fosta casă a scriitorului bulgar Petko Slaveykov.",
+                  "category": "museum",
+                  "coords": [
+                        25.635498,
+                        43.0854
+                  ]
+            },
+            {
+                  "name": "Сарафкина къща",
+                  "text": "O casă muzeu istorică ce prezintă viața burgheză din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        25.640669,
+                        43.081997
+                  ]
+            },
+            {
+                  "name": "Царевец",
+                  "text": "O fortăreață medievală care a servit drept reședință principală a celui de-al Doilea Imperiu Bulgar.",
+                  "category": "castle",
+                  "coords": [
+                        25.650474,
+                        43.083563
+                  ]
+            },
+            {
+                  "name": "Музикално-Драматичен Театър Константин Кисимов",
+                  "text": "Un teatru important pentru spectacole de muzică și dramă din Veliko Tărnovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.63055,
+                        43.081615
+                  ]
+            },
+            {
+                  "name": "Трапезица",
+                  "text": "Un deal istoric care găzduiește ruinele unei importante fortărețe medievale.",
+                  "category": "castle",
+                  "coords": [
+                        25.646163,
+                        43.085376
+                  ]
+            },
+            {
+                  "name": "Летен театър",
+                  "text": "Un teatru în aer liber pentru spectacole de vară în cartierul cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        25.632857,
+                        43.078707
+                  ]
+            },
+            {
+                  "name": "Регионален Исторически Музей",
+                  "text": "Muzeu dedicat istoriei regiunii Veliko Tărnovo din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        25.6443,
+                        43.081466
+                  ]
+            },
+            {
+                  "name": "Археологически музей",
+                  "text": "Muzeu ce expune descoperiri din bogata istorie antică și medievală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        25.642027,
+                        43.080878
+                  ]
+            },
+            {
+                  "name": "Главна порта",
+                  "text": "Rămășițele porții principale istorice a vechii fortărețe.",
+                  "category": "historical",
+                  "coords": [
+                        25.647913,
+                        43.08216
+                  ]
+            },
+            {
+                  "name": "Музей на илюзиите",
+                  "text": "Un muzeu interactiv cu iluzii optice și puzzle-uri fizice.",
+                  "category": "museum",
+                  "coords": [
+                        25.640316,
+                        43.083112
+                  ]
+            },
+            {
+                  "name": "Шишманова баня",
+                  "text": "Ruine arheologice ale unei băi medievale de la poalele fortăreței.",
+                  "category": "historical",
+                  "coords": [
+                        25.649823,
+                        43.086695
+                  ]
+            },
+            {
+                  "name": "Град на Франките",
+                  "text": "Sait istoric legat de prezența coloniștilor occidentali în perioada medievală.",
+                  "category": "historical",
+                  "coords": [
+                        25.656399,
+                        43.078622
+                  ]
+            },
+            {
+                  "name": "Парк Мини България",
+                  "text": "Parc tematic cu modele în miniatură ale celor mai faimoase repere din Bulgaria.",
+                  "category": "recreational",
+                  "coords": [
+                        25.654668,
+                        43.07935
+                  ]
+            },
+            {
+                  "name": "Къщата с маймунката",
+                  "text": "O clădire emblematică din 1849, decorată cu o mică statuie a unei maimuțe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636852,
+                        43.085026
+                  ]
+            },
+            {
+                  "name": "Парк Дружба",
+                  "text": "Un parc urban central pentru recreere și plimbări în Veliko Tărnovo.",
+                  "category": "park",
+                  "coords": [
+                        25.629244,
+                        43.074778
+                  ]
+            },
+            {
+                  "name": "Парк Кольо Фичето",
+                  "text": "Parc numit în onoarea celebrului constructor bulgar Kolyo Ficheto.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Балдуинова кула",
+                  "text": "Un turn din fortăreața Tsarevets, numit după împăratul latin Balduin I.",
+                  "category": "historical",
+                  "coords": [
+                        25.65307,
+                        43.080548
+                  ]
+            },
+            {
+                  "name": "Св. Евтимий Патриарх Търновски",
+                  "text": "Monument dedicat Patriarhului Eftimie, o figură spirituală importantă.",
+                  "category": "historical",
+                  "coords": [
+                        25.649077,
+                        43.078924
+                  ]
+            },
+            {
+                  "name": "Дворец на Асеневци",
+                  "text": "Ruinele complexului palatului dinastiei medievale Asan.",
+                  "category": "historical",
+                  "coords": [
+                        25.646998,
+                        43.086949
+                  ]
+            },
+            {
+                  "name": "Люлката на любовта",
+                  "text": "O atracție locală populară cu o atmosferă romantică.",
+                  "category": "landmark",
+                  "coords": [
+                        25.648269,
+                        43.091265
+                  ]
+            },
+            {
+                  "name": "Изгрева Картала",
+                  "text": "Un punct de observație în cartierul Kartala, ideal pentru a vedea răsăritul.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Изложбени зали \"Рафаел Михайлов\"",
+                  "text": "Un spațiu expozițional pentru artă contemporană și proiecte culturale.",
+                  "category": "museum",
+                  "coords": [
+                        25.63237,
+                        43.083625
+                  ]
+            },
+            {
+                  "name": "Държавна художествена галерия \"Борис Денев\"",
+                  "text": "Un important muzeu de artă numit după pictorul Boris Denev.",
+                  "category": "museum",
+                  "coords": [
+                        25.638557,
+                        43.081798
+                  ]
+            },
+            {
+                  "name": "Патриаршия",
+                  "text": "Ruinele fostului sediu al patriarhilor bulgari.",
+                  "category": "historical",
+                  "coords": [
+                        25.652632,
+                        43.083109
+                  ]
+            },
+            {
+                  "name": "Св. 40 мъченици",
+                  "text": "O biserică medievală importantă care celebrează victoria țarului Ioan Asan al II-lea.",
+                  "category": "religious",
+                  "coords": [
+                        25.649937,
+                        43.084493
+                  ]
+            },
+            {
+                  "name": "Свети Димитър Солунски",
+                  "text": "O biserică istorică unde a început răscoala fraților Asan și Petru.",
+                  "category": "religious",
+                  "coords": [
+                        25.648319,
+                        43.087935
+                  ]
+            },
+            {
+                  "name": "Свети Петър и Павел",
+                  "text": "O biserică medievală bine conservată, cu cicluri importante de fresce.",
+                  "category": "religious",
+                  "coords": [
+                        25.650919,
+                        43.087685
+                  ]
+            },
+            {
+                  "name": "Стамболовият мост",
+                  "text": "Un pod de oțel distinctiv care leagă centrul orașului de Monumentul Asăneștilor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.63721,
+                        43.081784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House museum Petko R. Slavejkov",
+                  "text": "Museum located in the former home of the Bulgarian writer Petko Slaveykov.",
+                  "category": "museum",
+                  "coords": [
+                        25.635498,
+                        43.0854
+                  ]
+            },
+            {
+                  "name": "Sarafkina’s House",
+                  "text": "A historic museum house showcasing 19th-century urban life.",
+                  "category": "museum",
+                  "coords": [
+                        25.640669,
+                        43.081997
+                  ]
+            },
+            {
+                  "name": "Tsarevets",
+                  "text": "A medieval stronghold that served as the primary fortress of the Second Bulgarian Empire.",
+                  "category": "castle",
+                  "coords": [
+                        25.650474,
+                        43.083563
+                  ]
+            },
+            {
+                  "name": "Музикално-Драматичен Театър Константин Кисимов",
+                  "text": "A prominent theatre for musical and dramatic performances in Veliko Tarnovo.",
+                  "category": "cultural",
+                  "coords": [
+                        25.63055,
+                        43.081615
+                  ]
+            },
+            {
+                  "name": "Trapezitza",
+                  "text": "A historic hill hosting the ruins of a major medieval fortress.",
+                  "category": "castle",
+                  "coords": [
+                        25.646163,
+                        43.085376
+                  ]
+            },
+            {
+                  "name": "Summer Theatre",
+                  "text": "An open-air theatre for summer performances in the cultural district.",
+                  "category": "cultural",
+                  "coords": [
+                        25.632857,
+                        43.078707
+                  ]
+            },
+            {
+                  "name": "Regional Museum of History",
+                  "text": "Museum dedicated to the history of the Veliko Tarnovo region from antiquity to today.",
+                  "category": "museum",
+                  "coords": [
+                        25.6443,
+                        43.081466
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Museum exhibiting finds from the city's rich ancient and medieval history.",
+                  "category": "museum",
+                  "coords": [
+                        25.642027,
+                        43.080878
+                  ]
+            },
+            {
+                  "name": "Главна порта",
+                  "text": "The remains of the historic main entrance to the ancient fortress.",
+                  "category": "historical",
+                  "coords": [
+                        25.647913,
+                        43.08216
+                  ]
+            },
+            {
+                  "name": "Музей на илюзиите",
+                  "text": "An interactive museum featuring optical illusions and physical puzzles.",
+                  "category": "museum",
+                  "coords": [
+                        25.640316,
+                        43.083112
+                  ]
+            },
+            {
+                  "name": "Шишманова баня",
+                  "text": "Archaeological ruins of a medieval bathhouse at the foot of the fortress.",
+                  "category": "historical",
+                  "coords": [
+                        25.649823,
+                        43.086695
+                  ]
+            },
+            {
+                  "name": "Град на Франките",
+                  "text": "Historic site associated with the presence of Western settlers in the medieval period.",
+                  "category": "historical",
+                  "coords": [
+                        25.656399,
+                        43.078622
+                  ]
+            },
+            {
+                  "name": "Mini Bulgaria Park",
+                  "text": "Theme park featuring miniature models of Bulgaria's most famous landmarks.",
+                  "category": "recreational",
+                  "coords": [
+                        25.654668,
+                        43.07935
+                  ]
+            },
+            {
+                  "name": "House with the Monkey",
+                  "text": "An iconic building from 1849, decorated with a small monkey statue.",
+                  "category": "landmark",
+                  "coords": [
+                        25.636852,
+                        43.085026
+                  ]
+            },
+            {
+                  "name": "Парк Дружба",
+                  "text": "A central city park for recreation and walks in Veliko Tarnovo.",
+                  "category": "park",
+                  "coords": [
+                        25.629244,
+                        43.074778
+                  ]
+            },
+            {
+                  "name": "Парк Кольо Фичето",
+                  "text": "Park named in honor of the famous Bulgarian master builder Kolyo Ficheto.",
+                  "category": "park",
+                  "coords": [
+                        25.60661,
+                        43.078687
+                  ]
+            },
+            {
+                  "name": "Tower of Baldwyn",
+                  "text": "A tower in the Tsarevets fortress, named after the Latin Emperor Baldwin I.",
+                  "category": "historical",
+                  "coords": [
+                        25.65307,
+                        43.080548
+                  ]
+            },
+            {
+                  "name": "Св. Евтимий Патриарх Търновски",
+                  "text": "Monument to Patriarch Euthymius, a major spiritual and literary figure.",
+                  "category": "historical",
+                  "coords": [
+                        25.649077,
+                        43.078924
+                  ]
+            },
+            {
+                  "name": "Дворец на Асеневци",
+                  "text": "The ruins of the palace complex belonging to the medieval Asen dynasty.",
+                  "category": "historical",
+                  "coords": [
+                        25.646998,
+                        43.086949
+                  ]
+            },
+            {
+                  "name": "Люлката на любовта",
+                  "text": "A popular local attraction known for its romantic atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        25.648269,
+                        43.091265
+                  ]
+            },
+            {
+                  "name": "Изгрева Картала",
+                  "text": "A viewpoint in the Kartala district, ideal for watching the sunrise.",
+                  "category": "natural",
+                  "coords": [
+                        25.632841,
+                        43.090417
+                  ]
+            },
+            {
+                  "name": "Изложбени зали \"Рафаел Михайлов\"",
+                  "text": "An exhibition space for contemporary art and cultural projects.",
+                  "category": "museum",
+                  "coords": [
+                        25.63237,
+                        43.083625
+                  ]
+            },
+            {
+                  "name": "Fine Art Museum \"Boris Denev\"",
+                  "text": "A prominent art museum named after the painter Boris Denev.",
+                  "category": "museum",
+                  "coords": [
+                        25.638557,
+                        43.081798
+                  ]
+            },
+            {
+                  "name": "Патриаршия",
+                  "text": "The ruins of the former seat of the Bulgarian patriarchs.",
+                  "category": "historical",
+                  "coords": [
+                        25.652632,
+                        43.083109
+                  ]
+            },
+            {
+                  "name": "Св. 40 мъченици",
+                  "text": "An important medieval church celebrating the victory of Tsar Ivan Asen II.",
+                  "category": "religious",
+                  "coords": [
+                        25.649937,
+                        43.084493
+                  ]
+            },
+            {
+                  "name": "Свети Димитър Солунски",
+                  "text": "A historic church where the uprising of brothers Asen and Peter was proclaimed.",
+                  "category": "religious",
+                  "coords": [
+                        25.648319,
+                        43.087935
+                  ]
+            },
+            {
+                  "name": "Church of Saints Peter and Paul",
+                  "text": "A well-preserved medieval church featuring significant fresco cycles.",
+                  "category": "religious",
+                  "coords": [
+                        25.650919,
+                        43.087685
+                  ]
+            },
+            {
+                  "name": "Stambolov bridge",
+                  "text": "A distinctive steel bridge connecting the city center with the Asen Monument.",
+                  "category": "landmark",
+                  "coords": [
+                        25.63721,
+                        43.081784
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BG",
     name: { de: "Kulturviertel Weliko Tarnowo", hu: "Veliko Tarnovo kulturális negyede", ro: "Cartierul cultural Veliko Tărnovo", en: "Veliko Tarnovo Cultural Quarter" },

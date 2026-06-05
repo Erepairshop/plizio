@@ -796,7 +796,1600 @@ export const maltaPoi: POI[] = [
     image: "/poi-images/poi-mt-sliema-promenade.webp",
   },
   {
-    id: "poi-mt-tigne-point",
+    id: "poi-mt-tigne-point", "sights": {
+      "de": [
+            {
+                  "name": "Palast des Inquisitors",
+                  "text": "Ein historischer Palast und Museum in Tigné Point, einst Sitz der Inquisition.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "Eine zeremonielle Artilleriebatterie mit Blick auf den Hafen von Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "Ein viktorianisches Fort in Tigné Point, bekannt für seine 100-Tonnen-Kanone.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Museum in Tigné Point, das die Geschichte Maltas während des Zweiten Weltkriegs zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Armerija tal-Palazz",
+                  "text": "Eine bedeutende Waffensammlung im Großmeisterpalast in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "Das nationale Kriegsmuseum im Fort Saint Elmo in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "Museum in Tigné Point mit bedeutenden archäologischen Funden der Insel.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "Ein bewohnter Adelspalast aus dem 16. Jahrhundert in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fortizza Sant’ Anġlu",
+                  "text": "Eine mächtige historische Festungsanlage am Wasser in Tigné Point.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Mużew Marittimu ta' Malta",
+                  "text": "Schifffahrtsmuseum in Tigné Point, untergebracht in einer ehemaligen Bäckerei der Marine.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "Ein Interpretationszentrum zur Geschichte der Befestigungsanlagen Maltas in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "Eine große historische Festungsanlage am Eingang zum Grand Harbour in Tigné Point.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Forti San Salvatore",
+                  "text": "Eine historische Befestigungsanlage in der Gegend von Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "Teil der historischen Stadtbefestigung in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "Eine viktorianische Küstenbatterie in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "Eine militärische Festung aus dem 19. Jahrhundert in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Ein historisches Denkmal zu Ehren von Sir Robert Spencer in Tigné Point.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "Ein Denkmal in Tigné Point zum Gedenken an die im Krieg gefallenen Flieger.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "Ein historisches Gebäude des Johanniterordens in Tigné Point.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "Ein britisches Stadttor aus dem 19. Jahrhundert in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Teatru Manoel",
+                  "text": "Eines der ältesten noch bespielten Theater Europas in Tigné Point.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Eine anglikanische Kirche in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Pawl Nawfraġju",
+                  "text": "Eine bedeutende Stiftskirche in Tigné Point, die dem Schiffbruch des hl. Paulus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
+                  "text": "Eine barocke Kirche in Tigné Point, die der italienischen Zunge des Ordens gehörte.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa tal-Gżira (Monte Karmeli)",
+                  "text": "Eine katholische Pfarrkirche in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "Eine von Mattia Preti entworfene Rundkirche in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Ġiżwiti",
+                  "text": "Eine historische Jesuitenkirche in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor",
+                  "text": "Eine römisch-katholische Pfarrkirche in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "Eine Kirche und ein Ort des Gebets in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "Ein baptistisches Gotteshaus in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "Eine Kirche in Tigné Point, die der Mutter der Schmerzen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "Eine presbyterianische und methodistische Kirche in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "Ein großer natürlicher Hafen bei Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "Ein natürlicher Hafen auf der anderen Seite von Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Il-Batterija tas-Sliema",
+                  "text": "Eine historische Artilleriebatterie an der Küste von Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "Ein Denkmal für Sir Alexander Ball in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Co-Kathedrale St. Johannes",
+                  "text": "Eine prächtige Barockkathedrale in Tigné Point, bekannt für Caravaggio-Gemälde.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Il-Katidral Anglikan ta' San Pawl",
+                  "text": "Eine anglikanische Prokathedrale mit markantem Turm in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Sliema Parish Church",
+                  "text": "Eine historische katholische Pfarrkirche in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Il-Berġa ta' Bavjera",
+                  "text": "Ein palastartiges historisches Gebäude in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santu Wistin",
+                  "text": "Eine historische Kirche in Valletta, die dem Heiligen Augustinus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Publiju",
+                  "text": "Die Pfarrkirche von Floriana ist ein bedeutendes religiöses Denkmal in der Nähe von Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504731,
+                        35.892355
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Madonna tal-Pilar",
+                  "text": "Eine barocke Kirche in Valletta, die der Muttergottes von Pilar gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512918,
+                        35.901216
+                  ]
+            },
+            {
+                  "name": "Knisja ta' San Nikola",
+                  "text": "Diese griechisch-katholische Kirche befindet sich in der Hauptstadt Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51692,
+                        35.899526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Történelmi palota és múzeum Tigné Pointban, egykor az inkvizíció székhelye.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "Ünnepi tüzérségi üteg, amely Tigné Point kikötőjére néz.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "Viktoriánus erőd Tigné Pointban, amely a 100 tonnás ágyújáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Múzeum Tigné Pointban, amely Málta második világháborús történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Armerija tal-Palazz",
+                  "text": "Jelentős fegyvergyűjtemény a Nagymesteri Palotában, Tigné Pointban.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "Nemzeti hadtörténeti múzeum a Fort Saint Elmo területén, Tigné Pointban.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "Múzeum Tigné Pointban a sziget jelentős régészeti leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "Lakott nemesi palota a 16. századból Tigné Pointban.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fortizza Sant’ Anġlu",
+                  "text": "Hatalmas történelmi erődítmény a vízparton Tigné Pointban.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Mużew Marittimu ta' Malta",
+                  "text": "Tengerészeti múzeum Tigné Pointban, egy egykori haditengerészeti pékség épületében.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "Málta erődítményeinek történelmét bemutató központ Tigné Pointban.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "Nagy történelmi erődítmény a Grand Harbour bejáratánál Tigné Pointban.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Forti San Salvatore",
+                  "text": "Történelmi erődítmény Tigné Point környékén.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "Tigné Point történelmi városfalának része.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "Viktoriánus partmenti üteg Tigné Pointban.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "19. századi katonai erőd Tigné Pointban.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Történelmi emlékmű Sir Robert Spencer tiszteletére Tigné Pointban.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "Emlékmű Tigné Pointban a háborúban elesett repülősök emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "A máltai lovagrend egyik történelmi épülete Tigné Pointban.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "19. századi brit városkapu Tigné Pointban.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Teatru Manoel",
+                  "text": "Európa egyik legrégebbi működő színháza Tigné Pointban.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "Anglikán templom Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Pawl Nawfraġju",
+                  "text": "Jelentős társaskáptalani templom Tigné Pointban, Szent Pál hajótörésének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
+                  "text": "Barokk templom Tigné Pointban, amely a lovagrend olasz tagozatáé volt.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa tal-Gżira (Monte Karmeli)",
+                  "text": "Katolikus plébániatemplom Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "Mattia Preti által tervezett körtemplom Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Ġiżwiti",
+                  "text": "Történelmi jezsuita templom Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor",
+                  "text": "Római katolikus plébániatemplom Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "Templom és istentiszteleti hely Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "Baptista imaház Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "A Fájdalmas Szűzanyának szentelt templom Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "Presbiteriánus és metodista templom Tigné Pointban.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "Hatalmas természetes öböl Tigné Pointnál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "Természetes öböl Tigné Point másik oldalán.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Il-Batterija tas-Sliema",
+                  "text": "Történelmi partmenti tüzérségi üteg Tigné Pointnál.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "Sir Alexander Ball emlékműve Tigné Pointban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Saint John's Co-Cathedral",
+                  "text": "Pompás barokk székesegyház Tigné Pointban, Caravaggio-festményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Il-Katidral Anglikan ta' San Pawl",
+                  "text": "Anglikán prokatedrális jellegzetes toronnyal Tigné Pointban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Sliema Parish Church",
+                  "text": "Történelmi katolikus plébániatemplom Tigné Pointban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Il-Berġa ta' Bavjera",
+                  "text": "Palotaszerű történelmi épület Tigné Pointban.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santu Wistin",
+                  "text": "Szent Ágostonnak szentelt történelmi templom Valletta városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Publiju",
+                  "text": "Floriana plébániatemploma egy jelentős vallási műemlék Valletta közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504731,
+                        35.892355
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Madonna tal-Pilar",
+                  "text": "Barokk stílusú templom Vallettában, amelyet a Pilari Miasszonyunknak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512918,
+                        35.901216
+                  ]
+            },
+            {
+                  "name": "Knisja ta' San Nikola",
+                  "text": "Ez a görögkatolikus templom Valletta fővárosában található.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51692,
+                        35.899526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "Un palat istoric și muzeu în Tigné Point, fost sediu al Inchiziției.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "O baterie de artilerie ceremonială cu vedere la portul din Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "Un fort victorian în Tigné Point, cunoscut pentru tunul său de 100 de tone.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Muzeu în Tigné Point care prezintă istoria Maltei în timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Armerija tal-Palazz",
+                  "text": "O colecție importantă de arme în Palatul Marilor Maeștri din Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "Muzeul Național de Război situat în Fort Saint Elmo, Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "Muzeu în Tigné Point care găzduiește descoperiri arheologice importante de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "Un palat nobiliar locuit din secolul al XVI-lea în Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fortizza Sant’ Anġlu",
+                  "text": "O fortăreață istorică impunătoare pe malul mării în Tigné Point.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Mużew Marittimu ta' Malta",
+                  "text": "Muzeul Maritim din Tigné Point, situat într-o fostă brutărie navală.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "Un centru de interpretare a fortificațiilor malteze în Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "O mare fortificație istorică la intrarea în Grand Harbour din Tigné Point.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Forti San Salvatore",
+                  "text": "O fortificație istorică în zona Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "O parte a fortificațiilor istorice ale orașului în Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "O baterie de coastă victoriană în Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "O fortăreață militară din secolul al XIX-lea în Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Spencer",
+                  "text": "Un monument istoric în onoarea lui Sir Robert Spencer în Tigné Point.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "Un monument în Tigné Point în memoria aviatorilor căzuți în război.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "O clădire istorică a Ordinului Sfântului Ioan în Tigné Point.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "O poartă a orașului din secolul al XIX-lea, construită de britanici în Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Teatru Manoel",
+                  "text": "Unul dintre cele mai vechi teatre active din Europa, situat în Tigné Point.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "O biserică anglicană în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Pawl Nawfraġju",
+                  "text": "O biserică colegială importantă în Tigné Point, dedicată naufragiului Sfântului Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santa Katerina ta' Lixandra",
+                  "text": "O biserică barocă din Tigné Point, care a aparținut limbii italiene a ordinului.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa tal-Gżira (Monte Karmeli)",
+                  "text": "O biserică parohială catolică în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "O biserică circulară proiectată de Mattia Preti în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Ġiżwiti",
+                  "text": "O biserică istorică a iezuiților în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokjali tal-Madonna tas-Sacro Cuor",
+                  "text": "O biserică parohială romano-catolică în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "O biserică și lăcaș de cult în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "O biserică baptistă în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Il-Madonna tad-Duluri",
+                  "text": "O biserică dedicată Maicii Îndurerate în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "O biserică presbiteriană și metodistă în Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "Un golf natural vast lângă Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "Un port natural situat pe partea cealaltă a Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Il-Batterija tas-Sliema",
+                  "text": "O baterie de artilerie istorică pe coasta din Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "Un monument dedicat lui Sir Alexander Ball în Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Catedrala catolică „Sf. Ioan”",
+                  "text": "O catedrală barocă splendidă în Tigné Point, cunoscută pentru picturile lui Caravaggio.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Il-Katidral Anglikan ta' San Pawl",
+                  "text": "O procatedrală anglicană cu o turlă distinctivă în Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Sliema Parish Church",
+                  "text": "O biserică parohială catolică istorică în Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Il-Berġa ta' Bavjera",
+                  "text": "O clădire istorică impunătoare în Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' Santu Wistin",
+                  "text": "O biserică istorică din Valletta, dedicată Sfântului Augustin.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Publiju",
+                  "text": "Biserica parohială din Floriana este un monument religios important lângă Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504731,
+                        35.892355
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Madonna tal-Pilar",
+                  "text": "O biserică barocă din Valletta, dedicată Maicii Domnului din Pilar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512918,
+                        35.901216
+                  ]
+            },
+            {
+                  "name": "Knisja ta' San Nikola",
+                  "text": "Această biserică greco-catolică se află în capitala Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51692,
+                        35.899526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Inquisitor's Palace",
+                  "text": "A historic palace and museum in Tigné Point, formerly the seat of the Inquisition.",
+                  "category": "museum",
+                  "coords": [
+                        14.522479,
+                        35.887192
+                  ]
+            },
+            {
+                  "name": "Saluting Battery",
+                  "text": "A ceremonial artillery battery overlooking the harbour at Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.512546,
+                        35.894602
+                  ]
+            },
+            {
+                  "name": "Fort Rinella",
+                  "text": "A Victorian fort in Tigné Point, famous for its 100-ton gun.",
+                  "category": "museum",
+                  "coords": [
+                        14.531472,
+                        35.893786
+                  ]
+            },
+            {
+                  "name": "Malta at War Museum",
+                  "text": "Museum in Tigné Point documenting Malta's history during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        14.522372,
+                        35.885419
+                  ]
+            },
+            {
+                  "name": "Palace Armoury",
+                  "text": "A significant collection of arms and armour at the Grandmaster's Palace in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.514341,
+                        35.898515
+                  ]
+            },
+            {
+                  "name": "National War Museum",
+                  "text": "The national war museum located within Fort Saint Elmo in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.518741,
+                        35.90197
+                  ]
+            },
+            {
+                  "name": "National Museum of Archaeology",
+                  "text": "Museum in Tigné Point exhibiting significant archaeological finds from the island.",
+                  "category": "museum",
+                  "coords": [
+                        14.511157,
+                        35.897513
+                  ]
+            },
+            {
+                  "name": "Casa Rocca Piccola",
+                  "text": "A 16th-century noble palace and museum in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.515326,
+                        35.899827
+                  ]
+            },
+            {
+                  "name": "Fort Saint Angelo",
+                  "text": "A powerful historic bastioned fort located on the waterfront in Tigné Point.",
+                  "category": "castle",
+                  "coords": [
+                        14.518206,
+                        35.89182
+                  ]
+            },
+            {
+                  "name": "Malta Maritime Museum",
+                  "text": "Maritime museum in Tigné Point, housed in a former naval bakery.",
+                  "category": "museum",
+                  "coords": [
+                        14.52081,
+                        35.88775
+                  ]
+            },
+            {
+                  "name": "The Fortress Builders - Fortifications Interpretation Centre",
+                  "text": "An interpretation centre dedicated to the history of Malta's fortifications in Tigné Point.",
+                  "category": "museum",
+                  "coords": [
+                        14.509059,
+                        35.899546
+                  ]
+            },
+            {
+                  "name": "Fort Ricasoli",
+                  "text": "A large historic bastioned fort at the entrance to the Grand Harbour in Tigné Point.",
+                  "category": "castle",
+                  "coords": [
+                        14.526926,
+                        35.896752
+                  ]
+            },
+            {
+                  "name": "Fort San Salvatore",
+                  "text": "A historical fortification located in the Tigné Point area.",
+                  "category": "fortress",
+                  "coords": [
+                        14.528396,
+                        35.886072
+                  ]
+            },
+            {
+                  "name": "Saint Barbara Bastion",
+                  "text": "Part of the historic city fortifications in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.514597,
+                        35.896447
+                  ]
+            },
+            {
+                  "name": "Cambridge Battery",
+                  "text": "A Victorian-era coastal artillery battery in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.509673,
+                        35.909025
+                  ]
+            },
+            {
+                  "name": "Forti Santu Rokku",
+                  "text": "A 19th-century military fort located in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.537776,
+                        35.892584
+                  ]
+            },
+            {
+                  "name": "Spencer Monument",
+                  "text": "A historical monument dedicated to Sir Robert Spencer in Tigné Point.",
+                  "category": "historical",
+                  "coords": [
+                        14.497654,
+                        35.887453
+                  ]
+            },
+            {
+                  "name": "Malta Memorial",
+                  "text": "A memorial in Tigné Point commemorating Commonwealth airmen lost in WWII.",
+                  "category": "historical",
+                  "coords": [
+                        14.507819,
+                        35.894559
+                  ]
+            },
+            {
+                  "name": "Auberge d’Auvergne et de Provence",
+                  "text": "A historic building formerly belonging to the Order of Saint John in Tigné Point.",
+                  "category": "historical",
+                  "coords": [
+                        14.52258,
+                        35.888463
+                  ]
+            },
+            {
+                  "name": "Victoria Gate",
+                  "text": "A 19th-century British-built city gate in Tigné Point.",
+                  "category": "fortress",
+                  "coords": [
+                        14.513644,
+                        35.895982
+                  ]
+            },
+            {
+                  "name": "Manoel Theatre",
+                  "text": "One of the oldest working theatres in Europe, located in Tigné Point.",
+                  "category": "cultural",
+                  "coords": [
+                        14.512574,
+                        35.899765
+                  ]
+            },
+            {
+                  "name": "Holy Trinity Church",
+                  "text": "An Anglican church located in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.495537,
+                        35.909751
+                  ]
+            },
+            {
+                  "name": "Church of Saint Paul's Shipwreck",
+                  "text": "A major collegiate parish church in Tigné Point dedicated to the shipwreck of St Paul.",
+                  "category": "religious",
+                  "coords": [
+                        14.513855,
+                        35.897397
+                  ]
+            },
+            {
+                  "name": "Church of Saint Catherine of Alexandria",
+                  "text": "A Baroque church in Tigné Point originally belonging to the Italian Langue of the Order.",
+                  "category": "religious",
+                  "coords": [
+                        14.51104,
+                        35.896237
+                  ]
+            },
+            {
+                  "name": "Gżira Parish Church",
+                  "text": "A Catholic parish church located in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.494775,
+                        35.904982
+                  ]
+            },
+            {
+                  "name": "Knisja tas-Sarria",
+                  "text": "A circular church in Tigné Point designed by Mattia Preti.",
+                  "category": "religious",
+                  "coords": [
+                        14.503691,
+                        35.891918
+                  ]
+            },
+            {
+                  "name": "Jesuit Church",
+                  "text": "A historic Jesuit church located in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.515288,
+                        35.898369
+                  ]
+            },
+            {
+                  "name": "Parish Church Of Sacre Cuor",
+                  "text": "A Roman Catholic parish church in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.50076,
+                        35.91065
+                  ]
+            },
+            {
+                  "name": "Our Lady of Mount Carmel",
+                  "text": "A church and place of worship in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.495108,
+                        35.914594
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "A Baptist place of worship in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Our Lady of Sorrows",
+                  "text": "A church dedicated to Our Lady of Sorrows in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.496775,
+                        35.890957
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Scots Church",
+                  "text": "A Presbyterian and Methodist church in Tigné Point.",
+                  "category": "religious",
+                  "coords": [
+                        14.509798,
+                        35.897624
+                  ]
+            },
+            {
+                  "name": "Il-Port il-Kbir",
+                  "text": "A large natural harbour located near Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51869,
+                        35.895023
+                  ]
+            },
+            {
+                  "name": "Il-Port ta' Marsamxett",
+                  "text": "A natural harbour located on the opposite side of Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.502336,
+                        35.906957
+                  ]
+            },
+            {
+                  "name": "Sliema Point Battery",
+                  "text": "A historic coastal artillery battery in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.507173,
+                        35.914119
+                  ]
+            },
+            {
+                  "name": "Il-Monument ta' Sir Alexander Ball",
+                  "text": "A monument dedicated to Sir Alexander Ball in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.517551,
+                        35.897489
+                  ]
+            },
+            {
+                  "name": "Saint John's Co-Cathedral",
+                  "text": "A magnificent Baroque co-cathedral in Tigné Point famous for its Caravaggio paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512623,
+                        35.897697
+                  ]
+            },
+            {
+                  "name": "Saint Paul's Anglican Cathedral",
+                  "text": "An Anglican pro-cathedral with a landmark spire in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512013,
+                        35.900696
+                  ]
+            },
+            {
+                  "name": "Stella Maris Parish Church",
+                  "text": "A historic Catholic parish church in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.50416,
+                        35.911983
+                  ]
+            },
+            {
+                  "name": "Auberge of Bavière",
+                  "text": "A palatial historic building in Tigné Point.",
+                  "category": "landmark",
+                  "coords": [
+                        14.514179,
+                        35.901531
+                  ]
+            },
+            {
+                  "name": "Church of Saint Augustine",
+                  "text": "A historic church in Valletta dedicated to Saint Augustine.",
+                  "category": "landmark",
+                  "coords": [
+                        14.510831,
+                        35.898701
+                  ]
+            },
+            {
+                  "name": "Saint Publius Parish Church",
+                  "text": "The parish church of Floriana is a significant religious monument near Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.504731,
+                        35.892355
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of Pilar",
+                  "text": "A baroque church in Valletta dedicated to Our Lady of Pilar.",
+                  "category": "landmark",
+                  "coords": [
+                        14.512918,
+                        35.901216
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "This Greek Catholic church is located in the capital city of Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.51692,
+                        35.899526
+                  ]
+            }
+      ]
+},
     name: { de: "Tigné Point", hu: "Tigné Point", ro: "Tigné Point", en: "Tigné Point" },
     type: "city",
     parent: "MT-003",
@@ -3863,7 +5456,1420 @@ export const maltaPoi: POI[] = [
 
   // MT-034 Mosta
   {
-    id: "poi-mt-mosta",
+    id: "poi-mt-mosta", "sights": {
+      "de": [
+            {
+                  "name": "Tal-Qadi Temple",
+                  "text": "Eine megalithische Tempelanlage aus der Bronzezeit in der Nähe von Mosta.",
+                  "category": "historical",
+                  "coords": [
+                        14.420483,
+                        35.936656
+                  ]
+            },
+            {
+                  "name": "Wied Filep Dolmen",
+                  "text": "Ein prähistorisches Megalithgrab, das Zeugnis von Maltas früher Besiedlung ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        14.431561,
+                        35.91952
+                  ]
+            },
+            {
+                  "name": "Batterija tat-Tarġa",
+                  "text": "Eine im 19. Jahrhundert erbaute Artilleriebatterie zur Verteidigung der Victoria Lines.",
+                  "category": "fortress",
+                  "coords": [
+                        14.40934,
+                        35.916549
+                  ]
+            },
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "Ein prächtiger Palast aus dem 18. Jahrhundert mit weitläufigen Gartenanlagen.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "Villa Rumana San Pawl Milqi",
+                  "text": "Archäologische Ausgrabungsstätte einer römischen Villa, die mit dem Apostel Paulus verbunden wird.",
+                  "category": "historical",
+                  "coords": [
+                        14.411851,
+                        35.933423
+                  ]
+            },
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Ein historischer Palast, der heute als offizielle Residenz des maltesischen Präsidenten dient.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "Ein Museum auf dem ehemaligen Flugplatz Ta' Qali, das Maltas Luftfahrtgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "Ta Bistra Catacombs",
+                  "text": "Ein unterirdisches Netzwerk aus frühchristlichen Grabstätten in der Nähe von Mosta.",
+                  "category": "historical",
+                  "coords": [
+                        14.416209,
+                        35.915542
+                  ]
+            },
+            {
+                  "name": "Cart Ruts",
+                  "text": "Antike, in den Fels gehauene Wagenspuren ungeklärten Ursprungs.",
+                  "category": "historical",
+                  "coords": [
+                        14.425732,
+                        35.919368
+                  ]
+            },
+            {
+                  "name": "Il-Widna",
+                  "text": "Ein historischer akustischer Spiegel, der früher zur Früherkennung von Flugzeugen diente.",
+                  "category": "historical",
+                  "coords": [
+                        14.443654,
+                        35.931033
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "Überreste einer prähistorischen Mauer aus der Megalithkultur in Iklin.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "Ein Streichelzoo in Ta' Qali, der besonders bei Familien beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Theatre Next Door",
+                  "text": "Ein moderner Veranstaltungsort für Theateraufführungen und darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        14.436356,
+                        35.933834
+                  ]
+            },
+            {
+                  "name": "L-Inħawi Tal-Wej",
+                  "text": "Ein Naturschutzgebiet, das wichtige lokale Ökosysteme schützt.",
+                  "category": "natural",
+                  "coords": [
+                        14.433128,
+                        35.917785
+                  ]
+            },
+            {
+                  "name": "Il-Park Nazzjonali ta' Ta' Qali",
+                  "text": "Der größte Nationalpark Maltas mit weiten Grünflächen und Erholungszonen.",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Wunderschöne öffentliche Gärten rund um den San Anton Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "Eine elegante Villa mit barocken Gärten, die für ihre Architektur bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Qadima",
+                  "text": "Ein historisches Denkmal, das an die traditionelle Windmühlentechnik erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Ġdida tal-Mosta",
+                  "text": "Eine der traditionellen Windmühlen in Mosta, die das kulturelle Erbe der Stadt prägen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "It-Torri ta' Ħal Lija",
+                  "text": "Ein dekorativer Turm aus dem 19. Jahrhundert, der als lokales Wahrzeichen gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "Ein im 17. Jahrhundert erbautes Aquädukt, das Wasser nach Valletta leitete.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448191,
+                        35.893107
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna tal-Għaqba",
+                  "text": "Eine traditionelle maltesische Windmühle, die als historisches Wahrzeichen erhalten blieb.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Mosta Valley Climbing",
+                  "text": "Ein beliebtes Ziel für Klettersportler in der malerischen Kulisse des Mosta-Tals.",
+                  "category": "landmark",
+                  "coords": [
+                        14.428337,
+                        35.919502
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "Ein geschichtsträchtiger Ort auf dem Gelände des ehemaligen Luftwaffenstützpunkts der RAF.",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "Ein Denkmal zu Ehren von Emmanuel Benjamin Vella für seine kulturellen Beiträge.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Ta' Gadaf",
+                  "text": "Die Ruinen einer historischen Struktur, die Zeugnis von der Vergangenheit der Region ablegen.",
+                  "category": "historical",
+                  "coords": [
+                        14.436386,
+                        35.928044
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "Ein Zentrum für traditionelle Glaskunst, bekannt für seine handgefertigten Glasprodukte.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "Eine Kunstgalerie, die zeitgenössische Werke fördert und ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "Ein Ort der religiösen Besinnung und Teil eines Konvents in Mosta.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "San Pawl Eremita",
+                  "text": "Eine kleine Kapelle in einer Höhle, die dem heiligen Paul dem Eremiten gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.428891,
+                        35.92103
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "Die Pfarrkirche von Lija ist ein prächtiges Beispiel barocker Architektur in Malta.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "San Bartilmew",
+                  "text": "Eine historische Kirche in Għargħur, die dem heiligen Bartholomäus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.453471,
+                        35.923841
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Burmarrad",
+                  "text": "Die dem heiligen Paulus gewidmete Pfarrkirche im Dorf Burmarrad.",
+                  "category": "religious",
+                  "coords": [
+                        14.414634,
+                        35.934744
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Eine bedeutende Kulturerbestätte und Kirche, die der Verkündigung Mariens gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Sant' Anna",
+                  "text": "Eine traditionelle Kapelle, die der heiligen Anna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Santa Marija Assunta",
+                  "text": "Bekannt als Rotunde von Mosta, besitzt diese Kirche eine der weltweit größten freitragenden Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        14.425809,
+                        35.910071
+                  ]
+            },
+            {
+                  "name": "Torri tal-Kaptan",
+                  "text": "Ein befestigter Wohnturm aus dem 16. Jahrhundert, der dem Kapitän der Miliz gehörte.",
+                  "category": "tower",
+                  "coords": [
+                        14.442447,
+                        35.920678
+                  ]
+            },
+            {
+                  "name": "Knisja San Ġwann Battista",
+                  "text": "Eine lokale Kirche, die dem heiligen Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "San Nikola",
+                  "text": "Ein religiöses Gebäude, das dem heiligen Nikolaus geweiht ist und dem Gebet dient.",
+                  "category": "religious",
+                  "coords": [
+                        14.452406,
+                        35.923542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tal-Qadi Temple",
+                  "text": "Bronzkori megalitikus templommaradványok Mosta közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.420483,
+                        35.936656
+                  ]
+            },
+            {
+                  "name": "Wied Filep Dolmen",
+                  "text": "Prehisztorikus megalitikus sír, amely Málta korai betelepüléséről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        14.431561,
+                        35.91952
+                  ]
+            },
+            {
+                  "name": "Batterija tat-Tarġa",
+                  "text": "A 19. században épült tüzérségi üteg a Victoria Lines védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        14.40934,
+                        35.916549
+                  ]
+            },
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "Pompás 18. századi palota kiterjedt kertekkel.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "Villa Rumana San Pawl Milqi",
+                  "text": "Egy római villa régészeti lelőhelye, amelyet Szent Pál apostollal hoznak összefüggésbe.",
+                  "category": "historical",
+                  "coords": [
+                        14.411851,
+                        35.933423
+                  ]
+            },
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Történelmi palota, amely ma a máltai elnök hivatalos rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "A Ta' Qali egykori repülőterén található múzeum, amely Málta repüléstörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "Ta Bistra Catacombs",
+                  "text": "Kora keresztény sírhelyek földalatti hálózata Mosta közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.416209,
+                        35.915542
+                  ]
+            },
+            {
+                  "name": "Cart Ruts",
+                  "text": "Ősi, sziklába vájt keréknyomok, melyek eredete ismeretlen.",
+                  "category": "historical",
+                  "coords": [
+                        14.425732,
+                        35.919368
+                  ]
+            },
+            {
+                  "name": "Il-Widna",
+                  "text": "Történelmi hangtükör, amelyet korábban repülőgépek korai észlelésére használtak.",
+                  "category": "historical",
+                  "coords": [
+                        14.443654,
+                        35.931033
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "Prehisztorikus megalitikus fal maradványai Iklinben.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "Állatsimogató Ta' Qaliban, amely különösen népszerű a családok körében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Theatre Next Door",
+                  "text": "Modern helyszín színházi előadások és előadóművészeti produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        14.436356,
+                        35.933834
+                  ]
+            },
+            {
+                  "name": "L-Inħawi Tal-Wej",
+                  "text": "Természetvédelmi terület, amely fontos helyi ökoszisztémákat óv.",
+                  "category": "natural",
+                  "coords": [
+                        14.433128,
+                        35.917785
+                  ]
+            },
+            {
+                  "name": "Il-Park Nazzjonali ta' Ta' Qali",
+                  "text": "Málta legnagyobb nemzeti parkja tágas zöldfelületekkel és pihenőövezetekkel.",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Gyönyörű nyilvános kertek a San Anton-palota körül.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "Elegáns villa barokk kertekkel, amely építészetéről nevezetes.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Qadima",
+                  "text": "Történelmi emlékhely, amely a hagyományos szélmalom-technológiát idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Ġdida tal-Mosta",
+                  "text": "Mosta egyik hagyományos szélmalma, amely a város kulturális örökségét gazdagítja.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "It-Torri ta' Ħal Lija",
+                  "text": "Díszes 19. századi torony, amely helyi nevezetességnek számít.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "A 17. században épült vízvezeték, amely Vallettába szállította a vizet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448191,
+                        35.893107
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna tal-Għaqba",
+                  "text": "Hagyományos máltai szélmalom, amely történelmi emlékként maradt fenn.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Mosta Valley Climbing",
+                  "text": "Népszerű sziklamászó hely a Mosta-völgy festői környezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.428337,
+                        35.919502
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "Történelmi jelentőségű hely az egykori brit légierő (RAF) repülőterének területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "Emlékmű Emmanuel Benjamin Vella tiszteletére, kulturális hozzájárulásának elismeréseként.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Ta' Gadaf",
+                  "text": "Egy történelmi építmény romjai, amelyek a régió múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        14.436386,
+                        35.928044
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "A hagyományos üvegművészet központja, amely kézzel készült üvegtermékeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "Kortárs művészeti galéria, amely modern alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "A hitélet helyszíne és egy kolostor része Mostában.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "San Pawl Eremita",
+                  "text": "Szent Pál remetének szentelt apró barlangkápolna a völgyben.",
+                  "category": "religious",
+                  "coords": [
+                        14.428891,
+                        35.92103
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "Lija plébániatemploma a máltai barokk építészet pompás példája.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "San Bartilmew",
+                  "text": "Szent Bertalannak szentelt történelmi templom Għargħurban.",
+                  "category": "religious",
+                  "coords": [
+                        14.453471,
+                        35.923841
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Burmarrad",
+                  "text": "Szent Pálnak szentelt plébániatemplom Burmarrad faluban.",
+                  "category": "religious",
+                  "coords": [
+                        14.414634,
+                        35.934744
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Jelentős örökségi helyszín és templom, amelyet az Angyali üdvözletnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Sant' Anna",
+                  "text": "Szent Annának szentelt hagyományos kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Santa Marija Assunta",
+                  "text": "A mostai dómként ismert templom a világ egyik legnagyobb alátámasztás nélküli kupolájával rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        14.425809,
+                        35.910071
+                  ]
+            },
+            {
+                  "name": "Torri tal-Kaptan",
+                  "text": "16. századi erődített lakótorony, amely egykor a milícia kapitányáé volt.",
+                  "category": "tower",
+                  "coords": [
+                        14.442447,
+                        35.920678
+                  ]
+            },
+            {
+                  "name": "Knisja San Ġwann Battista",
+                  "text": "Helyi templom, amelyet Keresztelő Szent Jánosnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "San Nikola",
+                  "text": "Szent Miklósnak szentelt vallási épület, amely az imádság helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        14.452406,
+                        35.923542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tal-Qadi Temple",
+                  "text": "O structură templieră megalitică din epoca bronzului, situată lângă Mosta.",
+                  "category": "historical",
+                  "coords": [
+                        14.420483,
+                        35.936656
+                  ]
+            },
+            {
+                  "name": "Wied Filep Dolmen",
+                  "text": "Un mormânt megalitic preistoric ce atestă așezările timpurii din Malta.",
+                  "category": "historical",
+                  "coords": [
+                        14.431561,
+                        35.91952
+                  ]
+            },
+            {
+                  "name": "Batterija tat-Tarġa",
+                  "text": "O baterie de artilerie construită în secolul al XIX-lea pentru apărarea liniilor Victoria.",
+                  "category": "fortress",
+                  "coords": [
+                        14.40934,
+                        35.916549
+                  ]
+            },
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "Un palat somptuos din secolul al XVIII-lea, cu grădini vaste.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "Villa Rumana San Pawl Milqi",
+                  "text": "Situl arheologic al unei vile romane, asociat cu Sfântul Apostol Pavel.",
+                  "category": "historical",
+                  "coords": [
+                        14.411851,
+                        35.933423
+                  ]
+            },
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Un palat istoric care servește astăzi drept reședință oficială a președintelui Maltei.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "Un muzeu pe fostul aerodrom Ta' Qali, care prezintă istoria aviației din Malta.",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "Ta Bistra Catacombs",
+                  "text": "O rețea subterană de situri funerare timpurii, situată lângă Mosta.",
+                  "category": "historical",
+                  "coords": [
+                        14.416209,
+                        35.915542
+                  ]
+            },
+            {
+                  "name": "Cart Ruts",
+                  "text": "Urme antice de care săpate în stâncă, de origine necunoscută.",
+                  "category": "historical",
+                  "coords": [
+                        14.425732,
+                        35.919368
+                  ]
+            },
+            {
+                  "name": "Il-Widna",
+                  "text": "O oglindă acustică istorică, folosită anterior pentru detectarea timpurie a avioanelor.",
+                  "category": "historical",
+                  "coords": [
+                        14.443654,
+                        35.931033
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "Rămășițele unui zid preistoric din cultura megalitică, în Iklin.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "O fermă cu animale domestice în Ta' Qali, populară în rândul familiilor.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Theatre Next Door",
+                  "text": "Un spațiu modern pentru spectacole de teatru și arte interpretative.",
+                  "category": "cultural",
+                  "coords": [
+                        14.436356,
+                        35.933834
+                  ]
+            },
+            {
+                  "name": "L-Inħawi Tal-Wej",
+                  "text": "O rezervație naturală care protejează ecosisteme locale importante.",
+                  "category": "natural",
+                  "coords": [
+                        14.433128,
+                        35.917785
+                  ]
+            },
+            {
+                  "name": "Il-Park Nazzjonali ta' Ta' Qali",
+                  "text": "Cel mai mare parc național din Malta, cu spații verzi vaste și zone de recreere.",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Grădini publice frumoase care înconjoară Palatul San Anton.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "O vilă elegantă cu grădini baroce, cunoscută pentru arhitectura sa.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Qadima",
+                  "text": "Un monument istoric care amintește de tehnologia tradițională a morilor de vânt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Ġdida tal-Mosta",
+                  "text": "Una dintre morile de vânt tradiționale din Mosta, care contribuie la patrimoniul cultural al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "It-Torri ta' Ħal Lija",
+                  "text": "Un turn decorativ din secolul al XIX-lea, considerat un reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "Un apeduct construit în secolul al XVII-lea, care transporta apa spre Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448191,
+                        35.893107
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna tal-Għaqba",
+                  "text": "O moară de vânt tradițională malteză, păstrată ca reper istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Mosta Valley Climbing",
+                  "text": "O destinație populară pentru alpinism în decorul pitoresc al văii Mosta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.428337,
+                        35.919502
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "Un loc cu însemnătate istorică situat pe terenul fostei baze aeriene RAF.",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "Un monument în cinstea lui Emmanuel Benjamin Vella, pentru contribuțiile sale culturale.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Ta' Gadaf",
+                  "text": "Ruinele unei structuri istorice care atestă trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        14.436386,
+                        35.928044
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "Un centru al artei tradiționale a sticlei, renumit pentru produsele din sticlă realizate manual.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "O galerie de artă care promovează și expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "Un loc de reculegere religioasă și parte a unei mănăstiri din Mosta.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "San Pawl Eremita",
+                  "text": "O mică chapelă într-o peșteră, dedicată Sfântului Pavel Eremitul.",
+                  "category": "religious",
+                  "coords": [
+                        14.428891,
+                        35.92103
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "Biserica parohială din Lija este un exemplu splendid de arhitectură barocă din Malta.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "San Bartilmew",
+                  "text": "O biserică istorică din Għargħur, închinată Sfântului Bartolomeu.",
+                  "category": "religious",
+                  "coords": [
+                        14.453471,
+                        35.923841
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Burmarrad",
+                  "text": "Biserica parohială închinată Sfântului Pavel din satul Burmarrad.",
+                  "category": "religious",
+                  "coords": [
+                        14.414634,
+                        35.934744
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Un sit de patrimoniu important și biserică închinată Bunei Vestiri.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Sant' Anna",
+                  "text": "O chapelă tradițională dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Santa Marija Assunta",
+                  "text": "Cunoscută sub numele de Rotunda din Mosta, această biserică are una dintre cele mai mari cupole nesusținute din lume.",
+                  "category": "religious",
+                  "coords": [
+                        14.425809,
+                        35.910071
+                  ]
+            },
+            {
+                  "name": "Torri tal-Kaptan",
+                  "text": "Un turn de locuit fortificat din secolul al XVI-lea, care a aparținut căpitanului miliției.",
+                  "category": "tower",
+                  "coords": [
+                        14.442447,
+                        35.920678
+                  ]
+            },
+            {
+                  "name": "Knisja San Ġwann Battista",
+                  "text": "O biserică locală închinată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "San Nikola",
+                  "text": "Un edificiu religios închinat Sfântului Nicolae, servind ca lăcaș de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        14.452406,
+                        35.923542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tal-Qadi Temple",
+                  "text": "A megalithic temple structure from the Bronze Age located near Mosta.",
+                  "category": "historical",
+                  "coords": [
+                        14.420483,
+                        35.936656
+                  ]
+            },
+            {
+                  "name": "Wied Filep Dolmen",
+                  "text": "A prehistoric megalithic tomb witnessing Malta's early habitation.",
+                  "category": "historical",
+                  "coords": [
+                        14.431561,
+                        35.91952
+                  ]
+            },
+            {
+                  "name": "Tarġa Battery",
+                  "text": "A 19th-century artillery battery built to defend the Victoria Lines.",
+                  "category": "fortress",
+                  "coords": [
+                        14.40934,
+                        35.916549
+                  ]
+            },
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "A grand 18th-century palace featuring extensive landscaped gardens.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "San Pawl Milqi Roman Villa",
+                  "text": "Archaeological site of a Roman villa associated with Saint Paul the Apostle.",
+                  "category": "historical",
+                  "coords": [
+                        14.411851,
+                        35.933423
+                  ]
+            },
+            {
+                  "name": "San Anton Palace",
+                  "text": "A historic palace that now serves as the official residence of the President of Malta.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "A museum at the former Ta' Qali airfield showcasing Malta's aviation history.",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "Ta Bistra Catacombs",
+                  "text": "An underground network of early burial sites located near Mosta.",
+                  "category": "historical",
+                  "coords": [
+                        14.416209,
+                        35.915542
+                  ]
+            },
+            {
+                  "name": "Cart Ruts",
+                  "text": "Ancient, rock-cut cart tracks of mysterious origin.",
+                  "category": "historical",
+                  "coords": [
+                        14.425732,
+                        35.919368
+                  ]
+            },
+            {
+                  "name": "Il-Widna",
+                  "text": "A historic acoustic mirror formerly used for early detection of aircraft.",
+                  "category": "historical",
+                  "coords": [
+                        14.443654,
+                        35.931033
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "Remains of a prehistoric wall from the megalithic culture in Iklin.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Ta' Qali Petting Farm",
+                  "text": "A petting farm in Ta' Qali that is particularly popular with families.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Theatre Next Door",
+                  "text": "A modern venue for theatrical performances and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        14.436356,
+                        35.933834
+                  ]
+            },
+            {
+                  "name": "L-Inħawi Tal-Wej",
+                  "text": "A nature reserve protecting important local ecosystems.",
+                  "category": "natural",
+                  "coords": [
+                        14.433128,
+                        35.917785
+                  ]
+            },
+            {
+                  "name": "Ta' Qali National Park",
+                  "text": "Malta's largest national park featuring expansive green spaces and recreation areas.",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "San Anton Gardens",
+                  "text": "Beautiful public gardens surrounding the San Anton Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "An elegant villa with baroque gardens, known for its architecture.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "The Old Windmill",
+                  "text": "A historical monument recalling traditional windmill technology.",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Mosta New Mill",
+                  "text": "One of the traditional windmills in Mosta, contributing to the town's cultural heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "Lija Belvedere Tower",
+                  "text": "A decorative 19th-century tower considered a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "Wignacourt Aqueduct",
+                  "text": "A 17th-century aqueduct built to carry water to Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448191,
+                        35.893107
+                  ]
+            },
+            {
+                  "name": "Tal-Ghaqba Windmill",
+                  "text": "A traditional Maltese windmill preserved as a historical landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Mosta Valley Climbing",
+                  "text": "A popular destination for rock climbing in the scenic Mosta Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        14.428337,
+                        35.919502
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "A site of historical interest located on the grounds of the former RAF airfield.",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "A monument dedicated to Emmanuel Benjamin Vella, honoring his cultural contributions.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Ta' Gadaf",
+                  "text": "The ruins of a historical structure witnessing the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        14.436386,
+                        35.928044
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "A centre for traditional glass art, famous for its handmade glass products.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "Gabriel Caruana Foundation",
+                  "text": "An art gallery promoting and exhibiting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "A place of religious reflection and part of a convent in Mosta.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Saint Paul the Hermit",
+                  "text": "A small cave chapel dedicated to Saint Paul the Hermit.",
+                  "category": "religious",
+                  "coords": [
+                        14.428891,
+                        35.92103
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "The parish church of Lija is a magnificent example of baroque architecture in Malta.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "Saint Bartholomew",
+                  "text": "A historic church in Għargħur dedicated to Saint Bartholomew.",
+                  "category": "religious",
+                  "coords": [
+                        14.453471,
+                        35.923841
+                  ]
+            },
+            {
+                  "name": "Burmarrad Parish Church",
+                  "text": "The parish church dedicated to Saint Paul in the village of Burmarrad.",
+                  "category": "religious",
+                  "coords": [
+                        14.414634,
+                        35.934744
+                  ]
+            },
+            {
+                  "name": "Parish Church of Our Lady of Annunciation",
+                  "text": "A significant heritage site and church dedicated to the Annunciation.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Saint Anne",
+                  "text": "A traditional chapel dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Assumption of Saint Mary",
+                  "text": "Known as the Rotunda of Mosta, this church features one of the world's largest unsupported domes.",
+                  "category": "religious",
+                  "coords": [
+                        14.425809,
+                        35.910071
+                  ]
+            },
+            {
+                  "name": "Torri tal-Kaptan",
+                  "text": "A 16th-century fortified residential tower that belonged to the captain of the militia.",
+                  "category": "tower",
+                  "coords": [
+                        14.442447,
+                        35.920678
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist Church",
+                  "text": "A local church dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "Saint Nicholas",
+                  "text": "A religious building dedicated to Saint Nicholas, serving as a place for prayer.",
+                  "category": "religious",
+                  "coords": [
+                        14.452406,
+                        35.923542
+                  ]
+            }
+      ]
+},
     name: { de: "Mosta-Dom", hu: "Mosta-dóm", ro: "Domul din Mosta", en: "Mosta Dome" },
     type: "city",
     coords: [14.425, 35.91],
@@ -4221,7 +7227,988 @@ export const maltaPoi: POI[] = [
 
   // MT-038 Mdina
   {
-    id: "poi-mt-mdina",
+    id: "poi-mt-mdina", "sights": {
+      "de": [
+            {
+                  "name": "Nationales Naturkundemuseum",
+                  "text": "Das National Museum of Natural History ist ein bedeutendes Museum, das in einem historischen Palast in Mdina (Stille Stadt) untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.403874,
+                        35.884817
+                  ]
+            },
+            {
+                  "name": "Katakombi ta' San Pawl",
+                  "text": "Katakombi ta' San Pawl ist ein bedeutender römischer unterirdischer Friedhofskomplex nahe Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.397872,
+                        35.881097
+                  ]
+            },
+            {
+                  "name": "Għajn Klieb",
+                  "text": "Għajn Klieb ist eine archäologische Stätte in Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.384534,
+                        35.885369
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Lunzjata",
+                  "text": "Die Annunciation Church in Mdina (Stille Stadt) ist eine Karmelitenkirche, die auch als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        14.402952,
+                        35.886921
+                  ]
+            },
+            {
+                  "name": "Il-Palazz Verdala",
+                  "text": "Der Verdala Palace ist eine majestätische Burg nahe Mdina (Stille Stadt), die als offizielle Sommerresidenz des Präsidenten von Malta dient.",
+                  "category": "castle",
+                  "coords": [
+                        14.400633,
+                        35.861502
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Die Domus Romana ist eine archäologische Stätte in Mdina (Stille Stadt) mit den Ruinen eines Hauses aus der Römerzeit.",
+                  "category": "historical",
+                  "coords": [
+                        14.400325,
+                        35.885152
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "Das Malta Aviation Museum in der Nähe von Mdina (Stille Stadt) zeigt eine Sammlung historischer Flugzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "cart ruts",
+                  "text": "Cart ruts sind antike archäologische Wagenspuren im Gelände um Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.392565,
+                        35.888211
+                  ]
+            },
+            {
+                  "name": "catacombs",
+                  "text": "Diese Katakomben bilden eine interessante archäologische Stätte in Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.378204,
+                        35.903636
+                  ]
+            },
+            {
+                  "name": "Wignacourt Museum and Saint Paul's Grotto",
+                  "text": "Das Wignacourt Museum and Saint Paul's Grotto ist ein faszinierendes Museum und eine historische Stätte in Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.398913,
+                        35.881646
+                  ]
+            },
+            {
+                  "name": "The Mdina Experience",
+                  "text": "The Mdina Experience ist ein ansprechendes Museum zur Lokalgeschichte in Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.402585,
+                        35.885899
+                  ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "Die Ta' Qali Petting Farm ist ein familienfreundlicher Zoo in der Nähe von Mdina (Stille Stadt).",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Tax-Xierfa Museum",
+                  "text": "Das Tax-Xierfa Museum ist eine lokale Ausstellungsstätte und ein Museum in Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.391751,
+                        35.875892
+                  ]
+            },
+            {
+                  "name": "St. Agathe Catacombs",
+                  "text": "St. Agathe Catacombs ist eine unterirdische archäologische Stätte in Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.396815,
+                        35.880696
+                  ]
+            },
+            {
+                  "name": "Il-Park Nazzjonali ta' Ta' Qali",
+                  "text": "Der Ta' Qali National Park ist ein großer öffentlicher Erholungspark in der Nähe von Mdina (Stille Stadt).",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Qadima",
+                  "text": "The Old Windmill ist eine klassische historische Windmühle in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Ġdida tal-Mosta",
+                  "text": "Mosta New Mill ist eine markante Windmühle in der Nähe von Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "Ta' Qali ist ein historischer ehemaliger RAF-Flugplatz und eine bemerkenswerte Attraktion nahe Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Casa Bernard",
+                  "text": "Casa Bernard ist eine historische Residenz in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.399393,
+                        35.882874
+                  ]
+            },
+            {
+                  "name": "Dwejra Lines",
+                  "text": "Die Dwejra Lines sind eine bekannte historische Verteidigungslinie und Attraktion in der Nähe von Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.388923,
+                        35.906271
+                  ]
+            },
+            {
+                  "name": "Lovers Rock",
+                  "text": "Lovers Rock ist ein malerischer Aussichtspunkt in Mdina (Stille Stadt).",
+                  "category": "natural",
+                  "coords": [
+                        14.385393,
+                        35.899173
+                  ]
+            },
+            {
+                  "name": "Wied il-Qlejgħa",
+                  "text": "Die Chadwick Lakes sind eine Naturattraktion mit Wasserlandschaften nahe Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.389219,
+                        35.891607
+                  ]
+            },
+            {
+                  "name": "Mdina Panorama",
+                  "text": "Mdina Panorama ist ein hervorragender Aussichtspunkt, der weite Blicke über die Insel von Mdina (Stille Stadt) bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.400306,
+                        35.891261
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "Mdina Glass ist eine Touristenattraktion in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "Kathedrale St. Paul",
+                  "text": "Die St. Paul's Cathedral ist eine historische römisch-katholische Kathedrale in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.404111,
+                        35.886417
+                  ]
+            },
+            {
+                  "name": "L-Kappella ta' Santa Marija tal-Virtù",
+                  "text": "Die Tal-Virtù Chapel ist ein markantes zylindrisches Kirchengebäude in Mdina (Stille Stadt).",
+                  "category": "religious",
+                  "coords": [
+                        14.406671,
+                        35.873745
+                  ]
+            },
+            {
+                  "name": "Kappella Ta' Duna",
+                  "text": "Die Ta' Duna Chapel ist eine Attraktion und Informationsstelle in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.400356,
+                        35.884092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "National Museum of Natural History",
+                  "text": "A National Museum of Natural History egy jelentős múzeum, amely egy történelmi palotában működik Mdina (Stille Stadt) városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.403874,
+                        35.884817
+                  ]
+            },
+            {
+                  "name": "Katakombi ta' San Pawl",
+                  "text": "A Katakombi ta' San Pawl egy jelentős római kori földalatti temetőkomplexum Mdina (Stille Stadt) közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.397872,
+                        35.881097
+                  ]
+            },
+            {
+                  "name": "Għajn Klieb",
+                  "text": "A Għajn Klieb egy régészeti lelőhely Mdina (Stille Stadt) területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.384534,
+                        35.885369
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Lunzjata",
+                  "text": "A Mdina (Stille Stadt) területén található Annunciation Church egy karmelita templom és múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.402952,
+                        35.886921
+                  ]
+            },
+            {
+                  "name": "Il-Palazz Verdala",
+                  "text": "A Verdala Palace egy fenséges kastély Mdina (Stille Stadt) közelében, amely a máltai elnök hivatalos nyári rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        14.400633,
+                        35.861502
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "A Domus Romana egy régészeti lelőhely Mdina (Stille Stadt) területén, egy római kori ház romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        14.400325,
+                        35.885152
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "A Malta Aviation Museum egy történelmi repülőgépeket bemutató múzeum Mdina (Stille Stadt) közelében.",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "cart ruts",
+                  "text": "A cart ruts (szekérnyomok) egy ősi régészeti lelőhely Mdina (Stille Stadt) környékén.",
+                  "category": "historical",
+                  "coords": [
+                        14.392565,
+                        35.888211
+                  ]
+            },
+            {
+                  "name": "catacombs",
+                  "text": "Ezek a katakombák egy érdekes régészeti lelőhelyet alkotnak Mdina (Stille Stadt) területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.378204,
+                        35.903636
+                  ]
+            },
+            {
+                  "name": "Wignacourt Museum and Saint Paul's Grotto",
+                  "text": "A Wignacourt Museum and Saint Paul's Grotto egy magával ragadó múzeum és történelmi helyszín Mdina (Stille Stadt) városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.398913,
+                        35.881646
+                  ]
+            },
+            {
+                  "name": "The Mdina Experience",
+                  "text": "A The Mdina Experience egy a helytörténetet bemutató érdekes múzeum Mdina (Stille Stadt) városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.402585,
+                        35.885899
+                  ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "A Ta' Qali Petting Farm egy családbarát állatkert Mdina (Stille Stadt) közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Tax-Xierfa Museum",
+                  "text": "A Tax-Xierfa Museum egy helyi kiállítótér és múzeum Mdina (Stille Stadt) városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.391751,
+                        35.875892
+                  ]
+            },
+            {
+                  "name": "St. Agathe Catacombs",
+                  "text": "A St. Agathe Catacombs egy földalatti régészeti lelőhely Mdina (Stille Stadt) területén.",
+                  "category": "historical",
+                  "coords": [
+                        14.396815,
+                        35.880696
+                  ]
+            },
+            {
+                  "name": "Il-Park Nazzjonali ta' Ta' Qali",
+                  "text": "A Ta' Qali National Park egy nagy kiterjedésű nyilvános szabadidőpark Mdina (Stille Stadt) közelében.",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Qadima",
+                  "text": "A The Old Windmill egy klasszikus történelmi szélmalom Mdina (Stille Stadt) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Ġdida tal-Mosta",
+                  "text": "A Mosta New Mill egy jellegzetes szélmalom Mdina (Stille Stadt) közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "Ta' Qali egy történelmi egykori RAF repülőtér és látványosság Mdina (Stille Stadt) közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Casa Bernard",
+                  "text": "A Casa Bernard egy történelmi rezidencia Mdina (Stille Stadt) városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.399393,
+                        35.882874
+                  ]
+            },
+            {
+                  "name": "Dwejra Lines",
+                  "text": "A Dwejra Lines egy ismert történelmi védelmi vonal és látványosság Mdina (Stille Stadt) közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.388923,
+                        35.906271
+                  ]
+            },
+            {
+                  "name": "Lovers Rock",
+                  "text": "A Lovers Rock egy festői kilátóhely Mdina (Stille Stadt) területén.",
+                  "category": "natural",
+                  "coords": [
+                        14.385393,
+                        35.899173
+                  ]
+            },
+            {
+                  "name": "Wied il-Qlejgħa",
+                  "text": "A Chadwick Lakes egy természetes látványosság tavakkal Mdina (Stille Stadt) közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        14.389219,
+                        35.891607
+                  ]
+            },
+            {
+                  "name": "Mdina Panorama",
+                  "text": "A Mdina Panorama egy kiváló kilátó, ahonnan remek rálátás nyílik a szigetre Mdina (Stille Stadt) városából.",
+                  "category": "natural",
+                  "coords": [
+                        14.400306,
+                        35.891261
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "A Mdina Glass egy turisztikai látványosság Mdina (Stille Stadt) városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "Katidral ta’ San Pawl",
+                  "text": "A St. Paul's Cathedral egy történelmi római katolikus katedrális Mdina (Stille Stadt) városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.404111,
+                        35.886417
+                  ]
+            },
+            {
+                  "name": "L-Kappella ta' Santa Marija tal-Virtù",
+                  "text": "A Tal-Virtù Chapel egy jellegzetes, hengeres formájú istentiszteleti hely Mdina (Stille Stadt) területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.406671,
+                        35.873745
+                  ]
+            },
+            {
+                  "name": "Kappella Ta' Duna",
+                  "text": "A Ta' Duna Chapel egy látványosság és információs pont Mdina (Stille Stadt) területén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.400356,
+                        35.884092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "National Museum of Natural History",
+                  "text": "National Museum of Natural History este un muzeu important găzduit într-un palat istoric din Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.403874,
+                        35.884817
+                  ]
+            },
+            {
+                  "name": "Katakombi ta' San Pawl",
+                  "text": "Katakombi ta' San Pawl este un important complex funerar roman subteran situat lângă Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.397872,
+                        35.881097
+                  ]
+            },
+            {
+                  "name": "Għajn Klieb",
+                  "text": "Għajn Klieb este un sit arheologic situat în Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.384534,
+                        35.885369
+                  ]
+            },
+            {
+                  "name": "Knisja tal-Lunzjata",
+                  "text": "Annunciation Church din Mdina (Stille Stadt) este o biserică carmelită ce funcționează și ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        14.402952,
+                        35.886921
+                  ]
+            },
+            {
+                  "name": "Il-Palazz Verdala",
+                  "text": "Verdala Palace este un castel maiestuos de lângă Mdina (Stille Stadt), care servește drept reședință oficială de vară a Președintelui Maltei.",
+                  "category": "castle",
+                  "coords": [
+                        14.400633,
+                        35.861502
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Domus Romana este un sit arheologic din Mdina (Stille Stadt) care prezintă ruinele unei case din epoca romană.",
+                  "category": "historical",
+                  "coords": [
+                        14.400325,
+                        35.885152
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "Malta Aviation Museum expune o colecție de aeronave istorice în apropiere de Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "cart ruts",
+                  "text": "Cart ruts sunt urme arheologice străvechi găsite pe terenul din jurul orașului Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.392565,
+                        35.888211
+                  ]
+            },
+            {
+                  "name": "catacombs",
+                  "text": "Aceste catacombe formează un sit arheologic situat în Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.378204,
+                        35.903636
+                  ]
+            },
+            {
+                  "name": "Wignacourt Museum and Saint Paul's Grotto",
+                  "text": "Wignacourt Museum and Saint Paul's Grotto este un muzeu și sit istoric captivant din Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.398913,
+                        35.881646
+                  ]
+            },
+            {
+                  "name": "The Mdina Experience",
+                  "text": "The Mdina Experience este un muzeu care detaliază istoria locală în Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.402585,
+                        35.885899
+                  ]
+            },
+            {
+                  "name": "Razzett l-Għożża tal-Annimali Ta' Qali",
+                  "text": "Ta' Qali Petting Farm este o grădină zoologică potrivită pentru familii, situată lângă Mdina (Stille Stadt).",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Tax-Xierfa Museum",
+                  "text": "Tax-Xierfa Museum este un spațiu expozițional și muzeu local din Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.391751,
+                        35.875892
+                  ]
+            },
+            {
+                  "name": "St. Agathe Catacombs",
+                  "text": "St. Agathe Catacombs este un sit arheologic subteran situat în Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.396815,
+                        35.880696
+                  ]
+            },
+            {
+                  "name": "Il-Park Nazzjonali ta' Ta' Qali",
+                  "text": "Ta' Qali National Park este un mare parc public de recreere situat în apropiere de Mdina (Stille Stadt).",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Qadima",
+                  "text": "The Old Windmill este o moară de vânt istorică clasică situată în Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna l-Ġdida tal-Mosta",
+                  "text": "Mosta New Mill este o moară de vânt distinctivă situată lângă Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "Ta' Qali este un fost aerodrom militar britanic istoric ce reprezintă o atracție notabilă lângă Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Casa Bernard",
+                  "text": "Casa Bernard este o reședință istorică din Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.399393,
+                        35.882874
+                  ]
+            },
+            {
+                  "name": "Dwejra Lines",
+                  "text": "Dwejra Lines reprezintă o cunoscută linie istorică de apărare și o atracție lângă Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.388923,
+                        35.906271
+                  ]
+            },
+            {
+                  "name": "Lovers Rock",
+                  "text": "Lovers Rock este un punct de belvedere pitoresc din Mdina (Stille Stadt).",
+                  "category": "natural",
+                  "coords": [
+                        14.385393,
+                        35.899173
+                  ]
+            },
+            {
+                  "name": "Wied il-Qlejgħa",
+                  "text": "Chadwick Lakes este o atracție naturală cu lacuri lângă Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.389219,
+                        35.891607
+                  ]
+            },
+            {
+                  "name": "Mdina Panorama",
+                  "text": "Mdina Panorama este un excelent punct de belvedere cu priveliști ample asupra insulei din Mdina (Stille Stadt).",
+                  "category": "natural",
+                  "coords": [
+                        14.400306,
+                        35.891261
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "Mdina Glass este o atracție turistică în Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "Katidral ta’ San Pawl",
+                  "text": "Catedrala Sfântul Pavel este o catedrală istorică romano-catolică situată în Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.404111,
+                        35.886417
+                  ]
+            },
+            {
+                  "name": "L-Kappella ta' Santa Marija tal-Virtù",
+                  "text": "Capela Tal-Virtù este un lăcaș de cult de formă cilindrică distinctivă situat în Mdina (Stille Stadt).",
+                  "category": "religious",
+                  "coords": [
+                        14.406671,
+                        35.873745
+                  ]
+            },
+            {
+                  "name": "Kappella Ta' Duna",
+                  "text": "Capela Ta' Duna este o atracție și un punct de informare situat în Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.400356,
+                        35.884092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "National Museum of Natural History",
+                  "text": "The National Museum of Natural History is a prominent museum housed within a historic palace in Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.403874,
+                        35.884817
+                  ]
+            },
+            {
+                  "name": "Katakombi ta' San Pawl",
+                  "text": "Katakombi ta' San Pawl is a significant Roman underground cemetery complex situated near Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.397872,
+                        35.881097
+                  ]
+            },
+            {
+                  "name": "Għajn Klieb",
+                  "text": "Għajn Klieb is an archaeological site located in Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.384534,
+                        35.885369
+                  ]
+            },
+            {
+                  "name": "Annunciation Church",
+                  "text": "The Annunciation Church in Mdina (Stille Stadt) is a Carmelite church that also serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        14.402952,
+                        35.886921
+                  ]
+            },
+            {
+                  "name": "Verdala Palace",
+                  "text": "Verdala Palace is a majestic castle near Mdina (Stille Stadt) that serves as the official summer residence of the President of Malta.",
+                  "category": "castle",
+                  "coords": [
+                        14.400633,
+                        35.861502
+                  ]
+            },
+            {
+                  "name": "Domus Romana",
+                  "text": "Domus Romana is a fascinating archaeological site in Mdina (Stille Stadt) featuring ruins of a Roman-era house.",
+                  "category": "historical",
+                  "coords": [
+                        14.400325,
+                        35.885152
+                  ]
+            },
+            {
+                  "name": "Malta Aviation Museum",
+                  "text": "The Malta Aviation Museum showcases a collection of historic aircraft near Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.4158,
+                        35.89339
+                  ]
+            },
+            {
+                  "name": "cart ruts",
+                  "text": "Cart ruts are ancient archaeological tracks found in the terrain around Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.392565,
+                        35.888211
+                  ]
+            },
+            {
+                  "name": "catacombs",
+                  "text": "These catacombs form an interesting archaeological site located in Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.378204,
+                        35.903636
+                  ]
+            },
+            {
+                  "name": "Wignacourt Museum and Saint Paul's Grotto",
+                  "text": "Wignacourt Museum and Saint Paul's Grotto is a captivating museum and historic site in Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.398913,
+                        35.881646
+                  ]
+            },
+            {
+                  "name": "The Mdina Experience",
+                  "text": "The Mdina Experience is an engaging museum detailing local history in Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.402585,
+                        35.885899
+                  ]
+            },
+            {
+                  "name": "Ta' Qali Petting Farm",
+                  "text": "Ta' Qali Petting Farm is a family-friendly zoo attraction located near Mdina (Stille Stadt).",
+                  "category": "recreational",
+                  "coords": [
+                        14.420648,
+                        35.890724
+                  ]
+            },
+            {
+                  "name": "Tax-Xierfa Museum",
+                  "text": "Tax-Xierfa Museum is a local exhibition and museum space in Mdina (Stille Stadt).",
+                  "category": "museum",
+                  "coords": [
+                        14.391751,
+                        35.875892
+                  ]
+            },
+            {
+                  "name": "St. Agathe Catacombs",
+                  "text": "St. Agathe Catacombs is an underground archaeological site located in Mdina (Stille Stadt).",
+                  "category": "historical",
+                  "coords": [
+                        14.396815,
+                        35.880696
+                  ]
+            },
+            {
+                  "name": "Ta' Qali National Park",
+                  "text": "Ta' Qali National Park is a large public recreational park near Mdina (Stille Stadt).",
+                  "category": "park",
+                  "coords": [
+                        14.421738,
+                        35.892502
+                  ]
+            },
+            {
+                  "name": "The Old Windmill",
+                  "text": "The Old Windmill is a classic historic windmill structure located in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.426245,
+                        35.904274
+                  ]
+            },
+            {
+                  "name": "Mosta New Mill",
+                  "text": "Mosta New Mill is a distinctive windmill situated near Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.42573,
+                        35.905341
+                  ]
+            },
+            {
+                  "name": "Ta' Qali (Former RAF airfield)",
+                  "text": "Ta' Qali is a historic former RAF airfield that serves as a notable attraction near Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.424178,
+                        35.892971
+                  ]
+            },
+            {
+                  "name": "Casa Bernard",
+                  "text": "Casa Bernard is an attractive historical residence located in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.399393,
+                        35.882874
+                  ]
+            },
+            {
+                  "name": "Dwejra Lines",
+                  "text": "Dwejra Lines is a well-known historical defense line attraction near Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.388923,
+                        35.906271
+                  ]
+            },
+            {
+                  "name": "Lovers Rock",
+                  "text": "Lovers Rock is a scenic viewpoint offering beautiful panoramas in Mdina (Stille Stadt).",
+                  "category": "natural",
+                  "coords": [
+                        14.385393,
+                        35.899173
+                  ]
+            },
+            {
+                  "name": "Chadwick Lakes",
+                  "text": "Chadwick Lakes is a beautiful natural attraction with water features near Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.389219,
+                        35.891607
+                  ]
+            },
+            {
+                  "name": "Mdina Panorama",
+                  "text": "Mdina Panorama is an excellent viewpoint showcasing sweeping views of the island from Mdina (Stille Stadt).",
+                  "category": "natural",
+                  "coords": [
+                        14.400306,
+                        35.891261
+                  ]
+            },
+            {
+                  "name": "Mdina Glass",
+                  "text": "Mdina Glass is a tourist attraction located in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.42245,
+                        35.891311
+                  ]
+            },
+            {
+                  "name": "St. Paul's Cathedral",
+                  "text": "St. Paul's Cathedral is a historic Roman Catholic cathedral situated in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.404111,
+                        35.886417
+                  ]
+            },
+            {
+                  "name": "Tal-Virtù Chapel",
+                  "text": "Tal-Virtù Chapel is a distinctive cylindrical place of worship situated in Mdina (Stille Stadt).",
+                  "category": "religious",
+                  "coords": [
+                        14.406671,
+                        35.873745
+                  ]
+            },
+            {
+                  "name": "Ta' Duna Chapel",
+                  "text": "Ta' Duna Chapel is an attraction and information point located in Mdina (Stille Stadt).",
+                  "category": "landmark",
+                  "coords": [
+                        14.400356,
+                        35.884092
+                  ]
+            }
+      ]
+},
     name: { de: "Mdina (Stille Stadt)", hu: "Mdina (Csendes Város)", ro: "Mdina (Orașul Tăcut)", en: "Mdina (The Silent City)" },
     type: "city",
     coords: [14.4031, 35.8858],
@@ -4891,7 +8878,1384 @@ export const maltaPoi: POI[] = [
 
   // MT-045 Birkirkara
   {
-    id: "poi-mt-birkirkara",
+    id: "poi-mt-birkirkara", "sights": {
+      "de": [
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "Ein prächtiger Palast aus dem 18. Jahrhundert mit wunderschönen Gärten in Naxxar.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Der San Anton Palast in Attard dient als offizielle Residenz des Präsidenten von Malta.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "Ein lokaler Veranstaltungsort für darstellende Künste und kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Überreste einer prähistorischen megalithischen Mauer in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "Eine archäologische Stätte mit den Überresten einer antiken megalithischen Mauer.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Mużew tal-Bambini",
+                  "text": "Ein einzigartiges Museum, das Statuen des Jesuskindes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "Das Hauptquartier einer der ältesten Theatergruppen Maltas.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Ein öffentlicher Garten in Attard, bekannt für seine Brunnen und exotischen Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "Eine elegante historische Villa in Attard mit weitläufigen Gärten.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "Ein historisches Aquädukt aus dem 17. Jahrhundert, das einst Wasser nach Valletta leitete.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "It-Torri ta' Ħal Lija",
+                  "text": "Ein dekorativer Aussichtsturm aus dem 19. Jahrhundert in Lija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "L-Arkata ta' Wignacourt",
+                  "text": "Ein monumentaler Steinbogen, der Teil des Wignacourt-Aquäduktsystems war.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna tal-Għaqba",
+                  "text": "Eine traditionelle maltesische Windmühle in der Gegend von Birkirkara.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Raddet ir-Roti",
+                  "text": "Geheimnisvolle antike Karrenspuren, die in den Kalksteinboden gehauen wurden.",
+                  "category": "historical",
+                  "coords": [
+                        14.478169,
+                        35.911285
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "Eine lokale Sehenswürdigkeit, die an ein historisches Ereignis oder ein Wrack erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Id-Daħla l-Qadima tal-Gżira",
+                  "text": "Überreste des alten Tors der Stadt Gżira.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "Ein markanter lokaler Treffpunkt oder Orientierungspunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "Ein Denkmal zu Ehren von Emmanuel Benjamin Vella.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "Ein Gedenkmonument für Joe Sciberras.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Monument għall-Ħaddiema",
+                  "text": "Ein Denkmal, das der Arbeiterbewegung und den Arbeitern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "Ein markantes Steinkreuz mit lokaler historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Monument Għal Dun Karm",
+                  "text": "Ein Denkmal für Dun Karm Psaila, den Nationaldichter Maltas.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "Eine zeitgenössische Kunstgalerie, die lokale Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "Ein modernes Monument oder eine Installation in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "Ein Kunstzentrum in einer alten Windmühle, das dem Werk von Gabriel Caruana gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Torri ta' Ċieda",
+                  "text": "Ruinen eines antiken Turms, der vermutlich aus der römischen oder mittelalterlichen Zeit stammt.",
+                  "category": "historical",
+                  "coords": [
+                        14.480062,
+                        35.90736
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "Ein Kloster und eine Kapelle, die von der Gemeinschaft des Guten Hirten geführt werden.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "Die charmante Pfarrkirche von Lija, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "Eine markante Kirche in Hamrun, die dem Heiligen Cajetan gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Die historische Pfarrkirche von Balzan, der Verkündigung gewidmet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokkjali ta' Santa Marija",
+                  "text": "Eine bedeutende historische Pfarrkirche in Birkirkara.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Sant' Elena",
+                  "text": "Eine prachtvolle Barockbasilika in Birkirkara, die der Heiligen Helena gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Santa Venera",
+                  "text": "Die lokale Pfarrkirche für die Gemeinde Santa Venera.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Il-Kappella ta' Sant'Anna",
+                  "text": "Eine kleine Kapelle, die der Heiligen Anna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "Ein beliebtes Heiligtum in Birkirkara, das der Muttergottes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "Ein baptistisches Gotteshaus in der Stadt Gżira.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Knisja San Ġwann Battista",
+                  "text": "Eine Kirche, die dem Heiligen Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "Die historische Hauptkirche der Stadt Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "Pompás 18. századi palota gyönyörű kertekkel Naxxar városában.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Az attardi San Anton-palota Málta elnökének hivatalos rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "Helyi előadóművészeti helyszín kulturális események és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Egy őskori megalitikus fal maradványai a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "Régészeti lelőhely egy ősi megalitikus fal maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Mużew tal-Bambini",
+                  "text": "Egyedülálló múzeum, amelyet a gyermek Jézus szobrainak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "Málta egyik legrégebbi színjátszó társulatának székhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "Nyilvános kert Attardban, amely szökőkútjairól és egzotikus növényeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "Elegáns történelmi villa Attardban, kiterjedt kertekkel.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "17. századi történelmi vízvezeték, amely egykor vizet szállított Vallettába.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "It-Torri ta' Ħal Lija",
+                  "text": "Dekoratív 19. századi kilátótorony Lija városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "L-Arkata ta' Wignacourt",
+                  "text": "Egy monumentális kőív, amely a Wignacourt-vízvezetékrendszer része volt.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna tal-Għaqba",
+                  "text": "Hagyományos máltai szélmalom Birkirkara környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Raddet ir-Roti",
+                  "text": "Titokzatos ókori keréknyomok a mészkőbe vájva.",
+                  "category": "historical",
+                  "coords": [
+                        14.478169,
+                        35.911285
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "Helyi látványosság, amely egy történelmi eseményre vagy roncsra emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Id-Daħla l-Qadima tal-Gżira",
+                  "text": "Gżira város régi kapujának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "Jellegzetes helyi találkozási pont vagy tájékozódási pont.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "Emmanuel Benjamin Vella tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "Emlékmű Joe Sciberras emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Monument għall-Ħaddiema",
+                  "text": "A munkásmozgalomnak és a munkásoknak szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "Jellegzetes kőkereszt, amely helyi történelmi jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Monument Għal Dun Karm",
+                  "text": "Emlékmű Dun Karm Psaila, Málta nemzeti költője tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "Kortárs művészeti galéria, amely helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "Modern emlékmű vagy installáció a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "Egy régi szélmalomban kialakított művészeti központ, Gabriel Caruana munkásságának szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Torri ta' Ċieda",
+                  "text": "Egy ókori torony romjai, valószínűleg a római vagy a középkori korból.",
+                  "category": "historical",
+                  "coords": [
+                        14.480062,
+                        35.90736
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "A Jó Pásztor közösség által fenntartott kolostor és kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "Lija bájos plébániatemploma, amely építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "Szent Kajetánnak szentelt jellegzetes templom Hamrunban.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Balzan történelmi plébániatemploma, amelyet az Angyali üdvözletnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokkjali ta' Santa Marija",
+                  "text": "Jelentős történelmi plébániatemplom Birkirkara városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Sant' Elena",
+                  "text": "Pompás barokk bazilika Birkirkarában, Szent Ilonának szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Santa Venera",
+                  "text": "Santa Venera közösségének helyi plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Il-Kappella ta' Sant'Anna",
+                  "text": "Szent Annának szentelt kis kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "Népszerű szentély Birkirkarában, amelyet a Miasszonyunknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "Baptista istentiszteleti hely Gżira városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Knisja San Ġwann Battista",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "Qormi városának történelmi főtemploma.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "Un palat somptuos din secolul al XVIII-lea, cu grădini frumoase în Naxxar.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "Palazz ta' Sant'Anton",
+                  "text": "Palatul San Anton din Attard servește drept reședință oficială a președintelui Maltei.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "Un spațiu local pentru artele spectacolului și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Rămășițele unui zid megalitic preistoric din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "Un sit arheologic care prezintă rămășițele unui zid megalitic antic.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Mużew tal-Bambini",
+                  "text": "Un muzeu unic dedicat statuilor pruncului Isus.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "Sediul uneia dintre cele mai vechi companii de teatru din Malta.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "Il-Ġonna ta' Sant' Anton",
+                  "text": "O grădină publică din Attard, cunoscută pentru fântânile și plantele sale exotice.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "O vilă istorică elegantă în Attard, cu grădini vaste.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "L-Akwedott ta’ Wignacourt",
+                  "text": "Un apeduct istoric din secolul al XVII-lea care transporta odinioară apa spre Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "It-Torri ta' Ħal Lija",
+                  "text": "Un turn de belvedere decorativ din secolul al XIX-lea în Lija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "L-Arkata ta' Wignacourt",
+                  "text": "Un arc de piatră monumental care a făcut parte din sistemul apeductului Wignacourt.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Il-Mitħna tal-Għaqba",
+                  "text": "O moară de vânt malteză tradițională în zona Birkirkara.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Raddet ir-Roti",
+                  "text": "Urme misterioase de care antice săpate în solul calcaros.",
+                  "category": "historical",
+                  "coords": [
+                        14.478169,
+                        35.911285
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "O atracție locală care comemorează un eveniment istoric sau o epavă.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Id-Daħla l-Qadima tal-Gżira",
+                  "text": "Rămășițele vechii porți a orașului Gżira.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "Un punct de întâlnire local sau un reper distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "Un monument ridicat în onoarea lui Emmanuel Benjamin Vella.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "Un monument comemorativ pentru Joe Sciberras.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Monument għall-Ħaddiema",
+                  "text": "Un monument dedicat mișcării muncitorești și lucrătorilor.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "O cruce de piatră distinctivă cu semnificație istorică locală.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Monument Għal Dun Karm",
+                  "text": "Un monument pentru Dun Karm Psaila, poetul național al Maltei.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "O galerie de artă contemporană care prezintă lucrări locale.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "Un monument modern sau o instalație din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Fondazzjoni Gabriel Caruana",
+                  "text": "Un centru de artă într-o moară de vânt veche, dedicat operei lui Gabriel Caruana.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Torri ta' Ċieda",
+                  "text": "Ruinele unui turn antic, probabil din perioada romană sau medievală.",
+                  "category": "historical",
+                  "coords": [
+                        14.480062,
+                        35.90736
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "O mănăstire și o capelă administrate de comunitatea Bunul Păstor.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "Fermecătoarea biserică parohială din Lija, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "Il-Knisja ta' San Gejtanu",
+                  "text": "O biserică proeminentă din Hamrun, dedicată Sfântului Caietan.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Balzan Parish Church",
+                  "text": "Biserica parohială istorică din Balzan, dedicată Bunei Vestiri.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Il-Knisja Parrokkjali ta' Santa Marija",
+                  "text": "O biserică parohială istorică importantă din Birkirkara.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Sant' Elena",
+                  "text": "O bazilică barocă splendidă în Birkirkara, dedicată Sfintei Elena.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Il-Parroċċa ta' Santa Venera",
+                  "text": "Biserica parohială locală pentru comunitatea Santa Venera.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Il-Kappella ta' Sant'Anna",
+                  "text": "O mică capelă dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "Un sanctuar popular din Birkirkara, dedicat Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "Un lăcaș de cult baptist în orașul Gżira.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Knisja San Ġwann Battista",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "Biserica istorică principală a orașului Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palazzo Parisio & Gardens",
+                  "text": "A grand 18th-century palace with beautiful gardens located in Naxxar.",
+                  "category": "castle",
+                  "coords": [
+                        14.44423,
+                        35.914959
+                  ]
+            },
+            {
+                  "name": "San Anton Palace",
+                  "text": "The San Anton Palace in Attard serves as the official residence of the President of Malta.",
+                  "category": "castle",
+                  "coords": [
+                        14.446321,
+                        35.896538
+                  ]
+            },
+            {
+                  "name": "Tespi performance space",
+                  "text": "A local venue for performing arts and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        14.48196,
+                        35.902679
+                  ]
+            },
+            {
+                  "name": "Ta' Raddiena Megalithic Wall",
+                  "text": "Remains of a prehistoric megalithic wall in the region.",
+                  "category": "historical",
+                  "coords": [
+                        14.463078,
+                        35.904612
+                  ]
+            },
+            {
+                  "name": "L-Iklin Megalithic Wall",
+                  "text": "An archaeological site featuring the remains of an ancient megalithic wall.",
+                  "category": "historical",
+                  "coords": [
+                        14.454154,
+                        35.910762
+                  ]
+            },
+            {
+                  "name": "Mużew tal-Bambini",
+                  "text": "A unique museum dedicated to statues of the Christ Child.",
+                  "category": "museum",
+                  "coords": [
+                        14.458132,
+                        35.896626
+                  ]
+            },
+            {
+                  "name": "Malta Amateur Drama Company Clubrooms",
+                  "text": "The headquarters of one of Malta's oldest drama companies.",
+                  "category": "cultural",
+                  "coords": [
+                        14.477563,
+                        35.891042
+                  ]
+            },
+            {
+                  "name": "San Anton Gardens",
+                  "text": "A public garden in Attard known for its fountains and exotic plants.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448123,
+                        35.896122
+                  ]
+            },
+            {
+                  "name": "Villa Bologna",
+                  "text": "An elegant historic villa in Attard with extensive gardens.",
+                  "category": "park",
+                  "coords": [
+                        14.443829,
+                        35.894832
+                  ]
+            },
+            {
+                  "name": "Wignacourt Aqueduct",
+                  "text": "A historic 17th-century aqueduct that once transported water to Valletta.",
+                  "category": "landmark",
+                  "coords": [
+                        14.45675,
+                        35.893147
+                  ]
+            },
+            {
+                  "name": "Lija Belvedere Tower",
+                  "text": "A decorative 19th-century belvedere tower located in Lija.",
+                  "category": "landmark",
+                  "coords": [
+                        14.448719,
+                        35.901964
+                  ]
+            },
+            {
+                  "name": "Wignacourt Arch",
+                  "text": "A monumental stone arch that was part of the Wignacourt aqueduct system.",
+                  "category": "historical",
+                  "coords": [
+                        14.47293,
+                        35.889992
+                  ]
+            },
+            {
+                  "name": "Tal-Ghaqba Windmill",
+                  "text": "A traditional Maltese windmill located in the Birkirkara area.",
+                  "category": "landmark",
+                  "coords": [
+                        14.445525,
+                        35.910142
+                  ]
+            },
+            {
+                  "name": "Cart Ruts",
+                  "text": "Mysterious ancient cart ruts carved into the limestone bedrock.",
+                  "category": "historical",
+                  "coords": [
+                        14.478169,
+                        35.911285
+                  ]
+            },
+            {
+                  "name": "The Shipwreck",
+                  "text": "A local attraction commemorating a historical event or shipwreck.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468833,
+                        35.897874
+                  ]
+            },
+            {
+                  "name": "Gżira's Old Gate",
+                  "text": "Remains of the old gate of the town of Gżira.",
+                  "category": "historical",
+                  "coords": [
+                        14.490931,
+                        35.901339
+                  ]
+            },
+            {
+                  "name": "Cash point",
+                  "text": "A distinctive local meeting point or landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        14.47184,
+                        35.894126
+                  ]
+            },
+            {
+                  "name": "Emmanuel Benjamin Vella",
+                  "text": "A monument dedicated to the memory of Emmanuel Benjamin Vella.",
+                  "category": "historical",
+                  "coords": [
+                        14.431871,
+                        35.907688
+                  ]
+            },
+            {
+                  "name": "Joe Sciberras",
+                  "text": "A commemorative monument for Joe Sciberras.",
+                  "category": "historical",
+                  "coords": [
+                        14.492628,
+                        35.895377
+                  ]
+            },
+            {
+                  "name": "Workers' Memorial",
+                  "text": "A monument dedicated to the labor movement and workers.",
+                  "category": "historical",
+                  "coords": [
+                        14.489135,
+                        35.895604
+                  ]
+            },
+            {
+                  "name": "Is-Salib Rajt ma Rajtx",
+                  "text": "A distinctive stone cross with local historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        14.4728,
+                        35.902577
+                  ]
+            },
+            {
+                  "name": "Dun Karm Monument",
+                  "text": "A monument honoring Dun Karm Psaila, the national poet of Malta.",
+                  "category": "historical",
+                  "coords": [
+                        14.483172,
+                        35.901549
+                  ]
+            },
+            {
+                  "name": "Rosa Kwir",
+                  "text": "A contemporary art gallery showcasing local works.",
+                  "category": "museum",
+                  "coords": [
+                        14.454997,
+                        35.897209
+                  ]
+            },
+            {
+                  "name": "Firetech",
+                  "text": "A modern monument or installation in the region.",
+                  "category": "historical",
+                  "coords": [
+                        14.474462,
+                        35.885332
+                  ]
+            },
+            {
+                  "name": "Gabriel Caruana Foundation",
+                  "text": "An art center in an old windmill dedicated to the work of Gabriel Caruana.",
+                  "category": "museum",
+                  "coords": [
+                        14.455952,
+                        35.899963
+                  ]
+            },
+            {
+                  "name": "Torri ta' Ċieda",
+                  "text": "Ruins of an ancient tower, likely dating from the Roman or medieval period.",
+                  "category": "historical",
+                  "coords": [
+                        14.480062,
+                        35.90736
+                  ]
+            },
+            {
+                  "name": "Good Shepherd Convent",
+                  "text": "A convent and chapel run by the Good Shepherd community.",
+                  "category": "religious",
+                  "coords": [
+                        14.451512,
+                        35.897255
+                  ]
+            },
+            {
+                  "name": "Lija Parish",
+                  "text": "The charming parish church of Lija, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        14.446679,
+                        35.901649
+                  ]
+            },
+            {
+                  "name": "Saint Cajetan's Church",
+                  "text": "A prominent church in Hamrun dedicated to Saint Cajetan.",
+                  "category": "religious",
+                  "coords": [
+                        14.487224,
+                        35.886557
+                  ]
+            },
+            {
+                  "name": "Parish Church of Our Lady of Annunciation",
+                  "text": "The historic parish church of Balzan, dedicated to the Annunciation.",
+                  "category": "landmark",
+                  "coords": [
+                        14.451331,
+                        35.89869
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Parish Church",
+                  "text": "A significant historic parish church located in Birkirkara.",
+                  "category": "landmark",
+                  "coords": [
+                        14.463,
+                        35.895057
+                  ]
+            },
+            {
+                  "name": "Parish Church of Saint Helen",
+                  "text": "A magnificent baroque basilica in Birkirkara dedicated to Saint Helen.",
+                  "category": "landmark",
+                  "coords": [
+                        14.465354,
+                        35.899989
+                  ]
+            },
+            {
+                  "name": "Saint Venera Parish Church",
+                  "text": "The local parish church for the community of Santa Venera.",
+                  "category": "religious",
+                  "coords": [
+                        14.479932,
+                        35.887934
+                  ]
+            },
+            {
+                  "name": "Saint Anne Chapel",
+                  "text": "A small chapel dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        14.442865,
+                        35.892147
+                  ]
+            },
+            {
+                  "name": "Madonna tal-Ħerba",
+                  "text": "A popular sanctuary in Birkirkara dedicated to Our Lady.",
+                  "category": "religious",
+                  "coords": [
+                        14.464864,
+                        35.901175
+                  ]
+            },
+            {
+                  "name": "Bible Baptist Church",
+                  "text": "A Baptist place of worship located in the town of Gżira.",
+                  "category": "religious",
+                  "coords": [
+                        14.490594,
+                        35.908597
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist Church",
+                  "text": "A church dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        14.450961,
+                        35.922728
+                  ]
+            },
+            {
+                  "name": "Knisja Arċipretali ta' San Ġorġ",
+                  "text": "The historic main church of the town of Qormi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.468347,
+                        35.882234
+                  ]
+            }
+      ]
+},
     name: { de: "St. Helen's Basilika", hu: "Szent Ilona-bazilika", ro: "Bazilica Sf. Elena", en: "St. Helen's Basilica" },
     type: "city",
     coords: [14.4611, 35.8972],

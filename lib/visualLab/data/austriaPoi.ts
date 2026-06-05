@@ -711,7 +711,1888 @@ export const austriaRegions: POI[] = [
 
 export const austriaCities: POI[] = [
   {
-    id: "AT-Graz", type: "city", parent: "AT-6", coords: [15.4395, 47.0707],
+    id: "AT-Graz", "sights": {
+      "de": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "Ein Museum in Graz, das der Geschichte der Puch-Fahrzeuge gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "Das Museum der Diözese Graz-Seckau zeigt christliche Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Landeszeughaus",
+                  "text": "Die weltweit größte historische Waffenkammer mit einer riesigen Sammlung.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "Das Stadtmuseum von Graz präsentiert die lokale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "Ein Museum in Graz, das sich auf Werks- und Montanbahnen spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "Ein historisches Schlösschen auf dem Gelände der Grazer Messe.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "Ein zeitgenössisches Kunstmuseum im Grazer Stadtpark.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "Ein Museum für steirische Volkskunde und regionale Traditionen.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Kunsthaus",
+                  "text": "Ein architektonisch markantes Museum für moderne Kunst, auch „Friendly Alien“ genannt.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "Ein interaktives Erlebnismuseum für Kinder in Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "Ein Museum in Graz, das sich mit der menschlichen Wahrnehmung befasst.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "Ein historisches Schloss in Graz mit barocken Elementen.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "Ein barockes Lustschloss, das heute von der Universität Graz genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "Ein ehemaliges spätbarockes Adelsschloss im Grazer Stadtbezirk Leonhard.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "Ein geschütztes historisches Schlossgebäude in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "Ein barockes Schlösschen inmitten einer Parkanlage in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "Ein Schloss am nördlichen Stadtrand von Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "Ein historisches Schlossgebäude, das ehemals dem Minoritenorden gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "Ein Grazer Schlossbau mit langer Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "Ein kleines Jagdschloss im Grazer Stadtbezirk Eggenberg.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "Ein bedeutendes Grabdenkmal auf dem Friedhof St. Leonhard.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "Eines der erhaltenen historischen Stadttore von Graz.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "Das zweitgrößte Opernhaus Österreichs mit beeindruckender Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "Ein bedeutendes Theatergebäude für Schauspielkunst in Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "Ein traditionsreiches Veranstaltungszentrum für Konzerte und Kleinkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "Eine Freilichtbühne in den historischen Gemäuern auf dem Schloßberg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "Ein prunkvoller Konzertsaal im Herzen von Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "Eine multifunktionale Veranstaltungshalle für Kunst und Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "Ein Zentrum für zeitgenössische Kunst und Kultur im Stadtpark.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "Ein historisches Industriegebäude, das heute kulturell genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "Die Kirche der altkatholischen Kirchengemeinde in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Ein religiöser Komplex mit Kreuzwegstationen und Kapellen.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "Eine der ältesten Kirchen von Graz mit gotischen Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "Die barocke Hauptpfarrkirche von Graz mit bedeutenden Kunstwerken.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "Eine neugotische Kirche im Grazer Stadtbezirk Jakomini.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "Das religiöse Zentrum der jüdischen Gemeinde in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
+                  "text": "Ein modernes katholisches Kirchengebäude im Westen von Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Eine imposante neugotische Kirche mit dem höchsten Kirchturm von Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "Eine moderne katholische Pfarre im Grazer Stadtteil Straßgang.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "Eine markante Kirche in Graz, die nach dem Zweiten Weltkrieg wiederaufgebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "Die serbisch-orthodoxe Kirche in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "Eine barocke Klosterkirche der Barmherzigen Brüder.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "Eine gotische Hallenkirche mit einem bedeutenden Friedhof.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Ein Kloster und eine Kirche des Franziskanerordens in der Grazer Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "Eine historische Treppenkirche in der Grazer Innenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "Eine bedeutende barocke Wallfahrtskirche in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "Eine römisch-katholische Pfarrkirche im Grazer Bezirk Eggenberg.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "Eine moderne römisch-katholische Kirche im Grazer Bezirk Straßgang.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "Eine historische Kirche in der Nähe des Stadtparks, bekannt für ihren barocken Altar.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "Eine markante Kirche im Grazer Bezirk Gries, bekannt für ihre Integration moderner Kunst.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "Eine idyllisch gelegene Wallfahrtskirche mit einer heiligen Quelle im Norden von Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "Eine moderne römisch-katholische Pfarrkirche im Grazer Bezirk Lend.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "A Puch-járművek történetének szentelt múzeum Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "A Graz-Seckau-i egyházmegye múzeuma keresztény művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Landeszeughaus",
+                  "text": "A világ legnagyobb történelmi fegyvertára hatalmas gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "Graz városi múzeuma a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "Ipari és bányavasutakra szakosodott múzeum Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "Történelmi kiskastély a grazi vásár területén.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "Kortárs művészeti múzeum a grazi Városligetben.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "Stájer néprajzi és regionális hagyományokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Graz",
+                  "text": "Építészetileg meghatározó modern művészeti múzeum, más néven „Friendly Alien”.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "Interaktív élménymúzeum gyermekek számára Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "Az emberi érzékeléssel foglalkozó múzeum Grazban.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "Történelmi kastély Grazban barokk elemekkel.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "Barokk kastély, amelyet ma a Grazi Egyetem használ.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "Egykori késő barokk nemesi kastély Graz Leonhard negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "Védett történelmi kastélyépület Grazban.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "Barokk kiskastély egy grazi park közepén.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "Kastély Graz északi peremén.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "Történelmi kastélyépület, amely egykor a minorita rendé volt.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "Hosszú múltra visszatekintő grazi kastélyépület.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "Kisméretű vadászkastély Graz Eggenberg negyedében.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "Jelentős síremlék a Szent Leonárd-temetőben.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "Graz egyik fennmaradt történelmi városkapuja.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "Ausztria második legnagyobb operaháza lenyűgöző építészettel.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "Graz jelentős színházépülete a drámai művészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "Nagy múltú rendezvényközpont koncertek és kabarék számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "Szabadtéri színpad a várhegyi történelmi falak között.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "Pompás hangversenyterem Graz szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "Többfunkciós rendezvénycsarnok művészeti és kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "Kortárs művészeti és kulturális központ a Városligetben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "Történelmi ipari épület, amelyet ma kulturális célokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "Az ókatolikus egyházközség temploma Grazban.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Vallási épületegyüttes keresztúti állomásokkal és kápolnákkal.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "Graz egyik legrégebbi temploma gótikus elemekkel.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "Graz barokk főplébániatemploma jelentős műalkotásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "Neogótikus templom Graz Jakomini negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "A grazi zsidó hitközség vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
+                  "text": "Modern katolikus templomépület Graz nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Impozáns neogótikus templom Graz legmagasabb tornyával.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "Modern katolikus plébánia Graz Straßgang negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "Jellegzetes grazi templom, amelyet a második világháború után építettek újjá.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "A szerb ortodox templom Grazban.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "Az Irgalmas Rend barokk kolostortemploma.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "Gótikus csarnoktemplom jelentős temetővel.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "A ferences rend kolostora és temploma Graz óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "Történelmi lépcsős templom Graz belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "Jelentős barokk zarándoktemplom Grazban.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "Római katolikus plébániatemplom Graz Eggenberg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "Modern római katolikus templom Graz Straßgang negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "Történelmi templom a városi park közelében, barokk oltáráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "Graz Gries negyedének jellegzetes temploma, amely a modern művészet integrációjáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "Idilli fekvésű zarándoktemplom szent forrással Graz északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "Modern római katolikus plébániatemplom Graz Lend negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "Un muzeu din Graz dedicat istoriei vehiculelor Puch.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "Muzeul Diecezei Graz-Seckau expune artă creștină.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Landeszeughaus",
+                  "text": "Cea mai mare armurărie istorică din lume, cu o colecție vastă.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "Muzeul orașului Graz prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "Un muzeu din Graz specializat în căi ferate industriale și miniere.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "Un mic castel istoric situat în incinta târgului din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "Un muzeu de artă contemporană în parcul orașului Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "Un muzeu de etnografie stiriană și tradiții regionale.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Graz",
+                  "text": "Un muzeu de artă modernă cu o arhitectură distinctă, supranumit „Friendly Alien”.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "Un muzeu interactiv și experimental pentru copii în Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "Un muzeu din Graz care explorează percepția umană.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "Un castel istoric din Graz cu elemente baroce.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "Un castel baroc utilizat astăzi de Universitatea din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "Un fost castel nobiliar în stil baroc târziu din districtul Leonhard din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "O clădire de castel istoric protejată în Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "Un mic castel baroc în mijlocul unui parc din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "Un castel situat la periferia nordică a orașului Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "O clădire istorică de castel care a aparținut ordinului minorit.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "O construcție de castel din Graz cu o istorie îndelungată.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "Un mic castel de vânătoare în districtul Eggenberg din Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "Un monument funerar important în cimitirul Sf. Leonhard.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "Una dintre porțile istorice păstrate ale orașului Graz.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "A doua cea mai mare operă din Austria, cu o arhitectură impresionantă.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "O clădire teatrală importantă pentru arta dramatică din Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "Un centru de evenimente cu tradiție pentru concerte și spectacole mici.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "O scenă în aer liber în zidurile istorice de pe Schloßberg.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "O sală de concerte somptuoasă în inima orașului Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "O sală de evenimente multifuncțională pentru artă și cultură.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "Un centru pentru artă și cultură contemporană în parcul orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "O clădire industrială istorică, utilizată astăzi în scopuri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "Biserica comunității vechi-catolice din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Un complex religios cu stații ale Căii Crucii și capele.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "Una dintre cele mai vechi biserici din Graz, cu elemente gotice.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "Biserica parohială principală în stil baroc din Graz, cu opere de artă importante.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "O biserică neogotică în districtul Jakomini din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "Centrul religios al comunității evreiești din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Landeskrankenhauskirche zum Heiligsten Erlöser",
+                  "text": "O clădire modernă de biserică catolică în vestul orașului Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "O biserică neogotică impunătoare cu cel mai înalt turn din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "O parohie catolică modernă în cartierul Straßgang din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "O biserică distinctivă din Graz, reconstruită după al Doilea Război Mondial.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "Biserica ortodoxă sârbă din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "O biserică mănăstirească barocă a Ordinului Ospitalier.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "O biserică hală gotică cu un cimitir important.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "O mănăstire și o biserică a ordinului franciscan în centrul vechi din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "O biserică istorică cu scări în centrul orașului Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "O biserică de pelerinaj barocă importantă din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "O biserică parohială romano-catolică din cartierul Eggenberg din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "O biserică romano-catolică modernă în districtul Straßgang din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "O biserică istorică lângă parcul orașului, cunoscută pentru altarul său baroc.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "O biserică proeminentă din districtul Gries din Graz, cunoscută pentru integrarea artei moderne.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "O biserică de pelerinaj situată idilic, cu un izvor sfânt în nordul orașului Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "O biserică parohială romano-catolică modernă în districtul Lend din Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puchmuseum",
+                  "text": "A museum in Graz dedicated to the history of Puch vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        15.43765,
+                        47.04397
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Graz",
+                  "text": "The museum of the Graz-Seckau diocese displaying Christian art.",
+                  "category": "museum",
+                  "coords": [
+                        15.441755,
+                        47.071698
+                  ]
+            },
+            {
+                  "name": "Styrian Armoury",
+                  "text": "The world's largest historical armoury featuring a vast collection.",
+                  "category": "museum",
+                  "coords": [
+                        15.439883,
+                        47.069803
+                  ]
+            },
+            {
+                  "name": "GrazMuseum",
+                  "text": "The city museum of Graz presenting local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        15.436518,
+                        47.072656
+                  ]
+            },
+            {
+                  "name": "Montan- und Werksbahnmuseum Graz",
+                  "text": "A museum in Graz specializing in industrial and mining railways.",
+                  "category": "museum",
+                  "coords": [
+                        15.437505,
+                        47.078714
+                  ]
+            },
+            {
+                  "name": "Messe-Schlößl",
+                  "text": "A historic small castle located on the Graz exhibition grounds.",
+                  "category": "castle",
+                  "coords": [
+                        15.451066,
+                        47.059291
+                  ]
+            },
+            {
+                  "name": "Halle für Kunst Steiermark",
+                  "text": "A contemporary art museum located in the Graz city park.",
+                  "category": "museum",
+                  "coords": [
+                        15.44458,
+                        47.07174
+                  ]
+            },
+            {
+                  "name": "Volkskundemuseum",
+                  "text": "A museum of Styrian folklore and regional traditions.",
+                  "category": "museum",
+                  "coords": [
+                        15.439702,
+                        47.075029
+                  ]
+            },
+            {
+                  "name": "Modern Art Museum Graz",
+                  "text": "An architecturally striking modern art museum, also known as the 'Friendly Alien'.",
+                  "category": "museum",
+                  "coords": [
+                        15.434015,
+                        47.071298
+                  ]
+            },
+            {
+                  "name": "Kindermuseum FRida & freD",
+                  "text": "An interactive experiential museum for children in Graz.",
+                  "category": "museum",
+                  "coords": [
+                        15.436239,
+                        47.063162
+                  ]
+            },
+            {
+                  "name": "Museum der Wahrnehmung",
+                  "text": "A museum in Graz focused on human perception.",
+                  "category": "museum",
+                  "coords": [
+                        15.437541,
+                        47.062613
+                  ]
+            },
+            {
+                  "name": "Mühlschlössl",
+                  "text": "A historic castle in Graz with Baroque elements.",
+                  "category": "castle",
+                  "coords": [
+                        15.425893,
+                        47.074071
+                  ]
+            },
+            {
+                  "name": "Meerscheinschlössl",
+                  "text": "A Baroque castle currently used by the University of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447013,
+                        47.07938
+                  ]
+            },
+            {
+                  "name": "Tupay-Schlössl",
+                  "text": "A former late-Baroque noble castle in the Leonhard district of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.445429,
+                        47.052136
+                  ]
+            },
+            {
+                  "name": "Hallerschloss",
+                  "text": "A protected historic castle building in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.464259,
+                        47.070574
+                  ]
+            },
+            {
+                  "name": "Metahof-Schlössl",
+                  "text": "A small Baroque castle set within a park in Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.421252,
+                        47.072984
+                  ]
+            },
+            {
+                  "name": "Schloss Neu-Grabenhofen",
+                  "text": "A castle located on the northern outskirts of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.437473,
+                        47.095175
+                  ]
+            },
+            {
+                  "name": "Minoritenschlössl",
+                  "text": "A historic castle building formerly belonging to the Minorite order.",
+                  "category": "castle",
+                  "coords": [
+                        15.446838,
+                        47.090824
+                  ]
+            },
+            {
+                  "name": "Rosenhof",
+                  "text": "A Graz castle building with a long history.",
+                  "category": "castle",
+                  "coords": [
+                        15.441602,
+                        47.089802
+                  ]
+            },
+            {
+                  "name": "Hubertus-Schlössl",
+                  "text": "A small hunting lodge located in the Eggenberg district of Graz.",
+                  "category": "castle",
+                  "coords": [
+                        15.447529,
+                        47.088756
+                  ]
+            },
+            {
+                  "name": "Mausoleum Prokesch-Osten",
+                  "text": "A significant funerary monument in the St. Leonhard cemetery.",
+                  "category": "historical",
+                  "coords": [
+                        15.46747,
+                        47.077377
+                  ]
+            },
+            {
+                  "name": "Burgtor",
+                  "text": "One of the surviving historic city gates of Graz.",
+                  "category": "fortress",
+                  "coords": [
+                        15.443051,
+                        47.072161
+                  ]
+            },
+            {
+                  "name": "Oper",
+                  "text": "The second largest opera house in Austria with impressive architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        15.445683,
+                        47.069004
+                  ]
+            },
+            {
+                  "name": "Schauspielhaus",
+                  "text": "A significant theatre building for dramatic arts in Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.441641,
+                        47.072705
+                  ]
+            },
+            {
+                  "name": "Orpheum",
+                  "text": "A traditional event venue for concerts and cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        15.429949,
+                        47.072328
+                  ]
+            },
+            {
+                  "name": "Kasematten",
+                  "text": "An open-air stage within the historic walls on the Schloßberg hill.",
+                  "category": "cultural",
+                  "coords": [
+                        15.43741,
+                        47.076321
+                  ]
+            },
+            {
+                  "name": "Stefaniensaal",
+                  "text": "A magnificent concert hall in the heart of Graz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.437803,
+                        47.069801
+                  ]
+            },
+            {
+                  "name": "Helmut-List-Halle",
+                  "text": "A multi-functional event hall for arts and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411948,
+                        47.079682
+                  ]
+            },
+            {
+                  "name": "Forum Stadtpark",
+                  "text": "A center for contemporary art and culture in the city park.",
+                  "category": "cultural",
+                  "coords": [
+                        15.443571,
+                        47.074651
+                  ]
+            },
+            {
+                  "name": "Tennenmälzerei",
+                  "text": "A historic industrial building now used for cultural purposes.",
+                  "category": "cultural",
+                  "coords": [
+                        15.411465,
+                        47.064232
+                  ]
+            },
+            {
+                  "name": "Altkatholische Christophoruskirche",
+                  "text": "The church of the Old Catholic community in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.430862,
+                        47.069594
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "A religious complex featuring Stations of the Cross and chapels.",
+                  "category": "religious",
+                  "coords": [
+                        15.417565,
+                        47.093152
+                  ]
+            },
+            {
+                  "name": "Leechkirche",
+                  "text": "One of the oldest churches in Graz with Gothic elements.",
+                  "category": "religious",
+                  "coords": [
+                        15.446743,
+                        47.075571
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche zum Heiligen Blut",
+                  "text": "The Baroque main parish church of Graz featuring significant artworks.",
+                  "category": "religious",
+                  "coords": [
+                        15.441151,
+                        47.069413
+                  ]
+            },
+            {
+                  "name": "Sankt-Josef-Kirche",
+                  "text": "A Neo-Gothic church in the Jakomini district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.441031,
+                        47.058849
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "The religious center of the Jewish community in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433563,
+                        47.064138
+                  ]
+            },
+            {
+                  "name": "Catholic Church",
+                  "text": "A modern Catholic church building in the west of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.465785,
+                        47.082636
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "An imposing Neo-Gothic church featuring the tallest church tower in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.455737,
+                        47.069626
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes",
+                  "text": "A modern Catholic parish in the Straßgang district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427986,
+                        47.049339
+                  ]
+            },
+            {
+                  "name": "Münzgrabenkirche",
+                  "text": "A distinctive church in Graz rebuilt after World War II.",
+                  "category": "religious",
+                  "coords": [
+                        15.4523,
+                        47.061317
+                  ]
+            },
+            {
+                  "name": "Kirche Hl. Kyrill und Method",
+                  "text": "The Serbian Orthodox church in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.427313,
+                        47.045289
+                  ]
+            },
+            {
+                  "name": "Barmherzigenkirche Maria Verkündigung",
+                  "text": "A Baroque monastery church of the Hospitaller Order.",
+                  "category": "religious",
+                  "coords": [
+                        15.432035,
+                        47.071442
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Leonhard",
+                  "text": "A Gothic hall church with a significant cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        15.465103,
+                        47.078581
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "A monastery and church of the Franciscan order in the Graz old town.",
+                  "category": "religious",
+                  "coords": [
+                        15.436444,
+                        47.070693
+                  ]
+            },
+            {
+                  "name": "Stiegenkirche",
+                  "text": "A historic staircase church in the city center of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.438745,
+                        47.072602
+                  ]
+            },
+            {
+                  "name": "Mariahilfer Kirche",
+                  "text": "A significant Baroque pilgrimage church in Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.433031,
+                        47.072797
+                  ]
+            },
+            {
+                  "name": "Sankt Vinzenz",
+                  "text": "A Roman Catholic parish church located in the Eggenberg district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.405101,
+                        47.074555
+                  ]
+            },
+            {
+                  "name": "Christus der Auferstandene",
+                  "text": "A modern Roman Catholic church located in the Straßgang district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.450884,
+                        47.046613
+                  ]
+            },
+            {
+                  "name": "Grabenkirche",
+                  "text": "A historic church near the city park, known for its Baroque altar.",
+                  "category": "religious",
+                  "coords": [
+                        15.439751,
+                        47.081475
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sankt Andrä",
+                  "text": "A prominent church in the Gries district of Graz, known for its integration of modern art.",
+                  "category": "religious",
+                  "coords": [
+                        15.429007,
+                        47.069603
+                  ]
+            },
+            {
+                  "name": "Kirche Sankt Ulrichsbrunn",
+                  "text": "An idyllically situated pilgrimage church with a holy spring in the north of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.429072,
+                        47.096565
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Don Bosco",
+                  "text": "A modern Roman Catholic parish church in the Lend district of Graz.",
+                  "category": "religious",
+                  "coords": [
+                        15.416474,
+                        47.056462
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-6", coords: [15.4395, 47.0707],
     name: { de: "Graz", hu: "Graz", ro: "Graz", en: "Graz" },
     image: "/geo-images/austria/graz.webp",
     description: {
@@ -736,7 +2617,1852 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Linz", type: "city", parent: "AT-4", coords: [14.2861, 48.3069],
+    id: "AT-Linz", "sights": {
+      "de": [
+            {
+                  "name": "Linzer Schloss",
+                  "text": "Das Linzer Schloss ist eine historische Burg in Linz mit Blick auf die Donau.",
+                  "category": "castle",
+                  "coords": [
+                        14.282406,
+                        48.305459
+                  ]
+            },
+            {
+                  "name": "Turm I (Othilie)",
+                  "text": "Turm I (Othilie) ist ein ehemaliger Burg- und Befestigungsturm in Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.2571,
+                        48.323404
+                  ]
+            },
+            {
+                  "name": "Turm 9 (Apollonia)",
+                  "text": "Turm 9 (Apollonia) ist ein historischer Befestigungsturm, der heute als Museum in Linz dient.",
+                  "category": "museum",
+                  "coords": [
+                        14.261745,
+                        48.286227
+                  ]
+            },
+            {
+                  "name": "Peinherrnhof",
+                  "text": "Der Peinherrnhof ist ein historisches Schloss in der Stadt Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.256253,
+                        48.29605
+                  ]
+            },
+            {
+                  "name": "NORDICO Stadtmuseum Linz",
+                  "text": "Das NORDICO Stadtmuseum Linz ist ein Museum für die Geschichte und Kultur der Stadt Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.291475,
+                        48.304108
+                  ]
+            },
+            {
+                  "name": "Bergschlößl",
+                  "text": "Das Bergschlößl ist ein historisches barockes Schlossgebäude in Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.285672,
+                        48.290874
+                  ]
+            },
+            {
+                  "name": "Warte Edelburga",
+                  "text": "Die Warte Edelburga ist eine historische Festungsanlage, die Teil der Befestigung von Linz ist.",
+                  "category": "fortress",
+                  "coords": [
+                        14.249298,
+                        48.313296
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "Die Dreifaltigkeitssäule ist eine markante monumentale Pestsäule auf dem Hauptplatz von Linz.",
+                  "category": "historical",
+                  "coords": [
+                        14.286442,
+                        48.305849
+                  ]
+            },
+            {
+                  "name": "Brucknerhaus",
+                  "text": "Das Brucknerhaus ist ein bedeutendes Konzerthaus und Theatergebäude in Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.292735,
+                        48.310575
+                  ]
+            },
+            {
+                  "name": "Musiktheater Linz",
+                  "text": "Das Musiktheater Linz ist ein modernes Theater und Opernhaus in Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.294079,
+                        48.294791
+                  ]
+            },
+            {
+                  "name": "Stupa Linz",
+                  "text": "Die Stupa Linz ist eine buddhistische Andachtsstätte und ein Denkmal in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.267877,
+                        48.295271
+                  ]
+            },
+            {
+                  "name": "Mariendom",
+                  "text": "Der Mariä-Empfängnis-Dom ist ein grandioses neugotisches Gotteshaus und die größte Kirche in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.286021,
+                        48.300238
+                  ]
+            },
+            {
+                  "name": "Alter Dom",
+                  "text": "Der Alte Dom ist eine historische Jesuitenkirche und Andachtsstätte in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.288146,
+                        48.305081
+                  ]
+            },
+            {
+                  "name": "Karmelitenkirche",
+                  "text": "Die Karmelitenkirche ist eine historische Karmelitenkirche und Andachtsstätte in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.290539,
+                        48.301931
+                  ]
+            },
+            {
+                  "name": "Minoritenkirche",
+                  "text": "Die Minoritenkirche ist ein bekanntes historisches Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.285668,
+                        48.304278
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche",
+                  "text": "Die Stadtpfarrkirche Linz ist eine bedeutende städtische Andachtsstätte in der Stadt Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.288677,
+                        48.306181
+                  ]
+            },
+            {
+                  "name": "Elisabethinenkirche",
+                  "text": "Die Elisabethinenkirche ist eine markante Kirche und Andachtsstätte in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.294071,
+                        48.304178
+                  ]
+            },
+            {
+                  "name": "Seminarkirche Hl. Kreuz",
+                  "text": "Die Seminarkirche Hl. Kreuz ist ein historisches Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.293156,
+                        48.302903
+                  ]
+            },
+            {
+                  "name": "StifterHaus",
+                  "text": "Das Oberösterreichische Literaturmuseum im StifterHaus ist eine Attraktion in Linz, die sich der regionalen Literatur widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        14.28821,
+                        48.307577
+                  ]
+            },
+            {
+                  "name": "Turm 24 (Ehrentrude)",
+                  "text": "Turm 24 (Ehrentrude) ist eine Attraktion und Teil der historischen Befestigungsanlagen von Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297344,
+                        48.322824
+                  ]
+            },
+            {
+                  "name": "Turm 25 (Winfriede)",
+                  "text": "Turm 25 (Winfriede) ist eine historische Attraktion, die Teil des Befestigungsrings in Linz ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306629,
+                        48.31591
+                  ]
+            },
+            {
+                  "name": "Klause Adelgunde",
+                  "text": "Die Klause Adelgunde, auch als Burschenschafterturm bekannt, ist eine bemerkenswerte historische Attraktion in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.246445,
+                        48.30816
+                  ]
+            },
+            {
+                  "name": "Pöstlingbergkirche",
+                  "text": "Die Pöstlingbergkirche ist eine markante Wallfahrtsbasilika und Attraktion in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.258294,
+                        48.324015
+                  ]
+            },
+            {
+                  "name": "Turm V (Euphemia)",
+                  "text": "Turm V (Euphemia) ist eine bekannte historische Attraktion, die Teil der Linzer Befestigungsanlagen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.259287,
+                        48.323739
+                  ]
+            },
+            {
+                  "name": "Turm 18 (Katharina)",
+                  "text": "Turm 18 (Katharina) ist eine Touristenattraktion, die mit dem alten Befestigungsnetzwerk in Linz verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        14.254479,
+                        48.320841
+                  ]
+            },
+            {
+                  "name": "forum metall",
+                  "text": "Das forum metall ist eine bemerkenswerte Freiluftausstellung und Attraktion für große Metallskulpturen in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293507,
+                        48.312499
+                  ]
+            },
+            {
+                  "name": "Nibelungenbrücke",
+                  "text": "Die Nibelungenbrücke ist eine bedeutende historische Brücke, die in Linz die Donau überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284839,
+                        48.308244
+                  ]
+            },
+            {
+                  "name": "Eisenbahnbrücke",
+                  "text": "Die Eisenbahnbrücke ist eine moderne Eisenbahnbrücke, die in Linz den Fluss überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        14.295337,
+                        48.31718
+                  ]
+            },
+            {
+                  "name": "Donautalbrücke",
+                  "text": "Die Donautalbrücke ist eine Brücke, die in der Stadt Linz das Donautal überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268266,
+                        48.305812
+                  ]
+            },
+            {
+                  "name": "Volksgarten",
+                  "text": "Der Volksgarten ist ein zentraler öffentlicher Park, der Grünflächen in der Stadt Linz bietet.",
+                  "category": "park",
+                  "coords": [
+                        14.291613,
+                        48.294835
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der Botanische Garten in Linz bietet eine vielfältige Sammlung von Pflanzenarten und wunderschön angelegten Bereichen.",
+                  "category": "park",
+                  "coords": [
+                        14.276545,
+                        48.296213
+                  ]
+            },
+            {
+                  "name": "Linzer Tiergarten",
+                  "text": "Der Zoo Linz ist ein beliebter Tierpark auf halber Höhe des Pöstlingbergs in Linz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Lentos Kunstmuseum Linz",
+                  "text": "Das Lentos Museum of Modern Art ist ein Museum in der Stadt Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.288796,
+                        48.308545
+                  ]
+            },
+            {
+                  "name": "Ars Electronica Center",
+                  "text": "Das Ars Electronica Center ist ein Museum in der Stadt Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.284744,
+                        48.309954
+                  ]
+            },
+            {
+                  "name": "Pöstlingbergbahn Museum",
+                  "text": "Das Pöstlingbergbahn Museum ist ein Museum in der Stadt Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.276509,
+                        48.310961
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "St. Martin’s Church ist ein historisches Denkmal in der Stadt Linz.",
+                  "category": "historical",
+                  "coords": [
+                        14.279656,
+                        48.304558
+                  ]
+            },
+            {
+                  "name": "Theater Phönix",
+                  "text": "Das Theater Phönix ist ein Theater in der Stadt Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.29697,
+                        48.291222
+                  ]
+            },
+            {
+                  "name": "OK Offenes Kulturhaus Oberösterreich",
+                  "text": "Das OK Center for Contemporary Art ist ein Kunstzentrum in Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.290513,
+                        48.302865
+                  ]
+            },
+            {
+                  "name": "Friedenskirche Christkönig",
+                  "text": "Die Friedenskirche Christkönig ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.284466,
+                        48.317276
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "Die Martin Luther Church ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.29212,
+                        48.3005
+                  ]
+            },
+            {
+                  "name": "Altkatholische Kirche",
+                  "text": "Die Altkatholische Kirche ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.292019,
+                        48.307855
+                  ]
+            },
+            {
+                  "name": "St. Konrad Kirche",
+                  "text": "Die St. Konrad church ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.273257,
+                        48.289561
+                  ]
+            },
+            {
+                  "name": "St. Markus",
+                  "text": "St. Markus ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.290308,
+                        48.333369
+                  ]
+            },
+            {
+                  "name": "St. Leopold",
+                  "text": "St. Leopold ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.274548,
+                        48.313231
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Die Herz-Jesu-Kirche ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.300906,
+                        48.287538
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche St. Margarethen",
+                  "text": "Die Kalvarienbergkirche St. Margarethen ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.259377,
+                        48.306467
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "Don Bosco ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.316688,
+                        48.290359
+                  ]
+            },
+            {
+                  "name": "Gustav-Adolf-Kirche",
+                  "text": "Die Gustav-Adolf-Kirche ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.282064,
+                        48.315793
+                  ]
+            },
+            {
+                  "name": "Maximilianskirche",
+                  "text": "Die Maximilianskirche ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.269596,
+                        48.29584
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Die Kapuzinerkirche ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.281817,
+                        48.300339
+                  ]
+            },
+            {
+                  "name": "Kirche der barmherzigen Brüder zur unbefleckten Empfängnis Mariae",
+                  "text": "Dies ist ein Gotteshaus in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.287666,
+                        48.300254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Linzer Schloss",
+                  "text": "A linzi kastély egy történelmi épület Linzben, amely a Duna folyóra néz.",
+                  "category": "castle",
+                  "coords": [
+                        14.282406,
+                        48.305459
+                  ]
+            },
+            {
+                  "name": "Turm I (Othilie)",
+                  "text": "Az I. torony (Othilie) egy egykori vár- és erődítménytorony Linzben.",
+                  "category": "castle",
+                  "coords": [
+                        14.2571,
+                        48.323404
+                  ]
+            },
+            {
+                  "name": "Turm 9 (Apollonia)",
+                  "text": "A 9. torony (Apollonia) egy történelmi erődítménytorony, amely ma múzeumként működik Linzben.",
+                  "category": "museum",
+                  "coords": [
+                        14.261745,
+                        48.286227
+                  ]
+            },
+            {
+                  "name": "Peinherrnhof",
+                  "text": "A Peinherrnhof egy történelmi kastély Linz városában.",
+                  "category": "castle",
+                  "coords": [
+                        14.256253,
+                        48.29605
+                  ]
+            },
+            {
+                  "name": "NORDICO Stadtmuseum Linz",
+                  "text": "A linzi NORDICO Stadtmuseum egy múzeum, amely Linz történelmére és kultúrájára fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        14.291475,
+                        48.304108
+                  ]
+            },
+            {
+                  "name": "Bergschlößl",
+                  "text": "A Bergschlößl egy történelmi barokk kastélyépület Linz városában.",
+                  "category": "castle",
+                  "coords": [
+                        14.285672,
+                        48.290874
+                  ]
+            },
+            {
+                  "name": "Warte Edelburga",
+                  "text": "A Warte Edelburga egy történelmi erődítmény, amely a linzi erődrendszer részét képezi.",
+                  "category": "fortress",
+                  "coords": [
+                        14.249298,
+                        48.313296
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "A Szentháromság-oszlop egy kiemelkedő monumentális pestisoszlop Linz főterén.",
+                  "category": "historical",
+                  "coords": [
+                        14.286442,
+                        48.305849
+                  ]
+            },
+            {
+                  "name": "Brucknerhaus",
+                  "text": "A Brucknerhaus egy jelentős koncertterem és színház Linzben.",
+                  "category": "cultural",
+                  "coords": [
+                        14.292735,
+                        48.310575
+                  ]
+            },
+            {
+                  "name": "Musiktheater Linz",
+                  "text": "A Musiktheater Linz egy modern színház és operaház Linz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.294079,
+                        48.294791
+                  ]
+            },
+            {
+                  "name": "Stupa Linz",
+                  "text": "A Stupa Linz egy buddhista vallási épület és emlékmű Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.267877,
+                        48.295271
+                  ]
+            },
+            {
+                  "name": "Mariendom",
+                  "text": "A Mária-fogantatás katedrális egy lenyűgöző neogótikus templom és Linz legnagyobb temploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.286021,
+                        48.300238
+                  ]
+            },
+            {
+                  "name": "Alter Dom",
+                  "text": "A Régi Katedrális egy történelmi jezsuita templom és vallási épület Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.288146,
+                        48.305081
+                  ]
+            },
+            {
+                  "name": "Karmelitenkirche",
+                  "text": "A Karmelitenkirche egy történelmi kármelita templom és vallási épület Linz városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.290539,
+                        48.301931
+                  ]
+            },
+            {
+                  "name": "Minoritenkirche",
+                  "text": "A minorita templom egy jól ismert történelmi vallási épület Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.285668,
+                        48.304278
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche",
+                  "text": "A linzi plébániatemplom egy jelentős városi vallási épület Linz városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.288677,
+                        48.306181
+                  ]
+            },
+            {
+                  "name": "Elisabethinenkirche",
+                  "text": "Az Elisabethinenkirche egy kiemelkedő templom és vallási épület Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.294071,
+                        48.304178
+                  ]
+            },
+            {
+                  "name": "Seminarkirche Hl. Kreuz",
+                  "text": "A Seminarkirche Hl. Kreuz egy történelmi vallási épület Linz városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.293156,
+                        48.302903
+                  ]
+            },
+            {
+                  "name": "StifterHaus",
+                  "text": "A StifterHausban található Felső-Ausztriai Irodalmi Múzeum egy regionális irodalomra fókuszáló látványosság Linzben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.28821,
+                        48.307577
+                  ]
+            },
+            {
+                  "name": "Turm 24 (Ehrentrude)",
+                  "text": "A 24. torony (Ehrentrude) egy látványosság, amely Linz történelmi erődítményeinek része.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297344,
+                        48.322824
+                  ]
+            },
+            {
+                  "name": "Turm 25 (Winfriede)",
+                  "text": "A 25. torony (Winfriede) egy történelmi látványosság, amely a linzi erődrendszer részét képezi.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306629,
+                        48.31591
+                  ]
+            },
+            {
+                  "name": "Klause Adelgunde",
+                  "text": "A Klause Adelgunde, más néven Burschenschafterturm, egy nevezetes történelmi látványosság Linzben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.246445,
+                        48.30816
+                  ]
+            },
+            {
+                  "name": "Pöstlingbergkirche",
+                  "text": "A Pöstlingberg templom egy kiemelkedő zarándokbazilika és látványosság Linz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.258294,
+                        48.324015
+                  ]
+            },
+            {
+                  "name": "Turm V (Euphemia)",
+                  "text": "Az V. torony (Euphemia) egy ismert történelmi látványosság, amely a linzi erődítmények része.",
+                  "category": "landmark",
+                  "coords": [
+                        14.259287,
+                        48.323739
+                  ]
+            },
+            {
+                  "name": "Turm 18 (Katharina)",
+                  "text": "A 18. torony (Katharina) egy turisztikai látványosság, amely a régi linzi erődrendszerhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        14.254479,
+                        48.320841
+                  ]
+            },
+            {
+                  "name": "forum metall",
+                  "text": "A forum metall egy jelentős szabadtéri kiállítás és nagyméretű fémszobrokból álló látványosság Linzben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293507,
+                        48.312499
+                  ]
+            },
+            {
+                  "name": "Nibelungenbrücke",
+                  "text": "A Nibelungenbrücke egy jelentős történelmi híd, amely a Dunán ível át Linzben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284839,
+                        48.308244
+                  ]
+            },
+            {
+                  "name": "Eisenbahnbrücke",
+                  "text": "Az Eisenbahnbrücke egy modern vasúti híd, amely a folyón ível át Linzben.",
+                  "category": "landmark",
+                  "coords": [
+                        14.295337,
+                        48.31718
+                  ]
+            },
+            {
+                  "name": "Donautalbrücke",
+                  "text": "A Donautalbrücke egy híd, amely a Duna-völgyet keresztezi Linz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268266,
+                        48.305812
+                  ]
+            },
+            {
+                  "name": "Volksgarten",
+                  "text": "A Volksgarten egy központi nyilvános park zöldterületekkel Linz városában.",
+                  "category": "park",
+                  "coords": [
+                        14.291613,
+                        48.294835
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "A linzi Botanikus Kert változatos növényfajok gyűjteményével és gyönyörűen parkosított területekkel büszkélkedhet.",
+                  "category": "park",
+                  "coords": [
+                        14.276545,
+                        48.296213
+                  ]
+            },
+            {
+                  "name": "Linzer Tiergarten",
+                  "text": "A Zoo Linz egy népszerű állatkert, amely félúton található a Pöstlingberg hegyen Linzben.",
+                  "category": "recreational",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Lentos Kunstmuseum Linz",
+                  "text": "A Lentos Museum of Modern Art egy múzeum Linz városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.288796,
+                        48.308545
+                  ]
+            },
+            {
+                  "name": "Ars Electronica Center",
+                  "text": "Az Ars Electronica Center egy múzeum Linz városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.284744,
+                        48.309954
+                  ]
+            },
+            {
+                  "name": "Pöstlingbergbahn Museum",
+                  "text": "A Pöstlingbergbahn Museum egy múzeum Linz városában.",
+                  "category": "museum",
+                  "coords": [
+                        14.276509,
+                        48.310961
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "A St. Martin’s Church egy történelmi emlékmű Linz városában.",
+                  "category": "historical",
+                  "coords": [
+                        14.279656,
+                        48.304558
+                  ]
+            },
+            {
+                  "name": "Theater Phönix",
+                  "text": "A Theater Phönix egy színház Linz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        14.29697,
+                        48.291222
+                  ]
+            },
+            {
+                  "name": "OK Offenes Kulturhaus Oberösterreich",
+                  "text": "Az OK Center for Contemporary Art egy művészeti központ Linzben.",
+                  "category": "cultural",
+                  "coords": [
+                        14.290513,
+                        48.302865
+                  ]
+            },
+            {
+                  "name": "Friedenskirche Christkönig",
+                  "text": "A Friedenskirche Christkönig egy istentiszteleti hely Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.284466,
+                        48.317276
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "A Martin Luther Church egy vallási épület Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.29212,
+                        48.3005
+                  ]
+            },
+            {
+                  "name": "Altkatholische Kirche",
+                  "text": "Az Altkatholische Kirche egy istentiszteleti hely Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.292019,
+                        48.307855
+                  ]
+            },
+            {
+                  "name": "St. Konrad Kirche",
+                  "text": "A St. Konrad church egy vallási épület Linz városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.273257,
+                        48.289561
+                  ]
+            },
+            {
+                  "name": "St. Markus",
+                  "text": "A St. Markus egy vallási épület Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.290308,
+                        48.333369
+                  ]
+            },
+            {
+                  "name": "St. Leopold",
+                  "text": "A St. Leopold egy istentiszteleti hely Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.274548,
+                        48.313231
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "A Herz-Jesu-Kirche egy istentiszteleti hely Linz városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.300906,
+                        48.287538
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche St. Margarethen",
+                  "text": "A Kalvarienbergkirche St. Margarethen egy vallási épület Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.259377,
+                        48.306467
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "A Don Bosco egy istentiszteleti hely Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.316688,
+                        48.290359
+                  ]
+            },
+            {
+                  "name": "Gustav-Adolf-Kirche",
+                  "text": "A Gustav-Adolf-Kirche egy istentiszteleti hely Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.282064,
+                        48.315793
+                  ]
+            },
+            {
+                  "name": "Maximilianskirche",
+                  "text": "A Maximilianskirche egy vallási épület Linz városában.",
+                  "category": "religious",
+                  "coords": [
+                        14.269596,
+                        48.29584
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "A Kapuzinerkirche egy istentiszteleti hely Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.281817,
+                        48.300339
+                  ]
+            },
+            {
+                  "name": "Kirche der barmherzigen Brüder zur unbefleckten Empfängnis Mariae",
+                  "text": "Ez egy istentiszteleti hely Linzben.",
+                  "category": "religious",
+                  "coords": [
+                        14.287666,
+                        48.300254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Linzer Schloss",
+                  "text": "Castelul Linz este un castel istoric din Linz cu vedere la fluviul Dunărea.",
+                  "category": "castle",
+                  "coords": [
+                        14.282406,
+                        48.305459
+                  ]
+            },
+            {
+                  "name": "Turm I (Othilie)",
+                  "text": "Turnul I (Othilie) este un fost castel și turn de fortificație situat în Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.2571,
+                        48.323404
+                  ]
+            },
+            {
+                  "name": "Turm 9 (Apollonia)",
+                  "text": "Turnul 9 (Apollonia) este un turn istoric de fortificație care servește astăzi ca muzeu în Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.261745,
+                        48.286227
+                  ]
+            },
+            {
+                  "name": "Peinherrnhof",
+                  "text": "Peinherrnhof este un castel istoric situat în orașul Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.256253,
+                        48.29605
+                  ]
+            },
+            {
+                  "name": "NORDICO Stadtmuseum Linz",
+                  "text": "Muzeul NORDICO al orașului Linz este un muzeu axat pe istoria și cultura orașului Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.291475,
+                        48.304108
+                  ]
+            },
+            {
+                  "name": "Bergschlößl",
+                  "text": "Bergschlößl este o clădire istorică de castel baroc situată în Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.285672,
+                        48.290874
+                  ]
+            },
+            {
+                  "name": "Warte Edelburga",
+                  "text": "Warte Edelburga este o structură istorică de fortăreață care face parte din fortificațiile din Linz.",
+                  "category": "fortress",
+                  "coords": [
+                        14.249298,
+                        48.313296
+                  ]
+            },
+            {
+                  "name": "Dreifaltigkeitssäule",
+                  "text": "Coloana Trinității este un monument proeminent dedicat ciumei, situat în piața principală din Linz.",
+                  "category": "historical",
+                  "coords": [
+                        14.286442,
+                        48.305849
+                  ]
+            },
+            {
+                  "name": "Brucknerhaus",
+                  "text": "Brucknerhaus este o sală de concerte și un teatru major situat în Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.292735,
+                        48.310575
+                  ]
+            },
+            {
+                  "name": "Musiktheater Linz",
+                  "text": "Musiktheater Linz este un teatru modern și o clădire de operă situată în Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.294079,
+                        48.294791
+                  ]
+            },
+            {
+                  "name": "Stupa Linz",
+                  "text": "Stupa Linz este un lăcaș de cult budist și un monument în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.267877,
+                        48.295271
+                  ]
+            },
+            {
+                  "name": "Mariendom",
+                  "text": "Catedrala Sfânta Maria este un lăcaș de cult grandios în stil neogotic și cea mai mare biserică din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.286021,
+                        48.300238
+                  ]
+            },
+            {
+                  "name": "Alter Dom",
+                  "text": "Catedrala Veche este o biserică iezuită istorică și un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.288146,
+                        48.305081
+                  ]
+            },
+            {
+                  "name": "Karmelitenkirche",
+                  "text": "Karmelitenkirche este o biserică carmelită istorică și un lăcaș de cult situat în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.290539,
+                        48.301931
+                  ]
+            },
+            {
+                  "name": "Minoritenkirche",
+                  "text": "Biserica Fraților Minori este un lăcaș de cult istoric bine cunoscut din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.285668,
+                        48.304278
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche",
+                  "text": "Biserica Parohială din Linz este un important lăcaș de cult urban situat în orașul Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.288677,
+                        48.306181
+                  ]
+            },
+            {
+                  "name": "Elisabethinenkirche",
+                  "text": "Elisabethinenkirche este o biserică proeminentă și un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.294071,
+                        48.304178
+                  ]
+            },
+            {
+                  "name": "Seminarkirche Hl. Kreuz",
+                  "text": "Seminarkirche Hl. Kreuz este un lăcaș de cult istoric situat în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.293156,
+                        48.302903
+                  ]
+            },
+            {
+                  "name": "StifterHaus",
+                  "text": "Muzeul de Literatură al Austriei Superioare din StifterHaus este o atracție axată pe literatura regională din Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.28821,
+                        48.307577
+                  ]
+            },
+            {
+                  "name": "Turm 24 (Ehrentrude)",
+                  "text": "Turnul 24 (Ehrentrude) este o atracție și o parte a fortificațiilor istorice din Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297344,
+                        48.322824
+                  ]
+            },
+            {
+                  "name": "Turm 25 (Winfriede)",
+                  "text": "Turnul 25 (Winfriede) este o atracție istorică ce face parte din inelul de fortificație din Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306629,
+                        48.31591
+                  ]
+            },
+            {
+                  "name": "Klause Adelgunde",
+                  "text": "Klause Adelgunde, cunoscută și sub numele de Burschenschafterturm, este o atracție istorică notabilă din Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.246445,
+                        48.30816
+                  ]
+            },
+            {
+                  "name": "Pöstlingbergkirche",
+                  "text": "Biserica Pöstlingberg este o bazilică de pelerinaj proeminentă și o atracție situată în Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.258294,
+                        48.324015
+                  ]
+            },
+            {
+                  "name": "Turm V (Euphemia)",
+                  "text": "Turnul V (Euphemia) este o atracție istorică notabilă ce face parte din fortificațiile orașului Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.259287,
+                        48.323739
+                  ]
+            },
+            {
+                  "name": "Turm 18 (Katharina)",
+                  "text": "Turnul 18 (Katharina) este o atracție turistică asociată cu vechea rețea de fortificații din Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.254479,
+                        48.320841
+                  ]
+            },
+            {
+                  "name": "forum metall",
+                  "text": "forum metall este o expoziție remarcabilă în aer liber și o atracție cu sculpturi mari din metal în Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293507,
+                        48.312499
+                  ]
+            },
+            {
+                  "name": "Nibelungenbrücke",
+                  "text": "Nibelungenbrücke este un important pod istoric care traversează fluviul Dunărea în Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284839,
+                        48.308244
+                  ]
+            },
+            {
+                  "name": "Eisenbahnbrücke",
+                  "text": "Eisenbahnbrücke este un pod feroviar modern care traversează râul în Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.295337,
+                        48.31718
+                  ]
+            },
+            {
+                  "name": "Donautalbrücke",
+                  "text": "Donautalbrücke este un pod care traversează valea Dunării în orașul Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268266,
+                        48.305812
+                  ]
+            },
+            {
+                  "name": "Volksgarten",
+                  "text": "Volksgarten este un parc public central care oferă spații verzi în orașul Linz.",
+                  "category": "park",
+                  "coords": [
+                        14.291613,
+                        48.294835
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Grădina Botanică din Linz prezintă o colecție diversă de specii de plante și zone frumos amenajate.",
+                  "category": "park",
+                  "coords": [
+                        14.276545,
+                        48.296213
+                  ]
+            },
+            {
+                  "name": "Linzer Tiergarten",
+                  "text": "Grădina Zoologică din Linz este un parc de animale popular situat la jumătatea dealului Pöstlingberg din Linz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Lentos Kunstmuseum Linz",
+                  "text": "Lentos Museum of Modern Art este un muzeu situat în orașul Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.288796,
+                        48.308545
+                  ]
+            },
+            {
+                  "name": "Ars Electronica Center",
+                  "text": "Ars Electronica Center este un muzeu situat în orașul Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.284744,
+                        48.309954
+                  ]
+            },
+            {
+                  "name": "Pöstlingbergbahn Museum",
+                  "text": "Pöstlingbergbahn Museum este un muzeu situat în orașul Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.276509,
+                        48.310961
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "St. Martin’s Church este un monument istoric situat în orașul Linz.",
+                  "category": "historical",
+                  "coords": [
+                        14.279656,
+                        48.304558
+                  ]
+            },
+            {
+                  "name": "Theater Phönix",
+                  "text": "Theater Phönix este un teatru situat în orașul Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.29697,
+                        48.291222
+                  ]
+            },
+            {
+                  "name": "OK Offenes Kulturhaus Oberösterreich",
+                  "text": "OK Center for Contemporary Art este un centru de artă din Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.290513,
+                        48.302865
+                  ]
+            },
+            {
+                  "name": "Friedenskirche Christkönig",
+                  "text": "Friedenskirche Christkönig este un lăcaș de cult în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.284466,
+                        48.317276
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "Martin Luther Church este un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.29212,
+                        48.3005
+                  ]
+            },
+            {
+                  "name": "Altkatholische Kirche",
+                  "text": "Altkatholische Kirche este o biserică și lăcaș de cult în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.292019,
+                        48.307855
+                  ]
+            },
+            {
+                  "name": "St. Konrad Kirche",
+                  "text": "St. Konrad church este un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.273257,
+                        48.289561
+                  ]
+            },
+            {
+                  "name": "St. Markus",
+                  "text": "St. Markus este un lăcaș de cult situat în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.290308,
+                        48.333369
+                  ]
+            },
+            {
+                  "name": "St. Leopold",
+                  "text": "St. Leopold este un lăcaș de cult în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.274548,
+                        48.313231
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Herz-Jesu-Kirche este un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.300906,
+                        48.287538
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche St. Margarethen",
+                  "text": "Kalvarienbergkirche St. Margarethen este un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.259377,
+                        48.306467
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "Don Bosco este un lăcaș de cult situat în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.316688,
+                        48.290359
+                  ]
+            },
+            {
+                  "name": "Gustav-Adolf-Kirche",
+                  "text": "Gustav-Adolf-Kirche este un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.282064,
+                        48.315793
+                  ]
+            },
+            {
+                  "name": "Maximilianskirche",
+                  "text": "Maximilianskirche este un lăcaș de cult în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.269596,
+                        48.29584
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Kapuzinerkirche este un lăcaș de cult din Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.281817,
+                        48.300339
+                  ]
+            },
+            {
+                  "name": "Kirche der barmherzigen Brüder zur unbefleckten Empfängnis Mariae",
+                  "text": "Acesta este un lăcaș de cult în Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.287666,
+                        48.300254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Linz Castle",
+                  "text": "Linz Castle is a historic castle in Linz that overlooks the Danube river.",
+                  "category": "castle",
+                  "coords": [
+                        14.282406,
+                        48.305459
+                  ]
+            },
+            {
+                  "name": "Tower I (Othilie)",
+                  "text": "Tower I (Othilie) is a former castle and fortification tower located in Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.2571,
+                        48.323404
+                  ]
+            },
+            {
+                  "name": "Tower 9 (Apollonia)",
+                  "text": "Tower 9 (Apollonia) is a historic fortification tower that now serves as a museum in Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.261745,
+                        48.286227
+                  ]
+            },
+            {
+                  "name": "Peinherrnhof",
+                  "text": "Peinherrnhof is a historic castle located in the city of Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.256253,
+                        48.29605
+                  ]
+            },
+            {
+                  "name": "NORDICO Museum of the city of Linz",
+                  "text": "NORDICO Museum of the city of Linz is a museum focusing on the history and culture of Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.291475,
+                        48.304108
+                  ]
+            },
+            {
+                  "name": "Bergschlößl",
+                  "text": "Bergschlößl is a historic baroque castle building located in Linz.",
+                  "category": "castle",
+                  "coords": [
+                        14.285672,
+                        48.290874
+                  ]
+            },
+            {
+                  "name": "Warte Edelburga",
+                  "text": "Warte Edelburga is a historic fort structure forming part of the fortifications of Linz.",
+                  "category": "fortress",
+                  "coords": [
+                        14.249298,
+                        48.313296
+                  ]
+            },
+            {
+                  "name": "Trinity Column",
+                  "text": "Trinity Column is a prominent monumental plague column located in the main square of Linz.",
+                  "category": "historical",
+                  "coords": [
+                        14.286442,
+                        48.305849
+                  ]
+            },
+            {
+                  "name": "Brucknerhaus",
+                  "text": "Brucknerhaus is a major concert hall and theatre situated in Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.292735,
+                        48.310575
+                  ]
+            },
+            {
+                  "name": "Musiktheater Linz",
+                  "text": "Musiktheater Linz is a modern theatre and opera house located in Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.294079,
+                        48.294791
+                  ]
+            },
+            {
+                  "name": "Stupa Linz",
+                  "text": "Stupa Linz is a Buddhist place of worship and monument in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.267877,
+                        48.295271
+                  ]
+            },
+            {
+                  "name": "St. Mary's Cathedral",
+                  "text": "St. Mary's Cathedral is a grand neo-Gothic place of worship and the largest church in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.286021,
+                        48.300238
+                  ]
+            },
+            {
+                  "name": "Old Cathedral",
+                  "text": "The Old Cathedral is a historic Jesuit church and place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.288146,
+                        48.305081
+                  ]
+            },
+            {
+                  "name": "Karmelitenkirche",
+                  "text": "Karmelitenkirche is a historical Carmelite church and place of worship situated in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.290539,
+                        48.301931
+                  ]
+            },
+            {
+                  "name": "Church of the Minor Friars",
+                  "text": "The Church of the Minor Friars is a well-known historic place of worship in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.285668,
+                        48.304278
+                  ]
+            },
+            {
+                  "name": "Linz Parish Church",
+                  "text": "Linz Parish Church is a significant urban place of worship located in the city of Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.288677,
+                        48.306181
+                  ]
+            },
+            {
+                  "name": "Elisabethinenkirche",
+                  "text": "Elisabethinenkirche is a prominent church and place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.294071,
+                        48.304178
+                  ]
+            },
+            {
+                  "name": "Seminarkirche Hl. Kreuz",
+                  "text": "Seminarkirche Hl. Kreuz is a historical place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.293156,
+                        48.302903
+                  ]
+            },
+            {
+                  "name": "Upper Austrian Literature Museum in StifterHaus",
+                  "text": "The Upper Austrian Literature Museum in StifterHaus is an attraction focused on regional literature in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.28821,
+                        48.307577
+                  ]
+            },
+            {
+                  "name": "Tower 24 (Ehrentrude)",
+                  "text": "Tower 24 (Ehrentrude) is an attraction and part of the historic fortifications of Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.297344,
+                        48.322824
+                  ]
+            },
+            {
+                  "name": "Tower 25 (Winfriede)",
+                  "text": "Tower 25 (Winfriede) is a historic attraction forming part of the fortification ring in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.306629,
+                        48.31591
+                  ]
+            },
+            {
+                  "name": "Klause Adelgunde",
+                  "text": "Klause Adelgunde, also known as Burschenschafterturm, is a notable historic attraction in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.246445,
+                        48.30816
+                  ]
+            },
+            {
+                  "name": "Pöstlingberg church",
+                  "text": "Pöstlingberg church is a prominent pilgrimage basilica and attraction situated in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.258294,
+                        48.324015
+                  ]
+            },
+            {
+                  "name": "Tower V (Euphemia)",
+                  "text": "Tower V (Euphemia) is a noted historic attraction that is part of the Linz fortifications.",
+                  "category": "landmark",
+                  "coords": [
+                        14.259287,
+                        48.323739
+                  ]
+            },
+            {
+                  "name": "Tower 18 (Katharina)",
+                  "text": "Tower 18 (Katharina) is a tourist attraction associated with the old fortification network in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.254479,
+                        48.320841
+                  ]
+            },
+            {
+                  "name": "forum metall",
+                  "text": "forum metall is a notable open-air exhibition and attraction of large metal sculptures in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.293507,
+                        48.312499
+                  ]
+            },
+            {
+                  "name": "Nibelungenbrücke",
+                  "text": "Nibelungenbrücke is a major historic bridge that crosses the Danube river in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.284839,
+                        48.308244
+                  ]
+            },
+            {
+                  "name": "Eisenbahnbrücke",
+                  "text": "Eisenbahnbrücke is a modern railway bridge that spans across the river in Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.295337,
+                        48.31718
+                  ]
+            },
+            {
+                  "name": "Donautalbrücke",
+                  "text": "Donautalbrücke is a bridge crossing the Danube valley in the city of Linz.",
+                  "category": "landmark",
+                  "coords": [
+                        14.268266,
+                        48.305812
+                  ]
+            },
+            {
+                  "name": "Volksgarten",
+                  "text": "Volksgarten is a central public park offering green spaces in the city of Linz.",
+                  "category": "park",
+                  "coords": [
+                        14.291613,
+                        48.294835
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Botanical Garden of Linz features a diverse collection of plant species and beautifully landscaped areas.",
+                  "category": "park",
+                  "coords": [
+                        14.276545,
+                        48.296213
+                  ]
+            },
+            {
+                  "name": "Zoo Linz",
+                  "text": "Zoo Linz is a popular animal park situated halfway up the Pöstlingberg in Linz.",
+                  "category": "recreational",
+                  "coords": [
+                        14.26228,
+                        48.310468
+                  ]
+            },
+            {
+                  "name": "Lentos Museum of Modern Art",
+                  "text": "Lentos Museum of Modern Art is a museum located in the city of Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.288796,
+                        48.308545
+                  ]
+            },
+            {
+                  "name": "Ars Electronica Center",
+                  "text": "Ars Electronica Center is a museum located in the city of Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.284744,
+                        48.309954
+                  ]
+            },
+            {
+                  "name": "Pöstlingbergbahn Museum",
+                  "text": "Pöstlingbergbahn Museum is a museum situated in the city of Linz.",
+                  "category": "museum",
+                  "coords": [
+                        14.276509,
+                        48.310961
+                  ]
+            },
+            {
+                  "name": "St. Martin’s Church",
+                  "text": "St. Martin’s Church is a historic monument located in the city of Linz.",
+                  "category": "historical",
+                  "coords": [
+                        14.279656,
+                        48.304558
+                  ]
+            },
+            {
+                  "name": "Theater Phönix",
+                  "text": "Theater Phönix is a theatre situated in the city of Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.29697,
+                        48.291222
+                  ]
+            },
+            {
+                  "name": "OK Center for Contemporary Art",
+                  "text": "The OK Center for Contemporary Art is an arts centre located in Linz.",
+                  "category": "cultural",
+                  "coords": [
+                        14.290513,
+                        48.302865
+                  ]
+            },
+            {
+                  "name": "Friedenskirche Christkönig",
+                  "text": "Friedenskirche Christkönig is a place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.284466,
+                        48.317276
+                  ]
+            },
+            {
+                  "name": "Martin Luther Church",
+                  "text": "The Martin Luther Church is a place of worship in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.29212,
+                        48.3005
+                  ]
+            },
+            {
+                  "name": "Altkatholische Kirche",
+                  "text": "Altkatholische Kirche is a place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.292019,
+                        48.307855
+                  ]
+            },
+            {
+                  "name": "St. Konrad church",
+                  "text": "St. Konrad church is a place of worship situated in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.273257,
+                        48.289561
+                  ]
+            },
+            {
+                  "name": "St. Markus",
+                  "text": "St. Markus is a place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.290308,
+                        48.333369
+                  ]
+            },
+            {
+                  "name": "St. Leopold",
+                  "text": "St. Leopold is a place of worship situated in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.274548,
+                        48.313231
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Herz-Jesu-Kirche is a place of worship in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.300906,
+                        48.287538
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche St. Margarethen",
+                  "text": "Kalvarienbergkirche St. Margarethen is a place of worship in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.259377,
+                        48.306467
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "Don Bosco is a place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.316688,
+                        48.290359
+                  ]
+            },
+            {
+                  "name": "Gustav-Adolf-Kirche",
+                  "text": "Gustav-Adolf-Kirche is a place of worship in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.282064,
+                        48.315793
+                  ]
+            },
+            {
+                  "name": "Maximilianskirche",
+                  "text": "Maximilianskirche is a place of worship situated in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.269596,
+                        48.29584
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Kapuzinerkirche is a place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.281817,
+                        48.300339
+                  ]
+            },
+            {
+                  "name": "Kirche der barmherzigen Brüder zur unbefleckten Empfängnis Mariae",
+                  "text": "This is a place of worship located in Linz.",
+                  "category": "religious",
+                  "coords": [
+                        14.287666,
+                        48.300254
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-4", coords: [14.2861, 48.3069],
     name: { de: "Linz", hu: "Linz", ro: "Linz", en: "Linz" },
     image: "/geo-images/austria/linz.webp",
     description: {
@@ -769,7 +4495,1708 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Innsbruck", type: "city", parent: "AT-7", coords: [11.3945, 47.2692],
+    id: "AT-Innsbruck", "sights": {
+      "de": [
+            {
+                  "name": "Museum Goldenes Dachl",
+                  "text": "Dieses Museum in der Altstadt widmet sich der Geschichte des berühmten Goldenen Dachls.",
+                  "category": "museum",
+                  "coords": [
+                        11.393269,
+                        47.268657
+                  ]
+            },
+            {
+                  "name": "Hofburg",
+                  "text": "Die ehemalige kaiserliche Residenz der Habsburger zählt zu den wichtigsten Kulturbauten Österreichs.",
+                  "category": "museum",
+                  "coords": [
+                        11.394899,
+                        47.268864
+                  ]
+            },
+            {
+                  "name": "Localbahnmuseum",
+                  "text": "Das Museum zeigt eine Sammlung historischer Fahrzeuge der Tiroler Lokalbahnen.",
+                  "category": "museum",
+                  "coords": [
+                        11.397907,
+                        47.253327
+                  ]
+            },
+            {
+                  "name": "Glockengießerei Grassmayr",
+                  "text": "Ein traditionsreiches Museum, das die über 400-jährige Geschichte der Glockengießerei dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        11.398137,
+                        47.256286
+                  ]
+            },
+            {
+                  "name": "Audioversum",
+                  "text": "Ein interaktives Science Center, das sich spielerisch mit dem Thema Hören und Akustik befasst.",
+                  "category": "museum",
+                  "coords": [
+                        11.396784,
+                        47.263469
+                  ]
+            },
+            {
+                  "name": "Tirol Panorama",
+                  "text": "Das Museum beherbergt das monumentale Riesenrundgemälde über die Tiroler Freiheitskämpfe.",
+                  "category": "museum",
+                  "coords": [
+                        11.401576,
+                        47.250476
+                  ]
+            },
+            {
+                  "name": "Palais Fugger-Taxis",
+                  "text": "Ein historisches Palais in der Innsbrucker Altstadt, das heute öffentliche Ämter beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        11.39522,
+                        47.264277
+                  ]
+            },
+            {
+                  "name": "Weiherburg",
+                  "text": "Ein spätgotischer Ansitz am Fuße der Nordkette, der für Veranstaltungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        11.398301,
+                        47.280911
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Ferdinandeum",
+                  "text": "Das bedeutende Regionalmuseum zeigt umfangreiche Sammlungen zur Kunst und Geschichte Tirols.",
+                  "category": "museum",
+                  "coords": [
+                        11.397733,
+                        47.267323
+                  ]
+            },
+            {
+                  "name": "Kastell von Veldidena",
+                  "text": "Archäologische Überreste einer bedeutenden römischen Siedlung und Militärstation.",
+                  "category": "historical",
+                  "coords": [
+                        11.400887,
+                        47.255688
+                  ]
+            },
+            {
+                  "name": "Triumphpforte",
+                  "text": "Ein prächtiger Triumphbogen, der anlässlich einer kaiserlichen Hochzeit im 18. Jahrhundert errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        11.394803,
+                        47.262604
+                  ]
+            },
+            {
+                  "name": "Ansitz Albersheim",
+                  "text": "Ein historisches Herrenhaus in Innsbruck mit charakteristischer Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        11.387644,
+                        47.264167
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Der Sitz der Innsbrucker Stadtverwaltung verbindet historische Bausubstanz mit moderner Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        11.393665,
+                        47.265626
+                  ]
+            },
+            {
+                  "name": "Tiroler Landestheater Großes Haus",
+                  "text": "Das Haupttheater des Landes Tirol bietet ein breites Spektrum an Opern, Schauspielen und Tanz.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396067,
+                        47.269507
+                  ]
+            },
+            {
+                  "name": "Congress",
+                  "text": "Ein modernes Kongress- und Veranstaltungszentrum im Herzen der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        11.394707,
+                        47.270464
+                  ]
+            },
+            {
+                  "name": "Treibhaus",
+                  "text": "Ein bekanntes Kulturzentrum, das für Konzerte, Kabarett und alternative Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396378,
+                        47.267614
+                  ]
+            },
+            {
+                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
+                  "text": "Das religiöse und soziale Zentrum der jüdischen Gemeinde in Tirol und Vorarlberg.",
+                  "category": "religious",
+                  "coords": [
+                        11.399627,
+                        47.268026
+                  ]
+            },
+            {
+                  "name": "Stiftskirche Wilten",
+                  "text": "Ein bedeutendes Prämonstratenserstift mit einer langen Geschichte und reicher barocker Ausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        11.40046,
+                        47.253725
+                  ]
+            },
+            {
+                  "name": "Alte Höttinger Kirche",
+                  "text": "Die alte Pfarrkirche von Hötting ist ein markantes historisches Sakralgebäude am Hang.",
+                  "category": "religious",
+                  "coords": [
+                        11.384485,
+                        47.272524
+                  ]
+            },
+            {
+                  "name": "Landschaftliche Kirche Mariahilf",
+                  "text": "Eine beeindruckende Barockkirche am Innufer, die als Dank für die Abwendung von Kriegsgefahr erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        11.387154,
+                        47.26823
+                  ]
+            },
+            {
+                  "name": "Höttinger Bild",
+                  "text": "Eine bekannte Wallfahrtskapelle im Wald oberhalb von Hötting.",
+                  "category": "religious",
+                  "coords": [
+                        11.369495,
+                        47.282445
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "Die Pfarrkirche des Stadtteils Amras ist der Himmelfahrt Mariens geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        11.429017,
+                        47.259501
+                  ]
+            },
+            {
+                  "name": "St. Pirmin",
+                  "text": "Eine moderne katholische Pfarrkirche im Innsbrucker Stadtteil Reichenau.",
+                  "category": "religious",
+                  "coords": [
+                        11.425828,
+                        47.269607
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "Die zentrale Barockkirche in der Maria-Theresien-Straße ist für ihre prachtvolle Fassade bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        11.393436,
+                        47.266597
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Die Kirche des Kapuzinerklosters ist ein schlichter Sakralbau mit historischer Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        11.400305,
+                        47.270052
+                  ]
+            },
+            {
+                  "name": "Dreiheiligen",
+                  "text": "Eine Votivkirche, die zum Dank für das Ende einer Pestepidemie errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        11.40271,
+                        47.26813
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Eine barocke Kirche am Innrain, die Johannes dem Täufer geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.388522,
+                        47.265439
+                  ]
+            },
+            {
+                  "name": "Siebenkapellenkirche",
+                  "text": "Eine historische Kirche in Innsbruck, die ihren Namen von den ehemals sieben umliegenden Kapellen hat.",
+                  "category": "religious",
+                  "coords": [
+                        11.406351,
+                        47.271415
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Die katholische Pfarrkirche St. Paulus ist ein moderner Sakralbau im Osten der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        11.416468,
+                        47.273005
+                  ]
+            },
+            {
+                  "name": "Evangelische Christuskirche",
+                  "text": "Die evangelische Christuskirche ist das zentrale Gotteshaus der lutherischen Gemeinde in Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.401691,
+                        47.276295
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Barmherzigen Schwestern",
+                  "text": "Die Klosterkirche gehört zum Konvent der Barmherzigen Schwestern vom heiligen Vinzenz von Paul.",
+                  "category": "religious",
+                  "coords": [
+                        11.405193,
+                        47.279277
+                  ]
+            },
+            {
+                  "name": "Petrus Canisius",
+                  "text": "Eine moderne katholische Pfarrkirche, die dem Heiligen Petrus Canisius geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.380999,
+                        47.26361
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Pradl",
+                  "text": "Die neuromanische Pfarrkirche prägt das Zentrum des Stadtteils Pradl.",
+                  "category": "religious",
+                  "coords": [
+                        11.407947,
+                        47.266679
+                  ]
+            },
+            {
+                  "name": "Pfarrkiche Maria am Gestade",
+                  "text": "Eine moderne Kirche im Stadtteil Sieglanger, die Maria am Gestade geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.364148,
+                        47.252319
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Allerheiligen",
+                  "text": "Die Pfarrkirche Allerheiligen ist ein zeitgenössisches Sakralgebäude im Westen von Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.355567,
+                        47.26796
+                  ]
+            },
+            {
+                  "name": "Theresienkirche",
+                  "text": "Eine moderne katholische Kirche, die der Heiligen Theresia gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.397086,
+                        47.286436
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Die imposante Barockkirche mit ihrer markanten Doppelturmfassade dient als Universitätskirche.",
+                  "category": "religious",
+                  "coords": [
+                        11.397946,
+                        47.268452
+                  ]
+            },
+            {
+                  "name": "Höttinger Kirche",
+                  "text": "Die neugotische Hauptpfarrkirche des traditionsreichen Stadtteils Hötting.",
+                  "category": "religious",
+                  "coords": [
+                        11.386789,
+                        47.27179
+                  ]
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "Die historische Parkanlage am Rande der Altstadt ist ein beliebtes Erholungsgebiet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.397193,
+                        47.271476
+                  ]
+            },
+            {
+                  "name": "Emile-Béthouart-Steg",
+                  "text": "Ein Fußgängersteg über den Inn, der nach einem französischen General benannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.395148,
+                        47.273277
+                  ]
+            },
+            {
+                  "name": "Butterer Bichl",
+                  "text": "Ein markanter Punkt in Innsbruck, der für seine Sendeanlage bekannt ist.",
+                  "category": "tower",
+                  "coords": [
+                        11.374634,
+                        47.269913
+                  ]
+            },
+            {
+                  "name": "Ottoburg",
+                  "text": "Ein spätmittelalterlicher Wohnturm am Eingang zur Altstadt, in dem sich heute ein Restaurant befindet.",
+                  "category": "tower",
+                  "coords": [
+                        11.392005,
+                        47.268482
+                  ]
+            },
+            {
+                  "name": "Universitätsbrücke",
+                  "text": "Die Brücke verbindet den Campus der Universität mit dem Stadtteil Hötting.",
+                  "category": "landmark",
+                  "coords": [
+                        11.384678,
+                        47.265262
+                  ]
+            },
+            {
+                  "name": "Innbrücke",
+                  "text": "Die historische Brücke über den Inn gab der Stadt Innsbruck ihren Namen.",
+                  "category": "landmark",
+                  "coords": [
+                        11.390966,
+                        47.268606
+                  ]
+            },
+            {
+                  "name": "Mühlauer Brücke",
+                  "text": "Eine wichtige Straßenbrücke, die das Stadtgebiet mit dem Stadtteil Mühlau verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        11.404874,
+                        47.280302
+                  ]
+            },
+            {
+                  "name": "Olympiabrücke",
+                  "text": "Die Brücke wurde anlässlich der Olympischen Winterspiele errichtet und führt über die Bahngleise.",
+                  "category": "landmark",
+                  "coords": [
+                        11.402589,
+                        47.257448
+                  ]
+            },
+            {
+                  "name": "Bergisel",
+                  "text": "Der Bergisel ist ein bekannter Hügel in Innsbruck, der vor allem für seine Skisprungschanze berühmt ist.",
+                  "category": "natural",
+                  "coords": [
+                        11.400137,
+                        47.246752
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Goldenes Dachl",
+                  "text": "Ez az óvárosi múzeum a híres Aranytető történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.393269,
+                        47.268657
+                  ]
+            },
+            {
+                  "name": "Hofburg",
+                  "text": "A Habsburgok egykori császári rezidenciája Ausztria egyik legfontosabb kulturális épülete.",
+                  "category": "museum",
+                  "coords": [
+                        11.394899,
+                        47.268864
+                  ]
+            },
+            {
+                  "name": "Localbahnmuseum",
+                  "text": "A múzeum a tiroli helyiérdekű vasutak történelmi járműveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.397907,
+                        47.253327
+                  ]
+            },
+            {
+                  "name": "Glockengießerei Grassmayr",
+                  "text": "Hagyományőrző múzeum, amely a harangöntöde több mint 400 éves történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        11.398137,
+                        47.256286
+                  ]
+            },
+            {
+                  "name": "Audioversum",
+                  "text": "Interaktív tudományos központ, amely játékosan foglalkozik a hallás és az akusztika témájával.",
+                  "category": "museum",
+                  "coords": [
+                        11.396784,
+                        47.263469
+                  ]
+            },
+            {
+                  "name": "Tirol Panorama",
+                  "text": "A múzeum ad otthont a tiroli szabadságharcokat ábrázoló monumentális óriás körképnek.",
+                  "category": "museum",
+                  "coords": [
+                        11.401576,
+                        47.250476
+                  ]
+            },
+            {
+                  "name": "Palais Fugger-Taxis",
+                  "text": "Történelmi palota Innsbruck óvárosában, amely ma közhivataloknak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        11.39522,
+                        47.264277
+                  ]
+            },
+            {
+                  "name": "Weiherburg",
+                  "text": "Késő gótikus udvarház a Nordkette lábánál, amelyet rendezvényekre használnak.",
+                  "category": "castle",
+                  "coords": [
+                        11.398301,
+                        47.280911
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Ferdinandeum",
+                  "text": "A jelentős regionális múzeum Tirol művészetével és történelmével kapcsolatos gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        11.397733,
+                        47.267323
+                  ]
+            },
+            {
+                  "name": "Kastell von Veldidena",
+                  "text": "Egy jelentős római település és katonai állomás régészeti maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        11.400887,
+                        47.255688
+                  ]
+            },
+            {
+                  "name": "Triumphpforte",
+                  "text": "Pompás diadalív, amelyet egy 18. századi császári esküvő alkalmából emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        11.394803,
+                        47.262604
+                  ]
+            },
+            {
+                  "name": "Ansitz Albersheim",
+                  "text": "Történelmi kúria Innsbruckban, jellegzetes építészeti stílussal.",
+                  "category": "historical",
+                  "coords": [
+                        11.387644,
+                        47.264167
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Innsbruck városigazgatásának székhelye, amely ötvözi a történelmi állományt a modern építészettel.",
+                  "category": "historical",
+                  "coords": [
+                        11.393665,
+                        47.265626
+                  ]
+            },
+            {
+                  "name": "Tiroler Landestheater Großes Haus",
+                  "text": "Tirol tartomány fő színháza operák, színdarabok és táncelőadások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396067,
+                        47.269507
+                  ]
+            },
+            {
+                  "name": "Congress",
+                  "text": "Modern kongresszusi és rendezvényközpont a város szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        11.394707,
+                        47.270464
+                  ]
+            },
+            {
+                  "name": "Treibhaus",
+                  "text": "Ismert kulturális központ, amelyet koncertekre, kabaré előadásokra és alternatív rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396378,
+                        47.267614
+                  ]
+            },
+            {
+                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
+                  "text": "Tirol és Vorarlberg zsidó közösségének vallási és társadalmi központja.",
+                  "category": "religious",
+                  "coords": [
+                        11.399627,
+                        47.268026
+                  ]
+            },
+            {
+                  "name": "Stiftskirche Wilten",
+                  "text": "Jelentős premontrei apátság hosszú múlttal és gazdag barokk berendezéssel.",
+                  "category": "religious",
+                  "coords": [
+                        11.40046,
+                        47.253725
+                  ]
+            },
+            {
+                  "name": "Alte Höttinger Kirche",
+                  "text": "Hötting régi plébániatemploma egy jellegzetes történelmi szakrális épület a hegyoldalban.",
+                  "category": "religious",
+                  "coords": [
+                        11.384485,
+                        47.272524
+                  ]
+            },
+            {
+                  "name": "Landschaftliche Kirche Mariahilf",
+                  "text": "Lenyűgöző barokk templom az Inn partján, amelyet a háborús veszély elhárításáért való hálából építettek.",
+                  "category": "religious",
+                  "coords": [
+                        11.387154,
+                        47.26823
+                  ]
+            },
+            {
+                  "name": "Höttinger Bild",
+                  "text": "Ismert zarándokkápolna a Hötting feletti erdőben.",
+                  "category": "religious",
+                  "coords": [
+                        11.369495,
+                        47.282445
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "Amras városrész plébániatemploma Szűz Mária mennybemenetelének van szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        11.429017,
+                        47.259501
+                  ]
+            },
+            {
+                  "name": "St. Pirmin",
+                  "text": "Modern katolikus plébániatemplom Innsbruck Reichenau városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        11.425828,
+                        47.269607
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "A Maria-Theresien-Straße központi barokk temploma pompás homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.393436,
+                        47.266597
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "A kapucinus kolostor temploma egy egyszerű szakrális épület, történelmi jelentőséggel.",
+                  "category": "religious",
+                  "coords": [
+                        11.400305,
+                        47.270052
+                  ]
+            },
+            {
+                  "name": "Dreiheiligen",
+                  "text": "Fogadalmi templom, amelyet a pestisjárvány végéért való hálából emeltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.40271,
+                        47.26813
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Barokk templom az Innrain-en, amelyet Keresztelő Szent Jánosnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.388522,
+                        47.265439
+                  ]
+            },
+            {
+                  "name": "Siebenkapellenkirche",
+                  "text": "Történelmi templom Innsbruckban, amely a nevét az egykor körülötte lévő hét kápolnáról kapta.",
+                  "category": "religious",
+                  "coords": [
+                        11.406351,
+                        47.271415
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "A Szent Pál katolikus plébániatemplom egy modern szakrális épület a város keleti részén.",
+                  "category": "religious",
+                  "coords": [
+                        11.416468,
+                        47.273005
+                  ]
+            },
+            {
+                  "name": "Evangelische Christuskirche",
+                  "text": "Az evangélikus Krisztus-templom az innsbrucki lutheránus gyülekezet központi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.401691,
+                        47.276295
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Barmherzigen Schwestern",
+                  "text": "A kolostortemplom az irgalmas nővérek rendjéhez tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        11.405193,
+                        47.279277
+                  ]
+            },
+            {
+                  "name": "Petrus Canisius",
+                  "text": "Modern katolikus plébániatemplom, amelyet Szent Petrus Canisiusnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.380999,
+                        47.26361
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Pradl",
+                  "text": "Az újromán stílusú plébániatemplom meghatározza Pradl városrész központját.",
+                  "category": "religious",
+                  "coords": [
+                        11.407947,
+                        47.266679
+                  ]
+            },
+            {
+                  "name": "Pfarrkiche Maria am Gestade",
+                  "text": "Modern templom Sieglanger városrészben, amelyet Szűz Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.364148,
+                        47.252319
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Allerheiligen",
+                  "text": "A Mindenszentek plébániatemplom egy kortárs szakrális épület Innsbruck nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        11.355567,
+                        47.26796
+                  ]
+            },
+            {
+                  "name": "Theresienkirche",
+                  "text": "Modern katolikus templom, amelyet Szent Teréznek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        11.397086,
+                        47.286436
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Az impozáns barokk templom jellegzetes kéttornyos homlokzatával egyetemi templomként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        11.397946,
+                        47.268452
+                  ]
+            },
+            {
+                  "name": "Höttinger Kirche",
+                  "text": "A hagyományőrző Hötting városrész neogótikus főplébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.386789,
+                        47.27179
+                  ]
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "Az óváros szélén található történelmi park kedvelt pihenőhely.",
+                  "category": "landmark",
+                  "coords": [
+                        11.397193,
+                        47.271476
+                  ]
+            },
+            {
+                  "name": "Emile-Béthouart-Steg",
+                  "text": "Az Innen átívelő gyalogoshíd, amelyet egy francia tábornokról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        11.395148,
+                        47.273277
+                  ]
+            },
+            {
+                  "name": "Butterer Bichl",
+                  "text": "Innsbruck egyik jellegzetes pontja, amely az adótornyáról ismert.",
+                  "category": "tower",
+                  "coords": [
+                        11.374634,
+                        47.269913
+                  ]
+            },
+            {
+                  "name": "Ottoburg",
+                  "text": "Késő középkori lakótorony az óváros bejáratánál, amelyben ma étterem működik.",
+                  "category": "tower",
+                  "coords": [
+                        11.392005,
+                        47.268482
+                  ]
+            },
+            {
+                  "name": "Universitätsbrücke",
+                  "text": "A híd összeköti az egyetemi campust Hötting városrésszel.",
+                  "category": "landmark",
+                  "coords": [
+                        11.384678,
+                        47.265262
+                  ]
+            },
+            {
+                  "name": "Innbrücke",
+                  "text": "Az Innen átívelő történelmi híd adta Innsbruck városának a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        11.390966,
+                        47.268606
+                  ]
+            },
+            {
+                  "name": "Mühlauer Brücke",
+                  "text": "Fontos közúti híd, amely a városközpontot köti össze Mühlau városrésszel.",
+                  "category": "landmark",
+                  "coords": [
+                        11.404874,
+                        47.280302
+                  ]
+            },
+            {
+                  "name": "Olympiabrücke",
+                  "text": "A hidat a téli olimpiai játékok alkalmából emelték, és a vasúti sínek felett vezet át.",
+                  "category": "landmark",
+                  "coords": [
+                        11.402589,
+                        47.257448
+                  ]
+            },
+            {
+                  "name": "Bergisel",
+                  "text": "A Bergisel egy domb Innsbruckban, amely leginkább az olimpiai síugrósáncáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        11.400137,
+                        47.246752
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Goldenes Dachl",
+                  "text": "Acest muzeu din orașul vechi este dedicat istoriei faimosului Acoperiș de Aur.",
+                  "category": "museum",
+                  "coords": [
+                        11.393269,
+                        47.268657
+                  ]
+            },
+            {
+                  "name": "Hofburg",
+                  "text": "Fosta reședință imperială a Habsburgilor este una dintre cele mai importante clădiri culturale din Austria.",
+                  "category": "museum",
+                  "coords": [
+                        11.394899,
+                        47.268864
+                  ]
+            },
+            {
+                  "name": "Localbahnmuseum",
+                  "text": "Muzeul prezintă o colecție de vehicule istorice ale căilor ferate locale tiroleze.",
+                  "category": "museum",
+                  "coords": [
+                        11.397907,
+                        47.253327
+                  ]
+            },
+            {
+                  "name": "Glockengießerei Grassmayr",
+                  "text": "Un muzeu tradițional care documentează istoria de peste 400 de ani a turnătoriei de clopote.",
+                  "category": "museum",
+                  "coords": [
+                        11.398137,
+                        47.256286
+                  ]
+            },
+            {
+                  "name": "Audioversum",
+                  "text": "Un centru de știință interactiv care explorează tema auzului și a acusticii într-un mod ludic.",
+                  "category": "museum",
+                  "coords": [
+                        11.396784,
+                        47.263469
+                  ]
+            },
+            {
+                  "name": "Tirol Panorama",
+                  "text": "Muzeul găzduiește pictura panoramică monumentală despre luptele pentru libertate ale tirolezilor.",
+                  "category": "museum",
+                  "coords": [
+                        11.401576,
+                        47.250476
+                  ]
+            },
+            {
+                  "name": "Palais Fugger-Taxis",
+                  "text": "Un palat istoric din orașul vechi Innsbruck, care astăzi găzduiește birouri publice.",
+                  "category": "castle",
+                  "coords": [
+                        11.39522,
+                        47.264277
+                  ]
+            },
+            {
+                  "name": "Weiherburg",
+                  "text": "Un conac gotic târziu la poalele munților Nordkette, folosit pentru evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        11.398301,
+                        47.280911
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Ferdinandeum",
+                  "text": "Importantul muzeu regional prezintă colecții vaste despre arta și istoria Tirolului.",
+                  "category": "museum",
+                  "coords": [
+                        11.397733,
+                        47.267323
+                  ]
+            },
+            {
+                  "name": "Kastell von Veldidena",
+                  "text": "Rămășițe arheologice ale unei importante așezări romane și stații militare.",
+                  "category": "historical",
+                  "coords": [
+                        11.400887,
+                        47.255688
+                  ]
+            },
+            {
+                  "name": "Triumphpforte",
+                  "text": "Un arc de triumf magnific, ridicat cu ocazia unei nunți imperiale în secolul al XVIII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        11.394803,
+                        47.262604
+                  ]
+            },
+            {
+                  "name": "Ansitz Albersheim",
+                  "text": "Un conac istoric din Innsbruck, cu o arhitectură caracteristică.",
+                  "category": "historical",
+                  "coords": [
+                        11.387644,
+                        47.264167
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Sediul administrației orașului Innsbruck combină structura istorică cu arhitectura modernă.",
+                  "category": "historical",
+                  "coords": [
+                        11.393665,
+                        47.265626
+                  ]
+            },
+            {
+                  "name": "Tiroler Landestheater Großes Haus",
+                  "text": "Teatrul principal al landului Tirol oferă o gamă largă de opere, piese de teatru și dans.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396067,
+                        47.269507
+                  ]
+            },
+            {
+                  "name": "Congress",
+                  "text": "Un centru modern de congrese și evenimente în inima orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        11.394707,
+                        47.270464
+                  ]
+            },
+            {
+                  "name": "Treibhaus",
+                  "text": "Un cunoscut centru cultural folosit pentru concerte, cabaret și evenimente alternative.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396378,
+                        47.267614
+                  ]
+            },
+            {
+                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
+                  "text": "Centrul religios și social al comunității evreiești din Tirol și Vorarlberg.",
+                  "category": "religious",
+                  "coords": [
+                        11.399627,
+                        47.268026
+                  ]
+            },
+            {
+                  "name": "Stiftskirche Wilten",
+                  "text": "O importantă abație premonstratensă cu o istorie lungă și dotări baroce bogate.",
+                  "category": "religious",
+                  "coords": [
+                        11.40046,
+                        47.253725
+                  ]
+            },
+            {
+                  "name": "Alte Höttinger Kirche",
+                  "text": "Vechea biserică parohială din Hötting este o clădire sacră istorică proeminentă pe versant.",
+                  "category": "religious",
+                  "coords": [
+                        11.384485,
+                        47.272524
+                  ]
+            },
+            {
+                  "name": "Landschaftliche Kirche Mariahilf",
+                  "text": "O biserică barocă impresionantă pe malul râului Inn, construită ca recunoștință pentru evitarea pericolului de război.",
+                  "category": "religious",
+                  "coords": [
+                        11.387154,
+                        47.26823
+                  ]
+            },
+            {
+                  "name": "Höttinger Bild",
+                  "text": "O cunoscută capelă de pelerinaj în pădurea de deasupra cartierului Hötting.",
+                  "category": "religious",
+                  "coords": [
+                        11.369495,
+                        47.282445
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "Biserica parohială a cartierului Amras este dedicată Înălțării Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        11.429017,
+                        47.259501
+                  ]
+            },
+            {
+                  "name": "St. Pirmin",
+                  "text": "O biserică parohială catolică modernă în cartierul Reichenau din Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.425828,
+                        47.269607
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "Biserica barocă centrală de pe Maria-Theresien-Straße este cunoscută pentru fațada sa splendidă.",
+                  "category": "religious",
+                  "coords": [
+                        11.393436,
+                        47.266597
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Biserica mănăstirii capucine este un edificiu sacru simplu, cu importanță istorică.",
+                  "category": "religious",
+                  "coords": [
+                        11.400305,
+                        47.270052
+                  ]
+            },
+            {
+                  "name": "Dreiheiligen",
+                  "text": "O biserică votivă ridicată ca mulțumire pentru sfârșitul unei epidemii de ciumă.",
+                  "category": "religious",
+                  "coords": [
+                        11.40271,
+                        47.26813
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "O biserică barocă pe Innrain, dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        11.388522,
+                        47.265439
+                  ]
+            },
+            {
+                  "name": "Siebenkapellenkirche",
+                  "text": "O biserică istorică din Innsbruck, care își trage numele de la cele șapte capele care o înconjurau odinioară.",
+                  "category": "religious",
+                  "coords": [
+                        11.406351,
+                        47.271415
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Biserica parohială catolică Sfântul Pavel este un edificiu sacru modern în estul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        11.416468,
+                        47.273005
+                  ]
+            },
+            {
+                  "name": "Evangelische Christuskirche",
+                  "text": "Biserica evanghelică a lui Hristos este lăcașul de cult central al comunității luterane din Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.401691,
+                        47.276295
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Barmherzigen Schwestern",
+                  "text": "Biserica mănăstirii aparține conventului Surorilor de Caritate ale Sfântului Vincențiu de Paul.",
+                  "category": "religious",
+                  "coords": [
+                        11.405193,
+                        47.279277
+                  ]
+            },
+            {
+                  "name": "Petrus Canisius",
+                  "text": "O biserică parohială catolică modernă, dedicată Sfântului Petru Canisius.",
+                  "category": "religious",
+                  "coords": [
+                        11.380999,
+                        47.26361
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Pradl",
+                  "text": "Biserica parohială neoromanică domină centrul cartierului Pradl.",
+                  "category": "religious",
+                  "coords": [
+                        11.407947,
+                        47.266679
+                  ]
+            },
+            {
+                  "name": "Pfarrkiche Maria am Gestade",
+                  "text": "O biserică modernă în cartierul Sieglanger, dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        11.364148,
+                        47.252319
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Allerheiligen",
+                  "text": "Biserica parohială Allerheiligen este un edificiu sacru contemporan în vestul orașului Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.355567,
+                        47.26796
+                  ]
+            },
+            {
+                  "name": "Theresienkirche",
+                  "text": "O biserică catolică modernă, dedicată Sfintei Tereza.",
+                  "category": "religious",
+                  "coords": [
+                        11.397086,
+                        47.286436
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Impunătoarea biserică barocă, cu fațada sa distinctivă cu două turnuri, servește ca biserică universitară.",
+                  "category": "religious",
+                  "coords": [
+                        11.397946,
+                        47.268452
+                  ]
+            },
+            {
+                  "name": "Höttinger Kirche",
+                  "text": "Biserica parohială principală în stil neogotic a cartierului tradițional Hötting.",
+                  "category": "religious",
+                  "coords": [
+                        11.386789,
+                        47.27179
+                  ]
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "Parcul istoric de la marginea orașului vechi este o zonă populară de recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        11.397193,
+                        47.271476
+                  ]
+            },
+            {
+                  "name": "Emile-Béthouart-Steg",
+                  "text": "O pasarelă pietonală peste râul Inn, numită după un general francez.",
+                  "category": "landmark",
+                  "coords": [
+                        11.395148,
+                        47.273277
+                  ]
+            },
+            {
+                  "name": "Butterer Bichl",
+                  "text": "Un punct distinctiv din Innsbruck, cunoscut pentru instalația sa de emisie.",
+                  "category": "tower",
+                  "coords": [
+                        11.374634,
+                        47.269913
+                  ]
+            },
+            {
+                  "name": "Ottoburg",
+                  "text": "Un turn de locuințe din Evul Mediu târziu la intrarea în orașul vechi, care astăzi găzduiește un restaurant.",
+                  "category": "tower",
+                  "coords": [
+                        11.392005,
+                        47.268482
+                  ]
+            },
+            {
+                  "name": "Universitätsbrücke",
+                  "text": "Podul conectează campusul universitar cu cartierul Hötting.",
+                  "category": "landmark",
+                  "coords": [
+                        11.384678,
+                        47.265262
+                  ]
+            },
+            {
+                  "name": "Innbrücke",
+                  "text": "Podul istoric peste râul Inn a dat numele orașului Innsbruck.",
+                  "category": "landmark",
+                  "coords": [
+                        11.390966,
+                        47.268606
+                  ]
+            },
+            {
+                  "name": "Mühlauer Brücke",
+                  "text": "Un important pod rutier care conectează zona orașului cu cartierul Mühlau.",
+                  "category": "landmark",
+                  "coords": [
+                        11.404874,
+                        47.280302
+                  ]
+            },
+            {
+                  "name": "Olympiabrücke",
+                  "text": "Podul a fost construit cu ocazia Jocurilor Olimpice de iarnă și traversează liniile de cale ferată.",
+                  "category": "landmark",
+                  "coords": [
+                        11.402589,
+                        47.257448
+                  ]
+            },
+            {
+                  "name": "Bergisel",
+                  "text": "Bergisel este un deal din Innsbruck, renumit în special pentru trambulina sa de sărituri cu schiurile.",
+                  "category": "natural",
+                  "coords": [
+                        11.400137,
+                        47.246752
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Roof Museum",
+                  "text": "This museum in the old town is dedicated to the history of the famous Golden Roof.",
+                  "category": "museum",
+                  "coords": [
+                        11.393269,
+                        47.268657
+                  ]
+            },
+            {
+                  "name": "Hofburg",
+                  "text": "The former imperial residence of the Habsburgs is one of Austria's most important cultural buildings.",
+                  "category": "museum",
+                  "coords": [
+                        11.394899,
+                        47.268864
+                  ]
+            },
+            {
+                  "name": "Localbahnmuseum",
+                  "text": "The museum displays a collection of historical vehicles from the Tyrolean local railways.",
+                  "category": "museum",
+                  "coords": [
+                        11.397907,
+                        47.253327
+                  ]
+            },
+            {
+                  "name": "Glockengießerei Grassmayr",
+                  "text": "A traditional museum documenting the over 400-year history of the bell foundry.",
+                  "category": "museum",
+                  "coords": [
+                        11.398137,
+                        47.256286
+                  ]
+            },
+            {
+                  "name": "Audioversum",
+                  "text": "An interactive science center that explores the theme of hearing and acoustics in a playful way.",
+                  "category": "museum",
+                  "coords": [
+                        11.396784,
+                        47.263469
+                  ]
+            },
+            {
+                  "name": "Tirol Panorama",
+                  "text": "The museum houses the monumental giant panoramic painting of the Tyrolean rebellion.",
+                  "category": "museum",
+                  "coords": [
+                        11.401576,
+                        47.250476
+                  ]
+            },
+            {
+                  "name": "Palais Fugger-Taxis",
+                  "text": "A historic palace in Innsbruck's old town, now housing public offices.",
+                  "category": "castle",
+                  "coords": [
+                        11.39522,
+                        47.264277
+                  ]
+            },
+            {
+                  "name": "Weiherburg",
+                  "text": "A late Gothic manor at the foot of the Nordkette mountains, used for events.",
+                  "category": "castle",
+                  "coords": [
+                        11.398301,
+                        47.280911
+                  ]
+            },
+            {
+                  "name": "Landesmuseum Ferdinandeum",
+                  "text": "The prominent regional museum displays extensive collections on the art and history of Tyrol.",
+                  "category": "museum",
+                  "coords": [
+                        11.397733,
+                        47.267323
+                  ]
+            },
+            {
+                  "name": "Kastell von Veldidena",
+                  "text": "Archaeological remains of a significant Roman settlement and military station.",
+                  "category": "historical",
+                  "coords": [
+                        11.400887,
+                        47.255688
+                  ]
+            },
+            {
+                  "name": "Triumphpforte",
+                  "text": "A magnificent triumphal arch erected on the occasion of an imperial wedding in the 18th century.",
+                  "category": "historical",
+                  "coords": [
+                        11.394803,
+                        47.262604
+                  ]
+            },
+            {
+                  "name": "Ansitz Albersheim",
+                  "text": "A historic manor house in Innsbruck with characteristic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        11.387644,
+                        47.264167
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "The seat of Innsbruck's city administration combines historic fabric with modern architecture.",
+                  "category": "historical",
+                  "coords": [
+                        11.393665,
+                        47.265626
+                  ]
+            },
+            {
+                  "name": "Tiroler Landestheater Großes Haus",
+                  "text": "The main theatre of Tyrol offers a wide range of operas, plays, and dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396067,
+                        47.269507
+                  ]
+            },
+            {
+                  "name": "Congress",
+                  "text": "A modern congress and event center in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        11.394707,
+                        47.270464
+                  ]
+            },
+            {
+                  "name": "Treibhaus",
+                  "text": "A well-known cultural center used for concerts, cabaret, and alternative events.",
+                  "category": "cultural",
+                  "coords": [
+                        11.396378,
+                        47.267614
+                  ]
+            },
+            {
+                  "name": "Israelitische Kultusgemeinde für  Tirol und Vorarlberg",
+                  "text": "The religious and social center of the Jewish community in Tyrol and Vorarlberg.",
+                  "category": "religious",
+                  "coords": [
+                        11.399627,
+                        47.268026
+                  ]
+            },
+            {
+                  "name": "Wilten Abbey",
+                  "text": "A significant Premonstratensian abbey with a long history and rich Baroque furnishings.",
+                  "category": "religious",
+                  "coords": [
+                        11.40046,
+                        47.253725
+                  ]
+            },
+            {
+                  "name": "Alte Höttinger Kirche",
+                  "text": "The old parish church of Hötting is a prominent historic sacred building on the hillside.",
+                  "category": "religious",
+                  "coords": [
+                        11.384485,
+                        47.272524
+                  ]
+            },
+            {
+                  "name": "Landschaftliche Kirche Mariahilf",
+                  "text": "An impressive Baroque church on the banks of the Inn, built in gratitude for the averted danger of war.",
+                  "category": "religious",
+                  "coords": [
+                        11.387154,
+                        47.26823
+                  ]
+            },
+            {
+                  "name": "Höttinger Bild",
+                  "text": "A well-known pilgrimage chapel in the forest above Hötting.",
+                  "category": "religious",
+                  "coords": [
+                        11.369495,
+                        47.282445
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "The parish church of the Amras district is dedicated to the Assumption of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        11.429017,
+                        47.259501
+                  ]
+            },
+            {
+                  "name": "St. Pirmin",
+                  "text": "A modern Catholic parish church in the Reichenau district of Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.425828,
+                        47.269607
+                  ]
+            },
+            {
+                  "name": "Hospital Church",
+                  "text": "The central Baroque church on Maria-Theresien-Straße is known for its magnificent facade.",
+                  "category": "religious",
+                  "coords": [
+                        11.393436,
+                        47.266597
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "The church of the Capuchin monastery is a simple sacred building of historical significance.",
+                  "category": "religious",
+                  "coords": [
+                        11.400305,
+                        47.270052
+                  ]
+            },
+            {
+                  "name": "Dreiheiligen",
+                  "text": "A votive church erected in gratitude for the end of a plague epidemic.",
+                  "category": "religious",
+                  "coords": [
+                        11.40271,
+                        47.26813
+                  ]
+            },
+            {
+                  "name": "St. John's Church",
+                  "text": "A Baroque church on Innrain dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        11.388522,
+                        47.265439
+                  ]
+            },
+            {
+                  "name": "Siebenkapellenkirche",
+                  "text": "A historic church in Innsbruck that takes its name from the seven chapels that formerly surrounded it.",
+                  "category": "religious",
+                  "coords": [
+                        11.406351,
+                        47.271415
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "The Catholic parish church of St. Paul is a modern sacred building in the east of the city.",
+                  "category": "religious",
+                  "coords": [
+                        11.416468,
+                        47.273005
+                  ]
+            },
+            {
+                  "name": "Evangelical Church of Christ",
+                  "text": "The evangelical Church of Christ is the central place of worship for the Lutheran community in Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.401691,
+                        47.276295
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Barmherzigen Schwestern",
+                  "text": "The monastery church belongs to the convent of the Sisters of Mercy of St. Vincent de Paul.",
+                  "category": "religious",
+                  "coords": [
+                        11.405193,
+                        47.279277
+                  ]
+            },
+            {
+                  "name": "Petrus Canisius",
+                  "text": "A modern Catholic parish church dedicated to Saint Peter Canisius.",
+                  "category": "religious",
+                  "coords": [
+                        11.380999,
+                        47.26361
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Pradl",
+                  "text": "The neo-Romanesque parish church dominates the center of the Pradl district.",
+                  "category": "religious",
+                  "coords": [
+                        11.407947,
+                        47.266679
+                  ]
+            },
+            {
+                  "name": "Pfarrkiche Maria am Gestade",
+                  "text": "A modern church in the Sieglanger district dedicated to Mary on the Banks.",
+                  "category": "religious",
+                  "coords": [
+                        11.364148,
+                        47.252319
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Allerheiligen",
+                  "text": "The Allerheiligen parish church is a contemporary sacred building in the west of Innsbruck.",
+                  "category": "religious",
+                  "coords": [
+                        11.355567,
+                        47.26796
+                  ]
+            },
+            {
+                  "name": "Theresienkirche",
+                  "text": "A modern Catholic church dedicated to Saint Therese.",
+                  "category": "religious",
+                  "coords": [
+                        11.397086,
+                        47.286436
+                  ]
+            },
+            {
+                  "name": "Jesuit Church",
+                  "text": "The imposing Baroque church with its striking twin-tower facade serves as the university church.",
+                  "category": "religious",
+                  "coords": [
+                        11.397946,
+                        47.268452
+                  ]
+            },
+            {
+                  "name": "Höttinger Kirche",
+                  "text": "The neo-Gothic main parish church of the traditional Hötting district.",
+                  "category": "religious",
+                  "coords": [
+                        11.386789,
+                        47.27179
+                  ]
+            },
+            {
+                  "name": "Hofgarten",
+                  "text": "The historic park at the edge of the old town is a popular recreational area.",
+                  "category": "landmark",
+                  "coords": [
+                        11.397193,
+                        47.271476
+                  ]
+            },
+            {
+                  "name": "Emile-Béthouart-Steg",
+                  "text": "A pedestrian footbridge over the Inn, named after a French general.",
+                  "category": "landmark",
+                  "coords": [
+                        11.395148,
+                        47.273277
+                  ]
+            },
+            {
+                  "name": "Butterer Bichl",
+                  "text": "A prominent point in Innsbruck known for its transmission facility.",
+                  "category": "tower",
+                  "coords": [
+                        11.374634,
+                        47.269913
+                  ]
+            },
+            {
+                  "name": "Ottoburg",
+                  "text": "A late medieval residential tower at the entrance to the old town, which now houses a restaurant.",
+                  "category": "tower",
+                  "coords": [
+                        11.392005,
+                        47.268482
+                  ]
+            },
+            {
+                  "name": "Universitätsbrücke",
+                  "text": "The bridge connects the university campus with the Hötting district.",
+                  "category": "landmark",
+                  "coords": [
+                        11.384678,
+                        47.265262
+                  ]
+            },
+            {
+                  "name": "Innbrücke",
+                  "text": "The historic bridge over the Inn gave the city of Innsbruck its name.",
+                  "category": "landmark",
+                  "coords": [
+                        11.390966,
+                        47.268606
+                  ]
+            },
+            {
+                  "name": "Mühlauer Brücke",
+                  "text": "An important road bridge connecting the city area with the Mühlau district.",
+                  "category": "landmark",
+                  "coords": [
+                        11.404874,
+                        47.280302
+                  ]
+            },
+            {
+                  "name": "Olympiabrücke",
+                  "text": "The bridge was built for the Winter Olympics and passes over the railway tracks.",
+                  "category": "landmark",
+                  "coords": [
+                        11.402589,
+                        47.257448
+                  ]
+            },
+            {
+                  "name": "Bergisel",
+                  "text": "Bergisel is a hill in Innsbruck, famous primarily for its Olympic ski jump ramp.",
+                  "category": "natural",
+                  "coords": [
+                        11.400137,
+                        47.246752
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-7", coords: [11.3945, 47.2692],
     name: { de: "Innsbruck", hu: "Innsbruck", ro: "Innsbruck", en: "Innsbruck" },
     image: "/geo-images/austria/innsbruck.webp",
     description: {
@@ -802,7 +6229,1636 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Klagenfurt", type: "city", parent: "AT-2", coords: [14.3053, 46.6247],
+    id: "AT-Klagenfurt", "sights": {
+      "de": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "Ein Museum in der Klagenfurter Burg, das zeitgenössische Kunst und Kärntner Klassiker präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "Ein einzigartiges Museum in Klagenfurt, das sich elektronischen Tasteninstrumenten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Ein Museum in Klagenfurt, das religiöse Kunst und kirchengeschichtliche Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Das Geburtshaus des Schriftstellers Robert Musil dient heute als Literaturmuseum und Forschungsstätte.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Das bedeutendste Theaterhaus Kärntens mit einem vielfältigen Programm an Opern und Schauspielen.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "Ein historisches Theatergebäude im Jugendstil, das für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "Ein Museum, das dem Leben und Werk des Kärntner Komponisten Thomas Koschat gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "Eine traditionsreiche Bühne in Klagenfurt, die heute als Jazzclub und Theater fungiert.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "Ein freies Theater und Kulturzentrum in Klagenfurt für zeitgenössische Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Ein privates Museum in Klagenfurt, das eine umfangreiche Sammlung zum Thema Schach präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "Ein ungewöhnliches Museum, das Sammelfiguren zeigt, die früher Kaffeepackungen beilagen.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "Ein interaktives Mitmachmuseum in Klagenfurt, das Wissenschaft für Kinder erlebbar macht.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "Der Hausberg von Klagenfurt ist ein beliebtes Naherholungsgebiet mit Waldwegen und Teichen.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "Ein prächtiger Saal im Klagenfurter Landhaus, geschmückt mit den Wappen der Kärntner Landstände.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "Eine bewaldete Anhöhe in Klagenfurt, die als ruhiges Wandergebiet geschätzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "Eine gepflegte Parkanlage in Klagenfurt, die zum Spazierengehen und Verweilen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "Ein historisches Herrenhaus in Klagenfurt mit charakteristischer Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Ein vielfältiger Garten am Fuße des Kreuzbergls, der die heimische und exotische Pflanzenwelt zeigt.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "Ein Aussichtspunkt in Klagenfurt, der einen weiten Blick über die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "Ein Aussichtspunkt, der für seinen freien Blick auf die Gebirgskette der Karawanken bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "Eine Kunstgalerie in Klagenfurt, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "Eine kleine Kunstgalerie in Klagenfurt mit Fokus auf regionale Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "Die Galerie der Berufsvereinigung Bildender Künstler Österreichs in Klagenfurt.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "Eine Galerie in Klagenfurt für zeitgenössische Kunst und Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "Eine Galerie in Klagenfurt, die sich ausschließlich der Fotokunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "Ein kulturelles Zentrum für Jugendliche in Klagenfurt mit Fokus auf Musik und Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "Ein Ausstellungsraum in Klagenfurt für junge und alternative Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "Eine Galerie in Klagenfurt, die moderne Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "Eine römisch-katholische Kirche in Klagenfurt mit auffälliger moderner Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "Eine historische Kirche am Heiligengeistplatz im Herzen von Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Eine römisch-katholische Pfarrkirche im Klagenfurter Stadtteil St. Martin.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "Eine moderne Kirche in Klagenfurt, die der Seelsorge und Gemeinschaft gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "Eine kleinere Kirche in Klagenfurt, die dem heiligen Primus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "Das Gemeindezentrum der Neuapostolischen Kirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "Eine moderne katholische Pfarrkirche in Klagenfurt, benannt nach der heiligen Hemma.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "Eine historische Kirche im ländlich geprägten Umfeld von Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Eine evangelische Kirche in Klagenfurt mit schlichter und einladender Gestaltung.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "Eine römisch-katholische Pfarrkirche, die den Mittelpunkt des Stadtteils Siebenhügel bildet.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "Ein Kirchengebäude in Klagenfurt, das als Ort des Gebets und der Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "Eine katholische Kirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "Eine dem heiligen Peter geweihte Pfarrkirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "Eine römisch-katholische Pfarrkirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "Die Pfarrkirche im Stadtteil Annabichl in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "Eine markante Kalvarienbergkirche auf dem Kreuzbergl in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "Eine dem heiligen Ruprecht geweihte Kirche in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "Klagenfurt várában található múzeum, amely kortárs művészetet és karintiai klasszikusokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "Egyedülálló klagenfurti múzeum, amelyet elektronikus billentyűs hangszereknek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Klagenfurti múzeum, amely vallási művészetet és egyháztörténeti kiállítási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Robert Musil író szülőháza ma irodalmi múzeumként és kutatóhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Karintia legjelentősebb színháza, operák és színdarabok változatos programjával.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "Történelmi szecessziós színházépület, amelyet kulturális eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "A Thomas Koschat karintiai zeneszerző életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "Gazdag hagyományokkal rendelkező színpad Klagenfurtban, amely ma jazzklubként és színházként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "Független színház és kulturális központ Klagenfurtban a kortárs színművészet számára.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Klagenfurti magánmúzeum, amely kiterjedt gyűjteményt mutat be a sakk témakörében.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "Szokatlan múzeum, amely a korábban kávécsomagokhoz mellékelt gyűjthető figurákat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "Interaktív klagenfurti múzeum, amely a tudományt élményszerűvé teszi gyerekek számára.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "Klagenfurt házi hegye népszerű kirándulóhely erdei utakkal és tavakkal.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "A klagenfurti Landhaus pompás terme, amelyet a karintiai rendek címerei díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "Erdős domb Klagenfurtban, amelyet csendes túraútvonalként kedvelnek.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "Gondozott park Klagenfurtban, amely sétára és kikapcsolódásra hív.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "Történelmi udvarház Klagenfurtban, jellegzetes építészeti stílussal.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Változatos kert a Kreuzbergl lábánál, amely a hazai és az egzotikus növényvilágot mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "Kilátópont Klagenfurtban, ahonnan pazar kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "Kilátópont, amely a Karavankák hegyláncára nyíló zavartalan kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "Kortárs műveket bemutató művészeti galéria Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "Kis művészeti galéria Klagenfurtban, regionális művészekre fókuszálva.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "Az osztrák képzőművészek szakmai szövetségének galériája Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "Kortárs művészeti galéria és kiállítóhely Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "Klagenfurti galéria, amelyet kizárólag a fotóművészetnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "Kulturális központ fiataloknak Klagenfurtban, a zenére és a művészetre összpontosítva.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "Kiállítóhely Klagenfurtban fiatal és alternatív művészet számára.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "Modern műalkotásokat bemutató galéria Klagenfurtban.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "Római katolikus templom Klagenfurtban, feltűnő modern építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "Történelmi templom a Heiligengeistplatzon, Klagenfurt szívében.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "Római katolikus plébániatemplom Klagenfurt Szent Márton városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "Modern templom Klagenfurtban, amelyet a lelkigondozásnak és a közösségnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "Kisebb templom Klagenfurtban, amelyet Szent Primusz tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "Az Új Apostoli Egyház gyülekezeti központja Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "Modern katolikus plébániatemplom Klagenfurtban, Szent Hemmáról elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "Történelmi templom Klagenfurt vidékies környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Egyszerű és hívogató kialakítású evangélikus templom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "Római katolikus plébániatemplom, amely a Siebenhügel városrész központját alkotja.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "Templomépület Klagenfurtban, amely az imádság és az elmélkedés helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "Egy katolikus templom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "Szent Péternek szentelt plébániatemplom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "Római katolikus plébániatemplom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "Klagenfurt Annabichl negyedének plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "Jellegzetes kálvária-templom a klagenfurti Kreuzbergl-dombon.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "Szent Ruprechtnek szentelt templom Klagenfurtban.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "Un muzeu din castelul Klagenfurt care prezintă artă contemporană și clasici din Carintia.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "Un muzeu unic din Klagenfurt dedicat instrumentelor cu claviatură electronice.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "Un muzeu din Klagenfurt care expune artă religioasă și obiecte de istorie bisericească.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "Casa natală a scriitorului Robert Musil servește astăzi drept muzeu literar și centru de cercetare.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Cea mai importantă casă de teatru din Carintia, cu un program divers de opere și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "O clădire istorică de teatru în stil Jugendstil, utilizată pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "Un muzeu dedicat vieții și operei compozitorului carintian Thomas Koschat.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "O scenă cu tradiție din Klagenfurt, care funcționează astăzi ca club de jazz și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "Un teatru independent și centru cultural din Klagenfurt pentru arta dramatică contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "Un muzeu privat din Klagenfurt care prezintă o colecție extinsă pe tema șahului.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "Un muzeu neobișnuit care expune figurine de colecție ce însoțeau anterior pachetele de cafea.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "Un muzeu interactiv din Klagenfurt care face știința accesibilă copiilor.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "Muntele local al orașului Klagenfurt este o zonă populară de recreere cu poteci și iazuri.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "O sală magnifică în Landhaus-ul din Klagenfurt, decorată cu blazoanele stărilor carintiene.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "O colină împădurită din Klagenfurt, apreciată ca zonă liniștită de drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "Un parc bine întreținut în Klagenfurt, care invită la plimbări și relaxare.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "Un conac istoric din Klagenfurt cu arhitectură caracteristică.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "O grădină diversă la poalele Kreuzbergl, care prezintă flora locală și exotică.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "Un punct de observație din Klagenfurt, care oferă o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "Un punct de observație cunoscut pentru vederea sa asupra lanțului muntos Karawanken.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "O galerie de artă din Klagenfurt care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "O mică galerie de artă din Klagenfurt, cu accent pe artiștii regionali.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "Galeria asociației profesionale a artiștilor vizuali din Austria în Klagenfurt.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "O galerie în Klagenfurt pentru artă contemporană și expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "O galerie din Klagenfurt dedicată exclusiv artei fotografice.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "Un centru cultural pentru tineri în Klagenfurt, cu accent pe muzică și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "Un spațiu de expoziție în Klagenfurt pentru artă tânără și alternativă.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "O galerie din Klagenfurt care prezintă opere de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "O biserică romano-catolică din Klagenfurt cu o arhitectură modernă frapantă.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "O biserică istorică în Heiligengeistplatz, în inima orașului Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "O biserică parohială romano-catolică în cartierul St. Martin din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "O biserică modernă din Klagenfurt dedicată asistenței spirituale și comunității.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "O biserică mai mică din Klagenfurt, sfințită în cinstea Sfântului Primus.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "Centrul comunitar al Bisericii Nou-Apostolice din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "O biserică parohială catolică modernă din Klagenfurt, numită după Sfânta Hemma.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "O biserică istorică în cadrul rural al orașului Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "O biserică evanghelică din Klagenfurt, cu un design simplu și primitor.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "O biserică parohială romano-catolică ce formează centrul cartierului Siebenhügel.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "O clădire de biserică din Klagenfurt, care servește ca loc de rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "O biserică catolică din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "O biserică parohială dedicată Sfântului Petru din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "O biserică parohială romano-catolică din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "Biserica parohială din cartierul Annabichl din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "O biserică emblematică de pe dealul Kreuzbergl din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "O biserică dedicată Sfântului Ruprecht din Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Moderner Kunst Kärnten",
+                  "text": "A museum in the Klagenfurt Castle presenting contemporary art and Carinthian classics.",
+                  "category": "museum",
+                  "coords": [
+                        14.310132,
+                        46.62417
+                  ]
+            },
+            {
+                  "name": "Eboardmuseum",
+                  "text": "A unique museum in Klagenfurt dedicated to electronic keyboard instruments.",
+                  "category": "museum",
+                  "coords": [
+                        14.304934,
+                        46.616492
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum",
+                  "text": "A museum in Klagenfurt displaying religious art and church history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        14.309381,
+                        46.622353
+                  ]
+            },
+            {
+                  "name": "Robert Musil Museum",
+                  "text": "The birthplace of writer Robert Musil now serves as a literary museum and research center.",
+                  "category": "museum",
+                  "coords": [
+                        14.313034,
+                        46.616579
+                  ]
+            },
+            {
+                  "name": "Stadttheater",
+                  "text": "Carinthia's most important theater house with a diverse program of operas and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        14.305478,
+                        46.627075
+                  ]
+            },
+            {
+                  "name": "Jugendstiltheater Klagenfurt",
+                  "text": "A historic Art Nouveau theater building used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.302498,
+                        46.627068
+                  ]
+            },
+            {
+                  "name": "Thomas-Koschat-Museum",
+                  "text": "A museum dedicated to the life and work of the Carinthian composer Thomas Koschat.",
+                  "category": "museum",
+                  "coords": [
+                        14.31049,
+                        46.620318
+                  ]
+            },
+            {
+                  "name": "Kammerlichtspiele",
+                  "text": "A traditional stage in Klagenfurt that today functions as a jazz club and theater.",
+                  "category": "cultural",
+                  "coords": [
+                        14.312617,
+                        46.62361
+                  ]
+            },
+            {
+                  "name": "VENTIL",
+                  "text": "An independent theater and cultural center in Klagenfurt for contemporary performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        14.311764,
+                        46.624686
+                  ]
+            },
+            {
+                  "name": "Mali Schachmuseum",
+                  "text": "A private museum in Klagenfurt presenting an extensive collection on the subject of chess.",
+                  "category": "museum",
+                  "coords": [
+                        14.290218,
+                        46.6065
+                  ]
+            },
+            {
+                  "name": "Figuren-Museum für Kaffeebeigaben",
+                  "text": "An unusual museum displaying collectible figures that formerly accompanied coffee packages.",
+                  "category": "museum",
+                  "coords": [
+                        14.306637,
+                        46.622086
+                  ]
+            },
+            {
+                  "name": "wissens.wert.welt",
+                  "text": "An interactive hands-on museum in Klagenfurt that makes science accessible for children.",
+                  "category": "museum",
+                  "coords": [
+                        14.32905,
+                        46.611416
+                  ]
+            },
+            {
+                  "name": "Kreuzbergl",
+                  "text": "The local mountain of Klagenfurt is a popular recreation area with forest paths and ponds.",
+                  "category": "natural",
+                  "coords": [
+                        14.276646,
+                        46.631716
+                  ]
+            },
+            {
+                  "name": "Wappensaal",
+                  "text": "A magnificent hall in the Klagenfurt Landhaus, decorated with the coats of arms of the Carinthian estates.",
+                  "category": "landmark",
+                  "coords": [
+                        14.305739,
+                        46.625053
+                  ]
+            },
+            {
+                  "name": "Spitalsberg",
+                  "text": "A wooded hill in Klagenfurt appreciated as a quiet hiking area.",
+                  "category": "natural",
+                  "coords": [
+                        14.307858,
+                        46.644088
+                  ]
+            },
+            {
+                  "name": "Schillerpark",
+                  "text": "A well-maintained park in Klagenfurt that invites walking and relaxation.",
+                  "category": "park",
+                  "coords": [
+                        14.303219,
+                        46.625416
+                  ]
+            },
+            {
+                  "name": "Herbertstöckl",
+                  "text": "A historic manor house in Klagenfurt with characteristic architecture.",
+                  "category": "historical",
+                  "coords": [
+                        14.302183,
+                        46.628338
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "A diverse garden at the foot of the Kreuzbergl, showcasing local and exotic plant life.",
+                  "category": "park",
+                  "coords": [
+                        14.293014,
+                        46.629668
+                  ]
+            },
+            {
+                  "name": "St.Egyd Panorama View",
+                  "text": "A viewpoint in Klagenfurt offering a wide view over the city.",
+                  "category": "natural",
+                  "coords": [
+                        14.307223,
+                        46.626224
+                  ]
+            },
+            {
+                  "name": "Karawankenblick",
+                  "text": "A viewpoint known for its clear view of the Karawanken mountain range.",
+                  "category": "natural",
+                  "coords": [
+                        14.288248,
+                        46.627867
+                  ]
+            },
+            {
+                  "name": "the artbooster",
+                  "text": "An art gallery in Klagenfurt presenting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        14.307873,
+                        46.624688
+                  ]
+            },
+            {
+                  "name": "galerie 31",
+                  "text": "A small art gallery in Klagenfurt focusing on regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        14.310977,
+                        46.62268
+                  ]
+            },
+            {
+                  "name": "BV-Galerie",
+                  "text": "The gallery of the professional association of visual artists in Austria in Klagenfurt.",
+                  "category": "museum",
+                  "coords": [
+                        14.30147,
+                        46.631208
+                  ]
+            },
+            {
+                  "name": "Galerie Kunstwerk",
+                  "text": "A gallery in Klagenfurt for contemporary art and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        14.300228,
+                        46.627442
+                  ]
+            },
+            {
+                  "name": "Raum für Fotografie",
+                  "text": "A gallery in Klagenfurt dedicated exclusively to the art of photography.",
+                  "category": "museum",
+                  "coords": [
+                        14.306786,
+                        46.619697
+                  ]
+            },
+            {
+                  "name": "Jugendzentrum kwadrat",
+                  "text": "A cultural center for youth in Klagenfurt with a focus on music and art.",
+                  "category": "cultural",
+                  "coords": [
+                        14.303331,
+                        46.616682
+                  ]
+            },
+            {
+                  "name": "Favela",
+                  "text": "An exhibition space in Klagenfurt for young and alternative art.",
+                  "category": "museum",
+                  "coords": [
+                        14.286403,
+                        46.62027
+                  ]
+            },
+            {
+                  "name": "ArtGalerie Branko",
+                  "text": "A gallery in Klagenfurt presenting modern works of art.",
+                  "category": "museum",
+                  "coords": [
+                        14.309709,
+                        46.625904
+                  ]
+            },
+            {
+                  "name": "Christkönigskirche",
+                  "text": "A Roman Catholic church in Klagenfurt with striking modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        14.295697,
+                        46.623245
+                  ]
+            },
+            {
+                  "name": "Heiligengeistkirche",
+                  "text": "A historic church on Heiligengeistplatz in the heart of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.304751,
+                        46.624782
+                  ]
+            },
+            {
+                  "name": "St. Martin",
+                  "text": "A Roman Catholic parish church in the St. Martin district of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.279731,
+                        46.624204
+                  ]
+            },
+            {
+                  "name": "Don Bosco",
+                  "text": "A modern church in Klagenfurt dedicated to pastoral care and community.",
+                  "category": "religious",
+                  "coords": [
+                        14.298692,
+                        46.610726
+                  ]
+            },
+            {
+                  "name": "Filialkirche Sankt Primus",
+                  "text": "A smaller church in Klagenfurt dedicated to Saint Primus.",
+                  "category": "religious",
+                  "coords": [
+                        14.276493,
+                        46.638537
+                  ]
+            },
+            {
+                  "name": "Neuapostolische Kirche Klagenfurt",
+                  "text": "The community center of the New Apostolic Church in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.311766,
+                        46.641207
+                  ]
+            },
+            {
+                  "name": "Klagenfurt-St. Hemma",
+                  "text": "A modern Catholic parish church in Klagenfurt named after Saint Hemma.",
+                  "category": "religious",
+                  "coords": [
+                        14.296736,
+                        46.634534
+                  ]
+            },
+            {
+                  "name": "St. Lorenzen",
+                  "text": "A historic church in the rural surroundings of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.315839,
+                        46.626015
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "A Protestant church in Klagenfurt with a simple and inviting design.",
+                  "category": "religious",
+                  "coords": [
+                        14.299596,
+                        46.623668
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Josef",
+                  "text": "A Roman Catholic parish church that forms the center of the Siebenhügel district.",
+                  "category": "religious",
+                  "coords": [
+                        14.283565,
+                        46.612462
+                  ]
+            },
+            {
+                  "name": "Christuskirche",
+                  "text": "A church building in Klagenfurt serving as a place of prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        14.327702,
+                        46.632603
+                  ]
+            },
+            {
+                  "name": "St. Theresia",
+                  "text": "A Catholic church located in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.324201,
+                        46.634642
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "A parish church dedicated to St. Peter in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.328167,
+                        46.624467
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Modestus",
+                  "text": "A Roman Catholic parish church in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.332908,
+                        46.619623
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Annabichl",
+                  "text": "The parish church in the Annabichl district of Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313437,
+                        46.640378
+                  ]
+            },
+            {
+                  "name": "Kreuzberglkirche",
+                  "text": "A prominent Calvary church located on the Kreuzbergl hill in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.29195,
+                        46.628725
+                  ]
+            },
+            {
+                  "name": "St. Ruprecht",
+                  "text": "A church dedicated to St. Ruprecht in Klagenfurt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313333,
+                        46.61214
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-2", coords: [14.3053, 46.6247],
     name: { de: "Klagenfurt", hu: "Klagenfurt", ro: "Klagenfurt", en: "Klagenfurt" },
     image: "/geo-images/austria/klagenfurt.webp",
     description: { de: "Klagenfurt am Wörthersee, die Hauptstadt Kärntens, gilt als die charmante Renaissance-Perle des österreichischen Südens. Die Altstadt wird von wunderschön restaurierten Palazzi und malerischen Innenhöfen geprägt, die von italienischen Baumeistern im 16. Jahrhundert entworfen wurden. Das Wahrzeichen der Stadt, der mächtige steinerne Lindwurm, bewacht den weitläufigen Neuen Platz. Was Klagenfurt besonders attraktiv macht, ist seine unmittelbare Nähe zum türkisfarbenen Wörthersee, der im Sommer mit seinem warmen Wasser fast karibisches Flair verströmt. Hier verschmelzen urbane Kultur, sportliche Aktivität und entspanntes Badeleben zu einer perfekten Symbiose.", hu: "Klagenfurt am Wörthersee, Karintia fővárosa, az osztrák délvidék bájos reneszánsz gyöngyszemének számít. Az óvárost gyönyörűen felújított palazzók és festői belső udvarok jellemzik, amelyeket olasz építőmesterek terveztek a 16. században. A város jelképe, a hatalmas kőből faragott Lindwurm (sárkány) őrzi a tágas Új Teret (Neuer Platz). Ami Klagenfurtot különösen vonzóvá teszi, az a türkizkék Wörthersee (wörthi-tó) közvetlen közelsége, amely nyáron meleg vizével szinte karibi hangulatot áraszt. Itt az urbánus kultúra, a sporttevékenységek és a pihentető fürdőélet tökéletes szimbiózissá olvad össze.", ro: "Klagenfurt am Wörthersee, capitala Carintiei, este considerată fermecătoarea perlă renascentistă a sudului austriac. Orașul vechi este caracterizat de palate frumos restaurate și curți pitorești, care au fost proiectate de maeștrii constructori italieni în secolul al XVI-lea. Simbolul orașului, masivul balaur din piatră (Lindwurm), păzește piața spațioasă Neuer Platz. Ceea ce face din Klagenfurt un oraș deosebit de atractiv este proximitatea sa imediată față de apele turcoaz ale lacului Wörthersee, care emană o atmosferă aproape caraibiană vara cu apa sa caldă. Aici, cultura urbană, activitățile sportive și relaxarea la plajă se contopesc într-o simbioză perfectă.", en: "Klagenfurt am Wörthersee, the capital of Carinthia, is considered the charming Renaissance pearl of the Austrian south. The old town is characterized by beautifully restored palazzi and picturesque courtyards, which were designed by Italian master builders in the 16th century. The city's landmark, the massive stone Lindwurm (dragon), guards the spacious Neuer Platz. What makes Klagenfurt particularly attractive is its immediate proximity to the turquoise waters of Lake Wörthersee, which exudes an almost Caribbean flair in summer with its warm water. Here, urban culture, sporting activities, and relaxed beach life merge into a perfect symbiosis." , es: "Klagenfurt am Wörthersee, la capital de Carintia, es considerada la encantadora perla renacentista del sur de Austria. El casco antiguo se caracteriza por palacios bellamente restaurados y patios pintorescos, diseñados por arquitectos italianos en el siglo XVI. El símbolo de la ciudad, el poderoso Lindwurm de piedra, custodia la amplia Neuer Platz. Lo que hace a Klagenfurt especialmente atractiva es su proximidad inmediata al turquesa lago Wörthersee, que en verano desprende un aire casi caribeño con sus aguas cálidas. Aquí, la cultura urbana, la actividad deportiva y la relajada vida de baño se funden en una simbiosis perfecta.", pt: "Klagenfurt am Wörthersee, a capital da Caríntia, é considerada a encantadora pérola renascentista do sul da Áustria. O centro histórico é marcado por palácios magnificamente restaurados e pátios interiores pitorescos, projetados por construtores italianos no século XVI. O ex-líbris da cidade, o imponente Lindwurm de pedra, guarda a ampla Neuer Platz. O que torna Klagenfurt particularmente atraente é a sua proximidade imediata ao lago Wörthersee, de águas azul-turquesa, que no verão emana um toque quase caribenho com as suas águas quentes. Aqui, a cultura urbana, a atividade desportiva e a vida balnear descontraída fundem-se numa simbiose perfeita.", fr: "Klagenfurt am Wörthersee, capitale de la Carinthie, est considérée comme la charmante perle de la Renaissance du sud de l'Autriche. La vieille ville est marquée par des palais magnifiquement restaurés et des cours intérieures pittoresques, conçus par des bâtisseurs italiens au XVIe siècle. L'emblème de la ville, le puissant Lindwurm (dragon) de pierre, garde la vaste Neuer Platz. Ce qui rend Klagenfurt particulièrement attrayante, c'est sa proximité immédiate avec les eaux turquoise du lac Wörthersee qui, en été, dégagent un air presque caribéen avec leurs eaux chaudes. Ici, la culture urbaine, l'activité sportive et la vie balnéaire détendue se fondent en une symbiose parfaite."},
@@ -827,7 +7883,1600 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Bregenz", type: "city", parent: "AT-8", coords: [9.7438, 47.5014],
+    id: "AT-Bregenz", "sights": {
+      "de": [
+            {
+                  "name": "Burg Hohenbregenz",
+                  "text": "Die Burg Hohenbregenz ist eine bekannte Burgruine auf dem Gebhardsberg in Bregenz.",
+                  "category": "castle",
+                  "coords": [
+                        9.747475,
+                        47.490106
+                  ]
+            },
+            {
+                  "name": "Kosmos",
+                  "text": "Das Theater Kosmos ist ein zeitgenössisches Theater in Bregenz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.729649,
+                        47.495486
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Bregenz",
+                  "text": "Das Kunsthaus Bregenz ist ein bedeutendes Museum für zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        9.747301,
+                        47.504989
+                  ]
+            },
+            {
+                  "name": "Martinsturm Bregenz",
+                  "text": "Der Martinsturm ist ein historischer Turm und Museum mit einer markanten Holzkuppel in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.749261,
+                        47.501063
+                  ]
+            },
+            {
+                  "name": "Villa Raczyński",
+                  "text": "Die Villa Raczyński ist ein bedeutendes historisches Anwesen in Bregenz, das mit dem Kloster Marienberg verbunden ist.",
+                  "category": "castle",
+                  "coords": [
+                        9.749317,
+                        47.495955
+                  ]
+            },
+            {
+                  "name": "Schloss Babenwohl",
+                  "text": "Das Schloss Babenwohl ist eine historische Burg in Bregenz, die die Vorarlberger Landesbibliothek beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        9.744776,
+                        47.493366
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "Dies ist ein Naturschutzgebiet an der Mündung der Bregenzerach in den Bodensee in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Alpenwildpark Pfänder",
+                  "text": "Der Alpenwildpark Pfänder ist ein Zoo in Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.778901,
+                        47.506588
+                  ]
+            },
+            {
+                  "name": "Hafenkastell Leutbühel",
+                  "text": "Das Hafenkastell Leutbühel ist eine archäologische Stätte in Bregenz.",
+                  "category": "historical",
+                  "coords": [
+                        9.735841,
+                        47.500482
+                  ]
+            },
+            {
+                  "name": "Pfänderbahn-Museum",
+                  "text": "Das Pfänderbahn-Museum ist ein Museum in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.753054,
+                        47.504903
+                  ]
+            },
+            {
+                  "name": "Seebad Bregenz",
+                  "text": "Das Seebad Bregenz ist ein Wasserpark in Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.733815,
+                        47.505672
+                  ]
+            },
+            {
+                  "name": "Benger-Park",
+                  "text": "Der Benger-Park ist ein Naturschutzgebiet in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.735262,
+                        47.502569
+                  ]
+            },
+            {
+                  "name": "Erawäldele",
+                  "text": "Das Erawäldele ist ein Naturschutzgebiet in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.733186,
+                        47.496096
+                  ]
+            },
+            {
+                  "name": "Pfänder",
+                  "text": "Der Pfänder ist ein bekannter Berg in Bregenz, der einen Panoramablick auf den Bodensee bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.780205,
+                        47.507371
+                  ]
+            },
+            {
+                  "name": "Villa Grünau",
+                  "text": "Die Villa Grünau ist eine historische und architektonisch bedeutsame Villa in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.762376,
+                        47.4791
+                  ]
+            },
+            {
+                  "name": "Känzele",
+                  "text": "Das Känzele ist ein beliebter Aussichtspunkt in der Nähe des Gebhardsbergs in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.762102,
+                        47.48755
+                  ]
+            },
+            {
+                  "name": "Künstlerhaus - Palais Thurn-und-Taxis",
+                  "text": "Das Künstlerhaus im Palais Thurn-und-Taxis ist eine Kunstgalerie in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.744582,
+                        47.499425
+                  ]
+            },
+            {
+                  "name": "Schmalstes Haus Europas",
+                  "text": "Das Gebäude in der Kirchstraße 29 in Bregenz ist als das schmalste Haus Europas bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.747027,
+                        47.50094
+                  ]
+            },
+            {
+                  "name": "Hofsteigsaal Lauterach",
+                  "text": "Der Hofsteigsaal Lauterach ist ein Kunstzentrum in Bregenz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.730814,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Bau dein Haus",
+                  "text": "Bau dein Haus ist eine Attraktion in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.749367,
+                        47.492601
+                  ]
+            },
+            {
+                  "name": "Petronilla World – Atelier am Kornmarktplatz",
+                  "text": "Petronilla World – Atelier am Kornmarktplatz ist eine Galerie in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.747121,
+                        47.503928
+                  ]
+            },
+            {
+                  "name": "Barfusssteig",
+                  "text": "Der Barfusssteig ist eine Touristenattraktion in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.746481,
+                        47.493324
+                  ]
+            },
+            {
+                  "name": "Waldklavier",
+                  "text": "Das Waldklavier ist eine Attraktion in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.748649,
+                        47.491633
+                  ]
+            },
+            {
+                  "name": "Ruine St. Wendelin",
+                  "text": "Die Ruine St. Wendelin ist eine historische Ruine in Bregenz.",
+                  "category": "historical",
+                  "coords": [
+                        9.777621,
+                        47.494574
+                  ]
+            },
+            {
+                  "name": "Liegewiese Strandbad Lochau am Bodensee",
+                  "text": "Die Liegewiese Strandbad Lochau am Bodensee ist ein Strandresort in Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.74798,
+                        47.524402
+                  ]
+            },
+            {
+                  "name": "Seebühne Bregenz",
+                  "text": "Die Seebühne Bregenz ist eine berühmte schwimmende Bühne am Bodensee für die Bregenzer Festspiele.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738105,
+                        47.50567
+                  ]
+            },
+            {
+                  "name": "Theresienkapelle",
+                  "text": "Die Theresienkapelle ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.781512,
+                        47.509729
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu Kapelle",
+                  "text": "Die Herz-Jesu Kapelle ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.758729,
+                        47.516255
+                  ]
+            },
+            {
+                  "name": "Herz Jesu-Kirche",
+                  "text": "Die Herz Jesu-Kirche ist eine markante neugotische katholische Kirche in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.750406,
+                        47.502024
+                  ]
+            },
+            {
+                  "name": "Evang. Kreuzkirche",
+                  "text": "Die Evang. Kreuzkirche ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.737178,
+                        47.497423
+                  ]
+            },
+            {
+                  "name": "Siechenkapelle",
+                  "text": "Die Siechenkapelle ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.741107,
+                        47.493912
+                  ]
+            },
+            {
+                  "name": "Maria Hilf Kirche",
+                  "text": "Die Maria Hilf Kirche ist eine markante Pfarrkirche mit moderner Architektur in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.72757,
+                        47.495274
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Wendelin",
+                  "text": "Die Pfarrkirche St. Wendelin ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.775543,
+                        47.493996
+                  ]
+            },
+            {
+                  "name": "Rochuskapelle",
+                  "text": "Die Rochuskapelle ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.752412,
+                        47.526389
+                  ]
+            },
+            {
+                  "name": "Hl. Josef",
+                  "text": "Hl. Josef ist ein lokales Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.766066,
+                        47.480272
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "Die Nepomukkapelle ist ein bekanntes barockes Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.748284,
+                        47.504966
+                  ]
+            },
+            {
+                  "name": "Magdalena Kapelle",
+                  "text": "Die Magdalena Kapelle ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.753363,
+                        47.511968
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Gallus",
+                  "text": "Die Stadtpfarrkirche St. Gallus ist eine bedeutende Pfarrkirche und religiöse Stätte in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.748002,
+                        47.498452
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "St. Antonius ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.746731,
+                        47.499657
+                  ]
+            },
+            {
+                  "name": "Kapelle Altreute",
+                  "text": "Die Kapelle Altreute ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.765417,
+                        47.510566
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "Die St. Gebhard Kirche ist ein Gotteshaus in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Spiellok 498.03",
+                  "text": "Die Spiellok 498.03 ist eine erhaltene historische Lokomotive in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73957,
+                        47.503999
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "Seecamping ist ein Badeplatz und Erholungsgebiet in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.713463,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "Der Yachthafen Bregenz ist ein Badeplatz und Yachthafen in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716878,
+                        47.50706
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burg Hohenbregenz",
+                  "text": "A Burg Hohenbregenz egy ismert várrom a Gebhardsberg hegyen Bregenzben.",
+                  "category": "castle",
+                  "coords": [
+                        9.747475,
+                        47.490106
+                  ]
+            },
+            {
+                  "name": "Kosmos",
+                  "text": "A Theater Kosmos egy kortárs színház Bregenz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.729649,
+                        47.495486
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Bregenz",
+                  "text": "A Kunsthaus Bregenz egy jelentős kortárs művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.747301,
+                        47.504989
+                  ]
+            },
+            {
+                  "name": "Martinsturm Bregenz",
+                  "text": "A Martinsturm egy történelmi torony és múzeum jellegzetes fakupolával Bregenzben.",
+                  "category": "museum",
+                  "coords": [
+                        9.749261,
+                        47.501063
+                  ]
+            },
+            {
+                  "name": "Villa Raczyński",
+                  "text": "A Villa Raczyński egy jelentős történelmi birtok Bregenzben, amely a Marienberg kolostorhoz kapcsolódik.",
+                  "category": "castle",
+                  "coords": [
+                        9.749317,
+                        47.495955
+                  ]
+            },
+            {
+                  "name": "Schloss Babenwohl",
+                  "text": "A Schloss Babenwohl egy történelmi kastély Bregenzben, amely a Vorarlbergi Tartományi Könyvtárnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        9.744776,
+                        47.493366
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "Ez egy természetvédelmi terület a Bregenzerach folyó torkolatánál, a Bódeni-tónál Bregenzben.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Alpenwildpark Pfänder",
+                  "text": "Az Alpenwildpark Pfänder egy állatkert Bregenzben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.778901,
+                        47.506588
+                  ]
+            },
+            {
+                  "name": "Hafenkastell Leutbühel",
+                  "text": "A Hafenkastell Leutbühel egy régészeti lelőhely Bregenz városában.",
+                  "category": "historical",
+                  "coords": [
+                        9.735841,
+                        47.500482
+                  ]
+            },
+            {
+                  "name": "Pfänderbahn-Museum",
+                  "text": "A Pfänderbahn-Museum egy múzeum Bregenzben.",
+                  "category": "museum",
+                  "coords": [
+                        9.753054,
+                        47.504903
+                  ]
+            },
+            {
+                  "name": "Seebad Bregenz",
+                  "text": "A Seebad Bregenz egy vízipark Bregenzben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.733815,
+                        47.505672
+                  ]
+            },
+            {
+                  "name": "Benger-Park",
+                  "text": "A Benger-Park egy természetvédelmi terület Bregenzben.",
+                  "category": "natural",
+                  "coords": [
+                        9.735262,
+                        47.502569
+                  ]
+            },
+            {
+                  "name": "Erawäldele",
+                  "text": "Az Erawäldele egy természetvédelmi terület Bregenz városában.",
+                  "category": "natural",
+                  "coords": [
+                        9.733186,
+                        47.496096
+                  ]
+            },
+            {
+                  "name": "Pfänder",
+                  "text": "A Pfänder egy ismert hegy Bregenzben, amely panorámás kilátást nyújt a Bódeni-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        9.780205,
+                        47.507371
+                  ]
+            },
+            {
+                  "name": "Villa Grünau",
+                  "text": "A Villa Grünau egy történelmi és építészeti szempontból jelentős villa Bregenzben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.762376,
+                        47.4791
+                  ]
+            },
+            {
+                  "name": "Känzele",
+                  "text": "A Känzele egy népszerű kilátó a Gebhardsberg közelében Bregenzben.",
+                  "category": "natural",
+                  "coords": [
+                        9.762102,
+                        47.48755
+                  ]
+            },
+            {
+                  "name": "Künstlerhaus - Palais Thurn-und-Taxis",
+                  "text": "A Künstlerhaus egy művészeti galéria a Thurn-und-Taxis palotában Bregenzben.",
+                  "category": "museum",
+                  "coords": [
+                        9.744582,
+                        47.499425
+                  ]
+            },
+            {
+                  "name": "Schmalstes Haus Europas",
+                  "text": "A bregenzi Kirchstraße 29-ben található épület Európa legkeskenyebb házaként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        9.747027,
+                        47.50094
+                  ]
+            },
+            {
+                  "name": "Hofsteigsaal Lauterach",
+                  "text": "A Hofsteigsaal Lauterach egy művészeti központ Bregenzben.",
+                  "category": "cultural",
+                  "coords": [
+                        9.730814,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Bau dein Haus",
+                  "text": "A Bau dein Haus egy látványosság Bregenz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.749367,
+                        47.492601
+                  ]
+            },
+            {
+                  "name": "Petronilla World – Atelier am Kornmarktplatz",
+                  "text": "A Petronilla World – Atelier am Kornmarktplatz egy galéria Bregenzben.",
+                  "category": "museum",
+                  "coords": [
+                        9.747121,
+                        47.503928
+                  ]
+            },
+            {
+                  "name": "Barfusssteig",
+                  "text": "A Barfusssteig egy turisztikai látványosság Bregenzben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.746481,
+                        47.493324
+                  ]
+            },
+            {
+                  "name": "Waldklavier",
+                  "text": "A Waldklavier egy turisztikai látványosság Bregenz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.748649,
+                        47.491633
+                  ]
+            },
+            {
+                  "name": "Ruine St. Wendelin",
+                  "text": "A Ruine St. Wendelin egy történelmi rom Bregenzben.",
+                  "category": "historical",
+                  "coords": [
+                        9.777621,
+                        47.494574
+                  ]
+            },
+            {
+                  "name": "Liegewiese Strandbad Lochau am Bodensee",
+                  "text": "A Liegewiese Strandbad Lochau am Bodensee egy tengerparti üdülőhely Bregenzben.",
+                  "category": "recreational",
+                  "coords": [
+                        9.74798,
+                        47.524402
+                  ]
+            },
+            {
+                  "name": "Seebühne Bregenz",
+                  "text": "A Seebühne Bregenz egy híres lebegő színpad a Bódeni-tónál, amelyet a Bregenzi Ünnepi Játékokon használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738105,
+                        47.50567
+                  ]
+            },
+            {
+                  "name": "Theresienkapelle",
+                  "text": "A Theresienkapelle egy istentiszteleti hely Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.781512,
+                        47.509729
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu Kapelle",
+                  "text": "A Herz-Jesu Kapelle egy vallási épület Bregenz városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.758729,
+                        47.516255
+                  ]
+            },
+            {
+                  "name": "Herz Jesu-Kirche",
+                  "text": "A Herz Jesu-Kirche egy jelentős neogótikus katolikus templom Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.750406,
+                        47.502024
+                  ]
+            },
+            {
+                  "name": "Evang. Kreuzkirche",
+                  "text": "Az Evang. Kreuzkirche egy istentiszteleti hely Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.737178,
+                        47.497423
+                  ]
+            },
+            {
+                  "name": "Siechenkapelle",
+                  "text": "A Siechenkapelle egy vallási épület Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.741107,
+                        47.493912
+                  ]
+            },
+            {
+                  "name": "Maria Hilf Kirche",
+                  "text": "A Maria Hilf Kirche egy jellegzetes plébániatemplom modern építészettel Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.72757,
+                        47.495274
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Wendelin",
+                  "text": "A Pfarrkirche St. Wendelin egy istentiszteleti hely Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.775543,
+                        47.493996
+                  ]
+            },
+            {
+                  "name": "Rochuskapelle",
+                  "text": "A Rochuskapelle egy istentiszteleti hely Bregenz városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.752412,
+                        47.526389
+                  ]
+            },
+            {
+                  "name": "Hl. Josef",
+                  "text": "A Hl. Josef egy helyi istentiszteleti hely Bregenz területén.",
+                  "category": "religious",
+                  "coords": [
+                        9.766066,
+                        47.480272
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "A Nepomukkapelle egy nevezetes barokk istentiszteleti hely Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.748284,
+                        47.504966
+                  ]
+            },
+            {
+                  "name": "Magdalena Kapelle",
+                  "text": "A Magdalena Kapelle egy istentiszteleti hely Bregenz városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.753363,
+                        47.511968
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Gallus",
+                  "text": "A Stadtpfarrkirche St. Gallus egy jelentős plébániatemplom és istentiszteleti hely Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.748002,
+                        47.498452
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "A St. Antonius egy istentiszteleti hely Bregenz városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.746731,
+                        47.499657
+                  ]
+            },
+            {
+                  "name": "Kapelle Altreute",
+                  "text": "A Kapelle Altreute egy istentiszteleti hely Bregenzben.",
+                  "category": "religious",
+                  "coords": [
+                        9.765417,
+                        47.510566
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "A St. Gebhard Kirche egy istentiszteleti hely Bregenz területén.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Spiellok 498.03",
+                  "text": "A Spiellok 498.03 egy megőrzött történelmi mozdony Bregenzben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73957,
+                        47.503999
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "A Seecamping egy fürdőhely és rekreációs terület Bregenzben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.713463,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "A Yachthafen Bregenz egy kikötő és fürdőhely Bregenz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716878,
+                        47.50706
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burg Hohenbregenz",
+                  "text": "Burg Hohenbregenz este o ruină de castel cunoscută pe muntele Gebhardsberg din Bregenz.",
+                  "category": "castle",
+                  "coords": [
+                        9.747475,
+                        47.490106
+                  ]
+            },
+            {
+                  "name": "Kosmos",
+                  "text": "Theater Kosmos este un teatru contemporan din Bregenz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.729649,
+                        47.495486
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Bregenz",
+                  "text": "Kunsthaus Bregenz este un muzeu important de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        9.747301,
+                        47.504989
+                  ]
+            },
+            {
+                  "name": "Martinsturm Bregenz",
+                  "text": "Martinsturm este un turn istoric și muzeu cu o cupolă distinctă de lemn din Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.749261,
+                        47.501063
+                  ]
+            },
+            {
+                  "name": "Villa Raczyński",
+                  "text": "Villa Raczyński este un conac istoric important din Bregenz, asociat cu Mănăstirea Marienberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.749317,
+                        47.495955
+                  ]
+            },
+            {
+                  "name": "Schloss Babenwohl",
+                  "text": "Schloss Babenwohl este un castel istoric din Bregenz care găzduiește Biblioteca de Stat Vorarlberg.",
+                  "category": "castle",
+                  "coords": [
+                        9.744776,
+                        47.493366
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "Aceasta este o rezervație naturală la gura de vărsare a râului Bregenzerach în Lacul Constanța, în Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Alpenwildpark Pfänder",
+                  "text": "Alpenwildpark Pfänder este o grădină zoologică din Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.778901,
+                        47.506588
+                  ]
+            },
+            {
+                  "name": "Hafenkastell Leutbühel",
+                  "text": "Hafenkastell Leutbühel este un sit arheologic în Bregenz.",
+                  "category": "historical",
+                  "coords": [
+                        9.735841,
+                        47.500482
+                  ]
+            },
+            {
+                  "name": "Pfänderbahn-Museum",
+                  "text": "Pfänderbahn-Museum este un muzeu din Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.753054,
+                        47.504903
+                  ]
+            },
+            {
+                  "name": "Seebad Bregenz",
+                  "text": "Seebad Bregenz este un parc acvatic din Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.733815,
+                        47.505672
+                  ]
+            },
+            {
+                  "name": "Benger-Park",
+                  "text": "Benger-Park este o rezervație naturală în Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.735262,
+                        47.502569
+                  ]
+            },
+            {
+                  "name": "Erawäldele",
+                  "text": "Erawäldele este o rezervație naturală din Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.733186,
+                        47.496096
+                  ]
+            },
+            {
+                  "name": "Pfänder",
+                  "text": "Pfänder este un munte proeminent din Bregenz care oferă vedere panoramică la Lacul Constanța.",
+                  "category": "natural",
+                  "coords": [
+                        9.780205,
+                        47.507371
+                  ]
+            },
+            {
+                  "name": "Villa Grünau",
+                  "text": "Villa Grünau este o vilă istorică și semnificativă arhitectural din Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.762376,
+                        47.4791
+                  ]
+            },
+            {
+                  "name": "Känzele",
+                  "text": "Känzele este un punct de belvedere popular situat în apropiere de Gebhardsberg din Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.762102,
+                        47.48755
+                  ]
+            },
+            {
+                  "name": "Künstlerhaus - Palais Thurn-und-Taxis",
+                  "text": "Künstlerhaus este o galerie de artă situată în Palais Thurn-und-Taxis din Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.744582,
+                        47.499425
+                  ]
+            },
+            {
+                  "name": "Schmalstes Haus Europas",
+                  "text": "Clădirea din Kirchstraße 29 din Bregenz este cunoscută ca fiind cea mai îngustă casă din Europa.",
+                  "category": "landmark",
+                  "coords": [
+                        9.747027,
+                        47.50094
+                  ]
+            },
+            {
+                  "name": "Hofsteigsaal Lauterach",
+                  "text": "Hafenkastell Lauterach este un centru de artă din Bregenz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.730814,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Bau dein Haus",
+                  "text": "Bau dein Haus este o atracție situată în Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.749367,
+                        47.492601
+                  ]
+            },
+            {
+                  "name": "Petronilla World – Atelier am Kornmarktplatz",
+                  "text": "Petronilla World – Atelier am Kornmarktplatz este o galerie de artă din Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.747121,
+                        47.503928
+                  ]
+            },
+            {
+                  "name": "Barfusssteig",
+                  "text": "Barfusssteig este o atracție turistică în Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.746481,
+                        47.493324
+                  ]
+            },
+            {
+                  "name": "Waldklavier",
+                  "text": "Waldklavier este o atracție situată în Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.748649,
+                        47.491633
+                  ]
+            },
+            {
+                  "name": "Ruine St. Wendelin",
+                  "text": "Ruine St. Wendelin este o ruină istorică din Bregenz.",
+                  "category": "historical",
+                  "coords": [
+                        9.777621,
+                        47.494574
+                  ]
+            },
+            {
+                  "name": "Liegewiese Strandbad Lochau am Bodensee",
+                  "text": "Liegewiese Strandbad Lochau am Bodensee este o stațiune pe plajă în Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.74798,
+                        47.524402
+                  ]
+            },
+            {
+                  "name": "Seebühne Bregenz",
+                  "text": "Seebühne Bregenz este o celebră scenă plutitoare pe Lacul Constanța, folosită pentru Festivalul de la Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738105,
+                        47.50567
+                  ]
+            },
+            {
+                  "name": "Theresienkapelle",
+                  "text": "Theresienkapelle este un lăcaș de cult din Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.781512,
+                        47.509729
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu Kapelle",
+                  "text": "Herz-Jesu Kapelle este un lăcaș de cult în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.758729,
+                        47.516255
+                  ]
+            },
+            {
+                  "name": "Herz Jesu-Kirche",
+                  "text": "Herz Jesu-Kirche este o proeminentă biserică catolică neogotică din Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.750406,
+                        47.502024
+                  ]
+            },
+            {
+                  "name": "Evang. Kreuzkirche",
+                  "text": "Evang. Kreuzkirche este un lăcaș de cult din Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.737178,
+                        47.497423
+                  ]
+            },
+            {
+                  "name": "Siechenkapelle",
+                  "text": "Siechenkapelle este un lăcaș de cult în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.741107,
+                        47.493912
+                  ]
+            },
+            {
+                  "name": "Maria Hilf Kirche",
+                  "text": "Maria Hilf Kirche este o biserică parohială distinctivă, caracterizată prin arhitectura sa modernă din Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.72757,
+                        47.495274
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Wendelin",
+                  "text": "Pfarrkirche St. Wendelin este un lăcaș de cult din Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.775543,
+                        47.493996
+                  ]
+            },
+            {
+                  "name": "Rochuskapelle",
+                  "text": "Rochuskapelle este un lăcaș de cult situat în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.752412,
+                        47.526389
+                  ]
+            },
+            {
+                  "name": "Hl. Josef",
+                  "text": "Hl. Josef este un lăcaș de cult situat în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.766066,
+                        47.480272
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "Nepomukkapelle este un lăcaș de cult baroc notabil situat în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.748284,
+                        47.504966
+                  ]
+            },
+            {
+                  "name": "Magdalena Kapelle",
+                  "text": "Magdalena Kapelle este un lăcaș de cult situat în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.753363,
+                        47.511968
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Gallus",
+                  "text": "Stadtpfarrkirche St. Gallus este o biserică parohială și un lăcaș de cult proeminent în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.748002,
+                        47.498452
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "St. Antonius este un lăcaș de cult situat în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.746731,
+                        47.499657
+                  ]
+            },
+            {
+                  "name": "Kapelle Altreute",
+                  "text": "Kapelle Altreute este un lăcaș de cult situat în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.765417,
+                        47.510566
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "St. Gebhard Kirche este un lăcaș de cult localizat în Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Spiellok 498.03",
+                  "text": "Spiellok 498.03 este o locomotivă istorică păstrată în Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73957,
+                        47.503999
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "Seecamping este un loc de scăldat și zonă de recreere în Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.713463,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "Yachthafen Bregenz este un port de agrement și loc de scăldat în Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716878,
+                        47.50706
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burg Hohenbregenz",
+                  "text": "Burg Hohenbregenz is a well-known castle ruin situated on the Gebhardsberg mountain in Bregenz.",
+                  "category": "castle",
+                  "coords": [
+                        9.747475,
+                        47.490106
+                  ]
+            },
+            {
+                  "name": "Kosmos",
+                  "text": "Theater Kosmos is a contemporary theatre located in Bregenz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.729649,
+                        47.495486
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Bregenz",
+                  "text": "Kunsthaus Bregenz is a significant museum dedicated to contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        9.747301,
+                        47.504989
+                  ]
+            },
+            {
+                  "name": "Martinsturm Bregenz",
+                  "text": "The Martinsturm is a historic tower and museum featuring a distinctive wooden dome in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.749261,
+                        47.501063
+                  ]
+            },
+            {
+                  "name": "Villa Raczyński",
+                  "text": "Villa Raczyński is a significant historical estate in Bregenz associated with the Marienberg monastery.",
+                  "category": "castle",
+                  "coords": [
+                        9.749317,
+                        47.495955
+                  ]
+            },
+            {
+                  "name": "Schloss Babenwohl",
+                  "text": "Schloss Babenwohl is a historic castle in Bregenz that houses the Vorarlberg State Library.",
+                  "category": "castle",
+                  "coords": [
+                        9.744776,
+                        47.493366
+                  ]
+            },
+            {
+                  "name": "Naturschutzgebiet Mehrerauer Seeufer – Bregenzerachmündung",
+                  "text": "This is a protected nature reserve at the mouth of the Bregenzerach river by Lake Constance in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.70601,
+                        47.500601
+                  ]
+            },
+            {
+                  "name": "Alpenwildpark Pfänder",
+                  "text": "The Alpenwildpark Pfänder is a zoo located in Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.778901,
+                        47.506588
+                  ]
+            },
+            {
+                  "name": "Hafenkastell Leutbühel",
+                  "text": "Hafenkastell Leutbühel is an archaeological site located in Bregenz.",
+                  "category": "historical",
+                  "coords": [
+                        9.735841,
+                        47.500482
+                  ]
+            },
+            {
+                  "name": "Pfänderbahn-Museum",
+                  "text": "The Pfänderbahn-Museum is a museum in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.753054,
+                        47.504903
+                  ]
+            },
+            {
+                  "name": "Seebad Bregenz",
+                  "text": "Seebad Bregenz is a water park situated in Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.733815,
+                        47.505672
+                  ]
+            },
+            {
+                  "name": "Benger-Park",
+                  "text": "Benger-Park is a nature reserve located in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.735262,
+                        47.502569
+                  ]
+            },
+            {
+                  "name": "Erawäldele",
+                  "text": "Erawäldele is a nature reserve in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.733186,
+                        47.496096
+                  ]
+            },
+            {
+                  "name": "Pfänder",
+                  "text": "The Pfänder is a prominent mountain offering panoramic views of Lake Constance in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.780205,
+                        47.507371
+                  ]
+            },
+            {
+                  "name": "Villa Grünau",
+                  "text": "Villa Grünau is a historic and architecturally significant villa located in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.762376,
+                        47.4791
+                  ]
+            },
+            {
+                  "name": "Känzele",
+                  "text": "Känzele is a popular scenic viewpoint situated near the Gebhardsberg in Bregenz.",
+                  "category": "natural",
+                  "coords": [
+                        9.762102,
+                        47.48755
+                  ]
+            },
+            {
+                  "name": "Künstlerhaus - Palais Thurn-und-Taxis",
+                  "text": "Künstlerhaus is an art gallery housed in the historic Palais Thurn-und-Taxis in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.744582,
+                        47.499425
+                  ]
+            },
+            {
+                  "name": "Schmalstes Haus Europas",
+                  "text": "Located at Kirchstraße 29 in Bregenz, this building is known as the narrowest house in Europe.",
+                  "category": "landmark",
+                  "coords": [
+                        9.747027,
+                        47.50094
+                  ]
+            },
+            {
+                  "name": "Hofsteigsaal Lauterach",
+                  "text": "The Hofsteigsaal Lauterach is an arts centre in Bregenz.",
+                  "category": "cultural",
+                  "coords": [
+                        9.730814,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Bau dein Haus",
+                  "text": "Bau dein Haus is an attraction located in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.749367,
+                        47.492601
+                  ]
+            },
+            {
+                  "name": "Petronilla World – Atelier am Kornmarktplatz",
+                  "text": "Petronilla World – Atelier am Kornmarktplatz is a gallery situated in Bregenz.",
+                  "category": "museum",
+                  "coords": [
+                        9.747121,
+                        47.503928
+                  ]
+            },
+            {
+                  "name": "Barfusssteig",
+                  "text": "Barfusssteig is a tourist attraction located in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.746481,
+                        47.493324
+                  ]
+            },
+            {
+                  "name": "Waldklavier",
+                  "text": "Waldklavier is an attraction in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.748649,
+                        47.491633
+                  ]
+            },
+            {
+                  "name": "Ruine St. Wendelin",
+                  "text": "Ruine St. Wendelin is a historical ruin located in Bregenz.",
+                  "category": "historical",
+                  "coords": [
+                        9.777621,
+                        47.494574
+                  ]
+            },
+            {
+                  "name": "Liegewiese Strandbad Lochau am Bodensee",
+                  "text": "Liegewiese Strandbad Lochau am Bodensee is a beach resort located in Bregenz.",
+                  "category": "recreational",
+                  "coords": [
+                        9.74798,
+                        47.524402
+                  ]
+            },
+            {
+                  "name": "Seebühne Bregenz",
+                  "text": "The Seebühne Bregenz is a famous floating stage on Lake Constance used for the Bregenz Festival.",
+                  "category": "landmark",
+                  "coords": [
+                        9.738105,
+                        47.50567
+                  ]
+            },
+            {
+                  "name": "Theresienkapelle",
+                  "text": "Theresienkapelle is a place of worship in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.781512,
+                        47.509729
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu Kapelle",
+                  "text": "Herz-Jesu Kapelle is a place of worship situated in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.758729,
+                        47.516255
+                  ]
+            },
+            {
+                  "name": "Herz Jesu-Kirche",
+                  "text": "The Herz Jesu-Kirche is a prominent neo-Gothic Catholic church located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.750406,
+                        47.502024
+                  ]
+            },
+            {
+                  "name": "Evang. Kreuzkirche",
+                  "text": "Evang. Kreuzkirche is a place of worship located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.737178,
+                        47.497423
+                  ]
+            },
+            {
+                  "name": "Siechenkapelle",
+                  "text": "Siechenkapelle is a place of worship in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.741107,
+                        47.493912
+                  ]
+            },
+            {
+                  "name": "Maria Hilf Kirche",
+                  "text": "The Maria Hilf Kirche is a distinctive parish church characterized by its modern architecture in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.72757,
+                        47.495274
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Wendelin",
+                  "text": "Pfarrkirche St. Wendelin is a place of worship located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.775543,
+                        47.493996
+                  ]
+            },
+            {
+                  "name": "Rochuskapelle",
+                  "text": "Rochuskapelle is a place of worship located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.752412,
+                        47.526389
+                  ]
+            },
+            {
+                  "name": "Hl. Josef",
+                  "text": "Hl. Josef is a local place of worship located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.766066,
+                        47.480272
+                  ]
+            },
+            {
+                  "name": "Nepomukkapelle",
+                  "text": "Nepomukkapelle is a notable historic place of worship located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.748284,
+                        47.504966
+                  ]
+            },
+            {
+                  "name": "Magdalena Kapelle",
+                  "text": "Magdalena Kapelle is a place of worship situated in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.753363,
+                        47.511968
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche St. Gallus",
+                  "text": "Stadtpfarrkirche St. Gallus is a prominent parish church and place of worship in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.748002,
+                        47.498452
+                  ]
+            },
+            {
+                  "name": "St. Antonius",
+                  "text": "St. Antonius is a place of worship situated in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.746731,
+                        47.499657
+                  ]
+            },
+            {
+                  "name": "Kapelle Altreute",
+                  "text": "Kapelle Altreute is a place of worship located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.765417,
+                        47.510566
+                  ]
+            },
+            {
+                  "name": "St. Gebhard Kirche",
+                  "text": "St. Gebhard Kirche is a local place of worship located in Bregenz.",
+                  "category": "religious",
+                  "coords": [
+                        9.716251,
+                        47.493061
+                  ]
+            },
+            {
+                  "name": "Spiellok 498.03",
+                  "text": "Spiellok 498.03 is a historic locomotive preserved in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.73957,
+                        47.503999
+                  ]
+            },
+            {
+                  "name": "Seecamping",
+                  "text": "Seecamping is a bathing place and recreational area in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.713463,
+                        47.506281
+                  ]
+            },
+            {
+                  "name": "Yachthafen Bregenz",
+                  "text": "Yachthafen Bregenz is a marina and bathing place located in Bregenz.",
+                  "category": "landmark",
+                  "coords": [
+                        9.716878,
+                        47.50706
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-8", coords: [9.7438, 47.5014],
     name: { de: "Bregenz", hu: "Bregenz", ro: "Bregenz", en: "Bregenz" },
     image: "/geo-images/austria/bregenz.webp",
     description: { de: "Bregenz, die idyllische Hauptstadt Vorarlbergs, fasziniert durch ihre unvergleichliche Lage direkt an den Ufern des Bodensees und am Fuße des markanten Pfänder-Massivs. Die Stadt ist international berühmt für die Bregenzer Festspiele, deren spektakuläre Seebühne jeden Sommer hochkarätige Operninszenierungen in atemberaubender Kulisse bietet. Die historische Oberstadt versprüht mit ihren mittelalterlichen Gassen und dem Martinsturm einen ruhigen, antiken Charme, der im spannenden Kontrast zur modernen Architektur des Kunsthauses Bregenz am Ufer steht. Mit exzellenten Rad- und Wanderwegen rund um den See und auf den Hausberg ist Bregenz ein Paradies für Kultur- und Naturfreunde gleichermaßen.", hu: "Bregenz, Vorarlberg idilli fővárosa, lenyűgöző fekvésével varázsolja el a látogatókat közvetlenül a Bóden-tó partján, a markáns Pfänder-hegység lábánál. A város nemzetközileg híres a Bregenzer Festspiele (Bregenzi Ünnepi Játékok) révén, amelynek látványos tavi színpada minden nyáron magas színvonalú operaelőadásokat kínál lélegzetelállító kulisszák között. A történelmi Felsőváros (Oberstadt) középkori sikátoraival és a Márton-toronnyal (Martinsturm) csendes, antik bájt sugároz, ami izgalmas kontrasztban áll a tóparti Kunsthaus Bregenz modern építészetével. A tó körüli és a helyi hegyre vezető kiváló kerékpár- és túraútvonalakkal Bregenz a kultúra és a természet szerelmeseinek egyaránt paradicsoma.", ro: "Bregenz, idilica capitală a Vorarlbergului, fascinează prin locația sa incomparabilă chiar pe malul Lacului Constanța și la poalele masivului Pfänder. Orașul este renumit la nivel internațional pentru Festivalul de la Bregenz, a cărui spectaculoasă scenă lacustră oferă în fiecare vară producții de operă de top într-un decor uluitor. Orașul de Sus istoric (Oberstadt), cu străzile sale medievale și Turnul Sf. Martin (Martinsturm), emană un farmec liniștit, antic, care contrastează captivant cu arhitectura modernă a Kunsthaus Bregenz de pe mal. Cu trasee excelente pentru biciclete și drumeții în jurul lacului și pe muntele local, Bregenz este un paradis deopotrivă pentru iubitorii de cultură și de natură.", en: "Bregenz, the idyllic capital of Vorarlberg, fascinates with its incomparable location right on the shores of Lake Constance and at the foot of the striking Pfänder massif. The city is internationally famous for the Bregenz Festival, whose spectacular floating stage offers top-class opera productions in a breathtaking setting every summer. The historic Upper Town (Oberstadt) exudes a quiet, antique charm with its medieval alleys and the Martin's Tower (Martinsturm), which stands in exciting contrast to the modern architecture of the Kunsthaus Bregenz on the shore. With excellent cycling and hiking trails around the lake and on the local mountain, Bregenz is a paradise for culture and nature lovers alike." , es: "Bregenz, la idílica capital de Vorarlberg, fascina por su incomparable ubicación directamente a orillas del lago de Constanza y a los pies del macizo del Pfänder.", pt: "Bregenz, a idílica capital de Vorarlberg, fascina pela sua localização incomparável nas margens do Lago de Constança e no sopé do maciço Pfänder.", fr: "Brégence, l'idyllique capitale du Vorarlberg, fascine par sa situation incomparable sur les rives du lac de Constance et au pied du massif du Pfänder."},
@@ -852,7 +9501,880 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Eisenstadt", type: "city", parent: "AT-1", coords: [16.5333, 47.8333],
+    id: "AT-Eisenstadt", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Esterházy",
+                  "text": "Das Schloss Esterházy in Eisenstadt ist ein bedeutendes Barockschloss und ehemaliger Fürstensitz.",
+                  "category": "museum",
+                  "coords": [
+                        16.519302,
+                        47.846443
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Eisenstadt",
+                  "text": "Das Diözesanmuseum Eisenstadt zeigt sakrale Kunst und kirchengeschichtliche Exponate des Burgenlandes.",
+                  "category": "museum",
+                  "coords": [
+                        16.511761,
+                        47.845064
+                  ]
+            },
+            {
+                  "name": "Haydnmuseum",
+                  "text": "Das Haydnmuseum in Eisenstadt ist dem Leben und Werk des Komponisten Joseph Haydn gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        16.522703,
+                        47.847179
+                  ]
+            },
+            {
+                  "name": "Landesmuseum",
+                  "text": "Das Landesmuseum Burgenland in Eisenstadt präsentiert die Archäologie, Kunst und Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        16.516975,
+                        47.846482
+                  ]
+            },
+            {
+                  "name": "Fronwiesen und Kuhlacke",
+                  "text": "Fronwiesen und Kuhlacke ist ein Naturschutzgebiet bei Eisenstadt, das seltenen Pflanzen und Tieren Lebensraum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.567936,
+                        47.838988
+                  ]
+            },
+            {
+                  "name": "Stadtvilla Eisenstadt",
+                  "text": "Die Stadtvilla Eisenstadt fungiert als Museum und Ausstellungsort für zeitgenössische und regionale Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        16.522723,
+                        47.845235
+                  ]
+            },
+            {
+                  "name": "Kultur Kongress Zentrum",
+                  "text": "Das Kultur Kongress Zentrum Eisenstadt ist ein moderner Veranstaltungsort für Konzerte, Theater und Kongresse.",
+                  "category": "cultural",
+                  "coords": [
+                        16.527648,
+                        47.847083
+                  ]
+            },
+            {
+                  "name": "Landesfeuerwehr-Museum",
+                  "text": "Das Burgenländische Landesfeuerwehrmuseum in Eisenstadt zeigt die historische Entwicklung des Feuerwehrwesens.",
+                  "category": "museum",
+                  "coords": [
+                        16.53723,
+                        47.859825
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "Das Freibad Eisenstadt bietet Sportbecken und Freizeiteinrichtungen für sommerliches Badevergnügen.",
+                  "category": "recreational",
+                  "coords": [
+                        16.525355,
+                        47.848909
+                  ]
+            },
+            {
+                  "name": "Tulipan",
+                  "text": "Tulipan ist eine private Kunstgalerie in Eisenstadt, die wechselnde Ausstellungen lokaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.54882,
+                        47.811878
+                  ]
+            },
+            {
+                  "name": "Haydns Gartenhaus",
+                  "text": "Haydns Gartenhaus in Eisenstadt war der Rückzugsort des Komponisten für seine kompositorische Arbeit.",
+                  "category": "landmark",
+                  "coords": [
+                        16.529956,
+                        47.847356
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Der Obelisk in Eisenstadt ist ein markantes Denkmal im Schlosspark des Schlosses Esterházy.",
+                  "category": "landmark",
+                  "coords": [
+                        16.520896,
+                        47.853642
+                  ]
+            },
+            {
+                  "name": "Leopoldinentempel",
+                  "text": "Der Leopoldinentempel ist ein klassizistischer Rundtempel im englischen Garten des Schlosses Esterházy.",
+                  "category": "landmark",
+                  "coords": [
+                        16.517378,
+                        47.849053
+                  ]
+            },
+            {
+                  "name": "ehemalige Eisgrube",
+                  "text": "Die ehemalige Eisgrube in Eisenstadt ist ein historisches Relikt der Kühltechnik im Schlosspark.",
+                  "category": "historical",
+                  "coords": [
+                        16.503278,
+                        47.840399
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "Die Spitalskirche in Eisenstadt ist eine barocke Kirche, die ursprünglich zu einem Bürgerspital gehörte.",
+                  "category": "religious",
+                  "coords": [
+                        16.514686,
+                        47.845925
+                  ]
+            },
+            {
+                  "name": "Hl. Georg",
+                  "text": "Die Kirche Hl. Georg in Eisenstadt ist ein bedeutendes sakrales Gebäude im Stadtteil St. Georgen.",
+                  "category": "religious",
+                  "coords": [
+                        16.5527,
+                        47.855645
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Die Franziskanerkirche in Eisenstadt beherbergt die Familiengruft der Fürstenfamilie Esterházy.",
+                  "category": "religious",
+                  "coords": [
+                        16.524093,
+                        47.84724
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Kleinhöflein",
+                  "text": "Die Pfarrkirche Kleinhöflein ist eine sehenswerte katholische Kirche im gleichnamigen Stadtteil von Eisenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.50484,
+                        47.842056
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "Die Evangelische Pfarrkirche in Eisenstadt ist das geistliche Zentrum der lutherischen Gemeinde der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.521349,
+                        47.844693
+                  ]
+            },
+            {
+                  "name": "Domkirche",
+                  "text": "Der Dom St. Martin in Eisenstadt ist die Kathedrale der Diözese und ein gotisches Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.52504,
+                        47.845219
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Laurentius",
+                  "text": "Die Pfarrkirche hl. Laurentius in Eisenstadt ist ein sakraler Bau mit barocken Ausstattungselementen.",
+                  "category": "religious",
+                  "coords": [
+                        16.558063,
+                        47.813871
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte-Muttergottes-Kapelle",
+                  "text": "Die Schmerzhafte-Muttergottes-Kapelle ist ein Ort der Andacht und Stille in Eisenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.550425,
+                        47.814399
+                  ]
+            },
+            {
+                  "name": "Magdalenakapelle",
+                  "text": "Die Magdalenakapelle in Eisenstadt ist eine kleine, historisch bedeutsame Kapelle für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        16.556839,
+                        47.816301
+                  ]
+            },
+            {
+                  "name": "Magdalenenkapelle",
+                  "text": "Die Magdalenenkapelle dient in Eisenstadt als Ort für religiöse Feiern und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        16.52759,
+                        47.845964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Esterházy",
+                  "text": "A kismartoni Esterházy-kastély egy jelentős barokk kastély és egykori hercegi rezidencia.",
+                  "category": "museum",
+                  "coords": [
+                        16.519302,
+                        47.846443
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Eisenstadt",
+                  "text": "A Kismartoni Egyházmegyei Múzeum szakrális művészeti és egyháztörténeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.511761,
+                        47.845064
+                  ]
+            },
+            {
+                  "name": "Haydnmuseum",
+                  "text": "A kismartoni Haydn-múzeum Joseph Haydn zeneszerző életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        16.522703,
+                        47.847179
+                  ]
+            },
+            {
+                  "name": "Landesmuseum",
+                  "text": "A kismartoni Tartományi Múzeum Burgenland régészetét, művészetét és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.516975,
+                        47.846482
+                  ]
+            },
+            {
+                  "name": "Fronwiesen und Kuhlacke",
+                  "text": "A Fronwiesen und Kuhlacke egy természetvédelmi terület Kismarton közelében, amely ritka fajoknak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        16.567936,
+                        47.838988
+                  ]
+            },
+            {
+                  "name": "Stadtvilla Eisenstadt",
+                  "text": "A kismartoni Stadtvilla múzeumként és kiállítóhelyként szolgál kortárs és regionális művészeti tárlatoknak.",
+                  "category": "museum",
+                  "coords": [
+                        16.522723,
+                        47.845235
+                  ]
+            },
+            {
+                  "name": "Kultur Kongress Zentrum",
+                  "text": "A kismartoni Kultur Kongress Zentrum koncertek, színházi előadások és kongresszusok modern helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        16.527648,
+                        47.847083
+                  ]
+            },
+            {
+                  "name": "Landesfeuerwehr-Museum",
+                  "text": "A kismartoni Tartományi Tűzoltómúzeum a tűzoltás történelmi fejlődését mutatja be Burgenlandban.",
+                  "category": "museum",
+                  "coords": [
+                        16.53723,
+                        47.859825
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "A kismartoni strandfürdő úszómedencékkel és szabadidős létesítményekkel várja a látogatókat.",
+                  "category": "recreational",
+                  "coords": [
+                        16.525355,
+                        47.848909
+                  ]
+            },
+            {
+                  "name": "Tulipan",
+                  "text": "A Tulipan egy kismartoni magángaléria, amely helyi művészek időszaki kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.54882,
+                        47.811878
+                  ]
+            },
+            {
+                  "name": "Haydns Gartenhaus",
+                  "text": "Haydn kerti háza Kismartonban a zeneszerző kedvelt pihenőhelye és alkotói munkahelye volt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.529956,
+                        47.847356
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "A kismartoni obeliszk az Esterházy-kastély parkjának egyik jellegzetes emlékműve.",
+                  "category": "landmark",
+                  "coords": [
+                        16.520896,
+                        47.853642
+                  ]
+            },
+            {
+                  "name": "Leopoldinentempel",
+                  "text": "A Leopoldina-templom egy klasszicista körtemplom az Esterházy-kastély angolparkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.517378,
+                        47.849053
+                  ]
+            },
+            {
+                  "name": "ehemalige Eisgrube",
+                  "text": "A kismartoni egykori jégverem a kastélypark hűtési technológiájának történelmi emléke.",
+                  "category": "historical",
+                  "coords": [
+                        16.503278,
+                        47.840399
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "A kismartoni kórházi templom egy barokk templom, amely eredetileg a polgári kórházhoz tartozott.",
+                  "category": "religious",
+                  "coords": [
+                        16.514686,
+                        47.845925
+                  ]
+            },
+            {
+                  "name": "Hl. Georg",
+                  "text": "A kismartoni Szent György-templom Lajtaszentgyörgy városrész egyik jelentős egyházi épülete.",
+                  "category": "religious",
+                  "coords": [
+                        16.5527,
+                        47.855645
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "A kismartoni ferences templom az Esterházy hercegi család családi kriptájának ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        16.524093,
+                        47.84724
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Kleinhöflein",
+                  "text": "A kishöflányi plébániatemplom egy figyelemre méltó katolikus templom Kismarton azonos nevű negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        16.50484,
+                        47.842056
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "A kismartoni evangélikus templom a város lutheránus közösségének lelki központja.",
+                  "category": "religious",
+                  "coords": [
+                        16.521349,
+                        47.844693
+                  ]
+            },
+            {
+                  "name": "Domkirche",
+                  "text": "A kismartoni Szent Márton-székesegyház az egyházmegye főtemploma és a város gótikus jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        16.52504,
+                        47.845219
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Laurentius",
+                  "text": "A kismartoni Szent Lőrinc-plébániatemplom egy barokk berendezési tárgyakkal díszített egyházi épület.",
+                  "category": "religious",
+                  "coords": [
+                        16.558063,
+                        47.813871
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte-Muttergottes-Kapelle",
+                  "text": "A Fájdalmas Szűzanya-kápolna az áhítat és a csend helyszíne Kismartonban.",
+                  "category": "religious",
+                  "coords": [
+                        16.550425,
+                        47.814399
+                  ]
+            },
+            {
+                  "name": "Magdalenakapelle",
+                  "text": "A kismartoni Magdolna-kápolna egy kicsi, de a helyi közösség számára történelmileg jelentős kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        16.556839,
+                        47.816301
+                  ]
+            },
+            {
+                  "name": "Magdalenenkapelle",
+                  "text": "A Magdolna-kápolna vallási szertartások és elmélyülés helyszínéül szolgál Kismartonban.",
+                  "category": "religious",
+                  "coords": [
+                        16.52759,
+                        47.845964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Esterházy",
+                  "text": "Castelul Esterházy din Eisenstadt este un palat baroc important și fosta reședință a prinților.",
+                  "category": "museum",
+                  "coords": [
+                        16.519302,
+                        47.846443
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Eisenstadt",
+                  "text": "Muzeul Diecezan din Eisenstadt prezintă artă sacră și exponate din istoria bisericească a Burgenlandului.",
+                  "category": "museum",
+                  "coords": [
+                        16.511761,
+                        47.845064
+                  ]
+            },
+            {
+                  "name": "Haydnmuseum",
+                  "text": "Muzeul Haydn din Eisenstadt este dedicat vieții și operei compozitorului Joseph Haydn.",
+                  "category": "museum",
+                  "coords": [
+                        16.522703,
+                        47.847179
+                  ]
+            },
+            {
+                  "name": "Landesmuseum",
+                  "text": "Muzeul Regional din Eisenstadt prezintă arheologia, arta și istoria regiunii Burgenland.",
+                  "category": "museum",
+                  "coords": [
+                        16.516975,
+                        47.846482
+                  ]
+            },
+            {
+                  "name": "Fronwiesen und Kuhlacke",
+                  "text": "Fronwiesen și Kuhlacke este o rezervație naturală de lângă Eisenstadt, care oferă habitat plantelor și animalelor rare.",
+                  "category": "natural",
+                  "coords": [
+                        16.567936,
+                        47.838988
+                  ]
+            },
+            {
+                  "name": "Stadtvilla Eisenstadt",
+                  "text": "Stadtvilla Eisenstadt funcționează ca muzeu și spațiu expozițional pentru artă contemporană și regională.",
+                  "category": "museum",
+                  "coords": [
+                        16.522723,
+                        47.845235
+                  ]
+            },
+            {
+                  "name": "Kultur Kongress Zentrum",
+                  "text": "Kultur Kongress Zentrum Eisenstadt este un loc modern de desfășurare pentru concerte, teatru și congrese.",
+                  "category": "cultural",
+                  "coords": [
+                        16.527648,
+                        47.847083
+                  ]
+            },
+            {
+                  "name": "Landesfeuerwehr-Museum",
+                  "text": "Muzeul Regional al Pompierilor din Eisenstadt prezintă dezvoltarea istorică a serviciilor de pompieri.",
+                  "category": "museum",
+                  "coords": [
+                        16.53723,
+                        47.859825
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "Ștrandul din Eisenstadt oferă bazine de înot și facilități de recreere pentru relaxare pe timp de vară.",
+                  "category": "recreational",
+                  "coords": [
+                        16.525355,
+                        47.848909
+                  ]
+            },
+            {
+                  "name": "Tulipan",
+                  "text": "Tulipan este o galerie de artă privată din Eisenstadt, care prezintă expoziții temporare ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        16.54882,
+                        47.811878
+                  ]
+            },
+            {
+                  "name": "Haydns Gartenhaus",
+                  "text": "Casa de grădină a lui Haydn din Eisenstadt a fost locul de retragere al compozitorului pentru creația sa muzicală.",
+                  "category": "landmark",
+                  "coords": [
+                        16.529956,
+                        47.847356
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "Obeliscul din Eisenstadt este un monument distinctiv situat în parcul Castelului Esterházy.",
+                  "category": "landmark",
+                  "coords": [
+                        16.520896,
+                        47.853642
+                  ]
+            },
+            {
+                  "name": "Leopoldinentempel",
+                  "text": "Templul Leopoldinei este un templu circular clasicist situat în grădina englezească a Castelului Esterházy.",
+                  "category": "landmark",
+                  "coords": [
+                        16.517378,
+                        47.849053
+                  ]
+            },
+            {
+                  "name": "ehemalige Eisgrube",
+                  "text": "Fosta groapă de gheață din Eisenstadt este un vestigiu istoric al tehnicilor de răcire din parcul castelului.",
+                  "category": "historical",
+                  "coords": [
+                        16.503278,
+                        47.840399
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "Biserica Spitalului din Eisenstadt este o biserică barocă ce a aparținut inițial unui spital cetățenesc.",
+                  "category": "religious",
+                  "coords": [
+                        16.514686,
+                        47.845925
+                  ]
+            },
+            {
+                  "name": "Hl. Georg",
+                  "text": "Biserica Sfântul Gheorghe din Eisenstadt este o clădire sacră importantă din cartierul St. Georgen.",
+                  "category": "religious",
+                  "coords": [
+                        16.5527,
+                        47.855645
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Biserica Franciscană din Eisenstadt adăpostește cripta familiei princiare Esterházy.",
+                  "category": "religious",
+                  "coords": [
+                        16.524093,
+                        47.84724
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Kleinhöflein",
+                  "text": "Biserica parohială Kleinhöflein este o biserică catolică demnă de vizitat din cartierul omonim al orașului Eisenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.50484,
+                        47.842056
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "Biserica parohială evanghelică din Eisenstadt este centrul spiritual al comunității luterane din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        16.521349,
+                        47.844693
+                  ]
+            },
+            {
+                  "name": "Domkirche",
+                  "text": "Catedrala Sfântul Martin din Eisenstadt este sediul diecezei și un simbol gotic al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        16.52504,
+                        47.845219
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Laurentius",
+                  "text": "Biserica parohială Sfântul Laurențiu din Eisenstadt este un edificiu sacru cu elemente de decor baroc.",
+                  "category": "religious",
+                  "coords": [
+                        16.558063,
+                        47.813871
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte-Muttergottes-Kapelle",
+                  "text": "Capela Maicii Domnului Îndurerate este un loc de reculegere și liniște din Eisenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.550425,
+                        47.814399
+                  ]
+            },
+            {
+                  "name": "Magdalenakapelle",
+                  "text": "Capela Magdalena din Eisenstadt este o capelă mică, dar semnificativă istoric pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        16.556839,
+                        47.816301
+                  ]
+            },
+            {
+                  "name": "Magdalenenkapelle",
+                  "text": "Capela Magdalenei servește în Eisenstadt ca loc pentru celebrări religioase și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        16.52759,
+                        47.845964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Esterházy",
+                  "text": "Esterházy Palace in Eisenstadt is a significant Baroque palace and former princely residence.",
+                  "category": "museum",
+                  "coords": [
+                        16.519302,
+                        47.846443
+                  ]
+            },
+            {
+                  "name": "Diözesanmuseum Eisenstadt",
+                  "text": "The Diocesan Museum in Eisenstadt displays sacred art and ecclesiastical history exhibits of Burgenland.",
+                  "category": "museum",
+                  "coords": [
+                        16.511761,
+                        47.845064
+                  ]
+            },
+            {
+                  "name": "Haydnmuseum",
+                  "text": "The Haydn Museum in Eisenstadt is dedicated to the life and work of composer Joseph Haydn.",
+                  "category": "museum",
+                  "coords": [
+                        16.522703,
+                        47.847179
+                  ]
+            },
+            {
+                  "name": "Landesmuseum",
+                  "text": "The State Museum in Eisenstadt presents the archaeology, art, and history of the Burgenland region.",
+                  "category": "museum",
+                  "coords": [
+                        16.516975,
+                        47.846482
+                  ]
+            },
+            {
+                  "name": "Fronwiesen und Kuhlacke",
+                  "text": "Fronwiesen und Kuhlacke is a nature reserve near Eisenstadt providing habitat for rare plants and animals.",
+                  "category": "natural",
+                  "coords": [
+                        16.567936,
+                        47.838988
+                  ]
+            },
+            {
+                  "name": "Stadtvilla Eisenstadt",
+                  "text": "The Stadtvilla Eisenstadt serves as a museum and exhibition venue for contemporary and regional art.",
+                  "category": "museum",
+                  "coords": [
+                        16.522723,
+                        47.845235
+                  ]
+            },
+            {
+                  "name": "Kultur Kongress Zentrum",
+                  "text": "The Kultur Kongress Zentrum Eisenstadt is a modern venue for concerts, theater, and congresses.",
+                  "category": "cultural",
+                  "coords": [
+                        16.527648,
+                        47.847083
+                  ]
+            },
+            {
+                  "name": "Landesfeuerwehr-Museum",
+                  "text": "The State Fire Brigade Museum in Eisenstadt showcases the historical development of firefighting.",
+                  "category": "museum",
+                  "coords": [
+                        16.53723,
+                        47.859825
+                  ]
+            },
+            {
+                  "name": "Freibad",
+                  "text": "The outdoor pool in Eisenstadt offers swimming basins and leisure facilities for summer recreation.",
+                  "category": "recreational",
+                  "coords": [
+                        16.525355,
+                        47.848909
+                  ]
+            },
+            {
+                  "name": "Tulipan",
+                  "text": "Tulipan is a private art gallery in Eisenstadt showcasing changing exhibitions by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        16.54882,
+                        47.811878
+                  ]
+            },
+            {
+                  "name": "Haydns Gartenhaus",
+                  "text": "Haydn's Garden House in Eisenstadt was the composer's retreat for his musical work.",
+                  "category": "landmark",
+                  "coords": [
+                        16.529956,
+                        47.847356
+                  ]
+            },
+            {
+                  "name": "Obelisk",
+                  "text": "The Obelisk in Eisenstadt is a prominent monument located in the Esterházy Palace park.",
+                  "category": "landmark",
+                  "coords": [
+                        16.520896,
+                        47.853642
+                  ]
+            },
+            {
+                  "name": "Leopoldinentempel",
+                  "text": "The Leopoldinentempel is a Neoclassical circular temple in the English garden of Esterházy Palace.",
+                  "category": "landmark",
+                  "coords": [
+                        16.517378,
+                        47.849053
+                  ]
+            },
+            {
+                  "name": "ehemalige Eisgrube",
+                  "text": "The former ice pit in Eisenstadt is a historical relic of cooling technology in the palace park.",
+                  "category": "historical",
+                  "coords": [
+                        16.503278,
+                        47.840399
+                  ]
+            },
+            {
+                  "name": "Spitalskirche",
+                  "text": "The Spitalskirche in Eisenstadt is a Baroque church that originally belonged to a civic hospital.",
+                  "category": "religious",
+                  "coords": [
+                        16.514686,
+                        47.845925
+                  ]
+            },
+            {
+                  "name": "Hl. Georg",
+                  "text": "The Church of St. George in Eisenstadt is a significant sacred building in the district of St. Georgen.",
+                  "category": "religious",
+                  "coords": [
+                        16.5527,
+                        47.855645
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "The Franciscan Church in Eisenstadt houses the family crypt of the princely Esterházy family.",
+                  "category": "religious",
+                  "coords": [
+                        16.524093,
+                        47.84724
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Kleinhöflein",
+                  "text": "The parish church of Kleinhöflein is a noteworthy Catholic church in the district of the same name in Eisenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.50484,
+                        47.842056
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrkirche",
+                  "text": "The Protestant Parish Church in Eisenstadt is the spiritual center of the city's Lutheran community.",
+                  "category": "religious",
+                  "coords": [
+                        16.521349,
+                        47.844693
+                  ]
+            },
+            {
+                  "name": "Domkirche",
+                  "text": "St. Martin's Cathedral in Eisenstadt is the diocesan cathedral and a Gothic landmark of the city.",
+                  "category": "religious",
+                  "coords": [
+                        16.52504,
+                        47.845219
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche hl. Laurentius",
+                  "text": "The Parish Church of St. Lawrence in Eisenstadt is a sacred building featuring Baroque interior elements.",
+                  "category": "religious",
+                  "coords": [
+                        16.558063,
+                        47.813871
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte-Muttergottes-Kapelle",
+                  "text": "The Chapel of the Sorrowful Mother of God is a place of prayer and silence in Eisenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.550425,
+                        47.814399
+                  ]
+            },
+            {
+                  "name": "Magdalenakapelle",
+                  "text": "The Magdalenakapelle in Eisenstadt is a small, historically significant chapel for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        16.556839,
+                        47.816301
+                  ]
+            },
+            {
+                  "name": "Magdalenenkapelle",
+                  "text": "The Magdalenenkapelle serves as a place for religious ceremonies and reflection in Eisenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        16.52759,
+                        47.845964
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-1", coords: [16.5333, 47.8333],
     name: { de: "Eisenstadt", hu: "Kismarton", ro: "Eisenstadt", en: "Eisenstadt" },
     image: "/geo-images/austria/eisenstadt.webp",
     description: { de: "Eisenstadt, die idyllische Landeshauptstadt des Burgenlandes, ist eine Stadt von historischer Eleganz und tief verwurzelter musikalischer Tradition. Sie liegt eingebettet in die sanften Hügel am Fuße des Leithagebirges und ist untrennbar mit dem Erbe der mächtigen Fürstenfamilie Esterházy verbunden. Das prachtvolle Schloss Esterházy dominiert das Stadtbild und beherbergt den weltberühmten Haydnsaal, der für seine herausragende Akustik bekannt ist. Hier wirkte Joseph Haydn über vier Jahrzehnte als Kapellmeister und prägte die klassische Musik maßgeblich. Neben der reichen Kulturgeschichte zieht Eisenstadt auch mit seinen nahegelegenen, exzellenten Weinbaugebieten und charmanten Fußgängerzonen Genießer aus aller Welt an.", hu: "Kismarton (Eisenstadt), Burgenland idilli fővárosa, a történelmi elegancia és a mélyen gyökerező zenei hagyományok városa. A Lajta-hegység (Leithagebirge) lábánál, szelíd dombok között fekszik, és elválaszthatatlanul összefonódott a hatalmas Esterházy hercegi család örökségével. A pompás Esterházy-kastély uralja a városképet, és itt található a világhírű Haydn-terem, amely kiemelkedő akusztikájáról ismert. Joseph Haydn több mint négy évtizeden át dolgozott itt karmesterként, és jelentősen alakította a klasszikus zenét. A gazdag kultúrtörténet mellett Kismarton a közeli, kiváló borvidékeivel és hangulatos sétálóutcáival is vonzza a világ minden tájáról érkező ínyenceket.", ro: "Eisenstadt, capitala idilică a Burgenlandului, este un oraș de o eleganță istorică și o tradiție muzicală adânc înrădăcinată. Este situat între dealurile blânde de la poalele Munților Leitha și este indisolubil legat de moștenirea puternicei familii nobiliare Esterházy. Magnificul Palat Esterházy domină peisajul orașului și găzduiește faimoasa Sală Haydn (Haydnsaal), renumită pentru acustica sa remarcabilă. Joseph Haydn a lucrat aici ca director muzical (Kapellmeister) timp de peste patru decenii și a influențat semnificativ muzica clasică. Pe lângă bogata sa istorie culturală, Eisenstadt atrage, de asemenea, cunoscători din întreaga lume, prin podgoriile sale excelente din apropiere și zonele pietonale fermecătoare.", en: "Eisenstadt, the idyllic capital of Burgenland, is a city of historical elegance and deep-rooted musical tradition. It is nestled in the rolling hills at the foot of the Leitha Mountains and is inextricably linked to the legacy of the powerful Esterházy princely family. The magnificent Esterházy Palace dominates the cityscape and houses the world-famous Haydn Hall (Haydnsaal), known for its outstanding acoustics. Joseph Haydn worked here as Kapellmeister for over four decades and significantly shaped classical music. In addition to its rich cultural history, Eisenstadt also attracts connoisseurs from all over the world with its nearby excellent wine-growing areas and charming pedestrian zones." , es: "Eisenstadt, la idílica capital de Burgenland, es una ciudad de elegancia histórica y una tradición musical profundamente arraigada.", pt: "Eisenstadt, a idílica capital de Burgenland, é uma cidade de elegância histórica e de uma tradição musical profundamente enraizada.", fr: "Eisenstadt, l'idyllique capitale du Burgenland, est une ville d'élégance historique et d'une tradition musicale profondément enracinée."},
@@ -877,7 +10399,1240 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-StPolten", type: "city", parent: "AT-3", coords: [15.6333, 48.2],
+    id: "AT-StPolten", "sights": {
+      "de": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "Das Museum präsentiert sakrale Kunst im Dom von St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205539
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Das Landesmuseum für Natur, Kunst und Geschichte in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Die ehemalige Synagoge dient heute als Kulturzentrum und Mahnmal.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "Ein innovativer Ausstellungsort für zeitgenössische Kunst in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.62793,
+                        48.201275
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Das Museum dokumentiert die Stadtgeschichte von St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Ein Ausstellungsraum im Landhausviertel von St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "Ein kleinerer Theatersaal für intime Aufführungen in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "Ein experimenteller Theaterraum in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "Eine Kleinkunstbühne für Theater und Kabarett in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "Ein Theater in St. Pölten, das sich dem Tanz und Ballett widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "Ein beliebtes Freibad mit Wasserattraktionen in St. Pölten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "Ein modernes Hallenbad und Wellnesszentrum in St. Pölten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619865,
+                        48.205146
+                  ]
+            },
+            {
+                  "name": "Bühne im Hof",
+                  "text": "Ein Veranstaltungsort für Kleinkunst und Musik in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621533,
+                        48.2032
+                  ]
+            },
+            {
+                  "name": "Künstmühle",
+                  "text": "Ein Kulturzentrum in einer ehemaligen Mühle in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.629715,
+                        48.205596
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Eine religiöse Gedenkstätte mit Kreuzwegstationen in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.612106,
+                        48.199954
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "Ein historisches Denkmal in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "Ein Denkmal zu Ehren von Kaiser Franz Joseph I. in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "Eine Galerie für zeitgenössische Kunst in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "Galeria mobile",
+                  "text": "Eine kleine, mobile Kunstgalerie in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.636666,
+                        48.22342
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "Ein Ausstellungsraum für Kunst in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "Eine Galerie, die Kunst und kulinarische Themen verbindet.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Ein kleines Gehege mit heimischen Tieren in St. Pölten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "Ein ehemaliges Kino, das heute für kulturelle Zwecke genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "Ein markanter hölzerner Aussichtspunkt in St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "Ein Aussichtspunkt mit Blick über St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
+                  "text": "Die Krankenhauskapelle im Universitätsklinikum St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.626466,
+                        48.214104
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "Ein modernes Kirchengebäude in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Eine bedeutende Barockkirche im Stadtzentrum von St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.623097,
+                        48.205852
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Eine im neugotischen Stil erbaute Kirche in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.623136,
+                        48.201877
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "Eine moderne katholische Kirche in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "Eine dem heiligen Josef geweihte Kirche in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Kapelle des Priesterseminars",
+                  "text": "Die Kapelle innerhalb des Priesterseminars von St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.628592,
+                        48.204438
+                  ]
+            },
+            {
+                  "name": "Zwingerturm",
+                  "text": "Ein historischer Turm der ehemaligen Stadtbefestigung von St. Pölten.",
+                  "category": "tower",
+                  "coords": [
+                        15.627743,
+                        48.202625
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "Die katholische Pfarrkirche im Stadtteil Wagram in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "A múzeum szakrális művészeti alkotásokat mutat be a St. Pölten-i dómban.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205539
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Alsó-Ausztria természeti, művészeti és történelmi múzeuma St. Pöltenben.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Az egykori zsinagóga ma kulturális központként és emlékhelyként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "Kortárs művészeti kiállítóhely St. Pöltenben.",
+                  "category": "museum",
+                  "coords": [
+                        15.62793,
+                        48.201275
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "A múzeum St. Pölten várostörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Kiállítóhely St. Pölten kormányzati negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "Kisebb színházterem bensőséges előadásokhoz St. Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "Kísérleti színházi tér St. Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "Színpad St. Pöltenben színházi és kabaré előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "Táncnak és balettnek szentelt színház St. Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "Népszerű szabadtéri strand vízi attrakciókkal St. Pöltenben.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "Modern fedett uszoda és wellnessközpont St. Pöltenben.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619865,
+                        48.205146
+                  ]
+            },
+            {
+                  "name": "Bühne im Hof",
+                  "text": "Kulturális rendezvényhelyszín St. Pöltenben zenével és kabarével.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621533,
+                        48.2032
+                  ]
+            },
+            {
+                  "name": "Künstmühle",
+                  "text": "Kulturális központ egy egykori malomban St. Pöltenben.",
+                  "category": "cultural",
+                  "coords": [
+                        15.629715,
+                        48.205596
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Vallási emlékhely keresztúti stációkkal St. Pöltenben.",
+                  "category": "historical",
+                  "coords": [
+                        15.612106,
+                        48.199954
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "Történelmi emlékmű St. Pöltenben.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "I. Ferenc József császár tiszteletére emelt emlékmű St. Pöltenben.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "Kortárs művészeti galéria St. Pöltenben.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "Galeria mobile",
+                  "text": "Kisméretű, mobil művészeti galéria St. Pöltenben.",
+                  "category": "museum",
+                  "coords": [
+                        15.636666,
+                        48.22342
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "Művészeti kiállítóhely St. Pöltenben.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "A művészetet és a gasztronómiát ötvöző galéria.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Kis állatkifutó helyi állatokkal St. Pöltenben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "Egykori mozi, amelyet ma kulturális célokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "Jellegzetes fa kilátópont St. Pöltenben.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "Kilátópont kilátással St. Pöltenre.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
+                  "text": "A St. Pölten-i egyetemi klinika kórházi kápolnája.",
+                  "category": "religious",
+                  "coords": [
+                        15.626466,
+                        48.214104
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "Modern templomépület St. Pöltenben.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Jelentős barokk templom St. Pölten városközpontjában.",
+                  "category": "religious",
+                  "coords": [
+                        15.623097,
+                        48.205852
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Neogótikus stílusban épült templom St. Pöltenben.",
+                  "category": "religious",
+                  "coords": [
+                        15.623136,
+                        48.201877
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "Modern katolikus templom St. Pöltenben.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "Szent Józsefnek szentelt templom St. Pöltenben.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Kapelle des Priesterseminars",
+                  "text": "A St. Pölten-i papnevelde kápolnája.",
+                  "category": "religious",
+                  "coords": [
+                        15.628592,
+                        48.204438
+                  ]
+            },
+            {
+                  "name": "Zwingerturm",
+                  "text": "St. Pölten egykori városfalának történelmi toronya.",
+                  "category": "tower",
+                  "coords": [
+                        15.627743,
+                        48.202625
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "Katolikus plébániatemplom St. Pölten Wagram városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "Muzeul prezintă artă sacră în catedrala din St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205539
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "Muzeul de stat pentru natură, artă și istorie din St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "Fosta sinagogă servește astăzi ca centru cultural și memorial.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "Un spațiu expozițional inovator pentru artă contemporană în St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.62793,
+                        48.201275
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "Muzeul documentează istoria orașului St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "Un spațiu expozițional în cartierul Landhaus din St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "O sală de teatru mai mică pentru spectacole intime în St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "Un spațiu teatral experimental în St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "O scenă pentru teatru și cabaret în St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "Un teatru din St. Pölten dedicat dansului și baletului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "Un ștrand popular cu atracții acvatice în St. Pölten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "O piscină acoperită modernă și centru wellness în St. Pölten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619865,
+                        48.205146
+                  ]
+            },
+            {
+                  "name": "Bühne im Hof",
+                  "text": "Un spațiu pentru evenimente culturale și muzică în St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621533,
+                        48.2032
+                  ]
+            },
+            {
+                  "name": "Künstmühle",
+                  "text": "Un centru cultural situat într-o fostă moară din St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.629715,
+                        48.205596
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "Un monument religios cu stațiile Căii Crucii în St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.612106,
+                        48.199954
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "Un monument istoric din St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "Un monument în onoarea împăratului Franz Joseph I în St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "O galerie de artă contemporană în St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "Galeria mobile",
+                  "text": "O mică galerie de artă mobilă în St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.636666,
+                        48.22342
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "Un spațiu expozițional de artă în St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "O galerie care îmbină arta cu teme culinare.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "Un mic țarc cu animale locale în St. Pölten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "Un fost cinematograf, utilizat astăzi în scopuri culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "Un punct de observație din lemn distinctiv în St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "Un punct de observație cu vedere asupra orașului St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
+                  "text": "Capela spitalului din cadrul clinicii universitare din St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.626466,
+                        48.214104
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "O clădire de biserică modernă în St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "O biserică barocă importantă în centrul orașului St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.623097,
+                        48.205852
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "O biserică construită în stil neogotic în St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.623136,
+                        48.201877
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "O biserică catolică modernă în St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "O biserică dedicată Sfântului Iosif din St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Kapelle des Priesterseminars",
+                  "text": "Capela din cadrul seminarului teologic din St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.628592,
+                        48.204438
+                  ]
+            },
+            {
+                  "name": "Zwingerturm",
+                  "text": "Un turn istoric al fostei fortificații a orașului St. Pölten.",
+                  "category": "tower",
+                  "coords": [
+                        15.627743,
+                        48.202625
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "Biserica parohială catolică din cartierul Wagram din St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum am Dom",
+                  "text": "The museum presents sacred art within the St. Pölten Cathedral.",
+                  "category": "museum",
+                  "coords": [
+                        15.626639,
+                        48.205539
+                  ]
+            },
+            {
+                  "name": "Museum Niederösterreich",
+                  "text": "The state museum for nature, art, and history in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.631198,
+                        48.200051
+                  ]
+            },
+            {
+                  "name": "Ehemalige Synagoge",
+                  "text": "The former synagogue now serves as a cultural center and memorial.",
+                  "category": "museum",
+                  "coords": [
+                        15.628742,
+                        48.202499
+                  ]
+            },
+            {
+                  "name": "KinderKunstLabor",
+                  "text": "An innovative exhibition space for contemporary art in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.62793,
+                        48.201275
+                  ]
+            },
+            {
+                  "name": "Stadtmuseum",
+                  "text": "The museum documents the history of the city of St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.622489,
+                        48.204183
+                  ]
+            },
+            {
+                  "name": "Ausstellungsbrücke",
+                  "text": "An exhibition space in the Landhaus district of St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.633168,
+                        48.201113
+                  ]
+            },
+            {
+                  "name": "Kleiner Saal",
+                  "text": "A smaller theater hall for intimate performances in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.630796,
+                        48.201125
+                  ]
+            },
+            {
+                  "name": "Theaterwerkstatt",
+                  "text": "An experimental theater space in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621674,
+                        48.2056
+                  ]
+            },
+            {
+                  "name": "Hofbühne",
+                  "text": "A stage for theater and cabaret performances in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625929,
+                        48.184449
+                  ]
+            },
+            {
+                  "name": "Theater des Ballets",
+                  "text": "A theater in St. Pölten dedicated to dance and ballet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.651112,
+                        48.207381
+                  ]
+            },
+            {
+                  "name": "Sommerbad \"Citysplash\"",
+                  "text": "A popular outdoor pool with water attractions in St. Pölten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.627051,
+                        48.195413
+                  ]
+            },
+            {
+                  "name": "AquaCity",
+                  "text": "A modern indoor pool and wellness center in St. Pölten.",
+                  "category": "recreational",
+                  "coords": [
+                        15.619865,
+                        48.205146
+                  ]
+            },
+            {
+                  "name": "Bühne im Hof",
+                  "text": "A venue for cultural events and music in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621533,
+                        48.2032
+                  ]
+            },
+            {
+                  "name": "Künstmühle",
+                  "text": "A cultural center located in a former mill in St. Pölten.",
+                  "category": "cultural",
+                  "coords": [
+                        15.629715,
+                        48.205596
+                  ]
+            },
+            {
+                  "name": "Kalvarienberg",
+                  "text": "A religious memorial site with Stations of the Cross in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.612106,
+                        48.199954
+                  ]
+            },
+            {
+                  "name": "Passauer Wolf",
+                  "text": "A historical monument in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.632063,
+                        48.204207
+                  ]
+            },
+            {
+                  "name": "Kaiser-Franz-Joseph-Denkmal",
+                  "text": "A monument honoring Emperor Franz Joseph I in St. Pölten.",
+                  "category": "historical",
+                  "coords": [
+                        15.634082,
+                        48.20205
+                  ]
+            },
+            {
+                  "name": "Hippolyt & Töchter",
+                  "text": "A gallery for contemporary art in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.626055,
+                        48.204055
+                  ]
+            },
+            {
+                  "name": "Galeria mobile",
+                  "text": "A small, mobile art gallery in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.636666,
+                        48.22342
+                  ]
+            },
+            {
+                  "name": "ISB Hofmann",
+                  "text": "An art exhibition space in St. Pölten.",
+                  "category": "museum",
+                  "coords": [
+                        15.625045,
+                        48.20454
+                  ]
+            },
+            {
+                  "name": "Food Art Gallery",
+                  "text": "A gallery combining art and culinary themes.",
+                  "category": "museum",
+                  "coords": [
+                        15.627548,
+                        48.204677
+                  ]
+            },
+            {
+                  "name": "Tiergehege",
+                  "text": "A small enclosure with local animals in St. Pölten.",
+                  "category": "landmark",
+                  "coords": [
+                        15.610008,
+                        48.203477
+                  ]
+            },
+            {
+                  "name": "Altes Forum-Kino",
+                  "text": "A former cinema, now used for cultural purposes.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623638,
+                        48.195311
+                  ]
+            },
+            {
+                  "name": "Flederhaus",
+                  "text": "A distinctive wooden viewpoint in St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.61584,
+                        48.20859
+                  ]
+            },
+            {
+                  "name": "Eisbergspitze",
+                  "text": "A viewpoint offering views over St. Pölten.",
+                  "category": "natural",
+                  "coords": [
+                        15.607305,
+                        48.204359
+                  ]
+            },
+            {
+                  "name": "Pfarre St.Pölten-Maria Lourdes KH",
+                  "text": "The hospital chapel within the St. Pölten University Hospital.",
+                  "category": "religious",
+                  "coords": [
+                        15.626466,
+                        48.214104
+                  ]
+            },
+            {
+                  "name": "Millenniumskirche",
+                  "text": "A modern church building in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.638877,
+                        48.18291
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "A significant Baroque church in the city center of St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.623097,
+                        48.205852
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "A church built in the Neo-Gothic style in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.623136,
+                        48.201877
+                  ]
+            },
+            {
+                  "name": "St. Johannes Kapistran",
+                  "text": "A modern Catholic church in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.62207,
+                        48.188276
+                  ]
+            },
+            {
+                  "name": "Josefskirche",
+                  "text": "A church dedicated to St. Joseph in St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.621851,
+                        48.195598
+                  ]
+            },
+            {
+                  "name": "Kapelle des Priesterseminars",
+                  "text": "The chapel within the St. Pölten seminary.",
+                  "category": "religious",
+                  "coords": [
+                        15.628592,
+                        48.204438
+                  ]
+            },
+            {
+                  "name": "Zwingerturm",
+                  "text": "A historic tower of the former city fortifications of St. Pölten.",
+                  "category": "tower",
+                  "coords": [
+                        15.627743,
+                        48.202625
+                  ]
+            },
+            {
+                  "name": "Pfarre St. Michael Wagram",
+                  "text": "The Catholic parish church in the Wagram district of St. Pölten.",
+                  "category": "religious",
+                  "coords": [
+                        15.650087,
+                        48.20499
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-3", coords: [15.6333, 48.2],
     name: { de: "St. Pölten", hu: "St. Pölten", ro: "St. Pölten", en: "St. Pölten" },
     image: "/geo-images/austria/st-p-lten.webp",
     description: { de: "St. Pölten, die charmante Hauptstadt Niederösterreichs, blickt auf eine faszinierende Geschichte als eine der ältesten Städte Österreichs zurück. Gleichzeitig ist sie die jüngste Landeshauptstadt, da sie diesen Titel erst 1986 von Wien übernahm. Die Stadt präsentiert einen spannenden architektonischen Mix: Während die historische Altstadt mit prachtvollen barocken Bauwerken, romantischen Plätzen und einem eindrucksvollen Dom glänzt, symbolisiert das Regierungsviertel mit seiner modernen, avantgardistischen Architektur den Aufbruch in die Zukunft. Eingebettet in das fruchtbare Alpenvorland und nah an der Wachau gelegen, ist St. Pölten ein aufstrebendes kulturelles Zentrum, das durch das renommierte Festspielhaus und eine lebendige Veranstaltungsszene bereichert wird.", hu: "St. Pölten, Alsó-Ausztria bájos fővárosa, Ausztria egyik legrégebbi városaként lenyűgöző történelemre tekinthet vissza. Ugyanakkor ez a legfiatalabb tartományi főváros is, hiszen ezt a címet csak 1986-ban vette át Bécstől. A város izgalmas építészeti keveréket mutat be: míg a történelmi óváros pompás barokk épületekkel, romantikus terekkel és egy lenyűgöző dóm épületével büszkélkedhet, addig a kormányzati negyed modern, avantgárd építészetével a jövőbe való indulást szimbolizálja. A termékeny Alpokalján, a Wachau közelében fekvő St. Pölten egy feltörekvő kulturális központ, amelyet a híres Festspielhaus (Fesztiválpalota) és az élénk rendezvényi élet is gazdagít.", ro: "St. Pölten, fermecătoarea capitală a Austriei Inferioare, are o istorie fascinantă fiind unul dintre cele mai vechi orașe din Austria. În același timp, este cea mai tânără capitală de stat, preluând acest titlu de la Viena abia în 1986. Orașul prezintă un mix arhitectural captivant: în timp ce centrul istoric strălucește cu clădiri baroce magnifice, piețe romantice și o catedrală impresionantă, cartierul guvernamental, cu arhitectura sa modernă, de avangardă, simbolizează un salt spre viitor. Situat la poalele fertile ale Alpilor și aproape de regiunea Wachau, St. Pölten este un centru cultural în plină ascensiune, îmbogățit de renumita Festspielhaus (Sala de Festivaluri) și de o scenă de evenimente vibrantă.", en: "St. Pölten, the charming capital of Lower Austria, looks back on a fascinating history as one of the oldest cities in Austria. At the same time, it is the youngest state capital, having only taken over this title from Vienna in 1986. The city presents an exciting architectural mix: while the historic old town shines with magnificent Baroque buildings, romantic squares, and an impressive cathedral, the government district, with its modern, avant-garde architecture, symbolizes a leap into the future. Nestled in the fertile Alpine foothills and located close to the Wachau, St. Pölten is an emerging cultural center, enriched by the renowned Festspielhaus and a vibrant events scene." , es: "St. Pölten, la encantadora capital de la Baja Austria, tiene una historia fascinante como una de las ciudades más antiguas de Austria. Al mismo tiempo, es la capital estatal más joven, ya que no asumió este título de Viena hasta 1986. La ciudad presenta una emocionante mezcla arquitectónica: mientras que el casco antiguo histórico brilla con magníficos edificios barrocos, plazas románticas y una impresionante catedral, el barrio gubernamental simboliza la entrada en el futuro con su arquitectura moderna y vanguardista. Enclavada en las fértiles estribaciones de los Alpes y cerca de la Wachau, St. Pölten es un centro cultural emergente, enriquecido por el renombrado Festspielhaus y una animada escena de eventos.", pt: "St. Pölten, a encantadora capital da Baixa Áustria, recorda uma história fascinante como uma das cidades mais antigas da Áustria. Ao mesmo tempo, é a capital provincial mais jovem, tendo assumido este título de Viena apenas em 1986. A cidade apresenta uma mistura arquitetónica emocionante: enquanto o centro histórico brilha com magníficos edifícios barrocos, praças românticas e uma catedral impressionante, o bairro governamental simboliza o início do futuro com a sua arquitetura moderna e vanguardista. Inserida no fértil sopé dos Alpes e situada perto de Wachau, St. Pölten é um centro cultural emergente, enriquecido pelo renomeado Festspielhaus e por uma cena de eventos vibrante.", fr: "St. Pölten, la charmante capitale de la Basse-Autriche, s'appuie sur une histoire fascinante en tant qu'une des plus anciennes villes d'Autriche. Parallèlement, elle est la capitale provinciale la plus jeune, n'ayant repris ce titre à Vienne qu'en 1986. La ville présente un mélange architectural passionnant : alors que la vieille ville historique brille par ses magnifiques édifices baroques, ses places romantiques et son impressionnante cathédrale, le quartier du gouvernement symbolise le départ vers l'avenir avec son architecture moderne et avant-gardiste. Nichée dans les contreforts fertiles des Alpes et située à proximité de la Wachau, St. Pölten est un centre culturel émergent, enrichi par le célèbre Festspielhaus et une scène événementielle animée."},
@@ -1070,7 +11825,628 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Kitzbuehel", type: "city", parent: "AT-7", coords: [12.3925, 47.4461],
+    id: "AT-Kitzbuehel", "sights": {
+      "de": [
+            {
+                  "name": "Museum Kitzbühel",
+                  "text": "Das Museum Kitzbühel ist ein bekanntes städtisches Museum für lokale Geschichte in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.391397,
+                        47.445558
+                  ]
+            },
+            {
+                  "name": "Bauernhausmuseum Hinterobernau",
+                  "text": "Das Bauernhausmuseum Hinterobernau ist ein Museum in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.391718,
+                        47.463983
+                  ]
+            },
+            {
+                  "name": "Strandbad Schwarzsee",
+                  "text": "Das Strandbad Schwarzsee ist ein Wasserpark und eine Badeanlage in Kitzbühel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.366308,
+                        47.45569
+                  ]
+            },
+            {
+                  "name": "Krampusmuseum",
+                  "text": "Das Krampusmuseum ist ein lokales Museum in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.398745,
+                        47.444285
+                  ]
+            },
+            {
+                  "name": "Hallenbad - Aquarena",
+                  "text": "Das Hallenbad - Aquarena ist ein Wasserpark und Hallenbad in Kitzbühel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.389026,
+                        47.444856
+                  ]
+            },
+            {
+                  "name": "Amphitheater Schloss Kaps",
+                  "text": "Das Amphitheater Schloss Kaps ist ein Theater in Kitzbühel.",
+                  "category": "cultural",
+                  "coords": [
+                        12.4017,
+                        47.442537
+                  ]
+            },
+            {
+                  "name": "Lebenberg",
+                  "text": "Der Lebenberg ist ein Berggipfel in Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.379941,
+                        47.455999
+                  ]
+            },
+            {
+                  "name": "Fotomotiv Schwarzsee",
+                  "text": "Das Fotomotiv Schwarzsee ist ein malerischer Aussichtspunkt in Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.369821,
+                        47.454012
+                  ]
+            },
+            {
+                  "name": "Zeitkunstgalerie",
+                  "text": "Die Zeitkunstgalerie ist eine Kunstgalerie in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.394884,
+                        47.445206
+                  ]
+            },
+            {
+                  "name": "Paradiesgarten",
+                  "text": "Der Paradiesgarten ist eine Sehenswürdigkeit in Kitzbühel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.36486,
+                        47.457518
+                  ]
+            },
+            {
+                  "name": "Lebenbergblick",
+                  "text": "Der Lebenbergblick ist ein Aussichtspunkt in Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.386295,
+                        47.450813
+                  ]
+            },
+            {
+                  "name": "Pigneter",
+                  "text": "Pigneter ist eine Kunstgalerie in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.392416,
+                        47.446365
+                  ]
+            },
+            {
+                  "name": "Alfons Walde",
+                  "text": "Alfons Walde ist ein Denkmal in Kitzbühel.",
+                  "category": "historical",
+                  "coords": [
+                        12.388779,
+                        47.448147
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Die Franziskanerkirche ist ein Gotteshaus in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.391106,
+                        47.444378
+                  ]
+            },
+            {
+                  "name": "Evangelische Christuskirche",
+                  "text": "Die Evangelische Christuskirche ist ein Gotteshaus in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.393769,
+                        47.451374
+                  ]
+            },
+            {
+                  "name": "Pocherkapelle",
+                  "text": "Die Pocherkapelle ist ein Gotteshaus in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.388348,
+                        47.452975
+                  ]
+            },
+            {
+                  "name": "Tennerhofkapelle",
+                  "text": "Die Tennerhofkapelle ist ein lokales Gotteshaus in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.396534,
+                        47.454344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Kitzbühel",
+                  "text": "A Museum Kitzbühel egy helytörténetre fókuszáló ismert városi múzeum Kitzbühelben.",
+                  "category": "museum",
+                  "coords": [
+                        12.391397,
+                        47.445558
+                  ]
+            },
+            {
+                  "name": "Bauernhausmuseum Hinterobernau",
+                  "text": "A Bauernhausmuseum Hinterobernau egy múzeum Kitzbühel városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.391718,
+                        47.463983
+                  ]
+            },
+            {
+                  "name": "Strandbad Schwarzsee",
+                  "text": "A Strandbad Schwarzsee egy élményfürdő és strand Kitzbühelben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.366308,
+                        47.45569
+                  ]
+            },
+            {
+                  "name": "Krampusmuseum",
+                  "text": "A Krampusmuseum egy múzeum Kitzbühel városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.398745,
+                        47.444285
+                  ]
+            },
+            {
+                  "name": "Hallenbad - Aquarena",
+                  "text": "A Hallenbad - Aquarena egy élményfürdő és fedett uszoda Kitzbühelben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.389026,
+                        47.444856
+                  ]
+            },
+            {
+                  "name": "Amphitheater Schloss Kaps",
+                  "text": "Az Amphitheater Schloss Kaps egy színházi helyszín Kitzbühel városában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.4017,
+                        47.442537
+                  ]
+            },
+            {
+                  "name": "Lebenberg",
+                  "text": "A Lebenberg egy hegycsúcs Kitzbühel területén.",
+                  "category": "natural",
+                  "coords": [
+                        12.379941,
+                        47.455999
+                  ]
+            },
+            {
+                  "name": "Fotomotiv Schwarzsee",
+                  "text": "A Fotomotiv Schwarzsee egy festői kilátóhely Kitzbühel városában.",
+                  "category": "natural",
+                  "coords": [
+                        12.369821,
+                        47.454012
+                  ]
+            },
+            {
+                  "name": "Zeitkunstgalerie",
+                  "text": "A Zeitkunstgalerie egy művészeti galéria Kitzbühel városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.394884,
+                        47.445206
+                  ]
+            },
+            {
+                  "name": "Paradiesgarten",
+                  "text": "A Paradiesgarten egy turisztikai látványosság Kitzbühelben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.36486,
+                        47.457518
+                  ]
+            },
+            {
+                  "name": "Lebenbergblick",
+                  "text": "A Lebenbergblick egy kilátóhely Kitzbühel városában.",
+                  "category": "natural",
+                  "coords": [
+                        12.386295,
+                        47.450813
+                  ]
+            },
+            {
+                  "name": "Pigneter",
+                  "text": "A Pigneter egy művészeti galéria Kitzbühelben.",
+                  "category": "museum",
+                  "coords": [
+                        12.392416,
+                        47.446365
+                  ]
+            },
+            {
+                  "name": "Alfons Walde",
+                  "text": "Az Alfons Walde egy emlékmű Kitzbühel városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.388779,
+                        47.448147
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "A Franziskanerkirche egy istentiszteleti hely Kitzbühel városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.391106,
+                        47.444378
+                  ]
+            },
+            {
+                  "name": "Evangelische Christuskirche",
+                  "text": "Az Evangelische Christuskirche egy istentiszteleti hely Kitzbühel városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.393769,
+                        47.451374
+                  ]
+            },
+            {
+                  "name": "Pocherkapelle",
+                  "text": "A Pocherkapelle egy istentiszteleti hely Kitzbühel városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.388348,
+                        47.452975
+                  ]
+            },
+            {
+                  "name": "Tennerhofkapelle",
+                  "text": "A Tennerhofkapelle egy helyi istentiszteleti hely Kitzbühel városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.396534,
+                        47.454344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Kitzbühel",
+                  "text": "Museum Kitzbühel este un muzeu local bine-cunoscut axat pe istoria orașului Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.391397,
+                        47.445558
+                  ]
+            },
+            {
+                  "name": "Bauernhausmuseum Hinterobernau",
+                  "text": "Bauernhausmuseum Hinterobernau este un muzeu situat în Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.391718,
+                        47.463983
+                  ]
+            },
+            {
+                  "name": "Strandbad Schwarzsee",
+                  "text": "Strandbad Schwarzsee este un parc acvatic și o zonă de înot în Kitzbühel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.366308,
+                        47.45569
+                  ]
+            },
+            {
+                  "name": "Krampusmuseum",
+                  "text": "Krampusmuseum este un muzeu situat în Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.398745,
+                        47.444285
+                  ]
+            },
+            {
+                  "name": "Hallenbad - Aquarena",
+                  "text": "Hallenbad - Aquarena este un parc acvatic și bazin acoperit în Kitzbühel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.389026,
+                        47.444856
+                  ]
+            },
+            {
+                  "name": "Amphitheater Schloss Kaps",
+                  "text": "Amphitheater Schloss Kaps este un teatru situat în Kitzbühel.",
+                  "category": "cultural",
+                  "coords": [
+                        12.4017,
+                        47.442537
+                  ]
+            },
+            {
+                  "name": "Lebenberg",
+                  "text": "Lebenberg este un vârf montan situat în Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.379941,
+                        47.455999
+                  ]
+            },
+            {
+                  "name": "Fotomotiv Schwarzsee",
+                  "text": "Fotomotiv Schwarzsee este un punct de belvedere pitoresc în Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.369821,
+                        47.454012
+                  ]
+            },
+            {
+                  "name": "Zeitkunstgalerie",
+                  "text": "Zeitkunstgalerie funcționează ca o galerie de artă în orașul Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.394884,
+                        47.445206
+                  ]
+            },
+            {
+                  "name": "Paradiesgarten",
+                  "text": "Paradiesgarten este o atracție turistică aflată în Kitzbühel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.36486,
+                        47.457518
+                  ]
+            },
+            {
+                  "name": "Lebenbergblick",
+                  "text": "Lebenbergblick este un punct de belvedere situat în Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.386295,
+                        47.450813
+                  ]
+            },
+            {
+                  "name": "Pigneter",
+                  "text": "Pigneter este o galerie de artă situată în Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.392416,
+                        47.446365
+                  ]
+            },
+            {
+                  "name": "Alfons Walde",
+                  "text": "Alfons Walde este un monument situat în Kitzbühel.",
+                  "category": "historical",
+                  "coords": [
+                        12.388779,
+                        47.448147
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Franziskanerkirche este un lăcaș de cult situat în Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.391106,
+                        47.444378
+                  ]
+            },
+            {
+                  "name": "Evangelische Christuskirche",
+                  "text": "Evangelische Christuskirche este un lăcaș de cult situat în Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.393769,
+                        47.451374
+                  ]
+            },
+            {
+                  "name": "Pocherkapelle",
+                  "text": "Pocherkapelle este un lăcaș de cult aflat în Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.388348,
+                        47.452975
+                  ]
+            },
+            {
+                  "name": "Tennerhofkapelle",
+                  "text": "Tennerhofkapelle este un lăcaș de cult local din Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.396534,
+                        47.454344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Kitzbühel",
+                  "text": "Museum Kitzbühel is a well-known museum focusing on local history and culture in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.391397,
+                        47.445558
+                  ]
+            },
+            {
+                  "name": "Bauernhausmuseum Hinterobernau",
+                  "text": "Bauernhausmuseum Hinterobernau is a museum situated in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.391718,
+                        47.463983
+                  ]
+            },
+            {
+                  "name": "Strandbad Schwarzsee",
+                  "text": "Strandbad Schwarzsee is a water park and swimming facility in Kitzbühel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.366308,
+                        47.45569
+                  ]
+            },
+            {
+                  "name": "Krampusmuseum",
+                  "text": "Krampusmuseum is a dedicated museum located in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.398745,
+                        47.444285
+                  ]
+            },
+            {
+                  "name": "Hallenbad - Aquarena",
+                  "text": "Hallenbad - Aquarena is a water park and indoor swimming center in Kitzbühel.",
+                  "category": "recreational",
+                  "coords": [
+                        12.389026,
+                        47.444856
+                  ]
+            },
+            {
+                  "name": "Amphitheater Schloss Kaps",
+                  "text": "Amphitheater Schloss Kaps is a theatre venue situated in Kitzbühel.",
+                  "category": "cultural",
+                  "coords": [
+                        12.4017,
+                        47.442537
+                  ]
+            },
+            {
+                  "name": "Lebenberg",
+                  "text": "Lebenberg is a prominent peak located in Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.379941,
+                        47.455999
+                  ]
+            },
+            {
+                  "name": "Fotomotiv Schwarzsee",
+                  "text": "Fotomotiv Schwarzsee is a scenic viewpoint located in Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.369821,
+                        47.454012
+                  ]
+            },
+            {
+                  "name": "Zeitkunstgalerie",
+                  "text": "Zeitkunstgalerie operates as an art gallery in the city of Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.394884,
+                        47.445206
+                  ]
+            },
+            {
+                  "name": "Paradiesgarten",
+                  "text": "Paradiesgarten is a tourist attraction found in Kitzbühel.",
+                  "category": "landmark",
+                  "coords": [
+                        12.36486,
+                        47.457518
+                  ]
+            },
+            {
+                  "name": "Lebenbergblick",
+                  "text": "Lebenbergblick is a viewpoint offering scenic sights in Kitzbühel.",
+                  "category": "natural",
+                  "coords": [
+                        12.386295,
+                        47.450813
+                  ]
+            },
+            {
+                  "name": "Pigneter",
+                  "text": "Pigneter is an art gallery located in Kitzbühel.",
+                  "category": "museum",
+                  "coords": [
+                        12.392416,
+                        47.446365
+                  ]
+            },
+            {
+                  "name": "Alfons Walde",
+                  "text": "Alfons Walde is a monument dedicated to a notable figure in Kitzbühel.",
+                  "category": "historical",
+                  "coords": [
+                        12.388779,
+                        47.448147
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Franziskanerkirche is a place of worship located in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.391106,
+                        47.444378
+                  ]
+            },
+            {
+                  "name": "Evangelische Christuskirche",
+                  "text": "Evangelische Christuskirche is a place of worship situated in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.393769,
+                        47.451374
+                  ]
+            },
+            {
+                  "name": "Pocherkapelle",
+                  "text": "Pocherkapelle is a place of worship found in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.388348,
+                        47.452975
+                  ]
+            },
+            {
+                  "name": "Tennerhofkapelle",
+                  "text": "Tennerhofkapelle is a local place of worship situated in Kitzbühel.",
+                  "category": "religious",
+                  "coords": [
+                        12.396534,
+                        47.454344
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-7", coords: [12.3925, 47.4461],
     name: { de: "Kitzbühel", hu: "Kitzbühel", ro: "Kitzbühel", en: "Kitzbühel" },
     image: "/geo-images/austria/kitzb-hel.webp",
     description: {"de":"Kitzbühel in Tirol ist zweifellos einer der exklusivsten und prestigeträchtigsten Wintersportorte der Alpen. Weltweite Berühmtheit erlangt die Stadt alljährlich durch das legendäre Hahnenkammrennen, bei dem sich Skirennläufer die furchteinflößende 'Streif' hinabstürzen. Das charmante mittelalterliche Stadtzentrum mit seinen farbenfrohen Häusern, edlen Boutiquen und exzellenten Restaurants zieht ein internationales Jetset-Publikum an. Doch auch im Sommer ist 'Kitz', eingebettet zwischen dem Wilden Kaiser und dem Kitzbüheler Horn, ein Naturparadies für Wanderer, Mountainbiker und Golfer, das luxuriösen Lebensstil mit authentischer Tiroler Tradition verbindet.","hu":"A tiroli Kitzbühel kétségtelenül az Alpok egyik legexkluzívabb és legrangosabb téli sportközpontja. A város minden évben a legendás Hahnenkamm-verseny révén szerez világhírnevet, ahol a sízők a félelmetes 'Streif' nevű pályán száguldanak le. A bájos középkori városközpont színes házaival, elegáns butikjaival és kiváló éttermeivel nemzetközi jet-set közönséget vonz. Azonban nyáron is, a Wilder Kaiser és a Kitzbüheler Horn közé beékelődve, 'Kitz' egy természeti paradicsom a túrázók, hegyikerékpárosok és golfozók számára, amely a luxus életmódot az autentikus tiroli hagyományokkal ötvözi.","ro":"Kitzbühel, situat în Tirol, este, fără îndoială, una dintre cele mai exclusiviste și prestigioase stațiuni de sporturi de iarnă din Alpi. Orașul câștigă faimă la nivel mondial în fiecare an prin legendara cursă Hahnenkamm, unde schiorii se avântă pe terifianta pârtie „Streif”. Fermecătorul centru medieval al orașului, cu casele sale colorate, buticurile de lux și restaurantele excelente, atrage un public internațional din înalta societate. Cu toate acestea, și vara, „Kitz”, situat între Wilder Kaiser și Kitzbüheler Horn, este un paradis natural pentru drumeți, cicliști montani și jucători de golf, combinând un stil de viață luxos cu tradiția tiroleză autentică.","en":"Kitzbühel in Tyrol is undoubtedly one of the most exclusive and prestigious winter sports resorts in the Alps. The town gains worldwide fame every year through the legendary Hahnenkamm race, where ski racers hurl themselves down the terrifying 'Streif' piste. The charming medieval town center with its colorful houses, fine boutiques, and excellent restaurants attracts an international jet-set crowd. However, even in summer, 'Kitz', nestled between the Wilder Kaiser and the Kitzbüheler Horn, is a natural paradise for hikers, mountain bikers, and golfers, combining a luxurious lifestyle with authentic Tyrolean tradition.", es: "Kitzbühel, en el Tirol, es sin duda uno de los destinos de deportes de invierno más exclusivos y prestigiosos de los Alpes. La ciudad gana fama mundial cada año por la legendaria carrera de Hahnenkamm, donde los esquiadores se lanzan por la temible pista 'Streif'. El encantador centro medieval, con sus casas coloridas, boutiques elegantes y excelentes restaurantes, atrae a un público internacional del jet set. Pero también en verano, 'Kitz', enclavada entre el Wilder Kaiser y el Kitzbüheler Horn, es un paraíso natural para senderistas, ciclistas de montaña y golfistas, que combina un estilo de vida lujoso con la auténtica tradición tirolesa.", pt: "Kitzbühel, no Tirol, é sem dúvida uma das estâncias de desportos de inverno mais exclusivas e prestigiadas dos Alpes. A cidade ganha fama mundial todos os anos com a lendária corrida de Hahnenkamm, onde os esquiadores se lançam pela temível pista 'Streif'. O encantador centro medieval da cidade, com as suas casas coloridas, boutiques sofisticadas e excelentes restaurantes, atrai um público internacional do jet set. No entanto, também no verão, 'Kitz', situada entre o Wilder Kaiser e o Kitzbüheler Horn, é um paraíso natural para caminhantes, ciclistas de montanha e golfistas, combinando um estilo de vida luxuoso com a autêntica tradição tirolesa.", fr: "Kitzbühel, au Tyrol, est sans conteste l'une des stations de sports d'hiver les plus exclusives et les plus prestigieuses des Alpes. La ville acquiert une renommée mondiale chaque année grâce à la légendaire course du Hahnenkamm, où les skieurs dévalent la redoutable 'Streif'. Le charmant centre-ville médiéval, avec ses maisons colorées, ses boutiques de luxe et ses excellents restaurants, attire une clientèle internationale de la jet-set. Mais en été aussi, 'Kitz', nichée entre le Wilder Kaiser et le Kitzbüheler Horn, est un paradis naturel pour les randonneurs, les vététistes et les golfeurs, alliant un style de vida luxueux à l'authentique tradition tyrolienne."}, facts: {"de":["Das Hahnenkammrennen auf der Streif gilt als eines der schwersten Skirennen der Welt.","Die Altstadt Kitzbühels ist über 700 Jahre alt.","Ist ein bekannter Treffpunkt der internationalen High Society.","Die Region bietet 233 km abwechslungsreiche Skipisten.","Das Kitzbüheler Horn ist ein markanter Berggipfel und beliebtes Ausflugsziel.","Der Schwarzsee nahe der Stadt ist ein beliebter warmer Moorsee.","Der österreichische Skistar Toni Sailer stammt aus Kitzbühel.","Die Stadt ist auch ein Zentrum für Tennisturniere (Generali Open).","Verfügt über mehrere hochkarätige Golfplätze inmitten der Berge.","Wird liebevoll einfach 'Kitz' genannt."],"hu":["A Streifen rendezett Hahnenkamm-versenyt a világ egyik legnehezebb síversenyének tartják.","Kitzbühel óvárosa több mint 700 éves.","A nemzetközi felső tízezer (High Society) ismert találkozóhelye.","A régió 233 km változatos sípályát kínál.","A Kitzbüheler Horn egy markáns hegycsúcs és népszerű kirándulóhely.","A város közelében lévő Schwarzsee (Fekete-tó) egy kedvelt, meleg vizű láptó.","Toni Sailer osztrák síbajnok Kitzbühelből származik.","A város tenisztornák központja is (Generali Open).","Több rangos golfpályával is rendelkezik a hegyek között.","Szeretetteljesen egyszerűen csak 'Kitz'-nek hívják."],"ro":["Cursa Hahnenkamm de pe pârtia Streif este considerată una dintre cele mai dificile curse de schi din lume.","Orașul vechi din Kitzbühel are o vechime de peste 700 de ani.","Este un loc de întâlnire binecunoscut pentru înalta societate internațională.","Regiunea oferă 233 km de pârtii de schi variate.","Kitzbüheler Horn este un vârf montan proeminent și o destinație populară pentru excursii.","Lacul Schwarzsee de lângă oraș este un lac de mlaștină popular și cald.","Starul austriac al schiului Toni Sailer este din Kitzbühel.","Orașul este, de asemenea, un centru pentru turnee de tenis (Generali Open).","Dispune de mai multe terenuri de golf de top în mijlocul munților.","Este adesea numit cu afecțiune pur și simplu 'Kitz'."],"en":["The Hahnenkamm race on the Streif is considered one of the toughest ski races in the world.","The old town of Kitzbühel is over 700 years old.","It is a well-known meeting place for international high society.","The region offers 233 km of varied ski slopes.","The Kitzbüheler Horn is a prominent mountain peak and popular excursion destination.","The Schwarzsee near the town is a popular warm moor lake.","The Austrian ski star Toni Sailer hails from Kitzbühel.","The town is also a center for tennis tournaments (Generali Open).","Features several top-class golf courses amidst the mountains.","Is affectionately referred to simply as 'Kitz'."], es: ["La carrera de Hahnenkamm en la Streif se considera una de las más difíciles del mundo.", "El casco antiguo de Kitzbühel tiene más de 700 años.", "Es un conocido punto de encuentro de la alta sociedad internacional.", "La región ofrece 233 km de variadas pistas de esquí.", "El Kitzbüheler Horn es una cima prominente y un destino de excursión popular.", "El Schwarzsee, cerca de la ciudad, es un popular y cálido lago de turbera.", "La estrella del esquí austriaco Toni Sailer era originario de Kitzbühel.", "La ciudad es también un centro para torneos de tenis (Generali Open).", "Cuenta con varios campos de golf de alto nivel en medio de las montañas.", "Se le llama cariñosamente simplemente 'Kitz'."], pt: ["A corrida de Hahnenkamm na Streif é considerada uma das corridas de esqui mais difíceis do mundo.", "O centro histórico de Kitzbühel tem mais de 700 anos.", "É um ponto de encontro conhecido da alta sociedade internacional.", "A região oferece 233 km de pistas de esqui variadas.", "O Kitzbüheler Horn é um pico de montanha marcante e um destino de excursão popular.", "O Schwarzsee, perto da cidade, é um popular lago de turfeira quente.", "A estrela do esqui austríaco Toni Sailer é natural de Kitzbühel.", "A cidade é também um centro para torneios de ténis (Generali Open).", "Dispõe de vários campos de golfe de alto nível no meio das montanhas.", "É carinhosamente chamada apenas de 'Kitz'."], fr: ["La course du Hahnenkamm sur la Streif est considérée como l'une des courses de ski les plus difficiles au monde.", "La vieille ville de Kitzbühel a plus de 700 ans.", "C'est un lieu de rendez-vous célèbre de la haute société internationale.", "La région offre 233 km de pistes de ski variées.", "Le Kitzbüheler Horn est un sommet montagneux remarquable et un but d'excursion prisé.", "Le Schwarzsee, à proximité de la ville, est un lac de tourbière chaud très apprécié.", "La star autrichienne du ski Toni Sailer est originaire de Kitzbühel.", "La ville est également un centre pour les tournois de tennis (Generali Open).", "Dispose de plusieurs terrains de golf de haut niveau au cœur des montagnes.", "Est affectueusement surnommée simplement 'Kitz'."]},
@@ -1112,7 +12488,952 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Hallstatt", type: "city", parent: "AT-4", coords: [13.6493, 47.5622],
+    id: "AT-Hallstatt", "sights": {
+      "de": [
+            {
+                  "name": "Gräberfeld",
+                  "text": "Das Gräberfeld in Hallstatt ist eine weltberühmte archäologische Fundstätte der frühen Eisenzeit.",
+                  "category": "historical",
+                  "coords": [
+                        13.641061,
+                        47.56125
+                  ]
+            },
+            {
+                  "name": "Schloss Grub",
+                  "text": "Schloss Grub ist ein historisches Schloss am Ostufer des Hallstätter Sees.",
+                  "category": "castle",
+                  "coords": [
+                        13.664047,
+                        47.562258
+                  ]
+            },
+            {
+                  "name": "Welterbemuseum Hallstatt",
+                  "text": "Das Welterbemuseum Hallstatt präsentiert die faszinierende 7000-jährige Geschichte des Ortes.",
+                  "category": "museum",
+                  "coords": [
+                        13.648979,
+                        47.561919
+                  ]
+            },
+            {
+                  "name": "Salzwelten Hallstatt",
+                  "text": "Die Salzwelten Hallstatt sind das älteste Salzbergwerk der Welt und heute ein Besucherbergwerk.",
+                  "category": "museum",
+                  "coords": [
+                        13.645287,
+                        47.556072
+                  ]
+            },
+            {
+                  "name": "Schaugrab",
+                  "text": "Das Schaugrab in Hallstatt bietet Einblicke in die archäologischen Ausgrabungen und Bestattungsriten.",
+                  "category": "museum",
+                  "coords": [
+                        13.642053,
+                        47.560449
+                  ]
+            },
+            {
+                  "name": "Schneidkogel",
+                  "text": "Der Schneidkogel ist ein Berggipfel bei Hallstatt, der Wanderern einen Blick auf das Dachsteinmassiv bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.636512,
+                        47.574895
+                  ]
+            },
+            {
+                  "name": "Hirlatzhöhle",
+                  "text": "Die Hirlatzhöhle ist eines der längsten Höhlensysteme Österreichs und befindet sich im Dachsteinmassiv.",
+                  "category": "natural",
+                  "coords": [
+                        13.630953,
+                        47.544975
+                  ]
+            },
+            {
+                  "name": "Vorderer Hirlatz",
+                  "text": "Der Vorderer Hirlatz ist ein markanter Gipfel im Dachsteinmassiv oberhalb von Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.636737,
+                        47.537884
+                  ]
+            },
+            {
+                  "name": "Gosaueck",
+                  "text": "Das Gosaueck ist ein Berggipfel in der Nähe von Hallstatt mit Panoramablick auf die Alpenregion.",
+                  "category": "natural",
+                  "coords": [
+                        13.639798,
+                        47.582277
+                  ]
+            },
+            {
+                  "name": "Hohe Sieg",
+                  "text": "Die Hohe Sieg ist ein Gipfel in der Gebirgswelt um Hallstatt, beliebt bei erfahrenen Wanderern.",
+                  "category": "natural",
+                  "coords": [
+                        13.634595,
+                        47.559778
+                  ]
+            },
+            {
+                  "name": "Hühnerkogel",
+                  "text": "Der Hühnerkogel ist ein Gipfel im Salzkammergut, der für seine alpine Flora und Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        13.635255,
+                        47.571375
+                  ]
+            },
+            {
+                  "name": "Blekarkogel",
+                  "text": "Der Blekarkogel ist ein alpiner Gipfel im Dachsteingebirge in der Nähe von Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.624783,
+                        47.581039
+                  ]
+            },
+            {
+                  "name": "Solingerkogel",
+                  "text": "Der Solingerkogel ist eine Erhebung in der Berglandschaft rund um den Hallstätter See.",
+                  "category": "natural",
+                  "coords": [
+                        13.618866,
+                        47.561191
+                  ]
+            },
+            {
+                  "name": "Hallstätter Marienaltar",
+                  "text": "Der Hallstätter Marienaltar ist ein bedeutendes spätgotisches Kunstwerk in der katholischen Pfarrkirche.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64891,
+                        47.563423
+                  ]
+            },
+            {
+                  "name": "Sechserkogel",
+                  "text": "Der Sechserkogel ist ein Berggipfel in den Kalkalpen bei Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.670177,
+                        47.567218
+                  ]
+            },
+            {
+                  "name": "Goaßerbankerl",
+                  "text": "Das Goaßerbankerl ist ein ruhiger Aussichtspunkt bei Hallstatt, der zum Verweilen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        13.650395,
+                        47.551557
+                  ]
+            },
+            {
+                  "name": "Landbettler",
+                  "text": "Der Landbettler ist ein Denkmal in Hallstatt, das an die lokale Geschichte und Traditionen erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        13.674969,
+                        47.547374
+                  ]
+            },
+            {
+                  "name": "Schergenkogel",
+                  "text": "Der Schergenkogel bietet als Aussichtspunkt einen weiten Blick über Hallstatt und den See.",
+                  "category": "natural",
+                  "coords": [
+                        13.68231,
+                        47.547601
+                  ]
+            },
+            {
+                  "name": "Welterbe-Blick",
+                  "text": "Der World Heritage View ist eine Aussichtsplattform, die einen spektakulären Blick über Hallstatt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.643638,
+                        47.561182
+                  ]
+            },
+            {
+                  "name": "Goiserer Aussicht",
+                  "text": "Die Goiserer Aussicht ist ein beliebter Aussichtspunkt mit Blick auf das Hallstätter Becken.",
+                  "category": "natural",
+                  "coords": [
+                        13.68241,
+                        47.572625
+                  ]
+            },
+            {
+                  "name": "Blick auf Hallstatt",
+                  "text": "Der Blick auf Hallstatt ist ein klassischer Fotopunkt, um das weltberühmte Dorfpanorama einzufangen.",
+                  "category": "natural",
+                  "coords": [
+                        13.650526,
+                        47.554296
+                  ]
+            },
+            {
+                  "name": "Panoramablick auf Hallstatt",
+                  "text": "Der Panoramablick auf Hallstatt bietet eine umfassende Sicht auf den Ort und die umliegende Bergwelt.",
+                  "category": "natural",
+                  "coords": [
+                        13.66314,
+                        47.564724
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Obertraun",
+                  "text": "Die Katholische Kirche Obertraun ist ein schlichtes sakrales Bauwerk am Fuße des Dachsteins.",
+                  "category": "religious",
+                  "coords": [
+                        13.684978,
+                        47.558221
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle II",
+                  "text": "Die Kreuzwegkapelle II ist Teil des historischen Kalvarienbergs in Hallstatt.",
+                  "category": "religious",
+                  "coords": [
+                        13.647777,
+                        47.553612
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche",
+                  "text": "Die Kalvarienbergkirche in Hallstatt ist ein barockes Juwel und Abschluss des Kreuzwegs.",
+                  "category": "religious",
+                  "coords": [
+                        13.648608,
+                        47.552171
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle I",
+                  "text": "Die Kreuzwegkapelle I markiert den Beginn des spirituellen Aufstiegs zum Kalvarienberg in Hallstatt.",
+                  "category": "religious",
+                  "coords": [
+                        13.647472,
+                        47.554774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gräberfeld",
+                  "text": "A hallstatti sírmező a kora vaskor egyik világhírű régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        13.641061,
+                        47.56125
+                  ]
+            },
+            {
+                  "name": "Schloss Grub",
+                  "text": "A Grub-kastély egy történelmi kastély a Hallstatti-tó keleti partján.",
+                  "category": "castle",
+                  "coords": [
+                        13.664047,
+                        47.562258
+                  ]
+            },
+            {
+                  "name": "Welterbemuseum Hallstatt",
+                  "text": "A Hallstatti Világörökségi Múzeum a település lenyűgöző, 7000 éves történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.648979,
+                        47.561919
+                  ]
+            },
+            {
+                  "name": "Salzwelten Hallstatt",
+                  "text": "A hallstatti sóvilág a világ legrégebbi sóbányája, amely ma látogatható bemutatóbányaként működik.",
+                  "category": "museum",
+                  "coords": [
+                        13.645287,
+                        47.556072
+                  ]
+            },
+            {
+                  "name": "Schaugrab",
+                  "text": "A hallstatti bemutató sírhely betekintést nyújt a régészeti ásatásokba és a temetkezési rítusokba.",
+                  "category": "museum",
+                  "coords": [
+                        13.642053,
+                        47.560449
+                  ]
+            },
+            {
+                  "name": "Schneidkogel",
+                  "text": "A Schneidkogel egy hegycsúcs Hallstatt közelében, amely kilátást nyújt a Dachstein-masszívumra.",
+                  "category": "natural",
+                  "coords": [
+                        13.636512,
+                        47.574895
+                  ]
+            },
+            {
+                  "name": "Hirlatzhöhle",
+                  "text": "A Hirlatz-barlang Ausztria egyik leghosszabb barlangrendszere, amely a Dachstein-masszívumban található.",
+                  "category": "natural",
+                  "coords": [
+                        13.630953,
+                        47.544975
+                  ]
+            },
+            {
+                  "name": "Vorderer Hirlatz",
+                  "text": "A Vorderer Hirlatz a Dachstein-masszívum egyik jellegzetes csúcsa Hallstatt felett.",
+                  "category": "natural",
+                  "coords": [
+                        13.636737,
+                        47.537884
+                  ]
+            },
+            {
+                  "name": "Gosaueck",
+                  "text": "A Gosaueck egy hegycsúcs Hallstatt közelében, panorámás kilátással az alpesi régióra.",
+                  "category": "natural",
+                  "coords": [
+                        13.639798,
+                        47.582277
+                  ]
+            },
+            {
+                  "name": "Hohe Sieg",
+                  "text": "A Hohe Sieg egy hegycsúcs Hallstatt környékén, amely népszerű a tapasztalt túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        13.634595,
+                        47.559778
+                  ]
+            },
+            {
+                  "name": "Hühnerkogel",
+                  "text": "A Hühnerkogel a Salzkammergut egyik csúcsa, amely alpesi flórájáról és kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        13.635255,
+                        47.571375
+                  ]
+            },
+            {
+                  "name": "Blekarkogel",
+                  "text": "A Blekarkogel egy alpesi csúcs a Dachstein-hegységben, Hallstatt közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.624783,
+                        47.581039
+                  ]
+            },
+            {
+                  "name": "Solingerkogel",
+                  "text": "A Solingerkogel egy hegycsúcs a Hallstatti-tavat körülölelő hegyvidéken.",
+                  "category": "natural",
+                  "coords": [
+                        13.618866,
+                        47.561191
+                  ]
+            },
+            {
+                  "name": "Hallstätter Marienaltar",
+                  "text": "A hallstatti Mária-oltár a katolikus plébániatemplom egyik jelentős késő gótikus műalkotása.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64891,
+                        47.563423
+                  ]
+            },
+            {
+                  "name": "Sechserkogel",
+                  "text": "A Sechserkogel egy hegycsúcs a hallstatti Mészkő-Alpokban.",
+                  "category": "natural",
+                  "coords": [
+                        13.670177,
+                        47.567218
+                  ]
+            },
+            {
+                  "name": "Goaßerbankerl",
+                  "text": "A Goaßerbankerl egy csendes kilátópont Hallstatt közelében, amely pihenésre hívogat.",
+                  "category": "natural",
+                  "coords": [
+                        13.650395,
+                        47.551557
+                  ]
+            },
+            {
+                  "name": "Landbettler",
+                  "text": "A Landbettler egy emlékmű Hallstattban, amely a helyi történelemre és hagyományokra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        13.674969,
+                        47.547374
+                  ]
+            },
+            {
+                  "name": "Schergenkogel",
+                  "text": "A Schergenkogel kilátópontként tágas rálátást biztosít Hallstattra és a tóra.",
+                  "category": "natural",
+                  "coords": [
+                        13.68231,
+                        47.547601
+                  ]
+            },
+            {
+                  "name": "Welterbe-Blick",
+                  "text": "A World Heritage View egy kilátóterasz, amely látványos rálátást biztosít Hallstattra.",
+                  "category": "natural",
+                  "coords": [
+                        13.643638,
+                        47.561182
+                  ]
+            },
+            {
+                  "name": "Goiserer Aussicht",
+                  "text": "A Goiserer Aussicht egy népszerű kilátópont, ahonnan rálátás nyílik a hallstatti medencére.",
+                  "category": "natural",
+                  "coords": [
+                        13.68241,
+                        47.572625
+                  ]
+            },
+            {
+                  "name": "Blick auf Hallstatt",
+                  "text": "A 'Blick auf Hallstatt' egy klasszikus fotópont a világhírű falupanoráma megörökítéséhez.",
+                  "category": "natural",
+                  "coords": [
+                        13.650526,
+                        47.554296
+                  ]
+            },
+            {
+                  "name": "Panoramablick auf Hallstatt",
+                  "text": "A hallstatti panorámakilátás átfogó rálátást biztosít a településre és a környező hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        13.66314,
+                        47.564724
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Obertraun",
+                  "text": "Az obertrauni katolikus templom egy egyszerű egyházi épület a Dachstein lábánál.",
+                  "category": "religious",
+                  "coords": [
+                        13.684978,
+                        47.558221
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle II",
+                  "text": "A II. keresztúti kápolna a hallstatti történelmi kálvária része.",
+                  "category": "religious",
+                  "coords": [
+                        13.647777,
+                        47.553612
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche",
+                  "text": "A hallstatti kálvária-templom egy barokk ékszerdoboz és a keresztút végpontja.",
+                  "category": "religious",
+                  "coords": [
+                        13.648608,
+                        47.552171
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle I",
+                  "text": "Az I. keresztúti kápolna a hallstatti kálváriához vezető lelki felemelkedés kezdetét jelzi.",
+                  "category": "religious",
+                  "coords": [
+                        13.647472,
+                        47.554774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gräberfeld",
+                  "text": "Necropola din Hallstatt este un sit arheologic de renume mondial din prima epocă a fierului.",
+                  "category": "historical",
+                  "coords": [
+                        13.641061,
+                        47.56125
+                  ]
+            },
+            {
+                  "name": "Schloss Grub",
+                  "text": "Castelul Grub este un castel istoric situat pe malul estic al lacului Hallstatt.",
+                  "category": "castle",
+                  "coords": [
+                        13.664047,
+                        47.562258
+                  ]
+            },
+            {
+                  "name": "Welterbemuseum Hallstatt",
+                  "text": "Muzeul Patrimoniului Mondial din Hallstatt prezintă istoria fascinantă de 7000 de ani a localității.",
+                  "category": "museum",
+                  "coords": [
+                        13.648979,
+                        47.561919
+                  ]
+            },
+            {
+                  "name": "Salzwelten Hallstatt",
+                  "text": "Salzwelten Hallstatt reprezintă cea mai veche mină de sare din lume, fiind astăzi o mină vizitabilă.",
+                  "category": "museum",
+                  "coords": [
+                        13.645287,
+                        47.556072
+                  ]
+            },
+            {
+                  "name": "Schaugrab",
+                  "text": "Mormântul expozițional din Hallstatt oferă o imagine asupra săpăturilor arheologice și a rituurilor funerare.",
+                  "category": "museum",
+                  "coords": [
+                        13.642053,
+                        47.560449
+                  ]
+            },
+            {
+                  "name": "Schneidkogel",
+                  "text": "Schneidkogel este un vârf montan de lângă Hallstatt, oferind drumeților o vedere spre masivul Dachstein.",
+                  "category": "natural",
+                  "coords": [
+                        13.636512,
+                        47.574895
+                  ]
+            },
+            {
+                  "name": "Hirlatzhöhle",
+                  "text": "Peștera Hirlatz este unul dintre cele mai lungi sisteme de peșteri din Austria, situată în masivul Dachstein.",
+                  "category": "natural",
+                  "coords": [
+                        13.630953,
+                        47.544975
+                  ]
+            },
+            {
+                  "name": "Vorderer Hirlatz",
+                  "text": "Vorderer Hirlatz este un vârf proeminent din masivul Dachstein, situat deasupra localității Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.636737,
+                        47.537884
+                  ]
+            },
+            {
+                  "name": "Gosaueck",
+                  "text": "Gosaueck este un vârf montan din apropiere de Hallstatt, cu o vedere panoramică asupra regiunii alpine.",
+                  "category": "natural",
+                  "coords": [
+                        13.639798,
+                        47.582277
+                  ]
+            },
+            {
+                  "name": "Hohe Sieg",
+                  "text": "Hohe Sieg este un vârf din zona montană a Hallstatt-ului, popular printre drumeții experimentați.",
+                  "category": "natural",
+                  "coords": [
+                        13.634595,
+                        47.559778
+                  ]
+            },
+            {
+                  "name": "Hühnerkogel",
+                  "text": "Hühnerkogel este un vârf din Salzkammergut, cunoscut pentru flora sa alpină și priveliștile oferite.",
+                  "category": "natural",
+                  "coords": [
+                        13.635255,
+                        47.571375
+                  ]
+            },
+            {
+                  "name": "Blekarkogel",
+                  "text": "Blekarkogel este un vârf alpin din munții Dachstein, situat în apropiere de Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.624783,
+                        47.581039
+                  ]
+            },
+            {
+                  "name": "Solingerkogel",
+                  "text": "Solingerkogel este o eminență în peisajul montan din jurul lacului Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.618866,
+                        47.561191
+                  ]
+            },
+            {
+                  "name": "Hallstätter Marienaltar",
+                  "text": "Altarul Maicii Domnului din Hallstatt este o operă de artă gotică târzie importantă din biserica parohială catolică.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64891,
+                        47.563423
+                  ]
+            },
+            {
+                  "name": "Sechserkogel",
+                  "text": "Sechserkogel este un vârf montan din Alpii Calcaroși de lângă Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.670177,
+                        47.567218
+                  ]
+            },
+            {
+                  "name": "Goaßerbankerl",
+                  "text": "Goaßerbankerl este un punct de observație liniștit de lângă Hallstatt, ideal pentru relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        13.650395,
+                        47.551557
+                  ]
+            },
+            {
+                  "name": "Landbettler",
+                  "text": "Landbettler este un monument din Hallstatt care amintește de istoria și tradițiile locale.",
+                  "category": "historical",
+                  "coords": [
+                        13.674969,
+                        47.547374
+                  ]
+            },
+            {
+                  "name": "Schergenkogel",
+                  "text": "Schergenkogel oferă, ca punct de observație, o vedere largă asupra Hallstatt-ului și a lacului.",
+                  "category": "natural",
+                  "coords": [
+                        13.68231,
+                        47.547601
+                  ]
+            },
+            {
+                  "name": "Welterbe-Blick",
+                  "text": "World Heritage View este o platformă de observație care oferă o vedere spectaculoasă asupra Hallstatt-ului.",
+                  "category": "natural",
+                  "coords": [
+                        13.643638,
+                        47.561182
+                  ]
+            },
+            {
+                  "name": "Goiserer Aussicht",
+                  "text": "Goiserer Aussicht este un punct de observație popular cu vedere spre bazinul Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.68241,
+                        47.572625
+                  ]
+            },
+            {
+                  "name": "Blick auf Hallstatt",
+                  "text": "Blick auf Hallstatt este un punct fotografic clasic pentru a surprinde panorama faimoasă a satului.",
+                  "category": "natural",
+                  "coords": [
+                        13.650526,
+                        47.554296
+                  ]
+            },
+            {
+                  "name": "Panoramablick auf Hallstatt",
+                  "text": "Vederea panoramică asupra Hallstatt oferă o perspectivă cuprinzătoare asupra localității și a munților din jur.",
+                  "category": "natural",
+                  "coords": [
+                        13.66314,
+                        47.564724
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Obertraun",
+                  "text": "Biserica catolică din Obertraun este un edificiu sacru simplu, situat la poalele muntelui Dachstein.",
+                  "category": "religious",
+                  "coords": [
+                        13.684978,
+                        47.558221
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle II",
+                  "text": "Capela Căii Crucii II face parte din istoricul Calvar din Hallstatt.",
+                  "category": "religious",
+                  "coords": [
+                        13.647777,
+                        47.553612
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche",
+                  "text": "Biserica de pe muntele Calvar din Hallstatt este o bijuterie barocă și punctul final al Căii Crucii.",
+                  "category": "religious",
+                  "coords": [
+                        13.648608,
+                        47.552171
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle I",
+                  "text": "Capela Căii Crucii I marchează începutul urcușului spiritual spre Calvarul din Hallstatt.",
+                  "category": "religious",
+                  "coords": [
+                        13.647472,
+                        47.554774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gräberfeld",
+                  "text": "The burial ground in Hallstatt is a world-famous archaeological site from the early Iron Age.",
+                  "category": "historical",
+                  "coords": [
+                        13.641061,
+                        47.56125
+                  ]
+            },
+            {
+                  "name": "Schloss Grub",
+                  "text": "Schloss Grub is a historic castle located on the eastern shore of Lake Hallstatt.",
+                  "category": "castle",
+                  "coords": [
+                        13.664047,
+                        47.562258
+                  ]
+            },
+            {
+                  "name": "Welterbemuseum Hallstatt",
+                  "text": "The Hallstatt World Heritage Museum presents the fascinating 7000-year history of the town.",
+                  "category": "museum",
+                  "coords": [
+                        13.648979,
+                        47.561919
+                  ]
+            },
+            {
+                  "name": "Salzwelten Hallstatt",
+                  "text": "Salzwelten Hallstatt is the oldest salt mine in the world and now functions as a show mine for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        13.645287,
+                        47.556072
+                  ]
+            },
+            {
+                  "name": "Schaugrab",
+                  "text": "The show grave in Hallstatt offers insights into archaeological excavations and burial rites.",
+                  "category": "museum",
+                  "coords": [
+                        13.642053,
+                        47.560449
+                  ]
+            },
+            {
+                  "name": "Schneidkogel",
+                  "text": "Schneidkogel is a mountain peak near Hallstatt offering hikers views of the Dachstein massif.",
+                  "category": "natural",
+                  "coords": [
+                        13.636512,
+                        47.574895
+                  ]
+            },
+            {
+                  "name": "Hirlatzhöhle",
+                  "text": "The Hirlatz Cave is one of Austria's longest cave systems, located within the Dachstein massif.",
+                  "category": "natural",
+                  "coords": [
+                        13.630953,
+                        47.544975
+                  ]
+            },
+            {
+                  "name": "Vorderer Hirlatz",
+                  "text": "Vorderer Hirlatz is a prominent peak in the Dachstein massif overlooking Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.636737,
+                        47.537884
+                  ]
+            },
+            {
+                  "name": "Gosaueck",
+                  "text": "Gosaueck is a mountain peak near Hallstatt offering panoramic views of the Alpine region.",
+                  "category": "natural",
+                  "coords": [
+                        13.639798,
+                        47.582277
+                  ]
+            },
+            {
+                  "name": "Hohe Sieg",
+                  "text": "Hohe Sieg is a peak in the mountains around Hallstatt, popular with experienced hikers.",
+                  "category": "natural",
+                  "coords": [
+                        13.634595,
+                        47.559778
+                  ]
+            },
+            {
+                  "name": "Hühnerkogel",
+                  "text": "Hühnerkogel is a peak in the Salzkammergut region known for its alpine flora and views.",
+                  "category": "natural",
+                  "coords": [
+                        13.635255,
+                        47.571375
+                  ]
+            },
+            {
+                  "name": "Blekarkogel",
+                  "text": "Blekarkogel is an alpine peak in the Dachstein mountains near Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.624783,
+                        47.581039
+                  ]
+            },
+            {
+                  "name": "Solingerkogel",
+                  "text": "Solingerkogel is an elevation in the mountainous landscape surrounding Lake Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.618866,
+                        47.561191
+                  ]
+            },
+            {
+                  "name": "Hallstätter Marienaltar",
+                  "text": "The Hallstatt Marian Altar is a significant Late Gothic work of art in the Catholic parish church.",
+                  "category": "landmark",
+                  "coords": [
+                        13.64891,
+                        47.563423
+                  ]
+            },
+            {
+                  "name": "Sechserkogel",
+                  "text": "Sechserkogel is a mountain peak in the Limestone Alps near Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.670177,
+                        47.567218
+                  ]
+            },
+            {
+                  "name": "Goaßerbankerl",
+                  "text": "Goaßerbankerl is a quiet viewpoint near Hallstatt that invites visitors to linger and enjoy the view.",
+                  "category": "natural",
+                  "coords": [
+                        13.650395,
+                        47.551557
+                  ]
+            },
+            {
+                  "name": "Landbettler",
+                  "text": "The Landbettler is a monument in Hallstatt commemorating local history and traditions.",
+                  "category": "historical",
+                  "coords": [
+                        13.674969,
+                        47.547374
+                  ]
+            },
+            {
+                  "name": "Schergenkogel",
+                  "text": "Schergenkogel serves as a viewpoint offering wide vistas over Hallstatt and the lake.",
+                  "category": "natural",
+                  "coords": [
+                        13.68231,
+                        47.547601
+                  ]
+            },
+            {
+                  "name": "World Heritage View",
+                  "text": "The World Heritage View is a viewing platform offering a spectacular overlook of Hallstatt.",
+                  "category": "natural",
+                  "coords": [
+                        13.643638,
+                        47.561182
+                  ]
+            },
+            {
+                  "name": "Goiserer Aussicht",
+                  "text": "The Goiserer Aussicht is a popular viewpoint overlooking the Hallstatt basin.",
+                  "category": "natural",
+                  "coords": [
+                        13.68241,
+                        47.572625
+                  ]
+            },
+            {
+                  "name": "Blick auf Hallstatt",
+                  "text": "Blick auf Hallstatt is a classic photo spot to capture the world-famous village panorama.",
+                  "category": "natural",
+                  "coords": [
+                        13.650526,
+                        47.554296
+                  ]
+            },
+            {
+                  "name": "Panoramablick auf Hallstatt",
+                  "text": "The panoramic view of Hallstatt offers a comprehensive sight of the town and the surrounding mountains.",
+                  "category": "natural",
+                  "coords": [
+                        13.66314,
+                        47.564724
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Obertraun",
+                  "text": "The Catholic Church in Obertraun is a simple sacred building at the foot of the Dachstein mountain.",
+                  "category": "religious",
+                  "coords": [
+                        13.684978,
+                        47.558221
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle II",
+                  "text": "The Stations of the Cross Chapel II is part of the historic Calvary hill in Hallstatt.",
+                  "category": "religious",
+                  "coords": [
+                        13.647777,
+                        47.553612
+                  ]
+            },
+            {
+                  "name": "Kalvarienbergkirche",
+                  "text": "The Calvary Church in Hallstatt is a Baroque gem and the conclusion of the Stations of the Cross.",
+                  "category": "religious",
+                  "coords": [
+                        13.648608,
+                        47.552171
+                  ]
+            },
+            {
+                  "name": "Kreuzwegkapelle I",
+                  "text": "The Stations of the Cross Chapel I marks the beginning of the spiritual ascent to the Calvary hill in Hallstatt.",
+                  "category": "religious",
+                  "coords": [
+                        13.647472,
+                        47.554774
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-4", coords: [13.6493, 47.5622],
     name: { de: "Hallstatt", hu: "Hallstatt", ro: "Hallstatt", en: "Hallstatt" },
     image: "/geo-images/austria/hallstatt.webp",
     description: {
@@ -1224,7 +13545,124 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "AT-Heiligenblut", type: "city", parent: "AT-2", coords: [12.8394, 47.04],
+    id: "AT-Heiligenblut", "sights": {
+      "de": [
+            {
+                  "name": "Haus der Steinböcke",
+                  "text": "Ein Besucherzentrum über die Tierwelt des Nationalparks Hohe Tauern.",
+                  "category": "museum",
+                  "coords": [
+                        12.844279,
+                        47.03898
+                  ]
+            },
+            {
+                  "name": "Bergsteigerdenkmal",
+                  "text": "Denkmal zu Ehren der Bergsteiger in Heiligenblut.",
+                  "category": "historical",
+                  "coords": [
+                        12.841073,
+                        47.039343
+                  ]
+            },
+            {
+                  "name": "Filialkirche Pockhorn",
+                  "text": "Kleine historische Filialkirche im Ortsteil Pockhorn.",
+                  "category": "religious",
+                  "coords": [
+                        12.857485,
+                        47.026905
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Haus der Steinböcke",
+                  "text": "Látogatóközpont a Magas-Tauern Nemzeti Park állatvilágáról.",
+                  "category": "museum",
+                  "coords": [
+                        12.844279,
+                        47.03898
+                  ]
+            },
+            {
+                  "name": "Bergsteigerdenkmal",
+                  "text": "A hegymászók tiszteletére emelt emlékmű Heiligenblutban.",
+                  "category": "historical",
+                  "coords": [
+                        12.841073,
+                        47.039343
+                  ]
+            },
+            {
+                  "name": "Filialkirche Pockhorn",
+                  "text": "Kisméretű történelmi filiálistemplom Pockhorn városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        12.857485,
+                        47.026905
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Haus der Steinböcke",
+                  "text": "Un centru de vizitare despre fauna Parcului Național Hohe Tauern.",
+                  "category": "museum",
+                  "coords": [
+                        12.844279,
+                        47.03898
+                  ]
+            },
+            {
+                  "name": "Bergsteigerdenkmal",
+                  "text": "Monument ridicat în cinstea alpiniștilor din Heiligenblut.",
+                  "category": "historical",
+                  "coords": [
+                        12.841073,
+                        47.039343
+                  ]
+            },
+            {
+                  "name": "Filialkirche Pockhorn",
+                  "text": "Mică biserică istorică situată în cartierul Pockhorn.",
+                  "category": "religious",
+                  "coords": [
+                        12.857485,
+                        47.026905
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Haus der Steinböcke",
+                  "text": "A visitor center about the wildlife of the Hohe Tauern National Park.",
+                  "category": "museum",
+                  "coords": [
+                        12.844279,
+                        47.03898
+                  ]
+            },
+            {
+                  "name": "Bergsteigerdenkmal",
+                  "text": "Monument dedicated to mountaineers in Heiligenblut.",
+                  "category": "historical",
+                  "coords": [
+                        12.841073,
+                        47.039343
+                  ]
+            },
+            {
+                  "name": "Filialkirche Pockhorn",
+                  "text": "Small historical church in the Pockhorn district.",
+                  "category": "religious",
+                  "coords": [
+                        12.857485,
+                        47.026905
+                  ]
+            }
+      ]
+}, type: "city", parent: "AT-2", coords: [12.8394, 47.04],
     name: { de: "Heiligenblut", hu: "Heiligenblut", ro: "Heiligenblut", en: "Heiligenblut" },
     image: "/geo-images/austria/heiligenblut.webp",
     description: {"de":"Heiligenblut am Großglockner ist eines der malerischsten und bekanntesten Bergdörfer Österreichs, gelegen auf knapp 1.300 Metern Seehöhe im Nationalpark Hohe Tauern. Das unangefochtene Wahrzeichen des Ortes ist die gotische Pfarrkirche St. Vinzenz mit ihrem spitzen, markanten Turm, die sich malerisch vor der gewaltigen Kulisse des Großglockners erhebt. Der Legende nach wird in der Kirche ein Fläschchen mit dem Blut Christi aufbewahrt, was den Ort seit Jahrhunderten zu einem bedeutenden Wallfahrtsziel macht. Heiligenblut ist auch der traditionelle Ausgangspunkt für Fahrten auf der berühmten Großglockner Hochalpenstraße und lockt im Winter Skifahrer sowie im Sommer passionierte Bergsteiger an.","hu":"Heiligenblut am Großglockner Ausztria egyik legfestőibb és legismertebb hegyi faluja, amely közel 1300 méteres tengerszint feletti magasságban, a Magas-Tauern Nemzeti Parkban fekszik. A település vitathatatlan jelképe a gótikus Szent Vince plébániatemplom a maga hegyes, markáns tornyával, amely festőien emelkedik ki a Großglockner hatalmas kulisszája előtt. A legenda szerint a templomban Krisztus vérének egy fioláját őrzik, ami a helyet évszázadok óta jelentős zarándokhellyé teszi. Heiligenblut emellett a híres Großglockner Magasalpesi Út (Hochalpenstraße) hagyományos kiindulópontja, télen síelőket, nyáron pedig szenvedélyes hegymászókat vonz.","ro":"Heiligenblut am Großglockner este unul dintre cele mai pitorești și renumite sate de munte din Austria, situat la o altitudine de aproape 1.300 de metri în Parcul Național Hohe Tauern. Simbolul de necontestat al locului este biserica parohială gotică Sf. Vincențiu, cu turnul său ascuțit și distinctiv, care se înalță pitoresc pe fundalul masiv al muntelui Grossglockner. Conform legendei, în biserică este păstrată o fiolă cu sângele lui Hristos, ceea ce a făcut din acest loc o destinație importantă de pelerinaj de secole. Heiligenblut este, de asemenea, punctul tradițional de plecare pentru călătoriile pe faimosul Drum Alpin Grossglockner (Hochalpenstraße) și atrage schiori iarna, precum și alpiniști pasionați vara.","en":"Heiligenblut am Großglockner is one of the most picturesque and well-known mountain villages in Austria, situated at an altitude of almost 1,300 meters in the Hohe Tauern National Park. The undisputed landmark of the village is the Gothic parish church of St. Vincent with its striking pointed tower, which rises picturesquely against the massive backdrop of the Grossglockner. According to legend, a vial of the blood of Christ is kept in the church, making the place an important pilgrimage destination for centuries. Heiligenblut is also the traditional starting point for journeys on the famous Grossglockner High Alpine Road and attracts skiers in winter as well as passionate mountaineers in summer.", es: "Heiligenblut am Großglockner es uno de los pueblos de montaña más pintorescos y conocidos de Austria, situado a casi 1.300 metros sobre el nivel del mar en el Parque Nacional Hohe Tauern. El símbolo indiscutible del lugar es la iglesia parroquial gótica de San Vicente con su torre puntiaguda y distintiva, que se eleva pintorescamente ante el imponente telón de fondo del Großglockner. Según la leyenda, en la iglesia se guarda un frasquito con la sangre de Cristo, lo que hace del lugar un importante destino de peregrinación desde hace siglos. Heiligenblut es también el punto de partida tradicional para viajes por la famosa Carretera alpina del Großglockner y atrae a esquiadores en invierno y a apasionados montañeros en verano.", pt: "Heiligenblut am Großglockner é uma das aldeias de montanha mais pitorescas e conhecidas da Áustria, situada a quase 1.300 metros de altitude no Parque Nacional Hohe Tauern. O símbolo indiscutível da localidade é a igreja paroquial gótica de São Vicente, com a sua torre pontiaguda e distinta, que se ergue pitorescamente perante o cenário imponente do Großglockner. Segundo a lenda, na igreja é guardado um frasco com o sangue de Cristo, o que torna a localidade um importante destino de peregrinação há séculos. Heiligenblut é também o ponto de partida tradicional para passeios na famosa Estrada alpina de Großglockner e atrai esquiadores no inverno, bem como montanhistas apaixonados no verão.", fr: "Heiligenblut am Großglockner est l'un des villages de montagne les plus pittoresques et les plus célèbres d'Autriche, situé à près de 1 300 mètres d'altitude dans le parc national des Hohe Tauern. L'emblème incontesté du village est l'église paroissiale gothique Saint-Vincent avec son clocher pointu caractéristique, qui s'élève de manière pittoresque devant le décor imposant du Großglockner. Selon la légende, un flacon contenant le sang du Christ est conservé dans l'église, ce qui en fait un lieu de pèlerinage important depuis des siècles. Heiligenblut est également le point de départ traditionnel des excursions sur la célèbre route alpine du Großglockner et attire les skieurs en hiver ainsi que les alpinistes passionnés en été."}, facts: {"de":["Das berühmte Fotomotiv zeigt die Kirche mit dem Großglockner im Hintergrund.","Der Ortsname leitet sich von der Legende um das 'Heilige Blut' ab.","Der dänische Ritter Briccius soll die Reliquie im Jahr 914 hierher gebracht haben.","Die hochalpine Landschaft ist streng geschützt (Nationalpark Hohe Tauern).","In der Nähe befanden sich historische Goldminen, in denen Tauerngold abgebaut wurde.","Ein Paradies für Freerider und Tourengeher im Winter.","Der hochgelegene Friedhof der Bergsteiger erinnert an Verunglückte.","Das Alpendorf hat seinen ursprünglichen Charakter weitgehend bewahrt.","Traditionen wie das Sternsingen zum Jahreswechsel werden hier intensiv gepflegt.","Die Wallfahrtskirche St. Vinzenz stammt aus dem 15. Jahrhundert."],"hu":["A híres fotómotívum a templomot ábrázolja a Großglocknerrel a háttérben.","A település neve a 'Szent Vér' körüli legendából ered.","A legenda szerint Briccius dán lovag hozta ide az ereklyét 914-ben.","A magashegyi táj szigorúan védett (Magas-Tauern Nemzeti Park).","A közelben történelmi aranybányák voltak, ahol tauern-aranyat bányásztak.","A freeriderek (szabadstílusú síelők) és a sítúrázók paradicsoma télen.","A magasan fekvő hegymászótemető a balesetet szenvedettekre emlékeztet.","Az alpesi falu nagyrészt megőrizte eredeti karakterét.","Az olyan hagyományokat, mint az újévi csillagének (Sternsingen), intenzíven ápolják.","A Szent Vince zarándoktemplom a 15. századból származik."],"ro":["Celebrul motiv fotografic arată biserica cu Grossglockner în fundal.","Numele orașului derivă din legenda despre „Sângele Sfânt” (Heiliges Blut).","Cavalerul danez Briccius se spune că a adus relicva aici în anul 914.","Peisajul alpin înalt este strict protejat (Parcul Național Hohe Tauern).","În apropiere existau mine de aur istorice unde se extrăgea „Tauerngold”.","Un paradis pentru freerideri și schiori de tură pe timp de iarnă.","Cimitirul alpiniștilor, situat la mare altitudine, îi comemorează pe cei care au pierit.","Satul alpin și-a păstrat în mare parte caracterul original.","Tradiții precum colindatul cu steaua (Sternsingen) la cumpăna dintre ani sunt intens menținute.","Biserica de pelerinaj Sf. Vincențiu datează din secolul al XV-lea."],"en":["The famous photo motif shows the church with the Grossglockner in the background.","The town's name derives from the legend of the 'Holy Blood' (Heiliges Blut).","The Danish knight Briccius is said to have brought the relic here in 914.","The high alpine landscape is strictly protected (Hohe Tauern National Park).","Historic gold mines where 'Tauerngold' was mined were located nearby.","A paradise for freeriders and ski tourers in winter.","The high-altitude mountaineers' cemetery commemorates those who perished.","The alpine village has largely preserved its original character.","Traditions such as star singing (Sternsingen) at the turn of the year are intensely maintained.","The pilgrimage church of St. Vincent dates back to the 15th century."], es: ["El famoso motivo fotográfico muestra la iglesia con el Großglockner al fondo.", "El nombre del lugar deriva de la leyenda sobre la 'Santa Sangre'.", "Se dice que el caballero danés Briccius trajo la reliquia aquí en el año 914.", "El paisaje de alta montaña está estrictamente protegido (Parque Nacional Hohe Tauern).", "Cerca se encontraban minas de oro históricas donde se extraía el oro de los Tauern.", "Un paraíso para los freeriders y esquiadores de travesía en invierno.", "El cementerio de montañeros situado a gran altitud recuerda a los fallecidos.", "El pueblo alpino ha conservado gran parte de su carácter original.", "Tradiciones como el 'Sternsingen' al cambio de año se mantienen intensamente aquí.", "La iglesia de peregrinación de San Vicente data del siglo XV."], pt: ["O famoso motivo fotográfico mostra a igreja com o Großglockner ao fundo.", "O nome da localidade deriva da lenda sobre o 'Sangue Sagrado'.", "Diz-se que o cavaleiro dinamarquês Briccius trouxe a relíquia para aqui no ano 914.", "A paisagem de alta montanha é estritamente protegida (Parque Nacional Hohe Tauern).", "Nas proximidades encontravam-se minas de ouro históricas, onde se extraía o ouro dos Tauern.", "Um paraíso para os praticantes de freeride e esqui de montanha no inverno.", "O cemitério de montanhistas em altitude recorda os que faleceram na montanha.", "A aldeia alpina preservou em grande parte o seu caráter original.", "Tradições como o 'Sternsingen' na passagem de ano são mantidas intensamente aqui.", "A igreja de peregrinação de São Vicente data do século XV."], fr: ["Le motif photographique célèbre montre l'église avec le Großglockner en arrière-plan.", "Le nom du lieu provient de la légende du 'Saint Sang'.", "Le chevalier danois Briccius aurait apporté la relique ici en l'an 914.", "Le paysage de haute montagne est strictement protégé (parc national des Hohe Tauern).", "Des mines d'or historiques se trouvaient à proximité, où l'on extrayait l'or des Tauern.", "Un paradis pour les freeriders et les randonneurs à ski en hiver.", "Le cimetière des alpinistes situé en altitude commémore les victimes de la montagne.", "Le village alpin a largement conservé son caractère originel.", "Des traditions comme le 'Sternsingen' au passage de l'an sont intensément entretenues ici.", "L'église de pèlerinage Saint-Vincent date du XVe siècle."]},
@@ -2383,7 +14821,988 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    "id": "at-lienz",
+    "id": "at-lienz", "sights": {
+      "de": [
+            {
+                  "name": "Burgruine Erenberg",
+                  "text": "Die Burgruine Erenberg ist eine Burgruine in Lienz.",
+                  "category": "castle",
+                  "coords": [
+                        12.782688,
+                        46.811829
+                  ]
+            },
+            {
+                  "name": "Kammerlanderhof",
+                  "text": "Der Kammerlanderhof ist ein Museum in Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.752848,
+                        46.850875
+                  ]
+            },
+            {
+                  "name": "Museum Schloss Bruck",
+                  "text": "Das Museum Schloss Bruck ist ein historisches Museum in Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.748998,
+                        46.832175
+                  ]
+            },
+            {
+                  "name": "Eisenbahn Museum Südbahn Heizhaus Lienz",
+                  "text": "Das Eisenbahn Museum Südbahn Heizhaus Lienz ist ein Museum in Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.771261,
+                        46.827968
+                  ]
+            },
+            {
+                  "name": "Rieplerschmiede",
+                  "text": "Die Rieplerschmiede ist ein Museum in Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.760004,
+                        46.831478
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Moosalm",
+                  "text": "Der Streichelzoo Moosalm ist ein Zoo und Ausflugsziel in Lienz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.741229,
+                        46.82721
+                  ]
+            },
+            {
+                  "name": "Dolomitenbad Lienz",
+                  "text": "Das Dolomitenbad Lienz ist ein Wasserpark in Lienz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.764323,
+                        46.823038
+                  ]
+            },
+            {
+                  "name": "Goggkreuz",
+                  "text": "Das Goggkreuz ist ein Berggipfel in der Nähe von Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.756587,
+                        46.808191
+                  ]
+            },
+            {
+                  "name": "Liebburg",
+                  "text": "Die Liebburg ist ein markantes historisches Herrenhaus in Lienz.",
+                  "category": "historical",
+                  "coords": [
+                        12.768983,
+                        46.829148
+                  ]
+            },
+            {
+                  "name": "Tammerburg",
+                  "text": "Die Tammerburg ist eine Touristenattraktion in Lienz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.756161,
+                        46.835677
+                  ]
+            },
+            {
+                  "name": "Venedigerwarte",
+                  "text": "Die Venedigerwarte ist ein Aussichtspunkt in Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.742553,
+                        46.8284
+                  ]
+            },
+            {
+                  "name": "Iselblick",
+                  "text": "Der Iselblick ist ein Aussichtspunkt in Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.726332,
+                        46.837016
+                  ]
+            },
+            {
+                  "name": "Maria Trost",
+                  "text": "Maria Trost ist ein Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.746168,
+                        46.836087
+                  ]
+            },
+            {
+                  "name": "St. Michaels Kirche",
+                  "text": "Die St. Michaels Kirche ist ein Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.767547,
+                        46.833274
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "Die Martin-Luther-Kirche ist ein bedeutendes evangelisches Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.765807,
+                        46.825836
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Familie",
+                  "text": "Die Pfarrkirche Hl. Familie ist ein Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.759971,
+                        46.823738
+                  ]
+            },
+            {
+                  "name": "Kapelle Geburt Christi",
+                  "text": "Die Kapelle Geburt Christi ist ein Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.73558,
+                        46.812284
+                  ]
+            },
+            {
+                  "name": "Amlacher Kirche",
+                  "text": "Die Amlacher Kirche ist ein Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.760718,
+                        46.813646
+                  ]
+            },
+            {
+                  "name": "Brunner-Stöckl (Oberbrunner-Kapelle)",
+                  "text": "Das Brunner-Stöckl (Oberbrunner-Kapelle) ist ein Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.75901,
+                        46.836078
+                  ]
+            },
+            {
+                  "name": "Sankt Andrae",
+                  "text": "Sankt Andrä ist eine bedeutende Stadtpfarrkirche und ein Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.761388,
+                        46.834156
+                  ]
+            },
+            {
+                  "name": "Ulrichsbichl",
+                  "text": "Ulrichsbichl ist ein lokales Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.77371,
+                        46.814075
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche zum Heiligen Michael",
+                  "text": "Die Pfarrkirche zum Heiligen Michael ist ein lokales Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.749231,
+                        46.810075
+                  ]
+            },
+            {
+                  "name": "Znoppmühle",
+                  "text": "Die Znoppmühle ist eine lokale Wassermühle in Lienz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733593,
+                        46.845758
+                  ]
+            },
+            {
+                  "name": "Oberdrum",
+                  "text": "Oberdrum ist ein lokales Gotteshaus in der Stadt Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.737806,
+                        46.850257
+                  ]
+            },
+            {
+                  "name": "Thurn Dorf",
+                  "text": "Thurn Dorf dient als lokales Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.760747,
+                        46.84867
+                  ]
+            },
+            {
+                  "name": "Kirche zum Hl. Bartolomäus",
+                  "text": "Die Kirche zum Hl. Bartolomäus ist eine lokale Kirche in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.770972,
+                        46.843617
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Die Herz-Jesu-Kirche ist ein bedeutendes Gotteshaus in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.784195,
+                        46.828875
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Burgruine Erenberg",
+                  "text": "A Burgruine Erenberg egy történelmi romvár Lienz városában.",
+                  "category": "castle",
+                  "coords": [
+                        12.782688,
+                        46.811829
+                  ]
+            },
+            {
+                  "name": "Kammerlanderhof",
+                  "text": "A Kammerlanderhof egy múzeum Lienz városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.752848,
+                        46.850875
+                  ]
+            },
+            {
+                  "name": "Museum Schloss Bruck",
+                  "text": "A Museum Schloss Bruck egy múzeum Lienz városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.748998,
+                        46.832175
+                  ]
+            },
+            {
+                  "name": "Eisenbahn Museum Südbahn Heizhaus Lienz",
+                  "text": "Az Eisenbahn Museum Südbahn Heizhaus Lienz egy múzeum Lienzben.",
+                  "category": "museum",
+                  "coords": [
+                        12.771261,
+                        46.827968
+                  ]
+            },
+            {
+                  "name": "Rieplerschmiede",
+                  "text": "A Rieplerschmiede egy múzeum Lienz városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.760004,
+                        46.831478
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Moosalm",
+                  "text": "A Streichelzoo Moosalm egy állatkert Lienzben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.741229,
+                        46.82721
+                  ]
+            },
+            {
+                  "name": "Dolomitenbad Lienz",
+                  "text": "A Dolomitenbad Lienz egy élményfürdő Lienz városában.",
+                  "category": "recreational",
+                  "coords": [
+                        12.764323,
+                        46.823038
+                  ]
+            },
+            {
+                  "name": "Goggkreuz",
+                  "text": "A Goggkreuz egy hegycsúcs Lienz közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.756587,
+                        46.808191
+                  ]
+            },
+            {
+                  "name": "Liebburg",
+                  "text": "A Liebburg egy nevezetes történelmi udvarház Lienz városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.768983,
+                        46.829148
+                  ]
+            },
+            {
+                  "name": "Tammerburg",
+                  "text": "A Tammerburg egy turisztikai látványosság Lienzben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.756161,
+                        46.835677
+                  ]
+            },
+            {
+                  "name": "Venedigerwarte",
+                  "text": "A Venedigerwarte egy kilátóhely Lienz városában.",
+                  "category": "natural",
+                  "coords": [
+                        12.742553,
+                        46.8284
+                  ]
+            },
+            {
+                  "name": "Iselblick",
+                  "text": "Az Iselblick egy kilátóhely Lienzben.",
+                  "category": "natural",
+                  "coords": [
+                        12.726332,
+                        46.837016
+                  ]
+            },
+            {
+                  "name": "Maria Trost",
+                  "text": "A Maria Trost egy istentiszteleti hely Lienz városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.746168,
+                        46.836087
+                  ]
+            },
+            {
+                  "name": "St. Michaels Kirche",
+                  "text": "A St. Michaels Kirche egy istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.767547,
+                        46.833274
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "A Martin-Luther-Kirche egy nevezetes protestáns istentiszteleti hely Lienz városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.765807,
+                        46.825836
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Familie",
+                  "text": "A Pfarrkirche Hl. Familie egy istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.759971,
+                        46.823738
+                  ]
+            },
+            {
+                  "name": "Kapelle Geburt Christi",
+                  "text": "A Kapelle Geburt Christi egy istentiszteleti hely Lienz városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.73558,
+                        46.812284
+                  ]
+            },
+            {
+                  "name": "Amlacher Kirche",
+                  "text": "Az Amlacher Kirche egy istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.760718,
+                        46.813646
+                  ]
+            },
+            {
+                  "name": "Brunner-Stöckl (Oberbrunner-Kapelle)",
+                  "text": "A Brunner-Stöckl (Oberbrunner-Kapelle) egy istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.75901,
+                        46.836078
+                  ]
+            },
+            {
+                  "name": "Sankt Andrae",
+                  "text": "A Sankt Andrae egy nevezetes plébániatemplom és istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.761388,
+                        46.834156
+                  ]
+            },
+            {
+                  "name": "Ulrichsbichl",
+                  "text": "Az Ulrichsbichl egy helyi istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.77371,
+                        46.814075
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche zum Heiligen Michael",
+                  "text": "A Pfarrkirche zum Heiligen Michael egy helyi istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.749231,
+                        46.810075
+                  ]
+            },
+            {
+                  "name": "Znoppmühle",
+                  "text": "A Znoppmühle egy helyi vízimalom Lienzben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733593,
+                        46.845758
+                  ]
+            },
+            {
+                  "name": "Oberdrum",
+                  "text": "Az Oberdrum egy helyi istentiszteleti hely Lienz városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.737806,
+                        46.850257
+                  ]
+            },
+            {
+                  "name": "Thurn Dorf",
+                  "text": "A Thurn Dorf egy helyi istentiszteleti helyként szolgál Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.760747,
+                        46.84867
+                  ]
+            },
+            {
+                  "name": "Kirche zum Hl. Bartolomäus",
+                  "text": "A Kirche zum Hl. Bartolomäus egy helyi templom Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.770972,
+                        46.843617
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "A Herz-Jesu-Kirche egy nevezetes istentiszteleti hely Lienzben.",
+                  "category": "religious",
+                  "coords": [
+                        12.784195,
+                        46.828875
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Burgruine Erenberg",
+                  "text": "Burgruine Erenberg este o ruină de castel istorică situată în Lienz.",
+                  "category": "castle",
+                  "coords": [
+                        12.782688,
+                        46.811829
+                  ]
+            },
+            {
+                  "name": "Kammerlanderhof",
+                  "text": "Kammerlanderhof servește ca muzeu în orașul Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.752848,
+                        46.850875
+                  ]
+            },
+            {
+                  "name": "Museum Schloss Bruck",
+                  "text": "Museum Schloss Bruck este un muzeu situat într-un cadru istoric din Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.748998,
+                        46.832175
+                  ]
+            },
+            {
+                  "name": "Eisenbahn Museum Südbahn Heizhaus Lienz",
+                  "text": "Eisenbahn Museum Südbahn Heizhaus Lienz este un muzeu situat în Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.771261,
+                        46.827968
+                  ]
+            },
+            {
+                  "name": "Rieplerschmiede",
+                  "text": "Rieplerschmiede este un muzeu în Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.760004,
+                        46.831478
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Moosalm",
+                  "text": "Streichelzoo Moosalm este o grădină zoologică în Lienz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.741229,
+                        46.82721
+                  ]
+            },
+            {
+                  "name": "Dolomitenbad Lienz",
+                  "text": "Dolomitenbad Lienz este un parc acvatic situat în Lienz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.764323,
+                        46.823038
+                  ]
+            },
+            {
+                  "name": "Goggkreuz",
+                  "text": "Goggkreuz este un vârf montan situat în apropiere de Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.756587,
+                        46.808191
+                  ]
+            },
+            {
+                  "name": "Liebburg",
+                  "text": "Liebburg este un conac istoric notabil situat în Lienz.",
+                  "category": "historical",
+                  "coords": [
+                        12.768983,
+                        46.829148
+                  ]
+            },
+            {
+                  "name": "Tammerburg",
+                  "text": "Tammerburg este o atracție turistică situată în Lienz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.756161,
+                        46.835677
+                  ]
+            },
+            {
+                  "name": "Venedigerwarte",
+                  "text": "Venedigerwarte este un punct de belvedere în Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.742553,
+                        46.8284
+                  ]
+            },
+            {
+                  "name": "Iselblick",
+                  "text": "Iselblick este un punct de belvedere pitoresc situat în Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.726332,
+                        46.837016
+                  ]
+            },
+            {
+                  "name": "Maria Trost",
+                  "text": "Maria Trost este un lăcaș de cult situat în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.746168,
+                        46.836087
+                  ]
+            },
+            {
+                  "name": "St. Michaels Kirche",
+                  "text": "St. Michaels Kirche este un lăcaș de cult situat în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.767547,
+                        46.833274
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "Martin-Luther-Kirche este un lăcaș de cult protestant notabil din Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.765807,
+                        46.825836
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Familie",
+                  "text": "Pfarrkirche Hl. Familie este un lăcaș de cult în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.759971,
+                        46.823738
+                  ]
+            },
+            {
+                  "name": "Kapelle Geburt Christi",
+                  "text": "Kapelle Geburt Christi este un lăcaș de cult situat în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.73558,
+                        46.812284
+                  ]
+            },
+            {
+                  "name": "Amlacher Kirche",
+                  "text": "Amlacher Kirche este un lăcaș de cult situat în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.760718,
+                        46.813646
+                  ]
+            },
+            {
+                  "name": "Brunner-Stöckl (Oberbrunner-Kapelle)",
+                  "text": "Brunner-Stöckl (Oberbrunner-Kapelle) este un lăcaș de cult situat în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.75901,
+                        46.836078
+                  ]
+            },
+            {
+                  "name": "Sankt Andrae",
+                  "text": "Sankt Andrae este o biserică parohială notabilă și un lăcaș de cult în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.761388,
+                        46.834156
+                  ]
+            },
+            {
+                  "name": "Ulrichsbichl",
+                  "text": "Ulrichsbichl este un lăcaș de cult local din Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.77371,
+                        46.814075
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche zum Heiligen Michael",
+                  "text": "Pfarrkirche zum Heiligen Michael este un lăcaș de cult local situat în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.749231,
+                        46.810075
+                  ]
+            },
+            {
+                  "name": "Znoppmühle",
+                  "text": "Znoppmühle este o moară de apă locală din Lienz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733593,
+                        46.845758
+                  ]
+            },
+            {
+                  "name": "Oberdrum",
+                  "text": "Oberdrum este un lăcaș de cult local situat în orașul Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.737806,
+                        46.850257
+                  ]
+            },
+            {
+                  "name": "Thurn Dorf",
+                  "text": "Thurn Dorf servește ca lăcaș de cult local în Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.760747,
+                        46.84867
+                  ]
+            },
+            {
+                  "name": "Kirche zum Hl. Bartolomäus",
+                  "text": "Kirche zum Hl. Bartolomäus este o biserică locală din Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.770972,
+                        46.843617
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "Herz-Jesu-Kirche este un lăcaș de cult notabil din Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.784195,
+                        46.828875
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Burgruine Erenberg",
+                  "text": "Burgruine Erenberg is a historic ruined castle located in Lienz.",
+                  "category": "castle",
+                  "coords": [
+                        12.782688,
+                        46.811829
+                  ]
+            },
+            {
+                  "name": "Kammerlanderhof",
+                  "text": "Kammerlanderhof serves as a museum in the city of Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.752848,
+                        46.850875
+                  ]
+            },
+            {
+                  "name": "Museum Schloss Bruck",
+                  "text": "Museum Schloss Bruck is a museum located within a historic setting in Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.748998,
+                        46.832175
+                  ]
+            },
+            {
+                  "name": "Eisenbahn Museum Südbahn Heizhaus Lienz",
+                  "text": "Eisenbahn Museum Südbahn Heizhaus Lienz is a railway museum situated in Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.771261,
+                        46.827968
+                  ]
+            },
+            {
+                  "name": "Rieplerschmiede",
+                  "text": "Rieplerschmiede is a museum detailing local history in Lienz.",
+                  "category": "museum",
+                  "coords": [
+                        12.760004,
+                        46.831478
+                  ]
+            },
+            {
+                  "name": "Streichelzoo Moosalm",
+                  "text": "Streichelzoo Moosalm is a petting zoo attraction in Lienz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.741229,
+                        46.82721
+                  ]
+            },
+            {
+                  "name": "Dolomitenbad Lienz",
+                  "text": "Dolomitenbad Lienz is a popular water park and swimming facility located in Lienz.",
+                  "category": "recreational",
+                  "coords": [
+                        12.764323,
+                        46.823038
+                  ]
+            },
+            {
+                  "name": "Goggkreuz",
+                  "text": "Goggkreuz is a mountain peak located in the vicinity of Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.756587,
+                        46.808191
+                  ]
+            },
+            {
+                  "name": "Liebburg",
+                  "text": "Liebburg is a notable historic manor with distinctive architecture located in Lienz.",
+                  "category": "historical",
+                  "coords": [
+                        12.768983,
+                        46.829148
+                  ]
+            },
+            {
+                  "name": "Tammerburg",
+                  "text": "Tammerburg is a tourist attraction and historic site situated in Lienz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.756161,
+                        46.835677
+                  ]
+            },
+            {
+                  "name": "Venedigerwarte",
+                  "text": "Venedigerwarte is a viewpoint offering scenic panoramas in Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.742553,
+                        46.8284
+                  ]
+            },
+            {
+                  "name": "Iselblick",
+                  "text": "Iselblick is a picturesque viewpoint located in Lienz.",
+                  "category": "natural",
+                  "coords": [
+                        12.726332,
+                        46.837016
+                  ]
+            },
+            {
+                  "name": "Maria Trost",
+                  "text": "Maria Trost is a place of worship situated in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.746168,
+                        46.836087
+                  ]
+            },
+            {
+                  "name": "St. Michaels Kirche",
+                  "text": "St. Michaels Kirche is a place of worship located in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.767547,
+                        46.833274
+                  ]
+            },
+            {
+                  "name": "Martin-Luther-Kirche",
+                  "text": "Martin-Luther-Kirche is a notable Protestant place of worship in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.765807,
+                        46.825836
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Hl. Familie",
+                  "text": "Pfarrkirche Hl. Familie is a parish church and place of worship in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.759971,
+                        46.823738
+                  ]
+            },
+            {
+                  "name": "Kapelle Geburt Christi",
+                  "text": "Kapelle Geburt Christi is a dedicated place of worship located in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.73558,
+                        46.812284
+                  ]
+            },
+            {
+                  "name": "Amlacher Kirche",
+                  "text": "Amlacher Kirche is a place of worship situated in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.760718,
+                        46.813646
+                  ]
+            },
+            {
+                  "name": "Brunner-Stöckl (Oberbrunner-Kapelle)",
+                  "text": "Brunner-Stöckl (Oberbrunner-Kapelle) is a place of worship situated in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.75901,
+                        46.836078
+                  ]
+            },
+            {
+                  "name": "Sankt Andrae",
+                  "text": "Sankt Andrae is a notable parish church serving as a place of worship in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.761388,
+                        46.834156
+                  ]
+            },
+            {
+                  "name": "Ulrichsbichl",
+                  "text": "Ulrichsbichl is a local place of worship located in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.77371,
+                        46.814075
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche zum Heiligen Michael",
+                  "text": "Pfarrkirche zum Heiligen Michael is a local place of worship located in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.749231,
+                        46.810075
+                  ]
+            },
+            {
+                  "name": "Znoppmühle",
+                  "text": "Znoppmühle is a local watermill located in Lienz.",
+                  "category": "landmark",
+                  "coords": [
+                        12.733593,
+                        46.845758
+                  ]
+            },
+            {
+                  "name": "Oberdrum",
+                  "text": "Oberdrum is a local place of worship situated in the city of Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.737806,
+                        46.850257
+                  ]
+            },
+            {
+                  "name": "Thurn Dorf",
+                  "text": "Thurn Dorf serves as a local place of worship in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.760747,
+                        46.84867
+                  ]
+            },
+            {
+                  "name": "Kirche zum Hl. Bartolomäus",
+                  "text": "Kirche zum Hl. Bartolomäus is a local church located in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.770972,
+                        46.843617
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kirche",
+                  "text": "The Herz-Jesu-Kirche is a notable place of worship located in Lienz.",
+                  "category": "religious",
+                  "coords": [
+                        12.784195,
+                        46.828875
+                  ]
+            }
+      ]
+},
     "type": "city",
     "parent": "AT-7",
     "coords": [

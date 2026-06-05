@@ -2958,10 +2958,50 @@ export const poiExtraRo1: POI[] = [
 },
     image: "/poi-images/city-darabani-extra.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Ein lokales Kulturzentrum in Darabani, das für Aufführungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        26.593532,
+                        48.186198
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Helyi kulturális központ Darabaniban, amelyet előadásokra és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        26.593532,
+                        48.186198
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Un centru cultural local din Darabani, folosit pentru spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        26.593532,
+                        48.186198
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de Cultură",
+                  "text": "A local cultural center in Darabani used for performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.593532,
+                        48.186198
+                  ]
+            }
+      ]
 }
   },
   {
@@ -7095,10 +7135,338 @@ export const poiExtraRo1: POI[] = [
     },
     image: "/poi-images/city-covasna-extra.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Museum",
+                  "text": "Ein Museum in Covasna, das lokale Geschichte und Traditionen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.168495,
+                        45.84659
+                  ]
+            },
+            {
+                  "name": "Sala teatru, cinema",
+                  "text": "Ein lokales Kulturzentrum mit Theater- und Kinovorführungen in Covasna.",
+                  "category": "cultural",
+                  "coords": [
+                        26.167861,
+                        45.843892
+                  ]
+            },
+            {
+                  "name": "Kőrösi Csoma Sándor szülőháza - emlékház",
+                  "text": "Das Gedenkhaus im Geburtshaus des berühmten Sprachforschers Kőrösi Csoma Sándor.",
+                  "category": "museum",
+                  "coords": [
+                        26.152522,
+                        45.822476
+                  ]
+            },
+            {
+                  "name": "Izvor apă minerală",
+                  "text": "Eine der vielen Heilmineralquellen in der Kurstadt Covasna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.170288,
+                        45.84559
+                  ]
+            },
+            {
+                  "name": "Mofeta Bene",
+                  "text": "Eine natürliche Kohlendioxid-Mofette in Covasna, die für therapeutische Zwecke genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        26.172148,
+                        45.84487
+                  ]
+            },
+            {
+                  "name": "Izvorul apa minerala Kati",
+                  "text": "Die Kati-Mineralquelle in Covasna ist für ihr trinkbares Heilwasser bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.176553,
+                        45.844544
+                  ]
+            },
+            {
+                  "name": "Statuie Korosi Csoma Sandor",
+                  "text": "Eine Statue zu Ehren des Philologen und Orientforschers Sándor Kőrösi Csoma in Covasna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.168497,
+                        45.844921
+                  ]
+            },
+            {
+                  "name": "Iustinian Teculescu",
+                  "text": "Ein Denkmal für Iustinian Teculescu in Covasna.",
+                  "category": "historical",
+                  "coords": [
+                        26.186896,
+                        45.852425
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae” Covasna",
+                  "text": "Eine orthodoxe Kirche in Covasna, die dem Heiligen Nikolaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.191103,
+                        45.851799
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum",
+                  "text": "Kovásznai múzeum, amely a helyi történelmet és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.168495,
+                        45.84659
+                  ]
+            },
+            {
+                  "name": "Sala teatru, cinema",
+                  "text": "Helyi kulturális központ színházi és mozielőadásokkal Kovásznán.",
+                  "category": "cultural",
+                  "coords": [
+                        26.167861,
+                        45.843892
+                  ]
+            },
+            {
+                  "name": "Kőrösi Csoma Sándor szülőháza - emlékház",
+                  "text": "A híres nyelvkutató, Kőrösi Csoma Sándor szülőházában berendezett emlékház.",
+                  "category": "museum",
+                  "coords": [
+                        26.152522,
+                        45.822476
+                  ]
+            },
+            {
+                  "name": "Pokolsár",
+                  "text": "A sok gyógyhatású ásványvízforrás egyike Kovásznán.",
+                  "category": "landmark",
+                  "coords": [
+                        26.170288,
+                        45.84559
+                  ]
+            },
+            {
+                  "name": "Mofeta Bene",
+                  "text": "Természetes szén-dioxid mofetta Kovásznán, amelyet gyógyászati célokra használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        26.172148,
+                        45.84487
+                  ]
+            },
+            {
+                  "name": "Izvorul apa minerala Kati",
+                  "text": "A kovásznai Kati-ásványvízforrás ismert az iható gyógyvizéről.",
+                  "category": "landmark",
+                  "coords": [
+                        26.176553,
+                        45.844544
+                  ]
+            },
+            {
+                  "name": "Statuie Korosi Csoma Sandor",
+                  "text": "Kőrösi Csoma Sándor nyelvtudós és orientalista tiszteletére emelt szobor Kovásznán.",
+                  "category": "landmark",
+                  "coords": [
+                        26.168497,
+                        45.844921
+                  ]
+            },
+            {
+                  "name": "Iustinian Teculescu",
+                  "text": "Iustinian Teculescu tiszteletére emelt emlékmű Kovásznán.",
+                  "category": "historical",
+                  "coords": [
+                        26.186896,
+                        45.852425
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae” Covasna",
+                  "text": "Szent Miklósnak szentelt ortodox templom Kovásznán.",
+                  "category": "religious",
+                  "coords": [
+                        26.191103,
+                        45.851799
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum",
+                  "text": "Un muzeu în Covasna care prezintă istoria și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        26.168495,
+                        45.84659
+                  ]
+            },
+            {
+                  "name": "Sala teatru, cinema",
+                  "text": "Un centru cultural local cu spectacole de teatru și cinema în Covasna.",
+                  "category": "cultural",
+                  "coords": [
+                        26.167861,
+                        45.843892
+                  ]
+            },
+            {
+                  "name": "Kőrösi Csoma Sándor szülőháza - emlékház",
+                  "text": "Casa memorială amenajată în casa natală a celebrului lingvist Kőrösi Csoma Sándor.",
+                  "category": "museum",
+                  "coords": [
+                        26.152522,
+                        45.822476
+                  ]
+            },
+            {
+                  "name": "Izvor apă minerală",
+                  "text": "Unul dintre numeroasele izvoare de apă minerală curativă din stațiunea Covasna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.170288,
+                        45.84559
+                  ]
+            },
+            {
+                  "name": "Mofeta Bene",
+                  "text": "O mofetă naturală cu dioxid de carbon în Covasna, utilizată în scopuri terapeutice.",
+                  "category": "landmark",
+                  "coords": [
+                        26.172148,
+                        45.84487
+                  ]
+            },
+            {
+                  "name": "Izvorul apa minerala Kati",
+                  "text": "Izvorul de apă minerală Kati din Covasna este cunoscut pentru apa sa curativă potabilă.",
+                  "category": "landmark",
+                  "coords": [
+                        26.176553,
+                        45.844544
+                  ]
+            },
+            {
+                  "name": "Statuie Korosi Csoma Sandor",
+                  "text": "O statuie în onoarea filologului și exploratorului Sándor Kőrösi Csoma în Covasna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.168497,
+                        45.844921
+                  ]
+            },
+            {
+                  "name": "Iustinian Teculescu",
+                  "text": "Un monument dedicat lui Iustinian Teculescu în Covasna.",
+                  "category": "historical",
+                  "coords": [
+                        26.186896,
+                        45.852425
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae” Covasna",
+                  "text": "O biserică ortodoxă în Covasna, având hramul Sfântul Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        26.191103,
+                        45.851799
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum",
+                  "text": "A museum in Covasna presenting local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        26.168495,
+                        45.84659
+                  ]
+            },
+            {
+                  "name": "Sala teatru, cinema",
+                  "text": "A local cultural center featuring theatre and cinema performances in Covasna.",
+                  "category": "cultural",
+                  "coords": [
+                        26.167861,
+                        45.843892
+                  ]
+            },
+            {
+                  "name": "Kőrösi Csoma Sándor szülőháza - emlékház",
+                  "text": "The memorial house located in the birthplace of the famous linguist Sándor Kőrösi Csoma.",
+                  "category": "museum",
+                  "coords": [
+                        26.152522,
+                        45.822476
+                  ]
+            },
+            {
+                  "name": "Izvor apă minerală",
+                  "text": "One of the many curative mineral water springs in the resort town of Covasna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.170288,
+                        45.84559
+                  ]
+            },
+            {
+                  "name": "Mofeta Bene",
+                  "text": "A natural carbon dioxide mofette in Covasna used for therapeutic purposes.",
+                  "category": "landmark",
+                  "coords": [
+                        26.172148,
+                        45.84487
+                  ]
+            },
+            {
+                  "name": "Izvorul apa minerala Kati",
+                  "text": "The Kati mineral water spring in Covasna is known for its drinkable medicinal water.",
+                  "category": "landmark",
+                  "coords": [
+                        26.176553,
+                        45.844544
+                  ]
+            },
+            {
+                  "name": "Statuie Korosi Csoma Sandor",
+                  "text": "A statue honoring the philologist and orientalist Sándor Kőrösi Csoma in Covasna.",
+                  "category": "landmark",
+                  "coords": [
+                        26.168497,
+                        45.844921
+                  ]
+            },
+            {
+                  "name": "Iustinian Teculescu",
+                  "text": "A monument dedicated to Iustinian Teculescu in Covasna.",
+                  "category": "historical",
+                  "coords": [
+                        26.186896,
+                        45.852425
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Nicolae” Covasna",
+                  "text": "An Orthodox church in Covasna dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        26.191103,
+                        45.851799
+                  ]
+            }
+      ]
 }
   },
   {
@@ -17367,10 +17735,50 @@ export const poiExtraRo1: POI[] = [
     },
     image: "/poi-images/city-jimbolia-extra.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Atelje Terra",
+                  "text": "Atelje Terra ist ein Museum in Hatzfeld.",
+                  "category": "museum",
+                  "coords": [
+                        20.461782,
+                        45.813122
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atelje Terra",
+                  "text": "Az Atelje Terra egy múzeum Hatzfeld városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.461782,
+                        45.813122
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atelje Terra",
+                  "text": "Atelje Terra este un muzeu situat în Hatzfeld.",
+                  "category": "museum",
+                  "coords": [
+                        20.461782,
+                        45.813122
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atelje Terra",
+                  "text": "Atelje Terra is a museum situated in Hatzfeld.",
+                  "category": "museum",
+                  "coords": [
+                        20.461782,
+                        45.813122
+                  ]
+            }
+      ]
 }
   },
   {

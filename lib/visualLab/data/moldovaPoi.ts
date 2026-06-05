@@ -178,7 +178,268 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-029-orhei-city",
+    id: "MD-029-orhei-city", "sights": {
+      "de": [
+            {
+                  "name": "Sinagoga din Orhei",
+                  "text": "Die Synagoge von Orhei ist eine ehemalige Synagoge, die heute als Museum in Orhei dient.",
+                  "category": "museum",
+                  "coords": [
+                        28.825545,
+                        47.382223
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Orhei",
+                  "text": "Der jüdische Friedhof ist eine bedeutende historische Sehenswürdigkeit in Orhei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.816845,
+                        47.387543
+                  ]
+            },
+            {
+                  "name": "Ion Luca Caragiale",
+                  "text": "Das Denkmal zu Ehren von Ion Luca Caragiale befindet sich in Orhei.",
+                  "category": "historical",
+                  "coords": [
+                        28.825588,
+                        47.380935
+                  ]
+            },
+            {
+                  "name": "Chateau Vartely Winery",
+                  "text": "Das Chateau Vartely Winery ist eine beliebte Touristenattraktion in Orhei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.834262,
+                        47.3802
+                  ]
+            },
+            {
+                  "name": "Centrul Raional de Cultură „Andrei Suruceanu“",
+                  "text": "Das regionale Kulturzentrum „Andrei Suruceanu“ ist ein Kunstzentrum in Orhei.",
+                  "category": "cultural",
+                  "coords": [
+                        28.820877,
+                        47.378779
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Dumitru (sec.XVII)",
+                  "text": "Die St.-Dumitru-Kirche ist ein bedeutendes Gotteshaus aus dem 17. Jahrhundert in Orhei.",
+                  "category": "religious",
+                  "coords": [
+                        28.818682,
+                        47.370937
+                  ]
+            },
+            {
+                  "name": "Biserica romano-catolică",
+                  "text": "Die römisch-katholische Kirche ist ein markantes Gotteshaus in Orhei.",
+                  "category": "religious",
+                  "coords": [
+                        28.823989,
+                        47.374107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sinagoga din Orhei",
+                  "text": "Az orheii zsinagóga egy egykori zsinagóga, amely ma múzeumként működik Orheiben.",
+                  "category": "museum",
+                  "coords": [
+                        28.825545,
+                        47.382223
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Orhei",
+                  "text": "A zsidó temető egy jelentős történelmi látványosság Orheiben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.816845,
+                        47.387543
+                  ]
+            },
+            {
+                  "name": "Ion Luca Caragiale",
+                  "text": "Az Ion Luca Caragiale tiszteletére emelt emlékmű Orheiben található.",
+                  "category": "historical",
+                  "coords": [
+                        28.825588,
+                        47.380935
+                  ]
+            },
+            {
+                  "name": "Chateau Vartely Winery",
+                  "text": "A Chateau Vartely pincészet egy népszerű turisztikai látványosság Orheiben.",
+                  "category": "landmark",
+                  "coords": [
+                        28.834262,
+                        47.3802
+                  ]
+            },
+            {
+                  "name": "Centrul Raional de Cultură „Andrei Suruceanu“",
+                  "text": "Az „Andrei Suruceanu” Regionális Kulturális Központ egy művészeti központ Orheiben.",
+                  "category": "cultural",
+                  "coords": [
+                        28.820877,
+                        47.378779
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Dumitru (sec.XVII)",
+                  "text": "A Szent Dumitru-templom egy jelentős 17. századi istentiszteleti hely Orheiben.",
+                  "category": "religious",
+                  "coords": [
+                        28.818682,
+                        47.370937
+                  ]
+            },
+            {
+                  "name": "Biserica romano-catolică",
+                  "text": "A római katolikus templom egy jelentős istentiszteleti hely Orheiben.",
+                  "category": "religious",
+                  "coords": [
+                        28.823989,
+                        47.374107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sinagoga din Orhei",
+                  "text": "Sinagoga din Orhei este o fostă sinagogă care funcționează în prezent ca muzeu în Orhei.",
+                  "category": "museum",
+                  "coords": [
+                        28.825545,
+                        47.382223
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Orhei",
+                  "text": "Cimitirul Evreiesc este o atracție istorică notabilă din Orhei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.816845,
+                        47.387543
+                  ]
+            },
+            {
+                  "name": "Ion Luca Caragiale",
+                  "text": "Monumentul dedicat lui Ion Luca Caragiale se află în Orhei.",
+                  "category": "historical",
+                  "coords": [
+                        28.825588,
+                        47.380935
+                  ]
+            },
+            {
+                  "name": "Chateau Vartely Winery",
+                  "text": "Vinăria Chateau Vartely este o atracție turistică populară din Orhei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.834262,
+                        47.3802
+                  ]
+            },
+            {
+                  "name": "Centrul Raional de Cultură „Andrei Suruceanu“",
+                  "text": "Centrul Raional de Cultură „Andrei Suruceanu” este un centru de arte din Orhei.",
+                  "category": "cultural",
+                  "coords": [
+                        28.820877,
+                        47.378779
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Dumitru (sec.XVII)",
+                  "text": "Biserica Sf. Dumitru este un important lăcaș de cult din secolul al XVII-lea situat în Orhei.",
+                  "category": "religious",
+                  "coords": [
+                        28.818682,
+                        47.370937
+                  ]
+            },
+            {
+                  "name": "Biserica romano-catolică",
+                  "text": "Biserica romano-catolică este un lăcaș de cult notabil situat în Orhei.",
+                  "category": "religious",
+                  "coords": [
+                        28.823989,
+                        47.374107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sinagoga din Orhei",
+                  "text": "The Synagogue of Orhei is a former synagogue that now functions as a museum in Orhei.",
+                  "category": "museum",
+                  "coords": [
+                        28.825545,
+                        47.382223
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Orhei",
+                  "text": "The Jewish Cemetery is a notable historical attraction in Orhei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.816845,
+                        47.387543
+                  ]
+            },
+            {
+                  "name": "Ion Luca Caragiale",
+                  "text": "The monument dedicated to Ion Luca Caragiale is located in Orhei.",
+                  "category": "historical",
+                  "coords": [
+                        28.825588,
+                        47.380935
+                  ]
+            },
+            {
+                  "name": "Chateau Vartely Winery",
+                  "text": "The Chateau Vartely Winery is a popular tourist attraction in Orhei.",
+                  "category": "landmark",
+                  "coords": [
+                        28.834262,
+                        47.3802
+                  ]
+            },
+            {
+                  "name": "Centrul Raional de Cultură „Andrei Suruceanu“",
+                  "text": "The \"Andrei Suruceanu\" District Cultural Center is an arts centre in Orhei.",
+                  "category": "cultural",
+                  "coords": [
+                        28.820877,
+                        47.378779
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Dumitru (sec.XVII)",
+                  "text": "St. Dumitru Church is a significant 17th-century place of worship located in Orhei.",
+                  "category": "religious",
+                  "coords": [
+                        28.818682,
+                        47.370937
+                  ]
+            },
+            {
+                  "name": "Biserica romano-catolică",
+                  "text": "The Roman Catholic Church is a notable place of worship situated in Orhei.",
+                  "category": "religious",
+                  "coords": [
+                        28.823989,
+                        47.374107
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-029",
     coords: [28.8167, 47.3833],
@@ -248,7 +509,844 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-030-tiraspol-city",
+    id: "MD-030-tiraspol-city", "sights": {
+      "de": [
+            {
+                  "name": "Музей штаба кавалерийской бригады Г.И. Котовского",
+                  "text": "Ein Museum, das dem Hauptquartier der Kavalleriebrigade von Grigori Kotowski gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Pridnestrowisches Staatliches Dramen- und Komödientheater",
+                  "text": "Das staatliche Haupttheater für Dramen- und Komödienaufführungen in Tiraspol.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Museum der Heimatgeschichte",
+                  "text": "Ein Museum, das die Regionalgeschichte und das kulturelle Erbe der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Музей археологии Поднестровья",
+                  "text": "Ein Museum mit archäologischen Funden aus der Region am Fluss Dnjestr.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Музей потерянных носков",
+                  "text": "Ein originelles lokales Museum mit einem einzigartigen und humorvollen Thema.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Palast der Republik",
+                  "text": "Ein wichtiger kultureller und zeremonieller Ort für Aufführungen und staatliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Остров удовольствий",
+                  "text": "Ein örtlicher Wasserpark mit Pools und Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "Der öffentliche Hauptstrand am Fluss Dnjestr.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Джунгли Парк",
+                  "text": "Ein örtlicher Themenpark mit Fahrgeschäften und Attraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Выставочная аудитория",
+                  "text": "Ein spezieller Raum für verschiedene Kunst- und Kulturausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Чудо-град",
+                  "text": "Ein bunter Themenpark, der für Kinder und Familien konzipiert wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Ehrendenkmal",
+                  "text": "Ein feierlicher Denkmal猞komplex, der der Militärgeschichte und gefallenen Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Тираспольская крепость",
+                  "text": "Die Überreste einer Befestigungsanlage aus dem 18. Jahrhundert, die für die Stadtgeschichte von Bedeutung ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Привокзальная площадь",
+                  "text": "Eine zentrale Parkanlage in der Nähe des Hauptbahnhofs der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Памятник Авиаторам",
+                  "text": "Ein Denkmal, das der Geschichte und den Errungenschaften der Luftfahrt gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Памятник колхозникам",
+                  "text": "Ein historisches Denkmal zu Ehren der Arbeiter der Kollektivwirtschaften.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Памятник Ленину",
+                  "text": "Ein markantes Wahrzeichen mit einer Statue von Wladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Schwanenteich",
+                  "text": "Ein malerischer Ort mit einem Teich, in dem oft Schwäne leben.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "ДОТ № 1152 ТиУР",
+                  "text": "Die historischen Ruinen einer ehemaligen militärischen Befestigung oder eines Bunkers.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Мини-Эйфелева башня",
+                  "text": "Eine maßstabsgetreue Nachbildung des berühmten Pariser Wahrzeichens.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Покровская церковь",
+                  "text": "Ein modernes orthodoxes Kirchengebäude, das der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Christi-Geburt-Kathedrale",
+                  "text": "Eine bedeutende orthodoxe Kathedrale, die für ihre religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Старообрядческая церковь Покрова Пресвятыя Богородицы",
+                  "text": "Ein Gotteshaus für die örtliche Gemeinschaft der Altgläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Музей штаба кавалерийской бригады Г.И. Котовского",
+                  "text": "Grigorij Kotovszkij lovasdandár-parancsnokságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Приднестровский государственный театр драмы и комедии им. Н. С. Аронецкой",
+                  "text": "Tiraszpol fő állami drámai és vígjátékszínháza.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Историко-краеведческий музей",
+                  "text": "A terület regionális történelmét és kulturális örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Музей археологии Поднестровья",
+                  "text": "A Dnyeszter menti régió régészeti leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Музей потерянных носков",
+                  "text": "Különleges helyi múzeum egyedi és humoros témával.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Дворец Республики",
+                  "text": "Jelentős kulturális és ünnepi helyszín előadások és állami rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Остров удовольствий",
+                  "text": "Helyi vízipark medencékkel és szabadidős tevékenységekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "A fő nyilvános strand a Dnyeszter folyó mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Джунгли Парк",
+                  "text": "Helyi vidámpark játékokkal és látnivalókkal családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Выставочная аудитория",
+                  "text": "Különféle művészeti és kulturális kiállításoknak szentelt tér.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Чудо-град",
+                  "text": "Színes vidámpark gyerekeknek és családoknak.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Мемориал Славы",
+                  "text": "Katonai történelemnek és az elesett katonáknak szentelt ünnepélyes emlékhely.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Тираспольская крепость",
+                  "text": "Egy 18. századi erődítmény maradványai, amely jelentős a város történelme szempontjából.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Привокзальная площадь",
+                  "text": "Központi park a város főpályaudvarának közelében.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Памятник Авиаторам",
+                  "text": "A repülés történetének és vívmányainak szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Памятник колхозникам",
+                  "text": "Történelmi emlékmű a kollektív gazdaságok dolgozóinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Памятник Ленину",
+                  "text": "Kiemelkedő nevezetesség Vlagyimir Lenin szobrával.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Пруд с лебедями",
+                  "text": "Festői hely egy tóval, amelyben gyakran hattyúk élnek.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "ДОТ № 1152 ТиУР",
+                  "text": "Egy korábbi katonai erődítmény vagy bunker történelmi romjai.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Мини-Эйфелева башня",
+                  "text": "A híres párizsi nevezetesség kisméretű másolata.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Покровская церковь",
+                  "text": "Modern ortodox templomépület, amely a helyi plébániát szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Собор Рождества Христова",
+                  "text": "Kiemelkedő ortodox székesegyház, amely vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Старообрядческая церковь Покрова Пресвятыя Богородицы",
+                  "text": "A helyi óhitű közösség temploma.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Музей штаба кавалерийской бригады Г.И. Котовского",
+                  "text": "Un muzeu dedicat cartierului general al brigadei de cavalerie a lui Grigori Kotovski.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Teatrul de Stat de dramă şi comedie „N.S. Aroneţkaia”",
+                  "text": "Principalul teatru de stat pentru spectacole de dramă și comedie din Tiraspol.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Muzeul de istorie locală",
+                  "text": "Un muzeu care prezintă istoria regională și moștenirea culturală a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Музей археологии Поднестровья",
+                  "text": "Un muzeu cu descoperiri arheologice din regiunea fluviului Nistru.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Музей потерянных носков",
+                  "text": "Un muzeu local inedit, cu o tematică unică și plină de umor.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Palatul republicii",
+                  "text": "Un loc cultural și ceremonial major pentru spectacole și evenimente de stat.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Остров удовольствий",
+                  "text": "Un parc acvatic local care oferă piscine și activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Plaja orașului",
+                  "text": "Principala zonă de plajă publică situată de-a lungul fluviului Nistru.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Джунгли Парк",
+                  "text": "Un parc tematic local cu atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Выставочная аудитория",
+                  "text": "Un spațiu dedicat diverselor expoziții de artă și cultură.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Чудо-град",
+                  "text": "Un parc tematic colorat, conceput pentru copii și familii.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Memorialul Gloriei",
+                  "text": "Un complex monumental solemn dedicat istoriei militare și soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Cetatea din Tiraspol",
+                  "text": "Rămășițele unei fortificații din secolul al XVIII-lea, semnificativă pentru istoria orașului.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Piaţa Gării",
+                  "text": "O zonă de parc central situată lângă gara principală a orașului.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Monumentul Aviatorilor",
+                  "text": "Un monument dedicat istoriei și realizărilor aviației.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Памятник советским колхозникам",
+                  "text": "Un monument istoric care onorează lucrătorii din fermele colective.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Monumentul lui Lenin",
+                  "text": "Un punct de reper proeminent cu o statuie a lui Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Пруд с лебедями",
+                  "text": "Un loc pitoresc cu un iaz locuit adesea de lebede.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "Buncăr Nr 1152 TiRF",
+                  "text": "Ruinele istorice ale unei foste fortificații militare sau buncăr.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Мини-Эйфелева башня",
+                  "text": "O replică la scară mică a celebrului punct de reper parizian.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Покровская церковь",
+                  "text": "O clădire modernă a bisericii ortodoxe care deservește parohia locală.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Catedrala Nașterea Domnului din Tiraspol",
+                  "text": "O catedrală ortodoxă proeminentă, cunoscută pentru semnificația sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Biserica Acoperămîntul Maicii Domnului",
+                  "text": "Un lăcaș de cult pentru comunitatea locală a vechilor credincioși.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Музей штаба кавалерийской бригады Г.И. Котовского",
+                  "text": "A museum dedicated to the cavalry brigade headquarters of Grigory Kotovsky.",
+                  "category": "museum",
+                  "coords": [
+                        29.622457,
+                        46.836368
+                  ]
+            },
+            {
+                  "name": "Nadezhda Aronetskaya Pridnestrovian State Drama Theatre",
+                  "text": "The main state theatre for drama and comedy performances in Tiraspol.",
+                  "category": "cultural",
+                  "coords": [
+                        29.633617,
+                        46.83709
+                  ]
+            },
+            {
+                  "name": "Local History Museum",
+                  "text": "A museum showcasing the regional history and cultural heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        29.606819,
+                        46.835569
+                  ]
+            },
+            {
+                  "name": "Музей археологии Поднестровья",
+                  "text": "A museum featuring archaeological finds from the Dniester River region.",
+                  "category": "museum",
+                  "coords": [
+                        29.632463,
+                        46.837876
+                  ]
+            },
+            {
+                  "name": "Museum of Lost Socks",
+                  "text": "A quirky local museum with a unique and humorous theme.",
+                  "category": "museum",
+                  "coords": [
+                        29.610506,
+                        46.846808
+                  ]
+            },
+            {
+                  "name": "Дворец Республики",
+                  "text": "A major cultural and ceremonial venue for performances and state events.",
+                  "category": "cultural",
+                  "coords": [
+                        29.620553,
+                        46.835673
+                  ]
+            },
+            {
+                  "name": "Остров удовольствий",
+                  "text": "A local water park offering pools and recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        29.604008,
+                        46.834263
+                  ]
+            },
+            {
+                  "name": "Городской пляж",
+                  "text": "The main public beach area located along the Dniester River.",
+                  "category": "recreational",
+                  "coords": [
+                        29.610545,
+                        46.833376
+                  ]
+            },
+            {
+                  "name": "Jungle Park",
+                  "text": "A local theme park with rides and attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        29.638225,
+                        46.837148
+                  ]
+            },
+            {
+                  "name": "Выставочная аудитория",
+                  "text": "A dedicated space for various art and cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        29.612314,
+                        46.836629
+                  ]
+            },
+            {
+                  "name": "Чудо-град",
+                  "text": "A colorful theme park designed for children and families.",
+                  "category": "recreational",
+                  "coords": [
+                        29.609699,
+                        46.83715
+                  ]
+            },
+            {
+                  "name": "Memorial of Glory",
+                  "text": "A solemn monument complex dedicated to military history and fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        29.60828,
+                        46.835478
+                  ]
+            },
+            {
+                  "name": "Тираспольская крепость",
+                  "text": "The remains of an 18th-century fortification significant to the city's history.",
+                  "category": "historical",
+                  "coords": [
+                        29.592539,
+                        46.834441
+                  ]
+            },
+            {
+                  "name": "Station Square",
+                  "text": "A central park area located near the city's main railway station.",
+                  "category": "park",
+                  "coords": [
+                        29.62931,
+                        46.846868
+                  ]
+            },
+            {
+                  "name": "Памятник Авиаторам",
+                  "text": "A monument dedicated to the history and achievements of aviation.",
+                  "category": "historical",
+                  "coords": [
+                        29.65704,
+                        46.839596
+                  ]
+            },
+            {
+                  "name": "Monument to the Soviet collective farmers",
+                  "text": "A historic monument honoring the workers of collective farms.",
+                  "category": "historical",
+                  "coords": [
+                        29.653267,
+                        46.827743
+                  ]
+            },
+            {
+                  "name": "Памятник Ленину",
+                  "text": "A prominent landmark featuring a statue of Vladimir Lenin.",
+                  "category": "landmark",
+                  "coords": [
+                        29.657762,
+                        46.82206
+                  ]
+            },
+            {
+                  "name": "Pond with swans",
+                  "text": "A scenic spot featuring a pond often inhabited by swans.",
+                  "category": "natural",
+                  "coords": [
+                        29.6136,
+                        46.837833
+                  ]
+            },
+            {
+                  "name": "Bunker No 1152 TiFR",
+                  "text": "The historical ruins of a former military fortification or bunker.",
+                  "category": "historical",
+                  "coords": [
+                        29.643304,
+                        46.817647
+                  ]
+            },
+            {
+                  "name": "Мини-Эйфелева башня",
+                  "text": "A small-scale replica of the famous Parisian landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        29.616885,
+                        46.838831
+                  ]
+            },
+            {
+                  "name": "Покровская церковь",
+                  "text": "A modern Orthodox church building serving the local parish.",
+                  "category": "religious",
+                  "coords": [
+                        29.654518,
+                        46.831
+                  ]
+            },
+            {
+                  "name": "Church of the Nativity",
+                  "text": "A prominent Orthodox cathedral known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        29.614296,
+                        46.839015
+                  ]
+            },
+            {
+                  "name": "Old Believers Pokrovskaya Church",
+                  "text": "A place of worship for the local Old Believer community.",
+                  "category": "religious",
+                  "coords": [
+                        29.616911,
+                        46.837231
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-030",
     coords: [29.6322, 46.8353],
@@ -389,7 +1487,88 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-032-telenesti-city",
+    id: "MD-032-telenesti-city", "sights": {
+      "de": [
+            {
+                  "name": "Complexul Memorial",
+                  "text": "Der Gedenkkomplex ist ein wichtiges Denkmal in Telenești.",
+                  "category": "historical",
+                  "coords": [
+                        28.361439,
+                        47.500975
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Telenești",
+                  "text": "Der jüdische Friedhof von Telenești ist eine lokale historische Sehenswürdigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        28.371839,
+                        47.502699
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Complexul Memorial",
+                  "text": "A Memorial Komplexum egy fontos emlékmű Teleneștiben.",
+                  "category": "historical",
+                  "coords": [
+                        28.361439,
+                        47.500975
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Telenești",
+                  "text": "A teleneștii zsidó temető egy helyi történelmi látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        28.371839,
+                        47.502699
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Complexul Memorial",
+                  "text": "Complexul Memorial este un monument important situat în Telenești.",
+                  "category": "historical",
+                  "coords": [
+                        28.361439,
+                        47.500975
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Telenești",
+                  "text": "Cimitirul Evreiesc din Telenești este o atracție istorică locală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.371839,
+                        47.502699
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Complexul Memorial",
+                  "text": "The Memorial Complex is an important monument located in Telenești.",
+                  "category": "historical",
+                  "coords": [
+                        28.361439,
+                        47.500975
+                  ]
+            },
+            {
+                  "name": "Cimitirul Evreiesc Telenești",
+                  "text": "The Telenești Jewish Cemetery is a local historical attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        28.371839,
+                        47.502699
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-032",
     coords: [28.3611, 47.5000],
@@ -459,7 +1638,124 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-033-soldanesti-city",
+    id: "MD-033-soldanesti-city", "sights": {
+      "de": [
+            {
+                  "name": "Gara Șoldănești",
+                  "text": "Das historische örtliche Bahnhofsgebäude in Șoldănești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.791302,
+                        47.817472
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec. XIX)",
+                  "text": "Ein Wasserturm aus dem 19. Jahrhundert, der als örtliches Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        28.790268,
+                        47.817189
+                  ]
+            },
+            {
+                  "name": "Hidrocentrală (ruine)",
+                  "text": "Die Ruinen eines ehemaligen Wasserkraftwerks.",
+                  "category": "landmark",
+                  "coords": [
+                        28.812818,
+                        47.824355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gara Șoldănești",
+                  "text": "Șoldănești történelmi vasútállomásának épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        28.791302,
+                        47.817472
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec. XIX)",
+                  "text": "19. századi víztorony, amely helyi nevezetességként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        28.790268,
+                        47.817189
+                  ]
+            },
+            {
+                  "name": "Hidrocentrală (ruine)",
+                  "text": "Egy egykori vízerőmű romjai.",
+                  "category": "landmark",
+                  "coords": [
+                        28.812818,
+                        47.824355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gara Șoldănești",
+                  "text": "Clădirea istorică a gării locale din Șoldănești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.791302,
+                        47.817472
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec. XIX)",
+                  "text": "Un turn de apă din secolul al XIX-lea care servește ca punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        28.790268,
+                        47.817189
+                  ]
+            },
+            {
+                  "name": "Hidrocentrală (ruine)",
+                  "text": "Ruinele unei foste hidrocentrale.",
+                  "category": "landmark",
+                  "coords": [
+                        28.812818,
+                        47.824355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gara Șoldănești",
+                  "text": "The historic local railway station building in Șoldănești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.791302,
+                        47.817472
+                  ]
+            },
+            {
+                  "name": "Turn de apă (sec. XIX)",
+                  "text": "A 19th-century water tower serving as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        28.790268,
+                        47.817189
+                  ]
+            },
+            {
+                  "name": "Hidrocentrală (ruine)",
+                  "text": "The ruins of a former hydroelectric power station.",
+                  "category": "landmark",
+                  "coords": [
+                        28.812818,
+                        47.824355
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-033",
     coords: [28.8000, 47.8167],
@@ -529,7 +1825,376 @@ export const moldovaPoi: POI[] = [
     },
   },
   {
-    id: "MD-034-floresti-city",
+    id: "MD-034-floresti-city", "sights": {
+      "de": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Ein Museum in Florești, das der Bewahrung der lokalen Geschichte und traditioneller ethnografischer Artefakte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        28.303978,
+                        47.889692
+                  ]
+            },
+            {
+                  "name": "Gara Feroviară Florești;Gara Florești (clădire din sec. XIX)",
+                  "text": "Ein historischer Bahnhof in Florești mit Architektur aus dem 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.307393,
+                        47.885753
+                  ]
+            },
+            {
+                  "name": "Bustul lui Miron Costin",
+                  "text": "Ein Denkmal in Florești zu Ehren des berühmten moldauischen Chronisten und Politikers Miron Costin.",
+                  "category": "historical",
+                  "coords": [
+                        28.301086,
+                        47.894815
+                  ]
+            },
+            {
+                  "name": "Самолёт МиГ-19",
+                  "text": "Ein Denkmal mit einem MiG-19-Kampfflugzeug, das als lokales Wahrzeichen in Florești ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.286333,
+                        47.892396
+                  ]
+            },
+            {
+                  "name": "Monumentul Căzuți în Război",
+                  "text": "Eine Gedenkstätte für diejenigen, die in den Kriegen des 20. Jahrhunderts ihr Leben verloren haben.",
+                  "category": "historical",
+                  "coords": [
+                        28.301093,
+                        47.889278
+                  ]
+            },
+            {
+                  "name": "Monument ostașilor căzuți în Afganistan și Transnistria",
+                  "text": "Ein Denkmal in Florești zum Gedenken an die in den Konflikten in Afghanistan und Transnistrien gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        28.299199,
+                        47.894807
+                  ]
+            },
+            {
+                  "name": "Pod din piatră (1893)",
+                  "text": "Eine historische Steinbrücke in Florești aus dem Jahr 1893, die den Fluss Räut überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.333579,
+                        47.885179
+                  ]
+            },
+            {
+                  "name": "Săpătură în stâncă (sec. XIX)",
+                  "text": "Eine Stätte mit Felsgrabungen aus dem 19. Jahrhundert an den Klippen bei Florești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.327159,
+                        47.882947
+                  ]
+            },
+            {
+                  "name": "Grote",
+                  "text": "Natürliche oder künstliche Grotten in den Kalksteinfelsen, die für lokale Entdecker von Interesse sind.",
+                  "category": "landmark",
+                  "coords": [
+                        28.32745,
+                        47.878634
+                  ]
+            },
+            {
+                  "name": "Pod vechi de fier (înc.sec. XX)",
+                  "text": "Eine Eisenbrücke aus dem frühen 20. Jahrhundert in Florești, die historische Industrietechnik zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        28.280136,
+                        47.878013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Egy múzeum Floreștiben, amely a helyi történelem és a hagyományos néprajzi tárgyak megőrzésének szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        28.303978,
+                        47.889692
+                  ]
+            },
+            {
+                  "name": "Gara Feroviară Florești;Gara Florești (clădire din sec. XIX)",
+                  "text": "Egy történelmi vasútállomás Floreștiben, 19. századi építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        28.307393,
+                        47.885753
+                  ]
+            },
+            {
+                  "name": "Bustul lui Miron Costin",
+                  "text": "Miron Costin híres moldvai krónikás és politikus tiszteletére emelt emlékmű Floreștiben.",
+                  "category": "historical",
+                  "coords": [
+                        28.301086,
+                        47.894815
+                  ]
+            },
+            {
+                  "name": "Самолёт МиГ-19",
+                  "text": "Egy MiG-19-es vadászgépet bemutató emlékmű, amely Florești helyi nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        28.286333,
+                        47.892396
+                  ]
+            },
+            {
+                  "name": "Monumentul Căzuți în Război",
+                  "text": "A 20. századi háborúkban életüket vesztettek emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        28.301093,
+                        47.889278
+                  ]
+            },
+            {
+                  "name": "Monument ostașilor căzuți în Afganistan și Transnistria",
+                  "text": "Floreștiben található emlékmű az afganisztáni és transznisztriai konfliktusokban elesett katonák emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        28.299199,
+                        47.894807
+                  ]
+            },
+            {
+                  "name": "Pod din piatră (1893)",
+                  "text": "Egy történelmi kőhíd Floreștiben, amely 1893-ban épült a Răut folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        28.333579,
+                        47.885179
+                  ]
+            },
+            {
+                  "name": "Săpătură în stâncă (sec. XIX)",
+                  "text": "Florești közeli sziklák mentén található, 19. századi sziklavájatokat bemutató helyszín.",
+                  "category": "landmark",
+                  "coords": [
+                        28.327159,
+                        47.882947
+                  ]
+            },
+            {
+                  "name": "Grote",
+                  "text": "Természetes vagy mesterséges barlangok a mészkősziklákban, amelyek érdekesek a helyi felfedezők számára.",
+                  "category": "landmark",
+                  "coords": [
+                        28.32745,
+                        47.878634
+                  ]
+            },
+            {
+                  "name": "Pod vechi de fier (înc.sec. XX)",
+                  "text": "Egy korai 20. századi vashíd Floreștiben, amely a történelmi ipari mérnöki munkát tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.280136,
+                        47.878013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "Un muzeu din Florești dedicat conservării istoriei locale și a artefactelor etnografice tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        28.303978,
+                        47.889692
+                  ]
+            },
+            {
+                  "name": "Gara Feroviară Florești;Gara Florești (clădire din sec. XIX)",
+                  "text": "O gară istorică din Florești, cu o arhitectură din secolul al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        28.307393,
+                        47.885753
+                  ]
+            },
+            {
+                  "name": "Bustul lui Miron Costin",
+                  "text": "Un monument în Florești ridicat în onoarea celebrului cronicar și politician moldovean Miron Costin.",
+                  "category": "historical",
+                  "coords": [
+                        28.301086,
+                        47.894815
+                  ]
+            },
+            {
+                  "name": "Самолёт МиГ-19",
+                  "text": "Un monument care prezintă un avion de vânătoare MiG-19, expus ca reper local în Florești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.286333,
+                        47.892396
+                  ]
+            },
+            {
+                  "name": "Monumentul Căzuți în Război",
+                  "text": "Un monument dedicat celor care și-au pierdut viața în războaiele secolului XX.",
+                  "category": "historical",
+                  "coords": [
+                        28.301093,
+                        47.889278
+                  ]
+            },
+            {
+                  "name": "Monument ostașilor căzuți în Afganistan și Transnistria",
+                  "text": "Un monument în Florești care îi comemorează pe soldații căzuți în conflictele din Afganistan și Transnistria.",
+                  "category": "historical",
+                  "coords": [
+                        28.299199,
+                        47.894807
+                  ]
+            },
+            {
+                  "name": "Pod din piatră (1893)",
+                  "text": "Un pod istoric din piatră în Florești, construit în 1893, peste râul Răut.",
+                  "category": "landmark",
+                  "coords": [
+                        28.333579,
+                        47.885179
+                  ]
+            },
+            {
+                  "name": "Săpătură în stâncă (sec. XIX)",
+                  "text": "Un sit care prezintă săpături în stâncă din secolul al XIX-lea, situat de-a lungul falezelor de lângă Florești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.327159,
+                        47.882947
+                  ]
+            },
+            {
+                  "name": "Grote",
+                  "text": "Grote naturale sau artificiale în stâncile de calcar, care prezintă interes pentru exploratorii locali.",
+                  "category": "landmark",
+                  "coords": [
+                        28.32745,
+                        47.878634
+                  ]
+            },
+            {
+                  "name": "Pod vechi de fier (înc.sec. XX)",
+                  "text": "Un pod vechi de fier de la începutul secolului al XX-lea din Florești, prezentând ingineria industrială istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        28.280136,
+                        47.878013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzeul de Istorie și Etnografie",
+                  "text": "A museum in Florești dedicated to preserving local history and traditional ethnographic artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        28.303978,
+                        47.889692
+                  ]
+            },
+            {
+                  "name": "Gara Feroviară Florești;Gara Florești (clădire din sec. XIX)",
+                  "text": "A historic railway station in Florești, featuring architecture from the 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        28.307393,
+                        47.885753
+                  ]
+            },
+            {
+                  "name": "Bustul lui Miron Costin",
+                  "text": "A monument in Florești honoring the famous Moldavian chronicler and politician Miron Costin.",
+                  "category": "historical",
+                  "coords": [
+                        28.301086,
+                        47.894815
+                  ]
+            },
+            {
+                  "name": "Самолёт МиГ-19",
+                  "text": "A monument featuring a MiG-19 fighter aircraft displayed as a local landmark in Florești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.286333,
+                        47.892396
+                  ]
+            },
+            {
+                  "name": "Monumentul Căzuți în Război",
+                  "text": "A memorial dedicated to those who lost their lives in the wars of the 20th century.",
+                  "category": "historical",
+                  "coords": [
+                        28.301093,
+                        47.889278
+                  ]
+            },
+            {
+                  "name": "Monument ostașilor căzuți în Afganistan și Transnistria",
+                  "text": "A monument in Florești commemorating soldiers killed in the conflicts in Afghanistan and Transnistria.",
+                  "category": "historical",
+                  "coords": [
+                        28.299199,
+                        47.894807
+                  ]
+            },
+            {
+                  "name": "Pod din piatră (1893)",
+                  "text": "A historic stone bridge in Florești built in 1893, spanning the Răut River.",
+                  "category": "landmark",
+                  "coords": [
+                        28.333579,
+                        47.885179
+                  ]
+            },
+            {
+                  "name": "Săpătură în stâncă (sec. XIX)",
+                  "text": "A site featuring 19th-century rock excavations located along the cliffs near Florești.",
+                  "category": "landmark",
+                  "coords": [
+                        28.327159,
+                        47.882947
+                  ]
+            },
+            {
+                  "name": "Grote",
+                  "text": "Natural or man-made caves in the limestone cliffs providing interest for local explorers.",
+                  "category": "landmark",
+                  "coords": [
+                        28.32745,
+                        47.878634
+                  ]
+            },
+            {
+                  "name": "Pod vechi de fier (înc.sec. XX)",
+                  "text": "An early 20th-century iron bridge in Florești showing historic industrial engineering.",
+                  "category": "landmark",
+                  "coords": [
+                        28.280136,
+                        47.878013
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "MD-034",
     coords: [28.3011, 47.8933],

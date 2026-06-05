@@ -3,7 +3,1924 @@ import { POI } from "./poi";
 
 export const luxembourgExtraCities: POI[] = [
   {
-    id: "lu-luxembourg-city",
+    id: "lu-luxembourg-city", "sights": {
+      "de": [
+            {
+                  "name": "Musée Dräi Eechelen",
+                  "text": "Musée Dräi Eechelen ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.139297,
+                        49.616395
+                  ]
+            },
+            {
+                  "name": "Casino Luxembourg - Forum d'art contemporain",
+                  "text": "Casino Luxembourg - Forum d'art contemporain ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.127167,
+                        49.609782
+                  ]
+            },
+            {
+                  "name": "Großherzogliches Palais",
+                  "text": "Grand Ducal Palace ist eine bekannte Burg in Luxemburg-Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        6.132913,
+                        49.610988
+                  ]
+            },
+            {
+                  "name": "Musée national d'histoire naturelle",
+                  "text": "Musée national d'histoire naturelle ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.135605,
+                        49.609699
+                  ]
+            },
+            {
+                  "name": "Lëtzebuerg City Museum",
+                  "text": "Lëtzebuerg City Museum ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.133629,
+                        49.609966
+                  ]
+            },
+            {
+                  "name": "Villa Vauban",
+                  "text": "Villa Vauban ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.122488,
+                        49.613107
+                  ]
+            },
+            {
+                  "name": "Musée de Tramways et de Bus",
+                  "text": "Musée de Tramways et de Bus ist ein bekanntes Museum in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.102746,
+                        49.599069
+                  ]
+            },
+            {
+                  "name": "Château de Septfontaines",
+                  "text": "Château de Septfontaines ist eine bekannte Burg in Luxemburg-Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        6.105077,
+                        49.625718
+                  ]
+            },
+            {
+                  "name": "Fort Dumoulin",
+                  "text": "Fort Dumoulin ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.150797,
+                        49.613166
+                  ]
+            },
+            {
+                  "name": "Fort Parkhöhe",
+                  "text": "Fort Parkhöhe ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.146439,
+                        49.616795
+                  ]
+            },
+            {
+                  "name": "Fort Rheinsheim",
+                  "text": "Fort Rheinsheim ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.121804,
+                        49.60693
+                  ]
+            },
+            {
+                  "name": "Fort Olizy",
+                  "text": "Fort Olizy ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.136778,
+                        49.618734
+                  ]
+            },
+            {
+                  "name": "Fort Niedergrünewald",
+                  "text": "Fort Niedergrünewald ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.133855,
+                        49.616302
+                  ]
+            },
+            {
+                  "name": "Fort Rumigny",
+                  "text": "Fort Rumigny ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.145647,
+                        49.611154
+                  ]
+            },
+            {
+                  "name": "Fort Rubamprez",
+                  "text": "Fort Rubamprez ist eine bekannte Festung in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.143118,
+                        49.610606
+                  ]
+            },
+            {
+                  "name": "Mansfeld-Schloss",
+                  "text": "\"La Fontaine\" Castle ist eine bekannte archäologische Stätte in Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.1443,
+                        49.615241
+                  ]
+            },
+            {
+                  "name": "Gëlle Fra",
+                  "text": "Gëlle Fra ist ein bekanntes Denkmal in Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.12936,
+                        49.60927
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Hôtel de Ville ist ein bekanntes Rathaus in Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.130489,
+                        49.610195
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Luxembourg",
+                  "text": "Grand Théâtre de Luxembourg ist ein bekanntes Theater in Luxemburg-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.127874,
+                        49.617779
+                  ]
+            },
+            {
+                  "name": "Rotondes",
+                  "text": "Rotondes ist ein bekanntes Kunstzentrum in Luxemburg-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.136469,
+                        49.601404
+                  ]
+            },
+            {
+                  "name": "Le Juste Milieu",
+                  "text": "Le Juste Milieu ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.134788,
+                        49.596837
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "Exaltation-de-la-Sainte-Croix ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.167644,
+                        49.610237
+                  ]
+            },
+            {
+                  "name": "Marie Reine de la Paix",
+                  "text": "Marie Reine de la Paix ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.138443,
+                        49.596487
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Saint-Jean-Baptiste ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.136186,
+                        49.610627
+                  ]
+            },
+            {
+                  "name": "Liebfrauendom",
+                  "text": "Notre-Dame Cathedral ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.131589,
+                        49.609602
+                  ]
+            },
+            {
+                  "name": "Saint-Pie X",
+                  "text": "Saint-Pie X ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.108094,
+                        49.610791
+                  ]
+            },
+            {
+                  "name": "St.-Michaelskirche",
+                  "text": "Église de Saint-Michel ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.134862,
+                        49.611228
+                  ]
+            },
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Saint-Joseph ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.121024,
+                        49.620651
+                  ]
+            },
+            {
+                  "name": "Grande Synagogue de Luxembourg",
+                  "text": "Grande Synagogue de Luxembourg ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.121644,
+                        49.609655
+                  ]
+            },
+            {
+                  "name": "St. Peter und Paul",
+                  "text": "Saints-Pierre-et-Paul ist ein bekanntes Gotteshaus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.118872,
+                        49.599137
+                  ]
+            },
+            {
+                  "name": "Saint-Gengoul",
+                  "text": "Saint-Gengoul ist ein Gotteshaus im Viertel Merl in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.093344,
+                        49.602573
+                  ]
+            },
+            {
+                  "name": "Saint-Henri",
+                  "text": "Saint-Henri ist eine Kirche im Stadtteil Neudorf von Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.162538,
+                        49.621725
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "Saint-Hubert ist eine Kirche im Stadtteil Dommeldingen in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.138333,
+                        49.633972
+                  ]
+            },
+            {
+                  "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
+                  "text": "Die Evangelische Gemeinde deutscher Sprache in Luxemburg-Stadt ist auch als Martin-Luther-Haus bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        6.115389,
+                        49.610045
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse de Lisieux",
+                  "text": "Sainte-Thérèse de Lisieux ist eine Kirche im Stadtviertel Gasperich von Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.122428,
+                        49.591451
+                  ]
+            },
+            {
+                  "name": "Peter und Paul (russ.-orth.)",
+                  "text": "Saints-Apôtres-Pierre-et-Paul ist die russisch-orthodoxe Kirche von Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.119516,
+                        49.61422
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "Saint-Martin ist eine Kirche im Viertel Weimerskirch in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.13509,
+                        49.62784
+                  ]
+            },
+            {
+                  "name": "Saint-Fiacre",
+                  "text": "Saint-Fiacre ist eine Kirche im Stadtteil Mühlenbach von Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.11803,
+                        49.630533
+                  ]
+            },
+            {
+                  "name": "Sacré-Cœur",
+                  "text": "Die Sacred-Heart Church ist ein bedeutendes Gotteshaus im Bahnhofsviertel von Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.13141,
+                        49.604453
+                  ]
+            },
+            {
+                  "name": "Chapelle du Christ-Roi",
+                  "text": "Die Chapelle du Christ-Roi ist eine religiöse Kapelle in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.116645,
+                        49.60991
+                  ]
+            },
+            {
+                  "name": "Stadt-Palais",
+                  "text": "Der Cercle municipal ist ein repräsentatives Verwaltungs- und Kulturgebäude im Zentrum von Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.130179,
+                        49.611365
+                  ]
+            },
+            {
+                  "name": "Trois Tours",
+                  "text": "Die Trois Tours sind historische Wehrtürme der ehemaligen Festungsanlagen von Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133358,
+                        49.612531
+                  ]
+            },
+            {
+                  "name": "Dent Creuse",
+                  "text": "Dent Creuse, auch bekannt als Hohler Zahn, ist eine markante historische Ruine in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.137665,
+                        49.612018
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Quirin",
+                  "text": "Die Chapelle Saint-Quirin ist eine historische Kapelle in Luxemburg-Stadt, die teilweise in die Felswand hineingebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        6.135101,
+                        49.605667
+                  ]
+            },
+            {
+                  "name": "Théiwesbur",
+                  "text": "Théiwesbur ist eine historische Quelle und ein ehemaliges öffentliches Waschhaus in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132837,
+                        49.616041
+                  ]
+            },
+            {
+                  "name": "Tour Malakoff",
+                  "text": "Der Tour Malakoff ist ein Wehrturm, der zu den historischen Befestigungsanlagen von Luxemburg-Stadt gehörte.",
+                  "category": "tower",
+                  "coords": [
+                        6.143994,
+                        49.61673
+                  ]
+            },
+            {
+                  "name": "Großherzogin-Charlotte-Brücke",
+                  "text": "Der Pont Grande-Duchesse Charlotte ist eine wichtige Brücke in Luxemburg-Stadt, die umgangssprachlich als Rote Brücke bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.131761,
+                        49.617767
+                  ]
+            },
+            {
+                  "name": "Adolphe-Brücke",
+                  "text": "Der Pont Adolphe ist eine ikonische Bogenbrücke, die das Petruss-Tal in Luxemburg-Stadt überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.126928,
+                        49.608459
+                  ]
+            },
+            {
+                  "name": "Alte Brücke",
+                  "text": "Der Pont Viaduc, auch bekannt als Passerelle, ist eine historische Brücke, die Teile von Luxemburg-Stadt verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133566,
+                        49.60591
+                  ]
+            },
+            {
+                  "name": "Viaduc Pulvermühle",
+                  "text": "Das Viaduc Pulvermühle ist ein großes Eisenbahnviadukt in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.139312,
+                        49.607846
+                  ]
+            },
+            {
+                  "name": "Clausener Viaduc",
+                  "text": "Das Clausener Viaduc ist eine wichtige Eisenbahnbrücke in Luxemburg-Stadt, die das Alzette-Tal überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.140102,
+                        49.611698
+                  ]
+            },
+            {
+                  "name": "Pont Jean-Pierre Buchler",
+                  "text": "Der Pont Jean-Pierre Buchler ist eine Straßenbrücke, die in Luxemburg-Stadt über die Eisenbahngleise führt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132068,
+                        49.596645
+                  ]
+            },
+            {
+                  "name": "Pafendaller Viaduc",
+                  "text": "Das Pafendaller Viaduc ist eine markante Brücke im Stadtgebiet von Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.138071,
+                        49.613388
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Dräi Eechelen",
+                  "text": "A Musée Dräi Eechelen egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.139297,
+                        49.616395
+                  ]
+            },
+            {
+                  "name": "Casino Luxembourg - Forum d'art contemporain",
+                  "text": "A Casino Luxembourg - Forum d'art contemporain egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.127167,
+                        49.609782
+                  ]
+            },
+            {
+                  "name": "Palais Grand Ducal",
+                  "text": "A Grand Ducal Palace egy jelentős vár Luxemburg-Stadt városában.",
+                  "category": "castle",
+                  "coords": [
+                        6.132913,
+                        49.610988
+                  ]
+            },
+            {
+                  "name": "Musée national d'histoire naturelle",
+                  "text": "A Musée national d'histoire naturelle egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.135605,
+                        49.609699
+                  ]
+            },
+            {
+                  "name": "Lëtzebuerg City Museum",
+                  "text": "A Lëtzebuerg City Museum egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.133629,
+                        49.609966
+                  ]
+            },
+            {
+                  "name": "Villa Vauban",
+                  "text": "A Villa Vauban egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.122488,
+                        49.613107
+                  ]
+            },
+            {
+                  "name": "Musée de Tramways et de Bus",
+                  "text": "A Musée de Tramways et de Bus egy jelentős múzeum Luxemburg-Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.102746,
+                        49.599069
+                  ]
+            },
+            {
+                  "name": "Château de Septfontaines",
+                  "text": "A Château de Septfontaines egy jelentős vár Luxemburg-Stadt városában.",
+                  "category": "castle",
+                  "coords": [
+                        6.105077,
+                        49.625718
+                  ]
+            },
+            {
+                  "name": "Fort Dumoulin",
+                  "text": "A Fort Dumoulin egy jelentős erőd Luxemburg-Stadt városában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.150797,
+                        49.613166
+                  ]
+            },
+            {
+                  "name": "Fort Parkhöhe",
+                  "text": "A Fort Parkhöhe egy jelentős erőd Luxemburg-Stadt városában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.146439,
+                        49.616795
+                  ]
+            },
+            {
+                  "name": "Fort Rheinsheim",
+                  "text": "A Fort Rheinsheim egy jelentős erőd Luxemburg-Stadt városában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.121804,
+                        49.60693
+                  ]
+            },
+            {
+                  "name": "Fort Olizy",
+                  "text": "A Fort Olizy egy jelentős erőd Luxemburg-Stadt városában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.136778,
+                        49.618734
+                  ]
+            },
+            {
+                  "name": "Fort Niedergrünewald",
+                  "text": "A Fort Niedergrünewald egy jelentős erőd Luxemburg-Stadt városában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.133855,
+                        49.616302
+                  ]
+            },
+            {
+                  "name": "Fort Rumigny",
+                  "text": "A Fort Rumigny egy jelentős erőd Luxemburg-Stadt városában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.145647,
+                        49.611154
+                  ]
+            },
+            {
+                  "name": "Fort Rubamprez",
+                  "text": "A Fort Rubamprez egy jelentős erőd Luxemburg-Stadt városában.",
+                  "category": "fortress",
+                  "coords": [
+                        6.143118,
+                        49.610606
+                  ]
+            },
+            {
+                  "name": "Schlass La Fontaine",
+                  "text": "A \"La Fontaine\" Castle egy jelentős régészeti lelőhely Luxemburg-Stadt városában.",
+                  "category": "historical",
+                  "coords": [
+                        6.1443,
+                        49.615241
+                  ]
+            },
+            {
+                  "name": "Gëlle Fra",
+                  "text": "A Gëlle Fra egy jelentős emlékmű Luxemburg-Stadt városában.",
+                  "category": "historical",
+                  "coords": [
+                        6.12936,
+                        49.60927
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "A Hôtel de Ville egy jelentős városháza Luxemburg-Stadt városában.",
+                  "category": "historical",
+                  "coords": [
+                        6.130489,
+                        49.610195
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Luxembourg",
+                  "text": "A Grand Théâtre de Luxembourg egy jelentős színház Luxemburg-Stadt városában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.127874,
+                        49.617779
+                  ]
+            },
+            {
+                  "name": "Rotondes",
+                  "text": "A Rotondes egy jelentős művészeti központ Luxemburg-Stadt városában.",
+                  "category": "cultural",
+                  "coords": [
+                        6.136469,
+                        49.601404
+                  ]
+            },
+            {
+                  "name": "Le Juste Milieu",
+                  "text": "A Le Juste Milieu egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.134788,
+                        49.596837
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "Az Exaltation-de-la-Sainte-Croix egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.167644,
+                        49.610237
+                  ]
+            },
+            {
+                  "name": "Marie Reine de la Paix",
+                  "text": "A Marie Reine de la Paix egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.138443,
+                        49.596487
+                  ]
+            },
+            {
+                  "name": "Saint-Jean-Baptiste",
+                  "text": "A Saint-Jean-Baptiste egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.136186,
+                        49.610627
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame de Luxembourg",
+                  "text": "A Notre-Dame Cathedral egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.131589,
+                        49.609602
+                  ]
+            },
+            {
+                  "name": "Saint-Pie X",
+                  "text": "A Saint-Pie X egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.108094,
+                        49.610791
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Michel",
+                  "text": "Az Église de Saint-Michel egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.134862,
+                        49.611228
+                  ]
+            },
+            {
+                  "name": "Saint-Joseph",
+                  "text": "A Saint-Joseph egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.121024,
+                        49.620651
+                  ]
+            },
+            {
+                  "name": "Grande Synagogue de Luxembourg",
+                  "text": "A Grande Synagogue de Luxembourg egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.121644,
+                        49.609655
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "A Saints-Pierre-et-Paul egy jelentős istentiszteleti hely Luxemburg-Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.118872,
+                        49.599137
+                  ]
+            },
+            {
+                  "name": "Saint-Gengoul",
+                  "text": "A Saint-Gengoul egy istentiszteleti hely Luxemburg-Stadt Merl negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.093344,
+                        49.602573
+                  ]
+            },
+            {
+                  "name": "Saint-Henri",
+                  "text": "A Saint-Henri egy templom Luxemburg-Stadt Neudorf negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.162538,
+                        49.621725
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "A Saint-Hubert templom Luxemburg-Stadt Dommeldange nevű részén található.",
+                  "category": "religious",
+                  "coords": [
+                        6.138333,
+                        49.633972
+                  ]
+            },
+            {
+                  "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
+                  "text": "Az Evangelische Gemeinde deutscher Sprache in Luxemburg egy istentiszteleti hely, amely Martin-Luther-Haus néven ismert Luxemburg-Stadtban.",
+                  "category": "religious",
+                  "coords": [
+                        6.115389,
+                        49.610045
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse de Lisieux",
+                  "text": "A Sainte-Thérèse de Lisieux templom Luxemburg-Stadt Gasperich negyedében található.",
+                  "category": "religious",
+                  "coords": [
+                        6.122428,
+                        49.591451
+                  ]
+            },
+            {
+                  "name": "Saints-Apôtres-Pierre-et-Paul",
+                  "text": "A Saints-Apôtres-Pierre-et-Paul az orosz ortodox templom Luxemburg-Stadtban.",
+                  "category": "religious",
+                  "coords": [
+                        6.119516,
+                        49.61422
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "A Saint-Martin templom Luxemburg-Stadt Weimerskirch negyedében helyezkedik el.",
+                  "category": "religious",
+                  "coords": [
+                        6.13509,
+                        49.62784
+                  ]
+            },
+            {
+                  "name": "Saint-Fiacre",
+                  "text": "A Saint-Fiacre templom Luxemburg-Stadt Muhlenbach nevű városrészében található.",
+                  "category": "religious",
+                  "coords": [
+                        6.11803,
+                        49.630533
+                  ]
+            },
+            {
+                  "name": "Sacré-Cœur",
+                  "text": "A Sacred-Heart Church egy ismert istentiszteleti hely Luxemburg-Stadt vasútállomás körüli negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.13141,
+                        49.604453
+                  ]
+            },
+            {
+                  "name": "Chapelle du Christ-Roi",
+                  "text": "A Chapelle du Christ-Roi egy vallási kápolna Luxemburg-Stadt területén.",
+                  "category": "religious",
+                  "coords": [
+                        6.116645,
+                        49.60991
+                  ]
+            },
+            {
+                  "name": "Cercle municipal",
+                  "text": "A Cercle municipal egy kiemelkedő adminisztratív és kulturális épület Luxemburg-Stadt központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        6.130179,
+                        49.611365
+                  ]
+            },
+            {
+                  "name": "Trois Tours",
+                  "text": "A Trois Tours egy történelmi védőtorony-együttes Luxemburg-Stadt egykori erődítményében.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133358,
+                        49.612531
+                  ]
+            },
+            {
+                  "name": "Dent Creuse",
+                  "text": "A Dent Creuse, más néven Odvas Fog, egy felismerhető történelmi rom Luxemburg-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.137665,
+                        49.612018
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Quirin",
+                  "text": "A Chapelle Saint-Quirin egy ősi kápolna Luxemburg-Stadtban, amelyet részben a sziklafalba vájtak.",
+                  "category": "landmark",
+                  "coords": [
+                        6.135101,
+                        49.605667
+                  ]
+            },
+            {
+                  "name": "Théiwesbur",
+                  "text": "A Théiwesbur egy történelmi forrás és egykori nyilvános mosóház Luxemburg-Stadt területén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132837,
+                        49.616041
+                  ]
+            },
+            {
+                  "name": "Tour Malakoff",
+                  "text": "A Tour Malakoff egy védőtorony, amely Luxemburg-Stadt történelmi erődítményeinek része volt.",
+                  "category": "tower",
+                  "coords": [
+                        6.143994,
+                        49.61673
+                  ]
+            },
+            {
+                  "name": "Pont Grande-Duchesse Charlotte",
+                  "text": "A Pont Grande-Duchesse Charlotte egy kiemelkedő híd Luxemburg-Stadtban, amelyet Vörös Híd néven is ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        6.131761,
+                        49.617767
+                  ]
+            },
+            {
+                  "name": "Pont Adolphe",
+                  "text": "A Pont Adolphe egy ikonikus ívhíd, amely a Pétrusse-völgyön ível át Luxemburg-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.126928,
+                        49.608459
+                  ]
+            },
+            {
+                  "name": "Pont Viaduc",
+                  "text": "A Pont Viaduc, más néven Passerelle, egy történelmi híd Luxemburg-Stadt különböző részei között.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133566,
+                        49.60591
+                  ]
+            },
+            {
+                  "name": "Viaduc Pulvermühle",
+                  "text": "A Viaduc Pulvermühle egy fontos vasúti viadukt Luxemburg-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.139312,
+                        49.607846
+                  ]
+            },
+            {
+                  "name": "Clausener Viaduc",
+                  "text": "A Clausener Viaduc egy fontos vasúti híd, amely az Alzette völgyét szeli át Luxemburg-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.140102,
+                        49.611698
+                  ]
+            },
+            {
+                  "name": "Pont Jean-Pierre Buchler",
+                  "text": "A Pont Jean-Pierre Buchler egy közúti híd Luxemburg-Stadtban, amely a vasúti sínek felett halad át.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132068,
+                        49.596645
+                  ]
+            },
+            {
+                  "name": "Pafendaller Viaduc",
+                  "text": "A Pafendaller Viaduc egy jelentős szerkezeti híd Luxemburg-Stadtban.",
+                  "category": "landmark",
+                  "coords": [
+                        6.138071,
+                        49.613388
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Dräi Eechelen",
+                  "text": "Musée Dräi Eechelen este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.139297,
+                        49.616395
+                  ]
+            },
+            {
+                  "name": "Casino Luxembourg - Forum d'art contemporain",
+                  "text": "Casino Luxembourg - Forum d'art contemporain este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.127167,
+                        49.609782
+                  ]
+            },
+            {
+                  "name": "Palais Grand Ducal",
+                  "text": "Grand Ducal Palace este un castel notabil situat în Luxemburg-Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        6.132913,
+                        49.610988
+                  ]
+            },
+            {
+                  "name": "Musée national d'histoire naturelle",
+                  "text": "Musée national d'histoire naturelle este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.135605,
+                        49.609699
+                  ]
+            },
+            {
+                  "name": "Lëtzebuerg City Museum",
+                  "text": "Lëtzebuerg City Museum este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.133629,
+                        49.609966
+                  ]
+            },
+            {
+                  "name": "Villa Vauban",
+                  "text": "Villa Vauban este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.122488,
+                        49.613107
+                  ]
+            },
+            {
+                  "name": "Musée de Tramways et de Bus",
+                  "text": "Musée de Tramways et de Bus este un muzeu notabil situat în Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.102746,
+                        49.599069
+                  ]
+            },
+            {
+                  "name": "Château de Septfontaines",
+                  "text": "Château de Septfontaines este un castel notabil situat în Luxemburg-Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        6.105077,
+                        49.625718
+                  ]
+            },
+            {
+                  "name": "Fort Dumoulin",
+                  "text": "Fort Dumoulin este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.150797,
+                        49.613166
+                  ]
+            },
+            {
+                  "name": "Fort Parkhöhe",
+                  "text": "Fort Parkhöhe este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.146439,
+                        49.616795
+                  ]
+            },
+            {
+                  "name": "Fort Rheinsheim",
+                  "text": "Fort Rheinsheim este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.121804,
+                        49.60693
+                  ]
+            },
+            {
+                  "name": "Fort Olizy",
+                  "text": "Fort Olizy este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.136778,
+                        49.618734
+                  ]
+            },
+            {
+                  "name": "Fort Niedergrünewald",
+                  "text": "Fort Niedergrünewald este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.133855,
+                        49.616302
+                  ]
+            },
+            {
+                  "name": "Fort Rumigny",
+                  "text": "Fort Rumigny este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.145647,
+                        49.611154
+                  ]
+            },
+            {
+                  "name": "Fort Rubamprez",
+                  "text": "Fort Rubamprez este o fortăreață notabilă situată în Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.143118,
+                        49.610606
+                  ]
+            },
+            {
+                  "name": "Schlass La Fontaine",
+                  "text": "\"La Fontaine\" Castle este un sit arheologic notabil situat în Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.1443,
+                        49.615241
+                  ]
+            },
+            {
+                  "name": "Gëlle Fra",
+                  "text": "Gëlle Fra este un monument notabil situat în Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.12936,
+                        49.60927
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Hôtel de Ville este o primărie notabilă situată în Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.130489,
+                        49.610195
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Luxembourg",
+                  "text": "Grand Théâtre de Luxembourg este un teatru notabil situat în Luxemburg-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.127874,
+                        49.617779
+                  ]
+            },
+            {
+                  "name": "Rotondes",
+                  "text": "Rotondes este un centru de arte notabil situat în Luxemburg-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.136469,
+                        49.601404
+                  ]
+            },
+            {
+                  "name": "Le Juste Milieu",
+                  "text": "Le Juste Milieu este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.134788,
+                        49.596837
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "Exaltation-de-la-Sainte-Croix este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.167644,
+                        49.610237
+                  ]
+            },
+            {
+                  "name": "Marie Reine de la Paix",
+                  "text": "Marie Reine de la Paix este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.138443,
+                        49.596487
+                  ]
+            },
+            {
+                  "name": "Saint-Jean-Baptiste",
+                  "text": "Saint-Jean-Baptiste este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.136186,
+                        49.610627
+                  ]
+            },
+            {
+                  "name": "Cathédrale Notre-Dame de Luxembourg",
+                  "text": "Notre-Dame Cathedral este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.131589,
+                        49.609602
+                  ]
+            },
+            {
+                  "name": "Saint-Pie X",
+                  "text": "Saint-Pie X este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.108094,
+                        49.610791
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Michel",
+                  "text": "Église de Saint-Michel este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.134862,
+                        49.611228
+                  ]
+            },
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Saint-Joseph este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.121024,
+                        49.620651
+                  ]
+            },
+            {
+                  "name": "Grande Synagogue de Luxembourg",
+                  "text": "Grande Synagogue de Luxembourg este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.121644,
+                        49.609655
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "Saints-Pierre-et-Paul este un lăcaș de cult notabil situat în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.118872,
+                        49.599137
+                  ]
+            },
+            {
+                  "name": "Saint-Gengoul",
+                  "text": "Saint-Gengoul este un lăcaș de cult situat în cartierul Merl din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.093344,
+                        49.602573
+                  ]
+            },
+            {
+                  "name": "Saint-Henri",
+                  "text": "Saint-Henri este o biserică situată în cartierul Neudorf din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.162538,
+                        49.621725
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "Saint-Hubert este o biserică situată în zona Dommeldange din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.138333,
+                        49.633972
+                  ]
+            },
+            {
+                  "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
+                  "text": "Evangelische Gemeinde deutscher Sprache in Luxemburg este un lăcaș de cult cunoscut sub numele de Martin-Luther-Haus în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.115389,
+                        49.610045
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse de Lisieux",
+                  "text": "Sainte-Thérèse de Lisieux este o biserică situată în cartierul Gasperich din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.122428,
+                        49.591451
+                  ]
+            },
+            {
+                  "name": "Saints-Apôtres-Pierre-et-Paul",
+                  "text": "Saints-Apôtres-Pierre-et-Paul este biserica ortodoxă rusă din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.119516,
+                        49.61422
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "Saint-Martin este o biserică situată în cartierul Weimerskirch din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.13509,
+                        49.62784
+                  ]
+            },
+            {
+                  "name": "Saint-Fiacre",
+                  "text": "Saint-Fiacre este o biserică situată în cartierul Muhlenbach din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.11803,
+                        49.630533
+                  ]
+            },
+            {
+                  "name": "Sacré-Cœur",
+                  "text": "Sacred-Heart Church este un important lăcaș de cult situat în zona gării din Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.13141,
+                        49.604453
+                  ]
+            },
+            {
+                  "name": "Chapelle du Christ-Roi",
+                  "text": "Chapelle du Christ-Roi este o capelă religioasă situată în Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.116645,
+                        49.60991
+                  ]
+            },
+            {
+                  "name": "Cercle municipal",
+                  "text": "Cercle municipal este o clădire administrativă și culturală importantă din centrul orașului Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.130179,
+                        49.611365
+                  ]
+            },
+            {
+                  "name": "Trois Tours",
+                  "text": "Trois Tours sunt turnuri istorice care făceau parte din zidurile cetății din Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133358,
+                        49.612531
+                  ]
+            },
+            {
+                  "name": "Dent Creuse",
+                  "text": "Dent Creuse, cunoscută și sub numele de Dintele Gol, este o ruină istorică emblematică din Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.137665,
+                        49.612018
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Quirin",
+                  "text": "Chapelle Saint-Quirin este o capelă străveche din Luxemburg-Stadt, construită parțial în stâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        6.135101,
+                        49.605667
+                  ]
+            },
+            {
+                  "name": "Théiwesbur",
+                  "text": "Théiwesbur este un izvor istoric și fostă spălătorie publică situată în Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132837,
+                        49.616041
+                  ]
+            },
+            {
+                  "name": "Tour Malakoff",
+                  "text": "Tour Malakoff este un turn defensiv care a făcut parte din fortificațiile istorice din Luxemburg-Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        6.143994,
+                        49.61673
+                  ]
+            },
+            {
+                  "name": "Pont Grande-Duchesse Charlotte",
+                  "text": "Pont Grande-Duchesse Charlotte este un pod proeminent din Luxemburg-Stadt, cunoscut și sub denumirea de Podul Roșu.",
+                  "category": "landmark",
+                  "coords": [
+                        6.131761,
+                        49.617767
+                  ]
+            },
+            {
+                  "name": "Pont Adolphe",
+                  "text": "Pont Adolphe este un pod în arc emblematic care traversează valea Pétrusse din Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.126928,
+                        49.608459
+                  ]
+            },
+            {
+                  "name": "Pont Viaduc",
+                  "text": "Pont Viaduc, cunoscut și sub numele de Passerelle, este un pod istoric ce conectează diferite părți ale orașului Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133566,
+                        49.60591
+                  ]
+            },
+            {
+                  "name": "Viaduc Pulvermühle",
+                  "text": "Viaduc Pulvermühle este un important viaduct feroviar situat în Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.139312,
+                        49.607846
+                  ]
+            },
+            {
+                  "name": "Clausener Viaduc",
+                  "text": "Clausener Viaduc este un pod feroviar important care traversează valea Alzette în Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.140102,
+                        49.611698
+                  ]
+            },
+            {
+                  "name": "Pont Jean-Pierre Buchler",
+                  "text": "Pont Jean-Pierre Buchler este un pod rutier care traversează liniile ferate centrale din Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132068,
+                        49.596645
+                  ]
+            },
+            {
+                  "name": "Pafendaller Viaduc",
+                  "text": "Pafendaller Viaduc este un pod structural proeminent situat în Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.138071,
+                        49.613388
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Dräi Eechelen",
+                  "text": "Musée Dräi Eechelen is a notable museum located in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.139297,
+                        49.616395
+                  ]
+            },
+            {
+                  "name": "Casino Luxembourg - Forum d'art contemporain",
+                  "text": "Casino Luxembourg - Forum d'art contemporain is a notable museum located in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.127167,
+                        49.609782
+                  ]
+            },
+            {
+                  "name": "Grand Ducal Palace",
+                  "text": "Grand Ducal Palace is a notable castle located in Luxemburg-Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        6.132913,
+                        49.610988
+                  ]
+            },
+            {
+                  "name": "Musée national d'histoire naturelle",
+                  "text": "Musée national d'histoire naturelle is a notable museum located in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.135605,
+                        49.609699
+                  ]
+            },
+            {
+                  "name": "Lëtzebuerg City Museum",
+                  "text": "Lëtzebuerg City Museum is a notable museum located in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.133629,
+                        49.609966
+                  ]
+            },
+            {
+                  "name": "Villa Vauban",
+                  "text": "Villa Vauban is a notable museum located in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.122488,
+                        49.613107
+                  ]
+            },
+            {
+                  "name": "Musée de Tramways et de Bus",
+                  "text": "Musée de Tramways et de Bus is a notable museum located in Luxemburg-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        6.102746,
+                        49.599069
+                  ]
+            },
+            {
+                  "name": "Château de Septfontaines",
+                  "text": "Château de Septfontaines is a notable castle located in Luxemburg-Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        6.105077,
+                        49.625718
+                  ]
+            },
+            {
+                  "name": "Fort Dumoulin",
+                  "text": "Fort Dumoulin is a notable fort located in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.150797,
+                        49.613166
+                  ]
+            },
+            {
+                  "name": "Fort Parkhöhe",
+                  "text": "Fort Parkhöhe is a notable fort located in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.146439,
+                        49.616795
+                  ]
+            },
+            {
+                  "name": "Fort Rheinsheim",
+                  "text": "Fort Rheinsheim is a notable fort located in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.121804,
+                        49.60693
+                  ]
+            },
+            {
+                  "name": "Fort Olizy",
+                  "text": "Fort Olizy is a notable fort located in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.136778,
+                        49.618734
+                  ]
+            },
+            {
+                  "name": "Fort Niedergrünewald",
+                  "text": "Fort Niedergrünewald is a notable fort located in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.133855,
+                        49.616302
+                  ]
+            },
+            {
+                  "name": "Fort Rumigny",
+                  "text": "Fort Rumigny is a notable fort located in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.145647,
+                        49.611154
+                  ]
+            },
+            {
+                  "name": "Fort Rubamprez",
+                  "text": "Fort Rubamprez is a notable fort located in Luxemburg-Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        6.143118,
+                        49.610606
+                  ]
+            },
+            {
+                  "name": "\"La Fontaine\" Castle",
+                  "text": "\"La Fontaine\" Castle is a notable archaeological site located in Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.1443,
+                        49.615241
+                  ]
+            },
+            {
+                  "name": "Gëlle Fra",
+                  "text": "Gëlle Fra is a notable monument located in Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.12936,
+                        49.60927
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Hôtel de Ville is a notable town hall located in Luxemburg-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        6.130489,
+                        49.610195
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Luxembourg",
+                  "text": "Grand Théâtre de Luxembourg is a notable theatre located in Luxemburg-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.127874,
+                        49.617779
+                  ]
+            },
+            {
+                  "name": "Rotondes",
+                  "text": "Rotondes is a notable arts centre located in Luxemburg-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.136469,
+                        49.601404
+                  ]
+            },
+            {
+                  "name": "Le Juste Milieu",
+                  "text": "Le Juste Milieu is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.134788,
+                        49.596837
+                  ]
+            },
+            {
+                  "name": "Exaltation-de-la-Sainte-Croix",
+                  "text": "Exaltation-de-la-Sainte-Croix is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.167644,
+                        49.610237
+                  ]
+            },
+            {
+                  "name": "Marie Reine de la Paix",
+                  "text": "Marie Reine de la Paix is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.138443,
+                        49.596487
+                  ]
+            },
+            {
+                  "name": "Saint-Jean-Baptiste",
+                  "text": "Saint-Jean-Baptiste is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.136186,
+                        49.610627
+                  ]
+            },
+            {
+                  "name": "Notre-Dame Cathedral",
+                  "text": "Notre-Dame Cathedral is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.131589,
+                        49.609602
+                  ]
+            },
+            {
+                  "name": "Saint-Pie X",
+                  "text": "Saint-Pie X is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.108094,
+                        49.610791
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Michel",
+                  "text": "Église de Saint-Michel is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.134862,
+                        49.611228
+                  ]
+            },
+            {
+                  "name": "Saint-Joseph",
+                  "text": "Saint-Joseph is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.121024,
+                        49.620651
+                  ]
+            },
+            {
+                  "name": "Grande Synagogue de Luxembourg",
+                  "text": "Grande Synagogue de Luxembourg is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.121644,
+                        49.609655
+                  ]
+            },
+            {
+                  "name": "Saints-Pierre-et-Paul",
+                  "text": "Saints-Pierre-et-Paul is a notable place of worship located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.118872,
+                        49.599137
+                  ]
+            },
+            {
+                  "name": "Saint-Gengoul",
+                  "text": "Saint-Gengoul is a place of worship located in the Merl quarter of Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.093344,
+                        49.602573
+                  ]
+            },
+            {
+                  "name": "Saint-Henri",
+                  "text": "Saint-Henri is a prominent church situated in the Neudorf district of Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.162538,
+                        49.621725
+                  ]
+            },
+            {
+                  "name": "Saint-Hubert",
+                  "text": "Saint-Hubert is a church located in the Dommeldange area of Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.138333,
+                        49.633972
+                  ]
+            },
+            {
+                  "name": "Evangelische Gemeinde deutscher Sprache in Luxemburg",
+                  "text": "The Evangelische Gemeinde deutscher Sprache in Luxemburg is a place of worship known as the Martin-Luther-Haus in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.115389,
+                        49.610045
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse de Lisieux",
+                  "text": "Sainte-Thérèse de Lisieux is a church serving the Gasperich district in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.122428,
+                        49.591451
+                  ]
+            },
+            {
+                  "name": "Saints-Apôtres-Pierre-et-Paul",
+                  "text": "Saints-Apôtres-Pierre-et-Paul is the Russian Orthodox church located in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.119516,
+                        49.61422
+                  ]
+            },
+            {
+                  "name": "Saint-Martin",
+                  "text": "Saint-Martin is a church situated in the Weimerskirch neighborhood of Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.13509,
+                        49.62784
+                  ]
+            },
+            {
+                  "name": "Saint-Fiacre",
+                  "text": "Saint-Fiacre is a local church located in the Muhlenbach district of Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.11803,
+                        49.630533
+                  ]
+            },
+            {
+                  "name": "Sacred-Heart Church",
+                  "text": "The Sacred-Heart Church is a prominent place of worship located in the station district of Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.13141,
+                        49.604453
+                  ]
+            },
+            {
+                  "name": "Chapelle du Christ-Roi",
+                  "text": "Chapelle du Christ-Roi is a notable religious chapel situated in Luxemburg-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        6.116645,
+                        49.60991
+                  ]
+            },
+            {
+                  "name": "Cercle municipal",
+                  "text": "The Cercle municipal is a prominent administrative and cultural building located in the center of Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.130179,
+                        49.611365
+                  ]
+            },
+            {
+                  "name": "Trois Tours",
+                  "text": "The Trois Tours are part of the historic fortress walls in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133358,
+                        49.612531
+                  ]
+            },
+            {
+                  "name": "Dent Creuse",
+                  "text": "Dent Creuse, also known as the Hollow Tooth, is a recognizable historical ruin located in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.137665,
+                        49.612018
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Quirin",
+                  "text": "Chapelle Saint-Quirin is an ancient chapel partially built into the rocky cliffs of Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.135101,
+                        49.605667
+                  ]
+            },
+            {
+                  "name": "Théiwesbur",
+                  "text": "Théiwesbur is a historic spring and former public washhouse situated in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132837,
+                        49.616041
+                  ]
+            },
+            {
+                  "name": "Tour Malakoff",
+                  "text": "Tour Malakoff is a defensive tower that formed part of the historic fortifications of Luxemburg-Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        6.143994,
+                        49.61673
+                  ]
+            },
+            {
+                  "name": "Pont Grande-Duchesse Charlotte",
+                  "text": "The Pont Grande-Duchesse Charlotte is a prominent bridge in Luxemburg-Stadt widely known as the Red Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        6.131761,
+                        49.617767
+                  ]
+            },
+            {
+                  "name": "Pont Adolphe",
+                  "text": "Pont Adolphe is an iconic arch bridge spanning the Pétrusse valley in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.126928,
+                        49.608459
+                  ]
+            },
+            {
+                  "name": "Pont Viaduc",
+                  "text": "Pont Viaduc, also referred to as the Passerelle, is a historic bridge connecting different parts of Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.133566,
+                        49.60591
+                  ]
+            },
+            {
+                  "name": "Viaduc Pulvermühle",
+                  "text": "The Viaduc Pulvermühle is a major railway viaduct serving Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.139312,
+                        49.607846
+                  ]
+            },
+            {
+                  "name": "Clausener Viaduc",
+                  "text": "The Clausener Viaduc is an important railway bridge crossing the Alzette valley in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.140102,
+                        49.611698
+                  ]
+            },
+            {
+                  "name": "Pont Jean-Pierre Buchler",
+                  "text": "Pont Jean-Pierre Buchler is a road bridge that spans over the central railway tracks in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.132068,
+                        49.596645
+                  ]
+            },
+            {
+                  "name": "Pafendaller Viaduc",
+                  "text": "The Pafendaller Viaduc is a prominent structural bridge located in Luxemburg-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.138071,
+                        49.613388
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "lu-country",
     coords: [6.1319, 49.6116],

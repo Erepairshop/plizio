@@ -127,7 +127,88 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kabwe-cities-v2",
+    id: "kabwe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "Eine historische Dampflokomotive, die als Denkmal in Kabwe ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "Eine ausgestellte Dampflokomotive, die an die Eisenbahngeschichte von Kabwe erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "Kabwéban emlékműként kiállított történelmi gőzmozdony.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "Kiállított gőzmozdony, amely Kabwe vasúttörténetére emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "O locomotivă cu abur istorică expusă ca monument în Kabwe.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "O locomotivă cu abur expusă care amintește de istoria feroviară a orașului Kabwe.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "steam locomotive 113",
+                  "text": "A historic steam locomotive displayed as a monument in Kabwe.",
+                  "category": "landmark",
+                  "coords": [
+                        28.441251,
+                        -14.447596
+                  ]
+            },
+            {
+                  "name": "steam locomotive",
+                  "text": "A displayed steam locomotive commemorating the railway history of Kabwe.",
+                  "category": "landmark",
+                  "coords": [
+                        28.443085,
+                        -14.446361
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-02",
     coords: [28.4464, -14.4426],
@@ -171,7 +252,52 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "chingola-cities-v2",
+    id: "chingola-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "Eine lokale Attraktion in Chingola für Besucher und Interessierte.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "Helyi látványosság Chingola városában a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "O atracție locală în Chingola pentru vizitatori și cei interesați.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atlas Copco Zambia",
+                  "text": "A local attraction in Chingola for visitors and interested parties.",
+                  "category": "landmark",
+                  "coords": [
+                        27.864313,
+                        -12.545358
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-08",
     coords: [27.8838, -12.529],
@@ -300,7 +426,196 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "livingstone-cities-v2",
+    id: "livingstone-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "Dieses Museum in Livingstone zeigt die Geschichte der Eisenbahn in Sambia.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Das älteste Museum Sambias dokumentiert die Archäologie und Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "Eine Skulptur in Livingstone, die aus recycelten Materialien gefertigt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850162
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "Ein luxuriöser Dampfzug, der Fahrten in der Nähe der Victoriafälle anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "Ein lokaler Markt in Livingstone, der traditionelles Kunsthandwerk anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "Ez a múzeum Livingstone-ban Zambia vasúttörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Zambia legrégebbi múzeuma a régió régészetét és történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "Újrahasznosított anyagokból készült elefántszobor Livingstone-ban.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850162
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "Luxus gőzmozdonyos vonat, amely a Viktória-vízesés közelében közlekedik.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "Helyi piac Livingstone-ban, ahol hagyományos kézműves termékeket árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "Acest muzeu din Livingstone prezintă istoria căilor ferate din Zambia.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "Livingstone Museum",
+                  "text": "Cel mai vechi muzeu din Zambia documentează arheologia și istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "O sculptură în Livingstone realizată din materiale reciclate.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850162
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "Un tren cu aburi de lux care oferă călătorii în apropierea Cascadei Victoria.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "O piață locală în Livingstone care oferă obiecte de artizanat tradițional.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livingstone Railway Museum",
+                  "text": "This museum in Livingstone showcases the history of railways in Zambia.",
+                  "category": "museum",
+                  "coords": [
+                        25.847981,
+                        -17.862817
+                  ]
+            },
+            {
+                  "name": "The Livingstone Museum",
+                  "text": "Zambia's oldest museum documents the archaeology and history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        25.855153,
+                        -17.847984
+                  ]
+            },
+            {
+                  "name": "Trash Elephant",
+                  "text": "A sculpture in Livingstone made from recycled materials.",
+                  "category": "historical",
+                  "coords": [
+                        25.855015,
+                        -17.850162
+                  ]
+            },
+            {
+                  "name": "Royal Livingstone Express",
+                  "text": "A luxury steam train offering journeys near Victoria Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        25.854819,
+                        -17.863518
+                  ]
+            },
+            {
+                  "name": "Mukuni Curio Market",
+                  "text": "A local market in Livingstone offering traditional handicrafts.",
+                  "category": "landmark",
+                  "coords": [
+                        25.859365,
+                        -17.844259
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-07",
     coords: [25.8543, -17.8489],
@@ -869,7 +1184,52 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "mbala-cities-v2",
+    id: "mbala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "Das Moto Moto Museum ist ein lokales Museum in Mbala.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "A Moto Moto Museum egy helyi múzeum Mbala városában.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "Moto Moto Museum este un muzeu local situat în Mbala.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Moto Moto Museum",
+                  "text": "Moto Moto Museum is a local museum located in Mbala.",
+                  "category": "museum",
+                  "coords": [
+                        31.357585,
+                        -8.821307
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-05",
     coords: [31.3659, -8.8402],
@@ -1089,7 +1449,88 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "siavonga-cities-v2",
+    id: "siavonga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Ein Aussichtspunkt in Siavonga mit Blick auf den Kariba-See.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Ein Ferienort am Ufer des Sees in Siavonga.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Kilátóhely Siavongában, kilátással a Kariba-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "Tóparti üdülőhely Siavonga városában.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "Un punct de observare în Siavonga cu vedere spre Lacul Kariba.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "O stațiune de vacanță pe malul lacului în Siavonga.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heliport lake Safari lodge",
+                  "text": "A viewpoint in Siavonga overlooking Lake Kariba.",
+                  "category": "natural",
+                  "coords": [
+                        28.706313,
+                        -16.542081
+                  ]
+            },
+            {
+                  "name": "Savee Beach Resort",
+                  "text": "A vacation resort located on the shores of the lake in Siavonga.",
+                  "category": "recreational",
+                  "coords": [
+                        28.698853,
+                        -16.538287
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-07",
     coords: [28.7088, -16.5382],
@@ -1174,7 +1615,52 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "mpulungu-cities-v2",
+    id: "mpulungu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "Die Ruinen einer der ältesten Steinkirchen Sambias in Mpulungu.",
+                  "category": "historical",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "Zambia egyik legrégebbi kőtemplomának romjai Mpulunguban.",
+                  "category": "historical",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "Ruinele uneia dintre cele mai vechi biserici de piatră din Zambia, la Mpulungu.",
+                  "category": "historical",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Niamkolo Church",
+                  "text": "The ruins of one of Zambia's oldest stone churches in Mpulungu.",
+                  "category": "historical",
+                  "coords": [
+                        31.116973,
+                        -8.757035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-05",
     coords: [31.1144, -8.7623],
@@ -1784,7 +2270,52 @@ export const poiExtraZambiaCitiesV2: POI[] = [
     },
   },
   {
-    id: "kalulushi-cities-v2",
+    id: "kalulushi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "Kalalushi Coreshed ist eine Museumseinrichtung in Kalulushi.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "A Kalalushi Coreshed egy múzeumi létesítmény Kalulushi városában.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "Kalalushi Coreshed este o unitate muzeală situată în Kalulushi.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kalalushi Coreshed",
+                  "text": "Kalalushi Coreshed is a museum facility situated in Kalulushi.",
+                  "category": "museum",
+                  "coords": [
+                        28.086067,
+                        -12.846792
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ZM-08",
     coords: [28.095, -12.8378],

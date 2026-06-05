@@ -3,7 +3,88 @@ import { POI } from './poi';
 export const tuvaluCitiesV2: POI[] = [
 
   {
-    id: "tuvalu-vaiaku-cities-v2",
+    id: "tuvalu-vaiaku-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teone Church",
+                  "text": "Eine lokale Kirche in Vaiaku, die einen Einblick in das religiöse Leben Tuvalus bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Eine Ahmadiyya-Moschee in Vaiaku, die der muslimischen Gemeinde als Gebetsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teone Church",
+                  "text": "Helyi templom Vaiakuban, amely betekintést nyújt Tuvalu vallási életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Ahmadijja mecset Vaiakuban, amely a muszlim közösség imaházaként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teone Church",
+                  "text": "O biserică locală din Vaiaku, oferind o perspectivă asupra vieții religioase din Tuvalu.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "O moschee Ahmadiyya din Vaiaku, servind ca loc de rugăciune pentru comunitatea musulmană.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teone Church",
+                  "text": "A local church in Vaiaku providing insight into the religious life of Tuvalu.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "An Ahmadiyya mosque in Vaiaku, serving as a place of worship for the Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ]
+},
     parent: "TV",
     type: "capital",
     name: { de: "Vaiaku", hu: "Vaiaku", ro: "Vaiaku", en: "Vaiaku" },
@@ -363,7 +444,88 @@ export const tuvaluCitiesV2: POI[] = [
     image: "/poi-images/tuvalu-alapi-cities-v2.webp",
   },
   {
-    id: "tuvalu-fakaifou-cities-v2",
+    id: "tuvalu-fakaifou-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teone Church",
+                  "text": "Die Teone Church ist eine Touristenattraktion in Fakaifou.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Die Ahmadiyya Tuvalu Mosque ist eine Kultstätte in Fakaifou.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teone Church",
+                  "text": "A Teone Church egy turisztikai látványosság Fakaifou városában.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Az Ahmadiyya Tuvalu Mosque egy istentiszteleti épület Fakaifouban.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teone Church",
+                  "text": "Teone Church este o atracție turistică din Fakaifou.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Ahmadiyya Tuvalu Mosque este un lăcaș de cult situat în Fakaifou.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teone Church",
+                  "text": "Teone Church is a tourist attraction located in Fakaifou.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Ahmadiyya Tuvalu Mosque is a place of worship situated in Fakaifou.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ]
+},
     parent: "TV",
     type: "village",
     name: { de: "Fakaifou", hu: "Fakaifou", ro: "Fakaifou", en: "Fakaifou" },
@@ -408,7 +570,88 @@ export const tuvaluCitiesV2: POI[] = [
     image: "/poi-images/tuvalu-fakaifou-cities-v2.webp",
   },
   {
-    id: "tuvalu-senala-cities-v2",
+    id: "tuvalu-senala-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teone Church",
+                  "text": "Eine lokale Kirche und Sehenswürdigkeit in Senala.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Eine Moschee der Ahmadiyya-Gemeinschaft in Senala.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teone Church",
+                  "text": "Helyi templom és látnivaló Senala településen.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "Az ahmadijja közösség mecsetje Senalában.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teone Church",
+                  "text": "O biserică locală și atracție în Senala.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "O moschee a comunității Ahmadiyya din Senala.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teone Church",
+                  "text": "A local church and attraction in Senala.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            },
+            {
+                  "name": "Ahmadiyya Tuvalu Mosque",
+                  "text": "A mosque of the Ahmadiyya community in Senala.",
+                  "category": "religious",
+                  "coords": [
+                        179.197278,
+                        -8.522449
+                  ]
+            }
+      ]
+},
     parent: "TV",
     type: "village",
     name: { de: "Senala", hu: "Senala", ro: "Senala", en: "Senala" },
@@ -498,7 +741,52 @@ export const tuvaluCitiesV2: POI[] = [
     image: "/poi-images/tuvalu-teone-cities-v2.webp",
   },
   {
-    id: "tuvalu-lofeagai-cities-v2",
+    id: "tuvalu-lofeagai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teone Church",
+                  "text": "Die Teone Church ist eine Sehenswürdigkeit in Lofeagai.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teone Church",
+                  "text": "A Teone Church egy látványosság Lofeagaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teone Church",
+                  "text": "Teone Church este o atracție situată în Lofeagai.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teone Church",
+                  "text": "Teone Church is an attraction situated in Lofeagai.",
+                  "category": "landmark",
+                  "coords": [
+                        179.197025,
+                        -8.506024
+                  ]
+            }
+      ]
+},
     parent: "TV",
     type: "village",
     name: { de: "Lofeagai", hu: "Lofeagai", ro: "Lofeagai", en: "Lofeagai" },

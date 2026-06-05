@@ -3,7 +3,628 @@ import type { POI } from "./poi";
 
 export const austriaCities: POI[] = [
   {
-    id: "at-tulln-an-der-donau",
+    id: "at-tulln-an-der-donau", "sights": {
+      "de": [
+            {
+                  "name": "Stadtmuseum Tulln",
+                  "text": "Ein Museum in Tulln, das die römische Geschichte des antiken Lagers Comagenis zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.057098,
+                        48.333309
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
+                  "text": "Das Geburtshaus des Künstlers Egon Schiele am Bahnhof Tulln.",
+                  "category": "museum",
+                  "coords": [
+                        16.063954,
+                        48.327474
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Museum",
+                  "text": "Ein Museum, das dem Leben und Werk des expressionistischen Malers Egon Schiele gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        16.052836,
+                        48.332974
+                  ]
+            },
+            {
+                  "name": "Danubium",
+                  "text": "Ein Kultur- und Veranstaltungszentrum in Tulln an der Donau.",
+                  "category": "cultural",
+                  "coords": [
+                        16.049698,
+                        48.331367
+                  ]
+            },
+            {
+                  "name": "DonauSplash Tulln",
+                  "text": "Ein Hallenbad und eine Wasserfreizeitanlage in Tulln.",
+                  "category": "recreational",
+                  "coords": [
+                        16.062296,
+                        48.333422
+                  ]
+            },
+            {
+                  "name": "Schanze",
+                  "text": "Eine archäologische Stätte mit historischen Befestigungsanlagen in Tulln.",
+                  "category": "historical",
+                  "coords": [
+                        16.072289,
+                        48.339873
+                  ]
+            },
+            {
+                  "name": "Die Garten Tulln",
+                  "text": "Eine große ökologische Gartenschau mit zahlreichen Themen-Gärten in Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.03459,
+                        48.329558
+                  ]
+            },
+            {
+                  "name": "Karner",
+                  "text": "Ein spätromanischer Karner in Tulln, bekannt für sein kunstvolles Portal.",
+                  "category": "landmark",
+                  "coords": [
+                        16.057345,
+                        48.331381
+                  ]
+            },
+            {
+                  "name": "Aubad Tulln",
+                  "text": "Das Aubad in Tulln ist ein weitläufiges Erholungsgebiet mit einem Naturbadesee.",
+                  "category": "park",
+                  "coords": [
+                        16.078794,
+                        48.331634
+                  ]
+            },
+            {
+                  "name": "Baumwipfelweg",
+                  "text": "Der Baumwipfelweg in Tulln bietet einen weiten Ausblick über das Gelände der Garten Tulln.",
+                  "category": "natural",
+                  "coords": [
+                        16.033194,
+                        48.329967
+                  ]
+            },
+            {
+                  "name": "Donaubühne Tulln",
+                  "text": "Die Donaubühne in Tulln ist eine bekannte Freiluftbühne direkt am Donauufer.",
+                  "category": "landmark",
+                  "coords": [
+                        16.052801,
+                        48.333991
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Die evangelische Kirche ist ein sakraler Ort für die protestantische Gemeinde in Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.064413,
+                        48.329631
+                  ]
+            },
+            {
+                  "name": "St. Severin",
+                  "text": "Die römisch-katholische Pfarrkirche St. Severin dient als Gotteshaus in Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.068106,
+                        48.32283
+                  ]
+            },
+            {
+                  "name": "Filialkirche Maria Heimsuchung",
+                  "text": "Die Filialkirche Maria Heimsuchung ist eine römisch-katholische Kapelle in Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.080918,
+                        48.307989
+                  ]
+            },
+            {
+                  "name": "Saab Draken",
+                  "text": "Ein Saab Draken Kampfflugzeug steht als Denkmal am Kreisel in Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.084797,
+                        48.318773
+                  ]
+            },
+            {
+                  "name": "Hundertwasser-Schiff \"Regentag\"",
+                  "text": "Das Schiff „Regentag“ wurde vom Künstler Friedensreich Hundertwasser gestaltet.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048797,
+                        48.333476
+                  ]
+            },
+            {
+                  "name": "MS Stadt Wien",
+                  "text": "Die MS Stadt Wien ist ein historisches Schaufelradschiff, das in Tulln vor Anker liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.050975,
+                        48.333964
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stadtmuseum Tulln",
+                  "text": "Tullni múzeum, amely az ókori Comagenis tábor római kori történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.057098,
+                        48.333309
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
+                  "text": "Egon Schiele művész szülőháza a tullni vasútállomásnál.",
+                  "category": "museum",
+                  "coords": [
+                        16.063954,
+                        48.327474
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Museum",
+                  "text": "Egon Schiele expresszionista festő életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        16.052836,
+                        48.332974
+                  ]
+            },
+            {
+                  "name": "Danubium",
+                  "text": "Kulturális és rendezvényközpont Tulln an der Donau városában.",
+                  "category": "cultural",
+                  "coords": [
+                        16.049698,
+                        48.331367
+                  ]
+            },
+            {
+                  "name": "DonauSplash Tulln",
+                  "text": "Fedett uszoda és vízi élményközpont Tullnban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.062296,
+                        48.333422
+                  ]
+            },
+            {
+                  "name": "Schanze",
+                  "text": "Régészeti lelőhely történelmi erődítményekkel Tullnban.",
+                  "category": "historical",
+                  "coords": [
+                        16.072289,
+                        48.339873
+                  ]
+            },
+            {
+                  "name": "Die Garten Tulln",
+                  "text": "Nagyszabású ökológiai kertkiállítás számos tematikus kerttel Tullnban.",
+                  "category": "landmark",
+                  "coords": [
+                        16.03459,
+                        48.329558
+                  ]
+            },
+            {
+                  "name": "Karner",
+                  "text": "Késő román kori csontkamra Tullnban, amely díszes kapujáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        16.057345,
+                        48.331381
+                  ]
+            },
+            {
+                  "name": "Aubad Tulln",
+                  "text": "A tullni Aubad egy kiterjedt szabadidős terület természetes fürdőtóval.",
+                  "category": "park",
+                  "coords": [
+                        16.078794,
+                        48.331634
+                  ]
+            },
+            {
+                  "name": "Baumwipfelweg",
+                  "text": "A tullni lombkoronaösvény kilátást nyújt a Garten Tulln területére.",
+                  "category": "natural",
+                  "coords": [
+                        16.033194,
+                        48.329967
+                  ]
+            },
+            {
+                  "name": "Donaubühne Tulln",
+                  "text": "A tullni Donaubühne egy népszerű szabadtéri színpad közvetlenül a Duna partján.",
+                  "category": "landmark",
+                  "coords": [
+                        16.052801,
+                        48.333991
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Az evangélikus templom a tullni protestáns közösség istentiszteleti helye.",
+                  "category": "religious",
+                  "coords": [
+                        16.064413,
+                        48.329631
+                  ]
+            },
+            {
+                  "name": "St. Severin",
+                  "text": "A tullni Szent Szeverin-plébániatemplom a helyi katolikus közösség temploma.",
+                  "category": "religious",
+                  "coords": [
+                        16.068106,
+                        48.32283
+                  ]
+            },
+            {
+                  "name": "Filialkirche Maria Heimsuchung",
+                  "text": "A Mária látogatása fióktemplom egy római katolikus kápolna Tullnban.",
+                  "category": "religious",
+                  "coords": [
+                        16.080918,
+                        48.307989
+                  ]
+            },
+            {
+                  "name": "Saab Draken",
+                  "text": "Egy Saab Draken vadászgép áll emlékműként egy tullni körforgalomnál.",
+                  "category": "landmark",
+                  "coords": [
+                        16.084797,
+                        48.318773
+                  ]
+            },
+            {
+                  "name": "Hundertwasser-Schiff \"Regentag\"",
+                  "text": "A „Regentag” nevű hajót Friedensreich Hundertwasser művész alakította ki.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048797,
+                        48.333476
+                  ]
+            },
+            {
+                  "name": "MS Stadt Wien",
+                  "text": "Az MS Stadt Wien egy történelmi lapátkerekes gőzhajó, amely Tullnban állomásozik.",
+                  "category": "landmark",
+                  "coords": [
+                        16.050975,
+                        48.333964
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stadtmuseum Tulln",
+                  "text": "Un muzeu din Tulln care prezintă istoria romană a vechiului castru Comagenis.",
+                  "category": "museum",
+                  "coords": [
+                        16.057098,
+                        48.333309
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
+                  "text": "Casa natală a artistului Egon Schiele, situată la gara din Tulln.",
+                  "category": "museum",
+                  "coords": [
+                        16.063954,
+                        48.327474
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Museum",
+                  "text": "Un muzeu dedicat vieții și operei pictorului expresionist Egon Schiele.",
+                  "category": "museum",
+                  "coords": [
+                        16.052836,
+                        48.332974
+                  ]
+            },
+            {
+                  "name": "Danubium",
+                  "text": "Un centru cultural și de evenimente în Tulln an der Donau.",
+                  "category": "cultural",
+                  "coords": [
+                        16.049698,
+                        48.331367
+                  ]
+            },
+            {
+                  "name": "DonauSplash Tulln",
+                  "text": "O piscină acoperită și facilitate de agrement acvatic în Tulln.",
+                  "category": "recreational",
+                  "coords": [
+                        16.062296,
+                        48.333422
+                  ]
+            },
+            {
+                  "name": "Schanze",
+                  "text": "Un sit arheologic care prezintă fortificații istorice în Tulln.",
+                  "category": "historical",
+                  "coords": [
+                        16.072289,
+                        48.339873
+                  ]
+            },
+            {
+                  "name": "Die Garten Tulln",
+                  "text": "O mare expoziție de grădini ecologice, cu numeroase grădini tematice în Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.03459,
+                        48.329558
+                  ]
+            },
+            {
+                  "name": "Karner",
+                  "text": "Un osuar în stil romanic târziu din Tulln, cunoscut pentru portalul său detaliat.",
+                  "category": "landmark",
+                  "coords": [
+                        16.057345,
+                        48.331381
+                  ]
+            },
+            {
+                  "name": "Aubad Tulln",
+                  "text": "Aubad din Tulln este o zonă de recreere vastă, cu un lac natural pentru înot.",
+                  "category": "park",
+                  "coords": [
+                        16.078794,
+                        48.331634
+                  ]
+            },
+            {
+                  "name": "Baumwipfelweg",
+                  "text": "Traseul printre coroanele copacilor din Tulln oferă o vedere panoramică asupra grădinilor.",
+                  "category": "natural",
+                  "coords": [
+                        16.033194,
+                        48.329967
+                  ]
+            },
+            {
+                  "name": "Donaubühne Tulln",
+                  "text": "Donaubühne din Tulln este o scenă în aer liber situată direct pe malul Dunării.",
+                  "category": "landmark",
+                  "coords": [
+                        16.052801,
+                        48.333991
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Biserica evanghelică este un lăcaș de cult pentru comunitatea protestantă din Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.064413,
+                        48.329631
+                  ]
+            },
+            {
+                  "name": "St. Severin",
+                  "text": "Biserica parohială Sfântul Severin din Tulln servește ca lăcaș de cult romano-catolic.",
+                  "category": "religious",
+                  "coords": [
+                        16.068106,
+                        48.32283
+                  ]
+            },
+            {
+                  "name": "Filialkirche Maria Heimsuchung",
+                  "text": "Biserica Maria Heimsuchung este o capelă romano-catolică situată în Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.080918,
+                        48.307989
+                  ]
+            },
+            {
+                  "name": "Saab Draken",
+                  "text": "Un avion de vânătoare Saab Draken este expus ca monument într-un sens giratoriu din Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.084797,
+                        48.318773
+                  ]
+            },
+            {
+                  "name": "Hundertwasser-Schiff \"Regentag\"",
+                  "text": "Nava „Regentag” a fost amenajată de către artistul Friedensreich Hundertwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048797,
+                        48.333476
+                  ]
+            },
+            {
+                  "name": "MS Stadt Wien",
+                  "text": "MS Stadt Wien este o navă istorică cu roți cu palate, ancorată în Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.050975,
+                        48.333964
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stadtmuseum Tulln",
+                  "text": "A museum in Tulln showcasing the Roman history of the ancient camp Comagenis.",
+                  "category": "museum",
+                  "coords": [
+                        16.057098,
+                        48.333309
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Geburtshaus am Bahnhof Tulln",
+                  "text": "The birthplace of artist Egon Schiele, located at the Tulln railway station.",
+                  "category": "museum",
+                  "coords": [
+                        16.063954,
+                        48.327474
+                  ]
+            },
+            {
+                  "name": "Egon Schiele Museum",
+                  "text": "A museum dedicated to the life and work of the expressionist painter Egon Schiele.",
+                  "category": "museum",
+                  "coords": [
+                        16.052836,
+                        48.332974
+                  ]
+            },
+            {
+                  "name": "Danubium",
+                  "text": "A cultural and event center in Tulln an der Donau.",
+                  "category": "cultural",
+                  "coords": [
+                        16.049698,
+                        48.331367
+                  ]
+            },
+            {
+                  "name": "DonauSplash Tulln",
+                  "text": "An indoor swimming pool and water leisure facility in Tulln.",
+                  "category": "recreational",
+                  "coords": [
+                        16.062296,
+                        48.333422
+                  ]
+            },
+            {
+                  "name": "Schanze",
+                  "text": "An archaeological site featuring historical fortifications in Tulln.",
+                  "category": "historical",
+                  "coords": [
+                        16.072289,
+                        48.339873
+                  ]
+            },
+            {
+                  "name": "Die Garten Tulln",
+                  "text": "A large ecological garden show featuring numerous themed gardens in Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.03459,
+                        48.329558
+                  ]
+            },
+            {
+                  "name": "Karner",
+                  "text": "A late Romanesque charnel house in Tulln, known for its intricate portal.",
+                  "category": "landmark",
+                  "coords": [
+                        16.057345,
+                        48.331381
+                  ]
+            },
+            {
+                  "name": "Aubad Tulln",
+                  "text": "Aubad Tulln is a large recreation area featuring a natural swimming lake.",
+                  "category": "park",
+                  "coords": [
+                        16.078794,
+                        48.331634
+                  ]
+            },
+            {
+                  "name": "Baumwipfelweg",
+                  "text": "The treetop path in Tulln offers a wide view over the Garten Tulln grounds.",
+                  "category": "natural",
+                  "coords": [
+                        16.033194,
+                        48.329967
+                  ]
+            },
+            {
+                  "name": "Donaubühne Tulln",
+                  "text": "The Donaubühne in Tulln is a popular open-air stage located directly on the banks of the Danube.",
+                  "category": "landmark",
+                  "coords": [
+                        16.052801,
+                        48.333991
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "The Protestant church is a place of worship for the local congregation in Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.064413,
+                        48.329631
+                  ]
+            },
+            {
+                  "name": "St. Severin",
+                  "text": "The Roman Catholic Parish Church of St. Severin serves as a place of worship in Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.068106,
+                        48.32283
+                  ]
+            },
+            {
+                  "name": "Filialkirche Maria Heimsuchung",
+                  "text": "The Filial Church of Maria Heimsuchung is a Roman Catholic chapel in Tulln.",
+                  "category": "religious",
+                  "coords": [
+                        16.080918,
+                        48.307989
+                  ]
+            },
+            {
+                  "name": "Saab Draken",
+                  "text": "A Saab Draken fighter jet is displayed as a monument at a roundabout in Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.084797,
+                        48.318773
+                  ]
+            },
+            {
+                  "name": "Hundertwasser-Schiff \"Regentag\"",
+                  "text": "The ship \"Regentag\" was designed and used by the artist Friedensreich Hundertwasser.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048797,
+                        48.333476
+                  ]
+            },
+            {
+                  "name": "MS Stadt Wien",
+                  "text": "The MS Stadt Wien is a historic paddle steamer anchored in Tulln.",
+                  "category": "landmark",
+                  "coords": [
+                        16.050975,
+                        48.333964
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-3",
     coords: [16.0589, 48.3284],
@@ -47,7 +668,376 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-neunkirchen-niederoesterreich",
+    id: "at-neunkirchen-niederoesterreich", "sights": {
+      "de": [
+            {
+                  "name": "Städtisches Museum Neunkirchen",
+                  "text": "Ein Museum zur Lokalgeschichte in der Stadt Neunkirchen.",
+                  "category": "museum",
+                  "coords": [
+                        16.083388,
+                        47.7227
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "Ein ruhiges Naturschutzgebiet in der Nähe von Neunkirchen.",
+                  "category": "natural",
+                  "coords": [
+                        16.056336,
+                        47.719536
+                  ]
+            },
+            {
+                  "name": "Räuberhöhle",
+                  "text": "Ein interessanter Höhleneingang in der Region Neunkirchen.",
+                  "category": "natural",
+                  "coords": [
+                        16.068446,
+                        47.753021
+                  ]
+            },
+            {
+                  "name": "Südlicher Endpunkt der Wiener Neustädter Grundlinie",
+                  "text": "Ein historisches Denkmal, das einen geodätischen Basispunkt in Neunkirchen markiert.",
+                  "category": "historical",
+                  "coords": [
+                        16.111134,
+                        47.738358
+                  ]
+            },
+            {
+                  "name": "Burgbrunnen",
+                  "text": "Ein historischer Brunnen und eine Sehenswürdigkeit in Neunkirchen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048877,
+                        47.71658
+                  ]
+            },
+            {
+                  "name": "Energie-Labyrinth",
+                  "text": "Eine interaktive Attraktion in Neunkirchen zum Thema Energie.",
+                  "category": "landmark",
+                  "coords": [
+                        16.071046,
+                        47.720611
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "Eine historische Kirche im Ortsteil Dunkelstein-Blindendorf von Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.049568,
+                        47.715589
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "Eine bemerkenswerte katholische Kirche, die Maria Himmelfahrt geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.080108,
+                        47.721678
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Natschbach",
+                  "text": "Eine kleine Kapelle im Ortsteil Natschbach von Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.09901,
+                        47.711467
+                  ]
+            },
+            {
+                  "name": "Filialkirche Peisching",
+                  "text": "Ein religiöses Gebäude für die Gemeinde Peisching in Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.112728,
+                        47.725567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Städtisches Museum Neunkirchen",
+                  "text": "Helytörténeti múzeum Neunkirchen városában.",
+                  "category": "museum",
+                  "coords": [
+                        16.083388,
+                        47.7227
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "Békés természetvédelmi terület Neunkirchen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        16.056336,
+                        47.719536
+                  ]
+            },
+            {
+                  "name": "Räuberhöhle",
+                  "text": "Érdekes barlangbejárat Neunkirchen környékén.",
+                  "category": "natural",
+                  "coords": [
+                        16.068446,
+                        47.753021
+                  ]
+            },
+            {
+                  "name": "Südlicher Endpunkt der Wiener Neustädter Grundlinie",
+                  "text": "Történelmi emlékmű, amely egy geodéziai alapvonalat jelöl Neunkirchenben.",
+                  "category": "historical",
+                  "coords": [
+                        16.111134,
+                        47.738358
+                  ]
+            },
+            {
+                  "name": "Burgbrunnen",
+                  "text": "Történelmi kút és látnivaló Neunkirchenben.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048877,
+                        47.71658
+                  ]
+            },
+            {
+                  "name": "Energie-Labyrinth",
+                  "text": "Interaktív látnivaló Neunkirchenben energiagazdálkodási témában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.071046,
+                        47.720611
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "Történelmi templom Neunkirchen Dunkelstein-Blindendorf városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        16.049568,
+                        47.715589
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "Figyelemre méltó katolikus templom Neunkirchenben.",
+                  "category": "religious",
+                  "coords": [
+                        16.080108,
+                        47.721678
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Natschbach",
+                  "text": "Kisméretű helyi kápolna Neunkirchen Natschbach negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        16.09901,
+                        47.711467
+                  ]
+            },
+            {
+                  "name": "Filialkirche Peisching",
+                  "text": "A peischingi közösséget szolgáló vallási épület Neunkirchenben.",
+                  "category": "religious",
+                  "coords": [
+                        16.112728,
+                        47.725567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Städtisches Museum Neunkirchen",
+                  "text": "Un muzeu de istorie locală situat în orașul Neunkirchen.",
+                  "category": "museum",
+                  "coords": [
+                        16.083388,
+                        47.7227
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "O rezervație naturală liniștită în apropiere de Neunkirchen.",
+                  "category": "natural",
+                  "coords": [
+                        16.056336,
+                        47.719536
+                  ]
+            },
+            {
+                  "name": "Räuberhöhle",
+                  "text": "O intrare interesantă într-o peșteră situată în zona Neunkirchen.",
+                  "category": "natural",
+                  "coords": [
+                        16.068446,
+                        47.753021
+                  ]
+            },
+            {
+                  "name": "Südlicher Endpunkt der Wiener Neustädter Grundlinie",
+                  "text": "Un monument istoric care marchează o linie geodezică în Neunkirchen.",
+                  "category": "historical",
+                  "coords": [
+                        16.111134,
+                        47.738358
+                  ]
+            },
+            {
+                  "name": "Burgbrunnen",
+                  "text": "O fântână istorică și o atracție în Neunkirchen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048877,
+                        47.71658
+                  ]
+            },
+            {
+                  "name": "Energie-Labyrinth",
+                  "text": "O atracție interactivă în Neunkirchen axată pe teme energetice.",
+                  "category": "landmark",
+                  "coords": [
+                        16.071046,
+                        47.720611
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "O biserică istorică în zona Dunkelstein-Blindendorf din Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.049568,
+                        47.715589
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "O biserică catolică remarcabilă dedicată Adormirii Maicii Domnului în Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.080108,
+                        47.721678
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Natschbach",
+                  "text": "O mică capelă locală în districtul Natschbach din Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.09901,
+                        47.711467
+                  ]
+            },
+            {
+                  "name": "Filialkirche Peisching",
+                  "text": "O clădire religioasă care deservește comunitatea Peisching din Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.112728,
+                        47.725567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Städtisches Museum Neunkirchen",
+                  "text": "A local history museum located in the town of Neunkirchen.",
+                  "category": "museum",
+                  "coords": [
+                        16.083388,
+                        47.7227
+                  ]
+            },
+            {
+                  "name": "Peterwald",
+                  "text": "A serene nature reserve area near Neunkirchen.",
+                  "category": "natural",
+                  "coords": [
+                        16.056336,
+                        47.719536
+                  ]
+            },
+            {
+                  "name": "Räuberhöhle",
+                  "text": "An interesting cave entrance located in the Neunkirchen area.",
+                  "category": "natural",
+                  "coords": [
+                        16.068446,
+                        47.753021
+                  ]
+            },
+            {
+                  "name": "Südlicher Endpunkt der Wiener Neustädter Grundlinie",
+                  "text": "A historical monument marking a geodetic baseline in Neunkirchen.",
+                  "category": "historical",
+                  "coords": [
+                        16.111134,
+                        47.738358
+                  ]
+            },
+            {
+                  "name": "Burgbrunnen",
+                  "text": "A historic well and attraction in Neunkirchen.",
+                  "category": "landmark",
+                  "coords": [
+                        16.048877,
+                        47.71658
+                  ]
+            },
+            {
+                  "name": "Energie-Labyrinth",
+                  "text": "An interactive attraction in Neunkirchen focused on energy themes.",
+                  "category": "landmark",
+                  "coords": [
+                        16.071046,
+                        47.720611
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "A historic place of worship in the Dunkelstein-Blindendorf area of Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.049568,
+                        47.715589
+                  ]
+            },
+            {
+                  "name": "Maria Himmelfahrt",
+                  "text": "A notable Catholic church dedicated to the Assumption in Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.080108,
+                        47.721678
+                  ]
+            },
+            {
+                  "name": "Ortskapelle Natschbach",
+                  "text": "A small local chapel in the Natschbach district of Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.09901,
+                        47.711467
+                  ]
+            },
+            {
+                  "name": "Filialkirche Peisching",
+                  "text": "A religious building serving the Peisching community in Neunkirchen.",
+                  "category": "religious",
+                  "coords": [
+                        16.112728,
+                        47.725567
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-3",
     coords: [16.0808, 47.7279],
@@ -91,7 +1081,556 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-hollabrunn",
+    id: "at-hollabrunn", "sights": {
+      "de": [
+            {
+                  "name": "Museum Alte Hofmühle",
+                  "text": "Das Museum Alte Hofmühle dient als lokales Stadtmuseum in Hollabrunn.",
+                  "category": "museum",
+                  "coords": [
+                        16.083832,
+                        48.567104
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "Tumulus ist eine archäologische Stätte in Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.088632,
+                        48.545244
+                  ]
+            },
+            {
+                  "name": "Freibad Hollabrunn",
+                  "text": "Freibad Hollabrunn ist ein Wasserpark in Hollabrunn.",
+                  "category": "recreational",
+                  "coords": [
+                        16.074981,
+                        48.560392
+                  ]
+            },
+            {
+                  "name": "Pinkelstein (Mozart)",
+                  "text": "Der Pinkelstein ist ein Denkmal in Hollabrunn, an dem Mozart der Legende nach auf einer Reise uriniert haben soll.",
+                  "category": "historical",
+                  "coords": [
+                        16.089504,
+                        48.543502
+                  ]
+            },
+            {
+                  "name": "Josef-Strauß-Denkmal",
+                  "text": "Josef-Strauß-Denkmal ist ein Denkmal in Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.078858,
+                        48.563012
+                  ]
+            },
+            {
+                  "name": "Kellergasse Pinkelstein",
+                  "text": "Kellergasse Pinkelstein ist eine Touristenattraktion in Hollabrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        16.090224,
+                        48.542419
+                  ]
+            },
+            {
+                  "name": "Jahntempel",
+                  "text": "Jahntempel ist ein Denkmal in Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.084936,
+                        48.555724
+                  ]
+            },
+            {
+                  "name": "Koliskowarte",
+                  "text": "Die Koliskowarte ist ein malerischer Aussichtspunkt in Hollabrunn.",
+                  "category": "natural",
+                  "coords": [
+                        16.10802,
+                        48.551516
+                  ]
+            },
+            {
+                  "name": "St. Ulrich",
+                  "text": "St. Ulrich ist die römisch-katholische Pfarrkirche von Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.080212,
+                        48.561402
+                  ]
+            },
+            {
+                  "name": "Gartenstadtkirche",
+                  "text": "Gartenstadtkirche ist eine Kultstätte in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.081035,
+                        48.549777
+                  ]
+            },
+            {
+                  "name": "St. Georg",
+                  "text": "St. Georg ist eine Pfarrkirche im Ortsteil Aspersdorf von Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.09646,
+                        48.585246
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte Mutter",
+                  "text": "Schmerzhafte Mutter ist eine Kultstätte in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.105376,
+                        48.560759
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "St. Laurentius ist eine Kultstätte in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.086817,
+                        48.545528
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sonnberg",
+                  "text": "Die Pfarrkirche Sonnberg ist eine römisch-katholische Pfarrkirche im Ortsteil Sonnberg von Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.058204,
+                        48.540764
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "Friedhofskapelle ist eine Kultstätte in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.088758,
+                        48.558444
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum Alte Hofmühle",
+                  "text": "A Museum Alte Hofmühle a helytörténeti múzeumként működik Hollabrunnban.",
+                  "category": "museum",
+                  "coords": [
+                        16.083832,
+                        48.567104
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "A Tumulus egy régészeti lelőhely Hollabrunn városában.",
+                  "category": "historical",
+                  "coords": [
+                        16.088632,
+                        48.545244
+                  ]
+            },
+            {
+                  "name": "Freibad Hollabrunn",
+                  "text": "A Freibad Hollabrunn egy aquapark Hollabrunn városában.",
+                  "category": "recreational",
+                  "coords": [
+                        16.074981,
+                        48.560392
+                  ]
+            },
+            {
+                  "name": "Pinkelstein (Mozart)",
+                  "text": "A Pinkelstein egy emlékmű Hollabrunnban, ahol a legenda szerint Mozart megállt vizelni egy utazása során.",
+                  "category": "historical",
+                  "coords": [
+                        16.089504,
+                        48.543502
+                  ]
+            },
+            {
+                  "name": "Josef-Strauß-Denkmal",
+                  "text": "A Josef-Strauß-Denkmal egy emlékmű Hollabrunn városában.",
+                  "category": "historical",
+                  "coords": [
+                        16.078858,
+                        48.563012
+                  ]
+            },
+            {
+                  "name": "Kellergasse Pinkelstein",
+                  "text": "A Kellergasse Pinkelstein egy turisztikai látványosság Hollabrunn városában.",
+                  "category": "landmark",
+                  "coords": [
+                        16.090224,
+                        48.542419
+                  ]
+            },
+            {
+                  "name": "Jahntempel",
+                  "text": "A Jahntempel egy emlékmű Hollabrunn városában.",
+                  "category": "historical",
+                  "coords": [
+                        16.084936,
+                        48.555724
+                  ]
+            },
+            {
+                  "name": "Koliskowarte",
+                  "text": "A Koliskowarte egy festői kilátó Hollabrunn városában.",
+                  "category": "natural",
+                  "coords": [
+                        16.10802,
+                        48.551516
+                  ]
+            },
+            {
+                  "name": "St. Ulrich",
+                  "text": "A St. Ulrich Hollabrunn római katolikus plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        16.080212,
+                        48.561402
+                  ]
+            },
+            {
+                  "name": "Gartenstadtkirche",
+                  "text": "A Gartenstadtkirche egy istentiszteleti hely Hollabrunn városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.081035,
+                        48.549777
+                  ]
+            },
+            {
+                  "name": "St. Georg",
+                  "text": "A St. Georg egy plébániatemplom Hollabrunn Aspersdorf nevű részén.",
+                  "category": "religious",
+                  "coords": [
+                        16.09646,
+                        48.585246
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte Mutter",
+                  "text": "A Schmerzhafte Mutter egy istentiszteleti hely Hollabrunn városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.105376,
+                        48.560759
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "A St. Laurentius egy istentiszteleti hely Hollabrunn városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.086817,
+                        48.545528
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sonnberg",
+                  "text": "A Pfarrkirche Sonnberg egy római katolikus plébániatemplom Hollabrunn Sonnberg nevű részén.",
+                  "category": "religious",
+                  "coords": [
+                        16.058204,
+                        48.540764
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "A Friedhofskapelle egy istentiszteleti hely Hollabrunn városában.",
+                  "category": "religious",
+                  "coords": [
+                        16.088758,
+                        48.558444
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum Alte Hofmühle",
+                  "text": "Museum Alte Hofmühle servește ca muzeu de istorie locală în Hollabrunn.",
+                  "category": "museum",
+                  "coords": [
+                        16.083832,
+                        48.567104
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "Tumulus este un sit arheologic situat în Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.088632,
+                        48.545244
+                  ]
+            },
+            {
+                  "name": "Freibad Hollabrunn",
+                  "text": "Freibad Hollabrunn este un parc acvatic situat în Hollabrunn.",
+                  "category": "recreational",
+                  "coords": [
+                        16.074981,
+                        48.560392
+                  ]
+            },
+            {
+                  "name": "Pinkelstein (Mozart)",
+                  "text": "Pinkelstein este un monument din Hollabrunn unde, conform legendei, Mozart s-a oprit să urineze în timpul unei călătorii.",
+                  "category": "historical",
+                  "coords": [
+                        16.089504,
+                        48.543502
+                  ]
+            },
+            {
+                  "name": "Josef-Strauß-Denkmal",
+                  "text": "Josef-Strauß-Denkmal este un monument situat în Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.078858,
+                        48.563012
+                  ]
+            },
+            {
+                  "name": "Kellergasse Pinkelstein",
+                  "text": "Kellergasse Pinkelstein este o atracție turistică situată în Hollabrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        16.090224,
+                        48.542419
+                  ]
+            },
+            {
+                  "name": "Jahntempel",
+                  "text": "Jahntempel este un monument situat în Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.084936,
+                        48.555724
+                  ]
+            },
+            {
+                  "name": "Koliskowarte",
+                  "text": "Koliskowarte este un punct de belvedere panoramic situat în Hollabrunn.",
+                  "category": "natural",
+                  "coords": [
+                        16.10802,
+                        48.551516
+                  ]
+            },
+            {
+                  "name": "St. Ulrich",
+                  "text": "St. Ulrich este biserica parohială romano-catolică din Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.080212,
+                        48.561402
+                  ]
+            },
+            {
+                  "name": "Gartenstadtkirche",
+                  "text": "Gartenstadtkirche este un lăcaș de cult situat în Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.081035,
+                        48.549777
+                  ]
+            },
+            {
+                  "name": "St. Georg",
+                  "text": "St. Georg este o biserică parohială situată în zona Aspersdorf din Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.09646,
+                        48.585246
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte Mutter",
+                  "text": "Schmerzhafte Mutter este un lăcaș de cult situat în Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.105376,
+                        48.560759
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "St. Laurentius este un lăcaș de cult situat în Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.086817,
+                        48.545528
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sonnberg",
+                  "text": "Pfarrkirche Sonnberg este o biserică parohială romano-catolică din cartierul Sonnberg al orașului Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.058204,
+                        48.540764
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "Friedhofskapelle este un lăcaș de cult situat în Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.088758,
+                        48.558444
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum Alte Hofmühle",
+                  "text": "Museum Alte Hofmühle serves as the local history museum in Hollabrunn.",
+                  "category": "museum",
+                  "coords": [
+                        16.083832,
+                        48.567104
+                  ]
+            },
+            {
+                  "name": "Tumulus",
+                  "text": "Tumulus is an archaeological site located in Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.088632,
+                        48.545244
+                  ]
+            },
+            {
+                  "name": "Freibad Hollabrunn",
+                  "text": "Freibad Hollabrunn is a water park located in Hollabrunn.",
+                  "category": "recreational",
+                  "coords": [
+                        16.074981,
+                        48.560392
+                  ]
+            },
+            {
+                  "name": "Pinkelstein (Mozart)",
+                  "text": "Pinkelstein is a monument in Hollabrunn where, according to legend, Mozart stopped to urinate during a journey.",
+                  "category": "historical",
+                  "coords": [
+                        16.089504,
+                        48.543502
+                  ]
+            },
+            {
+                  "name": "Josef-Strauß-Denkmal",
+                  "text": "Josef-Strauß-Denkmal is a monument located in Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.078858,
+                        48.563012
+                  ]
+            },
+            {
+                  "name": "Kellergasse Pinkelstein",
+                  "text": "Kellergasse Pinkelstein is a tourist attraction located in Hollabrunn.",
+                  "category": "landmark",
+                  "coords": [
+                        16.090224,
+                        48.542419
+                  ]
+            },
+            {
+                  "name": "Jahntempel",
+                  "text": "Jahntempel is a monument located in Hollabrunn.",
+                  "category": "historical",
+                  "coords": [
+                        16.084936,
+                        48.555724
+                  ]
+            },
+            {
+                  "name": "Koliskowarte",
+                  "text": "Koliskowarte is a scenic viewpoint located in Hollabrunn.",
+                  "category": "natural",
+                  "coords": [
+                        16.10802,
+                        48.551516
+                  ]
+            },
+            {
+                  "name": "St. Ulrich",
+                  "text": "St. Ulrich is the Roman Catholic parish church of Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.080212,
+                        48.561402
+                  ]
+            },
+            {
+                  "name": "Gartenstadtkirche",
+                  "text": "Gartenstadtkirche is a place of worship located in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.081035,
+                        48.549777
+                  ]
+            },
+            {
+                  "name": "St. Georg",
+                  "text": "St. Georg is a parish church located in the Aspersdorf area of Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.09646,
+                        48.585246
+                  ]
+            },
+            {
+                  "name": "Schmerzhafte Mutter",
+                  "text": "Schmerzhafte Mutter is a place of worship located in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.105376,
+                        48.560759
+                  ]
+            },
+            {
+                  "name": "St. Laurentius",
+                  "text": "St. Laurentius is a place of worship located in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.086817,
+                        48.545528
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Sonnberg",
+                  "text": "Pfarrkirche Sonnberg is a Roman Catholic parish church in the Sonnberg district of Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.058204,
+                        48.540764
+                  ]
+            },
+            {
+                  "name": "Friedhofskapelle",
+                  "text": "Friedhofskapelle is a place of worship located in Hollabrunn.",
+                  "category": "religious",
+                  "coords": [
+                        16.088758,
+                        48.558444
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-3",
     coords: [16.0743, 48.5636],
@@ -223,7 +1762,808 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-gmunden",
+    id: "at-gmunden", "sights": {
+      "de": [
+            {
+                  "name": "Stadttheater",
+                  "text": "Das Stadttheater ist ein kommunales Theater in Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.798463,
+                        47.918043
+                  ]
+            },
+            {
+                  "name": "Kammerhofmuseum",
+                  "text": "Kammerhofmuseum ist ein Museum in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.801146,
+                        47.918439
+                  ]
+            },
+            {
+                  "name": "Schloss Traunsee",
+                  "text": "Das Schloss Traunsee ist ein Schloss aus dem 19. Jahrhundert in Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.775061,
+                        47.907047
+                  ]
+            },
+            {
+                  "name": "Schloß Cumberland",
+                  "text": "Schloss Cumberland ist ein im Tudorstil erbautes Schloss in Gmunden für die hannoversche Königsfamilie.",
+                  "category": "castle",
+                  "coords": [
+                        13.808051,
+                        47.927246
+                  ]
+            },
+            {
+                  "name": "Eggerhaus",
+                  "text": "Eggerhaus ist ein Museum in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.767405,
+                        47.91144
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Strandbad ist ein Wasserpark in Gmunden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.785241,
+                        47.90894
+                  ]
+            },
+            {
+                  "name": "Grünberg",
+                  "text": "Der Grünberg ist ein beliebter Berggipfel bei der Stadt Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.819578,
+                        47.898399
+                  ]
+            },
+            {
+                  "name": "Baumwipfelpfad Salzkammergut",
+                  "text": "Baumwipfelpfad Salzkammergut ist eine Touristenattraktion in Gmunden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818163,
+                        47.898168
+                  ]
+            },
+            {
+                  "name": "Traunseeblick",
+                  "text": "Traunseeblick ist ein Aussichtspunkt in Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.787482,
+                        47.906988
+                  ]
+            },
+            {
+                  "name": "Hipphalle",
+                  "text": "Hipphalle ist eine Kunstgalerie in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.798505,
+                        47.937238
+                  ]
+            },
+            {
+                  "name": "Blick über Gmunden",
+                  "text": "Blick über Gmunden ist ein Aussichtspunkt in Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.812238,
+                        47.923192
+                  ]
+            },
+            {
+                  "name": "Kunstquartier Stadtgarten",
+                  "text": "Kunstquartier Stadtgarten ist ein Kunstzentrum in Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.797141,
+                        47.921039
+                  ]
+            },
+            {
+                  "name": "Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum",
+                  "text": "Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum ist ein Denkmal in Gmunden.",
+                  "category": "historical",
+                  "coords": [
+                        13.788292,
+                        47.919153
+                  ]
+            },
+            {
+                  "name": "Toscana Congress Gmunden",
+                  "text": "Toscana Congress Gmunden ist ein Kunstzentrum in Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.788627,
+                        47.909625
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Blaue Butter",
+                  "text": "Kunsthaus Blaue Butter ist eine Kunstgalerie in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.79815,
+                        47.920883
+                  ]
+            },
+            {
+                  "name": "Thomas Bernhard Gedenkstein",
+                  "text": "Thomas Bernhard Gedenkstein ist ein Denkmal in Gmunden.",
+                  "category": "historical",
+                  "coords": [
+                        13.790323,
+                        47.913708
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm Grünberg",
+                  "text": "Aussichtsturm Grünberg ist ein Aussichtspunkt in Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.823162,
+                        47.897759
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Karmelitinnen",
+                  "text": "Klosterkirche der Karmelitinnen ist eine Kultstätte in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.803243,
+                        47.917822
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Gmunden",
+                  "text": "Die Stadtpfarrkirche Gmunden ist eine katholische Pfarrkirche, die für ihren einzigartigen Keramikaltar bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.799415,
+                        47.919629
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Ort",
+                  "text": "Die Pfarrkirche Ort ist ein Gotteshaus für den Ortsteil Ort in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.783843,
+                        47.917567
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Die Kapuzinerkirche ist eine ehemalige Kapuzinerklosterkirche in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.804492,
+                        47.917442
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Die Evangelische Kirche ist eine evangelische Pfarrkirche in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.806085,
+                        47.918487
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stadttheater",
+                  "text": "A Stadttheater egy városi színház Gmundenben.",
+                  "category": "cultural",
+                  "coords": [
+                        13.798463,
+                        47.918043
+                  ]
+            },
+            {
+                  "name": "Kammerhofmuseum",
+                  "text": "A Kammerhofmuseum egy múzeum Gmunden városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.801146,
+                        47.918439
+                  ]
+            },
+            {
+                  "name": "Schloss Traunsee",
+                  "text": "A Schloss Traunsee egy 19. századi kastély Gmundenben.",
+                  "category": "castle",
+                  "coords": [
+                        13.775061,
+                        47.907047
+                  ]
+            },
+            {
+                  "name": "Schloß Cumberland",
+                  "text": "A Schloß Cumberland egy Tudor-stílusú kastély Gmundenben, amelyet a hannoveri királyi család számára építettek.",
+                  "category": "castle",
+                  "coords": [
+                        13.808051,
+                        47.927246
+                  ]
+            },
+            {
+                  "name": "Eggerhaus",
+                  "text": "Az Eggerhaus egy múzeum Gmunden városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.767405,
+                        47.91144
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "A Strandbad egy aquapark Gmunden városában.",
+                  "category": "recreational",
+                  "coords": [
+                        13.785241,
+                        47.90894
+                  ]
+            },
+            {
+                  "name": "Grünberg",
+                  "text": "A Grünberg egy népszerű hegycsúcs Gmunden városának közelében.",
+                  "category": "natural",
+                  "coords": [
+                        13.819578,
+                        47.898399
+                  ]
+            },
+            {
+                  "name": "Baumwipfelpfad Salzkammergut",
+                  "text": "A Baumwipfelpfad Salzkammergut egy turisztikai látványosság Gmunden városában.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818163,
+                        47.898168
+                  ]
+            },
+            {
+                  "name": "Traunseeblick",
+                  "text": "A Traunseeblick egy kilátó Gmunden városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.787482,
+                        47.906988
+                  ]
+            },
+            {
+                  "name": "Hipphalle",
+                  "text": "A Hipphalle egy művészeti galéria Gmunden városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.798505,
+                        47.937238
+                  ]
+            },
+            {
+                  "name": "Blick über Gmunden",
+                  "text": "A Blick über Gmunden egy kilátó Gmunden városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.812238,
+                        47.923192
+                  ]
+            },
+            {
+                  "name": "Kunstquartier Stadtgarten",
+                  "text": "A Kunstquartier Stadtgarten egy művészeti központ Gmunden városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.797141,
+                        47.921039
+                  ]
+            },
+            {
+                  "name": "Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum",
+                  "text": "A Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum egy emlékmű Gmunden városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.788292,
+                        47.919153
+                  ]
+            },
+            {
+                  "name": "Toscana Congress Gmunden",
+                  "text": "A Toscana Congress Gmunden egy művészeti központ Gmunden városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.788627,
+                        47.909625
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Blaue Butter",
+                  "text": "A Kunsthaus Blaue Butter egy művészeti galéria Gmunden városában.",
+                  "category": "museum",
+                  "coords": [
+                        13.79815,
+                        47.920883
+                  ]
+            },
+            {
+                  "name": "Thomas Bernhard Gedenkstein",
+                  "text": "A Thomas Bernhard Gedenkstein egy emlékmű Gmunden városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.790323,
+                        47.913708
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm Grünberg",
+                  "text": "Az Aussichtsturm Grünberg egy kilátó Gmunden városában.",
+                  "category": "natural",
+                  "coords": [
+                        13.823162,
+                        47.897759
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Karmelitinnen",
+                  "text": "A Klosterkirche der Karmelitinnen egy istentiszteleti hely Gmunden városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.803243,
+                        47.917822
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Gmunden",
+                  "text": "A Stadtpfarrkirche Gmunden egy katolikus plébániatemplom, amely egyedülálló kerámia oltáráról híres.",
+                  "category": "religious",
+                  "coords": [
+                        13.799415,
+                        47.919629
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Ort",
+                  "text": "A Pfarrkirche Ort egy istentiszteleti hely Gmunden Ort nevű részén.",
+                  "category": "religious",
+                  "coords": [
+                        13.783843,
+                        47.917567
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "A Kapuzinerkirche egy egykori kapucinus kolostortemplom Gmundenben.",
+                  "category": "religious",
+                  "coords": [
+                        13.804492,
+                        47.917442
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Az Evangelische Kirche egy protestáns plébániatemplom Gmundenben.",
+                  "category": "religious",
+                  "coords": [
+                        13.806085,
+                        47.918487
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stadttheater",
+                  "text": "Stadttheater este un teatru municipal din Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.798463,
+                        47.918043
+                  ]
+            },
+            {
+                  "name": "Kammerhofmuseum",
+                  "text": "Kammerhofmuseum este un muzeu situat în Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.801146,
+                        47.918439
+                  ]
+            },
+            {
+                  "name": "Schloss Traunsee",
+                  "text": "Schloss Traunsee este un castel din secolul al XIX-lea situat în Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.775061,
+                        47.907047
+                  ]
+            },
+            {
+                  "name": "Schloß Cumberland",
+                  "text": "Schloß Cumberland este un castel în stil Tudor Revival din Gmunden, construit pentru familia regală de Hanovra.",
+                  "category": "castle",
+                  "coords": [
+                        13.808051,
+                        47.927246
+                  ]
+            },
+            {
+                  "name": "Eggerhaus",
+                  "text": "Eggerhaus este un muzeu situat în Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.767405,
+                        47.91144
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Strandbad este un parc acvatic situat în Gmunden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.785241,
+                        47.90894
+                  ]
+            },
+            {
+                  "name": "Grünberg",
+                  "text": "Grünberg este un vârf montan popular aflat în apropiere de orașul Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.819578,
+                        47.898399
+                  ]
+            },
+            {
+                  "name": "Baumwipfelpfad Salzkammergut",
+                  "text": "Baumwipfelpfad Salzkammergut este o atracție turistică situată în Gmunden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818163,
+                        47.898168
+                  ]
+            },
+            {
+                  "name": "Traunseeblick",
+                  "text": "Traunseeblick este un punct de belvedere situat în Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.787482,
+                        47.906988
+                  ]
+            },
+            {
+                  "name": "Hipphalle",
+                  "text": "Hipphalle este o galerie de artă situată în Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.798505,
+                        47.937238
+                  ]
+            },
+            {
+                  "name": "Blick über Gmunden",
+                  "text": "Blick über Gmunden este un punct de belvedere situat în Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.812238,
+                        47.923192
+                  ]
+            },
+            {
+                  "name": "Kunstquartier Stadtgarten",
+                  "text": "Kunstquartier Stadtgarten este un centru de artă situat în Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.797141,
+                        47.921039
+                  ]
+            },
+            {
+                  "name": "Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum",
+                  "text": "Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum este un monument situat în Gmunden.",
+                  "category": "historical",
+                  "coords": [
+                        13.788292,
+                        47.919153
+                  ]
+            },
+            {
+                  "name": "Toscana Congress Gmunden",
+                  "text": "Toscana Congress Gmunden este un centru de artă situat în Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.788627,
+                        47.909625
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Blaue Butter",
+                  "text": "Kunsthaus Blaue Butter este o galerie de artă situată în Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.79815,
+                        47.920883
+                  ]
+            },
+            {
+                  "name": "Thomas Bernhard Gedenkstein",
+                  "text": "Thomas Bernhard Gedenkstein este un monument situat în Gmunden.",
+                  "category": "historical",
+                  "coords": [
+                        13.790323,
+                        47.913708
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm Grünberg",
+                  "text": "Aussichtsturm Grünberg este un punct de belvedere situat în Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.823162,
+                        47.897759
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Karmelitinnen",
+                  "text": "Klosterkirche der Karmelitinnen este un lăcaș de cult situat în Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.803243,
+                        47.917822
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Gmunden",
+                  "text": "Stadtpfarrkirche Gmunden este o biserică parohială catolică faimoasă pentru altarul său unic din ceramică.",
+                  "category": "religious",
+                  "coords": [
+                        13.799415,
+                        47.919629
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Ort",
+                  "text": "Pfarrkirche Ort este un lăcaș de cult care deservește districtul Ort din Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.783843,
+                        47.917567
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Kapuzinerkirche este o fostă biserică a mănăstirii capucine situată în Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.804492,
+                        47.917442
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Evangelische Kirche este o biserică parohială protestantă situată în Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.806085,
+                        47.918487
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stadttheater",
+                  "text": "Stadttheater is a municipal theatre located in Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.798463,
+                        47.918043
+                  ]
+            },
+            {
+                  "name": "Kammerhofmuseum",
+                  "text": "Kammerhofmuseum is a museum located in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.801146,
+                        47.918439
+                  ]
+            },
+            {
+                  "name": "Schloss Traunsee",
+                  "text": "Schloss Traunsee is a 19th-century castle located in Gmunden.",
+                  "category": "castle",
+                  "coords": [
+                        13.775061,
+                        47.907047
+                  ]
+            },
+            {
+                  "name": "Schloß Cumberland",
+                  "text": "Schloß Cumberland is a Tudor Revival style castle in Gmunden built for the Hanoverian royal family.",
+                  "category": "castle",
+                  "coords": [
+                        13.808051,
+                        47.927246
+                  ]
+            },
+            {
+                  "name": "Eggerhaus",
+                  "text": "Eggerhaus is a museum located in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.767405,
+                        47.91144
+                  ]
+            },
+            {
+                  "name": "Strandbad",
+                  "text": "Strandbad is a water park located in Gmunden.",
+                  "category": "recreational",
+                  "coords": [
+                        13.785241,
+                        47.90894
+                  ]
+            },
+            {
+                  "name": "Grünberg",
+                  "text": "Grünberg is a popular mountain peak near the city of Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.819578,
+                        47.898399
+                  ]
+            },
+            {
+                  "name": "Baumwipfelpfad Salzkammergut",
+                  "text": "Baumwipfelpfad Salzkammergut is a tourist attraction located in Gmunden.",
+                  "category": "landmark",
+                  "coords": [
+                        13.818163,
+                        47.898168
+                  ]
+            },
+            {
+                  "name": "Traunseeblick",
+                  "text": "Traunseeblick is a scenic viewpoint located in Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.787482,
+                        47.906988
+                  ]
+            },
+            {
+                  "name": "Hipphalle",
+                  "text": "Hipphalle is an art gallery located in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.798505,
+                        47.937238
+                  ]
+            },
+            {
+                  "name": "Blick über Gmunden",
+                  "text": "Blick über Gmunden is a scenic viewpoint located in Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.812238,
+                        47.923192
+                  ]
+            },
+            {
+                  "name": "Kunstquartier Stadtgarten",
+                  "text": "Kunstquartier Stadtgarten is an arts centre located in Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.797141,
+                        47.921039
+                  ]
+            },
+            {
+                  "name": "Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum",
+                  "text": "Zur Ehre der großen Männer Österreichs aus dem sudetendeutschen Raum is a monument located in Gmunden.",
+                  "category": "historical",
+                  "coords": [
+                        13.788292,
+                        47.919153
+                  ]
+            },
+            {
+                  "name": "Toscana Congress Gmunden",
+                  "text": "Toscana Congress Gmunden is an arts centre located in Gmunden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.788627,
+                        47.909625
+                  ]
+            },
+            {
+                  "name": "Kunsthaus Blaue Butter",
+                  "text": "Kunsthaus Blaue Butter is an art gallery located in Gmunden.",
+                  "category": "museum",
+                  "coords": [
+                        13.79815,
+                        47.920883
+                  ]
+            },
+            {
+                  "name": "Thomas Bernhard Gedenkstein",
+                  "text": "Thomas Bernhard Gedenkstein is a monument located in Gmunden.",
+                  "category": "historical",
+                  "coords": [
+                        13.790323,
+                        47.913708
+                  ]
+            },
+            {
+                  "name": "Aussichtsturm Grünberg",
+                  "text": "Aussichtsturm Grünberg is a scenic viewpoint located in Gmunden.",
+                  "category": "natural",
+                  "coords": [
+                        13.823162,
+                        47.897759
+                  ]
+            },
+            {
+                  "name": "Klosterkirche der Karmelitinnen",
+                  "text": "Klosterkirche der Karmelitinnen is a place of worship located in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.803243,
+                        47.917822
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche Gmunden",
+                  "text": "Stadtpfarrkirche Gmunden is a Catholic parish church famous for its unique ceramic altar.",
+                  "category": "religious",
+                  "coords": [
+                        13.799415,
+                        47.919629
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Ort",
+                  "text": "Pfarrkirche Ort is a place of worship serving the Ort district in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.783843,
+                        47.917567
+                  ]
+            },
+            {
+                  "name": "Kapuzinerkirche",
+                  "text": "Kapuzinerkirche is a former Capuchin monastery church located in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.804492,
+                        47.917442
+                  ]
+            },
+            {
+                  "name": "Evangelische Kirche",
+                  "text": "Evangelische Kirche is a Protestant parish church situated in Gmunden.",
+                  "category": "religious",
+                  "coords": [
+                        13.806085,
+                        47.918487
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-4",
     coords: [13.8019, 47.9192],
@@ -267,7 +2607,304 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-amstetten",
+    id: "at-amstetten", "sights": {
+      "de": [
+            {
+                  "name": "Pölz-Kulturhalle Amstetten",
+                  "text": "Die Pölz-Kulturhalle ist ein zentraler Veranstaltungsort für Konzerte und Theater in Amstetten.",
+                  "category": "cultural",
+                  "coords": [
+                        14.877733,
+                        48.116154
+                  ]
+            },
+            {
+                  "name": "Arbeiterkammersaal Amstetten",
+                  "text": "Der Arbeiterkammersaal in Amstetten wird regelmäßig für kulturelle und gesellschaftliche Events genutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        14.881326,
+                        48.123302
+                  ]
+            },
+            {
+                  "name": "Schloss Hubertus",
+                  "text": "Das Schloss Hubertus in Amstetten ist ein historisches Landschloss in der Region.",
+                  "category": "castle",
+                  "coords": [
+                        14.874257,
+                        48.102016
+                  ]
+            },
+            {
+                  "name": "St. Agatha Kirche",
+                  "text": "Die Kirche St. Agatha ist ein sakrales Bauwerk im Stadtgebiet von Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.888821,
+                        48.12887
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-St. Stephan",
+                  "text": "Die Pfarrkirche St. Stephan ist eine der ältesten und bedeutendsten Kirchen in Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.86892,
+                        48.123513
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-Herz Jesu",
+                  "text": "Die Herz-Jesu-Kirche in Amstetten ist ein markantes katholisches Gotteshaus im neugotischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        14.877889,
+                        48.125245
+                  ]
+            },
+            {
+                  "name": "Pfarrzentrum St. Marien",
+                  "text": "Das Pfarrzentrum St. Marien dient der katholischen Gemeinde in Amstetten als Begegnungsstätte.",
+                  "category": "religious",
+                  "coords": [
+                        14.869702,
+                        48.108815
+                  ]
+            },
+            {
+                  "name": "Heilandskirche",
+                  "text": "Die Heilandskirche in Amstetten ist die Predigtstation der evangelischen Pfarrgemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        14.874399,
+                        48.123783
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pölz-Kulturhalle Amstetten",
+                  "text": "A Pölz-Kulturhalle Amstetten központi rendezvényhelyszíne koncertek és színházi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        14.877733,
+                        48.116154
+                  ]
+            },
+            {
+                  "name": "Arbeiterkammersaal Amstetten",
+                  "text": "Az amstetteni Arbeiterkammersaal rendszeresen ad otthont kulturális és társadalmi eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        14.881326,
+                        48.123302
+                  ]
+            },
+            {
+                  "name": "Schloss Hubertus",
+                  "text": "Az amstetteni Hubertus-kastély a régió egyik történelmi vidéki kastélya.",
+                  "category": "castle",
+                  "coords": [
+                        14.874257,
+                        48.102016
+                  ]
+            },
+            {
+                  "name": "St. Agatha Kirche",
+                  "text": "A Szent Ágota-templom egy egyházi épület Amstetten területén.",
+                  "category": "religious",
+                  "coords": [
+                        14.888821,
+                        48.12887
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-St. Stephan",
+                  "text": "A Szent István-plébániatemplom Amstetten egyik legrégebbi és legjelentősebb temploma.",
+                  "category": "religious",
+                  "coords": [
+                        14.86892,
+                        48.123513
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-Herz Jesu",
+                  "text": "Az amstetteni Jézus Szíve-templom egy jellegzetes, neogótikus stílusú katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        14.877889,
+                        48.125245
+                  ]
+            },
+            {
+                  "name": "Pfarrzentrum St. Marien",
+                  "text": "A Szent Mária plébániaközpont az amstetteni katolikus közösség találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        14.869702,
+                        48.108815
+                  ]
+            },
+            {
+                  "name": "Heilandskirche",
+                  "text": "Az amstetteni Heilandskirche az evangélikus egyházközség hitéletének helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        14.874399,
+                        48.123783
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pölz-Kulturhalle Amstetten",
+                  "text": "Pölz-Kulturhalle este un loc central de desfășurare a concertelor și spectacolelor de teatru în Amstetten.",
+                  "category": "cultural",
+                  "coords": [
+                        14.877733,
+                        48.116154
+                  ]
+            },
+            {
+                  "name": "Arbeiterkammersaal Amstetten",
+                  "text": "Sala Camerei de Muncă din Amstetten este utilizată în mod regulat pentru evenimente culturale și sociale.",
+                  "category": "cultural",
+                  "coords": [
+                        14.881326,
+                        48.123302
+                  ]
+            },
+            {
+                  "name": "Schloss Hubertus",
+                  "text": "Castelul Hubertus din Amstetten este un castel istoric de țară situat în regiune.",
+                  "category": "castle",
+                  "coords": [
+                        14.874257,
+                        48.102016
+                  ]
+            },
+            {
+                  "name": "St. Agatha Kirche",
+                  "text": "Biserica Sfânta Agata este un edificiu religios situat în orașul Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.888821,
+                        48.12887
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-St. Stephan",
+                  "text": "Biserica parohială Sfântul Ștefan este una dintre cele mai vechi și importante biserici din Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.86892,
+                        48.123513
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-Herz Jesu",
+                  "text": "Biserica Inima lui Isus din Amstetten este un lăcaș de cult catolic distinctiv, construit în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        14.877889,
+                        48.125245
+                  ]
+            },
+            {
+                  "name": "Pfarrzentrum St. Marien",
+                  "text": "Centrul parohial Sfânta Maria servește ca loc de întâlnire pentru comunitatea catolică din Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.869702,
+                        48.108815
+                  ]
+            },
+            {
+                  "name": "Heilandskirche",
+                  "text": "Heilandskirche din Amstetten este lăcașul de cult al comunității parohiale evanghelice locale.",
+                  "category": "religious",
+                  "coords": [
+                        14.874399,
+                        48.123783
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pölz-Kulturhalle Amstetten",
+                  "text": "The Pölz-Kulturhalle is a central venue for concerts and theater performances in Amstetten.",
+                  "category": "cultural",
+                  "coords": [
+                        14.877733,
+                        48.116154
+                  ]
+            },
+            {
+                  "name": "Arbeiterkammersaal Amstetten",
+                  "text": "The Arbeiterkammersaal in Amstetten is regularly used for cultural and social events.",
+                  "category": "cultural",
+                  "coords": [
+                        14.881326,
+                        48.123302
+                  ]
+            },
+            {
+                  "name": "Schloss Hubertus",
+                  "text": "Schloss Hubertus in Amstetten is a historic country manor in the region.",
+                  "category": "castle",
+                  "coords": [
+                        14.874257,
+                        48.102016
+                  ]
+            },
+            {
+                  "name": "St. Agatha Kirche",
+                  "text": "St. Agatha's Church is a sacred building located within the city of Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.888821,
+                        48.12887
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-St. Stephan",
+                  "text": "St. Stephen's Parish Church is one of the oldest and most significant churches in Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.86892,
+                        48.123513
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Amstetten-Herz Jesu",
+                  "text": "The Sacred Heart Church in Amstetten is a prominent Catholic place of worship built in Neogothic style.",
+                  "category": "religious",
+                  "coords": [
+                        14.877889,
+                        48.125245
+                  ]
+            },
+            {
+                  "name": "Pfarrzentrum St. Marien",
+                  "text": "The St. Mary's Parish Center serves as a community hub for the Catholic congregation in Amstetten.",
+                  "category": "religious",
+                  "coords": [
+                        14.869702,
+                        48.108815
+                  ]
+            },
+            {
+                  "name": "Heilandskirche",
+                  "text": "The Heilandskirche in Amstetten is the place of worship for the local Protestant congregation.",
+                  "category": "religious",
+                  "coords": [
+                        14.874399,
+                        48.123783
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-3",
     coords: [14.8723, 48.1227],
@@ -311,7 +2948,556 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-spittal-an-der-drau",
+    id: "at-spittal-an-der-drau", "sights": {
+      "de": [
+            {
+                  "name": "Ortenburg",
+                  "text": "Die Ruine einer mittelalterlichen Burg über Spittal an der Drau.",
+                  "category": "castle",
+                  "coords": [
+                        13.458957,
+                        46.793674
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Handwerksmuseum",
+                  "text": "Ein Museum für traditionelles kärntnerisches Handwerk in Spittal.",
+                  "category": "museum",
+                  "coords": [
+                        13.462441,
+                        46.796534
+                  ]
+            },
+            {
+                  "name": "Museum für Volkskultur",
+                  "text": "Ein Museum für Volkskultur im Schloss Porcia in Spittal an der Drau.",
+                  "category": "museum",
+                  "coords": [
+                        13.495945,
+                        46.797654
+                  ]
+            },
+            {
+                  "name": "Parkschlössl",
+                  "text": "Ein charmantes kleines Schlossmuseum in Spittal an der Drau.",
+                  "category": "museum",
+                  "coords": [
+                        13.49288,
+                        46.798357
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Fischereimuseum",
+                  "text": "Ein Museum zur Geschichte der Fischerei in Kärnten.",
+                  "category": "museum",
+                  "coords": [
+                        13.509312,
+                        46.813812
+                  ]
+            },
+            {
+                  "name": "Probebühne",
+                  "text": "Eine Probebühne und ein Theaterraum in Spittal an der Drau.",
+                  "category": "cultural",
+                  "coords": [
+                        13.517725,
+                        46.790537
+                  ]
+            },
+            {
+                  "name": "Drautalperle",
+                  "text": "Ein modernes Erlebnisbad und Schwimmkomplex in Spittal an der Drau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.486701,
+                        46.79269
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "Ein Aussichtspunkt mit Blick über die Drau-Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        13.469841,
+                        46.799676
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrgemeinde",
+                  "text": "Das Gemeindezentrum der evangelischen Kirche in Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.495173,
+                        46.801275
+                  ]
+            },
+            {
+                  "name": "Sankt Wolfgang",
+                  "text": "Eine historische Kirche, die dem heiligen Wolfgang gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.508172,
+                        46.805848
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche »Mariae Verkündigung«",
+                  "text": "Die Hauptpfarrkirche von Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.497923,
+                        46.79668
+                  ]
+            },
+            {
+                  "name": "Unsere Liebe Frau vor Spittal",
+                  "text": "Eine bedeutende religiöse Erbestätte in Spittal an der Drau.",
+                  "category": "landmark",
+                  "coords": [
+                        13.511785,
+                        46.791283
+                  ]
+            },
+            {
+                  "name": "Hl. Thomas",
+                  "text": "Ein dem heiligen Thomas gewidmetes Gotteshaus in Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.513697,
+                        46.792606
+                  ]
+            },
+            {
+                  "name": "Draukirche zum guten Hirten",
+                  "text": "Eine Kirche in der Nähe der Drau in Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.491304,
+                        46.785877
+                  ]
+            },
+            {
+                  "name": "St. Anton am Fratres",
+                  "text": "Eine kleine Kapelle auf dem Fratres-Hügel in Spittal.",
+                  "category": "religious",
+                  "coords": [
+                        13.494604,
+                        46.803545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ortenburg",
+                  "text": "Középkori várrom Spittal an der Drau felett.",
+                  "category": "castle",
+                  "coords": [
+                        13.458957,
+                        46.793674
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Handwerksmuseum",
+                  "text": "A hagyományos karintiai kézművességet bemutató múzeum Spittalban.",
+                  "category": "museum",
+                  "coords": [
+                        13.462441,
+                        46.796534
+                  ]
+            },
+            {
+                  "name": "Museum für Volkskultur",
+                  "text": "Néprajzi múzeum a Spittal an der Drau-i Porcia-kastélyban.",
+                  "category": "museum",
+                  "coords": [
+                        13.495945,
+                        46.797654
+                  ]
+            },
+            {
+                  "name": "Parkschlössl",
+                  "text": "Bájos kis kastélymúzeum Spittal an der Drau-ban.",
+                  "category": "museum",
+                  "coords": [
+                        13.49288,
+                        46.798357
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Fischereimuseum",
+                  "text": "A karintiai halászat történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.509312,
+                        46.813812
+                  ]
+            },
+            {
+                  "name": "Probebühne",
+                  "text": "Próbaterem és színházi tér Spittal an der Drau-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.517725,
+                        46.790537
+                  ]
+            },
+            {
+                  "name": "Drautalperle",
+                  "text": "Modern vízipark és uszodakomplexum Spittal an der Drau-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.486701,
+                        46.79269
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "Kilátóhely, ahonnan kilátás nyílik a Dráva menti tájra.",
+                  "category": "natural",
+                  "coords": [
+                        13.469841,
+                        46.799676
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrgemeinde",
+                  "text": "Evangélikus egyházközségi központ Spittal an der Drau-ban.",
+                  "category": "religious",
+                  "coords": [
+                        13.495173,
+                        46.801275
+                  ]
+            },
+            {
+                  "name": "Sankt Wolfgang",
+                  "text": "Szent Wolfgangnak szentelt történelmi templom Spittal környékén.",
+                  "category": "religious",
+                  "coords": [
+                        13.508172,
+                        46.805848
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche »Mariae Verkündigung«",
+                  "text": "Spittal an der Drau fő plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        13.497923,
+                        46.79668
+                  ]
+            },
+            {
+                  "name": "Unsere Liebe Frau vor Spittal",
+                  "text": "Jelentős vallási örökségi helyszín Spittal an der Drau-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.511785,
+                        46.791283
+                  ]
+            },
+            {
+                  "name": "Hl. Thomas",
+                  "text": "Szent Tamásnak szentelt istentiszteleti hely Spittal an der Drau-ban.",
+                  "category": "religious",
+                  "coords": [
+                        13.513697,
+                        46.792606
+                  ]
+            },
+            {
+                  "name": "Draukirche zum guten Hirten",
+                  "text": "Templom a Dráva közelében Spittal an der Drau-ban.",
+                  "category": "religious",
+                  "coords": [
+                        13.491304,
+                        46.785877
+                  ]
+            },
+            {
+                  "name": "St. Anton am Fratres",
+                  "text": "Szent Antalnak szentelt kis kápolna a Spittal melletti Fratres-dombon.",
+                  "category": "religious",
+                  "coords": [
+                        13.494604,
+                        46.803545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ortenburg",
+                  "text": "Ruinele unui castel medieval care domină Spittal an der Drau.",
+                  "category": "castle",
+                  "coords": [
+                        13.458957,
+                        46.793674
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Handwerksmuseum",
+                  "text": "Un muzeu dedicat meșteșugurilor tradiționale carintiene din Spittal.",
+                  "category": "museum",
+                  "coords": [
+                        13.462441,
+                        46.796534
+                  ]
+            },
+            {
+                  "name": "Museum für Volkskultur",
+                  "text": "Un muzeu de cultură populară găzduit în Schloss Porcia din Spittal an der Drau.",
+                  "category": "museum",
+                  "coords": [
+                        13.495945,
+                        46.797654
+                  ]
+            },
+            {
+                  "name": "Parkschlössl",
+                  "text": "Un mic muzeu fermecător situat într-un castel din Spittal an der Drau.",
+                  "category": "museum",
+                  "coords": [
+                        13.49288,
+                        46.798357
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Fischereimuseum",
+                  "text": "Un muzeu care explorează istoria pescuitului în regiunea Carintia.",
+                  "category": "museum",
+                  "coords": [
+                        13.509312,
+                        46.813812
+                  ]
+            },
+            {
+                  "name": "Probebühne",
+                  "text": "O scenă de repetiții și un spațiu teatral în Spittal an der Drau.",
+                  "category": "cultural",
+                  "coords": [
+                        13.517725,
+                        46.790537
+                  ]
+            },
+            {
+                  "name": "Drautalperle",
+                  "text": "Un parc acvatic modern și un complex de înot în Spittal an der Drau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.486701,
+                        46.79269
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "Un punct de belvedere care oferă vedere asupra peisajului râului Drau.",
+                  "category": "natural",
+                  "coords": [
+                        13.469841,
+                        46.799676
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrgemeinde",
+                  "text": "Centrul comunității bisericii protestante din Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.495173,
+                        46.801275
+                  ]
+            },
+            {
+                  "name": "Sankt Wolfgang",
+                  "text": "O biserică istorică dedicată Sfântului Wolfgang în zona Spittal.",
+                  "category": "religious",
+                  "coords": [
+                        13.508172,
+                        46.805848
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche »Mariae Verkündigung«",
+                  "text": "Principala biserică parohială din Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.497923,
+                        46.79668
+                  ]
+            },
+            {
+                  "name": "Unsere Liebe Frau vor Spittal",
+                  "text": "Un sit de patrimoniu religios semnificativ în Spittal an der Drau.",
+                  "category": "landmark",
+                  "coords": [
+                        13.511785,
+                        46.791283
+                  ]
+            },
+            {
+                  "name": "Hl. Thomas",
+                  "text": "Un lăcaș de cult dedicat Sfântului Toma în Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.513697,
+                        46.792606
+                  ]
+            },
+            {
+                  "name": "Draukirche zum guten Hirten",
+                  "text": "O biserică situată lângă râul Drau în Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.491304,
+                        46.785877
+                  ]
+            },
+            {
+                  "name": "St. Anton am Fratres",
+                  "text": "O mică capelă dedicată Sfântului Anton pe dealul Fratres din Spittal.",
+                  "category": "religious",
+                  "coords": [
+                        13.494604,
+                        46.803545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ortenburg",
+                  "text": "The ruins of a medieval castle overlooking Spittal an der Drau.",
+                  "category": "castle",
+                  "coords": [
+                        13.458957,
+                        46.793674
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Handwerksmuseum",
+                  "text": "A museum dedicated to traditional Carinthian craftsmanship in Spittal.",
+                  "category": "museum",
+                  "coords": [
+                        13.462441,
+                        46.796534
+                  ]
+            },
+            {
+                  "name": "Museum für Volkskultur",
+                  "text": "A museum of folk culture housed in Schloss Porcia in Spittal an der Drau.",
+                  "category": "museum",
+                  "coords": [
+                        13.495945,
+                        46.797654
+                  ]
+            },
+            {
+                  "name": "Parkschlössl",
+                  "text": "A charming small castle museum located in Spittal an der Drau.",
+                  "category": "museum",
+                  "coords": [
+                        13.49288,
+                        46.798357
+                  ]
+            },
+            {
+                  "name": "1. Kärntner Fischereimuseum",
+                  "text": "A museum exploring the history of fishing in the Carinthia region.",
+                  "category": "museum",
+                  "coords": [
+                        13.509312,
+                        46.813812
+                  ]
+            },
+            {
+                  "name": "Probebühne",
+                  "text": "A rehearsal stage and theatre space in Spittal an der Drau.",
+                  "category": "cultural",
+                  "coords": [
+                        13.517725,
+                        46.790537
+                  ]
+            },
+            {
+                  "name": "Drautalperle",
+                  "text": "A modern water park and swimming complex in Spittal an der Drau.",
+                  "category": "recreational",
+                  "coords": [
+                        13.486701,
+                        46.79269
+                  ]
+            },
+            {
+                  "name": "Aussichtsplattform DrAUENland",
+                  "text": "A viewpoint offering views over the Drau river landscape.",
+                  "category": "natural",
+                  "coords": [
+                        13.469841,
+                        46.799676
+                  ]
+            },
+            {
+                  "name": "Evangelische Pfarrgemeinde",
+                  "text": "A Protestant church community center in Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.495173,
+                        46.801275
+                  ]
+            },
+            {
+                  "name": "Sankt Wolfgang",
+                  "text": "A historic church dedicated to Saint Wolfgang in the Spittal area.",
+                  "category": "religious",
+                  "coords": [
+                        13.508172,
+                        46.805848
+                  ]
+            },
+            {
+                  "name": "Stadtpfarrkirche »Mariae Verkündigung«",
+                  "text": "The main parish church of Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.497923,
+                        46.79668
+                  ]
+            },
+            {
+                  "name": "Unsere Liebe Frau vor Spittal",
+                  "text": "A significant religious heritage site in Spittal an der Drau.",
+                  "category": "landmark",
+                  "coords": [
+                        13.511785,
+                        46.791283
+                  ]
+            },
+            {
+                  "name": "Hl. Thomas",
+                  "text": "A place of worship dedicated to Saint Thomas in Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.513697,
+                        46.792606
+                  ]
+            },
+            {
+                  "name": "Draukirche zum guten Hirten",
+                  "text": "A church located near the Drau river in Spittal an der Drau.",
+                  "category": "religious",
+                  "coords": [
+                        13.491304,
+                        46.785877
+                  ]
+            },
+            {
+                  "name": "St. Anton am Fratres",
+                  "text": "A small chapel dedicated to Saint Anthony on the Fratres hill in Spittal.",
+                  "category": "religious",
+                  "coords": [
+                        13.494604,
+                        46.803545
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-2",
     coords: [13.4929, 46.7908],
@@ -355,7 +3541,808 @@ export const austriaCities: POI[] = [
     },
   },
   {
-    id: "at-telfs",
+    id: "at-telfs", "sights": {
+      "de": [
+            {
+                  "name": "Dorfmuseum",
+                  "text": "Dorfmuseum ist ein Museum in Telfs.",
+                  "category": "museum",
+                  "coords": [
+                        11.095812,
+                        47.30321
+                  ]
+            },
+            {
+                  "name": "Fasnacht- und Heimatmuseum Telfs",
+                  "text": "Fasnacht- und Heimatmuseum Telfs ist ein Museum in Telfs.",
+                  "category": "museum",
+                  "coords": [
+                        11.073396,
+                        47.306936
+                  ]
+            },
+            {
+                  "name": "Burgruine Hörtenberg",
+                  "text": "Die Burgruine Hörtenberg ist die Ruine einer historischen Burg in Telfs.",
+                  "category": "castle",
+                  "coords": [
+                        11.079531,
+                        47.294429
+                  ]
+            },
+            {
+                  "name": "Theater Telfs",
+                  "text": "Das Theater Telfs ist ein Theater in Telfs.",
+                  "category": "cultural",
+                  "coords": [
+                        11.066947,
+                        47.303866
+                  ]
+            },
+            {
+                  "name": "Badeanlage Telfs",
+                  "text": "Die Badeanlage Telfs ist ein Erlebnisbad in Telfs.",
+                  "category": "recreational",
+                  "coords": [
+                        11.068772,
+                        47.304129
+                  ]
+            },
+            {
+                  "name": "Moritzenkirche",
+                  "text": "Die Moritzenkirche ist eine Sehenswürdigkeit in Telfs.",
+                  "category": "landmark",
+                  "coords": [
+                        11.053026,
+                        47.302756
+                  ]
+            },
+            {
+                  "name": "Wallnöfergedenkstein",
+                  "text": "Der Wallnöfergedenkstein ist ein Denkmal in Telfs.",
+                  "category": "historical",
+                  "coords": [
+                        11.098272,
+                        47.294607
+                  ]
+            },
+            {
+                  "name": "Telfs",
+                  "text": "Telfs ist das Rathaus der Stadt Telfs.",
+                  "category": "historical",
+                  "coords": [
+                        11.072121,
+                        47.306887
+                  ]
+            },
+            {
+                  "name": "Kreuzkapelle",
+                  "text": "Die Kreuzkapelle ist eine Andachtsstätte in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.074473,
+                        47.304288
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Peter und Paul",
+                  "text": "Die Pfarrkirche Peter und Paul ist die Dekanatspfarrkirche in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.073463,
+                        47.309087
+                  ]
+            },
+            {
+                  "name": "Heilig-Geist-Kirche",
+                  "text": "Die Heilig-Geist-Kirche ist die Pfarrkirche von Telfs-Schlichtling.",
+                  "category": "religious",
+                  "coords": [
+                        11.063854,
+                        47.308293
+                  ]
+            },
+            {
+                  "name": "St. Nikolaus",
+                  "text": "St. Nikolaus ist die Pfarrkirche von Oberhofen im Inntal bei Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.094655,
+                        47.303928
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mariä Himmelfahrt",
+                  "text": "Die Pfarrkirche Mariä Himmelfahrt ist die Pfarrkirche von Pfaffenhofen in Tirol bei Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.08285,
+                        47.299119
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "Die Eyüp-Sultan-Moschee ist eine Andachtsstätte in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.077405,
+                        47.306334
+                  ]
+            },
+            {
+                  "name": "Hl. Maria",
+                  "text": "Hl. Maria ist die Mariahilfkapelle am Birkenberg in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.087738,
+                        47.320541
+                  ]
+            },
+            {
+                  "name": "Wiesenkapelle",
+                  "text": "Die Wiesenkapelle ist eine Andachtsstätte in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.091684,
+                        47.3105
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Die Auferstehungskirche ist die Pfarrkirche von Telfs-St. Georgen.",
+                  "category": "religious",
+                  "coords": [
+                        11.081122,
+                        47.316598
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Veit",
+                  "text": "Die Kapelle St. Veit ist eine Filialkirche in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.065773,
+                        47.322812
+                  ]
+            },
+            {
+                  "name": "Georgenkirche",
+                  "text": "Die Georgenkirche ist eine Andachtsstätte in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.074672,
+                        47.314089
+                  ]
+            },
+            {
+                  "name": "Kranewitterkapelle",
+                  "text": "Die Kranewitterkapelle ist eine Andachtsstätte in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.071662,
+                        47.298193
+                  ]
+            },
+            {
+                  "name": "Ematkapelle",
+                  "text": "Die Ematkapelle ist eine Andachtsstätte in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.063725,
+                        47.312749
+                  ]
+            },
+            {
+                  "name": "Kapelle der Schmerzhaften Mutter",
+                  "text": "Die Kapelle der Schmerzhaften Mutter ist eine Andachtsstätte in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.054808,
+                        47.3029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dorfmuseum",
+                  "text": "A Dorfmuseum egy múzeum Telfs városában.",
+                  "category": "museum",
+                  "coords": [
+                        11.095812,
+                        47.30321
+                  ]
+            },
+            {
+                  "name": "Fasnacht- und Heimatmuseum Telfs",
+                  "text": "A Fasnacht- und Heimatmuseum Telfs egy múzeum Telfs városában.",
+                  "category": "museum",
+                  "coords": [
+                        11.073396,
+                        47.306936
+                  ]
+            },
+            {
+                  "name": "Burgruine Hörtenberg",
+                  "text": "A Burgruine Hörtenberg egy történelmi vár romja Telfs városában.",
+                  "category": "castle",
+                  "coords": [
+                        11.079531,
+                        47.294429
+                  ]
+            },
+            {
+                  "name": "Theater Telfs",
+                  "text": "A Theater Telfs egy színház Telfs városában.",
+                  "category": "cultural",
+                  "coords": [
+                        11.066947,
+                        47.303866
+                  ]
+            },
+            {
+                  "name": "Badeanlage Telfs",
+                  "text": "A Badeanlage Telfs egy vízipark Telfs városában.",
+                  "category": "recreational",
+                  "coords": [
+                        11.068772,
+                        47.304129
+                  ]
+            },
+            {
+                  "name": "Moritzenkirche",
+                  "text": "A Moritzenkirche egy látványosság Telfs városában.",
+                  "category": "landmark",
+                  "coords": [
+                        11.053026,
+                        47.302756
+                  ]
+            },
+            {
+                  "name": "Wallnöfergedenkstein",
+                  "text": "A Wallnöfergedenkstein egy emlékmű Telfs városában.",
+                  "category": "historical",
+                  "coords": [
+                        11.098272,
+                        47.294607
+                  ]
+            },
+            {
+                  "name": "Telfs",
+                  "text": "A Telfs a városháza Telfs városában.",
+                  "category": "historical",
+                  "coords": [
+                        11.072121,
+                        47.306887
+                  ]
+            },
+            {
+                  "name": "Kreuzkapelle",
+                  "text": "A Kreuzkapelle egy istentiszteleti hely Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.074473,
+                        47.304288
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Peter und Paul",
+                  "text": "A Pfarrkirche Peter und Paul a főesperesi plébániatemplom Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.073463,
+                        47.309087
+                  ]
+            },
+            {
+                  "name": "Heilig-Geist-Kirche",
+                  "text": "A Heilig-Geist-Kirche Telfs-Schlichtling plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.063854,
+                        47.308293
+                  ]
+            },
+            {
+                  "name": "St. Nikolaus",
+                  "text": "A St. Nikolaus az Inn-völgyi Oberhofen plébániatemploma Telfs közelében.",
+                  "category": "religious",
+                  "coords": [
+                        11.094655,
+                        47.303928
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mariä Himmelfahrt",
+                  "text": "A Pfarrkirche Mariä Himmelfahrt a tiroli Pfaffenhofen plébániatemploma Telfs közelében.",
+                  "category": "religious",
+                  "coords": [
+                        11.08285,
+                        47.299119
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "Az Eyüp-Sultan-Moschee egy istentiszteleti hely Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.077405,
+                        47.306334
+                  ]
+            },
+            {
+                  "name": "Hl. Maria",
+                  "text": "A Hl. Maria a Birkenbergen található Mariahilf-kápolna Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.087738,
+                        47.320541
+                  ]
+            },
+            {
+                  "name": "Wiesenkapelle",
+                  "text": "A Wiesenkapelle egy istentiszteleti hely Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.091684,
+                        47.3105
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Az Auferstehungskirche Telfs-St. Georgen plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        11.081122,
+                        47.316598
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Veit",
+                  "text": "A Kapelle St. Veit egy leányegyház Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.065773,
+                        47.322812
+                  ]
+            },
+            {
+                  "name": "Georgenkirche",
+                  "text": "A Georgenkirche egy istentiszteleti hely Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.074672,
+                        47.314089
+                  ]
+            },
+            {
+                  "name": "Kranewitterkapelle",
+                  "text": "A Kranewitterkapelle egy istentiszteleti hely Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.071662,
+                        47.298193
+                  ]
+            },
+            {
+                  "name": "Ematkapelle",
+                  "text": "Az Ematkapelle egy istentiszteleti hely Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.063725,
+                        47.312749
+                  ]
+            },
+            {
+                  "name": "Kapelle der Schmerzhaften Mutter",
+                  "text": "A Kapelle der Schmerzhaften Mutter egy istentiszteleti hely Telfs városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.054808,
+                        47.3029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dorfmuseum",
+                  "text": "Dorfmuseum este un muzeu situat în Telfs.",
+                  "category": "museum",
+                  "coords": [
+                        11.095812,
+                        47.30321
+                  ]
+            },
+            {
+                  "name": "Fasnacht- und Heimatmuseum Telfs",
+                  "text": "Fasnacht- und Heimatmuseum Telfs este un muzeu situat în Telfs.",
+                  "category": "museum",
+                  "coords": [
+                        11.073396,
+                        47.306936
+                  ]
+            },
+            {
+                  "name": "Burgruine Hörtenberg",
+                  "text": "Burgruine Hörtenberg sunt ruinele unui castel istoric situat în Telfs.",
+                  "category": "castle",
+                  "coords": [
+                        11.079531,
+                        47.294429
+                  ]
+            },
+            {
+                  "name": "Theater Telfs",
+                  "text": "Theater Telfs este un teatru din Telfs.",
+                  "category": "cultural",
+                  "coords": [
+                        11.066947,
+                        47.303866
+                  ]
+            },
+            {
+                  "name": "Badeanlage Telfs",
+                  "text": "Badeanlage Telfs este un parc acvatic din Telfs.",
+                  "category": "recreational",
+                  "coords": [
+                        11.068772,
+                        47.304129
+                  ]
+            },
+            {
+                  "name": "Moritzenkirche",
+                  "text": "Moritzenkirche este o atracție din Telfs.",
+                  "category": "landmark",
+                  "coords": [
+                        11.053026,
+                        47.302756
+                  ]
+            },
+            {
+                  "name": "Wallnöfergedenkstein",
+                  "text": "Wallnöfergedenkstein este un monument din Telfs.",
+                  "category": "historical",
+                  "coords": [
+                        11.098272,
+                        47.294607
+                  ]
+            },
+            {
+                  "name": "Telfs",
+                  "text": "Telfs este primăria din Telfs.",
+                  "category": "historical",
+                  "coords": [
+                        11.072121,
+                        47.306887
+                  ]
+            },
+            {
+                  "name": "Kreuzkapelle",
+                  "text": "Kreuzkapelle este un lăcaș de cult din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.074473,
+                        47.304288
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Peter und Paul",
+                  "text": "Pfarrkirche Peter und Paul este biserica parohială protopopiată din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.073463,
+                        47.309087
+                  ]
+            },
+            {
+                  "name": "Heilig-Geist-Kirche",
+                  "text": "Heilig-Geist-Kirche este biserica parohială din Telfs-Schlichtling.",
+                  "category": "religious",
+                  "coords": [
+                        11.063854,
+                        47.308293
+                  ]
+            },
+            {
+                  "name": "St. Nikolaus",
+                  "text": "St. Nikolaus este biserica parohială din Oberhofen im Inntal, situată lângă Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.094655,
+                        47.303928
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mariä Himmelfahrt",
+                  "text": "Pfarrkirche Mariä Himmelfahrt este biserica parohială din Pfaffenhofen în Tirol, lângă Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.08285,
+                        47.299119
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "Eyüp-Sultan-Moschee este un lăcaș de cult din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.077405,
+                        47.306334
+                  ]
+            },
+            {
+                  "name": "Hl. Maria",
+                  "text": "Hl. Maria este capela Mariahilf de pe Birkenberg din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.087738,
+                        47.320541
+                  ]
+            },
+            {
+                  "name": "Wiesenkapelle",
+                  "text": "Wiesenkapelle este un lăcaș de cult din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.091684,
+                        47.3105
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Auferstehungskirche este biserica parohială din Telfs-St. Georgen.",
+                  "category": "religious",
+                  "coords": [
+                        11.081122,
+                        47.316598
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Veit",
+                  "text": "Kapelle St. Veit este o biserică filială din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.065773,
+                        47.322812
+                  ]
+            },
+            {
+                  "name": "Georgenkirche",
+                  "text": "Georgenkirche este un lăcaș de cult din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.074672,
+                        47.314089
+                  ]
+            },
+            {
+                  "name": "Kranewitterkapelle",
+                  "text": "Kranewitterkapelle este un lăcaș de cult din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.071662,
+                        47.298193
+                  ]
+            },
+            {
+                  "name": "Ematkapelle",
+                  "text": "Ematkapelle este un lăcaș de cult din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.063725,
+                        47.312749
+                  ]
+            },
+            {
+                  "name": "Kapelle der Schmerzhaften Mutter",
+                  "text": "Kapelle der Schmerzhaften Mutter este un lăcaș de cult din Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.054808,
+                        47.3029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dorfmuseum",
+                  "text": "Dorfmuseum is a museum located in Telfs.",
+                  "category": "museum",
+                  "coords": [
+                        11.095812,
+                        47.30321
+                  ]
+            },
+            {
+                  "name": "Fasnacht- und Heimatmuseum Telfs",
+                  "text": "Fasnacht- und Heimatmuseum Telfs is a museum located in Telfs.",
+                  "category": "museum",
+                  "coords": [
+                        11.073396,
+                        47.306936
+                  ]
+            },
+            {
+                  "name": "Burgruine Hörtenberg",
+                  "text": "Burgruine Hörtenberg is the ruins of a historic castle located in Telfs.",
+                  "category": "castle",
+                  "coords": [
+                        11.079531,
+                        47.294429
+                  ]
+            },
+            {
+                  "name": "Theater Telfs",
+                  "text": "Theater Telfs is a theatre located in Telfs.",
+                  "category": "cultural",
+                  "coords": [
+                        11.066947,
+                        47.303866
+                  ]
+            },
+            {
+                  "name": "Badeanlage Telfs",
+                  "text": "Badeanlage Telfs is a water park located in Telfs.",
+                  "category": "recreational",
+                  "coords": [
+                        11.068772,
+                        47.304129
+                  ]
+            },
+            {
+                  "name": "Moritzenkirche",
+                  "text": "Moritzenkirche is an attraction located in Telfs.",
+                  "category": "landmark",
+                  "coords": [
+                        11.053026,
+                        47.302756
+                  ]
+            },
+            {
+                  "name": "Wallnöfergedenkstein",
+                  "text": "Wallnöfergedenkstein is a monument located in Telfs.",
+                  "category": "historical",
+                  "coords": [
+                        11.098272,
+                        47.294607
+                  ]
+            },
+            {
+                  "name": "Telfs",
+                  "text": "Telfs is the town hall of Telfs.",
+                  "category": "historical",
+                  "coords": [
+                        11.072121,
+                        47.306887
+                  ]
+            },
+            {
+                  "name": "Kreuzkapelle",
+                  "text": "Kreuzkapelle is a place of worship located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.074473,
+                        47.304288
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Peter und Paul",
+                  "text": "Pfarrkirche Peter und Paul is the deanery parish church in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.073463,
+                        47.309087
+                  ]
+            },
+            {
+                  "name": "Heilig-Geist-Kirche",
+                  "text": "Heilig-Geist-Kirche is the parish church of Telfs-Schlichtling.",
+                  "category": "religious",
+                  "coords": [
+                        11.063854,
+                        47.308293
+                  ]
+            },
+            {
+                  "name": "St. Nikolaus",
+                  "text": "St. Nikolaus is the parish church of Oberhofen im Inntal near Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.094655,
+                        47.303928
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche Mariä Himmelfahrt",
+                  "text": "Pfarrkirche Mariä Himmelfahrt is the parish church of Pfaffenhofen in Tyrol near Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.08285,
+                        47.299119
+                  ]
+            },
+            {
+                  "name": "Eyüp-Sultan-Moschee",
+                  "text": "Eyüp-Sultan-Moschee is a place of worship located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.077405,
+                        47.306334
+                  ]
+            },
+            {
+                  "name": "Hl. Maria",
+                  "text": "Hl. Maria is the Mariahilf chapel at Birkenberg in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.087738,
+                        47.320541
+                  ]
+            },
+            {
+                  "name": "Wiesenkapelle",
+                  "text": "Wiesenkapelle is a place of worship located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.091684,
+                        47.3105
+                  ]
+            },
+            {
+                  "name": "Auferstehungskirche",
+                  "text": "Auferstehungskirche is the parish church of Telfs-St. Georgen.",
+                  "category": "religious",
+                  "coords": [
+                        11.081122,
+                        47.316598
+                  ]
+            },
+            {
+                  "name": "Kapelle St. Veit",
+                  "text": "Kapelle St. Veit is a branch church located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.065773,
+                        47.322812
+                  ]
+            },
+            {
+                  "name": "Georgenkirche",
+                  "text": "Georgenkirche is a place of worship located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.074672,
+                        47.314089
+                  ]
+            },
+            {
+                  "name": "Kranewitterkapelle",
+                  "text": "Kranewitterkapelle is a place of worship located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.071662,
+                        47.298193
+                  ]
+            },
+            {
+                  "name": "Ematkapelle",
+                  "text": "Ematkapelle is a place of worship located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.063725,
+                        47.312749
+                  ]
+            },
+            {
+                  "name": "Kapelle der Schmerzhaften Mutter",
+                  "text": "Kapelle der Schmerzhaften Mutter is a place of worship located in Telfs.",
+                  "category": "religious",
+                  "coords": [
+                        11.054808,
+                        47.3029
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AT-7",
     coords: [11.0661, 47.3070],

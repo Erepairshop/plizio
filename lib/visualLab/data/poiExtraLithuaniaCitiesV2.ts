@@ -3,7 +3,1204 @@ import { POI } from './poi';
 export const lithuaniaCitiesV2: POI[] = [
 
   {
-    id: "lithuania-siauliai-cities-v2",
+    id: "lithuania-siauliai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šiaulių dramos teatras",
+                  "text": "Das staatliche Dramentheater in Šiauliai, eines der ältesten in Litauen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315456,
+                        55.932042
+                  ]
+            },
+            {
+                  "name": "Salduvės piliakalnis",
+                  "text": "Ein alter Burgwall am Stadtrand von Šiauliai.",
+                  "category": "historical",
+                  "coords": [
+                        23.359083,
+                        55.929611
+                  ]
+            },
+            {
+                  "name": "Katinų muziejus",
+                  "text": "Ein einzigartiges Museum in Šiauliai, das Katzen in Kunst und Kultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.337262,
+                        55.926983
+                  ]
+            },
+            {
+                  "name": "Fahrradmuseum",
+                  "text": "Ein Fachmuseum zur Geschichte und Entwicklung von Fahrrädern.",
+                  "category": "museum",
+                  "coords": [
+                        23.319857,
+                        55.928362
+                  ]
+            },
+            {
+                  "name": "Šiaulių Aušros muziejus",
+                  "text": "Ein bedeutendes Geschichts- und Kunstmuseum in Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.271738,
+                        55.923959
+                  ]
+            },
+            {
+                  "name": "Museum für Radio und Fernsehen",
+                  "text": "Ein Museum zur Technikgeschichte von Radio und Fernsehen.",
+                  "category": "museum",
+                  "coords": [
+                        23.310952,
+                        55.933943
+                  ]
+            },
+            {
+                  "name": "Šiaulių tardymo izoliatoriaus muziejus",
+                  "text": "Ein Museum im Gebäude des ehemaligen Gefängnisses von Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.32322,
+                        55.927944
+                  ]
+            },
+            {
+                  "name": "Šiaulių sporto muziejus",
+                  "text": "Ein Museum zur Sportgeschichte und zu sportlichen Erfolgen von Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.28257,
+                        55.920331
+                  ]
+            },
+            {
+                  "name": "Šiaulių geležinkelio muziejus",
+                  "text": "Ein Eisenbahnmuseum mit historischen Lokomotiven und Ausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        23.300216,
+                        55.926654
+                  ]
+            },
+            {
+                  "name": "Šiaulių universiteto istorijos muziejus",
+                  "text": "Ein Museum zur Geschichte der Universität Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.31452,
+                        55.928625
+                  ]
+            },
+            {
+                  "name": "Šokolado muziejus",
+                  "text": "Ein Schokoladenmuseum in einer ehemaligen Süßwarenfabrik.",
+                  "category": "museum",
+                  "coords": [
+                        23.311771,
+                        55.929726
+                  ]
+            },
+            {
+                  "name": "Baltų Kelias",
+                  "text": "Ein interaktives Museumszentrum in Šiauliai, das der Geschichte und Kultur der Balten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.312976,
+                        55.932465
+                  ]
+            },
+            {
+                  "name": "Šiaulių estrados teatras",
+                  "text": "Ein Theater in Šiauliai, das für verschiedene Bühnenaufführungen und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        23.311537,
+                        55.928081
+                  ]
+            },
+            {
+                  "name": "Šiaulių Amfiteatras",
+                  "text": "Ein Veranstaltungsort unter freiem Himmel in Šiauliai für kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318055,
+                        55.929214
+                  ]
+            },
+            {
+                  "name": "Šiaulių vasaros estrada",
+                  "text": "Eine Freilichtbühne in Šiauliai, die während der Sommermonate für Konzerte und Feste genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        23.313109,
+                        55.94012
+                  ]
+            },
+            {
+                  "name": "Aušros alėjos rūmai",
+                  "text": "Ein bedeutendes Museumsgebäude in Šiauliai, das Ausstellungen zur Regionalgeschichte beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        23.305817,
+                        55.939076
+                  ]
+            },
+            {
+                  "name": "Angelo muziejus",
+                  "text": "Ein einzigartiges Museum in Šiauliai, das eine große Sammlung von Engelsfiguren ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.315069,
+                        55.935027
+                  ]
+            },
+            {
+                  "name": "Gubernija alaus darykla",
+                  "text": "Ein Museum in einer der ältesten Brauereien Litauens, das die Tradition des Bierbrauens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.320632,
+                        55.949858
+                  ]
+            },
+            {
+                  "name": "Poeto Jovaro namas",
+                  "text": "Das ehemalige Wohnhaus des Dichters Jovaras in Šiauliai, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        23.305512,
+                        55.93208
+                  ]
+            },
+            {
+                  "name": "Chaimo Frenkelio vila",
+                  "text": "Eine prachtvolle Jugendstil-Villa in Šiauliai, die einst dem Industriellen Chaim Frenkel gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        23.328558,
+                        55.925457
+                  ]
+            },
+            {
+                  "name": "7 spalvos",
+                  "text": "Ein lokales Kunstzentrum in Šiauliai, das kreative Projekte und Ausstellungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315939,
+                        55.930256
+                  ]
+            },
+            {
+                  "name": "Akis meno galerija",
+                  "text": "Eine Kunstgalerie in Šiauliai, die Werke zeitgenössischer litauischer Künstler präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        23.307569,
+                        55.930878
+                  ]
+            },
+            {
+                  "name": "Talkšos ekologinis takas",
+                  "text": "Ein Naturlehrpfad am Ufer des Talkša-Sees, der über die lokale Flora und Fauna informiert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32728,
+                        55.930087
+                  ]
+            },
+            {
+                  "name": "Venclauskių namai",
+                  "text": "Das historische Haus der Familie Venclauskiai in Šiauliai, heute ein Teil des Stadtmuseums.",
+                  "category": "historical",
+                  "coords": [
+                        23.315669,
+                        55.927489
+                  ]
+            },
+            {
+                  "name": "ŠU Botanikos sodas",
+                  "text": "Ein botanischer Garten der Universität Šiauliai mit einer vielfältigen Pflanzensammlung.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283526,
+                        55.932553
+                  ]
+            },
+            {
+                  "name": "Laiptų galerija",
+                  "text": "Ein Kulturzentrum und eine Galerie in Šiauliai, bekannt für Ausstellungen und Kammerkonzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        23.310921,
+                        55.940296
+                  ]
+            },
+            {
+                  "name": "Šiaulių dailės galerija",
+                  "text": "Die zentrale Kunstgalerie der Stadt Šiauliai mit wechselnden Ausstellungen zeitgenössischer Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        23.308231,
+                        55.934992
+                  ]
+            },
+            {
+                  "name": "Kathedrale St. Peter und Paul",
+                  "text": "Die markante Kathedrale von Šiauliai mit ihrem hohen weißen Turm ist ein Wahrzeichen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        23.319962,
+                        55.932715
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. Jurgio bažnyčia",
+                  "text": "Eine rote Backsteinkirche in Šiauliai, die für ihre neugotische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.312749,
+                        55.925122
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. apaštalų Petro ir Povilo cerkvė",
+                  "text": "Eine orthodoxe Kirche in Šiauliai, die nach den Aposteln Petrus und Paulus benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.324447,
+                        55.934232
+                  ]
+            },
+            {
+                  "name": "Šiaulių Dievo Motinos Dangun ėmimo sentikių cerkvė",
+                  "text": "Ein Gotteshaus der Altorthodoxen Gemeinde in Šiauliai.",
+                  "category": "religious",
+                  "coords": [
+                        23.32456,
+                        55.956607
+                  ]
+            },
+            {
+                  "name": "Šiaulių jungtinė metodistų bažnyčia",
+                  "text": "Die Kirche der methodistischen Gemeinde in der Stadt Šiauliai.",
+                  "category": "religious",
+                  "coords": [
+                        23.303764,
+                        55.928748
+                  ]
+            },
+            {
+                  "name": "Traukinys",
+                  "text": "Ein ausgestelltes historisches Schienenfahrzeug in Šiauliai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.302265,
+                        55.926312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šiaulių dramos teatras",
+                  "text": "Siauliai állami drámai színháza, Litvánia egyik legrégebbi színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315456,
+                        55.932042
+                  ]
+            },
+            {
+                  "name": "Salduvės piliakalnis",
+                  "text": "Ősi várhely Šiauliai szélén.",
+                  "category": "historical",
+                  "coords": [
+                        23.359083,
+                        55.929611
+                  ]
+            },
+            {
+                  "name": "Katinų muziejus",
+                  "text": "Egyedülálló múzeum Šiauliai-ban, amely a macskáknak van szentelve a művészetben.",
+                  "category": "museum",
+                  "coords": [
+                        23.337262,
+                        55.926983
+                  ]
+            },
+            {
+                  "name": "Dviračių muziejus",
+                  "text": "A kerékpárok történetét és fejlődését bemutató szakmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.319857,
+                        55.928362
+                  ]
+            },
+            {
+                  "name": "Šiaulių Aušros muziejus",
+                  "text": "Jelentős történelmi és művészeti múzeum Šiauliai-ban.",
+                  "category": "museum",
+                  "coords": [
+                        23.271738,
+                        55.923959
+                  ]
+            },
+            {
+                  "name": "Radijo ir televizijos muziejus",
+                  "text": "A rádiózás és televíziózás technikatörténetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.310952,
+                        55.933943
+                  ]
+            },
+            {
+                  "name": "Šiaulių tardymo izoliatoriaus muziejus",
+                  "text": "Múzeum a volt Šiauliai börtön épületében.",
+                  "category": "museum",
+                  "coords": [
+                        23.32322,
+                        55.927944
+                  ]
+            },
+            {
+                  "name": "Šiaulių sporto muziejus",
+                  "text": "Šiauliai sporttörténetét és sikereit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.28257,
+                        55.920331
+                  ]
+            },
+            {
+                  "name": "Šiaulių geležinkelio muziejus",
+                  "text": "Vasúttörténeti múzeum régi mozdonyokkal és berendezésekkel.",
+                  "category": "museum",
+                  "coords": [
+                        23.300216,
+                        55.926654
+                  ]
+            },
+            {
+                  "name": "Šiaulių universiteto istorijos muziejus",
+                  "text": "A Šiauliai Egyetem történetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.31452,
+                        55.928625
+                  ]
+            },
+            {
+                  "name": "Šokolado muziejus",
+                  "text": "Csokoládémúzeum egy egykori édességgyár épületében.",
+                  "category": "museum",
+                  "coords": [
+                        23.311771,
+                        55.929726
+                  ]
+            },
+            {
+                  "name": "Baltų Kelias",
+                  "text": "Interaktív múzeumi központ Šiauliai-ban, amely a balti népek történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.312976,
+                        55.932465
+                  ]
+            },
+            {
+                  "name": "Šiaulių estrados teatras",
+                  "text": "Különféle színpadi előadásoknak és kulturális eseményeknek otthont adó színház Šiauliai-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        23.311537,
+                        55.928081
+                  ]
+            },
+            {
+                  "name": "Šiaulių Amfiteatras",
+                  "text": "Szabadtéri rendezvényhelyszín Šiauliai-ban kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318055,
+                        55.929214
+                  ]
+            },
+            {
+                  "name": "Šiaulių vasaros estrada",
+                  "text": "Šiauliai nyári szabadtéri színpada, amely koncerteknek és fesztiváloknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        23.313109,
+                        55.94012
+                  ]
+            },
+            {
+                  "name": "Aušros alėjos rūmai",
+                  "text": "Jelentős múzeumi épület Šiauliai-ban, amely helytörténeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        23.305817,
+                        55.939076
+                  ]
+            },
+            {
+                  "name": "Angelo muziejus",
+                  "text": "Egyedülálló múzeum Šiauliai-ban, amely angyalfigurák hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.315069,
+                        55.935027
+                  ]
+            },
+            {
+                  "name": "Gubernija alaus darykla",
+                  "text": "Múzeum Litvánia egyik legrégebbi sörfőzdéjében, amely a sörfőzés hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.320632,
+                        55.949858
+                  ]
+            },
+            {
+                  "name": "Poeto Jovaro namas",
+                  "text": "Jovaras költő egykori lakóháza Šiauliai-ban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        23.305512,
+                        55.93208
+                  ]
+            },
+            {
+                  "name": "Chaimo Frenkelio vila",
+                  "text": "Pompás szecessziós villa Šiauliai-ban, amely egykor Chaim Frenkel iparmágnásé volt.",
+                  "category": "historical",
+                  "coords": [
+                        23.328558,
+                        55.925457
+                  ]
+            },
+            {
+                  "name": "7 spalvos",
+                  "text": "Helyi művészeti központ Šiauliai-ban, amely kreatív projekteket és kiállításokat támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315939,
+                        55.930256
+                  ]
+            },
+            {
+                  "name": "Akis meno galerija",
+                  "text": "Művészeti galéria Šiauliai-ban, amely kortárs litván művészek alkotásait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        23.307569,
+                        55.930878
+                  ]
+            },
+            {
+                  "name": "Talkšos ekologinis takas",
+                  "text": "Tanösvény a Talkša-tó partján, amely a helyi növény- és állatvilágot mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32728,
+                        55.930087
+                  ]
+            },
+            {
+                  "name": "Venclauskių namai",
+                  "text": "A Venclauskiai család történelmi háza Šiauliai-ban, ma a városi múzeum része.",
+                  "category": "historical",
+                  "coords": [
+                        23.315669,
+                        55.927489
+                  ]
+            },
+            {
+                  "name": "ŠU Botanikos sodas",
+                  "text": "A Šiauliai Egyetem botanikus kertje változatos növénygyűjteménnyel.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283526,
+                        55.932553
+                  ]
+            },
+            {
+                  "name": "Laiptų galerija",
+                  "text": "Kulturális központ és galéria Šiauliai-ban, amely kiállításairól és kamarakoncertjeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        23.310921,
+                        55.940296
+                  ]
+            },
+            {
+                  "name": "Šiaulių dailės galerija",
+                  "text": "Šiauliai központi művészeti galériája időszaki kortárs művészeti kiállításokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        23.308231,
+                        55.934992
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. apaštalų Petro ir Pauliaus katedra",
+                  "text": "Šiauliai jellegzetes székesegyháza magas fehér tornyával a város egyik fő jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        23.319962,
+                        55.932715
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. Jurgio bažnyčia",
+                  "text": "Vörös téglás templom Šiauliai-ban, amely neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        23.312749,
+                        55.925122
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. apaštalų Petro ir Povilo cerkvė",
+                  "text": "Péter és Pál apostolokról elnevezett ortodox templom Šiauliai-ban.",
+                  "category": "religious",
+                  "coords": [
+                        23.324447,
+                        55.934232
+                  ]
+            },
+            {
+                  "name": "Šiaulių Dievo Motinos Dangun ėmimo sentikių cerkvė",
+                  "text": "Az óhitű ortodox közösség temploma Šiauliai-ban.",
+                  "category": "religious",
+                  "coords": [
+                        23.32456,
+                        55.956607
+                  ]
+            },
+            {
+                  "name": "Šiaulių jungtinė metodistų bažnyčia",
+                  "text": "A metodista közösség temploma Šiauliai városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.303764,
+                        55.928748
+                  ]
+            },
+            {
+                  "name": "Traukinys",
+                  "text": "Kiállított történelmi vasúti jármű Šiauliai-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.302265,
+                        55.926312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šiaulių dramos teatras",
+                  "text": "Teatrul dramatic de stat din Šiauliai, unul dintre cele mai vechi din Lituania.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315456,
+                        55.932042
+                  ]
+            },
+            {
+                  "name": "Salduvės piliakalnis",
+                  "text": "O cetate veche la marginea orașului Šiauliai.",
+                  "category": "historical",
+                  "coords": [
+                        23.359083,
+                        55.929611
+                  ]
+            },
+            {
+                  "name": "Katinų muziejus",
+                  "text": "Un muzeu unic în Šiauliai dedicat pisicilor în artă și cultură.",
+                  "category": "museum",
+                  "coords": [
+                        23.337262,
+                        55.926983
+                  ]
+            },
+            {
+                  "name": "Dviračių muziejus",
+                  "text": "Un muzeu specializat în istoria și dezvoltarea bicicletelor.",
+                  "category": "museum",
+                  "coords": [
+                        23.319857,
+                        55.928362
+                  ]
+            },
+            {
+                  "name": "Šiaulių Aušros muziejus",
+                  "text": "Un important muzeu de istorie și artă din Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.271738,
+                        55.923959
+                  ]
+            },
+            {
+                  "name": "Radijo ir televizijos muziejus",
+                  "text": "Un muzeu dedicat istoriei tehnologiei radio și TV.",
+                  "category": "museum",
+                  "coords": [
+                        23.310952,
+                        55.933943
+                  ]
+            },
+            {
+                  "name": "Šiaulių tardymo izoliatoriaus muziejus",
+                  "text": "Un muzeu situat în fosta închisoare din Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.32322,
+                        55.927944
+                  ]
+            },
+            {
+                  "name": "Šiaulių sporto muziejus",
+                  "text": "Un muzeu care evidențiază istoria sportului din Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.28257,
+                        55.920331
+                  ]
+            },
+            {
+                  "name": "Šiaulių geležinkelio muziejus",
+                  "text": "Un muzeu feroviar cu locomotive și echipamente istorice.",
+                  "category": "museum",
+                  "coords": [
+                        23.300216,
+                        55.926654
+                  ]
+            },
+            {
+                  "name": "Šiaulių universiteto istorijos muziejus",
+                  "text": "Un muzeu care documentează istoria Universității din Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.31452,
+                        55.928625
+                  ]
+            },
+            {
+                  "name": "Šokolado muziejus",
+                  "text": "Un muzeu al ciocolatei situat într-o fostă fabrică de dulciuri.",
+                  "category": "museum",
+                  "coords": [
+                        23.311771,
+                        55.929726
+                  ]
+            },
+            {
+                  "name": "Baltų Kelias",
+                  "text": "Un centru muzeal interactiv din Šiauliai, dedicat istoriei și culturii balților.",
+                  "category": "museum",
+                  "coords": [
+                        23.312976,
+                        55.932465
+                  ]
+            },
+            {
+                  "name": "Šiaulių estrados teatras",
+                  "text": "Un teatru din Šiauliai utilizat pentru diverse spectacole de scenă și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.311537,
+                        55.928081
+                  ]
+            },
+            {
+                  "name": "Šiaulių Amfiteatras",
+                  "text": "Un loc de evenimente în aer liber din Šiauliai pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318055,
+                        55.929214
+                  ]
+            },
+            {
+                  "name": "Šiaulių vasaros estrada",
+                  "text": "O scenă de vară în aer liber din Šiauliai, utilizată pentru concerte și festivaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        23.313109,
+                        55.94012
+                  ]
+            },
+            {
+                  "name": "Aušros alėjos rūmai",
+                  "text": "O clădire muzeală importantă din Šiauliai, care găzduiește expoziții de istorie regională.",
+                  "category": "museum",
+                  "coords": [
+                        23.305817,
+                        55.939076
+                  ]
+            },
+            {
+                  "name": "Angelo muziejus",
+                  "text": "Un muzeu unic din Šiauliai care expune o colecție vastă de figurine reprezentând îngeri.",
+                  "category": "museum",
+                  "coords": [
+                        23.315069,
+                        55.935027
+                  ]
+            },
+            {
+                  "name": "Gubernija alaus darykla",
+                  "text": "Un muzeu situat în una dintre cele mai vechi berării din Lituania, prezentând tradiția fabricării berii.",
+                  "category": "museum",
+                  "coords": [
+                        23.320632,
+                        55.949858
+                  ]
+            },
+            {
+                  "name": "Poeto Jovaro namas",
+                  "text": "Fosta casă a poetului Jovaras din Šiauliai, care astăzi servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        23.305512,
+                        55.93208
+                  ]
+            },
+            {
+                  "name": "Chaimo Frenkelio vila",
+                  "text": "O vilă splendidă în stil Art Nouveau din Šiauliai, care a aparținut industriașului Chaim Frenkel.",
+                  "category": "historical",
+                  "coords": [
+                        23.328558,
+                        55.925457
+                  ]
+            },
+            {
+                  "name": "7 spalvos",
+                  "text": "Un centru de artă local din Šiauliai care promovează proiecte creative și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315939,
+                        55.930256
+                  ]
+            },
+            {
+                  "name": "Akis meno galerija",
+                  "text": "O galerie de artă din Šiauliai care prezintă lucrări ale artiștilor lituanieni contemporani.",
+                  "category": "cultural",
+                  "coords": [
+                        23.307569,
+                        55.930878
+                  ]
+            },
+            {
+                  "name": "Talkšos ekologinis takas",
+                  "text": "Un traseu ecologic pe malul lacului Talkša, oferind informații despre flora și fauna locală.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32728,
+                        55.930087
+                  ]
+            },
+            {
+                  "name": "Venclauskių namai",
+                  "text": "Casa istorică a familiei Venclauskiai din Šiauliai, astăzi parte a muzeului orașului.",
+                  "category": "historical",
+                  "coords": [
+                        23.315669,
+                        55.927489
+                  ]
+            },
+            {
+                  "name": "ŠU Botanikos sodas",
+                  "text": "O grădină botanică a Universității din Šiauliai, cu o colecție diversă de plante.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283526,
+                        55.932553
+                  ]
+            },
+            {
+                  "name": "Laiptų galerija",
+                  "text": "Un centru cultural și galerie din Šiauliai, cunoscut pentru expoziții și concerte de cameră.",
+                  "category": "cultural",
+                  "coords": [
+                        23.310921,
+                        55.940296
+                  ]
+            },
+            {
+                  "name": "Šiaulių dailės galerija",
+                  "text": "Galeria centrală de artă din Šiauliai, cu expoziții temporare de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        23.308231,
+                        55.934992
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. apaštalų Petro ir Pauliaus katedra",
+                  "text": "Catedrala impunătoare din Šiauliai, cu turnul său alb înalt, este un simbol al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        23.319962,
+                        55.932715
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. Jurgio bažnyčia",
+                  "text": "O biserică din cărămidă roșie din Šiauliai, cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        23.312749,
+                        55.925122
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. apaštalų Petro ir Povilo cerkvė",
+                  "text": "O biserică ortodoxă din Šiauliai, numită după Apostolii Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        23.324447,
+                        55.934232
+                  ]
+            },
+            {
+                  "name": "Šiaulių Dievo Motinos Dangun ėmimo sentikių cerkvė",
+                  "text": "O biserică a comunității ortodoxe de rit vechi din Šiauliai.",
+                  "category": "religious",
+                  "coords": [
+                        23.32456,
+                        55.956607
+                  ]
+            },
+            {
+                  "name": "Šiaulių jungtinė metodistų bažnyčia",
+                  "text": "Biserica comunității metodiste din orașul Šiauliai.",
+                  "category": "religious",
+                  "coords": [
+                        23.303764,
+                        55.928748
+                  ]
+            },
+            {
+                  "name": "Traukinys",
+                  "text": "Un vehicul feroviar istoric expus în Šiauliai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.302265,
+                        55.926312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šiaulių dramos teatras",
+                  "text": "The state drama theatre in Šiauliai, one of the oldest in Lithuania.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315456,
+                        55.932042
+                  ]
+            },
+            {
+                  "name": "Salduvės piliakalnis",
+                  "text": "An ancient hillfort located on the outskirts of Šiauliai.",
+                  "category": "historical",
+                  "coords": [
+                        23.359083,
+                        55.929611
+                  ]
+            },
+            {
+                  "name": "Cat Museum",
+                  "text": "A unique museum in Šiauliai dedicated to cats in art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        23.337262,
+                        55.926983
+                  ]
+            },
+            {
+                  "name": "Dviračių muziejus",
+                  "text": "A specialized museum showcasing the history and development of bicycles.",
+                  "category": "museum",
+                  "coords": [
+                        23.319857,
+                        55.928362
+                  ]
+            },
+            {
+                  "name": "Šiaulių Aušros muziejus",
+                  "text": "A major history and art museum in Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.271738,
+                        55.923959
+                  ]
+            },
+            {
+                  "name": "Radijo ir televizijos muziejus",
+                  "text": "A museum dedicated to the history of radio and television technology.",
+                  "category": "museum",
+                  "coords": [
+                        23.310952,
+                        55.933943
+                  ]
+            },
+            {
+                  "name": "Šiaulių tardymo izoliatoriaus muziejus",
+                  "text": "A museum located in the former Šiauliai prison.",
+                  "category": "museum",
+                  "coords": [
+                        23.32322,
+                        55.927944
+                  ]
+            },
+            {
+                  "name": "Šiaulių sporto muziejus",
+                  "text": "A museum highlighting the sports history and achievements of Šiauliai.",
+                  "category": "museum",
+                  "coords": [
+                        23.28257,
+                        55.920331
+                  ]
+            },
+            {
+                  "name": "Šiaulių geležinkelio muziejus",
+                  "text": "A railway museum featuring historical locomotives and equipment.",
+                  "category": "museum",
+                  "coords": [
+                        23.300216,
+                        55.926654
+                  ]
+            },
+            {
+                  "name": "Šiaulių universiteto istorijos muziejus",
+                  "text": "A museum documenting the history of Šiauliai University.",
+                  "category": "museum",
+                  "coords": [
+                        23.31452,
+                        55.928625
+                  ]
+            },
+            {
+                  "name": "Šokolado muziejus",
+                  "text": "A chocolate museum located in a former confectionery factory.",
+                  "category": "museum",
+                  "coords": [
+                        23.311771,
+                        55.929726
+                  ]
+            },
+            {
+                  "name": "Baltų Kelias",
+                  "text": "An interactive museum center in Šiauliai dedicated to the history and culture of the Balts.",
+                  "category": "museum",
+                  "coords": [
+                        23.312976,
+                        55.932465
+                  ]
+            },
+            {
+                  "name": "Šiaulių estrados teatras",
+                  "text": "A theatre in Šiauliai used for various stage performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        23.311537,
+                        55.928081
+                  ]
+            },
+            {
+                  "name": "Šiaulių Amfiteatras",
+                  "text": "An open-air venue in Šiauliai for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.318055,
+                        55.929214
+                  ]
+            },
+            {
+                  "name": "Šiaulių vasaros estrada",
+                  "text": "A summer open-air stage in Šiauliai used for concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        23.313109,
+                        55.94012
+                  ]
+            },
+            {
+                  "name": "Aušros alėjos rūmai",
+                  "text": "A prominent museum building in Šiauliai housing regional history exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        23.305817,
+                        55.939076
+                  ]
+            },
+            {
+                  "name": "Angelo muziejus",
+                  "text": "A unique museum in Šiauliai exhibiting a vast collection of angel figurines.",
+                  "category": "museum",
+                  "coords": [
+                        23.315069,
+                        55.935027
+                  ]
+            },
+            {
+                  "name": "Gubernija alaus darykla",
+                  "text": "A museum located in one of Lithuania's oldest breweries, showing the tradition of beer brewing.",
+                  "category": "museum",
+                  "coords": [
+                        23.320632,
+                        55.949858
+                  ]
+            },
+            {
+                  "name": "Poeto Jovaro namas",
+                  "text": "The former home of the poet Jovaras in Šiauliai, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.305512,
+                        55.93208
+                  ]
+            },
+            {
+                  "name": "Chaimas Frenkelis Villa",
+                  "text": "A splendid Art Nouveau villa in Šiauliai that once belonged to the industrialist Chaim Frenkel.",
+                  "category": "historical",
+                  "coords": [
+                        23.328558,
+                        55.925457
+                  ]
+            },
+            {
+                  "name": "7 spalvos",
+                  "text": "A local arts center in Šiauliai promoting creative projects and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        23.315939,
+                        55.930256
+                  ]
+            },
+            {
+                  "name": "Akis meno galerija",
+                  "text": "An art gallery in Šiauliai presenting works by contemporary Lithuanian artists.",
+                  "category": "cultural",
+                  "coords": [
+                        23.307569,
+                        55.930878
+                  ]
+            },
+            {
+                  "name": "Talkšos ekologinis takas",
+                  "text": "An ecological trail on the shores of Lake Talkša, providing info about local flora and fauna.",
+                  "category": "landmark",
+                  "coords": [
+                        23.32728,
+                        55.930087
+                  ]
+            },
+            {
+                  "name": "Venclauskių namai",
+                  "text": "The historical home of the Venclauskiai family in Šiauliai, now part of the city museum.",
+                  "category": "historical",
+                  "coords": [
+                        23.315669,
+                        55.927489
+                  ]
+            },
+            {
+                  "name": "Šiauliai University Botanical Garden",
+                  "text": "A botanical garden of Šiauliai University featuring a diverse collection of plants.",
+                  "category": "landmark",
+                  "coords": [
+                        23.283526,
+                        55.932553
+                  ]
+            },
+            {
+                  "name": "Laiptų galerija",
+                  "text": "A cultural center and gallery in Šiauliai known for exhibitions and chamber concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        23.310921,
+                        55.940296
+                  ]
+            },
+            {
+                  "name": "Šiaulių dailės galerija",
+                  "text": "The main art gallery of Šiauliai city, featuring rotating contemporary art exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        23.308231,
+                        55.934992
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. apaštalų Petro ir Pauliaus katedra",
+                  "text": "The striking cathedral of Šiauliai with its tall white tower is a major city landmark.",
+                  "category": "religious",
+                  "coords": [
+                        23.319962,
+                        55.932715
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. Jurgio bažnyčia",
+                  "text": "A red brick church in Šiauliai known for its Neo-Gothic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.312749,
+                        55.925122
+                  ]
+            },
+            {
+                  "name": "Šiaulių Šv. apaštalų Petro ir Povilo cerkvė",
+                  "text": "An Orthodox church in Šiauliai named after the Apostles Peter and Paul.",
+                  "category": "religious",
+                  "coords": [
+                        23.324447,
+                        55.934232
+                  ]
+            },
+            {
+                  "name": "Šiaulių Dievo Motinos Dangun ėmimo sentikių cerkvė",
+                  "text": "A place of worship for the Old Believer community in Šiauliai.",
+                  "category": "religious",
+                  "coords": [
+                        23.32456,
+                        55.956607
+                  ]
+            },
+            {
+                  "name": "Šiaulių jungtinė metodistų bažnyčia",
+                  "text": "The church of the Methodist community in the city of Šiauliai.",
+                  "category": "religious",
+                  "coords": [
+                        23.303764,
+                        55.928748
+                  ]
+            },
+            {
+                  "name": "Traukinys",
+                  "text": "An exhibited historical rail vehicle in Šiauliai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.302265,
+                        55.926312
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Šiauliai", hu: "Šiauliai", ro: "Šiauliai", en: "Šiauliai"},
@@ -49,7 +1246,808 @@ imageHint: "Siauliai city square and cathedral",
     },
     image: "/poi-images/lithuania-siauliai-cities-v2.webp",
 },  {
-    id: "lithuania-panevezys-cities-v2",
+    id: "lithuania-panevezys-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Juozo Miltinio dramos teatras",
+                  "text": "Renommiertes Dramentheater in Panevėžys, benannt nach dem Regisseur Juozas Miltinis.",
+                  "category": "cultural",
+                  "coords": [
+                        24.364188,
+                        55.72898
+                  ]
+            },
+            {
+                  "name": "Menas",
+                  "text": "Professionelles Theater in Panevėžys, bekannt für seine zeitgenössischen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.358781,
+                        55.729634
+                  ]
+            },
+            {
+                  "name": "Theatre of music",
+                  "text": "Kulturstätte in Panevėžys für musikalische und theatralische Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.357144,
+                        55.725954
+                  ]
+            },
+            {
+                  "name": "Pasipriešinimo sovietinei okupacijai ir Sąjudžio muziejus",
+                  "text": "Museum in Panevėžys, das den Widerstand gegen die sowjetische Besatzung dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.359737,
+                        55.730087
+                  ]
+            },
+            {
+                  "name": "Seniausias Panevėžio pastatas",
+                  "text": "Das älteste Gebäude in Panevėžys, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        24.360871,
+                        55.732157
+                  ]
+            },
+            {
+                  "name": "Medicinos muziejus",
+                  "text": "Museum in Panevėžys, das der Geschichte der Medizin gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.366541,
+                        55.733436
+                  ]
+            },
+            {
+                  "name": "Mato Grigonio literatūrinis muziejus",
+                  "text": "Literaturmuseum in Panevėžys, gewidmet dem Schriftsteller Matas Grigonis.",
+                  "category": "museum",
+                  "coords": [
+                        24.383146,
+                        55.752751
+                  ]
+            },
+            {
+                  "name": "A. G. Audickų dviračių kolekcija",
+                  "text": "Museum mit einer privaten Fahrradsammlung in Panevėžys.",
+                  "category": "museum",
+                  "coords": [
+                        24.377084,
+                        55.720342
+                  ]
+            },
+            {
+                  "name": "Panevėžio Kristaus Karaliaus katedra",
+                  "text": "Die katholische Hauptkathedrale von Panevėžys, erbaut im Neobarock-Stil.",
+                  "category": "landmark",
+                  "coords": [
+                        24.356417,
+                        55.722826
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Senvagės ežerą",
+                  "text": "Aussichtspunkt mit Blick auf den Senvagė-Teich im Zentrum von Panevėžys.",
+                  "category": "natural",
+                  "coords": [
+                        24.361409,
+                        55.730701
+                  ]
+            },
+            {
+                  "name": "Aukštaitijos siaurasis geležinkelis",
+                  "text": "Historische Schmalspurbahn, die Touristenfahrten ab Panevėžys anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.35534,
+                        55.745785
+                  ]
+            },
+            {
+                  "name": "Nevėžio regykla",
+                  "text": "Beobachtungspunkt mit Blick auf den Fluss Nevėžis in Panevėžys.",
+                  "category": "natural",
+                  "coords": [
+                        24.327539,
+                        55.737565
+                  ]
+            },
+            {
+                  "name": "Panevėžio miesto dailės galerija",
+                  "text": "Kunstgalerie in Panevėžys mit zeitgenössischer Keramik und bildender Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        24.359863,
+                        55.728044
+                  ]
+            },
+            {
+                  "name": "Panevėžio vėjo malūnas",
+                  "text": "Historische Holzwindmühle in der Stadt Panevėžys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.369975,
+                        55.715003
+                  ]
+            },
+            {
+                  "name": "Vėjo malūnas",
+                  "text": "Traditionelle Windmühle, die als Wahrzeichen in Panevėžys erhalten blieb.",
+                  "category": "landmark",
+                  "coords": [
+                        24.368724,
+                        55.715975
+                  ]
+            },
+            {
+                  "name": "Panevėžio Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "Neoklassizistische Backsteinkirche in Panevėžys, gewidmet den Heiligen Peter und Paul.",
+                  "category": "religious",
+                  "coords": [
+                        24.369392,
+                        55.732274
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Trejybės bažnyčia",
+                  "text": "Historische Dreifaltigkeitskirche in Panevėžys mit einer Mischung aus Baustilen.",
+                  "category": "religious",
+                  "coords": [
+                        24.3582,
+                        55.726562
+                  ]
+            },
+            {
+                  "name": "Panevėžio Viešpaties Prisikėlimo cerkvė",
+                  "text": "Orthodoxe Kirche in Panevėžys, gewidmet der Auferstehung des Herrn.",
+                  "category": "religious",
+                  "coords": [
+                        24.354862,
+                        55.725854
+                  ]
+            },
+            {
+                  "name": "Panevėžio sentikių cerkvė",
+                  "text": "Gebetshaus für die Gemeinde der Altgläubigen in Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.354409,
+                        55.732045
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Panevėžys",
+                  "text": "Historische evangelisch-lutherische Kirche für die Gemeinde in Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.371908,
+                        55.728328
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Mergelės Marijos Nekaltojo Prasidėjimo koplyčia",
+                  "text": "Katholische Kapelle in Panevėžys, gewidmet der Unbefleckten Empfängnis.",
+                  "category": "religious",
+                  "coords": [
+                        24.361,
+                        55.739748
+                  ]
+            },
+            {
+                  "name": "Kapelle des evangelisch-lutherischen Friedhofs Panevėžys",
+                  "text": "Friedhofskapelle der evangelisch-lutherischen Gemeinde in Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.371874,
+                        55.733466
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Juozo Miltinio dramos teatras",
+                  "text": "Híres drámai színház Panevėžysben, Juozas Miltinis rendezőről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        24.364188,
+                        55.72898
+                  ]
+            },
+            {
+                  "name": "Menas",
+                  "text": "Panevėžysi professzionális színház, amely kortárs előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        24.358781,
+                        55.729634
+                  ]
+            },
+            {
+                  "name": "Theatre of music",
+                  "text": "Kulturális helyszín Panevėžysben, amely zenei és színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        24.357144,
+                        55.725954
+                  ]
+            },
+            {
+                  "name": "Pasipriešinimo sovietinei okupacijai ir Sąjudžio muziejus",
+                  "text": "A szovjet megszállás elleni ellenállást dokumentáló múzeum Panevėžysben.",
+                  "category": "museum",
+                  "coords": [
+                        24.359737,
+                        55.730087
+                  ]
+            },
+            {
+                  "name": "Seniausias Panevėžio pastatas",
+                  "text": "Panevėžys legrégebbi épülete, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        24.360871,
+                        55.732157
+                  ]
+            },
+            {
+                  "name": "Medicinos muziejus",
+                  "text": "Az orvostudomány történetének szentelt múzeum Panevėžysben.",
+                  "category": "museum",
+                  "coords": [
+                        24.366541,
+                        55.733436
+                  ]
+            },
+            {
+                  "name": "Mato Grigonio literatūrinis muziejus",
+                  "text": "Matas Grigonis írónak szentelt irodalmi múzeum Panevėžysben.",
+                  "category": "museum",
+                  "coords": [
+                        24.383146,
+                        55.752751
+                  ]
+            },
+            {
+                  "name": "A. G. Audickų dviračių kolekcija",
+                  "text": "Magán kerékpárgyűjteményt bemutató múzeum Panevėžysben.",
+                  "category": "museum",
+                  "coords": [
+                        24.377084,
+                        55.720342
+                  ]
+            },
+            {
+                  "name": "Panevėžio Kristaus Karaliaus katedra",
+                  "text": "Panevėžys fő katolikus székesegyháza, neobarokk stílusban épült.",
+                  "category": "landmark",
+                  "coords": [
+                        24.356417,
+                        55.722826
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Senvagės ežerą",
+                  "text": "Kilátóhely a Senvagė-tóra Panevėžys központjában.",
+                  "category": "natural",
+                  "coords": [
+                        24.361409,
+                        55.730701
+                  ]
+            },
+            {
+                  "name": "Aukštaitijos siaurasis geležinkelis",
+                  "text": "Történelmi keskeny nyomtávú vasút, amely turistaútvonalakat kínál Panevėžysből.",
+                  "category": "landmark",
+                  "coords": [
+                        24.35534,
+                        55.745785
+                  ]
+            },
+            {
+                  "name": "Nevėžio regykla",
+                  "text": "Kilátópont a Nevėžis-folyóra Panevėžysben.",
+                  "category": "natural",
+                  "coords": [
+                        24.327539,
+                        55.737565
+                  ]
+            },
+            {
+                  "name": "Panevėžio miesto dailės galerija",
+                  "text": "Panevėžysi művészeti galéria kortárs kerámiákkal és képzőművészeti alkotásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        24.359863,
+                        55.728044
+                  ]
+            },
+            {
+                  "name": "Panevėžio vėjo malūnas",
+                  "text": "Történelmi fafalú szélmalom Panevėžys városában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.369975,
+                        55.715003
+                  ]
+            },
+            {
+                  "name": "Vėjo malūnas",
+                  "text": "Hagyományos szélmalom, amely nevezetességként maradt fenn Panevėžysben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.368724,
+                        55.715975
+                  ]
+            },
+            {
+                  "name": "Panevėžio Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "Neoklasszicista téglatemplom Panevėžysben, Szent Péternek és Szent Pálnak szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        24.369392,
+                        55.732274
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Trejybės bažnyčia",
+                  "text": "Történelmi Szentháromság-templom Panevėžysben, építészeti stílusok keveredésével.",
+                  "category": "religious",
+                  "coords": [
+                        24.3582,
+                        55.726562
+                  ]
+            },
+            {
+                  "name": "Panevėžio Viešpaties Prisikėlimo cerkvė",
+                  "text": "Az Úr Feltámadásának szentelt ortodox templom Panevėžysben.",
+                  "category": "religious",
+                  "coords": [
+                        24.354862,
+                        55.725854
+                  ]
+            },
+            {
+                  "name": "Panevėžio sentikių cerkvė",
+                  "text": "Az óhitű közösség imaháza Panevėžysben.",
+                  "category": "religious",
+                  "coords": [
+                        24.354409,
+                        55.732045
+                  ]
+            },
+            {
+                  "name": "Evangelikų liuteronų bažnyčia",
+                  "text": "Történelmi evangélikus templom Panevėžysben.",
+                  "category": "religious",
+                  "coords": [
+                        24.371908,
+                        55.728328
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Mergelės Marijos Nekaltojo Prasidėjimo koplyčia",
+                  "text": "Az Szeplőtelen Fogantatásnak szentelt katolikus kápolna Panevėžysben.",
+                  "category": "religious",
+                  "coords": [
+                        24.361,
+                        55.739748
+                  ]
+            },
+            {
+                  "name": "Panevėžio evangelikų liuteronų kapinių koplyčia",
+                  "text": "A panevėžysi evangélikus közösség temetői kápolnája.",
+                  "category": "religious",
+                  "coords": [
+                        24.371874,
+                        55.733466
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Juozo Miltinio dramos teatras",
+                  "text": "Renumit teatru dramatic din Panevėžys, numit după regizorul Juozas Miltinis.",
+                  "category": "cultural",
+                  "coords": [
+                        24.364188,
+                        55.72898
+                  ]
+            },
+            {
+                  "name": "Menas",
+                  "text": "Teatru profesional din Panevėžys, cunoscut pentru spectacolele sale contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        24.358781,
+                        55.729634
+                  ]
+            },
+            {
+                  "name": "Theatre of music",
+                  "text": "Locație culturală din Panevėžys care găzduiește producții muzicale și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        24.357144,
+                        55.725954
+                  ]
+            },
+            {
+                  "name": "Pasipriešinimo sovietinei okupacijai ir Sąjudžio muziejus",
+                  "text": "Muzeu din Panevėžys care documentează rezistența împotriva ocupației sovietice.",
+                  "category": "museum",
+                  "coords": [
+                        24.359737,
+                        55.730087
+                  ]
+            },
+            {
+                  "name": "Seniausias Panevėžio pastatas",
+                  "text": "Cea mai veche clădire din Panevėžys, care servește acum ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        24.360871,
+                        55.732157
+                  ]
+            },
+            {
+                  "name": "Medicinos muziejus",
+                  "text": "Muzeu din Panevėžys dedicat istoriei medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        24.366541,
+                        55.733436
+                  ]
+            },
+            {
+                  "name": "Mato Grigonio literatūrinis muziejus",
+                  "text": "Muzeu literar din Panevėžys dedicat scriitorului Matas Grigonis.",
+                  "category": "museum",
+                  "coords": [
+                        24.383146,
+                        55.752751
+                  ]
+            },
+            {
+                  "name": "A. G. Audickų dviračių kolekcija",
+                  "text": "Muzeu cu o colecție privată de biciclete situat în Panevėžys.",
+                  "category": "museum",
+                  "coords": [
+                        24.377084,
+                        55.720342
+                  ]
+            },
+            {
+                  "name": "Panevėžio Kristaus Karaliaus katedra",
+                  "text": "Principala catedrală catolică din Panevėžys, construită în stil neobaroc.",
+                  "category": "landmark",
+                  "coords": [
+                        24.356417,
+                        55.722826
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Senvagės ežerą",
+                  "text": "Punct de belvedere cu vedere la iazul Senvagė din centrul orașului Panevėžys.",
+                  "category": "natural",
+                  "coords": [
+                        24.361409,
+                        55.730701
+                  ]
+            },
+            {
+                  "name": "Aukštaitijos siaurasis geležinkelis",
+                  "text": "Cale ferată istorică cu ecartament îngust care oferă excursii turistice din Panevėžys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.35534,
+                        55.745785
+                  ]
+            },
+            {
+                  "name": "Nevėžio regykla",
+                  "text": "Punct de observare cu vedere la râul Nevėžis în Panevėžys.",
+                  "category": "natural",
+                  "coords": [
+                        24.327539,
+                        55.737565
+                  ]
+            },
+            {
+                  "name": "Panevėžio miesto dailės galerija",
+                  "text": "Galerie de artă din Panevėžys, cu ceramică contemporană și arte vizuale.",
+                  "category": "cultural",
+                  "coords": [
+                        24.359863,
+                        55.728044
+                  ]
+            },
+            {
+                  "name": "Panevėžio vėjo malūnas",
+                  "text": "Moară de vânt istorică din lemn situată în orașul Panevėžys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.369975,
+                        55.715003
+                  ]
+            },
+            {
+                  "name": "Vėjo malūnas",
+                  "text": "Moară de vânt tradițională păstrată ca punct de reper în Panevėžys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.368724,
+                        55.715975
+                  ]
+            },
+            {
+                  "name": "Panevėžio Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "Biserică neoclasică din cărămidă în Panevėžys, dedicată Sfinților Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        24.369392,
+                        55.732274
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Trejybės bažnyčia",
+                  "text": "Biserica istorică Sfânta Treime din Panevėžys, cu un amestec de stiluri arhitecturale.",
+                  "category": "religious",
+                  "coords": [
+                        24.3582,
+                        55.726562
+                  ]
+            },
+            {
+                  "name": "Panevėžio Viešpaties Prisikėlimo cerkvė",
+                  "text": "Biserică ortodoxă din Panevėžys dedicată Învierii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        24.354862,
+                        55.725854
+                  ]
+            },
+            {
+                  "name": "Panevėžio sentikių cerkvė",
+                  "text": "Lăcaș de cult pentru comunitatea de rit vechi din Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.354409,
+                        55.732045
+                  ]
+            },
+            {
+                  "name": "Evangelikų liuteronų bažnyčia",
+                  "text": "Biserică evanghelică luterană istorică ce deservește comunitatea locală din Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.371908,
+                        55.728328
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Mergelės Marijos Nekaltojo Prasidėjimo koplyčia",
+                  "text": "Capelă catolică din Panevėžys dedicată Imaculatei Concepții.",
+                  "category": "religious",
+                  "coords": [
+                        24.361,
+                        55.739748
+                  ]
+            },
+            {
+                  "name": "Panevėžio evangelikų liuteronų kapinių koplyčia",
+                  "text": "Capelă de cimitir aparținând comunității evanghelice luterane din Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.371874,
+                        55.733466
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Juozo Miltinio dramos teatras",
+                  "text": "Renowned drama theatre in Panevėžys named after director Juozas Miltinis.",
+                  "category": "cultural",
+                  "coords": [
+                        24.364188,
+                        55.72898
+                  ]
+            },
+            {
+                  "name": "Menas",
+                  "text": "Professional theatre in Panevėžys known for its contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        24.358781,
+                        55.729634
+                  ]
+            },
+            {
+                  "name": "Theatre of music",
+                  "text": "Cultural venue in Panevėžys hosting musical and theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        24.357144,
+                        55.725954
+                  ]
+            },
+            {
+                  "name": "Pasipriešinimo sovietinei okupacijai ir Sąjudžio muziejus",
+                  "text": "Museum in Panevėžys documenting resistance against Soviet occupation.",
+                  "category": "museum",
+                  "coords": [
+                        24.359737,
+                        55.730087
+                  ]
+            },
+            {
+                  "name": "Seniausias Panevėžio pastatas",
+                  "text": "The oldest building in Panevėžys, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        24.360871,
+                        55.732157
+                  ]
+            },
+            {
+                  "name": "Medicinos muziejus",
+                  "text": "Museum in Panevėžys dedicated to the history of medicine.",
+                  "category": "museum",
+                  "coords": [
+                        24.366541,
+                        55.733436
+                  ]
+            },
+            {
+                  "name": "Mato Grigonio literatūrinis muziejus",
+                  "text": "Literary museum in Panevėžys dedicated to writer Matas Grigonis.",
+                  "category": "museum",
+                  "coords": [
+                        24.383146,
+                        55.752751
+                  ]
+            },
+            {
+                  "name": "A. G. Audickų dviračių kolekcija",
+                  "text": "Private bicycle collection museum located in Panevėžys.",
+                  "category": "museum",
+                  "coords": [
+                        24.377084,
+                        55.720342
+                  ]
+            },
+            {
+                  "name": "Panevėžio Kristaus Karaliaus katedra",
+                  "text": "The main Catholic cathedral of Panevėžys, built in Neo-Baroque style.",
+                  "category": "landmark",
+                  "coords": [
+                        24.356417,
+                        55.722826
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Senvagės ežerą",
+                  "text": "Scenic viewpoint overlooking the Senvagė pond in central Panevėžys.",
+                  "category": "natural",
+                  "coords": [
+                        24.361409,
+                        55.730701
+                  ]
+            },
+            {
+                  "name": "Aukštaitija narrow gauge railway",
+                  "text": "Historic narrow-gauge railway offering tourist trips from Panevėžys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.35534,
+                        55.745785
+                  ]
+            },
+            {
+                  "name": "Nevėžio regykla",
+                  "text": "Observation point with a view of the Nevėžis River in Panevėžys.",
+                  "category": "natural",
+                  "coords": [
+                        24.327539,
+                        55.737565
+                  ]
+            },
+            {
+                  "name": "Panevėžio miesto dailės galerija",
+                  "text": "Art gallery in Panevėžys featuring contemporary ceramics and visual arts.",
+                  "category": "cultural",
+                  "coords": [
+                        24.359863,
+                        55.728044
+                  ]
+            },
+            {
+                  "name": "Panevėžio vėjo malūnas",
+                  "text": "Historic wooden windmill located in the city of Panevėžys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.369975,
+                        55.715003
+                  ]
+            },
+            {
+                  "name": "Vėjo malūnas",
+                  "text": "Traditional windmill preserved as a landmark in Panevėžys.",
+                  "category": "landmark",
+                  "coords": [
+                        24.368724,
+                        55.715975
+                  ]
+            },
+            {
+                  "name": "Panevėžio Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "Neoclassical brick church in Panevėžys dedicated to St. Peter and St. Paul.",
+                  "category": "religious",
+                  "coords": [
+                        24.369392,
+                        55.732274
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Trejybės bažnyčia",
+                  "text": "Historic Holy Trinity Church in Panevėžys, featuring a blend of architectural styles.",
+                  "category": "religious",
+                  "coords": [
+                        24.3582,
+                        55.726562
+                  ]
+            },
+            {
+                  "name": "Panevėžio Viešpaties Prisikėlimo cerkvė",
+                  "text": "Orthodox church in Panevėžys dedicated to the Resurrection of the Lord.",
+                  "category": "religious",
+                  "coords": [
+                        24.354862,
+                        55.725854
+                  ]
+            },
+            {
+                  "name": "Panevėžio sentikių cerkvė",
+                  "text": "Place of worship for the Old Believer community in Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.354409,
+                        55.732045
+                  ]
+            },
+            {
+                  "name": "Evangelical Lutheran Church, Panevėžys",
+                  "text": "Historic Evangelical Lutheran church serving the local community in Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.371908,
+                        55.728328
+                  ]
+            },
+            {
+                  "name": "Panevėžio Švč. Mergelės Marijos Nekaltojo Prasidėjimo koplyčia",
+                  "text": "Catholic chapel in Panevėžys dedicated to the Immaculate Conception.",
+                  "category": "religious",
+                  "coords": [
+                        24.361,
+                        55.739748
+                  ]
+            },
+            {
+                  "name": "Panevėžio evangelikų liuteronų kapinių koplyčia",
+                  "text": "Cemetery chapel belonging to the Evangelical Lutheran community in Panevėžys.",
+                  "category": "religious",
+                  "coords": [
+                        24.371874,
+                        55.733466
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Panevėžys", hu: "Panevėžys", ro: "Panevėžys", en: "Panevėžys"},
@@ -95,7 +2093,664 @@ imageHint: "Panevezys city park and river",
     },
     image: "/poi-images/lithuania-panevezys-cities-v2.webp",
 },  {
-    id: "lithuania-alytus-cities-v2",
+    id: "lithuania-alytus-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Alytaus piliakalnis",
+                  "text": "Ein historischer Burgberg in Alytus, der strategisch über dem Fluss Memel liegt.",
+                  "category": "historical",
+                  "coords": [
+                        24.08,
+                        54.396611
+                  ]
+            },
+            {
+                  "name": "Alytaus kapinynas",
+                  "text": "Ein archäologischer Fundort und ehemaliges Gräberfeld in Alytus.",
+                  "category": "historical",
+                  "coords": [
+                        24.073507,
+                        54.398746
+                  ]
+            },
+            {
+                  "name": "Alytaus miesto teatras",
+                  "text": "Das Stadttheater von Alytus, ein Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        24.047213,
+                        54.396497
+                  ]
+            },
+            {
+                  "name": "Archeologinė ekspozicija Kai sieloms neliko medžių",
+                  "text": "Eine archäologische Ausstellung über die Geschichte der Region Alytus.",
+                  "category": "museum",
+                  "coords": [
+                        24.06604,
+                        54.403302
+                  ]
+            },
+            {
+                  "name": "Anzelmo Matučio memorialinis muziejus",
+                  "text": "Ein Gedenkmuseum für den litauischen Dichter Anzelmas Matutis.",
+                  "category": "museum",
+                  "coords": [
+                        24.051842,
+                        54.3976
+                  ]
+            },
+            {
+                  "name": "Alytaus kraštotyros muziejus",
+                  "text": "Ein Heimatmuseum, das die lokale Kultur und Geschichte von Alytus präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.024033,
+                        54.414209
+                  ]
+            },
+            {
+                  "name": "S. Pigagos muziejus",
+                  "text": "Ein kleines lokales Museum, das persönlichen Sammlungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.02161,
+                        54.389619
+                  ]
+            },
+            {
+                  "name": "Mūsų tautos istorijos atminties muziejus",
+                  "text": "Ein Museum, das sich der Bewahrung der nationalen Geschichte Litauens widmet.",
+                  "category": "museum",
+                  "coords": [
+                        24.053857,
+                        54.381098
+                  ]
+            },
+            {
+                  "name": "Antano Jonyno memorialinis muziejus",
+                  "text": "Das Gedenkmuseum für den Schriftsteller Antanas Jonynas in Alytus.",
+                  "category": "museum",
+                  "coords": [
+                        24.06173,
+                        54.386726
+                  ]
+            },
+            {
+                  "name": "Voveryčių parkelis",
+                  "text": "Ein kleiner Park in Alytus, in dem Eichhörnchen beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024485,
+                        54.405639
+                  ]
+            },
+            {
+                  "name": "Baltosios rožės tiltas",
+                  "text": "Die höchste Fußgängerbrücke Litauens, die weite Ausblicke auf die Memel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.081317,
+                        54.39323
+                  ]
+            },
+            {
+                  "name": "Sveikatos tako apžvalgos aikštelė",
+                  "text": "Ein Aussichtspunkt entlang des Gesundheitspfads in Alytus.",
+                  "category": "natural",
+                  "coords": [
+                        24.079792,
+                        54.392488
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Angelų Sargų bažnyčia",
+                  "text": "Die Kirche der Schutzengel, ein markantes religiöses Gebäude in Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.05088,
+                        54.398843
+                  ]
+            },
+            {
+                  "name": "Alytaus Švč. M. Marijos Krikščionių Pagalbos bažnyčia",
+                  "text": "Die Kirche Maria Hilfe der Christen, ein modernes Gotteshaus in Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.010779,
+                        54.39991
+                  ]
+            },
+            {
+                  "name": "St.-Kasimir-Kirche",
+                  "text": "Die St.-Kasimir-Kirche in Alytus, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        24.055191,
+                        54.38376
+                  ]
+            },
+            {
+                  "name": "Lietuvos tūkstantmečio tiltas",
+                  "text": "Eine bedeutende moderne Brücke, die an das Millennium Litauens erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.039957,
+                        54.421452
+                  ]
+            },
+            {
+                  "name": "A. Juozapavičiaus tiltas",
+                  "text": "Eine historische Brücke über die Memel, benannt nach Antanas Juozapavičius.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054767,
+                        54.401385
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Liudviko bažnyčia",
+                  "text": "Die St.-Ludwig-Kirche, eines der ältesten religiösen Gebäude in Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.057853,
+                        54.404612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alytaus piliakalnis",
+                  "text": "Történelmi várhegy Alytusban, stratégiai helyen a Nyeman folyó felett.",
+                  "category": "historical",
+                  "coords": [
+                        24.08,
+                        54.396611
+                  ]
+            },
+            {
+                  "name": "Alytaus kapinynas",
+                  "text": "Régészeti lelőhely és egykori temetkezési hely Alytusban.",
+                  "category": "historical",
+                  "coords": [
+                        24.073507,
+                        54.398746
+                  ]
+            },
+            {
+                  "name": "Alytaus miesto teatras",
+                  "text": "Alytusi Városi Színház, az előadóművészetek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        24.047213,
+                        54.396497
+                  ]
+            },
+            {
+                  "name": "Archeologinė ekspozicija Kai sieloms neliko medžių",
+                  "text": "Régészeti kiállítás Alytus régiójának történelméről.",
+                  "category": "museum",
+                  "coords": [
+                        24.06604,
+                        54.403302
+                  ]
+            },
+            {
+                  "name": "Anzelmo Matučio memorialinis muziejus",
+                  "text": "Anzelmas Matutis litván költő emlékmúzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        24.051842,
+                        54.3976
+                  ]
+            },
+            {
+                  "name": "Alytaus kraštotyros muziejus",
+                  "text": "Helytörténeti múzeum, amely Alytus helyi kultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.024033,
+                        54.414209
+                  ]
+            },
+            {
+                  "name": "S. Pigagos muziejus",
+                  "text": "Személyes gyűjteményeknek szentelt kis helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.02161,
+                        54.389619
+                  ]
+            },
+            {
+                  "name": "Mūsų tautos istorijos atminties muziejus",
+                  "text": "Litvánia nemzeti történelmének megőrzésére szolgáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.053857,
+                        54.381098
+                  ]
+            },
+            {
+                  "name": "Antano Jonyno memorialinis muziejus",
+                  "text": "Antanas Jonynas író emlékmúzeuma Alytusban.",
+                  "category": "museum",
+                  "coords": [
+                        24.06173,
+                        54.386726
+                  ]
+            },
+            {
+                  "name": "Voveryčių parkelis",
+                  "text": "Kis park Alytusban, ahol mókusokat lehet megfigyelni.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024485,
+                        54.405639
+                  ]
+            },
+            {
+                  "name": "Baltosios rožės tiltas",
+                  "text": "Litvánia legmagasabb gyalogoshídja, amely széles kilátást nyújt a Nyemanra.",
+                  "category": "natural",
+                  "coords": [
+                        24.081317,
+                        54.39323
+                  ]
+            },
+            {
+                  "name": "Sveikatos tako apžvalgos aikštelė",
+                  "text": "Kilátóhely az alytusi egészségsétány mentén.",
+                  "category": "natural",
+                  "coords": [
+                        24.079792,
+                        54.392488
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Angelų Sargų bažnyčia",
+                  "text": "Az Őrangyalok temploma, Alytus egyik jellegzetes vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        24.05088,
+                        54.398843
+                  ]
+            },
+            {
+                  "name": "Alytaus Švč. M. Marijos Krikščionių Pagalbos bažnyčia",
+                  "text": "Keresztények Segítsége Szűz Mária-templom, modern imaház Alytusban.",
+                  "category": "religious",
+                  "coords": [
+                        24.010779,
+                        54.39991
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Kazimiero bažnyčia",
+                  "text": "Szent Kázmér-templom Alytusban, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.055191,
+                        54.38376
+                  ]
+            },
+            {
+                  "name": "Lietuvos tūkstantmečio tiltas",
+                  "text": "Litvánia millenniumának emléket állító jelentős modern híd.",
+                  "category": "landmark",
+                  "coords": [
+                        24.039957,
+                        54.421452
+                  ]
+            },
+            {
+                  "name": "A. Juozapavičiaus tiltas",
+                  "text": "Történelmi híd a Nyeman felett, Antanas Juozapavičiusról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054767,
+                        54.401385
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Liudviko bažnyčia",
+                  "text": "Szent Lajos-templom, Alytus egyik legrégebbi vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        24.057853,
+                        54.404612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alytaus piliakalnis",
+                  "text": "O movilă istorică în Alytus, situată strategic deasupra râului Nemunas.",
+                  "category": "historical",
+                  "coords": [
+                        24.08,
+                        54.396611
+                  ]
+            },
+            {
+                  "name": "Alytaus kapinynas",
+                  "text": "Un sit arheologic și fost cimitir în Alytus.",
+                  "category": "historical",
+                  "coords": [
+                        24.073507,
+                        54.398746
+                  ]
+            },
+            {
+                  "name": "Alytaus miesto teatras",
+                  "text": "Teatrul orășenesc din Alytus, un centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        24.047213,
+                        54.396497
+                  ]
+            },
+            {
+                  "name": "Archeologinė ekspozicija Kai sieloms neliko medžių",
+                  "text": "O expoziție arheologică despre istoria regiunii Alytus.",
+                  "category": "museum",
+                  "coords": [
+                        24.06604,
+                        54.403302
+                  ]
+            },
+            {
+                  "name": "Anzelmo Matučio memorialinis muziejus",
+                  "text": "Un muzeu memorial dedicat poetului lituanian Anzelmas Matutis.",
+                  "category": "museum",
+                  "coords": [
+                        24.051842,
+                        54.3976
+                  ]
+            },
+            {
+                  "name": "Alytaus kraštotyros muziejus",
+                  "text": "Un muzeu de istorie locală care prezintă cultura și istoria orașului Alytus.",
+                  "category": "museum",
+                  "coords": [
+                        24.024033,
+                        54.414209
+                  ]
+            },
+            {
+                  "name": "S. Pigagos muziejus",
+                  "text": "Un mic muzeu local dedicat unor colecții personale.",
+                  "category": "museum",
+                  "coords": [
+                        24.02161,
+                        54.389619
+                  ]
+            },
+            {
+                  "name": "Mūsų tautos istorijos atminties muziejus",
+                  "text": "Un muzeu dedicat conservării istoriei naționale a Lituaniei.",
+                  "category": "museum",
+                  "coords": [
+                        24.053857,
+                        54.381098
+                  ]
+            },
+            {
+                  "name": "Antano Jonyno memorialinis muziejus",
+                  "text": "Muzeul memorial dedicat scriitorului Antanas Jonynas din Alytus.",
+                  "category": "museum",
+                  "coords": [
+                        24.06173,
+                        54.386726
+                  ]
+            },
+            {
+                  "name": "Voveryčių parkelis",
+                  "text": "Un mic parc în Alytus unde pot fi observate veverițe.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024485,
+                        54.405639
+                  ]
+            },
+            {
+                  "name": "Baltosios rožės tiltas",
+                  "text": "Cel mai înalt pod pietonal din Lituania, oferind panorame extinse asupra râului Nemunas.",
+                  "category": "natural",
+                  "coords": [
+                        24.081317,
+                        54.39323
+                  ]
+            },
+            {
+                  "name": "Sveikatos tako apžvalgos aikštelė",
+                  "text": "Un punct de observație situat de-a lungul traseului de sănătate din Alytus.",
+                  "category": "natural",
+                  "coords": [
+                        24.079792,
+                        54.392488
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Angelų Sargų bažnyčia",
+                  "text": "Biserica Îngerilor Păzitori, o clădire religioasă proeminentă din Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.05088,
+                        54.398843
+                  ]
+            },
+            {
+                  "name": "Alytaus Švč. M. Marijos Krikščionių Pagalbos bažnyčia",
+                  "text": "Biserica Maria Ajutorul Creștinilor, un lăcaș de cult modern în Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.010779,
+                        54.39991
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Kazimiero bažnyčia",
+                  "text": "Biserica Sfântul Cazimir din Alytus, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        24.055191,
+                        54.38376
+                  ]
+            },
+            {
+                  "name": "Lietuvos tūkstantmečio tiltas",
+                  "text": "Un pod modern semnificativ care comemorează mileniul Lituaniei.",
+                  "category": "landmark",
+                  "coords": [
+                        24.039957,
+                        54.421452
+                  ]
+            },
+            {
+                  "name": "A. Juozapavičiaus tiltas",
+                  "text": "Un pod istoric peste Nemunas, numit după Antanas Juozapavičius.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054767,
+                        54.401385
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Liudviko bažnyčia",
+                  "text": "Biserica Sfântul Ludovic, una dintre cele mai vechi clădiri religioase din Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.057853,
+                        54.404612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alytaus piliakalnis",
+                  "text": "A historical hillfort in Alytus, strategically located above the Nemunas River.",
+                  "category": "historical",
+                  "coords": [
+                        24.08,
+                        54.396611
+                  ]
+            },
+            {
+                  "name": "Alytaus kapinynas",
+                  "text": "An archaeological site and former burial ground in Alytus.",
+                  "category": "historical",
+                  "coords": [
+                        24.073507,
+                        54.398746
+                  ]
+            },
+            {
+                  "name": "Alytaus miesto teatras",
+                  "text": "The city theatre of Alytus, a center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        24.047213,
+                        54.396497
+                  ]
+            },
+            {
+                  "name": "Archeologinė ekspozicija Kai sieloms neliko medžių",
+                  "text": "An archaeological exhibition about the history of the Alytus region.",
+                  "category": "museum",
+                  "coords": [
+                        24.06604,
+                        54.403302
+                  ]
+            },
+            {
+                  "name": "Anzelmo Matučio memorialinis muziejus",
+                  "text": "A memorial museum dedicated to the Lithuanian poet Anzelmas Matutis.",
+                  "category": "museum",
+                  "coords": [
+                        24.051842,
+                        54.3976
+                  ]
+            },
+            {
+                  "name": "Alytaus kraštotyros muziejus",
+                  "text": "A local history museum showcasing the culture and history of Alytus.",
+                  "category": "museum",
+                  "coords": [
+                        24.024033,
+                        54.414209
+                  ]
+            },
+            {
+                  "name": "S. Pigagos muziejus",
+                  "text": "A small local museum dedicated to personal collections.",
+                  "category": "museum",
+                  "coords": [
+                        24.02161,
+                        54.389619
+                  ]
+            },
+            {
+                  "name": "Mūsų tautos istorijos atminties muziejus",
+                  "text": "A museum dedicated to preserving the national history of Lithuania.",
+                  "category": "museum",
+                  "coords": [
+                        24.053857,
+                        54.381098
+                  ]
+            },
+            {
+                  "name": "Antano Jonyno memorialinis muziejus",
+                  "text": "The memorial museum of the writer Antanas Jonynas in Alytus.",
+                  "category": "museum",
+                  "coords": [
+                        24.06173,
+                        54.386726
+                  ]
+            },
+            {
+                  "name": "Voveryčių parkelis",
+                  "text": "A small park in Alytus where squirrels can be observed.",
+                  "category": "recreational",
+                  "coords": [
+                        24.024485,
+                        54.405639
+                  ]
+            },
+            {
+                  "name": "White Rose Bridge",
+                  "text": "The highest pedestrian bridge in Lithuania, offering expansive views of the Nemunas River.",
+                  "category": "natural",
+                  "coords": [
+                        24.081317,
+                        54.39323
+                  ]
+            },
+            {
+                  "name": "Sveikatos tako apžvalgos aikštelė",
+                  "text": "A viewpoint located along the health trail in Alytus.",
+                  "category": "natural",
+                  "coords": [
+                        24.079792,
+                        54.392488
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Angelų Sargų bažnyčia",
+                  "text": "The Church of Guardian Angels, a prominent religious building in Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.05088,
+                        54.398843
+                  ]
+            },
+            {
+                  "name": "Alytaus Švč. M. Marijos Krikščionių Pagalbos bažnyčia",
+                  "text": "The Church of Mary Help of Christians, a modern house of worship in Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.010779,
+                        54.39991
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Kazimiero bažnyčia",
+                  "text": "St. Casimir's Church in Alytus, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.055191,
+                        54.38376
+                  ]
+            },
+            {
+                  "name": "Lietuvos tūkstantmečio tiltas",
+                  "text": "A significant modern bridge commemorating the millennium of Lithuania.",
+                  "category": "landmark",
+                  "coords": [
+                        24.039957,
+                        54.421452
+                  ]
+            },
+            {
+                  "name": "A. Juozapavičiaus tiltas",
+                  "text": "A historical bridge over the Nemunas, named after Antanas Juozapavičius.",
+                  "category": "landmark",
+                  "coords": [
+                        24.054767,
+                        54.401385
+                  ]
+            },
+            {
+                  "name": "Alytaus Šv. Liudviko bažnyčia",
+                  "text": "St. Louis Church, one of the oldest religious buildings in Alytus.",
+                  "category": "religious",
+                  "coords": [
+                        24.057853,
+                        54.404612
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Alytus", hu: "Alytus", ro: "Alytus", en: "Alytus"},
@@ -141,7 +2796,412 @@ imageHint: "Alytus bridge over Nemunas river",
     },
     image: "/poi-images/lithuania-alytus-cities-v2.webp",
 },  {
-    id: "lithuania-marijampole-cities-v2",
+    id: "lithuania-marijampole-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Marijampolės piliakalnis",
+                  "text": "Ein archäologisch bedeutsamer Burghügel in der Nähe von Marijampolė.",
+                  "category": "historical",
+                  "coords": [
+                        23.33193,
+                        54.547357
+                  ]
+            },
+            {
+                  "name": "Vinco Mykolaičio-Putino memorialinis muziejus",
+                  "text": "Ein Gedenkmuseum in Marijampolė, das dem Leben des Schriftstellers Vinco Mykolaitis-Putinas gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.349307,
+                        54.559876
+                  ]
+            },
+            {
+                  "name": "Marijampolės kraštotyros muziejus",
+                  "text": "Das Regionalmuseum von Marijampolė mit Exponaten zur Geschichte und Kultur der Gegend.",
+                  "category": "museum",
+                  "coords": [
+                        23.348702,
+                        54.552128
+                  ]
+            },
+            {
+                  "name": "Palaimintojo Jurgio Matulaičio muziejus",
+                  "text": "Ein Museum in Marijampolė, das dem seligen Jurgis Matulaitis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.344338,
+                        54.555815
+                  ]
+            },
+            {
+                  "name": "Marijampolės kolegijos muziejus",
+                  "text": "Ein kleines Museum, das die Geschichte und Entwicklung des Kollegs von Marijampolė zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.349654,
+                        54.548152
+                  ]
+            },
+            {
+                  "name": "Marijampolės municipalinis dramos teatras",
+                  "text": "Das städtische Theater von Marijampolė, ein wichtiges Zentrum für darstellende Kunst in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        23.343717,
+                        54.554288
+                  ]
+            },
+            {
+                  "name": "Lietuvos prezidento K. Griniaus memorialinis muziejus",
+                  "text": "Ein Gedenkmuseum für Kazys Grinius, einen ehemaligen Präsidenten Litauens, in Marijampolė.",
+                  "category": "museum",
+                  "coords": [
+                        23.344848,
+                        54.554809
+                  ]
+            },
+            {
+                  "name": "Sinagoga",
+                  "text": "Ein ehemaliges jüdisches Gebetshaus in Marijampolė, das heute kulturell genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        23.35174,
+                        54.556099
+                  ]
+            },
+            {
+                  "name": "Marijampolės kultūros centras",
+                  "text": "Das Kulturzentrum von Marijampolė, ein Ort für Konzerte, Ausstellungen und Gemeinschaftsevents.",
+                  "category": "cultural",
+                  "coords": [
+                        23.349326,
+                        54.558504
+                  ]
+            },
+            {
+                  "name": "Marijampolės evangelikų liuteronų bažnyčia",
+                  "text": "Das Gotteshaus der evangelisch-lutherischen Gemeinde in Marijampolė.",
+                  "category": "religious",
+                  "coords": [
+                        23.35064,
+                        54.560302
+                  ]
+            },
+            {
+                  "name": "Marijampolės Švč. Trejybės cerkvė",
+                  "text": "Eine orthodoxe Kirche in Marijampolė, die der Heiligen Dreifaltigkeit geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.346148,
+                        54.548336
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Marijampolės piliakalnis",
+                  "text": "Régészetileg jelentős várhalom Marijampolė közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.33193,
+                        54.547357
+                  ]
+            },
+            {
+                  "name": "Vinco Mykolaičio-Putino memorialinis muziejus",
+                  "text": "Vinco Mykolaitis-Putinas író életének szentelt emlékmúzeum Marijampolėban.",
+                  "category": "museum",
+                  "coords": [
+                        23.349307,
+                        54.559876
+                  ]
+            },
+            {
+                  "name": "Marijampolės kraštotyros muziejus",
+                  "text": "Marijampolė helytörténeti múzeuma a környék történelmét és kultúráját bemutató tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        23.348702,
+                        54.552128
+                  ]
+            },
+            {
+                  "name": "Palaimintojo Jurgio Matulaičio muziejus",
+                  "text": "Boldog Jurgis Matulaitisnak szentelt múzeum Marijampolėban.",
+                  "category": "museum",
+                  "coords": [
+                        23.344338,
+                        54.555815
+                  ]
+            },
+            {
+                  "name": "Marijampolės kolegijos muziejus",
+                  "text": "Marijampolė főiskolájának történetét és fejlődését bemutató kis múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.349654,
+                        54.548152
+                  ]
+            },
+            {
+                  "name": "Marijampolės municipalinis dramos teatras",
+                  "text": "Marijampolė városi színháza, a régió egyik fontos előadó-művészeti központja.",
+                  "category": "cultural",
+                  "coords": [
+                        23.343717,
+                        54.554288
+                  ]
+            },
+            {
+                  "name": "Lietuvos prezidento K. Griniaus memorialinis muziejus",
+                  "text": "Emlékmúzeum Marijampolėban Kazys Griniusnek, Litvánia egykori elnökének szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        23.344848,
+                        54.554809
+                  ]
+            },
+            {
+                  "name": "Sinagoga",
+                  "text": "Marijampolė egykori zsidó imaháza, amely ma kulturális célokat szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        23.35174,
+                        54.556099
+                  ]
+            },
+            {
+                  "name": "Marijampolės kultūros centras",
+                  "text": "Marijampolė kulturális központja koncertek, kiállítások és közösségi események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        23.349326,
+                        54.558504
+                  ]
+            },
+            {
+                  "name": "Marijampolės evangelikų liuteronų bažnyčia",
+                  "text": "A marijampolėi evangélikus-luteránus közösség temploma.",
+                  "category": "religious",
+                  "coords": [
+                        23.35064,
+                        54.560302
+                  ]
+            },
+            {
+                  "name": "Marijampolės Švč. Trejybės cerkvė",
+                  "text": "A Szentháromságnak szentelt ortodox templom Marijampolėban.",
+                  "category": "religious",
+                  "coords": [
+                        23.346148,
+                        54.548336
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Marijampolės piliakalnis",
+                  "text": "O movilă fortificată cu importanță arheologică situată lângă Marijampolė.",
+                  "category": "historical",
+                  "coords": [
+                        23.33193,
+                        54.547357
+                  ]
+            },
+            {
+                  "name": "Vinco Mykolaičio-Putino memorialinis muziejus",
+                  "text": "Un muzeu memorial din Marijampolė dedicat vieții scriitorului Vinco Mykolaitis-Putinas.",
+                  "category": "museum",
+                  "coords": [
+                        23.349307,
+                        54.559876
+                  ]
+            },
+            {
+                  "name": "Marijampolės kraštotyros muziejus",
+                  "text": "Muzeul regional din Marijampolė, cu exponate despre istoria și cultura zonei.",
+                  "category": "museum",
+                  "coords": [
+                        23.348702,
+                        54.552128
+                  ]
+            },
+            {
+                  "name": "Palaimintojo Jurgio Matulaičio muziejus",
+                  "text": "Un muzeu din Marijampolė dedicat Fericitului Jurgis Matulaitis.",
+                  "category": "museum",
+                  "coords": [
+                        23.344338,
+                        54.555815
+                  ]
+            },
+            {
+                  "name": "Marijampolės kolegijos muziejus",
+                  "text": "Un mic muzeu care prezintă istoria și dezvoltarea Colegiului din Marijampolė.",
+                  "category": "museum",
+                  "coords": [
+                        23.349654,
+                        54.548152
+                  ]
+            },
+            {
+                  "name": "Marijampolės municipalinis dramos teatras",
+                  "text": "Teatrul municipal din Marijampolė, un centru important pentru artele spectacolului în regiune.",
+                  "category": "cultural",
+                  "coords": [
+                        23.343717,
+                        54.554288
+                  ]
+            },
+            {
+                  "name": "Lietuvos prezidento K. Griniaus memorialinis muziejus",
+                  "text": "Un muzeu memorial dedicat lui Kazys Grinius, fost președinte al Lituaniei, în Marijampolė.",
+                  "category": "museum",
+                  "coords": [
+                        23.344848,
+                        54.554809
+                  ]
+            },
+            {
+                  "name": "Sinagoga",
+                  "text": "O fostă casă de rugăciune evreiască din Marijampolė, utilizată astăzi în scopuri culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        23.35174,
+                        54.556099
+                  ]
+            },
+            {
+                  "name": "Marijampolės kultūros centras",
+                  "text": "Centrul cultural din Marijampolė, un loc pentru concerte, expoziții și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        23.349326,
+                        54.558504
+                  ]
+            },
+            {
+                  "name": "Marijampolės evangelikų liuteronų bažnyčia",
+                  "text": "Locul de cult al comunității evanghelice luterane din Marijampolė.",
+                  "category": "religious",
+                  "coords": [
+                        23.35064,
+                        54.560302
+                  ]
+            },
+            {
+                  "name": "Marijampolės Švč. Trejybės cerkvė",
+                  "text": "O biserică ortodoxă din Marijampolė, închinată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        23.346148,
+                        54.548336
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Marijampolės piliakalnis",
+                  "text": "An archaeologically significant hillfort located near Marijampolė.",
+                  "category": "historical",
+                  "coords": [
+                        23.33193,
+                        54.547357
+                  ]
+            },
+            {
+                  "name": "Vinco Mykolaičio-Putino memorialinis muziejus",
+                  "text": "A memorial museum in Marijampolė dedicated to the life of writer Vinco Mykolaitis-Putinas.",
+                  "category": "museum",
+                  "coords": [
+                        23.349307,
+                        54.559876
+                  ]
+            },
+            {
+                  "name": "Marijampolės kraštotyros muziejus",
+                  "text": "The regional museum of Marijampolė featuring exhibits on local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        23.348702,
+                        54.552128
+                  ]
+            },
+            {
+                  "name": "Palaimintojo Jurgio Matulaičio muziejus",
+                  "text": "A museum in Marijampolė dedicated to the Blessed Jurgis Matulaitis.",
+                  "category": "museum",
+                  "coords": [
+                        23.344338,
+                        54.555815
+                  ]
+            },
+            {
+                  "name": "Marijampolės kolegijos muziejus",
+                  "text": "A small museum showcasing the history and development of Marijampolė College.",
+                  "category": "museum",
+                  "coords": [
+                        23.349654,
+                        54.548152
+                  ]
+            },
+            {
+                  "name": "Marijampolės municipalinis dramos teatras",
+                  "text": "The municipal theatre of Marijampolė, a key center for performing arts in the region.",
+                  "category": "cultural",
+                  "coords": [
+                        23.343717,
+                        54.554288
+                  ]
+            },
+            {
+                  "name": "Lietuvos prezidento K. Griniaus memorialinis muziejus",
+                  "text": "A memorial museum for Kazys Grinius, a former President of Lithuania, in Marijampolė.",
+                  "category": "museum",
+                  "coords": [
+                        23.344848,
+                        54.554809
+                  ]
+            },
+            {
+                  "name": "Sinagoga",
+                  "text": "A former Jewish house of prayer in Marijampolė, now used for cultural purposes.",
+                  "category": "landmark",
+                  "coords": [
+                        23.35174,
+                        54.556099
+                  ]
+            },
+            {
+                  "name": "Marijampolės kultūros centras",
+                  "text": "The culture center of Marijampolė, a venue for concerts, exhibitions, and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        23.349326,
+                        54.558504
+                  ]
+            },
+            {
+                  "name": "Marijampolės evangelikų liuteronų bažnyčia",
+                  "text": "The place of worship for the Evangelical Lutheran community in Marijampolė.",
+                  "category": "religious",
+                  "coords": [
+                        23.35064,
+                        54.560302
+                  ]
+            },
+            {
+                  "name": "Marijampolės Švč. Trejybės cerkvė",
+                  "text": "An Orthodox church in Marijampolė dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        23.346148,
+                        54.548336
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Marijampolė", hu: "Marijampolė", ro: "Marijampolė", en: "Marijampolė"},
@@ -187,7 +3247,376 @@ imageHint: "Marijampole city square and church",
     },
     image: "/poi-images/lithuania-marijampole-cities-v2.webp",
 },  {
-    id: "lithuania-mazeikiai-cities-v2",
+    id: "lithuania-mazeikiai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mažeikių muziejus",
+                  "text": "Museum in Mažeikiai mit Exponaten zur lokalen Geschichte und Archäologie.",
+                  "category": "museum",
+                  "coords": [
+                        22.347247,
+                        56.316518
+                  ]
+            },
+            {
+                  "name": "Kalnėnų kapinynas",
+                  "text": "Antikes Gräberfeld und archäologische Stätte in der Nähe von Mažeikiai.",
+                  "category": "historical",
+                  "coords": [
+                        22.295299,
+                        56.302387
+                  ]
+            },
+            {
+                  "name": "5 kalnai",
+                  "text": "Aussichtspunkt in Mažeikiai mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        22.342458,
+                        56.29601
+                  ]
+            },
+            {
+                  "name": "Akmeninė užtvanka",
+                  "text": "Aussichtspunkt mit Blick auf einen historischen Steindamm in Mažeikiai.",
+                  "category": "natural",
+                  "coords": [
+                        22.33074,
+                        56.296368
+                  ]
+            },
+            {
+                  "name": "Cable Park Mažeikiai",
+                  "text": "Aktive Freizeitattraktion für Wakeboarding und Wassersport in Mažeikiai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.339376,
+                        56.29515
+                  ]
+            },
+            {
+                  "name": "Ventos upės apžvalgos aikštelė",
+                  "text": "Aussichtsplattform mit Blick auf den Fluss Venta in Mažeikiai.",
+                  "category": "natural",
+                  "coords": [
+                        22.330932,
+                        56.298137
+                  ]
+            },
+            {
+                  "name": "Mažeikių Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Moderne katholische Kirche in Mažeikiai, gewidmet dem Heiligsten Herzen Jesu.",
+                  "category": "religious",
+                  "coords": [
+                        22.347335,
+                        56.314598
+                  ]
+            },
+            {
+                  "name": "Mažeikių Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Zeitgenössische Backsteinkirche in Mažeikiai, gewidmet dem heiligen Franz von Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        22.3395,
+                        56.303841
+                  ]
+            },
+            {
+                  "name": "Mažeikių Dievo Motinos Dangun ėmimo cerkvė",
+                  "text": "Orthodoxe Kirche in Mažeikiai, gewidmet der Entschlafung der Gottesmutter.",
+                  "category": "religious",
+                  "coords": [
+                        22.335116,
+                        56.317657
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Mažeikiai",
+                  "text": "Kirchengebäude aus Backstein für die lutherische Gemeinde in Mažeikiai.",
+                  "category": "religious",
+                  "coords": [
+                        22.340315,
+                        56.31572
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mažeikių muziejus",
+                  "text": "Mažeikiai múzeuma, amely a helyi történelmet és régészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.347247,
+                        56.316518
+                  ]
+            },
+            {
+                  "name": "Kalnėnų kapinynas",
+                  "text": "Ókori temetkezési hely és régészeti lelőhely Mažeikiai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.295299,
+                        56.302387
+                  ]
+            },
+            {
+                  "name": "5 kalnai",
+                  "text": "Kilátóhely Mažeikiaiban, ahonnan kilátás nyílik a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        22.342458,
+                        56.29601
+                  ]
+            },
+            {
+                  "name": "Akmeninė užtvanka",
+                  "text": "Kilátóhely egy történelmi kőgátra Mažeikiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        22.33074,
+                        56.296368
+                  ]
+            },
+            {
+                  "name": "Cable Park Mažeikiai",
+                  "text": "Aktív szabadidős helyszín wakeboardozással és vízi sportokkal Mažeikiaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.339376,
+                        56.29515
+                  ]
+            },
+            {
+                  "name": "Ventos upės apžvalgos aikštelė",
+                  "text": "Kilátóterasz, ahonnan a Venta-folyóira nyílik kilátás Mažeikiaiban.",
+                  "category": "natural",
+                  "coords": [
+                        22.330932,
+                        56.298137
+                  ]
+            },
+            {
+                  "name": "Mažeikių Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Modern katolikus templom Mažeikiaiban, Jézus Szent Szívének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        22.347335,
+                        56.314598
+                  ]
+            },
+            {
+                  "name": "Mažeikių Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Kortárs téglatemplom Mažeikiaiban, Assisi Szent Ferencnek szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        22.3395,
+                        56.303841
+                  ]
+            },
+            {
+                  "name": "Mažeikių Dievo Motinos Dangun ėmimo cerkvė",
+                  "text": "Az Istenanya elszenderülésének szentelt ortodox templom Mažeikiaiban.",
+                  "category": "religious",
+                  "coords": [
+                        22.335116,
+                        56.317657
+                  ]
+            },
+            {
+                  "name": "Mažeikių evangelikų liuteronų bažnyčia",
+                  "text": "Téglaépítésű templom Mažeikiaiban az evangélikus közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        22.340315,
+                        56.31572
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mažeikių muziejus",
+                  "text": "Muzeu din Mažeikiai care prezintă exponate despre istoria și arheologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        22.347247,
+                        56.316518
+                  ]
+            },
+            {
+                  "name": "Kalnėnų kapinynas",
+                  "text": "Vechi teren de înmormântare și sit arheologic situat lângă Mažeikiai.",
+                  "category": "historical",
+                  "coords": [
+                        22.295299,
+                        56.302387
+                  ]
+            },
+            {
+                  "name": "5 kalnai",
+                  "text": "Punct de belvedere din Mažeikiai care oferă vederi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        22.342458,
+                        56.29601
+                  ]
+            },
+            {
+                  "name": "Akmeninė užtvanka",
+                  "text": "Punct de belvedere cu vedere la un baraj istoric de piatră din Mažeikiai.",
+                  "category": "natural",
+                  "coords": [
+                        22.33074,
+                        56.296368
+                  ]
+            },
+            {
+                  "name": "Cable Park Mažeikiai",
+                  "text": "Atracție pentru petrecerea timpului liber activ, oferind wakeboarding și sporturi nautice în Mažeikiai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.339376,
+                        56.29515
+                  ]
+            },
+            {
+                  "name": "Ventos upės apžvalgos aikštelė",
+                  "text": "Platformă de observare care oferă vederi spre râul Venta în Mažeikiai.",
+                  "category": "natural",
+                  "coords": [
+                        22.330932,
+                        56.298137
+                  ]
+            },
+            {
+                  "name": "Mažeikių Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Biserică catolică modernă din Mažeikiai dedicată Inimii Sacre a lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        22.347335,
+                        56.314598
+                  ]
+            },
+            {
+                  "name": "Mažeikių Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Biserică contemporană din cărămidă în Mažeikiai, dedicată Sfântului Francisc de Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        22.3395,
+                        56.303841
+                  ]
+            },
+            {
+                  "name": "Mažeikių Dievo Motinos Dangun ėmimo cerkvė",
+                  "text": "Biserică ortodoxă din Mažeikiai dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        22.335116,
+                        56.317657
+                  ]
+            },
+            {
+                  "name": "Mažeikių evangelikų liuteronų bažnyčia",
+                  "text": "Clădire de biserică din cărămidă care deservește comunitatea luterană din Mažeikiai.",
+                  "category": "religious",
+                  "coords": [
+                        22.340315,
+                        56.31572
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mažeikių muziejus",
+                  "text": "Museum in Mažeikiai featuring exhibits on local history and archeology.",
+                  "category": "museum",
+                  "coords": [
+                        22.347247,
+                        56.316518
+                  ]
+            },
+            {
+                  "name": "Kalnėnų kapinynas",
+                  "text": "Ancient burial ground and archaeological site located near Mažeikiai.",
+                  "category": "historical",
+                  "coords": [
+                        22.295299,
+                        56.302387
+                  ]
+            },
+            {
+                  "name": "5 kalnai",
+                  "text": "Scenic viewpoint in Mažeikiai offering views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.342458,
+                        56.29601
+                  ]
+            },
+            {
+                  "name": "Akmeninė užtvanka",
+                  "text": "Viewpoint overlooking a historic stone dam in Mažeikiai.",
+                  "category": "natural",
+                  "coords": [
+                        22.33074,
+                        56.296368
+                  ]
+            },
+            {
+                  "name": "Cable Park Mažeikiai",
+                  "text": "Active leisure attraction offering wakeboarding and water sports in Mažeikiai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.339376,
+                        56.29515
+                  ]
+            },
+            {
+                  "name": "Ventos upės apžvalgos aikštelė",
+                  "text": "Observation deck providing views of the Venta River in Mažeikiai.",
+                  "category": "natural",
+                  "coords": [
+                        22.330932,
+                        56.298137
+                  ]
+            },
+            {
+                  "name": "Mažeikių Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Modern Catholic church in Mažeikiai dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        22.347335,
+                        56.314598
+                  ]
+            },
+            {
+                  "name": "Mažeikių Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Contemporary brick church in Mažeikiai dedicated to St. Francis of Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        22.3395,
+                        56.303841
+                  ]
+            },
+            {
+                  "name": "Mažeikių Dievo Motinos Dangun ėmimo cerkvė",
+                  "text": "Orthodox church in Mažeikiai dedicated to the Assumption of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        22.335116,
+                        56.317657
+                  ]
+            },
+            {
+                  "name": "Mažeikių evangelikų liuteronų bažnyčia",
+                  "text": "Brick church building serving the Lutheran community in Mažeikiai.",
+                  "category": "religious",
+                  "coords": [
+                        22.340315,
+                        56.31572
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Mažeikiai", hu: "Mažeikiai", ro: "Mažeikiai", en: "Mažeikiai"},
@@ -233,7 +3662,520 @@ imageHint: "Mazeikiai industrial skyline and refinery",
     },
     image: "/poi-images/lithuania-mazeikiai-cities-v2.webp",
 },  {
-    id: "lithuania-jonava-cities-v2",
+    id: "lithuania-jonava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wallburg Laukagaliai",
+                  "text": "Ein alter Burgberg in der Nähe von Jonava mit archäologischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        24.303417,
+                        55.084528
+                  ]
+            },
+            {
+                  "name": "Jonavos krašto muziejus",
+                  "text": "Ein Museum, das sich der Geschichte und dem Erbe der Region Jonava widmet.",
+                  "category": "museum",
+                  "coords": [
+                        24.27936,
+                        55.073123
+                  ]
+            },
+            {
+                  "name": "Samulevičių sodyba",
+                  "text": "Ein Museum im ehemaligen Gehöft der Künstlerfamilie Samulevičius.",
+                  "category": "museum",
+                  "coords": [
+                        24.289444,
+                        55.101558
+                  ]
+            },
+            {
+                  "name": "Jonavos geležinkelio tilto bunkeriai",
+                  "text": "Ehemalige Verteidigungsbunker in der Nähe der Eisenbahnbrücke von Jonava.",
+                  "category": "fortress",
+                  "coords": [
+                        24.292671,
+                        55.07591
+                  ]
+            },
+            {
+                  "name": "Skarulių dvarvietė",
+                  "text": "Die Überreste eines historischen Herrenhauses in Skaruliai bei Jonava.",
+                  "category": "historical",
+                  "coords": [
+                        24.318001,
+                        55.069074
+                  ]
+            },
+            {
+                  "name": "Skarulių Šv. Onos bažnyčia",
+                  "text": "Die St.-Anna-Kirche in Skaruliai, ein bedeutendes Baudenkmal.",
+                  "category": "landmark",
+                  "coords": [
+                        24.31186,
+                        55.078695
+                  ]
+            },
+            {
+                  "name": "Atminimo parkas",
+                  "text": "Ein Park in Jonava, der dem Gedenken an historische Ereignisse gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        24.289063,
+                        55.079104
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Nerį",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Fluss Neris in Jonava.",
+                  "category": "natural",
+                  "coords": [
+                        24.292092,
+                        55.074995
+                  ]
+            },
+            {
+                  "name": "Jonavos kultūros centras",
+                  "text": "Das Kulturzentrum von Jonava, ein Ort für Konzerte und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.275043,
+                        55.074939
+                  ]
+            },
+            {
+                  "name": "Jonavos slidinėjimo centras",
+                  "text": "Ein lokales Wintersportzentrum für Skifahren und Snowboarden in Jonava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266612,
+                        55.077151
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jono bažnyčia",
+                  "text": "Eine katholische Kirche und ein Ort des Gebets in der Stadt Jonava.",
+                  "category": "religious",
+                  "coords": [
+                        24.250485,
+                        55.074381
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jokūbo bažnyčia",
+                  "text": "Eine bedeutende katholische Kirche und religiöse Stätte in Jonava.",
+                  "category": "religious",
+                  "coords": [
+                        24.27768,
+                        55.06943
+                  ]
+            },
+            {
+                  "name": "Taurosta-Brücke",
+                  "text": "Eine Brücke, die den Fluss Neris in Jonava überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315164,
+                        55.087702
+                  ]
+            },
+            {
+                  "name": "Jonavos tremtinių koplyčia",
+                  "text": "Ein religiöses Gebäude in Jonava, das dem Gedenken an die Exilanten gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.263682,
+                        55.099013
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Laukagalių piliakalnis",
+                  "text": "Jonava közeli ősi várhegy, amely régészeti jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        24.303417,
+                        55.084528
+                  ]
+            },
+            {
+                  "name": "Jonavos krašto muziejus",
+                  "text": "Jonava régiójának történelmével és örökségével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.27936,
+                        55.073123
+                  ]
+            },
+            {
+                  "name": "Samulevičių sodyba",
+                  "text": "Múzeum a Samulevičius művészcsalád egykori tanyáján.",
+                  "category": "museum",
+                  "coords": [
+                        24.289444,
+                        55.101558
+                  ]
+            },
+            {
+                  "name": "Jonavos geležinkelio tilto bunkeriai",
+                  "text": "Eykori védelmi bunkerek a jonavai vasúti híd közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        24.292671,
+                        55.07591
+                  ]
+            },
+            {
+                  "name": "Skarulių dvarvietė",
+                  "text": "Egy történelmi kúria maradványai a Jonava melletti Skaruliaiban.",
+                  "category": "historical",
+                  "coords": [
+                        24.318001,
+                        55.069074
+                  ]
+            },
+            {
+                  "name": "Skarulių Šv. Onos bažnyčia",
+                  "text": "Szent Anna-templom Skaruliaiban, jelentős építészeti műemlék.",
+                  "category": "landmark",
+                  "coords": [
+                        24.31186,
+                        55.078695
+                  ]
+            },
+            {
+                  "name": "Atminimo parkas",
+                  "text": "Jonavai park, amelyet történelmi események emlékének szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        24.289063,
+                        55.079104
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Nerį",
+                  "text": "Kilátóhely a Neris folyóra Jonavában.",
+                  "category": "natural",
+                  "coords": [
+                        24.292092,
+                        55.074995
+                  ]
+            },
+            {
+                  "name": "Jonavos kultūros centras",
+                  "text": "Jonavai Kulturális Központ, koncertek és előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        24.275043,
+                        55.074939
+                  ]
+            },
+            {
+                  "name": "Jonavos slidinėjimo centras",
+                  "text": "Helyi téli sportközpont síeléshez és snowboardozáshoz Jonavában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266612,
+                        55.077151
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jono bažnyčia",
+                  "text": "Katolikus templom és vallási helyszín Jonava városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.250485,
+                        55.074381
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jokūbo bažnyčia",
+                  "text": "Jelentős katolikus templom és vallási helyszín Jonavában.",
+                  "category": "religious",
+                  "coords": [
+                        24.27768,
+                        55.06943
+                  ]
+            },
+            {
+                  "name": "Taurostos tiltas",
+                  "text": "A Neris folyón átívelő híd Jonavában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315164,
+                        55.087702
+                  ]
+            },
+            {
+                  "name": "Jonavos tremtinių koplyčia",
+                  "text": "Jonavai vallási épület, amelyet a száműzöttek emlékének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        24.263682,
+                        55.099013
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Laukagalių piliakalnis",
+                  "text": "O movilă veche lângă Jonava, cu semnificație arheologică.",
+                  "category": "historical",
+                  "coords": [
+                        24.303417,
+                        55.084528
+                  ]
+            },
+            {
+                  "name": "Jonavos krašto muziejus",
+                  "text": "Un muzeu dedicat istoriei și moștenirii regiunii Jonava.",
+                  "category": "museum",
+                  "coords": [
+                        24.27936,
+                        55.073123
+                  ]
+            },
+            {
+                  "name": "Samulevičių sodyba",
+                  "text": "Un muzeu situat în fosta gospodărie a familiei de artiști Samulevičius.",
+                  "category": "museum",
+                  "coords": [
+                        24.289444,
+                        55.101558
+                  ]
+            },
+            {
+                  "name": "Jonavos geležinkelio tilto bunkeriai",
+                  "text": "Foste buncăre de apărare lângă podul feroviar din Jonava.",
+                  "category": "fortress",
+                  "coords": [
+                        24.292671,
+                        55.07591
+                  ]
+            },
+            {
+                  "name": "Skarulių dvarvietė",
+                  "text": "Rămășițele unui conac istoric în Skaruliai, lângă Jonava.",
+                  "category": "historical",
+                  "coords": [
+                        24.318001,
+                        55.069074
+                  ]
+            },
+            {
+                  "name": "Skarulių Šv. Onos bažnyčia",
+                  "text": "Biserica Sfânta Ana din Skaruliai, un monument arhitectural important.",
+                  "category": "landmark",
+                  "coords": [
+                        24.31186,
+                        55.078695
+                  ]
+            },
+            {
+                  "name": "Atminimo parkas",
+                  "text": "Un parc în Jonava dedicat comemorării evenimentelor istorice.",
+                  "category": "park",
+                  "coords": [
+                        24.289063,
+                        55.079104
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Nerį",
+                  "text": "Un punct de belvedere cu vedere spre râul Neris în Jonava.",
+                  "category": "natural",
+                  "coords": [
+                        24.292092,
+                        55.074995
+                  ]
+            },
+            {
+                  "name": "Jonavos kultūros centras",
+                  "text": "Centrul cultural din Jonava, un loc pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        24.275043,
+                        55.074939
+                  ]
+            },
+            {
+                  "name": "Jonavos slidinėjimo centras",
+                  "text": "Un centru local de sporturi de iarnă pentru schi și snowboarding în Jonava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266612,
+                        55.077151
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jono bažnyčia",
+                  "text": "O biserică catolică și lăcaș de cult situat în orașul Jonava.",
+                  "category": "religious",
+                  "coords": [
+                        24.250485,
+                        55.074381
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jokūbo bažnyčia",
+                  "text": "O biserică catolică proeminentă și sit religios din Jonava.",
+                  "category": "religious",
+                  "coords": [
+                        24.27768,
+                        55.06943
+                  ]
+            },
+            {
+                  "name": "Taurostos tiltas",
+                  "text": "Un pod care traversează râul Neris în Jonava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315164,
+                        55.087702
+                  ]
+            },
+            {
+                  "name": "Jonavos tremtinių koplyčia",
+                  "text": "O clădire religioasă din Jonava dedicată memoriei exilaților.",
+                  "category": "religious",
+                  "coords": [
+                        24.263682,
+                        55.099013
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Laukagalių piliakalnis",
+                  "text": "An ancient hillfort near Jonava with archaeological significance.",
+                  "category": "historical",
+                  "coords": [
+                        24.303417,
+                        55.084528
+                  ]
+            },
+            {
+                  "name": "Jonavos krašto muziejus",
+                  "text": "A museum dedicated to the history and heritage of the Jonava region.",
+                  "category": "museum",
+                  "coords": [
+                        24.27936,
+                        55.073123
+                  ]
+            },
+            {
+                  "name": "Samulevičių sodyba",
+                  "text": "A museum located in the former homestead of the Samulevičius artist family.",
+                  "category": "museum",
+                  "coords": [
+                        24.289444,
+                        55.101558
+                  ]
+            },
+            {
+                  "name": "Jonavos geležinkelio tilto bunkeriai",
+                  "text": "Former defense bunkers located near the Jonava railway bridge.",
+                  "category": "fortress",
+                  "coords": [
+                        24.292671,
+                        55.07591
+                  ]
+            },
+            {
+                  "name": "Skarulių dvarvietė",
+                  "text": "The remains of a historical manor in Skaruliai near Jonava.",
+                  "category": "historical",
+                  "coords": [
+                        24.318001,
+                        55.069074
+                  ]
+            },
+            {
+                  "name": "Skaruliai St. Ann church",
+                  "text": "St. Anne's Church in Skaruliai, a significant architectural monument.",
+                  "category": "landmark",
+                  "coords": [
+                        24.31186,
+                        55.078695
+                  ]
+            },
+            {
+                  "name": "Atminimo parkas",
+                  "text": "A park in Jonava dedicated to the remembrance of historical events.",
+                  "category": "park",
+                  "coords": [
+                        24.289063,
+                        55.079104
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Nerį",
+                  "text": "A viewpoint offering views of the Neris River in Jonava.",
+                  "category": "natural",
+                  "coords": [
+                        24.292092,
+                        55.074995
+                  ]
+            },
+            {
+                  "name": "Jonavos kultūros centras",
+                  "text": "The cultural center of Jonava, a venue for concerts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        24.275043,
+                        55.074939
+                  ]
+            },
+            {
+                  "name": "Jonavos slidinėjimo centras",
+                  "text": "A local winter sports center for skiing and snowboarding in Jonava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.266612,
+                        55.077151
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jono bažnyčia",
+                  "text": "A Catholic church and place of worship located in the city of Jonava.",
+                  "category": "religious",
+                  "coords": [
+                        24.250485,
+                        55.074381
+                  ]
+            },
+            {
+                  "name": "Jonavos Šv. apaštalo Jokūbo bažnyčia",
+                  "text": "A prominent Catholic church and religious site in Jonava.",
+                  "category": "religious",
+                  "coords": [
+                        24.27768,
+                        55.06943
+                  ]
+            },
+            {
+                  "name": "Taurosta Bridge",
+                  "text": "A bridge crossing the Neris River in Jonava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.315164,
+                        55.087702
+                  ]
+            },
+            {
+                  "name": "Jonavos tremtinių koplyčia",
+                  "text": "A religious building in Jonava dedicated to the memory of exiles.",
+                  "category": "religious",
+                  "coords": [
+                        24.263682,
+                        55.099013
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Jonava", hu: "Jonava", ro: "Jonava", en: "Jonava"},
@@ -325,7 +4267,376 @@ imageHint: "Utena brewery and city park",
     },
     image: "/poi-images/lithuania-utena-cities-v2.webp",
 },  {
-    id: "lithuania-kedainiai-cities-v2",
+    id: "lithuania-kedainiai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "Regionalmuseum in Kėdainiai, das das reiche historische Erbe der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "Mausoleum der Fürsten Radziwiłł in der Krypta der evangelisch-reformierten Kirche.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "Museum in Kėdainiai mit den Meisterwerken der Holzschnitzerei von Vytautas Ulevičius.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "Kunstmuseum und Galerie in Kėdainiai mit Werken von Janina Monkutė-Marks.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "Ein markantes Minarett in Kėdainiai, das als eines der wenigen seiner Art in Litauen gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "Eine gotische Kirche in Kėdainiai, die malerisch am Ufer des Flusses Nevėžis liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "Der zentrale Stadtpark von Kėdainiai bietet Grünflächen zur Erholung auf dem Gelände eines ehemaligen Gutes.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "Eine der erhaltenen historischen Synagogen in Kėdainiai, die heute kulturellen Zwecken dient.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Kėdainiai",
+                  "text": "Eine kleine evangelisch-lutherische Kirche, die Teil des religiösen Erbes von Kėdainiai ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "Eine Fußgängerbrücke in Kėdainiai, die eine bequeme Verbindung über den Fluss bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "Kėdainiai regionális múzeuma, amely a környék gazdag történelmi örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "A Radziwiłł hercegek mauzóleuma a református templom kriptájában.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "Vytautas Ulevičius fafaragó mesterműveit bemutató múzeum Kėdainiaiban.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "Művészeti múzeum és galéria Kėdainiaiban Janina Monkutė-Marks műveivel.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "Egy jellegzetes minaret Kėdainiaiban, amely Litvánia kevés ilyen építményének egyike.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "Gótikus templom Kėdainiaiban, amely festői helyen, a Nevėžis-folyó partján található.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "Kėdainiai központi parkja zöldterületeket kínál a kikapcsolódáshoz egy egykori birtok területén.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "Kėdainiai egyik fennmaradt történelmi zsinagógája, amely ma kulturális célokat szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
+                  "text": "Egy kis evangélikus templom, amely Kėdainiai vallási örökségének része.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "Gyalogoshíd Kėdainiaiban, amely kényelmes átkelést biztosít a folyón.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "Muzeu regional din Kėdainiai care prezintă bogata moștenire istorică a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "Mausoleul prinților Radziwiłł situat în cripta bisericii evanghelice reformate.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "Muzeu din Kėdainiai care expune capodoperele de sculptură în lemn ale lui Vytautas Ulevičius.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "Muzeu de artă și galerie în Kėdainiai cu lucrări de Janina Monkutė-Marks.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "Un minaret distinctiv din Kėdainiai, fiind unul dintre puținele de acest tip din Lituania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "O biserică gotică din Kėdainiai, situată pitoresc pe malul râului Nevėžis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "Parcul central din Kėdainiai oferă spații verzi pentru recreere pe terenul unei foste moșii.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "Una dintre sinagogile istorice conservate din Kėdainiai, care astăzi servește scopurilor culturale.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
+                  "text": "O mică biserică evanghelică luterană, parte a moștenirii religioase din Kėdainiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "Un pod pietonal din Kėdainiai, care oferă o conexiune convenabilă peste râu.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kėdainių krašto muziejus",
+                  "text": "Regional museum in Kėdainiai showcasing the rich historical heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        23.978744,
+                        55.286767
+                  ]
+            },
+            {
+                  "name": "Kunigaikščių Radvilų mauzoliejus evangelikų reformatų bažnyčioje",
+                  "text": "Mausoleum of the Radziwiłł princes located in the crypt of the Reformed Church.",
+                  "category": "museum",
+                  "coords": [
+                        23.980552,
+                        55.285463
+                  ]
+            },
+            {
+                  "name": "Vytauto Ulevičiaus medžio skulptūrų muziejus",
+                  "text": "Museum in Kėdainiai displaying the wood carving masterpieces of Vytautas Ulevičius.",
+                  "category": "museum",
+                  "coords": [
+                        23.973611,
+                        55.288144
+                  ]
+            },
+            {
+                  "name": "Janinos Monkutės-Marks muziejus-galerija",
+                  "text": "Art museum and gallery in Kėdainiai featuring works by Janina Monkutė-Marks.",
+                  "category": "museum",
+                  "coords": [
+                        23.978061,
+                        55.291793
+                  ]
+            },
+            {
+                  "name": "Kėdainių minaretas",
+                  "text": "A distinctive minaret in Kėdainiai, one of the few such structures in Lithuania.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976206,
+                        55.307877
+                  ]
+            },
+            {
+                  "name": "Kėdainių Šv. Jurgio bažnyčia",
+                  "text": "A Gothic church in Kėdainiai, picturesquely situated on the banks of the Nevėžis River.",
+                  "category": "landmark",
+                  "coords": [
+                        23.986093,
+                        55.286945
+                  ]
+            },
+            {
+                  "name": "Kėdainių centrinis parkas",
+                  "text": "The central park of Kėdainiai offers green spaces for recreation on the site of a former manor.",
+                  "category": "park",
+                  "coords": [
+                        23.977522,
+                        55.302996
+                  ]
+            },
+            {
+                  "name": "Kėdainių senoji sinagoga",
+                  "text": "One of the preserved historic synagogues in Kėdainiai, now used for cultural purposes.",
+                  "category": "religious",
+                  "coords": [
+                        23.981849,
+                        55.287683
+                  ]
+            },
+            {
+                  "name": "Kėdainių evangelikų liuteronų bažnyčia",
+                  "text": "A small Evangelical Lutheran church, part of the religious heritage of Kėdainiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.970797,
+                        55.28582
+                  ]
+            },
+            {
+                  "name": "Vaivorykštės tiltas",
+                  "text": "A pedestrian bridge in Kėdainiai providing a convenient crossing over the river.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97187,
+                        55.279896
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kėdainiai", hu: "Kėdainiai", ro: "Kėdainiai", en: "Kėdainiai"},
@@ -417,7 +4728,196 @@ imageHint: "Telsiai cathedral on the hill",
     },
     image: "/poi-images/lithuania-telsiai-cities-v2.webp",
 },  {
-    id: "lithuania-visaginas-cities-v2",
+    id: "lithuania-visaginas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akvariumų salonas",
+                  "text": "Ein Museum in Visaginas, das eine Vielzahl von Fischarten in Aquarien präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.44402,
+                        55.589249
+                  ]
+            },
+            {
+                  "name": "Banga",
+                  "text": "Ein Kulturzentrum und Veranstaltungsort in der Stadt Visaginas.",
+                  "category": "cultural",
+                  "coords": [
+                        26.428516,
+                        55.595956
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kukuižės ežerą",
+                  "text": "Ein Aussichtspunkt in Visaginas mit Blick auf den malerischen Kukuižė-See.",
+                  "category": "natural",
+                  "coords": [
+                        26.411496,
+                        55.596552
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. apaštalo Pauliaus bažnyčia",
+                  "text": "Die katholische Hauptkirche von Visaginas, gewidmet dem Apostel Paulus.",
+                  "category": "religious",
+                  "coords": [
+                        26.437283,
+                        55.595964
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. kankinio Panteleimono cerkvė",
+                  "text": "Eine orthodoxe Kirche in Visaginas, benannt nach dem Heiligen Panteleimon.",
+                  "category": "religious",
+                  "coords": [
+                        26.429027,
+                        55.605395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akvariumų salonas",
+                  "text": "Múzeum Visaginasban, amely számos halfajt mutat be akváriumokban.",
+                  "category": "museum",
+                  "coords": [
+                        26.44402,
+                        55.589249
+                  ]
+            },
+            {
+                  "name": "Banga",
+                  "text": "Kulturális központ és rendezvényhelyszín Visaginas városában.",
+                  "category": "cultural",
+                  "coords": [
+                        26.428516,
+                        55.595956
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kukuižės ežerą",
+                  "text": "Kilátópont Visaginasban, ahonnan kilátás nyílik a festői Kukuižė-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        26.411496,
+                        55.596552
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. apaštalo Pauliaus bažnyčia",
+                  "text": "Visaginas fő katolikus temploma, amelyet Pál apostolnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        26.437283,
+                        55.595964
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. kankinio Panteleimono cerkvė",
+                  "text": "Szent Panteleimonról elnevezett ortodox templom Visaginasban.",
+                  "category": "religious",
+                  "coords": [
+                        26.429027,
+                        55.605395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akvariumų salonas",
+                  "text": "Un muzeu din Visaginas care prezintă o varietate de specii de pești în acvarii.",
+                  "category": "museum",
+                  "coords": [
+                        26.44402,
+                        55.589249
+                  ]
+            },
+            {
+                  "name": "Banga",
+                  "text": "Un centru cultural și loc de evenimente din orașul Visaginas.",
+                  "category": "cultural",
+                  "coords": [
+                        26.428516,
+                        55.595956
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kukuižės ežerą",
+                  "text": "Un punct de observare din Visaginas cu vedere spre pitorescul lac Kukuižė.",
+                  "category": "natural",
+                  "coords": [
+                        26.411496,
+                        55.596552
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. apaštalo Pauliaus bažnyčia",
+                  "text": "Biserica catolică principală din Visaginas, dedicată Apostolului Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        26.437283,
+                        55.595964
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. kankinio Panteleimono cerkvė",
+                  "text": "O biserică ortodoxă din Visaginas, numită după Sfântul Panteleimon.",
+                  "category": "religious",
+                  "coords": [
+                        26.429027,
+                        55.605395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akvariumų salonas",
+                  "text": "A museum in Visaginas presenting a variety of fish species in aquariums.",
+                  "category": "museum",
+                  "coords": [
+                        26.44402,
+                        55.589249
+                  ]
+            },
+            {
+                  "name": "Banga",
+                  "text": "A cultural center and event venue in the city of Visaginas.",
+                  "category": "cultural",
+                  "coords": [
+                        26.428516,
+                        55.595956
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Kukuižės ežerą",
+                  "text": "A viewpoint in Visaginas offering a view over the scenic Lake Kukuižė.",
+                  "category": "natural",
+                  "coords": [
+                        26.411496,
+                        55.596552
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. apaštalo Pauliaus bažnyčia",
+                  "text": "The main Catholic church of Visaginas, dedicated to Saint Paul the Apostle.",
+                  "category": "religious",
+                  "coords": [
+                        26.437283,
+                        55.595964
+                  ]
+            },
+            {
+                  "name": "Visagino Šv. kankinio Panteleimono cerkvė",
+                  "text": "An Orthodox church in Visaginas named after Saint Panteleimon.",
+                  "category": "religious",
+                  "coords": [
+                        26.429027,
+                        55.605395
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Visaginas", hu: "Visaginas", ro: "Visaginas", en: "Visaginas"},
@@ -463,7 +4963,448 @@ imageHint: "Visaginas modern apartment buildings in forest",
     },
     image: "/poi-images/lithuania-visaginas-cities-v2.webp",
 },  {
-    id: "lithuania-taurage-cities-v2",
+    id: "lithuania-taurage-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "Ein ehemaliges Zollgebäude im Stil einer Burg, das heute das Regionalmuseum von Tauragė beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "Ein beliebter Strandbereich in Tauragė, der zur Erholung am Wasser einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "Ein lokales Kulturzentrum in Tauragė, das verschiedene Veranstaltungen und Aktivitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "Ein Freizeitbereich in Tauragė mit Angeboten für Wassersport und Erholung.",
+                  "category": "recreational",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "Das zentrale Kulturhaus der Stadt Tauragė für Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "Eine Freilichtbühne in Tauragė, die im Sommer als Veranstaltungsort für Konzerte dient.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "Ein aktiver Park in Tauragė mit Kletterparcours und verschiedenen Outdoor-Attraktionen.",
+                  "category": "recreational",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "Ein Denkmal in Tauragė zum Gedenken an die Teilnehmer des Aufstands von 1927.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "Ein Aussichtspunkt in Tauragė, der einen weiten Blick über das Tal des Flusses Jūra bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Tauragė Martynas Mažvydas",
+                  "text": "Eine lutherische Kirche in Tauragė, benannt nach dem Verfasser des ersten litauischen Buches.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "Eine orthodoxe Kirche in Tauragė, die den Märtyrern von Vilnius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "Die katholische Hauptkirche von Tauragė, ein markantes sakrales Bauwerk der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "Egy vár stílusú egykori vámszoba, amely ma a Tauragėi Regionális Múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "Népszerű strandterület Tauragėban, amely vízparti kikapcsolódásra hív.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "Helyi kulturális központ Tauragėban, amely különféle rendezvényeknek és tevékenységeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "Szabadidős terület Tauragėban, vízi sportolási és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "Tauragė város központi kultúrháza színházi előadásokhoz és koncertekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "Szabadtéri színpad Tauragėban, amely nyáron koncertek helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "Aktív park Tauragėban mászópályákkal és különféle szabadtéri attrakciókkal.",
+                  "category": "recreational",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "Emlékmű Tauragėban az 1927-es felkelés résztvevőinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "Kilátópálya Tauragėban, ahonnan széles kilátás nyílik a Jūra-folyó völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom Tauragėban, az első litván könyv szerzőjéről elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "Ortodox templom Tauragėban, amelyet a vilniusi vértanúknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "Tauragė fő katolikus temploma, a város egyik jellegzetes szakrális építménye.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "O fostă clădire vamală în stil de castel, care astăzi găzduiește muzeul regional din Tauragė.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "O zonă de plajă populară din Tauragė, care invită la recreere pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "Un centru cultural local din Tauragė, care oferă diverse evenimente și activități.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "O zonă de agrement din Tauragė cu facilități pentru sporturi nautice și recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "Casa centrală de cultură a orașului Tauragė pentru spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "O scenă în aer liber din Tauragė, care servește ca loc de desfășurare a concertelor pe timp de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "Un parc activ din Tauragė cu trasee de cățărare și diverse atracții în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "Un monument în Tauragė dedicat memoriei participanților la revolta din 1927.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "Un punct de observare din Tauragė care oferă o vedere panoramică asupra văii râului Jūra.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia",
+                  "text": "O biserică luterană din Tauragė, numită după autorul primei cărți lituaniene.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "O biserică ortodoxă din Tauragė, dedicată martirilor din Vilnius.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "Biserica catolică principală din Tauragė, un edificiu sacru proeminent al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tauragės pilis",
+                  "text": "A former customs building designed in the style of a castle, now housing the Tauragė Regional Museum.",
+                  "category": "castle",
+                  "coords": [
+                        22.284224,
+                        55.252662
+                  ]
+            },
+            {
+                  "name": "Keramikos Pliažas",
+                  "text": "A popular beach area in Tauragė, inviting relaxation by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        22.316327,
+                        55.245517
+                  ]
+            },
+            {
+                  "name": "Taurų Kultūros namai",
+                  "text": "A local cultural center in Tauragė offering various events and activities.",
+                  "category": "cultural",
+                  "coords": [
+                        22.251258,
+                        55.241276
+                  ]
+            },
+            {
+                  "name": "Liberty Beach",
+                  "text": "A recreational area in Tauragė with facilities for water sports and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        22.318162,
+                        55.23779
+                  ]
+            },
+            {
+                  "name": "Tauragės kultūros rūmai",
+                  "text": "The central cultural house of Tauragė for theater performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        22.282762,
+                        55.251639
+                  ]
+            },
+            {
+                  "name": "Tauragės Vasaros estrada",
+                  "text": "An open-air stage in Tauragė that serves as a venue for concerts during the summer.",
+                  "category": "cultural",
+                  "coords": [
+                        22.279677,
+                        55.244283
+                  ]
+            },
+            {
+                  "name": "Taurų nuotykių parkas",
+                  "text": "An active park in Tauragė featuring climbing courses and various outdoor attractions.",
+                  "category": "recreational",
+                  "coords": [
+                        22.251005,
+                        55.233816
+                  ]
+            },
+            {
+                  "name": "1927 Metų sukilimo dalyviams",
+                  "text": "A monument in Tauragė commemorating the participants of the 1927 uprising.",
+                  "category": "historical",
+                  "coords": [
+                        22.270505,
+                        55.258744
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Jūros upės slėnį",
+                  "text": "A viewpoint in Tauragė offering a wide vista over the valley of the Jūra River.",
+                  "category": "natural",
+                  "coords": [
+                        22.283714,
+                        55.247794
+                  ]
+            },
+            {
+                  "name": "Tauragės Martyno Mažvydo evangelikų liuteronų bažnyčia",
+                  "text": "A Lutheran church in Tauragė named after the author of the first Lithuanian book.",
+                  "category": "religious",
+                  "coords": [
+                        22.290874,
+                        55.252393
+                  ]
+            },
+            {
+                  "name": "Tauragės Šv. Vilniaus kankinių Antano, Jono ir Eustafijaus cerkvė",
+                  "text": "An Orthodox church in Tauragė dedicated to the martyrs of Vilnius.",
+                  "category": "religious",
+                  "coords": [
+                        22.292895,
+                        55.240785
+                  ]
+            },
+            {
+                  "name": "Tauragės Švč. Trejybės bažnyčia",
+                  "text": "The main Catholic church of Tauragė, a prominent sacred building in the city.",
+                  "category": "religious",
+                  "coords": [
+                        22.284273,
+                        55.249103
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Tauragė", hu: "Tauragė", ro: "Tauragė", en: "Tauragė"},
@@ -509,7 +5450,304 @@ imageHint: "Taurage castle and museum",
     },
     image: "/poi-images/lithuania-taurage-cities-v2.webp",
 },  {
-    id: "lithuania-ukmerge-cities-v2",
+    id: "lithuania-ukmerge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "Ein historischer Burgberg und eine archäologische Stätte in der Stadt Ukmergė.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "Ein Regionalmuseum in Ukmergė, das die lokale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "Ein Naturpfad im Pivonija-Wald, der für Gesundheit und Erholung angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "Ein Ort für Kunst, Aufführungen und kulturelle Veranstaltungen in Ukmergė.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "Eine historische katholische Kirche und ein Ort des Gebets in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "Eine religiöse Stätte und ein Ort des Gebets in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "Eine orthodoxe Kirche und ein religiöses Gebäude in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "Eine Kapelle auf dem Friedhof von Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "Történelmi várhely és régészeti lelőhely Ukmergė városában.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "Ukmergėi helytörténeti múzeum, amely a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "Természeti ösvény a Pivonija-erdőben, amelyet egészségmegőrzésre és kikapcsolódásra terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "Művészeti, előadói és kulturális események helyszíne Ukmergében.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "Történelmi katolikus templom és vallási helyszín Ukmergében.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "Vallási helyszín és templom Ukmergében.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "Ortodox templom és vallási épület Ukmergében.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "Az ukmergėi temetőben található kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "Un sit arheologic și o fortificație istorică în orașul Ukmergė.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "Un muzeu regional din Ukmergė care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "Un traseu natural în pădurea Pivonija, conceput pentru sănătate și recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "Un loc pentru arte, spectacole și evenimente culturale în Ukmergė.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "O biserică catolică istorică și lăcaș de cult în Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "Un sit religios și lăcaș de cult în Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "O biserică ortodoxă și clădire religioasă în Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "O capelă situată în incinta cimitirului din Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "A historical hillfort and archaeological site in the town of Ukmergė.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "A regional museum in Ukmergė showcasing local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "A nature trail in the Pivonija forest designed for health and recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "A venue for arts, performances, and cultural events in Ukmergė.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "A historic Catholic church and place of worship in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "A religious site and place of worship in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "An Orthodox church and religious building in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "A chapel located within the cemetery of Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Ukmergė", hu: "Ukmergė", ro: "Ukmergė", en: "Ukmergė"},
@@ -555,7 +5793,340 @@ imageHint: "Ukmerge hillfort and old town",
     },
     image: "/poi-images/lithuania-ukmerge-cities-v2.webp",
 },  {
-    id: "lithuania-plunge-cities-v2",
+    id: "lithuania-plunge-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "Ein historischer Burghügel in der Nähe von Plungė mit Überresten alter Befestigungen.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "Ein archäologisches Denkmal in Plungė, das auf eine frühe Besiedlung der Region hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "Ein Museum im Schloss von Plungė, das die Kunst und Kultur Schamaitens präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "Ein Schulmuseum in Plungė, das sich mit Regionalgeschichte und Ethnographie befasst.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "Ein Veranstaltungsort im Freien im Babrungas-Tal bei Plungė für Feste und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "Eine religiöse Stätte in Plungė, die der Grotte von Lourdes nachempfunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "Eine beeindruckende alte Eiche im Park von Plungė, die mit litauischen Legenden verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Eine markante neogotische Kirche in Plungė, die Johannes dem Täufer geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "Eine historische Kapelle in Plungė, die sich auf dem örtlichen Friedhof befindet.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "Történelmi várhalom Plungė közelében, ősi erődítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "Régészeti emlékhely Plungėben, amely a régió korai betelepülésére utal.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "A plungėi kastélyban található múzeum, amely Szamogitia művészetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "Iskolai múzeum Plungėben, amely helytörténettel és néprajzzal foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "Szabadtéri rendezvényhelyszín a Plungė melletti Babrungas-völgyben fesztiválok és koncertek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "A lourdes-i barlang mintájára kialakított vallási helyszín Plungėben.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "Lenyűgöző öreg tölgyfa a plungėi parkban, amely litván legendákhoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Jellegzetes neogótikus templom Plungėben, Keresztelő Szent Jánosnak szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "Történelmi kápolna Plungėben, amely a helyi temetőben található.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "O movilă fortificată istorică lângă Plungė, cu resturi ale unor fortificații vechi.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "Un monument arheologic din Plungė, care atestă așezarea timpurie a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "Un muzeu situat în conacul din Plungė, care prezintă arta și cultura din Samogitia.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "Un muzeu școlar din Plungė care se ocupă cu istoria regională și etnografia.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "Un loc de evenimente în aer liber în valea Babrungas de lângă Plungė pentru festivaluri și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "Un sit religios din Plungė, creat după modelul grotei de la Lourdes.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "Un stejar vechi impresionant în parcul din Plungė, legat de legende lituaniene.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "O biserică neogotică impunătoare din Plungė, închinată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "O capelă istorică din Plungė, situată în cimitirul local.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "A historical hillfort near Plungė with remains of ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "An archaeological monument in Plungė indicating early settlement of the region.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "A museum located in the Plungė manor, presenting the art and culture of Samogitia.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "A school museum in Plungė focusing on regional history and ethnography.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "An outdoor venue in the Babrungas valley near Plungė for festivals and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "A religious site in Plungė modeled after the Lourdes grotto.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "An impressive old oak tree in the Plungė park, associated with Lithuanian legends.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A striking Neo-Gothic church in Plungė dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "A historical chapel in Plungė located within the local cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Plungė", hu: "Plungė", ro: "Plungė", en: "Plungė"},
@@ -601,7 +6172,232 @@ imageHint: "Plunge Oginski palace and park",
     },
     image: "/poi-images/lithuania-plunge-cities-v2.webp",
 },  {
-    id: "lithuania-kretinga-cities-v2",
+    id: "lithuania-kretinga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kretinga-Museum",
+                  "text": "Das Museum von Kretinga ist bekannt für seinen beeindruckenden Wintergarten in der Schlossanlage.",
+                  "category": "museum",
+                  "coords": [
+                        21.248908,
+                        55.899923
+                  ]
+            },
+            {
+                  "name": "Atžalynas",
+                  "text": "Ein lokales Theater in Kretinga, das kulturelle Aufführungen für die Gemeinde bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        21.246129,
+                        55.891755
+                  ]
+            },
+            {
+                  "name": "Kretingos, Padvarių kapinynas",
+                  "text": "Eine bedeutende archäologische Stätte bei Kretinga mit antiken Bestattungsplätzen.",
+                  "category": "historical",
+                  "coords": [
+                        21.248081,
+                        55.900935
+                  ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "Eine religiöse Grotte in Kretinga, die der Marienerscheinung von Lourdes nachempfunden ist.",
+                  "category": "natural",
+                  "coords": [
+                        21.243535,
+                        55.892702
+                  ]
+            },
+            {
+                  "name": "Kretingos vandens malūnas",
+                  "text": "Eine historische Wassermühle in Kretinga, die heute eine interessante Sehenswürdigkeit darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.237361,
+                        55.886975
+                  ]
+            },
+            {
+                  "name": "Evangelisch-lutherische Kirche Kretinga",
+                  "text": "Ein kleines lutherisches Gotteshaus, das die Vielfalt der Konfessionen in Kretinga zeigt.",
+                  "category": "religious",
+                  "coords": [
+                        21.243221,
+                        55.888415
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kretingos muziejus",
+                  "text": "A kretingai múzeum a kastélyegyüttesben található lenyűgöző télikertjéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        21.248908,
+                        55.899923
+                  ]
+            },
+            {
+                  "name": "Atžalynas",
+                  "text": "Helyi színház Kretingában, amely kulturális előadásokat kínál a közösségnek.",
+                  "category": "cultural",
+                  "coords": [
+                        21.246129,
+                        55.891755
+                  ]
+            },
+            {
+                  "name": "Kretingos, Padvarių kapinynas",
+                  "text": "Jelentős régészeti lelőhely Kretinga közelében ősi temetkezési helyekkel.",
+                  "category": "historical",
+                  "coords": [
+                        21.248081,
+                        55.900935
+                  ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "Vallási barlang Kretingában, amelyet a lourdes-i Mária-jelenés mintájára alakítottak ki.",
+                  "category": "natural",
+                  "coords": [
+                        21.243535,
+                        55.892702
+                  ]
+            },
+            {
+                  "name": "Kretingos vandens malūnas",
+                  "text": "Történelmi vízimalom Kretingában, amely ma érdekes látnivaló.",
+                  "category": "landmark",
+                  "coords": [
+                        21.237361,
+                        55.886975
+                  ]
+            },
+            {
+                  "name": "Kretingos evangelikų liuteronų bažnyčia",
+                  "text": "Kis evangélikus templom, amely Kretinga felekezeti sokszínűségét mutatja.",
+                  "category": "religious",
+                  "coords": [
+                        21.243221,
+                        55.888415
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kretingos muziejus",
+                  "text": "Muzeul din Kretinga este cunoscut pentru grădina sa de iarnă impresionantă din incinta castelului.",
+                  "category": "museum",
+                  "coords": [
+                        21.248908,
+                        55.899923
+                  ]
+            },
+            {
+                  "name": "Atžalynas",
+                  "text": "Un teatru local din Kretinga, care oferă spectacole culturale pentru comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        21.246129,
+                        55.891755
+                  ]
+            },
+            {
+                  "name": "Kretingos, Padvarių kapinynas",
+                  "text": "Un sit arheologic important lângă Kretinga, cuprinzând locuri de înmormântare antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.248081,
+                        55.900935
+                  ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "O grotă religioasă din Kretinga, creată după modelul apariției mariane de la Lourdes.",
+                  "category": "natural",
+                  "coords": [
+                        21.243535,
+                        55.892702
+                  ]
+            },
+            {
+                  "name": "Kretingos vandens malūnas",
+                  "text": "O moară de apă istorică din Kretinga, care reprezintă astăzi o atracție interesantă.",
+                  "category": "landmark",
+                  "coords": [
+                        21.237361,
+                        55.886975
+                  ]
+            },
+            {
+                  "name": "Kretingos evangelikų liuteronų bažnyčia",
+                  "text": "Un mic lăcaș de cult luteran, care reflectă diversitatea confesiunilor din Kretinga.",
+                  "category": "religious",
+                  "coords": [
+                        21.243221,
+                        55.888415
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kretingos muziejus",
+                  "text": "Kretinga Museum is well-known for its impressive Winter Garden located within the manor complex.",
+                  "category": "museum",
+                  "coords": [
+                        21.248908,
+                        55.899923
+                  ]
+            },
+            {
+                  "name": "Atžalynas",
+                  "text": "A local theatre in Kretinga providing cultural performances for the community.",
+                  "category": "cultural",
+                  "coords": [
+                        21.246129,
+                        55.891755
+                  ]
+            },
+            {
+                  "name": "Kretingos, Padvarių kapinynas",
+                  "text": "A significant archaeological site near Kretinga featuring ancient burial grounds.",
+                  "category": "historical",
+                  "coords": [
+                        21.248081,
+                        55.900935
+                  ]
+            },
+            {
+                  "name": "Lurdas",
+                  "text": "A religious grotto in Kretinga modeled after the Marian apparition of Lourdes.",
+                  "category": "natural",
+                  "coords": [
+                        21.243535,
+                        55.892702
+                  ]
+            },
+            {
+                  "name": "Kretingos vandens malūnas",
+                  "text": "A historic water mill in Kretinga that stands as an interesting local attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        21.237361,
+                        55.886975
+                  ]
+            },
+            {
+                  "name": "Kretingos evangelikų liuteronų bažnyčia",
+                  "text": "A small Lutheran place of worship reflecting the diversity of denominations in Kretinga.",
+                  "category": "religious",
+                  "coords": [
+                        21.243221,
+                        55.888415
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kretinga", hu: "Kretinga", ro: "Kretinga", en: "Kretinga"},
@@ -647,7 +6443,412 @@ imageHint: "Kretinga manor and winter garden",
     },
     image: "/poi-images/lithuania-kretinga-cities-v2.webp",
 },  {
-    id: "lithuania-silute-cities-v2",
+    id: "lithuania-silute-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šilutės Hugo Šojaus muziejus",
+                  "text": "Ein Museum in Šilutė, das dem Erbe des Gutshofs von Hugo Scheu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.459917,
+                        55.340879
+                  ]
+            },
+            {
+                  "name": "Sudermann Museum",
+                  "text": "Ein Museum in Šilutė, das dem Schriftsteller Hermann Sudermann gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.512564,
+                        55.351037
+                  ]
+            },
+            {
+                  "name": "Šilutės geležinkelio tiltas",
+                  "text": "Eine historische Eisenbahnbrücke, die als Wahrzeichen in Šilutė dient.",
+                  "category": "landmark",
+                  "coords": [
+                        21.492591,
+                        55.340881
+                  ]
+            },
+            {
+                  "name": "Šilutės kultūros centras",
+                  "text": "Ein Zentrum für lokale Kunst, Aufführungen und Gemeinschaftsveranstaltungen in Šilutė.",
+                  "category": "cultural",
+                  "coords": [
+                        21.46145,
+                        55.340772
+                  ]
+            },
+            {
+                  "name": "Heydekrug mauer",
+                  "text": "Eine historische Mauer und eine lokale Sehenswürdigkeit in Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.459975,
+                        55.344261
+                  ]
+            },
+            {
+                  "name": "Evangelisch-lutherische Kirche Šilutė",
+                  "text": "Eine evangelisch-lutherische Kirche und religiöse Stätte in Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.46693,
+                        55.34273
+                  ]
+            },
+            {
+                  "name": "Šilutės Šv. Kryžiaus bažnyčia",
+                  "text": "Eine katholische Kirche und ein Ort des Gebets in Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.486097,
+                        55.343988
+                  ]
+            },
+            {
+                  "name": "Šilutės Naujoji Apaštalų bažnyčia",
+                  "text": "Eine Neuapostolische Kirche, die der Gemeinde in Šilutė dient.",
+                  "category": "religious",
+                  "coords": [
+                        21.470195,
+                        55.344308
+                  ]
+            },
+            {
+                  "name": "Šilutės evangelikų baptistų bažnyčia",
+                  "text": "Eine evangelisch-baptistische Kirche und ein Ort des Gebets in Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.48175,
+                        55.345871
+                  ]
+            },
+            {
+                  "name": "Šlažų tiltas",
+                  "text": "Eine bemerkenswerte historische Brücke in der Nähe von Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.454199,
+                        55.323164
+                  ]
+            },
+            {
+                  "name": "Verdainės tiltas",
+                  "text": "Eine Brücke im Stadtteil Verdainė von Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.494472,
+                        55.343928
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šilutės Hugo Šojaus muziejus",
+                  "text": "Šilutėi múzeum, amely Hugo Scheu birtokának örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.459917,
+                        55.340879
+                  ]
+            },
+            {
+                  "name": "Zudermano muziejus",
+                  "text": "Šilutėi múzeum, amely Hermann Sudermann írónak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        21.512564,
+                        55.351037
+                  ]
+            },
+            {
+                  "name": "Šilutės geležinkelio tiltas",
+                  "text": "Történelmi vasúti híd, amely Šilutė egyik jellegzetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        21.492591,
+                        55.340881
+                  ]
+            },
+            {
+                  "name": "Šilutės kultūros centras",
+                  "text": "A helyi művészetek, előadások és közösségi események központja Šilutében.",
+                  "category": "cultural",
+                  "coords": [
+                        21.46145,
+                        55.340772
+                  ]
+            },
+            {
+                  "name": "Šilutės siena",
+                  "text": "Történelmi fal és helyi érdekesség Šilutében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.459975,
+                        55.344261
+                  ]
+            },
+            {
+                  "name": "Šilutės evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom és vallási helyszín Šilutében.",
+                  "category": "religious",
+                  "coords": [
+                        21.46693,
+                        55.34273
+                  ]
+            },
+            {
+                  "name": "Šilutės Šv. Kryžiaus bažnyčia",
+                  "text": "Katolikus templom és vallási helyszín Šilutében.",
+                  "category": "religious",
+                  "coords": [
+                        21.486097,
+                        55.343988
+                  ]
+            },
+            {
+                  "name": "Šilutės Naujoji Apaštalų bažnyčia",
+                  "text": "Új Apostoli Egyház temploma Šilutében.",
+                  "category": "religious",
+                  "coords": [
+                        21.470195,
+                        55.344308
+                  ]
+            },
+            {
+                  "name": "Šilutės evangelikų baptistų bažnyčia",
+                  "text": "Baptista templom és vallási helyszín Šilutében.",
+                  "category": "religious",
+                  "coords": [
+                        21.48175,
+                        55.345871
+                  ]
+            },
+            {
+                  "name": "Šlažų tiltas",
+                  "text": "Nevezetes történelmi híd Šilutė környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        21.454199,
+                        55.323164
+                  ]
+            },
+            {
+                  "name": "Verdainės tiltas",
+                  "text": "Híd Šilutė Verdainė városrészében.",
+                  "category": "landmark",
+                  "coords": [
+                        21.494472,
+                        55.343928
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šilutės Hugo Šojaus muziejus",
+                  "text": "Un muzeu din Šilutė dedicat moștenirii domeniului Hugo Scheu.",
+                  "category": "museum",
+                  "coords": [
+                        21.459917,
+                        55.340879
+                  ]
+            },
+            {
+                  "name": "Zudermano muziejus",
+                  "text": "Un muzeu din Šilutė care îl comemorează pe scriitorul Hermann Sudermann.",
+                  "category": "museum",
+                  "coords": [
+                        21.512564,
+                        55.351037
+                  ]
+            },
+            {
+                  "name": "Šilutės geležinkelio tiltas",
+                  "text": "Un pod feroviar istoric care servește drept punct de reper în Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.492591,
+                        55.340881
+                  ]
+            },
+            {
+                  "name": "Šilutės kultūros centras",
+                  "text": "Un centru pentru arte locale, spectacole și evenimente comunitare în Šilutė.",
+                  "category": "cultural",
+                  "coords": [
+                        21.46145,
+                        55.340772
+                  ]
+            },
+            {
+                  "name": "Šilutės siena",
+                  "text": "Un zid istoric și un punct de interes local în Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.459975,
+                        55.344261
+                  ]
+            },
+            {
+                  "name": "Šilutės evangelikų liuteronų bažnyčia",
+                  "text": "O biserică evanghelică luterană și sit religios în Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.46693,
+                        55.34273
+                  ]
+            },
+            {
+                  "name": "Šilutės Šv. Kryžiaus bažnyčia",
+                  "text": "O biserică catolică și lăcaș de cult în Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.486097,
+                        55.343988
+                  ]
+            },
+            {
+                  "name": "Šilutės Naujoji Apaštalų bažnyčia",
+                  "text": "O biserică Nouapostolică care deservește comunitatea din Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.470195,
+                        55.344308
+                  ]
+            },
+            {
+                  "name": "Šilutės evangelikų baptistų bažnyčia",
+                  "text": "O biserică evanghelică baptistă și lăcaș de cult în Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.48175,
+                        55.345871
+                  ]
+            },
+            {
+                  "name": "Šlažų tiltas",
+                  "text": "Un pod istoric remarcabil în apropiere de Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.454199,
+                        55.323164
+                  ]
+            },
+            {
+                  "name": "Verdainės tiltas",
+                  "text": "Un pod în zona Verdainė din Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.494472,
+                        55.343928
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šilutė Hugo Scheu museum",
+                  "text": "A museum in Šilutė dedicated to the heritage of the Hugo Scheu estate.",
+                  "category": "museum",
+                  "coords": [
+                        21.459917,
+                        55.340879
+                  ]
+            },
+            {
+                  "name": "Zudermano muziejus",
+                  "text": "A museum in Šilutė commemorating the writer Hermann Sudermann.",
+                  "category": "museum",
+                  "coords": [
+                        21.512564,
+                        55.351037
+                  ]
+            },
+            {
+                  "name": "Šilutės geležinkelio tiltas",
+                  "text": "A historical railway bridge serving as a landmark in Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.492591,
+                        55.340881
+                  ]
+            },
+            {
+                  "name": "Šilutės kultūros centras",
+                  "text": "A hub for local arts, performances, and community events in Šilutė.",
+                  "category": "cultural",
+                  "coords": [
+                        21.46145,
+                        55.340772
+                  ]
+            },
+            {
+                  "name": "Silute Wall",
+                  "text": "A historical wall and local point of interest in Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.459975,
+                        55.344261
+                  ]
+            },
+            {
+                  "name": "Šilutės evangelikų liuteronų bažnyčia",
+                  "text": "An Evangelical Lutheran church and religious site in Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.46693,
+                        55.34273
+                  ]
+            },
+            {
+                  "name": "Šilutės Šv. Kryžiaus bažnyčia",
+                  "text": "A Catholic church and place of worship in Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.486097,
+                        55.343988
+                  ]
+            },
+            {
+                  "name": "Šilutės Naujoji Apaštalų bažnyčia",
+                  "text": "A New Apostolic church serving the community in Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.470195,
+                        55.344308
+                  ]
+            },
+            {
+                  "name": "Šilutės evangelikų baptistų bažnyčia",
+                  "text": "An Evangelical Baptist church and place of worship in Šilutė.",
+                  "category": "religious",
+                  "coords": [
+                        21.48175,
+                        55.345871
+                  ]
+            },
+            {
+                  "name": "Šlažų tiltas",
+                  "text": "A notable historical bridge in the vicinity of Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.454199,
+                        55.323164
+                  ]
+            },
+            {
+                  "name": "Verdainės tiltas",
+                  "text": "A bridge in the Verdainė area of Šilutė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.494472,
+                        55.343928
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Šilutė", hu: "Šilutė", ro: "Šilutė", en: "Šilutė"},
@@ -693,7 +6894,304 @@ imageHint: "Silute old post office and canal",
     },
     image: "/poi-images/lithuania-silute-cities-v2.webp",
 },  {
-    id: "lithuania-radviliskis-cities-v2",
+    id: "lithuania-radviliskis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Senas traukinio vagonas",
+                  "text": "Ein historischer Eisenbahnwaggon, der in Radviliškis als Museumsstück ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "Ein Aussichtsturm in Radviliškis, der einen Blick auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "Ein spezieller Vogelbeobachtungsturm in der Gegend von Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Garvežys",
+                  "text": "Eine historische Dampflokomotive, die in Radviliškis als Denkmal ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "Eine Außenattraktion mit einem Baum- oder Heckenlabyrinth in Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "Eine Altgläubigen-Kirche in Radviliškis, die den Heiligen Petrus und Paulus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Radviliškis",
+                  "text": "Die örtliche evangelisch-lutherische Kirche der Gemeinde Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "Eine katholische Kirche in Radviliškis, die der Geburt der seligen Jungfrau Maria geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Senas traukinio vagonas",
+                  "text": "Radviliškisben kiállított történelmi vasúti kocsi.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "Kilátótorony, amely kilátást nyújt a környékre Radviliškisben.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "Madármegfigyelő torony Radviliškis környékén.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Garvežys",
+                  "text": "Emlékműként kiállított régi gőzmozdony Radviliškisben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "Kültéri falabirintus Radviliškisben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "Szent Péternek és Pálnak szentelt óhitű templom Radviliškisben.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Radviliškio evangelikų liuteronų bažnyčia",
+                  "text": "Radviliškis közösségét szolgáló helyi evangélikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "Szűz Mária születésének szentelt katolikus templom Radviliškisben.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Senas traukinio vagonas",
+                  "text": "Un vagon de cale ferată istoric expus în Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "Un turn de observare care oferă priveliști asupra peisajului înconjurător din Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "Un turn specializat pentru observarea păsărilor situat în zona Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Garvežys",
+                  "text": "O locomotivă cu abur de epocă expusă ca monument în Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "O atracție în aer liber reprezentată de un labirint de copaci în Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "O biserică de rit vechi din Radviliškis, dedicată Sfinților Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Radviliškio evangelikų liuteronų bažnyčia",
+                  "text": "Biserica evanghelică luterană locală care deservește orașul Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "O biserică catolică din Radviliškis dedicată Nașterii Sfintei Fecioare Maria.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old rail coach",
+                  "text": "A historical railway passenger carriage exhibited in Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "An observation tower offering views of the surrounding landscape in Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "A specialized birdwatching tower located in the Radviliškis area.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Steam locomotive",
+                  "text": "A vintage steam locomotive displayed as a monument in Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "An outdoor tree maze attraction in Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "An Old Believers' church in Radviliškis dedicated to St. Peter and St. Paul.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Radviliškio evangelikų liuteronų bažnyčia",
+                  "text": "The local Evangelical Lutheran church serving the community of Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "A Catholic church in Radviliškis dedicated to the Nativity of the Blessed Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Radviliškis", hu: "Radviliškis", ro: "Radviliškis", en: "Radviliškis"},
@@ -739,7 +7237,988 @@ imageHint: "Radviliskis railway station and locomotive",
     },
     image: "/poi-images/lithuania-radviliskis-cities-v2.webp",
 },  {
-    id: "lithuania-palanga-cities-v2",
+    id: "lithuania-palanga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naglio kalnas",
+                  "text": "Eine hohe Düne in Palanga, die mit lokalen Legenden und archäologischen Funden verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.062222,
+                        55.932662
+                  ]
+            },
+            {
+                  "name": "Palangos piliakalnis",
+                  "text": "Ein historischer Burgberg an der Küste von Palanga, der von alter Besiedlung zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        21.053014,
+                        55.905556
+                  ]
+            },
+            {
+                  "name": "Gintaro muziejus",
+                  "text": "Das weltbekannte Bernsteinmuseum in Palanga präsentiert eine riesige Sammlung im Tiškevičiai-Palast.",
+                  "category": "museum",
+                  "coords": [
+                        21.05577,
+                        55.906828
+                  ]
+            },
+            {
+                  "name": "Iliuzijų namai „Eureka“",
+                  "text": "Ein interaktives Museum der Illusionen in Palanga, das Unterhaltung für die ganze Familie bietet.",
+                  "category": "museum",
+                  "coords": [
+                        21.060851,
+                        55.918273
+                  ]
+            },
+            {
+                  "name": "Antano Mončio namai-muziejus",
+                  "text": "Ein Museum in Palanga, das dem Leben und Werk des Bildhauers Antanas Mončys gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.059214,
+                        55.91392
+                  ]
+            },
+            {
+                  "name": "Dr. Jono Šliūpo memorialinė sodyba",
+                  "text": "Ein Gedenkhaus in Palanga for den Arzt und Publizisten Jonas Šliūpas, eine bedeutende Persönlichkeit Litauens.",
+                  "category": "museum",
+                  "coords": [
+                        21.061243,
+                        55.911771
+                  ]
+            },
+            {
+                  "name": "Šunų muziejus",
+                  "text": "Ein einzigartiges Privatmuseum in Palanga mit einer Sammlung von Hundefiguren aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        21.083586,
+                        55.917027
+                  ]
+            },
+            {
+                  "name": "Insektariumas",
+                  "text": "Ein spezialisiertes Museum in Palanga, das sich der faszinierenden Welt der Insekten und Spinnentiere widmet.",
+                  "category": "museum",
+                  "coords": [
+                        21.075801,
+                        55.92085
+                  ]
+            },
+            {
+                  "name": "Palangos kurorto muziejus",
+                  "text": "Dieses Museum in der Villa Anapilis zeigt die Entwicklung von Palanga zum bedeutenden Kurort.",
+                  "category": "museum",
+                  "coords": [
+                        21.055833,
+                        55.918221
+                  ]
+            },
+            {
+                  "name": "Palangos koncertų salė",
+                  "text": "Ein moderner Veranstaltungsort in Palanga für hochkarätige Konzerte und kulturelle Events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.063451,
+                        55.915606
+                  ]
+            },
+            {
+                  "name": "Palangos tiltas",
+                  "text": "Die berühmte Seebrücke von Palanga führt weit in die Ostsee und ist ein Wahrzeichen des Ortes.",
+                  "category": "natural",
+                  "coords": [
+                        21.050347,
+                        55.919882
+                  ]
+            },
+            {
+                  "name": "Vaidilutės vaizdas į jūrą",
+                  "text": "Ein schöner Aussichtspunkt im Birutė-Park mit Blick auf den Ostseestrand von Palanga.",
+                  "category": "natural",
+                  "coords": [
+                        21.050866,
+                        55.906468
+                  ]
+            },
+            {
+                  "name": "Žemaičių kalnelis",
+                  "text": "Ein ritueller Ort in Palanga mit modernen Holzskulpturen, der an heidnische Traditionen erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.056115,
+                        55.904925
+                  ]
+            },
+            {
+                  "name": "Palangos Stasio Vainiūno meno mokykla",
+                  "text": "Eine nach dem Komponisten Stasys Vainiūnas benannte Kunstschule in Palanga.",
+                  "category": "cultural",
+                  "coords": [
+                        21.066255,
+                        55.921961
+                  ]
+            },
+            {
+                  "name": "Palangos pasakų parkas",
+                  "text": "Ein Themenpark in Palanga, der litauische Volksmärchen durch interaktive Skulpturen zum Leben erweckt.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057436,
+                        55.91322
+                  ]
+            },
+            {
+                  "name": "Palangos bažnyčios bokštas",
+                  "text": "Der Turm der katholischen Kirche bietet einen weiten Ausblick über den Kurort Palanga.",
+                  "category": "natural",
+                  "coords": [
+                        21.065628,
+                        55.917548
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-9“ vieta",
+                  "text": "Ein Ort vor der Küste von Palanga, an dem sich das Wrack eines historischen Schiffes befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052036,
+                        55.893083
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-11“ vieta",
+                  "text": "Eine maritime Fundstelle bei Palanga, die den Ort eines gesunkenen Schiffswracks markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        21.051,
+                        55.898
+                  ]
+            },
+            {
+                  "name": "Pramogos žirgais",
+                  "text": "Ein Angebot für Reitausflüge und Pferdeaktivitäten in der Natur rund um Palanga.",
+                  "category": "landmark",
+                  "coords": [
+                        21.064543,
+                        55.891521
+                  ]
+            },
+            {
+                  "name": "Melno basakojų takas",
+                  "text": "Ein Erlebnispfad bei Palanga, der dazu einlädt, die Natur barfuß auf verschiedenen Untergründen zu fühlen.",
+                  "category": "landmark",
+                  "coords": [
+                        21.058702,
+                        55.893964
+                  ]
+            },
+            {
+                  "name": "Kurhauzas",
+                  "text": "Ein historisches Gebäude in Palanga, das einst das kulturelle und gesellschaftliche Zentrum des Kurorts war.",
+                  "category": "historical",
+                  "coords": [
+                        21.064684,
+                        55.916101
+                  ]
+            },
+            {
+                  "name": "Vaikų parkas",
+                  "text": "Ein weitläufiger Spielbereich in Palanga mit zahlreichen Attraktionen speziell für junge Besucher.",
+                  "category": "landmark",
+                  "coords": [
+                        21.061687,
+                        55.929178
+                  ]
+            },
+            {
+                  "name": "Race Time - kartodromas",
+                  "text": "Eine Kartbahn in Palanga, die Freizeitrennen und Motorsport-Erlebnisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        21.101034,
+                        55.908051
+                  ]
+            },
+            {
+                  "name": "Melno sutartimi nustatytos LDK valstybinės sienos atkarpa II",
+                  "text": "Ein historischer Abschnitt der Grenze des Großfürstentums Litauen, die durch den Frieden von Melno festgelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057318,
+                        55.893901
+                  ]
+            },
+            {
+                  "name": "Palangos Iveros Dievo Motinos ikonos cerkvė",
+                  "text": "Eine orthodoxe Kirche in Palanga, die der Iviron-Ikone der Gottesmutter geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.081981,
+                        55.921026
+                  ]
+            },
+            {
+                  "name": "Evangelisch-lutherische Kirche Palanga",
+                  "text": "Die evangelisch-lutherische Kirche, die der örtlichen Gemeinde in Palanga dient.",
+                  "category": "religious",
+                  "coords": [
+                        21.081252,
+                        55.918353
+                  ]
+            },
+            {
+                  "name": "Palangos kapinių koplyčia",
+                  "text": "Eine historische Friedhofskapelle in Palanga, die Teil des lokalen religiösen Erbes ist.",
+                  "category": "religious",
+                  "coords": [
+                        21.078953,
+                        55.932571
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naglio kalnas",
+                  "text": "Magas dűne Palangában, amely helyi legendákhoz és régészeti leletekhez kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        21.062222,
+                        55.932662
+                  ]
+            },
+            {
+                  "name": "Palangos piliakalnis",
+                  "text": "Történelmi várhegy Palanga partján, amely ősi településnyomokról tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        21.053014,
+                        55.905556
+                  ]
+            },
+            {
+                  "name": "Gintaro muziejus",
+                  "text": "A világhírű palangai borostyánmúzeum hatalmas gyűjteményt mutat be a Tiškevičiai-palotában.",
+                  "category": "museum",
+                  "coords": [
+                        21.05577,
+                        55.906828
+                  ]
+            },
+            {
+                  "name": "Iliuzijų namai „Eureka“",
+                  "text": "Interaktív illúziók múzeuma Palangában, amely szórakozást kínál az egész családnak.",
+                  "category": "museum",
+                  "coords": [
+                        21.060851,
+                        55.918273
+                  ]
+            },
+            {
+                  "name": "Antano Mončio namai-muziejus",
+                  "text": "Palangai múzeum, amely Antanas Mončys szobrászművész életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        21.059214,
+                        55.91392
+                  ]
+            },
+            {
+                  "name": "Dr. Jono Šliūpo memorialinė sodyba",
+                  "text": "Jonas Šliūpas orvos és publicista, Litvánia egyik jelentős személyiségének emlékháza Palangában.",
+                  "category": "museum",
+                  "coords": [
+                        21.061243,
+                        55.911771
+                  ]
+            },
+            {
+                  "name": "Šunų muziejus",
+                  "text": "Egyedülálló magánmúzeum Palangában, amely a világ minden tájáról származó kutyafigurákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        21.083586,
+                        55.917027
+                  ]
+            },
+            {
+                  "name": "Insektariumas",
+                  "text": "Speciális múzeum Palangában, amely a rovarok és pókszabásúak lenyűgöző világának szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        21.075801,
+                        55.92085
+                  ]
+            },
+            {
+                  "name": "Palangos kurorto muziejus",
+                  "text": "Ez az Anapilis-villában található múzeum Palanga jelentős üdülőhellyé válását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.055833,
+                        55.918221
+                  ]
+            },
+            {
+                  "name": "Palangos koncertų salė",
+                  "text": "Modern rendezvényhelyszín Palangában nívós koncertekhez és kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        21.063451,
+                        55.915606
+                  ]
+            },
+            {
+                  "name": "Palangos tiltas",
+                  "text": "Palanga híres tengeri mólója messze benyúlik a Balti-tengerbe, és a település jelképe.",
+                  "category": "natural",
+                  "coords": [
+                        21.050347,
+                        55.919882
+                  ]
+            },
+            {
+                  "name": "Vaidilutės vaizdas į jūrą",
+                  "text": "Szép kilátópont a Birutė-parkban, ahonnan kilátás nyílik Palanga balti-tengeri strandjára.",
+                  "category": "natural",
+                  "coords": [
+                        21.050866,
+                        55.906468
+                  ]
+            },
+            {
+                  "name": "Žemaičių kalnelis",
+                  "text": "Rituális hely Palangában modern faszobrokkal, amely a pogány hagyományokat idézi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.056115,
+                        55.904925
+                  ]
+            },
+            {
+                  "name": "Palangos Stasio Vainiūno meno mokykla",
+                  "text": "Stasys Vainiūnas zeneszerzőről elnevezett művészeti iskola Palangában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.066255,
+                        55.921961
+                  ]
+            },
+            {
+                  "name": "Palangos pasakų parkas",
+                  "text": "Tematikus park Palangában, amely interaktív szobrokon keresztül eleveníti fel a litván népmeséket.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057436,
+                        55.91322
+                  ]
+            },
+            {
+                  "name": "Palangos bažnyčios bokštas",
+                  "text": "A katolikus templom tornya széles kilátást nyújt Palanga üdülőhelyére.",
+                  "category": "natural",
+                  "coords": [
+                        21.065628,
+                        55.917548
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-9“ vieta",
+                  "text": "Palanga partjainál található hely, ahol egy történelmi hajó roncsa fekszik.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052036,
+                        55.893083
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-11“ vieta",
+                  "text": "Tengeri lelőhely Palanga közelében, amely egy elsüllyedt hajóroncs helyét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        21.051,
+                        55.898
+                  ]
+            },
+            {
+                  "name": "Pramogos žirgais",
+                  "text": "Lovaglási és lovas programok lehetősége a Palanga környéki természetben.",
+                  "category": "landmark",
+                  "coords": [
+                        21.064543,
+                        55.891521
+                  ]
+            },
+            {
+                  "name": "Melno basakojų takas",
+                  "text": "Palanga közeli élményösvény, amely arra hív, hogy mezítláb érezzük a természetet különféle talajokon.",
+                  "category": "landmark",
+                  "coords": [
+                        21.058702,
+                        55.893964
+                  ]
+            },
+            {
+                  "name": "Kurhauzas",
+                  "text": "Történelmi épület Palangában, amely egykor az üdülőhely kulturális és társasági központja volt.",
+                  "category": "historical",
+                  "coords": [
+                        21.064684,
+                        55.916101
+                  ]
+            },
+            {
+                  "name": "Vaikų parkas",
+                  "text": "Tágas játszóterület Palangában, számos attrakcióval kifejezetten a fiatal látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        21.061687,
+                        55.929178
+                  ]
+            },
+            {
+                  "name": "Race Time - kartodromas",
+                  "text": "Gokartpálya Palangában, amely szabadidős versenyzési lehetőséget kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        21.101034,
+                        55.908051
+                  ]
+            },
+            {
+                  "name": "Melno sutartimi nustatytos LDK valstybinės sienos atkarpa II",
+                  "text": "A Litván Nagyfejedelemség Melnói béke által meghatározott történelmi határszakasza.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057318,
+                        55.893901
+                  ]
+            },
+            {
+                  "name": "Palangos Iveros Dievo Motinos ikonos cerkvė",
+                  "text": "Az Ibériai Istenszülő-ikonnak szentelt ortodox templom Palangában.",
+                  "category": "religious",
+                  "coords": [
+                        21.081981,
+                        55.921026
+                  ]
+            },
+            {
+                  "name": "Palangos evangelikų liuteronų bažnyčia",
+                  "text": "Palanga evangélikus közösségét kiszolgáló lutheránus templom.",
+                  "category": "religious",
+                  "coords": [
+                        21.081252,
+                        55.918353
+                  ]
+            },
+            {
+                  "name": "Palangos kapinių koplyčia",
+                  "text": "Történelmi temetőkápolna Palangában, amely a helyi vallási örökség része.",
+                  "category": "religious",
+                  "coords": [
+                        21.078953,
+                        55.932571
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naglio kalnas",
+                  "text": "O dună înaltă din Palanga, legată de legende locale și descoperiri arheologice.",
+                  "category": "historical",
+                  "coords": [
+                        21.062222,
+                        55.932662
+                  ]
+            },
+            {
+                  "name": "Palangos piliakalnis",
+                  "text": "Un sit istoric de tip fortăreață pe coasta din Palanga, care atestă așezări antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.053014,
+                        55.905556
+                  ]
+            },
+            {
+                  "name": "Gintaro muziejus",
+                  "text": "Muzeul chihlimbarului din Palanga, cunoscut în întreaga lume, prezintă o colecție uriașă în Palatul Tiškevičiai.",
+                  "category": "museum",
+                  "coords": [
+                        21.05577,
+                        55.906828
+                  ]
+            },
+            {
+                  "name": "Iliuzijų namai „Eureka“",
+                  "text": "Un muzeu interactiv al iluziilor din Palanga, care oferă divertisment pentru întreaga familie.",
+                  "category": "museum",
+                  "coords": [
+                        21.060851,
+                        55.918273
+                  ]
+            },
+            {
+                  "name": "Antano Mončio namai-muziejus",
+                  "text": "Un muzeu din Palanga dedicat vieții și operei sculptorului Antanas Mončys.",
+                  "category": "museum",
+                  "coords": [
+                        21.059214,
+                        55.91392
+                  ]
+            },
+            {
+                  "name": "Dr. Jono Šliūpo memorialinė sodyba",
+                  "text": "O casă memorială din Palanga pentru medicul și publicistul Jonas Šliūpas, o personalitate marcantă a Lituaniei.",
+                  "category": "museum",
+                  "coords": [
+                        21.061243,
+                        55.911771
+                  ]
+            },
+            {
+                  "name": "Šunų muziejus",
+                  "text": "Un muzeu privat inedit din Palanga, care deține o colecție de figurine cu câini din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        21.083586,
+                        55.917027
+                  ]
+            },
+            {
+                  "name": "Insektariumas",
+                  "text": "Un muzeu specializat din Palanga, dedicat lumii fascinante a insectelor și arahnidelor.",
+                  "category": "museum",
+                  "coords": [
+                        21.075801,
+                        55.92085
+                  ]
+            },
+            {
+                  "name": "Palangos kurorto muziejus",
+                  "text": "Acest muzeu din Vila Anapilis prezintă dezvoltarea orașului Palanga ca stațiune balneară importantă.",
+                  "category": "museum",
+                  "coords": [
+                        21.055833,
+                        55.918221
+                  ]
+            },
+            {
+                  "name": "Palangos koncertų salė",
+                  "text": "O locație modernă din Palanga pentru concerte de înaltă ținută și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        21.063451,
+                        55.915606
+                  ]
+            },
+            {
+                  "name": "Palangos tiltas",
+                  "text": "Celebrul dig din Palanga se întinde mult în Marea Baltică și este un simbol al localității.",
+                  "category": "natural",
+                  "coords": [
+                        21.050347,
+                        55.919882
+                  ]
+            },
+            {
+                  "name": "Vaidilutės vaizdas į jūrą",
+                  "text": "Un punct de observație frumos din parcul Birutė, cu vedere la plaja de la Marea Baltică din Palanga.",
+                  "category": "natural",
+                  "coords": [
+                        21.050866,
+                        55.906468
+                  ]
+            },
+            {
+                  "name": "Žemaičių kalnelis",
+                  "text": "Un loc ritualic din Palanga cu sculpturi moderne din lemn, care amintește de tradițiile păgâne.",
+                  "category": "landmark",
+                  "coords": [
+                        21.056115,
+                        55.904925
+                  ]
+            },
+            {
+                  "name": "Palangos Stasio Vainiūno meno mokykla",
+                  "text": "O școală de artă din Palanga, numită după compozitorul Stasys Vainiūnas.",
+                  "category": "cultural",
+                  "coords": [
+                        21.066255,
+                        55.921961
+                  ]
+            },
+            {
+                  "name": "Palangos pasakų parkas",
+                  "text": "Un parc tematic din Palanga care dă viață basmelor populare lituaniene prin sculpturi interactive.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057436,
+                        55.91322
+                  ]
+            },
+            {
+                  "name": "Palangos bažnyčios bokštas",
+                  "text": "Turnul bisericii catolice oferă o vedere panoramică asupra stațiunii Palanga.",
+                  "category": "natural",
+                  "coords": [
+                        21.065628,
+                        55.917548
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-9“ vieta",
+                  "text": "Un loc în largul coastei din Palanga unde se află epava unei nave istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052036,
+                        55.893083
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-11“ vieta",
+                  "text": "Un sit maritim lângă Palanga, care marchează locul epavei unei nave scufundate.",
+                  "category": "landmark",
+                  "coords": [
+                        21.051,
+                        55.898
+                  ]
+            },
+            {
+                  "name": "Pramogos žirgais",
+                  "text": "O ofertă pentru excursii călare și activități hipice în natura din jurul orașului Palanga.",
+                  "category": "landmark",
+                  "coords": [
+                        21.064543,
+                        55.891521
+                  ]
+            },
+            {
+                  "name": "Melno basakojų takas",
+                  "text": "O potecă de experiență lângă Palanga, care invită la simțirea naturii cu picioarele goale pe diverse suprafețe.",
+                  "category": "landmark",
+                  "coords": [
+                        21.058702,
+                        55.893964
+                  ]
+            },
+            {
+                  "name": "Kurhauzas",
+                  "text": "O clădire istorică din Palanga, care a fost odinioară centrul cultural și social al stațiunii.",
+                  "category": "historical",
+                  "coords": [
+                        21.064684,
+                        55.916101
+                  ]
+            },
+            {
+                  "name": "Vaikų parkas",
+                  "text": "O zonă de joacă spațioasă din Palanga, cu numeroase atracții special concepute pentru tinerii vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        21.061687,
+                        55.929178
+                  ]
+            },
+            {
+                  "name": "Race Time - kartodromas",
+                  "text": "O pistă de karting din Palanga, care oferă curse recreative și experiențe de sport cu motor.",
+                  "category": "landmark",
+                  "coords": [
+                        21.101034,
+                        55.908051
+                  ]
+            },
+            {
+                  "name": "Melno sutartimi nustatytos LDK valstybinės sienos atkarpa II",
+                  "text": "O secțiune istorică a frontierei Marelui Ducat al Lituaniei stabilită prin Tratatul de la Melno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057318,
+                        55.893901
+                  ]
+            },
+            {
+                  "name": "Palangos Iveros Dievo Motinos ikonos cerkvė",
+                  "text": "O biserică ortodoxă din Palanga dedicată Icoanei Maicii Domnului din Iviron.",
+                  "category": "religious",
+                  "coords": [
+                        21.081981,
+                        55.921026
+                  ]
+            },
+            {
+                  "name": "Palangos evangelikų liuteronų bažnyčia",
+                  "text": "Biserica Evanghelică Lutherană care deservește comunitatea locală din Palanga.",
+                  "category": "religious",
+                  "coords": [
+                        21.081252,
+                        55.918353
+                  ]
+            },
+            {
+                  "name": "Palangos kapinių koplyčia",
+                  "text": "O capelă istorică situată în cimitirul din Palanga, parte a moștenirii religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        21.078953,
+                        55.932571
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naglio kalnas",
+                  "text": "A high dune in Palanga associated with local legends and archaeological finds.",
+                  "category": "historical",
+                  "coords": [
+                        21.062222,
+                        55.932662
+                  ]
+            },
+            {
+                  "name": "Palangos piliakalnis",
+                  "text": "A historic hillfort on the coast of Palanga, witnessing ancient settlements.",
+                  "category": "historical",
+                  "coords": [
+                        21.053014,
+                        55.905556
+                  ]
+            },
+            {
+                  "name": "Muzeum of amber",
+                  "text": "The world-renowned Palanga Amber Museum presents a vast collection within the Tiškevičiai Palace.",
+                  "category": "museum",
+                  "coords": [
+                        21.05577,
+                        55.906828
+                  ]
+            },
+            {
+                  "name": "Iliuzijų namai „Eureka“",
+                  "text": "An interactive museum of illusions in Palanga offering entertainment for the whole family.",
+                  "category": "museum",
+                  "coords": [
+                        21.060851,
+                        55.918273
+                  ]
+            },
+            {
+                  "name": "Antano Mončio namai-muziejus",
+                  "text": "A museum in Palanga dedicated to the life and work of sculptor Antanas Mončys.",
+                  "category": "museum",
+                  "coords": [
+                        21.059214,
+                        55.91392
+                  ]
+            },
+            {
+                  "name": "Dr. Jono Šliūpo memorialinė sodyba",
+                  "text": "A memorial house in Palanga for physician and publicist Jonas Šliūpas, a prominent Lithuanian figure.",
+                  "category": "museum",
+                  "coords": [
+                        21.061243,
+                        55.911771
+                  ]
+            },
+            {
+                  "name": "Šunų muziejus",
+                  "text": "A unique private museum in Palanga featuring a collection of dog figurines from all over the world.",
+                  "category": "museum",
+                  "coords": [
+                        21.083586,
+                        55.917027
+                  ]
+            },
+            {
+                  "name": "Insektariumas",
+                  "text": "A specialized museum in Palanga dedicated to the fascinating world of insects and arachnids.",
+                  "category": "museum",
+                  "coords": [
+                        21.075801,
+                        55.92085
+                  ]
+            },
+            {
+                  "name": "Palangos kurorto muziejus",
+                  "text": "Located in the Anapilis Villa, this museum showcases Palanga's development into a major resort.",
+                  "category": "museum",
+                  "coords": [
+                        21.055833,
+                        55.918221
+                  ]
+            },
+            {
+                  "name": "Palangos koncertų salė",
+                  "text": "A modern venue in Palanga for high-profile concerts and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.063451,
+                        55.915606
+                  ]
+            },
+            {
+                  "name": "Palangos tiltas",
+                  "text": "The famous Palanga pier extends far into the Baltic Sea and is a landmark of the resort.",
+                  "category": "natural",
+                  "coords": [
+                        21.050347,
+                        55.919882
+                  ]
+            },
+            {
+                  "name": "Birute Park Beach view",
+                  "text": "A beautiful viewpoint in Birutė Park overlooking the Baltic Sea beach of Palanga.",
+                  "category": "natural",
+                  "coords": [
+                        21.050866,
+                        55.906468
+                  ]
+            },
+            {
+                  "name": "Samogittian Hillock",
+                  "text": "A ritual site in Palanga with modern wooden sculptures, recalling pagan traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        21.056115,
+                        55.904925
+                  ]
+            },
+            {
+                  "name": "Palangos Stasio Vainiūno meno mokykla",
+                  "text": "An art school in Palanga named after the composer Stasys Vainiūnas.",
+                  "category": "cultural",
+                  "coords": [
+                        21.066255,
+                        55.921961
+                  ]
+            },
+            {
+                  "name": "The Park of the Folktales of Palanga",
+                  "text": "A theme park in Palanga that brings Lithuanian folk tales to life through interactive sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057436,
+                        55.91322
+                  ]
+            },
+            {
+                  "name": "Palangos bažnyčios bokštas",
+                  "text": "The tower of the Catholic church provides a wide view over the resort of Palanga.",
+                  "category": "natural",
+                  "coords": [
+                        21.065628,
+                        55.917548
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-9“ vieta",
+                  "text": "A location off the coast of Palanga where the wreck of a historic ship is located.",
+                  "category": "landmark",
+                  "coords": [
+                        21.052036,
+                        55.893083
+                  ]
+            },
+            {
+                  "name": "Nuskendusio laivo „L-11“ vieta",
+                  "text": "A maritime site near Palanga marking the location of a sunken shipwreck.",
+                  "category": "landmark",
+                  "coords": [
+                        21.051,
+                        55.898
+                  ]
+            },
+            {
+                  "name": "Pramogos žirgais",
+                  "text": "A facility offering horse riding excursions and activities in the nature surrounding Palanga.",
+                  "category": "landmark",
+                  "coords": [
+                        21.064543,
+                        55.891521
+                  ]
+            },
+            {
+                  "name": "Melno basakojų takas",
+                  "text": "An experience trail near Palanga that invites visitors to feel nature barefoot on various surfaces.",
+                  "category": "landmark",
+                  "coords": [
+                        21.058702,
+                        55.893964
+                  ]
+            },
+            {
+                  "name": "Kurhauzas",
+                  "text": "A historic building in Palanga that was once the cultural and social center of the resort.",
+                  "category": "historical",
+                  "coords": [
+                        21.064684,
+                        55.916101
+                  ]
+            },
+            {
+                  "name": "Vaikų parkas",
+                  "text": "A spacious play area in Palanga featuring numerous attractions specifically for young visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        21.061687,
+                        55.929178
+                  ]
+            },
+            {
+                  "name": "Race Time - kartodromas",
+                  "text": "A karting track in Palanga offering recreational racing and motorsport experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        21.101034,
+                        55.908051
+                  ]
+            },
+            {
+                  "name": "Melno sutartimi nustatytos LDK valstybinės sienos atkarpa II",
+                  "text": "A historical section of the border of the Grand Duchy of Lithuania established by the Treaty of Melno.",
+                  "category": "landmark",
+                  "coords": [
+                        21.057318,
+                        55.893901
+                  ]
+            },
+            {
+                  "name": "Palangos Iveros Dievo Motinos ikonos cerkvė",
+                  "text": "An Orthodox church in Palanga dedicated to the Iveron Icon of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        21.081981,
+                        55.921026
+                  ]
+            },
+            {
+                  "name": "Palangos evangelikų liuteronų bažnyčia",
+                  "text": "The Evangelical Lutheran church serving the local community in Palanga.",
+                  "category": "religious",
+                  "coords": [
+                        21.081252,
+                        55.918353
+                  ]
+            },
+            {
+                  "name": "Palangos kapinių koplyčia",
+                  "text": "A historical cemetery chapel in Palanga, part of the local religious heritage.",
+                  "category": "religious",
+                  "coords": [
+                        21.078953,
+                        55.932571
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Palanga", hu: "Palanga", ro: "Palanga", en: "Palanga"},
@@ -785,7 +8264,196 @@ imageHint: "Palanga beach and sea pier at sunset",
     },
     image: "/poi-images/lithuania-palanga-cities-v2.webp",
 },  {
-    id: "lithuania-gargzdai-cities-v2",
+    id: "lithuania-gargzdai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gargždų piliakalnis",
+                  "text": "Ein alter Burgberg und ein archäologisches Denkmal in Gargždai.",
+                  "category": "historical",
+                  "coords": [
+                        21.415883,
+                        55.711385
+                  ]
+            },
+            {
+                  "name": "Maciuičių piliakalnis",
+                  "text": "Ein historischer Burgberg und eine archäologische Stätte in der Nähe von Gargždai.",
+                  "category": "historical",
+                  "coords": [
+                        21.412606,
+                        55.704645
+                  ]
+            },
+            {
+                  "name": "Gargždų krašto muziejus",
+                  "text": "Ein örtliches Museum in Gargždai, das sich auf die Geschichte der Region konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        21.403243,
+                        55.712551
+                  ]
+            },
+            {
+                  "name": "Lauko estrada",
+                  "text": "Eine Freilichtbühne und ein Veranstaltungsort für öffentliche Aufführungen in Gargždai.",
+                  "category": "cultural",
+                  "coords": [
+                        21.381873,
+                        55.713873
+                  ]
+            },
+            {
+                  "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Eine katholische Kirche und ein religiöses Gebäude in Gargždai.",
+                  "category": "religious",
+                  "coords": [
+                        21.402062,
+                        55.710748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gargždų piliakalnis",
+                  "text": "Ősi várhely és régészeti emlékhely Gargždaiban.",
+                  "category": "historical",
+                  "coords": [
+                        21.415883,
+                        55.711385
+                  ]
+            },
+            {
+                  "name": "Maciuičių piliakalnis",
+                  "text": "Történelmi várhely és régészeti lelőhely Gargždai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.412606,
+                        55.704645
+                  ]
+            },
+            {
+                  "name": "Gargždų krašto muziejus",
+                  "text": "Helyi múzeum Gargždaiban, amely a régió történelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        21.403243,
+                        55.712551
+                  ]
+            },
+            {
+                  "name": "Lauko estrada",
+                  "text": "Szabadtéri színpad és közösségi előadások helyszíne Gargždaiban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.381873,
+                        55.713873
+                  ]
+            },
+            {
+                  "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Katolikus templom és vallási épület Gargždaiban.",
+                  "category": "religious",
+                  "coords": [
+                        21.402062,
+                        55.710748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gargždų piliakalnis",
+                  "text": "O veche fortificație și un reper arheologic în Gargždai.",
+                  "category": "historical",
+                  "coords": [
+                        21.415883,
+                        55.711385
+                  ]
+            },
+            {
+                  "name": "Maciuičių piliakalnis",
+                  "text": "O fortificație istorică și un sit arheologic situat lângă Gargždai.",
+                  "category": "historical",
+                  "coords": [
+                        21.412606,
+                        55.704645
+                  ]
+            },
+            {
+                  "name": "Gargždų krašto muziejus",
+                  "text": "Un muzeu local din Gargždai care se concentrează pe istoria regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        21.403243,
+                        55.712551
+                  ]
+            },
+            {
+                  "name": "Lauko estrada",
+                  "text": "O scenă în aer liber și un loc pentru spectacole publice în Gargždai.",
+                  "category": "cultural",
+                  "coords": [
+                        21.381873,
+                        55.713873
+                  ]
+            },
+            {
+                  "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "O biserică catolică și clădire religioasă în Gargždai.",
+                  "category": "religious",
+                  "coords": [
+                        21.402062,
+                        55.710748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gargždų piliakalnis",
+                  "text": "An ancient hillfort and archaeological landmark in Gargždai.",
+                  "category": "historical",
+                  "coords": [
+                        21.415883,
+                        55.711385
+                  ]
+            },
+            {
+                  "name": "Maciuičių piliakalnis",
+                  "text": "A historical hillfort and archaeological site located near Gargždai.",
+                  "category": "historical",
+                  "coords": [
+                        21.412606,
+                        55.704645
+                  ]
+            },
+            {
+                  "name": "Gargždų krašto muziejus",
+                  "text": "A local museum in Gargždai focusing on the history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        21.403243,
+                        55.712551
+                  ]
+            },
+            {
+                  "name": "Lauko estrada",
+                  "text": "An outdoor stage and venue for public performances in Gargždai.",
+                  "category": "cultural",
+                  "coords": [
+                        21.381873,
+                        55.713873
+                  ]
+            },
+            {
+                  "name": "Gargždų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "A Catholic church and religious building in Gargždai.",
+                  "category": "religious",
+                  "coords": [
+                        21.402062,
+                        55.710748
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Gargždai", hu: "Gargždai", ro: "Gargždai", en: "Gargždai"},
@@ -831,7 +8499,664 @@ imageHint: "Gargzdai city center and park",
     },
     image: "/poi-images/lithuania-gargzdai-cities-v2.webp",
 },  {
-    id: "lithuania-druskininkai-cities-v2",
+    id: "lithuania-druskininkai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "Ein Heimatmuseum in einer markanten Villa im Kurort Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "Ein Sommer-Freilichttheater, in dem kulturelle Veranstaltungen in Druskininkai stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "Ein Museum, das dem Leben und Werk des berühmten litauischen Künstlers M.K. Čiurlionis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "Ein Museum, das die Geschichte des Widerstands und der Deportationen in Druskininkai dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "Ein Abenteuerpark in Druskininkai mit verschiedenen Kletter- und Seilrutschenparcours.",
+                  "category": "recreational",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "Ein Wakeboard-Park in Druskininkai, der für Wassersportler konzipiert wurde.",
+                  "category": "recreational",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "Ein traditionelles Kurhaus und Gesundheitszentrum im Kurort Druskininkai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "Ein Waldmuseum in Druskininkai mit Ausstellungen über die lokale Natur und Tierwelt.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "Ein Gedenkmuseum für den berühmten Bildhauer Jacques Lipchitz an seinem Geburtsort.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "Eine Seilbahn in Druskininkai, die das Stadtzentrum mit der Snow Arena verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Druskininkų Vandens Parkas",
+                  "text": "Ein großer Indoor-Wasserpark in Druskininkai mit Pools, Rutschen und Saunen.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "Ein ganzjähriger Indoor-Skikomplex und bekanntes Wahrzeichen in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "Eine beliebte Touristenattraktion „Das auf dem Kopf stehende Haus“ in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Berühmte Mineralwasserquellen im Kurpark von Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė",
+                  "text": "Eine orthodoxe Kirche in Druskininkai, die für ihre markante blaue Holzarchitektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia",
+                  "text": "Die katholische Hauptkirche in Druskininkai, erbaut im neugotischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Druskininkų Šv. Gabrieliaus cerkvė",
+                  "text": "Ein orthodoxes Gotteshaus in der Gegend von Druskininkai.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "Eine malerische Fußgängerbrücke über den Fluss Ratnyčia in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "Helytörténeti múzeum egy jellegzetes villában Druskininkai üdülővárosában.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "Kulturális eseményeknek otthont adó szabadtéri nyári amfiteátrum Druskininkaiban.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "A híres litván művész, M.K. Čiurlionis életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "Druskininkai ellenállásának és deportálásainak történetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "Különféle mászó- és kötélpályákat kínáló kalandpark Druskininkaiban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "Vízisportok kedvelőinek kialakított wakeboard-pálya Druskininkaiban.",
+                  "category": "recreational",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "Hagyományos gyógyfürdő és egészségügyi kezelőközpont Druskininkai üdülőhelyén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "Erdészeti múzeum Druskininkaiban, a helyi természetet és vadvilágot bemutató kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "Emlékmúzeum a híres szobrász, Jacques Lipchitz tiszteletére szülőhelyén.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "Druskininkai felvonórendszere, amely összeköti a városközpontot a Snow Arenával.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Druskininkų Vandens Parkas",
+                  "text": "Nagy beltéri vízipark Druskininkaiban medencékkel, csúszdákkal és szaunákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "Egész évben üzemelő fedett síkomplexum és látványosság Druskininkaiban.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "Népszerű „fordított ház” turisztikai látványosság Druskininkaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Híres ásványvízforrások Druskininkai üdülőparkjában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė",
+                  "text": "Jellegzetes kék faarchitektúrájáról ismert ortodox templom Druskininkaiban.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia",
+                  "text": "Druskininkai fő katolikus temploma, amely neogótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Druskininkų Šv. Gabrieliaus cerkvė",
+                  "text": "Ortodox istentiszteleti hely Druskininkai területén.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "Festői gyaloghíd a Ratnyčia folyón Druskininkaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "Un muzeu de istorie locală situat într-o vilă distinctivă din orașul stațiune Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "Un amfiteatru de vară în aer liber care găzduiește evenimente culturale în Druskininkai.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "Un muzeu dedicat vieții și operei celebrului artist lituanian M.K. Čiurlionis.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "Un muzeu care documentează istoria rezistenței și deportărilor din Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "Un parc de aventură din Druskininkai care oferă diverse trasee de escaladă și tiroliană.",
+                  "category": "recreational",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "Un parc de wakeboarding din Druskininkai conceput pentru pasionații de sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "O stațiune balneară tradițională și un centru de tratament în stațiunea Druskininkai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "Un muzeu al pădurii din Druskininkai, cu expoziții despre natura și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "Un muzeu memorial dedicat celebrului sculptor Jacques Lipchitz în locul său natal.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "Un sistem de telecabină din Druskininkai care conectează centrul orașului cu Snow Arena.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Druskininkų Vandens Parkas",
+                  "text": "Un mare parc acvatic interior din Druskininkai, cu piscine, tobogane și saune.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "Un complex de schi interior deschis tot anul și un punct de referință în Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "O atracție turistică populară de tip „casa răsturnată” situată în Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Izvoare de apă minerală renumite situate în parcul stațiunii Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Druskininkų Dievo Motinos ikonos „Visų liūdinčiųjų Džiaugsmas“ cerkvė",
+                  "text": "O biserică ortodoxă din Druskininkai, cunoscută pentru arhitectura sa din lemn albastru.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Druskininkų Švč. Mergelės Marijos Škaplierinės bažnyčia",
+                  "text": "Principala biserică catolică din Druskininkai, construită în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Druskininkų Šv. Gabrieliaus cerkvė",
+                  "text": "Un lăcaș de cult ortodox situat în zona Druskininkai.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "Un pod pietonal pitoresc care traversează râul Ratnyčia în Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Druskininkų miesto muziejus",
+                  "text": "A local history museum located in a distinctive villa in the resort town of Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973087,
+                        54.016657
+                  ]
+            },
+            {
+                  "name": "Vasaros amfiteatras",
+                  "text": "An open-air summer amphitheater hosting cultural events in Druskininkai.",
+                  "category": "cultural",
+                  "coords": [
+                        23.967325,
+                        54.028475
+                  ]
+            },
+            {
+                  "name": "M.K.Čiurlionio memorialinis muziejus",
+                  "text": "A museum dedicated to the life and work of the famous Lithuanian artist M.K. Čiurlionis.",
+                  "category": "museum",
+                  "coords": [
+                        23.969428,
+                        54.01772
+                  ]
+            },
+            {
+                  "name": "Rezistencijos ir tremties muziejus",
+                  "text": "A museum documenting the history of resistance and deportations in Druskininkai.",
+                  "category": "museum",
+                  "coords": [
+                        23.973058,
+                        54.022063
+                  ]
+            },
+            {
+                  "name": "ONE nuotykių parkas",
+                  "text": "An adventure park in Druskininkai offering various climbing and zip-line courses.",
+                  "category": "recreational",
+                  "coords": [
+                        23.973018,
+                        54.025602
+                  ]
+            },
+            {
+                  "name": "VIVI Wake Druskininkai",
+                  "text": "A wakeboarding park in Druskininkai designed for water sports enthusiasts.",
+                  "category": "recreational",
+                  "coords": [
+                        23.995354,
+                        54.008712
+                  ]
+            },
+            {
+                  "name": "Druskininkų gydykla",
+                  "text": "A traditional medical spa and health treatment center in the resort of Druskininkai.",
+                  "category": "recreational",
+                  "coords": [
+                        23.975212,
+                        54.022449
+                  ]
+            },
+            {
+                  "name": "Miško muziejus „Girios aidas“",
+                  "text": "A forest museum in Druskininkai featuring exhibitions about local nature and wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        24.003848,
+                        54.007115
+                  ]
+            },
+            {
+                  "name": "Žako Lipšico memorialinis muziejus",
+                  "text": "A memorial museum dedicated to the famous sculptor Jacques Lipchitz in his birthplace.",
+                  "category": "museum",
+                  "coords": [
+                        23.972158,
+                        54.020043
+                  ]
+            },
+            {
+                  "name": "Druskininkų lynų kelias",
+                  "text": "A cable car system in Druskininkai connecting the town center with the Snow Arena.",
+                  "category": "landmark",
+                  "coords": [
+                        23.972702,
+                        54.023588
+                  ]
+            },
+            {
+                  "name": "Aqua park Druskininkai",
+                  "text": "A large indoor water park in Druskininkai featuring pools, slides, and saunas.",
+                  "category": "landmark",
+                  "coords": [
+                        23.97453,
+                        54.023424
+                  ]
+            },
+            {
+                  "name": "Snow Arena",
+                  "text": "A year-round indoor skiing complex and landmark in Druskininkai.",
+                  "category": "natural",
+                  "coords": [
+                        23.959705,
+                        54.030929
+                  ]
+            },
+            {
+                  "name": "Apverstas namas",
+                  "text": "A popular \"Upside-Down House\" tourist attraction located in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.974096,
+                        54.01958
+                  ]
+            },
+            {
+                  "name": "Druskininkų ir Aušros šaltinis",
+                  "text": "Famous mineral water springs located in the resort park of Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.977131,
+                        54.021676
+                  ]
+            },
+            {
+                  "name": "Joy of all who Sorrow Church",
+                  "text": "An Orthodox church in Druskininkai known for its distinctive blue wooden architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.971185,
+                        54.021177
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady of the Scapular",
+                  "text": "The main Catholic church in Druskininkai, built in the Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        23.974675,
+                        54.017267
+                  ]
+            },
+            {
+                  "name": "Orthodox church",
+                  "text": "An Orthodox place of worship located in the Druskininkai area.",
+                  "category": "religious",
+                  "coords": [
+                        23.973489,
+                        54.012707
+                  ]
+            },
+            {
+                  "name": "Parko tiltas",
+                  "text": "A scenic pedestrian bridge crossing the Ratnyčia river in Druskininkai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.976565,
+                        54.024384
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Druskininkai", hu: "Druskininkai", ro: "Druskininkai", en: "Druskininkai"},
@@ -877,7 +9202,232 @@ imageHint: "Druskininkai spa center and fountain",
     },
     image: "/poi-images/lithuania-druskininkai-cities-v2.webp",
 },  {
-    id: "lithuania-rokiskis-cities-v2",
+    id: "lithuania-rokiskis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rokiškio krašto muziejus",
+                  "text": "Ein Regionalmuseum in Rokiškis, das die Geschichte und Kultur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.600896,
+                        55.965382
+                  ]
+            },
+            {
+                  "name": "L. Šepkos medinių skulptūrų parkas",
+                  "text": "Ein Skulpturenpark mit Holzkunstwerken des litauischen Volkskünstlers Lionginas Šepka.",
+                  "category": "landmark",
+                  "coords": [
+                        25.583022,
+                        55.954198
+                  ]
+            },
+            {
+                  "name": "Rokiškio kultūros centras",
+                  "text": "Ein lokales Zentrum für kulturelle Veranstaltungen, Aufführungen und Ausstellungen in Rokiškis.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587555,
+                        55.953814
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Eine beeindruckende neugotische katholische Kirche im Zentrum von Rokiškis.",
+                  "category": "religious",
+                  "coords": [
+                        25.583565,
+                        55.964019
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Eine Alexander-Newski-Kirche in Rokiškis, die der örtlichen orthodoxen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        25.594574,
+                        55.956795
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Mikalojaus sentikių cerkvė",
+                  "text": "Eine Kirche der Altgläubigen in Rokiškis, die dem Heiligen Nikolaus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.587056,
+                        55.967301
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rokiškio krašto muziejus",
+                  "text": "Rokiškis vidéki múzeuma, amely a környék történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.600896,
+                        55.965382
+                  ]
+            },
+            {
+                  "name": "L. Šepkos medinių skulptūrų parkas",
+                  "text": "Szoborpark Rokiškisben, amely Lionginas Šepka népművész fafaragásait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        25.583022,
+                        55.954198
+                  ]
+            },
+            {
+                  "name": "Rokiškio kultūros centras",
+                  "text": "Kulturális rendezvényeknek, előadásoknak és kiállításoknak otthont adó központ Rokiškisben.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587555,
+                        55.953814
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Lenyűgöző neogótikus katolikus templom Rokiškis központjában.",
+                  "category": "religious",
+                  "coords": [
+                        25.583565,
+                        55.964019
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Szent Sándor Nyevszkij-templom Rokiškisben, amely az ortodox közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        25.594574,
+                        55.956795
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Mikalojaus sentikių cerkvė",
+                  "text": "Szent Miklósnak szentelt óhitű templom Rokiškisben.",
+                  "category": "religious",
+                  "coords": [
+                        25.587056,
+                        55.967301
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rokiškio krašto muziejus",
+                  "text": "Un muzeu regional din Rokiškis care prezintă istoria și cultura zonei.",
+                  "category": "museum",
+                  "coords": [
+                        25.600896,
+                        55.965382
+                  ]
+            },
+            {
+                  "name": "L. Šepkos medinių skulptūrų parkas",
+                  "text": "Un parc de sculpturi cu lucrări în lemn ale artistului popular lituanian Lionginas Šepka.",
+                  "category": "landmark",
+                  "coords": [
+                        25.583022,
+                        55.954198
+                  ]
+            },
+            {
+                  "name": "Rokiškio kultūros centras",
+                  "text": "Un centru local pentru evenimente culturale, spectacole și expoziții în Rokiškis.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587555,
+                        55.953814
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "O biserică catolică neogotică impresionantă situată în centrul orașului Rokiškis.",
+                  "category": "religious",
+                  "coords": [
+                        25.583565,
+                        55.964019
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Aleksandro Neviškio cerkvė",
+                  "text": "O biserică ortodoxă din Rokiškis dedicată Sfântului Alexandru Nevski.",
+                  "category": "religious",
+                  "coords": [
+                        25.594574,
+                        55.956795
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Mikalojaus sentikių cerkvė",
+                  "text": "O biserică a credincioșilor de rit vechi din Rokiškis, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        25.587056,
+                        55.967301
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rokiškio krašto muziejus",
+                  "text": "A regional museum in Rokiškis showcasing the history and culture of the area.",
+                  "category": "museum",
+                  "coords": [
+                        25.600896,
+                        55.965382
+                  ]
+            },
+            {
+                  "name": "L. Sepka wood sculpture park",
+                  "text": "A sculpture park featuring wooden artworks by the Lithuanian folk artist Lionginas Šepka.",
+                  "category": "landmark",
+                  "coords": [
+                        25.583022,
+                        55.954198
+                  ]
+            },
+            {
+                  "name": "Rokiškio kultūros centras",
+                  "text": "A local center for cultural events, performances, and exhibitions in Rokiškis.",
+                  "category": "cultural",
+                  "coords": [
+                        25.587555,
+                        55.953814
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "An impressive Neo-Gothic Catholic church located in the center of Rokiškis.",
+                  "category": "religious",
+                  "coords": [
+                        25.583565,
+                        55.964019
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Aleksandro Neviškio cerkvė",
+                  "text": "An Orthodox church in Rokiškis dedicated to Saint Alexander Nevsky.",
+                  "category": "religious",
+                  "coords": [
+                        25.594574,
+                        55.956795
+                  ]
+            },
+            {
+                  "name": "Rokiškio Šv. Mikalojaus sentikių cerkvė",
+                  "text": "An Old Believer church in Rokiškis dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        25.587056,
+                        55.967301
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Rokiškis", hu: "Rokiškis", ro: "Rokiškis", en: "Rokiškis"},
@@ -923,7 +9473,484 @@ imageHint: "Rokiskis manor and church square",
     },
     image: "/poi-images/lithuania-rokiskis-cities-v2.webp",
 },  {
-    id: "lithuania-birzai-cities-v2",
+    id: "lithuania-birzai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biržų Radvilų pilis",
+                  "text": "Eine historische Festung und ein Museum in Biržai, das ursprünglich von der Familie Radziwiłł erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        24.753357,
+                        56.204869
+                  ]
+            },
+            {
+                  "name": "Rinkuškių alaus muziejus",
+                  "text": "Ein Museum in Biržai, das den lokalen Brautraditionen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.72338,
+                        56.207784
+                  ]
+            },
+            {
+                  "name": "Astravo dvaras",
+                  "text": "Ein neoklassizistisches Herrenhaus und Anwesen in Biržai, in der Nähe des Širvėna-Sees gelegen.",
+                  "category": "historical",
+                  "coords": [
+                        24.768515,
+                        56.219419
+                  ]
+            },
+            {
+                  "name": "Širvėnos ežero tiltas",
+                  "text": "Eine lange hölzerne Fußgängerbrücke, die den Širvėna-See in Biržai überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769572,
+                        56.214636
+                  ]
+            },
+            {
+                  "name": "Biržų alaus turas",
+                  "text": "Ein geführtes Erlebnis, das die traditionellen Brauereien und das Bier von Biržai erkundet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.753592,
+                        56.200094
+                  ]
+            },
+            {
+                  "name": "Siaurojo geležinkelio kompleksas",
+                  "text": "Ein historischer Schmalspurbahnkomplex und eine Sehenswürdigkeit in Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.747624,
+                        56.201346
+                  ]
+            },
+            {
+                  "name": "Senovinių arbatinukų galerija - muziejus",
+                  "text": "Eine einzigartige Galerie und ein Museum in Biržai, das eine Sammlung antiker Teekannen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.756178,
+                        56.201137
+                  ]
+            },
+            {
+                  "name": "Biržų aeroklubas",
+                  "text": "Ein Luftfahrtzentrum und eine Sehenswürdigkeit, die Flüge und Aktivitäten in Biržai anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.760581,
+                        56.179254
+                  ]
+            },
+            {
+                  "name": "Astravo dvaro sodybos tiltas-užtvanka",
+                  "text": "Eine Brücken- und Dammstruktur auf dem historischen Gut Astravas in Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.762454,
+                        56.221769
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų reformatų bažnyčia",
+                  "text": "Eine evangelisch-reformierte Kirche und ein religiöses Wahrzeichen in Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.758262,
+                        56.207804
+                  ]
+            },
+            {
+                  "name": "Biržų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Eine katholische Kirche und ein Ort des Gebets in der Stadt Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.757006,
+                        56.20402
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų liuteronų bažnyčia",
+                  "text": "Eine evangelisch-lutherische Kirche, die der religiösen Gemeinschaft in Biržai dient.",
+                  "category": "religious",
+                  "coords": [
+                        24.767088,
+                        56.20463
+                  ]
+            },
+            {
+                  "name": "Biržų pilies tiltas",
+                  "text": "Die Brücke, die zur historischen Burg Biržai führt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.755627,
+                        56.205545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biržų Radvilų pilis",
+                  "text": "Történelmi erőd és múzeum Biržaiban, amelyet eredetileg a Radziwiłł család építtetett.",
+                  "category": "castle",
+                  "coords": [
+                        24.753357,
+                        56.204869
+                  ]
+            },
+            {
+                  "name": "Rinkuškių alaus muziejus",
+                  "text": "Biržai múzeum, amely a helyi sörfőzési hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.72338,
+                        56.207784
+                  ]
+            },
+            {
+                  "name": "Astravo dvaras",
+                  "text": "Klasszicista kúria és birtok Biržaiban, a Širvėna-tó közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.768515,
+                        56.219419
+                  ]
+            },
+            {
+                  "name": "Širvėnos ežero tiltas",
+                  "text": "Hosszú, fából készült gyaloghíd a Širvėna-tavon Biržaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769572,
+                        56.214636
+                  ]
+            },
+            {
+                  "name": "Biržų alaus turas",
+                  "text": "Vezetett élmény, amely Biržai hagyományos sörfőzdéit és sörét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        24.753592,
+                        56.200094
+                  ]
+            },
+            {
+                  "name": "Siaurojo geležinkelio kompleksas",
+                  "text": "Történelmi keskenynyomközű vasúti komplexum és látnivaló Biržaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.747624,
+                        56.201346
+                  ]
+            },
+            {
+                  "name": "Senovinių arbatinukų galerija - muziejus",
+                  "text": "Egyedülálló galéria és múzeum Biržaiban, amely antik teáskannák gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.756178,
+                        56.201137
+                  ]
+            },
+            {
+                  "name": "Biržų aeroklubas",
+                  "text": "Repülési központ és látnivaló, amely repüléseket és tevékenységeket kínál Biržaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.760581,
+                        56.179254
+                  ]
+            },
+            {
+                  "name": "Astravo dvaro sodybos tiltas-užtvanka",
+                  "text": "Híd és gát szerkezet a történelmi Astravo kúria birtokán Biržaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.762454,
+                        56.221769
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų reformatų bažnyčia",
+                  "text": "Evangélikus református templom és vallási emlékhely Biržaiban.",
+                  "category": "religious",
+                  "coords": [
+                        24.758262,
+                        56.207804
+                  ]
+            },
+            {
+                  "name": "Biržų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Katolikus templom és vallási helyszín Biržai városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.757006,
+                        56.20402
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom, amely a biržai vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        24.767088,
+                        56.20463
+                  ]
+            },
+            {
+                  "name": "Biržų pilies tiltas",
+                  "text": "A történelmi biržai várhoz vezető híd.",
+                  "category": "landmark",
+                  "coords": [
+                        24.755627,
+                        56.205545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biržų Radvilų pilis",
+                  "text": "O fortăreață istorică și un muzeu în Biržai, construit inițial de familia Radziwiłł.",
+                  "category": "castle",
+                  "coords": [
+                        24.753357,
+                        56.204869
+                  ]
+            },
+            {
+                  "name": "Rinkuškių alaus muziejus",
+                  "text": "Un muzeu din Biržai dedicat tradițiilor locale de fabricare a berii.",
+                  "category": "museum",
+                  "coords": [
+                        24.72338,
+                        56.207784
+                  ]
+            },
+            {
+                  "name": "Astravo dvaras",
+                  "text": "Un conac neoclasic și un domeniu din Biržai, situat lângă lacul Širvėna.",
+                  "category": "historical",
+                  "coords": [
+                        24.768515,
+                        56.219419
+                  ]
+            },
+            {
+                  "name": "Širvėnos ežero tiltas",
+                  "text": "Un pod pietonal lung din lemn care traversează lacul Širvėna în Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769572,
+                        56.214636
+                  ]
+            },
+            {
+                  "name": "Biržų alaus turas",
+                  "text": "O experiență ghidată care explorează berăriile tradiționale și berea din Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.753592,
+                        56.200094
+                  ]
+            },
+            {
+                  "name": "Siaurojo geležinkelio kompleksas",
+                  "text": "Un complex feroviar istoric cu ecartament îngust și atracție în Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.747624,
+                        56.201346
+                  ]
+            },
+            {
+                  "name": "Senovinių arbatinukų galerija - muziejus",
+                  "text": "O galerie și un muzeu unic în Biržai care expune o colecție de ceainice antice.",
+                  "category": "museum",
+                  "coords": [
+                        24.756178,
+                        56.201137
+                  ]
+            },
+            {
+                  "name": "Biržų aeroklubas",
+                  "text": "Un centru de aviație și o atracție care oferă zboruri și activități în Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.760581,
+                        56.179254
+                  ]
+            },
+            {
+                  "name": "Astravo dvaro sodybos tiltas-užtvanka",
+                  "text": "O structură de pod și baraj în cadrul conacului istoric Astravas din Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.762454,
+                        56.221769
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų reformatų bažnyčia",
+                  "text": "O biserică evanghelică reformată și un punct de reper religios în Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.758262,
+                        56.207804
+                  ]
+            },
+            {
+                  "name": "Biržų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "O biserică catolică și lăcaș de cult în orașul Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.757006,
+                        56.20402
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų liuteronų bažnyčia",
+                  "text": "O biserică evanghelică luterană care deservește comunitatea religioasă din Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.767088,
+                        56.20463
+                  ]
+            },
+            {
+                  "name": "Biržų pilies tiltas",
+                  "text": "Podul care duce la castelul istoric Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.755627,
+                        56.205545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biržai Radziwiłł Castle",
+                  "text": "A historic fortress and museum in Biržai, originally built by the Radziwiłł family.",
+                  "category": "castle",
+                  "coords": [
+                        24.753357,
+                        56.204869
+                  ]
+            },
+            {
+                  "name": "Rinkuškiai beer museum",
+                  "text": "A museum in Biržai dedicated to the local brewing traditions.",
+                  "category": "museum",
+                  "coords": [
+                        24.72338,
+                        56.207784
+                  ]
+            },
+            {
+                  "name": "Astravo dvaras",
+                  "text": "A neoclassical manor house and estate in Biržai, situated near Lake Širvėna.",
+                  "category": "historical",
+                  "coords": [
+                        24.768515,
+                        56.219419
+                  ]
+            },
+            {
+                  "name": "Širvėnos ežero tiltas",
+                  "text": "A long wooden pedestrian bridge crossing Lake Širvėna in Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.769572,
+                        56.214636
+                  ]
+            },
+            {
+                  "name": "Biržų alaus turas",
+                  "text": "A guided experience exploring the traditional breweries and beer of Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.753592,
+                        56.200094
+                  ]
+            },
+            {
+                  "name": "Siaurojo geležinkelio kompleksas",
+                  "text": "A historical narrow-gauge railway complex and attraction in Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.747624,
+                        56.201346
+                  ]
+            },
+            {
+                  "name": "Senovinių arbatinukų galerija - muziejus",
+                  "text": "A unique gallery and museum in Biržai displaying a collection of antique teapots.",
+                  "category": "museum",
+                  "coords": [
+                        24.756178,
+                        56.201137
+                  ]
+            },
+            {
+                  "name": "Birzai aeroclub",
+                  "text": "An aviation center and attraction offering flights and activities in Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.760581,
+                        56.179254
+                  ]
+            },
+            {
+                  "name": "Astravo dvaro sodybos tiltas-užtvanka",
+                  "text": "A bridge and dam structure within the historical Astravas manor estate in Biržai.",
+                  "category": "landmark",
+                  "coords": [
+                        24.762454,
+                        56.221769
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų reformatų bažnyčia",
+                  "text": "An Evangelical Reformed church and religious landmark in Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.758262,
+                        56.207804
+                  ]
+            },
+            {
+                  "name": "Biržų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A Catholic church and place of worship in the town of Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.757006,
+                        56.20402
+                  ]
+            },
+            {
+                  "name": "Biržų evangelikų liuteronų bažnyčia",
+                  "text": "An Evangelical Lutheran church serving the religious community in Biržai.",
+                  "category": "religious",
+                  "coords": [
+                        24.767088,
+                        56.20463
+                  ]
+            },
+            {
+                  "name": "Biržų pilies tiltas",
+                  "text": "The bridge leading to the historical Biržai Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        24.755627,
+                        56.205545
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Biržai", hu: "Biržai", ro: "Biržai", en: "Biržai"},
@@ -969,7 +9996,88 @@ imageHint: "Birzai castle and lake bridge",
     },
     image: "/poi-images/lithuania-birzai-cities-v2.webp",
 },  {
-    id: "lithuania-elektrenai-cities-v2",
+    id: "lithuania-elektrenai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elektrėnų savivaldybės literatūros ir meno muziejus",
+                  "text": "Ein Museum in Elektrėnai, das der Literatur und Kunst der Gemeinde gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.655365,
+                        54.781174
+                  ]
+            },
+            {
+                  "name": "Elektrėnų Švč. Mergelės Marijos Kankinių Karalienės bažnyčia",
+                  "text": "Eine moderne katholische Kirche in Elektrėnai mit einem markanten architektonischen Design.",
+                  "category": "religious",
+                  "coords": [
+                        24.680991,
+                        54.781997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elektrėnų savivaldybės literatūros ir meno muziejus",
+                  "text": "Az önkormányzat irodalmának és művészetének szentelt múzeum Elektrėnaiban.",
+                  "category": "museum",
+                  "coords": [
+                        24.655365,
+                        54.781174
+                  ]
+            },
+            {
+                  "name": "Elektrėnų Švč. Mergelės Marijos Kankinių Karalienės bažnyčia",
+                  "text": "Modern katolikus templom Elektrėnaiban, feltűnő építészeti kialakítással.",
+                  "category": "religious",
+                  "coords": [
+                        24.680991,
+                        54.781997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elektrėnų savivaldybės literatūros ir meno muziejus",
+                  "text": "Un muzeu din Elektrėnai dedicat literaturii și artei municipalității.",
+                  "category": "museum",
+                  "coords": [
+                        24.655365,
+                        54.781174
+                  ]
+            },
+            {
+                  "name": "Elektrėnų Švč. Mergelės Marijos Kankinių Karalienės bažnyčia",
+                  "text": "O biserică catolică modernă din Elektrėnai, cu un design arhitectural izbitor.",
+                  "category": "religious",
+                  "coords": [
+                        24.680991,
+                        54.781997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elektrėnų savivaldybės literatūros ir meno muziejus",
+                  "text": "A museum in Elektrėnai dedicated to the literature and art of the municipality.",
+                  "category": "museum",
+                  "coords": [
+                        24.655365,
+                        54.781174
+                  ]
+            },
+            {
+                  "name": "Elektrėnų Švč. Mergelės Marijos Kankinių Karalienės bažnyčia",
+                  "text": "A modern Catholic church in Elektrėnai with a striking architectural design.",
+                  "category": "religious",
+                  "coords": [
+                        24.680991,
+                        54.781997
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Elektrėnai", hu: "Elektrėnai", ro: "Elektrėnai", en: "Elektrėnai"},
@@ -1025,6 +10133,69 @@ imageHint: "Elektrenai power plant and church",
                         22.959505,
                         55.995882
                   ]
+            },
+            {
+                  "name": "Bronės ir Broniaus Radeckų keramikos muziejus",
+                  "text": "Ein Museum in Kuršėnai, das den keramischen Werken von Bronė und Bronius Radeckas gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.953796,
+                        56.006118
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kalendorių muziejus",
+                  "text": "Ein einzigartiges Museum in Kuršėnai, das eine umfangreiche Sammlung verschiedener Kalender ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        22.930837,
+                        55.999538
+                  ]
+            },
+            {
+                  "name": "Kuršėnų dvaras",
+                  "text": "Dieses historische Herrenhaus in Kuršėnai ist für seine erhaltene Holzarchitektur bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        22.932874,
+                        56.000077
+                  ]
+            },
+            {
+                  "name": "Ventos upės slėnio kraštovaizdžio takas",
+                  "text": "Ein malerischer Wanderweg entlang des Venta-Flusstals in Kuršėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.936666,
+                        56.000758
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kūrybos namai",
+                  "text": "Ein Zentrum für künstlerisches Schaffen und Gemeinschaftsaktivitäten in Kuršėnai.",
+                  "category": "cultural",
+                  "coords": [
+                        22.92356,
+                        55.992942
+                  ]
+            },
+            {
+                  "name": "Šiaulių r. Kuršėnų meno mokykla",
+                  "text": "Eine Bildungseinrichtung in Kuršėnai, die auf Musik- und Kunstunterricht spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        22.945481,
+                        56.006731
+                  ]
+            },
+            {
+                  "name": "Kuršėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Eine dem Heiligen Johannes dem Täufer geweihte katholische Kirche in Kuršėnai.",
+                  "category": "religious",
+                  "coords": [
+                        22.939683,
+                        56.003639
+                  ]
             }
       ],
       "hu": [
@@ -1035,6 +10206,69 @@ imageHint: "Elektrenai power plant and church",
                   "coords": [
                         22.959505,
                         55.995882
+                  ]
+            },
+            {
+                  "name": "Bronės ir Broniaus Radeckų keramikos muziejus",
+                  "text": "Kuršėnai múzeuma, amely Bronė és Bronius Radeckas keramikusművész munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.953796,
+                        56.006118
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kalendorių muziejus",
+                  "text": "Egyedülálló múzeum Kuršėnaiban, amely különböző naptárak hatalmas gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.930837,
+                        55.999538
+                  ]
+            },
+            {
+                  "name": "Kuršėnų dvaras",
+                  "text": "Ez a történelmi kúria Kuršėnaiban a megőrzött faépítészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        22.932874,
+                        56.000077
+                  ]
+            },
+            {
+                  "name": "Ventos upės slėnio kraštovaizdžio takas",
+                  "text": "Gyalogos túraútvonal a Venta folyó völgyében Kuršėnai mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        22.936666,
+                        56.000758
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kūrybos namai",
+                  "text": "Művészeti alkotóház és közösségi központ Kuršėnaiban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.92356,
+                        55.992942
+                  ]
+            },
+            {
+                  "name": "Šiaulių r. Kuršėnų meno mokykla",
+                  "text": "Kuršėnai művészeti iskolája, amely zenei és képzőművészeti képzést nyújt.",
+                  "category": "cultural",
+                  "coords": [
+                        22.945481,
+                        56.006731
+                  ]
+            },
+            {
+                  "name": "Kuršėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Keresztelő Szent Jánosnak szentelt katolikus templom Kuršėnaiban.",
+                  "category": "religious",
+                  "coords": [
+                        22.939683,
+                        56.003639
                   ]
             }
       ],
@@ -1047,6 +10281,69 @@ imageHint: "Elektrenai power plant and church",
                         22.959505,
                         55.995882
                   ]
+            },
+            {
+                  "name": "Bronės ir Broniaus Radeckų keramikos muziejus",
+                  "text": "Un muzeu din Kuršėnai dedicat operelor ceramice ale lui Bronė și Bronius Radeckas.",
+                  "category": "museum",
+                  "coords": [
+                        22.953796,
+                        56.006118
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kalendorių muziejus",
+                  "text": "Un muzeu unic din Kuršėnai care expune o colecție vastă de diverse calendare.",
+                  "category": "museum",
+                  "coords": [
+                        22.930837,
+                        55.999538
+                  ]
+            },
+            {
+                  "name": "Kuršėnų dvaras",
+                  "text": "Acest conac istoric din Kuršėnai este cunoscut pentru arhitectura sa din lemn bine conservată.",
+                  "category": "historical",
+                  "coords": [
+                        22.932874,
+                        56.000077
+                  ]
+            },
+            {
+                  "name": "Ventos upės slėnio kraštovaizdžio takas",
+                  "text": "Un traseu pitoresc de drumeție de-a lungul văii râului Venta în Kuršėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.936666,
+                        56.000758
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kūrybos namai",
+                  "text": "Un centru pentru creativitate artistică și activități comunitare în Kuršėnai.",
+                  "category": "cultural",
+                  "coords": [
+                        22.92356,
+                        55.992942
+                  ]
+            },
+            {
+                  "name": "Šiaulių r. Kuršėnų meno mokykla",
+                  "text": "O instituție de învățământ din Kuršėnai specializată în educație muzicală și artistică.",
+                  "category": "cultural",
+                  "coords": [
+                        22.945481,
+                        56.006731
+                  ]
+            },
+            {
+                  "name": "Kuršėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "O biserică catolică din Kuršėnai dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        22.939683,
+                        56.003639
+                  ]
             }
       ],
       "en": [
@@ -1057,6 +10354,69 @@ imageHint: "Elektrenai power plant and church",
                   "coords": [
                         22.959505,
                         55.995882
+                  ]
+            },
+            {
+                  "name": "Bronės ir Broniaus Radeckų keramikos muziejus",
+                  "text": "A museum in Kuršėnai dedicated to the ceramic works of Bronė and Bronius Radeckas.",
+                  "category": "museum",
+                  "coords": [
+                        22.953796,
+                        56.006118
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kalendorių muziejus",
+                  "text": "A unique museum in Kuršėnai exhibiting a vast collection of various calendars.",
+                  "category": "museum",
+                  "coords": [
+                        22.930837,
+                        55.999538
+                  ]
+            },
+            {
+                  "name": "Kuršėnų dvaras",
+                  "text": "This historical manor house in Kuršėnai is known for its preserved wooden architecture.",
+                  "category": "historical",
+                  "coords": [
+                        22.932874,
+                        56.000077
+                  ]
+            },
+            {
+                  "name": "Ventos upės slėnio kraštovaizdžio takas",
+                  "text": "A scenic walking trail along the valley of the Venta River in Kuršėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.936666,
+                        56.000758
+                  ]
+            },
+            {
+                  "name": "Kuršėnų kūrybos namai",
+                  "text": "A center for artistic creativity and community activities in Kuršėnai.",
+                  "category": "cultural",
+                  "coords": [
+                        22.92356,
+                        55.992942
+                  ]
+            },
+            {
+                  "name": "Šiaulių r. Kuršėnų meno mokykla",
+                  "text": "An educational institution in Kuršėnai focused on music and arts education.",
+                  "category": "cultural",
+                  "coords": [
+                        22.945481,
+                        56.006731
+                  ]
+            },
+            {
+                  "name": "Kuršėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A Catholic church in Kuršėnai dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        22.939683,
+                        56.003639
                   ]
             }
       ]
@@ -1116,6 +10476,114 @@ imageHint: "Kursenai pottery monument and bridge",
                         22.770597,
                         55.073809
                   ]
+            },
+            {
+                  "name": "Jurbarko piliakalnis",
+                  "text": "Ein historischer Burgberg und eine archäologische Stätte in Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        55.086
+                  ]
+            },
+            {
+                  "name": "Kukarskės piliakalnis",
+                  "text": "Ein alter Burgberg und eine archäologische Stätte in der Nähe von Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.752139,
+                        55.059806
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "Eine historische archäologische Stätte und ein Burgberg im Gebiet Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.74475,
+                        55.063917
+                  ]
+            },
+            {
+                  "name": "Vinco Grybo memorialinis muziejus",
+                  "text": "Ein Museum in Jurbarkas, das dem Bildhauer Vincas Grybas gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.748811,
+                        55.082459
+                  ]
+            },
+            {
+                  "name": "Konstantino Glinskio sodyba-muziejus",
+                  "text": "Ein Gedenkmuseum und Gehöft in Jurbarkas, das dem Schauspieler Konstantinas Glinskis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.745776,
+                        55.082482
+                  ]
+            },
+            {
+                  "name": "Regionalmuseum Jurbarkas",
+                  "text": "Ein Museum in Jurbarkas, das die Geschichte und Kultur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.756956,
+                        55.079655
+                  ]
+            },
+            {
+                  "name": "Kidulių dvaro sodyba",
+                  "text": "Ein historisches Herrenhaus und Anwesen im Dorf Kiduliai in der Nähe von Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.78228,
+                        55.065936
+                  ]
+            },
+            {
+                  "name": "Šimtmečio tiltas",
+                  "text": "Eine bedeutende Brücke in Jurbarkas, die den Fluss Memel überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768026,
+                        55.070795
+                  ]
+            },
+            {
+                  "name": "Kaimelio dvaro sodybos fragmentai",
+                  "text": "Überreste und Fragmente des historischen Gutshofs Kaimelis.",
+                  "category": "historical",
+                  "coords": [
+                        22.803398,
+                        55.067783
+                  ]
+            },
+            {
+                  "name": "Vyninė Vilkenta",
+                  "text": "Ein Weingut und eine lokale Sehenswürdigkeit in der Region Jurbarkas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.79086,
+                        55.062473
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Georgenburg",
+                  "text": "Eine lutherische Kirche in Jurbarkas, benannt nach dem berühmten Schriftsteller Kristijonas Donelaitis.",
+                  "category": "religious",
+                  "coords": [
+                        22.771181,
+                        55.080262
+                  ]
+            },
+            {
+                  "name": "Jurbarko Švč. Trejybės bažnyčia",
+                  "text": "Die katholische Hauptkirche in Jurbarkas, die der Heiligen Dreifaltigkeit geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.764069,
+                        55.075953
+                  ]
             }
       ],
       "hu": [
@@ -1126,6 +10594,114 @@ imageHint: "Kursenai pottery monument and bridge",
                   "coords": [
                         22.770597,
                         55.073809
+                  ]
+            },
+            {
+                  "name": "Jurbarko piliakalnis",
+                  "text": "Történelmi várhely és régészeti lelőhely Jurbarkasban.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        55.086
+                  ]
+            },
+            {
+                  "name": "Kukarskės piliakalnis",
+                  "text": "Ősi várhely és régészeti lelőhely Jurbarkas közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.752139,
+                        55.059806
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "Történelmi régészeti lelőhely és várhely Jurbarkas környékén.",
+                  "category": "historical",
+                  "coords": [
+                        22.74475,
+                        55.063917
+                  ]
+            },
+            {
+                  "name": "Vinco Grybo memorialinis muziejus",
+                  "text": "Jurbarkasi múzeum, amely Vincas Grybas szobrászművésznek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        22.748811,
+                        55.082459
+                  ]
+            },
+            {
+                  "name": "Konstantino Glinskio sodyba-muziejus",
+                  "text": "Emlékmúzeum és udvarház Jurbarkasban, amelyet Konstantinas Glinskis színésznek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        22.745776,
+                        55.082482
+                  ]
+            },
+            {
+                  "name": "Jurbarko krašto muziejus",
+                  "text": "Jurbarkasi múzeum, amely a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.756956,
+                        55.079655
+                  ]
+            },
+            {
+                  "name": "Kidulių dvaro sodyba",
+                  "text": "Történelmi kúria és birtok a Jurbarkas közeli Kiduliai faluban.",
+                  "category": "historical",
+                  "coords": [
+                        22.78228,
+                        55.065936
+                  ]
+            },
+            {
+                  "name": "Šimtmečio tiltas",
+                  "text": "Jelentős híd Jurbarkasban, amely a Nyeman folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768026,
+                        55.070795
+                  ]
+            },
+            {
+                  "name": "Kaimelio dvaro sodybos fragmentai",
+                  "text": "A történelmi Kaimelis uradalom maradványai és töredékei.",
+                  "category": "historical",
+                  "coords": [
+                        22.803398,
+                        55.067783
+                  ]
+            },
+            {
+                  "name": "Vyninė Vilkenta",
+                  "text": "Borászat és helyi látnivaló Jurbarkas környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        22.79086,
+                        55.062473
+                  ]
+            },
+            {
+                  "name": "Jurbarko Kristijono Donelaičio evangelikų liuteronų bažnyčia",
+                  "text": "Kristijonas Donelaitis íróról elnevezett evangélikus templom Jurbarkasban.",
+                  "category": "religious",
+                  "coords": [
+                        22.771181,
+                        55.080262
+                  ]
+            },
+            {
+                  "name": "Jurbarko Švč. Trejybės bažnyčia",
+                  "text": "Jurbarkas fő katolikus temploma, amelyet a Szentháromságnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.764069,
+                        55.075953
                   ]
             }
       ],
@@ -1138,6 +10714,114 @@ imageHint: "Kursenai pottery monument and bridge",
                         22.770597,
                         55.073809
                   ]
+            },
+            {
+                  "name": "Jurbarko piliakalnis",
+                  "text": "O fortificație istorică și un sit arheologic în Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        55.086
+                  ]
+            },
+            {
+                  "name": "Kukarskės piliakalnis",
+                  "text": "O veche fortificație și un sit arheologic lângă Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.752139,
+                        55.059806
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "Un sit arheologic istoric și o fortificație în zona Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.74475,
+                        55.063917
+                  ]
+            },
+            {
+                  "name": "Vinco Grybo memorialinis muziejus",
+                  "text": "Un muzeu din Jurbarkas dedicat sculptorului Vincas Grybas.",
+                  "category": "museum",
+                  "coords": [
+                        22.748811,
+                        55.082459
+                  ]
+            },
+            {
+                  "name": "Konstantino Glinskio sodyba-muziejus",
+                  "text": "Un muzeu memorial și o gospodărie din Jurbarkas dedicate actorului Konstantinas Glinskis.",
+                  "category": "museum",
+                  "coords": [
+                        22.745776,
+                        55.082482
+                  ]
+            },
+            {
+                  "name": "Jurbarko krašto muziejus",
+                  "text": "Un muzeu din Jurbarkas care prezintă istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.756956,
+                        55.079655
+                  ]
+            },
+            {
+                  "name": "Kidulių dvaro sodyba",
+                  "text": "Un conac istoric și un domeniu în satul Kiduliai, lângă Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.78228,
+                        55.065936
+                  ]
+            },
+            {
+                  "name": "Šimtmečio tiltas",
+                  "text": "Un pod proeminent în Jurbarkas care traversează râul Nemunas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768026,
+                        55.070795
+                  ]
+            },
+            {
+                  "name": "Kaimelio dvaro sodybos fragmentai",
+                  "text": "Rămășițe și fragmente ale domeniului istoric al conacului Kaimelis.",
+                  "category": "historical",
+                  "coords": [
+                        22.803398,
+                        55.067783
+                  ]
+            },
+            {
+                  "name": "Vyninė Vilkenta",
+                  "text": "O vinărie și o atracție locală în regiunea Jurbarkas.",
+                  "category": "landmark",
+                  "coords": [
+                        22.79086,
+                        55.062473
+                  ]
+            },
+            {
+                  "name": "Jurbarko Kristijono Donelaičio evangelikų liuteronų bažnyčia",
+                  "text": "O biserică luterană din Jurbarkas, numită după faimosul scriitor Kristijonas Donelaitis.",
+                  "category": "religious",
+                  "coords": [
+                        22.771181,
+                        55.080262
+                  ]
+            },
+            {
+                  "name": "Jurbarko Švč. Trejybės bažnyčia",
+                  "text": "Principala biserică catolică din Jurbarkas, dedicată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        22.764069,
+                        55.075953
+                  ]
             }
       ],
       "en": [
@@ -1148,6 +10832,114 @@ imageHint: "Kursenai pottery monument and bridge",
                   "coords": [
                         22.770597,
                         55.073809
+                  ]
+            },
+            {
+                  "name": "Jurbarko piliakalnis",
+                  "text": "A historical hillfort and archaeological site in Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.756444,
+                        55.086
+                  ]
+            },
+            {
+                  "name": "Kukarskės piliakalnis",
+                  "text": "An ancient hillfort and archaeological site near Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.752139,
+                        55.059806
+                  ]
+            },
+            {
+                  "name": "Kalnėnų piliakalnis",
+                  "text": "A historical archaeological site and hillfort in the Jurbarkas area.",
+                  "category": "historical",
+                  "coords": [
+                        22.74475,
+                        55.063917
+                  ]
+            },
+            {
+                  "name": "Vinco Grybo memorialinis muziejus",
+                  "text": "A museum in Jurbarkas dedicated to the sculptor Vincas Grybas.",
+                  "category": "museum",
+                  "coords": [
+                        22.748811,
+                        55.082459
+                  ]
+            },
+            {
+                  "name": "Konstantino Glinskio sodyba-muziejus",
+                  "text": "A memorial museum and homestead in Jurbarkas dedicated to the actor Konstantinas Glinskis.",
+                  "category": "museum",
+                  "coords": [
+                        22.745776,
+                        55.082482
+                  ]
+            },
+            {
+                  "name": "Jurbarko krašto muziejus",
+                  "text": "A museum in Jurbarkas showcasing the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        22.756956,
+                        55.079655
+                  ]
+            },
+            {
+                  "name": "Kidulių dvaro sodyba",
+                  "text": "A historic manor house and estate in the village of Kiduliai near Jurbarkas.",
+                  "category": "historical",
+                  "coords": [
+                        22.78228,
+                        55.065936
+                  ]
+            },
+            {
+                  "name": "Šimtmečio tiltas",
+                  "text": "A prominent bridge in Jurbarkas spanning the Nemunas River.",
+                  "category": "landmark",
+                  "coords": [
+                        22.768026,
+                        55.070795
+                  ]
+            },
+            {
+                  "name": "Kaimelio dvaro sodybos fragmentai",
+                  "text": "Remains and fragments of the historical Kaimelis manor estate.",
+                  "category": "historical",
+                  "coords": [
+                        22.803398,
+                        55.067783
+                  ]
+            },
+            {
+                  "name": "Vyninė Vilkenta",
+                  "text": "A winery and local attraction in the Jurbarkas region.",
+                  "category": "landmark",
+                  "coords": [
+                        22.79086,
+                        55.062473
+                  ]
+            },
+            {
+                  "name": "Jurbarko Kristijono Donelaičio evangelikų liuteronų bažnyčia",
+                  "text": "A Lutheran church in Jurbarkas named after the famous writer Kristijonas Donelaitis.",
+                  "category": "religious",
+                  "coords": [
+                        22.771181,
+                        55.080262
+                  ]
+            },
+            {
+                  "name": "Jurbarko Švč. Trejybės bažnyčia",
+                  "text": "The main Catholic church in Jurbarkas, dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        22.764069,
+                        55.075953
                   ]
             }
       ]
@@ -1197,7 +10989,124 @@ imageHint: "Jurbarkas bridge over Nemunas and park",
     },
     image: "/poi-images/lithuania-jurbarkas-cities-v2.webp",
 },  {
-    id: "lithuania-garliava-cities-v2",
+    id: "lithuania-garliava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tilto griuvėsiai",
+                  "text": "Historische Brückenruinen in der Umgebung von Garliava.",
+                  "category": "historical",
+                  "coords": [
+                        23.906996,
+                        54.811441
+                  ]
+            },
+            {
+                  "name": "Garliavos Švc. Trejybės bažnyčia",
+                  "text": "Die katholische Dreifaltigkeitskirche, die der Stadt Garliava dient.",
+                  "category": "religious",
+                  "coords": [
+                        23.873898,
+                        54.821672
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Garliava",
+                  "text": "Die historische evangelisch-lutherische Kirche in Garliava.",
+                  "category": "religious",
+                  "coords": [
+                        23.871852,
+                        54.825644
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tilto griuvėsiai",
+                  "text": "Történelmi hídromok Garliava környékén.",
+                  "category": "historical",
+                  "coords": [
+                        23.906996,
+                        54.811441
+                  ]
+            },
+            {
+                  "name": "Garliavos Švc. Trejybės bažnyčia",
+                  "text": "A Garliava városát kiszolgáló Szentháromság katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        23.873898,
+                        54.821672
+                  ]
+            },
+            {
+                  "name": "Garliavos evangelikų liuteronų bažnyčia",
+                  "text": "Garliava történelmi evangélikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        23.871852,
+                        54.825644
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tilto griuvėsiai",
+                  "text": "Ruinele unui pod istoric situate în apropiere de Garliava.",
+                  "category": "historical",
+                  "coords": [
+                        23.906996,
+                        54.811441
+                  ]
+            },
+            {
+                  "name": "Garliavos Švc. Trejybės bažnyčia",
+                  "text": "Biserica Catolică Sfânta Treime care deservește orașul Garliava.",
+                  "category": "religious",
+                  "coords": [
+                        23.873898,
+                        54.821672
+                  ]
+            },
+            {
+                  "name": "Garliavos evangelikų liuteronų bažnyčia",
+                  "text": "Biserica evanghelică luterană istorică din Garliava.",
+                  "category": "religious",
+                  "coords": [
+                        23.871852,
+                        54.825644
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tilto griuvėsiai",
+                  "text": "Historical bridge ruins located in the vicinity of Garliava.",
+                  "category": "historical",
+                  "coords": [
+                        23.906996,
+                        54.811441
+                  ]
+            },
+            {
+                  "name": "Garliavos Švc. Trejybės bažnyčia",
+                  "text": "The Catholic Church of the Holy Trinity serving the town of Garliava.",
+                  "category": "religious",
+                  "coords": [
+                        23.873898,
+                        54.821672
+                  ]
+            },
+            {
+                  "name": "Garliavos evangelikų liuteronų bažnyčia",
+                  "text": "The historical Evangelical Lutheran church in Garliava.",
+                  "category": "religious",
+                  "coords": [
+                        23.871852,
+                        54.825644
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Garliava", hu: "Garliava", ro: "Garliava", en: "Garliava"},
@@ -1243,7 +11152,160 @@ imageHint: "Garliava church and main street",
     },
     image: "/poi-images/lithuania-garliava-cities-v2.webp",
 },  {
-    id: "lithuania-vilkaviskis-cities-v2",
+    id: "lithuania-vilkaviskis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "Ein ehemaliges Gutsensemble in Vilkaviškis mit einem erhaltenen Hauptgebäude.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "Der Hauptveranstaltungsort für kulturelles Leben und Gemeinschaftsevents in Vilkaviškis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "Eine katholische Heilig-Kreuz-Kirche, die der Gemeinde in Vilkaviškis dient.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "Die Kathedrale der Heimsuchung Mariens ist das geistliche Zentrum des Bistums Vilkaviškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "Vilkaviškis egykori nemesi udvarháza, amelynek főépülete ma is áll.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "Vilkaviškis kulturális életének és közösségi eseményeinek központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "Szent Kereszt tiszteletére szentelt katolikus templom Vilkaviškisben.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "A Szűz Mária látogatása székesegyház a Vilkaviškisi egyházmegye főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "O fostă moșie boierească din Vilkaviškis, cu clădirea principală a conacului conservată.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "Locul principal pentru viața culturală și evenimentele comunității din Vilkaviškis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "O biserică catolică din Vilkaviškis dedicată Sfintei Cruci.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "Catedrala Vizita Sfintei Fecioare Maria este principalul lăcaș de cult al Diecezei de Vilkaviškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "A former manor estate in Vilkaviškis with a preserved main residence building.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "The main venue for cultural life and community events in Vilkaviškis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "A Catholic church in Vilkaviškis dedicated to the Holy Cross.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "The Cathedral of the Visitation of the Blessed Virgin Mary is the main church of the Vilkaviškis Diocese.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Vilkaviškis", hu: "Vilkaviškis", ro: "Vilkaviškis", en: "Vilkaviškis"},
@@ -1289,7 +11351,196 @@ imageHint: "Vilkaviskis cathedral and park",
     },
     image: "/poi-images/lithuania-vilkaviskis-cities-v2.webp",
 },  {
-    id: "lithuania-raseiniai-cities-v2",
+    id: "lithuania-raseiniai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raseinių piliakalnis",
+                  "text": "Eine historische Wallburg in Raseiniai, die die alte Verteidigungsgeschichte der Region repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        23.140444,
+                        55.365722
+                  ]
+            },
+            {
+                  "name": "Raseinių krašto istorijos muziejus",
+                  "text": "Dieses lokale Museum zeigt das historische und kulturelle Erbe der Region Raseiniai.",
+                  "category": "museum",
+                  "coords": [
+                        23.13299,
+                        55.385632
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Mergelės Marijos Ėmimo į Dangų bažnyčia",
+                  "text": "Eine bedeutende Barockkirche in Raseiniai, die für ihre religiöse Bedeutung und Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.122779,
+                        55.378458
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Trejybės cerkvė",
+                  "text": "Eine orthodoxe Kirche in Raseiniai, die der Heiligen Dreifaltigkeit geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.119907,
+                        55.383353
+                  ]
+            },
+            {
+                  "name": "Raseinių kapinių koplyčia",
+                  "text": "Eine traditionelle Friedhofskapelle in Raseiniai, die einen Raum für Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        23.135099,
+                        55.378622
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raseinių piliakalnis",
+                  "text": "Történelmi várhely Raseiniaiban, amely a régió ősi védelmi múltját jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        23.140444,
+                        55.365722
+                  ]
+            },
+            {
+                  "name": "Raseinių krašto istorijos muziejus",
+                  "text": "Ez a helyi múzeum a Raseiniai régió történelmi és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.13299,
+                        55.385632
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Mergelės Marijos Ėmimo į Dangų bažnyčia",
+                  "text": "Jelentős barokk templom Raseiniaiban, amely vallási jelentőségéről és építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        23.122779,
+                        55.378458
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Trejybės cerkvė",
+                  "text": "A Szentháromságnak szentelt ortodox templom Raseiniaiban.",
+                  "category": "religious",
+                  "coords": [
+                        23.119907,
+                        55.383353
+                  ]
+            },
+            {
+                  "name": "Raseinių kapinių koplyčia",
+                  "text": "Hagyományos temetőkápolna Raseiniaiban, amely teret ad az elmélkedésnek.",
+                  "category": "religious",
+                  "coords": [
+                        23.135099,
+                        55.378622
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raseinių piliakalnis",
+                  "text": "Un sit istoric de fortificație din Raseiniai, reprezentând istoria defensivă antică a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        23.140444,
+                        55.365722
+                  ]
+            },
+            {
+                  "name": "Raseinių krašto istorijos muziejus",
+                  "text": "Acest muzeu local prezintă moștenirea istorică și culturală a regiunii Raseiniai.",
+                  "category": "museum",
+                  "coords": [
+                        23.13299,
+                        55.385632
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Mergelės Marijos Ėmimo į Dangų bažnyčia",
+                  "text": "O biserică barocă semnificativă din Raseiniai, cunoscută pentru importanța sa religioasă și arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        23.122779,
+                        55.378458
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Trejybės cerkvė",
+                  "text": "O biserică ortodoxă din Raseiniai dedicată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        23.119907,
+                        55.383353
+                  ]
+            },
+            {
+                  "name": "Raseinių kapinių koplyčia",
+                  "text": "O capelă tradițională de cimitir din Raseiniai, care oferă un spațiu de reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        23.135099,
+                        55.378622
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Raseinių piliakalnis",
+                  "text": "A historical hillfort site in Raseiniai representing the region's ancient defensive history.",
+                  "category": "historical",
+                  "coords": [
+                        23.140444,
+                        55.365722
+                  ]
+            },
+            {
+                  "name": "Raseinių krašto istorijos muziejus",
+                  "text": "This local museum showcases the historical and cultural heritage of the Raseiniai region.",
+                  "category": "museum",
+                  "coords": [
+                        23.13299,
+                        55.385632
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Mergelės Marijos Ėmimo į Dangų bažnyčia",
+                  "text": "A significant Baroque church in Raseiniai known for its religious importance and architecture.",
+                  "category": "religious",
+                  "coords": [
+                        23.122779,
+                        55.378458
+                  ]
+            },
+            {
+                  "name": "Raseinių Švč. Trejybės cerkvė",
+                  "text": "An Orthodox church in Raseiniai dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        23.119907,
+                        55.383353
+                  ]
+            },
+            {
+                  "name": "Raseinių kapinių koplyčia",
+                  "text": "A traditional cemetery chapel providing a space for reflection in Raseiniai.",
+                  "category": "religious",
+                  "coords": [
+                        23.135099,
+                        55.378622
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Raseiniai", hu: "Raseiniai", ro: "Raseiniai", en: "Raseiniai"},
@@ -1335,7 +11586,880 @@ imageHint: "Raseiniai monument and church",
     },
     image: "/poi-images/lithuania-raseiniai-cities-v2.webp",
 },  {
-    id: "lithuania-anyksciai-cities-v2",
+    id: "lithuania-anyksciai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Liudiškių piliakalnis",
+                  "text": "Eine antike Wallburg in der Gegend von Liudiškiai bei Anykščiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.1335,
+                        55.50875
+                  ]
+            },
+            {
+                  "name": "Siauruko muziejus Anykščių geležinkelio stotyje",
+                  "text": "Ein Museum am Bahnhof Anykščiai, das der Geschichte der Schmalspurbahn gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.111512,
+                        55.532444
+                  ]
+            },
+            {
+                  "name": "Angelų muziejus",
+                  "text": "Ein einzigartiges Museum in Anykščiai, das eine große Sammlung von Engeln zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.102032,
+                        55.524136
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Mato Bažnyčios bokšto apžvalgos aikštelė",
+                  "text": "Eine Aussichtsplattform im Turm der St.-Matthäus-Kirche mit Panoramablick auf Anykščiai.",
+                  "category": "museum",
+                  "coords": [
+                        25.100693,
+                        55.524247
+                  ]
+            },
+            {
+                  "name": "Bronės Buivydaitės memorialinis namas-muziejus",
+                  "text": "Das Gedenkhaus und Museum der litauischen Schriftstellerin Bronė Buivydaitė in Anykščiai.",
+                  "category": "museum",
+                  "coords": [
+                        25.100772,
+                        55.523299
+                  ]
+            },
+            {
+                  "name": "Anykščių menų centras",
+                  "text": "Ein Kunstzentrum in Anykščiai, in dem verschiedene Ausstellungen und Workshops stattfinden.",
+                  "category": "museum",
+                  "coords": [
+                        25.097583,
+                        55.521466
+                  ]
+            },
+            {
+                  "name": "Dainuvos slėnis",
+                  "text": "Ein natürliches Amphitheater und Tal in Anykščiai, das für Konzerte genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        25.082857,
+                        55.513603
+                  ]
+            },
+            {
+                  "name": "Anykščių Retromobile istorinės technikos muziejus",
+                  "text": "Ein Museum in Anykščiai mit einer Sammlung von Oldtimern und historischer Technik.",
+                  "category": "museum",
+                  "coords": [
+                        25.109154,
+                        55.531923
+                  ]
+            },
+            {
+                  "name": "Antano Baranausko ir Antano Vienuolio-Žukausko memorialinis muziejus",
+                  "text": "Ein Museumskomplex, der den berühmten litauischen Schriftstellern Baranauskas und Vienuolis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.097773,
+                        55.527003
+                  ]
+            },
+            {
+                  "name": "Puntuko brolis",
+                  "text": "Ein großer Findling im Wald von Anykščiai, bekannt als der „Bruder“ des Puntukas-Steins.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070808,
+                        55.507779
+                  ]
+            },
+            {
+                  "name": "Šlavės atodanga",
+                  "text": "Ein geologischer Aufschluss am Fluss Šlavė in der Nähe von Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.078868,
+                        55.501288
+                  ]
+            },
+            {
+                  "name": "Laimės žiburys",
+                  "text": "Das Grabmal des Schriftstellers Jonas Biliūnas, auf einem Hügel in Anykščiai gelegen.",
+                  "category": "landmark",
+                  "coords": [
+                        25.122893,
+                        55.511902
+                  ]
+            },
+            {
+                  "name": "Anykščių Kalnų slidinėjimo centras „Kalita“",
+                  "text": "Ein Wintersportzentrum in Anykščiai, das Skifahren auf dem Kalita-Hügel anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.124793,
+                        55.525831
+                  ]
+            },
+            {
+                  "name": "Anykščių kartodromas",
+                  "text": "Eine Go-Kart-Bahn in Anykščiai für Motorsportfreunde.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070152,
+                        55.518697
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Anykščius",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick über die Stadt Anykščiai bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.092108,
+                        55.523563
+                  ]
+            },
+            {
+                  "name": "„Dainuvos“ Nuotykių Slėnis",
+                  "text": "Ein Abenteuerpark im Dainuva-Tal von Anykščiai mit verschiedenen Outdoor-Parcours.",
+                  "category": "landmark",
+                  "coords": [
+                        25.081849,
+                        55.514599
+                  ]
+            },
+            {
+                  "name": "Aukščiausia Anykščių apžvalgos aikštelė",
+                  "text": "Die höchste Aussichtsplattform in Anykščiai mit weitem Blick über die Region.",
+                  "category": "natural",
+                  "coords": [
+                        25.084733,
+                        55.529529
+                  ]
+            },
+            {
+                  "name": "Cosmos paukščių takas",
+                  "text": "Eine interaktive Spiegelinstallation in Anykščiai, die eine Illusion des Weltraums erzeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.119707,
+                        55.528957
+                  ]
+            },
+            {
+                  "name": "Šventosios gamtinis pažintinis takas",
+                  "text": "Ein Naturlehrpfad entlang des Flusses Šventoji in der Nähe von Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.082736,
+                        55.510994
+                  ]
+            },
+            {
+                  "name": "Uoksinė pušis",
+                  "text": "Eine markante alte Kiefer mit einem hohlen Stamm in der Gegend von Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.076283,
+                        55.507219
+                  ]
+            },
+            {
+                  "name": "Vasaros rogučių trasa",
+                  "text": "Eine Sommerrodelbahn in Anykščiai, die eine rasante Abfahrt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.125793,
+                        55.525362
+                  ]
+            },
+            {
+                  "name": "Okuličaitės dvarelis",
+                  "text": "Ein kleines historisches Herrenhaus in der Stadt Anykščiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.103969,
+                        55.527006
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Eine orthodoxe Kirche in Anykščiai, die dem heiligen Alexander Newski geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.120659,
+                        55.529349
+                  ]
+            },
+            {
+                  "name": "Anykščių geležinkelio tiltas",
+                  "text": "Eine historische Eisenbahnbrücke über den Fluss Šventoji in Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.11454,
+                        55.532722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Liudiškių piliakalnis",
+                  "text": "Ősi várhely Liudiškiai területén, Anykščiai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.1335,
+                        55.50875
+                  ]
+            },
+            {
+                  "name": "Siauruko muziejus Anykščių geležinkelio stotyje",
+                  "text": "Az anykščiai vasútállomáson található múzeum, amely a keskenynyomközű vasút történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.111512,
+                        55.532444
+                  ]
+            },
+            {
+                  "name": "Angelų muziejus",
+                  "text": "Egyedülálló múzeum Anykščiaiban, amely angyalábrázolások nagy gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.102032,
+                        55.524136
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Mato Bažnyčios bokšto apžvalgos aikštelė",
+                  "text": "Kilátó a Szent Máté-templom tornyában, ahonnan panorámás kilátás nyílik Anykščiaira.",
+                  "category": "museum",
+                  "coords": [
+                        25.100693,
+                        55.524247
+                  ]
+            },
+            {
+                  "name": "Bronės Buivydaitės memorialinis namas-muziejus",
+                  "text": "Bronė Buivydaitė litván írónő emlékháza és múzeuma Anykščiaiban.",
+                  "category": "museum",
+                  "coords": [
+                        25.100772,
+                        55.523299
+                  ]
+            },
+            {
+                  "name": "Anykščių menų centras",
+                  "text": "Művészeti központ Anykščiaiban, amely különféle kiállításoknak és workshopoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        25.097583,
+                        55.521466
+                  ]
+            },
+            {
+                  "name": "Dainuvos slėnis",
+                  "text": "Természetes amfiteátrum és völgy Anykščiaiban, amelyet koncertekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        25.082857,
+                        55.513603
+                  ]
+            },
+            {
+                  "name": "Anykščių Retromobile istorinės technikos muziejus",
+                  "text": "Veterán autókat és történelmi technikákat bemutató múzeum Anykščiaiban.",
+                  "category": "museum",
+                  "coords": [
+                        25.109154,
+                        55.531923
+                  ]
+            },
+            {
+                  "name": "Antano Baranausko ir Antano Vienuolio-Žukausko memorialinis muziejus",
+                  "text": "A híres litván íróknak, Baranauskasnak és Vienuolisnak szentelt múzeumkomplexum.",
+                  "category": "museum",
+                  "coords": [
+                        25.097773,
+                        55.527003
+                  ]
+            },
+            {
+                  "name": "Puntuko brolis",
+                  "text": "Hatalmas vándorkő az anykščiai erdőben, a Puntukas-kő „testvéreként” ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070808,
+                        55.507779
+                  ]
+            },
+            {
+                  "name": "Šlavės atodanga",
+                  "text": "Geológiai feltárás a Šlavė folyó mentén Anykščiai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.078868,
+                        55.501288
+                  ]
+            },
+            {
+                  "name": "Laimės žiburys",
+                  "text": "Jonas Biliūnas író síremléke egy dombon Anykščiaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.122893,
+                        55.511902
+                  ]
+            },
+            {
+                  "name": "Anykščių Kalnų slidinėjimo centras „Kalita“",
+                  "text": "Téli sportközpont Anykščiaiban, amely síelést kínál a Kalita-dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        25.124793,
+                        55.525831
+                  ]
+            },
+            {
+                  "name": "Anykščių kartodromas",
+                  "text": "Gokartpálya Anykščiaiban a technikai sportok kedvelőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070152,
+                        55.518697
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Anykščius",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Anykščiai városára.",
+                  "category": "natural",
+                  "coords": [
+                        25.092108,
+                        55.523563
+                  ]
+            },
+            {
+                  "name": "„Dainuvos“ Nuotykių Slėnis",
+                  "text": "Kalandpark Anykščiaiban, a Dainuva-völgyben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.081849,
+                        55.514599
+                  ]
+            },
+            {
+                  "name": "Aukščiausia Anykščių apžvalgos aikštelė",
+                  "text": "Anykščiai legmagasabb kilátója, ahonnan széles kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.084733,
+                        55.529529
+                  ]
+            },
+            {
+                  "name": "Cosmos paukščių takas",
+                  "text": "Interaktív tükörinstalláció Anykščiaiban, amely a világűr illúzióját kelti.",
+                  "category": "landmark",
+                  "coords": [
+                        25.119707,
+                        55.528957
+                  ]
+            },
+            {
+                  "name": "Šventosios gamtinis pažintinis takas",
+                  "text": "A Šventoji folyót követő tanösvény Anykščiai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.082736,
+                        55.510994
+                  ]
+            },
+            {
+                  "name": "Uoksinė pušis",
+                  "text": "Jellegzetes öreg erdeifenyő odvas törzzsel Anykščiai környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.076283,
+                        55.507219
+                  ]
+            },
+            {
+                  "name": "Vasaros rogučių trasa",
+                  "text": "Anykščiai-i nyári bobpálya, amely szórakoztató lecsúszást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        25.125793,
+                        55.525362
+                  ]
+            },
+            {
+                  "name": "Okuličaitės dvarelis",
+                  "text": "Kisméretű történelmi kúria Anykščiai városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.103969,
+                        55.527006
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Szent Alekszandr Nyevszkijnek szentelt ortodox templom Anykščiaiban.",
+                  "category": "religious",
+                  "coords": [
+                        25.120659,
+                        55.529349
+                  ]
+            },
+            {
+                  "name": "Anykščių geležinkelio tiltas",
+                  "text": "Történelmi vasúti híd a Šventoji folyón Anykščiaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.11454,
+                        55.532722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Liudiškių piliakalnis",
+                  "text": "Un sit antic de cetate situat în zona Liudiškiai, lângă Anykščiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.1335,
+                        55.50875
+                  ]
+            },
+            {
+                  "name": "Siauruko muziejus Anykščių geležinkelio stotyje",
+                  "text": "Un muzeu situat la gara Anykščiai dedicat istoriei căii ferate cu ecartament îngust.",
+                  "category": "museum",
+                  "coords": [
+                        25.111512,
+                        55.532444
+                  ]
+            },
+            {
+                  "name": "Angelų muziejus",
+                  "text": "Un muzeu unic în Anykščiai care expune o colecție mare de îngeri.",
+                  "category": "museum",
+                  "coords": [
+                        25.102032,
+                        55.524136
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Mato Bažnyčios bokšto apžvalgos aikštelė",
+                  "text": "O platformă de observare în turnul Bisericii Sfântul Matei, oferind vedere asupra orașului Anykščiai.",
+                  "category": "museum",
+                  "coords": [
+                        25.100693,
+                        55.524247
+                  ]
+            },
+            {
+                  "name": "Bronės Buivydaitės memorialinis namas-muziejus",
+                  "text": "Casa memorială și muzeul scriitoarei lituaniene Bronė Buivydaitė din Anykščiai.",
+                  "category": "museum",
+                  "coords": [
+                        25.100772,
+                        55.523299
+                  ]
+            },
+            {
+                  "name": "Anykščių menų centras",
+                  "text": "Un centru de artă din Anykščiai care găzduiește diverse expoziții și ateliere.",
+                  "category": "museum",
+                  "coords": [
+                        25.097583,
+                        55.521466
+                  ]
+            },
+            {
+                  "name": "Dainuvos slėnis",
+                  "text": "Un amfiteatru natural și o vale din Anykščiai folosite pentru concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        25.082857,
+                        55.513603
+                  ]
+            },
+            {
+                  "name": "Anykščių Retromobile istorinės technikos muziejus",
+                  "text": "Un muzeu din Anykščiai care prezintă o colecție de mașini de epocă și tehnică istorică.",
+                  "category": "museum",
+                  "coords": [
+                        25.109154,
+                        55.531923
+                  ]
+            },
+            {
+                  "name": "Antano Baranausko ir Antano Vienuolio-Žukausko memorialinis muziejus",
+                  "text": "Un complex muzeal dedicat scriitorilor lituanieni Baranauskas și Vienuolis.",
+                  "category": "museum",
+                  "coords": [
+                        25.097773,
+                        55.527003
+                  ]
+            },
+            {
+                  "name": "Puntuko brolis",
+                  "text": "Un bolovan mare din pădurea Anykščiai, cunoscut sub numele de „fratele” pietrei Puntukas.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070808,
+                        55.507779
+                  ]
+            },
+            {
+                  "name": "Šlavės atodanga",
+                  "text": "Un afloriment geologic de-a lungul râului Šlavė lângă Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.078868,
+                        55.501288
+                  ]
+            },
+            {
+                  "name": "Laimės žiburys",
+                  "text": "Monumentul funerar al scriitorului Jonas Biliūnas, situat pe un deal din Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.122893,
+                        55.511902
+                  ]
+            },
+            {
+                  "name": "Anykščių Kalnų slidinėjimo centras „Kalita“",
+                  "text": "Un centru de sporturi de iarnă din Anykščiai care oferă schi pe dealul Kalita.",
+                  "category": "landmark",
+                  "coords": [
+                        25.124793,
+                        55.525831
+                  ]
+            },
+            {
+                  "name": "Anykščių kartodromas",
+                  "text": "O pistă de karting din Anykščiai pentru pasionații de viteză.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070152,
+                        55.518697
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Anykščius",
+                  "text": "Un punct panoramic care oferă o priveliște asupra orașului Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.092108,
+                        55.523563
+                  ]
+            },
+            {
+                  "name": "„Dainuvos“ Nuotykių Slėnis",
+                  "text": "Un parc de aventură în valea Dainuva din Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.081849,
+                        55.514599
+                  ]
+            },
+            {
+                  "name": "Aukščiausia Anykščių apžvalgos aikštelė",
+                  "text": "Cea mai înaltă platformă de observare din Anykščiai, oferind vederi asupra zonei.",
+                  "category": "natural",
+                  "coords": [
+                        25.084733,
+                        55.529529
+                  ]
+            },
+            {
+                  "name": "Cosmos paukščių takas",
+                  "text": "O instalație interactivă din Anykščiai care creează o iluzie a spațiului cosmic.",
+                  "category": "landmark",
+                  "coords": [
+                        25.119707,
+                        55.528957
+                  ]
+            },
+            {
+                  "name": "Šventosios gamtinis pažintinis takas",
+                  "text": "Un traseu natural care urmează râul Šventoji lângă Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.082736,
+                        55.510994
+                  ]
+            },
+            {
+                  "name": "Uoksinė pušis",
+                  "text": "Un pin vechi distinctiv, cu trunchiul scobit, situat în zona Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.076283,
+                        55.507219
+                  ]
+            },
+            {
+                  "name": "Vasaros rogučių trasa",
+                  "text": "O pistă de bob de vară din Anykščiai care oferă o coborâre distractivă.",
+                  "category": "landmark",
+                  "coords": [
+                        25.125793,
+                        55.525362
+                  ]
+            },
+            {
+                  "name": "Okuličaitės dvarelis",
+                  "text": "Un mic conac istoric situat în orașul Anykščiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.103969,
+                        55.527006
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Aleksandro Neviškio cerkvė",
+                  "text": "O biserică ortodoxă din Anykščiai dedicată Sfântului Alexandru Nevski.",
+                  "category": "religious",
+                  "coords": [
+                        25.120659,
+                        55.529349
+                  ]
+            },
+            {
+                  "name": "Anykščių geležinkelio tiltas",
+                  "text": "Un pod de cale ferată istoric care traversează râul Šventoji în Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.11454,
+                        55.532722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Liudiškių piliakalnis",
+                  "text": "An ancient hillfort site located in the Liudiškiai area near Anykščiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.1335,
+                        55.50875
+                  ]
+            },
+            {
+                  "name": "Siauruko muziejus Anykščių geležinkelio stotyje",
+                  "text": "A museum located at the Anykščiai railway station dedicated to the history of the narrow-gauge railway.",
+                  "category": "museum",
+                  "coords": [
+                        25.111512,
+                        55.532444
+                  ]
+            },
+            {
+                  "name": "Angelų muziejus",
+                  "text": "A unique museum in Anykščiai displaying a large collection of angel-themed art.",
+                  "category": "museum",
+                  "coords": [
+                        25.102032,
+                        55.524136
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Mato Bažnyčios bokšto apžvalgos aikštelė",
+                  "text": "An observation deck in the tower of St. Matthew's Church offering panoramic views of Anykščiai.",
+                  "category": "museum",
+                  "coords": [
+                        25.100693,
+                        55.524247
+                  ]
+            },
+            {
+                  "name": "Bronės Buivydaitės memorialinis namas-muziejus",
+                  "text": "The memorial house and museum of the Lithuanian writer Bronė Buivydaitė in Anykščiai.",
+                  "category": "museum",
+                  "coords": [
+                        25.100772,
+                        55.523299
+                  ]
+            },
+            {
+                  "name": "Anykščių menų centras",
+                  "text": "An arts center in Anykščiai hosting various exhibitions and cultural workshops.",
+                  "category": "museum",
+                  "coords": [
+                        25.097583,
+                        55.521466
+                  ]
+            },
+            {
+                  "name": "Dainuvos slėnis",
+                  "text": "A natural amphitheater and valley in Anykščiai used for concerts and festivals.",
+                  "category": "cultural",
+                  "coords": [
+                        25.082857,
+                        55.513603
+                  ]
+            },
+            {
+                  "name": "Anykščių Retromobile istorinės technikos muziejus",
+                  "text": "A museum in Anykščiai showcasing a collection of vintage cars and historical machinery.",
+                  "category": "museum",
+                  "coords": [
+                        25.109154,
+                        55.531923
+                  ]
+            },
+            {
+                  "name": "Antano Baranausko ir Antano Vienuolio-Žukausko memorialinis muziejus",
+                  "text": "A museum complex dedicated to the famous Lithuanian writers Baranauskas and Vienuolis.",
+                  "category": "museum",
+                  "coords": [
+                        25.097773,
+                        55.527003
+                  ]
+            },
+            {
+                  "name": "Puntuko brolis",
+                  "text": "A large erratic boulder in the Anykščiai forest, known as the \"brother\" of the Puntukas stone.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070808,
+                        55.507779
+                  ]
+            },
+            {
+                  "name": "Šlavės atodanga",
+                  "text": "A geological outcrop along the Šlavė river near Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.078868,
+                        55.501288
+                  ]
+            },
+            {
+                  "name": "Laimės žiburys",
+                  "text": "The grave-monument of writer Jonas Biliūnas, located on a hill in Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.122893,
+                        55.511902
+                  ]
+            },
+            {
+                  "name": "Anykščių Kalnų slidinėjimo centras „Kalita“",
+                  "text": "A winter sports center in Anykščiai offering skiing and activities on Kalita Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        25.124793,
+                        55.525831
+                  ]
+            },
+            {
+                  "name": "Anykščių kartodromas",
+                  "text": "A go-karting track in Anykščiai for racing enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        25.070152,
+                        55.518697
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Anykščius",
+                  "text": "A scenic spot offering a panoramic view over the town of Anykščiai.",
+                  "category": "natural",
+                  "coords": [
+                        25.092108,
+                        55.523563
+                  ]
+            },
+            {
+                  "name": "„Dainuvos“ Nuotykių Slėnis",
+                  "text": "An adventure park in the Dainuva valley of Anykščiai with outdoor challenges.",
+                  "category": "landmark",
+                  "coords": [
+                        25.081849,
+                        55.514599
+                  ]
+            },
+            {
+                  "name": "Aukščiausia Anykščių apžvalgos aikštelė",
+                  "text": "The highest observation platform in Anykščiai, providing expansive views of the area.",
+                  "category": "natural",
+                  "coords": [
+                        25.084733,
+                        55.529529
+                  ]
+            },
+            {
+                  "name": "Cosmos paukščių takas",
+                  "text": "An interactive mirror installation in Anykščiai creating an illusion of space and stars.",
+                  "category": "landmark",
+                  "coords": [
+                        25.119707,
+                        55.528957
+                  ]
+            },
+            {
+                  "name": "Šventosios gamtinis pažintinis takas",
+                  "text": "A nature trail following the Šventoji river near Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.082736,
+                        55.510994
+                  ]
+            },
+            {
+                  "name": "Uoksinė pušis",
+                  "text": "A distinctive old pine tree with a hollow trunk, located in the Anykščiai area.",
+                  "category": "landmark",
+                  "coords": [
+                        25.076283,
+                        55.507219
+                  ]
+            },
+            {
+                  "name": "Vasaros rogučių trasa",
+                  "text": "A summer toboggan track in Anykščiai providing a fun downhill ride.",
+                  "category": "landmark",
+                  "coords": [
+                        25.125793,
+                        55.525362
+                  ]
+            },
+            {
+                  "name": "Okuličaitės dvarelis",
+                  "text": "A small historical manor house located in the town of Anykščiai.",
+                  "category": "historical",
+                  "coords": [
+                        25.103969,
+                        55.527006
+                  ]
+            },
+            {
+                  "name": "Anykščių Šv. Aleksandro Neviškio cerkvė",
+                  "text": "An Orthodox church in Anykščiai dedicated to Saint Alexander Nevsky.",
+                  "category": "religious",
+                  "coords": [
+                        25.120659,
+                        55.529349
+                  ]
+            },
+            {
+                  "name": "Anykščių geležinkelio tiltas",
+                  "text": "A historical railway bridge crossing the Šventoji river in Anykščiai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.11454,
+                        55.532722
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Anykščiai", hu: "Anykščiai", ro: "Anykščiai", en: "Anykščiai"},
@@ -1381,7 +12505,160 @@ imageHint: "Anyksciai treetop walking path",
     },
     image: "/poi-images/lithuania-anyksciai-cities-v2.webp",
 },  {
-    id: "lithuania-lentvaris-cities-v2",
+    id: "lithuania-lentvaris-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "Ein geschütztes botanisches Reservat bei Lentvaris, das die lokale Flora bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Lentvario dvaro sodyba",
+                  "text": "Ein neugotisches Herrenhaus in Lentvaris, das einst der Familie Tyszkiewicz gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        25.038145,
+                        54.658866
+                  ]
+            },
+            {
+                  "name": "Lentvario Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia",
+                  "text": "Eine architektonisch bedeutende katholische Kirche in Lentvaris, im neuromanischen Stil erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        25.048524,
+                        54.641616
+                  ]
+            },
+            {
+                  "name": "Lentvario Račkūnų koplyčia",
+                  "text": "Eine katholische Kapelle im Stadtteil Račkūnai von Lentvaris, Teil des lokalen Glaubenslebens.",
+                  "category": "religious",
+                  "coords": [
+                        25.040195,
+                        54.631207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "Védett botanikai rezervátum Lentvaris közelében, amely a helyi flórát őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Lentvario dvaro sodyba",
+                  "text": "Lentvaris neogótikus kúriája, amely egykor a Tyszkiewicz család birtoka volt.",
+                  "category": "historical",
+                  "coords": [
+                        25.038145,
+                        54.658866
+                  ]
+            },
+            {
+                  "name": "Lentvario Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia",
+                  "text": "Építészetileg jelentős katolikus templom Lentvarisban, amely neoromán stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        25.048524,
+                        54.641616
+                  ]
+            },
+            {
+                  "name": "Lentvario Račkūnų koplyčia",
+                  "text": "Katolikus kápolna Lentvaris Račkūnai negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        25.040195,
+                        54.631207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "O rezervație botanică protejată lângă Lentvaris care conservă flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Lentvario dvaro sodyba",
+                  "text": "Un conac neogotic din Lentvaris, care a aparținut cândva familiei Tyszkiewicz.",
+                  "category": "historical",
+                  "coords": [
+                        25.038145,
+                        54.658866
+                  ]
+            },
+            {
+                  "name": "Lentvario Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia",
+                  "text": "O biserică catolică semnificativă din punct de vedere arhitectural în Lentvaris, construită în stil neoromanic.",
+                  "category": "religious",
+                  "coords": [
+                        25.048524,
+                        54.641616
+                  ]
+            },
+            {
+                  "name": "Lentvario Račkūnų koplyčia",
+                  "text": "O capelă catolică situată în cartierul Račkūnai din Lentvaris.",
+                  "category": "religious",
+                  "coords": [
+                        25.040195,
+                        54.631207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "A protected botanical reserve near Lentvaris preserving local flora.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Lentvario dvaro sodyba",
+                  "text": "A Neo-Gothic manor estate in Lentvaris, once belonging to the Tyszkiewicz family.",
+                  "category": "historical",
+                  "coords": [
+                        25.038145,
+                        54.658866
+                  ]
+            },
+            {
+                  "name": "Lentvario Viešpaties Apreiškimo Švč. Mergelei Marijai bažnyčia",
+                  "text": "An architecturally significant Catholic church in Lentvaris, built in the Neo-Romanesque style.",
+                  "category": "religious",
+                  "coords": [
+                        25.048524,
+                        54.641616
+                  ]
+            },
+            {
+                  "name": "Lentvario Račkūnų koplyčia",
+                  "text": "A Catholic chapel located in the Račkūnai district of Lentvaris.",
+                  "category": "religious",
+                  "coords": [
+                        25.040195,
+                        54.631207
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Lentvaris", hu: "Lentvaris", ro: "Lentvaris", en: "Lentvaris"},
@@ -1427,7 +12704,304 @@ imageHint: "Lentvaris palace and lake",
     },
     image: "/poi-images/lithuania-lentvaris-cities-v2.webp",
 },  {
-    id: "lithuania-grigiskes-cities-v2",
+    id: "lithuania-grigiskes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vokės hidrografinis draustinis",
+                  "text": "Ein Naturschutzgebiet, das sich auf den Erhalt der hydrographischen Besonderheiten des Flusses Vokė konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        25.112013,
+                        54.656104
+                  ]
+            },
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "Ein botanisches Reservat bei Grigiškės, das dem Schutz seltener lokaler Pflanzenarten gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Grigiškių piliakalnis",
+                  "text": "Eine alte archäologische Stätte in Grigiškės, die von frühen Siedlungen in diesem Gebiet zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        25.104386,
+                        54.662835
+                  ]
+            },
+            {
+                  "name": "Salų piliakalnis",
+                  "text": "Eine historische Wallburg in der Nähe von Grigiškės.",
+                  "category": "historical",
+                  "coords": [
+                        25.090363,
+                        54.661305
+                  ]
+            },
+            {
+                  "name": "Grigiškių - Neravų pilkapynas",
+                  "text": "Ein alter Begräbnisplatz mit zahlreichen Grabhügeln aus frühgeschichtlichen Perioden.",
+                  "category": "historical",
+                  "coords": [
+                        25.11914,
+                        54.668565
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių piliakalnis",
+                  "text": "Eine archäologische Stätte, die die Überreste einer ehemaligen Verteidigungsanlage darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        25.06353,
+                        54.67458
+                  ]
+            },
+            {
+                  "name": "Kulokiškių vaizdas",
+                  "text": "Ein Aussichtspunkt, der einen Panoramablick auf die umliegende Landschaft in Grigiškės bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.109434,
+                        54.656432
+                  ]
+            },
+            {
+                  "name": "Grigiškių Šventosios Dvasios koplyčia",
+                  "text": "Eine lokale Kapelle in Grigiškės, die dem Heiligen Geist geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.096057,
+                        54.670258
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vokės hidrografinis draustinis",
+                  "text": "Természetvédelmi terület, amely a Vokė-folyó vízrajzi jellemzőinek megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        25.112013,
+                        54.656104
+                  ]
+            },
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "Botanikai rezervátum Grigiškés közelében, amely a ritka helyi növényfajok védelmére szolgál.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Grigiškių piliakalnis",
+                  "text": "Ősi régészeti lelőhely Grigiškésben, amely a terület korai településeiről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        25.104386,
+                        54.662835
+                  ]
+            },
+            {
+                  "name": "Salų piliakalnis",
+                  "text": "Történelmi várhely Grigiškés környékén.",
+                  "category": "historical",
+                  "coords": [
+                        25.090363,
+                        54.661305
+                  ]
+            },
+            {
+                  "name": "Grigiškių - Neravų pilkapynas",
+                  "text": "Ősi temetkezési hely számos halomsírral a korai történelmi időszakokból.",
+                  "category": "historical",
+                  "coords": [
+                        25.11914,
+                        54.668565
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių piliakalnis",
+                  "text": "Egykori védelmi erődítmény maradványait bemutató régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        25.06353,
+                        54.67458
+                  ]
+            },
+            {
+                  "name": "Kulokiškių vaizdas",
+                  "text": "Kilátópont, amely panorámás kilátást nyújt a környező tájra Grigiškésben.",
+                  "category": "natural",
+                  "coords": [
+                        25.109434,
+                        54.656432
+                  ]
+            },
+            {
+                  "name": "Grigiškių Šventosios Dvasios koplyčia",
+                  "text": "A Szentléleknek szentelt helyi kápolna Grigiškésben.",
+                  "category": "religious",
+                  "coords": [
+                        25.096057,
+                        54.670258
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vokės hidrografinis draustinis",
+                  "text": "O rezervație naturală protejată axată pe conservarea caracteristicilor hidrografice ale râului Vokė.",
+                  "category": "natural",
+                  "coords": [
+                        25.112013,
+                        54.656104
+                  ]
+            },
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "O rezervație botanică lângă Grigiškės dedicată protejării speciilor de plante locale rare.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Grigiškių piliakalnis",
+                  "text": "Un sit arheologic antic din Grigiškės, care atestă așezările timpurii din zonă.",
+                  "category": "historical",
+                  "coords": [
+                        25.104386,
+                        54.662835
+                  ]
+            },
+            {
+                  "name": "Salų piliakalnis",
+                  "text": "Un sit istoric de fortificație situat în apropiere de Grigiškės.",
+                  "category": "historical",
+                  "coords": [
+                        25.090363,
+                        54.661305
+                  ]
+            },
+            {
+                  "name": "Grigiškių - Neravų pilkapynas",
+                  "text": "Un vechi loc de înmormântare cu numeroși tumuli din perioadele istorice timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        25.11914,
+                        54.668565
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių piliakalnis",
+                  "text": "Un sit arheologic care reprezintă rămășițele unei foste fortificații defensive.",
+                  "category": "historical",
+                  "coords": [
+                        25.06353,
+                        54.67458
+                  ]
+            },
+            {
+                  "name": "Kulokiškių vaizdas",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra peisajului înconjurător din Grigiškės.",
+                  "category": "natural",
+                  "coords": [
+                        25.109434,
+                        54.656432
+                  ]
+            },
+            {
+                  "name": "Grigiškių Šventosios Dvasios koplyčia",
+                  "text": "O capelă locală din Grigiškės dedicată Sfântului Duh.",
+                  "category": "religious",
+                  "coords": [
+                        25.096057,
+                        54.670258
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vokės hidrografinis draustinis",
+                  "text": "A protected nature reserve focused on preserving the hydrographic features of the Vokė river.",
+                  "category": "natural",
+                  "coords": [
+                        25.112013,
+                        54.656104
+                  ]
+            },
+            {
+                  "name": "Naujojo Lentvario botaninis draustinis",
+                  "text": "A botanical reserve near Grigiškės dedicated to protecting rare local plant species.",
+                  "category": "natural",
+                  "coords": [
+                        25.077119,
+                        54.659998
+                  ]
+            },
+            {
+                  "name": "Grigiškės hillfort",
+                  "text": "An ancient archaeological site in Grigiškės testifying to early settlements in the area.",
+                  "category": "historical",
+                  "coords": [
+                        25.104386,
+                        54.662835
+                  ]
+            },
+            {
+                  "name": "Salų piliakalnis",
+                  "text": "A historical hillfort site located in the vicinity of Grigiškės.",
+                  "category": "historical",
+                  "coords": [
+                        25.090363,
+                        54.661305
+                  ]
+            },
+            {
+                  "name": "Grigiškių - Neravų pilkapynas",
+                  "text": "An ancient burial ground featuring numerous tumuli from early historical periods.",
+                  "category": "historical",
+                  "coords": [
+                        25.11914,
+                        54.668565
+                  ]
+            },
+            {
+                  "name": "Dėdeliškių piliakalnis",
+                  "text": "An archaeological site representing the remnants of a former defensive fortification.",
+                  "category": "historical",
+                  "coords": [
+                        25.06353,
+                        54.67458
+                  ]
+            },
+            {
+                  "name": "Kulokiškių vaizdas",
+                  "text": "A scenic viewpoint offering panoramic vistas of the surrounding landscape in Grigiškės.",
+                  "category": "natural",
+                  "coords": [
+                        25.109434,
+                        54.656432
+                  ]
+            },
+            {
+                  "name": "Grigiškių Šventosios Dvasios koplyčia",
+                  "text": "A local chapel in Grigiškės dedicated to the Holy Spirit.",
+                  "category": "religious",
+                  "coords": [
+                        25.096057,
+                        54.670258
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Grigiškės", hu: "Grigiškės", ro: "Grigiškės", en: "Grigiškės"},
@@ -1473,7 +13047,52 @@ imageHint: "Grigiskes industrial area and river",
     },
     image: "/poi-images/lithuania-grigiskes-cities-v2.webp",
 },  {
-    id: "lithuania-naujoji-akmene-cities-v2",
+    id: "lithuania-naujoji-akmene-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naujosios Akmenės Šv. Dvasios Atsiuntimo bažnyčia",
+                  "text": "Eine katholische Kirche in Naujoji Akmenė, die dem Heiligen Geist geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.884595,
+                        56.322023
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naujosios Akmenės Šv. Dvasios Atsiuntimo bažnyčia",
+                  "text": "Naujoji Akmenė katolikus temploma, amelyet a Szentlélek tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.884595,
+                        56.322023
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naujosios Akmenės Šv. Dvasios Atsiuntimo bažnyčia",
+                  "text": "O biserică catolică din Naujoji Akmenė, dedicată Pogorârii Sfântului Duh.",
+                  "category": "religious",
+                  "coords": [
+                        22.884595,
+                        56.322023
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naujosios Akmenės Šv. Dvasios Atsiuntimo bažnyčia",
+                  "text": "A Catholic church in Naujoji Akmenė dedicated to the Descent of the Holy Spirit.",
+                  "category": "religious",
+                  "coords": [
+                        22.884595,
+                        56.322023
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Naujoji Akmenė", hu: "Naujoji Akmenė", ro: "Naujoji Akmenė", en: "Naujoji Akmenė"},
@@ -1519,7 +13138,232 @@ imageHint: "Naujoji Akmene cement factory and quarries",
     },
     image: "/poi-images/lithuania-naujoji-akmene-cities-v2.webp",
 },  {
-    id: "lithuania-prienai-cities-v2",
+    id: "lithuania-prienai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "Ein antiker Burgberg in der Region Prienai, der auf frühe baltische Siedlungen hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "Prienų krašto muziejus",
+                  "text": "Das Regionalmuseum dokumentiert die Geschichte, Ethnografie und Persönlichkeiten von Prienai.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "Ein Naturlehrpfad, der durch das Velniabliūdis-Sumpfgebiet in der Nähe von Prienai führt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "Eine Parkanlage in Prienai mit den Überresten einer historischen Wassermühle.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "Ein Aussichtspunkt in Prienai, der einen weiten Blick über den Fluss Memel bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "Eine traditionelle Holzkirche in Prienai, die ein wichtiges lokales Denkmal darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "Ősi várhely Prienai környékén, amely a korai balti településeket reprezentálja.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "Prienų krašto muziejus",
+                  "text": "Prienai környékének múzeuma, amely a helyi történelmet és néprajzot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "Természeti tanösvény a Prienai melletti Velniabliūdis-mocsár területén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "Prienai parkja, amely egy történelmi vízimalom maradványait is magában foglalja.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "Kilátópont Prienaiban, amely panorámás kilátást nyújt a Nemunas folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "Hagyományos fatemplom Prienaiban, amely jelentős helyi műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "Un sit arheologic de tip cetate dacică din regiunea Prienai, reprezentând vechi așezări baltice.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "Prienų krašto muziejus",
+                  "text": "Un muzeu care documentează istoria, etnografia și figurile proeminente din Prienai.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "Un traseu natural educativ prin zona mlaștinii Velniabliūdis de lângă Prienai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "Un parc de agrement din Prienai care cuprinde ruinele unei mori de apă istorice.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "Un punct de belvedere din Prienai care oferü priveliști panoramice asupra râului Nemunas.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "O biserică catolică tradițională din lemn în Prienai, un punct de reper local important.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "An ancient hillfort site in the Prienai region, representing early Baltic settlements.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "The Museum of Prienai Region",
+                  "text": "A museum documenting the history, ethnography, and prominent figures of Prienai.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "An educational nature trail through the Velniabliūdis marsh area near Prienai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "A recreational park area featuring the ruins of a historical water mill in Prienai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "A viewpoint in Prienai offering scenic vistas over the Nemunas River.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "A traditional wooden Catholic church in Prienai, a significant local landmark.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Prienai", hu: "Prienai", ro: "Prienai", en: "Prienai"},
@@ -1565,7 +13409,160 @@ imageHint: "Prienai bridge and river loops",
     },
     image: "/poi-images/lithuania-prienai-cities-v2.webp",
 },  {
-    id: "lithuania-joniskis-cities-v2",
+    id: "lithuania-joniskis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Raudonoji sinagoga",
+                  "text": "Teil eines einzigartigen Komplexes in Joniškis dient diese ehemalige Synagoge heute als Museum und Kulturraum.",
+                  "category": "museum",
+                  "coords": [
+                        23.616911,
+                        56.240358
+                  ]
+            },
+            {
+                  "name": "Joniškio istorijos ir kultūros muziejus",
+                  "text": "Ein Museum, das sich der Bewahrung und Ausstellung der lokalen Geschichte und Kultur von Joniškis widmet.",
+                  "category": "museum",
+                  "coords": [
+                        23.611617,
+                        56.238973
+                  ]
+            },
+            {
+                  "name": "Krepšinio muziejus",
+                  "text": "Litauens einziges Basketballmuseum, das den Nationalsport des Landes in Joniškis feiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.616132,
+                        56.242706
+                  ]
+            },
+            {
+                  "name": "Joniškio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Eine prominente katholische Kirche in Joniškis mit klassischen architektonischen Elementen.",
+                  "category": "religious",
+                  "coords": [
+                        23.616619,
+                        56.241481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Raudonoji sinagoga",
+                  "text": "A joniškisi egyedülálló komplexum része, ez az egykori zsinagóga ma múzeumként és kulturális térként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        23.616911,
+                        56.240358
+                  ]
+            },
+            {
+                  "name": "Joniškio istorijos ir kultūros muziejus",
+                  "text": "Joniškis helytörténetének és kultúrájának megőrzésére és bemutatására szolgáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.611617,
+                        56.238973
+                  ]
+            },
+            {
+                  "name": "Krepšinio muziejus",
+                  "text": "Litvánia egyetlen kosárlabda múzeuma, amely az ország nemzeti sportját ünnepli Joniškisben.",
+                  "category": "museum",
+                  "coords": [
+                        23.616132,
+                        56.242706
+                  ]
+            },
+            {
+                  "name": "Joniškio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Kiemelkedő katolikus templom Joniškisben, klasszikus építészeti elemekkel.",
+                  "category": "religious",
+                  "coords": [
+                        23.616619,
+                        56.241481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Raudonoji sinagoga",
+                  "text": "Parte a unui complex unic din Joniškis, această fostă sinagogă servește acum ca muzeu și spațiu cultural.",
+                  "category": "museum",
+                  "coords": [
+                        23.616911,
+                        56.240358
+                  ]
+            },
+            {
+                  "name": "Joniškio istorijos ir kultūros muziejus",
+                  "text": "Un muzeu dedicat conservării și expunerii istoriei și culturii locale din Joniškis.",
+                  "category": "museum",
+                  "coords": [
+                        23.611617,
+                        56.238973
+                  ]
+            },
+            {
+                  "name": "Krepšinio muziejus",
+                  "text": "Singurul muzeu al baschetului din Lituania, care celebrează sportul național al țării în Joniškis.",
+                  "category": "museum",
+                  "coords": [
+                        23.616132,
+                        56.242706
+                  ]
+            },
+            {
+                  "name": "Joniškio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "O biserică catolică proeminentă din Joniškis, cu elemente arhitecturale clasice.",
+                  "category": "religious",
+                  "coords": [
+                        23.616619,
+                        56.241481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Red synagogue",
+                  "text": "Part of a unique complex in Joniškis, this former synagogue now serves as a museum and cultural space.",
+                  "category": "museum",
+                  "coords": [
+                        23.616911,
+                        56.240358
+                  ]
+            },
+            {
+                  "name": "Joniškio istorijos ir kultūros muziejus",
+                  "text": "A museum dedicated to preserving and exhibiting the local history and culture of Joniškis.",
+                  "category": "museum",
+                  "coords": [
+                        23.611617,
+                        56.238973
+                  ]
+            },
+            {
+                  "name": "Krepšinio muziejus",
+                  "text": "Lithuania's only basketball museum, celebrating the country's national sport in Joniškis.",
+                  "category": "museum",
+                  "coords": [
+                        23.616132,
+                        56.242706
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption, Joniškis",
+                  "text": "A prominent Catholic church in Joniškis featuring classic architectural elements.",
+                  "category": "religious",
+                  "coords": [
+                        23.616619,
+                        56.241481
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Joniškis", hu: "Joniškis", ro: "Joniškis", en: "Joniškis"},
@@ -1611,7 +13608,124 @@ imageHint: "Joniskis synagogue and church",
     },
     image: "/poi-images/lithuania-joniskis-cities-v2.webp",
 },  {
-    id: "lithuania-varena-cities-v2",
+    id: "lithuania-varena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Girežerio piliakalnis",
+                  "text": "Eine archäologische Ausgrabungsstätte und ein historischer Burgberg bei Varėna.",
+                  "category": "historical",
+                  "coords": [
+                        24.562167,
+                        54.225056
+                  ]
+            },
+            {
+                  "name": "Žiežulio pažintinis takas",
+                  "text": "Ein Naturlehrpfad in Varėna, der durch die malerische Landschaft führt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.552861,
+                        54.212602
+                  ]
+            },
+            {
+                  "name": "Varėnos Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Die dem Erzengel Michael geweihte katholische Kirche in Varėna.",
+                  "category": "religious",
+                  "coords": [
+                        24.572214,
+                        54.209854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Girežerio piliakalnis",
+                  "text": "Régészeti lelőhely és történelmi várhely Varėna közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.562167,
+                        54.225056
+                  ]
+            },
+            {
+                  "name": "Žiežulio pažintinis takas",
+                  "text": "Természeti tanösvény Varėnában, amely a festői tájon vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        24.552861,
+                        54.212602
+                  ]
+            },
+            {
+                  "name": "Varėnos Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Varėna katolikus temploma, amelyet Szent Mihály arkangyal tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        24.572214,
+                        54.209854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Girežerio piliakalnis",
+                  "text": "Un sit arheologic și o așezare fortificată istorică lângă Varėna.",
+                  "category": "historical",
+                  "coords": [
+                        24.562167,
+                        54.225056
+                  ]
+            },
+            {
+                  "name": "Žiežulio pažintinis takas",
+                  "text": "Un traseu natural în Varėna, care trece prin peisaje pitorești.",
+                  "category": "landmark",
+                  "coords": [
+                        24.552861,
+                        54.212602
+                  ]
+            },
+            {
+                  "name": "Varėnos Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Biserica catolică din Varėna, dedicată Sfântului Arhanghel Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        24.572214,
+                        54.209854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Girežerio piliakalnis",
+                  "text": "An archaeological site and historical hillfort located near Varėna.",
+                  "category": "historical",
+                  "coords": [
+                        24.562167,
+                        54.225056
+                  ]
+            },
+            {
+                  "name": "Žiežulis nature trail",
+                  "text": "A nature trail in Varėna that leads through the picturesque landscape.",
+                  "category": "landmark",
+                  "coords": [
+                        24.552861,
+                        54.212602
+                  ]
+            },
+            {
+                  "name": "Varėnos Šv. arkangelo Mykolo bažnyčia",
+                  "text": "The Catholic church in Varėna, dedicated to Saint Michael the Archangel.",
+                  "category": "religious",
+                  "coords": [
+                        24.572214,
+                        54.209854
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Varėna", hu: "Varėna", ro: "Varėna", en: "Varėna"},
@@ -1657,7 +13771,124 @@ imageHint: "Varena forest and railway station",
     },
     image: "/poi-images/lithuania-varena-cities-v2.webp",
 },  {
-    id: "lithuania-kelme-cities-v2",
+    id: "lithuania-kelme-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kelmės krašto muziejus",
+                  "text": "Dieses Regionalmuseum befindet sich im Schlosskomplex von Kelmė und zeigt die Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        22.938325,
+                        55.6383
+                  ]
+            },
+            {
+                  "name": "Kelmės evangelikų reformatų bažnyčia",
+                  "text": "Eine historische evangelisch-reformierte Kirche, die der Gemeinde in Kelmė dient.",
+                  "category": "religious",
+                  "coords": [
+                        22.936631,
+                        55.631917
+                  ]
+            },
+            {
+                  "name": "Kelmės Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Eine neugotische katholische Kirche mit einem hohen Turm, der das Stadtbild von Kelmė prägt.",
+                  "category": "religious",
+                  "coords": [
+                        22.932594,
+                        55.633756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kelmės krašto muziejus",
+                  "text": "Kelmė vidéki múzeuma, amely a helyi kastélyegyüttesben található.",
+                  "category": "museum",
+                  "coords": [
+                        22.938325,
+                        55.6383
+                  ]
+            },
+            {
+                  "name": "Kelmės evangelikų reformatų bažnyčia",
+                  "text": "Történelmi evangélikus református templom Kelmėben.",
+                  "category": "religious",
+                  "coords": [
+                        22.936631,
+                        55.631917
+                  ]
+            },
+            {
+                  "name": "Kelmės Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Neogótikus katolikus templom Kelmėben, amelynek magas tornya meghatározza a városképet.",
+                  "category": "religious",
+                  "coords": [
+                        22.932594,
+                        55.633756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kelmės krašto muziejus",
+                  "text": "Un muzeu situat în complexul conacului Kelmė, care prezintă istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        22.938325,
+                        55.6383
+                  ]
+            },
+            {
+                  "name": "Kelmės evangelikų reformatų bažnyčia",
+                  "text": "O biserică istorică evanghelică reformată care deservește comunitatea din Kelmė.",
+                  "category": "religious",
+                  "coords": [
+                        22.936631,
+                        55.631917
+                  ]
+            },
+            {
+                  "name": "Kelmės Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "O biserică catolică neogotică cu o turlă înaltă, proeminentă în panorama orașului Kelmė.",
+                  "category": "religious",
+                  "coords": [
+                        22.932594,
+                        55.633756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kelmės krašto muziejus",
+                  "text": "A museum showcasing regional history, located within the Kelmė manor complex.",
+                  "category": "museum",
+                  "coords": [
+                        22.938325,
+                        55.6383
+                  ]
+            },
+            {
+                  "name": "Kelmės evangelikų reformatų bažnyčia",
+                  "text": "A historical Evangelical Reformed church serving the community in Kelmė.",
+                  "category": "religious",
+                  "coords": [
+                        22.936631,
+                        55.631917
+                  ]
+            },
+            {
+                  "name": "Kelmės Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "A Neo-Gothic Catholic church with a tall spire, prominent in the Kelmė skyline.",
+                  "category": "religious",
+                  "coords": [
+                        22.932594,
+                        55.633756
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kelmė", hu: "Kelmė", ro: "Kelmė", en: "Kelmė"},
@@ -1795,7 +14026,484 @@ imageHint: "Pasvalys river and sinkhole park",
     },
     image: "/poi-images/lithuania-pasvalys-cities-v2.webp",
 },  {
-    id: "lithuania-kupiskis-cities-v2",
+    id: "lithuania-kupiskis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Aukštupėnų piliakalnis",
+                  "text": "Ein historischer Burgberg bei Kupiškis, der weite Ausblicke auf die Umgebung bietet.",
+                  "category": "historical",
+                  "coords": [
+                        24.975445,
+                        55.847793
+                  ]
+            },
+            {
+                  "name": "Kupiškio etnografijos muziejus",
+                  "text": "Ein Museum, das den Volkstraditionen und der lokalen Geschichte des Bezirks Kupiškis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.975154,
+                        55.842362
+                  ]
+            },
+            {
+                  "name": "Kupiškio kultūros centras",
+                  "text": "Ein Zentrum für darstellende Künste und kulturelle Veranstaltungen in der Stadt Kupiškis.",
+                  "category": "cultural",
+                  "coords": [
+                        24.975849,
+                        55.836649
+                  ]
+            },
+            {
+                  "name": "Wake&Jump Kupiškis",
+                  "text": "Ein Freizeitpark am Stausee von Kupiškis, der Wakeboarding und Wasseraktivitäten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977774,
+                        55.851253
+                  ]
+            },
+            {
+                  "name": "Židinys",
+                  "text": "Eine Kunstgalerie und Ausstellungsfläche für zeitgenössische Kunst in Kupiškis.",
+                  "category": "museum",
+                  "coords": [
+                        24.978057,
+                        55.839979
+                  ]
+            },
+            {
+                  "name": "Buvusi žydų sinagoga",
+                  "text": "Das Gebäude der ehemaligen Synagoge in Kupiškis dient heute als öffentliche Bibliothek.",
+                  "category": "landmark",
+                  "coords": [
+                        24.975495,
+                        55.83962
+                  ]
+            },
+            {
+                  "name": "Uošvės liežuvio dendroparkas",
+                  "text": "Ein dendrologischer Park, der sich auf einer Insel im Stausee von Kupiškis befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        24.978553,
+                        55.855191
+                  ]
+            },
+            {
+                  "name": "Nochemo Šmito vėjo malūnas",
+                  "text": "Eine historische Steinwindmühle in Kupiškis, ein Zeugnis des industriellen Erbes der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.97183,
+                        55.83793
+                  ]
+            },
+            {
+                  "name": "Kazimiero Bočiulio vėjo malūnas",
+                  "text": "Eine traditionelle Windmühle in der Region Kupiškis, benannt nach ihrem früheren Besitzer.",
+                  "category": "landmark",
+                  "coords": [
+                        24.98328,
+                        55.841443
+                  ]
+            },
+            {
+                  "name": "Juozo Vanago vėjo malūnas",
+                  "text": "Eine erhaltene historische Windmühle, die Teil der ländlichen Kulturlandschaft von Kupiškis ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967446,
+                        55.838103
+                  ]
+            },
+            {
+                  "name": "Akmenytės šaltinis",
+                  "text": "Eine natürliche Quelle im Bezirk Kupiškis, die für ihr sauberes Trinkwasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967429,
+                        55.844551
+                  ]
+            },
+            {
+                  "name": "Gedimino tiltas",
+                  "text": "Eine Straßenbrücke über den Fluss Kupa in der Stadt Kupiškis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.976949,
+                        55.8373
+                  ]
+            },
+            {
+                  "name": "Kupiškio Kristaus žengimo į dangų bažnyčia",
+                  "text": "Eine große neugotische Backsteinkirche, die zu den markantesten Gebäuden in Kupiškis gehört.",
+                  "category": "religious",
+                  "coords": [
+                        24.976196,
+                        55.842071
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aukštupėnų piliakalnis",
+                  "text": "Történelmi várhely Kupiškis mellett, ahonnan kilátás nyílik a lagúnára.",
+                  "category": "historical",
+                  "coords": [
+                        24.975445,
+                        55.847793
+                  ]
+            },
+            {
+                  "name": "Kupiškio etnografijos muziejus",
+                  "text": "Kupiškis néprajzi múzeuma, amely a környék hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.975154,
+                        55.842362
+                  ]
+            },
+            {
+                  "name": "Kupiškio kultūros centras",
+                  "text": "Kulturális eseményeknek és előadóművészeteknek otthont adó központ Kupiškisben.",
+                  "category": "cultural",
+                  "coords": [
+                        24.975849,
+                        55.836649
+                  ]
+            },
+            {
+                  "name": "Wake&Jump Kupiškis",
+                  "text": "Aktív kikapcsolódást kínáló park Kupiškisben vízisportolási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977774,
+                        55.851253
+                  ]
+            },
+            {
+                  "name": "Židinys",
+                  "text": "Művészeti galéria és kiállítótér Kupiškisben.",
+                  "category": "museum",
+                  "coords": [
+                        24.978057,
+                        55.839979
+                  ]
+            },
+            {
+                  "name": "Buvusi žydų sinagoga",
+                  "text": "Az egykori kupiškisi zsinagóga épülete ma nyilvános könyvtárként működik.",
+                  "category": "landmark",
+                  "coords": [
+                        24.975495,
+                        55.83962
+                  ]
+            },
+            {
+                  "name": "Uošvės liežuvio dendroparkas",
+                  "text": "Dendrológiai park egy szigeten a Kupiškis-lagúna területén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.978553,
+                        55.855191
+                  ]
+            },
+            {
+                  "name": "Nochemo Šmito vėjo malūnas",
+                  "text": "Történelmi kőmalom Kupiškisben, amely a helyi ipari örökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        24.97183,
+                        55.83793
+                  ]
+            },
+            {
+                  "name": "Kazimiero Bočiulio vėjo malūnas",
+                  "text": "Hagyományos szélmalom Kupiškis környékén, korábbi tulajdonosáról elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        24.98328,
+                        55.841443
+                  ]
+            },
+            {
+                  "name": "Juozo Vanago vėjo malūnas",
+                  "text": "Jó állapotban megőrzött történelmi szélmalom Kupiškis vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967446,
+                        55.838103
+                  ]
+            },
+            {
+                  "name": "Akmenytės šaltinis",
+                  "text": "Természetes forrás Kupiškis környékén, amely tiszta vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967429,
+                        55.844551
+                  ]
+            },
+            {
+                  "name": "Gedimino tiltas",
+                  "text": "Közúti híd a Kupa folyó felett Kupiškisben.",
+                  "category": "landmark",
+                  "coords": [
+                        24.976949,
+                        55.8373
+                  ]
+            },
+            {
+                  "name": "Kupiškio Kristaus žengimo į dangų bažnyčia",
+                  "text": "Hatalmas neogótikus téglaépület, Kupiškis egyik legmeghatározóbb építménye.",
+                  "category": "religious",
+                  "coords": [
+                        24.976196,
+                        55.842071
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aukštupėnų piliakalnis",
+                  "text": "O cetate istorică situată pe un deal lângă Kupiškis, oferind priveliști asupra lagunei.",
+                  "category": "historical",
+                  "coords": [
+                        24.975445,
+                        55.847793
+                  ]
+            },
+            {
+                  "name": "Kupiškio etnografijos muziejus",
+                  "text": "Un muzeu dedicat tradițiilor populare și istoriei locale a districtului Kupiškis.",
+                  "category": "museum",
+                  "coords": [
+                        24.975154,
+                        55.842362
+                  ]
+            },
+            {
+                  "name": "Kupiškio kultūros centras",
+                  "text": "Un centru pentru artele spectacolului și evenimente culturale în orașul Kupiškis.",
+                  "category": "cultural",
+                  "coords": [
+                        24.975849,
+                        55.836649
+                  ]
+            },
+            {
+                  "name": "Wake&Jump Kupiškis",
+                  "text": "Un parc de agrement activ care oferă wakeboarding și activități nautice pe laguna Kupiškis.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977774,
+                        55.851253
+                  ]
+            },
+            {
+                  "name": "Židinys",
+                  "text": "O galerie de artă și un spațiu expozițional situat în Kupiškis.",
+                  "category": "museum",
+                  "coords": [
+                        24.978057,
+                        55.839979
+                  ]
+            },
+            {
+                  "name": "Buvusi žydų sinagoga",
+                  "text": "Clădirea fostei sinagogi din Kupiškis, care servește acum drept bibliotecă publică.",
+                  "category": "landmark",
+                  "coords": [
+                        24.975495,
+                        55.83962
+                  ]
+            },
+            {
+                  "name": "Uošvės liežuvio dendroparkas",
+                  "text": "Un parc dendrologic situat pe o insulă în laguna Kupiškis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.978553,
+                        55.855191
+                  ]
+            },
+            {
+                  "name": "Nochemo Šmito vėjo malūnas",
+                  "text": "O moară de vânt istorică din piatră în Kupiškis, o rămășiță a patrimoniului industrial local.",
+                  "category": "landmark",
+                  "coords": [
+                        24.97183,
+                        55.83793
+                  ]
+            },
+            {
+                  "name": "Kazimiero Bočiulio vėjo malūnas",
+                  "text": "O moară de vânt tradițională din zona Kupiškis, numită după fostul său proprietar.",
+                  "category": "landmark",
+                  "coords": [
+                        24.98328,
+                        55.841443
+                  ]
+            },
+            {
+                  "name": "Juozo Vanago vėjo malūnas",
+                  "text": "O moară de vânt istorică conservată, parte a peisajului rural din Kupiškis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967446,
+                        55.838103
+                  ]
+            },
+            {
+                  "name": "Akmenytės šaltinis",
+                  "text": "Un izvor natural din districtul Kupiškis, cunoscut pentru apa sa curată.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967429,
+                        55.844551
+                  ]
+            },
+            {
+                  "name": "Gedimino tiltas",
+                  "text": "Un pod rutier peste râul Kupa în Kupiškis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.976949,
+                        55.8373
+                  ]
+            },
+            {
+                  "name": "Kupiškio Kristaus žengimo į dangų bažnyčia",
+                  "text": "O biserică neogotică mare din cărămidă roșie, una dintre cele mai proeminente clădiri din Kupiškis.",
+                  "category": "religious",
+                  "coords": [
+                        24.976196,
+                        55.842071
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aukštupėnų piliakalnis",
+                  "text": "A historical hillfort near Kupiškis offering views of the surrounding lagoon.",
+                  "category": "historical",
+                  "coords": [
+                        24.975445,
+                        55.847793
+                  ]
+            },
+            {
+                  "name": "Etnographical Museum of Kupiškis",
+                  "text": "A museum dedicated to the folk traditions and local history of the Kupiškis district.",
+                  "category": "museum",
+                  "coords": [
+                        24.975154,
+                        55.842362
+                  ]
+            },
+            {
+                  "name": "Kupiškio kultūros centras",
+                  "text": "A center for performing arts and cultural events in the town of Kupiškis.",
+                  "category": "cultural",
+                  "coords": [
+                        24.975849,
+                        55.836649
+                  ]
+            },
+            {
+                  "name": "Wake&Jump Kupiškis",
+                  "text": "An active recreation park offering wakeboarding and water activities on the Kupiškis lagoon.",
+                  "category": "recreational",
+                  "coords": [
+                        24.977774,
+                        55.851253
+                  ]
+            },
+            {
+                  "name": "Fireplace",
+                  "text": "An art gallery and exhibition space located in Kupiškis.",
+                  "category": "museum",
+                  "coords": [
+                        24.978057,
+                        55.839979
+                  ]
+            },
+            {
+                  "name": "Former Jewish Synagogue",
+                  "text": "The building of the former synagogue in Kupiškis, now serving as the public library.",
+                  "category": "landmark",
+                  "coords": [
+                        24.975495,
+                        55.83962
+                  ]
+            },
+            {
+                  "name": "Uošvės liežuvio dendroparkas",
+                  "text": "A dendrological park located on an island in the Kupiškis lagoon.",
+                  "category": "landmark",
+                  "coords": [
+                        24.978553,
+                        55.855191
+                  ]
+            },
+            {
+                  "name": "Nochemo Šmito vėjo malūnas",
+                  "text": "A historical stone windmill in Kupiškis, a remnant of local industrial heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        24.97183,
+                        55.83793
+                  ]
+            },
+            {
+                  "name": "Windmill of Kazimieras Bociulis",
+                  "text": "A traditional windmill in the Kupiškis area named after its former owner.",
+                  "category": "landmark",
+                  "coords": [
+                        24.98328,
+                        55.841443
+                  ]
+            },
+            {
+                  "name": "Juozo Vanago vėjo malūnas",
+                  "text": "A preserved historical windmill, part of the rural landscape of Kupiškis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967446,
+                        55.838103
+                  ]
+            },
+            {
+                  "name": "Akmenytės šaltinis",
+                  "text": "A natural spring in the Kupiškis district known for its clean water.",
+                  "category": "landmark",
+                  "coords": [
+                        24.967429,
+                        55.844551
+                  ]
+            },
+            {
+                  "name": "Gediminas Bridge",
+                  "text": "A road bridge over the Kupa River in Kupiškis.",
+                  "category": "landmark",
+                  "coords": [
+                        24.976949,
+                        55.8373
+                  ]
+            },
+            {
+                  "name": "Kupiškio Kristaus žengimo į dangų bažnyčia",
+                  "text": "A large red-brick Neo-Gothic church, one of the most prominent buildings in Kupiškis.",
+                  "category": "religious",
+                  "coords": [
+                        24.976196,
+                        55.842071
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kupiškis", hu: "Kupiškis", ro: "Kupiškis", en: "Kupiškis"},
@@ -1841,7 +14549,304 @@ imageHint: "Kupiskis church and reservoir",
     },
     image: "/poi-images/lithuania-kupiskis-cities-v2.webp",
 },  {
-    id: "lithuania-zarasai-cities-v2",
+    id: "lithuania-zarasai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "Dieses Museum in Zarasai präsentiert die Geschichte, Ethnographie und Naturschönheit der Seenregion.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Ein schulisches Museum in Zarasai, das der lokalen Geschichte und dem Dichter Paulius Širvys gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "Eine Bildungseinrichtung in Zarasai, die lokales künstlerisches Talent und Kreativität fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "Ein einzigartiges architektonisches Bauwerk in Zarasai, das einen herrlichen Blick über den Zarasas-See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Ein ruhiger Ort in Zarasai, an dem Besucher die Naturkulisse und den Blick auf den See genießen können.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Ein beliebtes Ziel für Wasserfreizeit und Sport am Zarasas-See.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "Eine Kirche der Altgläubigen in Zarasai, die die vielfältige Religionsgeschichte der Stadt repräsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "Eine traditionelle orthodoxe Kirche in Zarasai, die allen Heiligen geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "Ez a zarasai múzeum a tóvidék történelmét, néprajzát és természeti szépségeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Iskolai múzeum Zarasai-ban, amelyet a helytörténetnek és Paulius Širvys költőnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "Oktatási intézmény Zarasai-ban, amely a helyi művészeti tehetséget és kreativitást gondozza.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "Egyedülálló építészeti alkotás Zarasai-ban, amely lenyűgöző kilátást nyújt a Zarasas-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Csendes hely Zarasai-ban, ahol a látogatók élvezhetik a természeti tájat és a tóra nyíló kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Népszerű hely a vízi kikapcsolódásra és sportolásra a Zarasas-tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "Óhitű templom Zarasai-ban, amely a város sokszínű vallástörténetét képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "Hagyományos ortodox templom Zarasai-ban, amelyet minden szentnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "Acest muzeu din Zarasai prezintă istoria, etnografia și frumusețea naturală a regiunii lacurilor.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Un muzeu școlar din Zarasai dedicat istoriei locale și poetului Paulius Širvys.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "O instituție de învățământ din Zarasai care încurajează talentul artistic local și creativitatea.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "O structură arhitecturală unică în Zarasai, care oferă vederi uimitoare asupra lacului Zarasas.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Un loc liniștit în Zarasai pentru ca vizitatorii să se bucure de peisajul natural și de vederea la lac.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "O destinație populară pentru recreere și sporturi nautice pe lacul Zarasas.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "O biserică a vechilor credincioși din Zarasai, reprezentând istoria religioasă diversă a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "O biserică ortodoxă tradițională din Zarasai dedicată Tuturor Sfinților.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "This museum in Zarasai presents the history, ethnography, and natural beauty of the lake region.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "A school-based museum in Zarasai dedicated to local history and the poet Paulius Širvys.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "An educational institution in Zarasai fostering local artistic talent and creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Observation wheel",
+                  "text": "A unique architectural structure in Zarasai offering stunning views over Lake Zarasas.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "A quiet spot in Zarasai for visitors to enjoy the natural scenery and lake views.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasai Watersports Park",
+                  "text": "Zarasai Watersports Park is a popular destination for water-based recreation and sports on Lake Zarasas.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "An Old Believers' church in Zarasai, representing the town's diverse religious history.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "A traditional Orthodox church in Zarasai dedicated to All Saints.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Zarasai", hu: "Zarasai", ro: "Zarasai", en: "Zarasai"},
@@ -1887,7 +14892,160 @@ imageHint: "Zarasai lake panoramic view and bridge",
     },
     image: "/poi-images/lithuania-zarasai-cities-v2.webp",
 },  {
-    id: "lithuania-skuodas-cities-v2",
+    id: "lithuania-skuodas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skuodo muziejus",
+                  "text": "Das Regionalmuseum in Skuodas, das Exponate zur lokalen Geschichte und Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        21.521558,
+                        56.269115
+                  ]
+            },
+            {
+                  "name": "Skuodo kultūros centras",
+                  "text": "Ein Zentrum für kulturelle Veranstaltungen und Kunst in Skuodas.",
+                  "category": "cultural",
+                  "coords": [
+                        21.529547,
+                        56.269408
+                  ]
+            },
+            {
+                  "name": "Skuodo Švč. Trejybės bažnyčia",
+                  "text": "Die katholische Dreifaltigkeitskirche in Skuodas.",
+                  "category": "religious",
+                  "coords": [
+                        21.526932,
+                        56.270128
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Skuodas",
+                  "text": "Die evangelisch-lutherische Kirche in Skuodas, ein wichtiges religiöses Denkmal.",
+                  "category": "religious",
+                  "coords": [
+                        21.531764,
+                        56.270275
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skuodo muziejus",
+                  "text": "Skuodas regionális múzeuma, amely a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.521558,
+                        56.269115
+                  ]
+            },
+            {
+                  "name": "Skuodo kultūros centras",
+                  "text": "Skuodas kulturális rendezvényeinek és művészetének központja.",
+                  "category": "cultural",
+                  "coords": [
+                        21.529547,
+                        56.269408
+                  ]
+            },
+            {
+                  "name": "Skuodo Švč. Trejybės bažnyčia",
+                  "text": "Skuodas katolikus Szentháromság-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        21.526932,
+                        56.270128
+                  ]
+            },
+            {
+                  "name": "Skuodo evangelikų liuteronų bažnyčia",
+                  "text": "Skuodas evangélikus temploma, fontos vallási műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        21.531764,
+                        56.270275
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skuodo muziejus",
+                  "text": "Muzeul regional din Skuodas, care prezintă exponate despre istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        21.521558,
+                        56.269115
+                  ]
+            },
+            {
+                  "name": "Skuodo kultūros centras",
+                  "text": "Un centru pentru evenimente culturale și artă în Skuodas.",
+                  "category": "cultural",
+                  "coords": [
+                        21.529547,
+                        56.269408
+                  ]
+            },
+            {
+                  "name": "Skuodo Švč. Trejybės bažnyčia",
+                  "text": "Biserica catolică Sfânta Treime din Skuodas.",
+                  "category": "religious",
+                  "coords": [
+                        21.526932,
+                        56.270128
+                  ]
+            },
+            {
+                  "name": "Skuodo evangelikų liuteronų bažnyčia",
+                  "text": "Biserica evanghelică luterană din Skuodas, un important monument religios.",
+                  "category": "religious",
+                  "coords": [
+                        21.531764,
+                        56.270275
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skuodo muziejus",
+                  "text": "The regional museum in Skuodas, featuring exhibits on local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        21.521558,
+                        56.269115
+                  ]
+            },
+            {
+                  "name": "Skuodo kultūros centras",
+                  "text": "A center for cultural events and arts in Skuodas.",
+                  "category": "cultural",
+                  "coords": [
+                        21.529547,
+                        56.269408
+                  ]
+            },
+            {
+                  "name": "Skuodo Švč. Trejybės bažnyčia",
+                  "text": "The Catholic Holy Trinity Church in Skuodas.",
+                  "category": "religious",
+                  "coords": [
+                        21.526932,
+                        56.270128
+                  ]
+            },
+            {
+                  "name": "Skuodo evangelikų liuteronų bažnyčia",
+                  "text": "The Evangelical Lutheran church in Skuodas, an important religious monument.",
+                  "category": "religious",
+                  "coords": [
+                        21.531764,
+                        56.270275
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Skuodas", hu: "Skuodas", ro: "Skuodas", en: "Skuodas"},
@@ -1933,7 +15091,196 @@ imageHint: "Skuodas city square and park",
     },
     image: "/poi-images/lithuania-skuodas-cities-v2.webp",
 },  {
-    id: "lithuania-kazlu-ruda-cities-v2",
+    id: "lithuania-kazlu-ruda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kazlų Rūdos miško muziejus",
+                  "text": "Ein Museum in Kazlų Rūda, das der Forstwirtschaft, Natur und Jagdgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.510327,
+                        54.748962
+                  ]
+            },
+            {
+                  "name": "Stihl Virvių Parkas",
+                  "text": "Ein Abenteuerpark im Freien mit verschiedenen Seilparcours und Kletterherausforderungen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.49676,
+                        54.745662
+                  ]
+            },
+            {
+                  "name": "Pažintinis miško takas",
+                  "text": "Ein Lehrpfad durch die malerischen Wälder von Kazlų Rūda.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509405,
+                        54.747259
+                  ]
+            },
+            {
+                  "name": "Partizanų bunkeris",
+                  "text": "Ein rekonstruierter Bunker, der während des Widerstands von litauischen Partisanen genutzt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        23.518091,
+                        54.741001
+                  ]
+            },
+            {
+                  "name": "Kazlų Rūdos Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Eine katholische Holzkirche in Kazlų Rūda, die dem Heiligsten Herzen Jesu geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.489649,
+                        54.748894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kazlų Rūdos miško muziejus",
+                  "text": "Erdészeti, természetrajzi és vadászati múzeum Kazlų Rūdában.",
+                  "category": "museum",
+                  "coords": [
+                        23.510327,
+                        54.748962
+                  ]
+            },
+            {
+                  "name": "Stihl Virvių Parkas",
+                  "text": "Szabadtéri kalandpark különféle kötélpályákkal és mászófalakkal.",
+                  "category": "recreational",
+                  "coords": [
+                        23.49676,
+                        54.745662
+                  ]
+            },
+            {
+                  "name": "Pažintinis miško takas",
+                  "text": "Tanösvény Kazlų Rūda festői erdeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509405,
+                        54.747259
+                  ]
+            },
+            {
+                  "name": "Partizanų bunkeris",
+                  "text": "Litván partizánok által használt, rekonstruált bunker Kazlų Rūda erdeiben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.518091,
+                        54.741001
+                  ]
+            },
+            {
+                  "name": "Kazlų Rūdos Švč. Jėzaus Širdies bažnyčia",
+                  "text": "Jézus Szent Szíve tiszteletére szentelt katolikus fatemplom Kazlų Rūdában.",
+                  "category": "religious",
+                  "coords": [
+                        23.489649,
+                        54.748894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kazlų Rūdos miško muziejus",
+                  "text": "Un muzeu din Kazlų Rūda dedicat silviculturii, naturii și istoriei vânătorii.",
+                  "category": "museum",
+                  "coords": [
+                        23.510327,
+                        54.748962
+                  ]
+            },
+            {
+                  "name": "Stihl Virvių Parkas",
+                  "text": "Un parc de aventură în aer liber cu diverse trasee de frânghii și provocări de escaladă.",
+                  "category": "recreational",
+                  "coords": [
+                        23.49676,
+                        54.745662
+                  ]
+            },
+            {
+                  "name": "Pažintinis miško takas",
+                  "text": "Un traseu educativ de plimbare prin pădurile pitorești din Kazlų Rūda.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509405,
+                        54.747259
+                  ]
+            },
+            {
+                  "name": "Partizanų bunkeris",
+                  "text": "Un buncăr reconstruit utilizat de partizanii lituanieni în timpul rezistenței.",
+                  "category": "landmark",
+                  "coords": [
+                        23.518091,
+                        54.741001
+                  ]
+            },
+            {
+                  "name": "Kazlų Rūdos Švč. Jėzaus Širdies bažnyčia",
+                  "text": "O biserică catolică din lemn din Kazlų Rūda dedicată Preasfintei Inimi a lui Iisus.",
+                  "category": "religious",
+                  "coords": [
+                        23.489649,
+                        54.748894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kazlų Rūdos miško muziejus",
+                  "text": "A museum dedicated to forestry, nature, and hunting history in Kazlų Rūda.",
+                  "category": "museum",
+                  "coords": [
+                        23.510327,
+                        54.748962
+                  ]
+            },
+            {
+                  "name": "Stihl Virvių Parkas",
+                  "text": "An outdoor adventure park with various rope courses and climbing challenges.",
+                  "category": "recreational",
+                  "coords": [
+                        23.49676,
+                        54.745662
+                  ]
+            },
+            {
+                  "name": "Pažintinis miško takas",
+                  "text": "An educational walking trail through the scenic forests of Kazlų Rūda.",
+                  "category": "landmark",
+                  "coords": [
+                        23.509405,
+                        54.747259
+                  ]
+            },
+            {
+                  "name": "Partizanų bunkeris",
+                  "text": "A reconstructed bunker used by Lithuanian partisans during the resistance.",
+                  "category": "landmark",
+                  "coords": [
+                        23.518091,
+                        54.741001
+                  ]
+            },
+            {
+                  "name": "Kazlų Rūdos Švč. Jėzaus Širdies bažnyčia",
+                  "text": "A wooden Catholic church in Kazlų Rūda dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        23.489649,
+                        54.748894
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kazlų Rūda", hu: "Kazlų Rūda", ro: "Kazlų Rūda", en: "Kazlų Rūda"},
@@ -1979,7 +15326,124 @@ imageHint: "Kazlu Ruda railway station and forest",
     },
     image: "/poi-images/lithuania-kazlu-ruda-cities-v2.webp",
 },  {
-    id: "lithuania-sirvintos-cities-v2",
+    id: "lithuania-sirvintos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šivrintų miesto paplūdimys",
+                  "text": "Der Hauptstrand der Stadt in Širvintos, der ein Erholungsgebiet am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        24.960224,
+                        55.043161
+                  ]
+            },
+            {
+                  "name": "Širvintų koplyčia",
+                  "text": "Eine historische Kapelle in Širvintos, die als lokales religiöses Wahrzeichen dient.",
+                  "category": "religious",
+                  "coords": [
+                        24.967979,
+                        55.038486
+                  ]
+            },
+            {
+                  "name": "Širvintų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Eine Pfarrkirche in Širvintos, die dem Heiligen Erzengel Michael geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.966538,
+                        55.037412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šivrintų miesto paplūdimys",
+                  "text": "Širvintos fő városi strandja, amely vízparti üdülőterületet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        24.960224,
+                        55.043161
+                  ]
+            },
+            {
+                  "name": "Širvintų koplyčia",
+                  "text": "Történelmi kápolna Širvintosban, amely helyi vallási nevezetességként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        24.967979,
+                        55.038486
+                  ]
+            },
+            {
+                  "name": "Širvintų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Szent Mihály arkangyalnak szentelt plébániatemplom Širvintosban.",
+                  "category": "religious",
+                  "coords": [
+                        24.966538,
+                        55.037412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šivrintų miesto paplūdimys",
+                  "text": "Principala plajă a orașului din Širvintos, care oferă o zonă de recreere lângă apă.",
+                  "category": "recreational",
+                  "coords": [
+                        24.960224,
+                        55.043161
+                  ]
+            },
+            {
+                  "name": "Širvintų koplyčia",
+                  "text": "O capelă istorică din Širvintos care servește ca punct de reper religios local.",
+                  "category": "religious",
+                  "coords": [
+                        24.967979,
+                        55.038486
+                  ]
+            },
+            {
+                  "name": "Širvintų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "O biserică parohială din Širvintos dedicată Sfântului Arhanghel Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        24.966538,
+                        55.037412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šivrintų miesto paplūdimys",
+                  "text": "The main city beach in Širvintos, providing a recreational area by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        24.960224,
+                        55.043161
+                  ]
+            },
+            {
+                  "name": "Širvintų koplyčia",
+                  "text": "A historic chapel in Širvintos serving as a local religious landmark.",
+                  "category": "religious",
+                  "coords": [
+                        24.967979,
+                        55.038486
+                  ]
+            },
+            {
+                  "name": "Širvintų Šv. arkangelo Mykolo bažnyčia",
+                  "text": "A parish church in Širvintos dedicated to Saint Michael the Archangel.",
+                  "category": "religious",
+                  "coords": [
+                        24.966538,
+                        55.037412
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Širvintos", hu: "Širvintos", ro: "Širvintos", en: "Širvintos"},
@@ -2025,7 +15489,304 @@ imageHint: "Sirvintos city park and river",
     },
     image: "/poi-images/lithuania-sirvintos-cities-v2.webp",
 },  {
-    id: "lithuania-moletai-cities-v2",
+    id: "lithuania-moletai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kampų piliakalnis",
+                  "text": "Ein alter Burgberg in Molėtai, der als archäologisches Denkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        25.422056,
+                        55.254083
+                  ]
+            },
+            {
+                  "name": "Molėtų krašto muziejus",
+                  "text": "Ein Museum in Molėtai, das die Geschichte und Traditionen der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        25.420915,
+                        55.231964
+                  ]
+            },
+            {
+                  "name": "Vandenlenčių parkas Flip point",
+                  "text": "Ein Freizeitpark in Molėtai, der verschiedene Wassersportaktivitäten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        25.440896,
+                        55.231907
+                  ]
+            },
+            {
+                  "name": "Molėtų skulptūrų parkas",
+                  "text": "Ein Freilichtmuseum in Molėtai, das zeitgenössische Skulpturen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.42626,
+                        55.232039
+                  ]
+            },
+            {
+                  "name": "Pavasarininkų kalnas",
+                  "text": "Ein Hügel und Aussichtspunkt in Molėtai mit schöner Aussicht auf die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        25.417125,
+                        55.226847
+                  ]
+            },
+            {
+                  "name": "Prekybinis pastatas",
+                  "text": "Ein markantes historisches Geschäftsgebäude im Zentrum von Molėtai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.419835,
+                        55.231731
+                  ]
+            },
+            {
+                  "name": "Molėtūno vandens malūnas",
+                  "text": "Die Überreste einer historischen Wassermühle in Molėtai.",
+                  "category": "historical",
+                  "coords": [
+                        25.393375,
+                        55.228713
+                  ]
+            },
+            {
+                  "name": "Molėtų Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "Die imposante katholische Kirche St. Peter und Paul in Molėtai.",
+                  "category": "religious",
+                  "coords": [
+                        25.423947,
+                        55.234147
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kampų piliakalnis",
+                  "text": "Ősi várhely Molėtaiban, amely régészeti műemlék.",
+                  "category": "historical",
+                  "coords": [
+                        25.422056,
+                        55.254083
+                  ]
+            },
+            {
+                  "name": "Molėtų krašto muziejus",
+                  "text": "Molėtai múzeuma, amely a régió történelmét és hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        25.420915,
+                        55.231964
+                  ]
+            },
+            {
+                  "name": "Vandenlenčių parkas Flip point",
+                  "text": "Szabadidőpark Molėtaiban, amely különféle vízi sportolási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        25.440896,
+                        55.231907
+                  ]
+            },
+            {
+                  "name": "Molėtų skulptūrų parkas",
+                  "text": "Szabadtéri múzeum Molėtaiban, amely kortárs szobrokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        25.42626,
+                        55.232039
+                  ]
+            },
+            {
+                  "name": "Pavasarininkų kalnas",
+                  "text": "Domb és kilátóhely Molėtaiban, szép kilátással a környékre.",
+                  "category": "landmark",
+                  "coords": [
+                        25.417125,
+                        55.226847
+                  ]
+            },
+            {
+                  "name": "Prekybinis pastatas",
+                  "text": "Jellegzetes történelmi kereskedelmi épület Molėtai központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.419835,
+                        55.231731
+                  ]
+            },
+            {
+                  "name": "Molėtūno vandens malūnas",
+                  "text": "Egy történelmi vízimalom maradványai Molėtaiban.",
+                  "category": "historical",
+                  "coords": [
+                        25.393375,
+                        55.228713
+                  ]
+            },
+            {
+                  "name": "Molėtų Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "Molėtai impozáns Szent Péter és Pál katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        25.423947,
+                        55.234147
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kampų piliakalnis",
+                  "text": "O veche așezare fortificată în Molėtai, considerată monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        25.422056,
+                        55.254083
+                  ]
+            },
+            {
+                  "name": "Molėtų krašto muziejus",
+                  "text": "Un muzeu în Molėtai, care păstrează istoria și tradițiile regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        25.420915,
+                        55.231964
+                  ]
+            },
+            {
+                  "name": "Vandenlenčių parkas Flip point",
+                  "text": "Un parc de distracții în Molėtai, care oferă diverse activități de sporturi nautice.",
+                  "category": "recreational",
+                  "coords": [
+                        25.440896,
+                        55.231907
+                  ]
+            },
+            {
+                  "name": "Molėtų skulptūrų parkas",
+                  "text": "Un muzeu în aer liber în Molėtai, care prezintă sculpturi contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        25.42626,
+                        55.232039
+                  ]
+            },
+            {
+                  "name": "Pavasarininkų kalnas",
+                  "text": "Un deal și punct de observare în Molėtai, cu o vedere frumoasă asupra împrejurimilor.",
+                  "category": "landmark",
+                  "coords": [
+                        25.417125,
+                        55.226847
+                  ]
+            },
+            {
+                  "name": "Prekybinis pastatas",
+                  "text": "O clădire comercială istorică proeminentă în centrul orașului Molėtai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.419835,
+                        55.231731
+                  ]
+            },
+            {
+                  "name": "Molėtūno vandens malūnas",
+                  "text": "Resturile unei mori de apă istorice în Molėtai.",
+                  "category": "historical",
+                  "coords": [
+                        25.393375,
+                        55.228713
+                  ]
+            },
+            {
+                  "name": "Molėtų Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "Impunătoarea biserică catolică Sfânții Petru și Pavel din Molėtai.",
+                  "category": "religious",
+                  "coords": [
+                        25.423947,
+                        55.234147
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kampų piliakalnis",
+                  "text": "An ancient hillfort in Molėtai, regarded as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        25.422056,
+                        55.254083
+                  ]
+            },
+            {
+                  "name": "Molėtų krašto muziejus",
+                  "text": "A museum in Molėtai that preserves the history and traditions of the region.",
+                  "category": "museum",
+                  "coords": [
+                        25.420915,
+                        55.231964
+                  ]
+            },
+            {
+                  "name": "Vandenlenčių parkas Flip point",
+                  "text": "A leisure park in Molėtai offering various water sports activities.",
+                  "category": "recreational",
+                  "coords": [
+                        25.440896,
+                        55.231907
+                  ]
+            },
+            {
+                  "name": "Molėtų skulptūrų parkas",
+                  "text": "An open-air museum in Molėtai showcasing contemporary sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        25.42626,
+                        55.232039
+                  ]
+            },
+            {
+                  "name": "Pavasarininkų kalnas",
+                  "text": "A hill and viewpoint in Molėtai offering a nice view of the surroundings.",
+                  "category": "landmark",
+                  "coords": [
+                        25.417125,
+                        55.226847
+                  ]
+            },
+            {
+                  "name": "Prekybinis pastatas",
+                  "text": "A prominent historical commercial building in the center of Molėtai.",
+                  "category": "landmark",
+                  "coords": [
+                        25.419835,
+                        55.231731
+                  ]
+            },
+            {
+                  "name": "Molėtūno vandens malūnas",
+                  "text": "The remains of a historical water mill in Molėtai.",
+                  "category": "historical",
+                  "coords": [
+                        25.393375,
+                        55.228713
+                  ]
+            },
+            {
+                  "name": "Molėtų Šv. apaštalų Petro ir Povilo bažnyčia",
+                  "text": "The impressive Catholic Church of St. Peter and Paul in Molėtai.",
+                  "category": "religious",
+                  "coords": [
+                        25.423947,
+                        55.234147
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Molėtai", hu: "Molėtai", ro: "Molėtai", en: "Molėtai"},
@@ -2071,7 +15832,124 @@ imageHint: "Moletai ethnocosmology museum architecture",
     },
     image: "/poi-images/lithuania-moletai-cities-v2.webp",
 },  {
-    id: "lithuania-salcininkai-cities-v2",
+    id: "lithuania-salcininkai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "Ein klassizistisches Herrenhaus in Šalčininkai, das historisch mit der Familie Wagner verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "Eine katholische Kirche in Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "Ein orthodoxes Gotteshaus in Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "Klasszicista kúria Šalčininkai településen, amely történelmileg a Wagner családhoz köthető.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "Katolikus templom Šalčininkai városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "Ortodox imaház Šalčininkai településen.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "Un conac neoclasic din Šalčininkai, asociat istoric cu familia Wagner.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "O biserică romano-catolică din Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "O casă de rugăciune ortodoxă din Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šalčininkų dvaro sodyba",
+                  "text": "A Neoclassical manor house in Šalčininkai, historically associated with the Wagner family.",
+                  "category": "historical",
+                  "coords": [
+                        25.393432,
+                        54.311961
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. apaštalo Petro bažnyčia",
+                  "text": "A Catholic church located in Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.397441,
+                        54.303456
+                  ]
+            },
+            {
+                  "name": "Šalčininkų Šv. Tichono maldos namai",
+                  "text": "An Orthodox house of prayer in Šalčininkai.",
+                  "category": "religious",
+                  "coords": [
+                        25.392545,
+                        54.304966
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Šalčininkai", hu: "Šalčininkai", ro: "Šalčininkai", en: "Šalčininkai"},
@@ -2117,7 +15995,160 @@ imageHint: "Salcininkai manor house and park",
     },
     image: "/poi-images/lithuania-salcininkai-cities-v2.webp",
 },  {
-    id: "lithuania-sakiai-cities-v2",
+    id: "lithuania-sakiai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šakių kultūros centras",
+                  "text": "Ein Zentrum für Gemeinschaftsveranstaltungen, Aufführungen und kulturelles Leben in Šakiai.",
+                  "category": "cultural",
+                  "coords": [
+                        23.042326,
+                        54.955601
+                  ]
+            },
+            {
+                  "name": "Jaunimo kultūros centras „Jaunystė“",
+                  "text": "Ein jugendfokussiertes Kulturzentrum in Šakiai, das verschiedene kreative Aktivitäten anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        23.04363,
+                        54.955145
+                  ]
+            },
+            {
+                  "name": "Šakių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Eine katholische Kirche in Šakiai, die dem heiligen Johannes dem Täufer geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.045046,
+                        54.955328
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Šakiai",
+                  "text": "Eine Kultstätte für die lutherische Gemeinde in der Stadt Šakiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.027657,
+                        54.954342
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šakių kultūros centras",
+                  "text": "Közösségi események, előadások és kulturális élet központja Šakiaiban.",
+                  "category": "cultural",
+                  "coords": [
+                        23.042326,
+                        54.955601
+                  ]
+            },
+            {
+                  "name": "Jaunimo kultūros centras „Jaunystė“",
+                  "text": "Ifjúsági fókuszú kulturális központ Šakiaiban, amely különféle kreatív tevékenységeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        23.04363,
+                        54.955145
+                  ]
+            },
+            {
+                  "name": "Šakių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Keresztelő Szent Jánosnak szentelt katolikus templom Šakiaiban.",
+                  "category": "religious",
+                  "coords": [
+                        23.045046,
+                        54.955328
+                  ]
+            },
+            {
+                  "name": "Šakių evangelikų liuteronų bažnyčia",
+                  "text": "Kultuszhely az evangélikus közösség számára Šakiai városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.027657,
+                        54.954342
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šakių kultūros centras",
+                  "text": "Un centru pentru evenimente comunitare, spectacole și viață culturală în Šakiai.",
+                  "category": "cultural",
+                  "coords": [
+                        23.042326,
+                        54.955601
+                  ]
+            },
+            {
+                  "name": "Jaunimo kultūros centras „Jaunystė“",
+                  "text": "Un centru cultural axat pe tineret din Šakiai, care oferă diverse activități creative.",
+                  "category": "cultural",
+                  "coords": [
+                        23.04363,
+                        54.955145
+                  ]
+            },
+            {
+                  "name": "Šakių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "O biserică catolică din Šakiai dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        23.045046,
+                        54.955328
+                  ]
+            },
+            {
+                  "name": "Šakių evangelikų liuteronų bažnyčia",
+                  "text": "Un lăcaș de cult pentru comunitatea luterană din orașul Šakiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.027657,
+                        54.954342
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šakių kultūros centras",
+                  "text": "A hub for community events, performances, and cultural life in Šakiai.",
+                  "category": "cultural",
+                  "coords": [
+                        23.042326,
+                        54.955601
+                  ]
+            },
+            {
+                  "name": "Jaunimo kultūros centras „Jaunystė“",
+                  "text": "A youth-focused cultural center in Šakiai offering various creative activities.",
+                  "category": "cultural",
+                  "coords": [
+                        23.04363,
+                        54.955145
+                  ]
+            },
+            {
+                  "name": "Šakių Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A Catholic church in Šakiai dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        23.045046,
+                        54.955328
+                  ]
+            },
+            {
+                  "name": "Šakių evangelikų liuteronų bažnyčia",
+                  "text": "A place of worship for the Lutheran community in the town of Šakiai.",
+                  "category": "religious",
+                  "coords": [
+                        23.027657,
+                        54.954342
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Šakiai", hu: "Šakiai", ro: "Šakiai", en: "Šakiai"},
@@ -2163,7 +16194,196 @@ imageHint: "Sakiai city square and park",
     },
     image: "/poi-images/lithuania-sakiai-cities-v2.webp",
 },  {
-    id: "lithuania-kybartai-cities-v2",
+    id: "lithuania-kybartai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kirche Eydtkuhnen Lutherische Kirche",
+                  "text": "Die Ruinen der historischen lutherischen Kirche in Kybartai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "ehem. Zarenhaus mit unterirdischem Tunnel",
+                  "text": "Ein historisches Gebäude in Kybartai mit einem geheimnisvollen unterirdischen Gang.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Die orthodoxe Kirche des Heiligen Alexander Newski in Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "Eine markante katholische Kirche in Kybartai, die dem Erlöser geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "Die Neuapostolische Kirche in Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Лютеранская кирха Эйдткунена",
+                  "text": "Kybartai történelmi evangélikus templomának romjai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "Caro namai su požeminiu tuneliu",
+                  "text": "Történelmi épület Kybartai-ban, titokzatos föld alatti alagúttal.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Kybartai ortodox Szent Alekszandr Nyevszkij-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "Kybartai jellegzetes katolikus temploma, amelyet a Megváltónak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "Kybartai Új Apostoli Temploma.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Лютеранская кирха Эйдткунена",
+                  "text": "Ruinele bisericii luterane istorice din Kybartai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "Caro namai su požeminiu tuneliu",
+                  "text": "O clădire istorică în Kybartai, cu un tunel subteran misterios.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "Biserica ortodoxă Sfântul Alexandru Nevski din Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "O biserică catolică proeminentă în Kybartai, dedicată Mântuitorului.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "Biserica Nouapostolică din Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Лютеранская кирха Эйдткунена",
+                  "text": "The ruins of the historical Lutheran church in Kybartai.",
+                  "category": "landmark",
+                  "coords": [
+                        22.733321,
+                        54.6399
+                  ]
+            },
+            {
+                  "name": "Caro namai su požeminiu tuneliu",
+                  "text": "A historical building in Kybartai featuring a mysterious underground tunnel.",
+                  "category": "historical",
+                  "coords": [
+                        22.760386,
+                        54.640116
+                  ]
+            },
+            {
+                  "name": "Kybartų Šv. Aleksandro Neviškio cerkvė",
+                  "text": "The Orthodox Church of St. Alexander Nevsky in Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.758607,
+                        54.639628
+                  ]
+            },
+            {
+                  "name": "Kybartų Eucharistinio Išganytojo bažnyčia",
+                  "text": "A prominent Catholic church in Kybartai, dedicated to the Savior.",
+                  "category": "religious",
+                  "coords": [
+                        22.756842,
+                        54.63913
+                  ]
+            },
+            {
+                  "name": "Kybartų Naujoji apaštalų bažnyčia",
+                  "text": "The New Apostolic Church in Kybartai.",
+                  "category": "religious",
+                  "coords": [
+                        22.761742,
+                        54.63911
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Kybartai", hu: "Kybartai", ro: "Kybartai", en: "Kybartai"},
@@ -2209,7 +16429,88 @@ imageHint: "Kybartai railway border crossing",
     },
     image: "/poi-images/lithuania-kybartai-cities-v2.webp",
 },  {
-    id: "lithuania-pabrade-cities-v2",
+    id: "lithuania-pabrade-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
+                  "text": "Eine moderne katholische Kirche in Pabradė.",
+                  "category": "religious",
+                  "coords": [
+                        25.764848,
+                        54.983946
+                  ]
+            },
+            {
+                  "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
+                  "text": "Eine orthodoxe Kirche in Pabradė.",
+                  "category": "religious",
+                  "coords": [
+                        25.76694,
+                        54.975634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
+                  "text": "Modern katolikus templom Pabradė városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.764848,
+                        54.983946
+                  ]
+            },
+            {
+                  "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
+                  "text": "Ortodox templom Pabradė városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.76694,
+                        54.975634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
+                  "text": "O biserică catolică modernă din Pabradė.",
+                  "category": "religious",
+                  "coords": [
+                        25.764848,
+                        54.983946
+                  ]
+            },
+            {
+                  "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
+                  "text": "O biserică ortodoxă din Pabradė.",
+                  "category": "religious",
+                  "coords": [
+                        25.76694,
+                        54.975634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pabradės Švč. Mergelės Marijos Šeimų karalienės bažnyčia",
+                  "text": "A modern Catholic church in Pabradė.",
+                  "category": "religious",
+                  "coords": [
+                        25.764848,
+                        54.983946
+                  ]
+            },
+            {
+                  "name": "Pabradės Šv. Sergijaus Radonežiečio cerkvė",
+                  "text": "An Orthodox church in Pabradė.",
+                  "category": "religious",
+                  "coords": [
+                        25.76694,
+                        54.975634
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Pabradė", hu: "Pabradė", ro: "Pabradė", en: "Pabradė"},
@@ -2255,7 +16556,160 @@ imageHint: "Pabrade bridge and pine forest",
     },
     image: "/poi-images/lithuania-pabrade-cities-v2.webp",
 },  {
-    id: "lithuania-silale-cities-v2",
+    id: "lithuania-silale-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "Eine Wallburg im Bezirk Šilalė, die mit alten baltischen Stämmen in Verbindung steht.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "Ein Regionalmuseum in Šilalė, das lokale Geschichte, Kultur und Archäologie zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Šilalės Jono Tartilavičiaus Batakiečio evangelikų liuteronų bažnyčia",
+                  "text": "Eine lutherische Kirche in Šilalė, benannt nach einer bedeutenden religiösen Figur.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "St. Franziskus von Assisi",
+                  "text": "Eine neugotische katholische Kirche in Šilalė, die dem heiligen Franz von Assisi geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "Várhely Šilalė járásban, amely az ősi balti törzsekhez kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "Regionális múzeum Šilalében, amely a helyi történelmet, kultúrát és régészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Šilalės Jono Tartilavičiaus Batakiečio evangelikų liuteronų bažnyčia",
+                  "text": "Jelentős vallási alakról elnevezett evangélikus templom Šilalében.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "Šilalės Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Assisi Szent Ferencnek szentelt neogótikus katolikus templom Šilalében.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "Un sit de fortificație din districtul Šilalė legat de triburile baltice antice.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "Un muzeu regional din Šilalė care prezintă istoria locală, cultura și arheologia.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Šilalės Jono Tartilavičiaus Batakiečio evangelikų liuteronų bažnyčia",
+                  "text": "O biserică luterană din Šilalė, numită după o figură religioasă semnificativă.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "Šilalės Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "O biserică catolică neogotică din Šilalė dedicată Sfântului Francisc de Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "A hillfort site in the Šilalė district linked to ancient Baltic tribes.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "A regional museum in Šilalė showcasing local history, culture, and archaeology.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Šilalės Jono Tartilavičiaus Batakiečio evangelikų liuteronų bažnyčia",
+                  "text": "A Lutheran church in Šilalė named after a significant religious figure.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "Šilalės Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "A neo-Gothic Catholic church in Šilalė dedicated to Saint Francis of Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Šilalė", hu: "Šilalė", ro: "Šilale", en: "Šilalė"},
@@ -2402,6 +16856,69 @@ imageHint: "Ignalina winter sports center and lake",
                         25.509586,
                         54.851493
                   ]
+            },
+            {
+                  "name": "Nemenčinės piliakalnis",
+                  "text": "Ein historischer Burgberg am Ufer der Neris in Nemenčinė.",
+                  "category": "historical",
+                  "coords": [
+                        25.473472,
+                        54.860639
+                  ]
+            },
+            {
+                  "name": "Vilniaus krašto etnografijos muziejus",
+                  "text": "Ein Museum für die Kultur und Ethnografie der Region Vilnius.",
+                  "category": "museum",
+                  "coords": [
+                        25.464994,
+                        54.846615
+                  ]
+            },
+            {
+                  "name": "Buvusi ryšių bazė",
+                  "text": "Überreste einer ehemaligen Kommunikationsbasis bei Nemenčinė.",
+                  "category": "historical",
+                  "coords": [
+                        25.441027,
+                        54.838239
+                  ]
+            },
+            {
+                  "name": "Nemenčinės Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Eine katholische Kirche in Nemenčinė, gewidmet dem Erzengel Michael.",
+                  "category": "religious",
+                  "coords": [
+                        25.461292,
+                        54.848877
+                  ]
+            },
+            {
+                  "name": "Naujasis Nemenčinės tiltas",
+                  "text": "Eine moderne Brücke über die Neris in Nemenčinė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.471404,
+                        54.84098
+                  ]
+            },
+            {
+                  "name": "Nemenčinės tiltas",
+                  "text": "Eine Brücke über die Neris im Stadtgebiet von Nemenčinė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.463733,
+                        54.84521
+                  ]
+            },
+            {
+                  "name": "Nemenčinės kapinių koplyčia",
+                  "text": "Eine kleine Kapelle auf dem Friedhof von Nemenčinė.",
+                  "category": "religious",
+                  "coords": [
+                        25.45974,
+                        54.852652
+                  ]
             }
       ],
       "hu": [
@@ -2412,6 +16929,69 @@ imageHint: "Ignalina winter sports center and lake",
                   "coords": [
                         25.509586,
                         54.851493
+                  ]
+            },
+            {
+                  "name": "Nemenčinės piliakalnis",
+                  "text": "Történelmi várhely a Neris partján Nemenčinėben.",
+                  "category": "historical",
+                  "coords": [
+                        25.473472,
+                        54.860639
+                  ]
+            },
+            {
+                  "name": "Vilniaus krašto etnografijos muziejus",
+                  "text": "A vilniusi régió kultúráját és néprajzát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.464994,
+                        54.846615
+                  ]
+            },
+            {
+                  "name": "Buvusi ryšių bazė",
+                  "text": "Egy egykori hírközlési bázis maradványai Nemenčinėben.",
+                  "category": "historical",
+                  "coords": [
+                        25.441027,
+                        54.838239
+                  ]
+            },
+            {
+                  "name": "Nemenčinės Šv. arkangelo Mykolo bažnyčia",
+                  "text": "Szent Mihály arkangyalnak szentelt katolikus templom Nemenčinėben.",
+                  "category": "religious",
+                  "coords": [
+                        25.461292,
+                        54.848877
+                  ]
+            },
+            {
+                  "name": "Naujasis Nemenčinės tiltas",
+                  "text": "Modern híd a Neris felett Nemenčinėben.",
+                  "category": "landmark",
+                  "coords": [
+                        25.471404,
+                        54.84098
+                  ]
+            },
+            {
+                  "name": "Nemenčinės tiltas",
+                  "text": "Híd a Neris folyón Nemenčinė területén.",
+                  "category": "landmark",
+                  "coords": [
+                        25.463733,
+                        54.84521
+                  ]
+            },
+            {
+                  "name": "Nemenčinės kapinių koplyčia",
+                  "text": "Kisméretű kápolna a nemenčinėi temetőben.",
+                  "category": "religious",
+                  "coords": [
+                        25.45974,
+                        54.852652
                   ]
             }
       ],
@@ -2424,6 +17004,69 @@ imageHint: "Ignalina winter sports center and lake",
                         25.509586,
                         54.851493
                   ]
+            },
+            {
+                  "name": "Nemenčinės piliakalnis",
+                  "text": "Un sit arheologic istoric pe malul râului Neris în Nemenčinė.",
+                  "category": "historical",
+                  "coords": [
+                        25.473472,
+                        54.860639
+                  ]
+            },
+            {
+                  "name": "Vilniaus krašto etnografijos muziejus",
+                  "text": "Un muzeu dedicat culturii și etnografiei regiunii Vilnius.",
+                  "category": "museum",
+                  "coords": [
+                        25.464994,
+                        54.846615
+                  ]
+            },
+            {
+                  "name": "Buvusi ryšių bazė",
+                  "text": "Ruinele unei foste baze de comunicații de lângă Nemenčinė.",
+                  "category": "historical",
+                  "coords": [
+                        25.441027,
+                        54.838239
+                  ]
+            },
+            {
+                  "name": "Nemenčinės Šv. arkangelo Mykolo bažnyčia",
+                  "text": "O biserică catolică din Nemenčinė, închinată Sfântului Arhanghel Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        25.461292,
+                        54.848877
+                  ]
+            },
+            {
+                  "name": "Naujasis Nemenčinės tiltas",
+                  "text": "Un pod modern peste râul Neris în Nemenčinė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.471404,
+                        54.84098
+                  ]
+            },
+            {
+                  "name": "Nemenčinės tiltas",
+                  "text": "Un pod peste râul Neris în localitatea Nemenčinė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.463733,
+                        54.84521
+                  ]
+            },
+            {
+                  "name": "Nemenčinės kapinių koplyčia",
+                  "text": "O mică capelă situată în cimitirul din Nemenčinė.",
+                  "category": "religious",
+                  "coords": [
+                        25.45974,
+                        54.852652
+                  ]
             }
       ],
       "en": [
@@ -2434,6 +17077,69 @@ imageHint: "Ignalina winter sports center and lake",
                   "coords": [
                         25.509586,
                         54.851493
+                  ]
+            },
+            {
+                  "name": "Nemenčinės piliakalnis",
+                  "text": "A historical hillfort located on the banks of the Neris in Nemenčinė.",
+                  "category": "historical",
+                  "coords": [
+                        25.473472,
+                        54.860639
+                  ]
+            },
+            {
+                  "name": "Vilniaus krašto etnografijos muziejus",
+                  "text": "A museum dedicated to the culture and ethnography of the Vilnius region.",
+                  "category": "museum",
+                  "coords": [
+                        25.464994,
+                        54.846615
+                  ]
+            },
+            {
+                  "name": "Buvusi ryšių bazė",
+                  "text": "Ruins of a former communication base near Nemenčinė.",
+                  "category": "historical",
+                  "coords": [
+                        25.441027,
+                        54.838239
+                  ]
+            },
+            {
+                  "name": "Nemenčinės Šv. arkangelo Mykolo bažnyčia",
+                  "text": "A Catholic church in Nemenčinė, dedicated to Saint Michael the Archangel.",
+                  "category": "religious",
+                  "coords": [
+                        25.461292,
+                        54.848877
+                  ]
+            },
+            {
+                  "name": "Naujasis Nemenčinės tiltas",
+                  "text": "A modern bridge crossing the Neris River in Nemenčinė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.471404,
+                        54.84098
+                  ]
+            },
+            {
+                  "name": "Nemenčinės tiltas",
+                  "text": "A bridge crossing the Neris River in Nemenčinė.",
+                  "category": "landmark",
+                  "coords": [
+                        25.463733,
+                        54.84521
+                  ]
+            },
+            {
+                  "name": "Nemenčinės kapinių koplyčia",
+                  "text": "A small chapel located in the Nemenčinė cemetery.",
+                  "category": "religious",
+                  "coords": [
+                        25.45974,
+                        54.852652
                   ]
             }
       ]
@@ -2483,7 +17189,340 @@ imageHint: "Nemencine bridge over Neris river",
     },
     image: "/poi-images/lithuania-nemencine-cities-v2.webp",
 },  {
-    id: "lithuania-pakruojis-cities-v2",
+    id: "lithuania-pakruojis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pakruojo dvaro rūmai",
+                  "text": "Das elegante Hauptschloss des Gutshofkomplexes Pakruojis, das heute Museumsexponate beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        23.879023,
+                        55.986123
+                  ]
+            },
+            {
+                  "name": "Profesoriaus Stasio Ušinsko memorialinis kambarys",
+                  "text": "Ein Gedenkraum in Pakruojis, der dem Leben und Werk von Professor Stasys Ušinskas gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.849527,
+                        55.977492
+                  ]
+            },
+            {
+                  "name": "Sigutėnų vėjo malūnas",
+                  "text": "Eine traditionelle Holzwindmühle im Dorf Sigutėnai bei Pakruojis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.840505,
+                        55.982897
+                  ]
+            },
+            {
+                  "name": "Griuvėsiai",
+                  "text": "Atmosphärische Ruinen eines ehemaligen Bauwerks im Gebiet von Pakruojis.",
+                  "category": "historical",
+                  "coords": [
+                        23.88055,
+                        55.991285
+                  ]
+            },
+            {
+                  "name": "Pakruojo kultūros centras",
+                  "text": "Ein Veranstaltungsort für Theater, Musik und Gemeinschaftstreffen in Pakruojis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.847604,
+                        55.977362
+                  ]
+            },
+            {
+                  "name": "Vėjo malūno kino teatras",
+                  "text": "Ein einzigartiges Kino, das in einem ehemaligen Windmühlengebäude in Pakruojis untergebracht ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.882258,
+                        55.991348
+                  ]
+            },
+            {
+                  "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Eine lokale katholische Kirche, die der Gemeinde Pakruojis dient.",
+                  "category": "religious",
+                  "coords": [
+                        23.853941,
+                        55.980339
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro tiltas",
+                  "text": "Eine einzigartige gewölbte Dolomitbrücke am Gutshof Pakruojis, erbaut im frühen 19. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        23.878721,
+                        55.991047
+                  ]
+            },
+            {
+                  "name": "Pakruojo kapinių koplyčia",
+                  "text": "Eine friedliche Friedhofskapelle in Pakruojis, die für lokale Gedenkfeiern genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        23.843469,
+                        55.98235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pakruojo dvaro rūmai",
+                  "text": "A pakruojisi kastélykomplexum elegáns főépülete, amely ma múzeumi kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        23.879023,
+                        55.986123
+                  ]
+            },
+            {
+                  "name": "Profesoriaus Stasio Ušinsko memorialinis kambarys",
+                  "text": "Emlékszoba Pakruojisban, amelyet Stasys Ušinskas professzor életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        23.849527,
+                        55.977492
+                  ]
+            },
+            {
+                  "name": "Sigutėnų vėjo malūnas",
+                  "text": "Hagyományos fűrészmalom Sigutėnai faluban, Pakruojis közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.840505,
+                        55.982897
+                  ]
+            },
+            {
+                  "name": "Griuvėsiai",
+                  "text": "Egy korábbi építmény hangulatos romjai Pakruojis területén.",
+                  "category": "historical",
+                  "coords": [
+                        23.88055,
+                        55.991285
+                  ]
+            },
+            {
+                  "name": "Pakruojo kultūros centras",
+                  "text": "Színház, zene és közösségi összejövetelek helyszíne Pakruojisban.",
+                  "category": "cultural",
+                  "coords": [
+                        23.847604,
+                        55.977362
+                  ]
+            },
+            {
+                  "name": "Vėjo malūno kino teatras",
+                  "text": "Egyedülálló mozi, amely egy korábbi szélmalom épületében kapott helyet Pakruojisban.",
+                  "category": "landmark",
+                  "coords": [
+                        23.882258,
+                        55.991348
+                  ]
+            },
+            {
+                  "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Helyi katolikus templom, amely a pakruojisi plébániát szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        23.853941,
+                        55.980339
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro tiltas",
+                  "text": "Egyedülálló íves dolomithíd a pakruojisi kastélynál, amely a 19. század elején épült.",
+                  "category": "landmark",
+                  "coords": [
+                        23.878721,
+                        55.991047
+                  ]
+            },
+            {
+                  "name": "Pakruojo kapinių koplyčia",
+                  "text": "Békés temetőkápolna Pakruojisban, amelyet helyi megemlékezésekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        23.843469,
+                        55.98235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pakruojo dvaro rūmai",
+                  "text": "Palatul principal elegant al complexului conacului Pakruojis, care găzduiește acum exponate muzeale.",
+                  "category": "museum",
+                  "coords": [
+                        23.879023,
+                        55.986123
+                  ]
+            },
+            {
+                  "name": "Profesoriaus Stasio Ušinsko memorialinis kambarys",
+                  "text": "O cameră memorială din Pakruojis dedicată vieții și operei profesorului Stasys Ušinskas.",
+                  "category": "museum",
+                  "coords": [
+                        23.849527,
+                        55.977492
+                  ]
+            },
+            {
+                  "name": "Sigutėnų vėjo malūnas",
+                  "text": "O moară de vânt tradițională din lemn situată în satul Sigutėnai, lângă Pakruojis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.840505,
+                        55.982897
+                  ]
+            },
+            {
+                  "name": "Griuvėsiai",
+                  "text": "Ruine atmosferice ale unei foste structuri din zona Pakruojis.",
+                  "category": "historical",
+                  "coords": [
+                        23.88055,
+                        55.991285
+                  ]
+            },
+            {
+                  "name": "Pakruojo kultūros centras",
+                  "text": "Un loc pentru teatru, muzică și întâlniri comunitare în Pakruojis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.847604,
+                        55.977362
+                  ]
+            },
+            {
+                  "name": "Vėjo malūno kino teatras",
+                  "text": "Un cinematograf unic găzduit într-o fostă clădire de moară de vânt din Pakruojis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.882258,
+                        55.991348
+                  ]
+            },
+            {
+                  "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
+                  "text": "O biserică catolică locală care deservește parohia Pakruojis.",
+                  "category": "religious",
+                  "coords": [
+                        23.853941,
+                        55.980339
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro tiltas",
+                  "text": "Un pod de dolomit cu arcuri unic la conacul Pakruojis, construit la începutul secolului al XIX-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        23.878721,
+                        55.991047
+                  ]
+            },
+            {
+                  "name": "Pakruojo kapinių koplyčia",
+                  "text": "O capelă de cimitir liniștită din Pakruojis, folosită pentru servicii comemorative locale.",
+                  "category": "religious",
+                  "coords": [
+                        23.843469,
+                        55.98235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pakruojo dvaro rūmai",
+                  "text": "The elegant main palace of the Pakruojis Manor complex, now housing museum exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        23.879023,
+                        55.986123
+                  ]
+            },
+            {
+                  "name": "Profesoriaus Stasio Ušinsko memorialinis kambarys",
+                  "text": "A memorial room in Pakruojis dedicated to the life and work of Professor Stasys Ušinskas.",
+                  "category": "museum",
+                  "coords": [
+                        23.849527,
+                        55.977492
+                  ]
+            },
+            {
+                  "name": "Sigutėnų vėjo malūnas",
+                  "text": "A traditional wooden windmill located in the Sigutėnai village near Pakruojis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.840505,
+                        55.982897
+                  ]
+            },
+            {
+                  "name": "Griuvėsiai",
+                  "text": "Atmospheric ruins of a former structure within the Pakruojis area.",
+                  "category": "historical",
+                  "coords": [
+                        23.88055,
+                        55.991285
+                  ]
+            },
+            {
+                  "name": "Pakruojo kultūros centras",
+                  "text": "A venue for theater, music, and community gatherings in Pakruojis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.847604,
+                        55.977362
+                  ]
+            },
+            {
+                  "name": "Vėjo malūno kino teatras",
+                  "text": "A unique cinema housed in a former windmill building in Pakruojis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.882258,
+                        55.991348
+                  ]
+            },
+            {
+                  "name": "Pakruojo Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A local Catholic church serving the Pakruojis parish.",
+                  "category": "religious",
+                  "coords": [
+                        23.853941,
+                        55.980339
+                  ]
+            },
+            {
+                  "name": "Pakruojo dvaro tiltas",
+                  "text": "A unique arched dolomite bridge at the Pakruojis Manor, built in the early 19th century.",
+                  "category": "landmark",
+                  "coords": [
+                        23.878721,
+                        55.991047
+                  ]
+            },
+            {
+                  "name": "Pakruojo kapinių koplyčia",
+                  "text": "A peaceful cemetery chapel in Pakruojis used for local memorial services.",
+                  "category": "religious",
+                  "coords": [
+                        23.843469,
+                        55.98235
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Pakruojis", hu: "Pakruojis", ro: "Pakruojis", en: "Pakruojis"},
@@ -2575,7 +17614,196 @@ imageHint: "Svencioneliai railway station and forest",
     },
     image: "/poi-images/lithuania-svencioneliai-cities-v2.webp",
 },  {
-    id: "lithuania-vievis-cities-v2",
+    id: "lithuania-vievis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kelių muziejus",
+                  "text": "Ein spezialisiertes Museum in Vievis, das die Geschichte des Straßenbaus dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Žemės gelmių informacijos centras",
+                  "text": "Ein Informationszentrum in Vievis, das sich mit der Geologie und dem Erdinneren befasst.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "Eine orthodoxe Kirche in Vievis, gewidmet der Aufnahme Mariens in den Himmel.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "Eine katholische Kirche im Zentrum von Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "Eine orthodoxe Kapelle in Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kelių muziejus",
+                  "text": "Speciális múzeum Vievisben, amely az útépítés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Žemės gelmių informacijos centras",
+                  "text": "Geológiával és a föld mélyével foglalkozó információs központ Vievisben.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "Szűz Mária mennybevételének szentelt ortodox templom Vievisben.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "Katolikus templom Vievis központjában.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "Ortodox kápolna Vievis településen.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kelių muziejus",
+                  "text": "Un muzeu specializat din Vievis care prezintă istoria construcției drumurilor.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Žemės gelmių informacijos centras",
+                  "text": "Un centru de informare din Vievis dedicat geologiei și resurselor subsolului.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "O biserică ortodoxă din Vievis, închinată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "O biserică catolică situată în centrul localității Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "O capelă ortodoxă din Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Road Museum",
+                  "text": "A specialized museum in Vievis documenting the history of road construction.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Underground Information Center",
+                  "text": "An information center in Vievis focused on geology and the earth's depths.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "An Orthodox church in Vievis, dedicated to the Assumption of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "A Catholic church located in the center of Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "An Orthodox chapel in Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Vievis", hu: "Vievis", ro: "Vievis", en: "Vievis"},
@@ -2621,7 +17849,196 @@ imageHint: "Vievis lake and church",
     },
     image: "/poi-images/lithuania-vievis-cities-v2.webp",
 },  {
-    id: "lithuania-lazdijai-cities-v2",
+    id: "lithuania-lazdijai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Papalazdijų piliakalnis",
+                  "text": "Eine alte Wallburg bei Lazdijai, die einen Einblick in die prähistorische Vergangenheit der Region bietet.",
+                  "category": "historical",
+                  "coords": [
+                        23.506222,
+                        54.209278
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "Ein Museum in Lazdijai, das die litauischen Unabhängigkeitskämpfe dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.511841,
+                        54.236606
+                  ]
+            },
+            {
+                  "name": "Lazdijų krašto muziejus",
+                  "text": "Dieses Regionalmuseum erforscht die Sozial- und Kulturgeschichte des Bezirks Lazdijai.",
+                  "category": "museum",
+                  "coords": [
+                        23.512792,
+                        54.229955
+                  ]
+            },
+            {
+                  "name": "Lazdijų Šv. Onos bažnyčia",
+                  "text": "Die katholische Zentralkirche in Lazdijai, die der heiligen Anna geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.513428,
+                        54.235796
+                  ]
+            },
+            {
+                  "name": "Lazdijų sentikių cerkvė",
+                  "text": "Eine Kultstätte der Altgläubigen in Lazdijai mit einem ausgeprägten architektonischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        23.521712,
+                        54.228608
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Papalazdijų piliakalnis",
+                  "text": "Ősi várhely Lazdijai közelében, amely betekintést nyújt a régió őskori múltjába.",
+                  "category": "historical",
+                  "coords": [
+                        23.506222,
+                        54.209278
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "Múzeum Lazdijaiban, amely a litván függetlenségi harcokat dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        23.511841,
+                        54.236606
+                  ]
+            },
+            {
+                  "name": "Lazdijų krašto muziejus",
+                  "text": "Ez a regionális múzeum a Lazdijai járás társadalmi és kulturális történelmét tárja fel.",
+                  "category": "museum",
+                  "coords": [
+                        23.512792,
+                        54.229955
+                  ]
+            },
+            {
+                  "name": "Lazdijų Šv. Onos bažnyčia",
+                  "text": "Lazdijai központi katolikus temploma, amelyet Szent Annának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        23.513428,
+                        54.235796
+                  ]
+            },
+            {
+                  "name": "Lazdijų sentikių cerkvė",
+                  "text": "Óhitű templom Lazdijaiban, jellegzetes építészeti stílussal.",
+                  "category": "religious",
+                  "coords": [
+                        23.521712,
+                        54.228608
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Papalazdijų piliakalnis",
+                  "text": "O veche fortificație lângă Lazdijai care oferă o privire în trecutul preistoric al regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        23.506222,
+                        54.209278
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "Un muzeu din Lazdijai care documentează luptele lituaniene pentru independență.",
+                  "category": "museum",
+                  "coords": [
+                        23.511841,
+                        54.236606
+                  ]
+            },
+            {
+                  "name": "Lazdijų krašto muziejus",
+                  "text": "Acest muzeu regional explorează istoria socială și culturală a districtului Lazdijai.",
+                  "category": "museum",
+                  "coords": [
+                        23.512792,
+                        54.229955
+                  ]
+            },
+            {
+                  "name": "Lazdijų Šv. Onos bažnyčia",
+                  "text": "Principala biserică catolică din Lazdijai, dedicată Sfintei Ana.",
+                  "category": "religious",
+                  "coords": [
+                        23.513428,
+                        54.235796
+                  ]
+            },
+            {
+                  "name": "Lazdijų sentikių cerkvė",
+                  "text": "Un lăcaș de cult al vechilor credincioși din Lazdijai, cu un stil arhitectural distinct.",
+                  "category": "religious",
+                  "coords": [
+                        23.521712,
+                        54.228608
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Papalazdijų piliakalnis",
+                  "text": "An ancient hillfort near Lazdijai offering a glimpse into the region's prehistoric past.",
+                  "category": "historical",
+                  "coords": [
+                        23.506222,
+                        54.209278
+                  ]
+            },
+            {
+                  "name": "Laisvės kovų muziejus",
+                  "text": "A museum in Lazdijai documenting the Lithuanian struggles for independence.",
+                  "category": "museum",
+                  "coords": [
+                        23.511841,
+                        54.236606
+                  ]
+            },
+            {
+                  "name": "Lazdijų krašto muziejus",
+                  "text": "This regional museum explores the social and cultural history of the Lazdijai district.",
+                  "category": "museum",
+                  "coords": [
+                        23.512792,
+                        54.229955
+                  ]
+            },
+            {
+                  "name": "Lazdijų Šv. Onos bažnyčia",
+                  "text": "The central Catholic church in Lazdijai, dedicated to Saint Anne.",
+                  "category": "religious",
+                  "coords": [
+                        23.513428,
+                        54.235796
+                  ]
+            },
+            {
+                  "name": "Lazdijų sentikių cerkvė",
+                  "text": "An Old Believers' place of worship in Lazdijai with a distinct architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        23.521712,
+                        54.228608
+                  ]
+            }
+      ]
+},
     parent: "LT",
     type: "city",
     name: { de: "Lazdijai", hu: "Lazdijai", ro: "Lazdijai", en: "Lazdijai"},
@@ -2804,7 +18221,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-viekšniai-cities-v2.webp",
   },
   {
-    id: "lithuania-ezerelis-cities-v2",
+    id: "lithuania-ezerelis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ežerėlio Šv. Antano Paduviečio bažnyčia",
+                  "text": "Eine hölzerne Pfarrkirche in Ežerėlis, die dem heiligen Antonius von Padua geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.603932,
+                        54.882396
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ežerėlio Šv. Antano Paduviečio bažnyčia",
+                  "text": "Páduai Szent Antalnak szentelt fatemplom Ežerėlisben.",
+                  "category": "religious",
+                  "coords": [
+                        23.603932,
+                        54.882396
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ežerėlio Šv. Antano Paduviečio bažnyčia",
+                  "text": "O biserică parohială de lemn din Ežerėlis dedicată Sfântului Anton de Padova.",
+                  "category": "religious",
+                  "coords": [
+                        23.603932,
+                        54.882396
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ežerėlio Šv. Antano Paduviečio bažnyčia",
+                  "text": "A wooden parish church in Ežerėlis dedicated to Saint Anthony of Padua.",
+                  "category": "religious",
+                  "coords": [
+                        23.603932,
+                        54.882396
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Ežerėlis", hu: "Ežerėlis", ro: "Ežerėlis", en: "Ežerėlis" },
@@ -2859,6 +18321,42 @@ imageHint: "Lazdijai border crossing and church",
                         21.599383,
                         55.597303
                   ]
+            },
+            {
+                  "name": "Veiviržėnų piliakalnis",
+                  "text": "Ein archäologisch bedeutender Burgberg in der Nähe von Veiviržėnai.",
+                  "category": "historical",
+                  "coords": [
+                        21.603972,
+                        55.599694
+                  ]
+            },
+            {
+                  "name": "Vyskupiškių piliakalnis",
+                  "text": "Ein weiterer historischer Burgberg in der Region Veiviržėnai.",
+                  "category": "historical",
+                  "coords": [
+                        21.565972,
+                        55.593167
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Lurdas",
+                  "text": "Eine religiöse Grotte und Andachtsstätte in Veiviržėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        21.597083,
+                        55.596681
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Die katholische St.-Matthäus-Kirche in Veiviržėnai.",
+                  "category": "religious",
+                  "coords": [
+                        21.599669,
+                        55.6004
+                  ]
             }
       ],
       "hu": [
@@ -2869,6 +18367,42 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         21.599383,
                         55.597303
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų piliakalnis",
+                  "text": "Régészetileg jelentős várhely Veiviržėnai közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.603972,
+                        55.599694
+                  ]
+            },
+            {
+                  "name": "Vyskupiškių piliakalnis",
+                  "text": "Újabb történelmi várhely Veiviržėnai régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        21.565972,
+                        55.593167
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Lurdas",
+                  "text": "Vallási barlang és kegyhely Veiviržėnai-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.597083,
+                        55.596681
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Veiviržėnai katolikus Szent Máté-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        21.599669,
+                        55.6004
                   ]
             }
       ],
@@ -2881,6 +18415,42 @@ imageHint: "Lazdijai border crossing and church",
                         21.599383,
                         55.597303
                   ]
+            },
+            {
+                  "name": "Veiviržėnų piliakalnis",
+                  "text": "O așezare fortificată de importanță arheologică lângă Veiviržėnai.",
+                  "category": "historical",
+                  "coords": [
+                        21.603972,
+                        55.599694
+                  ]
+            },
+            {
+                  "name": "Vyskupiškių piliakalnis",
+                  "text": "O altă așezare fortificată istorică în regiunea Veiviržėnai.",
+                  "category": "historical",
+                  "coords": [
+                        21.565972,
+                        55.593167
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Lurdas",
+                  "text": "O grotă religioasă și loc de pelerinaj în Veiviržėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        21.597083,
+                        55.596681
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Biserica catolică Sfântul Matei din Veiviržėnai.",
+                  "category": "religious",
+                  "coords": [
+                        21.599669,
+                        55.6004
+                  ]
             }
       ],
       "en": [
@@ -2891,6 +18461,42 @@ imageHint: "Lazdijai border crossing and church",
                   "coords": [
                         21.599383,
                         55.597303
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų piliakalnis",
+                  "text": "An archaeologically significant hillfort located near Veiviržėnai.",
+                  "category": "historical",
+                  "coords": [
+                        21.603972,
+                        55.599694
+                  ]
+            },
+            {
+                  "name": "Vyskupiškių piliakalnis",
+                  "text": "Another historical hillfort in the Veiviržėnai region.",
+                  "category": "historical",
+                  "coords": [
+                        21.565972,
+                        55.593167
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Lurdas",
+                  "text": "A religious grotto and place of worship in Veiviržėnai.",
+                  "category": "landmark",
+                  "coords": [
+                        21.597083,
+                        55.596681
+                  ]
+            },
+            {
+                  "name": "Veiviržėnų Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "The Catholic St. Matthew's Church in Veiviržėnai.",
+                  "category": "religious",
+                  "coords": [
+                        21.599669,
+                        55.6004
                   ]
             }
       ]
@@ -2939,7 +18545,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-veivirzenai-cities-v2.webp",
   },
   {
-    id: "lithuania-baltoji-voke-cities-v2",
+    id: "lithuania-baltoji-voke-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Skurbutėnų koplyčia",
+                  "text": "Eine kleine Kapelle in der Nähe von Baltoji Vokė.",
+                  "category": "religious",
+                  "coords": [
+                        25.122588,
+                        54.551821
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Skurbutėnų koplyčia",
+                  "text": "Kisméretű kápolna Baltoji Vokė közelében.",
+                  "category": "religious",
+                  "coords": [
+                        25.122588,
+                        54.551821
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Skurbutėnų koplyčia",
+                  "text": "O mică capelă situată lângă Baltoji Vokė.",
+                  "category": "religious",
+                  "coords": [
+                        25.122588,
+                        54.551821
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Skurbutėnų koplyčia",
+                  "text": "A small chapel located near Baltoji Vokė.",
+                  "category": "religious",
+                  "coords": [
+                        25.122588,
+                        54.551821
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Baltoji Vokė", hu: "Baltoji Vokė", ro: "Baltoji Vokė", en: "Baltoji Vokė" },
@@ -2984,7 +18635,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-baltoji-voke-cities-v2.webp",
   },
   {
-    id: "lithuania-simnas-cities-v2",
+    id: "lithuania-simnas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Simno Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Eine historische Kirche im Renaissancestil in Simnas, die auf das frühe 16. Jahrhundert zurückgeht.",
+                  "category": "religious",
+                  "coords": [
+                        23.645486,
+                        54.383634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Simno Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Történelmi reneszánsz stílusú templom Simnasban, amely a 16. század elejéről származik.",
+                  "category": "religious",
+                  "coords": [
+                        23.645486,
+                        54.383634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Simno Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "O biserică istorică în stil renascentist din Simnas, datând de la începutul secolului al XVI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        23.645486,
+                        54.383634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Simno Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "A historic Renaissance-style church in Simnas, dating back to the early 16th century.",
+                  "category": "religious",
+                  "coords": [
+                        23.645486,
+                        54.383634
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Simnas", hu: "Simnas", ro: "Simnas", en: "Simnas" },
@@ -3029,7 +18725,160 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-simnas-cities-v2.webp",
   },
   {
-    id: "lithuania-daugai-cities-v2",
+    id: "lithuania-daugai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daugų piliakalnis",
+                  "text": "Ein beeindruckender historischer Burgberg am Ufer des Sees in Daugai.",
+                  "category": "historical",
+                  "coords": [
+                        24.324806,
+                        54.380389
+                  ]
+            },
+            {
+                  "name": "Daugų irklavimo bazės paplūdimys",
+                  "text": "Ein Strand in Daugai, der zur lokalen Ruderbasis gehört.",
+                  "category": "recreational",
+                  "coords": [
+                        24.345305,
+                        54.354201
+                  ]
+            },
+            {
+                  "name": "Doškonių aukakalnis",
+                  "text": "Ein Hügel in Daugai, der früher als Kultstätte diente und heute eine Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        24.384212,
+                        54.353738
+                  ]
+            },
+            {
+                  "name": "Daugų Dievo Apvaizdos bažnyčia",
+                  "text": "Die katholische Kirche der Göttlichen Vorsehung in Daugai.",
+                  "category": "religious",
+                  "coords": [
+                        24.344509,
+                        54.359794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daugų piliakalnis",
+                  "text": "Lenyűgöző történelmi várhely a tó partján Daugai-ban.",
+                  "category": "historical",
+                  "coords": [
+                        24.324806,
+                        54.380389
+                  ]
+            },
+            {
+                  "name": "Daugų irklavimo bazės paplūdimys",
+                  "text": "Daugai strandja, amely a helyi evezős bázishoz tartozik.",
+                  "category": "recreational",
+                  "coords": [
+                        24.345305,
+                        54.354201
+                  ]
+            },
+            {
+                  "name": "Doškonių aukakalnis",
+                  "text": "Daugai egyik dombja, amely korábban kultuszhely volt, ma kilátóhely.",
+                  "category": "natural",
+                  "coords": [
+                        24.384212,
+                        54.353738
+                  ]
+            },
+            {
+                  "name": "Daugų Dievo Apvaizdos bažnyčia",
+                  "text": "Daugai katolikus Isteni Gondviselés-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        24.344509,
+                        54.359794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daugų piliakalnis",
+                  "text": "O așezare fortificată istorică impresionantă pe malul lacului în Daugai.",
+                  "category": "historical",
+                  "coords": [
+                        24.324806,
+                        54.380389
+                  ]
+            },
+            {
+                  "name": "Daugų irklavimo bazės paplūdimys",
+                  "text": "O plajă în Daugai, aparținând bazei locale de canotaj.",
+                  "category": "recreational",
+                  "coords": [
+                        24.345305,
+                        54.354201
+                  ]
+            },
+            {
+                  "name": "Doškonių aukakalnis",
+                  "text": "Un deal în Daugai care servea drept loc de cult și oferă astăzi o panoramă.",
+                  "category": "natural",
+                  "coords": [
+                        24.384212,
+                        54.353738
+                  ]
+            },
+            {
+                  "name": "Daugų Dievo Apvaizdos bažnyčia",
+                  "text": "Biserica catolică Providența Divină din Daugai.",
+                  "category": "religious",
+                  "coords": [
+                        24.344509,
+                        54.359794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daugų piliakalnis",
+                  "text": "An impressive historical hillfort on the shore of the lake in Daugai.",
+                  "category": "historical",
+                  "coords": [
+                        24.324806,
+                        54.380389
+                  ]
+            },
+            {
+                  "name": "Daugų irklavimo bazės paplūdimys",
+                  "text": "A beach in Daugai belonging to the local rowing base.",
+                  "category": "recreational",
+                  "coords": [
+                        24.345305,
+                        54.354201
+                  ]
+            },
+            {
+                  "name": "Doškonių aukakalnis",
+                  "text": "A hill in Daugai that formerly served as a cult site and now offers a view.",
+                  "category": "natural",
+                  "coords": [
+                        24.384212,
+                        54.353738
+                  ]
+            },
+            {
+                  "name": "Daugų Dievo Apvaizdos bažnyčia",
+                  "text": "The Catholic Church of Divine Providence in Daugai.",
+                  "category": "religious",
+                  "coords": [
+                        24.344509,
+                        54.359794
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Daugai", hu: "Daugai", ro: "Daugai", en: "Daugai" },
@@ -3119,7 +18968,196 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-viekšniai-town-cities-v2.webp",
   },
   {
-    id: "lithuania-vievis-region-cities-v2",
+    id: "lithuania-vievis-region-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kelių muziejus",
+                  "text": "Das Museum in der Umgebung von Vievis widmet sich der Geschichte des Straßenbaus in Litauen.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Žemės gelmių informacijos centras",
+                  "text": "Ein Informationszentrum in der Nähe von Vievis, das sich mit der Geologie und den Tiefen der Erde befasst.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "Eine orthodoxe Kirche in der Umgebung von Vievis, die der Aufnahme Mariens in den Himmel geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "Die St.-Anna-Kirche ist ein markantes religiöses Bauwerk in der Umgebung von Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "Eine russisch-orthodoxe Kapelle in der Umgebung von Vievis, die allen Heiligen Russlands gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kelių muziejus",
+                  "text": "A Vievis környékén található múzeum a litvániai útépítés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Žemės gelmių informacijos centras",
+                  "text": "Információs központ Vievis környékén, amely a földtani ismeretekkel és a föld mélyével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "Ortodox templom Vievis környékén, amelyet az Istenszülő elszenderedésének tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "A Szent Anna-templom Vievis környékének egyik jelentős vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "Orosz ortodox kápolna Vievis környékén, amelyet Oroszország minden szentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kelių muziejus",
+                  "text": "Muzeul din apropiere de Vievis este dedicat istoriei construcției drumurilor în Lituania.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Žemės gelmių informacijos centras",
+                  "text": "Un centru de informare lângă Vievis, axat pe geologie și adâncurile pământului.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "O biserică ortodoxă din zona Vievis, dedicată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "Biserica Sfânta Ana este un edificiu religios important din apropiere de Vievis.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "O capelă ortodoxă rusă din zona Vievis, dedicată Tuturor Sfinților Rusiei.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Road Museum",
+                  "text": "The museum in the Vievis area is dedicated to the history of road construction in Lithuania.",
+                  "category": "museum",
+                  "coords": [
+                        24.814797,
+                        54.77259
+                  ]
+            },
+            {
+                  "name": "Underground Information Center",
+                  "text": "An information center near Vievis focused on geology and the depths of the earth.",
+                  "category": "museum",
+                  "coords": [
+                        24.815466,
+                        54.774543
+                  ]
+            },
+            {
+                  "name": "Vievio Dievo Motinos Ėmimo į dangų cerkvė",
+                  "text": "An Orthodox church in the Vievis area, dedicated to the Assumption of the Mother of God.",
+                  "category": "religious",
+                  "coords": [
+                        24.826155,
+                        54.77093
+                  ]
+            },
+            {
+                  "name": "Vievio Šv. Onos bažnyčia",
+                  "text": "St. Anne's Church is a significant religious building in the Vievis area.",
+                  "category": "religious",
+                  "coords": [
+                        24.817485,
+                        54.769939
+                  ]
+            },
+            {
+                  "name": "Vievio visų rusų Šventųjų koplyčia",
+                  "text": "A Russian Orthodox chapel in the Vievis area, dedicated to All Saints of Russia.",
+                  "category": "religious",
+                  "coords": [
+                        24.828111,
+                        54.766832
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Vievis Umgebung", hu: "Vievis környéke", ro: "Împrejurimi Vievis", en: "Vievis area" },
@@ -3332,7 +19370,88 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-seduva-cities-v2.webp",
   },
   {
-    id: "lithuania-joniskelis-cities-v2",
+    id: "lithuania-joniskelis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Joniškėlio dvaro sodyba",
+                  "text": "Ein historisches Herrenhaus-Ensemble in Joniškėlis.",
+                  "category": "historical",
+                  "coords": [
+                        24.167819,
+                        56.032064
+                  ]
+            },
+            {
+                  "name": "Joniškėlio Švč. Trejybės bažnyčia",
+                  "text": "Die katholische Kirche der Heiligen Dreifaltigkeit in Joniškėlis.",
+                  "category": "religious",
+                  "coords": [
+                        24.169254,
+                        56.025819
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Joniškėlio dvaro sodyba",
+                  "text": "Történelmi kúriaegyüttes Joniškėlisben.",
+                  "category": "historical",
+                  "coords": [
+                        24.167819,
+                        56.032064
+                  ]
+            },
+            {
+                  "name": "Joniškėlio Švč. Trejybės bažnyčia",
+                  "text": "Szentháromság katolikus templom Joniškėlisben.",
+                  "category": "religious",
+                  "coords": [
+                        24.169254,
+                        56.025819
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Joniškėlio dvaro sodyba",
+                  "text": "Un ansamblu istoric de conace din Joniškėlis.",
+                  "category": "historical",
+                  "coords": [
+                        24.167819,
+                        56.032064
+                  ]
+            },
+            {
+                  "name": "Joniškėlio Švč. Trejybės bažnyčia",
+                  "text": "Biserica catolică Sfânta Treime din Joniškėlis.",
+                  "category": "religious",
+                  "coords": [
+                        24.169254,
+                        56.025819
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Joniškėlio dvaro sodyba",
+                  "text": "A historical manor house ensemble in Joniškėlis.",
+                  "category": "historical",
+                  "coords": [
+                        24.167819,
+                        56.032064
+                  ]
+            },
+            {
+                  "name": "Joniškėlio Švč. Trejybės bažnyčia",
+                  "text": "The Catholic Church of the Holy Trinity in Joniškėlis.",
+                  "category": "religious",
+                  "coords": [
+                        24.169254,
+                        56.025819
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Joniškėlis", hu: "Joniškėlis", ro: "Joniškėlis", en: "Joniškėlis" },
@@ -3377,7 +19496,448 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-joniskelis-cities-v2.webp",
   },
   {
-    id: "lithuania-veisiejai-cities-v2",
+    id: "lithuania-veisiejai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mėčiūnų piliakalnis",
+                  "text": "Ein historischer Burgwall in Veisiejai, der Zeugnis von der frühen Besiedlung der Region ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        23.700694,
+                        54.077944
+                  ]
+            },
+            {
+                  "name": "Veisiejų krašto muziejus",
+                  "text": "Das Regionalmuseum in Veisiejai präsentiert die lokale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        23.696577,
+                        54.100946
+                  ]
+            },
+            {
+                  "name": "Veisiejų lauko estrada",
+                  "text": "Eine Freilichtbühne in Veisiejai, die als Veranstaltungsort für kulturelle Aufführungen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        23.691685,
+                        54.099129
+                  ]
+            },
+            {
+                  "name": "Vainežerio senovės gynybinis įtvirtinimas, vad. Okopka",
+                  "text": "Eine antike Verteidigungsanlage in Veisiejai, auch bekannt als Okopka.",
+                  "category": "landmark",
+                  "coords": [
+                        23.67265,
+                        54.080087
+                  ]
+            },
+            {
+                  "name": "Veisiejų dvaras",
+                  "text": "Ein historisches Herrenhaus in Veisiejai, das die Architektur vergangener Zeiten widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        23.692825,
+                        54.09994
+                  ]
+            },
+            {
+                  "name": "Veisiejų apžvalgos bokštas",
+                  "text": "Ein Aussichtsturm in Veisiejai, der einen weiten Blick über die umliegende Seenlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.7221,
+                        54.101345
+                  ]
+            },
+            {
+                  "name": "Šaltinis",
+                  "text": "Eine natürliche Quelle in Veisiejai, die als lokaler Anziehungspunkt gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.696177,
+                        54.097411
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Ančios ežerą",
+                  "text": "Ein Aussichtspunkt in Veisiejai mit malerischem Blick auf den Ančia-See.",
+                  "category": "natural",
+                  "coords": [
+                        23.704027,
+                        54.088552
+                  ]
+            },
+            {
+                  "name": "22 liepų ratas",
+                  "text": "Eine markante Formation aus 22 Linden in Veisiejai, die eine botanische Sehenswürdigkeit darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.693118,
+                        54.098688
+                  ]
+            },
+            {
+                  "name": "Pėsčiųjų takas Ančios ežero pakrante",
+                  "text": "Ein Wanderweg am Ufer des Ančia-Sees, ideal für Spaziergänge in der Natur.",
+                  "category": "landmark",
+                  "coords": [
+                        23.707962,
+                        54.089659
+                  ]
+            },
+            {
+                  "name": "Vaikystės sodas",
+                  "text": "Ein als 'Garten der Kindheit' gestalteter Bereich in Veisiejai für Erholung und Freizeit.",
+                  "category": "landmark",
+                  "coords": [
+                        23.675771,
+                        54.104508
+                  ]
+            },
+            {
+                  "name": "Veisiejų Šv. Jurgio bažnyčia",
+                  "text": "Die St.-Georgs-Kirche ist ein bedeutendes religiöses Denkmal in Veisiejai.",
+                  "category": "religious",
+                  "coords": [
+                        23.694946,
+                        54.101641
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mėčiūnų piliakalnis",
+                  "text": "Történelmi várhely Veisiejai területén, amely a régió korai betelepülésének emléke.",
+                  "category": "historical",
+                  "coords": [
+                        23.700694,
+                        54.077944
+                  ]
+            },
+            {
+                  "name": "Veisiejų krašto muziejus",
+                  "text": "A Veisiejai regionális múzeum a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.696577,
+                        54.100946
+                  ]
+            },
+            {
+                  "name": "Veisiejų lauko estrada",
+                  "text": "Szabadtéri színpad Veisiejai városában, amely kulturális események helyszínéül szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        23.691685,
+                        54.099129
+                  ]
+            },
+            {
+                  "name": "Vainežerio senovės gynybinis įtvirtinimas, vad. Okopka",
+                  "text": "Ókori védelmi erődítmény Veisiejai környékén, amelyet Okopka néven is ismernek.",
+                  "category": "landmark",
+                  "coords": [
+                        23.67265,
+                        54.080087
+                  ]
+            },
+            {
+                  "name": "Veisiejų dvaras",
+                  "text": "Történelmi udvarház Veisiejai városában, amely a múlt építészetét idézi.",
+                  "category": "historical",
+                  "coords": [
+                        23.692825,
+                        54.09994
+                  ]
+            },
+            {
+                  "name": "Veisiejų apžvalgos bokštas",
+                  "text": "Kilátótorony Veisiejai területén, amely széles panorámát nyújt a környező tóvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        23.7221,
+                        54.101345
+                  ]
+            },
+            {
+                  "name": "Šaltinis",
+                  "text": "Természetes forrás Veisiejai városában, amely helyi látványosságnak számít.",
+                  "category": "landmark",
+                  "coords": [
+                        23.696177,
+                        54.097411
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Ančios ežerą",
+                  "text": "Kilátóhely Veisiejai területén, festői kilátással az Ančia-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        23.704027,
+                        54.088552
+                  ]
+            },
+            {
+                  "name": "22 liepų ratas",
+                  "text": "22 hársfából álló kör Veisiejai területén, amely botanikai különlegesség.",
+                  "category": "landmark",
+                  "coords": [
+                        23.693118,
+                        54.098688
+                  ]
+            },
+            {
+                  "name": "Pėsčiųjų takas Ančios ežero pakrante",
+                  "text": "Gyalogút az Ančia-tó partján, amely ideális természeti sétákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        23.707962,
+                        54.089659
+                  ]
+            },
+            {
+                  "name": "Vaikystės sodas",
+                  "text": "A 'Gyermekkor kertje' névre keresztelt pihenőhely Veisiejai városában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.675771,
+                        54.104508
+                  ]
+            },
+            {
+                  "name": "Veisiejų Šv. Jurgio bažnyčia",
+                  "text": "A Szent György-templom Veisiejai jelentős vallási műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        23.694946,
+                        54.101641
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mėčiūnų piliakalnis",
+                  "text": "Un sit arheologic din Veisiejai, care atestă așezările timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        23.700694,
+                        54.077944
+                  ]
+            },
+            {
+                  "name": "Veisiejų krašto muziejus",
+                  "text": "Muzeul regional din Veisiejai prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        23.696577,
+                        54.100946
+                  ]
+            },
+            {
+                  "name": "Veisiejų lauko estrada",
+                  "text": "O scenă în aer liber din Veisiejai, utilizată pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        23.691685,
+                        54.099129
+                  ]
+            },
+            {
+                  "name": "Vainežerio senovės gynybinis įtvirtinimas, vad. Okopka",
+                  "text": "O veche fortificație defensivă din Veisiejai, cunoscută și sub numele de Okopka.",
+                  "category": "landmark",
+                  "coords": [
+                        23.67265,
+                        54.080087
+                  ]
+            },
+            {
+                  "name": "Veisiejų dvaras",
+                  "text": "Un conac istoric din Veisiejai, care reflectă arhitectura vremurilor trecute.",
+                  "category": "historical",
+                  "coords": [
+                        23.692825,
+                        54.09994
+                  ]
+            },
+            {
+                  "name": "Veisiejų apžvalgos bokštas",
+                  "text": "Un turn de observare în Veisiejai, care oferă o vedere amplă asupra peisajului înconjurător cu lacuri.",
+                  "category": "natural",
+                  "coords": [
+                        23.7221,
+                        54.101345
+                  ]
+            },
+            {
+                  "name": "Šaltinis",
+                  "text": "Un izvor natural în Veisiejai, considerat un punct de atracție local.",
+                  "category": "landmark",
+                  "coords": [
+                        23.696177,
+                        54.097411
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Ančios ežerą",
+                  "text": "Un punct de observație în Veisiejai, cu o vedere pitorească asupra lacului Ančia.",
+                  "category": "natural",
+                  "coords": [
+                        23.704027,
+                        54.088552
+                  ]
+            },
+            {
+                  "name": "22 liepų ratas",
+                  "text": "O formațiune de 22 de tei în Veisiejai, reprezentând o atracție botanică.",
+                  "category": "landmark",
+                  "coords": [
+                        23.693118,
+                        54.098688
+                  ]
+            },
+            {
+                  "name": "Pėsčiųjų takas Ančios ežero pakrante",
+                  "text": "O potecă pietonală pe malul lacului Ančia, ideală pentru plimbări în natură.",
+                  "category": "landmark",
+                  "coords": [
+                        23.707962,
+                        54.089659
+                  ]
+            },
+            {
+                  "name": "Vaikystės sodas",
+                  "text": "O zonă amenajată numită „Grădina copilăriei” în Veisiejai, pentru recreere și timp liber.",
+                  "category": "landmark",
+                  "coords": [
+                        23.675771,
+                        54.104508
+                  ]
+            },
+            {
+                  "name": "Veisiejų Šv. Jurgio bažnyčia",
+                  "text": "Biserica Sfântul Gheorghe este un monument religios important din Veisiejai.",
+                  "category": "religious",
+                  "coords": [
+                        23.694946,
+                        54.101641
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mėčiūnų piliakalnis",
+                  "text": "A historical hillfort in Veisiejai, bearing witness to the early settlement of the region.",
+                  "category": "historical",
+                  "coords": [
+                        23.700694,
+                        54.077944
+                  ]
+            },
+            {
+                  "name": "Veisiejų krašto muziejus",
+                  "text": "The regional museum in Veisiejai presents local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        23.696577,
+                        54.100946
+                  ]
+            },
+            {
+                  "name": "Veisiejų lauko estrada",
+                  "text": "An outdoor stage in Veisiejai used as a venue for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.691685,
+                        54.099129
+                  ]
+            },
+            {
+                  "name": "Vainežerio senovės gynybinis įtvirtinimas, vad. Okopka",
+                  "text": "An ancient defensive fortification in Veisiejai, also known as Okopka.",
+                  "category": "landmark",
+                  "coords": [
+                        23.67265,
+                        54.080087
+                  ]
+            },
+            {
+                  "name": "Veisiejų dvaras",
+                  "text": "A historical manor house in Veisiejai reflecting the architecture of past eras.",
+                  "category": "historical",
+                  "coords": [
+                        23.692825,
+                        54.09994
+                  ]
+            },
+            {
+                  "name": "Veisiejų apžvalgos bokštas",
+                  "text": "An observation tower in Veisiejai offering a wide view of the surrounding lake landscape.",
+                  "category": "natural",
+                  "coords": [
+                        23.7221,
+                        54.101345
+                  ]
+            },
+            {
+                  "name": "Šaltinis",
+                  "text": "A natural spring in Veisiejai, considered a local point of interest.",
+                  "category": "landmark",
+                  "coords": [
+                        23.696177,
+                        54.097411
+                  ]
+            },
+            {
+                  "name": "Vaizdas į Ančios ežerą",
+                  "text": "A viewpoint in Veisiejai with a picturesque view of Lake Ančia.",
+                  "category": "natural",
+                  "coords": [
+                        23.704027,
+                        54.088552
+                  ]
+            },
+            {
+                  "name": "22 liepų ratas",
+                  "text": "A striking formation of 22 linden trees in Veisiejai, representing a botanical attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        23.693118,
+                        54.098688
+                  ]
+            },
+            {
+                  "name": "Pėsčiųjų takas Ančios ežero pakrante",
+                  "text": "A pedestrian path along the shore of Lake Ančia, ideal for nature walks.",
+                  "category": "landmark",
+                  "coords": [
+                        23.707962,
+                        54.089659
+                  ]
+            },
+            {
+                  "name": "Vaikystės sodas",
+                  "text": "An area designed as the 'Childhood Garden' in Veisiejai for recreation and leisure.",
+                  "category": "landmark",
+                  "coords": [
+                        23.675771,
+                        54.104508
+                  ]
+            },
+            {
+                  "name": "Veisiejų Šv. Jurgio bažnyčia",
+                  "text": "St. George's Church is a significant religious monument in Veisiejai.",
+                  "category": "religious",
+                  "coords": [
+                        23.694946,
+                        54.101641
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Veisiejai", hu: "Veisiejai", ro: "Veisiejai", en: "Veisiejai" },
@@ -3422,7 +19982,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-veisiejai-cities-v2.webp",
   },
   {
-    id: "lithuania-krakes-cities-v2",
+    id: "lithuania-krakes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Krakių Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Die dem Heiligen Matthäus geweihte katholische Kirche in Krakės.",
+                  "category": "religious",
+                  "coords": [
+                        23.727495,
+                        55.407525
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Krakių Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Krakės katolikus temploma, amelyet Szent Máté tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        23.727495,
+                        55.407525
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Krakių Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "Biserica catolică din Krakės, dedicată Sfântului Matei.",
+                  "category": "religious",
+                  "coords": [
+                        23.727495,
+                        55.407525
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Krakių Šv. apaštalo evangelisto Mato bažnyčia",
+                  "text": "The Catholic church in Krakės, dedicated to Saint Matthew.",
+                  "category": "religious",
+                  "coords": [
+                        23.727495,
+                        55.407525
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Krakės", hu: "Krakės", ro: "Krakės", en: "Krakės" },
@@ -3467,7 +20072,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-krakes-cities-v2.webp",
   },
   {
-    id: "lithuania-varduva-cities-v2",
+    id: "lithuania-varduva-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rimolių piliakalnis",
+                  "text": "Ein archäologisch bedeutender Burgberg bei Varduva.",
+                  "category": "historical",
+                  "coords": [
+                        22.07175,
+                        56.185889
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rimolių piliakalnis",
+                  "text": "Régészetileg jelentős várhely Varduva közelében.",
+                  "category": "historical",
+                  "coords": [
+                        22.07175,
+                        56.185889
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rimolių piliakalnis",
+                  "text": "Un sit arheologic de tip dâmb de fortificație lângă Varduva.",
+                  "category": "historical",
+                  "coords": [
+                        22.07175,
+                        56.185889
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rimolių piliakalnis",
+                  "text": "An archaeologically significant hillfort near Varduva.",
+                  "category": "historical",
+                  "coords": [
+                        22.07175,
+                        56.185889
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Varduva", hu: "Varduva", ro: "Varduva", en: "Varduva" },
@@ -3512,7 +20162,340 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-varduva-cities-v2.webp",
   },
   {
-    id: "lithuania-zarasai-suburb-cities-v2",
+    id: "lithuania-zarasai-suburb-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "Das Regionalmuseum in Zarasai dokumentiert das kulturelle Erbe der Umgebung.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Ein kleines Museum in einer Schule in Zarasai, das sich mit der lokalen Heimatkunde befasst.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "Ein Zentrum für künstlerische Ausbildung und kulturelle Aktivitäten in Zarasai.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "Ein Aussichtsrad in Zarasai, das Besuchern einen Panoramablick über die Stadt und die Seen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Ein ausgewiesener Ort in Zarasai, um die Aussicht auf die umliegende Natur zu genießen.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Ein Freizeitpark in Zarasai, der verschiedene Aktivitäten auf dem Wasser anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Balto ežero parkas ir takas",
+                  "text": "Ein Park mit Wanderweg am Balto-See, ideal für Erholung im Freien.",
+                  "category": "landmark",
+                  "coords": [
+                        26.275402,
+                        55.756464
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "Eine Kirche der Altgläubigen in Zarasai, die ein wichtiges religiöses Zentrum der Gemeinschaft darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "Die Allerheiligenkirche ist ein bedeutendes orthodoxes Gotteshaus in Zarasai.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "A Zarasai környéki múzeum a térség kulturális örökségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Helytörténeti múzeum egy zarasai iskolában, amely a környék múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "Művészeti oktatási és kulturális központ Zarasai környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "Kilátókerék Zarasai környékén, amely panorámás kilátást nyújt a városra és a tavakra.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Kijelölt kilátóhely Zarasai környékén a természet megfigyelésére.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Vízi sportok parkja Zarasai környékén, különféle szabadidős lehetőségekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Balto ežero parkas ir takas",
+                  "text": "Park és gyalogút a Balto-tónál, amely ideális a szabadidős kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        26.275402,
+                        55.756464
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "Óhitű templom Zarasai környékén, a közösség fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "A Mindenszentek-templom Zarasai környékének jelentős ortodox hitéleti helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "Muzeul regional din Zarasai documentează moștenirea culturală a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Un mic muzeu într-o școală din Zarasai, axat pe etnografia locală.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "Un centru pentru educație artistică și activități culturale în Zarasai.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "O roată panoramică în Zarasai, care oferă vizitatorilor o vedere asupra orașului și a lacurilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Un loc special amenajat în Zarasai pentru a admira panorama naturii înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Un parc de agrement în Zarasai care oferă diverse activități nautice.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Balto ežero parkas ir takas",
+                  "text": "Un parc cu potecă pe malul lacului Balto, ideal pentru recreere în aer liber.",
+                  "category": "landmark",
+                  "coords": [
+                        26.275402,
+                        55.756464
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "O biserică a ortodocșilor de rit vechi din Zarasai, un centru religios important pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "Biserica Tuturor Sfinților este un lăcaș de cult ortodox important din Zarasai.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "The regional museum in Zarasai documents the cultural heritage of the area.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "A small local history museum located in a school in Zarasai.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "A center for artistic education and cultural activities in Zarasai.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Observation wheel",
+                  "text": "An observation wheel in Zarasai offering visitors a panoramic view of the town and lakes.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "A designated spot in Zarasai to enjoy views of the surrounding nature.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasai Watersports Park",
+                  "text": "A leisure park in Zarasai offering various water-based activities.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Balto ežero parkas ir takas",
+                  "text": "A park and path by Lake Balto, ideal for outdoor recreation.",
+                  "category": "landmark",
+                  "coords": [
+                        26.275402,
+                        55.756464
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "An Old Believer church in Zarasai, representing an important religious center for the community.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "All Saints Church is a significant Orthodox place of worship in Zarasai.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Zarasai Vorort", hu: "Zarasai elővárosa", ro: "Suburbie Zarasai", en: "Zarasai suburb" },
@@ -3557,7 +20540,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-zarasai-suburb-cities-v2.webp",
   },
   {
-    id: "lithuania-pabirze-cities-v2",
+    id: "lithuania-pabirze-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daučkėnų buv. dvaro sodybos fragmentai",
+                  "text": "Die Überreste eines ehemaligen Herrenhauses in Pabiržė.",
+                  "category": "historical",
+                  "coords": [
+                        24.62835,
+                        56.109676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daučkėnų buv. dvaro sodybos fragmentai",
+                  "text": "Egy egykori kúria maradványai Pabiržė-ben.",
+                  "category": "historical",
+                  "coords": [
+                        24.62835,
+                        56.109676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daučkėnų buv. dvaro sodybos fragmentai",
+                  "text": "Resturile unui fost conac în Pabiržė.",
+                  "category": "historical",
+                  "coords": [
+                        24.62835,
+                        56.109676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daučkėnų buv. dvaro sodybos fragmentai",
+                  "text": "The remains of a former manor house in Pabiržė.",
+                  "category": "historical",
+                  "coords": [
+                        24.62835,
+                        56.109676
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Pabiržė", hu: "Pabiržė", ro: "Pabiržė", en: "Pabiržė" },
@@ -3602,7 +20630,124 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-pabirze-cities-v2.webp",
   },
   {
-    id: "lithuania-leipalingis-cities-v2",
+    id: "lithuania-leipalingis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Černiauskų piliakalnis",
+                  "text": "Ein historischer Burgberg in der Nähe von Leipalingis.",
+                  "category": "historical",
+                  "coords": [
+                        23.86725,
+                        54.070194
+                  ]
+            },
+            {
+                  "name": "Druskininkėlių piliakalnis",
+                  "text": "Ein archäologisches Denkmal bei Leipalingis.",
+                  "category": "historical",
+                  "coords": [
+                        23.8375,
+                        54.084667
+                  ]
+            },
+            {
+                  "name": "Leipalingio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Eine katholische Kirche in Leipalingis, der Himmelfahrt Mariens gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        23.859044,
+                        54.087617
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Černiauskų piliakalnis",
+                  "text": "Történelmi várhely Leipalingis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.86725,
+                        54.070194
+                  ]
+            },
+            {
+                  "name": "Druskininkėlių piliakalnis",
+                  "text": "Régészeti műemlék Leipalingis közelében.",
+                  "category": "historical",
+                  "coords": [
+                        23.8375,
+                        54.084667
+                  ]
+            },
+            {
+                  "name": "Leipalingio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Szűz Mária mennybevételének szentelt katolikus templom Leipalingisben.",
+                  "category": "religious",
+                  "coords": [
+                        23.859044,
+                        54.087617
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Černiauskų piliakalnis",
+                  "text": "Un sit arheologic istoric situat lângă Leipalingis.",
+                  "category": "historical",
+                  "coords": [
+                        23.86725,
+                        54.070194
+                  ]
+            },
+            {
+                  "name": "Druskininkėlių piliakalnis",
+                  "text": "Un monument arheologic de lângă Leipalingis.",
+                  "category": "historical",
+                  "coords": [
+                        23.8375,
+                        54.084667
+                  ]
+            },
+            {
+                  "name": "Leipalingio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "O biserică catolică din Leipalingis, închinată Adormirii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        23.859044,
+                        54.087617
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Černiauskų piliakalnis",
+                  "text": "A historical hillfort located near Leipalingis.",
+                  "category": "historical",
+                  "coords": [
+                        23.86725,
+                        54.070194
+                  ]
+            },
+            {
+                  "name": "Druskininkėlių piliakalnis",
+                  "text": "An archaeological monument located near Leipalingis.",
+                  "category": "historical",
+                  "coords": [
+                        23.8375,
+                        54.084667
+                  ]
+            },
+            {
+                  "name": "Leipalingio Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "A Catholic church in Leipalingis, dedicated to the Assumption of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        23.859044,
+                        54.087617
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Leipalingis", hu: "Leipalingis", ro: "Leipalingis", en: "Leipalingis" },
@@ -3647,7 +20792,160 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-leipalingis-cities-v2.webp",
   },
   {
-    id: "lithuania-kaltinenai-cities-v2",
+    id: "lithuania-kaltinenai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gedminiškės II piliakalnis",
+                  "text": "Ein historischer Burgwall bei Kaltinėnai, der archäologische Bedeutung für die Region hat.",
+                  "category": "historical",
+                  "coords": [
+                        22.430611,
+                        55.555722
+                  ]
+            },
+            {
+                  "name": "Pilių piliakalnis",
+                  "text": "Ein archäologischer Fundplatz in Kaltinėnai, bekannt für seine Überreste einer alten Befestigung.",
+                  "category": "historical",
+                  "coords": [
+                        22.433639,
+                        55.566917
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Die dem heiligen Johannes dem Täufer geweihte Kirche ist das religiöse Zentrum von Kaltinėnai.",
+                  "category": "religious",
+                  "coords": [
+                        22.452925,
+                        55.563844
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų koplyčia",
+                  "text": "Eine Kapelle in Kaltinėnai, die als Ort der Andacht und Ruhe dient.",
+                  "category": "religious",
+                  "coords": [
+                        22.44524,
+                        55.564927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gedminiškės II piliakalnis",
+                  "text": "Történelmi várhely Kaltinėnai közelében, amely régészeti jelentőséggel bír.",
+                  "category": "historical",
+                  "coords": [
+                        22.430611,
+                        55.555722
+                  ]
+            },
+            {
+                  "name": "Pilių piliakalnis",
+                  "text": "Régészeti lelőhely Kaltinėnai területén, amely egy régi erődítmény maradványairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        22.433639,
+                        55.566917
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom, amely Kaltinėnai vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        22.452925,
+                        55.563844
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų koplyčia",
+                  "text": "Kápolna Kaltinėnai városában, amely az elmélyülés és imádság helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        22.44524,
+                        55.564927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gedminiškės II piliakalnis",
+                  "text": "Un sit arheologic lângă Kaltinėnai, cu importanță istorică pentru regiune.",
+                  "category": "historical",
+                  "coords": [
+                        22.430611,
+                        55.555722
+                  ]
+            },
+            {
+                  "name": "Pilių piliakalnis",
+                  "text": "Un sit arheologic în Kaltinėnai, cunoscut pentru resturile unei vechi fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        22.433639,
+                        55.566917
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Biserica dedicată Sfântului Ioan Botezătorul este centrul religios al localității Kaltinėnai.",
+                  "category": "religious",
+                  "coords": [
+                        22.452925,
+                        55.563844
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų koplyčia",
+                  "text": "O capelă în Kaltinėnai, care servește ca loc de rugăciune și liniște.",
+                  "category": "religious",
+                  "coords": [
+                        22.44524,
+                        55.564927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gedminiškės II piliakalnis",
+                  "text": "A historical hillfort near Kaltinėnai with archaeological significance for the region.",
+                  "category": "historical",
+                  "coords": [
+                        22.430611,
+                        55.555722
+                  ]
+            },
+            {
+                  "name": "Pilių piliakalnis",
+                  "text": "An archaeological site in Kaltinėnai known for the remains of an ancient fortification.",
+                  "category": "historical",
+                  "coords": [
+                        22.433639,
+                        55.566917
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų Šv. Jono Krikštytojo bažnyčia",
+                  "text": "The church dedicated to St. John the Baptist is the religious center of Kaltinėnai.",
+                  "category": "religious",
+                  "coords": [
+                        22.452925,
+                        55.563844
+                  ]
+            },
+            {
+                  "name": "Kaltinėnų koplyčia",
+                  "text": "A chapel in Kaltinėnai serving as a place for devotion and quiet reflection.",
+                  "category": "religious",
+                  "coords": [
+                        22.44524,
+                        55.564927
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Kaltinėnai", hu: "Kaltinėnai", ro: "Kaltinėnai", en: "Kaltinėnai" },
@@ -3692,7 +20990,52 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-kaltinenai-cities-v2.webp",
   },
   {
-    id: "lithuania-juodupė-cities-v2",
+    id: "lithuania-juodupė-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Juodupės Švč. Aušros Vartų Dievo Motinos bažnyčia",
+                  "text": "Eine katholische Kirche in Juodupė, die der Muttergottes vom Tor der Morgenröte geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.603673,
+                        56.081913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Juodupės Švč. Aušros Vartų Dievo Motinos bažnyčia",
+                  "text": "Juodupė katolikus temploma, amelyet a Hajnal-kapu anyja tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        25.603673,
+                        56.081913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Juodupės Švč. Aušros Vartų Dievo Motinos bažnyčia",
+                  "text": "O biserică catolică din Juodupė, dedicată Maicii Domnului de la Poarta Zorilor.",
+                  "category": "religious",
+                  "coords": [
+                        25.603673,
+                        56.081913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Juodupės Švč. Aušros Vartų Dievo Motinos bažnyčia",
+                  "text": "A Catholic church in Juodupė dedicated to Our Lady of the Gate of Dawn.",
+                  "category": "religious",
+                  "coords": [
+                        25.603673,
+                        56.081913
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Juodupė", hu: "Juodupė", ro: "Juodupė", en: "Juodupė" },
@@ -3737,7 +21080,88 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-juodupė-cities-v2.webp",
   },
   {
-    id: "lithuania-subacius-cities-v2",
+    id: "lithuania-subacius-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Subačiaus Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Eine katholische Kirche in Subačius, gewidmet Franz von Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        24.744484,
+                        55.773058
+                  ]
+            },
+            {
+                  "name": "Stračnių Šv. Povilo koplyčia",
+                  "text": "Eine kleine Kapelle im Dorf Stračniai bei Subačius.",
+                  "category": "religious",
+                  "coords": [
+                        24.717464,
+                        55.76922
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Subačiaus Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Assisi Szent Ferencnek szentelt katolikus templom Subačiusban.",
+                  "category": "religious",
+                  "coords": [
+                        24.744484,
+                        55.773058
+                  ]
+            },
+            {
+                  "name": "Stračnių Šv. Povilo koplyčia",
+                  "text": "Kisméretű kápolna Stračniai faluban, Subačius közelében.",
+                  "category": "religious",
+                  "coords": [
+                        24.717464,
+                        55.76922
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Subačiaus Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "O biserică catolică din Subačius, închinată Sfântului Francisc de Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        24.744484,
+                        55.773058
+                  ]
+            },
+            {
+                  "name": "Stračnių Šv. Povilo koplyčia",
+                  "text": "O mică capelă în satul Stračniai, lângă Subačius.",
+                  "category": "religious",
+                  "coords": [
+                        24.717464,
+                        55.76922
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Subačiaus Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "A Catholic church in Subačius, dedicated to Saint Francis of Assisi.",
+                  "category": "religious",
+                  "coords": [
+                        24.744484,
+                        55.773058
+                  ]
+            },
+            {
+                  "name": "Stračnių Šv. Povilo koplyčia",
+                  "text": "A small chapel in the village of Stračniai near Subačius.",
+                  "category": "religious",
+                  "coords": [
+                        24.717464,
+                        55.76922
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Subačius", hu: "Subačius", ro: "Subačius", en: "Subačius" },
@@ -3827,7 +21251,304 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-obeliai-cities-v2.webp",
   },
   {
-    id: "lithuania-krakinava-cities-v2",
+    id: "lithuania-krakinava-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akmuo Rapolas",
+                  "text": "Ein großer, sagenumwobener Findling in der Nähe von Krekenava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.114915,
+                        55.530336
+                  ]
+            },
+            {
+                  "name": "Krekenavos apžvalgos bokštas",
+                  "text": "Ein hoher Aussichtsturm bei Krekenava mit Panoramablick über das Flusstal.",
+                  "category": "natural",
+                  "coords": [
+                        24.105467,
+                        55.551824
+                  ]
+            },
+            {
+                  "name": "Girinio takas",
+                  "text": "Ein Waldlehrpfad bei Krekenava, der die Natur des Regionalparks zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        24.117128,
+                        55.532644
+                  ]
+            },
+            {
+                  "name": "Nevėžio upės slėnio apžvalgos bokštelis",
+                  "text": "Ein kleiner Aussichtsturm mit Blick auf das malerische Tal des Flusses Nevėžis.",
+                  "category": "natural",
+                  "coords": [
+                        24.087018,
+                        55.522835
+                  ]
+            },
+            {
+                  "name": "Malūno liekanos",
+                  "text": "Die historischen Überreste einer alten Mühle in Krekenava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.113764,
+                        55.558571
+                  ]
+            },
+            {
+                  "name": "Krekenavos poilsiavietės apžvalgos bokštelis",
+                  "text": "Ein Aussichtspunkt in einem Erholungsgebiet bei Krekenava.",
+                  "category": "natural",
+                  "coords": [
+                        24.098163,
+                        55.536772
+                  ]
+            },
+            {
+                  "name": "Girinio tako apžvalgos bokštelis",
+                  "text": "Ein Aussichtsturm am Girinis-Lehrpfad mit Blick auf die umliegenden Wälder.",
+                  "category": "natural",
+                  "coords": [
+                        24.1161,
+                        55.5319
+                  ]
+            },
+            {
+                  "name": "Krekenavos Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Die bedeutende Basilika Mariä Himmelfahrt in Krekenava.",
+                  "category": "religious",
+                  "coords": [
+                        24.097743,
+                        55.545798
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akmuo Rapolas",
+                  "text": "Hatalmas, legendás szikla Krekenava közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.114915,
+                        55.530336
+                  ]
+            },
+            {
+                  "name": "Krekenavos apžvalgos bokštas",
+                  "text": "Magas kilátótorony Krekenava mellett, panorámás kilátással a folyóvölgyre.",
+                  "category": "natural",
+                  "coords": [
+                        24.105467,
+                        55.551824
+                  ]
+            },
+            {
+                  "name": "Girinio takas",
+                  "text": "Erdei tanösvény Krekenava mellett, amely a regionális park természetét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        24.117128,
+                        55.532644
+                  ]
+            },
+            {
+                  "name": "Nevėžio upės slėnio apžvalgos bokštelis",
+                  "text": "Kis kilátótorony, ahonnan kilátás nyílik a Nevėžis-folyó festői völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        24.087018,
+                        55.522835
+                  ]
+            },
+            {
+                  "name": "Malūno liekanos",
+                  "text": "Egy régi malom történelmi maradványai Krekenavában.",
+                  "category": "landmark",
+                  "coords": [
+                        24.113764,
+                        55.558571
+                  ]
+            },
+            {
+                  "name": "Krekenavos poilsiavietės apžvalgos bokštelis",
+                  "text": "Kilátóhely egy pihenőövezetben Krekenava közelében.",
+                  "category": "natural",
+                  "coords": [
+                        24.098163,
+                        55.536772
+                  ]
+            },
+            {
+                  "name": "Girinio tako apžvalgos bokštelis",
+                  "text": "Kilátótorony a Girinis tanösvényen, kilátással a környező erdőkre.",
+                  "category": "natural",
+                  "coords": [
+                        24.1161,
+                        55.5319
+                  ]
+            },
+            {
+                  "name": "Krekenavos Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Krekenava jelentős Nagyboldogasszony-bazilikája.",
+                  "category": "religious",
+                  "coords": [
+                        24.097743,
+                        55.545798
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akmuo Rapolas",
+                  "text": "O stâncă mare, legendară, situată lângă Krekenava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.114915,
+                        55.530336
+                  ]
+            },
+            {
+                  "name": "Krekenavos apžvalgos bokštas",
+                  "text": "Un turn de observare înalt lângă Krekenava, cu vedere panoramică asupra văii râului.",
+                  "category": "natural",
+                  "coords": [
+                        24.105467,
+                        55.551824
+                  ]
+            },
+            {
+                  "name": "Girinio takas",
+                  "text": "Un traseu forestier lângă Krekenava, care prezintă natura parcului regional.",
+                  "category": "landmark",
+                  "coords": [
+                        24.117128,
+                        55.532644
+                  ]
+            },
+            {
+                  "name": "Nevėžio upės slėnio apžvalgos bokštelis",
+                  "text": "Un mic turn de observare cu vedere spre valea pitorească a râului Nevėžis.",
+                  "category": "natural",
+                  "coords": [
+                        24.087018,
+                        55.522835
+                  ]
+            },
+            {
+                  "name": "Malūno liekanos",
+                  "text": "Resturile istorice ale unei mori vechi în Krekenava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.113764,
+                        55.558571
+                  ]
+            },
+            {
+                  "name": "Krekenavos poilsiavietės apžvalgos bokštelis",
+                  "text": "Un punct de observare într-o zonă de recreere lângă Krekenava.",
+                  "category": "natural",
+                  "coords": [
+                        24.098163,
+                        55.536772
+                  ]
+            },
+            {
+                  "name": "Girinio tako apžvalgos bokštelis",
+                  "text": "Un turn de observare pe traseul Girinis, cu vedere spre pădurile din jur.",
+                  "category": "natural",
+                  "coords": [
+                        24.1161,
+                        55.5319
+                  ]
+            },
+            {
+                  "name": "Krekenavos Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "Importanta bazilică Adormirea Maicii Domnului din Krekenava.",
+                  "category": "religious",
+                  "coords": [
+                        24.097743,
+                        55.545798
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akmuo Rapolas",
+                  "text": "A large, legendary boulder located near Krekenava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.114915,
+                        55.530336
+                  ]
+            },
+            {
+                  "name": "Krekenavos apžvalgos bokštas",
+                  "text": "A high observation tower near Krekenava with panoramic views over the river valley.",
+                  "category": "natural",
+                  "coords": [
+                        24.105467,
+                        55.551824
+                  ]
+            },
+            {
+                  "name": "Girinio takas",
+                  "text": "A forest trail near Krekenava showcasing the nature of the regional park.",
+                  "category": "landmark",
+                  "coords": [
+                        24.117128,
+                        55.532644
+                  ]
+            },
+            {
+                  "name": "Nevėžio upės slėnio apžvalgos bokštelis",
+                  "text": "A small observation tower overlooking the scenic valley of the Nevėžis River.",
+                  "category": "natural",
+                  "coords": [
+                        24.087018,
+                        55.522835
+                  ]
+            },
+            {
+                  "name": "Malūno liekanos",
+                  "text": "The historical remains of an old mill in Krekenava.",
+                  "category": "landmark",
+                  "coords": [
+                        24.113764,
+                        55.558571
+                  ]
+            },
+            {
+                  "name": "Krekenavos poilsiavietės apžvalgos bokštelis",
+                  "text": "An observation point in a recreation area near Krekenava.",
+                  "category": "natural",
+                  "coords": [
+                        24.098163,
+                        55.536772
+                  ]
+            },
+            {
+                  "name": "Girinio tako apžvalgos bokštelis",
+                  "text": "An observation tower on the Girinis trail overlooking the surrounding forests.",
+                  "category": "natural",
+                  "coords": [
+                        24.1161,
+                        55.5319
+                  ]
+            },
+            {
+                  "name": "Krekenavos Švč. Mergelės Marijos Ėmimo į dangų bažnyčia",
+                  "text": "The significant Basilica of the Assumption of the Virgin Mary in Krekenava.",
+                  "category": "religious",
+                  "coords": [
+                        24.097743,
+                        55.545798
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Krekenava", hu: "Krekenava", ro: "Krekenava", en: "Krekenava" },
@@ -3917,7 +21638,340 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-seduva-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-zarasai-region-cities-v2",
+    id: "lithuania-zarasai-region-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "Das Regionalmuseum in Zarasai bietet Einblicke in die Geschichte und Kultur der Stadtregion.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Ein lokales Museum in Zarasai, das Exponate zur regionalen Heimatkunde präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "Die Kunstschule in Zarasai ist ein wichtiger Ort für die Förderung lokaler Talente.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "Ein markantes Aussichtsrad in Zarasai, das einen weiten Blick über die Stadtlandschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Ein beliebter Aussichtspunkt in Zarasai, um das Panorama der Region zu bewundern.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Ein moderner Wassersportpark in Zarasai für aktive Erholung am See.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Šlyninkos vandens malūnas",
+                  "text": "Die Wassermühle von Šlyninka ist ein technisches Denkmal in der Nähe von Zarasai.",
+                  "category": "landmark",
+                  "coords": [
+                        26.197834,
+                        55.733858
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "Ein Gotteshaus der Altgläubigen in Zarasai, bekannt für seine traditionelle Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "Eine orthodoxe Kirche in Zarasai, die der Gemeinschaft als geistliches Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "A Zarasai regionális múzeum betekintést nyújt a város és környéke történelmébe.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Helytörténeti múzeum Zarasai városában, amely a környék múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "A zarasai művészeti iskola a helyi tehetségek gondozásának fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "Jellegzetes kilátókerék Zarasai városában, amely remek kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Népszerű kilátóhely Zarasai városában a környék panorámájának megcsodálására.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Modern vízi sportpark Zarasai városában az aktív tavi kikapcsolódáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Šlyninkos vandens malūnas",
+                  "text": "A šlyninkai vízimalom technikai műemlék Zarasai közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        26.197834,
+                        55.733858
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "Óhitű templom Zarasai városában, amely tradicionális építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "Ortodox templom Zarasai városában, amely a közösség szellemi központja.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "Muzeul regional din Zarasai oferă informații despre istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "Un muzeu local din Zarasai care prezintă exponate legate de istoria zonei.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "Școala de artă din Zarasai este un loc important pentru promovarea talentelor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Apžvalgos ratas",
+                  "text": "O roată panoramică distinctivă în Zarasai, oferind o vedere amplă asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "Un punct de observație popular în Zarasai pentru admirarea panoramei regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasų vandens sporto parkas",
+                  "text": "Un parc modern de sporturi nautice în Zarasai pentru recreere activă pe lac.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Šlyninkos vandens malūnas",
+                  "text": "Moara de apă din Šlyninka este un monument tehnic situat lângă Zarasai.",
+                  "category": "landmark",
+                  "coords": [
+                        26.197834,
+                        55.733858
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "Un lăcaș de cult al ortodocșilor de rit vechi din Zarasai, cunoscut pentru arhitectura tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "O biserică ortodoxă din Zarasai, care servește comunității ca centru spiritual.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zarasų krašto muziejus",
+                  "text": "The regional museum in Zarasai provides insights into the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.245249,
+                        55.728214
+                  ]
+            },
+            {
+                  "name": "P. Širvio mokyklos visuomeninis kraštotyros muziejus",
+                  "text": "A local museum in Zarasai presenting exhibits on regional history.",
+                  "category": "museum",
+                  "coords": [
+                        26.260393,
+                        55.738637
+                  ]
+            },
+            {
+                  "name": "Zarasų meno mokykla",
+                  "text": "The art school in Zarasai is a key venue for fostering local talent.",
+                  "category": "cultural",
+                  "coords": [
+                        26.251319,
+                        55.732062
+                  ]
+            },
+            {
+                  "name": "Observation wheel",
+                  "text": "A prominent observation wheel in Zarasai offering a wide view of the townscape.",
+                  "category": "natural",
+                  "coords": [
+                        26.243912,
+                        55.728052
+                  ]
+            },
+            {
+                  "name": "Apžvalgos vieta",
+                  "text": "A popular viewpoint in Zarasai for admiring the panorama of the region.",
+                  "category": "natural",
+                  "coords": [
+                        26.231702,
+                        55.731321
+                  ]
+            },
+            {
+                  "name": "Zarasai Watersports Park",
+                  "text": "A modern watersports park in Zarasai for active recreation on the lake.",
+                  "category": "landmark",
+                  "coords": [
+                        26.231173,
+                        55.735383
+                  ]
+            },
+            {
+                  "name": "Šlyninkos vandens malūnas",
+                  "text": "The Šlyninka water mill is a technical monument located near Zarasai.",
+                  "category": "landmark",
+                  "coords": [
+                        26.197834,
+                        55.733858
+                  ]
+            },
+            {
+                  "name": "Zarasų Švenčiausios Panelės Užtarytojos sentikių cerkvė",
+                  "text": "An Old Believer house of worship in Zarasai, known for its traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.262741,
+                        55.735054
+                  ]
+            },
+            {
+                  "name": "Zarasų Visų Šventųjų cerkvė",
+                  "text": "An Orthodox church in Zarasai serving as a spiritual center for the community.",
+                  "category": "religious",
+                  "coords": [
+                        26.241602,
+                        55.720944
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LT",
     name: { de: "Zarasai Stadtregion", hu: "Zarasai városrégió", ro: "Regiunea orașului Zarasai", en: "Zarasai city region" },
@@ -3962,7 +22016,304 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-zarasai-region-cities-v2.webp",
   },
   {
-    id: "lithuania-ukmerge-environs-cities-v2",
+    id: "lithuania-ukmerge-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "Ein historischer Burgberg in der Nähe von Ukmergė.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "Ein Museum in Ukmergė, das Exponate zur regionalen Geschichte und Volkskunde zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "Ein Erholungspfad im Pivonija-Wald bei Ukmergė.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "Das Kulturzentrum von Ukmergė, ein Treffpunkt für Kunst und Gemeinschaft.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "Die katholische Dreifaltigkeitskirche in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "Die katholische Kirche St. Peter und Paul in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "Die orthodoxe Auferstehungskirche in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "Eine historische Kapelle auf dem Friedhof von Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "Történelmi várhely Ukmergė közelében.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "Ukmergė múzeuma, amely regionális történelmi és néprajzi kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "Pihenőút a Pivonija-erdőben Ukmergė közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "Ukmergė kulturális központja, a művészet és a közösség találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "Ukmergė katolikus Szentháromság-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "Ukmergė Szent Péter és Pál katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "Ukmergė ortodox Feltámadás-temploma.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "Történelmi kápolna Ukmergė temetőjében.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "O așezare fortificată istorică lângă Ukmergė.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "Un muzeu în Ukmergė, care prezintă exponate de istorie regională și folclor.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "Un traseu de recreere în pădurea Pivonija lângă Ukmergė.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "Centrul cultural din Ukmergė, un loc de întâlnire pentru artă și comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "Biserica catolică Sfânta Treime din Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "Biserica catolică Sfânții Petru și Pavel din Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "Biserica ortodoxă a Învierii din Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "O capelă istorică în cimitirul din Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ukmergės piliakalnis",
+                  "text": "A historical hillfort located near Ukmergė.",
+                  "category": "historical",
+                  "coords": [
+                        24.768556,
+                        55.249611
+                  ]
+            },
+            {
+                  "name": "Ukmergės kraštotyros muziejus",
+                  "text": "A museum in Ukmergė featuring exhibits on regional history and folklore.",
+                  "category": "museum",
+                  "coords": [
+                        24.764554,
+                        55.249735
+                  ]
+            },
+            {
+                  "name": "Pivonijos šilo sveikatingumo takas",
+                  "text": "A recreation trail in the Pivonija forest near Ukmergė.",
+                  "category": "landmark",
+                  "coords": [
+                        24.793449,
+                        55.238543
+                  ]
+            },
+            {
+                  "name": "Ukmergės kultūros centras",
+                  "text": "The cultural center of Ukmergė, a hub for arts and community.",
+                  "category": "cultural",
+                  "coords": [
+                        24.762704,
+                        55.248648
+                  ]
+            },
+            {
+                  "name": "Ukmergės Švč. Trejybės bažnyčia",
+                  "text": "The Catholic Holy Trinity Church in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.762216,
+                        55.249549
+                  ]
+            },
+            {
+                  "name": "Šv. Petro ir Povilo bažnyčia",
+                  "text": "The Catholic Church of St. Peter and Paul in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.766982,
+                        55.253237
+                  ]
+            },
+            {
+                  "name": "Ukmergės Viešpaties Prisikėlimo cerkvė",
+                  "text": "The Orthodox Church of the Resurrection in Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.784201,
+                        55.25379
+                  ]
+            },
+            {
+                  "name": "Ukmergės kapinių koplyčia",
+                  "text": "A historical chapel located in the cemetery of Ukmergė.",
+                  "category": "religious",
+                  "coords": [
+                        24.774577,
+                        55.258721
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Ukmergė Umgebung", hu: "Ukmergė környéke", ro: "Împrejurimi Ukmergė", en: "Ukmergė area" },
@@ -4007,7 +22358,304 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-ukmerge-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-radviliskis-environs-cities-v2",
+    id: "lithuania-radviliskis-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Senas traukinio vagonas",
+                  "text": "Ein historischer Eisenbahnwaggon als Ausstellungsstück bei Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "Ein Aussichtsturm mit Panoramablick über die Region Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "Ein kleiner Turm zur Beobachtung von Vögeln in der Natur bei Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Garvežys",
+                  "text": "Eine historische Dampflokomotive als Denkmal bei Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "Ein Baum-Labyrinth als Freizeitattraktion bei Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "Eine Kirche der Altgläubigen in der Region Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Radviliškis",
+                  "text": "Eine evangelisch-lutherische Kirche bei Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "Eine katholische Kirche, die der Geburt Mariens gewidmet ist, bei Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Senas traukinio vagonas",
+                  "text": "Kiállított történelmi vasúti kocsi Radviliškis környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "Kilátótorony panorámás kilátással Radviliškis környékére.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "Madármegfigyelő torony a természetben Radviliškis közelében.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Garvežys",
+                  "text": "Történelmi gőzmozdony emlékmű Radviliškis környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "Élő sövénylabirintus mint szabadidős látványosság Radviliškis környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "Óhitű ortodox templom Radviliškis környékén.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Radviliškio evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom Radviliškis környékén.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "Szűz Mária születésének szentelt katolikus templom Radviliškis környékén.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Senas traukinio vagonas",
+                  "text": "Un vagon de tren istoric expus în apropiere de Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "Un turn de observare cu vedere panoramică asupra regiunii Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "Un foișor pentru observarea păsărilor în natură, lângă Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Garvežys",
+                  "text": "O locomotivă cu abur istorică expusă ca monument lângă Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "Un labirint de copaci ca atracție recreativă lângă Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "O biserică a rușilor lipoveni din regiunea Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Radviliškio evangelikų liuteronų bažnyčia",
+                  "text": "O biserică evanghelică luterană din apropiere de Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "O biserică catolică închinată Nașterii Maicii Domnului, lângă Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old rail coach",
+                  "text": "A historical railway coach on display near Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.537884,
+                        55.804973
+                  ]
+            },
+            {
+                  "name": "Apžvalgos bokštas",
+                  "text": "An observation tower offering panoramic views of the Radviliškis region.",
+                  "category": "natural",
+                  "coords": [
+                        23.53482,
+                        55.821614
+                  ]
+            },
+            {
+                  "name": "Paukščių stebėjimo bokštelis",
+                  "text": "A small tower for birdwatching in the nature near Radviliškis.",
+                  "category": "natural",
+                  "coords": [
+                        23.536381,
+                        55.82387
+                  ]
+            },
+            {
+                  "name": "Steam locomotive",
+                  "text": "A historical steam locomotive displayed as a monument near Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.536647,
+                        55.806075
+                  ]
+            },
+            {
+                  "name": "Medžių labirintas",
+                  "text": "A tree labyrinth serving as a recreational attraction near Radviliškis.",
+                  "category": "landmark",
+                  "coords": [
+                        23.538905,
+                        55.819136
+                  ]
+            },
+            {
+                  "name": "Radviliškio sentikių cerkvė",
+                  "text": "An Old Believers' church in the Radviliškis region.",
+                  "category": "religious",
+                  "coords": [
+                        23.541331,
+                        55.802687
+                  ]
+            },
+            {
+                  "name": "Radviliškio evangelikų liuteronų bažnyčia",
+                  "text": "An Evangelical Lutheran church near Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.534419,
+                        55.812226
+                  ]
+            },
+            {
+                  "name": "Švenčiausios Mergelės Marijos gimimo bažnyčia",
+                  "text": "A Catholic church dedicated to the Nativity of Mary, near Radviliškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.542582,
+                        55.80638
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Radviliškis Umgebung", hu: "Radviliškis környéke", ro: "Împrejurimi Radviliškis", en: "Radviliškis area" },
@@ -4097,7 +22745,340 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-telsiai-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-plunge-environs-cities-v2",
+    id: "lithuania-plunge-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "Ein archäologisch geschützter Burgberg in der Nähe von Plungė.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "Ein bedeutender historischer Burgberg in der Region Plungė.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "Ein Museum in Plungė, das der Kunst und Geschichte von Samogitien gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "Ein Museum in der Umgebung von Plungė, das sich der lokalen Geschichte und Ethnografie widmet.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "Eine Freilichtbühne im Babrungas-Tal, die für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "Ein religiöser Ort und Aussichtspunkt in der Umgebung von Plungė, inspiriert von der Grotte von Lourdes.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "Eine berühmte alte Eiche im Park des Schlosses von Plungė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Eine katholische Kirche in der Umgebung von Plungė, gewidmet dem heiligen Johannes dem Täufer.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "Eine Allerheiligenkapelle in der Umgebung von Plungė.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "Régészetileg védett várhely Plungė közelében.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "Jelentős történelmi várhely Plungė régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "Plungė múzeuma, amelyet Szamogitia művészetének és történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "Helytörténeti és néprajzi múzeum Plungė környékén.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "Szabadtéri színpad a Babrungas-völgyben, kulturális események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "Vallási emlékhely és kilátópont Plungė környékén, a lourdes-i barlang mintájára.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "Híres öreg tölgyfa a plungėi kastélyparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "Keresztelő Szent Jánosnak szentelt katolikus templom Plungė környékén.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "Mindenszentek-kápolna Plungė környékén.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "O așezare fortificată protejată arheologic lângă Plungė.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "O așezare fortificată istorică importantă în regiunea Plungė.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "Un muzeu în Plungė, dedicat artei și istoriei din Samogitia.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "Un muzeu din împrejurimile orașului Plungė, dedicat istoriei și etnografiei locale.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "O scenă în aer liber în valea Babrungas, utilizată pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "Un loc religios și punct de observare lângă Plungė, inspirat de grota din Lourdes.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "Un stejar vechi și faimos situat în parcul conacului din Plungė.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "O biserică catolică în apropiere de Plungė, dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "O capelă dedicată Tuturor Sfinților în împrejurimile orașului Plungė.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lieplaukalės piliakalnis",
+                  "text": "An archaeologically protected hillfort located near Plungė.",
+                  "category": "historical",
+                  "coords": [
+                        21.820778,
+                        55.934306
+                  ]
+            },
+            {
+                  "name": "Plungės piliakalnis",
+                  "text": "A significant historical hillfort in the Plungė region.",
+                  "category": "historical",
+                  "coords": [
+                        21.829222,
+                        55.916528
+                  ]
+            },
+            {
+                  "name": "Žemaičių dailės muziejus",
+                  "text": "A museum in Plungė dedicated to the art and history of Samogitia.",
+                  "category": "museum",
+                  "coords": [
+                        21.844506,
+                        55.91949
+                  ]
+            },
+            {
+                  "name": "Plungės jaunimo mokyklos istorijos ir etnografijos muziejus",
+                  "text": "A museum in the surroundings of Plungė dedicated to local history and ethnography.",
+                  "category": "museum",
+                  "coords": [
+                        21.828052,
+                        55.898619
+                  ]
+            },
+            {
+                  "name": "Babrungo slėnio estrada",
+                  "text": "An open-air stage in the Babrungas valley used for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.845364,
+                        55.914295
+                  ]
+            },
+            {
+                  "name": "Plungės Lurdas",
+                  "text": "A religious site and viewpoint near Plungė, inspired by the Grotto of Lourdes.",
+                  "category": "natural",
+                  "coords": [
+                        21.825761,
+                        55.91429
+                  ]
+            },
+            {
+                  "name": "Perkūno ąžuolas",
+                  "text": "A famous old oak tree located in the Plungė manor park.",
+                  "category": "landmark",
+                  "coords": [
+                        21.843695,
+                        55.917588
+                  ]
+            },
+            {
+                  "name": "Plungės Šv. Jono Krikštytojo bažnyčia",
+                  "text": "A Catholic church in the Plungė surroundings, dedicated to St. John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        21.838583,
+                        55.913756
+                  ]
+            },
+            {
+                  "name": "Plungės Visų Šventųjų koplyčia",
+                  "text": "An All Saints chapel in the surroundings of Plungė.",
+                  "category": "religious",
+                  "coords": [
+                        21.829357,
+                        55.915509
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Plungė Umgebung", hu: "Plungė környéke", ro: "Împrejurimi Plungė", en: "Plungė area" },
@@ -4187,7 +23168,160 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-alytus-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-vilkaviskis-environs-cities-v2",
+    id: "lithuania-vilkaviskis-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "Das Haupthaus des historischen Gutshofs von Vilkaviškis.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "Ein regionales Zentrum für kulturelle Veranstaltungen bei Vilkaviškis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "Eine Heilig-Kreuz-Kirche in der Umgebung von Vilkaviškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "Die Kathedrale Mariä Heimsuchung in Vilkaviškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "A vilkaviškisi történelmi udvarház főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "Regionális kulturális központ Vilkaviškis környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "Szent Kereszt-templom Vilkaviškis környékén.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "Szűz Mária látogatása katedrális Vilkaviškisben.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "Clădirea principală a conacului istoric din Vilkaviškis.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "Un centru regional pentru evenimente culturale de lângă Vilkaviškis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "O biserică închinată Sfintei Cruci în apropiere de Vilkaviškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "Catedrala Vizita Sfintei Fecioare Maria din Vilkaviškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vilkaviškio dvaro sodybos rūmai",
+                  "text": "The main building of the historical Vilkaviškis manor.",
+                  "category": "historical",
+                  "coords": [
+                        23.044364,
+                        54.647892
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio kultūros centras",
+                  "text": "A regional center for cultural events near Vilkaviškis.",
+                  "category": "cultural",
+                  "coords": [
+                        23.030238,
+                        54.64933
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Šv. Kryžiaus bažnyčia",
+                  "text": "A Holy Cross church in the Vilkaviškis area.",
+                  "category": "religious",
+                  "coords": [
+                        23.039652,
+                        54.647148
+                  ]
+            },
+            {
+                  "name": "Vilkaviškio Švč. Mergelės Marijos Apsilankymo katedra",
+                  "text": "The Cathedral of the Visitation of the Blessed Virgin Mary in Vilkaviškis.",
+                  "category": "religious",
+                  "coords": [
+                        23.036966,
+                        54.648107
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Vilkaviškis Umgebung", hu: "Vilkaviškis környéke", ro: "Împrejurimi Vilkaviškis", en: "Vilkaviškis area" },
@@ -4232,7 +23366,232 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-vilkaviskis-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-prienai-environs-cities-v2",
+    id: "lithuania-prienai-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "Ein historischer Burgwall in der Umgebung von Prienai, der auf eine frühe Besiedlung hindeutet.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "Prienų krašto muziejus",
+                  "text": "Das Museum der Region Prienai präsentiert die Geschichte und Bräuche der lokalen Bevölkerung.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "Ein Naturlehrpfad in der Nähe von Prienai, der durch ökologisch wertvolle Landschaften führt.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "Ein Komplex aus Parkanlagen und Überresten einer historischen Wassermühle in Prienai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "Ein Aussichtspunkt am Ufer der Memel in Prienai mit weitem Blick über den Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "Die Erscheinung-Christi-Kirche ist ein bedeutendes sakrales Gebäude in Prienai.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "Történelmi várhely Prienai környékén, amely korai településre utal.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "Prienų krašto muziejus",
+                  "text": "A Prienai regionális múzeum a helyi lakosság történelmét és szokásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "Tanösvény Prienai közelében, amely ökológiailag értékes tájakon vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "Park és egy történelmi vízimalom maradványai Prienai környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "Kilátóhely a Nyeman folyó partján Prienai környékén, tágas kilátással a folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "A Krisztus Megjelenése-templom Prienai környékének jelentős szakrális épülete.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "Un sit arheologic în zona Prienai, care indică o așezare timpurie.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "Prienų krašto muziejus",
+                  "text": "Muzeul regiunii Prienai prezintă istoria și obiceiurile populației locale.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "O potecă educațională lângă Prienai, care traversează peisaje valoroase din punct de vedere ecologic.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "Un complex format din parcuri și resturile unei mori de apă istorice în Prienai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "Un punct de observație pe malul râului Nemunas în Prienai, cu o vedere largă asupra râului.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "Biserica Arătarea Domnului este un edificiu religios important din zona Prienai.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mačiūnų piliakalnis",
+                  "text": "A historical hillfort in the Prienai area indicating an early settlement.",
+                  "category": "historical",
+                  "coords": [
+                        23.948083,
+                        54.651722
+                  ]
+            },
+            {
+                  "name": "The Museum of Prienai Region",
+                  "text": "The Museum of Prienai Region presents the history and customs of the local people.",
+                  "category": "museum",
+                  "coords": [
+                        23.945248,
+                        54.632196
+                  ]
+            },
+            {
+                  "name": "Velniabliūdžio pažintinis gamtos takas",
+                  "text": "A nature trail near Prienai that leads through ecologically valuable landscapes.",
+                  "category": "landmark",
+                  "coords": [
+                        23.9687,
+                        54.6287
+                  ]
+            },
+            {
+                  "name": "Prienų parko ir vandens malūno liekanų kompleksas",
+                  "text": "A complex consisting of parklands and the remains of a historical water mill in Prienai.",
+                  "category": "landmark",
+                  "coords": [
+                        23.948315,
+                        54.629039
+                  ]
+            },
+            {
+                  "name": "Nemuno pakrantės apžvalgos aikštelė",
+                  "text": "A viewpoint on the banks of the Nemunas in Prienai with a wide view over the river.",
+                  "category": "natural",
+                  "coords": [
+                        23.949219,
+                        54.631104
+                  ]
+            },
+            {
+                  "name": "Prienų Kristaus Apsireiškimo bažnyčia",
+                  "text": "The Church of the Epiphany is a significant sacred building in the Prienai area.",
+                  "category": "religious",
+                  "coords": [
+                        23.949062,
+                        54.634878
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Prienai Umgebung", hu: "Prienai környéke", ro: "Împrejurimi Prienai", en: "Prienai area" },
@@ -4367,7 +23726,160 @@ imageHint: "Lazdijai border crossing and church",
     image: "/poi-images/lithuania-salcininkai-environs-cities-v2.webp",
   },
   {
-    id: "lithuania-silale-environs-cities-v2",
+    id: "lithuania-silale-environs-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "Ein archäologisch bedeutsamer Burgwall in der Umgebung von Šilalė.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "Das Vlado-Statkevičius-Museum in Šilalė zeigt Exponate zur regionalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Evangelisch-Lutherische Kirche Šilalė Jonas Tartilavičius Batakietis",
+                  "text": "Eine evangelisch-lutherische Kirche in Šilalė, die nach Jono Tartilavičiaus Batakiečio benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "St. Franziskus von Assisi",
+                  "text": "Die St.-Franziskus-von-Assisi-Kirche ist ein markantes Bauwerk in Šilalė.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "Régészeti szempontból jelentős várhely Šilalė környékén.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "A šilalėi Vlado Statkevičius múzeum a régió történelmével kapcsolatos tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Šilalės Jono Tartilavičiaus Batakiečio evangelikų liuteronų bažnyčia",
+                  "text": "Evangélikus templom Šilalė környékén, amelyet Jono Tartilavičius Batakietisről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "Šilalės Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Az Assisi Szent Ferenc-templom Šilalė környékének egyik jellegzetes épülete.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "Un sit arheologic important în apropiere de Šilalė.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "Muzeul Vlado Statkevičius din Šilalė expune obiecte legate de istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Šilalės Jono Tartilavičiaus Batakiečio evangelikų liuteronų bažnyčia",
+                  "text": "O biserică evanghelică luterană în Šilalė, numită după Jono Tartilavičiaus Batakiečio.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "Šilalės Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "Biserica Sfântul Francisc de Assisi este un edificiu reprezentativ din Šilalė.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rubinavo piliakalnis",
+                  "text": "An archaeologically significant hillfort in the Šilalė area.",
+                  "category": "historical",
+                  "coords": [
+                        22.137139,
+                        55.481528
+                  ]
+            },
+            {
+                  "name": "Šilalės Vlado Statkevičiaus muziejus",
+                  "text": "The Vlado Statkevičius Museum in Šilalė displays exhibits on regional history.",
+                  "category": "museum",
+                  "coords": [
+                        22.181419,
+                        55.49058
+                  ]
+            },
+            {
+                  "name": "Šilalės Jono Tartilavičiaus Batakiečio evangelikų liuteronų bažnyčia",
+                  "text": "An Evangelical Lutheran church in Šilalė named after Jono Tartilavičiaus Batakiečio.",
+                  "category": "religious",
+                  "coords": [
+                        22.188991,
+                        55.490875
+                  ]
+            },
+            {
+                  "name": "Šilalės Šv. Pranciškaus Asyžiečio bažnyčia",
+                  "text": "St. Francis of Assisi Church is a prominent building in the Šilalė area.",
+                  "category": "religious",
+                  "coords": [
+                        22.18018,
+                        55.49399
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "LT",
     name: { de: "Šilalė Umgebung", hu: "Šilalė környéke", ro: "Împrejurimi Šilalė", en: "Šilalė area" },

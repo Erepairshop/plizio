@@ -189,7 +189,1888 @@ export const greeceRegions: POI[] = [
     image: "/geo-images/greece/athens.webp"
   },
   {
-    id: "city-thessaloniki",
+    id: "city-thessaloniki", "sights": {
+      "de": [
+            {
+                  "name": "Museum des Makedonischen Kampfes",
+                  "text": "Ein Museum in Thessaloniki, das der Geschichte des mazedonischen Kampfes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.943632,
+                        40.630849
+                  ]
+            },
+            {
+                  "name": "Κρατικό Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Staatliches Museum in Thessaloniki mit einer bedeutenden Sammlung moderner Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        22.93161,
+                        40.658175
+                  ]
+            },
+            {
+                  "name": "Μουσείο Θεσσαλονικέων Μητρόπολις",
+                  "text": "Ein kirchliches Museum, das das religiöse Erbe von Thessaloniki präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.937295,
+                        40.659052
+                  ]
+            },
+            {
+                  "name": "Weißer Turm",
+                  "text": "Das Wahrzeichen von Thessaloniki, ein ehemaliger osmanischer Wehrturm am Hafen.",
+                  "category": "castle",
+                  "coords": [
+                        22.94838,
+                        40.626327
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ζέιτενλικ",
+                  "text": "Museum auf dem französischen Militärfriedhof Zeitenlik in Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.93416,
+                        40.654948
+                  ]
+            },
+            {
+                  "name": "Επταπύργιο",
+                  "text": "Eine byzantinische und osmanische Festung im nördlichen Teil von Thessaloniki.",
+                  "category": "castle",
+                  "coords": [
+                        22.962037,
+                        40.644218
+                  ]
+            },
+            {
+                  "name": "Τελλόγλειο Ίδρυμα Τεχνών Α.Π.Θ.",
+                  "text": "Eine Kunststiftung und Galerie der Aristoteles-Universität Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.960703,
+                        40.632632
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Αγορά",
+                  "text": "Die Ruinen des antiken römischen Marktplatzes im Zentrum von Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.945874,
+                        40.637703
+                  ]
+            },
+            {
+                  "name": "Jiahoudi Hamam Türkisches Bad",
+                  "text": "Ein historisches osmanisches Badehaus im jüdischen Viertel von Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.940761,
+                        40.634652
+                  ]
+            },
+            {
+                  "name": "Galeriusbogen",
+                  "text": "Ein römischer Triumphbogen aus dem 4. Jahrhundert, bekannt als Kamara.",
+                  "category": "historical",
+                  "coords": [
+                        22.951805,
+                        40.6322
+                  ]
+            },
+            {
+                  "name": "Αριστοτέλειον",
+                  "text": "Ein bedeutendes Theater und Kulturzentrum im Herzen von Thessaloniki.",
+                  "category": "cultural",
+                  "coords": [
+                        22.949731,
+                        40.626502
+                  ]
+            },
+            {
+                  "name": "Vlatades-Kloster",
+                  "text": "Ein byzantinisches Kloster aus dem 14. Jahrhundert in der Oberstadt.",
+                  "category": "religious",
+                  "coords": [
+                        22.954373,
+                        40.641887
+                  ]
+            },
+            {
+                  "name": "Κρατικό Ωδείο Θεσσαλονίκης",
+                  "text": "Ein Zentrum für musikalische Ausbildung in einem historischen Gebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        22.937737,
+                        40.637699
+                  ]
+            },
+            {
+                  "name": "Αγία Σοφία",
+                  "text": "Eine bedeutende byzantinische Kirche und UNESCO-Weltkulturerbe in Thessaloniki.",
+                  "category": "religious",
+                  "coords": [
+                        22.94699,
+                        40.632803
+                  ]
+            },
+            {
+                  "name": "Panagia Chalkeon",
+                  "text": "Eine gut erhaltene byzantinische Kirche aus dem 11. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        22.943692,
+                        40.636805
+                  ]
+            },
+            {
+                  "name": "Συναγωγή Μοναστηριωτών",
+                  "text": "Eine historische Synagoge in Thessaloniki, die im frühen 20. Jahrhundert erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        22.941805,
+                        40.639796
+                  ]
+            },
+            {
+                  "name": "Άγιος Ιωάννης Χρυσόστομος",
+                  "text": "Eine orthodoxe Kirche in Thessaloniki, die Johannes Chrysostomos gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.961142,
+                        40.619255
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Προφήτη Ηλία",
+                  "text": "Eine beeindruckende byzantinische Kirche in der Oberstadt von Thessaloniki.",
+                  "category": "religious",
+                  "coords": [
+                        22.948561,
+                        40.640937
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Γεωργίου",
+                  "text": "Ein antikes römisches Rundgebäude, das als Kirche und Moschee diente.",
+                  "category": "religious",
+                  "coords": [
+                        22.952531,
+                        40.633879
+                  ]
+            },
+            {
+                  "name": "Latomos-Kloster",
+                  "text": "Eine kleine byzantinische Kirche aus dem 5. Jahrhundert mit wertvollen Mosaiken.",
+                  "category": "religious",
+                  "coords": [
+                        22.952243,
+                        40.641763
+                  ]
+            },
+            {
+                  "name": "Kapelle der Verklärung des Erlösers",
+                  "text": "Eine kleine byzantinische Kapelle, die der Verklärung des Erlösers gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.950882,
+                        40.632096
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Παμμεγίστων Ταξιαρχών",
+                  "text": "Eine byzantinische Kirche in Thessaloniki, die den Erzengeln gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.954773,
+                        40.639774
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Αθανασίου Θεσσαλονίκης",
+                  "text": "Eine historische orthodoxe Kirche in Thessaloniki aus dem 19. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        22.948486,
+                        40.634091
+                  ]
+            },
+            {
+                  "name": "Καπάνι (Αγορά Βλάλη)",
+                  "text": "Der älteste traditionelle Markt von Thessaloniki mit einer lebhaften Atmosphäre.",
+                  "category": "landmark",
+                  "coords": [
+                        22.94256,
+                        40.635923
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Δημητρίου",
+                  "text": "Die wichtigste Kirche von Thessaloniki, die dem Schutzpatron der Stadt gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947828,
+                        40.638776
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Παναγίας Αχειροποιήτου",
+                  "text": "Eine frühchristliche Basilika aus dem 5. Jahrhundert in Thessaloniki.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947922,
+                        40.634994
+                  ]
+            },
+            {
+                  "name": "Kirche der Heiligen Apostel",
+                  "text": "Eine spätbyzantinische Kirche mit prächtigen Mosaiken und Fresken.",
+                  "category": "landmark",
+                  "coords": [
+                        22.937499,
+                        40.642792
+                  ]
+            },
+            {
+                  "name": "Kirche des Heiligen Pandeleimon",
+                  "text": "Eine byzantinische Kirche aus dem 14. Jahrhundert und UNESCO-Weltkulturerbe.",
+                  "category": "landmark",
+                  "coords": [
+                        22.951226,
+                        40.633114
+                  ]
+            },
+            {
+                  "name": "Kirche der Agia Ekaterini",
+                  "text": "Eine elegante byzantinische Kirche aus der paläologischen Epoche.",
+                  "category": "landmark",
+                  "coords": [
+                        22.944317,
+                        40.643177
+                  ]
+            },
+            {
+                  "name": "Hagios Nikolaos Orfanos",
+                  "text": "Eine kleine byzantinische Kirche, bekannt für ihre gut erhaltenen Wandmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956208,
+                        40.637674
+                  ]
+            },
+            {
+                  "name": "Γενί Τζαμί",
+                  "text": "Eine ehemalige Moschee, die Anfang des 20. Jahrhunderts im eklektischen Stil erbaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956742,
+                        40.615475
+                  ]
+            },
+            {
+                  "name": "Ολυμπιακό Μουσείο",
+                  "text": "Museum in Thessaloniki, das die Geschichte der Olympischen Spiele dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.964281,
+                        40.627474
+                  ]
+            },
+            {
+                  "name": "Κέντρο Ιστορίας Θεσσαλονίκης",
+                  "text": "Ein Museum, das die jahrtausendealte Geschichte der Stadt Thessaloniki zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.949962,
+                        40.62913
+                  ]
+            },
+            {
+                  "name": "Εθνική Χαρτοθήκη",
+                  "text": "Nationale Kartensammlung und Museum für historische Landkarten in Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.94948,
+                        40.643152
+                  ]
+            },
+            {
+                  "name": "Fotografiemuseum Thessaloniki",
+                  "text": "Ein Museum im Hafen von Thessaloniki, das der Fotokunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.935393,
+                        40.632813
+                  ]
+            },
+            {
+                  "name": "Μέγαρο Νεδέλκου",
+                  "text": "Ein prachtvolles historisches Herrenhaus, das heute kulturelle Ausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        22.950229,
+                        40.633039
+                  ]
+            },
+            {
+                  "name": "Das Kriegsmuseum von Thessaloniki",
+                  "text": "Ein Museum in Thessaloniki, das militärhistorische Exponate und Waffen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.959569,
+                        40.624319
+                  ]
+            },
+            {
+                  "name": "Αλατζά Ιμαρέτ τζαμί",
+                  "text": "Eine ehemalige osmanische Moschee, die heute als Raum für Kunstausstellungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        22.949648,
+                        40.639214
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ύδρευσης Θεσσαλονίκης",
+                  "text": "Ein Museum in einem ehemaligen Pumpwerk, das die Geschichte der Wasserversorgung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.913401,
+                        40.641813
+                  ]
+            },
+            {
+                  "name": "Μακεδονικό Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Eine Galerie in Thessaloniki, die zeitgenössische Kunstwerke griechischer und internationaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.954854,
+                        40.627227
+                  ]
+            },
+            {
+                  "name": "Βασιλική 3ης Σεπτεμβρίου",
+                  "text": "Archäologische Überreste einer frühchristlichen Friedhofsbasilika.",
+                  "category": "historical",
+                  "coords": [
+                        22.956658,
+                        40.625309
+                  ]
+            },
+            {
+                  "name": "Στήλη των Όφεων",
+                  "text": "Eine archäologische Stätte in Thessaloniki mit antiken Steinfunden.",
+                  "category": "historical",
+                  "coords": [
+                        22.941021,
+                        40.641833
+                  ]
+            },
+            {
+                  "name": "Ναός της Αφροδίτης",
+                  "text": "Die Ausgrabungsstätte eines antiken griechischen Tempels der Göttin Aphrodite.",
+                  "category": "historical",
+                  "coords": [
+                        22.940672,
+                        40.640322
+                  ]
+            },
+            {
+                  "name": "Παλαιοχριστιανική Βασιλική Ξηροκρήνης",
+                  "text": "Die Ruinen einer frühchristlichen Basilika im Viertel Xirokrini.",
+                  "category": "historical",
+                  "coords": [
+                        22.929483,
+                        40.646037
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Πλατείας Διοικητηρίου",
+                  "text": "Ein Platz in Thessaloniki mit bedeutenden archäologischen Ausgrabungen.",
+                  "category": "historical",
+                  "coords": [
+                        22.943738,
+                        40.639927
+                  ]
+            },
+            {
+                  "name": "Αψιδική αίθουσα",
+                  "text": "Teil einer antiken römischen Palastanlage in Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.950796,
+                        40.631111
+                  ]
+            },
+            {
+                  "name": "Μπέη Χαμάμ",
+                  "text": "Eine bedeutende osmanische Badeanlage aus dem 15. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        22.945207,
+                        40.635736
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Λουτρό",
+                  "text": "Ein gut erhaltenes öffentliches Badehaus aus der byzantinischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        22.952771,
+                        40.639638
+                  ]
+            },
+            {
+                  "name": "Πασά Χαμάμ",
+                  "text": "Ein historisches türkisches Bad aus der Zeit der osmanischen Herrschaft.",
+                  "category": "historical",
+                  "coords": [
+                        22.937158,
+                        40.641741
+                  ]
+            },
+            {
+                  "name": "Άγαλμα Αριστοτέλη",
+                  "text": "Ein Denkmal zu Ehren des berühmten antiken Philosophen auf dem Aristoteles-Platz.",
+                  "category": "historical",
+                  "coords": [
+                        22.941084,
+                        40.632238
+                  ]
+            },
+            {
+                  "name": "Μνημείο Ποντίων",
+                  "text": "Ein Denkmal in Thessaloniki, das an die Geschichte der Pontos-Griechen erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        22.944962,
+                        40.633824
+                  ]
+            },
+            {
+                  "name": "Μνημείο Εβραϊκού Νεκροταφείου",
+                  "text": "Ein Denkmal auf dem Gelände des alten jüdischen Friedhofs von Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.959223,
+                        40.631082
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "A Macedón Harc Múzeuma",
+                  "text": "A macedón küzdelmek történetét bemutató múzeum Szalonikiben.",
+                  "category": "museum",
+                  "coords": [
+                        22.943632,
+                        40.630849
+                  ]
+            },
+            {
+                  "name": "Κρατικό Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Állami kortárs művészeti múzeum Szalonikiben, jelentős gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        22.93161,
+                        40.658175
+                  ]
+            },
+            {
+                  "name": "Μουσείο Θεσσαλονικέων Μητρόπολις",
+                  "text": "Egyházi múzeum, amely Szaloniki vallási örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.937295,
+                        40.659052
+                  ]
+            },
+            {
+                  "name": "Λευκός Πύργος",
+                  "text": "Szaloniki jelképe, egy egykori oszmán erődítmény a tengerparton.",
+                  "category": "castle",
+                  "coords": [
+                        22.94838,
+                        40.626327
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ζέιτενλικ",
+                  "text": "Múzeum a szaloniki Zeitenlik francia katonai temető területén.",
+                  "category": "museum",
+                  "coords": [
+                        22.93416,
+                        40.654948
+                  ]
+            },
+            {
+                  "name": "Επταπύργιο",
+                  "text": "Bizánci és oszmán kori erődítmény Szaloniki északi részén.",
+                  "category": "castle",
+                  "coords": [
+                        22.962037,
+                        40.644218
+                  ]
+            },
+            {
+                  "name": "Τελλόγλειο Ίδρυμα Τεχνών Α.Π.Θ.",
+                  "text": "A szaloniki Arisztotelész Egyetem művészeti alapítványa és galériája.",
+                  "category": "museum",
+                  "coords": [
+                        22.960703,
+                        40.632632
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Αγορά",
+                  "text": "Az ókori római fórum és piactér maradványai Szaloniki központjában.",
+                  "category": "historical",
+                  "coords": [
+                        22.945874,
+                        40.637703
+                  ]
+            },
+            {
+                  "name": "Γιαχουντί Χαμάμ",
+                  "text": "Történelmi oszmán fürdőépület Szaloniki egykori zsidó negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        22.940761,
+                        40.634652
+                  ]
+            },
+            {
+                  "name": "Αψίδα Γαλερίου (Καμάρα)",
+                  "text": "4. századi római diadalív Szalonikiben, népszerű nevén Kamara.",
+                  "category": "historical",
+                  "coords": [
+                        22.951805,
+                        40.6322
+                  ]
+            },
+            {
+                  "name": "Αριστοτέλειον",
+                  "text": "Fontos színház és kulturális központ Szaloniki szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        22.949731,
+                        40.626502
+                  ]
+            },
+            {
+                  "name": "Μονή Βλατάδων",
+                  "text": "14. századi bizánci kolostor Szaloniki óvárosában, az Ano Poliban.",
+                  "category": "religious",
+                  "coords": [
+                        22.954373,
+                        40.641887
+                  ]
+            },
+            {
+                  "name": "Κρατικό Ωδείο Θεσσαλονίκης",
+                  "text": "Zenei oktatási központ egy patinás történelmi épületben Szalonikiben.",
+                  "category": "cultural",
+                  "coords": [
+                        22.937737,
+                        40.637699
+                  ]
+            },
+            {
+                  "name": "Αγία Σοφία",
+                  "text": "Jelentős bizánci templom és UNESCO világörökségi helyszín Szalonikiben.",
+                  "category": "religious",
+                  "coords": [
+                        22.94699,
+                        40.632803
+                  ]
+            },
+            {
+                  "name": "Παναγία Χαλκέων",
+                  "text": "Jó állapotban fennmaradt bizánci templom a 11. századból.",
+                  "category": "religious",
+                  "coords": [
+                        22.943692,
+                        40.636805
+                  ]
+            },
+            {
+                  "name": "Συναγωγή Μοναστηριωτών",
+                  "text": "A 20. század elején épült történelmi zsinagóga Szalonikiben.",
+                  "category": "religious",
+                  "coords": [
+                        22.941805,
+                        40.639796
+                  ]
+            },
+            {
+                  "name": "Άγιος Ιωάννης Χρυσόστομος",
+                  "text": "Aranyszájú Szent Jánosnak szentelt ortodox templom Szalonikiben.",
+                  "category": "religious",
+                  "coords": [
+                        22.961142,
+                        40.619255
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Προφήτη Ηλία",
+                  "text": "Lenyűgöző bizánci templom Szaloniki felsővárosában.",
+                  "category": "religious",
+                  "coords": [
+                        22.948561,
+                        40.640937
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Γεωργίου",
+                  "text": "Ókori római körépület, amely templomként és mecsetként is funkcionált.",
+                  "category": "religious",
+                  "coords": [
+                        22.952531,
+                        40.633879
+                  ]
+            },
+            {
+                  "name": "Μονή Λατόμου",
+                  "text": "Kisméretű, 5. századi bizánci templom értékes mozaikokkal.",
+                  "category": "religious",
+                  "coords": [
+                        22.952243,
+                        40.641763
+                  ]
+            },
+            {
+                  "name": "Ναός Μεταμορφώσεως του Σωτήρος",
+                  "text": "Kicsiny bizánci kápolna, amelyet az Üdvözítő színeváltozásának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.950882,
+                        40.632096
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Παμμεγίστων Ταξιαρχών",
+                  "text": "A szent arkangyaloknak szentelt bizánci templom Szalonikiben.",
+                  "category": "religious",
+                  "coords": [
+                        22.954773,
+                        40.639774
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Αθανασίου Θεσσαλονίκης",
+                  "text": "19. századi történelmi ortodox templom Szaloniki városában.",
+                  "category": "religious",
+                  "coords": [
+                        22.948486,
+                        40.634091
+                  ]
+            },
+            {
+                  "name": "Καπάνι (Αγορά Βλάλη)",
+                  "text": "Szaloniki legrégebbi hagyományos piaca, élénk és nyüzsgő hangulattal.",
+                  "category": "landmark",
+                  "coords": [
+                        22.94256,
+                        40.635923
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Δημητρίου",
+                  "text": "Szaloniki legfontosabb temploma, a város védőszentjének szentelve.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947828,
+                        40.638776
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Παναγίας Αχειροποιήτου",
+                  "text": "5. századi kora keresztény bazilika Szaloniki központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947922,
+                        40.634994
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίων Αποστόλων",
+                  "text": "Késő bizánci templom pazar mozaikokkal és freskókkal.",
+                  "category": "landmark",
+                  "coords": [
+                        22.937499,
+                        40.642792
+                  ]
+            },
+            {
+                  "name": "Βυζαντινός Ναός Αγίου Παντελεήμονος",
+                  "text": "14. századi bizánci templom, az UNESCO világörökség része.",
+                  "category": "landmark",
+                  "coords": [
+                        22.951226,
+                        40.633114
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίας Αικατερίνης",
+                  "text": "Elegáns bizánci templom a Palaiologosz-dinasztia korából.",
+                  "category": "landmark",
+                  "coords": [
+                        22.944317,
+                        40.643177
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Νικολάου Ορφανού",
+                  "text": "Apró bizánci templom, amely jól megőrzött falfestményeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956208,
+                        40.637674
+                  ]
+            },
+            {
+                  "name": "Γενί Τζαμί",
+                  "text": "A 20. század elején, eklektikus stílusban épült egykori mecset.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956742,
+                        40.615475
+                  ]
+            },
+            {
+                  "name": "Ολυμπιακό Μουσείο",
+                  "text": "Az olimpiai játékok történetét bemutató múzeum Szalonikiben.",
+                  "category": "museum",
+                  "coords": [
+                        22.964281,
+                        40.627474
+                  ]
+            },
+            {
+                  "name": "Κέντρο Ιστορίας Θεσσαλονίκης",
+                  "text": "Szaloniki városának többezer éves történelmét bemutató központ.",
+                  "category": "museum",
+                  "coords": [
+                        22.949962,
+                        40.62913
+                  ]
+            },
+            {
+                  "name": "Εθνική Χαρτοθήκη",
+                  "text": "Nemzeti térképtár és történelmi térképeket bemutató múzeum Szalonikiben.",
+                  "category": "museum",
+                  "coords": [
+                        22.94948,
+                        40.643152
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φωτογραφίας Θεσσαλονίκης",
+                  "text": "A szaloniki kikötőben található, fotóművészetnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.935393,
+                        40.632813
+                  ]
+            },
+            {
+                  "name": "Μέγαρο Νεδέλκου",
+                  "text": "Pompás történelmi kúria, amely ma kulturális kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        22.950229,
+                        40.633039
+                  ]
+            },
+            {
+                  "name": "Πολεμικό Μουσείο",
+                  "text": "Hadtörténeti múzeum Szalonikiben, katonai emlékekkel és fegyverekkel.",
+                  "category": "museum",
+                  "coords": [
+                        22.959569,
+                        40.624319
+                  ]
+            },
+            {
+                  "name": "Αλατζά Ιμαρέτ τζαμί",
+                  "text": "Egykori oszmán mecset, amelyet ma művészeti kiállításokra használnak.",
+                  "category": "museum",
+                  "coords": [
+                        22.949648,
+                        40.639214
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ύδρευσης Θεσσαλονίκης",
+                  "text": "Egykori szivattyútelepben kialakított, a vízellátás történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.913401,
+                        40.641813
+                  ]
+            },
+            {
+                  "name": "Μακεδονικό Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Kortárs művészeti galéria görög és nemzetközi alkotók műveivel.",
+                  "category": "museum",
+                  "coords": [
+                        22.954854,
+                        40.627227
+                  ]
+            },
+            {
+                  "name": "Βασιλική 3ης Σεπτεμβρίου",
+                  "text": "Kora keresztény temetői bazilika régészeti maradványai Szalonikiben.",
+                  "category": "historical",
+                  "coords": [
+                        22.956658,
+                        40.625309
+                  ]
+            },
+            {
+                  "name": "Στήλη των Όφεων",
+                  "text": "Régészeti lelőhely Szalonikiben ókori kőemlékekkel.",
+                  "category": "historical",
+                  "coords": [
+                        22.941021,
+                        40.641833
+                  ]
+            },
+            {
+                  "name": "Ναός της Αφροδίτης",
+                  "text": "Aphrodité istennő ókori görög templomának régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        22.940672,
+                        40.640322
+                  ]
+            },
+            {
+                  "name": "Παλαιοχριστιανική Βασιλική Ξηροκρήνης",
+                  "text": "Kora keresztény bazilika romjai Szaloniki Xirokrini negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        22.929483,
+                        40.646037
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Πλατείας Διοικητηρίου",
+                  "text": "Tér Szalonikiben, ahol jelentős régészeti feltárások láthatóak.",
+                  "category": "historical",
+                  "coords": [
+                        22.943738,
+                        40.639927
+                  ]
+            },
+            {
+                  "name": "Αψιδική αίθουσα",
+                  "text": "Egy ókori római palotakomplexum részét képező apszidos csarnok Szalonikiben.",
+                  "category": "historical",
+                  "coords": [
+                        22.950796,
+                        40.631111
+                  ]
+            },
+            {
+                  "name": "Μπέη Χαμάμ",
+                  "text": "Jelentős, 15. századi oszmán fürdőkomplexum Szaloniki központjában.",
+                  "category": "historical",
+                  "coords": [
+                        22.945207,
+                        40.635736
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Λουτρό",
+                  "text": "Jó állapotban fennmaradt nyilvános fürdő a bizánci korszakból.",
+                  "category": "historical",
+                  "coords": [
+                        22.952771,
+                        40.639638
+                  ]
+            },
+            {
+                  "name": "Πασά Χαμάμ",
+                  "text": "Történelmi török fürdő az oszmán hódoltság idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        22.937158,
+                        40.641741
+                  ]
+            },
+            {
+                  "name": "Άγαλμα Αριστοτέλη",
+                  "text": "A híres ókori filozófus tiszteletére emelt emlékmű az Arisztotelész téren.",
+                  "category": "historical",
+                  "coords": [
+                        22.941084,
+                        40.632238
+                  ]
+            },
+            {
+                  "name": "Μνημείο Ποντίων",
+                  "text": "Emlékmű Szalonikiben, amely a pontoszi görögöknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.944962,
+                        40.633824
+                  ]
+            },
+            {
+                  "name": "Μνημείο Εβραϊκού Νεκροταφείου",
+                  "text": "Emlékmű Szaloniki régi zsidó temetőjének területén.",
+                  "category": "historical",
+                  "coords": [
+                        22.959223,
+                        40.631082
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul Luptei Macedonene",
+                  "text": "Muzeu din Salonic dedicat istoriei luptei macedonene.",
+                  "category": "museum",
+                  "coords": [
+                        22.943632,
+                        40.630849
+                  ]
+            },
+            {
+                  "name": "Κρατικό Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Muzeu de stat din Salonic care găzduiește o colecție importantă de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        22.93161,
+                        40.658175
+                  ]
+            },
+            {
+                  "name": "Μουσείο Θεσσαλονικέων Μητρόπολις",
+                  "text": "Muzeu ecleziastic ce prezintă patrimoniul religios al Salonicului.",
+                  "category": "museum",
+                  "coords": [
+                        22.937295,
+                        40.659052
+                  ]
+            },
+            {
+                  "name": "Λευκός Πύργος",
+                  "text": "Simbolul orașului Salonic, un fost turn de apărare otoman situat pe faleză.",
+                  "category": "castle",
+                  "coords": [
+                        22.94838,
+                        40.626327
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ζέιτενλικ",
+                  "text": "Muzeu situat în incinta cimitirului militar francez Zeitenlik din Salonic.",
+                  "category": "museum",
+                  "coords": [
+                        22.93416,
+                        40.654948
+                  ]
+            },
+            {
+                  "name": "Επταπύργιο",
+                  "text": "O fortăreață bizantină și otomană situată în partea de nord a Salonicului.",
+                  "category": "castle",
+                  "coords": [
+                        22.962037,
+                        40.644218
+                  ]
+            },
+            {
+                  "name": "Τελλόγλειο Ίδρυμα Τεχνών Α.Π.Θ.",
+                  "text": "Fundație de artă și galerie aparținând Universității Aristotel din Salonic.",
+                  "category": "museum",
+                  "coords": [
+                        22.960703,
+                        40.632632
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Αγορά",
+                  "text": "Ruinele forului roman antic situat în centrul orașului Salonic.",
+                  "category": "historical",
+                  "coords": [
+                        22.945874,
+                        40.637703
+                  ]
+            },
+            {
+                  "name": "Γιαχουντί Χαμάμ",
+                  "text": "O clădire istorică de băi otomane situată în vechiul cartier evreiesc din Salonic.",
+                  "category": "historical",
+                  "coords": [
+                        22.940761,
+                        40.634652
+                  ]
+            },
+            {
+                  "name": "Αψίδα Γαλερίου (Καμάρα)",
+                  "text": "Un arc de triumf roman din secolul al IV-lea, cunoscut sub numele de Kamara.",
+                  "category": "historical",
+                  "coords": [
+                        22.951805,
+                        40.6322
+                  ]
+            },
+            {
+                  "name": "Αριστοτέλειον",
+                  "text": "Un teatru și centru cultural important situat în inima Salonicului.",
+                  "category": "cultural",
+                  "coords": [
+                        22.949731,
+                        40.626502
+                  ]
+            },
+            {
+                  "name": "Μονή Βλατάδων",
+                  "text": "O mănăstire bizantină din secolul al XIV-lea situată în orașul de sus.",
+                  "category": "religious",
+                  "coords": [
+                        22.954373,
+                        40.641887
+                  ]
+            },
+            {
+                  "name": "Κρατικό Ωδείο Θεσσαλονίκης",
+                  "text": "Centru de educație muzicală găzduit de o clădire istorică din Salonic.",
+                  "category": "cultural",
+                  "coords": [
+                        22.937737,
+                        40.637699
+                  ]
+            },
+            {
+                  "name": "Αγία Σοφία",
+                  "text": "O biserică bizantină importantă și sit al Patrimoniului Mondial UNESCO.",
+                  "category": "religious",
+                  "coords": [
+                        22.94699,
+                        40.632803
+                  ]
+            },
+            {
+                  "name": "Παναγία Χαλκέων",
+                  "text": "O biserică bizantină bine conservată datând din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        22.943692,
+                        40.636805
+                  ]
+            },
+            {
+                  "name": "Συναγωγή Μοναστηριωτών",
+                  "text": "O sinagogă istorică din Salonic, construită la începutul secolului XX.",
+                  "category": "religious",
+                  "coords": [
+                        22.941805,
+                        40.639796
+                  ]
+            },
+            {
+                  "name": "Άγιος Ιωάννης Χρυσόστομος",
+                  "text": "Biserică ortodoxă din Salonic dedicată Sfântului Ioan Gură de Aur.",
+                  "category": "religious",
+                  "coords": [
+                        22.961142,
+                        40.619255
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Προφήτη Ηλία",
+                  "text": "O biserică bizantină impresionantă situată în orașul de sus din Salonic.",
+                  "category": "religious",
+                  "coords": [
+                        22.948561,
+                        40.640937
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Γεωργίου",
+                  "text": "O clădire circulară romană antică ce a servit drept biserică și moschee.",
+                  "category": "religious",
+                  "coords": [
+                        22.952531,
+                        40.633879
+                  ]
+            },
+            {
+                  "name": "Μονή Λατόμου",
+                  "text": "O mică biserică bizantină din secolul al V-lea, celebră pentru mozaicurile sale.",
+                  "category": "religious",
+                  "coords": [
+                        22.952243,
+                        40.641763
+                  ]
+            },
+            {
+                  "name": "Ναός Μεταμορφώσεως του Σωτήρος",
+                  "text": "O mică capelă bizantină dedicată Schimbării la Față a Mântuitorului.",
+                  "category": "religious",
+                  "coords": [
+                        22.950882,
+                        40.632096
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Παμμεγίστων Ταξιαρχών",
+                  "text": "Biserică bizantină din Salonic dedicată Sfinților Arhangheli.",
+                  "category": "religious",
+                  "coords": [
+                        22.954773,
+                        40.639774
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Αθανασίου Θεσσαλονίκης",
+                  "text": "O biserică ortodoxă istorică din secolul al XIX-lea în Salonic.",
+                  "category": "religious",
+                  "coords": [
+                        22.948486,
+                        40.634091
+                  ]
+            },
+            {
+                  "name": "Καπάνι (Αγορά Βλάλη)",
+                  "text": "Cea mai veche piață tradițională din Salonic, având o atmosferă vibrantă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.94256,
+                        40.635923
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Δημητρίου",
+                  "text": "Cea mai importantă biserică din Salonic, dedicată sfântului protector al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947828,
+                        40.638776
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Παναγίας Αχειροποιήτου",
+                  "text": "O bazilică paleocreștină din secolul al V-lea situată în Salonic.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947922,
+                        40.634994
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίων Αποστόλων",
+                  "text": "Biserică bizantină târzie cu mozaicuri și fresce impresionante.",
+                  "category": "landmark",
+                  "coords": [
+                        22.937499,
+                        40.642792
+                  ]
+            },
+            {
+                  "name": "Βυζαντινός Ναός Αγίου Παντελεήμονος",
+                  "text": "Biserică bizantină din secolul al XIV-lea, sit al Patrimoniului UNESCO.",
+                  "category": "landmark",
+                  "coords": [
+                        22.951226,
+                        40.633114
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίας Αικατερίνης",
+                  "text": "O biserică bizantină elegantă datând din perioada paleologă.",
+                  "category": "landmark",
+                  "coords": [
+                        22.944317,
+                        40.643177
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Νικολάου Ορφανού",
+                  "text": "O mică biserică bizantină renumită pentru picturile sale murale bine conservate.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956208,
+                        40.637674
+                  ]
+            },
+            {
+                  "name": "Γενί Τζαμί",
+                  "text": "O fostă moschee construită la începutul secolului XX într-un stil eclectic.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956742,
+                        40.615475
+                  ]
+            },
+            {
+                  "name": "Ολυμπιακό Μουσείο",
+                  "text": "Muzeu din Salonic care prezintă istoria Jocurilor Olimpice.",
+                  "category": "museum",
+                  "coords": [
+                        22.964281,
+                        40.627474
+                  ]
+            },
+            {
+                  "name": "Κέντρο Ιστορίας Θεσσαλονίκης",
+                  "text": "Centru muzeal care documentează istoria milenară a orașului Salonic.",
+                  "category": "museum",
+                  "coords": [
+                        22.949962,
+                        40.62913
+                  ]
+            },
+            {
+                  "name": "Εθνική Χαρτοθήκη",
+                  "text": "Colecția națională de hărți și muzeu al cartografiei istorice din Salonic.",
+                  "category": "museum",
+                  "coords": [
+                        22.94948,
+                        40.643152
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φωτογραφίας Θεσσαλονίκης",
+                  "text": "Muzeu situat în portul Salonic dedicat artei fotografice.",
+                  "category": "museum",
+                  "coords": [
+                        22.935393,
+                        40.632813
+                  ]
+            },
+            {
+                  "name": "Μέγαρο Νεδέλκου",
+                  "text": "Un conac istoric grandios care găzduiește astăzi expoziții culturale.",
+                  "category": "museum",
+                  "coords": [
+                        22.950229,
+                        40.633039
+                  ]
+            },
+            {
+                  "name": "Πολεμικό Μουσείο",
+                  "text": "Muzeu din Salonic care expune obiecte de istorie militară și armament.",
+                  "category": "museum",
+                  "coords": [
+                        22.959569,
+                        40.624319
+                  ]
+            },
+            {
+                  "name": "Αλατζά Ιμαρέτ τζαμί",
+                  "text": "O fostă moschee otomană folosită astăzi pentru expoziții de artă.",
+                  "category": "museum",
+                  "coords": [
+                        22.949648,
+                        40.639214
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ύδρευσης Θεσσαλονίκης",
+                  "text": "Muzeu amenajat într-o fostă stație de pompare, ilustrând istoria alimentării cu apă.",
+                  "category": "museum",
+                  "coords": [
+                        22.913401,
+                        40.641813
+                  ]
+            },
+            {
+                  "name": "Μακεδονικό Μουσείο Σύγχρονης Τέχνης",
+                  "text": "Galerie din Salonic ce expune opere de artă contemporană ale artiștilor greci și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        22.954854,
+                        40.627227
+                  ]
+            },
+            {
+                  "name": "Βασιλική 3ης Σεπτεμβρίου",
+                  "text": "Vestigiile arheologice ale unei bazilici paleocreștine de cimitir.",
+                  "category": "historical",
+                  "coords": [
+                        22.956658,
+                        40.625309
+                  ]
+            },
+            {
+                  "name": "Στήλη των Όφεων",
+                  "text": "Sit arheologic din Salonic ce cuprinde vestigii antice din piatră.",
+                  "category": "historical",
+                  "coords": [
+                        22.941021,
+                        40.641833
+                  ]
+            },
+            {
+                  "name": "Ναός της Αφροδίτης",
+                  "text": "Sit arheologic unde se află rămășițele unui templu grec antic al Afroditei.",
+                  "category": "historical",
+                  "coords": [
+                        22.940672,
+                        40.640322
+                  ]
+            },
+            {
+                  "name": "Παλαιοχριστιανική Βασιλική Ξηροκρήνης",
+                  "text": "Ruinele unei bazilici paleocreștine situate în cartierul Xirokrini.",
+                  "category": "historical",
+                  "coords": [
+                        22.929483,
+                        40.646037
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος Πλατείας Διοικητηρίου",
+                  "text": "O piață din Salonic ce găzduiește importante situri arheologice excavate.",
+                  "category": "historical",
+                  "coords": [
+                        22.943738,
+                        40.639927
+                  ]
+            },
+            {
+                  "name": "Αψιδική αίθουσα",
+                  "text": "Parte a unui complex palatial roman antic situat în Salonic.",
+                  "category": "historical",
+                  "coords": [
+                        22.950796,
+                        40.631111
+                  ]
+            },
+            {
+                  "name": "Μπέη Χαμάμ",
+                  "text": "O importantă instalație de băi otomane datând din secolul al XV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        22.945207,
+                        40.635736
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Λουτρό",
+                  "text": "O baie publică bine conservată ce datează din perioada bizantină.",
+                  "category": "historical",
+                  "coords": [
+                        22.952771,
+                        40.639638
+                  ]
+            },
+            {
+                  "name": "Πασά Χαμάμ",
+                  "text": "O baie turcească istorică din perioada dominației otomane.",
+                  "category": "historical",
+                  "coords": [
+                        22.937158,
+                        40.641741
+                  ]
+            },
+            {
+                  "name": "Άγαλμα Αριστοτέλη",
+                  "text": "Un monument ridicat în onoarea celebrului filosof antic în Piața Aristotel.",
+                  "category": "historical",
+                  "coords": [
+                        22.941084,
+                        40.632238
+                  ]
+            },
+            {
+                  "name": "Μνημείο Ποντίων",
+                  "text": "Un monument din Salonic dedicat memoriei grecilor pontici.",
+                  "category": "historical",
+                  "coords": [
+                        22.944962,
+                        40.633824
+                  ]
+            },
+            {
+                  "name": "Μνημείο Εβραϊκού Νεκροταφείου",
+                  "text": "Un monument situat în perimetrul vechiului cimitir evreiesc din Salonic.",
+                  "category": "historical",
+                  "coords": [
+                        22.959223,
+                        40.631082
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Macedonian Struggle",
+                  "text": "A museum in Thessaloniki dedicated to the history of the Macedonian struggle.",
+                  "category": "museum",
+                  "coords": [
+                        22.943632,
+                        40.630849
+                  ]
+            },
+            {
+                  "name": "Κρατικό Μουσείο Σύγχρονης Τέχνης",
+                  "text": "State museum in Thessaloniki featuring an important collection of contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        22.93161,
+                        40.658175
+                  ]
+            },
+            {
+                  "name": "Metropolis of Thessalonians Museum",
+                  "text": "An ecclesiastical museum showcasing the religious heritage of Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.937295,
+                        40.659052
+                  ]
+            },
+            {
+                  "name": "White Tower of Thessaloniki",
+                  "text": "The iconic symbol of Thessaloniki, a former Ottoman defensive tower on the waterfront.",
+                  "category": "castle",
+                  "coords": [
+                        22.94838,
+                        40.626327
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ζέιτενλικ",
+                  "text": "Museum located at the Zeitenlik French military cemetery in Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.93416,
+                        40.654948
+                  ]
+            },
+            {
+                  "name": "Heptapyrgio",
+                  "text": "A Byzantine and Ottoman fortress located in the northern part of Thessaloniki.",
+                  "category": "castle",
+                  "coords": [
+                        22.962037,
+                        40.644218
+                  ]
+            },
+            {
+                  "name": "Teloglion Foundation of Art A.U.Th.",
+                  "text": "An art foundation and gallery belonging to the Aristotle University of Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.960703,
+                        40.632632
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Αγορά",
+                  "text": "The ruins of the ancient Roman marketplace in the center of Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.945874,
+                        40.637703
+                  ]
+            },
+            {
+                  "name": "Giahoudi Haman Turkish Bath",
+                  "text": "A historic Ottoman bathhouse building in the old Jewish quarter of Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.940761,
+                        40.634652
+                  ]
+            },
+            {
+                  "name": "Arch of Galerius",
+                  "text": "A 4th-century Roman triumphal arch, popularly known as Kamara.",
+                  "category": "historical",
+                  "coords": [
+                        22.951805,
+                        40.6322
+                  ]
+            },
+            {
+                  "name": "Aristoteleion",
+                  "text": "A prominent theatre and cultural venue in the heart of Thessaloniki.",
+                  "category": "cultural",
+                  "coords": [
+                        22.949731,
+                        40.626502
+                  ]
+            },
+            {
+                  "name": "Vlatadon Monastery",
+                  "text": "A 14th-century Byzantine monastery located in the Upper Town.",
+                  "category": "religious",
+                  "coords": [
+                        22.954373,
+                        40.641887
+                  ]
+            },
+            {
+                  "name": "State Conservatory of Thessaloniki",
+                  "text": "A center for musical education housed in a historic building in Thessaloniki.",
+                  "category": "cultural",
+                  "coords": [
+                        22.937737,
+                        40.637699
+                  ]
+            },
+            {
+                  "name": "Hagia Sophia",
+                  "text": "A major Byzantine church and UNESCO World Heritage site in Thessaloniki.",
+                  "category": "religious",
+                  "coords": [
+                        22.94699,
+                        40.632803
+                  ]
+            },
+            {
+                  "name": "Panagia Chalkeon",
+                  "text": "A well-preserved Byzantine church dating from the 11th century.",
+                  "category": "religious",
+                  "coords": [
+                        22.943692,
+                        40.636805
+                  ]
+            },
+            {
+                  "name": "Monastir Synagogue",
+                  "text": "A historic synagogue in Thessaloniki built in the early 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        22.941805,
+                        40.639796
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis Chrystostomos",
+                  "text": "An Orthodox church in Thessaloniki dedicated to Saint John Chrysostom.",
+                  "category": "religious",
+                  "coords": [
+                        22.961142,
+                        40.619255
+                  ]
+            },
+            {
+                  "name": "Church of Prophet Elijah",
+                  "text": "An impressive Byzantine church located in the Upper Town of Thessaloniki.",
+                  "category": "religious",
+                  "coords": [
+                        22.948561,
+                        40.640937
+                  ]
+            },
+            {
+                  "name": "St. George",
+                  "text": "An ancient Roman circular building that served as both a church and a mosque.",
+                  "category": "religious",
+                  "coords": [
+                        22.952531,
+                        40.633879
+                  ]
+            },
+            {
+                  "name": "Moni Latomou",
+                  "text": "A small 5th-century Byzantine church famous for its mosaics.",
+                  "category": "religious",
+                  "coords": [
+                        22.952243,
+                        40.641763
+                  ]
+            },
+            {
+                  "name": "Church of the Metamorphosis of the Sotir",
+                  "text": "A small Byzantine chapel dedicated to the Transfiguration of the Savior.",
+                  "category": "religious",
+                  "coords": [
+                        22.950882,
+                        40.632096
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Παμμεγίστων Ταξιαρχών",
+                  "text": "A Byzantine church in Thessaloniki dedicated to the Archangels.",
+                  "category": "religious",
+                  "coords": [
+                        22.954773,
+                        40.639774
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Αγίου Αθανασίου Θεσσαλονίκης",
+                  "text": "A historic 19th-century Orthodox church located in Thessaloniki.",
+                  "category": "religious",
+                  "coords": [
+                        22.948486,
+                        40.634091
+                  ]
+            },
+            {
+                  "name": "Kapani (Vlali Market)",
+                  "text": "The oldest traditional market in Thessaloniki with a lively atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        22.94256,
+                        40.635923
+                  ]
+            },
+            {
+                  "name": "Hagios Demetrios",
+                  "text": "The most important church in Thessaloniki, dedicated to the city's patron saint.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947828,
+                        40.638776
+                  ]
+            },
+            {
+                  "name": "Church of the Acheiropoietos",
+                  "text": "An early Christian basilica dating from the 5th century in Thessaloniki.",
+                  "category": "landmark",
+                  "coords": [
+                        22.947922,
+                        40.634994
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Apostles",
+                  "text": "A late Byzantine church featuring exquisite mosaics and frescoes.",
+                  "category": "landmark",
+                  "coords": [
+                        22.937499,
+                        40.642792
+                  ]
+            },
+            {
+                  "name": "St. Panteleimon",
+                  "text": "A 14th-century Byzantine church and UNESCO World Heritage site.",
+                  "category": "landmark",
+                  "coords": [
+                        22.951226,
+                        40.633114
+                  ]
+            },
+            {
+                  "name": "Agia Ekaterini",
+                  "text": "An elegant Byzantine church dating from the Palaeologan era.",
+                  "category": "landmark",
+                  "coords": [
+                        22.944317,
+                        40.643177
+                  ]
+            },
+            {
+                  "name": "St. Nicolas Orphanos",
+                  "text": "A small Byzantine church known for its well-preserved wall paintings.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956208,
+                        40.637674
+                  ]
+            },
+            {
+                  "name": "New Mosque",
+                  "text": "A former mosque built in an eclectic style at the beginning of the 20th century.",
+                  "category": "landmark",
+                  "coords": [
+                        22.956742,
+                        40.615475
+                  ]
+            },
+            {
+                  "name": "Olympic Museum",
+                  "text": "Museum in Thessaloniki documenting the history of the Olympic Games.",
+                  "category": "museum",
+                  "coords": [
+                        22.964281,
+                        40.627474
+                  ]
+            },
+            {
+                  "name": "Centre for the History of Thessaloniki",
+                  "text": "A museum documenting the multi-millennial history of the city of Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.949962,
+                        40.62913
+                  ]
+            },
+            {
+                  "name": "Εθνική Χαρτοθήκη",
+                  "text": "National map collection and museum of historical maps in Thessaloniki.",
+                  "category": "museum",
+                  "coords": [
+                        22.94948,
+                        40.643152
+                  ]
+            },
+            {
+                  "name": "Thessaloniki Museum of Photography",
+                  "text": "A museum in the port of Thessaloniki dedicated to the art of photography.",
+                  "category": "museum",
+                  "coords": [
+                        22.935393,
+                        40.632813
+                  ]
+            },
+            {
+                  "name": "Megaro Nedelkou",
+                  "text": "A grand historic mansion that now hosts various cultural exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        22.950229,
+                        40.633039
+                  ]
+            },
+            {
+                  "name": "War Museum of Thessaloniki",
+                  "text": "A museum in Thessaloniki exhibiting military history artifacts and weaponry.",
+                  "category": "museum",
+                  "coords": [
+                        22.959569,
+                        40.624319
+                  ]
+            },
+            {
+                  "name": "Alaca Imaret mosque",
+                  "text": "A former Ottoman mosque currently used for art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        22.949648,
+                        40.639214
+                  ]
+            },
+            {
+                  "name": "Water Supply Museum",
+                  "text": "A museum located in a former pumping station, showing the history of water supply.",
+                  "category": "museum",
+                  "coords": [
+                        22.913401,
+                        40.641813
+                  ]
+            },
+            {
+                  "name": "Macedonian Museum of Contemporary Art",
+                  "text": "A gallery in Thessaloniki showcasing contemporary works by Greek and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        22.954854,
+                        40.627227
+                  ]
+            },
+            {
+                  "name": "Cemetery Basilica",
+                  "text": "Archaeological remains of an early Christian cemetery basilica.",
+                  "category": "historical",
+                  "coords": [
+                        22.956658,
+                        40.625309
+                  ]
+            },
+            {
+                  "name": "Stele of the Snakes",
+                  "text": "An archaeological site in Thessaloniki featuring ancient stone finds.",
+                  "category": "historical",
+                  "coords": [
+                        22.941021,
+                        40.641833
+                  ]
+            },
+            {
+                  "name": "Late Archaic Temple of Aphrodite",
+                  "text": "The archaeological site of an ancient Greek temple dedicated to Aphrodite.",
+                  "category": "historical",
+                  "coords": [
+                        22.940672,
+                        40.640322
+                  ]
+            },
+            {
+                  "name": "Paleochristian Basilica of Xirokrini",
+                  "text": "The ruins of an early Christian basilica in the Xirokrini district.",
+                  "category": "historical",
+                  "coords": [
+                        22.929483,
+                        40.646037
+                  ]
+            },
+            {
+                  "name": "Governor's House Square",
+                  "text": "A square in Thessaloniki featuring significant archaeological excavations.",
+                  "category": "historical",
+                  "coords": [
+                        22.943738,
+                        40.639927
+                  ]
+            },
+            {
+                  "name": "Apsidal Hall",
+                  "text": "Part of an ancient Roman palace complex in Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.950796,
+                        40.631111
+                  ]
+            },
+            {
+                  "name": "Bey Hamam",
+                  "text": "A significant 15th-century Ottoman bath complex in Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.945207,
+                        40.635736
+                  ]
+            },
+            {
+                  "name": "Byzantine Bath",
+                  "text": "A well-preserved public bathhouse dating from the Byzantine era.",
+                  "category": "historical",
+                  "coords": [
+                        22.952771,
+                        40.639638
+                  ]
+            },
+            {
+                  "name": "Pasha Hamam",
+                  "text": "A historic Turkish bath from the period of Ottoman rule.",
+                  "category": "historical",
+                  "coords": [
+                        22.937158,
+                        40.641741
+                  ]
+            },
+            {
+                  "name": "Statue of Aristotle",
+                  "text": "A monument honoring the famous ancient philosopher in Aristotle Square.",
+                  "category": "historical",
+                  "coords": [
+                        22.941084,
+                        40.632238
+                  ]
+            },
+            {
+                  "name": "Μνημείο Ποντίων",
+                  "text": "A monument in Thessaloniki dedicated to the memory of the Pontic Greeks.",
+                  "category": "historical",
+                  "coords": [
+                        22.944962,
+                        40.633824
+                  ]
+            },
+            {
+                  "name": "Jewish Cemetary Monument",
+                  "text": "A monument located on the site of the old Jewish cemetery in Thessaloniki.",
+                  "category": "historical",
+                  "coords": [
+                        22.959223,
+                        40.631082
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "greece",
     coords: [22.9444, 40.6401],

@@ -33,7 +33,1096 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "aleppo-cities-v2",
+    id: "aleppo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "مدينة حلب القديمة",
+                  "text": "Aleppo Old City ist eine archäologische Stätte in Aleppo. Sie ist als UNESCO-Weltkulturerbe bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        37.163613,
+                        36.199469
+                  ]
+            },
+            {
+                  "name": "متحف التقاليد الشعبية",
+                  "text": "Museum of Popular Tradition ist ein Museum in Aleppo.",
+                  "category": "museum",
+                  "coords": [
+                        37.156521,
+                        36.205996
+                  ]
+            },
+            {
+                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "text": "al-Bimaristan al-Arghuni – البيمارستان الارغوني ist ein Museum in Aleppo.",
+                  "category": "museum",
+                  "coords": [
+                        37.156854,
+                        36.196697
+                  ]
+            },
+            {
+                  "name": "National Museum of Aleppo",
+                  "text": "National Museum of Aleppo ist ein Museum in Aleppo.",
+                  "category": "museum",
+                  "coords": [
+                        37.150264,
+                        36.203517
+                  ]
+            },
+            {
+                  "name": "Eisentor",
+                  "text": "Bab al-Hadid ist ein Denkmal in Aleppo. Es ist eines der historischen Tore der antiken Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        37.167286,
+                        36.203346
+                  ]
+            },
+            {
+                  "name": "باب الجنان",
+                  "text": "Bab al-Jinan ist eine Ruinenstätte in Aleppo. Sie markiert den Standort eines der ehemaligen Stadttore.",
+                  "category": "historical",
+                  "coords": [
+                        37.151897,
+                        36.201746
+                  ]
+            },
+            {
+                  "name": "Öffentlicher Park",
+                  "text": "Public Park ist ein Park in Aleppo. Er dient als große städtische Grünfläche für die Stadt.",
+                  "category": "park",
+                  "coords": [
+                        37.147281,
+                        36.210112
+                  ]
+            },
+            {
+                  "name": "جامع السلطانية",
+                  "text": "Al Sultaniyeh Mosque Ruins ist ein Denkmal in Aleppo. Es ist als historischer religiöser und pädagogischer Komplex bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        37.16187,
+                        36.197206
+                  ]
+            },
+            {
+                  "name": "باب الفرج",
+                  "text": "Bab al-Faraj ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.152755,
+                        36.204059
+                  ]
+            },
+            {
+                  "name": "باب انطاكية",
+                  "text": "Bab Antakeya ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.151613,
+                        36.198858
+                  ]
+            },
+            {
+                  "name": "باب المقام",
+                  "text": "Bab al-Maqam ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.160471,
+                        36.192091
+                  ]
+            },
+            {
+                  "name": "باب النصر",
+                  "text": "Bab al-Nasr ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.160642,
+                        36.204031
+                  ]
+            },
+            {
+                  "name": "باب قنسرين",
+                  "text": "Bab Qinnesrin ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.155899,
+                        36.194488
+                  ]
+            },
+            {
+                  "name": "المطبخ العجمي",
+                  "text": "Al Matbkh Al Ajami ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.158531,
+                        36.200208
+                  ]
+            },
+            {
+                  "name": "جامع الصغير",
+                  "text": "Mosque of Abraham ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.162135,
+                        36.199373
+                  ]
+            },
+            {
+                  "name": "حي الاندلس",
+                  "text": "Al-Andalus district ist ein Aussichtspunkt in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.12122,
+                        36.221422
+                  ]
+            },
+            {
+                  "name": "حي الفردوس",
+                  "text": "Fardos district ist ein Aussichtspunkt in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.147871,
+                        36.186388
+                  ]
+            },
+            {
+                  "name": "حي الكلاسة",
+                  "text": "Kallaseh district ist ein Aussichtspunkt in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.147522,
+                        36.192276
+                  ]
+            },
+            {
+                  "name": "حي قلعة الشريف",
+                  "text": "Qal'at al-Sharif district ist ein Aussichtspunkt in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.157698,
+                        36.193975
+                  ]
+            },
+            {
+                  "name": "حي سيف الدولة",
+                  "text": "Sayf al-Dawla ist ein Aussichtspunkt in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.125608,
+                        36.19142
+                  ]
+            },
+            {
+                  "name": "أنا أحب حلب",
+                  "text": "I love Aleppo ist ein Denkmal in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.147618,
+                        36.207104
+                  ]
+            },
+            {
+                  "name": "ALP461 Ansari 2",
+                  "text": "ALP461 Ansari 2 ist ein Aussichtspunkt in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.143113,
+                        36.176994
+                  ]
+            },
+            {
+                  "name": "جامع الخسروفية",
+                  "text": "Al-Saffahiyah Mosque ist eine Kultstätte in Aleppo. Es ist eine wichtige historische Moschee in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        37.160497,
+                        36.197379
+                  ]
+            },
+            {
+                  "name": "جامع الرحمن",
+                  "text": "Al-Rahman Mosque ist eine Kultstätte in Aleppo. Es ist eine bekannte lokale Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        37.138261,
+                        36.216264
+                  ]
+            },
+            {
+                  "name": "مسجد المهمندار",
+                  "text": "Mahmandar Mosque ist eine Kultstätte in Aleppo. Sie ist als alte historische Moschee anerkannt.",
+                  "category": "religious",
+                  "coords": [
+                        37.159774,
+                        36.202325
+                  ]
+            },
+            {
+                  "name": "جامع البهرمية",
+                  "text": "Al-Bahramiyya Mosque ist eine Kultstätte in Aleppo. Es ist eine historische Moschee aus der osmanischen Zeit.",
+                  "category": "religious",
+                  "coords": [
+                        37.154668,
+                        36.198239
+                  ]
+            },
+            {
+                  "name": "جامع الطواشي",
+                  "text": "Al-Tawashi Mosque ist eine Kultstätte in Aleppo. Sie ist als historische Moschee in der Gegend bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        37.161877,
+                        36.194926
+                  ]
+            },
+            {
+                  "name": "مسجد العادلية",
+                  "text": "Al-Adiliyah Mosque ist eine Kultstätte in Aleppo. Es ist ein bedeutender Moscheekomplex aus der osmanischen Zeit.",
+                  "category": "religious",
+                  "coords": [
+                        37.157757,
+                        36.197396
+                  ]
+            },
+            {
+                  "name": "مسجد ألتون باغ",
+                  "text": "Altun Bogha Mosque ist eine Kultstätte in Aleppo. Es ist eine bemerkenswerte Moschee aus der Mamlukenzeit.",
+                  "category": "religious",
+                  "coords": [
+                        37.166474,
+                        36.196587
+                  ]
+            },
+            {
+                  "name": "جامع التوحيد",
+                  "text": "Al-Tawhid Mosque ist eine Kultstätte in Aleppo. Sie verfügt über eine bemerkenswerte moderne Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        37.153397,
+                        36.214334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "مدينة حلب القديمة",
+                  "text": "Az Aleppo Old City egy régészeti lelőhely Aleppóban. Az UNESCO Világörökség részeként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        37.163613,
+                        36.199469
+                  ]
+            },
+            {
+                  "name": "متحف التقاليد الشعبية",
+                  "text": "A Museum of Popular Tradition egy múzeum Aleppóban.",
+                  "category": "museum",
+                  "coords": [
+                        37.156521,
+                        36.205996
+                  ]
+            },
+            {
+                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "text": "Az al-Bimaristan al-Arghuni – البيمارستان الارغوني egy múzeum Aleppóban.",
+                  "category": "museum",
+                  "coords": [
+                        37.156854,
+                        36.196697
+                  ]
+            },
+            {
+                  "name": "National Museum of Aleppo",
+                  "text": "A National Museum of Aleppo egy múzeum Aleppóban.",
+                  "category": "museum",
+                  "coords": [
+                        37.150264,
+                        36.203517
+                  ]
+            },
+            {
+                  "name": "باب الحديد",
+                  "text": "A Bab al-Hadid egy emlékmű Aleppóban. Az ősi város egyik történelmi kapuja.",
+                  "category": "historical",
+                  "coords": [
+                        37.167286,
+                        36.203346
+                  ]
+            },
+            {
+                  "name": "باب الجنان",
+                  "text": "A Bab al-Jinan egy romterület Aleppóban. Az egyik egykori városkapu helyét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        37.151897,
+                        36.201746
+                  ]
+            },
+            {
+                  "name": "الحديقة العامة",
+                  "text": "A Public Park egy park Aleppóban. Nagy városi zöldterületként szolgál a város számára.",
+                  "category": "park",
+                  "coords": [
+                        37.147281,
+                        36.210112
+                  ]
+            },
+            {
+                  "name": "جامع السلطانية",
+                  "text": "Az Al Sultaniyeh Mosque Ruins egy emlékmű Aleppóban. Történelmi vallási és oktatási komplexumként ismert.",
+                  "category": "historical",
+                  "coords": [
+                        37.16187,
+                        36.197206
+                  ]
+            },
+            {
+                  "name": "باب الفرج",
+                  "text": "A Bab al-Faraj egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.152755,
+                        36.204059
+                  ]
+            },
+            {
+                  "name": "باب انطاكية",
+                  "text": "A Bab Antakeya egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.151613,
+                        36.198858
+                  ]
+            },
+            {
+                  "name": "باب المقام",
+                  "text": "A Bab al-Maqam egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.160471,
+                        36.192091
+                  ]
+            },
+            {
+                  "name": "باب النصر",
+                  "text": "A Bab al-Nasr egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.160642,
+                        36.204031
+                  ]
+            },
+            {
+                  "name": "باب قنسرين",
+                  "text": "A Bab Qinnesrin egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.155899,
+                        36.194488
+                  ]
+            },
+            {
+                  "name": "المطبخ العجمي",
+                  "text": "Az Al Matbkh Al Ajami egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.158531,
+                        36.200208
+                  ]
+            },
+            {
+                  "name": "جامع الصغير",
+                  "text": "A Mosque of Abraham egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.162135,
+                        36.199373
+                  ]
+            },
+            {
+                  "name": "حي الاندلس",
+                  "text": "Az Al-Andalus district egy kilátópont Aleppóban.",
+                  "category": "natural",
+                  "coords": [
+                        37.12122,
+                        36.221422
+                  ]
+            },
+            {
+                  "name": "حي الفردوس",
+                  "text": "A Fardos district egy kilátópont Aleppóban.",
+                  "category": "natural",
+                  "coords": [
+                        37.147871,
+                        36.186388
+                  ]
+            },
+            {
+                  "name": "حي الكلاسة",
+                  "text": "A Kallaseh district egy kilátópont Aleppóban.",
+                  "category": "natural",
+                  "coords": [
+                        37.147522,
+                        36.192276
+                  ]
+            },
+            {
+                  "name": "حي قلعة الشريف",
+                  "text": "A Qal'at al-Sharif district egy kilátópont Aleppóban.",
+                  "category": "natural",
+                  "coords": [
+                        37.157698,
+                        36.193975
+                  ]
+            },
+            {
+                  "name": "حي سيف الدولة",
+                  "text": "A Sayf al-Dawla egy kilátópont Aleppóban.",
+                  "category": "natural",
+                  "coords": [
+                        37.125608,
+                        36.19142
+                  ]
+            },
+            {
+                  "name": "أنا أحب حلب",
+                  "text": "Az I love Aleppo egy emlékmű Aleppóban.",
+                  "category": "historical",
+                  "coords": [
+                        37.147618,
+                        36.207104
+                  ]
+            },
+            {
+                  "name": "ALP461 Ansari 2",
+                  "text": "Az ALP461 Ansari 2 egy kilátópont Aleppóban.",
+                  "category": "natural",
+                  "coords": [
+                        37.143113,
+                        36.176994
+                  ]
+            },
+            {
+                  "name": "جامع الخسروفية",
+                  "text": "Az Al-Saffahiyah Mosque egy istentiszteleti hely Aleppóban. Ez egy fontos történelmi mecset a városban.",
+                  "category": "religious",
+                  "coords": [
+                        37.160497,
+                        36.197379
+                  ]
+            },
+            {
+                  "name": "جامع الرحمن",
+                  "text": "Az Al-Rahman Mosque egy istentiszteleti hely Aleppóban. Ez egy kiemelkedő helyi mecset.",
+                  "category": "religious",
+                  "coords": [
+                        37.138261,
+                        36.216264
+                  ]
+            },
+            {
+                  "name": "مسجد المهمندار",
+                  "text": "A Mahmandar Mosque egy istentiszteleti hely Aleppóban. Régi történelmi mecsetként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        37.159774,
+                        36.202325
+                  ]
+            },
+            {
+                  "name": "جامع البهرمية",
+                  "text": "Az Al-Bahramiyya Mosque egy istentiszteleti hely Aleppóban. Ez egy történelmi, oszmán-kori mecset.",
+                  "category": "religious",
+                  "coords": [
+                        37.154668,
+                        36.198239
+                  ]
+            },
+            {
+                  "name": "جامع الطواشي",
+                  "text": "Az Al-Tawashi Mosque egy istentiszteleti hely Aleppóban. Történelmi mecsetként ismert a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        37.161877,
+                        36.194926
+                  ]
+            },
+            {
+                  "name": "مسجد العادلية",
+                  "text": "Az Al-Adiliyah Mosque egy istentiszteleti hely Aleppóban. Ez egy jelentős mecsetkomplexum az oszmán időszakból.",
+                  "category": "religious",
+                  "coords": [
+                        37.157757,
+                        36.197396
+                  ]
+            },
+            {
+                  "name": "مسجد ألتون باغ",
+                  "text": "Az Altun Bogha Mosque egy istentiszteleti hely Aleppóban. Ez egy figyelemre méltó mameluk-kori mecset.",
+                  "category": "religious",
+                  "coords": [
+                        37.166474,
+                        36.196587
+                  ]
+            },
+            {
+                  "name": "جامع التوحيد",
+                  "text": "Az Al-Tawhid Mosque egy istentiszteleti hely Aleppóban. Jelentős modern építészettel rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        37.153397,
+                        36.214334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "مدينة حلب القديمة",
+                  "text": "Aleppo Old City este un sit arheologic din Alep. Este renumit ca sit al Patrimoniului Mondial UNESCO.",
+                  "category": "historical",
+                  "coords": [
+                        37.163613,
+                        36.199469
+                  ]
+            },
+            {
+                  "name": "متحف التقاليد الشعبية",
+                  "text": "Museum of Popular Tradition este un muzeu situat în Alep.",
+                  "category": "museum",
+                  "coords": [
+                        37.156521,
+                        36.205996
+                  ]
+            },
+            {
+                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "text": "al-Bimaristan al-Arghuni – البيمارستان الارغوني este un muzeu situat în Alep.",
+                  "category": "museum",
+                  "coords": [
+                        37.156854,
+                        36.196697
+                  ]
+            },
+            {
+                  "name": "National Museum of Aleppo",
+                  "text": "National Museum of Aleppo este un muzeu situat în Alep.",
+                  "category": "museum",
+                  "coords": [
+                        37.150264,
+                        36.203517
+                  ]
+            },
+            {
+                  "name": "باب الحديد",
+                  "text": "Bab al-Hadid este un monument în Alep. Este una dintre porțile istorice ale orașului antic.",
+                  "category": "historical",
+                  "coords": [
+                        37.167286,
+                        36.203346
+                  ]
+            },
+            {
+                  "name": "باب الجنان",
+                  "text": "Bab al-Jinan este un sit în ruină situat în Alep. Acesta marchează locația uneia dintre fostele porți ale orașului.",
+                  "category": "historical",
+                  "coords": [
+                        37.151897,
+                        36.201746
+                  ]
+            },
+            {
+                  "name": "الحديقة العامة",
+                  "text": "Public Park este un parc situat în Alep. Acesta servește ca un mare spațiu verde urban pentru oraș.",
+                  "category": "park",
+                  "coords": [
+                        37.147281,
+                        36.210112
+                  ]
+            },
+            {
+                  "name": "جامع السلطانية",
+                  "text": "Al Sultaniyeh Mosque Ruins este un monument situat în Alep. Este cunoscut ca un complex religios și educațional istoric.",
+                  "category": "historical",
+                  "coords": [
+                        37.16187,
+                        36.197206
+                  ]
+            },
+            {
+                  "name": "باب الفرج",
+                  "text": "Bab al-Faraj este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.152755,
+                        36.204059
+                  ]
+            },
+            {
+                  "name": "باب انطاكية",
+                  "text": "Bab Antakeya este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.151613,
+                        36.198858
+                  ]
+            },
+            {
+                  "name": "باب المقام",
+                  "text": "Bab al-Maqam este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.160471,
+                        36.192091
+                  ]
+            },
+            {
+                  "name": "باب النصر",
+                  "text": "Bab al-Nasr este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.160642,
+                        36.204031
+                  ]
+            },
+            {
+                  "name": "باب قنسرين",
+                  "text": "Bab Qinnesrin este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.155899,
+                        36.194488
+                  ]
+            },
+            {
+                  "name": "المطبخ العجمي",
+                  "text": "Al Matbkh Al Ajami este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.158531,
+                        36.200208
+                  ]
+            },
+            {
+                  "name": "جامع الصغير",
+                  "text": "Mosque of Abraham este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.162135,
+                        36.199373
+                  ]
+            },
+            {
+                  "name": "حي الاندلس",
+                  "text": "Al-Andalus district este un punct de belvedere situat în Alep.",
+                  "category": "natural",
+                  "coords": [
+                        37.12122,
+                        36.221422
+                  ]
+            },
+            {
+                  "name": "حي الفردوس",
+                  "text": "Fardos district este un punct de belvedere situat în Alep.",
+                  "category": "natural",
+                  "coords": [
+                        37.147871,
+                        36.186388
+                  ]
+            },
+            {
+                  "name": "حي الكلاسة",
+                  "text": "Kallaseh district este un punct de belvedere situat în Alep.",
+                  "category": "natural",
+                  "coords": [
+                        37.147522,
+                        36.192276
+                  ]
+            },
+            {
+                  "name": "حي قلعة الشريف",
+                  "text": "Qal'at al-Sharif district este un punct de belvedere situat în Alep.",
+                  "category": "natural",
+                  "coords": [
+                        37.157698,
+                        36.193975
+                  ]
+            },
+            {
+                  "name": "حي سيف الدولة",
+                  "text": "Sayf al-Dawla este un punct de belvedere situat în Alep.",
+                  "category": "natural",
+                  "coords": [
+                        37.125608,
+                        36.19142
+                  ]
+            },
+            {
+                  "name": "أنا أحب حلب",
+                  "text": "I love Aleppo este un monument situat în Alep.",
+                  "category": "historical",
+                  "coords": [
+                        37.147618,
+                        36.207104
+                  ]
+            },
+            {
+                  "name": "ALP461 Ansari 2",
+                  "text": "ALP461 Ansari 2 este un punct de belvedere situat în Alep.",
+                  "category": "natural",
+                  "coords": [
+                        37.143113,
+                        36.176994
+                  ]
+            },
+            {
+                  "name": "جامع الخسروفية",
+                  "text": "Al-Saffahiyah Mosque este un lăcaș de cult situat în Alep. Este o importantă moschee istorică din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        37.160497,
+                        36.197379
+                  ]
+            },
+            {
+                  "name": "جامع الرحمن",
+                  "text": "Al-Rahman Mosque este un lăcaș de cult situat în Alep. Este o moschee locală proeminentă.",
+                  "category": "religious",
+                  "coords": [
+                        37.138261,
+                        36.216264
+                  ]
+            },
+            {
+                  "name": "مسجد المهمندار",
+                  "text": "Mahmandar Mosque este un lăcaș de cult situat în Alep. Este recunoscută ca o moschee istorică antică.",
+                  "category": "religious",
+                  "coords": [
+                        37.159774,
+                        36.202325
+                  ]
+            },
+            {
+                  "name": "جامع البهرمية",
+                  "text": "Al-Bahramiyya Mosque este un lăcaș de cult în Alep. Este o moschee istorică din epoca otomană.",
+                  "category": "religious",
+                  "coords": [
+                        37.154668,
+                        36.198239
+                  ]
+            },
+            {
+                  "name": "جامع الطواشي",
+                  "text": "Al-Tawashi Mosque este un lăcaș de cult situat în Alep. Este cunoscută ca o moschee istorică în zonă.",
+                  "category": "religious",
+                  "coords": [
+                        37.161877,
+                        36.194926
+                  ]
+            },
+            {
+                  "name": "مسجد العادلية",
+                  "text": "Al-Adiliyah Mosque este un lăcaș de cult situat în Alep. Este un complex de moschei semnificativ din perioada otomană.",
+                  "category": "religious",
+                  "coords": [
+                        37.157757,
+                        36.197396
+                  ]
+            },
+            {
+                  "name": "مسجد ألتون باغ",
+                  "text": "Altun Bogha Mosque este un lăcaș de cult în Alep. Este o moschee notabilă din epoca mamelucă.",
+                  "category": "religious",
+                  "coords": [
+                        37.166474,
+                        36.196587
+                  ]
+            },
+            {
+                  "name": "جامع التوحيد",
+                  "text": "Al-Tawhid Mosque este un lăcaș de cult situat în Alep. Prezintă o arhitectură modernă notabilă.",
+                  "category": "religious",
+                  "coords": [
+                        37.153397,
+                        36.214334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aleppo Old City",
+                  "text": "Aleppo Old City is an archaeological site in Aleppo. It is renowned as a UNESCO World Heritage site.",
+                  "category": "historical",
+                  "coords": [
+                        37.163613,
+                        36.199469
+                  ]
+            },
+            {
+                  "name": "Museum of Popular Tradition",
+                  "text": "Museum of Popular Tradition is a museum located in Aleppo.",
+                  "category": "museum",
+                  "coords": [
+                        37.156521,
+                        36.205996
+                  ]
+            },
+            {
+                  "name": "al-Bimaristan al-Arghuni – البيمارستان الارغوني",
+                  "text": "al-Bimaristan al-Arghuni – البيمارستان الارغوني is a museum situated in Aleppo.",
+                  "category": "museum",
+                  "coords": [
+                        37.156854,
+                        36.196697
+                  ]
+            },
+            {
+                  "name": "National Museum of Aleppo",
+                  "text": "National Museum of Aleppo is a museum located in Aleppo.",
+                  "category": "museum",
+                  "coords": [
+                        37.150264,
+                        36.203517
+                  ]
+            },
+            {
+                  "name": "Bab al-Hadid",
+                  "text": "Bab al-Hadid is a monument in Aleppo. It is one of the historic gates of the ancient city.",
+                  "category": "historical",
+                  "coords": [
+                        37.167286,
+                        36.203346
+                  ]
+            },
+            {
+                  "name": "Bab al-Jinan",
+                  "text": "Bab al-Jinan is a ruins site located in Aleppo. It marks the location of one of the former city gates.",
+                  "category": "historical",
+                  "coords": [
+                        37.151897,
+                        36.201746
+                  ]
+            },
+            {
+                  "name": "Public Park",
+                  "text": "Public Park is a park located in Aleppo. It serves as a large urban green space for the city.",
+                  "category": "park",
+                  "coords": [
+                        37.147281,
+                        36.210112
+                  ]
+            },
+            {
+                  "name": "Al Sultaniyeh Mosque Ruins",
+                  "text": "Al Sultaniyeh Mosque Ruins is a monument situated in Aleppo. It is known as a historic religious and educational complex.",
+                  "category": "historical",
+                  "coords": [
+                        37.16187,
+                        36.197206
+                  ]
+            },
+            {
+                  "name": "Bab al-Faraj",
+                  "text": "Bab al-Faraj is a monument situated in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.152755,
+                        36.204059
+                  ]
+            },
+            {
+                  "name": "Bab Antakeya",
+                  "text": "Bab Antakeya is a monument located in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.151613,
+                        36.198858
+                  ]
+            },
+            {
+                  "name": "Bab al-Maqam",
+                  "text": "Bab al-Maqam is a monument situated in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.160471,
+                        36.192091
+                  ]
+            },
+            {
+                  "name": "Bab al-Nasr",
+                  "text": "Bab al-Nasr is a monument located in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.160642,
+                        36.204031
+                  ]
+            },
+            {
+                  "name": "Bab Qinnesrin",
+                  "text": "Bab Qinnesrin is a monument situated in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.155899,
+                        36.194488
+                  ]
+            },
+            {
+                  "name": "Al Matbkh Al Ajami",
+                  "text": "Al Matbkh Al Ajami is a monument situated in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.158531,
+                        36.200208
+                  ]
+            },
+            {
+                  "name": "Mosque of Abraham",
+                  "text": "Mosque of Abraham is a monument located in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.162135,
+                        36.199373
+                  ]
+            },
+            {
+                  "name": "Al-Andalus district",
+                  "text": "Al-Andalus district is a viewpoint situated in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.12122,
+                        36.221422
+                  ]
+            },
+            {
+                  "name": "Fardos district",
+                  "text": "Fardos district is a viewpoint located in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.147871,
+                        36.186388
+                  ]
+            },
+            {
+                  "name": "Kallaseh district",
+                  "text": "Kallaseh district is a viewpoint situated in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.147522,
+                        36.192276
+                  ]
+            },
+            {
+                  "name": "Qal'at al-Sharif district",
+                  "text": "Qal'at al-Sharif district is a viewpoint located in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.157698,
+                        36.193975
+                  ]
+            },
+            {
+                  "name": "Sayf al-Dawla",
+                  "text": "Sayf al-Dawla is a viewpoint situated in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.125608,
+                        36.19142
+                  ]
+            },
+            {
+                  "name": "I love Aleppo",
+                  "text": "I love Aleppo is a monument situated in Aleppo.",
+                  "category": "historical",
+                  "coords": [
+                        37.147618,
+                        36.207104
+                  ]
+            },
+            {
+                  "name": "ALP461 Ansari 2",
+                  "text": "ALP461 Ansari 2 is a viewpoint located in Aleppo.",
+                  "category": "natural",
+                  "coords": [
+                        37.143113,
+                        36.176994
+                  ]
+            },
+            {
+                  "name": "Al-Saffahiyah Mosque",
+                  "text": "Al-Saffahiyah Mosque is a place of worship located in Aleppo. It is an important historic mosque in the city.",
+                  "category": "religious",
+                  "coords": [
+                        37.160497,
+                        36.197379
+                  ]
+            },
+            {
+                  "name": "Al-Rahman Mosque",
+                  "text": "Al-Rahman Mosque is a place of worship situated in Aleppo. It is a prominent local mosque.",
+                  "category": "religious",
+                  "coords": [
+                        37.138261,
+                        36.216264
+                  ]
+            },
+            {
+                  "name": "Mahmandar Mosque",
+                  "text": "Mahmandar Mosque is a place of worship located in Aleppo. It is recognized as an ancient historic mosque.",
+                  "category": "religious",
+                  "coords": [
+                        37.159774,
+                        36.202325
+                  ]
+            },
+            {
+                  "name": "Al-Bahramiyya Mosque",
+                  "text": "Al-Bahramiyya Mosque is a place of worship in Aleppo. It is a historic Ottoman-era mosque.",
+                  "category": "religious",
+                  "coords": [
+                        37.154668,
+                        36.198239
+                  ]
+            },
+            {
+                  "name": "Al-Tawashi Mosque",
+                  "text": "Al-Tawashi Mosque is a place of worship situated in Aleppo. It is known as a historic mosque in the area.",
+                  "category": "religious",
+                  "coords": [
+                        37.161877,
+                        36.194926
+                  ]
+            },
+            {
+                  "name": "Al-Adiliyah Mosque",
+                  "text": "Al-Adiliyah Mosque is a place of worship located in Aleppo. It is a significant mosque complex from the Ottoman period.",
+                  "category": "religious",
+                  "coords": [
+                        37.157757,
+                        36.197396
+                  ]
+            },
+            {
+                  "name": "Altun Bogha Mosque",
+                  "text": "Altun Bogha Mosque is a place of worship in Aleppo. It is a notable Mamluk-era mosque.",
+                  "category": "religious",
+                  "coords": [
+                        37.166474,
+                        36.196587
+                  ]
+            },
+            {
+                  "name": "Al-Tawhid Mosque",
+                  "text": "Al-Tawhid Mosque is a place of worship situated in Aleppo. It features notable modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        37.153397,
+                        36.214334
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-HL",
     coords: [37.1343, 36.2021],
@@ -173,7 +1262,268 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "ar-raqqah-cities-v2",
+    id: "ar-raqqah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "تل البيعة",
+                  "text": "Archäologische Ausgrabungsstätte einer antiken Stadt am Euphrat.",
+                  "category": "historical",
+                  "coords": [
+                        39.04707,
+                        35.958204
+                  ]
+            },
+            {
+                  "name": "سور الرقة",
+                  "text": "Historisches Stadttor als Teil der alten Befestigungsanlagen von Rakka.",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.948963
+                  ]
+            },
+            {
+                  "name": "متحف الرقة",
+                  "text": "Museum mit Funden aus der reichen Geschichte der Region Rakka.",
+                  "category": "museum",
+                  "coords": [
+                        39.016724,
+                        35.945835
+                  ]
+            },
+            {
+                  "name": "باب بغداد",
+                  "text": "Eindrucksvolles abbasidisches Stadttor aus dem 8. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.942918
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Kulturelle Veranstaltungsstätte und Amphitheater in der Stadt Rakka.",
+                  "category": "cultural",
+                  "coords": [
+                        38.989909,
+                        35.938572
+                  ]
+            },
+            {
+                  "name": "Burj ar Raqqah",
+                  "text": "Ruinen eines historischen Turms in der nordsyrischen Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        39.02087,
+                        35.951912
+                  ]
+            },
+            {
+                  "name": "Qasr al-Banat",
+                  "text": "Ruinen eines mittelalterlichen Palastes, bekannt als „Palast der Frauen“.",
+                  "category": "historical",
+                  "coords": [
+                        39.026189,
+                        35.948008
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "تل البيعة",
+                  "text": "Egy ősi mezopotámiai város régészeti lelőhelye az Eufrátesz mentén.",
+                  "category": "historical",
+                  "coords": [
+                        39.04707,
+                        35.958204
+                  ]
+            },
+            {
+                  "name": "سور الرقة",
+                  "text": "Történelmi városkapu Rakka régi erődítményrendszerének részeként.",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.948963
+                  ]
+            },
+            {
+                  "name": "متحف الرقة",
+                  "text": "Múzeum, amely Rakka régiójának gazdag történelmi emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        39.016724,
+                        35.945835
+                  ]
+            },
+            {
+                  "name": "باب بغداد",
+                  "text": "Hatásos abbászida városkapu a 8. századból.",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.942918
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Kulturális rendezvényhelyszín és amfiteátrum Rakka városában.",
+                  "category": "cultural",
+                  "coords": [
+                        38.989909,
+                        35.938572
+                  ]
+            },
+            {
+                  "name": "برج الرقة",
+                  "text": "Egy történelmi torony romjai az észak-szíriai városban.",
+                  "category": "historical",
+                  "coords": [
+                        39.02087,
+                        35.951912
+                  ]
+            },
+            {
+                  "name": "Qasr al-Banat",
+                  "text": "Egy középkori palota maradványai, amelyet „Lányok palotájaként” ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        39.026189,
+                        35.948008
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "تل البيعة",
+                  "text": "Sit arheologic al unui oraș antic situat pe malul Eufratului.",
+                  "category": "historical",
+                  "coords": [
+                        39.04707,
+                        35.958204
+                  ]
+            },
+            {
+                  "name": "سور الرقة",
+                  "text": "Poartă istorică a orașului, parte a vechilor fortificații din Raqqa.",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.948963
+                  ]
+            },
+            {
+                  "name": "متحف الرقة",
+                  "text": "Muzeu ce adăpostește descoperiri din istoria bogată a regiunii Raqqa.",
+                  "category": "museum",
+                  "coords": [
+                        39.016724,
+                        35.945835
+                  ]
+            },
+            {
+                  "name": "باب بغداد",
+                  "text": "Poartă impresionantă a orașului din epoca abbasidă (secolul VIII).",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.942918
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Locație pentru evenimente culturale și amfiteatru în orașul Raqqa.",
+                  "category": "cultural",
+                  "coords": [
+                        38.989909,
+                        35.938572
+                  ]
+            },
+            {
+                  "name": "برج الرقة",
+                  "text": "Ruinele unui turn istoric în orașul din nordul Siriei.",
+                  "category": "historical",
+                  "coords": [
+                        39.02087,
+                        35.951912
+                  ]
+            },
+            {
+                  "name": "Qasr al-Banat",
+                  "text": "Ruinele unui palat medieval, cunoscut sub numele de „Palatul fetelor”.",
+                  "category": "historical",
+                  "coords": [
+                        39.026189,
+                        35.948008
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tuttul",
+                  "text": "Archaeological site of an ancient city located on the Euphrates.",
+                  "category": "historical",
+                  "coords": [
+                        39.04707,
+                        35.958204
+                  ]
+            },
+            {
+                  "name": "Raqqa wall gate",
+                  "text": "Historic city gate forming part of the old fortifications of Raqqa.",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.948963
+                  ]
+            },
+            {
+                  "name": "Raqqa Museum",
+                  "text": "Museum housing finds from the rich history of the Raqqa region.",
+                  "category": "museum",
+                  "coords": [
+                        39.016724,
+                        35.945835
+                  ]
+            },
+            {
+                  "name": "Baghdad Gate",
+                  "text": "Impressive Abbasid city gate dating back to the 8th century.",
+                  "category": "castle",
+                  "coords": [
+                        39.027167,
+                        35.942918
+                  ]
+            },
+            {
+                  "name": "Amfiteatr",
+                  "text": "Cultural event venue and amphitheater in the city of Raqqa.",
+                  "category": "cultural",
+                  "coords": [
+                        38.989909,
+                        35.938572
+                  ]
+            },
+            {
+                  "name": "Burj ar Raqqah",
+                  "text": "Ruins of a historic tower in the northern Syrian city.",
+                  "category": "historical",
+                  "coords": [
+                        39.02087,
+                        35.951912
+                  ]
+            },
+            {
+                  "name": "Qasr al-Banat",
+                  "text": "Ruins of a medieval palace, known as the \"Palace of the Ladies\".",
+                  "category": "historical",
+                  "coords": [
+                        39.026189,
+                        35.948008
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-RA",
     coords: [39.0151, 35.9528],
@@ -201,7 +1551,52 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "al-hasakah-cities-v2",
+    id: "al-hasakah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "دوار الطريف",
+                  "text": "Dawoar al tareef ist ein Denkmal in Al-Hasaka.",
+                  "category": "historical",
+                  "coords": [
+                        40.756655,
+                        36.494124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "دوار الطريف",
+                  "text": "A Dawoar al tareef egy emlékmű Al-Hasaka városában.",
+                  "category": "historical",
+                  "coords": [
+                        40.756655,
+                        36.494124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "دوار الطريف",
+                  "text": "Dawoar al tareef este un monument situat în Al-Hasaka.",
+                  "category": "historical",
+                  "coords": [
+                        40.756655,
+                        36.494124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dawoar al tareef",
+                  "text": "Dawoar al tareef is a monument located in Al-Hasaka.",
+                  "category": "historical",
+                  "coords": [
+                        40.756655,
+                        36.494124
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-HA",
     coords: [40.7479, 36.5024],
@@ -341,7 +1736,196 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "qamishli-cities-v2",
+    id: "qamishli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arkeolojik Kazı Alanı",
+                  "text": "Grabungsstätte zur Erforschung der antiken Geschichte in Kamischli.",
+                  "category": "historical",
+                  "coords": [
+                        41.215101,
+                        37.066863
+                  ]
+            },
+            {
+                  "name": "Hola Apo Osman Sebrî",
+                  "text": "Kulturhalle und Veranstaltungsort für lokale Feierlichkeiten in Kamischli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.205228,
+                        37.049281
+                  ]
+            },
+            {
+                  "name": "Gilovera Deryê Nisêbînê",
+                  "text": "Platz oder Landmarke im Bereich des Grenzübergangs von Kamischli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.219245,
+                        37.059883
+                  ]
+            },
+            {
+                  "name": "هدية صالح",
+                  "text": "Ein Denkmal in Qamischli, das der Erinnerung an die lokale Geschichte dient.",
+                  "category": "historical",
+                  "coords": [
+                        41.198386,
+                        37.041579
+                  ]
+            },
+            {
+                  "name": "مركز ستيرفا",
+                  "text": "Ein beliebtes Freizeitziel und Attraktion im Zentrum von Qamischli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.216768,
+                        37.044756
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arkeolojik Kazı Alanı",
+                  "text": "Régészeti feltárási terület Kamishli ókori történelmének kutatására.",
+                  "category": "historical",
+                  "coords": [
+                        41.215101,
+                        37.066863
+                  ]
+            },
+            {
+                  "name": "Hola Apo Osman Sebrî",
+                  "text": "Kulturális csarnok és rendezvényhelyszín Kamishli városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.205228,
+                        37.049281
+                  ]
+            },
+            {
+                  "name": "Gilovera Deryê Nisêbînê",
+                  "text": "Közösségi tér vagy tájékozódási pont a kamishli határátkelőnél.",
+                  "category": "landmark",
+                  "coords": [
+                        41.219245,
+                        37.059883
+                  ]
+            },
+            {
+                  "name": "هدية صالح",
+                  "text": "Emlékmű Qamischli városában, amely a helyi történelem előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        41.198386,
+                        37.041579
+                  ]
+            },
+            {
+                  "name": "مركز ستيرفا",
+                  "text": "Népszerű szabadidős központ és látványosság Qamischli szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        41.216768,
+                        37.044756
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arkeolojik Kazı Alanı",
+                  "text": "Zonă de săpături arheologice pentru cercetarea istoriei antice din Al-Qamishli.",
+                  "category": "historical",
+                  "coords": [
+                        41.215101,
+                        37.066863
+                  ]
+            },
+            {
+                  "name": "Hola Apo Osman Sebrî",
+                  "text": "Sală culturală și loc pentru evenimente locale în Al-Qamishli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.205228,
+                        37.049281
+                  ]
+            },
+            {
+                  "name": "Gilovera Deryê Nisêbînê",
+                  "text": "Spațiu public sau punct de reper în zona punctului de frontieră Kamishli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.219245,
+                        37.059883
+                  ]
+            },
+            {
+                  "name": "هدية صالح",
+                  "text": "Un monument în Qamischli, dedicat memoriei istoriei locale.",
+                  "category": "historical",
+                  "coords": [
+                        41.198386,
+                        37.041579
+                  ]
+            },
+            {
+                  "name": "مركز ستيرفا",
+                  "text": "O destinație populară de agrement și atracție în centrul orașului Qamischli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.216768,
+                        37.044756
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arkeolojik Kazı Alanı",
+                  "text": "Archaeological excavation site for researching the ancient history of Qamishli.",
+                  "category": "historical",
+                  "coords": [
+                        41.215101,
+                        37.066863
+                  ]
+            },
+            {
+                  "name": "Hola Apo Osman Sebrî",
+                  "text": "Cultural hall and venue for local events in Qamishli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.205228,
+                        37.049281
+                  ]
+            },
+            {
+                  "name": "Gilovera Deryê Nisêbînê",
+                  "text": "Public space or landmark near the Qamishli border crossing.",
+                  "category": "landmark",
+                  "coords": [
+                        41.219245,
+                        37.059883
+                  ]
+            },
+            {
+                  "name": "Hadeh Salh",
+                  "text": "A monument in Qamischli dedicated to local history and memory.",
+                  "category": "historical",
+                  "coords": [
+                        41.198386,
+                        37.041579
+                  ]
+            },
+            {
+                  "name": "Stêrva Center",
+                  "text": "A popular leisure destination and attraction in the center of Qamischli.",
+                  "category": "landmark",
+                  "coords": [
+                        41.216768,
+                        37.044756
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-HA",
     coords: [41.2262, 37.0505],
@@ -369,7 +1953,52 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "douma-cities-v2",
+    id: "douma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "text": "Douma Zoo - حديقة الحيوانات ist ein Zoo in Douma.",
+                  "category": "recreational",
+                  "coords": [
+                        36.414021,
+                        33.572171
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "text": "A Douma Zoo - حديقة الحيوانات egy állatkert Douma városában.",
+                  "category": "recreational",
+                  "coords": [
+                        36.414021,
+                        33.572171
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "text": "Douma Zoo - حديقة الحيوانات este o grădină zoologică situată în Douma.",
+                  "category": "recreational",
+                  "coords": [
+                        36.414021,
+                        33.572171
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Douma Zoo - حديقة الحيوانات",
+                  "text": "Douma Zoo - حديقة الحيوانات is a zoo situated in Douma.",
+                  "category": "recreational",
+                  "coords": [
+                        36.414021,
+                        33.572171
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-RD",
     coords: [36.4024, 33.5735],
@@ -397,7 +2026,88 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "manbij-cities-v2",
+    id: "manbij-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "دوار الكرة الأرضية",
+                  "text": "Ein markantes Denkmal an einem Kreisverkehr in der Stadt Manbidsch.",
+                  "category": "historical",
+                  "coords": [
+                        37.955686,
+                        36.529344
+                  ]
+            },
+            {
+                  "name": "دوار المطاحن",
+                  "text": "Ein lokaler Orientierungspunkt und Denkmal in Manbidsch.",
+                  "category": "historical",
+                  "coords": [
+                        37.96091,
+                        36.512736
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "دوار الكرة الأرضية",
+                  "text": "Jellegzetes emlékmű egy körforgalomnál Manbidzs városában.",
+                  "category": "historical",
+                  "coords": [
+                        37.955686,
+                        36.529344
+                  ]
+            },
+            {
+                  "name": "دوار المطاحن",
+                  "text": "Helyi tájékozódási pont és emlékmű Manbidzsban.",
+                  "category": "historical",
+                  "coords": [
+                        37.96091,
+                        36.512736
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "دوار الكرة الأرضية",
+                  "text": "Un monument proeminent situat într-un sens giratoriu din orașul Manbij.",
+                  "category": "historical",
+                  "coords": [
+                        37.955686,
+                        36.529344
+                  ]
+            },
+            {
+                  "name": "دوار المطاحن",
+                  "text": "Un punct de reper local și monument în Manbij.",
+                  "category": "historical",
+                  "coords": [
+                        37.96091,
+                        36.512736
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Globe Roundabout",
+                  "text": "A prominent monument at a roundabout in the city of Manbij.",
+                  "category": "historical",
+                  "coords": [
+                        37.955686,
+                        36.529344
+                  ]
+            },
+            {
+                  "name": "Mills Roundabout",
+                  "text": "A local landmark and monument in Manbij.",
+                  "category": "historical",
+                  "coords": [
+                        37.96091,
+                        36.512736
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-HL",
     coords: [37.9547, 36.5278],
@@ -565,7 +2275,700 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "palmyra-cities-v2",
+    id: "palmyra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Palmyra",
+                  "text": "Eine antike semitische Stadt und UNESCO-Welterbestätte mit monumentalen Ruinen.",
+                  "category": "historical",
+                  "coords": [
+                        38.259047,
+                        34.552957
+                  ]
+            },
+            {
+                  "name": "Dioklatianthermen",
+                  "text": "Überreste antiker römischer Thermen in der historischen Stadt Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.270115,
+                        34.55073
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "Der ehemalige öffentliche Marktplatz und Versammlungsort des antiken Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.267204,
+                        34.550522
+                  ]
+            },
+            {
+                  "name": "Der Tempel des Nebo",
+                  "text": "Ruinen eines Tempels, der dem babylonischen Gott Nabu in Palmyra gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        38.270384,
+                        34.549605
+                  ]
+            },
+            {
+                  "name": "Tempel von Baalschamin",
+                  "text": "Ein antiker Tempel in Palmyra, der dem Gott Baal Shamin gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        38.27001,
+                        34.553399
+                  ]
+            },
+            {
+                  "name": "Caesareum",
+                  "text": "Überreste einer antiken römischen Struktur, die dem Kaiserkult in Palmyra diente.",
+                  "category": "historical",
+                  "coords": [
+                        38.268114,
+                        34.55103
+                  ]
+            },
+            {
+                  "name": "قلعة فخر الدين ا",
+                  "text": "Eine Burg aus dem 13. Jahrhundert, die auf einem Hügel über der antiken Stadt thront.",
+                  "category": "castle",
+                  "coords": [
+                        38.257168,
+                        34.562749
+                  ]
+            },
+            {
+                  "name": "Palmyra Museum",
+                  "text": "Ein Museum, das bedeutende archäologische Funde aus der antiken Stadt beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        38.274825,
+                        34.555267
+                  ]
+            },
+            {
+                  "name": "Grabtempel",
+                  "text": "Ruinen eines antiken Tempels mit Grabkammern in der Nekropole von Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.263098,
+                        34.555374
+                  ]
+            },
+            {
+                  "name": "Baaltempel",
+                  "text": "Die massiven Überreste des Haupttempels von Palmyra, der dem Gott Bel gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        38.273858,
+                        34.547348
+                  ]
+            },
+            {
+                  "name": "Allat Tempel",
+                  "text": "Ruinen eines Tempels, der der arabischen Göttin Allat in Palmyra gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        38.261664,
+                        34.55492
+                  ]
+            },
+            {
+                  "name": "Dura gate",
+                  "text": "Überreste eines antiken Tores, das Teil der Stadtbefestigung von Palmyra war.",
+                  "category": "historical",
+                  "coords": [
+                        38.275065,
+                        34.553835
+                  ]
+            },
+            {
+                  "name": "Grabturm des Iamliku",
+                  "text": "Ein markanter antiker Grabturm in der westlichen Nekropole von Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.257408,
+                        34.552222
+                  ]
+            },
+            {
+                  "name": "Weiße Burg",
+                  "text": "Ein historisches Monument in Palmyra, bekannt als der Weiße Palast.",
+                  "category": "historical",
+                  "coords": [
+                        38.248617,
+                        34.552709
+                  ]
+            },
+            {
+                  "name": "Hypogäum Yarhai",
+                  "text": "Eine antike unterirdische Grabstätte mit kunstvollen Reliefs in Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.252516,
+                        34.552421
+                  ]
+            },
+            {
+                  "name": "Early Christian Church",
+                  "text": "Ruinen einer der frühesten christlichen Kirchen in der Region Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.265928,
+                        34.553815
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "Überreste einer antiken Basilika, die von der byzantinischen Ära in Palmyra zeugt.",
+                  "category": "historical",
+                  "coords": [
+                        38.2672,
+                        34.554087
+                  ]
+            },
+            {
+                  "name": "Aquädukt",
+                  "text": "Überreste eines antiken Wasserleitungssystems, das die Wüstenstadt versorgte.",
+                  "category": "historical",
+                  "coords": [
+                        38.251094,
+                        34.553387
+                  ]
+            },
+            {
+                  "name": "Byzantinische Basilika",
+                  "text": "Die Ruinen einer christlichen Basilika aus der byzantinischen Zeit Palmyras.",
+                  "category": "historical",
+                  "coords": [
+                        38.268102,
+                        34.5548
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Palmüra",
+                  "text": "Ősi semita város és UNESCO világörökségi helyszín monumentális romokkal.",
+                  "category": "historical",
+                  "coords": [
+                        38.259047,
+                        34.552957
+                  ]
+            },
+            {
+                  "name": "حامات ديوكليسيان",
+                  "text": "Ókori római fürdők maradványai Palmüra történelmi városában.",
+                  "category": "historical",
+                  "coords": [
+                        38.270115,
+                        34.55073
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "Az ókori Palmüra egykori nyilvános piactere és gyülekezőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        38.267204,
+                        34.550522
+                  ]
+            },
+            {
+                  "name": "معبد نبو",
+                  "text": "A babiloni Nabú istennek szentelt templom romjai Palmürában.",
+                  "category": "historical",
+                  "coords": [
+                        38.270384,
+                        34.549605
+                  ]
+            },
+            {
+                  "name": "معبد بعل شامين",
+                  "text": "Palmürai ókori templom, amelyet Baal-Samin istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        38.27001,
+                        34.553399
+                  ]
+            },
+            {
+                  "name": "Caesareum",
+                  "text": "Az ókori Palmüra császárkultuszát szolgáló római építmény maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        38.268114,
+                        34.55103
+                  ]
+            },
+            {
+                  "name": "قلعة فخر الدين ا",
+                  "text": "13. századi vár, amely egy dombtetőn magasodik az ókori város felett.",
+                  "category": "castle",
+                  "coords": [
+                        38.257168,
+                        34.562749
+                  ]
+            },
+            {
+                  "name": "متحف تدمر",
+                  "text": "Múzeum, amely az ókori város jelentős régészeti leleteit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        38.274825,
+                        34.555267
+                  ]
+            },
+            {
+                  "name": "معبد",
+                  "text": "Sírkamrákkal rendelkező ókori templom romjai Palmüra nekropoliszában.",
+                  "category": "historical",
+                  "coords": [
+                        38.263098,
+                        34.555374
+                  ]
+            },
+            {
+                  "name": "معبد بعل",
+                  "text": "Palmüra főtemplomának hatalmas maradványai, amelyet Bél istennek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        38.273858,
+                        34.547348
+                  ]
+            },
+            {
+                  "name": "معبد اللات",
+                  "text": "Az arab Allát istennőnek szentelt templom romjai Palmürában.",
+                  "category": "historical",
+                  "coords": [
+                        38.261664,
+                        34.55492
+                  ]
+            },
+            {
+                  "name": "Dura gate",
+                  "text": "Ókori kapu maradványai, amely Palmüra városfalának része volt.",
+                  "category": "historical",
+                  "coords": [
+                        38.275065,
+                        34.553835
+                  ]
+            },
+            {
+                  "name": "Grabturm des Iamliku",
+                  "text": "Jellegzetes ókori sírtorony Palmüra nyugati nekropoliszában.",
+                  "category": "historical",
+                  "coords": [
+                        38.257408,
+                        34.552222
+                  ]
+            },
+            {
+                  "name": "Qasr al Abiadh",
+                  "text": "Történelmi emlékmű Palmürában, ismertebb nevén a Fehér Palota.",
+                  "category": "historical",
+                  "coords": [
+                        38.248617,
+                        34.552709
+                  ]
+            },
+            {
+                  "name": "Hypogäum Yarhai",
+                  "text": "Ókori föld alatti sírhely díszes domborművekkel Palmürában.",
+                  "category": "historical",
+                  "coords": [
+                        38.252516,
+                        34.552421
+                  ]
+            },
+            {
+                  "name": "Early Christian Church",
+                  "text": "Palmüra régiójának egyik legkorábbi keresztény templomának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        38.265928,
+                        34.553815
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "Ókori bazilika maradványai, amely a bizánci korszakról tanúskodik Palmürában.",
+                  "category": "historical",
+                  "coords": [
+                        38.2672,
+                        34.554087
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Ókori vízvezeték-rendszer maradványai, amely a sivatagi várost látta el.",
+                  "category": "historical",
+                  "coords": [
+                        38.251094,
+                        34.553387
+                  ]
+            },
+            {
+                  "name": "البازيليكا البيزنطينية",
+                  "text": "Keresztény bazilika romjai Palmüra bizánci korszakából.",
+                  "category": "historical",
+                  "coords": [
+                        38.268102,
+                        34.5548
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "تدمر",
+                  "text": "Un oraș semitic antic și sit al Patrimoniului Mondial UNESCO cu ruine monumentale.",
+                  "category": "historical",
+                  "coords": [
+                        38.259047,
+                        34.552957
+                  ]
+            },
+            {
+                  "name": "حامات ديوكليسيان",
+                  "text": "Rămășițele unor băi romane antice în orașul istoric Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.270115,
+                        34.55073
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "Fosta piață publică și loc de adunare al anticei Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.267204,
+                        34.550522
+                  ]
+            },
+            {
+                  "name": "معبد نبو",
+                  "text": "Ruinele unui templu dedicat zeului babilonian Nabu în Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.270384,
+                        34.549605
+                  ]
+            },
+            {
+                  "name": "معبد بعل شامين",
+                  "text": "Un templu antic din Palmyra dedicat zeului Baal Shamin.",
+                  "category": "historical",
+                  "coords": [
+                        38.27001,
+                        34.553399
+                  ]
+            },
+            {
+                  "name": "Caesareum",
+                  "text": "Rămășițele unei structuri romane antice dedicate cultului imperial în Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.268114,
+                        34.55103
+                  ]
+            },
+            {
+                  "name": "قلعة فخر الدين ا",
+                  "text": "Un castel din secolul al XIII-lea situat pe un deal care domină orașul antic.",
+                  "category": "castle",
+                  "coords": [
+                        38.257168,
+                        34.562749
+                  ]
+            },
+            {
+                  "name": "متحف تدمر",
+                  "text": "Un muzeu care adăpostește descoperiri arheologice semnificative din orașul antic.",
+                  "category": "museum",
+                  "coords": [
+                        38.274825,
+                        34.555267
+                  ]
+            },
+            {
+                  "name": "معبد",
+                  "text": "Ruinele unui templu antic cu camere funerare în necropola Palmyrei.",
+                  "category": "historical",
+                  "coords": [
+                        38.263098,
+                        34.555374
+                  ]
+            },
+            {
+                  "name": "معبد بعل",
+                  "text": "Rămășițele masive ale templului principal din Palmyra, dedicat zeului Bel.",
+                  "category": "historical",
+                  "coords": [
+                        38.273858,
+                        34.547348
+                  ]
+            },
+            {
+                  "name": "معبد اللات",
+                  "text": "Ruinele unui templu dedicat zeiței arabe Allat în Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.261664,
+                        34.55492
+                  ]
+            },
+            {
+                  "name": "Dura gate",
+                  "text": "Rămășițele unei porți antice care făcea parte din zidurile orașului Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.275065,
+                        34.553835
+                  ]
+            },
+            {
+                  "name": "Grabturm des Iamliku",
+                  "text": "Un turn funerar antic proeminent în necropola de vest a Palmyrei.",
+                  "category": "historical",
+                  "coords": [
+                        38.257408,
+                        34.552222
+                  ]
+            },
+            {
+                  "name": "Qasr al Abiadh",
+                  "text": "Un monument istoric din Palmyra, cunoscut sub numele de Palatul Alb.",
+                  "category": "historical",
+                  "coords": [
+                        38.248617,
+                        34.552709
+                  ]
+            },
+            {
+                  "name": "Hypogäum Yarhai",
+                  "text": "Un mormânt subteran antic cu reliefuri elaborate în Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.252516,
+                        34.552421
+                  ]
+            },
+            {
+                  "name": "Early Christian Church",
+                  "text": "Ruinele uneia dintre cele mai timpurii biserici creștine din regiunea Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.265928,
+                        34.553815
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "Rămășițele unei bazilici antice care atestă epoca bizantină în Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.2672,
+                        34.554087
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Rămășițele unui sistem antic de apeducte care deservea orașul din deșert.",
+                  "category": "historical",
+                  "coords": [
+                        38.251094,
+                        34.553387
+                  ]
+            },
+            {
+                  "name": "البازيليكا البيزنطينية",
+                  "text": "Ruinele unei bazilici creștine din perioada bizantină a Palmyrei.",
+                  "category": "historical",
+                  "coords": [
+                        38.268102,
+                        34.5548
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Palmyra",
+                  "text": "An ancient Semitic city and UNESCO World Heritage site featuring monumental ruins.",
+                  "category": "historical",
+                  "coords": [
+                        38.259047,
+                        34.552957
+                  ]
+            },
+            {
+                  "name": "Baths of Diocletian",
+                  "text": "Remains of ancient Roman baths in the historic city of Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.270115,
+                        34.55073
+                  ]
+            },
+            {
+                  "name": "Agora",
+                  "text": "The former public marketplace and gathering place of ancient Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.267204,
+                        34.550522
+                  ]
+            },
+            {
+                  "name": "Temple of Nabu",
+                  "text": "Ruins of a temple dedicated to the Babylonian god Nabu in Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.270384,
+                        34.549605
+                  ]
+            },
+            {
+                  "name": "Temple of Baal Shamin",
+                  "text": "An ancient temple in Palmyra dedicated to the god Baal Shamin.",
+                  "category": "historical",
+                  "coords": [
+                        38.27001,
+                        34.553399
+                  ]
+            },
+            {
+                  "name": "Caesareum",
+                  "text": "Remains of an ancient Roman structure dedicated to the imperial cult in Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.268114,
+                        34.55103
+                  ]
+            },
+            {
+                  "name": "Fakhr-al-Din al-Ma'ani Castle",
+                  "text": "A 13th-century castle perched on a hill overlooking the ancient city.",
+                  "category": "castle",
+                  "coords": [
+                        38.257168,
+                        34.562749
+                  ]
+            },
+            {
+                  "name": "Palmyra Museum",
+                  "text": "A museum housing significant archaeological finds from the ancient city.",
+                  "category": "museum",
+                  "coords": [
+                        38.274825,
+                        34.555267
+                  ]
+            },
+            {
+                  "name": "Funerary Temple",
+                  "text": "Ruins of an ancient temple with funerary chambers in the necropolis of Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.263098,
+                        34.555374
+                  ]
+            },
+            {
+                  "name": "Temple of Baal",
+                  "text": "The massive remains of the primary temple of Palmyra, dedicated to the god Bel.",
+                  "category": "historical",
+                  "coords": [
+                        38.273858,
+                        34.547348
+                  ]
+            },
+            {
+                  "name": "Temple of Allat",
+                  "text": "Ruins of a temple dedicated to the Arabian goddess Allat in Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.261664,
+                        34.55492
+                  ]
+            },
+            {
+                  "name": "Dura gate",
+                  "text": "Remains of an ancient gate that was part of the city walls of Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.275065,
+                        34.553835
+                  ]
+            },
+            {
+                  "name": "Grabturm des Iamliku",
+                  "text": "A prominent ancient funerary tower in the western necropolis of Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.257408,
+                        34.552222
+                  ]
+            },
+            {
+                  "name": "Qasr al Abiadh",
+                  "text": "A historical monument in Palmyra known as the White Palace.",
+                  "category": "historical",
+                  "coords": [
+                        38.248617,
+                        34.552709
+                  ]
+            },
+            {
+                  "name": "Hypogäum Yarhai",
+                  "text": "An ancient underground tomb with elaborate reliefs in Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.252516,
+                        34.552421
+                  ]
+            },
+            {
+                  "name": "Early Christian Church",
+                  "text": "Ruins of one of the earliest Christian churches in the Palmyra region.",
+                  "category": "historical",
+                  "coords": [
+                        38.265928,
+                        34.553815
+                  ]
+            },
+            {
+                  "name": "Basilica",
+                  "text": "Remains of an ancient basilica witnessing the Byzantine era in Palmyra.",
+                  "category": "historical",
+                  "coords": [
+                        38.2672,
+                        34.554087
+                  ]
+            },
+            {
+                  "name": "Aqueduct",
+                  "text": "Remains of an ancient aqueduct system that supplied the desert city.",
+                  "category": "historical",
+                  "coords": [
+                        38.251094,
+                        34.553387
+                  ]
+            },
+            {
+                  "name": "Byzantine basilica",
+                  "text": "The ruins of a Christian basilica from Palmyra's Byzantine period.",
+                  "category": "historical",
+                  "coords": [
+                        38.268102,
+                        34.5548
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-HI",
     coords: [38.2711, 34.5610],
@@ -593,7 +2996,124 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "safita-cities-v2",
+    id: "safita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ديوب",
+                  "text": "Eine historische Burganlage in der Stadt Safita.",
+                  "category": "castle",
+                  "coords": [
+                        36.11191,
+                        34.817251
+                  ]
+            },
+            {
+                  "name": "برج صافيتا وكنيسة مار ميخائيل",
+                  "text": "Ein markanter Turm einer Kreuzritterfestung und Kirche in Safita.",
+                  "category": "historical",
+                  "coords": [
+                        36.116746,
+                        34.820673
+                  ]
+            },
+            {
+                  "name": "حارة بيت ربيع",
+                  "text": "Eine lokale Sehenswürdigkeit und Attraktion in Safita.",
+                  "category": "landmark",
+                  "coords": [
+                        36.119256,
+                        34.82099
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ديوب",
+                  "text": "Történelmi várkastély Safita városában.",
+                  "category": "castle",
+                  "coords": [
+                        36.11191,
+                        34.817251
+                  ]
+            },
+            {
+                  "name": "برج صافيتا وكنيسة مار ميخائيل",
+                  "text": "Keresztes lovagvár és templom jellegzetes tornya Safitában.",
+                  "category": "historical",
+                  "coords": [
+                        36.116746,
+                        34.820673
+                  ]
+            },
+            {
+                  "name": "حارة بيت ربيع",
+                  "text": "Helyi nevezetesség és látnivaló Safita városában.",
+                  "category": "landmark",
+                  "coords": [
+                        36.119256,
+                        34.82099
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ديوب",
+                  "text": "O fortăreață istorică situată în orașul Safita.",
+                  "category": "castle",
+                  "coords": [
+                        36.11191,
+                        34.817251
+                  ]
+            },
+            {
+                  "name": "برج صافيتا وكنيسة مار ميخائيل",
+                  "text": "Un turn proeminent al unei fortărețe cruciate și biserică în Safita.",
+                  "category": "historical",
+                  "coords": [
+                        36.116746,
+                        34.820673
+                  ]
+            },
+            {
+                  "name": "حارة بيت ربيع",
+                  "text": "O atracție locală și punct de interes în Safita.",
+                  "category": "landmark",
+                  "coords": [
+                        36.119256,
+                        34.82099
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "E Dayoub",
+                  "text": "A historic castle structure located in the city of Safita.",
+                  "category": "castle",
+                  "coords": [
+                        36.11191,
+                        34.817251
+                  ]
+            },
+            {
+                  "name": "Chastel Blanc and St. Michael Church (Safita Tower)",
+                  "text": "A prominent Crusader fortress tower and church in Safita.",
+                  "category": "historical",
+                  "coords": [
+                        36.116746,
+                        34.820673
+                  ]
+            },
+            {
+                  "name": "Beyt rabee",
+                  "text": "A local landmark and attraction in Safita.",
+                  "category": "landmark",
+                  "coords": [
+                        36.119256,
+                        34.82099
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-TA",
     coords: [36.1203, 34.8194],
@@ -705,7 +3225,52 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "ras-al-ayn-cities-v2",
+    id: "ras-al-ayn-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "تل الفخيرية",
+                  "text": "Tell Fekheriye ist eine archäologische Stätte in Ras al-Ain. Es ist ein bemerkenswerter antiker Tell-Standort in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        40.070982,
+                        36.842592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "تل الفخيرية",
+                  "text": "A Tell Fekheriye egy régészeti lelőhely Ras al-Ain városában. Ez egy figyelemre méltó ókori tell a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        40.070982,
+                        36.842592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "تل الفخيرية",
+                  "text": "Tell Fekheriye este un sit arheologic situat în Ras al-Ain. Este un tell antic notabil din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        40.070982,
+                        36.842592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tell Fekheriye",
+                  "text": "Tell Fekheriye is an archaeological site located in Ras al-Ain. It is a notable ancient tell site in the region.",
+                  "category": "historical",
+                  "coords": [
+                        40.070982,
+                        36.842592
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-HA",
     coords: [40.0753, 36.8483],
@@ -761,7 +3326,52 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "al-thawrah-cities-v2",
+    id: "al-thawrah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jabal `A'id",
+                  "text": "Ein markanter Berggipfel in der Nähe von At-Taura.",
+                  "category": "natural",
+                  "coords": [
+                        38.516667,
+                        35.816667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "جبل عائد",
+                  "text": "Jellegzetes hegycsúcs At-Taura közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.516667,
+                        35.816667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "جبل عائد",
+                  "text": "Un vârf montan proeminent situat în apropiere de At-Taura.",
+                  "category": "natural",
+                  "coords": [
+                        38.516667,
+                        35.816667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jabal `A'id",
+                  "text": "A prominent mountain peak located near At-Taura.",
+                  "category": "natural",
+                  "coords": [
+                        38.516667,
+                        35.816667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-RA",
     coords: [38.5392, 35.8361],
@@ -817,7 +3427,196 @@ export const poiExtraSyriaCitiesV2: POI[] = [
     },
   },
   {
-    id: "quneitra-cities-v2",
+    id: "quneitra-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ronen Aussicht",
+                  "text": "Ein Aussichtspunkt in Quneitra mit Blick auf die zerstörte Stadt und Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        35.80079,
+                        33.108542
+                  ]
+            },
+            {
+                  "name": "מפקדת המודיעין הסורית",
+                  "text": "Die Ruinen eines ehemaligen Geheimdiensthauptquartiers in der Geisterstadt Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.810283,
+                        33.1321
+                  ]
+            },
+            {
+                  "name": "ח'רבת אל-מח'פי",
+                  "text": "Archäologische Ruinen einer antiken Siedlung in der Nähe von Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.812308,
+                        33.148329
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Überreste eines militärischen Bunkers in der Konfliktregion von Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.826607,
+                        33.14933
+                  ]
+            },
+            {
+                  "name": "القنيطرة",
+                  "text": "Eine weitgehend zerstörte Stadt auf den Golan-Höhen, die heute als Mahnmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        35.827382,
+                        33.12506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "תצפית קונייטרה",
+                  "text": "Kilátópont Kuneitrában, ahonnan rálátás nyílik a lerombolt városra és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        35.80079,
+                        33.108542
+                  ]
+            },
+            {
+                  "name": "מפקדת המודיעין הסורית",
+                  "text": "Egy egykori hírszerzési központ romjai Kuneitra szellemvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        35.810283,
+                        33.1321
+                  ]
+            },
+            {
+                  "name": "ח'רבת אל-מח'פי",
+                  "text": "Egy ősi település régészeti romjai Kuneitra közelében.",
+                  "category": "historical",
+                  "coords": [
+                        35.812308,
+                        33.148329
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Katonai bunker maradványai Kuneitra konfliktus sújtotta régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        35.826607,
+                        33.14933
+                  ]
+            },
+            {
+                  "name": "القنيطرة",
+                  "text": "Egy nagyrészt lerombolt város a Golán-fennsíkon, amely ma emlékhelyként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        35.827382,
+                        33.12506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "תצפית קונייטרה",
+                  "text": "Un punct de observare în Quneitra cu vedere spre orașul distrus și împrejurimi.",
+                  "category": "natural",
+                  "coords": [
+                        35.80079,
+                        33.108542
+                  ]
+            },
+            {
+                  "name": "מפקדת המודיעין הסורית",
+                  "text": "Ruinele unui fost sediu al serviciilor de informații din orașul-fantomă Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.810283,
+                        33.1321
+                  ]
+            },
+            {
+                  "name": "ח'רבת אל-מח'פי",
+                  "text": "Ruinele arheologice ale unei așezări antice din apropiere de Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.812308,
+                        33.148329
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Rămășițele unui buncăr militar în regiunea de conflict Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.826607,
+                        33.14933
+                  ]
+            },
+            {
+                  "name": "القنيطرة",
+                  "text": "Un oraș distrus în mare parte în Înălțimile Golan, care servește astăzi drept memorial.",
+                  "category": "historical",
+                  "coords": [
+                        35.827382,
+                        33.12506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quneitra Ronen",
+                  "text": "A viewpoint in Quneitra overlooking the destroyed city and surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        35.80079,
+                        33.108542
+                  ]
+            },
+            {
+                  "name": "Syrian Intelligence HQ",
+                  "text": "The ruins of a former intelligence headquarters in the ghost town of Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.810283,
+                        33.1321
+                  ]
+            },
+            {
+                  "name": "Khirbat el Makhfi",
+                  "text": "Archaeological ruins of an ancient settlement located near Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.812308,
+                        33.148329
+                  ]
+            },
+            {
+                  "name": "Bunker",
+                  "text": "Remains of a military bunker in the conflict region of Quneitra.",
+                  "category": "historical",
+                  "coords": [
+                        35.826607,
+                        33.14933
+                  ]
+            },
+            {
+                  "name": "Quneitra",
+                  "text": "A largely destroyed city in the Golan Heights, now serving as a memorial.",
+                  "category": "historical",
+                  "coords": [
+                        35.827382,
+                        33.12506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SY-QU",
     coords: [35.8244, 33.1256],

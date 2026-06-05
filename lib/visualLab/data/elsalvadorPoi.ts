@@ -44,7 +44,736 @@ export const elsalvadorCities: POI[] = [
     historyYear: 1525,
     historyPeriod: "Colonial", image: "/poi-images/sv-sansalvador.webp"},
   { 
-    id: "sv-santaana", 
+    id: "sv-santaana", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Nacional de Santa Ana",
+                  "text": "Das Teatro Nacional de Santa Ana ist eine große Theatereinrichtung in Santa Ana.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.556618,
+                        13.995458
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa Ana",
+                  "text": "Die Catedral de Santa Ana ist eine bedeutende neugotische Kathedrale in der Stadt Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555575,
+                        13.994955
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomia Humana UNASA",
+                  "text": "Das Museo de Anatomia Humana UNASA ist ein lehrreiches Museum in Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557864,
+                        13.992613
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Finca Rosita",
+                  "text": "Die Sitio Arqueológico de Finca Rosita ist eine erhaltene archäologische Stätte in Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560724,
+                        13.972342
+                  ]
+            },
+            {
+                  "name": "Museo de la Moneda",
+                  "text": "Das CWMuseo de la Moneda ist ein spezialisiertes Museum in der Stadt Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557342,
+                        13.993533
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Santa Ana",
+                  "text": "Die Casa de la Cultura de Santa Ana ist ein lebendiges Kulturmuseum in Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.559798,
+                        13.995584
+                  ]
+            },
+            {
+                  "name": "Museo Ajá",
+                  "text": "Das Museo Ajá ist ein faszinierender Museumsraum in Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.560168,
+                        13.998006
+                  ]
+            },
+            {
+                  "name": "Balneario Publico de Apanteos",
+                  "text": "Das Balneario Publico de Apanteos ist ein beliebter Wasserpark in Santa Ana.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.546872,
+                        14.00099
+                  ]
+            },
+            {
+                  "name": "Cruz del Tecana",
+                  "text": "Das Cruz del Tecana ist eine bekannte Touristenattraktion in Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.538316,
+                        13.99353
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Das Monumento a la Madre ist ein gewidmetes Denkmal in der Stadt Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550552,
+                        13.993308
+                  ]
+            },
+            {
+                  "name": "Monumento Nicolás Salume",
+                  "text": "Das Monumento Nicolás Salume ist ein bemerkenswertes Denkmal in Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.547308,
+                        13.985173
+                  ]
+            },
+            {
+                  "name": "El Caracol",
+                  "text": "El Caracol ist ein malerischer Aussichtspunkt, der einen Panoramablick auf Santa Ana bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -89.537559,
+                        13.97819
+                  ]
+            },
+            {
+                  "name": "Finca El Prado",
+                  "text": "Finca El Prado dient als attraktiver Aussichtspunkt in Santa Ana.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545671,
+                        13.975779
+                  ]
+            },
+            {
+                  "name": "Ferrocarril",
+                  "text": "Ferrocarril ist eine ansprechende Kunstgalerie in der Stadt Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557879,
+                        14.007827
+                  ]
+            },
+            {
+                  "name": "Soapapa Piscina",
+                  "text": "Der Soapapa Natural Pool ist eine erfrischende Naturattraktion in Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.544485,
+                        13.994264
+                  ]
+            },
+            {
+                  "name": "Casa del Expresidente Pedro José Escalón",
+                  "text": "Das Casa del Expresidente Pedro José Escalón ist ein historisches Haus und eine Attraktion in Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.554746,
+                        13.993886
+                  ]
+            },
+            {
+                  "name": "Monumento del Monseñor Óscar Arnulfo Romero",
+                  "text": "Das Monumento del Monseñor Óscar Arnulfo Romero ist ein ehrfürchtiges Denkmal in Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560632,
+                        13.976733
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Lucía",
+                  "text": "Iglesia de Santa Lucía ist eine lokale Kultstätte in Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.564842,
+                        13.994689
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Iglesia El Carmen ist eine lokale Kirche in Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.55696,
+                        13.991028
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "Iglesia de San Lorenzo ist eine Kultstätte in der Stadt Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555597,
+                        13.998453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Nacional de Santa Ana",
+                  "text": "A Teatro Nacional de Santa Ana egy jelentős színházi intézmény Santa Ana városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.556618,
+                        13.995458
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa Ana",
+                  "text": "A Catedral de Santa Ana egy jelentős neogótikus katedrális Santa Ana városában.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555575,
+                        13.994955
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomia Humana UNASA",
+                  "text": "A Museo de Anatomia Humana UNASA egy oktatási múzeum Santa Ana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557864,
+                        13.992613
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Finca Rosita",
+                  "text": "A Sitio Arqueológico de Finca Rosita egy megőrzött régészeti lelőhely Santa Ana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560724,
+                        13.972342
+                  ]
+            },
+            {
+                  "name": "Museo de la Moneda",
+                  "text": "A CWMuseo de la Moneda egy specializált múzeum Santa Ana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557342,
+                        13.993533
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Santa Ana",
+                  "text": "A Casa de la Cultura de Santa Ana egy nyüzsgő kulturális múzeum Santa Ana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -89.559798,
+                        13.995584
+                  ]
+            },
+            {
+                  "name": "Museo Ajá",
+                  "text": "A Museo Ajá egy érdekfeszítő múzeumi tér Santa Ana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -89.560168,
+                        13.998006
+                  ]
+            },
+            {
+                  "name": "Balneario Publico de Apanteos",
+                  "text": "A Balneario Publico de Apanteos egy népszerű vízi park Santa Ana városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.546872,
+                        14.00099
+                  ]
+            },
+            {
+                  "name": "Cruz del Tecana",
+                  "text": "A Cruz del Tecana egy felismerhető turisztikai látványosság Santa Ana városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.538316,
+                        13.99353
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "A Monumento a la Madre egy dedikált emlékmű Santa Ana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550552,
+                        13.993308
+                  ]
+            },
+            {
+                  "name": "Monumento Nicolás Salume",
+                  "text": "A Monumento Nicolás Salume egy nevezetes emlékmű Santa Ana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.547308,
+                        13.985173
+                  ]
+            },
+            {
+                  "name": "El Caracol",
+                  "text": "Az El Caracol egy festői kilátó, amely panorámás kilátást nyújt Santa Ana városában.",
+                  "category": "natural",
+                  "coords": [
+                        -89.537559,
+                        13.97819
+                  ]
+            },
+            {
+                  "name": "Finca El Prado",
+                  "text": "A Finca El Prado egy vonzó kilátóként szolgál Santa Ana városában.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545671,
+                        13.975779
+                  ]
+            },
+            {
+                  "name": "Ferrocarril",
+                  "text": "A Ferrocarril egy magával ragadó művészeti galéria Santa Ana városában.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557879,
+                        14.007827
+                  ]
+            },
+            {
+                  "name": "Soapapa Piscina",
+                  "text": "A Soapapa Natural Pool egy frissítő természeti látványosság Santa Ana városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.544485,
+                        13.994264
+                  ]
+            },
+            {
+                  "name": "Casa del Expresidente Pedro José Escalón",
+                  "text": "A Casa del Expresidente Pedro José Escalón egy történelmi ház és látványosság Santa Ana városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.554746,
+                        13.993886
+                  ]
+            },
+            {
+                  "name": "Monumento del Monseñor Óscar Arnulfo Romero",
+                  "text": "A Monumento del Monseñor Óscar Arnulfo Romero egy tiszteletteljes emlékmű Santa Ana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560632,
+                        13.976733
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Lucía",
+                  "text": "Az Iglesia de Santa Lucía egy helyi istentiszteleti hely Santa Ana városában.",
+                  "category": "religious",
+                  "coords": [
+                        -89.564842,
+                        13.994689
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Az Iglesia El Carmen egy helyi templom Santa Ana városában.",
+                  "category": "religious",
+                  "coords": [
+                        -89.55696,
+                        13.991028
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "Az Iglesia de San Lorenzo egy istentiszteleti hely Santa Ana városában.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555597,
+                        13.998453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Nacional de Santa Ana",
+                  "text": "Teatro Nacional de Santa Ana este o instituție de teatru majoră situată în Santa Ana.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.556618,
+                        13.995458
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa Ana",
+                  "text": "Catedral de Santa Ana este o catedrală neogotică semnificativă situată în orașul Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555575,
+                        13.994955
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomia Humana UNASA",
+                  "text": "Museo de Anatomia Humana UNASA este un muzeu educațional cu sediul în Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557864,
+                        13.992613
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Finca Rosita",
+                  "text": "Sitio Arqueológico de Finca Rosita este un sit arheologic conservat situat în Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560724,
+                        13.972342
+                  ]
+            },
+            {
+                  "name": "Museo de la Moneda",
+                  "text": "CWMuseo de la Moneda este un muzeu specializat aflat în orașul Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557342,
+                        13.993533
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Santa Ana",
+                  "text": "Casa de la Cultura de Santa Ana este un muzeu cultural vibrant situat în Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.559798,
+                        13.995584
+                  ]
+            },
+            {
+                  "name": "Museo Ajá",
+                  "text": "Museo Ajá este un spațiu muzeal intrigant care funcționează în Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.560168,
+                        13.998006
+                  ]
+            },
+            {
+                  "name": "Balneario Publico de Apanteos",
+                  "text": "Balneario Publico de Apanteos este un parc acvatic popular situat în Santa Ana.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.546872,
+                        14.00099
+                  ]
+            },
+            {
+                  "name": "Cruz del Tecana",
+                  "text": "Cruz del Tecana este o atracție turistică recunoscută situată în Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.538316,
+                        13.99353
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre este un monument dedicat situat în orașul Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550552,
+                        13.993308
+                  ]
+            },
+            {
+                  "name": "Monumento Nicolás Salume",
+                  "text": "Monumento Nicolás Salume este un monument notabil aflat în Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.547308,
+                        13.985173
+                  ]
+            },
+            {
+                  "name": "El Caracol",
+                  "text": "El Caracol este un punct de belvedere pitoresc care oferă vederi panoramice în Santa Ana.",
+                  "category": "natural",
+                  "coords": [
+                        -89.537559,
+                        13.97819
+                  ]
+            },
+            {
+                  "name": "Finca El Prado",
+                  "text": "Finca El Prado servește ca un punct de belvedere atractiv situat în Santa Ana.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545671,
+                        13.975779
+                  ]
+            },
+            {
+                  "name": "Ferrocarril",
+                  "text": "Ferrocarril este o galerie de artă captivantă care funcționează în orașul Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557879,
+                        14.007827
+                  ]
+            },
+            {
+                  "name": "Soapapa Piscina",
+                  "text": "Soapapa Natural Pool este o atracție naturală răcoritoare situată în Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.544485,
+                        13.994264
+                  ]
+            },
+            {
+                  "name": "Casa del Expresidente Pedro José Escalón",
+                  "text": "Casa del Expresidente Pedro José Escalón este o casă istorică și o atracție în Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.554746,
+                        13.993886
+                  ]
+            },
+            {
+                  "name": "Monumento del Monseñor Óscar Arnulfo Romero",
+                  "text": "Monumento del Monseñor Óscar Arnulfo Romero este un monument plin de reverență situat în Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560632,
+                        13.976733
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Lucía",
+                  "text": "Iglesia de Santa Lucía este un lăcaș de cult situat în Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.564842,
+                        13.994689
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Iglesia El Carmen este o biserică locală situată în Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.55696,
+                        13.991028
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "Iglesia de San Lorenzo este un lăcaș de cult situat în orașul Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555597,
+                        13.998453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Nacional de Santa Ana",
+                  "text": "Teatro Nacional de Santa Ana is a major theatre institution located in Santa Ana.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.556618,
+                        13.995458
+                  ]
+            },
+            {
+                  "name": "Catedral de Santa Ana",
+                  "text": "Catedral de Santa Ana is a significant neo-Gothic cathedral situated in the city of Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555575,
+                        13.994955
+                  ]
+            },
+            {
+                  "name": "Museo de Anatomia Humana UNASA",
+                  "text": "Museo de Anatomia Humana UNASA is an educational museum based in Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557864,
+                        13.992613
+                  ]
+            },
+            {
+                  "name": "Sitio Arqueológico de Finca Rosita",
+                  "text": "Sitio Arqueológico de Finca Rosita is a preserved archaeological site located in Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560724,
+                        13.972342
+                  ]
+            },
+            {
+                  "name": "CWMuseo de la Moneda",
+                  "text": "CWMuseo de la Moneda is a specialized museum found in the city of Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557342,
+                        13.993533
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Santa Ana",
+                  "text": "Casa de la Cultura de Santa Ana is a vibrant cultural museum situated in Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.559798,
+                        13.995584
+                  ]
+            },
+            {
+                  "name": "Museo Ajá",
+                  "text": "Museo Ajá is an intriguing museum space operating in Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.560168,
+                        13.998006
+                  ]
+            },
+            {
+                  "name": "Balneario Publico de Apanteos",
+                  "text": "Balneario Publico de Apanteos is a popular water park situated in Santa Ana.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.546872,
+                        14.00099
+                  ]
+            },
+            {
+                  "name": "Cruz del Tecana",
+                  "text": "Cruz del Tecana is a recognizable tourist attraction situated in Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.538316,
+                        13.99353
+                  ]
+            },
+            {
+                  "name": "Monumento a la Madre",
+                  "text": "Monumento a la Madre is a dedicated monument located in the city of Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.550552,
+                        13.993308
+                  ]
+            },
+            {
+                  "name": "Monumento Nicolás Salume",
+                  "text": "Monumento Nicolás Salume is a notable monument found in Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.547308,
+                        13.985173
+                  ]
+            },
+            {
+                  "name": "El Caracol",
+                  "text": "El Caracol is a scenic viewpoint offering panoramic views in Santa Ana.",
+                  "category": "natural",
+                  "coords": [
+                        -89.537559,
+                        13.97819
+                  ]
+            },
+            {
+                  "name": "Finca El Prado",
+                  "text": "Finca El Prado serves as an attractive viewpoint located in Santa Ana.",
+                  "category": "natural",
+                  "coords": [
+                        -89.545671,
+                        13.975779
+                  ]
+            },
+            {
+                  "name": "Ferrocarril",
+                  "text": "Ferrocarril is an engaging art gallery operating in the city of Santa Ana.",
+                  "category": "museum",
+                  "coords": [
+                        -89.557879,
+                        14.007827
+                  ]
+            },
+            {
+                  "name": "Soapapa Natural Pool",
+                  "text": "Soapapa Natural Pool is a refreshing natural attraction situated in Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.544485,
+                        13.994264
+                  ]
+            },
+            {
+                  "name": "Casa del Expresidente Pedro José Escalón",
+                  "text": "Casa del Expresidente Pedro José Escalón is a historical house and attraction in Santa Ana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.554746,
+                        13.993886
+                  ]
+            },
+            {
+                  "name": "Monumento del Monseñor Óscar Arnulfo Romero",
+                  "text": "Monumento del Monseñor Óscar Arnulfo Romero is a reverent monument located in Santa Ana.",
+                  "category": "historical",
+                  "coords": [
+                        -89.560632,
+                        13.976733
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Lucía",
+                  "text": "Iglesia de Santa Lucía is a local place of worship situated in Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.564842,
+                        13.994689
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Iglesia El Carmen is a local church located in Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.55696,
+                        13.991028
+                  ]
+            },
+            {
+                  "name": "Iglesia de San Lorenzo",
+                  "text": "Iglesia de San Lorenzo is a place of worship located in the city of Santa Ana.",
+                  "category": "religious",
+                  "coords": [
+                        -89.555597,
+                        13.998453
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "SV", 
     coords: [-89.5597, 13.9942], 
@@ -80,7 +809,196 @@ export const elsalvadorCities: POI[] = [
     historyYear: 1569,
     historyPeriod: "Colonial", image: "/poi-images/sv-santaana.webp"},
   { 
-    id: "sv-sanmiguel", 
+    id: "sv-sanmiguel", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Nacional Francisco Gavidia‎",
+                  "text": "Ein historisches Nationaltheater in San Miguel.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.174066,
+                        13.4823
+                  ]
+            },
+            {
+                  "name": "East Regional Museum",
+                  "text": "Ein Museum für Geschichte und Kultur des östlichen El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -88.170966,
+                        13.473951
+                  ]
+            },
+            {
+                  "name": "Reserva Natural, Alcaldía Municipal de San Miguel",
+                  "text": "Ein geschütztes Naturgebiet in San Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -88.170023,
+                        13.460931
+                  ]
+            },
+            {
+                  "name": "Altos de la Cueva",
+                  "text": "Ein Erholungsgebiet in San Miguel.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.176581,
+                        13.500095
+                  ]
+            },
+            {
+                  "name": "Iglesia El Calvario",
+                  "text": "Eine bedeutende Kirche in San Miguel.",
+                  "category": "religious",
+                  "coords": [
+                        -88.174683,
+                        13.477916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Nacional Francisco Gavidia‎",
+                  "text": "Történelmi nemzeti színház San Miguelben.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.174066,
+                        13.4823
+                  ]
+            },
+            {
+                  "name": "East Regional Museum",
+                  "text": "Salvador keleti részének történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -88.170966,
+                        13.473951
+                  ]
+            },
+            {
+                  "name": "Reserva Natural, Alcaldía Municipal de San Miguel",
+                  "text": "Védett természeti terület San Miguelben.",
+                  "category": "natural",
+                  "coords": [
+                        -88.170023,
+                        13.460931
+                  ]
+            },
+            {
+                  "name": "Altos de la Cueva",
+                  "text": "Üdülőhely San Miguelben.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.176581,
+                        13.500095
+                  ]
+            },
+            {
+                  "name": "Iglesia El Calvario",
+                  "text": "Jelentős templom San Miguelben.",
+                  "category": "religious",
+                  "coords": [
+                        -88.174683,
+                        13.477916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Nacional Francisco Gavidia‎",
+                  "text": "Un teatru național istoric în San Miguel.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.174066,
+                        13.4823
+                  ]
+            },
+            {
+                  "name": "East Regional Museum",
+                  "text": "Un muzeu dedicat istoriei și culturii din estul El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -88.170966,
+                        13.473951
+                  ]
+            },
+            {
+                  "name": "Reserva Natural, Alcaldía Municipal de San Miguel",
+                  "text": "O zonă naturală protejată în San Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -88.170023,
+                        13.460931
+                  ]
+            },
+            {
+                  "name": "Altos de la Cueva",
+                  "text": "O stațiune de recreere în San Miguel.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.176581,
+                        13.500095
+                  ]
+            },
+            {
+                  "name": "Iglesia El Calvario",
+                  "text": "O biserică notabilă din San Miguel.",
+                  "category": "religious",
+                  "coords": [
+                        -88.174683,
+                        13.477916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Nacional Francisco Gavidia‎",
+                  "text": "A historic national theatre in San Miguel.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.174066,
+                        13.4823
+                  ]
+            },
+            {
+                  "name": "East Regional Museum",
+                  "text": "A museum dedicated to the history and culture of eastern El Salvador.",
+                  "category": "museum",
+                  "coords": [
+                        -88.170966,
+                        13.473951
+                  ]
+            },
+            {
+                  "name": "Reserva Natural, Alcaldía Municipal de San Miguel",
+                  "text": "A protected natural area in San Miguel.",
+                  "category": "natural",
+                  "coords": [
+                        -88.170023,
+                        13.460931
+                  ]
+            },
+            {
+                  "name": "Altos de la Cueva",
+                  "text": "A recreational resort area in San Miguel.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.176581,
+                        13.500095
+                  ]
+            },
+            {
+                  "name": "Iglesia El Calvario",
+                  "text": "A notable church in San Miguel.",
+                  "category": "religious",
+                  "coords": [
+                        -88.174683,
+                        13.477916
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "SV", 
     coords: [-88.1833, 13.4833], 
@@ -116,7 +1034,592 @@ export const elsalvadorCities: POI[] = [
     historyYear: 1530,
     historyPeriod: "Colonial", image: "/poi-images/sv-sanmiguel.webp"},
   { 
-    id: "sv-santatecla", 
+    id: "sv-santatecla", "sights": {
+      "de": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "Ein Museum in Santa Tecla, das im ehemaligen Wohnhaus der Schwestern Chacón untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "Ein Naturreservat in Santa Tecla, das lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "Ein Museum, das der Geschichte und Kultur von Santa Tecla gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "Ein kultureller Veranstaltungsort und Theaterraum in Santa Tecla.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Eine Freilichtbühne in Santa Tecla für Konzerte und kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Ein Theatergebäude in Santa Tecla für lokale Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "Ein nach Teacher Mendez benanntes Theater in Santa Tecla.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "Ein Amphitheater im El Cafetalón Park in Santa Tecla für öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "Ein Wasserpark in Santa Tecla mit verschiedenen Freizeit- und Schwimmbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "Ein Aussichtspunkt in Santa Tecla, der an das Erdrutschereignis von 2001 erinnert.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "Eine Gedenkstätte und Aussichtspunkt am Ort des Erdrutschs von 2001 in Santa Tecla.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Ein Denkmal zu Ehren des Malteserordens in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "Ein Denkmal für Daniel Hernández, eine bedeutende Persönlichkeit in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "Ein Monument zum 100-jährigen Bestehen der Stadtgründung von Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "Ein historisches Herrenhaus der einflussreichen Familie Guirola in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Eine bedeutende neugotische Kirche in Santa Tecla.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "Santa Tecla múzeuma, amely a Chacón nővérek egykori házában található.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "Természetvédelmi terület Santa Tecla városában, amely a helyi élővilágot óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "Santa Tecla történelmének és kultúrájának szentelt helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "Kulturális rendezvényhelyszín és színházi tér Santa Tecla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "Szabadtéri színpad Santa Tecla városában koncertek és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "Színházépület Santa Tecla városában helyi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "Teacher Mendez nevét viselő színház Santa Tecla városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "Amfiteátrum a Santa Tecla-i El Cafetalón parkban közösségi eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "Vízi park Santa Tecla városában különféle medencékkel és kikapcsolódási lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "Kilátópont Santa Tecla városában, amely a 2001-es földcsuszamlás helyszínére tekint.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "Emlékhely és kilátópont a 2001-es Santa Tecla-i földcsuszamlás helyszínén.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A Máltai Lovagrend tiszteletére emelt emlékmű Santa Tecla városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "Daniel Hernández tiszteletére emelt emlékmű Santa Tecla városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "Santa Tecla alapításának centenáriuma alkalmából emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "A befolyásos Guirola család történelmi kúriája Santa Tecla városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "Jelentős neogótikus templom Santa Tecla városában.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "Un muzeu în Santa Tecla situat în fosta reședință a surorilor Chacón.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "O rezervație naturală în Santa Tecla care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "Un muzeu dedicat istoriei și culturii orașului Santa Tecla.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "Un spațiu cultural și de teatru în Santa Tecla.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "O scenă în aer liber în Santa Tecla pentru concerte și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "O clădire de teatru în Santa Tecla destinată spectacolelor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "Un teatru în Santa Tecla care poartă numele lui Teacher Mendez.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "Un amfiteatru în parcul El Cafetalón din Santa Tecla pentru evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "Un parc acvatic în Santa Tecla cu diverse piscine și facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "Un punct de belvedere în Santa Tecla care amintește de alunecarea de teren din 2001.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "Un loc memorial și punct de belvedere la locul alunecării de teren din 2001 în Santa Tecla.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "Un monument dedicat Ordinului de Malta în Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "Un monument în cinstea lui Daniel Hernández în Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "Un monument ce marchează centenarul fondării orașului Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "Un conac istoric aparținând influentei familii Guirola din Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "O importantă biserică neogotică în Santa Tecla.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa-Museo Hermanas Chacón",
+                  "text": "A museum in Santa Tecla housed in the former residence of the Chacón sisters.",
+                  "category": "museum",
+                  "coords": [
+                        -89.300501,
+                        13.672733
+                  ]
+            },
+            {
+                  "name": "Finca San Luís",
+                  "text": "A nature reserve in Santa Tecla protecting local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -89.306718,
+                        13.674798
+                  ]
+            },
+            {
+                  "name": "Museo Tecleño",
+                  "text": "A museum dedicated to the history and culture of Santa Tecla.",
+                  "category": "museum",
+                  "coords": [
+                        -89.283734,
+                        13.673567
+                  ]
+            },
+            {
+                  "name": "Plaza de la Cultura",
+                  "text": "A cultural venue and theatre space in Santa Tecla.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.286653,
+                        13.675468
+                  ]
+            },
+            {
+                  "name": "Concha Acústica",
+                  "text": "An open-air stage in Santa Tecla for concerts and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.266044,
+                        13.683104
+                  ]
+            },
+            {
+                  "name": "Teatro",
+                  "text": "A theatre building in Santa Tecla used for local performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.263648,
+                        13.683745
+                  ]
+            },
+            {
+                  "name": "Teatro Teacher Mendez",
+                  "text": "A theatre in Santa Tecla named after Teacher Mendez.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.28725,
+                        13.679039
+                  ]
+            },
+            {
+                  "name": "Anfiteatro El Cafetalón",
+                  "text": "An amphitheatre in El Cafetalón park in Santa Tecla for public events.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.283059,
+                        13.677163
+                  ]
+            },
+            {
+                  "name": "Parque Acuático Adolfo Salume",
+                  "text": "A water park in Santa Tecla featuring various pools and recreation facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.280673,
+                        13.674743
+                  ]
+            },
+            {
+                  "name": "Acceso Desprendimiento de las Colinas 2001",
+                  "text": "A viewpoint in Santa Tecla looking over the site of the 2001 landslide.",
+                  "category": "natural",
+                  "coords": [
+                        -89.29324,
+                        13.654955
+                  ]
+            },
+            {
+                  "name": "Deslave de las Colinas 2001",
+                  "text": "A memorial site and viewpoint at the location of the 2001 landslide in Santa Tecla.",
+                  "category": "natural",
+                  "coords": [
+                        -89.28695,
+                        13.665837
+                  ]
+            },
+            {
+                  "name": "Orden de Malta",
+                  "text": "A monument dedicated to the Order of Malta in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.259179,
+                        13.663
+                  ]
+            },
+            {
+                  "name": "Monumento a Daniel Hernández",
+                  "text": "A monument dedicated to Daniel Hernández in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.28848,
+                        13.673424
+                  ]
+            },
+            {
+                  "name": "Monumento al Centenario de Fundación",
+                  "text": "A monument commemorating the centenary of the founding of Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.285211,
+                        13.673606
+                  ]
+            },
+            {
+                  "name": "Mansión de la Familia Guirola",
+                  "text": "A historic manor house belonging to the influential Guirola family in Santa Tecla.",
+                  "category": "historical",
+                  "coords": [
+                        -89.287601,
+                        13.664049
+                  ]
+            },
+            {
+                  "name": "Iglesia El Carmen",
+                  "text": "A significant neo-Gothic church located in Santa Tecla.",
+                  "category": "religious",
+                  "coords": [
+                        -89.288198,
+                        13.675793
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "SV", 
     coords: [-89.2833, 13.6667], 
@@ -152,7 +1655,196 @@ export const elsalvadorCities: POI[] = [
     historyYear: 1854,
     historyPeriod: "Modern", image: "/poi-images/sv-santatecla.webp"},
   { 
-    id: "sv-lalibertad", 
+    id: "sv-lalibertad", "sights": {
+      "de": [
+            {
+                  "name": "Playa Las Flores",
+                  "text": "Playa Las Flores ist ein beliebter Strandabschnitt in La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.299113,
+                        13.484698
+                  ]
+            },
+            {
+                  "name": "Sunset Amusement Park",
+                  "text": "Der Sunset Amusement Park ist ein lokaler Freizeitpark in La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.321001,
+                        13.487057
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Manglar de Ticuizapa",
+                  "text": "Área Natural Protegida Manglar de Ticuizapa ist ein geschütztes Naturschutzgebiet in La Libertad.",
+                  "category": "natural",
+                  "coords": [
+                        -89.291696,
+                        13.484141
+                  ]
+            },
+            {
+                  "name": "Centro Obrero del MTPS",
+                  "text": "Centro Obrero del MTPS ist eine lokale Attraktion in der Stadt La Libertad.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.336337,
+                        13.484466
+                  ]
+            },
+            {
+                  "name": "Club Cocal",
+                  "text": "Club Cocal ist ein Strandresort in La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.346279,
+                        13.485986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Las Flores",
+                  "text": "A Playa Las Flores egy népszerű strand La Libertad területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.299113,
+                        13.484698
+                  ]
+            },
+            {
+                  "name": "Sunset Amusement Park",
+                  "text": "A Sunset Amusement Park egy helyi vidámpark La Libertadban.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.321001,
+                        13.487057
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Manglar de Ticuizapa",
+                  "text": "Az Área Natural Protegida Manglar de Ticuizapa egy védett természetvédelmi terület La Libertadban.",
+                  "category": "natural",
+                  "coords": [
+                        -89.291696,
+                        13.484141
+                  ]
+            },
+            {
+                  "name": "Centro Obrero del MTPS",
+                  "text": "A Centro Obrero del MTPS egy helyi látványosság La Libertad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.336337,
+                        13.484466
+                  ]
+            },
+            {
+                  "name": "Club Cocal",
+                  "text": "A Club Cocal egy tengerparti üdülőhely La Libertadban.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.346279,
+                        13.485986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Las Flores",
+                  "text": "Playa Las Flores este o zonă de plajă situată în La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.299113,
+                        13.484698
+                  ]
+            },
+            {
+                  "name": "Sunset Amusement Park",
+                  "text": "Sunset Amusement Park este un parc tematic local din La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.321001,
+                        13.487057
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Manglar de Ticuizapa",
+                  "text": "Área Natural Protegida Manglar de Ticuizapa este o rezervație naturală protejată din La Libertad.",
+                  "category": "natural",
+                  "coords": [
+                        -89.291696,
+                        13.484141
+                  ]
+            },
+            {
+                  "name": "Centro Obrero del MTPS",
+                  "text": "Centro Obrero del MTPS este o atracție locală aflată în orașul La Libertad.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.336337,
+                        13.484466
+                  ]
+            },
+            {
+                  "name": "Club Cocal",
+                  "text": "Club Cocal este o stațiune balneară situată în La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.346279,
+                        13.485986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Las Flores",
+                  "text": "Playa Las Flores is a popular beach area located in La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.299113,
+                        13.484698
+                  ]
+            },
+            {
+                  "name": "Sunset Amusement Park",
+                  "text": "Sunset Amusement Park is a local theme park providing entertainment in La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.321001,
+                        13.487057
+                  ]
+            },
+            {
+                  "name": "Área Natural Protegida Manglar de Ticuizapa",
+                  "text": "Área Natural Protegida Manglar de Ticuizapa is a protected nature reserve located in La Libertad.",
+                  "category": "natural",
+                  "coords": [
+                        -89.291696,
+                        13.484141
+                  ]
+            },
+            {
+                  "name": "Centro Obrero del MTPS",
+                  "text": "Centro Obrero del MTPS is a local attraction found in the city of La Libertad.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.336337,
+                        13.484466
+                  ]
+            },
+            {
+                  "name": "Club Cocal",
+                  "text": "Club Cocal is a beach resort destination located in La Libertad.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.346279,
+                        13.485986
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "SV", 
     coords: [-89.3228, 13.4883], 

@@ -751,6 +751,114 @@ export const finlandHistoryV2: POI[] = [
                         23.470894,
                         59.970751
                   ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "Ein lokales Museum in der Altstadt von Tammisaari.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "Ein Museum in Tammisaari, das der Geschichte der Druckkunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "Ein ausgewiesenes Vogelschutzgebiet in der Region Tammisaari.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Ein kleiner Strandabschnitt in der Altstadt von Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Ein spezieller Strandabschnitt in Tammisaari, an dem Hunde schwimmen dürfen.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs campings badstrand",
+                  "text": "Der Badestrand beim Campingplatz Ormnäs in Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "Ein Kunstmuseum in Tammisaari, das zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "Eine Kunstgalerie in Tammisaari, die lokale und regionale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über Tammisaari und die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "Die historische lutherische Kirche von Ekenäs im Zentrum der Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "Die methodistische Kirche der schwedischsprachigen Gemeinde in Tammisaari.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "Eine Beobachtungshütte zur Vogelbeobachtung am Stadsfjärden in Tammisaari.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
+                  ]
             }
       ],
       "hu": [
@@ -761,6 +869,114 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.470894,
                         59.970751
+                  ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "Helyi múzeum Tammisaari óvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "A nyomdászat történetét bemutató múzeum Tammisaari városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "Kijelölt madárvédelmi terület Tammisaari régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "Egy kisebb partszakasz Tammisaari óvárosi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "Speciális kutyastrand Tammisaari városában, ahol az állatok is fürödhetnek.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs campings badstrand",
+                  "text": "Fürdőhely az Ormnäs kemping területén, Tammisaari városában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "Kortárs művészeti múzeum Tammisaari városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "Művészeti galéria Tammisaariban, amely helyi alkotók műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Tammisaarira és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "Ekenäs történelmi evangélikus temploma az óváros központjában.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "A svéd nyelvű metodista közösség temploma Tammisaari városában.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "Madármegfigyelő kunyhó a Tammisaari melletti Stadsfjärden öbölben.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
                   ]
             }
       ],
@@ -773,6 +989,114 @@ export const finlandHistoryV2: POI[] = [
                         23.470894,
                         59.970751
                   ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "Un muzeu local situat în orașul vechi din Tammisaari.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "Un muzeu din Tammisaari dedicat istoriei tiparului.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "O zonă desemnată pentru protecția păsărilor în regiunea Tammisaari.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "O mică secțiune de plajă în orașul vechi din Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Badstrand för hundar",
+                  "text": "O secțiune specială de plajă în Tammisaari unde câinii au voie să înoate.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs campings badstrand",
+                  "text": "Plaja de înot de la campingul Ormnäs din Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "Un muzeu de artă din Tammisaari care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "O galerie de artă din Tammisaari care expune lucrări locale și regionale.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra orașului Tammisaari.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "Biserica istorică luterană din Ekenäs, situată în centrul orașului vechi.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "Biserica metodistă a comunității de limbă suedeză din Tammisaari.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "Un observator pentru păsări situat la Stadsfjärden în Tammisaari.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
+                  ]
             }
       ],
       "en": [
@@ -783,6 +1107,114 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.470894,
                         59.970751
+                  ]
+            },
+            {
+                  "name": "Smögen",
+                  "text": "A local museum located in the old town of Tammisaari.",
+                  "category": "museum",
+                  "coords": [
+                        23.438051,
+                        59.977392
+                  ]
+            },
+            {
+                  "name": "Tryckerimuséet",
+                  "text": "A museum in Tammisaari dedicated to the history of the printing industry.",
+                  "category": "museum",
+                  "coords": [
+                        23.463345,
+                        59.982385
+                  ]
+            },
+            {
+                  "name": "Fågelskyddsomr.",
+                  "text": "A designated bird protection area in the Tammisaari region.",
+                  "category": "natural",
+                  "coords": [
+                        23.409678,
+                        59.981439
+                  ]
+            },
+            {
+                  "name": "Hvassbukstorget",
+                  "text": "A small beach area located in the old town of Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.430287,
+                        59.97149
+                  ]
+            },
+            {
+                  "name": "Swimming beach for dogs",
+                  "text": "A dedicated beach section in Tammisaari where dogs are allowed to swim.",
+                  "category": "recreational",
+                  "coords": [
+                        23.429468,
+                        59.974241
+                  ]
+            },
+            {
+                  "name": "Ormnäs camping's swimming beach",
+                  "text": "The swimming beach at the Ormnäs camping site in Tammisaari.",
+                  "category": "recreational",
+                  "coords": [
+                        23.446669,
+                        59.965232
+                  ]
+            },
+            {
+                  "name": "Chappe",
+                  "text": "An art museum in Tammisaari showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        23.43761,
+                        59.973953
+                  ]
+            },
+            {
+                  "name": "Galleria W. Werner",
+                  "text": "An art gallery in Tammisaari exhibiting local and regional works.",
+                  "category": "museum",
+                  "coords": [
+                        23.437581,
+                        59.975813
+                  ]
+            },
+            {
+                  "name": "Brunnsberget",
+                  "text": "A viewpoint offering wide vistas over Tammisaari and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        23.433252,
+                        59.967426
+                  ]
+            },
+            {
+                  "name": "Ekenäs kyrka",
+                  "text": "The historical Lutheran church of Ekenäs, located in the heart of the old town.",
+                  "category": "religious",
+                  "coords": [
+                        23.433631,
+                        59.973844
+                  ]
+            },
+            {
+                  "name": "Ekenäs svenska metodistförsamling",
+                  "text": "The Methodist church of the Swedish-speaking congregation in Tammisaari.",
+                  "category": "religious",
+                  "coords": [
+                        23.436845,
+                        59.977249
+                  ]
+            },
+            {
+                  "name": "Stadsfjärden",
+                  "text": "A bird hide for wildlife observation at Stadsfjärden in Tammisaari.",
+                  "category": "landmark",
+                  "coords": [
+                        23.409121,
+                        59.980135
                   ]
             }
       ]
@@ -1732,6 +2164,141 @@ export const finlandHistoryV2: POI[] = [
                         23.110867,
                         63.854784
                   ]
+            },
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "Das Stadttheater von Kokkola, das eine Vielzahl von dramatischen Aufführungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "Ein historisches Gebäude in Kokkola, das für kulturelle Veranstaltungen und Theateraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlundin museo",
+                  "text": "Ein Provinzmuseum in Kokkola mit Schwerpunkt auf Kunst und Kulturgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "Ein Heimatmuseum in Kokkola, das die ländliche Geschichte und das traditionelle Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "Ein Museum in Kokkola, das der Geschichte der Brandbekämpfung und der Feuerwehrausrüstung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "Das naturkundliche Museum von Kokkola mit umfangreichen Sammlungen von Mineralien und Fossilien.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "Ein öffentliches Denkmal in Kokkola, das den lokalen künstlerischen Ausdruck repräsentiert.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "Ein historisches Herrenhaus in Kokkola, das früher als Wohnsitz des Kronsvogts diente.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "Ein gut erhaltenes historisches Herrenhaus in der Altstadt von Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "Eine Pfingstkirche in Kokkola, die Gottesdienste für die örtliche Gemeinde anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "Ein Gebäude der Baptistengemeinde in Kokkola, das der religiösen Anbetung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "Ein Gebäude der Methodistenkirche, das Dienste für die Gemeinde in Kokkola anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "Ein Gebetshaus in Kokkola, das für religiöse Versammlungen und Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "Ein religiöses Versammlungshaus in Kokkola, das zur konservativen laestadianischen Bewegung gehört.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "Englantilainen barkassi",
+                  "text": "Ein erbeutetes britisches Langboot aus dem Krimkrieg, das als historisches Exponat in Kokkola aufbewahrt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
+                  ]
             }
       ],
       "hu": [
@@ -1751,6 +2318,141 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.110867,
                         63.854784
+                  ]
+            },
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "Kokkola városi színháza, amely különféle drámai előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "Történelmi épület Kokkolában, amelyet kulturális eseményekre és színházi előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlundin museo",
+                  "text": "Kokkolai tartományi múzeum, amely a művészetre és a kultúrtörténetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "Helyi örökségvédelmi múzeum Kokkolában, amely a vidéki történelmet és a hagyományos életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "Kokkolai múzeum, amely a tűzoltás történetének és a tűzoltó felszereléseknek szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "Kokkola természettudományi múzeuma, amely kiterjedt ásvány- és kövületgyűjteményekkel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "Nyilvános emlékmű Kokkolában, amely a helyi művészi kifejezésmódot képviseli.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "Történelmi kúria Kokkolában, amely korábban a korona végrehajtójának lakhelyeként szolgált.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "Jó állapotban megőrzött történelmi kúria Kokkola óvárosában.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "Pünkösdi templom Kokkolában, amely istentiszteleteket kínál a helyi gyülekezet számára.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "Baptista templomépület Kokkolában, amelyet a vallási imádatnak szentelték.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "Metodista templomépület, amely szolgáltatásokat nyújt a kokkolai közösségnek.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "Ima ház Kokkolában, amelyet vallási összejövetelekre és istentiszteletekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "Vallási gyülekezeti ház Kokkolában, amely a konzervatív laestadiánus mozgalomhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "Englantilainen barkassi",
+                  "text": "A krími háborúból zsákmányolt brit bárka, amelyet történelmi kiállításként őriznek Kokkolában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
                   ]
             }
       ],
@@ -1772,6 +2474,141 @@ export const finlandHistoryV2: POI[] = [
                         23.110867,
                         63.854784
                   ]
+            },
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "Teatrul orășenesc din Kokkola, care oferă o varietate de spectacole dramatice.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "O clădire istorică din Kokkola utilizată pentru evenimente culturale și spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlundin museo",
+                  "text": "Un muzeu provincial din Kokkola, axat pe artă și istorie culturală.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "Un muzeu al patrimoniului local din Kokkola care prezintă istoria rurală și viața tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "Un muzeu din Kokkola dedicat istoriei luptei împotriva incendiilor și echipamentelor de pompieri.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "Muzeul de istorie naturală din Kokkola, care prezintă colecții extinse de minerale și fosile.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "Un monument public din Kokkola care reprezintă expresia artistică locală.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "Un conac istoric din Kokkola, folosit anterior ca reședință a executorului coroanei.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "Un conac istoric bine conservat în zona orașului vechi din Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "O biserică penticostală din Kokkola care oferă servicii pentru congregația locală.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "O clădire a bisericii baptiste din Kokkola dedicată cultului religios.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "O clădire a bisericii metodiste care oferă servicii comunității din Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "O casă de rugăciune din Kokkola folosită pentru adunări și servicii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "O casă de adunări religioase din Kokkola care aparține mișcării laestadiene conservatoare.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "Englantilainen barkassi",
+                  "text": "O barcă lungă britanică capturată din Războiul Crimeii, păstrată ca exponat istoric în Kokkola.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
+                  ]
             }
       ],
       "en": [
@@ -1791,6 +2628,141 @@ export const finlandHistoryV2: POI[] = [
                   "coords": [
                         23.110867,
                         63.854784
+                  ]
+            },
+            {
+                  "name": "Kokkolan Kaupunginteatteri",
+                  "text": "The city theatre of Kokkola, offering a variety of dramatic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.119714,
+                        63.837969
+                  ]
+            },
+            {
+                  "name": "Kokkolan raatihuone",
+                  "text": "A historic building in Kokkola used for cultural events and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        23.131058,
+                        63.838658
+                  ]
+            },
+            {
+                  "name": "K. H. Renlund museum",
+                  "text": "A provincial museum in Kokkola focusing on art and cultural history.",
+                  "category": "museum",
+                  "coords": [
+                        23.129974,
+                        63.837232
+                  ]
+            },
+            {
+                  "name": "Kaarlelan kotiseutumuseo",
+                  "text": "A local heritage museum in Kokkola showcasing rural history and traditional life.",
+                  "category": "museum",
+                  "coords": [
+                        23.132537,
+                        63.826549
+                  ]
+            },
+            {
+                  "name": "Palomuseo",
+                  "text": "A museum in Kokkola dedicated to the history of firefighting and fire equipment.",
+                  "category": "museum",
+                  "coords": [
+                        23.162966,
+                        63.820683
+                  ]
+            },
+            {
+                  "name": "Luonnontieteellinen museo Kieppi",
+                  "text": "The natural history museum of Kokkola, featuring extensive collections of minerals and fossils.",
+                  "category": "museum",
+                  "coords": [
+                        23.128828,
+                        63.837511
+                  ]
+            },
+            {
+                  "name": "Elämän pursi",
+                  "text": "A public monument in Kokkola representing local artistic expression.",
+                  "category": "historical",
+                  "coords": [
+                        23.130149,
+                        63.827125
+                  ]
+            },
+            {
+                  "name": "Kruununvoudintalo",
+                  "text": "A historic manor house in Kokkola formerly used as the crown bailiff's residence.",
+                  "category": "historical",
+                  "coords": [
+                        23.135758,
+                        63.843341
+                  ]
+            },
+            {
+                  "name": "Rahmin talo",
+                  "text": "A well-preserved historic manor house in the old town area of Kokkola.",
+                  "category": "historical",
+                  "coords": [
+                        23.130235,
+                        63.840774
+                  ]
+            },
+            {
+                  "name": "Kokkolan helluntaiseurakunta",
+                  "text": "A Pentecostal church in Kokkola offering services for the local congregation.",
+                  "category": "religious",
+                  "coords": [
+                        23.141957,
+                        63.840527
+                  ]
+            },
+            {
+                  "name": "Kokkolan Baptistiseurakunta",
+                  "text": "A Baptist church building in Kokkola dedicated to religious worship.",
+                  "category": "religious",
+                  "coords": [
+                        23.117325,
+                        63.836612
+                  ]
+            },
+            {
+                  "name": "Gamlakarleby Metodistförsamling",
+                  "text": "A Methodist church building providing services to the community in Kokkola.",
+                  "category": "religious",
+                  "coords": [
+                        23.126731,
+                        63.837062
+                  ]
+            },
+            {
+                  "name": "Närvilän rukoushuone",
+                  "text": "A house of prayer in Kokkola used for religious gatherings and services.",
+                  "category": "religious",
+                  "coords": [
+                        23.157093,
+                        63.833762
+                  ]
+            },
+            {
+                  "name": "Kokkolan seudun rauhanyhdistys",
+                  "text": "A religious meeting house in Kokkola belonging to the Conservative Laestadian movement.",
+                  "category": "religious",
+                  "coords": [
+                        23.112503,
+                        63.826251
+                  ]
+            },
+            {
+                  "name": "English longboat",
+                  "text": "A captured British longboat from the Crimean War, preserved as a historical exhibit in Kokkola.",
+                  "category": "landmark",
+                  "coords": [
+                        23.129786,
+                        63.842911
                   ]
             }
       ]

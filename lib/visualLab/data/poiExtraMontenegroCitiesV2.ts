@@ -13,6 +13,15 @@ export const montenegroCitiesV2: POI[] = [
                         19.160999,
                         42.535907
                   ]
+            },
+            {
+                  "name": "Spuž",
+                  "text": "Ruinen einer mittelalterlichen Festung auf einem Hügel über der Stadt Spuž.",
+                  "category": "castle",
+                  "coords": [
+                        19.198286,
+                        42.513761
+                  ]
             }
       ],
       "hu": [
@@ -23,6 +32,15 @@ export const montenegroCitiesV2: POI[] = [
                   "coords": [
                         19.160999,
                         42.535907
+                  ]
+            },
+            {
+                  "name": "Spuž",
+                  "text": "Középkori erőd romjai egy dombon, Spuž városa felett.",
+                  "category": "castle",
+                  "coords": [
+                        19.198286,
+                        42.513761
                   ]
             }
       ],
@@ -35,6 +53,15 @@ export const montenegroCitiesV2: POI[] = [
                         19.160999,
                         42.535907
                   ]
+            },
+            {
+                  "name": "Spuž",
+                  "text": "Ruinele unei cetăți medievale situate pe un deal care domină orașul Spuž.",
+                  "category": "castle",
+                  "coords": [
+                        19.198286,
+                        42.513761
+                  ]
             }
       ],
       "en": [
@@ -45,6 +72,15 @@ export const montenegroCitiesV2: POI[] = [
                   "coords": [
                         19.160999,
                         42.535907
+                  ]
+            },
+            {
+                  "name": "Spuž",
+                  "text": "Ruins of a medieval fortress situated on a hill overlooking the town of Spuž.",
+                  "category": "castle",
+                  "coords": [
+                        19.198286,
+                        42.513761
                   ]
             }
       ]
@@ -166,6 +202,15 @@ export const montenegroCitiesV2: POI[] = [
                         19.339815,
                         42.411387
                   ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Ein Berggipfel in der Nähe von Tuzi mit Ausblick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
             }
       ],
       "hu": [
@@ -194,6 +239,15 @@ export const montenegroCitiesV2: POI[] = [
                   "coords": [
                         19.339815,
                         42.411387
+                  ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Hegycsúcs Tuzi közelében, kilátással a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
                   ]
             }
       ],
@@ -224,6 +278,15 @@ export const montenegroCitiesV2: POI[] = [
                         19.339815,
                         42.411387
                   ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Un vârf montan lângă Tuzi, cu vedere asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
             }
       ],
       "en": [
@@ -252,6 +315,15 @@ export const montenegroCitiesV2: POI[] = [
                   "coords": [
                         19.339815,
                         42.411387
+                  ]
+            },
+            {
+                  "name": "Šipčanička gora",
+                  "text": "A mountain peak near Tuzi with views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
                   ]
             }
       ]
@@ -300,7 +372,124 @@ export const montenegroCitiesV2: POI[] = [
     image: "/poi-images/montenegro-tuzi-cities-v2.webp",
   },
   {
-    id: "montenegro-petnjica-cities-v2",
+    id: "montenegro-petnjica-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dub",
+                  "text": "Eine Bergspitze in der Region Petnjica, die Ausblicke auf das umliegende Hochland bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.943262,
+                        42.885756
+                  ]
+            },
+            {
+                  "name": "Krši",
+                  "text": "Ein markanter Gipfel im Gebiet Petnjica in Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.935902,
+                        42.897153
+                  ]
+            },
+            {
+                  "name": "Tiganjski vrh",
+                  "text": "Ein malerischer Berggipfel in der Gemeinde Petnjica.",
+                  "category": "natural",
+                  "coords": [
+                        19.988418,
+                        42.891912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dub",
+                  "text": "Hegycsúcs Petnjica régiójában, ahonnan kilátás nyílik a környező felföldekre.",
+                  "category": "natural",
+                  "coords": [
+                        19.943262,
+                        42.885756
+                  ]
+            },
+            {
+                  "name": "Krši",
+                  "text": "Jelentős hegycsúcs a montenegrói Petnjica környékén.",
+                  "category": "natural",
+                  "coords": [
+                        19.935902,
+                        42.897153
+                  ]
+            },
+            {
+                  "name": "Tiganjski vrh",
+                  "text": "Festői hegycsúcs Petnjica községben.",
+                  "category": "natural",
+                  "coords": [
+                        19.988418,
+                        42.891912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dub",
+                  "text": "Un vârf montan situat în regiunea Petnjica, oferind vederi asupra zonei muntoase din jur.",
+                  "category": "natural",
+                  "coords": [
+                        19.943262,
+                        42.885756
+                  ]
+            },
+            {
+                  "name": "Krši",
+                  "text": "Un vârf notabil în zona Petnjica din Muntenegru.",
+                  "category": "natural",
+                  "coords": [
+                        19.935902,
+                        42.897153
+                  ]
+            },
+            {
+                  "name": "Tiganjski vrh",
+                  "text": "Un vârf montan pitoresc în municipiul Petnjica.",
+                  "category": "natural",
+                  "coords": [
+                        19.988418,
+                        42.891912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dub",
+                  "text": "A mountain peak located in the Petnjica region, offering views of the surrounding highlands.",
+                  "category": "natural",
+                  "coords": [
+                        19.943262,
+                        42.885756
+                  ]
+            },
+            {
+                  "name": "Krši",
+                  "text": "A notable peak in the Petnjica area of Montenegro.",
+                  "category": "natural",
+                  "coords": [
+                        19.935902,
+                        42.897153
+                  ]
+            },
+            {
+                  "name": "Tiganjski vrh",
+                  "text": "A scenic mountain peak in the municipality of Petnjica.",
+                  "category": "natural",
+                  "coords": [
+                        19.988418,
+                        42.891912
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ME",
     name: { de: "Petnjica", hu: "Petnjica", ro: "Petnjica", en: "Petnjica" },
@@ -345,7 +534,160 @@ export const montenegroCitiesV2: POI[] = [
     image: "/poi-images/montenegro-petnjica-cities-v2.webp",
   },
   {
-    id: "montenegro-gusinje-cities-v2",
+    id: "montenegro-gusinje-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "Vezirova brada ist ein Berggipfel in der Nähe von Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "Somina ist ein Berggipfel in der Region Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "Mala Jerina ist ein Gipfel in der Gebirgslandschaft von Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Али-пашини извори",
+                  "text": "Ali Pasha Springs sind berühmte Karstquellen bei Gusinje am Fuße der Prokletije.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "A Vezirova brada egy hegycsúcs Gusinje közelében.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "A Somina egy hegycsúcs Gusinje régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "A Mala Jerina egy hegycsúcs Gusinje hegyvidékén.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Али-пашини извори",
+                  "text": "Az Ali-pasa források híres karsztforrások Gusinje közelében, a Prokletije lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "Vezirova brada este un vârf montan lângă Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "Somina este un vârf montan din regiunea Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "Mala Jerina este un vârf din peisajul montan al Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Али-пашини извори",
+                  "text": "Izvoarele Ali Pasha sunt izvoare carstice faimoase lângă Gusinje, la poalele munților Prokletije.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vezirova brada",
+                  "text": "Vezirova brada is a mountain peak near Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.811485,
+                        42.53996
+                  ]
+            },
+            {
+                  "name": "Somina",
+                  "text": "Somina is a mountain peak in the Gusinje region.",
+                  "category": "natural",
+                  "coords": [
+                        19.830636,
+                        42.579989
+                  ]
+            },
+            {
+                  "name": "Mala Jerina",
+                  "text": "Mala Jerina is a peak in the mountainous landscape of Gusinje.",
+                  "category": "natural",
+                  "coords": [
+                        19.853532,
+                        42.576355
+                  ]
+            },
+            {
+                  "name": "Ali Pasha Springs",
+                  "text": "Ali Pasha Springs are famous karst springs near Gusinje at the foot of the Prokletije mountains.",
+                  "category": "landmark",
+                  "coords": [
+                        19.824756,
+                        42.549854
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ME",
     name: { de: "Gusinje", hu: "Gusinje", ro: "Gusinje", en: "Gusinje" },

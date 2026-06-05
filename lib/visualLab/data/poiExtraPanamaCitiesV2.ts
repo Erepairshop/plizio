@@ -75,7 +75,1456 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     }, image: "/poi-images/san-lorenzo-chiriqui-cities-v2.webp"
   },
   {
-    id: "balboa-panama-cities-v2",
+    id: "balboa-panama-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geschichtsmuseum Panamas",
+                  "text": "Ein Museum, das der reichen und vielfältigen Geschichte der panamaischen Nation gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534914,
+                        8.952044
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo",
+                  "text": "Panamas führendes Museum für zeitgenössische Kunst, das nationale und internationale Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.543039,
+                        8.960941
+                  ]
+            },
+            {
+                  "name": "Museo Afroantillano",
+                  "text": "Dieses Museum beleuchtet die Geschichte und die Beiträge der westindischen Gemeinschaft in Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -79.53946,
+                        8.962928
+                  ]
+            },
+            {
+                  "name": "Parque Amelia Denis de Icaza",
+                  "text": "Ein Erholungspark in Balboa mit Outdoor-Aktivitäten und Grünflächen.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54675,
+                        8.951049
+                  ]
+            },
+            {
+                  "name": "Museo de la Libertad",
+                  "text": "Ein Museum in Balboa, das sich auf Menschenrechte und die Geschichte der Freiheit in Panama konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -79.554614,
+                        8.946611
+                  ]
+            },
+            {
+                  "name": "Divercity",
+                  "text": "Dieser familienfreundliche Freizeitpark in Balboa bietet interaktive Erlebnisse für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.551957,
+                        8.977253
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura democratica",
+                  "text": "Dieses Museum in Balboa widmet sich der Geschichte und Entwicklung der demokratischen Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -79.54782,
+                        8.96659
+                  ]
+            },
+            {
+                  "name": "Fundación Museo Arias Madrid",
+                  "text": "Dieses Museum in Balboa ist dem Leben und Vermächtnis des ehemaligen Präsidenten Arnulfo Arias Madrid gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -79.556928,
+                        8.951799
+                  ]
+            },
+            {
+                  "name": "Domo de la Universidad de Panamá",
+                  "text": "Ein Veranstaltungsort an der Universität von Panama in Balboa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545071,
+                        8.980425
+                  ]
+            },
+            {
+                  "name": "Bosque Pionero de Rodman",
+                  "text": "Ein geschütztes Naturgebiet in Balboa, das die lokale Flora und Fauna präsentiert.",
+                  "category": "natural",
+                  "coords": [
+                        -79.575216,
+                        8.946838
+                  ]
+            },
+            {
+                  "name": "Theatre Guild of Ancón",
+                  "text": "Ein historisches Gemeinschaftstheater in Balboa, das für seine englischsprachigen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545902,
+                        8.965217
+                  ]
+            },
+            {
+                  "name": "Museo Mercedario",
+                  "text": "Ein religiöses Museum in Balboa, das Artefakte des Mercedarier-Ordens ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.536488,
+                        8.952846
+                  ]
+            },
+            {
+                  "name": "Museo de la Esmeralda",
+                  "text": "Ein Museum in Balboa, das der Geschichte und Ausstellung von Smaragden gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534818,
+                        8.952956
+                  ]
+            },
+            {
+                  "name": "Teatro Amador",
+                  "text": "Ein historisches Theater und Kulturzentrum im Viertel Casco Viejo von Balboa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.538002,
+                        8.953415
+                  ]
+            },
+            {
+                  "name": "Teatro Balboa",
+                  "text": "Ein bekanntes Theater in Balboa, in dem verschiedene Musik- und Theateraufführungen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.558709,
+                        8.95549
+                  ]
+            },
+            {
+                  "name": "Teatro Ancón",
+                  "text": "Ein lokales Theater, das der Gemeinschaft im Viertel Balboa dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.542921,
+                        8.953382
+                  ]
+            },
+            {
+                  "name": "Teatro Ascanio Villalaz",
+                  "text": "Ein Kulturzentrum in Balboa, das für künstlerische Darbietungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.55662,
+                        8.959567
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Dieses Museum in Balboa zeigt Exponate zur Naturgeschichte und Artenvielfalt Panamas.",
+                  "category": "museum",
+                  "coords": [
+                        -79.537591,
+                        8.96715
+                  ]
+            },
+            {
+                  "name": "Casa Museo Banco Nacional",
+                  "text": "Ein Museum in Balboa, das historische Münzen, Banknoten und finanzgeschichtliche Artefakte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.535146,
+                        8.969779
+                  ]
+            },
+            {
+                  "name": "Cerro Ancón",
+                  "text": "Der höchste Punkt in Panama-Stadt bietet einen Panoramablick auf die Stadt und den Panamakanal.",
+                  "category": "natural",
+                  "coords": [
+                        -79.549201,
+                        8.957648
+                  ]
+            },
+            {
+                  "name": "Cerro Sosa",
+                  "text": "Ein markanter Hügel in Balboa, der Ausblicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -79.560935,
+                        8.954645
+                  ]
+            },
+            {
+                  "name": "Mi Pueblito",
+                  "text": "Ein nachgebautes Dorf in Balboa, das traditionelle panamaische Architektur und Kultur zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.547962,
+                        8.953309
+                  ]
+            },
+            {
+                  "name": "Balboa Yatch club",
+                  "text": "Eine Freizeiteinrichtung in Balboa für Boots- und Schifffahrtsbegeisterte.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.554752,
+                        8.939562
+                  ]
+            },
+            {
+                  "name": "Piscina de Albrook",
+                  "text": "Eine öffentliche Schwimmanlage im Viertel Albrook von Balboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.562861,
+                        8.975252
+                  ]
+            },
+            {
+                  "name": "Mirador Puente de las Américas",
+                  "text": "Ein Aussichtspunkt in Balboa, der einen klaren Blick auf die berühmte Brücke der Amerikas bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -79.572346,
+                        8.940658
+                  ]
+            },
+            {
+                  "name": "Monumento al General Tomás Herrera",
+                  "text": "Ein Denkmal in Balboa zu Ehren von General Tomás Herrera, einem Nationalhelden Panamas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536769,
+                        8.951942
+                  ]
+            },
+            {
+                  "name": "Cielos del Pacifico",
+                  "text": "Eine Attraktion in Balboa, die für ihren Blick auf die Pazifikküste bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557447,
+                        8.968193
+                  ]
+            },
+            {
+                  "name": "Puente de las Américas",
+                  "text": "Eine bedeutende Straßenbrücke in Balboa, die den pazifischen Eingang des Panamakanals überspannt.",
+                  "category": "natural",
+                  "coords": [
+                        -79.562861,
+                        8.944178
+                  ]
+            },
+            {
+                  "name": "Panama Canal Railway Passenger Terminal",
+                  "text": "Der historische Bahnhof in Balboa für die Eisenbahn, die den Atlantik und den Pazifik verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.567141,
+                        8.976059
+                  ]
+            },
+            {
+                  "name": "Puerto de Panama",
+                  "text": "Ein bedeutender Schifffahrtsknotenpunkt in Balboa am pazifischen Eingang des Panamakanals.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.555976,
+                        8.938104
+                  ]
+            },
+            {
+                  "name": "Mirador del Faro",
+                  "text": "Ein Aussichtspunkt in Balboa mit Blick auf den Leuchtturm und die umliegende Küste.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.56606,
+                        8.940186
+                  ]
+            },
+            {
+                  "name": "Mausoleo de Omar Torrijos Herrera",
+                  "text": "Ein Denkmal in Balboa, das als letzte Ruhestätte von General Omar Torrijos Herrera dient.",
+                  "category": "historical",
+                  "coords": [
+                        -79.550215,
+                        8.937269
+                  ]
+            },
+            {
+                  "name": "Monumento a Simón Bolívar",
+                  "text": "Eine Statue in Balboa zum Gedenken an den südamerikanischen Befreier Simon Bolivar.",
+                  "category": "historical",
+                  "coords": [
+                        -79.533532,
+                        8.953289
+                  ]
+            },
+            {
+                  "name": "Monumento a Belisario Porras",
+                  "text": "Ein Denkmal in Balboa, das Belisario Porras, einem ehemaligen Präsidenten Panamas, gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536388,
+                        8.969892
+                  ]
+            },
+            {
+                  "name": "Monumento a los Martires",
+                  "text": "Ein Denkmal in Balboa zu Ehren der Opfer der Flaggenunruhen von 1964.",
+                  "category": "historical",
+                  "coords": [
+                        -79.542664,
+                        8.963217
+                  ]
+            },
+            {
+                  "name": "Mirador al Pacifico",
+                  "text": "Ein beliebter Aussichtspunkt in Balboa mit Blick auf den Pazifischen Ozean.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.549469,
+                        8.93561
+                  ]
+            },
+            {
+                  "name": "Albrook Mall",
+                  "text": "Eines der größten Einkaufszentren Lateinamerikas befindet sich in Balboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.552386,
+                        8.9729
+                  ]
+            },
+            {
+                  "name": "Goethals Memorial",
+                  "text": "Ein Denkmal in Balboa zu Ehren von George Washington Goethals, dem Chefingenieur des Panamakanals.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.55569,
+                        8.958496
+                  ]
+            },
+            {
+                  "name": "Mirador de Pacífico",
+                  "text": "Ein Aussichtspunkt in Balboa, der für seinen Blick auf den pazifischen Eingang des Panamakanals bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -79.533773,
+                        8.960405
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "Eine historische Kolonialkirche in Balboa, die für ihre kulturelle und religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -79.539318,
+                        8.953971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Historia de Panamá",
+                  "text": "A panamai nemzet gazdag és változatos történelmének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534914,
+                        8.952044
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo",
+                  "text": "Panama elsőszámú kortárs művészeti múzeuma, amely hazai és nemzetközi műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.543039,
+                        8.960941
+                  ]
+            },
+            {
+                  "name": "Museo Afroantillano",
+                  "text": "Ez a múzeum a panamai nyugat-indiai közösség történelmét és hozzájárulásait emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        -79.53946,
+                        8.962928
+                  ]
+            },
+            {
+                  "name": "Parque Amelia Denis de Icaza",
+                  "text": "Rekreációs park Balboában, amely szabadtéri tevékenységeket és zöldterületeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54675,
+                        8.951049
+                  ]
+            },
+            {
+                  "name": "Museo de la Libertad",
+                  "text": "Balboai múzeum, amely az emberi jogokra és a szabadság történelmére összpontosít Panamában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.554614,
+                        8.946611
+                  ]
+            },
+            {
+                  "name": "Divercity",
+                  "text": "Ez a balboai családbarát vidámpark interaktív élményeket kínál gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.551957,
+                        8.977253
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura democratica",
+                  "text": "Ez a balboai múzeum a demokratikus kultúra történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.54782,
+                        8.96659
+                  ]
+            },
+            {
+                  "name": "Fundación Museo Arias Madrid",
+                  "text": "Ez a balboai múzeum Arnulfo Arias Madrid egykori elnök életének és örökségének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -79.556928,
+                        8.951799
+                  ]
+            },
+            {
+                  "name": "Domo de la Universidad de Panamá",
+                  "text": "A Panamai Egyetem egyik előadóterme és kulturális helyszíne Balboában.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545071,
+                        8.980425
+                  ]
+            },
+            {
+                  "name": "Bosque Pionero de Rodman",
+                  "text": "Balboai természetvédelmi terület, amely a helyi növény- és állatvilágot mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        -79.575216,
+                        8.946838
+                  ]
+            },
+            {
+                  "name": "Theatre Guild of Ancón",
+                  "text": "Történelmi közösségi színház Balboában, amely angol nyelvű előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545902,
+                        8.965217
+                  ]
+            },
+            {
+                  "name": "Museo Mercedario",
+                  "text": "Vallási múzeum Balboában, amely a mercedárius rendhez kapcsolódó műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.536488,
+                        8.952846
+                  ]
+            },
+            {
+                  "name": "Museo de la Esmeralda",
+                  "text": "Balboai múzeum, amely a smaragdok történetével és bemutatásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534818,
+                        8.952956
+                  ]
+            },
+            {
+                  "name": "Teatro Amador",
+                  "text": "Történelmi színház és kulturális helyszín Balboa Casco Viejo negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.538002,
+                        8.953415
+                  ]
+            },
+            {
+                  "name": "Teatro Balboa",
+                  "text": "Balboa egyik jelentős színháza, amely számos zenei és színházi előadásnak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.558709,
+                        8.95549
+                  ]
+            },
+            {
+                  "name": "Teatro Ancón",
+                  "text": "Helyi színház, amely Balboa közösségét szolgálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.542921,
+                        8.953382
+                  ]
+            },
+            {
+                  "name": "Teatro Ascanio Villalaz",
+                  "text": "Balboai kulturális helyszíne, amelyet művészeti előadásokra és eseményekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.55662,
+                        8.959567
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Ez a balboai múzeum Panama természetrajzát és biológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.537591,
+                        8.96715
+                  ]
+            },
+            {
+                  "name": "Casa Museo Banco Nacional",
+                  "text": "Balboai múzeum, amely történelmi érméket, bankjegyeket és pénzügyi emlékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -79.535146,
+                        8.969779
+                  ]
+            },
+            {
+                  "name": "Cerro Ancón",
+                  "text": "Panama-város legmagasabb pontja, ahonnan panorámás kilátás nyílik a városra és a Panama-csatornára.",
+                  "category": "natural",
+                  "coords": [
+                        -79.549201,
+                        8.957648
+                  ]
+            },
+            {
+                  "name": "Cerro Sosa",
+                  "text": "Jelentős domb Balboában, ahonnan kilátás nyílik a környező területre.",
+                  "category": "natural",
+                  "coords": [
+                        -79.560935,
+                        8.954645
+                  ]
+            },
+            {
+                  "name": "Mi Pueblito",
+                  "text": "Egy skanzenjellegű falu Balboában, amely a hagyományos panamai építészetet és kultúrát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.547962,
+                        8.953309
+                  ]
+            },
+            {
+                  "name": "Balboa Yatch club",
+                  "text": "Balboai szabadidős létesítmény a hajózás és a tengeri sportok kedvelőinek.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.554752,
+                        8.939562
+                  ]
+            },
+            {
+                  "name": "Piscina de Albrook",
+                  "text": "Nyilvános úszómedence Balboa Albrook negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.562861,
+                        8.975252
+                  ]
+            },
+            {
+                  "name": "Mirador Puente de las Américas",
+                  "text": "Kilátópont Balboában, ahonnan remek rálátás nyílik az ikonikus Amerika-hídra.",
+                  "category": "natural",
+                  "coords": [
+                        -79.572346,
+                        8.940658
+                  ]
+            },
+            {
+                  "name": "Monumento al General Tomás Herrera",
+                  "text": "Emlékmű Balboában Tomás Herrera tábornok, Panama nemzeti hőse tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536769,
+                        8.951942
+                  ]
+            },
+            {
+                  "name": "Cielos del Pacifico",
+                  "text": "Balboai látványosság, amely a Csendes-óceánra nyíló tengerparti kilátásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557447,
+                        8.968193
+                  ]
+            },
+            {
+                  "name": "Puente de las Américas",
+                  "text": "Jelentős közúti híd Balboában, amely a Panama-csatorna csendes-óceáni bejáratát hidalja át.",
+                  "category": "natural",
+                  "coords": [
+                        -79.562861,
+                        8.944178
+                  ]
+            },
+            {
+                  "name": "Panama Canal Railway Passenger Terminal",
+                  "text": "Történelmi vasútállomás Balboában az Atlanti- és a Csendes-óceánt összekötő vonal számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.567141,
+                        8.976059
+                  ]
+            },
+            {
+                  "name": "Puerto de Panama",
+                  "text": "Jelentős tengeri csomópont Balboában, a Panama-csatorna csendes-óceáni bejáratánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.555976,
+                        8.938104
+                  ]
+            },
+            {
+                  "name": "Mirador del Faro",
+                  "text": "Kilátópont Balboában, ahonnan kilátás nyílik a világítótoronyra és a környező tengerpartra.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.56606,
+                        8.940186
+                  ]
+            },
+            {
+                  "name": "Mausoleo de Omar Torrijos Herrera",
+                  "text": "Emlékmű Balboában, amely Omar Torrijos Herrera tábornok végső nyughelyéül szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -79.550215,
+                        8.937269
+                  ]
+            },
+            {
+                  "name": "Monumento a Simón Bolívar",
+                  "text": "Balboai szobor, amely a dél-amerikai felszabadító, Simon Bolivar emlékét őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -79.533532,
+                        8.953289
+                  ]
+            },
+            {
+                  "name": "Monumento a Belisario Porras",
+                  "text": "Emlékmű Balboában Belisario Porrasnak, Panama egykori elnökének szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536388,
+                        8.969892
+                  ]
+            },
+            {
+                  "name": "Monumento a los Martires",
+                  "text": "Balboai emlékmű az 1964-es zászló-zavargások áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -79.542664,
+                        8.963217
+                  ]
+            },
+            {
+                  "name": "Mirador al Pacifico",
+                  "text": "Népszerű kilátópont Balboában, ahonnan kilátás nyílik a Csendes-óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.549469,
+                        8.93561
+                  ]
+            },
+            {
+                  "name": "Albrook Mall",
+                  "text": "Latin-Amerika egyik legnagyobb bevásárlóközpontja Balboában található.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.552386,
+                        8.9729
+                  ]
+            },
+            {
+                  "name": "Goethals Memorial",
+                  "text": "Emlékmű Balboában George Washington Goethalsnak, a Panama-csatorna főmérnökének tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.55569,
+                        8.958496
+                  ]
+            },
+            {
+                  "name": "Mirador de Pacífico",
+                  "text": "Kilátópont Balboában, amely a Panama-csatorna csendes-óceáni bejáratára nyíló kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -79.533773,
+                        8.960405
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "Történelmi koloniális templom Balboában, amely kulturális és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -79.539318,
+                        8.953971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Historia de Panamá",
+                  "text": "Un muzeu dedicat istoriei bogate și diverse a națiunii panameze.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534914,
+                        8.952044
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo",
+                  "text": "Cel mai important muzeu de artă contemporană din Panama, care prezintă lucrări naționale și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        -79.543039,
+                        8.960941
+                  ]
+            },
+            {
+                  "name": "Museo Afroantillano",
+                  "text": "Acest muzeu evidențiază istoria și contribuțiile comunității vest-indiene în Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -79.53946,
+                        8.962928
+                  ]
+            },
+            {
+                  "name": "Parque Amelia Denis de Icaza",
+                  "text": "Un parc recreativ din Balboa care oferă activități în aer liber și spații verzi.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54675,
+                        8.951049
+                  ]
+            },
+            {
+                  "name": "Museo de la Libertad",
+                  "text": "Un muzeu din Balboa axat pe drepturile omului și istoria libertății în Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -79.554614,
+                        8.946611
+                  ]
+            },
+            {
+                  "name": "Divercity",
+                  "text": "Acest parc tematic din Balboa oferă experiențe interactive pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.551957,
+                        8.977253
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura democratica",
+                  "text": "Acest muzeu din Balboa se concentrează pe istoria și dezvoltarea culturii democratice.",
+                  "category": "museum",
+                  "coords": [
+                        -79.54782,
+                        8.96659
+                  ]
+            },
+            {
+                  "name": "Fundación Museo Arias Madrid",
+                  "text": "Acest muzeu din Balboa este dedicat vieții și moștenirii fostului președinte Arnulfo Arias Madrid.",
+                  "category": "museum",
+                  "coords": [
+                        -79.556928,
+                        8.951799
+                  ]
+            },
+            {
+                  "name": "Domo de la Universidad de Panamá",
+                  "text": "Un spațiu pentru spectacole situat în cadrul Universității din Panama, în Balboa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545071,
+                        8.980425
+                  ]
+            },
+            {
+                  "name": "Bosque Pionero de Rodman",
+                  "text": "O arie naturală protejată din Balboa care adăpostește flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -79.575216,
+                        8.946838
+                  ]
+            },
+            {
+                  "name": "Theatre Guild of Ancón",
+                  "text": "Un teatru comunitar istoric din Balboa, cunoscut pentru producțiile sale în limba engleză.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545902,
+                        8.965217
+                  ]
+            },
+            {
+                  "name": "Museo Mercedario",
+                  "text": "Un muzeu religios din Balboa care expune artefacte legate de Ordinul Mercedar.",
+                  "category": "museum",
+                  "coords": [
+                        -79.536488,
+                        8.952846
+                  ]
+            },
+            {
+                  "name": "Museo de la Esmeralda",
+                  "text": "Un muzeu din Balboa dedicat istoriei și expunerii smaraldelor.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534818,
+                        8.952956
+                  ]
+            },
+            {
+                  "name": "Teatro Amador",
+                  "text": "Un teatru istoric și spațiu cultural situat în zona Casco Viejo din Balboa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.538002,
+                        8.953415
+                  ]
+            },
+            {
+                  "name": "Teatro Balboa",
+                  "text": "Un teatru proeminent din Balboa care găzduiește diverse spectacole muzicale și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.558709,
+                        8.95549
+                  ]
+            },
+            {
+                  "name": "Teatro Ancón",
+                  "text": "Un teatru local care deservește comunitatea din zona Balboa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.542921,
+                        8.953382
+                  ]
+            },
+            {
+                  "name": "Teatro Ascanio Villalaz",
+                  "text": "Un spațiu cultural din Balboa utilizat pentru spectacole artistice și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.55662,
+                        8.959567
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "Acest muzeu din Balboa prezintă exponate despre istoria naturală și biodiversitatea Panamei.",
+                  "category": "museum",
+                  "coords": [
+                        -79.537591,
+                        8.96715
+                  ]
+            },
+            {
+                  "name": "Casa Museo Banco Nacional",
+                  "text": "Un muzeu din Balboa care expune monede istorice, bancnote și artefacte financiare.",
+                  "category": "museum",
+                  "coords": [
+                        -79.535146,
+                        8.969779
+                  ]
+            },
+            {
+                  "name": "Cerro Ancón",
+                  "text": "Cel mai înalt punct din Panama City, oferind vederi panoramice asupra orașului și a Canalului Panama.",
+                  "category": "natural",
+                  "coords": [
+                        -79.549201,
+                        8.957648
+                  ]
+            },
+            {
+                  "name": "Cerro Sosa",
+                  "text": "Un deal proeminent din Balboa care oferă vederi asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -79.560935,
+                        8.954645
+                  ]
+            },
+            {
+                  "name": "Mi Pueblito",
+                  "text": "Un sat machetă din Balboa care prezintă arhitectura și cultura tradițională panameză.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.547962,
+                        8.953309
+                  ]
+            },
+            {
+                  "name": "Balboa Yatch club",
+                  "text": "O facilitate de agrement din Balboa dedicată pasionaților de navigație și activități maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.554752,
+                        8.939562
+                  ]
+            },
+            {
+                  "name": "Piscina de Albrook",
+                  "text": "O piscină publică situată în zona Albrook din Balboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.562861,
+                        8.975252
+                  ]
+            },
+            {
+                  "name": "Mirador Puente de las Américas",
+                  "text": "Un punct panoramic din Balboa care oferă vederi clare asupra emblematicului Pod al Americilor.",
+                  "category": "natural",
+                  "coords": [
+                        -79.572346,
+                        8.940658
+                  ]
+            },
+            {
+                  "name": "Monumento al General Tomás Herrera",
+                  "text": "Un monument din Balboa în cinstea generalului Tomás Herrera, un erou național al Panamei.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536769,
+                        8.951942
+                  ]
+            },
+            {
+                  "name": "Cielos del Pacifico",
+                  "text": "O atracție din Balboa cunoscută pentru vederile sale de coastă spre Oceanul Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557447,
+                        8.968193
+                  ]
+            },
+            {
+                  "name": "Puente de las Américas",
+                  "text": "Un pod rutier major din Balboa care traversează intrarea dinspre Pacific a Canalului Panama.",
+                  "category": "natural",
+                  "coords": [
+                        -79.562861,
+                        8.944178
+                  ]
+            },
+            {
+                  "name": "Panama Canal Railway Passenger Terminal",
+                  "text": "Terminalul istoric din Balboa pentru calea ferată care leagă oceanele Atlantic și Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.567141,
+                        8.976059
+                  ]
+            },
+            {
+                  "name": "Puerto de Panama",
+                  "text": "Un nod maritim semnificativ din Balboa, situat la intrarea dinspre Pacific a Canalului Panama.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.555976,
+                        8.938104
+                  ]
+            },
+            {
+                  "name": "Mirador del Faro",
+                  "text": "Un punct de observație din Balboa care oferă vederi spre far și coasta înconjurătoare.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.56606,
+                        8.940186
+                  ]
+            },
+            {
+                  "name": "Mausoleo de Omar Torrijos Herrera",
+                  "text": "Un monument din Balboa care servește drept loc de odihnă veșnică pentru generalul Omar Torrijos Herrera.",
+                  "category": "historical",
+                  "coords": [
+                        -79.550215,
+                        8.937269
+                  ]
+            },
+            {
+                  "name": "Monumento a Simón Bolívar",
+                  "text": "O statuie din Balboa care îl comemorează pe eliberatorul sud-american Simon Bolivar.",
+                  "category": "historical",
+                  "coords": [
+                        -79.533532,
+                        8.953289
+                  ]
+            },
+            {
+                  "name": "Monumento a Belisario Porras",
+                  "text": "Un monument din Balboa dedicat lui Belisario Porras, fost președinte al Panamei.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536388,
+                        8.969892
+                  ]
+            },
+            {
+                  "name": "Monumento a los Martires",
+                  "text": "Un memorial din Balboa în cinstea celor care au murit în timpul revoltelor pentru steag din 1964.",
+                  "category": "historical",
+                  "coords": [
+                        -79.542664,
+                        8.963217
+                  ]
+            },
+            {
+                  "name": "Mirador al Pacifico",
+                  "text": "Un punct de observație popular din Balboa care oferă vederi spre Oceanul Pacific.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.549469,
+                        8.93561
+                  ]
+            },
+            {
+                  "name": "Albrook Mall",
+                  "text": "Unul dintre cele mai mari centre comerciale din America Latină, situat în Balboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.552386,
+                        8.9729
+                  ]
+            },
+            {
+                  "name": "Goethals Memorial",
+                  "text": "Un monument din Balboa în cinstea lui George Washington Goethals, inginerul șef al Canalului Panama.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.55569,
+                        8.958496
+                  ]
+            },
+            {
+                  "name": "Mirador de Pacífico",
+                  "text": "Un punct panoramic din Balboa cunoscut pentru vederile spre intrarea dinspre Pacific a Canalului Panama.",
+                  "category": "natural",
+                  "coords": [
+                        -79.533773,
+                        8.960405
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "O biserică colonială istorică din Balboa, recunoscută pentru semnificația sa culturală și religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -79.539318,
+                        8.953971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Panama History Museum",
+                  "text": "A museum dedicated to the rich and diverse history of the Panamanian nation.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534914,
+                        8.952044
+                  ]
+            },
+            {
+                  "name": "Museo de Arte Contemporaneo",
+                  "text": "Panama's premier museum for contemporary art, showcasing national and international works.",
+                  "category": "museum",
+                  "coords": [
+                        -79.543039,
+                        8.960941
+                  ]
+            },
+            {
+                  "name": "Museo Afroantillano",
+                  "text": "This museum highlights the history and contributions of the West Indian community in Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -79.53946,
+                        8.962928
+                  ]
+            },
+            {
+                  "name": "Parque Amelia Denis de Icaza",
+                  "text": "A recreational park in Balboa offering outdoor activities and green spaces.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.54675,
+                        8.951049
+                  ]
+            },
+            {
+                  "name": "Museo de la Libertad",
+                  "text": "A museum in Balboa focused on human rights and the history of liberty in Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -79.554614,
+                        8.946611
+                  ]
+            },
+            {
+                  "name": "Divercity",
+                  "text": "This family-friendly theme park in Balboa offers interactive experiences for children.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.551957,
+                        8.977253
+                  ]
+            },
+            {
+                  "name": "Museo de la cultura democratica",
+                  "text": "This museum in Balboa focuses on the history and development of democratic culture.",
+                  "category": "museum",
+                  "coords": [
+                        -79.54782,
+                        8.96659
+                  ]
+            },
+            {
+                  "name": "Fundación Museo Arias Madrid",
+                  "text": "This museum in Balboa is dedicated to the life and legacy of former President Arnulfo Arias Madrid.",
+                  "category": "museum",
+                  "coords": [
+                        -79.556928,
+                        8.951799
+                  ]
+            },
+            {
+                  "name": "Domo de la Universidad de Panamá",
+                  "text": "A performance venue located at the University of Panama in Balboa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545071,
+                        8.980425
+                  ]
+            },
+            {
+                  "name": "Bosque Pionero de Rodman",
+                  "text": "A protected natural area in Balboa offering local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -79.575216,
+                        8.946838
+                  ]
+            },
+            {
+                  "name": "Theatre Guild of Ancón",
+                  "text": "A historic community theatre in Balboa known for its English-language productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545902,
+                        8.965217
+                  ]
+            },
+            {
+                  "name": "Museo Mercedario",
+                  "text": "A religious museum in Balboa showcasing artifacts related to the Mercedarian Order.",
+                  "category": "museum",
+                  "coords": [
+                        -79.536488,
+                        8.952846
+                  ]
+            },
+            {
+                  "name": "Museo de la Esmeralda",
+                  "text": "A museum in Balboa dedicated to the history and display of emeralds.",
+                  "category": "museum",
+                  "coords": [
+                        -79.534818,
+                        8.952956
+                  ]
+            },
+            {
+                  "name": "Teatro Amador",
+                  "text": "A historic theatre and cultural venue located in the Casco Viejo area of Balboa.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.538002,
+                        8.953415
+                  ]
+            },
+            {
+                  "name": "Teatro Balboa",
+                  "text": "A prominent theatre in Balboa hosting various musical and theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.558709,
+                        8.95549
+                  ]
+            },
+            {
+                  "name": "Teatro Ancón",
+                  "text": "A local theatre serving the community in the Balboa area.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.542921,
+                        8.953382
+                  ]
+            },
+            {
+                  "name": "Teatro Ascanio Villalaz",
+                  "text": "A cultural venue in Balboa used for artistic performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.55662,
+                        8.959567
+                  ]
+            },
+            {
+                  "name": "Museo de Ciencias Naturales",
+                  "text": "This museum in Balboa features exhibits on the natural history and biodiversity of Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -79.537591,
+                        8.96715
+                  ]
+            },
+            {
+                  "name": "Casa Museo Banco Nacional",
+                  "text": "A museum in Balboa displaying historical coins, banknotes, and financial artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -79.535146,
+                        8.969779
+                  ]
+            },
+            {
+                  "name": "Ancón Hill",
+                  "text": "The highest point in Panama City, offering panoramic views of the city and the Panama Canal.",
+                  "category": "natural",
+                  "coords": [
+                        -79.549201,
+                        8.957648
+                  ]
+            },
+            {
+                  "name": "Sosa Hill",
+                  "text": "A prominent hill in Balboa providing views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -79.560935,
+                        8.954645
+                  ]
+            },
+            {
+                  "name": "Mi Pueblito",
+                  "text": "A mock village in Balboa showcasing traditional Panamanian architecture and culture.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.547962,
+                        8.953309
+                  ]
+            },
+            {
+                  "name": "Balboa Yatch club",
+                  "text": "A recreational facility in Balboa catering to boating and maritime enthusiasts.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.554752,
+                        8.939562
+                  ]
+            },
+            {
+                  "name": "Piscina de Albrook",
+                  "text": "A public swimming facility located in the Albrook area of Balboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.562861,
+                        8.975252
+                  ]
+            },
+            {
+                  "name": "Bridge of the Americas Viewpoint",
+                  "text": "A scenic spot in Balboa offering clear views of the iconic Bridge of the Americas.",
+                  "category": "natural",
+                  "coords": [
+                        -79.572346,
+                        8.940658
+                  ]
+            },
+            {
+                  "name": "Monumento al General Tomás Herrera",
+                  "text": "A monument in Balboa honoring General Tomás Herrera, a national hero of Panama.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536769,
+                        8.951942
+                  ]
+            },
+            {
+                  "name": "Cielos del Pacifico",
+                  "text": "An attraction in Balboa known for its coastal views of the Pacific Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557447,
+                        8.968193
+                  ]
+            },
+            {
+                  "name": "Bridge of the Americas",
+                  "text": "A major road bridge in Balboa that spans the Pacific entrance of the Panama Canal.",
+                  "category": "natural",
+                  "coords": [
+                        -79.562861,
+                        8.944178
+                  ]
+            },
+            {
+                  "name": "Panama Canal Railway Passenger Terminal",
+                  "text": "The historic terminal in Balboa for the railway connecting the Atlantic and Pacific oceans.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.567141,
+                        8.976059
+                  ]
+            },
+            {
+                  "name": "Port of Panama",
+                  "text": "A significant maritime hub in Balboa located at the Pacific entrance of the Panama Canal.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.555976,
+                        8.938104
+                  ]
+            },
+            {
+                  "name": "Mirador del Faro",
+                  "text": "A viewpoint in Balboa providing vistas of the lighthouse and the surrounding coastline.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.56606,
+                        8.940186
+                  ]
+            },
+            {
+                  "name": "Mausoleo de Omar Torrijos Herrera",
+                  "text": "A monument in Balboa serving as the final resting place of General Omar Torrijos Herrera.",
+                  "category": "historical",
+                  "coords": [
+                        -79.550215,
+                        8.937269
+                  ]
+            },
+            {
+                  "name": "Monument to Simon Bolivar",
+                  "text": "A monument to Simon Bolivar commemorates the South American liberator.",
+                  "category": "historical",
+                  "coords": [
+                        -79.533532,
+                        8.953289
+                  ]
+            },
+            {
+                  "name": "Monumento a Belisario Porras",
+                  "text": "A monument in Balboa dedicated to Belisario Porras, a former President of Panama.",
+                  "category": "historical",
+                  "coords": [
+                        -79.536388,
+                        8.969892
+                  ]
+            },
+            {
+                  "name": "Monumento a los Martires",
+                  "text": "A memorial in Balboa honoring those who died during the 1964 Flag Riots.",
+                  "category": "historical",
+                  "coords": [
+                        -79.542664,
+                        8.963217
+                  ]
+            },
+            {
+                  "name": "Mirador al Pacifico",
+                  "text": "A popular lookout point in Balboa offering views of the Pacific Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.549469,
+                        8.93561
+                  ]
+            },
+            {
+                  "name": "Albrook Mall",
+                  "text": "One of the largest shopping malls in Latin America, located in Balboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.552386,
+                        8.9729
+                  ]
+            },
+            {
+                  "name": "Goethals Memorial",
+                  "text": "A monument in Balboa honoring George Washington Goethals, the chief engineer of the Panama Canal.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.55569,
+                        8.958496
+                  ]
+            },
+            {
+                  "name": "Pacific Lookout",
+                  "text": "A viewpoint in Balboa known for its vistas of the Panama Canal's Pacific entrance.",
+                  "category": "natural",
+                  "coords": [
+                        -79.533773,
+                        8.960405
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "A historic colonial church in Balboa, recognized for its cultural and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        -79.539318,
+                        8.953971
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PA-8",
     coords: [-79.56, 8.96],
@@ -111,7 +1560,124 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     }, image: "/poi-images/balboa-panama-cities-v2.webp"
   },
   {
-    id: "gamboa-cities-v2",
+    id: "gamboa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hummingbird Feeder",
+                  "text": "Ein Ort in Gamboa, an dem Kolibris beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.724705,
+                        9.130946
+                  ]
+            },
+            {
+                  "name": "Venta de Cruces",
+                  "text": "Historische Ruinen an einer alten Handelsroute in Gamboa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.684585,
+                        9.128228
+                  ]
+            },
+            {
+                  "name": "Gamboa Sloth Sanctuary",
+                  "text": "Ein Schutzgebiet für Faultiere in Gamboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.694004,
+                        9.125592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hummingbird Feeder",
+                  "text": "Kolibrimegfigyelő hely Gamboában.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.724705,
+                        9.130946
+                  ]
+            },
+            {
+                  "name": "Venta de Cruces",
+                  "text": "Történelmi romok egy régi kereskedelmi útvonal mentén Gamboában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.684585,
+                        9.128228
+                  ]
+            },
+            {
+                  "name": "Gamboa Sloth Sanctuary",
+                  "text": "Lajhárrezervátum Gamboában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.694004,
+                        9.125592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hummingbird Feeder",
+                  "text": "Un loc de observare a colibri în Gamboa.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.724705,
+                        9.130946
+                  ]
+            },
+            {
+                  "name": "Venta de Cruces",
+                  "text": "Ruine istorice pe o veche rută comercială în Gamboa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.684585,
+                        9.128228
+                  ]
+            },
+            {
+                  "name": "Gamboa Sloth Sanctuary",
+                  "text": "Un sanctuar pentru leneși în Gamboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.694004,
+                        9.125592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hummingbird Feeder",
+                  "text": "A location in Gamboa dedicated to observing hummingbirds.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.724705,
+                        9.130946
+                  ]
+            },
+            {
+                  "name": "Venta de Cruces",
+                  "text": "Historical ruins along an old trade route in Gamboa.",
+                  "category": "historical",
+                  "coords": [
+                        -79.684585,
+                        9.128228
+                  ]
+            },
+            {
+                  "name": "Gamboa Sloth Sanctuary",
+                  "text": "A sanctuary for sloths located in Gamboa.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.694004,
+                        9.125592
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PA-3",
     coords: [-79.7, 9.12],
@@ -183,7 +1749,124 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     }, image: "/poi-images/cristobal-colon-cities-v2.webp"
   },
   {
-    id: "isla-grande-cities-v2",
+    id: "isla-grande-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Faro",
+                  "text": "Ein Leuchtturm auf der Isla Grande, der als Orientierungshilfe für die Schifffahrt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557745,
+                        9.638087
+                  ]
+            },
+            {
+                  "name": "La Punta",
+                  "text": "Ein malerischer Strandabschnitt auf der Insel Isla Grande.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.567977,
+                        9.629245
+                  ]
+            },
+            {
+                  "name": "Linton Bay Marina",
+                  "text": "Ein Jachthafen auf der Isla Grande mit Liegeplätzen für Jachten und Privatboote.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.579288,
+                        9.612743
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Faro",
+                  "text": "Világítótorony az Isla Grande szigetén, amely a tengeri tájékozódást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557745,
+                        9.638087
+                  ]
+            },
+            {
+                  "name": "La Punta",
+                  "text": "Festői tengerparti terület Isla Grande szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.567977,
+                        9.629245
+                  ]
+            },
+            {
+                  "name": "Linton Bay Marina",
+                  "text": "Jachtkikötő Isla Grande szigetén, amely jachtok és magánhajók számára kínál szolgáltatásokat.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.579288,
+                        9.612743
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Faro",
+                  "text": "Un far pe Isla Grande care oferă ghidaj pentru navigația de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557745,
+                        9.638087
+                  ]
+            },
+            {
+                  "name": "La Punta",
+                  "text": "O zonă de plajă pitorească situată pe insula Isla Grande.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.567977,
+                        9.629245
+                  ]
+            },
+            {
+                  "name": "Linton Bay Marina",
+                  "text": "O marină în Isla Grande care oferă facilități pentru iahturi și ambarcațiuni private.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.579288,
+                        9.612743
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Faro",
+                  "text": "A lighthouse on Isla Grande providing guidance for coastal navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.557745,
+                        9.638087
+                  ]
+            },
+            {
+                  "name": "La Punta",
+                  "text": "A scenic beach area located on the island of Isla Grande.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.567977,
+                        9.629245
+                  ]
+            },
+            {
+                  "name": "Linton Bay Marina",
+                  "text": "A marina in Isla Grande offering facilities for yachts and private vessels.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.579288,
+                        9.612743
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PA-3",
     coords: [-79.57, 9.62],
@@ -291,7 +1974,52 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     }, image: "/poi-images/don-bosco-panama-cities-v2.webp"
   },
   {
-    id: "juan-demostenes-arosemena-cities-v2",
+    id: "juan-demostenes-arosemena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cesarin Panadería y Dulcería",
+                  "text": "Eine beliebte lokale Bäckerei und Konditorei in Juan Demóstenes Arosemena.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.696551,
+                        8.92028
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cesarin Panadería y Dulcería",
+                  "text": "Népszerű helyi pékség és cukrászda Juan Demóstenes Arosemena városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.696551,
+                        8.92028
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cesarin Panadería y Dulcería",
+                  "text": "O brutărie și cofetărie locală populară în Juan Demóstenes Arosemena.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.696551,
+                        8.92028
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cesarin Panadería y Dulcería",
+                  "text": "A popular local bakery and sweet shop in Juan Demóstenes Arosemena.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.696551,
+                        8.92028
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PA-10",
     coords: [-79.7, 8.9],
@@ -327,7 +2055,52 @@ export const poiExtraPanamaCitiesV2: POI[] = [
     }, image: "/poi-images/juan-demostenes-arosemena-cities-v2.webp"
   },
   {
-    id: "chilibre-cities-v2",
+    id: "chilibre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador De La Represa Madden",
+                  "text": "Ein Aussichtspunkt mit Blick auf den Madden-Staudamm.",
+                  "category": "natural",
+                  "coords": [
+                        -79.618572,
+                        9.212504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador De La Represa Madden",
+                  "text": "Kilátópont a Madden-gátra.",
+                  "category": "natural",
+                  "coords": [
+                        -79.618572,
+                        9.212504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador De La Represa Madden",
+                  "text": "Un punct de observație cu vedere spre barajul Madden.",
+                  "category": "natural",
+                  "coords": [
+                        -79.618572,
+                        9.212504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador De La Represa Madden",
+                  "text": "A viewpoint overlooking the Madden Dam.",
+                  "category": "natural",
+                  "coords": [
+                        -79.618572,
+                        9.212504
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "PA-8",
     coords: [-79.6, 9.2],

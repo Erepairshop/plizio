@@ -179,7 +179,232 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-san-pedro-de-macoris-cities-v2",
+    id: "do-san-pedro-de-macoris-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fermoselle",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen und kulturelle Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.310257,
+                        18.44996
+                  ]
+            },
+            {
+                  "name": "Anfiteatro UCE",
+                  "text": "Ein Amphitheater der Universität Central del Este für akademische und kulturelle Zwecke.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.295017,
+                        18.460063
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Laguna Mallén",
+                  "text": "Ein Naturschutzgebiet, das ein wichtiges Ökosystem für die lokale Flora und Fauna bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -69.280525,
+                        18.445702
+                  ]
+            },
+            {
+                  "name": "Monumento a San Pedro de Macorís",
+                  "text": "Ein Denkmal zu Ehren der Stadt und ihrer Geschichte.",
+                  "category": "historical",
+                  "coords": [
+                        -69.315239,
+                        18.460186
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "Eine beliebte Uferpromenade mit malerischem Blick auf das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -69.302639,
+                        18.438999
+                  ]
+            },
+            {
+                  "name": "Catedral San Pedro Apóstol",
+                  "text": "Die Hauptkathedrale der Stadt, ein bedeutendes religiöses Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        -69.310846,
+                        18.452673
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fermoselle",
+                  "text": "Helyi színházi előadások és kulturális események helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.310257,
+                        18.44996
+                  ]
+            },
+            {
+                  "name": "Anfiteatro UCE",
+                  "text": "Az Universidad Central del Este amfiteátruma akadémiai és kulturális célokra.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.295017,
+                        18.460063
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Laguna Mallén",
+                  "text": "Természetvédelmi terület, amely fontos ökoszisztémát biztosít a helyi növény- és állatvilág számára.",
+                  "category": "natural",
+                  "coords": [
+                        -69.280525,
+                        18.445702
+                  ]
+            },
+            {
+                  "name": "Monumento a San Pedro de Macorís",
+                  "text": "A város és történelme tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -69.315239,
+                        18.460186
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "Népszerű tengerparti sétány festői kilátással a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        -69.302639,
+                        18.438999
+                  ]
+            },
+            {
+                  "name": "Catedral San Pedro Apóstol",
+                  "text": "A város főszékesegyháza, jelentős vallási jelkép.",
+                  "category": "religious",
+                  "coords": [
+                        -69.310846,
+                        18.452673
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fermoselle",
+                  "text": "O locație locală pentru spectacole de teatru și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.310257,
+                        18.44996
+                  ]
+            },
+            {
+                  "name": "Anfiteatro UCE",
+                  "text": "Un amfiteatru al Universității Central del Este pentru scopuri academice și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.295017,
+                        18.460063
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Laguna Mallén",
+                  "text": "O rezervație naturală care oferă un ecosistem important pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -69.280525,
+                        18.445702
+                  ]
+            },
+            {
+                  "name": "Monumento a San Pedro de Macorís",
+                  "text": "Un monument ridicat în onoarea orașului și a istoriei sale.",
+                  "category": "historical",
+                  "coords": [
+                        -69.315239,
+                        18.460186
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "O faleză populară care oferă o vedere pitorească spre mare.",
+                  "category": "natural",
+                  "coords": [
+                        -69.302639,
+                        18.438999
+                  ]
+            },
+            {
+                  "name": "Catedral San Pedro Apóstol",
+                  "text": "Catedrala principală a orașului, un punct de reper religios important.",
+                  "category": "religious",
+                  "coords": [
+                        -69.310846,
+                        18.452673
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fermoselle",
+                  "text": "A local venue for theatrical performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.310257,
+                        18.44996
+                  ]
+            },
+            {
+                  "name": "Anfiteatro UCE",
+                  "text": "An amphitheater at the Universidad Central del Este used for academic and cultural purposes.",
+                  "category": "cultural",
+                  "coords": [
+                        -69.295017,
+                        18.460063
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Laguna Mallén",
+                  "text": "A nature reserve providing an important ecosystem for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -69.280525,
+                        18.445702
+                  ]
+            },
+            {
+                  "name": "Monumento a San Pedro de Macorís",
+                  "text": "A monument erected in honor of the city and its history.",
+                  "category": "historical",
+                  "coords": [
+                        -69.315239,
+                        18.460186
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "A popular waterfront promenade offering scenic views of the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -69.302639,
+                        18.438999
+                  ]
+            },
+            {
+                  "name": "Catedral San Pedro Apóstol",
+                  "text": "The city's main cathedral, a significant religious landmark.",
+                  "category": "religious",
+                  "coords": [
+                        -69.310846,
+                        18.452673
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-23",
     coords: [-69.3087, 18.4552],
@@ -223,7 +448,160 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-moca-cities-v2",
+    id: "do-moca-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ramón Cáceres",
+                  "text": "Das Museo Ramón Cáceres in Moca widmet sich dem Leben des ehemaligen Präsidenten der Dominikanischen Republik.",
+                  "category": "museum",
+                  "coords": [
+                        -70.529244,
+                        19.403725
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico y Botánico Municipal",
+                  "text": "Dieser Zoo und botanische Garten in Moca bietet Einblicke in die lokale Tier- und Pflanzenwelt.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.518677,
+                        19.391518
+                  ]
+            },
+            {
+                  "name": "Museo 26 de Julio",
+                  "text": "Das Museo 26 de Julio in Moca erinnert an historische Ereignisse der dominikanischen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -70.526402,
+                        19.397233
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "Das Monumento a la Paz ist ein Denkmal in Moca, das dem Frieden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -70.519701,
+                        19.390612
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ramón Cáceres",
+                  "text": "A mocai Museo Ramón Cáceres a Dominikai Köztársaság egykori elnökének életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.529244,
+                        19.403725
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico y Botánico Municipal",
+                  "text": "Ez a mocai állatkert és botanikus kert bepillantást nyújt a helyi élővilágba.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.518677,
+                        19.391518
+                  ]
+            },
+            {
+                  "name": "Museo 26 de Julio",
+                  "text": "A mocai Museo 26 de Julio a dominikai történelem jelentős eseményeinek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -70.526402,
+                        19.397233
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "A Monumento a la Paz egy békének szentelt emlékmű Moca városában.",
+                  "category": "historical",
+                  "coords": [
+                        -70.519701,
+                        19.390612
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ramón Cáceres",
+                  "text": "Museo Ramón Cáceres din Moca este dedicat vieții fostului președinte al Republicii Dominicane.",
+                  "category": "museum",
+                  "coords": [
+                        -70.529244,
+                        19.403725
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico y Botánico Municipal",
+                  "text": "Această grădină zoologică și botanică din Moca oferă o incursiune în flora și fauna locală.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.518677,
+                        19.391518
+                  ]
+            },
+            {
+                  "name": "Museo 26 de Julio",
+                  "text": "Museo 26 de Julio din Moca comemorează evenimente importante din istoria dominicană.",
+                  "category": "museum",
+                  "coords": [
+                        -70.526402,
+                        19.397233
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "Monumento a la Paz este un monument dedicat păcii, situat în Moca.",
+                  "category": "historical",
+                  "coords": [
+                        -70.519701,
+                        19.390612
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ramón Cáceres",
+                  "text": "Museo Ramón Cáceres in Moca is dedicated to the life of the former president of the Dominican Republic.",
+                  "category": "museum",
+                  "coords": [
+                        -70.529244,
+                        19.403725
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico y Botánico Municipal",
+                  "text": "This zoo and botanical garden in Moca offers a look at local wildlife and flora.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.518677,
+                        19.391518
+                  ]
+            },
+            {
+                  "name": "Museo 26 de Julio",
+                  "text": "Museo 26 de Julio in Moca commemorates significant events in Dominican history.",
+                  "category": "museum",
+                  "coords": [
+                        -70.526402,
+                        19.397233
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "Monumento a la Paz is a monument dedicated to peace located in Moca.",
+                  "category": "historical",
+                  "coords": [
+                        -70.519701,
+                        19.390612
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-09",
     coords: [-70.5250, 19.3953],
@@ -267,7 +645,88 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-bonao-cities-v2",
+    id: "do-bonao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Galeria de Arte Don Julio",
+                  "text": "Die Galeria de Arte Don Julio ist eine Kunstgalerie in Bonao, die lokale Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -70.398103,
+                        18.939694
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes",
+                  "text": "Dieses Denkmal in Bonao ehrt Nationalhelden und bedeutende historische Persönlichkeiten.",
+                  "category": "historical",
+                  "coords": [
+                        -70.408811,
+                        18.933442
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Galeria de Arte Don Julio",
+                  "text": "A Galeria de Arte Don Julio egy művészeti galéria Bonaóban, amely helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.398103,
+                        18.939694
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes",
+                  "text": "Ez a bonaói emlékmű a nemzeti hősöknek és jelentős történelmi személyiségeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -70.408811,
+                        18.933442
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Galeria de Arte Don Julio",
+                  "text": "Galeria de Arte Don Julio este o galerie de artă care expune lucrări locale în Bonao.",
+                  "category": "museum",
+                  "coords": [
+                        -70.398103,
+                        18.939694
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes",
+                  "text": "Acest monument din Bonao onorează eroii naționali și figurile istorice semnificative.",
+                  "category": "historical",
+                  "coords": [
+                        -70.408811,
+                        18.933442
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Galeria de Arte Don Julio",
+                  "text": "Galeria de Arte Don Julio is an art gallery showcasing local works in Bonao.",
+                  "category": "museum",
+                  "coords": [
+                        -70.398103,
+                        18.939694
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes",
+                  "text": "This monument in Bonao honors national heroes and significant historical figures.",
+                  "category": "historical",
+                  "coords": [
+                        -70.408811,
+                        18.933442
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-18",
     coords: [-70.4074, 18.9363],
@@ -355,7 +814,124 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-mao-cities-v2",
+    id: "do-mao-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro de Damas",
+                  "text": "Das Centro de Damas ist eine kulturelle Einrichtung und ein Museum in Mao.",
+                  "category": "museum",
+                  "coords": [
+                        -71.073041,
+                        19.553533
+                  ]
+            },
+            {
+                  "name": "Vía Panorámica Entrada de Mao",
+                  "text": "Dieser Aussichtspunkt bietet einen malerischen Blick am Eingang der Stadt Mao.",
+                  "category": "natural",
+                  "coords": [
+                        -71.051452,
+                        19.515445
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "Die Reserva Forestal Río Cana ist ein wichtiges Naturschutzgebiet in der Region Mao.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro de Damas",
+                  "text": "A Centro de Damas egy kulturális intézmény és múzeum Mao városában.",
+                  "category": "museum",
+                  "coords": [
+                        -71.073041,
+                        19.553533
+                  ]
+            },
+            {
+                  "name": "Vía Panorámica Entrada de Mao",
+                  "text": "Ez a kilátó festői kilátást nyújt Mao városának bejáratánál.",
+                  "category": "natural",
+                  "coords": [
+                        -71.051452,
+                        19.515445
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "A Reserva Forestal Río Cana egy fontos természetvédelmi terület Mao régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro de Damas",
+                  "text": "Centro de Damas este o instituție culturală și un muzeu din Mao.",
+                  "category": "museum",
+                  "coords": [
+                        -71.073041,
+                        19.553533
+                  ]
+            },
+            {
+                  "name": "Vía Panorámica Entrada de Mao",
+                  "text": "Acest punct panoramic oferă o vedere pitorească la intrarea în orașul Mao.",
+                  "category": "natural",
+                  "coords": [
+                        -71.051452,
+                        19.515445
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "Reserva Forestal Río Cana este o rezervație naturală importantă din regiunea Mao.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro de Damas",
+                  "text": "Centro de Damas is a cultural institution and museum in Mao.",
+                  "category": "museum",
+                  "coords": [
+                        -71.073041,
+                        19.553533
+                  ]
+            },
+            {
+                  "name": "Vía Panorámica Entrada de Mao",
+                  "text": "This scenic route offers a picturesque view at the entrance of Mao.",
+                  "category": "natural",
+                  "coords": [
+                        -71.051452,
+                        19.515445
+                  ]
+            },
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "Reserva Forestal Río Cana is an important nature reserve in the Mao region.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-26",
     coords: [-71.0783, 19.5519],
@@ -487,7 +1063,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-hato-mayor-del-rey-cities-v2",
+    id: "do-hato-mayor-del-rey-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al cítrico y la ganaderia",
+                  "text": "Dieses Denkmal in Hato Mayor del Rey ehrt die Zitrusfruchtproduktion und die Viehwirtschaft der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -69.252475,
+                        18.764088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al cítrico y la ganaderia",
+                  "text": "Ez a Hato Mayor del Rey-i emlékmű a régió citrusfélék-termelése és állattenyésztése előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -69.252475,
+                        18.764088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al cítrico y la ganaderia",
+                  "text": "Acest monument din Hato Mayor del Rey onorează producția de citrice și creșterea animalelor din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -69.252475,
+                        18.764088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al cítrico y la ganaderia",
+                  "text": "This monument in Hato Mayor del Rey honors the citrus production and cattle ranching of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -69.252475,
+                        18.764088
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-10",
     coords: [-69.2555, 18.7656],
@@ -619,7 +1240,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-barahona-cities-v2",
+    id: "do-barahona-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arco del Triunfo",
+                  "text": "Der Arco del Triunfo ist ein markanter Triumphbogen und eine Sehenswürdigkeit in Barahona.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.100532,
+                        18.20853
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arco del Triunfo",
+                  "text": "Az Arco del Triunfo egy jellegzetes diadalív és látnivaló Barahona városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.100532,
+                        18.20853
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arco del Triunfo",
+                  "text": "Arco del Triunfo este un arc de triumf distinctiv și un obiectiv turistic din Barahona.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.100532,
+                        18.20853
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arco del Triunfo",
+                  "text": "Arco del Triunfo is a distinctive triumphal arch and attraction in Barahona.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.100532,
+                        18.20853
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-03",
     coords: [-71.1008, 18.2085],
@@ -751,7 +1417,88 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-neiba-cities-v2",
+    id: "do-neiba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional La Gran Sabana",
+                  "text": "Dieser Nationalpark bei Neiba ist für seine weiten Savannenlandschaften bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        -71.383718,
+                        18.391621
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Las Marías",
+                  "text": "Das Monumento Natural Las Marías ist ein beliebtes Naturschutzgebiet mit natürlichen Quellen in Neiba.",
+                  "category": "natural",
+                  "coords": [
+                        -71.377226,
+                        18.485506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional La Gran Sabana",
+                  "text": "Ez a Neiba melletti nemzeti park tágas szavannáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.383718,
+                        18.391621
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Las Marías",
+                  "text": "A Monumento Natural Las Marías egy népszerű természetvédelmi terület Neibában, természetes forrásokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -71.377226,
+                        18.485506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional La Gran Sabana",
+                  "text": "Acest parc național de lângă Neiba este cunoscut pentru peisajele sale vaste de savană.",
+                  "category": "natural",
+                  "coords": [
+                        -71.383718,
+                        18.391621
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Las Marías",
+                  "text": "Monumento Natural Las Marías este o rezervație naturală populară din Neiba, cu izvoare naturale.",
+                  "category": "natural",
+                  "coords": [
+                        -71.377226,
+                        18.485506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Nacional La Gran Sabana",
+                  "text": "This national park near Neiba is known for its vast savanna landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -71.383718,
+                        18.391621
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Las Marías",
+                  "text": "Monumento Natural Las Marías is a popular nature reserve with natural springs in Neiba.",
+                  "category": "natural",
+                  "coords": [
+                        -71.377226,
+                        18.485506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-02",
     coords: [-71.4217, 18.4852],
@@ -839,7 +1586,88 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-pedernales-cities-v2",
+    id: "do-pedernales-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro Miramar",
+                  "text": "Ein markanter Leuchtturm, der Schiffen an der Küste den Weg weist.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.745323,
+                        18.028345
+                  ]
+            },
+            {
+                  "name": "Playa de Pedernales",
+                  "text": "Ein natürlicher Sandstrand, der ideal zum Entspannen am Meer ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.743419,
+                        18.027428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro Miramar",
+                  "text": "Jellegzetes világítótorony, amely a part menti hajóknak mutat utat.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.745323,
+                        18.028345
+                  ]
+            },
+            {
+                  "name": "Playa de Pedernales",
+                  "text": "Természetes homokos tengerpart, amely ideális a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.743419,
+                        18.027428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro Miramar",
+                  "text": "Un far distinctiv care ghidează navele de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.745323,
+                        18.028345
+                  ]
+            },
+            {
+                  "name": "Playa de Pedernales",
+                  "text": "O plajă naturală cu nisip, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.743419,
+                        18.027428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro Miramar",
+                  "text": "A distinctive lighthouse that guides ships along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -71.745323,
+                        18.028345
+                  ]
+            },
+            {
+                  "name": "Playa de Pedernales",
+                  "text": "A natural sandy beach ideal for relaxation by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -71.743419,
+                        18.027428
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-16",
     coords: [-71.7445, 18.0375],
@@ -1015,7 +1843,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-villa-altagracia-cities-v2",
+    id: "do-villa-altagracia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Forestal Loma Novillero",
+                  "text": "Die Reserva Forestal Loma Novillero ist ein bewaldetes Naturschutzgebiet in Villa Altagracia.",
+                  "category": "natural",
+                  "coords": [
+                        -70.176392,
+                        18.703803
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Forestal Loma Novillero",
+                  "text": "A Reserva Forestal Loma Novillero egy erdős természetvédelmi terület Villa Altagracia közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -70.176392,
+                        18.703803
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Forestal Loma Novillero",
+                  "text": "Reserva Forestal Loma Novillero este o rezervație naturală forestieră din Villa Altagracia.",
+                  "category": "natural",
+                  "coords": [
+                        -70.176392,
+                        18.703803
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Forestal Loma Novillero",
+                  "text": "Reserva Forestal Loma Novillero is a forested nature reserve in Villa Altagracia.",
+                  "category": "natural",
+                  "coords": [
+                        -70.176392,
+                        18.703803
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-21",
     coords: [-70.1733, 18.6744],
@@ -1147,7 +2020,232 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-sabana-de-la-mar-cities-v2",
+    id: "do-sabana-de-la-mar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Yriel estuvo Aqui",
+                  "text": "Yriel estuvo Aqui ist ein lokaler Küstenabschnitt in Sabana de la Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.382775,
+                        19.064312
+                  ]
+            },
+            {
+                  "name": "Museo Elupina Cordero",
+                  "text": "Dieses Museum in Sabana de la Mar ist der lokalen Persönlichkeit Elupina Cordero gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -69.384246,
+                        19.062726
+                  ]
+            },
+            {
+                  "name": "Museo de la Naturaleza",
+                  "text": "Das Museum of Nature in Sabana de la Mar präsentiert die natürliche Vielfalt der Umgebung.",
+                  "category": "museum",
+                  "coords": [
+                        -69.38481,
+                        19.065755
+                  ]
+            },
+            {
+                  "name": "Monumento de los Héroes",
+                  "text": "Das Monumento de los Héroes ist ein Denkmal zur Ehrung historischer Persönlichkeiten in Sabana de la Mar.",
+                  "category": "historical",
+                  "coords": [
+                        -69.388757,
+                        19.060508
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Sabana de la Mar",
+                  "text": "Dieser Fotopunkt bietet Besuchern eine schöne Kulisse in Sabana de la Mar.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.383736,
+                        19.065803
+                  ]
+            },
+            {
+                  "name": "Ruinas del Campanario",
+                  "text": "Die Ruinas del Campanario sind historische Überreste eines Glockenturms in Sabana de la Mar.",
+                  "category": "historical",
+                  "coords": [
+                        -69.385107,
+                        19.064737
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Yriel estuvo Aqui",
+                  "text": "Az Yriel estuvo Aqui egy helyi tengerparti szakasz Sabana de la Marban.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.382775,
+                        19.064312
+                  ]
+            },
+            {
+                  "name": "Museo Elupina Cordero",
+                  "text": "Ez a Sabana de la Mar-i múzeum a helyi Elupina Cordero emlékének szentelték.",
+                  "category": "museum",
+                  "coords": [
+                        -69.384246,
+                        19.062726
+                  ]
+            },
+            {
+                  "name": "Museo de la Naturaleza",
+                  "text": "A Sabana de la Mar-i Természeti Múzeum a környék természetvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -69.38481,
+                        19.065755
+                  ]
+            },
+            {
+                  "name": "Monumento de los Héroes",
+                  "text": "A Monumento de los Héroes egy emlékmű Sabana de la Marban a történelmi hősök tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -69.388757,
+                        19.060508
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Sabana de la Mar",
+                  "text": "Ez a fotópont szép hátteret kínál a látogatóknak Sabana de la Marban.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.383736,
+                        19.065803
+                  ]
+            },
+            {
+                  "name": "Ruinas del Campanario",
+                  "text": "A Ruinas del Campanario egy harangtorony történelmi maradványai Sabana de la Marban.",
+                  "category": "historical",
+                  "coords": [
+                        -69.385107,
+                        19.064737
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Yriel estuvo Aqui",
+                  "text": "Yriel estuvo Aqui este o zonă de coastă locală din Sabana de la Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.382775,
+                        19.064312
+                  ]
+            },
+            {
+                  "name": "Museo Elupina Cordero",
+                  "text": "Acest muzeu din Sabana de la Mar este dedicat personalității locale Elupina Cordero.",
+                  "category": "museum",
+                  "coords": [
+                        -69.384246,
+                        19.062726
+                  ]
+            },
+            {
+                  "name": "Museo de la Naturaleza",
+                  "text": "Muzeul Naturii din Sabana de la Mar prezintă diversitatea naturală a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        -69.38481,
+                        19.065755
+                  ]
+            },
+            {
+                  "name": "Monumento de los Héroes",
+                  "text": "Monumento de los Héroes este un monument din Sabana de la Mar dedicat eroilor istorici.",
+                  "category": "historical",
+                  "coords": [
+                        -69.388757,
+                        19.060508
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Sabana de la Mar",
+                  "text": "Acest punct panoramic oferă vizitatorilor un cadru frumos în Sabana de la Mar.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.383736,
+                        19.065803
+                  ]
+            },
+            {
+                  "name": "Ruinas del Campanario",
+                  "text": "Ruinas del Campanario sunt resturile istorice ale unei clopotnițe din Sabana de la Mar.",
+                  "category": "historical",
+                  "coords": [
+                        -69.385107,
+                        19.064737
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Yriel estuvo Aqui",
+                  "text": "Yriel estuvo Aqui is a local coastal area in Sabana de la Mar.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.382775,
+                        19.064312
+                  ]
+            },
+            {
+                  "name": "Museo Elupina Cordero",
+                  "text": "This museum in Sabana de la Mar is dedicated to the local figure Elupina Cordero.",
+                  "category": "museum",
+                  "coords": [
+                        -69.384246,
+                        19.062726
+                  ]
+            },
+            {
+                  "name": "Museum of Nature",
+                  "text": "The Museum of Nature in Sabana de la Mar showcases the natural diversity of the surroundings.",
+                  "category": "museum",
+                  "coords": [
+                        -69.38481,
+                        19.065755
+                  ]
+            },
+            {
+                  "name": "Monumento de los Héroes",
+                  "text": "Monumento de los Héroes is a monument in Sabana de la Mar honoring historical figures.",
+                  "category": "historical",
+                  "coords": [
+                        -69.388757,
+                        19.060508
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Sabana de la Mar",
+                  "text": "This photo spot offers visitors a beautiful backdrop in Sabana de la Mar.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.383736,
+                        19.065803
+                  ]
+            },
+            {
+                  "name": "Ruinas del Campanario",
+                  "text": "Ruinas del Campanario are the historical remains of a bell tower in Sabana de la Mar.",
+                  "category": "historical",
+                  "coords": [
+                        -69.385107,
+                        19.064737
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-10",
     coords: [-69.3888, 19.0567],
@@ -1279,7 +2377,196 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-cabrera-cities-v2",
+    id: "do-cabrera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "Die Piscina Natural de Catalina ist ein beliebter natürlicher Badeplatz an der Küste von Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Orchid Bay ist ein malerischer Strandabschnitt in der Nähe von Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "Das Monumento Natural El Saltadero ist ein Naturschutzgebiet mit einem beeindruckenden Wasserfall in Cabrera.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "Caletón de los Enamorados ist eine kleine, romantische Bucht in Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "Playa El Puerto ist ein lokaler Strand in der Gemeinde Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "A Piscina Natural de Catalina egy népszerű természetes fürdőhely Cabrera partjainál.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Az Orchid Bay egy festői tengerparti szakasz Cabrera közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "A Monumento Natural El Saltadero egy természetvédelmi terület egy lenyűgöző vízeséssel Cabrerában.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "A Caletón de los Enamorados egy kicsi, romantikus öböl Cabrerában.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "A Playa El Puerto egy helyi tengerparti strand Cabrera községben.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "Piscina Natural de Catalina este un loc natural de scăldat popular de pe coasta Cabrerei.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Orchid Bay este o porțiune pitorească de plajă situată lângă Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "Monumento Natural El Saltadero este o rezervație naturală cu o cascadă impresionantă din Cabrera.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "Caletón de los Enamorados este un golfuleț mic și romantic din Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "Playa El Puerto este o plajă locală din municipalitatea Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina Natural de Catalina",
+                  "text": "Piscina Natural de Catalina is a popular natural swimming spot on the coast of Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.928437,
+                        19.65246
+                  ]
+            },
+            {
+                  "name": "Orchid Bay",
+                  "text": "Orchid Bay is a picturesque stretch of beach located near Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.892651,
+                        19.628525
+                  ]
+            },
+            {
+                  "name": "Monumento Natural El Saltadero",
+                  "text": "Monumento Natural El Saltadero is a nature reserve featuring an impressive waterfall in Cabrera.",
+                  "category": "natural",
+                  "coords": [
+                        -69.927629,
+                        19.632428
+                  ]
+            },
+            {
+                  "name": "Caletón de los Enamorados",
+                  "text": "Caletón de los Enamorados is a small, romantic cove located in Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.909184,
+                        19.646675
+                  ]
+            },
+            {
+                  "name": "Playa El Puerto",
+                  "text": "Playa El Puerto is a local beach in the municipality of Cabrera.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.91439,
+                        19.647514
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-14",
     coords: [-69.9042, 19.6417],
@@ -1499,7 +2786,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
   {
-    id: "do-santo-domingo-norte-cities-v2",
+    id: "do-santo-domingo-norte-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Cofradía del Espíritu Santo",
+                  "text": "Ein Museum, das sich der Bewahrung lokaler religiöser und kultureller Traditionen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -69.916904,
+                        18.562179
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Cofradía del Espíritu Santo",
+                  "text": "A helyi vallási és kulturális hagyományok megőrzésének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -69.916904,
+                        18.562179
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Cofradía del Espíritu Santo",
+                  "text": "Un muzeu dedicat conservării tradițiilor religioase și culturale locale.",
+                  "category": "museum",
+                  "coords": [
+                        -69.916904,
+                        18.562179
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Cofradía del Espíritu Santo",
+                  "text": "A museum dedicated to preserving local religious and cultural traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -69.916904,
+                        18.562179
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO-32",
     coords: [-69.9333, 18.5667],
@@ -1720,7 +3052,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
   },
 
     {
-      id: "do-comendador-cities-v2",
+      id: "do-comendador-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de La Frontera",
+                  "text": "Das Grenzmuseum in Comendador zeigt kulturelle und historische Artefakte aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        -71.700461,
+                        18.875598
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de La Frontera",
+                  "text": "A comendadori Határmúzeum a régió kulturális és történelmi tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -71.700461,
+                        18.875598
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de La Frontera",
+                  "text": "Muzeul Frontierei din Comendador expune artefacte culturale și istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -71.700461,
+                        18.875598
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de La Frontera",
+                  "text": "The Border Museum in Comendador exhibits cultural and historical artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -71.700461,
+                        18.875598
+                  ]
+            }
+      ]
+},
       type: "city",
       parent: "DO-07",
       coords: [-71.7000, 18.8833],
@@ -1764,7 +3141,88 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
     {
-      id: "do-san-gregorio-de-nigua-cities-v2",
+      id: "do-san-gregorio-de-nigua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Nacional de Recreo Boca de Nigua",
+                  "text": "Ein staatlich geschütztes Erholungsgebiet am Meer.",
+                  "category": "natural",
+                  "coords": [
+                        -70.055084,
+                        18.359797
+                  ]
+            },
+            {
+                  "name": "Ingenio Boca de Nigua",
+                  "text": "Eine historische Stätte einer ehemaligen Zuckermühle aus der Kolonialzeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.060361,
+                        18.372842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Nacional de Recreo Boca de Nigua",
+                  "text": "Államilag védett tengerparti rekreációs terület.",
+                  "category": "natural",
+                  "coords": [
+                        -70.055084,
+                        18.359797
+                  ]
+            },
+            {
+                  "name": "Ingenio Boca de Nigua",
+                  "text": "Egy egykori gyarmati kori cukormalom történelmi helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.060361,
+                        18.372842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Nacional de Recreo Boca de Nigua",
+                  "text": "O zonă națională de recreere protejată, situată la malul mării.",
+                  "category": "natural",
+                  "coords": [
+                        -70.055084,
+                        18.359797
+                  ]
+            },
+            {
+                  "name": "Ingenio Boca de Nigua",
+                  "text": "Situl istoric al unei foste mori de zahăr din perioada colonială.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.060361,
+                        18.372842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Nacional de Recreo Boca de Nigua",
+                  "text": "A state-protected national recreation area located by the sea.",
+                  "category": "natural",
+                  "coords": [
+                        -70.055084,
+                        18.359797
+                  ]
+            },
+            {
+                  "name": "Ingenio Boca de Nigua",
+                  "text": "The historic site of a former colonial-era sugar mill.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.060361,
+                        18.372842
+                  ]
+            }
+      ]
+},
       type: "city",
       parent: "DO-21",
       coords: [-70.0783, 18.3931],
@@ -2160,7 +3618,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
     {
-      id: "do-loma-de-cabrera-cities-v2",
+      id: "do-loma-de-cabrera-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Forestal Cerro Chacuey",
+                  "text": "Ein Waldschutzgebiet, das für seine reiche Artenvielfalt und bewaldeten Hügel bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -71.57233,
+                        19.45345
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Forestal Cerro Chacuey",
+                  "text": "Erdei védett terület, amely gazdag élővilágáról és erdős dombjairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -71.57233,
+                        19.45345
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Forestal Cerro Chacuey",
+                  "text": "O rezervație forestieră cunoscută pentru biodiversitatea sa bogată și dealurile împădurite.",
+                  "category": "natural",
+                  "coords": [
+                        -71.57233,
+                        19.45345
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Forestal Cerro Chacuey",
+                  "text": "A forest reserve known for its rich biodiversity and forested hills.",
+                  "category": "natural",
+                  "coords": [
+                        -71.57233,
+                        19.45345
+                  ]
+            }
+      ]
+},
       type: "city",
       parent: "DO-05",
       coords: [-71.6231, 19.4319],
@@ -2336,7 +3839,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
     {
-      id: "do-guayubin-cities-v2",
+      id: "do-guayubin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "Die Reserva Forestal Río Cana schützt die natürliche Flora und Fauna in Guayubín.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "A Reserva Forestal Río Cana megvédi a természetes flórát és faunát Guayubínban.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "Reserva Forestal Río Cana protejează flora și fauna naturală din Guayubín.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Forestal Río Cana",
+                  "text": "Reserva Forestal Río Cana protects the natural flora and fauna in Guayubín.",
+                  "category": "natural",
+                  "coords": [
+                        -71.241824,
+                        19.571971
+                  ]
+            }
+      ]
+},
       type: "city",
       parent: "DO-15",
       coords: [-71.3500, 19.6500],
@@ -2512,7 +4060,88 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
     {
-      id: "do-luperon-cities-v2",
+      id: "do-luperon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Grande",
+                  "text": "Ein beliebter Sandstrand in Luperón, ideal zum Entspannen am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.95348,
+                        19.910004
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Bahia de Luperón",
+                  "text": "Ein Naturschutzgebiet in Luperón, das die lokale Artenvielfalt der Bucht schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934015,
+                        19.900446
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Grande",
+                  "text": "Népszerű homokos tengerpart Luperónban, amely ideális a pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.95348,
+                        19.910004
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Bahia de Luperón",
+                  "text": "Természetvédelmi terület Luperónban, amely az öböl helyi élővilágát óvja.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934015,
+                        19.900446
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Grande",
+                  "text": "O plajă populară cu nisip în Luperón, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.95348,
+                        19.910004
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Bahia de Luperón",
+                  "text": "O rezervație naturală în Luperón care protejează biodiversitatea locală a golfului.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934015,
+                        19.900446
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Grande",
+                  "text": "A popular sandy beach in Luperón, ideal for relaxing by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.95348,
+                        19.910004
+                  ]
+            },
+            {
+                  "name": "Refugio de Vida Silvestre Bahia de Luperón",
+                  "text": "A wildlife refuge in Luperón protecting the bay's local biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -70.934015,
+                        19.900446
+                  ]
+            }
+      ]
+},
       type: "city",
       parent: "DO-18",
       coords: [-70.9500, 19.8833],
@@ -2953,7 +4582,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
       {
-        id: "do-villa-gonzalez-cities-v2",
+        id: "do-villa-gonzalez-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento Natural Pico Diego de Ocampo",
+                  "text": "Ein Naturschutzgebiet rund um den höchsten Punkt der Cordillera Septentrional.",
+                  "category": "natural",
+                  "coords": [
+                        -70.775618,
+                        19.581298
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento Natural Pico Diego de Ocampo",
+                  "text": "Természetvédelmi terület a Cordillera Septentrional legmagasabb pontja körül.",
+                  "category": "natural",
+                  "coords": [
+                        -70.775618,
+                        19.581298
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento Natural Pico Diego de Ocampo",
+                  "text": "O rezervație naturală situată în jurul celui mai înalt punct din Cordillera Septentrional.",
+                  "category": "natural",
+                  "coords": [
+                        -70.775618,
+                        19.581298
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento Natural Pico Diego de Ocampo",
+                  "text": "A nature reserve surrounding the highest point of the Cordillera Septentrional.",
+                  "category": "natural",
+                  "coords": [
+                        -70.775618,
+                        19.581298
+                  ]
+            }
+      ]
+},
         type: "city",
         parent: "DO-27",
         coords: [-70.7833, 19.5667],
@@ -3437,7 +5111,52 @@ export const poiExtraDominicanrepublicCitiesV2: POI[] = [
     },
   },
       {
-        id: "do-sabana-yegua-cities-v2",
+        id: "do-sabana-yegua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Forestal Barrero",
+                  "text": "Ein geschütztes Waldgebiet in Sabana Yegua, das der Erhaltung der lokalen Flora dient.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986232,
+                        18.472728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Forestal Barrero",
+                  "text": "Védett erdőrezervátum Sabana Yegua területén a helyi flóra megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986232,
+                        18.472728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Forestal Barrero",
+                  "text": "O rezervație forestieră protejată în Sabana Yegua pentru conservarea florei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986232,
+                        18.472728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Forestal Barrero",
+                  "text": "A protected forest reserve in Sabana Yegua dedicated to preserving local flora.",
+                  "category": "natural",
+                  "coords": [
+                        -70.986232,
+                        18.472728
+                  ]
+            }
+      ]
+},
         type: "city",
         parent: "DO-01",
         coords: [-70.9833, 18.5167],

@@ -74,7 +74,1960 @@ export const irelandCountry: POI = {
 
 export const irelandRegions: POI[] = [
   {
-    id: "city-dublin",
+    id: "city-dublin", "sights": {
+      "de": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "Die Old Jameson Distillery ist ein Museum in Dublin, das die Geschichte des berühmten irischen Whiskeys zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "Das Irish Jewish Museum in Dublin widmet sich der Geschichte der jüdischen Gemeinde Irlands.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "The Little Museum of Dublin ist ein Museum, das die Geschichte der irischen Hauptstadt im 20. Jahrhundert dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "Das Garda Museum ist ein Museum in Dublin zur Geschichte der irischen Polizei.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "Dublinia ist ein Museum in Dublin, das sich auf die Geschichte der Wikinger und des Mittelalters konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "EPIC The Irish Emigration Museum befindet sich in Dublin und verfolgt die Geschichte der irischen Diaspora.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "Das Museum of Literature Ireland in Dublin feiert das reiche literarische Erbe des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "Die Chester Beatty Library ist ein Museum in Dublin mit einer berühmten Sammlung seltener Manuskripte und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "Das National Museum of Ireland (Decorative Arts & History) befindet sich in den historischen Collins Barracks in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "Das National Print Museum in Dublin bewahrt und zeigt die Geschichte des Druckhandwerks in Irland.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "Das National Museum of Ireland, Natural History, oft 'Dead Zoo' genannt, befindet sich in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "Das Irish Architectural Archive ist ein Museum in Dublin, das dem Sammeln und Bewahren des architektonischen Erbes Irlands gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "Das James Joyce Centre ist ein Museum in Dublin, das dem Leben und Werk des berühmten irischen Schriftstellers gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "Die Douglas Hyde Gallery ist eine Galerie für zeitgenössische Kunst am Trinity College in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "Die Royal Hibernian Academy ist eine bedeutende Kunstgalerie und Institution in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "Das Daniel O'Connell-Denkmal in Dublin ehrt den berühmten irischen Nationalistenführer des 19. Jahrhunderts.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "Das Wellington Monument ist ein hoher Obelisk im Phoenix Park in Dublin zum Gedenken an den Duke of Wellington.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "The Spire of Dublin ist ein markantes, nadelförmiges Edelstahl-Denkmal auf der O'Connell Street.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "Ein historisches Stadttor in Dublin.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "Ein Theater in der Stadt Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "Eine große Indoor-Amphitheater- und Veranstaltungshalle in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "Ein wichtiger nationaler Veranstaltungsort für klassische Musik in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "Ein Veranstaltungsort für darstellende Künste in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "Ein Veranstaltungsort für Live-Unterhaltung in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "Ein historisches Theater in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "Ein Theater in Dublin, das für seine vielfältigen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "Das irische Nationaltheater in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "Ein bemerkenswertes Theatergebäude in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "Ein Gotteshaus in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Ein Gotteshaus in der Stadt Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "Eine Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "Eine historische Kirche in Dublin, die für ihre Grabgewölbe bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Eine markante Prokathedrale in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "Ein Kirchengebäude in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "Eine Franziskanerkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "Eine Kirche in der Stadt Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "Eine Karmeliterkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "Eine Pfarrkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "Ein Gotteshaus in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "Eine Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "Eine bekannte Moschee in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "Ein Gotteshaus in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "Eine Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "Eine historische Kirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "Eine Kirche in der Stadt Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "Eine Jesuitenkirche in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "Eine berühmte illuminierte Handschrift, die als Attraktion in Dublin ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "Ein belebtes Kultur- und Unterhaltungsviertel in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "Ein berühmter Baum in Dublin, der für das teilweise Umschließen einer gusseisernen Bank bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "Ein Museum in Dublin, das der irischen Folklore und Mythologie gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "Ein berühmter historischer Pub, der als Attraktion in Dublin dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "Ein renommierter botanischer Garten in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "Ein historisches städtisches Gebäude in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "Az Old Jameson Distillery egy múzeum Dublinban, amely a híres ír whiskey történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "Az Irish Jewish Museum egy dublini múzeum, amely az írországi zsidó közösség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "A The Little Museum of Dublin a város 20. századi történetét bemutató múzeum Dublinban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "A Garda Museum egy múzeum Dublinban, amely az ír rendőrség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "A Dublinia egy múzeum Dublinban, amely a város viking és középkori történelmére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "Az EPIC The Irish Emigration Museum egy dublini múzeum, amely az ír diaszpóra történetét követi nyomon.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "A Museum of Literature Ireland egy dublini múzeum, amely az ország irodalmi örökségét ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "A Chester Beatty Library egy dublini múzeum, amely ritka kéziratok és műtárgyak híres gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "A National Museum of Ireland (Decorative Arts & History) Dublinban, a történelmi Collins Barracks épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "A dublini National Print Museum az írországi nyomdamesterség történetét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "A National Museum of Ireland, Natural History, amelyet gyakran 'Halott Állatkertnek' hívnak, Dublinban található.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "Az Irish Architectural Archive egy dublini múzeum, amely az írországi építészeti örökség gyűjtésének és megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "A James Joyce Centre egy múzeum Dublinban, amelyet a híres ír író életének és munkásságának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "A Douglas Hyde Gallery egy kortárs művészeti galéria, amely a dublini Trinity College-ban található.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "A Royal Hibernian Academy egy kiemelkedő művészeti galéria és intézmény Dublinban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "A dublini Daniel O'Connell-emlékmű a híres 19. századi ír nacionalista vezetőnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "A Wellington Monument egy magas obeliszk Dublin Phoenix Parkjában, amely Wellington hercegének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "A Spire of Dublin egy kiemelkedő, tű alakú rozsdamentes acél emlékmű az O'Connell Streeten.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "Egy történelmi városkapu Dublinban.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "Egy színház Dublin városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "Egy nagy fedett amfiteátrum és rendezvényközpont Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "A klasszikus zene legfőbb nemzeti helyszíne Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "Egy előadó-művészeti helyszín Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "Egy élő szórakoztató központ Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "Egy történelmi színház Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "Változatos produkcióiról ismert színház Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "Írország nemzeti színháza Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "Egy jelentős színházépület Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "Kortárs művészeti galéria Dublinban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "Egy istentiszteleti hely Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Egy istentiszteleti hely Dublin városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "Egy templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "Sírboltjairól ismert történelmi templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Egy kiemelkedő pro-katedrális Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "Egy templomépület Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "Ferences templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "Egy templom Dublin városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "Egy kármelita templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "Egy plébániatemplom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "Egy istentiszteleti hely Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "Egy templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "Egy kiemelkedő mecset Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "Egy istentiszteleti hely Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "Egy templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "Egy történelmi templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "Egy templom Dublin városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "Egy jezsuita templom Dublinban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "Egy híres kódex, amelyet látványosságként állítanak ki Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "Egy nyüzsgő kulturális és szórakozónegyed Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "Egy híres fa Dublinban, amely arról ismert, hogy részben körbenőtt egy öntöttvas padot.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "Az ír folklórnak és mitológiának szentelt múzeum Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "Egy híres történelmi kocsma, amely látványosságként működik Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "Egy híres botanikus kert Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "Egy történelmi polgári épület Dublinban.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "Old Jameson Distillery este un muzeu din Dublin dedicat istoriei celebrului whiskey irlandez.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "Irish Jewish Museum este un muzeu din Dublin dedicat istoriei comunității evreiești din Irlanda.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "The Little Museum of Dublin este un muzeu care prezintă istoria capitalei irlandeze în secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "Garda Museum este un muzeu din Dublin care explorează istoria poliției irlandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "Dublinia este un muzeu din Dublin axat pe istoria vikingă și medievală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "EPIC The Irish Emigration Museum este situat în Dublin și urmărește istoria diasporei irlandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "Museum of Literature Ireland din Dublin celebrează renumitul patrimoniu literar al țării.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "Chester Beatty Library este un muzeu din Dublin care adăpostește o colecție renumită de manuscrise rare și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "National Museum of Ireland (Decorative Arts & History) este situat în istorica Collins Barracks din Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "National Print Museum din Dublin păstrează și expune istoria meșteșugului tipografic din Irlanda.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "National Museum of Ireland, Natural History, denumit adesea 'Dead Zoo', este situat în Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "Irish Architectural Archive este un muzeu din Dublin dedicat colectării și conservării patrimoniului arhitectural al Irlandei.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "James Joyce Centre este un muzeu din Dublin dedicat vieții și operelor celebrului scriitor irlandez.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "Douglas Hyde Gallery este o galerie de artă contemporană situată la Trinity College din Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "Royal Hibernian Academy este o galerie de artă și instituție importantă situată în Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "Monumentul Daniel O'Connell din Dublin îl onorează pe celebrul lider naționalist irlandez din secolul al XIX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "Wellington Monument este un obelisc înalt din Phoenix Park din Dublin, care îl comemorează pe Ducele de Wellington.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "Spire of Dublin este un monument proeminent din oțel inoxidabil, în formă de ac, situat pe O'Connell Street.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "O poartă istorică a orașului situată în Dublin.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "Un teatru situat în orașul Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "Un amfiteatru interior mare și o locație de evenimente în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "Un important loc național pentru muzica clasică din Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "O locație pentru artele spectacolului situată în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "Un loc pentru divertisment live în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "Un teatru istoric situat în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "Un teatru din Dublin cunoscut pentru producțiile sale diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "Teatrul național al Irlandei situat în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "O clădire notabilă a teatrului din Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "O galerie de artă contemporană situată în Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "Un lăcaș de cult situat în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "Un lăcaș de cult situat în orașul Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "O biserică istorică din Dublin, cunoscută pentru criptele sale.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "O pro-catedrală proeminentă situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "O biserică franciscană situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "O biserică situată în orașul Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "O biserică carmelită situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "O biserică parohială situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "Un lăcaș de cult situat în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "O moschee proeminentă situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "Un lăcaș de cult situat în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "O biserică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "O biserică istorică situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "O biserică situată în orașul Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "O biserică iezuită situată în Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "Un manuscris iluminat faimos, expus ca atracție în Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "Un cartier aglomerat de cultură și divertisment din Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "Un copac faimos din Dublin, cunoscut pentru că a înghițit parțial o bancă din fontă.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "Un muzeu din Dublin dedicat folclorului și mitologiei irlandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "Un pub istoric celebru care funcționează ca o atracție în Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "O renumită grădină botanică situată în Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "O clădire civică istorică din Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Jameson Distillery",
+                  "text": "The Old Jameson Distillery is a museum in Dublin exploring the history of the famous Irish whiskey.",
+                  "category": "museum",
+                  "coords": [
+                        -6.277076,
+                        53.348117
+                  ]
+            },
+            {
+                  "name": "Irish Jewish Museum",
+                  "text": "The Irish Jewish Museum is a museum in Dublin dedicated to the history of Ireland's Jewish community.",
+                  "category": "museum",
+                  "coords": [
+                        -6.269372,
+                        53.330728
+                  ]
+            },
+            {
+                  "name": "The Little Museum of Dublin",
+                  "text": "The Little Museum of Dublin is a museum chronicling the 20th-century history of the Irish capital.",
+                  "category": "museum",
+                  "coords": [
+                        -6.258395,
+                        53.339539
+                  ]
+            },
+            {
+                  "name": "Garda Museum",
+                  "text": "The Garda Museum is a museum in Dublin exploring the history of Irish policing.",
+                  "category": "museum",
+                  "coords": [
+                        -6.266252,
+                        53.343664
+                  ]
+            },
+            {
+                  "name": "Dublinia",
+                  "text": "Dublinia is a museum in Dublin focusing on the city's Viking and Medieval history.",
+                  "category": "museum",
+                  "coords": [
+                        -6.272016,
+                        53.343238
+                  ]
+            },
+            {
+                  "name": "EPIC The Irish Emigration Museum",
+                  "text": "EPIC The Irish Emigration Museum is located in Dublin and traces the history of the Irish diaspora.",
+                  "category": "museum",
+                  "coords": [
+                        -6.247979,
+                        53.348265
+                  ]
+            },
+            {
+                  "name": "Museum of Literature Ireland",
+                  "text": "The Museum of Literature Ireland in Dublin celebrates the country's renowned literary heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -6.260422,
+                        53.33679
+                  ]
+            },
+            {
+                  "name": "Chester Beatty Library",
+                  "text": "The Chester Beatty Library is a museum in Dublin housing a renowned collection of rare manuscripts and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        -6.267451,
+                        53.342202
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland (Decorative Arts & History)",
+                  "text": "The National Museum of Ireland (Decorative Arts & History) is located in Dublin's historic Collins Barracks.",
+                  "category": "museum",
+                  "coords": [
+                        -6.285731,
+                        53.348817
+                  ]
+            },
+            {
+                  "name": "National Print Museum",
+                  "text": "The National Print Museum in Dublin preserves and exhibits the history of the printing craft in Ireland.",
+                  "category": "museum",
+                  "coords": [
+                        -6.235402,
+                        53.335189
+                  ]
+            },
+            {
+                  "name": "National Museum of Ireland, Natural History",
+                  "text": "The National Museum of Ireland, Natural History, often called the 'Dead Zoo', is located in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.253341,
+                        53.339891
+                  ]
+            },
+            {
+                  "name": "Irish Architectural Archive",
+                  "text": "The Irish Architectural Archive is a museum in Dublin dedicated to collecting and preserving Ireland's architectural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -6.246829,
+                        53.338697
+                  ]
+            },
+            {
+                  "name": "The James Joyce Centre",
+                  "text": "The James Joyce Centre is a museum in Dublin dedicated to the life and works of the famous Irish writer.",
+                  "category": "museum",
+                  "coords": [
+                        -6.259969,
+                        53.35419
+                  ]
+            },
+            {
+                  "name": "Douglas Hyde Gallery",
+                  "text": "The Douglas Hyde Gallery is a contemporary art gallery located at Trinity College in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.257707,
+                        53.343163
+                  ]
+            },
+            {
+                  "name": "Royal Hibernian Academy",
+                  "text": "The Royal Hibernian Academy is a prominent art gallery and institution located in Dublin.",
+                  "category": "museum",
+                  "coords": [
+                        -6.254924,
+                        53.337079
+                  ]
+            },
+            {
+                  "name": "Daniel O'Connell",
+                  "text": "The Daniel O'Connell monument in Dublin honors the famous 19th-century Irish nationalist leader.",
+                  "category": "historical",
+                  "coords": [
+                        -6.259343,
+                        53.34771
+                  ]
+            },
+            {
+                  "name": "Wellington Monument",
+                  "text": "The Wellington Monument is a tall obelisk in Dublin's Phoenix Park commemorating the Duke of Wellington.",
+                  "category": "historical",
+                  "coords": [
+                        -6.30312,
+                        53.349044
+                  ]
+            },
+            {
+                  "name": "Spire of Dublin",
+                  "text": "The Spire of Dublin is a prominent stainless steel pin-like monument located on O'Connell Street.",
+                  "category": "historical",
+                  "coords": [
+                        -6.260254,
+                        53.349801
+                  ]
+            },
+            {
+                  "name": "Saint Audoen's Gate",
+                  "text": "A historic city gate located in Dublin.",
+                  "category": "fortress",
+                  "coords": [
+                        -6.274023,
+                        53.343954
+                  ]
+            },
+            {
+                  "name": "The New Theatre",
+                  "text": "A theatre located in the city of Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.266528,
+                        53.344923
+                  ]
+            },
+            {
+                  "name": "3Arena",
+                  "text": "A large indoor amphitheatre and event venue in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.228422,
+                        53.347485
+                  ]
+            },
+            {
+                  "name": "National Concert Hall",
+                  "text": "A principal national venue for classical music in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259217,
+                        53.334726
+                  ]
+            },
+            {
+                  "name": "Bord Gáis Energy Theatre",
+                  "text": "A performing arts venue located in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.239938,
+                        53.344134
+                  ]
+            },
+            {
+                  "name": "Vicar Street",
+                  "text": "A live entertainment venue situated in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.277865,
+                        53.342435
+                  ]
+            },
+            {
+                  "name": "Smock Alley Theatre",
+                  "text": "A historic theatre located in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.269095,
+                        53.344842
+                  ]
+            },
+            {
+                  "name": "Gaiety Theatre",
+                  "text": "A theatre in Dublin known for its diverse productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.261569,
+                        53.340465
+                  ]
+            },
+            {
+                  "name": "Abbey Theatre",
+                  "text": "The national theatre of Ireland located in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.257121,
+                        53.348542
+                  ]
+            },
+            {
+                  "name": "Gate Theatre and Assembly Rooms",
+                  "text": "A notable theatre building in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.262186,
+                        53.353146
+                  ]
+            },
+            {
+                  "name": "Kerlin Gallery",
+                  "text": "A contemporary art gallery located in Dublin.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.259625,
+                        53.340601
+                  ]
+            },
+            {
+                  "name": "Church of Mary Immaculate, Refuge of Sinners",
+                  "text": "A place of worship situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.263871,
+                        53.327973
+                  ]
+            },
+            {
+                  "name": "St Joseph's Church",
+                  "text": "A place of worship located in the city of Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.236697,
+                        53.354406
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "A church situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.276459,
+                        53.360564
+                  ]
+            },
+            {
+                  "name": "St Michan's Church",
+                  "text": "A historic church in Dublin known for its burial vaults.",
+                  "category": "religious",
+                  "coords": [
+                        -6.275461,
+                        53.347473
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "A prominent pro-cathedral situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259025,
+                        53.350853
+                  ]
+            },
+            {
+                  "name": "St Stephen's Church",
+                  "text": "A church building situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.243692,
+                        53.336787
+                  ]
+            },
+            {
+                  "name": "Church of the Immaculate Conception (Adam & Eve)",
+                  "text": "A Franciscan church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.27294,
+                        53.344565
+                  ]
+            },
+            {
+                  "name": "St Mark's",
+                  "text": "A church located in the city of Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.251016,
+                        53.344817
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Carmelite Church",
+                  "text": "A Carmelite church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.268523,
+                        53.358159
+                  ]
+            },
+            {
+                  "name": "All Saint's Parish Church, Grangegorman",
+                  "text": "A parish church situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273824,
+                        53.358221
+                  ]
+            },
+            {
+                  "name": "St Catherine's Church",
+                  "text": "A place of worship located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281186,
+                        53.342937
+                  ]
+            },
+            {
+                  "name": "Saint John the Baptist",
+                  "text": "A church situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.250226,
+                        53.371324
+                  ]
+            },
+            {
+                  "name": "Dublin Mosque",
+                  "text": "A prominent mosque located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.281861,
+                        53.330873
+                  ]
+            },
+            {
+                  "name": "St. Nicholas of Myra",
+                  "text": "A place of worship situated in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273632,
+                        53.341133
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "A church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.249113,
+                        53.343077
+                  ]
+            },
+            {
+                  "name": "St Werburgh's",
+                  "text": "A historic church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.269428,
+                        53.342934
+                  ]
+            },
+            {
+                  "name": "St Ann's Church",
+                  "text": "A church situated in the city of Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.257875,
+                        53.340944
+                  ]
+            },
+            {
+                  "name": "Church of St Francis Xavier",
+                  "text": "A Jesuit church located in Dublin.",
+                  "category": "religious",
+                  "coords": [
+                        -6.259562,
+                        53.358014
+                  ]
+            },
+            {
+                  "name": "Book of Kells",
+                  "text": "A famous illuminated manuscript exhibited as an attraction in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.256487,
+                        53.343903
+                  ]
+            },
+            {
+                  "name": "Temple Bar",
+                  "text": "A busy cultural and entertainment quarter in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.263114,
+                        53.345496
+                  ]
+            },
+            {
+                  "name": "Hungry Tree",
+                  "text": "A famous tree in Dublin known for having partially consumed a cast iron bench.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.27305,
+                        53.352131
+                  ]
+            },
+            {
+                  "name": "National Leprechaun Museum",
+                  "text": "A museum in Dublin dedicated to Irish folklore and mythology.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.26886,
+                        53.347316
+                  ]
+            },
+            {
+                  "name": "The Brazen Head",
+                  "text": "A famous historic pub operating as an attraction in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.276311,
+                        53.344937
+                  ]
+            },
+            {
+                  "name": "National Botanic Gardens",
+                  "text": "A renowned botanical gardens situated in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.273235,
+                        53.372193
+                  ]
+            },
+            {
+                  "name": "Dublin City Hall",
+                  "text": "A historic civic building in Dublin.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.267157,
+                        53.343865
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.2603, 53.3498],
@@ -118,7 +2071,1852 @@ export const irelandRegions: POI[] = [
     },
   },
   {
-    id: "city-cork",
+    id: "city-cork", "sights": {
+      "de": [
+            {
+                  "name": "Cork Public Museum",
+                  "text": "Museum im Fitzgerald Park, das die Geschichte von Cork zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.494475,
+                        51.896293
+                  ]
+            },
+            {
+                  "name": "Glucksman Gallery",
+                  "text": "Galerie für zeitgenössische Kunst am University College Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.490274,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "The Butter Museum",
+                  "text": "Museum über die Geschichte des berühmten Buttermarktes von Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476925,
+                        51.902755
+                  ]
+            },
+            {
+                  "name": "Crawford Art Gallery",
+                  "text": "Eine bedeutende öffentliche Kunstgalerie im Herzen von Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.473274,
+                        51.899846
+                  ]
+            },
+            {
+                  "name": "Elizabeth Fort",
+                  "text": "Sternförmige Festung aus dem 17. Jahrhundert mit Stadtblick.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.478019,
+                        51.89454
+                  ]
+            },
+            {
+                  "name": "Father Matthew",
+                  "text": "Denkmal für den „Apostel der Mäßigung“ in der St. Patrick's Street.",
+                  "category": "historical",
+                  "coords": [
+                        -8.470583,
+                        51.900015
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "Ein imposantes neoklassizistisches Rathaus am Fluss Lee.",
+                  "category": "historical",
+                  "coords": [
+                        -8.465286,
+                        51.896893
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "Sitz der Kreisverwaltung und einst das höchste Gebäude Irlands.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508284,
+                        51.892653
+                  ]
+            },
+            {
+                  "name": "Everyman Palace Theatre",
+                  "text": "Theater aus der viktorianischen Ära mit prachtvollem Innenraum.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.468497,
+                        51.901423
+                  ]
+            },
+            {
+                  "name": "Saint Luke's Church",
+                  "text": "Ehemalige Kirche, die heute als einzigartiger Veranstaltungsort dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.457059,
+                        51.904238
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Eine neugotische Kirche, die von den Kapuzinermönchen geführt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -8.470823,
+                        51.895888
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Eine historische Dominikanerkirche und ein Priorat im Herzen von Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475017,
+                        51.901473
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul's Catholic Church",
+                  "text": "Eine bedeutende katholische Kirche in Cork, die für ihre neugotische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.474336,
+                        51.898924
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Mary and Saint Anne",
+                  "text": "Die katholische Hauptkathedrale von Cork, auch als North Cathedral bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -8.476145,
+                        51.904712
+                  ]
+            },
+            {
+                  "name": "Saint Fin Barre's Cathedral",
+                  "text": "Eine prächtige neugotische Kathedrale und eines der Wahrzeichen von Cork.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.480495,
+                        51.894361
+                  ]
+            },
+            {
+                  "name": "English Market",
+                  "text": "Ein berühmter überdachter Lebensmittelmarkt im Stadtzentrum von Cork, gegründet 1788.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474291,
+                        51.897731
+                  ]
+            },
+            {
+                  "name": "Daly's Bridge",
+                  "text": "Eine Fußgänger-Hängebrücke in Cork, die im Volksmund als Shakey Bridge bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.499191,
+                        51.896564
+                  ]
+            },
+            {
+                  "name": "Red Abbey Tower",
+                  "text": "Die Überreste eines Augustiner-Priorats aus dem 14. Jahrhundert und das älteste Bauwerk in Cork.",
+                  "category": "tower",
+                  "coords": [
+                        -8.472358,
+                        51.894066
+                  ]
+            },
+            {
+                  "name": "Bishop Lucey Park",
+                  "text": "Eine ruhige Grünanlage im Zentrum von Cork mit Teilen der alten Stadtmauer.",
+                  "category": "park",
+                  "coords": [
+                        -8.476058,
+                        51.897146
+                  ]
+            },
+            {
+                  "name": "Tramore Valley Park",
+                  "text": "Ein großer öffentlicher Park im Süden von Cork mit Wanderwegen und Sportanlagen.",
+                  "category": "park",
+                  "coords": [
+                        -8.461075,
+                        51.878344
+                  ]
+            },
+            {
+                  "name": "Fitzgerald's Park",
+                  "text": "Ein schöner öffentlicher Park, in dem sich das Cork Public Museum und verschiedene Skulpturen befinden.",
+                  "category": "park",
+                  "coords": [
+                        -8.495864,
+                        51.895908
+                  ]
+            },
+            {
+                  "name": "Kennedy Park",
+                  "text": "Ein beliebter Freizeitpark in Cork, benannt nach dem US-Präsidenten John F. Kennedy.",
+                  "category": "park",
+                  "coords": [
+                        -8.455594,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "Granary Theatre",
+                  "text": "Ein Veranstaltungsort für darstellende Künste in Cork, der verschiedene Theateraufführungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.485192,
+                        51.896929
+                  ]
+            },
+            {
+                  "name": "SMA Church",
+                  "text": "Eine lokale Gebetsstätte in Cork, die der Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -8.446367,
+                        51.893575
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception",
+                  "text": "Eine katholische Kirche in Cork, die der Unbefleckten Empfängnis gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.485053,
+                        51.890629
+                  ]
+            },
+            {
+                  "name": "Church of the Ascension",
+                  "text": "Eine religiöse Stätte in Cork, die einen Ort für Gebet und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        -8.49172,
+                        51.904207
+                  ]
+            },
+            {
+                  "name": "Saint Mary's on the Hill Church",
+                  "text": "Eine Gemeindekirche in Cork, die geistliche Dienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -8.50563,
+                        51.904032
+                  ]
+            },
+            {
+                  "name": "Saint Brendan's Church",
+                  "text": "Eine Kirche in Cork, die dem heiligen Brendan, dem Schutzpatron der Seeleute, gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46412,
+                        51.911403
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Catholic Church",
+                  "text": "Eine lokale katholische Pfarrkirche in Cork, die dem heiligen Patrick gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.463624,
+                        51.901804
+                  ]
+            },
+            {
+                  "name": "Saint Oliver's Church",
+                  "text": "Eine moderne katholische Kirche, die ihrer lokalen Gemeinde in Cork dient.",
+                  "category": "religious",
+                  "coords": [
+                        -8.459676,
+                        51.921058
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Eine Gebetsstätte in Cork, benannt nach der Aufnahme Mariens in den Himmel.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478667,
+                        51.883162
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Eine bemerkenswerte katholische Kirche in Cork mit einem markanten modernistischen Architekturstil.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465812,
+                        51.887611
+                  ]
+            },
+            {
+                  "name": "Blackpool Church",
+                  "text": "Eine Kirche im Stadtteil Blackpool von Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.473952,
+                        51.911083
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Eine katholische Kirche in Cork, die dem Heiligsten Herzen Jesu gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.503732,
+                        51.893943
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit",
+                  "text": "Eine lokale Kirche in Cork, die Dienstleistungen für die Gemeinde anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        -8.508069,
+                        51.888339
+                  ]
+            },
+            {
+                  "name": "Trinity Presbyterian Church",
+                  "text": "Eine presbyterianische Gebetsstätte in der Stadt Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465277,
+                        51.901864
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Eine katholische Kirche in Cork, die der Heiligen Familie gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46038,
+                        51.904867
+                  ]
+            },
+            {
+                  "name": "Saint Francis Church",
+                  "text": "Eine Kirche in Cork, die dem heiligen Franziskus gewidmet ist und die Umgebung bedient.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478597,
+                        51.89862
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "Eine Pfarrkirche in Cork, die dem heiligen Josef gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.448512,
+                        51.91006
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "Ein religiöses Gebäude in Cork, in dem regelmäßig Gottesdienste stattfinden.",
+                  "category": "religious",
+                  "coords": [
+                        -8.484491,
+                        51.913488
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "Eine Kirche in Cork, die Unserer Lieben Frau vom Rosenkranz gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -8.499735,
+                        51.898323
+                  ]
+            },
+            {
+                  "name": "South Gate Bridge",
+                  "text": "Eine der ältesten Brücken in Cork, die den südlichen Arm des Flusses Lee überpannt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.47613,
+                        51.895606
+                  ]
+            },
+            {
+                  "name": "Thomas Davis Bridge",
+                  "text": "Eine Brücke in Cork, benannt nach dem irischen Schriftsteller und Politiker Thomas Davis.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.504854,
+                        51.895082
+                  ]
+            },
+            {
+                  "name": "Brian Ború Bridge",
+                  "text": "Eine Brücke über den Fluss Lee in Cork, benannt nach dem Hochkönig von Irland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465695,
+                        51.900149
+                  ]
+            },
+            {
+                  "name": "Clontarf Bridge",
+                  "text": "Eine Brücke in der Stadt Cork, die den Verkehr über den Fluss ermöglicht.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465125,
+                        51.898023
+                  ]
+            },
+            {
+                  "name": "Parliament Bridge",
+                  "text": "Eine Steinbrücke in Cork, die das Stadtzentrum mit der Südseite verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.472487,
+                        51.895769
+                  ]
+            },
+            {
+                  "name": "Clarke's Bridge",
+                  "text": "Eine historische Brücke in Cork, die einen Weg über das Wasser bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.478938,
+                        51.896663
+                  ]
+            },
+            {
+                  "name": "The Counting House",
+                  "text": "Ein Museum in Cork, das Aspekte des lokalen industriellen und kommerziellen Erbes zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.477429,
+                        51.896307
+                  ]
+            },
+            {
+                  "name": "Lifetime Lab",
+                  "text": "Ein interaktives Museum und Wissenschaftszentrum in den alten Wasserwerken von Cork City.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509857,
+                        51.895414
+                  ]
+            },
+            {
+                  "name": "Collins Barracks Military Museum",
+                  "text": "Ein Militärmuseum in Cork, das die Geschichte der Kaserne und der irischen Armee darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462274,
+                        51.907069
+                  ]
+            },
+            {
+                  "name": "Rosebank Park",
+                  "text": "Eine historische Befestigungsanlage in Cork mit Blick auf die Umgebung.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.450713,
+                        51.884245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cork Public Museum",
+                  "text": "A Fitzgerald Parkban található múzeum Cork történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.494475,
+                        51.896293
+                  ]
+            },
+            {
+                  "name": "Glucksman Gallery",
+                  "text": "Kortárs művészeti galéria a Corki Egyetemen.",
+                  "category": "museum",
+                  "coords": [
+                        -8.490274,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "The Butter Museum",
+                  "text": "A világhírű corki vajpiac történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476925,
+                        51.902755
+                  ]
+            },
+            {
+                  "name": "Crawford Art Gallery",
+                  "text": "Cork szívében található jelentős művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -8.473274,
+                        51.899846
+                  ]
+            },
+            {
+                  "name": "Elizabeth Fort",
+                  "text": "17. századi csillag alakú erődvárosra néző kilátással.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.478019,
+                        51.89454
+                  ]
+            },
+            {
+                  "name": "Father Matthew",
+                  "text": "Az „absztinencia apostolának” szobra a St. Patrick utcában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.470583,
+                        51.900015
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "Impozáns neoklasszicista városháza a Lee-folyó partján.",
+                  "category": "historical",
+                  "coords": [
+                        -8.465286,
+                        51.896893
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "A megyei önkormányzat székhelye, egykor Írország legmagasabb épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508284,
+                        51.892653
+                  ]
+            },
+            {
+                  "name": "Everyman Palace Theatre",
+                  "text": "Viktoriánus kori színház, amely gyönyörű belső teréről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.468497,
+                        51.901423
+                  ]
+            },
+            {
+                  "name": "Saint Luke's Church",
+                  "text": "Egykori templom, amely ma különleges művészeti helyszínként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.457059,
+                        51.904238
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "Neogótikus templom, amelyet a kapucinus szerzetesek működtetnek.",
+                  "category": "religious",
+                  "coords": [
+                        -8.470823,
+                        51.895888
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Történelmi dominikánus templom és perjelég Cork szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475017,
+                        51.901473
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul's Catholic Church",
+                  "text": "Cork egyik jelentős katolikus temploma, amely neogótikus építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.474336,
+                        51.898924
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Mary and Saint Anne",
+                  "text": "Cork fő katolikus székesegyháza, más néven az északi katedrális.",
+                  "category": "religious",
+                  "coords": [
+                        -8.476145,
+                        51.904712
+                  ]
+            },
+            {
+                  "name": "Saint Fin Barre's Cathedral",
+                  "text": "Pompás neogótikus székesegyház, Cork egyik legikonikusabb látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.480495,
+                        51.894361
+                  ]
+            },
+            {
+                  "name": "English Market",
+                  "text": "Cork városközpontjának híres fedett élelmiszerpiaca, amelyet 1788-ban alapítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474291,
+                        51.897731
+                  ]
+            },
+            {
+                  "name": "Daly's Bridge",
+                  "text": "Gyalogos függőhíd Corkban, amelyet közismert nevén Shakey Bridge-nek hívnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.499191,
+                        51.896564
+                  ]
+            },
+            {
+                  "name": "Red Abbey Tower",
+                  "text": "Egy 14. századi ágoston-rendi perjelég maradványai, Cork legrégebbi építménye.",
+                  "category": "tower",
+                  "coords": [
+                        -8.472358,
+                        51.894066
+                  ]
+            },
+            {
+                  "name": "Bishop Lucey Park",
+                  "text": "Nyugodt zöldterület Cork központjában, ahol a régi városfal maradványai is láthatóak.",
+                  "category": "park",
+                  "coords": [
+                        -8.476058,
+                        51.897146
+                  ]
+            },
+            {
+                  "name": "Tramore Valley Park",
+                  "text": "Nagy közpark Cork déli oldalán, amely túraútvonalakat és sportolási lehetőségeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        -8.461075,
+                        51.878344
+                  ]
+            },
+            {
+                  "name": "Fitzgerald's Park",
+                  "text": "Gyönyörű közpark, amely a Corki Közmúzeumnak és különböző szobroknak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        -8.495864,
+                        51.895908
+                  ]
+            },
+            {
+                  "name": "Kennedy Park",
+                  "text": "Népszerű szabadidőpark Corkban, amelyet John F. Kennedy amerikai elnökről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -8.455594,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "Granary Theatre",
+                  "text": "Előadóművészeti helyszín Corkban, amely különböző színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.485192,
+                        51.896929
+                  ]
+            },
+            {
+                  "name": "SMA Church",
+                  "text": "Helyi vallási kegyhely Corkban, amely a közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -8.446367,
+                        51.893575
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception",
+                  "text": "A Szeplőtelen Fogantatásnak szentelt katolikus templom Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.485053,
+                        51.890629
+                  ]
+            },
+            {
+                  "name": "Church of the Ascension",
+                  "text": "Vallási helyszín Corkban, amely helyet biztosít az imádsághoz és az elmélyüléshez.",
+                  "category": "religious",
+                  "coords": [
+                        -8.49172,
+                        51.904207
+                  ]
+            },
+            {
+                  "name": "Saint Mary's on the Hill Church",
+                  "text": "Közösségi templom Corkban, amely hitéleti szolgáltatásokat nyújt.",
+                  "category": "religious",
+                  "coords": [
+                        -8.50563,
+                        51.904032
+                  ]
+            },
+            {
+                  "name": "Saint Brendan's Church",
+                  "text": "Szent Brendannak, a tengerészek védőszentjének szentelt templom Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46412,
+                        51.911403
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Catholic Church",
+                  "text": "Szent Patriknak szentelt helyi katolikus plébániatemplom Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.463624,
+                        51.901804
+                  ]
+            },
+            {
+                  "name": "Saint Oliver's Church",
+                  "text": "Modern katolikus templom, amely a helyi hívőközösséget szolgálja Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.459676,
+                        51.921058
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Mária mennybemeneteléről elnevezett vallási helyszín Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478667,
+                        51.883162
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "Jelentős katolikus templom Corkban, amely jellegzetes modernista építészeti stílusáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465812,
+                        51.887611
+                  ]
+            },
+            {
+                  "name": "Blackpool Church",
+                  "text": "Cork Blackpool városrészében található templom.",
+                  "category": "religious",
+                  "coords": [
+                        -8.473952,
+                        51.911083
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Jézus Szíve tiszteletére szentelt katolikus templom Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.503732,
+                        51.893943
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit",
+                  "text": "Helyi templom Corkban, amely a közösség számára nyújt szolgáltatásokat.",
+                  "category": "religious",
+                  "coords": [
+                        -8.508069,
+                        51.888339
+                  ]
+            },
+            {
+                  "name": "Trinity Presbyterian Church",
+                  "text": "Presbiteriánus vallási helyszín Cork városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465277,
+                        51.901864
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "A Szent Családnak szentelt katolikus templom Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46038,
+                        51.904867
+                  ]
+            },
+            {
+                  "name": "Saint Francis Church",
+                  "text": "Szent Ferencnek szentelt templom Corkban, amely a környéket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478597,
+                        51.89862
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "Szent Józsefnek szentelt plébániatemplom Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.448512,
+                        51.91006
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "Vallási épület Corkban, ahol rendszeresen tartanak istentiszteleteket.",
+                  "category": "religious",
+                  "coords": [
+                        -8.484491,
+                        51.913488
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "A Rózsafüzér Királynőjének szentelt templom Corkban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.499735,
+                        51.898323
+                  ]
+            },
+            {
+                  "name": "South Gate Bridge",
+                  "text": "Cork egyik legrégebbi hídja, amely a Lee folyó déli ága felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.47613,
+                        51.895606
+                  ]
+            },
+            {
+                  "name": "Thomas Davis Bridge",
+                  "text": "Híd Corkban, amelyet Thomas Davis ír íróról és politikusról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.504854,
+                        51.895082
+                  ]
+            },
+            {
+                  "name": "Brian Ború Bridge",
+                  "text": "Híd a Lee folyón Corkban, amelyet Írország nagykirályáról neveztek el.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465695,
+                        51.900149
+                  ]
+            },
+            {
+                  "name": "Clontarf Bridge",
+                  "text": "Híd Cork városában, amely a folyó feletti forgalmat biztosítja.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465125,
+                        51.898023
+                  ]
+            },
+            {
+                  "name": "Parliament Bridge",
+                  "text": "Kőhíd Corkban, amely a városközpontot köti össze a déli oldallal.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.472487,
+                        51.895769
+                  ]
+            },
+            {
+                  "name": "Clarke's Bridge",
+                  "text": "Történelmi híd Corkban, amely útvonalat biztosít a víz felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.478938,
+                        51.896663
+                  ]
+            },
+            {
+                  "name": "The Counting House",
+                  "text": "Múzeum Corkban, amely a helyi ipari és kereskedelmi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.477429,
+                        51.896307
+                  ]
+            },
+            {
+                  "name": "Lifetime Lab",
+                  "text": "Interaktív múzeum és tudományos központ a régi corki vízművek területén.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509857,
+                        51.895414
+                  ]
+            },
+            {
+                  "name": "Collins Barracks Military Museum",
+                  "text": "Katonai múzeum Corkban, amely a laktanya és az ír hadsereg történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462274,
+                        51.907069
+                  ]
+            },
+            {
+                  "name": "Rosebank Park",
+                  "text": "Történelmi erődítmény Corkban, ahonnan kilátás nyílik a környékre.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.450713,
+                        51.884245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cork Public Museum",
+                  "text": "Muzeu situat în Parcul Fitzgerald care prezintă istoria orașului Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.494475,
+                        51.896293
+                  ]
+            },
+            {
+                  "name": "Glucksman Gallery",
+                  "text": "Galerie de artă contemporană la University College Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.490274,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "The Butter Museum",
+                  "text": "Muzeu despre istoria celebrei piețe de unt din Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476925,
+                        51.902755
+                  ]
+            },
+            {
+                  "name": "Crawford Art Gallery",
+                  "text": "O galerie de artă publică importantă în inima orașului Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.473274,
+                        51.899846
+                  ]
+            },
+            {
+                  "name": "Elizabeth Fort",
+                  "text": "O fortăreață în formă de stea din secolul al XVII-lea cu vedere spre oraș.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.478019,
+                        51.89454
+                  ]
+            },
+            {
+                  "name": "Father Matthew",
+                  "text": "Statuia „Apostolului Cumpătării” situată pe strada St. Patrick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.470583,
+                        51.900015
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "O primărie neoclasică impunătoare pe malul râului Lee.",
+                  "category": "historical",
+                  "coords": [
+                        -8.465286,
+                        51.896893
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "Sediul consiliului județean, odinioară cea mai înaltă clădire din Irlanda.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508284,
+                        51.892653
+                  ]
+            },
+            {
+                  "name": "Everyman Palace Theatre",
+                  "text": "Un teatru din epoca victoriană cunoscut pentru interiorul său frumos.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.468497,
+                        51.901423
+                  ]
+            },
+            {
+                  "name": "Saint Luke's Church",
+                  "text": "Fostă biserică utilizată acum ca un spațiu unic pentru arte și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.457059,
+                        51.904238
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "O biserică neogotică administrată de călugării capucini.",
+                  "category": "religious",
+                  "coords": [
+                        -8.470823,
+                        51.895888
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "O biserică și mănăstire dominicană istorică situată în inima orașului Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475017,
+                        51.901473
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul's Catholic Church",
+                  "text": "O biserică catolică proeminentă din Cork, cunoscută pentru arhitectura sa neogotică.",
+                  "category": "religious",
+                  "coords": [
+                        -8.474336,
+                        51.898924
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Mary and Saint Anne",
+                  "text": "Principala catedrală catolică din Cork, cunoscută și sub numele de Catedrala de Nord.",
+                  "category": "religious",
+                  "coords": [
+                        -8.476145,
+                        51.904712
+                  ]
+            },
+            {
+                  "name": "Saint Fin Barre's Cathedral",
+                  "text": "O magnifică catedrală neogotică și unul dintre cele mai emblematice repere din Cork.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.480495,
+                        51.894361
+                  ]
+            },
+            {
+                  "name": "English Market",
+                  "text": "O faimoasă piață alimentară acoperită din centrul orașului Cork, înființată în 1788.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474291,
+                        51.897731
+                  ]
+            },
+            {
+                  "name": "Daly's Bridge",
+                  "text": "Un pod suspendat pentru pietoni din Cork, cunoscut popular sub numele de Shakey Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.499191,
+                        51.896564
+                  ]
+            },
+            {
+                  "name": "Red Abbey Tower",
+                  "text": "Rămășițele unei mănăstiri augustiniene din secolul al XIV-lea și cea mai veche structură din Cork.",
+                  "category": "tower",
+                  "coords": [
+                        -8.472358,
+                        51.894066
+                  ]
+            },
+            {
+                  "name": "Bishop Lucey Park",
+                  "text": "Un spațiu verde liniștit în centrul orașului Cork, care cuprinde părți din vechile ziduri ale orașului.",
+                  "category": "park",
+                  "coords": [
+                        -8.476058,
+                        51.897146
+                  ]
+            },
+            {
+                  "name": "Tramore Valley Park",
+                  "text": "Un parc public mare în partea de sud a orașului Cork, oferind trasee și facilități sportive.",
+                  "category": "park",
+                  "coords": [
+                        -8.461075,
+                        51.878344
+                  ]
+            },
+            {
+                  "name": "Fitzgerald's Park",
+                  "text": "Un parc public frumos, care găzduiește Muzeul Public din Cork și diverse sculpturi.",
+                  "category": "park",
+                  "coords": [
+                        -8.495864,
+                        51.895908
+                  ]
+            },
+            {
+                  "name": "Kennedy Park",
+                  "text": "Un parc recreativ popular din Cork, numit după președintele american John F. Kennedy.",
+                  "category": "park",
+                  "coords": [
+                        -8.455594,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "Granary Theatre",
+                  "text": "Un loc de desfășurare a artelor spectacolului din Cork, care găzduiește diverse producții teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.485192,
+                        51.896929
+                  ]
+            },
+            {
+                  "name": "SMA Church",
+                  "text": "Un lăcaș de cult local din Cork care deservește comunitatea.",
+                  "category": "religious",
+                  "coords": [
+                        -8.446367,
+                        51.893575
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception",
+                  "text": "O biserică catolică din Cork dedicată Imaculatei Concepții.",
+                  "category": "religious",
+                  "coords": [
+                        -8.485053,
+                        51.890629
+                  ]
+            },
+            {
+                  "name": "Church of the Ascension",
+                  "text": "Un sit religios din Cork care oferă un loc pentru rugăciune și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        -8.49172,
+                        51.904207
+                  ]
+            },
+            {
+                  "name": "Saint Mary's on the Hill Church",
+                  "text": "O biserică comunitară din Cork care oferă servicii spirituale.",
+                  "category": "religious",
+                  "coords": [
+                        -8.50563,
+                        51.904032
+                  ]
+            },
+            {
+                  "name": "Saint Brendan's Church",
+                  "text": "O biserică din Cork dedicată Sfântului Brendan, un sfânt patron al marinarilor.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46412,
+                        51.911403
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Catholic Church",
+                  "text": "O biserică parohială catolică locală din Cork dedicată Sfântului Patrick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.463624,
+                        51.901804
+                  ]
+            },
+            {
+                  "name": "Saint Oliver's Church",
+                  "text": "O biserică catolică modernă care deservește congregația locală din Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.459676,
+                        51.921058
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Un lăcaș de cult din Cork numit după Adormirea Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478667,
+                        51.883162
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "O biserică catolică notabilă din Cork, cu un stil arhitectural modernist distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465812,
+                        51.887611
+                  ]
+            },
+            {
+                  "name": "Blackpool Church",
+                  "text": "O biserică situată în zona Blackpool a orașului Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.473952,
+                        51.911083
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "O biserică catolică din Cork dedicată Preasfintei Inimi a lui Iisus.",
+                  "category": "religious",
+                  "coords": [
+                        -8.503732,
+                        51.893943
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit",
+                  "text": "O biserică locală din Cork care oferă servicii comunității.",
+                  "category": "religious",
+                  "coords": [
+                        -8.508069,
+                        51.888339
+                  ]
+            },
+            {
+                  "name": "Trinity Presbyterian Church",
+                  "text": "Un lăcaș de cult prezbiterian situat în orașul Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465277,
+                        51.901864
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "O biserică catolică din Cork dedicată Sfintei Familii.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46038,
+                        51.904867
+                  ]
+            },
+            {
+                  "name": "Saint Francis Church",
+                  "text": "O biserică din Cork dedicată Sfântului Francisc, care deservește zona locală.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478597,
+                        51.89862
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "O biserică parohială din Cork dedicată Sfântului Iosif.",
+                  "category": "religious",
+                  "coords": [
+                        -8.448512,
+                        51.91006
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "O clădire religioasă din Cork care găzduiește slujbe regulate.",
+                  "category": "religious",
+                  "coords": [
+                        -8.484491,
+                        51.913488
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "O biserică din Cork dedicată Maicii Domnului a Rozariului.",
+                  "category": "religious",
+                  "coords": [
+                        -8.499735,
+                        51.898323
+                  ]
+            },
+            {
+                  "name": "South Gate Bridge",
+                  "text": "Unul dintre cele mai vechi poduri din Cork, care traversează brațul sudic al râului Lee.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.47613,
+                        51.895606
+                  ]
+            },
+            {
+                  "name": "Thomas Davis Bridge",
+                  "text": "Un pod din Cork numit după scriitorul și politicianul irlandez Thomas Davis.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.504854,
+                        51.895082
+                  ]
+            },
+            {
+                  "name": "Brian Ború Bridge",
+                  "text": "Un pod peste râul Lee din Cork, numit după Înaltul Rege al Irlandei.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465695,
+                        51.900149
+                  ]
+            },
+            {
+                  "name": "Clontarf Bridge",
+                  "text": "Un pod în orașul Cork care facilitează traficul peste râu.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465125,
+                        51.898023
+                  ]
+            },
+            {
+                  "name": "Parliament Bridge",
+                  "text": "Un pod de piatră din Cork care leagă centrul orașului de partea de sud.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.472487,
+                        51.895769
+                  ]
+            },
+            {
+                  "name": "Clarke's Bridge",
+                  "text": "Un pod istoric din Cork care oferă o rută peste apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.478938,
+                        51.896663
+                  ]
+            },
+            {
+                  "name": "The Counting House",
+                  "text": "Un muzeu din Cork care prezintă aspecte ale moștenirii industriale și comerciale locale.",
+                  "category": "museum",
+                  "coords": [
+                        -8.477429,
+                        51.896307
+                  ]
+            },
+            {
+                  "name": "Lifetime Lab",
+                  "text": "Un muzeu interactiv și centru științific situat la vechea uzină de apă din Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509857,
+                        51.895414
+                  ]
+            },
+            {
+                  "name": "Collins Barracks Military Museum",
+                  "text": "Un muzeu militar din Cork care detaliază istoria cazărmii și a armatei irlandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462274,
+                        51.907069
+                  ]
+            },
+            {
+                  "name": "Rosebank Park",
+                  "text": "O fortificație istorică din Cork cu vedere la zona înconjurătoare.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.450713,
+                        51.884245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cork Public Museum",
+                  "text": "Museum located in Fitzgerald Park covering the history of Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.494475,
+                        51.896293
+                  ]
+            },
+            {
+                  "name": "Glucksman Gallery",
+                  "text": "Contemporary art gallery located at University College Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.490274,
+                        51.89472
+                  ]
+            },
+            {
+                  "name": "The Butter Museum",
+                  "text": "Museum exploring the history of the famous Cork Butter Market.",
+                  "category": "museum",
+                  "coords": [
+                        -8.476925,
+                        51.902755
+                  ]
+            },
+            {
+                  "name": "Crawford Art Gallery",
+                  "text": "A significant public art gallery in the heart of Cork.",
+                  "category": "museum",
+                  "coords": [
+                        -8.473274,
+                        51.899846
+                  ]
+            },
+            {
+                  "name": "Elizabeth Fort",
+                  "text": "A 17th-century star-shaped fort with views over the city.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.478019,
+                        51.89454
+                  ]
+            },
+            {
+                  "name": "Father Matthew",
+                  "text": "Statue of the \"Apostle of Temperance\" on St. Patrick's Street.",
+                  "category": "historical",
+                  "coords": [
+                        -8.470583,
+                        51.900015
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "An imposing neoclassical city hall on the banks of the River Lee.",
+                  "category": "historical",
+                  "coords": [
+                        -8.465286,
+                        51.896893
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "Headquarters of the county council and once Ireland's tallest building.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508284,
+                        51.892653
+                  ]
+            },
+            {
+                  "name": "Everyman Palace Theatre",
+                  "text": "A Victorian-era theatre known for its beautiful interior.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.468497,
+                        51.901423
+                  ]
+            },
+            {
+                  "name": "Saint Luke's Church",
+                  "text": "A former church now used as a unique concert and arts venue.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.457059,
+                        51.904238
+                  ]
+            },
+            {
+                  "name": "Holy Trinity",
+                  "text": "A Gothic Revival church run by the Capuchin friars.",
+                  "category": "religious",
+                  "coords": [
+                        -8.470823,
+                        51.895888
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "A historic Dominican church and priory located in the heart of Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475017,
+                        51.901473
+                  ]
+            },
+            {
+                  "name": "Saints Peter and Paul's Catholic Church",
+                  "text": "A prominent Catholic church in Cork known for its Gothic Revival architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.474336,
+                        51.898924
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Mary and Saint Anne",
+                  "text": "The main Catholic cathedral of Cork, also known as the North Cathedral.",
+                  "category": "religious",
+                  "coords": [
+                        -8.476145,
+                        51.904712
+                  ]
+            },
+            {
+                  "name": "Saint Fin Barre's Cathedral",
+                  "text": "A magnificent Gothic Revival cathedral and one of Cork's most iconic landmarks.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.480495,
+                        51.894361
+                  ]
+            },
+            {
+                  "name": "English Market",
+                  "text": "A famous covered food market in Cork city centre, established in 1788.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.474291,
+                        51.897731
+                  ]
+            },
+            {
+                  "name": "Daly's Bridge",
+                  "text": "A pedestrian suspension bridge in Cork, commonly known as the Shakey Bridge.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.499191,
+                        51.896564
+                  ]
+            },
+            {
+                  "name": "Red Abbey Tower",
+                  "text": "The remains of a 14th-century Augustinian priory and the oldest structure in Cork.",
+                  "category": "tower",
+                  "coords": [
+                        -8.472358,
+                        51.894066
+                  ]
+            },
+            {
+                  "name": "Bishop Lucey Park",
+                  "text": "A tranquil green space in the center of Cork, featuring parts of the old city walls.",
+                  "category": "park",
+                  "coords": [
+                        -8.476058,
+                        51.897146
+                  ]
+            },
+            {
+                  "name": "Tramore Valley Park",
+                  "text": "A large public park on the south side of Cork, offering trails and sports facilities.",
+                  "category": "park",
+                  "coords": [
+                        -8.461075,
+                        51.878344
+                  ]
+            },
+            {
+                  "name": "Fitzgerald's Park",
+                  "text": "A beautiful public park home to the Cork Public Museum and various sculptures.",
+                  "category": "park",
+                  "coords": [
+                        -8.495864,
+                        51.895908
+                  ]
+            },
+            {
+                  "name": "Kennedy Park",
+                  "text": "A popular recreational park in Cork named after US President John F. Kennedy.",
+                  "category": "park",
+                  "coords": [
+                        -8.455594,
+                        51.895223
+                  ]
+            },
+            {
+                  "name": "Granary Theatre",
+                  "text": "A performing arts venue in Cork that hosts various theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.485192,
+                        51.896929
+                  ]
+            },
+            {
+                  "name": "SMA Church",
+                  "text": "A local place of worship in Cork serving the community.",
+                  "category": "religious",
+                  "coords": [
+                        -8.446367,
+                        51.893575
+                  ]
+            },
+            {
+                  "name": "Immaculate Conception",
+                  "text": "A Catholic church in Cork dedicated to the Immaculate Conception.",
+                  "category": "religious",
+                  "coords": [
+                        -8.485053,
+                        51.890629
+                  ]
+            },
+            {
+                  "name": "Church of the Ascension",
+                  "text": "A religious site in Cork providing a place for prayer and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -8.49172,
+                        51.904207
+                  ]
+            },
+            {
+                  "name": "Saint Mary's on the Hill Church",
+                  "text": "A community church in Cork providing spiritual services.",
+                  "category": "religious",
+                  "coords": [
+                        -8.50563,
+                        51.904032
+                  ]
+            },
+            {
+                  "name": "Saint Brendan's Church",
+                  "text": "A church in Cork dedicated to Saint Brendan, a patron saint of mariners.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46412,
+                        51.911403
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Catholic Church",
+                  "text": "A local Catholic parish church in Cork dedicated to Saint Patrick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.463624,
+                        51.901804
+                  ]
+            },
+            {
+                  "name": "Saint Oliver's Church",
+                  "text": "A modern Catholic church serving its local congregation in Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.459676,
+                        51.921058
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "A place of worship in Cork named after the Assumption of Mary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478667,
+                        51.883162
+                  ]
+            },
+            {
+                  "name": "Christ the King",
+                  "text": "A notable Catholic church in Cork with a distinctive modernist architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465812,
+                        51.887611
+                  ]
+            },
+            {
+                  "name": "Blackpool Church",
+                  "text": "A church located in the Blackpool area of Cork city.",
+                  "category": "religious",
+                  "coords": [
+                        -8.473952,
+                        51.911083
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Catholic church in Cork dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        -8.503732,
+                        51.893943
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Spirit",
+                  "text": "A local church in Cork providing services to the community.",
+                  "category": "religious",
+                  "coords": [
+                        -8.508069,
+                        51.888339
+                  ]
+            },
+            {
+                  "name": "Trinity Presbyterian Church",
+                  "text": "A Trinity Presbyterian place of worship located in the city of Cork.",
+                  "category": "religious",
+                  "coords": [
+                        -8.465277,
+                        51.901864
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "A Catholic church in Cork dedicated to the Holy Family.",
+                  "category": "religious",
+                  "coords": [
+                        -8.46038,
+                        51.904867
+                  ]
+            },
+            {
+                  "name": "Saint Francis Church",
+                  "text": "A church in Cork dedicated to Saint Francis, serving the local area.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478597,
+                        51.89862
+                  ]
+            },
+            {
+                  "name": "St. Joseph's Church",
+                  "text": "A parish church in Cork dedicated to Saint Joseph.",
+                  "category": "religious",
+                  "coords": [
+                        -8.448512,
+                        51.91006
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "A religious building in Cork hosting regular services.",
+                  "category": "religious",
+                  "coords": [
+                        -8.484491,
+                        51.913488
+                  ]
+            },
+            {
+                  "name": "Our Lady of the Rosary",
+                  "text": "A church in Cork dedicated to Our Lady of the Rosary.",
+                  "category": "religious",
+                  "coords": [
+                        -8.499735,
+                        51.898323
+                  ]
+            },
+            {
+                  "name": "South Gate Bridge",
+                  "text": "One of the oldest bridges in Cork, spanning the south channel of the River Lee.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.47613,
+                        51.895606
+                  ]
+            },
+            {
+                  "name": "Thomas Davis Bridge",
+                  "text": "A bridge in Cork named after the Irish writer and politician Thomas Davis.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.504854,
+                        51.895082
+                  ]
+            },
+            {
+                  "name": "Brian Boru Bridge",
+                  "text": "A bridge over the River Lee in Cork named after the High King of Ireland.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465695,
+                        51.900149
+                  ]
+            },
+            {
+                  "name": "Clontarf Bridge",
+                  "text": "A bridge in Cork city facilitating traffic over the river.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.465125,
+                        51.898023
+                  ]
+            },
+            {
+                  "name": "Parliament Bridge",
+                  "text": "A stone bridge in Cork connecting the city center to the south side.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.472487,
+                        51.895769
+                  ]
+            },
+            {
+                  "name": "Clarke's Bridge",
+                  "text": "A historic bridge in Cork providing a route across the water.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.478938,
+                        51.896663
+                  ]
+            },
+            {
+                  "name": "The Counting House",
+                  "text": "A museum in Cork showcasing aspects of local industrial and commercial heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -8.477429,
+                        51.896307
+                  ]
+            },
+            {
+                  "name": "Lifetime Lab",
+                  "text": "An interactive museum and science center located at the old Cork City Waterworks.",
+                  "category": "museum",
+                  "coords": [
+                        -8.509857,
+                        51.895414
+                  ]
+            },
+            {
+                  "name": "Collins Barracks Military Museum",
+                  "text": "A military museum in Cork detailing the history of the barracks and Irish army.",
+                  "category": "museum",
+                  "coords": [
+                        -8.462274,
+                        51.907069
+                  ]
+            },
+            {
+                  "name": "Rosebank Park",
+                  "text": "A historic fortification site in Cork with views of the surrounding area.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.450713,
+                        51.884245
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-8.4756, 51.8985],
@@ -211,6 +4009,411 @@ export const irelandCities: POI[] = [
                         -9.089255,
                         53.257103
                   ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "Ein geologisches Museum in Galway, das eine umfangreiche Sammlung von Fossilien und Mineralien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "Ein Museum in Galway, das die lokale Geschichte, Kultur und das Erbe der Stadt präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "Ein gut erhaltenes mittelalterliches Stadthaus in Galway, das einst einer mächtigen Familie gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "Das nationale irischsprachige Theater in Galway, ein Zentrum für gälische Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Ein dynamisches Theater in einem ehemaligen Rathausgebäude in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "Ein intimes Theater in Galway, das sich in einer ehemaligen presbyterianischen Kirche befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "Die größte mittelalterliche Pfarrkirche Irlands, die sich im Zentrum von Galway befindet.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "Eine Jesuitenkirche in Galway, bekannt für ihre Architektur und ihre zentrale Lage.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "Ein beliebter öffentlicher Park im Herzen von Galway, ein Ort für Entspannung und Denkmäler.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "Eine moderne Brücke über den Fluss Corrib in Galway, die wichtige Stadtteile verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Überreste eines historischen befestigten Hauses in Galway, benannt nach der Familie Blake.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "Eine archäologische Stätte in Galway, die die Überreste eines mittelalterlichen Gerichtsgebäudes zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "Ein vielseitiger Veranstaltungsort für Theater und Musik in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "Ein historisches Kirchengebäude in Galway, das die vereinte methodistisch-presbyterianische Gemeinde beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "Eine beeindruckende römisch-katholische Kathedrale in Galway mit einer markanten Steinkonstruktion.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "Eine katholische Garnisonskirche in Galway, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "Eine Friedhofskapelle in Galway, die für Trauergottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "Ein historisches Priorat in Galway, das der Religionsausübung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Eine christliche Gebetsstätte in Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "Ein historischer Leuchtturm auf Mutton Island vor der Küste von Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "Ein markanter Sprungturm am Meer, ein Wahrzeichen von Salthill in Galway.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "Eine Brücke über den Fluss Corrib im Stadtzentrum von Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "Ein markantes Eisenbahnviadukt am Lough Atalia in Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "Ein Museum der Universität Galway, das eine Vielzahl zoologischer Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "Ein Zentrum für zeitgenössische Kunst im Herzen von Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "Die Ruinen einer historischen Burg am Ufer des Flusses Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "Eine von Künstlern geführte Galerie und ein Projektraum in Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Ruinen einer ehemaligen industriellen Jodfabrik in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "Ein Denkmal zu Ehren des Heiligen Patrick in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "Eine Statue in Galway, die an Fr. Burke erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Historische Kirchenruinen in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "Ein historisches Denkmal in Galway, das das königliche Wappen von 1812 zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "Eine kleine architektonische Ruine in Galway, die als Folly bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Überreste einer alten Befestigungsanlage in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "Ein Theater in Galway, benannt nach der berühmten Schauspielerin Siobhan McKenna.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "Ein professionelles Theaterensemble in Galway, das mit Künstlern mit Behinderungen arbeitet.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "Ein Veranstaltungsort für Theater und Unterhaltung in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "Ein Kultur- und Kunstzentrum in Galway, das für Live-Events bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "Überreste der historischen Stadtmauer, die einst das mittelalterliche Galway schützte.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "Ein traditionelles Cottage, das das Erbe des Claddagh-Viertels in Galway bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "Ein Besucherzentrum in Galway, das für sein Porzellan und lokales Kunsthandwerk bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "Eine Brücke über den Corrib, bekannt für den Blick auf Lachsfischer.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Das nationale Aquarium Irlands in Galway mit vielfältigem Meeresleben.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "Ein familienfreundlicher Freizeitpark am Meer in Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "Ein beliebter Strand im Osten von Galway City.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
+                  ]
             }
       ],
       "hu": [
@@ -257,6 +4460,411 @@ export const irelandCities: POI[] = [
                   "coords": [
                         -9.089255,
                         53.257103
+                  ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "Geológiai múzeum Galway-ben, amely fosszíliák és ásványok gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "Galway városi múzeuma, amely a helyi történelmet, kultúrát és örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "Jó állapotban fennmaradt középkori városi ház Galway-ben, amely egykor egy hatalmas családé volt.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "Galway ír nyelvű nemzeti színháza, a kelta kultúra egyik központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Dinamikus színház Galway-ben, amely az egykori városháza épületében működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "Hangulatos színház Galway-ben, amely egy egykori presbiteriánus templomban kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "Írország legnagyobb középkori plébániatemploma Galway központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "Jezsuita templom Galway-ben, amely építészetéről és központi elhelyezkedéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "Népszerű közpark Galway szívében, pihenőhely és számos emlékmű otthona.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "Modern híd a Corrib folyón Galway-ben, amely fontos városrészeket köt össze.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Galway-i történelmi erődített ház maradványa, amely a Blake családról kapta nevét.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "Régészeti lelőhely Galway-ben, amely egy középkori bírósági épület maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "Sokoldalú színházi és zenei rendezvényhelyszín Galway-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "Történelmi templomépület Galway-ben, az egyesült metodista-presbiteriánus közösség otthona.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "Galway lenyűgöző római katolikus székesegyháza, amely jellegzetes kőépületéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "Galway katolikus helyőrségi temploma, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "Galway temetőkápolnája, amelyet gyászszertartásokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "Történelmi perjel ség Galwayben, amely vallási célokat szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Keresztény istentiszteleti hely Galway városában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "Történelmi világítótorony a Galway partjainál fekvő Mutton-szigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "Jellegzetes tengerparti ugrótorony, Galway Salthill negyedének jelképe.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "Híd a Corrib folyó felett Galway városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "Jellegzetes vasúti viadukt a galway-i Lough Atalia felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "A Galway-i Egyetem múzeuma, amely számos zoológiai kiállítást mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "Kortárs művészeti központ Galway szívében.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "Egy történelmi vár romjai a Corrib folyó partján.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "Művészek által vezetett galéria és projektközpont Galwayben.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Egy egykori galway-i ipari jódgyár romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "Szent Patrik tiszteletére emelt emlékmű Galwayben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "Fr. Burke emlékére állított szobor Galwayben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Történelmi templomromok Galway városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "Történelmi emlékmű Galwayben, amely az 1812-es királyi címert ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "Kisméretű építészeti rom Galwayben, amelyet „folly”-ként ismernek.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Egy régi erődítmény maradványai Galwayben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "Galway-i színház, amelyet a híres színésznőről, Siobhan McKennáról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "Galway-i professzionális színházi társulat, amely fogyatékkal élő művészekkel dolgozik.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "Színházi és szórakoztató központ Galwayben.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "Galway-i kulturális és művészeti központ, amely élő rendezvényeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "A történelmi városfal maradványai, amely egykor a középkori Galwayt védte.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "Hagyományos házikó, amely Galway Claddagh negyedének örökségét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "Látogatóközpont Galwayben, amely porcelánjáról és helyi kézműves termékeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "Híd a Corrib felett, amely a lazachalászok megfigyeléséről híres.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Írország nemzeti akváriuma Galwayben, gazdag tengeri élővilággal.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "Családbarát tengerparti vidámpark Galwayben.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "Népszerű tengerparti strand Galway városának keleti részén.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
                   ]
             }
       ],
@@ -305,6 +4913,411 @@ export const irelandCities: POI[] = [
                         -9.089255,
                         53.257103
                   ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "Un muzeu de geologie în Galway, care expune o colecție bogată de fosile și minerale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "Un muzeu din Galway care prezintă istoria locală, cultura și patrimoniul orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "O casă medievală bine conservată în Galway, care a aparținut odinioară unei familii puternice.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "Teatrul național de limbă irlandeză din Galway, un centru al culturii gaelice.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "Un teatru dinamic situat în clădirea fostei primării din Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "Un teatru intim din Galway situat într-o fostă biserică presbiteriană.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "Cea mai mare biserică parohială medievală din Irlanda, situată în centrul orașului Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "O biserică iezuită din Galway, cunoscută pentru arhitectura sa și locația centrală.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "Un parc public popular în inima orașului Galway, loc de relaxare și gazdă a mai multor monumente.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "Un pod modern peste râul Corrib în Galway, care leagă zone importante ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Rămășițele unei case fortificate istorice din Galway, numită după familia Blake.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "Un sit arheologic în Galway care prezintă rămășițele unei clădiri medievale de judecată.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "O locație versatilă pentru teatru și muzică în Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "O clădire istorică de biserică din Galway, care găzduiește comunitatea unită metodist-presbiteriană.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "O catedrală romano-catolică impresionantă în Galway, cunoscută pentru construcția sa din piatră.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "O biserică catolică de garnizoană din Galway, care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "O capelă de cimitir din Galway, utilizată pentru servicii funerare.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "Un priorat istoric din Galway, dedicat practicilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Un lăcaș de cult creștin situat în orașul Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "Un far istoric situat pe insula Mutton, în largul coastei orașului Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "Un turn de sărituri iconic la malul mării, un simbol al zonei Salthill din Galway.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "Un pod peste râul Corrib, situat în centrul orașului Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "Un viaduct feroviar distinctiv situat lângă Lough Atalia în Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "Un muzeu al Universității din Galway care prezintă o varietate de exponate zoologice.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "Un centru de artă contemporană situat în inima orașului Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "Ruinele unui castel istoric situat pe malul râului Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "O galerie condusă de artiști și un spațiu de proiecte în Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Ruinele unei foste fabrici industriale de iod din Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "Un monument ridicat în cinstea Sfântului Patrick în Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "O statuie din Galway care îl comemorează pe Fr. Burke.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Ruinele unei biserici istorice din Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "Un monument istoric din Galway care înfățișează blazonul regal din 1812.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "O mică ruină arhitecturală din Galway, cunoscută sub numele de „folly”.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Rămășițele unei vechi fortificații din Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "Un teatru din Galway numit după celebra actriță Siobhan McKenna.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "O companie de teatru profesionist din Galway care lucrează cu artiști cu dizabilități.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "Un loc pentru spectacole de teatru și divertisment în Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "Un centru cultural și de artă din Galway, cunoscut pentru evenimente live.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "Rămășițele zidului istoric al orașului, care proteja odinioară Galway-ul medieval.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "O căsuță tradițională care păstrează moștenirea cartierului Claddagh din Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "Un centru pentru vizitatori din Galway, cunoscut pentru porțelan și meșteșuguri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "Un pod peste Corrib, cunoscut pentru vederea asupra pescarilor de somon.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Acvariul național al Irlandei din Galway, care prezintă viața marină diversă.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "Un parc de distracții pentru familii, situat la malul mării în Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "O plajă populară situată în partea de est a orașului Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
+                  ]
             }
       ],
       "en": [
@@ -352,6 +5365,411 @@ export const irelandCities: POI[] = [
                         -9.089255,
                         53.257103
                   ]
+            },
+            {
+                  "name": "James Mitchell Geology Museum",
+                  "text": "A geology museum in Galway displaying an extensive collection of fossils and minerals.",
+                  "category": "museum",
+                  "coords": [
+                        -9.061715,
+                        53.27733
+                  ]
+            },
+            {
+                  "name": "Galway City Museum",
+                  "text": "A museum in Galway presenting the city's local history, culture, and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -9.053464,
+                        53.269815
+                  ]
+            },
+            {
+                  "name": "Lynch's Castle",
+                  "text": "A well-preserved medieval fortified house in Galway once belonging to a powerful family.",
+                  "category": "castle",
+                  "coords": [
+                        -9.052298,
+                        53.273133
+                  ]
+            },
+            {
+                  "name": "An Taibhdhearc",
+                  "text": "The national Irish-language theatre in Galway, a centre for Gaelic culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052539,
+                        53.271968
+                  ]
+            },
+            {
+                  "name": "Town Hall Theatre",
+                  "text": "A dynamic theatre located in a former town hall building in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.054028,
+                        53.276129
+                  ]
+            },
+            {
+                  "name": "Nun's Island Theatre",
+                  "text": "An intimate theatre in Galway located in a former Presbyterian chapel.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.057701,
+                        53.272247
+                  ]
+            },
+            {
+                  "name": "Church of Saint Nicholas",
+                  "text": "The largest medieval parish church in Ireland, located in the centre of Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.05369,
+                        53.272709
+                  ]
+            },
+            {
+                  "name": "Church of Saint Ignatius",
+                  "text": "A Jesuit church in Galway known for its architecture and central location.",
+                  "category": "religious",
+                  "coords": [
+                        -9.061638,
+                        53.269638
+                  ]
+            },
+            {
+                  "name": "Eyre Square",
+                  "text": "A popular public park in the heart of Galway, a place for relaxation and monuments.",
+                  "category": "park",
+                  "coords": [
+                        -9.049243,
+                        53.274353
+                  ]
+            },
+            {
+                  "name": "Quincentenary Bridge",
+                  "text": "A modern bridge over the River Corrib in Galway, connecting major parts of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.060697,
+                        53.282674
+                  ]
+            },
+            {
+                  "name": "Blake's Castle",
+                  "text": "Remains of a historical fortified house in Galway named after the Blake family.",
+                  "category": "castle",
+                  "coords": [
+                        -9.054563,
+                        53.270777
+                  ]
+            },
+            {
+                  "name": "Hall of the Red Earl",
+                  "text": "An archaeological site in Galway showing the remains of a medieval hall.",
+                  "category": "historical",
+                  "coords": [
+                        -9.053596,
+                        53.270905
+                  ]
+            },
+            {
+                  "name": "The Black Box",
+                  "text": "A versatile venue for theatre and music performances in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.052441,
+                        53.280398
+                  ]
+            },
+            {
+                  "name": "United Methodist Presbyterian Church",
+                  "text": "A historical church building in Galway housing the united Methodist-Presbyterian congregation.",
+                  "category": "religious",
+                  "coords": [
+                        -9.047913,
+                        53.272867
+                  ]
+            },
+            {
+                  "name": "Galway Cathedral",
+                  "text": "An impressive Roman Catholic cathedral in Galway featuring a distinctive stone construction.",
+                  "category": "religious",
+                  "coords": [
+                        -9.057594,
+                        53.275211
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Garrison Church",
+                  "text": "A Catholic garrison church in Galway serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -9.029372,
+                        53.272993
+                  ]
+            },
+            {
+                  "name": "Bohermore Cemetery Chapel",
+                  "text": "A cemetery chapel in Galway used for funeral services.",
+                  "category": "religious",
+                  "coords": [
+                        -9.039149,
+                        53.281026
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Priory",
+                  "text": "A historic priory in Galway dedicated to religious worship.",
+                  "category": "religious",
+                  "coords": [
+                        -9.056023,
+                        53.268502
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "A Christian place of worship located in the city of Galway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.060567,
+                        53.273385
+                  ]
+            },
+            {
+                  "name": "Mutton Island Lighthouse",
+                  "text": "A historic lighthouse situated on Mutton Island off the Galway coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.053537,
+                        53.254061
+                  ]
+            },
+            {
+                  "name": "Blackrock Diving Tower",
+                  "text": "An iconic seaside diving tower and a landmark of Salthill in Galway.",
+                  "category": "tower",
+                  "coords": [
+                        -9.092247,
+                        53.256236
+                  ]
+            },
+            {
+                  "name": "William O'Brien Bridge",
+                  "text": "A bridge crossing the River Corrib in the heart of Galway city.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.05598,
+                        53.271716
+                  ]
+            },
+            {
+                  "name": "Lough Atalia Viaduct",
+                  "text": "A distinctive railway viaduct spanning near Lough Atalia in Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.04308,
+                        53.272164
+                  ]
+            },
+            {
+                  "name": "Zoology Museum",
+                  "text": "A museum at the University of Galway displaying a variety of zoological exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -9.059427,
+                        53.277535
+                  ]
+            },
+            {
+                  "name": "Galway Arts Centre",
+                  "text": "A centre for contemporary art located in the heart of Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.057182,
+                        53.27091
+                  ]
+            },
+            {
+                  "name": "Terryland Castle",
+                  "text": "The ruins of a historic castle located on the banks of the River Corrib.",
+                  "category": "castle",
+                  "coords": [
+                        -9.059518,
+                        53.283105
+                  ]
+            },
+            {
+                  "name": "126 Artist-Run Gallery",
+                  "text": "An artist-run gallery and project space located in Galway.",
+                  "category": "museum",
+                  "coords": [
+                        -9.049373,
+                        53.277291
+                  ]
+            },
+            {
+                  "name": "Iodine Factory",
+                  "text": "Ruins of a former industrial iodine factory in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.061039,
+                        53.289448
+                  ]
+            },
+            {
+                  "name": "Saint Patrick",
+                  "text": "A monument dedicated to Saint Patrick in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.063687,
+                        53.277195
+                  ]
+            },
+            {
+                  "name": "Fr Burke Statue",
+                  "text": "A statue in Galway commemorating Fr. Burke.",
+                  "category": "historical",
+                  "coords": [
+                        -9.056732,
+                        53.269432
+                  ]
+            },
+            {
+                  "name": "Saint James' Church",
+                  "text": "Historical church ruins located in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.016842,
+                        53.279443
+                  ]
+            },
+            {
+                  "name": "Royal Coat of Arms 1812",
+                  "text": "A historic monument in Galway featuring the Royal Coat of Arms from 1812.",
+                  "category": "historical",
+                  "coords": [
+                        -9.062735,
+                        53.277617
+                  ]
+            },
+            {
+                  "name": "Tea House Folly",
+                  "text": "A small architectural ruin in Galway known as a folly.",
+                  "category": "historical",
+                  "coords": [
+                        -9.072244,
+                        53.294209
+                  ]
+            },
+            {
+                  "name": "Old Fort",
+                  "text": "Remains of an old fortification in Galway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.03266,
+                        53.268734
+                  ]
+            },
+            {
+                  "name": "Siobhan McKenna Theatre",
+                  "text": "A theatre in Galway named after the famous actress Siobhan McKenna.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.063026,
+                        53.279365
+                  ]
+            },
+            {
+                  "name": "Blue Teapot Theatre",
+                  "text": "A professional theatre company in Galway working with artists with disabilities.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.059311,
+                        53.26972
+                  ]
+            },
+            {
+                  "name": "Leisureland Theatre",
+                  "text": "A venue for theatre and entertainment located in Galway.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.082272,
+                        53.259262
+                  ]
+            },
+            {
+                  "name": "The Black Gate",
+                  "text": "A cultural and arts centre in Galway known for live events.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.053248,
+                        53.274848
+                  ]
+            },
+            {
+                  "name": "Old city wall",
+                  "text": "Remains of the historic city wall that once protected medieval Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.050601,
+                        53.273524
+                  ]
+            },
+            {
+                  "name": "Katie's Claddagh Cottage",
+                  "text": "A traditional cottage preserving the heritage of the Claddagh area in Galway.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.057499,
+                        53.266427
+                  ]
+            },
+            {
+                  "name": "Royal Tara Visitor Centre",
+                  "text": "A visitor centre in Galway known for its china and local crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.019828,
+                        53.2853
+                  ]
+            },
+            {
+                  "name": "Salmon Weir Bridge",
+                  "text": "A bridge over the Corrib known for views of salmon fishing.",
+                  "category": "natural",
+                  "coords": [
+                        -9.056,
+                        53.275542
+                  ]
+            },
+            {
+                  "name": "Galway Atlantaquaria",
+                  "text": "Ireland's national aquarium in Galway showcasing diverse marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.074087,
+                        53.260051
+                  ]
+            },
+            {
+                  "name": "Curry's Fun Park",
+                  "text": "A family-friendly seaside amusement park in Galway.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.083956,
+                        53.258845
+                  ]
+            },
+            {
+                  "name": "Ballyloughane Beach",
+                  "text": "A popular beach located in the eastern part of Galway City.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.019064,
+                        53.269618
+                  ]
             }
       ]
 },
@@ -398,7 +5816,1096 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-limerick",
+    id: "city-limerick", "sights": {
+      "de": [
+            {
+                  "name": "Hunt Museum",
+                  "text": "Ein Museum in Limerick, das eine persönliche Sammlung von Antiquitäten und Kunst beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624395,
+                        52.666274
+                  ]
+            },
+            {
+                  "name": "Limerick Museum",
+                  "text": "Ein Museum in der Stadt Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.628878,
+                        52.664138
+                  ]
+            },
+            {
+                  "name": "Fanning's Castle",
+                  "text": "Die Überreste einer mittelalterlichen Burg in Limerick.",
+                  "category": "castle",
+                  "coords": [
+                        -8.621976,
+                        52.667308
+                  ]
+            },
+            {
+                  "name": "Lime Tree Theatre",
+                  "text": "Ein Theater in der Stadt Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.642257,
+                        52.653532
+                  ]
+            },
+            {
+                  "name": "Leamy House",
+                  "text": "Ein Museum in Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.630611,
+                        52.658724
+                  ]
+            },
+            {
+                  "name": "Dance Limerick",
+                  "text": "Ein Theater und Veranstaltungsort in Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.618245,
+                        52.663421
+                  ]
+            },
+            {
+                  "name": "King John's Visitor's Centre",
+                  "text": "Ein Museum und Besucherzentrum in Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624883,
+                        52.669515
+                  ]
+            },
+            {
+                  "name": "Site of Cromwelll's Fort",
+                  "text": "Die Stätte eines historischen Forts in Limerick.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.627515,
+                        52.676588
+                  ]
+            },
+            {
+                  "name": "Sarsfield",
+                  "text": "Ein Denkmal in der Stadt Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.618138,
+                        52.662082
+                  ]
+            },
+            {
+                  "name": "Heritage Fountain",
+                  "text": "Ein Denkmal in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.625451,
+                        52.668301
+                  ]
+            },
+            {
+                  "name": "The Belltable",
+                  "text": "Ein Kunstzentrum in der Stadt Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.630813,
+                        52.659669
+                  ]
+            },
+            {
+                  "name": "Rice Memorial",
+                  "text": "Ein Denkmal in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.628438,
+                        52.658141
+                  ]
+            },
+            {
+                  "name": "Ormston House Art Gallery",
+                  "text": "Eine Kunstgalerie in Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625051,
+                        52.664961
+                  ]
+            },
+            {
+                  "name": "O' Connell Monument",
+                  "text": "Ein Denkmal in der Stadt Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.631782,
+                        52.658923
+                  ]
+            },
+            {
+                  "name": "Richard Harris Memorial",
+                  "text": "Ein Denkmal in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627791,
+                        52.66344
+                  ]
+            },
+            {
+                  "name": "Bourke House",
+                  "text": "Eine Attraktion in Limerick.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.622251,
+                        52.66827
+                  ]
+            },
+            {
+                  "name": "The Dock Clock",
+                  "text": "The Dock Clock ist eine Attraktion in Limerick.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.638842,
+                        52.659612
+                  ]
+            },
+            {
+                  "name": "Potato Market Car Park",
+                  "text": "Der Potato Market Car Park ist ein Denkmal in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.624346,
+                        52.667309
+                  ]
+            },
+            {
+                  "name": "Augustine Priory of St Peter",
+                  "text": "Die Augustine Priory of St Peter ist ein religiöses Denkmal in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622227,
+                        52.669524
+                  ]
+            },
+            {
+                  "name": "Thomond Bridge",
+                  "text": "Die Thomond Bridge ist ein anerkanntes Denkmal in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627258,
+                        52.6701
+                  ]
+            },
+            {
+                  "name": "Baal's Bridge",
+                  "text": "Baal's Bridge ist ein historisches Denkmal in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620141,
+                        52.666343
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Die Saint Mary's Cathedral ist eine markante Kirche in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623509,
+                        52.668264
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Die Saint Mary's Church ist eine lokale Kultstätte in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.620452,
+                        52.669241
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "Saint Michael's ist eine Kultstätte in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623984,
+                        52.663909
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "Die Saint Saviour's Church dient als Kultstätte in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.627104,
+                        52.660292
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "Die Holy Rosary Church ist eine religiöse Stätte und Kultstätte in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.643614,
+                        52.666185
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Saint Joseph's ist eine ausgewiesene Kultstätte in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.6321,
+                        52.657775
+                  ]
+            },
+            {
+                  "name": "St Patricks Church",
+                  "text": "Die St Patricks Church ist eine Kultstätte in der Stadt Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.610213,
+                        52.665509
+                  ]
+            },
+            {
+                  "name": "St Michael's (Limerick City Parish)",
+                  "text": "St Michael's (Limerick City Parish) ist eine zentrale Kultstätte in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630073,
+                        52.657691
+                  ]
+            },
+            {
+                  "name": "Kilrush Church",
+                  "text": "Die Kilrush Church ist eine historische Kirchenruine in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.655054,
+                        52.660863
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hunt Museum",
+                  "text": "Limerick egyik múzeuma, amely egy személyes régiség- és művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624395,
+                        52.666274
+                  ]
+            },
+            {
+                  "name": "Limerick Museum",
+                  "text": "Egy múzeum Limerick városában.",
+                  "category": "museum",
+                  "coords": [
+                        -8.628878,
+                        52.664138
+                  ]
+            },
+            {
+                  "name": "Fanning's Castle",
+                  "text": "Egy középkori kastély maradványai Limerickben.",
+                  "category": "castle",
+                  "coords": [
+                        -8.621976,
+                        52.667308
+                  ]
+            },
+            {
+                  "name": "Lime Tree Theatre",
+                  "text": "Egy színház Limerick városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.642257,
+                        52.653532
+                  ]
+            },
+            {
+                  "name": "Leamy House",
+                  "text": "Egy múzeum Limerickben.",
+                  "category": "museum",
+                  "coords": [
+                        -8.630611,
+                        52.658724
+                  ]
+            },
+            {
+                  "name": "Dance Limerick",
+                  "text": "Színház és rendezvényhelyszín Limerickben.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.618245,
+                        52.663421
+                  ]
+            },
+            {
+                  "name": "King John's Visitor's Centre",
+                  "text": "Látogatóközpont és múzeum Limerickben.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624883,
+                        52.669515
+                  ]
+            },
+            {
+                  "name": "Site of Cromwelll's Fort",
+                  "text": "Egy történelmi erőd helyszíne Limerickben.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.627515,
+                        52.676588
+                  ]
+            },
+            {
+                  "name": "Sarsfield",
+                  "text": "Egy emlékmű Limerick városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.618138,
+                        52.662082
+                  ]
+            },
+            {
+                  "name": "Heritage Fountain",
+                  "text": "Egy emlékmű Limerickben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.625451,
+                        52.668301
+                  ]
+            },
+            {
+                  "name": "The Belltable",
+                  "text": "Művészeti központ Limerick városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.630813,
+                        52.659669
+                  ]
+            },
+            {
+                  "name": "Rice Memorial",
+                  "text": "Egy emlékmű Limerickben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.628438,
+                        52.658141
+                  ]
+            },
+            {
+                  "name": "Ormston House Art Gallery",
+                  "text": "Egy művészeti galéria Limerickben.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625051,
+                        52.664961
+                  ]
+            },
+            {
+                  "name": "O' Connell Monument",
+                  "text": "Egy emlékmű Limerick városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.631782,
+                        52.658923
+                  ]
+            },
+            {
+                  "name": "Richard Harris Memorial",
+                  "text": "Egy emlékmű Limerickben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627791,
+                        52.66344
+                  ]
+            },
+            {
+                  "name": "Bourke House",
+                  "text": "Egy látványosság Limerickben.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.622251,
+                        52.66827
+                  ]
+            },
+            {
+                  "name": "The Dock Clock",
+                  "text": "A The Dock Clock egy látványosság Limerick városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.638842,
+                        52.659612
+                  ]
+            },
+            {
+                  "name": "Potato Market Car Park",
+                  "text": "A Potato Market Car Park egy emlékműként nyilvántartott helyszín Limerickben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.624346,
+                        52.667309
+                  ]
+            },
+            {
+                  "name": "Augustine Priory of St Peter",
+                  "text": "Az Augustine Priory of St Peter egy vallási műemlék Limerickben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622227,
+                        52.669524
+                  ]
+            },
+            {
+                  "name": "Thomond Bridge",
+                  "text": "A Thomond Bridge egy elismert műemlék Limerickben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627258,
+                        52.6701
+                  ]
+            },
+            {
+                  "name": "Baal's Bridge",
+                  "text": "A Baal's Bridge egy történelmi műemlék Limerickben.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620141,
+                        52.666343
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "A Saint Mary's Cathedral egy kiemelkedő templom Limerickben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623509,
+                        52.668264
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A Saint Mary's Church egy helyi istentiszteleti hely Limerickben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.620452,
+                        52.669241
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "A Saint Michael's egy istentiszteleti hely Limerick városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623984,
+                        52.663909
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "A Saint Saviour's Church istentiszteleti helyként szolgál Limerickben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.627104,
+                        52.660292
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "A Holy Rosary Church egy vallási helyszín és istentiszteleti hely Limerickben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.643614,
+                        52.666185
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "A Saint Joseph's egy kijelölt istentiszteleti hely Limerick városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.6321,
+                        52.657775
+                  ]
+            },
+            {
+                  "name": "St Patricks Church",
+                  "text": "A St Patricks Church egy istentiszteleti hely Limerick városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.610213,
+                        52.665509
+                  ]
+            },
+            {
+                  "name": "St Michael's (Limerick City Parish)",
+                  "text": "A St Michael's (Limerick City Parish) egy központi istentiszteleti hely Limerickben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630073,
+                        52.657691
+                  ]
+            },
+            {
+                  "name": "Kilrush Church",
+                  "text": "A Kilrush Church egy történelmi templomrom Limerickben.",
+                  "category": "religious",
+                  "coords": [
+                        -8.655054,
+                        52.660863
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hunt Museum",
+                  "text": "Un muzeu din Limerick care găzduiește o colecție personală de antichități și artă.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624395,
+                        52.666274
+                  ]
+            },
+            {
+                  "name": "Limerick Museum",
+                  "text": "Un muzeu situat în orașul Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.628878,
+                        52.664138
+                  ]
+            },
+            {
+                  "name": "Fanning's Castle",
+                  "text": "Rămășițele unui castel medieval situat în Limerick.",
+                  "category": "castle",
+                  "coords": [
+                        -8.621976,
+                        52.667308
+                  ]
+            },
+            {
+                  "name": "Lime Tree Theatre",
+                  "text": "Un teatru situat în orașul Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.642257,
+                        52.653532
+                  ]
+            },
+            {
+                  "name": "Leamy House",
+                  "text": "Un muzeu situat în Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.630611,
+                        52.658724
+                  ]
+            },
+            {
+                  "name": "Dance Limerick",
+                  "text": "Un teatru și un loc de evenimente situat în Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.618245,
+                        52.663421
+                  ]
+            },
+            {
+                  "name": "King John's Visitor's Centre",
+                  "text": "Un muzeu și un centru de vizitatori situat în Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624883,
+                        52.669515
+                  ]
+            },
+            {
+                  "name": "Site of Cromwelll's Fort",
+                  "text": "Locul unui fort istoric situat în Limerick.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.627515,
+                        52.676588
+                  ]
+            },
+            {
+                  "name": "Sarsfield",
+                  "text": "Un monument situat în orașul Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.618138,
+                        52.662082
+                  ]
+            },
+            {
+                  "name": "Heritage Fountain",
+                  "text": "Un monument situat în Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.625451,
+                        52.668301
+                  ]
+            },
+            {
+                  "name": "The Belltable",
+                  "text": "Un centru de arte situat în orașul Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.630813,
+                        52.659669
+                  ]
+            },
+            {
+                  "name": "Rice Memorial",
+                  "text": "Un monument situat în Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.628438,
+                        52.658141
+                  ]
+            },
+            {
+                  "name": "Ormston House Art Gallery",
+                  "text": "O galerie de artă situată în Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625051,
+                        52.664961
+                  ]
+            },
+            {
+                  "name": "O' Connell Monument",
+                  "text": "Un monument situat în orașul Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.631782,
+                        52.658923
+                  ]
+            },
+            {
+                  "name": "Richard Harris Memorial",
+                  "text": "Un monument situat în Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627791,
+                        52.66344
+                  ]
+            },
+            {
+                  "name": "Bourke House",
+                  "text": "O atracție situată în Limerick.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.622251,
+                        52.66827
+                  ]
+            },
+            {
+                  "name": "The Dock Clock",
+                  "text": "The Dock Clock este o atracție situată în Limerick.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.638842,
+                        52.659612
+                  ]
+            },
+            {
+                  "name": "Potato Market Car Park",
+                  "text": "Potato Market Car Park este un monument situat în Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.624346,
+                        52.667309
+                  ]
+            },
+            {
+                  "name": "Augustine Priory of St Peter",
+                  "text": "Augustine Priory of St Peter este un monument religios din Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622227,
+                        52.669524
+                  ]
+            },
+            {
+                  "name": "Thomond Bridge",
+                  "text": "Thomond Bridge este un monument recunoscut din Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627258,
+                        52.6701
+                  ]
+            },
+            {
+                  "name": "Baal's Bridge",
+                  "text": "Baal's Bridge este un monument istoric din Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620141,
+                        52.666343
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Saint Mary's Cathedral este o biserică proeminentă din Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623509,
+                        52.668264
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Saint Mary's Church este un lăcaș de cult local din Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.620452,
+                        52.669241
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "Saint Michael's este un lăcaș de cult situat în Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623984,
+                        52.663909
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "Saint Saviour's Church servește drept lăcaș de cult în Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.627104,
+                        52.660292
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "Holy Rosary Church este un sit religios și un lăcaș de cult din Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.643614,
+                        52.666185
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Saint Joseph's este un lăcaș de cult desemnat în Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.6321,
+                        52.657775
+                  ]
+            },
+            {
+                  "name": "St Patricks Church",
+                  "text": "St Patricks Church este un lăcaș de cult situat în orașul Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.610213,
+                        52.665509
+                  ]
+            },
+            {
+                  "name": "St Michael's (Limerick City Parish)",
+                  "text": "St Michael's (Limerick City Parish) este un lăcaș de cult central din Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630073,
+                        52.657691
+                  ]
+            },
+            {
+                  "name": "Kilrush Church",
+                  "text": "Kilrush Church este o ruină istorică a unei biserici din Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.655054,
+                        52.660863
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hunt Museum",
+                  "text": "A museum in Limerick housing a personal collection of antiquities and art.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624395,
+                        52.666274
+                  ]
+            },
+            {
+                  "name": "Limerick Museum",
+                  "text": "A museum situated in the city of Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.628878,
+                        52.664138
+                  ]
+            },
+            {
+                  "name": "Fanning's Castle",
+                  "text": "The remains of a medieval castle located in Limerick.",
+                  "category": "castle",
+                  "coords": [
+                        -8.621976,
+                        52.667308
+                  ]
+            },
+            {
+                  "name": "Lime Tree Theatre",
+                  "text": "A theatre situated in the city of Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.642257,
+                        52.653532
+                  ]
+            },
+            {
+                  "name": "Leamy House",
+                  "text": "A museum located in Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.630611,
+                        52.658724
+                  ]
+            },
+            {
+                  "name": "Dance Limerick",
+                  "text": "A theatre and venue situated in Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.618245,
+                        52.663421
+                  ]
+            },
+            {
+                  "name": "King John's Visitor's Centre",
+                  "text": "A museum and visitor centre located in Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.624883,
+                        52.669515
+                  ]
+            },
+            {
+                  "name": "Site of Cromwelll's Fort",
+                  "text": "The site of a historical fort situated in Limerick.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.627515,
+                        52.676588
+                  ]
+            },
+            {
+                  "name": "Sarsfield",
+                  "text": "A monument situated in the city of Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.618138,
+                        52.662082
+                  ]
+            },
+            {
+                  "name": "Heritage Fountain",
+                  "text": "A monument located in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.625451,
+                        52.668301
+                  ]
+            },
+            {
+                  "name": "The Belltable",
+                  "text": "An arts centre situated in the city of Limerick.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.630813,
+                        52.659669
+                  ]
+            },
+            {
+                  "name": "Rice Memorial",
+                  "text": "A monument situated in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.628438,
+                        52.658141
+                  ]
+            },
+            {
+                  "name": "Ormston House Art Gallery",
+                  "text": "An art gallery located in Limerick.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625051,
+                        52.664961
+                  ]
+            },
+            {
+                  "name": "O' Connell Monument",
+                  "text": "A monument situated in the city of Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.631782,
+                        52.658923
+                  ]
+            },
+            {
+                  "name": "Richard Harris Memorial",
+                  "text": "A monument located in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627791,
+                        52.66344
+                  ]
+            },
+            {
+                  "name": "Bourke House",
+                  "text": "An attraction situated in Limerick.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.622251,
+                        52.66827
+                  ]
+            },
+            {
+                  "name": "The Dock Clock",
+                  "text": "The Dock Clock is an attraction located in Limerick.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.638842,
+                        52.659612
+                  ]
+            },
+            {
+                  "name": "Potato Market Car Park",
+                  "text": "The Potato Market Car Park is a monument space located in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.624346,
+                        52.667309
+                  ]
+            },
+            {
+                  "name": "Augustine Priory of St Peter",
+                  "text": "The Augustine Priory of St Peter is a religious monument located in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.622227,
+                        52.669524
+                  ]
+            },
+            {
+                  "name": "Thomond Bridge",
+                  "text": "Thomond Bridge is a recognized monument crossing the river in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.627258,
+                        52.6701
+                  ]
+            },
+            {
+                  "name": "Baal's Bridge",
+                  "text": "Baal's Bridge is a historical monument located in Limerick.",
+                  "category": "historical",
+                  "coords": [
+                        -8.620141,
+                        52.666343
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Saint Mary's Cathedral is a prominent church located in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623509,
+                        52.668264
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Saint Mary's Church is a local place of worship in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.620452,
+                        52.669241
+                  ]
+            },
+            {
+                  "name": "Saint Michael's",
+                  "text": "Saint Michael's is a place of worship situated in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.623984,
+                        52.663909
+                  ]
+            },
+            {
+                  "name": "Saint Saviour's Church",
+                  "text": "Saint Saviour's Church serves as a place of worship in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.627104,
+                        52.660292
+                  ]
+            },
+            {
+                  "name": "Holy Rosary Church",
+                  "text": "Holy Rosary Church is a religious site and place of worship in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.643614,
+                        52.666185
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's",
+                  "text": "Saint Joseph's is a designated place of worship situated in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.6321,
+                        52.657775
+                  ]
+            },
+            {
+                  "name": "St Patricks Church",
+                  "text": "St Patricks Church is a place of worship located in the city of Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.610213,
+                        52.665509
+                  ]
+            },
+            {
+                  "name": "St Michael's (Limerick City Parish)",
+                  "text": "St Michael's (Limerick City Parish) is a central place of worship in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630073,
+                        52.657691
+                  ]
+            },
+            {
+                  "name": "Kilrush Church",
+                  "text": "Kilrush Church is a historic church ruin located in Limerick.",
+                  "category": "religious",
+                  "coords": [
+                        -8.655054,
+                        52.660863
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-8.6305, 52.6638],
@@ -442,7 +6949,1888 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-belfast",
+    id: "city-belfast", "sights": {
+      "de": [
+            {
+                  "name": "Ulster Museum",
+                  "text": "Das größte Museum Nordirlands mit Sammlungen zu Kunst, Geschichte und Naturwissenschaften.",
+                  "category": "museum",
+                  "coords": [
+                        -5.935348,
+                        54.582313
+                  ]
+            },
+            {
+                  "name": "Crumlin Road Gaol",
+                  "text": "Ein historisches ehemaliges Gefängnis in Belfast, das heute als Museum und Besucherattraktion dient.",
+                  "category": "museum",
+                  "coords": [
+                        -5.942189,
+                        54.609538
+                  ]
+            },
+            {
+                  "name": "Titanic Memorial",
+                  "text": "Ein Denkmal in Belfast, das den Opfern des Untergangs der RMS Titanic gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -5.92899,
+                        54.596705
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Monument",
+                  "text": "Eine Statue in Belfast zu Ehren von Königin Victoria, die sich vor dem Rathaus befindet.",
+                  "category": "historical",
+                  "coords": [
+                        -5.930096,
+                        54.596941
+                  ]
+            },
+            {
+                  "name": "Lyric Theatre",
+                  "text": "Ein führendes Theater in Belfast, das für sein Engagement für neue irische Dramatik bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930884,
+                        54.577153
+                  ]
+            },
+            {
+                  "name": "Ulster Hall",
+                  "text": "Eine historische Konzerthalle und ein Wahrzeichen in Belfast, bekannt für große Musikveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930517,
+                        54.594632
+                  ]
+            },
+            {
+                  "name": "Grand Opera House",
+                  "text": "Ein prachtvolles viktorianisches Theater in Belfast, entworfen vom renommierten Architekten Frank Matcham.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935239,
+                        54.595386
+                  ]
+            },
+            {
+                  "name": "Belfast Waterfront Conference and Exhibition Centre",
+                  "text": "Ein bedeutender Veranstaltungs- und Konferenzort in Belfast am Fluss Lagan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.91967,
+                        54.597508
+                  ]
+            },
+            {
+                  "name": "Crescent Arts Centre",
+                  "text": "Ein multidisziplinäres Gemeinschaftszentrum für Kunst in einem historischen viktorianischen Gebäude in Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935028,
+                        54.587883
+                  ]
+            },
+            {
+                  "name": "Cultúrlann McAdam Ó Fiaich",
+                  "text": "Ein Kunst- und Kulturzentrum für die irische Sprache im Herzen von West-Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.961061,
+                        54.592156
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "Eine schöne katholische Kirche in Belfast, bekannt für ihr einzigartiges Mauerwerk im Tudor-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        -5.9268,
+                        54.594267
+                  ]
+            },
+            {
+                  "name": "St George's Church",
+                  "text": "Das älteste Kirchengebäude der Church of Ireland in Belfast, gelegen in der High Street.",
+                  "category": "religious",
+                  "coords": [
+                        -5.924914,
+                        54.600047
+                  ]
+            },
+            {
+                  "name": "St Peter's Cathedral",
+                  "text": "Die St Peter's Cathedral ist die römisch-katholische Hauptkirche von Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.944451,
+                        54.598996
+                  ]
+            },
+            {
+                  "name": "Saint Anne's Cathedral",
+                  "text": "Die St. Anne's Cathedral ist eine bedeutende anglikanische Kathedrale im Herzen von Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.928643,
+                        54.602773
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Diese historische katholische Kirche in Belfast ist dem heiligen Patrick gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        -5.931497,
+                        54.605225
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "Die St Thomas' Church ist ein historisches Kirchengebäude in Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.945748,
+                        54.58194
+                  ]
+            },
+            {
+                  "name": "Titanic Belfast Museum",
+                  "text": "Das Titanic Belfast ist ein modernes Museum am Geburtsort des berühmten Schiffes.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.909875,
+                        54.608125
+                  ]
+            },
+            {
+                  "name": "Saint George's Market",
+                  "text": "Der St George's Market ist ein historischer überdachter Markt aus der viktorianischen Ära.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922017,
+                        54.595888
+                  ]
+            },
+            {
+                  "name": "Divis Tower",
+                  "text": "Der Divis Tower ist ein markantes Wohnhochhaus und ein Wahrzeichen im Westen von Belfast.",
+                  "category": "tower",
+                  "coords": [
+                        -5.942158,
+                        54.599986
+                  ]
+            },
+            {
+                  "name": "HMS Caroline",
+                  "text": "Die HMS Caroline ist ein stillgelegter leichter Kreuzer aus dem Ersten Weltkrieg, der heute als Museumsschiff dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.902594,
+                        54.613886
+                  ]
+            },
+            {
+                  "name": "SS Nomadic",
+                  "text": "Die SS Nomadic ist das letzte erhaltene Schiff der White Star Line und diente als Tender für die Titanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.911149,
+                        54.606356
+                  ]
+            },
+            {
+                  "name": "Albert Bridge",
+                  "text": "Die Albert Bridge ist eine bedeutende Straßenbrücke, die den Fluss Lagan in Belfast überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.912991,
+                        54.595807
+                  ]
+            },
+            {
+                  "name": "Queen's Bridge",
+                  "text": "Die Queen's Bridge ist eine der zentralen Brücken über den Lagan in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920424,
+                        54.599674
+                  ]
+            },
+            {
+                  "name": "Lagan Weir Footbridge",
+                  "text": "Die Lagan Weir Footbridge ist eine Fußgängerbrücke am Lagan-Wehr mit Blick auf die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920444,
+                        54.601187
+                  ]
+            },
+            {
+                  "name": "Ormeau Park",
+                  "text": "Der Ormeau Park ist der älteste und einer der größten öffentlichen Parks in Belfast.",
+                  "category": "park",
+                  "coords": [
+                        -5.916053,
+                        54.5855
+                  ]
+            },
+            {
+                  "name": "Botanic Gardens",
+                  "text": "Die Botanischen Gärten von Belfast beherbergen das berühmte viktorianische Palmenhaus.",
+                  "category": "park",
+                  "coords": [
+                        -5.932349,
+                        54.580615
+                  ]
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "Der Alexandra Park ist eine Grünanlage im Norden von Belfast, die für ihre Friedensmauer bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -5.932523,
+                        54.618719
+                  ]
+            },
+            {
+                  "name": "SSE Arena",
+                  "text": "Die SSE Arena ist ein großes Veranstaltungszentrum für Konzerte und Sportevents in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.91428,
+                        54.603789
+                  ]
+            },
+            {
+                  "name": "Royal Ulster Rifles Museum",
+                  "text": "Das Royal Ulster Rifles Museum widmet sich der Geschichte dieses berühmten nordirischen Regiments.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927083,
+                        54.600813
+                  ]
+            },
+            {
+                  "name": "Lord Dufferin Monument",
+                  "text": "Dieses Denkmal vor dem Rathaus erinnert an Lord Dufferin, einen bedeutenden Diplomaten.",
+                  "category": "historical",
+                  "coords": [
+                        -5.931181,
+                        54.596375
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "Die St Mary's Church ist die älteste katholische Kirche im Stadtzentrum von Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.933287,
+                        54.599737
+                  ]
+            },
+            {
+                  "name": "Palm House",
+                  "text": "Das Palm House ist ein elegantes Gewächshaus aus Glas und Eisen in den Botanischen Gärten.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.933697,
+                        54.583559
+                  ]
+            },
+            {
+                  "name": "The Belfast Barge",
+                  "text": "Die Belfast Barge ist ein schwimmendes Museum, das die maritime Geschichte der Stadt präsentiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920552,
+                        54.598657
+                  ]
+            },
+            {
+                  "name": "Lagan Bridge",
+                  "text": "Die Lagan Bridge ist eine der Brücken, die den gleichnamigen Fluss in Belfast überqueren.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.921061,
+                        54.604481
+                  ]
+            },
+            {
+                  "name": "King's Bridge",
+                  "text": "Die King's Bridge ist eine Straßenbrücke über den Fluss Lagan in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.928511,
+                        54.57727
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "Die Governor's Bridge verbindet wichtige Stadtteile über den Fluss Lagan.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.930883,
+                        54.575018
+                  ]
+            },
+            {
+                  "name": "CS Lewis Square",
+                  "text": "Der CS Lewis Square ist ein öffentlicher Platz mit Skulpturen, die von den Chroniken von Narnia inspiriert sind.",
+                  "category": "park",
+                  "coords": [
+                        -5.890759,
+                        54.598581
+                  ]
+            },
+            {
+                  "name": "Thompson Dock Pump House",
+                  "text": "Das Thompson Dock Pump House ist ein historisches Pumpwerk am ehemaligen Trockendock der Titanic.",
+                  "category": "museum",
+                  "coords": [
+                        -5.901693,
+                        54.614487
+                  ]
+            },
+            {
+                  "name": "RSUA Design Box",
+                  "text": "Die RSUA Design Box ist eine kleine Galerie in Belfast, die Architektur und Design präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -5.928259,
+                        54.600778
+                  ]
+            },
+            {
+                  "name": "Artcetera",
+                  "text": "Artcetera ist eine zeitgenössische Kunstgalerie und ein Atelierhaus im Zentrum von Belfast.",
+                  "category": "museum",
+                  "coords": [
+                        -5.930196,
+                        54.60036
+                  ]
+            },
+            {
+                  "name": "Catalyst Arts",
+                  "text": "Catalyst Arts ist eine von Künstlern geführte Galerie und Organisation für zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927127,
+                        54.599642
+                  ]
+            },
+            {
+                  "name": "Golden Thread Gallery",
+                  "text": "Die Golden Thread Gallery ist ein führendes Zentrum für zeitgenössische Kunst in Belfast.",
+                  "category": "museum",
+                  "coords": [
+                        -5.933517,
+                        54.598352
+                  ]
+            },
+            {
+                  "name": "University of Atypical",
+                  "text": "University of Atypical ist eine Galerie und Organisation, die Kunst von Menschen mit Behinderungen fördert.",
+                  "category": "museum",
+                  "coords": [
+                        -5.93118,
+                        54.602322
+                  ]
+            },
+            {
+                  "name": "The MAC",
+                  "text": "The MAC ist ein großes, modernes Kulturzentrum mit Kunstgalerien und Theatersälen.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927478,
+                        54.603571
+                  ]
+            },
+            {
+                  "name": "Vault Artist Studios & Gallery - Marlborough House",
+                  "text": "Vault Artist Studios ist ein kreatives Zentrum mit Ateliers und einem Ausstellungsraum für lokale Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        -5.923998,
+                        54.600316
+                  ]
+            },
+            {
+                  "name": "Black Man Statue (Henry Cooke)",
+                  "text": "Diese Statue im Stadtzentrum erinnert an Henry Cooke, einen einflussreichen presbyterianischen Geistlichen.",
+                  "category": "historical",
+                  "coords": [
+                        -5.934798,
+                        54.597113
+                  ]
+            },
+            {
+                  "name": "Jaffe Memorial Fountain",
+                  "text": "Der Jaffe Memorial Fountain ist ein auffälliger gelber Brunnen aus der viktorianischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        -5.924215,
+                        54.598479
+                  ]
+            },
+            {
+                  "name": "The Brian Friel Theatre",
+                  "text": "Das Brian Friel Theatre ist eine Aufführungsstätte der Queen's University für Drama und Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933972,
+                        54.585519
+                  ]
+            },
+            {
+                  "name": "Oh Yeah Centre",
+                  "text": "Das Oh Yeah Centre ist ein Musikzentrum und Veranstaltungsort im Cathedral Quarter von Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.926438,
+                        54.601995
+                  ]
+            },
+            {
+                  "name": "Accidental Theatre",
+                  "text": "Das Accidental Theatre ist ein unabhängiger Veranstaltungsort für innovatives Theater und Live-Events.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933969,
+                        54.589346
+                  ]
+            },
+            {
+                  "name": "ArtsEkta",
+                  "text": "ArtsEkta ist eine preisgekrönte Organisation, die kulturelle Vielfalt durch Kunstprojekte fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.932064,
+                        54.598408
+                  ]
+            },
+            {
+                  "name": "Francis Calder Commemorative Fountain",
+                  "text": "Dieser Brunnen erinnert an Francis Calder, den Gründer der Tierschutzgesellschaft in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922433,
+                        54.601228
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ulster Museum",
+                  "text": "Észak-Írország legnagyobb múzeuma, szépművészeti, történelmi és természettudományi gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -5.935348,
+                        54.582313
+                  ]
+            },
+            {
+                  "name": "Crumlin Road Gaol",
+                  "text": "Egykori történelmi börtön Belfastban, amely ma múzeumként és látogatóközpontként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -5.942189,
+                        54.609538
+                  ]
+            },
+            {
+                  "name": "Titanic Memorial",
+                  "text": "Emlékmű Belfastban az RMS Titanic elsüllyedése áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -5.92899,
+                        54.596705
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Monument",
+                  "text": "Viktória királynő emlékszobra Belfastban, amely a városháza előtt található.",
+                  "category": "historical",
+                  "coords": [
+                        -5.930096,
+                        54.596941
+                  ]
+            },
+            {
+                  "name": "Lyric Theatre",
+                  "text": "Belfast egyik vezető színháza, amely az új ír drámák iránti elkötelezettségéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930884,
+                        54.577153
+                  ]
+            },
+            {
+                  "name": "Ulster Hall",
+                  "text": "Történelmi koncertterem és jelkép Belfastban, amely híres nagyszabású zenei eseményeiről.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930517,
+                        54.594632
+                  ]
+            },
+            {
+                  "name": "Grand Opera House",
+                  "text": "Díszes viktoriánus színház Belfastban, amelyet a neves építész, Frank Matcham tervezett.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935239,
+                        54.595386
+                  ]
+            },
+            {
+                  "name": "Belfast Waterfront Conference and Exhibition Centre",
+                  "text": "Jelentős szórakoztató- és konferenciaközpont Belfastban a Lagan folyó partján.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.91967,
+                        54.597508
+                  ]
+            },
+            {
+                  "name": "Crescent Arts Centre",
+                  "text": "Többcélú közösségi művészeti központ Belfast egy történelmi viktoriánus épületében.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935028,
+                        54.587883
+                  ]
+            },
+            {
+                  "name": "Cultúrlann McAdam Ó Fiaich",
+                  "text": "Ír nyelvű művészeti és kulturális központ Nyugat-Belfast szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.961061,
+                        54.592156
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "Gyönyörű katolikus templom Belfastban, amely egyedülálló Tudor-stílusú téglafalazatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -5.9268,
+                        54.594267
+                  ]
+            },
+            {
+                  "name": "St George's Church",
+                  "text": "Belfast legrégebbi Church of Ireland (ír egyházi) épülete, amely a High Streeten található.",
+                  "category": "religious",
+                  "coords": [
+                        -5.924914,
+                        54.600047
+                  ]
+            },
+            {
+                  "name": "St Peter's Cathedral",
+                  "text": "A Szent Péter-székesegyház Belfast római katolikus katedrálisa.",
+                  "category": "religious",
+                  "coords": [
+                        -5.944451,
+                        54.598996
+                  ]
+            },
+            {
+                  "name": "Saint Anne's Cathedral",
+                  "text": "A Szent Anna-székesegyház Belfast jelentős anglikán katedrálisa a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        -5.928643,
+                        54.602773
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Ez a belfasti történelmi katolikus templom Szent Patrik tiszteletére épült.",
+                  "category": "religious",
+                  "coords": [
+                        -5.931497,
+                        54.605225
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "A Szent Tamás-templom egy jelentős történelmi egyházi épület Belfastban.",
+                  "category": "religious",
+                  "coords": [
+                        -5.945748,
+                        54.58194
+                  ]
+            },
+            {
+                  "name": "Titanic Belfast",
+                  "text": "A Titanic Belfast egy modern múzeum a híres hajó építésének helyszínén.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.909875,
+                        54.608125
+                  ]
+            },
+            {
+                  "name": "Saint George's Market",
+                  "text": "A Szent György-piac egy történelmi fedett vásárcsarnok a viktoriánus korból.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922017,
+                        54.595888
+                  ]
+            },
+            {
+                  "name": "Divis Tower",
+                  "text": "A Divis-torony egy jellegzetes lakóépület és tájékozódási pont Nyugat-Belfastban.",
+                  "category": "tower",
+                  "coords": [
+                        -5.942158,
+                        54.599986
+                  ]
+            },
+            {
+                  "name": "HMS Caroline",
+                  "text": "A HMS Caroline az első világháború egyik könnyűcirkálója, amely ma múzeumhajóként látogatható.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.902594,
+                        54.613886
+                  ]
+            },
+            {
+                  "name": "SS Nomadic",
+                  "text": "Az SS Nomadic a White Star Line utolsó fennmaradt hajója, amely a Titanic kiszolgálóhajója volt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.911149,
+                        54.606356
+                  ]
+            },
+            {
+                  "name": "Albert Bridge",
+                  "text": "Az Albert híd egy jelentős közúti híd, amely a Lagan-folyót íveli át Belfastban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.912991,
+                        54.595807
+                  ]
+            },
+            {
+                  "name": "Queen's Bridge",
+                  "text": "A Queen's híd Belfast egyik központi hídja a Lagan-folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920424,
+                        54.599674
+                  ]
+            },
+            {
+                  "name": "Lagan Weir Footbridge",
+                  "text": "A Lagan Weir gyalogoshíd a Lagan-gátnál található, szép kilátást nyújtva a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920444,
+                        54.601187
+                  ]
+            },
+            {
+                  "name": "Ormeau Park",
+                  "text": "Az Ormeau Park Belfast legrégebbi és egyik legnagyobb közparkja.",
+                  "category": "park",
+                  "coords": [
+                        -5.916053,
+                        54.5855
+                  ]
+            },
+            {
+                  "name": "Botanic Gardens",
+                  "text": "A belfasti botanikus kert ad otthont a híres viktoriánus pálmaháznak.",
+                  "category": "park",
+                  "coords": [
+                        -5.932349,
+                        54.580615
+                  ]
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "Az Alexandra Park egy észak-belfasti zöldövezet, amely a parkot átszelő falról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -5.932523,
+                        54.618719
+                  ]
+            },
+            {
+                  "name": "SSE Arena",
+                  "text": "Az SSE Arena Belfast nagy rendezvényközpontja, amely koncerteknek és sporteseményeknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.91428,
+                        54.603789
+                  ]
+            },
+            {
+                  "name": "Royal Ulster Rifles Museum",
+                  "text": "A Royal Ulster Rifles Múzeum ennek a híres északír ezrednek a történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927083,
+                        54.600813
+                  ]
+            },
+            {
+                  "name": "Lord Dufferin Monument",
+                  "text": "Ez a városháza előtt álló emlékmű Lord Dufferinnek, a neves diplomatának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -5.931181,
+                        54.596375
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "A Szent Mária-templom Belfast városközpontjának legrégebbi katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -5.933287,
+                        54.599737
+                  ]
+            },
+            {
+                  "name": "Palm House",
+                  "text": "A Palm House egy elegáns üveg- és vasház a Botanikus Kert területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.933697,
+                        54.583559
+                  ]
+            },
+            {
+                  "name": "The Belfast Barge",
+                  "text": "A Belfast Barge egy úszó múzeum, amely a város tengerészeti történelmét mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920552,
+                        54.598657
+                  ]
+            },
+            {
+                  "name": "Lagan Bridge",
+                  "text": "A Lagan híd a várost átszelő folyó feletti átkelők egyike Belfastban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.921061,
+                        54.604481
+                  ]
+            },
+            {
+                  "name": "King's Bridge",
+                  "text": "A King's híd egy közúti híd a Lagan-folyó felett Belfastban.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.928511,
+                        54.57727
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "A Governor's híd fontos városrészeket köt össze a Lagan-folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.930883,
+                        54.575018
+                  ]
+            },
+            {
+                  "name": "CS Lewis Square",
+                  "text": "A CS Lewis Square egy közösségi tér, ahol a Narnia krónikái ihlette szobrok láthatók.",
+                  "category": "park",
+                  "coords": [
+                        -5.890759,
+                        54.598581
+                  ]
+            },
+            {
+                  "name": "Thompson Dock Pump House",
+                  "text": "A Thompson Dock Pump House egy történelmi szivattyúház a Titanic egykori szárazdokkjánál.",
+                  "category": "museum",
+                  "coords": [
+                        -5.901693,
+                        54.614487
+                  ]
+            },
+            {
+                  "name": "RSUA Design Box",
+                  "text": "Az RSUA Design Box egy kisméretű belfasti galéria, amely építészetet és designt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.928259,
+                        54.600778
+                  ]
+            },
+            {
+                  "name": "Artcetera",
+                  "text": "Az Artcetera egy kortárs művészeti galéria és műteremház Belfast központjában.",
+                  "category": "museum",
+                  "coords": [
+                        -5.930196,
+                        54.60036
+                  ]
+            },
+            {
+                  "name": "Catalyst Arts",
+                  "text": "A Catalyst Arts egy művészek által irányított galéria és kortárs művészeti szervezet.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927127,
+                        54.599642
+                  ]
+            },
+            {
+                  "name": "Golden Thread Gallery",
+                  "text": "A Golden Thread Gallery Belfast egyik vezető kortárs művészeti központja.",
+                  "category": "museum",
+                  "coords": [
+                        -5.933517,
+                        54.598352
+                  ]
+            },
+            {
+                  "name": "University of Atypical",
+                  "text": "A University of Atypical egy galéria és szervezet, amely fogyatékkal élő művészeket támogat.",
+                  "category": "museum",
+                  "coords": [
+                        -5.93118,
+                        54.602322
+                  ]
+            },
+            {
+                  "name": "The MAC",
+                  "text": "A MAC egy nagy, modern kulturális központ művészeti galériákkal és színháztermekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927478,
+                        54.603571
+                  ]
+            },
+            {
+                  "name": "Vault Artist Studios & Gallery - Marlborough House",
+                  "text": "A Vault Artist Studios egy kreatív központ műtermekkel és kiállítótérrel helyi művészek számára.",
+                  "category": "museum",
+                  "coords": [
+                        -5.923998,
+                        54.600316
+                  ]
+            },
+            {
+                  "name": "Black Man Statue (Henry Cooke)",
+                  "text": "Ez a belvárosi szobor Henry Cooke-nak, a befolyásos presbiteriánus lelkésznek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -5.934798,
+                        54.597113
+                  ]
+            },
+            {
+                  "name": "Jaffe Memorial Fountain",
+                  "text": "A Jaffe-emlékkút egy feltűnő sárga színű díszkút a viktoriánus korból.",
+                  "category": "historical",
+                  "coords": [
+                        -5.924215,
+                        54.598479
+                  ]
+            },
+            {
+                  "name": "The Brian Friel Theatre",
+                  "text": "A Brian Friel Színház a Queen's University drámai és művészeti előadásainak helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933972,
+                        54.585519
+                  ]
+            },
+            {
+                  "name": "Oh Yeah Centre",
+                  "text": "Az Oh Yeah Centre egy zenei központ és rendezvényhelyszín Belfast katedrálisnegyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.926438,
+                        54.601995
+                  ]
+            },
+            {
+                  "name": "Accidental Theatre",
+                  "text": "Az Accidental Theatre egy független helyszín innovatív színházi előadások és élő események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933969,
+                        54.589346
+                  ]
+            },
+            {
+                  "name": "ArtsEkta",
+                  "text": "Az ArtsEkta egy díjnyertes szervezet, amely művészeti projekteken keresztül népszerűsíti a kulturális sokszínűséget.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.932064,
+                        54.598408
+                  ]
+            },
+            {
+                  "name": "Francis Calder Commemorative Fountain",
+                  "text": "Ez a szökőkút Francis Caldernek, a belfasti állatvédő egyesület alapítójának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922433,
+                        54.601228
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ulster Museum",
+                  "text": "Cel mai mare muzeu din Irlanda de Nord, cu colecții de artă plastică, istorie și științe naturale.",
+                  "category": "museum",
+                  "coords": [
+                        -5.935348,
+                        54.582313
+                  ]
+            },
+            {
+                  "name": "Crumlin Road Gaol",
+                  "text": "O fostă închisoare istorică din Belfast, care servește acum ca muzeu și atracție pentru vizitatori.",
+                  "category": "museum",
+                  "coords": [
+                        -5.942189,
+                        54.609538
+                  ]
+            },
+            {
+                  "name": "Titanic Memorial",
+                  "text": "Un monument în Belfast dedicat victimelor scufundării navei RMS Titanic.",
+                  "category": "historical",
+                  "coords": [
+                        -5.92899,
+                        54.596705
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Monument",
+                  "text": "O statuie în Belfast în memoria Reginei Victoria, situată în fața primăriei.",
+                  "category": "historical",
+                  "coords": [
+                        -5.930096,
+                        54.596941
+                  ]
+            },
+            {
+                  "name": "Lyric Theatre",
+                  "text": "Un teatru de top din Belfast, cunoscut pentru angajamentul său față de noile scrieri irlandeze.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930884,
+                        54.577153
+                  ]
+            },
+            {
+                  "name": "Ulster Hall",
+                  "text": "O sală de concerte istorică și un punct de reper în Belfast, celebră pentru găzduirea unor evenimente muzicale majore.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930517,
+                        54.594632
+                  ]
+            },
+            {
+                  "name": "Grand Opera House",
+                  "text": "Un teatru victorian ornamentat din Belfast, proiectat de renumitul arhitect Frank Matcham.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935239,
+                        54.595386
+                  ]
+            },
+            {
+                  "name": "Belfast Waterfront Conference and Exhibition Centre",
+                  "text": "Un loc major de divertisment și conferințe din Belfast, situat pe râul Lagan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.91967,
+                        54.597508
+                  ]
+            },
+            {
+                  "name": "Crescent Arts Centre",
+                  "text": "Un centru de artă comunitar multidisciplinar situat într-o clădire victoriană istorică din Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935028,
+                        54.587883
+                  ]
+            },
+            {
+                  "name": "Cultúrlann McAdam Ó Fiaich",
+                  "text": "Un centru cultural și de artă în limba irlandeză situat în inima vestului orașului Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.961061,
+                        54.592156
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "O biserică catolică frumoasă din Belfast, cunoscută pentru zidăria sa unică în stil Tudor Revival.",
+                  "category": "religious",
+                  "coords": [
+                        -5.9268,
+                        54.594267
+                  ]
+            },
+            {
+                  "name": "St George's Church",
+                  "text": "Cea mai veche clădire a Bisericii Irlandei din Belfast, situată pe High Street.",
+                  "category": "religious",
+                  "coords": [
+                        -5.924914,
+                        54.600047
+                  ]
+            },
+            {
+                  "name": "St Peter's Cathedral",
+                  "text": "Catedrala Sfântul Petru este principala biserică romano-catolică din Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.944451,
+                        54.598996
+                  ]
+            },
+            {
+                  "name": "Saint Anne's Cathedral",
+                  "text": "Catedrala Sfânta Ana este o catedrală anglicană importantă din centrul orașului Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.928643,
+                        54.602773
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "Această biserică catolică istorică din Belfast este dedicată Sfântului Patrick.",
+                  "category": "religious",
+                  "coords": [
+                        -5.931497,
+                        54.605225
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "Biserica Sfântul Toma este un lăcaș de cult istoric din Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.945748,
+                        54.58194
+                  ]
+            },
+            {
+                  "name": "Titanic Belfast",
+                  "text": "Titanic Belfast este un muzeu modern situat pe locul unde a fost construit faimosul vas.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.909875,
+                        54.608125
+                  ]
+            },
+            {
+                  "name": "Saint George's Market",
+                  "text": "Piața Sfântul Gheorghe este o piață istorică acoperită din epoca victoriană.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922017,
+                        54.595888
+                  ]
+            },
+            {
+                  "name": "Divis Tower",
+                  "text": "Turnul Divis este un bloc de locuințe distinctiv și un reper în vestul Belfastului.",
+                  "category": "tower",
+                  "coords": [
+                        -5.942158,
+                        54.599986
+                  ]
+            },
+            {
+                  "name": "HMS Caroline",
+                  "text": "HMS Caroline este un crucișător ușor din Primul Război Mondial, transformat astăzi în navă-muzeu.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.902594,
+                        54.613886
+                  ]
+            },
+            {
+                  "name": "SS Nomadic",
+                  "text": "SS Nomadic este ultima navă rămasă a liniei White Star, fiind utilizată pentru transbordarea pasagerilor pe Titanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.911149,
+                        54.606356
+                  ]
+            },
+            {
+                  "name": "Albert Bridge",
+                  "text": "Podul Albert este un pod rutier important care traversează râul Lagan în Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.912991,
+                        54.595807
+                  ]
+            },
+            {
+                  "name": "Queen's Bridge",
+                  "text": "Podul Reginei este unul dintre podurile centrale peste râul Lagan în Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920424,
+                        54.599674
+                  ]
+            },
+            {
+                  "name": "Lagan Weir Footbridge",
+                  "text": "Podul pietonal Lagan Weir oferă o cale de acces peste râu și vederi panoramice asupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920444,
+                        54.601187
+                  ]
+            },
+            {
+                  "name": "Ormeau Park",
+                  "text": "Parcul Ormeau este cel mai vechi și unul dintre cele mai mari parcuri publice din Belfast.",
+                  "category": "park",
+                  "coords": [
+                        -5.916053,
+                        54.5855
+                  ]
+            },
+            {
+                  "name": "Botanic Gardens",
+                  "text": "Grădina Botanică din Belfast găzduiește faimoasa seră victoriană Palm House.",
+                  "category": "park",
+                  "coords": [
+                        -5.932349,
+                        54.580615
+                  ]
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "Parcul Alexandra este o zonă verde din nordul Belfastului, cunoscută pentru zidul de delimitare din interiorul său.",
+                  "category": "park",
+                  "coords": [
+                        -5.932523,
+                        54.618719
+                  ]
+            },
+            {
+                  "name": "SSE Arena",
+                  "text": "SSE Arena este un centru major de divertisment din Belfast, gazdă pentru concerte și evenimente sportive.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.91428,
+                        54.603789
+                  ]
+            },
+            {
+                  "name": "Royal Ulster Rifles Museum",
+                  "text": "Muzeul Royal Ulster Rifles este dedicat istoriei acestui faimos regiment nord-irlandez.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927083,
+                        54.600813
+                  ]
+            },
+            {
+                  "name": "Lord Dufferin Monument",
+                  "text": "Acest monument situat în fața primăriei îl onorează pe Lord Dufferin, un diplomat important.",
+                  "category": "historical",
+                  "coords": [
+                        -5.931181,
+                        54.596375
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "Biserica Sfânta Maria este cea mai veche biserică catolică din centrul orașului Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.933287,
+                        54.599737
+                  ]
+            },
+            {
+                  "name": "Palm House",
+                  "text": "Palm House este o seră elegantă din sticlă și fier situată în Grădina Botanică.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.933697,
+                        54.583559
+                  ]
+            },
+            {
+                  "name": "The Belfast Barge",
+                  "text": "Belfast Barge este un muzeu plutitor care prezintă istoria maritimă a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920552,
+                        54.598657
+                  ]
+            },
+            {
+                  "name": "Lagan Bridge",
+                  "text": "Podul Lagan este una dintre structurile care traversează râul cu același nume în Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.921061,
+                        54.604481
+                  ]
+            },
+            {
+                  "name": "King's Bridge",
+                  "text": "Podul Regelui este un pod rutier peste râul Lagan în Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.928511,
+                        54.57727
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "Podul Guvernatorului realizează legătura între cartiere importante peste râul Lagan.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.930883,
+                        54.575018
+                  ]
+            },
+            {
+                  "name": "CS Lewis Square",
+                  "text": "Piața CS Lewis este un spațiu public decorat cu sculpturi inspirate de Cronicile din Narnia.",
+                  "category": "park",
+                  "coords": [
+                        -5.890759,
+                        54.598581
+                  ]
+            },
+            {
+                  "name": "Thompson Dock Pump House",
+                  "text": "Thompson Dock Pump House este o stație de pompare istorică situată lângă fostul doc uscat al Titanicului.",
+                  "category": "museum",
+                  "coords": [
+                        -5.901693,
+                        54.614487
+                  ]
+            },
+            {
+                  "name": "RSUA Design Box",
+                  "text": "RSUA Design Box este o mică galerie din Belfast dedicată arhitecturii și designului.",
+                  "category": "museum",
+                  "coords": [
+                        -5.928259,
+                        54.600778
+                  ]
+            },
+            {
+                  "name": "Artcetera",
+                  "text": "Artcetera este o galerie de artă contemporană și spațiu de creație din centrul Belfastului.",
+                  "category": "museum",
+                  "coords": [
+                        -5.930196,
+                        54.60036
+                  ]
+            },
+            {
+                  "name": "Catalyst Arts",
+                  "text": "Catalyst Arts este o galerie și organizație de artă contemporană condusă de artiști.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927127,
+                        54.599642
+                  ]
+            },
+            {
+                  "name": "Golden Thread Gallery",
+                  "text": "Golden Thread Gallery este un centru de referință pentru arta contemporană din Belfast.",
+                  "category": "museum",
+                  "coords": [
+                        -5.933517,
+                        54.598352
+                  ]
+            },
+            {
+                  "name": "University of Atypical",
+                  "text": "University of Atypical este o galerie și organizație care promovează arta creată de persoane cu dizabilități.",
+                  "category": "museum",
+                  "coords": [
+                        -5.93118,
+                        54.602322
+                  ]
+            },
+            {
+                  "name": "The MAC",
+                  "text": "The MAC este un centru cultural modern și vast, cu galerii de artă și săli de teatru.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927478,
+                        54.603571
+                  ]
+            },
+            {
+                  "name": "Vault Artist Studios & Gallery - Marlborough House",
+                  "text": "Vault Artist Studios este un hub creativ ce oferă ateliere și un spațiu de expoziție pentru artiștii locali.",
+                  "category": "museum",
+                  "coords": [
+                        -5.923998,
+                        54.600316
+                  ]
+            },
+            {
+                  "name": "Black Man Statue (Henry Cooke)",
+                  "text": "Această statuie din centrul orașului îl comemorează pe Henry Cooke, un influent cleric prezbiterian.",
+                  "category": "historical",
+                  "coords": [
+                        -5.934798,
+                        54.597113
+                  ]
+            },
+            {
+                  "name": "Jaffe Memorial Fountain",
+                  "text": "Fântâna Memorială Jaffe este o fântână victoriană galbenă, cu un design distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        -5.924215,
+                        54.598479
+                  ]
+            },
+            {
+                  "name": "The Brian Friel Theatre",
+                  "text": "Teatrul Brian Friel este un spațiu de spectacole al Universității Queen's, dedicat dramei și artelor.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933972,
+                        54.585519
+                  ]
+            },
+            {
+                  "name": "Oh Yeah Centre",
+                  "text": "Oh Yeah Centre este un centru muzical și spațiu pentru evenimente din cartierul catedralei din Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.926438,
+                        54.601995
+                  ]
+            },
+            {
+                  "name": "Accidental Theatre",
+                  "text": "Accidental Theatre este un spațiu independent dedicat teatrului inovator și evenimentelor live.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933969,
+                        54.589346
+                  ]
+            },
+            {
+                  "name": "ArtsEkta",
+                  "text": "ArtsEkta este o organizație culturală care promovează diversitatea prin proiecte artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.932064,
+                        54.598408
+                  ]
+            },
+            {
+                  "name": "Francis Calder Commemorative Fountain",
+                  "text": "Această fântână îl comemorează pe Francis Calder, fondatorul societății pentru protecția animalelor din Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922433,
+                        54.601228
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ulster Museum",
+                  "text": "Northern Ireland's largest museum, featuring collections of fine art, history, and natural sciences.",
+                  "category": "museum",
+                  "coords": [
+                        -5.935348,
+                        54.582313
+                  ]
+            },
+            {
+                  "name": "Crumlin Road Gaol",
+                  "text": "A historic former prison in Belfast that now serves as a museum and visitor attraction.",
+                  "category": "museum",
+                  "coords": [
+                        -5.942189,
+                        54.609538
+                  ]
+            },
+            {
+                  "name": "Titanic Memorial",
+                  "text": "A monument in Belfast dedicated to the victims of the sinking of the RMS Titanic.",
+                  "category": "historical",
+                  "coords": [
+                        -5.92899,
+                        54.596705
+                  ]
+            },
+            {
+                  "name": "Queen Victoria Monument",
+                  "text": "A statue in Belfast commemorating Queen Victoria, located in front of the City Hall.",
+                  "category": "historical",
+                  "coords": [
+                        -5.930096,
+                        54.596941
+                  ]
+            },
+            {
+                  "name": "Lyric Theatre",
+                  "text": "A leading producing theatre in Belfast, known for its commitment to new Irish writing.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930884,
+                        54.577153
+                  ]
+            },
+            {
+                  "name": "Ulster Hall",
+                  "text": "A historic concert hall and landmark in Belfast, famous for hosting major musical events.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.930517,
+                        54.594632
+                  ]
+            },
+            {
+                  "name": "Grand Opera House",
+                  "text": "An ornate Victorian theatre in Belfast designed by renowned architect Frank Matcham.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935239,
+                        54.595386
+                  ]
+            },
+            {
+                  "name": "Belfast Waterfront Conference and Exhibition Centre",
+                  "text": "A major entertainment and conference venue in Belfast situated on the River Lagan.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.91967,
+                        54.597508
+                  ]
+            },
+            {
+                  "name": "Crescent Arts Centre",
+                  "text": "A multi-disciplinary community arts centre based in a historic Victorian building in Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.935028,
+                        54.587883
+                  ]
+            },
+            {
+                  "name": "Cultúrlann McAdam Ó Fiaich",
+                  "text": "An Irish language arts and cultural centre located in the heart of West Belfast.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.961061,
+                        54.592156
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "A beautiful Catholic church in Belfast known for its unique Tudor Revival brickwork.",
+                  "category": "religious",
+                  "coords": [
+                        -5.9268,
+                        54.594267
+                  ]
+            },
+            {
+                  "name": "St George's Church",
+                  "text": "The oldest Church of Ireland building in Belfast, located on High Street.",
+                  "category": "religious",
+                  "coords": [
+                        -5.924914,
+                        54.600047
+                  ]
+            },
+            {
+                  "name": "St Peter's Cathedral",
+                  "text": "St Peter's Cathedral is the primary Roman Catholic cathedral in Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.944451,
+                        54.598996
+                  ]
+            },
+            {
+                  "name": "Saint Anne's Cathedral",
+                  "text": "Saint Anne's Cathedral is a prominent Anglican cathedral in the heart of Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.928643,
+                        54.602773
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's",
+                  "text": "This historic Catholic church in Belfast is dedicated to Saint Patrick.",
+                  "category": "religious",
+                  "coords": [
+                        -5.931497,
+                        54.605225
+                  ]
+            },
+            {
+                  "name": "Saint Thomas' Church",
+                  "text": "Saint Thomas' Church is a historic ecclesiastical building in Belfast.",
+                  "category": "religious",
+                  "coords": [
+                        -5.945748,
+                        54.58194
+                  ]
+            },
+            {
+                  "name": "Titanic Belfast",
+                  "text": "Titanic Belfast is a modern museum located at the birthplace of the famous ship.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.909875,
+                        54.608125
+                  ]
+            },
+            {
+                  "name": "Saint George's Market",
+                  "text": "Saint George's Market is a historic covered market dating from the Victorian era.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922017,
+                        54.595888
+                  ]
+            },
+            {
+                  "name": "Divis Tower",
+                  "text": "Divis Tower is a prominent residential high-rise and landmark in West Belfast.",
+                  "category": "tower",
+                  "coords": [
+                        -5.942158,
+                        54.599986
+                  ]
+            },
+            {
+                  "name": "HMS Caroline",
+                  "text": "HMS Caroline is a decommissioned World War I light cruiser that now serves as a museum ship.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.902594,
+                        54.613886
+                  ]
+            },
+            {
+                  "name": "SS Nomadic",
+                  "text": "SS Nomadic is the last remaining White Star Line vessel and served as a tender for the Titanic.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.911149,
+                        54.606356
+                  ]
+            },
+            {
+                  "name": "Albert Bridge",
+                  "text": "Albert Bridge is a major road bridge crossing the River Lagan in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.912991,
+                        54.595807
+                  ]
+            },
+            {
+                  "name": "Queen's Bridge",
+                  "text": "Queen's Bridge is one of the central bridges over the River Lagan in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920424,
+                        54.599674
+                  ]
+            },
+            {
+                  "name": "Lagan Weir Footbridge",
+                  "text": "Lagan Weir Footbridge is a pedestrian bridge at the Lagan Weir offering views of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920444,
+                        54.601187
+                  ]
+            },
+            {
+                  "name": "Ormeau Park",
+                  "text": "Ormeau Park is the oldest and one of the largest public parks in Belfast.",
+                  "category": "park",
+                  "coords": [
+                        -5.916053,
+                        54.5855
+                  ]
+            },
+            {
+                  "name": "Botanic Gardens",
+                  "text": "The Botanic Gardens in Belfast are home to the famous Victorian Palm House.",
+                  "category": "park",
+                  "coords": [
+                        -5.932349,
+                        54.580615
+                  ]
+            },
+            {
+                  "name": "Alexandra Park",
+                  "text": "Alexandra Park is a green space in North Belfast known for the peace wall that runs through it.",
+                  "category": "park",
+                  "coords": [
+                        -5.932523,
+                        54.618719
+                  ]
+            },
+            {
+                  "name": "SSE Arena",
+                  "text": "The SSE Arena is a large entertainment venue in Belfast hosting concerts and sporting events.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.91428,
+                        54.603789
+                  ]
+            },
+            {
+                  "name": "Royal Ulster Rifles Museum",
+                  "text": "The Royal Ulster Rifles Museum is dedicated to the history of this famous Northern Irish regiment.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927083,
+                        54.600813
+                  ]
+            },
+            {
+                  "name": "Lord Dufferin Monument",
+                  "text": "This monument in front of the City Hall commemorates Lord Dufferin, a prominent diplomat.",
+                  "category": "historical",
+                  "coords": [
+                        -5.931181,
+                        54.596375
+                  ]
+            },
+            {
+                  "name": "St Mary's Church",
+                  "text": "St Mary's Church is the oldest Catholic church in Belfast city centre.",
+                  "category": "religious",
+                  "coords": [
+                        -5.933287,
+                        54.599737
+                  ]
+            },
+            {
+                  "name": "Palm House",
+                  "text": "The Palm House is an elegant glass and iron greenhouse located within the Botanic Gardens.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.933697,
+                        54.583559
+                  ]
+            },
+            {
+                  "name": "The Belfast Barge",
+                  "text": "The Belfast Barge is a floating museum showcasing the city's maritime history.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.920552,
+                        54.598657
+                  ]
+            },
+            {
+                  "name": "Lagan Bridge",
+                  "text": "Lagan Bridge is one of the crossings over the river of the same name in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.921061,
+                        54.604481
+                  ]
+            },
+            {
+                  "name": "King's Bridge",
+                  "text": "King's Bridge is a road bridge crossing the River Lagan in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.928511,
+                        54.57727
+                  ]
+            },
+            {
+                  "name": "Governor's Bridge",
+                  "text": "Governor's Bridge connects key areas of the city across the River Lagan.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.930883,
+                        54.575018
+                  ]
+            },
+            {
+                  "name": "CS Lewis Square",
+                  "text": "CS Lewis Square is a public space featuring sculptures inspired by The Chronicles of Narnia.",
+                  "category": "park",
+                  "coords": [
+                        -5.890759,
+                        54.598581
+                  ]
+            },
+            {
+                  "name": "Thompson Dock Pump House",
+                  "text": "Thompson Dock Pump House is a historic pumping station at the former dry dock of the Titanic.",
+                  "category": "museum",
+                  "coords": [
+                        -5.901693,
+                        54.614487
+                  ]
+            },
+            {
+                  "name": "RSUA Design Box",
+                  "text": "RSUA Design Box is a small gallery in Belfast showcasing architecture and design.",
+                  "category": "museum",
+                  "coords": [
+                        -5.928259,
+                        54.600778
+                  ]
+            },
+            {
+                  "name": "Artcetera",
+                  "text": "Artcetera is a contemporary art gallery and studio space in central Belfast.",
+                  "category": "museum",
+                  "coords": [
+                        -5.930196,
+                        54.60036
+                  ]
+            },
+            {
+                  "name": "Catalyst Arts",
+                  "text": "Catalyst Arts is an artist-led gallery and contemporary arts organisation.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927127,
+                        54.599642
+                  ]
+            },
+            {
+                  "name": "Golden Thread Gallery",
+                  "text": "Golden Thread Gallery is a leading contemporary art centre in Belfast.",
+                  "category": "museum",
+                  "coords": [
+                        -5.933517,
+                        54.598352
+                  ]
+            },
+            {
+                  "name": "University of Atypical",
+                  "text": "University of Atypical is a gallery and organisation supporting arts for people with disabilities.",
+                  "category": "museum",
+                  "coords": [
+                        -5.93118,
+                        54.602322
+                  ]
+            },
+            {
+                  "name": "The MAC",
+                  "text": "The MAC is a large, modern cultural hub featuring art galleries and theatre spaces.",
+                  "category": "museum",
+                  "coords": [
+                        -5.927478,
+                        54.603571
+                  ]
+            },
+            {
+                  "name": "Vault Artist Studios & Gallery - Marlborough House",
+                  "text": "Vault Artist Studios is a creative hub with studios and an exhibition space for local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -5.923998,
+                        54.600316
+                  ]
+            },
+            {
+                  "name": "Black Man Statue (Henry Cooke)",
+                  "text": "This city centre statue commemorates Henry Cooke, an influential Presbyterian minister.",
+                  "category": "historical",
+                  "coords": [
+                        -5.934798,
+                        54.597113
+                  ]
+            },
+            {
+                  "name": "Jaffe Memorial Fountain",
+                  "text": "The Jaffe Memorial Fountain is a striking yellow drinking fountain from the Victorian era.",
+                  "category": "historical",
+                  "coords": [
+                        -5.924215,
+                        54.598479
+                  ]
+            },
+            {
+                  "name": "The Brian Friel Theatre",
+                  "text": "The Brian Friel Theatre is a performance venue at Queen's University for drama and arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933972,
+                        54.585519
+                  ]
+            },
+            {
+                  "name": "Oh Yeah Centre",
+                  "text": "Oh Yeah Centre is a music hub and venue located in Belfast's Cathedral Quarter.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.926438,
+                        54.601995
+                  ]
+            },
+            {
+                  "name": "Accidental Theatre",
+                  "text": "Accidental Theatre is an independent venue for innovative theatre and live events.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.933969,
+                        54.589346
+                  ]
+            },
+            {
+                  "name": "ArtsEkta",
+                  "text": "ArtsEkta is a cultural organisation promoting diversity through various arts projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.932064,
+                        54.598408
+                  ]
+            },
+            {
+                  "name": "Francis Calder Commemorative Fountain",
+                  "text": "This fountain commemorates Francis Calder, the founder of the animal protection society in Belfast.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.922433,
+                        54.601228
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-5.9301, 54.5973],
@@ -487,7 +8875,628 @@ export const irelandCities: POI[] = [
   }
   ,
   {
-    id: "city-sligo",
+    id: "city-sligo", "sights": {
+      "de": [
+            {
+                  "name": "Hawk's Well Theatre",
+                  "text": "Ein wichtiges Theater und Kulturzentrum in Sligo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477114,
+                        54.268859
+                  ]
+            },
+            {
+                  "name": "Caltragh",
+                  "text": "Eine bedeutende archäologische Stätte mit megalithischen Gräbern bei Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508018,
+                        54.253104
+                  ]
+            },
+            {
+                  "name": "Carns Cairn",
+                  "text": "Ein alter neolithischer Grabhügel auf einem Hügel bei Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.450218,
+                        54.255522
+                  ]
+            },
+            {
+                  "name": "Factory theatre",
+                  "text": "Ein Theater in Sligo, das für zeitgenössische Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477834,
+                        54.273541
+                  ]
+            },
+            {
+                  "name": "Sligo Abbey",
+                  "text": "Die Ruinen eines Dominikanerklosters aus dem 13. Jahrhundert in Sligo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.470712,
+                        54.27086
+                  ]
+            },
+            {
+                  "name": "Green Fort",
+                  "text": "Eine historische Sternfestung aus dem 17. Jahrhundert in Sligo.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.46754,
+                        54.274436
+                  ]
+            },
+            {
+                  "name": "Carns (Duke) Cairn",
+                  "text": "Eine antike Megalithanlage in der Gegend von Carns bei Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.456273,
+                        54.253344
+                  ]
+            },
+            {
+                  "name": "Abbeyquarter Passage Tomb",
+                  "text": "Ein prähistorisches Ganggrab in einem Stadtteil von Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.460779,
+                        54.269652
+                  ]
+            },
+            {
+                  "name": "WB yeats",
+                  "text": "Sehenswürdigkeiten in Sligo, die dem Leben und Werk des Dichters W.B. Yeats gewidmet sind.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473871,
+                        54.272549
+                  ]
+            },
+            {
+                  "name": "Famine Memorial",
+                  "text": "Ein Denkmal in Sligo zur Erinnerung an die Opfer der großen Hungersnot.",
+                  "category": "historical",
+                  "coords": [
+                        -8.476749,
+                        54.273844
+                  ]
+            },
+            {
+                  "name": "Model Niland Gallery",
+                  "text": "Eine führende Galerie für zeitgenössische Kunst in Sligo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.468603,
+                        54.273008
+                  ]
+            },
+            {
+                  "name": "Yeats Memorial Building",
+                  "text": "Ein markantes Gebäude in Sligo, das der Erinnerung an W.B. Yeats gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -8.474853,
+                        54.272153
+                  ]
+            },
+            {
+                  "name": "Lest Sligo forgets",
+                  "text": "Ein Denkmal in Sligo zur Erinnerung an lokale historische Ereignisse.",
+                  "category": "historical",
+                  "coords": [
+                        -8.449868,
+                        54.261715
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Cathedral",
+                  "text": "Die anglikanische Kathedrale von Sligo, entworfen von Richard Cassels.",
+                  "category": "religious",
+                  "coords": [
+                        -8.477366,
+                        54.27011
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Die katholische Kathedrale von Sligo, ein prächtiges Bauwerk im neoromanischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478631,
+                        54.269769
+                  ]
+            },
+            {
+                  "name": "Sligo Presbyterian Church",
+                  "text": "Eine presbyterianische Kirche, die der Gemeinde in Sligo dient.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475844,
+                        54.269713
+                  ]
+            },
+            {
+                  "name": "Calry Church",
+                  "text": "Eine historische Kirche in Sligo, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -8.466936,
+                        54.272573
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hawk's Well Theatre",
+                  "text": "Sligo jelentős színháza és kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477114,
+                        54.268859
+                  ]
+            },
+            {
+                  "name": "Caltragh",
+                  "text": "Jelentős régészeti lelőhely megalitikus sírokkal Sligo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508018,
+                        54.253104
+                  ]
+            },
+            {
+                  "name": "Carns Cairn",
+                  "text": "Ősi neolitikus sírhalom egy dombtetőn Sligo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.450218,
+                        54.255522
+                  ]
+            },
+            {
+                  "name": "Factory theatre",
+                  "text": "Színház Sligóban, amelyet kortárs előadásokhoz használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477834,
+                        54.273541
+                  ]
+            },
+            {
+                  "name": "Sligo Abbey",
+                  "text": "Egy 13. századi dominikánus kolostor romjai Sligóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.470712,
+                        54.27086
+                  ]
+            },
+            {
+                  "name": "Green Fort",
+                  "text": "17. századi történelmi csillagerőd Sligóban.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.46754,
+                        54.274436
+                  ]
+            },
+            {
+                  "name": "Carns (Duke) Cairn",
+                  "text": "Ősi megalitikus építmény a Sligo melletti Carns környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.456273,
+                        54.253344
+                  ]
+            },
+            {
+                  "name": "Abbeyquarter Passage Tomb",
+                  "text": "Prehisztorikus folyosósír Sligo egyik városrészében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.460779,
+                        54.269652
+                  ]
+            },
+            {
+                  "name": "WB yeats",
+                  "text": "Sligo látnivalói, amelyeket W.B. Yeats költő életének és munkásságának szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473871,
+                        54.272549
+                  ]
+            },
+            {
+                  "name": "Famine Memorial",
+                  "text": "Sligói emlékmű a nagy éhínség áldozatainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -8.476749,
+                        54.273844
+                  ]
+            },
+            {
+                  "name": "Model Niland Gallery",
+                  "text": "Sligo egyik vezető kortárs művészeti galériája.",
+                  "category": "museum",
+                  "coords": [
+                        -8.468603,
+                        54.273008
+                  ]
+            },
+            {
+                  "name": "Yeats Memorial Building",
+                  "text": "Jellegzetes épület Sligóban, amelyet W.B. Yeats emlékének szenteltek.",
+                  "category": "natural",
+                  "coords": [
+                        -8.474853,
+                        54.272153
+                  ]
+            },
+            {
+                  "name": "Lest Sligo forgets",
+                  "text": "Emlékmű Sligóban a helyi történelmi események emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -8.449868,
+                        54.261715
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Cathedral",
+                  "text": "Sligo anglikán székesegyháza, amelyet Richard Cassels tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        -8.477366,
+                        54.27011
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Sligo katolikus székesegyháza, egy pompás neoromán stílusú épület.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478631,
+                        54.269769
+                  ]
+            },
+            {
+                  "name": "Sligo Presbyterian Church",
+                  "text": "Presbiteriánus templom, amely a sligói közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475844,
+                        54.269713
+                  ]
+            },
+            {
+                  "name": "Calry Church",
+                  "text": "Történelmi templom Sligóban, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.466936,
+                        54.272573
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hawk's Well Theatre",
+                  "text": "Un teatru și centru cultural important din Sligo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477114,
+                        54.268859
+                  ]
+            },
+            {
+                  "name": "Caltragh",
+                  "text": "Un sit arheologic important cu morminte megalitice lângă Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508018,
+                        54.253104
+                  ]
+            },
+            {
+                  "name": "Carns Cairn",
+                  "text": "Un vechi tumul neolitic situat pe un deal lângă Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.450218,
+                        54.255522
+                  ]
+            },
+            {
+                  "name": "Factory theatre",
+                  "text": "Un teatru din Sligo utilizat pentru spectacole contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477834,
+                        54.273541
+                  ]
+            },
+            {
+                  "name": "Sligo Abbey",
+                  "text": "Ruinele unei mănăstiri dominicane din secolul al XIII-lea din Sligo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.470712,
+                        54.27086
+                  ]
+            },
+            {
+                  "name": "Green Fort",
+                  "text": "O fortăreață istorică în formă de stea din secolul al XVII-lea, situată în Sligo.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.46754,
+                        54.274436
+                  ]
+            },
+            {
+                  "name": "Carns (Duke) Cairn",
+                  "text": "O structură megalitică antică în zona Carns de lângă Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.456273,
+                        54.253344
+                  ]
+            },
+            {
+                  "name": "Abbeyquarter Passage Tomb",
+                  "text": "Un mormânt de pasaj preistoric situat într-un cartier din Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.460779,
+                        54.269652
+                  ]
+            },
+            {
+                  "name": "WB yeats",
+                  "text": "Atracții din Sligo dedicate vieții și operei poetului W.B. Yeats.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473871,
+                        54.272549
+                  ]
+            },
+            {
+                  "name": "Famine Memorial",
+                  "text": "Un monument din Sligo care comemorează victimele marii foamete.",
+                  "category": "historical",
+                  "coords": [
+                        -8.476749,
+                        54.273844
+                  ]
+            },
+            {
+                  "name": "Model Niland Gallery",
+                  "text": "O galerie de artă contemporană de top din Sligo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.468603,
+                        54.273008
+                  ]
+            },
+            {
+                  "name": "Yeats Memorial Building",
+                  "text": "O clădire distinctivă din Sligo dedicată memoriei lui W.B. Yeats.",
+                  "category": "natural",
+                  "coords": [
+                        -8.474853,
+                        54.272153
+                  ]
+            },
+            {
+                  "name": "Lest Sligo forgets",
+                  "text": "Un monument din Sligo care comemorează evenimente istorice locale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.449868,
+                        54.261715
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Cathedral",
+                  "text": "Catedrala anglicană din Sligo, proiectată de Richard Cassels.",
+                  "category": "religious",
+                  "coords": [
+                        -8.477366,
+                        54.27011
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "Catedrala catolică din Sligo, o structură magnifică în stil neoromanic.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478631,
+                        54.269769
+                  ]
+            },
+            {
+                  "name": "Sligo Presbyterian Church",
+                  "text": "O biserică prezbiteriană care deservește comunitatea din Sligo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475844,
+                        54.269713
+                  ]
+            },
+            {
+                  "name": "Calry Church",
+                  "text": "O biserică istorică din Sligo, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        -8.466936,
+                        54.272573
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hawk's Well Theatre",
+                  "text": "A major theatre and cultural hub in Sligo.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477114,
+                        54.268859
+                  ]
+            },
+            {
+                  "name": "Caltragh",
+                  "text": "A significant archaeological site with megalithic tombs near Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.508018,
+                        54.253104
+                  ]
+            },
+            {
+                  "name": "Carns Cairn",
+                  "text": "An ancient neolithic burial cairn on a hilltop near Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.450218,
+                        54.255522
+                  ]
+            },
+            {
+                  "name": "Factory theatre",
+                  "text": "A theatre in Sligo used for contemporary performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.477834,
+                        54.273541
+                  ]
+            },
+            {
+                  "name": "Sligo Abbey",
+                  "text": "The ruins of a 13th-century Dominican friary in Sligo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.470712,
+                        54.27086
+                  ]
+            },
+            {
+                  "name": "Green Fort",
+                  "text": "A historic 17th-century star-shaped fort in Sligo.",
+                  "category": "fortress",
+                  "coords": [
+                        -8.46754,
+                        54.274436
+                  ]
+            },
+            {
+                  "name": "Carns (Duke) Cairn",
+                  "text": "An ancient megalithic structure in the Carns area near Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.456273,
+                        54.253344
+                  ]
+            },
+            {
+                  "name": "Abbeyquarter Passage Tomb",
+                  "text": "A prehistoric passage tomb located in a district of Sligo.",
+                  "category": "historical",
+                  "coords": [
+                        -8.460779,
+                        54.269652
+                  ]
+            },
+            {
+                  "name": "WB yeats",
+                  "text": "Attractions in Sligo dedicated to the life and work of the poet W.B. Yeats.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.473871,
+                        54.272549
+                  ]
+            },
+            {
+                  "name": "Famine Memorial",
+                  "text": "A monument in Sligo commemorating the victims of the Great Famine.",
+                  "category": "historical",
+                  "coords": [
+                        -8.476749,
+                        54.273844
+                  ]
+            },
+            {
+                  "name": "Model Niland Gallery",
+                  "text": "A leading contemporary art gallery located in Sligo.",
+                  "category": "museum",
+                  "coords": [
+                        -8.468603,
+                        54.273008
+                  ]
+            },
+            {
+                  "name": "Yeats Memorial Building",
+                  "text": "A landmark building in Sligo dedicated to the memory of W.B. Yeats.",
+                  "category": "natural",
+                  "coords": [
+                        -8.474853,
+                        54.272153
+                  ]
+            },
+            {
+                  "name": "Lest Sligo forgets",
+                  "text": "A monument in Sligo commemorating local historical events.",
+                  "category": "historical",
+                  "coords": [
+                        -8.449868,
+                        54.261715
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Cathedral",
+                  "text": "The Anglican cathedral of Sligo, designed by Richard Cassels.",
+                  "category": "religious",
+                  "coords": [
+                        -8.477366,
+                        54.27011
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception",
+                  "text": "The Catholic cathedral of Sligo, a magnificent Neo-Romanesque structure.",
+                  "category": "religious",
+                  "coords": [
+                        -8.478631,
+                        54.269769
+                  ]
+            },
+            {
+                  "name": "Sligo Presbyterian Church",
+                  "text": "A Presbyterian church serving the community in Sligo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.475844,
+                        54.269713
+                  ]
+            },
+            {
+                  "name": "Calry Church",
+                  "text": "A historic church in Sligo known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.466936,
+                        54.272573
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-8.4706, 54.2697],
@@ -531,7 +9540,772 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-waterford",
+    id: "city-waterford", "sights": {
+      "de": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "Das Theatre Royal Waterford ist ein Theater in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "Der Double Tower ist ein historisches Burggebäude in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "Der Beach Tower ist ein historisches Burgenelement in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "Reginald's Tower ist ein historisches Wahrzeichen und eine ehemalige Burg in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "Der French Tower ist ein historischer Burgturm in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Das Amphitheatre ist ein Veranstaltungsort für Theater in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "Der Semi-Lunar Tower ist eine defensive Burgstruktur in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "Der Band Stand ist eine lokale Freilichtbühne in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "The Forum ist ein Theater und Veranstaltungsort in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "Das Viking Triangle ist eine bekannte kulturelle und historische Attraktion in Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "#44TheQuay ist eine Kunstgalerie in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "Die GOMA Gallery of Modern Art zeigt zeitgenössische Kunstwerke in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "Die Spraoi Studios fungieren als kreatives Kunstzentrum in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Die Church of the Sacred Heart ist eine lokale Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "Die Church Of The Most Holy Trinity Without ist eine ausgewiesene Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Die Holy Family Church ist eine Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's ist eine lokale religiöse Stätte und Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Die Sacred Heart Church ist eine Kultstätte in der Stadt Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "Die Cathedral of the Most Holy Trinity ist eine bemerkenswerte Kultstätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "Die Saint Saviours Dominican Church ist eine religiöse Stätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "Die Waterford Baptist Church ist eine religiöse Stätte in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "A Theatre Royal Waterford egy színház Waterford városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "A Double Tower egy történelmi várépület Waterfordban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "A Beach Tower egy történelmi várelem Waterfordban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "A Reginald's Tower történelmi nevezetesség és egykori vár Waterfordban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "A French Tower egy történelmi vártorony Waterford városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Az Amphitheatre egy színházi helyszín Waterfordban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "A Semi-Lunar Tower egy védelmi várépület Waterford városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "A Band Stand egy helyi szabadtéri színpad Waterfordban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "A Forum egy színház és rendezvényhelyszín Waterford városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "A Viking Triangle egy híres kulturális és történelmi látványosság Waterfordban.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "A #44TheQuay egy művészeti galéria Waterfordban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "A GOMA Gallery of Modern Art kortárs művészeti alkotásokat mutat be Waterfordban.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "A Spraoi Studios kreatív művészeti központként működik Waterfordban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "A Church of the Sacred Heart egy helyi istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "A Church Of The Most Holy Trinity Without egy istentiszteleti hely Waterfordban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "A Holy Family Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "A Saint John's egy helyi vallási helyszín és istentiszteleti hely Waterfordban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Sacred Heart Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "A Cathedral of the Most Holy Trinity egy figyelemre méltó istentiszteleti hely Waterfordban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "A Saint Saviours Dominican Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "A Waterford Baptist Church egy istentiszteleti hely Waterford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "Theatre Royal Waterford este un teatru situat în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "Double Tower este o structură istorică de castel din Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "Beach Tower este un element istoric de castel situat în Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "Reginald's Tower este un punct de reper istoric și un fost castel din Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "French Tower este un turn istoric de castel situat în Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Amphitheatre este un spațiu teatral situat în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "Semi-Lunar Tower este o structură defensivă de castel situată în Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "Band Stand este o scenă teatrală locală în aer liber din Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "Forum este un teatru și un loc de evenimente situat în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "Viking Triangle este o atracție culturală și istorică renumită din Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "#44TheQuay este o galerie de artă situată în Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "GOMA Gallery of Modern Art prezintă opere de artă contemporană în Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "Spraoi Studios funcționează ca un centru de arte creative în Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Church of the Sacred Heart este un lăcaș de cult local din Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "Church Of The Most Holy Trinity Without este un lăcaș de cult desemnat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Holy Family Church este un lăcaș de cult situat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's este un sit religios local și lăcaș de cult din Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Sacred Heart Church este un lăcaș de cult situat în orașul Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "Cathedral of the Most Holy Trinity este un lăcaș de cult notabil din Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "Saint Saviours Dominican Church este un lăcaș de cult situat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "Waterford Baptist Church este un lăcaș de cult situat în Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre Royal Waterford",
+                  "text": "Theatre Royal Waterford is a performing arts theatre located in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106905,
+                        52.259785
+                  ]
+            },
+            {
+                  "name": "Double Tower",
+                  "text": "Double Tower is a historic castle structure in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.112725,
+                        52.256728
+                  ]
+            },
+            {
+                  "name": "Beach Tower",
+                  "text": "Beach Tower is a historic castle element situated in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.113802,
+                        52.261064
+                  ]
+            },
+            {
+                  "name": "Reginald's Tower",
+                  "text": "Reginald's Tower is a historic landmark and former castle in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.105403,
+                        52.260472
+                  ]
+            },
+            {
+                  "name": "French Tower",
+                  "text": "French Tower is a historic castle tower located in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114312,
+                        52.257303
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "The Amphitheatre is a theatrical venue situated in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.106012,
+                        52.256258
+                  ]
+            },
+            {
+                  "name": "Semi-Lunar Tower",
+                  "text": "Semi-Lunar Tower is a defensive castle structure located in Waterford.",
+                  "category": "castle",
+                  "coords": [
+                        -7.114591,
+                        52.259609
+                  ]
+            },
+            {
+                  "name": "Band Stand",
+                  "text": "The Band Stand is a local outdoor theatrical stage in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.104366,
+                        52.256131
+                  ]
+            },
+            {
+                  "name": "Forum",
+                  "text": "The Forum is a theatre and events venue located in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.119594,
+                        52.260976
+                  ]
+            },
+            {
+                  "name": "The Viking Triangle",
+                  "text": "The Viking Triangle is a renowned cultural and historical attraction in Waterford.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.108043,
+                        52.260493
+                  ]
+            },
+            {
+                  "name": "#44TheQuay",
+                  "text": "#44TheQuay is an art gallery situated in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.114207,
+                        52.262587
+                  ]
+            },
+            {
+                  "name": "GOMA Gallery of Modern Art",
+                  "text": "GOMA Gallery of Modern Art showcases contemporary artworks in Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.105469,
+                        52.259508
+                  ]
+            },
+            {
+                  "name": "Spraoi Studios",
+                  "text": "Spraoi Studios operates as a creative arts center in Waterford.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.143612,
+                        52.259852
+                  ]
+            },
+            {
+                  "name": "Church of the Sacred Heart",
+                  "text": "Church of the Sacred Heart is a local place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.100749,
+                        52.266574
+                  ]
+            },
+            {
+                  "name": "Church Of The Most Holy Trinity Without",
+                  "text": "Church Of The Most Holy Trinity Without is a designated place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.116115,
+                        52.259087
+                  ]
+            },
+            {
+                  "name": "Holy Family Church",
+                  "text": "Holy Family Church is a place of worship located in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.123663,
+                        52.255797
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Saint John's is a local religious site and place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.110446,
+                        52.257411
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Sacred Heart Church is a place of worship located in the city of Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.109786,
+                        52.247777
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Most Holy Trinity",
+                  "text": "The Cathedral of the Most Holy Trinity is a notable place of worship in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.11114,
+                        52.261511
+                  ]
+            },
+            {
+                  "name": "Saint Saviours Dominican Church",
+                  "text": "Saint Saviours Dominican Church is a place of worship located in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.118874,
+                        52.263377
+                  ]
+            },
+            {
+                  "name": "Waterford Baptist Church",
+                  "text": "Waterford Baptist Church is a place of worship located in Waterford.",
+                  "category": "religious",
+                  "coords": [
+                        -7.107725,
+                        52.258009
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.1101, 52.2593],
@@ -575,7 +10349,1348 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-kilkenny",
+    id: "city-kilkenny", "sights": {
+      "de": [
+            {
+                  "name": "Maudlin Castle",
+                  "text": "Maudlin Castle ist ein gut erhaltener mittelalterlicher Wohnturm in Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.244697,
+                        52.652633
+                  ]
+            },
+            {
+                  "name": "The Watergate Theatre",
+                  "text": "Das Watergate Theatre ist ein wichtiges Zentrum für darstellende Künste und Unterhaltung in Kilkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254681,
+                        52.655236
+                  ]
+            },
+            {
+                  "name": "Drakelands Castle",
+                  "text": "Das Drakelands Castle ist eine historische Befestigungsanlage in der Nähe von Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.28225,
+                        52.647581
+                  ]
+            },
+            {
+                  "name": "Grace's Old Castle",
+                  "text": "Grace's Old Castle ist eine mittelalterliche Festung, die heute als Gerichtsgebäude von Kilkenny dient.",
+                  "category": "castle",
+                  "coords": [
+                        -7.253827,
+                        52.654235
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Kilkenny Castle ist eine beeindruckende Burg aus dem 12. Jahrhundert und ein Wahrzeichen der Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        -7.248996,
+                        52.650285
+                  ]
+            },
+            {
+                  "name": "Medieval Mile Museum",
+                  "text": "Das Medieval Mile Museum befindet sich in einer ehemaligen Kirche und zeigt die Geschichte Kilkennys.",
+                  "category": "museum",
+                  "coords": [
+                        -7.252179,
+                        52.651797
+                  ]
+            },
+            {
+                  "name": "Shirehall Castle",
+                  "text": "Shirehall Castle ist eine archäologische Ausgrabungsstätte einer ehemaligen mittelalterlichen Anlage.",
+                  "category": "historical",
+                  "coords": [
+                        -7.245729,
+                        52.649326
+                  ]
+            },
+            {
+                  "name": "National Reptile Zoo",
+                  "text": "Der National Reptile Zoo in Kilkenny widmet sich der Haltung und Erforschung von Reptilien und Amphibien.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.231252,
+                        52.65566
+                  ]
+            },
+            {
+                  "name": "The Set Theater",
+                  "text": "The Set Theater ist ein bekannter Veranstaltungsort für Musik und Kleinkunst in Kilkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.248062,
+                        52.652962
+                  ]
+            },
+            {
+                  "name": "Stephens Barracks Museum",
+                  "text": "Das Stephens Barracks Museum präsentiert die Militärgeschichte in einer aktiven Kaserne von Kilkenny.",
+                  "category": "museum",
+                  "coords": [
+                        -7.248495,
+                        52.65981
+                  ]
+            },
+            {
+                  "name": "Rothe House & Garden",
+                  "text": "Das Rothe House ist ein einzigartiges Kaufmannshaus aus der Tudor-Zeit mit einem historischen Garten.",
+                  "category": "museum",
+                  "coords": [
+                        -7.255609,
+                        52.653981
+                  ]
+            },
+            {
+                  "name": "Newpark Marsh Park",
+                  "text": "Dieses Naturschutzgebiet in Kilkenny bietet einen Lebensraum für die lokale Tier- und Pflanzenwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -7.24604,
+                        52.664033
+                  ]
+            },
+            {
+                  "name": "Dicksborough Ringfort (rath)",
+                  "text": "Eine historische archäologische Stätte in Kilkenny, die Überreste eines alten Ringforts zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.286002,
+                        52.650822
+                  ]
+            },
+            {
+                  "name": "Loughboy Ringfort (rath)",
+                  "text": "Diese archäologische Ausgrabungsstätte in Kilkenny umfasst die Überreste eines traditionellen irischen Ringforts.",
+                  "category": "historical",
+                  "coords": [
+                        -7.241472,
+                        52.634878
+                  ]
+            },
+            {
+                  "name": "Flemingstown",
+                  "text": "Eine archäologische Stätte in Kilkenny, die Einblicke in die frühe Besiedlung der Region bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -7.242401,
+                        52.649228
+                  ]
+            },
+            {
+                  "name": "Kenny's Well",
+                  "text": "Ein lokaler Anziehungspunkt in Kilkenny, der mit der Geschichte des Heiligen Canice verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.262177,
+                        52.653245
+                  ]
+            },
+            {
+                  "name": "Butler Gallery",
+                  "text": "Eine führende Galerie für zeitgenössische Kunst in Kilkenny, die in einem historischen Gebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.249153,
+                        52.653872
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Cathedral",
+                  "text": "Diese beeindruckende Kathedrale aus dem 13. Jahrhundert ist eines der bedeutendsten kirchlichen Gebäude in Kilkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.257408,
+                        52.656674
+                  ]
+            },
+            {
+                  "name": "Kyteler's Inn",
+                  "text": "Dieses historische Gasthaus in Kilkenny ist berühmt für seine mittelalterliche Atmosphäre und seine Verbindung zur lokalen Folklore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253152,
+                        52.653226
+                  ]
+            },
+            {
+                  "name": "National Design & Craft Gallery",
+                  "text": "Diese Galerie in Kilkenny präsentiert zeitgenössisches irisches und internationales Kunsthandwerk und Design.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.249914,
+                        52.649562
+                  ]
+            },
+            {
+                  "name": "Art It",
+                  "text": "Ein kreatives Kunstzentrum in Kilkenny, das verschiedene künstlerische Aktivitäten und Workshops anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.245674,
+                        52.655137
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "Besucher können in Kilkenny Bootsfahrten unternehmen, um die Stadt vom Fluss Nore aus zu erkunden.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.2505,
+                        52.651733
+                  ]
+            },
+            {
+                  "name": "The Kilkenny Art Gallery",
+                  "text": "Eine Kunstgalerie in Kilkenny, die Werke lokaler und regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251731,
+                        52.649608
+                  ]
+            },
+            {
+                  "name": "Jurassic Newpark",
+                  "text": "Eine familienfreundliche Attraktion in Kilkenny mit lebensgroßen Dinosaurier-Repliken.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.247275,
+                        52.665536
+                  ]
+            },
+            {
+                  "name": "The Tea Houses",
+                  "text": "Eine charmante Galerie in Kilkenny, die Kunst in einem historischen architektonischen Rahmen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251637,
+                        52.654381
+                  ]
+            },
+            {
+                  "name": "Angel's Well",
+                  "text": "Eine natürliche Quelle in Kilkenny, die lokal als historischer und spiritueller Ort bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.256964,
+                        52.654278
+                  ]
+            },
+            {
+                  "name": "Saint Francis' Well",
+                  "text": "Diese heilige Quelle in Kilkenny ist nach dem Heiligen Franziskus benannt und hat eine lange Tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.252819,
+                        52.656052
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Church",
+                  "text": "Ein historisches Kirchengebäude in Kilkenny, das der lokalen Gemeinde als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.259279,
+                        52.655045
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Diese Kirche in Kilkenny ist dem Heiligen Patrick gewidmet und ist ein aktiver Ort des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        -7.252377,
+                        52.647145
+                  ]
+            },
+            {
+                  "name": "Foulkstown Church",
+                  "text": "Ein traditionelles Kirchengebäude in Kilkenny, das für seine religiöse Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.250674,
+                        52.622007
+                  ]
+            },
+            {
+                  "name": "Kilkenny Methodist Church",
+                  "text": "Das Gotteshaus der methodistischen Gemeinde in Kilkenny bietet Raum für Gottesdienste und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        -7.254217,
+                        52.651081
+                  ]
+            },
+            {
+                  "name": "Kilmalog Church",
+                  "text": "Eine historische Kirche in Kilkenny, die für ihr architektonisches Erbe von Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.214032,
+                        52.646918
+                  ]
+            },
+            {
+                  "name": "Green's Bridge",
+                  "text": "Diese elegante Steinbrücke aus dem 18. Jahrhundert überspannt den Fluss Nore in Kilkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253553,
+                        52.65806
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "Eine bedeutende Kirche in Kilkenny, die für ihre gotische Architektur und ihre historische Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.246607,
+                        52.653962
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Die neugotische Kathedrale von Kilkenny ist der Sitz des katholischen Bischofs von Ossory.",
+                  "category": "religious",
+                  "coords": [
+                        -7.257047,
+                        52.652403
+                  ]
+            },
+            {
+                  "name": "Myles Tower",
+                  "text": "Ein Teil der mittelalterlichen Stadtmauer von Kilkenny, der den Verlauf der historischen Befestigung markiert.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.25357,
+                        52.649157
+                  ]
+            },
+            {
+                  "name": "Saint Molagga's Well",
+                  "text": "Eine traditionelle Quelle in Kilkenny, die mit dem Heiligen Molagga in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.218699,
+                        52.648151
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maudlin Castle",
+                  "text": "A Maudlin-kastély egy jól megőrzött középkori lakótorony Kilkennyben.",
+                  "category": "castle",
+                  "coords": [
+                        -7.244697,
+                        52.652633
+                  ]
+            },
+            {
+                  "name": "The Watergate Theatre",
+                  "text": "A Watergate Színház Kilkenny egyik legfontosabb előadóművészeti és szórakoztató központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254681,
+                        52.655236
+                  ]
+            },
+            {
+                  "name": "Drakelands Castle",
+                  "text": "A Drakelands-kastély egy történelmi erődítmény Kilkenny közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.28225,
+                        52.647581
+                  ]
+            },
+            {
+                  "name": "Grace's Old Castle",
+                  "text": "A Grace's Old Castle egy középkori erődítmény, amely ma Kilkenny bíróságaként működik.",
+                  "category": "castle",
+                  "coords": [
+                        -7.253827,
+                        52.654235
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "A Kilkenny-kastély egy lenyűgöző 12. századi vár és a város egyik fő jelképe.",
+                  "category": "castle",
+                  "coords": [
+                        -7.248996,
+                        52.650285
+                  ]
+            },
+            {
+                  "name": "Medieval Mile Museum",
+                  "text": "A Medieval Mile Múzeum egy egykori templomban található, és Kilkenny történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.252179,
+                        52.651797
+                  ]
+            },
+            {
+                  "name": "Shirehall Castle",
+                  "text": "A Shirehall-kastély egy korábbi középkori építmény régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -7.245729,
+                        52.649326
+                  ]
+            },
+            {
+                  "name": "National Reptile Zoo",
+                  "text": "A Kilkennyben található Nemzeti Hüllőzoo hüllők és kétéltűek bemutatására és kutatására szakosodott.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.231252,
+                        52.65566
+                  ]
+            },
+            {
+                  "name": "The Set Theater",
+                  "text": "A Set Theater Kilkenny egyik ismert zenei és előadó-művészeti helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.248062,
+                        52.652962
+                  ]
+            },
+            {
+                  "name": "Stephens Barracks Museum",
+                  "text": "A Stephens Barracks Múzeum a katonai történelmet mutatja be Kilkenny egyik aktív laktanyájában.",
+                  "category": "museum",
+                  "coords": [
+                        -7.248495,
+                        52.65981
+                  ]
+            },
+            {
+                  "name": "Rothe House & Garden",
+                  "text": "A Rothe House egy egyedülálló Tudor-kori kereskedőház történelmi kerttel.",
+                  "category": "museum",
+                  "coords": [
+                        -7.255609,
+                        52.653981
+                  ]
+            },
+            {
+                  "name": "Newpark Marsh Park",
+                  "text": "Ez a Kilkenny városában található természetvédelmi terület helyi növény- és állatvilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        -7.24604,
+                        52.664033
+                  ]
+            },
+            {
+                  "name": "Dicksborough Ringfort (rath)",
+                  "text": "Kilkenny egyik történelmi régészeti lelőhelye, amely egy ősi gyűrűvár maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        -7.286002,
+                        52.650822
+                  ]
+            },
+            {
+                  "name": "Loughboy Ringfort (rath)",
+                  "text": "Ez a Kilkenny-i régészeti lelőhely egy hagyományos ír gyűrűvár maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.241472,
+                        52.634878
+                  ]
+            },
+            {
+                  "name": "Flemingstown",
+                  "text": "Egy régészeti lelőhely Kilkennyben, amely betekintést nyújt a régió korai betelepülésébe.",
+                  "category": "historical",
+                  "coords": [
+                        -7.242401,
+                        52.649228
+                  ]
+            },
+            {
+                  "name": "Kenny's Well",
+                  "text": "Helyi látnivaló Kilkennyben, amely Szent Canice történetéhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.262177,
+                        52.653245
+                  ]
+            },
+            {
+                  "name": "Butler Gallery",
+                  "text": "Kilkenny egyik vezető kortárs művészeti galériája, amely egy történelmi épületben található.",
+                  "category": "museum",
+                  "coords": [
+                        -7.249153,
+                        52.653872
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Cathedral",
+                  "text": "Ez a lenyűgöző 13. századi székesegyház Kilkenny egyik legjelentősebb egyházi épülete.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.257408,
+                        52.656674
+                  ]
+            },
+            {
+                  "name": "Kyteler's Inn",
+                  "text": "Ez a történelmi fogadó Kilkennyben híres középkori hangulatáról és a helyi folklórhoz való kötődéséről.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253152,
+                        52.653226
+                  ]
+            },
+            {
+                  "name": "National Design & Craft Gallery",
+                  "text": "Ez a Kilkenny-i galéria kortárs ír és nemzetközi kézműves alkotásokat és designt mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.249914,
+                        52.649562
+                  ]
+            },
+            {
+                  "name": "Art It",
+                  "text": "Egy kreatív művészeti központ Kilkennyben, amely különféle művészeti tevékenységeket és workshopokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.245674,
+                        52.655137
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "A látogatók hajókirándulásokon vehetnek részt Kilkennyben, hogy felfedezzék a várost a Nore-folyóról.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.2505,
+                        52.651733
+                  ]
+            },
+            {
+                  "name": "The Kilkenny Art Gallery",
+                  "text": "Egy művészeti galéria Kilkennyben, amely helyi és regionális művészek alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251731,
+                        52.649608
+                  ]
+            },
+            {
+                  "name": "Jurassic Newpark",
+                  "text": "Családbarát látványosság Kilkennyben, élethű dinoszaurusz-replikákkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.247275,
+                        52.665536
+                  ]
+            },
+            {
+                  "name": "The Tea Houses",
+                  "text": "Egy bájos galéria Kilkennyben, amely történelmi építészeti környezetben mutat be művészeti alkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251637,
+                        52.654381
+                  ]
+            },
+            {
+                  "name": "Angel's Well",
+                  "text": "Egy természetes forrás Kilkennyben, amely helyileg történelmi és spirituális helyszínként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.256964,
+                        52.654278
+                  ]
+            },
+            {
+                  "name": "Saint Francis' Well",
+                  "text": "Ez a Kilkenny-i szent kút Szent Ferencről kapta a nevét, és hosszú hagyományra tekint vissza.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.252819,
+                        52.656052
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Church",
+                  "text": "Egy történelmi templomépület Kilkennyben, amely a helyi közösség hitéletének színhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -7.259279,
+                        52.655045
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Ez a Kilkenny-i templom Szent Patrik tiszteletére épült, és aktív vallási helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        -7.252377,
+                        52.647145
+                  ]
+            },
+            {
+                  "name": "Foulkstown Church",
+                  "text": "Egy hagyományos templomépület Kilkennyben, amely vallási építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -7.250674,
+                        52.622007
+                  ]
+            },
+            {
+                  "name": "Kilkenny Methodist Church",
+                  "text": "A Kilkenny-i metodista gyülekezet imaháza istentiszteleteknek és közösségi eseményeknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        -7.254217,
+                        52.651081
+                  ]
+            },
+            {
+                  "name": "Kilmalog Church",
+                  "text": "Egy történelmi templom Kilkennyben, amely építészeti öröksége miatt jelentős.",
+                  "category": "religious",
+                  "coords": [
+                        -7.214032,
+                        52.646918
+                  ]
+            },
+            {
+                  "name": "Green's Bridge",
+                  "text": "Ez az elegáns 18. századi kőhíd a Nore-folyón ível át Kilkennyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253553,
+                        52.65806
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "Kilkenny egyik jelentős temploma, amely gótikus építészetéről és történelmi jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -7.246607,
+                        52.653962
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Kilkenny neogótikus székesegyháza az Ossory-i katolikus püspök székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -7.257047,
+                        52.652403
+                  ]
+            },
+            {
+                  "name": "Myles Tower",
+                  "text": "Kilkenny középkori városfalának egy része, amely a történelmi erődítmény vonalát jelzi.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.25357,
+                        52.649157
+                  ]
+            },
+            {
+                  "name": "Saint Molagga's Well",
+                  "text": "Egy hagyományos forrás Kilkennyben, amelyet Szent Molaggával hoznak összefüggésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.218699,
+                        52.648151
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maudlin Castle",
+                  "text": "Castelul Maudlin este un turn medieval de locuit bine conservat din Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.244697,
+                        52.652633
+                  ]
+            },
+            {
+                  "name": "The Watergate Theatre",
+                  "text": "Teatrul Watergate este un centru important pentru artele spectacolului și divertisment din Kilkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254681,
+                        52.655236
+                  ]
+            },
+            {
+                  "name": "Drakelands Castle",
+                  "text": "Castelul Drakelands este o fortificație istorică situată în apropiere de Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.28225,
+                        52.647581
+                  ]
+            },
+            {
+                  "name": "Grace's Old Castle",
+                  "text": "Grace's Old Castle este o fortăreață medievală care servește astăzi drept tribunal al orașului Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.253827,
+                        52.654235
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Castelul Kilkenny este o fortăreață impresionantă din secolul al XII-lea și un simbol al orașului.",
+                  "category": "castle",
+                  "coords": [
+                        -7.248996,
+                        52.650285
+                  ]
+            },
+            {
+                  "name": "Medieval Mile Museum",
+                  "text": "Muzeul Medieval Mile este situat într-o fostă biserică și prezintă istoria orașului Kilkenny.",
+                  "category": "museum",
+                  "coords": [
+                        -7.252179,
+                        52.651797
+                  ]
+            },
+            {
+                  "name": "Shirehall Castle",
+                  "text": "Castelul Shirehall este un sit arheologic al unei foste structuri medievale.",
+                  "category": "historical",
+                  "coords": [
+                        -7.245729,
+                        52.649326
+                  ]
+            },
+            {
+                  "name": "National Reptile Zoo",
+                  "text": "Grădina Zoologică Națională de Reptile din Kilkenny este dedicată conservării și studiului reptilelor și amfibienilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.231252,
+                        52.65566
+                  ]
+            },
+            {
+                  "name": "The Set Theater",
+                  "text": "The Set Theater este un spațiu renumit pentru muzică și spectacole din Kilkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.248062,
+                        52.652962
+                  ]
+            },
+            {
+                  "name": "Stephens Barracks Museum",
+                  "text": "Muzeul Stephens Barracks prezintă istoria militară în cadrul unei unități active din Kilkenny.",
+                  "category": "museum",
+                  "coords": [
+                        -7.248495,
+                        52.65981
+                  ]
+            },
+            {
+                  "name": "Rothe House & Garden",
+                  "text": "Casa Rothe este o locuință de negustor unică din epoca Tudor, cu o grădină istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -7.255609,
+                        52.653981
+                  ]
+            },
+            {
+                  "name": "Newpark Marsh Park",
+                  "text": "Această rezervație naturală din Kilkenny oferă un habitat pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -7.24604,
+                        52.664033
+                  ]
+            },
+            {
+                  "name": "Dicksborough Ringfort (rath)",
+                  "text": "Un sit arheologic istoric din Kilkenny, ce prezintă vestigiile unei vechi fortificații circulare.",
+                  "category": "historical",
+                  "coords": [
+                        -7.286002,
+                        52.650822
+                  ]
+            },
+            {
+                  "name": "Loughboy Ringfort (rath)",
+                  "text": "Acest sit arheologic din Kilkenny cuprinde rămășițele unei fortificații circulare tradiționale irlandeze.",
+                  "category": "historical",
+                  "coords": [
+                        -7.241472,
+                        52.634878
+                  ]
+            },
+            {
+                  "name": "Flemingstown",
+                  "text": "Un sit arheologic din Kilkenny care oferă perspective asupra așezărilor timpurii din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        -7.242401,
+                        52.649228
+                  ]
+            },
+            {
+                  "name": "Kenny's Well",
+                  "text": "O atracție locală din Kilkenny, asociată cu istoria Sfântului Canice.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.262177,
+                        52.653245
+                  ]
+            },
+            {
+                  "name": "Butler Gallery",
+                  "text": "O galerie de artă contemporană de seamă din Kilkenny, găzduită într-o clădire istorică.",
+                  "category": "museum",
+                  "coords": [
+                        -7.249153,
+                        52.653872
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Cathedral",
+                  "text": "Această catedrală impresionantă din secolul al XIII-lea este una dintre cele mai importante clădiri ecleziastice din Kilkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.257408,
+                        52.656674
+                  ]
+            },
+            {
+                  "name": "Kyteler's Inn",
+                  "text": "Această han istoric din Kilkenny este faimos pentru atmosfera sa medievală și legăturile cu folclorul local.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253152,
+                        52.653226
+                  ]
+            },
+            {
+                  "name": "National Design & Craft Gallery",
+                  "text": "Această galerie din Kilkenny prezintă meșteșuguri și design contemporan irlandez și internațional.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.249914,
+                        52.649562
+                  ]
+            },
+            {
+                  "name": "Art It",
+                  "text": "Un centru de artă creativă din Kilkenny, care oferă diverse activități artistice și ateliere.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.245674,
+                        52.655137
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "Vizitatorii se pot bucura de excursii cu barca în Kilkenny pentru a explora orașul de pe râul Nore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.2505,
+                        52.651733
+                  ]
+            },
+            {
+                  "name": "The Kilkenny Art Gallery",
+                  "text": "O galerie de artă din Kilkenny care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251731,
+                        52.649608
+                  ]
+            },
+            {
+                  "name": "Jurassic Newpark",
+                  "text": "O atracție pentru familii din Kilkenny, care include replici în mărime naturală de dinozauri.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.247275,
+                        52.665536
+                  ]
+            },
+            {
+                  "name": "The Tea Houses",
+                  "text": "O galerie fermecătoare din Kilkenny care expune artă într-un cadru arhitectural istoric.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251637,
+                        52.654381
+                  ]
+            },
+            {
+                  "name": "Angel's Well",
+                  "text": "Un izvor natural din Kilkenny, cunoscut local ca un sit istoric și spiritual.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.256964,
+                        52.654278
+                  ]
+            },
+            {
+                  "name": "Saint Francis' Well",
+                  "text": "Acest izvor sfânt din Kilkenny poartă numele Sfântului Francisc și are o lungă tradiție.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.252819,
+                        52.656052
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Church",
+                  "text": "O clădire istorică de biserică din Kilkenny, care servește comunității locale ca loc de închinare.",
+                  "category": "religious",
+                  "coords": [
+                        -7.259279,
+                        52.655045
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Această biserică din Kilkenny este dedicată Sfântului Patrick și este un loc activ de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        -7.252377,
+                        52.647145
+                  ]
+            },
+            {
+                  "name": "Foulkstown Church",
+                  "text": "O clădire de biserică tradițională din Kilkenny, cunoscută pentru arhitectura sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        -7.250674,
+                        52.622007
+                  ]
+            },
+            {
+                  "name": "Kilkenny Methodist Church",
+                  "text": "Locul de închinare al comunității metodiste din Kilkenny oferă spațiu pentru slujbe și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        -7.254217,
+                        52.651081
+                  ]
+            },
+            {
+                  "name": "Kilmalog Church",
+                  "text": "O biserică istorică din Kilkenny, importantă pentru moștenirea sa arhitecturală.",
+                  "category": "religious",
+                  "coords": [
+                        -7.214032,
+                        52.646918
+                  ]
+            },
+            {
+                  "name": "Green's Bridge",
+                  "text": "Acest pod elegant de piatră din secolul al XVIII-lea traversează râul Nore în Kilkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253553,
+                        52.65806
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "O biserică importantă din Kilkenny, cunoscută pentru arhitectura sa gotică și semnificația istorică.",
+                  "category": "religious",
+                  "coords": [
+                        -7.246607,
+                        52.653962
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Catedrala neogotică din Kilkenny este sediul episcopului catolic de Ossory.",
+                  "category": "religious",
+                  "coords": [
+                        -7.257047,
+                        52.652403
+                  ]
+            },
+            {
+                  "name": "Myles Tower",
+                  "text": "O parte a zidului medieval al orașului Kilkenny, care marchează traseul fortificațiilor istorice.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.25357,
+                        52.649157
+                  ]
+            },
+            {
+                  "name": "Saint Molagga's Well",
+                  "text": "Un izvor tradițional din Kilkenny, asociat cu Sfântul Molagga.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.218699,
+                        52.648151
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maudlin Castle",
+                  "text": "Maudlin Castle is a well-preserved medieval tower house in Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.244697,
+                        52.652633
+                  ]
+            },
+            {
+                  "name": "The Watergate Theatre",
+                  "text": "The Watergate Theatre is a key performing arts and entertainment centre in Kilkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254681,
+                        52.655236
+                  ]
+            },
+            {
+                  "name": "Drakelands Castle",
+                  "text": "Drakelands Castle is a historic fortified structure located near Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.28225,
+                        52.647581
+                  ]
+            },
+            {
+                  "name": "Grace's Old Castle",
+                  "text": "Grace's Old Castle is a medieval fortress that now serves as the courthouse for Kilkenny.",
+                  "category": "castle",
+                  "coords": [
+                        -7.253827,
+                        52.654235
+                  ]
+            },
+            {
+                  "name": "Kilkenny Castle",
+                  "text": "Kilkenny Castle is an impressive 12th-century castle and a major landmark of the city.",
+                  "category": "castle",
+                  "coords": [
+                        -7.248996,
+                        52.650285
+                  ]
+            },
+            {
+                  "name": "Medieval Mile Museum",
+                  "text": "The Medieval Mile Museum is located in a former church and showcases the history of Kilkenny.",
+                  "category": "museum",
+                  "coords": [
+                        -7.252179,
+                        52.651797
+                  ]
+            },
+            {
+                  "name": "Shirehall Castle",
+                  "text": "Shirehall Castle is an archaeological site of a former medieval structure.",
+                  "category": "historical",
+                  "coords": [
+                        -7.245729,
+                        52.649326
+                  ]
+            },
+            {
+                  "name": "National Reptile Zoo",
+                  "text": "The National Reptile Zoo in Kilkenny is dedicated to the conservation and study of reptiles and amphibians.",
+                  "category": "recreational",
+                  "coords": [
+                        -7.231252,
+                        52.65566
+                  ]
+            },
+            {
+                  "name": "The Set Theater",
+                  "text": "The Set Theater is a popular music and performance venue in Kilkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.248062,
+                        52.652962
+                  ]
+            },
+            {
+                  "name": "Stephens Barracks Museum",
+                  "text": "Stephens Barracks Museum showcases military history within an active army barracks in Kilkenny.",
+                  "category": "museum",
+                  "coords": [
+                        -7.248495,
+                        52.65981
+                  ]
+            },
+            {
+                  "name": "Rothe House & Garden",
+                  "text": "Rothe House is a unique Tudor-era merchant's house featuring a historic garden.",
+                  "category": "museum",
+                  "coords": [
+                        -7.255609,
+                        52.653981
+                  ]
+            },
+            {
+                  "name": "Newpark Marsh Park",
+                  "text": "This nature reserve in Kilkenny provides a habitat for local wildlife and plant species.",
+                  "category": "natural",
+                  "coords": [
+                        -7.24604,
+                        52.664033
+                  ]
+            },
+            {
+                  "name": "Dicksborough Ringfort (rath)",
+                  "text": "A historical archaeological site in Kilkenny featuring the remains of an ancient ringfort.",
+                  "category": "historical",
+                  "coords": [
+                        -7.286002,
+                        52.650822
+                  ]
+            },
+            {
+                  "name": "Loughboy Ringfort (rath)",
+                  "text": "This archaeological site in Kilkenny encompasses the remains of a traditional Irish ringfort.",
+                  "category": "historical",
+                  "coords": [
+                        -7.241472,
+                        52.634878
+                  ]
+            },
+            {
+                  "name": "Flemingstown",
+                  "text": "An archaeological site in Kilkenny providing insights into the early settlement of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -7.242401,
+                        52.649228
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Well",
+                  "text": "A local attraction in Kilkenny associated with the history of Saint Canice.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.262177,
+                        52.653245
+                  ]
+            },
+            {
+                  "name": "Butler Gallery",
+                  "text": "A leading contemporary art gallery in Kilkenny, housed in a historic building.",
+                  "category": "museum",
+                  "coords": [
+                        -7.249153,
+                        52.653872
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Cathedral",
+                  "text": "This impressive 13th-century cathedral is one of the most significant ecclesiastical buildings in Kilkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.257408,
+                        52.656674
+                  ]
+            },
+            {
+                  "name": "Kyteler's Inn",
+                  "text": "This historic inn in Kilkenny is famous for its medieval atmosphere and connections to local folklore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253152,
+                        52.653226
+                  ]
+            },
+            {
+                  "name": "National Design & Craft Gallery",
+                  "text": "This gallery in Kilkenny showcases contemporary Irish and international craft and design.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.249914,
+                        52.649562
+                  ]
+            },
+            {
+                  "name": "Art It",
+                  "text": "A creative arts centre in Kilkenny offering various artistic activities and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.245674,
+                        52.655137
+                  ]
+            },
+            {
+                  "name": "Boat Trips",
+                  "text": "Visitors can enjoy boat trips in Kilkenny to explore the city from the River Nore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.2505,
+                        52.651733
+                  ]
+            },
+            {
+                  "name": "The Kilkenny Art Gallery",
+                  "text": "An art gallery in Kilkenny exhibiting works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251731,
+                        52.649608
+                  ]
+            },
+            {
+                  "name": "Jurassic Newpark",
+                  "text": "A family-friendly attraction in Kilkenny featuring life-sized dinosaur replicas.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.247275,
+                        52.665536
+                  ]
+            },
+            {
+                  "name": "The Tea Houses",
+                  "text": "A charming gallery in Kilkenny showcasing art within a historic architectural setting.",
+                  "category": "museum",
+                  "coords": [
+                        -7.251637,
+                        52.654381
+                  ]
+            },
+            {
+                  "name": "Angel's Well",
+                  "text": "A natural spring in Kilkenny known locally as a historic and spiritual site.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.256964,
+                        52.654278
+                  ]
+            },
+            {
+                  "name": "Saint Francis' Well",
+                  "text": "This holy well in Kilkenny is named after Saint Francis and has a long tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.252819,
+                        52.656052
+                  ]
+            },
+            {
+                  "name": "Saint Canice's Church",
+                  "text": "A historic church building in Kilkenny serving the local community as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -7.259279,
+                        52.655045
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "This church in Kilkenny is dedicated to Saint Patrick and is an active place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        -7.252377,
+                        52.647145
+                  ]
+            },
+            {
+                  "name": "Foulkstown Church",
+                  "text": "A traditional church building in Kilkenny known for its religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -7.250674,
+                        52.622007
+                  ]
+            },
+            {
+                  "name": "Kilkenny Methodist Church",
+                  "text": "The place of worship for the Methodist community in Kilkenny provides space for services and fellowship.",
+                  "category": "religious",
+                  "coords": [
+                        -7.254217,
+                        52.651081
+                  ]
+            },
+            {
+                  "name": "Kilmalog Church",
+                  "text": "A historic church in Kilkenny significant for its architectural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        -7.214032,
+                        52.646918
+                  ]
+            },
+            {
+                  "name": "Green's Bridge",
+                  "text": "This elegant 18th-century stone bridge spans the River Nore in Kilkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.253553,
+                        52.65806
+                  ]
+            },
+            {
+                  "name": "Saint John's Church",
+                  "text": "A significant church in Kilkenny known for its Gothic architecture and historical importance.",
+                  "category": "religious",
+                  "coords": [
+                        -7.246607,
+                        52.653962
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Kilkenny's neo-Gothic cathedral is the seat of the Catholic Bishop of Ossory.",
+                  "category": "religious",
+                  "coords": [
+                        -7.257047,
+                        52.652403
+                  ]
+            },
+            {
+                  "name": "Myles Tower",
+                  "text": "A part of Kilkenny's medieval city wall, marking the line of the historic fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.25357,
+                        52.649157
+                  ]
+            },
+            {
+                  "name": "Saint Molagga's Well",
+                  "text": "A traditional spring in Kilkenny associated with Saint Molagga.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.218699,
+                        52.648151
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.2449, 52.6485],
@@ -663,7 +11778,700 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-tralee",
+    id: "city-tralee", "sights": {
+      "de": [
+            {
+                  "name": "Kerry County Museum",
+                  "text": "Ein Museum in Tralee, das die Geschichte und Archäologie der Grafschaft Kerry präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705962,
+                        52.266729
+                  ]
+            },
+            {
+                  "name": "Siamsa Tíre Theatre",
+                  "text": "Irlands nationales Volkstheater mit Sitz in Tralee.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.708321,
+                        52.266449
+                  ]
+            },
+            {
+                  "name": "Lisnadreeglee",
+                  "text": "Eine antike archäologische Stätte in der Nähe von Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.683232,
+                        52.293809
+                  ]
+            },
+            {
+                  "name": "Lisroe",
+                  "text": "Überreste einer prähistorischen Siedlung oder Stätte bei Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.71566,
+                        52.286172
+                  ]
+            },
+            {
+                  "name": "Blennerville Windmill",
+                  "text": "Diese restaurierte Windmühle aus dem 18. Jahrhundert ist ein Wahrzeichen von Tralee.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737144,
+                        52.256716
+                  ]
+            },
+            {
+                  "name": "Mounthawk Park",
+                  "text": "Ein lokaler Park in Tralee, der für sportliche Aktivitäten genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -9.714716,
+                        52.283184
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Park FC",
+                  "text": "Eine Grünanlage in Tralee, die mit dem lokalen Fußballverein verbunden ist.",
+                  "category": "park",
+                  "coords": [
+                        -9.712331,
+                        52.282063
+                  ]
+            },
+            {
+                  "name": "Clogherbrien Church",
+                  "text": "Historische Kirchenruinen in der Nähe von Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.741875,
+                        52.283991
+                  ]
+            },
+            {
+                  "name": "Ballybeggan Castle ruins",
+                  "text": "Die Überreste einer mittelalterlichen Burg in der Umgebung von Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.666323,
+                        52.280236
+                  ]
+            },
+            {
+                  "name": "Footballers Statue",
+                  "text": "Ein Denkmal in Tralee, das dem sportlichen Erbe der Region gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -9.674622,
+                        52.264563
+                  ]
+            },
+            {
+                  "name": "Charles Kerins Monument",
+                  "text": "Ein Denkmal in Tralee zur Erinnerung an Charles Kerins.",
+                  "category": "historical",
+                  "coords": [
+                        -9.712913,
+                        52.268916
+                  ]
+            },
+            {
+                  "name": "Sonny McCarthy Memorial",
+                  "text": "Eine Gedenkstätte in Tralee zu Ehren von Sonny McCarthy.",
+                  "category": "historical",
+                  "coords": [
+                        -9.706905,
+                        52.266605
+                  ]
+            },
+            {
+                  "name": "John Hurley Gallery",
+                  "text": "Eine Kunstgalerie in Tralee, die lokale Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705349,
+                        52.269103
+                  ]
+            },
+            {
+                  "name": "Indian Mutiny / 2nd Anglo Chinese War Memorial",
+                  "text": "Ein historisches Denkmal in Tralee zur Erinnerung an koloniale Konflikte.",
+                  "category": "historical",
+                  "coords": [
+                        -9.703921,
+                        52.269827
+                  ]
+            },
+            {
+                  "name": "View of Windmill",
+                  "text": "Ein Aussichtspunkt in Tralee mit Blick auf die lokale Windmühle.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.738837,
+                        52.25669
+                  ]
+            },
+            {
+                  "name": "James Last Monument",
+                  "text": "Ein Denkmal in Tralee zu Ehren von James Last.",
+                  "category": "historical",
+                  "coords": [
+                        -9.692591,
+                        52.268948
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Eine religiöse Stätte in Tralee für Gottesdienste und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        -9.702937,
+                        52.268009
+                  ]
+            },
+            {
+                  "name": "Church of Saint John the Evangelist",
+                  "text": "Die anglikanische Kirche St. John the Evangelist in Tralee.",
+                  "category": "religious",
+                  "coords": [
+                        -9.703824,
+                        52.271026
+                  ]
+            },
+            {
+                  "name": "Ratass Church",
+                  "text": "Diese antike Kirchenruine in Tralee ist für ihre Ogham-Steine bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        -9.68182,
+                        52.267009
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kerry County Museum",
+                  "text": "Tralee múzeuma, amely Kerry megye történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705962,
+                        52.266729
+                  ]
+            },
+            {
+                  "name": "Siamsa Tíre Theatre",
+                  "text": "Írország nemzeti népi színháza, amelynek Tralee ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.708321,
+                        52.266449
+                  ]
+            },
+            {
+                  "name": "Lisnadreeglee",
+                  "text": "Ősi régészeti lelőhely Tralee közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.683232,
+                        52.293809
+                  ]
+            },
+            {
+                  "name": "Lisroe",
+                  "text": "Prehisztorikus település vagy lelőhely maradványai Tralee közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.71566,
+                        52.286172
+                  ]
+            },
+            {
+                  "name": "Blennerville Windmill",
+                  "text": "Ez a 18. századi restaurált szélmalom Tralee egyik jellegzetes látnivalója.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737144,
+                        52.256716
+                  ]
+            },
+            {
+                  "name": "Mounthawk Park",
+                  "text": "Helyi park Tralee-ben, amelyet sportolásra használnak.",
+                  "category": "park",
+                  "coords": [
+                        -9.714716,
+                        52.283184
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Park FC",
+                  "text": "Zöldterület Tralee-ben, amely a helyi labdarúgóklubhoz kapcsolódik.",
+                  "category": "park",
+                  "coords": [
+                        -9.712331,
+                        52.282063
+                  ]
+            },
+            {
+                  "name": "Clogherbrien Church",
+                  "text": "Történelmi templomromok Tralee közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.741875,
+                        52.283991
+                  ]
+            },
+            {
+                  "name": "Ballybeggan Castle ruins",
+                  "text": "Egy középkori vár maradványai Tralee környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.666323,
+                        52.280236
+                  ]
+            },
+            {
+                  "name": "Footballers Statue",
+                  "text": "Tralee-i emlékmű, amelyet a régió sportörökségének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        -9.674622,
+                        52.264563
+                  ]
+            },
+            {
+                  "name": "Charles Kerins Monument",
+                  "text": "Emlékmű Tralee-ben, Charles Kerins emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -9.712913,
+                        52.268916
+                  ]
+            },
+            {
+                  "name": "Sonny McCarthy Memorial",
+                  "text": "Emlékhely Tralee-ben, Sonny McCarthy tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -9.706905,
+                        52.266605
+                  ]
+            },
+            {
+                  "name": "John Hurley Gallery",
+                  "text": "Művészeti galéria Tralee-ben, amely helyi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705349,
+                        52.269103
+                  ]
+            },
+            {
+                  "name": "Indian Mutiny / 2nd Anglo Chinese War Memorial",
+                  "text": "Történelmi emlékmű Tralee-ben, amely a gyarmati konfliktusokra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -9.703921,
+                        52.269827
+                  ]
+            },
+            {
+                  "name": "View of Windmill",
+                  "text": "Kilátópont Tralee-ben, ahonnan rálátni a helyi szélmalomra.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.738837,
+                        52.25669
+                  ]
+            },
+            {
+                  "name": "James Last Monument",
+                  "text": "Emlékmű Tralee-ben, James Last tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -9.692591,
+                        52.268948
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Vallási helyszín Tralee-ben istentiszteletek és elmélyülés céljából.",
+                  "category": "religious",
+                  "coords": [
+                        -9.702937,
+                        52.268009
+                  ]
+            },
+            {
+                  "name": "Church of Saint John the Evangelist",
+                  "text": "A Szent János evangélista templom Tralee-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.703824,
+                        52.271026
+                  ]
+            },
+            {
+                  "name": "Ratass Church",
+                  "text": "Ez az ősi templomrom Tralee-ben az Ogham-köveiről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        -9.68182,
+                        52.267009
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kerry County Museum",
+                  "text": "Un muzeu din Tralee care prezintă istoria și arheologia comitatului Kerry.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705962,
+                        52.266729
+                  ]
+            },
+            {
+                  "name": "Siamsa Tíre Theatre",
+                  "text": "Teatrul național de folclor al Irlandei, cu sediul în Tralee.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.708321,
+                        52.266449
+                  ]
+            },
+            {
+                  "name": "Lisnadreeglee",
+                  "text": "Un sit arheologic antic situat lângă Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.683232,
+                        52.293809
+                  ]
+            },
+            {
+                  "name": "Lisroe",
+                  "text": "Rămășițele unei așezări sau sit preistoric lângă Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.71566,
+                        52.286172
+                  ]
+            },
+            {
+                  "name": "Blennerville Windmill",
+                  "text": "Această moară de vânt restaurată din secolul al XVIII-lea este un simbol al orașului Tralee.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737144,
+                        52.256716
+                  ]
+            },
+            {
+                  "name": "Mounthawk Park",
+                  "text": "Un parc local în Tralee, utilizat pentru activități sportive.",
+                  "category": "park",
+                  "coords": [
+                        -9.714716,
+                        52.283184
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Park FC",
+                  "text": "Un spațiu verde în Tralee, asociat cu clubul local de fotbal.",
+                  "category": "park",
+                  "coords": [
+                        -9.712331,
+                        52.282063
+                  ]
+            },
+            {
+                  "name": "Clogherbrien Church",
+                  "text": "Ruinele unei biserici istorice situate lângă Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.741875,
+                        52.283991
+                  ]
+            },
+            {
+                  "name": "Ballybeggan Castle ruins",
+                  "text": "Rămășițele unui castel medieval din împrejurimile orașului Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.666323,
+                        52.280236
+                  ]
+            },
+            {
+                  "name": "Footballers Statue",
+                  "text": "Un monument în Tralee dedicat moștenirii sportive a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -9.674622,
+                        52.264563
+                  ]
+            },
+            {
+                  "name": "Charles Kerins Monument",
+                  "text": "Un monument în Tralee ridicat în memoria lui Charles Kerins.",
+                  "category": "historical",
+                  "coords": [
+                        -9.712913,
+                        52.268916
+                  ]
+            },
+            {
+                  "name": "Sonny McCarthy Memorial",
+                  "text": "Un memorial în Tralee în onoarea lui Sonny McCarthy.",
+                  "category": "historical",
+                  "coords": [
+                        -9.706905,
+                        52.266605
+                  ]
+            },
+            {
+                  "name": "John Hurley Gallery",
+                  "text": "O galerie de artă în Tralee ce prezintă lucrări locale.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705349,
+                        52.269103
+                  ]
+            },
+            {
+                  "name": "Indian Mutiny / 2nd Anglo Chinese War Memorial",
+                  "text": "Un monument istoric în Tralee ce comemorează conflicte coloniale.",
+                  "category": "historical",
+                  "coords": [
+                        -9.703921,
+                        52.269827
+                  ]
+            },
+            {
+                  "name": "View of Windmill",
+                  "text": "Un punct de observație în Tralee cu vedere spre moara de vânt locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.738837,
+                        52.25669
+                  ]
+            },
+            {
+                  "name": "James Last Monument",
+                  "text": "Un monument în Tralee dedicat lui James Last.",
+                  "category": "historical",
+                  "coords": [
+                        -9.692591,
+                        52.268948
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "Un lăcaș de cult în Tralee pentru servicii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -9.702937,
+                        52.268009
+                  ]
+            },
+            {
+                  "name": "Church of Saint John the Evangelist",
+                  "text": "Biserica Sfântul Ioan Evanghelistul din Tralee.",
+                  "category": "religious",
+                  "coords": [
+                        -9.703824,
+                        52.271026
+                  ]
+            },
+            {
+                  "name": "Ratass Church",
+                  "text": "Această ruină de biserică veche din Tralee este cunoscută pentru pietrele sale Ogham.",
+                  "category": "religious",
+                  "coords": [
+                        -9.68182,
+                        52.267009
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kerry County Museum",
+                  "text": "A museum in Tralee showcasing the history and archaeology of County Kerry.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705962,
+                        52.266729
+                  ]
+            },
+            {
+                  "name": "Siamsa Tíre Theatre",
+                  "text": "Ireland's National Folk Theatre, based in Tralee.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.708321,
+                        52.266449
+                  ]
+            },
+            {
+                  "name": "Lisnadreeglee",
+                  "text": "An ancient archaeological site located near Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.683232,
+                        52.293809
+                  ]
+            },
+            {
+                  "name": "Lisroe",
+                  "text": "Remains of a prehistoric settlement or site near Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.71566,
+                        52.286172
+                  ]
+            },
+            {
+                  "name": "Blennerville Windmill",
+                  "text": "This restored 18th-century windmill is a prominent landmark in Tralee.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.737144,
+                        52.256716
+                  ]
+            },
+            {
+                  "name": "Mounthawk Park",
+                  "text": "A local park in Tralee used for sporting activities.",
+                  "category": "park",
+                  "coords": [
+                        -9.714716,
+                        52.283184
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Park FC",
+                  "text": "A green space in Tralee associated with the local football club.",
+                  "category": "park",
+                  "coords": [
+                        -9.712331,
+                        52.282063
+                  ]
+            },
+            {
+                  "name": "Clogherbrien Church",
+                  "text": "Historic church ruins located near Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.741875,
+                        52.283991
+                  ]
+            },
+            {
+                  "name": "Ballybeggan Castle ruins",
+                  "text": "The remains of a medieval castle in the vicinity of Tralee.",
+                  "category": "historical",
+                  "coords": [
+                        -9.666323,
+                        52.280236
+                  ]
+            },
+            {
+                  "name": "Footballers Statue",
+                  "text": "A monument in Tralee dedicated to the sporting heritage of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.674622,
+                        52.264563
+                  ]
+            },
+            {
+                  "name": "Charles Kerins Monument",
+                  "text": "A monument in Tralee commemorating Charles Kerins.",
+                  "category": "historical",
+                  "coords": [
+                        -9.712913,
+                        52.268916
+                  ]
+            },
+            {
+                  "name": "Sonny McCarthy Memorial",
+                  "text": "A memorial in Tralee honoring Sonny McCarthy.",
+                  "category": "historical",
+                  "coords": [
+                        -9.706905,
+                        52.266605
+                  ]
+            },
+            {
+                  "name": "John Hurley Gallery",
+                  "text": "An art gallery in Tralee showcasing local works.",
+                  "category": "museum",
+                  "coords": [
+                        -9.705349,
+                        52.269103
+                  ]
+            },
+            {
+                  "name": "Indian Mutiny / 2nd Anglo Chinese War Memorial",
+                  "text": "A historical monument in Tralee commemorating colonial conflicts.",
+                  "category": "historical",
+                  "coords": [
+                        -9.703921,
+                        52.269827
+                  ]
+            },
+            {
+                  "name": "View of Windmill",
+                  "text": "An observation point in Tralee with a view of the local windmill.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.738837,
+                        52.25669
+                  ]
+            },
+            {
+                  "name": "James Last Monument",
+                  "text": "A monument in Tralee dedicated to James Last.",
+                  "category": "historical",
+                  "coords": [
+                        -9.692591,
+                        52.268948
+                  ]
+            },
+            {
+                  "name": "Saint John's",
+                  "text": "A religious site in Tralee for worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        -9.702937,
+                        52.268009
+                  ]
+            },
+            {
+                  "name": "Church of Saint John the Evangelist",
+                  "text": "The Church of Saint John the Evangelist in Tralee.",
+                  "category": "religious",
+                  "coords": [
+                        -9.703824,
+                        52.271026
+                  ]
+            },
+            {
+                  "name": "Ratass Church",
+                  "text": "This ancient church ruin in Tralee is known for its Ogham stones.",
+                  "category": "religious",
+                  "coords": [
+                        -9.68182,
+                        52.267009
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-9.7056, 52.2704],
@@ -707,7 +12515,484 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-dundalk",
+    id: "city-dundalk", "sights": {
+      "de": [
+            {
+                  "name": "Louth County Museum",
+                  "text": "Das Louth County Museum ist ein Museum in Dundalk. Es dokumentiert die Geschichte und das industrielle Erbe des County Louth.",
+                  "category": "museum",
+                  "coords": [
+                        -6.396971,
+                        54.004641
+                  ]
+            },
+            {
+                  "name": "Castletown Motte",
+                  "text": "Castletown Motte ist eine archäologische Stätte in Dundalk. Es handelt sich um die Überreste einer bekannten normannischen Turmhügelburg.",
+                  "category": "historical",
+                  "coords": [
+                        -6.430253,
+                        54.013825
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Das Railway Museum ist ein Museum in Dundalk.",
+                  "category": "museum",
+                  "coords": [
+                        -6.412847,
+                        54.001733
+                  ]
+            },
+            {
+                  "name": "Mac Anna Theatre",
+                  "text": "Das Mac Anna Theatre ist ein Theater in Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.392245,
+                        53.983211
+                  ]
+            },
+            {
+                  "name": "Kellys Monument",
+                  "text": "Das Kellys Monument ist ein Denkmal in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.399414,
+                        54.004402
+                  ]
+            },
+            {
+                  "name": "Sìochàin",
+                  "text": "Peace ist ein Denkmal in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.401651,
+                        54.011193
+                  ]
+            },
+            {
+                  "name": "Oriel Centre",
+                  "text": "Das Oriel Centre ist ein Kunstzentrum in Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.410109,
+                        53.999665
+                  ]
+            },
+            {
+                  "name": "creative spark",
+                  "text": "creative spark ist ein Kunstzentrum in Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.382923,
+                        53.983115
+                  ]
+            },
+            {
+                  "name": "Franciscan Bell Tower, 1240's",
+                  "text": "Franciscan Bell Tower, 1240's ist ein historisches Denkmal in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.393862,
+                        54.006248
+                  ]
+            },
+            {
+                  "name": "Ladywell",
+                  "text": "Ladywell ist eine Quelle in Dundalk.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.402281,
+                        53.993576
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "Saint Malachy's ist eine religiöse Stätte in Dundalk.",
+                  "category": "religious",
+                  "coords": [
+                        -6.40865,
+                        54.000486
+                  ]
+            },
+            {
+                  "name": "Louth County Council",
+                  "text": "Das Louth County Council dient als Rathaus in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.386783,
+                        54.004191
+                  ]
+            },
+            {
+                  "name": "The Holy Redeemer",
+                  "text": "The Holy Redeemer ist eine religiöse Stätte in Dundalk.",
+                  "category": "religious",
+                  "coords": [
+                        -6.416729,
+                        54.005443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Louth County Museum",
+                  "text": "A Louth County Museum egy múzeum Dundalk városában. A megye történelmét és ipari örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.396971,
+                        54.004641
+                  ]
+            },
+            {
+                  "name": "Castletown Motte",
+                  "text": "A Castletown Motte egy régészeti lelőhely Dundalk városában. Ez egy jól ismert normann motte-típusú vár maradványa.",
+                  "category": "historical",
+                  "coords": [
+                        -6.430253,
+                        54.013825
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "A Railway Museum egy múzeum Dundalk városában.",
+                  "category": "museum",
+                  "coords": [
+                        -6.412847,
+                        54.001733
+                  ]
+            },
+            {
+                  "name": "Mac Anna Theatre",
+                  "text": "A Mac Anna Theatre egy színház Dundalk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.392245,
+                        53.983211
+                  ]
+            },
+            {
+                  "name": "Kellys Monument",
+                  "text": "A Kellys Monument egy emlékmű Dundalk városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.399414,
+                        54.004402
+                  ]
+            },
+            {
+                  "name": "Sìochàin",
+                  "text": "A Peace egy emlékmű Dundalk városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.401651,
+                        54.011193
+                  ]
+            },
+            {
+                  "name": "Oriel Centre",
+                  "text": "Az Oriel Centre egy művészeti központ Dundalk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.410109,
+                        53.999665
+                  ]
+            },
+            {
+                  "name": "creative spark",
+                  "text": "A creative spark egy művészeti központ Dundalk városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.382923,
+                        53.983115
+                  ]
+            },
+            {
+                  "name": "Franciscan Bell Tower, 1240's",
+                  "text": "A Franciscan Bell Tower, 1240's egy történelmi emlékmű Dundalk városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.393862,
+                        54.006248
+                  ]
+            },
+            {
+                  "name": "Ladywell",
+                  "text": "A Ladywell egy forrás Dundalk városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.402281,
+                        53.993576
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "A Saint Malachy's egy istentiszteleti hely Dundalk városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.40865,
+                        54.000486
+                  ]
+            },
+            {
+                  "name": "Louth County Council",
+                  "text": "A Louth County Council Dundalk városházaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -6.386783,
+                        54.004191
+                  ]
+            },
+            {
+                  "name": "The Holy Redeemer",
+                  "text": "A The Holy Redeemer egy istentiszteleti hely Dundalk városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.416729,
+                        54.005443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Louth County Museum",
+                  "text": "Louth County Museum este un muzeu situat în Dundalk. Acesta documentează istoria și patrimoniul industrial al comitatului Louth.",
+                  "category": "museum",
+                  "coords": [
+                        -6.396971,
+                        54.004641
+                  ]
+            },
+            {
+                  "name": "Castletown Motte",
+                  "text": "Castletown Motte este un sit arheologic situat în Dundalk. Este o structură normandă binecunoscută de tip motte-and-bailey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.430253,
+                        54.013825
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Railway Museum este un muzeu situat în Dundalk.",
+                  "category": "museum",
+                  "coords": [
+                        -6.412847,
+                        54.001733
+                  ]
+            },
+            {
+                  "name": "Mac Anna Theatre",
+                  "text": "Mac Anna Theatre este un teatru situat în Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.392245,
+                        53.983211
+                  ]
+            },
+            {
+                  "name": "Kellys Monument",
+                  "text": "Kellys Monument este un monument situat în Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.399414,
+                        54.004402
+                  ]
+            },
+            {
+                  "name": "Sìochàin",
+                  "text": "Peace este un monument situat în Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.401651,
+                        54.011193
+                  ]
+            },
+            {
+                  "name": "Oriel Centre",
+                  "text": "Oriel Centre este un centru de arte situat în Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.410109,
+                        53.999665
+                  ]
+            },
+            {
+                  "name": "creative spark",
+                  "text": "creative spark este un centru de arte situat în Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.382923,
+                        53.983115
+                  ]
+            },
+            {
+                  "name": "Franciscan Bell Tower, 1240's",
+                  "text": "Franciscan Bell Tower, 1240's este un monument istoric situat în Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.393862,
+                        54.006248
+                  ]
+            },
+            {
+                  "name": "Ladywell",
+                  "text": "Ladywell este un izvor situat în Dundalk.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.402281,
+                        53.993576
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "Saint Malachy's este un lăcaș de cult situat în Dundalk.",
+                  "category": "religious",
+                  "coords": [
+                        -6.40865,
+                        54.000486
+                  ]
+            },
+            {
+                  "name": "Louth County Council",
+                  "text": "Louth County Council servește drept primărie în Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.386783,
+                        54.004191
+                  ]
+            },
+            {
+                  "name": "The Holy Redeemer",
+                  "text": "The Holy Redeemer este un lăcaș de cult situat în Dundalk.",
+                  "category": "religious",
+                  "coords": [
+                        -6.416729,
+                        54.005443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Louth County Museum",
+                  "text": "Louth County Museum is a museum located in Dundalk. It documents the history and industrial heritage of County Louth.",
+                  "category": "museum",
+                  "coords": [
+                        -6.396971,
+                        54.004641
+                  ]
+            },
+            {
+                  "name": "Castletown Motte",
+                  "text": "Castletown Motte is an archaeological site located in Dundalk. It is a well-known Norman motte-and-bailey castle structure.",
+                  "category": "historical",
+                  "coords": [
+                        -6.430253,
+                        54.013825
+                  ]
+            },
+            {
+                  "name": "Railway Museum",
+                  "text": "Railway Museum is a museum located in Dundalk.",
+                  "category": "museum",
+                  "coords": [
+                        -6.412847,
+                        54.001733
+                  ]
+            },
+            {
+                  "name": "Mac Anna Theatre",
+                  "text": "Mac Anna Theatre is a theatre located in Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.392245,
+                        53.983211
+                  ]
+            },
+            {
+                  "name": "Kellys Monument",
+                  "text": "Kellys Monument is a monument situated in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.399414,
+                        54.004402
+                  ]
+            },
+            {
+                  "name": "Peace",
+                  "text": "Peace is a monument located in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.401651,
+                        54.011193
+                  ]
+            },
+            {
+                  "name": "Oriel Centre",
+                  "text": "Oriel Centre is an arts centre located in Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.410109,
+                        53.999665
+                  ]
+            },
+            {
+                  "name": "creative spark",
+                  "text": "creative spark is an arts centre located in Dundalk.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.382923,
+                        53.983115
+                  ]
+            },
+            {
+                  "name": "Franciscan Bell Tower, 1240's",
+                  "text": "Franciscan Bell Tower, 1240's is a historical monument located in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.393862,
+                        54.006248
+                  ]
+            },
+            {
+                  "name": "Ladywell",
+                  "text": "Ladywell is a spring located in Dundalk.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.402281,
+                        53.993576
+                  ]
+            },
+            {
+                  "name": "Saint Malachy's",
+                  "text": "Saint Malachy's is a place of worship located in Dundalk.",
+                  "category": "religious",
+                  "coords": [
+                        -6.40865,
+                        54.000486
+                  ]
+            },
+            {
+                  "name": "Louth County Council",
+                  "text": "Louth County Council serves as the town hall in Dundalk.",
+                  "category": "historical",
+                  "coords": [
+                        -6.386783,
+                        54.004191
+                  ]
+            },
+            {
+                  "name": "The Holy Redeemer",
+                  "text": "The Holy Redeemer is a place of worship located in Dundalk.",
+                  "category": "religious",
+                  "coords": [
+                        -6.416729,
+                        54.005443
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.4049, 54.0000],
@@ -751,7 +13036,376 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-ennis",
+    id: "city-ennis", "sights": {
+      "de": [
+            {
+                  "name": "Glór",
+                  "text": "Ein modernes Theater und Kulturzentrum in Ennis, das ein breites Spektrum an Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.977051,
+                        52.844651
+                  ]
+            },
+            {
+                  "name": "Clare Museum",
+                  "text": "Dieses Museum in Ennis präsentiert die Geschichte und das kulturelle Erbe der Grafschaft Clare.",
+                  "category": "museum",
+                  "coords": [
+                        -8.981669,
+                        52.844152
+                  ]
+            },
+            {
+                  "name": "Clare County Museum",
+                  "text": "Ein Museum in Ennis, das sich der Bewahrung der lokalen Geschichte und archäologischen Funde widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.984224,
+                        52.846072
+                  ]
+            },
+            {
+                  "name": "Post Office Field",
+                  "text": "Ein Naturgebiet in Ennis, das lokalen Pflanzen und Tieren einen geschützten Raum bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -8.986239,
+                        52.845079
+                  ]
+            },
+            {
+                  "name": "Cois na hAbhna",
+                  "text": "Ein Zentrum für traditionelle irische Musik und Kultur in Ennis.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.982507,
+                        52.859851
+                  ]
+            },
+            {
+                  "name": "Doora Church (ruins)",
+                  "text": "Die Ruinen dieser alten Kirche bei Ennis sind ein Zeugnis der frühen christlichen Geschichte der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -8.960613,
+                        52.840296
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Well",
+                  "text": "Eine heilige Quelle in Ennis, die nach dem Heiligen Joseph benannt ist und als Ort der Andacht gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.976785,
+                        52.861759
+                  ]
+            },
+            {
+                  "name": "Ennis Cathedral",
+                  "text": "Die Hauptkirche der katholischen Diözese Killaloe in Ennis beeindruckt durch ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -8.983078,
+                        52.841723
+                  ]
+            },
+            {
+                  "name": "Clare Abbey",
+                  "text": "Die Ruinen dieser Augustinerabtei aus dem 12. Jahrhundert liegen am Rande von Ennis.",
+                  "category": "religious",
+                  "coords": [
+                        -8.968946,
+                        52.829017
+                  ]
+            },
+            {
+                  "name": "Ennis Abbey",
+                  "text": "Diese gut erhaltenen Ruinen eines Franziskanerklosters im Zentrum von Ennis stammen aus dem 13. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.981377,
+                        52.846046
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Glór",
+                  "text": "Ennis modern színháza és kulturális központja, amely előadások széles választékát kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.977051,
+                        52.844651
+                  ]
+            },
+            {
+                  "name": "Clare Museum",
+                  "text": "Ez az Ennis-i múzeum Clare megye történelmét és kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.981669,
+                        52.844152
+                  ]
+            },
+            {
+                  "name": "Clare County Museum",
+                  "text": "Egy múzeum Ennisben, amely a helyi történelem és régészeti leletek megőrzésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        -8.984224,
+                        52.846072
+                  ]
+            },
+            {
+                  "name": "Post Office Field",
+                  "text": "Egy természetvédelmi terület Ennisben, amely védett helyet biztosít a helyi növény- és állatvilágnak.",
+                  "category": "natural",
+                  "coords": [
+                        -8.986239,
+                        52.845079
+                  ]
+            },
+            {
+                  "name": "Cois na hAbhna",
+                  "text": "A hagyományos ír zene és kultúra egyik központja Ennisben.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.982507,
+                        52.859851
+                  ]
+            },
+            {
+                  "name": "Doora Church (ruins)",
+                  "text": "Ennek a régi templomnak a romjai Ennis közelében a régió korai keresztény történelmének emlékei.",
+                  "category": "historical",
+                  "coords": [
+                        -8.960613,
+                        52.840296
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Well",
+                  "text": "Szent Józsefről elnevezett szent kút Ennisben, amely vallási helyszínként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.976785,
+                        52.861759
+                  ]
+            },
+            {
+                  "name": "Ennis Cathedral",
+                  "text": "Az Ennis-i Killaloe katolikus egyházmegye főtemploma lenyűgöző építészettel büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        -8.983078,
+                        52.841723
+                  ]
+            },
+            {
+                  "name": "Clare Abbey",
+                  "text": "Ennek a 12. századi ágoston-rendi apátságnak a romjai Ennis szélén találhatók.",
+                  "category": "religious",
+                  "coords": [
+                        -8.968946,
+                        52.829017
+                  ]
+            },
+            {
+                  "name": "Ennis Abbey",
+                  "text": "A ferences rendi kolostor ezen jó állapotban fennmaradt romjai Ennis központjában a 13. századból származnak.",
+                  "category": "religious",
+                  "coords": [
+                        -8.981377,
+                        52.846046
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Glór",
+                  "text": "Un teatru și centru cultural modern din Ennis, care oferă o gamă largă de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.977051,
+                        52.844651
+                  ]
+            },
+            {
+                  "name": "Clare Museum",
+                  "text": "Acest muzeu din Ennis prezintă istoria și moștenirea culturală a comitatului Clare.",
+                  "category": "museum",
+                  "coords": [
+                        -8.981669,
+                        52.844152
+                  ]
+            },
+            {
+                  "name": "Clare County Museum",
+                  "text": "Un muzeu din Ennis dedicat conservării istoriei locale și a descoperirilor arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        -8.984224,
+                        52.846072
+                  ]
+            },
+            {
+                  "name": "Post Office Field",
+                  "text": "O zonă naturală din Ennis care oferă un spațiu protejat pentru flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -8.986239,
+                        52.845079
+                  ]
+            },
+            {
+                  "name": "Cois na hAbhna",
+                  "text": "Un centru pentru muzica și cultura tradițională irlandeză din Ennis.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.982507,
+                        52.859851
+                  ]
+            },
+            {
+                  "name": "Doora Church (ruins)",
+                  "text": "Ruinele acestei vechi biserici de lângă Ennis sunt o mărturie a istoriei creștine timpurii a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -8.960613,
+                        52.840296
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Well",
+                  "text": "Un izvor sfânt din Ennis, numit după Sfântul Iosif, considerat un loc de pelerinaj.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.976785,
+                        52.861759
+                  ]
+            },
+            {
+                  "name": "Ennis Cathedral",
+                  "text": "Biserica principală a diecezei catolice de Killaloe din Ennis impresionează prin arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        -8.983078,
+                        52.841723
+                  ]
+            },
+            {
+                  "name": "Clare Abbey",
+                  "text": "Ruinele acestei abații augustiniene din secolul al XII-lea se află la marginea orașului Ennis.",
+                  "category": "religious",
+                  "coords": [
+                        -8.968946,
+                        52.829017
+                  ]
+            },
+            {
+                  "name": "Ennis Abbey",
+                  "text": "Aceste ruine bine conservate ale unei mănăstiri franciscane din centrul orașului Ennis datează din secolul al XIII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        -8.981377,
+                        52.846046
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Glór",
+                  "text": "A modern theatre and arts centre in Ennis offering a wide range of performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.977051,
+                        52.844651
+                  ]
+            },
+            {
+                  "name": "Clare Museum",
+                  "text": "This museum in Ennis showcases the history and cultural heritage of County Clare.",
+                  "category": "museum",
+                  "coords": [
+                        -8.981669,
+                        52.844152
+                  ]
+            },
+            {
+                  "name": "Clare County Museum",
+                  "text": "A museum in Ennis dedicated to preserving local history and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        -8.984224,
+                        52.846072
+                  ]
+            },
+            {
+                  "name": "Post Office Field",
+                  "text": "A natural area in Ennis providing a protected space for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -8.986239,
+                        52.845079
+                  ]
+            },
+            {
+                  "name": "Cois na hAbhna",
+                  "text": "A centre for traditional Irish music and culture located in Ennis.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.982507,
+                        52.859851
+                  ]
+            },
+            {
+                  "name": "Doora Church (ruins)",
+                  "text": "The ruins of this ancient church near Ennis are a testament to the region's early Christian history.",
+                  "category": "historical",
+                  "coords": [
+                        -8.960613,
+                        52.840296
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Well",
+                  "text": "A holy well in Ennis named after Saint Joseph and regarded as a place of devotion.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.976785,
+                        52.861759
+                  ]
+            },
+            {
+                  "name": "Ennis Cathedral",
+                  "text": "The main church of the Catholic Diocese of Killaloe in Ennis features impressive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.983078,
+                        52.841723
+                  ]
+            },
+            {
+                  "name": "Clare Abbey",
+                  "text": "The ruins of this 12th-century Augustinian abbey are located on the outskirts of Ennis.",
+                  "category": "religious",
+                  "coords": [
+                        -8.968946,
+                        52.829017
+                  ]
+            },
+            {
+                  "name": "Ennis Abbey",
+                  "text": "These well-preserved ruins of a Franciscan friary in the centre of Ennis date back to the 13th century.",
+                  "category": "religious",
+                  "coords": [
+                        -8.981377,
+                        52.846046
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-8.9774, 52.8438],
@@ -795,7 +13449,340 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-carlow",
+    id: "city-carlow", "sights": {
+      "de": [
+            {
+                  "name": "Carlow County Museum",
+                  "text": "Ein Museum in Carlow, das die lokale Geschichte und Archäologie dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928195,
+                        52.836326
+                  ]
+            },
+            {
+                  "name": "Carlow Castle",
+                  "text": "Die Ruine einer normannischen Burg aus dem 13. Jahrhundert in Carlow.",
+                  "category": "castle",
+                  "coords": [
+                        -6.935923,
+                        52.836242
+                  ]
+            },
+            {
+                  "name": "George Bernard Shaw Theatre",
+                  "text": "Ein modernes Theater in Carlow, benannt nach dem berühmten Dramatiker.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.92795,
+                        52.838288
+                  ]
+            },
+            {
+                  "name": "Carlow Military Museum",
+                  "text": "Ein Museum in Carlow, das sich der Militärgeschichte der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928636,
+                        52.843458
+                  ]
+            },
+            {
+                  "name": "Delta Sensory Gardens",
+                  "text": "Preisgekrönte Sinnesgärten in Carlow mit verschiedenen Themenbereichen.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.926527,
+                        52.844703
+                  ]
+            },
+            {
+                  "name": "Killeshin Church (C of I)",
+                  "text": "Ein Ort für Gottesdienste in Carlow, der zur Church of Ireland gehört.",
+                  "category": "religious",
+                  "coords": [
+                        -6.9459,
+                        52.839605
+                  ]
+            },
+            {
+                  "name": "Carlow County Buildings",
+                  "text": "Der Sitz der lokalen Verwaltung des County Carlow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.931073,
+                        52.839741
+                  ]
+            },
+            {
+                  "name": "Sleaty Church",
+                  "text": "Eine historische Kirchenruine bei Carlow, die mit dem frühen Christentum verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.94182,
+                        52.858023
+                  ]
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "Das historische Rathausgebäude der Stadt Carlow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.93295,
+                        52.837768
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carlow County Museum",
+                  "text": "Carlow-i múzeum, amely a helyi történelmet és régészetet dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928195,
+                        52.836326
+                  ]
+            },
+            {
+                  "name": "Carlow Castle",
+                  "text": "Egy 13. századi normann vár romjai Carlow-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.935923,
+                        52.836242
+                  ]
+            },
+            {
+                  "name": "George Bernard Shaw Theatre",
+                  "text": "Modern színház Carlow-ban, a híres drámaíróról elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.92795,
+                        52.838288
+                  ]
+            },
+            {
+                  "name": "Carlow Military Museum",
+                  "text": "Múzeum Carlow-ban, amely a régió hadtörténetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928636,
+                        52.843458
+                  ]
+            },
+            {
+                  "name": "Delta Sensory Gardens",
+                  "text": "Díjnyertes érzékszervi kertek Carlow-ban, különböző tematikus részekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.926527,
+                        52.844703
+                  ]
+            },
+            {
+                  "name": "Killeshin Church (C of I)",
+                  "text": "Istentiszteleti hely Carlow-ban, amely az ír egyházhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        -6.9459,
+                        52.839605
+                  ]
+            },
+            {
+                  "name": "Carlow County Buildings",
+                  "text": "Carlow megye helyi önkormányzatának székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        -6.931073,
+                        52.839741
+                  ]
+            },
+            {
+                  "name": "Sleaty Church",
+                  "text": "Történelmi templomrom Carlow közelében, amely a korai kereszténységhez kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        -6.94182,
+                        52.858023
+                  ]
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "Carlow városának történelmi városháza épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -6.93295,
+                        52.837768
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carlow County Museum",
+                  "text": "Un muzeu în Carlow care documentează istoria și arheologia locală.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928195,
+                        52.836326
+                  ]
+            },
+            {
+                  "name": "Carlow Castle",
+                  "text": "Ruinele unui castel normand din secolul al XIII-lea în Carlow.",
+                  "category": "castle",
+                  "coords": [
+                        -6.935923,
+                        52.836242
+                  ]
+            },
+            {
+                  "name": "George Bernard Shaw Theatre",
+                  "text": "Un teatru modern în Carlow, numit după celebrul dramaturg.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.92795,
+                        52.838288
+                  ]
+            },
+            {
+                  "name": "Carlow Military Museum",
+                  "text": "Un muzeu în Carlow dedicat istoriei militare a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928636,
+                        52.843458
+                  ]
+            },
+            {
+                  "name": "Delta Sensory Gardens",
+                  "text": "Grădini senzoriale premiate în Carlow, cu diverse zone tematice.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.926527,
+                        52.844703
+                  ]
+            },
+            {
+                  "name": "Killeshin Church (C of I)",
+                  "text": "Un lăcaș de cult în Carlow aparținând Bisericii Irlandei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.9459,
+                        52.839605
+                  ]
+            },
+            {
+                  "name": "Carlow County Buildings",
+                  "text": "Sediul administrației locale din comitatul Carlow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.931073,
+                        52.839741
+                  ]
+            },
+            {
+                  "name": "Sleaty Church",
+                  "text": "O ruină de biserică istorică lângă Carlow, legată de creștinismul timpuriu.",
+                  "category": "religious",
+                  "coords": [
+                        -6.94182,
+                        52.858023
+                  ]
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "Clădirea istorică a primăriei din orașul Carlow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.93295,
+                        52.837768
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carlow County Museum",
+                  "text": "A museum in Carlow documenting local history and archaeology.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928195,
+                        52.836326
+                  ]
+            },
+            {
+                  "name": "Carlow Castle",
+                  "text": "The ruins of a 13th-century Norman castle in Carlow.",
+                  "category": "castle",
+                  "coords": [
+                        -6.935923,
+                        52.836242
+                  ]
+            },
+            {
+                  "name": "George Bernard Shaw Theatre",
+                  "text": "A modern theatre in Carlow named after the famous playwright.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.92795,
+                        52.838288
+                  ]
+            },
+            {
+                  "name": "Carlow Military Museum",
+                  "text": "A museum in Carlow dedicated to the military history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        -6.928636,
+                        52.843458
+                  ]
+            },
+            {
+                  "name": "Delta Sensory Gardens",
+                  "text": "Award-winning sensory gardens in Carlow with various themed areas.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.926527,
+                        52.844703
+                  ]
+            },
+            {
+                  "name": "Killeshin Church (C of I)",
+                  "text": "A place of worship in Carlow belonging to the Church of Ireland.",
+                  "category": "religious",
+                  "coords": [
+                        -6.9459,
+                        52.839605
+                  ]
+            },
+            {
+                  "name": "Carlow County Buildings",
+                  "text": "The administrative headquarters for Carlow County.",
+                  "category": "historical",
+                  "coords": [
+                        -6.931073,
+                        52.839741
+                  ]
+            },
+            {
+                  "name": "Sleaty Church",
+                  "text": "A historic church ruin near Carlow associated with early Christianity.",
+                  "category": "religious",
+                  "coords": [
+                        -6.94182,
+                        52.858023
+                  ]
+            },
+            {
+                  "name": "Town Hall",
+                  "text": "The historic town hall building of Carlow town.",
+                  "category": "historical",
+                  "coords": [
+                        -6.93295,
+                        52.837768
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.9312, 52.8365],
@@ -839,7 +13826,592 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-wexford",
+    id: "city-wexford", "sights": {
+      "de": [
+            {
+                  "name": "The National Opera House",
+                  "text": "Das National Opera House ist ein Theater in Wexford. Es ist international bekannt als Austragungsort der jährlichen Wexford Festival Opera.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.462179,
+                        52.338018
+                  ]
+            },
+            {
+                  "name": "Wexford Spiegeltent",
+                  "text": "Das Wexford Spiegeltent ist ein Theater in Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.461101,
+                        52.340801
+                  ]
+            },
+            {
+                  "name": "Corish-Wallace Performing Arts",
+                  "text": "Corish-Wallace Performing Arts ist ein Theater in Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.464454,
+                        52.33699
+                  ]
+            },
+            {
+                  "name": "Westgate Heritage Centre",
+                  "text": "Das Westgate Heritage Centre ist ein Museum in Wexford.",
+                  "category": "museum",
+                  "coords": [
+                        -6.467078,
+                        52.341931
+                  ]
+            },
+            {
+                  "name": "Vallotton Monument",
+                  "text": "Das Vallotton Monument ist ein Denkmal in Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.471967,
+                        52.34025
+                  ]
+            },
+            {
+                  "name": "Old Hospital & Workhouse",
+                  "text": "Old Hospital & Workhouse umfasst historische Ruinen in Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.480047,
+                        52.343602
+                  ]
+            },
+            {
+                  "name": "Wexford Arts Centre",
+                  "text": "Das Wexford Arts Centre ist ein Kunstzentrum in Wexford. Es ist seit 1974 ein wichtiger Veranstaltungsort für bildende und darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.463978,
+                        52.339572
+                  ]
+            },
+            {
+                  "name": "By Hook or By Crook",
+                  "text": "By Hook or By Crook ist ein Denkmal in Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.460703,
+                        52.332948
+                  ]
+            },
+            {
+                  "name": "Light & Shadow",
+                  "text": "Light & Shadow ist eine Kunstgalerie in Wexford.",
+                  "category": "museum",
+                  "coords": [
+                        -6.463923,
+                        52.341679
+                  ]
+            },
+            {
+                  "name": "Bare Cheek Theatre Company Acting Studio",
+                  "text": "Das Bare Cheek Theatre Company Acting Studio ist ein Kunstzentrum in Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.453086,
+                        52.332555
+                  ]
+            },
+            {
+                  "name": "Wex Walks",
+                  "text": "Wex Walks ist eine Touristenattraktion in Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.462464,
+                        52.339831
+                  ]
+            },
+            {
+                  "name": "Three Sisters River Cruises",
+                  "text": "Three Sisters River Cruises ist eine Touristenattraktion in Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.459651,
+                        52.339611
+                  ]
+            },
+            {
+                  "name": "St. Margaret's Well",
+                  "text": "St. Margaret's Well ist eine Quelle in Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.468865,
+                        52.33651
+                  ]
+            },
+            {
+                  "name": "Bride Street Church",
+                  "text": "Die Bride Street Church ist eine religiöse Stätte in Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461158,
+                        52.33437
+                  ]
+            },
+            {
+                  "name": "Rowe Street Church",
+                  "text": "Die Rowe Street Church ist eine religiöse Stätte in Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.463833,
+                        52.338514
+                  ]
+            },
+            {
+                  "name": "Wexford Presbyterian Church",
+                  "text": "Die Wexford Presbyterian Church ist eine religiöse Stätte in Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461086,
+                        52.338523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The National Opera House",
+                  "text": "A The National Opera House egy színház Wexford városában. Nemzetközileg is ismert az évente megrendezett Wexford Festival Opera otthonaként.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.462179,
+                        52.338018
+                  ]
+            },
+            {
+                  "name": "Wexford Spiegeltent",
+                  "text": "A Wexford Spiegeltent egy színház Wexford városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.461101,
+                        52.340801
+                  ]
+            },
+            {
+                  "name": "Corish-Wallace Performing Arts",
+                  "text": "A Corish-Wallace Performing Arts egy színház Wexford városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.464454,
+                        52.33699
+                  ]
+            },
+            {
+                  "name": "Westgate Heritage Centre",
+                  "text": "A Westgate Heritage Centre egy múzeum Wexford városában.",
+                  "category": "museum",
+                  "coords": [
+                        -6.467078,
+                        52.341931
+                  ]
+            },
+            {
+                  "name": "Vallotton Monument",
+                  "text": "A Vallotton Monument egy emlékmű Wexford városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.471967,
+                        52.34025
+                  ]
+            },
+            {
+                  "name": "Old Hospital & Workhouse",
+                  "text": "Az Old Hospital & Workhouse történelmi romokat foglal magába Wexford városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.480047,
+                        52.343602
+                  ]
+            },
+            {
+                  "name": "Wexford Arts Centre",
+                  "text": "A Wexford Arts Centre egy művészeti központ Wexford városában. 1974 óta a vizuális és előadóművészetek kulcsfontosságú helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.463978,
+                        52.339572
+                  ]
+            },
+            {
+                  "name": "By Hook or By Crook",
+                  "text": "A By Hook or By Crook egy emlékmű Wexford városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.460703,
+                        52.332948
+                  ]
+            },
+            {
+                  "name": "Light & Shadow",
+                  "text": "A Light & Shadow egy művészeti galéria Wexford városában.",
+                  "category": "museum",
+                  "coords": [
+                        -6.463923,
+                        52.341679
+                  ]
+            },
+            {
+                  "name": "Bare Cheek Theatre Company Acting Studio",
+                  "text": "A Bare Cheek Theatre Company Acting Studio egy művészeti központ Wexford városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.453086,
+                        52.332555
+                  ]
+            },
+            {
+                  "name": "Wex Walks",
+                  "text": "A Wex Walks egy turisztikai látványosság Wexford városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.462464,
+                        52.339831
+                  ]
+            },
+            {
+                  "name": "Three Sisters River Cruises",
+                  "text": "A Three Sisters River Cruises egy turisztikai látványosság Wexford városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.459651,
+                        52.339611
+                  ]
+            },
+            {
+                  "name": "St. Margaret's Well",
+                  "text": "A St. Margaret's Well egy forrás Wexford városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.468865,
+                        52.33651
+                  ]
+            },
+            {
+                  "name": "Bride Street Church",
+                  "text": "A Bride Street Church egy istentiszteleti hely Wexford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461158,
+                        52.33437
+                  ]
+            },
+            {
+                  "name": "Rowe Street Church",
+                  "text": "A Rowe Street Church egy istentiszteleti hely Wexford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.463833,
+                        52.338514
+                  ]
+            },
+            {
+                  "name": "Wexford Presbyterian Church",
+                  "text": "A Wexford Presbyterian Church egy istentiszteleti hely Wexford városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461086,
+                        52.338523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The National Opera House",
+                  "text": "The National Opera House este un teatru situat în Wexford. Este cunoscut la nivel internațional pentru găzduirea festivalului anual Wexford Festival Opera.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.462179,
+                        52.338018
+                  ]
+            },
+            {
+                  "name": "Wexford Spiegeltent",
+                  "text": "Wexford Spiegeltent este un teatru situat în Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.461101,
+                        52.340801
+                  ]
+            },
+            {
+                  "name": "Corish-Wallace Performing Arts",
+                  "text": "Corish-Wallace Performing Arts este un teatru situat în Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.464454,
+                        52.33699
+                  ]
+            },
+            {
+                  "name": "Westgate Heritage Centre",
+                  "text": "Westgate Heritage Centre este un muzeu situat în Wexford.",
+                  "category": "museum",
+                  "coords": [
+                        -6.467078,
+                        52.341931
+                  ]
+            },
+            {
+                  "name": "Vallotton Monument",
+                  "text": "Vallotton Monument este un monument situat în Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.471967,
+                        52.34025
+                  ]
+            },
+            {
+                  "name": "Old Hospital & Workhouse",
+                  "text": "Old Hospital & Workhouse prezintă ruine istorice situate în Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.480047,
+                        52.343602
+                  ]
+            },
+            {
+                  "name": "Wexford Arts Centre",
+                  "text": "Wexford Arts Centre este un centru de arte situat în Wexford. Este un loc important pentru artele vizuale și spectacole încă din 1974.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.463978,
+                        52.339572
+                  ]
+            },
+            {
+                  "name": "By Hook or By Crook",
+                  "text": "By Hook or By Crook este un monument situat în Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.460703,
+                        52.332948
+                  ]
+            },
+            {
+                  "name": "Light & Shadow",
+                  "text": "Light & Shadow este o galerie de artă situată în Wexford.",
+                  "category": "museum",
+                  "coords": [
+                        -6.463923,
+                        52.341679
+                  ]
+            },
+            {
+                  "name": "Bare Cheek Theatre Company Acting Studio",
+                  "text": "Bare Cheek Theatre Company Acting Studio este un centru de arte situat în Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.453086,
+                        52.332555
+                  ]
+            },
+            {
+                  "name": "Wex Walks",
+                  "text": "Wex Walks este o atracție turistică situată în Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.462464,
+                        52.339831
+                  ]
+            },
+            {
+                  "name": "Three Sisters River Cruises",
+                  "text": "Three Sisters River Cruises este o atracție turistică situată în Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.459651,
+                        52.339611
+                  ]
+            },
+            {
+                  "name": "St. Margaret's Well",
+                  "text": "St. Margaret's Well este un izvor situat în Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.468865,
+                        52.33651
+                  ]
+            },
+            {
+                  "name": "Bride Street Church",
+                  "text": "Bride Street Church este un lăcaș de cult situat în Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461158,
+                        52.33437
+                  ]
+            },
+            {
+                  "name": "Rowe Street Church",
+                  "text": "Rowe Street Church este un lăcaș de cult situat în Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.463833,
+                        52.338514
+                  ]
+            },
+            {
+                  "name": "Wexford Presbyterian Church",
+                  "text": "Wexford Presbyterian Church este un lăcaș de cult situat în Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461086,
+                        52.338523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The National Opera House",
+                  "text": "The National Opera House is a theatre located in Wexford. It is internationally known for hosting the annual Wexford Festival Opera.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.462179,
+                        52.338018
+                  ]
+            },
+            {
+                  "name": "Wexford Spiegeltent",
+                  "text": "Wexford Spiegeltent is a theatre located in Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.461101,
+                        52.340801
+                  ]
+            },
+            {
+                  "name": "Corish-Wallace Performing Arts",
+                  "text": "Corish-Wallace Performing Arts is a theatre located in Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.464454,
+                        52.33699
+                  ]
+            },
+            {
+                  "name": "Westgate Heritage Centre",
+                  "text": "Westgate Heritage Centre is a museum located in Wexford.",
+                  "category": "museum",
+                  "coords": [
+                        -6.467078,
+                        52.341931
+                  ]
+            },
+            {
+                  "name": "Vallotton Monument",
+                  "text": "Vallotton Monument is a monument situated in Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.471967,
+                        52.34025
+                  ]
+            },
+            {
+                  "name": "Old Hospital & Workhouse",
+                  "text": "Old Hospital & Workhouse features historic ruins located in Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.480047,
+                        52.343602
+                  ]
+            },
+            {
+                  "name": "Wexford Arts Centre",
+                  "text": "Wexford Arts Centre is an arts centre located in Wexford. It has been a key venue for visual and performing arts since 1974.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.463978,
+                        52.339572
+                  ]
+            },
+            {
+                  "name": "By Hook or By Crook",
+                  "text": "By Hook or By Crook is a monument situated in Wexford.",
+                  "category": "historical",
+                  "coords": [
+                        -6.460703,
+                        52.332948
+                  ]
+            },
+            {
+                  "name": "Light & Shadow",
+                  "text": "Light & Shadow is an art gallery located in Wexford.",
+                  "category": "museum",
+                  "coords": [
+                        -6.463923,
+                        52.341679
+                  ]
+            },
+            {
+                  "name": "Bare Cheek Theatre Company Acting Studio",
+                  "text": "Bare Cheek Theatre Company Acting Studio is an arts centre situated in Wexford.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.453086,
+                        52.332555
+                  ]
+            },
+            {
+                  "name": "Wex Walks",
+                  "text": "Wex Walks is a tourist attraction located in Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.462464,
+                        52.339831
+                  ]
+            },
+            {
+                  "name": "Three Sisters River Cruises",
+                  "text": "Three Sisters River Cruises is a tourist attraction situated in Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.459651,
+                        52.339611
+                  ]
+            },
+            {
+                  "name": "St. Margaret's Well",
+                  "text": "St. Margaret's Well is a spring located in Wexford.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.468865,
+                        52.33651
+                  ]
+            },
+            {
+                  "name": "Bride Street Church",
+                  "text": "Bride Street Church is a place of worship situated in Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461158,
+                        52.33437
+                  ]
+            },
+            {
+                  "name": "Rowe Street Church",
+                  "text": "Rowe Street Church is a place of worship located in Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.463833,
+                        52.338514
+                  ]
+            },
+            {
+                  "name": "Wexford Presbyterian Church",
+                  "text": "Wexford Presbyterian Church is a place of worship situated in Wexford.",
+                  "category": "religious",
+                  "coords": [
+                        -6.461086,
+                        52.338523
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.4689, 52.3369],
@@ -883,7 +14455,232 @@ export const irelandCities: POI[] = [
     },
   },
   {
-    id: "city-navan",
+    id: "city-navan", "sights": {
+      "de": [
+            {
+                  "name": "Athlumney Castle",
+                  "text": "Diese Burgruine in Navan besteht aus einem Wohnturm aus dem 15. Jahrhundert und einem späteren Herrenhaus.",
+                  "category": "castle",
+                  "coords": [
+                        -6.675029,
+                        53.65026
+                  ]
+            },
+            {
+                  "name": "Navan Moat",
+                  "text": "Ein bedeutendes historisches Erddenkmal in Navan, das auf frühe Befestigungen hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        -6.700477,
+                        53.651864
+                  ]
+            },
+            {
+                  "name": "Solstice Art Centre",
+                  "text": "Ein wichtiges Zentrum für zeitgenössische Kunst und Kultur in der Stadt Navan.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.685941,
+                        53.650428
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Eine bedeutende römisch-katholische Kirche in der Stadt Navan.",
+                  "category": "religious",
+                  "coords": [
+                        -6.68611,
+                        53.651517
+                  ]
+            },
+            {
+                  "name": "Navan Town Hall",
+                  "text": "Das Verwaltungsgebäude und Rathaus der Stadt Navan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.683391,
+                        53.654344
+                  ]
+            },
+            {
+                  "name": "Donaghmore Round Tower",
+                  "text": "Ein historischer irischer Rundturm in der Nähe von Navan.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.662445,
+                        53.670443
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Athlumney Castle",
+                  "text": "Ez a Navan-i várrom egy 15. századi lakótoronyból és egy későbbi udvarházból áll.",
+                  "category": "castle",
+                  "coords": [
+                        -6.675029,
+                        53.65026
+                  ]
+            },
+            {
+                  "name": "Navan Moat",
+                  "text": "Egy jelentős történelmi földvár Navanban, amely korai erődítményekre utal.",
+                  "category": "historical",
+                  "coords": [
+                        -6.700477,
+                        53.651864
+                  ]
+            },
+            {
+                  "name": "Solstice Art Centre",
+                  "text": "Kortárs művészeti és kulturális központ Navan városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.685941,
+                        53.650428
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Navan városának egyik jelentős római katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -6.68611,
+                        53.651517
+                  ]
+            },
+            {
+                  "name": "Navan Town Hall",
+                  "text": "Navan városának közigazgatási épülete és városházája.",
+                  "category": "historical",
+                  "coords": [
+                        -6.683391,
+                        53.654344
+                  ]
+            },
+            {
+                  "name": "Donaghmore Round Tower",
+                  "text": "Egy történelmi ír kerek torony Navan közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.662445,
+                        53.670443
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Athlumney Castle",
+                  "text": "Această ruină de castel din Navan constă dintr-un turn de locuință din secolul al XV-lea și un conac ulterior.",
+                  "category": "castle",
+                  "coords": [
+                        -6.675029,
+                        53.65026
+                  ]
+            },
+            {
+                  "name": "Navan Moat",
+                  "text": "Un monument istoric de pământ important în Navan, care indică fortificații timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -6.700477,
+                        53.651864
+                  ]
+            },
+            {
+                  "name": "Solstice Art Centre",
+                  "text": "Un centru important pentru artă contemporană și cultură în orașul Navan.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.685941,
+                        53.650428
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "O biserică romano-catolică importantă din orașul Navan.",
+                  "category": "religious",
+                  "coords": [
+                        -6.68611,
+                        53.651517
+                  ]
+            },
+            {
+                  "name": "Navan Town Hall",
+                  "text": "Clădirea administrativă și primăria orașului Navan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.683391,
+                        53.654344
+                  ]
+            },
+            {
+                  "name": "Donaghmore Round Tower",
+                  "text": "Un turn rotund irlandez istoric situat lângă Navan.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.662445,
+                        53.670443
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Athlumney Castle",
+                  "text": "This castle ruin in Navan consists of a 15th-century tower house and a later fortified manor.",
+                  "category": "castle",
+                  "coords": [
+                        -6.675029,
+                        53.65026
+                  ]
+            },
+            {
+                  "name": "Navan Moat",
+                  "text": "A significant historical earthwork in Navan, indicating early fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        -6.700477,
+                        53.651864
+                  ]
+            },
+            {
+                  "name": "Solstice Art Centre",
+                  "text": "An important centre for contemporary arts and culture in the town of Navan.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.685941,
+                        53.650428
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A significant Roman Catholic church located in the town of Navan.",
+                  "category": "religious",
+                  "coords": [
+                        -6.68611,
+                        53.651517
+                  ]
+            },
+            {
+                  "name": "Navan Town Hall",
+                  "text": "The administrative building and town hall of Navan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.683391,
+                        53.654344
+                  ]
+            },
+            {
+                  "name": "Donaghmore Round Tower",
+                  "text": "A historic Irish round tower located near Navan.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.662445,
+                        53.670443
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.6889, 53.6515],
@@ -2971,7 +16768,88 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-portlaoise",
+    id: "city-portlaoise", "sights": {
+      "de": [
+            {
+                  "name": "Dunamaise Arts Centre and Theatre",
+                  "text": "Das Dunamaise Arts Centre and Theatre ist ein Theater in Portlaoise.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.299711,
+                        53.034522
+                  ]
+            },
+            {
+                  "name": "Fort Protector",
+                  "text": "Fort Protector ist ein Denkmal in Portlaoise.",
+                  "category": "historical",
+                  "coords": [
+                        -7.297131,
+                        53.035029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunamaise Arts Centre and Theatre",
+                  "text": "A Dunamaise Arts Centre and Theatre egy színház Portlaoise városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.299711,
+                        53.034522
+                  ]
+            },
+            {
+                  "name": "Fort Protector",
+                  "text": "A Fort Protector egy emlékmű Portlaoise városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.297131,
+                        53.035029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunamaise Arts Centre and Theatre",
+                  "text": "Dunamaise Arts Centre and Theatre este un teatru situat în Portlaoise.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.299711,
+                        53.034522
+                  ]
+            },
+            {
+                  "name": "Fort Protector",
+                  "text": "Fort Protector este un monument situat în Portlaoise.",
+                  "category": "historical",
+                  "coords": [
+                        -7.297131,
+                        53.035029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunamaise Arts Centre and Theatre",
+                  "text": "Dunamaise Arts Centre and Theatre is a theatre located in Portlaoise.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.299711,
+                        53.034522
+                  ]
+            },
+            {
+                  "name": "Fort Protector",
+                  "text": "Fort Protector is a monument situated in Portlaoise.",
+                  "category": "historical",
+                  "coords": [
+                        -7.297131,
+                        53.035029
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.3016, 53.0344],
@@ -3015,7 +16893,376 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-mullingar",
+    id: "city-mullingar", "sights": {
+      "de": [
+            {
+                  "name": "Mullingar Cathedral Museum",
+                  "text": "Ein Museum in Mullingar, das religiöse Artefakte der Diözese ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.345521,
+                        53.527305
+                  ]
+            },
+            {
+                  "name": "Boardstown Castle",
+                  "text": "Eine historische Schlossanlage in der Nähe von Mullingar.",
+                  "category": "castle",
+                  "coords": [
+                        -7.320475,
+                        53.511614
+                  ]
+            },
+            {
+                  "name": "Town Park",
+                  "text": "Ein öffentlicher Park in Mullingar mit Grünflächen und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        -7.336373,
+                        53.524564
+                  ]
+            },
+            {
+                  "name": "Mullingar Arts Centre",
+                  "text": "Ein regionales Zentrum für darstellende Künste und Kultur in Mullingar.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.34027,
+                        53.52376
+                  ]
+            },
+            {
+                  "name": "The Chimera Gallery",
+                  "text": "Eine Kunstgalerie in Mullingar, die zeitgenössische Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.343562,
+                        53.525125
+                  ]
+            },
+            {
+                  "name": "Charity Variety Group",
+                  "text": "Ein lokales Kunst- und Gemeindezentrum in Mullingar.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.371462,
+                        53.514434
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Well",
+                  "text": "Eine traditionelle heilige Quelle in der Umgebung von Mullingar.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.352336,
+                        53.549481
+                  ]
+            },
+            {
+                  "name": "St. Barbara's Chapel",
+                  "text": "Ein kleiner Ort der Andacht in Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.353088,
+                        53.527088
+                  ]
+            },
+            {
+                  "name": "Saint Paul's",
+                  "text": "Ein christliches Gotteshaus in der Stadt Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.328941,
+                        53.527671
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Eine lokale Kirche der Kirchengemeinde von Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.339622,
+                        53.524903
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mullingar Cathedral Museum",
+                  "text": "Mullingar múzeuma, amely az egyházmegye vallási tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.345521,
+                        53.527305
+                  ]
+            },
+            {
+                  "name": "Boardstown Castle",
+                  "text": "Történelmi kastélyépület Mullingar közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -7.320475,
+                        53.511614
+                  ]
+            },
+            {
+                  "name": "Town Park",
+                  "text": "Mullingar központi parkja zöldterületekkel és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        -7.336373,
+                        53.524564
+                  ]
+            },
+            {
+                  "name": "Mullingar Arts Centre",
+                  "text": "Mullingar regionális előadó-művészeti és kulturális központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.34027,
+                        53.52376
+                  ]
+            },
+            {
+                  "name": "The Chimera Gallery",
+                  "text": "Mullingar művészeti galériája, amely kortárs műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.343562,
+                        53.525125
+                  ]
+            },
+            {
+                  "name": "Charity Variety Group",
+                  "text": "Helyi művészeti és közösségi központ Mullingarban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.371462,
+                        53.514434
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Well",
+                  "text": "Hagyományos szent kút Mullingar környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.352336,
+                        53.549481
+                  ]
+            },
+            {
+                  "name": "St. Barbara's Chapel",
+                  "text": "Kisebb vallási kegyhely Mullingarban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.353088,
+                        53.527088
+                  ]
+            },
+            {
+                  "name": "Saint Paul's",
+                  "text": "Keresztény templom Mullingar városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.328941,
+                        53.527671
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "Mullingar egyházközségének egyik helyi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -7.339622,
+                        53.524903
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mullingar Cathedral Museum",
+                  "text": "Un muzeu din Mullingar care expune obiecte religioase ale diecezei.",
+                  "category": "museum",
+                  "coords": [
+                        -7.345521,
+                        53.527305
+                  ]
+            },
+            {
+                  "name": "Boardstown Castle",
+                  "text": "O structură istorică de castel situată lângă Mullingar.",
+                  "category": "castle",
+                  "coords": [
+                        -7.320475,
+                        53.511614
+                  ]
+            },
+            {
+                  "name": "Town Park",
+                  "text": "Un parc public din Mullingar, oferind spații verzi și alei de promenadă.",
+                  "category": "park",
+                  "coords": [
+                        -7.336373,
+                        53.524564
+                  ]
+            },
+            {
+                  "name": "Mullingar Arts Centre",
+                  "text": "Un centru regional pentru arte spectacolului și cultură în Mullingar.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.34027,
+                        53.52376
+                  ]
+            },
+            {
+                  "name": "The Chimera Gallery",
+                  "text": "O galerie de artă din Mullingar care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -7.343562,
+                        53.525125
+                  ]
+            },
+            {
+                  "name": "Charity Variety Group",
+                  "text": "Un centru local de artă și comunitate în Mullingar.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.371462,
+                        53.514434
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Well",
+                  "text": "Un izvor sfânt tradițional situat în zona Mullingar.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.352336,
+                        53.549481
+                  ]
+            },
+            {
+                  "name": "St. Barbara's Chapel",
+                  "text": "Un mic lăcaș de cult situat în Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.353088,
+                        53.527088
+                  ]
+            },
+            {
+                  "name": "Saint Paul's",
+                  "text": "Un lăcaș de cult creștin în orașul Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.328941,
+                        53.527671
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "O biserică locală a comunității din Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.339622,
+                        53.524903
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mullingar Cathedral Museum",
+                  "text": "A museum in Mullingar displaying religious artifacts of the diocese.",
+                  "category": "museum",
+                  "coords": [
+                        -7.345521,
+                        53.527305
+                  ]
+            },
+            {
+                  "name": "Boardstown Castle",
+                  "text": "A historic castle structure located near Mullingar.",
+                  "category": "castle",
+                  "coords": [
+                        -7.320475,
+                        53.511614
+                  ]
+            },
+            {
+                  "name": "Town Park",
+                  "text": "A public park in Mullingar featuring green spaces and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        -7.336373,
+                        53.524564
+                  ]
+            },
+            {
+                  "name": "Mullingar Arts Centre",
+                  "text": "A regional centre for performing arts and culture in Mullingar.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.34027,
+                        53.52376
+                  ]
+            },
+            {
+                  "name": "The Chimera Gallery",
+                  "text": "An art gallery in Mullingar showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -7.343562,
+                        53.525125
+                  ]
+            },
+            {
+                  "name": "Charity Variety Group",
+                  "text": "A local arts and community centre located in Mullingar.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.371462,
+                        53.514434
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Well",
+                  "text": "A traditional holy well located in the Mullingar area.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.352336,
+                        53.549481
+                  ]
+            },
+            {
+                  "name": "St. Barbara's Chapel",
+                  "text": "A small place of worship located in Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.353088,
+                        53.527088
+                  ]
+            },
+            {
+                  "name": "Saint Paul's",
+                  "text": "A Christian place of worship in the town of Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.328941,
+                        53.527671
+                  ]
+            },
+            {
+                  "name": "All Saints",
+                  "text": "A local church serving the community of Mullingar.",
+                  "category": "religious",
+                  "coords": [
+                        -7.339622,
+                        53.524903
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.3355, 53.5245],
@@ -3059,7 +17306,268 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-tullamore",
+    id: "city-tullamore", "sights": {
+      "de": [
+            {
+                  "name": "Charleville Castle",
+                  "text": "Ein gotisches Schloss bei Tullamore, bekannt für seine beeindruckende Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        -7.52858,
+                        53.260638
+                  ]
+            },
+            {
+                  "name": "Old Warehouse",
+                  "text": "Ein Museum in Tullamore, das in einem ehemaligen Lagerhaus untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492887,
+                        53.277651
+                  ]
+            },
+            {
+                  "name": "Srah Castle",
+                  "text": "Die Ruinen eines befestigten Turmhauses aus dem 16. Jahrhundert bei Tullamore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.509252,
+                        53.27597
+                  ]
+            },
+            {
+                  "name": "Esker Arts Centre",
+                  "text": "Ein Zentrum für Kunst und Kultur im Herzen von Tullamore.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.493996,
+                        53.273491
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Eine katholische Kirche in Tullamore, die der Heiligen Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489855,
+                        53.276684
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church of Ireland Church",
+                  "text": "Eine historische Kirche der Church of Ireland in Tullamore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.481215,
+                        53.272097
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Ein methodistisches Gotteshaus für die Gemeinde in Tullamore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490507,
+                        53.274588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Charleville Castle",
+                  "text": "Gótikus stílusú kastély Tullamore közelében, lenyűgöző építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        -7.52858,
+                        53.260638
+                  ]
+            },
+            {
+                  "name": "Old Warehouse",
+                  "text": "Múzeum Tullamore-ban, amely egy egykori raktárépületben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492887,
+                        53.277651
+                  ]
+            },
+            {
+                  "name": "Srah Castle",
+                  "text": "Egy 16. századi erődített toronyház romjai Tullamore közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.509252,
+                        53.27597
+                  ]
+            },
+            {
+                  "name": "Esker Arts Centre",
+                  "text": "Művészeti és kulturális központ Tullamore szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.493996,
+                        53.273491
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Szent Máriának szentelt katolikus templom Tullamore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489855,
+                        53.276684
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church of Ireland Church",
+                  "text": "Az ír egyház történelmi temploma Tullamore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.481215,
+                        53.272097
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Metodista imaház a tullamore-i közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490507,
+                        53.274588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Charleville Castle",
+                  "text": "Un castel gotic lângă Tullamore, cunoscut pentru arhitectura sa impresionantă.",
+                  "category": "castle",
+                  "coords": [
+                        -7.52858,
+                        53.260638
+                  ]
+            },
+            {
+                  "name": "Old Warehouse",
+                  "text": "Un muzeu în Tullamore găzduit într-un fost depozit.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492887,
+                        53.277651
+                  ]
+            },
+            {
+                  "name": "Srah Castle",
+                  "text": "Ruinele unei case-turn fortificate din secolul al XVI-lea lângă Tullamore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.509252,
+                        53.27597
+                  ]
+            },
+            {
+                  "name": "Esker Arts Centre",
+                  "text": "Un centru pentru artă și cultură situat în inima orașului Tullamore.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.493996,
+                        53.273491
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "O biserică catolică în Tullamore dedicată Sfintei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489855,
+                        53.276684
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church of Ireland Church",
+                  "text": "O biserică istorică a Bisericii Irlandei în Tullamore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.481215,
+                        53.272097
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Un lăcaș de cult metodist pentru comunitatea din Tullamore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490507,
+                        53.274588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Charleville Castle",
+                  "text": "A Gothic-style castle near Tullamore, known for its impressive architecture.",
+                  "category": "castle",
+                  "coords": [
+                        -7.52858,
+                        53.260638
+                  ]
+            },
+            {
+                  "name": "Old Warehouse",
+                  "text": "A museum in Tullamore housed in a former warehouse building.",
+                  "category": "museum",
+                  "coords": [
+                        -7.492887,
+                        53.277651
+                  ]
+            },
+            {
+                  "name": "Srah Castle",
+                  "text": "The ruins of a 16th-century fortified tower house near Tullamore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.509252,
+                        53.27597
+                  ]
+            },
+            {
+                  "name": "Esker Arts Centre",
+                  "text": "A hub for arts and culture located in the heart of Tullamore.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.493996,
+                        53.273491
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "A Catholic church in Tullamore dedicated to Saint Mary.",
+                  "category": "religious",
+                  "coords": [
+                        -7.489855,
+                        53.276684
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Church of Ireland Church",
+                  "text": "A historic Church of Ireland building in Tullamore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.481215,
+                        53.272097
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "A Methodist place of worship for the community in Tullamore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.490507,
+                        53.274588
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.4947, 53.2736],
@@ -3103,7 +17611,160 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-carrick-on-shannon",
+    id: "city-carrick-on-shannon", "sights": {
+      "de": [
+            {
+                  "name": "Danesfort",
+                  "text": "Danesfort ist eine archäologische Stätte in Carrick-on-Shannon.",
+                  "category": "historical",
+                  "coords": [
+                        -8.10643,
+                        53.926622
+                  ]
+            },
+            {
+                  "name": "The Dock",
+                  "text": "The Dock ist ein Kunstzentrum in Carrick-on-Shannon.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.098026,
+                        53.944788
+                  ]
+            },
+            {
+                  "name": "Moon River",
+                  "text": "Moon River ist eine Touristenattraktion in Carrick-on-Shannon.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.094293,
+                        53.942854
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Church",
+                  "text": "Die Saint Mary’s Church ist eine religiöse Stätte in Carrick-on-Shannon.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09508,
+                        53.946234
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Danesfort",
+                  "text": "A Danesfort egy régészeti lelőhely Carrick-on-Shannon városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.10643,
+                        53.926622
+                  ]
+            },
+            {
+                  "name": "The Dock",
+                  "text": "A The Dock egy művészeti központ Carrick-on-Shannon városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.098026,
+                        53.944788
+                  ]
+            },
+            {
+                  "name": "Moon River",
+                  "text": "A Moon River egy turisztikai látványosság Carrick-on-Shannon városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.094293,
+                        53.942854
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Church",
+                  "text": "A Saint Mary’s Church egy istentiszteleti hely Carrick-on-Shannon városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09508,
+                        53.946234
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Danesfort",
+                  "text": "Danesfort este un sit arheologic situat în Carrick-on-Shannon.",
+                  "category": "historical",
+                  "coords": [
+                        -8.10643,
+                        53.926622
+                  ]
+            },
+            {
+                  "name": "The Dock",
+                  "text": "The Dock este un centru de arte situat în Carrick-on-Shannon.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.098026,
+                        53.944788
+                  ]
+            },
+            {
+                  "name": "Moon River",
+                  "text": "Moon River este o atracție turistică situată în Carrick-on-Shannon.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.094293,
+                        53.942854
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Church",
+                  "text": "Saint Mary’s Church este un lăcaș de cult situat în Carrick-on-Shannon.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09508,
+                        53.946234
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Danesfort",
+                  "text": "Danesfort is an archaeological site located in Carrick-on-Shannon.",
+                  "category": "historical",
+                  "coords": [
+                        -8.10643,
+                        53.926622
+                  ]
+            },
+            {
+                  "name": "The Dock",
+                  "text": "The Dock is an arts centre situated in Carrick-on-Shannon.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.098026,
+                        53.944788
+                  ]
+            },
+            {
+                  "name": "Moon River",
+                  "text": "Moon River is a tourist attraction located in Carrick-on-Shannon.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.094293,
+                        53.942854
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Church",
+                  "text": "Saint Mary’s Church is a place of worship situated in Carrick-on-Shannon.",
+                  "category": "religious",
+                  "coords": [
+                        -8.09508,
+                        53.946234
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-8.0943, 53.9460],
@@ -3147,7 +17808,484 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-cavan",
+    id: "city-cavan", "sights": {
+      "de": [
+            {
+                  "name": "Ice House",
+                  "text": "Eine archäologische Fundstelle eines historischen Eiskellers in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.37219,
+                        54.012518
+                  ]
+            },
+            {
+                  "name": "Tonymore Crannog",
+                  "text": "Überreste einer prähistorischen Pfahlbausiedlung bei Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.391235,
+                        53.977199
+                  ]
+            },
+            {
+                  "name": "Tonymore Castle",
+                  "text": "Die Überreste oder der Standort einer historischen Burg in Cavan.",
+                  "category": "castle",
+                  "coords": [
+                        -7.396081,
+                        53.976028
+                  ]
+            },
+            {
+                  "name": "Drumgoon Fort",
+                  "text": "Ein archäologisches Erdwerk einer historischen Festungsanlage in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.382244,
+                        53.992009
+                  ]
+            },
+            {
+                  "name": "Swellan Fort",
+                  "text": "Ein historisches Ringfort als archäologische Stätte in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.374334,
+                        53.995944
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Eine archäologische Stätte im Zusammenhang mit historischer Wasserversorgung in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.401999,
+                        53.997827
+                  ]
+            },
+            {
+                  "name": "Abbey Land",
+                  "text": "Eine Parkanlage auf historischem Klostergelände in Cavan.",
+                  "category": "park",
+                  "coords": [
+                        -7.361702,
+                        53.990522
+                  ]
+            },
+            {
+                  "name": "Faugh a Ballagh 1914-1918",
+                  "text": "Ein Denkmal in Cavan zum Gedenken an die Ereignisse von 1914 bis 1918.",
+                  "category": "historical",
+                  "coords": [
+                        -7.359617,
+                        53.998206
+                  ]
+            },
+            {
+                  "name": "The Plow",
+                  "text": "Ein öffentliches Denkmal in der Stadt Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.336499,
+                        53.98361
+                  ]
+            },
+            {
+                  "name": "Backyard Arts Centre",
+                  "text": "Ein vielseitiges Kulturzentrum für Kunst und Veranstaltungen in Cavan.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.352878,
+                        53.968396
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Patrick and Saint Felim",
+                  "text": "Die imposante Kathedrale von Cavan, Sitz des Bistums Kilmore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.361991,
+                        53.995052
+                  ]
+            },
+            {
+                  "name": "Cavan Parish Church",
+                  "text": "Die historische Pfarrkirche der Gemeinde Cavan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.360361,
+                        53.993824
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Church",
+                  "text": "Ein christliches Gotteshaus in Cavan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.358934,
+                        53.991794
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ice House",
+                  "text": "Egy történelmi jégverem régészeti lelőhelye Cavanban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.37219,
+                        54.012518
+                  ]
+            },
+            {
+                  "name": "Tonymore Crannog",
+                  "text": "Egy Cavan melletti őskori cölöpház-település maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -7.391235,
+                        53.977199
+                  ]
+            },
+            {
+                  "name": "Tonymore Castle",
+                  "text": "Egy történelmi vár maradványai vagy helyszíne Cavanban.",
+                  "category": "castle",
+                  "coords": [
+                        -7.396081,
+                        53.976028
+                  ]
+            },
+            {
+                  "name": "Drumgoon Fort",
+                  "text": "Egy történelmi erődítmény régészeti földvára Cavanban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.382244,
+                        53.992009
+                  ]
+            },
+            {
+                  "name": "Swellan Fort",
+                  "text": "Történelmi gyűrűvár mint régészeti lelőhely Cavanban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.374334,
+                        53.995944
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Történelmi vízellátással kapcsolatos régészeti helyszín Cavanban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.401999,
+                        53.997827
+                  ]
+            },
+            {
+                  "name": "Abbey Land",
+                  "text": "Park egy történelmi apátsági területen Cavanban.",
+                  "category": "park",
+                  "coords": [
+                        -7.361702,
+                        53.990522
+                  ]
+            },
+            {
+                  "name": "Faugh a Ballagh 1914-1918",
+                  "text": "Emlékmű Cavanban az 1914 és 1918 közötti események emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -7.359617,
+                        53.998206
+                  ]
+            },
+            {
+                  "name": "The Plow",
+                  "text": "Nyilvános emlékmű Cavan városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.336499,
+                        53.98361
+                  ]
+            },
+            {
+                  "name": "Backyard Arts Centre",
+                  "text": "Sokoldalú művészeti és rendezvényközpont Cavanban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.352878,
+                        53.968396
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Patrick and Saint Felim",
+                  "text": "Cavan impozáns székesegyháza, a Kilmore-i egyházmegye székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -7.361991,
+                        53.995052
+                  ]
+            },
+            {
+                  "name": "Cavan Parish Church",
+                  "text": "Cavan közösségének történelmi plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -7.360361,
+                        53.993824
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Church",
+                  "text": "Keresztény templom Cavanban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.358934,
+                        53.991794
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ice House",
+                  "text": "Un sit arheologic al unei foste pivnițe de gheață istorice din Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.37219,
+                        54.012518
+                  ]
+            },
+            {
+                  "name": "Tonymore Crannog",
+                  "text": "Rămășițele unei așezări preistorice pe piloni de lângă Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.391235,
+                        53.977199
+                  ]
+            },
+            {
+                  "name": "Tonymore Castle",
+                  "text": "Vestigiile sau amplasamentul unui castel istoric din Cavan.",
+                  "category": "castle",
+                  "coords": [
+                        -7.396081,
+                        53.976028
+                  ]
+            },
+            {
+                  "name": "Drumgoon Fort",
+                  "text": "O fortificație arheologică de pământ situată în Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.382244,
+                        53.992009
+                  ]
+            },
+            {
+                  "name": "Swellan Fort",
+                  "text": "Un fort circular istoric ca sit arheologic în Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.374334,
+                        53.995944
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "Un sit arheologic legat de aprovizionarea istorică cu apă în Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.401999,
+                        53.997827
+                  ]
+            },
+            {
+                  "name": "Abbey Land",
+                  "text": "Un spațiu verde amenajat pe un teren istoric al unei abații din Cavan.",
+                  "category": "park",
+                  "coords": [
+                        -7.361702,
+                        53.990522
+                  ]
+            },
+            {
+                  "name": "Faugh a Ballagh 1914-1918",
+                  "text": "Un monument în Cavan dedicat memoriei evenimentelor din 1914-1918.",
+                  "category": "historical",
+                  "coords": [
+                        -7.359617,
+                        53.998206
+                  ]
+            },
+            {
+                  "name": "The Plow",
+                  "text": "Un monument public situat în orașul Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.336499,
+                        53.98361
+                  ]
+            },
+            {
+                  "name": "Backyard Arts Centre",
+                  "text": "Un centru cultural versatil pentru arte și evenimente în Cavan.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.352878,
+                        53.968396
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Patrick and Saint Felim",
+                  "text": "Catedrala impunătoare din Cavan, sediul Diecezei de Kilmore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.361991,
+                        53.995052
+                  ]
+            },
+            {
+                  "name": "Cavan Parish Church",
+                  "text": "Biserica parohială istorică a comunității din Cavan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.360361,
+                        53.993824
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Church",
+                  "text": "Un lăcaș de cult creștin situat în Cavan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.358934,
+                        53.991794
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ice House",
+                  "text": "An archaeological site of a historic ice house in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.37219,
+                        54.012518
+                  ]
+            },
+            {
+                  "name": "Tonymore Crannog",
+                  "text": "Remains of a prehistoric lake dwelling near Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.391235,
+                        53.977199
+                  ]
+            },
+            {
+                  "name": "Tonymore Castle",
+                  "text": "The remains or site of a historic castle in Cavan.",
+                  "category": "castle",
+                  "coords": [
+                        -7.396081,
+                        53.976028
+                  ]
+            },
+            {
+                  "name": "Drumgoon Fort",
+                  "text": "An archaeological earthwork of a historic fort in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.382244,
+                        53.992009
+                  ]
+            },
+            {
+                  "name": "Swellan Fort",
+                  "text": "A historic ringfort archaeological site in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.374334,
+                        53.995944
+                  ]
+            },
+            {
+                  "name": "Reservoir",
+                  "text": "An archaeological site related to historic water infrastructure in Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.401999,
+                        53.997827
+                  ]
+            },
+            {
+                  "name": "Abbey Land",
+                  "text": "A park area located on historic abbey lands in Cavan.",
+                  "category": "park",
+                  "coords": [
+                        -7.361702,
+                        53.990522
+                  ]
+            },
+            {
+                  "name": "Faugh a Ballagh 1914-1918",
+                  "text": "A monument in Cavan commemorating the events of 1914-1918.",
+                  "category": "historical",
+                  "coords": [
+                        -7.359617,
+                        53.998206
+                  ]
+            },
+            {
+                  "name": "The Plow",
+                  "text": "A public monument located in the town of Cavan.",
+                  "category": "historical",
+                  "coords": [
+                        -7.336499,
+                        53.98361
+                  ]
+            },
+            {
+                  "name": "Backyard Arts Centre",
+                  "text": "A versatile cultural centre for arts and events in Cavan.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.352878,
+                        53.968396
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Patrick and Saint Felim",
+                  "text": "The impressive cathedral of Cavan, seat of the Diocese of Kilmore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.361991,
+                        53.995052
+                  ]
+            },
+            {
+                  "name": "Cavan Parish Church",
+                  "text": "The historic parish church of the Cavan community.",
+                  "category": "religious",
+                  "coords": [
+                        -7.360361,
+                        53.993824
+                  ]
+            },
+            {
+                  "name": "Saint Clare's Church",
+                  "text": "A Christian place of worship located in Cavan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.358934,
+                        53.991794
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.3613, 53.9908],
@@ -3191,7 +18329,448 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-monaghan",
+    id: "city-monaghan", "sights": {
+      "de": [
+            {
+                  "name": "Monaghan County Museum",
+                  "text": "Ein Museum, das das kulturelle Erbe von Monaghan präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.966937,
+                        54.251702
+                  ]
+            },
+            {
+                  "name": "The Garage Theatre",
+                  "text": "Ein Veranstaltungsort für Theater und Kunst in Monaghan.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.951153,
+                        54.262762
+                  ]
+            },
+            {
+                  "name": "Liscarn",
+                  "text": "Eine archäologische Fundstätte in der Nähe von Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.929758,
+                        54.262308
+                  ]
+            },
+            {
+                  "name": "Dawson Monument",
+                  "text": "Ein Denkmal in Monaghan zur Erinnerung an die Familie Dawson.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970725,
+                        54.247905
+                  ]
+            },
+            {
+                  "name": "The Markethouse",
+                  "text": "Ein historisches Gebäude in Monaghan, das heute als Kunstzentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.972263,
+                        54.247536
+                  ]
+            },
+            {
+                  "name": "Old Cross Square",
+                  "text": "Ein markantes Denkmal auf einem zentralen Platz in Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965706,
+                        54.247189
+                  ]
+            },
+            {
+                  "name": "Banba Giant",
+                  "text": "Eine lokale Attraktion in Monaghan, die Besucher anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.999225,
+                        54.232963
+                  ]
+            },
+            {
+                  "name": "Court Tomb",
+                  "text": "Ein prähistorisches Megalithgrab in der Umgebung von Monaghan.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.986793,
+                        54.228051
+                  ]
+            },
+            {
+                  "name": "The Barn",
+                  "text": "Historische Gebäudereste in der Landschaft von Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.991738,
+                        54.22978
+                  ]
+            },
+            {
+                  "name": "Saint Macartan's Cathedral",
+                  "text": "Die beeindruckende neugotische Kathedrale von Monaghan.",
+                  "category": "religious",
+                  "coords": [
+                        -6.95754,
+                        54.24459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "Eine katholische Kirche in Monaghan, ein Ort der Andacht.",
+                  "category": "religious",
+                  "coords": [
+                        -6.972911,
+                        54.246536
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Die St. Patrick's Kirche in Monaghan, ein bedeutendes religiöses Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        -6.969493,
+                        54.248051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monaghan County Museum",
+                  "text": "Múzeum, amely Monaghan kulturális örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.966937,
+                        54.251702
+                  ]
+            },
+            {
+                  "name": "The Garage Theatre",
+                  "text": "Színházi és művészeti előadások helyszíne Monaghanban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.951153,
+                        54.262762
+                  ]
+            },
+            {
+                  "name": "Liscarn",
+                  "text": "Régészeti lelőhely Monaghan közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.929758,
+                        54.262308
+                  ]
+            },
+            {
+                  "name": "Dawson Monument",
+                  "text": "Emlékmű Monaghanban, a Dawson család emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970725,
+                        54.247905
+                  ]
+            },
+            {
+                  "name": "The Markethouse",
+                  "text": "Történelmi épület Monaghanban, amely ma művészeti központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.972263,
+                        54.247536
+                  ]
+            },
+            {
+                  "name": "Old Cross Square",
+                  "text": "Jellegzetes emlékmű Monaghan egyik központi terén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965706,
+                        54.247189
+                  ]
+            },
+            {
+                  "name": "Banba Giant",
+                  "text": "Helyi látványosság Monaghanban, amely vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.999225,
+                        54.232963
+                  ]
+            },
+            {
+                  "name": "Court Tomb",
+                  "text": "Prehisztorikus megalitikus sír Monaghan környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.986793,
+                        54.228051
+                  ]
+            },
+            {
+                  "name": "The Barn",
+                  "text": "Történelmi épületmaradványok Monaghan vidékén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.991738,
+                        54.22978
+                  ]
+            },
+            {
+                  "name": "Saint Macartan's Cathedral",
+                  "text": "Monaghan lenyűgöző neogótikus székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        -6.95754,
+                        54.24459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "Katolikus templom Monaghanban, az imádság helye.",
+                  "category": "religious",
+                  "coords": [
+                        -6.972911,
+                        54.246536
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "A Szent Patrik templom Monaghanban, jelentős vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        -6.969493,
+                        54.248051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monaghan County Museum",
+                  "text": "Un muzeu care prezintă moștenirea culturală a orașului Monaghan.",
+                  "category": "museum",
+                  "coords": [
+                        -6.966937,
+                        54.251702
+                  ]
+            },
+            {
+                  "name": "The Garage Theatre",
+                  "text": "Un spațiu pentru spectacole de teatru și artă în Monaghan.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.951153,
+                        54.262762
+                  ]
+            },
+            {
+                  "name": "Liscarn",
+                  "text": "Un sit arheologic situat în apropiere de Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.929758,
+                        54.262308
+                  ]
+            },
+            {
+                  "name": "Dawson Monument",
+                  "text": "Un monument în Monaghan ridicat în memoria familiei Dawson.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970725,
+                        54.247905
+                  ]
+            },
+            {
+                  "name": "The Markethouse",
+                  "text": "O clădire istorică în Monaghan care servește acum ca centru de artă.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.972263,
+                        54.247536
+                  ]
+            },
+            {
+                  "name": "Old Cross Square",
+                  "text": "Un monument distinctiv situat într-o piață centrală din Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965706,
+                        54.247189
+                  ]
+            },
+            {
+                  "name": "Banba Giant",
+                  "text": "O atracție locală în Monaghan care atrage vizitatorii.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.999225,
+                        54.232963
+                  ]
+            },
+            {
+                  "name": "Court Tomb",
+                  "text": "Un mormânt megalitic preistoric în împrejurimile orașului Monaghan.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.986793,
+                        54.228051
+                  ]
+            },
+            {
+                  "name": "The Barn",
+                  "text": "Rămășițe ale unei clădiri istorice în zona rurală din Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.991738,
+                        54.22978
+                  ]
+            },
+            {
+                  "name": "Saint Macartan's Cathedral",
+                  "text": "Catedrala neogotică impresionantă din Monaghan.",
+                  "category": "religious",
+                  "coords": [
+                        -6.95754,
+                        54.24459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "O biserică catolică în Monaghan, un loc de reculegere.",
+                  "category": "religious",
+                  "coords": [
+                        -6.972911,
+                        54.246536
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Biserica Sfântul Patrick din Monaghan, un edificiu religios important.",
+                  "category": "religious",
+                  "coords": [
+                        -6.969493,
+                        54.248051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monaghan County Museum",
+                  "text": "A museum showcasing the cultural heritage of Monaghan.",
+                  "category": "museum",
+                  "coords": [
+                        -6.966937,
+                        54.251702
+                  ]
+            },
+            {
+                  "name": "The Garage Theatre",
+                  "text": "A venue for theatrical and artistic performances in Monaghan.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.951153,
+                        54.262762
+                  ]
+            },
+            {
+                  "name": "Liscarn",
+                  "text": "An archaeological site located near Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.929758,
+                        54.262308
+                  ]
+            },
+            {
+                  "name": "Dawson Monument",
+                  "text": "A monument in Monaghan commemorating the Dawson family.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970725,
+                        54.247905
+                  ]
+            },
+            {
+                  "name": "The Markethouse",
+                  "text": "A historic building in Monaghan that now serves as an arts centre.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.972263,
+                        54.247536
+                  ]
+            },
+            {
+                  "name": "Old Cross Square",
+                  "text": "A distinctive monument located in a central square in Monaghan.",
+                  "category": "historical",
+                  "coords": [
+                        -6.965706,
+                        54.247189
+                  ]
+            },
+            {
+                  "name": "Banba Giant",
+                  "text": "A local attraction in Monaghan that draws visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.999225,
+                        54.232963
+                  ]
+            },
+            {
+                  "name": "Court Tomb",
+                  "text": "A prehistoric megalithic tomb in the Monaghan area.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.986793,
+                        54.228051
+                  ]
+            },
+            {
+                  "name": "The Barn",
+                  "text": "Historic remains of a building in the Monaghan countryside.",
+                  "category": "historical",
+                  "coords": [
+                        -6.991738,
+                        54.22978
+                  ]
+            },
+            {
+                  "name": "Saint Macartan's Cathedral",
+                  "text": "The impressive Neo-Gothic cathedral of Monaghan.",
+                  "category": "religious",
+                  "coords": [
+                        -6.95754,
+                        54.24459
+                  ]
+            },
+            {
+                  "name": "Saint Joseph's Church",
+                  "text": "A Catholic church in Monaghan, a place for worship.",
+                  "category": "religious",
+                  "coords": [
+                        -6.972911,
+                        54.246536
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Saint Patrick's Church in Monaghan, a significant religious building.",
+                  "category": "religious",
+                  "coords": [
+                        -6.969493,
+                        54.248051
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-6.9663, 54.2490],
@@ -3235,7 +18814,340 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-letterkenny",
+    id: "city-letterkenny", "sights": {
+      "de": [
+            {
+                  "name": "An Grianan Theatre",
+                  "text": "Das An Grianan Theatre ist ein Theater in Letterkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.731912,
+                        54.953391
+                  ]
+            },
+            {
+                  "name": "Donegal County Museum",
+                  "text": "Das Donegal County Museum ist ein Museum in Letterkenny. Es beherbergt Ausstellungen zur Geschichte und zum Erbe des County Donegal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.735069,
+                        54.95457
+                  ]
+            },
+            {
+                  "name": "Ballymacool House",
+                  "text": "Ballymacool House umfasst historische Ruinen in Letterkenny.",
+                  "category": "historical",
+                  "coords": [
+                        -7.758571,
+                        54.945798
+                  ]
+            },
+            {
+                  "name": "PoleStar Monument",
+                  "text": "Das PoleStar Monument ist eine Touristenattraktion in Letterkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.715959,
+                        54.948968
+                  ]
+            },
+            {
+                  "name": "Dry Arch Monument",
+                  "text": "Das Dry Arch Monument ist eine Touristenattraktion in Letterkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.695703,
+                        54.943238
+                  ]
+            },
+            {
+                  "name": "Old Ballymacool Farmhouse",
+                  "text": "Das Old Ballymacool Farmhouse umfasst historische Ruinen in Letterkenny.",
+                  "category": "historical",
+                  "coords": [
+                        -7.762668,
+                        54.945824
+                  ]
+            },
+            {
+                  "name": "Old Leck Church",
+                  "text": "Die Old Leck Church ist eine Kirche in Letterkenny.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727498,
+                        54.943269
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Eunan",
+                  "text": "Die Cathedral of St. Eunan ist eine religiöse Stätte in Letterkenny. Diese historische Kathedrale zeichnet sich durch ein markantes viktorianisches neugotisches Design aus.",
+                  "category": "religious",
+                  "coords": [
+                        -7.740032,
+                        54.950537
+                  ]
+            },
+            {
+                  "name": "Trinity Hall",
+                  "text": "Trinity Hall ist eine religiöse Stätte in Letterkenny.",
+                  "category": "religious",
+                  "coords": [
+                        -7.738904,
+                        54.951319
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "An Grianan Theatre",
+                  "text": "Az An Grianan Theatre egy színház Letterkenny városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.731912,
+                        54.953391
+                  ]
+            },
+            {
+                  "name": "Donegal County Museum",
+                  "text": "A Donegal County Museum egy múzeum Letterkenny városában. A megye történelmével és örökségével kapcsolatos kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -7.735069,
+                        54.95457
+                  ]
+            },
+            {
+                  "name": "Ballymacool House",
+                  "text": "A Ballymacool House történelmi romokat foglal magába Letterkenny városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.758571,
+                        54.945798
+                  ]
+            },
+            {
+                  "name": "PoleStar Monument",
+                  "text": "A PoleStar Monument egy turisztikai látványosság Letterkenny városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.715959,
+                        54.948968
+                  ]
+            },
+            {
+                  "name": "Dry Arch Monument",
+                  "text": "A Dry Arch Monument egy turisztikai látványosság Letterkenny városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.695703,
+                        54.943238
+                  ]
+            },
+            {
+                  "name": "Old Ballymacool Farmhouse",
+                  "text": "Az Old Ballymacool Farmhouse történelmi romokat foglal magába Letterkenny városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.762668,
+                        54.945824
+                  ]
+            },
+            {
+                  "name": "Old Leck Church",
+                  "text": "Az Old Leck Church egy templom Letterkenny városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727498,
+                        54.943269
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Eunan",
+                  "text": "A Cathedral of St. Eunan egy istentiszteleti hely Letterkenny városában. Ez a történelmi katedrális lenyűgöző viktoriánus neogótikus dizájnnal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        -7.740032,
+                        54.950537
+                  ]
+            },
+            {
+                  "name": "Trinity Hall",
+                  "text": "A Trinity Hall egy istentiszteleti hely Letterkenny városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.738904,
+                        54.951319
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "An Grianan Theatre",
+                  "text": "An Grianan Theatre este un teatru situat în Letterkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.731912,
+                        54.953391
+                  ]
+            },
+            {
+                  "name": "Donegal County Museum",
+                  "text": "Donegal County Museum este un muzeu situat în Letterkenny. Acesta găzduiește expoziții legate de istoria și patrimoniul comitatului Donegal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.735069,
+                        54.95457
+                  ]
+            },
+            {
+                  "name": "Ballymacool House",
+                  "text": "Ballymacool House prezintă ruine istorice situate în Letterkenny.",
+                  "category": "historical",
+                  "coords": [
+                        -7.758571,
+                        54.945798
+                  ]
+            },
+            {
+                  "name": "PoleStar Monument",
+                  "text": "PoleStar Monument este o atracție turistică situată în Letterkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.715959,
+                        54.948968
+                  ]
+            },
+            {
+                  "name": "Dry Arch Monument",
+                  "text": "Dry Arch Monument este o atracție turistică situată în Letterkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.695703,
+                        54.943238
+                  ]
+            },
+            {
+                  "name": "Old Ballymacool Farmhouse",
+                  "text": "Old Ballymacool Farmhouse prezintă ruine istorice situate în Letterkenny.",
+                  "category": "historical",
+                  "coords": [
+                        -7.762668,
+                        54.945824
+                  ]
+            },
+            {
+                  "name": "Old Leck Church",
+                  "text": "Old Leck Church este o biserică situată în Letterkenny.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727498,
+                        54.943269
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Eunan",
+                  "text": "Cathedral of St. Eunan este un lăcaș de cult situat în Letterkenny. Această catedrală istorică prezintă un design neogotic victorian remarcabil.",
+                  "category": "religious",
+                  "coords": [
+                        -7.740032,
+                        54.950537
+                  ]
+            },
+            {
+                  "name": "Trinity Hall",
+                  "text": "Trinity Hall este un lăcaș de cult situat în Letterkenny.",
+                  "category": "religious",
+                  "coords": [
+                        -7.738904,
+                        54.951319
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "An Grianan Theatre",
+                  "text": "An Grianan Theatre is a theatre located in Letterkenny.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.731912,
+                        54.953391
+                  ]
+            },
+            {
+                  "name": "Donegal County Museum",
+                  "text": "Donegal County Museum is a museum located in Letterkenny. It houses exhibitions relating to the history and heritage of County Donegal.",
+                  "category": "museum",
+                  "coords": [
+                        -7.735069,
+                        54.95457
+                  ]
+            },
+            {
+                  "name": "Ballymacool House",
+                  "text": "Ballymacool House features historic ruins located in Letterkenny.",
+                  "category": "historical",
+                  "coords": [
+                        -7.758571,
+                        54.945798
+                  ]
+            },
+            {
+                  "name": "PoleStar Monument",
+                  "text": "PoleStar Monument is a tourist attraction situated in Letterkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.715959,
+                        54.948968
+                  ]
+            },
+            {
+                  "name": "Dry Arch Monument",
+                  "text": "Dry Arch Monument is a tourist attraction located in Letterkenny.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.695703,
+                        54.943238
+                  ]
+            },
+            {
+                  "name": "Old Ballymacool Farmhouse",
+                  "text": "Old Ballymacool Farmhouse features historic ruins located in Letterkenny.",
+                  "category": "historical",
+                  "coords": [
+                        -7.762668,
+                        54.945824
+                  ]
+            },
+            {
+                  "name": "Old Leck Church",
+                  "text": "Old Leck Church is a church situated in Letterkenny.",
+                  "category": "religious",
+                  "coords": [
+                        -7.727498,
+                        54.943269
+                  ]
+            },
+            {
+                  "name": "Cathedral of St. Eunan",
+                  "text": "Cathedral of St. Eunan is a place of worship located in Letterkenny. This historic cathedral features a striking Victorian neo-Gothic design.",
+                  "category": "religious",
+                  "coords": [
+                        -7.740032,
+                        54.950537
+                  ]
+            },
+            {
+                  "name": "Trinity Hall",
+                  "text": "Trinity Hall is a place of worship situated in Letterkenny.",
+                  "category": "religious",
+                  "coords": [
+                        -7.738904,
+                        54.951319
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.7409, 54.9503],
@@ -3279,7 +19191,340 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-killarney",
+    id: "city-killarney", "sights": {
+      "de": [
+            {
+                  "name": "Ross Castle",
+                  "text": "Ein gut erhaltenes Tower House aus dem 15. Jahrhundert am Ufer des Lough Leane.",
+                  "category": "castle",
+                  "coords": [
+                        -9.53147,
+                        52.041251
+                  ]
+            },
+            {
+                  "name": "Flesk Castle",
+                  "text": "Ein neugotisches Schloss am Ufer des Flusses Flesk bei Killarney.",
+                  "category": "castle",
+                  "coords": [
+                        -9.477781,
+                        52.051261
+                  ]
+            },
+            {
+                  "name": "McCarthy Mor Castle",
+                  "text": "Die Ruinen einer historischen Festung des McCarthy-Clans in Killarney.",
+                  "category": "castle",
+                  "coords": [
+                        -9.500384,
+                        52.037075
+                  ]
+            },
+            {
+                  "name": "St. Mary's Well",
+                  "text": "Eine lokale Sehenswürdigkeit und heilige Quelle in Killarney.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509225,
+                        52.057772
+                  ]
+            },
+            {
+                  "name": "St Margaret's Well",
+                  "text": "Eine traditionelle heilige Quelle in der Umgebung von Killarney.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.514423,
+                        52.062008
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Die bedeutende katholische Kathedrale von Killarney, entworfen von Augustus Pugin.",
+                  "category": "religious",
+                  "coords": [
+                        -9.518037,
+                        52.059565
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Ein Gotteshaus der Methodistengemeinde in Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.506262,
+                        52.056966
+                  ]
+            },
+            {
+                  "name": "Saint Mary's (CoI)",
+                  "text": "Die anglikanische Kirche St. Mary im Zentrum von Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.508231,
+                        52.058126
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "Eine moderne katholische Kirche im Stadtgebiet von Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.487914,
+                        52.059625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ross Castle",
+                  "text": "Jó állapotban fennmaradt 15. századi lakótorony a Lough Leane partján.",
+                  "category": "castle",
+                  "coords": [
+                        -9.53147,
+                        52.041251
+                  ]
+            },
+            {
+                  "name": "Flesk Castle",
+                  "text": "Neogótikus kastély a Flesk-folyó partján, Killarney közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.477781,
+                        52.051261
+                  ]
+            },
+            {
+                  "name": "McCarthy Mor Castle",
+                  "text": "A McCarthy-klán történelmi erődjének romjai Killarney-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -9.500384,
+                        52.037075
+                  ]
+            },
+            {
+                  "name": "St. Mary's Well",
+                  "text": "Helyi látványosság és szent kút Killarney-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509225,
+                        52.057772
+                  ]
+            },
+            {
+                  "name": "St Margaret's Well",
+                  "text": "Hagyományos szent kút Killarney környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.514423,
+                        52.062008
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Killarney jelentős katolikus székesegyháza, melyet Augustus Pugin tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        -9.518037,
+                        52.059565
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "A metodista közösség temploma Killarney-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -9.506262,
+                        52.056966
+                  ]
+            },
+            {
+                  "name": "Saint Mary's (CoI)",
+                  "text": "A Killarney központjában található anglikán Szent Mária-templom.",
+                  "category": "religious",
+                  "coords": [
+                        -9.508231,
+                        52.058126
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "Modern katolikus templom Killarney városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        -9.487914,
+                        52.059625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ross Castle",
+                  "text": "O casă-turn bine conservată din secolul al XV-lea, pe malul lacului Lough Leane.",
+                  "category": "castle",
+                  "coords": [
+                        -9.53147,
+                        52.041251
+                  ]
+            },
+            {
+                  "name": "Flesk Castle",
+                  "text": "Un castel în stil neogotic pe malul râului Flesk, lângă Killarney.",
+                  "category": "castle",
+                  "coords": [
+                        -9.477781,
+                        52.051261
+                  ]
+            },
+            {
+                  "name": "McCarthy Mor Castle",
+                  "text": "Ruinele unei fortărețe istorice a clanului McCarthy în Killarney.",
+                  "category": "castle",
+                  "coords": [
+                        -9.500384,
+                        52.037075
+                  ]
+            },
+            {
+                  "name": "St. Mary's Well",
+                  "text": "O atracție locală și izvor sfânt situat în Killarney.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509225,
+                        52.057772
+                  ]
+            },
+            {
+                  "name": "St Margaret's Well",
+                  "text": "Un izvor sfânt tradițional situat în zona Killarney.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.514423,
+                        52.062008
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "Catedrala catolică importantă din Killarney, proiectată de Augustus Pugin.",
+                  "category": "religious",
+                  "coords": [
+                        -9.518037,
+                        52.059565
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Un lăcaș de cult al comunității metodiste din Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.506262,
+                        52.056966
+                  ]
+            },
+            {
+                  "name": "Saint Mary's (CoI)",
+                  "text": "Biserica anglicană Sfânta Maria din centrul orașului Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.508231,
+                        52.058126
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "O biserică catolică modernă în zona urbană a Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.487914,
+                        52.059625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ross Castle",
+                  "text": "A well-preserved 15th-century tower house on the shores of Lough Leane.",
+                  "category": "castle",
+                  "coords": [
+                        -9.53147,
+                        52.041251
+                  ]
+            },
+            {
+                  "name": "Flesk Castle",
+                  "text": "A neo-Gothic castle situated on the banks of the River Flesk near Killarney.",
+                  "category": "castle",
+                  "coords": [
+                        -9.477781,
+                        52.051261
+                  ]
+            },
+            {
+                  "name": "McCarthy Mor Castle",
+                  "text": "The ruins of a historic fortress belonging to the McCarthy clan in Killarney.",
+                  "category": "castle",
+                  "coords": [
+                        -9.500384,
+                        52.037075
+                  ]
+            },
+            {
+                  "name": "St. Mary's Well",
+                  "text": "A local attraction and holy well located in Killarney.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.509225,
+                        52.057772
+                  ]
+            },
+            {
+                  "name": "St Margaret's Well",
+                  "text": "A traditional holy well in the Killarney area.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.514423,
+                        52.062008
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Cathedral",
+                  "text": "The major Catholic cathedral of Killarney, designed by Augustus Pugin.",
+                  "category": "religious",
+                  "coords": [
+                        -9.518037,
+                        52.059565
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "A place of worship for the Methodist community in Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.506262,
+                        52.056966
+                  ]
+            },
+            {
+                  "name": "Saint Mary's (CoI)",
+                  "text": "The Anglican St. Mary's Church located in the centre of Killarney.",
+                  "category": "religious",
+                  "coords": [
+                        -9.508231,
+                        52.058126
+                  ]
+            },
+            {
+                  "name": "Church of the Resurrection",
+                  "text": "A modern Catholic church located within the Killarney town area.",
+                  "category": "religious",
+                  "coords": [
+                        -9.487914,
+                        52.059625
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-9.5086, 52.0591],
@@ -3367,7 +19612,196 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-dungarvan",
+    id: "city-dungarvan", "sights": {
+      "de": [
+            {
+                  "name": "Waterford County Museum",
+                  "text": "Das Waterford County Museum ist ein Museum in Dungarvan. Es bewahrt und präsentiert die lokale Geschichte von West Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619444,
+                        52.088695
+                  ]
+            },
+            {
+                  "name": "Dungarvan Castle",
+                  "text": "Das Dungarvan Castle ist eine historische Burg in der Stadt Dungarvan. Es ist eine bekannte anglonormannische Festung.",
+                  "category": "castle",
+                  "coords": [
+                        -7.616382,
+                        52.089356
+                  ]
+            },
+            {
+                  "name": "St. Mary's Parish Church",
+                  "text": "Die St. Mary's Parish Church ist eine religiöse Stätte in der Stadt Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.621391,
+                        52.087287
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Church",
+                  "text": "Die Saint Augustine's Church ist ein Gotteshaus in Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.610638,
+                        52.087997
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "Die St. Mary's Church of Ireland ist eine religiöse Stätte in Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.617787,
+                        52.087141
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Waterford County Museum",
+                  "text": "A Waterford County Museum egy múzeum Dungarvan városában. A nyugat-waterfordi régió helytörténetét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619444,
+                        52.088695
+                  ]
+            },
+            {
+                  "name": "Dungarvan Castle",
+                  "text": "A Dungarvan Castle egy történelmi kastély Dungarvan városában. Ez egy jól ismert angol-normann erődítmény.",
+                  "category": "castle",
+                  "coords": [
+                        -7.616382,
+                        52.089356
+                  ]
+            },
+            {
+                  "name": "St. Mary's Parish Church",
+                  "text": "A St. Mary's Parish Church egy istentiszteleti hely Dungarvan városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.621391,
+                        52.087287
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Church",
+                  "text": "A Saint Augustine's Church egy vallási épület Dungarvan városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.610638,
+                        52.087997
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "A St. Mary's Church of Ireland egy istentiszteleti hely Dungarvanban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.617787,
+                        52.087141
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Waterford County Museum",
+                  "text": "Waterford County Museum este un muzeu situat în Dungarvan. Acesta conservă și expune istoria locală din West Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619444,
+                        52.088695
+                  ]
+            },
+            {
+                  "name": "Dungarvan Castle",
+                  "text": "Castelul Dungarvan este un castel istoric situat în orașul Dungarvan. Este o fortăreață anglo-normandă binecunoscută.",
+                  "category": "castle",
+                  "coords": [
+                        -7.616382,
+                        52.089356
+                  ]
+            },
+            {
+                  "name": "St. Mary's Parish Church",
+                  "text": "Biserica parohială Sf. Maria este un lăcaș de cult situat în orașul Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.621391,
+                        52.087287
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Church",
+                  "text": "Biserica Sfântul Augustin este un lăcaș de cult din orașul Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.610638,
+                        52.087997
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "Biserica Sf. Maria a Irlandei este un lăcaș de cult situat în Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.617787,
+                        52.087141
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Waterford County Museum",
+                  "text": "Waterford County Museum is a museum situated in Dungarvan. It preserves and displays the local history of West Waterford.",
+                  "category": "museum",
+                  "coords": [
+                        -7.619444,
+                        52.088695
+                  ]
+            },
+            {
+                  "name": "Dungarvan Castle",
+                  "text": "Dungarvan Castle is a historic castle located in Dungarvan. It is a well-known Anglo-Norman fortress.",
+                  "category": "castle",
+                  "coords": [
+                        -7.616382,
+                        52.089356
+                  ]
+            },
+            {
+                  "name": "St. Mary's Parish Church",
+                  "text": "St. Mary's Parish Church is a place of worship located in the city of Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.621391,
+                        52.087287
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's Church",
+                  "text": "Saint Augustine's Church is a place of worship located in Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.610638,
+                        52.087997
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church of Ireland",
+                  "text": "St. Mary's Church of Ireland is a place of worship situated in Dungarvan.",
+                  "category": "religious",
+                  "coords": [
+                        -7.617787,
+                        52.087141
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-7.6253, 52.0917],
@@ -3411,7 +19845,232 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-mallow",
+    id: "city-mallow", "sights": {
+      "de": [
+            {
+                  "name": "Mallow Castle",
+                  "text": "Ein historisches Anwesen mit einer Burgruine aus dem 16. Jahrhundert in Mallow.",
+                  "category": "castle",
+                  "coords": [
+                        -8.639478,
+                        52.133908
+                  ]
+            },
+            {
+                  "name": "Mallow Castle House",
+                  "text": "Ein herrschaftliches Gebäude auf dem Gelände von Mallow Castle.",
+                  "category": "castle",
+                  "coords": [
+                        -8.638534,
+                        52.134591
+                  ]
+            },
+            {
+                  "name": "J J Fitzgerald Monument",
+                  "text": "Ein Denkmal zu Ehren von J. J. Fitzgerald in Mallow.",
+                  "category": "historical",
+                  "coords": [
+                        -8.642905,
+                        52.136436
+                  ]
+            },
+            {
+                  "name": "West End Art Studios",
+                  "text": "Ein Atelier und eine Galerie für lokale Kunst in Mallow.",
+                  "category": "museum",
+                  "coords": [
+                        -8.648366,
+                        52.137658
+                  ]
+            },
+            {
+                  "name": "Mala",
+                  "text": "Ein lokales Denkmal oder Wahrzeichen in Mallow.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639182,
+                        52.138196
+                  ]
+            },
+            {
+                  "name": "Saint Mary's church",
+                  "text": "Eine christliche Kirche in der Stadt Mallow.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645036,
+                        52.136526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mallow Castle",
+                  "text": "Történelmi birtok egy 16. századi várrommal Mallow-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -8.639478,
+                        52.133908
+                  ]
+            },
+            {
+                  "name": "Mallow Castle House",
+                  "text": "Mallow Castle területén található uradalmi épület.",
+                  "category": "castle",
+                  "coords": [
+                        -8.638534,
+                        52.134591
+                  ]
+            },
+            {
+                  "name": "J J Fitzgerald Monument",
+                  "text": "J. J. Fitzgerald tiszteletére emelt emlékmű Mallow-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.642905,
+                        52.136436
+                  ]
+            },
+            {
+                  "name": "West End Art Studios",
+                  "text": "Műterem és galéria helyi művészek alkotásaival Mallow-ban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.648366,
+                        52.137658
+                  ]
+            },
+            {
+                  "name": "Mala",
+                  "text": "Helyi emlékmű vagy jellegzetesség Mallow-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639182,
+                        52.138196
+                  ]
+            },
+            {
+                  "name": "Saint Mary's church",
+                  "text": "Keresztény templom Mallow városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645036,
+                        52.136526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mallow Castle",
+                  "text": "O proprietate istorică ce include ruinele unui castel din secolul al XVI-lea în Mallow.",
+                  "category": "castle",
+                  "coords": [
+                        -8.639478,
+                        52.133908
+                  ]
+            },
+            {
+                  "name": "Mallow Castle House",
+                  "text": "O clădire nobiliară situată pe domeniul Castelului Mallow.",
+                  "category": "castle",
+                  "coords": [
+                        -8.638534,
+                        52.134591
+                  ]
+            },
+            {
+                  "name": "J J Fitzgerald Monument",
+                  "text": "Un monument ridicat în onoarea lui J. J. Fitzgerald în Mallow.",
+                  "category": "historical",
+                  "coords": [
+                        -8.642905,
+                        52.136436
+                  ]
+            },
+            {
+                  "name": "West End Art Studios",
+                  "text": "Un studio și galerie de artă locală situată în Mallow.",
+                  "category": "museum",
+                  "coords": [
+                        -8.648366,
+                        52.137658
+                  ]
+            },
+            {
+                  "name": "Mala",
+                  "text": "Un monument sau reper local situat în Mallow.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639182,
+                        52.138196
+                  ]
+            },
+            {
+                  "name": "Saint Mary's church",
+                  "text": "O biserică creștină în orașul Mallow.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645036,
+                        52.136526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mallow Castle",
+                  "text": "A historic estate featuring 16th-century castle ruins in Mallow.",
+                  "category": "castle",
+                  "coords": [
+                        -8.639478,
+                        52.133908
+                  ]
+            },
+            {
+                  "name": "Mallow Castle House",
+                  "text": "A stately building located on the grounds of Mallow Castle.",
+                  "category": "castle",
+                  "coords": [
+                        -8.638534,
+                        52.134591
+                  ]
+            },
+            {
+                  "name": "J J Fitzgerald Monument",
+                  "text": "A monument dedicated to J. J. Fitzgerald in Mallow.",
+                  "category": "historical",
+                  "coords": [
+                        -8.642905,
+                        52.136436
+                  ]
+            },
+            {
+                  "name": "West End Art Studios",
+                  "text": "A studio and gallery showcasing local art in Mallow.",
+                  "category": "museum",
+                  "coords": [
+                        -8.648366,
+                        52.137658
+                  ]
+            },
+            {
+                  "name": "Mala",
+                  "text": "A local monument or landmark in Mallow.",
+                  "category": "historical",
+                  "coords": [
+                        -8.639182,
+                        52.138196
+                  ]
+            },
+            {
+                  "name": "Saint Mary's church",
+                  "text": "A Christian church located in the town of Mallow.",
+                  "category": "religious",
+                  "coords": [
+                        -8.645036,
+                        52.136526
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-8.6437, 52.1338],
@@ -3474,6 +20133,51 @@ export const irelandCulture: POI[] = [
                         -6.016623,
                         52.944607
                   ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "Die Ruine einer Küstenburg aus dem 12. Jahrhundert in Wicklow.",
+                  "category": "castle",
+                  "coords": [
+                        -6.030827,
+                        52.981104
+                  ]
+            },
+            {
+                  "name": "The Abbey",
+                  "text": "Die Überreste eines alten Klosters in Wicklow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046367,
+                        52.981369
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "Eine traditionelle heilige Quelle in der Nähe von Wicklow.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.010576,
+                        52.972109
+                  ]
+            },
+            {
+                  "name": "Wicklow County Council",
+                  "text": "Das Verwaltungsgebäude des Wicklow County Council.",
+                  "category": "historical",
+                  "coords": [
+                        -6.050284,
+                        52.985491
+                  ]
+            },
+            {
+                  "name": "Wicklow Parish Church",
+                  "text": "Die historische Pfarrkirche im Zentrum von Wicklow.",
+                  "category": "religious",
+                  "coords": [
+                        -6.045765,
+                        52.983218
+                  ]
             }
       ],
       "hu": [
@@ -3493,6 +20197,51 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -6.016623,
                         52.944607
+                  ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "Egy 12. századi tengerparti vár romjai Wicklow-ban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.030827,
+                        52.981104
+                  ]
+            },
+            {
+                  "name": "The Abbey",
+                  "text": "Egy régi kolostor maradványai Wicklow-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046367,
+                        52.981369
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "Hagyományos szent kút Wicklow közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.010576,
+                        52.972109
+                  ]
+            },
+            {
+                  "name": "Wicklow County Council",
+                  "text": "Wicklow megye tanácsának adminisztratív épülete.",
+                  "category": "historical",
+                  "coords": [
+                        -6.050284,
+                        52.985491
+                  ]
+            },
+            {
+                  "name": "Wicklow Parish Church",
+                  "text": "Történelmi plébániatemplom Wicklow központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.045765,
+                        52.983218
                   ]
             }
       ],
@@ -3514,6 +20263,51 @@ export const irelandCulture: POI[] = [
                         -6.016623,
                         52.944607
                   ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "Ruinele unui castel de coastă din secolul al XII-lea în Wicklow.",
+                  "category": "castle",
+                  "coords": [
+                        -6.030827,
+                        52.981104
+                  ]
+            },
+            {
+                  "name": "The Abbey",
+                  "text": "Rămășițele unei vechi abații din Wicklow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046367,
+                        52.981369
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "Un izvor sfânt tradițional situat lângă Wicklow.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.010576,
+                        52.972109
+                  ]
+            },
+            {
+                  "name": "Wicklow County Council",
+                  "text": "Clădirea administrativă a Consiliului Județean Wicklow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.050284,
+                        52.985491
+                  ]
+            },
+            {
+                  "name": "Wicklow Parish Church",
+                  "text": "Biserica parohială istorică din centrul orașului Wicklow.",
+                  "category": "religious",
+                  "coords": [
+                        -6.045765,
+                        52.983218
+                  ]
             }
       ],
       "en": [
@@ -3533,6 +20327,51 @@ export const irelandCulture: POI[] = [
                   "coords": [
                         -6.016623,
                         52.944607
+                  ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "The ruins of a 12th-century coastal castle in Wicklow.",
+                  "category": "castle",
+                  "coords": [
+                        -6.030827,
+                        52.981104
+                  ]
+            },
+            {
+                  "name": "The Abbey",
+                  "text": "The remains of an ancient abbey in Wicklow.",
+                  "category": "historical",
+                  "coords": [
+                        -6.046367,
+                        52.981369
+                  ]
+            },
+            {
+                  "name": "Bride's Well",
+                  "text": "A traditional holy well located near Wicklow.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.010576,
+                        52.972109
+                  ]
+            },
+            {
+                  "name": "Wicklow County Council",
+                  "text": "The administrative building of the Wicklow County Council.",
+                  "category": "historical",
+                  "coords": [
+                        -6.050284,
+                        52.985491
+                  ]
+            },
+            {
+                  "name": "Wicklow Parish Church",
+                  "text": "The historic parish church in the center of Wicklow.",
+                  "category": "religious",
+                  "coords": [
+                        -6.045765,
+                        52.983218
                   ]
             }
       ]
@@ -3580,7 +20419,340 @@ export const irelandCulture: POI[] = [
     },
   },
   {
-    id: "city-ballina",
+    id: "city-ballina", "sights": {
+      "de": [
+            {
+                  "name": "Dolmen of the four Maols",
+                  "text": "Der Dolmen of the four Maols ist eine archäologische Stätte in Ballina. Es handelt sich um ein bekanntes Megalithgrab auf einem Hügel der Region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.165828,
+                        54.107006
+                  ]
+            },
+            {
+                  "name": "The Jackie Clarke Collection",
+                  "text": "Die Jackie Clarke Collection ist ein Museum in der Stadt Ballina.",
+                  "category": "museum",
+                  "coords": [
+                        -9.153103,
+                        54.11473
+                  ]
+            },
+            {
+                  "name": "Ardnaree Augustinian Abbey",
+                  "text": "Die Ardnaree Augustinian Abbey ist ein historisches Kloster in Ballina.",
+                  "category": "religious",
+                  "coords": [
+                        -9.151623,
+                        54.112503
+                  ]
+            },
+            {
+                  "name": "Rucklagh Fort",
+                  "text": "Rucklagh Fort ist eine archäologische Ausgrabungsstätte in der Stadt Ballina.",
+                  "category": "historical",
+                  "coords": [
+                        -9.197962,
+                        54.120218
+                  ]
+            },
+            {
+                  "name": "Ballina Arts Centre",
+                  "text": "Das Ballina Arts Centre ist ein Kunstzentrum in der Stadt Ballina.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.155143,
+                        54.111441
+                  ]
+            },
+            {
+                  "name": "View of boats on the river Moy",
+                  "text": "Der View of boats on the river Moy ist ein Aussichtspunkt in Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139639,
+                        54.133483
+                  ]
+            },
+            {
+                  "name": "Knox Gore Monument",
+                  "text": "Das Knox Gore Monument ist ein Denkmal in der Stadt Ballina.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141801,
+                        54.132492
+                  ]
+            },
+            {
+                  "name": "The Marshall Doran Collection",
+                  "text": "Die Marshall Doran Collection ist eine Galerie in der Stadt Ballina.",
+                  "category": "museum",
+                  "coords": [
+                        -9.145213,
+                        54.133385
+                  ]
+            },
+            {
+                  "name": "Saint Muredach's Cathedral",
+                  "text": "Die Saint Muredach's Cathedral ist ein Gotteshaus in Ballina.",
+                  "category": "religious",
+                  "coords": [
+                        -9.150601,
+                        54.112896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dolmen of the four Maols",
+                  "text": "A Dolmen of the four Maols egy régészeti lelőhely Ballina városában. Ez egy jól ismert megalitikus sír a helyi dombtetőn.",
+                  "category": "historical",
+                  "coords": [
+                        -9.165828,
+                        54.107006
+                  ]
+            },
+            {
+                  "name": "The Jackie Clarke Collection",
+                  "text": "A Jackie Clarke Collection egy múzeum Ballina városában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.153103,
+                        54.11473
+                  ]
+            },
+            {
+                  "name": "Ardnaree Augustinian Abbey",
+                  "text": "Az Ardnaree Augustinian Abbey egy kolostor Ballina városában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.151623,
+                        54.112503
+                  ]
+            },
+            {
+                  "name": "Rucklagh Fort",
+                  "text": "A Rucklagh Fort egy régészeti lelőhely Ballina városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.197962,
+                        54.120218
+                  ]
+            },
+            {
+                  "name": "Ballina Arts Centre",
+                  "text": "A Ballina Arts Centre egy művészeti központ Ballina városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.155143,
+                        54.111441
+                  ]
+            },
+            {
+                  "name": "View of boats on the river Moy",
+                  "text": "A View of boats on the river Moy egy kilátóhely Ballinában.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139639,
+                        54.133483
+                  ]
+            },
+            {
+                  "name": "Knox Gore Monument",
+                  "text": "A Knox Gore Monument egy emlékmű Ballina városában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141801,
+                        54.132492
+                  ]
+            },
+            {
+                  "name": "The Marshall Doran Collection",
+                  "text": "A Marshall Doran Collection egy galéria Ballina városában.",
+                  "category": "museum",
+                  "coords": [
+                        -9.145213,
+                        54.133385
+                  ]
+            },
+            {
+                  "name": "Saint Muredach's Cathedral",
+                  "text": "A Saint Muredach's Cathedral egy istentiszteleti hely Ballinában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.150601,
+                        54.112896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dolmen of the four Maols",
+                  "text": "Dolmenul celor patru Maols este un sit arheologic situat în Ballina. Este un mormânt megalitic proeminent aflat pe un deal local.",
+                  "category": "historical",
+                  "coords": [
+                        -9.165828,
+                        54.107006
+                  ]
+            },
+            {
+                  "name": "The Jackie Clarke Collection",
+                  "text": "Colecția Jackie Clarke este un muzeu din orașul Ballina.",
+                  "category": "museum",
+                  "coords": [
+                        -9.153103,
+                        54.11473
+                  ]
+            },
+            {
+                  "name": "Ardnaree Augustinian Abbey",
+                  "text": "Abația Augustiniană Ardnaree este o mănăstire situată în Ballina.",
+                  "category": "religious",
+                  "coords": [
+                        -9.151623,
+                        54.112503
+                  ]
+            },
+            {
+                  "name": "Rucklagh Fort",
+                  "text": "Fortul Rucklagh este un sit arheologic aflat în orașul Ballina.",
+                  "category": "historical",
+                  "coords": [
+                        -9.197962,
+                        54.120218
+                  ]
+            },
+            {
+                  "name": "Ballina Arts Centre",
+                  "text": "Centrul de Arte Ballina este un centru artistic din orașul Ballina.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.155143,
+                        54.111441
+                  ]
+            },
+            {
+                  "name": "View of boats on the river Moy",
+                  "text": "View of boats on the river Moy este un punct de belvedere situat în Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139639,
+                        54.133483
+                  ]
+            },
+            {
+                  "name": "Knox Gore Monument",
+                  "text": "Monumentul Knox Gore este un memorial situat în Ballina.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141801,
+                        54.132492
+                  ]
+            },
+            {
+                  "name": "The Marshall Doran Collection",
+                  "text": "Colecția Marshall Doran este o galerie situată în orașul Ballina.",
+                  "category": "museum",
+                  "coords": [
+                        -9.145213,
+                        54.133385
+                  ]
+            },
+            {
+                  "name": "Saint Muredach's Cathedral",
+                  "text": "Catedrala Sfântul Muredach este un lăcaș de cult din orașul Ballina.",
+                  "category": "religious",
+                  "coords": [
+                        -9.150601,
+                        54.112896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dolmen of the four Maols",
+                  "text": "The Dolmen of the four Maols is an archaeological site located in Ballina. It is a well-known megalithic tomb positioned on a local hilltop.",
+                  "category": "historical",
+                  "coords": [
+                        -9.165828,
+                        54.107006
+                  ]
+            },
+            {
+                  "name": "The Jackie Clarke Collection",
+                  "text": "The Jackie Clarke Collection is a museum located in the city of Ballina.",
+                  "category": "museum",
+                  "coords": [
+                        -9.153103,
+                        54.11473
+                  ]
+            },
+            {
+                  "name": "Ardnaree Augustinian Abbey",
+                  "text": "Ardnaree Augustinian Abbey is a monastery located in the city of Ballina.",
+                  "category": "religious",
+                  "coords": [
+                        -9.151623,
+                        54.112503
+                  ]
+            },
+            {
+                  "name": "Rucklagh Fort",
+                  "text": "Rucklagh Fort is an archaeological site situated in the city of Ballina.",
+                  "category": "historical",
+                  "coords": [
+                        -9.197962,
+                        54.120218
+                  ]
+            },
+            {
+                  "name": "Ballina Arts Centre",
+                  "text": "Ballina Arts Centre is an arts centre in the city of Ballina.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.155143,
+                        54.111441
+                  ]
+            },
+            {
+                  "name": "View of boats on the river Moy",
+                  "text": "The View of boats on the river Moy is a viewpoint located in Ballina.",
+                  "category": "natural",
+                  "coords": [
+                        -9.139639,
+                        54.133483
+                  ]
+            },
+            {
+                  "name": "Knox Gore Monument",
+                  "text": "Knox Gore Monument is a monument situated in Ballina.",
+                  "category": "historical",
+                  "coords": [
+                        -9.141801,
+                        54.132492
+                  ]
+            },
+            {
+                  "name": "The Marshall Doran Collection",
+                  "text": "The Marshall Doran Collection is a gallery located in Ballina.",
+                  "category": "museum",
+                  "coords": [
+                        -9.145213,
+                        54.133385
+                  ]
+            },
+            {
+                  "name": "Saint Muredach's Cathedral",
+                  "text": "Saint Muredach's Cathedral is a place of worship located in Ballina.",
+                  "category": "religious",
+                  "coords": [
+                        -9.150601,
+                        54.112896
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "ireland",
     coords: [-9.1535, 54.1169],

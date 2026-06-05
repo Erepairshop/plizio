@@ -813,7 +813,304 @@ export const tongaEconomicV2: POI[] = [
     image: "/poi-images/tonga-tonga-power-popua-solar-economic-v2.webp",
   },
   {
-    id: "tonga-nukualofa-waterfront-commercial-economic-v2",
+    id: "tonga-nukualofa-waterfront-commercial-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Palace",
+                  "text": "Die offizielle Residenz des Königs von Tonga am Ufer von Nuku'alofa.",
+                  "category": "castle",
+                  "coords": [
+                        -175.200605,
+                        -21.131395
+                  ]
+            },
+            {
+                  "name": "The Thong Tree",
+                  "text": "Ein markanter Baum und eine lokale Sehenswürdigkeit in Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.204168,
+                        -21.133279
+                  ]
+            },
+            {
+                  "name": "Huge trees",
+                  "text": "Beeindruckende große Bäume in der Küstenzone von Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.196362,
+                        -21.134639
+                  ]
+            },
+            {
+                  "name": "Deep Blue Diving",
+                  "text": "Ein Zentrum für Tauchexpeditionen und Wassersport in Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.184367,
+                        -21.139097
+                  ]
+            },
+            {
+                  "name": "George Art Portraits",
+                  "text": "Ein Kunstzentrum in Nuku'alofa, das lokale Porträtkunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        -175.216884,
+                        -21.154389
+                  ]
+            },
+            {
+                  "name": "Siasi 'o Tonga",
+                  "text": "Eine religiöse Stätte und ein Ort der Andacht in Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201098,
+                        -21.138752
+                  ]
+            },
+            {
+                  "name": "Kathedrale zur Unbefleckten Empfängnis",
+                  "text": "Eine bedeutende katholische Kirche an der Uferpromenade von Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.181745,
+                        -21.140823
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Anthony of Padua",
+                  "text": "Eine markante Basilika und religiöses Wahrzeichen in Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201857,
+                        -21.136834
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Palace",
+                  "text": "Tonga királyának hivatalos rezidenciája Nuku'alofa partján.",
+                  "category": "castle",
+                  "coords": [
+                        -175.200605,
+                        -21.131395
+                  ]
+            },
+            {
+                  "name": "The Thong Tree",
+                  "text": "Jellegzetes fa és helyi nevezetesség Nuku'alofában.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.204168,
+                        -21.133279
+                  ]
+            },
+            {
+                  "name": "Huge trees",
+                  "text": "Lenyűgöző hatalmas fák Nuku'alofa parti övezetében.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.196362,
+                        -21.134639
+                  ]
+            },
+            {
+                  "name": "Deep Blue Diving",
+                  "text": "Búvárexpedíciók és vízi sportok központja Nuku'alofában.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.184367,
+                        -21.139097
+                  ]
+            },
+            {
+                  "name": "George Art Portraits",
+                  "text": "Művészeti központ Nuku'alofában, amely helyi portréművészetet mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        -175.216884,
+                        -21.154389
+                  ]
+            },
+            {
+                  "name": "Siasi 'o Tonga",
+                  "text": "Vallási kegyhely és istentiszteleti hely Nuku'alofában.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201098,
+                        -21.138752
+                  ]
+            },
+            {
+                  "name": "Malia Tupu Imakulata Cathedral",
+                  "text": "Jelentős katolikus templom Nuku'alofa vízparti övezetében.",
+                  "category": "religious",
+                  "coords": [
+                        -175.181745,
+                        -21.140823
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Anthony of Padua",
+                  "text": "Jellegzetes bazilika és vallási jelkép Nuku'alofában.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201857,
+                        -21.136834
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Palace",
+                  "text": "Reședința oficială a regelui Tonga pe malul mării în Nuku'alofa.",
+                  "category": "castle",
+                  "coords": [
+                        -175.200605,
+                        -21.131395
+                  ]
+            },
+            {
+                  "name": "The Thong Tree",
+                  "text": "Un arbore distinctiv și o atracție locală în Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.204168,
+                        -21.133279
+                  ]
+            },
+            {
+                  "name": "Huge trees",
+                  "text": "Arbori uriași impresionanți în zona de coastă din Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.196362,
+                        -21.134639
+                  ]
+            },
+            {
+                  "name": "Deep Blue Diving",
+                  "text": "Un centru pentru expediții de scufundări și sporturi nautice în Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.184367,
+                        -21.139097
+                  ]
+            },
+            {
+                  "name": "George Art Portraits",
+                  "text": "Un centru de artă din Nuku'alofa, care prezintă portrete artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -175.216884,
+                        -21.154389
+                  ]
+            },
+            {
+                  "name": "Siasi 'o Tonga",
+                  "text": "Un lăcaș de cult și loc de rugăciune situat în Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201098,
+                        -21.138752
+                  ]
+            },
+            {
+                  "name": "Malia Tupu Imakulata Cathedral",
+                  "text": "O importantă biserică catolică situată pe faleza din Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.181745,
+                        -21.140823
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Anthony of Padua",
+                  "text": "O bazilică impunătoare și un simbol religios în Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201857,
+                        -21.136834
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Palace",
+                  "text": "The official residence of the King of Tonga located on the Nuku'alofa waterfront.",
+                  "category": "castle",
+                  "coords": [
+                        -175.200605,
+                        -21.131395
+                  ]
+            },
+            {
+                  "name": "The Thong Tree",
+                  "text": "A distinctive tree and local attraction in Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.204168,
+                        -21.133279
+                  ]
+            },
+            {
+                  "name": "Huge trees",
+                  "text": "Impressive huge trees located in the Nuku'alofa waterfront zone.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.196362,
+                        -21.134639
+                  ]
+            },
+            {
+                  "name": "Deep Blue Diving",
+                  "text": "A center for diving expeditions and water sports in Nuku'alofa.",
+                  "category": "landmark",
+                  "coords": [
+                        -175.184367,
+                        -21.139097
+                  ]
+            },
+            {
+                  "name": "George Art Portraits",
+                  "text": "An arts centre in Nuku'alofa showcasing local portrait artistry.",
+                  "category": "cultural",
+                  "coords": [
+                        -175.216884,
+                        -21.154389
+                  ]
+            },
+            {
+                  "name": "Siasi 'o Tonga",
+                  "text": "A religious site and place of worship located in Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201098,
+                        -21.138752
+                  ]
+            },
+            {
+                  "name": "Cathedral of the Immaculate Conception of Mary",
+                  "text": "A significant Catholic church located on the Nuku'alofa waterfront.",
+                  "category": "religious",
+                  "coords": [
+                        -175.181745,
+                        -21.140823
+                  ]
+            },
+            {
+                  "name": "Basilica of St. Anthony of Padua",
+                  "text": "A prominent basilica and religious landmark in Nuku'alofa.",
+                  "category": "religious",
+                  "coords": [
+                        -175.201857,
+                        -21.136834
+                  ]
+            }
+      ]
+},
     parent: "TO",
     type: "city",
     name: { de: "Nuku'alofa Waterfront Zone", hu: "Nuku'alofa parti kereskedelmi negyed", ro: "Zona Comercială Faleză Nuku'alofa", en: "Nuku'alofa Waterfront Commercial Zone" },

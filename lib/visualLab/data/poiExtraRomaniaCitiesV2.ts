@@ -402,6 +402,51 @@ export const romaniaCitiesV2: POI[] = [
                         21.88465,
                         45.289692
                   ]
+            },
+            {
+                  "name": "Muzeul de Locomotive cu Abur Reșița",
+                  "text": "Ein Freilichtmuseum in Reschitza mit einer bedeutenden Sammlung alter Dampflokomotiven.",
+                  "category": "museum",
+                  "coords": [
+                        21.877629,
+                        45.312014
+                  ]
+            },
+            {
+                  "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
+                  "text": "Ein wichtiges kulturelles Zentrum und Theater in Reschitza.",
+                  "category": "cultural",
+                  "coords": [
+                        21.891763,
+                        45.290111
+                  ]
+            },
+            {
+                  "name": "Școala Pittner",
+                  "text": "Ein Museum in einem historischen Schulgebäude in Reschitza.",
+                  "category": "museum",
+                  "coords": [
+                        21.907826,
+                        45.29515
+                  ]
+            },
+            {
+                  "name": "Societatea pentru Cultura Metarsis",
+                  "text": "Ein Verein zur Förderung der Kultur in Reschitza.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895208,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Stema UCMR",
+                  "text": "Ein monumentales Wappen des lokalen Industrieunternehmens in Reschitza.",
+                  "category": "historical",
+                  "coords": [
+                        21.890754,
+                        45.286102
+                  ]
             }
       ],
       "hu": [
@@ -463,6 +508,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         21.88465,
                         45.289692
+                  ]
+            },
+            {
+                  "name": "Muzeul de Locomotive cu Abur Reșița",
+                  "text": "Szabadtéri múzeum Resicabányán, amely régi gőzmozdonyok jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.877629,
+                        45.312014
+                  ]
+            },
+            {
+                  "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
+                  "text": "Fontos kulturális központ és színház Resicabányán.",
+                  "category": "cultural",
+                  "coords": [
+                        21.891763,
+                        45.290111
+                  ]
+            },
+            {
+                  "name": "Școala Pittner",
+                  "text": "Múzeum egy történelmi iskolaépületben Resicabányán.",
+                  "category": "museum",
+                  "coords": [
+                        21.907826,
+                        45.29515
+                  ]
+            },
+            {
+                  "name": "Societatea pentru Cultura Metarsis",
+                  "text": "Kulturális egyesület Resicabánya városában.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895208,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Stema UCMR",
+                  "text": "A helyi iparvállalat monumentális címere Resicabányán.",
+                  "category": "historical",
+                  "coords": [
+                        21.890754,
+                        45.286102
                   ]
             }
       ],
@@ -526,6 +616,51 @@ export const romaniaCitiesV2: POI[] = [
                         21.88465,
                         45.289692
                   ]
+            },
+            {
+                  "name": "Muzeul de Locomotive cu Abur Reșița",
+                  "text": "Un muzeu în aer liber din Reșița cu o colecție impresionantă de locomotive cu abur.",
+                  "category": "museum",
+                  "coords": [
+                        21.877629,
+                        45.312014
+                  ]
+            },
+            {
+                  "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
+                  "text": "Un centru cultural important și teatru din Reșița.",
+                  "category": "cultural",
+                  "coords": [
+                        21.891763,
+                        45.290111
+                  ]
+            },
+            {
+                  "name": "Școala Pittner",
+                  "text": "Un muzeu situat într-o clădire istorică de școală din Reșița.",
+                  "category": "museum",
+                  "coords": [
+                        21.907826,
+                        45.29515
+                  ]
+            },
+            {
+                  "name": "Societatea pentru Cultura Metarsis",
+                  "text": "O asociație pentru promovarea culturii în Reșița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895208,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Stema UCMR",
+                  "text": "O stemă monumentală a companiei industriale locale din Reșița.",
+                  "category": "historical",
+                  "coords": [
+                        21.890754,
+                        45.286102
+                  ]
             }
       ],
       "en": [
@@ -587,6 +722,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         21.88465,
                         45.289692
+                  ]
+            },
+            {
+                  "name": "Reșița Steam Locomotive Museum",
+                  "text": "An open-air museum in Reșița featuring a significant collection of old steam locomotives.",
+                  "category": "museum",
+                  "coords": [
+                        21.877629,
+                        45.312014
+                  ]
+            },
+            {
+                  "name": "Teatrul de Stat și Casa de Cultură a Sindicatelor",
+                  "text": "An important cultural center and theatre in Reșița.",
+                  "category": "cultural",
+                  "coords": [
+                        21.891763,
+                        45.290111
+                  ]
+            },
+            {
+                  "name": "Școala Pittner",
+                  "text": "A museum located in a historic school building in Reșița.",
+                  "category": "museum",
+                  "coords": [
+                        21.907826,
+                        45.29515
+                  ]
+            },
+            {
+                  "name": "Societatea pentru Cultura Metarsis",
+                  "text": "A society for the promotion of culture in Reșița.",
+                  "category": "landmark",
+                  "coords": [
+                        21.895208,
+                        45.290909
+                  ]
+            },
+            {
+                  "name": "Stema UCMR",
+                  "text": "A monumental crest of the local industrial company in Reșița.",
+                  "category": "historical",
+                  "coords": [
+                        21.890754,
+                        45.286102
                   ]
             }
       ]
@@ -911,6 +1091,24 @@ export const romaniaCitiesV2: POI[] = [
                         23.247123,
                         45.000627
                   ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Ein Museum in Târgu Jiu, das lokale und rumänische Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Târgu Jiu",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung von Târgu Jiu.",
+                  "category": "historical",
+                  "coords": [
+                        23.271446,
+                        45.042618
+                  ]
             }
       ],
       "hu": [
@@ -1011,6 +1209,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.247123,
                         45.000627
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Târgu Jiu-i múzeum, amely helyi és román művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Târgu Jiu",
+                  "text": "Târgu Jiu város önkormányzatának adminisztratív épülete.",
+                  "category": "historical",
+                  "coords": [
+                        23.271446,
+                        45.042618
                   ]
             }
       ],
@@ -1113,6 +1329,24 @@ export const romaniaCitiesV2: POI[] = [
                         23.247123,
                         45.000627
                   ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Un muzeu în Târgu Jiu care expune artă locală și românească.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Târgu Jiu",
+                  "text": "Clădirea administrativă a primăriei municipiului Târgu Jiu.",
+                  "category": "historical",
+                  "coords": [
+                        23.271446,
+                        45.042618
+                  ]
             }
       ],
       "en": [
@@ -1213,6 +1447,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.247123,
                         45.000627
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "A museum in Târgu Jiu exhibiting local and Romanian art.",
+                  "category": "museum",
+                  "coords": [
+                        23.269096,
+                        45.042632
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Târgu Jiu",
+                  "text": "The administrative building of the Târgu Jiu city hall.",
+                  "category": "historical",
+                  "coords": [
+                        23.271446,
+                        45.042618
                   ]
             }
       ]
@@ -2333,6 +2585,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.445919,
                         45.698996
                   ]
+            },
+            {
+                  "name": "Johnannes-Products Codlea (1960)",
+                  "text": "Ein Denkmal in Zeiden, das an die Industriegeschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        25.452349,
+                        45.694357
+                  ]
             }
       ],
       "hu": [
@@ -2374,6 +2635,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.445919,
                         45.698996
+                  ]
+            },
+            {
+                  "name": "Johnannes-Products Codlea (1960)",
+                  "text": "Feketehalmi emlékmű, amely az ipari múltra emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        25.452349,
+                        45.694357
                   ]
             }
       ],
@@ -2417,6 +2687,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.445919,
                         45.698996
                   ]
+            },
+            {
+                  "name": "Johnannes-Products Codlea (1960)",
+                  "text": "Un monument în Codlea care amintește de istoria industrială.",
+                  "category": "historical",
+                  "coords": [
+                        25.452349,
+                        45.694357
+                  ]
             }
       ],
       "en": [
@@ -2458,6 +2737,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.445919,
                         45.698996
+                  ]
+            },
+            {
+                  "name": "Johnannes-Products Codlea (1960)",
+                  "text": "A monument in Codlea commemorating industrial history.",
+                  "category": "historical",
+                  "coords": [
+                        25.452349,
+                        45.694357
                   ]
             }
       ]
@@ -2518,6 +2806,15 @@ export const romaniaCitiesV2: POI[] = [
                         23.23642,
                         45.321398
                   ]
+            },
+            {
+                  "name": "Monumentul Lupeni ’29",
+                  "text": "Ein Denkmal in Lupeni zur Erinnerung an den Bergarbeiterstreik von 1929.",
+                  "category": "historical",
+                  "coords": [
+                        23.219013,
+                        45.355359
+                  ]
             }
       ],
       "hu": [
@@ -2529,6 +2826,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.23642,
                         45.321398
+                  ]
+            },
+            {
+                  "name": "Monumentul Lupeni ’29",
+                  "text": "Emlékmű Lupényban az 1929-es bányászsztrájk emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        23.219013,
+                        45.355359
                   ]
             }
       ],
@@ -2542,6 +2848,15 @@ export const romaniaCitiesV2: POI[] = [
                         23.23642,
                         45.321398
                   ]
+            },
+            {
+                  "name": "Monumentul Lupeni ’29",
+                  "text": "Un monument în Lupeni care comemorează greva minerilor din 1929.",
+                  "category": "historical",
+                  "coords": [
+                        23.219013,
+                        45.355359
+                  ]
             }
       ],
       "en": [
@@ -2553,6 +2868,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         23.23642,
                         45.321398
+                  ]
+            },
+            {
+                  "name": "Monumentul Lupeni ’29",
+                  "text": "A monument in Lupeni commemorating the miners' strike of 1929.",
+                  "category": "historical",
+                  "coords": [
+                        23.219013,
+                        45.355359
                   ]
             }
       ]
@@ -2623,6 +2947,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.35678,
                         46.922727
                   ]
+            },
+            {
+                  "name": "Colecția Muzeală a Mănăstirii \"Sfântul Ilie\"",
+                  "text": "Eine Sammlung religiöser und historischer Objekte im Elias-Kloster in Toplița.",
+                  "category": "museum",
+                  "coords": [
+                        25.342929,
+                        46.929332
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie",
+                  "text": "Ein Museum, das die traditionelle Volkskultur und das Handwerk der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        25.354782,
+                        46.925185
+                  ]
+            },
+            {
+                  "name": "Gospodărie Țăranească Muzeu",
+                  "text": "Ein Museum, das die lokale Geschichte und Entwicklung der Stadt Toplița dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.384135,
+                        46.897233
+                  ]
+            },
+            {
+                  "name": "Cascada Mezotermală Toplița",
+                  "text": "Ein seltener Thermalwasserfall, der aufgrund seiner warmen Wassertemperatur einzigartig in Europa ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.350831,
+                        46.917657
+                  ]
+            },
+            {
+                  "name": "Izvor apa termala",
+                  "text": "Eine natürliche Quelle mit Thermalwasser, die für ihre heilenden Eigenschaften bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.346567,
+                        46.92432
+                  ]
             }
       ],
       "hu": [
@@ -2644,6 +3013,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.35678,
                         46.922727
+                  ]
+            },
+            {
+                  "name": "Colecția Muzeală a Mănăstirii \"Sfântul Ilie\"",
+                  "text": "Vallási és történelmi tárgyak gyűjteménye a toplicai Illés-kolostorban.",
+                  "category": "museum",
+                  "coords": [
+                        25.342929,
+                        46.929332
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie",
+                  "text": "A régió hagyományos népi kultúráját és mesterségeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.354782,
+                        46.925185
+                  ]
+            },
+            {
+                  "name": "Gospodărie Țăranească Muzeu",
+                  "text": "Toplica városának helytörténetét és fejlődését dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.384135,
+                        46.897233
+                  ]
+            },
+            {
+                  "name": "Maroshévizi Termál Vízesés",
+                  "text": "Ritka hévízi vízesés, amely meleg vízhőmérséklete miatt egyedülálló Európában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.350831,
+                        46.917657
+                  ]
+            },
+            {
+                  "name": "Izvor apa termala",
+                  "text": "Gyógyhatásairól ismert természetes hévízforrás.",
+                  "category": "landmark",
+                  "coords": [
+                        25.346567,
+                        46.92432
                   ]
             }
       ],
@@ -2667,6 +3081,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.35678,
                         46.922727
                   ]
+            },
+            {
+                  "name": "Colecția Muzeală a Mănăstirii \"Sfântul Ilie\"",
+                  "text": "O colecție de obiecte religioase și istorice în cadrul Mănăstirii Sfântul Ilie din Toplița.",
+                  "category": "museum",
+                  "coords": [
+                        25.342929,
+                        46.929332
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie",
+                  "text": "Un muzeu care expune cultura populară tradițională și meșteșugurile din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        25.354782,
+                        46.925185
+                  ]
+            },
+            {
+                  "name": "Gospodărie Țăranească Muzeu",
+                  "text": "Un muzeu care documentează istoria locală și dezvoltarea orașului Toplița.",
+                  "category": "museum",
+                  "coords": [
+                        25.384135,
+                        46.897233
+                  ]
+            },
+            {
+                  "name": "Cascada Mezotermală Toplița",
+                  "text": "O cascădă mezotermală rară, unică în Europa datorită temperaturii ridicate a apei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.350831,
+                        46.917657
+                  ]
+            },
+            {
+                  "name": "Izvor apa termala",
+                  "text": "Un izvor natural cu apă termală, cunoscut pentru proprietățile sale curative.",
+                  "category": "landmark",
+                  "coords": [
+                        25.346567,
+                        46.92432
+                  ]
             }
       ],
       "en": [
@@ -2688,6 +3147,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.35678,
                         46.922727
+                  ]
+            },
+            {
+                  "name": "\"St. Elias\" Monastery Museum Collection",
+                  "text": "A collection of religious and historical objects within the St. Elias Monastery in Toplița.",
+                  "category": "museum",
+                  "coords": [
+                        25.342929,
+                        46.929332
+                  ]
+            },
+            {
+                  "name": "Ethnography Museum",
+                  "text": "A museum showcasing the traditional folk culture and crafts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        25.354782,
+                        46.925185
+                  ]
+            },
+            {
+                  "name": "Local Museum",
+                  "text": "A museum documenting the local history and development of the town of Toplița.",
+                  "category": "museum",
+                  "coords": [
+                        25.384135,
+                        46.897233
+                  ]
+            },
+            {
+                  "name": "Cascada Mezotermală Toplița",
+                  "text": "A rare thermal waterfall, unique in Europe due to its warm water temperature.",
+                  "category": "landmark",
+                  "coords": [
+                        25.350831,
+                        46.917657
+                  ]
+            },
+            {
+                  "name": "Izvor apa termala",
+                  "text": "A natural thermal water spring known for its healing properties.",
+                  "category": "landmark",
+                  "coords": [
+                        25.346567,
+                        46.92432
                   ]
             }
       ]
@@ -2758,6 +3262,24 @@ export const romaniaCitiesV2: POI[] = [
                         28.6,
                         44.246389
                   ]
+            },
+            {
+                  "name": "Castrum Ovidiu",
+                  "text": "Archäologische Überreste einer antiken römischen Befestigung in Ovidiu.",
+                  "category": "historical",
+                  "coords": [
+                        28.577675,
+                        44.246393
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Ein kleiner Tierpark für Besucher in Ovidiu.",
+                  "category": "recreational",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
             }
       ],
       "hu": [
@@ -2779,6 +3301,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.6,
                         44.246389
+                  ]
+            },
+            {
+                  "name": "Castrum Ovidiu",
+                  "text": "Egy ókori római erődítmény régészeti maradványai Ovidiuban.",
+                  "category": "historical",
+                  "coords": [
+                        28.577675,
+                        44.246393
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Egy kis állatkert a látogatók számára Ovidiuban.",
+                  "category": "recreational",
+                  "coords": [
+                        28.582728,
+                        44.250771
                   ]
             }
       ],
@@ -2802,6 +3342,24 @@ export const romaniaCitiesV2: POI[] = [
                         28.6,
                         44.246389
                   ]
+            },
+            {
+                  "name": "Castrum Ovidiu",
+                  "text": "Vestigii arheologice ale unei fortificații romane antice în Ovidiu.",
+                  "category": "historical",
+                  "coords": [
+                        28.577675,
+                        44.246393
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "Un mic parc zoologic pentru vizitatori în Ovidiu.",
+                  "category": "recreational",
+                  "coords": [
+                        28.582728,
+                        44.250771
+                  ]
             }
       ],
       "en": [
@@ -2823,6 +3381,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.6,
                         44.246389
+                  ]
+            },
+            {
+                  "name": "Castrum Ovidiu",
+                  "text": "Archaeological remains of an ancient Roman fortification in Ovidiu.",
+                  "category": "historical",
+                  "coords": [
+                        28.577675,
+                        44.246393
+                  ]
+            },
+            {
+                  "name": "Mini Zoo",
+                  "text": "A small zoo for visitors in Ovidiu.",
+                  "category": "recreational",
+                  "coords": [
+                        28.582728,
+                        44.250771
                   ]
             }
       ]
@@ -3102,6 +3678,60 @@ export const romaniaCitiesV2: POI[] = [
                         28.607926,
                         44.050383
                   ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "Ein Sommertheater in Techirghiol, benannt nach dem Schauspieler Jean Constantin.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Ein Strandbereich am Ufer des Techirghiol-Sees.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Ein lokales Kulturzentrum für Kunst und Bildung in Techirghiol.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "Ein Denkmal in Techirghiol, das die legendäre Figur Techir darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "Ein modernes Unterhaltungszentrum mit Virtual-Reality-Erlebnissen.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Ein Veranstaltungsort für Aufführungen unter freiem Himmel in Techirghiol.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
+                  ]
             }
       ],
       "hu": [
@@ -3142,6 +3772,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.607926,
                         44.050383
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "Techirghiol nyári színháza, Jean Constantin színészről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "Strandterület a Techirghiol-tó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Helyi művészeti és oktatási kulturális központ Techirghiolban.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "Techirghiol emlékműve, amely a legendás Techir alakját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "Modern szórakoztató központ virtuális valóság élményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Szabadtéri előadások helyszíne Techirghiolban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
                   ]
             }
       ],
@@ -3184,6 +3868,60 @@ export const romaniaCitiesV2: POI[] = [
                         28.607926,
                         44.050383
                   ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "Teatrul de vară din Techirghiol, numit după actorul Jean Constantin.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Sincai",
+                  "text": "O zonă de plajă pe malul lacului Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "Un centru cultural local pentru artă și educație în Techirghiol.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "Un monument în Techirghiol care reprezintă figura legendară a lui Techir.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "Un centru modern de divertisment cu experiențe de realitate virtuală.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Un spațiu pentru spectacole în aer liber în Techirghiol.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
+                  ]
             }
       ],
       "en": [
@@ -3224,6 +3962,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         28.607926,
                         44.050383
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară Jean Constantin",
+                  "text": "A summer theatre in Techirghiol named after the actor Jean Constantin.",
+                  "category": "cultural",
+                  "coords": [
+                        28.603112,
+                        44.055144
+                  ]
+            },
+            {
+                  "name": "Plaja Șincai",
+                  "text": "A beach area on the shores of Lake Techirghiol.",
+                  "category": "recreational",
+                  "coords": [
+                        28.621084,
+                        44.057625
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură",
+                  "text": "A local cultural centre for arts and education in Techirghiol.",
+                  "category": "cultural",
+                  "coords": [
+                        28.601491,
+                        44.051351
+                  ]
+            },
+            {
+                  "name": "Statuia lui Techir",
+                  "text": "A monument in Techirghiol representing the legendary figure of Techir.",
+                  "category": "historical",
+                  "coords": [
+                        28.602275,
+                        44.053081
+                  ]
+            },
+            {
+                  "name": "Cinema 9D VR & Games",
+                  "text": "A modern entertainment centre featuring virtual reality experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        28.636404,
+                        44.063226
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "A venue for open-air performances in Techirghiol.",
+                  "category": "landmark",
+                  "coords": [
+                        28.635995,
+                        44.067279
                   ]
             }
       ]
@@ -3284,6 +4076,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.804346,
                         46.704116
                   ]
+            },
+            {
+                  "name": "Urmele Cetății Vársarka",
+                  "text": "Die Ruinen einer alten Festung in Bălan.",
+                  "category": "historical",
+                  "coords": [
+                        25.794317,
+                        46.628707
+                  ]
             }
       ],
       "hu": [
@@ -3295,6 +4096,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.804346,
                         46.704116
+                  ]
+            },
+            {
+                  "name": "Vársarka romok",
+                  "text": "Egy régi erődítmény romjai Balánbánya területén.",
+                  "category": "historical",
+                  "coords": [
+                        25.794317,
+                        46.628707
                   ]
             }
       ],
@@ -3308,6 +4118,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.804346,
                         46.704116
                   ]
+            },
+            {
+                  "name": "Urmele Cetății Vársarka",
+                  "text": "Ruinele unei vechi cetăți în Bălan.",
+                  "category": "historical",
+                  "coords": [
+                        25.794317,
+                        46.628707
+                  ]
             }
       ],
       "en": [
@@ -3319,6 +4138,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.804346,
                         46.704116
+                  ]
+            },
+            {
+                  "name": "Urmele Cetății Vársarka",
+                  "text": "The ruins of an old fortress in Bălan.",
+                  "category": "historical",
+                  "coords": [
+                        25.794317,
+                        46.628707
                   ]
             }
       ]
@@ -3409,6 +4237,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.50188,
                         45.647189
                   ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Eine orthodoxe Kirche in Ghimbav, die durch ihre Architektur und byzantinische Malerei besticht.",
+                  "category": "religious",
+                  "coords": [
+                        25.506977,
+                        45.660894
+                  ]
             }
       ],
       "hu": [
@@ -3450,6 +4287,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.50188,
                         45.647189
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Vidombáki ortodox templom, amely építészetével és bizánci festményeivel tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        25.506977,
+                        45.660894
                   ]
             }
       ],
@@ -3493,6 +4339,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.50188,
                         45.647189
                   ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "O biserică ortodoxă din Ghimbav, remarcabilă prin arhitectură și pictura bizantină.",
+                  "category": "religious",
+                  "coords": [
+                        25.506977,
+                        45.660894
+                  ]
             }
       ],
       "en": [
@@ -3534,6 +4389,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.50188,
                         45.647189
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "An Orthodox church in Ghimbav, notable for its architecture and Byzantine paintings.",
+                  "category": "religious",
+                  "coords": [
+                        25.506977,
+                        45.660894
                   ]
             }
       ]
@@ -3614,6 +4478,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.040085,
                         45.191753
                   ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nicolae Iorga\"",
+                  "text": "Gedenkmuseum im ehemaligen Wohnhaus des Historikers Nicolae Iorga.",
+                  "category": "museum",
+                  "coords": [
+                        26.040309,
+                        45.18598
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Nicolae Tonitza\"",
+                  "text": "Ein Gedenkhaus, das dem Leben des Malers Nicolae Tonitza gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
+                  ]
+            },
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "Ein historisches Schlossgebäude in der Stadt Vălenii de Munte.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "Ein historisches Denkmal einer alten Wassermühle in Vălenii de Munte.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "Ein traditionelles religiöses Wegkreuz in Vălenii de Munte.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă",
+                  "text": "Eine orthodoxe Klosterkirche, bekannt als Kloster Mariä Entschlafen.",
+                  "category": "religious",
+                  "coords": [
+                        26.040053,
+                        45.187033
+                  ]
             }
       ],
       "hu": [
@@ -3645,6 +4563,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040085,
                         45.191753
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nicolae Iorga\"",
+                  "text": "Emlékmúzeum Nicolae Iorga történész egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        26.040309,
+                        45.18598
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Nicolae Tonitza\"",
+                  "text": "Nicolae Tonitza festő életének szentelt emlékház.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
+                  ]
+            },
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "Egy történelmi kastélyépület Vălenii de Munte városában.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "Egy régi vízimalom történelmi emlékműve Vălenii de Munte városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "Egy hagyományos vallási út menti kereszt Vălenii de Munte városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă",
+                  "text": "Ortodox kolostortemplom, ismertebb nevén az Adormirea Maicii Domnului kolostor.",
+                  "category": "religious",
+                  "coords": [
+                        26.040053,
+                        45.187033
                   ]
             }
       ],
@@ -3678,6 +4650,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.040085,
                         45.191753
                   ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nicolae Iorga\"",
+                  "text": "Muzeu memorial în fosta locuință a istoricului Nicolae Iorga.",
+                  "category": "museum",
+                  "coords": [
+                        26.040309,
+                        45.18598
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Nicolae Tonitza\"",
+                  "text": "O casă memorială dedicat vieții pictorului Nicolae Tonitza.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
+                  ]
+            },
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "O clădire istorică de tip castel în orașul Vălenii de Munte.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "Un monument istoric al unei vechi mori de apă în Vălenii de Munte.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "O troiță religioasă tradițională în Vălenii de Munte.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă",
+                  "text": "O biserică mănăstirească ortodoxă, cunoscută drept Mănăstirea Adormirea Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        26.040053,
+                        45.187033
+                  ]
             }
       ],
       "en": [
@@ -3709,6 +4735,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.040085,
                         45.191753
+                  ]
+            },
+            {
+                  "name": "\"Nicolae Iorga\" Memorial Museum",
+                  "text": "Memorial museum in the former residence of historian Nicolae Iorga.",
+                  "category": "museum",
+                  "coords": [
+                        26.040309,
+                        45.18598
+                  ]
+            },
+            {
+                  "name": "\"Nicolae Tonitza\" Memorial House",
+                  "text": "A memorial house dedicated to the life of painter Nicolae Tonitza.",
+                  "category": "museum",
+                  "coords": [
+                        26.032266,
+                        45.191023
+                  ]
+            },
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "A historical castle-style building in the town of Vălenii de Munte.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "A historical monument of an old watermill in Vălenii de Munte.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "A traditional religious wayside cross in Vălenii de Munte.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă",
+                  "text": "An Orthodox monastery church, known as the Assumption of the Virgin Mary Monastery.",
+                  "category": "religious",
+                  "coords": [
+                        26.040053,
+                        45.187033
                   ]
             }
       ]
@@ -3864,6 +4944,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.732761,
                         45.134384
                   ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Ein Kulturzentrum in Câmpina, das Veranstaltungen und Freizeitaktivitäten für Jugendliche bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Bogdan Petriceicu Hașdeu\"",
+                  "text": "Ein schlossartiges Gebäude, das der Gelehrte Bogdan Petriceicu Hasdeu zum Gedenken an seine Tochter errichtete.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135664
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Ein Museum einer Kirchengemeinde in Câmpina mit religiöser Kunst und Dokumenten.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geo Bogza",
+                  "text": "Ein Kulturzentrum in Câmpina, das nach dem Schriftsteller Geo Bogza benannt ist und künstlerische Aktivitäten fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Câmpina",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung der Gemeinde Câmpina.",
+                  "category": "historical",
+                  "coords": [
+                        25.73059,
+                        45.1247
+                  ]
             }
       ],
       "hu": [
@@ -3875,6 +5000,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.732761,
                         45.134384
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Kulturális központ Câmpinában, amely rendezvényeket és szabadidős tevékenységeket kínál fiataloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Bogdan Petriceicu Hașdeu\"",
+                  "text": "Kastélyszerű épület, amelyet Bogdan Petriceicu Hasdeu tudós emelt lánya emlékére.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135664
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Câmpinai egyházközségi múzeum vallási műtárgyakkal és dokumentumokkal.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geo Bogza",
+                  "text": "Geo Bogza íróról elnevezett kulturális központ Câmpinában, amely művészeti tevékenységeket támogat.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Câmpina",
+                  "text": "Câmpina önkormányzatának közigazgatási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        25.73059,
+                        45.1247
                   ]
             }
       ],
@@ -3888,6 +5058,51 @@ export const romaniaCitiesV2: POI[] = [
                         25.732761,
                         45.134384
                   ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Un centru cultural din Câmpina care oferă evenimente și activități recreative pentru tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Bogdan Petriceicu Hașdeu\"",
+                  "text": "O clădire sub formă de castel, ridicată de savantul Bogdan Petriceicu Hasdeu în memoria fiicei sale.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135664
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Un muzeu aparținând unei parohii din Câmpina, cu artă religioasă și documente.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geo Bogza",
+                  "text": "Un centru cultural în Câmpina, numit după scriitorul Geo Bogza, care promovează activități artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Câmpina",
+                  "text": "Clădirea administrativă a primăriei municipiului Câmpina.",
+                  "category": "historical",
+                  "coords": [
+                        25.73059,
+                        45.1247
+                  ]
             }
       ],
       "en": [
@@ -3899,6 +5114,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.732761,
                         45.134384
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "A cultural center in Câmpina offering events and recreational activities for youth.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "\"Bogdan Petriceicu Hasdeu\" Museum",
+                  "text": "A castle-like building erected by the scholar Bogdan Petriceicu Hasdeu in memory of his daughter.",
+                  "category": "museum",
+                  "coords": [
+                        25.727293,
+                        45.135664
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "A museum belonging to a parish in Câmpina, featuring religious art and documents.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură Geo Bogza",
+                  "text": "A cultural center in Câmpina named after the writer Geo Bogza, promoting artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        25.730309,
+                        45.129135
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului Câmpina",
+                  "text": "The administrative building of the Câmpina municipality town hall.",
+                  "category": "historical",
+                  "coords": [
+                        25.73059,
+                        45.1247
                   ]
             }
       ]
@@ -3959,6 +5219,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.849427,
                         45.033406
                   ]
+            },
+            {
+                  "name": "Eroilor",
+                  "text": "Ein Denkmal zu Ehren der Helden in der Stadt Băicoi.",
+                  "category": "historical",
+                  "coords": [
+                        25.852461,
+                        45.032997
+                  ]
             }
       ],
       "hu": [
@@ -3970,6 +5239,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.849427,
                         45.033406
+                  ]
+            },
+            {
+                  "name": "Eroilor",
+                  "text": "Hősök tiszteletére állított emlékmű Băicoi városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.852461,
+                        45.032997
                   ]
             }
       ],
@@ -3983,6 +5261,15 @@ export const romaniaCitiesV2: POI[] = [
                         25.849427,
                         45.033406
                   ]
+            },
+            {
+                  "name": "Eroilor",
+                  "text": "Un monument ridicat în onoarea eroilor în orașul Băicoi.",
+                  "category": "historical",
+                  "coords": [
+                        25.852461,
+                        45.032997
+                  ]
             }
       ],
       "en": [
@@ -3994,6 +5281,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.849427,
                         45.033406
+                  ]
+            },
+            {
+                  "name": "Eroilor",
+                  "text": "A monument honoring the heroes in the town of Băicoi.",
+                  "category": "historical",
+                  "coords": [
+                        25.852461,
+                        45.032997
                   ]
             }
       ]
@@ -4300,6 +5596,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.196933,
                         44.962797
                   ]
+            },
+            {
+                  "name": "Muzeul Foisorul Bellu Urlați",
+                  "text": "Das Foisorul-Bellu-Museum, Teil des historischen Bellu-Anwesens in Urlați.",
+                  "category": "museum",
+                  "coords": [
+                        26.232806,
+                        45.000953
+                  ]
+            },
+            {
+                  "name": "Conacul Nucu",
+                  "text": "Ein historisches Herrenhaus in der Weinregion von Urlați.",
+                  "category": "historical",
+                  "coords": [
+                        26.230097,
+                        45.006847
+                  ]
             }
       ],
       "hu": [
@@ -4331,6 +5645,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.196933,
                         44.962797
+                  ]
+            },
+            {
+                  "name": "Muzeul Foisorul Bellu Urlați",
+                  "text": "A Foisorul Bellu múzeum, az urlati-i Bellu-birtok része.",
+                  "category": "museum",
+                  "coords": [
+                        26.232806,
+                        45.000953
+                  ]
+            },
+            {
+                  "name": "Conacul Nucu",
+                  "text": "Egy történelmi kúria Urlați borvidékén.",
+                  "category": "historical",
+                  "coords": [
+                        26.230097,
+                        45.006847
                   ]
             }
       ],
@@ -4364,6 +5696,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.196933,
                         44.962797
                   ]
+            },
+            {
+                  "name": "Muzeul Foisorul Bellu Urlați",
+                  "text": "Muzeul Foișorul Bellu, parte a domeniului istoric Bellu din Urlați.",
+                  "category": "museum",
+                  "coords": [
+                        26.232806,
+                        45.000953
+                  ]
+            },
+            {
+                  "name": "Conacul Nucu",
+                  "text": "Un conac istoric în regiunea viticolă Urlați.",
+                  "category": "historical",
+                  "coords": [
+                        26.230097,
+                        45.006847
+                  ]
             }
       ],
       "en": [
@@ -4395,6 +5745,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.196933,
                         44.962797
+                  ]
+            },
+            {
+                  "name": "Muzeul Foisorul Bellu Urlați",
+                  "text": "The Foisorul Bellu Museum, part of the historical Bellu estate in Urlați.",
+                  "category": "museum",
+                  "coords": [
+                        26.232806,
+                        45.000953
+                  ]
+            },
+            {
+                  "name": "Conacul Nucu",
+                  "text": "A historical manor house in the wine region of Urlați.",
+                  "category": "historical",
+                  "coords": [
+                        26.230097,
+                        45.006847
                   ]
             }
       ]
@@ -4495,6 +5863,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.948476,
                         45.249528
                   ]
+            },
+            {
+                  "name": "Salina Slănic (Unirea)",
+                  "text": "Ein bedeutendes Ausflugsziel im Salzbergwerk von Slănic.",
+                  "category": "landmark",
+                  "coords": [
+                        25.94156,
+                        45.235795
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor din primul război mondial",
+                  "text": "Ein Denkmal in Slănic für die Helden des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        25.937469,
+                        45.232309
+                  ]
             }
       ],
       "hu": [
@@ -4546,6 +5932,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.948476,
                         45.249528
+                  ]
+            },
+            {
+                  "name": "Salina Slănic (Unirea)",
+                  "text": "Jelentős turisztikai látványosság a slănici sóbányában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.94156,
+                        45.235795
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor din primul război mondial",
+                  "text": "Emlékmű Slănic városában az első világháború hőseinek emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        25.937469,
+                        45.232309
                   ]
             }
       ],
@@ -4599,6 +6003,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.948476,
                         45.249528
                   ]
+            },
+            {
+                  "name": "Salina Slănic (Unirea)",
+                  "text": "O atracție turistică majoră în salina din Slănic.",
+                  "category": "landmark",
+                  "coords": [
+                        25.94156,
+                        45.235795
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor din primul război mondial",
+                  "text": "Un monument în Slănic dedicat eroilor din Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        25.937469,
+                        45.232309
+                  ]
             }
       ],
       "en": [
@@ -4650,6 +6072,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.948476,
                         45.249528
+                  ]
+            },
+            {
+                  "name": "Salina Slănic (Unirea)",
+                  "text": "A major tourist attraction within the Slănic salt mine.",
+                  "category": "landmark",
+                  "coords": [
+                        25.94156,
+                        45.235795
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor din primul război mondial",
+                  "text": "A monument in Slănic dedicated to the heroes of World War I.",
+                  "category": "historical",
+                  "coords": [
+                        25.937469,
+                        45.232309
                   ]
             }
       ]
@@ -4720,6 +6160,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.554709,
                         45.444446
                   ]
+            },
+            {
+                  "name": "Clăbucetul Taurului",
+                  "text": "Ein Berggipfel im Baiului-Gebirge, der Wanderwege und Ausblicke auf das Prahova-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.589032,
+                        45.462121
+                  ]
+            },
+            {
+                  "name": "Monumentul dedicat Ecaterinei Teodoroiu",
+                  "text": "Ein Denkmal zu Ehren der rumänischen Kriegsheldin Ecaterina Teodoroiu in Azuga.",
+                  "category": "historical",
+                  "coords": [
+                        25.573167,
+                        45.44404
+                  ]
             }
       ],
       "hu": [
@@ -4741,6 +6199,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.554709,
                         45.444446
+                  ]
+            },
+            {
+                  "name": "Clăbucetul Taurului",
+                  "text": "Hegycsúcs a Baj-hegységben, amely túraútvonalakat és kilátást kínál a Prahova-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        25.589032,
+                        45.462121
+                  ]
+            },
+            {
+                  "name": "Monumentul dedicat Ecaterinei Teodoroiu",
+                  "text": "A román háborús hősnő, Ecaterina Teodoroiu tiszteletére emelt emlékmű Azugában.",
+                  "category": "historical",
+                  "coords": [
+                        25.573167,
+                        45.44404
                   ]
             }
       ],
@@ -4764,6 +6240,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.554709,
                         45.444446
                   ]
+            },
+            {
+                  "name": "Clăbucetul Taurului",
+                  "text": "Un vârf montan în Munții Baiului, oferind trasee de drumeție și vederi spre Valea Prahovei.",
+                  "category": "natural",
+                  "coords": [
+                        25.589032,
+                        45.462121
+                  ]
+            },
+            {
+                  "name": "Monumentul dedicat Ecaterinei Teodoroiu",
+                  "text": "Un monument ridicat în onoarea eroinei de război Ecaterina Teodoroiu în Azuga.",
+                  "category": "historical",
+                  "coords": [
+                        25.573167,
+                        45.44404
+                  ]
             }
       ],
       "en": [
@@ -4785,6 +6279,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.554709,
                         45.444446
+                  ]
+            },
+            {
+                  "name": "Clăbucetul Taurului",
+                  "text": "A mountain peak in the Baiului Mountains, offering hiking trails and views of the Prahova Valley.",
+                  "category": "natural",
+                  "coords": [
+                        25.589032,
+                        45.462121
+                  ]
+            },
+            {
+                  "name": "Monumentul dedicat Ecaterinei Teodoroiu",
+                  "text": "A monument honoring the Romanian war heroine Ecaterina Teodoroiu in Azuga.",
+                  "category": "historical",
+                  "coords": [
+                        25.573167,
+                        45.44404
                   ]
             }
       ]
@@ -4885,6 +6397,78 @@ export const romaniaCitiesV2: POI[] = [
                         25.544338,
                         45.421665
                   ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Ein Freizeitpark in Bușteni mit verschiedenen Attraktionen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        25.523389,
+                        45.41992
+                  ]
+            },
+            {
+                  "name": "Centrul de vizitare \"Alexandru Beldie\" al Parcului Natural Bucegi",
+                  "text": "Ein Informationszentrum für den Naturpark Bucegi in Bușteni.",
+                  "category": "museum",
+                  "coords": [
+                        25.526961,
+                        45.408937
+                  ]
+            },
+            {
+                  "name": "Acvariu extern",
+                  "text": "Ein Aquarium in Bușteni, das verschiedene Fischarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        25.528029,
+                        45.40681
+                  ]
+            },
+            {
+                  "name": "Crucea Eroilor de pe Muntele Caraiman",
+                  "text": "Ein monumentales Gedenkkreuz auf dem Gipfel des Caraiman zum Gedenken an die Helden des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        25.497518,
+                        45.416007
+                  ]
+            },
+            {
+                  "name": "Portița Caraimanului",
+                  "text": "Eine natürliche Felsformation und Attraktion in der Nähe des Caraiman-Gipfels.",
+                  "category": "landmark",
+                  "coords": [
+                        25.50243,
+                        45.414024
+                  ]
+            },
+            {
+                  "name": "Cascada Spumoasă",
+                  "text": "Ein malerischer Wasserfall in der Nähe von Bușteni, der für sein schäumendes Wasser bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        25.510438,
+                        45.408373
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Ein Aussichtspunkt in Bușteni, der einen weiten Blick auf das Prahova-Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        25.539405,
+                        45.407121
+                  ]
+            },
+            {
+                  "name": "Monument - Cruce din piatră",
+                  "text": "Ein religiöses Steinkreuz-Denkmal in der Stadt Bușteni.",
+                  "category": "historical",
+                  "coords": [
+                        25.540131,
+                        45.404184
+                  ]
             }
       ],
       "hu": [
@@ -4936,6 +6520,78 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.544338,
                         45.421665
+                  ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Szórakoztató park Bușteniben, különféle látványosságokkal családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        25.523389,
+                        45.41992
+                  ]
+            },
+            {
+                  "name": "Centrul de vizitare \"Alexandru Beldie\" al Parcului Natural Bucegi",
+                  "text": "A Bucegi Natúrpark látogatóközpontja Bușteni városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.526961,
+                        45.408937
+                  ]
+            },
+            {
+                  "name": "Acvariu extern",
+                  "text": "Bușteni akváriuma, amely különféle halfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        25.528029,
+                        45.40681
+                  ]
+            },
+            {
+                  "name": "Crucea Eroilor de pe Muntele Caraiman",
+                  "text": "Monumentális emlékmű a Caraiman-csúcson, amelyet az első világháború hőseinek emlékére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        25.497518,
+                        45.416007
+                  ]
+            },
+            {
+                  "name": "Portița Caraimanului",
+                  "text": "Egy különleges természeti képződmény és látnivaló a Caraiman-csúcs közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        25.50243,
+                        45.414024
+                  ]
+            },
+            {
+                  "name": "Cascada Spumoasă",
+                  "text": "Egy festői vízesés Bușteni közelében, amely habzó vizéről kapta a nevét.",
+                  "category": "landmark",
+                  "coords": [
+                        25.510438,
+                        45.408373
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Kilátópont Bușteni területén, ahonnan panorámás kilátás nyílik a Prahova-völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        25.539405,
+                        45.407121
+                  ]
+            },
+            {
+                  "name": "Monument - Cruce din piatră",
+                  "text": "Egy vallási jellegű kőkereszt-emlékmű Bușteni városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.540131,
+                        45.404184
                   ]
             }
       ],
@@ -4989,6 +6645,78 @@ export const romaniaCitiesV2: POI[] = [
                         25.544338,
                         45.421665
                   ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "Un parc de distracții în Bușteni cu diverse atracții pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        25.523389,
+                        45.41992
+                  ]
+            },
+            {
+                  "name": "Centrul de vizitare \"Alexandru Beldie\" al Parcului Natural Bucegi",
+                  "text": "Un centru de vizitare pentru Parcul Natural Bucegi în Bușteni.",
+                  "category": "museum",
+                  "coords": [
+                        25.526961,
+                        45.408937
+                  ]
+            },
+            {
+                  "name": "Acvariu extern",
+                  "text": "Un acvariu în Bușteni care prezintă diverse specii de pești.",
+                  "category": "recreational",
+                  "coords": [
+                        25.528029,
+                        45.40681
+                  ]
+            },
+            {
+                  "name": "Crucea Eroilor de pe Muntele Caraiman",
+                  "text": "Un monument impresionant situat pe vârful Caraiman, ridicat în memoria eroilor din Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        25.497518,
+                        45.416007
+                  ]
+            },
+            {
+                  "name": "Portița Caraimanului",
+                  "text": "O formațiune stâncoasă naturală și atracție turistică situată în apropierea vârfului Caraiman.",
+                  "category": "landmark",
+                  "coords": [
+                        25.50243,
+                        45.414024
+                  ]
+            },
+            {
+                  "name": "Cascada Spumoasă",
+                  "text": "O cascadă pitorească situată lângă Bușteni, cunoscută pentru apele sale înspumate.",
+                  "category": "landmark",
+                  "coords": [
+                        25.510438,
+                        45.408373
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "Un punct de observație în Bușteni care oferă o vedere panoramică asupra văii Prahovei.",
+                  "category": "natural",
+                  "coords": [
+                        25.539405,
+                        45.407121
+                  ]
+            },
+            {
+                  "name": "Monument - Cruce din piatră",
+                  "text": "Un monument sub formă de cruce din piatră situat în orașul Bușteni.",
+                  "category": "historical",
+                  "coords": [
+                        25.540131,
+                        45.404184
+                  ]
             }
       ],
       "en": [
@@ -5040,6 +6768,78 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.544338,
                         45.421665
+                  ]
+            },
+            {
+                  "name": "Fun Park",
+                  "text": "An amusement park in Bușteni offering various attractions for families.",
+                  "category": "recreational",
+                  "coords": [
+                        25.523389,
+                        45.41992
+                  ]
+            },
+            {
+                  "name": "Centrul de vizitare \"Alexandru Beldie\" al Parcului Natural Bucegi",
+                  "text": "A visitor centre for the Bucegi Natural Park in Bușteni.",
+                  "category": "museum",
+                  "coords": [
+                        25.526961,
+                        45.408937
+                  ]
+            },
+            {
+                  "name": "Acvariu extern",
+                  "text": "An aquarium in Bușteni showcasing various fish species.",
+                  "category": "recreational",
+                  "coords": [
+                        25.528029,
+                        45.40681
+                  ]
+            },
+            {
+                  "name": "Crucea Eroilor de pe Muntele Caraiman",
+                  "text": "A monumental memorial cross on the Caraiman peak, built to honor the heroes of World War I.",
+                  "category": "historical",
+                  "coords": [
+                        25.497518,
+                        45.416007
+                  ]
+            },
+            {
+                  "name": "Portița Caraimanului",
+                  "text": "A natural rock formation and tourist attraction located near the Caraiman peak.",
+                  "category": "landmark",
+                  "coords": [
+                        25.50243,
+                        45.414024
+                  ]
+            },
+            {
+                  "name": "Cascada Spumoasă",
+                  "text": "A picturesque waterfall near Bușteni, known for its foamy white waters.",
+                  "category": "landmark",
+                  "coords": [
+                        25.510438,
+                        45.408373
+                  ]
+            },
+            {
+                  "name": "Belvedere",
+                  "text": "A viewpoint in Bușteni offering panoramic views over the Prahova Valley.",
+                  "category": "natural",
+                  "coords": [
+                        25.539405,
+                        45.407121
+                  ]
+            },
+            {
+                  "name": "Monument - Cruce din piatră",
+                  "text": "A religious stone cross monument located in the town of Bușteni.",
+                  "category": "historical",
+                  "coords": [
+                        25.540131,
+                        45.404184
                   ]
             }
       ]
@@ -5750,6 +7550,33 @@ export const romaniaCitiesV2: POI[] = [
                         25.703022,
                         45.156908
                   ]
+            },
+            {
+                  "name": "Crucea Cornu",
+                  "text": "Ein monumentales Kreuzdenkmal auf einem Hügel in der Gemeinde Cornu.",
+                  "category": "historical",
+                  "coords": [
+                        25.706673,
+                        45.172767
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor din Primul Război Mondial",
+                  "text": "Ein Denkmal in Cornu zu Ehren der im Ersten Weltkrieg gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        25.70231,
+                        45.176878
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Nicolae",
+                  "text": "Eine historische orthodoxe Kirche in der Region Cornu-Breaza.",
+                  "category": "religious",
+                  "coords": [
+                        25.671603,
+                        45.174254
+                  ]
             }
       ],
       "hu": [
@@ -5781,6 +7608,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.703022,
                         45.156908
+                  ]
+            },
+            {
+                  "name": "Crucea Cornu",
+                  "text": "Egy monumentális kereszt-emlékmű egy dombtetőn, Cornu község területén.",
+                  "category": "historical",
+                  "coords": [
+                        25.706673,
+                        45.172767
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor din Primul Război Mondial",
+                  "text": "Emlékmű Cornu községben az első világháborúban elesett katonák tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        25.70231,
+                        45.176878
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Nicolae",
+                  "text": "Egy történelmi ortodox templom Cornu és Breaza térségében.",
+                  "category": "religious",
+                  "coords": [
+                        25.671603,
+                        45.174254
                   ]
             }
       ],
@@ -5814,6 +7668,33 @@ export const romaniaCitiesV2: POI[] = [
                         25.703022,
                         45.156908
                   ]
+            },
+            {
+                  "name": "Crucea Cornu",
+                  "text": "Un monument sub formă de cruce situat pe o colină din comuna Cornu.",
+                  "category": "historical",
+                  "coords": [
+                        25.706673,
+                        45.172767
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor din Primul Război Mondial",
+                  "text": "Un monument în Cornu ridicat în onoarea soldaților căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        25.70231,
+                        45.176878
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Nicolae",
+                  "text": "O biserică ortodoxă istorică situată în zona localităților Cornu și Breaza.",
+                  "category": "religious",
+                  "coords": [
+                        25.671603,
+                        45.174254
+                  ]
             }
       ],
       "en": [
@@ -5845,6 +7726,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.703022,
                         45.156908
+                  ]
+            },
+            {
+                  "name": "Crucea Cornu",
+                  "text": "A monumental cross monument located on a hill in the Cornu commune.",
+                  "category": "historical",
+                  "coords": [
+                        25.706673,
+                        45.172767
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor din Primul Război Mondial",
+                  "text": "A monument in Cornu honoring the soldiers who fell during World War I.",
+                  "category": "historical",
+                  "coords": [
+                        25.70231,
+                        45.176878
+                  ]
+            },
+            {
+                  "name": "Biserica Sf. Nicolae",
+                  "text": "A historic Orthodox church located in the Cornu and Breaza area.",
+                  "category": "religious",
+                  "coords": [
+                        25.671603,
+                        45.174254
                   ]
             }
       ]
@@ -5915,6 +7823,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.764692,
                         45.093945
                   ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Ein kulturelles Veranstaltungszentrum in Bănești.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Ein kleines Pfarreimuseum in Bănești.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
             }
       ],
       "hu": [
@@ -5936,6 +7862,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.764692,
                         45.093945
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Kulturális rendezvényközpont Bănești községben.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Kisméretű plébániai múzeum Bănești községben.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
                   ]
             }
       ],
@@ -5959,6 +7903,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.764692,
                         45.093945
                   ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Un centru cultural pentru tineret în Bănești.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "Un mic muzeu parohial în Bănești.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
+                  ]
             }
       ],
       "en": [
@@ -5980,6 +7942,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.764692,
                         45.093945
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "A youth cultural center in Bănești.",
+                  "category": "cultural",
+                  "coords": [
+                        25.741466,
+                        45.118821
+                  ]
+            },
+            {
+                  "name": "Muzeu Parohial",
+                  "text": "A small parochial museum in Bănești.",
+                  "category": "museum",
+                  "coords": [
+                        25.751924,
+                        45.110264
                   ]
             }
       ]
@@ -6176,10 +8156,86 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-stefesti-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Castrul Roman",
+                  "text": "Die Überreste eines römischen Kastells in der Nähe von Ștefești.",
+                  "category": "historical",
+                  "coords": [
+                        26.072858,
+                        45.256856
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "Ein monumentales Kreuz an einem Aussichtspunkt in Ștefești.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castrul Roman",
+                  "text": "Római castrum maradványai Ștefești közelében.",
+                  "category": "historical",
+                  "coords": [
+                        26.072858,
+                        45.256856
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "Monumentális kereszt egy kilátóponton Ștefești területén.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castrul Roman",
+                  "text": "Vestigiile unui castru roman în apropiere de Ștefești.",
+                  "category": "historical",
+                  "coords": [
+                        26.072858,
+                        45.256856
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "O cruce monumentală situată pe un punct de belvedere în Ștefești.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castra of Drajna de Sus",
+                  "text": "The remains of a Roman castra near Ștefești.",
+                  "category": "historical",
+                  "coords": [
+                        26.072858,
+                        45.256856
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "A monumental cross located at a viewpoint in Ștefești.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            }
+      ]
 }
   },
   {
@@ -6227,10 +8283,194 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-teisani-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "Ein historisches Schloss- oder Herrenhausgebäude in der Gemeinde Teișani.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "Ein religiöses Denkmal in der Gemeinde Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "Ein historisches Denkmal einer alten Wassermühle in Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor",
+                  "text": "Ein Denkmal zu Ehren der lokalen Helden in Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.05653,
+                        45.22492
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "Ein traditionelles religiöses Denkmal in Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "Történelmi kastély vagy kúriaépület Teișani községben.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "Egy vallási emlékmű Teișani községben.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "Egy régi vízimalom történelmi emlékműve Teișani területén.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor",
+                  "text": "A helyi hősök tiszteletére emelt emlékmű Teișani településen.",
+                  "category": "historical",
+                  "coords": [
+                        26.05653,
+                        45.22492
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "Egy hagyományos vallási emlékkereszt Teișani községben.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "O clădire istorică de tip castel sau conac situată în comuna Teișani.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "Un monument religios situat în localitatea Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "Un monument istoric ce reprezintă o veche moară de apă în Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor",
+                  "text": "Un monument ridicat în cinstea eroilor locali din Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.05653,
+                        45.22492
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "O troiță tradițională situată în localitatea Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castelul Filipescu",
+                  "text": "A historic castle or manor building located in the Teișani commune.",
+                  "category": "castle",
+                  "coords": [
+                        26.049234,
+                        45.221708
+                  ]
+            },
+            {
+                  "name": "Crucea Piscul Domnului",
+                  "text": "A religious monument located in the town of Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.059263,
+                        45.237038
+                  ]
+            },
+            {
+                  "name": "Moara de apă Warthiadi",
+                  "text": "A historical monument of an old water mill in Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.048919,
+                        45.216214
+                  ]
+            },
+            {
+                  "name": "Monumentul eroilor",
+                  "text": "A monument dedicated to the local heroes in Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.05653,
+                        45.22492
+                  ]
+            },
+            {
+                  "name": "Troiță",
+                  "text": "A traditional wayside cross located in the town of Teișani.",
+                  "category": "historical",
+                  "coords": [
+                        26.055079,
+                        45.223774
+                  ]
+            }
+      ]
 }
   },
   {
@@ -6525,6 +8765,33 @@ export const romaniaCitiesV2: POI[] = [
                         25.789005,
                         44.98216
                   ]
+            },
+            {
+                  "name": "Capela romano-catolică Mavros-Cantacuzino",
+                  "text": "Eine private Grabkapelle in Filipeștii de Pădure, die als historisches Denkmal gilt.",
+                  "category": "historical",
+                  "coords": [
+                        25.780791,
+                        45.016379
+                  ]
+            },
+            {
+                  "name": "Conacul Mavros-Cantacuzino",
+                  "text": "Ein historisches Herrenhaus in Filipeștii de Pădure, das einst dem Adel gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        25.780188,
+                        45.017558
+                  ]
+            },
+            {
+                  "name": "Turn de apă",
+                  "text": "Die Überreste eines alten Wasserturms in der Gemeinde Filipeștii de Pădure.",
+                  "category": "historical",
+                  "coords": [
+                        25.779648,
+                        45.01848
+                  ]
             }
       ],
       "hu": [
@@ -6536,6 +8803,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.789005,
                         44.98216
+                  ]
+            },
+            {
+                  "name": "Capela romano-catolică Mavros-Cantacuzino",
+                  "text": "Egy magánkápolna Filipeștii de Pădure településen, amely történelmi műemlék.",
+                  "category": "historical",
+                  "coords": [
+                        25.780791,
+                        45.016379
+                  ]
+            },
+            {
+                  "name": "Conacul Mavros-Cantacuzino",
+                  "text": "Egy történelmi udvarház Filipeștii de Pădure településen, amely egykor nemesi családé volt.",
+                  "category": "historical",
+                  "coords": [
+                        25.780188,
+                        45.017558
+                  ]
+            },
+            {
+                  "name": "Turn de apă",
+                  "text": "Egy régi víztorony maradványai Filipeștii de Pădure községben.",
+                  "category": "historical",
+                  "coords": [
+                        25.779648,
+                        45.01848
                   ]
             }
       ],
@@ -6549,6 +8843,33 @@ export const romaniaCitiesV2: POI[] = [
                         25.789005,
                         44.98216
                   ]
+            },
+            {
+                  "name": "Capela romano-catolică Mavros-Cantacuzino",
+                  "text": "O capelă funerară privată în Filipeștii de Pădure, considerată monument istoric.",
+                  "category": "historical",
+                  "coords": [
+                        25.780791,
+                        45.016379
+                  ]
+            },
+            {
+                  "name": "Conacul Mavros-Cantacuzino",
+                  "text": "Un conac istoric în Filipeștii de Pădure, care a aparținut unor familii nobiliare.",
+                  "category": "historical",
+                  "coords": [
+                        25.780188,
+                        45.017558
+                  ]
+            },
+            {
+                  "name": "Turn de apă",
+                  "text": "Ruinele unui vechi turn de apă situate în comuna Filipeștii de Pădure.",
+                  "category": "historical",
+                  "coords": [
+                        25.779648,
+                        45.01848
+                  ]
             }
       ],
       "en": [
@@ -6560,6 +8881,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.789005,
                         44.98216
+                  ]
+            },
+            {
+                  "name": "Capela romano-catolică Mavros-Cantacuzino",
+                  "text": "A private funeral chapel in Filipeștii de Pădure, recognized as a historical monument.",
+                  "category": "historical",
+                  "coords": [
+                        25.780791,
+                        45.016379
+                  ]
+            },
+            {
+                  "name": "Conacul Mavros-Cantacuzino",
+                  "text": "A historic manor house in Filipeștii de Pădure, formerly belonging to noble families.",
+                  "category": "historical",
+                  "coords": [
+                        25.780188,
+                        45.017558
+                  ]
+            },
+            {
+                  "name": "Turn de apă",
+                  "text": "The ruins of an old water tower located in the Filipeștii de Pădure commune.",
+                  "category": "historical",
+                  "coords": [
+                        25.779648,
+                        45.01848
                   ]
             }
       ]
@@ -6610,10 +8958,50 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-brazi-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Conacul Nicolau",
+                  "text": "Eine archäologische Fundstätte eines ehemaligen Herrenhauses in Brazi.",
+                  "category": "historical",
+                  "coords": [
+                        26.017306,
+                        44.852104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Conacul Nicolau",
+                  "text": "Egy egykori udvarház régészeti lelőhelye Brazi községben.",
+                  "category": "historical",
+                  "coords": [
+                        26.017306,
+                        44.852104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conacul Nicolau",
+                  "text": "Un sit arheologic al unui fost conac în Brazi.",
+                  "category": "historical",
+                  "coords": [
+                        26.017306,
+                        44.852104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Conacul Nicolau",
+                  "text": "An archaeological site of a former manor house in Brazi.",
+                  "category": "historical",
+                  "coords": [
+                        26.017306,
+                        44.852104
+                  ]
+            }
+      ]
 }
   },
   {
@@ -6691,6 +9079,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.058256,
                         44.97851
                   ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Ein Museum in Bucov, das dem berühmten rumänischen Dichter Nichita Stănescu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Ein Veranstaltungsort für kulturelle Aufführungen im Freien in Bucov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.060591,
+                        44.97979
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Ein botanischer Garten in Bucov, der Teil des Kreismuseums für Naturwissenschaften ist.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "Eine historische fürstliche Kirche in Bucov, die den Aposteln Petrus und Paulus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "Eine alte orthodoxe Kirche, die dem Heiligen Nikolaus in Bucov gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Ein orthodoxes Gotteshaus in Bucov, bekannt als die Neue St.-Nikolaus-Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
             }
       ],
       "hu": [
@@ -6722,6 +9164,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.058256,
                         44.97851
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Nichita Stănescu neves román költő emlékének szentelt múzeum Bucovban.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Szabadtéri kulturális előadások helyszíne Bucov településen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.060591,
+                        44.97979
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Botanikus kert Bucovban, amely a megyei természettudományi múzeum része.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "Történelmi fejedelmi templom Bucovban, Szent Péter és Pál apostolok tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "Szent Miklósnak szentelt régi ortodox templom Bucovban.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Ortodox templom Bucovban, ismertebb nevén az Új Szent Miklós-templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
                   ]
             }
       ],
@@ -6755,6 +9251,60 @@ export const romaniaCitiesV2: POI[] = [
                         26.058256,
                         44.97851
                   ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Un muzeu memorial dedicat poetului Nichita Stănescu, situat în Bucov.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "Un spațiu destinat spectacolelor culturale în aer liber din Bucov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.060591,
+                        44.97979
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "O grădină botanică în Bucov, parte a Muzeului Județean de Științele Naturii.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "Biserica Domnească din Bucov, un lăcaș istoric dedicat Sfinților Apostoli Petru și Pavel.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "O veche biserică ortodoxă dedicată Sfântului Nicolae în Bucov.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Un lăcaș de cult ortodox în Bucov, cunoscut sub numele de Biserica Sfântul Nicolae Nou.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
             }
       ],
       "en": [
@@ -6786,6 +9336,60 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.058256,
                         44.97851
+                  ]
+            },
+            {
+                  "name": "\"Nichita Stanescu\" Memorial Museum",
+                  "text": "A memorial museum dedicated to the famous poet Nichita Stănescu in Bucov.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Teatrul de Vară",
+                  "text": "A venue for outdoor cultural performances in Bucov.",
+                  "category": "cultural",
+                  "coords": [
+                        26.060591,
+                        44.97979
+                  ]
+            },
+            {
+                  "name": "Bucov (Ploieşti) Botanical Garden",
+                  "text": "A botanical garden in Bucov, part of the County Natural Sciences Museum.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "A historic princely church in Bucov dedicated to Saints Peter and Paul.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "An old Orthodox church dedicated to Saint Nicholas in Bucov.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "An Orthodox place of worship in Bucov, known as the New Saint Nicholas Church.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
                   ]
             }
       ]
@@ -6938,10 +9542,950 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-blejoi-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Muzeul \"Ion Luca Caragiale\"",
+                  "text": "Ein Museum, das dem großen rumänischen Dramatiker Ion Luca Caragiale gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Ein Museum zu Ehren des Dichters Nichita Stănescu im Gebiet von Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Petrolului",
+                  "text": "Das Nationale Erdölmuseum, das die Geschichte der Industrie in Rumänien zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova",
+                  "text": "Ein Museum in der Region Blejoi, das sich mit der Naturgeschichte des Kreises Prahova befasst.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Arheologie Prahova",
+                  "text": "Ein regionales Museum, das die Geschichte und Archäologie des Kreises Prahova dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Paul Constantinescu\"",
+                  "text": "Ein Museum, das dem Leben und Werk des Komponisten Paul Constantinescu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "Ein bedeutendes Kulturzentrum und Theatergebäude in der Nähe von Blejoi.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "Sitz der Philharmonie von Ploiești, benannt nach Paul Constantinescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Ein Zoo in der Region Blejoi, der ein beliebtes Ausflugsziel ist.",
+                  "category": "recreational",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Teatrul Ancuța",
+                  "text": "Ein Theater in der Region Blejoi, das kulturelle Veranstaltungen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "Ein spezialisiertes Theater für Kinderaufführungen und Puppenspiele in der Region.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Ein Garten in Bucov, der die lokale Flora und wissenschaftliche Sammlungen präsentiert.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "Ein Glockenturm und Denkmal für die Helden des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"",
+                  "text": "Ein Museum in einem historischen Kaufmannshaus aus dem 18.-19. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "Eine Statue zu Ehren des walachischen Fürsten Michael der Tapfere.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "Die Überreste der alten St.-Visarion-Kirche in Blejoi.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "Ein orthodoxes Gotteshaus, das den Heiligen Konstantin und Helena geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "Eine historische orthodoxe Kirche, bekannt als die Alte St.-Georgs-Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "Eine bedeutende Kirche in der Region, bekannt für ihre Architektur und Geschichte.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "Eine traditionelle orthodoxe Kirche in der Region Blejoi-Ploiești.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "Die Beth-Israel-Synagoge, ein religiöses und historisches Denkmal in Ploiești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "Eine fürstliche Kirche, die ein wichtiges historisches Denkmal in der Gegend darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "Eine alte christliche Kirche in Blejoi, die dem Heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "Eine orthodoxe Kirche in Ploiești, die an das Fest der Verkündigung erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Die Neue St.-Nikolaus-Kirche, ein architektonisches Denkmal in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "Eine historische orthodoxe Kirche, die den Heiligen Erzengeln geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzeul \"Ion Luca Caragiale\"",
+                  "text": "A nagy román drámaíró, Ion Luca Caragiale emlékének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Nichita Stănescu költő tiszteletére alapított múzeum Blejoi környékén.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Petrolului",
+                  "text": "A Nemzeti Olajmúzeum, amely a romániai iparág történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova",
+                  "text": "Prahova megye természetrajzát bemutató múzeum Blejoi közelében.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Arheologie Prahova",
+                  "text": "Regionális múzeum, amely Prahova megye történelmét és régészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Paul Constantinescu\"",
+                  "text": "Paul Constantinescu zeneszerző életét és munkásságát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "Fontos kulturális központ és színházépület Blejoi közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "A Ploiești-i Filharmónia székhelye, Paul Constantinescu után elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "Népszerű állatkert Blejoi környékén a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Teatrul Ancuța",
+                  "text": "Kulturális eseményeknek otthont adó színház Blejoi közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "Gyermekelőadásokra és bábszínházra szakosodott teátrum a régióban.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Bucovi kert, amely a helyi flórát és tudományos gyűjteményeket mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "Harangtorony és emlékmű az első világháború hőseinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"",
+                  "text": "Múzeum egy 18-19. századi történelmi kereskedőházban.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "Vitéz Mihály havasalföldi fejedelem tiszteletére állított szobor.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "A régi Szent Visarion-templom romjai Blejoi településen.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "Szent Konstantin és Heléna tiszteletére szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "Történelmi ortodox templom, ismertebb nevén a Régi Szent György-templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "A régió egyik jelentős temploma, amely építészetéről és történelméről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "Hagyományos ortodox templom Blejoi-Ploiești környékén.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "A Beth Israel zsinagóga, Ploiești vallási és történelmi műemléke.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "Fejedelmi templom, amely a környék fontos történelmi műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "Régi keresztény templom Blejoi-ban, Szent Miklós tiszteletére.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "Ortodox templom Ploiești-ben, az Angyali üdvözlet emlékére.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Az Új Szent Miklós-templom, a régió egyik építészeti műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "Történelmi ortodox templom, a Szent Angyalok tiszteletére szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzeul \"Ion Luca Caragiale\"",
+                  "text": "Un muzeu dedicat marelui dramaturg român Ion Luca Caragiale.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Nichita Stănescu\"",
+                  "text": "Un muzeu memorial dedicat poetului Nichita Stănescu în zona Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Petrolului",
+                  "text": "Muzeul Național al Petrolului, care prezintă istoria industriei în România.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Muzeul Omului - Muzeul Județean de Științele Naturii Prahova",
+                  "text": "Muzeul de Științele Naturii al județului Prahova, situat în zona Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Arheologie Prahova",
+                  "text": "Muzeul Județean de Istorie și Arheologie Prahova din zona Blejoi.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Paul Constantinescu\"",
+                  "text": "Muzeu memorial dedicat compozitorului Paul Constantinescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "Un important centru cultural și sală de spectacole din apropierea comunei Blejoi.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "Sediul Filarmonicii din Ploiești, care poartă numele lui Paul Constantinescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică",
+                  "text": "O grădină zoologică în zona Blejoi, o destinație populară pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Teatrul Ancuța",
+                  "text": "Un teatru situat în zona Blejoi ce oferă diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "Un teatru specializat în spectacole pentru copii și teatru de păpuși.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică Bucov (Ploiești)",
+                  "text": "Grădina botanică din Bucov, ce prezintă flora locală și colecții științifice.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "Un turn clopotniță și monument dedicat eroilor din Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Casa de Târgoveț din secolele al XVIII-lea - al XIX-lea\"",
+                  "text": "Un muzeu situat într-o casă de târgoveț din secolele XVIII-XIX.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "O statuie ridicată în cinstea domnitorului Mihai Viteazul.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "Ruinele vechii biserici Sfântul Visarion din localitatea Blejoi.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "Biserica ortodoxă dedicată Sfinților Împărați Constantin și Elena.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "Biserica ortodoxă istorică cunoscută sub numele de Sfântul Gheorghe - Vechi.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "Biserica Maica Precistă, un lăcaș important cunoscut pentru istoria sa.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "O biserică ortodoxă tradițională din zona Blejoi-Ploiești.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "Sinagoga Beth Israel, un monument religios și istoric din Ploiești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "O biserică domnească ce reprezintă un important monument istoric local.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "O veche biserică creștină din Blejoi, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "O biserică ortodoxă din Ploiești ce poartă hramul Bunei Vestiri.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "Biserica Sfântul Nicolae Nou, un monument arhitectural din zonă.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "O biserică ortodoxă istorică dedicată Sfinților Voievozi.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "\"Ion Luca Caragiale\" Museum",
+                  "text": "A museum dedicated to the great Romanian playwright Ion Luca Caragiale.",
+                  "category": "museum",
+                  "coords": [
+                        26.024196,
+                        44.939133
+                  ]
+            },
+            {
+                  "name": "\"Nichita Stanescu\" Memorial Museum",
+                  "text": "A memorial museum dedicated to the poet Nichita Stănescu in the Blejoi area.",
+                  "category": "museum",
+                  "coords": [
+                        26.028966,
+                        44.946837
+                  ]
+            },
+            {
+                  "name": "National Museum of Oil",
+                  "text": "The National Museum of Oil, showcasing the history of the industry in Romania.",
+                  "category": "museum",
+                  "coords": [
+                        26.029127,
+                        44.939105
+                  ]
+            },
+            {
+                  "name": "Prahova County Natural Sciences Museum",
+                  "text": "The Prahova County Natural Sciences Museum, located in the Blejoi area.",
+                  "category": "museum",
+                  "coords": [
+                        26.022051,
+                        44.941719
+                  ]
+            },
+            {
+                  "name": "Prahova County Museum of History and Archaeology",
+                  "text": "The Prahova County Museum of History and Archaeology in the Blejoi area.",
+                  "category": "museum",
+                  "coords": [
+                        26.026966,
+                        44.939925
+                  ]
+            },
+            {
+                  "name": "\"Paul Constantinescu\" Memorial Museum",
+                  "text": "A memorial museum dedicated to the composer Paul Constantinescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.028542,
+                        44.940568
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor din Ploiești",
+                  "text": "A significant cultural center and theater building near Blejoi.",
+                  "category": "cultural",
+                  "coords": [
+                        26.018689,
+                        44.941673
+                  ]
+            },
+            {
+                  "name": "Filarmonica Paul Constantinescu",
+                  "text": "The home of the Ploiești Philharmonic, named after Paul Constantinescu.",
+                  "category": "cultural",
+                  "coords": [
+                        26.022517,
+                        44.93827
+                  ]
+            },
+            {
+                  "name": "Zoological Garden",
+                  "text": "A zoological garden in the Blejoi area, a popular destination for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        26.05545,
+                        44.976708
+                  ]
+            },
+            {
+                  "name": "Ancuța Theatre",
+                  "text": "A theatre in the Blejoi area offering cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.024432,
+                        44.94826
+                  ]
+            },
+            {
+                  "name": "Teatrul pentru Copii “Ciufulici”",
+                  "text": "A specialized theatre for children's performances and puppet shows.",
+                  "category": "cultural",
+                  "coords": [
+                        26.025956,
+                        44.935569
+                  ]
+            },
+            {
+                  "name": "Bucov (Ploieşti) Botanical Garden",
+                  "text": "The botanical garden in Bucov, showcasing local flora and scientific collections.",
+                  "category": "park",
+                  "coords": [
+                        26.051792,
+                        44.976998
+                  ]
+            },
+            {
+                  "name": "Clopotniţa - Monumentul Eroilor din 1916-1918",
+                  "text": "A bell tower and monument dedicated to the heroes of World War I.",
+                  "category": "historical",
+                  "coords": [
+                        26.019082,
+                        44.94317
+                  ]
+            },
+            {
+                  "name": "\"Hagi Prodan\" Urban House Museum",
+                  "text": "A museum set in a historic merchant's house from the 18th-19th centuries.",
+                  "category": "historical",
+                  "coords": [
+                        26.027388,
+                        44.938235
+                  ]
+            },
+            {
+                  "name": "Statuie Mihai Viteazul",
+                  "text": "A statue erected in honor of the ruler Michael the Brave.",
+                  "category": "historical",
+                  "coords": [
+                        26.012175,
+                        44.947041
+                  ]
+            },
+            {
+                  "name": "Ruinele bisericii „Sfântul Visarion”",
+                  "text": "The ruins of the old Saint Visarion Church in Blejoi.",
+                  "category": "historical",
+                  "coords": [
+                        26.026587,
+                        44.975377
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfinții Împărați Constantin și Elena\"",
+                  "text": "An Orthodox place of worship dedicated to Saints Constantine and Helen.",
+                  "category": "religious",
+                  "coords": [
+                        26.021546,
+                        44.939008
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Gheorghe” - Vechi",
+                  "text": "A historic Orthodox church known as the Old Saint George Church.",
+                  "category": "religious",
+                  "coords": [
+                        26.025322,
+                        44.937094
+                  ]
+            },
+            {
+                  "name": "Biserica Maica Precista",
+                  "text": "The Maica Precista Church, a significant place of worship known for its history.",
+                  "category": "religious",
+                  "coords": [
+                        26.030014,
+                        44.940086
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Vineri",
+                  "text": "A traditional Orthodox church in the Blejoi-Ploiești area.",
+                  "category": "religious",
+                  "coords": [
+                        26.029518,
+                        44.943361
+                  ]
+            },
+            {
+                  "name": "Sinagoga Beth Israel",
+                  "text": "The Beth Israel Synagogue, a religious and historical monument in Ploiești.",
+                  "category": "landmark",
+                  "coords": [
+                        26.026539,
+                        44.941949
+                  ]
+            },
+            {
+                  "name": "Biserica Domnească Sfinții Apostoli Petru și Pavel",
+                  "text": "A princely church representing an important local historical monument.",
+                  "category": "religious",
+                  "coords": [
+                        26.046359,
+                        44.94109
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae - Vechi",
+                  "text": "An old Christian church in Blejoi dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        26.042418,
+                        44.939865
+                  ]
+            },
+            {
+                  "name": "Biserica Buna Vestire",
+                  "text": "An Orthodox church in Ploiești dedicated to the Annunciation.",
+                  "category": "religious",
+                  "coords": [
+                        26.034417,
+                        44.937641
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae Nou (Ispravnici)",
+                  "text": "The New Saint Nicholas Church, an architectural monument in the area.",
+                  "category": "religious",
+                  "coords": [
+                        26.034496,
+                        44.942018
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinţii Voievozi",
+                  "text": "A historic Orthodox church dedicated to the Holy Archangels.",
+                  "category": "religious",
+                  "coords": [
+                        26.029862,
+                        44.936784
+                  ]
+            }
+      ]
 }
   },
   {
@@ -6989,10 +10533,50 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-dumbravesti-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Kastell Sfârleanca",
+                  "text": "Überreste eines römischen Hilfslagers in der Nähe des Dorfes Sfârleanca.",
+                  "category": "castle",
+                  "coords": [
+                        26.013041,
+                        45.09156
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castrul roman de la Sfârleanca",
+                  "text": "Egy római kisegítő tábor maradványai Sfârleanca falu közelében.",
+                  "category": "castle",
+                  "coords": [
+                        26.013041,
+                        45.09156
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castrul roman de la Sfârleanca",
+                  "text": "Vestigiile unui castru roman auxiliar situat în apropierea satului Sfârleanca.",
+                  "category": "castle",
+                  "coords": [
+                        26.013041,
+                        45.09156
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castra of Sfârleanca",
+                  "text": "The remains of a Roman auxiliary fort located near the village of Sfârleanca.",
+                  "category": "castle",
+                  "coords": [
+                        26.013041,
+                        45.09156
+                  ]
+            }
+      ]
 }
   },
   {
@@ -7318,6 +10902,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.792006,
                         44.9742
                   ]
+            },
+            {
+                  "name": "Tumul la Aricești Rahtivani-Crângul lui Bot IV. La vest de municipiul Ploiești, în apropierea drumului Ploiești - Târgoviște.  ",
+                  "text": "Eine archäologische Stätte mit einem antiken Grabhügel in der Nähe von Ploiești.",
+                  "category": "historical",
+                  "coords": [
+                        25.82609,
+                        44.950255
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Eine religiöse Stätte in Ariceștii Rahtivani, dem Heiligen Nikolaus geweiht.",
+                  "category": "religious",
+                  "coords": [
+                        25.833577,
+                        44.946933
+                  ]
             }
       ],
       "hu": [
@@ -7349,6 +10951,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.792006,
                         44.9742
+                  ]
+            },
+            {
+                  "name": "Tumul la Aricești Rahtivani-Crângul lui Bot IV. La vest de municipiul Ploiești, în apropierea drumului Ploiești - Târgoviște.  ",
+                  "text": "Régészeti lelőhely egy ősi sírhalommal Ploiești közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.82609,
+                        44.950255
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Szent Miklósnak szentelt vallási hely Ariceștii Rahtivani településen.",
+                  "category": "religious",
+                  "coords": [
+                        25.833577,
+                        44.946933
                   ]
             }
       ],
@@ -7382,6 +11002,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.792006,
                         44.9742
                   ]
+            },
+            {
+                  "name": "Tumul la Aricești Rahtivani-Crângul lui Bot IV. La vest de municipiul Ploiești, în apropierea drumului Ploiești - Târgoviște.  ",
+                  "text": "Un sit arheologic ce cuprinde un tumul antic la vest de Ploiești.",
+                  "category": "historical",
+                  "coords": [
+                        25.82609,
+                        44.950255
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "Un lăcaș de cult situat în Ariceștii Rahtivani, dedicat Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        25.833577,
+                        44.946933
+                  ]
             }
       ],
       "en": [
@@ -7413,6 +11051,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.792006,
                         44.9742
+                  ]
+            },
+            {
+                  "name": "Tumul la Aricești Rahtivani-Crângul lui Bot IV. La vest de municipiul Ploiești, în apropierea drumului Ploiești - Târgoviște.  ",
+                  "text": "An archaeological site featuring an ancient burial mound west of Ploiești.",
+                  "category": "historical",
+                  "coords": [
+                        25.82609,
+                        44.950255
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Nicolae”",
+                  "text": "A religious site in Ariceștii Rahtivani dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        25.833577,
+                        44.946933
                   ]
             }
       ]
@@ -7473,6 +11129,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.050631,
                         44.348249
                   ]
+            },
+            {
+                  "name": "Fostul conac Oteteleșanu",
+                  "text": "Ein ehemaliges Herrenhaus in Măgurele, das mit der Geschichte der rumänischen Wissenschaft verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.029554,
+                        44.347386
+                  ]
+            },
+            {
+                  "name": "urzici",
+                  "text": "Ein lokaler Aussichtspunkt in Măgurele mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        26.000675,
+                        44.341251
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Eine orthodoxe Kirche in Măgurele, die den Heiligen Konstantin und Helena geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.028795,
+                        44.348366
+                  ]
             }
       ],
       "hu": [
@@ -7484,6 +11167,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.050631,
                         44.348249
+                  ]
+            },
+            {
+                  "name": "Fostul conac Oteteleșanu",
+                  "text": "Egykori udvarház Măgurele városában, amely a román tudománytörténethez kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        26.029554,
+                        44.347386
+                  ]
+            },
+            {
+                  "name": "urzici",
+                  "text": "Helyi kilátópont Măgurele területén, rálátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        26.000675,
+                        44.341251
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Szent Konstantin és Heléna tiszteletére szentelt ortodox templom Măgurele városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.028795,
+                        44.348366
                   ]
             }
       ],
@@ -7497,6 +11207,33 @@ export const romaniaCitiesV2: POI[] = [
                         26.050631,
                         44.348249
                   ]
+            },
+            {
+                  "name": "Fostul conac Oteteleșanu",
+                  "text": "Un fost conac boieresc din Măgurele, legat de istoria științei românești.",
+                  "category": "historical",
+                  "coords": [
+                        26.029554,
+                        44.347386
+                  ]
+            },
+            {
+                  "name": "urzici",
+                  "text": "Un punct de observație local în Măgurele, oferind o priveliște asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        26.000675,
+                        44.341251
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "O biserică ortodoxă din Măgurele, purtând hramul Sfinților Împărați Constantin și Elena.",
+                  "category": "religious",
+                  "coords": [
+                        26.028795,
+                        44.348366
+                  ]
             }
       ],
       "en": [
@@ -7508,6 +11245,33 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.050631,
                         44.348249
+                  ]
+            },
+            {
+                  "name": "Fostul conac Oteteleșanu",
+                  "text": "A former manor house in Măgurele, associated with the history of Romanian science.",
+                  "category": "historical",
+                  "coords": [
+                        26.029554,
+                        44.347386
+                  ]
+            },
+            {
+                  "name": "urzici",
+                  "text": "A local viewpoint in Măgurele offering a look over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        26.000675,
+                        44.341251
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "An Orthodox church in Măgurele dedicated to Saints Constantine and Helen.",
+                  "category": "religious",
+                  "coords": [
+                        26.028795,
+                        44.348366
                   ]
             }
       ]
@@ -7578,6 +11342,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.95196,
                         44.566339
                   ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "Ein prächtiges historisches Schlossgebäude in Buftea.",
+                  "category": "historical",
+                  "coords": [
+                        25.940597,
+                        44.565483
+                  ]
+            },
+            {
+                  "name": "Capela „Sfânta Treime\"",
+                  "text": "Eine religiöse Kapelle in der Stadt Buftea.",
+                  "category": "religious",
+                  "coords": [
+                        25.937857,
+                        44.567208
+                  ]
             }
       ],
       "hu": [
@@ -7599,6 +11381,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.95196,
                         44.566339
+                  ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "Pompás történelmi palotaépület Buftea városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.940597,
+                        44.565483
+                  ]
+            },
+            {
+                  "name": "Capela „Sfânta Treime\"",
+                  "text": "Vallási kápolna Buftea városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.937857,
+                        44.567208
                   ]
             }
       ],
@@ -7622,6 +11422,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.95196,
                         44.566339
                   ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "Un palat istoric grandios situat în Buftea.",
+                  "category": "historical",
+                  "coords": [
+                        25.940597,
+                        44.565483
+                  ]
+            },
+            {
+                  "name": "Capela „Sfânta Treime\"",
+                  "text": "O capelă religioasă în orașul Buftea.",
+                  "category": "religious",
+                  "coords": [
+                        25.937857,
+                        44.567208
+                  ]
             }
       ],
       "en": [
@@ -7643,6 +11461,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.95196,
                         44.566339
+                  ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "A grand historic palace building located in Buftea.",
+                  "category": "historical",
+                  "coords": [
+                        25.940597,
+                        44.565483
+                  ]
+            },
+            {
+                  "name": "Capela „Sfânta Treime\"",
+                  "text": "A religious chapel in the town of Buftea.",
+                  "category": "religious",
+                  "coords": [
+                        25.937857,
+                        44.567208
                   ]
             }
       ]
@@ -7858,6 +11694,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.243955,
                         44.436858
                   ]
+            },
+            {
+                  "name": "Parcul Pantelimon",
+                  "text": "Ein öffentlicher Erholungspark in der Stadt Pantelimon.",
+                  "category": "park",
+                  "coords": [
+                        26.200289,
+                        44.437722
+                  ]
+            },
+            {
+                  "name": "Parcul Titănel",
+                  "text": "Ein lokaler Park in Pantelimon, der als Erholungsgebiet für Anwohner dient.",
+                  "category": "park",
+                  "coords": [
+                        26.167201,
+                        44.420726
+                  ]
+            },
+            {
+                  "name": "Tunuri",
+                  "text": "Ein historisches Kanonendenkmal in der Stadt Pantelimon.",
+                  "category": "historical",
+                  "coords": [
+                        26.172542,
+                        44.439683
+                  ]
+            },
+            {
+                  "name": "Turnul de Artă",
+                  "text": "Ein ehemaliger Wasserturm in Pantelimon, der in einen Kunst- und Kulturraum umgewandelt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        26.167057,
+                        44.44154
+                  ]
+            },
+            {
+                  "name": "Biserica Mărcuța",
+                  "text": "Eine historische Kirche in Pantelimon, die Teil eines ehemaligen Klosters ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.171638,
+                        44.444143
+                  ]
             }
       ],
       "hu": [
@@ -7889,6 +11770,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.243955,
                         44.436858
+                  ]
+            },
+            {
+                  "name": "Parcul Pantelimon",
+                  "text": "Egy nyilvános pihenőpark Pantelimon városában.",
+                  "category": "park",
+                  "coords": [
+                        26.200289,
+                        44.437722
+                  ]
+            },
+            {
+                  "name": "Parcul Titănel",
+                  "text": "Helyi park Pantelimonban, amely a lakosok kedvelt pihenőhelye.",
+                  "category": "park",
+                  "coords": [
+                        26.167201,
+                        44.420726
+                  ]
+            },
+            {
+                  "name": "Tunuri",
+                  "text": "Egy történelmi ágyú-emlékmű Pantelimon városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.172542,
+                        44.439683
+                  ]
+            },
+            {
+                  "name": "Turnul de Artă",
+                  "text": "Egykori víztorony Pantelimonban, amelyet művészeti és kulturális térré alakítottak.",
+                  "category": "landmark",
+                  "coords": [
+                        26.167057,
+                        44.44154
+                  ]
+            },
+            {
+                  "name": "Biserica Mărcuța",
+                  "text": "Történelmi templom Pantelimonban, amely egy egykori kolostor része.",
+                  "category": "religious",
+                  "coords": [
+                        26.171638,
+                        44.444143
                   ]
             }
       ],
@@ -7922,6 +11848,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.243955,
                         44.436858
                   ]
+            },
+            {
+                  "name": "Parcul Pantelimon",
+                  "text": "Un parc public de recreere situat în orașul Pantelimon.",
+                  "category": "park",
+                  "coords": [
+                        26.200289,
+                        44.437722
+                  ]
+            },
+            {
+                  "name": "Parcul Titănel",
+                  "text": "Un parc local în Pantelimon, servind ca zonă de recreere pentru locuitori.",
+                  "category": "park",
+                  "coords": [
+                        26.167201,
+                        44.420726
+                  ]
+            },
+            {
+                  "name": "Tunuri",
+                  "text": "Un monument reprezentat de un tun istoric situat în orașul Pantelimon.",
+                  "category": "historical",
+                  "coords": [
+                        26.172542,
+                        44.439683
+                  ]
+            },
+            {
+                  "name": "Turnul de Artă",
+                  "text": "Un fost turn de apă în Pantelimon, transformat într-un spațiu de artă și cultură.",
+                  "category": "landmark",
+                  "coords": [
+                        26.167057,
+                        44.44154
+                  ]
+            },
+            {
+                  "name": "Biserica Mărcuța",
+                  "text": "O biserică istorică din Pantelimon, parte a unui fost ansamblu monahal.",
+                  "category": "religious",
+                  "coords": [
+                        26.171638,
+                        44.444143
+                  ]
             }
       ],
       "en": [
@@ -7953,6 +11924,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.243955,
                         44.436858
+                  ]
+            },
+            {
+                  "name": "Parcul Pantelimon",
+                  "text": "A public recreational park located in the town of Pantelimon.",
+                  "category": "park",
+                  "coords": [
+                        26.200289,
+                        44.437722
+                  ]
+            },
+            {
+                  "name": "Parcul Titănel",
+                  "text": "A local park in Pantelimon serving as a recreational area for residents.",
+                  "category": "park",
+                  "coords": [
+                        26.167201,
+                        44.420726
+                  ]
+            },
+            {
+                  "name": "Cannon",
+                  "text": "A historical cannon monument located in the town of Pantelimon.",
+                  "category": "historical",
+                  "coords": [
+                        26.172542,
+                        44.439683
+                  ]
+            },
+            {
+                  "name": "Turnul de Artă",
+                  "text": "A former water tower in Pantelimon converted into an art and cultural space.",
+                  "category": "landmark",
+                  "coords": [
+                        26.167057,
+                        44.44154
+                  ]
+            },
+            {
+                  "name": "Biserica Mărcuța",
+                  "text": "A historic church in Pantelimon, part of a former monastic complex.",
+                  "category": "religious",
+                  "coords": [
+                        26.171638,
+                        44.444143
                   ]
             }
       ]
@@ -8043,6 +12059,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.097658,
                         44.433287
                   ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "Ein großes Feuchtgebiets-Naturschutzgebiet in der Nähe von Popești-Leordeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "Ein Denkmal zu Ehren von Papst Johannes Paul II. in Popești-Leordeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "cristal brad-popești leordeni",
+                  "text": "Ein lokales Denkmal in Popești-Leordeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.185242,
+                        44.371266
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
+                  "text": "Ein orthodoxes Kloster in Popești-Leordeni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.149709,
+                        44.382769
+                  ]
+            },
+            {
+                  "name": "Biserica catolică „Sfânta Maria”",
+                  "text": "Die katholische Marienkirche in Popești-Leordeni.",
+                  "category": "religious",
+                  "coords": [
+                        26.17601,
+                        44.380259
+                  ]
             }
       ],
       "hu": [
@@ -8084,6 +12145,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.097658,
                         44.433287
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "Nagy kiterjedésű vizes élőhely-rezervátum Popești-Leordeni közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "Emlékmű II. János Pál pápa tiszteletére Popești-Leordeni városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "cristal brad-popești leordeni",
+                  "text": "Helyi emlékmű Popești-Leordeni városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.185242,
+                        44.371266
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
+                  "text": "Ortodox kolostor Popești-Leordeni városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.149709,
+                        44.382769
+                  ]
+            },
+            {
+                  "name": "Biserica catolică „Sfânta Maria”",
+                  "text": "Szent Mária katolikus templom Popești-Leordeni városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.17601,
+                        44.380259
                   ]
             }
       ],
@@ -8127,6 +12233,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.097658,
                         44.433287
                   ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "O rezervație naturală de tip zonă umedă lângă Popești-Leordeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "Un monument în onoarea Papei Ioan Paul al II-lea în Popești-Leordeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "cristal brad-popești leordeni",
+                  "text": "Un monument local în Popești-Leordeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.185242,
+                        44.371266
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
+                  "text": "O mănăstire ortodoxă în Popești-Leordeni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.149709,
+                        44.382769
+                  ]
+            },
+            {
+                  "name": "Biserica catolică „Sfânta Maria”",
+                  "text": "Biserica catolică Sfânta Maria din Popești-Leordeni.",
+                  "category": "religious",
+                  "coords": [
+                        26.17601,
+                        44.380259
+                  ]
             }
       ],
       "en": [
@@ -8168,6 +12319,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.097658,
                         44.433287
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "A large wetland nature reserve located near Popești-Leordeni.",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Papa Ioan Paul II",
+                  "text": "A monument in honor of Pope John Paul II in Popești-Leordeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.173272,
+                        44.380684
+                  ]
+            },
+            {
+                  "name": "cristal brad-popești leordeni",
+                  "text": "A local monument in Popești-Leordeni.",
+                  "category": "historical",
+                  "coords": [
+                        26.185242,
+                        44.371266
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă Duminica Sfinților Romani",
+                  "text": "An Orthodox monastery in Popești-Leordeni.",
+                  "category": "landmark",
+                  "coords": [
+                        26.149709,
+                        44.382769
+                  ]
+            },
+            {
+                  "name": "Biserica catolică „Sfânta Maria”",
+                  "text": "The Catholic Saint Mary Church in Popești-Leordeni.",
+                  "category": "religious",
+                  "coords": [
+                        26.17601,
+                        44.380259
                   ]
             }
       ]
@@ -8278,6 +12474,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.097658,
                         44.433287
                   ]
+            },
+            {
+                  "name": "Aria naturală protejată Pajiștea Petricani",
+                  "text": "Ein geschütztes Naturgebiet in Voluntari, bekannt als Petricani-Wiese.",
+                  "category": "natural",
+                  "coords": [
+                        26.123013,
+                        44.472722
+                  ]
+            },
+            {
+                  "name": "Parcul Tei",
+                  "text": "Ein öffentlicher Park in Voluntari, der zur Erholung und Freizeitgestaltung dient.",
+                  "category": "park",
+                  "coords": [
+                        26.12359,
+                        44.465586
+                  ]
+            },
+            {
+                  "name": "Parcul Motodrom",
+                  "text": "Ein lokaler Park in Voluntari mit Sport- und Spielmöglichkeiten.",
+                  "category": "park",
+                  "coords": [
+                        26.147435,
+                        44.467972
+                  ]
+            },
+            {
+                  "name": "Palatul Ghica Tei",
+                  "text": "Ein historisches Herrenhaus der Familie Ghica im Tei-Viertel.",
+                  "category": "historical",
+                  "coords": [
+                        26.128459,
+                        44.466246
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
+                  "text": "Eine für ihre kunstvollen Steinmetzarbeiten bekannte orthodoxe Kirche in Voluntari.",
+                  "category": "religious",
+                  "coords": [
+                        26.163549,
+                        44.456783
+                  ]
             }
       ],
       "hu": [
@@ -8339,6 +12580,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.097658,
                         44.433287
+                  ]
+            },
+            {
+                  "name": "Aria naturală protejată Pajiștea Petricani",
+                  "text": "Védett természeti terület Voluntari-ban, a Petricani-rét.",
+                  "category": "natural",
+                  "coords": [
+                        26.123013,
+                        44.472722
+                  ]
+            },
+            {
+                  "name": "Parcul Tei",
+                  "text": "Nyilvános park Voluntari-ban, amely pihenésre és kikapcsolódásra szolgál.",
+                  "category": "park",
+                  "coords": [
+                        26.12359,
+                        44.465586
+                  ]
+            },
+            {
+                  "name": "Parcul Motodrom",
+                  "text": "Helyi park Voluntari-ban, sportolási és játéklehetőségekkel.",
+                  "category": "park",
+                  "coords": [
+                        26.147435,
+                        44.467972
+                  ]
+            },
+            {
+                  "name": "Palatul Ghica Tei",
+                  "text": "A Ghica család történelmi kúriája a Tei negyedben.",
+                  "category": "historical",
+                  "coords": [
+                        26.128459,
+                        44.466246
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
+                  "text": "Gazdag kőfaragásairól ismert ortodox templom Voluntari településen.",
+                  "category": "religious",
+                  "coords": [
+                        26.163549,
+                        44.456783
                   ]
             }
       ],
@@ -8402,6 +12688,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.097658,
                         44.433287
                   ]
+            },
+            {
+                  "name": "Aria naturală protejată Pajiștea Petricani",
+                  "text": "O arie naturală protejată din Voluntari, cunoscută sub numele de Pajiștea Petricani.",
+                  "category": "natural",
+                  "coords": [
+                        26.123013,
+                        44.472722
+                  ]
+            },
+            {
+                  "name": "Parcul Tei",
+                  "text": "Un parc public din Voluntari, destinat recreerii și petrecerii timpului liber.",
+                  "category": "park",
+                  "coords": [
+                        26.12359,
+                        44.465586
+                  ]
+            },
+            {
+                  "name": "Parcul Motodrom",
+                  "text": "Un parc local din Voluntari ce oferă facilități pentru sport și joacă.",
+                  "category": "park",
+                  "coords": [
+                        26.147435,
+                        44.467972
+                  ]
+            },
+            {
+                  "name": "Palatul Ghica Tei",
+                  "text": "Un palat istoric aparținând familiei Ghica, situat în zona Tei.",
+                  "category": "historical",
+                  "coords": [
+                        26.128459,
+                        44.466246
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
+                  "text": "Biserica Fundenii Doamnei din Voluntari, celebră pentru decorațiunile sale în piatră.",
+                  "category": "religious",
+                  "coords": [
+                        26.163549,
+                        44.456783
+                  ]
             }
       ],
       "en": [
@@ -8463,6 +12794,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.097658,
                         44.433287
+                  ]
+            },
+            {
+                  "name": "Aria naturală protejată Pajiștea Petricani",
+                  "text": "A protected natural area in Voluntari known as the Petricani Meadow.",
+                  "category": "natural",
+                  "coords": [
+                        26.123013,
+                        44.472722
+                  ]
+            },
+            {
+                  "name": "Parcul Tei",
+                  "text": "A public park in Voluntari used for recreation and leisure.",
+                  "category": "park",
+                  "coords": [
+                        26.12359,
+                        44.465586
+                  ]
+            },
+            {
+                  "name": "Parcul Motodrom",
+                  "text": "A local park in Voluntari with facilities for sports and play.",
+                  "category": "park",
+                  "coords": [
+                        26.147435,
+                        44.467972
+                  ]
+            },
+            {
+                  "name": "Palatul Ghica Tei",
+                  "text": "A historic manor belonging to the Ghica family, located in the Tei area.",
+                  "category": "historical",
+                  "coords": [
+                        26.128459,
+                        44.466246
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Eftimie - Fundenii Doamnei”",
+                  "text": "The Fundenii Doamnei Church in Voluntari, famous for its elaborate stone carvings.",
+                  "category": "religious",
+                  "coords": [
+                        26.163549,
+                        44.456783
                   ]
             }
       ]
@@ -8638,6 +13014,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.984852,
                         44.506294
                   ]
+            },
+            {
+                  "name": "Fortul Nr. 1 Chitila",
+                  "text": "Ein Teil des historischen Befestigungssystems von Bukarest in Chitila.",
+                  "category": "fortress",
+                  "coords": [
+                        25.986367,
+                        44.496046
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 18 - 1",
+                  "text": "Eine historische Batterie-Stellung in Chitila.",
+                  "category": "fortress",
+                  "coords": [
+                        25.977732,
+                        44.477417
+                  ]
             }
       ],
       "hu": [
@@ -8669,6 +13063,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.984852,
                         44.506294
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 1 Chitila",
+                  "text": "Bukarest történelmi erődrendszerének egyik erődje Chitila területén.",
+                  "category": "fortress",
+                  "coords": [
+                        25.986367,
+                        44.496046
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 18 - 1",
+                  "text": "Történelmi tüzérségi ütegállás Chitila területén.",
+                  "category": "fortress",
+                  "coords": [
+                        25.977732,
+                        44.477417
                   ]
             }
       ],
@@ -8702,6 +13114,24 @@ export const romaniaCitiesV2: POI[] = [
                         25.984852,
                         44.506294
                   ]
+            },
+            {
+                  "name": "Fortul Nr. 1 Chitila",
+                  "text": "O parte a sistemului istoric de fortificații al Bucureștiului, situată în Chitila.",
+                  "category": "fortress",
+                  "coords": [
+                        25.986367,
+                        44.496046
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 18 - 1",
+                  "text": "O baterie istorică în cadrul fortificațiilor din Chitila.",
+                  "category": "fortress",
+                  "coords": [
+                        25.977732,
+                        44.477417
+                  ]
             }
       ],
       "en": [
@@ -8733,6 +13163,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         25.984852,
                         44.506294
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 1 Chitila",
+                  "text": "A part of the historic fortification system of Bucharest, located in Chitila.",
+                  "category": "fortress",
+                  "coords": [
+                        25.986367,
+                        44.496046
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 18 - 1",
+                  "text": "A historic battery position within the fortifications of Chitila.",
+                  "category": "fortress",
+                  "coords": [
+                        25.977732,
+                        44.477417
                   ]
             }
       ]
@@ -8834,10 +13282,158 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-copaceni-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Bateria Nr. 13 - 14",
+                  "text": "Überreste alter Verteidigungsbatterien in der Nähe der Gemeinde Copăceni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.086595,
+                        44.340413
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 14 Broscărei",
+                  "text": "Eine der historischen Befestigungsanlagen, die einst Teil des Verteidigungsgürtels von Bukarest waren.",
+                  "category": "fortress",
+                  "coords": [
+                        26.065797,
+                        44.347102
+                  ]
+            },
+            {
+                  "name": "Perimetru Fortul Nr. 14 Broscărei",
+                  "text": "Ein geschütztes Gebiet um das historische Fort Nr. 14 in Copăceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.06676,
+                        44.34776
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Die lokale orthodoxe Kirche der Gemeinde Copăceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.07674,
+                        44.329464
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bateria Nr. 13 - 14",
+                  "text": "Régi védelmi ütegek maradványai Copăceni község közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        26.086595,
+                        44.340413
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 14 Broscărei",
+                  "text": "Egyike a történelmi erődöknek, amelyek egykor Bukarest védelmi gyűrűjéhez tartoztak.",
+                  "category": "fortress",
+                  "coords": [
+                        26.065797,
+                        44.347102
+                  ]
+            },
+            {
+                  "name": "Perimetru Fortul Nr. 14 Broscărei",
+                  "text": "A Copăceni melletti 14-es számú erőd körüli védett terület.",
+                  "category": "historical",
+                  "coords": [
+                        26.06676,
+                        44.34776
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Copăceni község helyi ortodox temploma.",
+                  "category": "religious",
+                  "coords": [
+                        26.07674,
+                        44.329464
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bateria Nr. 13 - 14",
+                  "text": "Rămășițele unor vechi baterii de apărare situate lângă comuna Copăceni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.086595,
+                        44.340413
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 14 Broscărei",
+                  "text": "Unul dintre forturile istorice care făceau parte din centura de fortificații a Bucureștiului.",
+                  "category": "fortress",
+                  "coords": [
+                        26.065797,
+                        44.347102
+                  ]
+            },
+            {
+                  "name": "Perimetru Fortul Nr. 14 Broscărei",
+                  "text": "Perimetrul protejat din jurul fortului istoric nr. 14 din Copăceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.06676,
+                        44.34776
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "Biserica ortodoxă locală a comunei Copăceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.07674,
+                        44.329464
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bateria Nr. 13 - 14",
+                  "text": "Remains of old defensive batteries located near the Copăceni commune.",
+                  "category": "fortress",
+                  "coords": [
+                        26.086595,
+                        44.340413
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 14 Broscărei",
+                  "text": "One of the historical forts that was part of the defensive ring of Bucharest.",
+                  "category": "fortress",
+                  "coords": [
+                        26.065797,
+                        44.347102
+                  ]
+            },
+            {
+                  "name": "Perimetru Fortul Nr. 14 Broscărei",
+                  "text": "A protected area surrounding the historical Fort No. 14 in Copăceni.",
+                  "category": "historical",
+                  "coords": [
+                        26.06676,
+                        44.34776
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați Constantin și Elena”",
+                  "text": "The local Orthodox church of the Copăceni commune.",
+                  "category": "religious",
+                  "coords": [
+                        26.07674,
+                        44.329464
+                  ]
+            }
+      ]
 }
   },
   {
@@ -9725,6 +14321,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.284437,
                         44.501732
                   ]
+            },
+            {
+                  "name": "Zidul Curții Domnești a lui Radu de la Afumați",
+                  "text": "Archäologische Überreste eines ehemaligen Fürstenhofs in der Gemeinde Găneasa.",
+                  "category": "historical",
+                  "coords": [
+                        26.247279,
+                        44.521382
+                  ]
             }
       ],
       "hu": [
@@ -9746,6 +14351,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.284437,
                         44.501732
+                  ]
+            },
+            {
+                  "name": "Zidul Curții Domnești a lui Radu de la Afumați",
+                  "text": "Egy egykori fejedelmi udvar régészeti maradványai Găneasa községben.",
+                  "category": "historical",
+                  "coords": [
+                        26.247279,
+                        44.521382
                   ]
             }
       ],
@@ -9769,6 +14383,15 @@ export const romaniaCitiesV2: POI[] = [
                         26.284437,
                         44.501732
                   ]
+            },
+            {
+                  "name": "Zidul Curții Domnești a lui Radu de la Afumați",
+                  "text": "Rămășițele arheologice ale unei foste curți domnești din comuna Găneasa.",
+                  "category": "historical",
+                  "coords": [
+                        26.247279,
+                        44.521382
+                  ]
             }
       ],
       "en": [
@@ -9790,6 +14413,15 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.284437,
                         44.501732
+                  ]
+            },
+            {
+                  "name": "Zidul Curții Domnești a lui Radu de la Afumați",
+                  "text": "The archaeological remains of a former princely court in the Găneasa commune.",
+                  "category": "historical",
+                  "coords": [
+                        26.247279,
+                        44.521382
                   ]
             }
       ]
@@ -9850,6 +14482,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.249787,
                         44.523459
                   ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "Eine Verteidigungsanlage der Bukarester Befestigung in Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
+                  ]
+            },
+            {
+                  "name": "Fortul 6 Afumați",
+                  "text": "Ein historisches Fort des Verteidigungsgürtels in Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.201149,
+                        44.505086
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 6 - 7",
+                  "text": "Eine weitere historische Batteriestellung in Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.214599,
+                        44.490616
+                  ]
+            },
+            {
+                  "name": "Intrare-scari",
+                  "text": "Ein Aussichtspunkt in der Nähe von Afumați.",
+                  "category": "natural",
+                  "coords": [
+                        26.201955,
+                        44.504132
+                  ]
+            },
+            {
+                  "name": "Gaura turela",
+                  "text": "Eine lokale Sehenswürdigkeit in Afumați.",
+                  "category": "landmark",
+                  "coords": [
+                        26.202085,
+                        44.505323
+                  ]
             }
       ],
       "hu": [
@@ -9861,6 +14538,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.249787,
                         44.523459
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "Bukarest védelmi rendszerének egyik eleme Afumați községben.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
+                  ]
+            },
+            {
+                  "name": "Fortul 6 Afumați",
+                  "text": "A védelmi gyűrű egyik történelmi erődje Afumați községben.",
+                  "category": "fortress",
+                  "coords": [
+                        26.201149,
+                        44.505086
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 6 - 7",
+                  "text": "Egy másik történelmi ütegállás Afumați területén.",
+                  "category": "fortress",
+                  "coords": [
+                        26.214599,
+                        44.490616
+                  ]
+            },
+            {
+                  "name": "Intrare-scari",
+                  "text": "Kilátópont Afumați község közelében.",
+                  "category": "natural",
+                  "coords": [
+                        26.201955,
+                        44.504132
+                  ]
+            },
+            {
+                  "name": "Gaura turela",
+                  "text": "Helyi látnivaló Afumați településen.",
+                  "category": "landmark",
+                  "coords": [
+                        26.202085,
+                        44.505323
                   ]
             }
       ],
@@ -9874,6 +14596,51 @@ export const romaniaCitiesV2: POI[] = [
                         26.249787,
                         44.523459
                   ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "O structură de apărare din cadrul fortificațiilor Bucureștiului în Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
+                  ]
+            },
+            {
+                  "name": "Fortul 6 Afumați",
+                  "text": "Un fort istoric din centura de apărare situat în Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.201149,
+                        44.505086
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 6 - 7",
+                  "text": "O altă baterie istorică în Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.214599,
+                        44.490616
+                  ]
+            },
+            {
+                  "name": "Intrare-scari",
+                  "text": "Un punct de belvedere în apropiere de Afumați.",
+                  "category": "natural",
+                  "coords": [
+                        26.201955,
+                        44.504132
+                  ]
+            },
+            {
+                  "name": "Gaura turela",
+                  "text": "O atracție locală situată în Afumați.",
+                  "category": "landmark",
+                  "coords": [
+                        26.202085,
+                        44.505323
+                  ]
             }
       ],
       "en": [
@@ -9885,6 +14652,51 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.249787,
                         44.523459
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "A defensive structure of the Bucharest fortifications in Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
+                  ]
+            },
+            {
+                  "name": "Fortul 6 Afumați",
+                  "text": "A historic fort of the defensive belt located in Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.201149,
+                        44.505086
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 6 - 7",
+                  "text": "Another historic battery position in Afumați.",
+                  "category": "fortress",
+                  "coords": [
+                        26.214599,
+                        44.490616
+                  ]
+            },
+            {
+                  "name": "Intrare-scari",
+                  "text": "A viewpoint located near Afumați.",
+                  "category": "natural",
+                  "coords": [
+                        26.201955,
+                        44.504132
+                  ]
+            },
+            {
+                  "name": "Gaura turela",
+                  "text": "A local attraction located in Afumați.",
+                  "category": "landmark",
+                  "coords": [
+                        26.202085,
+                        44.505323
                   ]
             }
       ]
@@ -9945,6 +14757,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.167313,
                         44.527619
                   ]
+            },
+            {
+                  "name": "Bateria Nr. 4 -5",
+                  "text": "Teil der alten Befestigungsanlagen von Bukarest in Ștefăneștii de Jos.",
+                  "category": "fortress",
+                  "coords": [
+                        26.145573,
+                        44.536126
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "Eine historische Militärstruktur zwischen den Forts in Ștefăneștii de Jos.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
+                  ]
             }
       ],
       "hu": [
@@ -9956,6 +14786,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.167313,
                         44.527619
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 4 -5",
+                  "text": "Bukarest régi erődítményrendszerének része Ștefăneștii de Jos területén.",
+                  "category": "fortress",
+                  "coords": [
+                        26.145573,
+                        44.536126
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "Történelmi katonai építmény az erődök között Ștefăneștii de Jos területén.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
                   ]
             }
       ],
@@ -9969,6 +14817,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.167313,
                         44.527619
                   ]
+            },
+            {
+                  "name": "Bateria Nr. 4 -5",
+                  "text": "O baterie de artilerie parte a vechiului sistem de fortificații al Bucureștiului.",
+                  "category": "fortress",
+                  "coords": [
+                        26.145573,
+                        44.536126
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "O structură militară istorică situată între forturile din Ștefăneștii de Jos.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
+                  ]
             }
       ],
       "en": [
@@ -9980,6 +14846,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.167313,
                         44.527619
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 4 -5",
+                  "text": "An artillery battery part of the old fortification system of Bucharest.",
+                  "category": "fortress",
+                  "coords": [
+                        26.145573,
+                        44.536126
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 5 - 6",
+                  "text": "A historical military structure located between the forts in Ștefăneștii de Jos.",
+                  "category": "fortress",
+                  "coords": [
+                        26.183158,
+                        44.517387
                   ]
             }
       ]
@@ -10040,6 +14924,42 @@ export const romaniaCitiesV2: POI[] = [
                         26.120963,
                         44.540966
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică București",
+                  "text": "Der Zoo von Bukarest in Tunari beherbergt eine Vielzahl heimischer und exotischer Tiere.",
+                  "category": "recreational",
+                  "coords": [
+                        26.104408,
+                        44.517083
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicațiilor și Informaticii \"General-maior Ion Cerăceanu\"",
+                  "text": "Ein Fachmuseum in Tunari, das sich mit der Geschichte der Kommunikation und Informationstechnologie befasst.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "Überreste des Forts Nr. 3 in der Nähe von Otopeni und Tunari.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073933,
+                        44.539278
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 3 - 4",
+                  "text": "Ein Teil der historischen Verteidigungsbatterien im Tunari-Otopeni-Sektor.",
+                  "category": "fortress",
+                  "coords": [
+                        26.099208,
+                        44.54036
+                  ]
             }
       ],
       "hu": [
@@ -10051,6 +14971,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.120963,
                         44.540966
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică București",
+                  "text": "A bukaresti állatkert Tunari területén számos őshonos és egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        26.104408,
+                        44.517083
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicațiilor și Informaticii \"General-maior Ion Cerăceanu\"",
+                  "text": "Speciális múzeum Tunari községben, amely a távközlés és az informatika történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "Az Otopeni és Tunari közelében található 3-as számú erőd maradványai.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073933,
+                        44.539278
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 3 - 4",
+                  "text": "A Tunari-Otopeni szektor történelmi védelmi ütegeinek egy része.",
+                  "category": "fortress",
+                  "coords": [
+                        26.099208,
+                        44.54036
                   ]
             }
       ],
@@ -10064,6 +15020,42 @@ export const romaniaCitiesV2: POI[] = [
                         26.120963,
                         44.540966
                   ]
+            },
+            {
+                  "name": "Grădina Zoologică București",
+                  "text": "Grădina Zoologică din București, situată în Tunari, găzduiește o varietate de specii indigene și exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        26.104408,
+                        44.517083
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicațiilor și Informaticii \"General-maior Ion Cerăceanu\"",
+                  "text": "Un muzeu specializat în Tunari, axat pe istoria comunicațiilor și a tehnologiei informației.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "Rămășițele fortului nr. 3 situat în apropierea localităților Otopeni și Tunari.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073933,
+                        44.539278
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 3 - 4",
+                  "text": "O parte a bateriilor de apărare istorice din sectorul Tunari-Otopeni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.099208,
+                        44.54036
+                  ]
             }
       ],
       "en": [
@@ -10075,6 +15067,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.120963,
                         44.540966
+                  ]
+            },
+            {
+                  "name": "Bucharest Zoo",
+                  "text": "The Bucharest Zoo in Tunari is home to a variety of native and exotic animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        26.104408,
+                        44.517083
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunicațiilor și Informaticii \"General-maior Ion Cerăceanu\"",
+                  "text": "A specialized museum in Tunari focused on the history of communications and information technology.",
+                  "category": "museum",
+                  "coords": [
+                        26.071798,
+                        44.536058
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 3 Otopeni",
+                  "text": "The remains of Fort No. 3 located near Otopeni and Tunari.",
+                  "category": "fortress",
+                  "coords": [
+                        26.073933,
+                        44.539278
+                  ]
+            },
+            {
+                  "name": "Bateria Nr. 3 - 4",
+                  "text": "A part of the historic defensive batteries in the Tunari-Otopeni sector.",
+                  "category": "fortress",
+                  "coords": [
+                        26.099208,
+                        44.54036
                   ]
             }
       ]
@@ -10581,10 +15609,50 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-petrachioaia-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Eine orthodoxe Kirche in Petrăchioaia, gewidmet der Entschlafung der Gottesmutter.",
+                  "category": "religious",
+                  "coords": [
+                        26.31146,
+                        44.583711
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "Mária elszenderedésének szentelt ortodox templom Petrăchioaia községben.",
+                  "category": "religious",
+                  "coords": [
+                        26.31146,
+                        44.583711
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "O biserică ortodoxă din Petrăchioaia cu hramul Adormirea Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        26.31146,
+                        44.583711
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biserica „Adormirea Maicii Domnului”",
+                  "text": "An Orthodox church in Petrăchioaia dedicated to the Dormition of the Theotokos.",
+                  "category": "religious",
+                  "coords": [
+                        26.31146,
+                        44.583711
+                  ]
+            }
+      ]
 }
   },
   {
@@ -10662,6 +15730,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.084315,
                         44.729112
                   ]
+            },
+            {
+                  "name": "Palatul Scroviștea",
+                  "text": "Ein rumänischer Königspalast in Ciolpani, der als Staatsresidenz dient.",
+                  "category": "castle",
+                  "coords": [
+                        26.050876,
+                        44.721643
+                  ]
+            },
+            {
+                  "name": "Fostul Schit Bălteni",
+                  "text": "Die Überreste einer ehemaligen Einsiedelei in Bălteni, Gemeinde Ciolpani.",
+                  "category": "historical",
+                  "coords": [
+                        26.031159,
+                        44.709385
+                  ]
             }
       ],
       "hu": [
@@ -10693,6 +15779,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.084315,
                         44.729112
+                  ]
+            },
+            {
+                  "name": "Palatul Scroviștea",
+                  "text": "Egy román királyi palota Ciolpani községben, amely állami rezidenciaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        26.050876,
+                        44.721643
+                  ]
+            },
+            {
+                  "name": "Fostul Schit Bălteni",
+                  "text": "Egy egykori remetelak maradványai Bălteni faluban, Ciolpani községben.",
+                  "category": "historical",
+                  "coords": [
+                        26.031159,
+                        44.709385
                   ]
             }
       ],
@@ -10726,6 +15830,24 @@ export const romaniaCitiesV2: POI[] = [
                         26.084315,
                         44.729112
                   ]
+            },
+            {
+                  "name": "Palatul Scroviștea",
+                  "text": "Un palat regal românesc situat în Ciolpani, care servește drept reședință de stat.",
+                  "category": "castle",
+                  "coords": [
+                        26.050876,
+                        44.721643
+                  ]
+            },
+            {
+                  "name": "Fostul Schit Bălteni",
+                  "text": "Rămășițele unui fost schit situat în Bălteni, comuna Ciolpani.",
+                  "category": "historical",
+                  "coords": [
+                        26.031159,
+                        44.709385
+                  ]
             }
       ],
       "en": [
@@ -10757,6 +15879,24 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.084315,
                         44.729112
+                  ]
+            },
+            {
+                  "name": "Scrovistea Palace",
+                  "text": "A Romanian royal palace in Ciolpani, serving as a state residence.",
+                  "category": "castle",
+                  "coords": [
+                        26.050876,
+                        44.721643
+                  ]
+            },
+            {
+                  "name": "Fostul Schit Bălteni",
+                  "text": "The remains of a former hermitage located in Bălteni, Ciolpani commune.",
+                  "category": "historical",
+                  "coords": [
+                        26.031159,
+                        44.709385
                   ]
             }
       ]
@@ -10953,10 +16093,50 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-cornetu-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Argedava",
+                  "text": "Eine bedeutende getisch-dakische archäologische Ausgrabungsstätte in Cornetu.",
+                  "category": "historical",
+                  "coords": [
+                        25.96479,
+                        44.313038
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Argedava",
+                  "text": "Jelentős géta-dák régészeti lelőhely Cornetu környékén.",
+                  "category": "historical",
+                  "coords": [
+                        25.96479,
+                        44.313038
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Argedava",
+                  "text": "Un important sit arheologic geto-dac situat în localitatea Cornetu.",
+                  "category": "historical",
+                  "coords": [
+                        25.96479,
+                        44.313038
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Argedava",
+                  "text": "An important Getae-Dacian archaeological site located in Cornetu.",
+                  "category": "historical",
+                  "coords": [
+                        25.96479,
+                        44.313038
+                  ]
+            }
+      ]
 }
   },
   {
@@ -11044,6 +16224,42 @@ export const romaniaCitiesV2: POI[] = [
                         26.243955,
                         44.436858
                   ]
+            },
+            {
+                  "name": "Fortul Nr. 10 Leordeni",
+                  "text": "Eine historische Festungsanlage im Cernica-Wald bei Leordeni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.219631,
+                        44.374212
+                  ]
+            },
+            {
+                  "name": "Bateria 9-10 Cățelu",
+                  "text": "Ein Teil der ehemaligen Bukarester Befestigungsanlagen in der Nähe von Cățelu.",
+                  "category": "fortress",
+                  "coords": [
+                        26.235881,
+                        44.406557
+                  ]
+            },
+            {
+                  "name": "Pivnițele boltite ale conacului\tManu",
+                  "text": "Historische Gewölbekeller des ehemaligen Manu-Herrenhauses in Cernica.",
+                  "category": "historical",
+                  "coords": [
+                        26.21237,
+                        44.384715
+                  ]
+            },
+            {
+                  "name": "SUNRISE Pumptrack",
+                  "text": "Eine moderne Freizeiteinrichtung für Radfahrer in Cernica.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193871,
+                        44.401867
+                  ]
             }
       ],
       "hu": [
@@ -11085,6 +16301,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.243955,
                         44.436858
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 10 Leordeni",
+                  "text": "Történelmi erődítmény a Cernica-erdőben, Leordeni közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        26.219631,
+                        44.374212
+                  ]
+            },
+            {
+                  "name": "Bateria 9-10 Cățelu",
+                  "text": "A bukaresti egykori erődítményrendszer egy része Cățelu közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        26.235881,
+                        44.406557
+                  ]
+            },
+            {
+                  "name": "Pivnițele boltite ale conacului\tManu",
+                  "text": "A cernicai egykori Manu-conac történelmi boltozatos pincéi.",
+                  "category": "historical",
+                  "coords": [
+                        26.21237,
+                        44.384715
+                  ]
+            },
+            {
+                  "name": "SUNRISE Pumptrack",
+                  "text": "Modern szabadidős létesítmény kerékpárosok számára Cernica területén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193871,
+                        44.401867
                   ]
             }
       ],
@@ -11128,6 +16380,42 @@ export const romaniaCitiesV2: POI[] = [
                         26.243955,
                         44.436858
                   ]
+            },
+            {
+                  "name": "Fortul Nr. 10 Leordeni",
+                  "text": "O fortificație istorică situată în pădurea Cernica, lângă Leordeni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.219631,
+                        44.374212
+                  ]
+            },
+            {
+                  "name": "Bateria 9-10 Cățelu",
+                  "text": "O parte a fostelor fortificații bucureștene, situată în apropiere de Cățelu.",
+                  "category": "fortress",
+                  "coords": [
+                        26.235881,
+                        44.406557
+                  ]
+            },
+            {
+                  "name": "Pivnițele boltite ale conacului\tManu",
+                  "text": "Pivnițele boltite istorice ale fostului conac Manu din Cernica.",
+                  "category": "historical",
+                  "coords": [
+                        26.21237,
+                        44.384715
+                  ]
+            },
+            {
+                  "name": "SUNRISE Pumptrack",
+                  "text": "O facilitate modernă de recreere pentru bicicliști situată în Cernica.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193871,
+                        44.401867
+                  ]
             }
       ],
       "en": [
@@ -11169,6 +16457,42 @@ export const romaniaCitiesV2: POI[] = [
                   "coords": [
                         26.243955,
                         44.436858
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 10 Leordeni",
+                  "text": "A historic fortification located in the Cernica forest near Leordeni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.219631,
+                        44.374212
+                  ]
+            },
+            {
+                  "name": "Bateria 9-10 Cățelu",
+                  "text": "A part of the former Bucharest fortifications, located near Cățelu.",
+                  "category": "fortress",
+                  "coords": [
+                        26.235881,
+                        44.406557
+                  ]
+            },
+            {
+                  "name": "Pivnițele boltite ale conacului\tManu",
+                  "text": "The historic vaulted cellars of the former Manu manor in Cernica.",
+                  "category": "historical",
+                  "coords": [
+                        26.21237,
+                        44.384715
+                  ]
+            },
+            {
+                  "name": "SUNRISE Pumptrack",
+                  "text": "A modern recreational facility for cyclists located in Cernica.",
+                  "category": "landmark",
+                  "coords": [
+                        26.193871,
+                        44.401867
                   ]
             }
       ]
@@ -11314,10 +16638,122 @@ export const romaniaCitiesV2: POI[] = [
     },
     image: "/poi-images/romania-berceni-cities-v2.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Bateria 11-12",
+                  "text": "Eine historische Militärbatterie in der Nähe der Gemeinde Berceni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.173788,
+                        44.343789
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 12 Berceni",
+                  "text": "Fort Nr. 12, Teil des ehemaligen Befestigungssystems um Bukarest in Berceni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.153267,
+                        44.336261
+                  ]
+            },
+            {
+                  "name": "Bateria 12-13",
+                  "text": "Eine militärische Befestigungsstruktur im Sektor Berceni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.132538,
+                        44.334307
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bateria 11-12",
+                  "text": "Történelmi katonai üteg Berceni község közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        26.173788,
+                        44.343789
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 12 Berceni",
+                  "text": "A 12-es számú erőd, a Bukarest körüli egykori erődrendszer része Berceniben.",
+                  "category": "fortress",
+                  "coords": [
+                        26.153267,
+                        44.336261
+                  ]
+            },
+            {
+                  "name": "Bateria 12-13",
+                  "text": "Katonai erődítményi építmény a Berceni szektorban.",
+                  "category": "fortress",
+                  "coords": [
+                        26.132538,
+                        44.334307
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bateria 11-12",
+                  "text": "O baterie militară istorică situată în apropierea comunei Berceni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.173788,
+                        44.343789
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 12 Berceni",
+                  "text": "Fortul nr. 12 Berceni, parte a centurii de fortificații a Bucureștiului.",
+                  "category": "fortress",
+                  "coords": [
+                        26.153267,
+                        44.336261
+                  ]
+            },
+            {
+                  "name": "Bateria 12-13",
+                  "text": "O structură de fortificație militară situată în sectorul Berceni.",
+                  "category": "fortress",
+                  "coords": [
+                        26.132538,
+                        44.334307
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bateria 11-12",
+                  "text": "A historical military battery located near the Berceni commune.",
+                  "category": "fortress",
+                  "coords": [
+                        26.173788,
+                        44.343789
+                  ]
+            },
+            {
+                  "name": "Fortul Nr. 12 Berceni",
+                  "text": "Fort No. 12 Berceni, part of the fortification ring around Bucharest.",
+                  "category": "fortress",
+                  "coords": [
+                        26.153267,
+                        44.336261
+                  ]
+            },
+            {
+                  "name": "Bateria 12-13",
+                  "text": "A military fortification structure located in the Berceni sector.",
+                  "category": "fortress",
+                  "coords": [
+                        26.132538,
+                        44.334307
+                  ]
+            }
+      ]
 }
   },
   {

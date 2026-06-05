@@ -42,7 +42,1924 @@ export const swedenCountry: POI = {
 
 export const swedenRegions: POI[] = [
   {
-    id: "city-stockholm",
+    id: "city-stockholm", "sights": {
+      "de": [
+            {
+                  "name": "Moderna museet",
+                  "text": "Stockholms Museum für moderne und zeitgenössische Kunst auf der Insel Skeppsholmen.",
+                  "category": "museum",
+                  "coords": [
+                        18.084,
+                        59.326349
+                  ]
+            },
+            {
+                  "name": "Carl Eldhs Ateljémuseum",
+                  "text": "Das ehemalige Atelier des Bildhauers Carl Eldh, heute ein Museum in Stockholm.",
+                  "category": "museum",
+                  "coords": [
+                        18.051622,
+                        59.352867
+                  ]
+            },
+            {
+                  "name": "Armémuseum",
+                  "text": "Das schwedische Armeemuseum in Stockholm zeigt die Militärgeschichte des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        18.080258,
+                        59.334761
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum",
+                  "text": "Ein Museum in Stockholm, das der jüdischen Kultur und Geschichte in Schweden gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.073017,
+                        59.323832
+                  ]
+            },
+            {
+                  "name": "Strindbergsmuseet",
+                  "text": "Das Museum befindet sich in der ehemaligen Wohnung des berühmten Schriftstellers August Strindberg.",
+                  "category": "museum",
+                  "coords": [
+                        18.056614,
+                        59.338533
+                  ]
+            },
+            {
+                  "name": "Stadsmuseet i Stockholm",
+                  "text": "Ein Museum, das die Entwicklung und Geschichte der Stadt Stockholm dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.071261,
+                        59.319595
+                  ]
+            },
+            {
+                  "name": "Postmuseum",
+                  "text": "Ein Museum in Stockholm, das die Geschichte der schwedischen Post zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.068001,
+                        59.324085
+                  ]
+            },
+            {
+                  "name": "Nobelmuseum",
+                  "text": "Dieses Museum in der Altstadt widmet sich dem Nobelpreis und seinen Preisträgern.",
+                  "category": "museum",
+                  "coords": [
+                        18.070831,
+                        59.325215
+                  ]
+            },
+            {
+                  "name": "Waffenkammer",
+                  "text": "Schwedens ältestes Museum zeigt königliche Waffen, Rüstungen und Prunkwagen.",
+                  "category": "museum",
+                  "coords": [
+                        18.073078,
+                        59.326615
+                  ]
+            },
+            {
+                  "name": "Tre Kronor",
+                  "text": "Das Museum zeigt die Geschichte des ursprünglichen Schlosses Tre Kronor, das 1697 durch einen Brand zerstört wurde.",
+                  "category": "museum",
+                  "coords": [
+                        18.071053,
+                        59.327411
+                  ]
+            },
+            {
+                  "name": "Medelhavsmuseet",
+                  "text": "Dieses Museum beherbergt bedeutende Sammlungen archäologischer Funde aus dem Mittelmeerraum und dem Nahen Osten.",
+                  "category": "museum",
+                  "coords": [
+                        18.067298,
+                        59.329453
+                  ]
+            },
+            {
+                  "name": "Dansmuseet",
+                  "text": "Ein Museum, das sich der Geschichte des Tanzes und der darstellenden Kunst aus aller Welt widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.065337,
+                        59.329742
+                  ]
+            },
+            {
+                  "name": "Scenkonstmuseet",
+                  "text": "Dieses interaktive Museum präsentiert die Geschichte von Theater, Tanz und Musik in Schweden.",
+                  "category": "museum",
+                  "coords": [
+                        18.078301,
+                        59.33372
+                  ]
+            },
+            {
+                  "name": "Polismuseet",
+                  "text": "Das Museum zeigt die Entwicklung und Geschichte der schwedischen Polizei von früher bis heute.",
+                  "category": "museum",
+                  "coords": [
+                        18.118473,
+                        59.333116
+                  ]
+            },
+            {
+                  "name": "Riksidrottsmuseum",
+                  "text": "Ein Nationalmuseum, das die Geschichte und die Helden des schwedischen Sports feiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.117001,
+                        59.333213
+                  ]
+            },
+            {
+                  "name": "Fotografiska",
+                  "text": "Ein weltweit bekanntes Zentrum für zeitgenössische Fotografie mit wechselnden Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        18.084701,
+                        59.318004
+                  ]
+            },
+            {
+                  "name": "Östasiatiska museet",
+                  "text": "Das Museum zeigt eine umfangreiche Sammlung von Kunst und Archäologie aus Ostasien.",
+                  "category": "museum",
+                  "coords": [
+                        18.081674,
+                        59.327385
+                  ]
+            },
+            {
+                  "name": "Gustav III:s antikmuseum",
+                  "text": "Dieses im Königlichen Schloss untergebrachte Museum zeigt die antiken Skulpturensammlungen von König Gustav III.",
+                  "category": "museum",
+                  "coords": [
+                        18.072054,
+                        59.327542
+                  ]
+            },
+            {
+                  "name": "Skattkammaren",
+                  "text": "Hier werden die schwedischen Kronjuwelen und königlichen Insignien in den Kellergewölben des Schlosses aufbewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        18.072062,
+                        59.326337
+                  ]
+            },
+            {
+                  "name": "Spritmuseum",
+                  "text": "Ein Museum, das sich der Geschichte und Kultur der Spirituosen in Schweden widmet.",
+                  "category": "museum",
+                  "coords": [
+                        18.0938,
+                        59.327029
+                  ]
+            },
+            {
+                  "name": "Stigbergets borgarrum",
+                  "text": "Ein historisches bürgerliches Interieur aus dem 19. Jahrhundert auf dem Södermalm-Hügel.",
+                  "category": "museum",
+                  "coords": [
+                        18.087109,
+                        59.317217
+                  ]
+            },
+            {
+                  "name": "Ritterhaus",
+                  "text": "Ein prächtiges Gebäude des schwedischen Adels, bekannt für seine Architektur und Wappensammlung.",
+                  "category": "castle",
+                  "coords": [
+                        18.06572,
+                        59.325931
+                  ]
+            },
+            {
+                  "name": "Sjöhistoriska museet",
+                  "text": "Das Museum dokumentiert die Geschichte der schwedischen Marine und der Handelsschifffahrt.",
+                  "category": "museum",
+                  "coords": [
+                        18.11581,
+                        59.332502
+                  ]
+            },
+            {
+                  "name": "Etnografiska museet",
+                  "text": "Es beherbergt Sammlungen von Objekten aus Kulturen aus der ganzen Welt.",
+                  "category": "museum",
+                  "coords": [
+                        18.12071,
+                        59.332558
+                  ]
+            },
+            {
+                  "name": "Schering Rosenhanes palats",
+                  "text": "Ein historisches Stadtpalais auf Riddarholmen, das im 17. Jahrhundert erbaut wurde.",
+                  "category": "castle",
+                  "coords": [
+                        18.062629,
+                        59.32569
+                  ]
+            },
+            {
+                  "name": "Hessensteinska palatset",
+                  "text": "Ein elegantes barockes Palais auf der Insel Riddarholmen in Stockholm.",
+                  "category": "castle",
+                  "coords": [
+                        18.064575,
+                        59.325283
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum",
+                  "text": "Schwedens führendes Kunstmuseum beherbergt Sammlungen von Gemälden, Skulpturen und Kunsthandwerk.",
+                  "category": "museum",
+                  "coords": [
+                        18.078182,
+                        59.328481
+                  ]
+            },
+            {
+                  "name": "Waldemarsudde",
+                  "text": "Das ehemalige Wohnhaus von Prinz Eugen ist heute ein bedeutendes Kunstmuseum mit einem schönen Garten.",
+                  "category": "museum",
+                  "coords": [
+                        18.113734,
+                        59.320004
+                  ]
+            },
+            {
+                  "name": "Wetterling",
+                  "text": "Eine renommierte Galerie für zeitgenössische Kunst im Zentrum von Stockholm.",
+                  "category": "museum",
+                  "coords": [
+                        18.070263,
+                        59.331455
+                  ]
+            },
+            {
+                  "name": "Nils Ericson",
+                  "text": "Ein Denkmal zu Ehren von Nils Ericson, einem Pionier des schwedischen Eisenbahnwesens.",
+                  "category": "historical",
+                  "coords": [
+                        18.058948,
+                        59.330454
+                  ]
+            },
+            {
+                  "name": "Teater Galeasen",
+                  "text": "Ein unabhängiges Theater in Stockholm, das für seine innovativen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        18.083358,
+                        59.3273
+                  ]
+            },
+            {
+                  "name": "Kungliga Operan",
+                  "text": "Das schwedische Nationaltheater für Oper und Ballett mit einer langen Tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        18.069959,
+                        59.329644
+                  ]
+            },
+            {
+                  "name": "China Teatern",
+                  "text": "Ein historisches Privattheater, das für Musicals, Revuen und Komödien bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073333,
+                        59.332513
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "Ein beliebtes Theater in Stockholm, das eine Vielzahl von Unterhaltungsprogrammen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.088948,
+                        59.336908
+                  ]
+            },
+            {
+                  "name": "Teatern Gröna Lund",
+                  "text": "Dieses Theater befindet sich im Vergnügungspark Gröna Lund auf der Insel Djurgården.",
+                  "category": "cultural",
+                  "coords": [
+                        18.096603,
+                        59.324355
+                  ]
+            },
+            {
+                  "name": "Oscarsteatern",
+                  "text": "Ein prachtvolles Jugendstil-Theater, das hauptsächlich für Musicals genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056028,
+                        59.333467
+                  ]
+            },
+            {
+                  "name": "Strindbergs Intima Teater",
+                  "text": "Ein kleines Theater, das 1907 von August Strindberg gegründet wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        18.053751,
+                        59.335512
+                  ]
+            },
+            {
+                  "name": "Orionteatern",
+                  "text": "Ein experimentelles Theater, das oft unkonventionelle Räume für seine Stücke nutzt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.090176,
+                        59.308295
+                  ]
+            },
+            {
+                  "name": "Teaterverket",
+                  "text": "Eine unabhängige Theatergruppe und Spielstätte im Stadtteil Vasastan.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056076,
+                        59.343856
+                  ]
+            },
+            {
+                  "name": "Folkoperan",
+                  "text": "Ein Opernhaus, das dafür bekannt ist, Opern für ein breiteres Publikum zugänglich zu machen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.058252,
+                        59.318468
+                  ]
+            },
+            {
+                  "name": "Göta Lejon",
+                  "text": "Ein bekanntes Privattheater auf Södermalm, das oft große Musical-Produktionen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073898,
+                        59.313872
+                  ]
+            },
+            {
+                  "name": "Intiman",
+                  "text": "Ein klassisches Stockholmer Theater, das am Odenplan liegt.",
+                  "category": "cultural",
+                  "coords": [
+                        18.048175,
+                        59.342012
+                  ]
+            },
+            {
+                  "name": "Stockholms Stadsteater",
+                  "text": "Das große Stadttheater von Stockholm im Kulturhuset am Sergels torg.",
+                  "category": "cultural",
+                  "coords": [
+                        18.064506,
+                        59.331899
+                  ]
+            },
+            {
+                  "name": "Brunnsgatan fyra",
+                  "text": "Ein kleines, renommiertes Privattheater im Zentrum von Stockholm.",
+                  "category": "cultural",
+                  "coords": [
+                        18.070001,
+                        59.336792
+                  ]
+            },
+            {
+                  "name": "Berwaldhallen",
+                  "text": "Ein moderner Konzertsaal und Sitz des Schwedischen Radio-Symphonieorchesters.",
+                  "category": "cultural",
+                  "coords": [
+                        18.100424,
+                        59.333326
+                  ]
+            },
+            {
+                  "name": "Cirkus",
+                  "text": "Ein großer Veranstaltungsort auf Djurgården, der für Konzerte und Shows genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        18.099966,
+                        59.324893
+                  ]
+            },
+            {
+                  "name": "Konserthuset",
+                  "text": "Der markante blaue Bau am Hötorget ist der Hauptsaal für klassische Musik in Stockholm.",
+                  "category": "cultural",
+                  "coords": [
+                        18.06317,
+                        59.33508
+                  ]
+            },
+            {
+                  "name": "Dramaten",
+                  "text": "Schwedens Nationalbühne für das gesprochene Drama in einem prächtigem Jugendstilgebäude.",
+                  "category": "cultural",
+                  "coords": [
+                        18.077024,
+                        59.333283
+                  ]
+            },
+            {
+                  "name": "Kungsholms baptistkyrka",
+                  "text": "Eine historische baptistische Kirche im Stadtteil Kungsholmen.",
+                  "category": "religious",
+                  "coords": [
+                        18.035493,
+                        59.330826
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "Eine lutherische Kirche im Stadtteil Gärdet in Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.087922,
+                        59.344977
+                  ]
+            },
+            {
+                  "name": "We Are One Church",
+                  "text": "Eine moderne christliche Gemeinde auf Södermalm, früher bekannt als Södermalmskyrkan.",
+                  "category": "religious",
+                  "coords": [
+                        18.076057,
+                        59.309424
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "Eine zentral gelegene Kirche in Stockholm, die auch als Veranstaltungsort dient.",
+                  "category": "religious",
+                  "coords": [
+                        18.059156,
+                        59.337152
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Diese Kirche im Zentrum von Stockholm gehört zur Equmeniakyrkan.",
+                  "category": "religious",
+                  "coords": [
+                        18.058582,
+                        59.342848
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Moderna museet",
+                  "text": "Stockholm modern és kortárs művészeti múzeuma Skeppsholmen szigetén.",
+                  "category": "museum",
+                  "coords": [
+                        18.084,
+                        59.326349
+                  ]
+            },
+            {
+                  "name": "Carl Eldhs Ateljémuseum",
+                  "text": "Carl Eldh szobrászművész egykori műterme, ma múzeum Stockholmban.",
+                  "category": "museum",
+                  "coords": [
+                        18.051622,
+                        59.352867
+                  ]
+            },
+            {
+                  "name": "Armémuseum",
+                  "text": "A svéd hadtörténeti múzeum Stockholmban az ország katonai múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.080258,
+                        59.334761
+                  ]
+            },
+            {
+                  "name": "Judiska muséet",
+                  "text": "Stockholmi múzeum, amely a svédországi zsidó kultúrának és történelemnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        18.073017,
+                        59.323832
+                  ]
+            },
+            {
+                  "name": "Strindbergsmuseet",
+                  "text": "A múzeum a híres író, August Strindberg egykori lakásában található.",
+                  "category": "museum",
+                  "coords": [
+                        18.056614,
+                        59.338533
+                  ]
+            },
+            {
+                  "name": "Stadsmuseet i Stockholm",
+                  "text": "Múzeum, amely Stockholm városának fejlődését és történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        18.071261,
+                        59.319595
+                  ]
+            },
+            {
+                  "name": "Postmuseum",
+                  "text": "Stockholmi múzeum, amely a svéd posta történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.068001,
+                        59.324085
+                  ]
+            },
+            {
+                  "name": "Nobelprismuseet",
+                  "text": "Ez az óvárosi múzeum a Nobel-díjnak és a díjazottak munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        18.070831,
+                        59.325215
+                  ]
+            },
+            {
+                  "name": "Livrustkammaren",
+                  "text": "Svédország legrégebbi múzeuma királyi fegyvereket, páncélokat és díszhintókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        18.073078,
+                        59.326615
+                  ]
+            },
+            {
+                  "name": "Tre Kronor",
+                  "text": "A múzeum az eredeti, 1697-ben leégett Tre Kronor palota történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.071053,
+                        59.327411
+                  ]
+            },
+            {
+                  "name": "Medelhavsmuseet",
+                  "text": "A múzeum a Földközi-tenger térségéből és a Közel-Keletről származó jelentős régészeti gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.067298,
+                        59.329453
+                  ]
+            },
+            {
+                  "name": "Dansmuseet",
+                  "text": "A tánc történetének és a világ minden tájáról származó előadóművészeteknek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.065337,
+                        59.329742
+                  ]
+            },
+            {
+                  "name": "Scenkonstmuseet",
+                  "text": "Ez az interaktív múzeum a svéd színház, tánc és zene történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.078301,
+                        59.33372
+                  ]
+            },
+            {
+                  "name": "Polismuseet",
+                  "text": "A múzeum a svéd rendőrség fejlődését és történetét mutatja be a kezdetektől napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        18.118473,
+                        59.333116
+                  ]
+            },
+            {
+                  "name": "Riksidrottsmuseum",
+                  "text": "Nemzeti múzeum, amely a svéd sport történetét és hőseit ünnepli.",
+                  "category": "museum",
+                  "coords": [
+                        18.117001,
+                        59.333213
+                  ]
+            },
+            {
+                  "name": "Fotografiska",
+                  "text": "Világhírű kortárs fotóművészeti központ változatos időszaki kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        18.084701,
+                        59.318004
+                  ]
+            },
+            {
+                  "name": "Östasiatiska museet",
+                  "text": "A múzeum kelet-ázsiai művészeti és régészeti tárgyak gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.081674,
+                        59.327385
+                  ]
+            },
+            {
+                  "name": "Gustav III:s antikmuseum",
+                  "text": "A királyi palotában található múzeum III. Gusztáv király antik szoborgyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.072054,
+                        59.327542
+                  ]
+            },
+            {
+                  "name": "Skattkammaren",
+                  "text": "A palota boltíves pincéiben itt őrzik a svéd koronaékszereket és a királyi jelvényeket.",
+                  "category": "museum",
+                  "coords": [
+                        18.072062,
+                        59.326337
+                  ]
+            },
+            {
+                  "name": "Spritmuseum",
+                  "text": "A svéd szeszesital-kultúra történetének és hagyományainak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.0938,
+                        59.327029
+                  ]
+            },
+            {
+                  "name": "Stigbergets borgarrum",
+                  "text": "19. századi polgári lakásbelsőt bemutató múzeum a Södermalm-dombon.",
+                  "category": "museum",
+                  "coords": [
+                        18.087109,
+                        59.317217
+                  ]
+            },
+            {
+                  "name": "Riddarhuset",
+                  "text": "A svéd nemesség díszes palotája, amely építészetéről és címergyűjteményéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        18.06572,
+                        59.325931
+                  ]
+            },
+            {
+                  "name": "Sjöhistoriska museet",
+                  "text": "A múzeum a svéd haditengerészet és a kereskedelmi hajózás történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        18.11581,
+                        59.332502
+                  ]
+            },
+            {
+                  "name": "Etnografiska museet",
+                  "text": "A világ minden tájáról származó kultúrák használati tárgyait és művészeti emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        18.12071,
+                        59.332558
+                  ]
+            },
+            {
+                  "name": "Schering Rosenhanes palats",
+                  "text": "Történelmi városi palota a Riddarholmen-szigeten, amely a 17. században épült.",
+                  "category": "castle",
+                  "coords": [
+                        18.062629,
+                        59.32569
+                  ]
+            },
+            {
+                  "name": "Hessensteinska palatset",
+                  "text": "Elegáns barokk palota Stockholm Riddarholmen szigetén.",
+                  "category": "castle",
+                  "coords": [
+                        18.064575,
+                        59.325283
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum",
+                  "text": "Svédország vezető művészeti múzeuma festmény-, szobor- és iparművészeti gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        18.078182,
+                        59.328481
+                  ]
+            },
+            {
+                  "name": "Waldemarsudde",
+                  "text": "Jenő herceg egykori otthona ma jelentős művészeti múzeum gyönyörű kerttel.",
+                  "category": "museum",
+                  "coords": [
+                        18.113734,
+                        59.320004
+                  ]
+            },
+            {
+                  "name": "Wetterling",
+                  "text": "Neves kortárs művészeti galéria Stockholm központjában.",
+                  "category": "museum",
+                  "coords": [
+                        18.070263,
+                        59.331455
+                  ]
+            },
+            {
+                  "name": "Nils Ericson",
+                  "text": "Emlékmű Nils Ericson, a svéd vasútépítés úttörőjének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        18.058948,
+                        59.330454
+                  ]
+            },
+            {
+                  "name": "Teater Galeasen",
+                  "text": "Innovatív előadásairól ismert független színház Stockholmban.",
+                  "category": "cultural",
+                  "coords": [
+                        18.083358,
+                        59.3273
+                  ]
+            },
+            {
+                  "name": "Kungliga Operan",
+                  "text": "A svéd nemzeti operaház és balettszínház, amely nagy múltú hagyományokkal rendelkezik.",
+                  "category": "cultural",
+                  "coords": [
+                        18.069959,
+                        59.329644
+                  ]
+            },
+            {
+                  "name": "China Teatern",
+                  "text": "Történelmi magánszínház, amely musicaljeiről, revüiről és vígjátékairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073333,
+                        59.332513
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "Népszerű stockholmi színház, amely változatos szórakoztató műsorokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        18.088948,
+                        59.336908
+                  ]
+            },
+            {
+                  "name": "Teatern Gröna Lund",
+                  "text": "Ez a színház a Gröna Lund vidámpark területén található, Djurgården szigetén.",
+                  "category": "cultural",
+                  "coords": [
+                        18.096603,
+                        59.324355
+                  ]
+            },
+            {
+                  "name": "Oscarsteatern",
+                  "text": "Pompás szecessziós színház, amelyet főként musicalek bemutatására használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056028,
+                        59.333467
+                  ]
+            },
+            {
+                  "name": "Strindbergs Intima Teater",
+                  "text": "Kis színház, amelyet August Strindberg alapított 1907-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.053751,
+                        59.335512
+                  ]
+            },
+            {
+                  "name": "Orionteatern",
+                  "text": "Kísérletező színház, amely gyakran szokatlan tereket használ előadásaihoz.",
+                  "category": "cultural",
+                  "coords": [
+                        18.090176,
+                        59.308295
+                  ]
+            },
+            {
+                  "name": "Teaterverket",
+                  "text": "Független színtársulat és játszóhely Stockholm Vasastan negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056076,
+                        59.343856
+                  ]
+            },
+            {
+                  "name": "Folkoperan",
+                  "text": "Operaház, amely arról ismert, hogy az operát szélesebb közönség számára is elérhetővé teszi.",
+                  "category": "cultural",
+                  "coords": [
+                        18.058252,
+                        59.318468
+                  ]
+            },
+            {
+                  "name": "Göta Lejon",
+                  "text": "Ismert magánszínház Södermalm negyedben, amely gyakran nagy musicalprodukcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073898,
+                        59.313872
+                  ]
+            },
+            {
+                  "name": "Intiman",
+                  "text": "Klasszikus stockholmi színház az Odenplan térnél.",
+                  "category": "cultural",
+                  "coords": [
+                        18.048175,
+                        59.342012
+                  ]
+            },
+            {
+                  "name": "Stockholms Stadsteater",
+                  "text": "Stockholm nagyméretű városi színháza a Sergels torgnál található Kulturhusetben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.064506,
+                        59.331899
+                  ]
+            },
+            {
+                  "name": "Brunnsgatan fyra",
+                  "text": "Kicsi, de neves magánszínház Stockholm központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        18.070001,
+                        59.336792
+                  ]
+            },
+            {
+                  "name": "Berwaldhallen",
+                  "text": "Modern koncertterem, a Svéd Rádió Szimfonikus Zenekarának székhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        18.100424,
+                        59.333326
+                  ]
+            },
+            {
+                  "name": "Cirkus",
+                  "text": "Nagy rendezvényhelyszín Djurgården szigetén, koncertek és show-műsorok otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        18.099966,
+                        59.324893
+                  ]
+            },
+            {
+                  "name": "Konserthuset",
+                  "text": "A Hötorgetnél található jellegzetes kék épület Stockholm klasszikus zenei központja.",
+                  "category": "cultural",
+                  "coords": [
+                        18.06317,
+                        59.33508
+                  ]
+            },
+            {
+                  "name": "Dramaten",
+                  "text": "Svédország nemzeti drámai színháza egy pompás szecessziós épületben.",
+                  "category": "cultural",
+                  "coords": [
+                        18.077024,
+                        59.333283
+                  ]
+            },
+            {
+                  "name": "Kungsholms baptistkyrka",
+                  "text": "Történelmi baptista templom Stockholm Kungsholmen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        18.035493,
+                        59.330826
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "Evangélikus templom Stockholm Gärdet negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        18.087922,
+                        59.344977
+                  ]
+            },
+            {
+                  "name": "We Are One Church",
+                  "text": "Modern keresztény gyülekezet Södermalm negyedben, korábban Södermalmskyrkan néven volt ismert.",
+                  "category": "religious",
+                  "coords": [
+                        18.076057,
+                        59.309424
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "Központi fekvésű templom Stockholmban, amely rendezvényhelyszínként is szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        18.059156,
+                        59.337152
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Stockholm központjában található templom, amely az Equmenia-egyházhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        18.058582,
+                        59.342848
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Moderna museet",
+                  "text": "Muzeul de Artă Modernă din Stockholm deține una dintre cele mai bune colecții de artă modernă din Europa.",
+                  "category": "museum",
+                  "coords": [
+                        18.084,
+                        59.326349
+                  ]
+            },
+            {
+                  "name": "Carl Eldhs Ateljémuseum",
+                  "text": "Fostul atelier al sculptorului suedez Carl Eldh, transformat într-un muzeu pitoresc.",
+                  "category": "museum",
+                  "coords": [
+                        18.051622,
+                        59.352867
+                  ]
+            },
+            {
+                  "name": "Armémuseum",
+                  "text": "Muzeul Armatei Suedeze prezintă istoria militară a Suediei din cele mai vechi timpuri până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        18.080258,
+                        59.334761
+                  ]
+            },
+            {
+                  "name": "Judiska muséet",
+                  "text": "Muzeul Evreiesc din Stockholm explorează istoria și cultura comunității evreiești din Suedia.",
+                  "category": "museum",
+                  "coords": [
+                        18.073017,
+                        59.323832
+                  ]
+            },
+            {
+                  "name": "Strindbergsmuseet",
+                  "text": "Muzeul este situat în ultima locuință a celebrului scriitor suedez August Strindberg.",
+                  "category": "museum",
+                  "coords": [
+                        18.056614,
+                        59.338533
+                  ]
+            },
+            {
+                  "name": "Stadsmuseet i Stockholm",
+                  "text": "Muzeul Orașului Stockholm ilustrează istoria capitalei suedeze prin numeroase exponate.",
+                  "category": "museum",
+                  "coords": [
+                        18.071261,
+                        59.319595
+                  ]
+            },
+            {
+                  "name": "Postmuseum",
+                  "text": "Muzeul Poștei din Stockholm prezintă evoluția serviciilor poștale din Suedia.",
+                  "category": "museum",
+                  "coords": [
+                        18.068001,
+                        59.324085
+                  ]
+            },
+            {
+                  "name": "Nobelprismuseet",
+                  "text": "Acest muzeu din orașul vechi este dedicat Premiului Nobel și laureaților săi.",
+                  "category": "museum",
+                  "coords": [
+                        18.070831,
+                        59.325215
+                  ]
+            },
+            {
+                  "name": "Livrustkammaren",
+                  "text": "Cel mai vechi muzeu din Suedia expune arme regale, armuri și trăsuri de ceremonie.",
+                  "category": "museum",
+                  "coords": [
+                        18.073078,
+                        59.326615
+                  ]
+            },
+            {
+                  "name": "Tre Kronor",
+                  "text": "Muzeul prezintă istoria castelului original Tre Kronor, distrus de un incendiu în 1697.",
+                  "category": "museum",
+                  "coords": [
+                        18.071053,
+                        59.327411
+                  ]
+            },
+            {
+                  "name": "Medelhavsmuseet",
+                  "text": "Acest muzeu găzduiește colecții importante de vestigii arheologice din zona Mediteranei și a Orientului Apropiat.",
+                  "category": "museum",
+                  "coords": [
+                        18.067298,
+                        59.329453
+                  ]
+            },
+            {
+                  "name": "Dansmuseet",
+                  "text": "Un muzeu dedicat istoriei dansului și artelor spectacolului din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        18.065337,
+                        59.329742
+                  ]
+            },
+            {
+                  "name": "Scenkonstmuseet",
+                  "text": "Acest muzeu interactiv prezintă istoria teatrului, dansului și muzicii din Suedia.",
+                  "category": "museum",
+                  "coords": [
+                        18.078301,
+                        59.33372
+                  ]
+            },
+            {
+                  "name": "Polismuseet",
+                  "text": "Muzeul prezintă evoluția și istoria poliției suedeze din trecut și până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        18.118473,
+                        59.333116
+                  ]
+            },
+            {
+                  "name": "Riksidrottsmuseum",
+                  "text": "Un muzeu național care celebrează istoria și eroii sportului suedez.",
+                  "category": "museum",
+                  "coords": [
+                        18.117001,
+                        59.333213
+                  ]
+            },
+            {
+                  "name": "Fotografiska",
+                  "text": "Un centru de fotografie contemporană de renume mondial, cu expoziții temporare variate.",
+                  "category": "museum",
+                  "coords": [
+                        18.084701,
+                        59.318004
+                  ]
+            },
+            {
+                  "name": "Östasiatiska museet",
+                  "text": "Muzeul expune o colecție vastă de artă și arheologie din Asia de Est.",
+                  "category": "museum",
+                  "coords": [
+                        18.081674,
+                        59.327385
+                  ]
+            },
+            {
+                  "name": "Gustav III:s antikmuseum",
+                  "text": "Situat în Palatul Regal, acest muzeu expune colecțiile de sculpturi antice ale regelui Gustav al III-lea.",
+                  "category": "museum",
+                  "coords": [
+                        18.072054,
+                        59.327542
+                  ]
+            },
+            {
+                  "name": "Skattkammaren",
+                  "text": "Aici sunt păstrate bijuteriile coroanei suedeze și însemnele regale, în bolțile palatului.",
+                  "category": "museum",
+                  "coords": [
+                        18.072062,
+                        59.326337
+                  ]
+            },
+            {
+                  "name": "Spritmuseum",
+                  "text": "Un muzeu dedicat istoriei și culturii băuturilor spirtoase în Suedia.",
+                  "category": "museum",
+                  "coords": [
+                        18.0938,
+                        59.327029
+                  ]
+            },
+            {
+                  "name": "Stigbergets borgarrum",
+                  "text": "Un interior burghez istoric din secolul al XIX-lea, situat pe dealul Södermalm.",
+                  "category": "museum",
+                  "coords": [
+                        18.087109,
+                        59.317217
+                  ]
+            },
+            {
+                  "name": "Riddarhuset",
+                  "text": "O clădire magnifică a nobilimii suedeze, cunoscută pentru arhitectura sa și colecția de blazoane.",
+                  "category": "castle",
+                  "coords": [
+                        18.06572,
+                        59.325931
+                  ]
+            },
+            {
+                  "name": "Sjöhistoriska museet",
+                  "text": "Muzeul documentează istoria marinei suedeze și a navigației comerciale.",
+                  "category": "museum",
+                  "coords": [
+                        18.11581,
+                        59.332502
+                  ]
+            },
+            {
+                  "name": "Etnografiska museet",
+                  "text": "Găzduiește colecții de obiecte provenite din culturi din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        18.12071,
+                        59.332558
+                  ]
+            },
+            {
+                  "name": "Schering Rosenhanes palats",
+                  "text": "Un palat urban istoric pe Riddarholmen, construit în secolul al XVII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        18.062629,
+                        59.32569
+                  ]
+            },
+            {
+                  "name": "Hessensteinska palatset",
+                  "text": "Un palat baroc elegant situat pe insula Riddarholmen din Stockholm.",
+                  "category": "castle",
+                  "coords": [
+                        18.064575,
+                        59.325283
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum",
+                  "text": "Principalul muzeu de artă al Suediei găzduiește colecții de pictură, sculptură și design.",
+                  "category": "museum",
+                  "coords": [
+                        18.078182,
+                        59.328481
+                  ]
+            },
+            {
+                  "name": "Waldemarsudde",
+                  "text": "Fosta reședință a Prințului Eugen este astăzi un muzeu de artă important, cu o grădină superbă.",
+                  "category": "museum",
+                  "coords": [
+                        18.113734,
+                        59.320004
+                  ]
+            },
+            {
+                  "name": "Wetterling",
+                  "text": "O galerie de artă contemporană renumită în centrul Stockholmului.",
+                  "category": "museum",
+                  "coords": [
+                        18.070263,
+                        59.331455
+                  ]
+            },
+            {
+                  "name": "Nils Ericson",
+                  "text": "Un monument ridicat în cinstea lui Nils Ericson, un pionier al căilor ferate suedeze.",
+                  "category": "historical",
+                  "coords": [
+                        18.058948,
+                        59.330454
+                  ]
+            },
+            {
+                  "name": "Teater Galeasen",
+                  "text": "Un teatru independent din Stockholm, cunoscut pentru spectacolele sale inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        18.083358,
+                        59.3273
+                  ]
+            },
+            {
+                  "name": "Kungliga Operan",
+                  "text": "Teatrul național suedez pentru operă și balet, cu o lungă tradiție.",
+                  "category": "cultural",
+                  "coords": [
+                        18.069959,
+                        59.329644
+                  ]
+            },
+            {
+                  "name": "China Teatern",
+                  "text": "Un teatru privat istoric, cunoscut pentru musicaluri, reviste și comedii.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073333,
+                        59.332513
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "Un teatru popular din Stockholm care oferă o varietate de programe de divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        18.088948,
+                        59.336908
+                  ]
+            },
+            {
+                  "name": "Teatern Gröna Lund",
+                  "text": "Acest teatru se află în parcul de distracții Gröna Lund de pe insula Djurgården.",
+                  "category": "cultural",
+                  "coords": [
+                        18.096603,
+                        59.324355
+                  ]
+            },
+            {
+                  "name": "Oscarsteatern",
+                  "text": "Un teatru splendid în stil Art Nouveau, utilizat în principal pentru musicaluri.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056028,
+                        59.333467
+                  ]
+            },
+            {
+                  "name": "Strindbergs Intima Teater",
+                  "text": "Un teatru mic fondat de August Strindberg în anul 1907.",
+                  "category": "cultural",
+                  "coords": [
+                        18.053751,
+                        59.335512
+                  ]
+            },
+            {
+                  "name": "Orionteatern",
+                  "text": "Un teatru experimental care folosește adesea spații neconvenționale pentru piesele sale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.090176,
+                        59.308295
+                  ]
+            },
+            {
+                  "name": "Teaterverket",
+                  "text": "O companie de teatru independentă și o sală de spectacole în cartierul Vasastan.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056076,
+                        59.343856
+                  ]
+            },
+            {
+                  "name": "Folkoperan",
+                  "text": "O casă de operă cunoscută pentru eforturile de a face opera accesibilă publicului larg.",
+                  "category": "cultural",
+                  "coords": [
+                        18.058252,
+                        59.318468
+                  ]
+            },
+            {
+                  "name": "Göta Lejon",
+                  "text": "Un teatru privat cunoscut din Södermalm, care găzduiește adesea producții mari de musical.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073898,
+                        59.313872
+                  ]
+            },
+            {
+                  "name": "Intiman",
+                  "text": "Un teatru clasic din Stockholm, situat lângă piața Odenplan.",
+                  "category": "cultural",
+                  "coords": [
+                        18.048175,
+                        59.342012
+                  ]
+            },
+            {
+                  "name": "Stockholms Stadsteater",
+                  "text": "Teatrul municipal mare al Stockholmului, situat în Kulturhuset la Sergels torg.",
+                  "category": "cultural",
+                  "coords": [
+                        18.064506,
+                        59.331899
+                  ]
+            },
+            {
+                  "name": "Brunnsgatan fyra",
+                  "text": "Un teatru privat mic și renumit în centrul Stockholmului.",
+                  "category": "cultural",
+                  "coords": [
+                        18.070001,
+                        59.336792
+                  ]
+            },
+            {
+                  "name": "Berwaldhallen",
+                  "text": "O sală de concerte modernă și sediul Orchestrei Simfonice a Radioului Suedez.",
+                  "category": "cultural",
+                  "coords": [
+                        18.100424,
+                        59.333326
+                  ]
+            },
+            {
+                  "name": "Cirkus",
+                  "text": "O locație mare pentru evenimente pe Djurgården, utilizată pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        18.099966,
+                        59.324893
+                  ]
+            },
+            {
+                  "name": "Konserthuset",
+                  "text": "Clădirea albastră distinctivă de la Hötorget este principala sală de muzică clasică din Stockholm.",
+                  "category": "cultural",
+                  "coords": [
+                        18.06317,
+                        59.33508
+                  ]
+            },
+            {
+                  "name": "Dramaten",
+                  "text": "Teatrul național al Suediei pentru dramă, situat într-o clădire magnifică Art Nouveau.",
+                  "category": "cultural",
+                  "coords": [
+                        18.077024,
+                        59.333283
+                  ]
+            },
+            {
+                  "name": "Kungsholms baptistkyrka",
+                  "text": "O biserică baptistă istorică în cartierul Kungsholmen.",
+                  "category": "religious",
+                  "coords": [
+                        18.035493,
+                        59.330826
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "O biserică luterană din cartierul Gärdet din Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.087922,
+                        59.344977
+                  ]
+            },
+            {
+                  "name": "We Are One Church",
+                  "text": "O comunitate creștină modernă în Södermalm, cunoscută anterior sub numele de Södermalmskyrkan.",
+                  "category": "religious",
+                  "coords": [
+                        18.076057,
+                        59.309424
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "O biserică situată central în Stockholm, care servește și ca locație pentru evenimente.",
+                  "category": "religious",
+                  "coords": [
+                        18.059156,
+                        59.337152
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Această biserică din centrul Stockholmului aparține bisericii Equmenia.",
+                  "category": "religious",
+                  "coords": [
+                        18.058582,
+                        59.342848
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Modern Art Museum",
+                  "text": "Stockholm's museum for modern and contemporary art, located on the island of Skeppsholmen.",
+                  "category": "museum",
+                  "coords": [
+                        18.084,
+                        59.326349
+                  ]
+            },
+            {
+                  "name": "Carl Eldh Studio Museum",
+                  "text": "The former studio of sculptor Carl Eldh, now a charming museum in Stockholm.",
+                  "category": "museum",
+                  "coords": [
+                        18.051622,
+                        59.352867
+                  ]
+            },
+            {
+                  "name": "Swedish Army Museum",
+                  "text": "The Swedish Army Museum in Stockholm displays the country's military history through the ages.",
+                  "category": "museum",
+                  "coords": [
+                        18.080258,
+                        59.334761
+                  ]
+            },
+            {
+                  "name": "Jewish Museum",
+                  "text": "A museum in Stockholm dedicated to exploring Jewish culture and history in Sweden.",
+                  "category": "museum",
+                  "coords": [
+                        18.073017,
+                        59.323832
+                  ]
+            },
+            {
+                  "name": "Strindberg Museum",
+                  "text": "A museum located in the final residence of the famous Swedish writer August Strindberg.",
+                  "category": "museum",
+                  "coords": [
+                        18.056614,
+                        59.338533
+                  ]
+            },
+            {
+                  "name": "Stockholm City Museum",
+                  "text": "A museum documenting the development and social history of Stockholm city.",
+                  "category": "museum",
+                  "coords": [
+                        18.071261,
+                        59.319595
+                  ]
+            },
+            {
+                  "name": "Post Museum",
+                  "text": "A museum in Stockholm showcasing the history and evolution of the Swedish postal service.",
+                  "category": "museum",
+                  "coords": [
+                        18.068001,
+                        59.324085
+                  ]
+            },
+            {
+                  "name": "Nobel Museum",
+                  "text": "This museum in the old town is dedicated to the Nobel Prize and its laureates.",
+                  "category": "museum",
+                  "coords": [
+                        18.070831,
+                        59.325215
+                  ]
+            },
+            {
+                  "name": "Royal Armoury",
+                  "text": "Sweden's oldest museum displays royal weapons, armour, and ceremonial coaches.",
+                  "category": "museum",
+                  "coords": [
+                        18.073078,
+                        59.326615
+                  ]
+            },
+            {
+                  "name": "Tre Kronor Museum",
+                  "text": "The museum showcases the history of the original Tre Kronor castle, which was destroyed by fire in 1697.",
+                  "category": "museum",
+                  "coords": [
+                        18.071053,
+                        59.327411
+                  ]
+            },
+            {
+                  "name": "Museum of Mediterranean & Near East Antiquities",
+                  "text": "This museum houses significant collections of archaeological finds from the Mediterranean and the Near East.",
+                  "category": "museum",
+                  "coords": [
+                        18.067298,
+                        59.329453
+                  ]
+            },
+            {
+                  "name": "Dance Museum",
+                  "text": "A museum dedicated to the history of dance and performing arts from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        18.065337,
+                        59.329742
+                  ]
+            },
+            {
+                  "name": "Swedish Museum of Performing Arts",
+                  "text": "This interactive museum presents the history of theatre, dance, and music in Sweden.",
+                  "category": "museum",
+                  "coords": [
+                        18.078301,
+                        59.33372
+                  ]
+            },
+            {
+                  "name": "The Police Museum",
+                  "text": "The museum shows the development and history of the Swedish police from the past to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        18.118473,
+                        59.333116
+                  ]
+            },
+            {
+                  "name": "National Sports Museum of Sweden",
+                  "text": "A national museum celebrating the history and heroes of Swedish sports.",
+                  "category": "museum",
+                  "coords": [
+                        18.117001,
+                        59.333213
+                  ]
+            },
+            {
+                  "name": "Fotografiska",
+                  "text": "A world-renowned centre for contemporary photography with rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        18.084701,
+                        59.318004
+                  ]
+            },
+            {
+                  "name": "Museum of Far Eastern Antiquities",
+                  "text": "The museum displays an extensive collection of art and archaeology from East Asia.",
+                  "category": "museum",
+                  "coords": [
+                        18.081674,
+                        59.327385
+                  ]
+            },
+            {
+                  "name": "Gustav III's Museum of Antiquities",
+                  "text": "Located in the Royal Palace, this museum displays King Gustav III's collections of ancient sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        18.072054,
+                        59.327542
+                  ]
+            },
+            {
+                  "name": "The Treasury",
+                  "text": "The Swedish crown jewels and royal regalia are kept here in the palace vaults.",
+                  "category": "museum",
+                  "coords": [
+                        18.072062,
+                        59.326337
+                  ]
+            },
+            {
+                  "name": "Museum of Spirits",
+                  "text": "A museum dedicated to the history and culture of spirits in Sweden.",
+                  "category": "museum",
+                  "coords": [
+                        18.0938,
+                        59.327029
+                  ]
+            },
+            {
+                  "name": "Stigbergets borgarrum",
+                  "text": "A historic 19th-century middle-class interior located on the Södermalm hill.",
+                  "category": "museum",
+                  "coords": [
+                        18.087109,
+                        59.317217
+                  ]
+            },
+            {
+                  "name": "House of Nobility",
+                  "text": "A magnificent building of the Swedish nobility, known for its architecture and collection of coats of arms.",
+                  "category": "castle",
+                  "coords": [
+                        18.06572,
+                        59.325931
+                  ]
+            },
+            {
+                  "name": "Maritime Museum",
+                  "text": "The museum documents the history of the Swedish Navy and merchant shipping.",
+                  "category": "museum",
+                  "coords": [
+                        18.11581,
+                        59.332502
+                  ]
+            },
+            {
+                  "name": "Museum of Ethnography",
+                  "text": "It houses collections of objects from cultures all around the world.",
+                  "category": "museum",
+                  "coords": [
+                        18.12071,
+                        59.332558
+                  ]
+            },
+            {
+                  "name": "Schering Rosenhanes palats",
+                  "text": "A historic city palace on Riddarholmen, built in the 17th century.",
+                  "category": "castle",
+                  "coords": [
+                        18.062629,
+                        59.32569
+                  ]
+            },
+            {
+                  "name": "Hessensteinska palatset",
+                  "text": "An elegant Baroque palace located on the island of Riddarholmen in Stockholm.",
+                  "category": "castle",
+                  "coords": [
+                        18.064575,
+                        59.325283
+                  ]
+            },
+            {
+                  "name": "National Museum of Fine Arts",
+                  "text": "Sweden's leading museum of art and design houses collections of paintings, sculptures, and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        18.078182,
+                        59.328481
+                  ]
+            },
+            {
+                  "name": "Waldemarsudde",
+                  "text": "The former home of Prince Eugen is now a major art museum with a beautiful garden.",
+                  "category": "museum",
+                  "coords": [
+                        18.113734,
+                        59.320004
+                  ]
+            },
+            {
+                  "name": "Wetterling",
+                  "text": "A renowned contemporary art gallery in central Stockholm.",
+                  "category": "museum",
+                  "coords": [
+                        18.070263,
+                        59.331455
+                  ]
+            },
+            {
+                  "name": "Nils Ericson",
+                  "text": "A monument in honour of Nils Ericson, a pioneer of the Swedish railway system.",
+                  "category": "historical",
+                  "coords": [
+                        18.058948,
+                        59.330454
+                  ]
+            },
+            {
+                  "name": "Teater Galeasen",
+                  "text": "An independent theatre in Stockholm known for its innovative performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.083358,
+                        59.3273
+                  ]
+            },
+            {
+                  "name": "Royal Swedish Opera",
+                  "text": "The Swedish national theatre for opera and ballet, with a long tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        18.069959,
+                        59.329644
+                  ]
+            },
+            {
+                  "name": "China Theatre",
+                  "text": "A historic private theatre known for musicals, revues, and comedies.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073333,
+                        59.332513
+                  ]
+            },
+            {
+                  "name": "Maxim",
+                  "text": "A popular theatre in Stockholm offering a variety of entertainment programmes.",
+                  "category": "cultural",
+                  "coords": [
+                        18.088948,
+                        59.336908
+                  ]
+            },
+            {
+                  "name": "Teatern Gröna Lund",
+                  "text": "This theatre is located within the Gröna Lund amusement park on Djurgården island.",
+                  "category": "cultural",
+                  "coords": [
+                        18.096603,
+                        59.324355
+                  ]
+            },
+            {
+                  "name": "Oscarsteatern",
+                  "text": "A magnificent Art Nouveau theatre primarily used for musical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056028,
+                        59.333467
+                  ]
+            },
+            {
+                  "name": "Strindbergs Intima Teater",
+                  "text": "A small theatre founded by August Strindberg in 1907.",
+                  "category": "cultural",
+                  "coords": [
+                        18.053751,
+                        59.335512
+                  ]
+            },
+            {
+                  "name": "Orionteatern",
+                  "text": "An experimental theatre that often uses unconventional spaces for its plays.",
+                  "category": "cultural",
+                  "coords": [
+                        18.090176,
+                        59.308295
+                  ]
+            },
+            {
+                  "name": "Teaterverket",
+                  "text": "An independent theatre company and venue located in the Vasastan district.",
+                  "category": "cultural",
+                  "coords": [
+                        18.056076,
+                        59.343856
+                  ]
+            },
+            {
+                  "name": "Folkoperan",
+                  "text": "An opera house known for making opera accessible to a wider audience.",
+                  "category": "cultural",
+                  "coords": [
+                        18.058252,
+                        59.318468
+                  ]
+            },
+            {
+                  "name": "Göta Lejon",
+                  "text": "A well-known private theatre on Södermalm, often hosting large musical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        18.073898,
+                        59.313872
+                  ]
+            },
+            {
+                  "name": "Intiman",
+                  "text": "A classic Stockholm theatre located near Odenplan.",
+                  "category": "cultural",
+                  "coords": [
+                        18.048175,
+                        59.342012
+                  ]
+            },
+            {
+                  "name": "Stockholms Stadsteater",
+                  "text": "Stockholm's major municipal theatre located in Kulturhuset at Sergels torg.",
+                  "category": "cultural",
+                  "coords": [
+                        18.064506,
+                        59.331899
+                  ]
+            },
+            {
+                  "name": "Brunnsgatan fyra",
+                  "text": "A small, renowned private theatre in central Stockholm.",
+                  "category": "cultural",
+                  "coords": [
+                        18.070001,
+                        59.336792
+                  ]
+            },
+            {
+                  "name": "Berwaldhallen",
+                  "text": "A modern concert hall and home of the Swedish Radio Symphony Orchestra.",
+                  "category": "cultural",
+                  "coords": [
+                        18.100424,
+                        59.333326
+                  ]
+            },
+            {
+                  "name": "Cirkus",
+                  "text": "A large venue on Djurgården used for concerts and major shows.",
+                  "category": "cultural",
+                  "coords": [
+                        18.099966,
+                        59.324893
+                  ]
+            },
+            {
+                  "name": "Konserthuset",
+                  "text": "The distinctive blue building at Hötorget is Stockholm's main venue for classical music.",
+                  "category": "cultural",
+                  "coords": [
+                        18.06317,
+                        59.33508
+                  ]
+            },
+            {
+                  "name": "Royal Dramatic Theatre",
+                  "text": "Sweden's national stage for spoken drama, housed in a magnificent Art Nouveau building.",
+                  "category": "cultural",
+                  "coords": [
+                        18.077024,
+                        59.333283
+                  ]
+            },
+            {
+                  "name": "Kungsholms baptistkyrka",
+                  "text": "A historic Baptist church in the Kungsholmen district.",
+                  "category": "religious",
+                  "coords": [
+                        18.035493,
+                        59.330826
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "A Lutheran church located in the Gärdet district of Stockholm.",
+                  "category": "religious",
+                  "coords": [
+                        18.087922,
+                        59.344977
+                  ]
+            },
+            {
+                  "name": "We Are One Church",
+                  "text": "A modern Christian congregation on Södermalm, formerly known as Södermalmskyrkan.",
+                  "category": "religious",
+                  "coords": [
+                        18.076057,
+                        59.309424
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "A centrally located church in Stockholm that also serves as an event venue.",
+                  "category": "religious",
+                  "coords": [
+                        18.059156,
+                        59.337152
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "This church in central Stockholm belongs to the Equmenia Church.",
+                  "category": "religious",
+                  "coords": [
+                        18.058582,
+                        59.342848
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [18.0686, 59.3293],
@@ -103,7 +2020,1924 @@ export const swedenRegions: POI[] = [
     image: "/geo-images/sweden/stockholm.webp",
   },
   {
-    id: "city-gothenburg",
+    id: "city-gothenburg", "sights": {
+      "de": [
+            {
+                  "name": "Medicinhistoriska museet",
+                  "text": "Museum in Göteborg, das die Geschichte und Entwicklung der Medizin erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        11.966592,
+                        57.70889
+                  ]
+            },
+            {
+                  "name": "Röhsska museet",
+                  "text": "Museum für Design, Mode und dekorative Kunst in Göteborg.",
+                  "category": "museum",
+                  "coords": [
+                        11.973515,
+                        57.699984
+                  ]
+            },
+            {
+                  "name": "Gathenhielmska Huset",
+                  "text": "Historisches Haus aus dem 18. Jahrhundert und Kulturerbe in Göteborg.",
+                  "category": "museum",
+                  "coords": [
+                        11.93413,
+                        57.698583
+                  ]
+            },
+            {
+                  "name": "Världskulturmuseet",
+                  "text": "Museum, das sich mit globalen Kulturen und zeitgenössischen sozialen Themen befasst.",
+                  "category": "museum",
+                  "coords": [
+                        11.989581,
+                        57.694666
+                  ]
+            },
+            {
+                  "name": "Stora Katrinelund",
+                  "text": "Historisches Herrenhaus und Anwesen im Zentrum von Göteborg.",
+                  "category": "castle",
+                  "coords": [
+                        11.988074,
+                        57.704168
+                  ]
+            },
+            {
+                  "name": "Sjöfartsmuseet Akvariet",
+                  "text": "Museum für Schifffahrtsgeschichte mit einem großen Aquarium.",
+                  "category": "museum",
+                  "coords": [
+                        11.932023,
+                        57.699174
+                  ]
+            },
+            {
+                  "name": "Stora Torp",
+                  "text": "Historisches Herrenhaus und Parkanlage in Göteborg.",
+                  "category": "castle",
+                  "coords": [
+                        12.019293,
+                        57.699076
+                  ]
+            },
+            {
+                  "name": "Stora Gårda",
+                  "text": "Historisches Herrenhaus im Stadtgebiet von Göteborg.",
+                  "category": "castle",
+                  "coords": [
+                        12.007055,
+                        57.698275
+                  ]
+            },
+            {
+                  "name": "World of Volvo",
+                  "text": "Volvos Markenerlebniszentrum mit Fahrzeugausstellungen und Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        11.997945,
+                        57.689514
+                  ]
+            },
+            {
+                  "name": "Börsen",
+                  "text": "Historisches Gebäude, das für Stadtratssitzungen und offizielle Empfänge genutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        11.966987,
+                        57.7077
+                  ]
+            },
+            {
+                  "name": "Göteborgsoperan",
+                  "text": "Modernes Opernhaus am Ufer des Flusses Göta älv.",
+                  "category": "cultural",
+                  "coords": [
+                        11.96326,
+                        57.710692
+                  ]
+            },
+            {
+                  "name": "Atalante",
+                  "text": "Experimenteller Veranstaltungsort für zeitgenössischen Tanz und Performance-Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        11.957684,
+                        57.695056
+                  ]
+            },
+            {
+                  "name": "Göteborgs Stadsteater",
+                  "text": "Das wichtigste Stadttheater von Göteborg am Götaplatsen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.980787,
+                        57.697498
+                  ]
+            },
+            {
+                  "name": "Dom zu Göteborg",
+                  "text": "Die Hauptkirche der Diözese Göteborg, erbaut im klassischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        11.9653,
+                        57.704538
+                  ]
+            },
+            {
+                  "name": "Masthuggskirche",
+                  "text": "Markante Kirche auf einem Hügel mit Panoramablick auf die Stadt und den Hafen.",
+                  "category": "religious",
+                  "coords": [
+                        11.937464,
+                        57.697123
+                  ]
+            },
+            {
+                  "name": "Brämaregårdens kyrka",
+                  "text": "Lokale Pfarrkirche im Stadtteil Brämaregården.",
+                  "category": "religious",
+                  "coords": [
+                        11.944401,
+                        57.71858
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Historisches Kirchengebäude, das der örtlichen Gemeinschaft in Göteborg dient.",
+                  "category": "religious",
+                  "coords": [
+                        11.939214,
+                        57.698786
+                  ]
+            },
+            {
+                  "name": "Oscar Fredriks kyrka",
+                  "text": "Beeindruckende neugotische Kirche, bekannt für ihren hohen Turm und ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        11.947188,
+                        57.696629
+                  ]
+            },
+            {
+                  "name": "Annedalskyrkan",
+                  "text": "Große Backsteinkirche der Annedal-Gemeinde in Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.954022,
+                        57.687158
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Auch als Christinae-Kirche bekannt, dient sie der deutschsprachigen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        11.964884,
+                        57.706713
+                  ]
+            },
+            {
+                  "name": "Landala kapell",
+                  "text": "Kleine Holzkapelle im Stadtteil Landala.",
+                  "category": "religious",
+                  "coords": [
+                        11.973362,
+                        57.691905
+                  ]
+            },
+            {
+                  "name": "Skårs kyrka",
+                  "text": "Lokale Kirche, die das Viertel Skår in Göteborg bedient.",
+                  "category": "religious",
+                  "coords": [
+                        12.006665,
+                        57.690857
+                  ]
+            },
+            {
+                  "name": "Göteborgs moské",
+                  "text": "Die zentrale Gebetsstätte für die muslimische Gemeinschaft in Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.943863,
+                        57.714536
+                  ]
+            },
+            {
+                  "name": "Rambergskyrkan",
+                  "text": "Lokale Pfarrkirche in der Stadt Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.938958,
+                        57.719712
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Die anglikanische Kirche in Göteborg für die englischsprachige Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        11.961797,
+                        57.702086
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "Klassizistische Kirche im historischen Stadtteil Haga.",
+                  "category": "religious",
+                  "coords": [
+                        11.962179,
+                        57.699019
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Lokales Kirchengebäude, das dem Heiligen Paulus in Göteborg gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.003516,
+                        57.714356
+                  ]
+            },
+            {
+                  "name": "Örgryte nya kyrka",
+                  "text": "Modernes Kirchengebäude im Stadtteil Örgryte.",
+                  "category": "religious",
+                  "coords": [
+                        12.005446,
+                        57.702887
+                  ]
+            },
+            {
+                  "name": "Brunnsbokyrkan",
+                  "text": "Lokale Pfarrkirche, die das Gebiet Brunnsbo bedient.",
+                  "category": "religious",
+                  "coords": [
+                        11.970097,
+                        57.728053
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Lokale Kirche, die der Jungfrau Maria in Göteborg gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        11.987681,
+                        57.707771
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Große Kirche im neoromanischen Stil im Vasa-Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        11.973427,
+                        57.69696
+                  ]
+            },
+            {
+                  "name": "Kulturreservatet Gathenhielm",
+                  "text": "Kulturreservat mit historischen Gebäuden und Gärten in Göteborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.932934,
+                        57.697613
+                  ]
+            },
+            {
+                  "name": "Radiobilarna",
+                  "text": "Klassische Autoscooter-Attraktion im Vergnügungspark Liseberg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.993732,
+                        57.694383
+                  ]
+            },
+            {
+                  "name": "Mechanica",
+                  "text": "Rasantes Fahrgeschäft im Vergnügungspark Liseberg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.994209,
+                        57.692894
+                  ]
+            },
+            {
+                  "name": "Skansen Kronan",
+                  "text": "Historische Steinfestung und Turm mit Blick über die Stadt.",
+                  "category": "tower",
+                  "coords": [
+                        11.955342,
+                        57.696008
+                  ]
+            },
+            {
+                  "name": "Fischkirche",
+                  "text": "Ikonische Fischmarkthalle, die einer gotischen Kirche nachempfunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        11.957802,
+                        57.701004
+                  ]
+            },
+            {
+                  "name": "Saluhall Briggen",
+                  "text": "Markthalle mit einer Auswahl an frischen Lebensmitteln und lokalen Produkten.",
+                  "category": "landmark",
+                  "coords": [
+                        11.950155,
+                        57.698314
+                  ]
+            },
+            {
+                  "name": "Barken Viking",
+                  "text": "Historische Viermastbark, die dauerhaft im Hafen vor Anker liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.96535,
+                        57.712731
+                  ]
+            },
+            {
+                  "name": "Skansen Lejonet",
+                  "text": "Historischer Festungsturm mit einer goldenen Löwenskulptur an der Spitze.",
+                  "category": "tower",
+                  "coords": [
+                        11.989474,
+                        57.714286
+                  ]
+            },
+            {
+                  "name": "Nordkaparen",
+                  "text": "U-Boot-Museumsschiff, das Teil der schwedischen Marine war.",
+                  "category": "landmark",
+                  "coords": [
+                        11.959676,
+                        57.709214
+                  ]
+            },
+            {
+                  "name": "Kvarnbron",
+                  "text": "Brücke über den Kanal im Zentrum von Göteborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.971788,
+                        57.707402
+                  ]
+            },
+            {
+                  "name": "Drottningtorgsbron",
+                  "text": "Brücke in der Nähe des zentralen Platzes und des Hauptbahnhofs.",
+                  "category": "landmark",
+                  "coords": [
+                        11.973953,
+                        57.707445
+                  ]
+            },
+            {
+                  "name": "AtmosFear",
+                  "text": "Hoher Freifallturm in Liseberg mit herrlicher Aussicht.",
+                  "category": "tower",
+                  "coords": [
+                        11.990771,
+                        57.695343
+                  ]
+            },
+            {
+                  "name": "Fredsbron",
+                  "text": "Brücke über das Wasser in der Stadt Göteborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.969743,
+                        57.707105
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "Beliebter Stadtpark, bekannt für seine Grünflächen und die Nähe zur Universität.",
+                  "category": "park",
+                  "coords": [
+                        11.972093,
+                        57.698319
+                  ]
+            },
+            {
+                  "name": "Trädgårdsföreningen",
+                  "text": "Großer Park mit Tausenden von Rosen und einem historischen Palmenhaus.",
+                  "category": "park",
+                  "coords": [
+                        11.974149,
+                        57.705129
+                  ]
+            },
+            {
+                  "name": "Vasaplatsen",
+                  "text": "Öffentlicher Park und Platz im Stadtteil Vasastaden.",
+                  "category": "park",
+                  "coords": [
+                        11.96973,
+                        57.699385
+                  ]
+            },
+            {
+                  "name": "Hem i Haga",
+                  "text": "Museum, das die traditionellen Lebensbedingungen im historischen Stadtteil Haga zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        11.955042,
+                        57.698632
+                  ]
+            },
+            {
+                  "name": "Radiomuseet",
+                  "text": "Museum, das der Geschichte des Radios und der Telekommunikation gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        11.945264,
+                        57.708744
+                  ]
+            },
+            {
+                  "name": "Backa Teater",
+                  "text": "Renommiertes Theater mit Fokus auf innovativen Stücken für Kinder und Jugendliche.",
+                  "category": "cultural",
+                  "coords": [
+                        11.936044,
+                        57.705918
+                  ]
+            },
+            {
+                  "name": "Folkteatern",
+                  "text": "Regionaltheater, bekannt für seine zeitgenössischen und gesellschaftskritischen Inszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.952033,
+                        57.700906
+                  ]
+            },
+            {
+                  "name": "Stora Teatern",
+                  "text": "Historisches Theatergebäude, in dem verschiedene Aufführungen und Konzerte stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        11.970665,
+                        57.702538
+                  ]
+            },
+            {
+                  "name": "Lisebergsteatern",
+                  "text": "Theaterstandort innerhalb des Vergnügungsparks Liseberg.",
+                  "category": "cultural",
+                  "coords": [
+                        11.990553,
+                        57.696501
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Medicinhistoriska museet",
+                  "text": "Göteborgi múzeum, amely az orvostudomány történetét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        11.966592,
+                        57.70889
+                  ]
+            },
+            {
+                  "name": "Röhsska museet",
+                  "text": "Design-, divat- és iparművészeti múzeum Göteborgban.",
+                  "category": "museum",
+                  "coords": [
+                        11.973515,
+                        57.699984
+                  ]
+            },
+            {
+                  "name": "Gathenhielmska Huset",
+                  "text": "18. századi történelmi ház és kulturális örökségi helyszín Göteborgban.",
+                  "category": "museum",
+                  "coords": [
+                        11.93413,
+                        57.698583
+                  ]
+            },
+            {
+                  "name": "Världskulturmuseet",
+                  "text": "A globális kultúrákkal és kortárs társadalmi kérdésekkel foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.989581,
+                        57.694666
+                  ]
+            },
+            {
+                  "name": "Stora Katrinelund",
+                  "text": "Történelmi kúria és birtok Göteborg központjában.",
+                  "category": "castle",
+                  "coords": [
+                        11.988074,
+                        57.704168
+                  ]
+            },
+            {
+                  "name": "Sjöfartsmuseet Akvariet",
+                  "text": "Tengerészeti történeti múzeum nagy akváriummal.",
+                  "category": "museum",
+                  "coords": [
+                        11.932023,
+                        57.699174
+                  ]
+            },
+            {
+                  "name": "Stora Torp",
+                  "text": "Történelmi kúria és parkosított terület Göteborgban.",
+                  "category": "castle",
+                  "coords": [
+                        12.019293,
+                        57.699076
+                  ]
+            },
+            {
+                  "name": "Stora Gårda",
+                  "text": "Történelmi kúriaépület Göteborg városában.",
+                  "category": "castle",
+                  "coords": [
+                        12.007055,
+                        57.698275
+                  ]
+            },
+            {
+                  "name": "World of Volvo",
+                  "text": "A Volvo márkaélmény-központja járműkiállításokkal és rendezvényekkel.",
+                  "category": "museum",
+                  "coords": [
+                        11.997945,
+                        57.689514
+                  ]
+            },
+            {
+                  "name": "Börsen",
+                  "text": "Történelmi épület, amelyet tanácsülésekre és hivatalos fogadásokra használnak.",
+                  "category": "historical",
+                  "coords": [
+                        11.966987,
+                        57.7077
+                  ]
+            },
+            {
+                  "name": "Göteborgsoperan",
+                  "text": "Modern operaház a Göta-folyó partján.",
+                  "category": "cultural",
+                  "coords": [
+                        11.96326,
+                        57.710692
+                  ]
+            },
+            {
+                  "name": "Atalante",
+                  "text": "Kísérleti helyszín kortárs tánc és performanszművészet számára.",
+                  "category": "cultural",
+                  "coords": [
+                        11.957684,
+                        57.695056
+                  ]
+            },
+            {
+                  "name": "Göteborgs Stadsteater",
+                  "text": "Göteborg fő városi színháza a Götaplatsen téren.",
+                  "category": "cultural",
+                  "coords": [
+                        11.980787,
+                        57.697498
+                  ]
+            },
+            {
+                  "name": "Göteborgs domkyrka",
+                  "text": "A göteborgi egyházmegye főtemploma, klasszikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        11.9653,
+                        57.704538
+                  ]
+            },
+            {
+                  "name": "Masthuggskyrkan",
+                  "text": "Hegytetőn álló jellegzetes templom, ahonnan panorámás kilátás nyílik a városra és a kikötőre.",
+                  "category": "religious",
+                  "coords": [
+                        11.937464,
+                        57.697123
+                  ]
+            },
+            {
+                  "name": "Brämaregårdens kyrka",
+                  "text": "Helyi plébániatemplom a Brämaregården negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        11.944401,
+                        57.71858
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Történelmi templomépület, amely a göteborgi helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        11.939214,
+                        57.698786
+                  ]
+            },
+            {
+                  "name": "Oscar Fredriks kyrka",
+                  "text": "Lenyűgöző neogótikus templom, amely magas tornyáról és részletgazdag építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        11.947188,
+                        57.696629
+                  ]
+            },
+            {
+                  "name": "Annedalskyrkan",
+                  "text": "Nagy téglaépítésű templom, amely az annedali egyházközséget szolgálja Göteborgban.",
+                  "category": "religious",
+                  "coords": [
+                        11.954022,
+                        57.687158
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Krisztina-templomként is ismert, a német nyelvű közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        11.964884,
+                        57.706713
+                  ]
+            },
+            {
+                  "name": "Landala kapell",
+                  "text": "Kis fakápolna a Landala negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        11.973362,
+                        57.691905
+                  ]
+            },
+            {
+                  "name": "Skårs kyrka",
+                  "text": "A göteborgi Skår negyedet kiszolgáló helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.006665,
+                        57.690857
+                  ]
+            },
+            {
+                  "name": "Göteborgs moské",
+                  "text": "A göteborgi muszlim közösség központi imádsági helye.",
+                  "category": "religious",
+                  "coords": [
+                        11.943863,
+                        57.714536
+                  ]
+            },
+            {
+                  "name": "Rambergskyrkan",
+                  "text": "Helyi plébániatemplom Göteborg városában.",
+                  "category": "religious",
+                  "coords": [
+                        11.938958,
+                        57.719712
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Anglikán templom Göteborgban, az angol nyelvű közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        11.961797,
+                        57.702086
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "Klasszicista templom a történelmi Haga negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        11.962179,
+                        57.699019
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Szent Pálnak szentelt helyi templomépület Göteborgban.",
+                  "category": "religious",
+                  "coords": [
+                        12.003516,
+                        57.714356
+                  ]
+            },
+            {
+                  "name": "Örgryte nya kyrka",
+                  "text": "Modern templomépület az Örgryte negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        12.005446,
+                        57.702887
+                  ]
+            },
+            {
+                  "name": "Brunnsbokyrkan",
+                  "text": "Helyi plébániatemplom a Brunnsbo területén.",
+                  "category": "religious",
+                  "coords": [
+                        11.970097,
+                        57.728053
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Szűz Máriának szentelt helyi templom Göteborgban.",
+                  "category": "religious",
+                  "coords": [
+                        11.987681,
+                        57.707771
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Nagy, neoromán stílusú templom a Vasa negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        11.973427,
+                        57.69696
+                  ]
+            },
+            {
+                  "name": "Kulturreservatet Gathenhielm",
+                  "text": "Történelmi épületeket és kerteket őrző kulturális rezervátum Göteborgban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.932934,
+                        57.697613
+                  ]
+            },
+            {
+                  "name": "Radiobilarna",
+                  "text": "Klasszikus dodzsem játék a Liseberg vidámparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.993732,
+                        57.694383
+                  ]
+            },
+            {
+                  "name": "Mechanica",
+                  "text": "Gyors és izgalmas hullámvasút a Liseberg vidámparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        11.994209,
+                        57.692894
+                  ]
+            },
+            {
+                  "name": "Skansen Kronan",
+                  "text": "Történelmi kőerőd és torony, ahonnan kilátás nyílik a városra.",
+                  "category": "tower",
+                  "coords": [
+                        11.955342,
+                        57.696008
+                  ]
+            },
+            {
+                  "name": "Feskekörka",
+                  "text": "Ikonikus halpiac, amelyet gótikus templomra emlékeztetőnek terveztek.",
+                  "category": "landmark",
+                  "coords": [
+                        11.957802,
+                        57.701004
+                  ]
+            },
+            {
+                  "name": "Saluhall Briggen",
+                  "text": "Vásárcsarnok friss élelmiszerek és helyi termékek széles választékával.",
+                  "category": "landmark",
+                  "coords": [
+                        11.950155,
+                        57.698314
+                  ]
+            },
+            {
+                  "name": "Barken Viking",
+                  "text": "Történelmi négyárbocos bark hajó, amely állandóan a kikötőben horgonyoz.",
+                  "category": "landmark",
+                  "coords": [
+                        11.96535,
+                        57.712731
+                  ]
+            },
+            {
+                  "name": "Skansen Lejonet",
+                  "text": "Történelmi erődtorony, tetején egy arany oroszlánszoborral.",
+                  "category": "tower",
+                  "coords": [
+                        11.989474,
+                        57.714286
+                  ]
+            },
+            {
+                  "name": "Nordkaparen",
+                  "text": "Tengeralattjáró múzeumhajó, amely korábban a svéd haditengerészet része volt.",
+                  "category": "landmark",
+                  "coords": [
+                        11.959676,
+                        57.709214
+                  ]
+            },
+            {
+                  "name": "Kvarnbron",
+                  "text": "A göteborgi központi csatornát átívelő híd.",
+                  "category": "landmark",
+                  "coords": [
+                        11.971788,
+                        57.707402
+                  ]
+            },
+            {
+                  "name": "Drottningtorgsbron",
+                  "text": "A központi tér és a főpályaudvar közelében található híd.",
+                  "category": "landmark",
+                  "coords": [
+                        11.973953,
+                        57.707445
+                  ]
+            },
+            {
+                  "name": "AtmosFear",
+                  "text": "Magas szabadesés-torony a Lisebergben, ahonnan pazar kilátás nyílik.",
+                  "category": "tower",
+                  "coords": [
+                        11.990771,
+                        57.695343
+                  ]
+            },
+            {
+                  "name": "Fredsbron",
+                  "text": "Híd a víz felett Göteborg városában.",
+                  "category": "landmark",
+                  "coords": [
+                        11.969743,
+                        57.707105
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "Népszerű városi park, amely zöldfelületeiről és az egyetem közelségéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        11.972093,
+                        57.698319
+                  ]
+            },
+            {
+                  "name": "Trädgårdsföreningen",
+                  "text": "Hatalmas park és botanikus kert több ezer rózsával és pálmaházzal.",
+                  "category": "park",
+                  "coords": [
+                        11.974149,
+                        57.705129
+                  ]
+            },
+            {
+                  "name": "Vasaplatsen",
+                  "text": "Nyilvános park és tér a Vasastaden negyedben.",
+                  "category": "park",
+                  "coords": [
+                        11.96973,
+                        57.699385
+                  ]
+            },
+            {
+                  "name": "Hem i Haga",
+                  "text": "A történelmi Haga negyed hagyományos életkörülményeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.955042,
+                        57.698632
+                  ]
+            },
+            {
+                  "name": "Radiomuseet",
+                  "text": "A rádiózás és a telekommunikáció történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        11.945264,
+                        57.708744
+                  ]
+            },
+            {
+                  "name": "Backa Teater",
+                  "text": "Elismert színház, amely innovatív gyermek- és ifjúsági darabokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        11.936044,
+                        57.705918
+                  ]
+            },
+            {
+                  "name": "Folkteatern",
+                  "text": "Regionális színház, amely kortárs és társadalmilag elkötelezett produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        11.952033,
+                        57.700906
+                  ]
+            },
+            {
+                  "name": "Stora Teatern",
+                  "text": "Történelmi színházépület, amely különféle előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        11.970665,
+                        57.702538
+                  ]
+            },
+            {
+                  "name": "Lisebergsteatern",
+                  "text": "A Liseberg vidámpark területén található színházi helyszín.",
+                  "category": "cultural",
+                  "coords": [
+                        11.990553,
+                        57.696501
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Medicinhistoriska museet",
+                  "text": "Muzeu din Göteborg care explorează istoria și dezvoltarea medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        11.966592,
+                        57.70889
+                  ]
+            },
+            {
+                  "name": "Röhsska museet",
+                  "text": "Muzeu de design, modă și arte decorative în Göteborg.",
+                  "category": "museum",
+                  "coords": [
+                        11.973515,
+                        57.699984
+                  ]
+            },
+            {
+                  "name": "Gathenhielmska Huset",
+                  "text": "Casă istorică din secolul al XVIII-lea și sit de patrimoniu cultural în Göteborg.",
+                  "category": "museum",
+                  "coords": [
+                        11.93413,
+                        57.698583
+                  ]
+            },
+            {
+                  "name": "Världskulturmuseet",
+                  "text": "Muzeu axat pe culturile globale și problemele sociale contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        11.989581,
+                        57.694666
+                  ]
+            },
+            {
+                  "name": "Stora Katrinelund",
+                  "text": "Conac istoric și domeniu situat în centrul orașului Göteborg.",
+                  "category": "castle",
+                  "coords": [
+                        11.988074,
+                        57.704168
+                  ]
+            },
+            {
+                  "name": "Sjöfartsmuseet Akvariet",
+                  "text": "Muzeu dedicat istoriei maritime, cu un acvariu mare.",
+                  "category": "museum",
+                  "coords": [
+                        11.932023,
+                        57.699174
+                  ]
+            },
+            {
+                  "name": "Stora Torp",
+                  "text": "Conac istoric și zonă de parc în Göteborg.",
+                  "category": "castle",
+                  "coords": [
+                        12.019293,
+                        57.699076
+                  ]
+            },
+            {
+                  "name": "Stora Gårda",
+                  "text": "Clădire istorică de tip conac situată în orașul Göteborg.",
+                  "category": "castle",
+                  "coords": [
+                        12.007055,
+                        57.698275
+                  ]
+            },
+            {
+                  "name": "World of Volvo",
+                  "text": "Centrul de experiență al mărcii Volvo, cu expoziții de vehicule și evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        11.997945,
+                        57.689514
+                  ]
+            },
+            {
+                  "name": "Börsen",
+                  "text": "Clădire istorică utilizată pentru ședințele consiliului local și recepții oficiale.",
+                  "category": "historical",
+                  "coords": [
+                        11.966987,
+                        57.7077
+                  ]
+            },
+            {
+                  "name": "Göteborgsoperan",
+                  "text": "Operă modernă situată pe malul râului Göta älv.",
+                  "category": "cultural",
+                  "coords": [
+                        11.96326,
+                        57.710692
+                  ]
+            },
+            {
+                  "name": "Atalante",
+                  "text": "Locație experimentală pentru dans contemporan și artă de performanță.",
+                  "category": "cultural",
+                  "coords": [
+                        11.957684,
+                        57.695056
+                  ]
+            },
+            {
+                  "name": "Göteborgs Stadsteater",
+                  "text": "Teatrul principal al orașului Göteborg, situat în Götaplatsen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.980787,
+                        57.697498
+                  ]
+            },
+            {
+                  "name": "Göteborgs domkyrka",
+                  "text": "Biserica principală a Diecezei de Göteborg, construită în stil clasic.",
+                  "category": "religious",
+                  "coords": [
+                        11.9653,
+                        57.704538
+                  ]
+            },
+            {
+                  "name": "Masthuggskyrkan",
+                  "text": "Biserică impresionantă pe un deal, oferind vedere panoramică asupra orașului și portului.",
+                  "category": "religious",
+                  "coords": [
+                        11.937464,
+                        57.697123
+                  ]
+            },
+            {
+                  "name": "Brämaregårdens kyrka",
+                  "text": "Biserică parohială locală situată în cartierul Brämaregården.",
+                  "category": "religious",
+                  "coords": [
+                        11.944401,
+                        57.71858
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Clădire istorică de biserică care deservește comunitatea locală din Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.939214,
+                        57.698786
+                  ]
+            },
+            {
+                  "name": "Oscar Fredriks kyrka",
+                  "text": "Biserică neogotică impresionantă, cunoscută pentru turla sa înaltă și arhitectura detaliată.",
+                  "category": "religious",
+                  "coords": [
+                        11.947188,
+                        57.696629
+                  ]
+            },
+            {
+                  "name": "Annedalskyrkan",
+                  "text": "Biserică mare din cărămidă care deservește parohia Annedal din Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.954022,
+                        57.687158
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Cunoscută și sub numele de Biserica Christinae, servește comunitatea de limbă germană.",
+                  "category": "religious",
+                  "coords": [
+                        11.964884,
+                        57.706713
+                  ]
+            },
+            {
+                  "name": "Landala kapell",
+                  "text": "Mică capelă din lemn situată în districtul Landala.",
+                  "category": "religious",
+                  "coords": [
+                        11.973362,
+                        57.691905
+                  ]
+            },
+            {
+                  "name": "Skårs kyrka",
+                  "text": "Biserică locală care deservește cartierul Skår din Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        12.006665,
+                        57.690857
+                  ]
+            },
+            {
+                  "name": "Göteborgs moské",
+                  "text": "Locul central de rugăciune pentru comunitatea musulmană din Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.943863,
+                        57.714536
+                  ]
+            },
+            {
+                  "name": "Rambergskyrkan",
+                  "text": "Biserică parohială locală situată în orașul Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.938958,
+                        57.719712
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "Biserica anglicană din Göteborg, care deservește comunitatea de limbă engleză.",
+                  "category": "religious",
+                  "coords": [
+                        11.961797,
+                        57.702086
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "Biserică neoclasică situată în cartierul istoric Haga.",
+                  "category": "religious",
+                  "coords": [
+                        11.962179,
+                        57.699019
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Clădire de biserică locală dedicată Sfântului Pavel din Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        12.003516,
+                        57.714356
+                  ]
+            },
+            {
+                  "name": "Örgryte nya kyrka",
+                  "text": "Clădire modernă de biserică situată în districtul Örgryte.",
+                  "category": "religious",
+                  "coords": [
+                        12.005446,
+                        57.702887
+                  ]
+            },
+            {
+                  "name": "Brunnsbokyrkan",
+                  "text": "Biserică parohială locală care deservește zona Brunnsbo.",
+                  "category": "religious",
+                  "coords": [
+                        11.970097,
+                        57.728053
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Biserică locală dedicată Sfintei Maria în Göteborg.",
+                  "category": "religious",
+                  "coords": [
+                        11.987681,
+                        57.707771
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Biserică mare construită în stil neoromanic în districtul Vasa.",
+                  "category": "religious",
+                  "coords": [
+                        11.973427,
+                        57.69696
+                  ]
+            },
+            {
+                  "name": "Kulturreservatet Gathenhielm",
+                  "text": "Rezervație culturală care conservă clădiri istorice și grădini în Göteborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.932934,
+                        57.697613
+                  ]
+            },
+            {
+                  "name": "Radiobilarna",
+                  "text": "Atracție clasică cu mașinuțe tamponabile situată în parcul de distracții Liseberg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.993732,
+                        57.694383
+                  ]
+            },
+            {
+                  "name": "Mechanica",
+                  "text": "Atracție de mare viteză și adrenalină situată în parcul de distracții Liseberg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.994209,
+                        57.692894
+                  ]
+            },
+            {
+                  "name": "Skansen Kronan",
+                  "text": "Fortăreață istorică din piatră și turn care oferă vedere panoramică asupra orașului.",
+                  "category": "tower",
+                  "coords": [
+                        11.955342,
+                        57.696008
+                  ]
+            },
+            {
+                  "name": "Feskekörka",
+                  "text": "Piață de pește emblematică, proiectată să semene cu o biserică gotică.",
+                  "category": "landmark",
+                  "coords": [
+                        11.957802,
+                        57.701004
+                  ]
+            },
+            {
+                  "name": "Saluhall Briggen",
+                  "text": "Hală de piață care oferă o varietate de alimente proaspete și produse locale.",
+                  "category": "landmark",
+                  "coords": [
+                        11.950155,
+                        57.698314
+                  ]
+            },
+            {
+                  "name": "Barken Viking",
+                  "text": "Navă istorică cu patru catarge ancorată permanent în port.",
+                  "category": "landmark",
+                  "coords": [
+                        11.96535,
+                        57.712731
+                  ]
+            },
+            {
+                  "name": "Skansen Lejonet",
+                  "text": "Turn de fortăreață istoric încununat cu o sculptură de leu auriu.",
+                  "category": "tower",
+                  "coords": [
+                        11.989474,
+                        57.714286
+                  ]
+            },
+            {
+                  "name": "Nordkaparen",
+                  "text": "Submarin muzeu care a făcut parte din Marina Suedeză.",
+                  "category": "landmark",
+                  "coords": [
+                        11.959676,
+                        57.709214
+                  ]
+            },
+            {
+                  "name": "Kvarnbron",
+                  "text": "Pod care traversează canalul în centrul orașului Göteborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.971788,
+                        57.707402
+                  ]
+            },
+            {
+                  "name": "Drottningtorgsbron",
+                  "text": "Pod situat lângă piața centrală și gara principală.",
+                  "category": "landmark",
+                  "coords": [
+                        11.973953,
+                        57.707445
+                  ]
+            },
+            {
+                  "name": "AtmosFear",
+                  "text": "Turn înalt de cădere liberă la Liseberg, oferind vederi panoramice.",
+                  "category": "tower",
+                  "coords": [
+                        11.990771,
+                        57.695343
+                  ]
+            },
+            {
+                  "name": "Fredsbron",
+                  "text": "Pod care traversează apa în orașul Göteborg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.969743,
+                        57.707105
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "Parc popular cunoscut pentru spațiile sale verzi și proximitatea față de universitate.",
+                  "category": "park",
+                  "coords": [
+                        11.972093,
+                        57.698319
+                  ]
+            },
+            {
+                  "name": "Trädgårdsföreningen",
+                  "text": "Parc mare și grădină botanică cu mii de trandafiri și o seră cu palmieri.",
+                  "category": "park",
+                  "coords": [
+                        11.974149,
+                        57.705129
+                  ]
+            },
+            {
+                  "name": "Vasaplatsen",
+                  "text": "Parc public și piață situată în districtul Vasastaden.",
+                  "category": "park",
+                  "coords": [
+                        11.96973,
+                        57.699385
+                  ]
+            },
+            {
+                  "name": "Hem i Haga",
+                  "text": "Muzeu care prezintă condițiile tradiționale de viață din cartierul istoric Haga.",
+                  "category": "museum",
+                  "coords": [
+                        11.955042,
+                        57.698632
+                  ]
+            },
+            {
+                  "name": "Radiomuseet",
+                  "text": "Muzeu dedicat istoriei radioului și telecomunicațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        11.945264,
+                        57.708744
+                  ]
+            },
+            {
+                  "name": "Backa Teater",
+                  "text": "Teatru renumit axat pe piese inovatoare pentru copii și tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        11.936044,
+                        57.705918
+                  ]
+            },
+            {
+                  "name": "Folkteatern",
+                  "text": "Teatru regional cunoscut pentru producțiile sale contemporane și angajate social.",
+                  "category": "cultural",
+                  "coords": [
+                        11.952033,
+                        57.700906
+                  ]
+            },
+            {
+                  "name": "Stora Teatern",
+                  "text": "Clădire istorică de teatru care găzduiește diverse arte spectacolului și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        11.970665,
+                        57.702538
+                  ]
+            },
+            {
+                  "name": "Lisebergsteatern",
+                  "text": "Locație de teatru situată în cadrul parcului de distracții Liseberg.",
+                  "category": "cultural",
+                  "coords": [
+                        11.990553,
+                        57.696501
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Medical History Museum",
+                  "text": "Museum in Gothenburg exploring the history and development of medicine.",
+                  "category": "museum",
+                  "coords": [
+                        11.966592,
+                        57.70889
+                  ]
+            },
+            {
+                  "name": "Röhsska museet",
+                  "text": "Museum for design, fashion and decorative arts in Gothenburg.",
+                  "category": "museum",
+                  "coords": [
+                        11.973515,
+                        57.699984
+                  ]
+            },
+            {
+                  "name": "Gathenhielmska Huset",
+                  "text": "Historic 18th-century house and cultural heritage site in Gothenburg.",
+                  "category": "museum",
+                  "coords": [
+                        11.93413,
+                        57.698583
+                  ]
+            },
+            {
+                  "name": "Museum of World Culture",
+                  "text": "Museum focusing on global cultures and contemporary social issues.",
+                  "category": "museum",
+                  "coords": [
+                        11.989581,
+                        57.694666
+                  ]
+            },
+            {
+                  "name": "Stora Katrinelund",
+                  "text": "Historic manor house and estate located in central Gothenburg.",
+                  "category": "castle",
+                  "coords": [
+                        11.988074,
+                        57.704168
+                  ]
+            },
+            {
+                  "name": "Maritime Museum & Aquarium",
+                  "text": "Museum dedicated to maritime history with a large aquarium.",
+                  "category": "museum",
+                  "coords": [
+                        11.932023,
+                        57.699174
+                  ]
+            },
+            {
+                  "name": "Stora Torp",
+                  "text": "Historic manor house and park area in Gothenburg.",
+                  "category": "castle",
+                  "coords": [
+                        12.019293,
+                        57.699076
+                  ]
+            },
+            {
+                  "name": "Stora Gårda",
+                  "text": "Historic manor building located in the city of Gothenburg.",
+                  "category": "castle",
+                  "coords": [
+                        12.007055,
+                        57.698275
+                  ]
+            },
+            {
+                  "name": "World of Volvo",
+                  "text": "Volvo's brand experience center featuring vehicle exhibitions and events.",
+                  "category": "museum",
+                  "coords": [
+                        11.997945,
+                        57.689514
+                  ]
+            },
+            {
+                  "name": "Börsen",
+                  "text": "Historic building used for city council meetings and official receptions.",
+                  "category": "historical",
+                  "coords": [
+                        11.966987,
+                        57.7077
+                  ]
+            },
+            {
+                  "name": "The Gothenburg Opera",
+                  "text": "Modern opera house located by the Göta älv river.",
+                  "category": "cultural",
+                  "coords": [
+                        11.96326,
+                        57.710692
+                  ]
+            },
+            {
+                  "name": "Atalante",
+                  "text": "Experimental venue for contemporary dance and performance art.",
+                  "category": "cultural",
+                  "coords": [
+                        11.957684,
+                        57.695056
+                  ]
+            },
+            {
+                  "name": "Göteborgs Stadsteater",
+                  "text": "The main city theatre of Gothenburg, located on Götaplatsen.",
+                  "category": "cultural",
+                  "coords": [
+                        11.980787,
+                        57.697498
+                  ]
+            },
+            {
+                  "name": "Gothenburg Cathedral",
+                  "text": "The principal church of the Diocese of Gothenburg, built in classical style.",
+                  "category": "religious",
+                  "coords": [
+                        11.9653,
+                        57.704538
+                  ]
+            },
+            {
+                  "name": "Masthugg Church",
+                  "text": "Striking church on a hill offering panoramic views of the city and harbor.",
+                  "category": "religious",
+                  "coords": [
+                        11.937464,
+                        57.697123
+                  ]
+            },
+            {
+                  "name": "Brämaregårdens kyrka",
+                  "text": "Local parish church located in the Brämaregården district.",
+                  "category": "religious",
+                  "coords": [
+                        11.944401,
+                        57.71858
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Historic church building serving the local community in Gothenburg.",
+                  "category": "religious",
+                  "coords": [
+                        11.939214,
+                        57.698786
+                  ]
+            },
+            {
+                  "name": "Oscar Fredriks kyrka",
+                  "text": "Impressive Neo-Gothic church known for its tall spire and detailed architecture.",
+                  "category": "religious",
+                  "coords": [
+                        11.947188,
+                        57.696629
+                  ]
+            },
+            {
+                  "name": "Annedalskyrkan",
+                  "text": "Large brick church serving the Annedal parish in Gothenburg.",
+                  "category": "religious",
+                  "coords": [
+                        11.954022,
+                        57.687158
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Also known as Christinae Church, it serves the German-speaking community.",
+                  "category": "religious",
+                  "coords": [
+                        11.964884,
+                        57.706713
+                  ]
+            },
+            {
+                  "name": "Landala kapell",
+                  "text": "Small wooden chapel located in the Landala district.",
+                  "category": "religious",
+                  "coords": [
+                        11.973362,
+                        57.691905
+                  ]
+            },
+            {
+                  "name": "Skårs kyrka",
+                  "text": "Local church serving the Skår neighborhood in Gothenburg.",
+                  "category": "religious",
+                  "coords": [
+                        12.006665,
+                        57.690857
+                  ]
+            },
+            {
+                  "name": "Göteborgs moské",
+                  "text": "The central place of worship for the Muslim community in Gothenburg.",
+                  "category": "religious",
+                  "coords": [
+                        11.943863,
+                        57.714536
+                  ]
+            },
+            {
+                  "name": "Rambergskyrkan",
+                  "text": "Local parish church situated in the city of Gothenburg.",
+                  "category": "religious",
+                  "coords": [
+                        11.938958,
+                        57.719712
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's Church",
+                  "text": "The Anglican church in Gothenburg, serving the English-speaking community.",
+                  "category": "religious",
+                  "coords": [
+                        11.961797,
+                        57.702086
+                  ]
+            },
+            {
+                  "name": "Hagakyrkan",
+                  "text": "Neoclassical church located in the historic Haga district.",
+                  "category": "religious",
+                  "coords": [
+                        11.962179,
+                        57.699019
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Local church building dedicated to Saint Paul in Gothenburg.",
+                  "category": "religious",
+                  "coords": [
+                        12.003516,
+                        57.714356
+                  ]
+            },
+            {
+                  "name": "Örgryte nya kyrka",
+                  "text": "Modern church building located in the Örgryte district.",
+                  "category": "religious",
+                  "coords": [
+                        12.005446,
+                        57.702887
+                  ]
+            },
+            {
+                  "name": "Brunnsbokyrkan",
+                  "text": "Local parish church serving the Brunnsbo area.",
+                  "category": "religious",
+                  "coords": [
+                        11.970097,
+                        57.728053
+                  ]
+            },
+            {
+                  "name": "Mariakyrkan",
+                  "text": "Local church dedicated to Saint Mary in Gothenburg.",
+                  "category": "religious",
+                  "coords": [
+                        11.987681,
+                        57.707771
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Large church built in Neo-Romanesque style in the Vasa district.",
+                  "category": "religious",
+                  "coords": [
+                        11.973427,
+                        57.69696
+                  ]
+            },
+            {
+                  "name": "Kulturreservatet Gathenhielm",
+                  "text": "Cultural reserve preserving historic buildings and gardens in Gothenburg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.932934,
+                        57.697613
+                  ]
+            },
+            {
+                  "name": "Radiobilarna",
+                  "text": "Classic bumper car attraction located in the Liseberg amusement park.",
+                  "category": "landmark",
+                  "coords": [
+                        11.993732,
+                        57.694383
+                  ]
+            },
+            {
+                  "name": "Mechanica",
+                  "text": "High-speed thrill ride found in the Liseberg amusement park.",
+                  "category": "landmark",
+                  "coords": [
+                        11.994209,
+                        57.692894
+                  ]
+            },
+            {
+                  "name": "Skansen Kronan",
+                  "text": "Historic stone fortress and tower offering views over the city.",
+                  "category": "tower",
+                  "coords": [
+                        11.955342,
+                        57.696008
+                  ]
+            },
+            {
+                  "name": "Fish Church",
+                  "text": "Iconic indoor fish market designed to resemble a Gothic church.",
+                  "category": "landmark",
+                  "coords": [
+                        11.957802,
+                        57.701004
+                  ]
+            },
+            {
+                  "name": "Saluhall Briggen",
+                  "text": "Indoor market hall offering a variety of fresh food and local products.",
+                  "category": "landmark",
+                  "coords": [
+                        11.950155,
+                        57.698314
+                  ]
+            },
+            {
+                  "name": "Barken Viking",
+                  "text": "Historic four-masted barque ship permanently moored in the harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        11.96535,
+                        57.712731
+                  ]
+            },
+            {
+                  "name": "Skansen Lejonet",
+                  "text": "Historic fortress tower topped with a golden lion sculpture.",
+                  "category": "tower",
+                  "coords": [
+                        11.989474,
+                        57.714286
+                  ]
+            },
+            {
+                  "name": "Nordkaparen",
+                  "text": "Submarine museum ship that was part of the Swedish Navy.",
+                  "category": "landmark",
+                  "coords": [
+                        11.959676,
+                        57.709214
+                  ]
+            },
+            {
+                  "name": "Kvarnbron",
+                  "text": "Bridge spanning the canal in central Gothenburg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.971788,
+                        57.707402
+                  ]
+            },
+            {
+                  "name": "Drottningtorgsbron",
+                  "text": "Bridge located near the central square and main train station.",
+                  "category": "landmark",
+                  "coords": [
+                        11.973953,
+                        57.707445
+                  ]
+            },
+            {
+                  "name": "AtmosFear",
+                  "text": "Tall drop tower ride offering views and a high-speed free fall at Liseberg.",
+                  "category": "tower",
+                  "coords": [
+                        11.990771,
+                        57.695343
+                  ]
+            },
+            {
+                  "name": "Fredsbron",
+                  "text": "Bridge crossing the water in the city of Gothenburg.",
+                  "category": "landmark",
+                  "coords": [
+                        11.969743,
+                        57.707105
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "Popular city park known for its green spaces and proximity to the university.",
+                  "category": "park",
+                  "coords": [
+                        11.972093,
+                        57.698319
+                  ]
+            },
+            {
+                  "name": "The Garden Society of Gothenburg",
+                  "text": "Large park and botanical garden featuring thousands of roses and a palm house.",
+                  "category": "park",
+                  "coords": [
+                        11.974149,
+                        57.705129
+                  ]
+            },
+            {
+                  "name": "Vasaplatsen",
+                  "text": "Public park and square located in the Vasastaden district.",
+                  "category": "park",
+                  "coords": [
+                        11.96973,
+                        57.699385
+                  ]
+            },
+            {
+                  "name": "Hem i Haga",
+                  "text": "Museum showcasing traditional living conditions in the historic Haga district.",
+                  "category": "museum",
+                  "coords": [
+                        11.955042,
+                        57.698632
+                  ]
+            },
+            {
+                  "name": "Radiomuseet",
+                  "text": "Museum dedicated to the history of radio and telecommunications.",
+                  "category": "museum",
+                  "coords": [
+                        11.945264,
+                        57.708744
+                  ]
+            },
+            {
+                  "name": "Backa Teater",
+                  "text": "Renowned theatre focusing on innovative plays for children and youth.",
+                  "category": "cultural",
+                  "coords": [
+                        11.936044,
+                        57.705918
+                  ]
+            },
+            {
+                  "name": "Folkteatern",
+                  "text": "Regional theatre known for its contemporary and socially engaged productions.",
+                  "category": "cultural",
+                  "coords": [
+                        11.952033,
+                        57.700906
+                  ]
+            },
+            {
+                  "name": "Stora Teatern",
+                  "text": "Historic theatre building hosting various performing arts and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        11.970665,
+                        57.702538
+                  ]
+            },
+            {
+                  "name": "Lisebergsteatern",
+                  "text": "Theatre venue located within the Liseberg amusement park.",
+                  "category": "cultural",
+                  "coords": [
+                        11.990553,
+                        57.696501
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [11.9746, 57.7089],
@@ -167,7 +4001,2032 @@ export const swedenRegions: POI[] = [
     image: "/geo-images/sweden/gothenburg.webp",
   },
   {
-    id: "city-malmo",
+    id: "city-malmo", "sights": {
+      "de": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "Ein Museum in Malmö, das der Volkshochschulbewegung gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "Ein Technik- und Seefahrtsmuseum in Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "Ein historisches Residenzgebäude in Malmö.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "Ein kleines Museum, das das Leben in einem historischen Stadthaus zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "Ein bekanntes Denkmal des Bildhauers Carl Milles in Malmö.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "Ein moderner Konzert- und Veranstaltungskomplex in Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Das Opernhaus von Malmö, bekannt für seine moderne Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "Einer der größten Ausstellungsorte für zeitgenössische Kunst in Europa.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Die älteste Kirche in Malmö, erbaut im Backsteingotik-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Eine markante Jugendstilkirche in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "Ein architektonisch bedeutendes jüdisches Gotteshaus in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "Eine moderne christliche Kirche im Stadtteil Erikslust.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Eine lutherische Kirche im Stadtteil Rosengård.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "Ein religiöses Gebäude und eine Kirchengemeinde in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Traditionelle Fischerhütten, die heute als Fischmarkt dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "Eine historische Klappbrücke im Hafen von Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "Eine markante Brücke, die das Universitätsviertel verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammspark",
+                  "text": "Ein großer Stadtpark in Malmö mit Teichen und Waldgebieten.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "Ein zentraler Park in Malmö, bekannt für seine Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Schlosspark",
+                  "text": "Ein weitläufiger Park direkt neben der Burg Malmöhus.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "Eine öffentliche Grünanlage im Osten von Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "Ein kleiner Park mit historischem Hintergrund in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "Ein öffentliches Schwimmbad und Wasserpark in Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "Ein Museum, das der Geschichte des Theaters in Malmö gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "Ein historisches Kino und Theater im Zentrum von Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "Ein bekannter Veranstaltungsort für Konzerte und Filme.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Ein christliches Gotteshaus in der Stadt Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Eine markante rote Backsteinkirche in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Ein religiöses Gebäude und Gebetsort in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Eine Kirche in Malmö, die historisch mit der deutschen Gemeinde verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "Eine lokale Kirche im Stadtteil Kirseberg.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Ein Gotteshaus der Immanuel-Gemeinde in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "Det Skandinaviska Wakf i Sverige",
+                  "text": "Ein islamisches Gemeindezentrum und Gebetsort in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "Ein Leuchtturm, der die Hafeneinfahrt von Malmö markiert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "Eine historische Windmühle in der Nähe der Burg Malmöhus.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "Eine Fußgängerbrücke in der Stadt Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "Eine Brückenkonstruktion in Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "Einer der ältesten Vergnügungsparks Schwedens.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "Ein kleiner lokaler Park, informell als Jesusparken bekannt.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "Ein moderner Küstenpark mit Blick auf den Öresund.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "Eine städtische Grünanlage in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "Ein Park in einem Wohngebiet von Malmö.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Ein beliebter Sandstrand mit Badehäusern in Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "Der Hauptteil der Museen von Malmö in der historischen Burg.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "Ein Zentrum für Architektur und Design in einem historischen Speicher.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "Ein kleines Museum für Fans des Brettspiels Monopoly.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "Ein Museum, das die Geschichte der Feuerwehr in Malmö zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "Ein Zweig des schwedischen Nationalmuseums für moderne Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "Ein Museum, das ungewöhnliche und ekelerregende Speisen aus aller Welt ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Malmö, die verschiedene künstlerische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "Ein Kunstraum in Malmö, der Ausstellungen zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "Eine Galerie in Malmö, die auf Kunst und Design spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "Eine moderne Kunstgalerie in Malmö, die Werke schwedischer und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "Ein Atelierverein in Malmö, der lokale Kunst und Kreativität fördert.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "Ein unabhängiger Kunstraum in Malmö für zeitgenössische Kunstpraktiken.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "Ein interdisziplinärer Kunstraum in Malmö für Ausstellungen und Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "A népfőiskolai mozgalomnak szentelt múzeum Malmőben.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "Műszaki és tengerészeti múzeum Malmőben.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "Történelmi rezidenciaépület Malmőben.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "Egy kis múzeum, amely az életet mutatja be egy történelmi városi házban.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "Carl Milles szobrászművész jól ismert emlékműve Malmőben.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "Modern koncert- és rendezvénykomplexum Malmőben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Malmői operaház, amely modern építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "Európa egyik legnagyobb kortárs művészeti kiállítóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Malmö legrégebbi temploma, tégla-gótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "Jellegzetes szecessziós templom Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "Építészetileg jelentős zsidó imaház Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "Modern keresztény templom Erikslust negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "Evangélikus templom Rosengård negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "Vallási épület és egyházközség Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Hagyományos halászkunyhók, amelyek ma halkpiacként szolgálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "Történelmi felnyitható híd Malmö kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "Jellegzetes híd, amely az egyetemi negyedet köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammsparken",
+                  "text": "Nagy városi park Malmőben tavakkal és erdős területekkel.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "Központi park Malmőben, amely zöldfelületeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Slottsparken",
+                  "text": "Kiterjedt park közvetlenül a Malmöhus vár mellett.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "Nyilvános zöldterület Malmö keleti részén.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "Történelmi hátterű kis park Malmőben.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "Nyilvános uszoda és vízipark Malmőben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "A malmői színházművészet történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "Történelmi mozi és színház Malmö központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "Ismert koncertek és filmek helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Keresztény imaház Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "Jellegzetes vörös téglás templom Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "Vallási épület és imádkozóhely Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "Történelmileg a német közösséghez kötődő templom Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "Helyi templom Kirseberg negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Az Immánuel gyülekezet imaháza Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "Det Skandinaviska Wakf i Sverige",
+                  "text": "Iszlám közösségi központ és imaház Malmőben.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "A malmői kikötő bejáratát jelző világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "Történelmi szélmalom a Malmöhus vár közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "Gyalogoshíd Malmőben.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "Hídszerkezet Malmőben.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "Svédország egyik legrégebbi vidámparkja.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "Kicsi helyi park, amelyet informálisan Jesusparken néven ismernek.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "Modern tengerparti park kilátással az Öresundre.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "Városi zöldterület Malmőben.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "Park Malmö egyik lakóövezetében.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "Népszerű homokos strand fürdőházakkal Malmőben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "A malmői múzeumok fő része a történelmi várban.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "Építészeti és design központ egy történelmi raktárban.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "Egy kis múzeum a Monopoly társasjáték kedvelőinek.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "A malmői tűzoltóság történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "A svéd nemzeti modern művészeti múzeum egyik ága.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "Szokatlan és gusztustalan ételeket bemutató múzeum a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "Kortárs művészeti galéria Malmőben, amely különféle alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "Művészeti tér Malmőben, ahol kortárs kiállításokat rendeznek.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "Művészeti és design galéria Malmőben.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "Modern művészeti galéria Malmőben, amely svéd és nemzetközi művészek munkáit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "Műtermi egyesület Malmőben, amely a helyi művészetet és kreativitást támogatja.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "Független művészeti tér Malmőben a kortárs művészeti gyakorlatok számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "Interdiszciplináris művészeti tér Malmőben kiállítások és események számára.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "Un muzeu din Malmö dedicat mișcării educației populare.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "Un muzeu al tehnicii și maritim din Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "O clădire istorică de reședință din Malmö.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "Un mic muzeu care prezintă viața într-o casă istorică de oraș.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "Un monument cunoscut al sculptorului Carl Milles din Malmö.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "Un complex modern de concerte și evenimente din Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Opera din Malmö, cunoscută pentru arhitectura sa modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "Unul dintre cele mai mari spații de expoziție pentru artă contemporană din Europa.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "Cea mai veche biserică din Malmö, construită în stil gotic din cărămidă.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "O biserică proeminentă în stil Jugendstil din Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "Un lăcaș de cult evreiesc semnificativ din punct de vedere arhitectural în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "O biserică creștină modernă în cartierul Erikslust.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "O biserică luterană în cartierul Rosengård.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "O clădire religioasă și parohie în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Colibe tradiționale de pescari care servesc astăzi drept piață de pește.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "Un pod basculant istoric în portul Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "Un pod proeminent care conectează zona universitară.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammsparken",
+                  "text": "Un parc orășenesc mare din Malmö, cu iazuri și zone împădurite.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "Un parc central din Malmö, cunoscut pentru spațiile sale verzi.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Slottsparken",
+                  "text": "Un parc vast situat chiar lângă castelul Malmöhus.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "O zonă verde publică în estul orașului Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "Un parc mic cu fundal istoric din Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "O piscină publică și parc acvatic în Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "Un muzeu dedicat istoriei teatrului din Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "Un cinematograf și teatru istoric din centrul orașului Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "O locație cunoscută pentru concerte și filme.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Un lăcaș de cult creștin din orașul Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "O biserică proeminentă din cărămidă roșie din Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "O clădire religioasă și loc de rugăciune în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "O biserică din Malmö legată istoric de comunitatea germană.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "O biserică locală în cartierul Kirseberg.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Un lăcaș de cult al comunității Immanuel din Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "Det Skandinaviska Wakf i Sverige",
+                  "text": "Un centru comunitar islamic și loc de rugăciune în Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "Un far care marchează intrarea în portul Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "O moară de vânt istorică situată lângă castelul Malmöhus.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "Un pod pietonal în orașul Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "O structură de pod în Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "Unul dintre cele mai vechi parcuri de distracții din Suedia.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "Un parc local mic, cunoscut informal sub numele de Jesusparken.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "Un parc de coastă modern cu vedere la Öresund.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "O zonă verde urbană în Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "Un parc într-o zonă rezidențială din Malmö.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborgsstranden",
+                  "text": "O plajă de nisip populară cu cabine de baie în Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "Partea principală a muzeelor din Malmö situată în castelul istoric.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "Un centru pentru arhitectură și design într-un depozit istoric.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "Un mic muzeu pentru fanii jocului de societate Monopoly.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "Un muzeu care prezintă istoria serviciului de pompieri din Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "O filială a muzeului național suedez de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "Un muzeu care expune mâncăruri neobișnuite și dezgustătoare din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "O galerie de artă contemporană din Malmö, care expune diverse lucrări artistice.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "Un spațiu de artă din Malmö care găzduiește expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "O galerie din Malmö specializată în artă și design.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "O galerie de artă modernă din Malmö care expune lucrări ale artiștilor suedezi și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "O asociație de ateliere din Malmö care promovează arta și creativitatea locală.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "Un spațiu de artă independent din Malmö pentru practici artistice contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "Un spațiu de artă interdisciplinar din Malmö pentru expoziții și evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Oscar Olsson-museet",
+                  "text": "A museum in Malmö dedicated to the folk high school movement.",
+                  "category": "museum",
+                  "coords": [
+                        13.010343,
+                        55.582754
+                  ]
+            },
+            {
+                  "name": "Teknikens och sjöfartens hus",
+                  "text": "A science and maritime museum located in Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        12.982778,
+                        55.604833
+                  ]
+            },
+            {
+                  "name": "Länsresidenset Malmö",
+                  "text": "A historic residence building in Malmö.",
+                  "category": "castle",
+                  "coords": [
+                        13.001007,
+                        55.60692
+                  ]
+            },
+            {
+                  "name": "Ebbas hus",
+                  "text": "A small museum showcasing life in a historic town house.",
+                  "category": "museum",
+                  "coords": [
+                        13.005777,
+                        55.605371
+                  ]
+            },
+            {
+                  "name": "Människan och Pegasus",
+                  "text": "A well-known monument by sculptor Carl Milles in Malmö.",
+                  "category": "historical",
+                  "coords": [
+                        12.987098,
+                        55.601106
+                  ]
+            },
+            {
+                  "name": "Malmö Live Konserthus",
+                  "text": "A modern concert and event complex in Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        12.993645,
+                        55.607352
+                  ]
+            },
+            {
+                  "name": "Malmö Opera",
+                  "text": "Malmö's opera house, known for its modern architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        12.995702,
+                        55.596122
+                  ]
+            },
+            {
+                  "name": "Malmö konsthall",
+                  "text": "One of Europe's largest exhibition spaces for contemporary art.",
+                  "category": "cultural",
+                  "coords": [
+                        12.99924,
+                        55.59527
+                  ]
+            },
+            {
+                  "name": "Sankt Petri kyrka",
+                  "text": "The oldest church in Malmö, built in Brick Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        13.003318,
+                        55.606936
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes kyrka",
+                  "text": "A prominent Art Nouveau church in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.00175,
+                        55.594199
+                  ]
+            },
+            {
+                  "name": "Malmö synagoga",
+                  "text": "An architecturally significant Jewish place of worship in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.010823,
+                        55.599534
+                  ]
+            },
+            {
+                  "name": "Heliga Trefaldighetskyrkan",
+                  "text": "A modern Christian church in the Erikslust district.",
+                  "category": "religious",
+                  "coords": [
+                        13.005633,
+                        55.578094
+                  ]
+            },
+            {
+                  "name": "Sankta Maria kyrka",
+                  "text": "A Lutheran church in the Rosengård district.",
+                  "category": "religious",
+                  "coords": [
+                        13.01216,
+                        55.588475
+                  ]
+            },
+            {
+                  "name": "Sankt Matteus kyrka",
+                  "text": "A religious building and parish in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.021336,
+                        55.589021
+                  ]
+            },
+            {
+                  "name": "Fiskehoddorna",
+                  "text": "Traditional fisherman's huts that now serve as a fish market.",
+                  "category": "landmark",
+                  "coords": [
+                        12.983794,
+                        55.605212
+                  ]
+            },
+            {
+                  "name": "Klaffbron",
+                  "text": "A historic bascule bridge in the port of Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.993716,
+                        55.612593
+                  ]
+            },
+            {
+                  "name": "Universitetsbron",
+                  "text": "A prominent bridge connecting the university area.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996274,
+                        55.612316
+                  ]
+            },
+            {
+                  "name": "Pildammsparken",
+                  "text": "A large city park in Malmö featuring ponds and wooded areas.",
+                  "category": "park",
+                  "coords": [
+                        12.992064,
+                        55.590623
+                  ]
+            },
+            {
+                  "name": "Rörsjöparken",
+                  "text": "A central park in Malmö known for its green spaces.",
+                  "category": "park",
+                  "coords": [
+                        13.017778,
+                        55.605077
+                  ]
+            },
+            {
+                  "name": "Slottsparken",
+                  "text": "A spacious park located right next to Malmöhus Castle.",
+                  "category": "park",
+                  "coords": [
+                        12.988699,
+                        55.601464
+                  ]
+            },
+            {
+                  "name": "Gerlachs park",
+                  "text": "A public green space in the eastern part of Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.032087,
+                        55.608594
+                  ]
+            },
+            {
+                  "name": "Garnisonsplanteringen",
+                  "text": "A small park with a historical background in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.034062,
+                        55.608401
+                  ]
+            },
+            {
+                  "name": "Simhallsbadet",
+                  "text": "A public swimming pool and water park in Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.992406,
+                        55.599216
+                  ]
+            },
+            {
+                  "name": "Teatermuseet",
+                  "text": "A museum dedicated to the history of theatre in Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        13.002747,
+                        55.60594
+                  ]
+            },
+            {
+                  "name": "Victoriateatern",
+                  "text": "A historic cinema and theatre in central Malmö.",
+                  "category": "cultural",
+                  "coords": [
+                        13.00124,
+                        55.599199
+                  ]
+            },
+            {
+                  "name": "Palladium",
+                  "text": "A well-known venue for concerts and films.",
+                  "category": "cultural",
+                  "coords": [
+                        13.001061,
+                        55.6041
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "A Christian place of worship in the city of Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986127,
+                        55.596806
+                  ]
+            },
+            {
+                  "name": "Sankt Pauli kyrka",
+                  "text": "A prominent red brick church in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.014382,
+                        55.603017
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas kyrka",
+                  "text": "A religious building and place of prayer in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.971279,
+                        55.599213
+                  ]
+            },
+            {
+                  "name": "Tyska kyrkan",
+                  "text": "A church in Malmö historically linked to the German community.",
+                  "category": "religious",
+                  "coords": [
+                        12.963147,
+                        55.596043
+                  ]
+            },
+            {
+                  "name": "Kirsebergs kyrka",
+                  "text": "A local church in the Kirseberg district.",
+                  "category": "religious",
+                  "coords": [
+                        13.041322,
+                        55.608853
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "A place of worship for the Immanuel congregation in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        12.986865,
+                        55.593891
+                  ]
+            },
+            {
+                  "name": "The Scandinavian Wakf in Sweden",
+                  "text": "An Islamic community centre and place of prayer in Malmö.",
+                  "category": "religious",
+                  "coords": [
+                        13.039684,
+                        55.594263
+                  ]
+            },
+            {
+                  "name": "Malmö vågbrytarbank",
+                  "text": "A lighthouse marking the entrance to Malmö harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        12.976219,
+                        55.624896
+                  ]
+            },
+            {
+                  "name": "Slottsmöllan",
+                  "text": "A historic windmill located near Malmöhus Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        12.986052,
+                        55.603086
+                  ]
+            },
+            {
+                  "name": "Petribron",
+                  "text": "A pedestrian bridge in the city of Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        13.002026,
+                        55.608479
+                  ]
+            },
+            {
+                  "name": "Älvsborgsbron",
+                  "text": "A bridge structure located in Malmö.",
+                  "category": "landmark",
+                  "coords": [
+                        12.996093,
+                        55.607306
+                  ]
+            },
+            {
+                  "name": "Folkets park",
+                  "text": "One of the oldest amusement parks in Sweden.",
+                  "category": "park",
+                  "coords": [
+                        13.013807,
+                        55.59348
+                  ]
+            },
+            {
+                  "name": "Jesusparken",
+                  "text": "A small local park informally known as Jesusparken.",
+                  "category": "park",
+                  "coords": [
+                        13.015232,
+                        55.590411
+                  ]
+            },
+            {
+                  "name": "Scaniaparken",
+                  "text": "A modern coastal park with views over the Öresund.",
+                  "category": "park",
+                  "coords": [
+                        12.976788,
+                        55.617678
+                  ]
+            },
+            {
+                  "name": "Cronheimsparken",
+                  "text": "An urban green space in Malmö.",
+                  "category": "park",
+                  "coords": [
+                        13.045258,
+                        55.590017
+                  ]
+            },
+            {
+                  "name": "Rönneholmsparken",
+                  "text": "A park located in a residential area of Malmö.",
+                  "category": "park",
+                  "coords": [
+                        12.975995,
+                        55.594949
+                  ]
+            },
+            {
+                  "name": "Ribersborg Beach",
+                  "text": "A popular sandy beach with bathhouses in Malmö.",
+                  "category": "recreational",
+                  "coords": [
+                        12.960453,
+                        55.602398
+                  ]
+            },
+            {
+                  "name": "Malmö Museer Slottsholmen",
+                  "text": "The main part of Malmö's museums located in the historic castle.",
+                  "category": "museum",
+                  "coords": [
+                        12.986984,
+                        55.604751
+                  ]
+            },
+            {
+                  "name": "Form Design Center",
+                  "text": "A centre for architecture and design in a historic warehouse.",
+                  "category": "museum",
+                  "coords": [
+                        12.999206,
+                        55.604503
+                  ]
+            },
+            {
+                  "name": "Monopoly Fanclub Sweden",
+                  "text": "A small museum for fans of the Monopoly board game.",
+                  "category": "museum",
+                  "coords": [
+                        12.983748,
+                        55.589777
+                  ]
+            },
+            {
+                  "name": "Brandmuséet",
+                  "text": "A museum showcasing the history of the fire service in Malmö.",
+                  "category": "museum",
+                  "coords": [
+                        13.008836,
+                        55.602402
+                  ]
+            },
+            {
+                  "name": "Moderna Museet",
+                  "text": "A branch of the Swedish national museum for modern art.",
+                  "category": "museum",
+                  "coords": [
+                        13.009567,
+                        55.604632
+                  ]
+            },
+            {
+                  "name": "Disgusting Food Museum",
+                  "text": "A museum exhibiting unusual and disgusting foods from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        13.00131,
+                        55.600897
+                  ]
+            },
+            {
+                  "name": "Molekyl Gallery",
+                  "text": "A contemporary art gallery in Malmö showcasing various artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        13.023898,
+                        55.595394
+                  ]
+            },
+            {
+                  "name": "Arkana",
+                  "text": "An art space in Malmö featuring contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        13.008339,
+                        55.593075
+                  ]
+            },
+            {
+                  "name": "Galleri Ann-Katrin Braf",
+                  "text": "A gallery in Malmö specializing in art and design.",
+                  "category": "museum",
+                  "coords": [
+                        12.989845,
+                        55.595586
+                  ]
+            },
+            {
+                  "name": "Galleri Lohme",
+                  "text": "A modern art gallery in Malmö exhibiting works by Swedish and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        12.993424,
+                        55.597857
+                  ]
+            },
+            {
+                  "name": "Ateljéföreningen Sulfur",
+                  "text": "A studio association in Malmö promoting local art and creativity.",
+                  "category": "museum",
+                  "coords": [
+                        13.031216,
+                        55.598506
+                  ]
+            },
+            {
+                  "name": "Alta Art Space",
+                  "text": "An independent art space in Malmö for contemporary art practices.",
+                  "category": "museum",
+                  "coords": [
+                        13.034825,
+                        55.599537
+                  ]
+            },
+            {
+                  "name": "FRANK",
+                  "text": "An interdisciplinary art space in Malmö for exhibitions and events.",
+                  "category": "museum",
+                  "coords": [
+                        13.00777,
+                        55.589029
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [13.0038, 55.6050],
@@ -228,7 +6087,1960 @@ export const swedenRegions: POI[] = [
     image: "/geo-images/sweden/malmo.webp",
   },
   {
-    id: "city-uppsala",
+    id: "city-uppsala", "sights": {
+      "de": [
+            {
+                  "name": "Fredens hus",
+                  "text": "Ein Museum in Uppsala, das sich Themen wie Frieden, Demokratie und Menschenrechten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        17.638904,
+                        59.857752
+                  ]
+            },
+            {
+                  "name": "Evolutionsmuseet Zoologi",
+                  "text": "Dieses Museum beherbergt umfangreiche zoologische Sammlungen der Universität Uppsala.",
+                  "category": "museum",
+                  "coords": [
+                        17.626239,
+                        59.850178
+                  ]
+            },
+            {
+                  "name": "Evolutionsmuseet Paleontologi",
+                  "text": "Teil des Evolutionsmuseums mit einer beeindruckenden Sammlung von Fossilien und Dinosauriern.",
+                  "category": "museum",
+                  "coords": [
+                        17.62208,
+                        59.849251
+                  ]
+            },
+            {
+                  "name": "Uppsala universitets myntkabinett",
+                  "text": "Das Münzkabinett der Universität Uppsala zeigt eine bedeutende Sammlung von Münzen und Medaillen.",
+                  "category": "museum",
+                  "coords": [
+                        17.631707,
+                        59.858031
+                  ]
+            },
+            {
+                  "name": "Uppsala domkyrkas skattkammare",
+                  "text": "Die Schatzkammer im Dom von Uppsala zeigt wertvolle Textilien und religiöse Gegenstände.",
+                  "category": "museum",
+                  "coords": [
+                        17.63271,
+                        59.858237
+                  ]
+            },
+            {
+                  "name": "Uppsala konstmuseum",
+                  "text": "Das Kunstmuseum ist im Schloss Uppsala untergebracht und zeigt moderne und zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        17.635155,
+                        59.853248
+                  ]
+            },
+            {
+                  "name": "Carolina Rediviva",
+                  "text": "Das Hauptgebäude der Universitätsbibliothek Uppsala beherbergt bedeutende historische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        17.631173,
+                        59.854992
+                  ]
+            },
+            {
+                  "name": "Biotopia",
+                  "text": "Dieses biologische Museum in Uppsala widmet sich der Tierwelt und Natur der Region.",
+                  "category": "museum",
+                  "coords": [
+                        17.622403,
+                        59.860052
+                  ]
+            },
+            {
+                  "name": "Upplandsmuseet",
+                  "text": "Das Regionalmuseum von Uppland präsentiert die Kulturgeschichte der Provinz in einem ehemaligen Mühlengebäude.",
+                  "category": "museum",
+                  "coords": [
+                        17.635,
+                        59.858898
+                  ]
+            },
+            {
+                  "name": "Pumphuset",
+                  "text": "Ein ehemaliges Wasserpumpwerk in Uppsala, das heute als technisches Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        17.641499,
+                        59.85457
+                  ]
+            },
+            {
+                  "name": "Linnémuseet",
+                  "text": "Das ehemalige Wohnhaus von Carl von Linné in Uppsala ist heute ein Museum über sein Leben und Werk.",
+                  "category": "museum",
+                  "coords": [
+                        17.633666,
+                        59.861641
+                  ]
+            },
+            {
+                  "name": "Sten Sture-monumentet",
+                  "text": "Ein markantes Denkmal in Uppsala zu Ehren des schwedischen Staatsmannes Sten Sture des Älteren.",
+                  "category": "historical",
+                  "coords": [
+                        17.645033,
+                        59.846011
+                  ]
+            },
+            {
+                  "name": "Uppsala stadshus",
+                  "text": "Der Sitz der Stadtverwaltung von Uppsala ist ein funktionales Gebäude im Herzen der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        17.64296,
+                        59.859752
+                  ]
+            },
+            {
+                  "name": "Den Lilla Teatern",
+                  "text": "Ein kleines, charmantes Theater in Uppsala, das oft Stücke für Kinder und Jugendliche zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.642006,
+                        59.862147
+                  ]
+            },
+            {
+                  "name": "Reginateatern",
+                  "text": "Ein historisches Theatergebäude in Uppsala, das als Bühne für Gastspiele und lokale Produktionen dient.",
+                  "category": "cultural",
+                  "coords": [
+                        17.636127,
+                        59.856905
+                  ]
+            },
+            {
+                  "name": "Uppsala domkyrka",
+                  "text": "Die größte Kathedrale Skandinaviens ist die Krönungs- und Grabstätte zahlreicher schwedischer Könige.",
+                  "category": "religious",
+                  "coords": [
+                        17.633611,
+                        59.858156
+                  ]
+            },
+            {
+                  "name": "Samariterhemmets kyrka",
+                  "text": "Eine ruhige Kirche in Uppsala, die zum Diakoniewerk Samariterhemmet gehört.",
+                  "category": "religious",
+                  "coords": [
+                        17.6491,
+                        59.85546
+                  ]
+            },
+            {
+                  "name": "Helga Trefaldighets Kyrka",
+                  "text": "Eine mittelalterliche Kirche in der Nähe der Kathedrale, bekannt für ihre gut erhaltenen Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        17.632651,
+                        59.856891
+                  ]
+            },
+            {
+                  "name": "Uppsala moské",
+                  "text": "Ein modernes religiöses Zentrum und Gebetshaus für die muslimische Gemeinde in Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.638216,
+                        59.874003
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "Eine evangelisch-lutherische Kirche in Uppsala, benannt nach dem „Apostel des Nordens“.",
+                  "category": "religious",
+                  "coords": [
+                        17.615001,
+                        59.853677
+                  ]
+            },
+            {
+                  "name": "Vindhemskyrkan",
+                  "text": "Eine lokale Gemeindekirche in Uppsala, die als Treffpunkt für Gottesdienste und soziale Aktivitäten dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.619475,
+                        59.862714
+                  ]
+            },
+            {
+                  "name": "Livets Ord",
+                  "text": "Das Hauptquartier einer bekannten christlichen Freikirche und Glaubensgemeinschaft in Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.692269,
+                        59.858209
+                  ]
+            },
+            {
+                  "name": "Tunabergskyrkan",
+                  "text": "Eine moderne Kirche im Stadtteil Tunaberg, die als Zentrum für die örtliche Gemeinde fungiert.",
+                  "category": "religious",
+                  "coords": [
+                        17.619607,
+                        59.878058
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Eine evangelische Freikirche in Uppsala, die regelmäßige Gottesdienste und Gemeindeabende anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        17.643179,
+                        59.86909
+                  ]
+            },
+            {
+                  "name": "Årstakyrkan",
+                  "text": "Eine schlichte und einladende Kirche, die das geistliche Leben im Stadtteil Årsta bereichert.",
+                  "category": "religious",
+                  "coords": [
+                        17.685743,
+                        59.865995
+                  ]
+            },
+            {
+                  "name": "Sankt Pers kyrka",
+                  "text": "Eine moderne Backsteinkirche in Uppsala, die nach dem Apostel Petrus benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.650136,
+                        59.867637
+                  ]
+            },
+            {
+                  "name": "Salabackekyrkan",
+                  "text": "Die Gemeindekirche des Stadtteils Salabacke in Uppsala, bekannt für ihre zeitgenössische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        17.667944,
+                        59.868973
+                  ]
+            },
+            {
+                  "name": "Lötenkyrkan",
+                  "text": "Eine lebendige Kirche im Osten von Uppsala, die als wichtiges soziales und religiöses Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.647107,
+                        59.878367
+                  ]
+            },
+            {
+                  "name": "Baptistkyrkan",
+                  "text": "Die historische Baptistengemeinde von Uppsala versammelt sich in diesem zentral gelegenen Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        17.643721,
+                        59.857541
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "Eine Freikirche im Zentrum von Uppsala, die für ihre offene Atmosphäre und soziale Arbeit bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.636266,
+                        59.861683
+                  ]
+            },
+            {
+                  "name": "Mikaelskyrkan",
+                  "text": "Eine nach dem Erzengel Michael benannte Kirche, die als geistlicher Treffpunkt in Uppsala dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.63454,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Gunillaklockan",
+                  "text": "Diese historische Glocke in der Nähe des Schlosses Uppsala wird traditionell zu akademischen Anlässen geläutet.",
+                  "category": "tower",
+                  "coords": [
+                        17.634057,
+                        59.854218
+                  ]
+            },
+            {
+                  "name": "Fyrisvallsbron",
+                  "text": "Eine Brücke über den Fluss Fyrisån, die wichtige Stadtteile im Norden von Uppsala verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.623367,
+                        59.869305
+                  ]
+            },
+            {
+                  "name": "Haglunds bro",
+                  "text": "Eine Fußgängerbrücke in Uppsala, die einen malerischen Blick auf den Fluss und die Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        17.631526,
+                        59.861985
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Die „Neue Brücke“ ist eine der verkehrsreichsten Flussüberquerungen im Herzen von Uppsala.",
+                  "category": "landmark",
+                  "coords": [
+                        17.637451,
+                        59.85789
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "Ein großes Waldgebiet und Naturreservat in Uppsala, das beliebte Wege zum Wandern und Joggen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        17.618455,
+                        59.839383
+                  ]
+            },
+            {
+                  "name": "Uppsala Kungsäng",
+                  "text": "Ein Naturschutzgebiet südlich von Uppsala, bekannt für seine weiten Wiesen und seltene Flora.",
+                  "category": "natural",
+                  "coords": [
+                        17.662364,
+                        59.836674
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "Der Stadtgarten von Uppsala ist ein beliebter Park am Flussufer mit Spielplätzen und Blumenbeeten.",
+                  "category": "park",
+                  "coords": [
+                        17.642268,
+                        59.85251
+                  ]
+            },
+            {
+                  "name": "Observatorieparken",
+                  "text": "Ein Park rund um das alte Observatorium, der Ruhe und einen Blick über die Stadt bietet.",
+                  "category": "park",
+                  "coords": [
+                        17.621969,
+                        59.857669
+                  ]
+            },
+            {
+                  "name": "Engelska parken",
+                  "text": "Ein weitläufiger Park in der Nähe der Universität, ideal für Spaziergänge und Erholung im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        17.629509,
+                        59.854593
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Ein repräsentativer Park vor dem Hauptgebäude der Universität Uppsala mit mehreren Runensteinen.",
+                  "category": "park",
+                  "coords": [
+                        17.630637,
+                        59.858229
+                  ]
+            },
+            {
+                  "name": "Höganäsparken",
+                  "text": "Ein kleinerer Nachbarschaftspark in Uppsala, der als grüne Oase im Stadtviertel Höganäs dient.",
+                  "category": "park",
+                  "coords": [
+                        17.6434,
+                        59.866118
+                  ]
+            },
+            {
+                  "name": "Flogstaparken",
+                  "text": "Ein Park im studentisch geprägten Stadtteil Flogsta, der Platz für Freizeitaktivitäten im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        17.585823,
+                        59.849366
+                  ]
+            },
+            {
+                  "name": "Byggmästarparken",
+                  "text": "Ein lokaler Park in Uppsala mit Grünflächen und schattigen Plätzen zum Verweilen.",
+                  "category": "park",
+                  "coords": [
+                        17.674511,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Källparken",
+                  "text": "Ein beliebter Park im Stadtteil Salabacke, bekannt für seine offenen Wiesen und Freizeitmöglichkeiten.",
+                  "category": "park",
+                  "coords": [
+                        17.674014,
+                        59.869544
+                  ]
+            },
+            {
+                  "name": "Tegnérparken",
+                  "text": "Ein gemütlicher Park in Uppsala, benannt nach dem berühmten schwedischen Dichter Esaias Tegnér.",
+                  "category": "park",
+                  "coords": [
+                        17.613131,
+                        59.861899
+                  ]
+            },
+            {
+                  "name": "Gotlandsparken",
+                  "text": "Ein kleiner, gepflegter Park in Uppsala, der zum Entspannen im Stadtzentrum einlädt.",
+                  "category": "park",
+                  "coords": [
+                        17.6341,
+                        59.85976
+                  ]
+            },
+            {
+                  "name": "Finn Malmgrens plan",
+                  "text": "Ein nach dem Polarforscher Finn Malmgren benannter Platz mit angrenzenden Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        17.627337,
+                        59.860764
+                  ]
+            },
+            {
+                  "name": "Artediparken",
+                  "text": "Ein ruhiger Park in Uppsala, der dem Andenken an den Naturforscher Peter Artedi gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        17.632492,
+                        59.860039
+                  ]
+            },
+            {
+                  "name": "Vindhemsparken",
+                  "text": "Ein lokaler Stadtteilpark, der den Bewohnern von Vindhem Erholung im Freien bietet.",
+                  "category": "park",
+                  "coords": [
+                        17.620874,
+                        59.862445
+                  ]
+            },
+            {
+                  "name": "Frodeparken",
+                  "text": "Ein moderner Park in der Nähe des Hauptbahnhofs Uppsala mit Spielbereichen und Sitzgelegenheiten.",
+                  "category": "park",
+                  "coords": [
+                        17.65115,
+                        59.858248
+                  ]
+            },
+            {
+                  "name": "Gunnar Leches park",
+                  "text": "Ein kleiner Park, der den Namen des bedeutenden Stadtarchitekten Gunnar Leche trägt.",
+                  "category": "park",
+                  "coords": [
+                        17.644348,
+                        59.858571
+                  ]
+            },
+            {
+                  "name": "Batteriparken",
+                  "text": "Eine Grünanlage in Uppsala, die als lokaler Treffpunkt und Erholungsort dient.",
+                  "category": "park",
+                  "coords": [
+                        17.635988,
+                        59.84657
+                  ]
+            },
+            {
+                  "name": "Martin Luther Kings plan",
+                  "text": "Ein öffentlicher Platz in Uppsala, der nach dem amerikanischen Bürgerrechtler Martin Luther King benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        17.628568,
+                        59.857236
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fredens hus",
+                  "text": "Uppsala múzeuma, amely a béke, a demokrácia és az emberi jogok témakörével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        17.638904,
+                        59.857752
+                  ]
+            },
+            {
+                  "name": "Evolutionsmuseet Zoologi",
+                  "text": "A múzeum az Uppsalai Egyetem gazdag zoológiai gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.626239,
+                        59.850178
+                  ]
+            },
+            {
+                  "name": "Evolutionsmuseet Paleontologi",
+                  "text": "Az Evolúciós Múzeum része, amely lenyűgöző fosszília- és dinoszaurusz-gyűjteménnyel rendelkezik.",
+                  "category": "museum",
+                  "coords": [
+                        17.62208,
+                        59.849251
+                  ]
+            },
+            {
+                  "name": "Uppsala universitets myntkabinett",
+                  "text": "Az Uppsalai Egyetem éremtára jelentős érme- és éremgyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.631707,
+                        59.858031
+                  ]
+            },
+            {
+                  "name": "Uppsala domkyrkas skattkammare",
+                  "text": "Az uppsalai dóm kincstára értékes textíliákat és vallási tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.63271,
+                        59.858237
+                  ]
+            },
+            {
+                  "name": "Uppsala konstmuseum",
+                  "text": "Az Uppsalai várban található művészeti múzeum modern és kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.635155,
+                        59.853248
+                  ]
+            },
+            {
+                  "name": "Carolina Rediviva",
+                  "text": "Az Uppsalai Egyetemi Könyvtár főépülete jelentős történelmi gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        17.631173,
+                        59.854992
+                  ]
+            },
+            {
+                  "name": "Biotopia",
+                  "text": "Ez az uppsalai biológiai múzeum a régió élővilágának és természetének bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        17.622403,
+                        59.860052
+                  ]
+            },
+            {
+                  "name": "Upplandsmuseet",
+                  "text": "Uppland regionális múzeuma a tartomány kultúrtörténetét mutatja be egy egykori malomépületben.",
+                  "category": "museum",
+                  "coords": [
+                        17.635,
+                        59.858898
+                  ]
+            },
+            {
+                  "name": "Pumphuset",
+                  "text": "Egy egykori vízmű Uppsalában, amely ma ipartörténeti múzeumként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        17.641499,
+                        59.85457
+                  ]
+            },
+            {
+                  "name": "Linnémuseet",
+                  "text": "Carl von Linné egykori uppsalai lakóháza ma az életét és munkásságát bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        17.633666,
+                        59.861641
+                  ]
+            },
+            {
+                  "name": "Sten Sture-monumentet",
+                  "text": "Jelentős emlékmű Uppsalában az idősebb Sten Sture svéd államférfi tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        17.645033,
+                        59.846011
+                  ]
+            },
+            {
+                  "name": "Uppsala stadshus",
+                  "text": "Uppsala önkormányzatának székhelye egy funkcionális épület a város szívében.",
+                  "category": "historical",
+                  "coords": [
+                        17.64296,
+                        59.859752
+                  ]
+            },
+            {
+                  "name": "Den Lilla Teatern",
+                  "text": "Egy kicsi, bájos színház Uppsalában, amely gyakran tart előadásokat gyermekeknek és fiataloknak.",
+                  "category": "cultural",
+                  "coords": [
+                        17.642006,
+                        59.862147
+                  ]
+            },
+            {
+                  "name": "Reginateatern",
+                  "text": "Történelmi színházépület Uppsalában, amely vendégjátékoknak és helyi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.636127,
+                        59.856905
+                  ]
+            },
+            {
+                  "name": "Uppsala domkyrka",
+                  "text": "Skandinávia legnagyobb székesegyháza számos svéd király koronázási és temetkezési helye.",
+                  "category": "religious",
+                  "coords": [
+                        17.633611,
+                        59.858156
+                  ]
+            },
+            {
+                  "name": "Samariterhemmets kyrka",
+                  "text": "Egy csendes templom Uppsalában, amely a Samariterhemmet diakóniai központhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        17.6491,
+                        59.85546
+                  ]
+            },
+            {
+                  "name": "Helga Trefaldighets Kyrka",
+                  "text": "Középkori templom a székesegyház közelében, amely jól megőrzött falfestményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        17.632651,
+                        59.856891
+                  ]
+            },
+            {
+                  "name": "Uppsala moské",
+                  "text": "Modern vallási központ és imaház az uppsalai muszlim közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        17.638216,
+                        59.874003
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "Evangélikus templom Uppsalában, amelyet az „észak apostoláról” neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        17.615001,
+                        59.853677
+                  ]
+            },
+            {
+                  "name": "Vindhemskyrkan",
+                  "text": "Egy helyi közösségi templom Uppsalában, amely istentiszteletek és közösségi események helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        17.619475,
+                        59.862714
+                  ]
+            },
+            {
+                  "name": "Livets Ord",
+                  "text": "Egy ismert keresztény szabadegyház és hívőközösség központja Uppsalában.",
+                  "category": "religious",
+                  "coords": [
+                        17.692269,
+                        59.858209
+                  ]
+            },
+            {
+                  "name": "Tunabergskyrkan",
+                  "text": "Modern templom Tunaberg negyedben, amely a helyi közösség központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        17.619607,
+                        59.878058
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Evangéliumi szabadegyház Uppsalában, amely rendszeres istentiszteleteket és közösségi esteket tart.",
+                  "category": "religious",
+                  "coords": [
+                        17.643179,
+                        59.86909
+                  ]
+            },
+            {
+                  "name": "Årstakyrkan",
+                  "text": "Egyszerű és barátságos templom, amely Årsta negyed hitéletét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        17.685743,
+                        59.865995
+                  ]
+            },
+            {
+                  "name": "Sankt Pers kyrka",
+                  "text": "Szent Péter apostolról elnevezett modern téglaépítésű templom Uppsalában.",
+                  "category": "religious",
+                  "coords": [
+                        17.650136,
+                        59.867637
+                  ]
+            },
+            {
+                  "name": "Salabackekyrkan",
+                  "text": "Salabacke negyed közösségi temploma Uppsalában, amely kortárs építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        17.667944,
+                        59.868973
+                  ]
+            },
+            {
+                  "name": "Lötenkyrkan",
+                  "text": "Élénk hitéletű templom Uppsala keleti részén, amely fontos szociális és vallási központ.",
+                  "category": "religious",
+                  "coords": [
+                        17.647107,
+                        59.878367
+                  ]
+            },
+            {
+                  "name": "Baptistkyrkan",
+                  "text": "Uppsala történelmi baptista közössége ebben a központi fekvésű templomban gyűlik össze.",
+                  "category": "religious",
+                  "coords": [
+                        17.643721,
+                        59.857541
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "Szabadegyház Uppsala központjában, amely nyitott légköréről és szociális munkájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        17.636266,
+                        59.861683
+                  ]
+            },
+            {
+                  "name": "Mikaelskyrkan",
+                  "text": "Mihály arkangyalról elnevezett templom, amely lelki találkozóhelyként szolgál Uppsalában.",
+                  "category": "religious",
+                  "coords": [
+                        17.63454,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Gunillaklockan",
+                  "text": "Ezt a történelmi harangot az uppsalai vár közelében hagyományosan egyetemi alkalmakkor kondítják meg.",
+                  "category": "tower",
+                  "coords": [
+                        17.634057,
+                        59.854218
+                  ]
+            },
+            {
+                  "name": "Fyrisvallsbron",
+                  "text": "A Fyrisån folyón átívelő híd, amely fontos északi városrészeket köt össze Uppsalában.",
+                  "category": "landmark",
+                  "coords": [
+                        17.623367,
+                        59.869305
+                  ]
+            },
+            {
+                  "name": "Haglunds bro",
+                  "text": "Gyalogoshíd Uppsalában, amely festői kilátást nyújt a folyóra és a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        17.631526,
+                        59.861985
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "Az „Új híd” az egyik legforgalmasabb folyami átkelő Uppsala szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        17.637451,
+                        59.85789
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "Nagy erdős terület és természetvédelmi terület Uppsalában, népszerű túra- és futóútvonalakkal.",
+                  "category": "natural",
+                  "coords": [
+                        17.618455,
+                        59.839383
+                  ]
+            },
+            {
+                  "name": "Uppsala Kungsäng",
+                  "text": "Természetvédelmi terület Uppsala déli részén, amely kiterjedt rétjeiről és ritka növényvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        17.662364,
+                        59.836674
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "Uppsala városi kertje egy népszerű folyóparti park játszóterekkel és virágágyásokkal.",
+                  "category": "park",
+                  "coords": [
+                        17.642268,
+                        59.85251
+                  ]
+            },
+            {
+                  "name": "Observatorieparken",
+                  "text": "A régi csillagvizsgáló körüli park, amely nyugalmat és kilátást nyújt a városra.",
+                  "category": "park",
+                  "coords": [
+                        17.621969,
+                        59.857669
+                  ]
+            },
+            {
+                  "name": "Engelska parken",
+                  "text": "Kiterjedt park az egyetem közelében, amely ideális sétákhoz és zöldövezeti kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        17.629509,
+                        59.854593
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Reprezentatív park az Uppsalai Egyetem főépülete előtt, több rúnakővel.",
+                  "category": "park",
+                  "coords": [
+                        17.630637,
+                        59.858229
+                  ]
+            },
+            {
+                  "name": "Höganäsparken",
+                  "text": "Kisebb környékbeli park Uppsalában, amely zöld oázisként szolgál Höganäs negyedben.",
+                  "category": "park",
+                  "coords": [
+                        17.6434,
+                        59.866118
+                  ]
+            },
+            {
+                  "name": "Flogstaparken",
+                  "text": "Park a diákok által lakott Flogsta negyedben, amely helyet biztosít a szabadtéri szabadidős tevékenységekhez.",
+                  "category": "park",
+                  "coords": [
+                        17.585823,
+                        59.849366
+                  ]
+            },
+            {
+                  "name": "Byggmästarparken",
+                  "text": "Helyi park Uppsalában zöldterületekkel és árnyékos pihenőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        17.674511,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Källparken",
+                  "text": "Népszerű park Salabacke negyedben, amely nyitott rétjeiről és szabadidős lehetőségeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        17.674014,
+                        59.869544
+                  ]
+            },
+            {
+                  "name": "Tegnérparken",
+                  "text": "Hangulatos park Uppsalában, amelyet a híres svéd költőről, Esaias Tegnérről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        17.613131,
+                        59.861899
+                  ]
+            },
+            {
+                  "name": "Gotlandsparken",
+                  "text": "Kicsi, gondozott park Uppsalában, amely kikapcsolódásra hív a városközpontban.",
+                  "category": "park",
+                  "coords": [
+                        17.6341,
+                        59.85976
+                  ]
+            },
+            {
+                  "name": "Finn Malmgrens plan",
+                  "text": "A sarkkutató Finn Malmgrenről elnevezett tér a szomszédos zöldterületekkel.",
+                  "category": "park",
+                  "coords": [
+                        17.627337,
+                        59.860764
+                  ]
+            },
+            {
+                  "name": "Artediparken",
+                  "text": "Csendes park Uppsalában, amelyet Peter Artedi természettudós emlékének szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        17.632492,
+                        59.860039
+                  ]
+            },
+            {
+                  "name": "Vindhemsparken",
+                  "text": "Helyi városi park, amely szabadtéri kikapcsolódást nyújt Vindhem lakóinak.",
+                  "category": "park",
+                  "coords": [
+                        17.620874,
+                        59.862445
+                  ]
+            },
+            {
+                  "name": "Frodeparken",
+                  "text": "Modern park az uppsalai központi pályaudvar közelében, játszóterekkel és pihenőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        17.65115,
+                        59.858248
+                  ]
+            },
+            {
+                  "name": "Gunnar Leches park",
+                  "text": "Kisebb park, amely a jelentős városi építész, Gunnar Leche nevét viseli.",
+                  "category": "park",
+                  "coords": [
+                        17.644348,
+                        59.858571
+                  ]
+            },
+            {
+                  "name": "Batteriparken",
+                  "text": "Zöldterület Uppsalában, amely helyi találkozóhelyként és pihenőhelyként szolgál.",
+                  "category": "park",
+                  "coords": [
+                        17.635988,
+                        59.84657
+                  ]
+            },
+            {
+                  "name": "Martin Luther Kings plan",
+                  "text": "Uppsala közterülete, amelyet Martin Luther King amerikai polgárjogi harcosról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        17.628568,
+                        59.857236
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fredens hus",
+                  "text": "Un muzeu din Uppsala dedicat temelor precum pacea, democrația și drepturile omului.",
+                  "category": "museum",
+                  "coords": [
+                        17.638904,
+                        59.857752
+                  ]
+            },
+            {
+                  "name": "Evolutionsmuseet Zoologi",
+                  "text": "Acest muzeu găzduiește colecții zoologice extinse ale Universității din Uppsala.",
+                  "category": "museum",
+                  "coords": [
+                        17.626239,
+                        59.850178
+                  ]
+            },
+            {
+                  "name": "Evolutionsmuseet Paleontologi",
+                  "text": "Parte a Muzeului Evoluției, cu o colecție impresionantă de fosile și dinozauri.",
+                  "category": "museum",
+                  "coords": [
+                        17.62208,
+                        59.849251
+                  ]
+            },
+            {
+                  "name": "Uppsala universitets myntkabinett",
+                  "text": "Cabinetul numismatic al Universității din Uppsala expune o colecție importantă de monede și medalii.",
+                  "category": "museum",
+                  "coords": [
+                        17.631707,
+                        59.858031
+                  ]
+            },
+            {
+                  "name": "Uppsala domkyrkas skattkammare",
+                  "text": "Tezaurul catedralei din Uppsala expune textile prețioase și obiecte religioase.",
+                  "category": "museum",
+                  "coords": [
+                        17.63271,
+                        59.858237
+                  ]
+            },
+            {
+                  "name": "Uppsala konstmuseum",
+                  "text": "Muzeul de artă este situat în castelul din Uppsala și expune artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        17.635155,
+                        59.853248
+                  ]
+            },
+            {
+                  "name": "Carolina Rediviva",
+                  "text": "Clădirea principală a bibliotecii universitare din Uppsala găzduiește colecții istorice importante.",
+                  "category": "museum",
+                  "coords": [
+                        17.631173,
+                        59.854992
+                  ]
+            },
+            {
+                  "name": "Biotopia",
+                  "text": "Acest muzeu biologic din Uppsala este dedicat faunei și naturii din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        17.622403,
+                        59.860052
+                  ]
+            },
+            {
+                  "name": "Upplandsmuseet",
+                  "text": "Muzeul regional din Uppland prezintă istoria culturală a provinciei într-o fostă clădire de moară.",
+                  "category": "museum",
+                  "coords": [
+                        17.635,
+                        59.858898
+                  ]
+            },
+            {
+                  "name": "Pumphuset",
+                  "text": "O fostă stație de pompare a apei din Uppsala, care servește astăzi ca muzeu tehnic.",
+                  "category": "museum",
+                  "coords": [
+                        17.641499,
+                        59.85457
+                  ]
+            },
+            {
+                  "name": "Linnémuseet",
+                  "text": "Fosta casă a lui Carl von Linné din Uppsala este astăzi un muzeu dedicat vieții și operei sale.",
+                  "category": "museum",
+                  "coords": [
+                        17.633666,
+                        59.861641
+                  ]
+            },
+            {
+                  "name": "Sten Sture-monumentet",
+                  "text": "Un monument proeminent din Uppsala în onoarea omului de stat suedez Sten Sture cel Bătrân.",
+                  "category": "historical",
+                  "coords": [
+                        17.645033,
+                        59.846011
+                  ]
+            },
+            {
+                  "name": "Uppsala stadshus",
+                  "text": "Sediul administrației municipale din Uppsala este o clădire funcțională în inima orașului.",
+                  "category": "historical",
+                  "coords": [
+                        17.64296,
+                        59.859752
+                  ]
+            },
+            {
+                  "name": "Den Lilla Teatern",
+                  "text": "Un teatru mic și fermecător din Uppsala, care prezintă adesea piese pentru copii și tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        17.642006,
+                        59.862147
+                  ]
+            },
+            {
+                  "name": "Reginateatern",
+                  "text": "O clădire istorică de teatru din Uppsala, care servește drept scenă pentru spectacole invitate și producții locale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.636127,
+                        59.856905
+                  ]
+            },
+            {
+                  "name": "Uppsala domkyrka",
+                  "text": "Cea mai mare catedrală din Scandinavia este locul de încoronare și înmormântare a numeroși regi suedezi.",
+                  "category": "religious",
+                  "coords": [
+                        17.633611,
+                        59.858156
+                  ]
+            },
+            {
+                  "name": "Samariterhemmets kyrka",
+                  "text": "O biserică liniștită din Uppsala, aparținând centrului diaconal Samariterhemmet.",
+                  "category": "religious",
+                  "coords": [
+                        17.6491,
+                        59.85546
+                  ]
+            },
+            {
+                  "name": "Helga Trefaldighets Kyrka",
+                  "text": "O biserică medievală situată lângă catedrală, cunoscută pentru picturile sale murale bine conservate.",
+                  "category": "religious",
+                  "coords": [
+                        17.632651,
+                        59.856891
+                  ]
+            },
+            {
+                  "name": "Uppsala moské",
+                  "text": "Un centru religios modern și casă de rugăciune pentru comunitatea musulmană din Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.638216,
+                        59.874003
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "O biserică evanghelică luterană din Uppsala, numită după „Apostolul Nordului”.",
+                  "category": "religious",
+                  "coords": [
+                        17.615001,
+                        59.853677
+                  ]
+            },
+            {
+                  "name": "Vindhemskyrkan",
+                  "text": "O biserică comunitară locală din Uppsala, care servește ca loc de întâlnire pentru slujbe și activități sociale.",
+                  "category": "religious",
+                  "coords": [
+                        17.619475,
+                        59.862714
+                  ]
+            },
+            {
+                  "name": "Livets Ord",
+                  "text": "Sediul unei cunoscute biserici creștine libere și comunități religioase din Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.692269,
+                        59.858209
+                  ]
+            },
+            {
+                  "name": "Tunabergskyrkan",
+                  "text": "O biserică modernă în cartierul Tunaberg, funcționând ca centru pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        17.619607,
+                        59.878058
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "O biserică evanghelică liberă din Uppsala, care oferă slujbe religioase regulate și seri comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        17.643179,
+                        59.86909
+                  ]
+            },
+            {
+                  "name": "Årstakyrkan",
+                  "text": "O biserică simplă și primitoare care deservește viața spirituală din cartierul Årsta.",
+                  "category": "religious",
+                  "coords": [
+                        17.685743,
+                        59.865995
+                  ]
+            },
+            {
+                  "name": "Sankt Pers kyrka",
+                  "text": "O biserică modernă din cărămidă în Uppsala, numită după Sfântul Apostol Petru.",
+                  "category": "religious",
+                  "coords": [
+                        17.650136,
+                        59.867637
+                  ]
+            },
+            {
+                  "name": "Salabackekyrkan",
+                  "text": "Biserica comunitară a cartierului Salabacke din Uppsala, cunoscută pentru arhitectura sa contemporană.",
+                  "category": "religious",
+                  "coords": [
+                        17.667944,
+                        59.868973
+                  ]
+            },
+            {
+                  "name": "Lötenkyrkan",
+                  "text": "O biserică plină de viață în estul orașului Uppsala, servind ca un important centru social și religios.",
+                  "category": "religious",
+                  "coords": [
+                        17.647107,
+                        59.878367
+                  ]
+            },
+            {
+                  "name": "Baptistkyrkan",
+                  "text": "Comunitatea baptistă istorică din Uppsala se adună în această casă de rugăciune situată central.",
+                  "category": "religious",
+                  "coords": [
+                        17.643721,
+                        59.857541
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "O biserică liberă din centrul orașului Uppsala, cunoscută pentru atmosfera sa deschisă și munca socială.",
+                  "category": "religious",
+                  "coords": [
+                        17.636266,
+                        59.861683
+                  ]
+            },
+            {
+                  "name": "Mikaelskyrkan",
+                  "text": "O biserică numită după Arhanghelul Mihail, servind ca loc de întâlnire spirituală în Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.63454,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Gunillaklockan",
+                  "text": "Acest clopot istoric de lângă Castelul Uppsala este sunat în mod tradițional la ocazii academice.",
+                  "category": "tower",
+                  "coords": [
+                        17.634057,
+                        59.854218
+                  ]
+            },
+            {
+                  "name": "Fyrisvallsbron",
+                  "text": "Un pod peste râul Fyrisån care leagă cartiere importante din nordul orașului Uppsala.",
+                  "category": "landmark",
+                  "coords": [
+                        17.623367,
+                        59.869305
+                  ]
+            },
+            {
+                  "name": "Haglunds bro",
+                  "text": "Un pod pietonal din Uppsala, oferind o vedere pitorească asupra râului și a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        17.631526,
+                        59.861985
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "„Podul Nou” este una dintre cele mai circulate traversări de râu din inima orașului Uppsala.",
+                  "category": "landmark",
+                  "coords": [
+                        17.637451,
+                        59.85789
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "O zonă forestieră mare și rezervație naturală în Uppsala, oferind trasee populare pentru drumeții și jogging.",
+                  "category": "natural",
+                  "coords": [
+                        17.618455,
+                        59.839383
+                  ]
+            },
+            {
+                  "name": "Uppsala Kungsäng",
+                  "text": "O rezervație naturală la sud de Uppsala, cunoscută pentru pajiștile sale întinse și flora rară.",
+                  "category": "natural",
+                  "coords": [
+                        17.662364,
+                        59.836674
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "Grădina municipală din Uppsala este un parc popular pe malul râului, cu locuri de joacă și straturi de flori.",
+                  "category": "park",
+                  "coords": [
+                        17.642268,
+                        59.85251
+                  ]
+            },
+            {
+                  "name": "Observatorieparken",
+                  "text": "Un parc în jurul vechiului observator, oferind liniște și o vedere asupra orașului.",
+                  "category": "park",
+                  "coords": [
+                        17.621969,
+                        59.857669
+                  ]
+            },
+            {
+                  "name": "Engelska parken",
+                  "text": "Un parc vast situat lângă universitate, ideal pentru plimbări și relaxare în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        17.629509,
+                        59.854593
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Un parc reprezentativ în fața clădirii principale a Universității din Uppsala, cu mai multe pietre runice.",
+                  "category": "park",
+                  "coords": [
+                        17.630637,
+                        59.858229
+                  ]
+            },
+            {
+                  "name": "Höganäsparken",
+                  "text": "Un parc de cartier mai mic din Uppsala, servind ca o oază de verdeață în districtul Höganäs.",
+                  "category": "park",
+                  "coords": [
+                        17.6434,
+                        59.866118
+                  ]
+            },
+            {
+                  "name": "Flogstaparken",
+                  "text": "Un parc în cartierul studențesc Flogsta, oferind spațiu pentru activități recreative în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        17.585823,
+                        59.849366
+                  ]
+            },
+            {
+                  "name": "Byggmästarparken",
+                  "text": "Un parc local din Uppsala, cu spații verzi și locuri umbrite pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        17.674511,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Källparken",
+                  "text": "Un parc popular în cartierul Salabacke, cunoscut pentru pajiștile sale deschise și facilitățile recreative.",
+                  "category": "park",
+                  "coords": [
+                        17.674014,
+                        59.869544
+                  ]
+            },
+            {
+                  "name": "Tegnérparken",
+                  "text": "Un parc primitor din Uppsala, numit după celebrul poet suedez Esaias Tegnér.",
+                  "category": "park",
+                  "coords": [
+                        17.613131,
+                        59.861899
+                  ]
+            },
+            {
+                  "name": "Gotlandsparken",
+                  "text": "Un parc mic și bine întreținut din Uppsala, care invită la relaxare în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        17.6341,
+                        59.85976
+                  ]
+            },
+            {
+                  "name": "Finn Malmgrens plan",
+                  "text": "O piață numită după exploratorul polar Finn Malmgren, cu spații verzi adiacente.",
+                  "category": "park",
+                  "coords": [
+                        17.627337,
+                        59.860764
+                  ]
+            },
+            {
+                  "name": "Artediparken",
+                  "text": "Un parc liniștit din Uppsala, dedicat memoriei naturalistului Peter Artedi.",
+                  "category": "park",
+                  "coords": [
+                        17.632492,
+                        59.860039
+                  ]
+            },
+            {
+                  "name": "Vindhemsparken",
+                  "text": "Un parc local de cartier care oferă recreere în aer liber locuitorilor din Vindhem.",
+                  "category": "park",
+                  "coords": [
+                        17.620874,
+                        59.862445
+                  ]
+            },
+            {
+                  "name": "Frodeparken",
+                  "text": "Un parc modern lângă gara centrală din Uppsala, cu zone de joacă și spații de relaxare.",
+                  "category": "park",
+                  "coords": [
+                        17.65115,
+                        59.858248
+                  ]
+            },
+            {
+                  "name": "Gunnar Leches park",
+                  "text": "Un parc mic care poartă numele importantului arhitect municipal Gunnar Leche.",
+                  "category": "park",
+                  "coords": [
+                        17.644348,
+                        59.858571
+                  ]
+            },
+            {
+                  "name": "Batteriparken",
+                  "text": "O zonă verde din Uppsala care servește ca loc de întâlnire local și spațiu de recreere.",
+                  "category": "park",
+                  "coords": [
+                        17.635988,
+                        59.84657
+                  ]
+            },
+            {
+                  "name": "Martin Luther Kings plan",
+                  "text": "O piață publică din Uppsala numită după activistul american pentru drepturile civile Martin Luther King.",
+                  "category": "park",
+                  "coords": [
+                        17.628568,
+                        59.857236
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "House of Peace",
+                  "text": "A museum in Uppsala dedicated to peace, democracy, and human rights.",
+                  "category": "museum",
+                  "coords": [
+                        17.638904,
+                        59.857752
+                  ]
+            },
+            {
+                  "name": "Museum of Evolution Zoology",
+                  "text": "This museum houses extensive zoological collections of Uppsala University.",
+                  "category": "museum",
+                  "coords": [
+                        17.626239,
+                        59.850178
+                  ]
+            },
+            {
+                  "name": "Museum of Evolution Paleonthology",
+                  "text": "Part of the Museum of Evolution, featuring an impressive collection of fossils and dinosaurs.",
+                  "category": "museum",
+                  "coords": [
+                        17.62208,
+                        59.849251
+                  ]
+            },
+            {
+                  "name": "Uppsala universitets myntkabinett",
+                  "text": "The coin cabinet of Uppsala University displays a significant collection of coins and medals.",
+                  "category": "museum",
+                  "coords": [
+                        17.631707,
+                        59.858031
+                  ]
+            },
+            {
+                  "name": "Uppsala domkyrkas skattkammare",
+                  "text": "The treasury in Uppsala Cathedral displays valuable textiles and religious objects.",
+                  "category": "museum",
+                  "coords": [
+                        17.63271,
+                        59.858237
+                  ]
+            },
+            {
+                  "name": "Uppsala konstmuseum",
+                  "text": "The art museum is housed in Uppsala Castle and showcases modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        17.635155,
+                        59.853248
+                  ]
+            },
+            {
+                  "name": "Carolina Rediviva",
+                  "text": "The main building of Uppsala University Library houses significant historical collections.",
+                  "category": "museum",
+                  "coords": [
+                        17.631173,
+                        59.854992
+                  ]
+            },
+            {
+                  "name": "Biotopia",
+                  "text": "This biological museum in Uppsala focuses on the wildlife and nature of the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.622403,
+                        59.860052
+                  ]
+            },
+            {
+                  "name": "Upplandsmuseet",
+                  "text": "The regional museum of Uppland presents the cultural history of the province in a former mill building.",
+                  "category": "museum",
+                  "coords": [
+                        17.635,
+                        59.858898
+                  ]
+            },
+            {
+                  "name": "Pumphuset",
+                  "text": "A former water pumping station in Uppsala that now serves as a technical museum.",
+                  "category": "museum",
+                  "coords": [
+                        17.641499,
+                        59.85457
+                  ]
+            },
+            {
+                  "name": "Linnémuseet",
+                  "text": "The former home of Carl Linnaeus in Uppsala is now a museum dedicated to his life and work.",
+                  "category": "museum",
+                  "coords": [
+                        17.633666,
+                        59.861641
+                  ]
+            },
+            {
+                  "name": "Sten Sture-monumentet",
+                  "text": "A prominent monument in Uppsala honoring the Swedish statesman Sten Sture the Elder.",
+                  "category": "historical",
+                  "coords": [
+                        17.645033,
+                        59.846011
+                  ]
+            },
+            {
+                  "name": "Uppsala stadshus",
+                  "text": "The seat of Uppsala's municipal administration is a functional building in the heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        17.64296,
+                        59.859752
+                  ]
+            },
+            {
+                  "name": "Den Lilla Teatern",
+                  "text": "A small, charming theatre in Uppsala that often stages plays for children and young people.",
+                  "category": "cultural",
+                  "coords": [
+                        17.642006,
+                        59.862147
+                  ]
+            },
+            {
+                  "name": "Reginateatern",
+                  "text": "A historic theatre building in Uppsala serving as a stage for guest performances and local productions.",
+                  "category": "cultural",
+                  "coords": [
+                        17.636127,
+                        59.856905
+                  ]
+            },
+            {
+                  "name": "Uppsala Cathedral",
+                  "text": "The largest cathedral in Scandinavia is the coronation and burial site of many Swedish monarchs.",
+                  "category": "religious",
+                  "coords": [
+                        17.633611,
+                        59.858156
+                  ]
+            },
+            {
+                  "name": "Samariterhemmets kyrka",
+                  "text": "A quiet church in Uppsala belonging to the Samariterhemmet deaconry center.",
+                  "category": "religious",
+                  "coords": [
+                        17.6491,
+                        59.85546
+                  ]
+            },
+            {
+                  "name": "Helga Trefaldighets Kyrka",
+                  "text": "A medieval church near the cathedral, known for its well-preserved wall paintings.",
+                  "category": "religious",
+                  "coords": [
+                        17.632651,
+                        59.856891
+                  ]
+            },
+            {
+                  "name": "Uppsala moské",
+                  "text": "A modern religious center and place of worship for the Muslim community in Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.638216,
+                        59.874003
+                  ]
+            },
+            {
+                  "name": "Sankt Ansgars kyrka",
+                  "text": "An Evangelical Lutheran church in Uppsala, named after the 'Apostle of the North'.",
+                  "category": "religious",
+                  "coords": [
+                        17.615001,
+                        59.853677
+                  ]
+            },
+            {
+                  "name": "Vindhemskyrkan",
+                  "text": "A local community church in Uppsala serving as a gathering place for worship and social activities.",
+                  "category": "religious",
+                  "coords": [
+                        17.619475,
+                        59.862714
+                  ]
+            },
+            {
+                  "name": "Livets Ord",
+                  "text": "The headquarters of a well-known Christian free church and faith community in Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.692269,
+                        59.858209
+                  ]
+            },
+            {
+                  "name": "Tunabergskyrkan",
+                  "text": "A modern church in the Tunaberg district, serving as a center for the local parish.",
+                  "category": "religious",
+                  "coords": [
+                        17.619607,
+                        59.878058
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "An evangelical free church in Uppsala offering regular services and community evenings.",
+                  "category": "religious",
+                  "coords": [
+                        17.643179,
+                        59.86909
+                  ]
+            },
+            {
+                  "name": "Årstakyrkan",
+                  "text": "A simple and welcoming church serving the spiritual life of the Årsta district.",
+                  "category": "religious",
+                  "coords": [
+                        17.685743,
+                        59.865995
+                  ]
+            },
+            {
+                  "name": "Sankt Pers kyrka",
+                  "text": "A modern brick church in Uppsala, named after Saint Peter the Apostle.",
+                  "category": "religious",
+                  "coords": [
+                        17.650136,
+                        59.867637
+                  ]
+            },
+            {
+                  "name": "Salabackekyrkan",
+                  "text": "The community church of the Salabacke district in Uppsala, known for its contemporary architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.667944,
+                        59.868973
+                  ]
+            },
+            {
+                  "name": "Lötenkyrkan",
+                  "text": "A vibrant church in eastern Uppsala, serving as an important social and religious center.",
+                  "category": "religious",
+                  "coords": [
+                        17.647107,
+                        59.878367
+                  ]
+            },
+            {
+                  "name": "Baptistkyrkan",
+                  "text": "Uppsala's historic Baptist community gathers in this centrally located place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        17.643721,
+                        59.857541
+                  ]
+            },
+            {
+                  "name": "Missionskyrkan",
+                  "text": "A free church in central Uppsala, known for its open atmosphere and social work.",
+                  "category": "religious",
+                  "coords": [
+                        17.636266,
+                        59.861683
+                  ]
+            },
+            {
+                  "name": "Mikaelskyrkan",
+                  "text": "A church named after Archangel Michael, serving as a spiritual meeting point in Uppsala.",
+                  "category": "religious",
+                  "coords": [
+                        17.63454,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Gunilla Bell",
+                  "text": "This historic bell near Uppsala Castle is traditionally rung for academic occasions.",
+                  "category": "tower",
+                  "coords": [
+                        17.634057,
+                        59.854218
+                  ]
+            },
+            {
+                  "name": "Fyrisvallsbron",
+                  "text": "A bridge over the Fyrisån river connecting important districts in northern Uppsala.",
+                  "category": "landmark",
+                  "coords": [
+                        17.623367,
+                        59.869305
+                  ]
+            },
+            {
+                  "name": "Haglunds bro",
+                  "text": "A pedestrian bridge in Uppsala offering scenic views of the river and the city.",
+                  "category": "landmark",
+                  "coords": [
+                        17.631526,
+                        59.861985
+                  ]
+            },
+            {
+                  "name": "Nybron",
+                  "text": "The 'New Bridge' is one of the busiest river crossings in the heart of Uppsala.",
+                  "category": "landmark",
+                  "coords": [
+                        17.637451,
+                        59.85789
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "A large forested area and nature reserve in Uppsala offering popular trails for hiking and jogging.",
+                  "category": "natural",
+                  "coords": [
+                        17.618455,
+                        59.839383
+                  ]
+            },
+            {
+                  "name": "Uppsala Kungsäng",
+                  "text": "A nature reserve south of Uppsala, known for its vast meadows and rare flora.",
+                  "category": "natural",
+                  "coords": [
+                        17.662364,
+                        59.836674
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "Uppsala's city garden is a popular riverside park featuring playgrounds and flower beds.",
+                  "category": "park",
+                  "coords": [
+                        17.642268,
+                        59.85251
+                  ]
+            },
+            {
+                  "name": "Observatorieparken",
+                  "text": "A park surrounding the old observatory, offering tranquility and views over the city.",
+                  "category": "park",
+                  "coords": [
+                        17.621969,
+                        59.857669
+                  ]
+            },
+            {
+                  "name": "Engelska parken",
+                  "text": "A spacious park near the university, ideal for walks and relaxation in a green setting.",
+                  "category": "park",
+                  "coords": [
+                        17.629509,
+                        59.854593
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "A representative park in front of Uppsala University's main building, featuring several runestones.",
+                  "category": "park",
+                  "coords": [
+                        17.630637,
+                        59.858229
+                  ]
+            },
+            {
+                  "name": "Höganäsparken",
+                  "text": "A smaller neighborhood park in Uppsala serving as a green oasis in the Höganäs district.",
+                  "category": "park",
+                  "coords": [
+                        17.6434,
+                        59.866118
+                  ]
+            },
+            {
+                  "name": "Flogstaparken",
+                  "text": "A park in the student-populated Flogsta district, providing space for outdoor recreational activities.",
+                  "category": "park",
+                  "coords": [
+                        17.585823,
+                        59.849366
+                  ]
+            },
+            {
+                  "name": "Byggmästarparken",
+                  "text": "A local park in Uppsala featuring green spaces and shaded spots for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        17.674511,
+                        59.864579
+                  ]
+            },
+            {
+                  "name": "Källparken",
+                  "text": "A popular park in the Salabacke district, known for its open meadows and recreational opportunities.",
+                  "category": "park",
+                  "coords": [
+                        17.674014,
+                        59.869544
+                  ]
+            },
+            {
+                  "name": "Tegnérparken",
+                  "text": "A cozy park in Uppsala named after the famous Swedish poet Esaias Tegnér.",
+                  "category": "park",
+                  "coords": [
+                        17.613131,
+                        59.861899
+                  ]
+            },
+            {
+                  "name": "Gotlandsparken",
+                  "text": "A small, well-kept park in Uppsala inviting relaxation in the city center.",
+                  "category": "park",
+                  "coords": [
+                        17.6341,
+                        59.85976
+                  ]
+            },
+            {
+                  "name": "Finn Malmgrens plan",
+                  "text": "A square named after polar explorer Finn Malmgren, featuring adjacent green spaces.",
+                  "category": "park",
+                  "coords": [
+                        17.627337,
+                        59.860764
+                  ]
+            },
+            {
+                  "name": "Artediparken",
+                  "text": "A quiet park in Uppsala dedicated to the memory of naturalist Peter Artedi.",
+                  "category": "park",
+                  "coords": [
+                        17.632492,
+                        59.860039
+                  ]
+            },
+            {
+                  "name": "Vindhemsparken",
+                  "text": "A local neighborhood park providing outdoor recreation for the residents of Vindhem.",
+                  "category": "park",
+                  "coords": [
+                        17.620874,
+                        59.862445
+                  ]
+            },
+            {
+                  "name": "Frodeparken",
+                  "text": "A modern park near Uppsala Central Station featuring play areas and seating.",
+                  "category": "park",
+                  "coords": [
+                        17.65115,
+                        59.858248
+                  ]
+            },
+            {
+                  "name": "Gunnar Leches park",
+                  "text": "A small park bearing the name of the prominent city architect Gunnar Leche.",
+                  "category": "park",
+                  "coords": [
+                        17.644348,
+                        59.858571
+                  ]
+            },
+            {
+                  "name": "Batteriparken",
+                  "text": "A green space in Uppsala serving as a local meeting point and place of recreation.",
+                  "category": "park",
+                  "coords": [
+                        17.635988,
+                        59.84657
+                  ]
+            },
+            {
+                  "name": "Martin Luther Kings plan",
+                  "text": "A public square in Uppsala named after the American civil rights leader Martin Luther King.",
+                  "category": "park",
+                  "coords": [
+                        17.628568,
+                        59.857236
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [17.6389, 59.8586],
@@ -338,7 +8150,268 @@ export const swedenRegions: POI[] = [
 
 export const swedenCities: POI[] = [
   {
-    id: "city-kiruna",
+    id: "city-kiruna", "sights": {
+      "de": [
+            {
+                  "name": "simhallsbadet",
+                  "text": "Örtliche Schwimmhalle und Wasserpark in der Stadt Kiruna.",
+                  "category": "recreational",
+                  "coords": [
+                        20.23565,
+                        67.854112
+                  ]
+            },
+            {
+                  "name": "Giron Sámi Theáter",
+                  "text": "Dieses Theater in Kiruna widmet sich der samischen Kultur und darstellenden Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        20.240796,
+                        67.85279
+                  ]
+            },
+            {
+                  "name": "Luossavaara",
+                  "text": "Ein bekannter Gipfel in Kiruna, der für seinen Bergbau und seine Skipisten bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        20.221972,
+                        67.875333
+                  ]
+            },
+            {
+                  "name": "Iron ore cart",
+                  "text": "Diese Sehenswürdigkeit in Kiruna erinnert an die bedeutende Bergbaugeschichte der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.202005,
+                        67.867085
+                  ]
+            },
+            {
+                  "name": "Kiruna krematorium",
+                  "text": "Ein Ort der Andacht und Ruhe im nordschwedischen Kiruna.",
+                  "category": "religious",
+                  "coords": [
+                        20.235096,
+                        67.851566
+                  ]
+            },
+            {
+                  "name": "Kiruna kyrka",
+                  "text": "Diese markante Holzkirche in Kiruna gilt als eines der schönsten Gebäude Schwedens.",
+                  "category": "religious",
+                  "coords": [
+                        20.288783,
+                        67.849585
+                  ]
+            },
+            {
+                  "name": "Kiruna gravkapell",
+                  "text": "Eine kleine Kapelle für Trauerfeiern in der Stadt Kiruna.",
+                  "category": "religious",
+                  "coords": [
+                        20.280102,
+                        67.849092
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "simhallsbadet",
+                  "text": "Helyi uszoda és élményfürdő Kiruna városában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.23565,
+                        67.854112
+                  ]
+            },
+            {
+                  "name": "Giron Sámi Theáter",
+                  "text": "Ez a kirunai színház a számi kultúrának és előadóművészetnek szentelt intézmény.",
+                  "category": "cultural",
+                  "coords": [
+                        20.240796,
+                        67.85279
+                  ]
+            },
+            {
+                  "name": "Luossavaara",
+                  "text": "Kiruna egyik ismert hegycsúcsa, amely bányászatáról és sípályáiról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        20.221972,
+                        67.875333
+                  ]
+            },
+            {
+                  "name": "Iron ore cart",
+                  "text": "Ez a kirunai látványosság a város jelentős bányászati múltjának állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        20.202005,
+                        67.867085
+                  ]
+            },
+            {
+                  "name": "Kiruna krematorium",
+                  "text": "A kegyelet és az áhítat helyszíne az észak-svédországi Kirunában.",
+                  "category": "religious",
+                  "coords": [
+                        20.235096,
+                        67.851566
+                  ]
+            },
+            {
+                  "name": "Kiruna kyrka",
+                  "text": "Ez a különleges fatemplom Kirunában Svédország egyik legszebb épületének számít.",
+                  "category": "religious",
+                  "coords": [
+                        20.288783,
+                        67.849585
+                  ]
+            },
+            {
+                  "name": "Kiruna gravkapell",
+                  "text": "Egy kisebb kápolna Kiruna városában, amelyet szertatásokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        20.280102,
+                        67.849092
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "simhallsbadet",
+                  "text": "Facilitate locală de înot și parc acvatic situat în orașul Kiruna.",
+                  "category": "recreational",
+                  "coords": [
+                        20.23565,
+                        67.854112
+                  ]
+            },
+            {
+                  "name": "Giron Sámi Theáter",
+                  "text": "Acest teatru din Kiruna este dedicat culturii sami și artelor spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        20.240796,
+                        67.85279
+                  ]
+            },
+            {
+                  "name": "Luossavaara",
+                  "text": "Un vârf muntos cunoscut din Kiruna, faimos pentru activitățile miniere și pârtiile de schi.",
+                  "category": "natural",
+                  "coords": [
+                        20.221972,
+                        67.875333
+                  ]
+            },
+            {
+                  "name": "Iron ore cart",
+                  "text": "Această atracție din Kiruna amintește de importanta istorie minieră a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.202005,
+                        67.867085
+                  ]
+            },
+            {
+                  "name": "Kiruna krematorium",
+                  "text": "Un lăcaș de cult și liniște situat în orașul Kiruna din nordul Suediei.",
+                  "category": "religious",
+                  "coords": [
+                        20.235096,
+                        67.851566
+                  ]
+            },
+            {
+                  "name": "Kiruna kyrka",
+                  "text": "Această biserică de lemn distinctivă din Kiruna este considerată una dintre cele mai frumoase clădiri din Suedia.",
+                  "category": "religious",
+                  "coords": [
+                        20.288783,
+                        67.849585
+                  ]
+            },
+            {
+                  "name": "Kiruna gravkapell",
+                  "text": "O mică capelă destinată ceremoniilor funerare din orașul Kiruna.",
+                  "category": "religious",
+                  "coords": [
+                        20.280102,
+                        67.849092
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "simhallsbadet",
+                  "text": "Local swimming facility and water park located in the city of Kiruna.",
+                  "category": "recreational",
+                  "coords": [
+                        20.23565,
+                        67.854112
+                  ]
+            },
+            {
+                  "name": "Giron Sámi Theáter",
+                  "text": "This theatre in Kiruna is dedicated to Sámi culture and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        20.240796,
+                        67.85279
+                  ]
+            },
+            {
+                  "name": "Luossavaara",
+                  "text": "A well-known peak in Kiruna, famous for its mining history and ski slopes.",
+                  "category": "natural",
+                  "coords": [
+                        20.221972,
+                        67.875333
+                  ]
+            },
+            {
+                  "name": "Iron ore cart",
+                  "text": "This attraction in Kiruna commemorates the city's significant mining history.",
+                  "category": "landmark",
+                  "coords": [
+                        20.202005,
+                        67.867085
+                  ]
+            },
+            {
+                  "name": "Kiruna krematorium",
+                  "text": "A place of worship and quiet reflection located in Kiruna, northern Sweden.",
+                  "category": "religious",
+                  "coords": [
+                        20.235096,
+                        67.851566
+                  ]
+            },
+            {
+                  "name": "Kiruna kyrka",
+                  "text": "This distinctive wooden church in Kiruna is regarded as one of Sweden's most beautiful buildings.",
+                  "category": "religious",
+                  "coords": [
+                        20.288783,
+                        67.849585
+                  ]
+            },
+            {
+                  "name": "Kiruna gravkapell",
+                  "text": "A small chapel used for funeral services in the city of Kiruna.",
+                  "category": "religious",
+                  "coords": [
+                        20.280102,
+                        67.849092
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [20.2234, 67.8558],
@@ -406,6 +8479,312 @@ export const swedenCities: POI[] = [
                         20.355993,
                         63.817613
                   ]
+            },
+            {
+                  "name": "Sagateatern",
+                  "text": "Ein traditionsreiches Theater in Umeå, das verschiedene Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        20.257998,
+                        63.826601
+                  ]
+            },
+            {
+                  "name": "Norrlandsoperan",
+                  "text": "Das bedeutende Opernhaus in Umeå, bekannt für Opern, Tanz und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        20.268955,
+                        63.828012
+                  ]
+            },
+            {
+                  "name": "Västerbottens museum",
+                  "text": "Ein Regionalmuseum in Umeå, das die Kulturgeschichte von Västerbotten dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.28932,
+                        63.829376
+                  ]
+            },
+            {
+                  "name": "Den förhistoriska världen",
+                  "text": "Ein Museum in Umeå, das sich der prähistorischen Welt und Fossilien widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.240405,
+                        63.836954
+                  ]
+            },
+            {
+                  "name": "Guitars",
+                  "text": "Ein spezialisiertes Museum in Umeå mit einer beeindruckenden Sammlung von E-Gitarren.",
+                  "category": "museum",
+                  "coords": [
+                        20.266278,
+                        63.827046
+                  ]
+            },
+            {
+                  "name": "Kvinnohistoriskt museum",
+                  "text": "Ein Museum in Umeå, das die Geschichte und den Einfluss von Frauen in der Gesellschaft erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        20.260259,
+                        63.824612
+                  ]
+            },
+            {
+                  "name": "Bildmuseet",
+                  "text": "Ein Museum für zeitgenössische Kunst in Umeå, das sich auf visuelle Kultur spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        20.276307,
+                        63.820325
+                  ]
+            },
+            {
+                  "name": "Fiske- & sjöfarts-museet",
+                  "text": "Ein Museum in Umeå, das die maritime Geschichte und Fischereitraditionen der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.290263,
+                        63.83027
+                  ]
+            },
+            {
+                  "name": "Regementsmuseet",
+                  "text": "Ein Museum in Umeå, das die Geschichte des örtlichen Regiments dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.25406,
+                        63.835907
+                  ]
+            },
+            {
+                  "name": "Curiosum",
+                  "text": "Ein Wissenschaftszentrum und Museum in Umeå, das zum Entdecken und Experimentieren einlädt.",
+                  "category": "museum",
+                  "coords": [
+                        20.277565,
+                        63.820745
+                  ]
+            },
+            {
+                  "name": "Navet",
+                  "text": "Ein modernes Hallenbad und Wasserpark in Umeå mit Sport- und Freizeitbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        20.270289,
+                        63.826123
+                  ]
+            },
+            {
+                  "name": "Hamrinsberget",
+                  "text": "Ein Hügel in Umeå, der Wanderwege und einen weiten Blick über die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.29574,
+                        63.821911
+                  ]
+            },
+            {
+                  "name": "Bräntberget",
+                  "text": "Ein beliebter Erhebung in Umeå, die im Winter zum Skifahren und Rodeln genutzt wird.",
+                  "category": "natural",
+                  "coords": [
+                        20.306543,
+                        63.839535
+                  ]
+            },
+            {
+                  "name": "Döbelns park",
+                  "text": "Der älteste Park in Umeå, benannt nach dem General Georg Carl von Döbeln.",
+                  "category": "park",
+                  "coords": [
+                        20.270432,
+                        63.822814
+                  ]
+            },
+            {
+                  "name": "Vänortsparken",
+                  "text": "Ein zentraler Park in Umeå, der die Verbindung zu den Partnerstädten symbolisiert.",
+                  "category": "park",
+                  "coords": [
+                        20.268666,
+                        63.824411
+                  ]
+            },
+            {
+                  "name": "Döbelnsplan",
+                  "text": "Ein kleiner öffentlicher Platz und Grünanlage im Zentrum von Umeå.",
+                  "category": "park",
+                  "coords": [
+                        20.244664,
+                        63.828968
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Eine Parkanlage am Rathaus von Umeå, direkt am Flussufer gelegen.",
+                  "category": "park",
+                  "coords": [
+                        20.262046,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Broparken",
+                  "text": "Ein Park in Umeå, der als grüner Treffpunkt nahe der Brücken dient.",
+                  "category": "park",
+                  "coords": [
+                        20.251542,
+                        63.826215
+                  ]
+            },
+            {
+                  "name": "Öbackaparken",
+                  "text": "Eine Grünfläche in Umeå, die Entspannung am Flussufer bietet.",
+                  "category": "park",
+                  "coords": [
+                        20.284083,
+                        63.818098
+                  ]
+            },
+            {
+                  "name": "Gammlias väderkvarn",
+                  "text": "Eine historische Windmühle im Freilichtmuseum Gammlia in Umeå.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289133,
+                        63.830673
+                  ]
+            },
+            {
+                  "name": "Samiska visten",
+                  "text": "Rekonstruierte samische Siedlungsplätze in Umeå, die die traditionelle Lebensweise zeigen.",
+                  "category": "landmark",
+                  "coords": [
+                        20.292744,
+                        63.829628
+                  ]
+            },
+            {
+                  "name": "Galleri OSs",
+                  "text": "Eine kleine Galerie in Umeå, die lokale zeitgenössische Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.252456,
+                        63.827531
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Eine markante Backsteinkirche in Umeå, die Anfang des 20. Jahrhunderts erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        20.266978,
+                        63.826024
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Ein modernes Kirchengebäude in Umeå, das einer Freikirche als Gottesdienststätte dient.",
+                  "category": "religious",
+                  "coords": [
+                        20.259215,
+                        63.827608
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "Die Pfingstkirche in Umeå, ein Zentrum für christliche Gottesdienste und Gemeindeaktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        20.273119,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Hedlundakyrkan",
+                  "text": "Eine Kirche in Umeå, die der lokalen Gemeinde als religiöser Treffpunkt dient.",
+                  "category": "religious",
+                  "coords": [
+                        20.235765,
+                        63.831656
+                  ]
+            },
+            {
+                  "name": "Grisbackakyrkan",
+                  "text": "Eine kleine Vorstadtkirche in Umeå, die lokale Gottesdienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        20.217391,
+                        63.834162
+                  ]
+            },
+            {
+                  "name": "Västerslättskyrkan",
+                  "text": "Eine moderne Kirche im Stadtteil Västerslätt in Umeå.",
+                  "category": "religious",
+                  "coords": [
+                        20.232753,
+                        63.83653
+                  ]
+            },
+            {
+                  "name": "Tegsbron",
+                  "text": "Eine der Hauptbrücken in Umeå, die den Fluss Umeälven überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.254331,
+                        63.824363
+                  ]
+            },
+            {
+                  "name": "Gamla bron",
+                  "text": "Die älteste erhaltene Brücke in Umeå, die heute für Fußgänger und Radfahrer reserviert ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.249081,
+                        63.824875
+                  ]
+            },
+            {
+                  "name": "Kyrkbron",
+                  "text": "Eine zentrale Brücke in Umeå, die eine wichtige Verbindung über den Fluss darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.267055,
+                        63.82107
+                  ]
+            },
+            {
+                  "name": "Umeå stadshus",
+                  "text": "Das Rathaus von Umeå, ein markantes historisches Gebäude im Stadtzentrum.",
+                  "category": "historical",
+                  "coords": [
+                        20.253938,
+                        63.829389
+                  ]
+            },
+            {
+                  "name": "Lundabron",
+                  "text": "Eine moderne Hängebrücke in Umeå für Fußgänger und Radfahrer.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220387,
+                        63.826334
+                  ]
+            },
+            {
+                  "name": "Tegs kyrka",
+                  "text": "Eine Kirche im Stadtteil Teg in Umeå, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        20.254659,
+                        63.819567
+                  ]
             }
       ],
       "hu": [
@@ -416,6 +8795,312 @@ export const swedenCities: POI[] = [
                   "coords": [
                         20.355993,
                         63.817613
+                  ]
+            },
+            {
+                  "name": "Sagateatern",
+                  "text": "Hagyományos színház Umeåban, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        20.257998,
+                        63.826601
+                  ]
+            },
+            {
+                  "name": "Norrlandsoperan",
+                  "text": "Umeå jelentős operaháza, amely operákról, táncelőadásokról és koncertekről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        20.268955,
+                        63.828012
+                  ]
+            },
+            {
+                  "name": "Västerbottens museum",
+                  "text": "Umeåi regionális múzeum, amely Västerbotten kultúrtörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.28932,
+                        63.829376
+                  ]
+            },
+            {
+                  "name": "Den förhistoriska världen",
+                  "text": "Umeåi múzeum, amely az őskori világnak és kövületeknek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        20.240405,
+                        63.836954
+                  ]
+            },
+            {
+                  "name": "Guitars",
+                  "text": "Speciális múzeum Umeåban, lenyűgöző elektromos gitárgyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        20.266278,
+                        63.827046
+                  ]
+            },
+            {
+                  "name": "Kvinnohistoriskt museum",
+                  "text": "Múzeum Umeåban, amely a nők történelmét és társadalmi hatását mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.260259,
+                        63.824612
+                  ]
+            },
+            {
+                  "name": "Bildmuseet",
+                  "text": "Kortárs művészeti múzeum Umeåban, amely a vizuális kultúrára specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        20.276307,
+                        63.820325
+                  ]
+            },
+            {
+                  "name": "Fiske- & sjöfarts-museet",
+                  "text": "Umeåi múzeum, amely a régió tengeri történelmét és halászati hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.290263,
+                        63.83027
+                  ]
+            },
+            {
+                  "name": "Regementsmuseet",
+                  "text": "Umeåi múzeum, amely a helyi ezred történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        20.25406,
+                        63.835907
+                  ]
+            },
+            {
+                  "name": "Curiosum",
+                  "text": "Umeåi tudományos központ és múzeum, amely felfedezésre és kísérletezésre ösztönöz.",
+                  "category": "museum",
+                  "coords": [
+                        20.277565,
+                        63.820745
+                  ]
+            },
+            {
+                  "name": "Navet",
+                  "text": "Modern uszoda és élményfürdő Umeåban sport- és szabadidős medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        20.270289,
+                        63.826123
+                  ]
+            },
+            {
+                  "name": "Hamrinsberget",
+                  "text": "Domb Umeåban, amely túraútvonalakat és széles kilátást kínál a városra.",
+                  "category": "natural",
+                  "coords": [
+                        20.29574,
+                        63.821911
+                  ]
+            },
+            {
+                  "name": "Bräntberget",
+                  "text": "Népszerű domb Umeåban, amelyet télen síelésre és szánkózásra használnak.",
+                  "category": "natural",
+                  "coords": [
+                        20.306543,
+                        63.839535
+                  ]
+            },
+            {
+                  "name": "Döbelns park",
+                  "text": "Umeå legrégebbi parkja, amely Georg Carl von Döbeln tábornokról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        20.270432,
+                        63.822814
+                  ]
+            },
+            {
+                  "name": "Vänortsparken",
+                  "text": "Központi park Umeåban, amely a testvérvárosi kapcsolatokat szimbolizálja.",
+                  "category": "park",
+                  "coords": [
+                        20.268666,
+                        63.824411
+                  ]
+            },
+            {
+                  "name": "Döbelnsplan",
+                  "text": "Kis közpark és zöldterület Umeå központjában.",
+                  "category": "park",
+                  "coords": [
+                        20.244664,
+                        63.828968
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Park az umeåi városháza mellett, közvetlenül a folyóparton.",
+                  "category": "park",
+                  "coords": [
+                        20.262046,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Broparken",
+                  "text": "Park Umeåban, amely zöld találkozóhelyként szolgál a hidak közelében.",
+                  "category": "park",
+                  "coords": [
+                        20.251542,
+                        63.826215
+                  ]
+            },
+            {
+                  "name": "Öbackaparken",
+                  "text": "Zöldterület Umeåban, amely kikapcsolódást kínál a folyóparton.",
+                  "category": "park",
+                  "coords": [
+                        20.284083,
+                        63.818098
+                  ]
+            },
+            {
+                  "name": "Gammlias väderkvarn",
+                  "text": "Történelmi szélmalom az umeåi Gammlia szabadtéri múzeumban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289133,
+                        63.830673
+                  ]
+            },
+            {
+                  "name": "Samiska visten",
+                  "text": "Rekonstruált számi településhelyek Umeåban, amelyek a hagyományos életmódot mutatják be.",
+                  "category": "landmark",
+                  "coords": [
+                        20.292744,
+                        63.829628
+                  ]
+            },
+            {
+                  "name": "Galleri OSs",
+                  "text": "Kisméretű galéria Umeåban, amely helyi kortárs művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.252456,
+                        63.827531
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "Jellegzetes téglaépítésű templom Umeåban, amely a 20. század elején épült.",
+                  "category": "religious",
+                  "coords": [
+                        20.266978,
+                        63.826024
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Modern templomépület Umeåban, amely egy szabadegyház hitéleti központja.",
+                  "category": "religious",
+                  "coords": [
+                        20.259215,
+                        63.827608
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "Umeåi pünkösdi templom, a keresztény istentiszteletek és közösségi tevékenységek központja.",
+                  "category": "religious",
+                  "coords": [
+                        20.273119,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Hedlundakyrkan",
+                  "text": "Templom Umeåban, amely a helyi közösség vallási találkozóhelyeként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        20.235765,
+                        63.831656
+                  ]
+            },
+            {
+                  "name": "Grisbackakyrkan",
+                  "text": "Kis külvárosi templom Umeåban, amely helyi istentiszteleteknek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        20.217391,
+                        63.834162
+                  ]
+            },
+            {
+                  "name": "Västerslättskyrkan",
+                  "text": "Modern templom Umeå Västerslätt városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        20.232753,
+                        63.83653
+                  ]
+            },
+            {
+                  "name": "Tegsbron",
+                  "text": "Umeå egyik fő hídja, amely az Ume-folyót szeli át.",
+                  "category": "landmark",
+                  "coords": [
+                        20.254331,
+                        63.824363
+                  ]
+            },
+            {
+                  "name": "Gamla bron",
+                  "text": "Umeå legrégebbi fennmaradt hídja, amely ma a gyalogosok és kerékpárosok számára fenntartott.",
+                  "category": "landmark",
+                  "coords": [
+                        20.249081,
+                        63.824875
+                  ]
+            },
+            {
+                  "name": "Kyrkbron",
+                  "text": "Központi híd Umeåban, amely fontos összeköttetést biztosít a folyón keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        20.267055,
+                        63.82107
+                  ]
+            },
+            {
+                  "name": "Umeå stadshus",
+                  "text": "Umeå városháza, jellegzetes történelmi épület a városközpontban.",
+                  "category": "historical",
+                  "coords": [
+                        20.253938,
+                        63.829389
+                  ]
+            },
+            {
+                  "name": "Lundabron",
+                  "text": "Modern függőhíd Umeåban gyalogosok és kerékpárosok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220387,
+                        63.826334
+                  ]
+            },
+            {
+                  "name": "Tegs kyrka",
+                  "text": "Templom Umeå Teg városrészében, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        20.254659,
+                        63.819567
                   ]
             }
       ],
@@ -428,6 +9113,312 @@ export const swedenCities: POI[] = [
                         20.355993,
                         63.817613
                   ]
+            },
+            {
+                  "name": "Sagateatern",
+                  "text": "Un teatru tradițional din Umeå care oferă diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        20.257998,
+                        63.826601
+                  ]
+            },
+            {
+                  "name": "Norrlandsoperan",
+                  "text": "Opera din Umeå, cunoscută pentru spectacole de operă, dans și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        20.268955,
+                        63.828012
+                  ]
+            },
+            {
+                  "name": "Västerbottens museum",
+                  "text": "Un muzeu regional din Umeå care documentează istoria culturală a provinciei Västerbotten.",
+                  "category": "museum",
+                  "coords": [
+                        20.28932,
+                        63.829376
+                  ]
+            },
+            {
+                  "name": "Den förhistoriska världen",
+                  "text": "Un muzeu din Umeå dedicat lumii preistorice și fosilelor.",
+                  "category": "museum",
+                  "coords": [
+                        20.240405,
+                        63.836954
+                  ]
+            },
+            {
+                  "name": "Guitars",
+                  "text": "Un muzeu specializat din Umeå cu o colecție impresionantă de chitare electrice.",
+                  "category": "museum",
+                  "coords": [
+                        20.266278,
+                        63.827046
+                  ]
+            },
+            {
+                  "name": "Kvinnohistoriskt museum",
+                  "text": "Un muzeu din Umeå care explorează istoria și impactul femeilor în societate.",
+                  "category": "museum",
+                  "coords": [
+                        20.260259,
+                        63.824612
+                  ]
+            },
+            {
+                  "name": "Bildmuseet",
+                  "text": "Un muzeu de artă contemporană din Umeå specializat în cultură vizuală.",
+                  "category": "museum",
+                  "coords": [
+                        20.276307,
+                        63.820325
+                  ]
+            },
+            {
+                  "name": "Fiske- & sjöfarts-museet",
+                  "text": "Un muzeu din Umeå care prezintă istoria maritimă și tradițiile de pescuit ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.290263,
+                        63.83027
+                  ]
+            },
+            {
+                  "name": "Regementsmuseet",
+                  "text": "Un muzeu din Umeå care documentează istoria regimentului local.",
+                  "category": "museum",
+                  "coords": [
+                        20.25406,
+                        63.835907
+                  ]
+            },
+            {
+                  "name": "Curiosum",
+                  "text": "Un centru științific și muzeu din Umeå care invită la descoperire și experimentare.",
+                  "category": "museum",
+                  "coords": [
+                        20.277565,
+                        63.820745
+                  ]
+            },
+            {
+                  "name": "Navet",
+                  "text": "O piscină interioară modernă și un parc acvatic din Umeå cu bazine sportive și de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        20.270289,
+                        63.826123
+                  ]
+            },
+            {
+                  "name": "Hamrinsberget",
+                  "text": "Un deal din Umeå care oferă trasee de drumeție și o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        20.29574,
+                        63.821911
+                  ]
+            },
+            {
+                  "name": "Bräntberget",
+                  "text": "O colină populară din Umeå, utilizată iarna pentru schi și săniuș.",
+                  "category": "natural",
+                  "coords": [
+                        20.306543,
+                        63.839535
+                  ]
+            },
+            {
+                  "name": "Döbelns park",
+                  "text": "Cel mai vechi parc din Umeå, numit după generalul Georg Carl von Döbeln.",
+                  "category": "park",
+                  "coords": [
+                        20.270432,
+                        63.822814
+                  ]
+            },
+            {
+                  "name": "Vänortsparken",
+                  "text": "Un parc central din Umeå care simbolizează legătura cu orașele înfrățite.",
+                  "category": "park",
+                  "coords": [
+                        20.268666,
+                        63.824411
+                  ]
+            },
+            {
+                  "name": "Döbelnsplan",
+                  "text": "O mică piață publică și zonă verde în centrul orașului Umeå.",
+                  "category": "park",
+                  "coords": [
+                        20.244664,
+                        63.828968
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Un parc lângă primăria din Umeå, situat direct pe malul râului.",
+                  "category": "park",
+                  "coords": [
+                        20.262046,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Broparken",
+                  "text": "Un parc din Umeå care servește ca punct de întâlnire verde lângă poduri.",
+                  "category": "park",
+                  "coords": [
+                        20.251542,
+                        63.826215
+                  ]
+            },
+            {
+                  "name": "Öbackaparken",
+                  "text": "O zonă verde din Umeå care oferă relaxare pe malul râului.",
+                  "category": "park",
+                  "coords": [
+                        20.284083,
+                        63.818098
+                  ]
+            },
+            {
+                  "name": "Gammlias väderkvarn",
+                  "text": "O moară de vânt istorică aflată în muzeul în aer liber Gammlia din Umeå.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289133,
+                        63.830673
+                  ]
+            },
+            {
+                  "name": "Samiska visten",
+                  "text": "Așezări sami reconstruite în Umeå, care prezintă modul tradițional de viață.",
+                  "category": "landmark",
+                  "coords": [
+                        20.292744,
+                        63.829628
+                  ]
+            },
+            {
+                  "name": "Galleri OSs",
+                  "text": "O mică galerie din Umeå care prezintă artă contemporană locală.",
+                  "category": "museum",
+                  "coords": [
+                        20.252456,
+                        63.827531
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "O biserică de cărămidă distinctivă din Umeå, construită la începutul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        20.266978,
+                        63.826024
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "O clădire bisericească modernă din Umeå, care servește ca loc de cult pentru o biserică liberă.",
+                  "category": "religious",
+                  "coords": [
+                        20.259215,
+                        63.827608
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "Biserica Penticostală din Umeå, un centru pentru servicii creștine și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        20.273119,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Hedlundakyrkan",
+                  "text": "O biserică din Umeå care servește ca punct de întâlnire religios pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        20.235765,
+                        63.831656
+                  ]
+            },
+            {
+                  "name": "Grisbackakyrkan",
+                  "text": "O mică biserică suburbană din Umeå care oferă servicii religioase locale.",
+                  "category": "religious",
+                  "coords": [
+                        20.217391,
+                        63.834162
+                  ]
+            },
+            {
+                  "name": "Västerslättskyrkan",
+                  "text": "O biserică modernă aflată în cartierul Västerslätt din Umeå.",
+                  "category": "religious",
+                  "coords": [
+                        20.232753,
+                        63.83653
+                  ]
+            },
+            {
+                  "name": "Tegsbron",
+                  "text": "Unul dintre principalele poduri din Umeå care traversează râul Ume.",
+                  "category": "landmark",
+                  "coords": [
+                        20.254331,
+                        63.824363
+                  ]
+            },
+            {
+                  "name": "Gamla bron",
+                  "text": "Cel mai vechi pod supraviețuitor din Umeå, rezervat astăzi pietonilor și bicicliștilor.",
+                  "category": "landmark",
+                  "coords": [
+                        20.249081,
+                        63.824875
+                  ]
+            },
+            {
+                  "name": "Kyrkbron",
+                  "text": "Un pod central din Umeå care reprezintă o legătură importantă peste râu.",
+                  "category": "landmark",
+                  "coords": [
+                        20.267055,
+                        63.82107
+                  ]
+            },
+            {
+                  "name": "Umeå stadshus",
+                  "text": "Primăria din Umeå, o clădire istorică distinctivă în centrul orașului.",
+                  "category": "historical",
+                  "coords": [
+                        20.253938,
+                        63.829389
+                  ]
+            },
+            {
+                  "name": "Lundabron",
+                  "text": "Un pod suspendat modern din Umeå pentru pietoni și bicicliști.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220387,
+                        63.826334
+                  ]
+            },
+            {
+                  "name": "Tegs kyrka",
+                  "text": "O biserică în cartierul Teg din Umeå care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        20.254659,
+                        63.819567
+                  ]
             }
       ],
       "en": [
@@ -438,6 +9429,312 @@ export const swedenCities: POI[] = [
                   "coords": [
                         20.355993,
                         63.817613
+                  ]
+            },
+            {
+                  "name": "Sagateatern",
+                  "text": "A traditional theatre in Umeå offering various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.257998,
+                        63.826601
+                  ]
+            },
+            {
+                  "name": "Norrlandsoperan",
+                  "text": "The prominent opera house in Umeå, known for opera, dance, and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        20.268955,
+                        63.828012
+                  ]
+            },
+            {
+                  "name": "Västerbottens museum",
+                  "text": "A regional museum in Umeå documenting the cultural history of Västerbotten.",
+                  "category": "museum",
+                  "coords": [
+                        20.28932,
+                        63.829376
+                  ]
+            },
+            {
+                  "name": "Den förhistoriska världen",
+                  "text": "A museum in Umeå dedicated to the prehistoric world and fossils.",
+                  "category": "museum",
+                  "coords": [
+                        20.240405,
+                        63.836954
+                  ]
+            },
+            {
+                  "name": "Guitars",
+                  "text": "A specialized museum in Umeå featuring an impressive collection of electric guitars.",
+                  "category": "museum",
+                  "coords": [
+                        20.266278,
+                        63.827046
+                  ]
+            },
+            {
+                  "name": "Kvinnohistoriskt museum",
+                  "text": "A museum in Umeå exploring the history and impact of women in society.",
+                  "category": "museum",
+                  "coords": [
+                        20.260259,
+                        63.824612
+                  ]
+            },
+            {
+                  "name": "Bildmuseet",
+                  "text": "A contemporary art museum in Umeå specialized in visual culture.",
+                  "category": "museum",
+                  "coords": [
+                        20.276307,
+                        63.820325
+                  ]
+            },
+            {
+                  "name": "Fiske- & sjöfarts-museet",
+                  "text": "A museum in Umeå showcasing the region's maritime history and fishing traditions.",
+                  "category": "museum",
+                  "coords": [
+                        20.290263,
+                        63.83027
+                  ]
+            },
+            {
+                  "name": "Regementsmuseet",
+                  "text": "A museum in Umeå documenting the history of the local regiment.",
+                  "category": "museum",
+                  "coords": [
+                        20.25406,
+                        63.835907
+                  ]
+            },
+            {
+                  "name": "Curiosum",
+                  "text": "A science center and museum in Umeå inviting discovery and experimentation.",
+                  "category": "museum",
+                  "coords": [
+                        20.277565,
+                        63.820745
+                  ]
+            },
+            {
+                  "name": "Navet",
+                  "text": "A modern indoor swimming facility and water park in Umeå with sports and leisure pools.",
+                  "category": "recreational",
+                  "coords": [
+                        20.270289,
+                        63.826123
+                  ]
+            },
+            {
+                  "name": "Hamrinsberget",
+                  "text": "A hill in Umeå offering hiking trails and a wide view over the city.",
+                  "category": "natural",
+                  "coords": [
+                        20.29574,
+                        63.821911
+                  ]
+            },
+            {
+                  "name": "Bräntberget",
+                  "text": "A popular hill in Umeå used for skiing and sledding in winter.",
+                  "category": "natural",
+                  "coords": [
+                        20.306543,
+                        63.839535
+                  ]
+            },
+            {
+                  "name": "Döbelns park",
+                  "text": "The oldest park in Umeå, named after General Georg Carl von Döbeln.",
+                  "category": "park",
+                  "coords": [
+                        20.270432,
+                        63.822814
+                  ]
+            },
+            {
+                  "name": "The Twintowns Park",
+                  "text": "A central park in Umeå symbolizing the connection to twin towns.",
+                  "category": "park",
+                  "coords": [
+                        20.268666,
+                        63.824411
+                  ]
+            },
+            {
+                  "name": "Döbelnsplan",
+                  "text": "A small public square and green area in the center of Umeå.",
+                  "category": "park",
+                  "coords": [
+                        20.244664,
+                        63.828968
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "A park by the Umeå Town Hall, located directly on the riverbank.",
+                  "category": "park",
+                  "coords": [
+                        20.262046,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Broparken",
+                  "text": "A park in Umeå serving as a green meeting place near the bridges.",
+                  "category": "park",
+                  "coords": [
+                        20.251542,
+                        63.826215
+                  ]
+            },
+            {
+                  "name": "Öbackaparken",
+                  "text": "A green space in Umeå offering relaxation along the riverbank.",
+                  "category": "park",
+                  "coords": [
+                        20.284083,
+                        63.818098
+                  ]
+            },
+            {
+                  "name": "Gammlias väderkvarn",
+                  "text": "A historic windmill at the Gammlia open-air museum in Umeå.",
+                  "category": "landmark",
+                  "coords": [
+                        20.289133,
+                        63.830673
+                  ]
+            },
+            {
+                  "name": "Samiska visten",
+                  "text": "Reconstructed Sami settlements in Umeå showing the traditional way of life.",
+                  "category": "landmark",
+                  "coords": [
+                        20.292744,
+                        63.829628
+                  ]
+            },
+            {
+                  "name": "Galleri OSs",
+                  "text": "A small gallery in Umeå presenting local contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        20.252456,
+                        63.827531
+                  ]
+            },
+            {
+                  "name": "Vasakyrkan",
+                  "text": "A distinctive brick church in Umeå, built in the early 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        20.266978,
+                        63.826024
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "A modern church building in Umeå serving as a place of worship for a free church.",
+                  "category": "religious",
+                  "coords": [
+                        20.259215,
+                        63.827608
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "The Pentecostal church in Umeå, a center for Christian worship and community activities.",
+                  "category": "religious",
+                  "coords": [
+                        20.273119,
+                        63.824349
+                  ]
+            },
+            {
+                  "name": "Hedlundakyrkan",
+                  "text": "A church in Umeå serving as a religious meeting place for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        20.235765,
+                        63.831656
+                  ]
+            },
+            {
+                  "name": "Grisbackakyrkan",
+                  "text": "A small suburban church in Umeå offering local religious services.",
+                  "category": "religious",
+                  "coords": [
+                        20.217391,
+                        63.834162
+                  ]
+            },
+            {
+                  "name": "Västerslättskyrkan",
+                  "text": "A modern church located in the Västerslätt district of Umeå.",
+                  "category": "religious",
+                  "coords": [
+                        20.232753,
+                        63.83653
+                  ]
+            },
+            {
+                  "name": "Tegsbron",
+                  "text": "One of the main bridges in Umeå, crossing the Ume River.",
+                  "category": "landmark",
+                  "coords": [
+                        20.254331,
+                        63.824363
+                  ]
+            },
+            {
+                  "name": "Gamla bron",
+                  "text": "The oldest surviving bridge in Umeå, now reserved for pedestrians and cyclists.",
+                  "category": "landmark",
+                  "coords": [
+                        20.249081,
+                        63.824875
+                  ]
+            },
+            {
+                  "name": "Kyrkbron",
+                  "text": "A central bridge in Umeå providing an important connection across the river.",
+                  "category": "landmark",
+                  "coords": [
+                        20.267055,
+                        63.82107
+                  ]
+            },
+            {
+                  "name": "Umeå stadshus",
+                  "text": "Umeå Town Hall, a distinctive historic building in the city center.",
+                  "category": "historical",
+                  "coords": [
+                        20.253938,
+                        63.829389
+                  ]
+            },
+            {
+                  "name": "Lundabron",
+                  "text": "A modern suspension bridge in Umeå for pedestrians and cyclists.",
+                  "category": "landmark",
+                  "coords": [
+                        20.220387,
+                        63.826334
+                  ]
+            },
+            {
+                  "name": "Tegs kyrka",
+                  "text": "A church in the Teg district of Umeå serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        20.254659,
+                        63.819567
                   ]
             }
       ]
@@ -498,7 +9795,1780 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/umea.webp",
   },
   {
-    id: "city-lund",
+    id: "city-lund", "sights": {
+      "de": [
+            {
+                  "name": "Livets museum",
+                  "text": "Ein medizinhistorisches Museum in Lund, das die Entwicklung der Krankenpflege und Medizin zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.195054,
+                        55.708939
+                  ]
+            },
+            {
+                  "name": "Långe Per",
+                  "text": "Eine archäologische Fundstätte in Lund, die Zeugnisse aus der frühen Geschichte der Stadt bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        13.198523,
+                        55.682831
+                  ]
+            },
+            {
+                  "name": "Runstenskullen",
+                  "text": "Ein kleiner Hügel in Lund, auf dem mehrere historische Runensteine aufgestellt sind.",
+                  "category": "historical",
+                  "coords": [
+                        13.19495,
+                        55.705759
+                  ]
+            },
+            {
+                  "name": "Historiska museet",
+                  "text": "Das Historische Museum der Universität Lund zeigt archäologische Funde aus Schonen von der Steinzeit bis zum Mittelalter.",
+                  "category": "museum",
+                  "coords": [
+                        13.195035,
+                        55.704322
+                  ]
+            },
+            {
+                  "name": "Skissernas museum",
+                  "text": "Ein einzigartiges Museum in Lund, das sich dem künstlerischen Prozess und Skizzen für öffentliche Kunstwerke widmet.",
+                  "category": "museum",
+                  "coords": [
+                        13.198251,
+                        55.707803
+                  ]
+            },
+            {
+                  "name": "Kulturen",
+                  "text": "Eines der ältesten Freilichtmuseen der Welt, das das Leben in Südschweden durch historische Gebäude vermittelt.",
+                  "category": "museum",
+                  "coords": [
+                        13.197348,
+                        55.704824
+                  ]
+            },
+            {
+                  "name": "Rinnebäcksravinen",
+                  "text": "Eine markante Erosionsschlucht und ein Naturreservat in Lund mit einer vielfältigen Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        13.152674,
+                        55.706549
+                  ]
+            },
+            {
+                  "name": "Lunds Stadsteater",
+                  "text": "Das Stadttheater von Lund ist ein bedeutender Veranstaltungsort für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        13.197062,
+                        55.702766
+                  ]
+            },
+            {
+                  "name": "Dom zu Lund",
+                  "text": "Der Dom zu Lund ist eine bedeutende romanische Kathedrale, die für ihre astronomische Uhr bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        13.193661,
+                        55.704064
+                  ]
+            },
+            {
+                  "name": "Månteatern",
+                  "text": "Das Månteatern ist ein professionelles Theater in Lund mit Fokus auf zeitgenössische Stücke.",
+                  "category": "cultural",
+                  "coords": [
+                        13.192479,
+                        55.706717
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgårdens museum",
+                  "text": "Dieses Museum befindet sich im Botanischen Garten von Lund und zeigt botanische Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        13.201856,
+                        55.704479
+                  ]
+            },
+            {
+                  "name": "Hökeriet",
+                  "text": "Hökeriet ist ein kleines Museum in Lund, das in einem historischen Gemischtwarenladen untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.196268,
+                        55.705996
+                  ]
+            },
+            {
+                  "name": "Amfiteater Bjeredsparken",
+                  "text": "Das Amfiteater Bjeredsparken ist eine Freilichtbühne für kulturelle Veranstaltungen in Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.184692,
+                        55.707477
+                  ]
+            },
+            {
+                  "name": "Grytan Amfiteater",
+                  "text": "Grytan ist ein im Stadsparken von Lund gelegenes Freilicht-Amphitheater für Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        13.190048,
+                        55.723059
+                  ]
+            },
+            {
+                  "name": "Teater Sagohuset",
+                  "text": "Das Teater Sagohuset ist ein freies Theater in Lund, das für sein kreatives Programm bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199981,
+                        55.697441
+                  ]
+            },
+            {
+                  "name": "Lilla Teatern",
+                  "text": "Das Lilla Teatern ist eine kleine, traditionsreiche Bühne für lokale Theaterproduktionen in Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199062,
+                        55.696914
+                  ]
+            },
+            {
+                  "name": "Källbybadet",
+                  "text": "Das Källbybadet ist ein beliebtes Freibad und Wasserpark in Lund für die Sommerzeit.",
+                  "category": "recreational",
+                  "coords": [
+                        13.170373,
+                        55.68989
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "Die Rotundan ist ein charakteristischer Veranstaltungsort für Theater und Tanz in Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.167208,
+                        55.704283
+                  ]
+            },
+            {
+                  "name": "Rävs hög",
+                  "text": "Rävs hög ist eine historische archäologische Ausgrabungsstätte in der Umgebung von Lund.",
+                  "category": "historical",
+                  "coords": [
+                        13.161538,
+                        55.726109
+                  ]
+            },
+            {
+                  "name": "Drottens Kirchenruine",
+                  "text": "Die Drottens kyrkoruin zeigt die Fundamente einer mittelalterlichen Kirche im Zentrum von Lund.",
+                  "category": "historical",
+                  "coords": [
+                        13.190864,
+                        55.702099
+                  ]
+            },
+            {
+                  "name": "Tornaplatsen",
+                  "text": "Tornaplatsen ist ein kleiner städtischer Park in Lund, der zum Verweilen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        13.205701,
+                        55.707396
+                  ]
+            },
+            {
+                  "name": "Monumentparken",
+                  "text": "Der Monumentparken erinnert mit seinem Denkmal an die Schlacht von Lund im Jahr 1676.",
+                  "category": "park",
+                  "coords": [
+                        13.185108,
+                        55.718506
+                  ]
+            },
+            {
+                  "name": "Flackarps mölla",
+                  "text": "Flackarps mölla ist eine traditionelle Windmühle, die als Wahrzeichen der Region gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167709,
+                        55.681943
+                  ]
+            },
+            {
+                  "name": "Nöbbelövsparken",
+                  "text": "Der Nöbbelövsparken ist ein weitläufiges Naherholungsgebiet im Norden von Lund.",
+                  "category": "park",
+                  "coords": [
+                        13.171144,
+                        55.729598
+                  ]
+            },
+            {
+                  "name": "Krognoshuset",
+                  "text": "Das Krognoshuset ist das älteste private Gebäude in Lund und dient heute als Kunstgalerie.",
+                  "category": "museum",
+                  "coords": [
+                        13.195274,
+                        55.702014
+                  ]
+            },
+            {
+                  "name": "Bananparken",
+                  "text": "Der Bananparken ist ein lokaler Park in Lund, der für seine Freizeitflächen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        13.233061,
+                        55.71428
+                  ]
+            },
+            {
+                  "name": "Råby sjöpark",
+                  "text": "Der Råby sjöpark bietet Spazierwege rund um einen kleinen See in Lund.",
+                  "category": "park",
+                  "coords": [
+                        13.227734,
+                        55.688028
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens park",
+                  "text": "Der Sankt Jörgens Park ist eine schöne Parkanlage in Lund mit Blick auf die Stadt.",
+                  "category": "park",
+                  "coords": [
+                        13.210171,
+                        55.702777
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "Der Stadsparken von Lund ist die größte Parkanlage der Stadt mit Spielplätzen und Gärten.",
+                  "category": "park",
+                  "coords": [
+                        13.185644,
+                        55.698407
+                  ]
+            },
+            {
+                  "name": "Trolle-Wachtmeisters park",
+                  "text": "Dieser Park in Lund ist nach der Familie Trolle-Wachtmeister benannt und lädt zum Spazieren ein.",
+                  "category": "park",
+                  "coords": [
+                        13.181408,
+                        55.707649
+                  ]
+            },
+            {
+                  "name": "Monte Composto",
+                  "text": "Monte Composto ist ein Aussichtspunkt in Lund, der einen weiten Blick über die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        13.194289,
+                        55.721724
+                  ]
+            },
+            {
+                  "name": "Kulturminne Lunds kommun",
+                  "text": "Dies ist eine geschützte Kulturdenkstätte der Gemeinde Lund mit historischer Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        13.187908,
+                        55.707678
+                  ]
+            },
+            {
+                  "name": "Sliparebacken",
+                  "text": "Sliparebacken beherbergt historische Ruinen und ist ein Ort von lokalgeschichtlichem Interesse.",
+                  "category": "historical",
+                  "coords": [
+                        13.184973,
+                        55.720167
+                  ]
+            },
+            {
+                  "name": "Vattenhallen Science Center",
+                  "text": "Das Vattenhallen Science Center bietet interaktive Experimente für alle Altersgruppen.",
+                  "category": "landmark",
+                  "coords": [
+                        13.211661,
+                        55.712134
+                  ]
+            },
+            {
+                  "name": "Kiosken Kiosken",
+                  "text": "Dieses Denkmal stellt eine historische Telefonzelle in der Stadt Lund dar.",
+                  "category": "historical",
+                  "coords": [
+                        13.208229,
+                        55.710398
+                  ]
+            },
+            {
+                  "name": "Svenska Go Figure Skating",
+                  "text": "Dies ist eine Einrichtung für Eiskunstlauf in Lund, die Training und Vorführungen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        13.189534,
+                        55.703002
+                  ]
+            },
+            {
+                  "name": "Studio Bantorget",
+                  "text": "Studio Bantorget ist eine Galerie in Lund, die moderne Kunst und Fotografie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        13.188763,
+                        55.704251
+                  ]
+            },
+            {
+                  "name": "Kliger Gallery",
+                  "text": "Die Kliger Gallery zeigt wechselnde Ausstellungen zeitgenössischer Kunst in Lund.",
+                  "category": "museum",
+                  "coords": [
+                        13.189772,
+                        55.704013
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii Kyrka",
+                  "text": "Sankt Laurentii ist ein sakraler Ort in Lund, der für Gottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        13.200711,
+                        55.695602
+                  ]
+            },
+            {
+                  "name": "Petersgården",
+                  "text": "Petersgården ist ein Gemeindezentrum und Ort der Andacht in der Stadt Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.17608,
+                        55.702258
+                  ]
+            },
+            {
+                  "name": "Allhelgonakyrkan",
+                  "text": "Die Allhelgonakyrkan ist eine neugotische Kirche in Lund, die im späten 19. Jahrhundert erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        13.194119,
+                        55.709599
+                  ]
+            },
+            {
+                  "name": "Klosterkyrkan",
+                  "text": "Die Klosterkirche in Lund ist ein Überrest eines ehemaligen mittelalterlichen Klosters.",
+                  "category": "religious",
+                  "coords": [
+                        13.186006,
+                        55.704275
+                  ]
+            },
+            {
+                  "name": "Sankt Hans kyrka",
+                  "text": "Die Sankt Hans Kirche ist eine moderne Kirche im Stadtteil Norra Fäladen in Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.204511,
+                        55.723256
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Die Helgeandskirche in Lund zeichnet sich durch ihre markante moderne Architektur aus.",
+                  "category": "religious",
+                  "coords": [
+                        13.179269,
+                        55.693654
+                  ]
+            },
+            {
+                  "name": "EFS-kapellet",
+                  "text": "Die EFS-Kapelle ist ein Versammlungsort einer evangelischen Glaubensgemeinschaft in Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.198125,
+                        55.706541
+                  ]
+            },
+            {
+                  "name": "Maria Magdalena",
+                  "text": "Die Maria-Magdalena-Kirche ist ein moderner Kirchenbau im Stadtteil Östra Torn.",
+                  "category": "religious",
+                  "coords": [
+                        13.236684,
+                        55.713032
+                  ]
+            },
+            {
+                  "name": "Stora Råby kyrka",
+                  "text": "Die Kirche von Stora Råby ist ein mittelalterliches Bauwerk am Rande von Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.225147,
+                        55.685896
+                  ]
+            },
+            {
+                  "name": "Stadshuset",
+                  "text": "Das Stadshuset ist der Sitz der Stadtverwaltung von Lund und ein zentrales Amtsgebäude.",
+                  "category": "historical",
+                  "coords": [
+                        13.192142,
+                        55.704492
+                  ]
+            },
+            {
+                  "name": "Ad Fontes",
+                  "text": "Ad Fontes ist ein religiöser Treffpunkt und Ort der Stille in der Stadt Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.191877,
+                        55.699491
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Livets museum",
+                  "text": "Orvostörténeti múzeum Lundban, amely az ápolás és az orvostudomány fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        13.195054,
+                        55.708939
+                  ]
+            },
+            {
+                  "name": "Långe Per",
+                  "text": "Régészeti lelőhely Lundban, amely a város korai történelmének emlékeit őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        13.198523,
+                        55.682831
+                  ]
+            },
+            {
+                  "name": "Runstenskullen",
+                  "text": "Kisebb domb Lundban, ahol több történelmi rúnakövet állítottak fel.",
+                  "category": "historical",
+                  "coords": [
+                        13.19495,
+                        55.705759
+                  ]
+            },
+            {
+                  "name": "Historiska museet",
+                  "text": "A Lundi Egyetem Történeti Múzeuma Skåne régészeti leleteit mutatja be a kőkorszaktól a középkorig.",
+                  "category": "museum",
+                  "coords": [
+                        13.195035,
+                        55.704322
+                  ]
+            },
+            {
+                  "name": "Skissernas museum",
+                  "text": "Egyedülálló múzeum Lundban, amely a művészeti folyamatoknak és a köztéri alkotások vázlatainak szenteli figyelmét.",
+                  "category": "museum",
+                  "coords": [
+                        13.198251,
+                        55.707803
+                  ]
+            },
+            {
+                  "name": "Kulturen",
+                  "text": "A világ egyik legrégebbi szabadtéri múzeuma, amely történelmi épületeken keresztül mutatja be a dél-svédországi életet.",
+                  "category": "museum",
+                  "coords": [
+                        13.197348,
+                        55.704824
+                  ]
+            },
+            {
+                  "name": "Rinnebäcksravinen",
+                  "text": "Jelentős eróziós szurdok és természetvédelmi terület Lundban, változatos növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        13.152674,
+                        55.706549
+                  ]
+            },
+            {
+                  "name": "Lunds Stadsteater",
+                  "text": "A lundi városi színház a helyi kulturális élet és előadóművészet egyik központja.",
+                  "category": "cultural",
+                  "coords": [
+                        13.197062,
+                        55.702766
+                  ]
+            },
+            {
+                  "name": "Lunds domkyrka",
+                  "text": "A lundi székesegyház egy lenyűgöző román stílusú katedrális, híres csillagászati órájáról.",
+                  "category": "religious",
+                  "coords": [
+                        13.193661,
+                        55.704064
+                  ]
+            },
+            {
+                  "name": "Månteatern",
+                  "text": "A lundi Månteatern egy hivatásos színház, amely kortárs darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        13.192479,
+                        55.706717
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgårdens museum",
+                  "text": "A Lundi Botanikus Kert múzeuma gazdag növénytani gyűjteményeknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        13.201856,
+                        55.704479
+                  ]
+            },
+            {
+                  "name": "Hökeriet",
+                  "text": "A Hökeriet egy apró múzeum Lundban, amely egy régi vegyeskereskedés hangulatát idézi.",
+                  "category": "museum",
+                  "coords": [
+                        13.196268,
+                        55.705996
+                  ]
+            },
+            {
+                  "name": "Amfiteater Bjeredsparken",
+                  "text": "A Bjeredsparken amfiteátruma szabadtéri kulturális rendezvények helyszíne Lundban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.184692,
+                        55.707477
+                  ]
+            },
+            {
+                  "name": "Grytan Amfiteater",
+                  "text": "A Grytan amfiteátrum szabadtéri koncerteknek ad otthont a lundi városi parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.190048,
+                        55.723059
+                  ]
+            },
+            {
+                  "name": "Teater Sagohuset",
+                  "text": "A Teater Sagohuset egy független színház Lundban, amely kreatív előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199981,
+                        55.697441
+                  ]
+            },
+            {
+                  "name": "Lilla Teatern",
+                  "text": "A Lilla Teatern egy nagy múltú kis színház Lund városában.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199062,
+                        55.696914
+                  ]
+            },
+            {
+                  "name": "Källbybadet",
+                  "text": "A Källbybadet egy kedvelt szabadtéri strand és vízipark Lundban.",
+                  "category": "recreational",
+                  "coords": [
+                        13.170373,
+                        55.68989
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "A Rotundan egy jellegzetes rendezvényhelyszín Lundban színházi és táncelőadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        13.167208,
+                        55.704283
+                  ]
+            },
+            {
+                  "name": "Rävs hög",
+                  "text": "Rävs hög egy történelmi jelentőségű régészeti lelőhely Lund közelében.",
+                  "category": "historical",
+                  "coords": [
+                        13.161538,
+                        55.726109
+                  ]
+            },
+            {
+                  "name": "Drottens kyrkoruin",
+                  "text": "A Drottens kyrkoruin egy középkori templom romjait mutatja be Lund központjában.",
+                  "category": "historical",
+                  "coords": [
+                        13.190864,
+                        55.702099
+                  ]
+            },
+            {
+                  "name": "Tornaplatsen",
+                  "text": "A Tornaplatsen egy kellemes kis városi park Lund egyik forgalmasabb részén.",
+                  "category": "park",
+                  "coords": [
+                        13.205701,
+                        55.707396
+                  ]
+            },
+            {
+                  "name": "Monumentparken",
+                  "text": "A Monumentparken az 1676-os lundi csata emlékére állított emlékműnek ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        13.185108,
+                        55.718506
+                  ]
+            },
+            {
+                  "name": "Flackarps mölla",
+                  "text": "A Flackarps mölla egy hagyományos szélmalom Lund közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167709,
+                        55.681943
+                  ]
+            },
+            {
+                  "name": "Nöbbelövsparken",
+                  "text": "A Nöbbelövsparken egy tágas szabadidőpark Lund északi részén.",
+                  "category": "park",
+                  "coords": [
+                        13.171144,
+                        55.729598
+                  ]
+            },
+            {
+                  "name": "Krognoshuset",
+                  "text": "A Krognoshuset Lund legrégebbi magánépülete, amely ma művészeti galériának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        13.195274,
+                        55.702014
+                  ]
+            },
+            {
+                  "name": "Bananparken",
+                  "text": "A Bananparken egy helyi közösségi park Lund egyik lakónegyedében.",
+                  "category": "park",
+                  "coords": [
+                        13.233061,
+                        55.71428
+                  ]
+            },
+            {
+                  "name": "Råby sjöpark",
+                  "text": "A Råby sjöpark tóparti sétányokat és pihenőhelyeket kínál Lundban.",
+                  "category": "park",
+                  "coords": [
+                        13.227734,
+                        55.688028
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens park",
+                  "text": "A Sankt Jörgens park egy gondozott zöldterület Lundban, ahonnan jó kilátás nyílik.",
+                  "category": "park",
+                  "coords": [
+                        13.210171,
+                        55.702777
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "A Lundi Városliget a város legnagyobb parkja játszóterekkel és díszkertekkel.",
+                  "category": "park",
+                  "coords": [
+                        13.185644,
+                        55.698407
+                  ]
+            },
+            {
+                  "name": "Trolle-Wachtmeisters park",
+                  "text": "Ez a lundi park a Trolle-Wachtmeister családról kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        13.181408,
+                        55.707649
+                  ]
+            },
+            {
+                  "name": "Monte Composto",
+                  "text": "A Monte Composto egy kilátóhely Lundban, ahonnan remek panoráma nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        13.194289,
+                        55.721724
+                  ]
+            },
+            {
+                  "name": "Kulturminne Lunds kommun",
+                  "text": "Ez Lund község egyik védett kulturális emléke, amely történelmi értékkel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        13.187908,
+                        55.707678
+                  ]
+            },
+            {
+                  "name": "Sliparebacken",
+                  "text": "Sliparebacken történelmi romokat és helyi jelentőségű emlékhelyeket tartalmaz.",
+                  "category": "historical",
+                  "coords": [
+                        13.184973,
+                        55.720167
+                  ]
+            },
+            {
+                  "name": "Vattenhallen Science Center",
+                  "text": "A Vattenhallen Science Center interaktív tudományos kísérleteket kínál minden korosztálynak.",
+                  "category": "landmark",
+                  "coords": [
+                        13.211661,
+                        55.712134
+                  ]
+            },
+            {
+                  "name": "Kiosken Kiosken",
+                  "text": "Ez az emlékmű egy hagyományos telefonfülkét ábrázol Lund városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.208229,
+                        55.710398
+                  ]
+            },
+            {
+                  "name": "Svenska Go Figure Skating",
+                  "text": "Ez egy lundi műkorcsolya központ, amely edzéseknek és bemutatóknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        13.189534,
+                        55.703002
+                  ]
+            },
+            {
+                  "name": "Studio Bantorget",
+                  "text": "A Studio Bantorget egy galéria Lundban, ahol modern művészeti alkotásokat állítanak ki.",
+                  "category": "museum",
+                  "coords": [
+                        13.188763,
+                        55.704251
+                  ]
+            },
+            {
+                  "name": "Kliger Gallery",
+                  "text": "A Kliger Gallery kortárs művészeti kiállításoknak ad otthont Lundban.",
+                  "category": "museum",
+                  "coords": [
+                        13.189772,
+                        55.704013
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii Kyrka",
+                  "text": "A Szent Lőrinc templom egy szakrális helyszín Lundban, vallási szertartások céljára.",
+                  "category": "religious",
+                  "coords": [
+                        13.200711,
+                        55.695602
+                  ]
+            },
+            {
+                  "name": "Petersgården",
+                  "text": "A Petersgården egy közösségi ház és istentiszteleti helyszín Lund városában.",
+                  "category": "religious",
+                  "coords": [
+                        13.17608,
+                        55.702258
+                  ]
+            },
+            {
+                  "name": "Allhelgonakyrkan",
+                  "text": "Az Allhelgonakyrkan egy neogótikus stílusú Mindenszentek-templom Lundban.",
+                  "category": "religious",
+                  "coords": [
+                        13.194119,
+                        55.709599
+                  ]
+            },
+            {
+                  "name": "Klosterkyrkan",
+                  "text": "A lundi kolostortemplom egy középkori szerzetesrendi épületegyüttes fennmaradt része.",
+                  "category": "religious",
+                  "coords": [
+                        13.186006,
+                        55.704275
+                  ]
+            },
+            {
+                  "name": "Sankt Hans kyrka",
+                  "text": "A Szent János templom egy modern építésű templom Lund északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        13.204511,
+                        55.723256
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "A lundi Szentlélek-templom modern építészeti stílusáról nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        13.179269,
+                        55.693654
+                  ]
+            },
+            {
+                  "name": "EFS-kapellet",
+                  "text": "Az EFS-kápolna egy evangélikus hitéleti közösség imaháza Lundban.",
+                  "category": "religious",
+                  "coords": [
+                        13.198125,
+                        55.706541
+                  ]
+            },
+            {
+                  "name": "Maria Magdalena",
+                  "text": "A Mária Magdolna templom Lund egyik újonnan épült városrészének hitéleti központja.",
+                  "category": "religious",
+                  "coords": [
+                        13.236684,
+                        55.713032
+                  ]
+            },
+            {
+                  "name": "Stora Råby kyrka",
+                  "text": "A Stora Råby templom egy középkori eredetű egyházi épület Lund peremén.",
+                  "category": "religious",
+                  "coords": [
+                        13.225147,
+                        55.685896
+                  ]
+            },
+            {
+                  "name": "Stadshuset",
+                  "text": "A Stadshuset Lund városháza, a helyi közigazgatás központi épülete.",
+                  "category": "historical",
+                  "coords": [
+                        13.192142,
+                        55.704492
+                  ]
+            },
+            {
+                  "name": "Ad Fontes",
+                  "text": "Az Ad Fontes egy lundi vallási találkozóhely és meditációs központ.",
+                  "category": "religious",
+                  "coords": [
+                        13.191877,
+                        55.699491
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Livets museum",
+                  "text": "Un muzeu de istorie a medicinei din Lund, care prezintă evoluția îngrijirii bolnavilor și a medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        13.195054,
+                        55.708939
+                  ]
+            },
+            {
+                  "name": "Långe Per",
+                  "text": "Un sit arheologic din Lund care păstrează mărturii din istoria timpurie a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        13.198523,
+                        55.682831
+                  ]
+            },
+            {
+                  "name": "Runstenskullen",
+                  "text": "O mică colină din Lund unde sunt amplasate mai multe pietre runice istorice.",
+                  "category": "historical",
+                  "coords": [
+                        13.19495,
+                        55.705759
+                  ]
+            },
+            {
+                  "name": "Historiska museet",
+                  "text": "Muzeul de Istorie al Universității din Lund prezintă descoperiri arheologice din Scania, din epoca pietrei până în evul mediu.",
+                  "category": "museum",
+                  "coords": [
+                        13.195035,
+                        55.704322
+                  ]
+            },
+            {
+                  "name": "Skissernas museum",
+                  "text": "Un muzeu unic din Lund dedicat procesului artistic și schițelor pentru opere de artă publică.",
+                  "category": "museum",
+                  "coords": [
+                        13.198251,
+                        55.707803
+                  ]
+            },
+            {
+                  "name": "Kulturen",
+                  "text": "Unul dintre cele mai vechi muzee în aer liber din lume, care ilustrează viața din sudul Suediei prin clădiri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        13.197348,
+                        55.704824
+                  ]
+            },
+            {
+                  "name": "Rinnebäcksravinen",
+                  "text": "O râpă de eroziune proeminentă și rezervație naturală în Lund, cu o floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        13.152674,
+                        55.706549
+                  ]
+            },
+            {
+                  "name": "Lunds Stadsteater",
+                  "text": "Teatrul municipal din Lund este o locație importantă pentru spectacole de artă scenică.",
+                  "category": "cultural",
+                  "coords": [
+                        13.197062,
+                        55.702766
+                  ]
+            },
+            {
+                  "name": "Lunds domkyrka",
+                  "text": "Catedrala din Lund este un edificiu romanic impunător, faimos pentru ceasul său astronomic.",
+                  "category": "religious",
+                  "coords": [
+                        13.193661,
+                        55.704064
+                  ]
+            },
+            {
+                  "name": "Månteatern",
+                  "text": "Månteatern este un teatru profesionist din Lund care pune în scenă piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        13.192479,
+                        55.706717
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgårdens museum",
+                  "text": "Acest muzeu situat în Grădina Botanică din Lund expune colecții botanice valoroase.",
+                  "category": "museum",
+                  "coords": [
+                        13.201856,
+                        55.704479
+                  ]
+            },
+            {
+                  "name": "Hökeriet",
+                  "text": "Hökeriet este un mic muzeu din Lund, amenajat într-o fostă băcănie istorică.",
+                  "category": "museum",
+                  "coords": [
+                        13.196268,
+                        55.705996
+                  ]
+            },
+            {
+                  "name": "Amfiteater Bjeredsparken",
+                  "text": "Amfiteatrul din parcul Bjereds este o scenă în aer liber pentru diverse evenimente în Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.184692,
+                        55.707477
+                  ]
+            },
+            {
+                  "name": "Grytan Amfiteater",
+                  "text": "Amfiteatrul Grytan este o locație în aer liber situată în parcul orașului Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.190048,
+                        55.723059
+                  ]
+            },
+            {
+                  "name": "Teater Sagohuset",
+                  "text": "Teater Sagohuset este un teatru independent din Lund, renumit pentru programul său creativ.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199981,
+                        55.697441
+                  ]
+            },
+            {
+                  "name": "Lilla Teatern",
+                  "text": "Lilla Teatern este o scenă mică și tradițională pentru producții teatrale locale în Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199062,
+                        55.696914
+                  ]
+            },
+            {
+                  "name": "Källbybadet",
+                  "text": "Källbybadet este un ștrand și parc acvatic popular în Lund pentru recreere estivală.",
+                  "category": "recreational",
+                  "coords": [
+                        13.170373,
+                        55.68989
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "Rotundan este o locație caracteristică din Lund destinată spectacolelor de teatru și dans.",
+                  "category": "cultural",
+                  "coords": [
+                        13.167208,
+                        55.704283
+                  ]
+            },
+            {
+                  "name": "Rävs hög",
+                  "text": "Rävs hög este un sit arheologic istoric situat în apropiere de orașul Lund.",
+                  "category": "historical",
+                  "coords": [
+                        13.161538,
+                        55.726109
+                  ]
+            },
+            {
+                  "name": "Drottens kyrkoruin",
+                  "text": "Drottens kyrkoruin prezintă vestigiile unei biserici medievale din centrul orașului Lund.",
+                  "category": "historical",
+                  "coords": [
+                        13.190864,
+                        55.702099
+                  ]
+            },
+            {
+                  "name": "Tornaplatsen",
+                  "text": "Tornaplatsen este un mic parc urban din Lund care oferă un spațiu de relaxare.",
+                  "category": "park",
+                  "coords": [
+                        13.205701,
+                        55.707396
+                  ]
+            },
+            {
+                  "name": "Monumentparken",
+                  "text": "Parcul Monumentului găzduiește un obelisc ce comemorează bătălia de la Lund din 1676.",
+                  "category": "park",
+                  "coords": [
+                        13.185108,
+                        55.718506
+                  ]
+            },
+            {
+                  "name": "Flackarps mölla",
+                  "text": "Flackarps mölla este o moară de vânt tradițională, reprezentativă pentru arhitectura locală.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167709,
+                        55.681943
+                  ]
+            },
+            {
+                  "name": "Nöbbelövsparken",
+                  "text": "Parcul Nöbbelövs este o zonă de recreere vastă situată în partea de nord a orașului Lund.",
+                  "category": "park",
+                  "coords": [
+                        13.171144,
+                        55.729598
+                  ]
+            },
+            {
+                  "name": "Krognoshuset",
+                  "text": "Krognoshuset este cea mai veche clădire privată din Lund, funcționând astăzi ca galerie de artă.",
+                  "category": "museum",
+                  "coords": [
+                        13.195274,
+                        55.702014
+                  ]
+            },
+            {
+                  "name": "Bananparken",
+                  "text": "Parcul Banan este un spațiu verde local din Lund destinat activităților recreative.",
+                  "category": "park",
+                  "coords": [
+                        13.233061,
+                        55.71428
+                  ]
+            },
+            {
+                  "name": "Råby sjöpark",
+                  "text": "Parcul Råby sjö oferă trasee de plimbare în jurul unui mic lac din Lund.",
+                  "category": "park",
+                  "coords": [
+                        13.227734,
+                        55.688028
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens park",
+                  "text": "Parcul Sankt Jörgens este o zonă verde amenajată din Lund, oferind spațiu pentru plimbări.",
+                  "category": "park",
+                  "coords": [
+                        13.210171,
+                        55.702777
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "Parcul orașului Lund este cea mai mare zonă verde urbană, dotată cu locuri de joacă.",
+                  "category": "park",
+                  "coords": [
+                        13.185644,
+                        55.698407
+                  ]
+            },
+            {
+                  "name": "Trolle-Wachtmeisters park",
+                  "text": "Acest parc din Lund poartă numele familiei Trolle-Wachtmeister și este ideal pentru plimbări.",
+                  "category": "park",
+                  "coords": [
+                        13.181408,
+                        55.707649
+                  ]
+            },
+            {
+                  "name": "Monte Composto",
+                  "text": "Monte Composto este un punct de observație din Lund ce oferă o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        13.194289,
+                        55.721724
+                  ]
+            },
+            {
+                  "name": "Kulturminne Lunds kommun",
+                  "text": "Acesta este un monument cultural protejat din comuna Lund, având importanță istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        13.187908,
+                        55.707678
+                  ]
+            },
+            {
+                  "name": "Sliparebacken",
+                  "text": "Sliparebacken găzduiește ruine istorice și este un sit de interes pentru istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        13.184973,
+                        55.720167
+                  ]
+            },
+            {
+                  "name": "Vattenhallen Science Center",
+                  "text": "Vattenhallen Science Center oferă experimente științifice interactive pentru vizitatorii de toate vârstele.",
+                  "category": "landmark",
+                  "coords": [
+                        13.211661,
+                        55.712134
+                  ]
+            },
+            {
+                  "name": "Kiosken Kiosken",
+                  "text": "Acest monument reprezintă o cabină telefonică simbolică situată în orașul Lund.",
+                  "category": "historical",
+                  "coords": [
+                        13.208229,
+                        55.710398
+                  ]
+            },
+            {
+                  "name": "Svenska Go Figure Skating",
+                  "text": "Aceasta este o atracție din Lund dedicată patinajului artistic, oferind cursuri și spectacole.",
+                  "category": "landmark",
+                  "coords": [
+                        13.189534,
+                        55.703002
+                  ]
+            },
+            {
+                  "name": "Studio Bantorget",
+                  "text": "Studio Bantorget este o galerie din Lund care expune lucrări de artă modernă și fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        13.188763,
+                        55.704251
+                  ]
+            },
+            {
+                  "name": "Kliger Gallery",
+                  "text": "Galeria Kliger găzduiește expoziții temporare de artă contemporană în orașul Lund.",
+                  "category": "museum",
+                  "coords": [
+                        13.189772,
+                        55.704013
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii Kyrka",
+                  "text": "Biserica Sfântul Laurențiu este un lăcaș de cult din Lund destinat serviciilor religioase.",
+                  "category": "religious",
+                  "coords": [
+                        13.200711,
+                        55.695602
+                  ]
+            },
+            {
+                  "name": "Petersgården",
+                  "text": "Petersgården este un centru comunitar și lăcaș de cult situat în orașul Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.17608,
+                        55.702258
+                  ]
+            },
+            {
+                  "name": "Allhelgonakyrkan",
+                  "text": "Allhelgonakyrkan este o biserică neogotică impunătoare din Lund, sfințită în 1887.",
+                  "category": "religious",
+                  "coords": [
+                        13.194119,
+                        55.709599
+                  ]
+            },
+            {
+                  "name": "Klosterkyrkan",
+                  "text": "Biserica Mănăstirii din Lund este o structură istorică ce a aparținut unei foste abații medievale.",
+                  "category": "religious",
+                  "coords": [
+                        13.186006,
+                        55.704275
+                  ]
+            },
+            {
+                  "name": "Sankt Hans kyrka",
+                  "text": "Biserica Sfântul Ioan este un lăcaș de cult modern situat în cartierul Sankt Hans din Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.204511,
+                        55.723256
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Biserica Sfântul Duh din Lund este cunoscută pentru arhitectura sa modernă și distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        13.179269,
+                        55.693654
+                  ]
+            },
+            {
+                  "name": "EFS-kapellet",
+                  "text": "Capela EFS este un lăcaș de cult aparținând unei comunități evanghelice locale din Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.198125,
+                        55.706541
+                  ]
+            },
+            {
+                  "name": "Maria Magdalena",
+                  "text": "Biserica Maria Magdalena este un lăcaș de cult modern situat în cartierul Östra Torn din Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.236684,
+                        55.713032
+                  ]
+            },
+            {
+                  "name": "Stora Råby kyrka",
+                  "text": "Biserica Stora Råby este un edificiu religios medieval situat la marginea orașului Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.225147,
+                        55.685896
+                  ]
+            },
+            {
+                  "name": "Stadshuset",
+                  "text": "Stadshuset este primăria orașului Lund, servind drept centru administrativ local.",
+                  "category": "historical",
+                  "coords": [
+                        13.192142,
+                        55.704492
+                  ]
+            },
+            {
+                  "name": "Ad Fontes",
+                  "text": "Ad Fontes este un punct de întâlnire religios și un spațiu pentru rugăciune în Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.191877,
+                        55.699491
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livets museum",
+                  "text": "A medical history museum in Lund showcasing the development of nursing and medicine.",
+                  "category": "museum",
+                  "coords": [
+                        13.195054,
+                        55.708939
+                  ]
+            },
+            {
+                  "name": "Långe Per",
+                  "text": "An archaeological site in Lund preserving evidence from the city's early history.",
+                  "category": "historical",
+                  "coords": [
+                        13.198523,
+                        55.682831
+                  ]
+            },
+            {
+                  "name": "Runstenskullen",
+                  "text": "A small hill in Lund where several historic runestones are displayed.",
+                  "category": "historical",
+                  "coords": [
+                        13.19495,
+                        55.705759
+                  ]
+            },
+            {
+                  "name": "Historiska museet",
+                  "text": "The Historical Museum of Lund University displays archaeological finds from Scania from the Stone Age to the Middle Ages.",
+                  "category": "museum",
+                  "coords": [
+                        13.195035,
+                        55.704322
+                  ]
+            },
+            {
+                  "name": "Skissernas museum",
+                  "text": "A unique museum in Lund dedicated to the artistic process and sketches for public works of art.",
+                  "category": "museum",
+                  "coords": [
+                        13.198251,
+                        55.707803
+                  ]
+            },
+            {
+                  "name": "Kulturen",
+                  "text": "One of the world's oldest open-air museums, showcasing life in southern Sweden through historic buildings.",
+                  "category": "museum",
+                  "coords": [
+                        13.197348,
+                        55.704824
+                  ]
+            },
+            {
+                  "name": "Rinnebäcksravinen",
+                  "text": "A prominent erosion ravine and nature reserve in Lund featuring diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        13.152674,
+                        55.706549
+                  ]
+            },
+            {
+                  "name": "Lunds Stadsteater",
+                  "text": "Lund City Theatre is a prominent venue for performing arts in the heart of the city.",
+                  "category": "cultural",
+                  "coords": [
+                        13.197062,
+                        55.702766
+                  ]
+            },
+            {
+                  "name": "Lunds domkyrka",
+                  "text": "Lund Cathedral is a magnificent Romanesque cathedral famous for its 14th-century astronomical clock.",
+                  "category": "religious",
+                  "coords": [
+                        13.193661,
+                        55.704064
+                  ]
+            },
+            {
+                  "name": "Månteatern",
+                  "text": "Månteatern is a professional theatre in Lund focusing on contemporary stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        13.192479,
+                        55.706717
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgårdens museum",
+                  "text": "Located within the Botanical Garden, this museum showcases various botanical collections.",
+                  "category": "museum",
+                  "coords": [
+                        13.201856,
+                        55.704479
+                  ]
+            },
+            {
+                  "name": "Hökeriet",
+                  "text": "Hökeriet is a charming museum in Lund housed in a preserved historical grocery store.",
+                  "category": "museum",
+                  "coords": [
+                        13.196268,
+                        55.705996
+                  ]
+            },
+            {
+                  "name": "Amfiteater Bjeredsparken",
+                  "text": "Amfiteater Bjeredsparken is an open-air venue for cultural performances in Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.184692,
+                        55.707477
+                  ]
+            },
+            {
+                  "name": "Grytan Amfiteater",
+                  "text": "Grytan Amfiteater is an outdoor performance space located within Lund's city park.",
+                  "category": "cultural",
+                  "coords": [
+                        13.190048,
+                        55.723059
+                  ]
+            },
+            {
+                  "name": "Teater Sagohuset",
+                  "text": "Teater Sagohuset is an independent theatre company in Lund known for its imaginative storytelling.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199981,
+                        55.697441
+                  ]
+            },
+            {
+                  "name": "Lilla Teatern",
+                  "text": "Lilla Teatern is a small and historic theatre venue for local stage productions in Lund.",
+                  "category": "cultural",
+                  "coords": [
+                        13.199062,
+                        55.696914
+                  ]
+            },
+            {
+                  "name": "Källbybadet",
+                  "text": "Källbybadet is a popular outdoor swimming facility and water park in Lund.",
+                  "category": "recreational",
+                  "coords": [
+                        13.170373,
+                        55.68989
+                  ]
+            },
+            {
+                  "name": "Rotundan",
+                  "text": "Rotundan is a distinctive venue in Lund hosting various theatrical and dance performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.167208,
+                        55.704283
+                  ]
+            },
+            {
+                  "name": "Rävs hög",
+                  "text": "Rävs hög is an ancient burial mound and archaeological site located in Lund.",
+                  "category": "historical",
+                  "coords": [
+                        13.161538,
+                        55.726109
+                  ]
+            },
+            {
+                  "name": "Drottens kyrkoruin",
+                  "text": "Drottens kyrkoruin preserves the stone foundations of a medieval church in central Lund.",
+                  "category": "historical",
+                  "coords": [
+                        13.190864,
+                        55.702099
+                  ]
+            },
+            {
+                  "name": "Tornaplatsen",
+                  "text": "Tornaplatsen is a small urban park providing a green space for relaxation in Lund.",
+                  "category": "park",
+                  "coords": [
+                        13.205701,
+                        55.707396
+                  ]
+            },
+            {
+                  "name": "Monumentparken",
+                  "text": "Monumentparken contains a large monument commemorating the historic Battle of Lund in 1676.",
+                  "category": "park",
+                  "coords": [
+                        13.185108,
+                        55.718506
+                  ]
+            },
+            {
+                  "name": "Flackarps mölla",
+                  "text": "Flackarps mölla is a well-preserved traditional windmill located on the outskirts of Lund.",
+                  "category": "landmark",
+                  "coords": [
+                        13.167709,
+                        55.681943
+                  ]
+            },
+            {
+                  "name": "Nöbbelövsparken",
+                  "text": "Nöbbelövsparken is a large recreational park area in the northern part of Lund.",
+                  "category": "park",
+                  "coords": [
+                        13.171144,
+                        55.729598
+                  ]
+            },
+            {
+                  "name": "Krognoshuset",
+                  "text": "Krognoshuset is Lund's oldest secular building, currently used as an art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        13.195274,
+                        55.702014
+                  ]
+            },
+            {
+                  "name": "Bananparken",
+                  "text": "Bananparken is a local community park in Lund offering green space and playground areas.",
+                  "category": "park",
+                  "coords": [
+                        13.233061,
+                        55.71428
+                  ]
+            },
+            {
+                  "name": "Råby sjöpark",
+                  "text": "Råby sjöpark is a scenic park area in Lund featuring walking paths around a small lake.",
+                  "category": "park",
+                  "coords": [
+                        13.227734,
+                        55.688028
+                  ]
+            },
+            {
+                  "name": "Sankt Jörgens park",
+                  "text": "Sankt Jörgens park is a landscaped green area in Lund offering pleasant views and walks.",
+                  "category": "park",
+                  "coords": [
+                        13.210171,
+                        55.702777
+                  ]
+            },
+            {
+                  "name": "Stadsparken",
+                  "text": "Lund City Park is a large, versatile green space featuring gardens, playgrounds, and paths.",
+                  "category": "park",
+                  "coords": [
+                        13.185644,
+                        55.698407
+                  ]
+            },
+            {
+                  "name": "Trolle-Wachtmeisters park",
+                  "text": "Trolle-Wachtmeisters park is a peaceful urban green space named after a local noble family.",
+                  "category": "park",
+                  "coords": [
+                        13.181408,
+                        55.707649
+                  ]
+            },
+            {
+                  "name": "Monte Composto",
+                  "text": "Monte Composto is a viewpoint in Lund providing panoramic views of the city and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        13.194289,
+                        55.721724
+                  ]
+            },
+            {
+                  "name": "Kulturminne Lunds kommun",
+                  "text": "This site represents a protected cultural heritage landmark in the municipality of Lund.",
+                  "category": "landmark",
+                  "coords": [
+                        13.187908,
+                        55.707678
+                  ]
+            },
+            {
+                  "name": "Sliparebacken",
+                  "text": "Sliparebacken is a historical site in Lund featuring ancient ruins and local heritage sites.",
+                  "category": "historical",
+                  "coords": [
+                        13.184973,
+                        55.720167
+                  ]
+            },
+            {
+                  "name": "Vattenhallen Science Center",
+                  "text": "Vattenhallen Science Center is an interactive science museum at Lund University.",
+                  "category": "landmark",
+                  "coords": [
+                        13.211661,
+                        55.712134
+                  ]
+            },
+            {
+                  "name": "The phone booth The Phone Booth",
+                  "text": "The Phone Booth is a unique monument in Lund depicting a classic telephone kiosk.",
+                  "category": "historical",
+                  "coords": [
+                        13.208229,
+                        55.710398
+                  ]
+            },
+            {
+                  "name": "Svenska Go Figure Skating",
+                  "text": "Svenska Go Figure Skating is a local sports attraction in Lund dedicated to ice skating.",
+                  "category": "landmark",
+                  "coords": [
+                        13.189534,
+                        55.703002
+                  ]
+            },
+            {
+                  "name": "Studio Bantorget",
+                  "text": "Studio Bantorget is a contemporary art gallery and creative space located in central Lund.",
+                  "category": "museum",
+                  "coords": [
+                        13.188763,
+                        55.704251
+                  ]
+            },
+            {
+                  "name": "Kliger Gallery",
+                  "text": "Kliger Gallery is an art venue in Lund showcasing diverse contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        13.189772,
+                        55.704013
+                  ]
+            },
+            {
+                  "name": "Sankt Laurentii Kyrka",
+                  "text": "Sankt Laurentii Kyrka is a peaceful place of worship and community gathering in Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.200711,
+                        55.695602
+                  ]
+            },
+            {
+                  "name": "Petersgården",
+                  "text": "Petersgården serves as a church and community center for residents in the city of Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.17608,
+                        55.702258
+                  ]
+            },
+            {
+                  "name": "Allhelgonakyrkan",
+                  "text": "Allhelgonakyrkan (All Saints Church) is a striking Neo-Gothic church built in the 1880s.",
+                  "category": "religious",
+                  "coords": [
+                        13.194119,
+                        55.709599
+                  ]
+            },
+            {
+                  "name": "Klosterkyrkan",
+                  "text": "Klosterkyrkan is a historic church in Lund that originated as part of a medieval monastery.",
+                  "category": "religious",
+                  "coords": [
+                        13.186006,
+                        55.704275
+                  ]
+            },
+            {
+                  "name": "Sankt Hans kyrka",
+                  "text": "Sankt Hans kyrka is a modern parish church located in the northern districts of Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.204511,
+                        55.723256
+                  ]
+            },
+            {
+                  "name": "Helgeandskyrkan",
+                  "text": "Helgeandskyrkan is a contemporary church in Lund noted for its unique brutalist architecture.",
+                  "category": "religious",
+                  "coords": [
+                        13.179269,
+                        55.693654
+                  ]
+            },
+            {
+                  "name": "EFS-kapellet",
+                  "text": "EFS-kapellet is a local chapel belonging to the Evangelical Lutheran mission in Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.198125,
+                        55.706541
+                  ]
+            },
+            {
+                  "name": "Maria Magdalena",
+                  "text": "Maria Magdalena is a modern church building located in the Östra Torn district of Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.236684,
+                        55.713032
+                  ]
+            },
+            {
+                  "name": "Stora Råby kyrka",
+                  "text": "Stora Råby kyrka is a medieval church with historical roots located on the outskirts of Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.225147,
+                        55.685896
+                  ]
+            },
+            {
+                  "name": "Stadshuset",
+                  "text": "Stadshuset is the administrative headquarters and city hall of the Lund municipality.",
+                  "category": "historical",
+                  "coords": [
+                        13.192142,
+                        55.704492
+                  ]
+            },
+            {
+                  "name": "Ad Fontes",
+                  "text": "Ad Fontes is a religious gathering place and center for spiritual reflection in Lund.",
+                  "category": "religious",
+                  "coords": [
+                        13.191877,
+                        55.699491
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [13.1910, 55.7047],
@@ -555,7 +11625,1420 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/lund.webp",
   },
   {
-    id: "city-linkoping",
+    id: "city-linkoping", "sights": {
+      "de": [
+            {
+                  "name": "Ung Scen Öst",
+                  "text": "Ein regionales Theater in Linköping, das sich auf Aufführungen für junges Publikum spezialisiert hat.",
+                  "category": "cultural",
+                  "coords": [
+                        15.61677,
+                        58.407668
+                  ]
+            },
+            {
+                  "name": "Östergötlands Järnvägsmuseum",
+                  "text": "Ein Museum in Linköping, das die reiche Eisenbahngeschichte der Region Östergötland präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.584779,
+                        58.400781
+                  ]
+            },
+            {
+                  "name": "Linköpings slott",
+                  "text": "Ein historisches Schloss in Linköping, das früher als Bischofssitz diente.",
+                  "category": "castle",
+                  "coords": [
+                        15.61588,
+                        58.41046
+                  ]
+            },
+            {
+                  "name": "Vallaskogen",
+                  "text": "Ein Naturschutzgebiet in Linköping, das für seinen alten Waldbestand bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.59524,
+                        58.399857
+                  ]
+            },
+            {
+                  "name": "Tinnerö eklandskap",
+                  "text": "Ein weitläufiges Naturschutzgebiet bei Linköping, das durch seine Eichenlandschaft geprägt ist.",
+                  "category": "natural",
+                  "coords": [
+                        15.610868,
+                        58.371385
+                  ]
+            },
+            {
+                  "name": "Stora teatern",
+                  "text": "Das Haupttheatergebäude von Linköping und ein wichtiges kulturelles Zentrum der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619127,
+                        58.413745
+                  ]
+            },
+            {
+                  "name": "Tinnerbäcksbadet",
+                  "text": "Ein beliebtes Erlebnisbad und Freizeitzentrum in Linköping.",
+                  "category": "recreational",
+                  "coords": [
+                        15.628843,
+                        58.40557
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "Ein lokales Theater und Veranstaltungsort für verschiedene kulturelle Darbietungen in Linköping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619498,
+                        58.411937
+                  ]
+            },
+            {
+                  "name": "Crusellhallen",
+                  "text": "Ein großer Konzertsaal in Linköping, der für seine hervorragende Akustik bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        15.614471,
+                        58.413747
+                  ]
+            },
+            {
+                  "name": "Målerimuseet",
+                  "text": "Ein Museum in Linköping, das sich der Kunst und Geschichte der Malerei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        15.590191,
+                        58.405666
+                  ]
+            },
+            {
+                  "name": "Tages hörna",
+                  "text": "Eine kleine Bühne in Linköping, die Raum für intimere Theateraufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.615493,
+                        58.413797
+                  ]
+            },
+            {
+                  "name": "Passagen",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in Linköping mit wechselnden Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621336,
+                        58.410261
+                  ]
+            },
+            {
+                  "name": "Trädgårdsföreningen",
+                  "text": "Ein wunderschöner Stadtpark in Linköping mit einem botanischen Garten und Gewächshäusern.",
+                  "category": "park",
+                  "coords": [
+                        15.620652,
+                        58.405848
+                  ]
+            },
+            {
+                  "name": "Berga minnespark",
+                  "text": "Ein Gedenkpark im Stadtteil Berga in Linköping, der zur Erholung einlädt.",
+                  "category": "park",
+                  "coords": [
+                        15.639606,
+                        58.390383
+                  ]
+            },
+            {
+                  "name": "LasseMajas Deckarhus",
+                  "text": "Eine kinderfreundliche Attraktion in Linköping, basierend auf den beliebten LasseMaja-Detektivbüchern.",
+                  "category": "landmark",
+                  "coords": [
+                        15.58835,
+                        58.405529
+                  ]
+            },
+            {
+                  "name": "Krogen Amerika",
+                  "text": "Ein Kulturzentrum in einem historischen Gebäude, das als Treffpunkt für Kunst und Kultur dient.",
+                  "category": "cultural",
+                  "coords": [
+                        15.618692,
+                        58.410027
+                  ]
+            },
+            {
+                  "name": "Skylten",
+                  "text": "Ein lebendiges Kulturhaus in Linköping, das Raum für Musik, Kunst und Jugendaktivitäten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625155,
+                        58.41803
+                  ]
+            },
+            {
+                  "name": "Babettes Kulturpalats",
+                  "text": "Ein charmantes Kulturzentrum und Café in Linköping, das verschiedene kulturelle Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623292,
+                        58.40909
+                  ]
+            },
+            {
+                  "name": "Belvederen",
+                  "text": "Ein historischer Aussichtsturm im Park Trädgårdsföreningen mit Blick über Linköping.",
+                  "category": "natural",
+                  "coords": [
+                        15.620537,
+                        58.404407
+                  ]
+            },
+            {
+                  "name": "Drömmarnas båge",
+                  "text": "Ein künstlerisches Denkmal in Linköping, das als lokales Wahrzeichen dient.",
+                  "category": "historical",
+                  "coords": [
+                        15.630612,
+                        58.412465
+                  ]
+            },
+            {
+                  "name": "Galleri Sander",
+                  "text": "Eine private Kunstgalerie in Linköping, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        15.620041,
+                        58.409355
+                  ]
+            },
+            {
+                  "name": "Apoteket",
+                  "text": "Eine historische Apotheke, die das alte Apothekenwesen in Gamla Linköping zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        15.588302,
+                        58.406595
+                  ]
+            },
+            {
+                  "name": "Arbis",
+                  "text": "Ein traditionsreiches Kultur- und Theaterhaus im Zentrum von Linköping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.627591,
+                        58.408197
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "Ein Gotteshaus der Adventgemeinde in der Stadt Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.615796,
+                        58.404345
+                  ]
+            },
+            {
+                  "name": "Dom zu Linköping",
+                  "text": "Die imposante mittelalterliche Kathedrale von Linköping und Sitz des Bischofs.",
+                  "category": "religious",
+                  "coords": [
+                        15.617502,
+                        58.411234
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "Eine zentrale Kirche in Linköping, die dem heiligen Laurentius gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        15.625203,
+                        58.411406
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Linköping",
+                  "text": "Ein modernes Kirchengebäude der Equmenia-Gemeinde in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.62646,
+                        58.408531
+                  ]
+            },
+            {
+                  "name": "Skäggetorps kyrka",
+                  "text": "Eine zeitgenössische Kirche im Stadtteil Skäggetorp von Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.578749,
+                        58.42513
+                  ]
+            },
+            {
+                  "name": "Tannefors kyrka",
+                  "text": "Die lokale Kirche des Stadtteils Tannefors in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.643741,
+                        58.40724
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan Sionförsamlingen",
+                  "text": "Ein Gotteshaus der Pfingstgemeinde in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.589088,
+                        58.408502
+                  ]
+            },
+            {
+                  "name": "Berga kyrka",
+                  "text": "Eine moderne Kirche im Stadtteil Berga, die zur schwedischen Kirche gehört.",
+                  "category": "religious",
+                  "coords": [
+                        15.639505,
+                        58.392983
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai katolska kyrka",
+                  "text": "Die katholische Kirche von Linköping, gewidmet dem heiligen Nikolaus.",
+                  "category": "religious",
+                  "coords": [
+                        15.618138,
+                        58.413474
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Eine charmante Kirche in Linköping, die als Ort der Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        15.600262,
+                        58.414202
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "Eine zentral gelegene Kirche in Linköping für verschiedene religiöse Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        15.624062,
+                        58.412775
+                  ]
+            },
+            {
+                  "name": "Uppståndelsens kapell",
+                  "text": "Eine Friedhofskapelle in Linköping, die für Trauergottesdienste genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        15.605365,
+                        58.40631
+                  ]
+            },
+            {
+                  "name": "Braskens bro",
+                  "text": "Eine Brücke in Linköping, die den Fluss Stångån überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        15.652325,
+                        58.400206
+                  ]
+            },
+            {
+                  "name": "Sankta Maria i Johannelund",
+                  "text": "Eine moderne Kirche im Stadtteil Johannelund in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.663442,
+                        58.396007
+                  ]
+            },
+            {
+                  "name": "Stångebro",
+                  "text": "Eine historisch bedeutende Brücke und ein wichtiger Ort in der Geschichte von Linköping.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631627,
+                        58.411797
+                  ]
+            },
+            {
+                  "name": "Sankt Markus",
+                  "text": "Eine syrisch-orthodoxe Kirche, die der christlichen Gemeinschaft in Linköping dient.",
+                  "category": "religious",
+                  "coords": [
+                        15.587322,
+                        58.391318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ung Scen Öst",
+                  "text": "Linköpingi regionális színház, amely kifejezetten a fiatal közönség számára készít előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        15.61677,
+                        58.407668
+                  ]
+            },
+            {
+                  "name": "Östergötlands Järnvägsmuseum",
+                  "text": "Linköpingi múzeum, amely Östergötland régió gazdag vasúti múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.584779,
+                        58.400781
+                  ]
+            },
+            {
+                  "name": "Linköpings slott",
+                  "text": "Történelmi kastély Linköpingben, amely korábban püspöki rezidenciaként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        15.61588,
+                        58.41046
+                  ]
+            },
+            {
+                  "name": "Vallaskogen",
+                  "text": "Természetvédelmi terület Linköpingben, amely idős erdőállományáról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        15.59524,
+                        58.399857
+                  ]
+            },
+            {
+                  "name": "Tinnerö eklandskap",
+                  "text": "Linköping melletti kiterjedt természetvédelmi terület, amelyet tölgyes táj jellemez.",
+                  "category": "natural",
+                  "coords": [
+                        15.610868,
+                        58.371385
+                  ]
+            },
+            {
+                  "name": "Stora teatern",
+                  "text": "Linköping központi színházépülete és a város egyik fontos kulturális helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619127,
+                        58.413745
+                  ]
+            },
+            {
+                  "name": "Tinnerbäcksbadet",
+                  "text": "Népszerű élményfürdő és szabadidős központ Linköping városában.",
+                  "category": "recreational",
+                  "coords": [
+                        15.628843,
+                        58.40557
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "Helyi színház és rendezvényhelyszín Linköpingben különféle kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619498,
+                        58.411937
+                  ]
+            },
+            {
+                  "name": "Crusellhallen",
+                  "text": "Linköping nagy hangversenyterme, amely kiváló akusztikájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.614471,
+                        58.413747
+                  ]
+            },
+            {
+                  "name": "Målerimuseet",
+                  "text": "Linköpingi múzeum, amely a festészet művészetének és történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        15.590191,
+                        58.405666
+                  ]
+            },
+            {
+                  "name": "Tages hörna",
+                  "text": "Kisebb színpad Linköpingben, amely helyet ad a bensőségesebb színházi előadásoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        15.615493,
+                        58.413797
+                  ]
+            },
+            {
+                  "name": "Passagen",
+                  "text": "Kortárs művészeti központ Linköpingben, változó kiállításokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621336,
+                        58.410261
+                  ]
+            },
+            {
+                  "name": "Trädgårdsföreningen",
+                  "text": "Linköping gyönyörű városi parkja botanikus kerttel és üvegházakkal.",
+                  "category": "park",
+                  "coords": [
+                        15.620652,
+                        58.405848
+                  ]
+            },
+            {
+                  "name": "Berga minnespark",
+                  "text": "Emlékpark Linköping Berga negyedében, amely kikapcsolódásra hívogat.",
+                  "category": "park",
+                  "coords": [
+                        15.639606,
+                        58.390383
+                  ]
+            },
+            {
+                  "name": "LasseMajas Deckarhus",
+                  "text": "Gyerekbarát látványosság Linköpingben, a népszerű LasseMaja detektívkönyvek alapján.",
+                  "category": "landmark",
+                  "coords": [
+                        15.58835,
+                        58.405529
+                  ]
+            },
+            {
+                  "name": "Krogen Amerika",
+                  "text": "Kulturális központ egy történelmi épületben, amely művészeti találkozóhelyként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        15.618692,
+                        58.410027
+                  ]
+            },
+            {
+                  "name": "Skylten",
+                  "text": "Élénk kulturális ház Linköpingben, amely helyet ad a zenének, művészetnek és ifjúsági programoknak.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625155,
+                        58.41803
+                  ]
+            },
+            {
+                  "name": "Babettes Kulturpalats",
+                  "text": "Bájos kulturális központ és kávézó Linköpingben, amely különféle kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623292,
+                        58.40909
+                  ]
+            },
+            {
+                  "name": "Belvederen",
+                  "text": "Történelmi kilátótorony a Trädgårdsföreningen parkban, kilátással Linköpingre.",
+                  "category": "natural",
+                  "coords": [
+                        15.620537,
+                        58.404407
+                  ]
+            },
+            {
+                  "name": "Drömmarnas båge",
+                  "text": "Művészeti emlékmű Linköpingben, amely helyi nevezetességként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        15.630612,
+                        58.412465
+                  ]
+            },
+            {
+                  "name": "Galleri Sander",
+                  "text": "Magán művészeti galéria Linköpingben, amely kortárs műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        15.620041,
+                        58.409355
+                  ]
+            },
+            {
+                  "name": "Apoteket",
+                  "text": "Történelmi gyógyszertár, amely a régi patikavilágot mutatja be Gamla Linköpingben.",
+                  "category": "landmark",
+                  "coords": [
+                        15.588302,
+                        58.406595
+                  ]
+            },
+            {
+                  "name": "Arbis",
+                  "text": "Nagy múltú kulturális és színházi központ Linköping szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        15.627591,
+                        58.408197
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "Az adventista közösség temploma Linköping városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.615796,
+                        58.404345
+                  ]
+            },
+            {
+                  "name": "Linköpings domkyrka",
+                  "text": "Linköping impozáns középkori székesegyháza és a püspöki székhely.",
+                  "category": "religious",
+                  "coords": [
+                        15.617502,
+                        58.411234
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "Linköping egyik központi temploma, amelyet Szent Lőrincnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        15.625203,
+                        58.411406
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Linköping",
+                  "text": "Az Equmenia közösség modern templomépülete Linköpingben.",
+                  "category": "religious",
+                  "coords": [
+                        15.62646,
+                        58.408531
+                  ]
+            },
+            {
+                  "name": "Skäggetorps kyrka",
+                  "text": "Kortárs templom Linköping Skäggetorp negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.578749,
+                        58.42513
+                  ]
+            },
+            {
+                  "name": "Tannefors kyrka",
+                  "text": "Linköping Tannefors negyedének helyi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        15.643741,
+                        58.40724
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan Sionförsamlingen",
+                  "text": "A pünkösdi közösség temploma Linköpingben.",
+                  "category": "religious",
+                  "coords": [
+                        15.589088,
+                        58.408502
+                  ]
+            },
+            {
+                  "name": "Berga kyrka",
+                  "text": "Modern templom Berga negyedében, amely a svéd egyházhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        15.639505,
+                        58.392983
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai katolska kyrka",
+                  "text": "Linköping katolikus temploma, amelyet Szent Miklósnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        15.618138,
+                        58.413474
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Bájos templom Linköpingben, amely az áhítat helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        15.600262,
+                        58.414202
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "Központi fekvésű templom Linköpingben különféle vallási események számára.",
+                  "category": "religious",
+                  "coords": [
+                        15.624062,
+                        58.412775
+                  ]
+            },
+            {
+                  "name": "Uppståndelsens kapell",
+                  "text": "Temetőkápolna Linköpingben, amelyet gyászszertatásokhoz használnak.",
+                  "category": "religious",
+                  "coords": [
+                        15.605365,
+                        58.40631
+                  ]
+            },
+            {
+                  "name": "Braskens bro",
+                  "text": "Linköpingi híd, amely a Stångån-folyó felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        15.652325,
+                        58.400206
+                  ]
+            },
+            {
+                  "name": "Sankta Maria i Johannelund",
+                  "text": "Modern templom Linköping Johannelund negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        15.663442,
+                        58.396007
+                  ]
+            },
+            {
+                  "name": "Stångebro",
+                  "text": "Történelmi jelentőségű híd és fontos helyszín Linköping történelmében.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631627,
+                        58.411797
+                  ]
+            },
+            {
+                  "name": "Sankt Markus",
+                  "text": "Szír-ortodox templom, amely a linköpingi keresztény közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        15.587322,
+                        58.391318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ung Scen Öst",
+                  "text": "Un teatru regional din Linköping, specializat în spectacole pentru publicul tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        15.61677,
+                        58.407668
+                  ]
+            },
+            {
+                  "name": "Östergötlands Järnvägsmuseum",
+                  "text": "Un muzeu din Linköping care prezintă bogata istorie feroviară a regiunii Östergötland.",
+                  "category": "museum",
+                  "coords": [
+                        15.584779,
+                        58.400781
+                  ]
+            },
+            {
+                  "name": "Linköpings slott",
+                  "text": "Un castel istoric din Linköping, care a servit în trecut ca reședință episcopală.",
+                  "category": "castle",
+                  "coords": [
+                        15.61588,
+                        58.41046
+                  ]
+            },
+            {
+                  "name": "Vallaskogen",
+                  "text": "O rezervație naturală din Linköping, cunoscută pentru pădurea sa seculară.",
+                  "category": "natural",
+                  "coords": [
+                        15.59524,
+                        58.399857
+                  ]
+            },
+            {
+                  "name": "Tinnerö eklandskap",
+                  "text": "O rezervație naturală vastă lângă Linköping, caracterizată printr-un peisaj cu stejari.",
+                  "category": "natural",
+                  "coords": [
+                        15.610868,
+                        58.371385
+                  ]
+            },
+            {
+                  "name": "Stora teatern",
+                  "text": "Clădirea principală a teatrului din Linköping și un centru cultural important al orașului.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619127,
+                        58.413745
+                  ]
+            },
+            {
+                  "name": "Tinnerbäcksbadet",
+                  "text": "Un parc acvatic și centru de recreere popular situat în Linköping.",
+                  "category": "recreational",
+                  "coords": [
+                        15.628843,
+                        58.40557
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "Un teatru local și spațiu pentru diverse spectacole culturale în Linköping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619498,
+                        58.411937
+                  ]
+            },
+            {
+                  "name": "Crusellhallen",
+                  "text": "O sală de concerte mare din Linköping, renumită pentru acustica sa excelentă.",
+                  "category": "cultural",
+                  "coords": [
+                        15.614471,
+                        58.413747
+                  ]
+            },
+            {
+                  "name": "Målerimuseet",
+                  "text": "Un muzeu din Linköping dedicat artei și istoriei picturii.",
+                  "category": "museum",
+                  "coords": [
+                        15.590191,
+                        58.405666
+                  ]
+            },
+            {
+                  "name": "Tages hörna",
+                  "text": "O scenă mică din Linköping care oferă spațiu pentru spectacole de teatru mai intime.",
+                  "category": "cultural",
+                  "coords": [
+                        15.615493,
+                        58.413797
+                  ]
+            },
+            {
+                  "name": "Passagen",
+                  "text": "Un centru de artă contemporană din Linköping, cu expoziții temporare.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621336,
+                        58.410261
+                  ]
+            },
+            {
+                  "name": "Trädgårdsföreningen",
+                  "text": "Un parc public superb în Linköping, care include o grădină botanică și sere.",
+                  "category": "park",
+                  "coords": [
+                        15.620652,
+                        58.405848
+                  ]
+            },
+            {
+                  "name": "Berga minnespark",
+                  "text": "Un parc memorial în cartierul Berga din Linköping, ideal pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        15.639606,
+                        58.390383
+                  ]
+            },
+            {
+                  "name": "LasseMajas Deckarhus",
+                  "text": "O atracție pentru copii în Linköping, bazată pe popularele cărți cu detectivi LasseMaja.",
+                  "category": "landmark",
+                  "coords": [
+                        15.58835,
+                        58.405529
+                  ]
+            },
+            {
+                  "name": "Krogen Amerika",
+                  "text": "Un centru cultural situat într-o clădire istorică, servind ca loc de întâlnire pentru artă.",
+                  "category": "cultural",
+                  "coords": [
+                        15.618692,
+                        58.410027
+                  ]
+            },
+            {
+                  "name": "Skylten",
+                  "text": "O casă de cultură vibrantă în Linköping, oferind spațiu pentru muzică, artă și activități pentru tineret.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625155,
+                        58.41803
+                  ]
+            },
+            {
+                  "name": "Babettes Kulturpalats",
+                  "text": "Un centru cultural și cafenea fermecătoare din Linköping, care găzduiește diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623292,
+                        58.40909
+                  ]
+            },
+            {
+                  "name": "Belvederen",
+                  "text": "Un turn de observare istoric din parcul Trädgårdsföreningen, cu vedere asupra orașului Linköping.",
+                  "category": "natural",
+                  "coords": [
+                        15.620537,
+                        58.404407
+                  ]
+            },
+            {
+                  "name": "Drömmarnas båge",
+                  "text": "Un monument artistic în Linköping care servește ca punct de reper local.",
+                  "category": "historical",
+                  "coords": [
+                        15.630612,
+                        58.412465
+                  ]
+            },
+            {
+                  "name": "Galleri Sander",
+                  "text": "O galerie de artă privată din Linköping care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        15.620041,
+                        58.409355
+                  ]
+            },
+            {
+                  "name": "Apoteket",
+                  "text": "O farmacie istorică ce ilustrează vechiul sistem farmaceutic în Gamla Linköping.",
+                  "category": "landmark",
+                  "coords": [
+                        15.588302,
+                        58.406595
+                  ]
+            },
+            {
+                  "name": "Arbis",
+                  "text": "O casă de cultură și teatru cu tradiție situată în centrul orașului Linköping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.627591,
+                        58.408197
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "Un lăcaș de cult al comunității adventiste din orașul Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.615796,
+                        58.404345
+                  ]
+            },
+            {
+                  "name": "Linköpings domkyrka",
+                  "text": "Impunătoarea catedrală medievală din Linköping și reședința episcopului.",
+                  "category": "religious",
+                  "coords": [
+                        15.617502,
+                        58.411234
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "O biserică centrală din Linköping dedicată Sfântului Laurențiu.",
+                  "category": "religious",
+                  "coords": [
+                        15.625203,
+                        58.411406
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Linköping",
+                  "text": "O clădire modernă de biserică a comunității Equmenia din Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.62646,
+                        58.408531
+                  ]
+            },
+            {
+                  "name": "Skäggetorps kyrka",
+                  "text": "O biserică contemporană situată în cartierul Skäggetorp din Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.578749,
+                        58.42513
+                  ]
+            },
+            {
+                  "name": "Tannefors kyrka",
+                  "text": "Biserica locală a cartierului Tannefors din Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.643741,
+                        58.40724
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan Sionförsamlingen",
+                  "text": "Un lăcaș de cult al comunității penticostale din Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.589088,
+                        58.408502
+                  ]
+            },
+            {
+                  "name": "Berga kyrka",
+                  "text": "O biserică modernă în cartierul Berga, aparținând Bisericii Suediei.",
+                  "category": "religious",
+                  "coords": [
+                        15.639505,
+                        58.392983
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai katolska kyrka",
+                  "text": "Biserica catolică din Linköping, dedicată Sfântului Nicolae.",
+                  "category": "religious",
+                  "coords": [
+                        15.618138,
+                        58.413474
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "O biserică fermecătoare din Linköping care servește ca lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        15.600262,
+                        58.414202
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "O biserică situată central în Linköping pentru diverse evenimente religioase.",
+                  "category": "religious",
+                  "coords": [
+                        15.624062,
+                        58.412775
+                  ]
+            },
+            {
+                  "name": "Uppståndelsens kapell",
+                  "text": "O capelă de cimitir din Linköping, utilizată pentru slujbe funerare.",
+                  "category": "religious",
+                  "coords": [
+                        15.605365,
+                        58.40631
+                  ]
+            },
+            {
+                  "name": "Braskens bro",
+                  "text": "Un pod din Linköping care traversează râul Stångån.",
+                  "category": "landmark",
+                  "coords": [
+                        15.652325,
+                        58.400206
+                  ]
+            },
+            {
+                  "name": "Sankta Maria i Johannelund",
+                  "text": "O biserică modernă situată în cartierul Johannelund din Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.663442,
+                        58.396007
+                  ]
+            },
+            {
+                  "name": "Stångebro",
+                  "text": "Un pod cu semnificație istorică și un loc important în istoria orașului Linköping.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631627,
+                        58.411797
+                  ]
+            },
+            {
+                  "name": "Sankt Markus",
+                  "text": "O biserică siriacă ortodoxă care deservește comunitatea creștină din Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.587322,
+                        58.391318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ung Scen Öst",
+                  "text": "A regional theatre in Linköping specializing in performances for young audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        15.61677,
+                        58.407668
+                  ]
+            },
+            {
+                  "name": "Östergötlands Järnvägsmuseum",
+                  "text": "A museum in Linköping showcasing the rich railway history of the Östergötland region.",
+                  "category": "museum",
+                  "coords": [
+                        15.584779,
+                        58.400781
+                  ]
+            },
+            {
+                  "name": "Linköpings slott",
+                  "text": "A historic castle in Linköping that formerly served as a bishop's residence.",
+                  "category": "castle",
+                  "coords": [
+                        15.61588,
+                        58.41046
+                  ]
+            },
+            {
+                  "name": "Vallaskogen",
+                  "text": "A nature reserve in Linköping known for its old-growth forest stands.",
+                  "category": "natural",
+                  "coords": [
+                        15.59524,
+                        58.399857
+                  ]
+            },
+            {
+                  "name": "Tinnerö eklandskap",
+                  "text": "A large nature reserve near Linköping characterized by its expansive oak landscape.",
+                  "category": "natural",
+                  "coords": [
+                        15.610868,
+                        58.371385
+                  ]
+            },
+            {
+                  "name": "Stora teatern",
+                  "text": "Linköping's main theatre building and a significant cultural venue in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619127,
+                        58.413745
+                  ]
+            },
+            {
+                  "name": "Tinnerbäcksbadet",
+                  "text": "A popular water park and recreation centre located in Linköping.",
+                  "category": "recreational",
+                  "coords": [
+                        15.628843,
+                        58.40557
+                  ]
+            },
+            {
+                  "name": "Forumteatern",
+                  "text": "A local theatre and venue for various cultural performances in Linköping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.619498,
+                        58.411937
+                  ]
+            },
+            {
+                  "name": "Crusellhallen",
+                  "text": "A large concert hall in Linköping known for its excellent acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        15.614471,
+                        58.413747
+                  ]
+            },
+            {
+                  "name": "Målerimuseet",
+                  "text": "A museum in Linköping dedicated to the art and history of painting.",
+                  "category": "museum",
+                  "coords": [
+                        15.590191,
+                        58.405666
+                  ]
+            },
+            {
+                  "name": "Tages hörna",
+                  "text": "A small stage in Linköping providing space for more intimate theatre performances.",
+                  "category": "cultural",
+                  "coords": [
+                        15.615493,
+                        58.413797
+                  ]
+            },
+            {
+                  "name": "Passagen",
+                  "text": "A contemporary arts centre in Linköping featuring rotating exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        15.621336,
+                        58.410261
+                  ]
+            },
+            {
+                  "name": "Trädgårdsföreningen",
+                  "text": "A beautiful public park in Linköping featuring a botanical garden and greenhouses.",
+                  "category": "park",
+                  "coords": [
+                        15.620652,
+                        58.405848
+                  ]
+            },
+            {
+                  "name": "Berga minnespark",
+                  "text": "A memorial park in the Berga district of Linköping, perfect for recreation.",
+                  "category": "park",
+                  "coords": [
+                        15.639606,
+                        58.390383
+                  ]
+            },
+            {
+                  "name": "LasseMajas Deckarhus",
+                  "text": "A child-friendly attraction in Linköping based on the popular LasseMaja detective books.",
+                  "category": "landmark",
+                  "coords": [
+                        15.58835,
+                        58.405529
+                  ]
+            },
+            {
+                  "name": "Krogen Amerika",
+                  "text": "A cultural centre in a historic building serving as a meeting place for art and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        15.618692,
+                        58.410027
+                  ]
+            },
+            {
+                  "name": "Skylten",
+                  "text": "A vibrant cultural house in Linköping offering space for music, art, and youth activities.",
+                  "category": "cultural",
+                  "coords": [
+                        15.625155,
+                        58.41803
+                  ]
+            },
+            {
+                  "name": "Babettes Kulturpalats",
+                  "text": "A charming cultural centre and cafe in Linköping hosting various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        15.623292,
+                        58.40909
+                  ]
+            },
+            {
+                  "name": "Belvederen",
+                  "text": "A historic lookout tower in the Trädgårdsföreningen park with views over Linköping.",
+                  "category": "natural",
+                  "coords": [
+                        15.620537,
+                        58.404407
+                  ]
+            },
+            {
+                  "name": "Drömmarnas båge",
+                  "text": "An artistic monument in Linköping serving as a local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        15.630612,
+                        58.412465
+                  ]
+            },
+            {
+                  "name": "Galleri Sander",
+                  "text": "A private art gallery in Linköping showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        15.620041,
+                        58.409355
+                  ]
+            },
+            {
+                  "name": "Apoteket",
+                  "text": "A historic pharmacy showcasing the old apothecary system in Gamla Linköping.",
+                  "category": "landmark",
+                  "coords": [
+                        15.588302,
+                        58.406595
+                  ]
+            },
+            {
+                  "name": "Arbis",
+                  "text": "A cultural and theatre house with a long tradition in central Linköping.",
+                  "category": "cultural",
+                  "coords": [
+                        15.627591,
+                        58.408197
+                  ]
+            },
+            {
+                  "name": "Adventkyrkan",
+                  "text": "A place of worship for the Adventist community in the city of Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.615796,
+                        58.404345
+                  ]
+            },
+            {
+                  "name": "Linköping Cathedral",
+                  "text": "The imposing medieval cathedral of Linköping and seat of the Bishop.",
+                  "category": "religious",
+                  "coords": [
+                        15.617502,
+                        58.411234
+                  ]
+            },
+            {
+                  "name": "Sankt Lars kyrka",
+                  "text": "A central church in Linköping dedicated to Saint Lawrence.",
+                  "category": "religious",
+                  "coords": [
+                        15.625203,
+                        58.411406
+                  ]
+            },
+            {
+                  "name": "Equmeniakyrkan Linköping",
+                  "text": "A modern church building of the Equmenia community in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.62646,
+                        58.408531
+                  ]
+            },
+            {
+                  "name": "Skäggetorps kyrka",
+                  "text": "A contemporary church located in the Skäggetorp district of Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.578749,
+                        58.42513
+                  ]
+            },
+            {
+                  "name": "Tannefors kyrka",
+                  "text": "The local church of the Tannefors district in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.643741,
+                        58.40724
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan Sionförsamlingen",
+                  "text": "A place of worship for the Pentecostal community in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.589088,
+                        58.408502
+                  ]
+            },
+            {
+                  "name": "Berga kyrka",
+                  "text": "A modern church in the Berga district, belonging to the Church of Sweden.",
+                  "category": "religious",
+                  "coords": [
+                        15.639505,
+                        58.392983
+                  ]
+            },
+            {
+                  "name": "Saint Nikolai Catholic Church",
+                  "text": "The Catholic church of Linköping, dedicated to Saint Nikolai.",
+                  "category": "religious",
+                  "coords": [
+                        15.618138,
+                        58.413474
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A charming church in Linköping serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        15.600262,
+                        58.414202
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "A centrally located church in Linköping for various religious events.",
+                  "category": "religious",
+                  "coords": [
+                        15.624062,
+                        58.412775
+                  ]
+            },
+            {
+                  "name": "Uppståndelsens kapell",
+                  "text": "A cemetery chapel in Linköping used for funeral services.",
+                  "category": "religious",
+                  "coords": [
+                        15.605365,
+                        58.40631
+                  ]
+            },
+            {
+                  "name": "Braskens bro",
+                  "text": "A bridge in Linköping crossing the Stångån river.",
+                  "category": "landmark",
+                  "coords": [
+                        15.652325,
+                        58.400206
+                  ]
+            },
+            {
+                  "name": "Sankta Maria i Johannelund",
+                  "text": "A modern church located in the Johannelund district of Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.663442,
+                        58.396007
+                  ]
+            },
+            {
+                  "name": "Stångebro",
+                  "text": "A historically significant bridge and an important site in the history of Linköping.",
+                  "category": "landmark",
+                  "coords": [
+                        15.631627,
+                        58.411797
+                  ]
+            },
+            {
+                  "name": "Sankt Markus",
+                  "text": "A Syrian Orthodox church serving the Christian community in Linköping.",
+                  "category": "religious",
+                  "coords": [
+                        15.587322,
+                        58.391318
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [15.6214, 58.4108],
@@ -619,6 +13102,267 @@ export const swedenCities: POI[] = [
                         16.538847,
                         59.59927
                   ]
+            },
+            {
+                  "name": "Västerås Slott",
+                  "text": "Ein historisches Schloss in Västerås, das heute ein Museum beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        16.544405,
+                        59.606527
+                  ]
+            },
+            {
+                  "name": "Teater Västmanland",
+                  "text": "Das Regionaltheater in Västerås, das ein breites Spektrum an Bühnenkunst bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.543218,
+                        59.607998
+                  ]
+            },
+            {
+                  "name": "Amundsgrund",
+                  "text": "Ein Naturschutzgebiet bei Västerås, das für seine friedliche Landschaft bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        16.562695,
+                        59.592015
+                  ]
+            },
+            {
+                  "name": "Kattskär",
+                  "text": "Ein geschütztes Naturareal in der Nähe von Västerås, ideal für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        16.543223,
+                        59.585469
+                  ]
+            },
+            {
+                  "name": "Västerås Konstmuseum",
+                  "text": "Ein Museum in Västerås, das eine vielfältige Sammlung moderner und zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.552013,
+                        59.610009
+                  ]
+            },
+            {
+                  "name": "Kokpunkten",
+                  "text": "Ein einzigartiger „Action“-Wasserpark in einem alten Dampfkraftwerk in Västerås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.566817,
+                        59.607
+                  ]
+            },
+            {
+                  "name": "Västerås Wake Park",
+                  "text": "Ein Sport- und Freizeitpark in Västerås, der sich auf Wakeboarding spezialisiert hat.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54557,
+                        59.602241
+                  ]
+            },
+            {
+                  "name": "Trixteatern",
+                  "text": "Ein freies Theater in Västerås, das für seine kreativen und innovativen Stücke bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        16.556079,
+                        59.607853
+                  ]
+            },
+            {
+                  "name": "Vallby friluftsteater",
+                  "text": "Ein Freilichttheater in Västerås, das im Sommer Aufführungen unter freiem Himmel bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        16.515422,
+                        59.621539
+                  ]
+            },
+            {
+                  "name": "Lögarängsbadet",
+                  "text": "Ein großes Schwimmbad und Freizeitzentrum in Västerås mit Innen- und Außenbecken.",
+                  "category": "recreational",
+                  "coords": [
+                        16.53331,
+                        59.598442
+                  ]
+            },
+            {
+                  "name": "Aseaströmmen",
+                  "text": "Ein Bronzemonument in Västerås, das die Industriegeschichte und die Arbeiter der Stadt ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        16.542528,
+                        59.610723
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "Ein zentraler Park in Västerås, der als grüne Oase im Stadtzentrum dient.",
+                  "category": "park",
+                  "coords": [
+                        16.548067,
+                        59.607444
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgården",
+                  "text": "Der älteste botanische Garten Schwedens, der sich neben dem Rudbeckianska-Gymnasium befindet.",
+                  "category": "park",
+                  "coords": [
+                        16.542709,
+                        59.613082
+                  ]
+            },
+            {
+                  "name": "Djäkneberget",
+                  "text": "Ein beliebter Park auf einem Hügel mit Aussichtspunkten und zahlreichen historischen Steininschriften.",
+                  "category": "park",
+                  "coords": [
+                        16.533035,
+                        59.61139
+                  ]
+            },
+            {
+                  "name": "Vallby Friluftsmuseum",
+                  "text": "Ein Freilichtmuseum, das das historische Dorfleben und die Kultur Westmanlands zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        16.518103,
+                        59.62193
+                  ]
+            },
+            {
+                  "name": "Harbour",
+                  "text": "Der Hafen von Västerås am Mälaren-See bietet Anlegestellen und eine angenehme Atmosphäre am Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        16.548951,
+                        59.60351
+                  ]
+            },
+            {
+                  "name": "Västerås Konsthall",
+                  "text": "Eine Galerie im Zentrum der Stadt, die zeitgenössische Kunst und lokale Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        16.547712,
+                        59.610647
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Eine moderne Kirche in Västerås, benannt nach dem „Apostel des Nordens“.",
+                  "category": "religious",
+                  "coords": [
+                        16.519876,
+                        59.617474
+                  ]
+            },
+            {
+                  "name": "Västerås domkyrka",
+                  "text": "Eine gotische Kathedrale aus dem 13. Jahrhundert, bekannt als Grabstätte von König Erik XIV.",
+                  "category": "religious",
+                  "coords": [
+                        16.541324,
+                        59.612508
+                  ]
+            },
+            {
+                  "name": "Viksängskyrkan",
+                  "text": "Ein moderner Kirchenbau im Stadtteil Viksäng von Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.579706,
+                        59.605646
+                  ]
+            },
+            {
+                  "name": "Sankt Koriakos",
+                  "text": "Eine syrisch-orthodoxe Kirche, die der christlichen Gemeinde in Västerås dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.507122,
+                        59.618017
+                  ]
+            },
+            {
+                  "name": "Vallbykyrkan",
+                  "text": "Eine lokale Kirche im Stadtteil Vallby, die als religiöser Treffpunkt dient.",
+                  "category": "religious",
+                  "coords": [
+                        16.502044,
+                        59.620119
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "Eine moderne Kirche im Stadtteil Önsta-Gryta, die für ihre markante Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.518025,
+                        59.605435
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "Eine Kirche der Pfingstbewegung in Västerås mit aktivem Gemeindeleben.",
+                  "category": "religious",
+                  "coords": [
+                        16.530886,
+                        59.605364
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Eine Freikirche in Västerås, die Teil des schwedischen Baptistenbundes ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.545496,
+                        59.628399
+                  ]
+            },
+            {
+                  "name": "Gideonsbergskyrkan",
+                  "text": "Eine moderne Gemeindekirche im Stadtteil Gideonsberg.",
+                  "category": "religious",
+                  "coords": [
+                        16.556627,
+                        59.627564
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "Eine zentrale christliche Freikirche im Herzen von Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.546117,
+                        59.617719
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Eine moderne Kirche im Stadtteil Bäckby, die nach dem Apostel Thomas benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.589856,
+                        59.621355
+                  ]
+            },
+            {
+                  "name": "Vår Frus katolska kyrka",
+                  "text": "Die katholische Hauptkirche in Västerås, die der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        16.535511,
+                        59.609286
+                  ]
             }
       ],
       "hu": [
@@ -629,6 +13373,267 @@ export const swedenCities: POI[] = [
                   "coords": [
                         16.538847,
                         59.59927
+                  ]
+            },
+            {
+                  "name": "Västerås Slott",
+                  "text": "Történelmi kastély Västeråsban, amely ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        16.544405,
+                        59.606527
+                  ]
+            },
+            {
+                  "name": "Teater Västmanland",
+                  "text": "Regionális színház Västeråsban, amely a színművészet széles skáláját kínálja.",
+                  "category": "cultural",
+                  "coords": [
+                        16.543218,
+                        59.607998
+                  ]
+            },
+            {
+                  "name": "Amundsgrund",
+                  "text": "Västerås közeli természetvédelmi terület, amely nyugodt tájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        16.562695,
+                        59.592015
+                  ]
+            },
+            {
+                  "name": "Kattskär",
+                  "text": "Védett természeti terület Västerås közelében, ideális túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        16.543223,
+                        59.585469
+                  ]
+            },
+            {
+                  "name": "Västerås Konstmuseum",
+                  "text": "Múzeum Västeråsban, amely modern és kortárs művészeti alkotások változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.552013,
+                        59.610009
+                  ]
+            },
+            {
+                  "name": "Kokpunkten",
+                  "text": "Egyedülálló élményfürdő és vízi park egy régi gőzerőműben, Västeråsban.",
+                  "category": "recreational",
+                  "coords": [
+                        16.566817,
+                        59.607
+                  ]
+            },
+            {
+                  "name": "Västerås Wake Park",
+                  "text": "Sport- és szabadidőpark Västeråsban, amely a wakeboardozásra specializálódott.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54557,
+                        59.602241
+                  ]
+            },
+            {
+                  "name": "Trixteatern",
+                  "text": "Független színház Västeråsban, amely kreatív és innovatív darabjairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        16.556079,
+                        59.607853
+                  ]
+            },
+            {
+                  "name": "Vallby friluftsteater",
+                  "text": "Szabadtéri színház Västeråsban, amely nyáron szabadtéri előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        16.515422,
+                        59.621539
+                  ]
+            },
+            {
+                  "name": "Lögarängsbadet",
+                  "text": "Nagy uszoda és szabadidőközpont Västeråsban fedett és szabadtéri medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        16.53331,
+                        59.598442
+                  ]
+            },
+            {
+                  "name": "Aseaströmmen",
+                  "text": "Bronz emlékmű Västeråsban, amely a város ipari múltja és munkásai előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        16.542528,
+                        59.610723
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "Központi park Västeråsban, amely zöld oázisként szolgál a városközpontban.",
+                  "category": "park",
+                  "coords": [
+                        16.548067,
+                        59.607444
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgården",
+                  "text": "Svédország legrégebbi botanikus kertje, amely a Rudbeckianska gimnázium mellett található.",
+                  "category": "park",
+                  "coords": [
+                        16.542709,
+                        59.613082
+                  ]
+            },
+            {
+                  "name": "Djäkneberget",
+                  "text": "Népszerű dombtetői park kilátópontokkal és számos történelmi kőfelirattal.",
+                  "category": "park",
+                  "coords": [
+                        16.533035,
+                        59.61139
+                  ]
+            },
+            {
+                  "name": "Vallby Friluftsmuseum",
+                  "text": "Szabadtéri múzeum, amely Västmanland történelmi falusi életét és kultúráját mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        16.518103,
+                        59.62193
+                  ]
+            },
+            {
+                  "name": "Harbour",
+                  "text": "Västerås kikötője a Mälaren-tónál, amely hajóállomást és kellemes vízparti hangulatot kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        16.548951,
+                        59.60351
+                  ]
+            },
+            {
+                  "name": "Västerås Konsthall",
+                  "text": "A városközpontban található galéria, amely kortárs művészetet és helyi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        16.547712,
+                        59.610647
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "Egy modern templom Västeråsban, amelyet az „észak apostoláról” neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        16.519876,
+                        59.617474
+                  ]
+            },
+            {
+                  "name": "Västerås domkyrka",
+                  "text": "13. századi gótikus székesegyház, amely XIV. Erik király sírhelyeként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        16.541324,
+                        59.612508
+                  ]
+            },
+            {
+                  "name": "Viksängskyrkan",
+                  "text": "Egy modern templomépület Västerås Viksäng negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        16.579706,
+                        59.605646
+                  ]
+            },
+            {
+                  "name": "Sankt Koriakos",
+                  "text": "Szír-ortodox templom, amely a västeråsi keresztény közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        16.507122,
+                        59.618017
+                  ]
+            },
+            {
+                  "name": "Vallbykyrkan",
+                  "text": "Helyi templom Vallby negyedében, amely vallási találkozóhelyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        16.502044,
+                        59.620119
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "Modern templom Önsta-Gryta negyedében, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        16.518025,
+                        59.605435
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "A pünkösdi mozgalom temploma Västeråsban, aktív közösségi élettel.",
+                  "category": "religious",
+                  "coords": [
+                        16.530886,
+                        59.605364
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "Västeråsi szabadtemplom, amely a svéd baptista szövetség része.",
+                  "category": "religious",
+                  "coords": [
+                        16.545496,
+                        59.628399
+                  ]
+            },
+            {
+                  "name": "Gideonsbergskyrkan",
+                  "text": "Modern közösségi templom Gideonsberg városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        16.556627,
+                        59.627564
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "Központi keresztény szabadtemplom Västerås szívében.",
+                  "category": "religious",
+                  "coords": [
+                        16.546117,
+                        59.617719
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "Bäckby negyedében található modern templom, amelyet Tamás apostolról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        16.589856,
+                        59.621355
+                  ]
+            },
+            {
+                  "name": "Vår Frus katolska kyrka",
+                  "text": "Västerås fő katolikus temploma, amelyet Szűz Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        16.535511,
+                        59.609286
                   ]
             }
       ],
@@ -641,6 +13646,267 @@ export const swedenCities: POI[] = [
                         16.538847,
                         59.59927
                   ]
+            },
+            {
+                  "name": "Västerås Slott",
+                  "text": "Un castel istoric din Västerås care găzduiește astăzi un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        16.544405,
+                        59.606527
+                  ]
+            },
+            {
+                  "name": "Teater Västmanland",
+                  "text": "Teatrul regional din Västerås care oferă o gamă largă de arte scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        16.543218,
+                        59.607998
+                  ]
+            },
+            {
+                  "name": "Amundsgrund",
+                  "text": "O rezervație naturală lângă Västerås, cunoscută pentru peisajul său liniștit.",
+                  "category": "natural",
+                  "coords": [
+                        16.562695,
+                        59.592015
+                  ]
+            },
+            {
+                  "name": "Kattskär",
+                  "text": "O zonă naturală protejată lângă Västerås, ideală pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        16.543223,
+                        59.585469
+                  ]
+            },
+            {
+                  "name": "Västerås Konstmuseum",
+                  "text": "Un muzeu din Västerås care expune o colecție diversă de artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        16.552013,
+                        59.610009
+                  ]
+            },
+            {
+                  "name": "Kokpunkten",
+                  "text": "Un parc acvatic unic de tip „action” situat într-o veche centrală electrică cu abur din Västerås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.566817,
+                        59.607
+                  ]
+            },
+            {
+                  "name": "Västerås Wake Park",
+                  "text": "Un parc de sport și recreere din Västerås specializat pe wakeboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54557,
+                        59.602241
+                  ]
+            },
+            {
+                  "name": "Trixteatern",
+                  "text": "Un teatru independent din Västerås cunoscut pentru piesele sale creative și inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        16.556079,
+                        59.607853
+                  ]
+            },
+            {
+                  "name": "Vallby friluftsteater",
+                  "text": "Un teatru în aer liber din Västerås care oferă spectacole sub cerul liber în timpul verii.",
+                  "category": "cultural",
+                  "coords": [
+                        16.515422,
+                        59.621539
+                  ]
+            },
+            {
+                  "name": "Lögarängsbadet",
+                  "text": "O piscină mare și centru de recreere din Västerås cu bazine interioare și exterioare.",
+                  "category": "recreational",
+                  "coords": [
+                        16.53331,
+                        59.598442
+                  ]
+            },
+            {
+                  "name": "Aseaströmmen",
+                  "text": "Un monument de bronz din Västerås care onorează istoria industrială și muncitorii orașului.",
+                  "category": "historical",
+                  "coords": [
+                        16.542528,
+                        59.610723
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "Un parc central din Västerås care servește ca o oază verde în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        16.548067,
+                        59.607444
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgården",
+                  "text": "Cea mai veche grădină botanică din Suedia, situată lângă gimnaziul Rudbeckianska.",
+                  "category": "park",
+                  "coords": [
+                        16.542709,
+                        59.613082
+                  ]
+            },
+            {
+                  "name": "Djäkneberget",
+                  "text": "Un parc popular pe un deal, cu puncte de belvedere și numeroase inscripții istorice în piatră.",
+                  "category": "park",
+                  "coords": [
+                        16.533035,
+                        59.61139
+                  ]
+            },
+            {
+                  "name": "Vallby Friluftsmuseum",
+                  "text": "Un muzeu în aer liber care prezintă viața istorică din sate și cultura din Västmanland.",
+                  "category": "landmark",
+                  "coords": [
+                        16.518103,
+                        59.62193
+                  ]
+            },
+            {
+                  "name": "Harbour",
+                  "text": "Portul din Västerås de pe lacul Mälaren oferă dane și o atmosferă plăcută pe malul apei.",
+                  "category": "landmark",
+                  "coords": [
+                        16.548951,
+                        59.60351
+                  ]
+            },
+            {
+                  "name": "Västerås Konsthall",
+                  "text": "O galerie din centrul orașului care prezintă artă contemporană și expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        16.547712,
+                        59.610647
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "O biserică modernă din Västerås, numită după „Apostolul Nordului”.",
+                  "category": "religious",
+                  "coords": [
+                        16.519876,
+                        59.617474
+                  ]
+            },
+            {
+                  "name": "Västerås domkyrka",
+                  "text": "O catedrală gotică din secolul al XIII-lea, cunoscută ca locul de înmormântare al regelui Erik al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        16.541324,
+                        59.612508
+                  ]
+            },
+            {
+                  "name": "Viksängskyrkan",
+                  "text": "O clădire modernă de biserică în districtul Viksäng din Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.579706,
+                        59.605646
+                  ]
+            },
+            {
+                  "name": "Sankt Koriakos",
+                  "text": "O biserică siriacă ortodoxă care deservește comunitatea creștină din Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.507122,
+                        59.618017
+                  ]
+            },
+            {
+                  "name": "Vallbykyrkan",
+                  "text": "O biserică locală din districtul Vallby, care servește ca loc de întâlnire religios.",
+                  "category": "religious",
+                  "coords": [
+                        16.502044,
+                        59.620119
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "O biserică modernă din districtul Önsta-Gryta, cunoscută pentru arhitectura sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        16.518025,
+                        59.605435
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "O biserică a mișcării penticostale din Västerås, cu o viață de comunitate activă.",
+                  "category": "religious",
+                  "coords": [
+                        16.530886,
+                        59.605364
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "O biserică liberă din Västerås, care face parte din uniunea baptistă suedeză.",
+                  "category": "religious",
+                  "coords": [
+                        16.545496,
+                        59.628399
+                  ]
+            },
+            {
+                  "name": "Gideonsbergskyrkan",
+                  "text": "O biserică comunitară modernă în districtul Gideonsberg.",
+                  "category": "religious",
+                  "coords": [
+                        16.556627,
+                        59.627564
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "O biserică liberă creștină centrală în inima orașului Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.546117,
+                        59.617719
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "O biserică modernă în districtul Bäckby, numită după apostolul Toma.",
+                  "category": "religious",
+                  "coords": [
+                        16.589856,
+                        59.621355
+                  ]
+            },
+            {
+                  "name": "Vår Frus katolska kyrka",
+                  "text": "Principala biserică catolică din Västerås, dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        16.535511,
+                        59.609286
+                  ]
             }
       ],
       "en": [
@@ -651,6 +13917,267 @@ export const swedenCities: POI[] = [
                   "coords": [
                         16.538847,
                         59.59927
+                  ]
+            },
+            {
+                  "name": "Västerås Slott",
+                  "text": "A historic castle in Västerås that now houses a museum.",
+                  "category": "museum",
+                  "coords": [
+                        16.544405,
+                        59.606527
+                  ]
+            },
+            {
+                  "name": "Teater Västmanland",
+                  "text": "The regional theatre in Västerås offering a wide range of performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        16.543218,
+                        59.607998
+                  ]
+            },
+            {
+                  "name": "Amundsgrund",
+                  "text": "A nature reserve near Västerås known for its peaceful landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.562695,
+                        59.592015
+                  ]
+            },
+            {
+                  "name": "Kattskär",
+                  "text": "A protected natural area near Västerås, ideal for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        16.543223,
+                        59.585469
+                  ]
+            },
+            {
+                  "name": "Västerås Konstmuseum",
+                  "text": "A museum in Västerås showcasing a diverse collection of modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        16.552013,
+                        59.610009
+                  ]
+            },
+            {
+                  "name": "Kokpunkten",
+                  "text": "A unique 'action' water park located in an old steam power station in Västerås.",
+                  "category": "recreational",
+                  "coords": [
+                        16.566817,
+                        59.607
+                  ]
+            },
+            {
+                  "name": "Västerås Wake Park",
+                  "text": "A sports and leisure park in Västerås specialized in wakeboarding.",
+                  "category": "recreational",
+                  "coords": [
+                        16.54557,
+                        59.602241
+                  ]
+            },
+            {
+                  "name": "Trixteatern",
+                  "text": "An independent theatre in Västerås known for its creative and innovative plays.",
+                  "category": "cultural",
+                  "coords": [
+                        16.556079,
+                        59.607853
+                  ]
+            },
+            {
+                  "name": "Vallby friluftsteater",
+                  "text": "An open-air theatre in Västerås offering performances under the sky during summer.",
+                  "category": "cultural",
+                  "coords": [
+                        16.515422,
+                        59.621539
+                  ]
+            },
+            {
+                  "name": "Lögarängsbadet",
+                  "text": "A large swimming pool and leisure center in Västerås with indoor and outdoor pools.",
+                  "category": "recreational",
+                  "coords": [
+                        16.53331,
+                        59.598442
+                  ]
+            },
+            {
+                  "name": "Aseaströmmen",
+                  "text": "A bronze monument in Västerås honoring the city's industrial history and workers.",
+                  "category": "historical",
+                  "coords": [
+                        16.542528,
+                        59.610723
+                  ]
+            },
+            {
+                  "name": "Vasaparken",
+                  "text": "A central park in Västerås serving as a green oasis in the city center.",
+                  "category": "park",
+                  "coords": [
+                        16.548067,
+                        59.607444
+                  ]
+            },
+            {
+                  "name": "Botaniska trädgården",
+                  "text": "The oldest botanical garden in Sweden, located next to the Rudbeckianska gymnasium.",
+                  "category": "park",
+                  "coords": [
+                        16.542709,
+                        59.613082
+                  ]
+            },
+            {
+                  "name": "Djäkneberget",
+                  "text": "A popular hilltop park featuring viewpoints and numerous historical stone inscriptions.",
+                  "category": "park",
+                  "coords": [
+                        16.533035,
+                        59.61139
+                  ]
+            },
+            {
+                  "name": "Vallby Friluftsmuseum",
+                  "text": "An open-air museum showcasing historical village life and culture in Västmanland.",
+                  "category": "landmark",
+                  "coords": [
+                        16.518103,
+                        59.62193
+                  ]
+            },
+            {
+                  "name": "Harbour",
+                  "text": "The harbor of Västerås on Lake Mälaren, offering docks and a pleasant waterfront atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        16.548951,
+                        59.60351
+                  ]
+            },
+            {
+                  "name": "Västerås Konsthall",
+                  "text": "A gallery in the city center presenting contemporary art and local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        16.547712,
+                        59.610647
+                  ]
+            },
+            {
+                  "name": "Ansgarskyrkan",
+                  "text": "A modern church in Västerås named after the 'Apostle of the North'.",
+                  "category": "religious",
+                  "coords": [
+                        16.519876,
+                        59.617474
+                  ]
+            },
+            {
+                  "name": "Västerås Cathedral",
+                  "text": "A 13th-century Gothic cathedral known as the burial site of King Eric XIV.",
+                  "category": "religious",
+                  "coords": [
+                        16.541324,
+                        59.612508
+                  ]
+            },
+            {
+                  "name": "Viksängskyrkan",
+                  "text": "A modern church building located in the Viksäng district of Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.579706,
+                        59.605646
+                  ]
+            },
+            {
+                  "name": "Sankt Koriakos",
+                  "text": "A Syriac Orthodox church serving the Christian community in Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.507122,
+                        59.618017
+                  ]
+            },
+            {
+                  "name": "Vallbykyrkan",
+                  "text": "A local church in the Vallby district serving as a religious meeting place.",
+                  "category": "religious",
+                  "coords": [
+                        16.502044,
+                        59.620119
+                  ]
+            },
+            {
+                  "name": "Mikaelikyrkan",
+                  "text": "A modern church in the Önsta-Gryta district, known for its distinctive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        16.518025,
+                        59.605435
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "A Pentecostal movement church in Västerås with an active community life.",
+                  "category": "religious",
+                  "coords": [
+                        16.530886,
+                        59.605364
+                  ]
+            },
+            {
+                  "name": "Korskyrkan",
+                  "text": "A free church in Västerås that is part of the Swedish Baptist Union.",
+                  "category": "religious",
+                  "coords": [
+                        16.545496,
+                        59.628399
+                  ]
+            },
+            {
+                  "name": "Gideonsbergskyrkan",
+                  "text": "A modern community church in the Gideonsberg district.",
+                  "category": "religious",
+                  "coords": [
+                        16.556627,
+                        59.627564
+                  ]
+            },
+            {
+                  "name": "Citykyrkan",
+                  "text": "A central Christian free church in the heart of Västerås.",
+                  "category": "religious",
+                  "coords": [
+                        16.546117,
+                        59.617719
+                  ]
+            },
+            {
+                  "name": "Tomaskyrkan",
+                  "text": "A modern church in the Bäckby district, named after Thomas the Apostle.",
+                  "category": "religious",
+                  "coords": [
+                        16.589856,
+                        59.621355
+                  ]
+            },
+            {
+                  "name": "Vår Frus katolska kyrka",
+                  "text": "The main Catholic church in Västerås, dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        16.535511,
+                        59.609286
                   ]
             }
       ]
@@ -711,7 +14238,736 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/vasteras.webp",
   },
   {
-    id: "city-orebro",
+    id: "city-orebro", "sights": {
+      "de": [
+            {
+                  "name": "Örebro läns museum",
+                  "text": "Das Provinzmuseum von Örebro zeigt Ausstellungen zur regionalen Geschichte und Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        15.218231,
+                        59.27272
+                  ]
+            },
+            {
+                  "name": "Örebro Teater",
+                  "text": "Das Theater von Örebro ist eine historische Bühne für Schauspiel und Kulturveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        15.213229,
+                        59.274509
+                  ]
+            },
+            {
+                  "name": "Slottsmuseet",
+                  "text": "Das Schlossmuseum im Schloss Örebro dokumentiert die Geschichte der Festung.",
+                  "category": "museum",
+                  "coords": [
+                        15.214929,
+                        59.274221
+                  ]
+            },
+            {
+                  "name": "Skolmuseet",
+                  "text": "Das Schulmuseum in Örebro gibt Einblicke in die historische Bildungsgeschichte Schwedens.",
+                  "category": "museum",
+                  "coords": [
+                        15.232577,
+                        59.272734
+                  ]
+            },
+            {
+                  "name": "Stadsparkens scen",
+                  "text": "Die Stadsparkens scen ist eine Freilichtbühne im Stadtpark von Örebro für Sommerevents.",
+                  "category": "cultural",
+                  "coords": [
+                        15.227717,
+                        59.272656
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Das Biologische Museum in Örebro präsentiert die heimische Flora und Fauna.",
+                  "category": "museum",
+                  "coords": [
+                        15.21907,
+                        59.275647
+                  ]
+            },
+            {
+                  "name": "Hjalmar Bergmanteatern",
+                  "text": "Das Hjalmar-Bergman-Theater ist eine moderne Bühne für Kultur in Örebro.",
+                  "category": "cultural",
+                  "coords": [
+                        15.208262,
+                        59.268245
+                  ]
+            },
+            {
+                  "name": "Nya China",
+                  "text": "Nya China ist ein traditionsreiches Theater- und Veranstaltungshaus in Örebro.",
+                  "category": "cultural",
+                  "coords": [
+                        15.215554,
+                        59.276893
+                  ]
+            },
+            {
+                  "name": "Varbergaskogen",
+                  "text": "Varbergaskogen ist ein Naturschutzgebiet in Örebro, das Raum für Erholung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.161716,
+                        59.28511
+                  ]
+            },
+            {
+                  "name": "Boglundsängens naturreservat",
+                  "text": "Ein ruhiges Naturreservat in Örebro, das Schutz für die lokale Flora und Fauna bietet.",
+                  "category": "natural",
+                  "coords": [
+                        15.215587,
+                        59.300899
+                  ]
+            },
+            {
+                  "name": "Svampen",
+                  "text": "Dieser markante Wasserturm in Örebro bietet eine Aussichtsplattform und ein Restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        15.225277,
+                        59.287953
+                  ]
+            },
+            {
+                  "name": "Sveaparken",
+                  "text": "Ein schöner Stadtpark in Örebro, ideal für Spaziergänge und Erholung im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        15.216248,
+                        59.266005
+                  ]
+            },
+            {
+                  "name": "galleri nord",
+                  "text": "Ein lokales Kunstzentrum in Örebro, das verschiedene Ausstellungen zeitgenössischer Werke präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        15.217496,
+                        59.279211
+                  ]
+            },
+            {
+                  "name": "Millenniefatet",
+                  "text": "Ein modernes Monument in Örebro, das zur Feier des neuen Jahrtausends errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        15.21699,
+                        59.273542
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "Eine christliche Freikirche in Örebro, die als Ort für Gottesdienste und Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        15.218889,
+                        59.277779
+                  ]
+            },
+            {
+                  "name": "Almby kyrka",
+                  "text": "Eine historische Kirche in Örebro, die als lokales Zentrum für religiöse Zeremonien dient.",
+                  "category": "religious",
+                  "coords": [
+                        15.244682,
+                        59.257466
+                  ]
+            },
+            {
+                  "name": "S:t Nikolai kyrka",
+                  "text": "Die Nikolaikirche ist ein bedeutendes mittelalterliches Kirchengebäude im Zentrum von Örebro.",
+                  "category": "religious",
+                  "coords": [
+                        15.211179,
+                        59.272265
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Das imposante Rathaus von Örebro ist Sitz der Stadtverwaltung und ein architektonischer Blickfang.",
+                  "category": "historical",
+                  "coords": [
+                        15.212739,
+                        59.272288
+                  ]
+            },
+            {
+                  "name": "Sankt Eskils katolska kyrka",
+                  "text": "Die katholische Kirche St. Eskil in Örebro dient der lokalen Gemeinde als Ort des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        15.220365,
+                        59.277164
+                  ]
+            },
+            {
+                  "name": "Sankt Mikaels kyrka",
+                  "text": "Eine moderne Kirche in Örebro, die für religiöse Dienste und soziale Aktivitäten genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        15.193248,
+                        59.29043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Örebro läns museum",
+                  "text": "Az Örebro megyei múzeum a régió történelmét és művészetét bemutató gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        15.218231,
+                        59.27272
+                  ]
+            },
+            {
+                  "name": "Örebro Teater",
+                  "text": "Az Örebro Teater a város történelmi színháza, ahol változatos előadásokat tartanak.",
+                  "category": "cultural",
+                  "coords": [
+                        15.213229,
+                        59.274509
+                  ]
+            },
+            {
+                  "name": "Slottsmuseet",
+                  "text": "A kastélymúzeum az örebrói vár történetét mutatja be a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        15.214929,
+                        59.274221
+                  ]
+            },
+            {
+                  "name": "Skolmuseet",
+                  "text": "Az örebrói iskolamúzeum a régi idők oktatási módszereit és eszközeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.232577,
+                        59.272734
+                  ]
+            },
+            {
+                  "name": "Stadsparkens scen",
+                  "text": "A városi park színpada szabadtéri koncertek és rendezvények helyszíne Örebróban.",
+                  "category": "cultural",
+                  "coords": [
+                        15.227717,
+                        59.272656
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Az örebrói biológiai múzeum a környék növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        15.21907,
+                        59.275647
+                  ]
+            },
+            {
+                  "name": "Hjalmar Bergmanteatern",
+                  "text": "A Hjalmar Bergman színház Örebro egyik fontos kulturális előadóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        15.208262,
+                        59.268245
+                  ]
+            },
+            {
+                  "name": "Nya China",
+                  "text": "A Nya China egy nagy múltú színház és rendezvényterem Örebro városában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.215554,
+                        59.276893
+                  ]
+            },
+            {
+                  "name": "Varbergaskogen",
+                  "text": "A Varbergaskogen egy természetvédelmi terület Örebro közelében, erdei ösvényekkel.",
+                  "category": "natural",
+                  "coords": [
+                        15.161716,
+                        59.28511
+                  ]
+            },
+            {
+                  "name": "Boglundsängens naturreservat",
+                  "text": "Csendes természetvédelmi terület Örebróban, amely a helyi növény- és állatvilágnak ad otthont.",
+                  "category": "natural",
+                  "coords": [
+                        15.215587,
+                        59.300899
+                  ]
+            },
+            {
+                  "name": "Svampen",
+                  "text": "Ez a jellegzetes örebrói víztorony kilátóval és étteremmel várja a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        15.225277,
+                        59.287953
+                  ]
+            },
+            {
+                  "name": "Sveaparken",
+                  "text": "Szép városi park Örebróban, amely ideális sétákhoz és kikapcsolódáshoz a zöldben.",
+                  "category": "park",
+                  "coords": [
+                        15.216248,
+                        59.266005
+                  ]
+            },
+            {
+                  "name": "galleri nord",
+                  "text": "Helyi művészeti központ Örebróban, amely kortárs művészeti kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        15.217496,
+                        59.279211
+                  ]
+            },
+            {
+                  "name": "Millenniefatet",
+                  "text": "Modern emlékmű Örebróban, amelyet az új évezred tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        15.21699,
+                        59.273542
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "Keresztény szabadegyház Örebróban, amely istentiszteletek és közösségi események helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        15.218889,
+                        59.277779
+                  ]
+            },
+            {
+                  "name": "Almby kyrka",
+                  "text": "Történelmi templom Örebróban, amely a vallási szertartások helyi központja.",
+                  "category": "religious",
+                  "coords": [
+                        15.244682,
+                        59.257466
+                  ]
+            },
+            {
+                  "name": "S:t Nikolai kyrka",
+                  "text": "A Szent Miklós-templom egy jelentős középkori egyházi épület Örebro központjában.",
+                  "category": "religious",
+                  "coords": [
+                        15.211179,
+                        59.272265
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Örebro impozáns városházája az önkormányzat székhelye és építészeti látványosság.",
+                  "category": "historical",
+                  "coords": [
+                        15.212739,
+                        59.272288
+                  ]
+            },
+            {
+                  "name": "Sankt Eskils katolska kyrka",
+                  "text": "A Szent Eskil katolikus templom Örebróban a helyi közösség imádságos helye.",
+                  "category": "religious",
+                  "coords": [
+                        15.220365,
+                        59.277164
+                  ]
+            },
+            {
+                  "name": "Sankt Mikaels kyrka",
+                  "text": "Modern templom Örebróban, amelyet vallási szertartásokra és közösségi tevékenységekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        15.193248,
+                        59.29043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Örebro läns museum",
+                  "text": "Muzeul regional din Örebro prezintă expoziții despre istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.218231,
+                        59.27272
+                  ]
+            },
+            {
+                  "name": "Örebro Teater",
+                  "text": "Teatrul din Örebro este o instituție culturală istorică ce găzduiește spectacole diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        15.213229,
+                        59.274509
+                  ]
+            },
+            {
+                  "name": "Slottsmuseet",
+                  "text": "Muzeul castelului din Örebro oferă informații despre istoria fortăreței și a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        15.214929,
+                        59.274221
+                  ]
+            },
+            {
+                  "name": "Skolmuseet",
+                  "text": "Muzeul școlii din Örebro prezintă evoluția educației și a sistemului școlar suedez.",
+                  "category": "museum",
+                  "coords": [
+                        15.232577,
+                        59.272734
+                  ]
+            },
+            {
+                  "name": "Stadsparkens scen",
+                  "text": "Scena din parcul orașului Örebro este o locație în aer liber pentru evenimente estivale.",
+                  "category": "cultural",
+                  "coords": [
+                        15.227717,
+                        59.272656
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Muzeul biologic din Örebro expune diverse specii din flora și fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        15.21907,
+                        59.275647
+                  ]
+            },
+            {
+                  "name": "Hjalmar Bergmanteatern",
+                  "text": "Teatrul Hjalmar Bergman este un spațiu cultural modern pentru spectacole în Örebro.",
+                  "category": "cultural",
+                  "coords": [
+                        15.208262,
+                        59.268245
+                  ]
+            },
+            {
+                  "name": "Nya China",
+                  "text": "Nya China este o clădire istorică din Örebro utilizată pentru teatru și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        15.215554,
+                        59.276893
+                  ]
+            },
+            {
+                  "name": "Varbergaskogen",
+                  "text": "Varbergaskogen este o rezervație naturală din Örebro, ideală pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        15.161716,
+                        59.28511
+                  ]
+            },
+            {
+                  "name": "Boglundsängens naturreservat",
+                  "text": "O rezervație naturală liniștită din Örebro, care oferă protecție florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        15.215587,
+                        59.300899
+                  ]
+            },
+            {
+                  "name": "Svampen",
+                  "text": "Acest turn de apă distinctiv din Örebro oferă o platformă de observare și un restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        15.225277,
+                        59.287953
+                  ]
+            },
+            {
+                  "name": "Sveaparken",
+                  "text": "Un parc urban frumos în Örebro, ideal pentru plimbări și relaxare în natură.",
+                  "category": "park",
+                  "coords": [
+                        15.216248,
+                        59.266005
+                  ]
+            },
+            {
+                  "name": "galleri nord",
+                  "text": "Un centru de artă local din Örebro, care prezintă diverse expoziții de lucrări contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        15.217496,
+                        59.279211
+                  ]
+            },
+            {
+                  "name": "Millenniefatet",
+                  "text": "Un monument modern în Örebro, ridicat pentru a celebra noul mileniu.",
+                  "category": "historical",
+                  "coords": [
+                        15.21699,
+                        59.273542
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "O biserică creștină liberă din Örebro, servind ca loc pentru slujbe și comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        15.218889,
+                        59.277779
+                  ]
+            },
+            {
+                  "name": "Almby kyrka",
+                  "text": "O biserică istorică din Örebro, care servește ca centru local pentru ceremonii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        15.244682,
+                        59.257466
+                  ]
+            },
+            {
+                  "name": "S:t Nikolai kyrka",
+                  "text": "Biserica Sfântul Nicolae este un edificiu religios medieval important din centrul orașului Örebro.",
+                  "category": "religious",
+                  "coords": [
+                        15.211179,
+                        59.272265
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "Primăria impunătoare din Örebro este sediul administrației orașului și un reper arhitectural.",
+                  "category": "historical",
+                  "coords": [
+                        15.212739,
+                        59.272288
+                  ]
+            },
+            {
+                  "name": "Sankt Eskils katolska kyrka",
+                  "text": "Biserica catolică Sfântul Eskil din Örebro servește comunitatea locală ca loc de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        15.220365,
+                        59.277164
+                  ]
+            },
+            {
+                  "name": "Sankt Mikaels kyrka",
+                  "text": "O biserică modernă din Örebro, utilizată pentru servicii religioase și activități sociale.",
+                  "category": "religious",
+                  "coords": [
+                        15.193248,
+                        59.29043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Örebro läns museum",
+                  "text": "Örebro läns museum showcases the cultural history and artistic heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        15.218231,
+                        59.27272
+                  ]
+            },
+            {
+                  "name": "Örebro Teater",
+                  "text": "Örebro Teater is a beautiful historic theatre venue located in the heart of Örebro.",
+                  "category": "cultural",
+                  "coords": [
+                        15.213229,
+                        59.274509
+                  ]
+            },
+            {
+                  "name": "Slottsmuseet",
+                  "text": "Slottsmuseet is located within Örebro Castle, documenting the fortress's long history.",
+                  "category": "museum",
+                  "coords": [
+                        15.214929,
+                        59.274221
+                  ]
+            },
+            {
+                  "name": "Skolmuseet",
+                  "text": "Skolmuseet provides a fascinating look into the history of education and schooling in Örebro.",
+                  "category": "museum",
+                  "coords": [
+                        15.232577,
+                        59.272734
+                  ]
+            },
+            {
+                  "name": "Stadsparkens scen",
+                  "text": "Stadsparkens scen is an open-air stage in Örebro's city park used for summer events.",
+                  "category": "cultural",
+                  "coords": [
+                        15.227717,
+                        59.272656
+                  ]
+            },
+            {
+                  "name": "Biologiska museet",
+                  "text": "Biologiska museet in Örebro exhibits the diverse flora and fauna of the region.",
+                  "category": "museum",
+                  "coords": [
+                        15.21907,
+                        59.275647
+                  ]
+            },
+            {
+                  "name": "Hjalmar Bergmanteatern",
+                  "text": "Hjalmar Bergmanteatern is a prominent cultural venue for performing arts in Örebro.",
+                  "category": "cultural",
+                  "coords": [
+                        15.208262,
+                        59.268245
+                  ]
+            },
+            {
+                  "name": "Nya China",
+                  "text": "Nya China is a historic theatre building in Örebro now used for various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        15.215554,
+                        59.276893
+                  ]
+            },
+            {
+                  "name": "Varbergaskogen",
+                  "text": "Varbergaskogen is a protected nature reserve in Örebro offering trails and forest scenery.",
+                  "category": "natural",
+                  "coords": [
+                        15.161716,
+                        59.28511
+                  ]
+            },
+            {
+                  "name": "Boglundsängens naturreservat",
+                  "text": "A peaceful nature reserve in Örebro providing a habitat for local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        15.215587,
+                        59.300899
+                  ]
+            },
+            {
+                  "name": "Svampen",
+                  "text": "This iconic water tower in Örebro features an observation deck and a restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        15.225277,
+                        59.287953
+                  ]
+            },
+            {
+                  "name": "Sveaparken",
+                  "text": "A beautiful city park in Örebro, ideal for walks and relaxation in green surroundings.",
+                  "category": "park",
+                  "coords": [
+                        15.216248,
+                        59.266005
+                  ]
+            },
+            {
+                  "name": "galleri nord",
+                  "text": "A local arts centre in Örebro showcasing various exhibitions of contemporary works.",
+                  "category": "cultural",
+                  "coords": [
+                        15.217496,
+                        59.279211
+                  ]
+            },
+            {
+                  "name": "Millenniefatet",
+                  "text": "A modern monument in Örebro erected to celebrate the new millennium.",
+                  "category": "historical",
+                  "coords": [
+                        15.21699,
+                        59.273542
+                  ]
+            },
+            {
+                  "name": "Filadelfiakyrkan",
+                  "text": "A Christian free church in Örebro serving as a place for worship and community.",
+                  "category": "religious",
+                  "coords": [
+                        15.218889,
+                        59.277779
+                  ]
+            },
+            {
+                  "name": "Almby kyrka",
+                  "text": "A historic church in Örebro serving as a local centre for religious ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        15.244682,
+                        59.257466
+                  ]
+            },
+            {
+                  "name": "S:t Nikolai kyrka",
+                  "text": "St. Nikolai Church is a prominent medieval religious building in the centre of Örebro.",
+                  "category": "religious",
+                  "coords": [
+                        15.211179,
+                        59.272265
+                  ]
+            },
+            {
+                  "name": "Rådhuset",
+                  "text": "The imposing town hall of Örebro is the seat of local government and an architectural landmark.",
+                  "category": "historical",
+                  "coords": [
+                        15.212739,
+                        59.272288
+                  ]
+            },
+            {
+                  "name": "Sankt Eskils katolska kyrka",
+                  "text": "St. Eskil's Catholic Church in Örebro serves the local congregation as a place of prayer.",
+                  "category": "religious",
+                  "coords": [
+                        15.220365,
+                        59.277164
+                  ]
+            },
+            {
+                  "name": "Sankt Mikaels kyrka",
+                  "text": "A modern church in Örebro used for religious services and social activities.",
+                  "category": "religious",
+                  "coords": [
+                        15.193248,
+                        59.29043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [15.2066, 59.2753],
@@ -768,7 +15024,772 @@ export const swedenCities: POI[] = [
     image: "/geo-images/sweden/orebro.webp",
   },
   {
-    id: "city-halmstad",
+    id: "city-halmstad", "sights": {
+      "de": [
+            {
+                  "name": "Alets naturreservat",
+                  "text": "Ein Naturschutzgebiet in Halmstad, das für seine Küstenlandschaft und Wanderwege bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        12.83805,
+                        56.663508
+                  ]
+            },
+            {
+                  "name": "Garnisonsmuseet",
+                  "text": "Ein Museum in Halmstad, das die Militärgeschichte der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.861171,
+                        56.688164
+                  ]
+            },
+            {
+                  "name": "Halmstads teater",
+                  "text": "Das Haupttheater von Halmstad, ein wichtiger Ort für Kultur und Unterhaltung.",
+                  "category": "cultural",
+                  "coords": [
+                        12.863023,
+                        56.673675
+                  ]
+            },
+            {
+                  "name": "Hallands Konstmuseum",
+                  "text": "Ein Kunstmuseum in Halmstad, das regionale und internationale Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.862292,
+                        56.680806
+                  ]
+            },
+            {
+                  "name": "Kulturhuset",
+                  "text": "Ein Kulturzentrum und Theaterstandort im Herzen von Halmstad.",
+                  "category": "cultural",
+                  "coords": [
+                        12.873145,
+                        56.682361
+                  ]
+            },
+            {
+                  "name": "Bastionen",
+                  "text": "Eine historische Befestigungsanlage und Burg in Halmstad.",
+                  "category": "castle",
+                  "coords": [
+                        12.860061,
+                        56.677598
+                  ]
+            },
+            {
+                  "name": "Amfiteatern",
+                  "text": "Ein Freilichttheater für Aufführungen und Veranstaltungen in Halmstad.",
+                  "category": "cultural",
+                  "coords": [
+                        12.889588,
+                        56.665486
+                  ]
+            },
+            {
+                  "name": "Filtparken",
+                  "text": "Ein öffentlicher Park in Halmstad, der Grünflächen zur Entspannung bietet.",
+                  "category": "park",
+                  "coords": [
+                        12.862448,
+                        56.676054
+                  ]
+            },
+            {
+                  "name": "Kapsylparken",
+                  "text": "Ein öffentlicher Stadtpark in Halmstad.",
+                  "category": "park",
+                  "coords": [
+                        12.861284,
+                        56.674782
+                  ]
+            },
+            {
+                  "name": "Galleri Gasell",
+                  "text": "Eine Kunstgalerie in Halmstad, die verschiedene Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.854764,
+                        56.675321
+                  ]
+            },
+            {
+                  "name": "Galgbergets Utkikstorn",
+                  "text": "Ein Aussichtsturm auf dem Galgberget, der einen Panoramablick über Halmstad bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.851962,
+                        56.68307
+                  ]
+            },
+            {
+                  "name": "Morups väderkvarn",
+                  "text": "Eine historische Windmühle in der Nähe von Halmstad.",
+                  "category": "landmark",
+                  "coords": [
+                        12.853571,
+                        56.681406
+                  ]
+            },
+            {
+                  "name": "Andersbergskyrkan",
+                  "text": "Eine moderne Gemeindekirche im Stadtteil Andersberg in Halmstad.",
+                  "category": "religious",
+                  "coords": [
+                        12.898266,
+                        56.660691
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "Eine bedeutende Kultstätte in Halmstad, bekannt als Dreifaltigkeitskirche.",
+                  "category": "religious",
+                  "coords": [
+                        12.852732,
+                        56.678546
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai kyrka",
+                  "text": "Die Hauptpfarrkirche von Halmstad, deren Ursprünge bis ins Mittelalter zurückreichen.",
+                  "category": "religious",
+                  "coords": [
+                        12.856415,
+                        56.673304
+                  ]
+            },
+            {
+                  "name": "Martin Luthers kyrka",
+                  "text": "Eine lutherische Kirche in Halmstad, benannt nach dem Reformator Martin Luther.",
+                  "category": "religious",
+                  "coords": [
+                        12.880702,
+                        56.667417
+                  ]
+            },
+            {
+                  "name": "Kärlekens kyrka",
+                  "text": "Eine lokale Kirche, die dem Stadtteil Kärleken in Halmstad dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.865781,
+                        56.700149
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "Eine Kultstätte in Halmstad, die Olaus Petri gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.871647,
+                        56.673579
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Eine Freikirche in Halmstad, die zur Equmenia-Kirche gehört.",
+                  "category": "religious",
+                  "coords": [
+                        12.861672,
+                        56.672944
+                  ]
+            },
+            {
+                  "name": "Slottsbron",
+                  "text": "Eine historische Brücke über den Fluss Nissan in der Nähe des Schlosses Halmstad.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859475,
+                        56.672376
+                  ]
+            },
+            {
+                  "name": "Österbro",
+                  "text": "Eine Brücke, die die östlichen Teile von Halmstad verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859952,
+                        56.674215
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Alets naturreservat",
+                  "text": "Halmstadi természetvédelmi terület, amely tengerparti tájáról és túraútvonalairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        12.83805,
+                        56.663508
+                  ]
+            },
+            {
+                  "name": "Garnisonsmuseet",
+                  "text": "Halmstadi múzeum, amely a régió katonai történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.861171,
+                        56.688164
+                  ]
+            },
+            {
+                  "name": "Halmstads teater",
+                  "text": "Halmstad központi színháza, a kultúra és szórakozás egyik fontos helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.863023,
+                        56.673675
+                  ]
+            },
+            {
+                  "name": "Hallands Konstmuseum",
+                  "text": "Halmstadi művészeti múzeum, amely regionális és nemzetközi alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.862292,
+                        56.680806
+                  ]
+            },
+            {
+                  "name": "Kulturhuset",
+                  "text": "Kulturális központ és színház Halmstad szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        12.873145,
+                        56.682361
+                  ]
+            },
+            {
+                  "name": "Bastionen",
+                  "text": "Történelmi erődítmény és vár Halmstadban.",
+                  "category": "castle",
+                  "coords": [
+                        12.860061,
+                        56.677598
+                  ]
+            },
+            {
+                  "name": "Amfiteatern",
+                  "text": "Szabadtéri színház előadások és rendezvények számára Halmstadban.",
+                  "category": "cultural",
+                  "coords": [
+                        12.889588,
+                        56.665486
+                  ]
+            },
+            {
+                  "name": "Filtparken",
+                  "text": "Nyilvános park Halmstadban, amely zöldterületet kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        12.862448,
+                        56.676054
+                  ]
+            },
+            {
+                  "name": "Kapsylparken",
+                  "text": "Nyilvános városi park Halmstadban.",
+                  "category": "park",
+                  "coords": [
+                        12.861284,
+                        56.674782
+                  ]
+            },
+            {
+                  "name": "Galleri Gasell",
+                  "text": "Különféle műveket bemutató művészeti galéria Halmstadban.",
+                  "category": "museum",
+                  "coords": [
+                        12.854764,
+                        56.675321
+                  ]
+            },
+            {
+                  "name": "Galgbergets Utkikstorn",
+                  "text": "Kilátótorony a Galgberget-dombon, amely panorámás kilátást kínál Halmstadra.",
+                  "category": "natural",
+                  "coords": [
+                        12.851962,
+                        56.68307
+                  ]
+            },
+            {
+                  "name": "Morups väderkvarn",
+                  "text": "Történelmi szélmalom Halmstad közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.853571,
+                        56.681406
+                  ]
+            },
+            {
+                  "name": "Andersbergskyrkan",
+                  "text": "Modern plébániatemplom Halmstad Andersberg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.898266,
+                        56.660691
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "Jelentős templom Halmstadban, az úgynevezett Szentháromság-templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.852732,
+                        56.678546
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai kyrka",
+                  "text": "Halmstad főplébániatemploma, amely a középkorig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        12.856415,
+                        56.673304
+                  ]
+            },
+            {
+                  "name": "Martin Luthers kyrka",
+                  "text": "Lutheránus templom Halmstadban, Luther Márton reformátorról elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        12.880702,
+                        56.667417
+                  ]
+            },
+            {
+                  "name": "Kärlekens kyrka",
+                  "text": "Helyi templom Halmstad Kärleken negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.865781,
+                        56.700149
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "Olaus Petrinek szentelt templom Halmstadban.",
+                  "category": "religious",
+                  "coords": [
+                        12.871647,
+                        56.673579
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "Szabadtemplom Halmstadban, amely az Equmenia-templomhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        12.861672,
+                        56.672944
+                  ]
+            },
+            {
+                  "name": "Slottsbron",
+                  "text": "Történelmi híd a Nissan-folyón, a halmstadi kastély közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859475,
+                        56.672376
+                  ]
+            },
+            {
+                  "name": "Österbro",
+                  "text": "Híd, amely Halmstad keleti részeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859952,
+                        56.674215
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Alets naturreservat",
+                  "text": "O rezervație naturală din Halmstad, cunoscută pentru peisajul de coastă și traseele de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        12.83805,
+                        56.663508
+                  ]
+            },
+            {
+                  "name": "Garnisonsmuseet",
+                  "text": "Un muzeu din Halmstad care documentează istoria militară a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        12.861171,
+                        56.688164
+                  ]
+            },
+            {
+                  "name": "Halmstads teater",
+                  "text": "Teatrul principal din Halmstad, un spațiu important pentru cultură și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        12.863023,
+                        56.673675
+                  ]
+            },
+            {
+                  "name": "Hallands Konstmuseum",
+                  "text": "Un muzeu de artă din Halmstad care expune lucrări regionale și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        12.862292,
+                        56.680806
+                  ]
+            },
+            {
+                  "name": "Kulturhuset",
+                  "text": "Un centru cultural și sală de teatru în inima orașului Halmstad.",
+                  "category": "cultural",
+                  "coords": [
+                        12.873145,
+                        56.682361
+                  ]
+            },
+            {
+                  "name": "Bastionen",
+                  "text": "O fortificație istorică și un sit de castel situat în Halmstad.",
+                  "category": "castle",
+                  "coords": [
+                        12.860061,
+                        56.677598
+                  ]
+            },
+            {
+                  "name": "Amfiteatern",
+                  "text": "Un teatru în aer liber utilizat pentru spectacole și evenimente în Halmstad.",
+                  "category": "cultural",
+                  "coords": [
+                        12.889588,
+                        56.665486
+                  ]
+            },
+            {
+                  "name": "Filtparken",
+                  "text": "Un parc public din Halmstad care oferă spații verzi pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        12.862448,
+                        56.676054
+                  ]
+            },
+            {
+                  "name": "Kapsylparken",
+                  "text": "Un parc public de oraș situat în Halmstad.",
+                  "category": "park",
+                  "coords": [
+                        12.861284,
+                        56.674782
+                  ]
+            },
+            {
+                  "name": "Galleri Gasell",
+                  "text": "O galerie de artă care prezintă diverse lucrări în Halmstad.",
+                  "category": "museum",
+                  "coords": [
+                        12.854764,
+                        56.675321
+                  ]
+            },
+            {
+                  "name": "Galgbergets Utkikstorn",
+                  "text": "Un turn de observare pe dealul Galgberget, oferind vedere panoramică asupra orașului Halmstad.",
+                  "category": "natural",
+                  "coords": [
+                        12.851962,
+                        56.68307
+                  ]
+            },
+            {
+                  "name": "Morups väderkvarn",
+                  "text": "O moară de vânt istorică situată lângă Halmstad.",
+                  "category": "landmark",
+                  "coords": [
+                        12.853571,
+                        56.681406
+                  ]
+            },
+            {
+                  "name": "Andersbergskyrkan",
+                  "text": "O biserică parohială modernă situată în districtul Andersberg din Halmstad.",
+                  "category": "religious",
+                  "coords": [
+                        12.898266,
+                        56.660691
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "Un lăcaș de cult important cunoscut sub numele de Biserica Treimii din Halmstad.",
+                  "category": "religious",
+                  "coords": [
+                        12.852732,
+                        56.678546
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai kyrka",
+                  "text": "Principala biserică parohială din Halmstad, datând din Evul Mediu.",
+                  "category": "religious",
+                  "coords": [
+                        12.856415,
+                        56.673304
+                  ]
+            },
+            {
+                  "name": "Martin Luthers kyrka",
+                  "text": "O biserică luterană din Halmstad numită după reformatorul Martin Luther.",
+                  "category": "religious",
+                  "coords": [
+                        12.880702,
+                        56.667417
+                  ]
+            },
+            {
+                  "name": "Kärlekens kyrka",
+                  "text": "O biserică locală care deservește districtul Kärleken din Halmstad.",
+                  "category": "religious",
+                  "coords": [
+                        12.865781,
+                        56.700149
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "Un lăcaș de cult din Halmstad dedicat lui Olaus Petri.",
+                  "category": "religious",
+                  "coords": [
+                        12.871647,
+                        56.673579
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "O biserică liberă situată în Halmstad, aparținând Bisericii Equmenia.",
+                  "category": "religious",
+                  "coords": [
+                        12.861672,
+                        56.672944
+                  ]
+            },
+            {
+                  "name": "Slottsbron",
+                  "text": "Un pod istoric care traversează râul Nissan lângă Castelul Halmstad.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859475,
+                        56.672376
+                  ]
+            },
+            {
+                  "name": "Österbro",
+                  "text": "Un pod care leagă părțile de est ale orașului Halmstad.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859952,
+                        56.674215
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Alets naturreservat",
+                  "text": "A nature reserve in Halmstad known for its coastal landscape and hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        12.83805,
+                        56.663508
+                  ]
+            },
+            {
+                  "name": "Garnisonsmuseet",
+                  "text": "A museum in Halmstad documenting the military history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        12.861171,
+                        56.688164
+                  ]
+            },
+            {
+                  "name": "Halmstads teater",
+                  "text": "Halmstad's main theatre, a key venue for culture and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        12.863023,
+                        56.673675
+                  ]
+            },
+            {
+                  "name": "Hallands Konstmuseum",
+                  "text": "An art museum in Halmstad showcasing regional and international works.",
+                  "category": "museum",
+                  "coords": [
+                        12.862292,
+                        56.680806
+                  ]
+            },
+            {
+                  "name": "Kulturhuset",
+                  "text": "A cultural center and theater venue in the heart of Halmstad.",
+                  "category": "cultural",
+                  "coords": [
+                        12.873145,
+                        56.682361
+                  ]
+            },
+            {
+                  "name": "Bastionen",
+                  "text": "A historic fortification and castle site located in Halmstad.",
+                  "category": "castle",
+                  "coords": [
+                        12.860061,
+                        56.677598
+                  ]
+            },
+            {
+                  "name": "Amfiteatern",
+                  "text": "An open-air theater used for performances and events in Halmstad.",
+                  "category": "cultural",
+                  "coords": [
+                        12.889588,
+                        56.665486
+                  ]
+            },
+            {
+                  "name": "Filtparken",
+                  "text": "A public park in Halmstad offering green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        12.862448,
+                        56.676054
+                  ]
+            },
+            {
+                  "name": "Kapsylparken",
+                  "text": "A public city park located in Halmstad.",
+                  "category": "park",
+                  "coords": [
+                        12.861284,
+                        56.674782
+                  ]
+            },
+            {
+                  "name": "Galleri Gasell",
+                  "text": "An art gallery presenting various works in Halmstad.",
+                  "category": "museum",
+                  "coords": [
+                        12.854764,
+                        56.675321
+                  ]
+            },
+            {
+                  "name": "Galgbergets Utkikstorn",
+                  "text": "An observation tower on Galgberget hill offering panoramic views of Halmstad.",
+                  "category": "natural",
+                  "coords": [
+                        12.851962,
+                        56.68307
+                  ]
+            },
+            {
+                  "name": "Morups väderkvarn",
+                  "text": "A historic windmill located near Halmstad.",
+                  "category": "landmark",
+                  "coords": [
+                        12.853571,
+                        56.681406
+                  ]
+            },
+            {
+                  "name": "Andersbergskyrkan",
+                  "text": "A modern parish church located in the Andersberg district of Halmstad.",
+                  "category": "religious",
+                  "coords": [
+                        12.898266,
+                        56.660691
+                  ]
+            },
+            {
+                  "name": "Trefaldighetskyrkan",
+                  "text": "A significant place of worship known as Trinity Church in Halmstad.",
+                  "category": "religious",
+                  "coords": [
+                        12.852732,
+                        56.678546
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolai kyrka",
+                  "text": "The main parish church of Halmstad, dating back to the Middle Ages.",
+                  "category": "religious",
+                  "coords": [
+                        12.856415,
+                        56.673304
+                  ]
+            },
+            {
+                  "name": "Martin Luthers kyrka",
+                  "text": "A Lutheran church in Halmstad named after the reformer Martin Luther.",
+                  "category": "religious",
+                  "coords": [
+                        12.880702,
+                        56.667417
+                  ]
+            },
+            {
+                  "name": "Kärlekens kyrka",
+                  "text": "A local church serving the Kärleken district in Halmstad.",
+                  "category": "religious",
+                  "coords": [
+                        12.865781,
+                        56.700149
+                  ]
+            },
+            {
+                  "name": "Olaus Petri kyrka",
+                  "text": "A place of worship in Halmstad dedicated to Olaus Petri.",
+                  "category": "religious",
+                  "coords": [
+                        12.871647,
+                        56.673579
+                  ]
+            },
+            {
+                  "name": "Immanuelskyrkan",
+                  "text": "A free church located in Halmstad, belonging to the Equmenia Church.",
+                  "category": "religious",
+                  "coords": [
+                        12.861672,
+                        56.672944
+                  ]
+            },
+            {
+                  "name": "Slottsbron",
+                  "text": "A historic bridge crossing the river Nissan near Halmstad Castle.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859475,
+                        56.672376
+                  ]
+            },
+            {
+                  "name": "Österbro",
+                  "text": "A bridge connecting the eastern parts of Halmstad.",
+                  "category": "landmark",
+                  "coords": [
+                        12.859952,
+                        56.674215
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "sweden",
     coords: [12.8578, 56.6745],
@@ -853,6 +15874,276 @@ export const swedenCities: POI[] = [
                         17.274899,
                         62.374834
                   ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "Ein Stadtmuseum im Kulturmagasinet, das die Geschichte und Kunst der Region Sundsvall präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "Ein prächtiges historisches Theatergebäude in Sundsvall, das Ende des 19. Jahrhunderts erbaut wurde.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "Ein Museum, das der Handwerks- und Seefahrtsgeschichte der Region Sundsvall gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "Ein Kultur- und Versammlungsort in Skönsberg, der Theateraufführungen und lokale Veranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "Ein modernes Erlebnisbad in Sundsvall mit verschiedenen Becken und Wellnessbereichen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "Ein Theater in Sundsvall, das hauptsächlich für Konzerte und Bühnenaufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "Eine archäologische Fundstätte in Sundsvall mit Überresten alter Grabhügel.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "Ein kleinerer Grabhügel in Sundsvall, der als archäologisches Denkmal geschützt ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "Einer der bedeutenden großen Grabhügel im archäologischen Gebiet von Sundsvall.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "Der erste der großen Grabhügel in Sundsvall, die eine wichtige archäologische Stätte bilden.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "Ein Park im Zentrum von Sundsvall, bekannt für seinen kunstvollen Brunnen.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "Ein gepflegter Park neben dem Rathaus von Sundsvall.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "Ein Park in Sundsvall, der nach der Familie Hedberg benannt ist und zur Erholung einlädt.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "Ein öffentlicher Park in Sundsvall, der sich in der Nähe des ehemaligen Badehauses befindet.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "Ein Aussichtspunkt und Naherholungsgebiet auf einem Hügel in Sundsvall mit einem Freilichtmuseum.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "Ein bekanntes Kulturzentrum und Musikforum für Live-Auftritte in Sundsvall.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "Ein Denkmal zur Erinnerung an den großen Streik der Sägewerksarbeiter in Sundsvall im Jahr 1879.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "Ein Denkmal in Sundsvall, das dem Frieden und der internationalen Zusammenarbeit gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "Eine kleine Kapelle auf dem Friedhof von Skönsmon in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Eine Freikirche in Sundsvall, die zur schwedischen Allianzmission gehört.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Eine christliche Kirche in Sundsvall, die als Ort der Anbetung und Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "Eine moderne Kirche im Stadtteil Granloholm in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "Eine markante Kirche im Stadtteil Skönsmon, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "Eine kleine lutherische Kapelle in Sundsvall für Gottesdienste und Zeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "Eine katholische Kirche in Sundsvall, die nach der heiligen Birgitta benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "Eine Friedhofskapelle in Sundsvall, die für Trauerfeiern genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "Eine lokale Kirche in Sundsvall, die eine christliche Glaubensgemeinschaft beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "Eine schwedische Kirche im Stadtteil Nacksta in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "Eine Friedhofskapelle in der schwedischen Stadt Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "Eine beeindruckende Autobahnbrücke, die die Bucht von Sundsvall überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
+                  ]
             }
       ],
       "hu": [
@@ -881,6 +16172,276 @@ export const swedenCities: POI[] = [
                   "coords": [
                         17.274899,
                         62.374834
+                  ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "Városi múzeum a Kulturmagasinetben, amely Sundsvall régiójának történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "Pompás történelmi színházépület Sundsvallban, amely a 19. század végén épült.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "Múzeum, amelyet Sundsvall régiójának kézműves és tengerészeti történelmének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "Kulturális és találkozóhely Skönsbergben, amely színházi előadásoknak és helyi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "Modern élményfürdő Sundsvallban, különböző medencékkel és wellness-részlegekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "Sundsvalli színház, amelyet főként koncertekre és színpadi előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "Régészeti lelőhely Sundsvallban, ősi sírhalmok maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "Kisebb sírhalom Sundsvallban, amely régészeti műemlékként védett.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "A sundsvalli régészeti terület egyik jelentős nagy sírhalma.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "Az első a sundsvalli nagy sírhalmok közül, amelyek fontos régészeti lelőhelyet alkotnak.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "Park Sundsvall központjában, amely díszes szökőkútjáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "Gondozott park a sundsvalli városháza mellett.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "Sundsvalli park, amelyet a Hedberg családról neveztek el, és pihenésre hív.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "Nyilvános park Sundsvallban, az egykori fürdőház közelében.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "Kilátópont és szabadidős terület egy sundsvalli dombon, szabadtéri múzeummal.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "Ismert kulturális központ és zenei fórum élő fellépésekhez Sundsvallban.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "Emlékmű az 1879-es nagy sundsvalli fűrészüzemi sztrájk emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "Sundsvalli emlékmű, amelyet a békének és a nemzetközi együttműködésnek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "Kisméretű kápolna a sundsvalli Skönsmon temetőben.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "Szabadtemplom Sundsvallban, amely a Svéd Szövetségi Misszióhoz tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "Keresztény templom Sundsvallban, amely istentiszteleti és közösségi helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "Modern templom Sundsvall Granloholm negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "Jellegzetes templom Skönsmon negyedében, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "Kisméretű lutheránus kápolna Sundsvallban istentiszteletek és szertartások számára.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "Sundsvalli katolikus templom, amelyet Szent Birgittáról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "Temetői kápolna Sundsvallban, amelyet gyászszertartásokra használnak.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "Helyi templom Sundsvallban, amely egy keresztény hitéletnek ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "Evangélikus templom Sundsvall Nacksta városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "Temetőkápolna a svédországi Sundsvall városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "Lenyűgöző autópályahíd, amely átíveli a Sundsvall-öblöt.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
                   ]
             }
       ],
@@ -911,6 +16472,276 @@ export const swedenCities: POI[] = [
                         17.274899,
                         62.374834
                   ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "Un muzeu al orașului în Kulturmagasinet, care prezintă istoria și arta regiunii Sundsvall.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "O clădire istorică splendidă a teatrului din Sundsvall, construită la sfârșitul secolului al XIX-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "Un muzeu dedicat istoriei meșteșugurilor și navigației din regiunea Sundsvall.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "Un loc cultural și de întâlnire în Skönsberg, care găzduiește spectacole de teatru și evenimente locale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "Un parc acvatic modern în Sundsvall, cu diverse bazine și zone de wellness.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "Un teatru în Sundsvall folosit în principal pentru concerte și spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "Un sit arheologic în Sundsvall, cu rămășițe ale unor vechi tumuli.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "Un tumul mai mic în Sundsvall, protejat ca monument arheologic.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "Unul dintre tumulii mari semnificativi din zona arheologică a orașului Sundsvall.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "Primul dintre marii tumuli din Sundsvall, care formează un sit arheologic important.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "Un parc în centrul orașului Sundsvall, cunoscut pentru fântâna sa elaborată.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "Un parc bine întreținut lângă primăria din Sundsvall.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "Un parc din Sundsvall, numit după familia Hedberg, care invită la relaxare.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "Un parc public în Sundsvall, situat în apropierea fostei băi publice.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "Un punct de belvedere și zonă de recreere pe un deal din Sundsvall, cu un muzeu în aer liber.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "Un centru cultural și forum muzical cunoscut pentru spectacole live în Sundsvall.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "Un monument care comemorează marea grevă a lucrătorilor de la gater din Sundsvall din 1879.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "Un monument în Sundsvall dedicat păcii și cooperării internaționale.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "O mică capelă în cimitirul Skönsmon din Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "O biserică liberă din Sundsvall, aparținând Misiunii Alianței Suedeze.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "O biserică creștină din Sundsvall, care servește ca loc de închinare și comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "O biserică modernă în districtul Granloholm din Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "O biserică distinctivă din districtul Skönsmon, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "O mică capelă luterană în Sundsvall pentru slujbe și ceremonii.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "O biserică catolică din Sundsvall, numită după Sfânta Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "O capelă de cimitir din Sundsvall, folosită pentru ceremonii funerare.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "O biserică locală din Sundsvall, care găzduiește o comunitate de credință creștină.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "O biserică suedeză situată în cartierul Nacksta din Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "O capelă de cimitir în orașul suedez Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "Un pod de autostradă impresionant care traversează golful Sundsvall.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
+                  ]
             }
       ],
       "en": [
@@ -939,6 +16770,276 @@ export const swedenCities: POI[] = [
                   "coords": [
                         17.274899,
                         62.374834
+                  ]
+            },
+            {
+                  "name": "Sundsvalls museum",
+                  "text": "A city museum located in Kulturmagasinet, showcasing the history and art of the Sundsvall region.",
+                  "category": "museum",
+                  "coords": [
+                        17.312615,
+                        62.391663
+                  ]
+            },
+            {
+                  "name": "Sundsvalls teater",
+                  "text": "A magnificent historical theatre building in Sundsvall, built in the late 19th century.",
+                  "category": "cultural",
+                  "coords": [
+                        17.307883,
+                        62.388561
+                  ]
+            },
+            {
+                  "name": "Hantverks- & sjöfartsmuseum",
+                  "text": "A museum dedicated to the craft and maritime history of the Sundsvall region.",
+                  "category": "museum",
+                  "coords": [
+                        17.296366,
+                        62.399249
+                  ]
+            },
+            {
+                  "name": "Skönsbergs Folkets Hus",
+                  "text": "A cultural and meeting venue in Skönsberg hosting theatre performances and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.341332,
+                        62.401252
+                  ]
+            },
+            {
+                  "name": "Himlabadet",
+                  "text": "A modern water park in Sundsvall featuring various pools and wellness areas.",
+                  "category": "recreational",
+                  "coords": [
+                        17.288959,
+                        62.394264
+                  ]
+            },
+            {
+                  "name": "Konsertteatern",
+                  "text": "A theatre in Sundsvall primarily used for concerts and stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.309012,
+                        62.388505
+                  ]
+            },
+            {
+                  "name": "Hög 9",
+                  "text": "An archaeological site in Sundsvall featuring remains of ancient burial mounds.",
+                  "category": "historical",
+                  "coords": [
+                        17.259079,
+                        62.400694
+                  ]
+            },
+            {
+                  "name": "Hög 5",
+                  "text": "A smaller burial mound in Sundsvall protected as an archaeological monument.",
+                  "category": "historical",
+                  "coords": [
+                        17.259991,
+                        62.401073
+                  ]
+            },
+            {
+                  "name": "Storhög 2",
+                  "text": "One of the significant large burial mounds in the archaeological area of Sundsvall.",
+                  "category": "historical",
+                  "coords": [
+                        17.257602,
+                        62.401485
+                  ]
+            },
+            {
+                  "name": "Storhög 1",
+                  "text": "The first of the large burial mounds in Sundsvall, forming an important archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        17.25651,
+                        62.401757
+                  ]
+            },
+            {
+                  "name": "Vängåvan",
+                  "text": "A park in central Sundsvall known for its ornate fountain.",
+                  "category": "park",
+                  "coords": [
+                        17.309384,
+                        62.390494
+                  ]
+            },
+            {
+                  "name": "Stadshusparken",
+                  "text": "A well-maintained park located next to the Sundsvall City Hall.",
+                  "category": "park",
+                  "coords": [
+                        17.306311,
+                        62.389753
+                  ]
+            },
+            {
+                  "name": "Hedbergska parken",
+                  "text": "A park in Sundsvall named after the Hedberg family, inviting relaxation.",
+                  "category": "park",
+                  "coords": [
+                        17.303655,
+                        62.390549
+                  ]
+            },
+            {
+                  "name": "Badhusparken",
+                  "text": "A public park in Sundsvall located near the former bathhouse.",
+                  "category": "park",
+                  "coords": [
+                        17.296662,
+                        62.393142
+                  ]
+            },
+            {
+                  "name": "Norra Berget",
+                  "text": "A viewpoint and recreational area on a hill in Sundsvall featuring an open-air museum.",
+                  "category": "natural",
+                  "coords": [
+                        17.294374,
+                        62.398397
+                  ]
+            },
+            {
+                  "name": "Pipeline Sundsvalls Musikforum",
+                  "text": "A well-known arts centre and music forum for live performances in Sundsvall.",
+                  "category": "cultural",
+                  "coords": [
+                        17.31311,
+                        62.389843
+                  ]
+            },
+            {
+                  "name": "Minnesstenen från storstrejken i Sundsvall 1879",
+                  "text": "A monument commemorating the great sawmill strike in Sundsvall in 1879.",
+                  "category": "historical",
+                  "coords": [
+                        17.346941,
+                        62.382968
+                  ]
+            },
+            {
+                  "name": "I fredens tjänst",
+                  "text": "A monument in Sundsvall dedicated to peace and international cooperation.",
+                  "category": "historical",
+                  "coords": [
+                        17.306701,
+                        62.387225
+                  ]
+            },
+            {
+                  "name": "Skönsmons gravkapell",
+                  "text": "A small chapel located in the Skönsmon cemetery in Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.3487,
+                        62.379487
+                  ]
+            },
+            {
+                  "name": "Elimkyrkan",
+                  "text": "A free church in Sundsvall belonging to the Swedish Alliance Mission.",
+                  "category": "religious",
+                  "coords": [
+                        17.306068,
+                        62.388391
+                  ]
+            },
+            {
+                  "name": "Betlehemskyrkan",
+                  "text": "A Christian church in Sundsvall serving as a place of worship and community.",
+                  "category": "religious",
+                  "coords": [
+                        17.304038,
+                        62.388971
+                  ]
+            },
+            {
+                  "name": "Granloholms kyrka",
+                  "text": "A modern church located in the Granloholm district of Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.26929,
+                        62.41097
+                  ]
+            },
+            {
+                  "name": "Skönsmons kyrka",
+                  "text": "A distinctive church in the Skönsmon district, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.3563,
+                        62.378841
+                  ]
+            },
+            {
+                  "name": "Lutherska kapellet",
+                  "text": "A small Lutheran chapel in Sundsvall used for services and ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        17.312915,
+                        62.38839
+                  ]
+            },
+            {
+                  "name": "Birgittakyrkan",
+                  "text": "A Catholic church in Sundsvall named after Saint Birgitta.",
+                  "category": "religious",
+                  "coords": [
+                        17.346403,
+                        62.400324
+                  ]
+            },
+            {
+                  "name": "Byns gravkapell",
+                  "text": "A cemetery chapel in Sundsvall used for funeral services.",
+                  "category": "religious",
+                  "coords": [
+                        17.330883,
+                        62.410302
+                  ]
+            },
+            {
+                  "name": "Brokyrkan",
+                  "text": "A local church in Sundsvall hosting a Christian faith community.",
+                  "category": "religious",
+                  "coords": [
+                        17.34367,
+                        62.397977
+                  ]
+            },
+            {
+                  "name": "Nacksta S:t Olofs kyrka",
+                  "text": "A Swedish church located in the Nacksta district of Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.271719,
+                        62.389164
+                  ]
+            },
+            {
+                  "name": "Sundsvalls Gustav Adolfs kapell",
+                  "text": "A cemetery chapel in the Swedish city of Sundsvall.",
+                  "category": "religious",
+                  "coords": [
+                        17.272719,
+                        62.396871
+                  ]
+            },
+            {
+                  "name": "Sundsvallsbron",
+                  "text": "An impressive motorway bridge spanning the Sundsvall bay.",
+                  "category": "landmark",
+                  "coords": [
+                        17.343189,
+                        62.389068
                   ]
             }
       ]
@@ -1027,6 +17128,105 @@ export const swedenCities: POI[] = [
                         22.059551,
                         65.590763
                   ]
+            },
+            {
+                  "name": "Norrbottens museum",
+                  "text": "Dieses Regionalmuseum in Luleå zeigt Ausstellungen zur Kulturgeschichte von Norrbotten.",
+                  "category": "museum",
+                  "coords": [
+                        22.138175,
+                        65.582132
+                  ]
+            },
+            {
+                  "name": "Norrbottensteatern",
+                  "text": "Ein bedeutendes Theater in Luleå, das eine Vielzahl von Bühnenaufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        22.142011,
+                        65.585157
+                  ]
+            },
+            {
+                  "name": "Aronsbadet",
+                  "text": "Ein beliebter Wasserpark in Luleå mit verschiedenen Becken und Rutschen für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        22.211158,
+                        65.578115
+                  ]
+            },
+            {
+                  "name": "Konsthall",
+                  "text": "Eine Kunsthalle in Luleå, die wechselnde Ausstellungen zeitgenössischer Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.151535,
+                        65.585825
+                  ]
+            },
+            {
+                  "name": "Luleå Stadspark",
+                  "text": "Ein zentral gelegener Stadtpark in Luleå, der als Ort für Erholung und Veranstaltungen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        22.146066,
+                        65.583034
+                  ]
+            },
+            {
+                  "name": "Luleå domkyrka",
+                  "text": "Die neugotische Kathedrale von Luleå ist das nördlichste Domgebäude Schwedens.",
+                  "category": "landmark",
+                  "coords": [
+                        22.148975,
+                        65.58275
+                  ]
+            },
+            {
+                  "name": "Pingstförsamlingen i Luleå",
+                  "text": "Die Pfingstkirche in Luleå ist ein Zentrum für christliche Gottesdienste und Gemeinschaftsarbeit.",
+                  "category": "religious",
+                  "coords": [
+                        22.150712,
+                        65.583932
+                  ]
+            },
+            {
+                  "name": "Örnäsets kyrka",
+                  "text": "Eine markante moderne Kirche im Stadtteil Örnäset von Luleå.",
+                  "category": "religious",
+                  "coords": [
+                        22.202014,
+                        65.580484
+                  ]
+            },
+            {
+                  "name": "EFS-kyrkan",
+                  "text": "Ein Ort der Anbetung in Luleå, der mit der evangelischen Erneuerungsbewegung verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.152531,
+                        65.582552
+                  ]
+            },
+            {
+                  "name": "Mjölkuddskyrkan",
+                  "text": "Eine lokale Kirche im Stadtteil Mjölkudden von Luleå, die religiöse Dienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        22.118464,
+                        65.603894
+                  ]
+            },
+            {
+                  "name": "Bergnäskyrkan",
+                  "text": "Eine Gemeindekirche in Luleå, die für ihre moderne Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        22.105127,
+                        65.570866
+                  ]
             }
       ],
       "hu": [
@@ -1055,6 +17255,105 @@ export const swedenCities: POI[] = [
                   "coords": [
                         22.059551,
                         65.590763
+                  ]
+            },
+            {
+                  "name": "Norrbottens museum",
+                  "text": "Ez a luleåi regionális múzeum Norrbotten kultúrtörténetét bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        22.138175,
+                        65.582132
+                  ]
+            },
+            {
+                  "name": "Norrbottensteatern",
+                  "text": "Jelentős színház Luleåban, amely számos színpadi előadást mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        22.142011,
+                        65.585157
+                  ]
+            },
+            {
+                  "name": "Aronsbadet",
+                  "text": "Népszerű luleåi vízipark különféle medencékkel és csúszdákkal a családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        22.211158,
+                        65.578115
+                  ]
+            },
+            {
+                  "name": "Konsthall",
+                  "text": "Művészeti galéria Luleåban, amely változó kortárs művészeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.151535,
+                        65.585825
+                  ]
+            },
+            {
+                  "name": "Luleå Stadspark",
+                  "text": "Központi fekvésű városi park Luleåban, amely kikapcsolódási és rendezvényhelyszínként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        22.146066,
+                        65.583034
+                  ]
+            },
+            {
+                  "name": "Luleå domkyrka",
+                  "text": "Luleå neogótikus székesegyháza Svédország legészakibb katedrálisa.",
+                  "category": "landmark",
+                  "coords": [
+                        22.148975,
+                        65.58275
+                  ]
+            },
+            {
+                  "name": "Pingstförsamlingen i Luleå",
+                  "text": "A luleåi pünkösdi templom a keresztény istentiszteletek és közösségi munka központja.",
+                  "category": "religious",
+                  "coords": [
+                        22.150712,
+                        65.583932
+                  ]
+            },
+            {
+                  "name": "Örnäsets kyrka",
+                  "text": "Jellegzetes modern templom Luleå Örnäset negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        22.202014,
+                        65.580484
+                  ]
+            },
+            {
+                  "name": "EFS-kyrkan",
+                  "text": "Istentiszteleti hely Luleåban, amely az evangélikus megújulási mozgalomhoz kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        22.152531,
+                        65.582552
+                  ]
+            },
+            {
+                  "name": "Mjölkuddskyrkan",
+                  "text": "Helyi templom Luleå Mjölkudden negyedében, amely vallási szolgáltatásokat nyújt.",
+                  "category": "religious",
+                  "coords": [
+                        22.118464,
+                        65.603894
+                  ]
+            },
+            {
+                  "name": "Bergnäskyrkan",
+                  "text": "Luleåi közösségi templom, amely modern építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        22.105127,
+                        65.570866
                   ]
             }
       ],
@@ -1085,6 +17384,105 @@ export const swedenCities: POI[] = [
                         22.059551,
                         65.590763
                   ]
+            },
+            {
+                  "name": "Norrbottens museum",
+                  "text": "Acest muzeu regional din Luleå găzduiește expoziții despre istoria culturală a regiunii Norrbotten.",
+                  "category": "museum",
+                  "coords": [
+                        22.138175,
+                        65.582132
+                  ]
+            },
+            {
+                  "name": "Norrbottensteatern",
+                  "text": "Un teatru important din Luleå, care prezintă o varietate de spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        22.142011,
+                        65.585157
+                  ]
+            },
+            {
+                  "name": "Aronsbadet",
+                  "text": "Un parc acvatic popular în Luleå, cu diverse bazine și tobogane pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        22.211158,
+                        65.578115
+                  ]
+            },
+            {
+                  "name": "Konsthall",
+                  "text": "O sală de artă din Luleå care prezintă expoziții temporare de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        22.151535,
+                        65.585825
+                  ]
+            },
+            {
+                  "name": "Luleå Stadspark",
+                  "text": "Un parc urban situat central în Luleå, care servește ca loc de recreere și evenimente.",
+                  "category": "landmark",
+                  "coords": [
+                        22.146066,
+                        65.583034
+                  ]
+            },
+            {
+                  "name": "Luleå domkyrka",
+                  "text": "Catedrala neogotică din Luleå este cea mai nordică catedrală din Suedia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.148975,
+                        65.58275
+                  ]
+            },
+            {
+                  "name": "Pingstförsamlingen i Luleå",
+                  "text": "Biserica penticostală din Luleå este un centru pentru slujbe creștine și activități comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        22.150712,
+                        65.583932
+                  ]
+            },
+            {
+                  "name": "Örnäsets kyrka",
+                  "text": "O biserică modernă distinctivă situată în districtul Örnäset din Luleå.",
+                  "category": "religious",
+                  "coords": [
+                        22.202014,
+                        65.580484
+                  ]
+            },
+            {
+                  "name": "EFS-kyrkan",
+                  "text": "Un lăcaș de cult în Luleå, asociat cu mișcarea evanghelică de reînnoire.",
+                  "category": "religious",
+                  "coords": [
+                        22.152531,
+                        65.582552
+                  ]
+            },
+            {
+                  "name": "Mjölkuddskyrkan",
+                  "text": "O biserică locală din districtul Mjölkudden din Luleå, care oferă servicii religioase.",
+                  "category": "religious",
+                  "coords": [
+                        22.118464,
+                        65.603894
+                  ]
+            },
+            {
+                  "name": "Bergnäskyrkan",
+                  "text": "O biserică comunitară din Luleå, cunoscută pentru arhitectura sa modernă.",
+                  "category": "religious",
+                  "coords": [
+                        22.105127,
+                        65.570866
+                  ]
             }
       ],
       "en": [
@@ -1113,6 +17511,105 @@ export const swedenCities: POI[] = [
                   "coords": [
                         22.059551,
                         65.590763
+                  ]
+            },
+            {
+                  "name": "Norrbottens museum",
+                  "text": "This regional museum in Luleå features exhibitions on the cultural history of Norrbotten.",
+                  "category": "museum",
+                  "coords": [
+                        22.138175,
+                        65.582132
+                  ]
+            },
+            {
+                  "name": "Norrbottensteatern",
+                  "text": "A prominent theatre in Luleå presenting a variety of stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.142011,
+                        65.585157
+                  ]
+            },
+            {
+                  "name": "Aronsbadet",
+                  "text": "A popular water park in Luleå featuring various pools and slides for families.",
+                  "category": "recreational",
+                  "coords": [
+                        22.211158,
+                        65.578115
+                  ]
+            },
+            {
+                  "name": "Konsthall",
+                  "text": "An art hall in Luleå showcasing rotating exhibitions of contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        22.151535,
+                        65.585825
+                  ]
+            },
+            {
+                  "name": "Luleå Stadspark",
+                  "text": "A centrally located city park in Luleå serving as a place for recreation and events.",
+                  "category": "landmark",
+                  "coords": [
+                        22.146066,
+                        65.583034
+                  ]
+            },
+            {
+                  "name": "Luleå Cathedral",
+                  "text": "The neo-Gothic cathedral of Luleå is the northernmost cathedral building in Sweden.",
+                  "category": "landmark",
+                  "coords": [
+                        22.148975,
+                        65.58275
+                  ]
+            },
+            {
+                  "name": "Pingstförsamlingen i Luleå",
+                  "text": "The Pentecostal church in Luleå is a centre for Christian worship and community outreach.",
+                  "category": "religious",
+                  "coords": [
+                        22.150712,
+                        65.583932
+                  ]
+            },
+            {
+                  "name": "Örnäsets kyrka",
+                  "text": "A distinctive modern church located in the Örnäset district of Luleå.",
+                  "category": "religious",
+                  "coords": [
+                        22.202014,
+                        65.580484
+                  ]
+            },
+            {
+                  "name": "EFS-kyrkan",
+                  "text": "A place of worship in Luleå associated with the evangelical renewal movement.",
+                  "category": "religious",
+                  "coords": [
+                        22.152531,
+                        65.582552
+                  ]
+            },
+            {
+                  "name": "Mjölkuddskyrkan",
+                  "text": "A local church in the Mjölkudden district of Luleå offering religious services.",
+                  "category": "religious",
+                  "coords": [
+                        22.118464,
+                        65.603894
+                  ]
+            },
+            {
+                  "name": "Bergnäskyrkan",
+                  "text": "A community church in Luleå known for its modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        22.105127,
+                        65.570866
                   ]
             }
       ]
@@ -1183,6 +17680,294 @@ export const swedenCities: POI[] = [
                         13.534617,
                         59.3906
                   ]
+            },
+            {
+                  "name": "Scalateatern",
+                  "text": "Ein historisches Theater in Karlstad, bekannt für seine vielfältigen Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        13.501471,
+                        59.378704
+                  ]
+            },
+            {
+                  "name": "Wermland Opera",
+                  "text": "Das Opernhaus von Karlstad, in dem große Musik- und Theaterproduktionen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        13.497227,
+                        59.382071
+                  ]
+            },
+            {
+                  "name": "Sandgrund Lars Lerin",
+                  "text": "Eine Kunsthalle in Karlstad, die den Werken des Künstlers Lars Lerin gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        13.502764,
+                        59.38463
+                  ]
+            },
+            {
+                  "name": "Brigadmuseum",
+                  "text": "Ein militärhistorisches Museum in Karlstad mit Schwerpunkt auf der Zeit des Kalten Krieges.",
+                  "category": "museum",
+                  "coords": [
+                        13.494734,
+                        59.388304
+                  ]
+            },
+            {
+                  "name": "Tempelriddaren",
+                  "text": "Ein Theater- und Kulturstandort in Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49468,
+                        59.37923
+                  ]
+            },
+            {
+                  "name": "Wermland Opera/Lilla Scenen",
+                  "text": "Die kleinere, intime Bühne der Wermland Opera in Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.478678,
+                        59.377894
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "Ein Freilichtmuseum in Karlstad mit historischen Gebäuden und Kulturerbe.",
+                  "category": "museum",
+                  "coords": [
+                        13.482277,
+                        59.367927
+                  ]
+            },
+            {
+                  "name": "Friluftsteater",
+                  "text": "Ein Freilichttheater für Sommeraufführungen in Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.485657,
+                        59.369717
+                  ]
+            },
+            {
+                  "name": "Djurparken Lillskogen",
+                  "text": "Ein kleiner Stadtzoo und Park in Karlstad mit schwedischen Nutztieren.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482179,
+                        59.370532
+                  ]
+            },
+            {
+                  "name": "Sandgrundsparken",
+                  "text": "Ein zentraler Stadtpark in Karlstad, gelegen in der Nähe des Flusses und der Kunsthalle.",
+                  "category": "park",
+                  "coords": [
+                        13.500284,
+                        59.386728
+                  ]
+            },
+            {
+                  "name": "Wennbergsparken",
+                  "text": "Ein lokaler öffentlicher Park, der Grünflächen in Karlstad bietet.",
+                  "category": "park",
+                  "coords": [
+                        13.492837,
+                        59.376266
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "Der städtische Stadtgarten von Karlstad mit vielfältiger Flora und Wegen.",
+                  "category": "park",
+                  "coords": [
+                        13.502095,
+                        59.375819
+                  ]
+            },
+            {
+                  "name": "Naturum Värmland",
+                  "text": "Ein Naturinformationszentrum in Mariebergsskogen, Karlstad, das die regionale Tierwelt erkundet.",
+                  "category": "park",
+                  "coords": [
+                        13.486522,
+                        59.36699
+                  ]
+            },
+            {
+                  "name": "Mariebergsskogen",
+                  "text": "Ein großer Stadtpark in Karlstad mit Freilichtmuseum und Zoo.",
+                  "category": "park",
+                  "coords": [
+                        13.487251,
+                        59.36883
+                  ]
+            },
+            {
+                  "name": "Konst i Karlstad",
+                  "text": "Eine Kunstgalerie und ein Verein zur Förderung lokaler Kunst in Karlstad.",
+                  "category": "museum",
+                  "coords": [
+                        13.508854,
+                        59.381021
+                  ]
+            },
+            {
+                  "name": "Konsthantverkarna Karlstad",
+                  "text": "Ein Kunsthandwerkszentrum in Karlstad, das handgefertigte Werke zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        13.506453,
+                        59.379581
+                  ]
+            },
+            {
+                  "name": "Trähangaren",
+                  "text": "Ein historischer Holzhangar in Karlstad, der die lokale Luftfahrtgeschichte widerspiegelt.",
+                  "category": "landmark",
+                  "coords": [
+                        13.455651,
+                        59.377213
+                  ]
+            },
+            {
+                  "name": "Carlstad Art Gallery",
+                  "text": "Eine Galerie in Karlstad, die zeitgenössische Kunstausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        13.499871,
+                        59.378645
+                  ]
+            },
+            {
+                  "name": "Mariebergs herrgård",
+                  "text": "Ein historisches Herrenhaus in Mariebergsskogen in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.482724,
+                        59.371643
+                  ]
+            },
+            {
+                  "name": "Klaraborgs herrgård",
+                  "text": "Ein traditionelles Herrenhaus in der Stadt Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.489482,
+                        59.379472
+                  ]
+            },
+            {
+                  "name": "Färjestads herrgård",
+                  "text": "Ein historisches Herrenhaus im Stadtteil Färjestad in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.502351,
+                        59.40609
+                  ]
+            },
+            {
+                  "name": "Väderkvarn",
+                  "text": "Eine historische Windmühle, die als Wahrzeichen in Karlstad dient.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483994,
+                        59.369672
+                  ]
+            },
+            {
+                  "name": "Lilla Våxnäs",
+                  "text": "Ein Herrenhaus und historisches Anwesen in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.491991,
+                        59.383316
+                  ]
+            },
+            {
+                  "name": "Strands herrgård",
+                  "text": "Ein historisches Herrenhaus in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.484104,
+                        59.380754
+                  ]
+            },
+            {
+                  "name": "Rosenborgs herrgård",
+                  "text": "Ein Herrenhaus im Stadtteil Rosenborg in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.476327,
+                        59.371711
+                  ]
+            },
+            {
+                  "name": "Skvaltkvarnen",
+                  "text": "Eine traditionelle Wassermühle, die als historische Attraktion in Karlstad erhalten geblieben ist.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483984,
+                        59.367819
+                  ]
+            },
+            {
+                  "name": "Karlstads domkyrka",
+                  "text": "Der Dom von Karlstad, ein markantes klassizistisches Kirchengebäude.",
+                  "category": "religious",
+                  "coords": [
+                        13.506512,
+                        59.381526
+                  ]
+            },
+            {
+                  "name": "Västerstrands kyrka",
+                  "text": "Eine Gemeindekirche für die Gemeinde Västerstrand in Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.465036,
+                        59.382712
+                  ]
+            },
+            {
+                  "name": "Vikenkyrkan",
+                  "text": "Eine lokale Kirche im Stadtteil Viken in Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.493763,
+                        59.375549
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "Eine Pfingstkirche und Kultstätte in Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.497222,
+                        59.378536
+                  ]
+            },
+            {
+                  "name": "Tingvallakyrkan",
+                  "text": "Ein historisches Kirchengebäude im Zentrum von Karlstad für Gottesdienste und Veranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        13.504912,
+                        59.382337
+                  ]
+            },
+            {
+                  "name": "Rudskyrkan",
+                  "text": "Eine lokale Gemeindekirche im Stadtteil Rud in Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.519898,
+                        59.405031
+                  ]
             }
       ],
       "hu": [
@@ -1193,6 +17978,294 @@ export const swedenCities: POI[] = [
                   "coords": [
                         13.534617,
                         59.3906
+                  ]
+            },
+            {
+                  "name": "Scalateatern",
+                  "text": "Történelmi színház Karlstadban, amely változatos színpadi előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        13.501471,
+                        59.378704
+                  ]
+            },
+            {
+                  "name": "Wermland Opera",
+                  "text": "Karlstad operaháza, amely nagyszabású zenei és színházi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        13.497227,
+                        59.382071
+                  ]
+            },
+            {
+                  "name": "Sandgrund Lars Lerin",
+                  "text": "Karlstadi művészeti csarnok, amelyet Lars Lerin művész alkotásainak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        13.502764,
+                        59.38463
+                  ]
+            },
+            {
+                  "name": "Brigadmuseum",
+                  "text": "Hadtörténeti múzeum Karlstadban, amely a hidegháború korszakára összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        13.494734,
+                        59.388304
+                  ]
+            },
+            {
+                  "name": "Tempelriddaren",
+                  "text": "Színházi és kulturális helyszín Karlstadban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49468,
+                        59.37923
+                  ]
+            },
+            {
+                  "name": "Wermland Opera/Lilla Scenen",
+                  "text": "A karlstadi Wermland Opera kisebb, meghitt színpada.",
+                  "category": "cultural",
+                  "coords": [
+                        13.478678,
+                        59.377894
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "Szabadtéri múzeum Karlstadban, történelmi épületekkel és hagyományokkal.",
+                  "category": "museum",
+                  "coords": [
+                        13.482277,
+                        59.367927
+                  ]
+            },
+            {
+                  "name": "Friluftsteater",
+                  "text": "Szabadtéri színház nyári előadásokhoz Karlstadban.",
+                  "category": "cultural",
+                  "coords": [
+                        13.485657,
+                        59.369717
+                  ]
+            },
+            {
+                  "name": "Djurparken Lillskogen",
+                  "text": "Kis városi állatkert és park Karlstadban, svéd háziállatokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482179,
+                        59.370532
+                  ]
+            },
+            {
+                  "name": "Sandgrundsparken",
+                  "text": "Központi városi park Karlstadban, a folyó és a művészeti csarnok közelében.",
+                  "category": "park",
+                  "coords": [
+                        13.500284,
+                        59.386728
+                  ]
+            },
+            {
+                  "name": "Wennbergsparken",
+                  "text": "Helyi nyilvános park Karlstadban.",
+                  "category": "park",
+                  "coords": [
+                        13.492837,
+                        59.376266
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "Karlstad városi kertje, változatos növényvilággal és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        13.502095,
+                        59.375819
+                  ]
+            },
+            {
+                  "name": "Naturum Värmland",
+                  "text": "Természeti látogatóközpont Mariebergsskogenben, Karlstadban, amely a helyi vadvilágot mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        13.486522,
+                        59.36699
+                  ]
+            },
+            {
+                  "name": "Mariebergsskogen",
+                  "text": "Nagy városi park Karlstadban, szabadtéri múzeummal és állatkerttel.",
+                  "category": "park",
+                  "coords": [
+                        13.487251,
+                        59.36883
+                  ]
+            },
+            {
+                  "name": "Konst i Karlstad",
+                  "text": "Művészeti galéria és egyesület, amely a helyi művészetet népszerűsíti Karlstadban.",
+                  "category": "museum",
+                  "coords": [
+                        13.508854,
+                        59.381021
+                  ]
+            },
+            {
+                  "name": "Konsthantverkarna Karlstad",
+                  "text": "Iparművészeti központ Karlstadban, amely kézműves alkotásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        13.506453,
+                        59.379581
+                  ]
+            },
+            {
+                  "name": "Trähangaren",
+                  "text": "Történelmi fahangár Karlstadban, amely a helyi repülés történetét tükrözi.",
+                  "category": "landmark",
+                  "coords": [
+                        13.455651,
+                        59.377213
+                  ]
+            },
+            {
+                  "name": "Carlstad Art Gallery",
+                  "text": "Karlstadi galéria, ahol kortárs művészeti kiállításokat láthatunk.",
+                  "category": "museum",
+                  "coords": [
+                        13.499871,
+                        59.378645
+                  ]
+            },
+            {
+                  "name": "Mariebergs herrgård",
+                  "text": "Történelmi kúria Karlstadban, a Mariebergsskogen területén.",
+                  "category": "historical",
+                  "coords": [
+                        13.482724,
+                        59.371643
+                  ]
+            },
+            {
+                  "name": "Klaraborgs herrgård",
+                  "text": "Hagyományos kúria Karlstad városában.",
+                  "category": "historical",
+                  "coords": [
+                        13.489482,
+                        59.379472
+                  ]
+            },
+            {
+                  "name": "Färjestads herrgård",
+                  "text": "Történelmi kúria Karlstad Färjestad negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        13.502351,
+                        59.40609
+                  ]
+            },
+            {
+                  "name": "Väderkvarn",
+                  "text": "Történelmi szélmalom, amely Karlstad egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483994,
+                        59.369672
+                  ]
+            },
+            {
+                  "name": "Lilla Våxnäs",
+                  "text": "Kúria és történelmi birtok Karlstadban.",
+                  "category": "historical",
+                  "coords": [
+                        13.491991,
+                        59.383316
+                  ]
+            },
+            {
+                  "name": "Strands herrgård",
+                  "text": "Történelmi kúria Karlstadban.",
+                  "category": "historical",
+                  "coords": [
+                        13.484104,
+                        59.380754
+                  ]
+            },
+            {
+                  "name": "Rosenborgs herrgård",
+                  "text": "Kúria Karlstad Rosenborg negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        13.476327,
+                        59.371711
+                  ]
+            },
+            {
+                  "name": "Skvaltkvarnen",
+                  "text": "Hagyományos vízimalom, amely történelmi látványosságként maradt fenn Karlstadban.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483984,
+                        59.367819
+                  ]
+            },
+            {
+                  "name": "Karlstads domkyrka",
+                  "text": "Karlstad székesegyháza, egy jelentős neoklasszicista templomépület.",
+                  "category": "religious",
+                  "coords": [
+                        13.506512,
+                        59.381526
+                  ]
+            },
+            {
+                  "name": "Västerstrands kyrka",
+                  "text": "Karlstad Västerstrand közösségét kiszolgáló plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        13.465036,
+                        59.382712
+                  ]
+            },
+            {
+                  "name": "Vikenkyrkan",
+                  "text": "Helyi templom Karlstad Viken negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        13.493763,
+                        59.375549
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "Pünkösdi templom és imaház Karlstadban.",
+                  "category": "religious",
+                  "coords": [
+                        13.497222,
+                        59.378536
+                  ]
+            },
+            {
+                  "name": "Tingvallakyrkan",
+                  "text": "Történelmi templomépület Karlstad központjában, amelyet istentiszteletekre és rendezvényekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        13.504912,
+                        59.382337
+                  ]
+            },
+            {
+                  "name": "Rudskyrkan",
+                  "text": "Helyi plébániatemplom Karlstad Rud negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        13.519898,
+                        59.405031
                   ]
             }
       ],
@@ -1205,6 +18278,294 @@ export const swedenCities: POI[] = [
                         13.534617,
                         59.3906
                   ]
+            },
+            {
+                  "name": "Scalateatern",
+                  "text": "Un teatru istoric din Karlstad, cunoscut pentru diversele sale spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        13.501471,
+                        59.378704
+                  ]
+            },
+            {
+                  "name": "Wermland Opera",
+                  "text": "Opera din Karlstad, care găzduiește producții muzicale și teatrale de amploare.",
+                  "category": "cultural",
+                  "coords": [
+                        13.497227,
+                        59.382071
+                  ]
+            },
+            {
+                  "name": "Sandgrund Lars Lerin",
+                  "text": "O sală de artă din Karlstad dedicată lucrărilor artistului Lars Lerin.",
+                  "category": "museum",
+                  "coords": [
+                        13.502764,
+                        59.38463
+                  ]
+            },
+            {
+                  "name": "Brigadmuseum",
+                  "text": "Un muzeu de istorie militară din Karlstad, axat pe perioada Războiului Rece.",
+                  "category": "museum",
+                  "coords": [
+                        13.494734,
+                        59.388304
+                  ]
+            },
+            {
+                  "name": "Tempelriddaren",
+                  "text": "O locație de teatru și cultură situată în Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49468,
+                        59.37923
+                  ]
+            },
+            {
+                  "name": "Wermland Opera/Lilla Scenen",
+                  "text": "Scena mai mică și intimă a Operei Wermland din Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.478678,
+                        59.377894
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "Un muzeu în aer liber din Karlstad, cu clădiri istorice și patrimoniu.",
+                  "category": "museum",
+                  "coords": [
+                        13.482277,
+                        59.367927
+                  ]
+            },
+            {
+                  "name": "Friluftsteater",
+                  "text": "Un teatru în aer liber utilizat pentru spectacole de vară în Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.485657,
+                        59.369717
+                  ]
+            },
+            {
+                  "name": "Djurparken Lillskogen",
+                  "text": "O mică grădină zoologică și parc din Karlstad, cu animale de fermă suedeze.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482179,
+                        59.370532
+                  ]
+            },
+            {
+                  "name": "Sandgrundsparken",
+                  "text": "Un parc central din Karlstad situat lângă râu și sala de artă.",
+                  "category": "park",
+                  "coords": [
+                        13.500284,
+                        59.386728
+                  ]
+            },
+            {
+                  "name": "Wennbergsparken",
+                  "text": "Un parc public local care oferă spațiu verde în Karlstad.",
+                  "category": "park",
+                  "coords": [
+                        13.492837,
+                        59.376266
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "Grădina municipală a orașului Karlstad, cu floră diversă și alei.",
+                  "category": "park",
+                  "coords": [
+                        13.502095,
+                        59.375819
+                  ]
+            },
+            {
+                  "name": "Naturum Värmland",
+                  "text": "Un centru pentru vizitatori în Mariebergsskogen, Karlstad, care explorează fauna regională.",
+                  "category": "park",
+                  "coords": [
+                        13.486522,
+                        59.36699
+                  ]
+            },
+            {
+                  "name": "Mariebergsskogen",
+                  "text": "Un parc mare din Karlstad care include un muzeu în aer liber și o grădină zoologică.",
+                  "category": "park",
+                  "coords": [
+                        13.487251,
+                        59.36883
+                  ]
+            },
+            {
+                  "name": "Konst i Karlstad",
+                  "text": "O galerie de artă și asociație care promovează artele locale în Karlstad.",
+                  "category": "museum",
+                  "coords": [
+                        13.508854,
+                        59.381021
+                  ]
+            },
+            {
+                  "name": "Konsthantverkarna Karlstad",
+                  "text": "Un centru de artă și meșteșuguri care expune lucrări realizate manual în Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.506453,
+                        59.379581
+                  ]
+            },
+            {
+                  "name": "Trähangaren",
+                  "text": "Un hangar istoric din lemn din Karlstad care reflectă istoria aviației locale.",
+                  "category": "landmark",
+                  "coords": [
+                        13.455651,
+                        59.377213
+                  ]
+            },
+            {
+                  "name": "Carlstad Art Gallery",
+                  "text": "O galerie din Karlstad care prezintă expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        13.499871,
+                        59.378645
+                  ]
+            },
+            {
+                  "name": "Mariebergs herrgård",
+                  "text": "Un conac istoric situat în Mariebergsskogen din Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.482724,
+                        59.371643
+                  ]
+            },
+            {
+                  "name": "Klaraborgs herrgård",
+                  "text": "Un conac tradițional situat în orașul Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.489482,
+                        59.379472
+                  ]
+            },
+            {
+                  "name": "Färjestads herrgård",
+                  "text": "Un conac istoric situat în zona Färjestad din Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.502351,
+                        59.40609
+                  ]
+            },
+            {
+                  "name": "Väderkvarn",
+                  "text": "O moară de vânt istorică care servește ca punct de reper în Karlstad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483994,
+                        59.369672
+                  ]
+            },
+            {
+                  "name": "Lilla Våxnäs",
+                  "text": "Un conac și o proprietate istorică situată în Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.491991,
+                        59.383316
+                  ]
+            },
+            {
+                  "name": "Strands herrgård",
+                  "text": "Un conac istoric situat în Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.484104,
+                        59.380754
+                  ]
+            },
+            {
+                  "name": "Rosenborgs herrgård",
+                  "text": "Un conac situat în districtul Rosenborg din Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.476327,
+                        59.371711
+                  ]
+            },
+            {
+                  "name": "Skvaltkvarnen",
+                  "text": "O moară de apă tradițională păstrată ca atracție istorică în Karlstad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483984,
+                        59.367819
+                  ]
+            },
+            {
+                  "name": "Karlstads domkyrka",
+                  "text": "Catedrala din Karlstad, o clădire bisericească neoclasică proeminentă.",
+                  "category": "religious",
+                  "coords": [
+                        13.506512,
+                        59.381526
+                  ]
+            },
+            {
+                  "name": "Västerstrands kyrka",
+                  "text": "O biserică parohială care deservește comunitatea Västerstrand din Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.465036,
+                        59.382712
+                  ]
+            },
+            {
+                  "name": "Vikenkyrkan",
+                  "text": "O biserică locală situată în districtul Viken din Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.493763,
+                        59.375549
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "O biserică penticostală și lăcaș de cult din Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.497222,
+                        59.378536
+                  ]
+            },
+            {
+                  "name": "Tingvallakyrkan",
+                  "text": "O clădire bisericească istorică din centrul orașului Karlstad, utilizată pentru cult și evenimente.",
+                  "category": "religious",
+                  "coords": [
+                        13.504912,
+                        59.382337
+                  ]
+            },
+            {
+                  "name": "Rudskyrkan",
+                  "text": "O biserică parohială locală situată în districtul Rud din Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.519898,
+                        59.405031
+                  ]
             }
       ],
       "en": [
@@ -1215,6 +18576,294 @@ export const swedenCities: POI[] = [
                   "coords": [
                         13.534617,
                         59.3906
+                  ]
+            },
+            {
+                  "name": "Scalateatern",
+                  "text": "A historic theatre in Karlstad known for its diverse stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        13.501471,
+                        59.378704
+                  ]
+            },
+            {
+                  "name": "Wermland Opera",
+                  "text": "The opera house of Karlstad, hosting grand musical and theatrical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        13.497227,
+                        59.382071
+                  ]
+            },
+            {
+                  "name": "Sandgrund Lars Lerin",
+                  "text": "An art hall in Karlstad dedicated to the works of artist Lars Lerin.",
+                  "category": "museum",
+                  "coords": [
+                        13.502764,
+                        59.38463
+                  ]
+            },
+            {
+                  "name": "Brigadmuseum",
+                  "text": "A military history museum in Karlstad focusing on the Cold War era.",
+                  "category": "museum",
+                  "coords": [
+                        13.494734,
+                        59.388304
+                  ]
+            },
+            {
+                  "name": "Tempelriddaren",
+                  "text": "A theatre and cultural venue located in Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.49468,
+                        59.37923
+                  ]
+            },
+            {
+                  "name": "Wermland Opera/Lilla Scenen",
+                  "text": "The smaller, intimate stage of the Wermland Opera in Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.478678,
+                        59.377894
+                  ]
+            },
+            {
+                  "name": "Gammelgården",
+                  "text": "An open-air museum in Karlstad featuring historic buildings and heritage.",
+                  "category": "museum",
+                  "coords": [
+                        13.482277,
+                        59.367927
+                  ]
+            },
+            {
+                  "name": "Friluftsteater",
+                  "text": "An open-air theater used for summer performances in Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.485657,
+                        59.369717
+                  ]
+            },
+            {
+                  "name": "Djurparken Lillskogen",
+                  "text": "A small city zoo and park in Karlstad featuring Swedish farm animals.",
+                  "category": "recreational",
+                  "coords": [
+                        13.482179,
+                        59.370532
+                  ]
+            },
+            {
+                  "name": "Sandgrundsparken",
+                  "text": "A central city park in Karlstad located near the river and art hall.",
+                  "category": "park",
+                  "coords": [
+                        13.500284,
+                        59.386728
+                  ]
+            },
+            {
+                  "name": "Wennbergsparken",
+                  "text": "A local public park providing green space in Karlstad.",
+                  "category": "park",
+                  "coords": [
+                        13.492837,
+                        59.376266
+                  ]
+            },
+            {
+                  "name": "Stadsträdgården",
+                  "text": "The municipal city garden of Karlstad, featuring diverse flora and paths.",
+                  "category": "park",
+                  "coords": [
+                        13.502095,
+                        59.375819
+                  ]
+            },
+            {
+                  "name": "Naturum Värmland",
+                  "text": "A nature visitor center in Mariebergsskogen, Karlstad, exploring regional wildlife.",
+                  "category": "park",
+                  "coords": [
+                        13.486522,
+                        59.36699
+                  ]
+            },
+            {
+                  "name": "Mariebergsskogen",
+                  "text": "A large city park in Karlstad featuring an open-air museum and zoo.",
+                  "category": "park",
+                  "coords": [
+                        13.487251,
+                        59.36883
+                  ]
+            },
+            {
+                  "name": "Konst i Karlstad",
+                  "text": "An art gallery and association promoting local arts in Karlstad.",
+                  "category": "museum",
+                  "coords": [
+                        13.508854,
+                        59.381021
+                  ]
+            },
+            {
+                  "name": "Konsthantverkarna Karlstad",
+                  "text": "An arts and crafts center showcasing handmade works in Karlstad.",
+                  "category": "cultural",
+                  "coords": [
+                        13.506453,
+                        59.379581
+                  ]
+            },
+            {
+                  "name": "Trähangaren",
+                  "text": "A historic wooden hangar in Karlstad reflecting local aviation history.",
+                  "category": "landmark",
+                  "coords": [
+                        13.455651,
+                        59.377213
+                  ]
+            },
+            {
+                  "name": "Carlstad Art Gallery",
+                  "text": "A gallery in Karlstad displaying contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        13.499871,
+                        59.378645
+                  ]
+            },
+            {
+                  "name": "Mariebergs herrgård",
+                  "text": "A historic manor house located within Mariebergsskogen in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.482724,
+                        59.371643
+                  ]
+            },
+            {
+                  "name": "Klaraborgs herrgård",
+                  "text": "A traditional manor house situated in the city of Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.489482,
+                        59.379472
+                  ]
+            },
+            {
+                  "name": "Färjestads herrgård",
+                  "text": "A historic manor house located in the Färjestad area of Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.502351,
+                        59.40609
+                  ]
+            },
+            {
+                  "name": "Väderkvarn",
+                  "text": "A historic windmill serving as a landmark in Karlstad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483994,
+                        59.369672
+                  ]
+            },
+            {
+                  "name": "Lilla Våxnäs",
+                  "text": "A manor house and historic estate located in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.491991,
+                        59.383316
+                  ]
+            },
+            {
+                  "name": "Strands herrgård",
+                  "text": "A historic manor house situated in Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.484104,
+                        59.380754
+                  ]
+            },
+            {
+                  "name": "Rosenborgs herrgård",
+                  "text": "A manor house located in the Rosenborg district of Karlstad.",
+                  "category": "historical",
+                  "coords": [
+                        13.476327,
+                        59.371711
+                  ]
+            },
+            {
+                  "name": "Skvaltkvarnen",
+                  "text": "A traditional watermill preserved as a historic attraction in Karlstad.",
+                  "category": "landmark",
+                  "coords": [
+                        13.483984,
+                        59.367819
+                  ]
+            },
+            {
+                  "name": "Karlstads domkyrka",
+                  "text": "The cathedral of Karlstad, a prominent neoclassical church building.",
+                  "category": "religious",
+                  "coords": [
+                        13.506512,
+                        59.381526
+                  ]
+            },
+            {
+                  "name": "Västerstrands kyrka",
+                  "text": "A parish church serving the Västerstrand community in Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.465036,
+                        59.382712
+                  ]
+            },
+            {
+                  "name": "Vikenkyrkan",
+                  "text": "A local church located in the Viken district of Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.493763,
+                        59.375549
+                  ]
+            },
+            {
+                  "name": "Pingstkyrkan",
+                  "text": "A Pentecostal church and place of worship in Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.497222,
+                        59.378536
+                  ]
+            },
+            {
+                  "name": "Tingvallakyrkan",
+                  "text": "A historic church building in central Karlstad used for worship and events.",
+                  "category": "religious",
+                  "coords": [
+                        13.504912,
+                        59.382337
+                  ]
+            },
+            {
+                  "name": "Rudskyrkan",
+                  "text": "A local parish church situated in the Rud district of Karlstad.",
+                  "category": "religious",
+                  "coords": [
+                        13.519898,
+                        59.405031
                   ]
             }
       ]

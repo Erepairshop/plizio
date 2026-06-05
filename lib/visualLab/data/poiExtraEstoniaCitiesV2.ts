@@ -22,6 +22,78 @@ export const estoniaCitiesV2: POI[] = [
                         24.441454,
                         59.304236
                   ]
+            },
+            {
+                  "name": "Keila väikelinnuse varemed",
+                  "text": "Die Überreste einer historischen Festung und eines Gutshofs in Keila.",
+                  "category": "castle",
+                  "coords": [
+                        24.437512,
+                        59.304095
+                  ]
+            },
+            {
+                  "name": "Keila Kooli muuseum",
+                  "text": "Ein lokales Museum, das sich auf die Bildungsgeschichte von Keila konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        24.411733,
+                        59.313432
+                  ]
+            },
+            {
+                  "name": "Harjumaa Muuseum",
+                  "text": "Das Regionalmuseum des Kreises Harju, das die lokale Geschichte und Kultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.439657,
+                        59.303974
+                  ]
+            },
+            {
+                  "name": "Keila keskpark",
+                  "text": "Der zentrale Stadtpark von Keila, ein beliebter Ort für Spaziergänge.",
+                  "category": "park",
+                  "coords": [
+                        24.41937,
+                        59.308404
+                  ]
+            },
+            {
+                  "name": "Kumna mõisa peahoone",
+                  "text": "Das Hauptgebäude des historischen Gutshofs Kumna.",
+                  "category": "historical",
+                  "coords": [
+                        24.448899,
+                        59.323959
+                  ]
+            },
+            {
+                  "name": "Lennuk AN-12",
+                  "text": "Ein ausgestelltes sowjetisches Transportflugzeug vom Typ Antonow An-12.",
+                  "category": "landmark",
+                  "coords": [
+                        24.406143,
+                        59.321727
+                  ]
+            },
+            {
+                  "name": "Keila uusapostlik kirik",
+                  "text": "Eine neuapostolische Kirche in Keila.",
+                  "category": "religious",
+                  "coords": [
+                        24.416722,
+                        59.309094
+                  ]
+            },
+            {
+                  "name": "Michaelis-Kirche",
+                  "text": "Eine historische Kirche in Keila.",
+                  "category": "religious",
+                  "coords": [
+                        24.429723,
+                        59.307805
+                  ]
             }
       ],
       "hu": [
@@ -41,6 +113,78 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.441454,
                         59.304236
+                  ]
+            },
+            {
+                  "name": "Keila väikelinnuse varemed",
+                  "text": "Egy történelmi erőd és udvarház maradványai Keilában.",
+                  "category": "castle",
+                  "coords": [
+                        24.437512,
+                        59.304095
+                  ]
+            },
+            {
+                  "name": "Keila Kooli muuseum",
+                  "text": "Keila oktatástörténetére összpontosító helyi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.411733,
+                        59.313432
+                  ]
+            },
+            {
+                  "name": "Harjumaa Muuseum",
+                  "text": "Harju megye regionális múzeuma, amely a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.439657,
+                        59.303974
+                  ]
+            },
+            {
+                  "name": "Keila keskpark",
+                  "text": "Keila központi városi parkja, a séták kedvelt helyszíne.",
+                  "category": "park",
+                  "coords": [
+                        24.41937,
+                        59.308404
+                  ]
+            },
+            {
+                  "name": "Kumna mõisa peahoone",
+                  "text": "A történelmi Kumna udvarház főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        24.448899,
+                        59.323959
+                  ]
+            },
+            {
+                  "name": "Lennuk AN-12",
+                  "text": "Kiállított szovjet gyártmányú Antonov An-12-es szállítórepülőgép.",
+                  "category": "landmark",
+                  "coords": [
+                        24.406143,
+                        59.321727
+                  ]
+            },
+            {
+                  "name": "Keila uusapostlik kirik",
+                  "text": "Újapostoli templom Keila városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.416722,
+                        59.309094
+                  ]
+            },
+            {
+                  "name": "Keila kirik",
+                  "text": "Történelmi templom Keila városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.429723,
+                        59.307805
                   ]
             }
       ],
@@ -62,6 +206,78 @@ export const estoniaCitiesV2: POI[] = [
                         24.441454,
                         59.304236
                   ]
+            },
+            {
+                  "name": "Keila väikelinnuse varemed",
+                  "text": "Rămășițele unei fortărețe istorice și ale unui conac în Keila.",
+                  "category": "castle",
+                  "coords": [
+                        24.437512,
+                        59.304095
+                  ]
+            },
+            {
+                  "name": "Keila Kooli muuseum",
+                  "text": "Un muzeu local concentrat pe istoria educației din Keila.",
+                  "category": "museum",
+                  "coords": [
+                        24.411733,
+                        59.313432
+                  ]
+            },
+            {
+                  "name": "Harjumaa Muuseum",
+                  "text": "Muzeul regional al județului Harju, care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        24.439657,
+                        59.303974
+                  ]
+            },
+            {
+                  "name": "Keila keskpark",
+                  "text": "Parcul central al orașului Keila, un loc popular pentru plimbări.",
+                  "category": "park",
+                  "coords": [
+                        24.41937,
+                        59.308404
+                  ]
+            },
+            {
+                  "name": "Kumna mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Kumna.",
+                  "category": "historical",
+                  "coords": [
+                        24.448899,
+                        59.323959
+                  ]
+            },
+            {
+                  "name": "Lennuk AN-12",
+                  "text": "Un avion de transport sovietic Antonov An-12 expus public.",
+                  "category": "landmark",
+                  "coords": [
+                        24.406143,
+                        59.321727
+                  ]
+            },
+            {
+                  "name": "Keila uusapostlik kirik",
+                  "text": "O biserică nou-apostolică în Keila.",
+                  "category": "religious",
+                  "coords": [
+                        24.416722,
+                        59.309094
+                  ]
+            },
+            {
+                  "name": "Keila kirik",
+                  "text": "O biserică istorică în Keila.",
+                  "category": "religious",
+                  "coords": [
+                        24.429723,
+                        59.307805
+                  ]
             }
       ],
       "en": [
@@ -81,6 +297,78 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.441454,
                         59.304236
+                  ]
+            },
+            {
+                  "name": "Ruins of Keila fortress-manor",
+                  "text": "The remains of a historic fortress and manor house in Keila.",
+                  "category": "castle",
+                  "coords": [
+                        24.437512,
+                        59.304095
+                  ]
+            },
+            {
+                  "name": "Keila Kooli muuseum",
+                  "text": "A local museum focused on the educational history of Keila.",
+                  "category": "museum",
+                  "coords": [
+                        24.411733,
+                        59.313432
+                  ]
+            },
+            {
+                  "name": "Harju County Museum",
+                  "text": "The regional museum of Harju County, showcasing local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        24.439657,
+                        59.303974
+                  ]
+            },
+            {
+                  "name": "Keila keskpark",
+                  "text": "The central city park of Keila, a popular spot for walks.",
+                  "category": "park",
+                  "coords": [
+                        24.41937,
+                        59.308404
+                  ]
+            },
+            {
+                  "name": "Kumna mõisa peahoone",
+                  "text": "The main building of the historic Kumna manor.",
+                  "category": "historical",
+                  "coords": [
+                        24.448899,
+                        59.323959
+                  ]
+            },
+            {
+                  "name": "Lennuk AN-12",
+                  "text": "A Soviet-made Antonov An-12 transport aircraft on display.",
+                  "category": "landmark",
+                  "coords": [
+                        24.406143,
+                        59.321727
+                  ]
+            },
+            {
+                  "name": "Keila uusapostlik kirik",
+                  "text": "A New Apostolic church in Keila.",
+                  "category": "religious",
+                  "coords": [
+                        24.416722,
+                        59.309094
+                  ]
+            },
+            {
+                  "name": "Keila kirik",
+                  "text": "A historic church in Keila.",
+                  "category": "religious",
+                  "coords": [
+                        24.429723,
+                        59.307805
                   ]
             }
       ]
@@ -129,7 +417,88 @@ export const estoniaCitiesV2: POI[] = [
     image: "/poi-images/estonia-keila-cities-v2.webp",
   },
   {
-    id: "estonia-kohila-cities-v2",
+    id: "estonia-kohila-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kohila mõisa peahoone",
+                  "text": "Das historische Herrenhaus des Gutshofes Kohila in der gleichnamigen estnischen Gemeinde.",
+                  "category": "historical",
+                  "coords": [
+                        24.750229,
+                        59.173768
+                  ]
+            },
+            {
+                  "name": "Angerja Issanda Taevaminemise kirik",
+                  "text": "Eine orthodoxe Kirche in Kohila, die für ihre traditionelle religiöse Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.764317,
+                        59.169383
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kohila mõisa peahoone",
+                  "text": "A Kohila kúria történelmi főépülete az észtországi Kohila településen.",
+                  "category": "historical",
+                  "coords": [
+                        24.750229,
+                        59.173768
+                  ]
+            },
+            {
+                  "name": "Angerja Issanda Taevaminemise kirik",
+                  "text": "Ortodox templom Kohila településen, amely hagyományos vallási építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        24.764317,
+                        59.169383
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kohila mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Kohila din localitatea Kohila, Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        24.750229,
+                        59.173768
+                  ]
+            },
+            {
+                  "name": "Angerja Issanda Taevaminemise kirik",
+                  "text": "O biserică ortodoxă din Kohila, cunoscută pentru arhitectura sa religioasă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        24.764317,
+                        59.169383
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kohila mõisa peahoone",
+                  "text": "The historic main building of the Kohila manor house in the town of Kohila, Estonia.",
+                  "category": "historical",
+                  "coords": [
+                        24.750229,
+                        59.173768
+                  ]
+            },
+            {
+                  "name": "Angerja Issanda Taevaminemise kirik",
+                  "text": "An Orthodox church in Kohila, known for its traditional religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        24.764317,
+                        59.169383
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EE",
     name: { de: "Kohila", hu: "Kohila", ro: "Kohila", en: "Kohila" },
@@ -174,7 +543,124 @@ export const estoniaCitiesV2: POI[] = [
     image: "/poi-images/estonia-kohila-cities-v2.webp",
   },
   {
-    id: "estonia-saue-cities-v2",
+    id: "estonia-saue-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Saue tammik",
+                  "text": "Ein geschützter Eichenhain in Saue, bekannt für seine alten Bäume.",
+                  "category": "natural",
+                  "coords": [
+                        24.554046,
+                        59.317198
+                  ]
+            },
+            {
+                  "name": "Saue mõisa peahoone",
+                  "text": "Das Haupthaus des historischen Gutshofs Saue, ein Beispiel für barocke Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        24.566167,
+                        59.32502
+                  ]
+            },
+            {
+                  "name": "Jälgimäe mõisa peahoone",
+                  "text": "Das Herrenhaus des ehemaligen Gutes Jälgimäe in der Gemeinde Saue.",
+                  "category": "historical",
+                  "coords": [
+                        24.602795,
+                        59.319553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Saue tammik",
+                  "text": "Védett tölgyfaliget Sauéban, amely öreg fáiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        24.554046,
+                        59.317198
+                  ]
+            },
+            {
+                  "name": "Saue mõisa peahoone",
+                  "text": "A történelmi sauei uradalom főépülete, a barokk építészet példája.",
+                  "category": "historical",
+                  "coords": [
+                        24.566167,
+                        59.32502
+                  ]
+            },
+            {
+                  "name": "Jälgimäe mõisa peahoone",
+                  "text": "Az egykori jälgimäei uradalom kúriája Saue községben.",
+                  "category": "historical",
+                  "coords": [
+                        24.602795,
+                        59.319553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Saue tammik",
+                  "text": "O dumbravă de stejari protejată din Saue, cunoscută pentru arborii săi bătrâni.",
+                  "category": "natural",
+                  "coords": [
+                        24.554046,
+                        59.317198
+                  ]
+            },
+            {
+                  "name": "Saue mõisa peahoone",
+                  "text": "Clădirea principală a conacului istoric Saue, un exemplu de arhitectură barocă.",
+                  "category": "historical",
+                  "coords": [
+                        24.566167,
+                        59.32502
+                  ]
+            },
+            {
+                  "name": "Jälgimäe mõisa peahoone",
+                  "text": "Conacul fostei moșii Jälgimäe, situat în municipalitatea Saue.",
+                  "category": "historical",
+                  "coords": [
+                        24.602795,
+                        59.319553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Saue tammik",
+                  "text": "A protected oak grove in Saue, known for its ancient trees.",
+                  "category": "natural",
+                  "coords": [
+                        24.554046,
+                        59.317198
+                  ]
+            },
+            {
+                  "name": "Saue mõisa peahoone",
+                  "text": "The main building of the historic Saue manor, an example of Baroque architecture.",
+                  "category": "historical",
+                  "coords": [
+                        24.566167,
+                        59.32502
+                  ]
+            },
+            {
+                  "name": "Jälgimäe mõisa peahoone",
+                  "text": "The manor house of the former Jälgimäe estate in Saue municipality.",
+                  "category": "historical",
+                  "coords": [
+                        24.602795,
+                        59.319553
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EE",
     name: { de: "Saue", hu: "Saue", ro: "Saue", en: "Saue" },
@@ -229,6 +715,33 @@ export const estoniaCitiesV2: POI[] = [
                         24.664218,
                         58.402188
                   ]
+            },
+            {
+                  "name": "Sindi muuseum",
+                  "text": "Ein lokales Museum in Sindi.",
+                  "category": "museum",
+                  "coords": [
+                        24.653884,
+                        58.407146
+                  ]
+            },
+            {
+                  "name": "Sindi raekoda",
+                  "text": "Das Rathaus von Sindi.",
+                  "category": "historical",
+                  "coords": [
+                        24.645337,
+                        58.403198
+                  ]
+            },
+            {
+                  "name": "Sindi Jumalailmumise kirik",
+                  "text": "Eine orthodoxe Kirche in Sindi.",
+                  "category": "religious",
+                  "coords": [
+                        24.647463,
+                        58.404649
+                  ]
             }
       ],
       "hu": [
@@ -239,6 +752,33 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.664218,
                         58.402188
+                  ]
+            },
+            {
+                  "name": "Sindi muuseum",
+                  "text": "Helyi múzeum Sindi városában.",
+                  "category": "museum",
+                  "coords": [
+                        24.653884,
+                        58.407146
+                  ]
+            },
+            {
+                  "name": "Sindi raekoda",
+                  "text": "Sindi városháza.",
+                  "category": "historical",
+                  "coords": [
+                        24.645337,
+                        58.403198
+                  ]
+            },
+            {
+                  "name": "Sindi Jumalailmumise kirik",
+                  "text": "Ortodox templom Sindi városában.",
+                  "category": "religious",
+                  "coords": [
+                        24.647463,
+                        58.404649
                   ]
             }
       ],
@@ -251,6 +791,33 @@ export const estoniaCitiesV2: POI[] = [
                         24.664218,
                         58.402188
                   ]
+            },
+            {
+                  "name": "Sindi muuseum",
+                  "text": "Un muzeu local în Sindi.",
+                  "category": "museum",
+                  "coords": [
+                        24.653884,
+                        58.407146
+                  ]
+            },
+            {
+                  "name": "Sindi raekoda",
+                  "text": "Primăria orașului Sindi.",
+                  "category": "historical",
+                  "coords": [
+                        24.645337,
+                        58.403198
+                  ]
+            },
+            {
+                  "name": "Sindi Jumalailmumise kirik",
+                  "text": "O biserică ortodoxă în Sindi.",
+                  "category": "religious",
+                  "coords": [
+                        24.647463,
+                        58.404649
+                  ]
             }
       ],
       "en": [
@@ -261,6 +828,33 @@ export const estoniaCitiesV2: POI[] = [
                   "coords": [
                         24.664218,
                         58.402188
+                  ]
+            },
+            {
+                  "name": "Sindi Museum",
+                  "text": "A local museum in Sindi.",
+                  "category": "museum",
+                  "coords": [
+                        24.653884,
+                        58.407146
+                  ]
+            },
+            {
+                  "name": "Sindi raekoda",
+                  "text": "The town hall of Sindi.",
+                  "category": "historical",
+                  "coords": [
+                        24.645337,
+                        58.403198
+                  ]
+            },
+            {
+                  "name": "Sindi Jumalailmumise kirik",
+                  "text": "An Orthodox church in Sindi.",
+                  "category": "religious",
+                  "coords": [
+                        24.647463,
+                        58.404649
                   ]
             }
       ]
@@ -309,7 +903,304 @@ export const estoniaCitiesV2: POI[] = [
     image: "/poi-images/estonia-sindi-cities-v2.webp",
   },
   {
-    id: "estonia-kunda-cities-v2",
+    id: "estonia-kunda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kunda tsemendimuuseum",
+                  "text": "Ein Museum in Kunda, das die Geschichte der estnischen Zementindustrie dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.536453,
+                        59.500694
+                  ]
+            },
+            {
+                  "name": "Kunda sihi ülemine tulepaak",
+                  "text": "Ein Navigationsfeuer für Schiffe an der Küste von Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.5618,
+                        59.510033
+                  ]
+            },
+            {
+                  "name": "Kunda sadama paadikai tulepaak",
+                  "text": "Ein kleines Leuchtfeuer am Hafenbecken von Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.543717,
+                        59.52355
+                  ]
+            },
+            {
+                  "name": "Kunda sihi alumine tulepaak",
+                  "text": "Das untere Richtfeuer für die sichere Einfahrt in den Hafen von Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.55665,
+                        59.5179
+                  ]
+            },
+            {
+                  "name": "Kunda supelrand",
+                  "text": "Ein beliebter Strand an der estnischen Küste in Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            },
+            {
+                  "name": "Kunda hüdroelektrijaam",
+                  "text": "Ein historisches Wasserkraftwerk in Kunda, das als technisches Denkmal gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.542299,
+                        59.50285
+                  ]
+            },
+            {
+                  "name": "Kunda mõisa peahoone",
+                  "text": "Das ehemalige Hauptgebäude des historischen Gutshofes von Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        26.525557,
+                        59.482035
+                  ]
+            },
+            {
+                  "name": "Kunda kirik",
+                  "text": "Die lutherische Hauptkirche der Stadt Kunda in Estland.",
+                  "category": "religious",
+                  "coords": [
+                        26.535832,
+                        59.503871
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kunda tsemendimuuseum",
+                  "text": "Múzeum Kundában, amely az észt cementipar történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.536453,
+                        59.500694
+                  ]
+            },
+            {
+                  "name": "Kunda sihi ülemine tulepaak",
+                  "text": "Navigációs fény a hajók számára Kunda tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        26.5618,
+                        59.510033
+                  ]
+            },
+            {
+                  "name": "Kunda sadama paadikai tulepaak",
+                  "text": "Kisebb világítótorony a kundai kikötő mólójánál.",
+                  "category": "landmark",
+                  "coords": [
+                        26.543717,
+                        59.52355
+                  ]
+            },
+            {
+                  "name": "Kunda sihi alumine tulepaak",
+                  "text": "Alsó irányfény a kundai kikötőbe való biztonságos bejutáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        26.55665,
+                        59.5179
+                  ]
+            },
+            {
+                  "name": "Kunda supelrand",
+                  "text": "Népszerű strand az észt tengerparton, Kunda városában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            },
+            {
+                  "name": "Kunda hüdroelektrijaam",
+                  "text": "Történelmi vízerőmű Kundában, amely technikai műemléknek számít.",
+                  "category": "landmark",
+                  "coords": [
+                        26.542299,
+                        59.50285
+                  ]
+            },
+            {
+                  "name": "Kunda mõisa peahoone",
+                  "text": "A kundai történelmi kúria egykori főépülete.",
+                  "category": "historical",
+                  "coords": [
+                        26.525557,
+                        59.482035
+                  ]
+            },
+            {
+                  "name": "Kunda kirik",
+                  "text": "Kunda városának evangélikus főtemploma Észtországban.",
+                  "category": "religious",
+                  "coords": [
+                        26.535832,
+                        59.503871
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kunda tsemendimuuseum",
+                  "text": "Un muzeu în Kunda care documentează istoria industriei de ciment din Estonia.",
+                  "category": "museum",
+                  "coords": [
+                        26.536453,
+                        59.500694
+                  ]
+            },
+            {
+                  "name": "Kunda sihi ülemine tulepaak",
+                  "text": "Un far de navigație pentru nave pe coasta orașului Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.5618,
+                        59.510033
+                  ]
+            },
+            {
+                  "name": "Kunda sadama paadikai tulepaak",
+                  "text": "Un mic far situat la debarcaderul portului din Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.543717,
+                        59.52355
+                  ]
+            },
+            {
+                  "name": "Kunda sihi alumine tulepaak",
+                  "text": "Farul inferior de direcție pentru accesul sigur în portul Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.55665,
+                        59.5179
+                  ]
+            },
+            {
+                  "name": "Kunda supelrand",
+                  "text": "O plajă populară pe coasta estonă, situată în orașul Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            },
+            {
+                  "name": "Kunda hüdroelektrijaam",
+                  "text": "O hidrocentrală istorică în Kunda, considerată un monument tehnic.",
+                  "category": "landmark",
+                  "coords": [
+                        26.542299,
+                        59.50285
+                  ]
+            },
+            {
+                  "name": "Kunda mõisa peahoone",
+                  "text": "Fosta clădire principală a conacului istoric din Kunda.",
+                  "category": "historical",
+                  "coords": [
+                        26.525557,
+                        59.482035
+                  ]
+            },
+            {
+                  "name": "Kunda kirik",
+                  "text": "Biserica principală luterană din orașul Kunda, Estonia.",
+                  "category": "religious",
+                  "coords": [
+                        26.535832,
+                        59.503871
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunda Cement Museum",
+                  "text": "A museum in Kunda documenting the history of the Estonian cement industry.",
+                  "category": "museum",
+                  "coords": [
+                        26.536453,
+                        59.500694
+                  ]
+            },
+            {
+                  "name": "Kunda sihi ülemine tulepaak",
+                  "text": "A navigational lighthouse aiding maritime traffic on the coast of Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.5618,
+                        59.510033
+                  ]
+            },
+            {
+                  "name": "Kunda sadama paadikai tulepaak",
+                  "text": "A small navigational lighthouse located at the harbor pier in Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.543717,
+                        59.52355
+                  ]
+            },
+            {
+                  "name": "Kunda sihi alumine tulepaak",
+                  "text": "The lower leading light for safe navigation into the harbor of Kunda.",
+                  "category": "landmark",
+                  "coords": [
+                        26.55665,
+                        59.5179
+                  ]
+            },
+            {
+                  "name": "Kunda beach",
+                  "text": "A popular public beach on the Estonian coast in the town of Kunda.",
+                  "category": "recreational",
+                  "coords": [
+                        26.536635,
+                        59.520579
+                  ]
+            },
+            {
+                  "name": "Kunda hüdroelektrijaam",
+                  "text": "A historic hydroelectric power plant in Kunda, considered a technical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        26.542299,
+                        59.50285
+                  ]
+            },
+            {
+                  "name": "Kunda mõisa peahoone",
+                  "text": "The former main building of the historic Kunda manor.",
+                  "category": "historical",
+                  "coords": [
+                        26.525557,
+                        59.482035
+                  ]
+            },
+            {
+                  "name": "Kunda kirik",
+                  "text": "The main Lutheran church serving the town of Kunda in Estonia.",
+                  "category": "religious",
+                  "coords": [
+                        26.535832,
+                        59.503871
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "EE",
     name: { de: "Kunda", hu: "Kunda", ro: "Kunda", en: "Kunda" },

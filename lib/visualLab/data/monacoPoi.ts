@@ -65,7 +65,1636 @@ export const monacoCountry: POI = {
 
 export const monacoDistricts: POI[] = [
   {
-    id: "district-monaco-ville",
+    id: "district-monaco-ville", "sights": {
+      "de": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Die Autosammlung Seiner Durchlaucht des Fürsten von Monaco ist ein Museum mit einer beeindruckenden Oldtimersammlung in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Ozeanographisches Museum Monaco",
+                  "text": "Das Ozeanographische Museum von Monaco ist ein berühmtes Meereskundemuseum auf einer Klippe in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "La Vigie ist ein elegantes Herrenhaus und ein bekanntes Anwesen in Monaco-Ville.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Das Trophée des Alpes ist ein monumentales römisches Siegesdenkmal in der Nähe von Monaco-Ville.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Das Théâtre Princesse Grace ist ein bekanntes Theater für darstellende Künste in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Die Chapelle de la Miséricorde ist ein historisches Gotteshaus in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Die Chapelle Sainte-Dévote ist eine bekannte Kirche und ein Gotteshaus, das der Schutzpatronin von Monaco gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Die Église Saint-Charles ist eine markante Kirche und ein Gotteshaus in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Die Église Saint-Nicolas ist eine lokale Kirche und ein Gotteshaus in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Die Église des Carmes ist eine anerkannte Kirche und ein Gotteshaus in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Die Synagogue de Monaco dient als zentrales jüdisches Gotteshaus in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Die Opéra de Monaco ist ein legendäres Opernhaus und eine wichtige kulturelle Sehenswürdigkeit in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanischer Garten",
+                  "text": "Der Japanese Garden ist ein wunderschöner Stadtpark und eine ruhige Sehenswürdigkeit in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "La Tête de Chien ist ein markanter Felsvorsprung und Berggipfel mit Blick auf Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Exotischer Garten",
+                  "text": "Der Jardin Exotique ist ein berühmter botanischer Garten in Monaco-Ville, der sukkulente Pflanzen ausstellt.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Der Zoological Garden of Monaco ist ein Zoo in Monaco-Ville. Er bietet einen Lebensraum für verschiedene Tiere in der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Église Notre Dame du Cap Fleuri ist eine Kultstätte in Monaco-Ville. Sie dient der lokalen Gemeinschaft als religiöser Ort.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Église Saint-Martin ist eine Kultstätte in Monaco-Ville. Sie bietet einen Rahmen für religiöse Aktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Église du Sacré Coeur ist eine Kultstätte in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Das Sanctuaire Saint-Joseph ist eine religiöse Stätte in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Chapelle Saint-Roch ist eine Kultstätte in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille ist ein Berggipfel in Monaco-Ville. Er ist ein natürliches Wahrzeichen der Gegend.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Der Princess Grace Rose Garden ist ein öffentlicher Garten in Monaco-Ville. Er bietet verschiedene Pflanzenarten und Grünflächen.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala ist ein Strand in Monaco-Ville. Er bietet Zugang zum Meer und zu Küstenaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Marquet Beach ist ein Küstenabschnitt in Monaco-Ville. Es ist ein geeigneter Ort zum Entspannen am Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "The Car Collection of HSH the Prince of Monaco ist ein Museum in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias ist ein Museum in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Die Exhibition Hall ist ein Museum in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Monalisa motorsport gallery formula 1 ist eine Kunstgalerie in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth ist ein Galerieraum in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er ist eine historische Festungsanlage in Monaco-Ville.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Das Auditorium Rainier III ist ein Theaterveranstaltungsort in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Das Théâtre des Muses ist ein Veranstaltungsort für Aufführungen in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Das Théâtre de plein air Jean Cocteau ist ein Freilufttheater in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Die Fairmont Hairpin ist eine lokale Attraktion in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Die Grotte Bleue ist eine Touristenattraktion in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Das Chapiteau de Fontvieille ist ein bemerkenswerter Veranstaltungsort und eine Attraktion in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium ist eine Attraktion in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach ist eine Strandattraktion in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien ist ein Aussichtspunkt in Monaco-Ville, der Blicke auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie ist ein Aussichtspunkt in Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Die Table d'Orientation du Mont des Mules ist ein Aussichtspunkt in Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo ist eine Wasserparkanlage in Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) ist ein Strand in Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "Plage Pointe des Douaniers (Ouest) ist ein Strandabschnitt in Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "A monacói herceg autógyűjteménye egy lenyűgöző klasszikus autókat bemutató múzeum Monaco-Ville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "A monacói Oceanográfiai Múzeum egy híres tengertudományi múzeum egy sziklán Monaco-Ville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "A La Vigie egy elegáns kúria és jelentős birtok Monaco-Ville-ben.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "A Trophée des Alpes egy monumentális római trófea Monaco-Ville közelében.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "A Théâtre Princesse Grace egy kiemelkedő színház Monaco-Ville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "A Chapelle de la Miséricorde egy történelmi vallási istentiszteleti hely Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "A Chapelle Sainte-Dévote egy jelentős templom és istentiszteleti hely, amelyet Monaco védőszentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Az Église Saint-Charles egy kiemelkedő templom és istentiszteleti hely Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Az Église Saint-Nicolas egy helyi templom és istentiszteleti hely Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Az Église des Carmes egy elismert templom és istentiszteleti hely Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "A Synagogue de Monaco a zsidó közösség központi istentiszteleti helye Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Az Opéra de Monaco egy ikonikus operaház és jelentős kulturális látványosság Monaco-Ville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "A Japánkert egy gyönyörű városi park és békés látványosság Monaco-Ville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "A La Tête de Chien egy kiemelkedő sziklás hegyfok és hegycsúcs, amely Monaco-Ville-re néz.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "A Jardin Exotique egy híres botanikus kert Monaco-Ville-ben, amely pozsgás növényeket mutat be.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "A Zoological Garden of Monaco egy állatkert Monaco-Ville-ben. Különféle állatoknak nyújt élőhelyet a városban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Az Église Notre Dame du Cap Fleuri egy istentiszteleti hely Monaco-Ville-ben. Vallási helyszínként szolgál a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Az Église Saint-Martin egy istentiszteleti hely Monaco-Ville-ben. Vallási tevékenységek helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Az Église du Sacré Coeur egy istentiszteleti hely Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "A Sanctuaire Saint-Joseph egy vallási helyszín Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "A Chapelle Saint-Roch egy istentiszteleti hely Monaco-Ville-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "A Mont de la Bataille egy hegycsúcs Monaco-Ville-ben. Természeti tájékozódási pont a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "A Princess Grace Rose Garden egy nyilvános kert Monaco-Ville-ben. Különféle növényfajokkal és zöldterületekkel rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "A Plage de la Mala egy strand Monaco-Ville-ben. Hozzáférést biztosít a tengerhez és a part menti tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "A Marquet Beach egy tengerparti terület Monaco-Ville-ben. Alkalmas hely a vízparti pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "A The Car Collection of HSH the Prince of Monaco egy múzeum Monaco-Ville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "A Villa les Camélias egy múzeum Monaco-Ville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Az Exhibition Hall egy múzeum Monaco-Ville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "A Monalisa motorsport gallery formula 1 egy művészeti galéria Monaco-Ville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A Hauser & Wirth egy galéria Monaco-Ville-ben.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "A Fort Antoine 1er egy történelmi erődítmény Monaco-Ville-ben.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Az Auditorium Rainier III egy színházi helyszín Monaco-Ville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "A Théâtre des Muses egy előadóhely Monaco-Ville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "A Théâtre de plein air Jean Cocteau egy szabadtéri színház Monaco-Ville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "A Fairmont Hairpin egy helyi látványosság Monaco-Ville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "A Grotte Bleue egy turisztikai látványosság Monaco-Ville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "A Chapiteau de Fontvieille egy nevezetes helyszín és látványosság Monaco-Ville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "A Plage du Solarium egy látványosság Monaco-Ville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "A Le Méridien • Beach egy vízparti látványosság Monaco-Ville-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "A Tête de Chien egy kilátó Monaco-Ville-ben, ahonnan kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "A Nuit à la turbie egy kilátó Monaco-Ville-ben.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "A Table d'Orientation du Mont des Mules egy kilátó Monaco-Ville-ben.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "A Thermes Marins Monte-Carlo egy vízipark létesítmény Monaco-Ville-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "A Plage Pointe des Douaniers (Est) egy strand Monaco-Ville-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "A Plage Pointe des Douaniers (Ouest) egy strandterület Monaco-Ville-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Colecția de mașini a ASR Prințului de Monaco este un muzeu ce expune o remarcabilă colecție de mașini clasice în Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Muzeul Oceanografic din Monaco este un renumit muzeu de științe marine situat pe o stâncă în Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "La Vigie este un conac elegant și o moșie notabilă în Monaco-Ville.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Trophée des Alpes este un trofeu monumental roman situat lângă Monaco-Ville.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Théâtre Princesse Grace este un proeminent teatru de arte spectacolului din Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Chapelle de la Miséricorde este un lăcaș de cult religios și istoric situat în Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Chapelle Sainte-Dévote este o biserică notabilă și un lăcaș de cult dedicat sfintei patroane a Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Église Saint-Charles este o biserică proeminentă și un lăcaș de cult situat în Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Église Saint-Nicolas este o biserică locală și un lăcaș de cult din Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Église des Carmes este o biserică recunoscută și un lăcaș de cult situat în Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Synagogue de Monaco servește drept principalul lăcaș de cult evreiesc din Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Opéra de Monaco este o operă emblematică și o atracție culturală majoră din Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "Grădina Japoneză este un frumos parc municipal și o atracție liniștită în Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "La Tête de Chien este un promontoriu stâncos și un vârf proeminent cu vedere la Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "Jardin Exotique este o faimoasă grădină botanică ce expune plante suculente în Monaco-Ville.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Zoological Garden of Monaco este o grădină zoologică situată în Monaco-Ville. Oferă un habitat pentru diverse animale din oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Église Notre Dame du Cap Fleuri este un lăcaș de cult situat în Monaco-Ville. Acesta servește drept loc religios pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin este un lăcaș de cult situat în Monaco-Ville. Oferă un cadru pentru activități religioase.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Église du Sacré Coeur este un lăcaș de cult aflat în Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Sanctuaire Saint-Joseph este un loc religios situat în Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Chapelle Saint-Roch este un lăcaș de cult din Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille este un vârf de munte situat în Monaco-Ville. Este un reper natural în zonă.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Princess Grace Rose Garden este o grădină publică situată în Monaco-Ville. Prezintă diverse specii de plante și spații verzi.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala este o plajă situată în Monaco-Ville. Oferă acces la mare și la activități pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Marquet Beach este o zonă de coastă în Monaco-Ville. Este un loc potrivit pentru relaxare pe malul apei.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "The Car Collection of HSH the Prince of Monaco este un muzeu situat în Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias este un muzeu situat în Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Exhibition Hall este un muzeu situat în Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Monalisa motorsport gallery formula 1 este o galerie de artă în Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth este un spațiu de galerie situat în Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er este o fortificație istorică situată în Monaco-Ville.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Auditorium Rainier III este o sală de teatru în Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Théâtre des Muses este o locație pentru spectacole situată în Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Théâtre de plein air Jean Cocteau este un teatru în aer liber în Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Fairmont Hairpin este o atracție locală situată în Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Grotte Bleue este o atracție turistică în Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Chapiteau de Fontvieille este o locație notabilă și o atracție în Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium este o atracție situată în Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach este o atracție pe malul mării situată în Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien este un punct de belvedere în Monaco-Ville, care oferă vederi ale zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie este un punct de belvedere situat în Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Table d'Orientation du Mont des Mules este un punct de belvedere situat în Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo este o facilitate de parc acvatic situată în Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) este o plajă situată în Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "Plage Pointe des Douaniers (Ouest) este o zonă de plajă situată în Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cars collection of HSH the Prince of Monaco",
+                  "text": "The Cars collection of HSH the Prince of Monaco is a museum showcasing a remarkable classic car collection in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Oceanographic Museum of Monaco",
+                  "text": "The Oceanographic Museum of Monaco is a renowned museum of marine sciences situated on a cliff in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "La Vigie is an elegant manor house and notable estate in Monaco-Ville.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "The Trophée des Alpes is a monumental Roman trophy located near Monaco-Ville.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "The Théâtre Princesse Grace is a prominent performing arts theatre in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Chapelle de la Miséricorde is a historic religious place of worship located in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Chapelle Sainte-Dévote is a notable church and place of worship dedicated to the patron saint of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Église Saint-Charles is a prominent church and place of worship situated in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Église Saint-Nicolas is a local church and place of worship in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Église des Carmes is a recognized church and place of worship located in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "The Synagogue de Monaco serves as the central Jewish place of worship in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Opéra de Monaco is an iconic opera house and a major cultural attraction in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "The Japanese Garden is a beautiful municipal park and tranquil attraction in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "La Tête de Chien is a prominent rock promontory and peak overlooking Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "The Jardin Exotique is a famous botanical garden showcasing succulent plants in Monaco-Ville.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Zoological Garden of Monaco",
+                  "text": "The Zoological Garden of Monaco is a zoo situated in Monaco-Ville. It provides a habitat for various animals in the city.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Église Notre Dame du Cap Fleuri is a place of worship located in Monaco-Ville. It serves as a religious site for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin is a place of worship situated in Monaco-Ville. It provides a setting for religious activities.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Église du Sacré Coeur is a place of worship found in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Sanctuaire Saint-Joseph is a religious site located in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Chapelle Saint-Roch is a place of worship in Monaco-Ville.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille is a mountain peak situated in Monaco-Ville. It is a natural landmark in the area.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Princess Grace Rose Garden",
+                  "text": "Princess Grace Rose Garden is a public garden located in Monaco-Ville. It features various plant species and green spaces.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala is a beach situated in Monaco-Ville. It offers access to the sea and coastal activities.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Marquet Beach",
+                  "text": "Marquet Beach is a coastal area in Monaco-Ville. It is a suitable spot for relaxing by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "The Car Collection of HSH the Prince of Monaco",
+                  "text": "The Car Collection of HSH the Prince of Monaco is a museum situated in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias is a museum located in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "Exhibition Hall is a museum located in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Monalisa motorsport gallery formula 1 is an art gallery in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth is a gallery space situated in Monaco-Ville.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er is a historical fortification located in Monaco-Ville.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Auditorium Rainier III is a theatre venue in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Théâtre des Muses is a venue for performances located in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Théâtre de plein air Jean Cocteau is an outdoor theatre in Monaco-Ville.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Fairmont Hairpin is a local attraction situated in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Grotte Bleue is a tourist attraction in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Chapiteau de Fontvieille is a notable venue and attraction in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium is an attraction situated in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach is a beachfront attraction located in Monaco-Ville.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien is a viewpoint in Monaco-Ville offering views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie is a viewpoint located in Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Table d'Orientation du Mont des Mules is a viewpoint situated in Monaco-Ville.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo is a water park facility located in Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) is a beach located in Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Ouest)",
+                  "text": "Plage Pointe des Douaniers (Ouest) is a beach area situated in Monaco-Ville.",
+                  "category": "recreational",
+                  "coords": [
+                        7.404412,
+                        43.720018
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-monaco",
     coords: [7.4244, 43.7308],
@@ -109,7 +1738,1636 @@ export const monacoDistricts: POI[] = [
     image: "/poi-images/district-monaco-ville.webp",
   },
   {
-    id: "district-monte-carlo",
+    id: "district-monte-carlo", "sights": {
+      "de": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Ein umfangreiches Museum, das die private Autosammlung des Fürsten von Monaco zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Ozeanographisches Museum Monaco",
+                  "text": "Ein weltberühmtes Museum und Aquarium, das von Fürst Albert I. gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Ein historisches Herrenhaus an einem markanten Standort an der Küste.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Ein monumentales römisches Denkmal zu Ehren von Kaiser Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Ein Veranstaltungsort für Theater, benannt nach Prinzessin Grace von Monaco.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Eine historische Kapelle aus dem 17. Jahrhundert, die für ihre religiöse Kunst bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Eine Kapelle, die der Schutzpatronin von Monaco und der fürstlichen Familie gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Eine katholische Kirche im Renaissancestil in Monte Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Eine Pfarrkirche für den Stadtteil Fontvieille in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Ein katholisches Kirchengebäude, das der heiligen Therese gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Ein bedeutendes jüdisches Gotteshaus im Fürstentum Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Ein prächtiges Opernhaus direkt am Mittelmeer, entworfen im Stil der Belle Époque.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanischer Garten",
+                  "text": "Ein friedlicher japanischer Garten mit Wasserfällen und Brücken inmitten der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Ein markanter Berggipfel mit Panoramablick über das Fürstentum und die Riviera.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Exotischer Garten",
+                  "text": "Ein berühmter botanischer Garten am Hang, der für seine beeindruckende Sammlung von Sukkulenten bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Ein zoologischer Garten in Monaco, der einen Einblick in die Tierwelt aus aller Welt bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Eine lokale katholische Kirche für Gottesdienst und Gebet in Monte-Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Eine dem Heiligen Martin geweihte Kirche im Herzen der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Ein religiöses Gebäude, das dem Heiligen Herzen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Ein dem Heiligen Josef geweihtes Heiligtum für Gläubige und Besucher.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Eine kleine Kapelle, die dem Heiligen Rochus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Ein Berggipfel in der Nähe von Monte-Carlo mit Blick auf die umliegende Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Ein wunderschöner Rosengarten, der zum Gedenken an Prinzessin Gracia Patricia angelegt wurde.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Ein beliebter Strandabschnitt an der Grenze zwischen Monaco und Frankreich.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Die private Automobilsammlung von Fürst Rainier III. umfasst über 100 seltene Fahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Ein Ausstellungsraum für wechselnde kulturelle und künstlerische Präsentationen.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Eine Galerie, die sich der Welt der Formel 1 und dem Motorsport widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Eine renommierte Kunstgalerie, die zeitgenössische Werke internationaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Eine historische Festung aus dem 18. Jahrhundert, die heute als Freilichttheater genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Ein modernes Veranstaltungszentrum für Konzerte und kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Ein kleines, charmantes Theater, das eine Vielzahl von Bühnenstücken präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Ein malerisches Freilichttheater mit Blick auf die Küste.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Die berühmte, engste Haarnadelkurve im Formel-1-Kalender.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Eine natürliche Meereshöhle an der Küste, bekannt für ihr blau schimmerndes Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Ein permanentes Zelt für große Veranstaltungen, darunter das berühmte Zirkusfestival.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Ein Betonstrand am Fuße des Felsens, ideal zum Schwimmen im tiefen Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Ein exklusiver Hotelstrand, der Entspannung am Mittelmeer bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Ein Aussichtspunkt auf einem markanten Felsvorsprung mit Blick auf Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Ein Aussichtspunkt oberhalb von Monaco, der besonders nachts einen beeindruckenden Blick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Eine Orientierungstafel auf dem Mont des Mules mit Panoramablick über die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Ein luxuriöses Wellnesszentrum und Spa mit Thalassotherapie in Monte-Carlo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage de Golfe Bleu",
+                  "text": "Ein schöner Kieselstrand in einer Bucht unweit des Fürstentums.",
+                  "category": "recreational",
+                  "coords": [
+                        7.454323,
+                        43.758671
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Ein natürlicher Strandabschnitt an der französischen Riviera bei Monaco.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "Ein kleiner Strandabschnitt direkt am Fuße des berühmten Felsens von Monaco.",
+                  "category": "recreational",
+                  "coords": [
+                        7.450911,
+                        43.756279
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Ein Küstenabschnitt, der zum Verweilen und Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Kiterjedt múzeum, amely a monacói herceg magánautó-gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Világhírű múzeum és akvárium, amelyet I. Albert herceg alapított.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Történelmi udvarház egy kiemelkedő tengerparti helyszínen.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Monumentális római emlékmű Augustus császár tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "A monacói Grace hercegnőről elnevezett színház.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Történelmi, 17. századi kápolna, amely vallási művészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Monaco és a hercegi család védőszentjének szentelt kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Reneszánsz stílusú katolikus templom Monte Carlóban.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Monaco Fontvieille negyedét kiszolgáló plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Szent Teréznek szentelt katolikus templomépület.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Monaco hercegségének jelentős zsidó temploma.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Pompás operaház közvetlenül a Földközi-tenger partján, Belle Époque stílusban tervezve.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "Békés japánkert vízesésekkel és hidakkal a város közepén.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Jellegzetes hegycsúcs panorámás kilátással a hercegségre és a Riviérára.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "Híres botanikus kert a hegyoldalban, amely lenyűgöző pozsgás növénygyűjteményéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Monacói állatkert, amely betekintést nyújt a világ minden tájáról származó állatvilágba.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Helyi katolikus templom istentiszteletre és imádságra Monte-Carlóban.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Szent Mártonnak szentelt templom a város szívében.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "A Szent Szívnek szentelt vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Szent Józsefnek szentelt szentély hívők és látogatók számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Szent Rókusnak szentelt kis kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Hegycsúcs Monte-Carlo közelében, kilátással a környező tájra.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Gyönyörű rózsakert, amelyet Gracia Patricia hercegné emlékére hoztak létre.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Népszerű strandszakasz Monaco és Franciaország határán.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "III. Rainier herceg magán autógyűjteménye, amely több mint 100 ritka járművet tartalmaz.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Kiállítóterem változó kulturális és művészeti bemutatók számára.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "A Forma-1 világának és az autóversenyzésnek szentelt galéria.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Neves művészeti galéria, amely nemzetközi művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "18. századi történelmi erőd, amelyet ma szabadtéri színházként használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Modern rendezvényközpont koncertek és kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Kicsi, bájos színház, amely különféle színpadi darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Festői szabadtéri színház kilátással a tengerpartra.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "A Forma-1-es versenynaptár leghíresebb és legszűkebb hajtűkanyarja.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Természetes tengeri barlang a parton, amely kék fénnyel csillogó vizéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Állandó sátor nagy rendezvényekhez, többek között a híres cirkuszfesztiválhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Betonozott strand a szikla lábánál, ideális a mélyvízi úszáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Exkluzív szállodai strand, amely kikapcsolódást kínál a Földközi-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Kilátópont egy jellegzetes sziklakiszögellésen, rálátással Monacóra.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Kilátópont Monaco felett, amely különösen éjszaka nyújt lenyűgöző látványt.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Tájékozódási tábla a Mont des Mules hegyen, panorámás kilátással a partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Luxus wellnessközpont és fürdő talasszoterápiával Monte-Carlóban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage de Golfe Bleu",
+                  "text": "Szép kavicsos strand egy öbölben, nem messze a hercegségtől.",
+                  "category": "recreational",
+                  "coords": [
+                        7.454323,
+                        43.758671
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Természetes strandszakasz a francia Riviérán, Monaco közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "Kis strandszakasz közvetlenül a híres monacói szikla lábánál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.450911,
+                        43.756279
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Tengerparti szakasz, amely pihenésre és fürdőzésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Un muzeu extins care prezintă colecția privată de mașini a Prințului de Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Un muzeu și acvariu de renume mondial fondat de Prințul Albert I.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "Un conac istoric situat pe un loc de coastă proeminent.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Un monument roman monumental care îl comemorează pe împăratul Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "O sală de teatru numită după Prințesa Grace de Monaco.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "O chapelă istorică din secolul al XVII-lea, cunoscută pentru arta sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "O capelă dedicată sfintei patroane a Monaco și a familiei princiare.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "O biserică catolică în stil renascentist situată în Monte Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "O biserică parohială care deservește districtul Fontvieille din Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "O clădire a bisericii catolice dedicată Sfintei Tereza.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Un important lăcaș de cult evreiesc din Principatul Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "O operă magnifică pe malul Mediteranei, proiectată în stil Belle Époque.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "O grădină japoneză liniștită, cu cascade și poduri, situată în mijlocul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Un vârf montan proeminent, cu vedere panoramică asupra principatului și a Rivierei.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "O celebră grădină botanică pe versant, cunoscută pentru colecția sa impresionantă de plante suculente.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "O grădină zoologică în Monaco, care oferă o privire asupra faunei din întreaga lume.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "O biserică catolică locală pentru slujbe și rugăciune în Monte-Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "O biserică dedicată Sfântului Martin, situată în inima orașului.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Un edificiu religios dedicat Inimii Sacre.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Un sanctuar dedicat Sfântului Iosif pentru credincioși și vizitatori.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "O mică chapelă dedicată Sfântului Roch.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Un vârf montan lângă Monte-Carlo, cu vedere spre peisajul înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "O grădină de trandafiri superbă, creată în memoria Prințesei Grace de Monaco.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "O secțiune de plajă populară la granița dintre Monaco și Franța.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Colecția privată de automobile a Prințului Rainier al III-lea, cuprinzând peste 100 de vehicule rare.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "O sală de expoziții pentru prezentări culturale și artistice temporare.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "O galerie dedicată lumii Formulei 1 și sporturilor cu motor.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "O galerie de artă renumită care prezintă lucrări contemporane ale artiștilor internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "O fortăreață istorică din secolul al XVIII-lea, utilizată astăzi ca teatru în aer liber.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Un centru de evenimente modern pentru concerte și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Un teatru mic și fermecător care prezintă o varietate de piese de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Un teatru pitoresc în aer liber, cu vedere spre coastă.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Cea mai faimoasă și strânsă curbă în ac de păr din calendarul Formulei 1.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "O peșteră marină naturală de pe coastă, cunoscută pentru apele sale albastre strălucitoare.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Un cort permanent pentru evenimente majore, inclusiv celebrul festival de circ.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "O plajă de beton la baza stâncii, ideală pentru înot în apă adâncă.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "O plajă exclusivistă de hotel care oferă relaxare la Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Un punct de observație pe un promontoriu stâncos proeminent, cu vedere spre Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Un punct de observație deasupra Monaco, care oferă o priveliște impresionantă, mai ales noaptea.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "O masă de orientare pe Mont des Mules, cu vedere panoramică asupra coastei.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Un centru de wellness și spa de lux cu talasoterapie în Monte-Carlo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage de Golfe Bleu",
+                  "text": "O plajă frumoasă cu pietriș într-un golf situat nu departe de principat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.454323,
+                        43.758671
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "O secțiune de plajă naturală pe Riviera Franceză, lângă Monaco.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "O mică secțiune de plajă chiar la baza faimoasei stânci din Monaco.",
+                  "category": "recreational",
+                  "coords": [
+                        7.450911,
+                        43.756279
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "O porțiune de coastă care invită la relaxare și scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cars collection of HSH the Prince of Monaco",
+                  "text": "An extensive museum showcasing the private car collection of the Prince of Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Oceanographic Museum of Monaco",
+                  "text": "A world-renowned museum and aquarium founded by Prince Albert I.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "A historic manor house located on a prominent coastal site.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "A monumental Roman trophy commemorating Emperor Augustus.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "A theatre venue named after Princess Grace of Monaco.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "A historic 17th-century chapel known for its religious art.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "A chapel dedicated to the patron saint of Monaco and the Princely Family.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "A Renaissance-style Catholic church located in Monte Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "A parish church serving the Fontvieille district of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "A Catholic church building dedicated to Saint Therese.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "A significant Jewish place of worship in the Principality of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "A magnificent opera house on the Mediterranean coast, designed in Belle Époque style.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "A peaceful Japanese garden with waterfalls and bridges in the middle of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "A prominent mountain peak with panoramic views over the principality and the Riviera.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "A famous cliffside botanical garden known for its impressive collection of succulent plants.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Zoological Garden of Monaco",
+                  "text": "A zoological garden in Monaco offering a glimpse into wildlife from around the world.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "A local Catholic church for worship and prayer in Monte-Carlo.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "A church dedicated to Saint Martin located in the heart of the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "A religious building dedicated to the Sacred Heart.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "A sanctuary dedicated to Saint Joseph for believers and visitors.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "A small chapel dedicated to Saint Roch.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "A mountain peak near Monte-Carlo with views of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Princess Grace Rose Garden",
+                  "text": "A beautiful rose garden created in memory of Princess Grace of Monaco.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Marquet Beach",
+                  "text": "A popular stretch of beach on the border between Monaco and France.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "The Car Collection of HSH the Prince of Monaco",
+                  "text": "The private car collection of Prince Rainier III, featuring over 100 rare vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "An exhibition space for rotating cultural and artistic presentations.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "A gallery dedicated to the world of Formula 1 and motorsport.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A renowned art gallery showcasing contemporary works by international artists.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "A historical 18th-century fort now used as an open-air theater.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "A modern venue for concerts and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "A small, charming theater presenting a variety of stage plays.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "A scenic open-air theater with views of the coast.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "The famous, narrowest hairpin turn on the Formula 1 calendar.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "A natural sea cave on the coast, known for its shimmering blue waters.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "A permanent marquee for major events, including the famous circus festival.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "A concrete beach at the foot of the rock, ideal for deep-water swimming.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "An exclusive hotel beach offering relaxation by the Mediterranean.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "A viewpoint on a prominent rocky outcrop overlooking Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "A viewpoint above Monaco offering an impressive view, especially at night.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "An orientation table on Mont des Mules with panoramic views over the coast.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "A luxurious wellness center and spa with thalassotherapy in Monte-Carlo.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage de Golfe Bleu",
+                  "text": "A beautiful pebble beach in a bay not far from the principality.",
+                  "category": "recreational",
+                  "coords": [
+                        7.454323,
+                        43.758671
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "A natural stretch of beach on the French Riviera near Monaco.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage du Rocher",
+                  "text": "A small stretch of beach right at the foot of the famous Rock of Monaco.",
+                  "category": "recreational",
+                  "coords": [
+                        7.450911,
+                        43.756279
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "A coastal stretch inviting relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-monaco",
     coords: [7.4275, 43.7401],
@@ -152,7 +3410,1636 @@ export const monacoDistricts: POI[] = [
     },
   },
   {
-    id: "district-fontvieille",
+    id: "district-fontvieille", "sights": {
+      "de": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Ein Museum, das die umfangreiche private Oldtimer-Sammlung des Fürsten von Monaco zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Ozeanographisches Museum Monaco",
+                  "text": "Ein weltberühmtes Museum und Aquarium für Meeresforschung, gegründet von Fürst Albert I.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Ein antikes römisches Monument in La Turbie, errichtet zur Feier des Sieges von Kaiser Augustus über die Alpenvölker.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Ein modernes Theater in Monaco, das eine Vielzahl von kulturellen Aufführungen und Theaterstücken bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Eine Barockkapelle aus dem 17. Jahrhundert in Monaco-Ville, bekannt für ihr prunkvolles Inneres und ihr religiöses Erbe.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Eine historische Kapelle, die der Schutzpatronin von Monaco gewidmet ist und sich im Vallat des Gaumates befindet.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Eine Kirche im Renaissancestil aus dem 19. Jahrhundert in Monte Carlo, bekannt für ihren hohen Glockenturm und ihre elegante Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Eine moderne katholische Kirche im Stadtteil Fontvieille in Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Eine Kirche in Monaco, die der heiligen Therese gewidmet ist und einen Ort für Gebet und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Das zentrale Gotteshaus für die jüdische Gemeinde im Fürstentum Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Ein prunkvolles Opernhaus, entworfen von Charles Garnier, in dem renommierte Musikaufführungen stattfinden.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanischer Garten",
+                  "text": "Ein friedlicher und wunderschön angelegter traditioneller japanischer Garten direkt am Mittelmeer.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Ein 550 Meter hoher Felsvorsprung mit spektakulärem Blick über Monaco und die Französische Riviera.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Exotischer Garten",
+                  "text": "Ein berühmter botanischer Garten an den Klippen von Monaco mit einer riesigen Sammlung von Sukkulenten.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Ein von Fürst Rainier III. gegründeter Zoo, der sich auf gespendete oder gerettete Tiere konzentriert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Eine katholische Kirche in Fontvieille, die der religiösen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Ein religiöses Bauwerk in Fontvieille, das der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Diese Kirche in Fontvieille ist eine bedeutende lokale Gebetsstätte.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Eine dem Heiligsten Herzen Jesu geweihte Kirche in Fontvieille.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Ein religiöses Heiligtum in Fontvieille, das dem heiligen Josef gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Eine kleine Kapelle in Fontvieille, die dem heiligen Rochus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Ein Berggipfel in der Nähe von Fontvieille, der einen weiten Ausblick bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Dieser Rosengarten in Fontvieille wurde zum Gedenken an Fürstin Gracia Patricia angelegt.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Ein malerischer Strand in der Nähe von Fontvieille, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Ein familienfreundlicher Sandstrand in der Nähe des Hafens von Fontvieille.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Die Ausstellung präsentiert die beeindruckende Fahrzeugsammlung des Fürsten von Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Ein Privatmuseum in Cap d'Ail, das die lokale Geschichte und Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Ein Ausstellungsraum in Fontvieille, der für verschiedene temporäre Kunstschauen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Eine Kunstgalerie in Fontvieille, die sich auf Themen rund um die Formel 1 spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Eine renommierte Galerie für zeitgenössische Kunst im Viertel Fontvieille.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Eine historische Festung aus dem 18. Jahrhundert, die heute als Freilichttheater genutzt wird.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Ein moderner Konzert- und Veranstaltungssaal im Herzen von Fontvieille.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Ein kleines, gemütliches Theater in Fontvieille, das eine Vielzahl von Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Ein nach Jean Cocteau benanntes Freilichttheater in der Nähe von Fontvieille.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Eine der langsamsten und berühmtesten Kurven der Formel-1-Strecke von Monaco.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Eine Meeresgrotte an der Küste von Fontvieille, bekannt für ihre blaue Lichtreflexion.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Dieses permanente Zelt in Fontvieille ist der Hauptveranstaltungsort des Zirkusfestivals von Monte-Carlo.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Ein künstlicher Badeplatz in Fontvieille, der direkt am Fuße der Felsen angelegt wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Ein exklusiver Privatstrand in Fontvieille, der zum gleichnamigen Hotel gehört.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Ein markanter Felsen oberhalb von Fontvieille, der einen spektakulären Blick auf Monaco bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Ein Ort in La Turbie, der besonders nachts eine beeindruckende Aussicht auf Fontvieille bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Eine Orientierungstafel auf dem Mont des Mules mit Panoramablick über Fontvieille und das Meer.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Eine luxuriöse Wellness- und Thermalanlage in Monaco, bekannt für ihre Meerwasser-Therapien.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "Ein abgelegener FKK-Strand in der Nähe von Fontvieille, umgeben von steilen Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "Ein ruhiger Kieselstrand in der Nähe von Fontvieille, ideal zum Entspannen abseits der Massen.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "A monacói herceg hatalmas magán veteránautó-gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Világhírű múzeum és akvárium, amelyet Albert I. herceg alapított a tengerkutatásnak szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Ókori római emlékmű La Turbie-ben, amelyet Augustus császár alpesi törzsek felett aratott győzelmének emlékére építettek.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Modern színház Monacóban, amely különféle kulturális előadásokat és színdarabokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "17. századi barokk kápolna Monaco-Ville-ben, amely díszes belső teréről és vallási örökségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Monaco védőszentjének szentelt történelmi kápolna, amely a Vallat des Gaumates völgyben található.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "19. századi reneszánsz stílusú templom Monte Carlóban, amely magas harangtornyáról és elegáns építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Modern katolikus templom Monaco Fontvieille negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Szent Teréznek szentelt templom Monacóban, amely helyet kínál az istentiszteletnek és az elmélkedésnek.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "A monacói zsidó közösség központi zsinagógája.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Charles Garnier által tervezett fényűző operaház, amely rangos zenei előadásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "Békés és gyönyörűen parkosított hagyományos japán kert a Földközi-tenger partján.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Egy 550 méter magas sziklakiszögellés, ahonnan látványos kilátás nyílik Monacóra és a francia riviérára.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "Híres botanikus kert Monaco szikláin, amely pozsgás növények hatalmas gyűjteményével rendelkezik.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "III. Rainier herceg által alapított állatkert, amely az adományozott vagy mentett állatokra összpontosít.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Fontvieille katolikus temploma, amely a helyi hívőket szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Szűz Máriának szentelt vallási épület Fontvieille-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Ez a fontvieille-i templom a helyi közösség fontos imádkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "A Jézus Szent Szívének szentelt templom Fontvieille-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Szent Józsefnek szentelt vallási szentély Fontvieille-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Szent Rókusnak szentelt kis kápolna Fontvieille-ben.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Hegyi csúcs Fontvieille közelében, ahonnan tágas kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Ezt a fontvieille-i rózsakertet Gracia Patricia hercegné emlékére hozták létre.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Festői strand Fontvieille közelében, amely tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Családbarát homokos strand Fontvieille kikötőjének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "A kiállítás Monaco hercegének lenyűgöző autógyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Cap d'Ail magánmúzeuma, amely a helyi történelmet és művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Fontvieille-i kiállítóterem, amelyet különféle időszaki művészeti bemutatókra használnak.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Fontvieille-i művészeti galéria, amely a Forma-1 témájára specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Neves kortárs művészeti galéria Fontvieille negyedében.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "18. századi történelmi erőd, amelyet ma szabadtéri színházként használnak.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Modern koncert- és rendezvényterem Fontvieille szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Kicsi, barátságos színház Fontvieille-ben, amely változatos előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Jean Cocteau-ról elnevezett szabadtéri színház Fontvieille közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "A monacói Forma-1-es pálya egyik leglassabb és leghíresebb kanyarja.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Tengeri barlang Fontvieille partján, amely kék fényvisszaverődéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Ez a fontvieille-i állandó sátor a Monte-Carlo-i Cirkuszfesztivál fő helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Fontvieille-i mesterséges fürdőhely, amelyet közvetlenül a sziklák tövében alakítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Exkluzív magánstrand Fontvieille-ben, amely a hasonló nevű szállodához tartozik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Fontvieille feletti jellegzetes szikla, amely látványos kilátást nyújt Monacóra.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Helyszín La Turbie-ben, amely különösen éjszaka nyújt lenyűgöző kilátást Fontvieille-re.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Tájékozódási tábla a Mont des Mules-ön, panorámás kilátással Fontvieille-re és a tengerre.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Luxus wellness- és termálközpont Monacóban, amely tengervizes terápiáiról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "Elszigetelt naturista strand Fontvieille közelében, meredek sziklákkal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "Csendes kavicsos strand Fontvieille közelében, ideális a tömegtől távoli pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "Un muzeu care expune vasta colecție personală de mașini de epocă a Principelui de Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Un muzeu și acvariu de renume mondial dedicat științelor marine, fondat de prințul Albert I.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Un monument roman antic în La Turbie, construit pentru a celebra victoria împăratului Augustus asupra triburilor alpine.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Un teatru modern din Monaco care oferă o varietate de spectacole culturale și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "O capelă barocă din secolul al XVII-lea în Monaco-Ville, cunoscută pentru interiorul său ornat și moștenirea religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "O capelă istorică dedicată sfintei patroane a Monaco, situată în Vallat des Gaumates.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "O biserică în stil renascentist din secolul al XIX-lea în Monte Carlo, cunoscută pentru clopotnița sa înaltă și arhitectura elegantă.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "O biserică catolică modernă situată în cartierul Fontvieille din Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "O biserică din Monaco dedicată Sfintei Tereza, oferind un loc pentru închinare și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Locul central de cult pentru comunitatea evreiască din Principatul Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "O operă opulentă proiectată de Charles Garnier, care găzduiește spectacole muzicale prestigioase.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "O grădină japoneză tradițională senină și frumos amenajată, situată la Marea Mediterană.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "Un promontoriu stâncos înalt de 550 de metri, oferind vederi spectaculoase asupra Monaco și a Rivierei Franceze.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "O celebră grădină botanică situată pe stâncă în Monaco, care prezintă o colecție uriașă de plante suculente.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "O grădină zoologică fondată de prințul Rainier al III-lea, axată pe animale donate sau salvate.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "O biserică catolică din Fontvieille care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Un lăcaș de cult din Fontvieille dedicat Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Această biserică din Fontvieille este un loc de rugăciune important pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "O biserică din Fontvieille dedicată Preasfintei Inimi a lui Iisus.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Un sanctuar religios din Fontvieille dedicat Sfântului Iosif.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "O mică capelă din Fontvieille dedicată Sfântului Rochus.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Un vârf muntos lângă Fontvieille care oferă o vedere panoramică asupra zonei.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Această grădină de trandafiri din Fontvieille a fost creată în memoria Prințesei Grace.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "O plajă pitorească lângă Fontvieille, cunoscută pentru apa sa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "O plajă cu nisip potrivită pentru familii, situată lângă portul din Fontvieille.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "Expoziția prezintă colecția impresionantă de automobile a Prințului de Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Un muzeu privat din Cap d'Ail care prezintă istoria și arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "O sală de expoziții din Fontvieille folosită pentru diverse spectacole de artă temporare.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "O galerie de artă din Fontvieille specializată în teme legate de Formula 1.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "O galerie de artă contemporană renumită situată în cartierul Fontvieille.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "O fortăreață istorică din secolul al XVIII-lea, folosită astăzi ca teatru în aer liber.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "O sală modernă de concerte și evenimente situată în inima cartierului Fontvieille.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Un teatru mic și primitor din Fontvieille, care oferă o varietate de spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Un teatru în aer liber numit după Jean Cocteau, situat lângă Fontvieille.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Una dintre cele mai lente și faimoase curbe ale circuitului de Formula 1 din Monaco.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "O grotă marină pe coasta din Fontvieille, cunoscută pentru reflexia luminii albastre.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Acest cort permanent din Fontvieille este locul principal al Festivalului de Circ din Monte-Carlo.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Un loc de scăldat artificial în Fontvieille, amenajat chiar la baza stâncilor.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "O plajă privată exclusivistă din Fontvieille, aparținând hotelului cu același nume.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "O stâncă proeminentă deasupra Fontvieille, care oferă o vedere spectaculoasă asupra Monaco-ului.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Un loc din La Turbie care oferă o vedere impresionantă asupra Fontvieille, în special noaptea.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "O masă de orientare pe Mont des Mules, cu o vedere panoramică asupra Fontvieille și a mării.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "O facilitate de wellness și termală de lux din Monaco, cunoscută pentru terapiile cu apă de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "O plajă de nudiști izolată lângă Fontvieille, înconjurată de stânci abrupte.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "O plajă liniștită cu pietriș lângă Fontvieille, ideală pentru relaxare departe de mulțime.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cars collection of HSH the Prince of Monaco",
+                  "text": "A museum showcasing the extensive personal vintage car collection of the Prince of Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Oceanographic Museum of Monaco",
+                  "text": "A world-renowned museum and aquarium dedicated to marine sciences, founded by Prince Albert I.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "An ancient Roman monument in La Turbie built to celebrate Emperor Augustus' victory over Alpine tribes.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "A modern theatre in Monaco offering a variety of cultural performances and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "A 17th-century baroque chapel in Monaco-Ville known for its ornate interior and religious heritage.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "A historic chapel dedicated to the patron saint of Monaco, located in the Vallat des Gaumates.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "A 19th-century Renaissance-style church in Monte Carlo known for its tall bell tower and elegant architecture.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "A modern Catholic church located in the Fontvieille district of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "A church in Monaco dedicated to Saint Therese, offering a place for worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "The central place of worship for the Jewish community in the Principality of Monaco.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "An opulent opera house designed by Charles Garnier, hosting prestigious musical performances.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "A serene and beautifully landscaped traditional Japanese garden located by the Mediterranean Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "A 550-meter high rock promontory offering spectacular views over Monaco and the French Riviera.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "A famous botanical garden cliffside in Monaco featuring a huge collection of succulent plants.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Zoological Garden of Monaco",
+                  "text": "A zoo founded by Prince Rainier III, focusing on animals donated or rescued.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "A Catholic church in Fontvieille serving the local religious community.",
+                  "category": "religious",
+                  "coords": [
+                        7.382925,
+                        43.72643
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "A place of worship in Fontvieille dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "This church in Fontvieille is an important place of worship for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "A church in Fontvieille dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "A religious sanctuary in Fontvieille dedicated to Saint Joseph.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "A small chapel in Fontvieille dedicated to Saint Roch.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "A mountain peak near Fontvieille offering a wide view of the area.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Princess Grace Rose Garden",
+                  "text": "This rose garden in Fontvieille was created in memory of Princess Grace.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "A picturesque beach near Fontvieille known for its clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Marquet Beach",
+                  "text": "A family-friendly sandy beach located near the Fontvieille harbor.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "The Car Collection of HSH the Prince of Monaco",
+                  "text": "The exhibition showcases the impressive car collection of the Prince of Monaco.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "A private museum in Cap d'Ail showcasing local history and art.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "An exhibition space in Fontvieille used for various temporary art shows.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "An art gallery in Fontvieille specializing in Formula 1 related themes.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A renowned contemporary art gallery located in the Fontvieille district.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "An 18th-century historic fortress now used as an open-air theatre.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "A modern concert and event hall located in the heart of Fontvieille.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "A small, cozy theatre in Fontvieille offering a variety of performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "An open-air theatre named after Jean Cocteau, located near Fontvieille.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "One of the slowest and most famous corners of the Monaco Formula 1 circuit.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "A sea cave on the coast of Fontvieille, known for its blue light reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "This permanent tent in Fontvieille is the main venue for the International Circus Festival of Monte-Carlo.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "An artificial bathing area in Fontvieille, built directly at the foot of the cliffs.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "An exclusive private beach in Fontvieille belonging to the hotel of the same name.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "A prominent rock above Fontvieille offering a spectacular view over Monaco.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "A location in La Turbie offering an impressive view of Fontvieille, especially at night.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "An orientation table on Mont des Mules with a panoramic view over Fontvieille and the sea.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "A luxury wellness and thermal facility in Monaco, known for its seawater therapies.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage naturiste des Pissarelles",
+                  "text": "A secluded naturist beach near Fontvieille, surrounded by steep cliffs.",
+                  "category": "recreational",
+                  "coords": [
+                        7.38399,
+                        43.722955
+                  ]
+            },
+            {
+                  "name": "Plage de Saint-Laurent d'Èze",
+                  "text": "A quiet pebble beach near Fontvieille, ideal for relaxing away from the crowds.",
+                  "category": "recreational",
+                  "coords": [
+                        7.381343,
+                        43.722254
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-monaco",
     coords: [7.4172, 43.7297],
@@ -195,7 +5082,1636 @@ export const monacoDistricts: POI[] = [
     },
   },
   {
-    id: "district-la-condamine",
+    id: "district-la-condamine", "sights": {
+      "de": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "The Cars collection of HSH the Prince of Monaco ist ein Automobilmuseum in La Condamine. Es zeigt eine bedeutende Sammlung von klassischen und historischen Fahrzeugen.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Ozeanographisches Museum Monaco",
+                  "text": "Das Oceanographic Museum of Monaco ist ein Museum für Meereswissenschaften in La Condamine. Es bietet umfangreiche Ausstellungen zur Ozeanographie und zum Meeresleben.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "La Vigie ist ein historisches Herrenhaus in La Condamine. Es ist ein bemerkenswerter architektonischer Wohnsitz in der Gegend.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Das Trophée des Alpes ist ein römisches Denkmal in der Nähe von La Condamine. Es ist ein antikes Bauwerk, das an die römische Geschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Das Théatre Princesse Grace ist ein Theater für darstellende Künste in La Condamine. Es beherbergt verschiedene Theaterproduktionen und kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Die Chapelle de la Miséricorde ist eine historische Kultstätte in La Condamine. Sie dient als traditionelles religiöses Gebäude.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Die Chapelle Sainte-Dévote ist eine Pfarrkirche und Kultstätte in La Condamine. Sie ist eine wichtige religiöse Stätte für die lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Die Église Saint-Charles ist eine bemerkenswerte Kultstätte in La Condamine. Sie ist eine prominente Kirche, die der Gegend dient.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Die Église Saint-Nicolas ist eine Kultstätte in La Condamine. Sie bietet einen Rahmen für religiöse Versammlungen.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Die Église des Carmes ist eine Kultstätte in La Condamine. Sie fungiert als Kirche für lokale Gläubige.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Die Synagogue de Monaco ist eine jüdische Kultstätte in La Condamine. Sie dient der lokalen jüdischen Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Die Opéra de Monaco ist ein Opernhaus und eine Hauptattraktion in La Condamine. Sie beherbergt prominente musikalische und theatralische Aufführungen.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanischer Garten",
+                  "text": "Der Japanese Garden ist eine landschaftlich gestaltete Attraktion in La Condamine. Er bietet traditionelle japanische Gartenelemente und Wasserspiele.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "La Tête de Chien ist ein bemerkenswerter Berggipfel, der sich über La Condamine erhebt. Er bietet einen herrlichen Blick über das Fürstentum und die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Exotischer Garten",
+                  "text": "Der Jardin Exotique ist ein botanischer Garten in La Condamine. Er ist auf Sukkulenten aus verschiedenen Trockenregionen spezialisiert.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Der Zoologische Garten von Monaco ist ein bekannter Zoo in La Condamine, der eine Sammlung verschiedener Tiere zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Die Église Notre Dame du Cap Fleuri ist eine religiöse Stätte in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Die Église Saint-Martin ist eine religiöse Stätte in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Die Église du Sacré Coeur ist eine religiöse Stätte in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Das Sanctuaire Saint-Joseph ist eine religiöse Stätte in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Die Chapelle Saint-Roch ist eine religiöse Stätte in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille ist ein Berggipfel in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Der Princess Grace Rose Garden ist ein Garten in La Condamine.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala ist ein Strand in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Marquet Beach ist ein Strand in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "The Car Collection of HSH the Prince of Monaco ist ein Museum in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Die Villa les Camélias ist ein Museum in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Die Exhibition Hall ist eine Ausstellungsstätte in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Monalisa motorsport gallery formula 1 ist eine Kunstgalerie in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth ist eine Kunstgalerie in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er ist eine Festung in La Condamine.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Das Auditorium Rainier III ist ein Theater und Veranstaltungsort in La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Das Théâtre des Muses ist ein Theater in La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Das Théâtre de plein air Jean Cocteau ist ein Theater in La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Die Fairmont-Haarnadelkurve ist eine Touristenattraktion in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Die Grotte Bleue ist eine Touristenattraktion in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Das Chapiteau de Fontvieille ist eine Touristenattraktion in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium ist eine Attraktion in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach ist eine Attraktion in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien ist ein Aussichtspunkt in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie ist ein Aussichtspunkt in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Table d'Orientation du Mont des Mules ist ein Aussichtspunkt in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo ist ein Wasserpark und Spa in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) ist ein Strand in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Plage_de_Bon_Voyage ist ein Strand in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "A The Cars collection of HSH the Prince of Monaco egy autómúzeum La Condamine-ben. Klasszikus és veterán járművek jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Az Oceanographic Museum of Monaco egy tengertudományi múzeum La Condamine-ben. Kiterjedt kiállításokkal rendelkezik az óceánográfiáról és a tengeri életről.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "A La Vigie egy történelmi kastély La Condamine-ben. Figyelemre méltó építészeti rezidencia a környéken.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "A Trophée des Alpes egy római emlékmű La Condamine közelében. Ez egy ókori építmény, amely a római történelemnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "A Théatre Princesse Grace egy előadó-művészeti színház La Condamine-ben. Különféle színházi produkcióknak és kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "A Chapelle de la Miséricorde egy történelmi istentiszteleti hely La Condamine-ben. Hagyományos vallási épületként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "A Chapelle Sainte-Dévote egy plébániatemplom és istentiszteleti hely La Condamine-ben. Fontos vallási helyszín a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Az Église Saint-Charles egy jelentős istentiszteleti hely La Condamine-ben. Ez egy kiemelkedő templom, amely a területet szolgálja ki.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Az Église Saint-Nicolas egy istentiszteleti hely La Condamine-ben. Vallási összejövetelek helyszínéül szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Az Église des Carmes egy istentiszteleti hely La Condamine-ben. Templomként működik a helyi hívők számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "A Synagogue de Monaco egy zsidó istentiszteleti hely La Condamine-ben. A helyi zsidó közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Az Opéra de Monaco egy operaház és fő látványosság La Condamine-ben. Kiemelkedő zenei és színházi előadásoknak ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "A Japanese Garden egy parkosított látványosság La Condamine-ben. Hagyományos japán kertészeti elemekkel és vízi jellemzőkkel rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "A La Tête de Chien egy jelentős hegycsúcs, amely La Condamine fölé magasodik. Pazar kilátást nyújt a hercegségre és a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "A Jardin Exotique egy botanikus kert La Condamine-ben. Különböző száraz régiókból származó pozsgás növényekre specializálódott.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "A Monacói Állatkert egy nevezetes állatkert La Condamine-ban, amely változatos állatgyűjteményt mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Az Église Notre Dame du Cap Fleuri egy istentiszteleti hely La Condamine-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Az Église Saint-Martin egy istentiszteleti hely La Condamine-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Az Église du Sacré Coeur egy istentiszteleti hely La Condamine-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "A Sanctuaire Saint-Joseph egy istentiszteleti hely La Condamine-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "A Chapelle Saint-Roch egy istentiszteleti hely La Condamine-ban.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "A Mont de la Bataille egy hegycsúcs La Condamine-ban.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "A Princess Grace Rose Garden egy kert La Condamine-ban.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "A Plage de la Mala egy strand La Condamine-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "A Marquet Beach egy strand La Condamine-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "A Monacói Herceg Autógyűjteménye egy múzeum La Condamine-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "A Villa les Camélias egy múzeum La Condamine-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Az Exhibition Hall egy múzeumként szolgáló kiállítótér La Condamine-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "A Monalisa motorsport gallery formula 1 egy művészeti galéria La Condamine-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "A Hauser & Wirth egy művészeti galéria La Condamine-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "A Fort Antoine 1er egy erőd La Condamine-ban.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Az Auditorium Rainier III egy színházi előadóterem La Condamine-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "A Théâtre des Muses egy színház La Condamine-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "A Théâtre de plein air Jean Cocteau egy színház La Condamine-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "A Fairmont hajtűkanyar egy turisztikai látványosság La Condamine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "A Grotte Bleue egy turisztikai látványosság La Condamine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "A Chapiteau de Fontvieille egy turisztikai látványosság La Condamine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "A Plage du Solarium egy látványosság La Condamine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "A Le Méridien • Beach egy látványosság La Condamine-ban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "A Tête de Chien egy kilátó La Condamine-ban.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "A Nuit à la turbie egy kilátó La Condamine-ban.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "A Table d'Orientation du Mont des Mules egy kilátó La Condamine-ban.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "A Thermes Marins Monte-Carlo egy élményfürdő La Condamine-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "A Plage Pointe des Douaniers (Est) egy strand La Condamine-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "A Plage_de_Bon_Voyage egy strand La Condamine-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "La Collection de voitures anciennes de SAS le Prince de Monaco",
+                  "text": "The Cars collection of HSH the Prince of Monaco este un muzeu de automobile situat în La Condamine. Prezintă o colecție semnificativă de vehicule clasice și de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Musée Océanographique",
+                  "text": "Oceanographic Museum of Monaco este un muzeu de științe marine situat în La Condamine. Prezintă expoziții extinse despre oceanografie și viața marină.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "La Vigie este un conac istoric situat în La Condamine. Este o reședință arhitecturală notabilă în zonă.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Trophée des Alpes este un monument roman situat lângă La Condamine. Este o structură antică ce comemorează istoria romană.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Théatre Princesse Grace este un teatru de artele spectacolului din La Condamine. Găzduiește diverse producții teatrale și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Chapelle de la Miséricorde este un lăcaș de cult istoric situat în La Condamine. Acesta servește ca o clădire religioasă tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Chapelle Sainte-Dévote este o biserică parohială și un lăcaș de cult în La Condamine. Este un loc religios important pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Église Saint-Charles este un lăcaș de cult notabil situat în La Condamine. Este o biserică proeminentă care deservește zona.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Église Saint-Nicolas este un lăcaș de cult situat în La Condamine. Oferă un cadru pentru adunări religioase.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Église des Carmes este un lăcaș de cult situat în La Condamine. Funcționează ca o biserică pentru credincioșii locali.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Synagogue de Monaco este un lăcaș de cult evreiesc din La Condamine. Acesta servește comunitatea evreiască locală.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Opéra de Monaco este o operă și o atracție majoră în La Condamine. Găzduiește spectacole muzicale și teatrale proeminente.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Jardin Japonais",
+                  "text": "Japanese Garden este o atracție peisagistică situată în La Condamine. Prezintă elemente horticole japoneze tradiționale și jocuri de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "La Tête de Chien este un vârf de munte notabil care se înalță deasupra La Condamine. Oferă vederi panoramice asupra principatului și a coastei.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "Jardin Exotique este o grădină botanică situată în La Condamine. Este specializată în plante suculente din diverse regiuni aride.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Jardin animalier de Monaco",
+                  "text": "Grădina Zoologică din Monaco este o grădină zoologică notabilă situată în La Condamine, prezentând o colecție diversă de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Église Notre Dame du Cap Fleuri este un lăcaș de cult situat în La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin este un lăcaș de cult situat în La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Église du Sacré Coeur este un lăcaș de cult situat în La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Sanctuaire Saint-Joseph este un lăcaș de cult situat în La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Chapelle Saint-Roch este un lăcaș de cult situat în La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille este un vârf de munte situat în La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Roseraie Princesse Grace",
+                  "text": "Princess Grace Rose Garden este o grădină situată în La Condamine.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala este o plajă situată în La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Plage Marquet",
+                  "text": "Marquet Beach este o plajă situată în La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "La Collection de Voitures de SAS le Prince de Monaco",
+                  "text": "The Car Collection of HSH the Prince of Monaco este un muzeu situat în La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias este un muzeu situat în La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Salle d'Exposition",
+                  "text": "Exhibition Hall este un spațiu expozițional tip muzeu situat în La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Monalisa motorsport gallery formula 1 este o galerie de artă situată în La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth este o galerie de artă situată în La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er este un fort situat în La Condamine.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Auditorium Rainier III este un teatru și o sală de spectacole situată în La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Théâtre des Muses este un teatru situat în La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Théâtre de plein air Jean Cocteau este un teatru situat în La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Fairmont Hairpin este o atracție turistică situată în La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Grotte Bleue este o atracție turistică situată în La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Chapiteau de Fontvieille este o atracție turistică situată în La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium este o atracție situată în La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach este o atracție situată în La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien este un punct de belvedere situat în La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie este un punct de belvedere situat în La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Table d'Orientation du Mont des Mules este un punct de belvedere situat în La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo este un parc acvatic situat în La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) este o plajă situată în La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Plage_de_Bon_Voyage este o plajă situată în La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Cars collection of HSH the Prince of Monaco",
+                  "text": "The Cars collection of HSH the Prince of Monaco is an automobile museum located in La Condamine. It showcases a significant collection of classic and vintage vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        7.417149,
+                        43.730894
+                  ]
+            },
+            {
+                  "name": "Oceanographic Museum of Monaco",
+                  "text": "The Oceanographic Museum of Monaco is a marine sciences museum located in La Condamine. It features extensive exhibits on oceanography and marine life.",
+                  "category": "museum",
+                  "coords": [
+                        7.425534,
+                        43.730663
+                  ]
+            },
+            {
+                  "name": "La Vigie",
+                  "text": "La Vigie is a historic manor situated in La Condamine. It is a notable architectural residence in the area.",
+                  "category": "historical",
+                  "coords": [
+                        7.445138,
+                        43.751294
+                  ]
+            },
+            {
+                  "name": "Trophée des Alpes",
+                  "text": "Trophée des Alpes is a Roman monument located near La Condamine. It is an ancient structure commemorating Roman history.",
+                  "category": "historical",
+                  "coords": [
+                        7.401756,
+                        43.744794
+                  ]
+            },
+            {
+                  "name": "Théatre Princesse Grace",
+                  "text": "Théatre Princesse Grace is a performing arts theatre in La Condamine. It hosts various theatrical productions and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.426034,
+                        43.737651
+                  ]
+            },
+            {
+                  "name": "Chapelle de la Miséricorde",
+                  "text": "Chapelle de la Miséricorde is a historical place of worship located in La Condamine. It serves as a traditional religious building.",
+                  "category": "religious",
+                  "coords": [
+                        7.423412,
+                        43.731204
+                  ]
+            },
+            {
+                  "name": "Chapelle Sainte-Dévote",
+                  "text": "Chapelle Sainte-Dévote is a parish church and place of worship in La Condamine. It is an important religious site for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        7.420924,
+                        43.737517
+                  ]
+            },
+            {
+                  "name": "Église Saint-Charles",
+                  "text": "Église Saint-Charles is a notable place of worship situated in La Condamine. It is a prominent church serving the area.",
+                  "category": "religious",
+                  "coords": [
+                        7.427297,
+                        43.742623
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas",
+                  "text": "Église Saint-Nicolas is a place of worship located in La Condamine. It provides a setting for religious gatherings.",
+                  "category": "religious",
+                  "coords": [
+                        7.418268,
+                        43.728015
+                  ]
+            },
+            {
+                  "name": "Église des Carmes",
+                  "text": "Église des Carmes is a place of worship situated in La Condamine. It functions as a church for local worshippers.",
+                  "category": "religious",
+                  "coords": [
+                        7.434805,
+                        43.748799
+                  ]
+            },
+            {
+                  "name": "Synagogue de Monaco",
+                  "text": "Synagogue de Monaco is a Jewish place of worship in La Condamine. It serves the local Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        7.423414,
+                        43.737982
+                  ]
+            },
+            {
+                  "name": "Opéra de Monaco",
+                  "text": "Opéra de Monaco is an opera house and major attraction in La Condamine. It hosts prominent musical and theatrical performances.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428371,
+                        43.738959
+                  ]
+            },
+            {
+                  "name": "Japanese Garden",
+                  "text": "The Japanese Garden is a landscaped attraction located in La Condamine. It features traditional Japanese horticultural elements and water features.",
+                  "category": "landmark",
+                  "coords": [
+                        7.431017,
+                        43.742274
+                  ]
+            },
+            {
+                  "name": "La Tête de Chien",
+                  "text": "La Tête de Chien is a notable mountain peak rising above La Condamine. It offers commanding views over the principality and coastline.",
+                  "category": "natural",
+                  "coords": [
+                        7.402729,
+                        43.73181
+                  ]
+            },
+            {
+                  "name": "Jardin Exotique",
+                  "text": "Jardin Exotique is a botanical garden located in La Condamine. It specializes in succulent plants from various dry regions.",
+                  "category": "park",
+                  "coords": [
+                        7.413824,
+                        43.731307
+                  ]
+            },
+            {
+                  "name": "Zoological Garden of Monaco",
+                  "text": "The Zoological Garden of Monaco is a notable zoo located in La Condamine, showcasing a collection of diverse animals.",
+                  "category": "recreational",
+                  "coords": [
+                        7.418647,
+                        43.73116
+                  ]
+            },
+            {
+                  "name": "Église Notre Dame du Cap Fleuri",
+                  "text": "Église Notre Dame du Cap Fleuri is a place of worship located in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.404769,
+                        43.721713
+                  ]
+            },
+            {
+                  "name": "Église Saint-Martin",
+                  "text": "Église Saint-Martin is a place of worship located in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.416361,
+                        43.733072
+                  ]
+            },
+            {
+                  "name": "Église du Sacré Coeur",
+                  "text": "Église du Sacré Coeur is a place of worship located in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.417524,
+                        43.73769
+                  ]
+            },
+            {
+                  "name": "Sanctuaire Saint-Joseph",
+                  "text": "Sanctuaire Saint-Joseph is a place of worship located in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.427556,
+                        43.744926
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Roch",
+                  "text": "Chapelle Saint-Roch is a place of worship located in La Condamine.",
+                  "category": "religious",
+                  "coords": [
+                        7.411999,
+                        43.749262
+                  ]
+            },
+            {
+                  "name": "Mont de la Bataille",
+                  "text": "Mont de la Bataille is a mountain peak located in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.400063,
+                        43.750312
+                  ]
+            },
+            {
+                  "name": "Princess Grace Rose Garden",
+                  "text": "Princess Grace Rose Garden is a garden located in La Condamine.",
+                  "category": "park",
+                  "coords": [
+                        7.419286,
+                        43.727218
+                  ]
+            },
+            {
+                  "name": "Plage de la Mala",
+                  "text": "Plage de la Mala is a beach located in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.390088,
+                        43.722384
+                  ]
+            },
+            {
+                  "name": "Marquet Beach",
+                  "text": "Marquet Beach is a beach located in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.411928,
+                        43.724175
+                  ]
+            },
+            {
+                  "name": "The Car Collection of HSH the Prince of Monaco",
+                  "text": "The Car Collection of HSH the Prince of Monaco is a museum located in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.421568,
+                        43.735173
+                  ]
+            },
+            {
+                  "name": "Villa les Camélias",
+                  "text": "Villa les Camélias is a museum located in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.397854,
+                        43.720628
+                  ]
+            },
+            {
+                  "name": "Exhibition Hall",
+                  "text": "The Exhibition Hall is a museum space located in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.424781,
+                        43.732675
+                  ]
+            },
+            {
+                  "name": "Monalisa motorsport gallery formula 1",
+                  "text": "Monalisa motorsport gallery formula 1 is an art gallery located in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.419563,
+                        43.728506
+                  ]
+            },
+            {
+                  "name": "Hauser & Wirth",
+                  "text": "Hauser & Wirth is an art gallery located in La Condamine.",
+                  "category": "museum",
+                  "coords": [
+                        7.425897,
+                        43.739714
+                  ]
+            },
+            {
+                  "name": "Fort Antoine 1er",
+                  "text": "Fort Antoine 1er is a fort located in La Condamine.",
+                  "category": "fortress",
+                  "coords": [
+                        7.427931,
+                        43.733064
+                  ]
+            },
+            {
+                  "name": "Auditorium Rainier III",
+                  "text": "Auditorium Rainier III is a theatre venue located in La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.429406,
+                        43.738352
+                  ]
+            },
+            {
+                  "name": "Théâtre des Muses",
+                  "text": "Théâtre des Muses is a theatre located in La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.416245,
+                        43.736791
+                  ]
+            },
+            {
+                  "name": "Théâtre de plein air Jean Cocteau",
+                  "text": "Théâtre de plein air Jean Cocteau is a theatre located in La Condamine.",
+                  "category": "cultural",
+                  "coords": [
+                        7.402131,
+                        43.723072
+                  ]
+            },
+            {
+                  "name": "Fairmont Hairpin",
+                  "text": "Fairmont Hairpin is a tourist attraction located in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.4298,
+                        43.740206
+                  ]
+            },
+            {
+                  "name": "Grotte Bleue",
+                  "text": "Grotte Bleue is a tourist attraction located in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.433676,
+                        43.74247
+                  ]
+            },
+            {
+                  "name": "Chapiteau de Fontvieille",
+                  "text": "Chapiteau de Fontvieille is a tourist attraction located in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.418794,
+                        43.726305
+                  ]
+            },
+            {
+                  "name": "Plage du Solarium",
+                  "text": "Plage du Solarium is an attraction located in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.428847,
+                        43.733434
+                  ]
+            },
+            {
+                  "name": "Le Méridien • Beach",
+                  "text": "Le Méridien • Beach is an attraction located in La Condamine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.436189,
+                        43.747539
+                  ]
+            },
+            {
+                  "name": "Tête de Chien",
+                  "text": "Tête de Chien is a viewpoint located in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.402781,
+                        43.730263
+                  ]
+            },
+            {
+                  "name": "Nuit à la turbie",
+                  "text": "Nuit à la turbie is a viewpoint located in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.399663,
+                        43.737738
+                  ]
+            },
+            {
+                  "name": "Table d'Orientation du Mont des Mules",
+                  "text": "Table d'Orientation du Mont des Mules is a viewpoint located in La Condamine.",
+                  "category": "natural",
+                  "coords": [
+                        7.422012,
+                        43.74627
+                  ]
+            },
+            {
+                  "name": "Thermes Marins Monte-Carlo",
+                  "text": "Thermes Marins Monte-Carlo is a water park facility located in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.427069,
+                        43.737755
+                  ]
+            },
+            {
+                  "name": "Plage Pointe des Douaniers (Est)",
+                  "text": "Plage Pointe des Douaniers (Est) is a beach located in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.405621,
+                        43.719673
+                  ]
+            },
+            {
+                  "name": "Plage_de_Bon_Voyage",
+                  "text": "Plage_de_Bon_Voyage is a beach located in La Condamine.",
+                  "category": "recreational",
+                  "coords": [
+                        7.448012,
+                        43.753679
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-monaco",
     coords: [7.4203, 43.7356],

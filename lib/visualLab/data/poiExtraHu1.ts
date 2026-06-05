@@ -163,6 +163,429 @@ export const poiExtraHu1: POI[] = [
                         19.025747,
                         47.528484
                   ]
+            },
+            {
+                  "name": "Fürdőmúzeum",
+                  "text": "Ein Museum in Óbuda, das der Geschichte der römischen Badekultur gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        19.04118,
+                        47.541171
+                  ]
+            },
+            {
+                  "name": "Kiscelli Múzeum",
+                  "text": "Ein Museum in Óbuda, das sich in einem ehemaligen Kloster befindet und städtische Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.0281,
+                        47.538047
+                  ]
+            },
+            {
+                  "name": "Goldberger Textilipari Gyűjtemény",
+                  "text": "Ein Museum in Óbuda über die Geschichte der berühmten ungarischen Goldberger-Textilfabrik.",
+                  "category": "museum",
+                  "coords": [
+                        19.043195,
+                        47.535808
+                  ]
+            },
+            {
+                  "name": "Radnóti Miklós Művelődési Központ",
+                  "text": "Ein Galerie- und Kulturzentrum in Óbuda.",
+                  "category": "museum",
+                  "coords": [
+                        19.056545,
+                        47.523044
+                  ]
+            },
+            {
+                  "name": "AQUINCUM CASTRUM",
+                  "text": "Eine bedeutende antike römische archäologische Stätte in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.040533,
+                        47.542489
+                  ]
+            },
+            {
+                  "name": "Marcus Antonius Victorinus mithraeuma",
+                  "text": "Eine archäologische Stätte in Óbuda, die einen antiken römischen Mithras-Tempel umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        19.05025,
+                        47.563863
+                  ]
+            },
+            {
+                  "name": "Hadrianus-palota",
+                  "text": "Die archäologischen Überreste des römischen Statthalterpalastes in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.050407,
+                        47.547969
+                  ]
+            },
+            {
+                  "name": "Óbudai királyi vár",
+                  "text": "Die Ruinen einer ehemaligen königlichen Burg in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.041882,
+                        47.539441
+                  ]
+            },
+            {
+                  "name": "Hercules-villa",
+                  "text": "Eine archäologische Stätte in Óbuda, die römische Mosaiken mit der Darstellung von Herkules aufweist.",
+                  "category": "historical",
+                  "coords": [
+                        19.039831,
+                        47.548859
+                  ]
+            },
+            {
+                  "name": "Dominikanerkloster",
+                  "text": "Die Ruinen eines historischen Dominikanerklosters in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.051292,
+                        47.529019
+                  ]
+            },
+            {
+                  "name": "Freiluftbühne",
+                  "text": "Ein Freilufttheater in Óbuda, das oft für Sommeraufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        19.050096,
+                        47.529846
+                  ]
+            },
+            {
+                  "name": "József Attila Színház",
+                  "text": "Ein Theater in Óbuda, benannt nach dem ungarischen Dichter Attila József.",
+                  "category": "cultural",
+                  "coords": [
+                        19.067588,
+                        47.531482
+                  ]
+            },
+            {
+                  "name": "Szent Ágoston-kápolna",
+                  "text": "Eine religiöse Kapelle in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.049262,
+                        47.515886
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "Ein Standort der Scientology-Kirche in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Margaretenkirche",
+                  "text": "Eine Kirche in Óbuda, die der Heiligen Margareta von Ungarn gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.060611,
+                        47.516843
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-kápolna",
+                  "text": "Eine historische Kirche des Prämonstratenserordens in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.051577,
+                        47.530829
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "Eine Kirche in Óbuda, die dem Heiligen Martin von Tours gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Pozsonyi úti református templom",
+                  "text": "Eine reformierte Kirche an der Pozsonyi-Straße in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.052964,
+                        47.521832
+                  ]
+            },
+            {
+                  "name": "Frankel Leó úti zsinagóga",
+                  "text": "Eine Synagoge an der Frankel-Leó-Straße in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.037559,
+                        47.521524
+                  ]
+            },
+            {
+                  "name": "Sarlós Boldogasszony-templom",
+                  "text": "Eine römisch-katholische Pfarrkirche in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.037093,
+                        47.527435
+                  ]
+            },
+            {
+                  "name": "Lagerberg-Höhle",
+                  "text": "Eine natürliche Höhlenattraktion in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011914,
+                        47.550161
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "Eine Bucht und ein Erholungsgebiet in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Musikbrunnen",
+                  "text": "Ein musikalischer Springbrunnen und Attraktion in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044815,
+                        47.518788
+                  ]
+            },
+            {
+                  "name": "Musikbrunnen",
+                  "text": "Eine musikalische Wasserattraktion in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052119,
+                        47.535266
+                  ]
+            },
+            {
+                  "name": "K-brücke",
+                  "text": "Eine bekannte Brücke in Óbuda, die als Attraktion gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        19.04878,
+                        47.552031
+                  ]
+            },
+            {
+                  "name": "Lehel Csarnok",
+                  "text": "Eine große und lebhafte Markthalle in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06137,
+                        47.51846
+                  ]
+            },
+            {
+                  "name": "Árpádbrücke",
+                  "text": "Eine bedeutende Brücke, die Óbuda mit anderen Stadtteilen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052555,
+                        47.537823
+                  ]
+            },
+            {
+                  "name": "Királylaki-barlang",
+                  "text": "Ein Höhleneingang in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009144,
+                        47.552444
+                  ]
+            },
+            {
+                  "name": "Remete-hegy",
+                  "text": "Ein Berggipfel in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.013429,
+                        47.541214
+                  ]
+            },
+            {
+                  "name": "Mátyás-hegy",
+                  "text": "Ein Berggipfel in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.02,
+                        47.535396
+                  ]
+            },
+            {
+                  "name": "Lagerberg",
+                  "text": "Ein Berggipfel in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009743,
+                        47.548768
+                  ]
+            },
+            {
+                  "name": "József-hegy",
+                  "text": "Ein Berggipfel in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.027334,
+                        47.523765
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegyi-barlang",
+                  "text": "Ein Höhleneingang in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009614,
+                        47.526505
+                  ]
+            },
+            {
+                  "name": "Molnár János-barlang",
+                  "text": "Ein Höhleneingang in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.035933,
+                        47.518132
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegy",
+                  "text": "Ein Berggipfel in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.013101,
+                        47.527366
+                  ]
+            },
+            {
+                  "name": "Látó-hegyi-barlang",
+                  "text": "Ein Höhleneingang in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.010257,
+                        47.5385
+                  ]
+            },
+            {
+                  "name": "Áfonya utcai-barlang",
+                  "text": "Ein Höhleneingang in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.025979,
+                        47.522834
+                  ]
+            },
+            {
+                  "name": "Flórián tér",
+                  "text": "Flórián tér ist ein bekannter Park und öffentlicher Platz in Óbuda.",
+                  "category": "park",
+                  "coords": [
+                        19.039096,
+                        47.540833
+                  ]
+            },
+            {
+                  "name": "Kolosy tér",
+                  "text": "Kolosy tér ist ein bekannter Park und zentraler Platz in der Stadt Óbuda.",
+                  "category": "park",
+                  "coords": [
+                        19.038361,
+                        47.527917
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Diese Ruinen einer Franziskanerkirche sind eine bemerkenswerte historische Stätte in Óbuda auf der Margareteninsel.",
+                  "category": "historical",
+                  "coords": [
+                        19.046606,
+                        47.525326
+                  ]
+            },
+            {
+                  "name": "Budapest Galéria",
+                  "text": "Die Budapest Galéria ist eine Kunstgalerie in Óbuda.",
+                  "category": "museum",
+                  "coords": [
+                        19.044793,
+                        47.537383
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "Szent Mihály-templom ist eine lokale Kultstätte in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Szépvölgyi úti körmeneti kápolna",
+                  "text": "Szépvölgyi úti körmeneti kápolna ist eine Kapelle in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.033073,
+                        47.528066
+                  ]
+            },
+            {
+                  "name": "Óbudai Evangélikus Egyházközség",
+                  "text": "Óbudai Evangélikus Egyházközség ist eine Kultstätte in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.039391,
+                        47.536964
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Szentháromság-templom ist eine Kultstätte in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.032416,
+                        47.546016
+                  ]
+            },
+            {
+                  "name": "Sziget Fesztivál",
+                  "text": "Das Sziget Festival ist eine Touristenattraktion in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "Mátyáshegyi-barlang",
+                  "text": "Mátyáshegyi-barlang ist ein Höhleneingang, den Besucher in Óbuda erkunden können.",
+                  "category": "natural",
+                  "coords": [
+                        19.017838,
+                        47.533693
+                  ]
             }
       ],
       "hu": [
@@ -281,6 +704,429 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.025747,
                         47.528484
+                  ]
+            },
+            {
+                  "name": "Fürdőmúzeum",
+                  "text": "Egy múzeum Óbudán, amely a római fürdőkultúra történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.04118,
+                        47.541171
+                  ]
+            },
+            {
+                  "name": "Kiscelli Múzeum",
+                  "text": "Egy múzeum Óbudán, amely egy egykori kolostorban kapott helyet, és várostörténeti kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        19.0281,
+                        47.538047
+                  ]
+            },
+            {
+                  "name": "Goldberger Textilipari Gyűjtemény",
+                  "text": "Egy múzeum Óbudán, amely a híres magyar Goldberger textilgyár történetéről szól.",
+                  "category": "museum",
+                  "coords": [
+                        19.043195,
+                        47.535808
+                  ]
+            },
+            {
+                  "name": "Radnóti Miklós Művelődési Központ",
+                  "text": "Egy galéria és kulturális központ Óbudán.",
+                  "category": "museum",
+                  "coords": [
+                        19.056545,
+                        47.523044
+                  ]
+            },
+            {
+                  "name": "AQUINCUM CASTRUM",
+                  "text": "Egy jelentős ókori római régészeti lelőhely Óbudán.",
+                  "category": "historical",
+                  "coords": [
+                        19.040533,
+                        47.542489
+                  ]
+            },
+            {
+                  "name": "Marcus Antonius Victorinus mithraeuma",
+                  "text": "Egy régészeti lelőhely Óbudán, amely egy ókori római Mithras-szentélyt foglal magában.",
+                  "category": "historical",
+                  "coords": [
+                        19.05025,
+                        47.563863
+                  ]
+            },
+            {
+                  "name": "Hadrianus-palota",
+                  "text": "A római helytartói palota régészeti maradványai Óbudán.",
+                  "category": "historical",
+                  "coords": [
+                        19.050407,
+                        47.547969
+                  ]
+            },
+            {
+                  "name": "Óbudai királyi vár",
+                  "text": "Egy egykori királyi vár romjai Óbudán.",
+                  "category": "historical",
+                  "coords": [
+                        19.041882,
+                        47.539441
+                  ]
+            },
+            {
+                  "name": "Hercules-villa",
+                  "text": "Egy régészeti lelőhely Óbudán, amely Herkulest ábrázoló római mozaikjairól híres.",
+                  "category": "historical",
+                  "coords": [
+                        19.039831,
+                        47.548859
+                  ]
+            },
+            {
+                  "name": "Domonkos kolostor",
+                  "text": "Egy történelmi domonkos kolostor romjai Óbudán.",
+                  "category": "historical",
+                  "coords": [
+                        19.051292,
+                        47.529019
+                  ]
+            },
+            {
+                  "name": "Szabadtéri Színpad",
+                  "text": "Egy szabadtéri színház Óbudán, amelyet gyakran nyári előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        19.050096,
+                        47.529846
+                  ]
+            },
+            {
+                  "name": "József Attila Színház",
+                  "text": "Egy színház Óbudán, amelyet József Attila magyar költőről neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        19.067588,
+                        47.531482
+                  ]
+            },
+            {
+                  "name": "Szent Ágoston-kápolna",
+                  "text": "Egy vallási kápolna Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.049262,
+                        47.515886
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "A Szcientológia Egyház egyik helyszíne Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Szent Margit-templom",
+                  "text": "Egy templom Óbudán, amelyet Árpád-házi Szent Margitnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        19.060611,
+                        47.516843
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-kápolna",
+                  "text": "A premontrei rend történelmi temploma Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.051577,
+                        47.530829
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "Egy templom Óbudán, amelyet Tours-i Szent Mártonnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Pozsonyi úti református templom",
+                  "text": "Egy református templom a Pozsonyi úton Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.052964,
+                        47.521832
+                  ]
+            },
+            {
+                  "name": "Frankel Leó úti zsinagóga",
+                  "text": "Egy zsinagóga a Frankel Leó úton Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.037559,
+                        47.521524
+                  ]
+            },
+            {
+                  "name": "Sarlós Boldogasszony-templom",
+                  "text": "Egy római katolikus plébániatemplom Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.037093,
+                        47.527435
+                  ]
+            },
+            {
+                  "name": "Táborhegyi-barlang",
+                  "text": "Egy természetes barlangi látványosság Óbudán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011914,
+                        47.550161
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "Egy öböl és pihenőövezet Óbudán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Zenélő szökőkút",
+                  "text": "Egy zenélő szökőkút és látványosság Óbudán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044815,
+                        47.518788
+                  ]
+            },
+            {
+                  "name": "Zenélő kút",
+                  "text": "Egy zenélő vízi látványosság Óbudán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052119,
+                        47.535266
+                  ]
+            },
+            {
+                  "name": "K-híd",
+                  "text": "Egy jól ismert híd Óbudán, amely látványosságnak számít.",
+                  "category": "landmark",
+                  "coords": [
+                        19.04878,
+                        47.552031
+                  ]
+            },
+            {
+                  "name": "Lehel Csarnok",
+                  "text": "Egy nagy és forgalmas vásárcsarnok Óbudán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06137,
+                        47.51846
+                  ]
+            },
+            {
+                  "name": "Árpád híd",
+                  "text": "Egy jelentős híd, amely Óbudát más városrészekkel köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052555,
+                        47.537823
+                  ]
+            },
+            {
+                  "name": "Királylaki-barlang",
+                  "text": "Egy barlangbejárat Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.009144,
+                        47.552444
+                  ]
+            },
+            {
+                  "name": "Remete-hegy",
+                  "text": "Egy hegycsúcs Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.013429,
+                        47.541214
+                  ]
+            },
+            {
+                  "name": "Mátyás-hegy",
+                  "text": "Egy hegycsúcs Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.02,
+                        47.535396
+                  ]
+            },
+            {
+                  "name": "Tábor-hegy",
+                  "text": "Egy hegycsúcs Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.009743,
+                        47.548768
+                  ]
+            },
+            {
+                  "name": "József-hegy",
+                  "text": "Egy hegycsúcs Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.027334,
+                        47.523765
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegyi-barlang",
+                  "text": "Egy barlangbejárat Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.009614,
+                        47.526505
+                  ]
+            },
+            {
+                  "name": "Molnár János-barlang",
+                  "text": "Egy barlangbejárat Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.035933,
+                        47.518132
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegy",
+                  "text": "Egy hegycsúcs Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.013101,
+                        47.527366
+                  ]
+            },
+            {
+                  "name": "Látó-hegyi-barlang",
+                  "text": "Egy barlangbejárat Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.010257,
+                        47.5385
+                  ]
+            },
+            {
+                  "name": "Áfonya utcai-barlang",
+                  "text": "Egy barlangbejárat Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.025979,
+                        47.522834
+                  ]
+            },
+            {
+                  "name": "Flórián tér",
+                  "text": "A Flórián tér egy jelentős park és közterület Óbudán.",
+                  "category": "park",
+                  "coords": [
+                        19.039096,
+                        47.540833
+                  ]
+            },
+            {
+                  "name": "Kolosy tér",
+                  "text": "A Kolosy tér egy jelentős park és központi tér Óbudán.",
+                  "category": "park",
+                  "coords": [
+                        19.038361,
+                        47.527917
+                  ]
+            },
+            {
+                  "name": "Ferences templom",
+                  "text": "A ferences templom romjai jelentős történelmi emlékek Óbudán, a Margit-szigeten.",
+                  "category": "historical",
+                  "coords": [
+                        19.046606,
+                        47.525326
+                  ]
+            },
+            {
+                  "name": "Budapest Galéria",
+                  "text": "A Budapest Galéria egy művészeti galéria Óbudán.",
+                  "category": "museum",
+                  "coords": [
+                        19.044793,
+                        47.537383
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "A Szent Mihály-templom egy helyi istentiszteleti hely Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Szépvölgyi úti körmeneti kápolna",
+                  "text": "A Szépvölgyi úti körmeneti kápolna Óbudán található.",
+                  "category": "religious",
+                  "coords": [
+                        19.033073,
+                        47.528066
+                  ]
+            },
+            {
+                  "name": "Óbudai Evangélikus Egyházközség",
+                  "text": "Az Óbudai Evangélikus Egyházközség egy istentiszteleti hely Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.039391,
+                        47.536964
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "A Szentháromság-templom egy vallási épület Óbudán.",
+                  "category": "religious",
+                  "coords": [
+                        19.032416,
+                        47.546016
+                  ]
+            },
+            {
+                  "name": "Sziget Fesztivál",
+                  "text": "A Sziget Fesztivál egy turisztikai látványosság Óbudán.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "Mátyáshegyi-barlang",
+                  "text": "A Mátyáshegyi-barlang egy látogatható barlangbejárat Óbudán.",
+                  "category": "natural",
+                  "coords": [
+                        19.017838,
+                        47.533693
                   ]
             }
       ],
@@ -401,6 +1247,429 @@ export const poiExtraHu1: POI[] = [
                         19.025747,
                         47.528484
                   ]
+            },
+            {
+                  "name": "Fürdőmúzeum",
+                  "text": "Un muzeu în Óbuda dedicat istoriei culturii balneare romane.",
+                  "category": "museum",
+                  "coords": [
+                        19.04118,
+                        47.541171
+                  ]
+            },
+            {
+                  "name": "Kiscelli Múzeum",
+                  "text": "Un muzeu în Óbuda, situat într-o fostă mănăstire, care prezintă istoria urbană.",
+                  "category": "museum",
+                  "coords": [
+                        19.0281,
+                        47.538047
+                  ]
+            },
+            {
+                  "name": "Goldberger Textilipari Gyűjtemény",
+                  "text": "Un muzeu în Óbuda despre istoria celebrei fabrici de textile Goldberger din Ungaria.",
+                  "category": "museum",
+                  "coords": [
+                        19.043195,
+                        47.535808
+                  ]
+            },
+            {
+                  "name": "Radnóti Miklós Művelődési Központ",
+                  "text": "O galerie și centru cultural în Óbuda.",
+                  "category": "museum",
+                  "coords": [
+                        19.056545,
+                        47.523044
+                  ]
+            },
+            {
+                  "name": "AQUINCUM CASTRUM",
+                  "text": "Un important sit arheologic antic roman în Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.040533,
+                        47.542489
+                  ]
+            },
+            {
+                  "name": "Marcus Antonius Victorinus mithraeuma",
+                  "text": "Un sit arheologic în Óbuda care cuprinde un vechi templu roman Mithraic.",
+                  "category": "historical",
+                  "coords": [
+                        19.05025,
+                        47.563863
+                  ]
+            },
+            {
+                  "name": "Hadrianus-palota",
+                  "text": "Rămășițele arheologice ale palatului guvernatorului roman din Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.050407,
+                        47.547969
+                  ]
+            },
+            {
+                  "name": "Óbudai királyi vár",
+                  "text": "Ruinele unui fost castel regal în Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.041882,
+                        47.539441
+                  ]
+            },
+            {
+                  "name": "Hercules-villa",
+                  "text": "Un sit arheologic în Óbuda, care prezintă mozaicuri romane înfățișându-l pe Hercule.",
+                  "category": "historical",
+                  "coords": [
+                        19.039831,
+                        47.548859
+                  ]
+            },
+            {
+                  "name": "Domonkos kolostor",
+                  "text": "Ruinele unei mănăstiri dominicane istorice din Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.051292,
+                        47.529019
+                  ]
+            },
+            {
+                  "name": "Szabadtéri Színpad",
+                  "text": "Un teatru în aer liber în Óbuda, folosit adesea pentru spectacole de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        19.050096,
+                        47.529846
+                  ]
+            },
+            {
+                  "name": "József Attila Színház",
+                  "text": "Un teatru în Óbuda, numit după poetul maghiar Attila József.",
+                  "category": "cultural",
+                  "coords": [
+                        19.067588,
+                        47.531482
+                  ]
+            },
+            {
+                  "name": "Szent Ágoston-kápolna",
+                  "text": "O capelă religioasă în Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.049262,
+                        47.515886
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "Un loc de cult al Bisericii Scientologice în Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Szent Margit-templom",
+                  "text": "O biserică în Óbuda dedicată Sfintei Margareta a Ungariei.",
+                  "category": "religious",
+                  "coords": [
+                        19.060611,
+                        47.516843
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-kápolna",
+                  "text": "O biserică istorică a ordinului premonstratensian în Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.051577,
+                        47.530829
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "O biserică în Óbuda dedicată Sfântului Martin de Tours.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Pozsonyi úti református templom",
+                  "text": "O biserică reformată pe strada Pozsonyi din Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.052964,
+                        47.521832
+                  ]
+            },
+            {
+                  "name": "Frankel Leó úti zsinagóga",
+                  "text": "O sinagogă pe strada Frankel Leó din Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.037559,
+                        47.521524
+                  ]
+            },
+            {
+                  "name": "Sarlós Boldogasszony-templom",
+                  "text": "O biserică parohială romano-catolică în Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.037093,
+                        47.527435
+                  ]
+            },
+            {
+                  "name": "Táborhegyi-barlang",
+                  "text": "O atracție de peșteră naturală în Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011914,
+                        47.550161
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "Un golf și o zonă de recreere în Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Zenélő szökőkút",
+                  "text": "O fântână muzicală și atracție în Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044815,
+                        47.518788
+                  ]
+            },
+            {
+                  "name": "Zenélő kút",
+                  "text": "O atracție de apă muzicală în Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052119,
+                        47.535266
+                  ]
+            },
+            {
+                  "name": "K-híd",
+                  "text": "Un pod cunoscut din Óbuda care servește drept atracție.",
+                  "category": "landmark",
+                  "coords": [
+                        19.04878,
+                        47.552031
+                  ]
+            },
+            {
+                  "name": "Lehel Csarnok",
+                  "text": "O piață mare și plină de viață în Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06137,
+                        47.51846
+                  ]
+            },
+            {
+                  "name": "Árpád híd",
+                  "text": "Un pod important care face legătura între Óbuda și alte zone ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052555,
+                        47.537823
+                  ]
+            },
+            {
+                  "name": "Királylaki-barlang",
+                  "text": "O intrare de peșteră în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009144,
+                        47.552444
+                  ]
+            },
+            {
+                  "name": "Remete-hegy",
+                  "text": "Un vârf de munte în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.013429,
+                        47.541214
+                  ]
+            },
+            {
+                  "name": "Mátyás-hegy",
+                  "text": "Un vârf de munte în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.02,
+                        47.535396
+                  ]
+            },
+            {
+                  "name": "Tábor-hegy",
+                  "text": "Un vârf de munte în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009743,
+                        47.548768
+                  ]
+            },
+            {
+                  "name": "József-hegy",
+                  "text": "Un vârf de munte în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.027334,
+                        47.523765
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegyi-barlang",
+                  "text": "O intrare de peșteră în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009614,
+                        47.526505
+                  ]
+            },
+            {
+                  "name": "Molnár János-barlang",
+                  "text": "O intrare de peșteră în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.035933,
+                        47.518132
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegy",
+                  "text": "Un vârf de munte în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.013101,
+                        47.527366
+                  ]
+            },
+            {
+                  "name": "Látó-hegyi-barlang",
+                  "text": "O intrare de peșteră în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.010257,
+                        47.5385
+                  ]
+            },
+            {
+                  "name": "Áfonya utcai-barlang",
+                  "text": "O intrare de peșteră în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.025979,
+                        47.522834
+                  ]
+            },
+            {
+                  "name": "Flórián tér",
+                  "text": "Flórián tér este un parc și o piață publică notabilă din Óbuda.",
+                  "category": "park",
+                  "coords": [
+                        19.039096,
+                        47.540833
+                  ]
+            },
+            {
+                  "name": "Kolosy tér",
+                  "text": "Kolosy tér este un parc notabil și o piață centrală în orașul Óbuda.",
+                  "category": "park",
+                  "coords": [
+                        19.038361,
+                        47.527917
+                  ]
+            },
+            {
+                  "name": "Ferences templom",
+                  "text": "Aceste ruine ale unei biserici franciscane reprezintă un sit istoric notabil din Óbuda, pe Insula Margareta.",
+                  "category": "historical",
+                  "coords": [
+                        19.046606,
+                        47.525326
+                  ]
+            },
+            {
+                  "name": "Budapest Galéria",
+                  "text": "Budapest Galéria este o galerie de artă situată în Óbuda.",
+                  "category": "museum",
+                  "coords": [
+                        19.044793,
+                        47.537383
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "Szent Mihály-templom este un lăcaș de cult local din Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Szépvölgyi úti körmeneti kápolna",
+                  "text": "Szépvölgyi úti körmeneti kápolna este o capelă situată în Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.033073,
+                        47.528066
+                  ]
+            },
+            {
+                  "name": "Óbudai Evangélikus Egyházközség",
+                  "text": "Óbudai Evangélikus Egyházközség este un lăcaș de cult situat în Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.039391,
+                        47.536964
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Szentháromság-templom este un lăcaș de cult situat în Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.032416,
+                        47.546016
+                  ]
+            },
+            {
+                  "name": "Sziget Fesztivál",
+                  "text": "Festivalul Sziget este o atracție turistică din Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "Mátyáshegyi-barlang",
+                  "text": "Mátyáshegyi-barlang este o intrare de peșteră care poate fi explorată în Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.017838,
+                        47.533693
+                  ]
             }
       ],
       "en": [
@@ -519,6 +1788,429 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.025747,
                         47.528484
+                  ]
+            },
+            {
+                  "name": "Fürdőmúzeum",
+                  "text": "A museum in Óbuda dedicated to the history of Roman bathing culture.",
+                  "category": "museum",
+                  "coords": [
+                        19.04118,
+                        47.541171
+                  ]
+            },
+            {
+                  "name": "Kiscelli Múzeum",
+                  "text": "A museum in Óbuda, located in a former monastery, presenting urban history.",
+                  "category": "museum",
+                  "coords": [
+                        19.0281,
+                        47.538047
+                  ]
+            },
+            {
+                  "name": "Goldberger Textilipari Gyűjtemény",
+                  "text": "A museum in Óbuda about the history of the famous Hungarian Goldberger textile factory.",
+                  "category": "museum",
+                  "coords": [
+                        19.043195,
+                        47.535808
+                  ]
+            },
+            {
+                  "name": "Radnóti Miklós Művelődési Központ",
+                  "text": "A gallery and cultural center in Óbuda.",
+                  "category": "museum",
+                  "coords": [
+                        19.056545,
+                        47.523044
+                  ]
+            },
+            {
+                  "name": "AQUINCUM CASTRUM",
+                  "text": "A significant ancient Roman archaeological site in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.040533,
+                        47.542489
+                  ]
+            },
+            {
+                  "name": "The mithraeum of Marcus Antonius Victorinus",
+                  "text": "An archaeological site in Óbuda comprising an ancient Roman Mithraic temple.",
+                  "category": "historical",
+                  "coords": [
+                        19.05025,
+                        47.563863
+                  ]
+            },
+            {
+                  "name": "Governors palace, Aquincum",
+                  "text": "The archaeological remains of the Roman governor's palace in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.050407,
+                        47.547969
+                  ]
+            },
+            {
+                  "name": "Óbudai királyi vár",
+                  "text": "The ruins of a former royal castle in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.041882,
+                        47.539441
+                  ]
+            },
+            {
+                  "name": "Villa Hercules",
+                  "text": "An archaeological site in Óbuda featuring Roman mosaics depicting Hercules.",
+                  "category": "historical",
+                  "coords": [
+                        19.039831,
+                        47.548859
+                  ]
+            },
+            {
+                  "name": "Dominican convent",
+                  "text": "The ruins of a historic Dominican convent in Óbuda.",
+                  "category": "historical",
+                  "coords": [
+                        19.051292,
+                        47.529019
+                  ]
+            },
+            {
+                  "name": "Open Air Theatre",
+                  "text": "An open-air theatre in Óbuda, often used for summer performances.",
+                  "category": "cultural",
+                  "coords": [
+                        19.050096,
+                        47.529846
+                  ]
+            },
+            {
+                  "name": "József Attila Színház",
+                  "text": "A theatre in Óbuda named after the Hungarian poet Attila József.",
+                  "category": "cultural",
+                  "coords": [
+                        19.067588,
+                        47.531482
+                  ]
+            },
+            {
+                  "name": "Szent Ágoston-kápolna",
+                  "text": "A religious chapel in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.049262,
+                        47.515886
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "A facility of the Church of Scientology in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Szent Margit-templom",
+                  "text": "A church in Óbuda dedicated to Saint Margaret of Hungary.",
+                  "category": "religious",
+                  "coords": [
+                        19.060611,
+                        47.516843
+                  ]
+            },
+            {
+                  "name": "Premonstratensian Church St.Michael",
+                  "text": "A historic church of the Premonstratensian order in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.051577,
+                        47.530829
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "A church in Óbuda dedicated to Saint Martin of Tours.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Pozsonyi úti református templom",
+                  "text": "A Reformed church on Pozsonyi Street in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.052964,
+                        47.521832
+                  ]
+            },
+            {
+                  "name": "Frankel Leó úti zsinagóga",
+                  "text": "A synagogue on Frankel Leó Street in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.037559,
+                        47.521524
+                  ]
+            },
+            {
+                  "name": "Sarlós Boldogasszony-templom",
+                  "text": "A Roman Catholic parish church in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.037093,
+                        47.527435
+                  ]
+            },
+            {
+                  "name": "Tábor-hegy Cave",
+                  "text": "A natural cave attraction in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.011914,
+                        47.550161
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "A bay and recreation area in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Music fountain",
+                  "text": "A musical fountain and attraction in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.044815,
+                        47.518788
+                  ]
+            },
+            {
+                  "name": "Musical Fountain",
+                  "text": "A musical water attraction in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052119,
+                        47.535266
+                  ]
+            },
+            {
+                  "name": "K-bridge",
+                  "text": "A well-known bridge in Óbuda that serves as an attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        19.04878,
+                        47.552031
+                  ]
+            },
+            {
+                  "name": "Lehel Csarnok",
+                  "text": "A large and bustling marketplace in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06137,
+                        47.51846
+                  ]
+            },
+            {
+                  "name": "Árpád Bridge",
+                  "text": "A significant bridge connecting Óbuda with other parts of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        19.052555,
+                        47.537823
+                  ]
+            },
+            {
+                  "name": "Királylaki-barlang",
+                  "text": "A cave entrance in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009144,
+                        47.552444
+                  ]
+            },
+            {
+                  "name": "Remete-hegy",
+                  "text": "A mountain peak in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.013429,
+                        47.541214
+                  ]
+            },
+            {
+                  "name": "Mátyás-hegy",
+                  "text": "A mountain peak in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.02,
+                        47.535396
+                  ]
+            },
+            {
+                  "name": "Tábor-hegy",
+                  "text": "A mountain peak in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009743,
+                        47.548768
+                  ]
+            },
+            {
+                  "name": "József-hegy",
+                  "text": "A mountain peak in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.027334,
+                        47.523765
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegyi-barlang",
+                  "text": "A cave entrance in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.009614,
+                        47.526505
+                  ]
+            },
+            {
+                  "name": "Molnár János-barlang",
+                  "text": "A cave entrance in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.035933,
+                        47.518132
+                  ]
+            },
+            {
+                  "name": "Ferenc-hegy",
+                  "text": "A mountain peak in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.013101,
+                        47.527366
+                  ]
+            },
+            {
+                  "name": "Látó-hegyi-barlang",
+                  "text": "A cave entrance in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.010257,
+                        47.5385
+                  ]
+            },
+            {
+                  "name": "Áfonya utcai-barlang",
+                  "text": "A cave entrance in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.025979,
+                        47.522834
+                  ]
+            },
+            {
+                  "name": "Flórián tér",
+                  "text": "Flórián tér is a notable park and public square located in Óbuda.",
+                  "category": "park",
+                  "coords": [
+                        19.039096,
+                        47.540833
+                  ]
+            },
+            {
+                  "name": "Kolosy tér",
+                  "text": "Kolosy tér is a notable park and central square in the city of Óbuda.",
+                  "category": "park",
+                  "coords": [
+                        19.038361,
+                        47.527917
+                  ]
+            },
+            {
+                  "name": "Franciscan church",
+                  "text": "These ruins of a Franciscan church are a notable historical site located in Óbuda on Margaret Island.",
+                  "category": "historical",
+                  "coords": [
+                        19.046606,
+                        47.525326
+                  ]
+            },
+            {
+                  "name": "Budapest Galéria",
+                  "text": "Budapest Galéria is an art gallery situated in Óbuda.",
+                  "category": "museum",
+                  "coords": [
+                        19.044793,
+                        47.537383
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "Szent Mihály-templom is a local place of worship located in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Szépvölgyi úti körmeneti kápolna",
+                  "text": "Szépvölgyi úti körmeneti kápolna is a chapel situated in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.033073,
+                        47.528066
+                  ]
+            },
+            {
+                  "name": "Óbudai Evangélikus Egyházközség",
+                  "text": "Óbudai Evangélikus Egyházközség is a place of worship located in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.039391,
+                        47.536964
+                  ]
+            },
+            {
+                  "name": "Szentháromság-templom",
+                  "text": "Szentháromság-templom is a place of worship situated in Óbuda.",
+                  "category": "religious",
+                  "coords": [
+                        19.032416,
+                        47.546016
+                  ]
+            },
+            {
+                  "name": "Sziget Festival",
+                  "text": "Sziget Festival is a tourist attraction located in Óbuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "Mátyáshegyi-barlang",
+                  "text": "Mátyáshegyi-barlang is a cave entrance that visitors can explore in Óbuda.",
+                  "category": "natural",
+                  "coords": [
+                        19.017838,
+                        47.533693
                   ]
             }
       ]
@@ -696,6 +2388,258 @@ export const poiExtraHu1: POI[] = [
                         19.111396,
                         47.572264
                   ]
+            },
+            {
+                  "name": "Aquincumi Múzeum",
+                  "text": "Ein archäologisches Museum und Freilichtgelände mit Ruinen der römischen Stadt Aquincum.",
+                  "category": "historical",
+                  "coords": [
+                        19.05003,
+                        47.563641
+                  ]
+            },
+            {
+                  "name": "Angyalföldi Helytörténeti Gyűjtemény",
+                  "text": "Eine Sammlung zur Lokalgeschichte des Stadtteils Angyalföld.",
+                  "category": "museum",
+                  "coords": [
+                        19.083828,
+                        47.546254
+                  ]
+            },
+            {
+                  "name": "UP Újpesti Rendezvénytér",
+                  "text": "Ein modernes Veranstaltungszentrum und Theater im Stadtteil Újpest.",
+                  "category": "cultural",
+                  "coords": [
+                        19.086705,
+                        47.562865
+                  ]
+            },
+            {
+                  "name": "Közfürdő az északkeleti régióban",
+                  "text": "Ausgrabungsstätte römischer Badeanlagen im nordöstlichen Teil der Zivilstadt von Aquincum.",
+                  "category": "historical",
+                  "coords": [
+                        19.051403,
+                        47.565255
+                  ]
+            },
+            {
+                  "name": "Experidance Factory Fesztiváludvar",
+                  "text": "Ein Veranstaltungsort für Theater und Festivals in Újpest.",
+                  "category": "cultural",
+                  "coords": [
+                        19.06869,
+                        47.538751
+                  ]
+            },
+            {
+                  "name": "Neogrády László Helytörténeti Gyűjtemény",
+                  "text": "Eine lokale Sammlung historischer Exponate aus der Geschichte von Újpest.",
+                  "category": "museum",
+                  "coords": [
+                        19.088367,
+                        47.557363
+                  ]
+            },
+            {
+                  "name": "Óbudai szigetcsúcs zátony",
+                  "text": "Ein naturbelassener Bereich an der Spitze der Obuda-Insel.",
+                  "category": "recreational",
+                  "coords": [
+                        19.060346,
+                        47.560626
+                  ]
+            },
+            {
+                  "name": "Tűzoltó skanzen",
+                  "text": "Ein Freilichtmuseum, das historische Feuerwehrfahrzeuge und -ausrüstung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.096345,
+                        47.567925
+                  ]
+            },
+            {
+                  "name": "Sziget Fesztivál",
+                  "text": "Eines der größten Musikfestivals Europas, das jährlich auf der Obuda-Insel stattfindet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "Eine Bucht an der Donau, die als Erholungsgebiet und Hafen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Magyar Autóklub",
+                  "text": "Das Dienstleistungszentrum des ungarischen Automobilclubs in Budapest.",
+                  "category": "landmark",
+                  "coords": [
+                        19.084076,
+                        47.556314
+                  ]
+            },
+            {
+                  "name": "Csokonai Művelődési Ház",
+                  "text": "Ein Kulturzentrum in Budapest, das Ausstellungen und Gemeinschaftsprogramme anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        19.113443,
+                        47.556489
+                  ]
+            },
+            {
+                  "name": "Újpesti Polgár Centrum",
+                  "text": "Ein kommunales Kulturzentrum im Stadtteil Újpest.",
+                  "category": "museum",
+                  "coords": [
+                        19.088092,
+                        47.560737
+                  ]
+            },
+            {
+                  "name": "Újpesti Ifjúsági Ház",
+                  "text": "Ein Jugendkulturhaus in Újpest, das Raum für Freizeit und Kunst bietet.",
+                  "category": "museum",
+                  "coords": [
+                        19.090806,
+                        47.562551
+                  ]
+            },
+            {
+                  "name": "Nudista strand",
+                  "text": "Ein ausgewiesener FKK-Strandbereich in der Nähe von Újpest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.075302,
+                        47.584806
+                  ]
+            },
+            {
+                  "name": "Utazás járműveken",
+                  "text": "Eine Attraktion in Újpest, die Fahrten mit verschiedenen Fahrzeugen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.099062,
+                        47.541913
+                  ]
+            },
+            {
+                  "name": "Red Star Train",
+                  "text": "Ein historischer Zug als technisches Denkmal im Bereich Újpest.",
+                  "category": "landmark",
+                  "coords": [
+                        19.103967,
+                        47.548401
+                  ]
+            },
+            {
+                  "name": "Római-parti Plázs",
+                  "text": "Ein beliebter saisonaler Strand- und Erholungsort am Ufer der Donau.",
+                  "category": "recreational",
+                  "coords": [
+                        19.066533,
+                        47.578941
+                  ]
+            },
+            {
+                  "name": "Népszigeti Állatpark",
+                  "text": "Ein kleiner Tierpark auf der Insel Népsziget in Budapest.",
+                  "category": "landmark",
+                  "coords": [
+                        19.071574,
+                        47.561289
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "Der Hauptsitz der Scientology Kirche in Ungarn, gelegen in Budapest.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "Eine katholische Pfarrkirche im Zentrum des Stadtteils Újpest.",
+                  "category": "religious",
+                  "coords": [
+                        19.095636,
+                        47.554648
+                  ]
+            },
+            {
+                  "name": "Magyarok Nagyasszonya-templom",
+                  "text": "Eine der Jungfrau Maria gewidmete katholische Kirche in Újpest.",
+                  "category": "religious",
+                  "coords": [
+                        19.119988,
+                        47.563048
+                  ]
+            },
+            {
+                  "name": "Rákospalotai evangélikus nagytemplom",
+                  "text": "Die große evangelische Hauptkirche im Stadtteil Rákospalota.",
+                  "category": "religious",
+                  "coords": [
+                        19.123439,
+                        47.561465
+                  ]
+            },
+            {
+                  "name": "Egek királynéja templom",
+                  "text": "Eine markante neugotische katholische Kirche im Stadtteil Újpest.",
+                  "category": "religious",
+                  "coords": [
+                        19.088551,
+                        47.562385
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "Eine katholische Kirche, die dem heiligen Michael gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "Ein moderner römisch-katholischer Kirchenkomplex im Stadtteil Angyalföld.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "Eine religiöse Stätte im Stadtteil Újpest von Budapest.",
+                  "category": "religious",
+                  "coords": [
+                        19.098192,
+                        47.569307
+                  ]
+            },
+            {
+                  "name": "Rákospalota-Óvárosi Református Egyházközség",
+                  "text": "Eine protestantische Kirche und Gemeinde im alten Teil von Rákospalota.",
+                  "category": "religious",
+                  "coords": [
+                        19.126435,
+                        47.568524
+                  ]
             }
       ],
       "hu": [
@@ -826,6 +2770,258 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.111396,
                         47.572264
+                  ]
+            },
+            {
+                  "name": "Aquincumi Múzeum",
+                  "text": "Régészeti múzeum és szabadtéri terület az ókori Aquincum romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        19.05003,
+                        47.563641
+                  ]
+            },
+            {
+                  "name": "Angyalföldi Helytörténeti Gyűjtemény",
+                  "text": "Angyalföld városrész helytörténeti emlékeit őrző gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        19.083828,
+                        47.546254
+                  ]
+            },
+            {
+                  "name": "UP Újpesti Rendezvénytér",
+                  "text": "Modern rendezvényközpont és színház Újpest városrészben.",
+                  "category": "cultural",
+                  "coords": [
+                        19.086705,
+                        47.562865
+                  ]
+            },
+            {
+                  "name": "Közfürdő az északkeleti régióban",
+                  "text": "Római fürdőépületek feltárt maradványai Aquincum polgárvárosának északkeleti részén.",
+                  "category": "historical",
+                  "coords": [
+                        19.051403,
+                        47.565255
+                  ]
+            },
+            {
+                  "name": "Experidance Factory Fesztiváludvar",
+                  "text": "Színházi előadások és fesztiválok helyszíne Újpesten.",
+                  "category": "cultural",
+                  "coords": [
+                        19.06869,
+                        47.538751
+                  ]
+            },
+            {
+                  "name": "Neogrády László Helytörténeti Gyűjtemény",
+                  "text": "Újpest történetének emlékeit bemutató helytörténeti gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        19.088367,
+                        47.557363
+                  ]
+            },
+            {
+                  "name": "Óbudai szigetcsúcs zátony",
+                  "text": "Természetközeli terület az Óbudai-sziget csúcsánál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.060346,
+                        47.560626
+                  ]
+            },
+            {
+                  "name": "Tűzoltó skanzen",
+                  "text": "Történelmi tűzoltóautókat és felszereléseket bemutató szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        19.096345,
+                        47.567925
+                  ]
+            },
+            {
+                  "name": "Sziget Fesztivál",
+                  "text": "Európa egyik legnagyobb zenei fesztiválja, amelyet évente az Óbudai-szigeten rendeznek meg.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "A Duna menti öböl, amely üdülőhelyként és kikötőként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Magyar Autóklub",
+                  "text": "A Magyar Autóklub szolgáltató központja és székháza Budapesten.",
+                  "category": "landmark",
+                  "coords": [
+                        19.084076,
+                        47.556314
+                  ]
+            },
+            {
+                  "name": "Csokonai Művelődési Ház",
+                  "text": "Budapesti kulturális központ, amely kiállításoknak és közösségi programoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        19.113443,
+                        47.556489
+                  ]
+            },
+            {
+                  "name": "Újpesti Polgár Centrum",
+                  "text": "Közösségi kulturális központ Újpest városrészben.",
+                  "category": "museum",
+                  "coords": [
+                        19.088092,
+                        47.560737
+                  ]
+            },
+            {
+                  "name": "Újpesti Ifjúsági Ház",
+                  "text": "Újpesti ifjúsági ház, amely szabadidős és művészeti tevékenységeknek ad helyet.",
+                  "category": "museum",
+                  "coords": [
+                        19.090806,
+                        47.562551
+                  ]
+            },
+            {
+                  "name": "Nudista strand",
+                  "text": "Kijelölt naturista strandterület Újpest közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        19.075302,
+                        47.584806
+                  ]
+            },
+            {
+                  "name": "Utazás járműveken",
+                  "text": "Újpesti látványosság, amely különféle járművekkel kínál utazási lehetőséget.",
+                  "category": "landmark",
+                  "coords": [
+                        19.099062,
+                        47.541913
+                  ]
+            },
+            {
+                  "name": "Red Star Train",
+                  "text": "Történelmi vonat mint műszaki emlék Újpest területén.",
+                  "category": "landmark",
+                  "coords": [
+                        19.103967,
+                        47.548401
+                  ]
+            },
+            {
+                  "name": "Római-parti Plázs",
+                  "text": "Népszerű szezonális strand- és üdülőhely a Duna partján.",
+                  "category": "recreational",
+                  "coords": [
+                        19.066533,
+                        47.578941
+                  ]
+            },
+            {
+                  "name": "Népszigeti Állatpark",
+                  "text": "Kisméretű állatpark a budapesti Népszigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        19.071574,
+                        47.561289
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "A Szcientológia Egyház magyarországi központi szervezete Budapesten.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "Katolikus plébániatemplom Újpest városrész központjában.",
+                  "category": "religious",
+                  "coords": [
+                        19.095636,
+                        47.554648
+                  ]
+            },
+            {
+                  "name": "Magyarok Nagyasszonya-templom",
+                  "text": "Szűz Máriának szentelt katolikus templom Újpesten.",
+                  "category": "religious",
+                  "coords": [
+                        19.119988,
+                        47.563048
+                  ]
+            },
+            {
+                  "name": "Rákospalotai evangélikus nagytemplom",
+                  "text": "Rákospalota városrész nagy evangélikus főtemploma.",
+                  "category": "religious",
+                  "coords": [
+                        19.123439,
+                        47.561465
+                  ]
+            },
+            {
+                  "name": "Egek királynéja templom",
+                  "text": "Jellegzetes neogótikus katolikus templom Újpest városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        19.088551,
+                        47.562385
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "Szent Mihály tiszteletére szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "Modern római katolikus templomegyüttes Angyalföld városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "Újpesti vallási helyszín és közösségi épület.",
+                  "category": "religious",
+                  "coords": [
+                        19.098192,
+                        47.569307
+                  ]
+            },
+            {
+                  "name": "Rákospalota-Óvárosi Református Egyházközség",
+                  "text": "Református egyházi központ és templom Rákospalota óvárosi részén.",
+                  "category": "religious",
+                  "coords": [
+                        19.126435,
+                        47.568524
                   ]
             }
       ],
@@ -958,6 +3154,258 @@ export const poiExtraHu1: POI[] = [
                         19.111396,
                         47.572264
                   ]
+            },
+            {
+                  "name": "Aquincumi Múzeum",
+                  "text": "Un muzeu arheologic și sit în aer liber cu ruinele orașului roman Aquincum.",
+                  "category": "historical",
+                  "coords": [
+                        19.05003,
+                        47.563641
+                  ]
+            },
+            {
+                  "name": "Angyalföldi Helytörténeti Gyűjtemény",
+                  "text": "O colecție dedicată istoriei locale a cartierului Angyalföld.",
+                  "category": "museum",
+                  "coords": [
+                        19.083828,
+                        47.546254
+                  ]
+            },
+            {
+                  "name": "UP Újpesti Rendezvénytér",
+                  "text": "Un centru de evenimente modern și teatru în districtul Újpest.",
+                  "category": "cultural",
+                  "coords": [
+                        19.086705,
+                        47.562865
+                  ]
+            },
+            {
+                  "name": "Közfürdő az északkeleti régióban",
+                  "text": "Sit arheologic cu ruinele unor băi romane în partea de nord-est a orașului civil Aquincum.",
+                  "category": "historical",
+                  "coords": [
+                        19.051403,
+                        47.565255
+                  ]
+            },
+            {
+                  "name": "Experidance Factory Fesztiváludvar",
+                  "text": "O locație pentru spectacole de teatru și festivaluri în Újpest.",
+                  "category": "cultural",
+                  "coords": [
+                        19.06869,
+                        47.538751
+                  ]
+            },
+            {
+                  "name": "Neogrády László Helytörténeti Gyűjtemény",
+                  "text": "O colecție locală de exponate istorice din istoria districtului Újpest.",
+                  "category": "museum",
+                  "coords": [
+                        19.088367,
+                        47.557363
+                  ]
+            },
+            {
+                  "name": "Óbudai szigetcsúcs zátony",
+                  "text": "O zonă naturală situată în vârful insulei Obuda.",
+                  "category": "recreational",
+                  "coords": [
+                        19.060346,
+                        47.560626
+                  ]
+            },
+            {
+                  "name": "Tűzoltó skanzen",
+                  "text": "Un muzeu în aer liber care expune vehicule și echipamente istorice de pompieri.",
+                  "category": "museum",
+                  "coords": [
+                        19.096345,
+                        47.567925
+                  ]
+            },
+            {
+                  "name": "Sziget Fesztivál",
+                  "text": "Unul dintre cele mai mari festivaluri de muzică din Europa, desfășurat anual pe insula Obuda.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "Un golf de-a lungul Dunării care servește ca zonă de recreere și port.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Magyar Autóklub",
+                  "text": "Centrul de servicii și sediul Clubului Auto Maghiar din Budapesta.",
+                  "category": "landmark",
+                  "coords": [
+                        19.084076,
+                        47.556314
+                  ]
+            },
+            {
+                  "name": "Csokonai Művelődési Ház",
+                  "text": "Un centru cultural din Budapesta care găzduiește expoziții și programe comunitare.",
+                  "category": "museum",
+                  "coords": [
+                        19.113443,
+                        47.556489
+                  ]
+            },
+            {
+                  "name": "Újpesti Polgár Centrum",
+                  "text": "Un centru cultural comunitar în districtul Újpest.",
+                  "category": "museum",
+                  "coords": [
+                        19.088092,
+                        47.560737
+                  ]
+            },
+            {
+                  "name": "Újpesti Ifjúsági Ház",
+                  "text": "O casă de cultură pentru tineret în Újpest, oferind spațiu pentru petrecerea timpului liber și artă.",
+                  "category": "museum",
+                  "coords": [
+                        19.090806,
+                        47.562551
+                  ]
+            },
+            {
+                  "name": "Nudista strand",
+                  "text": "O zonă de plajă naturistă desemnată lângă Újpest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.075302,
+                        47.584806
+                  ]
+            },
+            {
+                  "name": "Utazás járműveken",
+                  "text": "O atracție în Újpest care oferă plimbări cu diverse vehicule.",
+                  "category": "landmark",
+                  "coords": [
+                        19.099062,
+                        47.541913
+                  ]
+            },
+            {
+                  "name": "Red Star Train",
+                  "text": "Un tren istoric ca monument tehnic în zona Újpest.",
+                  "category": "landmark",
+                  "coords": [
+                        19.103967,
+                        47.548401
+                  ]
+            },
+            {
+                  "name": "Római-parti Plázs",
+                  "text": "O locație populară sezonieră de plajă și recreere pe malul Dunării.",
+                  "category": "recreational",
+                  "coords": [
+                        19.066533,
+                        47.578941
+                  ]
+            },
+            {
+                  "name": "Népszigeti Állatpark",
+                  "text": "Un mic parc cu animale situat pe insula Népsziget din Budapesta.",
+                  "category": "landmark",
+                  "coords": [
+                        19.071574,
+                        47.561289
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "Sediul central al Bisericii Scientologice din Ungaria, situat în Budapesta.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "O biserică parohială catolică în centrul districtului Újpest.",
+                  "category": "religious",
+                  "coords": [
+                        19.095636,
+                        47.554648
+                  ]
+            },
+            {
+                  "name": "Magyarok Nagyasszonya-templom",
+                  "text": "O biserică catolică dedicată Fecioarei Maria în Újpest.",
+                  "category": "religious",
+                  "coords": [
+                        19.119988,
+                        47.563048
+                  ]
+            },
+            {
+                  "name": "Rákospalotai evangélikus nagytemplom",
+                  "text": "Marea biserică evanghelică principală din cartierul Rákospalota.",
+                  "category": "religious",
+                  "coords": [
+                        19.123439,
+                        47.561465
+                  ]
+            },
+            {
+                  "name": "Egek királynéja templom",
+                  "text": "O biserică catolică neogotică proeminentă în districtul Újpest.",
+                  "category": "religious",
+                  "coords": [
+                        19.088551,
+                        47.562385
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "O biserică catolică dedicată Sfântului Mihail.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "Un complex modern de biserică romano-catolică în cartierul Angyalföld.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "Un lăcaș de cult situat în districtul Újpest din Budapesta.",
+                  "category": "religious",
+                  "coords": [
+                        19.098192,
+                        47.569307
+                  ]
+            },
+            {
+                  "name": "Rákospalota-Óvárosi Református Egyházközség",
+                  "text": "O comunitate și biserică reformată în zona veche a cartierului Rákospalota.",
+                  "category": "religious",
+                  "coords": [
+                        19.126435,
+                        47.568524
+                  ]
             }
       ],
       "en": [
@@ -1088,6 +3536,258 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.111396,
                         47.572264
+                  ]
+            },
+            {
+                  "name": "Aquincum Roman museum",
+                  "text": "An archaeological museum and open-air site featuring ruins of the Roman city Aquincum.",
+                  "category": "historical",
+                  "coords": [
+                        19.05003,
+                        47.563641
+                  ]
+            },
+            {
+                  "name": "Angyalföldi Helytörténeti Gyűjtemény",
+                  "text": "A collection preserving the local history of the Angyalföld district.",
+                  "category": "museum",
+                  "coords": [
+                        19.083828,
+                        47.546254
+                  ]
+            },
+            {
+                  "name": "UP Újpesti Rendezvénytér",
+                  "text": "A modern event center and theater in the Újpest district.",
+                  "category": "cultural",
+                  "coords": [
+                        19.086705,
+                        47.562865
+                  ]
+            },
+            {
+                  "name": "Public baths in the north-eastern part of the civil town",
+                  "text": "Archaeological site featuring the ruins of Roman baths in the north-eastern part of Aquincum.",
+                  "category": "historical",
+                  "coords": [
+                        19.051403,
+                        47.565255
+                  ]
+            },
+            {
+                  "name": "Experidance Factory Fesztiváludvar",
+                  "text": "A venue for theatrical performances and festivals in Újpest.",
+                  "category": "cultural",
+                  "coords": [
+                        19.06869,
+                        47.538751
+                  ]
+            },
+            {
+                  "name": "Neogrády László Helytörténeti Gyűjtemény",
+                  "text": "A local collection of historical exhibits from the history of Újpest.",
+                  "category": "museum",
+                  "coords": [
+                        19.088367,
+                        47.557363
+                  ]
+            },
+            {
+                  "name": "Óbudai szigetcsúcs zátony",
+                  "text": "A natural area located at the tip of Obuda Island.",
+                  "category": "recreational",
+                  "coords": [
+                        19.060346,
+                        47.560626
+                  ]
+            },
+            {
+                  "name": "Tűzoltó skanzen",
+                  "text": "An open-air museum displaying historical firefighting vehicles and equipment.",
+                  "category": "museum",
+                  "coords": [
+                        19.096345,
+                        47.567925
+                  ]
+            },
+            {
+                  "name": "Sziget Festival",
+                  "text": "One of Europe's largest music festivals, held annually on Obuda Island.",
+                  "category": "landmark",
+                  "coords": [
+                        19.054324,
+                        47.553129
+                  ]
+            },
+            {
+                  "name": "FOKA-öböl",
+                  "text": "A bay along the Danube serving as a recreational area and harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        19.06467,
+                        47.544453
+                  ]
+            },
+            {
+                  "name": "Magyar Autóklub",
+                  "text": "The service center and headquarters of the Hungarian Auto Club in Budapest.",
+                  "category": "landmark",
+                  "coords": [
+                        19.084076,
+                        47.556314
+                  ]
+            },
+            {
+                  "name": "Csokonai Művelődési Ház",
+                  "text": "A cultural center in Budapest hosting exhibitions and community programs.",
+                  "category": "museum",
+                  "coords": [
+                        19.113443,
+                        47.556489
+                  ]
+            },
+            {
+                  "name": "Újpesti Polgár Centrum",
+                  "text": "A community cultural center in the Újpest district.",
+                  "category": "museum",
+                  "coords": [
+                        19.088092,
+                        47.560737
+                  ]
+            },
+            {
+                  "name": "Újpesti Ifjúsági Ház",
+                  "text": "A youth cultural house in Újpest offering space for leisure and arts.",
+                  "category": "museum",
+                  "coords": [
+                        19.090806,
+                        47.562551
+                  ]
+            },
+            {
+                  "name": "Nudista strand",
+                  "text": "A designated naturist beach area near Újpest.",
+                  "category": "recreational",
+                  "coords": [
+                        19.075302,
+                        47.584806
+                  ]
+            },
+            {
+                  "name": "Vehicle rides",
+                  "text": "An attraction in Újpest offering rides with various vehicles.",
+                  "category": "landmark",
+                  "coords": [
+                        19.099062,
+                        47.541913
+                  ]
+            },
+            {
+                  "name": "Red Star Train",
+                  "text": "A historical train as a technical monument in the Újpest area.",
+                  "category": "landmark",
+                  "coords": [
+                        19.103967,
+                        47.548401
+                  ]
+            },
+            {
+                  "name": "Római-parti Plázs",
+                  "text": "A popular seasonal beach and recreation spot on the banks of the Danube.",
+                  "category": "recreational",
+                  "coords": [
+                        19.066533,
+                        47.578941
+                  ]
+            },
+            {
+                  "name": "Népszigeti Állatpark",
+                  "text": "A small animal park located on Népsziget in Budapest.",
+                  "category": "landmark",
+                  "coords": [
+                        19.071574,
+                        47.561289
+                  ]
+            },
+            {
+                  "name": "Szcientológia Egyház Központi Szervezet",
+                  "text": "The central headquarters of the Church of Scientology in Hungary, located in Budapest.",
+                  "category": "religious",
+                  "coords": [
+                        19.074823,
+                        47.552
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "A Catholic parish church in the center of the Újpest district.",
+                  "category": "religious",
+                  "coords": [
+                        19.095636,
+                        47.554648
+                  ]
+            },
+            {
+                  "name": "Magyarok Nagyasszonya-templom",
+                  "text": "A Catholic church dedicated to the Virgin Mary in Újpest.",
+                  "category": "religious",
+                  "coords": [
+                        19.119988,
+                        47.563048
+                  ]
+            },
+            {
+                  "name": "Rákospalotai evangélikus nagytemplom",
+                  "text": "The large main Lutheran church in the Rákospalota district.",
+                  "category": "religious",
+                  "coords": [
+                        19.123439,
+                        47.561465
+                  ]
+            },
+            {
+                  "name": "Queen of Heavens Church",
+                  "text": "A prominent Neogothic Catholic church in the Újpest district.",
+                  "category": "religious",
+                  "coords": [
+                        19.088551,
+                        47.562385
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-templom",
+                  "text": "A Catholic church dedicated to Saint Michael.",
+                  "category": "religious",
+                  "coords": [
+                        19.077039,
+                        47.547224
+                  ]
+            },
+            {
+                  "name": "Tours-i Szent Márton-templom",
+                  "text": "A modern Roman Catholic church complex in the Angyalföld district.",
+                  "category": "religious",
+                  "coords": [
+                        19.069408,
+                        47.537646
+                  ]
+            },
+            {
+                  "name": "Szent István-templom",
+                  "text": "A religious site located in the Újpest district of Budapest.",
+                  "category": "religious",
+                  "coords": [
+                        19.098192,
+                        47.569307
+                  ]
+            },
+            {
+                  "name": "Rákospalota-Óvárosi Református Egyházközség",
+                  "text": "A Reformed church and community center in the old town area of Rákospalota.",
+                  "category": "religious",
+                  "coords": [
+                        19.126435,
+                        47.568524
                   ]
             }
       ]
@@ -1626,6 +4326,87 @@ export const poiExtraHu1: POI[] = [
                         19.479788,
                         46.434292
                   ]
+            },
+            {
+                  "name": "Sóstó Strandfürdő",
+                  "text": "Ein beliebter Erholungsort am See in Kiskunhalas, ideal zum Schwimmen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.468633,
+                        46.455529
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Ein lokales Heimatmuseum in Kiskunhalas, das das bäuerliche Leben und Traditionen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        19.480527,
+                        46.435247
+                  ]
+            },
+            {
+                  "name": "Fejeték",
+                  "text": "Ein Naturschutzgebiet bei Kiskunhalas, das für seine Moorlandschaft und Artenvielfalt bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        19.456229,
+                        46.445167
+                  ]
+            },
+            {
+                  "name": "Csipkemúzeum",
+                  "text": "Ein Museum in Kiskunhalas, das die weltberühmte Halaser Spitze und ihre Handwerkskunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        19.488904,
+                        46.430518
+                  ]
+            },
+            {
+                  "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
+                  "text": "Ein Thermal- und Erlebnisbad in Kiskunhalas mit Heilwasser und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        19.470038,
+                        46.431244
+                  ]
+            },
+            {
+                  "name": "Sáfrik malom",
+                  "text": "Eine historische Windmühle in Kiskunhalas, ein markantes Denkmal der lokalen Agrargeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483488,
+                        46.442414
+                  ]
+            },
+            {
+                  "name": "Szőlőprés",
+                  "text": "Ein Denkmal in Kiskunhalas, das an die Weinbautradition der Region erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        19.468614,
+                        46.454567
+                  ]
+            },
+            {
+                  "name": "Ágyú",
+                  "text": "Eine ausgestellte historische Kanone als Denkmal im Stadtgebiet von Kiskunhalas.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478295,
+                        46.436919
+                  ]
+            },
+            {
+                  "name": "MÁV 375 gőzmozdony",
+                  "text": "Eine historische Dampflokomotive der Baureihe MÁV 375, die als technisches Denkmal in Kiskunhalas ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        19.493089,
+                        46.433576
+                  ]
             }
       ],
       "hu": [
@@ -1713,6 +4494,87 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.479788,
                         46.434292
+                  ]
+            },
+            {
+                  "name": "Sóstó Strandfürdő",
+                  "text": "Népszerű tóparti üdülőhely Kiskunhalason, ideális úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        19.468633,
+                        46.455529
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Helyi tájház Kiskunhalason, amely a paraszti életet és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.480527,
+                        46.435247
+                  ]
+            },
+            {
+                  "name": "Fejeték",
+                  "text": "Természetvédelmi terület Kiskunhalas közelében, amely lápvidékéről és élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        19.456229,
+                        46.445167
+                  ]
+            },
+            {
+                  "name": "Csipkemúzeum",
+                  "text": "Kiskunhalasi múzeum, amely a világhírű halasi csipkét és annak mesterségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        19.488904,
+                        46.430518
+                  ]
+            },
+            {
+                  "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
+                  "text": "Termál- és strandfürdő Kiskunhalason gyógyvízzel és szabadidős szolgáltatásokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        19.470038,
+                        46.431244
+                  ]
+            },
+            {
+                  "name": "Sáfrik malom",
+                  "text": "Történelmi szélmalom Kiskunhalason, a helyi mezőgazdasági múlt jellegzetes emléke.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483488,
+                        46.442414
+                  ]
+            },
+            {
+                  "name": "Szőlőprés",
+                  "text": "Emlékmű Kiskunhalason, amely a régió borászati hagyományaira emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        19.468614,
+                        46.454567
+                  ]
+            },
+            {
+                  "name": "Ágyú",
+                  "text": "Kiállított történelmi ágyú, amely emlékműként szolgál Kiskunhalas városában.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478295,
+                        46.436919
+                  ]
+            },
+            {
+                  "name": "MÁV 375 gőzmozdony",
+                  "text": "MÁV 375-ös sorozatú gőzmozdony, amely technikai emlékként van kiállítva Kiskunhalason.",
+                  "category": "landmark",
+                  "coords": [
+                        19.493089,
+                        46.433576
                   ]
             }
       ],
@@ -1802,6 +4664,87 @@ export const poiExtraHu1: POI[] = [
                         19.479788,
                         46.434292
                   ]
+            },
+            {
+                  "name": "Sóstó Strandfürdő",
+                  "text": "O zonă de recreere populară pe malul lacului în Kiskunhalas, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        19.468633,
+                        46.455529
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "O casă tradițională în Kiskunhalas care prezintă viața rurală și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        19.480527,
+                        46.435247
+                  ]
+            },
+            {
+                  "name": "Fejeték",
+                  "text": "O rezervație naturală lângă Kiskunhalas, cunoscută pentru peisajul său de mlaștină și biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        19.456229,
+                        46.445167
+                  ]
+            },
+            {
+                  "name": "Csipkemúzeum",
+                  "text": "Un muzeu în Kiskunhalas care prezintă faimoasa dantelă de Halas și măiestria realizării acesteia.",
+                  "category": "museum",
+                  "coords": [
+                        19.488904,
+                        46.430518
+                  ]
+            },
+            {
+                  "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
+                  "text": "Un parc acvatic și băi termale în Kiskunhalas, oferind apă curativă și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        19.470038,
+                        46.431244
+                  ]
+            },
+            {
+                  "name": "Sáfrik malom",
+                  "text": "O moară de vânt istorică în Kiskunhalas, un monument distinctiv al istoriei agricole locale.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483488,
+                        46.442414
+                  ]
+            },
+            {
+                  "name": "Szőlőprés",
+                  "text": "Un monument în Kiskunhalas care amintește de tradiția viticolă a regiunii.",
+                  "category": "landmark",
+                  "coords": [
+                        19.468614,
+                        46.454567
+                  ]
+            },
+            {
+                  "name": "Ágyú",
+                  "text": "Tun istoric expus ca monument în zona urbană a orașului Kiskunhalas.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478295,
+                        46.436919
+                  ]
+            },
+            {
+                  "name": "MÁV 375 gőzmozdony",
+                  "text": "O locomotivă cu abur istorică din seria MÁV 375, expusă ca monument tehnic în Kiskunhalas.",
+                  "category": "landmark",
+                  "coords": [
+                        19.493089,
+                        46.433576
+                  ]
             }
       ],
       "en": [
@@ -1889,6 +4832,87 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.479788,
                         46.434292
+                  ]
+            },
+            {
+                  "name": "Sóstó Strandfürdő",
+                  "text": "A popular lakeside recreation spot in Kiskunhalas, ideal for swimming and relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        19.468633,
+                        46.455529
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A local regional house in Kiskunhalas showcasing peasant life and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        19.480527,
+                        46.435247
+                  ]
+            },
+            {
+                  "name": "Fejeték",
+                  "text": "A nature reserve near Kiskunhalas known for its moorland landscape and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        19.456229,
+                        46.445167
+                  ]
+            },
+            {
+                  "name": "Csipkemúzeum",
+                  "text": "A museum in Kiskunhalas showcasing the world-famous Halas lace and its craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        19.488904,
+                        46.430518
+                  ]
+            },
+            {
+                  "name": "Kiskunhalasi Termál Gyógyfürdő- és Strand",
+                  "text": "A thermal and water park in Kiskunhalas featuring healing waters and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        19.470038,
+                        46.431244
+                  ]
+            },
+            {
+                  "name": "Sáfrik malom",
+                  "text": "A historical windmill in Kiskunhalas, a prominent monument of local agricultural history.",
+                  "category": "landmark",
+                  "coords": [
+                        19.483488,
+                        46.442414
+                  ]
+            },
+            {
+                  "name": "Szőlőprés",
+                  "text": "A monument in Kiskunhalas commemorating the wine-growing tradition of the region.",
+                  "category": "landmark",
+                  "coords": [
+                        19.468614,
+                        46.454567
+                  ]
+            },
+            {
+                  "name": "Ágyú",
+                  "text": "An exhibited historical cannon serving as a monument in the town area of Kiskunhalas.",
+                  "category": "landmark",
+                  "coords": [
+                        19.478295,
+                        46.436919
+                  ]
+            },
+            {
+                  "name": "MÁV 375 gőzmozdony",
+                  "text": "A historical MÁV 375 series steam locomotive exhibited as a technical monument in Kiskunhalas.",
+                  "category": "landmark",
+                  "coords": [
+                        19.493089,
+                        46.433576
                   ]
             }
       ]
@@ -1987,6 +5011,33 @@ export const poiExtraHu1: POI[] = [
                         19.5978,
                         47.034961
                   ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "Helytörténeti gyűjtemény ist ein Museum in Lajosmizse.",
+                  "category": "museum",
+                  "coords": [
+                        19.562775,
+                        47.025697
+                  ]
+            },
+            {
+                  "name": "Kláber Mór-kúria",
+                  "text": "Kláber Mór-kúria ist ein Schloss in der Stadt Lajosmizse.",
+                  "category": "castle",
+                  "coords": [
+                        19.550109,
+                        47.00467
+                  ]
+            },
+            {
+                  "name": "Szent Lajos-templom",
+                  "text": "Szent Lajos-templom ist eine lokale Kultstätte in Lajosmizse.",
+                  "category": "religious",
+                  "coords": [
+                        19.557819,
+                        47.02701
+                  ]
             }
       ],
       "hu": [
@@ -2031,6 +5082,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.5978,
                         47.034961
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "A Helytörténeti gyűjtemény egy múzeum Lajosmizsén.",
+                  "category": "museum",
+                  "coords": [
+                        19.562775,
+                        47.025697
+                  ]
+            },
+            {
+                  "name": "Kláber Mór-kúria",
+                  "text": "A Kláber Mór-kúria egy kastély Lajosmizsén.",
+                  "category": "castle",
+                  "coords": [
+                        19.550109,
+                        47.00467
+                  ]
+            },
+            {
+                  "name": "Szent Lajos-templom",
+                  "text": "A Szent Lajos-templom egy istentiszteleti hely Lajosmizsén.",
+                  "category": "religious",
+                  "coords": [
+                        19.557819,
+                        47.02701
                   ]
             }
       ],
@@ -2077,6 +5155,33 @@ export const poiExtraHu1: POI[] = [
                         19.5978,
                         47.034961
                   ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "Helytörténeti gyűjtemény este un muzeu situat în Lajosmizse.",
+                  "category": "museum",
+                  "coords": [
+                        19.562775,
+                        47.025697
+                  ]
+            },
+            {
+                  "name": "Kláber Mór-kúria",
+                  "text": "Kláber Mór-kúria este un castel din orașul Lajosmizse.",
+                  "category": "castle",
+                  "coords": [
+                        19.550109,
+                        47.00467
+                  ]
+            },
+            {
+                  "name": "Szent Lajos-templom",
+                  "text": "Szent Lajos-templom este un lăcaș de cult local din Lajosmizse.",
+                  "category": "religious",
+                  "coords": [
+                        19.557819,
+                        47.02701
+                  ]
             }
       ],
       "en": [
@@ -2121,6 +5226,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.5978,
                         47.034961
+                  ]
+            },
+            {
+                  "name": "Helytörténeti gyűjtemény",
+                  "text": "Helytörténeti gyűjtemény is a museum situated in Lajosmizse.",
+                  "category": "museum",
+                  "coords": [
+                        19.562775,
+                        47.025697
+                  ]
+            },
+            {
+                  "name": "Kláber Mór-kúria",
+                  "text": "Kláber Mór-kúria is a castle located in the city of Lajosmizse.",
+                  "category": "castle",
+                  "coords": [
+                        19.550109,
+                        47.00467
+                  ]
+            },
+            {
+                  "name": "Szent Lajos-templom",
+                  "text": "Szent Lajos-templom is a local place of worship in Lajosmizse.",
+                  "category": "religious",
+                  "coords": [
+                        19.557819,
+                        47.02701
                   ]
             }
       ]
@@ -2821,6 +5953,60 @@ export const poiExtraHu1: POI[] = [
                         20.256426,
                         46.652168
                   ]
+            },
+            {
+                  "name": "Dél-alföldi postatörténeti emlékszoba",
+                  "text": "Ein Gedenkraum zur Geschichte des Postwesens in der südlichen Tiefebene.",
+                  "category": "museum",
+                  "coords": [
+                        20.259327,
+                        46.651505
+                  ]
+            },
+            {
+                  "name": "Szabics Ferenc Emlékmúzeum",
+                  "text": "Ein lokales Gedenkmuseum in der Stadt Szentes.",
+                  "category": "museum",
+                  "coords": [
+                        20.267559,
+                        46.669053
+                  ]
+            },
+            {
+                  "name": "Szentesi Üdülőközpont",
+                  "text": "Ein beliebtes Thermalbad und Freizeitzentrum in Szentes.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248332,
+                        46.650772
+                  ]
+            },
+            {
+                  "name": "Koszta Múzeum",
+                  "text": "Eine kulturelle Einrichtung in Szentes, die sich der Kunst und Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        20.250454,
+                        46.651692
+                  ]
+            },
+            {
+                  "name": "Petőfi Szálló",
+                  "text": "Ein markantes historisches Hotelgebäude im Zentrum von Szentes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.257769,
+                        46.651524
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "Eine bedeutende katholische Kirche im Herzen von Szentes.",
+                  "category": "religious",
+                  "coords": [
+                        20.261989,
+                        46.670147
+                  ]
             }
       ],
       "hu": [
@@ -2897,6 +6083,60 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         20.256426,
                         46.652168
+                  ]
+            },
+            {
+                  "name": "Dél-alföldi postatörténeti emlékszoba",
+                  "text": "A dél-alföldi régió postai múltját bemutató kiállítóhely Szentesen.",
+                  "category": "museum",
+                  "coords": [
+                        20.259327,
+                        46.651505
+                  ]
+            },
+            {
+                  "name": "Szabics Ferenc Emlékmúzeum",
+                  "text": "Szentesi emlékmúzeum, amely helyi értékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        20.267559,
+                        46.669053
+                  ]
+            },
+            {
+                  "name": "Szentesi Üdülőközpont",
+                  "text": "Népszerű termálfürdő és szabadidős létesítmény Szentesen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248332,
+                        46.650772
+                  ]
+            },
+            {
+                  "name": "Koszta Múzeum",
+                  "text": "Szentesi kulturális intézmény, amely művészeti hagyományokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        20.250454,
+                        46.651692
+                  ]
+            },
+            {
+                  "name": "Petőfi Szálló",
+                  "text": "Szentes központjának patinás, történelmi szállodaépülete.",
+                  "category": "landmark",
+                  "coords": [
+                        20.257769,
+                        46.651524
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "Szentes egyik meghatározó katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        20.261989,
+                        46.670147
                   ]
             }
       ],
@@ -2975,6 +6215,60 @@ export const poiExtraHu1: POI[] = [
                         20.256426,
                         46.652168
                   ]
+            },
+            {
+                  "name": "Dél-alföldi postatörténeti emlékszoba",
+                  "text": "O cameră memorială dedicată istoriei poștei din regiunea Marii Câmpii de Sud.",
+                  "category": "museum",
+                  "coords": [
+                        20.259327,
+                        46.651505
+                  ]
+            },
+            {
+                  "name": "Szabics Ferenc Emlékmúzeum",
+                  "text": "Un muzeu memorial local situat în orașul Szentes.",
+                  "category": "museum",
+                  "coords": [
+                        20.267559,
+                        46.669053
+                  ]
+            },
+            {
+                  "name": "Szentesi Üdülőközpont",
+                  "text": "Un centru de agrement și băi termale populare în Szentes.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248332,
+                        46.650772
+                  ]
+            },
+            {
+                  "name": "Koszta Múzeum",
+                  "text": "O instituție culturală din Szentes dedicată artelor și istoriei.",
+                  "category": "museum",
+                  "coords": [
+                        20.250454,
+                        46.651692
+                  ]
+            },
+            {
+                  "name": "Petőfi Szálló",
+                  "text": "O clădire de hotel istorică și marcantă în centrul orașului Szentes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.257769,
+                        46.651524
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "O biserică catolică importantă situată în inima orașului Szentes.",
+                  "category": "religious",
+                  "coords": [
+                        20.261989,
+                        46.670147
+                  ]
             }
       ],
       "en": [
@@ -3051,6 +6345,60 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         20.256426,
                         46.652168
+                  ]
+            },
+            {
+                  "name": "Dél-alföldi postatörténeti emlékszoba",
+                  "text": "A memorial room dedicated to the postal history of the Southern Great Plain.",
+                  "category": "museum",
+                  "coords": [
+                        20.259327,
+                        46.651505
+                  ]
+            },
+            {
+                  "name": "Szabics Ferenc Emlékmúzeum",
+                  "text": "A local memorial museum located in the city of Szentes.",
+                  "category": "museum",
+                  "coords": [
+                        20.267559,
+                        46.669053
+                  ]
+            },
+            {
+                  "name": "Szentesi Üdülőközpont",
+                  "text": "A popular thermal bath and recreation center in Szentes.",
+                  "category": "recreational",
+                  "coords": [
+                        20.248332,
+                        46.650772
+                  ]
+            },
+            {
+                  "name": "Koszta Múzeum",
+                  "text": "A cultural institution in Szentes dedicated to art and history.",
+                  "category": "museum",
+                  "coords": [
+                        20.250454,
+                        46.651692
+                  ]
+            },
+            {
+                  "name": "Petőfi Szálló",
+                  "text": "A prominent historic hotel building in the center of Szentes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.257769,
+                        46.651524
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "A significant Catholic church located in the heart of Szentes.",
+                  "category": "religious",
+                  "coords": [
+                        20.261989,
+                        46.670147
                   ]
             }
       ]
@@ -3570,6 +6918,33 @@ export const poiExtraHu1: POI[] = [
                         17.2388,
                         47.612507
                   ]
+            },
+            {
+                  "name": "Csornai Fürdő",
+                  "text": "Csornai Fürdő ist ein Wasserpark in Csorna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249035,
+                        47.630896
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színpad ist ein Theater in Csorna.",
+                  "category": "cultural",
+                  "coords": [
+                        17.251465,
+                        47.613582
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "Jézus Szíve templom ist eine Kultstätte in Csorna.",
+                  "category": "religious",
+                  "coords": [
+                        17.246589,
+                        47.612302
+                  ]
             }
       ],
       "hu": [
@@ -3636,6 +7011,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         17.2388,
                         47.612507
+                  ]
+            },
+            {
+                  "name": "Csornai Fürdő",
+                  "text": "A Csornai Fürdő egy vízipark Csornán.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249035,
+                        47.630896
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "A Szabadtéri színpad egy színházi helyszín Csornán.",
+                  "category": "cultural",
+                  "coords": [
+                        17.251465,
+                        47.613582
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "A Jézus Szíve templom egy vallási épület Csornán.",
+                  "category": "religious",
+                  "coords": [
+                        17.246589,
+                        47.612302
                   ]
             }
       ],
@@ -3704,6 +7106,33 @@ export const poiExtraHu1: POI[] = [
                         17.2388,
                         47.612507
                   ]
+            },
+            {
+                  "name": "Csornai Fürdő",
+                  "text": "Csornai Fürdő este un parc acvatic din Csorna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249035,
+                        47.630896
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színpad este un teatru situat în Csorna.",
+                  "category": "cultural",
+                  "coords": [
+                        17.251465,
+                        47.613582
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "Jézus Szíve templom este un lăcaș de cult situat în Csorna.",
+                  "category": "religious",
+                  "coords": [
+                        17.246589,
+                        47.612302
+                  ]
             }
       ],
       "en": [
@@ -3770,6 +7199,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         17.2388,
                         47.612507
+                  ]
+            },
+            {
+                  "name": "Csornai Fürdő",
+                  "text": "Csornai Fürdő is a water park located in Csorna.",
+                  "category": "recreational",
+                  "coords": [
+                        17.249035,
+                        47.630896
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színpad is a theatre venue located in Csorna.",
+                  "category": "cultural",
+                  "coords": [
+                        17.251465,
+                        47.613582
+                  ]
+            },
+            {
+                  "name": "Jézus Szíve templom",
+                  "text": "Jézus Szíve templom is a place of worship situated in the city of Csorna.",
+                  "category": "religious",
+                  "coords": [
+                        17.246589,
+                        47.612302
                   ]
             }
       ]
@@ -4597,6 +8053,60 @@ export const poiExtraHu1: POI[] = [
                         18.7333,
                         47.7166
                   ]
+            },
+            {
+                  "name": "Bányász Múzeum és Ásványgyűjtemény Csolnok",
+                  "text": "Ein Bergbaumuseum mit einer umfangreichen Mineraliensammlung in Csolnok.",
+                  "category": "museum",
+                  "coords": [
+                        18.70579,
+                        47.702454
+                  ]
+            },
+            {
+                  "name": "Schmidt-kúria",
+                  "text": "Ein historisches Herrenhaus in Dorog, das einst der Familie Schmidt gehörte.",
+                  "category": "castle",
+                  "coords": [
+                        18.726198,
+                        47.735537
+                  ]
+            },
+            {
+                  "name": "Reimann Bányászati Múzeum és Miniverzum",
+                  "text": "Ein modernes Bergbaumuseum mit interaktiven Modellanlagen in Dorog.",
+                  "category": "museum",
+                  "coords": [
+                        18.729637,
+                        47.721842
+                  ]
+            },
+            {
+                  "name": "Palatinus-Tófürdő",
+                  "text": "Ein künstlich angelegter See mit Strandbad in der Nähe von Dorog.",
+                  "category": "recreational",
+                  "coords": [
+                        18.73614,
+                        47.731392
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "Die katholische Pfarrkirche des Heiligen Joseph in Dorog.",
+                  "category": "religious",
+                  "coords": [
+                        18.730324,
+                        47.717554
+                  ]
+            },
+            {
+                  "name": "Evangélikus és református templom",
+                  "text": "Ein gemeinsames Kirchengebäude der evangelischen und reformierten Gemeinde in Dorog.",
+                  "category": "religious",
+                  "coords": [
+                        18.743114,
+                        47.720089
+                  ]
             }
       ],
       "hu": [
@@ -4707,6 +8217,60 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.7333,
                         47.7166
+                  ]
+            },
+            {
+                  "name": "Bányász Múzeum és Ásványgyűjtemény Csolnok",
+                  "text": "Bányászati emlékeket és ásványgyűjteményt bemutató múzeum Csolnokon.",
+                  "category": "museum",
+                  "coords": [
+                        18.70579,
+                        47.702454
+                  ]
+            },
+            {
+                  "name": "Schmidt-kúria",
+                  "text": "A Schmidt család egykori kúriája Dorog városában.",
+                  "category": "castle",
+                  "coords": [
+                        18.726198,
+                        47.735537
+                  ]
+            },
+            {
+                  "name": "Reimann Bányászati Múzeum és Miniverzum",
+                  "text": "Interaktív bányászati kiállítás és miniatűr világ Dorogon.",
+                  "category": "museum",
+                  "coords": [
+                        18.729637,
+                        47.721842
+                  ]
+            },
+            {
+                  "name": "Palatinus-Tófürdő",
+                  "text": "Népszerű tóparti strand és üdülőhely Dorog mellett.",
+                  "category": "recreational",
+                  "coords": [
+                        18.73614,
+                        47.731392
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "Szent József tiszteletére szentelt katolikus plébániatemplom Dorogon.",
+                  "category": "religious",
+                  "coords": [
+                        18.730324,
+                        47.717554
+                  ]
+            },
+            {
+                  "name": "Evangélikus és református templom",
+                  "text": "Közös használatú protestáns templom Dorogon.",
+                  "category": "religious",
+                  "coords": [
+                        18.743114,
+                        47.720089
                   ]
             }
       ],
@@ -4819,6 +8383,60 @@ export const poiExtraHu1: POI[] = [
                         18.7333,
                         47.7166
                   ]
+            },
+            {
+                  "name": "Bányász Múzeum és Ásványgyűjtemény Csolnok",
+                  "text": "Un muzeu al mineritului cu o colecție bogată de minerale în Csolnok.",
+                  "category": "museum",
+                  "coords": [
+                        18.70579,
+                        47.702454
+                  ]
+            },
+            {
+                  "name": "Schmidt-kúria",
+                  "text": "Un conac istoric din Dorog, care a aparținut familiei Schmidt.",
+                  "category": "castle",
+                  "coords": [
+                        18.726198,
+                        47.735537
+                  ]
+            },
+            {
+                  "name": "Reimann Bányászati Múzeum és Miniverzum",
+                  "text": "Un muzeu modern al mineritului cu expoziții interactive în Dorog.",
+                  "category": "museum",
+                  "coords": [
+                        18.729637,
+                        47.721842
+                  ]
+            },
+            {
+                  "name": "Palatinus-Tófürdő",
+                  "text": "O stațiune balneară situată pe malul lacului Palatinus de lângă Dorog.",
+                  "category": "recreational",
+                  "coords": [
+                        18.73614,
+                        47.731392
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "Biserica parohială catolică Sfântul Iosif din Dorog.",
+                  "category": "religious",
+                  "coords": [
+                        18.730324,
+                        47.717554
+                  ]
+            },
+            {
+                  "name": "Evangélikus és református templom",
+                  "text": "O clădire de biserică utilizată de comunitățile evanghelică și reformată din Dorog.",
+                  "category": "religious",
+                  "coords": [
+                        18.743114,
+                        47.720089
+                  ]
             }
       ],
       "en": [
@@ -4929,6 +8547,60 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         18.7333,
                         47.7166
+                  ]
+            },
+            {
+                  "name": "Bányász Múzeum és Ásványgyűjtemény Csolnok",
+                  "text": "A mining museum featuring an extensive mineral collection in Csolnok.",
+                  "category": "museum",
+                  "coords": [
+                        18.70579,
+                        47.702454
+                  ]
+            },
+            {
+                  "name": "Schmidt-kúria",
+                  "text": "A historic mansion in Dorog that formerly belonged to the Schmidt family.",
+                  "category": "castle",
+                  "coords": [
+                        18.726198,
+                        47.735537
+                  ]
+            },
+            {
+                  "name": "Reimann Bányászati Múzeum és Miniverzum",
+                  "text": "A modern mining museum and interactive miniature world in Dorog.",
+                  "category": "museum",
+                  "coords": [
+                        18.729637,
+                        47.721842
+                  ]
+            },
+            {
+                  "name": "Palatinus-Tófürdő",
+                  "text": "A popular lakefront beach resort and recreation area near Dorog.",
+                  "category": "recreational",
+                  "coords": [
+                        18.73614,
+                        47.731392
+                  ]
+            },
+            {
+                  "name": "Szent József-templom",
+                  "text": "The Catholic parish church dedicated to Saint Joseph in Dorog.",
+                  "category": "religious",
+                  "coords": [
+                        18.730324,
+                        47.717554
+                  ]
+            },
+            {
+                  "name": "Evangélikus és református templom",
+                  "text": "A shared church building for the Lutheran and Reformed communities in Dorog.",
+                  "category": "religious",
+                  "coords": [
+                        18.743114,
+                        47.720089
                   ]
             }
       ]
@@ -5486,6 +9158,33 @@ export const poiExtraHu1: POI[] = [
                         19.69544,
                         47.918516
                   ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "Ein lokales Freibad in Pásztó, das Erholung und Badespaß bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "Eine Freilichtbühne in Pásztó für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "Ein markantes historisches Gebäude und eine lokale Sehenswürdigkeit in Pásztó.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
+                  ]
             }
       ],
       "hu": [
@@ -5541,6 +9240,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.69544,
                         47.918516
+                  ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "Helyi strandfürdő Pásztón, amely pihenést és fürdőzési lehetőséget kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "Szabadtéri színpad Pásztón kulturális rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "Jellegzetes történelmi épület és helyi látnivaló Pásztón.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
                   ]
             }
       ],
@@ -5598,6 +9324,33 @@ export const poiExtraHu1: POI[] = [
                         19.69544,
                         47.918516
                   ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "Un parc acvatic local în Pásztó, oferind recreere și facilități de înot.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "O scenă în aer liber din Pásztó pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "O clădire istorică distinctivă și o atracție locală în Pásztó.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
+                  ]
             }
       ],
       "en": [
@@ -5653,6 +9406,33 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         19.69544,
                         47.918516
+                  ]
+            },
+            {
+                  "name": "Pásztói strand",
+                  "text": "A local water park in Pásztó offering recreation and swimming facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        19.698146,
+                        47.929678
+                  ]
+            },
+            {
+                  "name": "Varázsvölgy - Színpad",
+                  "text": "An open-air stage in Pásztó for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        19.695137,
+                        47.917152
+                  ]
+            },
+            {
+                  "name": "Százoroszlános ház",
+                  "text": "A distinctive historical building and local attraction in Pásztó.",
+                  "category": "landmark",
+                  "coords": [
+                        19.694076,
+                        47.911912
                   ]
             }
       ]
@@ -5898,6 +9678,78 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
+                  "text": "Ráckevei Hajómalom Ipartörténeti Emlékhely ist ein bemerkenswertes Museum in Ráckeve, das als historische Wassermühle bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.94677,
+                        47.160125
+                  ]
+            },
+            {
+                  "name": "Árpád Múzeum",
+                  "text": "Árpád Múzeum ist ein Museum in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.945845,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Halmúzeum",
+                  "text": "Halmúzeum ist ein Museum in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.945255,
+                        47.164384
+                  ]
+            },
+            {
+                  "name": "Senki szigete",
+                  "text": "Senki szigete ist ein Naturschutzgebiet in Ráckeve.",
+                  "category": "natural",
+                  "coords": [
+                        18.951027,
+                        47.153203
+                  ]
+            },
+            {
+                  "name": "Patay László képtár",
+                  "text": "Patay László képtár ist ein Museum in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.94605,
+                        47.162131
+                  ]
+            },
+            {
+                  "name": "André Kertész Fotómúzeum és Emlékház",
+                  "text": "André Kertész Fotómúzeum és Emlékház ist ein Museum in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.947214,
+                        47.134453
+                  ]
+            },
+            {
+                  "name": "Tűztorony-kilátó",
+                  "text": "Tűztorony-kilátó ist ein Aussichtspunkt in Ráckeve.",
+                  "category": "natural",
+                  "coords": [
+                        18.94533,
+                        47.161141
+                  ]
+            },
+            {
+                  "name": "Szent Imre kilátó",
+                  "text": "Szent Imre kilátó ist eine Attraktion in Ráckeve.",
+                  "category": "landmark",
+                  "coords": [
+                        18.955534,
+                        47.167613
+                  ]
             }
       ],
       "hu": [
@@ -5966,6 +9818,78 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
+                  "text": "A Ráckevei Hajómalom Ipartörténeti Emlékhely egy jelentős múzeum és történelmi vízimalom Ráckevén.",
+                  "category": "museum",
+                  "coords": [
+                        18.94677,
+                        47.160125
+                  ]
+            },
+            {
+                  "name": "Árpád Múzeum",
+                  "text": "Az Árpád Múzeum egy múzeum Ráckevén.",
+                  "category": "museum",
+                  "coords": [
+                        18.945845,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Halmúzeum",
+                  "text": "A Halmúzeum egy múzeum Ráckevén.",
+                  "category": "museum",
+                  "coords": [
+                        18.945255,
+                        47.164384
+                  ]
+            },
+            {
+                  "name": "Senki szigete",
+                  "text": "A Senki szigete egy természetvédelmi terület Ráckevén.",
+                  "category": "natural",
+                  "coords": [
+                        18.951027,
+                        47.153203
+                  ]
+            },
+            {
+                  "name": "Patay László képtár",
+                  "text": "A Patay László képtár egy múzeum Ráckevén.",
+                  "category": "museum",
+                  "coords": [
+                        18.94605,
+                        47.162131
+                  ]
+            },
+            {
+                  "name": "André Kertész Fotómúzeum és Emlékház",
+                  "text": "Az André Kertész Fotómúzeum és Emlékház egy múzeum Ráckevén.",
+                  "category": "museum",
+                  "coords": [
+                        18.947214,
+                        47.134453
+                  ]
+            },
+            {
+                  "name": "Tűztorony-kilátó",
+                  "text": "A Tűztorony-kilátó egy kilátó Ráckevén.",
+                  "category": "natural",
+                  "coords": [
+                        18.94533,
+                        47.161141
+                  ]
+            },
+            {
+                  "name": "Szent Imre kilátó",
+                  "text": "A Szent Imre kilátó egy látványosság Ráckevén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.955534,
+                        47.167613
+                  ]
             }
       ],
       "ro": [
@@ -6034,6 +9958,78 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
+                  "text": "Ráckevei Hajómalom Ipartörténeti Emlékhely este un muzeu notabil din Ráckeve, cunoscut ca o moară de apă istorică.",
+                  "category": "museum",
+                  "coords": [
+                        18.94677,
+                        47.160125
+                  ]
+            },
+            {
+                  "name": "Árpád Múzeum",
+                  "text": "Árpád Múzeum este un muzeu situat în Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.945845,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Halmúzeum",
+                  "text": "Halmúzeum este un muzeu din Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.945255,
+                        47.164384
+                  ]
+            },
+            {
+                  "name": "Senki szigete",
+                  "text": "Senki szigete este o rezervație naturală din Ráckeve.",
+                  "category": "natural",
+                  "coords": [
+                        18.951027,
+                        47.153203
+                  ]
+            },
+            {
+                  "name": "Patay László képtár",
+                  "text": "Patay László képtár este un muzeu situat în Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.94605,
+                        47.162131
+                  ]
+            },
+            {
+                  "name": "André Kertész Fotómúzeum és Emlékház",
+                  "text": "André Kertész Fotómúzeum és Emlékház este un muzeu în Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.947214,
+                        47.134453
+                  ]
+            },
+            {
+                  "name": "Tűztorony-kilátó",
+                  "text": "Tűztorony-kilátó este un punct de belvedere în Ráckeve.",
+                  "category": "natural",
+                  "coords": [
+                        18.94533,
+                        47.161141
+                  ]
+            },
+            {
+                  "name": "Szent Imre kilátó",
+                  "text": "Szent Imre kilátó este o atracție în Ráckeve.",
+                  "category": "landmark",
+                  "coords": [
+                        18.955534,
+                        47.167613
+                  ]
             }
       ],
       "en": [
@@ -6102,6 +10098,78 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Ráckevei Hajómalom Ipartörténeti Emlékhely",
+                  "text": "Ráckevei Hajómalom Ipartörténeti Emlékhely is a notable museum in Ráckeve, recognized as a historic watermill.",
+                  "category": "museum",
+                  "coords": [
+                        18.94677,
+                        47.160125
+                  ]
+            },
+            {
+                  "name": "Árpád Múzeum",
+                  "text": "Árpád Múzeum is a museum located in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.945845,
+                        47.163076
+                  ]
+            },
+            {
+                  "name": "Halmúzeum",
+                  "text": "Halmúzeum is a museum located in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.945255,
+                        47.164384
+                  ]
+            },
+            {
+                  "name": "Senki szigete",
+                  "text": "Senki szigete is a nature reserve situated in Ráckeve.",
+                  "category": "natural",
+                  "coords": [
+                        18.951027,
+                        47.153203
+                  ]
+            },
+            {
+                  "name": "Patay László képtár",
+                  "text": "Patay László képtár is a museum located in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.94605,
+                        47.162131
+                  ]
+            },
+            {
+                  "name": "André Kertész Fotómúzeum és Emlékház",
+                  "text": "André Kertész Fotómúzeum és Emlékház is a museum in Ráckeve.",
+                  "category": "museum",
+                  "coords": [
+                        18.947214,
+                        47.134453
+                  ]
+            },
+            {
+                  "name": "Tűztorony-kilátó",
+                  "text": "Tűztorony-kilátó is a viewpoint located in Ráckeve.",
+                  "category": "natural",
+                  "coords": [
+                        18.94533,
+                        47.161141
+                  ]
+            },
+            {
+                  "name": "Szent Imre kilátó",
+                  "text": "Szent Imre kilátó is an attraction in Ráckeve.",
+                  "category": "landmark",
+                  "coords": [
+                        18.955534,
+                        47.167613
+                  ]
             }
       ]
 }
@@ -6222,6 +10290,312 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Visegrádi fellegvár",
+                  "text": "Die mittelalterliche Hochburg von Visegrád mit Panoramablick auf das Donauknie.",
+                  "category": "castle",
+                  "coords": [
+                        18.980318,
+                        47.793667
+                  ]
+            },
+            {
+                  "name": "\"Ponte Navata\" római erőd",
+                  "text": "Die Ruinen einer antiken römischen Festung am Ufer der Donau.",
+                  "category": "historical",
+                  "coords": [
+                        18.980108,
+                        47.79821
+                  ]
+            },
+            {
+                  "name": "Burgus Solva 24, római őrtorony",
+                  "text": "Überreste eines römischen Grenzwachturms aus der Zeit des Limes.",
+                  "category": "historical",
+                  "coords": [
+                        18.965903,
+                        47.775691
+                  ]
+            },
+            {
+                  "name": "Zugfőzde Pálinkamúzeum",
+                  "text": "Ein Museum in Nagymaros, das der Geschichte der Schnapsbrennerei gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.969666,
+                        47.785811
+                  ]
+            },
+            {
+                  "name": "Visegrád Gokart és Kalandpark",
+                  "text": "Ein Freizeitpark für Familien mit Go-Kart-Bahn und Abenteuerparcours.",
+                  "category": "recreational",
+                  "coords": [
+                        18.95373,
+                        47.766576
+                  ]
+            },
+            {
+                  "name": "Mátyás Király Múzeum",
+                  "text": "Ein Museum zur Geschichte des Königspalastes von Visegrád.",
+                  "category": "museum",
+                  "coords": [
+                        18.973043,
+                        47.791388
+                  ]
+            },
+            {
+                  "name": "Esperesi templom romja",
+                  "text": "Archäologische Ausgrabungsstätte einer mittelalterlichen Kirche.",
+                  "category": "historical",
+                  "coords": [
+                        18.982109,
+                        47.797305
+                  ]
+            },
+            {
+                  "name": "Mogyoró-hegyi Vadaspark",
+                  "text": "Ein Wildpark in den Hügeln, in dem man einheimische Tiere beobachten kann.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99746,
+                        47.797558
+                  ]
+            },
+            {
+                  "name": "Dr. Zsitvay Tibor",
+                  "text": "Ein Gedenkmuseum für den ungarischen Politiker Dr. Tibor Zsitvay.",
+                  "category": "museum",
+                  "coords": [
+                        18.992176,
+                        47.795567
+                  ]
+            },
+            {
+                  "name": "Salomon-Turm",
+                  "text": "Ein massiver mittelalterlicher Turm, Teil der Visegráder Befestigungsanlagen.",
+                  "category": "castle",
+                  "coords": [
+                        18.977158,
+                        47.796402
+                  ]
+            },
+            {
+                  "name": "Örökségek háza",
+                  "text": "Ein Museum, das lokales Handwerk und kulturelles Erbe bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        18.958845,
+                        47.786258
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Ein geschütztes Naturgebiet mit bedeutender Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.986484,
+                        47.755382
+                  ]
+            },
+            {
+                  "name": "Kövesmező",
+                  "text": "Ein Rastplatz und Aussichtspunkt in den Bergen bei Nagymaros.",
+                  "category": "natural",
+                  "coords": [
+                        18.944696,
+                        47.798111
+                  ]
+            },
+            {
+                  "name": "Hegyes-tető",
+                  "text": "Ein Gipfel im Börzsöny-Gebirge mit dem Julianus-Aussichtsturm.",
+                  "category": "natural",
+                  "coords": [
+                        18.933414,
+                        47.784155
+                  ]
+            },
+            {
+                  "name": "Gubacsi-hálás",
+                  "text": "Ein Bergipfel in der Region, der über Wanderwege erreichbar ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.95037,
+                        47.810654
+                  ]
+            },
+            {
+                  "name": "Rigó-hegy",
+                  "text": "Eine Erhebung in der Nähe von Nagymaros mit Naturpfaden.",
+                  "category": "natural",
+                  "coords": [
+                        18.939312,
+                        47.774915
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-hegy",
+                  "text": "Ein markanter Gipfel im Börzsöny mit Blick auf die Donauschleife.",
+                  "category": "natural",
+                  "coords": [
+                        18.92781,
+                        47.77611
+                  ]
+            },
+            {
+                  "name": "Fehér-hegy",
+                  "text": "Ein lokaler Hügel, der als Wanderziel in der Natur dient.",
+                  "category": "natural",
+                  "coords": [
+                        18.944936,
+                        47.801097
+                  ]
+            },
+            {
+                  "name": "Mogyoróhegy Étterem",
+                  "text": "Ein Restaurant in den Bergen, das als lokaler Anziehungspunkt gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.99595,
+                        47.798306
+                  ]
+            },
+            {
+                  "name": "Gánti kilátóhely",
+                  "text": "Ein Aussichtspunkt, der weite Ausblicke auf die umliegende Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.938586,
+                        47.773572
+                  ]
+            },
+            {
+                  "name": "Ördög-hegyi kilátás",
+                  "text": "Ein Platz mit schöner Aussicht auf dem Ördög-Berg.",
+                  "category": "natural",
+                  "coords": [
+                        18.931007,
+                        47.77158
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi műemlék kerekeskút",
+                  "text": "Ein historischer Brunnen in der Nähe des Fehér-Berges.",
+                  "category": "landmark",
+                  "coords": [
+                        18.954024,
+                        47.792276
+                  ]
+            },
+            {
+                  "name": "Nagy korhadt fák kilátás",
+                  "text": "Ein Aussichtspunkt, der für seine alten Bäume und Naturbelassenheit bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.946128,
+                        47.792052
+                  ]
+            },
+            {
+                  "name": "kilátás a Visegrádi várra",
+                  "text": "Ein spezifischer Punkt mit direktem Blick auf die Burg von Visegrád.",
+                  "category": "natural",
+                  "coords": [
+                        18.963611,
+                        47.794088
+                  ]
+            },
+            {
+                  "name": "Bányatető-kilátó",
+                  "text": "Ein Aussichtsturm auf einem bewaldeten Gipfel bei Nagymaros.",
+                  "category": "natural",
+                  "coords": [
+                        18.974295,
+                        47.768533
+                  ]
+            },
+            {
+                  "name": "Szép kilátás!",
+                  "text": "Ein markierter Platz, der für seine besonders schöne Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        18.948383,
+                        47.794594
+                  ]
+            },
+            {
+                  "name": "korall kilátóhely",
+                  "text": "Ein kleiner Aussichtspunkt inmitten der Natur.",
+                  "category": "natural",
+                  "coords": [
+                        18.983211,
+                        47.787262
+                  ]
+            },
+            {
+                  "name": "Patkónyomos szikla",
+                  "text": "Eine natürliche Felsformation mit sagenumwobenen Vertiefungen.",
+                  "category": "landmark",
+                  "coords": [
+                        18.946808,
+                        47.789961
+                  ]
+            },
+            {
+                  "name": "Vízibástya",
+                  "text": "Ein Teil der mittelalterlichen Uferbefestigung von Visegrád.",
+                  "category": "landmark",
+                  "coords": [
+                        18.976058,
+                        47.796484
+                  ]
+            },
+            {
+                  "name": "Visegrádi Bobpálya",
+                  "text": "Eine beliebte Sommerrodelbahn mit Blick auf die Donau.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992376,
+                        47.792911
+                  ]
+            },
+            {
+                  "name": "Szikla",
+                  "text": "Eine lokale Sehenswürdigkeit in Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.973799,
+                        47.788116
+                  ]
+            },
+            {
+                  "name": "Egylábú ház",
+                  "text": "Ein interessantes Gebäude und eine lokale Sehenswürdigkeit in Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.963932,
+                        47.796164
+                  ]
+            },
+            {
+                  "name": "Canopy Visegrád",
+                  "text": "Eine Abenteuer-Attraktion mit Seilrutschen in der Region Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.987417,
+                        47.79614
+                  ]
+            },
+            {
+                  "name": "Szigetcsúcs",
+                  "text": "Ein beliebter Badeort an der Spitze der Insel in Nagymaros.",
+                  "category": "recreational",
+                  "coords": [
+                        18.985605,
+                        47.80602
+                  ]
             }
       ],
       "hu": [
@@ -6290,6 +10664,312 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Visegrádi fellegvár",
+                  "text": "A Dunakanyarra néző középkori fellegvár Visegrádon.",
+                  "category": "castle",
+                  "coords": [
+                        18.980318,
+                        47.793667
+                  ]
+            },
+            {
+                  "name": "\"Ponte Navata\" római erőd",
+                  "text": "Római kori erődítmény maradványai a Duna partján.",
+                  "category": "historical",
+                  "coords": [
+                        18.980108,
+                        47.79821
+                  ]
+            },
+            {
+                  "name": "Burgus Solva 24, római őrtorony",
+                  "text": "A római limes részét képező egykori őrtorony romjai.",
+                  "category": "historical",
+                  "coords": [
+                        18.965903,
+                        47.775691
+                  ]
+            },
+            {
+                  "name": "Zugfőzde Pálinkamúzeum",
+                  "text": "A pálinkafőzés történetét bemutató múzeum Nagymaroson.",
+                  "category": "museum",
+                  "coords": [
+                        18.969666,
+                        47.785811
+                  ]
+            },
+            {
+                  "name": "Visegrád Gokart és Kalandpark",
+                  "text": "Gokartpályával és kalandpályákkal felszerelt szabadidőpark.",
+                  "category": "recreational",
+                  "coords": [
+                        18.95373,
+                        47.766576
+                  ]
+            },
+            {
+                  "name": "Mátyás Király Múzeum",
+                  "text": "A visegrádi királyi palota történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.973043,
+                        47.791388
+                  ]
+            },
+            {
+                  "name": "Esperesi templom romja",
+                  "text": "Egy középkori esperesi templom feltárt maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        18.982109,
+                        47.797305
+                  ]
+            },
+            {
+                  "name": "Mogyoró-hegyi Vadaspark",
+                  "text": "Helyi vadfajokat bemutató park a Mogyoró-hegyen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99746,
+                        47.797558
+                  ]
+            },
+            {
+                  "name": "Dr. Zsitvay Tibor",
+                  "text": "Dr. Zsitvay Tibor emlékének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        18.992176,
+                        47.795567
+                  ]
+            },
+            {
+                  "name": "Salamon torony",
+                  "text": "A visegrádi alsóvár monumentális lakótornya.",
+                  "category": "castle",
+                  "coords": [
+                        18.977158,
+                        47.796402
+                  ]
+            },
+            {
+                  "name": "Örökségek háza",
+                  "text": "A helyi kulturális örökséget és mesterségeket bemutató ház.",
+                  "category": "museum",
+                  "coords": [
+                        18.958845,
+                        47.786258
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "Kiemelt természeti értékekkel rendelkező védett terület.",
+                  "category": "natural",
+                  "coords": [
+                        18.986484,
+                        47.755382
+                  ]
+            },
+            {
+                  "name": "Kövesmező",
+                  "text": "Kedvelt kirándulóhely és kilátópont a hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        18.944696,
+                        47.798111
+                  ]
+            },
+            {
+                  "name": "Hegyes-tető",
+                  "text": "A Börzsöny egyik legszebb kilátást nyújtó csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        18.933414,
+                        47.784155
+                  ]
+            },
+            {
+                  "name": "Gubacsi-hálás",
+                  "text": "Gyalogosan megközelíthető hegycsúcs a környéken.",
+                  "category": "natural",
+                  "coords": [
+                        18.95037,
+                        47.810654
+                  ]
+            },
+            {
+                  "name": "Rigó-hegy",
+                  "text": "Nagymaros közeli hegycsúcs természeti látnivalókkal.",
+                  "category": "natural",
+                  "coords": [
+                        18.939312,
+                        47.774915
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-hegy",
+                  "text": "A Börzsöny meghatározó hegye, remek kilátással a Dunakanyarra.",
+                  "category": "natural",
+                  "coords": [
+                        18.92781,
+                        47.77611
+                  ]
+            },
+            {
+                  "name": "Fehér-hegy",
+                  "text": "Természetközeli túracélpontot jelentő hegycsúcs.",
+                  "category": "natural",
+                  "coords": [
+                        18.944936,
+                        47.801097
+                  ]
+            },
+            {
+                  "name": "Mogyoróhegy Étterem",
+                  "text": "Hegyvidéki étterem és kedvelt kirándulási célpont.",
+                  "category": "landmark",
+                  "coords": [
+                        18.99595,
+                        47.798306
+                  ]
+            },
+            {
+                  "name": "Gánti kilátóhely",
+                  "text": "Szép kilátást nyújtó pihenőhely a természetben.",
+                  "category": "natural",
+                  "coords": [
+                        18.938586,
+                        47.773572
+                  ]
+            },
+            {
+                  "name": "Ördög-hegyi kilátás",
+                  "text": "Panorámás kilátópont az Ördög-hegyen.",
+                  "category": "natural",
+                  "coords": [
+                        18.931007,
+                        47.77158
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi műemlék kerekeskút",
+                  "text": "Történelmi jellegű kerekes kút a Fehér-hegy lábánál.",
+                  "category": "landmark",
+                  "coords": [
+                        18.954024,
+                        47.792276
+                  ]
+            },
+            {
+                  "name": "Nagy korhadt fák kilátás",
+                  "text": "Természetközeli kilátóhely öreg fákkal övezve.",
+                  "category": "natural",
+                  "coords": [
+                        18.946128,
+                        47.792052
+                  ]
+            },
+            {
+                  "name": "kilátás a Visegrádi várra",
+                  "text": "Kifejezetten a visegrádi várra néző panorámapont.",
+                  "category": "natural",
+                  "coords": [
+                        18.963611,
+                        47.794088
+                  ]
+            },
+            {
+                  "name": "Bányatető-kilátó",
+                  "text": "Nagymaros feletti erdős csúcson található kilátó.",
+                  "category": "natural",
+                  "coords": [
+                        18.974295,
+                        47.768533
+                  ]
+            },
+            {
+                  "name": "Szép kilátás!",
+                  "text": "Különlegesen szép panorámát nyújtó természetközeli helyszín.",
+                  "category": "natural",
+                  "coords": [
+                        18.948383,
+                        47.794594
+                  ]
+            },
+            {
+                  "name": "korall kilátóhely",
+                  "text": "Kisebb kilátóhely a hegyvidéki túraútvonalak mentén.",
+                  "category": "natural",
+                  "coords": [
+                        18.983211,
+                        47.787262
+                  ]
+            },
+            {
+                  "name": "Patkónyomos szikla",
+                  "text": "Különleges formájú, legendák övezte sziklaalakzat.",
+                  "category": "landmark",
+                  "coords": [
+                        18.946808,
+                        47.789961
+                  ]
+            },
+            {
+                  "name": "Vízibástya",
+                  "text": "A középkori visegrádi erődrendszer folyóparti bástyája.",
+                  "category": "landmark",
+                  "coords": [
+                        18.976058,
+                        47.796484
+                  ]
+            },
+            {
+                  "name": "Visegrádi Bobpálya",
+                  "text": "Népszerű bobpálya látványos dunai kilátással.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992376,
+                        47.792911
+                  ]
+            },
+            {
+                  "name": "Szikla",
+                  "text": "Helyi látnivaló Nagymaroson.",
+                  "category": "landmark",
+                  "coords": [
+                        18.973799,
+                        47.788116
+                  ]
+            },
+            {
+                  "name": "Egylábú ház",
+                  "text": "Érdekes épület és helyi látnivaló Nagymaroson.",
+                  "category": "landmark",
+                  "coords": [
+                        18.963932,
+                        47.796164
+                  ]
+            },
+            {
+                  "name": "Canopy Visegrád",
+                  "text": "Kalandos kötélpálya-attrakció Nagymaros környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        18.987417,
+                        47.79614
+                  ]
+            },
+            {
+                  "name": "Szigetcsúcs",
+                  "text": "Népszerű strandhelyszín a szigetcsúcsnál Nagymaroson.",
+                  "category": "recreational",
+                  "coords": [
+                        18.985605,
+                        47.80602
+                  ]
             }
       ],
       "ro": [
@@ -6358,6 +11038,312 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Visegrádi fellegvár",
+                  "text": "Citadela medievală din Visegrád, oferind o panoramă asupra cotului Dunării.",
+                  "category": "castle",
+                  "coords": [
+                        18.980318,
+                        47.793667
+                  ]
+            },
+            {
+                  "name": "\"Ponte Navata\" római erőd",
+                  "text": "Ruinele unei fortificații romane antice pe malul Dunării.",
+                  "category": "historical",
+                  "coords": [
+                        18.980108,
+                        47.79821
+                  ]
+            },
+            {
+                  "name": "Burgus Solva 24, római őrtorony",
+                  "text": "Rămășițele unui turn de veghe roman din perioada limesului dunărean.",
+                  "category": "historical",
+                  "coords": [
+                        18.965903,
+                        47.775691
+                  ]
+            },
+            {
+                  "name": "Zugfőzde Pálinkamúzeum",
+                  "text": "Un muzeu din Nagymaros dedicat istoriei distilării țuicii.",
+                  "category": "museum",
+                  "coords": [
+                        18.969666,
+                        47.785811
+                  ]
+            },
+            {
+                  "name": "Visegrád Gokart és Kalandpark",
+                  "text": "Un parc de distracții cu pistă de karting și trasee de aventură.",
+                  "category": "recreational",
+                  "coords": [
+                        18.95373,
+                        47.766576
+                  ]
+            },
+            {
+                  "name": "Mátyás Király Múzeum",
+                  "text": "Muzeul dedicat istoriei palatului regal al regelui Matia.",
+                  "category": "museum",
+                  "coords": [
+                        18.973043,
+                        47.791388
+                  ]
+            },
+            {
+                  "name": "Esperesi templom romja",
+                  "text": "Situl arheologic al ruinelor unei biserici medievale.",
+                  "category": "historical",
+                  "coords": [
+                        18.982109,
+                        47.797305
+                  ]
+            },
+            {
+                  "name": "Mogyoró-hegyi Vadaspark",
+                  "text": "Un parc sălbatic situat pe dealuri, unde pot fi observate animale native.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99746,
+                        47.797558
+                  ]
+            },
+            {
+                  "name": "Dr. Zsitvay Tibor",
+                  "text": "Un muzeu memorial dedicat politicianului maghiar Dr. Tibor Zsitvay.",
+                  "category": "museum",
+                  "coords": [
+                        18.992176,
+                        47.795567
+                  ]
+            },
+            {
+                  "name": "Salamon torony",
+                  "text": "Un turn medieval masiv, parte a sistemului de fortificații din Visegrád.",
+                  "category": "castle",
+                  "coords": [
+                        18.977158,
+                        47.796402
+                  ]
+            },
+            {
+                  "name": "Örökségek háza",
+                  "text": "Un muzeu care conservă meșteșugurile locale și moștenirea culturală.",
+                  "category": "museum",
+                  "coords": [
+                        18.958845,
+                        47.786258
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "O zonă naturală protejată cu floră și faună semnificative.",
+                  "category": "natural",
+                  "coords": [
+                        18.986484,
+                        47.755382
+                  ]
+            },
+            {
+                  "name": "Kövesmező",
+                  "text": "Un loc de popas și punct de belvedere în munții de lângă Nagymaros.",
+                  "category": "natural",
+                  "coords": [
+                        18.944696,
+                        47.798111
+                  ]
+            },
+            {
+                  "name": "Hegyes-tető",
+                  "text": "Un vârf în munții Börzsöny, cunoscut pentru turnul de belvedere Julianus.",
+                  "category": "natural",
+                  "coords": [
+                        18.933414,
+                        47.784155
+                  ]
+            },
+            {
+                  "name": "Gubacsi-hálás",
+                  "text": "Un vârf montan din regiune accesibil prin trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        18.95037,
+                        47.810654
+                  ]
+            },
+            {
+                  "name": "Rigó-hegy",
+                  "text": "O colină în apropiere de Nagymaros cu poteci naturale.",
+                  "category": "natural",
+                  "coords": [
+                        18.939312,
+                        47.774915
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-hegy",
+                  "text": "Un vârf proeminent din munții Börzsöny cu vedere spre cotul Dunării.",
+                  "category": "natural",
+                  "coords": [
+                        18.92781,
+                        47.77611
+                  ]
+            },
+            {
+                  "name": "Fehér-hegy",
+                  "text": "O colină locală care servește ca destinație pentru drumeții în natură.",
+                  "category": "natural",
+                  "coords": [
+                        18.944936,
+                        47.801097
+                  ]
+            },
+            {
+                  "name": "Mogyoróhegy Étterem",
+                  "text": "Un restaurant situat la munte, considerat un punct de atracție local.",
+                  "category": "landmark",
+                  "coords": [
+                        18.99595,
+                        47.798306
+                  ]
+            },
+            {
+                  "name": "Gánti kilátóhely",
+                  "text": "Un punct de observație care oferă vederi largi asupra peisajului înconjurător.",
+                  "category": "natural",
+                  "coords": [
+                        18.938586,
+                        47.773572
+                  ]
+            },
+            {
+                  "name": "Ördög-hegyi kilátás",
+                  "text": "Un loc cu o vedere frumoasă situat pe muntele Ördög.",
+                  "category": "natural",
+                  "coords": [
+                        18.931007,
+                        47.77158
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi műemlék kerekeskút",
+                  "text": "O fântână cu roată istorică situată în apropierea muntelui Fehér.",
+                  "category": "landmark",
+                  "coords": [
+                        18.954024,
+                        47.792276
+                  ]
+            },
+            {
+                  "name": "Nagy korhadt fák kilátás",
+                  "text": "Un punct de belvedere cunoscut pentru arborii săi vechi și cadrul natural.",
+                  "category": "natural",
+                  "coords": [
+                        18.946128,
+                        47.792052
+                  ]
+            },
+            {
+                  "name": "kilátás a Visegrádi várra",
+                  "text": "Un punct specific cu vedere directă spre cetatea din Visegrád.",
+                  "category": "natural",
+                  "coords": [
+                        18.963611,
+                        47.794088
+                  ]
+            },
+            {
+                  "name": "Bányatető-kilátó",
+                  "text": "Un turn de belvedere situat pe un vârf împădurit lângă Nagymaros.",
+                  "category": "natural",
+                  "coords": [
+                        18.974295,
+                        47.768533
+                  ]
+            },
+            {
+                  "name": "Szép kilátás!",
+                  "text": "Un loc marcat, renumit pentru vederea sa deosebit de frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        18.948383,
+                        47.794594
+                  ]
+            },
+            {
+                  "name": "korall kilátóhely",
+                  "text": "Un mic punct de belvedere situat în mijlocul naturii.",
+                  "category": "natural",
+                  "coords": [
+                        18.983211,
+                        47.787262
+                  ]
+            },
+            {
+                  "name": "Patkónyomos szikla",
+                  "text": "O formațiune stâncoasă naturală cu depresiuni despre care există legende locale.",
+                  "category": "landmark",
+                  "coords": [
+                        18.946808,
+                        47.789961
+                  ]
+            },
+            {
+                  "name": "Vízibástya",
+                  "text": "O parte a fortificațiilor medievale de pe malul apei din Visegrád.",
+                  "category": "landmark",
+                  "coords": [
+                        18.976058,
+                        47.796484
+                  ]
+            },
+            {
+                  "name": "Visegrádi Bobpálya",
+                  "text": "O pistă de bob de vară populară, cu vedere spre Dunăre.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992376,
+                        47.792911
+                  ]
+            },
+            {
+                  "name": "Szikla",
+                  "text": "O atracție locală în Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.973799,
+                        47.788116
+                  ]
+            },
+            {
+                  "name": "Egylábú ház",
+                  "text": "O clădire interesantă și o atracție locală în Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.963932,
+                        47.796164
+                  ]
+            },
+            {
+                  "name": "Canopy Visegrád",
+                  "text": "O atracție de aventură cu tiroliană în regiunea Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.987417,
+                        47.79614
+                  ]
+            },
+            {
+                  "name": "Szigetcsúcs",
+                  "text": "O locație populară de plajă la vârful insulei din Nagymaros.",
+                  "category": "recreational",
+                  "coords": [
+                        18.985605,
+                        47.80602
+                  ]
             }
       ],
       "en": [
@@ -6426,6 +11412,312 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Visegrád Citadel",
+                  "text": "The medieval citadel of Visegrád offering panoramic views of the Danube Bend.",
+                  "category": "castle",
+                  "coords": [
+                        18.980318,
+                        47.793667
+                  ]
+            },
+            {
+                  "name": "\"Ponte Navata\" római erőd",
+                  "text": "The ruins of an ancient Roman fort located along the Danube.",
+                  "category": "historical",
+                  "coords": [
+                        18.980108,
+                        47.79821
+                  ]
+            },
+            {
+                  "name": "Burgus Solva 24, római őrtorony",
+                  "text": "Remains of a Roman watchtower that was part of the ancient Danube Limes.",
+                  "category": "historical",
+                  "coords": [
+                        18.965903,
+                        47.775691
+                  ]
+            },
+            {
+                  "name": "Zugfőzde Pálinkamúzeum",
+                  "text": "A museum in Nagymaros dedicated to the history of pálinka distilling.",
+                  "category": "museum",
+                  "coords": [
+                        18.969666,
+                        47.785811
+                  ]
+            },
+            {
+                  "name": "Visegrád Gokart és Kalandpark",
+                  "text": "An adventure park featuring a go-kart track and various outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        18.95373,
+                        47.766576
+                  ]
+            },
+            {
+                  "name": "King Mátyás Museum",
+                  "text": "A museum showcasing the history and artifacts of the Royal Palace of Visegrád.",
+                  "category": "museum",
+                  "coords": [
+                        18.973043,
+                        47.791388
+                  ]
+            },
+            {
+                  "name": "Esperesi templom romja",
+                  "text": "Archaeological site featuring the ruins of a medieval deanship church.",
+                  "category": "historical",
+                  "coords": [
+                        18.982109,
+                        47.797305
+                  ]
+            },
+            {
+                  "name": "Mogyoró-hegyi Vadaspark",
+                  "text": "A wildlife park in the hills where visitors can observe native animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        18.99746,
+                        47.797558
+                  ]
+            },
+            {
+                  "name": "Dr. Zsitvay Tibor",
+                  "text": "A memorial museum dedicated to the Hungarian politician Dr. Tibor Zsitvay.",
+                  "category": "museum",
+                  "coords": [
+                        18.992176,
+                        47.795567
+                  ]
+            },
+            {
+                  "name": "Salamon torony",
+                  "text": "A massive medieval tower, part of the Visegrád lower castle fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        18.977158,
+                        47.796402
+                  ]
+            },
+            {
+                  "name": "Örökségek háza",
+                  "text": "A museum preserving local crafts and cultural heritage.",
+                  "category": "museum",
+                  "coords": [
+                        18.958845,
+                        47.786258
+                  ]
+            },
+            {
+                  "name": "Fokozottan védett terület",
+                  "text": "A strictly protected natural area with significant local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        18.986484,
+                        47.755382
+                  ]
+            },
+            {
+                  "name": "Kövesmező",
+                  "text": "A popular rest area and viewpoint in the mountains near Nagymaros.",
+                  "category": "natural",
+                  "coords": [
+                        18.944696,
+                        47.798111
+                  ]
+            },
+            {
+                  "name": "Hegyes-tető",
+                  "text": "A mountain peak in the Börzsöny range featuring the Julianus lookout tower.",
+                  "category": "natural",
+                  "coords": [
+                        18.933414,
+                        47.784155
+                  ]
+            },
+            {
+                  "name": "Gubacsi-hálás",
+                  "text": "A mountain peak in the region accessible via hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        18.95037,
+                        47.810654
+                  ]
+            },
+            {
+                  "name": "Rigó-hegy",
+                  "text": "A hill near Nagymaros featuring natural trails and scenic spots.",
+                  "category": "natural",
+                  "coords": [
+                        18.939312,
+                        47.774915
+                  ]
+            },
+            {
+                  "name": "Szent Mihály-hegy",
+                  "text": "A prominent peak in the Börzsöny mountains overlooking the Danube Bend.",
+                  "category": "natural",
+                  "coords": [
+                        18.92781,
+                        47.77611
+                  ]
+            },
+            {
+                  "name": "Fehér-hegy",
+                  "text": "A local hill serving as a hiking destination in a natural setting.",
+                  "category": "natural",
+                  "coords": [
+                        18.944936,
+                        47.801097
+                  ]
+            },
+            {
+                  "name": "Mogyoróhegy Étterem",
+                  "text": "A mountain restaurant serving as a local attraction and rest stop.",
+                  "category": "landmark",
+                  "coords": [
+                        18.99595,
+                        47.798306
+                  ]
+            },
+            {
+                  "name": "Gánti kilátóhely",
+                  "text": "A viewpoint offering expansive vistas of the surrounding landscape.",
+                  "category": "natural",
+                  "coords": [
+                        18.938586,
+                        47.773572
+                  ]
+            },
+            {
+                  "name": "Ördög-hegyi kilátás",
+                  "text": "A scenic spot offering views from the Ördög Hill area.",
+                  "category": "natural",
+                  "coords": [
+                        18.931007,
+                        47.77158
+                  ]
+            },
+            {
+                  "name": "Fehérhegyi műemlék kerekeskút",
+                  "text": "A historic-style draw well located near the Fehér Hill.",
+                  "category": "landmark",
+                  "coords": [
+                        18.954024,
+                        47.792276
+                  ]
+            },
+            {
+                  "name": "Nagy korhadt fák kilátás",
+                  "text": "A natural viewpoint known for its old trees and scenic atmosphere.",
+                  "category": "natural",
+                  "coords": [
+                        18.946128,
+                        47.792052
+                  ]
+            },
+            {
+                  "name": "kilátás a Visegrádi várra",
+                  "text": "A specific vantage point with a direct view of the Visegrád Citadel.",
+                  "category": "natural",
+                  "coords": [
+                        18.963611,
+                        47.794088
+                  ]
+            },
+            {
+                  "name": "Bányatető-kilátó",
+                  "text": "A lookout tower situated on a forested peak near Nagymaros.",
+                  "category": "natural",
+                  "coords": [
+                        18.974295,
+                        47.768533
+                  ]
+            },
+            {
+                  "name": "Szép kilátás!",
+                  "text": "A designated spot known for its exceptionally beautiful scenic views.",
+                  "category": "natural",
+                  "coords": [
+                        18.948383,
+                        47.794594
+                  ]
+            },
+            {
+                  "name": "korall kilátóhely",
+                  "text": "A small scenic viewpoint located along nature trails.",
+                  "category": "natural",
+                  "coords": [
+                        18.983211,
+                        47.787262
+                  ]
+            },
+            {
+                  "name": "Patkónyomos szikla",
+                  "text": "A natural rock formation featuring legendary indentations.",
+                  "category": "landmark",
+                  "coords": [
+                        18.946808,
+                        47.789961
+                  ]
+            },
+            {
+                  "name": "Vízibástya",
+                  "text": "A part of the medieval riverside fortifications of Visegrád.",
+                  "category": "landmark",
+                  "coords": [
+                        18.976058,
+                        47.796484
+                  ]
+            },
+            {
+                  "name": "Visegrád Toboggan Park",
+                  "text": "A popular summer bobsleigh track with views of the Danube.",
+                  "category": "landmark",
+                  "coords": [
+                        18.992376,
+                        47.792911
+                  ]
+            },
+            {
+                  "name": "Szikla",
+                  "text": "A local attraction in Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.973799,
+                        47.788116
+                  ]
+            },
+            {
+                  "name": "Egylábú ház",
+                  "text": "An interesting building and a local attraction in Nagymaros.",
+                  "category": "landmark",
+                  "coords": [
+                        18.963932,
+                        47.796164
+                  ]
+            },
+            {
+                  "name": "Canopy Visegrád",
+                  "text": "An adventure attraction featuring zip lines in the Nagymaros area.",
+                  "category": "landmark",
+                  "coords": [
+                        18.987417,
+                        47.79614
+                  ]
+            },
+            {
+                  "name": "Szigetcsúcs",
+                  "text": "A popular beach location at the tip of the island in Nagymaros.",
+                  "category": "recreational",
+                  "coords": [
+                        18.985605,
+                        47.80602
+                  ]
             }
       ]
 }
@@ -6746,6 +12038,24 @@ export const poiExtraHu1: POI[] = [
                         22.518284,
                         47.980325
                   ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Ein lokales Museum in Fehérgyarmat, das die regionale Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "Ein beliebtes öffentliches Freibad und Wasserpark in Fehérgyarmat.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517562,
+                        47.994447
+                  ]
             }
       ],
       "hu": [
@@ -6801,6 +12111,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         22.518284,
                         47.980325
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Helytörténeti múzeum Fehérgyarmaton, amely a régió kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "Népszerű városi strandfürdő és csúszdapark Fehérgyarmaton.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517562,
+                        47.994447
                   ]
             }
       ],
@@ -6858,6 +12186,24 @@ export const poiExtraHu1: POI[] = [
                         22.518284,
                         47.980325
                   ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Un muzeu local din Fehérgyarmat care prezintă cultura regională.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "Un ștrand public și parc acvatic popular în Fehérgyarmat.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517562,
+                        47.994447
+                  ]
             }
       ],
       "en": [
@@ -6913,6 +12259,24 @@ export const poiExtraHu1: POI[] = [
                   "coords": [
                         22.518284,
                         47.980325
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A local museum in Fehérgyarmat showcasing regional culture.",
+                  "category": "museum",
+                  "coords": [
+                        22.510383,
+                        47.995367
+                  ]
+            },
+            {
+                  "name": "Városi Strandfürdő",
+                  "text": "A popular public lido and water park in Fehérgyarmat.",
+                  "category": "recreational",
+                  "coords": [
+                        22.517562,
+                        47.994447
                   ]
             }
       ]
@@ -7012,6 +12376,33 @@ export const poiExtraHu1: POI[] = [
                         "license": "Google Places API",
                         "platform": "google-places"
                   }
+            },
+            {
+                  "name": "Újfehértói Múzeum",
+                  "text": "Újfehértói Múzeum ist ein Museum in Újfehértó.",
+                  "category": "museum",
+                  "coords": [
+                        21.681393,
+                        47.79941
+                  ]
+            },
+            {
+                  "name": "Zajti Ferenc Kulturális Központ",
+                  "text": "Zajti Ferenc Kulturális Központ ist ein Kunstzentrum in Újfehértó.",
+                  "category": "cultural",
+                  "coords": [
+                        21.682455,
+                        47.799308
+                  ]
+            },
+            {
+                  "name": "Örömhírvétel-templom",
+                  "text": "Örömhírvétel-templom ist eine lokale Kultstätte in Újfehértó.",
+                  "category": "religious",
+                  "coords": [
+                        21.68497,
+                        47.803361
+                  ]
             }
       ],
       "hu": [
@@ -7058,6 +12449,33 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Újfehértói Múzeum",
+                  "text": "Az Újfehértói Múzeum egy múzeum Újfehértón.",
+                  "category": "museum",
+                  "coords": [
+                        21.681393,
+                        47.79941
+                  ]
+            },
+            {
+                  "name": "Zajti Ferenc Kulturális Központ",
+                  "text": "A Zajti Ferenc Kulturális Központ egy művészeti központ Újfehértón.",
+                  "category": "cultural",
+                  "coords": [
+                        21.682455,
+                        47.799308
+                  ]
+            },
+            {
+                  "name": "Örömhírvétel-templom",
+                  "text": "Az Örömhírvétel-templom egy vallási épület Újfehértón.",
+                  "category": "religious",
+                  "coords": [
+                        21.68497,
+                        47.803361
+                  ]
             }
       ],
       "ro": [
@@ -7104,6 +12522,33 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Újfehértói Múzeum",
+                  "text": "Újfehértói Múzeum este un muzeu din Újfehértó.",
+                  "category": "museum",
+                  "coords": [
+                        21.681393,
+                        47.79941
+                  ]
+            },
+            {
+                  "name": "Zajti Ferenc Kulturális Központ",
+                  "text": "Zajti Ferenc Kulturális Központ este un centru de artă din Újfehértó.",
+                  "category": "cultural",
+                  "coords": [
+                        21.682455,
+                        47.799308
+                  ]
+            },
+            {
+                  "name": "Örömhírvétel-templom",
+                  "text": "Örömhírvétel-templom este un lăcaș de cult local din Újfehértó.",
+                  "category": "religious",
+                  "coords": [
+                        21.68497,
+                        47.803361
+                  ]
             }
       ],
       "en": [
@@ -7150,6 +12595,33 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Újfehértói Múzeum",
+                  "text": "Újfehértói Múzeum is a museum showcasing local history in Újfehértó.",
+                  "category": "museum",
+                  "coords": [
+                        21.681393,
+                        47.79941
+                  ]
+            },
+            {
+                  "name": "Zajti Ferenc Kulturális Központ",
+                  "text": "Zajti Ferenc Kulturális Központ is an arts centre serving the community in Újfehértó.",
+                  "category": "cultural",
+                  "coords": [
+                        21.682455,
+                        47.799308
+                  ]
+            },
+            {
+                  "name": "Örömhírvétel-templom",
+                  "text": "Örömhírvétel-templom is a local place of worship situated in Újfehértó.",
+                  "category": "religious",
+                  "coords": [
+                        21.68497,
+                        47.803361
+                  ]
             }
       ]
 }
@@ -7383,6 +12855,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Várhegyi kilátó",
+                  "text": "Ein Aussichtsturm auf dem Várhegy in Tamási mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        18.282386,
+                        46.614013
+                  ]
+            },
+            {
+                  "name": "Kilátó-GSM-torony",
+                  "text": "Ein Aussichtspunkt auf einem GSM-Turm in Tamási.",
+                  "category": "natural",
+                  "coords": [
+                        18.300093,
+                        46.641695
+                  ]
             }
       ],
       "hu": [
@@ -7440,6 +12930,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Várhegyi kilátó",
+                  "text": "Kilátó a tamási Várhegyen, ahonnan panorámás kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        18.282386,
+                        46.614013
+                  ]
+            },
+            {
+                  "name": "Kilátó-GSM-torony",
+                  "text": "Kilátópont egy GSM-toronyon Tamásiban.",
+                  "category": "natural",
+                  "coords": [
+                        18.300093,
+                        46.641695
+                  ]
             }
       ],
       "ro": [
@@ -7497,6 +13005,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Várhegyi kilátó",
+                  "text": "Un turn de observare pe Várhegy în Tamási, oferind vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        18.282386,
+                        46.614013
+                  ]
+            },
+            {
+                  "name": "Kilátó-GSM-torony",
+                  "text": "Un punct de belvedere situat pe un turn GSM în Tamási.",
+                  "category": "natural",
+                  "coords": [
+                        18.300093,
+                        46.641695
+                  ]
             }
       ],
       "en": [
@@ -7554,6 +13080,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Várhegyi kilátó",
+                  "text": "A lookout tower on Várhegy in Tamási, offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        18.282386,
+                        46.614013
+                  ]
+            },
+            {
+                  "name": "Kilátó-GSM-torony",
+                  "text": "A viewpoint located on a GSM tower in Tamási.",
+                  "category": "natural",
+                  "coords": [
+                        18.300093,
+                        46.641695
+                  ]
             }
       ]
 }
@@ -7765,6 +13309,51 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vasvári Múzeum",
+                  "text": "Ein Museum in Vasvár, das sich mit der Geschichte der Region befasst.",
+                  "category": "museum",
+                  "coords": [
+                        16.799428,
+                        47.048979
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Eine Veranstaltungsstätte für Theateraufführungen unter freiem Himmel in Vasvár.",
+                  "category": "cultural",
+                  "coords": [
+                        16.79001,
+                        47.046486
+                  ]
+            },
+            {
+                  "name": "Vasvári Sánc",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte in der Stadt Vasvár.",
+                  "category": "historical",
+                  "coords": [
+                        16.801927,
+                        47.030062
+                  ]
+            },
+            {
+                  "name": "Vasvári kilátó",
+                  "text": "Ein Aussichtspunkt in Vasvár, der einen weiten Blick über die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        16.793835,
+                        47.047461
+                  ]
+            },
+            {
+                  "name": "Góczán-kert",
+                  "text": "Historische Überreste und Ruinen in der Stadt Vasvár.",
+                  "category": "historical",
+                  "coords": [
+                        16.788894,
+                        47.056723
+                  ]
             }
       ],
       "hu": [
@@ -7800,6 +13389,51 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vasvári Múzeum",
+                  "text": "Vasvári múzeum, amely a környék történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        16.799428,
+                        47.048979
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "Szabadtéri színházi előadások helyszíne Vasváron.",
+                  "category": "cultural",
+                  "coords": [
+                        16.79001,
+                        47.046486
+                  ]
+            },
+            {
+                  "name": "Vasvári Sánc",
+                  "text": "Jelentős régészeti lelőhely Vasvár városában.",
+                  "category": "historical",
+                  "coords": [
+                        16.801927,
+                        47.030062
+                  ]
+            },
+            {
+                  "name": "Vasvári kilátó",
+                  "text": "Kilátó Vasváron, ahonnan szép kilátás nyílik a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        16.793835,
+                        47.047461
+                  ]
+            },
+            {
+                  "name": "Góczán-kert",
+                  "text": "Történelmi romok és maradványok Vasvár városában.",
+                  "category": "historical",
+                  "coords": [
+                        16.788894,
+                        47.056723
+                  ]
             }
       ],
       "ro": [
@@ -7835,6 +13469,51 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vasvári Múzeum",
+                  "text": "Un muzeu din Vasvár dedicat istoriei regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        16.799428,
+                        47.048979
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "O locație pentru spectacole de teatru în aer liber în Vasvár.",
+                  "category": "cultural",
+                  "coords": [
+                        16.79001,
+                        47.046486
+                  ]
+            },
+            {
+                  "name": "Vasvári Sánc",
+                  "text": "Un sit arheologic important situat în orașul Vasvár.",
+                  "category": "historical",
+                  "coords": [
+                        16.801927,
+                        47.030062
+                  ]
+            },
+            {
+                  "name": "Vasvári kilátó",
+                  "text": "Un punct de observație în Vasvár ce oferă o vedere panoramică asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        16.793835,
+                        47.047461
+                  ]
+            },
+            {
+                  "name": "Góczán-kert",
+                  "text": "Rămășițe istorice și ruine în orașul Vasvár.",
+                  "category": "historical",
+                  "coords": [
+                        16.788894,
+                        47.056723
+                  ]
             }
       ],
       "en": [
@@ -7870,6 +13549,51 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vasvári Múzeum",
+                  "text": "A museum in Vasvár focusing on the history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        16.799428,
+                        47.048979
+                  ]
+            },
+            {
+                  "name": "Szabadtéri színpad",
+                  "text": "A venue for open-air theatrical performances in Vasvár.",
+                  "category": "cultural",
+                  "coords": [
+                        16.79001,
+                        47.046486
+                  ]
+            },
+            {
+                  "name": "Vasvári Sánc",
+                  "text": "A significant archaeological site located in the town of Vasvár.",
+                  "category": "historical",
+                  "coords": [
+                        16.801927,
+                        47.030062
+                  ]
+            },
+            {
+                  "name": "Vasvári kilátó",
+                  "text": "A viewpoint in Vasvár offering panoramic views of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        16.793835,
+                        47.047461
+                  ]
+            },
+            {
+                  "name": "Góczán-kert",
+                  "text": "Historical ruins and remnants in the town of Vasvár.",
+                  "category": "historical",
+                  "coords": [
+                        16.788894,
+                        47.056723
+                  ]
             }
       ]
 }
@@ -8376,6 +14100,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Ein Wildpark in Ajka, der lokale Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.574667,
+                        47.085067
+                  ]
+            },
+            {
+                  "name": "Ajkai Városi Múzeum",
+                  "text": "Das Stadtmuseum von Ajka zeigt lokale historische und kulturelle Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        17.560294,
+                        47.106213
+                  ]
+            },
+            {
+                  "name": "Kristályfürdő",
+                  "text": "Ein Thermal- und Erlebnisbad in Ajka.",
+                  "category": "recreational",
+                  "coords": [
+                        17.557942,
+                        47.113679
+                  ]
+            },
+            {
+                  "name": "MÁV 376.631",
+                  "text": "Eine ausgestellte historische Dampflokomotive in Ajka.",
+                  "category": "landmark",
+                  "coords": [
+                        17.571749,
+                        47.105997
+                  ]
             }
       ],
       "hu": [
@@ -8433,6 +14193,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Helyi állatfajokat bemutató vadaspark Ajkán.",
+                  "category": "recreational",
+                  "coords": [
+                        17.574667,
+                        47.085067
+                  ]
+            },
+            {
+                  "name": "Ajkai Városi Múzeum",
+                  "text": "Az Ajkai Városi Múzeum helytörténeti és kulturális kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.560294,
+                        47.106213
+                  ]
+            },
+            {
+                  "name": "Kristályfürdő",
+                  "text": "Termál- és élményfürdő Ajkán.",
+                  "category": "recreational",
+                  "coords": [
+                        17.557942,
+                        47.113679
+                  ]
+            },
+            {
+                  "name": "MÁV 376.631",
+                  "text": "Kiállított történelmi gőzmozdony Ajkán.",
+                  "category": "landmark",
+                  "coords": [
+                        17.571749,
+                        47.105997
+                  ]
             }
       ],
       "ro": [
@@ -8490,6 +14286,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "Un parc de animale sălbatice în Ajka, prezentând specii locale.",
+                  "category": "recreational",
+                  "coords": [
+                        17.574667,
+                        47.085067
+                  ]
+            },
+            {
+                  "name": "Ajkai Városi Múzeum",
+                  "text": "Muzeul orașului Ajka prezintă exponate istorice și culturale locale.",
+                  "category": "museum",
+                  "coords": [
+                        17.560294,
+                        47.106213
+                  ]
+            },
+            {
+                  "name": "Kristályfürdő",
+                  "text": "Un parc acvatic și băi termale în Ajka.",
+                  "category": "recreational",
+                  "coords": [
+                        17.557942,
+                        47.113679
+                  ]
+            },
+            {
+                  "name": "MÁV 376.631",
+                  "text": "O locomotivă cu abur istorică expusă în Ajka.",
+                  "category": "landmark",
+                  "coords": [
+                        17.571749,
+                        47.105997
+                  ]
             }
       ],
       "en": [
@@ -8547,6 +14379,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Vadaspark",
+                  "text": "A wildlife park in Ajka showcasing local animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        17.574667,
+                        47.085067
+                  ]
+            },
+            {
+                  "name": "Ajkai Városi Múzeum",
+                  "text": "The city museum of Ajka presents local historical and cultural exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        17.560294,
+                        47.106213
+                  ]
+            },
+            {
+                  "name": "Kristályfürdő",
+                  "text": "A thermal and adventure water park in Ajka.",
+                  "category": "recreational",
+                  "coords": [
+                        17.557942,
+                        47.113679
+                  ]
+            },
+            {
+                  "name": "MÁV 376.631",
+                  "text": "A historical steam locomotive on display in Ajka.",
+                  "category": "landmark",
+                  "coords": [
+                        17.571749,
+                        47.105997
+                  ]
             }
       ]
 }
@@ -8627,6 +14495,15 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Művelődési ház",
+                  "text": "Ein lokales Kulturzentrum in Berhida für Kunst- und Theaterveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        18.108064,
+                        47.119108
+                  ]
             }
       ],
       "hu": [
@@ -8662,6 +14539,15 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Művelődési ház",
+                  "text": "Helyi művelődési ház Berhidán művészeti és színházi esteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        18.108064,
+                        47.119108
+                  ]
             }
       ],
       "ro": [
@@ -8697,6 +14583,15 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Művelődési ház",
+                  "text": "Un centru cultural local în Berhida pentru evenimente artistice și teatrale.",
+                  "category": "cultural",
+                  "coords": [
+                        18.108064,
+                        47.119108
+                  ]
             }
       ],
       "en": [
@@ -8732,6 +14627,15 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "Művelődési ház",
+                  "text": "A local cultural center in Berhida for arts and theater events.",
+                  "category": "cultural",
+                  "coords": [
+                        18.108064,
+                        47.119108
+                  ]
             }
       ]
 }
@@ -8954,6 +14858,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fáma Háza",
+                  "text": "Fáma Háza ist ein lokales Museum in Letenye.",
+                  "category": "museum",
+                  "coords": [
+                        16.734574,
+                        46.4329
+                  ]
+            },
+            {
+                  "name": "Utcakép",
+                  "text": "Utcakép ist eine Attraktion in Letenye.",
+                  "category": "landmark",
+                  "coords": [
+                        16.744353,
+                        46.420761
+                  ]
             }
       ],
       "hu": [
@@ -9000,6 +14922,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fáma Háza",
+                  "text": "A Fáma Háza egy múzeum Letenyén.",
+                  "category": "museum",
+                  "coords": [
+                        16.734574,
+                        46.4329
+                  ]
+            },
+            {
+                  "name": "Utcakép",
+                  "text": "Az Utcakép egy látványosság Letenyén.",
+                  "category": "landmark",
+                  "coords": [
+                        16.744353,
+                        46.420761
+                  ]
             }
       ],
       "ro": [
@@ -9046,6 +14986,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fáma Háza",
+                  "text": "Fáma Háza este un muzeu local din Letenye.",
+                  "category": "museum",
+                  "coords": [
+                        16.734574,
+                        46.4329
+                  ]
+            },
+            {
+                  "name": "Utcakép",
+                  "text": "Utcakép este o atracție în Letenye.",
+                  "category": "landmark",
+                  "coords": [
+                        16.744353,
+                        46.420761
+                  ]
             }
       ],
       "en": [
@@ -9092,6 +15050,24 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "known"
+            },
+            {
+                  "name": "Fáma Háza",
+                  "text": "Fáma Háza is a local museum providing cultural exhibits in Letenye.",
+                  "category": "museum",
+                  "coords": [
+                        16.734574,
+                        46.4329
+                  ]
+            },
+            {
+                  "name": "Utcakép",
+                  "text": "Utcakép is an urban attraction in Letenye.",
+                  "category": "landmark",
+                  "coords": [
+                        16.744353,
+                        46.420761
+                  ]
             }
       ]
 }
@@ -9172,6 +15148,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "SALA castrum (Salla Múzeum, római romok)",
+                  "text": "Archäologische Ausgrabungsstätte in Zalalövő mit Überresten der römischen Siedlung Salla.",
+                  "category": "historical",
+                  "coords": [
+                        16.586813,
+                        46.846025
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Ein Heimatmuseum in Zalalövő, das die traditionelle bäuerliche Architektur und Lebensweise zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        16.58002,
+                        46.847375
+                  ]
+            },
+            {
+                  "name": "Borostyán-tó Strand",
+                  "text": "Ein Badestrand am Borostyán-See in Zalalövő.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569597,
+                        46.852896
+                  ]
+            },
+            {
+                  "name": "kutyás strand",
+                  "text": "Ein spezieller Strandabschnitt für Hunde am See in Zalalövő.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568741,
+                        46.849899
+                  ]
             }
       ],
       "hu": [
@@ -9207,6 +15219,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "SALA castrum (Salla Múzeum, római romok)",
+                  "text": "Zalalövői régészeti lelőhely, ahol a római kori Salla település romjai láthatók.",
+                  "category": "historical",
+                  "coords": [
+                        16.586813,
+                        46.846025
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "Tájház Zalalövőn, amely a hagyományos népi építészetet és életmódot mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        16.58002,
+                        46.847375
+                  ]
+            },
+            {
+                  "name": "Borostyán-tó Strand",
+                  "text": "Strand a zalalövői Borostyán-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569597,
+                        46.852896
+                  ]
+            },
+            {
+                  "name": "kutyás strand",
+                  "text": "Kutyák számára kialakított strand Zalalövőn a tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568741,
+                        46.849899
+                  ]
             }
       ],
       "ro": [
@@ -9242,6 +15290,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "SALA castrum (Salla Múzeum, római romok)",
+                  "text": "Sit arheologic în Zalalövő care prezintă ruinele așezării romane Salla.",
+                  "category": "historical",
+                  "coords": [
+                        16.586813,
+                        46.846025
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "O casă tradițională în Zalalövő care prezintă arhitectura și stilul de viață popular.",
+                  "category": "museum",
+                  "coords": [
+                        16.58002,
+                        46.847375
+                  ]
+            },
+            {
+                  "name": "Borostyán-tó Strand",
+                  "text": "O plajă la lacul Borostyán în Zalalövő.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569597,
+                        46.852896
+                  ]
+            },
+            {
+                  "name": "kutyás strand",
+                  "text": "O plajă special amenajată pentru câini la lacul din Zalalövő.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568741,
+                        46.849899
+                  ]
             }
       ],
       "en": [
@@ -9277,6 +15361,42 @@ export const poiExtraHu1: POI[] = [
                   ],
                   "confidence": "high",
                   "source_hint": "wiki"
+            },
+            {
+                  "name": "SALA castrum (Salla Múzeum, római romok)",
+                  "text": "Archaeological site in Zalalövő featuring the ruins of the Roman settlement Salla.",
+                  "category": "historical",
+                  "coords": [
+                        16.586813,
+                        46.846025
+                  ]
+            },
+            {
+                  "name": "Tájház",
+                  "text": "A regional house museum in Zalalövő showcasing traditional folk architecture and lifestyle.",
+                  "category": "museum",
+                  "coords": [
+                        16.58002,
+                        46.847375
+                  ]
+            },
+            {
+                  "name": "Borostyán-tó Strand",
+                  "text": "A beach resort at Borostyán Lake in Zalalövő.",
+                  "category": "recreational",
+                  "coords": [
+                        16.569597,
+                        46.852896
+                  ]
+            },
+            {
+                  "name": "kutyás strand",
+                  "text": "A beach area specially designated for dogs at the lake in Zalalövő.",
+                  "category": "recreational",
+                  "coords": [
+                        16.568741,
+                        46.849899
+                  ]
             }
       ]
 }

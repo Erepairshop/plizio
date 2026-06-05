@@ -44,7 +44,340 @@ export const panamaCities: POI[] = [
     historyYear: 1519,
     historyPeriod: "Colonial", image: "/poi-images/pa-panamacity.webp"},
   { 
-    id: "pa-david", 
+    id: "pa-david", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Barrio y Antigüedades La Casona",
+                  "text": "Ein Museum in David, das die lokale Geschichte und Antiquitäten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -82.424137,
+                        8.425137
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural Gallegos",
+                  "text": "Ein Kulturmuseum und eine Stiftung in David, Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -82.423195,
+                        8.425062
+                  ]
+            },
+            {
+                  "name": "Museo al Ferrocarril",
+                  "text": "Ein Eisenbahnmuseum in David, das die Eisenbahngeschichte der Region dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -82.437918,
+                        8.421502
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "Ein Kulturzentrum und Veranstaltungsort in David.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.430954,
+                        8.429666
+                  ]
+            },
+            {
+                  "name": "Candanedo Family Home",
+                  "text": "Eine archäologische Stätte von historischer Bedeutung in David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.422434,
+                        8.426423
+                  ]
+            },
+            {
+                  "name": "Torre Campanario de la Catedral de San José",
+                  "text": "Der ikonische Glockenturm der Kathedrale San José in David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.421996,
+                        8.424506
+                  ]
+            },
+            {
+                  "name": "Club Activo 20-30",
+                  "text": "Ein Denkmal, das dem örtlichen Serviceclub in David gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412215,
+                        8.435991
+                  ]
+            },
+            {
+                  "name": "San José",
+                  "text": "Ein Denkmal in der Stadt David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.411134,
+                        8.435007
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico David",
+                  "text": "Ein beliebter Fotopunkt mit dem Namen der Stadt in David.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.406279,
+                        8.431095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Barrio y Antigüedades La Casona",
+                  "text": "David városában található múzeum, amely a helyi történelmet és régiségeket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -82.424137,
+                        8.425137
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural Gallegos",
+                  "text": "Kulturális múzeum és alapítvány a panamai David városában.",
+                  "category": "museum",
+                  "coords": [
+                        -82.423195,
+                        8.425062
+                  ]
+            },
+            {
+                  "name": "Museo al Ferrocarril",
+                  "text": "Vasúti múzeum Davidben, amely a régió vasúttörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -82.437918,
+                        8.421502
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "Kulturális központ és előadótér David városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.430954,
+                        8.429666
+                  ]
+            },
+            {
+                  "name": "Candanedo Family Home",
+                  "text": "Történelmi jelentőségű régészeti lelőhely Davidben.",
+                  "category": "historical",
+                  "coords": [
+                        -82.422434,
+                        8.426423
+                  ]
+            },
+            {
+                  "name": "Torre Campanario de la Catedral de San José",
+                  "text": "A David-i San José székesegyház jellegzetes harangtornya.",
+                  "category": "historical",
+                  "coords": [
+                        -82.421996,
+                        8.424506
+                  ]
+            },
+            {
+                  "name": "Club Activo 20-30",
+                  "text": "A helyi jótékonysági klubnak szentelt emlékmű Davidben.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412215,
+                        8.435991
+                  ]
+            },
+            {
+                  "name": "San José",
+                  "text": "Emlékmű David városában.",
+                  "category": "historical",
+                  "coords": [
+                        -82.411134,
+                        8.435007
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico David",
+                  "text": "Népszerű fotópont a város nevével Davidben.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.406279,
+                        8.431095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Barrio y Antigüedades La Casona",
+                  "text": "Un muzeu din David care prezintă istoria locală și antichități.",
+                  "category": "museum",
+                  "coords": [
+                        -82.424137,
+                        8.425137
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural Gallegos",
+                  "text": "Un muzeu cultural și fundație situată în David, Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -82.423195,
+                        8.425062
+                  ]
+            },
+            {
+                  "name": "Museo al Ferrocarril",
+                  "text": "Un muzeu feroviar care documentează istoria feroviară a regiunii în David.",
+                  "category": "museum",
+                  "coords": [
+                        -82.437918,
+                        8.421502
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "Un centru cultural și spațiu de spectacole în David.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.430954,
+                        8.429666
+                  ]
+            },
+            {
+                  "name": "Candanedo Family Home",
+                  "text": "Un sit arheologic de importanță istorică în David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.422434,
+                        8.426423
+                  ]
+            },
+            {
+                  "name": "Torre Campanario de la Catedral de San José",
+                  "text": "Turnul clopotniță iconic al Catedralei San José din David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.421996,
+                        8.424506
+                  ]
+            },
+            {
+                  "name": "Club Activo 20-30",
+                  "text": "Un monument dedicat clubului de servicii locale din David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412215,
+                        8.435991
+                  ]
+            },
+            {
+                  "name": "San José",
+                  "text": "Un monument în orașul David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.411134,
+                        8.435007
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico David",
+                  "text": "Un punct foto popular cu numele orașului în David.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.406279,
+                        8.431095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Barrio y Antigüedades La Casona",
+                  "text": "A museum in David showcasing local history and antiques.",
+                  "category": "museum",
+                  "coords": [
+                        -82.424137,
+                        8.425137
+                  ]
+            },
+            {
+                  "name": "Fundación Cultural Gallegos",
+                  "text": "A cultural museum and foundation located in David, Panama.",
+                  "category": "museum",
+                  "coords": [
+                        -82.423195,
+                        8.425062
+                  ]
+            },
+            {
+                  "name": "Museo al Ferrocarril",
+                  "text": "A railway museum documenting the rail history of the region in David.",
+                  "category": "museum",
+                  "coords": [
+                        -82.437918,
+                        8.421502
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "A cultural center and performance space in David.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.430954,
+                        8.429666
+                  ]
+            },
+            {
+                  "name": "Candanedo Family Home",
+                  "text": "An archaeological site of historical significance in David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.422434,
+                        8.426423
+                  ]
+            },
+            {
+                  "name": "Torre Campanario de la Catedral de San José",
+                  "text": "The iconic bell tower of the San José Cathedral in David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.421996,
+                        8.424506
+                  ]
+            },
+            {
+                  "name": "Club Activo 20-30",
+                  "text": "A monument dedicated to the local service club in David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.412215,
+                        8.435991
+                  ]
+            },
+            {
+                  "name": "San José",
+                  "text": "A monument in the city of David.",
+                  "category": "historical",
+                  "coords": [
+                        -82.411134,
+                        8.435007
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico David",
+                  "text": "A popular photo spot featuring the city's name in David.",
+                  "category": "landmark",
+                  "coords": [
+                        -82.406279,
+                        8.431095
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "PA", 
     coords: [-82.4333, 8.4273], 
@@ -118,7 +451,196 @@ export const panamaCities: POI[] = [
     image: "/poi-images/pa-colon.webp",
   },
   { 
-    id: "pa-santiago", 
+    id: "pa-santiago", "sights": {
+      "de": [
+            {
+                  "name": "Aula Máxima",
+                  "text": "Ein historisches Theater und Versammlungssaal in Santiago de Veraguas.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.978788,
+                        8.101673
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo Canal de Panamá",
+                  "text": "Ein interaktives Museum über den Panamakanal in Santiago de Veraguas.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983453,
+                        8.096732
+                  ]
+            },
+            {
+                  "name": "Regional de Veraguas",
+                  "text": "Ein Museum, das die Geschichte und Kultur der Region Veraguas zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983715,
+                        8.098093
+                  ]
+            },
+            {
+                  "name": "Italia Guadalupe",
+                  "text": "Ein beliebter Wasserpark zur Erholung in Santiago de Veraguas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.978995,
+                        8.122571
+                  ]
+            },
+            {
+                  "name": "Las Madres",
+                  "text": "Eine kulturell bedeutende historische Stätte in Santiago de Veraguas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.97873,
+                        8.099952
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aula Máxima",
+                  "text": "Történelmi színház és gyülekezőterem Santiago de Veraguasban.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.978788,
+                        8.101673
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo Canal de Panamá",
+                  "text": "A Panama-csatornának szentelt interaktív múzeum Santiago de Veraguasban.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983453,
+                        8.096732
+                  ]
+            },
+            {
+                  "name": "Regional de Veraguas",
+                  "text": "Veraguas régió történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983715,
+                        8.098093
+                  ]
+            },
+            {
+                  "name": "Italia Guadalupe",
+                  "text": "Népszerű vízipark Santiago de Veraguasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.978995,
+                        8.122571
+                  ]
+            },
+            {
+                  "name": "Las Madres",
+                  "text": "Kulturális jelentőségű örökségi helyszín Santiago de Veraguasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.97873,
+                        8.099952
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aula Máxima",
+                  "text": "Un teatru istoric și o sală de adunări în Santiago de Veraguas.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.978788,
+                        8.101673
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo Canal de Panamá",
+                  "text": "Un muzeu interactiv dedicat Canalului Panama în Santiago de Veraguas.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983453,
+                        8.096732
+                  ]
+            },
+            {
+                  "name": "Regional de Veraguas",
+                  "text": "Un muzeu care prezintă istoria și cultura regiunii Veraguas.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983715,
+                        8.098093
+                  ]
+            },
+            {
+                  "name": "Italia Guadalupe",
+                  "text": "Un parc acvatic popular pentru recreere în Santiago de Veraguas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.978995,
+                        8.122571
+                  ]
+            },
+            {
+                  "name": "Las Madres",
+                  "text": "Un sit de patrimoniu de importanță culturală în Santiago de Veraguas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.97873,
+                        8.099952
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Aula Máxima",
+                  "text": "A historic theatre and assembly hall in Santiago de Veraguas.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.978788,
+                        8.101673
+                  ]
+            },
+            {
+                  "name": "Centro Interactivo Canal de Panamá",
+                  "text": "An interactive museum dedicated to the Panama Canal in Santiago de Veraguas.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983453,
+                        8.096732
+                  ]
+            },
+            {
+                  "name": "Regional de Veraguas",
+                  "text": "A museum showcasing the history and culture of the Veraguas region.",
+                  "category": "museum",
+                  "coords": [
+                        -80.983715,
+                        8.098093
+                  ]
+            },
+            {
+                  "name": "Italia Guadalupe",
+                  "text": "A popular water park for recreation in Santiago de Veraguas.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.978995,
+                        8.122571
+                  ]
+            },
+            {
+                  "name": "Las Madres",
+                  "text": "A heritage site of cultural importance in Santiago de Veraguas.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.97873,
+                        8.099952
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "PA", 
     coords: [-80.9833, 8.1000], 
@@ -154,7 +676,160 @@ export const panamaCities: POI[] = [
     historyYear: 1621,
     historyPeriod: "Colonial", image: "/poi-images/pa-santiago.webp"},
   { 
-    id: "pa-chitre", 
+    id: "pa-chitre", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Chitre",
+                  "text": "Museo de Chitre ist ein Museum in Chitré.",
+                  "category": "museum",
+                  "coords": [
+                        -80.429894,
+                        7.96436
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Parque ist ein Denkmal in Chitré.",
+                  "category": "historical",
+                  "coords": [
+                        -80.428072,
+                        7.967088
+                  ]
+            },
+            {
+                  "name": "Piscina Pública",
+                  "text": "Public Pool ist eine Touristenattraktion in Chitré.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.431056,
+                        7.966703
+                  ]
+            },
+            {
+                  "name": "mascaras",
+                  "text": "Masks ist eine Touristenattraktion in Chitré.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.428994,
+                        7.966895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Chitre",
+                  "text": "A Museo de Chitre egy múzeum Chitré városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.429894,
+                        7.96436
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "A Parque egy emlékmű Chitré városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.428072,
+                        7.967088
+                  ]
+            },
+            {
+                  "name": "Piscina Pública",
+                  "text": "A Public Pool egy turisztikai látványosság Chitré városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.431056,
+                        7.966703
+                  ]
+            },
+            {
+                  "name": "mascaras",
+                  "text": "A Masks egy turisztikai látványosság Chitré városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.428994,
+                        7.966895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Chitre",
+                  "text": "Museo de Chitre este un muzeu situat în Chitré.",
+                  "category": "museum",
+                  "coords": [
+                        -80.429894,
+                        7.96436
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Parque este un monument situat în Chitré.",
+                  "category": "historical",
+                  "coords": [
+                        -80.428072,
+                        7.967088
+                  ]
+            },
+            {
+                  "name": "Piscina Pública",
+                  "text": "Public Pool este o atracție turistică situată în Chitré.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.431056,
+                        7.966703
+                  ]
+            },
+            {
+                  "name": "mascaras",
+                  "text": "Masks este o atracție turistică situată în Chitré.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.428994,
+                        7.966895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Chitre",
+                  "text": "Museo de Chitre is a museum located in Chitré.",
+                  "category": "museum",
+                  "coords": [
+                        -80.429894,
+                        7.96436
+                  ]
+            },
+            {
+                  "name": "Parque",
+                  "text": "Parque is a monument located in Chitré.",
+                  "category": "historical",
+                  "coords": [
+                        -80.428072,
+                        7.967088
+                  ]
+            },
+            {
+                  "name": "Public Pool",
+                  "text": "Public Pool is a tourist attraction located in Chitré.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.431056,
+                        7.966703
+                  ]
+            },
+            {
+                  "name": "masks",
+                  "text": "Masks is a tourist attraction located in Chitré.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.428994,
+                        7.966895
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "PA", 
     coords: [-80.4333, 7.9667], 

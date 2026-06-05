@@ -646,7 +646,340 @@ imageHint: "Small fortified church with ancient stone wall and tower",
     },
   },
   {
-    id: "slovenia-skofja-loka-town-history-v2",
+    id: "slovenia-skofja-loka-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Škofjeloški grad",
+                  "text": "Die Burg von Škofja Loka thront über der Stadt und beherbergt heute das Loški-Museum.",
+                  "category": "castle",
+                  "coords": [
+                        14.305049,
+                        46.165262
+                  ]
+            },
+            {
+                  "name": "Puštalski grad",
+                  "text": "Ein Schloss in Puštal bei Škofja Loka, bekannt für seine historische Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        14.311021,
+                        46.162277
+                  ]
+            },
+            {
+                  "name": "Starološki grad",
+                  "text": "Ein historisches Schloss im alten Teil von Škofja Loka.",
+                  "category": "castle",
+                  "coords": [
+                        14.300677,
+                        46.171549
+                  ]
+            },
+            {
+                  "name": "Wildenlack",
+                  "text": "Eine archäologische Stätte mit Überresten der ursprünglichen Burg von Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.287145,
+                        46.163093
+                  ]
+            },
+            {
+                  "name": "Vešterski mlin",
+                  "text": "Eine historische Mühle in Vešter bei Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.285533,
+                        46.172301
+                  ]
+            },
+            {
+                  "name": "Zgornji stolp na Kranclju",
+                  "text": "Die Ruinen des oberen Turms auf dem Krancl-Hügel in Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.30318,
+                        46.16368
+                  ]
+            },
+            {
+                  "name": "Galerija Ivana Groharja",
+                  "text": "Eine Kunstgalerie in Škofja Loka, die nach dem berühmten slowenischen Maler Ivan Grohar benannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        14.306599,
+                        46.165329
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Križa",
+                  "text": "Die Heilig-Kreuz-Kirche auf dem Hügel über Škofja Loka bietet einen weiten Ausblick.",
+                  "category": "religious",
+                  "coords": [
+                        14.313478,
+                        46.162318
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Uršule",
+                  "text": "Eine der heiligen Ursula geweihte Kirche in Škofja Loka.",
+                  "category": "religious",
+                  "coords": [
+                        14.300464,
+                        46.190481
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Škofjeloški grad",
+                  "text": "Škofja Loka vára a város fölé magasodik, ma a Loški Múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        14.305049,
+                        46.165262
+                  ]
+            },
+            {
+                  "name": "Puštalski grad",
+                  "text": "Puštali vár Škofja Loka közelében, amely történelmi építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        14.311021,
+                        46.162277
+                  ]
+            },
+            {
+                  "name": "Starološki grad",
+                  "text": "Történelmi vár Škofja Loka régi részén.",
+                  "category": "castle",
+                  "coords": [
+                        14.300677,
+                        46.171549
+                  ]
+            },
+            {
+                  "name": "Stari grad / Divja Loka",
+                  "text": "Régészeti lelőhely Škofja Loka eredeti várának maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        14.287145,
+                        46.163093
+                  ]
+            },
+            {
+                  "name": "Vešterski mlin",
+                  "text": "Történelmi malom Vešterben, Škofja Loka közelében.",
+                  "category": "historical",
+                  "coords": [
+                        14.285533,
+                        46.172301
+                  ]
+            },
+            {
+                  "name": "Zgornji stolp na Kranclju",
+                  "text": "A Krancl-dombon található felső torony romjai Škofja Lokában.",
+                  "category": "historical",
+                  "coords": [
+                        14.30318,
+                        46.16368
+                  ]
+            },
+            {
+                  "name": "Galerija Ivana Groharja",
+                  "text": "Škofja Loka művészeti galériája, amelyet a híres szlovén festőről, Ivan Groharról neveztek el.",
+                  "category": "museum",
+                  "coords": [
+                        14.306599,
+                        46.165329
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Križa",
+                  "text": "A Škofja Loka feletti dombon álló Szent Kereszt-templom széles kilátást nyújt.",
+                  "category": "religious",
+                  "coords": [
+                        14.313478,
+                        46.162318
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Uršule",
+                  "text": "Szent Orsolyának szentelt templom Škofja Lokában.",
+                  "category": "religious",
+                  "coords": [
+                        14.300464,
+                        46.190481
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Škofjeloški grad",
+                  "text": "Castelul Škofja Loka domină orașul și găzduiește astăzi Muzeul Loški.",
+                  "category": "castle",
+                  "coords": [
+                        14.305049,
+                        46.165262
+                  ]
+            },
+            {
+                  "name": "Puštalski grad",
+                  "text": "Un castel în Puštal, lângă Škofja Loka, cunoscut pentru arhitectura sa istorică.",
+                  "category": "castle",
+                  "coords": [
+                        14.311021,
+                        46.162277
+                  ]
+            },
+            {
+                  "name": "Starološki grad",
+                  "text": "Un castel istoric în partea veche a orașului Škofja Loka.",
+                  "category": "castle",
+                  "coords": [
+                        14.300677,
+                        46.171549
+                  ]
+            },
+            {
+                  "name": "Stari grad / Divja Loka",
+                  "text": "Un sit arheologic cu rămășițe ale castelului original din Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.287145,
+                        46.163093
+                  ]
+            },
+            {
+                  "name": "Vešterski mlin",
+                  "text": "O moară istorică în Vešter, lângă Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.285533,
+                        46.172301
+                  ]
+            },
+            {
+                  "name": "Zgornji stolp na Kranclju",
+                  "text": "Ruinele turnului superior de pe dealul Krancl din Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.30318,
+                        46.16368
+                  ]
+            },
+            {
+                  "name": "Galerija Ivana Groharja",
+                  "text": "O galerie de artă în Škofja Loka, numită după faimosul pictor sloven Ivan Grohar.",
+                  "category": "museum",
+                  "coords": [
+                        14.306599,
+                        46.165329
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Križa",
+                  "text": "Biserica Sfânta Cruce de pe dealul de deasupra orașului Škofja Loka oferă o priveliște panoramică.",
+                  "category": "religious",
+                  "coords": [
+                        14.313478,
+                        46.162318
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Uršule",
+                  "text": "O biserică dedicată Sfintei Ursula în Škofja Loka.",
+                  "category": "religious",
+                  "coords": [
+                        14.300464,
+                        46.190481
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Škofjeloški grad",
+                  "text": "Škofja Loka Castle towers over the town and now houses the Loški Museum.",
+                  "category": "castle",
+                  "coords": [
+                        14.305049,
+                        46.165262
+                  ]
+            },
+            {
+                  "name": "Puštalski grad",
+                  "text": "A castle in Puštal near Škofja Loka, known for its historical architecture.",
+                  "category": "castle",
+                  "coords": [
+                        14.311021,
+                        46.162277
+                  ]
+            },
+            {
+                  "name": "Starološki grad",
+                  "text": "A historical castle in the old part of Škofja Loka.",
+                  "category": "castle",
+                  "coords": [
+                        14.300677,
+                        46.171549
+                  ]
+            },
+            {
+                  "name": "Stari grad / Divja Loka",
+                  "text": "An archaeological site with remains of the original Škofja Loka castle.",
+                  "category": "historical",
+                  "coords": [
+                        14.287145,
+                        46.163093
+                  ]
+            },
+            {
+                  "name": "Vešterski mlin",
+                  "text": "A historical mill in Vešter near Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.285533,
+                        46.172301
+                  ]
+            },
+            {
+                  "name": "Zgornji stolp na Kranclju",
+                  "text": "The ruins of the upper tower on Krancl hill in Škofja Loka.",
+                  "category": "historical",
+                  "coords": [
+                        14.30318,
+                        46.16368
+                  ]
+            },
+            {
+                  "name": "Galerija Ivana Groharja",
+                  "text": "An art gallery in Škofja Loka named after the famous Slovenian painter Ivan Grohar.",
+                  "category": "museum",
+                  "coords": [
+                        14.306599,
+                        46.165329
+                  ]
+            },
+            {
+                  "name": "Cerkev Sv. Križa",
+                  "text": "The Church of the Holy Cross on the hill above Škofja Loka offers a wide view.",
+                  "category": "religious",
+                  "coords": [
+                        14.313478,
+                        46.162318
+                  ]
+            },
+            {
+                  "name": "Cerkev sv. Uršule",
+                  "text": "A church dedicated to Saint Ursula in Škofja Loka.",
+                  "category": "religious",
+                  "coords": [
+                        14.300464,
+                        46.190481
+                  ]
+            }
+      ]
+},
     parent: "SI",
     type: "city",
     name: { de: "Mittelalterliche Stadt Škofja Loka", hu: "Škofja Loka középkori városközpont", ro: "Orașul medieval Škofja Loka", en: "Škofja Loka Medieval Town"},

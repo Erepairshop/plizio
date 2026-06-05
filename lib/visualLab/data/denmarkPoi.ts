@@ -137,7 +137,2032 @@ export const denmarkRegions: POI[] = [
  image: "/geo-images/denmark/copenhagen.webp",
  },
  {
- id: "city-aarhus",
+ id: "city-aarhus", "sights": {
+      "de": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "Ein Museum in Aarhus, das der Geschichte der Plakatkunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Kunstmuseum",
+                  "text": "Ein bedeutendes Kunstmuseum in Aarhus, bekannt für seinen regenbogenfarbenen Dachrundweg.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "Ein Museum in Aarhus, das sich mit der Naturgeschichte befasst.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "Ein Museum für antike Kunst und Archäologie in Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "Ein Ausstellungsort für zeitgenössische Kunst in Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "Den Gamle By",
+                  "text": "Ein Freilichtmuseum in Aarhus, das die dänische Stadtgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "Ein Museum für Wissenschafts- und Medizingeschichte in Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "Ein Museum über die deutsche Besatzungszeit in Aarhus während des Zweiten Weltkriegs.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "Das von Arne Jacobsen entworfene Rathaus von Aarhus.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "Ein Theater für Kinder und Jugendliche in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "Eine preisgekrönte Theatergruppe mit eigenem Spielort in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "Ein großes Konzerthaus und Kulturzentrum im Zentrum von Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "Eine neugotische Kirche im Stadtteil Frederiksbjerg in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "Eine markante neugotische Kirche im Norden von Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Åbyhøj Kirke",
+                  "text": "Eine moderne dänische Volkskirche im Stadtteil Åbyhøj in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.157366,
+                        56.155118
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "Eine katholische Kirche im Zentrum von Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Ein historischer Kirchenkomplex in Aarhus, der eine Kryptakirche aus dem 11. Jahrhundert umfasst.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Hasle Kirke",
+                  "text": "Eine traditionelle dänische Dorfkirche im Stadtteil Hasle in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.161195,
+                        56.169694
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "Eine moderne Kirche mit markanter Architektur im Stadtteil Langenæs in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Eine im neoklassizistischen Stil erbaute Kirche in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "Eine im modernen Stil erbaute Kirche im Norden von Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Gammel Åby Kirke",
+                  "text": "Die Gammel Åby Kirke ist eine historische Kirche in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.162434,
+                        56.145633
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "Die Møllevangskirken ist ein modernes Kirchengebäude in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "Die Tuesbøl Mølle ist eine traditionelle Windmühle in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "Sankt Nicolaus Kilde ist eine bekannte Quelle in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "Die Ringgadebroen ist eine bedeutende Brücke in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "Die Frederiks Bro ist eine Brücke, die den Fluss in Aarhus überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "Der Sky Tower ist ein hoher Turm im Tivoli Friheden in Aarhus.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "Die Sankt Olufs Kirkegård ist eine Grünanlage an einer ehemaligen Kirche in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Die Universitetsparken ist eine weitläufige Parkanlage auf dem Campus der Universität Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Die Rådhusparken ist eine zentrale Parkanlage am Rathaus von Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der Botanische Garten in Aarhus zeigt eine große Vielfalt an Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "Die Skanseparken ist eine öffentliche Parkanlage im Viertel Frederiksbjerg in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "Tangkrogen ist ein Küstenpark in Aarhus, der oft für Veranstaltungen genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "Die Mindeparken ist eine große Parkanlage mit Blick auf die Aarhus-Bucht.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Die Åparken ist ein moderner Park entlang des Flusses in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "Tivoli Friheden ist ein beliebter Freizeitpark in Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "Vikingemuseet",
+                  "text": "Das Wikingermuseum in Aarhus zeigt archäologische Funde aus der Wikingerzeit.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj ist eine archäologische Stätte mit Überresten aus der Vergangenheit in Aarhus.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "Kulbroen ist eine ehemalige Kohlebrücke, die heute als Industrieruine in Aarhus bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "Svalegangen ist ein renommiertes Theater für zeitgenössische Dramatik in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Teater Katapult",
+                  "text": "Das Theater Catapult ist eine Bühne für innovative Theateraufführungen in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Das Aarhus Teater ist das größte regionale Theater Dänemarks.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Die Aarhus Bykirke ist eine evangelische Freikirche in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Die Aarhus Valgmenighed ist eine Kirchengemeinde in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Die Immanuelskirken ist ein Kirchengebäude in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "Die Betlehemskirken ist ein Sakralbau in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "Die Møllestien ist eine malerische, historische Gasse in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Klokkerparken",
+                  "text": "Die Klokkerparken ist eine Grünanlage in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.155779,
+                        56.163378
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "Die Vennelystparken ist die älteste Parkanlage in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Die Åby Park ist eine Parkanlage im Stadtteil Åbyhøj in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "Die Mølleparken ist ein zentraler Treffpunkt und Park in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "Skovtoften ist eine Grünanlage in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "Die Vor Frue Kirkeplads ist ein Platz und Park an der Frauenkirche in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "Die Cereshaven ist eine Parkanlage auf dem ehemaligen Ceres-Brauereigelände in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "Die Musikhusparken ist die Parkanlage vor dem Konzerthaus in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "Plakátművészet történetének szentelt múzeum Aarhusban.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Kunstmuseum",
+                  "text": "Jelentős művészeti múzeum Aarhusban, híres a szivárványos tetőteraszáról.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "Természettudományi múzeum Aarhus városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "Ókori művészeti és régészeti múzeum Aarhusban.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "Kortárs művészeti kiállítótér Aarhusban.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "Den Gamle By",
+                  "text": "Szabadtéri múzeum Aarhusban, amely a dán városi történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "Tudomány- és orvostörténeti múzeum Aarhusban.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "Aarhus második világháborús német megszállását bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "Arne Jacobsen által tervezett városháza Aarhusban.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "Gyermek- és ifjúsági színház Aarhusban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "Díjnyertes színházi társulat saját játszóhellyel Aarhusban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "Nagy koncertterem és kulturális központ Aarhus központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "Neogótikus templom Aarhus Frederiksbjerg negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "Jellegzetes neogótikus templom Aarhus északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Åbyhøj Kirke",
+                  "text": "Modern dán népegyházi templom Aarhus Åbyhøj negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.157366,
+                        56.155118
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "Katolikus templom Aarhus központjában.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Történelmi templomegyüttes Aarhusban, amely egy 11. századi kriptatemplomot is magában foglal.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Hasle Kirke",
+                  "text": "Hagyományos dán falusi templom Aarhus Hasle negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.161195,
+                        56.169694
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "Modern templom jellegzetes építészettel Aarhus Langenæs negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Neoklasszicista stílusban épült templom Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "Modern stílusban épült templom Aarhus északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Gammel Åby Kirke",
+                  "text": "A Gammel Åby Kirke egy történelmi templom Aarhus városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.162434,
+                        56.145633
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "A Møllevangskirken egy modern templomépület Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "A Tuesbøl Mølle egy hagyományos szélmalom Aarhusban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "A Sankt Nicolaus Kilde egy ismert forrás Aarhusban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "A Ringgadebroen egy jelentős híd Aarhus városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "A Frederiks Bro egy híd, amely az Aarhus folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "A Sky Tower egy magas torony az aarhus-i Tivoli Frihedenben.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "A Sankt Olufs Kirkegård egy park egy egykori templom helyén Aarhusban.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Az Universitetsparken egy tágas park az Aarhusi Egyetem campusán.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "A Rådhusparken egy központi park az aarhus-i városháza mellett.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanisk Have",
+                  "text": "Az aarhus-i botanikus kert növényfajok széles választékát mutatja be.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "A Skanseparken egy közpark Aarhus Frederiksbjerg negyedében.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "Tangkrogen egy tengerparti park Aarhusban, amelyet gyakran rendezvényekre használnak.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "A Mindeparken egy nagy park, amely az Aarhus-öbölre néz.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Az Åparken egy modern park az Aarhus-folyó mentén.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "A Tivoli Friheden egy népszerű vidámpark Aarhusban.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "Vikingemuseet",
+                  "text": "Az aarhus-i Viking Múzeum a viking korból származó régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj egy régészeti lelőhely Aarhusban múltbéli maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "A Kulbroen egy egykori szénszállító híd, amely ma ipari rom Aarhusban.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "A Svalegangen egy elismert kortárs színház Aarhusban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Teater Katapult",
+                  "text": "A Theater Catapult innovatív színházi előadások helyszíne Aarhusban.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Az Aarhus Teater Dánia legnagyobb regionális színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Az Aarhus Bykirke egy evangélikus szabadegyház Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Az Aarhus Valgmenighed egy egyházközség Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Az Immanuelskirken egy templomépület Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "A Betlehemskirken egy egyházi épület Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "A Møllestien egy festői, történelmi utca Aarhusban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Klokkerparken",
+                  "text": "A Klokkerparken egy park Aarhusban.",
+                  "category": "park",
+                  "coords": [
+                        10.155779,
+                        56.163378
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "A Vennelystparken Aarhus legrégebbi parkja.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Az Åby Park egy park Aarhus Åbyhøj negyedében.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "A Mølleparken egy központi találkozóhely és park Aarhusban.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "Skovtoften egy zöldterület Aarhusban.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "A Vor Frue Kirkeplads egy tér és park a Miasszonyunk-templom mellett Aarhusban.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "A Cereshaven egy park az egykori Ceres sörfőzde területén Aarhusban.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "A Musikhusparken az aarhus-i koncertterem előtti park.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "Un muzeu din Aarhus dedicat istoriei afișelor.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Kunstmuseum",
+                  "text": "Un important muzeu de artă din Aarhus, cunoscut pentru panorama sa circulară în culorile curcubeului.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "Un muzeu din Aarhus dedicat istoriei naturale.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "Un muzeu de artă antică și arheologie în Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "Un spațiu de expoziție pentru artă contemporană în Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "Den Gamle By",
+                  "text": "Un muzeu în aer liber din Aarhus care prezintă istoria urbană daneză.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "Un muzeu de istorie a științei și medicinei în Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "Un muzeu despre ocupația germană a orașului Aarhus în timpul celui de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "Primăria din Aarhus, proiectată de Arne Jacobsen.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "Un teatru pentru copii și tineri în Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "O trupă de teatru premiată, cu sediul în Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "O sală mare de concerte și centru cultural în centrul orașului Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "O biserică neogotică în cartierul Frederiksbjerg din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "O biserică neogotică impunătoare în partea de nord a orașului Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Åbyhøj Kirke",
+                  "text": "O biserică parohială modernă în cartierul Åbyhøj din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.157366,
+                        56.155118
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "O biserică catolică în centrul orașului Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Un complex bisericesc istoric din Aarhus, care include o criptă din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Hasle Kirke",
+                  "text": "O biserică parohială tradițională în cartierul Hasle din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.161195,
+                        56.169694
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "O biserică modernă cu o arhitectură distinctivă în cartierul Langenæs din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "O biserică construită în stil neoclasic în Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "O biserică construită în stil modern în partea de nord a orașului Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Gammel Åby Kirke",
+                  "text": "Gammel Åby Kirke este o biserică istorică din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.162434,
+                        56.145633
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "Møllevangskirken este o clădire modernă de biserică din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "Tuesbøl Mølle este o moară de vânt tradițională din Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "Sankt Nicolaus Kilde este un izvor cunoscut din Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "Ringgadebroen este un pod important din Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "Frederiks Bro este un pod care traversează râul în Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "Sky Tower este un turn înalt situat în Tivoli Friheden din Aarhus.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "Sankt Olufs Kirkegård este un spațiu verde pe locul unei foste biserici din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Universitetsparken este un parc spațios situat în campusul Universității din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Rådhusparken este un parc central situat lângă primăria din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanisk Have",
+                  "text": "Grădina Botanică din Aarhus prezintă o mare varietate de specii de plante.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "Skanseparken este un parc public în cartierul Frederiksbjerg din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "Tangkrogen este un parc de coastă din Aarhus, folosit adesea pentru evenimente.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "Mindeparken este un parc mare cu vedere la Golful Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Åparken este un parc modern de-a lungul râului din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "Tivoli Friheden este un parc de distracții popular din Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "Vikingemuseet",
+                  "text": "Muzeul Viking din Aarhus expune descoperiri arheologice din epoca vikingă.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj este un sit arheologic din Aarhus cu vestigii din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "Kulbroen este un fost pod de cărbune, cunoscut astăzi ca o ruină industrială în Aarhus.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "Svalegangen este un teatru renumit pentru dramaturgie contemporană din Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Teater Katapult",
+                  "text": "Theater Catapult este o scenă pentru spectacole de teatru inovatoare din Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Aarhus Teater este cel mai mare teatru regional din Danemarca.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Aarhus Bykirke este o biserică evanghelică liberă din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Aarhus Valgmenighed este o comunitate bisericească din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Immanuelskirken este o clădire de biserică din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "Betlehemskirken este un lăcaș de cult din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "Møllestien este o stradă istorică pitorească din Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Klokkerparken",
+                  "text": "Klokkerparken este o zonă verde din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.155779,
+                        56.163378
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "Vennelystparken este cel mai vechi parc din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Åby Park este un parc din cartierul Åbyhøj din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "Mølleparken este un punct central de întâlnire și parc în Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "Skovtoften este un spațiu verde din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "Vor Frue Kirkeplads este o piață și parc lângă Biserica Maicii Domnului din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "Cereshaven este un parc pe fostul teren al fabricii de bere Ceres din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "Musikhusparken este parcul din fața sălii de concerte din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "A museum in Aarhus dedicated to the history of poster art.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Art Museum",
+                  "text": "A major art museum in Aarhus, famous for its rainbow-colored rooftop walkway.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "A museum in Aarhus focusing on natural history.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "A museum of ancient art and archaeology in Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "An exhibition space for contemporary art in Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "The Old Town, Aarhus",
+                  "text": "An open-air museum in Aarhus showcasing Danish urban history.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "A museum of science and medical history in Aarhus.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "A museum about the German occupation of Aarhus during World War II.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "The Aarhus city hall, designed by Arne Jacobsen.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "A theatre for children and youth in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "An award-winning theatre group based in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "A large concert hall and cultural center in the center of Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "A Neo-Gothic church in the Frederiksbjerg district of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "A prominent Neo-Gothic church in the northern part of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Åbyhøj Kirke",
+                  "text": "A modern Danish parish church in the Åbyhøj district of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.157366,
+                        56.155118
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "A Catholic church in the center of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "A historic church complex in Aarhus that includes an 11th-century crypt church.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Hasle Kirke",
+                  "text": "A traditional Danish parish church in the Hasle district of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.161195,
+                        56.169694
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "A modern church with distinctive architecture in the Langenæs district of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "A church built in the neoclassical style in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "A church built in a modern style in the northern part of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Gammel Åby Kirke",
+                  "text": "Gammel Åby Kirke is a historic church located in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.162434,
+                        56.145633
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "Møllevangskirken is a modern church building located in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "Tuesbøl Mølle is a traditional windmill located in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "Sankt Nicolaus Kilde is a well-known spring in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "Ringgadebroen is a significant bridge in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "Frederiks Bro is a bridge crossing the river in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "Sky Tower is a tall tower located in Tivoli Friheden in Aarhus.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "Sankt Olufs Kirkegård is a green space at a former church site in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Universitetsparken is a spacious park located on the Aarhus University campus.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Rådhusparken is a central park located by the Aarhus City Hall.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Botanical Garden in Aarhus showcases a wide variety of plant species.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "Skanseparken is a public park in the Frederiksbjerg district of Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "Tangkrogen is a coastal park in Aarhus often used for events.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "Mindeparken is a large park overlooking the Aarhus Bay.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Åparken is a modern park along the river in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "Tivoli Friheden is a popular amusement park in Aarhus.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "The Viking Museum",
+                  "text": "The Viking Museum in Aarhus displays archaeological finds from the Viking Age.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj is an archaeological site in Aarhus featuring remains from the past.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "Kulbroen is a former coal bridge, now known as an industrial ruin in Aarhus.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "Svalegangen is a renowned theatre for contemporary drama in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Theater Catapult",
+                  "text": "Theater Catapult is a venue for innovative theatre performances in Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Aarhus Teater is the largest regional theatre in Denmark.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Aarhus Bykirke is an evangelical free church in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Aarhus Valgmenighed is a church congregation in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Immanuelskirken is a church building in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "Betlehemskirken is a place of worship in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "Møllestien is a picturesque, historic lane in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Klokkerparken",
+                  "text": "Klokkerparken is a park area in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.155779,
+                        56.163378
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "Vennelystparken is the oldest park in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Åby Park is a park in the Åbyhøj district of Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "Mølleparken is a central meeting place and park in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "Skovtoften is a green area in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "Vor Frue Kirkeplads is a square and park by the Church of Our Lady in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "Cereshaven is a park on the former Ceres brewery site in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "Musikhusparken is the park in front of the Concert Hall Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "denmark",
  coords: [10.2039, 56.1567],
@@ -180,7 +2205,1564 @@ export const denmarkRegions: POI[] = [
  image: "/geo-images/denmark/aarhus.webp",
  },
  {
- id: "city-odense",
+ id: "city-odense", "sights": {
+      "de": [
+            {
+                  "name": "Tidens Samling",
+                  "text": "Tidens Samling ist ein interaktives Museum in Odense, das den dänischen Alltag und das Design des 20. Jahrhunderts zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.381003,
+                        55.394821
+                  ]
+            },
+            {
+                  "name": "Dänisches Eisenbahnmuseum",
+                  "text": "Das Dänische Eisenbahnmuseum in Odense ist als das größte Eisenbahnmuseum Skandinaviens bekannt.",
+                  "category": "museum",
+                  "coords": [
+                        10.385971,
+                        55.402808
+                  ]
+            },
+            {
+                  "name": "Aaløkkegaard",
+                  "text": "Aaløkkegaard ist ein historisches Herrenhaus, das als lokales Wahrzeichen in Odense fungiert.",
+                  "category": "castle",
+                  "coords": [
+                        10.368755,
+                        55.404341
+                  ]
+            },
+            {
+                  "name": "Odense Bunkermuseum",
+                  "text": "Das Odense Bunkermuseum befindet sich in einem authentischen, erhaltenen Bunker aus dem Kalten Krieg.",
+                  "category": "museum",
+                  "coords": [
+                        10.40746,
+                        55.385354
+                  ]
+            },
+            {
+                  "name": "H. C. Andersens Hus",
+                  "text": "Das H. C. Andersens Hus in Odense ist ein Museum, das dem Leben und den Märchen von Hans Christian Andersen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.390777,
+                        55.398724
+                  ]
+            },
+            {
+                  "name": "Nonnebakken",
+                  "text": "Nonnebakken ist eine archäologische Stätte in Odense, die für die Überreste einer historischen Wikinger-Ringburg bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        10.389133,
+                        55.391974
+                  ]
+            },
+            {
+                  "name": "Næsbyhoved Slotsbanke",
+                  "text": "Næsbyhoved Slotsbanke ist eine archäologische Stätte in Odense mit den Erdwällen einer ehemaligen mittelalterlichen Königsburg.",
+                  "category": "historical",
+                  "coords": [
+                        10.375328,
+                        55.413452
+                  ]
+            },
+            {
+                  "name": "Marienlund",
+                  "text": "Marienlund ist ein historisches Herrenhaus in der Stadt Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.404335,
+                        55.421406
+                  ]
+            },
+            {
+                  "name": "Odense Rådhus",
+                  "text": "Odense Rådhus ist das monumentale Rathaus und das Verwaltungszentrum von Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.388941,
+                        55.396149
+                  ]
+            },
+            {
+                  "name": "Odense Teater",
+                  "text": "Das Odense Teater ist Dänemarks zweitältestes aktives Theater und bietet vielfältige Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        10.385453,
+                        55.398501
+                  ]
+            },
+            {
+                  "name": "Odense Koncerthus",
+                  "text": "Das Odense Koncerthus ist ein großer Konzertsaal und die stolze Heimat des Odense Symphony Orchestra.",
+                  "category": "cultural",
+                  "coords": [
+                        10.392376,
+                        55.399598
+                  ]
+            },
+            {
+                  "name": "Odense Adelige Jomfrukloster",
+                  "text": "Das Odense Adelige Jomfrukloster ist ein ehemaliges Kloster, das ursprünglich als Wohnstätte für unverheiratete Adelsfrauen diente.",
+                  "category": "religious",
+                  "coords": [
+                        10.39176,
+                        55.396276
+                  ]
+            },
+            {
+                  "name": "Brandts",
+                  "text": "Brandts ist ein bekanntes Kunstzentrum in Odense, das sich der visuellen Kultur und Fotografie widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        10.380803,
+                        55.396053
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirke",
+                  "text": "Die Ansgars Kirke ist ein bemerkenswertes Gotteshaus, das spirituelle Dienste in der Stadt Odense anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        10.378201,
+                        55.391428
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Die Vor Frue Kirke ist als eine der ältesten und historischsten Kirchen in Odense bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        10.395459,
+                        55.39771
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "Die Hans Tausens Kirke ist ein markantes Gotteshaus in Odense, benannt nach einem bekannten dänischen Reformator.",
+                  "category": "religious",
+                  "coords": [
+                        10.363384,
+                        55.398523
+                  ]
+            },
+            {
+                  "name": "Bolbro Kirke",
+                  "text": "Die Bolbro Kirke ist ein etabliertes Gotteshaus für die lokale Gemeinde in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.351525,
+                        55.393082
+                  ]
+            },
+            {
+                  "name": "Munkebjerg Kirke",
+                  "text": "Munkebjerg Kirke ist eine bemerkenswerte Kultstätte in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.404456,
+                        55.386967
+                  ]
+            },
+            {
+                  "name": "Sankt-Hans-Kirche",
+                  "text": "Saint Hans Church ist eine bemerkenswerte Kirche in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.387557,
+                        55.399125
+                  ]
+            },
+            {
+                  "name": "Baptistkirken i Odense",
+                  "text": "Baptistkirken i Odense ist eine bemerkenswerte Kultstätte in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.387562,
+                        55.393654
+                  ]
+            },
+            {
+                  "name": "Fredens Kirke",
+                  "text": "Fredens Kirke ist eine bemerkenswerte Kultstätte in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.395244,
+                        55.413433
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Klosterkirke",
+                  "text": "Gråbrødre Klosterkirke ist eine bemerkenswerte Kultstätte in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.385898,
+                        55.396961
+                  ]
+            },
+            {
+                  "name": "Odins Bro",
+                  "text": "Odins Bro ist eine bemerkenswerte Brücke in Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378916,
+                        55.422453
+                  ]
+            },
+            {
+                  "name": "Byens Bro",
+                  "text": "Byens Bro ist eine bemerkenswerte Brücke in Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.383288,
+                        55.401798
+                  ]
+            },
+            {
+                  "name": "Königsgarten",
+                  "text": "Kongens Have ist ein bemerkenswerter Park in Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.385216,
+                        55.399782
+                  ]
+            },
+            {
+                  "name": "Kulturbotanisk Have",
+                  "text": "Cultural Botanical Garden ist ein bemerkenswerter Garten in Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.429193,
+                        55.399083
+                  ]
+            },
+            {
+                  "name": "Odense friluftsbad",
+                  "text": "Odense friluftsbad ist ein bemerkenswerter Wasserpark in Odense.",
+                  "category": "recreational",
+                  "coords": [
+                        10.344341,
+                        55.385266
+                  ]
+            },
+            {
+                  "name": "Teater Momentum",
+                  "text": "Teater Momentum ist ein Theater in der Stadt Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.381353,
+                        55.392807
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Vor Frelsers Kirke ist eine Kultstätte in der Stadt Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.422976,
+                        55.395925
+                  ]
+            },
+            {
+                  "name": "Odense Adventkirke",
+                  "text": "Odense Adventkirke ist eine Kultstätte in der Stadt Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.388518,
+                        55.388707
+                  ]
+            },
+            {
+                  "name": "Odense Valgmenighedskirke",
+                  "text": "Odense Valgmenighedskirke ist eine Kultstätte in der Stadt Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.379007,
+                        55.398234
+                  ]
+            },
+            {
+                  "name": "Frederiksbroen",
+                  "text": "Frederiksbroen ist eine Brücke in der Stadt Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.396163,
+                        55.396725
+                  ]
+            },
+            {
+                  "name": "Munke Mose",
+                  "text": "Munke Mose ist ein Park in der Stadt Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.383311,
+                        55.390769
+                  ]
+            },
+            {
+                  "name": "Kramboden",
+                  "text": "Kramboden ist ein Museum in der Stadt Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.393358,
+                        55.397171
+                  ]
+            },
+            {
+                  "name": "Pernille Lykkes Boder",
+                  "text": "Pernille Lykkes Boder ist ein Museum in der Stadt Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.393913,
+                        55.398367
+                  ]
+            },
+            {
+                  "name": "Mikro Kunsthal",
+                  "text": "Tiny Art Gallery ist eine Galerie in der Stadt Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.380349,
+                        55.407794
+                  ]
+            },
+            {
+                  "name": "Forn Siðrs Runesten",
+                  "text": "Forn Siðrs Runesten ist ein Denkmal in der Stadt Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.367907,
+                        55.387354
+                  ]
+            },
+            {
+                  "name": "Nedergadeteatret",
+                  "text": "Nedergadeteatret ist ein Theater in der Stadt Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.347791,
+                        55.394094
+                  ]
+            },
+            {
+                  "name": "DOK5000",
+                  "text": "DOK5000 ist ein Theater in der Stadt Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.383206,
+                        55.411377
+                  ]
+            },
+            {
+                  "name": "Teater 95B",
+                  "text": "Teater 95B ist ein Theater in der Stadt Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.379649,
+                        55.394604
+                  ]
+            },
+            {
+                  "name": "Zoo Scenen",
+                  "text": "Zoo Scenen ist ein Theater in der Stadt Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.372348,
+                        55.377058
+                  ]
+            },
+            {
+                  "name": "Kunst- og Filosoficentret Solvognen",
+                  "text": "Kunst- og Filosoficentret Solvognen ist ein Kunstzentrum in der Stadt Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.391401,
+                        55.393968
+                  ]
+            },
+            {
+                  "name": "Vaskeplads for H. C. Andersens mor",
+                  "text": "Vaskeplads for H. C. Andersens mor ist eine Sehenswürdigkeit in der Stadt Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392735,
+                        55.396048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tidens Samling",
+                  "text": "A Tidens Samling egy interaktív múzeum Odensében, amely a 20. századi dán mindennapi életet és dizájnt mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.381003,
+                        55.394821
+                  ]
+            },
+            {
+                  "name": "Danmarks Jernbanemuseum",
+                  "text": "Az odensei Dán Vasúti Múzeum Skandinávia legnagyobb vasúti múzeumaként ismert.",
+                  "category": "museum",
+                  "coords": [
+                        10.385971,
+                        55.402808
+                  ]
+            },
+            {
+                  "name": "Aaløkkegaard",
+                  "text": "Az Aaløkkegaard egy történelmi udvarház és helyi nevezetesség Odense városában.",
+                  "category": "castle",
+                  "coords": [
+                        10.368755,
+                        55.404341
+                  ]
+            },
+            {
+                  "name": "Odense Bunkermuseum",
+                  "text": "Az Odense Bunkermúzeum egy hiteles, megőrzött hidegháborús bunkerben kialakított múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.40746,
+                        55.385354
+                  ]
+            },
+            {
+                  "name": "H. C. Andersens Hus",
+                  "text": "A H. C. Andersens Hus egy múzeum Odensében, amely Hans Christian Andersen életének és meséinek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        10.390777,
+                        55.398724
+                  ]
+            },
+            {
+                  "name": "Nonnebakken",
+                  "text": "A Nonnebakken egy jelentős régészeti lelőhely Odensében, amely egy történelmi viking gyűrűvár maradványairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        10.389133,
+                        55.391974
+                  ]
+            },
+            {
+                  "name": "Næsbyhoved Slotsbanke",
+                  "text": "A Næsbyhoved Slotsbanke egy régészeti lelőhely Odensében, amely egy egykori középkori királyi vár sáncait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        10.375328,
+                        55.413452
+                  ]
+            },
+            {
+                  "name": "Marienlund",
+                  "text": "A Marienlund egy történelmi udvarház Odense városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.404335,
+                        55.421406
+                  ]
+            },
+            {
+                  "name": "Odense Rådhus",
+                  "text": "Az Odense Rådhus egy monumentális városháza, amely Odense adminisztratív központjaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        10.388941,
+                        55.396149
+                  ]
+            },
+            {
+                  "name": "Odense Teater",
+                  "text": "Az Odense Teater Dánia második legrégebbi aktív színháza, amely változatos színpadi előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        10.385453,
+                        55.398501
+                  ]
+            },
+            {
+                  "name": "Odense Koncerthus",
+                  "text": "Az Odense Koncerthus egy nagy koncertterem, amely az Odensei Szimfonikus Zenekar otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        10.392376,
+                        55.399598
+                  ]
+            },
+            {
+                  "name": "Odense Adelige Jomfrukloster",
+                  "text": "Az Odense Adelige Jomfrukloster egy történelmi egykori kolostor, amelyet hajadon nemesasszonyok otthonaként alapítottak.",
+                  "category": "religious",
+                  "coords": [
+                        10.39176,
+                        55.396276
+                  ]
+            },
+            {
+                  "name": "Brandts",
+                  "text": "A Brandts egy kiemelkedő művészeti központ Odensében, amely a vizuális kultúrának és a fotográfiának van szentelve.",
+                  "category": "cultural",
+                  "coords": [
+                        10.380803,
+                        55.396053
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirke",
+                  "text": "Az Ansgars Kirke egy figyelemre méltó istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.378201,
+                        55.391428
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "A Vor Frue Kirke Odense egyik legrégebbi és legtörténelmibb templomaként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        10.395459,
+                        55.39771
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "A Hans Tausens Kirke egy egyedi istentiszteleti hely Odensében, amelyet egy kiemelkedő dán reformátorról neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        10.363384,
+                        55.398523
+                  ]
+            },
+            {
+                  "name": "Bolbro Kirke",
+                  "text": "A Bolbro Kirke egy bejáratott istentiszteleti hely a helyi egyházközség számára Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.351525,
+                        55.393082
+                  ]
+            },
+            {
+                  "name": "Munkebjerg Kirke",
+                  "text": "A Munkebjerg Kirke egy nevezetes istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.404456,
+                        55.386967
+                  ]
+            },
+            {
+                  "name": "Sct. Hans Kirke",
+                  "text": "A Saint Hans Church egy nevezetes templom Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.387557,
+                        55.399125
+                  ]
+            },
+            {
+                  "name": "Baptistkirken i Odense",
+                  "text": "A Baptistkirken i Odense egy nevezetes istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.387562,
+                        55.393654
+                  ]
+            },
+            {
+                  "name": "Fredens Kirke",
+                  "text": "A Fredens Kirke egy nevezetes istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.395244,
+                        55.413433
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Klosterkirke",
+                  "text": "A Gråbrødre Klosterkirke egy nevezetes istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.385898,
+                        55.396961
+                  ]
+            },
+            {
+                  "name": "Odins Bro",
+                  "text": "Az Odins Bro egy nevezetes híd Odense városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378916,
+                        55.422453
+                  ]
+            },
+            {
+                  "name": "Byens Bro",
+                  "text": "A Byens Bro egy nevezetes híd Odense városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.383288,
+                        55.401798
+                  ]
+            },
+            {
+                  "name": "Kongens Have",
+                  "text": "A Kongens Have egy nevezetes park Odense városában.",
+                  "category": "park",
+                  "coords": [
+                        10.385216,
+                        55.399782
+                  ]
+            },
+            {
+                  "name": "Kulturbotanisk Have",
+                  "text": "A Cultural Botanical Garden egy nevezetes kert Odense városában.",
+                  "category": "park",
+                  "coords": [
+                        10.429193,
+                        55.399083
+                  ]
+            },
+            {
+                  "name": "Odense friluftsbad",
+                  "text": "Az Odense friluftsbad egy nevezetes vízipark Odense városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.344341,
+                        55.385266
+                  ]
+            },
+            {
+                  "name": "Teater Momentum",
+                  "text": "A Teater Momentum egy színház Odense városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.381353,
+                        55.392807
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "A Vor Frelsers Kirke egy istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.422976,
+                        55.395925
+                  ]
+            },
+            {
+                  "name": "Odense Adventkirke",
+                  "text": "Az Odense Adventkirke egy istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.388518,
+                        55.388707
+                  ]
+            },
+            {
+                  "name": "Odense Valgmenighedskirke",
+                  "text": "Az Odense Valgmenighedskirke egy istentiszteleti hely Odense városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.379007,
+                        55.398234
+                  ]
+            },
+            {
+                  "name": "Frederiksbroen",
+                  "text": "A Frederiksbroen egy híd Odense városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.396163,
+                        55.396725
+                  ]
+            },
+            {
+                  "name": "Munke Mose",
+                  "text": "A Munke Mose egy park Odense városában.",
+                  "category": "park",
+                  "coords": [
+                        10.383311,
+                        55.390769
+                  ]
+            },
+            {
+                  "name": "Kramboden",
+                  "text": "A Kramboden egy múzeum Odense városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.393358,
+                        55.397171
+                  ]
+            },
+            {
+                  "name": "Pernille Lykkes Boder",
+                  "text": "A Pernille Lykkes Boder egy múzeum Odense városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.393913,
+                        55.398367
+                  ]
+            },
+            {
+                  "name": "Mikro Kunsthal",
+                  "text": "A Tiny Art Gallery egy galéria Odense városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.380349,
+                        55.407794
+                  ]
+            },
+            {
+                  "name": "Forn Siðrs Runesten",
+                  "text": "A Forn Siðrs Runesten egy emlékmű Odense városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.367907,
+                        55.387354
+                  ]
+            },
+            {
+                  "name": "Nedergadeteatret",
+                  "text": "A Nedergadeteatret egy színház Odense városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.347791,
+                        55.394094
+                  ]
+            },
+            {
+                  "name": "DOK5000",
+                  "text": "A DOK5000 egy színház Odense városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.383206,
+                        55.411377
+                  ]
+            },
+            {
+                  "name": "Teater 95B",
+                  "text": "A Teater 95B egy színház Odense városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.379649,
+                        55.394604
+                  ]
+            },
+            {
+                  "name": "Zoo Scenen",
+                  "text": "A Zoo Scenen egy színház Odense városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.372348,
+                        55.377058
+                  ]
+            },
+            {
+                  "name": "Kunst- og Filosoficentret Solvognen",
+                  "text": "A Kunst- og Filosoficentret Solvognen egy művészeti központ Odense városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.391401,
+                        55.393968
+                  ]
+            },
+            {
+                  "name": "Vaskeplads for H. C. Andersens mor",
+                  "text": "A Vaskeplads for H. C. Andersens mor egy látványosság Odense városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392735,
+                        55.396048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tidens Samling",
+                  "text": "Tidens Samling este un muzeu interactiv din Odense, care prezintă viața de zi cu zi și designul danez din secolul al XX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        10.381003,
+                        55.394821
+                  ]
+            },
+            {
+                  "name": "Danmarks Jernbanemuseum",
+                  "text": "Muzeul Căilor Ferate Daneze din Odense este recunoscut ca fiind cel mai mare muzeu feroviar din Scandinavia.",
+                  "category": "museum",
+                  "coords": [
+                        10.385971,
+                        55.402808
+                  ]
+            },
+            {
+                  "name": "Aaløkkegaard",
+                  "text": "Aaløkkegaard este un conac istoric care servește ca un reper local în Odense.",
+                  "category": "castle",
+                  "coords": [
+                        10.368755,
+                        55.404341
+                  ]
+            },
+            {
+                  "name": "Odense Bunkermuseum",
+                  "text": "Odense Bunkermuseum este un muzeu situat într-un buncăr autentic și conservat din perioada Războiului Rece.",
+                  "category": "museum",
+                  "coords": [
+                        10.40746,
+                        55.385354
+                  ]
+            },
+            {
+                  "name": "H. C. Andersens Hus",
+                  "text": "H. C. Andersens Hus este un muzeu din Odense dedicat vieții și basmelor lui Hans Christian Andersen.",
+                  "category": "museum",
+                  "coords": [
+                        10.390777,
+                        55.398724
+                  ]
+            },
+            {
+                  "name": "Nonnebakken",
+                  "text": "Nonnebakken este un sit arheologic important din Odense, cunoscut pentru rămășițele unei fortărețe vikinge inelare.",
+                  "category": "historical",
+                  "coords": [
+                        10.389133,
+                        55.391974
+                  ]
+            },
+            {
+                  "name": "Næsbyhoved Slotsbanke",
+                  "text": "Næsbyhoved Slotsbanke este un sit arheologic din Odense care prezintă meterezele unui fost castel regal medieval.",
+                  "category": "historical",
+                  "coords": [
+                        10.375328,
+                        55.413452
+                  ]
+            },
+            {
+                  "name": "Marienlund",
+                  "text": "Marienlund este un conac istoric situat în orașul Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.404335,
+                        55.421406
+                  ]
+            },
+            {
+                  "name": "Odense Rådhus",
+                  "text": "Odense Rådhus este primăria monumentală care servește ca centru administrativ al orașului Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.388941,
+                        55.396149
+                  ]
+            },
+            {
+                  "name": "Odense Teater",
+                  "text": "Odense Teater este a doua cea mai veche instituție teatrală activă din Danemarca, oferind diverse spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        10.385453,
+                        55.398501
+                  ]
+            },
+            {
+                  "name": "Odense Koncerthus",
+                  "text": "Odense Koncerthus este o sală de concerte importantă și casa Orchestrei Simfonice din Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.392376,
+                        55.399598
+                  ]
+            },
+            {
+                  "name": "Odense Adelige Jomfrukloster",
+                  "text": "Odense Adelige Jomfrukloster este o fostă mănăstire istorică din Odense, înființată ca un cămin pentru femeile nobile necăsătorite.",
+                  "category": "religious",
+                  "coords": [
+                        10.39176,
+                        55.396276
+                  ]
+            },
+            {
+                  "name": "Brandts",
+                  "text": "Brandts este un important centru de artă din Odense dedicat culturii vizuale și fotografiei daneze și internaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.380803,
+                        55.396053
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirke",
+                  "text": "Ansgars Kirke este un lăcaș de cult notabil care oferă servicii spirituale în orașul Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.378201,
+                        55.391428
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Vor Frue Kirke este recunoscută ca una dintre cele mai vechi și mai istorice biserici din Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.395459,
+                        55.39771
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "Hans Tausens Kirke este un lăcaș de cult distinct din Odense, numit după un proeminent reformator danez.",
+                  "category": "religious",
+                  "coords": [
+                        10.363384,
+                        55.398523
+                  ]
+            },
+            {
+                  "name": "Bolbro Kirke",
+                  "text": "Bolbro Kirke este un lăcaș de cult consacrat care servește parohia locală din Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.351525,
+                        55.393082
+                  ]
+            },
+            {
+                  "name": "Munkebjerg Kirke",
+                  "text": "Munkebjerg Kirke este un lăcaș de cult notabil situat în Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.404456,
+                        55.386967
+                  ]
+            },
+            {
+                  "name": "Sct. Hans Kirke",
+                  "text": "Saint Hans Church este o biserică notabilă situată în Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.387557,
+                        55.399125
+                  ]
+            },
+            {
+                  "name": "Baptistkirken i Odense",
+                  "text": "Baptistkirken i Odense este un lăcaș de cult notabil situat în Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.387562,
+                        55.393654
+                  ]
+            },
+            {
+                  "name": "Fredens Kirke",
+                  "text": "Fredens Kirke este un lăcaș de cult notabil situat în Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.395244,
+                        55.413433
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Klosterkirke",
+                  "text": "Gråbrødre Klosterkirke este un lăcaș de cult notabil situat în Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.385898,
+                        55.396961
+                  ]
+            },
+            {
+                  "name": "Odins Bro",
+                  "text": "Odins Bro este un pod notabil situat în Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378916,
+                        55.422453
+                  ]
+            },
+            {
+                  "name": "Byens Bro",
+                  "text": "Byens Bro este un pod notabil situat în Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.383288,
+                        55.401798
+                  ]
+            },
+            {
+                  "name": "Kongens Have",
+                  "text": "Kongens Have este un parc notabil situat în Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.385216,
+                        55.399782
+                  ]
+            },
+            {
+                  "name": "Kulturbotanisk Have",
+                  "text": "Cultural Botanical Garden este o grădină notabilă situată în Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.429193,
+                        55.399083
+                  ]
+            },
+            {
+                  "name": "Odense friluftsbad",
+                  "text": "Odense friluftsbad este un parc acvatic notabil situat în Odense.",
+                  "category": "recreational",
+                  "coords": [
+                        10.344341,
+                        55.385266
+                  ]
+            },
+            {
+                  "name": "Teater Momentum",
+                  "text": "Teater Momentum este un teatru situat în orașul Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.381353,
+                        55.392807
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Vor Frelsers Kirke este un lăcaș de cult situat în orașul Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.422976,
+                        55.395925
+                  ]
+            },
+            {
+                  "name": "Odense Adventkirke",
+                  "text": "Odense Adventkirke este un lăcaș de cult situat în orașul Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.388518,
+                        55.388707
+                  ]
+            },
+            {
+                  "name": "Odense Valgmenighedskirke",
+                  "text": "Odense Valgmenighedskirke este un lăcaș de cult situat în orașul Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.379007,
+                        55.398234
+                  ]
+            },
+            {
+                  "name": "Frederiksbroen",
+                  "text": "Frederiksbroen este un pod situat în orașul Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.396163,
+                        55.396725
+                  ]
+            },
+            {
+                  "name": "Munke Mose",
+                  "text": "Munke Mose este un parc situat în orașul Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.383311,
+                        55.390769
+                  ]
+            },
+            {
+                  "name": "Kramboden",
+                  "text": "Kramboden este un muzeu situat în orașul Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.393358,
+                        55.397171
+                  ]
+            },
+            {
+                  "name": "Pernille Lykkes Boder",
+                  "text": "Pernille Lykkes Boder este un muzeu situat în orașul Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.393913,
+                        55.398367
+                  ]
+            },
+            {
+                  "name": "Mikro Kunsthal",
+                  "text": "Tiny Art Gallery este o galerie situată în orașul Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.380349,
+                        55.407794
+                  ]
+            },
+            {
+                  "name": "Forn Siðrs Runesten",
+                  "text": "Forn Siðrs Runesten este un monument situat în orașul Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.367907,
+                        55.387354
+                  ]
+            },
+            {
+                  "name": "Nedergadeteatret",
+                  "text": "Nedergadeteatret este un teatru situat în orașul Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.347791,
+                        55.394094
+                  ]
+            },
+            {
+                  "name": "DOK5000",
+                  "text": "DOK5000 este un teatru situat în orașul Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.383206,
+                        55.411377
+                  ]
+            },
+            {
+                  "name": "Teater 95B",
+                  "text": "Teater 95B este un teatru situat în orașul Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.379649,
+                        55.394604
+                  ]
+            },
+            {
+                  "name": "Zoo Scenen",
+                  "text": "Zoo Scenen este un teatru situat în orașul Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.372348,
+                        55.377058
+                  ]
+            },
+            {
+                  "name": "Kunst- og Filosoficentret Solvognen",
+                  "text": "Kunst- og Filosoficentret Solvognen este un centru de arte situat în orașul Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.391401,
+                        55.393968
+                  ]
+            },
+            {
+                  "name": "Vaskeplads for H. C. Andersens mor",
+                  "text": "Vaskeplads for H. C. Andersens mor este o atracție situată în orașul Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392735,
+                        55.396048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tidens Samling",
+                  "text": "Tidens Samling is an interactive museum in Odense showcasing everyday Danish life and design from the 20th century.",
+                  "category": "museum",
+                  "coords": [
+                        10.381003,
+                        55.394821
+                  ]
+            },
+            {
+                  "name": "The Danish Railway Museum",
+                  "text": "The Danish Railway Museum in Odense is recognized as the largest railway museum in Scandinavia.",
+                  "category": "museum",
+                  "coords": [
+                        10.385971,
+                        55.402808
+                  ]
+            },
+            {
+                  "name": "Aaløkkegaard",
+                  "text": "Aaløkkegaard is a historic manor estate functioning as a local landmark in Odense.",
+                  "category": "castle",
+                  "coords": [
+                        10.368755,
+                        55.404341
+                  ]
+            },
+            {
+                  "name": "Odense Bunkermuseum",
+                  "text": "The Odense Bunkermuseum is a museum located inside an authentic, preserved Cold War bunker.",
+                  "category": "museum",
+                  "coords": [
+                        10.40746,
+                        55.385354
+                  ]
+            },
+            {
+                  "name": "H. C. Andersens Hus",
+                  "text": "H. C. Andersens Hus is a dedicated museum in Odense celebrating the life and fairy tales of Hans Christian Andersen.",
+                  "category": "museum",
+                  "coords": [
+                        10.390777,
+                        55.398724
+                  ]
+            },
+            {
+                  "name": "Nonnebakken",
+                  "text": "Nonnebakken is a prominent archaeological site in Odense, known for the remains of a historic Viking ring fortress.",
+                  "category": "historical",
+                  "coords": [
+                        10.389133,
+                        55.391974
+                  ]
+            },
+            {
+                  "name": "Næsbyhoved Slotsbanke",
+                  "text": "Næsbyhoved Slotsbanke is an archaeological site in Odense featuring the earthworks of a former medieval royal castle.",
+                  "category": "historical",
+                  "coords": [
+                        10.375328,
+                        55.413452
+                  ]
+            },
+            {
+                  "name": "Marienlund",
+                  "text": "Marienlund is a historic manor estate located in the city of Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.404335,
+                        55.421406
+                  ]
+            },
+            {
+                  "name": "Odense Rådhus",
+                  "text": "Odense Rådhus is the monumental town hall that serves as the administrative center of Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.388941,
+                        55.396149
+                  ]
+            },
+            {
+                  "name": "Odense Teater",
+                  "text": "Odense Teater is Denmark's second-oldest active theatre institution, offering diverse stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        10.385453,
+                        55.398501
+                  ]
+            },
+            {
+                  "name": "Odense Koncerthus",
+                  "text": "Odense Koncerthus is a major concert hall and the proud home of the Odense Symphony Orchestra.",
+                  "category": "cultural",
+                  "coords": [
+                        10.392376,
+                        55.399598
+                  ]
+            },
+            {
+                  "name": "Odense Adelige Jomfrukloster",
+                  "text": "Odense Adelige Jomfrukloster is a historic former monastery in Odense, originally established as a home for unmarried noblewomen.",
+                  "category": "religious",
+                  "coords": [
+                        10.39176,
+                        55.396276
+                  ]
+            },
+            {
+                  "name": "Brandts",
+                  "text": "Brandts is a prominent arts centre in Odense dedicated to Danish and international visual culture and photography.",
+                  "category": "cultural",
+                  "coords": [
+                        10.380803,
+                        55.396053
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirke",
+                  "text": "Ansgars Kirke is a notable place of worship providing spiritual services in the city of Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.378201,
+                        55.391428
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Vor Frue Kirke is recognized as one of the oldest and most historic churches in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.395459,
+                        55.39771
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "Hans Tausens Kirke is a distinctive place of worship in Odense named after a prominent Danish reformer.",
+                  "category": "religious",
+                  "coords": [
+                        10.363384,
+                        55.398523
+                  ]
+            },
+            {
+                  "name": "Bolbro Kirke",
+                  "text": "Bolbro Kirke is an established place of worship serving the local parish in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.351525,
+                        55.393082
+                  ]
+            },
+            {
+                  "name": "Munkebjerg Kirke",
+                  "text": "Munkebjerg Kirke is a notable place of worship located in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.404456,
+                        55.386967
+                  ]
+            },
+            {
+                  "name": "Saint Hans Church",
+                  "text": "Saint Hans Church is a notable church located in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.387557,
+                        55.399125
+                  ]
+            },
+            {
+                  "name": "Baptistkirken i Odense",
+                  "text": "Baptistkirken i Odense is a notable place of worship located in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.387562,
+                        55.393654
+                  ]
+            },
+            {
+                  "name": "Fredens Kirke",
+                  "text": "Fredens Kirke is a notable place of worship located in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.395244,
+                        55.413433
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Klosterkirke",
+                  "text": "Gråbrødre Klosterkirke is a notable place of worship located in Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.385898,
+                        55.396961
+                  ]
+            },
+            {
+                  "name": "Odins Bro",
+                  "text": "Odins Bro is a notable bridge located in Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.378916,
+                        55.422453
+                  ]
+            },
+            {
+                  "name": "Byens Bro",
+                  "text": "Byens Bro is a notable bridge located in Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.383288,
+                        55.401798
+                  ]
+            },
+            {
+                  "name": "Kongens Have",
+                  "text": "Kongens Have is a notable park located in Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.385216,
+                        55.399782
+                  ]
+            },
+            {
+                  "name": "Cultural Botanical Garden",
+                  "text": "Cultural Botanical Garden is a notable garden located in Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.429193,
+                        55.399083
+                  ]
+            },
+            {
+                  "name": "Odense friluftsbad",
+                  "text": "Odense friluftsbad is a notable water park located in Odense.",
+                  "category": "recreational",
+                  "coords": [
+                        10.344341,
+                        55.385266
+                  ]
+            },
+            {
+                  "name": "Teater Momentum",
+                  "text": "Teater Momentum is a theatre located in the city of Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.381353,
+                        55.392807
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Vor Frelsers Kirke is a place of worship located in the city of Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.422976,
+                        55.395925
+                  ]
+            },
+            {
+                  "name": "Odense Adventkirke",
+                  "text": "Odense Adventkirke is a place of worship located in the city of Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.388518,
+                        55.388707
+                  ]
+            },
+            {
+                  "name": "Odense Valgmenighedskirke",
+                  "text": "Odense Valgmenighedskirke is a place of worship located in the city of Odense.",
+                  "category": "religious",
+                  "coords": [
+                        10.379007,
+                        55.398234
+                  ]
+            },
+            {
+                  "name": "Frederiksbroen",
+                  "text": "Frederiksbroen is a bridge located in the city of Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.396163,
+                        55.396725
+                  ]
+            },
+            {
+                  "name": "Munke Mose",
+                  "text": "Munke Mose is a park located in the city of Odense.",
+                  "category": "park",
+                  "coords": [
+                        10.383311,
+                        55.390769
+                  ]
+            },
+            {
+                  "name": "Kramboden",
+                  "text": "Kramboden is a museum located in the city of Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.393358,
+                        55.397171
+                  ]
+            },
+            {
+                  "name": "Pernille Lykkes Boder",
+                  "text": "Pernille Lykkes Boder is a museum located in the city of Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.393913,
+                        55.398367
+                  ]
+            },
+            {
+                  "name": "Tiny Art Gallery",
+                  "text": "Tiny Art Gallery is a gallery located in the city of Odense.",
+                  "category": "museum",
+                  "coords": [
+                        10.380349,
+                        55.407794
+                  ]
+            },
+            {
+                  "name": "Forn Siðrs Runesten",
+                  "text": "Forn Siðrs Runesten is a monument located in the city of Odense.",
+                  "category": "historical",
+                  "coords": [
+                        10.367907,
+                        55.387354
+                  ]
+            },
+            {
+                  "name": "Nedergadeteatret",
+                  "text": "Nedergadeteatret is a theatre located in the city of Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.347791,
+                        55.394094
+                  ]
+            },
+            {
+                  "name": "DOK5000",
+                  "text": "DOK5000 is a theatre located in the city of Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.383206,
+                        55.411377
+                  ]
+            },
+            {
+                  "name": "Teater 95B",
+                  "text": "Teater 95B is a theatre located in the city of Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.379649,
+                        55.394604
+                  ]
+            },
+            {
+                  "name": "Zoo Scenen",
+                  "text": "Zoo Scenen is a theatre located in the city of Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.372348,
+                        55.377058
+                  ]
+            },
+            {
+                  "name": "Kunst- og Filosoficentret Solvognen",
+                  "text": "Kunst- og Filosoficentret Solvognen is an arts centre located in the city of Odense.",
+                  "category": "cultural",
+                  "coords": [
+                        10.391401,
+                        55.393968
+                  ]
+            },
+            {
+                  "name": "Vaskeplads for H. C. Andersens mor",
+                  "text": "Vaskeplads for H. C. Andersens mor is an attraction located in the city of Odense.",
+                  "category": "landmark",
+                  "coords": [
+                        10.392735,
+                        55.396048
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "denmark",
  coords: [10.3883, 55.3958],
@@ -333,7 +3915,1924 @@ export const denmarkRegions: POI[] = [
 
 export const denmarkCities: POI[] = [
  {
- id: "city-aalborg",
+ id: "city-aalborg", "sights": {
+      "de": [
+            {
+                  "name": "Aalborg Søfarts- og Marinemuseum",
+                  "text": "Ein maritimes Museum in Aalborg, das interaktive Erlebnisse und historische Schiffe wie U-Boote bietet.",
+                  "category": "museum",
+                  "coords": [
+                        9.892906,
+                        57.058563
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Aalborg",
+                  "text": "Ein Museum in Aalborg, das die lokale Geschichte von der Antike bis zur Gegenwart dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.917958,
+                        57.048155
+                  ]
+            },
+            {
+                  "name": "Aalborghus",
+                  "text": "Ein Schloss aus dem 16. Jahrhundert in Aalborg, das als Sitz des örtlichen Amtmanns diente.",
+                  "category": "castle",
+                  "coords": [
+                        9.924462,
+                        57.049413
+                  ]
+            },
+            {
+                  "name": "Kunsten",
+                  "text": "Ein Museum für moderne Kunst in Aalborg, untergebracht in einem markanten Gebäude von Alvar Aalto.",
+                  "category": "museum",
+                  "coords": [
+                        9.905756,
+                        57.042554
+                  ]
+            },
+            {
+                  "name": "Sohngaardsholm",
+                  "text": "Ein historisches Herrenhaus in Aalborg, umgeben von einer Parkanlage.",
+                  "category": "historical",
+                  "coords": [
+                        9.944543,
+                        57.031563
+                  ]
+            },
+            {
+                  "name": "Aalborg Teater",
+                  "text": "Das größte Regionaltheater Dänemarks, das sich im Zentrum von Aalborg befindet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916377,
+                        57.046808
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Eine historische Kirche in Aalborg, die auf den Fundamenten eines mittelalterlichen Klosters errichtet wurde.",
+                  "category": "religious",
+                  "coords": [
+                        9.923959,
+                        57.046365
+                  ]
+            },
+            {
+                  "name": "Budolfi Kirche",
+                  "text": "Der Dom von Aalborg, eine spätgotische Backsteinkirche aus dem 14. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        9.919449,
+                        57.047897
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirken",
+                  "text": "Eine markante Kirche in Aalborg, die für ihre Architektur aus dem frühen 20. Jahrhundert bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.910592,
+                        57.0433
+                  ]
+            },
+            {
+                  "name": "Rørdal Kirke",
+                  "text": "Die Rørdal Kirke ist eine beschauliche Kirche im Osten von Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.9667,
+                        57.055733
+                  ]
+            },
+            {
+                  "name": "Vejgård Kirke",
+                  "text": "Die Vejgård Kirke ist eine aktive evangelisch-lutherische Kirche in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.955282,
+                        57.041422
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Die Vor Frelsers Kirke ist ein markantes Kirchengebäude im Zentrum von Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.906561,
+                        57.049929
+                  ]
+            },
+            {
+                  "name": "Hasseris Kirke",
+                  "text": "Die Hasseris Kirke ist eine moderne Kirche im Stadtteil Hasseris in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.884225,
+                        57.038492
+                  ]
+            },
+            {
+                  "name": "Lindholm Kirke",
+                  "text": "Die Lindholm Kirke ist eine Kirche im Stadtteil Nørresundby in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.896112,
+                        57.070679
+                  ]
+            },
+            {
+                  "name": "Vesterkær Kirke",
+                  "text": "Die Vesterkær Kirke ist eine schlichte, moderne Kirche im Westen von Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.89199,
+                        57.056138
+                  ]
+            },
+            {
+                  "name": "Sankt Markus Kirke",
+                  "text": "Die Sankt Markus Kirke ist eine markante Kirche in Aalborg mit einem hohen Turm.",
+                  "category": "religious",
+                  "coords": [
+                        9.943427,
+                        57.04403
+                  ]
+            },
+            {
+                  "name": "Jomfru Ane Gade",
+                  "text": "Die Jomfru Ane Gade ist Aalborgs berühmteste Straße, bekannt für ihr lebhaftes Nachtleben.",
+                  "category": "landmark",
+                  "coords": [
+                        9.918953,
+                        57.050094
+                  ]
+            },
+            {
+                  "name": "Hjelmerstald",
+                  "text": "Hjelmerstald ist eine malerische historische Gasse mit gut erhaltenen Fachwerkhäusern.",
+                  "category": "landmark",
+                  "coords": [
+                        9.922672,
+                        57.046644
+                  ]
+            },
+            {
+                  "name": "Aalborg Kongres- og Kulturcenter",
+                  "text": "Das Kongres- og Kulturcenter ist ein bedeutender Veranstaltungsort für Konzerte und Messen.",
+                  "category": "landmark",
+                  "coords": [
+                        9.913286,
+                        57.043472
+                  ]
+            },
+            {
+                  "name": "Limfjordbrücke",
+                  "text": "Die Limfjordsbroen ist eine wichtige Brücke, die Aalborg mit Nørresundby verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919974,
+                        57.054843
+                  ]
+            },
+            {
+                  "name": "Kulturbroen",
+                  "text": "Die Kulturbroen ist eine kombinierte Fußgänger- und Fahrradbrücke über den Limfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.910277,
+                        57.058168
+                  ]
+            },
+            {
+                  "name": "Aalborgtårnet",
+                  "text": "Der Aalborg Tower bietet von seiner Plattform einen Panoramablick über die gesamte Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        9.904466,
+                        57.041805
+                  ]
+            },
+            {
+                  "name": "Aalborg Zoo",
+                  "text": "Der Aalborg Zoo beherbergt zahlreiche exotische Tiere in naturnah gestalteten Gehegen.",
+                  "category": "recreational",
+                  "coords": [
+                        9.898209,
+                        57.036413
+                  ]
+            },
+            {
+                  "name": "Hvilehøj",
+                  "text": "Hvilehøj ist eine archäologische Stätte in Aalborg, die auf die frühe Besiedlung hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        9.957724,
+                        57.045874
+                  ]
+            },
+            {
+                  "name": "Lindholm Høje",
+                  "text": "Lindholm Høje ist eine beeindruckende wikingerzeitliche Grabstätte mit Steinsetzungen.",
+                  "category": "historical",
+                  "coords": [
+                        9.911642,
+                        57.076909
+                  ]
+            },
+            {
+                  "name": "Nørresundby Kirke",
+                  "text": "Die Nørresundby Kirke ist eine markante Kirche am Nordufer des Limfjords.",
+                  "category": "religious",
+                  "coords": [
+                        9.919748,
+                        57.060751
+                  ]
+            },
+            {
+                  "name": "Bethaniakirken",
+                  "text": "Die Bethaniakirken ist eine freikirchliche Gemeinde in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.925829,
+                        57.042777
+                  ]
+            },
+            {
+                  "name": "Sankt Mariæ Kirke",
+                  "text": "Die Sankt Mariæ Kirke ist Teil eines ehemaligen Klosters im Zentrum von Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.912329,
+                        57.051758
+                  ]
+            },
+            {
+                  "name": "Bethelkirken",
+                  "text": "Die Bethelkirken ist eine Kirche der Baptistengemeinde in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.92284,
+                        57.044204
+                  ]
+            },
+            {
+                  "name": "De Syngende Træer",
+                  "text": "Der Park of Music in Aalborg ist für seine „singenden Bäume“ bekannt.",
+                  "category": "landmark",
+                  "coords": [
+                        9.915164,
+                        57.043248
+                  ]
+            },
+            {
+                  "name": "Karolinelund",
+                  "text": "Karolinelund ist ein ehemaliger Freizeitpark, der heute als öffentlicher Stadtpark dient.",
+                  "category": "park",
+                  "coords": [
+                        9.932414,
+                        57.044256
+                  ]
+            },
+            {
+                  "name": "Østre Anlæg",
+                  "text": "Østre Anlæg ist einer der ältesten und beliebtesten Stadtparks in Aalborg.",
+                  "category": "park",
+                  "coords": [
+                        9.940167,
+                        57.043928
+                  ]
+            },
+            {
+                  "name": "Kildeparken",
+                  "text": "Die Kildeparken ist eine zentrale Grünanlage in Aalborg mit vielen Skulpturen.",
+                  "category": "park",
+                  "coords": [
+                        9.913959,
+                        57.042237
+                  ]
+            },
+            {
+                  "name": "Golfparken",
+                  "text": "Der Golfparken ist eine weitläufige Parkanlage in Aalborg mit Sport- und Erholungsflächen.",
+                  "category": "park",
+                  "coords": [
+                        9.954977,
+                        57.025634
+                  ]
+            },
+            {
+                  "name": "Vandteknisk Museum",
+                  "text": "Das Vandteknisk Museum befasst sich mit der Geschichte der Wasserversorgung in Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.931114,
+                        57.032767
+                  ]
+            },
+            {
+                  "name": "Raschgaarden",
+                  "text": "Der Raschgaarden ist ein historisches Gebäude in Aalborg, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        9.902348,
+                        57.073311
+                  ]
+            },
+            {
+                  "name": "HADG Contemporary",
+                  "text": "HADG Contemporary ist eine Galerie für zeitgenössische Kunst in Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.918235,
+                        57.044027
+                  ]
+            },
+            {
+                  "name": "Niemi",
+                  "text": "Niemi ist eine Kunstgalerie in Aalborg, die verschiedene moderne Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        9.941162,
+                        57.045686
+                  ]
+            },
+            {
+                  "name": "Atelier Appelsinblaa",
+                  "text": "Atelier Appelsinblaa ist ein Kunstatelier und eine Galerie im Zentrum von Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.918963,
+                        57.045361
+                  ]
+            },
+            {
+                  "name": "Galleri Baand",
+                  "text": "Die Galleri Baand präsentiert zeitgenössische Werke lokaler und regionaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        9.921181,
+                        57.04589
+                  ]
+            },
+            {
+                  "name": "north urban art studio",
+                  "text": "Dieses Studio ist ein Zentrum für urbane Kunst und kreative Projekte in Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.908608,
+                        57.055122
+                  ]
+            },
+            {
+                  "name": "Sloths Depot",
+                  "text": "Sloths Depot ist eine Galerie, die Werke des Künstlers Nils Sloth ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        9.923213,
+                        57.045223
+                  ]
+            },
+            {
+                  "name": "Gallery Kirk",
+                  "text": "Die Gallery Kirk ist eine Kunstgalerie in Aalborg, die auf moderne Malerei spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.916732,
+                        57.045764
+                  ]
+            },
+            {
+                  "name": "TILGANG",
+                  "text": "TILGANG ist ein Kunstraum in Aalborg, der wechselnde Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        9.909943,
+                        57.047066
+                  ]
+            },
+            {
+                  "name": "Betina Jung Art Studio",
+                  "text": "Dies ist das persönliche Atelier und die Galerie der Künstlerin Betina Jung.",
+                  "category": "museum",
+                  "coords": [
+                        9.937312,
+                        57.047727
+                  ]
+            },
+            {
+                  "name": "Signalbakke",
+                  "text": "Signalbakke ist eine archäologische Stätte und ein Aussichtspunkt in Aalborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.958593,
+                        57.048207
+                  ]
+            },
+            {
+                  "name": "Urbans Kælder",
+                  "text": "Urbans Kælder sind die historischen Überreste eines alten Kellers in Aalborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.908871,
+                        57.040803
+                  ]
+            },
+            {
+                  "name": "Aalborg Comedy Club",
+                  "text": "Der Aalborg Comedy Club ist ein beliebter Veranstaltungsort für Stand-up-Comedy.",
+                  "category": "cultural",
+                  "coords": [
+                        9.921207,
+                        57.049753
+                  ]
+            },
+            {
+                  "name": "Teater Nordkraft",
+                  "text": "Teater Nordkraft ist ein modernes Theater, das zeitgenössische Stücke aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.932865,
+                        57.046443
+                  ]
+            },
+            {
+                  "name": "Det Hemlige Teater",
+                  "text": "Det Hemlige Teater ist eine kleine, experimentelle Bühne in Aalborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.929774,
+                        57.044111
+                  ]
+            },
+            {
+                  "name": "Amfien",
+                  "text": "Amfien ist eine Freilichtbühne in Aalborg für verschiedene kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941941,
+                        57.057885
+                  ]
+            },
+            {
+                  "name": "Skovrock",
+                  "text": "Skovrock ist eine bekannte Veranstaltungsreihe für Open-Air-Konzerte im Kildeparken.",
+                  "category": "cultural",
+                  "coords": [
+                        9.907701,
+                        57.041552
+                  ]
+            },
+            {
+                  "name": "Nordjyllands kunstnerværksted",
+                  "text": "Dies ist ein Zentrum für Künstler und kreatives Schaffen in Nordjylland.",
+                  "category": "cultural",
+                  "coords": [
+                        9.885926,
+                        57.054805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Aalborg Søfarts- og Marinemuseum",
+                  "text": "Tengerészeti múzeum Aalborgban, amely interaktív élményeket és történelmi hajókat, például tengeralattjárót kínál.",
+                  "category": "museum",
+                  "coords": [
+                        9.892906,
+                        57.058563
+                  ]
+            },
+            {
+                  "name": "Aalborg Historiske Museum",
+                  "text": "Aalborgi múzeum, amely a helyi történelmet dokumentálja az ókortól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        9.917958,
+                        57.048155
+                  ]
+            },
+            {
+                  "name": "Aalborghus",
+                  "text": "16. századi kastély Aalborgban, amely a helyi elöljáró székhelyeként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        9.924462,
+                        57.049413
+                  ]
+            },
+            {
+                  "name": "Kunsten",
+                  "text": "Modern művészeti múzeum Aalborgban, Alvar Aalto jellegzetes épületében elhelyezve.",
+                  "category": "museum",
+                  "coords": [
+                        9.905756,
+                        57.042554
+                  ]
+            },
+            {
+                  "name": "Sohngaardsholm",
+                  "text": "Történelmi kúria Aalborgban, egy parkkal körülvéve.",
+                  "category": "historical",
+                  "coords": [
+                        9.944543,
+                        57.031563
+                  ]
+            },
+            {
+                  "name": "Aalborg Teater",
+                  "text": "Dánia legnagyobb regionális színháza, amely Aalborg központjában található.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916377,
+                        57.046808
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Történelmi templom Aalborgban, amely egy középkori kolostor alapjaira épült.",
+                  "category": "religious",
+                  "coords": [
+                        9.923959,
+                        57.046365
+                  ]
+            },
+            {
+                  "name": "Budolfi Kirke",
+                  "text": "Aalborg székesegyháza, egy 14. századi késő gótikus téglatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        9.919449,
+                        57.047897
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirken",
+                  "text": "Jellegzetes templom Aalborgban, amely a 20. század eleji építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.910592,
+                        57.0433
+                  ]
+            },
+            {
+                  "name": "Rørdal Kirke",
+                  "text": "A Rørdal Kirke egy vallási helyszín Aalborg városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.9667,
+                        57.055733
+                  ]
+            },
+            {
+                  "name": "Vejgård Kirke",
+                  "text": "A Vejgård Kirke egy helyi templom Aalborg városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.955282,
+                        57.041422
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "A Vor Frelsers Kirke Aalborg központjának egyik meghatározó temploma.",
+                  "category": "religious",
+                  "coords": [
+                        9.906561,
+                        57.049929
+                  ]
+            },
+            {
+                  "name": "Hasseris Kirke",
+                  "text": "A Hasseris Kirke egy modern templom Aalborg Hasseris negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        9.884225,
+                        57.038492
+                  ]
+            },
+            {
+                  "name": "Lindholm Kirke",
+                  "text": "A Lindholm Kirke egy vallási épület Aalborg Nørresundby részén.",
+                  "category": "religious",
+                  "coords": [
+                        9.896112,
+                        57.070679
+                  ]
+            },
+            {
+                  "name": "Vesterkær Kirke",
+                  "text": "A Vesterkær Kirke egy modern vallási épület Aalborg nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        9.89199,
+                        57.056138
+                  ]
+            },
+            {
+                  "name": "Sankt Markus Kirke",
+                  "text": "A Sankt Markus Kirke Aalborg egyik vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        9.943427,
+                        57.04403
+                  ]
+            },
+            {
+                  "name": "Jomfru Ane Gade",
+                  "text": "A Jomfru Ane Gade Aalborg híres szórakozóutcája, élénk éjszakai élettel.",
+                  "category": "landmark",
+                  "coords": [
+                        9.918953,
+                        57.050094
+                  ]
+            },
+            {
+                  "name": "Hjelmerstald",
+                  "text": "A Hjelmerstald egy festői történelmi utca Aalborg központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.922672,
+                        57.046644
+                  ]
+            },
+            {
+                  "name": "Aalborg Kongres- og Kulturcenter",
+                  "text": "Az Aalborg Kongres- og Kulturcenter a város egyik fő kulturális és rendezvényközpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        9.913286,
+                        57.043472
+                  ]
+            },
+            {
+                  "name": "Limfjordsbroen",
+                  "text": "A Limfjordsbroen egy fontos híd, amely Aalborgot és Nørresundbyt köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919974,
+                        57.054843
+                  ]
+            },
+            {
+                  "name": "Kulturbroen",
+                  "text": "A Kulturbroen egy gyalogos és kerékpáros híd a Limfjord felett.",
+                  "category": "landmark",
+                  "coords": [
+                        9.910277,
+                        57.058168
+                  ]
+            },
+            {
+                  "name": "Aalborgtårnet",
+                  "text": "Az Aalborg Tower kilátójából panorámás kilátás nyílik az egész városra.",
+                  "category": "natural",
+                  "coords": [
+                        9.904466,
+                        57.041805
+                  ]
+            },
+            {
+                  "name": "Aalborg Zoo",
+                  "text": "Az Aalborgi Állatkert számos egzotikus állatfajnak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        9.898209,
+                        57.036413
+                  ]
+            },
+            {
+                  "name": "Hvilehøj",
+                  "text": "Hvilehøj egy régészeti lelőhely Aalborg városában.",
+                  "category": "historical",
+                  "coords": [
+                        9.957724,
+                        57.045874
+                  ]
+            },
+            {
+                  "name": "Lindholm Høje",
+                  "text": "Lindholm Høje egy jelentős viking kori temetkezési hely Aalborg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.911642,
+                        57.076909
+                  ]
+            },
+            {
+                  "name": "Nørresundby Kirke",
+                  "text": "A Nørresundby Kirke egy vallási épület Aalborg északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        9.919748,
+                        57.060751
+                  ]
+            },
+            {
+                  "name": "Bethaniakirken",
+                  "text": "A Bethaniakirken egy vallási közösség központja Aalborgban.",
+                  "category": "religious",
+                  "coords": [
+                        9.925829,
+                        57.042777
+                  ]
+            },
+            {
+                  "name": "Sankt Mariæ Kirke",
+                  "text": "A Sankt Mariæ Kirke egy történelmi templom Aalborg belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        9.912329,
+                        57.051758
+                  ]
+            },
+            {
+                  "name": "Bethelkirken",
+                  "text": "A Bethelkirken egy keresztény templom Aalborg városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.92284,
+                        57.044204
+                  ]
+            },
+            {
+                  "name": "De Syngende Træer",
+                  "text": "Az Aalborgi Park of Music a „zenélő fáiról” ismert különleges park.",
+                  "category": "landmark",
+                  "coords": [
+                        9.915164,
+                        57.043248
+                  ]
+            },
+            {
+                  "name": "Karolinelund",
+                  "text": "A Karolinelund egy korábbi vidámpark, amely ma városi parkként funkcionál.",
+                  "category": "park",
+                  "coords": [
+                        9.932414,
+                        57.044256
+                  ]
+            },
+            {
+                  "name": "Østre Anlæg",
+                  "text": "Az Østre Anlæg Aalborg egyik legrégebbi és legnépszerűbb városi parkja.",
+                  "category": "park",
+                  "coords": [
+                        9.940167,
+                        57.043928
+                  ]
+            },
+            {
+                  "name": "Kildeparken",
+                  "text": "A Kildeparken egy központi park Aalborgban, számos szoborral díszítve.",
+                  "category": "park",
+                  "coords": [
+                        9.913959,
+                        57.042237
+                  ]
+            },
+            {
+                  "name": "Golfparken",
+                  "text": "A Golfparken egy tágas park Aalborgban, sportolási és kikapcsolódási lehetőségekkel.",
+                  "category": "park",
+                  "coords": [
+                        9.954977,
+                        57.025634
+                  ]
+            },
+            {
+                  "name": "Vandteknisk Museum",
+                  "text": "A Vandteknisk Museum Aalborg vízellátásának történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.931114,
+                        57.032767
+                  ]
+            },
+            {
+                  "name": "Raschgaarden",
+                  "text": "A Raschgaarden egy történelmi épület Aalborgban, amely múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        9.902348,
+                        57.073311
+                  ]
+            },
+            {
+                  "name": "HADG Contemporary",
+                  "text": "A HADG Contemporary egy kortárs művészeti galéria Aalborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.918235,
+                        57.044027
+                  ]
+            },
+            {
+                  "name": "Niemi",
+                  "text": "A Niemi egy művészeti galéria Aalborgban, modern alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        9.941162,
+                        57.045686
+                  ]
+            },
+            {
+                  "name": "Atelier Appelsinblaa",
+                  "text": "Az Atelier Appelsinblaa egy művészeti stúdió és galéria Aalborg belvárosában.",
+                  "category": "museum",
+                  "coords": [
+                        9.918963,
+                        57.045361
+                  ]
+            },
+            {
+                  "name": "Galleri Baand",
+                  "text": "A Galleri Baand helyi és regionális művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.921181,
+                        57.04589
+                  ]
+            },
+            {
+                  "name": "north urban art studio",
+                  "text": "Ez a stúdió az utcai művészet és kreatív projektek központja Aalborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.908608,
+                        57.055122
+                  ]
+            },
+            {
+                  "name": "Sloths Depot",
+                  "text": "A Sloths Depot Nils Sloth művész alkotásait bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        9.923213,
+                        57.045223
+                  ]
+            },
+            {
+                  "name": "Gallery Kirk",
+                  "text": "A Gallery Kirk modern festményekre specializálódott galéria Aalborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.916732,
+                        57.045764
+                  ]
+            },
+            {
+                  "name": "TILGANG",
+                  "text": "A TILGANG egy művészeti tér Aalborgban, változatos kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        9.909943,
+                        57.047066
+                  ]
+            },
+            {
+                  "name": "Betina Jung Art Studio",
+                  "text": "Ez Betina Jung művész személyes stúdiója és galériája Aalborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.937312,
+                        57.047727
+                  ]
+            },
+            {
+                  "name": "Signalbakke",
+                  "text": "A Signalbakke egy régészeti lelőhely és kilátópont Aalborg városában.",
+                  "category": "historical",
+                  "coords": [
+                        9.958593,
+                        57.048207
+                  ]
+            },
+            {
+                  "name": "Urbans Kælder",
+                  "text": "Az Urbans Kælder egy régi pince történelmi maradványai Aalborgban.",
+                  "category": "historical",
+                  "coords": [
+                        9.908871,
+                        57.040803
+                  ]
+            },
+            {
+                  "name": "Aalborg Comedy Club",
+                  "text": "Az Aalborg Comedy Club a stand-up comedy kedvelt helyszíne a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.921207,
+                        57.049753
+                  ]
+            },
+            {
+                  "name": "Teater Nordkraft",
+                  "text": "A Teater Nordkraft egy modern színház, amely kortárs darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        9.932865,
+                        57.046443
+                  ]
+            },
+            {
+                  "name": "Det Hemlige Teater",
+                  "text": "A Det Hemlige Teater egy kis kísérleti színház Aalborg városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.929774,
+                        57.044111
+                  ]
+            },
+            {
+                  "name": "Amfien",
+                  "text": "Az Amfien egy szabadtéri színpad Aalborgban különböző kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941941,
+                        57.057885
+                  ]
+            },
+            {
+                  "name": "Skovrock",
+                  "text": "A Skovrock egy népszerű szabadtéri koncertsorozat Aalborg Kildeparken nevű parkjában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.907701,
+                        57.041552
+                  ]
+            },
+            {
+                  "name": "Nordjyllands kunstnerværksted",
+                  "text": "Ez az észak-jyllandi művészek és a kreatív alkotómunka egyik központja.",
+                  "category": "cultural",
+                  "coords": [
+                        9.885926,
+                        57.054805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Aalborg Søfarts- og Marinemuseum",
+                  "text": "Un muzeu maritim din Aalborg care oferă experiențe interactive și nave istorice, inclusiv un submarin.",
+                  "category": "museum",
+                  "coords": [
+                        9.892906,
+                        57.058563
+                  ]
+            },
+            {
+                  "name": "Aalborg Historiske Museum",
+                  "text": "Un muzeu din Aalborg care documentează istoria locală din antichitate până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        9.917958,
+                        57.048155
+                  ]
+            },
+            {
+                  "name": "Aalborghus",
+                  "text": "Un castel din secolul al XVI-lea din Aalborg, care a servit drept reședință pentru dregătorul local.",
+                  "category": "castle",
+                  "coords": [
+                        9.924462,
+                        57.049413
+                  ]
+            },
+            {
+                  "name": "Kunsten",
+                  "text": "Un muzeu de artă modernă din Aalborg, găzduit într-o clădire distinctivă proiectată de Alvar Aalto.",
+                  "category": "museum",
+                  "coords": [
+                        9.905756,
+                        57.042554
+                  ]
+            },
+            {
+                  "name": "Sohngaardsholm",
+                  "text": "Un conac istoric din Aalborg, înconjurat de o zonă de parc.",
+                  "category": "historical",
+                  "coords": [
+                        9.944543,
+                        57.031563
+                  ]
+            },
+            {
+                  "name": "Aalborg Teater",
+                  "text": "Cel mai mare teatru regional din Danemarca, situat în centrul orașului Aalborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916377,
+                        57.046808
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "O biserică istorică din Aalborg construită pe fundațiile unei mănăstiri medievale.",
+                  "category": "religious",
+                  "coords": [
+                        9.923959,
+                        57.046365
+                  ]
+            },
+            {
+                  "name": "Budolfi Kirke",
+                  "text": "Catedrala din Aalborg, o biserică în stil gotic târziu din cărămidă, datând din secolul al XIV-lea.",
+                  "category": "religious",
+                  "coords": [
+                        9.919449,
+                        57.047897
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirken",
+                  "text": "O biserică distinctivă din Aalborg, cunoscută pentru arhitectura sa de la începutul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        9.910592,
+                        57.0433
+                  ]
+            },
+            {
+                  "name": "Rørdal Kirke",
+                  "text": "Rørdal Kirke este un lăcaș de cult situat în Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.9667,
+                        57.055733
+                  ]
+            },
+            {
+                  "name": "Vejgård Kirke",
+                  "text": "Vejgård Kirke este o biserică situată în orașul Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.955282,
+                        57.041422
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Vor Frelsers Kirke este o biserică remarcabilă din centrul orașului Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.906561,
+                        57.049929
+                  ]
+            },
+            {
+                  "name": "Hasseris Kirke",
+                  "text": "Hasseris Kirke este o biserică modernă din cartierul Hasseris din Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.884225,
+                        57.038492
+                  ]
+            },
+            {
+                  "name": "Lindholm Kirke",
+                  "text": "Lindholm Kirke este o biserică din zona Nørresundby a orașului Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.896112,
+                        57.070679
+                  ]
+            },
+            {
+                  "name": "Vesterkær Kirke",
+                  "text": "Vesterkær Kirke este o biserică modernă situată în vestul orașului Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.89199,
+                        57.056138
+                  ]
+            },
+            {
+                  "name": "Sankt Markus Kirke",
+                  "text": "Sankt Markus Kirke este o biserică importantă din orașul Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.943427,
+                        57.04403
+                  ]
+            },
+            {
+                  "name": "Jomfru Ane Gade",
+                  "text": "Jomfru Ane Gade este cea mai faimoasă stradă din Aalborg, cunoscută pentru viața de noapte.",
+                  "category": "landmark",
+                  "coords": [
+                        9.918953,
+                        57.050094
+                  ]
+            },
+            {
+                  "name": "Hjelmerstald",
+                  "text": "Hjelmerstald este o stradă istorică pitorească din centrul orașului Aalborg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.922672,
+                        57.046644
+                  ]
+            },
+            {
+                  "name": "Aalborg Kongres- og Kulturcenter",
+                  "text": "Aalborg Kongres- og Kulturcenter este un centru major pentru congrese și evenimente culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        9.913286,
+                        57.043472
+                  ]
+            },
+            {
+                  "name": "Limfjordsbroen",
+                  "text": "Limfjordsbroen este un pod important care leagă Aalborg de Nørresundby.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919974,
+                        57.054843
+                  ]
+            },
+            {
+                  "name": "Kulturbroen",
+                  "text": "Kulturbroen este un pod destinat pietonilor și bicicliștilor peste Limfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.910277,
+                        57.058168
+                  ]
+            },
+            {
+                  "name": "Aalborgtårnet",
+                  "text": "Aalborg Tower oferă o vedere panoramică asupra întregului oraș de la înălțime.",
+                  "category": "natural",
+                  "coords": [
+                        9.904466,
+                        57.041805
+                  ]
+            },
+            {
+                  "name": "Aalborg Zoo",
+                  "text": "Grădina Zoologică din Aalborg găzduiește numeroase specii de animale exotice.",
+                  "category": "recreational",
+                  "coords": [
+                        9.898209,
+                        57.036413
+                  ]
+            },
+            {
+                  "name": "Hvilehøj",
+                  "text": "Hvilehøj este un sit arheologic situat în zona orașului Aalborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.957724,
+                        57.045874
+                  ]
+            },
+            {
+                  "name": "Lindholm Høje",
+                  "text": "Lindholm Høje este un sit arheologic major din epoca vikingă, cu morminte de piatră.",
+                  "category": "historical",
+                  "coords": [
+                        9.911642,
+                        57.076909
+                  ]
+            },
+            {
+                  "name": "Nørresundby Kirke",
+                  "text": "Nørresundby Kirke este o biserică situată pe malul nordic al Limfjord-ului.",
+                  "category": "religious",
+                  "coords": [
+                        9.919748,
+                        57.060751
+                  ]
+            },
+            {
+                  "name": "Bethaniakirken",
+                  "text": "Bethaniakirken este o biserică ce deservește o comunitate locală din Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.925829,
+                        57.042777
+                  ]
+            },
+            {
+                  "name": "Sankt Mariæ Kirke",
+                  "text": "Sankt Mariæ Kirke este o biserică istorică din centrul orașului Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.912329,
+                        57.051758
+                  ]
+            },
+            {
+                  "name": "Bethelkirken",
+                  "text": "Bethelkirken este o biserică situată în orașul Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.92284,
+                        57.044204
+                  ]
+            },
+            {
+                  "name": "De Syngende Træer",
+                  "text": "Park of Music este un parc din Aalborg cunoscut pentru copacii săi muzicali.",
+                  "category": "landmark",
+                  "coords": [
+                        9.915164,
+                        57.043248
+                  ]
+            },
+            {
+                  "name": "Karolinelund",
+                  "text": "Karolinelund este un fost parc de distracții, transformat astăzi în parc public.",
+                  "category": "park",
+                  "coords": [
+                        9.932414,
+                        57.044256
+                  ]
+            },
+            {
+                  "name": "Østre Anlæg",
+                  "text": "Østre Anlæg este unul dintre cele mai vechi și populare parcuri din Aalborg.",
+                  "category": "park",
+                  "coords": [
+                        9.940167,
+                        57.043928
+                  ]
+            },
+            {
+                  "name": "Kildeparken",
+                  "text": "Kildeparken este un parc central din Aalborg, decorat cu numeroase sculpturi.",
+                  "category": "park",
+                  "coords": [
+                        9.913959,
+                        57.042237
+                  ]
+            },
+            {
+                  "name": "Golfparken",
+                  "text": "Golfparken este o zonă verde vastă din Aalborg, ideală pentru recreere și sport.",
+                  "category": "park",
+                  "coords": [
+                        9.954977,
+                        57.025634
+                  ]
+            },
+            {
+                  "name": "Vandteknisk Museum",
+                  "text": "Vandteknisk Museum este dedicat istoriei alimentării cu apă din Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.931114,
+                        57.032767
+                  ]
+            },
+            {
+                  "name": "Raschgaarden",
+                  "text": "Raschgaarden este o clădire istorică din Aalborg care găzduiește un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        9.902348,
+                        57.073311
+                  ]
+            },
+            {
+                  "name": "HADG Contemporary",
+                  "text": "HADG Contemporary este o galerie de artă contemporană din Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.918235,
+                        57.044027
+                  ]
+            },
+            {
+                  "name": "Niemi",
+                  "text": "Niemi este o galerie de artă din Aalborg ce expune lucrări moderne.",
+                  "category": "museum",
+                  "coords": [
+                        9.941162,
+                        57.045686
+                  ]
+            },
+            {
+                  "name": "Atelier Appelsinblaa",
+                  "text": "Atelier Appelsinblaa este un studio de artă și o galerie din centrul orașului Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.918963,
+                        57.045361
+                  ]
+            },
+            {
+                  "name": "Galleri Baand",
+                  "text": "Galleri Baand prezintă lucrări contemporane ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        9.921181,
+                        57.04589
+                  ]
+            },
+            {
+                  "name": "north urban art studio",
+                  "text": "Acest studio este un centru pentru artă urbană și proiecte creative în Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.908608,
+                        57.055122
+                  ]
+            },
+            {
+                  "name": "Sloths Depot",
+                  "text": "Sloths Depot este o galerie care expune lucrările artistului Nils Sloth.",
+                  "category": "museum",
+                  "coords": [
+                        9.923213,
+                        57.045223
+                  ]
+            },
+            {
+                  "name": "Gallery Kirk",
+                  "text": "Gallery Kirk este o galerie de artă din Aalborg specializată în pictură modernă.",
+                  "category": "museum",
+                  "coords": [
+                        9.916732,
+                        57.045764
+                  ]
+            },
+            {
+                  "name": "TILGANG",
+                  "text": "TILGANG este un spațiu de artă din Aalborg ce găzduiește expoziții variate.",
+                  "category": "museum",
+                  "coords": [
+                        9.909943,
+                        57.047066
+                  ]
+            },
+            {
+                  "name": "Betina Jung Art Studio",
+                  "text": "Acesta este studioul și galeria personală a artistei Betina Jung.",
+                  "category": "museum",
+                  "coords": [
+                        9.937312,
+                        57.047727
+                  ]
+            },
+            {
+                  "name": "Signalbakke",
+                  "text": "Signalbakke este un sit arheologic și un punct de observație în Aalborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.958593,
+                        57.048207
+                  ]
+            },
+            {
+                  "name": "Urbans Kælder",
+                  "text": "Urbans Kælder reprezintă vestigiile istorice ale unei vechi pivnițe din Aalborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.908871,
+                        57.040803
+                  ]
+            },
+            {
+                  "name": "Aalborg Comedy Club",
+                  "text": "Aalborg Comedy Club este o locație populară pentru spectacole de stand-up comedy.",
+                  "category": "cultural",
+                  "coords": [
+                        9.921207,
+                        57.049753
+                  ]
+            },
+            {
+                  "name": "Teater Nordkraft",
+                  "text": "Teater Nordkraft este un teatru modern care pune în scenă piese contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        9.932865,
+                        57.046443
+                  ]
+            },
+            {
+                  "name": "Det Hemlige Teater",
+                  "text": "Det Hemlige Teater este o scenă mică și experimentală din Aalborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.929774,
+                        57.044111
+                  ]
+            },
+            {
+                  "name": "Amfien",
+                  "text": "Amfien este o scenă în aer liber din Aalborg pentru diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941941,
+                        57.057885
+                  ]
+            },
+            {
+                  "name": "Skovrock",
+                  "text": "Skovrock este o serie populară de concerte în aer liber în Kildeparken din Aalborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.907701,
+                        57.041552
+                  ]
+            },
+            {
+                  "name": "Nordjyllands kunstnerværksted",
+                  "text": "Acesta este un centru pentru artiști și creație artistică din Iutlanda de Nord.",
+                  "category": "cultural",
+                  "coords": [
+                        9.885926,
+                        57.054805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maritime Experience Centre",
+                  "text": "A maritime museum in Aalborg offering interactive experiences and historic vessels, including a submarine.",
+                  "category": "museum",
+                  "coords": [
+                        9.892906,
+                        57.058563
+                  ]
+            },
+            {
+                  "name": "Aalborg Historical Museum",
+                  "text": "A museum in Aalborg documenting local history from ancient times to the present day.",
+                  "category": "museum",
+                  "coords": [
+                        9.917958,
+                        57.048155
+                  ]
+            },
+            {
+                  "name": "Aalborghus",
+                  "text": "A 16th-century castle in Aalborg that served as the residence of the local governor.",
+                  "category": "castle",
+                  "coords": [
+                        9.924462,
+                        57.049413
+                  ]
+            },
+            {
+                  "name": "Kunsten",
+                  "text": "A modern art museum in Aalborg housed in a striking building designed by Alvar Aalto.",
+                  "category": "museum",
+                  "coords": [
+                        9.905756,
+                        57.042554
+                  ]
+            },
+            {
+                  "name": "Sohngaardsholm",
+                  "text": "A historical manor house in Aalborg surrounded by parkland.",
+                  "category": "historical",
+                  "coords": [
+                        9.944543,
+                        57.031563
+                  ]
+            },
+            {
+                  "name": "Aalborg Teater",
+                  "text": "Denmark's largest regional theater, located in the center of Aalborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.916377,
+                        57.046808
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady, Aalborg",
+                  "text": "A historical church in Aalborg built on the foundations of a medieval monastery.",
+                  "category": "religious",
+                  "coords": [
+                        9.923959,
+                        57.046365
+                  ]
+            },
+            {
+                  "name": "Budolfi Church",
+                  "text": "Aalborg's cathedral, a late Gothic brick church dating back to the 14th century.",
+                  "category": "religious",
+                  "coords": [
+                        9.919449,
+                        57.047897
+                  ]
+            },
+            {
+                  "name": "Ansgars Kirken",
+                  "text": "A distinctive church in Aalborg known for its early 20th-century architecture.",
+                  "category": "religious",
+                  "coords": [
+                        9.910592,
+                        57.0433
+                  ]
+            },
+            {
+                  "name": "Rørdal Kirke",
+                  "text": "Rørdal Kirke is a place of worship located in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.9667,
+                        57.055733
+                  ]
+            },
+            {
+                  "name": "Vejgård Kirke",
+                  "text": "Vejgård Kirke is a local church in the city of Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.955282,
+                        57.041422
+                  ]
+            },
+            {
+                  "name": "Vor Frelsers Kirke",
+                  "text": "Vor Frelsers Kirke is a prominent church building in central Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.906561,
+                        57.049929
+                  ]
+            },
+            {
+                  "name": "Hasseris Kirke",
+                  "text": "Hasseris Kirke is a modern church in the Hasseris district of Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.884225,
+                        57.038492
+                  ]
+            },
+            {
+                  "name": "Lindholm Kirke",
+                  "text": "Lindholm Kirke is a church located in the Nørresundby area of Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.896112,
+                        57.070679
+                  ]
+            },
+            {
+                  "name": "Vesterkær Kirke",
+                  "text": "Vesterkær Kirke is a modern church located in the western part of Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.89199,
+                        57.056138
+                  ]
+            },
+            {
+                  "name": "Sankt Markus Kirke",
+                  "text": "Sankt Markus Kirke is a significant church building in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.943427,
+                        57.04403
+                  ]
+            },
+            {
+                  "name": "Jomfru Ane Gade",
+                  "text": "Jomfru Ane Gade is Aalborg's most famous street, known for its vibrant nightlife.",
+                  "category": "landmark",
+                  "coords": [
+                        9.918953,
+                        57.050094
+                  ]
+            },
+            {
+                  "name": "Hjelmerstald",
+                  "text": "Hjelmerstald is a picturesque historic street in the center of Aalborg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.922672,
+                        57.046644
+                  ]
+            },
+            {
+                  "name": "Aalborg Kongres- og Kulturcenter",
+                  "text": "Aalborg Kongres- og Kulturcenter is a major venue for concerts and cultural events.",
+                  "category": "landmark",
+                  "coords": [
+                        9.913286,
+                        57.043472
+                  ]
+            },
+            {
+                  "name": "Limfjordsbroen",
+                  "text": "Limfjordsbroen is a vital bridge connecting Aalborg and Nørresundby.",
+                  "category": "landmark",
+                  "coords": [
+                        9.919974,
+                        57.054843
+                  ]
+            },
+            {
+                  "name": "Kulturbroen",
+                  "text": "Kulturbroen is a pedestrian and cyclist bridge crossing the Limfjord.",
+                  "category": "landmark",
+                  "coords": [
+                        9.910277,
+                        57.058168
+                  ]
+            },
+            {
+                  "name": "Aalborg Tower",
+                  "text": "Aalborg Tower offers a panoramic view over the entire city from its platform.",
+                  "category": "natural",
+                  "coords": [
+                        9.904466,
+                        57.041805
+                  ]
+            },
+            {
+                  "name": "Aalborg Zoo",
+                  "text": "Aalborg Zoo is home to numerous exotic animals in naturalistic enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        9.898209,
+                        57.036413
+                  ]
+            },
+            {
+                  "name": "Hvilehøj",
+                  "text": "Hvilehøj is an archaeological site located in the Aalborg area.",
+                  "category": "historical",
+                  "coords": [
+                        9.957724,
+                        57.045874
+                  ]
+            },
+            {
+                  "name": "Lindholm Høje",
+                  "text": "Lindholm Høje is a major Viking Age burial site with stone-lined graves.",
+                  "category": "historical",
+                  "coords": [
+                        9.911642,
+                        57.076909
+                  ]
+            },
+            {
+                  "name": "Nørresundby Kirke",
+                  "text": "Nørresundby Kirke is a church located on the northern side of the Limfjord.",
+                  "category": "religious",
+                  "coords": [
+                        9.919748,
+                        57.060751
+                  ]
+            },
+            {
+                  "name": "Bethaniakirken",
+                  "text": "Bethaniakirken is a church serving a local congregation in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.925829,
+                        57.042777
+                  ]
+            },
+            {
+                  "name": "Sankt Mariæ Kirke",
+                  "text": "Sankt Mariæ Kirke is a historic church in the city center of Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.912329,
+                        57.051758
+                  ]
+            },
+            {
+                  "name": "Bethelkirken",
+                  "text": "Bethelkirken is a church building located in Aalborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.92284,
+                        57.044204
+                  ]
+            },
+            {
+                  "name": "Park of Music",
+                  "text": "The Park of Music in Aalborg is famous for its 'singing trees' that play music.",
+                  "category": "landmark",
+                  "coords": [
+                        9.915164,
+                        57.043248
+                  ]
+            },
+            {
+                  "name": "Karolinelund",
+                  "text": "Karolinelund is a former amusement park that now serves as a public urban park.",
+                  "category": "park",
+                  "coords": [
+                        9.932414,
+                        57.044256
+                  ]
+            },
+            {
+                  "name": "Østre Anlæg",
+                  "text": "Østre Anlæg is one of the oldest and most popular urban parks in Aalborg.",
+                  "category": "park",
+                  "coords": [
+                        9.940167,
+                        57.043928
+                  ]
+            },
+            {
+                  "name": "Kildeparken",
+                  "text": "Kildeparken is a central park in Aalborg featuring many sculptures and green spaces.",
+                  "category": "park",
+                  "coords": [
+                        9.913959,
+                        57.042237
+                  ]
+            },
+            {
+                  "name": "Golfparken",
+                  "text": "Golfparken is a large park area in Aalborg providing space for recreation and sports.",
+                  "category": "park",
+                  "coords": [
+                        9.954977,
+                        57.025634
+                  ]
+            },
+            {
+                  "name": "Vandteknisk Museum",
+                  "text": "Vandteknisk Museum focuses on the history of water technology and supply in Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.931114,
+                        57.032767
+                  ]
+            },
+            {
+                  "name": "Raschgaarden",
+                  "text": "Raschgaarden is a historical building in Aalborg that functions as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        9.902348,
+                        57.073311
+                  ]
+            },
+            {
+                  "name": "HADG Contemporary",
+                  "text": "HADG Contemporary is a contemporary art gallery located in Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.918235,
+                        57.044027
+                  ]
+            },
+            {
+                  "name": "Niemi",
+                  "text": "Niemi is an art gallery in Aalborg showcasing various modern works.",
+                  "category": "museum",
+                  "coords": [
+                        9.941162,
+                        57.045686
+                  ]
+            },
+            {
+                  "name": "Atelier Appelsinblaa",
+                  "text": "Atelier Appelsinblaa is an art studio and gallery in the center of Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.918963,
+                        57.045361
+                  ]
+            },
+            {
+                  "name": "Galleri Baand",
+                  "text": "Galleri Baand showcases contemporary works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        9.921181,
+                        57.04589
+                  ]
+            },
+            {
+                  "name": "north urban art studio",
+                  "text": "This studio is a hub for urban art and creative projects in Aalborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.908608,
+                        57.055122
+                  ]
+            },
+            {
+                  "name": "Sloths Depot",
+                  "text": "Sloths Depot is a gallery displaying works by the artist Nils Sloth.",
+                  "category": "museum",
+                  "coords": [
+                        9.923213,
+                        57.045223
+                  ]
+            },
+            {
+                  "name": "Gallery Kirk",
+                  "text": "Gallery Kirk is an art gallery in Aalborg specialized in modern paintings.",
+                  "category": "museum",
+                  "coords": [
+                        9.916732,
+                        57.045764
+                  ]
+            },
+            {
+                  "name": "TILGANG",
+                  "text": "TILGANG is an art space in Aalborg featuring rotating exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        9.909943,
+                        57.047066
+                  ]
+            },
+            {
+                  "name": "Betina Jung Art Studio",
+                  "text": "This is the personal art studio and gallery of artist Betina Jung.",
+                  "category": "museum",
+                  "coords": [
+                        9.937312,
+                        57.047727
+                  ]
+            },
+            {
+                  "name": "Signalbakke",
+                  "text": "Signalbakke is an archaeological site and a viewpoint in Aalborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.958593,
+                        57.048207
+                  ]
+            },
+            {
+                  "name": "Urbans Kælder",
+                  "text": "Urbans Kælder are the historic remains of an old cellar in Aalborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.908871,
+                        57.040803
+                  ]
+            },
+            {
+                  "name": "Aalborg Comedy Club",
+                  "text": "Aalborg Comedy Club is a popular venue for stand-up comedy performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.921207,
+                        57.049753
+                  ]
+            },
+            {
+                  "name": "Teater Nordkraft",
+                  "text": "Teater Nordkraft is a modern theatre performing contemporary plays.",
+                  "category": "cultural",
+                  "coords": [
+                        9.932865,
+                        57.046443
+                  ]
+            },
+            {
+                  "name": "Det Hemlige Teater",
+                  "text": "Det Hemlige Teater is a small, experimental theatre stage in Aalborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.929774,
+                        57.044111
+                  ]
+            },
+            {
+                  "name": "Amfien",
+                  "text": "Amfien is an open-air stage in Aalborg used for various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        9.941941,
+                        57.057885
+                  ]
+            },
+            {
+                  "name": "Skovrock",
+                  "text": "Skovrock is a popular series of open-air concerts held in Kildeparken, Aalborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.907701,
+                        57.041552
+                  ]
+            },
+            {
+                  "name": "Nordjyllands kunstnerværksted",
+                  "text": "This is a hub for artists and creative work in Northern Jutland.",
+                  "category": "cultural",
+                  "coords": [
+                        9.885926,
+                        57.054805
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "denmark",
  coords: [9.9217, 57.0488],
@@ -404,6 +5903,159 @@ export const denmarkCities: POI[] = [
                         12.574621,
                         56.059753
                   ]
+            },
+            {
+                  "name": "Helsingør Bymuseum",
+                  "text": "Das Helsingør Bymuseum zeigt die Geschichte der Stadt Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.61258,
+                        56.036419
+                  ]
+            },
+            {
+                  "name": "Skibsklarerergaarden",
+                  "text": "Die Skibsklarerergaarden ist ein Museum in einem historischen Handelshaus in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.615068,
+                        56.034816
+                  ]
+            },
+            {
+                  "name": "Marienlyst Slot",
+                  "text": "Das Marienlyst Slot ist ein ehemaliges königliches Lustschloss in Helsingør.",
+                  "category": "castle",
+                  "coords": [
+                        12.601967,
+                        56.04201
+                  ]
+            },
+            {
+                  "name": "Øresundsakvariet",
+                  "text": "Das Øresund Aquarium ist ein Salzwasseraquarium in Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610898,
+                        56.041223
+                  ]
+            },
+            {
+                  "name": "M/S Museet for Søfart",
+                  "text": "Das M/S Museet for Søfart ist ein preisgekröntes Schifffahrtsmuseum in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.616248,
+                        56.038967
+                  ]
+            },
+            {
+                  "name": "Værftsmuseet",
+                  "text": "Das Værftsmuseet dokumentiert die Geschichte der Schiffswerft von Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.614184,
+                        56.037763
+                  ]
+            },
+            {
+                  "name": "Håndværkeren",
+                  "text": "Håndværkeren ist ein kultureller Veranstaltungsort und Theater in Helsingør.",
+                  "category": "cultural",
+                  "coords": [
+                        12.610772,
+                        56.038129
+                  ]
+            },
+            {
+                  "name": "Kronborg Slot",
+                  "text": "Schloss Kronborg ist eine weltberühmte Festung und UNESCO-Welterbestätte in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.621251,
+                        56.039285
+                  ]
+            },
+            {
+                  "name": "Vandlaboratoriet",
+                  "text": "Das Vandlaboratoriet ist ein interaktives Lernzentrum zum Thema Wasser in Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.61302,
+                        56.041572
+                  ]
+            },
+            {
+                  "name": "Kongenshave",
+                  "text": "Die Kongenshave ist eine Parkanlage in Helsingør.",
+                  "category": "park",
+                  "coords": [
+                        12.597139,
+                        56.044098
+                  ]
+            },
+            {
+                  "name": "Galleri Orange",
+                  "text": "Die Galleri Orange zeigt zeitgenössische Kunst in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.614329,
+                        56.041071
+                  ]
+            },
+            {
+                  "name": "Sthens Kirke",
+                  "text": "Die Sthens Kirke ist eine moderne Kirche in Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.58781,
+                        56.019824
+                  ]
+            },
+            {
+                  "name": "Sankt Olai Kirke",
+                  "text": "Die Sankt Olai Kirke ist der Dom von Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.614058,
+                        56.035702
+                  ]
+            },
+            {
+                  "name": "Vestervang Kirke",
+                  "text": "Die Vestervang Kirke ist ein Kirchengebäude in Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.589669,
+                        56.03335
+                  ]
+            },
+            {
+                  "name": "Kronborg Slotskirke",
+                  "text": "Die Kronborg Slotskirke ist die historische Kapelle im Schloss Kronborg.",
+                  "category": "religious",
+                  "coords": [
+                        12.622165,
+                        56.038705
+                  ]
+            },
+            {
+                  "name": "Sankt Vincent Kirke",
+                  "text": "Die Saint Vincent Church ist eine Kirche in Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.607921,
+                        56.037449
+                  ]
+            },
+            {
+                  "name": "Gedser Rev",
+                  "text": "Das Fyrskib Gedser Rev ist ein historisches Feuerschiff, das im Hafen von Helsingør liegt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.615661,
+                        56.037816
+                  ]
             }
       ],
       "hu": [
@@ -432,6 +6084,159 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         12.574621,
                         56.059753
+                  ]
+            },
+            {
+                  "name": "Helsingør Bymuseum",
+                  "text": "A Helsingør Bymuseum Helsingør városának történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.61258,
+                        56.036419
+                  ]
+            },
+            {
+                  "name": "Skibsklarerergaarden",
+                  "text": "A Skibsklarerergaarden egy múzeum egy történelmi kereskedőházban Helsingørben.",
+                  "category": "museum",
+                  "coords": [
+                        12.615068,
+                        56.034816
+                  ]
+            },
+            {
+                  "name": "Marienlyst Slot",
+                  "text": "A Marienlyst Slot egy egykori királyi kastély Helsingørben.",
+                  "category": "castle",
+                  "coords": [
+                        12.601967,
+                        56.04201
+                  ]
+            },
+            {
+                  "name": "Øresundsakvariet",
+                  "text": "Az Øresund Aquarium egy sós vizi akvárium Helsingørben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610898,
+                        56.041223
+                  ]
+            },
+            {
+                  "name": "M/S Museet for Søfart",
+                  "text": "Az M/S Museet for Søfart egy díjnyertes hajózási múzeum Helsingørben.",
+                  "category": "museum",
+                  "coords": [
+                        12.616248,
+                        56.038967
+                  ]
+            },
+            {
+                  "name": "Værftsmuseet",
+                  "text": "A Værftsmuseet a helsingőri hajógyár történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        12.614184,
+                        56.037763
+                  ]
+            },
+            {
+                  "name": "Håndværkeren",
+                  "text": "A Håndværkeren egy kulturális helyszín és színház Helsingőrben.",
+                  "category": "cultural",
+                  "coords": [
+                        12.610772,
+                        56.038129
+                  ]
+            },
+            {
+                  "name": "Kronborg Slot",
+                  "text": "Kronborg vára egy világhírű erőd és UNESCO világörökségi helyszín Helsingőrben.",
+                  "category": "museum",
+                  "coords": [
+                        12.621251,
+                        56.039285
+                  ]
+            },
+            {
+                  "name": "Vandlaboratoriet",
+                  "text": "A Vandlaboratoriet egy interaktív oktatási központ a víz témakörében Helsingőrben.",
+                  "category": "recreational",
+                  "coords": [
+                        12.61302,
+                        56.041572
+                  ]
+            },
+            {
+                  "name": "Kongenshave",
+                  "text": "A Kongenshave egy park Helsingőrben.",
+                  "category": "park",
+                  "coords": [
+                        12.597139,
+                        56.044098
+                  ]
+            },
+            {
+                  "name": "Galleri Orange",
+                  "text": "A Galleri Orange kortárs művészeti alkotásokat mutat be Helsingőrben.",
+                  "category": "museum",
+                  "coords": [
+                        12.614329,
+                        56.041071
+                  ]
+            },
+            {
+                  "name": "Sthens Kirke",
+                  "text": "A Sthens Kirke egy modern templom Helsingőrben.",
+                  "category": "religious",
+                  "coords": [
+                        12.58781,
+                        56.019824
+                  ]
+            },
+            {
+                  "name": "Sankt Olai Kirke",
+                  "text": "A Sankt Olai Kirke Helsingőr székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        12.614058,
+                        56.035702
+                  ]
+            },
+            {
+                  "name": "Vestervang Kirke",
+                  "text": "A Vestervang Kirke egy templomépület Helsingőrben.",
+                  "category": "religious",
+                  "coords": [
+                        12.589669,
+                        56.03335
+                  ]
+            },
+            {
+                  "name": "Kronborg Slotskirke",
+                  "text": "A Kronborg Slotskirke a Kronborg-vár történelmi kápolnája.",
+                  "category": "religious",
+                  "coords": [
+                        12.622165,
+                        56.038705
+                  ]
+            },
+            {
+                  "name": "Sankt Vincent Kirke",
+                  "text": "A Saint Vincent Church egy templom Helsingőrben.",
+                  "category": "religious",
+                  "coords": [
+                        12.607921,
+                        56.037449
+                  ]
+            },
+            {
+                  "name": "Gedser Rev",
+                  "text": "A Fyrskib Gedser Rev egy történelmi világítóhajó Helsingőr kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.615661,
+                        56.037816
                   ]
             }
       ],
@@ -462,6 +6267,159 @@ export const denmarkCities: POI[] = [
                         12.574621,
                         56.059753
                   ]
+            },
+            {
+                  "name": "Helsingør Bymuseum",
+                  "text": "Helsingør Bymuseum prezintă istoria orașului Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.61258,
+                        56.036419
+                  ]
+            },
+            {
+                  "name": "Skibsklarerergaarden",
+                  "text": "Skibsklarerergaarden este un muzeu într-o casă comercială istorică din Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.615068,
+                        56.034816
+                  ]
+            },
+            {
+                  "name": "Marienlyst Slot",
+                  "text": "Marienlyst Slot este un fost castel regal din Helsingør.",
+                  "category": "castle",
+                  "coords": [
+                        12.601967,
+                        56.04201
+                  ]
+            },
+            {
+                  "name": "Øresundsakvariet",
+                  "text": "Øresund Aquarium este un acvariu cu apă sărată din Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610898,
+                        56.041223
+                  ]
+            },
+            {
+                  "name": "M/S Museet for Søfart",
+                  "text": "M/S Museet for Søfart este un muzeu maritim premiat din Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.616248,
+                        56.038967
+                  ]
+            },
+            {
+                  "name": "Værftsmuseet",
+                  "text": "Værftsmuseet documentează istoria șantierului naval din Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.614184,
+                        56.037763
+                  ]
+            },
+            {
+                  "name": "Håndværkeren",
+                  "text": "Håndværkeren este un loc cultural și teatru din Helsingør.",
+                  "category": "cultural",
+                  "coords": [
+                        12.610772,
+                        56.038129
+                  ]
+            },
+            {
+                  "name": "Kronborg Slot",
+                  "text": "Castelul Kronborg este o cetate faimoasă și sit al Patrimoniului Mondial UNESCO în Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.621251,
+                        56.039285
+                  ]
+            },
+            {
+                  "name": "Vandlaboratoriet",
+                  "text": "Vandlaboratoriet este un centru educațional interactiv despre apă în Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.61302,
+                        56.041572
+                  ]
+            },
+            {
+                  "name": "Kongenshave",
+                  "text": "Kongenshave este un parc din Helsingør.",
+                  "category": "park",
+                  "coords": [
+                        12.597139,
+                        56.044098
+                  ]
+            },
+            {
+                  "name": "Galleri Orange",
+                  "text": "Galleri Orange expune artă contemporană în Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.614329,
+                        56.041071
+                  ]
+            },
+            {
+                  "name": "Sthens Kirke",
+                  "text": "Sthens Kirke este o biserică modernă din Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.58781,
+                        56.019824
+                  ]
+            },
+            {
+                  "name": "Sankt Olai Kirke",
+                  "text": "Sankt Olai Kirke este catedrala din Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.614058,
+                        56.035702
+                  ]
+            },
+            {
+                  "name": "Vestervang Kirke",
+                  "text": "Vestervang Kirke este o clădire de biserică din Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.589669,
+                        56.03335
+                  ]
+            },
+            {
+                  "name": "Kronborg Slotskirke",
+                  "text": "Kronborg Slotskirke este capela istorică din interiorul castelului Kronborg.",
+                  "category": "religious",
+                  "coords": [
+                        12.622165,
+                        56.038705
+                  ]
+            },
+            {
+                  "name": "Sankt Vincent Kirke",
+                  "text": "Saint Vincent Church este o biserică din Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.607921,
+                        56.037449
+                  ]
+            },
+            {
+                  "name": "Gedser Rev",
+                  "text": "Fyrskib Gedser Rev este o navă-far istorică situată în portul Helsingør.",
+                  "category": "landmark",
+                  "coords": [
+                        12.615661,
+                        56.037816
+                  ]
             }
       ],
       "en": [
@@ -490,6 +6448,159 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         12.574621,
                         56.059753
+                  ]
+            },
+            {
+                  "name": "Helsingør Bymuseum",
+                  "text": "Helsingør Bymuseum showcases the history of the city of Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.61258,
+                        56.036419
+                  ]
+            },
+            {
+                  "name": "Skibsklarerergaarden",
+                  "text": "Skibsklarerergaarden is a museum in a historic merchant house in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.615068,
+                        56.034816
+                  ]
+            },
+            {
+                  "name": "Marienlyst Slot",
+                  "text": "Marienlyst Slot is a former royal pleasure palace in Helsingør.",
+                  "category": "castle",
+                  "coords": [
+                        12.601967,
+                        56.04201
+                  ]
+            },
+            {
+                  "name": "Øresund Aquarium",
+                  "text": "Øresund Aquarium is a saltwater aquarium in Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.610898,
+                        56.041223
+                  ]
+            },
+            {
+                  "name": "M/S Museet for Søfart",
+                  "text": "M/S Museet for Søfart is an award-winning maritime museum in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.616248,
+                        56.038967
+                  ]
+            },
+            {
+                  "name": "Værftsmuseet",
+                  "text": "Værftsmuseet documents the history of the Helsingør shipyard.",
+                  "category": "museum",
+                  "coords": [
+                        12.614184,
+                        56.037763
+                  ]
+            },
+            {
+                  "name": "Håndværkeren",
+                  "text": "Håndværkeren is a cultural venue and theatre in Helsingør.",
+                  "category": "cultural",
+                  "coords": [
+                        12.610772,
+                        56.038129
+                  ]
+            },
+            {
+                  "name": "Kronborg Slot",
+                  "text": "Kronborg Castle is a world-famous fortress and UNESCO World Heritage site in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.621251,
+                        56.039285
+                  ]
+            },
+            {
+                  "name": "Vandlaboratoriet",
+                  "text": "Vandlaboratoriet is an interactive water laboratory and learning center in Helsingør.",
+                  "category": "recreational",
+                  "coords": [
+                        12.61302,
+                        56.041572
+                  ]
+            },
+            {
+                  "name": "Kongenshave",
+                  "text": "Kongenshave is a park in Helsingør.",
+                  "category": "park",
+                  "coords": [
+                        12.597139,
+                        56.044098
+                  ]
+            },
+            {
+                  "name": "Galleri Orange",
+                  "text": "Galleri Orange displays contemporary art in Helsingør.",
+                  "category": "museum",
+                  "coords": [
+                        12.614329,
+                        56.041071
+                  ]
+            },
+            {
+                  "name": "Sthens Kirke",
+                  "text": "Sthens Kirke is a modern church in Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.58781,
+                        56.019824
+                  ]
+            },
+            {
+                  "name": "Sankt Olai Kirke",
+                  "text": "Sankt Olai Kirke is the cathedral of Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.614058,
+                        56.035702
+                  ]
+            },
+            {
+                  "name": "Vestervang Kirke",
+                  "text": "Vestervang Kirke is a church building in Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.589669,
+                        56.03335
+                  ]
+            },
+            {
+                  "name": "Kronborg Slotskirke",
+                  "text": "Kronborg Slotskirke is the historic chapel located within Kronborg Castle.",
+                  "category": "religious",
+                  "coords": [
+                        12.622165,
+                        56.038705
+                  ]
+            },
+            {
+                  "name": "Saint Vincent Church",
+                  "text": "Saint Vincent Church is a church in Helsingør.",
+                  "category": "religious",
+                  "coords": [
+                        12.607921,
+                        56.037449
+                  ]
+            },
+            {
+                  "name": "Gedser Rev",
+                  "text": "Fyrskib Gedser Rev is a historic lightship located in the Helsingør harbor.",
+                  "category": "landmark",
+                  "coords": [
+                        12.615661,
+                        56.037816
                   ]
             }
       ]
@@ -536,7 +6647,1024 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/helsingor.webp",
  },
  {
- id: "city-roskilde",
+ id: "city-roskilde", "sights": {
+      "de": [
+            {
+                  "name": "Hyrdehøi",
+                  "text": "Hyrdehøi ist eine archäologische Stätte in der Stadt Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.053008,
+                        55.632553
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "Låenhøj ist eine archäologische Stätte in der Stadt Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.046284,
+                        55.629642
+                  ]
+            },
+            {
+                  "name": "Børnehøj",
+                  "text": "Børnehøj ist eine archäologische Stätte in der Stadt Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.110391,
+                        55.661801
+                  ]
+            },
+            {
+                  "name": "Wikingerschiffsmuseum Roskilde",
+                  "text": "Viking Ship Museum ist ein bemerkenswertes Museum in Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.081461,
+                        55.650899
+                  ]
+            },
+            {
+                  "name": "Roskilde Museum",
+                  "text": "Roskilde Museum ist ein bemerkenswertes Museum in Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.083658,
+                        55.642439
+                  ]
+            },
+            {
+                  "name": "Sct. Hans Kirketomt",
+                  "text": "Sct. Hans Kirketomt ist eine archäologische Stätte in der Stadt Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.080339,
+                        55.644562
+                  ]
+            },
+            {
+                  "name": "Rockmuseet",
+                  "text": "Rockmuseet ist ein bemerkenswertes Museum in Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.082554,
+                        55.628117
+                  ]
+            },
+            {
+                  "name": "Loddenhøj",
+                  "text": "Loddenhøj ist eine archäologische Stätte in der Stadt Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.051888,
+                        55.645648
+                  ]
+            },
+            {
+                  "name": "Slagtermuseet i Roskilde",
+                  "text": "Slagtermuseet i Roskilde ist ein Museum in der Stadt Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.075987,
+                        55.639983
+                  ]
+            },
+            {
+                  "name": "Åben Dans",
+                  "text": "Åben Dans ist ein Theater in der Stadt Roskilde.",
+                  "category": "cultural",
+                  "coords": [
+                        12.084201,
+                        55.628762
+                  ]
+            },
+            {
+                  "name": "Museumsøen",
+                  "text": "Museumsøen ist ein Museum in der Stadt Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.079225,
+                        55.65064
+                  ]
+            },
+            {
+                  "name": "Roskilde Fjord Vildtreservat",
+                  "text": "Roskilde Fjord Vildtreservat ist ein Naturschutzgebiet in der Stadt Roskilde.",
+                  "category": "natural",
+                  "coords": [
+                        12.023841,
+                        55.765914
+                  ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "Folkeparken ist ein bemerkenswerter Park in Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.08784,
+                        55.64503
+                  ]
+            },
+            {
+                  "name": "Byparken",
+                  "text": "Byparken ist ein bemerkenswerter Park in Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.081246,
+                        55.646911
+                  ]
+            },
+            {
+                  "name": "Roskilde Gasværk",
+                  "text": "Roskilde Gasværk ist ein bemerkenswertes Kunstzentrum in Roskilde.",
+                  "category": "cultural",
+                  "coords": [
+                        12.078347,
+                        55.648384
+                  ]
+            },
+            {
+                  "name": "Roskilde Kloster",
+                  "text": "Roskilde Kloster ist ein bemerkenswertes Herrenhaus in Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.08655,
+                        55.64179
+                  ]
+            },
+            {
+                  "name": "Roskilde Ring",
+                  "text": "Roskilde Ring ist ein Park in der Stadt Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.082005,
+                        55.633316
+                  ]
+            },
+            {
+                  "name": "Adventure Camp Dream City",
+                  "text": "Adventure Camp Dream City ist eine Sehenswürdigkeit in der Stadt Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.078664,
+                        55.616508
+                  ]
+            },
+            {
+                  "name": "Bidstrupgaard",
+                  "text": "Bidstrupgaard ist ein Herrenhaus in der Stadt Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.06867,
+                        55.650515
+                  ]
+            },
+            {
+                  "name": "Himmelev Kirke",
+                  "text": "Die Himmelev Kirke ist eine Kultstätte in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.104508,
+                        55.661367
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgensbjerg Kirke",
+                  "text": "Die Sankt Jørgensbjerg Kirke ist eine bekannte Kirche in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.075608,
+                        55.649305
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Die Gamle Vor Frue Kirke ist eine bedeutende Kirche in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.082379,
+                        55.63851
+                  ]
+            },
+            {
+                  "name": "Sankt Hans Hospitalskirke",
+                  "text": "Die Sankt Hans Hospitalskirke ist eine Kultstätte in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.053437,
+                        55.65383
+                  ]
+            },
+            {
+                  "name": "Sankt Ibs Kirke",
+                  "text": "Die Sankt Ibs Kirke ist eine bekannte Kirche in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.08303,
+                        55.647673
+                  ]
+            },
+            {
+                  "name": "Dom zu Roskilde",
+                  "text": "Die Kathedrale von Roskilde ist eine bedeutende historische Stätte in Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.080429,
+                        55.642642
+                  ]
+            },
+            {
+                  "name": "Ayasofya Moské",
+                  "text": "Die Ayasofya Moské ist eine Kultstätte in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.082069,
+                        55.639746
+                  ]
+            },
+            {
+                  "name": "Skt. Laurentii Kirke",
+                  "text": "Die Skt. Laurentii Kirke ist eine bekannte Kirche in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.083152,
+                        55.644646
+                  ]
+            },
+            {
+                  "name": "Maglekilden",
+                  "text": "Maglekilden ist eine Quelle in Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.077075,
+                        55.642692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hyrdehøi",
+                  "text": "A Hyrdehøi egy régészeti lelőhely Roskilde városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.053008,
+                        55.632553
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "A Låenhøj egy régészeti lelőhely Roskilde városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.046284,
+                        55.629642
+                  ]
+            },
+            {
+                  "name": "Børnehøj",
+                  "text": "A Børnehøj egy régészeti lelőhely Roskilde városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.110391,
+                        55.661801
+                  ]
+            },
+            {
+                  "name": "Vikingeskibsmuseet",
+                  "text": "A Viking Ship Museum egy nevezetes múzeum Roskilde városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.081461,
+                        55.650899
+                  ]
+            },
+            {
+                  "name": "Roskilde Museum",
+                  "text": "A Roskilde Museum egy nevezetes múzeum Roskilde városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.083658,
+                        55.642439
+                  ]
+            },
+            {
+                  "name": "Sct. Hans Kirketomt",
+                  "text": "A Sct. Hans Kirketomt egy régészeti lelőhely Roskilde városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.080339,
+                        55.644562
+                  ]
+            },
+            {
+                  "name": "Rockmuseet",
+                  "text": "A Rockmuseet egy nevezetes múzeum Roskilde városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.082554,
+                        55.628117
+                  ]
+            },
+            {
+                  "name": "Loddenhøj",
+                  "text": "A Loddenhøj egy régészeti lelőhely Roskilde városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.051888,
+                        55.645648
+                  ]
+            },
+            {
+                  "name": "Slagtermuseet i Roskilde",
+                  "text": "A Slagtermuseet i Roskilde egy múzeum Roskilde városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.075987,
+                        55.639983
+                  ]
+            },
+            {
+                  "name": "Åben Dans",
+                  "text": "Az Åben Dans egy színház Roskilde városában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.084201,
+                        55.628762
+                  ]
+            },
+            {
+                  "name": "Museumsøen",
+                  "text": "A Museumsøen egy múzeum Roskilde városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.079225,
+                        55.65064
+                  ]
+            },
+            {
+                  "name": "Roskilde Fjord Vildtreservat",
+                  "text": "A Roskilde Fjord Vildtreservat egy természetvédelmi terület Roskilde városában.",
+                  "category": "natural",
+                  "coords": [
+                        12.023841,
+                        55.765914
+                  ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "A Folkeparken egy nevezetes park Roskilde városában.",
+                  "category": "park",
+                  "coords": [
+                        12.08784,
+                        55.64503
+                  ]
+            },
+            {
+                  "name": "Byparken",
+                  "text": "A Byparken egy nevezetes park Roskilde városában.",
+                  "category": "park",
+                  "coords": [
+                        12.081246,
+                        55.646911
+                  ]
+            },
+            {
+                  "name": "Roskilde Gasværk",
+                  "text": "A Roskilde Gasværk egy nevezetes művészeti központ Roskilde városában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.078347,
+                        55.648384
+                  ]
+            },
+            {
+                  "name": "Roskilde Kloster",
+                  "text": "A Roskilde Kloster egy nevezetes udvarház Roskilde városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.08655,
+                        55.64179
+                  ]
+            },
+            {
+                  "name": "Roskilde Ring",
+                  "text": "A Roskilde Ring egy park Roskilde városában.",
+                  "category": "park",
+                  "coords": [
+                        12.082005,
+                        55.633316
+                  ]
+            },
+            {
+                  "name": "Adventure Camp Dream City",
+                  "text": "Az Adventure Camp Dream City egy látványosság Roskilde városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.078664,
+                        55.616508
+                  ]
+            },
+            {
+                  "name": "Bidstrupgaard",
+                  "text": "A Bidstrupgaard egy udvarház Roskilde városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.06867,
+                        55.650515
+                  ]
+            },
+            {
+                  "name": "Himmelev Kirke",
+                  "text": "A Himmelev Kirke egy vallási épület Roskilde városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.104508,
+                        55.661367
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgensbjerg Kirke",
+                  "text": "A Sankt Jørgensbjerg Kirke egy nevezetes templom Roskilde városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.075608,
+                        55.649305
+                  ]
+            },
+            {
+                  "name": "Gamle Vor Frue Kirke",
+                  "text": "A Gamle Vor Frue Kirke egy jelentős templom Roskilde városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.082379,
+                        55.63851
+                  ]
+            },
+            {
+                  "name": "Sankt Hans Hospitalskirke",
+                  "text": "A Sankt Hans Hospitalskirke egy vallási épület Roskilde városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.053437,
+                        55.65383
+                  ]
+            },
+            {
+                  "name": "Sankt Ibs Kirke",
+                  "text": "A Sankt Ibs Kirke egy nevezetes templom Roskilde városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.08303,
+                        55.647673
+                  ]
+            },
+            {
+                  "name": "Roskildei székesegyház",
+                  "text": "A Roskilde katedrális egy jelentős történelmi helyszín Roskilde városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.080429,
+                        55.642642
+                  ]
+            },
+            {
+                  "name": "Ayasofya Moské",
+                  "text": "Az Ayasofya Moské egy vallási épület Roskilde városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.082069,
+                        55.639746
+                  ]
+            },
+            {
+                  "name": "Skt. Laurentii Kirke",
+                  "text": "A Skt. Laurentii Kirke egy nevezetes templom Roskilde városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.083152,
+                        55.644646
+                  ]
+            },
+            {
+                  "name": "Maglekilden",
+                  "text": "A Maglekilden egy forrás Roskilde városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.077075,
+                        55.642692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hyrdehøi",
+                  "text": "Hyrdehøi este un sit arheologic situat în orașul Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.053008,
+                        55.632553
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "Låenhøj este un sit arheologic situat în orașul Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.046284,
+                        55.629642
+                  ]
+            },
+            {
+                  "name": "Børnehøj",
+                  "text": "Børnehøj este un sit arheologic situat în orașul Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.110391,
+                        55.661801
+                  ]
+            },
+            {
+                  "name": "Vikingeskibsmuseet",
+                  "text": "Viking Ship Museum este un muzeu notabil situat în Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.081461,
+                        55.650899
+                  ]
+            },
+            {
+                  "name": "Roskilde Museum",
+                  "text": "Roskilde Museum este un muzeu notabil situat în Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.083658,
+                        55.642439
+                  ]
+            },
+            {
+                  "name": "Sct. Hans Kirketomt",
+                  "text": "Sct. Hans Kirketomt este un sit arheologic situat în orașul Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.080339,
+                        55.644562
+                  ]
+            },
+            {
+                  "name": "Rockmuseet",
+                  "text": "Rockmuseet este un muzeu notabil situat în Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.082554,
+                        55.628117
+                  ]
+            },
+            {
+                  "name": "Loddenhøj",
+                  "text": "Loddenhøj este un sit arheologic situat în orașul Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.051888,
+                        55.645648
+                  ]
+            },
+            {
+                  "name": "Slagtermuseet i Roskilde",
+                  "text": "Slagtermuseet i Roskilde este un muzeu situat în orașul Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.075987,
+                        55.639983
+                  ]
+            },
+            {
+                  "name": "Åben Dans",
+                  "text": "Åben Dans este un teatru situat în orașul Roskilde.",
+                  "category": "cultural",
+                  "coords": [
+                        12.084201,
+                        55.628762
+                  ]
+            },
+            {
+                  "name": "Museumsøen",
+                  "text": "Museumsøen este un muzeu situat în orașul Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.079225,
+                        55.65064
+                  ]
+            },
+            {
+                  "name": "Roskilde Fjord Vildtreservat",
+                  "text": "Roskilde Fjord Vildtreservat este o rezervație naturală situată în orașul Roskilde.",
+                  "category": "natural",
+                  "coords": [
+                        12.023841,
+                        55.765914
+                  ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "Folkeparken este un parc notabil situat în Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.08784,
+                        55.64503
+                  ]
+            },
+            {
+                  "name": "Byparken",
+                  "text": "Byparken este un parc notabil situat în Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.081246,
+                        55.646911
+                  ]
+            },
+            {
+                  "name": "Roskilde Gasværk",
+                  "text": "Roskilde Gasværk este un centru de arte notabil situat în Roskilde.",
+                  "category": "cultural",
+                  "coords": [
+                        12.078347,
+                        55.648384
+                  ]
+            },
+            {
+                  "name": "Roskilde Kloster",
+                  "text": "Roskilde Kloster este un conac notabil situat în Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.08655,
+                        55.64179
+                  ]
+            },
+            {
+                  "name": "Roskilde Ring",
+                  "text": "Roskilde Ring este un parc situat în orașul Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.082005,
+                        55.633316
+                  ]
+            },
+            {
+                  "name": "Adventure Camp Dream City",
+                  "text": "Adventure Camp Dream City este o atracție situată în orașul Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.078664,
+                        55.616508
+                  ]
+            },
+            {
+                  "name": "Bidstrupgaard",
+                  "text": "Bidstrupgaard este un conac situat în orașul Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.06867,
+                        55.650515
+                  ]
+            },
+            {
+                  "name": "Himmelev Kirke",
+                  "text": "Himmelev Kirke este un lăcaș de cult din Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.104508,
+                        55.661367
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgensbjerg Kirke",
+                  "text": "Sankt Jørgensbjerg Kirke este o biserică notabilă din Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.075608,
+                        55.649305
+                  ]
+            },
+            {
+                  "name": "Gamle Vor Frue Kirke",
+                  "text": "Gamle Vor Frue Kirke este o biserică importantă din Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.082379,
+                        55.63851
+                  ]
+            },
+            {
+                  "name": "Sankt Hans Hospitalskirke",
+                  "text": "Sankt Hans Hospitalskirke este un lăcaș de cult din Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.053437,
+                        55.65383
+                  ]
+            },
+            {
+                  "name": "Sankt Ibs Kirke",
+                  "text": "Sankt Ibs Kirke este o biserică notabilă din Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.08303,
+                        55.647673
+                  ]
+            },
+            {
+                  "name": "Roskilde Domkirke",
+                  "text": "Catedrala din Roskilde este un sit de patrimoniu important din Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.080429,
+                        55.642642
+                  ]
+            },
+            {
+                  "name": "Ayasofya Moské",
+                  "text": "Ayasofya Moské este un lăcaș de cult din Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.082069,
+                        55.639746
+                  ]
+            },
+            {
+                  "name": "Skt. Laurentii Kirke",
+                  "text": "Skt. Laurentii Kirke este o biserică notabilă din Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.083152,
+                        55.644646
+                  ]
+            },
+            {
+                  "name": "Maglekilden",
+                  "text": "Maglekilden este un izvor din Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.077075,
+                        55.642692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hyrdehøi",
+                  "text": "Hyrdehøi is an archaeological site located in the city of Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.053008,
+                        55.632553
+                  ]
+            },
+            {
+                  "name": "Låenhøj",
+                  "text": "Låenhøj is an archaeological site located in the city of Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.046284,
+                        55.629642
+                  ]
+            },
+            {
+                  "name": "Børnehøj",
+                  "text": "Børnehøj is an archaeological site located in the city of Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.110391,
+                        55.661801
+                  ]
+            },
+            {
+                  "name": "Viking Ship Museum",
+                  "text": "Viking Ship Museum is a notable museum located in Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.081461,
+                        55.650899
+                  ]
+            },
+            {
+                  "name": "Roskilde Museum",
+                  "text": "Roskilde Museum is a notable museum located in Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.083658,
+                        55.642439
+                  ]
+            },
+            {
+                  "name": "Sct. Hans Kirketomt",
+                  "text": "Sct. Hans Kirketomt is an archaeological site located in the city of Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.080339,
+                        55.644562
+                  ]
+            },
+            {
+                  "name": "Rockmuseet",
+                  "text": "Rockmuseet is a notable museum located in Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.082554,
+                        55.628117
+                  ]
+            },
+            {
+                  "name": "Loddenhøj",
+                  "text": "Loddenhøj is an archaeological site located in the city of Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.051888,
+                        55.645648
+                  ]
+            },
+            {
+                  "name": "Slagtermuseet i Roskilde",
+                  "text": "Slagtermuseet i Roskilde is a museum located in the city of Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.075987,
+                        55.639983
+                  ]
+            },
+            {
+                  "name": "Åben Dans",
+                  "text": "Åben Dans is a theatre located in the city of Roskilde.",
+                  "category": "cultural",
+                  "coords": [
+                        12.084201,
+                        55.628762
+                  ]
+            },
+            {
+                  "name": "Museumsøen",
+                  "text": "Museumsøen is a museum located in the city of Roskilde.",
+                  "category": "museum",
+                  "coords": [
+                        12.079225,
+                        55.65064
+                  ]
+            },
+            {
+                  "name": "Roskilde Fjord Vildtreservat",
+                  "text": "Roskilde Fjord Vildtreservat is a nature reserve located in the city of Roskilde.",
+                  "category": "natural",
+                  "coords": [
+                        12.023841,
+                        55.765914
+                  ]
+            },
+            {
+                  "name": "Folkeparken",
+                  "text": "Folkeparken is a notable park located in Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.08784,
+                        55.64503
+                  ]
+            },
+            {
+                  "name": "Byparken",
+                  "text": "Byparken is a notable park located in Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.081246,
+                        55.646911
+                  ]
+            },
+            {
+                  "name": "Roskilde Gasværk",
+                  "text": "Roskilde Gasværk is a notable arts centre located in Roskilde.",
+                  "category": "cultural",
+                  "coords": [
+                        12.078347,
+                        55.648384
+                  ]
+            },
+            {
+                  "name": "Roskilde Kloster",
+                  "text": "Roskilde Kloster is a notable manor located in Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.08655,
+                        55.64179
+                  ]
+            },
+            {
+                  "name": "Roskilde Ring",
+                  "text": "Roskilde Ring is a park located in the city of Roskilde.",
+                  "category": "park",
+                  "coords": [
+                        12.082005,
+                        55.633316
+                  ]
+            },
+            {
+                  "name": "Adventure Camp Dream City",
+                  "text": "Adventure Camp Dream City is an attraction located in the city of Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.078664,
+                        55.616508
+                  ]
+            },
+            {
+                  "name": "Bidstrupgaard",
+                  "text": "Bidstrupgaard is a manor located in the city of Roskilde.",
+                  "category": "historical",
+                  "coords": [
+                        12.06867,
+                        55.650515
+                  ]
+            },
+            {
+                  "name": "Himmelev Kirke",
+                  "text": "Himmelev Kirke is a place of worship in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.104508,
+                        55.661367
+                  ]
+            },
+            {
+                  "name": "Sankt Jørgensbjerg Kirke",
+                  "text": "Sankt Jørgensbjerg Kirke is a notable church in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.075608,
+                        55.649305
+                  ]
+            },
+            {
+                  "name": "Gamle Vor Frue Kirke",
+                  "text": "Gamle Vor Frue Kirke is a significant church in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.082379,
+                        55.63851
+                  ]
+            },
+            {
+                  "name": "Sankt Hans Hospitalskirke",
+                  "text": "Sankt Hans Hospitalskirke is a place of worship in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.053437,
+                        55.65383
+                  ]
+            },
+            {
+                  "name": "Sankt Ibs Kirke",
+                  "text": "Sankt Ibs Kirke is a notable church in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.08303,
+                        55.647673
+                  ]
+            },
+            {
+                  "name": "Roskilde Cathedral",
+                  "text": "Roskilde Cathedral is a significant heritage site in Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.080429,
+                        55.642642
+                  ]
+            },
+            {
+                  "name": "Ayasofya Moské",
+                  "text": "Ayasofya Moské is a place of worship in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.082069,
+                        55.639746
+                  ]
+            },
+            {
+                  "name": "Skt. Laurentii Kirke",
+                  "text": "Skt. Laurentii Kirke is a notable church in Roskilde.",
+                  "category": "religious",
+                  "coords": [
+                        12.083152,
+                        55.644646
+                  ]
+            },
+            {
+                  "name": "Maglekilden",
+                  "text": "Maglekilden is a spring in Roskilde.",
+                  "category": "landmark",
+                  "coords": [
+                        12.077075,
+                        55.642692
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [12.0803, 55.6415],
@@ -622,7 +7750,736 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/esbjerg.webp",
  },
  {
- id: "city-viborg",
+ id: "city-viborg", "sights": {
+      "de": [
+            {
+                  "name": "Odshøj",
+                  "text": "Odshøj ist ein archäologisch bedeutsamer Grabhügel in der Nähe von Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.454973,
+                        56.457937
+                  ]
+            },
+            {
+                  "name": "Finderuphøj",
+                  "text": "Finderuphøj ist eine archäologische Stätte bei Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.381665,
+                        56.442739
+                  ]
+            },
+            {
+                  "name": "Transhøj",
+                  "text": "Transhøj ist eine archäologische Stätte in der Umgebung von Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.38344,
+                        56.435656
+                  ]
+            },
+            {
+                  "name": "Vingaards Officin",
+                  "text": "Das Vingaards Officin ist ein Druckereimuseum in Viborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.37644,
+                        56.464577
+                  ]
+            },
+            {
+                  "name": "Viborg Kunsthal",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in der historischen Brænderigården-Anlage.",
+                  "category": "museum",
+                  "coords": [
+                        9.415754,
+                        56.449811
+                  ]
+            },
+            {
+                  "name": "Skovgaard Museet",
+                  "text": "Ein Kunstmuseum, das dem Werk des Malers Niels Skovgaard und seiner Familie gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.411622,
+                        56.450404
+                  ]
+            },
+            {
+                  "name": "Viborg Teater",
+                  "text": "Ein klassisches regionales Theater, das verschiedene kulturelle Aufführungen in Viborg bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        9.406196,
+                        56.451085
+                  ]
+            },
+            {
+                  "name": "Krathøje",
+                  "text": "Eine archäologische Stätte mit historischen Grabhügeln in der Nähe von Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.444082,
+                        56.431976
+                  ]
+            },
+            {
+                  "name": "Pilehaven",
+                  "text": "Eine ruhige Grünanlage in Viborg, die zum Entspannen und für Spaziergänge einlädt.",
+                  "category": "park",
+                  "coords": [
+                        9.417148,
+                        56.453474
+                  ]
+            },
+            {
+                  "name": "Digterparken",
+                  "text": "Ein öffentlicher Park in Viborg, benannt nach dänischen Dichtern.",
+                  "category": "park",
+                  "coords": [
+                        9.411848,
+                        56.461915
+                  ]
+            },
+            {
+                  "name": "Borgvold",
+                  "text": "Ein historisches Parkgelände mit Überresten mittelalterlicher Befestigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        9.418444,
+                        56.450786
+                  ]
+            },
+            {
+                  "name": "Asmildkloster",
+                  "text": "Ein ehemaliges Kloster und heutiges Herrenhaus mit langer Geschichte in Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.429357,
+                        56.44959
+                  ]
+            },
+            {
+                  "name": "Asmild Kirke",
+                  "text": "Eine historische Kirche in Viborg, die für ihre romanische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.424825,
+                        56.446803
+                  ]
+            },
+            {
+                  "name": "Dom zu Viborg",
+                  "text": "Die imposante Kathedrale von Viborg ist berühmt für die Fresken von Joakim Skovgaard.",
+                  "category": "religious",
+                  "coords": [
+                        9.412529,
+                        56.450521
+                  ]
+            },
+            {
+                  "name": "Houlkær Kirke",
+                  "text": "Eine moderne Kirche im Stadtteil Houlkær, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        9.450145,
+                        56.462629
+                  ]
+            },
+            {
+                  "name": "Viborg Rådhus",
+                  "text": "Das Rathaus von Viborg, ein funktionales Verwaltungsgebäude der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        9.39821,
+                        56.458546
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Kloster",
+                  "text": "Ein historisches Klostergelände im Zentrum von Viborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.412481,
+                        56.451832
+                  ]
+            },
+            {
+                  "name": "Sortebrødre Kirke",
+                  "text": "Eine bedeutende mittelalterliche Kirche in Viborg, ehemals Teil eines Dominikanerklosters.",
+                  "category": "religious",
+                  "coords": [
+                        9.410961,
+                        56.449295
+                  ]
+            },
+            {
+                  "name": "Søndermarkskirken",
+                  "text": "Eine zeitgenössische Kirche in Viborg mit markanter moderner Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        9.390552,
+                        56.431819
+                  ]
+            },
+            {
+                  "name": "Sankt Kjelds Kirke",
+                  "text": "Eine römisch-katholische Kirche in Viborg, benannt nach dem Stadtpatron.",
+                  "category": "religious",
+                  "coords": [
+                        9.412669,
+                        56.449016
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Odshøj",
+                  "text": "Odshøj egy régészetileg jelentős sírhalom Viborg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.454973,
+                        56.457937
+                  ]
+            },
+            {
+                  "name": "Finderuphøj",
+                  "text": "Finderuphøj egy régészeti lelőhely Viborgnál.",
+                  "category": "historical",
+                  "coords": [
+                        9.381665,
+                        56.442739
+                  ]
+            },
+            {
+                  "name": "Transhøj",
+                  "text": "Transhøj egy régészeti lelőhely Viborg környékén.",
+                  "category": "historical",
+                  "coords": [
+                        9.38344,
+                        56.435656
+                  ]
+            },
+            {
+                  "name": "Vingaards Officin",
+                  "text": "A Vingaards Officin egy nyomdamúzeum Viborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.37644,
+                        56.464577
+                  ]
+            },
+            {
+                  "name": "Viborg Kunsthal",
+                  "text": "Kortárs művészeti központ a történelmi Brænderigården épületegyüttesében.",
+                  "category": "museum",
+                  "coords": [
+                        9.415754,
+                        56.449811
+                  ]
+            },
+            {
+                  "name": "Skovgaard Museet",
+                  "text": "Niels Skovgaard festőművész és családja munkásságának szentelt művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        9.411622,
+                        56.450404
+                  ]
+            },
+            {
+                  "name": "Viborg Teater",
+                  "text": "Klasszikus regionális színház, amely különféle kulturális előadásoknak ad otthont Viborgban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.406196,
+                        56.451085
+                  ]
+            },
+            {
+                  "name": "Krathøje",
+                  "text": "Régészeti lelőhely történelmi sírhalmokkal Viborg közelében.",
+                  "category": "historical",
+                  "coords": [
+                        9.444082,
+                        56.431976
+                  ]
+            },
+            {
+                  "name": "Pilehaven",
+                  "text": "Csendes zöldövezet Viborgban, amely ideális kikapcsolódásra és sétákra.",
+                  "category": "park",
+                  "coords": [
+                        9.417148,
+                        56.453474
+                  ]
+            },
+            {
+                  "name": "Digterparken",
+                  "text": "Viborgi közpark, amelyet dán költőkről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        9.411848,
+                        56.461915
+                  ]
+            },
+            {
+                  "name": "Borgvold",
+                  "text": "Történelmi parkterület középkori erődítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        9.418444,
+                        56.450786
+                  ]
+            },
+            {
+                  "name": "Asmildkloster",
+                  "text": "Egykori kolostor és mai udvarház, amely hosszú múltra tekint vissza Viborgban.",
+                  "category": "historical",
+                  "coords": [
+                        9.429357,
+                        56.44959
+                  ]
+            },
+            {
+                  "name": "Asmild Kirke",
+                  "text": "Történelmi templom Viborgban, amely román stílusú építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        9.424825,
+                        56.446803
+                  ]
+            },
+            {
+                  "name": "Viborg Domkirke",
+                  "text": "Viborg impozáns székesegyháza, amely Joakim Skovgaard freskóiról híres.",
+                  "category": "religious",
+                  "coords": [
+                        9.412529,
+                        56.450521
+                  ]
+            },
+            {
+                  "name": "Houlkær Kirke",
+                  "text": "Modern templom Houlkær negyedében, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        9.450145,
+                        56.462629
+                  ]
+            },
+            {
+                  "name": "Viborg Rådhus",
+                  "text": "Viborg városháza, a város funkcionális közigazgatási épülete.",
+                  "category": "historical",
+                  "coords": [
+                        9.39821,
+                        56.458546
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Kloster",
+                  "text": "Történelmi kolostoregyüttes Viborg központjában.",
+                  "category": "religious",
+                  "coords": [
+                        9.412481,
+                        56.451832
+                  ]
+            },
+            {
+                  "name": "Sortebrødre Kirke",
+                  "text": "Jelentős középkori templom Viborgban, amely egykor egy dominikánus kolostor része volt.",
+                  "category": "religious",
+                  "coords": [
+                        9.410961,
+                        56.449295
+                  ]
+            },
+            {
+                  "name": "Søndermarkskirken",
+                  "text": "Kortárs templom Viborgban, jellegzetes modern építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        9.390552,
+                        56.431819
+                  ]
+            },
+            {
+                  "name": "Sankt Kjelds Kirke",
+                  "text": "Római katolikus templom Viborgban, amelyet a város védőszentjéről neveztek el.",
+                  "category": "religious",
+                  "coords": [
+                        9.412669,
+                        56.449016
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Odshøj",
+                  "text": "Odshøj este un tumul arheologic important situat lângă Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.454973,
+                        56.457937
+                  ]
+            },
+            {
+                  "name": "Finderuphøj",
+                  "text": "Finderuphøj este un sit arheologic lângă Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.381665,
+                        56.442739
+                  ]
+            },
+            {
+                  "name": "Transhøj",
+                  "text": "Transhøj este un sit arheologic în zona Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.38344,
+                        56.435656
+                  ]
+            },
+            {
+                  "name": "Vingaards Officin",
+                  "text": "Vingaards Officin este un muzeu al tiparului din Viborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.37644,
+                        56.464577
+                  ]
+            },
+            {
+                  "name": "Viborg Kunsthal",
+                  "text": "Un centru de artă contemporană situat în complexul istoric Brænderigården.",
+                  "category": "museum",
+                  "coords": [
+                        9.415754,
+                        56.449811
+                  ]
+            },
+            {
+                  "name": "Skovgaard Museet",
+                  "text": "Un muzeu de artă dedicat operei pictorului Niels Skovgaard și familiei sale.",
+                  "category": "museum",
+                  "coords": [
+                        9.411622,
+                        56.450404
+                  ]
+            },
+            {
+                  "name": "Viborg Teater",
+                  "text": "Un teatru regional clasic care găzduiește diverse spectacole culturale în Viborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.406196,
+                        56.451085
+                  ]
+            },
+            {
+                  "name": "Krathøje",
+                  "text": "Un sit arheologic care cuprinde tumuli istorici lângă Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.444082,
+                        56.431976
+                  ]
+            },
+            {
+                  "name": "Pilehaven",
+                  "text": "O zonă verde liniștită din Viborg, ideală pentru relaxare și plimbări.",
+                  "category": "park",
+                  "coords": [
+                        9.417148,
+                        56.453474
+                  ]
+            },
+            {
+                  "name": "Digterparken",
+                  "text": "Un parc public din Viborg, numit după poeți danezi.",
+                  "category": "park",
+                  "coords": [
+                        9.411848,
+                        56.461915
+                  ]
+            },
+            {
+                  "name": "Borgvold",
+                  "text": "O zonă de parc istoric cu vestigii ale fortificațiilor medievale.",
+                  "category": "historical",
+                  "coords": [
+                        9.418444,
+                        56.450786
+                  ]
+            },
+            {
+                  "name": "Asmildkloster",
+                  "text": "O fostă mănăstire și actual conac cu o istorie îndelungată în Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.429357,
+                        56.44959
+                  ]
+            },
+            {
+                  "name": "Asmild Kirke",
+                  "text": "O biserică istorică din Viborg, cunoscută pentru arhitectura sa romanică.",
+                  "category": "religious",
+                  "coords": [
+                        9.424825,
+                        56.446803
+                  ]
+            },
+            {
+                  "name": "Viborg Domkirke",
+                  "text": "Impunătoarea catedrală din Viborg este celebră pentru frescele lui Joakim Skovgaard.",
+                  "category": "religious",
+                  "coords": [
+                        9.412529,
+                        56.450521
+                  ]
+            },
+            {
+                  "name": "Houlkær Kirke",
+                  "text": "O biserică modernă în districtul Houlkær, care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        9.450145,
+                        56.462629
+                  ]
+            },
+            {
+                  "name": "Viborg Rådhus",
+                  "text": "Primăria din Viborg, o clădire administrativă funcțională a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        9.39821,
+                        56.458546
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Kloster",
+                  "text": "Un sit monastic istoric situat în centrul orașului Viborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.412481,
+                        56.451832
+                  ]
+            },
+            {
+                  "name": "Sortebrødre Kirke",
+                  "text": "O biserică medievală importantă din Viborg, fostă parte a unei mănăstiri dominicane.",
+                  "category": "religious",
+                  "coords": [
+                        9.410961,
+                        56.449295
+                  ]
+            },
+            {
+                  "name": "Søndermarkskirken",
+                  "text": "O biserică contemporană din Viborg, cu o arhitectură modernă distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        9.390552,
+                        56.431819
+                  ]
+            },
+            {
+                  "name": "Sankt Kjelds Kirke",
+                  "text": "O biserică romano-catolică din Viborg, numită după patronul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        9.412669,
+                        56.449016
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Odshøj",
+                  "text": "Odshøj is an archaeologically significant burial mound near Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.454973,
+                        56.457937
+                  ]
+            },
+            {
+                  "name": "Finderuphøj",
+                  "text": "Finderuphøj is an archaeological site near Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.381665,
+                        56.442739
+                  ]
+            },
+            {
+                  "name": "Transhøj",
+                  "text": "Transhøj is an archaeological site in the Viborg area.",
+                  "category": "historical",
+                  "coords": [
+                        9.38344,
+                        56.435656
+                  ]
+            },
+            {
+                  "name": "Vingaards Officin",
+                  "text": "Vingaards Officin is a printing museum in Viborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.37644,
+                        56.464577
+                  ]
+            },
+            {
+                  "name": "Viborg Kunsthal",
+                  "text": "A contemporary art center located in the historic Brænderigården complex.",
+                  "category": "museum",
+                  "coords": [
+                        9.415754,
+                        56.449811
+                  ]
+            },
+            {
+                  "name": "Skovgaard Museet",
+                  "text": "An art museum dedicated to the work of painter Niels Skovgaard and his family.",
+                  "category": "museum",
+                  "coords": [
+                        9.411622,
+                        56.450404
+                  ]
+            },
+            {
+                  "name": "Viborg Teater",
+                  "text": "A classic regional theatre hosting various cultural performances in Viborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.406196,
+                        56.451085
+                  ]
+            },
+            {
+                  "name": "Krathøje",
+                  "text": "An archaeological site featuring historic burial mounds near Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.444082,
+                        56.431976
+                  ]
+            },
+            {
+                  "name": "Pilehaven",
+                  "text": "A peaceful green space in Viborg, ideal for relaxation and walks.",
+                  "category": "park",
+                  "coords": [
+                        9.417148,
+                        56.453474
+                  ]
+            },
+            {
+                  "name": "Digterparken",
+                  "text": "A public park in Viborg named after Danish poets.",
+                  "category": "park",
+                  "coords": [
+                        9.411848,
+                        56.461915
+                  ]
+            },
+            {
+                  "name": "Borgvold",
+                  "text": "A historic park area featuring remains of medieval fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        9.418444,
+                        56.450786
+                  ]
+            },
+            {
+                  "name": "Asmildkloster",
+                  "text": "A former monastery and current manor house with a long history in Viborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.429357,
+                        56.44959
+                  ]
+            },
+            {
+                  "name": "Asmild Kirke",
+                  "text": "A historic church in Viborg known for its Romanesque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        9.424825,
+                        56.446803
+                  ]
+            },
+            {
+                  "name": "Viborg Cathedral",
+                  "text": "Viborg's imposing cathedral is famous for the frescoes by Joakim Skovgaard.",
+                  "category": "religious",
+                  "coords": [
+                        9.412529,
+                        56.450521
+                  ]
+            },
+            {
+                  "name": "Houlkær Kirke",
+                  "text": "A modern church in the Houlkær district serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        9.450145,
+                        56.462629
+                  ]
+            },
+            {
+                  "name": "Viborg Rådhus",
+                  "text": "Viborg Town Hall, a functional administrative building of the city.",
+                  "category": "historical",
+                  "coords": [
+                        9.39821,
+                        56.458546
+                  ]
+            },
+            {
+                  "name": "Gråbrødre Kloster",
+                  "text": "A historic monastery site located in the center of Viborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.412481,
+                        56.451832
+                  ]
+            },
+            {
+                  "name": "Sortebrødre Kirke",
+                  "text": "A significant medieval church in Viborg, formerly part of a Dominican monastery.",
+                  "category": "religious",
+                  "coords": [
+                        9.410961,
+                        56.449295
+                  ]
+            },
+            {
+                  "name": "Søndermarkskirken",
+                  "text": "A contemporary church in Viborg with distinctive modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        9.390552,
+                        56.431819
+                  ]
+            },
+            {
+                  "name": "Sankt Kjelds Kirke",
+                  "text": "A Roman Catholic church in Viborg named after the city's patron saint.",
+                  "category": "religious",
+                  "coords": [
+                        9.412669,
+                        56.449016
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [9.4169, 56.4520],
@@ -665,7 +8522,952 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/viborg.webp",
  },
  {
- id: "city-randers",
+ id: "city-randers", "sights": {
+      "de": [
+            {
+                  "name": "Randers Regnskov",
+                  "text": "Randers Regnskov ist ein bekannter Zoo in Randers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.032257,
+                        56.456848
+                  ]
+            },
+            {
+                  "name": "Randers Teater",
+                  "text": "Das Randers Teater ist ein bekanntes Theater in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033022,
+                        56.46548
+                  ]
+            },
+            {
+                  "name": "Grand Teatret",
+                  "text": "Das Grand Teatret ist ein Theater in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.036462,
+                        56.458855
+                  ]
+            },
+            {
+                  "name": "Gaia Museum Outsider Art",
+                  "text": "Das Gaia Museum Outsider Art ist ein Museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.045919,
+                        56.46181
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "Friluftsscenen ist ein Theater in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.044518,
+                        56.466175
+                  ]
+            },
+            {
+                  "name": "Håndværkermuseet i Randers",
+                  "text": "Das Håndværkermuseet i Randers ist ein Museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.036642,
+                        56.457557
+                  ]
+            },
+            {
+                  "name": "Museum Østjylland",
+                  "text": "Das Museum Østjylland ist ein Museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.040763,
+                        56.460422
+                  ]
+            },
+            {
+                  "name": "Kulissen Randers",
+                  "text": "Kulissen Randers ist ein Theater in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.03868,
+                        56.457711
+                  ]
+            },
+            {
+                  "name": "Frilandsgården",
+                  "text": "Der Frilandsgården ist ein Museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.029449,
+                        56.458193
+                  ]
+            },
+            {
+                  "name": "Water & Wellness Randers",
+                  "text": "Water & Wellness Randers ist ein Wasserpark in Randers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.009619,
+                        56.464691
+                  ]
+            },
+            {
+                  "name": "Djursland For Fuld Damp",
+                  "text": "Djursland For Fuld Damp ist eine Touristenattraktion in Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.073782,
+                        56.454267
+                  ]
+            },
+            {
+                  "name": "Keramikcafeen",
+                  "text": "Das Keramikcafeen ist eine Galerie in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.036836,
+                        56.460377
+                  ]
+            },
+            {
+                  "name": "Bjellerup",
+                  "text": "Bjellerup ist ein Herrenhaus in Randers.",
+                  "category": "historical",
+                  "coords": [
+                        10.05892,
+                        56.475059
+                  ]
+            },
+            {
+                  "name": "Kristrup Mølle",
+                  "text": "Kristrup Mølle ist eine Windmühle in Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.068877,
+                        56.445646
+                  ]
+            },
+            {
+                  "name": "Sankt Clemens Kirke",
+                  "text": "Die Sankt Clemens Kirke ist eine bekannte Kirche in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.016278,
+                        56.466783
+                  ]
+            },
+            {
+                  "name": "Sankt Mortens Kirke",
+                  "text": "Die Sankt Mortens Kirke ist eine bedeutende Kirche in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.034969,
+                        56.459898
+                  ]
+            },
+            {
+                  "name": "Jesu Hjerte Kirke",
+                  "text": "Die Jesu Hjerte Kirke ist eine Kultstätte in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.039659,
+                        56.463246
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "Die Sankt Peders Kirke ist eine bekannte Kirche in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.031126,
+                        56.465306
+                  ]
+            },
+            {
+                  "name": "Dronningborg Kirke",
+                  "text": "Die Dronningborg Kirke ist eine Kultstätte in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.06252,
+                        56.472239
+                  ]
+            },
+            {
+                  "name": "Hornbæk Kirke",
+                  "text": "Die Hornbæk Kirke ist eine Kultstätte in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        9.991113,
+                        56.463474
+                  ]
+            },
+            {
+                  "name": "Randers Adventkirke",
+                  "text": "Die Randers Adventkirke ist eine bekannte Kirche in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.009864,
+                        56.471076
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "Die Johanneskirken ist eine Kultstätte in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.041089,
+                        56.443661
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas Kirke",
+                  "text": "Die Sankt Andreas Kirke ist eine Kultstätte in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.04082,
+                        56.476802
+                  ]
+            },
+            {
+                  "name": "Kristrup Kirke",
+                  "text": "Die Kristrup Kirke ist eine bedeutende Kirche in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.06331,
+                        56.446015
+                  ]
+            },
+            {
+                  "name": "Randers Klosterkirke",
+                  "text": "Die Randers Klosterkirke ist eine Kultstätte in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.032645,
+                        56.459941
+                  ]
+            },
+            {
+                  "name": "Randersbro",
+                  "text": "Die Randersbro ist eine bekannte Brücke in Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.039687,
+                        56.456539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Randers Regnskov",
+                  "text": "A Randers Regnskov egy híres állatkert Randers városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.032257,
+                        56.456848
+                  ]
+            },
+            {
+                  "name": "Randers Teater",
+                  "text": "A Randers Teater egy híres színház Randers városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033022,
+                        56.46548
+                  ]
+            },
+            {
+                  "name": "Grand Teatret",
+                  "text": "A Grand Teatret egy színház Randers városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.036462,
+                        56.458855
+                  ]
+            },
+            {
+                  "name": "Gaia Museum Outsider Art",
+                  "text": "A Gaia Museum Outsider Art egy múzeum Randers városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.045919,
+                        56.46181
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "A Friluftsscenen egy színház Randers városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.044518,
+                        56.466175
+                  ]
+            },
+            {
+                  "name": "Håndværkermuseet i Randers",
+                  "text": "A Håndværkermuseet i Randers egy múzeum Randers városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.036642,
+                        56.457557
+                  ]
+            },
+            {
+                  "name": "Museum Østjylland",
+                  "text": "A Museum Østjylland egy múzeum Randers városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.040763,
+                        56.460422
+                  ]
+            },
+            {
+                  "name": "Kulissen Randers",
+                  "text": "A Kulissen Randers egy színház Randers városában.",
+                  "category": "cultural",
+                  "coords": [
+                        10.03868,
+                        56.457711
+                  ]
+            },
+            {
+                  "name": "Frilandsgården",
+                  "text": "A Frilandsgården egy múzeum Randers városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.029449,
+                        56.458193
+                  ]
+            },
+            {
+                  "name": "Water & Wellness Randers",
+                  "text": "A Water & Wellness Randers egy vízi park Randers városában.",
+                  "category": "recreational",
+                  "coords": [
+                        10.009619,
+                        56.464691
+                  ]
+            },
+            {
+                  "name": "Djursland For Fuld Damp",
+                  "text": "A Djursland For Fuld Damp egy turisztikai látványosság Randers városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.073782,
+                        56.454267
+                  ]
+            },
+            {
+                  "name": "Keramikcafeen",
+                  "text": "A Keramikcafeen egy galéria Randers városában.",
+                  "category": "museum",
+                  "coords": [
+                        10.036836,
+                        56.460377
+                  ]
+            },
+            {
+                  "name": "Bjellerup",
+                  "text": "Bjellerup egy udvarház Randers városában.",
+                  "category": "historical",
+                  "coords": [
+                        10.05892,
+                        56.475059
+                  ]
+            },
+            {
+                  "name": "Kristrup Mølle",
+                  "text": "A Kristrup Mølle egy szélmalom Randers városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.068877,
+                        56.445646
+                  ]
+            },
+            {
+                  "name": "Sankt Clemens Kirke",
+                  "text": "A Sankt Clemens Kirke egy nevezetes templom Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.016278,
+                        56.466783
+                  ]
+            },
+            {
+                  "name": "Sankt Mortens Kirke",
+                  "text": "A Sankt Mortens Kirke egy jelentős templom Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.034969,
+                        56.459898
+                  ]
+            },
+            {
+                  "name": "Jesu Hjerte Kirke",
+                  "text": "A Jesu Hjerte Kirke egy vallási épület Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.039659,
+                        56.463246
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "A Sankt Peders Kirke egy nevezetes templom Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.031126,
+                        56.465306
+                  ]
+            },
+            {
+                  "name": "Dronningborg Kirke",
+                  "text": "A Dronningborg Kirke egy vallási épület Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.06252,
+                        56.472239
+                  ]
+            },
+            {
+                  "name": "Hornbæk Kirke",
+                  "text": "A Hornbæk Kirke egy vallási épület Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.991113,
+                        56.463474
+                  ]
+            },
+            {
+                  "name": "Randers Adventkirke",
+                  "text": "A Randers Adventkirke egy nevezetes templom Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.009864,
+                        56.471076
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "A Johanneskirken egy vallási épület Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.041089,
+                        56.443661
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas Kirke",
+                  "text": "A Sankt Andreas Kirke egy vallási épület Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.04082,
+                        56.476802
+                  ]
+            },
+            {
+                  "name": "Kristrup Kirke",
+                  "text": "A Kristrup Kirke egy jelentős templom Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.06331,
+                        56.446015
+                  ]
+            },
+            {
+                  "name": "Randers Klosterkirke",
+                  "text": "A Randers Klosterkirke egy vallási épület Randers városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.032645,
+                        56.459941
+                  ]
+            },
+            {
+                  "name": "Randersbro",
+                  "text": "A Randersbro egy nevezetes híd Randers városában.",
+                  "category": "landmark",
+                  "coords": [
+                        10.039687,
+                        56.456539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Randers Regnskov",
+                  "text": "Randers Regnskov este o grădină zoologică notabilă din Randers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.032257,
+                        56.456848
+                  ]
+            },
+            {
+                  "name": "Randers Teater",
+                  "text": "Randers Teater este un teatru notabil din Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033022,
+                        56.46548
+                  ]
+            },
+            {
+                  "name": "Grand Teatret",
+                  "text": "Grand Teatret este un teatru din Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.036462,
+                        56.458855
+                  ]
+            },
+            {
+                  "name": "Gaia Museum Outsider Art",
+                  "text": "Gaia Museum Outsider Art este un muzeu din Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.045919,
+                        56.46181
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "Friluftsscenen este un teatru din Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.044518,
+                        56.466175
+                  ]
+            },
+            {
+                  "name": "Håndværkermuseet i Randers",
+                  "text": "Håndværkermuseet i Randers este un muzeu din Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.036642,
+                        56.457557
+                  ]
+            },
+            {
+                  "name": "Museum Østjylland",
+                  "text": "Museum Østjylland este un muzeu din Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.040763,
+                        56.460422
+                  ]
+            },
+            {
+                  "name": "Kulissen Randers",
+                  "text": "Kulissen Randers este un teatru din Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.03868,
+                        56.457711
+                  ]
+            },
+            {
+                  "name": "Frilandsgården",
+                  "text": "Frilandsgården este un muzeu din Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.029449,
+                        56.458193
+                  ]
+            },
+            {
+                  "name": "Water & Wellness Randers",
+                  "text": "Water & Wellness Randers este un parc acvatic din Randers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.009619,
+                        56.464691
+                  ]
+            },
+            {
+                  "name": "Djursland For Fuld Damp",
+                  "text": "Djursland For Fuld Damp este o atracție turistică din Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.073782,
+                        56.454267
+                  ]
+            },
+            {
+                  "name": "Keramikcafeen",
+                  "text": "Keramikcafeen este o galerie din Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.036836,
+                        56.460377
+                  ]
+            },
+            {
+                  "name": "Bjellerup",
+                  "text": "Bjellerup este un conac din Randers.",
+                  "category": "historical",
+                  "coords": [
+                        10.05892,
+                        56.475059
+                  ]
+            },
+            {
+                  "name": "Kristrup Mølle",
+                  "text": "Kristrup Mølle este o moară de vânt din Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.068877,
+                        56.445646
+                  ]
+            },
+            {
+                  "name": "Sankt Clemens Kirke",
+                  "text": "Sankt Clemens Kirke este o biserică notabilă din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.016278,
+                        56.466783
+                  ]
+            },
+            {
+                  "name": "Sankt Mortens Kirke",
+                  "text": "Sankt Mortens Kirke este o biserică importantă din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.034969,
+                        56.459898
+                  ]
+            },
+            {
+                  "name": "Jesu Hjerte Kirke",
+                  "text": "Jesu Hjerte Kirke este un lăcaș de cult din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.039659,
+                        56.463246
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "Sankt Peders Kirke este o biserică notabilă din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.031126,
+                        56.465306
+                  ]
+            },
+            {
+                  "name": "Dronningborg Kirke",
+                  "text": "Dronningborg Kirke este un lăcaș de cult din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.06252,
+                        56.472239
+                  ]
+            },
+            {
+                  "name": "Hornbæk Kirke",
+                  "text": "Hornbæk Kirke este un lăcaș de cult din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        9.991113,
+                        56.463474
+                  ]
+            },
+            {
+                  "name": "Randers Adventkirke",
+                  "text": "Randers Adventkirke este o biserică notabilă din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.009864,
+                        56.471076
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "Johanneskirken este un lăcaș de cult din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.041089,
+                        56.443661
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas Kirke",
+                  "text": "Sankt Andreas Kirke este un lăcaș de cult din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.04082,
+                        56.476802
+                  ]
+            },
+            {
+                  "name": "Kristrup Kirke",
+                  "text": "Kristrup Kirke este o biserică importantă din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.06331,
+                        56.446015
+                  ]
+            },
+            {
+                  "name": "Randers Klosterkirke",
+                  "text": "Randers Klosterkirke este un lăcaș de cult din Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.032645,
+                        56.459941
+                  ]
+            },
+            {
+                  "name": "Randersbro",
+                  "text": "Randersbro este un pod notabil din Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.039687,
+                        56.456539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Randers Regnskov",
+                  "text": "Randers Regnskov is a notable zoo in Randers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.032257,
+                        56.456848
+                  ]
+            },
+            {
+                  "name": "Randers Teater",
+                  "text": "Randers Teater is a notable theatre in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.033022,
+                        56.46548
+                  ]
+            },
+            {
+                  "name": "Grand Teatret",
+                  "text": "Grand Teatret is a theatre in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.036462,
+                        56.458855
+                  ]
+            },
+            {
+                  "name": "Gaia Museum Outsider Art",
+                  "text": "Gaia Museum Outsider Art is a museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.045919,
+                        56.46181
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "Friluftsscenen is a theatre in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.044518,
+                        56.466175
+                  ]
+            },
+            {
+                  "name": "Håndværkermuseet i Randers",
+                  "text": "Håndværkermuseet i Randers is a museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.036642,
+                        56.457557
+                  ]
+            },
+            {
+                  "name": "Museum Østjylland",
+                  "text": "Museum Østjylland is a museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.040763,
+                        56.460422
+                  ]
+            },
+            {
+                  "name": "Kulissen Randers",
+                  "text": "Kulissen Randers is a theatre in Randers.",
+                  "category": "cultural",
+                  "coords": [
+                        10.03868,
+                        56.457711
+                  ]
+            },
+            {
+                  "name": "Frilandsgården",
+                  "text": "Frilandsgården is a museum in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.029449,
+                        56.458193
+                  ]
+            },
+            {
+                  "name": "Water & Wellness Randers",
+                  "text": "Water & Wellness Randers is a water park in Randers.",
+                  "category": "recreational",
+                  "coords": [
+                        10.009619,
+                        56.464691
+                  ]
+            },
+            {
+                  "name": "Djursland For Fuld Damp",
+                  "text": "Djursland For Fuld Damp is a tourist attraction in Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.073782,
+                        56.454267
+                  ]
+            },
+            {
+                  "name": "Keramikcafeen",
+                  "text": "Keramikcafeen is a gallery in Randers.",
+                  "category": "museum",
+                  "coords": [
+                        10.036836,
+                        56.460377
+                  ]
+            },
+            {
+                  "name": "Bjellerup",
+                  "text": "Bjellerup is a manor in Randers.",
+                  "category": "historical",
+                  "coords": [
+                        10.05892,
+                        56.475059
+                  ]
+            },
+            {
+                  "name": "Kristrup Mølle",
+                  "text": "Kristrup Mølle is a windmill in Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.068877,
+                        56.445646
+                  ]
+            },
+            {
+                  "name": "Sankt Clemens Kirke",
+                  "text": "Sankt Clemens Kirke is a notable church in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.016278,
+                        56.466783
+                  ]
+            },
+            {
+                  "name": "Sankt Mortens Kirke",
+                  "text": "Sankt Mortens Kirke is a significant church in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.034969,
+                        56.459898
+                  ]
+            },
+            {
+                  "name": "Jesu Hjerte Kirke",
+                  "text": "Jesu Hjerte Kirke is a place of worship in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.039659,
+                        56.463246
+                  ]
+            },
+            {
+                  "name": "Sankt Peders Kirke",
+                  "text": "Sankt Peders Kirke is a notable church in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.031126,
+                        56.465306
+                  ]
+            },
+            {
+                  "name": "Dronningborg Kirke",
+                  "text": "Dronningborg Kirke is a place of worship in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.06252,
+                        56.472239
+                  ]
+            },
+            {
+                  "name": "Hornbæk Kirke",
+                  "text": "Hornbæk Kirke is a place of worship in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        9.991113,
+                        56.463474
+                  ]
+            },
+            {
+                  "name": "Randers Adventkirke",
+                  "text": "Randers Adventkirke is a notable church in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.009864,
+                        56.471076
+                  ]
+            },
+            {
+                  "name": "Johanneskirken",
+                  "text": "Johanneskirken is a place of worship in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.041089,
+                        56.443661
+                  ]
+            },
+            {
+                  "name": "Sankt Andreas Kirke",
+                  "text": "Sankt Andreas Kirke is a place of worship in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.04082,
+                        56.476802
+                  ]
+            },
+            {
+                  "name": "Kristrup Kirke",
+                  "text": "Kristrup Kirke is a significant church in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.06331,
+                        56.446015
+                  ]
+            },
+            {
+                  "name": "Randers Klosterkirke",
+                  "text": "Randers Klosterkirke is a place of worship in Randers.",
+                  "category": "religious",
+                  "coords": [
+                        10.032645,
+                        56.459941
+                  ]
+            },
+            {
+                  "name": "Randersbro",
+                  "text": "Randersbro is a notable bridge in Randers.",
+                  "category": "landmark",
+                  "coords": [
+                        10.039687,
+                        56.456539
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [10.0368, 56.4607],
@@ -708,7 +9510,916 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/randers.webp",
  },
  {
- id: "city-silkeborg",
+ id: "city-silkeborg", "sights": {
+      "de": [
+            {
+                  "name": "Bredhøj",
+                  "text": "Bredhøj ist eine archäologische Stätte in Silkeborg, die Zeugnis früherer Kulturen ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        9.55448,
+                        56.186712
+                  ]
+            },
+            {
+                  "name": "Silkeborg Bunkermuseum",
+                  "text": "Dieses Museum in Silkeborg ist in einem ehemaligen Bunker aus dem Zweiten Weltkrieg untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        9.523695,
+                        56.152691
+                  ]
+            },
+            {
+                  "name": "Museum Jorn",
+                  "text": "Das Museum Jorn zeigt die bedeutende Sammlung des dänischen Künstlers Asger Jorn.",
+                  "category": "museum",
+                  "coords": [
+                        9.558326,
+                        56.161151
+                  ]
+            },
+            {
+                  "name": "Museum Silkeborg",
+                  "text": "Das Museum Silkeborg ist bekannt für den Tollund-Mann, eine gut erhaltene Moorleiche.",
+                  "category": "museum",
+                  "coords": [
+                        9.553081,
+                        56.168867
+                  ]
+            },
+            {
+                  "name": "Aqua",
+                  "text": "AQUA ist ein Süßwasseraquarium und Tierpark, der die heimische Natur präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        9.562358,
+                        56.153762
+                  ]
+            },
+            {
+                  "name": "Jysk Musikteater",
+                  "text": "Das Jysk Musikteater ist ein modernes Zentrum für Musik- und Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        9.555889,
+                        56.170421
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "Das Det Ny Teater in Silkeborg bietet ein vielfältiges Programm an Bühnenstücken.",
+                  "category": "cultural",
+                  "coords": [
+                        9.524069,
+                        56.151582
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "Vestre Søbad ist ein beliebter Badeplatz am See Almindsø in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "Ein Strand in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            },
+            {
+                  "name": "Friluftscenen",
+                  "text": "Eine Freilichtbühne in Silkeborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.563331,
+                        56.15779
+                  ]
+            },
+            {
+                  "name": "Dronningestolen",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Landschaft von Silkeborg bietet.",
+                  "category": "natural",
+                  "coords": [
+                        9.562973,
+                        56.163722
+                  ]
+            },
+            {
+                  "name": "Silkeborg Slot",
+                  "text": "Die Überreste der Burg von Silkeborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.556285,
+                        56.173961
+                  ]
+            },
+            {
+                  "name": "Indelukket",
+                  "text": "Ein beliebter Park und Erholungsraum in Silkeborg.",
+                  "category": "park",
+                  "coords": [
+                        9.561993,
+                        56.159528
+                  ]
+            },
+            {
+                  "name": "Kroghs Bænk",
+                  "text": "Ein malerischer Aussichtspunkt in der Region Silkeborg.",
+                  "category": "natural",
+                  "coords": [
+                        9.545232,
+                        56.146504
+                  ]
+            },
+            {
+                  "name": "Galleri Moderne",
+                  "text": "Eine Kunstgalerie in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.545649,
+                        56.166308
+                  ]
+            },
+            {
+                  "name": "Kunstner Paletten",
+                  "text": "Eine Galerie für lokale Kunst in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.550315,
+                        56.167552
+                  ]
+            },
+            {
+                  "name": "Galleri Thomasberg",
+                  "text": "Eine Kunstgalerie in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.54465,
+                        56.167608
+                  ]
+            },
+            {
+                  "name": "Galleri Nygade 26A",
+                  "text": "Eine kleine Kunstgalerie in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.546749,
+                        56.167437
+                  ]
+            },
+            {
+                  "name": "Texas Collective",
+                  "text": "Ein Kunstkollektiv und eine Galerie in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.5486,
+                        56.167443
+                  ]
+            },
+            {
+                  "name": "Alderslyst Kirke",
+                  "text": "Eine Kirche im Stadtteil Alderslyst von Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.553567,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Balle Kirke",
+                  "text": "Eine historische Kirche im Kirchspiel Balle in Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.52274,
+                        56.196042
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Die Frauenkirche in Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.543748,
+                        56.168406
+                  ]
+            },
+            {
+                  "name": "Silkeborg Kirke",
+                  "text": "Die Hauptpfarrkirche von Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.551506,
+                        56.169676
+                  ]
+            },
+            {
+                  "name": "Mariehøj Kirke",
+                  "text": "Ein modernes Kirchengebäude in Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.536439,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Viborgbroen",
+                  "text": "Eine Brücke über das Gewässer in Silkeborg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.555242,
+                        56.174506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bredhøj",
+                  "text": "Bredhøj egy régészeti lelőhely Silkeborg területén.",
+                  "category": "historical",
+                  "coords": [
+                        9.55448,
+                        56.186712
+                  ]
+            },
+            {
+                  "name": "Silkeborg Bunkermuseum",
+                  "text": "Ez a silkeborgi múzeum egy második világháborús bunkerben kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        9.523695,
+                        56.152691
+                  ]
+            },
+            {
+                  "name": "Museum Jorn",
+                  "text": "A Museum Jorn Asger Jorn dán művész jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        9.558326,
+                        56.161151
+                  ]
+            },
+            {
+                  "name": "Museum Silkeborg",
+                  "text": "A Museum Silkeborg a Tollundi férfi nevű lápi múmiáról híres.",
+                  "category": "museum",
+                  "coords": [
+                        9.553081,
+                        56.168867
+                  ]
+            },
+            {
+                  "name": "Aqua",
+                  "text": "Az AQUA egy édesvízi akvárium és vadaspark Silkeborgban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.562358,
+                        56.153762
+                  ]
+            },
+            {
+                  "name": "Jysk Musikteater",
+                  "text": "A Jysk Musikteater a zenei és színházi előadások modern központja Silkeborgban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.555889,
+                        56.170421
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "A silkeborgi Det Ny Teater változatos színházi előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        9.524069,
+                        56.151582
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "A Vestre Søbad egy népszerű fürdőhely a silkeborgi Almindsø-tónál.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "Strand Silkeborgban.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            },
+            {
+                  "name": "Friluftscenen",
+                  "text": "Szabadtéri színpad Silkeborgban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.563331,
+                        56.15779
+                  ]
+            },
+            {
+                  "name": "Dronningestolen",
+                  "text": "Kilátóhely, amely széles kilátást nyújt Silkeborg vidékére.",
+                  "category": "natural",
+                  "coords": [
+                        9.562973,
+                        56.163722
+                  ]
+            },
+            {
+                  "name": "Silkeborg Slot",
+                  "text": "A silkeborgi vár romjai.",
+                  "category": "historical",
+                  "coords": [
+                        9.556285,
+                        56.173961
+                  ]
+            },
+            {
+                  "name": "Indelukket",
+                  "text": "Népszerű park és szabadidős terület Silkeborgban.",
+                  "category": "park",
+                  "coords": [
+                        9.561993,
+                        56.159528
+                  ]
+            },
+            {
+                  "name": "Kroghs Bænk",
+                  "text": "Festői kilátóhely Silkeborg régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        9.545232,
+                        56.146504
+                  ]
+            },
+            {
+                  "name": "Galleri Moderne",
+                  "text": "Művészeti galéria Silkeborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.545649,
+                        56.166308
+                  ]
+            },
+            {
+                  "name": "Kunstner Paletten",
+                  "text": "Helyi művészetet bemutató galéria Silkeborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.550315,
+                        56.167552
+                  ]
+            },
+            {
+                  "name": "Galleri Thomasberg",
+                  "text": "Művészeti galéria Silkeborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.54465,
+                        56.167608
+                  ]
+            },
+            {
+                  "name": "Galleri Nygade 26A",
+                  "text": "Kisebb művészeti galéria Silkeborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.546749,
+                        56.167437
+                  ]
+            },
+            {
+                  "name": "Texas Collective",
+                  "text": "Művészeti kollektíva és galéria Silkeborgban.",
+                  "category": "museum",
+                  "coords": [
+                        9.5486,
+                        56.167443
+                  ]
+            },
+            {
+                  "name": "Alderslyst Kirke",
+                  "text": "Templom Silkeborg Alderslyst negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        9.553567,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Balle Kirke",
+                  "text": "Történelmi templom Silkeborg Balle egyházközségében.",
+                  "category": "religious",
+                  "coords": [
+                        9.52274,
+                        56.196042
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "A Miasszonyunk-templom Silkeborgban.",
+                  "category": "religious",
+                  "coords": [
+                        9.543748,
+                        56.168406
+                  ]
+            },
+            {
+                  "name": "Silkeborg Kirke",
+                  "text": "Silkeborg fő plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        9.551506,
+                        56.169676
+                  ]
+            },
+            {
+                  "name": "Mariehøj Kirke",
+                  "text": "Modern templomépület Silkeborgban.",
+                  "category": "religious",
+                  "coords": [
+                        9.536439,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Viborgbroen",
+                  "text": "Híd Silkeborg vizei felett.",
+                  "category": "landmark",
+                  "coords": [
+                        9.555242,
+                        56.174506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bredhøj",
+                  "text": "Bredhøj este un sit arheologic situat în zona Silkeborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.55448,
+                        56.186712
+                  ]
+            },
+            {
+                  "name": "Silkeborg Bunkermuseum",
+                  "text": "Acest muzeu din Silkeborg este amenajat într-un fost buncăr din Al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        9.523695,
+                        56.152691
+                  ]
+            },
+            {
+                  "name": "Museum Jorn",
+                  "text": "Museum Jorn expune colecția importantă a artistului danez Asger Jorn.",
+                  "category": "museum",
+                  "coords": [
+                        9.558326,
+                        56.161151
+                  ]
+            },
+            {
+                  "name": "Museum Silkeborg",
+                  "text": "Museum Silkeborg este faimos pentru Omul din Tollund, o mumie din mlaștină bine conservată.",
+                  "category": "museum",
+                  "coords": [
+                        9.553081,
+                        56.168867
+                  ]
+            },
+            {
+                  "name": "Aqua",
+                  "text": "AQUA este un acvariu de apă dulce și parc zoologic din Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.562358,
+                        56.153762
+                  ]
+            },
+            {
+                  "name": "Jysk Musikteater",
+                  "text": "Jysk Musikteater este un centru modern pentru spectacole de muzică și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        9.555889,
+                        56.170421
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "Det Ny Teater din Silkeborg oferă un program variat de spectacole de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        9.524069,
+                        56.151582
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "Vestre Søbad este un loc popular pentru scăldat pe lacul Almindsø din Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "O plajă în Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            },
+            {
+                  "name": "Friluftscenen",
+                  "text": "Un teatru în aer liber în Silkeborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.563331,
+                        56.15779
+                  ]
+            },
+            {
+                  "name": "Dronningestolen",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra zonei Silkeborg.",
+                  "category": "natural",
+                  "coords": [
+                        9.562973,
+                        56.163722
+                  ]
+            },
+            {
+                  "name": "Silkeborg Slot",
+                  "text": "Ruinele castelului Silkeborg.",
+                  "category": "historical",
+                  "coords": [
+                        9.556285,
+                        56.173961
+                  ]
+            },
+            {
+                  "name": "Indelukket",
+                  "text": "Un parc și spațiu de recreere popular în Silkeborg.",
+                  "category": "park",
+                  "coords": [
+                        9.561993,
+                        56.159528
+                  ]
+            },
+            {
+                  "name": "Kroghs Bænk",
+                  "text": "Un punct de observație pitoresc în regiunea Silkeborg.",
+                  "category": "natural",
+                  "coords": [
+                        9.545232,
+                        56.146504
+                  ]
+            },
+            {
+                  "name": "Galleri Moderne",
+                  "text": "O galerie de artă în Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.545649,
+                        56.166308
+                  ]
+            },
+            {
+                  "name": "Kunstner Paletten",
+                  "text": "O galerie care expune artă locală în Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.550315,
+                        56.167552
+                  ]
+            },
+            {
+                  "name": "Galleri Thomasberg",
+                  "text": "O galerie de artă în Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.54465,
+                        56.167608
+                  ]
+            },
+            {
+                  "name": "Galleri Nygade 26A",
+                  "text": "O mică galerie de artă în Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.546749,
+                        56.167437
+                  ]
+            },
+            {
+                  "name": "Texas Collective",
+                  "text": "Un colectiv de artă și o galerie în Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.5486,
+                        56.167443
+                  ]
+            },
+            {
+                  "name": "Alderslyst Kirke",
+                  "text": "O biserică în cartierul Alderslyst din Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.553567,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Balle Kirke",
+                  "text": "O biserică istorică ce deservește parohia Balle din Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.52274,
+                        56.196042
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Biserica Maicii Domnului din Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.543748,
+                        56.168406
+                  ]
+            },
+            {
+                  "name": "Silkeborg Kirke",
+                  "text": "Biserica parohială principală din Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.551506,
+                        56.169676
+                  ]
+            },
+            {
+                  "name": "Mariehøj Kirke",
+                  "text": "O clădire modernă de biserică în Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.536439,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Viborgbroen",
+                  "text": "Un pod peste apă în Silkeborg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.555242,
+                        56.174506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bredhøj",
+                  "text": "Bredhøj is an archaeological site located in the Silkeborg area.",
+                  "category": "historical",
+                  "coords": [
+                        9.55448,
+                        56.186712
+                  ]
+            },
+            {
+                  "name": "Silkeborg Bunkermuseum",
+                  "text": "This museum in Silkeborg is housed in a former bunker from World War II.",
+                  "category": "museum",
+                  "coords": [
+                        9.523695,
+                        56.152691
+                  ]
+            },
+            {
+                  "name": "Museum Jorn",
+                  "text": "Museum Jorn showcases the significant collection of the Danish artist Asger Jorn.",
+                  "category": "museum",
+                  "coords": [
+                        9.558326,
+                        56.161151
+                  ]
+            },
+            {
+                  "name": "Museum Silkeborg",
+                  "text": "Museum Silkeborg is famous for the Tollund Man, a well-preserved bog body.",
+                  "category": "museum",
+                  "coords": [
+                        9.553081,
+                        56.168867
+                  ]
+            },
+            {
+                  "name": "Aqua",
+                  "text": "AQUA is a freshwater aquarium and wildlife park showcasing local nature in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.562358,
+                        56.153762
+                  ]
+            },
+            {
+                  "name": "Jysk Musikteater",
+                  "text": "Jysk Musikteater is a modern center for musical and theatrical performances in Silkeborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.555889,
+                        56.170421
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "Det Ny Teater in Silkeborg offers a diverse program of theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        9.524069,
+                        56.151582
+                  ]
+            },
+            {
+                  "name": "Vestre Søbad",
+                  "text": "Vestre Søbad is a popular bathing area on Lake Almindsø in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.543666,
+                        56.152063
+                  ]
+            },
+            {
+                  "name": "Aggerholm",
+                  "text": "A beach in Silkeborg.",
+                  "category": "recreational",
+                  "coords": [
+                        9.536475,
+                        56.153306
+                  ]
+            },
+            {
+                  "name": "Friluftscenen",
+                  "text": "An outdoor theatre in Silkeborg.",
+                  "category": "cultural",
+                  "coords": [
+                        9.563331,
+                        56.15779
+                  ]
+            },
+            {
+                  "name": "Dronningestolen",
+                  "text": "A viewpoint offering a scenic look over the Silkeborg area.",
+                  "category": "natural",
+                  "coords": [
+                        9.562973,
+                        56.163722
+                  ]
+            },
+            {
+                  "name": "Silkeborg Slot",
+                  "text": "The remains of Silkeborg Castle.",
+                  "category": "historical",
+                  "coords": [
+                        9.556285,
+                        56.173961
+                  ]
+            },
+            {
+                  "name": "Indelukket",
+                  "text": "A popular park and recreational area in Silkeborg.",
+                  "category": "park",
+                  "coords": [
+                        9.561993,
+                        56.159528
+                  ]
+            },
+            {
+                  "name": "Kroghs Bænk",
+                  "text": "A scenic viewpoint in the Silkeborg region.",
+                  "category": "natural",
+                  "coords": [
+                        9.545232,
+                        56.146504
+                  ]
+            },
+            {
+                  "name": "Galleri Moderne",
+                  "text": "An art gallery in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.545649,
+                        56.166308
+                  ]
+            },
+            {
+                  "name": "Kunstner Paletten",
+                  "text": "A gallery showcasing local art in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.550315,
+                        56.167552
+                  ]
+            },
+            {
+                  "name": "Galleri Thomasberg",
+                  "text": "An art gallery located in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.54465,
+                        56.167608
+                  ]
+            },
+            {
+                  "name": "Galleri Nygade 26A",
+                  "text": "A small art gallery in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.546749,
+                        56.167437
+                  ]
+            },
+            {
+                  "name": "Texas Collective",
+                  "text": "An art collective and gallery in Silkeborg.",
+                  "category": "museum",
+                  "coords": [
+                        9.5486,
+                        56.167443
+                  ]
+            },
+            {
+                  "name": "Alderslyst Kirke",
+                  "text": "A church in the Alderslyst district of Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.553567,
+                        56.181745
+                  ]
+            },
+            {
+                  "name": "Balle Kirke",
+                  "text": "A historic church serving the Balle parish in Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.52274,
+                        56.196042
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "The Church of Our Lady in Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.543748,
+                        56.168406
+                  ]
+            },
+            {
+                  "name": "Silkeborg Kirke",
+                  "text": "The main parish church of Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.551506,
+                        56.169676
+                  ]
+            },
+            {
+                  "name": "Mariehøj Kirke",
+                  "text": "A modern church building in Silkeborg.",
+                  "category": "religious",
+                  "coords": [
+                        9.536439,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Viborgbroen",
+                  "text": "A bridge crossing the water in Silkeborg.",
+                  "category": "landmark",
+                  "coords": [
+                        9.555242,
+                        56.174506
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [9.5210, 56.1697],
@@ -761,6 +10472,123 @@ export const denmarkCities: POI[] = [
                         12.314212,
                         55.924806
                   ]
+            },
+            {
+                  "name": "Nationalhistorisches Museum",
+                  "text": "Im Schloss Frederiksborg untergebracht, zeigt dieses Nationalmuseum dänische Geschichte und Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        12.301515,
+                        55.935174
+                  ]
+            },
+            {
+                  "name": "Folkemuseet",
+                  "text": "Ein lokales Kulturgeschichtsmuseum in Hillerød, das das Leben in Nordseeland dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.299713,
+                        55.928159
+                  ]
+            },
+            {
+                  "name": "Badstueslottet",
+                  "text": "Ein kleines, historisches Renaissanceschloss im Schlosspark von Frederiksborg.",
+                  "category": "castle",
+                  "coords": [
+                        12.301161,
+                        55.939038
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "Ein berühmter Findling im Gribskov-Wald, der sich leicht bewegen lässt.",
+                  "category": "historical",
+                  "coords": [
+                        12.26441,
+                        55.917742
+                  ]
+            },
+            {
+                  "name": "Hillerød Ny Teater",
+                  "text": "Ein modernes Theater in Hillerød, das eine Vielzahl von Bühnenaufführungen präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.293999,
+                        55.920426
+                  ]
+            },
+            {
+                  "name": "Nordsjællands folkemuseum",
+                  "text": "Ein regionales Museum, das sich mit der Volkskunde und Geschichte Nordseelands befasst.",
+                  "category": "museum",
+                  "coords": [
+                        12.308847,
+                        55.933717
+                  ]
+            },
+            {
+                  "name": "Annaborg",
+                  "text": "Ein historisches Gebäude in Hillerød, das heute als Kunstgalerie genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        12.296548,
+                        55.935091
+                  ]
+            },
+            {
+                  "name": "Frederik VII's lysthus",
+                  "text": "Ruinen eines historischen Lusthauses, das einst König Frederik VII. gehörte.",
+                  "category": "historical",
+                  "coords": [
+                        12.32097,
+                        55.923272
+                  ]
+            },
+            {
+                  "name": "Skansebakken",
+                  "text": "Ein Aussichtspunkt in Hillerød, der weite Ausblicke über die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        12.335554,
+                        55.934025
+                  ]
+            },
+            {
+                  "name": "Selskovs suttetræ",
+                  "text": "Ein traditioneller 'Schnullerbaum' im Selskov-Wald für die Jüngsten.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283997,
+                        55.946208
+                  ]
+            },
+            {
+                  "name": "Grønnevang Kirke",
+                  "text": "Eine moderne evangelisch-lutherische Kirche in einem Wohngebiet von Hillerød.",
+                  "category": "religious",
+                  "coords": [
+                        12.344571,
+                        55.937384
+                  ]
+            },
+            {
+                  "name": "Hillerød Kirke",
+                  "text": "Die Hauptkirche der Stadt Hillerød, im Herzen des Zentrums gelegen.",
+                  "category": "religious",
+                  "coords": [
+                        12.306764,
+                        55.929572
+                  ]
+            },
+            {
+                  "name": "Sankt Vilhelms Kirke",
+                  "text": "Eine katholische Kirche in Hillerød, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        12.297978,
+                        55.930549
+                  ]
             }
       ],
       "hu": [
@@ -771,6 +10599,123 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         12.314212,
                         55.924806
+                  ]
+            },
+            {
+                  "name": "Det Nationalhistoriske Museum",
+                  "text": "A Frederiksborg-kastélyban található nemzeti múzeum a dán történelmet és művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.301515,
+                        55.935174
+                  ]
+            },
+            {
+                  "name": "Folkemuseet",
+                  "text": "Hillerődi helytörténeti múzeum, amely az észak-zealandi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.299713,
+                        55.928159
+                  ]
+            },
+            {
+                  "name": "Badstueslottet",
+                  "text": "Kisméretű, történelmi reneszánsz kastély a Frederiksborg kastélyparkban.",
+                  "category": "castle",
+                  "coords": [
+                        12.301161,
+                        55.939038
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "Híres vándorkő a Gribskov-erdőben, amely könnyen mozgatható.",
+                  "category": "historical",
+                  "coords": [
+                        12.26441,
+                        55.917742
+                  ]
+            },
+            {
+                  "name": "Hillerød Ny Teater",
+                  "text": "Modern színház Hillerődben, amely számos színpadi előadást mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        12.293999,
+                        55.920426
+                  ]
+            },
+            {
+                  "name": "Nordsjællands folkemuseum",
+                  "text": "Regionális múzeum, amely Észak-Zealand néprajzával és történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        12.308847,
+                        55.933717
+                  ]
+            },
+            {
+                  "name": "Annaborg",
+                  "text": "Történelmi épület Hillerődben, amely ma művészeti galériaként működik.",
+                  "category": "museum",
+                  "coords": [
+                        12.296548,
+                        55.935091
+                  ]
+            },
+            {
+                  "name": "Frederik VII's lysthus",
+                  "text": "VII. Frigyes király egykori nyári lakjának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        12.32097,
+                        55.923272
+                  ]
+            },
+            {
+                  "name": "Skansebakken",
+                  "text": "Kilátópont Hillerődben, ahonnan szép kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        12.335554,
+                        55.934025
+                  ]
+            },
+            {
+                  "name": "Selskovs suttetræ",
+                  "text": "Hagyományos „cumifa” a Selskov-erdőben a legkisebbek számára.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283997,
+                        55.946208
+                  ]
+            },
+            {
+                  "name": "Grønnevang Kirke",
+                  "text": "Modern evangélikus templom Hillerőd egyik lakóövezetében.",
+                  "category": "religious",
+                  "coords": [
+                        12.344571,
+                        55.937384
+                  ]
+            },
+            {
+                  "name": "Hillerød Kirke",
+                  "text": "Hillerőd városának főtemploma a központ szívében.",
+                  "category": "religious",
+                  "coords": [
+                        12.306764,
+                        55.929572
+                  ]
+            },
+            {
+                  "name": "Sankt Vilhelms Kirke",
+                  "text": "Katolikus templom Hillerődben, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        12.297978,
+                        55.930549
                   ]
             }
       ],
@@ -783,6 +10728,123 @@ export const denmarkCities: POI[] = [
                         12.314212,
                         55.924806
                   ]
+            },
+            {
+                  "name": "Det Nationalhistoriske Museum",
+                  "text": "Găzduit în Castelul Frederiksborg, acest muzeu național prezintă istoria și arta daneză.",
+                  "category": "museum",
+                  "coords": [
+                        12.301515,
+                        55.935174
+                  ]
+            },
+            {
+                  "name": "Folkemuseet",
+                  "text": "Un muzeu local de istorie culturală din Hillerød, care documentează viața din Zeelanda de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        12.299713,
+                        55.928159
+                  ]
+            },
+            {
+                  "name": "Badstueslottet",
+                  "text": "Un mic castel istoric în stil renascentist situat în parcul castelului Frederiksborg.",
+                  "category": "castle",
+                  "coords": [
+                        12.301161,
+                        55.939038
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "O celebră piatră oscilantă în pădurea Gribskov, care poate fi mișcată ușor.",
+                  "category": "historical",
+                  "coords": [
+                        12.26441,
+                        55.917742
+                  ]
+            },
+            {
+                  "name": "Hillerød Ny Teater",
+                  "text": "Un teatru modern din Hillerød care prezintă o varietate de spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        12.293999,
+                        55.920426
+                  ]
+            },
+            {
+                  "name": "Nordsjællands folkemuseum",
+                  "text": "Un muzeu regional dedicat folclorului și istoriei Zeelandei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        12.308847,
+                        55.933717
+                  ]
+            },
+            {
+                  "name": "Annaborg",
+                  "text": "O clădire istorică din Hillerød, utilizată în prezent ca galerie de artă.",
+                  "category": "museum",
+                  "coords": [
+                        12.296548,
+                        55.935091
+                  ]
+            },
+            {
+                  "name": "Frederik VII's lysthus",
+                  "text": "Ruinele unei case de vacanță istorice care a aparținut regelui Frederik al VII-lea.",
+                  "category": "historical",
+                  "coords": [
+                        12.32097,
+                        55.923272
+                  ]
+            },
+            {
+                  "name": "Skansebakken",
+                  "text": "Un punct de belvedere în Hillerød care oferă vederi largi asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        12.335554,
+                        55.934025
+                  ]
+            },
+            {
+                  "name": "Selskovs suttetræ",
+                  "text": "Un „copac cu suzete” tradițional în pădurea Selskov pentru cei mici.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283997,
+                        55.946208
+                  ]
+            },
+            {
+                  "name": "Grønnevang Kirke",
+                  "text": "O biserică evanghelică-lutherană modernă într-o zonă rezidențială din Hillerød.",
+                  "category": "religious",
+                  "coords": [
+                        12.344571,
+                        55.937384
+                  ]
+            },
+            {
+                  "name": "Hillerød Kirke",
+                  "text": "Biserica principală a orașului Hillerød, situată în inima centrului.",
+                  "category": "religious",
+                  "coords": [
+                        12.306764,
+                        55.929572
+                  ]
+            },
+            {
+                  "name": "Sankt Vilhelms Kirke",
+                  "text": "O biserică catolică din Hillerød care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        12.297978,
+                        55.930549
+                  ]
             }
       ],
       "en": [
@@ -793,6 +10855,123 @@ export const denmarkCities: POI[] = [
                   "coords": [
                         12.314212,
                         55.924806
+                  ]
+            },
+            {
+                  "name": "The Museum of National History",
+                  "text": "Housed in Frederiksborg Castle, this national museum showcases Danish history and art.",
+                  "category": "museum",
+                  "coords": [
+                        12.301515,
+                        55.935174
+                  ]
+            },
+            {
+                  "name": "Folkemuseet",
+                  "text": "A local cultural history museum in Hillerød documenting life in North Zealand.",
+                  "category": "museum",
+                  "coords": [
+                        12.299713,
+                        55.928159
+                  ]
+            },
+            {
+                  "name": "Bath House Castle",
+                  "text": "A small, historic Renaissance castle located in the Frederiksborg castle park.",
+                  "category": "castle",
+                  "coords": [
+                        12.301161,
+                        55.939038
+                  ]
+            },
+            {
+                  "name": "Rokkestenen",
+                  "text": "A famous glacial erratic in Gribskov forest that can be rocked easily.",
+                  "category": "historical",
+                  "coords": [
+                        12.26441,
+                        55.917742
+                  ]
+            },
+            {
+                  "name": "Hillerød Ny Teater",
+                  "text": "A modern theatre in Hillerød presenting a variety of stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.293999,
+                        55.920426
+                  ]
+            },
+            {
+                  "name": "Nordsjællands folkemuseum",
+                  "text": "A regional museum focusing on the folklore and history of North Zealand.",
+                  "category": "museum",
+                  "coords": [
+                        12.308847,
+                        55.933717
+                  ]
+            },
+            {
+                  "name": "Annaborg",
+                  "text": "A historic building in Hillerød currently used as an art gallery.",
+                  "category": "museum",
+                  "coords": [
+                        12.296548,
+                        55.935091
+                  ]
+            },
+            {
+                  "name": "Frederik VII's lysthus",
+                  "text": "Ruins of a historic summer house that once belonged to King Frederik VII.",
+                  "category": "historical",
+                  "coords": [
+                        12.32097,
+                        55.923272
+                  ]
+            },
+            {
+                  "name": "Skansebakken",
+                  "text": "A viewpoint in Hillerød offering broad views over the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        12.335554,
+                        55.934025
+                  ]
+            },
+            {
+                  "name": "Selskovs suttetræ",
+                  "text": "A traditional 'pacifier tree' in Selskov forest for young children.",
+                  "category": "landmark",
+                  "coords": [
+                        12.283997,
+                        55.946208
+                  ]
+            },
+            {
+                  "name": "Grønnevang Kirke",
+                  "text": "A modern Evangelical Lutheran church in a residential area of Hillerød.",
+                  "category": "religious",
+                  "coords": [
+                        12.344571,
+                        55.937384
+                  ]
+            },
+            {
+                  "name": "Hillerød Kirke",
+                  "text": "The main church of Hillerød city, located in the heart of the center.",
+                  "category": "religious",
+                  "coords": [
+                        12.306764,
+                        55.929572
+                  ]
+            },
+            {
+                  "name": "Sankt Vilhelms Kirke",
+                  "text": "A Catholic church in Hillerød serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        12.297978,
+                        55.930549
                   ]
             }
       ]
@@ -839,7 +11018,1024 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/hilleroed.webp",
  },
  {
- id: "city-kolding",
+ id: "city-kolding", "sights": {
+      "de": [
+            {
+                  "name": "Kolding Teater",
+                  "text": "Das Kolding Teater ist ein bekanntes Theater in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.482099,
+                        55.498226
+                  ]
+            },
+            {
+                  "name": "Kolding Egnsteater",
+                  "text": "Das Kolding Egnsteater ist ein Theater in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.477693,
+                        55.490352
+                  ]
+            },
+            {
+                  "name": "Staldgården",
+                  "text": "Staldgården ist ein bedeutendes Schloss in Kolding.",
+                  "category": "castle",
+                  "coords": [
+                        9.476689,
+                        55.491056
+                  ]
+            },
+            {
+                  "name": "Godset",
+                  "text": "Godset ist ein bekannter Veranstaltungsort in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.483064,
+                        55.49091
+                  ]
+            },
+            {
+                  "name": "Kommandocentralen",
+                  "text": "Die Kommandocentralen ist ein historisches Museum in Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.475755,
+                        55.478807
+                  ]
+            },
+            {
+                  "name": "Dronning Dorothea Teatret",
+                  "text": "Das Dronning Dorothea Teatret ist ein Theater in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.468403,
+                        55.492562
+                  ]
+            },
+            {
+                  "name": "Jump-It",
+                  "text": "Jump-It ist ein Freizeitpark in Kolding.",
+                  "category": "recreational",
+                  "coords": [
+                        9.465857,
+                        55.507329
+                  ]
+            },
+            {
+                  "name": "Amfi Scenen",
+                  "text": "Amfi Scenen ist ein Theater in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.492406,
+                        55.470454
+                  ]
+            },
+            {
+                  "name": "Slotssøbadet",
+                  "text": "Slotssøbadet ist ein Wasserpark in Kolding.",
+                  "category": "recreational",
+                  "coords": [
+                        9.471009,
+                        55.4941
+                  ]
+            },
+            {
+                  "name": "Kolding Stadsarkiv",
+                  "text": "Das Kolding Stadsarkiv ist ein Museum in Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.470904,
+                        55.491295
+                  ]
+            },
+            {
+                  "name": "Nicolai Scene",
+                  "text": "Nicolai Scene ist ein Theater in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.469904,
+                        55.490663
+                  ]
+            },
+            {
+                  "name": "Kolding Inderfjord Vildtreservat",
+                  "text": "Kolding Inderfjord Vildtreservat ist ein Naturschutzgebiet in Kolding.",
+                  "category": "natural",
+                  "coords": [
+                        9.502619,
+                        55.492135
+                  ]
+            },
+            {
+                  "name": "Borchs Gård",
+                  "text": "Borch’s house ist eine Touristenattraktion in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.473328,
+                        55.490134
+                  ]
+            },
+            {
+                  "name": "Geografisk Have",
+                  "text": "Der Geografisk Have ist eine bekannte Touristenattraktion in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.493325,
+                        55.472611
+                  ]
+            },
+            {
+                  "name": "Gøhlmanns Mølle",
+                  "text": "Gøhlmanns Mølle ist eine Touristenattraktion in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.460871,
+                        55.500325
+                  ]
+            },
+            {
+                  "name": "Kolding Miniby",
+                  "text": "Kolding Miniby ist eine bedeutende Touristenattraktion in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.490733,
+                        55.4721
+                  ]
+            },
+            {
+                  "name": "Drackmans bænk",
+                  "text": "Drackmans bænk ist ein Aussichtspunkt in Kolding.",
+                  "category": "natural",
+                  "coords": [
+                        9.490866,
+                        55.502967
+                  ]
+            },
+            {
+                  "name": "Spor i naturen",
+                  "text": "Spor i naturen ist eine Touristenattraktion in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.496444,
+                        55.488882
+                  ]
+            },
+            {
+                  "name": "SPACE / 宇宙",
+                  "text": "SPACE / 宇宙 ist eine Galerie in Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.461353,
+                        55.488154
+                  ]
+            },
+            {
+                  "name": "Legeparken",
+                  "text": "Legeparken ist eine Touristenattraktion in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.479861,
+                        55.495361
+                  ]
+            },
+            {
+                  "name": "Marielundskilden",
+                  "text": "Marielundskilden ist eine bemerkenswerte natürliche Quelle in der Stadt Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.48798,
+                        55.503746
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "Kristkirken ist ein markantes Gotteshaus in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.469134,
+                        55.483247
+                  ]
+            },
+            {
+                  "name": "Kolding Kirkecenter",
+                  "text": "Das Kolding Kirkecenter ist ein anerkanntes Gotteshaus in der Stadt Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.461381,
+                        55.504759
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai Kirke",
+                  "text": "Sankt Nicolai Kirke ist ein bedeutendes historisches Gotteshaus in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.472163,
+                        55.490654
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "Simon Peters Kirke ist ein bemerkenswertes Gotteshaus in der Stadt Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.45849,
+                        55.499952
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Immanuelskirken ist ein lokales Gotteshaus in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.474072,
+                        55.479812
+                  ]
+            },
+            {
+                  "name": "Seest Kirke",
+                  "text": "Seest Kirke ist ein bekanntes Gotteshaus in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.437511,
+                        55.483072
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "Sankt Michaels Kirke ist ein anerkanntes katholisches Gotteshaus in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.466371,
+                        55.486185
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kolding Teater",
+                  "text": "A Kolding Teater egy híres színház Kolding városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.482099,
+                        55.498226
+                  ]
+            },
+            {
+                  "name": "Kolding Egnsteater",
+                  "text": "A Kolding Egnsteater egy színház Kolding városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.477693,
+                        55.490352
+                  ]
+            },
+            {
+                  "name": "Staldgården",
+                  "text": "A Staldgården egy jelentős kastély Kolding városában.",
+                  "category": "castle",
+                  "coords": [
+                        9.476689,
+                        55.491056
+                  ]
+            },
+            {
+                  "name": "Godset",
+                  "text": "A Godset egy ismert színház és rendezvényközpont Kolding városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.483064,
+                        55.49091
+                  ]
+            },
+            {
+                  "name": "Kommandocentralen",
+                  "text": "A Kommandocentralen egy történelmi múzeum Kolding városában.",
+                  "category": "museum",
+                  "coords": [
+                        9.475755,
+                        55.478807
+                  ]
+            },
+            {
+                  "name": "Dronning Dorothea Teatret",
+                  "text": "A Dronning Dorothea Teatret egy színház Kolding városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.468403,
+                        55.492562
+                  ]
+            },
+            {
+                  "name": "Jump-It",
+                  "text": "A Jump-It egy vidámpark Kolding városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.465857,
+                        55.507329
+                  ]
+            },
+            {
+                  "name": "Amfi Scenen",
+                  "text": "Az Amfi Scenen egy színház Kolding városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.492406,
+                        55.470454
+                  ]
+            },
+            {
+                  "name": "Slotssøbadet",
+                  "text": "A Slotssøbadet egy vízi park Kolding városában.",
+                  "category": "recreational",
+                  "coords": [
+                        9.471009,
+                        55.4941
+                  ]
+            },
+            {
+                  "name": "Kolding Stadsarkiv",
+                  "text": "A Kolding Stadsarkiv egy múzeum Kolding városában.",
+                  "category": "museum",
+                  "coords": [
+                        9.470904,
+                        55.491295
+                  ]
+            },
+            {
+                  "name": "Nicolai Scene",
+                  "text": "A Nicolai Scene egy színház Kolding városában.",
+                  "category": "cultural",
+                  "coords": [
+                        9.469904,
+                        55.490663
+                  ]
+            },
+            {
+                  "name": "Kolding Inderfjord Vildtreservat",
+                  "text": "A Kolding Inderfjord Vildtreservat egy természetvédelmi terület Kolding városában.",
+                  "category": "natural",
+                  "coords": [
+                        9.502619,
+                        55.492135
+                  ]
+            },
+            {
+                  "name": "Borchs Gård",
+                  "text": "A Borch’s house egy turisztikai látványosság Kolding városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.473328,
+                        55.490134
+                  ]
+            },
+            {
+                  "name": "Geografisk Have",
+                  "text": "A Geografisk Have egy nevezetes turisztikai látványosság Kolding városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.493325,
+                        55.472611
+                  ]
+            },
+            {
+                  "name": "Gøhlmanns Mølle",
+                  "text": "A Gøhlmanns Mølle egy turisztikai látványosság Kolding városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.460871,
+                        55.500325
+                  ]
+            },
+            {
+                  "name": "Kolding Miniby",
+                  "text": "A Kolding Miniby egy jelentős turisztikai látványosság Kolding városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.490733,
+                        55.4721
+                  ]
+            },
+            {
+                  "name": "Drackmans bænk",
+                  "text": "A Drackmans bænk egy kilátó Kolding városában.",
+                  "category": "natural",
+                  "coords": [
+                        9.490866,
+                        55.502967
+                  ]
+            },
+            {
+                  "name": "Spor i naturen",
+                  "text": "A Spor i naturen egy turisztikai látványosság Kolding városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.496444,
+                        55.488882
+                  ]
+            },
+            {
+                  "name": "SPACE / 宇宙",
+                  "text": "A SPACE / 宇宙 egy galéria Kolding városában.",
+                  "category": "museum",
+                  "coords": [
+                        9.461353,
+                        55.488154
+                  ]
+            },
+            {
+                  "name": "Legeparken",
+                  "text": "A Legeparken egy turisztikai látványosság Kolding városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.479861,
+                        55.495361
+                  ]
+            },
+            {
+                  "name": "Marielundskilden",
+                  "text": "A Marielundskilden egy nevezetes természetes forrás Kolding városában.",
+                  "category": "landmark",
+                  "coords": [
+                        9.48798,
+                        55.503746
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "A Kristkirken egy kiemelkedő istentiszteleti hely Koldingban.",
+                  "category": "religious",
+                  "coords": [
+                        9.469134,
+                        55.483247
+                  ]
+            },
+            {
+                  "name": "Kolding Kirkecenter",
+                  "text": "A Kolding Kirkecenter egy elismert istentiszteleti hely Kolding városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.461381,
+                        55.504759
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai Kirke",
+                  "text": "A Sankt Nicolai Kirke egy jelentős történelmi istentiszteleti hely Koldingban.",
+                  "category": "religious",
+                  "coords": [
+                        9.472163,
+                        55.490654
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "A Simon Peters Kirke egy nevezetes istentiszteleti hely Kolding városában.",
+                  "category": "religious",
+                  "coords": [
+                        9.45849,
+                        55.499952
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Az Immanuelskirken egy helyi istentiszteleti hely Koldingban.",
+                  "category": "religious",
+                  "coords": [
+                        9.474072,
+                        55.479812
+                  ]
+            },
+            {
+                  "name": "Seest Kirke",
+                  "text": "A Seest Kirke egy jól ismert istentiszteleti hely Koldingban.",
+                  "category": "religious",
+                  "coords": [
+                        9.437511,
+                        55.483072
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "A Sankt Michaels Kirke egy elismert katolikus istentiszteleti hely Koldingban.",
+                  "category": "religious",
+                  "coords": [
+                        9.466371,
+                        55.486185
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kolding Teater",
+                  "text": "Kolding Teater este un teatru notabil din Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.482099,
+                        55.498226
+                  ]
+            },
+            {
+                  "name": "Kolding Egnsteater",
+                  "text": "Kolding Egnsteater este un teatru din Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.477693,
+                        55.490352
+                  ]
+            },
+            {
+                  "name": "Staldgården",
+                  "text": "Staldgården este un castel important din Kolding.",
+                  "category": "castle",
+                  "coords": [
+                        9.476689,
+                        55.491056
+                  ]
+            },
+            {
+                  "name": "Godset",
+                  "text": "Godset este un teatru și centru de evenimente notabil din Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.483064,
+                        55.49091
+                  ]
+            },
+            {
+                  "name": "Kommandocentralen",
+                  "text": "Kommandocentralen este un muzeu istoric din Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.475755,
+                        55.478807
+                  ]
+            },
+            {
+                  "name": "Dronning Dorothea Teatret",
+                  "text": "Dronning Dorothea Teatret este un teatru din Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.468403,
+                        55.492562
+                  ]
+            },
+            {
+                  "name": "Jump-It",
+                  "text": "Jump-It este un parc de distracții din Kolding.",
+                  "category": "recreational",
+                  "coords": [
+                        9.465857,
+                        55.507329
+                  ]
+            },
+            {
+                  "name": "Amfi Scenen",
+                  "text": "Amfi Scenen este un teatru din Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.492406,
+                        55.470454
+                  ]
+            },
+            {
+                  "name": "Slotssøbadet",
+                  "text": "Slotssøbadet este un parc acvatic din Kolding.",
+                  "category": "recreational",
+                  "coords": [
+                        9.471009,
+                        55.4941
+                  ]
+            },
+            {
+                  "name": "Kolding Stadsarkiv",
+                  "text": "Kolding Stadsarkiv este un muzeu din Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.470904,
+                        55.491295
+                  ]
+            },
+            {
+                  "name": "Nicolai Scene",
+                  "text": "Nicolai Scene este un teatru din Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.469904,
+                        55.490663
+                  ]
+            },
+            {
+                  "name": "Kolding Inderfjord Vildtreservat",
+                  "text": "Kolding Inderfjord Vildtreservat este o rezervație naturală din Kolding.",
+                  "category": "natural",
+                  "coords": [
+                        9.502619,
+                        55.492135
+                  ]
+            },
+            {
+                  "name": "Borchs Gård",
+                  "text": "Borch’s house este o atracție turistică din Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.473328,
+                        55.490134
+                  ]
+            },
+            {
+                  "name": "Geografisk Have",
+                  "text": "Geografisk Have este o atracție turistică notabilă din Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.493325,
+                        55.472611
+                  ]
+            },
+            {
+                  "name": "Gøhlmanns Mølle",
+                  "text": "Gøhlmanns Mølle este o atracție turistică din Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.460871,
+                        55.500325
+                  ]
+            },
+            {
+                  "name": "Kolding Miniby",
+                  "text": "Kolding Miniby este o atracție turistică importantă din Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.490733,
+                        55.4721
+                  ]
+            },
+            {
+                  "name": "Drackmans bænk",
+                  "text": "Drackmans bænk este un punct de belvedere din Kolding.",
+                  "category": "natural",
+                  "coords": [
+                        9.490866,
+                        55.502967
+                  ]
+            },
+            {
+                  "name": "Spor i naturen",
+                  "text": "Spor i naturen este o atracție turistică din Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.496444,
+                        55.488882
+                  ]
+            },
+            {
+                  "name": "SPACE / 宇宙",
+                  "text": "SPACE / 宇宙 este o galerie din Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.461353,
+                        55.488154
+                  ]
+            },
+            {
+                  "name": "Legeparken",
+                  "text": "Legeparken este o atracție turistică din Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.479861,
+                        55.495361
+                  ]
+            },
+            {
+                  "name": "Marielundskilden",
+                  "text": "Marielundskilden este un izvor natural notabil situat în orașul Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.48798,
+                        55.503746
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "Kristkirken este un lăcaș de cult proeminent situat în Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.469134,
+                        55.483247
+                  ]
+            },
+            {
+                  "name": "Kolding Kirkecenter",
+                  "text": "Kolding Kirkecenter este un lăcaș de cult recunoscut în orașul Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.461381,
+                        55.504759
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai Kirke",
+                  "text": "Sankt Nicolai Kirke este un lăcaș de cult istoric semnificativ situat în Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.472163,
+                        55.490654
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "Simon Peters Kirke este un lăcaș de cult notabil aflat în orașul Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.45849,
+                        55.499952
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Immanuelskirken este un lăcaș de cult local situat în Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.474072,
+                        55.479812
+                  ]
+            },
+            {
+                  "name": "Seest Kirke",
+                  "text": "Seest Kirke este un lăcaș de cult bine cunoscut situat în Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.437511,
+                        55.483072
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "Sankt Michaels Kirke este un lăcaș de cult catolic recunoscut din Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.466371,
+                        55.486185
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kolding Teater",
+                  "text": "Kolding Teater is a notable theatre in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.482099,
+                        55.498226
+                  ]
+            },
+            {
+                  "name": "Kolding Egnsteater",
+                  "text": "Kolding Egnsteater is a theatre in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.477693,
+                        55.490352
+                  ]
+            },
+            {
+                  "name": "Staldgården",
+                  "text": "Staldgården is a significant castle in Kolding.",
+                  "category": "castle",
+                  "coords": [
+                        9.476689,
+                        55.491056
+                  ]
+            },
+            {
+                  "name": "Godset",
+                  "text": "Godset is a notable theatre and venue in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.483064,
+                        55.49091
+                  ]
+            },
+            {
+                  "name": "Kommandocentralen",
+                  "text": "Kommandocentralen is a historical museum in Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.475755,
+                        55.478807
+                  ]
+            },
+            {
+                  "name": "Dronning Dorothea Teatret",
+                  "text": "Dronning Dorothea Teatret is a theatre in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.468403,
+                        55.492562
+                  ]
+            },
+            {
+                  "name": "Jump-It",
+                  "text": "Jump-It is a theme park in Kolding.",
+                  "category": "recreational",
+                  "coords": [
+                        9.465857,
+                        55.507329
+                  ]
+            },
+            {
+                  "name": "Amfi Scenen",
+                  "text": "Amfi Scenen is a theatre in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.492406,
+                        55.470454
+                  ]
+            },
+            {
+                  "name": "Slotssøbadet",
+                  "text": "Slotssøbadet is a water park in Kolding.",
+                  "category": "recreational",
+                  "coords": [
+                        9.471009,
+                        55.4941
+                  ]
+            },
+            {
+                  "name": "Kolding Stadsarkiv",
+                  "text": "Kolding Stadsarkiv is a museum in Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.470904,
+                        55.491295
+                  ]
+            },
+            {
+                  "name": "Nicolai Scene",
+                  "text": "Nicolai Scene is a theatre in Kolding.",
+                  "category": "cultural",
+                  "coords": [
+                        9.469904,
+                        55.490663
+                  ]
+            },
+            {
+                  "name": "Kolding Inderfjord Vildtreservat",
+                  "text": "Kolding Inderfjord Vildtreservat is a nature reserve in Kolding.",
+                  "category": "natural",
+                  "coords": [
+                        9.502619,
+                        55.492135
+                  ]
+            },
+            {
+                  "name": "Borch’s house",
+                  "text": "Borch’s house is a tourist attraction in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.473328,
+                        55.490134
+                  ]
+            },
+            {
+                  "name": "Geografisk Have",
+                  "text": "Geografisk Have is a notable tourist attraction in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.493325,
+                        55.472611
+                  ]
+            },
+            {
+                  "name": "Gøhlmanns Mølle",
+                  "text": "Gøhlmanns Mølle is a tourist attraction in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.460871,
+                        55.500325
+                  ]
+            },
+            {
+                  "name": "Kolding Miniby",
+                  "text": "Kolding Miniby is a significant tourist attraction in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.490733,
+                        55.4721
+                  ]
+            },
+            {
+                  "name": "Drackmans bænk",
+                  "text": "Drackmans bænk is a viewpoint in Kolding.",
+                  "category": "natural",
+                  "coords": [
+                        9.490866,
+                        55.502967
+                  ]
+            },
+            {
+                  "name": "Spor i naturen",
+                  "text": "Spor i naturen is a tourist attraction in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.496444,
+                        55.488882
+                  ]
+            },
+            {
+                  "name": "SPACE / 宇宙",
+                  "text": "SPACE / 宇宙 is a gallery in Kolding.",
+                  "category": "museum",
+                  "coords": [
+                        9.461353,
+                        55.488154
+                  ]
+            },
+            {
+                  "name": "Legeparken",
+                  "text": "Legeparken is a tourist attraction in Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.479861,
+                        55.495361
+                  ]
+            },
+            {
+                  "name": "Marielundskilden",
+                  "text": "Marielundskilden is a notable natural spring located in the city of Kolding.",
+                  "category": "landmark",
+                  "coords": [
+                        9.48798,
+                        55.503746
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "Kristkirken is a prominent place of worship situated in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.469134,
+                        55.483247
+                  ]
+            },
+            {
+                  "name": "Kolding Kirkecenter",
+                  "text": "Kolding Kirkecenter is a recognized place of worship in the city of Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.461381,
+                        55.504759
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolai Kirke",
+                  "text": "Sankt Nicolai Kirke is a significant historical place of worship located in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.472163,
+                        55.490654
+                  ]
+            },
+            {
+                  "name": "Simon Peters Kirke",
+                  "text": "Simon Peters Kirke is a notable place of worship found in the city of Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.45849,
+                        55.499952
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Immanuelskirken is a local place of worship located in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.474072,
+                        55.479812
+                  ]
+            },
+            {
+                  "name": "Seest Kirke",
+                  "text": "Seest Kirke is a well-known place of worship situated in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.437511,
+                        55.483072
+                  ]
+            },
+            {
+                  "name": "Sankt Michaels Kirke",
+                  "text": "Sankt Michaels Kirke is a recognized Catholic place of worship in Kolding.",
+                  "category": "religious",
+                  "coords": [
+                        9.466371,
+                        55.486185
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [9.4731, 55.4904],
@@ -925,7 +12121,592 @@ export const denmarkCities: POI[] = [
  image: "/geo-images/denmark/frederikshavn.webp",
  },
   {
- id: "city-holstebro",
+ id: "city-holstebro", "sights": {
+      "de": [
+            {
+                  "name": "Blankhøje",
+                  "text": "Eine Gruppe prähistorischer Grabhügel in der Region Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.636258,
+                        56.338023
+                  ]
+            },
+            {
+                  "name": "Gaardhøje",
+                  "text": "Ein antiker Grabhügel, der Zeugnis von der frühen Besiedlung bei Holstebro ablegt.",
+                  "category": "historical",
+                  "coords": [
+                        8.590579,
+                        56.382053
+                  ]
+            },
+            {
+                  "name": "Bredhøj",
+                  "text": "Ein markanter historischer Grabhügel in der offenen Landschaft von Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.567652,
+                        56.360111
+                  ]
+            },
+            {
+                  "name": "Holstebro Museum",
+                  "text": "Das Museum präsentiert die lokale Kulturgeschichte und Kunst der Region Holstebro.",
+                  "category": "museum",
+                  "coords": [
+                        8.620926,
+                        56.353791
+                  ]
+            },
+            {
+                  "name": "Musikteatret Holstebro",
+                  "text": "Ein großes Kultur- und Theaterzentrum in Holstebro für Musik und Schauspiel.",
+                  "category": "cultural",
+                  "coords": [
+                        8.61678,
+                        56.356667
+                  ]
+            },
+            {
+                  "name": "Jens Nielsen & Olivia Holm-Møller Museet",
+                  "text": "Ein Museum, das den Werken von Jens Nielsen und Olivia Holm-Møller gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.611169,
+                        56.36423
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "Eine archäologische Stätte in Holstebro, deren Name auf einen historischen Galgenhügel hindeutet.",
+                  "category": "historical",
+                  "coords": [
+                        8.608007,
+                        56.343471
+                  ]
+            },
+            {
+                  "name": "Blankhøie",
+                  "text": "Überreste prähistorischer Grabhügel in der Umgebung von Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.633441,
+                        56.335927
+                  ]
+            },
+            {
+                  "name": "Baunhøje",
+                  "text": "Historische Grabhügel, die Teil der archäologischen Landschaft bei Holstebro sind.",
+                  "category": "historical",
+                  "coords": [
+                        8.600046,
+                        56.381355
+                  ]
+            },
+            {
+                  "name": "Abildhøj",
+                  "text": "Ein geschützter antiker Grabhügel in der Nähe der Stadt Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.629637,
+                        56.344106
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "Eine Freilichtbühne in Holstebro für sommerliche kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630587,
+                        56.361495
+                  ]
+            },
+            {
+                  "name": "Holstebro Lystanlæg",
+                  "text": "Ein weitläufiger Stadtpark in Holstebro mit Seen und Spazierwegen.",
+                  "category": "park",
+                  "coords": [
+                        8.628033,
+                        56.360884
+                  ]
+            },
+            {
+                  "name": "Holstebro Kirke",
+                  "text": "Die evangelisch-lutherische Hauptkirche von Holstebro mit ihrem markanten Turm.",
+                  "category": "religious",
+                  "coords": [
+                        8.616338,
+                        56.359368
+                  ]
+            },
+            {
+                  "name": "Måbjerg Kirke",
+                  "text": "Eine mittelalterliche Kirche im Dorf Måbjerg, heute Teil von Holstebro.",
+                  "category": "religious",
+                  "coords": [
+                        8.610958,
+                        56.385648
+                  ]
+            },
+            {
+                  "name": "Holstebro Valgmenighedskirke",
+                  "text": "Die Kirche der Holstebro Wahlgemeinde, eine eigenständige Glaubensgemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        8.613745,
+                        56.360595
+                  ]
+            },
+            {
+                  "name": "Mejdal Kirke",
+                  "text": "Die moderne Pfarrkirche des Stadtteils Mejdal in Holstebro.",
+                  "category": "religious",
+                  "coords": [
+                        8.642156,
+                        56.348438
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Blankhøje",
+                  "text": "Prehisztorikus sírhalmok csoportja Holstebro régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        8.636258,
+                        56.338023
+                  ]
+            },
+            {
+                  "name": "Gaardhøje",
+                  "text": "Ősi sírhalom, amely a Holstebro környéki korai letelepedésről tanúskodik.",
+                  "category": "historical",
+                  "coords": [
+                        8.590579,
+                        56.382053
+                  ]
+            },
+            {
+                  "name": "Bredhøj",
+                  "text": "Jellegzetes történelmi sírhalom Holstebro nyílt táján.",
+                  "category": "historical",
+                  "coords": [
+                        8.567652,
+                        56.360111
+                  ]
+            },
+            {
+                  "name": "Holstebro Museum",
+                  "text": "A múzeum Holstebro régió helyi kultúrtörténetét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.620926,
+                        56.353791
+                  ]
+            },
+            {
+                  "name": "Musikteatret Holstebro",
+                  "text": "Holstebro nagy kulturális és színházi központja zenei és színpadi előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        8.61678,
+                        56.356667
+                  ]
+            },
+            {
+                  "name": "Jens Nielsen & Olivia Holm-Møller Museet",
+                  "text": "Jens Nielsen és Olivia Holm-Møller munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        8.611169,
+                        56.36423
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "Régészeti lelőhely Holstebroban, amelynek neve egykori vesztőhelyre utal.",
+                  "category": "historical",
+                  "coords": [
+                        8.608007,
+                        56.343471
+                  ]
+            },
+            {
+                  "name": "Blankhøie",
+                  "text": "Prehisztorikus sírhalmok maradványai Holstebro környékén.",
+                  "category": "historical",
+                  "coords": [
+                        8.633441,
+                        56.335927
+                  ]
+            },
+            {
+                  "name": "Baunhøje",
+                  "text": "Történelmi sírhalmok, amelyek a Holstebro környéki régészeti táj részei.",
+                  "category": "historical",
+                  "coords": [
+                        8.600046,
+                        56.381355
+                  ]
+            },
+            {
+                  "name": "Abildhøj",
+                  "text": "Védett ősi sírhalom Holstebro városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        8.629637,
+                        56.344106
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "Szabadtéri színpad Holstebroban nyári kulturális rendezvényekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630587,
+                        56.361495
+                  ]
+            },
+            {
+                  "name": "Holstebro Lystanlæg",
+                  "text": "Kiterjedt városi park Holstebroban tavakkal és sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        8.628033,
+                        56.360884
+                  ]
+            },
+            {
+                  "name": "Holstebro Kirke",
+                  "text": "Holstebro fő evangélikus temploma jellegzetes tornyával.",
+                  "category": "religious",
+                  "coords": [
+                        8.616338,
+                        56.359368
+                  ]
+            },
+            {
+                  "name": "Måbjerg Kirke",
+                  "text": "Középkori templom Måbjerg faluban, amely ma Holstebro része.",
+                  "category": "religious",
+                  "coords": [
+                        8.610958,
+                        56.385648
+                  ]
+            },
+            {
+                  "name": "Holstebro Valgmenighedskirke",
+                  "text": "A Holstebro Választói Gyülekezet temploma, egy független hitéleti közösség.",
+                  "category": "religious",
+                  "coords": [
+                        8.613745,
+                        56.360595
+                  ]
+            },
+            {
+                  "name": "Mejdal Kirke",
+                  "text": "Holstebro Mejdal negyedének modern plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.642156,
+                        56.348438
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Blankhøje",
+                  "text": "Un grup de tumuli preistorici situați în regiunea Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.636258,
+                        56.338023
+                  ]
+            },
+            {
+                  "name": "Gaardhøje",
+                  "text": "Un tumul antic care atestă așezările timpurii de lângă Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.590579,
+                        56.382053
+                  ]
+            },
+            {
+                  "name": "Bredhøj",
+                  "text": "Un tumul istoric proeminent situat în peisajul deschis din Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.567652,
+                        56.360111
+                  ]
+            },
+            {
+                  "name": "Holstebro Museum",
+                  "text": "Muzeul prezintă istoria culturală locală și arta din regiunea Holstebro.",
+                  "category": "museum",
+                  "coords": [
+                        8.620926,
+                        56.353791
+                  ]
+            },
+            {
+                  "name": "Musikteatret Holstebro",
+                  "text": "Un centru cultural și teatral major din Holstebro pentru muzică și teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        8.61678,
+                        56.356667
+                  ]
+            },
+            {
+                  "name": "Jens Nielsen & Olivia Holm-Møller Museet",
+                  "text": "Un muzeu dedicat operelor lui Jens Nielsen și Olivia Holm-Møller.",
+                  "category": "museum",
+                  "coords": [
+                        8.611169,
+                        56.36423
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "Un sit arheologic în Holstebro, al cărui nume sugerează un istoric deal al spânzurătorii.",
+                  "category": "historical",
+                  "coords": [
+                        8.608007,
+                        56.343471
+                  ]
+            },
+            {
+                  "name": "Blankhøie",
+                  "text": "Rămășițe ale unor tumuli preistorici în împrejurimile orașului Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.633441,
+                        56.335927
+                  ]
+            },
+            {
+                  "name": "Baunhøje",
+                  "text": "Tumuli istorici care fac parte din peisajul arheologic de lângă Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.600046,
+                        56.381355
+                  ]
+            },
+            {
+                  "name": "Abildhøj",
+                  "text": "Un tumul antic protejat situat în apropierea orașului Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.629637,
+                        56.344106
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "O scenă în aer liber în Holstebro pentru evenimente culturale de vară.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630587,
+                        56.361495
+                  ]
+            },
+            {
+                  "name": "Holstebro Lystanlæg",
+                  "text": "Un parc orășenesc vast în Holstebro, cu lacuri și alei de plimbare.",
+                  "category": "park",
+                  "coords": [
+                        8.628033,
+                        56.360884
+                  ]
+            },
+            {
+                  "name": "Holstebro Kirke",
+                  "text": "Biserica principală evanghelică-lutherană din Holstebro, cu turnul său distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        8.616338,
+                        56.359368
+                  ]
+            },
+            {
+                  "name": "Måbjerg Kirke",
+                  "text": "O biserică medievală în satul Måbjerg, astăzi parte a orașului Holstebro.",
+                  "category": "religious",
+                  "coords": [
+                        8.610958,
+                        56.385648
+                  ]
+            },
+            {
+                  "name": "Holstebro Valgmenighedskirke",
+                  "text": "Biserica comunității libere din Holstebro, o congregație religioasă independentă.",
+                  "category": "religious",
+                  "coords": [
+                        8.613745,
+                        56.360595
+                  ]
+            },
+            {
+                  "name": "Mejdal Kirke",
+                  "text": "Biserica parohială modernă a cartierului Mejdal din Holstebro.",
+                  "category": "religious",
+                  "coords": [
+                        8.642156,
+                        56.348438
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Blankhøje",
+                  "text": "A group of prehistoric burial mounds located in the Holstebro region.",
+                  "category": "historical",
+                  "coords": [
+                        8.636258,
+                        56.338023
+                  ]
+            },
+            {
+                  "name": "Gaardhøje",
+                  "text": "An ancient burial mound testifying to early settlement near Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.590579,
+                        56.382053
+                  ]
+            },
+            {
+                  "name": "Bredhøj",
+                  "text": "A prominent historic burial mound in the open landscape of Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.567652,
+                        56.360111
+                  ]
+            },
+            {
+                  "name": "Holstebro Museum",
+                  "text": "The museum showcases local cultural history and art from the Holstebro region.",
+                  "category": "museum",
+                  "coords": [
+                        8.620926,
+                        56.353791
+                  ]
+            },
+            {
+                  "name": "Musikteatret Holstebro",
+                  "text": "A major cultural and theatre center in Holstebro for music and drama.",
+                  "category": "cultural",
+                  "coords": [
+                        8.61678,
+                        56.356667
+                  ]
+            },
+            {
+                  "name": "Jens Nielsen & Olivia Holm-Møller Museet",
+                  "text": "A museum dedicated to the works of Jens Nielsen and Olivia Holm-Møller.",
+                  "category": "museum",
+                  "coords": [
+                        8.611169,
+                        56.36423
+                  ]
+            },
+            {
+                  "name": "Galgehøj",
+                  "text": "An archaeological site in Holstebro, whose name suggests a historic gallows hill.",
+                  "category": "historical",
+                  "coords": [
+                        8.608007,
+                        56.343471
+                  ]
+            },
+            {
+                  "name": "Blankhøie",
+                  "text": "Remains of prehistoric burial mounds in the vicinity of Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.633441,
+                        56.335927
+                  ]
+            },
+            {
+                  "name": "Baunhøje",
+                  "text": "Historic burial mounds that are part of the archaeological landscape near Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.600046,
+                        56.381355
+                  ]
+            },
+            {
+                  "name": "Abildhøj",
+                  "text": "A protected ancient burial mound located near the town of Holstebro.",
+                  "category": "historical",
+                  "coords": [
+                        8.629637,
+                        56.344106
+                  ]
+            },
+            {
+                  "name": "Friluftsscenen",
+                  "text": "An open-air stage in Holstebro for summer cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630587,
+                        56.361495
+                  ]
+            },
+            {
+                  "name": "Holstebro Lystanlæg",
+                  "text": "A spacious city park in Holstebro featuring lakes and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        8.628033,
+                        56.360884
+                  ]
+            },
+            {
+                  "name": "Holstebro Kirke",
+                  "text": "The main Evangelical Lutheran church of Holstebro with its striking tower.",
+                  "category": "religious",
+                  "coords": [
+                        8.616338,
+                        56.359368
+                  ]
+            },
+            {
+                  "name": "Måbjerg Kirke",
+                  "text": "A medieval church in Måbjerg village, now part of Holstebro.",
+                  "category": "religious",
+                  "coords": [
+                        8.610958,
+                        56.385648
+                  ]
+            },
+            {
+                  "name": "Holstebro Valgmenighedskirke",
+                  "text": "The church of the Holstebro Electoral Congregation, an independent religious community.",
+                  "category": "religious",
+                  "coords": [
+                        8.613745,
+                        56.360595
+                  ]
+            },
+            {
+                  "name": "Mejdal Kirke",
+                  "text": "The modern parish church of the Mejdal district in Holstebro.",
+                  "category": "religious",
+                  "coords": [
+                        8.642156,
+                        56.348438
+                  ]
+            }
+      ]
+},
  type: "city",
  parent: "DK",
  coords: [8.6161, 56.3601],

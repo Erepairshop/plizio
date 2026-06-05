@@ -111,7 +111,88 @@ export const poiExtraBahamasRefill: POI[] = [
     },
   },
   {
-    id: "bs-clarence-town-refill",
+    id: "bs-clarence-town-refill", "sights": {
+      "de": [
+            {
+                  "name": "Dean's Blue Hole",
+                  "text": "Eines der tiefsten Unterwasser-Blauen-Löcher der Welt.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.008608,
+                        23.106344
+                  ]
+            },
+            {
+                  "name": "Gems At Paradise",
+                  "text": "Strandresort, das Entspannung in Clarence Town bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.985021,
+                        23.105012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dean's Blue Hole",
+                  "text": "A világ egyik legmélyebb víz alatti kék lyuka.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.008608,
+                        23.106344
+                  ]
+            },
+            {
+                  "name": "Gems At Paradise",
+                  "text": "Pihenést kínáló tengerparti üdülőhely Clarence Townban.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.985021,
+                        23.105012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dean's Blue Hole",
+                  "text": "Una dintre cele mai adânci găuri albastre submarine din lume.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.008608,
+                        23.106344
+                  ]
+            },
+            {
+                  "name": "Gems At Paradise",
+                  "text": "Complex turistic la plajă ce oferă relaxare în Clarence Town.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.985021,
+                        23.105012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dean's Blue Hole",
+                  "text": "One of the world's deepest underwater sinkholes.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.008608,
+                        23.106344
+                  ]
+            },
+            {
+                  "name": "Gems At Paradise",
+                  "text": "Beach resort offering relaxation in Clarence Town.",
+                  "category": "recreational",
+                  "coords": [
+                        -74.985021,
+                        23.105012
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BS-LI",
     coords: [-74.983, 23.1],
@@ -381,7 +462,88 @@ export const poiExtraBahamasRefill: POI[] = [
     },
   },
   {
-    id: "bs-matthew-town-refill",
+    id: "bs-matthew-town-refill", "sights": {
+      "de": [
+            {
+                  "name": "Great Inagua Light",
+                  "text": "Das Great Inagua Light ist ein lokaler Leuchtturm in Matthew Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.67421,
+                        20.93352
+                  ]
+            },
+            {
+                  "name": "Erickson Museum",
+                  "text": "Das Erickson Museum ist ein lokales Museum in Matthew Town.",
+                  "category": "museum",
+                  "coords": [
+                        -73.677127,
+                        20.951441
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Great Inagua Light",
+                  "text": "A Great Inagua Light egy helyi világítótorony Matthew Townban.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.67421,
+                        20.93352
+                  ]
+            },
+            {
+                  "name": "Erickson Museum",
+                  "text": "Az Erickson Museum egy helyi múzeum Matthew Townban.",
+                  "category": "museum",
+                  "coords": [
+                        -73.677127,
+                        20.951441
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Great Inagua Light",
+                  "text": "Great Inagua Light este un far local situat în Matthew Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.67421,
+                        20.93352
+                  ]
+            },
+            {
+                  "name": "Erickson Museum",
+                  "text": "Muzeul Erickson este un muzeu local situat în Matthew Town.",
+                  "category": "museum",
+                  "coords": [
+                        -73.677127,
+                        20.951441
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Great Inagua Light",
+                  "text": "Great Inagua Light is a local lighthouse situated in Matthew Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -73.67421,
+                        20.93352
+                  ]
+            },
+            {
+                  "name": "Erickson Museum",
+                  "text": "The Erickson Museum is a local museum located in Matthew Town.",
+                  "category": "museum",
+                  "coords": [
+                        -73.677127,
+                        20.951441
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BS-IN",
     coords: [-73.667, 20.95],
@@ -490,7 +652,88 @@ export const poiExtraBahamasRefill: POI[] = [
     },
   },
   {
-    id: "bs-nicolls-town-refill",
+    id: "bs-nicolls-town-refill", "sights": {
+      "de": [
+            {
+                  "name": "Conch Sound bleu hole",
+                  "text": "Das Conch Sound bleu hole ist ein Denkmal in Nicolls Town.",
+                  "category": "historical",
+                  "coords": [
+                        -77.999767,
+                        25.115641
+                  ]
+            },
+            {
+                  "name": "Conch Sounds Oceanic Blue Hole",
+                  "text": "Das Conch Sounds Oceanic Blue Hole ist eine lokale Touristenattraktion in Nicolls Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.000565,
+                        25.114688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Conch Sound bleu hole",
+                  "text": "A Conch Sound bleu hole egy emlékmű Nicolls Townban.",
+                  "category": "historical",
+                  "coords": [
+                        -77.999767,
+                        25.115641
+                  ]
+            },
+            {
+                  "name": "Conch Sounds Oceanic Blue Hole",
+                  "text": "A Conch Sounds Oceanic Blue Hole egy helyi turisztikai látványosság Nicolls Townban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.000565,
+                        25.114688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Conch Sound bleu hole",
+                  "text": "Conch Sound bleu hole este un monument situat în Nicolls Town.",
+                  "category": "historical",
+                  "coords": [
+                        -77.999767,
+                        25.115641
+                  ]
+            },
+            {
+                  "name": "Conch Sounds Oceanic Blue Hole",
+                  "text": "Conch Sounds Oceanic Blue Hole este o atracție turistică locală în Nicolls Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.000565,
+                        25.114688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Conch Sound bleu hole",
+                  "text": "Conch Sound bleu hole is a monument located in Nicolls Town.",
+                  "category": "historical",
+                  "coords": [
+                        -77.999767,
+                        25.115641
+                  ]
+            },
+            {
+                  "name": "Conch Sounds Oceanic Blue Hole",
+                  "text": "Conch Sounds Oceanic Blue Hole is a local tourist attraction in Nicolls Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.000565,
+                        25.114688
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BS-NO",
     coords: [-78.01, 25.1],

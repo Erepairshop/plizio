@@ -83,7 +83,160 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Elle fait partie de la zone métropolitaine de Montevideo.", "L'infrastructure a été modernisée grâce au projet « Costa Plan ».", "Le littoral s'étend sur environ 16 kilomètres.", "Le département de Canelones est réputé pour sa viticulture.", "Forte croissance démographique depuis les années 1990.", "La Ruta Interbalnearia est un axe de transport majeur."],
     }, image: "/poi-images/ciudad-de-la-costa-cities-v2.webp"},
   {
-    id: "las-piedras-cities-v2",
+    id: "las-piedras-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Julio Sosa",
+                  "text": "Dieses Museum ist dem berühmten uruguayischen Tangosänger Julio Sosa gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -56.201396,
+                        -34.7262
+                  ]
+            },
+            {
+                  "name": "Casona Afcrami",
+                  "text": "Die Casona Afcrami ist ein bemerkenswertes historisches Gebäude in Las Piedras.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.217258,
+                        -34.721109
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "Ein Wahrzeichen oder Platz, der den Namen der Stadt Las Piedras trägt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.245153,
+                        -34.7212
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Eine historische Windmühle, die von der landwirtschaftlichen Vergangenheit von Las Piedras zeugt.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223515,
+                        -34.734445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Julio Sosa",
+                  "text": "Ez a múzeum Julio Sosának, a híres uruguayi tangóénekesnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -56.201396,
+                        -34.7262
+                  ]
+            },
+            {
+                  "name": "Casona Afcrami",
+                  "text": "A Casona Afcrami egy figyelemre méltó történelmi épület Las Piedrasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.217258,
+                        -34.721109
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "A város nevét viselő jellegzetes helyszín vagy tér Las Piedrasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.245153,
+                        -34.7212
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "Egy történelmi szélmalom, amely Las Piedras mezőgazdasági múltjáról tanúskodik.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223515,
+                        -34.734445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Julio Sosa",
+                  "text": "Acest muzeu este dedicat celebrului cântăreț de tango uruguayan Julio Sosa.",
+                  "category": "museum",
+                  "coords": [
+                        -56.201396,
+                        -34.7262
+                  ]
+            },
+            {
+                  "name": "Casona Afcrami",
+                  "text": "Casona Afcrami este o clădire istorică remarcabilă din Las Piedras.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.217258,
+                        -34.721109
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "Un punct de reper sau o piață care poartă numele orașului Las Piedras.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.245153,
+                        -34.7212
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "O moară de vânt istorică ce atestă trecutul agricol al localității Las Piedras.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223515,
+                        -34.734445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Julio Sosa",
+                  "text": "This museum is dedicated to the famous Uruguayan tango singer Julio Sosa.",
+                  "category": "museum",
+                  "coords": [
+                        -56.201396,
+                        -34.7262
+                  ]
+            },
+            {
+                  "name": "Casona Afcrami",
+                  "text": "Casona Afcrami is a notable historical building in Las Piedras.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.217258,
+                        -34.721109
+                  ]
+            },
+            {
+                  "name": "Las Piedras",
+                  "text": "A landmark or square bearing the name of the city of Las Piedras.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.245153,
+                        -34.7212
+                  ]
+            },
+            {
+                  "name": "Molino",
+                  "text": "A historical windmill testifying to the agricultural past of Las Piedras.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.223515,
+                        -34.734445
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CA",
     coords: [-56.2167, -34.7167],
@@ -126,7 +279,52 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Lieu de la bataille historique de 1811.", "Centre de la région viticole de Canelones.", "La ville est l'une des plus peuplées de Canelones.", "On y trouve un monument important dédié aux héros de l'indépendance.", "L'économie locale repose fortement sur la transformation alimentaire.", "La ville est située à proximité de la limite avec le département de Montevideo."],
     }, image: "/poi-images/las-piedras-cities-v2.webp"},
   {
-    id: "pando-cities-v2",
+    id: "pando-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pando",
+                  "text": "Pando ist eine Industrie- und Handelsstadt in Uruguay, die als wichtiger Verkehrsknotenpunkt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.963963,
+                        -34.726949
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pando",
+                  "text": "Pando egy ipari és kereskedelmi város Uruguayban, amely fontos közlekedési csomópontként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.963963,
+                        -34.726949
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pando",
+                  "text": "Pando este un oraș industrial și comercial din Uruguay, cunoscut ca un important nod de transport.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.963963,
+                        -34.726949
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pando",
+                  "text": "Pando is an industrial and commercial city in Uruguay, known as an important transport hub.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.963963,
+                        -34.726949
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CA",
     coords: [-55.95, -34.7167],
@@ -236,7 +434,52 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Founded on June 10, 1782, as Villa de Nuestra Señora de Guadalupe.", "It is the historical site where the first Uruguayan flag was raised in 1828.", "The city served as the meeting place for the nation's first constituent assembly.", "Canelones is the epicenter of Uruguay's wine industry, famous for Tannat.", "The Cathedral of Our Lady of Guadalupe is a major architectural landmark.", "The city is a key part of the Montevideo metropolitan area.", "It is surrounded by the most productive agricultural land in Uruguay.", "Canelones hosted the first provisional government of the Oriental Republic."],
     }, image: "/poi-images/canelones-cities-v2.webp"},
   {
-    id: "santa-lucia-cities-v2",
+    id: "santa-lucia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Quinta Capurro",
+                  "text": "Quinta Capurro ist ein malerischer Park in Santa Lucía.",
+                  "category": "park",
+                  "coords": [
+                        -56.382538,
+                        -34.450043
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Quinta Capurro",
+                  "text": "A Quinta Capurro egy festői park Santa Lucía városában.",
+                  "category": "park",
+                  "coords": [
+                        -56.382538,
+                        -34.450043
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Quinta Capurro",
+                  "text": "Quinta Capurro este un parc pitoresc situat în Santa Lucía.",
+                  "category": "park",
+                  "coords": [
+                        -56.382538,
+                        -34.450043
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Quinta Capurro",
+                  "text": "Quinta Capurro is a scenic park located in Santa Lucía.",
+                  "category": "park",
+                  "coords": [
+                        -56.382538,
+                        -34.450043
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CA",
     coords: [-56.3833, -34.45],
@@ -322,7 +565,52 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Progreso offre un aperçu authentique de la culture et des traditions régionales.", "La ville se distingue par sa variété architecturale et son poids historique.", "Les environs proposent de nombreuses opportunités pour les activités de plein air."],
     }, image: "/poi-images/progreso-cities-v2.webp"},
   {
-    id: "paso-carrasco-cities-v2",
+    id: "paso-carrasco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "Dieser Park in Paso Carrasco beherbergt ein Museum, das Kutschen und historischen Transportmitteln gewidmet ist.",
+                  "category": "park",
+                  "coords": [
+                        -56.061344,
+                        -34.86492
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "Ez a Paso Carrascó-i park egy múzeumnak ad otthont, amelyet lovas kocsiknak és történelmi közlekedési eszközöknek szenteltek.",
+                  "category": "park",
+                  "coords": [
+                        -56.061344,
+                        -34.86492
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "Acest parc din Paso Carrasco include un muzeu dedicat trăsurilor trase de cai și transportului istoric.",
+                  "category": "park",
+                  "coords": [
+                        -56.061344,
+                        -34.86492
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Fernando Garcia",
+                  "text": "This park in Paso Carrasco features a museum dedicated to horse-drawn carriages and historic transportation.",
+                  "category": "park",
+                  "coords": [
+                        -56.061344,
+                        -34.86492
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CA",
     coords: [-56.0333, -34.85],
@@ -452,7 +740,124 @@ export const poiExtraUruguayCitiesV2: POI[] = [
     },
   },
   {
-    id: "sauce-cities-v2",
+    id: "sauce-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro Cultural Casa de Artigas",
+                  "text": "Dieses Museum befindet sich im ehemaligen Wohnhaus des Nationalhelden José Artigas und bewahrt die Geschichte Uruguays.",
+                  "category": "museum",
+                  "coords": [
+                        -56.065119,
+                        -34.650295
+                  ]
+            },
+            {
+                  "name": "Centro de Artes ESCAPARATE",
+                  "text": "Ein lokaler Kulturort in Sauce, der den darstellenden Künsten und gemeinschaftlichen kreativen Projekten gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.063459,
+                        -34.649563
+                  ]
+            },
+            {
+                  "name": "Parque Artigas Sauce",
+                  "text": "Ein großer öffentlicher Park in Sauce, der nach José Artigas benannt ist und Grünflächen sowie Erholungsbereiche bietet.",
+                  "category": "park",
+                  "coords": [
+                        -56.073485,
+                        -34.653637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro Cultural Casa de Artigas",
+                  "text": "A nemzeti hős, José Artigas egykori házában található múzeum Uruguay történelmét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -56.065119,
+                        -34.650295
+                  ]
+            },
+            {
+                  "name": "Centro de Artes ESCAPARATE",
+                  "text": "Helyi kulturális helyszín Sauce-ban, amelyet az előadóművészeteknek és közösségi kreatív projekteknek szenteltek.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.063459,
+                        -34.649563
+                  ]
+            },
+            {
+                  "name": "Parque Artigas Sauce",
+                  "text": "Egy nagy nyilvános park Sauce-ban, amelyet José Artigasról neveztek el, és zöldfelületeket, valamint pihenőhelyeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        -56.073485,
+                        -34.653637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro Cultural Casa de Artigas",
+                  "text": "Situat în fosta casă a eroului național José Artigas, acest muzeu păstrează istoria uruguayană.",
+                  "category": "museum",
+                  "coords": [
+                        -56.065119,
+                        -34.650295
+                  ]
+            },
+            {
+                  "name": "Centro de Artes ESCAPARATE",
+                  "text": "Un loc cultural local din Sauce dedicat artelor spectacolului și proiectelor creative comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.063459,
+                        -34.649563
+                  ]
+            },
+            {
+                  "name": "Parque Artigas Sauce",
+                  "text": "Un parc public mare din Sauce, numit după José Artigas, care oferă spații verzi și zone de recreere.",
+                  "category": "park",
+                  "coords": [
+                        -56.073485,
+                        -34.653637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro Cultural Casa de Artigas",
+                  "text": "Located in the former home of national hero José Artigas, this museum preserves Uruguayan history.",
+                  "category": "museum",
+                  "coords": [
+                        -56.065119,
+                        -34.650295
+                  ]
+            },
+            {
+                  "name": "Centro de Artes ESCAPARATE",
+                  "text": "A local cultural venue in Sauce dedicated to the performing arts and community creative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        -56.063459,
+                        -34.649563
+                  ]
+            },
+            {
+                  "name": "Parque Artigas Sauce",
+                  "text": "A large public park in Sauce named after José Artigas, offering green spaces and recreational areas.",
+                  "category": "park",
+                  "coords": [
+                        -56.073485,
+                        -34.653637
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CA",
     coords: [-56.0667, -34.65],
@@ -538,7 +943,52 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["San Ramón offre un aperçu approfondi de la culture et des traditions régionales.", "La ville se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouvent dans les environs de San Ramón de multiples possibilités de loisirs actifs."],
     }, image: "/poi-images/san-ramon-cities-v2.webp"},
   {
-    id: "san-jacinto-cities-v2",
+    id: "san-jacinto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "San Jacinto",
+                  "text": "Ein zentraler Ort oder eine Sehenswürdigkeit in der Stadt San Jacinto.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.873141,
+                        -34.547088
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "San Jacinto",
+                  "text": "Központi helyszín vagy látnivaló San Jacinto városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.873141,
+                        -34.547088
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "San Jacinto",
+                  "text": "Un loc central sau o atracție din orașul San Jacinto.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.873141,
+                        -34.547088
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Jacinto",
+                  "text": "A central location or attraction in the city of San Jacinto.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.873141,
+                        -34.547088
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CA",
     coords: [-55.8833, -34.55],
@@ -624,7 +1074,232 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Toledo offre un aperçu approfondi de la culture et des traditions régionales.", "La ville se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouvent dans les environs de Toledo diverses possibilités de loisirs actifs."],
     }, image: "/poi-images/toledo-cities-v2.webp"},
   {
-    id: "atlantida-cities-v2",
+    id: "atlantida-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro AlSur",
+                  "text": "Das Teatro AlSur ist ein lokales Theater in Atlantida.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "Der Zoo von Atlántida bietet Tierausstellungen in der Stadt Atlantida.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752631,
+                        -34.776218
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "El Águila ist ein bekannter Park mit einem adlerförmigen Steingebäude nahe Atlantida.",
+                  "category": "park",
+                  "coords": [
+                        -55.778306,
+                        -34.770854
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "Die Atlantida-Buchstaben dienen als beliebtes Fotomotiv in der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "Expoplatea ist eine beliebte Freiluftattraktion in Atlantida.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763322,
+                        -34.775477
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "Die Kirche Christi des Arbeiters ist ein architektonisch beeindruckendes Gotteshaus in Atlantida.",
+                  "category": "religious",
+                  "coords": [
+                        -55.766368,
+                        -34.743939
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro AlSur",
+                  "text": "A Teatro AlSur egy helyi színház Atlantidában.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "Az Atlántida Állatkert állatkiállításokat kínál Atlantida városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752631,
+                        -34.776218
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "Az El Águila egy figyelemre méltó park egy sas alakú kőépülettel Atlantida közelében.",
+                  "category": "park",
+                  "coords": [
+                        -55.778306,
+                        -34.770854
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "Az Atlantida felirat népszerű fotózási látványosságként szolgál a városban.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "Az Expoplatea egy népszerű szabadtéri látványosság Atlantidában.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763322,
+                        -34.775477
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "A Munkás Krisztus-templom egy lenyűgöző építészeti istentiszteleti hely Atlantidában.",
+                  "category": "religious",
+                  "coords": [
+                        -55.766368,
+                        -34.743939
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro AlSur",
+                  "text": "Teatro AlSur este un teatru local din Atlantida.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "Grădina Zoologică din Atlántida oferă expoziții de animale în orașul Atlantida.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752631,
+                        -34.776218
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "El Águila este un parc notabil care include o clădire din piatră în formă de vultur lângă Atlantida.",
+                  "category": "park",
+                  "coords": [
+                        -55.778306,
+                        -34.770854
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "Literele Atlantida reprezintă o atracție fotografică populară în oraș.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "Expoplatea este o atracție populară în aer liber din Atlantida.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763322,
+                        -34.775477
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "Biserica Hristos Muncitorul este un lăcaș de cult arhitectural remarcabil din Atlantida.",
+                  "category": "religious",
+                  "coords": [
+                        -55.766368,
+                        -34.743939
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro AlSur",
+                  "text": "Teatro AlSur is a local theatre venue in Atlantida.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.758114,
+                        -34.774202
+                  ]
+            },
+            {
+                  "name": "Zoologico de Atlántida",
+                  "text": "The Zoo of Atlántida offers animal exhibits in the city of Atlantida.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.752631,
+                        -34.776218
+                  ]
+            },
+            {
+                  "name": "Parque El Águila",
+                  "text": "El Águila is a notable park featuring an eagle-shaped stone building near Atlantida.",
+                  "category": "park",
+                  "coords": [
+                        -55.778306,
+                        -34.770854
+                  ]
+            },
+            {
+                  "name": "Letras de Atlántida",
+                  "text": "The Atlantida letters serve as a popular photographic attraction in the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.765941,
+                        -34.767339
+                  ]
+            },
+            {
+                  "name": "Expoplatea de Atlántida",
+                  "text": "Expoplatea is a popular outdoor attraction in Atlantida.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.763322,
+                        -34.775477
+                  ]
+            },
+            {
+                  "name": "Parroquia Cristo Obrero",
+                  "text": "The Church of Christ the Worker is a striking architectural place of worship in Atlantida.",
+                  "category": "religious",
+                  "coords": [
+                        -55.766368,
+                        -34.743939
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CA",
     coords: [-55.7667, -34.7667],
@@ -704,7 +1379,412 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Founded in 1755 by the Governor of Montevideo, Joaquín de Viana.", "Home to the Torre del Vigía, built between 1794 and 1797.", "The San Fernando Cathedral features a prominent neoclassical facade.", "Maldonado is the capital of the department with the same name.", "The city experienced a massive growth spurt starting in the 1980s.", "It served as a base for Spanish troops in the late 18th century.", "The Cuartel de Dragones dates back to 1771.", "Located approximately 130 kilometers east of Montevideo."],
     }, image: "/poi-images/maldonado-cities-v2.webp"},
   {
-    id: "punta-del-este-cities-v2",
+    id: "punta-del-este-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Punta del Este",
+                  "text": "Dieser 1860 erbaute Leuchtturm ist ein Wahrzeichen des berühmten Badeortes Punta del Este.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951642,
+                        -34.968863
+                  ]
+            },
+            {
+                  "name": "La Mano",
+                  "text": "Die berühmte Skulptur einer aus dem Sand ragenden Hand am Strand Brava.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957892
+                  ]
+            },
+            {
+                  "name": "Mirador Punta de Salinas",
+                  "text": "Ein Aussichtspunkt am südlichsten Punkt Uruguays, wo der Río de la Plata auf den Ozean trifft.",
+                  "category": "natural",
+                  "coords": [
+                        -54.951963,
+                        -34.973355
+                  ]
+            },
+            {
+                  "name": "Vista 4 mares",
+                  "text": "Eine Sehenswürdigkeit in Punta del Este.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951175,
+                        -34.967622
+                  ]
+            },
+            {
+                  "name": "Muelle La Pastora",
+                  "text": "Ein Aussichtspunkt in Punta del Este.",
+                  "category": "natural",
+                  "coords": [
+                        -54.942055,
+                        -34.951868
+                  ]
+            },
+            {
+                  "name": "Montepilatus",
+                  "text": "Eine Kunstgalerie in Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951008
+                  ]
+            },
+            {
+                  "name": "La Vista",
+                  "text": "Eine Galerie in Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.94012,
+                        -34.957209
+                  ]
+            },
+            {
+                  "name": "Guerra",
+                  "text": "Eine Kunstgalerie in Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.949041,
+                        -34.965454
+                  ]
+            },
+            {
+                  "name": "Batería de La Concepción",
+                  "text": "Historische Ruinen in Punta del Este.",
+                  "category": "historical",
+                  "coords": [
+                        -54.972624,
+                        -34.949989
+                  ]
+            },
+            {
+                  "name": "Batería de Santa Ana",
+                  "text": "Historische Ruinen in Punta del Este.",
+                  "category": "historical",
+                  "coords": [
+                        -54.975692,
+                        -34.951855
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Candelaria",
+                  "text": "Eine bedeutende katholische Kirche in Punta del Este mit einer markanten Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        -54.950488,
+                        -34.96899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Punta del Este",
+                  "text": "Ez az 1860-ban épült világítótorony a híres üdülőhely, Punta del Este egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951642,
+                        -34.968863
+                  ]
+            },
+            {
+                  "name": "La Mano",
+                  "text": "A híres, homokból kiemelkedő kezet ábrázoló szobor a Brava-strandon.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957892
+                  ]
+            },
+            {
+                  "name": "Mirador Punta de Salinas",
+                  "text": "Kilátópont Uruguay legdélebbi pontján, ahol a Río de la Plata találkozik az óceánnal.",
+                  "category": "natural",
+                  "coords": [
+                        -54.951963,
+                        -34.973355
+                  ]
+            },
+            {
+                  "name": "Vista 4 mares",
+                  "text": "Látványosság Punta del Este városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951175,
+                        -34.967622
+                  ]
+            },
+            {
+                  "name": "Muelle La Pastora",
+                  "text": "Kilátópont Punta del Este városában.",
+                  "category": "natural",
+                  "coords": [
+                        -54.942055,
+                        -34.951868
+                  ]
+            },
+            {
+                  "name": "Montepilatus",
+                  "text": "Művészeti galéria Punta del Este városában.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951008
+                  ]
+            },
+            {
+                  "name": "La Vista",
+                  "text": "Galéria Punta del Este városában.",
+                  "category": "museum",
+                  "coords": [
+                        -54.94012,
+                        -34.957209
+                  ]
+            },
+            {
+                  "name": "Guerra",
+                  "text": "Művészeti galéria Punta del Este városában.",
+                  "category": "museum",
+                  "coords": [
+                        -54.949041,
+                        -34.965454
+                  ]
+            },
+            {
+                  "name": "Batería de La Concepción",
+                  "text": "Történelmi romok Punta del Este városában.",
+                  "category": "historical",
+                  "coords": [
+                        -54.972624,
+                        -34.949989
+                  ]
+            },
+            {
+                  "name": "Batería de Santa Ana",
+                  "text": "Történelmi romok Punta del Este városában.",
+                  "category": "historical",
+                  "coords": [
+                        -54.975692,
+                        -34.951855
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Candelaria",
+                  "text": "Punta del Este jelentős katolikus temploma, amely jellegzetes homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -54.950488,
+                        -34.96899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Punta del Este",
+                  "text": "Acest far, construit în 1860, este un simbol al faimoasei stațiuni Punta del Este.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951642,
+                        -34.968863
+                  ]
+            },
+            {
+                  "name": "La Mano",
+                  "text": "Celebra sculptură a unei mâini care iese din nisip, situată pe plaja Brava.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957892
+                  ]
+            },
+            {
+                  "name": "Mirador Punta de Salinas",
+                  "text": "Un punct de observare în cel mai sudic punct al Uruguayului, unde Río de la Plata se întâlnește cu oceanul.",
+                  "category": "natural",
+                  "coords": [
+                        -54.951963,
+                        -34.973355
+                  ]
+            },
+            {
+                  "name": "Vista 4 mares",
+                  "text": "O atracție în Punta del Este.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951175,
+                        -34.967622
+                  ]
+            },
+            {
+                  "name": "Muelle La Pastora",
+                  "text": "Un punct de belvedere în Punta del Este.",
+                  "category": "natural",
+                  "coords": [
+                        -54.942055,
+                        -34.951868
+                  ]
+            },
+            {
+                  "name": "Montepilatus",
+                  "text": "O galerie de artă în Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951008
+                  ]
+            },
+            {
+                  "name": "La Vista",
+                  "text": "O galerie în Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.94012,
+                        -34.957209
+                  ]
+            },
+            {
+                  "name": "Guerra",
+                  "text": "O galerie în Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.949041,
+                        -34.965454
+                  ]
+            },
+            {
+                  "name": "Batería de La Concepción",
+                  "text": "Ruine istorice în Punta del Este.",
+                  "category": "historical",
+                  "coords": [
+                        -54.972624,
+                        -34.949989
+                  ]
+            },
+            {
+                  "name": "Batería de Santa Ana",
+                  "text": "Ruine în Punta del Este.",
+                  "category": "historical",
+                  "coords": [
+                        -54.975692,
+                        -34.951855
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Candelaria",
+                  "text": "O biserică catolică proeminentă din Punta del Este, cunoscută pentru fațada sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        -54.950488,
+                        -34.96899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Punta del Este",
+                  "text": "Built in 1860, this lighthouse is a landmark of the famous resort Punta del Este.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951642,
+                        -34.968863
+                  ]
+            },
+            {
+                  "name": "The Hand",
+                  "text": "The famous sculpture of a hand emerging from the sand at Brava Beach.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.937291,
+                        -34.957892
+                  ]
+            },
+            {
+                  "name": "Mirador Punta de Salinas",
+                  "text": "A viewpoint at the southernmost point of Uruguay, where the Río de la Plata meets the ocean.",
+                  "category": "natural",
+                  "coords": [
+                        -54.951963,
+                        -34.973355
+                  ]
+            },
+            {
+                  "name": "Vista 4 mares",
+                  "text": "A tourist attraction in Punta del Este.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.951175,
+                        -34.967622
+                  ]
+            },
+            {
+                  "name": "Sunset point",
+                  "text": "A viewpoint in Punta del Este.",
+                  "category": "natural",
+                  "coords": [
+                        -54.942055,
+                        -34.951868
+                  ]
+            },
+            {
+                  "name": "Montepilatus",
+                  "text": "An art gallery in Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.930734,
+                        -34.951008
+                  ]
+            },
+            {
+                  "name": "La Vista",
+                  "text": "A gallery in Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.94012,
+                        -34.957209
+                  ]
+            },
+            {
+                  "name": "Guerra",
+                  "text": "A gallery in Punta del Este.",
+                  "category": "museum",
+                  "coords": [
+                        -54.949041,
+                        -34.965454
+                  ]
+            },
+            {
+                  "name": "Conception's Battery",
+                  "text": "Historical ruins in Punta del Este.",
+                  "category": "historical",
+                  "coords": [
+                        -54.972624,
+                        -34.949989
+                  ]
+            },
+            {
+                  "name": "Saint Ana's Battery",
+                  "text": "Historical ruins in Punta del Este.",
+                  "category": "historical",
+                  "coords": [
+                        -54.975692,
+                        -34.951855
+                  ]
+            },
+            {
+                  "name": "Iglesia de la Candelaria",
+                  "text": "A prominent Catholic church in Punta del Este known for its distinctive facade.",
+                  "category": "religious",
+                  "coords": [
+                        -54.950488,
+                        -34.96899
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-MA",
     coords: [-54.95, -34.9667],
@@ -777,7 +1857,340 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["The area was established centuries ago as a key trading post.", "Local landmarks highlight the significant historical events that shaped the region.", "The community continues to preserve its traditional crafts and customs."]
     }, image: "/poi-images/san-carlos-cities-v2.webp"},
   {
-    id: "piriapolis-cities-v2",
+    id: "piriapolis-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Dieses Museum in Piriápolis zeigt die Geschichte des Schienenverkehrs in Uruguay und der lokalen Region.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "Ein Kunstraum in Piriápolis mit zeitgenössischen Werken und ausstellungen von lokalen und regionalen Künstlern.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "Ein historischer Veranstaltungsort in Piriápolis, der für seine schöne Architektur und kulturellen Veranstaltungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Cerro San Antonio",
+                  "text": "Ein beliebter Hügel in Piriápolis mit einer Kapelle auf dem Gipfel und einem Panoramablick auf die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -55.274025,
+                        -34.878172
+                  ]
+            },
+            {
+                  "name": "Cerro del Toro",
+                  "text": "Ein Hügel in Piriápolis, der für die Quelle des Stiers bekannt ist, eine Bronzestatue, aus der natürliches Wasser fließt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.252519,
+                        -34.863546
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio",
+                  "text": "Einer der Küstenhügel in Piriápolis, der einen natürlichen Aussichtspunkt zum Wandern und Beobachten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -55.265031,
+                        -34.877724
+                  ]
+            },
+            {
+                  "name": "Cerro del Tambo",
+                  "text": "Ein Hügel bei Piriápolis, der Teil der vielfältigen Küstenlandschaft der Region ist.",
+                  "category": "natural",
+                  "coords": [
+                        -55.253367,
+                        -34.872958
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "Dieser Ort bietet einen weiten und schönen Blick auf den Hauptstrand und die Uferpromenade von Piriápolis.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            },
+            {
+                  "name": "Camino Corta Fuego",
+                  "text": "Ein malerischer Fußweg in Piriápolis, der ursprünglich als Brandschutzstreifen angelegt wurde.",
+                  "category": "natural",
+                  "coords": [
+                        -55.260107,
+                        -34.869455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Ez a piriápolisi múzeum Uruguay és a környék vasúti közlekedésének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "Művészeti tér Piriápolisban, amely helyi és regionális művészek kortárs alkotásait és kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "Történelmi előadóhely Piriápolisban, amely gyönyörű építészetéről és kulturális eseményeiről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Cerro San Antonio",
+                  "text": "Népszerű domb Piriápolisban, melynek tetején kápolna és a tengerpartra nyíló panoráma várja a látogatókat.",
+                  "category": "natural",
+                  "coords": [
+                        -55.274025,
+                        -34.878172
+                  ]
+            },
+            {
+                  "name": "Cerro del Toro",
+                  "text": "Piriápolisi domb, amely a Bika forrásáról híres; ez egy bronzszobor, amelyből természetes víz folyik.",
+                  "category": "natural",
+                  "coords": [
+                        -55.252519,
+                        -34.863546
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio",
+                  "text": "Piriápolis egyik tengerparti dombja, amely természetes helyszínt biztosít a túrázáshoz és a nézelődéshez.",
+                  "category": "natural",
+                  "coords": [
+                        -55.265031,
+                        -34.877724
+                  ]
+            },
+            {
+                  "name": "Cerro del Tambo",
+                  "text": "Piriápolis közeli domb, amely a régió változatos tengerparti tájának részét képezi.",
+                  "category": "natural",
+                  "coords": [
+                        -55.253367,
+                        -34.872958
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "Erről a helyről tágas és gyönyörű kilátás nyílik Piriápolis fő strandjára és vízpartjára.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            },
+            {
+                  "name": "Camino Corta Fuego",
+                  "text": "Festői sétány Piriápolisban, amelyet eredetileg tűzvédelmi sávként hoztak létre, ma gyönyörű kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        -55.260107,
+                        -34.869455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "Acest muzeu din Piriápolis prezintă istoria transportului feroviar din Uruguay și din zona locală.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "Un spațiu de artă din Piriápolis care prezintă lucrări contemporane și expoziții ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "Un loc istoric de spectacole din Piriápolis, cunoscut pentru arhitectura sa frumoasă și evenimentele culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Cerro San Antonio",
+                  "text": "Un deal popular din Piriápolis, care oferă o capelă pe vârful său și vederi panoramice ale coastei.",
+                  "category": "natural",
+                  "coords": [
+                        -55.274025,
+                        -34.878172
+                  ]
+            },
+            {
+                  "name": "Cerro del Toro",
+                  "text": "Un deal din Piriápolis renumit pentru Izvorul Taurului, o statuie de bronz din care curge apă naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -55.252519,
+                        -34.863546
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio",
+                  "text": "Unul dintre dealurile de coastă din Piriápolis, oferind un punct natural pitoresc pentru drumeții și observație.",
+                  "category": "natural",
+                  "coords": [
+                        -55.265031,
+                        -34.877724
+                  ]
+            },
+            {
+                  "name": "Cerro del Tambo",
+                  "text": "Un deal lângă Piriápolis care face parte din peisajul de coastă divers al regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -55.253367,
+                        -34.872958
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "Această locație oferă o vedere largă și frumoasă asupra plajei principale și a falezei din Piriápolis.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            },
+            {
+                  "name": "Camino Corta Fuego",
+                  "text": "O alee pitorească din Piriápolis creată inițial ca barieră împotriva incendiilor, oferind acum vederi frumoase.",
+                  "category": "natural",
+                  "coords": [
+                        -55.260107,
+                        -34.869455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Ferroviario",
+                  "text": "This museum in Piriápolis showcases the history of rail transport in Uruguay and the local area.",
+                  "category": "museum",
+                  "coords": [
+                        -55.277254,
+                        -34.863988
+                  ]
+            },
+            {
+                  "name": "Museo de Arte de Piriápolis - Les Mouettes",
+                  "text": "An art space in Piriápolis featuring contemporary works and exhibitions by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        -55.275357,
+                        -34.872735
+                  ]
+            },
+            {
+                  "name": "Pabellón de las Rosas",
+                  "text": "A historic performance venue in Piriápolis known for its beautiful architecture and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.278606,
+                        -34.86212
+                  ]
+            },
+            {
+                  "name": "Cerro San Antonio",
+                  "text": "A popular hill in Piriápolis offering a chapel at its summit and panoramic views of the coastline.",
+                  "category": "natural",
+                  "coords": [
+                        -55.274025,
+                        -34.878172
+                  ]
+            },
+            {
+                  "name": "Cerro del Toro",
+                  "text": "A hill in Piriápolis famous for the 'Source of the Bull,' a bronze statue from which natural water flows.",
+                  "category": "natural",
+                  "coords": [
+                        -55.252519,
+                        -34.863546
+                  ]
+            },
+            {
+                  "name": "Cerro del Indio",
+                  "text": "One of the coastal hills in Piriápolis, providing a natural scenic spot for hiking and observation.",
+                  "category": "natural",
+                  "coords": [
+                        -55.265031,
+                        -34.877724
+                  ]
+            },
+            {
+                  "name": "Cerro del Tambo",
+                  "text": "A hill near Piriápolis that forms part of the region's diverse coastal landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -55.253367,
+                        -34.872958
+                  ]
+            },
+            {
+                  "name": "Vista panoramica de Playa de Piriápolis",
+                  "text": "This location offers a wide and beautiful vista of the main beach and waterfront in Piriápolis.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.276938,
+                        -34.872222
+                  ]
+            },
+            {
+                  "name": "Walking hallway (created to stop wildfires)",
+                  "text": "A scenic walkway in Piriápolis originally created as a firebreak, now offering beautiful coastal views.",
+                  "category": "natural",
+                  "coords": [
+                        -55.260107,
+                        -34.869455
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-MA",
     coords: [-55.2833, -34.8667],
@@ -820,7 +2233,160 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Offre un aperçu approfondi de la culture et des traditions régionales.", "Se distingue par sa diversité architecturale et son importance historique.", "Les voyageurs trouvent de nombreuses options de loisirs actifs aux alentours."],
     }, image: "/poi-images/piriapolis-cities-v2.webp"},
   {
-    id: "pan-de-azucar-cities-v2",
+    id: "pan-de-azucar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
+                  "text": "Das Fauna- und Flora-Reservat Pan de Azúcar fungiert als Zoo und Naturschutzgebiet.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.249976,
+                        -34.813525
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "Der Cerro Pan de Azúcar ist ein markanter Hügel und der dritthöchste Punkt in Uruguay.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25869,
+                        -34.81023
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "Die Casa de la Cultura ist ein aktives Kunstzentrum in Pan de Azúcar.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "La Casona ist eine beliebte Tanzattraktion in Pan de Azúcar.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
+                  "text": "A Pan de Azúcar Állat- és Növényrezervátum állatkertként és természetvédelmi területként működik.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.249976,
+                        -34.813525
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "A Cerro Pan de Azúcar egy kiemelkedő domb és Uruguay harmadik legmagasabb pontja.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25869,
+                        -34.81023
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "A Casa de la Cultura egy aktív művészeti központ Pan de Azúcarban.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "A La Casona egy népszerű táncos látványosság Pan de Azúcarban.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
+                  "text": "Rezervația de Faună și Floră Pan de Azúcar funcționează ca o grădină zoologică și zonă de conservare.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.249976,
+                        -34.813525
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "Cerro Pan de Azúcar este un deal proeminent și al treilea cel mai înalt punct din Uruguay.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25869,
+                        -34.81023
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "Casa de la Cultura este un centru de arte activ situat în Pan de Azúcar.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "La Casona este o atracție populară pentru dans situată în Pan de Azúcar.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de Fauna y Flora Pan de Azúcar",
+                  "text": "The Pan de Azúcar Fauna and Flora Reserve functions as a zoo and conservation area.",
+                  "category": "recreational",
+                  "coords": [
+                        -55.249976,
+                        -34.813525
+                  ]
+            },
+            {
+                  "name": "Cerro Pan de Azúcar",
+                  "text": "Cerro Pan de Azúcar is a prominent hill and the third highest point in Uruguay.",
+                  "category": "natural",
+                  "coords": [
+                        -55.25869,
+                        -34.81023
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura de Pan de Azucar",
+                  "text": "The Casa de la Cultura is an active arts centre located in Pan de Azúcar.",
+                  "category": "cultural",
+                  "coords": [
+                        -55.223296,
+                        -34.775326
+                  ]
+            },
+            {
+                  "name": "La Casona (Baile)",
+                  "text": "La Casona is a popular dancing attraction situated in Pan de Azúcar.",
+                  "category": "landmark",
+                  "coords": [
+                        -55.233183,
+                        -34.779865
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-MA",
     coords: [-55.2333, -34.8],
@@ -1183,7 +2749,124 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Capital of the largest department in Uruguay (15,438 sq km).", "Founded on January 27, 1832, by Bernabé Rivera.", "Home to the largest Gaucho festival in South America, 'Patria Gaucha'.", "The city's population is roughly 55,000 residents.", "Claims to be the true birthplace of tango legend Carlos Gardel.", "A major hub for the country's forestry and rice production sectors.", "Located at the intersection of National Routes 5 and 26.", "Features the San Fructuoso Cathedral, completed in 1899."],
     }, image: "/poi-images/tacuarembo-cities-v2.webp"},
   {
-    id: "paso-de-los-toros-cities-v2",
+    id: "paso-de-los-toros-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa santa isabel",
+                  "text": "Ein lokaler Sandstrand in Paso de los Toros, ideal zum Entspannen und Schwimmen.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.521804,
+                        -32.818447
+                  ]
+            },
+            {
+                  "name": "Playa el sauce",
+                  "text": "Ein beliebter Badestrand am Flussufer in Paso de los Toros.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.503102,
+                        -32.820805
+                  ]
+            },
+            {
+                  "name": "Playa la picada",
+                  "text": "Ein ruhiger Strandabschnitt in Paso de los Toros, der zum Verweilen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.497812,
+                        -32.817482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa santa isabel",
+                  "text": "Helyi homokos strand Paso de los Torosban, amely kiváló pihenésre és úszásra.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.521804,
+                        -32.818447
+                  ]
+            },
+            {
+                  "name": "Playa el sauce",
+                  "text": "Népszerű folyóparti strand Paso de los Toros városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.503102,
+                        -32.820805
+                  ]
+            },
+            {
+                  "name": "Playa la picada",
+                  "text": "Nyugodt strandrész Paso de los Torosban, amely hívogató a látogatók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.497812,
+                        -32.817482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa santa isabel",
+                  "text": "O plajă locală în Paso de los Toros, ideală pentru relaxare și înot.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.521804,
+                        -32.818447
+                  ]
+            },
+            {
+                  "name": "Playa el sauce",
+                  "text": "O plajă populară pe malul râului în Paso de los Toros.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.503102,
+                        -32.820805
+                  ]
+            },
+            {
+                  "name": "Playa la picada",
+                  "text": "O zonă de plajă liniștită în Paso de los Toros, care invită la relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.497812,
+                        -32.817482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa santa isabel",
+                  "text": "A local sandy beach in Paso de los Toros, ideal for relaxation and swimming.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.521804,
+                        -32.818447
+                  ]
+            },
+            {
+                  "name": "Playa el sauce",
+                  "text": "A popular riverside beach located in Paso de los Toros.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.503102,
+                        -32.820805
+                  ]
+            },
+            {
+                  "name": "Playa la picada",
+                  "text": "A quiet beach area in Paso de los Toros that is inviting for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -56.497812,
+                        -32.817482
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-TA",
     coords: [-56.5167, -32.8167],
@@ -1416,7 +3099,160 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Founded on September 12, 1852, as San Eugenio del Cuareim.", "Renamed Artigas in 1915 in honor of the national hero José Gervasio Artigas.", "It is the northernmost capital city in Uruguay, bordering Brazil.", "The city is a global center for amethyst and agate mining and processing.", "The Concordia International Bridge links the city to Quaraí, Brazil.", "Artigas features one of the largest public squares in South America.", "The local carnival is famous for its Brazilian samba school influence.", "Agriculture is dominated by sugar cane and extensive livestock farming."],
     }, image: "/poi-images/artigas-cities-v2.webp"},
   {
-    id: "bella-union-cities-v2",
+    id: "bella-union-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Acuático Termal Monte Caseros",
+                  "text": "Ein Thermal-Wasserpark in Bella Unión mit verschiedenen Becken und Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.624967,
+                        -30.259363
+                  ]
+            },
+            {
+                  "name": "Casa de Turismo",
+                  "text": "Eine archäologische Stätte in Bella Unión, die Einblicke in die lokale Geschichte bietet.",
+                  "category": "historical",
+                  "coords": [
+                        -57.62143,
+                        -30.253845
+                  ]
+            },
+            {
+                  "name": "Playas Sur de Monte Caseros",
+                  "text": "Ein Ferienort am Strand in Bella Unión mit verschiedenen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.623112,
+                        -30.259139
+                  ]
+            },
+            {
+                  "name": "La Cachuera",
+                  "text": "Historische Ruinen in der Nähe von Bella Unión, die von der Vergangenheit der Region zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        -57.623592,
+                        -30.248355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Acuático Termal Monte Caseros",
+                  "text": "Termálvizes élménypark Bella Uniónban, különféle medencékkel és csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.624967,
+                        -30.259363
+                  ]
+            },
+            {
+                  "name": "Casa de Turismo",
+                  "text": "Régészeti lelőhely Bella Uniónban, amely betekintést nyújt a helyi történelembe.",
+                  "category": "historical",
+                  "coords": [
+                        -57.62143,
+                        -30.253845
+                  ]
+            },
+            {
+                  "name": "Playas Sur de Monte Caseros",
+                  "text": "Tengerparti üdülőhely Bella Uniónban, különféle szabadidős lehetőségekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.623112,
+                        -30.259139
+                  ]
+            },
+            {
+                  "name": "La Cachuera",
+                  "text": "Történelmi romok Bella Unión közelében, amelyek a régió múltjáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        -57.623592,
+                        -30.248355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Acuático Termal Monte Caseros",
+                  "text": "Un parc acvatic termal în Bella Unión, cu diverse bazine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.624967,
+                        -30.259363
+                  ]
+            },
+            {
+                  "name": "Casa de Turismo",
+                  "text": "Un sit arheologic în Bella Unión care oferă perspective asupra istoriei locale.",
+                  "category": "historical",
+                  "coords": [
+                        -57.62143,
+                        -30.253845
+                  ]
+            },
+            {
+                  "name": "Playas Sur de Monte Caseros",
+                  "text": "O stațiune de plajă în Bella Unión, oferind diverse facilități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.623112,
+                        -30.259139
+                  ]
+            },
+            {
+                  "name": "La Cachuera",
+                  "text": "Ruine istorice lângă Bella Unión, care atestă trecutul regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -57.623592,
+                        -30.248355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Acuático Termal Monte Caseros",
+                  "text": "A thermal water park in Bella Unión featuring various pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.624967,
+                        -30.259363
+                  ]
+            },
+            {
+                  "name": "Casa de Turismo",
+                  "text": "An archaeological site in Bella Unión providing insights into local history.",
+                  "category": "historical",
+                  "coords": [
+                        -57.62143,
+                        -30.253845
+                  ]
+            },
+            {
+                  "name": "Playas Sur de Monte Caseros",
+                  "text": "A beach resort in Bella Unión offering various recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.623112,
+                        -30.259139
+                  ]
+            },
+            {
+                  "name": "La Cachuera",
+                  "text": "Historical ruins near Bella Unión that bear witness to the region's past.",
+                  "category": "historical",
+                  "coords": [
+                        -57.623592,
+                        -30.248355
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-AR",
     coords: [-57.6, -30.25],
@@ -1539,7 +3375,88 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Founded in 1788, it is one of Uruguay's oldest cities.", "Capital of the Soriano Department, the first to be created.", "The Grito de Asencio occurred nearby on Feb 28, 1811.", "The city's Rambla is a primary site for recreation and events.", "Mauá Castle includes a working winery and a park.", "Mercedes is a key hub for the National Route 2 highway.", "The city has a strong tradition in rowing and water sports.", "Host of the annual 'International Jazz on the Street' festival."],
     }, image: "/poi-images/mercedes-cities-v2.webp"},
   {
-    id: "dolores-cities-v2",
+    id: "dolores-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Historico Regional de Dolores",
+                  "text": "Regionalmuseum für Geschichte in Dolores.",
+                  "category": "museum",
+                  "coords": [
+                        -58.224981,
+                        -33.520297
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Dolores",
+                  "text": "Eine Kirche und Sehenswürdigkeit in Dolores.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.216126,
+                        -33.52997
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Historico Regional de Dolores",
+                  "text": "Helytörténeti múzeum Dolores városában.",
+                  "category": "museum",
+                  "coords": [
+                        -58.224981,
+                        -33.520297
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Dolores",
+                  "text": "Templom és látványosság Dolores városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.216126,
+                        -33.52997
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Historico Regional de Dolores",
+                  "text": "Muzeu istoric regional în Dolores.",
+                  "category": "museum",
+                  "coords": [
+                        -58.224981,
+                        -33.520297
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Dolores",
+                  "text": "O biserică și atracție în Dolores.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.216126,
+                        -33.52997
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Historico Regional de Dolores",
+                  "text": "Regional history museum in Dolores.",
+                  "category": "museum",
+                  "coords": [
+                        -58.224981,
+                        -33.520297
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora de Dolores",
+                  "text": "A church and attraction in Dolores.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.216126,
+                        -33.52997
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-SO",
     coords: [-58.2167, -33.5333],
@@ -1742,7 +3659,52 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Founded on June 1, 1783, by settlers from the Asturias region.", "The city's population is approximately 36,500.", "The Cathedral of San José is the largest religious building in the interior.", "Located 90 km from the national capital, Montevideo.", "Known as the 'City of the Scholars' for its cultural prestige.", "The surrounding area is a major producer of cereals and dairy.", "Teatro Macció was built in memory of businessman Bartolomé Macció.", "The San José River is the primary water source for the city."],
     }, image: "/poi-images/san-jose-de-mayo-cities-v2.webp"},
   {
-    id: "ciudad-del-plata-cities-v2",
+    id: "ciudad-del-plata-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puente Alfredo Zitarrosa",
+                  "text": "Eine Brücke in Ciudad del Plata, die den Fluss Santa Lucía überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355895,
+                        -34.783684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puente Alfredo Zitarrosa",
+                  "text": "Híd Ciudad del Plata városában, amely a Santa Lucía folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355895,
+                        -34.783684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puente Alfredo Zitarrosa",
+                  "text": "Un pod în Ciudad del Plata care traversează râul Santa Lucía.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355895,
+                        -34.783684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puente Alfredo Zitarrosa",
+                  "text": "A bridge in Ciudad del Plata crossing the Santa Lucía River.",
+                  "category": "landmark",
+                  "coords": [
+                        -56.355895,
+                        -34.783684
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-SJ",
     coords: [-56.3833, -34.7667],
@@ -2399,7 +4361,304 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Lascano offre un aperçu approfondi de la culture et des traditions régionales.", "La ville se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de Lascano de nombreuses possibilités de loisirs actifs."],
     }, image: "/poi-images/lascano-cities-v2.webp"},
   {
-    id: "la-paloma-cities-v2",
+    id: "la-paloma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "Ein beliebter Strand in La Paloma, bekannt für seine Sonnenuntergänge.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "Ein Strand in der Nähe des Leuchtturms von La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "Ein Strand in der Küstenstadt La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "Ein Sandstrand in La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "Ein Zentrum zum Schutz von Meeresschildkröten in La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "Ein historischer Leuchtturm und Aussichtspunkt in La Paloma.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "Der Hafenbereich von La Paloma mit Blick auf die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "Eine Sehenswürdigkeit im Badeort La Paloma.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "Népszerű strand La Palomában, amely naplementéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "Strand a La Paloma-i világítótorony közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "Strand La Paloma tengerparti városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "Homokos tengerpart La Paloma városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "Tengeri teknősök védelmével foglalkozó központ La Palomában.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "Történelmi világítótorony és kilátópont La Palomában.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "La Paloma kikötői negyede, kilátással a tengerpartra.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "Látványosság La Paloma üdülőhelyén.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "O plajă populară în La Paloma, cunoscută pentru apusurile sale.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "O plajă lângă farul din La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "O plajă în orașul de coastă La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "O plajă în La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "Un centru pentru protecția țestoaselor marine în La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "Un far istoric și punct de belvedere în La Paloma.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "Zona portuară din La Paloma, oferind vedere spre coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "O atracție în stațiunea La Paloma.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa La Balconada",
+                  "text": "A popular beach in La Paloma known for its sunsets.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.165304,
+                        -34.664685
+                  ]
+            },
+            {
+                  "name": "Playa del Faro",
+                  "text": "A beach located near the lighthouse in La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.160646,
+                        -34.666707
+                  ]
+            },
+            {
+                  "name": "Playa El Cabito",
+                  "text": "A beach in the coastal town of La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.168927,
+                        -34.664759
+                  ]
+            },
+            {
+                  "name": "Playa Los Botes",
+                  "text": "A beach in La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.176003,
+                        -34.662363
+                  ]
+            },
+            {
+                  "name": "Tortugas Karumbé",
+                  "text": "A center for the protection of sea turtles in La Paloma.",
+                  "category": "recreational",
+                  "coords": [
+                        -54.153969,
+                        -34.66159
+                  ]
+            },
+            {
+                  "name": "Faro Cabo Santa Maria",
+                  "text": "A historical lighthouse and viewpoint in La Paloma.",
+                  "category": "natural",
+                  "coords": [
+                        -54.152853,
+                        -34.668214
+                  ]
+            },
+            {
+                  "name": "Puerto",
+                  "text": "The port area of La Paloma offering views of the coast.",
+                  "category": "natural",
+                  "coords": [
+                        -54.144643,
+                        -34.648212
+                  ]
+            },
+            {
+                  "name": "La Paloma",
+                  "text": "An attraction in the resort town of La Paloma.",
+                  "category": "landmark",
+                  "coords": [
+                        -54.154847,
+                        -34.667688
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-RO",
     coords: [-54.1667, -34.6667],
@@ -2479,7 +4738,232 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Founded in January 1680 by Portuguese Governor Manuel Lobo.", "The historic quarter was declared a UNESCO World Heritage site in 1995.", "It is the only significant Portuguese-founded city in Uruguay.", "The city lighthouse was built in 1857 using ruins from the San Francisco convent.", "Colonia changed sovereignty seven times between Spain and Portugal.", "The ferry crossing to Buenos Aires takes approximately 50 to 75 minutes.", "The Basilica del Santísimo Sacramento is the oldest church in the country.", "The city is a major hub for Uruguay's Free Trade Zone operations."],
     }, image: "/poi-images/colonia-del-sacramento-cities-v2.webp"},
   {
-    id: "carmelo-cities-v2",
+    id: "carmelo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "Ein lokaler Zoo in Carmelo, in dem verschiedene einheimische Tierarten beheimatet sind.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "Ein bedeutendes Theater in Carmelo, das für kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Museo de Madeira",
+                  "text": "Ein Museum in Carmelo, das sich der Holzverarbeitung und lokalen Handwerkskunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "Ein schöner Sandstrand in Carmelo, benannt nach einer historischen Patriotengruppe.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.995146
+                  ]
+            },
+            {
+                  "name": "Monumento a Artigas",
+                  "text": "Ein Denkmal zu Ehren von José Gervasio Artigas, dem Nationalhelden Uruguays, in Carmelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.28785,
+                        -33.999126
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vid",
+                  "text": "Ein Denkmal in Carmelo, das die Bedeutung des Weinbaus in der Region würdigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285941,
+                        -34.003523
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "Helyi állatkert Carmelóban, amely különféle őshonos állatfajoknak ad otthont.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "Jelentős színház Carmelóban, amelyet kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Museo de Madeira",
+                  "text": "Múzeum Carmelóban, amely a fafeldolgozásnak és a helyi kézművességnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "Szép homokos strand Carmelóban, amely egy történelmi hazafi csoportról kapta a nevét.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.995146
+                  ]
+            },
+            {
+                  "name": "Monumento a Artigas",
+                  "text": "Emlékmű José Gervasio Artigas, Uruguay nemzeti hőse tiszteletére Carmelóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.28785,
+                        -33.999126
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vid",
+                  "text": "Emlékmű Carmelóban, amely a régió borászatának jelentőségét méltatja.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285941,
+                        -34.003523
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "O grădină zoologică locală în Carmelo, care găzduiește diverse specii de animale native.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "Un teatru important din Carmelo, folosit pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Museo de Madeira",
+                  "text": "Un muzeu în Carmelo dedicat prelucrării lemnului și meșteșugurilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "O plajă frumoasă de nisip în Carmelo, numită după un grup istoric de patrioți.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.995146
+                  ]
+            },
+            {
+                  "name": "Monumento a Artigas",
+                  "text": "Un monument în onoarea lui José Gervasio Artigas, eroul național al Uruguayului, în Carmelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.28785,
+                        -33.999126
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vid",
+                  "text": "Un monument în Carmelo care celebrează importanța viticulturii în regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285941,
+                        -34.003523
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva de Fauna",
+                  "text": "A local zoo in Carmelo that is home to various native animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.288309,
+                        -34.010571
+                  ]
+            },
+            {
+                  "name": "Teatro Uamá",
+                  "text": "A significant theatre in Carmelo used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -58.285351,
+                        -34.000621
+                  ]
+            },
+            {
+                  "name": "Museum of Wood",
+                  "text": "A museum in Carmelo dedicated to woodworking and local craftsmanship.",
+                  "category": "museum",
+                  "coords": [
+                        -58.285917,
+                        -33.997554
+                  ]
+            },
+            {
+                  "name": "Playa Treinta y Tres Orientales",
+                  "text": "A beautiful sandy beach in Carmelo named after a historic group of patriots.",
+                  "category": "recreational",
+                  "coords": [
+                        -58.306248,
+                        -33.995146
+                  ]
+            },
+            {
+                  "name": "Monumento a Artigas",
+                  "text": "A monument honoring José Gervasio Artigas, Uruguay's national hero, in Carmelo.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.28785,
+                        -33.999126
+                  ]
+            },
+            {
+                  "name": "Monumento a la Vid",
+                  "text": "A monument in Carmelo celebrating the importance of viticulture in the region.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.285941,
+                        -34.003523
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CO",
     coords: [-58.2833, -34.0],
@@ -2522,7 +5006,124 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Carmelo offre un aperçu profond de la culture et des traditions régionales.", "La ville se caractérise par sa diversité architecturale et son importance historique.", "Les voyageurs trouveront dans les environs de Carmelo de nombreuses possibilités de loisirs actifs."],
     }, image: "/poi-images/carmelo-cities-v2.webp"},
   {
-    id: "juan-lacaze-cities-v2",
+    id: "juan-lacaze-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Verde",
+                  "text": "Playa Verde ist ein Strand in Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.4452,
+                        -34.433545
+                  ]
+            },
+            {
+                  "name": "Playa urbana Charrúa",
+                  "text": "Playa urbana Charrúa ist ein Stadtstrand in Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.434956,
+                        -34.440076
+                  ]
+            },
+            {
+                  "name": "Playa agreste De los Piamonteses",
+                  "text": "Playa agreste De los Piamonteses ist ein naturbelassener Strand in Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.392411,
+                        -34.43273
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Verde",
+                  "text": "A Playa Verde egy tengerpart Juan Lacaze területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.4452,
+                        -34.433545
+                  ]
+            },
+            {
+                  "name": "Playa urbana Charrúa",
+                  "text": "A Playa urbana Charrúa egy városi strand Juan Lacaze városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.434956,
+                        -34.440076
+                  ]
+            },
+            {
+                  "name": "Playa agreste De los Piamonteses",
+                  "text": "A Playa agreste De los Piamonteses egy vadregényes strand Juan Lacaze területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.392411,
+                        -34.43273
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Verde",
+                  "text": "Playa Verde este o plajă situată în Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.4452,
+                        -34.433545
+                  ]
+            },
+            {
+                  "name": "Playa urbana Charrúa",
+                  "text": "Playa urbana Charrúa este o plajă urbană din Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.434956,
+                        -34.440076
+                  ]
+            },
+            {
+                  "name": "Playa agreste De los Piamonteses",
+                  "text": "Playa agreste De los Piamonteses este o plajă sălbatică situată în Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.392411,
+                        -34.43273
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Verde",
+                  "text": "Playa Verde is a scenic beach located in Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.4452,
+                        -34.433545
+                  ]
+            },
+            {
+                  "name": "Playa urbana Charrúa",
+                  "text": "Playa urbana Charrúa is an urban beach located in Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.434956,
+                        -34.440076
+                  ]
+            },
+            {
+                  "name": "Playa agreste De los Piamonteses",
+                  "text": "Playa agreste De los Piamonteses is a wild beach situated in Juan Lacaze.",
+                  "category": "recreational",
+                  "coords": [
+                        -57.392411,
+                        -34.43273
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CO",
     coords: [-57.4333, -34.4333],
@@ -2652,7 +5253,124 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       fr: ["Témoigne fidèlement des coutumes et de la culture de la région.", "Se distingue par son patrimoine architectural et son poids historique.", "Les environs immédiats offrent diverses opportunités de loisirs actifs."],
     }, image: "/poi-images/rosario-cities-v2.webp"},
   {
-    id: "nueva-palmira-cities-v2",
+    id: "nueva-palmira-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reloj De Sol",
+                  "text": "Reloj De Sol ist eine Sehenswürdigkeit in Nueva Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.415877,
+                        -33.870017
+                  ]
+            },
+            {
+                  "name": "Muelle Nueva Palmira",
+                  "text": "Muelle Nueva Palmira ist eine Attraktion in der Stadt Nueva Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.41635,
+                        -33.86876
+                  ]
+            },
+            {
+                  "name": "Monumento 25 de Mayo",
+                  "text": "Monumento 25 de Mayo ist ein Denkmal in Nueva Palmira.",
+                  "category": "historical",
+                  "coords": [
+                        -58.417032,
+                        -33.872115
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reloj De Sol",
+                  "text": "A Reloj De Sol egy látványosság Nueva Palmira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.415877,
+                        -33.870017
+                  ]
+            },
+            {
+                  "name": "Muelle Nueva Palmira",
+                  "text": "A Muelle Nueva Palmira egy nevezetesség Nueva Palmira városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.41635,
+                        -33.86876
+                  ]
+            },
+            {
+                  "name": "Monumento 25 de Mayo",
+                  "text": "A Monumento 25 de Mayo egy emlékmű Nueva Palmira városában.",
+                  "category": "historical",
+                  "coords": [
+                        -58.417032,
+                        -33.872115
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reloj De Sol",
+                  "text": "Reloj De Sol este o atracție din orașul Nueva Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.415877,
+                        -33.870017
+                  ]
+            },
+            {
+                  "name": "Muelle Nueva Palmira",
+                  "text": "Muelle Nueva Palmira este o atracție locală situată în Nueva Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.41635,
+                        -33.86876
+                  ]
+            },
+            {
+                  "name": "Monumento 25 de Mayo",
+                  "text": "Monumento 25 de Mayo este un monument situat în Nueva Palmira.",
+                  "category": "historical",
+                  "coords": [
+                        -58.417032,
+                        -33.872115
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reloj De Sol",
+                  "text": "Reloj De Sol is a tourist attraction to visit in Nueva Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.415877,
+                        -33.870017
+                  ]
+            },
+            {
+                  "name": "Muelle Nueva Palmira",
+                  "text": "Muelle Nueva Palmira is a local attraction located in Nueva Palmira.",
+                  "category": "landmark",
+                  "coords": [
+                        -58.41635,
+                        -33.86876
+                  ]
+            },
+            {
+                  "name": "Monumento 25 de Mayo",
+                  "text": "Monumento 25 de Mayo is a monument located in the city of Nueva Palmira.",
+                  "category": "historical",
+                  "coords": [
+                        -58.417032,
+                        -33.872115
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-CO",
     coords: [-58.4167, -33.8833],
@@ -2775,7 +5493,52 @@ export const poiExtraUruguayCitiesV2: POI[] = [
       en: ["Founded in 1859, it was initially called Villa Independencia.", "The Fray Bentos Industrial Landscape is a UNESCO World Heritage site since 2015.", "The city was the birthplace of the world-famous Oxo brand and corned beef.", "The Anglo factory once processed over 1,600 cattle per day.", "The General San Martín Bridge is a key link between Uruguay and Argentina.", "Fray Bentos was the first city in Uruguay to have an electric power plant.", "The Museum of the Industrial Revolution preserves 19th-century British machinery.", "The local resort, Las Cañas, is a premier destination for river-based tourism."],
     }, image: "/poi-images/fray-bentos-cities-v2.webp"},
   {
-    id: "young-cities-v2",
+    id: "young-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Locomotora de vapor",
+                  "text": "Eine historische Dampflokomotive, die in Young als technisches Denkmal ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.628694,
+                        -32.700755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Locomotora de vapor",
+                  "text": "Történelmi gőzmozdony, amelyet Youngban technikai műemlékként állítottak ki.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.628694,
+                        -32.700755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Locomotora de vapor",
+                  "text": "O locomotivă cu abur istorică, expusă în Young ca monument tehnic.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.628694,
+                        -32.700755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Locomotora de vapor",
+                  "text": "A historic steam locomotive on display in Young as a technical monument.",
+                  "category": "landmark",
+                  "coords": [
+                        -57.628694,
+                        -32.700755
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "UY-RN",
     coords: [-57.6333, -32.7167],

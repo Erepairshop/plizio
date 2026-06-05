@@ -271,7 +271,88 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tipitapa-cities-v2",
+    id: "tipitapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Centro recreativo Los Termales",
+                  "text": "Ein Freizeitzentrum in Tipitapa, das für seine Thermalbecken bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.091487,
+                        12.203123
+                  ]
+            },
+            {
+                  "name": "Estatua a la Virgen María",
+                  "text": "Ein Denkmal zu Ehren der Jungfrau Maria in Tipitapa.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096087,
+                        12.19655
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Centro recreativo Los Termales",
+                  "text": "Tipitapai szabadidős központ, amely termálvizes medencéiről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.091487,
+                        12.203123
+                  ]
+            },
+            {
+                  "name": "Estatua a la Virgen María",
+                  "text": "Szűz Mária tiszteletére emelt emlékmű Tipitapában.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096087,
+                        12.19655
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Centro recreativo Los Termales",
+                  "text": "Un centru recreativ din Tipitapa cunoscut pentru piscinele sale cu apă termală.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.091487,
+                        12.203123
+                  ]
+            },
+            {
+                  "name": "Estatua a la Virgen María",
+                  "text": "Un monument dedicat Fecioarei Maria situat în Tipitapa.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096087,
+                        12.19655
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Centro recreativo Los Termales",
+                  "text": "A recreational center in Tipitapa known for its thermal water pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -86.091487,
+                        12.203123
+                  ]
+            },
+            {
+                  "name": "Estatua a la Virgen María",
+                  "text": "A monument dedicated to the Virgin Mary located in Tipitapa.",
+                  "category": "historical",
+                  "coords": [
+                        -86.096087,
+                        12.19655
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MA",
     coords: [-86.0972, 12.1972],
@@ -307,7 +388,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "el-viejo-cities-v2",
+    id: "el-viejo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque de El Viejo",
+                  "text": "Ein zentraler Park und Erholungsraum in der Stadt El Viejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.167267,
+                        12.662153
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque de El Viejo",
+                  "text": "Központi park és pihenőhely El Viejo városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.167267,
+                        12.662153
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque de El Viejo",
+                  "text": "Un parc central și spațiu de recreere în orașul El Viejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.167267,
+                        12.662153
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque de El Viejo",
+                  "text": "A central park and recreation space in the city of El Viejo.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.167267,
+                        12.662153
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-CH",
     coords: [-87.1667, 12.6667],
@@ -343,7 +469,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "chichigalpa-cities-v2",
+    id: "chichigalpa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Patio de La Botana",
+                  "text": "El Patio de La Botana ist ein beliebtes Ausflugsziel in Chichigalpa.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.029574,
+                        12.569733
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Patio de La Botana",
+                  "text": "Az El Patio de La Botana egy népszerű látnivaló Chichigalpában.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.029574,
+                        12.569733
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Patio de La Botana",
+                  "text": "El Patio de La Botana este o atracție populară în Chichigalpa.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.029574,
+                        12.569733
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Patio de La Botana",
+                  "text": "El Patio de La Botana is a popular attraction in Chichigalpa.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.029574,
+                        12.569733
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-CH",
     coords: [-87.0278, 12.5719],
@@ -379,7 +550,88 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "diriamba-cities-v2",
+    id: "diriamba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Finca Galesa",
+                  "text": "Ein lokaler Bauernhof und eine Attraktion in Diriamba, die ländliche Erlebnisse bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.226415,
+                        11.865028
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de San Sebastián",
+                  "text": "Eine bedeutende Basilica minor in Diriamba, die dem Heiligen Sebastian gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -86.24011,
+                        11.857053
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Finca Galesa",
+                  "text": "Egy helyi farm és látványosság Diriambában, amely vidéki élményeket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.226415,
+                        11.865028
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de San Sebastián",
+                  "text": "Jelentős bazilika Diriambában, amelyet Szent Sebestyénnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -86.24011,
+                        11.857053
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Finca Galesa",
+                  "text": "O fermă locală și o atracție din Diriamba care oferă experiențe rurale.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.226415,
+                        11.865028
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de San Sebastián",
+                  "text": "O bazilică minoră importantă din Diriamba dedicată Sfântului Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -86.24011,
+                        11.857053
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Finca Galesa",
+                  "text": "A local farm and attraction in Diriamba offering rural experiences.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.226415,
+                        11.865028
+                  ]
+            },
+            {
+                  "name": "Basílica Menor de San Sebastián",
+                  "text": "A significant minor basilica in Diriamba dedicated to Saint Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        -86.24011,
+                        11.857053
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-CA",
     coords: [-86.2411, 11.8594],
@@ -481,7 +733,88 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "nueva-guinea-cities-v2",
+    id: "nueva-guinea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Rótulo",
+                  "text": "El Rótulo ist ein markantes Denkmal in Nueva Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -84.461639,
+                        11.690106
+                  ]
+            },
+            {
+                  "name": "Monumento Central",
+                  "text": "Das Central Monument ist ein zentrales Denkmal in Nueva Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -84.452057,
+                        11.689551
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Rótulo",
+                  "text": "Az El Rótulo egy jellegzetes emlékmű Nueva Guineában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.461639,
+                        11.690106
+                  ]
+            },
+            {
+                  "name": "Monumento Central",
+                  "text": "A Central Monument egy központi emlékmű Nueva Guineában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.452057,
+                        11.689551
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Rótulo",
+                  "text": "El Rótulo este un monument proeminent în Nueva Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -84.461639,
+                        11.690106
+                  ]
+            },
+            {
+                  "name": "Monumento Central",
+                  "text": "Central Monument este un monument central în Nueva Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -84.452057,
+                        11.689551
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Rótulo",
+                  "text": "El Rótulo is a prominent monument in Nueva Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -84.461639,
+                        11.690106
+                  ]
+            },
+            {
+                  "name": "Central Monument",
+                  "text": "The Central Monument is a central monument in Nueva Guinea.",
+                  "category": "historical",
+                  "coords": [
+                        -84.452057,
+                        11.689551
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-AS",
     coords: [-84.4539, 11.6911],
@@ -653,7 +986,268 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
   },
   // Adding 60 more cities to reach the 80 POI goal.
   {
-    id: "ciudad-sandinocities-v2",
+    id: "ciudad-sandinocities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Los Martínez",
+                  "text": "Eine archäologische Stätte mit antiken Überresten in Ciudad Sandino.",
+                  "category": "historical",
+                  "coords": [
+                        -86.312803,
+                        12.16291
+                  ]
+            },
+            {
+                  "name": "Sitio Oro Verde. Zona 7",
+                  "text": "Ein archäologisches Gebiet in der Zone 7 von Ciudad Sandino.",
+                  "category": "historical",
+                  "coords": [
+                        -86.343228,
+                        12.172136
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires",
+                  "text": "Ein Denkmal in Ciudad Sandino, das den örtlichen Märtyrern gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -86.326676,
+                        12.152028
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Isabel",
+                  "text": "Ein markanter Hügel in Ciudad Sandino mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317577,
+                        12.152697
+                  ]
+            },
+            {
+                  "name": "Cerro San Carlos",
+                  "text": "Ein natürlicher Gipfel im Bezirk Ciudad Sandino.",
+                  "category": "natural",
+                  "coords": [
+                        -86.332965,
+                        12.162937
+                  ]
+            },
+            {
+                  "name": "Cerro Los Martínez",
+                  "text": "Ein Gipfel in Ciudad Sandino, der für seine lokale geografische Bedeutung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317096,
+                        12.158446
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ciudad Sandino",
+                  "text": "Ein lebhafter städtischer Markt in Ciudad Sandino, auf dem verschiedene Waren verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.358253,
+                        12.164784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Los Martínez",
+                  "text": "Ciudad Sandinó-i régészeti lelőhely, amely ősi maradványokat mutat be.",
+                  "category": "historical",
+                  "coords": [
+                        -86.312803,
+                        12.16291
+                  ]
+            },
+            {
+                  "name": "Sitio Oro Verde. Zona 7",
+                  "text": "Ciudad Sandino 7. zónájában található régészeti terület.",
+                  "category": "historical",
+                  "coords": [
+                        -86.343228,
+                        12.172136
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires",
+                  "text": "Emlékmű Ciudad Sandinóban a helyi mártírok tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -86.326676,
+                        12.152028
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Isabel",
+                  "text": "Ciudad Sandinóban található domb, ahonnan kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317577,
+                        12.152697
+                  ]
+            },
+            {
+                  "name": "Cerro San Carlos",
+                  "text": "Ciudad Sandino kerületében található természetes csúcs.",
+                  "category": "natural",
+                  "coords": [
+                        -86.332965,
+                        12.162937
+                  ]
+            },
+            {
+                  "name": "Cerro Los Martínez",
+                  "text": "Ciudad Sandinó-i csúcs, amely helyi földrajzi jelentőségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317096,
+                        12.158446
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ciudad Sandino",
+                  "text": "Nyüzsgő városi piac Ciudad Sandinóban, ahol különféle árukat árulnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.358253,
+                        12.164784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Los Martínez",
+                  "text": "Un sit arheologic care prezintă vestigii antice în Ciudad Sandino.",
+                  "category": "historical",
+                  "coords": [
+                        -86.312803,
+                        12.16291
+                  ]
+            },
+            {
+                  "name": "Sitio Oro Verde. Zona 7",
+                  "text": "O zonă arheologică situată în Zona 7 din Ciudad Sandino.",
+                  "category": "historical",
+                  "coords": [
+                        -86.343228,
+                        12.172136
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires",
+                  "text": "Un monument în Ciudad Sandino dedicat martirilor locali.",
+                  "category": "historical",
+                  "coords": [
+                        -86.326676,
+                        12.152028
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Isabel",
+                  "text": "Un deal proeminent care oferă vedere asupra zonei înconjurătoare în Ciudad Sandino.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317577,
+                        12.152697
+                  ]
+            },
+            {
+                  "name": "Cerro San Carlos",
+                  "text": "Un vârf natural situat în districtul Ciudad Sandino.",
+                  "category": "natural",
+                  "coords": [
+                        -86.332965,
+                        12.162937
+                  ]
+            },
+            {
+                  "name": "Cerro Los Martínez",
+                  "text": "Un vârf din Ciudad Sandino cunoscut pentru semnificația sa geografică locală.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317096,
+                        12.158446
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ciudad Sandino",
+                  "text": "O piață municipală vibrantă care vinde diverse bunuri în Ciudad Sandino.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.358253,
+                        12.164784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Los Martínez",
+                  "text": "An archaeological site showcasing ancient remains in Ciudad Sandino.",
+                  "category": "historical",
+                  "coords": [
+                        -86.312803,
+                        12.16291
+                  ]
+            },
+            {
+                  "name": "Sitio Oro Verde. Zona 7",
+                  "text": "An archaeological area located in Zone 7 of Ciudad Sandino.",
+                  "category": "historical",
+                  "coords": [
+                        -86.343228,
+                        12.172136
+                  ]
+            },
+            {
+                  "name": "Monumento a los Mártires",
+                  "text": "A monument in Ciudad Sandino dedicated to local martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        -86.326676,
+                        12.152028
+                  ]
+            },
+            {
+                  "name": "Cerro Santa Isabel",
+                  "text": "A prominent hill offering views over the surrounding area in Ciudad Sandino.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317577,
+                        12.152697
+                  ]
+            },
+            {
+                  "name": "Cerro San Carlos",
+                  "text": "A natural peak located within the district of Ciudad Sandino.",
+                  "category": "natural",
+                  "coords": [
+                        -86.332965,
+                        12.162937
+                  ]
+            },
+            {
+                  "name": "Cerro Los Martínez",
+                  "text": "A peak in Ciudad Sandino known for its local geographical significance.",
+                  "category": "natural",
+                  "coords": [
+                        -86.317096,
+                        12.158446
+                  ]
+            },
+            {
+                  "name": "Mercado Municipal de Ciudad Sandino",
+                  "text": "A vibrant municipal market selling various goods in Ciudad Sandino.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.358253,
+                        12.164784
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MA",
     coords: [-86.3417, 12.1583],
@@ -725,7 +1319,88 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "sebaco-cities-v2",
+    id: "sebaco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Loma Las Mesas",
+                  "text": "Loma Las Mesas ist ein markanter Berggipfel in der Nähe von Sébaco.",
+                  "category": "natural",
+                  "coords": [
+                        -86.083407,
+                        12.824767
+                  ]
+            },
+            {
+                  "name": "Cerro de La Cruz",
+                  "text": "Cerro de La Cruz ist ein Aussichtspunkt in Sébaco mit weitem Blick über die Region.",
+                  "category": "natural",
+                  "coords": [
+                        -86.082152,
+                        12.857225
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Loma Las Mesas",
+                  "text": "Loma Las Mesas egy jellegzetes hegycsúcs Sébaco közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -86.083407,
+                        12.824767
+                  ]
+            },
+            {
+                  "name": "Cerro de La Cruz",
+                  "text": "Cerro de La Cruz egy kilátó Sébaco-ban, ahonnan messzire ellátni a régióra.",
+                  "category": "natural",
+                  "coords": [
+                        -86.082152,
+                        12.857225
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Loma Las Mesas",
+                  "text": "Loma Las Mesas este un vârf muntos proeminent lângă Sébaco.",
+                  "category": "natural",
+                  "coords": [
+                        -86.083407,
+                        12.824767
+                  ]
+            },
+            {
+                  "name": "Cerro de La Cruz",
+                  "text": "Cerro de La Cruz este un punct de belvedere în Sébaco, oferind o vedere largă asupra regiunii.",
+                  "category": "natural",
+                  "coords": [
+                        -86.082152,
+                        12.857225
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Loma Las Mesas",
+                  "text": "Loma Las Mesas is a prominent mountain peak near Sébaco.",
+                  "category": "natural",
+                  "coords": [
+                        -86.083407,
+                        12.824767
+                  ]
+            },
+            {
+                  "name": "Cerro de La Cruz",
+                  "text": "Cerro de La Cruz is a viewpoint in Sébaco offering panoramic views over the region.",
+                  "category": "natural",
+                  "coords": [
+                        -86.082152,
+                        12.857225
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MT",
     coords: [-86.0917, 12.85],
@@ -761,7 +1436,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "nandaime-cities-v2",
+    id: "nandaime-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Héroes de Nandaime",
+                  "text": "Ein Museum in Nandaime, das den Helden der Stadtgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -86.057344,
+                        11.756755
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Héroes de Nandaime",
+                  "text": "Nandaimei múzeum, amelyet a város történelmének hőseinek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -86.057344,
+                        11.756755
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Héroes de Nandaime",
+                  "text": "Un muzeu din Nandaime dedicat eroilor istoriei orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -86.057344,
+                        11.756755
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Héroes de Nandaime",
+                  "text": "A museum in Nandaime dedicated to the heroes of the town's history.",
+                  "category": "museum",
+                  "coords": [
+                        -86.057344,
+                        11.756755
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-GR",
     coords: [-86.05, 11.75],
@@ -797,7 +1517,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "jalapa-cities-v2",
+    id: "jalapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "El Polvorín",
+                  "text": "Ein Aussichtspunkt in Jalapa mit weitem Blick über die Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -86.121103,
+                        13.928334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "El Polvorín",
+                  "text": "Kilátópont Jalapában, széles kilátással a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -86.121103,
+                        13.928334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "El Polvorín",
+                  "text": "Un punct de belvedere în Jalapa, cu vedere panoramică asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        -86.121103,
+                        13.928334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "El Polvorín",
+                  "text": "A viewpoint in Jalapa with wide views over the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -86.121103,
+                        13.928334
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-NS",
     coords: [-86.125, 13.925],
@@ -968,7 +1733,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "masatepe-cities-v2",
+    id: "masatepe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iglesia Nandasmo",
+                  "text": "Die Iglesia Nandasmo ist eine sehenswerte Kirche in Masatepe.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.120251,
+                        11.925152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iglesia Nandasmo",
+                  "text": "Az Iglesia Nandasmo egy figyelemre méltó templom Masatepében.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.120251,
+                        11.925152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iglesia Nandasmo",
+                  "text": "Iglesia Nandasmo este o biserică notabilă situată în Masatepe.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.120251,
+                        11.925152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iglesia Nandasmo",
+                  "text": "Iglesia Nandasmo is a notable church located in Masatepe.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.120251,
+                        11.925152
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MS",
     coords: [-86.143, 11.913],
@@ -1004,7 +1814,124 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "niquinohomo-cities-v2",
+    id: "niquinohomo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Augusto C. Sandino",
+                  "text": "Das Geburtshaus und Museum von General Augusto C. Sandino in Niquinohomo.",
+                  "category": "museum",
+                  "coords": [
+                        -86.095157,
+                        11.904509
+                  ]
+            },
+            {
+                  "name": "Mirador de Catarina",
+                  "text": "Ein berühmter Aussichtspunkt bei Niquinohomo mit herrlichem Blick auf den Apoyo-See.",
+                  "category": "natural",
+                  "coords": [
+                        -86.06903,
+                        11.913182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "Eine im Kolonialstil erbaut Kirche im Herzen von Niquinohomo.",
+                  "category": "religious",
+                  "coords": [
+                        -86.093821,
+                        11.904389
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Augusto C. Sandino",
+                  "text": "Augusto C. Sandino tábornok szülőháza és múzeuma Niquinohomóban.",
+                  "category": "museum",
+                  "coords": [
+                        -86.095157,
+                        11.904509
+                  ]
+            },
+            {
+                  "name": "Mirador de Catarina",
+                  "text": "Híres kilátó Niquinohomo közelében, ahonnan lenyűgöző kilátás nyílik az Apoyo-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        -86.06903,
+                        11.913182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "Koloniális stílusú templom Niquinohomo szívében.",
+                  "category": "religious",
+                  "coords": [
+                        -86.093821,
+                        11.904389
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Augusto C. Sandino",
+                  "text": "Casa natală și muzeul generalului Augusto C. Sandino din Niquinohomo.",
+                  "category": "museum",
+                  "coords": [
+                        -86.095157,
+                        11.904509
+                  ]
+            },
+            {
+                  "name": "Mirador de Catarina",
+                  "text": "Un punct de belvedere faimos lângă Niquinohomo, oferind vederi uimitoare ale lacului Apoyo.",
+                  "category": "natural",
+                  "coords": [
+                        -86.06903,
+                        11.913182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "O biserică în stil colonial situată în inima orașului Niquinohomo.",
+                  "category": "religious",
+                  "coords": [
+                        -86.093821,
+                        11.904389
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Augusto C. Sandino",
+                  "text": "The birthplace and museum of General Augusto C. Sandino in Niquinohomo.",
+                  "category": "museum",
+                  "coords": [
+                        -86.095157,
+                        11.904509
+                  ]
+            },
+            {
+                  "name": "Mirador de Catarina",
+                  "text": "A famous viewpoint near Niquinohomo offering stunning views of Lake Apoyo.",
+                  "category": "natural",
+                  "coords": [
+                        -86.06903,
+                        11.913182
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "A colonial-style church located in the heart of Niquinohomo.",
+                  "category": "religious",
+                  "coords": [
+                        -86.093821,
+                        11.904389
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MS",
     coords: [-86.09, 11.9],
@@ -1112,7 +2039,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-juan-de-limay-cities-v2",
+    id: "san-juan-de-limay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Tiriscayán",
+                  "text": "Ein Berggipfel in der Region San Juan de Limay.",
+                  "category": "natural",
+                  "coords": [
+                        -86.637354,
+                        13.17341
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Tiriscayán",
+                  "text": "Hegycsúcs San Juan de Limay régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -86.637354,
+                        13.17341
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Tiriscayán",
+                  "text": "Un vârf montan situat în regiunea San Juan de Limay.",
+                  "category": "natural",
+                  "coords": [
+                        -86.637354,
+                        13.17341
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Tiriscayán",
+                  "text": "A mountain peak located in the region of San Juan de Limay.",
+                  "category": "natural",
+                  "coords": [
+                        -86.637354,
+                        13.17341
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-ES",
     coords: [-86.61, 13.17],
@@ -1220,7 +2192,124 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "altagracia-cities-v2",
+    id: "altagracia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ensenada El Istián",
+                  "text": "Eine malerische Bucht auf der Insel Ometepe, die für ihre reiche Artenvielfalt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.564223,
+                        11.47852
+                  ]
+            },
+            {
+                  "name": "El Perú",
+                  "text": "Ein beliebter Strand und eine Attraktion auf der Insel Ometepe bei Altagracia.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.56344,
+                        11.463059
+                  ]
+            },
+            {
+                  "name": "Playa Mango",
+                  "text": "Ein schöner See-Strand mit Blick auf den Vulkan Maderas.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.561492,
+                        11.467894
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ensenada El Istián",
+                  "text": "Festői öböl Ometepe szigetén, amely gazdag biológiai sokféleségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.564223,
+                        11.47852
+                  ]
+            },
+            {
+                  "name": "El Perú",
+                  "text": "Népszerű strand és látványosság Ometepe szigetén, Altagracia közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.56344,
+                        11.463059
+                  ]
+            },
+            {
+                  "name": "Playa Mango",
+                  "text": "Gyönyörű tóparti strand, ahonnan kilátás nyílik a Maderas vulkánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.561492,
+                        11.467894
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ensenada El Istián",
+                  "text": "Un golf pitoresc de pe insula Ometepe, cunoscut pentru biodiversitatea sa bogată.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.564223,
+                        11.47852
+                  ]
+            },
+            {
+                  "name": "El Perú",
+                  "text": "O plajă populară și o atracție pe insula Ometepe de lângă Altagracia.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.56344,
+                        11.463059
+                  ]
+            },
+            {
+                  "name": "Playa Mango",
+                  "text": "O plajă frumoasă pe malul lacului, oferind vedere la vulcanul Maderas.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.561492,
+                        11.467894
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ensenada El Istián",
+                  "text": "A scenic bay on Ometepe Island known for its rich biodiversity.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.564223,
+                        11.47852
+                  ]
+            },
+            {
+                  "name": "El Perú",
+                  "text": "A popular beach and attraction on Ometepe Island near Altagracia.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.56344,
+                        11.463059
+                  ]
+            },
+            {
+                  "name": "Playa Mango",
+                  "text": "A beautiful lakeside beach offering views of the Maderas volcano.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.561492,
+                        11.467894
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-RI",
     coords: [-85.57, 11.47],
@@ -1256,7 +2345,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "wien-cities-v2",
+    id: "wien-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Burbusco",
+                  "text": "Ein markanter Berggipfel in der Region Wiwilí de Nueva Segovia.",
+                  "category": "natural",
+                  "coords": [
+                        -86.01575,
+                        13.731647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Burbusco",
+                  "text": "Jellegzetes hegycsúcs Wiwilí de Nueva Segovia régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -86.01575,
+                        13.731647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Burbusco",
+                  "text": "Un vârf muntos proeminent în regiunea Wiwilí de Nueva Segovia.",
+                  "category": "natural",
+                  "coords": [
+                        -86.01575,
+                        13.731647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Burbusco",
+                  "text": "A prominent mountain peak in the Wiwilí de Nueva Segovia region.",
+                  "category": "natural",
+                  "coords": [
+                        -86.01575,
+                        13.731647
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-NS",
     coords: [-86.03, 13.73],
@@ -1292,7 +2426,268 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "waspam-cities-v2",
+    id: "waspam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "MUSEO AUKA TANGNI",
+                  "text": "Das MUSEO AUKA TANGNI zeigt kulturelle Exponate in Waspam.",
+                  "category": "museum",
+                  "coords": [
+                        -83.96755,
+                        14.74448
+                  ]
+            },
+            {
+                  "name": "EMBARCADERO WASPÁM",
+                  "text": "Der EMBARCADERO WASPÁM ist ein Aussichtspunkt am Flussufer in Waspam.",
+                  "category": "natural",
+                  "coords": [
+                        -83.97212,
+                        14.745696
+                  ]
+            },
+            {
+                  "name": "Piales",
+                  "text": "Piales ist ein Erholungsort am Wasser in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.962112,
+                        14.741448
+                  ]
+            },
+            {
+                  "name": "Rigle",
+                  "text": "Rigle ist ein Strandbad und Erholungsort in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.95938,
+                        14.744158
+                  ]
+            },
+            {
+                  "name": "Trintara",
+                  "text": "Trintara ist ein beliebter Badeort in der Umgebung von Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959028,
+                        14.736191
+                  ]
+            },
+            {
+                  "name": "POZA AZUl",
+                  "text": "POZA AZUl ist ein naturnaher Erholungsort in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.961,
+                        14.737773
+                  ]
+            },
+            {
+                  "name": "Granja",
+                  "text": "Granja ist ein Erholungs- und Badeort in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959711,
+                        14.734545
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "MUSEO AUKA TANGNI",
+                  "text": "A MUSEO AUKA TANGNI kulturális kiállításokat mutat be Waspamban.",
+                  "category": "museum",
+                  "coords": [
+                        -83.96755,
+                        14.74448
+                  ]
+            },
+            {
+                  "name": "EMBARCADERO WASPÁM",
+                  "text": "Az EMBARCADERO WASPÁM egy folyóparti kilátó Waspamban.",
+                  "category": "natural",
+                  "coords": [
+                        -83.97212,
+                        14.745696
+                  ]
+            },
+            {
+                  "name": "Piales",
+                  "text": "Piales egy vízi üdülőhely Waspamban.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.962112,
+                        14.741448
+                  ]
+            },
+            {
+                  "name": "Rigle",
+                  "text": "Rigle egy strand és üdülőhely Waspamban.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.95938,
+                        14.744158
+                  ]
+            },
+            {
+                  "name": "Trintara",
+                  "text": "Trintara egy népszerű üdülőhely Waspam környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959028,
+                        14.736191
+                  ]
+            },
+            {
+                  "name": "POZA AZUl",
+                  "text": "POZA AZUl egy természetközeli üdülőhely Waspamban.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.961,
+                        14.737773
+                  ]
+            },
+            {
+                  "name": "Granja",
+                  "text": "Granja egy üdülő- és fürdőhely Waspamban.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959711,
+                        14.734545
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "MUSEO AUKA TANGNI",
+                  "text": "MUSEO AUKA TANGNI expune obiecte culturale în Waspam.",
+                  "category": "museum",
+                  "coords": [
+                        -83.96755,
+                        14.74448
+                  ]
+            },
+            {
+                  "name": "EMBARCADERO WASPÁM",
+                  "text": "EMBARCADERO WASPÁM este un punct de belvedere pe malul râului în Waspam.",
+                  "category": "natural",
+                  "coords": [
+                        -83.97212,
+                        14.745696
+                  ]
+            },
+            {
+                  "name": "Piales",
+                  "text": "Piales este o stațiune la apă în Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.962112,
+                        14.741448
+                  ]
+            },
+            {
+                  "name": "Rigle",
+                  "text": "Rigle este o stațiune la plajă în Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.95938,
+                        14.744158
+                  ]
+            },
+            {
+                  "name": "Trintara",
+                  "text": "Trintara este o stațiune de plajă populară în zona Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959028,
+                        14.736191
+                  ]
+            },
+            {
+                  "name": "POZA AZUl",
+                  "text": "POZA AZUl este o stațiune naturală în Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.961,
+                        14.737773
+                  ]
+            },
+            {
+                  "name": "Granja",
+                  "text": "Granja este o stațiune de recreere și plajă în Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959711,
+                        14.734545
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "MUSEO AUKA TANGNI",
+                  "text": "MUSEO AUKA TANGNI displays cultural exhibits in Waspam.",
+                  "category": "museum",
+                  "coords": [
+                        -83.96755,
+                        14.74448
+                  ]
+            },
+            {
+                  "name": "EMBARCADERO WASPÁM",
+                  "text": "EMBARCADERO WASPÁM is a riverside viewpoint in Waspam.",
+                  "category": "natural",
+                  "coords": [
+                        -83.97212,
+                        14.745696
+                  ]
+            },
+            {
+                  "name": "Piales",
+                  "text": "Piales is a waterside resort in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.962112,
+                        14.741448
+                  ]
+            },
+            {
+                  "name": "Rigle",
+                  "text": "Rigle is a beach resort in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.95938,
+                        14.744158
+                  ]
+            },
+            {
+                  "name": "Trintara",
+                  "text": "Trintara is a popular beach resort in the Waspam area.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959028,
+                        14.736191
+                  ]
+            },
+            {
+                  "name": "POZA AZUl",
+                  "text": "POZA AZUl is a nature-oriented resort in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.961,
+                        14.737773
+                  ]
+            },
+            {
+                  "name": "Granja",
+                  "text": "Granja is a recreational and beach resort in Waspam.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.959711,
+                        14.734545
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-AN",
     coords: [-83.97, 14.74],
@@ -1436,7 +2831,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "bonanza-cities-v2",
+    id: "bonanza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mirador Cerro de la Cruz",
+                  "text": "Ein Aussichtspunkt in Bonanza mit Panoramablick auf die Minenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.599035,
+                        14.027911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mirador Cerro de la Cruz",
+                  "text": "Bonanzai kilátó, ahonnan panorámás kilátás nyílik a bányavárosra.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.599035,
+                        14.027911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mirador Cerro de la Cruz",
+                  "text": "Un punct de belvedere din Bonanza care oferă vederi panoramice ale orașului minier.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.599035,
+                        14.027911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mirador Cerro de la Cruz",
+                  "text": "A viewpoint in Bonanza offering panoramic vistas of the mining town.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.599035,
+                        14.027911
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-AN",
     coords: [-84.59, 14.02],
@@ -1724,7 +3164,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "santo-tomas-chontales-cities-v2",
+    id: "santo-tomas-chontales-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cordillera Chontaleña",
+                  "text": "Die Cordillera Chontaleña ist eine Gebirgskette bei Santo Tomás.",
+                  "category": "natural",
+                  "coords": [
+                        -85.096221,
+                        12.051207
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cordillera Chontaleña",
+                  "text": "A Cordillera Chontaleña egy hegylánc Santo Tomás közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -85.096221,
+                        12.051207
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cordillera Chontaleña",
+                  "text": "Cordillera Chontaleña este un lanț muntos lângă Santo Tomás.",
+                  "category": "natural",
+                  "coords": [
+                        -85.096221,
+                        12.051207
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cordillera Chontaleña",
+                  "text": "Cordillera Chontaleña is a mountain range near Santo Tomás.",
+                  "category": "natural",
+                  "coords": [
+                        -85.096221,
+                        12.051207
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-CO",
     coords: [-85.08, 12.07],
@@ -1868,7 +3353,124 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "el-castillo-de-la-concepcion-cities-v2",
+    id: "el-castillo-de-la-concepcion-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Ein Museum in El Castillo, das sich auf die Geschichte der Revolution konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -84.397911,
+                        11.019889
+                  ]
+            },
+            {
+                  "name": "El Castillo de la Inmaculada Concepción",
+                  "text": "Die Ruinen einer spanischen Festung aus dem 18. Jahrhundert am Fluss San Juan.",
+                  "category": "historical",
+                  "coords": [
+                        -84.396705,
+                        11.019212
+                  ]
+            },
+            {
+                  "name": "Cooperativa de Cacao Coodeprosa",
+                  "text": "Eine Kakaogenossenschaft, in der Besucher mehr über die Schokoladenproduktion erfahren können.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.398331,
+                        11.015047
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "A forradalom történetére összpontosító múzeum El Castillóban.",
+                  "category": "museum",
+                  "coords": [
+                        -84.397911,
+                        11.019889
+                  ]
+            },
+            {
+                  "name": "El Castillo de la Inmaculada Concepción",
+                  "text": "Egy 18. századi spanyol erőd romjai a San Juan-folyónál.",
+                  "category": "historical",
+                  "coords": [
+                        -84.396705,
+                        11.019212
+                  ]
+            },
+            {
+                  "name": "Cooperativa de Cacao Coodeprosa",
+                  "text": "Kakaószövetkezet, ahol a látogatók megismerhetik a csokoládégyártást.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.398331,
+                        11.015047
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "Un muzeu din El Castillo care se concentrează pe istoria revoluției.",
+                  "category": "museum",
+                  "coords": [
+                        -84.397911,
+                        11.019889
+                  ]
+            },
+            {
+                  "name": "El Castillo de la Inmaculada Concepción",
+                  "text": "Ruinele unei cetăți spaniole din secolul al XVIII-lea de pe râul San Juan.",
+                  "category": "historical",
+                  "coords": [
+                        -84.396705,
+                        11.019212
+                  ]
+            },
+            {
+                  "name": "Cooperativa de Cacao Coodeprosa",
+                  "text": "O cooperativă de cacao unde vizitatorii pot învăța despre producția de ciocolată.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.398331,
+                        11.015047
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de la Revolución",
+                  "text": "A museum in El Castillo focusing on the history of the revolution.",
+                  "category": "museum",
+                  "coords": [
+                        -84.397911,
+                        11.019889
+                  ]
+            },
+            {
+                  "name": "El Castillo de la Inmaculada Concepción",
+                  "text": "The ruins of an 18th-century Spanish fortress on the San Juan River.",
+                  "category": "historical",
+                  "coords": [
+                        -84.396705,
+                        11.019212
+                  ]
+            },
+            {
+                  "name": "Cooperativa de Cacao Coodeprosa",
+                  "text": "A cocoa cooperative where visitors can learn about chocolate production.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.398331,
+                        11.015047
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-SJ",
     coords: [-84.397, 11.018],
@@ -2012,7 +3614,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "ciudad-dario-cities-v2",
+    id: "ciudad-dario-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Natal Rubén Darío",
+                  "text": "Das Geburtshaus des berühmten Dichters Rubén Darío, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -86.124595,
+                        12.728722
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Natal Rubén Darío",
+                  "text": "A híres költő, Rubén Darío szülőháza, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -86.124595,
+                        12.728722
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Natal Rubén Darío",
+                  "text": "Casa natală a celebrului poet Rubén Darío, astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -86.124595,
+                        12.728722
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Natal Rubén Darío",
+                  "text": "The birthplace of the famous poet Rubén Darío, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -86.124595,
+                        12.728722
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MT",
     coords: [-86.12, 12.73],
@@ -2336,7 +3983,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "terrabona-matagalpa-cities-v2",
+    id: "terrabona-matagalpa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina \"El Bongoe\"",
+                  "text": "Ein öffentliches Schwimmbad zur Erholung in Terrabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.088278,
+                        12.67026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina \"El Bongoe\"",
+                  "text": "Nyilvános úszómedence kikapcsolódáshoz Terrabonában.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.088278,
+                        12.67026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina \"El Bongoe\"",
+                  "text": "O piscină publică pentru recreere în Terrabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.088278,
+                        12.67026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Piscina \"El Bongoe\"",
+                  "text": "A public swimming pool for recreation in Terrabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -86.088278,
+                        12.67026
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MT",
     coords: [-86.08, 12.65],
@@ -2372,7 +4064,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "quilali-nueva-segovia-cities-v2",
+    id: "quilali-nueva-segovia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Gloria",
+                  "text": "Cerro La Gloria ist ein Gipfel in der bergigen Landschaft von Quilalí.",
+                  "category": "natural",
+                  "coords": [
+                        -86.031672,
+                        13.547592
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Gloria",
+                  "text": "Cerro La Gloria egy csúcs Quilalí hegyvidéki táján.",
+                  "category": "natural",
+                  "coords": [
+                        -86.031672,
+                        13.547592
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Gloria",
+                  "text": "Cerro La Gloria este un vârf în peisajul montan din Quilalí.",
+                  "category": "natural",
+                  "coords": [
+                        -86.031672,
+                        13.547592
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Gloria",
+                  "text": "Cerro La Gloria is a peak in the mountainous landscape of Quilalí.",
+                  "category": "natural",
+                  "coords": [
+                        -86.031672,
+                        13.547592
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-NS",
     coords: [-86.01, 13.56],
@@ -2444,7 +4181,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "el-jicaro-nueva-segovia-cities-v2",
+    id: "el-jicaro-nueva-segovia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Guansapo",
+                  "text": "Ein Gipfel in der Nähe von El Jícaro, beliebt für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        -86.151996,
+                        13.742637
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Guansapo",
+                  "text": "Hegycsúcs El Jícaro közelében, amely népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -86.151996,
+                        13.742637
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Guansapo",
+                  "text": "Un vârf lângă El Jícaro, popular pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -86.151996,
+                        13.742637
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Guansapo",
+                  "text": "A peak near El Jícaro, popular for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        -86.151996,
+                        13.742637
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-NS",
     coords: [-86.15, 13.73],
@@ -2480,7 +4262,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "almicamba-cities-v2",
+    id: "almicamba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Tungla",
+                  "text": "Cerro Tungla ist ein markanter Berg in der Nähe von Almicamba.",
+                  "category": "natural",
+                  "coords": [
+                        -83.799205,
+                        14.311627
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Tungla",
+                  "text": "Cerro Tungla egy jellegzetes hegy Almicamba közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -83.799205,
+                        14.311627
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Tungla",
+                  "text": "Cerro Tungla este un munte proeminent lângă Almicamba.",
+                  "category": "natural",
+                  "coords": [
+                        -83.799205,
+                        14.311627
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Tungla",
+                  "text": "Cerro Tungla is a prominent mountain near Almicamba.",
+                  "category": "natural",
+                  "coords": [
+                        -83.799205,
+                        14.311627
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-AN",
     coords: [-83.8, 14.3],
@@ -2552,7 +4379,376 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "corn-island-cities-v2",
+    id: "corn-island-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Coco",
+                  "text": "Ein schöner Sandstrand auf Corn Island für Sonnenanbeter.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "Eine malerische Bucht auf Corn Island, ideal für Bootsfahrten.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "Eine natürliche Bucht auf Corn Island, bekannt für ihre Küstenlandschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "Der höchste Punkt auf Corn Island mit Panoramablick.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "Eine weite Bucht auf Corn Island mit türkisfarbenem Wasser.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "Ein symbolischer Aussichtspunkt auf Corn Island in Form einer Pyramide.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "Ein erhöhter Aussichtspunkt mit Blick über die Küste von Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "Ein Aussichtspunkt an den Klippen von Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "Ein beliebtes Strandresort für Urlauber auf Corn Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora Estrella del Mar",
+                  "text": "Eine charmante Kirche auf Corn Island, die der Meeresstern-Madonna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Coco",
+                  "text": "Gyönyörű homokos tengerpart Corn Island szigetén a napozni vágyóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "Festői öböl Corn Island szigetén, ideális hajózáshoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "Természetes öböl Corn Island szigetén, tengerparti tájáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "Corn Island legmagasabb pontja, panorámás kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "Széles öböl Corn Island szigetén, türkizkék vízzel.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "Szimbolikus kilátópont Corn Island szigetén, piramis alakban.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "Magaslati kilátópont, ahonnan rálátni Corn Island partjaira.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "Kilátópont Corn Island szikláinál.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "Népszerű tengerparti üdülőhely Corn Island szigetén.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora Estrella del Mar",
+                  "text": "Bájos templom Corn Island szigetén, amelyet a Tenger Csillaga Madonnának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Coco",
+                  "text": "O plajă frumoasă de nisip pe Corn Island pentru iubitorii de soare.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "Un golf pitoresc pe Corn Island, ideal pentru plimbări cu barca.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "Un golf natural pe Corn Island, cunoscut pentru peisajul său de coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "Cel mai înalt punct de pe Corn Island, oferind vedere panoramică.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "Un golf larg pe Corn Island, cu ape turcoaz.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "Un punct de belvedere simbolic pe Corn Island, sub formă de piramidă.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "Un punct de observație ridicat cu vedere la coasta insulei Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "Un punct de belvedere situat pe stâncile de pe Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "O stațiune de plajă populară pentru turiști pe Corn Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Iglesia Nuestra Señora Estrella del Mar",
+                  "text": "O biserică fermecătoare pe Corn Island, dedicată Maicii Domnului Steaua Mării.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Coco",
+                  "text": "A beautiful sandy beach on Corn Island for sunseekers.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.067136,
+                        12.169466
+                  ]
+            },
+            {
+                  "name": "Brig Bay",
+                  "text": "A picturesque bay on Corn Island, ideal for boating.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.066666,
+                        12.172258
+                  ]
+            },
+            {
+                  "name": "Sand Fly Bay",
+                  "text": "A natural bay on Corn Island known for its coastal scenery.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.052387,
+                        12.185918
+                  ]
+            },
+            {
+                  "name": "Mount Pleasant Hill",
+                  "text": "The highest point on Corn Island, offering panoramic views.",
+                  "category": "natural",
+                  "coords": [
+                        -83.047776,
+                        12.173041
+                  ]
+            },
+            {
+                  "name": "Long Bay",
+                  "text": "A wide bay on Corn Island with turquoise waters.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.045182,
+                        12.163359
+                  ]
+            },
+            {
+                  "name": "Pyramid (The Soul of the World)",
+                  "text": "A symbolic viewpoint on Corn Island in the shape of a pyramid.",
+                  "category": "natural",
+                  "coords": [
+                        -83.061336,
+                        12.155178
+                  ]
+            },
+            {
+                  "name": "Mirador View",
+                  "text": "An elevated viewpoint overlooking the coast of Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.046088,
+                        12.172172
+                  ]
+            },
+            {
+                  "name": "Cliff Point",
+                  "text": "A viewpoint located on the cliffs of Corn Island.",
+                  "category": "natural",
+                  "coords": [
+                        -83.032578,
+                        12.174534
+                  ]
+            },
+            {
+                  "name": "Lulu beach",
+                  "text": "A popular beach resort for vacationers on Corn Island.",
+                  "category": "recreational",
+                  "coords": [
+                        -83.047046,
+                        12.185656
+                  ]
+            },
+            {
+                  "name": "Our Lady Star of the Sea Church",
+                  "text": "A charming church on Corn Island dedicated to Our Lady Star of the Sea.",
+                  "category": "religious",
+                  "coords": [
+                        -83.061005,
+                        12.181011
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-AS",
     coords: [-83.04, 12.17],
@@ -2984,7 +5180,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-jose-de-cusmapa-madriz-cities-v2",
+    id: "san-jose-de-cusmapa-madriz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Manos de Dios",
+                  "text": "Ein Aussichtspunkt in San José de Cusmapa mit spiritueller Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        -86.653698,
+                        13.282096
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Manos de Dios",
+                  "text": "Kilátópont San José de Cusmapában, spirituális jelentőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        -86.653698,
+                        13.282096
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Manos de Dios",
+                  "text": "Un punct de belvedere în San José de Cusmapa, cu semnificație spirituală.",
+                  "category": "natural",
+                  "coords": [
+                        -86.653698,
+                        13.282096
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manos de Dios",
+                  "text": "A viewpoint in San José de Cusmapa with spiritual significance.",
+                  "category": "natural",
+                  "coords": [
+                        -86.653698,
+                        13.282096
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MD",
     coords: [-86.65, 13.28],
@@ -3092,7 +5333,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "palacaguina-madriz-cities-v2",
+    id: "palacaguina-madriz-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Comunitario de Palacagüina",
+                  "text": "Ein Gemeinschaftsmuseum in Palacagüina, das die lokale Geschichte bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -86.40626,
+                        13.457159
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Comunitario de Palacagüina",
+                  "text": "Közösségi múzeum Palacagüinában, amely a helyi történelmet őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -86.40626,
+                        13.457159
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Comunitario de Palacagüina",
+                  "text": "Un muzeu comunitar în Palacagüina care păstrează istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -86.40626,
+                        13.457159
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Comunitario de Palacagüina",
+                  "text": "A community museum in Palacagüina preserving local history.",
+                  "category": "museum",
+                  "coords": [
+                        -86.40626,
+                        13.457159
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-MD",
     coords: [-86.41, 13.46],
@@ -3452,7 +5738,52 @@ export const poiExtraNicaraguaCitiesV2: POI[] = [
     },
   },
   {
-    id: "san-jose-de-los-remates-boaco-cities-v2",
+    id: "san-jose-de-los-remates-boaco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro Alegre",
+                  "text": "Cerro Alegre ist ein Gipfel in der Region San José de los Remates.",
+                  "category": "natural",
+                  "coords": [
+                        -85.734832,
+                        12.612888
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro Alegre",
+                  "text": "Cerro Alegre egy csúcs San José de los Remates régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -85.734832,
+                        12.612888
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro Alegre",
+                  "text": "Cerro Alegre este un vârf în regiunea San José de los Remates.",
+                  "category": "natural",
+                  "coords": [
+                        -85.734832,
+                        12.612888
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro Alegre",
+                  "text": "Cerro Alegre is a peak in the San José de los Remates region.",
+                  "category": "natural",
+                  "coords": [
+                        -85.734832,
+                        12.612888
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "NI-BO",
     coords: [-85.75, 12.6],

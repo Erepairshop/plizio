@@ -588,7 +588,124 @@ export const vanuatuHistoryV2: POI[] = [
     image: "/poi-images/vanuatu-malakula-cannibal-site-history-v2.webp",
   },
   {
-    id: "vanuatu-john-frum-village-history-v2",
+    id: "vanuatu-john-frum-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mount Yasur",
+                  "text": "Ein aktiver Vulkan auf der Insel Tanna, bekannt für seine regelmäßigen Eruptionen.",
+                  "category": "landmark",
+                  "coords": [
+                        169.448333,
+                        -19.528333
+                  ]
+            },
+            {
+                  "name": "Mount Yasur caldera",
+                  "text": "Ein Aussichtspunkt am Kraterrand des aktiven Vulkans Mount Yasur.",
+                  "category": "natural",
+                  "coords": [
+                        169.450038,
+                        -19.529912
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "Eine natürliche heiße Quelle und eine Sehenswürdigkeit in Sulphur Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        169.459462,
+                        -19.510731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mount Yasur",
+                  "text": "Aktív vulkán Tanna szigetén, amely rendszeres kitöréseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        169.448333,
+                        -19.528333
+                  ]
+            },
+            {
+                  "name": "Mount Yasur caldera",
+                  "text": "Kilátópont az aktív Mount Yasur vulkán kráterének peremén.",
+                  "category": "natural",
+                  "coords": [
+                        169.450038,
+                        -19.529912
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "Természetes melegvizes forrás és látnivaló a Kén-öbölben.",
+                  "category": "landmark",
+                  "coords": [
+                        169.459462,
+                        -19.510731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mount Yasur",
+                  "text": "Un vulcan activ pe insula Tanna, cunoscut pentru erupțiile sale regulate.",
+                  "category": "landmark",
+                  "coords": [
+                        169.448333,
+                        -19.528333
+                  ]
+            },
+            {
+                  "name": "Mount Yasur caldera",
+                  "text": "Un punct de observare pe marginea craterului vulcanului activ Mount Yasur.",
+                  "category": "natural",
+                  "coords": [
+                        169.450038,
+                        -19.529912
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "Un izvor termal natural și o atracție în Sulphur Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        169.459462,
+                        -19.510731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mount Yasur",
+                  "text": "An active volcano on Tanna Island, known for its frequent eruptions.",
+                  "category": "landmark",
+                  "coords": [
+                        169.448333,
+                        -19.528333
+                  ]
+            },
+            {
+                  "name": "Mount Yasur caldera",
+                  "text": "A viewpoint on the rim of the active Mount Yasur volcano's caldera.",
+                  "category": "natural",
+                  "coords": [
+                        169.450038,
+                        -19.529912
+                  ]
+            },
+            {
+                  "name": "Hot Spring",
+                  "text": "A natural hot spring and attraction in Sulphur Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        169.459462,
+                        -19.510731
+                  ]
+            }
+      ]
+},
     parent: "VU",
     type: "village",
     name: { de: "John-Frum-Dorf (Sulphur Bay)", hu: "John Frum falu (Sulphur Bay)", ro: "Satul John Frum (Sulphur Bay)", en: "John Frum Village (Sulphur Bay)" },

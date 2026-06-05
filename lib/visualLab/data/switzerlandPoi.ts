@@ -79,7 +79,1924 @@ export const switzerlandCountry: POI = {
 
 export const switzerlandRegions: POI[] = [
   {
-    id: "city-zurich",
+    id: "city-zurich", "sights": {
+      "de": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Zürichs wichtigstes Museum für Design, visuelle Kommunikation und Architektur.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "Dieses Museum in Zürich gewährt Einblicke in die Geschichte des Zivilschutzes in der Schweiz.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Museum Rietberg",
+                  "text": "Ein renommiertes Museum in Zürich, das sich der außereuropäischen Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.529735,
+                        47.358918
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "Eines der bedeutendsten Uhrenmuseen der Welt, das die Geschichte der Zeitmessung zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "Ein Museum in Zürich, das auf konstruktive, konkrete und konzeptuelle Kunst spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Coninx-Museum",
+                  "text": "Ein Privatmuseum in Zürich, das eine bedeutende Kunstsammlung präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.566593,
+                        47.369133
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "Das Zoologische Museum der Universität Zürich zeigt eine große Vielfalt an Tierpräparaten.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Beherbergt die archäologische Sammlung der Universität Zürich mit antiken Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "Ein geowissenschaftliches Forschungs- und Informationszentrum an der ETH Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "Das Schaudepot des Museums für Gestaltung in Zürich zeigt eine umfangreiche Designsammlung.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "Ein Museum in Zürich, das die Geschichte des Weltfußballs und der FIFA dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Pavillon Le Corbusier",
+                  "text": "Ein architektonisches Juwel am Zürichsee, entworfen von Le Corbusier.",
+                  "category": "museum",
+                  "coords": [
+                        8.551018,
+                        47.356045
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "Ein kleines Museum in Zürich, das eine Sammlung historischer Uhren zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "Dieses Museum in Zürich zeigt eine weltweit bedeutende Sammlung dermatologischer Wachsabdrücke.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "Das Völkerkundemuseum der Universität Zürich präsentiert völkerkundliche Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "Eine renommierte Galerie in Zürich, die auf moderne und zeitgenössische Kunst spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Krattenturm",
+                  "text": "Überreste eines mittelalterlichen Turms, der einst Teil der Stadtbefestigung von Zürich war.",
+                  "category": "historical",
+                  "coords": [
+                        8.556854,
+                        47.391986
+                  ]
+            },
+            {
+                  "name": "Theater am Hechtplatz",
+                  "text": "Ein bekanntes Kleintheater in Zürich, das für Kabarett und Komödien berühmt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        8.544754,
+                        47.368249
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "Ein innovatives Theater in Zürich, das für seine experimentellen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "Theater Winkelwiese",
+                  "text": "Ein Theater in Zürich, das sich auf zeitgenössische Dramatik und neue Talente fokussiert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546732,
+                        47.37016
+                  ]
+            },
+            {
+                  "name": "Opernhaus",
+                  "text": "Das Opernhaus Zürich ist eines der führenden Opernhäuser weltweit mit einer reichen Tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546854,
+                        47.364955
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "Dieses Kunstzentrum in Zürich gilt als Geburtsstätte des Dadaismus im Jahr 1916.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Ein alternatives Kulturzentrum in Zürich, das Raum für Jugendkultur und Kreativität bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "Eine ökumenische Kapelle direkt im Hauptbahnhof Zürich für Reisende und Pendler.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Eine prächtige katholische Kirche in Zürich mit einer neoromanischen Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "Eine historische Kirche in Zürich, die als wichtiges religiöses Wahrzeichen im Stadtteil Aussersihl dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Die Peterskirche in Zürich besitzt das größte Kirchturmzifferblatt Europas.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "Eine katholische Pfarrkirche in Zürich, die den Stadtheiligen Felix und Regula gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Eine neugotische Kirche in Zürich, die für ihre markante Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "Eine bedeutende mittelalterliche Kirche in der Altstadt von Zürich mit einem hohen Turm.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "Eine evangelisch-reformierte Kirche im Zürcher Stadtteil Sihlfeld.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Chinagarten Zürich",
+                  "text": "Ein prächtiger chinesischer Garten direkt am Zürichsee, ein Geschenk der Partnerstadt Kunming.",
+                  "category": "landmark",
+                  "coords": [
+                        8.551991,
+                        47.354972
+                  ]
+            },
+            {
+                  "name": "MAWS301 Zürichberg",
+                  "text": "Ein markanter Fernmeldeturm auf dem Zürichberg, der weithin sichtbar ist.",
+                  "category": "tower",
+                  "coords": [
+                        8.568086,
+                        47.385984
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "Ein historisches Turmbauwerk in Zürich, bekannt als ehemaliger Standort des Stadions.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Karlsturm",
+                  "text": "Einer der beiden markanten Türme des Grossmünsters mit weiter Aussicht über die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        8.543679,
+                        47.370149
+                  ]
+            },
+            {
+                  "name": "Zürichberg",
+                  "text": "Ein bewaldeter Hügel und beliebtes Naherholungsgebiet im Osten von Zürich.",
+                  "category": "natural",
+                  "coords": [
+                        8.566878,
+                        47.38568
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "Ein kleiner Aussichtspunkt in Zürich, der einen ruhigen Blick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "Ein historischer Park am Zusammenfluss von Limmat und Sihl hinter dem Landesmuseum.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "Eine belebte Parkanlage im Aussersihl-Quartier mit Spielplätzen und einem Gemeinschaftszentrum.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Rieterpark",
+                  "text": "Der größte Park in Zürich, bekannt für seine alten Bäume und das Museum Rietberg.",
+                  "category": "park",
+                  "coords": [
+                        8.530514,
+                        47.357878
+                  ]
+            },
+            {
+                  "name": "Belvoirpark",
+                  "text": "Einer der prächtigsten Gärten Zürichs mit herrlicher Aussicht und einer historischen Villa.",
+                  "category": "park",
+                  "coords": [
+                        8.533476,
+                        47.356953
+                  ]
+            },
+            {
+                  "name": "Sukkulenten-Sammlung Zürich",
+                  "text": "Eine der bedeutendsten Sammlungen sukkulenter Pflanzen weltweit direkt am See.",
+                  "category": "park",
+                  "coords": [
+                        8.535079,
+                        47.356185
+                  ]
+            },
+            {
+                  "name": "Anthropologisches Museum",
+                  "text": "Ein Museum der Universität Zürich, das sich der menschlichen Evolution und Vielfalt widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.547333,
+                        47.397835
+                  ]
+            },
+            {
+                  "name": "MoneyMuseum",
+                  "text": "Ein privates Museum, das sich mit der Geschichte des Geldes und der Währung befasst.",
+                  "category": "museum",
+                  "coords": [
+                        8.551485,
+                        47.388809
+                  ]
+            },
+            {
+                  "name": "nano - Raum für Kunst",
+                  "text": "Ein experimenteller Raum für zeitgenössische Kunst und kulturelle Projekte in Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.526702,
+                        47.393632
+                  ]
+            },
+            {
+                  "name": "Karma International",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die internationale Künstler in Zürich präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.521635,
+                        47.370911
+                  ]
+            },
+            {
+                  "name": "Galerie Rosenberg",
+                  "text": "Eine Galerie in Zürich, die sich auf moderne und zeitgenössische Kunstwerke spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        8.555478,
+                        47.354606
+                  ]
+            },
+            {
+                  "name": "Jedlitschka Gallery",
+                  "text": "Eine Galerie für zeitgenössische Kunst mit Fokus auf Skulpturen und Installationen.",
+                  "category": "museum",
+                  "coords": [
+                        8.55023,
+                        47.362466
+                  ]
+            },
+            {
+                  "name": "sam scherrer contemporary",
+                  "text": "Eine Galerie in Zürich, die aktuelle Positionen der Schweizer Kunstszene zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.553339,
+                        47.363694
+                  ]
+            },
+            {
+                  "name": "Lullin + Ferrari",
+                  "text": "Eine Galerie für zeitgenössische Kunst mit einem Schwerpunkt auf Grafik und Fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        8.527472,
+                        47.387772
+                  ]
+            },
+            {
+                  "name": "Galerie Alex Schlesinger",
+                  "text": "Eine Galerie in Zürich, die realistische und gegenständliche zeitgenössische Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.533638,
+                        47.367801
+                  ]
+            },
+            {
+                  "name": "Galerie König Büro",
+                  "text": "Ein Kunstraum in Zürich, der sich der Förderung junger und aufstrebender Künstler widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.509905,
+                        47.369726
+                  ]
+            },
+            {
+                  "name": "Last Tango",
+                  "text": "Ein unabhängiger Ausstellungsraum für zeitgenössische Kunst im Zürcher Seefeld.",
+                  "category": "museum",
+                  "coords": [
+                        8.528249,
+                        47.388842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Zürich legfontosabb dizájn, vizuális kommunikációs és építészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "Ez a zürichi múzeum betekintést nyújt a svájci polgári védelem történetébe.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Museum Rietberg",
+                  "text": "Renomált zürichi múzeum, amely az Európán kívüli művészeteknek szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        8.529735,
+                        47.358918
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "A világ egyik legjelentősebb óramúzeuma, amely az időmérés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "Zürichi múzeum, amely a konstruktív, konkrét és konceptuális művészetre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Coninx-Museum",
+                  "text": "Magánmúzeum Zürichben, amely egy jelentős művészeti gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.566593,
+                        47.369133
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "A Zürichi Egyetem Állattani Múzeuma az állatpreparátumok széles választékát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "A Zürichi Egyetem régészeti gyűjteményének ad otthont antik műtárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "Földtudományi kutató- és információs központ a zürichi ETH egyetemen.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "A zürichi Museum für Gestaltung raktárkiállítása kiterjedt dizájngyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "Zürichi múzeum, amely a világ labdarúgásának és a FIFA-nak a történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Pavillon Le Corbusier",
+                  "text": "Építészeti gyöngyszem a Zürichi-tó partján, amelyet Le Corbusier tervezett.",
+                  "category": "museum",
+                  "coords": [
+                        8.551018,
+                        47.356045
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "Kis zürichi múzeum, amely történelmi órák gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "Ez a zürichi múzeum bőrgyógyászati viaszminták világszerte jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "A Zürichi Egyetem Néprajzi Múzeuma néprajzi gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "Renomált zürichi galéria, amely a modern és kortárs művészetre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Krattenturm",
+                  "text": "Egy középkori torony maradványai, amely egykor Zürich városfalának része volt.",
+                  "category": "historical",
+                  "coords": [
+                        8.556854,
+                        47.391986
+                  ]
+            },
+            {
+                  "name": "Theater am Hechtplatz",
+                  "text": "Ismert zürichi kisszínház, amely kabaréiról és komédiáiról híres.",
+                  "category": "cultural",
+                  "coords": [
+                        8.544754,
+                        47.368249
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "Innovatív zürichi színház, amely kísérleti produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "Theater Winkelwiese",
+                  "text": "Zürichi színház, amely a kortárs drámára és az új tehetségekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546732,
+                        47.37016
+                  ]
+            },
+            {
+                  "name": "Opernhaus",
+                  "text": "A Zürichi Operaház a világ egyik vezető operaháza gazdag hagyományokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546854,
+                        47.364955
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "Ez a zürichi művészeti központ a dadaizmus szülőhelyeként ismert 1916-ból.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Alternatív kulturális központ Zürichben, amely az ifjúsági kultúrának és a kreativitásnak ad teret.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "Ökumenikus kápolna közvetlenül a zürichi főpályaudvaron utazók és ingázók számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Pompás katolikus templom Zürichben, neoromán stílusú építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "Történelmi templom Zürichben, amely fontos vallási jelkép az Aussersihl negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "A zürichi Szent Péter-templom büszkélkedhet Európa legnagyobb toronyóra-számlapjával.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "Zürichi katolikus plébániatemplom, amelyet a város védőszentjeinek, Felixnek és Regulának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Neogótikus templom Zürichben, amely jellegzetes építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "Jelentős középkori templom Zürich óvárosában, magas toronnyal.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "Evangélikus-református templom Zürich Sihlfeld negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Chinagarten Zürich",
+                  "text": "Pompás kínai kert a Zürichi-tó partján, Kunming partnerváros ajándéka.",
+                  "category": "landmark",
+                  "coords": [
+                        8.551991,
+                        47.354972
+                  ]
+            },
+            {
+                  "name": "MAWS301 Zürichberg",
+                  "text": "Jellegzetes távközlési torony a Zürichberg hegyen, amely messziről is jól látható.",
+                  "category": "tower",
+                  "coords": [
+                        8.568086,
+                        47.385984
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "Történelmi toronyépítmény Zürichben, a korábbi stadion helyszíneként ismert.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Karlsturm",
+                  "text": "A Grossmünster templom két jellegzetes tornyának egyike, kilátással a városra.",
+                  "category": "natural",
+                  "coords": [
+                        8.543679,
+                        47.370149
+                  ]
+            },
+            {
+                  "name": "Zürichberg",
+                  "text": "Erdős domb és népszerű pihenőhely Zürich keleti részén.",
+                  "category": "natural",
+                  "coords": [
+                        8.566878,
+                        47.38568
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "Kisebb kilátópont Zürichben, amely nyugodt kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "Történelmi park a Limmat és a Sihl folyók találkozásánál, az Országos Múzeum mögött.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "Életteli park az Aussersihl negyedben játszóterekkel és közösségi központtal.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Rieterpark",
+                  "text": "Zürich legnagyobb parkja, amely idős fáiról és a Rietberg Múzeumról ismert.",
+                  "category": "park",
+                  "coords": [
+                        8.530514,
+                        47.357878
+                  ]
+            },
+            {
+                  "name": "Belvoirpark",
+                  "text": "Zürich egyik legpompásabb kertje gyönyörű kilátással és egy történelmi villával.",
+                  "category": "park",
+                  "coords": [
+                        8.533476,
+                        47.356953
+                  ]
+            },
+            {
+                  "name": "Sukkulenten-Sammlung Zürich",
+                  "text": "A világ egyik legjelentősebb pozsgásnövény-gyűjteménye közvetlenül a tó partján.",
+                  "category": "park",
+                  "coords": [
+                        8.535079,
+                        47.356185
+                  ]
+            },
+            {
+                  "name": "Anthropologisches Museum",
+                  "text": "A Zürichi Egyetem múzeuma, amely az emberi evolúciónak és sokféleségnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        8.547333,
+                        47.397835
+                  ]
+            },
+            {
+                  "name": "MoneyMuseum",
+                  "text": "Magánmúzeum, amely a pénz és a valuták történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        8.551485,
+                        47.388809
+                  ]
+            },
+            {
+                  "name": "nano - Raum für Kunst",
+                  "text": "Kísérleti tér a kortárs művészet és kulturális projektek számára Zürichben.",
+                  "category": "museum",
+                  "coords": [
+                        8.526702,
+                        47.393632
+                  ]
+            },
+            {
+                  "name": "Karma International",
+                  "text": "Kortárs művészeti galéria, amely nemzetközi művészeket mutat be Zürichben.",
+                  "category": "museum",
+                  "coords": [
+                        8.521635,
+                        47.370911
+                  ]
+            },
+            {
+                  "name": "Galerie Rosenberg",
+                  "text": "Modern és kortárs műalkotásokra specializálódott galéria Zürichben.",
+                  "category": "museum",
+                  "coords": [
+                        8.555478,
+                        47.354606
+                  ]
+            },
+            {
+                  "name": "Jedlitschka Gallery",
+                  "text": "Kortárs művészeti galéria, amely szobrokra és installációkra fókuszál.",
+                  "category": "museum",
+                  "coords": [
+                        8.55023,
+                        47.362466
+                  ]
+            },
+            {
+                  "name": "sam scherrer contemporary",
+                  "text": "Zürichi galéria, amely a svájci művészeti élet aktuális pozícióit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.553339,
+                        47.363694
+                  ]
+            },
+            {
+                  "name": "Lullin + Ferrari",
+                  "text": "Kortárs művészeti galéria grafikai és fotográfiai hangsúllyal.",
+                  "category": "museum",
+                  "coords": [
+                        8.527472,
+                        47.387772
+                  ]
+            },
+            {
+                  "name": "Galerie Alex Schlesinger",
+                  "text": "Reális és ábrázoló kortárs művészetet bemutató galéria Zürichben.",
+                  "category": "museum",
+                  "coords": [
+                        8.533638,
+                        47.367801
+                  ]
+            },
+            {
+                  "name": "Galerie König Büro",
+                  "text": "Zürichi művészeti tér, amely fiatal és feltörekvő művészek támogatásának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        8.509905,
+                        47.369726
+                  ]
+            },
+            {
+                  "name": "Last Tango",
+                  "text": "Független kortárs művészeti kiállítóhely a zürichi Seefeld negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        8.528249,
+                        47.388842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Cel mai important muzeu din Zürich pentru design, comunicare vizuală și arhitectură.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "Acest muzeu din Zürich oferă informații despre istoria protecției civile în Elveția.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Museum Rietberg",
+                  "text": "Un muzeu renumit din Zürich dedicat artei non-europene.",
+                  "category": "museum",
+                  "coords": [
+                        8.529735,
+                        47.358918
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "Unul dintre cele mai importante muzee de ceasuri din lume, prezentând istoria cronometrajului.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "Un muzeu din Zürich specializat în artă constructivă, concretă și conceptuală.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Coninx-Museum",
+                  "text": "Un muzeu privat din Zürich care prezintă o colecție importantă de artă.",
+                  "category": "museum",
+                  "coords": [
+                        8.566593,
+                        47.369133
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "Muzeul Zoologic al Universității din Zürich expune o mare varietate de exemplare de animale.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Găzduiește colecția arheologică a Universității din Zürich cu artefacte antice.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "Un centru de cercetare și informare în geostiințe la ETH Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "Depozitul vizitabil al Muzeului de Design din Zürich expune o colecție vastă de design.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "Un muzeu din Zürich care documentează istoria fotbalului mondial și a FIFA.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Pavillon Le Corbusier",
+                  "text": "O bijuterie arhitecturală pe malul lacului Zürich, proiectată de Le Corbusier.",
+                  "category": "museum",
+                  "coords": [
+                        8.551018,
+                        47.356045
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "Un mic muzeu din Zürich care expune o colecție de ceasuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "Acest muzeu din Zürich expune o colecție de mulaje dermatologice de importanță mondială.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "Muzeul de Etnografie al Universității din Zürich prezintă colecții etnografice.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "O galerie renumită din Zürich, specializată în artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Krattenturm",
+                  "text": "Rămășițele unui turn medieval care a făcut parte odinioară din fortificațiile orașului Zürich.",
+                  "category": "historical",
+                  "coords": [
+                        8.556854,
+                        47.391986
+                  ]
+            },
+            {
+                  "name": "Theater am Hechtplatz",
+                  "text": "Un teatru mic cunoscut din Zürich, renumit pentru cabaret și comedii.",
+                  "category": "cultural",
+                  "coords": [
+                        8.544754,
+                        47.368249
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "Un teatru inovator din Zürich, cunoscut pentru producțiile sale experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "Theater Winkelwiese",
+                  "text": "Un teatru din Zürich care se concentrează pe dramaturgia contemporană și noile talente.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546732,
+                        47.37016
+                  ]
+            },
+            {
+                  "name": "Opernhaus",
+                  "text": "Opera din Zürich este una dintre cele mai importante case de operă din lume, cu o tradiție bogată.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546854,
+                        47.364955
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "Acest centru de artă din Zürich este considerat locul de naștere al dadaismului în 1916.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Un centru cultural alternativ din Zürich, care oferă spațiu pentru cultura tinerilor și creativitate.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "O capelă ecumenică situată chiar în gara centrală din Zürich pentru călători și navetiști.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "O biserică catolică splendidă din Zürich, cu o arhitectură neoromanică.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "O biserică istorică din Zürich, servind ca un reper religios important în districtul Aussersihl.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Biserica Sfântul Petru din Zürich are cel mai mare cadran de ceas de biserică din Europa.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "O biserică parohială catolică din Zürich, dedicată sfinților patroni ai orașului, Felix și Regula.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "O biserică neogotică din Zürich, cunoscută pentru arhitectura sa distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "O biserică medievală importantă din centrul vechi al Zürichului, cu un turn înalt.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "O biserică evanghelică reformată situată în districtul Sihlfeld din Zürich.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Chinagarten Zürich",
+                  "text": "O grădină chinezescă magnifică pe malul lacului Zürich, un cadou de la orașul înfrățit Kunming.",
+                  "category": "landmark",
+                  "coords": [
+                        8.551991,
+                        47.354972
+                  ]
+            },
+            {
+                  "name": "MAWS301 Zürichberg",
+                  "text": "Un turn de telecomunicații proeminent pe muntele Zürichberg, vizibil de la distanță.",
+                  "category": "tower",
+                  "coords": [
+                        8.568086,
+                        47.385984
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "O structură istorică de turn în Zürich, cunoscută ca fostul amplasament al stadionului.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Karlsturm",
+                  "text": "Unul dintre cele două turnuri proeminente ale catedralei Grossmünster, cu vedere spre oraș.",
+                  "category": "natural",
+                  "coords": [
+                        8.543679,
+                        47.370149
+                  ]
+            },
+            {
+                  "name": "Zürichberg",
+                  "text": "O colină împădurită și o zonă populară de recreere în estul Zürichului.",
+                  "category": "natural",
+                  "coords": [
+                        8.566878,
+                        47.38568
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "Un mic punct de belvedere în Zürich, care oferă o vedere liniștită asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "Un parc istoric la confluența râurilor Limmat și Sihl, în spatele Muzeului Național.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "Un parc plin de viață în cartierul Aussersihl, cu locuri de joacă și un centru comunitar.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Rieterpark",
+                  "text": "Cel mai mare parc din Zürich, cunoscut pentru copacii săi vechi și Muzeul Rietberg.",
+                  "category": "park",
+                  "coords": [
+                        8.530514,
+                        47.357878
+                  ]
+            },
+            {
+                  "name": "Belvoirpark",
+                  "text": "Una dintre cele mai splendide grădini din Zürich, cu vederi frumoase și o vilă istorică.",
+                  "category": "park",
+                  "coords": [
+                        8.533476,
+                        47.356953
+                  ]
+            },
+            {
+                  "name": "Sukkulenten-Sammlung Zürich",
+                  "text": "Una dintre cele mai importante colecții de plante suculente din lume, situată pe malul lacului.",
+                  "category": "park",
+                  "coords": [
+                        8.535079,
+                        47.356185
+                  ]
+            },
+            {
+                  "name": "Anthropologisches Museum",
+                  "text": "Un muzeu al Universității din Zürich, dedicat evoluției și diversității umane.",
+                  "category": "museum",
+                  "coords": [
+                        8.547333,
+                        47.397835
+                  ]
+            },
+            {
+                  "name": "MoneyMuseum",
+                  "text": "Un muzeu privat care se ocupă de istoria banilor și a monedei.",
+                  "category": "museum",
+                  "coords": [
+                        8.551485,
+                        47.388809
+                  ]
+            },
+            {
+                  "name": "nano - Raum für Kunst",
+                  "text": "Un spațiu experimental pentru artă contemporană și proiecte culturale în Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.526702,
+                        47.393632
+                  ]
+            },
+            {
+                  "name": "Karma International",
+                  "text": "O galerie de artă contemporană care prezintă artiști internaționali în Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.521635,
+                        47.370911
+                  ]
+            },
+            {
+                  "name": "Galerie Rosenberg",
+                  "text": "O galerie din Zürich specializată în opere de artă moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        8.555478,
+                        47.354606
+                  ]
+            },
+            {
+                  "name": "Jedlitschka Gallery",
+                  "text": "O galerie de artă contemporană axată pe sculpturi și instalații.",
+                  "category": "museum",
+                  "coords": [
+                        8.55023,
+                        47.362466
+                  ]
+            },
+            {
+                  "name": "sam scherrer contemporary",
+                  "text": "O galerie din Zürich care prezintă poziții actuale ale scenei artistice elvețiene.",
+                  "category": "museum",
+                  "coords": [
+                        8.553339,
+                        47.363694
+                  ]
+            },
+            {
+                  "name": "Lullin + Ferrari",
+                  "text": "O galerie de artă contemporană cu accent pe grafică și fotografie.",
+                  "category": "museum",
+                  "coords": [
+                        8.527472,
+                        47.387772
+                  ]
+            },
+            {
+                  "name": "Galerie Alex Schlesinger",
+                  "text": "O galerie din Zürich care expune artă contemporană realistă și figurativă.",
+                  "category": "museum",
+                  "coords": [
+                        8.533638,
+                        47.367801
+                  ]
+            },
+            {
+                  "name": "Galerie König Büro",
+                  "text": "Un spațiu de artă din Zürich dedicat promovării artiștilor tineri și în curs de afirmare.",
+                  "category": "museum",
+                  "coords": [
+                        8.509905,
+                        47.369726
+                  ]
+            },
+            {
+                  "name": "Last Tango",
+                  "text": "Un spațiu de expoziție independent pentru artă contemporană în cartierul Seefeld din Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.528249,
+                        47.388842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Zürich's premier museum for design, visual communication, and architecture.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "This museum in Zürich provides insights into the history of civil defence in Switzerland.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Rietberg Museum",
+                  "text": "A renowned museum in Zürich dedicated to non-European art.",
+                  "category": "museum",
+                  "coords": [
+                        8.529735,
+                        47.358918
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "One of the world's most significant watch museums, showcasing the history of timekeeping.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "A museum in Zürich specializing in constructive, concrete, and conceptual art.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Coninx-Museum",
+                  "text": "A private museum in Zürich showcasing a significant art collection.",
+                  "category": "museum",
+                  "coords": [
+                        8.566593,
+                        47.369133
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "The Zoological Museum of the University of Zürich displays a wide variety of animal specimens.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Houses the archaeological collection of the University of Zürich with ancient artefacts.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "An earth science research and information centre at ETH Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "The open storage of the Museum of Design in Zürich showcases an extensive design collection.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "A museum in Zürich documenting the history of world football and FIFA.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Pavillon Le Corbusier",
+                  "text": "An architectural gem on the shores of Lake Zürich, designed by Le Corbusier.",
+                  "category": "museum",
+                  "coords": [
+                        8.551018,
+                        47.356045
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "A small museum in Zürich showcasing a collection of historical watches.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "This museum in Zürich displays a world-renowned collection of dermatological wax moulages.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "The Ethnographic Museum of the University of Zürich presents ethnographic collections.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "A prestigious gallery in Zürich specializing in modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Krattenturm",
+                  "text": "Remains of a medieval tower that was once part of Zürich's city fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        8.556854,
+                        47.391986
+                  ]
+            },
+            {
+                  "name": "Theater am Hechtplatz",
+                  "text": "A well-known small theatre in Zürich famous for cabaret and comedy.",
+                  "category": "cultural",
+                  "coords": [
+                        8.544754,
+                        47.368249
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "An innovative theatre in Zürich known for its experimental productions.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "Theater Winkelwiese",
+                  "text": "A theatre in Zürich focusing on contemporary drama and new talent.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546732,
+                        47.37016
+                  ]
+            },
+            {
+                  "name": "Opera House",
+                  "text": "The Zürich Opera House is one of the world's leading opera houses with a rich tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        8.546854,
+                        47.364955
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "This arts centre in Zürich is famous as the birthplace of Dadaism in 1916.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "An alternative cultural centre in Zürich providing space for youth culture and creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "An ecumenical chapel located directly within Zürich's main station for travellers and commuters.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "A magnificent Catholic church in Zürich featuring neo-Romanesque architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "A historic church in Zürich serving as an important religious landmark in the Aussersihl district.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "St. Peter's Church in Zürich features the largest church clock face in Europe.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "A Catholic parish church in Zürich dedicated to the city's patron saints, Felix and Regula.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "A neo-Gothic church in Zürich known for its striking architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "A prominent medieval church in Zürich's old town featuring a tall spire.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "An Evangelical Reformed church located in the Sihlfeld district of Zürich.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Chinagarten Zürich",
+                  "text": "A magnificent Chinese garden on the shores of Lake Zurich, a gift from the partner city of Kunming.",
+                  "category": "landmark",
+                  "coords": [
+                        8.551991,
+                        47.354972
+                  ]
+            },
+            {
+                  "name": "MAWS301 Zürichberg",
+                  "text": "A prominent telecommunications tower on the Zürichberg hill, visible from afar.",
+                  "category": "tower",
+                  "coords": [
+                        8.568086,
+                        47.385984
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "A historical tower structure in Zurich, known as the former site of the stadium.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Karlsturm",
+                  "text": "One of the two prominent towers of the Grossmünster church with views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        8.543679,
+                        47.370149
+                  ]
+            },
+            {
+                  "name": "Zürichberg",
+                  "text": "A wooded hill and popular recreation area in the east of Zurich.",
+                  "category": "natural",
+                  "coords": [
+                        8.566878,
+                        47.38568
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "A small viewpoint in Zurich offering a quiet view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "A historical park at the confluence of the Limmat and Sihl rivers behind the National Museum.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "A lively park in the Aussersihl district with playgrounds and a community center.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Rieterpark",
+                  "text": "The largest park in Zurich, known for its old trees and the Rietberg Museum.",
+                  "category": "park",
+                  "coords": [
+                        8.530514,
+                        47.357878
+                  ]
+            },
+            {
+                  "name": "Belvoirpark",
+                  "text": "One of Zurich's most magnificent gardens with beautiful views and a historical villa.",
+                  "category": "park",
+                  "coords": [
+                        8.533476,
+                        47.356953
+                  ]
+            },
+            {
+                  "name": "Sukkulenten-Sammlung Zürich",
+                  "text": "One of the most important collections of succulent plants in the world, located by the lake.",
+                  "category": "park",
+                  "coords": [
+                        8.535079,
+                        47.356185
+                  ]
+            },
+            {
+                  "name": "Anthropologisches Museum",
+                  "text": "A museum of the University of Zurich dedicated to human evolution and diversity.",
+                  "category": "museum",
+                  "coords": [
+                        8.547333,
+                        47.397835
+                  ]
+            },
+            {
+                  "name": "MoneyMuseum",
+                  "text": "A private museum dealing with the history of money and currency.",
+                  "category": "museum",
+                  "coords": [
+                        8.551485,
+                        47.388809
+                  ]
+            },
+            {
+                  "name": "nano - Raum für Kunst",
+                  "text": "An experimental space for contemporary art and cultural projects in Zurich.",
+                  "category": "museum",
+                  "coords": [
+                        8.526702,
+                        47.393632
+                  ]
+            },
+            {
+                  "name": "Karma International",
+                  "text": "A contemporary art gallery presenting international artists in Zurich.",
+                  "category": "museum",
+                  "coords": [
+                        8.521635,
+                        47.370911
+                  ]
+            },
+            {
+                  "name": "Galerie Rosenberg",
+                  "text": "A gallery in Zurich specializing in modern and contemporary artworks.",
+                  "category": "museum",
+                  "coords": [
+                        8.555478,
+                        47.354606
+                  ]
+            },
+            {
+                  "name": "Jedlitschka Gallery",
+                  "text": "A contemporary art gallery focusing on sculptures and installations.",
+                  "category": "museum",
+                  "coords": [
+                        8.55023,
+                        47.362466
+                  ]
+            },
+            {
+                  "name": "sam scherrer contemporary",
+                  "text": "A gallery in Zurich showing current positions of the Swiss art scene.",
+                  "category": "museum",
+                  "coords": [
+                        8.553339,
+                        47.363694
+                  ]
+            },
+            {
+                  "name": "Lullin + Ferrari",
+                  "text": "A contemporary art gallery with an emphasis on graphics and photography.",
+                  "category": "museum",
+                  "coords": [
+                        8.527472,
+                        47.387772
+                  ]
+            },
+            {
+                  "name": "Galerie Alex Schlesinger",
+                  "text": "A gallery in Zurich exhibiting realistic and figurative contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.533638,
+                        47.367801
+                  ]
+            },
+            {
+                  "name": "Galerie König Büro",
+                  "text": "An art space in Zurich dedicated to promoting young and emerging artists.",
+                  "category": "museum",
+                  "coords": [
+                        8.509905,
+                        47.369726
+                  ]
+            },
+            {
+                  "name": "Last Tango",
+                  "text": "An independent exhibition space for contemporary art in Zurich's Seefeld district.",
+                  "category": "museum",
+                  "coords": [
+                        8.528249,
+                        47.388842
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.5417, 47.3769],
@@ -150,7 +2067,1924 @@ export const switzerlandRegions: POI[] = [
     },
   },
   {
-    id: "city-geneva",
+    id: "city-geneva", "sights": {
+      "de": [
+            {
+                  "name": "Musée Barbier-Mueller",
+                  "text": "Ein Museum in Genf, das für seine Sammlung tribaler und klassischer Kunst bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.146698,
+                        46.202032
+                  ]
+            },
+            {
+                  "name": "Musée d'ethnographie",
+                  "text": "Ein ethnografisches Museum in Genf, das Kulturen aus aller Welt erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        6.13688,
+                        46.197871
+                  ]
+            },
+            {
+                  "name": "Musée Ariana",
+                  "text": "Das Schweizer Museum für Keramik und Glas, untergebracht in einem klassizistischen Palast in Genf.",
+                  "category": "museum",
+                  "coords": [
+                        6.138855,
+                        46.225405
+                  ]
+            },
+            {
+                  "name": "Internationales Rotkreuz- und Rothalbmondmuseum",
+                  "text": "Das Internationale Rotkreuz- und Rothalbmondmuseum in Genf.",
+                  "category": "museum",
+                  "coords": [
+                        6.136901,
+                        46.22741
+                  ]
+            },
+            {
+                  "name": "Palais Eynard",
+                  "text": "Ein klassizistischer Palast in Genf, der als Sitz der Stadtregierung dient.",
+                  "category": "historical",
+                  "coords": [
+                        6.147203,
+                        46.199272
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Genève",
+                  "text": "Das größte Opernhaus in Genf ist ein bedeutendes Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142628,
+                        46.20178
+                  ]
+            },
+            {
+                  "name": "Bâtiment des Forces Motrices",
+                  "text": "Ein ehemaliges Wasserkraftwerk, das heute als markantes Kulturzentrum und Theater genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        6.137281,
+                        46.20452
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "Eine renommierte Konzerthalle in Genf, die für ihre hervorragende Akustik bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        6.141054,
+                        46.201402
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-de-Sales",
+                  "text": "Eine katholische Kirche in Genf, die der religiösen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.145055,
+                        46.194852
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Gervais",
+                  "text": "Ein historischer protestantischer Tempel im Stadtteil Saint-Gervais in Genf.",
+                  "category": "religious",
+                  "coords": [
+                        6.140984,
+                        46.20646
+                  ]
+            },
+            {
+                  "name": "Sainte-Croix",
+                  "text": "Eine markante Kirche in Carouge, die für ihre Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.139825,
+                        46.18402
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Eine Pfarrkirche in Cologny, die als Ort der Anbetung dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.1756,
+                        46.202464
+                  ]
+            },
+            {
+                  "name": "Jet d'eau",
+                  "text": "Eine große Fontäne im Genfersee und das berühmteste Wahrzeichen der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.155889,
+                        46.207381
+                  ]
+            },
+            {
+                  "name": "Marronnier Officiel",
+                  "text": "Die offizielle Kastanie von Genf, deren Knospen traditionell den Frühling ankündigen.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146384,
+                        46.200547
+                  ]
+            },
+            {
+                  "name": "Tour de Champel",
+                  "text": "Ein neugotischer Turm im Stadtteil Champel, der einen weiten Ausblick bietet.",
+                  "category": "tower",
+                  "coords": [
+                        6.152119,
+                        46.187444
+                  ]
+            },
+            {
+                  "name": "Pont de Vessy",
+                  "text": "Eine Brücke in Genf, die den Fluss Arve überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        6.159912,
+                        46.18105
+                  ]
+            },
+            {
+                  "name": "Pont du Val-d'Arve",
+                  "text": "Eine wichtige Brücke, die die Ufer der Arve in Genf verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153976,
+                        46.183344
+                  ]
+            },
+            {
+                  "name": "Parc Moynier",
+                  "text": "Ein öffentlicher Park am Ufer des Genfersees, ideal zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        6.151303,
+                        46.219394
+                  ]
+            },
+            {
+                  "name": "Parc Mon-Repos",
+                  "text": "Ein ruhiger Park am Seeufer, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        6.149999,
+                        46.218536
+                  ]
+            },
+            {
+                  "name": "Parc Barton",
+                  "text": "Ein öffentlicher Park in Genf, der für seine beeindruckenden Mammutbäume bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        6.151379,
+                        46.222207
+                  ]
+            },
+            {
+                  "name": "Ariana-Park",
+                  "text": "Ein weitläufiger Park, der das Ariana-Museum und den Völkerbundpalast umgibt.",
+                  "category": "park",
+                  "coords": [
+                        6.13778,
+                        46.224899
+                  ]
+            },
+            {
+                  "name": "Parc Bertrand",
+                  "text": "Ein großer Stadtpark im Viertel Champel mit verschiedenen Freizeiteinrichtungen.",
+                  "category": "park",
+                  "coords": [
+                        6.158269,
+                        46.192939
+                  ]
+            },
+            {
+                  "name": "Parc La Grange",
+                  "text": "Einer der größten Parks in Genf, bekannt für seinen wunderschönen Rosengarten.",
+                  "category": "park",
+                  "coords": [
+                        6.167038,
+                        46.206275
+                  ]
+            },
+            {
+                  "name": "Parc Chuit",
+                  "text": "Eine gepflegte Grünanlage in Genf, die zum Spazierengehen einlädt.",
+                  "category": "park",
+                  "coords": [
+                        6.123616,
+                        46.191623
+                  ]
+            },
+            {
+                  "name": "Parc des Délices",
+                  "text": "Ein historischer Park, der das ehemalige Wohnhaus von Voltaire umgibt.",
+                  "category": "park",
+                  "coords": [
+                        6.133289,
+                        46.207643
+                  ]
+            },
+            {
+                  "name": "Parc Baud-Bovy",
+                  "text": "Ein städtischer Park in Genf, der nach dem Schweizer Künstler benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        6.138534,
+                        46.195288
+                  ]
+            },
+            {
+                  "name": "Parc des Eaux-Vives",
+                  "text": "Ein großer Park am Seeufer mit historischen Villen und weiten Rasenflächen.",
+                  "category": "park",
+                  "coords": [
+                        6.169277,
+                        46.208636
+                  ]
+            },
+            {
+                  "name": "La Pierre-aux-Dames, Erratic Boulder",
+                  "text": "Ein prähistorischer Findling in Genf, der mit antiken Gravuren verziert ist.",
+                  "category": "historical",
+                  "coords": [
+                        6.15119,
+                        46.199214
+                  ]
+            },
+            {
+                  "name": "Phare des Pâquis",
+                  "text": "Ein markanter Leuchtturm am Ende des Pâquis-Stegs am Genfersee.",
+                  "category": "landmark",
+                  "coords": [
+                        6.156929,
+                        46.209998
+                  ]
+            },
+            {
+                  "name": "Jardin Anglais",
+                  "text": "Ein beliebter Park am Seeufer, in dem sich die berühmte Blumenuhr befindet.",
+                  "category": "park",
+                  "coords": [
+                        6.1524,
+                        46.204296
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire des sciences",
+                  "text": "Ein Museum in einer Villa am See, das der Geschichte wissenschaftlicher Instrumente gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        6.152126,
+                        46.220829
+                  ]
+            },
+            {
+                  "name": "Patek Philippe Museum",
+                  "text": "Ein bedeutendes Museum, das die Geschichte der Uhrmacherkunst und Patek Philippe Uhren zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.138267,
+                        46.1984
+                  ]
+            },
+            {
+                  "name": "Musée des arts d'Extrême-Orient",
+                  "text": "Ein Museum in Genf, das eine Sammlung fernöstlicher Kunst und Antiquitäten präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.153379,
+                        46.197596
+                  ]
+            },
+            {
+                  "name": "Musée international de la Réforme",
+                  "text": "Dieses Museum dokumentiert die Geschichte der Reformation und Johannes Calvins Wirken.",
+                  "category": "museum",
+                  "coords": [
+                        6.148342,
+                        46.20148
+                  ]
+            },
+            {
+                  "name": "Théâtre de Carouge",
+                  "text": "Ein renommiertes Theater in Carouge, das für seine zeitgenössischen Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142084,
+                        46.181177
+                  ]
+            },
+            {
+                  "name": "Casino Théâtre",
+                  "text": "Ein charmantes Theater im Herzen der Genfer Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.143269,
+                        46.194612
+                  ]
+            },
+            {
+                  "name": "Halle Nord",
+                  "text": "Ein Zentrum für zeitgenössische Kunst, das Ausstellungen lokaler und internationaler Künstler zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14136,
+                        46.204618
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Jean",
+                  "text": "Eine protestantische Kirche im Stadtteil Saint-Jean in Genf.",
+                  "category": "religious",
+                  "coords": [
+                        6.127663,
+                        46.204387
+                  ]
+            },
+            {
+                  "name": "Mosquée du Petit-Saconnex",
+                  "text": "Die größte Moschee in Genf und ein wichtiges religiöses Zentrum für die muslimische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        6.121945,
+                        46.223622
+                  ]
+            },
+            {
+                  "name": "Temple du Petit-Saconnex",
+                  "text": "Ein historischer protestantischer Tempel im Stadtteil Petit-Saconnex.",
+                  "category": "religious",
+                  "coords": [
+                        6.127956,
+                        46.222972
+                  ]
+            },
+            {
+                  "name": "Christ-Roi",
+                  "text": "Eine katholische Kirche in Genf, die dem Christkönig gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.117234,
+                        46.189058
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Grâces",
+                  "text": "Eine katholische Kirche, die als Ort der Anbetung und Besinnung dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.12109,
+                        46.182374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Trinité",
+                  "text": "Eine Kirche in Genf, die der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.147159,
+                        46.216394
+                  ]
+            },
+            {
+                  "name": "Église adventiste du Septième Jour",
+                  "text": "Ein Gotteshaus der Gemeinschaft der Siebenten-Tags-Adventisten in Genf.",
+                  "category": "religious",
+                  "coords": [
+                        6.149136,
+                        46.195905
+                  ]
+            },
+            {
+                  "name": "Communauté Israélite Libérale de Genève-GIL",
+                  "text": "Das religiöse Zentrum der liberalen jüdischen Gemeinschaft in Genf.",
+                  "category": "religious",
+                  "coords": [
+                        6.170838,
+                        46.200674
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-de-Flue",
+                  "text": "Eine moderne katholische Kirche, die dem Schweizer Nationalheiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.140569,
+                        46.218739
+                  ]
+            },
+            {
+                  "name": "Église Russe",
+                  "text": "Eine prächtige russisch-orthodoxe Kathedrale, bekannt für ihre goldenen Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        6.153802,
+                        46.198879
+                  ]
+            },
+            {
+                  "name": "Temple de la Madeleine",
+                  "text": "Eine der ältesten protestantischen Kirchen in Genf mit historischer Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        6.149311,
+                        46.202058
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Joseph",
+                  "text": "Eine katholische Pfarrkirche im Stadtteil Eaux-Vives in Genf.",
+                  "category": "religious",
+                  "coords": [
+                        6.155586,
+                        46.202278
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne de Chantal",
+                  "text": "Eine katholische Kirche, die der Heiligen Johanna von Chantal gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.125526,
+                        46.207307
+                  ]
+            },
+            {
+                  "name": "Temple des Eaux-Vives",
+                  "text": "Ein protestantischer Tempel im lebhaften Viertel Eaux-Vives.",
+                  "category": "religious",
+                  "coords": [
+                        6.160745,
+                        46.201694
+                  ]
+            },
+            {
+                  "name": "Temple de Plainpalais",
+                  "text": "Ein protestantisches Gotteshaus im Viertel Plainpalais in Genf.",
+                  "category": "religious",
+                  "coords": [
+                        6.141213,
+                        46.195244
+                  ]
+            },
+            {
+                  "name": "Temple de la Fusterie",
+                  "text": "Die erste Kirche in Genf, die speziell für den protestantischen Gottesdienst gebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        6.145846,
+                        46.203844
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée Barbier-Mueller",
+                  "text": "Genfi múzeum, amely törzsi és klasszikus művészeti gyűjteményéről híres.",
+                  "category": "museum",
+                  "coords": [
+                        6.146698,
+                        46.202032
+                  ]
+            },
+            {
+                  "name": "Musée d'ethnographie",
+                  "text": "Néprajzi múzeum Genfben, amely a világ különböző kultúráit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.13688,
+                        46.197871
+                  ]
+            },
+            {
+                  "name": "Musée Ariana",
+                  "text": "Svájci kerámia- és üvegmúzeum, amely egy neoklasszicista palotában található Genfben.",
+                  "category": "museum",
+                  "coords": [
+                        6.138855,
+                        46.225405
+                  ]
+            },
+            {
+                  "name": "Musée International de la Croix-Rouge et du Croissant-Rouge",
+                  "text": "A Nemzetközi Vöröskereszt és Vörös Félhold Múzeuma Genfben.",
+                  "category": "museum",
+                  "coords": [
+                        6.136901,
+                        46.22741
+                  ]
+            },
+            {
+                  "name": "Palais Eynard",
+                  "text": "Neoklasszicista palota Genfben, amely a városi végrehajtó hatalom székhelye.",
+                  "category": "historical",
+                  "coords": [
+                        6.147203,
+                        46.199272
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Genève",
+                  "text": "Genf legnagyobb operaháza az előadóművészetek jelentős központja.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142628,
+                        46.20178
+                  ]
+            },
+            {
+                  "name": "Bâtiment des Forces Motrices",
+                  "text": "Egy egykori vízerőmű, amely ma különleges kulturális központként és színházként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        6.137281,
+                        46.20452
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "Neves hangversenyterem Genfben, amely kiváló akusztikájáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.141054,
+                        46.201402
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-de-Sales",
+                  "text": "Római katolikus templom Genfben, amely a vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.145055,
+                        46.194852
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Gervais",
+                  "text": "Történelmi protestáns templom Genf Saint-Gervais negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.140984,
+                        46.20646
+                  ]
+            },
+            {
+                  "name": "Sainte-Croix",
+                  "text": "Jellegzetes templom Carouge-ban, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        6.139825,
+                        46.18402
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Plébániatemplom Cologny-ban, amely istentiszteleti helyként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        6.1756,
+                        46.202464
+                  ]
+            },
+            {
+                  "name": "Jet d'eau",
+                  "text": "Hatalmas szökőkút a Genfi-tavon, a város leghíresebb jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        6.155889,
+                        46.207381
+                  ]
+            },
+            {
+                  "name": "Marronnier Officiel",
+                  "text": "Genf hivatalos gesztenyefája, amelynek rügyei hagyományosan a tavaszt jelzik.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146384,
+                        46.200547
+                  ]
+            },
+            {
+                  "name": "Tour de Champel",
+                  "text": "Neogótikus torony Champel negyedében, amely széles kilátást nyújt.",
+                  "category": "tower",
+                  "coords": [
+                        6.152119,
+                        46.187444
+                  ]
+            },
+            {
+                  "name": "Pont de Vessy",
+                  "text": "Egy híd Genfben, amely az Arve folyót íveli át.",
+                  "category": "landmark",
+                  "coords": [
+                        6.159912,
+                        46.18105
+                  ]
+            },
+            {
+                  "name": "Pont du Val-d'Arve",
+                  "text": "Fontos híd, amely az Arve partjait köti össze Genfben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153976,
+                        46.183344
+                  ]
+            },
+            {
+                  "name": "Parc Moynier",
+                  "text": "Nyilvános park a Genfi-tó partján, amely ideális a pihenésre.",
+                  "category": "park",
+                  "coords": [
+                        6.151303,
+                        46.219394
+                  ]
+            },
+            {
+                  "name": "Parc Mon-Repos",
+                  "text": "Csendes tóparti park, amely nyugodt légköréről ismert.",
+                  "category": "park",
+                  "coords": [
+                        6.149999,
+                        46.218536
+                  ]
+            },
+            {
+                  "name": "Parc Barton",
+                  "text": "Nyilvános park Genfben, amely lenyűgöző óriásfenyőiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        6.151379,
+                        46.222207
+                  ]
+            },
+            {
+                  "name": "Parc de l'Ariana",
+                  "text": "Kiterjedt park, amely az Ariana Múzeumot és a Nemzetek Palotáját veszi körül.",
+                  "category": "park",
+                  "coords": [
+                        6.13778,
+                        46.224899
+                  ]
+            },
+            {
+                  "name": "Parc Bertrand",
+                  "text": "Nagy városi park Champel negyedében, különféle szabadidős létesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        6.158269,
+                        46.192939
+                  ]
+            },
+            {
+                  "name": "Parc La Grange",
+                  "text": "Genf egyik legnagyobb parkja, amely gyönyörű rózsakertjéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        6.167038,
+                        46.206275
+                  ]
+            },
+            {
+                  "name": "Parc Chuit",
+                  "text": "Gondozott zöldterület Genfben, amely sétálásra invitál.",
+                  "category": "park",
+                  "coords": [
+                        6.123616,
+                        46.191623
+                  ]
+            },
+            {
+                  "name": "Parc des Délices",
+                  "text": "Történelmi park, amely Voltaire egykori lakóházát veszi körül.",
+                  "category": "park",
+                  "coords": [
+                        6.133289,
+                        46.207643
+                  ]
+            },
+            {
+                  "name": "Parc Baud-Bovy",
+                  "text": "Városi park Genfben, amelyet a svájci művészről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        6.138534,
+                        46.195288
+                  ]
+            },
+            {
+                  "name": "Parc des Eaux-Vives",
+                  "text": "Nagy tóparti park történelmi villákkal és kiterjedt gyepekkel.",
+                  "category": "park",
+                  "coords": [
+                        6.169277,
+                        46.208636
+                  ]
+            },
+            {
+                  "name": "La Pierre-aux-Dames, Erratic Boulder",
+                  "text": "Őskori vándorkő Genfben, amelyet ősi vésetek díszítenek.",
+                  "category": "historical",
+                  "coords": [
+                        6.15119,
+                        46.199214
+                  ]
+            },
+            {
+                  "name": "Phare des Pâquis",
+                  "text": "Jellegzetes világítótorony a Pâquis-gát végén a Genfi-tavon.",
+                  "category": "landmark",
+                  "coords": [
+                        6.156929,
+                        46.209998
+                  ]
+            },
+            {
+                  "name": "Jardin Anglais",
+                  "text": "Népszerű tóparti park, ahol a híres virágóra található.",
+                  "category": "park",
+                  "coords": [
+                        6.1524,
+                        46.204296
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire des sciences",
+                  "text": "Tóparti villában található múzeum, amely a tudományos eszközök történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        6.152126,
+                        46.220829
+                  ]
+            },
+            {
+                  "name": "Patek Philippe Museum",
+                  "text": "Jelentős múzeum, amely az órakészítés és a Patek Philippe órák történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.138267,
+                        46.1984
+                  ]
+            },
+            {
+                  "name": "Musée des arts d'Extrême-Orient",
+                  "text": "Genfi múzeum, amely távol-keleti művészeti és antik gyűjteményt mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.153379,
+                        46.197596
+                  ]
+            },
+            {
+                  "name": "Musée international de la Réforme",
+                  "text": "Ez a múzeum a reformáció történetét és Kálvin János munkásságát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.148342,
+                        46.20148
+                  ]
+            },
+            {
+                  "name": "Théâtre de Carouge",
+                  "text": "Neves színház Carouge-ban, amely kortárs produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142084,
+                        46.181177
+                  ]
+            },
+            {
+                  "name": "Casino Théâtre",
+                  "text": "Bájos színház Genf óvárosának szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        6.143269,
+                        46.194612
+                  ]
+            },
+            {
+                  "name": "Halle Nord",
+                  "text": "Kortárs művészeti központ, amely helyi és nemzetközi művészek kiállításait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14136,
+                        46.204618
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Jean",
+                  "text": "Protestáns templom Genf Saint-Jean negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.127663,
+                        46.204387
+                  ]
+            },
+            {
+                  "name": "Mosquée du Petit-Saconnex",
+                  "text": "Genf legnagyobb mecsetje és a muszlim közösség fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        6.121945,
+                        46.223622
+                  ]
+            },
+            {
+                  "name": "Temple du Petit-Saconnex",
+                  "text": "Történelmi protestáns templom Petit-Saconnex negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.127956,
+                        46.222972
+                  ]
+            },
+            {
+                  "name": "Christ-Roi",
+                  "text": "Krisztus Királynak szentelt katolikus templom Genfben.",
+                  "category": "religious",
+                  "coords": [
+                        6.117234,
+                        46.189058
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Grâces",
+                  "text": "Katolikus templom, amely az istentisztelet és az elmélkedés helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        6.12109,
+                        46.182374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Trinité",
+                  "text": "A Szentháromságnak szentelt templom Genfben.",
+                  "category": "religious",
+                  "coords": [
+                        6.147159,
+                        46.216394
+                  ]
+            },
+            {
+                  "name": "Église adventiste du Septième Jour",
+                  "text": "A Hetednapi Adventista közösség imaháza Genfben.",
+                  "category": "religious",
+                  "coords": [
+                        6.149136,
+                        46.195905
+                  ]
+            },
+            {
+                  "name": "Communauté Israélite Libérale de Genève-GIL",
+                  "text": "A genfi liberális zsidó közösség vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        6.170838,
+                        46.200674
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-de-Flue",
+                  "text": "Modern katolikus templom, amelyet Svájc nemzeti szentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        6.140569,
+                        46.218739
+                  ]
+            },
+            {
+                  "name": "Église Russe",
+                  "text": "Pompás orosz ortodox székesegyház, amely aranykupoláiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        6.153802,
+                        46.198879
+                  ]
+            },
+            {
+                  "name": "Temple de la Madeleine",
+                  "text": "Genf egyik legrégebbi protestáns temploma, történelmi jelentőséggel.",
+                  "category": "religious",
+                  "coords": [
+                        6.149311,
+                        46.202058
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Joseph",
+                  "text": "Katolikus plébániatemplom Genf Eaux-Vives negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.155586,
+                        46.202278
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne de Chantal",
+                  "text": "Szent Johanna de Chantalnak szentelt katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        6.125526,
+                        46.207307
+                  ]
+            },
+            {
+                  "name": "Temple des Eaux-Vives",
+                  "text": "Protestáns templom a nyüzsgő Eaux-Vives negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        6.160745,
+                        46.201694
+                  ]
+            },
+            {
+                  "name": "Temple de Plainpalais",
+                  "text": "Protestáns imaház Genf Plainpalais negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.141213,
+                        46.195244
+                  ]
+            },
+            {
+                  "name": "Temple de la Fusterie",
+                  "text": "Az első templom Genfben, amelyet kifejezetten protestáns istentiszteletre építettek.",
+                  "category": "religious",
+                  "coords": [
+                        6.145846,
+                        46.203844
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée Barbier-Mueller",
+                  "text": "Un muzeu din Geneva renumit pentru colecția sa de artă tribală și clasică.",
+                  "category": "museum",
+                  "coords": [
+                        6.146698,
+                        46.202032
+                  ]
+            },
+            {
+                  "name": "Musée d'ethnographie",
+                  "text": "Un muzeu de etnografie din Geneva care explorează culturi din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        6.13688,
+                        46.197871
+                  ]
+            },
+            {
+                  "name": "Musée Ariana",
+                  "text": "Muzeul Elvețian de Ceramică și Sticlă, situat într-un palat neoclasic din Geneva.",
+                  "category": "museum",
+                  "coords": [
+                        6.138855,
+                        46.225405
+                  ]
+            },
+            {
+                  "name": "Musée International de la Croix-Rouge et du Croissant-Rouge",
+                  "text": "Muzeul Internațional al Crucii Roșii și Semilunii Roșii din Geneva.",
+                  "category": "museum",
+                  "coords": [
+                        6.136901,
+                        46.22741
+                  ]
+            },
+            {
+                  "name": "Palais Eynard",
+                  "text": "Un palat neoclasic din Geneva care servește drept sediu al executivului orașului.",
+                  "category": "historical",
+                  "coords": [
+                        6.147203,
+                        46.199272
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Genève",
+                  "text": "Cea mai mare operă din Geneva este un centru important pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142628,
+                        46.20178
+                  ]
+            },
+            {
+                  "name": "Bâtiment des Forces Motrices",
+                  "text": "O fostă hidrocentrală care funcționează astăzi ca un centru cultural și teatru distinctiv.",
+                  "category": "cultural",
+                  "coords": [
+                        6.137281,
+                        46.20452
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "O sală de concerte renumită din Geneva, cunoscută pentru acustica sa excelentă.",
+                  "category": "cultural",
+                  "coords": [
+                        6.141054,
+                        46.201402
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-de-Sales",
+                  "text": "O biserică catolică din Geneva care deservește comunitatea religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        6.145055,
+                        46.194852
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Gervais",
+                  "text": "Un templu protestant istoric situat în cartierul Saint-Gervais din Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.140984,
+                        46.20646
+                  ]
+            },
+            {
+                  "name": "Sainte-Croix",
+                  "text": "O biserică importantă din Carouge, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        6.139825,
+                        46.18402
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "O biserică parohială din Cologny care servește ca loc de cult.",
+                  "category": "religious",
+                  "coords": [
+                        6.1756,
+                        46.202464
+                  ]
+            },
+            {
+                  "name": "Jet d'eau",
+                  "text": "O fântână mare pe Lacul Geneva și cel mai faimos punct de reper al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        6.155889,
+                        46.207381
+                  ]
+            },
+            {
+                  "name": "Marronnier Officiel",
+                  "text": "Castanul oficial din Geneva, ai cărui muguri anunță tradițional sosirea primăverii.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146384,
+                        46.200547
+                  ]
+            },
+            {
+                  "name": "Tour de Champel",
+                  "text": "Un turn neogotic în cartierul Champel, care oferă o vedere panoramică.",
+                  "category": "tower",
+                  "coords": [
+                        6.152119,
+                        46.187444
+                  ]
+            },
+            {
+                  "name": "Pont de Vessy",
+                  "text": "Un pod din Geneva care traversează râul Arve.",
+                  "category": "landmark",
+                  "coords": [
+                        6.159912,
+                        46.18105
+                  ]
+            },
+            {
+                  "name": "Pont du Val-d'Arve",
+                  "text": "Un pod important care leagă malurile râului Arve în Geneva.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153976,
+                        46.183344
+                  ]
+            },
+            {
+                  "name": "Parc Moynier",
+                  "text": "Un parc public pe malul Lacului Geneva, ideal pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        6.151303,
+                        46.219394
+                  ]
+            },
+            {
+                  "name": "Parc Mon-Repos",
+                  "text": "Un parc liniștit pe malul lacului, cunoscut pentru atmosfera sa relaxantă.",
+                  "category": "park",
+                  "coords": [
+                        6.149999,
+                        46.218536
+                  ]
+            },
+            {
+                  "name": "Parc Barton",
+                  "text": "Un parc public din Geneva, cunoscut pentru sequoia săi giganți impresionanți.",
+                  "category": "park",
+                  "coords": [
+                        6.151379,
+                        46.222207
+                  ]
+            },
+            {
+                  "name": "Parc de l'Ariana",
+                  "text": "Un parc vast care înconjoară Muzeul Ariana și Palatul Națiunilor.",
+                  "category": "park",
+                  "coords": [
+                        6.13778,
+                        46.224899
+                  ]
+            },
+            {
+                  "name": "Parc Bertrand",
+                  "text": "Un parc urban mare în cartierul Champel, cu diverse facilități de recreere.",
+                  "category": "park",
+                  "coords": [
+                        6.158269,
+                        46.192939
+                  ]
+            },
+            {
+                  "name": "Parc La Grange",
+                  "text": "Unul dintre cele mai mari parcuri din Geneva, cunoscut pentru grădina sa de trandafiri.",
+                  "category": "park",
+                  "coords": [
+                        6.167038,
+                        46.206275
+                  ]
+            },
+            {
+                  "name": "Parc Chuit",
+                  "text": "Un spațiu verde bine întreținut în Geneva, ideal pentru plimbări.",
+                  "category": "park",
+                  "coords": [
+                        6.123616,
+                        46.191623
+                  ]
+            },
+            {
+                  "name": "Parc des Délices",
+                  "text": "Un parc istoric care înconjoară fosta reședință a lui Voltaire.",
+                  "category": "park",
+                  "coords": [
+                        6.133289,
+                        46.207643
+                  ]
+            },
+            {
+                  "name": "Parc Baud-Bovy",
+                  "text": "Un parc urban din Geneva, numit după artistul elvețian.",
+                  "category": "park",
+                  "coords": [
+                        6.138534,
+                        46.195288
+                  ]
+            },
+            {
+                  "name": "Parc des Eaux-Vives",
+                  "text": "Un parc mare pe malul lacului, cu vile istorice și peluze vaste.",
+                  "category": "park",
+                  "coords": [
+                        6.169277,
+                        46.208636
+                  ]
+            },
+            {
+                  "name": "La Pierre-aux-Dames, Erratic Boulder",
+                  "text": "Un bolovan erratic preistoric din Geneva, decorat cu gravuri antice.",
+                  "category": "historical",
+                  "coords": [
+                        6.15119,
+                        46.199214
+                  ]
+            },
+            {
+                  "name": "Phare des Pâquis",
+                  "text": "Un far emblematic la capătul digului Pâquis de pe Lacul Geneva.",
+                  "category": "landmark",
+                  "coords": [
+                        6.156929,
+                        46.209998
+                  ]
+            },
+            {
+                  "name": "Jardin Anglais",
+                  "text": "Un parc popular pe malul lacului, unde se află faimosul ceas cu flori.",
+                  "category": "park",
+                  "coords": [
+                        6.1524,
+                        46.204296
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire des sciences",
+                  "text": "Un muzeu într-o vilă de pe malul lacului, dedicat istoriei instrumentelor științifice.",
+                  "category": "museum",
+                  "coords": [
+                        6.152126,
+                        46.220829
+                  ]
+            },
+            {
+                  "name": "Patek Philippe Museum",
+                  "text": "Un muzeu important care prezintă istoria ceasornicăriei și a ceasurilor Patek Philippe.",
+                  "category": "museum",
+                  "coords": [
+                        6.138267,
+                        46.1984
+                  ]
+            },
+            {
+                  "name": "Musée des arts d'Extrême-Orient",
+                  "text": "Un muzeu din Geneva care prezintă o colecție de artă și antichități din Orientul Îndepărtat.",
+                  "category": "museum",
+                  "coords": [
+                        6.153379,
+                        46.197596
+                  ]
+            },
+            {
+                  "name": "Musée international de la Réforme",
+                  "text": "Acest muzeu documentează istoria Reformei și activitatea lui Jean Calvin.",
+                  "category": "museum",
+                  "coords": [
+                        6.148342,
+                        46.20148
+                  ]
+            },
+            {
+                  "name": "Théâtre de Carouge",
+                  "text": "Un teatru renumit din Carouge, cunoscut pentru producțiile sale contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142084,
+                        46.181177
+                  ]
+            },
+            {
+                  "name": "Casino Théâtre",
+                  "text": "Un teatru fermecător situat în inima orașului vechi din Geneva.",
+                  "category": "cultural",
+                  "coords": [
+                        6.143269,
+                        46.194612
+                  ]
+            },
+            {
+                  "name": "Halle Nord",
+                  "text": "Un centru de artă contemporană care prezintă expoziții ale artiștilor locali și internaționali.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14136,
+                        46.204618
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Jean",
+                  "text": "O biserică protestantă situată în cartierul Saint-Jean din Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.127663,
+                        46.204387
+                  ]
+            },
+            {
+                  "name": "Mosquée du Petit-Saconnex",
+                  "text": "Cea mai mare moschee din Geneva și un centru religios important pentru comunitatea musulmană.",
+                  "category": "religious",
+                  "coords": [
+                        6.121945,
+                        46.223622
+                  ]
+            },
+            {
+                  "name": "Temple du Petit-Saconnex",
+                  "text": "Un templu protestant istoric situat în cartierul Petit-Saconnex.",
+                  "category": "religious",
+                  "coords": [
+                        6.127956,
+                        46.222972
+                  ]
+            },
+            {
+                  "name": "Christ-Roi",
+                  "text": "O biserică catolică din Geneva dedicată lui Cristos Rege.",
+                  "category": "religious",
+                  "coords": [
+                        6.117234,
+                        46.189058
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Grâces",
+                  "text": "O biserică catolică ce servește ca loc de închinare și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        6.12109,
+                        46.182374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Trinité",
+                  "text": "O biserică din Geneva dedicată Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        6.147159,
+                        46.216394
+                  ]
+            },
+            {
+                  "name": "Église adventiste du Septième Jour",
+                  "text": "Un lăcaș de cult al comunității Adventiste de Ziua a Șaptea din Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.149136,
+                        46.195905
+                  ]
+            },
+            {
+                  "name": "Communauté Israélite Libérale de Genève-GIL",
+                  "text": "Centrul religios al comunității evreiești liberale din Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.170838,
+                        46.200674
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-de-Flue",
+                  "text": "O biserică catolică modernă dedicată sfântului patron al Elveției.",
+                  "category": "religious",
+                  "coords": [
+                        6.140569,
+                        46.218739
+                  ]
+            },
+            {
+                  "name": "Église Russe",
+                  "text": "O splendidă catedrală ortodoxă rusă, cunoscută pentru cupolele sale aurii.",
+                  "category": "religious",
+                  "coords": [
+                        6.153802,
+                        46.198879
+                  ]
+            },
+            {
+                  "name": "Temple de la Madeleine",
+                  "text": "Una dintre cele mai vechi biserici protestante din Geneva, cu importanță istorică.",
+                  "category": "religious",
+                  "coords": [
+                        6.149311,
+                        46.202058
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Joseph",
+                  "text": "O biserică parohială catolică din cartierul Eaux-Vives din Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.155586,
+                        46.202278
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne de Chantal",
+                  "text": "O biserică catolică dedicată Sfintei Ioana de Chantal.",
+                  "category": "religious",
+                  "coords": [
+                        6.125526,
+                        46.207307
+                  ]
+            },
+            {
+                  "name": "Temple des Eaux-Vives",
+                  "text": "Un templu protestant în cartierul plin de viață Eaux-Vives.",
+                  "category": "religious",
+                  "coords": [
+                        6.160745,
+                        46.201694
+                  ]
+            },
+            {
+                  "name": "Temple de Plainpalais",
+                  "text": "Un lăcaș de cult protestant în cartierul Plainpalais din Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.141213,
+                        46.195244
+                  ]
+            },
+            {
+                  "name": "Temple de la Fusterie",
+                  "text": "Prima biserică din Geneva construită special pentru cultul protestant.",
+                  "category": "religious",
+                  "coords": [
+                        6.145846,
+                        46.203844
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée Barbier-Mueller",
+                  "text": "A museum in Geneva renowned for its collection of tribal and classical art.",
+                  "category": "museum",
+                  "coords": [
+                        6.146698,
+                        46.202032
+                  ]
+            },
+            {
+                  "name": "Musée d'ethnographie",
+                  "text": "An ethnographic museum in Geneva exploring cultures from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        6.13688,
+                        46.197871
+                  ]
+            },
+            {
+                  "name": "Musée Ariana",
+                  "text": "The Swiss Museum of Ceramics and Glass, located in a neoclassical palace in Geneva.",
+                  "category": "museum",
+                  "coords": [
+                        6.138855,
+                        46.225405
+                  ]
+            },
+            {
+                  "name": "ICRC",
+                  "text": "The International Red Cross and Red Crescent Museum in Geneva.",
+                  "category": "museum",
+                  "coords": [
+                        6.136901,
+                        46.22741
+                  ]
+            },
+            {
+                  "name": "Palais Eynard",
+                  "text": "A neoclassical palace in Geneva that serves as the seat of the city executive.",
+                  "category": "historical",
+                  "coords": [
+                        6.147203,
+                        46.199272
+                  ]
+            },
+            {
+                  "name": "Grand Théâtre de Genève",
+                  "text": "The largest opera house in Geneva is a major center for the performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142628,
+                        46.20178
+                  ]
+            },
+            {
+                  "name": "Bâtiment des Forces Motrices",
+                  "text": "A former hydroelectric power station that now serves as a distinctive cultural venue and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        6.137281,
+                        46.20452
+                  ]
+            },
+            {
+                  "name": "Victoria Hall",
+                  "text": "A renowned concert hall in Geneva, known for its excellent acoustics.",
+                  "category": "cultural",
+                  "coords": [
+                        6.141054,
+                        46.201402
+                  ]
+            },
+            {
+                  "name": "Église Saint-François-de-Sales",
+                  "text": "A Catholic church in Geneva serving the religious community.",
+                  "category": "religious",
+                  "coords": [
+                        6.145055,
+                        46.194852
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Gervais",
+                  "text": "A historic Protestant temple located in the Saint-Gervais district of Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.140984,
+                        46.20646
+                  ]
+            },
+            {
+                  "name": "Sainte-Croix",
+                  "text": "A prominent church in Carouge known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        6.139825,
+                        46.18402
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "A parish church in Cologny serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        6.1756,
+                        46.202464
+                  ]
+            },
+            {
+                  "name": "Jet d'eau",
+                  "text": "A large fountain on Lake Geneva and the city's most famous landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        6.155889,
+                        46.207381
+                  ]
+            },
+            {
+                  "name": "Marronnier Officiel",
+                  "text": "The official chestnut tree of Geneva, whose buds traditionally announce the arrival of spring.",
+                  "category": "landmark",
+                  "coords": [
+                        6.146384,
+                        46.200547
+                  ]
+            },
+            {
+                  "name": "Tour de Champel",
+                  "text": "A neogothic tower in the Champel district offering wide views.",
+                  "category": "tower",
+                  "coords": [
+                        6.152119,
+                        46.187444
+                  ]
+            },
+            {
+                  "name": "Pont de Vessy",
+                  "text": "A bridge in Geneva that crosses the Arve river.",
+                  "category": "landmark",
+                  "coords": [
+                        6.159912,
+                        46.18105
+                  ]
+            },
+            {
+                  "name": "Pont du Val-d'Arve",
+                  "text": "An important bridge connecting the banks of the Arve in Geneva.",
+                  "category": "landmark",
+                  "coords": [
+                        6.153976,
+                        46.183344
+                  ]
+            },
+            {
+                  "name": "Parc Moynier",
+                  "text": "A public park on the shores of Lake Geneva, ideal for recreation.",
+                  "category": "park",
+                  "coords": [
+                        6.151303,
+                        46.219394
+                  ]
+            },
+            {
+                  "name": "Parc Mon-Repos",
+                  "text": "A tranquil lakeside park known for its relaxed atmosphere.",
+                  "category": "park",
+                  "coords": [
+                        6.149999,
+                        46.218536
+                  ]
+            },
+            {
+                  "name": "Parc Barton",
+                  "text": "A public park in Geneva known for its impressive giant sequoias.",
+                  "category": "park",
+                  "coords": [
+                        6.151379,
+                        46.222207
+                  ]
+            },
+            {
+                  "name": "Ariana Park",
+                  "text": "An extensive park surrounding the Ariana Museum and the Palace of Nations.",
+                  "category": "park",
+                  "coords": [
+                        6.13778,
+                        46.224899
+                  ]
+            },
+            {
+                  "name": "Parc Bertrand",
+                  "text": "A large urban park in the Champel neighborhood with various recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        6.158269,
+                        46.192939
+                  ]
+            },
+            {
+                  "name": "Parc La Grange",
+                  "text": "One of Geneva's largest parks, famous for its beautiful rose garden.",
+                  "category": "park",
+                  "coords": [
+                        6.167038,
+                        46.206275
+                  ]
+            },
+            {
+                  "name": "Parc Chuit",
+                  "text": "A well-maintained green space in Geneva, inviting for walks.",
+                  "category": "park",
+                  "coords": [
+                        6.123616,
+                        46.191623
+                  ]
+            },
+            {
+                  "name": "Parc des Délices",
+                  "text": "A historic park surrounding the former residence of Voltaire.",
+                  "category": "park",
+                  "coords": [
+                        6.133289,
+                        46.207643
+                  ]
+            },
+            {
+                  "name": "Park Baud-Bovy",
+                  "text": "An urban park in Geneva named after the Swiss artist.",
+                  "category": "park",
+                  "coords": [
+                        6.138534,
+                        46.195288
+                  ]
+            },
+            {
+                  "name": "Parc des Eaux-Vives",
+                  "text": "A large lakeside park featuring historic mansions and wide lawns.",
+                  "category": "park",
+                  "coords": [
+                        6.169277,
+                        46.208636
+                  ]
+            },
+            {
+                  "name": "La Pierre-aux-Dames, Erratic Boulder",
+                  "text": "A prehistoric erratic boulder in Geneva decorated with ancient carvings.",
+                  "category": "historical",
+                  "coords": [
+                        6.15119,
+                        46.199214
+                  ]
+            },
+            {
+                  "name": "Phare des Pâquis",
+                  "text": "An iconic lighthouse at the end of the Pâquis jetty on Lake Geneva.",
+                  "category": "landmark",
+                  "coords": [
+                        6.156929,
+                        46.209998
+                  ]
+            },
+            {
+                  "name": "Jardin Anglais",
+                  "text": "A popular lakeside park home to the famous Flower Clock.",
+                  "category": "park",
+                  "coords": [
+                        6.1524,
+                        46.204296
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire des sciences",
+                  "text": "A museum in a lakeside villa dedicated to the history of scientific instruments.",
+                  "category": "museum",
+                  "coords": [
+                        6.152126,
+                        46.220829
+                  ]
+            },
+            {
+                  "name": "Patek Philippe Museum",
+                  "text": "A major museum showcasing the history of watchmaking and Patek Philippe timepieces.",
+                  "category": "museum",
+                  "coords": [
+                        6.138267,
+                        46.1984
+                  ]
+            },
+            {
+                  "name": "Museum of Far Eastern Art",
+                  "text": "A museum in Geneva presenting a collection of Far Eastern art and antiquities.",
+                  "category": "museum",
+                  "coords": [
+                        6.153379,
+                        46.197596
+                  ]
+            },
+            {
+                  "name": "International Museum of the Reformation",
+                  "text": "This museum documents the history of the Reformation and John Calvin's work.",
+                  "category": "museum",
+                  "coords": [
+                        6.148342,
+                        46.20148
+                  ]
+            },
+            {
+                  "name": "Théâtre de Carouge",
+                  "text": "A renowned theatre in Carouge known for its contemporary productions.",
+                  "category": "cultural",
+                  "coords": [
+                        6.142084,
+                        46.181177
+                  ]
+            },
+            {
+                  "name": "Casino Théâtre",
+                  "text": "A charming theatre located in the heart of Geneva's old town.",
+                  "category": "cultural",
+                  "coords": [
+                        6.143269,
+                        46.194612
+                  ]
+            },
+            {
+                  "name": "Halle Nord",
+                  "text": "A contemporary arts centre showcasing exhibitions by local and international artists.",
+                  "category": "cultural",
+                  "coords": [
+                        6.14136,
+                        46.204618
+                  ]
+            },
+            {
+                  "name": "Temple de Saint-Jean",
+                  "text": "A Protestant church in the Saint-Jean district of Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.127663,
+                        46.204387
+                  ]
+            },
+            {
+                  "name": "Mosquée du Petit-Saconnex",
+                  "text": "The largest mosque in Geneva and an important religious center for the Muslim community.",
+                  "category": "religious",
+                  "coords": [
+                        6.121945,
+                        46.223622
+                  ]
+            },
+            {
+                  "name": "Temple du Petit-Saconnex",
+                  "text": "A historic Protestant temple in the Petit-Saconnex district.",
+                  "category": "religious",
+                  "coords": [
+                        6.127956,
+                        46.222972
+                  ]
+            },
+            {
+                  "name": "Christ-Roi",
+                  "text": "A Catholic church in Geneva dedicated to Christ the King.",
+                  "category": "religious",
+                  "coords": [
+                        6.117234,
+                        46.189058
+                  ]
+            },
+            {
+                  "name": "Notre-Dame des Grâces",
+                  "text": "A Catholic church serving as a place of worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        6.12109,
+                        46.182374
+                  ]
+            },
+            {
+                  "name": "Église Sainte-Trinité",
+                  "text": "A church in Geneva dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        6.147159,
+                        46.216394
+                  ]
+            },
+            {
+                  "name": "Église adventiste du Septième Jour",
+                  "text": "A place of worship for the Seventh-day Adventist community in Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.149136,
+                        46.195905
+                  ]
+            },
+            {
+                  "name": "Communauté Israélite Libérale de Genève-GIL",
+                  "text": "The religious center of the liberal Jewish community in Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.170838,
+                        46.200674
+                  ]
+            },
+            {
+                  "name": "Église Saint-Nicolas-de-Flue",
+                  "text": "A modern Catholic church dedicated to the patron saint of Switzerland.",
+                  "category": "religious",
+                  "coords": [
+                        6.140569,
+                        46.218739
+                  ]
+            },
+            {
+                  "name": "Église Russe",
+                  "text": "A magnificent Russian Orthodox cathedral known for its golden domes.",
+                  "category": "religious",
+                  "coords": [
+                        6.153802,
+                        46.198879
+                  ]
+            },
+            {
+                  "name": "Temple de la Madeleine",
+                  "text": "One of the oldest Protestant churches in Geneva with historic significance.",
+                  "category": "religious",
+                  "coords": [
+                        6.149311,
+                        46.202058
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Joseph",
+                  "text": "A Catholic parish church in the Eaux-Vives district of Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.155586,
+                        46.202278
+                  ]
+            },
+            {
+                  "name": "Sainte-Jeanne de Chantal",
+                  "text": "A Catholic church dedicated to Saint Jeanne de Chantal.",
+                  "category": "religious",
+                  "coords": [
+                        6.125526,
+                        46.207307
+                  ]
+            },
+            {
+                  "name": "Temple des Eaux-Vives",
+                  "text": "A Protestant temple in the lively Eaux-Vives neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        6.160745,
+                        46.201694
+                  ]
+            },
+            {
+                  "name": "Temple de Plainpalais",
+                  "text": "A Protestant place of worship in the Plainpalais district of Geneva.",
+                  "category": "religious",
+                  "coords": [
+                        6.141213,
+                        46.195244
+                  ]
+            },
+            {
+                  "name": "Temple de la Fusterie",
+                  "text": "The first church in Geneva built specifically for Protestant worship.",
+                  "category": "religious",
+                  "coords": [
+                        6.145846,
+                        46.203844
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [6.1432, 46.2044],
@@ -288,7 +4122,1672 @@ export const switzerlandRegions: POI[] = [
     },
   },
   {
-    id: "city-basel",
+    id: "city-basel", "sights": {
+      "de": [
+            {
+                  "name": "Hafenmuseum Basel",
+                  "text": "Das Museum dokumentiert die Bedeutung der Binnenschifffahrt für die Schweiz.",
+                  "category": "museum",
+                  "coords": [
+                        7.589432,
+                        47.582638
+                  ]
+            },
+            {
+                  "name": "Museum der Kulturen",
+                  "text": "Eines der bedeutendsten ethnologischen Museen in Europa.",
+                  "category": "museum",
+                  "coords": [
+                        7.590281,
+                        47.557197
+                  ]
+            },
+            {
+                  "name": "Skulpturhalle",
+                  "text": "Das Museum zeigt Gipsabgüsse antiker Skulpturen aus aller Welt.",
+                  "category": "museum",
+                  "coords": [
+                        7.579261,
+                        47.560367
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "Das Museum der Universität Basel beherbergt historische anatomische Präparate.",
+                  "category": "museum",
+                  "coords": [
+                        7.579576,
+                        47.564891
+                  ]
+            },
+            {
+                  "name": "Museum Kleines Klingental",
+                  "text": "Museum im ehemaligen Kloster mit Exponaten zur Stadtgeschichte und Münsterskulpturen.",
+                  "category": "museum",
+                  "coords": [
+                        7.589632,
+                        47.562097
+                  ]
+            },
+            {
+                  "name": "Hoosesagg Museum",
+                  "text": "Ein winziges Museum in einem Schaufenster, das Alltagsgegenstände ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        7.585813,
+                        47.557991
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Basel – Barfüsserkirche",
+                  "text": "Das historische Museum ist in der ehemaligen Barfüsserkirche untergebracht.",
+                  "category": "museum",
+                  "coords": [
+                        7.590103,
+                        47.554665
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Basel – Haus zum Kirschgarten",
+                  "text": "Ein Museum für bürgerliche Wohnkultur in einem prachtvollen Stadtpalais.",
+                  "category": "museum",
+                  "coords": [
+                        7.591352,
+                        47.552103
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Basel | Neubau",
+                  "text": "Der moderne Erweiterungsbau des renommierten Basler Kunstmuseums.",
+                  "category": "museum",
+                  "coords": [
+                        7.595105,
+                        47.554475
+                  ]
+            },
+            {
+                  "name": "Schloss Binningen",
+                  "text": "Ein historisches Schloss in Binningen, das heute als Restaurant genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        7.574616,
+                        47.536831
+                  ]
+            },
+            {
+                  "name": "Baseldytschi Bihni",
+                  "text": "Ein Dialekt-Theater, das Stücke in Baseldeutsch aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        7.588366,
+                        47.55459
+                  ]
+            },
+            {
+                  "name": "Basler Marionettenthater",
+                  "text": "Ein traditionsreiches Figurentheater in der Basler Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        7.592096,
+                        47.556956
+                  ]
+            },
+            {
+                  "name": "Theater Basel",
+                  "text": "Das größte Dreispartenhaus der Schweiz für Oper, Schauspiel und Ballett.",
+                  "category": "cultural",
+                  "coords": [
+                        7.590231,
+                        47.55276
+                  ]
+            },
+            {
+                  "name": "St. Christophoruskirche",
+                  "text": "Eine katholische Kirche in Basel, benannt nach dem Heiligen Christophorus.",
+                  "category": "religious",
+                  "coords": [
+                        7.593653,
+                        47.583773
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "Die älteste Pfarrkirche Basels mit einer Geschichte bis ins 11. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        7.588621,
+                        47.558976
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "Eine neoromanische katholische Kirche im Basler Westen.",
+                  "category": "religious",
+                  "coords": [
+                        7.584,
+                        47.553441
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Eine evangelisch-reformierte Kirche im neugotischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        7.57505,
+                        47.565522
+                  ]
+            },
+            {
+                  "name": "Antoniuskirche",
+                  "text": "Die erste reine Betonkirche der Schweiz, ein Wahrzeichen der Moderne.",
+                  "category": "religious",
+                  "coords": [
+                        7.572923,
+                        47.563869
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "Eine historische Kirche mit bedeutenden mittelalterlichen Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        7.585232,
+                        47.559291
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "Eine evangelische Kirche im bevölkerungsreichen Stadtteil Kleinbasel.",
+                  "category": "religious",
+                  "coords": [
+                        7.593042,
+                        47.567159
+                  ]
+            },
+            {
+                  "name": "Clarakirche",
+                  "text": "Eine katholische Kirche am Claraplatz im Zentrum von Kleinbasel.",
+                  "category": "religious",
+                  "coords": [
+                        7.59425,
+                        47.561621
+                  ]
+            },
+            {
+                  "name": "Thomaskirche",
+                  "text": "Ein moderner Kirchenbau der evangelisch-reformierten Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        7.562275,
+                        47.564037
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkirche",
+                  "text": "Eine moderne katholische Kirche aus der Mitte des 20. Jahrhunderts.",
+                  "category": "religious",
+                  "coords": [
+                        7.568396,
+                        47.547873
+                  ]
+            },
+            {
+                  "name": "St. Margarethen-Kirche",
+                  "text": "Eine malerische Kirche auf dem Margarethenhügel in Binningen.",
+                  "category": "religious",
+                  "coords": [
+                        7.579577,
+                        47.54312
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldbrücke",
+                  "text": "Eine kombinierte Eisenbahn- und Straßenbrücke über den Rhein.",
+                  "category": "landmark",
+                  "coords": [
+                        7.613961,
+                        47.55795
+                  ]
+            },
+            {
+                  "name": "Viaduktstrasse",
+                  "text": "Ein Eisenbahnviadukt, das den Birsig im Stadtgebiet überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.583304,
+                        47.549764
+                  ]
+            },
+            {
+                  "name": "Dreirosenbrücke",
+                  "text": "Eine doppelstöckige Brücke für den Autobahn- und Lokalverkehr.",
+                  "category": "landmark",
+                  "coords": [
+                        7.584994,
+                        47.570713
+                  ]
+            },
+            {
+                  "name": "Johanniterbrücke",
+                  "text": "Eine zentrale Rheinbrücke, die das St. Johann mit dem Kleinbasel verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.585746,
+                        47.564901
+                  ]
+            },
+            {
+                  "name": "Mittlere Brücke",
+                  "text": "Die älteste bestehende Rheinbrücke zwischen dem Bodensee und der Nordsee.",
+                  "category": "landmark",
+                  "coords": [
+                        7.589719,
+                        47.560147
+                  ]
+            },
+            {
+                  "name": "Wettsteinbrücke",
+                  "text": "Eine wichtige Verkehrsverbindung zwischen Grossbasel und Kleinbasel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.596356,
+                        47.556777
+                  ]
+            },
+            {
+                  "name": "Pruntrutermatte",
+                  "text": "Ein öffentlicher Park und Sportplatz im Südwesten der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        7.580204,
+                        47.544637
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten Basel",
+                  "text": "Der älteste und größte Zoo der Schweiz, lokal als 'Zolli' bekannt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.579184,
+                        47.546856
+                  ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "Museum für satirische Kunst, Karikaturen und Comics.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "Ein Museum, das sich der zeitgenössischen Schweizer Architektur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum der Schweiz",
+                  "text": "Das erste jüdische Museum im deutschsprachigen Raum nach dem Zweiten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.55764
+                  ]
+            },
+            {
+                  "name": "Antikenmuseum Basel und Sammlung Ludwig",
+                  "text": "Ein Museum für antike Kunst aus dem Mittelmeerraum.",
+                  "category": "museum",
+                  "coords": [
+                        7.593141,
+                        47.554356
+                  ]
+            },
+            {
+                  "name": "Birsfelder Museum",
+                  "text": "Ein lokales Museum, das die Geschichte von Birsfelden dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.624693,
+                        47.55514
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Binningen",
+                  "text": "Das Museum zeigt die Geschichte und ländliche Kultur von Binningen.",
+                  "category": "museum",
+                  "coords": [
+                        7.572686,
+                        47.543348
+                  ]
+            },
+            {
+                  "name": "Museum Tinguely",
+                  "text": "Ein Museum gewidmet dem Leben und Werk des Künstlers Jean Tinguely.",
+                  "category": "museum",
+                  "coords": [
+                        7.612336,
+                        47.559172
+                  ]
+            },
+            {
+                  "name": "Galerie Carzaniga",
+                  "text": "Eine renommierte Galerie für moderne und zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        7.586202,
+                        47.556319
+                  ]
+            },
+            {
+                  "name": "St. Alban-Tor",
+                  "text": "Eines der drei erhaltenen mittelalterlichen Stadttore von Basel.",
+                  "category": "fortress",
+                  "coords": [
+                        7.603209,
+                        47.553237
+                  ]
+            },
+            {
+                  "name": "St. Johanns-Tor",
+                  "text": "Ein prachtvolles mittelalterliches Stadttor, Teil der ehemaligen Stadtmauer.",
+                  "category": "fortress",
+                  "coords": [
+                        7.582017,
+                        47.566442
+                  ]
+            },
+            {
+                  "name": "Kaserne",
+                  "text": "Ein bedeutendes Kulturzentrum und Veranstaltungsort für freies Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        7.59009,
+                        47.563445
+                  ]
+            },
+            {
+                  "name": "Heilig Kreuz Kirche",
+                  "text": "Eine römisch-katholische Kirche in der Stadt Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.577712,
+                        47.539066
+                  ]
+            },
+            {
+                  "name": "Paroisse du Sacré-Cœur",
+                  "text": "Ein christliches Gotteshaus in Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.57971,
+                        47.553538
+                  ]
+            },
+            {
+                  "name": "Bruder-Klaus-Kirche",
+                  "text": "Eine nach dem Heiligen Bruder Klaus benannte Kirche in Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.625983,
+                        47.551661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hafenmuseum Basel",
+                  "text": "A múzeum a belvízi hajózás jelentőségét mutatja be Svájc számára.",
+                  "category": "museum",
+                  "coords": [
+                        7.589432,
+                        47.582638
+                  ]
+            },
+            {
+                  "name": "Museum der Kulturen",
+                  "text": "Európa egyik legjelentősebb néprajzi múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        7.590281,
+                        47.557197
+                  ]
+            },
+            {
+                  "name": "Skulpturhalle",
+                  "text": "A múzeum ókori szobrok gipszmásolatait mutatja be a világ minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        7.579261,
+                        47.560367
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "A Bázeli Egyetem múzeuma történelmi anatómiai preparátumokat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        7.579576,
+                        47.564891
+                  ]
+            },
+            {
+                  "name": "Museum Kleines Klingental",
+                  "text": "Múzeum az egykori kolostorban városstörténeti és székesegyházi szobrokkal.",
+                  "category": "museum",
+                  "coords": [
+                        7.589632,
+                        47.562097
+                  ]
+            },
+            {
+                  "name": "Hoosesagg Museum",
+                  "text": "Egy apró kirakatmúzeum, amely hétköznapi tárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.585813,
+                        47.557991
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Basel – Barfüsserkirche",
+                  "text": "A történelmi múzeum az egykori ferences templomban kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        7.590103,
+                        47.554665
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Basel – Haus zum Kirschgarten",
+                  "text": "Polgári lakáskultúra múzeuma egy pompás városi palotában.",
+                  "category": "museum",
+                  "coords": [
+                        7.591352,
+                        47.552103
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Basel | Neubau",
+                  "text": "A neves bázeli művészeti múzeum modern bővítménye.",
+                  "category": "museum",
+                  "coords": [
+                        7.595105,
+                        47.554475
+                  ]
+            },
+            {
+                  "name": "Schloss Binningen",
+                  "text": "Történelmi kastély Binningenben, amely ma étteremként működik.",
+                  "category": "castle",
+                  "coords": [
+                        7.574616,
+                        47.536831
+                  ]
+            },
+            {
+                  "name": "Baseldytschi Bihni",
+                  "text": "Dialektus-színház, amely bázeli német nyelvű darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        7.588366,
+                        47.55459
+                  ]
+            },
+            {
+                  "name": "Basler Marionettenthater",
+                  "text": "Hagyományőrző bábszínház Bázel óvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        7.592096,
+                        47.556956
+                  ]
+            },
+            {
+                  "name": "Theater Basel",
+                  "text": "Svájc legnagyobb háromtagozatos színháza opera, dráma és balett számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.590231,
+                        47.55276
+                  ]
+            },
+            {
+                  "name": "St. Christophoruskirche",
+                  "text": "Szent Kristófról elnevezett katolikus templom Bázelben.",
+                  "category": "religious",
+                  "coords": [
+                        7.593653,
+                        47.583773
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "Bázel legrégebbi plébániatemploma, amelynek története a 11. századig nyúlik vissza.",
+                  "category": "religious",
+                  "coords": [
+                        7.588621,
+                        47.558976
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "Neoromán katolikus templom Bázel nyugati részén.",
+                  "category": "religious",
+                  "coords": [
+                        7.584,
+                        47.553441
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Neogótikus stílusú evangélikus-református templom.",
+                  "category": "religious",
+                  "coords": [
+                        7.57505,
+                        47.565522
+                  ]
+            },
+            {
+                  "name": "Antoniuskirche",
+                  "text": "Svájc első tisztán betonból épült temploma, a modern építészet mérföldköve.",
+                  "category": "religious",
+                  "coords": [
+                        7.572923,
+                        47.563869
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "Történelmi templom jelentős középkori falfestményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        7.585232,
+                        47.559291
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "Evangélikus templom a sűrűn lakott Kisbázel (Kleinbasel) negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        7.593042,
+                        47.567159
+                  ]
+            },
+            {
+                  "name": "Clarakirche",
+                  "text": "Katolikus templom a Claraplatzon, Kisbázel központjában.",
+                  "category": "religious",
+                  "coords": [
+                        7.59425,
+                        47.561621
+                  ]
+            },
+            {
+                  "name": "Thomaskirche",
+                  "text": "Az evangélikus-református egyházközség modern templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        7.562275,
+                        47.564037
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkirche",
+                  "text": "Modern katolikus templom a 20. század közepéről.",
+                  "category": "religious",
+                  "coords": [
+                        7.568396,
+                        47.547873
+                  ]
+            },
+            {
+                  "name": "St. Margarethen-Kirche",
+                  "text": "Gleccserkori dombon álló festői templom a binningeni Margarethen-hegyen.",
+                  "category": "religious",
+                  "coords": [
+                        7.579577,
+                        47.54312
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldbrücke",
+                  "text": "Kombinált vasúti és közúti híd a Rajna felett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.613961,
+                        47.55795
+                  ]
+            },
+            {
+                  "name": "Viaduktstrasse",
+                  "text": "Vasúti viadukt, amely a város területén keresztezi a Birsig folyót.",
+                  "category": "landmark",
+                  "coords": [
+                        7.583304,
+                        47.549764
+                  ]
+            },
+            {
+                  "name": "Dreirosenbrücke",
+                  "text": "Kétszintes híd az autópálya- és a helyi forgalom számára.",
+                  "category": "landmark",
+                  "coords": [
+                        7.584994,
+                        47.570713
+                  ]
+            },
+            {
+                  "name": "Johanniterbrücke",
+                  "text": "Központi Rajna-híd, amely összeköti a Szent János negyedet Kisbázellel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.585746,
+                        47.564901
+                  ]
+            },
+            {
+                  "name": "Mittlere Brücke",
+                  "text": "A legrégebbi fennálló Rajna-híd a Bodeni-tó és az Északi-tenger között.",
+                  "category": "landmark",
+                  "coords": [
+                        7.589719,
+                        47.560147
+                  ]
+            },
+            {
+                  "name": "Wettsteinbrücke",
+                  "text": "Fontos közlekedési kapcsolat Nagy- és Kisbázel között.",
+                  "category": "landmark",
+                  "coords": [
+                        7.596356,
+                        47.556777
+                  ]
+            },
+            {
+                  "name": "Pruntrutermatte",
+                  "text": "Nyilvános park és sportpálya a város délnyugati részén.",
+                  "category": "park",
+                  "coords": [
+                        7.580204,
+                        47.544637
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten Basel",
+                  "text": "Svájc legrégebbi és legnagyobb állatkertje, helyi nevén a 'Zolli'.",
+                  "category": "recreational",
+                  "coords": [
+                        7.579184,
+                        47.546856
+                  ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "Szatirikus művészeti, karikatúra- és képregénymúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "A kortárs svájci építészetnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum der Schweiz",
+                  "text": "Az első zsidó múzeum a német nyelvterületen a második világháború után.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.55764
+                  ]
+            },
+            {
+                  "name": "Antikenmuseum Basel und Sammlung Ludwig",
+                  "text": "A földközi-tengeri térség ókori művészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.593141,
+                        47.554356
+                  ]
+            },
+            {
+                  "name": "Birsfelder Museum",
+                  "text": "Helytörténeti múzeum, amely Birsfelden múltját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        7.624693,
+                        47.55514
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Binningen",
+                  "text": "A múzeum Binningen történetét és vidéki kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.572686,
+                        47.543348
+                  ]
+            },
+            {
+                  "name": "Museum Tinguely",
+                  "text": "Jean Tinguely képzőművész életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.612336,
+                        47.559172
+                  ]
+            },
+            {
+                  "name": "Galerie Carzaniga",
+                  "text": "Neves modern és kortárs művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        7.586202,
+                        47.556319
+                  ]
+            },
+            {
+                  "name": "St. Alban-Tor",
+                  "text": "Bázel három épségben maradt középkori városkapujának egyike.",
+                  "category": "fortress",
+                  "coords": [
+                        7.603209,
+                        47.553237
+                  ]
+            },
+            {
+                  "name": "St. Johanns-Tor",
+                  "text": "Pompás középkori városkapu, az egykori városfal része.",
+                  "category": "fortress",
+                  "coords": [
+                        7.582017,
+                        47.566442
+                  ]
+            },
+            {
+                  "name": "Kaserne",
+                  "text": "Jelentős kulturális központ és független színházi előadóhely.",
+                  "category": "cultural",
+                  "coords": [
+                        7.59009,
+                        47.563445
+                  ]
+            },
+            {
+                  "name": "Heilig Kreuz Kirche",
+                  "text": "Római katolikus templom Bázel városában.",
+                  "category": "religious",
+                  "coords": [
+                        7.577712,
+                        47.539066
+                  ]
+            },
+            {
+                  "name": "Paroisse du Sacré-Cœur",
+                  "text": "Keresztény templom Bázelben.",
+                  "category": "religious",
+                  "coords": [
+                        7.57971,
+                        47.553538
+                  ]
+            },
+            {
+                  "name": "Bruder-Klaus-Kirche",
+                  "text": "Flüei Szent Miklósról elnevezett templom Bázelben.",
+                  "category": "religious",
+                  "coords": [
+                        7.625983,
+                        47.551661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hafenmuseum Basel",
+                  "text": "Muzeul documentează importanța navigației pe căile navigabile interioare pentru Elveția.",
+                  "category": "museum",
+                  "coords": [
+                        7.589432,
+                        47.582638
+                  ]
+            },
+            {
+                  "name": "Museum der Kulturen",
+                  "text": "Unul dintre cele mai importante muzee etnologice din Europa.",
+                  "category": "museum",
+                  "coords": [
+                        7.590281,
+                        47.557197
+                  ]
+            },
+            {
+                  "name": "Skulpturhalle",
+                  "text": "Muzeul expune mulaje în gips ale unor sculpturi antice din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        7.579261,
+                        47.560367
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "Muzeul Universității din Basel adăpostește preparate anatomice istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.579576,
+                        47.564891
+                  ]
+            },
+            {
+                  "name": "Museum Kleines Klingental",
+                  "text": "Muzeu în fosta mănăstire cu exponate despre istoria orașului și sculpturi de catedrală.",
+                  "category": "museum",
+                  "coords": [
+                        7.589632,
+                        47.562097
+                  ]
+            },
+            {
+                  "name": "Hoosesagg Museum",
+                  "text": "Un muzeu minuscul într-o vitrină care expune obiecte de zi cu zi.",
+                  "category": "museum",
+                  "coords": [
+                        7.585813,
+                        47.557991
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Basel – Barfüsserkirche",
+                  "text": "Muzeul istoric este găzduit în fosta biserică franciscană.",
+                  "category": "museum",
+                  "coords": [
+                        7.590103,
+                        47.554665
+                  ]
+            },
+            {
+                  "name": "Historisches Museum Basel – Haus zum Kirschgarten",
+                  "text": "Un muzeu al culturii locuirii burgheze într-un palat orășenesc magnific.",
+                  "category": "museum",
+                  "coords": [
+                        7.591352,
+                        47.552103
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Basel | Neubau",
+                  "text": "Extensia modernă a renumitului muzeu de artă din Basel.",
+                  "category": "museum",
+                  "coords": [
+                        7.595105,
+                        47.554475
+                  ]
+            },
+            {
+                  "name": "Schloss Binningen",
+                  "text": "Un castel istoric din Binningen, care astăzi servește drept restaurant.",
+                  "category": "castle",
+                  "coords": [
+                        7.574616,
+                        47.536831
+                  ]
+            },
+            {
+                  "name": "Baseldytschi Bihni",
+                  "text": "Un teatru de dialect care pune în scenă piese în germana din Basel.",
+                  "category": "cultural",
+                  "coords": [
+                        7.588366,
+                        47.55459
+                  ]
+            },
+            {
+                  "name": "Basler Marionettenthater",
+                  "text": "Un teatru de marionete tradițional în orașul vechi din Basel.",
+                  "category": "cultural",
+                  "coords": [
+                        7.592096,
+                        47.556956
+                  ]
+            },
+            {
+                  "name": "Theater Basel",
+                  "text": "Cel mai mare teatru cu trei secții din Elveția pentru operă, teatru și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.590231,
+                        47.55276
+                  ]
+            },
+            {
+                  "name": "St. Christophoruskirche",
+                  "text": "O biserică catolică din Basel, numită după Sfântul Cristofor.",
+                  "category": "religious",
+                  "coords": [
+                        7.593653,
+                        47.583773
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "Cea mai veche biserică parohială din Basel, cu o istorie ce datează din secolul al XI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        7.588621,
+                        47.558976
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "O biserică catolică neoromanică în vestul Baselului.",
+                  "category": "religious",
+                  "coords": [
+                        7.584,
+                        47.553441
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "O biserică evanghelică reformată în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        7.57505,
+                        47.565522
+                  ]
+            },
+            {
+                  "name": "Antoniuskirche",
+                  "text": "Prima biserică din Elveția construită integral din beton, un reper al modernismului.",
+                  "category": "religious",
+                  "coords": [
+                        7.572923,
+                        47.563869
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "O biserică istorică cu picturi murale medievale importante.",
+                  "category": "religious",
+                  "coords": [
+                        7.585232,
+                        47.559291
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "O biserică evanghelică în cartierul populat Kleinbasel.",
+                  "category": "religious",
+                  "coords": [
+                        7.593042,
+                        47.567159
+                  ]
+            },
+            {
+                  "name": "Clarakirche",
+                  "text": "O biserică catolică în Claraplatz, în centrul cartierului Kleinbasel.",
+                  "category": "religious",
+                  "coords": [
+                        7.59425,
+                        47.561621
+                  ]
+            },
+            {
+                  "name": "Thomaskirche",
+                  "text": "O clădire modernă de biserică a comunității evanghelice reformate.",
+                  "category": "religious",
+                  "coords": [
+                        7.562275,
+                        47.564037
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkirche",
+                  "text": "O biserică catolică modernă de la mijlocul secolului al XX-lea.",
+                  "category": "religious",
+                  "coords": [
+                        7.568396,
+                        47.547873
+                  ]
+            },
+            {
+                  "name": "St. Margarethen-Kirche",
+                  "text": "O biserică pitorească pe dealul Margarethen din Binningen.",
+                  "category": "religious",
+                  "coords": [
+                        7.579577,
+                        47.54312
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldbrücke",
+                  "text": "Un pod combinat de cale ferată și șosea peste Rin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.613961,
+                        47.55795
+                  ]
+            },
+            {
+                  "name": "Viaduktstrasse",
+                  "text": "Un viaduct feroviar care traversează râul Birsig în zona urbană.",
+                  "category": "landmark",
+                  "coords": [
+                        7.583304,
+                        47.549764
+                  ]
+            },
+            {
+                  "name": "Dreirosenbrücke",
+                  "text": "Un pod cu două etaje pentru traficul de autostradă și local.",
+                  "category": "landmark",
+                  "coords": [
+                        7.584994,
+                        47.570713
+                  ]
+            },
+            {
+                  "name": "Johanniterbrücke",
+                  "text": "Un pod central peste Rin care leagă cartierul St. Johann de Kleinbasel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.585746,
+                        47.564901
+                  ]
+            },
+            {
+                  "name": "Mittlere Brücke",
+                  "text": "Cel mai vechi pod existent peste Rin între Lacul Constanța și Marea Nordului.",
+                  "category": "landmark",
+                  "coords": [
+                        7.589719,
+                        47.560147
+                  ]
+            },
+            {
+                  "name": "Wettsteinbrücke",
+                  "text": "O legătură importantă de transport între Grossbasel și Kleinbasel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.596356,
+                        47.556777
+                  ]
+            },
+            {
+                  "name": "Pruntrutermatte",
+                  "text": "Un parc public și teren de sport în sud-vestul orașului.",
+                  "category": "park",
+                  "coords": [
+                        7.580204,
+                        47.544637
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten Basel",
+                  "text": "Cea mai veche și mai mare grădină zoologică din Elveția, cunoscută local sub numele de „Zolli”.",
+                  "category": "recreational",
+                  "coords": [
+                        7.579184,
+                        47.546856
+                  ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "Muzeu pentru artă satirică, caricaturi și benzi desenate.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "Un muzeu dedicat arhitecturii elvețiene contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum der Schweiz",
+                  "text": "Primul muzeu evreiesc din spațiul vorbitor de limbă germană după cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.55764
+                  ]
+            },
+            {
+                  "name": "Antikenmuseum Basel und Sammlung Ludwig",
+                  "text": "Un muzeu de artă antică din bazinul mediteranean.",
+                  "category": "museum",
+                  "coords": [
+                        7.593141,
+                        47.554356
+                  ]
+            },
+            {
+                  "name": "Birsfelder Museum",
+                  "text": "Un muzeu local care documentează istoria localității Birsfelden.",
+                  "category": "museum",
+                  "coords": [
+                        7.624693,
+                        47.55514
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Binningen",
+                  "text": "Muzeul prezintă istoria și cultura rurală din Binningen.",
+                  "category": "museum",
+                  "coords": [
+                        7.572686,
+                        47.543348
+                  ]
+            },
+            {
+                  "name": "Museum Tinguely",
+                  "text": "Un muzeu dedicat vieții și operei artistului Jean Tinguely.",
+                  "category": "museum",
+                  "coords": [
+                        7.612336,
+                        47.559172
+                  ]
+            },
+            {
+                  "name": "Galerie Carzaniga",
+                  "text": "O galerie renumită pentru artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        7.586202,
+                        47.556319
+                  ]
+            },
+            {
+                  "name": "St. Alban-Tor",
+                  "text": "Una dintre cele trei porți medievale ale orașului Basel care s-au păstrat.",
+                  "category": "fortress",
+                  "coords": [
+                        7.603209,
+                        47.553237
+                  ]
+            },
+            {
+                  "name": "St. Johanns-Tor",
+                  "text": "O poartă medievală magnifică a orașului, parte a fostului zid de apărare.",
+                  "category": "fortress",
+                  "coords": [
+                        7.582017,
+                        47.566442
+                  ]
+            },
+            {
+                  "name": "Kaserne",
+                  "text": "Un centru cultural important și loc de desfășurare pentru teatru independent.",
+                  "category": "cultural",
+                  "coords": [
+                        7.59009,
+                        47.563445
+                  ]
+            },
+            {
+                  "name": "Heilig Kreuz Kirche",
+                  "text": "O biserică romano-catolică din orașul Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.577712,
+                        47.539066
+                  ]
+            },
+            {
+                  "name": "Paroisse du Sacré-Cœur",
+                  "text": "Un lăcaș de cult creștin în Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.57971,
+                        47.553538
+                  ]
+            },
+            {
+                  "name": "Bruder-Klaus-Kirche",
+                  "text": "O biserică numită după Sfântul Bruder Klaus în Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.625983,
+                        47.551661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hafenmuseum Basel",
+                  "text": "The museum documents the importance of inland navigation for Switzerland.",
+                  "category": "museum",
+                  "coords": [
+                        7.589432,
+                        47.582638
+                  ]
+            },
+            {
+                  "name": "Museum der Kulturen",
+                  "text": "One of the most important ethnological museums in Europe.",
+                  "category": "museum",
+                  "coords": [
+                        7.590281,
+                        47.557197
+                  ]
+            },
+            {
+                  "name": "Skulpturhalle",
+                  "text": "The museum displays plaster casts of ancient sculptures from around the world.",
+                  "category": "museum",
+                  "coords": [
+                        7.579261,
+                        47.560367
+                  ]
+            },
+            {
+                  "name": "Anatomisches Museum",
+                  "text": "The museum of the University of Basel houses historical anatomical preparations.",
+                  "category": "museum",
+                  "coords": [
+                        7.579576,
+                        47.564891
+                  ]
+            },
+            {
+                  "name": "Museum Kleines Klingental",
+                  "text": "Museum in the former convent with exhibits on city history and cathedral sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        7.589632,
+                        47.562097
+                  ]
+            },
+            {
+                  "name": "Hoosesagg Museum",
+                  "text": "A tiny museum in a window display exhibiting everyday objects.",
+                  "category": "museum",
+                  "coords": [
+                        7.585813,
+                        47.557991
+                  ]
+            },
+            {
+                  "name": "Basel Historical Museum – Barfüsserkirche",
+                  "text": "The historical museum is housed in the former Franciscan church.",
+                  "category": "museum",
+                  "coords": [
+                        7.590103,
+                        47.554665
+                  ]
+            },
+            {
+                  "name": "Basel Historical Museum – Haus zum Kirschgarten",
+                  "text": "A museum of bourgeois domestic culture in a magnificent city palace.",
+                  "category": "museum",
+                  "coords": [
+                        7.591352,
+                        47.552103
+                  ]
+            },
+            {
+                  "name": "Kunstmuseum Basel | Neubau",
+                  "text": "The modern extension of the renowned Basel Museum of Art.",
+                  "category": "museum",
+                  "coords": [
+                        7.595105,
+                        47.554475
+                  ]
+            },
+            {
+                  "name": "Schloss Binningen",
+                  "text": "A historical castle in Binningen, which today serves as a restaurant.",
+                  "category": "castle",
+                  "coords": [
+                        7.574616,
+                        47.536831
+                  ]
+            },
+            {
+                  "name": "Baseldytschi Bihni",
+                  "text": "A dialect theatre performing plays in Basel German.",
+                  "category": "cultural",
+                  "coords": [
+                        7.588366,
+                        47.55459
+                  ]
+            },
+            {
+                  "name": "Basler Marionettenthater",
+                  "text": "A traditional puppet theatre in the old town of Basel.",
+                  "category": "cultural",
+                  "coords": [
+                        7.592096,
+                        47.556956
+                  ]
+            },
+            {
+                  "name": "Theater Basel",
+                  "text": "Switzerland's largest multi-disciplinary theatre for opera, drama, and ballet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.590231,
+                        47.55276
+                  ]
+            },
+            {
+                  "name": "St. Christophoruskirche",
+                  "text": "A Catholic church in Basel, named after Saint Christopher.",
+                  "category": "religious",
+                  "coords": [
+                        7.593653,
+                        47.583773
+                  ]
+            },
+            {
+                  "name": "Martinskirche",
+                  "text": "The oldest parish church in Basel, with a history dating back to the 11th century.",
+                  "category": "religious",
+                  "coords": [
+                        7.588621,
+                        47.558976
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "A neo-Romanesque Catholic church in the west of Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.584,
+                        47.553441
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "A Protestant Reformed church in neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        7.57505,
+                        47.565522
+                  ]
+            },
+            {
+                  "name": "Antoniuskirche",
+                  "text": "The first all-concrete church in Switzerland, a landmark of modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        7.572923,
+                        47.563869
+                  ]
+            },
+            {
+                  "name": "Peterskirche",
+                  "text": "A historical church with significant medieval wall paintings.",
+                  "category": "religious",
+                  "coords": [
+                        7.585232,
+                        47.559291
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "A Protestant church in the populous Kleinbasel district.",
+                  "category": "religious",
+                  "coords": [
+                        7.593042,
+                        47.567159
+                  ]
+            },
+            {
+                  "name": "Clarakirche",
+                  "text": "A Catholic church at Claraplatz in the center of Kleinbasel.",
+                  "category": "religious",
+                  "coords": [
+                        7.59425,
+                        47.561621
+                  ]
+            },
+            {
+                  "name": "Thomaskirche",
+                  "text": "A modern church building of the Protestant Reformed community.",
+                  "category": "religious",
+                  "coords": [
+                        7.562275,
+                        47.564037
+                  ]
+            },
+            {
+                  "name": "Allerheiligenkirche",
+                  "text": "A modern Catholic church from the middle of the 20th century.",
+                  "category": "religious",
+                  "coords": [
+                        7.568396,
+                        47.547873
+                  ]
+            },
+            {
+                  "name": "St. Margarethen-Kirche",
+                  "text": "A picturesque church on the Margarethen hill in Binningen.",
+                  "category": "religious",
+                  "coords": [
+                        7.579577,
+                        47.54312
+                  ]
+            },
+            {
+                  "name": "Schwarzwaldbrücke",
+                  "text": "A combined railway and road bridge over the Rhine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.613961,
+                        47.55795
+                  ]
+            },
+            {
+                  "name": "Viaduktstrasse",
+                  "text": "A railway viaduct crossing the Birsig river in the urban area.",
+                  "category": "landmark",
+                  "coords": [
+                        7.583304,
+                        47.549764
+                  ]
+            },
+            {
+                  "name": "Dreirosenbrücke",
+                  "text": "A double-deck bridge for motorway and local traffic.",
+                  "category": "landmark",
+                  "coords": [
+                        7.584994,
+                        47.570713
+                  ]
+            },
+            {
+                  "name": "Johanniterbrücke",
+                  "text": "A central Rhine bridge connecting St. Johann with Kleinbasel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.585746,
+                        47.564901
+                  ]
+            },
+            {
+                  "name": "Mittlere Brücke",
+                  "text": "The oldest existing Rhine bridge between Lake Constance and the North Sea.",
+                  "category": "landmark",
+                  "coords": [
+                        7.589719,
+                        47.560147
+                  ]
+            },
+            {
+                  "name": "Wettsteinbrücke",
+                  "text": "An important transport link between Grossbasel and Kleinbasel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.596356,
+                        47.556777
+                  ]
+            },
+            {
+                  "name": "Pruntrutermatte",
+                  "text": "A public park and sports field in the southwest of the city.",
+                  "category": "park",
+                  "coords": [
+                        7.580204,
+                        47.544637
+                  ]
+            },
+            {
+                  "name": "Zoologischer Garten Basel",
+                  "text": "The oldest and largest zoo in Switzerland, locally known as 'Zolli'.",
+                  "category": "recreational",
+                  "coords": [
+                        7.579184,
+                        47.546856
+                  ]
+            },
+            {
+                  "name": "Cartoonmuseum Basel",
+                  "text": "Museum for satirical art, caricatures, and comics.",
+                  "category": "museum",
+                  "coords": [
+                        7.596368,
+                        47.554529
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Architekturmuseum",
+                  "text": "A museum dedicated to contemporary Swiss architecture.",
+                  "category": "museum",
+                  "coords": [
+                        7.591032,
+                        47.553766
+                  ]
+            },
+            {
+                  "name": "Jüdisches Museum der Schweiz",
+                  "text": "The first Jewish museum in the German-speaking world after World War II.",
+                  "category": "museum",
+                  "coords": [
+                        7.583168,
+                        47.55764
+                  ]
+            },
+            {
+                  "name": "Antikenmuseum Basel und Sammlung Ludwig",
+                  "text": "A museum of ancient art from the Mediterranean region.",
+                  "category": "museum",
+                  "coords": [
+                        7.593141,
+                        47.554356
+                  ]
+            },
+            {
+                  "name": "Birsfelder Museum",
+                  "text": "A local museum documenting the history of Birsfelden.",
+                  "category": "museum",
+                  "coords": [
+                        7.624693,
+                        47.55514
+                  ]
+            },
+            {
+                  "name": "Ortsmuseum Binningen",
+                  "text": "The museum displays the history and rural culture of Binningen.",
+                  "category": "museum",
+                  "coords": [
+                        7.572686,
+                        47.543348
+                  ]
+            },
+            {
+                  "name": "Museum Tinguely",
+                  "text": "A museum dedicated to the life and work of the artist Jean Tinguely.",
+                  "category": "museum",
+                  "coords": [
+                        7.612336,
+                        47.559172
+                  ]
+            },
+            {
+                  "name": "Galerie Carzaniga",
+                  "text": "A renowned gallery for modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        7.586202,
+                        47.556319
+                  ]
+            },
+            {
+                  "name": "St. Alban-Tor",
+                  "text": "One of the three surviving medieval city gates of Basel.",
+                  "category": "fortress",
+                  "coords": [
+                        7.603209,
+                        47.553237
+                  ]
+            },
+            {
+                  "name": "St. Johanns-Tor",
+                  "text": "A magnificent medieval city gate, part of the former city wall.",
+                  "category": "fortress",
+                  "coords": [
+                        7.582017,
+                        47.566442
+                  ]
+            },
+            {
+                  "name": "Kaserne Basel",
+                  "text": "An important cultural center and venue for independent theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        7.59009,
+                        47.563445
+                  ]
+            },
+            {
+                  "name": "Heilig Kreuz Kirche",
+                  "text": "A Roman Catholic church located in the city of Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.577712,
+                        47.539066
+                  ]
+            },
+            {
+                  "name": "Paroisse du Sacré-Cœur",
+                  "text": "A Christian place of worship in Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.57971,
+                        47.553538
+                  ]
+            },
+            {
+                  "name": "Bruder-Klaus-Kirche",
+                  "text": "A church named after Saint Bruder Klaus in Basel.",
+                  "category": "religious",
+                  "coords": [
+                        7.625983,
+                        47.551661
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [7.5886, 47.5596],
@@ -357,7 +5856,1780 @@ export const switzerlandRegions: POI[] = [
     },
   },
   {
-    id: "city-lausanne",
+    id: "city-lausanne", "sights": {
+      "de": [
+            {
+                  "name": "Schuhmuseum",
+                  "text": "Ein Museum in Lausanne, das die Geschichte und Vielfalt des Schuhwerks dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.634991,
+                        46.520488
+                  ]
+            },
+            {
+                  "name": "Musée Historique de Lausanne",
+                  "text": "Das Museum im alten Bischofspalast beleuchtet die reiche Geschichte der Stadt Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.634924,
+                        46.52222
+                  ]
+            },
+            {
+                  "name": "Collection de l’Art Brut",
+                  "text": "Eine weltberühmte Sammlung von Werken autodidaktischer Künstler aus sozialen Randgruppen.",
+                  "category": "museum",
+                  "coords": [
+                        6.624692,
+                        46.527316
+                  ]
+            },
+            {
+                  "name": "Musée de la Machine à Écrire",
+                  "text": "Ein einzigartiges Museum in Lausanne, das eine große Sammlung historischer Schreibmaschinen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.627645,
+                        46.523205
+                  ]
+            },
+            {
+                  "name": "Stiftung SAPA",
+                  "text": "Eine Institution, die sich der Bewahrung und Erforschung der darstellenden Künste widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.638321,
+                        46.518392
+                  ]
+            },
+            {
+                  "name": "MUDAC",
+                  "text": "Das Museum für Design und zeitgenössische angewandte Kunst in Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.623505,
+                        46.518554
+                  ]
+            },
+            {
+                  "name": "Musée romain de Lausanne-Vidy",
+                  "text": "Das Museum zeigt die Ausgrabungen und das Leben in der römischen Siedlung Lousonna.",
+                  "category": "museum",
+                  "coords": [
+                        6.598673,
+                        46.518957
+                  ]
+            },
+            {
+                  "name": "Château d'Ouchy",
+                  "text": "Ein am See gelegenes Schloss, das heute als Hotel genutzt wird und ein Wahrzeichen von Ouchy ist.",
+                  "category": "castle",
+                  "coords": [
+                        6.627481,
+                        46.506722
+                  ]
+            },
+            {
+                  "name": "Olympisches Museum",
+                  "text": "Das einzige offizielle Museum weltweit, das die Geschichte der Olympischen Spiele umfassend zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        6.634217,
+                        46.508674
+                  ]
+            },
+            {
+                  "name": "Fondation de l'Hermitage",
+                  "text": "Ein Kunstmuseum in einer wunderschönen Villa, bekannt für seine hochkarätigen Wechselausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        6.637253,
+                        46.528158
+                  ]
+            },
+            {
+                  "name": "Palais de Rumine",
+                  "text": "Ein beeindruckendes Gebäude im Neorenaissance-Stil, das mehrere kantonale Museen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        6.633869,
+                        46.523536
+                  ]
+            },
+            {
+                  "name": "Château Saint-Maire",
+                  "text": "Ein massives Schloss aus dem 14. Jahrhundert, das heute der Sitz der Waadtländer Regierung ist.",
+                  "category": "castle",
+                  "coords": [
+                        6.635679,
+                        46.524778
+                  ]
+            },
+            {
+                  "name": "Musée Cantonal des Beaux-Arts",
+                  "text": "Das Kantonale Kunstmuseum zeigt bedeutende Werke von der Renaissance bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        6.625203,
+                        46.517944
+                  ]
+            },
+            {
+                  "name": "Ruines romaines Lousonna",
+                  "text": "Archäologische Überreste der antiken römischen Siedlung am Ufer des Genfersees.",
+                  "category": "historical",
+                  "coords": [
+                        6.601068,
+                        46.516484
+                  ]
+            },
+            {
+                  "name": "Tour Haldimand",
+                  "text": "Eine neugotische Turmruine direkt am Ufer des Genfersees in Lausanne-Ouchy.",
+                  "category": "historical",
+                  "coords": [
+                        6.641524,
+                        46.505114
+                  ]
+            },
+            {
+                  "name": "Villa Eupalinos",
+                  "text": "Ein elegantes Herrenhaus in Lausanne, bekannt für seine Architektur und Lage.",
+                  "category": "historical",
+                  "coords": [
+                        6.662301,
+                        46.52362
+                  ]
+            },
+            {
+                  "name": "Opéra de Lausanne",
+                  "text": "Das renommierte Opernhaus von Lausanne mit einem vielfältigen Programm an Musiktheater.",
+                  "category": "cultural",
+                  "coords": [
+                        6.636967,
+                        46.518064
+                  ]
+            },
+            {
+                  "name": "Théâtre Vidy-Lausanne",
+                  "text": "Ein bedeutendes Theater am Ufer des Genfersees, bekannt für zeitgenössische Inszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        6.61082,
+                        46.512778
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "Eine historische Kirche im Stadtzentrum, die früher Teil eines Franziskanerklosters war.",
+                  "category": "religious",
+                  "coords": [
+                        6.633347,
+                        46.519668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Eine markante Kirche im Herzen von Lausanne, die das Stadtbild mitprägt.",
+                  "category": "religious",
+                  "coords": [
+                        6.630869,
+                        46.522271
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Ein bedeutendes religiöses Bauwerk der jüdischen Gemeinde in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.637723,
+                        46.516241
+                  ]
+            },
+            {
+                  "name": "Pont Chauderon",
+                  "text": "Eine beeindruckende Bogenbrücke, die eines der Täler im Stadtzentrum von Lausanne überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        6.62389,
+                        46.522262
+                  ]
+            },
+            {
+                  "name": "Grand-Pont",
+                  "text": "Eine zentrale Brücke in Lausanne, die die Stadtteile auf zwei verschiedenen Ebenen verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        6.631063,
+                        46.520773
+                  ]
+            },
+            {
+                  "name": "Parc de Milan",
+                  "text": "Ein beliebter Park mit einem botanischen Garten und weiten Rasenflächen zum Entspannen.",
+                  "category": "park",
+                  "coords": [
+                        6.622738,
+                        46.514206
+                  ]
+            },
+            {
+                  "name": "Promenade Jean-Jacques Mercier",
+                  "text": "Eine angenehme Parkanlage in Lausanne, ideal für Spaziergänge im Grünen.",
+                  "category": "park",
+                  "coords": [
+                        6.646364,
+                        46.515394
+                  ]
+            },
+            {
+                  "name": "Tour de Sauvabelin",
+                  "text": "Ein hoher Holzturm in den Wäldern oberhalb von Lausanne mit Panoramablick auf die Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        6.638539,
+                        46.535263
+                  ]
+            },
+            {
+                  "name": "Parc de Mon-Repos",
+                  "text": "Ein malerischer Landschaftspark mit einer Orangerie, einem kleinen Wasserfall und Volieren.",
+                  "category": "park",
+                  "coords": [
+                        6.643057,
+                        46.519145
+                  ]
+            },
+            {
+                  "name": "Musée d'art de Pully",
+                  "text": "Ein Museum in Pully bei Lausanne, das sich der bildenden Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        6.660403,
+                        46.509034
+                  ]
+            },
+            {
+                  "name": "Fondation Claude Verdan - Musée de la Main",
+                  "text": "Ein interaktives Museum, das wissenschaftliche und medizinische Themen rund um den Menschen erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        6.640613,
+                        46.524987
+                  ]
+            },
+            {
+                  "name": "Château de Valency",
+                  "text": "Ein historisches Anwesen in Lausanne, das heute einen öffentlichen Park umgibt.",
+                  "category": "castle",
+                  "coords": [
+                        6.608896,
+                        46.529404
+                  ]
+            },
+            {
+                  "name": "Château de Béthusy",
+                  "text": "Ein herrschaftliches Gebäude in Lausanne mit einer langen Geschichte.",
+                  "category": "castle",
+                  "coords": [
+                        6.646052,
+                        46.523008
+                  ]
+            },
+            {
+                  "name": "Château de Vennes",
+                  "text": "Ein historisches Schloss in der Stadt Lausanne.",
+                  "category": "castle",
+                  "coords": [
+                        6.648734,
+                        46.538531
+                  ]
+            },
+            {
+                  "name": "Espace Arlaud",
+                  "text": "Ein bedeutendes Museum für Kunst und Geschichte in Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.632167,
+                        46.522758
+                  ]
+            },
+            {
+                  "name": "Château de Vidy",
+                  "text": "Ein ehemaliges Schloss in Lausanne, das heute Verwaltungszwecken dient.",
+                  "category": "castle",
+                  "coords": [
+                        6.596509,
+                        46.518468
+                  ]
+            },
+            {
+                  "name": "Château de Prilly",
+                  "text": "Ein historisches Schlossgebäude in der Gemeinde Prilly bei Lausanne.",
+                  "category": "castle",
+                  "coords": [
+                        6.605122,
+                        46.535146
+                  ]
+            },
+            {
+                  "name": "Villa romaine de Pully",
+                  "text": "Eine archäologische Ausgrabungsstätte mit Überresten einer römischen Villa in Pully.",
+                  "category": "historical",
+                  "coords": [
+                        6.662165,
+                        46.509489
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Das historische Rathausgebäude der Stadt Lausanne.",
+                  "category": "historical",
+                  "coords": [
+                        6.632771,
+                        46.521766
+                  ]
+            },
+            {
+                  "name": "Lausanne Free Church",
+                  "text": "Eine unabhängige christliche Kirche in der Stadt Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.620338,
+                        46.517256
+                  ]
+            },
+            {
+                  "name": "Christ Church Lausanne",
+                  "text": "Eine anglikanische Kirche, die der englischsprachigen Gemeinde in Lausanne dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.630542,
+                        46.514316
+                  ]
+            },
+            {
+                  "name": "Église catholique de Saint Nicolas de Flüe",
+                  "text": "Eine katholische Kirche in Lausanne, die dem Heiligen Nikolaus von Flüe geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        6.654263,
+                        46.523528
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame",
+                  "text": "Eine bedeutende katholische Basilika im Zentrum von Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.630846,
+                        46.523637
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "Ein religiöser Ort des Gebets in der Stadt Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.609413,
+                        46.519831
+                  ]
+            },
+            {
+                  "name": "Temple de Sévelin",
+                  "text": "Ein reformiertes Kirchengebäude im Viertel Sévelin in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.613801,
+                        46.521215
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Jean-Cour",
+                  "text": "Eine lokale Kirche im Stadtteil Saint-Jean-Cour in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.609251,
+                        46.517487
+                  ]
+            },
+            {
+                  "name": "Église de la Croix d’Ouchy",
+                  "text": "Eine markante Kirche in der Nähe der Uferpromenade von Ouchy in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.629773,
+                        46.511195
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Eine katholische Pfarrkirche im Stadtteil Saint-Paul in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.619043,
+                        46.527261
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Matthieu",
+                  "text": "Eine kleine christliche Kapelle in der Stadt Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.617916,
+                        46.534493
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Luc",
+                  "text": "Ein reformiertes Kirchengebäude in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.629392,
+                        46.530616
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Rédempteur",
+                  "text": "Eine katholische Kirche im Herzen von Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.642958,
+                        46.516675
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée de la Chaussure",
+                  "text": "Lausanne-i múzeum, amely a lábbelik történelmét és sokféleségét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        6.634991,
+                        46.520488
+                  ]
+            },
+            {
+                  "name": "Musée Historique de Lausanne",
+                  "text": "A régi püspöki palotában található múzeum Lausanne városának gazdag történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.634924,
+                        46.52222
+                  ]
+            },
+            {
+                  "name": "Collection de l’Art Brut",
+                  "text": "Világhírű gyűjtemény társadalmi peremcsoportokból származó autodidakta művészek műveiből.",
+                  "category": "museum",
+                  "coords": [
+                        6.624692,
+                        46.527316
+                  ]
+            },
+            {
+                  "name": "Musée de la Machine à Écrire",
+                  "text": "Egyedülálló lausanne-i múzeum, amely történelmi írógépek nagy gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.627645,
+                        46.523205
+                  ]
+            },
+            {
+                  "name": "Fondation SAPA",
+                  "text": "Az előadóművészetek megőrzésének és kutatásának szentelt intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        6.638321,
+                        46.518392
+                  ]
+            },
+            {
+                  "name": "MUDAC",
+                  "text": "Design és kortárs iparművészeti múzeum Lausanne-ban.",
+                  "category": "museum",
+                  "coords": [
+                        6.623505,
+                        46.518554
+                  ]
+            },
+            {
+                  "name": "Musée romain de Lausanne-Vidy",
+                  "text": "A múzeum Lousonna római településének ásatásait és életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.598673,
+                        46.518957
+                  ]
+            },
+            {
+                  "name": "Château d'Ouchy",
+                  "text": "Tóparti kastély, amely ma szállodaként működik, és Ouchy jelképe.",
+                  "category": "castle",
+                  "coords": [
+                        6.627481,
+                        46.506722
+                  ]
+            },
+            {
+                  "name": "Musée Olympique",
+                  "text": "A világ egyetlen hivatalos múzeuma, amely átfogóan mutatja be az olimpiai játékok történetét.",
+                  "category": "museum",
+                  "coords": [
+                        6.634217,
+                        46.508674
+                  ]
+            },
+            {
+                  "name": "Fondation de l'Hermitage",
+                  "text": "Művészeti múzeum egy gyönyörű villában, amely nívós időszaki kiállításairól ismert.",
+                  "category": "museum",
+                  "coords": [
+                        6.637253,
+                        46.528158
+                  ]
+            },
+            {
+                  "name": "Palais de Rumine",
+                  "text": "Lenyűgöző neoreneszánsz stílusú épület, amely több kantonális múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        6.633869,
+                        46.523536
+                  ]
+            },
+            {
+                  "name": "Château Saint-Maire",
+                  "text": "Masszív 14. századi kastély, amely ma Vaud kanton kormányának székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        6.635679,
+                        46.524778
+                  ]
+            },
+            {
+                  "name": "Musée Cantonal des Beaux-Arts",
+                  "text": "A kantonális művészeti múzeum jelentős műveket mutat be a reneszánsztól napjainkig.",
+                  "category": "museum",
+                  "coords": [
+                        6.625203,
+                        46.517944
+                  ]
+            },
+            {
+                  "name": "Ruines romaines Lousonna",
+                  "text": "Az ókori római település régészeti maradványai a Genfi-tó partján.",
+                  "category": "historical",
+                  "coords": [
+                        6.601068,
+                        46.516484
+                  ]
+            },
+            {
+                  "name": "Tour Haldimand",
+                  "text": "Neogótikus toronyrom közvetlenül a Genfi-tó partján, Lausanne-Ouchy-ban.",
+                  "category": "historical",
+                  "coords": [
+                        6.641524,
+                        46.505114
+                  ]
+            },
+            {
+                  "name": "Villa Eupalinos",
+                  "text": "Elegáns udvarház Lausanne-ban, amely építészetéről és elhelyezkedéséről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        6.662301,
+                        46.52362
+                  ]
+            },
+            {
+                  "name": "Opéra de Lausanne",
+                  "text": "Lausanne neves operaháza változatos zenés színházi programmal.",
+                  "category": "cultural",
+                  "coords": [
+                        6.636967,
+                        46.518064
+                  ]
+            },
+            {
+                  "name": "Théâtre Vidy-Lausanne",
+                  "text": "Jelentős színház a Genfi-tó partján, amely kortárs előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        6.61082,
+                        46.512778
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "Történelmi templom a városközpontban, amely korábban egy ferences kolostor része volt.",
+                  "category": "religious",
+                  "coords": [
+                        6.633347,
+                        46.519668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "Jellegzetes templom Lausanne szívében, amely meghatározza a városképet.",
+                  "category": "religious",
+                  "coords": [
+                        6.630869,
+                        46.522271
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "A lausanne-i zsidó közösség jelentős vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        6.637723,
+                        46.516241
+                  ]
+            },
+            {
+                  "name": "Pont Chauderon",
+                  "text": "Lenyűgöző ívhíd, amely Lausanne belvárosának egyik völgye felett ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        6.62389,
+                        46.522262
+                  ]
+            },
+            {
+                  "name": "Grand-Pont",
+                  "text": "Központi híd Lausanne-ban, amely két különböző szinten köti össze a városrészeket.",
+                  "category": "landmark",
+                  "coords": [
+                        6.631063,
+                        46.520773
+                  ]
+            },
+            {
+                  "name": "Parc de Milan",
+                  "text": "Népszerű park botanikus kerttel és tágas pázsittal a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        6.622738,
+                        46.514206
+                  ]
+            },
+            {
+                  "name": "Promenade Jean-Jacques Mercier",
+                  "text": "Kellemes park Lausanne-ban, amely ideális zöldövezeti sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        6.646364,
+                        46.515394
+                  ]
+            },
+            {
+                  "name": "Tour de Sauvabelin",
+                  "text": "Magas fatorony a Lausanne feletti erdőkben, panorámás kilátással az Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        6.638539,
+                        46.535263
+                  ]
+            },
+            {
+                  "name": "Parc de Mon-Repos",
+                  "text": "Festői tájképi park narancsházzal, kis vízeséssel és madárházakkal.",
+                  "category": "park",
+                  "coords": [
+                        6.643057,
+                        46.519145
+                  ]
+            },
+            {
+                  "name": "Musée d'art de Pully",
+                  "text": "Pully-ban, Lausanne mellett található múzeum, amely a képzőművészetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        6.660403,
+                        46.509034
+                  ]
+            },
+            {
+                  "name": "Fondation Claude Verdan - Musée de la Main",
+                  "text": "Interaktív múzeum, amely az emberrel kapcsolatos tudományos és orvosi témákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        6.640613,
+                        46.524987
+                  ]
+            },
+            {
+                  "name": "Château de Valency",
+                  "text": "Történelmi birtok Lausanne-ban, amelyet ma nyilvános park vesz körül.",
+                  "category": "castle",
+                  "coords": [
+                        6.608896,
+                        46.529404
+                  ]
+            },
+            {
+                  "name": "Château de Béthusy",
+                  "text": "Impozáns épület Lausanne-ban, hosszú történelmi múlttal.",
+                  "category": "castle",
+                  "coords": [
+                        6.646052,
+                        46.523008
+                  ]
+            },
+            {
+                  "name": "Château de Vennes",
+                  "text": "Egy történelmi kastély Lausanne városában.",
+                  "category": "castle",
+                  "coords": [
+                        6.648734,
+                        46.538531
+                  ]
+            },
+            {
+                  "name": "Espace Arlaud",
+                  "text": "Egy jelentős művészeti és történelmi múzeum Lausanne-ban.",
+                  "category": "museum",
+                  "coords": [
+                        6.632167,
+                        46.522758
+                  ]
+            },
+            {
+                  "name": "Château de Vidy",
+                  "text": "Egy egykori kastély Lausanne-ban, amely ma közigazgatási célokat szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        6.596509,
+                        46.518468
+                  ]
+            },
+            {
+                  "name": "Château de Prilly",
+                  "text": "Egy történelmi kastélyépület Prilly községben, Lausanne mellett.",
+                  "category": "castle",
+                  "coords": [
+                        6.605122,
+                        46.535146
+                  ]
+            },
+            {
+                  "name": "Villa romaine de Pully",
+                  "text": "Régészeti lelőhely egy római villa maradványaival Pully-ban.",
+                  "category": "historical",
+                  "coords": [
+                        6.662165,
+                        46.509489
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Lausanne városának történelmi városháza épülete.",
+                  "category": "historical",
+                  "coords": [
+                        6.632771,
+                        46.521766
+                  ]
+            },
+            {
+                  "name": "Lausanne Free Church",
+                  "text": "Egy független keresztény templom Lausanne városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.620338,
+                        46.517256
+                  ]
+            },
+            {
+                  "name": "Christ Church Lausanne",
+                  "text": "Egy anglikán templom, amely a lausanne-i angol nyelvű közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.630542,
+                        46.514316
+                  ]
+            },
+            {
+                  "name": "Église catholique de Saint Nicolas de Flüe",
+                  "text": "Flüei Szent Miklósnak szentelt katolikus templom Lausanne-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.654263,
+                        46.523528
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame",
+                  "text": "Egy jelentős katolikus bazilika Lausanne központjában.",
+                  "category": "religious",
+                  "coords": [
+                        6.630846,
+                        46.523637
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "Vallási imádság helyszíne Lausanne városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.609413,
+                        46.519831
+                  ]
+            },
+            {
+                  "name": "Temple de Sévelin",
+                  "text": "Egy református templomépület Lausanne Sévelin negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.613801,
+                        46.521215
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Jean-Cour",
+                  "text": "Egy helyi templom Lausanne Saint-Jean-Cour negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        6.609251,
+                        46.517487
+                  ]
+            },
+            {
+                  "name": "Église de la Croix d’Ouchy",
+                  "text": "Egy jellegzetes templom a lausanne-i Ouchy tóparti sétány közelében.",
+                  "category": "religious",
+                  "coords": [
+                        6.629773,
+                        46.511195
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "Szent Pál plébániatemplom Lausanne-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.619043,
+                        46.527261
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Matthieu",
+                  "text": "Egy kis keresztény kápolna Lausanne városában.",
+                  "category": "religious",
+                  "coords": [
+                        6.617916,
+                        46.534493
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Luc",
+                  "text": "Egy református templomépület Lausanne-ban.",
+                  "category": "religious",
+                  "coords": [
+                        6.629392,
+                        46.530616
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Rédempteur",
+                  "text": "Egy katolikus templom Lausanne szívében.",
+                  "category": "religious",
+                  "coords": [
+                        6.642958,
+                        46.516675
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée de la Chaussure",
+                  "text": "Un muzeu din Lausanne care documentează istoria și diversitatea încălțămintei.",
+                  "category": "museum",
+                  "coords": [
+                        6.634991,
+                        46.520488
+                  ]
+            },
+            {
+                  "name": "Musée Historique de Lausanne",
+                  "text": "Muzeul din vechiul palat episcopal evidențiază istoria bogată a orașului Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.634924,
+                        46.52222
+                  ]
+            },
+            {
+                  "name": "Collection de l’Art Brut",
+                  "text": "O colecție de renume mondial de lucrări ale artiștilor autodidacți din grupuri sociale marginalizate.",
+                  "category": "museum",
+                  "coords": [
+                        6.624692,
+                        46.527316
+                  ]
+            },
+            {
+                  "name": "Musée de la Machine à Écrire",
+                  "text": "Un muzeu unic din Lausanne care prezintă o colecție mare de mașini de scris istorice.",
+                  "category": "museum",
+                  "coords": [
+                        6.627645,
+                        46.523205
+                  ]
+            },
+            {
+                  "name": "Fondation SAPA",
+                  "text": "O instituție dedicată conservării și cercetării artelor spectacolului.",
+                  "category": "museum",
+                  "coords": [
+                        6.638321,
+                        46.518392
+                  ]
+            },
+            {
+                  "name": "MUDAC",
+                  "text": "Muzeul de design și arte aplicate contemporane din Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.623505,
+                        46.518554
+                  ]
+            },
+            {
+                  "name": "Musée romain de Lausanne-Vidy",
+                  "text": "Muzeul prezintă săpăturile și viața în așezarea romană Lousonna.",
+                  "category": "museum",
+                  "coords": [
+                        6.598673,
+                        46.518957
+                  ]
+            },
+            {
+                  "name": "Château d'Ouchy",
+                  "text": "Un castel situat pe malul lacului, utilizat astăzi ca hotel și simbol al cartierului Ouchy.",
+                  "category": "castle",
+                  "coords": [
+                        6.627481,
+                        46.506722
+                  ]
+            },
+            {
+                  "name": "Musée Olympique",
+                  "text": "Singurul muzeu oficial din lume care prezintă cuprinzător istoria Jocurilor Olimpice.",
+                  "category": "museum",
+                  "coords": [
+                        6.634217,
+                        46.508674
+                  ]
+            },
+            {
+                  "name": "Fondation de l'Hermitage",
+                  "text": "Un muzeu de artă într-o vilă superbă, cunoscut pentru expozițiile sale temporare de înaltă calitate.",
+                  "category": "museum",
+                  "coords": [
+                        6.637253,
+                        46.528158
+                  ]
+            },
+            {
+                  "name": "Palais de Rumine",
+                  "text": "O clădire impresionantă în stil neorenascentist care găzduiește mai multe muzee cantonale.",
+                  "category": "museum",
+                  "coords": [
+                        6.633869,
+                        46.523536
+                  ]
+            },
+            {
+                  "name": "Château Saint-Maire",
+                  "text": "Un castel masiv din secolul al XIV-lea, astăzi sediul guvernului cantonului Vaud.",
+                  "category": "castle",
+                  "coords": [
+                        6.635679,
+                        46.524778
+                  ]
+            },
+            {
+                  "name": "Musée Cantonal des Beaux-Arts",
+                  "text": "Muzeul cantonal de artă expune lucrări semnificative din Renaștere până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        6.625203,
+                        46.517944
+                  ]
+            },
+            {
+                  "name": "Ruines romaines Lousonna",
+                  "text": "Vestigii arheologice ale anticei așezări romane de pe malul lacului Geneva.",
+                  "category": "historical",
+                  "coords": [
+                        6.601068,
+                        46.516484
+                  ]
+            },
+            {
+                  "name": "Tour Haldimand",
+                  "text": "O ruină de turn neogotic chiar pe malul lacului Geneva în Lausanne-Ouchy.",
+                  "category": "historical",
+                  "coords": [
+                        6.641524,
+                        46.505114
+                  ]
+            },
+            {
+                  "name": "Villa Eupalinos",
+                  "text": "Un conac elegant în Lausanne, cunoscut pentru arhitectura și locația sa.",
+                  "category": "historical",
+                  "coords": [
+                        6.662301,
+                        46.52362
+                  ]
+            },
+            {
+                  "name": "Opéra de Lausanne",
+                  "text": "Renumita operă din Lausanne, cu un program diversificat de teatru muzical.",
+                  "category": "cultural",
+                  "coords": [
+                        6.636967,
+                        46.518064
+                  ]
+            },
+            {
+                  "name": "Théâtre Vidy-Lausanne",
+                  "text": "Un teatru important pe malul lacului Geneva, cunoscut pentru puneri în scenă contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        6.61082,
+                        46.512778
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "O biserică istorică din centrul orașului, care făcea parte anterior dintr-o mănăstire franciscană.",
+                  "category": "religious",
+                  "coords": [
+                        6.633347,
+                        46.519668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "O biserică proeminentă în inima Lausanne-ului, care contribuie la aspectul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        6.630869,
+                        46.522271
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "Un edificiu religios important al comunității evreiești din Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.637723,
+                        46.516241
+                  ]
+            },
+            {
+                  "name": "Pont Chauderon",
+                  "text": "Un pod arcuit impresionant care traversează una dintre văile din centrul orașului Lausanne.",
+                  "category": "landmark",
+                  "coords": [
+                        6.62389,
+                        46.522262
+                  ]
+            },
+            {
+                  "name": "Grand-Pont",
+                  "text": "Un pod central din Lausanne care conectează cartierele orașului pe două niveluri diferite.",
+                  "category": "landmark",
+                  "coords": [
+                        6.631063,
+                        46.520773
+                  ]
+            },
+            {
+                  "name": "Parc de Milan",
+                  "text": "Un parc popular cu o grădină botanică și peluze largi pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        6.622738,
+                        46.514206
+                  ]
+            },
+            {
+                  "name": "Promenade Jean-Jacques Mercier",
+                  "text": "Un parc plăcut în Lausanne, ideal pentru plimbări în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        6.646364,
+                        46.515394
+                  ]
+            },
+            {
+                  "name": "Tour de Sauvabelin",
+                  "text": "Un turn înalt de lemn în pădurile de deasupra Lausanne-ului, cu vedere panoramică spre Alpi.",
+                  "category": "natural",
+                  "coords": [
+                        6.638539,
+                        46.535263
+                  ]
+            },
+            {
+                  "name": "Parc de Mon-Repos",
+                  "text": "Un parc peisaj pitoresc cu o oranjerie, o mică cascadă și voliere.",
+                  "category": "park",
+                  "coords": [
+                        6.643057,
+                        46.519145
+                  ]
+            },
+            {
+                  "name": "Musée d'art de Pully",
+                  "text": "Un muzeu din Pully, lângă Lausanne, dedicat artelor vizuale.",
+                  "category": "museum",
+                  "coords": [
+                        6.660403,
+                        46.509034
+                  ]
+            },
+            {
+                  "name": "Fondation Claude Verdan - Musée de la Main",
+                  "text": "Un muzeu interactiv care explorează teme științifice și medicale legate de om.",
+                  "category": "museum",
+                  "coords": [
+                        6.640613,
+                        46.524987
+                  ]
+            },
+            {
+                  "name": "Château de Valency",
+                  "text": "O proprietate istorică din Lausanne, înconjurată astăzi de un parc public.",
+                  "category": "castle",
+                  "coords": [
+                        6.608896,
+                        46.529404
+                  ]
+            },
+            {
+                  "name": "Château de Béthusy",
+                  "text": "O clădire impunătoare din Lausanne, cu o istorie îndelungată.",
+                  "category": "castle",
+                  "coords": [
+                        6.646052,
+                        46.523008
+                  ]
+            },
+            {
+                  "name": "Château de Vennes",
+                  "text": "Un castel istoric situat în orașul Lausanne.",
+                  "category": "castle",
+                  "coords": [
+                        6.648734,
+                        46.538531
+                  ]
+            },
+            {
+                  "name": "Espace Arlaud",
+                  "text": "Un muzeu important de artă și istorie din Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.632167,
+                        46.522758
+                  ]
+            },
+            {
+                  "name": "Château de Vidy",
+                  "text": "Un fost castel din Lausanne, folosit astăzi în scopuri administrative.",
+                  "category": "castle",
+                  "coords": [
+                        6.596509,
+                        46.518468
+                  ]
+            },
+            {
+                  "name": "Château de Prilly",
+                  "text": "O clădire istorică de castel în comuna Prilly de lângă Lausanne.",
+                  "category": "castle",
+                  "coords": [
+                        6.605122,
+                        46.535146
+                  ]
+            },
+            {
+                  "name": "Villa romaine de Pully",
+                  "text": "Un sit arheologic cu vestigiile unei vile romane în Pully.",
+                  "category": "historical",
+                  "coords": [
+                        6.662165,
+                        46.509489
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "Clădirea istorică a primăriei din Lausanne.",
+                  "category": "historical",
+                  "coords": [
+                        6.632771,
+                        46.521766
+                  ]
+            },
+            {
+                  "name": "Lausanne Free Church",
+                  "text": "O biserică creștină independentă în orașul Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.620338,
+                        46.517256
+                  ]
+            },
+            {
+                  "name": "Christ Church Lausanne",
+                  "text": "O biserică anglicană care deservește comunitatea de limbă engleză din Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.630542,
+                        46.514316
+                  ]
+            },
+            {
+                  "name": "Église catholique de Saint Nicolas de Flüe",
+                  "text": "O biserică catolică din Lausanne, dedicată Sfântului Nicolae de Flüe.",
+                  "category": "religious",
+                  "coords": [
+                        6.654263,
+                        46.523528
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame",
+                  "text": "O bazilică catolică importantă în centrul orașului Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.630846,
+                        46.523637
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "Un lăcaș de cult religios în orașul Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.609413,
+                        46.519831
+                  ]
+            },
+            {
+                  "name": "Temple de Sévelin",
+                  "text": "O clădire bisericească reformată în cartierul Sévelin din Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.613801,
+                        46.521215
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Jean-Cour",
+                  "text": "O biserică locală în cartierul Saint-Jean-Cour din Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.609251,
+                        46.517487
+                  ]
+            },
+            {
+                  "name": "Église de la Croix d’Ouchy",
+                  "text": "O biserică distinctivă situată lângă faleza Ouchy din Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.629773,
+                        46.511195
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "O biserică parohială catolică în cartierul Saint-Paul din Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.619043,
+                        46.527261
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Matthieu",
+                  "text": "O mică capelă creștină în orașul Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.617916,
+                        46.534493
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Luc",
+                  "text": "O clădire bisericească reformată în Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.629392,
+                        46.530616
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Rédempteur",
+                  "text": "O biserică catolică în inima orașului Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.642958,
+                        46.516675
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shoe Museum",
+                  "text": "A museum in Lausanne documenting the history and diversity of footwear.",
+                  "category": "museum",
+                  "coords": [
+                        6.634991,
+                        46.520488
+                  ]
+            },
+            {
+                  "name": "Musée Historique de Lausanne",
+                  "text": "The museum in the old episcopal palace highlights the rich history of the city of Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.634924,
+                        46.52222
+                  ]
+            },
+            {
+                  "name": "Collection de l’Art Brut",
+                  "text": "A world-renowned collection of works by self-taught artists from marginalized social groups.",
+                  "category": "museum",
+                  "coords": [
+                        6.624692,
+                        46.527316
+                  ]
+            },
+            {
+                  "name": "Musée de la Machine à Écrire",
+                  "text": "A unique museum in Lausanne showcasing a large collection of historical typewriters.",
+                  "category": "museum",
+                  "coords": [
+                        6.627645,
+                        46.523205
+                  ]
+            },
+            {
+                  "name": "SAPA Foundation",
+                  "text": "An institution dedicated to the preservation and research of the performing arts.",
+                  "category": "museum",
+                  "coords": [
+                        6.638321,
+                        46.518392
+                  ]
+            },
+            {
+                  "name": "MUDAC",
+                  "text": "The museum of design and contemporary applied arts in Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.623505,
+                        46.518554
+                  ]
+            },
+            {
+                  "name": "Musée romain de Lausanne-Vidy",
+                  "text": "The museum presents the excavations and life in the Roman settlement of Lousonna.",
+                  "category": "museum",
+                  "coords": [
+                        6.598673,
+                        46.518957
+                  ]
+            },
+            {
+                  "name": "Château d'Ouchy",
+                  "text": "A lakeside castle now used as a hotel and a landmark of the Ouchy district.",
+                  "category": "castle",
+                  "coords": [
+                        6.627481,
+                        46.506722
+                  ]
+            },
+            {
+                  "name": "The Olympic Museum",
+                  "text": "The only official museum in the world that comprehensively showcases the history of the Olympic Games.",
+                  "category": "museum",
+                  "coords": [
+                        6.634217,
+                        46.508674
+                  ]
+            },
+            {
+                  "name": "Fondation de l'Hermitage",
+                  "text": "An art museum in a beautiful villa, known for its high-quality temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        6.637253,
+                        46.528158
+                  ]
+            },
+            {
+                  "name": "Palais de Rumine",
+                  "text": "An impressive Neo-Renaissance style building housing several cantonal museums.",
+                  "category": "museum",
+                  "coords": [
+                        6.633869,
+                        46.523536
+                  ]
+            },
+            {
+                  "name": "Château Saint-Maire",
+                  "text": "A massive 14th-century castle, now the seat of the Vaud cantonal government.",
+                  "category": "castle",
+                  "coords": [
+                        6.635679,
+                        46.524778
+                  ]
+            },
+            {
+                  "name": "Musée Cantonal des Beaux-Arts",
+                  "text": "The cantonal art museum exhibits significant works from the Renaissance to the present.",
+                  "category": "museum",
+                  "coords": [
+                        6.625203,
+                        46.517944
+                  ]
+            },
+            {
+                  "name": "Roman Ruins of Lousonna",
+                  "text": "Archaeological remains of the ancient Roman settlement on the shores of Lake Geneva.",
+                  "category": "historical",
+                  "coords": [
+                        6.601068,
+                        46.516484
+                  ]
+            },
+            {
+                  "name": "Tour Haldimand",
+                  "text": "A neo-Gothic tower ruin right on the shores of Lake Geneva in Lausanne-Ouchy.",
+                  "category": "historical",
+                  "coords": [
+                        6.641524,
+                        46.505114
+                  ]
+            },
+            {
+                  "name": "Villa Eupalinos",
+                  "text": "An elegant manor in Lausanne, known for its architecture and location.",
+                  "category": "historical",
+                  "coords": [
+                        6.662301,
+                        46.52362
+                  ]
+            },
+            {
+                  "name": "Opéra de Lausanne",
+                  "text": "The renowned Lausanne Opera with a diverse program of musical theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        6.636967,
+                        46.518064
+                  ]
+            },
+            {
+                  "name": "Théâtre Vidy-Lausanne",
+                  "text": "A major theatre on the shores of Lake Geneva, known for contemporary productions.",
+                  "category": "cultural",
+                  "coords": [
+                        6.61082,
+                        46.512778
+                  ]
+            },
+            {
+                  "name": "Église Saint-François",
+                  "text": "A historical church in the city center that was formerly part of a Franciscan monastery.",
+                  "category": "religious",
+                  "coords": [
+                        6.633347,
+                        46.519668
+                  ]
+            },
+            {
+                  "name": "Église Saint-Laurent",
+                  "text": "A prominent church in the heart of Lausanne that helps shape the cityscape.",
+                  "category": "religious",
+                  "coords": [
+                        6.630869,
+                        46.522271
+                  ]
+            },
+            {
+                  "name": "Synagogue",
+                  "text": "An important religious building for the Jewish community in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.637723,
+                        46.516241
+                  ]
+            },
+            {
+                  "name": "Pont Chauderon",
+                  "text": "An impressive arch bridge spanning one of the valleys in Lausanne city center.",
+                  "category": "landmark",
+                  "coords": [
+                        6.62389,
+                        46.522262
+                  ]
+            },
+            {
+                  "name": "Grand-Pont",
+                  "text": "A central bridge in Lausanne connecting city districts on two different levels.",
+                  "category": "landmark",
+                  "coords": [
+                        6.631063,
+                        46.520773
+                  ]
+            },
+            {
+                  "name": "Parc de Milan",
+                  "text": "A popular park with a botanical garden and wide lawns for relaxing.",
+                  "category": "park",
+                  "coords": [
+                        6.622738,
+                        46.514206
+                  ]
+            },
+            {
+                  "name": "Promenade Jean-Jacques Mercier",
+                  "text": "A pleasant park in Lausanne, ideal for strolls in a green setting.",
+                  "category": "park",
+                  "coords": [
+                        6.646364,
+                        46.515394
+                  ]
+            },
+            {
+                  "name": "Sauvabelin tower",
+                  "text": "A tall wooden tower in the woods above Lausanne with panoramic views of the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        6.638539,
+                        46.535263
+                  ]
+            },
+            {
+                  "name": "Parc de Mon-Repos",
+                  "text": "A picturesque landscaped park with an orangery, a small waterfall, and aviaries.",
+                  "category": "park",
+                  "coords": [
+                        6.643057,
+                        46.519145
+                  ]
+            },
+            {
+                  "name": "Musée d'art de Pully",
+                  "text": "A museum in Pully near Lausanne dedicated to the visual arts.",
+                  "category": "museum",
+                  "coords": [
+                        6.660403,
+                        46.509034
+                  ]
+            },
+            {
+                  "name": "Fondation Claude Verdan - Musée de la Main",
+                  "text": "An interactive museum exploring scientific and medical topics related to humans.",
+                  "category": "museum",
+                  "coords": [
+                        6.640613,
+                        46.524987
+                  ]
+            },
+            {
+                  "name": "Château de Valency",
+                  "text": "A historical estate in Lausanne, today surrounded by a public park.",
+                  "category": "castle",
+                  "coords": [
+                        6.608896,
+                        46.529404
+                  ]
+            },
+            {
+                  "name": "Château de Béthusy",
+                  "text": "A stately building in Lausanne with a long history.",
+                  "category": "castle",
+                  "coords": [
+                        6.646052,
+                        46.523008
+                  ]
+            },
+            {
+                  "name": "Château de Vennes",
+                  "text": "A historic castle located in the city of Lausanne.",
+                  "category": "castle",
+                  "coords": [
+                        6.648734,
+                        46.538531
+                  ]
+            },
+            {
+                  "name": "Espace Arlaud",
+                  "text": "An important museum of art and history in Lausanne.",
+                  "category": "museum",
+                  "coords": [
+                        6.632167,
+                        46.522758
+                  ]
+            },
+            {
+                  "name": "Château de Vidy",
+                  "text": "A former castle in Lausanne, now used for administrative purposes.",
+                  "category": "castle",
+                  "coords": [
+                        6.596509,
+                        46.518468
+                  ]
+            },
+            {
+                  "name": "Château de Prilly",
+                  "text": "A historic castle building in the municipality of Prilly near Lausanne.",
+                  "category": "castle",
+                  "coords": [
+                        6.605122,
+                        46.535146
+                  ]
+            },
+            {
+                  "name": "Villa romaine de Pully",
+                  "text": "An archaeological site featuring the remains of a Roman villa in Pully.",
+                  "category": "historical",
+                  "coords": [
+                        6.662165,
+                        46.509489
+                  ]
+            },
+            {
+                  "name": "Hôtel de Ville",
+                  "text": "The historic town hall building of Lausanne.",
+                  "category": "historical",
+                  "coords": [
+                        6.632771,
+                        46.521766
+                  ]
+            },
+            {
+                  "name": "Lausanne Free Church",
+                  "text": "An independent Christian church in the city of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.620338,
+                        46.517256
+                  ]
+            },
+            {
+                  "name": "Christ Church Lausanne",
+                  "text": "An Anglican church serving the English-speaking community in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.630542,
+                        46.514316
+                  ]
+            },
+            {
+                  "name": "Église catholique de Saint Nicolas de Flüe",
+                  "text": "A Catholic church in Lausanne dedicated to Saint Nicholas of Flüe.",
+                  "category": "religious",
+                  "coords": [
+                        6.654263,
+                        46.523528
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame",
+                  "text": "A significant Catholic basilica in the centre of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.630846,
+                        46.523637
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "A religious place of worship in the city of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.609413,
+                        46.519831
+                  ]
+            },
+            {
+                  "name": "Temple de Sévelin",
+                  "text": "A Reformed church building in the Sévelin district of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.613801,
+                        46.521215
+                  ]
+            },
+            {
+                  "name": "Église de Saint-Jean-Cour",
+                  "text": "A local church in the Saint-Jean-Cour district of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.609251,
+                        46.517487
+                  ]
+            },
+            {
+                  "name": "Église de la Croix d’Ouchy",
+                  "text": "A distinctive church located near the Ouchy waterfront in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.629773,
+                        46.511195
+                  ]
+            },
+            {
+                  "name": "Église Saint-Paul",
+                  "text": "A Catholic parish church in the Saint-Paul district of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.619043,
+                        46.527261
+                  ]
+            },
+            {
+                  "name": "Chapelle Saint-Matthieu",
+                  "text": "A small Christian chapel in the city of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.617916,
+                        46.534493
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Luc",
+                  "text": "A Reformed church building in Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.629392,
+                        46.530616
+                  ]
+            },
+            {
+                  "name": "Église du Saint-Rédempteur",
+                  "text": "A Catholic church in the heart of Lausanne.",
+                  "category": "religious",
+                  "coords": [
+                        6.642958,
+                        46.516675
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [6.6323, 46.5197],
@@ -495,7 +7767,1816 @@ export const switzerlandRegions: POI[] = [
     },
   },
   {
-    id: "city-lucerne",
+    id: "city-lucerne", "sights": {
+      "de": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "Ein bedeutendes Kunstmuseum in Luzern, das sich im modernen KKL-Gebäude befindet.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "Ein monumentales Rundgemälde, das den Übertritt der französischen Bourbaki-Armee zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "Eine ehemalige Zivilschutzanlage im Autobahntunnel, die heute als Museum besichtigt werden kann.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Museum im Bellpark",
+                  "text": "Ein Museum für Fotografie und Kunst, untergebracht in einer historischen Villa in Kriens.",
+                  "category": "museum",
+                  "coords": [
+                        8.282842,
+                        47.034507
+                  ]
+            },
+            {
+                  "name": "Gletschergarten Luzern",
+                  "text": "Ein Naturdenkmal mit Gletschertöpfen aus der Eiszeit und einem Spiegellabyrinth.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Verkehrshaus der Schweiz",
+                  "text": "Das meistbesuchte Museum der Schweiz zeigt eine umfangreiche Sammlung zur Geschichte des Verkehrs und der Mobilität.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "Ein bekanntes Kleintheater in Luzern, das eine Bühne für Kabarett, Schauspiel und Musik bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Diese bedeutende mittelalterliche Bettelordenskirche ist für ihre gotische Architektur und reiche Ausstattung bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "Eine evangelisch-reformierte Kirche in Luzern, die als wichtiger Ort für Gottesdienste und Konzerte dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "Eine markante katholische Kirche in Luzern, die durch ihre moderne Architektur und sakrale Kunst besticht.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "Die prachtvolle Stiftskirche mit ihren markanten Doppeltürmen gilt als eines der wichtigsten Wahrzeichen von Luzern.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg",
+                  "text": "Diese Fussgängerbrücke über die Reuss verbindet die Altstadt mit dem Theaterplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "Der achteckige Turm ist Teil der berühmten Kapellbrücke und diente einst als Wachturm und Archiv.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "Eine weitläufige Parkanlage auf einem Hügel, die für ihre Ruhe und die Aussicht auf das Seebecken geschätzt wird.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "Einer der neun Türme der Museggmauer, der öffentlich zugänglich ist und eine grossartige Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Sammlung Rosengart",
+                  "text": "Dieses Kunstmuseum beherbergt eine bedeutende Sammlung von Werken Pablo Picassos und Paul Klees.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "Ein Museum in Luzern, das sich der lokalen Geschichte und kulturellen Themen der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "Das ehemalige Wohnhaus des Komponisten zeigt persönliche Gegenstände und Dokumente aus seinem Leben in Luzern.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "Ein historisches Anwesen in Luzern, das als Beispiel für die herrschaftliche Architektur der Region gilt.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "Ein schlossartiges Gebäude in Luzern, das durch seine malerische Lage und Architektur besticht.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "Das verbliebene Portal des alten Bahnhofs von Luzern steht heute als Denkmal auf dem Bahnhofplatz.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Galluskirche",
+                  "text": "Eine charmante Kirche in Luzern, die als Ort der Ruhe und des Gebets dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.279287,
+                        47.032868
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "Eine katholische Kirche in Luzern, die für ihre sakrale Atmosphäre und Gemeindearbeit bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "Die älteste Kirche der Stadt Luzern liegt direkt am Kapellplatz und ist ein bedeutender spiritueller Ort.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Eine markante Kirche in Luzern, die ein wichtiges Zentrum für das kirchliche Leben im Quartier darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "Kirche St. Maria",
+                  "text": "Diese Kirche ist ein Ort der Andacht und Teil der vielfältigen Kirchenlandschaft von Luzern.",
+                  "category": "religious",
+                  "coords": [
+                        8.28558,
+                        47.070905
+                  ]
+            },
+            {
+                  "name": "Kirche St. Philipp Neri",
+                  "text": "Eine sakrale Stätte in Luzern, die der Gemeinde für Gottesdienste und Besinnung offen steht.",
+                  "category": "religious",
+                  "coords": [
+                        8.282968,
+                        47.064739
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus",
+                  "text": "Eine moderne katholische Kirche in Luzern, die dem Schweizer Nationalheiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.290832,
+                        47.033358
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Eine der Kirchen in Luzern, die als wichtiger Treffpunkt für Gläubige und die lokale Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "Eine Quartierkirche in Luzern, die Raum für Gottesdienste und soziale Aktivitäten bietet.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Diese Kirche ist ein fester Bestandteil des religiösen Lebens in Luzern.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "Eine katholische Pfarrkirche in Luzern, die durch ihre Architektur und Gemeindeangebote überzeugt.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "Ein Begegnungszentrum und Kirchenraum in Luzern, der für Offenheit und Gemeinschaft steht.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "Eine kleine Kapelle in Luzern, die zur stillen Einkehr und zum Gebet einlädt.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "Eine markante evangelische Kirche in Luzern, bekannt für ihre moderne Gestaltung und gute Akustik.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Die erste grosse Barockkirche der Schweiz beeindruckt durch ihre prunkvolle Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "St. Johannes",
+                  "text": "Eine katholische Kirche in Luzern, die als Ort der Besinnung und des gottesdienstlichen Lebens dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.345125,
+                        47.055543
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "Ein Museum in Luzern, das mit grossen 3D-Dioramen die Welt der Alpen und Gletscher zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "Einer der historischen Türme der Museggmauer, der das Stadtbild von Luzern prägt.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "Ein markanter Wachturm der Museggmauer mit einem charakteristischen Spitzdach.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "Der westlichste Turm der Museggmauer steht direkt am Reussufer.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "Die wichtigste Strassenbrücke in Luzern verbindet den Bahnhofplatz mit der Schwanenplatz-Seite.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Ein historischer Turm am Seeufer, der einst zu einer privaten Parkanlage gehörte.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Eine ehemalige Begräbnisstätte, die heute als ruhiger Park und Ort des Gedenkens genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "Ein interaktives Museum in Luzern, das die Geschichte der Gesellschafts- und Videospiele erlebbar macht.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "Eine multimediale Erlebniswelt im Verkehrshaus, die den Weg der Kakaobohne bis zur Schweizer Schokolade zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Haus der Instrumente",
+                  "text": "Ein Museum in Luzern, das eine vielfältige Sammlung historischer Musikinstrumente präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.296624,
+                        47.030849
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "Dieses Museum zeigt eine liebevoll kuratierte Sammlung von historischen Puppenhäusern und Spielzeug.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "Eine Galerie für moderne Kunst in Luzern, die lokalen und internationalen Künstlern eine Plattform bietet.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "Ein historisches Gebäude in Luzern, das heute als Raum für Kunst und kulturelle Veranstaltungen genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "Jelentős művészeti múzeum Luzernben, amely a modern KKL épületében található.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "Monumentális körkép, amely a francia Bourbaki-hadsereg átlépését ábrázolja.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "Egykori polgári védelmi létesítmény az autópálya-alagútban, amely ma múzeumként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Museum im Bellpark",
+                  "text": "Fotográfiai és művészeti múzeum egy történelmi villában, Kriens-ben.",
+                  "category": "museum",
+                  "coords": [
+                        8.282842,
+                        47.034507
+                  ]
+            },
+            {
+                  "name": "Gletschergarten Luzern",
+                  "text": "Természeti emlékhely jégkorszaki gleccserüstökkel és egy tükörlabirintussal.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Verkehrshaus der Schweiz",
+                  "text": "Svájc leglátogatottabb múzeuma, amely a közlekedés és a mobilitás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "Luzern ismert kísérleti színháza, amely kabarénak, drámának és zenének ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Ez a jelentős középkori koldulórendi templom gótikus építészetéről és gazdag díszítéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "Evangélikus-református templom Luzernben, amely istentiszteletek és koncertek fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "Jellegzetes katolikus templom Luzernben, amely modern építészetével és szakrális művészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "A jellegzetes ikertornyaival rendelkező pompás apátsági templom Luzern egyik legfontosabb jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg",
+                  "text": "Ez a Reuss folyón átívelő gyalogoshíd köti össze az óvárost a Theaterplatz-cal.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "A nyolcszögletű torony a híres Kapellbrücke része, egykor őrtoronyként és archívumként szolgált.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "Egy dombtetőn fekvő tágas park, amelyet nyugalmáért és a tóra nyíló kilátásáért kedvelnek.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "A Museggmauer kilenc tornyának egyike, amely látogatható és nagyszerű kilátást kínál.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Sammlung Rosengart",
+                  "text": "Ez a művészeti múzeum Pablo Picasso és Paul Klee műveinek jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "Luzerni múzeum, amely a régió helytörténetének és kulturális témáinak szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "A zeneszerző egykori lakóháza, amely luzerni életének személyes tárgyait és dokumentumait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "Történelmi birtok Luzernben, amely a régió nemesi építészetének egyik példája.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "Kastélyszerű épület Luzernben, amely festői elhelyezkedésével és építészetével tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "Luzern régi pályaudvarának megmaradt kapuja, amely ma emlékműként áll a pályaudvar előtti téren.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Galluskirche",
+                  "text": "Bájos templom Luzernben, amely a nyugalom és az imádság helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.279287,
+                        47.032868
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "Katolikus templom Luzernben, amely szakrális atmoszférájáról és közösségi munkájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "Luzern város legidősebb temploma a Kapellplatz-on található, és jelentős spirituális helyszín.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Jellegzetes templom Luzernben, amely a negyed egyházi életének fontos központja.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "Kirche St. Maria",
+                  "text": "Ez a templom az áhítat helyszíne, és része Luzern változatos templomi tájképének.",
+                  "category": "religious",
+                  "coords": [
+                        8.28558,
+                        47.070905
+                  ]
+            },
+            {
+                  "name": "Kirche St. Philipp Neri",
+                  "text": "Szakrális helyszín Luzernben, amely nyitva áll a közösség előtt istentiszteletekre és elmélyülésre.",
+                  "category": "religious",
+                  "coords": [
+                        8.282968,
+                        47.064739
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus",
+                  "text": "Modern katolikus templom Luzernben, amelyet Svájc nemzeti szentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.290832,
+                        47.033358
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Luzern egyik temploma, amely a hívők és a helyi közösség fontos találkozóhelye.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "Negyedi templom Luzernben, amely istentiszteleteknek és szociális tevékenységeknek ad helyet.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Ez a templom szerves része Luzern vallási életének.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "Katolikus plébániatemplom Luzernben, amely építészetével és közösségi kínálatával tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "Találkozóhely és templomtér Luzernben, amely a nyitottságot és a közösséget képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "Kicsiny kápolna Luzernben, amely csendes elmélyülésre és imádságra hív.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "Jellegzetes evangélikus templom Luzernben, amely modern kialakításáról és jó akusztikájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Svájc első nagy barokk temploma, amely pompás belső díszítésével nyűgözi le a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "St. Johannes",
+                  "text": "Katolikus templom Luzernben, amely az elmélyülés és a hitélet helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        8.345125,
+                        47.055543
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "Luzerni múzeum, amely nagy 3D-diorámákkal mutatja be az Alpok és a gleccserek világát.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "A Museggmauer egyik történelmi tornya, amely meghatározza Luzern városképét.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "A Museggmauer egyik jellegzetes őrtornya, karakteres csúcsos tetővel.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "A Museggmauer legnyugatibb tornya, amely közvetlenül a Reuss partján áll.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "Luzern legfontosabb közúti hídja, amely a pályaudvart köti össze a Schwanenplatz oldalával.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Történelmi torony a tóparton, amely egykor egy magánparkhoz tartozott.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Egykori temetkezési hely, amelyet ma csendes parkként és emlékhelyként használnak.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "Interaktív múzeum Luzernben, amely a társas- és videojátékok történetét teszi átélhetővé.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "Multimédiás élményvilág a Közlekedési Múzeumban, amely a kakaóbab útját mutatja be a svájci csokoládéig.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Haus der Instrumente",
+                  "text": "Luzerni múzeum, amely történelmi hangszerek változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.296624,
+                        47.030849
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "Ez a múzeum történelmi babaházak és játékok gondosan válogatott gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "Modern művészeti galéria Luzernben, amely helyi és nemzetközi művészeknek kínál platformot.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "Történelmi épület Luzernben, amelyet ma művészeti és kulturális rendezvények helyszíneként használnak.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "Un muzeu de artă important din Lucerna, situat în clădirea modernă KKL.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "O pictură circulară monumentală care înfățișează trecerea armatei franceze Bourbaki.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "O fostă instalație de protecție civilă din tunelul autostrăzii, care poate fi vizitată astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Museum im Bellpark",
+                  "text": "Un muzeu de fotografie și artă, găzduit într-o vilă istorică din Kriens.",
+                  "category": "museum",
+                  "coords": [
+                        8.282842,
+                        47.034507
+                  ]
+            },
+            {
+                  "name": "Gletschergarten Luzern",
+                  "text": "Un monument natural cu marmite glaciare din epoca de gheață și un labirint de oglinzi.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Verkehrshaus der Schweiz",
+                  "text": "Cel mai vizitat muzeu din Elveția prezintă o colecție vastă despre istoria transportului și a mobilității.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "Un teatru mic și renumit din Lucerna, care oferă o scenă pentru cabaret, teatru și muzică.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Această importantă biserică medievală a unui ordin mendicant este cunoscută pentru arhitectura sa gotică.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "O biserică evanghelică-reformată din Lucerna, care servește ca loc important pentru slujbe și concerte.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "O biserică catolică marcantă din Lucerna, care impresionează prin arhitectura sa modernă și arta sacră.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "Splendida biserică colegială cu turnurile sale gemene este considerată unul dintre cele mai importante simboluri din Lucerna.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg",
+                  "text": "Acest pod pietonal peste râul Reuss face legătura între orașul vechi și Theaterplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "Turnul octogonal face parte din celebrul pod Kapellbrücke și a servit odinioară ca turn de veghe și arhivă.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "Un parc vast situat pe o colină, apreciat pentru liniștea sa și vederea spre bazinul lacului.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "Unul dintre cele nouă turnuri ale zidului Musegg, care este deschis publicului și oferă o vedere spectaculoasă.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Sammlung Rosengart",
+                  "text": "Acest muzeu de artă găzduiește o colecție importantă de lucrări semnate de Pablo Picasso și Paul Klee.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "Un muzeu din Lucerna dedicat istoriei locale și temelor culturale ale regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "Fosta reședință a compozitorului expune obiecte personale și documente din viața sa petrecută în Lucerna.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "O proprietate istorică din Lucerna, considerată un exemplu al arhitecturii nobiliare din regiune.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "O clădire asemănătoare unui castel din Lucerna, care impresionează prin locația și arhitectura sa pitorească.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "Portalul rămas al vechii gări din Lucerna, care stă astăzi ca monument în piața gării.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Galluskirche",
+                  "text": "O biserică fermecătoare din Lucerna, care servește ca loc de liniște și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        8.279287,
+                        47.032868
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "O biserică catolică din Lucerna, cunoscută pentru atmosfera sa sacră și activitatea comunitară.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "Cea mai veche biserică din orașul Lucerna, situată direct în Kapellplatz, este un loc spiritual important.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "O biserică marcantă din Lucerna, care reprezintă un centru important pentru viața bisericească din cartier.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "Kirche St. Maria",
+                  "text": "Această biserică este un loc de rugăciune și face parte din peisajul ecleziastic divers al Lucernei.",
+                  "category": "religious",
+                  "coords": [
+                        8.28558,
+                        47.070905
+                  ]
+            },
+            {
+                  "name": "Kirche St. Philipp Neri",
+                  "text": "Un lăcaș de cult din Lucerna, deschis comunității pentru slujbe și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        8.282968,
+                        47.064739
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus",
+                  "text": "O biserică catolică modernă din Lucerna, dedicată sfântului național al Elveției.",
+                  "category": "religious",
+                  "coords": [
+                        8.290832,
+                        47.033358
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "Una dintre bisericile din Lucerna, care servește ca loc important de întâlnire pentru credincioși și comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "O biserică de cartier din Lucerna, care oferă spațiu pentru slujbe și activități sociale.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "Această biserică este o parte integrantă a vieții religioase din Lucerna.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "O biserică parohială catolică din Lucerna, care se remarcă prin arhitectura sa și serviciile comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "Un centru de întâlnire și spațiu bisericesc din Lucerna, care simbolizează deschiderea și comunitatea.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "O mică capelă din Lucerna, care invită la reculegere și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "O biserică evanghelică marcantă din Lucerna, cunoscută pentru designul său modern și acustica bună.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "Prima mare biserică barocă din Elveția impresionează prin decorul său interior somptuos.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "St. Johannes",
+                  "text": "O biserică catolică din Lucerna, care servește ca loc de reflecție și viață religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        8.345125,
+                        47.055543
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "Un muzeu din Lucerna care prezintă lumea Alpilor și a ghețarilor prin diorame 3D mari.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "Unul dintre turnurile istorice ale zidului Musegg, care definește peisajul urban al Lucernei.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "Un turn de veghe marcant al zidului Musegg, cu un acoperiș ascuțit caracteristic.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "Cel mai vestic turn al zidului Musegg, situat direct pe malul râului Reuss.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "Cel mai important pod rutier din Lucerna, care face legătura între piața gării și zona Schwanenplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "Un turn istoric de pe malul lacului, care a aparținut odinioară unui parc privat.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "Un fost cimitir, utilizat astăzi ca parc liniștit și loc de comemorare.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "Un muzeu interactiv din Lucerna care face accesibilă istoria jocurilor de societate și video.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "O lume multimedia la Muzeul Transporturilor, care prezintă drumul bobului de cacao până la ciocolata elvețiană.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Haus der Instrumente",
+                  "text": "Un muzeu din Lucerna care prezintă o colecție diversă de instrumente muzicale istorice.",
+                  "category": "museum",
+                  "coords": [
+                        8.296624,
+                        47.030849
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "Acest muzeu expune o colecție curatoriată cu drag de căsuțe de păpuși istorice și jucării.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "O galerie de artă modernă din Lucerna care oferă o platformă artiștilor locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "O clădire istorică din Lucerna, utilizată astăzi ca spațiu pentru artă și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunstmuseum Luzern",
+                  "text": "A major art museum in Lucerne located in the modern KKL building.",
+                  "category": "museum",
+                  "coords": [
+                        8.311666,
+                        47.050437
+                  ]
+            },
+            {
+                  "name": "Bourbaki Panorama",
+                  "text": "A monumental circular painting depicting the crossing of the French Bourbaki army.",
+                  "category": "museum",
+                  "coords": [
+                        8.311226,
+                        47.056958
+                  ]
+            },
+            {
+                  "name": "Zivilschutzanlage Sonnenberg",
+                  "text": "A former civil defense facility in the motorway tunnel, now open to the public as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        8.296638,
+                        47.046464
+                  ]
+            },
+            {
+                  "name": "Museum im Bellpark",
+                  "text": "A museum for photography and art housed in a historic villa in Kriens.",
+                  "category": "museum",
+                  "coords": [
+                        8.282842,
+                        47.034507
+                  ]
+            },
+            {
+                  "name": "Glacier garden",
+                  "text": "A natural monument featuring ice age glacial potholes and a mirror labyrinth.",
+                  "category": "museum",
+                  "coords": [
+                        8.310689,
+                        47.058856
+                  ]
+            },
+            {
+                  "name": "Swiss Museum of Transport",
+                  "text": "Switzerland's most visited museum features an extensive collection dedicated to the history of transport and mobility.",
+                  "category": "museum",
+                  "coords": [
+                        8.336482,
+                        47.052794
+                  ]
+            },
+            {
+                  "name": "Kleintheater",
+                  "text": "A well-known intimate theatre in Lucerne providing a stage for cabaret, drama, and music.",
+                  "category": "cultural",
+                  "coords": [
+                        8.308516,
+                        47.046009
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "This significant medieval mendicant church is known for its Gothic architecture and rich interior.",
+                  "category": "religious",
+                  "coords": [
+                        8.303472,
+                        47.049666
+                  ]
+            },
+            {
+                  "name": "Matthäuskirche",
+                  "text": "An Evangelical Reformed church in Lucerne that serves as an important venue for worship and concerts.",
+                  "category": "religious",
+                  "coords": [
+                        8.309313,
+                        47.054405
+                  ]
+            },
+            {
+                  "name": "Kirche St. Karl",
+                  "text": "A striking Catholic church in Lucerne, notable for its modern architecture and sacred art.",
+                  "category": "religious",
+                  "coords": [
+                        8.292434,
+                        47.055661
+                  ]
+            },
+            {
+                  "name": "St. Leodegar im Hof (Hofkirche)",
+                  "text": "The magnificent collegiate church with its iconic twin towers is one of Lucerne's most important landmarks.",
+                  "category": "religious",
+                  "coords": [
+                        8.314081,
+                        47.055601
+                  ]
+            },
+            {
+                  "name": "Rathaussteg Bridge",
+                  "text": "This pedestrian bridge over the Reuss river connects the old town with the Theaterplatz.",
+                  "category": "landmark",
+                  "coords": [
+                        8.306038,
+                        47.051297
+                  ]
+            },
+            {
+                  "name": "Wasserturm",
+                  "text": "The octagonal tower is part of the famous Chapel Bridge and once served as a watchtower and archive.",
+                  "category": "tower",
+                  "coords": [
+                        8.307294,
+                        47.051268
+                  ]
+            },
+            {
+                  "name": "Dreilindenpark",
+                  "text": "A spacious hillside park appreciated for its tranquility and views over the lake basin.",
+                  "category": "park",
+                  "coords": [
+                        8.321661,
+                        47.061341
+                  ]
+            },
+            {
+                  "name": "Männliturm",
+                  "text": "One of the nine towers of the Musegg Wall that is open to the public and offers a great viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        8.300824,
+                        47.053501
+                  ]
+            },
+            {
+                  "name": "Rosengart Collection",
+                  "text": "This art museum houses a significant collection of works by Pablo Picasso and Paul Klee.",
+                  "category": "museum",
+                  "coords": [
+                        8.307317,
+                        47.049685
+                  ]
+            },
+            {
+                  "name": "Museum Luzern",
+                  "text": "A museum in Lucerne dedicated to the local history and cultural themes of the region.",
+                  "category": "museum",
+                  "coords": [
+                        8.300968,
+                        47.051713
+                  ]
+            },
+            {
+                  "name": "Richard Wagner Museum",
+                  "text": "The composer's former residence displays personal items and documents from his life in Lucerne.",
+                  "category": "museum",
+                  "coords": [
+                        8.329041,
+                        47.042389
+                  ]
+            },
+            {
+                  "name": "Landsitz Hünenberg",
+                  "text": "A historic estate in Lucerne serving as an example of the region's stately architecture.",
+                  "category": "castle",
+                  "coords": [
+                        8.318211,
+                        47.067311
+                  ]
+            },
+            {
+                  "name": "Schlössli Schönegg",
+                  "text": "A castle-like building in Lucerne, notable for its picturesque location and architecture.",
+                  "category": "castle",
+                  "coords": [
+                        8.297247,
+                        47.050609
+                  ]
+            },
+            {
+                  "name": "Altes Bahnhofstor",
+                  "text": "The remaining portal of Lucerne's old railway station, now standing as a monument on the station square.",
+                  "category": "historical",
+                  "coords": [
+                        8.310208,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Galluskirche",
+                  "text": "A charming church in Lucerne that serves as a place of peace and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        8.279287,
+                        47.032868
+                  ]
+            },
+            {
+                  "name": "Mariahilfkirche",
+                  "text": "A Catholic church in Lucerne known for its sacred atmosphere and community work.",
+                  "category": "religious",
+                  "coords": [
+                        8.306415,
+                        47.054406
+                  ]
+            },
+            {
+                  "name": "Peterskapelle",
+                  "text": "The oldest church in the city of Lucerne, located on Kapellplatz, is a significant spiritual site.",
+                  "category": "religious",
+                  "coords": [
+                        8.307932,
+                        47.052524
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "A striking church in Lucerne that serves as an important center for religious life in the neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        8.303106,
+                        47.042004
+                  ]
+            },
+            {
+                  "name": "Kirche St. Maria",
+                  "text": "This church is a place of worship and part of the diverse religious landscape of Lucerne.",
+                  "category": "religious",
+                  "coords": [
+                        8.28558,
+                        47.070905
+                  ]
+            },
+            {
+                  "name": "Kirche St. Philipp Neri",
+                  "text": "A sacred site in Lucerne open to the community for worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        8.282968,
+                        47.064739
+                  ]
+            },
+            {
+                  "name": "Bruder Klaus",
+                  "text": "A modern Catholic church in Lucerne dedicated to the Swiss national saint.",
+                  "category": "religious",
+                  "coords": [
+                        8.290832,
+                        47.033358
+                  ]
+            },
+            {
+                  "name": "St. Michael",
+                  "text": "One of the churches in Lucerne serving as an important meeting point for believers and the local community.",
+                  "category": "religious",
+                  "coords": [
+                        8.312021,
+                        47.037714
+                  ]
+            },
+            {
+                  "name": "Kirche Weinbergli",
+                  "text": "A neighborhood church in Lucerne providing space for worship and social activities.",
+                  "category": "religious",
+                  "coords": [
+                        8.31823,
+                        47.038682
+                  ]
+            },
+            {
+                  "name": "Markuskirche",
+                  "text": "This church is an integral part of the religious life in Lucerne.",
+                  "category": "religious",
+                  "coords": [
+                        8.316507,
+                        47.055275
+                  ]
+            },
+            {
+                  "name": "Kirche St. Anton",
+                  "text": "A Catholic parish church in Lucerne notable for its architecture and community services.",
+                  "category": "religious",
+                  "coords": [
+                        8.323278,
+                        47.039863
+                  ]
+            },
+            {
+                  "name": "Der MaiHof",
+                  "text": "A meeting center and church space in Lucerne representing openness and community.",
+                  "category": "religious",
+                  "coords": [
+                        8.308857,
+                        47.063419
+                  ]
+            },
+            {
+                  "name": "Karl-Borromäus-Kapelle",
+                  "text": "A small chapel in Lucerne inviting quiet reflection and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        8.293574,
+                        47.056082
+                  ]
+            },
+            {
+                  "name": "Lukaskirche",
+                  "text": "A striking Evangelical church in Lucerne, known for its modern design and excellent acoustics.",
+                  "category": "religious",
+                  "coords": [
+                        8.30875,
+                        47.048054
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche",
+                  "text": "The first large Baroque church in Switzerland, impressive for its magnificent interior decoration.",
+                  "category": "religious",
+                  "coords": [
+                        8.305126,
+                        47.050441
+                  ]
+            },
+            {
+                  "name": "St. Johannes",
+                  "text": "A Catholic church in Lucerne serving as a place for reflection and liturgical life.",
+                  "category": "religious",
+                  "coords": [
+                        8.345125,
+                        47.055543
+                  ]
+            },
+            {
+                  "name": "Alpineum museum",
+                  "text": "A museum in Lucerne displaying the world of the Alps and glaciers through large 3D dioramas.",
+                  "category": "landmark",
+                  "coords": [
+                        8.310419,
+                        47.057918
+                  ]
+            },
+            {
+                  "name": "Allenwindenturm",
+                  "text": "One of the historic towers of the Musegg Wall that characterizes the cityscape of Lucerne.",
+                  "category": "tower",
+                  "coords": [
+                        8.307441,
+                        47.055194
+                  ]
+            },
+            {
+                  "name": "Luegislandturm",
+                  "text": "A striking watchtower of the Musegg Wall with a characteristic pointed roof.",
+                  "category": "tower",
+                  "coords": [
+                        8.302149,
+                        47.053859
+                  ]
+            },
+            {
+                  "name": "Nölliturm",
+                  "text": "The westernmost tower of the Musegg Wall, situated directly on the banks of the Reuss river.",
+                  "category": "tower",
+                  "coords": [
+                        8.299541,
+                        47.053216
+                  ]
+            },
+            {
+                  "name": "Seebrücke Luzern",
+                  "text": "The main road bridge in Lucerne connecting the railway station square with the Schwanenplatz area.",
+                  "category": "landmark",
+                  "coords": [
+                        8.309062,
+                        47.052065
+                  ]
+            },
+            {
+                  "name": "Seeburgturm",
+                  "text": "A historic tower on the lakeside that once belonged to a private park.",
+                  "category": "tower",
+                  "coords": [
+                        8.343189,
+                        47.050534
+                  ]
+            },
+            {
+                  "name": "Alter Friedhof",
+                  "text": "A former burial ground now used as a quiet park and place of remembrance.",
+                  "category": "park",
+                  "coords": [
+                        8.315734,
+                        47.056936
+                  ]
+            },
+            {
+                  "name": "Gameorama",
+                  "text": "An interactive museum in Lucerne where the history of board and video games can be experienced.",
+                  "category": "museum",
+                  "coords": [
+                        8.301024,
+                        47.050745
+                  ]
+            },
+            {
+                  "name": "Swiss Chocolate Adventure",
+                  "text": "A multimedia experience at the Museum of Transport showing the journey of the cocoa bean to Swiss chocolate.",
+                  "category": "museum",
+                  "coords": [
+                        8.335192,
+                        47.053405
+                  ]
+            },
+            {
+                  "name": "Haus der Instrumente",
+                  "text": "A museum in Lucerne presenting a diverse collection of historic musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        8.296624,
+                        47.030849
+                  ]
+            },
+            {
+                  "name": "Puppenhausmuseum Luzern",
+                  "text": "This museum displays a lovingly curated collection of historic dollhouses and toys.",
+                  "category": "museum",
+                  "coords": [
+                        8.327893,
+                        47.055759
+                  ]
+            },
+            {
+                  "name": "simgalerie",
+                  "text": "A gallery for modern art in Lucerne providing a platform for local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        8.312404,
+                        47.043439
+                  ]
+            },
+            {
+                  "name": "Elephanthaus",
+                  "text": "A historic building in Lucerne now used as a space for art and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        8.308782,
+                        47.043989
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.3093, 47.0502],
@@ -636,7 +9717,1636 @@ export const switzerlandRegions: POI[] = [
 
 export const switzerlandCities: POI[] = [
   {
-    id: "city-winterthur",
+    id: "city-winterthur", "sights": {
+      "de": [
+            {
+                  "name": "Uhrensammlung Kellenberger",
+                  "text": "Dieses Museum in Winterthur zeigt eine bedeutende Sammlung von Uhren und Zeitmessinstrumenten.",
+                  "category": "museum",
+                  "coords": [
+                        8.729538,
+                        47.499069
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Beim Stadthaus",
+                  "text": "Ein bedeutendes Kunstmuseum beim Stadthaus, das Werke vom 17. Jahrhundert bis zur Gegenwart zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.730391,
+                        47.501615
+                  ]
+            },
+            {
+                  "name": "Kastell Vitudurum",
+                  "text": "Die Überreste eines römischen Kastells, das den Ursprung der Stadt Winterthur markiert.",
+                  "category": "castle",
+                  "coords": [
+                        8.755546,
+                        47.506724
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Reinhart am Stadtgarten",
+                  "text": "Ein Teil des Kunst Museums Winterthur, der bedeutende Werke des Impressionismus beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        8.729004,
+                        47.500487
+                  ]
+            },
+            {
+                  "name": "Technorama",
+                  "text": "Das Swiss Science Center Technorama bietet interaktive Experimentstationen zu Naturwissenschaft und Technik.",
+                  "category": "museum",
+                  "coords": [
+                        8.764578,
+                        47.514009
+                  ]
+            },
+            {
+                  "name": "Schloss Wülflingen",
+                  "text": "Ein historisches Schloss in Winterthur, das heute ein Restaurant und Veranstaltungsräume beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        8.699388,
+                        47.511289
+                  ]
+            },
+            {
+                  "name": "Sammlung Oskar Reinhart Am Römerholz",
+                  "text": "Eine weltberühmte Kunstsammlung in einer herrschaftlichen Villa am Stadtrand von Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.731635,
+                        47.511386
+                  ]
+            },
+            {
+                  "name": "Casinotheater",
+                  "text": "Ein bekanntes Comedy-Haus und Theater im Herzen der Altstadt von Winterthur.",
+                  "category": "cultural",
+                  "coords": [
+                        8.72662,
+                        47.499716
+                  ]
+            },
+            {
+                  "name": "Kirche Herz Jesu",
+                  "text": "Eine römisch-katholische Kirche im Stadtteil Mattenbach in Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.735883,
+                        47.491264
+                  ]
+            },
+            {
+                  "name": "Ref. Kirche Töss",
+                  "text": "Die reformierte Kirche im Winterthurer Stadtkreis Töss.",
+                  "category": "religious",
+                  "coords": [
+                        8.708478,
+                        47.490651
+                  ]
+            },
+            {
+                  "name": "Kirche St. Marien",
+                  "text": "Eine katholische Kirche in Oberwinterthur, die der Jungfrau Maria geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.749895,
+                        47.503565
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Das historische Rathaus von Winterthur ist ein bedeutendes Baudenkmal in der Altstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729943,
+                        47.499999
+                  ]
+            },
+            {
+                  "name": "Chöpfi",
+                  "text": "Ein bekannter Aussichtspunkt in Winterthur, der einen weiten Blick über die Stadt bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.700287,
+                        47.516613
+                  ]
+            },
+            {
+                  "name": "Eschenbergturm",
+                  "text": "Ein hölzerner Aussichtsturm auf dem Eschenberg, der eine Rundumsicht auf die Alpen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.734891,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Schweiz",
+                  "text": "Ein Zentrum für Fotografie, das das fotografische Erbe der Schweiz bewahrt und ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.73842,
+                        47.495765
+                  ]
+            },
+            {
+                  "name": "Dampfzentrum",
+                  "text": "Ein Technikmuseum in Winterthur, das die industrielle Geschichte der Dampfmaschinen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.717587,
+                        47.4937
+                  ]
+            },
+            {
+                  "name": "Münzkabinett",
+                  "text": "Ein Museum, das eine bedeutende Sammlung historischer Münzen und Medaillen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        8.731009,
+                        47.502988
+                  ]
+            },
+            {
+                  "name": "Museum Lindengut",
+                  "text": "Ein Museum in einer historischen Villa, das die Wohnkultur und Geschichte Winterthurs zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.734982,
+                        47.500154
+                  ]
+            },
+            {
+                  "name": "Villa Flora",
+                  "text": "Ein Kunstmuseum, das in einer ehemaligen Sammlervilla Werke der französischen Moderne zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.735275,
+                        47.496448
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Das repräsentative Verwaltungsgebäude der Stadt Winterthur, entworfen von Gottfried Semper.",
+                  "category": "historical",
+                  "coords": [
+                        8.731398,
+                        47.500994
+                  ]
+            },
+            {
+                  "name": "Theater Winterthur",
+                  "text": "Das größte Gastspieltheater der Schweiz mit einem breiten Angebot an Opern, Balletten und Schauspielen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.727857,
+                        47.50207
+                  ]
+            },
+            {
+                  "name": "Theater am Gleis",
+                  "text": "Ein Kleintheater in Bahnhofsnähe, das für zeitgenössische Produktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        8.723381,
+                        47.498402
+                  ]
+            },
+            {
+                  "name": "Theater Kanton Zürich",
+                  "text": "Das kantonale Theater, das Produktionen im gesamten Kanton Zürich und in Winterthur zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        8.750932,
+                        47.495821
+                  ]
+            },
+            {
+                  "name": "Kirche St. Peter und Paul",
+                  "text": "Die erste katholische Kirche, die nach der Reformation in Winterthur erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        8.7198,
+                        47.501274
+                  ]
+            },
+            {
+                  "name": "Kirche Wülflingen",
+                  "text": "Die evangelisch-reformierte Kirche des Stadtkreises Wülflingen.",
+                  "category": "religious",
+                  "coords": [
+                        8.694773,
+                        47.511158
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Veltheim",
+                  "text": "Eine historische Kirche im ehemaligen Dorf Veltheim, das heute zu Winterthur gehört.",
+                  "category": "religious",
+                  "coords": [
+                        8.716854,
+                        47.509777
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "Eine nach dem Reformator Huldrych Zwingli benannte Kirche in Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.740524,
+                        47.493067
+                  ]
+            },
+            {
+                  "name": "Kirche St. Josef",
+                  "text": "Eine katholische Kirche in Winterthur, die dem Heiligen Josef geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.70255,
+                        47.492738
+                  ]
+            },
+            {
+                  "name": "Kirche St. Laurentius",
+                  "text": "Die katholische Pfarrkirche des Stadtteils Wülflingen.",
+                  "category": "religious",
+                  "coords": [
+                        8.702413,
+                        47.509586
+                  ]
+            },
+            {
+                  "name": "Kirche St. Ulrich",
+                  "text": "Eine christliche Gebetsstätte in Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.719975,
+                        47.517456
+                  ]
+            },
+            {
+                  "name": "Kirche St. Urban",
+                  "text": "Eine nach dem Heiligen Urban benannte Kirche in der Stadt Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.759104,
+                        47.487609
+                  ]
+            },
+            {
+                  "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+                  "text": "Ein Gemeindehaus der Kirche Jesu Christi der Heiligen der Letzten Tage in Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.75596,
+                        47.486826
+                  ]
+            },
+            {
+                  "name": "Lindberg",
+                  "text": "Ein markanter Hügel im Norden von Winterthur, der zum Wandern und Entspannen einlädt.",
+                  "category": "natural",
+                  "coords": [
+                        8.746961,
+                        47.513111
+                  ]
+            },
+            {
+                  "name": "Brühlgutpark",
+                  "text": "Ein moderner Stadtpark auf einem ehemaligen Industrieareal in Winterthur.",
+                  "category": "park",
+                  "coords": [
+                        8.713901,
+                        47.496722
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "Ein wunderschöner Park oberhalb der Altstadt mit einer großen Vielfalt an Rosen und Panoramablick.",
+                  "category": "park",
+                  "coords": [
+                        8.72539,
+                        47.496144
+                  ]
+            },
+            {
+                  "name": "Eulachpark",
+                  "text": "Ein weitläufiger Stadtpark im Stadtteil Oberwinterthur mit Spiel- und Erholungsflächen.",
+                  "category": "park",
+                  "coords": [
+                        8.763325,
+                        47.505082
+                  ]
+            },
+            {
+                  "name": "Römerpark",
+                  "text": "Eine Grünanlage in Winterthur, die nach ihrer Nähe zu römischen Fundstätten benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        8.740325,
+                        47.49902
+                  ]
+            },
+            {
+                  "name": "Allmend Grüzefeld",
+                  "text": "Eine große öffentliche Grünfläche in Winterthur, die für Freizeit und Sport genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        8.75788,
+                        47.490355
+                  ]
+            },
+            {
+                  "name": "Brühlbergturm",
+                  "text": "Ein Aussichtsturm auf dem Brühlberg, der eine gute Sicht über Winterthur bietet.",
+                  "category": "natural",
+                  "coords": [
+                        8.702474,
+                        47.501935
+                  ]
+            },
+            {
+                  "name": "Wildpark Bruderhaus",
+                  "text": "Ein beliebtes Ausflugsziel mit einheimischen Wildtieren in weitläufigen Gehegen.",
+                  "category": "recreational",
+                  "coords": [
+                        8.72589,
+                        47.477185
+                  ]
+            },
+            {
+                  "name": "Museum Schaffen",
+                  "text": "Ein Museum, das sich mit der Arbeitswelt und der Industriegeschichte von Winterthur befasst.",
+                  "category": "museum",
+                  "coords": [
+                        8.718655,
+                        47.495249
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Villa Sträuli",
+                  "text": "Ein Kulturhaus, das Künstlern Raum zum Arbeiten und Ausstellen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        8.728876,
+                        47.501662
+                  ]
+            },
+            {
+                  "name": "Kunstraum Winterhur",
+                  "text": "Eine Galerie für zeitgenössische Kunst im Zentrum von Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.72151,
+                        47.500999
+                  ]
+            },
+            {
+                  "name": "Bowen Art",
+                  "text": "Eine Kunstgalerie in Winterthur, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.7565,
+                        47.508168
+                  ]
+            },
+            {
+                  "name": "Salon Erika",
+                  "text": "Eine Galerie in Winterthur, die Raum für künstlerische Ausdrucksformen bietet.",
+                  "category": "museum",
+                  "coords": [
+                        8.718338,
+                        47.501175
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Uhrensammlung Kellenberger",
+                  "text": "Ez a winterthuri múzeum órák és időmérő eszközök jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.729538,
+                        47.499069
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Beim Stadthaus",
+                  "text": "Jelentős művészeti múzeum a városháza mellett, amely a 17. századtól napjainkig mutat be műveket.",
+                  "category": "museum",
+                  "coords": [
+                        8.730391,
+                        47.501615
+                  ]
+            },
+            {
+                  "name": "Kastell Vitudurum",
+                  "text": "Egy római castrum maradványai, amely Winterthur városának eredetét jelzi.",
+                  "category": "castle",
+                  "coords": [
+                        8.755546,
+                        47.506724
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Reinhart am Stadtgarten",
+                  "text": "A winterthuri művészeti múzeum része, amely jelentős impresszionista műveknek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.729004,
+                        47.500487
+                  ]
+            },
+            {
+                  "name": "Technorama",
+                  "text": "A Technorama interaktív kísérleti állomásokat kínál a természettudományok és a technika köréből.",
+                  "category": "museum",
+                  "coords": [
+                        8.764578,
+                        47.514009
+                  ]
+            },
+            {
+                  "name": "Schloss Wülflingen",
+                  "text": "Történelmi kastély Winterthurban, amely ma étteremnek és rendezvénytermeknek ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        8.699388,
+                        47.511289
+                  ]
+            },
+            {
+                  "name": "Sammlung Oskar Reinhart Am Römerholz",
+                  "text": "Világhírű művészeti gyűjtemény egy impozáns villában Winterthur szélén.",
+                  "category": "museum",
+                  "coords": [
+                        8.731635,
+                        47.511386
+                  ]
+            },
+            {
+                  "name": "Casinotheater",
+                  "text": "Ismert vígjátékház és színház Winterthur óvárosának szívében.",
+                  "category": "cultural",
+                  "coords": [
+                        8.72662,
+                        47.499716
+                  ]
+            },
+            {
+                  "name": "Kirche Herz Jesu",
+                  "text": "Római katolikus templom Winterthur Mattenbach negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.735883,
+                        47.491264
+                  ]
+            },
+            {
+                  "name": "Ref. Kirche Töss",
+                  "text": "Református templom Winterthur Töss városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        8.708478,
+                        47.490651
+                  ]
+            },
+            {
+                  "name": "Kirche St. Marien",
+                  "text": "Szűz Máriának szentelt katolikus templom Oberwinterthurban.",
+                  "category": "religious",
+                  "coords": [
+                        8.749895,
+                        47.503565
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Winterthur történelmi városháza az óváros egyik jelentős műemléke.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729943,
+                        47.499999
+                  ]
+            },
+            {
+                  "name": "Chöpfi",
+                  "text": "Ismert kilátópont Winterthurban, ahonnan széles kilátás nyílik a városra.",
+                  "category": "natural",
+                  "coords": [
+                        8.700287,
+                        47.516613
+                  ]
+            },
+            {
+                  "name": "Eschenbergturm",
+                  "text": "Fából készült kilátótorony az Eschenberg-en, amely körpanorámát nyújt az Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        8.734891,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Schweiz",
+                  "text": "Fotográfiai központ, amely Svájc fényképészeti örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.73842,
+                        47.495765
+                  ]
+            },
+            {
+                  "name": "Dampfzentrum",
+                  "text": "Technikai múzeum Winterthurban, amely a gőzgépek ipari történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.717587,
+                        47.4937
+                  ]
+            },
+            {
+                  "name": "Münzkabinett",
+                  "text": "Múzeum, amely történelmi érmék és érmek jelentős gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.731009,
+                        47.502988
+                  ]
+            },
+            {
+                  "name": "Museum Lindengut",
+                  "text": "Történelmi villában kialakított múzeum, amely Winterthur lakáskultúráját és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.734982,
+                        47.500154
+                  ]
+            },
+            {
+                  "name": "Villa Flora",
+                  "text": "Művészeti múzeum, amely egy egykori gyűjtővillában francia modern műveket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.735275,
+                        47.496448
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Winterthur reprezentatív közigazgatási épülete, amelyet Gottfried Semper tervezett.",
+                  "category": "historical",
+                  "coords": [
+                        8.731398,
+                        47.500994
+                  ]
+            },
+            {
+                  "name": "Theater Winterthur",
+                  "text": "Svájc legnagyobb befogadó színháza, operák, balettek és színdarabok széles kínálatával.",
+                  "category": "cultural",
+                  "coords": [
+                        8.727857,
+                        47.50207
+                  ]
+            },
+            {
+                  "name": "Theater am Gleis",
+                  "text": "Kis színház a vasútállomás közelében, amely kortárs produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.723381,
+                        47.498402
+                  ]
+            },
+            {
+                  "name": "Theater Kanton Zürich",
+                  "text": "A kantonális színház, amely Zürich kanton egész területén és Winterthurban is tart előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.750932,
+                        47.495821
+                  ]
+            },
+            {
+                  "name": "Kirche St. Peter und Paul",
+                  "text": "Az első katolikus templom, amely a reformáció után épült Winterthurban.",
+                  "category": "religious",
+                  "coords": [
+                        8.7198,
+                        47.501274
+                  ]
+            },
+            {
+                  "name": "Kirche Wülflingen",
+                  "text": "Wülflingen városrész református temploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.694773,
+                        47.511158
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Veltheim",
+                  "text": "Történelmi templom az egykori Veltheim faluban, amely ma Winterthur része.",
+                  "category": "religious",
+                  "coords": [
+                        8.716854,
+                        47.509777
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "Huldrych Zwingli reformátorról elnevezett templom Winterthurban.",
+                  "category": "religious",
+                  "coords": [
+                        8.740524,
+                        47.493067
+                  ]
+            },
+            {
+                  "name": "Kirche St. Josef",
+                  "text": "Szent Józsefnek szentelt katolikus templom Winterthurban.",
+                  "category": "religious",
+                  "coords": [
+                        8.70255,
+                        47.492738
+                  ]
+            },
+            {
+                  "name": "Kirche St. Laurentius",
+                  "text": "Wülflingen városrész katolikus plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.702413,
+                        47.509586
+                  ]
+            },
+            {
+                  "name": "Kirche St. Ulrich",
+                  "text": "Keresztény imaház Winterthurban.",
+                  "category": "religious",
+                  "coords": [
+                        8.719975,
+                        47.517456
+                  ]
+            },
+            {
+                  "name": "Kirche St. Urban",
+                  "text": "Szent Orbánról elnevezett templom Winterthur városában.",
+                  "category": "religious",
+                  "coords": [
+                        8.759104,
+                        47.487609
+                  ]
+            },
+            {
+                  "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának gyülekezeti háza Winterthurban.",
+                  "category": "religious",
+                  "coords": [
+                        8.75596,
+                        47.486826
+                  ]
+            },
+            {
+                  "name": "Lindberg",
+                  "text": "Jellegzetes domb Winterthur északi részén, amely túrázásra és pihenésre hív.",
+                  "category": "natural",
+                  "coords": [
+                        8.746961,
+                        47.513111
+                  ]
+            },
+            {
+                  "name": "Brühlgutpark",
+                  "text": "Modern városi park egy egykori ipari területen Winterthurban.",
+                  "category": "park",
+                  "coords": [
+                        8.713901,
+                        47.496722
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "Gyönyörű park az óváros felett, sokféle rózsával és panorámás kilátással.",
+                  "category": "park",
+                  "coords": [
+                        8.72539,
+                        47.496144
+                  ]
+            },
+            {
+                  "name": "Eulachpark",
+                  "text": "Kiterjedt városi park Oberwinterthurban, játék- és pihenőhelyekkel.",
+                  "category": "park",
+                  "coords": [
+                        8.763325,
+                        47.505082
+                  ]
+            },
+            {
+                  "name": "Römerpark",
+                  "text": "Zöldterület Winterthurban, amely a római lelőhelyek közelségéről kapta a nevét.",
+                  "category": "park",
+                  "coords": [
+                        8.740325,
+                        47.49902
+                  ]
+            },
+            {
+                  "name": "Allmend Grüzefeld",
+                  "text": "Nagy közterületi zöldfelület Winterthurban, szabadidős és sportcélokra.",
+                  "category": "park",
+                  "coords": [
+                        8.75788,
+                        47.490355
+                  ]
+            },
+            {
+                  "name": "Brühlbergturm",
+                  "text": "Kilátótorony a Brühlbergen, ahonnan jó kilátás nyílik Winterthurra.",
+                  "category": "natural",
+                  "coords": [
+                        8.702474,
+                        47.501935
+                  ]
+            },
+            {
+                  "name": "Wildpark Bruderhaus",
+                  "text": "Népszerű kirándulóhely őshonos vadállatokkal, tágas kifutókban.",
+                  "category": "recreational",
+                  "coords": [
+                        8.72589,
+                        47.477185
+                  ]
+            },
+            {
+                  "name": "Museum Schaffen",
+                  "text": "Múzeum, amely Winterthur munka világával és ipartörténetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        8.718655,
+                        47.495249
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Villa Sträuli",
+                  "text": "Kulturális központ, amely munkatereket és kiállítási lehetőséget biztosít művészeknek.",
+                  "category": "museum",
+                  "coords": [
+                        8.728876,
+                        47.501662
+                  ]
+            },
+            {
+                  "name": "Kunstraum Winterhur",
+                  "text": "Kortárs művészeti galéria Winterthur központjában.",
+                  "category": "museum",
+                  "coords": [
+                        8.72151,
+                        47.500999
+                  ]
+            },
+            {
+                  "name": "Bowen Art",
+                  "text": "Kortárs műveket bemutató művészeti galéria Winterthurban.",
+                  "category": "museum",
+                  "coords": [
+                        8.7565,
+                        47.508168
+                  ]
+            },
+            {
+                  "name": "Salon Erika",
+                  "text": "Művészeti galéria Winterthurban, amely helyet ad az alkotói önkifejezésnek.",
+                  "category": "museum",
+                  "coords": [
+                        8.718338,
+                        47.501175
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Uhrensammlung Kellenberger",
+                  "text": "Acest muzeu din Winterthur prezintă o colecție importantă de ceasuri și instrumente de măsurare a timpului.",
+                  "category": "museum",
+                  "coords": [
+                        8.729538,
+                        47.499069
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Beim Stadthaus",
+                  "text": "Un muzeu de artă important lângă primărie, care expune lucrări din secolul al XVII-lea până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        8.730391,
+                        47.501615
+                  ]
+            },
+            {
+                  "name": "Kastell Vitudurum",
+                  "text": "Rămășițele unui castru roman care marchează originile orașului Winterthur.",
+                  "category": "castle",
+                  "coords": [
+                        8.755546,
+                        47.506724
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Reinhart am Stadtgarten",
+                  "text": "O parte a Muzeului de Artă din Winterthur, care găzduiește lucrări importante ale impresionismului.",
+                  "category": "museum",
+                  "coords": [
+                        8.729004,
+                        47.500487
+                  ]
+            },
+            {
+                  "name": "Technorama",
+                  "text": "Swiss Science Center Technorama oferă stații experimentale interactive despre știință și tehnologie.",
+                  "category": "museum",
+                  "coords": [
+                        8.764578,
+                        47.514009
+                  ]
+            },
+            {
+                  "name": "Schloss Wülflingen",
+                  "text": "Un castel istoric din Winterthur, care astăzi găzduiește un restaurant și săli de evenimente.",
+                  "category": "castle",
+                  "coords": [
+                        8.699388,
+                        47.511289
+                  ]
+            },
+            {
+                  "name": "Sammlung Oskar Reinhart Am Römerholz",
+                  "text": "O colecție de artă de renume mondial într-o vilă impunătoare la marginea orașului Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.731635,
+                        47.511386
+                  ]
+            },
+            {
+                  "name": "Casinotheater",
+                  "text": "O casă de comedie și un teatru cunoscut în inima orașului vechi din Winterthur.",
+                  "category": "cultural",
+                  "coords": [
+                        8.72662,
+                        47.499716
+                  ]
+            },
+            {
+                  "name": "Kirche Herz Jesu",
+                  "text": "O biserică romano-catolică din cartierul Mattenbach din Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.735883,
+                        47.491264
+                  ]
+            },
+            {
+                  "name": "Ref. Kirche Töss",
+                  "text": "Biserica reformată din districtul Töss din Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.708478,
+                        47.490651
+                  ]
+            },
+            {
+                  "name": "Kirche St. Marien",
+                  "text": "O biserică catolică din Oberwinterthur, dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        8.749895,
+                        47.503565
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Vechea primărie din Winterthur este un monument istoric important din orașul vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729943,
+                        47.499999
+                  ]
+            },
+            {
+                  "name": "Chöpfi",
+                  "text": "Un punct de belvedere cunoscut în Winterthur, care oferă o vedere panoramică asupra orașului.",
+                  "category": "natural",
+                  "coords": [
+                        8.700287,
+                        47.516613
+                  ]
+            },
+            {
+                  "name": "Eschenbergturm",
+                  "text": "Un turn de belvedere din lemn pe Eschenberg, care oferă o vedere panoramică asupra Alpilor.",
+                  "category": "natural",
+                  "coords": [
+                        8.734891,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Schweiz",
+                  "text": "Un centru pentru fotografie care conservă și expune moștenirea fotografică a Elveției.",
+                  "category": "museum",
+                  "coords": [
+                        8.73842,
+                        47.495765
+                  ]
+            },
+            {
+                  "name": "Dampfzentrum",
+                  "text": "Un muzeu tehnic din Winterthur care documentează istoria industrială a mașinilor cu abur.",
+                  "category": "museum",
+                  "coords": [
+                        8.717587,
+                        47.4937
+                  ]
+            },
+            {
+                  "name": "Münzkabinett",
+                  "text": "Un muzeu care găzduiește o colecție importantă de monede și medalii istorice.",
+                  "category": "museum",
+                  "coords": [
+                        8.731009,
+                        47.502988
+                  ]
+            },
+            {
+                  "name": "Museum Lindengut",
+                  "text": "Un muzeu într-o vilă istorică, care prezintă cultura locuirii și istoria orașului Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.734982,
+                        47.500154
+                  ]
+            },
+            {
+                  "name": "Villa Flora",
+                  "text": "Un muzeu de artă care expune lucrări ale modernismului francez într-o fostă vilă de colecționar.",
+                  "category": "museum",
+                  "coords": [
+                        8.735275,
+                        47.496448
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Clădirea administrativă reprezentativă a orașului Winterthur, proiectată de Gottfried Semper.",
+                  "category": "historical",
+                  "coords": [
+                        8.731398,
+                        47.500994
+                  ]
+            },
+            {
+                  "name": "Theater Winterthur",
+                  "text": "Cel mai mare teatru de oaspeți din Elveția, cu o ofertă largă de operă, balet și piese de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        8.727857,
+                        47.50207
+                  ]
+            },
+            {
+                  "name": "Theater am Gleis",
+                  "text": "Un teatru mic lângă gară, cunoscut pentru producții contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        8.723381,
+                        47.498402
+                  ]
+            },
+            {
+                  "name": "Theater Kanton Zürich",
+                  "text": "Teatrul cantonal care prezintă producții în întregul canton Zürich și în Winterthur.",
+                  "category": "cultural",
+                  "coords": [
+                        8.750932,
+                        47.495821
+                  ]
+            },
+            {
+                  "name": "Kirche St. Peter und Paul",
+                  "text": "Prima biserică catolică construită în Winterthur după Reformă.",
+                  "category": "religious",
+                  "coords": [
+                        8.7198,
+                        47.501274
+                  ]
+            },
+            {
+                  "name": "Kirche Wülflingen",
+                  "text": "Biserica evanghelică-reformată din districtul Wülflingen.",
+                  "category": "religious",
+                  "coords": [
+                        8.694773,
+                        47.511158
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Veltheim",
+                  "text": "O biserică istorică din fostul sat Veltheim, care acum aparține de Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.716854,
+                        47.509777
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "O biserică numită după reformatorul Huldrych Zwingli în Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.740524,
+                        47.493067
+                  ]
+            },
+            {
+                  "name": "Kirche St. Josef",
+                  "text": "O biserică catolică din Winterthur dedicată Sfântului Iosif.",
+                  "category": "religious",
+                  "coords": [
+                        8.70255,
+                        47.492738
+                  ]
+            },
+            {
+                  "name": "Kirche St. Laurentius",
+                  "text": "Biserica parohială catolică din districtul Wülflingen.",
+                  "category": "religious",
+                  "coords": [
+                        8.702413,
+                        47.509586
+                  ]
+            },
+            {
+                  "name": "Kirche St. Ulrich",
+                  "text": "Un lăcaș de rugăciune creștin în Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.719975,
+                        47.517456
+                  ]
+            },
+            {
+                  "name": "Kirche St. Urban",
+                  "text": "O biserică numită după Sfântul Urban în orașul Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.759104,
+                        47.487609
+                  ]
+            },
+            {
+                  "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+                  "text": "O casă de cult a Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă în Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.75596,
+                        47.486826
+                  ]
+            },
+            {
+                  "name": "Lindberg",
+                  "text": "Un deal proeminent în nordul orașului Winterthur, ideal pentru drumeții și relaxare.",
+                  "category": "natural",
+                  "coords": [
+                        8.746961,
+                        47.513111
+                  ]
+            },
+            {
+                  "name": "Brühlgutpark",
+                  "text": "Un parc urban modern pe un fost sit industrial din Winterthur.",
+                  "category": "park",
+                  "coords": [
+                        8.713901,
+                        47.496722
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "Un parc superb deasupra orașului vechi, cu o mare varietate de trandafiri și vedere panoramică.",
+                  "category": "park",
+                  "coords": [
+                        8.72539,
+                        47.496144
+                  ]
+            },
+            {
+                  "name": "Eulachpark",
+                  "text": "Un parc urban vast în districtul Oberwinterthur, cu spații de joacă și relaxare.",
+                  "category": "park",
+                  "coords": [
+                        8.763325,
+                        47.505082
+                  ]
+            },
+            {
+                  "name": "Römerpark",
+                  "text": "O zonă verde din Winterthur, numită după proximitatea sa față de siturile romane.",
+                  "category": "park",
+                  "coords": [
+                        8.740325,
+                        47.49902
+                  ]
+            },
+            {
+                  "name": "Allmend Grüzefeld",
+                  "text": "Un spațiu verde public mare din Winterthur, utilizat pentru petrecerea timpului liber și sport.",
+                  "category": "park",
+                  "coords": [
+                        8.75788,
+                        47.490355
+                  ]
+            },
+            {
+                  "name": "Brühlbergturm",
+                  "text": "Un turn de belvedere pe Brühlberg, care oferă o vedere bună asupra orașului Winterthur.",
+                  "category": "natural",
+                  "coords": [
+                        8.702474,
+                        47.501935
+                  ]
+            },
+            {
+                  "name": "Wildpark Bruderhaus",
+                  "text": "O destinație populară cu animale sălbatice native în țarcuri spațioase.",
+                  "category": "recreational",
+                  "coords": [
+                        8.72589,
+                        47.477185
+                  ]
+            },
+            {
+                  "name": "Museum Schaffen",
+                  "text": "Un muzeu care se ocupă cu lumea muncii și istoria industrială a orașului Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.718655,
+                        47.495249
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Villa Sträuli",
+                  "text": "O casă de cultură care oferă artiștilor spațiu pentru lucru și expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        8.728876,
+                        47.501662
+                  ]
+            },
+            {
+                  "name": "Kunstraum Winterhur",
+                  "text": "O galerie de artă contemporană în centrul orașului Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.72151,
+                        47.500999
+                  ]
+            },
+            {
+                  "name": "Bowen Art",
+                  "text": "O galerie de artă din Winterthur care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        8.7565,
+                        47.508168
+                  ]
+            },
+            {
+                  "name": "Salon Erika",
+                  "text": "O galerie din Winterthur care oferă spațiu pentru exprimare artistică.",
+                  "category": "museum",
+                  "coords": [
+                        8.718338,
+                        47.501175
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Uhrensammlung Kellenberger",
+                  "text": "This museum in Winterthur displays a significant collection of clocks and timekeeping instruments.",
+                  "category": "museum",
+                  "coords": [
+                        8.729538,
+                        47.499069
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Beim Stadthaus",
+                  "text": "An important art museum near the town hall, showcasing works from the 17th century to the present.",
+                  "category": "museum",
+                  "coords": [
+                        8.730391,
+                        47.501615
+                  ]
+            },
+            {
+                  "name": "Kastell Vitudurum",
+                  "text": "The remains of a Roman fort that marks the origins of the city of Winterthur.",
+                  "category": "castle",
+                  "coords": [
+                        8.755546,
+                        47.506724
+                  ]
+            },
+            {
+                  "name": "Kunst Museum Winterthur / Reinhart am Stadtgarten",
+                  "text": "Part of the Kunst Museum Winterthur, housing significant works of Impressionism.",
+                  "category": "museum",
+                  "coords": [
+                        8.729004,
+                        47.500487
+                  ]
+            },
+            {
+                  "name": "Technorama",
+                  "text": "The Swiss Science Center Technorama offers interactive experimental stations on science and technology.",
+                  "category": "museum",
+                  "coords": [
+                        8.764578,
+                        47.514009
+                  ]
+            },
+            {
+                  "name": "Schloss Wülflingen",
+                  "text": "A historic castle in Winterthur that today houses a restaurant and event rooms.",
+                  "category": "castle",
+                  "coords": [
+                        8.699388,
+                        47.511289
+                  ]
+            },
+            {
+                  "name": "Sammlung Oskar Reinhart Am Römerholz",
+                  "text": "A world-renowned art collection housed in a stately villa on the outskirts of Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.731635,
+                        47.511386
+                  ]
+            },
+            {
+                  "name": "Casinotheater",
+                  "text": "A well-known comedy house and theatre in the heart of Winterthur's old town.",
+                  "category": "cultural",
+                  "coords": [
+                        8.72662,
+                        47.499716
+                  ]
+            },
+            {
+                  "name": "Kirche Herz Jesu",
+                  "text": "A Roman Catholic church located in the Mattenbach district of Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.735883,
+                        47.491264
+                  ]
+            },
+            {
+                  "name": "Ref. Kirche Töss",
+                  "text": "The Reformed church in the Töss district of Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.708478,
+                        47.490651
+                  ]
+            },
+            {
+                  "name": "Kirche St. Marien",
+                  "text": "A Catholic church in Oberwinterthur dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        8.749895,
+                        47.503565
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "The historic town hall of Winterthur is an important architectural monument in the old town.",
+                  "category": "landmark",
+                  "coords": [
+                        8.729943,
+                        47.499999
+                  ]
+            },
+            {
+                  "name": "Chöpfi",
+                  "text": "A well-known viewpoint in Winterthur offering a wide view over the city.",
+                  "category": "natural",
+                  "coords": [
+                        8.700287,
+                        47.516613
+                  ]
+            },
+            {
+                  "name": "Eschenbergturm",
+                  "text": "A wooden observation tower on the Eschenberg offering panoramic views of the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        8.734891,
+                        47.481075
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Schweiz",
+                  "text": "A center for photography that preserves and exhibits the photographic heritage of Switzerland.",
+                  "category": "museum",
+                  "coords": [
+                        8.73842,
+                        47.495765
+                  ]
+            },
+            {
+                  "name": "Dampfzentrum",
+                  "text": "A technical museum in Winterthur documenting the industrial history of steam engines.",
+                  "category": "museum",
+                  "coords": [
+                        8.717587,
+                        47.4937
+                  ]
+            },
+            {
+                  "name": "Münzkabinett",
+                  "text": "A museum housing a significant collection of historical coins and medals.",
+                  "category": "museum",
+                  "coords": [
+                        8.731009,
+                        47.502988
+                  ]
+            },
+            {
+                  "name": "Museum Lindengut",
+                  "text": "A museum in a historic villa showing the domestic culture and history of Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.734982,
+                        47.500154
+                  ]
+            },
+            {
+                  "name": "Villa Flora",
+                  "text": "An art museum displaying French modern works in a former collector's villa.",
+                  "category": "museum",
+                  "coords": [
+                        8.735275,
+                        47.496448
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "The representative administrative building of Winterthur, designed by Gottfried Semper.",
+                  "category": "historical",
+                  "coords": [
+                        8.731398,
+                        47.500994
+                  ]
+            },
+            {
+                  "name": "Theater Winterthur",
+                  "text": "The largest guest theatre in Switzerland with a wide range of operas, ballets, and plays.",
+                  "category": "cultural",
+                  "coords": [
+                        8.727857,
+                        47.50207
+                  ]
+            },
+            {
+                  "name": "Theater am Gleis",
+                  "text": "A small theatre near the train station known for contemporary productions.",
+                  "category": "cultural",
+                  "coords": [
+                        8.723381,
+                        47.498402
+                  ]
+            },
+            {
+                  "name": "Theater Kanton Zürich",
+                  "text": "The cantonal theatre that stages productions throughout the Canton of Zurich and in Winterthur.",
+                  "category": "cultural",
+                  "coords": [
+                        8.750932,
+                        47.495821
+                  ]
+            },
+            {
+                  "name": "Kirche St. Peter und Paul",
+                  "text": "The first Catholic church built in Winterthur after the Reformation.",
+                  "category": "religious",
+                  "coords": [
+                        8.7198,
+                        47.501274
+                  ]
+            },
+            {
+                  "name": "Kirche Wülflingen",
+                  "text": "The Protestant-Reformed church of the Wülflingen district.",
+                  "category": "religious",
+                  "coords": [
+                        8.694773,
+                        47.511158
+                  ]
+            },
+            {
+                  "name": "Dorfkirche Veltheim",
+                  "text": "A historic church in the former village of Veltheim, now part of Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.716854,
+                        47.509777
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "A church named after the reformer Huldrych Zwingli in Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.740524,
+                        47.493067
+                  ]
+            },
+            {
+                  "name": "Kirche St. Josef",
+                  "text": "A Catholic church in Winterthur dedicated to Saint Joseph.",
+                  "category": "religious",
+                  "coords": [
+                        8.70255,
+                        47.492738
+                  ]
+            },
+            {
+                  "name": "Kirche St. Laurentius",
+                  "text": "The Catholic parish church of the Wülflingen district.",
+                  "category": "religious",
+                  "coords": [
+                        8.702413,
+                        47.509586
+                  ]
+            },
+            {
+                  "name": "Kirche St. Ulrich",
+                  "text": "A Christian place of prayer in Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.719975,
+                        47.517456
+                  ]
+            },
+            {
+                  "name": "Kirche St. Urban",
+                  "text": "A church named after Saint Urban in the city of Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.759104,
+                        47.487609
+                  ]
+            },
+            {
+                  "name": "Kirche Jesu Christi der Heiligen der Letzten Tage",
+                  "text": "A meetinghouse of The Church of Jesus Christ of Latter-day Saints in Winterthur.",
+                  "category": "religious",
+                  "coords": [
+                        8.75596,
+                        47.486826
+                  ]
+            },
+            {
+                  "name": "Lindberg",
+                  "text": "A prominent hill in the north of Winterthur, popular for hiking and relaxation.",
+                  "category": "natural",
+                  "coords": [
+                        8.746961,
+                        47.513111
+                  ]
+            },
+            {
+                  "name": "Brühlgutpark",
+                  "text": "A modern city park on a former industrial site in Winterthur.",
+                  "category": "park",
+                  "coords": [
+                        8.713901,
+                        47.496722
+                  ]
+            },
+            {
+                  "name": "Rosengarten",
+                  "text": "A beautiful park above the old town featuring a great variety of roses and panoramic views.",
+                  "category": "park",
+                  "coords": [
+                        8.72539,
+                        47.496144
+                  ]
+            },
+            {
+                  "name": "Eulachpark",
+                  "text": "A spacious city park in the Oberwinterthur district with play and recreation areas.",
+                  "category": "park",
+                  "coords": [
+                        8.763325,
+                        47.505082
+                  ]
+            },
+            {
+                  "name": "Römerpark",
+                  "text": "A green space in Winterthur named for its proximity to Roman archaeological sites.",
+                  "category": "park",
+                  "coords": [
+                        8.740325,
+                        47.49902
+                  ]
+            },
+            {
+                  "name": "Allmend Grüzefeld",
+                  "text": "A large public green space in Winterthur used for leisure and sports.",
+                  "category": "park",
+                  "coords": [
+                        8.75788,
+                        47.490355
+                  ]
+            },
+            {
+                  "name": "Brühlbergturm",
+                  "text": "An observation tower on Brühlberg offering a good view over Winterthur.",
+                  "category": "natural",
+                  "coords": [
+                        8.702474,
+                        47.501935
+                  ]
+            },
+            {
+                  "name": "Wildpark Bruderhaus",
+                  "text": "A popular destination featuring native wildlife in spacious enclosures.",
+                  "category": "recreational",
+                  "coords": [
+                        8.72589,
+                        47.477185
+                  ]
+            },
+            {
+                  "name": "Museum Schaffen",
+                  "text": "A museum focused on the world of work and the industrial history of Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.718655,
+                        47.495249
+                  ]
+            },
+            {
+                  "name": "Kulturhaus Villa Sträuli",
+                  "text": "A cultural house providing artists with space to work and exhibit.",
+                  "category": "museum",
+                  "coords": [
+                        8.728876,
+                        47.501662
+                  ]
+            },
+            {
+                  "name": "Kunstraum Winterhur",
+                  "text": "A gallery for contemporary art located in the center of Winterthur.",
+                  "category": "museum",
+                  "coords": [
+                        8.72151,
+                        47.500999
+                  ]
+            },
+            {
+                  "name": "Bowen Art",
+                  "text": "An art gallery in Winterthur showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        8.7565,
+                        47.508168
+                  ]
+            },
+            {
+                  "name": "Salon Erika",
+                  "text": "A gallery in Winterthur providing space for artistic expression.",
+                  "category": "museum",
+                  "coords": [
+                        8.718338,
+                        47.501175
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.7297, 47.5008],
@@ -709,7 +11419,844 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-chur",
+    id: "city-chur", "sights": {
+      "de": [
+            {
+                  "name": "Klibühni Chur",
+                  "text": "Ein Kleintheater in Chur, das für seine intime Atmosphäre bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533213,
+                        46.847888
+                  ]
+            },
+            {
+                  "name": "Theater Chur",
+                  "text": "Das größte Theater im Kanton Graubünden mit einem vielfältigen Programm.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533234,
+                        46.851722
+                  ]
+            },
+            {
+                  "name": "Weinbaumuseum Torculum",
+                  "text": "Ein Museum in Chur, das der Geschichte des regionalen Weinbaus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        9.53692,
+                        46.855078
+                  ]
+            },
+            {
+                  "name": "Bündner Kunstmuseum",
+                  "text": "Ein bedeutendes Kunstmuseum in Chur mit Werken aus der Region Graubünden.",
+                  "category": "museum",
+                  "coords": [
+                        9.532313,
+                        46.851269
+                  ]
+            },
+            {
+                  "name": "Bündner Naturmuseum",
+                  "text": "Ein Museum in Chur, das die Flora und Fauna der Graubündner Alpen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        9.534269,
+                        46.854206
+                  ]
+            },
+            {
+                  "name": "Mittenberg",
+                  "text": "Ein beliebter Hausberg und Aussichtspunkt bei der Stadt Chur.",
+                  "category": "natural",
+                  "coords": [
+                        9.546571,
+                        46.85081
+                  ]
+            },
+            {
+                  "name": "Forum Würth Chur",
+                  "text": "Ein Kulturforum in Chur, das wechselnde Kunstausstellungen der Sammlung Würth zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        9.528743,
+                        46.859997
+                  ]
+            },
+            {
+                  "name": "Fontanapark",
+                  "text": "Ein historischer Park in Chur mit einem Denkmal für Benedikt Fontana.",
+                  "category": "park",
+                  "coords": [
+                        9.53131,
+                        46.8499
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "Eine öffentliche Grünanlage im Zentrum von Chur.",
+                  "category": "park",
+                  "coords": [
+                        9.529759,
+                        46.849628
+                  ]
+            },
+            {
+                  "name": "Cuadro 22",
+                  "text": "Ein Zentrum für zeitgenössische Kultur und Kunst in Chur.",
+                  "category": "cultural",
+                  "coords": [
+                        9.513422,
+                        46.851794
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Graubünden",
+                  "text": "Eine Institution in Chur, die sich dem fotografischen Erbe Graubündens widmet.",
+                  "category": "museum",
+                  "coords": [
+                        9.533574,
+                        46.850321
+                  ]
+            },
+            {
+                  "name": "Haldahüttli",
+                  "text": "Ein bekannter Aussichtspunkt mit Blick über die Altstadt von Chur.",
+                  "category": "natural",
+                  "coords": [
+                        9.536067,
+                        46.850373
+                  ]
+            },
+            {
+                  "name": "St. Luzius",
+                  "text": "Eine Kirche in Chur, die nach dem Heiligen Luzius benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.537237,
+                        46.847675
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Eine evangelisch-reformierte Kirche im Stadtgebiet von Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.54467,
+                        46.829907
+                  ]
+            },
+            {
+                  "name": "Erlöserkirche",
+                  "text": "Eine moderne katholische Kirche in Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.523177,
+                        46.854186
+                  ]
+            },
+            {
+                  "name": "Comanderkirche",
+                  "text": "Ein reformiertes Kirchengebäude im Stadtteil Lachen in Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.521889,
+                        46.857411
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Das Rathaus der Stadt Chur ist ein zentrales historisches Verwaltungsgebäude.",
+                  "category": "historical",
+                  "coords": [
+                        9.532585,
+                        46.849009
+                  ]
+            },
+            {
+                  "name": "Obertor",
+                  "text": "Eines der erhaltenen historischen Stadttore von Chur.",
+                  "category": "fortress",
+                  "coords": [
+                        9.529619,
+                        46.848073
+                  ]
+            },
+            {
+                  "name": "Kathedrale Sankt Mariä Himmelfahrt",
+                  "text": "Die Kathedrale von Chur ist ein bedeutendes religiöses Denkmal der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        9.535441,
+                        46.847632
+                  ]
+            },
+            {
+                  "name": "Heiligkreuzkirche",
+                  "text": "Ein markantes katholisches Kirchengebäude in Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.534328,
+                        46.864234
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "Eine evangelische Kirche in Chur, die dem Frieden gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        9.52912,
+                        46.847161
+                  ]
+            },
+            {
+                  "name": "Kirche Masans",
+                  "text": "Eine historische Kirche im Stadtteil Masans von Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.534112,
+                        46.870359
+                  ]
+            },
+            {
+                  "name": "St.Luzikapelle",
+                  "text": "Eine Kapelle in Chur, die über der Stadt am Mittenberg liegt.",
+                  "category": "religious",
+                  "coords": [
+                        9.543518,
+                        46.846365
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Klibühni Chur",
+                  "text": "Egy kis színház Chur-ban, amely családias hangulatáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533213,
+                        46.847888
+                  ]
+            },
+            {
+                  "name": "Theater Chur",
+                  "text": "Grisons kanton legnagyobb színháza változatos programkínálattal.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533234,
+                        46.851722
+                  ]
+            },
+            {
+                  "name": "Weinbaumuseum Torculum",
+                  "text": "A regionális szőlőtermesztés történetének szentelt múzeum Chur-ban.",
+                  "category": "museum",
+                  "coords": [
+                        9.53692,
+                        46.855078
+                  ]
+            },
+            {
+                  "name": "Bündner Kunstmuseum",
+                  "text": "Jelentős művészeti múzeum Chur-ban, Grisons régióból származó alkotásokkal.",
+                  "category": "museum",
+                  "coords": [
+                        9.532313,
+                        46.851269
+                  ]
+            },
+            {
+                  "name": "Bündner Naturmuseum",
+                  "text": "A Grisons-i Alpok növény- és állatvilágát bemutató múzeum Chur-ban.",
+                  "category": "museum",
+                  "coords": [
+                        9.534269,
+                        46.854206
+                  ]
+            },
+            {
+                  "name": "Mittenberg",
+                  "text": "Chur városának népszerű házi hegye és kilátópontja.",
+                  "category": "natural",
+                  "coords": [
+                        9.546571,
+                        46.85081
+                  ]
+            },
+            {
+                  "name": "Forum Würth Chur",
+                  "text": "Kulturális fórum Chur-ban, amely a Würth-gyűjtemény időszaki kiállításait mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        9.528743,
+                        46.859997
+                  ]
+            },
+            {
+                  "name": "Fontanapark",
+                  "text": "Történelmi park Chur-ban, Benedikt Fontana emlékművével.",
+                  "category": "park",
+                  "coords": [
+                        9.53131,
+                        46.8499
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "Egy nyilvános park Chur központjában.",
+                  "category": "park",
+                  "coords": [
+                        9.529759,
+                        46.849628
+                  ]
+            },
+            {
+                  "name": "Cuadro 22",
+                  "text": "Kortárs kulturális és művészeti központ Chur-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        9.513422,
+                        46.851794
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Graubünden",
+                  "text": "Churi intézmény, amely Grisons fényképészeti örökségének megőrzésével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        9.533574,
+                        46.850321
+                  ]
+            },
+            {
+                  "name": "Haldahüttli",
+                  "text": "Ismert kilátópont, ahonnan rálátás nyílik Chur óvárosára.",
+                  "category": "natural",
+                  "coords": [
+                        9.536067,
+                        46.850373
+                  ]
+            },
+            {
+                  "name": "St. Luzius",
+                  "text": "Szent Luziusról elnevezett templom Chur-ban.",
+                  "category": "religious",
+                  "coords": [
+                        9.537237,
+                        46.847675
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Evangélikus-református templom Chur város területén.",
+                  "category": "religious",
+                  "coords": [
+                        9.54467,
+                        46.829907
+                  ]
+            },
+            {
+                  "name": "Erlöserkirche",
+                  "text": "Egy modern katolikus templom Chur-ban.",
+                  "category": "religious",
+                  "coords": [
+                        9.523177,
+                        46.854186
+                  ]
+            },
+            {
+                  "name": "Comanderkirche",
+                  "text": "Református templom Chur Lachen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        9.521889,
+                        46.857411
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Chur városháza egy központi történelmi közigazgatási épület.",
+                  "category": "historical",
+                  "coords": [
+                        9.532585,
+                        46.849009
+                  ]
+            },
+            {
+                  "name": "Obertor",
+                  "text": "Chur egyik fennmaradt történelmi városkapuja.",
+                  "category": "fortress",
+                  "coords": [
+                        9.529619,
+                        46.848073
+                  ]
+            },
+            {
+                  "name": "Kathedrale Sankt Mariä Himmelfahrt",
+                  "text": "A churi székesegyház a város jelentős vallási műemléke.",
+                  "category": "religious",
+                  "coords": [
+                        9.535441,
+                        46.847632
+                  ]
+            },
+            {
+                  "name": "Heiligkreuzkirche",
+                  "text": "Jellegzetes katolikus templomépület Chur-ban.",
+                  "category": "religious",
+                  "coords": [
+                        9.534328,
+                        46.864234
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "A békének szentelt evangélikus templom Chur-ban.",
+                  "category": "religious",
+                  "coords": [
+                        9.52912,
+                        46.847161
+                  ]
+            },
+            {
+                  "name": "Kirche Masans",
+                  "text": "Történelmi templom Chur Masans negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        9.534112,
+                        46.870359
+                  ]
+            },
+            {
+                  "name": "St.Luzikapelle",
+                  "text": "Egy kápolna Chur-ban, a város felett a Mittenbergen.",
+                  "category": "religious",
+                  "coords": [
+                        9.543518,
+                        46.846365
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Klibühni Chur",
+                  "text": "Un teatru mic din Chur, cunoscut pentru atmosfera sa intimă.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533213,
+                        46.847888
+                  ]
+            },
+            {
+                  "name": "Theater Chur",
+                  "text": "Cel mai mare teatru din cantonul Graubünden, cu un program diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533234,
+                        46.851722
+                  ]
+            },
+            {
+                  "name": "Weinbaumuseum Torculum",
+                  "text": "Un muzeu din Chur dedicat istoriei viticulturii regionale.",
+                  "category": "museum",
+                  "coords": [
+                        9.53692,
+                        46.855078
+                  ]
+            },
+            {
+                  "name": "Bündner Kunstmuseum",
+                  "text": "Un muzeu de artă important din Chur, cu lucrări din regiunea Graubünden.",
+                  "category": "museum",
+                  "coords": [
+                        9.532313,
+                        46.851269
+                  ]
+            },
+            {
+                  "name": "Bündner Naturmuseum",
+                  "text": "Un muzeu din Chur care prezintă flora și fauna Alpilor din Graubünden.",
+                  "category": "museum",
+                  "coords": [
+                        9.534269,
+                        46.854206
+                  ]
+            },
+            {
+                  "name": "Mittenberg",
+                  "text": "Un munte local popular și punct de belvedere lângă orașul Chur.",
+                  "category": "natural",
+                  "coords": [
+                        9.546571,
+                        46.85081
+                  ]
+            },
+            {
+                  "name": "Forum Würth Chur",
+                  "text": "Un forum cultural din Chur care prezintă expoziții de artă din colecția Würth.",
+                  "category": "cultural",
+                  "coords": [
+                        9.528743,
+                        46.859997
+                  ]
+            },
+            {
+                  "name": "Fontanapark",
+                  "text": "Un parc istoric din Chur cu un monument dedicat lui Benedikt Fontana.",
+                  "category": "park",
+                  "coords": [
+                        9.53131,
+                        46.8499
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "O zonă verde publică în centrul orașului Chur.",
+                  "category": "park",
+                  "coords": [
+                        9.529759,
+                        46.849628
+                  ]
+            },
+            {
+                  "name": "Cuadro 22",
+                  "text": "Un centru pentru cultură și artă contemporană în Chur.",
+                  "category": "cultural",
+                  "coords": [
+                        9.513422,
+                        46.851794
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Graubünden",
+                  "text": "O instituție din Chur dedicată patrimoniului fotografic din Graubünden.",
+                  "category": "museum",
+                  "coords": [
+                        9.533574,
+                        46.850321
+                  ]
+            },
+            {
+                  "name": "Haldahüttli",
+                  "text": "Un punct de belvedere cunoscut cu vedere spre orașul vechi din Chur.",
+                  "category": "natural",
+                  "coords": [
+                        9.536067,
+                        46.850373
+                  ]
+            },
+            {
+                  "name": "St. Luzius",
+                  "text": "O biserică din Chur numită după Sfântul Luzius.",
+                  "category": "religious",
+                  "coords": [
+                        9.537237,
+                        46.847675
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "O biserică evanghelică reformată în zona orașului Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.54467,
+                        46.829907
+                  ]
+            },
+            {
+                  "name": "Erlöserkirche",
+                  "text": "O biserică catolică modernă în Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.523177,
+                        46.854186
+                  ]
+            },
+            {
+                  "name": "Comanderkirche",
+                  "text": "O clădire bisericească reformată în cartierul Lachen din Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.521889,
+                        46.857411
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Primăria orașului Chur este o clădire administrativă istorică centrală.",
+                  "category": "historical",
+                  "coords": [
+                        9.532585,
+                        46.849009
+                  ]
+            },
+            {
+                  "name": "Obertor",
+                  "text": "Una dintre porțile istorice ale orașului Chur care s-au păstrat.",
+                  "category": "fortress",
+                  "coords": [
+                        9.529619,
+                        46.848073
+                  ]
+            },
+            {
+                  "name": "Kathedrale Sankt Mariä Himmelfahrt",
+                  "text": "Catedrala din Chur este un monument religios important al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        9.535441,
+                        46.847632
+                  ]
+            },
+            {
+                  "name": "Heiligkreuzkirche",
+                  "text": "O clădire bisericească catolică distinctivă în Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.534328,
+                        46.864234
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "O biserică evanghelică din Chur dedicată păcii.",
+                  "category": "religious",
+                  "coords": [
+                        9.52912,
+                        46.847161
+                  ]
+            },
+            {
+                  "name": "Kirche Masans",
+                  "text": "O biserică istorică în cartierul Masans din Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.534112,
+                        46.870359
+                  ]
+            },
+            {
+                  "name": "St.Luzikapelle",
+                  "text": "O capelă din Chur situată deasupra orașului pe Mittenberg.",
+                  "category": "religious",
+                  "coords": [
+                        9.543518,
+                        46.846365
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Klibühni Chur",
+                  "text": "A small theatre in Chur known for its intimate atmosphere.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533213,
+                        46.847888
+                  ]
+            },
+            {
+                  "name": "Theater Chur",
+                  "text": "The largest theatre in the canton of Grisons, offering a diverse program.",
+                  "category": "cultural",
+                  "coords": [
+                        9.533234,
+                        46.851722
+                  ]
+            },
+            {
+                  "name": "Weinbaumuseum Torculum",
+                  "text": "A museum in Chur dedicated to the history of regional viticulture.",
+                  "category": "museum",
+                  "coords": [
+                        9.53692,
+                        46.855078
+                  ]
+            },
+            {
+                  "name": "Bündner Kunstmuseum",
+                  "text": "A major art museum in Chur featuring works from the Grisons region.",
+                  "category": "museum",
+                  "coords": [
+                        9.532313,
+                        46.851269
+                  ]
+            },
+            {
+                  "name": "Bündner Naturmuseum",
+                  "text": "A museum in Chur presenting the flora and fauna of the Grisons Alps.",
+                  "category": "museum",
+                  "coords": [
+                        9.534269,
+                        46.854206
+                  ]
+            },
+            {
+                  "name": "Mittenberg",
+                  "text": "A popular local peak and viewpoint near the city of Chur.",
+                  "category": "natural",
+                  "coords": [
+                        9.546571,
+                        46.85081
+                  ]
+            },
+            {
+                  "name": "Forum Würth Chur",
+                  "text": "A cultural forum in Chur showcasing art exhibitions from the Würth collection.",
+                  "category": "cultural",
+                  "coords": [
+                        9.528743,
+                        46.859997
+                  ]
+            },
+            {
+                  "name": "Fontanapark",
+                  "text": "A historic park in Chur featuring a monument to Benedikt Fontana.",
+                  "category": "park",
+                  "coords": [
+                        9.53131,
+                        46.8499
+                  ]
+            },
+            {
+                  "name": "Stadtgarten",
+                  "text": "A public green space located in the centre of Chur.",
+                  "category": "park",
+                  "coords": [
+                        9.529759,
+                        46.849628
+                  ]
+            },
+            {
+                  "name": "Cuadro 22",
+                  "text": "A centre for contemporary culture and art in Chur.",
+                  "category": "cultural",
+                  "coords": [
+                        9.513422,
+                        46.851794
+                  ]
+            },
+            {
+                  "name": "Fotostiftung Graubünden",
+                  "text": "An institution in Chur dedicated to the photographic heritage of Grisons.",
+                  "category": "museum",
+                  "coords": [
+                        9.533574,
+                        46.850321
+                  ]
+            },
+            {
+                  "name": "Haldahüttli",
+                  "text": "A well-known viewpoint overlooking the old town of Chur.",
+                  "category": "natural",
+                  "coords": [
+                        9.536067,
+                        46.850373
+                  ]
+            },
+            {
+                  "name": "St. Luzius",
+                  "text": "A church in Chur named after Saint Lucius.",
+                  "category": "religious",
+                  "coords": [
+                        9.537237,
+                        46.847675
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "An Evangelical Reformed church in the city area of Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.54467,
+                        46.829907
+                  ]
+            },
+            {
+                  "name": "Erlöserkirche",
+                  "text": "A modern Catholic church in Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.523177,
+                        46.854186
+                  ]
+            },
+            {
+                  "name": "Comanderkirche",
+                  "text": "A Reformed church building in the Lachen district of Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.521889,
+                        46.857411
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "The town hall of Chur is a central historic administrative building.",
+                  "category": "historical",
+                  "coords": [
+                        9.532585,
+                        46.849009
+                  ]
+            },
+            {
+                  "name": "Obertor",
+                  "text": "One of the surviving historic city gates of Chur.",
+                  "category": "fortress",
+                  "coords": [
+                        9.529619,
+                        46.848073
+                  ]
+            },
+            {
+                  "name": "Kathedrale Sankt Mariä Himmelfahrt",
+                  "text": "The Cathedral of Chur is a major religious monument in the city.",
+                  "category": "religious",
+                  "coords": [
+                        9.535441,
+                        46.847632
+                  ]
+            },
+            {
+                  "name": "Heiligkreuzkirche",
+                  "text": "A distinctive Catholic church building in Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.534328,
+                        46.864234
+                  ]
+            },
+            {
+                  "name": "Friedenskirche",
+                  "text": "An evangelical church in Chur dedicated to peace.",
+                  "category": "religious",
+                  "coords": [
+                        9.52912,
+                        46.847161
+                  ]
+            },
+            {
+                  "name": "Kirche Masans",
+                  "text": "A historic church in the Masans district of Chur.",
+                  "category": "religious",
+                  "coords": [
+                        9.534112,
+                        46.870359
+                  ]
+            },
+            {
+                  "name": "St.Luzikapelle",
+                  "text": "A chapel in Chur located above the city on the Mittenberg.",
+                  "category": "religious",
+                  "coords": [
+                        9.543518,
+                        46.846365
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [9.5329, 46.8508],
@@ -782,7 +12329,1852 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-lugano",
+    id: "city-lugano", "sights": {
+      "de": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "Das Kunstmuseum in Lugano präsentiert ein breites Spektrum an moderner und zeitgenössischer Kunst der italienischen Schweiz.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "Dieses Museum widmet sich der Flora, Fauna und Geologie des Kantons Tessin.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "Ein ethnographisches Museum in Lugano, das sich auf die Kulturen aussereuropäischer Völker spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "Eine historische Kirche in Lugano, die für ihre religiöse Bedeutung und Architektur geschätzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "Eine moderne römisch-katholische Kirche im Stadtteil Pregassona in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "Eine historische Kirche im Ortsteil Castagnola, die für ihre Panoramalage bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "Ein markantes modernes Kirchengebäude, das dem Schweizer Nationalheiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "Eine Barockkirche am Rande des Luganer Stadtzentrums, nahe dem Seeufer.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "Die Pfarrkirche von Barbengo ist ein geschütztes Kulturgut in der Region Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "Diese barocke Stiftskirche in Gentilino ist für ihre markante Zypressenallee berühmt.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "Eine römisch-katholische Kirche, die als religiöser Treffpunkt in Lugano dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "Eine Basilika aus den 1920er Jahren, die sich im Zentrum von Lugano befindet.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "Die historische Marienkirche befindet sich im Luganer Stadtteil Viganello.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "Eine katholische Kultusstätte in Lugano, die der Heiligen Teresa von Lisieux geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "Ein religiöses Bauwerk in Lugano, das der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Die Kathedrale des Bistums Lugano bietet eine prachtvolle Fassade im Stil der Renaissance.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "Ein markanter Berg südlich von Lugano, der für seine Seilbahn und die weite Aussicht bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "Dieser Aussichtspunkt über Lugano ist als einer der sonnigsten Orte der Schweiz bekannt.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "Ein weitläufiger Park am Seeufer mit einer historischen Villa und bedeutender Architektur.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "Ein Künstlermuseum in Pazzallo, das den Werken des Bildhauers Mario Bernasconi gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "Ein Museum, das dem Leben und Werk der lettischen Dichter Rainis und Aspazija gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "Ein Museum in einer historischen Villa, das wechselnde Kunstausstellungen beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "Eine Gedenkstätte für den berühmten Schweizer Formel-1-Rennfahrer Clay Regazzoni.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "Ein spezialisiertes Museum, das die Geschichte und Technik des Buchdrucks dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "Eine moderne Kunstgalerie im Zentrum von Lugano, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "Ein städtisches Theater in Lugano, das Raum für verschiedene kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "Ein Theaterensemble und Spielort in Lugano, bekannt für seine innovativen Inszenierungen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "Ein herrschaftliches Gebäude im Stadtpark, das für Kunstausstellungen und Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "Eine barocke Kirche im Herzen von Lugano, die für ihre elegante Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "Diese historische Kirche im Zentrum von Lugano besticht durch ihre barocke Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "Eine charmante Dorfkirche im Stadtteil Cassarate, die den Heiligen Bernhard und Martin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "Eine kleine Kirche in Lugano, die als Ort der Andacht und Ruhe dient.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "Ein religiöses Gebäude im Luganer Stadtteil Pazzallo, das der Verkündigung gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "Ein historisches Oratorium im Zentrum von Lugano, das dem Heiligen Sebastian geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "Eine katholische Kirche in Lugano, die nach dem heiligen Karl Borromäus benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "Ein Gotteshaus in Lugano, das der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "Das zentrale Kirchengebäude der evangelisch-reformierten Gemeinde in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "Eine katholische Kirche, die dem Apostel Petrus gewidmet ist und in Lugano liegt.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "Eine kleine Kapelle oder ein Gebetshaus im Gebiet von Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "Ein kleines religiöses Gebäude, das dem Heiligen Martin gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "Das Kirchengebäude der baptistischen Gemeinde in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "Ein Museum oder eine kulturelle Einrichtung, die mit dem Namen der Familie Ciani verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "Ein spezialisiertes Museum in Lugano, das die Entwicklung der Kommunikationstechnik zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "Eine Galerie in Lugano, die sich auf internationale zeitgenössische Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "Eine Galerie in Lugano, die sich der Förderung zeitgenössischer Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "Eine spezialisierte Kunstgalerie, die sich auf Werke auf Papier konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "Eine Galerie in Lugano, die für ihre Ausstellungen im Bereich der Illustrationskunst bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "Eine etablierte Galerie in Lugano, die moderne und zeitgenössische Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "Eine private Kunstgalerie oder ein Ausstellungsraum in Lugano.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "Eine Galerie in Lugano, die eine Auswahl an verschiedenen Kunstwerken präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "Ein bedeutendes Denkmal in Lugano, das den Sklavenanführer Spartacus darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "Lugano művészeti múzeuma az olasz Svájc modern és kortárs művészetének széles skáláját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "Ez a múzeum Ticino kanton flórájának, faunájának és geológiájának szenteli kiállításait.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "Néprajzi múzeum Luganóban, amely az Európán kívüli népek kultúráira szakosodott.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "Történelmi templom Luganóban, amelyet vallási jelentősége és építészete miatt kedvelnek.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "Modern római katolikus templom Lugano Pregassona negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "Történelmi templom Castagnola városrészben, amely panorámás fekvéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "Jellegzetes modern templomépület, amelyet Svájc nemzeti szentjének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "Barokk templom Lugano városközpontjának szélén, a tópart közelében.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "Barbengo plébániatemploma védett kulturális javak közé tartozik Lugano régiójában.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "Ez a barokk apátsági templom Gentilinóban a jellegzetes ciprusfasoráról híres.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "Római katolikus templom, amely vallási találkozóhelyként szolgál Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "Az 1920-as években épült bazilika Lugano központjában található.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "A történelmi Szűz Mária-templom Lugano Viganello negyedében található.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "Lisieux-i Szent Teréznek szentelt katolikus kegyhely Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "Szűz Máriának szentelt vallási épület Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "A Luganói egyházmegye székesegyháza pompás reneszánsz homlokzattal rendelkezik.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "Luganótól délre fekvő jellegzetes hegy, amely siklójáról és tágas kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "Ez a Lugano feletti kilátópont Svájc egyik legnaposabb helyeként ismert.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "Kiterjedt tóparti park történelmi villával és jelentős építészeti elemekkel.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "Művészeti múzeum Pazzallóban, amely Mario Bernasconi szobrász műveinek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "Múzeum, amely Rainis és Aspazija lett költők életének és munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "Történelmi villában található múzeum, amely időszaki művészeti kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "Emlékhely a híres svájci Forma-1-es versenyző, Clay Regazzoni tiszteletére.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "Speciális múzeum, amely a könyvnyomtatás történetét és technikáját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "Modern művészeti galéria Lugano központjában, amely kortárs alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "Luganói városi színház, amely különféle kulturális előadásoknak ad helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "Luganói színházi társulat és játszóhely, amely innovatív előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "Városi parkban található impozáns épület, amelyet művészeti kiállításokra és rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "Barokk templom Lugano szívében, amely elegáns építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "Ez a Lugano központjában található történelmi templom barokk belső díszítésével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "Bájos falusi templom Cassarate negyedben, amelyet Szent Bernátnak és Mártonnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "Kisméretű templom Luganóban, amely az áhítat és a nyugalom helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "Vallási épület Lugano Pazzallo negyedében, amelyet az Angyali üdvözletnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "Történelmi oratórium Lugano központjában, amelyet Szent Sebestyénnek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "Borromeo Szent Károlyról elnevezett katolikus templom Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "A Szentháromságnak szentelt templom Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "A luganói evangélikus-református gyülekezet központi templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "Szent Péter apostolnak szentelt katolikus templom Luganóban.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "Kisméretű kápolna vagy imaház Lugano területén.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "Szent Mártonnak szentelt kisméretű vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "A luganói baptista gyülekezet templomépülete.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "A Ciani család nevéhez fűződő múzeum vagy kulturális intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "Speciális múzeum Luganóban, amely a kommunikációs technológia fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "Luganói galéria, amely a nemzetközi kortárs művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "Luganói galéria, amely a kortárs művészet népszerűsítésének szenteli magát.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "Papír alapú művekre szakosodott művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "Illusztrációs művészetek terén ismert galéria Luganóban.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "Luganói galéria, amely modern és kortárs művészetet állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "Magán művészeti galéria vagy kiállítóhely Luganóban.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "Különféle műalkotások válogatását bemutató galéria Luganóban.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "Lugano jelentős emlékműve, amely Spartacust, a rabszolgavezért ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "Muzeul de artă din Lugano prezintă un spectru larg de artă modernă și contemporană din Elveția italiană.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "Acest muzeu este dedicat florei, faunei și geologiei cantonului Ticino.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "Un muzeu etnografic din Lugano, specializat în culturile popoarelor extraeuropene.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "O biserică istorică din Lugano, apreciată pentru importanța sa religioasă și arhitectură.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "O biserică romano-catolică modernă situată în cartierul Pregassona din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "O biserică istorică din districtul Castagnola, cunoscută pentru locația sa panoramică.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "O clădire de biserică modernă distinctivă, dedicată sfântului național al Elveției.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "O biserică barocă la marginea centrului orașului Lugano, lângă malul lacului.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "Biserica parohială din Barbengo este un bun cultural protejat în regiunea Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "Această biserică abațială barocă din Gentilino este faimoasă pentru aleea sa de chiparoși.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "O biserică romano-catolică care servește ca loc de întâlnire religios în Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "O bazilică din anii 1920, situată în centrul orașului Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "Biserica istorică Sfânta Maria este situată în districtul Viganello din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "Un lăcaș de cult catolic din Lugano, dedicat Sfintei Tereza de Lisieux.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "O structură religioasă din Lugano dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cattedrale di San Lorenzo",
+                  "text": "Catedrala Episcopiei de Lugano oferă o fațadă splendidă în stil renascentist.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "Un munte distinctiv la sud de Lugano, cunoscut pentru funicularul său și priveliștea largă.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "Acest punct de belvedere deasupra Lugano este cunoscut ca unul dintre cele mai însorite locuri din Elveția.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "Un parc vast pe malul lacului, cu o vilă istorică și arhitectură semnificativă.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "Un muzeu de artă în Pazzallo, dedicat lucrărilor sculptorului Mario Bernasconi.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "Un muzeu dedicat vieții și operei poeților letoni Rainis și Aspazija.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "Un muzeu într-o vilă istorică, care găzduiește expoziții de artă temporare.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "O cameră memorială dedicată celebrului pilot elvețian de Formula 1, Clay Regazzoni.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "Un muzeu specializat care documentează istoria și tehnica tiparului.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "O galerie de artă modernă în centrul orașului Lugano, care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "Un teatru municipal din Lugano care oferă spațiu pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "O companie de teatru și locație din Lugano, cunoscută pentru producțiile sale inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "O clădire impunătoare în parcul orașului, utilizată pentru expoziții de artă și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "O biserică barocă în inima orașului Lugano, cunoscută pentru arhitectura sa elegantă.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "Această biserică istorică din centrul orașului Lugano impresionează prin decorul său interior baroc.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "O biserică fermecătoare de sat în districtul Cassarate, dedicată Sfinților Bernard și Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "O mică biserică din Lugano care servește ca loc de devoțiune și liniște.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "O clădire religioasă în districtul Pazzallo din Lugano, dedicată Bunei Vestiri.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "Un oratoriu istoric în centrul orașului Lugano, dedicat Sfântului Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "O biserică catolică din Lugano, numită după Sfântul Carol Borromeo.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "Un lăcaș de cult în Lugano dedicat Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "Clădirea centrală a bisericii comunității evanghelice reformate din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "O biserică catolică dedicată Sfântului Petru, situată în Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "O mică capelă sau casă de rugăciune în zona Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "O mică clădire religioasă dedicată Sfântului Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "Clădirea bisericii comunității baptiste din Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "Un muzeu sau o instituție culturală asociată cu numele familiei Ciani.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "Un muzeu specializat din Lugano care prezintă evoluția tehnologiei de comunicare.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "O galerie din Lugano care se concentrează pe arta contemporană internațională.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "O galerie din Lugano dedicată promovării artei contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "O galerie de artă specializată, concentrată pe lucrări pe hârtie.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "O galerie din Lugano cunoscută pentru expozițiile sale de artă ilustrativă.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "O galerie stabilită în Lugano care expune artă modernă și contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "O galerie de artă privată sau spațiu expozițional în Lugano.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "O galerie în Lugano care prezintă o selecție de diverse opere de artă.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "Un monument important din Lugano, reprezentându-l pe conducătorul sclavilor, Spartacus.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo d'arte della Svizzera italiana",
+                  "text": "The art museum in Lugano presents a wide spectrum of modern and contemporary art from Italian-speaking Switzerland.",
+                  "category": "museum",
+                  "coords": [
+                        8.948178,
+                        45.999155
+                  ]
+            },
+            {
+                  "name": "Museo cantonale di storia naturale",
+                  "text": "This museum is dedicated to the flora, fauna, and geology of the canton of Ticino.",
+                  "category": "museum",
+                  "coords": [
+                        8.960631,
+                        46.004141
+                  ]
+            },
+            {
+                  "name": "Museo delle Culture",
+                  "text": "An ethnographic museum in Lugano specialized in the cultures of non-European peoples.",
+                  "category": "museum",
+                  "coords": [
+                        8.946647,
+                        45.996349
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Lucia",
+                  "text": "A historic church in Lugano appreciated for its religious significance and architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.942939,
+                        46.012501
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Massimiliano Kolbe",
+                  "text": "A modern Roman Catholic church located in the Pregassona district of Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.968622,
+                        46.02512
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giorgio",
+                  "text": "A historical church in the Castagnola district, known for its panoramic location.",
+                  "category": "religious",
+                  "coords": [
+                        8.978062,
+                        46.002544
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Nicolao della Flüe",
+                  "text": "A distinctive modern church building dedicated to the national saint of Switzerland.",
+                  "category": "religious",
+                  "coords": [
+                        8.941211,
+                        46.006514
+                  ]
+            },
+            {
+                  "name": "Chiesa di Loreto",
+                  "text": "A Baroque church on the edge of Lugano's city center, near the lakeshore.",
+                  "category": "religious",
+                  "coords": [
+                        8.945382,
+                        45.997938
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Quirico e Giulitta",
+                  "text": "The parish church of Barbengo is a protected cultural asset in the Lugano region.",
+                  "category": "religious",
+                  "coords": [
+                        8.925653,
+                        46.003048
+                  ]
+            },
+            {
+                  "name": "Chiesa Parrocchiale di Sant'Abbondio",
+                  "text": "This Baroque collegiate church in Gentilino is famous for its distinctive cypress avenue.",
+                  "category": "religious",
+                  "coords": [
+                        8.927941,
+                        45.988455
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Giuseppe",
+                  "text": "A Roman Catholic church serving as a religious meeting point in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.950766,
+                        46.006444
+                  ]
+            },
+            {
+                  "name": "Chiesa del Sacro Cuore",
+                  "text": "A basilica from the 1920s located in the center of Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.955783,
+                        46.010448
+                  ]
+            },
+            {
+                  "name": "Chiesa Santa Maria di Pazzalino",
+                  "text": "The historical Saint Mary church is located in the Viganello district of Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.97458,
+                        46.016825
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Teresa di Lisieux",
+                  "text": "A Catholic place of worship in Lugano dedicated to Saint Therese of Lisieux.",
+                  "category": "religious",
+                  "coords": [
+                        8.96697,
+                        46.011003
+                  ]
+            },
+            {
+                  "name": "Santa Maria dello Stradone",
+                  "text": "A religious structure in Lugano dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        8.956811,
+                        46.011825
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Lawrence",
+                  "text": "The cathedral of the Diocese of Lugano features a magnificent Renaissance facade.",
+                  "category": "landmark",
+                  "coords": [
+                        8.948551,
+                        46.004609
+                  ]
+            },
+            {
+                  "name": "Monte San Salvatore",
+                  "text": "A prominent mountain south of Lugano known for its funicular and expansive views.",
+                  "category": "natural",
+                  "coords": [
+                        8.947302,
+                        45.977112
+                  ]
+            },
+            {
+                  "name": "Monte Bre",
+                  "text": "This viewpoint above Lugano is known as one of the sunniest spots in Switzerland.",
+                  "category": "natural",
+                  "coords": [
+                        8.98741,
+                        46.009085
+                  ]
+            },
+            {
+                  "name": "Villa Favorita",
+                  "text": "An extensive lakeside park featuring a historical villa and significant architecture.",
+                  "category": "park",
+                  "coords": [
+                        8.975808,
+                        46.001391
+                  ]
+            },
+            {
+                  "name": "Museo Mario Bernasconi",
+                  "text": "An art museum in Pazzallo dedicated to the works of sculptor Mario Bernasconi.",
+                  "category": "museum",
+                  "coords": [
+                        8.94263,
+                        45.984087
+                  ]
+            },
+            {
+                  "name": "Museo Rainis e Aspazija",
+                  "text": "A museum dedicated to the life and work of Latvian poets Rainis and Aspazija.",
+                  "category": "museum",
+                  "coords": [
+                        8.977264,
+                        46.001543
+                  ]
+            },
+            {
+                  "name": "Museo Villa Pia",
+                  "text": "A museum in a historical villa that hosts rotating art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        8.95258,
+                        46.026192
+                  ]
+            },
+            {
+                  "name": "Memorial Room Clay Regazzoni",
+                  "text": "A memorial room dedicated to the famous Swiss Formula 1 driver Clay Regazzoni.",
+                  "category": "museum",
+                  "coords": [
+                        8.974049,
+                        46.026448
+                  ]
+            },
+            {
+                  "name": "Museo della Tipografia Renato Fontana",
+                  "text": "A specialized museum documenting the history and technique of typography.",
+                  "category": "museum",
+                  "coords": [
+                        8.969391,
+                        46.028022
+                  ]
+            },
+            {
+                  "name": "Absolute Art Gallery",
+                  "text": "A modern art gallery in the center of Lugano presenting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        8.957603,
+                        46.00615
+                  ]
+            },
+            {
+                  "name": "Teatro Foce",
+                  "text": "A municipal theatre in Lugano providing space for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        8.961374,
+                        46.005613
+                  ]
+            },
+            {
+                  "name": "Teatro Pan",
+                  "text": "A theatre company and venue in Lugano known for its innovative productions.",
+                  "category": "cultural",
+                  "coords": [
+                        8.96032,
+                        46.006622
+                  ]
+            },
+            {
+                  "name": "Villa Ciani",
+                  "text": "A stately building in the city park used for art exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        8.956542,
+                        46.00463
+                  ]
+            },
+            {
+                  "name": "Chiesa San Rocco",
+                  "text": "A Baroque church in the heart of Lugano known for its elegant architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.95394,
+                        46.004576
+                  ]
+            },
+            {
+                  "name": "Chiesa di Sant'Antonio Abate",
+                  "text": "This historical church in the center of Lugano stands out for its Baroque interior decoration.",
+                  "category": "religious",
+                  "coords": [
+                        8.951436,
+                        46.004887
+                  ]
+            },
+            {
+                  "name": "Chiesa dei Santi Bernardino e Martino",
+                  "text": "A charming village church in the Cassarate district dedicated to Saints Bernard and Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.954628,
+                        46.027332
+                  ]
+            },
+            {
+                  "name": "Madonna della Salute",
+                  "text": "A small church in Lugano serving as a place of devotion and quiet.",
+                  "category": "religious",
+                  "coords": [
+                        8.943474,
+                        46.010747
+                  ]
+            },
+            {
+                  "name": "Chiesa di Santa Maria dell'Annunciazione",
+                  "text": "A religious building in the Pazzallo district of Lugano dedicated to the Annunciation.",
+                  "category": "religious",
+                  "coords": [
+                        8.922491,
+                        45.998351
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Sebastiano",
+                  "text": "A historical oratory in the center of Lugano dedicated to Saint Sebastian.",
+                  "category": "religious",
+                  "coords": [
+                        8.929164,
+                        46.006702
+                  ]
+            },
+            {
+                  "name": "Chiesa di San Carlo Borromeo",
+                  "text": "A Catholic church in Lugano named after Saint Charles Borromeo.",
+                  "category": "religious",
+                  "coords": [
+                        8.949659,
+                        46.002707
+                  ]
+            },
+            {
+                  "name": "Chiesa della Santissima Trinità",
+                  "text": "A place of worship in Lugano dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        8.949276,
+                        46.008285
+                  ]
+            },
+            {
+                  "name": "Chiesa riformata",
+                  "text": "The central church building of the Evangelical Reformed community in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.959024,
+                        46.005405
+                  ]
+            },
+            {
+                  "name": "San Pietro",
+                  "text": "A Catholic church dedicated to Saint Peter, located in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.935786,
+                        45.986223
+                  ]
+            },
+            {
+                  "name": "Oratorio di San Pietro delle Erbette",
+                  "text": "A small chapel or house of prayer in the Lugano area.",
+                  "category": "religious",
+                  "coords": [
+                        8.969902,
+                        46.006047
+                  ]
+            },
+            {
+                  "name": "Chiesa-oratorio di San Martino",
+                  "text": "A small religious building dedicated to Saint Martin.",
+                  "category": "religious",
+                  "coords": [
+                        8.940689,
+                        46.026332
+                  ]
+            },
+            {
+                  "name": "Chiesa Evangelica Battista Betel",
+                  "text": "The church building of the Baptist community in Lugano.",
+                  "category": "religious",
+                  "coords": [
+                        8.952329,
+                        46.010052
+                  ]
+            },
+            {
+                  "name": "fondazione Filippo Ciani",
+                  "text": "A museum or cultural institution associated with the name of the Ciani family.",
+                  "category": "museum",
+                  "coords": [
+                        8.956545,
+                        46.005898
+                  ]
+            },
+            {
+                  "name": "Dal tam-tam alla radio digitale",
+                  "text": "A specialized museum in Lugano showing the evolution of communication technology.",
+                  "category": "museum",
+                  "coords": [
+                        8.941213,
+                        46.019152
+                  ]
+            },
+            {
+                  "name": "Imago Art Gallery",
+                  "text": "A gallery in Lugano focusing on international contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.949495,
+                        46.00165
+                  ]
+            },
+            {
+                  "name": "[dip]",
+                  "text": "A gallery in Lugano dedicated to the promotion of contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.953107,
+                        46.011052
+                  ]
+            },
+            {
+                  "name": "Galleria Art on... Paper",
+                  "text": "A specialized art gallery focusing on works on paper.",
+                  "category": "museum",
+                  "coords": [
+                        8.944946,
+                        45.992563
+                  ]
+            },
+            {
+                  "name": "Marco Lucchetti Art Gallery",
+                  "text": "A gallery in Lugano known for its exhibitions in the field of illustrative art.",
+                  "category": "museum",
+                  "coords": [
+                        8.949646,
+                        46.00445
+                  ]
+            },
+            {
+                  "name": "Galleria Doppia V",
+                  "text": "An established gallery in Lugano exhibiting modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.942879,
+                        46.0056
+                  ]
+            },
+            {
+                  "name": "Antimo Bertolino",
+                  "text": "A private art gallery or exhibition space in Lugano.",
+                  "category": "museum",
+                  "coords": [
+                        8.958335,
+                        46.007104
+                  ]
+            },
+            {
+                  "name": "SofiArt Gallery",
+                  "text": "A gallery in Lugano presenting a selection of various artworks.",
+                  "category": "museum",
+                  "coords": [
+                        8.946053,
+                        45.993608
+                  ]
+            },
+            {
+                  "name": "Lo Spartaco di Vela",
+                  "text": "A significant monument in Lugano representing the slave leader Spartacus.",
+                  "category": "historical",
+                  "coords": [
+                        8.951329,
+                        46.003367
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.9536, 46.0037],
@@ -928,7 +14320,1168 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-biel-bienne",
+    id: "city-biel-bienne", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Nidau",
+                  "text": "Ein historisches Schloss in Nidau, das heute das Museum zur Juragewässerkorrektion beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        7.239887,
+                        47.1276
+                  ]
+            },
+            {
+                  "name": "Stadttheater Biel",
+                  "text": "Ein bedeutendes Theater in Biel, das verschiedene Aufführungen und kulturelle Veranstaltungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.245082,
+                        47.141022
+                  ]
+            },
+            {
+                  "name": "Stiftung Pasquart",
+                  "text": "Ein Museum für zeitgenössische Kunst in Biel, das sich in einer ehemaligen Industrieanlage befindet.",
+                  "category": "museum",
+                  "coords": [
+                        7.240085,
+                        47.138848
+                  ]
+            },
+            {
+                  "name": "Cité du Temps / Omega Museum",
+                  "text": "Ein Museum in Biel, das der Geschichte der Uhrenmarken Omega und Swatch gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.260806,
+                        47.144003
+                  ]
+            },
+            {
+                  "name": "NMB Neues Museum Biel",
+                  "text": "Das Neue Museum Biel vereint Archäologie, Geschichte und Kunst in einem interdisziplinären Rahmen.",
+                  "category": "museum",
+                  "coords": [
+                        7.242197,
+                        47.139075
+                  ]
+            },
+            {
+                  "name": "Nebia",
+                  "text": "Ein bekanntes Theater in Biel, das ein breites Spektrum an Bühnenkunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.244713,
+                        47.133722
+                  ]
+            },
+            {
+                  "name": "Nebia Poche",
+                  "text": "Eine kleinere Theaterbühne in Biel für intime Aufführungen und Kleinkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        7.246408,
+                        47.141999
+                  ]
+            },
+            {
+                  "name": "Haus Schwab",
+                  "text": "Ein Museum in Biel, das Teil des NMB ist und bedeutende archäologische Sammlungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.241236,
+                        47.138591
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Grenouille",
+                  "text": "Ein Theater in Biel, das sich auf innovative Aufführungen für ein junges Publikum konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.266586,
+                        47.143927
+                  ]
+            },
+            {
+                  "name": "Centre Müller",
+                  "text": "Ein Museum in Biel, das historische Maschinen und technische Entwicklungen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        7.23902,
+                        47.132952
+                  ]
+            },
+            {
+                  "name": "Felseck",
+                  "text": "Ein Naturschutzgebiet bei Biel, das Lebensraum für geschützte Pflanzen und Tiere bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.23056,
+                        47.135389
+                  ]
+            },
+            {
+                  "name": "Tierpark Biel",
+                  "text": "Ein Tierpark in Biel, in dem einheimische Wildtiere in natürlicher Umgebung beobachtet werden können.",
+                  "category": "recreational",
+                  "coords": [
+                        7.267529,
+                        47.157947
+                  ]
+            },
+            {
+                  "name": "Hundemätteli",
+                  "text": "Ein Strandabschnitt am Bielersee, der zum Entspannen und Baden einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        7.23173,
+                        47.126225
+                  ]
+            },
+            {
+                  "name": "Taubenlochschlucht",
+                  "text": "Eine beeindruckende und wildromantische Schlucht am Fusse des Juras bei Biel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265687,
+                        47.154338
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Eine öffentliche Parkanlage in Biel, die als grüne Oase im Stadtzentrum dient.",
+                  "category": "park",
+                  "coords": [
+                        7.254436,
+                        47.141202
+                  ]
+            },
+            {
+                  "name": "Birlig",
+                  "text": "Ein Aussichtspunkt in Biel, der einen weiten Blick über die Stadt und die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.239057,
+                        47.112224
+                  ]
+            },
+            {
+                  "name": "Rothgärtli",
+                  "text": "Ein Ort in Biel mit schöner Aussicht auf die nähere Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        7.260118,
+                        47.152793
+                  ]
+            },
+            {
+                  "name": "Galerie 95",
+                  "text": "Eine Galerie in Biel, die sich der Präsentation zeitgenössischer Kunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.240322,
+                        47.133952
+                  ]
+            },
+            {
+                  "name": "Oberes Ried",
+                  "text": "Ein Aussichtspunkt, der einen Überblick über die Landschaft bei Biel ermöglicht.",
+                  "category": "natural",
+                  "coords": [
+                        7.256922,
+                        47.152498
+                  ]
+            },
+            {
+                  "name": "Dessin & Découverte",
+                  "text": "Ein Kunstzentrum in Biel, das Kreativität und künstlerische Entdeckung fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.239191,
+                        47.136842
+                  ]
+            },
+            {
+                  "name": "Sikahirsch",
+                  "text": "Eine Attraktion in Biel, bei der Sikahirsche beobachtet werden können.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266692,
+                        47.159087
+                  ]
+            },
+            {
+                  "name": "Alpensteinbock / Bouquetin des Alpes",
+                  "text": "Eine Attraktion im Tierpark Biel, die dem majestätischen Alpensteinbock gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265776,
+                        47.156687
+                  ]
+            },
+            {
+                  "name": "Alpenmurmeltier / Marmotte des Alpes",
+                  "text": "Eine Attraktion im Tierpark Biel, die Einblicke in das Leben der Alpenmurmeltiere gibt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266142,
+                        47.157643
+                  ]
+            },
+            {
+                  "name": "Beachtown",
+                  "text": "Eine Freizeitanlage am See in Biel mit Strandatmosphäre.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233748,
+                        47.132282
+                  ]
+            },
+            {
+                  "name": "Pasquart-Kirche",
+                  "text": "Eine markante Kirche in Biel, die im neugotischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        7.241808,
+                        47.140273
+                  ]
+            },
+            {
+                  "name": "Römisch-katholische Pfarrei Bruder Klaus",
+                  "text": "Eine römisch-katholische Kirche in Biel, die als Gemeindezentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        7.250967,
+                        47.131588
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Eine moderne christliche Kirche und Begegnungsstätte in Biel.",
+                  "category": "religious",
+                  "coords": [
+                        7.256198,
+                        47.132291
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "Eine katholische Kirche in Biel mit Bedeutung für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        7.249854,
+                        47.14488
+                  ]
+            },
+            {
+                  "name": "Epiphanie-Kirche",
+                  "text": "Ein christliches Gotteshaus in Biel für Gottesdienste und Besinnung.",
+                  "category": "religious",
+                  "coords": [
+                        7.245052,
+                        47.14277
+                  ]
+            },
+            {
+                  "name": "St. Erhard",
+                  "text": "Ein religiöser Ort in Biel für die Ausübung des Glaubens.",
+                  "category": "religious",
+                  "coords": [
+                        7.240371,
+                        47.125084
+                  ]
+            },
+            {
+                  "name": "Calvinhaus",
+                  "text": "Ein historisches Gebäude in Biel, das mit der reformierten Kirche verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.274279,
+                        47.143073
+                  ]
+            },
+            {
+                  "name": "Mathäus-Zentrum",
+                  "text": "Ein kirchliches Zentrum in Biel für religiöse und soziale Aktivitäten.",
+                  "category": "religious",
+                  "coords": [
+                        7.255544,
+                        47.117257
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Nidau",
+                  "text": "Történelmi kastély Nidauban, amely ma a jura-vízszabályozás múzeumának ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        7.239887,
+                        47.1276
+                  ]
+            },
+            {
+                  "name": "Stadttheater Biel",
+                  "text": "Jelentős színház Bielben, amely különféle előadásokat és kulturális eseményeket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        7.245082,
+                        47.141022
+                  ]
+            },
+            {
+                  "name": "Pasquart",
+                  "text": "Kortárs művészeti múzeum Bielben, amely egy egykori ipari létesítményben található.",
+                  "category": "museum",
+                  "coords": [
+                        7.240085,
+                        47.138848
+                  ]
+            },
+            {
+                  "name": "Cité du Temps / Omega Museum",
+                  "text": "Az Omega és Swatch óramárkák történetének szentelt múzeum Bielben.",
+                  "category": "museum",
+                  "coords": [
+                        7.260806,
+                        47.144003
+                  ]
+            },
+            {
+                  "name": "NMB Neues Museum Biel / NMB Nouveau Musée Bienne",
+                  "text": "A Biel Új Múzeum a régészetet, a történelmet és a művészetet ötvözi interdiszciplináris keretek között.",
+                  "category": "museum",
+                  "coords": [
+                        7.242197,
+                        47.139075
+                  ]
+            },
+            {
+                  "name": "Nebia",
+                  "text": "Ismert színház Bielben, amely a színművészet széles skáláját mutatja be.",
+                  "category": "cultural",
+                  "coords": [
+                        7.244713,
+                        47.133722
+                  ]
+            },
+            {
+                  "name": "Nebia Poche",
+                  "text": "Kisebb színházi színpad Bielben intim előadások és kamaraművészet számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.246408,
+                        47.141999
+                  ]
+            },
+            {
+                  "name": "Haus Schwab",
+                  "text": "Az NMB részét képező múzeum Bielben, amely jelentős régészeti gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.241236,
+                        47.138591
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Grenouille",
+                  "text": "Fiatal közönségnek szóló, innovatív előadásokra összpontosító színház Bielben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.266586,
+                        47.143927
+                  ]
+            },
+            {
+                  "name": "Centre Müller",
+                  "text": "Történelmi gépeket és műszaki fejlesztéseket bemutató múzeum Bielben.",
+                  "category": "museum",
+                  "coords": [
+                        7.23902,
+                        47.132952
+                  ]
+            },
+            {
+                  "name": "Felseck",
+                  "text": "Biel közeli természetvédelmi terület, amely védett növények és állatok élőhelye.",
+                  "category": "natural",
+                  "coords": [
+                        7.23056,
+                        47.135389
+                  ]
+            },
+            {
+                  "name": "Tierpark Biel / Parc Zoologique Bienne",
+                  "text": "Vadaspark Bielben, ahol őshonos vadon élő állatok figyelhetők meg természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        7.267529,
+                        47.157947
+                  ]
+            },
+            {
+                  "name": "Hundemätteli",
+                  "text": "Strandszakasz a Bieli-tó partján, amely pihenésre és fürdőzésre csábít.",
+                  "category": "recreational",
+                  "coords": [
+                        7.23173,
+                        47.126225
+                  ]
+            },
+            {
+                  "name": "Taubenlochschlucht",
+                  "text": "Lenyűgöző és vadregényes szurdok a Jura lábánál, Biel közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265687,
+                        47.154338
+                  ]
+            },
+            {
+                  "name": "Parc municipal / Stadtpark",
+                  "text": "Nyilvános park Bielben, amely zöld oázisként szolgál a városközpontban.",
+                  "category": "park",
+                  "coords": [
+                        7.254436,
+                        47.141202
+                  ]
+            },
+            {
+                  "name": "Birlig",
+                  "text": "Kilátópont Bielben, amely széles kilátást nyújt a városra és környékére.",
+                  "category": "natural",
+                  "coords": [
+                        7.239057,
+                        47.112224
+                  ]
+            },
+            {
+                  "name": "Rothgärtli",
+                  "text": "Szép kilátással rendelkező helyszín Bielben a közeli környezetre.",
+                  "category": "natural",
+                  "coords": [
+                        7.260118,
+                        47.152793
+                  ]
+            },
+            {
+                  "name": "Galerie 95",
+                  "text": "A kortárs művészet bemutatásának szentelt galéria Bielben.",
+                  "category": "museum",
+                  "coords": [
+                        7.240322,
+                        47.133952
+                  ]
+            },
+            {
+                  "name": "Oberes Ried",
+                  "text": "Kilátópont, amely áttekintést nyújt a Biel környéki tájról.",
+                  "category": "natural",
+                  "coords": [
+                        7.256922,
+                        47.152498
+                  ]
+            },
+            {
+                  "name": "Dessin & Découverte",
+                  "text": "Művészeti központ Bielben, amely ösztönzi a kreativitást és a művészi felfedezést.",
+                  "category": "cultural",
+                  "coords": [
+                        7.239191,
+                        47.136842
+                  ]
+            },
+            {
+                  "name": "Sikahirsch",
+                  "text": "Látványosság Bielben, ahol szikaszarvasok figyelhetők meg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266692,
+                        47.159087
+                  ]
+            },
+            {
+                  "name": "Alpensteinbock / Bouquetin des Alpes",
+                  "text": "A bieli vadaspark látványossága, amelyet a fenséges alpesi kőszalinak szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265776,
+                        47.156687
+                  ]
+            },
+            {
+                  "name": "Alpenmurmeltier / Marmotte des Alpes",
+                  "text": "A bieli vadaspark látványossága, amely betekintést nyújt az alpesi mormoták életébe.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266142,
+                        47.157643
+                  ]
+            },
+            {
+                  "name": "Beachtown",
+                  "text": "Tóparti szabadidős létesítmény Bielben, strandhangulattal.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233748,
+                        47.132282
+                  ]
+            },
+            {
+                  "name": "Pasquart-Kirche / Eglise du Pasquart",
+                  "text": "Jellegzetes, neogótikus stílusban épült templom Bielben.",
+                  "category": "religious",
+                  "coords": [
+                        7.241808,
+                        47.140273
+                  ]
+            },
+            {
+                  "name": "Römisch-katholische Pfarrei Bruder Klaus",
+                  "text": "Római katolikus templom Bielben, amely közösségi központként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        7.250967,
+                        47.131588
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Paul - Pauluskirche",
+                  "text": "Modern keresztény templom és találkozóhely Bielben.",
+                  "category": "religious",
+                  "coords": [
+                        7.256198,
+                        47.132291
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "Katolikus templom Bielben, amely jelentős a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.249854,
+                        47.14488
+                  ]
+            },
+            {
+                  "name": "Epiphanie-Kirche",
+                  "text": "Keresztény templom Bielben istentiszteletek és elmélyülés számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.245052,
+                        47.14277
+                  ]
+            },
+            {
+                  "name": "St. Erhard",
+                  "text": "Vallási helyszín Bielben a hitélet gyakorlására.",
+                  "category": "religious",
+                  "coords": [
+                        7.240371,
+                        47.125084
+                  ]
+            },
+            {
+                  "name": "Maison du Calvin / Calvinhaus",
+                  "text": "Történelmi épület Bielben, amely a református egyházhoz kötődik.",
+                  "category": "religious",
+                  "coords": [
+                        7.274279,
+                        47.143073
+                  ]
+            },
+            {
+                  "name": "Mathäus-Zentrum",
+                  "text": "Egyházi központ Bielben vallási és szociális tevékenységek számára.",
+                  "category": "religious",
+                  "coords": [
+                        7.255544,
+                        47.117257
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Nidau",
+                  "text": "Un castel istoric din Nidau care găzduiește astăzi muzeul corectării apelor din Jura.",
+                  "category": "castle",
+                  "coords": [
+                        7.239887,
+                        47.1276
+                  ]
+            },
+            {
+                  "name": "Stadttheater Biel",
+                  "text": "Un teatru important din Biel, care oferă diverse spectacole și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.245082,
+                        47.141022
+                  ]
+            },
+            {
+                  "name": "Pasquart",
+                  "text": "Un muzeu de artă contemporană din Biel, situat într-o fostă unitate industrială.",
+                  "category": "museum",
+                  "coords": [
+                        7.240085,
+                        47.138848
+                  ]
+            },
+            {
+                  "name": "Cité du Temps / Omega Museum",
+                  "text": "Un muzeu din Biel dedicat istoriei mărcilor de ceasuri Omega și Swatch.",
+                  "category": "museum",
+                  "coords": [
+                        7.260806,
+                        47.144003
+                  ]
+            },
+            {
+                  "name": "NMB Neues Museum Biel / NMB Nouveau Musée Bienne",
+                  "text": "Noul Muzeu din Biel îmbină arheologia, istoria și arta într-un cadru interdisciplinar.",
+                  "category": "museum",
+                  "coords": [
+                        7.242197,
+                        47.139075
+                  ]
+            },
+            {
+                  "name": "Nebia",
+                  "text": "Un teatru cunoscut din Biel care prezintă o gamă largă de arte scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        7.244713,
+                        47.133722
+                  ]
+            },
+            {
+                  "name": "Nebia Poche",
+                  "text": "O scenă de teatru mai mică din Biel pentru spectacole intime și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        7.246408,
+                        47.141999
+                  ]
+            },
+            {
+                  "name": "Haus Schwab",
+                  "text": "Un muzeu din Biel, parte a NMB, care expune colecții arheologice importante.",
+                  "category": "museum",
+                  "coords": [
+                        7.241236,
+                        47.138591
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Grenouille",
+                  "text": "Un teatru din Biel care se concentrează pe spectacole inovatoare pentru un public tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        7.266586,
+                        47.143927
+                  ]
+            },
+            {
+                  "name": "Centre Müller",
+                  "text": "Un muzeu din Biel care expune utilaje istorice și dezvoltări tehnice.",
+                  "category": "museum",
+                  "coords": [
+                        7.23902,
+                        47.132952
+                  ]
+            },
+            {
+                  "name": "Felseck",
+                  "text": "O rezervație naturală lângă Biel care oferă habitat pentru plante și animale protejate.",
+                  "category": "natural",
+                  "coords": [
+                        7.23056,
+                        47.135389
+                  ]
+            },
+            {
+                  "name": "Tierpark Biel / Parc Zoologique Bienne",
+                  "text": "Un parc zoologic din Biel unde pot fi observate animale sălbatice locale în mediul lor natural.",
+                  "category": "recreational",
+                  "coords": [
+                        7.267529,
+                        47.157947
+                  ]
+            },
+            {
+                  "name": "Hundemätteli",
+                  "text": "O secțiune de plajă pe malul lacului Biel, care invită la relaxare și scăldat.",
+                  "category": "recreational",
+                  "coords": [
+                        7.23173,
+                        47.126225
+                  ]
+            },
+            {
+                  "name": "Taubenlochschlucht",
+                  "text": "Un chei impresionant și sălbatic de la poalele Jurei, lângă Biel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265687,
+                        47.154338
+                  ]
+            },
+            {
+                  "name": "Parc municipal / Stadtpark",
+                  "text": "Un parc public din Biel care servește ca o oază de verdeață în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        7.254436,
+                        47.141202
+                  ]
+            },
+            {
+                  "name": "Birlig",
+                  "text": "Un punct de belvedere din Biel care oferă o vedere amplă asupra orașului și a împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        7.239057,
+                        47.112224
+                  ]
+            },
+            {
+                  "name": "Rothgärtli",
+                  "text": "Un loc din Biel cu o vedere frumoasă asupra împrejurimilor imediate.",
+                  "category": "natural",
+                  "coords": [
+                        7.260118,
+                        47.152793
+                  ]
+            },
+            {
+                  "name": "Galerie 95",
+                  "text": "O galerie din Biel dedicată prezentării artei contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        7.240322,
+                        47.133952
+                  ]
+            },
+            {
+                  "name": "Oberes Ried",
+                  "text": "Un punct de belvedere care permite o vedere de ansamblu asupra peisajului de lângă Biel.",
+                  "category": "natural",
+                  "coords": [
+                        7.256922,
+                        47.152498
+                  ]
+            },
+            {
+                  "name": "Dessin & Découverte",
+                  "text": "Un centru de artă din Biel care promovează creativitatea și descoperirea artistică.",
+                  "category": "cultural",
+                  "coords": [
+                        7.239191,
+                        47.136842
+                  ]
+            },
+            {
+                  "name": "Sikahirsch",
+                  "text": "O atracție din Biel unde pot fi observați cerbi Sika.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266692,
+                        47.159087
+                  ]
+            },
+            {
+                  "name": "Alpensteinbock / Bouquetin des Alpes",
+                  "text": "O atracție din parcul zoologic din Biel dedicată maiestuosului ibex alpin.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265776,
+                        47.156687
+                  ]
+            },
+            {
+                  "name": "Alpenmurmeltier / Marmotte des Alpes",
+                  "text": "O atracție din parcul zoologic din Biel care oferă perspective asupra vieții marmotelor alpine.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266142,
+                        47.157643
+                  ]
+            },
+            {
+                  "name": "Beachtown",
+                  "text": "O facilitate de recreere pe malul lacului în Biel, cu atmosferă de plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233748,
+                        47.132282
+                  ]
+            },
+            {
+                  "name": "Pasquart-Kirche / Eglise du Pasquart",
+                  "text": "O biserică remarcabilă din Biel, construită în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        7.241808,
+                        47.140273
+                  ]
+            },
+            {
+                  "name": "Römisch-katholische Pfarrei Bruder Klaus",
+                  "text": "O biserică romano-catolică din Biel care servește ca centru comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        7.250967,
+                        47.131588
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Paul - Pauluskirche",
+                  "text": "O biserică creștină modernă și loc de întâlnire în Biel.",
+                  "category": "religious",
+                  "coords": [
+                        7.256198,
+                        47.132291
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "O biserică catolică din Biel, importantă pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        7.249854,
+                        47.14488
+                  ]
+            },
+            {
+                  "name": "Epiphanie-Kirche",
+                  "text": "Un lăcaș de cult creștin din Biel pentru slujbe și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        7.245052,
+                        47.14277
+                  ]
+            },
+            {
+                  "name": "St. Erhard",
+                  "text": "Un loc religios din Biel pentru practicarea credinței.",
+                  "category": "religious",
+                  "coords": [
+                        7.240371,
+                        47.125084
+                  ]
+            },
+            {
+                  "name": "Maison du Calvin / Calvinhaus",
+                  "text": "O clădire istorică din Biel, legată de biserica reformată.",
+                  "category": "religious",
+                  "coords": [
+                        7.274279,
+                        47.143073
+                  ]
+            },
+            {
+                  "name": "Mathäus-Zentrum",
+                  "text": "Un centru bisericesc din Biel pentru activități religioase și sociale.",
+                  "category": "religious",
+                  "coords": [
+                        7.255544,
+                        47.117257
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Nidau",
+                  "text": "A historic castle in Nidau that now houses the museum of the Jura waters correction.",
+                  "category": "castle",
+                  "coords": [
+                        7.239887,
+                        47.1276
+                  ]
+            },
+            {
+                  "name": "Stadttheater Biel",
+                  "text": "A prominent theatre in Biel offering various performances and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.245082,
+                        47.141022
+                  ]
+            },
+            {
+                  "name": "Pasquart Kunsthaus",
+                  "text": "A museum of contemporary art in Biel located in a former industrial facility.",
+                  "category": "museum",
+                  "coords": [
+                        7.240085,
+                        47.138848
+                  ]
+            },
+            {
+                  "name": "Cité du Temps / Omega Museum",
+                  "text": "A museum in Biel dedicated to the history of the Omega and Swatch watch brands.",
+                  "category": "museum",
+                  "coords": [
+                        7.260806,
+                        47.144003
+                  ]
+            },
+            {
+                  "name": "NMB Neues Museum Biel / NMB Nouveau Musée Bienne",
+                  "text": "The New Museum Biel combines archaeology, history, and art in an interdisciplinary setting.",
+                  "category": "museum",
+                  "coords": [
+                        7.242197,
+                        47.139075
+                  ]
+            },
+            {
+                  "name": "Nebia",
+                  "text": "A well-known theatre in Biel presenting a wide spectrum of performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        7.244713,
+                        47.133722
+                  ]
+            },
+            {
+                  "name": "Nebia Poche",
+                  "text": "A smaller theatre stage in Biel for intimate performances and cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        7.246408,
+                        47.141999
+                  ]
+            },
+            {
+                  "name": "Haus Schwab",
+                  "text": "A museum in Biel that is part of the NMB and displays significant archaeological collections.",
+                  "category": "museum",
+                  "coords": [
+                        7.241236,
+                        47.138591
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Grenouille",
+                  "text": "A theatre in Biel focusing on innovative performances for a young audience.",
+                  "category": "cultural",
+                  "coords": [
+                        7.266586,
+                        47.143927
+                  ]
+            },
+            {
+                  "name": "Centre Müller",
+                  "text": "A museum in Biel exhibiting historical machinery and technical developments.",
+                  "category": "museum",
+                  "coords": [
+                        7.23902,
+                        47.132952
+                  ]
+            },
+            {
+                  "name": "Felseck",
+                  "text": "A nature reserve near Biel providing habitat for protected plants and animals.",
+                  "category": "natural",
+                  "coords": [
+                        7.23056,
+                        47.135389
+                  ]
+            },
+            {
+                  "name": "Tierpark Biel / Parc Zoologique Bienne",
+                  "text": "A zoo in Biel where local wildlife can be observed in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        7.267529,
+                        47.157947
+                  ]
+            },
+            {
+                  "name": "Hundemätteli",
+                  "text": "A beach section on Lake Biel inviting visitors to relax and swim.",
+                  "category": "recreational",
+                  "coords": [
+                        7.23173,
+                        47.126225
+                  ]
+            },
+            {
+                  "name": "Taubenlochschlucht",
+                  "text": "An impressive and wildly romantic gorge at the foot of the Jura near Biel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265687,
+                        47.154338
+                  ]
+            },
+            {
+                  "name": "Parc municipal / Stadtpark",
+                  "text": "A public park in Biel serving as a green oasis in the city center.",
+                  "category": "park",
+                  "coords": [
+                        7.254436,
+                        47.141202
+                  ]
+            },
+            {
+                  "name": "Birlig",
+                  "text": "A viewpoint in Biel offering a wide view over the city and its surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.239057,
+                        47.112224
+                  ]
+            },
+            {
+                  "name": "Rothgärtli",
+                  "text": "A spot in Biel with a beautiful view of the nearby surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        7.260118,
+                        47.152793
+                  ]
+            },
+            {
+                  "name": "Galerie 95",
+                  "text": "A gallery in Biel dedicated to the presentation of contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        7.240322,
+                        47.133952
+                  ]
+            },
+            {
+                  "name": "Oberes Ried",
+                  "text": "A viewpoint providing an overview of the landscape near Biel.",
+                  "category": "natural",
+                  "coords": [
+                        7.256922,
+                        47.152498
+                  ]
+            },
+            {
+                  "name": "Dessin & Découverte",
+                  "text": "An arts center in Biel promoting creativity and artistic discovery.",
+                  "category": "cultural",
+                  "coords": [
+                        7.239191,
+                        47.136842
+                  ]
+            },
+            {
+                  "name": "Sikahirsch",
+                  "text": "An attraction in Biel where Sika deer can be observed.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266692,
+                        47.159087
+                  ]
+            },
+            {
+                  "name": "Alpensteinbock / Bouquetin des Alpes",
+                  "text": "An attraction in the Biel zoo dedicated to the majestic Alpine ibex.",
+                  "category": "landmark",
+                  "coords": [
+                        7.265776,
+                        47.156687
+                  ]
+            },
+            {
+                  "name": "Alpenmurmeltier / Marmotte des Alpes",
+                  "text": "An attraction in the Biel zoo offering insights into the life of Alpine marmots.",
+                  "category": "landmark",
+                  "coords": [
+                        7.266142,
+                        47.157643
+                  ]
+            },
+            {
+                  "name": "Beachtown",
+                  "text": "A lakeside leisure facility in Biel with a beach atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        7.233748,
+                        47.132282
+                  ]
+            },
+            {
+                  "name": "Pasquart-Kirche / Eglise du Pasquart",
+                  "text": "A striking church in Biel built in the Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        7.241808,
+                        47.140273
+                  ]
+            },
+            {
+                  "name": "Römisch-katholische Pfarrei Bruder Klaus",
+                  "text": "A Roman Catholic church in Biel serving as a community center.",
+                  "category": "religious",
+                  "coords": [
+                        7.250967,
+                        47.131588
+                  ]
+            },
+            {
+                  "name": "Eglise Saint-Paul - Pauluskirche",
+                  "text": "A modern Christian church and meeting place in Biel.",
+                  "category": "religious",
+                  "coords": [
+                        7.256198,
+                        47.132291
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "A Catholic church in Biel significant to the local community.",
+                  "category": "religious",
+                  "coords": [
+                        7.249854,
+                        47.14488
+                  ]
+            },
+            {
+                  "name": "Epiphanie-Kirche",
+                  "text": "A Christian place of worship in Biel for services and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        7.245052,
+                        47.14277
+                  ]
+            },
+            {
+                  "name": "St. Erhard",
+                  "text": "A religious site in Biel for the practice of faith.",
+                  "category": "religious",
+                  "coords": [
+                        7.240371,
+                        47.125084
+                  ]
+            },
+            {
+                  "name": "Maison du Calvin / Calvinhaus",
+                  "text": "A historic building in Biel associated with the Reformed Church.",
+                  "category": "religious",
+                  "coords": [
+                        7.274279,
+                        47.143073
+                  ]
+            },
+            {
+                  "name": "Mathäus-Zentrum",
+                  "text": "A church center in Biel for religious and social activities.",
+                  "category": "religious",
+                  "coords": [
+                        7.255544,
+                        47.117257
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [7.2449, 47.1368],
@@ -1001,7 +15554,1204 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-thun",
+    id: "city-thun", "sights": {
+      "de": [
+            {
+                  "name": "Kunstmuseum Thun",
+                  "text": "Ein Museum in Thun, das Kunstwerke vom 19. Jahrhundert bis zur Gegenwart zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.634184,
+                        46.755847
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Gastronomie Museum",
+                  "text": "Ein Museum in Thun, das sich der Schweizer Gastronomiegeschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.655052,
+                        46.737792
+                  ]
+            },
+            {
+                  "name": "Panzermuseum Thun",
+                  "text": "Ein Museum in Thun mit einer bedeutenden Sammlung historischer Panzerfahrzeuge.",
+                  "category": "museum",
+                  "coords": [
+                        7.612387,
+                        46.758702
+                  ]
+            },
+            {
+                  "name": "Schloss Schadau",
+                  "text": "Ein prachtvolles Schloss am Ufer des Thunersees in einem englischen Park.",
+                  "category": "castle",
+                  "coords": [
+                        7.637336,
+                        46.746131
+                  ]
+            },
+            {
+                  "name": "Schloss Thun",
+                  "text": "Eine mittelalterliche Burg in Thun mit einem markanten Turm und Museum.",
+                  "category": "castle",
+                  "coords": [
+                        7.629986,
+                        46.759914
+                  ]
+            },
+            {
+                  "name": "Thun Panorama",
+                  "text": "Ein Rundgemälde in Thun, das die Stadt um das Jahr 1810 darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        7.635911,
+                        46.745755
+                  ]
+            },
+            {
+                  "name": "Alte Oele",
+                  "text": "Ein Kultur- und Theaterzentrum in einem historischen Gebäude in Thun.",
+                  "category": "cultural",
+                  "coords": [
+                        7.630231,
+                        46.757726
+                  ]
+            },
+            {
+                  "name": "Flechtmuseum",
+                  "text": "Ein Museum in Thun, das der Geschichte und dem Handwerk des Flechtens gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.612514,
+                        46.73896
+                  ]
+            },
+            {
+                  "name": "Vogelhaus",
+                  "text": "Ein Vogelhaus im Tierpark von Thun zur Beobachtung verschiedener Vogelarten.",
+                  "category": "recreational",
+                  "coords": [
+                        7.623158,
+                        46.762354
+                  ]
+            },
+            {
+                  "name": "Hünegg",
+                  "text": "Ein Wasserpark in Thun, der Erholung und Freizeitaktivitäten am Wasser bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        7.656543,
+                        46.736341
+                  ]
+            },
+            {
+                  "name": "Rabenflue",
+                  "text": "Ein Aussichtspunkt über Thun, der einen weiten Blick auf die Stadt und die Alpen bietet.",
+                  "category": "natural",
+                  "coords": [
+                        7.642611,
+                        46.762128
+                  ]
+            },
+            {
+                  "name": "Kirche Scherzligen",
+                  "text": "Eine historische Kirche im Ortsteil Scherzligen mit bedeutenden Wandmalereien.",
+                  "category": "landmark",
+                  "coords": [
+                        7.636282,
+                        46.747337
+                  ]
+            },
+            {
+                  "name": "Tropicana Pinball Shack",
+                  "text": "Ein lokales Freizeitzentrum in Thun, das sich auf Flipperautomaten spezialisiert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632892,
+                        46.752023
+                  ]
+            },
+            {
+                  "name": "Fulehung Schaukasten",
+                  "text": "Ein Schaukasten in Thun, der Informationen zur lokalen Traditionsfigur Fulehung zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.626824,
+                        46.760849
+                  ]
+            },
+            {
+                  "name": "Fulehung-Denkmal",
+                  "text": "Ein Denkmal zu Ehren der historischen Thuner Sagengestalt Fulehung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628957,
+                        46.761306
+                  ]
+            },
+            {
+                  "name": "Scherzligschleuse",
+                  "text": "Eine historische Schleusenanlage an der Aare im Zentrum von Thun.",
+                  "category": "landmark",
+                  "coords": [
+                        7.63253,
+                        46.75638
+                  ]
+            },
+            {
+                  "name": "Bälliz Fussgängerzone",
+                  "text": "Die zentrale Einkaufsstraße und Fussgängerzone in der Thuner Innenstadt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.627916,
+                        46.757996
+                  ]
+            },
+            {
+                  "name": "Fachnachtsflue",
+                  "text": "Ein Aussichtspunkt in der Nähe von Thun mit Blick auf das Berner Oberland.",
+                  "category": "natural",
+                  "coords": [
+                        7.643065,
+                        46.760086
+                  ]
+            },
+            {
+                  "name": "Satellit Kunstraum",
+                  "text": "Ein unabhängiger Kunstraum in Thun für zeitgenössische Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        7.62567,
+                        46.759673
+                  ]
+            },
+            {
+                  "name": "old railway station",
+                  "text": "Das denkmalgeschützte Gebäude des ehemaligen Bahnhofs von Thun.",
+                  "category": "historical",
+                  "coords": [
+                        7.634494,
+                        46.750564
+                  ]
+            },
+            {
+                  "name": "Jakobshübeli",
+                  "text": "Ein beliebter Aussichtshügel in Thun mit Sicht auf See und Berge.",
+                  "category": "natural",
+                  "coords": [
+                        7.638186,
+                        46.753073
+                  ]
+            },
+            {
+                  "name": "Wartboden",
+                  "text": "Ein erhöhter Punkt in Thun, der als Aussichtsplattform über die Stadt dient.",
+                  "category": "natural",
+                  "coords": [
+                        7.641093,
+                        46.75569
+                  ]
+            },
+            {
+                  "name": "Glockenspiel",
+                  "text": "Ein mechanisches Glockenspiel in der Thuner Altstadt, das regelmässig Melodien spielt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650061,
+                        46.749163
+                  ]
+            },
+            {
+                  "name": "Rathausplatz",
+                  "text": "Der historische Hauptplatz in der Altstadt von Thun beim Rathaus.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628534,
+                        46.759568
+                  ]
+            },
+            {
+                  "name": "Stadtkirche Thun",
+                  "text": "Die reformierte Hauptkirche der Stadt Thun mit ihrem markanten Turm.",
+                  "category": "religious",
+                  "coords": [
+                        7.63147,
+                        46.758793
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "Die katholische Kirche St. Marien in Thun, ein modernes Gotteshaus.",
+                  "category": "religious",
+                  "coords": [
+                        7.63548,
+                        46.75694
+                  ]
+            },
+            {
+                  "name": "Kirche Lerchenfeld",
+                  "text": "Die evangelisch-reformierte Kirche im Thuner Quartier Lerchenfeld.",
+                  "category": "religious",
+                  "coords": [
+                        7.599357,
+                        46.765282
+                  ]
+            },
+            {
+                  "name": "Kirche Schönau",
+                  "text": "Ein reformiertes Kirchengebäude im Stadtteil Schönau in Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.614121,
+                        46.753365
+                  ]
+            },
+            {
+                  "name": "St. Beatus",
+                  "text": "Eine katholische Kirche in Thun, die dem heiligen Beatus geweiht ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.638008,
+                        46.755122
+                  ]
+            },
+            {
+                  "name": "St. Martin Pfarreizentrum",
+                  "text": "Ein katholisches Pfarreizentrum und Gotteshaus im Thuner Westquartier.",
+                  "category": "religious",
+                  "coords": [
+                        7.616056,
+                        46.748511
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Eine moderne evangelisch-reformierte Kirche in der Stadt Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.621836,
+                        46.743356
+                  ]
+            },
+            {
+                  "name": "Kirche Allmendingen",
+                  "text": "Die dörfliche Kirche im Thuner Stadtteil Allmendingen.",
+                  "category": "religious",
+                  "coords": [
+                        7.595212,
+                        46.742921
+                  ]
+            },
+            {
+                  "name": "Thunerseespiele",
+                  "text": "Ein Veranstaltungsort direkt am See für die bekannten Thuner Seefestspiele.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632357,
+                        46.73731
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kunstmuseum Thun",
+                  "text": "Thuni múzeum, amely a 19. századtól napjainkig mutat be műalkotásokat.",
+                  "category": "museum",
+                  "coords": [
+                        7.634184,
+                        46.755847
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Gastronomie Museum",
+                  "text": "A svájci gasztronómia történetének szentelt múzeum Thun-ban.",
+                  "category": "museum",
+                  "coords": [
+                        7.655052,
+                        46.737792
+                  ]
+            },
+            {
+                  "name": "Panzermuseum Thun",
+                  "text": "Thuni múzeum történelmi páncélozott járművek jelentős gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        7.612387,
+                        46.758702
+                  ]
+            },
+            {
+                  "name": "Schloss Schadau",
+                  "text": "Pompás kastély a Thuni-tó partján, egy angolparkban.",
+                  "category": "castle",
+                  "coords": [
+                        7.637336,
+                        46.746131
+                  ]
+            },
+            {
+                  "name": "Schloss Thun",
+                  "text": "Középkori vár Thun-ban, jellegzetes toronnyal és múzeummal.",
+                  "category": "castle",
+                  "coords": [
+                        7.629986,
+                        46.759914
+                  ]
+            },
+            {
+                  "name": "Thun Panorama",
+                  "text": "Egy körkép Thun-ban, amely a várost ábrázolja 1810 körül.",
+                  "category": "museum",
+                  "coords": [
+                        7.635911,
+                        46.745755
+                  ]
+            },
+            {
+                  "name": "Alte Oele",
+                  "text": "Kulturális és színházi központ egy történelmi épületben Thun-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        7.630231,
+                        46.757726
+                  ]
+            },
+            {
+                  "name": "Flechtmuseum",
+                  "text": "Thuni múzeum, amely a kosárfonás és a fonás művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.612514,
+                        46.73896
+                  ]
+            },
+            {
+                  "name": "Vogelhaus",
+                  "text": "Madárház a thuni állatkertben, ahol különféle madárfajok láthatóak.",
+                  "category": "recreational",
+                  "coords": [
+                        7.623158,
+                        46.762354
+                  ]
+            },
+            {
+                  "name": "Hünegg",
+                  "text": "Vízi park Thunban, amely kikapcsolódást és szabadidős tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        7.656543,
+                        46.736341
+                  ]
+            },
+            {
+                  "name": "Rabenflue",
+                  "text": "Kilátópont Thun felett, ahonnan panoráma nyílik a városra és az Alpokra.",
+                  "category": "natural",
+                  "coords": [
+                        7.642611,
+                        46.762128
+                  ]
+            },
+            {
+                  "name": "Kirche Scherzligen",
+                  "text": "Történelmi templom Scherzligen negyedben, jelentős falfestményekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.636282,
+                        46.747337
+                  ]
+            },
+            {
+                  "name": "Tropicana Pinball Shack",
+                  "text": "Helyi szabadidőközpont Thunban, amely flippergépekre specializálódott.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632892,
+                        46.752023
+                  ]
+            },
+            {
+                  "name": "Fulehung Schaukasten",
+                  "text": "Bemutatóablak Thunban, amely a helyi hagyományos figurát, a Fulehungot mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        7.626824,
+                        46.760849
+                  ]
+            },
+            {
+                  "name": "Fulehung-Denkmal",
+                  "text": "Emlékmű a thuni mondavilág híres alakja, a Fulehung tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628957,
+                        46.761306
+                  ]
+            },
+            {
+                  "name": "Scherzligschleuse",
+                  "text": "Történelmi zsiliprendszer az Aare folyón Thun központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.63253,
+                        46.75638
+                  ]
+            },
+            {
+                  "name": "Bälliz Fussgängerzone",
+                  "text": "A thuni belváros központi bevásárlóutcája és gyalogosövezete.",
+                  "category": "landmark",
+                  "coords": [
+                        7.627916,
+                        46.757996
+                  ]
+            },
+            {
+                  "name": "Fachnachtsflue",
+                  "text": "Kilátópont Thun közelében, kilátással a Berni-felvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        7.643065,
+                        46.760086
+                  ]
+            },
+            {
+                  "name": "Satellit Kunstraum",
+                  "text": "Független thuni művészeti tér kortárs kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        7.62567,
+                        46.759673
+                  ]
+            },
+            {
+                  "name": "old railway station",
+                  "text": "Thun egykori vasútállomásának műemléki védelem alatt álló épülete.",
+                  "category": "historical",
+                  "coords": [
+                        7.634494,
+                        46.750564
+                  ]
+            },
+            {
+                  "name": "Jakobshübeli",
+                  "text": "Népszerű kilátódomb Thunban, rálátással a tóra és a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        7.638186,
+                        46.753073
+                  ]
+            },
+            {
+                  "name": "Wartboden",
+                  "text": "Magaslati pont Thunban, amely kilátóként szolgál a városra.",
+                  "category": "natural",
+                  "coords": [
+                        7.641093,
+                        46.75569
+                  ]
+            },
+            {
+                  "name": "Glockenspiel",
+                  "text": "Mechanikus harangjáték Thun óvárosában, amely rendszeresen dallamokat játszik.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650061,
+                        46.749163
+                  ]
+            },
+            {
+                  "name": "Rathausplatz",
+                  "text": "Thun óvárosának történelmi főtere a városháza mellett.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628534,
+                        46.759568
+                  ]
+            },
+            {
+                  "name": "Stadtkirche Thun",
+                  "text": "Thun városának református főtemploma jellegzetes tornyával.",
+                  "category": "religious",
+                  "coords": [
+                        7.63147,
+                        46.758793
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "A thuni Szent Mária katolikus templom, egy modern építésű istenháza.",
+                  "category": "religious",
+                  "coords": [
+                        7.63548,
+                        46.75694
+                  ]
+            },
+            {
+                  "name": "Kirche Lerchenfeld",
+                  "text": "Evangélikus-református templom a thuni Lerchenfeld negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        7.599357,
+                        46.765282
+                  ]
+            },
+            {
+                  "name": "Kirche Schönau",
+                  "text": "Református templomépület a thuni Schönau városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        7.614121,
+                        46.753365
+                  ]
+            },
+            {
+                  "name": "St. Beatus",
+                  "text": "Szent Beatusnak szentelt katolikus templom Thunban.",
+                  "category": "religious",
+                  "coords": [
+                        7.638008,
+                        46.755122
+                  ]
+            },
+            {
+                  "name": "St. Martin Pfarreizentrum",
+                  "text": "Katolikus plébániaközpont és templom Thun nyugati negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        7.616056,
+                        46.748511
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Modern evangélikus-református templom Thun városában.",
+                  "category": "religious",
+                  "coords": [
+                        7.621836,
+                        46.743356
+                  ]
+            },
+            {
+                  "name": "Kirche Allmendingen",
+                  "text": "Falusi jellegű templom a thuni Allmendingen városrészben.",
+                  "category": "religious",
+                  "coords": [
+                        7.595212,
+                        46.742921
+                  ]
+            },
+            {
+                  "name": "Thunerseespiele",
+                  "text": "Közvetlenül a tóparton fekvő helyszín a híres Thuni Tóparti Játékok számára.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632357,
+                        46.73731
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kunstmuseum Thun",
+                  "text": "Un muzeu din Thun care prezintă opere de artă din secolul al XIX-lea până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        7.634184,
+                        46.755847
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Gastronomie Museum",
+                  "text": "Un muzeu din Thun dedicat istoriei gastronomiei elvețiene.",
+                  "category": "museum",
+                  "coords": [
+                        7.655052,
+                        46.737792
+                  ]
+            },
+            {
+                  "name": "Panzermuseum Thun",
+                  "text": "Un muzeu din Thun cu o colecție importantă de vehicule blindate istorice.",
+                  "category": "museum",
+                  "coords": [
+                        7.612387,
+                        46.758702
+                  ]
+            },
+            {
+                  "name": "Schloss Schadau",
+                  "text": "Un castel magnific pe malul lacului Thun, situat într-un parc englezesc.",
+                  "category": "castle",
+                  "coords": [
+                        7.637336,
+                        46.746131
+                  ]
+            },
+            {
+                  "name": "Schloss Thun",
+                  "text": "Un castel medieval în Thun, cu un turn distinctiv și un muzeu.",
+                  "category": "castle",
+                  "coords": [
+                        7.629986,
+                        46.759914
+                  ]
+            },
+            {
+                  "name": "Thun Panorama",
+                  "text": "O pictură panoramică din Thun care înfățișează orașul în jurul anului 1810.",
+                  "category": "museum",
+                  "coords": [
+                        7.635911,
+                        46.745755
+                  ]
+            },
+            {
+                  "name": "Alte Oele",
+                  "text": "Un centru cultural și teatral într-o clădire istorică din Thun.",
+                  "category": "cultural",
+                  "coords": [
+                        7.630231,
+                        46.757726
+                  ]
+            },
+            {
+                  "name": "Flechtmuseum",
+                  "text": "Un muzeu din Thun dedicat istoriei și meșteșugului împletitului.",
+                  "category": "museum",
+                  "coords": [
+                        7.612514,
+                        46.73896
+                  ]
+            },
+            {
+                  "name": "Vogelhaus",
+                  "text": "O casă a păsărilor în parcul zoologic din Thun pentru observarea diferitelor specii.",
+                  "category": "recreational",
+                  "coords": [
+                        7.623158,
+                        46.762354
+                  ]
+            },
+            {
+                  "name": "Hünegg",
+                  "text": "Un parc acvatic în Thun, care oferă relaxare și activități de agrement pe apă.",
+                  "category": "recreational",
+                  "coords": [
+                        7.656543,
+                        46.736341
+                  ]
+            },
+            {
+                  "name": "Rabenflue",
+                  "text": "Un punct de belvedere deasupra orașului Thun, oferind o vedere panoramică asupra orașului și a Alpilor.",
+                  "category": "natural",
+                  "coords": [
+                        7.642611,
+                        46.762128
+                  ]
+            },
+            {
+                  "name": "Kirche Scherzligen",
+                  "text": "O biserică istorică în cartierul Scherzligen, cu picturi murale importante.",
+                  "category": "landmark",
+                  "coords": [
+                        7.636282,
+                        46.747337
+                  ]
+            },
+            {
+                  "name": "Tropicana Pinball Shack",
+                  "text": "Un centru de recreere local în Thun, specializat în aparate de pinball.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632892,
+                        46.752023
+                  ]
+            },
+            {
+                  "name": "Fulehung Schaukasten",
+                  "text": "O vitrină în Thun care prezintă informații despre figura tradițională locală Fulehung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.626824,
+                        46.760849
+                  ]
+            },
+            {
+                  "name": "Fulehung-Denkmal",
+                  "text": "Un monument ridicat în onoarea figurii legendare locale din Thun, Fulehung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628957,
+                        46.761306
+                  ]
+            },
+            {
+                  "name": "Scherzligschleuse",
+                  "text": "O instalație istorică de ecluze pe râul Aare, în centrul orașului Thun.",
+                  "category": "landmark",
+                  "coords": [
+                        7.63253,
+                        46.75638
+                  ]
+            },
+            {
+                  "name": "Bälliz Fussgängerzone",
+                  "text": "Principala stradă comercială și zonă pietonală din centrul orașului Thun.",
+                  "category": "landmark",
+                  "coords": [
+                        7.627916,
+                        46.757996
+                  ]
+            },
+            {
+                  "name": "Fachnachtsflue",
+                  "text": "Un punct de belvedere lângă Thun, cu vedere spre Oberlandul Bernez.",
+                  "category": "natural",
+                  "coords": [
+                        7.643065,
+                        46.760086
+                  ]
+            },
+            {
+                  "name": "Satellit Kunstraum",
+                  "text": "Un spațiu de artă independent în Thun pentru expoziții contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        7.62567,
+                        46.759673
+                  ]
+            },
+            {
+                  "name": "old railway station",
+                  "text": "Clădirea monument istoric a fostei gări din Thun.",
+                  "category": "historical",
+                  "coords": [
+                        7.634494,
+                        46.750564
+                  ]
+            },
+            {
+                  "name": "Jakobshübeli",
+                  "text": "Un deal popular pentru belvedere în Thun, cu vedere spre lac și munți.",
+                  "category": "natural",
+                  "coords": [
+                        7.638186,
+                        46.753073
+                  ]
+            },
+            {
+                  "name": "Wartboden",
+                  "text": "Un punct înalt în Thun care servește drept platformă de observare a orașului.",
+                  "category": "natural",
+                  "coords": [
+                        7.641093,
+                        46.75569
+                  ]
+            },
+            {
+                  "name": "Glockenspiel",
+                  "text": "Un carillon mecanic în centrul vechi din Thun, care cântă melodii în mod regulat.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650061,
+                        46.749163
+                  ]
+            },
+            {
+                  "name": "Rathausplatz",
+                  "text": "Piața istorică principală din centrul vechi al orașului Thun, lângă primărie.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628534,
+                        46.759568
+                  ]
+            },
+            {
+                  "name": "Stadtkirche Thun",
+                  "text": "Principala biserică reformată din orașul Thun, cu turnul său distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        7.63147,
+                        46.758793
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "Biserica catolică Sfânta Maria din Thun, un lăcaș de cult modern.",
+                  "category": "religious",
+                  "coords": [
+                        7.63548,
+                        46.75694
+                  ]
+            },
+            {
+                  "name": "Kirche Lerchenfeld",
+                  "text": "Biserica evanghelică-reformată din cartierul Lerchenfeld din Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.599357,
+                        46.765282
+                  ]
+            },
+            {
+                  "name": "Kirche Schönau",
+                  "text": "O clădire de biserică reformată în cartierul Schönau din Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.614121,
+                        46.753365
+                  ]
+            },
+            {
+                  "name": "St. Beatus",
+                  "text": "O biserică catolică din Thun dedicată Sfântului Beatus.",
+                  "category": "religious",
+                  "coords": [
+                        7.638008,
+                        46.755122
+                  ]
+            },
+            {
+                  "name": "St. Martin Pfarreizentrum",
+                  "text": "Un centru parohial catolic și lăcaș de cult în cartierul de vest din Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.616056,
+                        46.748511
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "O biserică evanghelică-reformată modernă în orașul Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.621836,
+                        46.743356
+                  ]
+            },
+            {
+                  "name": "Kirche Allmendingen",
+                  "text": "Biserica sătească din cartierul Allmendingen din Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.595212,
+                        46.742921
+                  ]
+            },
+            {
+                  "name": "Thunerseespiele",
+                  "text": "O locație chiar pe malul lacului pentru faimosul festival Thunerseespiele.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632357,
+                        46.73731
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kunstmuseum Thun",
+                  "text": "A museum in Thun displaying artworks from the 19th century to the present.",
+                  "category": "museum",
+                  "coords": [
+                        7.634184,
+                        46.755847
+                  ]
+            },
+            {
+                  "name": "Schweizerisches Gastronomie Museum",
+                  "text": "A museum in Thun dedicated to the history of Swiss gastronomy.",
+                  "category": "museum",
+                  "coords": [
+                        7.655052,
+                        46.737792
+                  ]
+            },
+            {
+                  "name": "Panzermuseum Thun",
+                  "text": "A museum in Thun with a significant collection of historic armoured vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        7.612387,
+                        46.758702
+                  ]
+            },
+            {
+                  "name": "Schloss Schadau",
+                  "text": "A magnificent castle on the shores of Lake Thun, set in an English park.",
+                  "category": "castle",
+                  "coords": [
+                        7.637336,
+                        46.746131
+                  ]
+            },
+            {
+                  "name": "Schloss Thun",
+                  "text": "A medieval castle in Thun featuring a distinctive tower and a museum.",
+                  "category": "castle",
+                  "coords": [
+                        7.629986,
+                        46.759914
+                  ]
+            },
+            {
+                  "name": "Thun Panorama",
+                  "text": "A panoramic painting in Thun depicting the city around the year 1810.",
+                  "category": "museum",
+                  "coords": [
+                        7.635911,
+                        46.745755
+                  ]
+            },
+            {
+                  "name": "Alte Oele",
+                  "text": "A cultural and theatre centre located in a historic building in Thun.",
+                  "category": "cultural",
+                  "coords": [
+                        7.630231,
+                        46.757726
+                  ]
+            },
+            {
+                  "name": "Flechtmuseum",
+                  "text": "A museum in Thun dedicated to the history and craft of basket weaving.",
+                  "category": "museum",
+                  "coords": [
+                        7.612514,
+                        46.73896
+                  ]
+            },
+            {
+                  "name": "Vogelhaus",
+                  "text": "A bird house in the Thun zoo for observing various bird species.",
+                  "category": "recreational",
+                  "coords": [
+                        7.623158,
+                        46.762354
+                  ]
+            },
+            {
+                  "name": "Hünegg",
+                  "text": "A water park in Thun offering relaxation and leisure activities by the water.",
+                  "category": "recreational",
+                  "coords": [
+                        7.656543,
+                        46.736341
+                  ]
+            },
+            {
+                  "name": "Rabenflue",
+                  "text": "A viewpoint above Thun offering a wide view of the city and the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        7.642611,
+                        46.762128
+                  ]
+            },
+            {
+                  "name": "Kirche Scherzligen",
+                  "text": "A historic church in the Scherzligen district featuring significant murals.",
+                  "category": "landmark",
+                  "coords": [
+                        7.636282,
+                        46.747337
+                  ]
+            },
+            {
+                  "name": "Tropicana Pinball Shack",
+                  "text": "A local leisure center in Thun specializing in pinball machines.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632892,
+                        46.752023
+                  ]
+            },
+            {
+                  "name": "Fulehung Schaukasten",
+                  "text": "A showcase in Thun displaying information about the local traditional figure, Fulehung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.626824,
+                        46.760849
+                  ]
+            },
+            {
+                  "name": "Fulehung-Denkmal",
+                  "text": "A monument in honor of the legendary local figure of Thun, Fulehung.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628957,
+                        46.761306
+                  ]
+            },
+            {
+                  "name": "Scherzligschleuse",
+                  "text": "A historic lock system on the Aare river in the center of Thun.",
+                  "category": "landmark",
+                  "coords": [
+                        7.63253,
+                        46.75638
+                  ]
+            },
+            {
+                  "name": "Bälliz Fussgängerzone",
+                  "text": "The central shopping street and pedestrian zone in downtown Thun.",
+                  "category": "landmark",
+                  "coords": [
+                        7.627916,
+                        46.757996
+                  ]
+            },
+            {
+                  "name": "Fachnachtsflue",
+                  "text": "A viewpoint near Thun with views of the Bernese Oberland.",
+                  "category": "natural",
+                  "coords": [
+                        7.643065,
+                        46.760086
+                  ]
+            },
+            {
+                  "name": "Satellit Kunstraum",
+                  "text": "An independent art space in Thun for contemporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        7.62567,
+                        46.759673
+                  ]
+            },
+            {
+                  "name": "old railway station",
+                  "text": "The heritage-listed building of the former railway station in Thun.",
+                  "category": "historical",
+                  "coords": [
+                        7.634494,
+                        46.750564
+                  ]
+            },
+            {
+                  "name": "Jakobshübeli",
+                  "text": "A popular viewpoint hill in Thun with views of the lake and mountains.",
+                  "category": "natural",
+                  "coords": [
+                        7.638186,
+                        46.753073
+                  ]
+            },
+            {
+                  "name": "Wartboden",
+                  "text": "An elevated point in Thun that serves as a viewing platform over the city.",
+                  "category": "natural",
+                  "coords": [
+                        7.641093,
+                        46.75569
+                  ]
+            },
+            {
+                  "name": "Glockenspiel",
+                  "text": "A mechanical carillon in Thun's old town that regularly plays melodies.",
+                  "category": "landmark",
+                  "coords": [
+                        7.650061,
+                        46.749163
+                  ]
+            },
+            {
+                  "name": "Rathausplatz",
+                  "text": "The historic main square in Thun's old town by the town hall.",
+                  "category": "landmark",
+                  "coords": [
+                        7.628534,
+                        46.759568
+                  ]
+            },
+            {
+                  "name": "Stadtkirche Thun",
+                  "text": "The main Reformed church of Thun with its prominent tower.",
+                  "category": "religious",
+                  "coords": [
+                        7.63147,
+                        46.758793
+                  ]
+            },
+            {
+                  "name": "St. Marien",
+                  "text": "The Catholic church of St. Marien in Thun, a modern place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        7.63548,
+                        46.75694
+                  ]
+            },
+            {
+                  "name": "Kirche Lerchenfeld",
+                  "text": "The Evangelical Reformed church in the Lerchenfeld district of Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.599357,
+                        46.765282
+                  ]
+            },
+            {
+                  "name": "Kirche Schönau",
+                  "text": "A Reformed church building in the Schönau district of Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.614121,
+                        46.753365
+                  ]
+            },
+            {
+                  "name": "St. Beatus",
+                  "text": "A Catholic church in Thun dedicated to Saint Beatus.",
+                  "category": "religious",
+                  "coords": [
+                        7.638008,
+                        46.755122
+                  ]
+            },
+            {
+                  "name": "St. Martin Pfarreizentrum",
+                  "text": "A Catholic parish center and place of worship in Thun's west district.",
+                  "category": "religious",
+                  "coords": [
+                        7.616056,
+                        46.748511
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "A modern Evangelical Reformed church in the city of Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.621836,
+                        46.743356
+                  ]
+            },
+            {
+                  "name": "Kirche Allmendingen",
+                  "text": "The village church in the Allmendingen district of Thun.",
+                  "category": "religious",
+                  "coords": [
+                        7.595212,
+                        46.742921
+                  ]
+            },
+            {
+                  "name": "Thunerseespiele",
+                  "text": "A venue directly on the lake for the famous Lake Thun Festival.",
+                  "category": "landmark",
+                  "coords": [
+                        7.632357,
+                        46.73731
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [7.6289, 46.7512],
@@ -1074,7 +16824,1708 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-schaffhausen",
+    id: "city-schaffhausen", "sights": {
+      "de": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "Dieses Schloss oberhalb des Rheinfalls bietet eine spektakuläre Aussicht auf die Wasserfälle.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "Das historische Rathaus von Schaffhausen ist bekannt für seine prächtige Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "Ein bedeutendes Kulturzentrum in Schaffhausen, das ein vielfältiges Theaterprogramm bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "Das Münster Allerheiligen ist ein bedeutendes romanisches Kirchengebäude in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "Eine Kirche in Feuerthalen bei Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Rheinfall",
+                  "text": "Der größte Wasserfall Europas bei Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "Ein historischer Torturm der ehemaligen Stadtbefestigung von Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "Ein historischer Turm der Stadtbefestigung in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "Ein markanter Festungsturm und das Wahrzeichen von Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "Eine Brücke, die Schaffhausen mit Feuerthalen über den Rhein verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "Eine Autobahnbrücke der A4 über den Rhein bei Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "Eine Straßenbrücke über den Rhein zwischen Schaffhausen und Feuerthalen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "Ein hölzerner Aussichtsturm auf dem Cholfirst bei Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "Ein Museum in Schaffhausen, das sich der Schweizer Militär- und Technikgeschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "Die Überreste einer mittelalterlichen Burganlage in Schaffhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "Ein Verwaltungsgebäude und Gemeindehaus in Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Das historische Rathaus und Verwaltungszentrum der Stadt Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "Eine reformierte Kirche oberhalb des Rheinfalls bei Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Ein reformiertes Kirchengebäude in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "Eine bedeutende reformierte Stadtkirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "Eine katholische Kirche im Stadtteil Buchthalen von Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "Die reformierte Kirche des Stadtteils Buchthalen in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "Eine nach dem Reformator Huldrych Zwingli benannte Kirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Eine christliche Kirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "Eine römisch-katholische Kirche in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "Eine katholische Kirche in der Stadt Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "Ein historischer Torturm der ehemaligen Stadtbefestigung von Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "Ein bewaldeter Hügelzug bei Schaffhausen mit zahlreichen Wanderwegen.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "Ein hoher Sendeturm auf dem Cholfirst, der als Aussichtspunkt dient.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "Ein Museum im Schloss Charlottenfels, das der Industriellenfamilie Moser gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "Eine große Miniaturwelt in Schaffhausen, die Schweizer Sehenswürdigkeiten darstellt.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "Eine Kunsthalle in Schaffhausen, die immersive 360-Grad-Projektionen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "Ein Museum in Schaffhausen, das sich der Geschichte der Computertechnik widmet.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "Ein Denkmal in Schaffhausen zum Dank Frankreichs an die Schweiz nach dem Ersten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "Ein Kulturzentrum und Theater in einem historischen Gebäude in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "Ein lokales Theater in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "Ein Zentrum für Kunst und Kultur mit Galerie und Bühne in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "Ein Bistro mit einem historischen Mühlerad in Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "Ein Naturschutzgebiet bei Schaffhausen mit geologischer und ökologischer Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "Ein Naturschutzgebiet in der Region Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "Ein Naturschutzgebiet mit vielfältiger Flora und Fauna bei Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "Ein Aussichtspunkt in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "Ein Aussichtspunkt bei Schaffhausen mit weitem Blick auf die Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "Ein Aussichtspunkt am Rheinweg in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "Ein Aussichtspunkt in der Nähe von Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "Ein Aussichtspunkt an der Rheinfallstrasse mit Blick auf die Wasserfälle.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "A Rajna-vízesés feletti kastély látványos kilátást nyújt a vízesésekre.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "Schaffhausen történelmi városházája pompás építészetéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "Schaffhausen jelentős kulturális központja, amely változatos színházi programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "A Mindenszentek-székesegyház jelentős román stílusú templomépület Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "Templom Schaffhausen közelében, Feuerthalenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Rheinfall",
+                  "text": "Európa legnagyobb vízesése Schaffhausen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "Schaffhausen egykori városfalának egyik történelmi kaputornya.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "Történelmi bástyatorony Schaffhausen városfalában.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "Schaffhausen jellegzetes erődtornya és jelképe.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "Schaffhausent és Feuerthalent összekötő híd a Rajna felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "Az A4-es autópálya Rajna feletti hídja Schaffhausennél.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "Schaffhausen és Feuerthalen közötti közúti híd a Rajna felett.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "Fából készült kilátótorony a Cholfirst-hegyen, Schaffhausen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "Schaffhauseni múzeum, amely a svájci haditechnika és technológia történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "Egy középkori várhely maradványai Schaffhausenben.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "Közigazgatási épület és polgármesteri hivatal Schaffhausenben.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Schaffhausen történelmi városházája és közigazgatási központja.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "Református templom a Rajna-vízesés felett, Schaffhausen közelében.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Református templomépület Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "Schaffhausen egyik jelentős református városi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "Katolikus templom Schaffhausen Buchthalen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "Schaffhausen Buchthalen városrészének református temploma.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "Huldrych Zwingli reformátorról elnevezett templom Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Keresztény templom Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "Római katolikus templom Schaffhausenben.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "Katolikus templom Schaffhausen városában.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "Schaffhausen egykori városfalának egyik történelmi kaputornya.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "Erdős dombság Schaffhausen közelében, számos túraútvonallal.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "Magas rádiótorony a Cholfirst-hegyen, amely kilátóként is funkcionál.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "Az iparos Moser családnak szentelt múzeum a Charlottenfels-kastélyban.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "Nagyszabású makettvilág Schaffhausenben, amely svájci látnivalókat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "Művészeti csarnok Schaffhausenben, amely magával ragadó 360 fokos vetítéseket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "Schaffhauseni múzeum, amely a számítástechnika történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "Emlékmű Schaffhausenben, amellyel Franciaország fejezte ki háláját Svájcnak az első világháború után.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "Kulturális központ és színház egy történelmi épületben Schaffhausenben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "Helyi színház Schaffhausenben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "Művészeti és kulturális központ galériával és színpaddal Schaffhausenben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "Kortárs művészeti galéria Schaffhausenben.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "Bisztró egy történelmi malomkerékkel Schaffhausenben.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "Természetvédelmi terület Schaffhausen közelében, geológiai és ökológiai jelentőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "Természetvédelmi terület Schaffhausen régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "Természetvédelmi terület változatos növény- és állatvilággal Schaffhausen közelében.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "Kilátóhely Schaffhausenben.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "Kilátóhely Schaffhausen közelében, ahonnan messzire ellátni az Alpokig.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "Kilátóhely a Schaffhausen-i Rheinwegen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "Kilátóhely Schaffhausen környékén.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "Kilátóhely a Rheinfallstrasse mentén, kilátással a vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "Acest castel deasupra cascadei Rinului oferă o priveliște spectaculoasă asupra căderilor de apă.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "Primăria istorică din Schaffhausen este cunoscută pentru arhitectura sa splendidă.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "Un centru cultural important din Schaffhausen, care oferă un program teatral diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "Catedrala Tuturor Sfinților este o clădire bisericească romanică importantă din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "O biserică în Feuerthalen, lângă Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Cascada Rinului",
+                  "text": "Cea mai mare cascadă din Europa, situată lângă Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "Un turn istoric de poartă din fosta fortificație a orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "Un turn istoric din fortificația orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "Un turn de fortăreață proeminent și simbolul orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "Un pod care leagă Schaffhausen de Feuerthalen peste Rin.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "Un pod de autostradă al A4 peste Rin, lângă Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "Un pod rutier peste Rin între Schaffhausen și Feuerthalen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "Un turn de observație din lemn pe muntele Cholfirst, lângă Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "Un muzeu din Schaffhausen dedicat istoriei militare și tehnice a Elveției.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "Rămășițele unei cetăți medievale din Schaffhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "O clădire administrativă și primăria din Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "Primăria istorică și centrul administrativ al orașului Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "O biserică reformată situată deasupra Cascadei Rinului, lângă Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "O clădire bisericească reformată din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "O importantă biserică reformată din orașul Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "O biserică catolică din cartierul Buchthalen al orașului Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "Biserica reformată din cartierul Buchthalen, Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "O biserică numită după reformatorul Huldrych Zwingli din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "O biserică creștină din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "O biserică romano-catolică din Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "O biserică catolică din orașul Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "Un turn istoric de poartă din fosta fortificație a orașului Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "Un deal împădurit lângă Schaffhausen, cu numeroase trasee de drumeție.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "Un turn de transmisie înalt pe muntele Cholfirst, care servește drept punct de observație.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "Un muzeu situat în castelul Charlottenfels, dedicat familiei de industriași Moser.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "O lume miniaturală vastă din Schaffhausen, care prezintă obiective turistice elvețiene.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "O sală de artă din Schaffhausen care prezintă proiecții imersive la 360 de grade.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "Un muzeu din Schaffhausen dedicat istoriei tehnologiei computerelor.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "Un monument din Schaffhausen care marchează recunoștința Franței față de Elveția după Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "Un centru cultural și teatru situat într-o clădire istorică din Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "Un teatru local din Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "Un centru de artă și cultură cu galerie și scenă în Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "O galerie de artă contemporană din Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "Un bistro cu o roată de moară istorică în Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "O rezervație naturală lângă Schaffhausen cu importanță geologică și ecologică.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "O rezervație naturală din regiunea Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "O rezervație naturală cu floră și faună diversă lângă Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "Un punct de observație în Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "Un punct de observație lângă Schaffhausen, cu o vedere panoramică spre Alpi.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "Un punct de observație pe strada Rheinweg din Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "Un punct de observație în apropiere de Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "Un punct de observație pe strada Rheinfallstrasse, cu vedere spre cascadă.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Schloss Laufen",
+                  "text": "This castle above the Rhine Falls offers spectacular views of the waterfalls.",
+                  "category": "castle",
+                  "coords": [
+                        8.61495,
+                        47.676798
+                  ]
+            },
+            {
+                  "name": "Rathauslaube",
+                  "text": "The historical town hall of Schaffhausen is known for its magnificent architecture.",
+                  "category": "historical",
+                  "coords": [
+                        8.634273,
+                        47.696141
+                  ]
+            },
+            {
+                  "name": "Stadttheater Schaffhausen",
+                  "text": "A significant cultural center in Schaffhausen offering a diverse theatrical program.",
+                  "category": "cultural",
+                  "coords": [
+                        8.633261,
+                        47.695943
+                  ]
+            },
+            {
+                  "name": "Münster Schaffhausen",
+                  "text": "The All Saints Cathedral is a significant Romanesque church building in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636418,
+                        47.695271
+                  ]
+            },
+            {
+                  "name": "St. Leonhard",
+                  "text": "A church located in Feuerthalen near Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.65238,
+                        47.686735
+                  ]
+            },
+            {
+                  "name": "Rhine Falls",
+                  "text": "The largest waterfall in Europe, located near Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615072,
+                        47.677719
+                  ]
+            },
+            {
+                  "name": "Schwabentor",
+                  "text": "A historic gate tower of the former city fortifications in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.63542,
+                        47.699696
+                  ]
+            },
+            {
+                  "name": "Unterer Diebsturm",
+                  "text": "A historic tower of the city fortifications in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.632059,
+                        47.694166
+                  ]
+            },
+            {
+                  "name": "Munotturm",
+                  "text": "A prominent fortress tower and the landmark of Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.639834,
+                        47.696695
+                  ]
+            },
+            {
+                  "name": "Feuerthaler Brücke",
+                  "text": "A bridge connecting Schaffhausen with Feuerthalen across the Rhine.",
+                  "category": "landmark",
+                  "coords": [
+                        8.64042,
+                        47.694648
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke A4",
+                  "text": "A motorway bridge of the A4 crossing the Rhine near Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.625717,
+                        47.691875
+                  ]
+            },
+            {
+                  "name": "Rheinbrücke Feuerthalen",
+                  "text": "A road bridge over the Rhine between Schaffhausen and Feuerthalen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.643691,
+                        47.69484
+                  ]
+            },
+            {
+                  "name": "Hörnliturm",
+                  "text": "A wooden observation tower on the Cholfirst hill near Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.639788,
+                        47.672391
+                  ]
+            },
+            {
+                  "name": "Museum im Zeughaus",
+                  "text": "A museum in Schaffhausen dedicated to Swiss military and technical history.",
+                  "category": "museum",
+                  "coords": [
+                        8.624913,
+                        47.701481
+                  ]
+            },
+            {
+                  "name": "Burgstelle Burgermösli",
+                  "text": "The remains of a medieval castle site in Schaffhausen.",
+                  "category": "castle",
+                  "coords": [
+                        8.658212,
+                        47.679403
+                  ]
+            },
+            {
+                  "name": "Gemeindehaus Fürstengut",
+                  "text": "An administrative building and town hall in Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.643668,
+                        47.693764
+                  ]
+            },
+            {
+                  "name": "Stadthaus",
+                  "text": "The historic town hall and administrative center of the city of Schaffhausen.",
+                  "category": "historical",
+                  "coords": [
+                        8.634473,
+                        47.697108
+                  ]
+            },
+            {
+                  "name": "Ev. ref. Kirche Laufen am Rheinfall",
+                  "text": "A reformed church located above the Rhine Falls near Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.614531,
+                        47.675864
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "A reformed church building in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.640995,
+                        47.69091
+                  ]
+            },
+            {
+                  "name": "St. Johann",
+                  "text": "A significant reformed city church in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.636062,
+                        47.696449
+                  ]
+            },
+            {
+                  "name": "St. Konrad",
+                  "text": "A Catholic church in the district of Buchthalen of Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.647122,
+                        47.700651
+                  ]
+            },
+            {
+                  "name": "Kirche Buchthalen",
+                  "text": "The reformed church of the Buchthalen district in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.657983,
+                        47.696538
+                  ]
+            },
+            {
+                  "name": "Zwinglikirche",
+                  "text": "A church in Schaffhausen named after the reformer Huldrych Zwingli.",
+                  "category": "religious",
+                  "coords": [
+                        8.642442,
+                        47.712608
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "A Christian church located in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.650021,
+                        47.717018
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche Heilig Kreuz",
+                  "text": "A Roman Catholic church in Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.617218,
+                        47.681778
+                  ]
+            },
+            {
+                  "name": "St. Maria",
+                  "text": "A Catholic church in the city of Schaffhausen.",
+                  "category": "religious",
+                  "coords": [
+                        8.62821,
+                        47.695445
+                  ]
+            },
+            {
+                  "name": "Obertorturm",
+                  "text": "A historic gate tower of the former city fortifications in Schaffhausen.",
+                  "category": "tower",
+                  "coords": [
+                        8.631783,
+                        47.696749
+                  ]
+            },
+            {
+                  "name": "Cholfirst",
+                  "text": "A forested hill range near Schaffhausen with numerous hiking trails.",
+                  "category": "natural",
+                  "coords": [
+                        8.654574,
+                        47.676641
+                  ]
+            },
+            {
+                  "name": "Sendeturm Cholfirst",
+                  "text": "A tall transmission tower on the Cholfirst hill that serves as a viewpoint.",
+                  "category": "natural",
+                  "coords": [
+                        8.646815,
+                        47.681094
+                  ]
+            },
+            {
+                  "name": "Moser Familienmuseum Charlottenfels",
+                  "text": "A museum in Charlottenfels Castle dedicated to the Moser industrialist family.",
+                  "category": "museum",
+                  "coords": [
+                        8.621394,
+                        47.690511
+                  ]
+            },
+            {
+                  "name": "Smilestones",
+                  "text": "A large miniature world in Schaffhausen depicting Swiss landmarks.",
+                  "category": "museum",
+                  "coords": [
+                        8.613561,
+                        47.682645
+                  ]
+            },
+            {
+                  "name": "Rhyality Immersive Art Hall",
+                  "text": "An art hall in Schaffhausen featuring immersive 360-degree projections.",
+                  "category": "museum",
+                  "coords": [
+                        8.617942,
+                        47.678241
+                  ]
+            },
+            {
+                  "name": "Die Diskette",
+                  "text": "A museum in Schaffhausen dedicated to the history of computer technology.",
+                  "category": "museum",
+                  "coords": [
+                        8.64907,
+                        47.693663
+                  ]
+            },
+            {
+                  "name": "A La Suisse Consolatrice La France Reconnaissante 1914 - 1918",
+                  "text": "A monument in Schaffhausen expressing France's gratitude to Switzerland after World War I.",
+                  "category": "historical",
+                  "coords": [
+                        8.62645,
+                        47.694355
+                  ]
+            },
+            {
+                  "name": "Haberhaus",
+                  "text": "A cultural center and theatre located in a historic building in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.631995,
+                        47.695341
+                  ]
+            },
+            {
+                  "name": "Trottentheater",
+                  "text": "A local theatre in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.623792,
+                        47.680693
+                  ]
+            },
+            {
+                  "name": "Fass-Galerie und -Bühne",
+                  "text": "A center for art and culture featuring a gallery and stage in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.636294,
+                        47.698181
+                  ]
+            },
+            {
+                  "name": "Galerie Mera",
+                  "text": "A gallery for contemporary art located in Schaffhausen.",
+                  "category": "cultural",
+                  "coords": [
+                        8.630394,
+                        47.708651
+                  ]
+            },
+            {
+                  "name": "Mühlerad Bistro",
+                  "text": "A bistro featuring a historic mill wheel in Schaffhausen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.615297,
+                        47.678798
+                  ]
+            },
+            {
+                  "name": "Trockenstandort und Deckenschotteraufschluss Chirchhölzli",
+                  "text": "A nature reserve near Schaffhausen with geological and ecological significance.",
+                  "category": "natural",
+                  "coords": [
+                        8.63755,
+                        47.673291
+                  ]
+            },
+            {
+                  "name": "Urwerf",
+                  "text": "A nature reserve located in the Schaffhausen region.",
+                  "category": "natural",
+                  "coords": [
+                        8.622161,
+                        47.695205
+                  ]
+            },
+            {
+                  "name": "Sonnenhalde/Tüfelschuchi",
+                  "text": "A nature reserve with diverse flora and fauna near Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.59801,
+                        47.697951
+                  ]
+            },
+            {
+                  "name": "Känzeli",
+                  "text": "A viewpoint in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.631089,
+                        47.701328
+                  ]
+            },
+            {
+                  "name": "Alpenzeiger Hohflue",
+                  "text": "A viewpoint near Schaffhausen offering far-reaching views of the Alps.",
+                  "category": "natural",
+                  "coords": [
+                        8.616352,
+                        47.69273
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinweg",
+                  "text": "A viewpoint located on Rheinweg in Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.617001,
+                        47.678193
+                  ]
+            },
+            {
+                  "name": "Fenisberg",
+                  "text": "A viewpoint in the vicinity of Schaffhausen.",
+                  "category": "natural",
+                  "coords": [
+                        8.669262,
+                        47.682794
+                  ]
+            },
+            {
+                  "name": "Aussichtspunkt Rheinfallstrasse",
+                  "text": "A viewpoint on Rheinfallstrasse offering views of the falls.",
+                  "category": "natural",
+                  "coords": [
+                        8.612654,
+                        47.680181
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [8.6357, 47.6966],
@@ -1147,7 +18598,1744 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-fribourg",
+    id: "city-fribourg", "sights": {
+      "de": [
+            {
+                  "name": "Musée suisse de la marionnette",
+                  "text": "Einziges Museum in der Schweiz, das sich ausschliesslich der Kunst des Puppentheaters widmet.",
+                  "category": "museum",
+                  "coords": [
+                        7.16778,
+                        46.802766
+                  ]
+            },
+            {
+                  "name": "Château de la Poya",
+                  "text": "Ein herrschaftliches Schloss bei Freiburg, das als bedeutendes Baudenkmal gilt.",
+                  "category": "castle",
+                  "coords": [
+                        7.159464,
+                        46.813784
+                  ]
+            },
+            {
+                  "name": "Kathedrale Sankt Niklaus",
+                  "text": "Die Kathedrale St. Nikolaus in Freiburg ist bekannt für ihren markanten Turm und die Glasmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        7.163202,
+                        46.806155
+                  ]
+            },
+            {
+                  "name": "Augustinerkirche",
+                  "text": "Eine historische Augustinerkirche in Freiburg mit reicher sakraler Ausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        7.166781,
+                        46.80452
+                  ]
+            },
+            {
+                  "name": "Bernbrücke",
+                  "text": "Die letzte gedeckte Holzbrücke in der Stadt Freiburg führt über die Saane.",
+                  "category": "landmark",
+                  "coords": [
+                        7.168997,
+                        46.804293
+                  ]
+            },
+            {
+                  "name": "Murtentor",
+                  "text": "Ein historisches Stadttor in Freiburg, das Teil der alten Befestigungsanlage ist.",
+                  "category": "tower",
+                  "coords": [
+                        7.157738,
+                        46.811455
+                  ]
+            },
+            {
+                  "name": "La pierre fourchue",
+                  "text": "Ein markanter Findling, der der Gemeinde Pierrafortscha ihren Namen gab.",
+                  "category": "landmark",
+                  "coords": [
+                        7.179815,
+                        46.782866
+                  ]
+            },
+            {
+                  "name": "Räsch",
+                  "text": "Eine historische Schlossanlage in der Region Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.156718,
+                        46.83217
+                  ]
+            },
+            {
+                  "name": "Burgruine Chastels",
+                  "text": "Die Ruinen einer mittelalterlichen Burg mit Blick auf die umliegende Landschaft.",
+                  "category": "castle",
+                  "coords": [
+                        7.174855,
+                        46.822494
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "Ein Museum, das der Naturgeschichte und der Artenvielfalt der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.15714,
+                        46.793148
+                  ]
+            },
+            {
+                  "name": "(Futur) Musée d'histoire naturelle",
+                  "text": "Der geplante zukünftige Standort des Naturhistorischen Museums in Freiburg.",
+                  "category": "museum",
+                  "coords": [
+                        7.151301,
+                        46.795917
+                  ]
+            },
+            {
+                  "name": "Schloss Übewil",
+                  "text": "Ein historisches Herrenhaus und Schloss in Übewil bei Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.179816,
+                        46.813526
+                  ]
+            },
+            {
+                  "name": "Schloss Hattenberg",
+                  "text": "Ein elegantes Schlossgebäude in der Nähe von Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.196624,
+                        46.804549
+                  ]
+            },
+            {
+                  "name": "Chemin de fer du Kaeserberg",
+                  "text": "Ein großes und detailliertes Modelleisenbahnmuseum, das Schweizer Landschaften zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.138857,
+                        46.816103
+                  ]
+            },
+            {
+                  "name": "Rathaus",
+                  "text": "Das historische Rathaus von Freiburg, das administrative Herz der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        7.160988,
+                        46.805359
+                  ]
+            },
+            {
+                  "name": "Théâtre des Osses",
+                  "text": "Ein zeitgenössischer Theaterraum, der für seine vielfältigen Bühnenproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.127329,
+                        46.817777
+                  ]
+            },
+            {
+                  "name": "Loretto",
+                  "text": "Eine historische Kapelle mit Panoramablick auf die Freiburger Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.166197,
+                        46.801053
+                  ]
+            },
+            {
+                  "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
+                  "text": "Eine stille Kapelle, die der Mater Dolorosa gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.177344,
+                        46.813767
+                  ]
+            },
+            {
+                  "name": "Sankt Johann",
+                  "text": "Eine traditionelle, dem Heiligen Johannes gewidmete Kirche in Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.163063,
+                        46.80304
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Ein bedeutendes religiöses Gebäude und die älteste Kirche der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.161662,
+                        46.806914
+                  ]
+            },
+            {
+                  "name": "Pfarrkirche St. Peter",
+                  "text": "Eine lokale Pfarrkirche in Freiburg, die dem Heiligen Petrus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.146992,
+                        46.803116
+                  ]
+            },
+            {
+                  "name": "Unsere Liebe Frau von Bürglen",
+                  "text": "Eine bekannte Wallfahrtskapelle auf einem Hügel über Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.176767,
+                        46.800075
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche",
+                  "text": "Das wichtigste Gotteshaus der reformierten Gemeinde in Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.153271,
+                        46.80435
+                  ]
+            },
+            {
+                  "name": "Kapelle Hinter Bruch",
+                  "text": "Eine kleine, friedliche Kapelle im Gebiet Hinter Bruch.",
+                  "category": "religious",
+                  "coords": [
+                        7.185623,
+                        46.817782
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "Eine moderne katholische Kirche, die der Heiligen Thérèse gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.14731,
+                        46.810952
+                  ]
+            },
+            {
+                  "name": "Eglise St Laurent",
+                  "text": "Eine dem Heiligen Laurentius gewidmete Pfarrkirche in Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.126587,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "St. Sacrament",
+                  "text": "Ein Gotteshaus in Freiburg, das dem Allerheiligsten Sakrament gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.149018,
+                        46.784656
+                  ]
+            },
+            {
+                  "name": "Église Sainte Marie-Madeleine",
+                  "text": "Eine der Heiligen Maria Magdalena gewidmete Kirche in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        7.158626,
+                        46.810465
+                  ]
+            },
+            {
+                  "name": "Jesuitenkirche St. Michael",
+                  "text": "Eine historische Kirche, die mit dem Kollegium St. Michael verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.157799,
+                        46.806234
+                  ]
+            },
+            {
+                  "name": "Pérollesbrücke",
+                  "text": "Eine hohe Brücke, die das Saane-Tal in Freiburg überspannt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1551,
+                        46.788192
+                  ]
+            },
+            {
+                  "name": "Gottéron-Brücke",
+                  "text": "Eine markante Brücke, die die tiefe Gottéron-Schlucht überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.171892,
+                        46.804517
+                  ]
+            },
+            {
+                  "name": "Swiss Museum for Electronic Music Instruments",
+                  "text": "Ein Museum und Archiv, das der Geschichte elektronischer Musikinstrumente gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.147162,
+                        46.797709
+                  ]
+            },
+            {
+                  "name": "Musée du Vélo",
+                  "text": "Ein Museum, das die Entwicklung und Geschichte des Fahrrads zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        7.155669,
+                        46.8132
+                  ]
+            },
+            {
+                  "name": "BIBEL+ORIENT Museum",
+                  "text": "Ein Museum, das sich auf die Kultur- und Religionswelt der Bibel und des Alten Orients konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        7.151817,
+                        46.806829
+                  ]
+            },
+            {
+                  "name": "Le Galetas des Pompiers",
+                  "text": "Ein lokales Museum, das der Geschichte und Ausrüstung der Feuerwehr gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.160175,
+                        46.803222
+                  ]
+            },
+            {
+                  "name": "Museum für Kunst und Geschichte",
+                  "text": "Ein bedeutendes Museum mit wichtigen Sammlungen von Kunst und historischen Artefakten der Region.",
+                  "category": "museum",
+                  "coords": [
+                        7.159568,
+                        46.807935
+                  ]
+            },
+            {
+                  "name": "Château de Boccard",
+                  "text": "Ein elegantes Herrenhaus und historischer Wohnsitz in der Gegend von Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.125563,
+                        46.812187
+                  ]
+            },
+            {
+                  "name": "Espace 25",
+                  "text": "Eine Galerie für zeitgenössische Kunst, die lokale und internationale Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        7.152677,
+                        46.799102
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie J.-J. Hofstetter",
+                  "text": "Ein kombinierter Atelier- und Galerieraum mit Werken von Jean-Jacques Hofstetter.",
+                  "category": "museum",
+                  "coords": [
+                        7.161889,
+                        46.805725
+                  ]
+            },
+            {
+                  "name": "Pilone ancien cable télédynamique",
+                  "text": "Ein historischer Pylon, Überrest eines alten teledynamischen Kabelsystems.",
+                  "category": "historical",
+                  "coords": [
+                        7.164047,
+                        46.798249
+                  ]
+            },
+            {
+                  "name": "Nouveau Monde",
+                  "text": "Ein lebendiges Kulturzentrum mit Theater, Musik und verschiedenen künstlerischen Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.150247,
+                        46.802025
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Cité de Fribourg",
+                  "text": "Ein lokales Theater, das eine Vielzahl von Stücken und Bühnenproduktionen anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        7.161716,
+                        46.803947
+                  ]
+            },
+            {
+                  "name": "Nuithonie",
+                  "text": "Ein modernes Zentrum für darstellende Künste in Villars-sur-Glâne bei Freiburg.",
+                  "category": "cultural",
+                  "coords": [
+                        7.132126,
+                        46.79476
+                  ]
+            },
+            {
+                  "name": "Café-Théâtre Le Bilboquet",
+                  "text": "Ein gemütliches Café-Theater, das für Comedy und Kleinkunst bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153603,
+                        46.794306
+                  ]
+            },
+            {
+                  "name": "Aula Kollegium Gambach",
+                  "text": "Eine Aula, die für Theateraufführungen und Schulveranstaltungen am Kollegium Gambach genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        7.149843,
+                        46.807499
+                  ]
+            },
+            {
+                  "name": "Gastspielhaus Equilibre",
+                  "text": "Ein markantes modernes Theatergebäude, in dem große internationale Produktionen stattfinden.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153727,
+                        46.803305
+                  ]
+            },
+            {
+                  "name": "Aula du Cycle d'Orientation de Pérolles",
+                  "text": "Ein multifunktionaler Saal für verschiedene kulturelle und pädagogische Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.158165,
+                        46.794999
+                  ]
+            },
+            {
+                  "name": "Lac de Pérolles",
+                  "text": "Ein wunderschönes Naturschutzgebiet um einen Stausee an der Saane.",
+                  "category": "natural",
+                  "coords": [
+                        7.157342,
+                        46.791539
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Musée suisse de la marionnette",
+                  "text": "Svájc egyetlen múzeuma, amely kizárólag a bábjáték művészetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        7.16778,
+                        46.802766
+                  ]
+            },
+            {
+                  "name": "Château de la Poya",
+                  "text": "Freiburg közeli impozáns kastély, amely jelentős műemléknek számít.",
+                  "category": "castle",
+                  "coords": [
+                        7.159464,
+                        46.813784
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Nicolas / Kathedrale Sankt Niklaus",
+                  "text": "A freiburgi Szent Miklós-székesegyház jellegzetes tornyáról és üvegfestményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        7.163202,
+                        46.806155
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice-des-Augustins",
+                  "text": "Történelmi Ágoston-rendi templom Freiburgban, gazdag szakrális berendezéssel.",
+                  "category": "religious",
+                  "coords": [
+                        7.166781,
+                        46.80452
+                  ]
+            },
+            {
+                  "name": "Pont de Berne / Bernbrücke",
+                  "text": "Freiburg városának utolsó fedett fahídja, amely a Saane folyón ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        7.168997,
+                        46.804293
+                  ]
+            },
+            {
+                  "name": "Porte de Morat / Murtentor",
+                  "text": "Történelmi városkapu Freiburgban, amely a régi erődítményrendszer része.",
+                  "category": "tower",
+                  "coords": [
+                        7.157738,
+                        46.811455
+                  ]
+            },
+            {
+                  "name": "La pierre fourchue",
+                  "text": "Egy figyelemre méltó vándorkő, amelyről Pierrafortscha község a nevét kapta.",
+                  "category": "landmark",
+                  "coords": [
+                        7.179815,
+                        46.782866
+                  ]
+            },
+            {
+                  "name": "Räsch",
+                  "text": "Egy történelmi kastély Freiburg környékén.",
+                  "category": "castle",
+                  "coords": [
+                        7.156718,
+                        46.83217
+                  ]
+            },
+            {
+                  "name": "Burgruine Chastels",
+                  "text": "Egy középkori vár romjai, amely a környező tájra néz.",
+                  "category": "castle",
+                  "coords": [
+                        7.174855,
+                        46.822494
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "A régió természetrajzával és élővilágával foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.15714,
+                        46.793148
+                  ]
+            },
+            {
+                  "name": "(Futur) Musée d'histoire naturelle",
+                  "text": "Freiburg természetrajzi múzeumának tervezett jövőbeli helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        7.151301,
+                        46.795917
+                  ]
+            },
+            {
+                  "name": "Schloss Übewil",
+                  "text": "Egy történelmi kúria és kastély Übewilben, Freiburg közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.179816,
+                        46.813526
+                  ]
+            },
+            {
+                  "name": "Schloss Hattenberg",
+                  "text": "Egy elegáns kastélyépület Freiburg szomszédságában.",
+                  "category": "castle",
+                  "coords": [
+                        7.196624,
+                        46.804549
+                  ]
+            },
+            {
+                  "name": "Chemin de fer du Kaeserberg",
+                  "text": "Egy nagyméretű és részletes terepasztal-múzeum, amely svájci tájakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.138857,
+                        46.816103
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville / Rathaus",
+                  "text": "Freiburg történelmi városházája, a város adminisztratív központja.",
+                  "category": "historical",
+                  "coords": [
+                        7.160988,
+                        46.805359
+                  ]
+            },
+            {
+                  "name": "Théâtre des Osses",
+                  "text": "Kortárs színházi tér, amely változatos színpadi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.127329,
+                        46.817777
+                  ]
+            },
+            {
+                  "name": "Lorette",
+                  "text": "Történelmi kápolna, amely panorámás kilátást nyújt Freiburg óvárosára.",
+                  "category": "religious",
+                  "coords": [
+                        7.166197,
+                        46.801053
+                  ]
+            },
+            {
+                  "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
+                  "text": "A Fájdalmas Szűzanyának szentelt csendes kápolna.",
+                  "category": "religious",
+                  "coords": [
+                        7.177344,
+                        46.813767
+                  ]
+            },
+            {
+                  "name": "Saint-Jean",
+                  "text": "Keresztelő Szent Jánosnak szentelt hagyományos templom Freiburg városában.",
+                  "category": "religious",
+                  "coords": [
+                        7.163063,
+                        46.80304
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame / Liebfrauenkirche",
+                  "text": "Jelentős vallási épület és a város legrégebbi temploma.",
+                  "category": "religious",
+                  "coords": [
+                        7.161662,
+                        46.806914
+                  ]
+            },
+            {
+                  "name": "Saint-Pierre",
+                  "text": "Szent Péternek szentelt helyi plébániatemplom Freiburgban.",
+                  "category": "religious",
+                  "coords": [
+                        7.146992,
+                        46.803116
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bourguillon",
+                  "text": "Ismert zarándokkápolna egy dombon, Freiburg felett.",
+                  "category": "religious",
+                  "coords": [
+                        7.176767,
+                        46.800075
+                  ]
+            },
+            {
+                  "name": "Temple réformé",
+                  "text": "A református közösség fő temploma Freiburgban.",
+                  "category": "religious",
+                  "coords": [
+                        7.153271,
+                        46.80435
+                  ]
+            },
+            {
+                  "name": "Kapelle Hinter Bruch",
+                  "text": "Egy apró, békés kápolna Hinter Bruch területén.",
+                  "category": "religious",
+                  "coords": [
+                        7.185623,
+                        46.817782
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "Szent Teréznek szentelt modern katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        7.14731,
+                        46.810952
+                  ]
+            },
+            {
+                  "name": "Eglise St Laurent",
+                  "text": "Szent Lőrincnek szentelt plébániatemplom Freiburgban.",
+                  "category": "religious",
+                  "coords": [
+                        7.126587,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "St. Sacrament",
+                  "text": "Az Oltáriszentségnek szentelt templom Freiburgban.",
+                  "category": "religious",
+                  "coords": [
+                        7.149018,
+                        46.784656
+                  ]
+            },
+            {
+                  "name": "Église Sainte Marie-Madeleine",
+                  "text": "Szent Mária Magdolnának szentelt templom a városban.",
+                  "category": "religious",
+                  "coords": [
+                        7.158626,
+                        46.810465
+                  ]
+            },
+            {
+                  "name": "église Saint-Michel",
+                  "text": "A Szent Mihály Kollégiumhoz kapcsolódó történelmi templom.",
+                  "category": "religious",
+                  "coords": [
+                        7.157799,
+                        46.806234
+                  ]
+            },
+            {
+                  "name": "Pont de Pérolles",
+                  "text": "Magas híd, amely a Saane folyó völgyét íveli át Freiburgban.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1551,
+                        46.788192
+                  ]
+            },
+            {
+                  "name": "Pont du Gottéron",
+                  "text": "Eine markante Brücke, die die tiefe Gottéron-Schlucht überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        7.171892,
+                        46.804517
+                  ]
+            },
+            {
+                  "name": "Swiss Museum for Electronic Music Instruments",
+                  "text": "Az elektronikus hangszerek történetének szentelt múzeum és archívum.",
+                  "category": "museum",
+                  "coords": [
+                        7.147162,
+                        46.797709
+                  ]
+            },
+            {
+                  "name": "Musée du Vélo",
+                  "text": "A kerékpár fejlődését és történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.155669,
+                        46.8132
+                  ]
+            },
+            {
+                  "name": "Musée BIBLE+ORIENT",
+                  "text": "A Biblia és az ókori Kelet kulturális és vallási világára összpontosító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        7.151817,
+                        46.806829
+                  ]
+            },
+            {
+                  "name": "Le Galetas des Pompiers",
+                  "text": "Helyi múzeum, amely a tűzoltóság történetét és eszközeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        7.160175,
+                        46.803222
+                  ]
+            },
+            {
+                  "name": "Musée d'Art & d'Histoire",
+                  "text": "Jelentős múzeum, amely a régió fontos művészeti és történelmi gyűjteményeinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        7.159568,
+                        46.807935
+                  ]
+            },
+            {
+                  "name": "Château de Boccard",
+                  "text": "Elegáns kúria és történelmi rezidencia Freiburg környékén.",
+                  "category": "castle",
+                  "coords": [
+                        7.125563,
+                        46.812187
+                  ]
+            },
+            {
+                  "name": "Espace 25",
+                  "text": "Kortárs művészeti galéria, amely helyi és nemzetközi művészeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        7.152677,
+                        46.799102
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie J.-J. Hofstetter",
+                  "text": "Jean-Jacques Hofstetter műveit bemutató közös műterem és galéria.",
+                  "category": "museum",
+                  "coords": [
+                        7.161889,
+                        46.805725
+                  ]
+            },
+            {
+                  "name": "Pilone ancien cable télédynamique",
+                  "text": "Egy régi teledinamikus kábelrendszer fennmaradt történelmi oszlopa.",
+                  "category": "historical",
+                  "coords": [
+                        7.164047,
+                        46.798249
+                  ]
+            },
+            {
+                  "name": "Nouveau Monde",
+                  "text": "Pezsgő kulturális központ színházi, zenei és különféle művészeti előadásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        7.150247,
+                        46.802025
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Cité de Fribourg",
+                  "text": "Helyi színház, amely különféle darabokat és színpadi produkciókat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        7.161716,
+                        46.803947
+                  ]
+            },
+            {
+                  "name": "Nuithonie",
+                  "text": "Modern előadó-művészeti központ Villars-sur-Glâne-ban, Freiburg közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        7.132126,
+                        46.79476
+                  ]
+            },
+            {
+                  "name": "Café-Théâtre Le Bilboquet",
+                  "text": "Bensőséges kávéház-színház, amely vígjátékairól és kisléptékű előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153603,
+                        46.794306
+                  ]
+            },
+            {
+                  "name": "Aula du Collège de Gambach",
+                  "text": "A Gambach Kollégium színházi előadásokra és iskolai eseményekre használt aulája.",
+                  "category": "cultural",
+                  "coords": [
+                        7.149843,
+                        46.807499
+                  ]
+            },
+            {
+                  "name": "Théatre équilibre",
+                  "text": "Feltűnő modern színházépület, amely nagyszabású nemzetközi produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153727,
+                        46.803305
+                  ]
+            },
+            {
+                  "name": "Aula du Cycle d'Orientation de Pérolles",
+                  "text": "Többfunkciós terem különféle kulturális és oktatási események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.158165,
+                        46.794999
+                  ]
+            },
+            {
+                  "name": "Lac de Pérolles",
+                  "text": "Gyönyörű természetvédelmi terület a Saane folyó gátja által kialakított tó körül.",
+                  "category": "natural",
+                  "coords": [
+                        7.157342,
+                        46.791539
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Musée suisse de la marionnette",
+                  "text": "Singurul muzeu din Elveția dedicat exclusiv artei teatrului de păpuși.",
+                  "category": "museum",
+                  "coords": [
+                        7.16778,
+                        46.802766
+                  ]
+            },
+            {
+                  "name": "Château de la Poya",
+                  "text": "Un castel impunător de lângă Freiburg, considerat un monument istoric important.",
+                  "category": "castle",
+                  "coords": [
+                        7.159464,
+                        46.813784
+                  ]
+            },
+            {
+                  "name": "Cathédrale Saint-Nicolas / Kathedrale Sankt Niklaus",
+                  "text": "Catedrala Sfântul Nicolae din Freiburg este cunoscută pentru turnul său remarcabil și vitralii.",
+                  "category": "religious",
+                  "coords": [
+                        7.163202,
+                        46.806155
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice-des-Augustins",
+                  "text": "O biserică istorică a augustinienilor din Freiburg, cu un bogat patrimoniu sacru.",
+                  "category": "religious",
+                  "coords": [
+                        7.166781,
+                        46.80452
+                  ]
+            },
+            {
+                  "name": "Pont de Berne / Bernbrücke",
+                  "text": "Ultimul pod de lemn acoperit din orașul Freiburg, care traversează râul Saane.",
+                  "category": "landmark",
+                  "coords": [
+                        7.168997,
+                        46.804293
+                  ]
+            },
+            {
+                  "name": "Porte de Morat / Murtentor",
+                  "text": "O poartă istorică a orașului din Freiburg, parte a vechii fortificații.",
+                  "category": "tower",
+                  "coords": [
+                        7.157738,
+                        46.811455
+                  ]
+            },
+            {
+                  "name": "La pierre fourchue",
+                  "text": "Un bloc erratic impresionant care a dat numele municipalității Pierrafortscha.",
+                  "category": "landmark",
+                  "coords": [
+                        7.179815,
+                        46.782866
+                  ]
+            },
+            {
+                  "name": "Räsch",
+                  "text": "Un castel istoric situat în regiunea Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.156718,
+                        46.83217
+                  ]
+            },
+            {
+                  "name": "Burgruine Chastels",
+                  "text": "Ruinele unui castel medieval care domină peisajul înconjurător.",
+                  "category": "castle",
+                  "coords": [
+                        7.174855,
+                        46.822494
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "Un muzeu dedicat istoriei naturale și biodiversității regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        7.15714,
+                        46.793148
+                  ]
+            },
+            {
+                  "name": "(Futur) Musée d'histoire naturelle",
+                  "text": "Viitorul sediu planificat pentru muzeul de istorie naturală din Freiburg.",
+                  "category": "museum",
+                  "coords": [
+                        7.151301,
+                        46.795917
+                  ]
+            },
+            {
+                  "name": "Schloss Übewil",
+                  "text": "Un conac istoric și castel situat în Übewil, lângă Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.179816,
+                        46.813526
+                  ]
+            },
+            {
+                  "name": "Schloss Hattenberg",
+                  "text": "O clădire elegantă de castel situată în apropiere de Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.196624,
+                        46.804549
+                  ]
+            },
+            {
+                  "name": "Chemin de fer du Kaeserberg",
+                  "text": "Un muzeu de modelism feroviar mare și detaliat care prezintă peisaje elvețiene.",
+                  "category": "museum",
+                  "coords": [
+                        7.138857,
+                        46.816103
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville / Rathaus",
+                  "text": "Primăria istorică din Freiburg, inima administrativă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        7.160988,
+                        46.805359
+                  ]
+            },
+            {
+                  "name": "Théâtre des Osses",
+                  "text": "Un spațiu teatral contemporan cunoscut pentru producțiile sale scenice diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        7.127329,
+                        46.817777
+                  ]
+            },
+            {
+                  "name": "Lorette",
+                  "text": "O capelă istorică ce oferă o vedere panoramică asupra centrului vechi din Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.166197,
+                        46.801053
+                  ]
+            },
+            {
+                  "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
+                  "text": "O capelă liniștită dedicată Maicii Domnului a celor Șapte Dureri.",
+                  "category": "religious",
+                  "coords": [
+                        7.177344,
+                        46.813767
+                  ]
+            },
+            {
+                  "name": "Saint-Jean",
+                  "text": "O biserică tradițională dedicată Sfântului Ioan în orașul Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.163063,
+                        46.80304
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame / Liebfrauenkirche",
+                  "text": "O clădire religioasă semnificativă și cea mai veche biserică din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        7.161662,
+                        46.806914
+                  ]
+            },
+            {
+                  "name": "Saint-Pierre",
+                  "text": "O biserică parohială locală dedicată Sfântului Petru în Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.146992,
+                        46.803116
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bourguillon",
+                  "text": "O cunoscută capelă de pelerinaj situată pe un deal care domină Freiburgul.",
+                  "category": "religious",
+                  "coords": [
+                        7.176767,
+                        46.800075
+                  ]
+            },
+            {
+                  "name": "Temple réformé",
+                  "text": "Principalul lăcaș de cult al comunității reformate din Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.153271,
+                        46.80435
+                  ]
+            },
+            {
+                  "name": "Kapelle Hinter Bruch",
+                  "text": "O capelă mică și liniștită situată în zona Hinter Bruch.",
+                  "category": "religious",
+                  "coords": [
+                        7.185623,
+                        46.817782
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "O biserică catolică modernă dedicată Sfintei Tereza.",
+                  "category": "religious",
+                  "coords": [
+                        7.14731,
+                        46.810952
+                  ]
+            },
+            {
+                  "name": "Eglise St Laurent",
+                  "text": "O biserică parohială din Freiburg dedicată Sfântului Laurențiu.",
+                  "category": "religious",
+                  "coords": [
+                        7.126587,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "St. Sacrament",
+                  "text": "Un lăcaș de cult din Freiburg dedicat Preasfântului Sacrament.",
+                  "category": "religious",
+                  "coords": [
+                        7.149018,
+                        46.784656
+                  ]
+            },
+            {
+                  "name": "Église Sainte Marie-Madeleine",
+                  "text": "O biserică dedicată Sfintei Maria Magdalena situată în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        7.158626,
+                        46.810465
+                  ]
+            },
+            {
+                  "name": "église Saint-Michel",
+                  "text": "O biserică istorică asociată cu Colegiul Saint-Michel.",
+                  "category": "religious",
+                  "coords": [
+                        7.157799,
+                        46.806234
+                  ]
+            },
+            {
+                  "name": "Pont de Pérolles",
+                  "text": "Un pod înalt care traversează valea râului Sarine în Freiburg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1551,
+                        46.788192
+                  ]
+            },
+            {
+                  "name": "Pont du Gottéron",
+                  "text": "Un pod remarcabil care traversează defileul adânc Gottéron.",
+                  "category": "landmark",
+                  "coords": [
+                        7.171892,
+                        46.804517
+                  ]
+            },
+            {
+                  "name": "Swiss Museum for Electronic Music Instruments",
+                  "text": "Un muzeu și arhivă dedicate istoriei instrumentelor muzicale electronice.",
+                  "category": "museum",
+                  "coords": [
+                        7.147162,
+                        46.797709
+                  ]
+            },
+            {
+                  "name": "Musée du Vélo",
+                  "text": "Un muzeu care prezintă evoluția și istoria bicicletei.",
+                  "category": "museum",
+                  "coords": [
+                        7.155669,
+                        46.8132
+                  ]
+            },
+            {
+                  "name": "Musée BIBLE+ORIENT",
+                  "text": "Un muzeu axat pe lumea culturală și religioasă a Bibliei și a Orientului Antic.",
+                  "category": "museum",
+                  "coords": [
+                        7.151817,
+                        46.806829
+                  ]
+            },
+            {
+                  "name": "Le Galetas des Pompiers",
+                  "text": "Un muzeu local dedicat istoriei și echipamentelor departamentului de pompieri.",
+                  "category": "museum",
+                  "coords": [
+                        7.160175,
+                        46.803222
+                  ]
+            },
+            {
+                  "name": "Musée d'Art & d'Histoire",
+                  "text": "Un muzeu major care găzduiește colecții semnificative de artă și artefacte istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        7.159568,
+                        46.807935
+                  ]
+            },
+            {
+                  "name": "Château de Boccard",
+                  "text": "Un conac elegant și reședință istorică în zona Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.125563,
+                        46.812187
+                  ]
+            },
+            {
+                  "name": "Espace 25",
+                  "text": "O galerie de artă contemporană care prezintă artiști locali și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        7.152677,
+                        46.799102
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie J.-J. Hofstetter",
+                  "text": "Un spațiu combinat de atelier și galerie care prezintă lucrările lui Jean-Jacques Hofstetter.",
+                  "category": "museum",
+                  "coords": [
+                        7.161889,
+                        46.805725
+                  ]
+            },
+            {
+                  "name": "Pilone ancien cable télédynamique",
+                  "text": "Un pilon istoric, vestigiu al unui vechi sistem de cabluri teledinamice.",
+                  "category": "historical",
+                  "coords": [
+                        7.164047,
+                        46.798249
+                  ]
+            },
+            {
+                  "name": "Nouveau Monde",
+                  "text": "Un centru cultural vibrant care găzduiește teatru, muzică și diverse spectacole artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        7.150247,
+                        46.802025
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Cité de Fribourg",
+                  "text": "Un teatru local care oferă o varietate de piese și producții scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        7.161716,
+                        46.803947
+                  ]
+            },
+            {
+                  "name": "Nuithonie",
+                  "text": "Un centru modern de arte spectacolului situat în Villars-sur-Glâne, lângă Freiburg.",
+                  "category": "cultural",
+                  "coords": [
+                        7.132126,
+                        46.79476
+                  ]
+            },
+            {
+                  "name": "Café-Théâtre Le Bilboquet",
+                  "text": "Un cafenea-teatru intim, cunoscut pentru comedie și spectacole la scară mică.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153603,
+                        46.794306
+                  ]
+            },
+            {
+                  "name": "Aula du Collège de Gambach",
+                  "text": "O aulă folosită pentru spectacole de teatru și evenimente școlare la Colegiul Gambach.",
+                  "category": "cultural",
+                  "coords": [
+                        7.149843,
+                        46.807499
+                  ]
+            },
+            {
+                  "name": "Théatre équilibre",
+                  "text": "O clădire de teatru modernă impresionantă care găzduiește producții internaționale de anvergură.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153727,
+                        46.803305
+                  ]
+            },
+            {
+                  "name": "Aula du Cycle d'Orientation de Pérolles",
+                  "text": "O sală multifuncțională folosită pentru diverse evenimente culturale și educaționale.",
+                  "category": "cultural",
+                  "coords": [
+                        7.158165,
+                        46.794999
+                  ]
+            },
+            {
+                  "name": "Lac de Pérolles",
+                  "text": "O frumoasă rezervație naturală în jurul unui lac format de un baraj pe râul Sarine.",
+                  "category": "natural",
+                  "coords": [
+                        7.157342,
+                        46.791539
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Musée suisse de la marionnette",
+                  "text": "The only museum in Switzerland dedicated exclusively to the art of puppetry.",
+                  "category": "museum",
+                  "coords": [
+                        7.16778,
+                        46.802766
+                  ]
+            },
+            {
+                  "name": "Château de la Poya",
+                  "text": "A grand castle near Fribourg, considered a significant architectural monument.",
+                  "category": "castle",
+                  "coords": [
+                        7.159464,
+                        46.813784
+                  ]
+            },
+            {
+                  "name": "Cathedral of St Nicholas",
+                  "text": "The Cathedral of St Nicholas in Fribourg is known for its striking tower and stained glass windows.",
+                  "category": "religious",
+                  "coords": [
+                        7.163202,
+                        46.806155
+                  ]
+            },
+            {
+                  "name": "Église Saint-Maurice-des-Augustins",
+                  "text": "A historic Augustinian church in Fribourg with rich sacred furnishings.",
+                  "category": "religious",
+                  "coords": [
+                        7.166781,
+                        46.80452
+                  ]
+            },
+            {
+                  "name": "Bern Bridge",
+                  "text": "The last covered wooden bridge in the city of Fribourg, crossing the Saane river.",
+                  "category": "landmark",
+                  "coords": [
+                        7.168997,
+                        46.804293
+                  ]
+            },
+            {
+                  "name": "Porte de Morat / Murtentor",
+                  "text": "A historic city gate in Fribourg, part of the ancient fortifications.",
+                  "category": "tower",
+                  "coords": [
+                        7.157738,
+                        46.811455
+                  ]
+            },
+            {
+                  "name": "La pierre fourchue",
+                  "text": "An impressive erratic block that gave its name to the municipality of Pierrafortscha.",
+                  "category": "landmark",
+                  "coords": [
+                        7.179815,
+                        46.782866
+                  ]
+            },
+            {
+                  "name": "Räsch",
+                  "text": "A historic castle site located in the Freiburg region.",
+                  "category": "castle",
+                  "coords": [
+                        7.156718,
+                        46.83217
+                  ]
+            },
+            {
+                  "name": "Burgruine Chastels",
+                  "text": "The ruins of a medieval castle overlooking the surrounding landscape.",
+                  "category": "castle",
+                  "coords": [
+                        7.174855,
+                        46.822494
+                  ]
+            },
+            {
+                  "name": "Musée d'histoire naturelle",
+                  "text": "A museum dedicated to the natural history and biodiversity of the region.",
+                  "category": "museum",
+                  "coords": [
+                        7.15714,
+                        46.793148
+                  ]
+            },
+            {
+                  "name": "(Futur) Musée d'histoire naturelle",
+                  "text": "The planned future site for Freiburg's natural history museum.",
+                  "category": "museum",
+                  "coords": [
+                        7.151301,
+                        46.795917
+                  ]
+            },
+            {
+                  "name": "Schloss Übewil",
+                  "text": "A historic manor house and castle located in Übewil near Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.179816,
+                        46.813526
+                  ]
+            },
+            {
+                  "name": "Schloss Hattenberg",
+                  "text": "An elegant castle building situated in the vicinity of Freiburg.",
+                  "category": "castle",
+                  "coords": [
+                        7.196624,
+                        46.804549
+                  ]
+            },
+            {
+                  "name": "Chemin de fer du Kaeserberg",
+                  "text": "A large and detailed model railway museum showcasing Swiss landscapes.",
+                  "category": "museum",
+                  "coords": [
+                        7.138857,
+                        46.816103
+                  ]
+            },
+            {
+                  "name": "Hôtel de ville / Rathaus",
+                  "text": "The historic town hall of Freiburg, serving as the administrative heart of the city.",
+                  "category": "historical",
+                  "coords": [
+                        7.160988,
+                        46.805359
+                  ]
+            },
+            {
+                  "name": "Théâtre des Osses",
+                  "text": "A contemporary theatre space known for its diverse stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.127329,
+                        46.817777
+                  ]
+            },
+            {
+                  "name": "Lorette",
+                  "text": "A historic chapel offering a panoramic view of Freiburg's old town.",
+                  "category": "religious",
+                  "coords": [
+                        7.166197,
+                        46.801053
+                  ]
+            },
+            {
+                  "name": "Kappelle zu Ehren Unserer Lieben Frau von den Sieben Schmerzen",
+                  "text": "A quiet chapel dedicated to Our Lady of the Seven Sorrows.",
+                  "category": "religious",
+                  "coords": [
+                        7.177344,
+                        46.813767
+                  ]
+            },
+            {
+                  "name": "Saint-Jean",
+                  "text": "A traditional church dedicated to Saint John in the city of Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.163063,
+                        46.80304
+                  ]
+            },
+            {
+                  "name": "Basilique Notre-Dame / Liebfrauenkirche",
+                  "text": "A significant religious building and the oldest church in the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.161662,
+                        46.806914
+                  ]
+            },
+            {
+                  "name": "Saint-Pierre",
+                  "text": "A local parish church dedicated to Saint Peter in Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.146992,
+                        46.803116
+                  ]
+            },
+            {
+                  "name": "Notre-Dame de Bourguillon",
+                  "text": "A well-known pilgrimage chapel situated on a hill overlooking Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.176767,
+                        46.800075
+                  ]
+            },
+            {
+                  "name": "Temple réformé",
+                  "text": "The main place of worship for the Reformed community in Freiburg.",
+                  "category": "religious",
+                  "coords": [
+                        7.153271,
+                        46.80435
+                  ]
+            },
+            {
+                  "name": "Kapelle Hinter Bruch",
+                  "text": "A small, peaceful chapel located in the Hinter Bruch area.",
+                  "category": "religious",
+                  "coords": [
+                        7.185623,
+                        46.817782
+                  ]
+            },
+            {
+                  "name": "Sainte-Thérèse",
+                  "text": "A modern Catholic church dedicated to Saint Thérèse.",
+                  "category": "religious",
+                  "coords": [
+                        7.14731,
+                        46.810952
+                  ]
+            },
+            {
+                  "name": "Eglise St Laurent",
+                  "text": "A parish church in Freiburg dedicated to Saint Lawrence.",
+                  "category": "religious",
+                  "coords": [
+                        7.126587,
+                        46.812247
+                  ]
+            },
+            {
+                  "name": "St. Sacrament",
+                  "text": "A place of worship in Freiburg dedicated to the Blessed Sacrament.",
+                  "category": "religious",
+                  "coords": [
+                        7.149018,
+                        46.784656
+                  ]
+            },
+            {
+                  "name": "Église Sainte Marie-Madeleine",
+                  "text": "A church dedicated to Saint Mary Magdalene located in the city.",
+                  "category": "religious",
+                  "coords": [
+                        7.158626,
+                        46.810465
+                  ]
+            },
+            {
+                  "name": "église Saint-Michel",
+                  "text": "A historic church associated with the Saint-Michel College.",
+                  "category": "religious",
+                  "coords": [
+                        7.157799,
+                        46.806234
+                  ]
+            },
+            {
+                  "name": "Pont de Pérolles",
+                  "text": "A high bridge spanning the Sarine river valley in Freiburg.",
+                  "category": "landmark",
+                  "coords": [
+                        7.1551,
+                        46.788192
+                  ]
+            },
+            {
+                  "name": "Gottéron Bridge",
+                  "text": "A notable bridge crossing the deep Gottéron gorge.",
+                  "category": "landmark",
+                  "coords": [
+                        7.171892,
+                        46.804517
+                  ]
+            },
+            {
+                  "name": "Swiss Museum for Electronic Music Instruments",
+                  "text": "A museum and archive dedicated to the history of electronic musical instruments.",
+                  "category": "museum",
+                  "coords": [
+                        7.147162,
+                        46.797709
+                  ]
+            },
+            {
+                  "name": "Musée du Vélo",
+                  "text": "A museum showcasing the evolution and history of the bicycle.",
+                  "category": "museum",
+                  "coords": [
+                        7.155669,
+                        46.8132
+                  ]
+            },
+            {
+                  "name": "Musée BIBLE+ORIENT",
+                  "text": "A museum focused on the cultural and religious world of the Bible and the Ancient Orient.",
+                  "category": "museum",
+                  "coords": [
+                        7.151817,
+                        46.806829
+                  ]
+            },
+            {
+                  "name": "Le Galetas des Pompiers",
+                  "text": "A local museum dedicated to the history and equipment of the fire department.",
+                  "category": "museum",
+                  "coords": [
+                        7.160175,
+                        46.803222
+                  ]
+            },
+            {
+                  "name": "Musée d'Art & d'Histoire",
+                  "text": "A major museum housing significant collections of art and historical artifacts from the region.",
+                  "category": "museum",
+                  "coords": [
+                        7.159568,
+                        46.807935
+                  ]
+            },
+            {
+                  "name": "Château de Boccard",
+                  "text": "An elegant manor house and historic residence in the Freiburg area.",
+                  "category": "castle",
+                  "coords": [
+                        7.125563,
+                        46.812187
+                  ]
+            },
+            {
+                  "name": "Espace 25",
+                  "text": "A contemporary art gallery showcasing local and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        7.152677,
+                        46.799102
+                  ]
+            },
+            {
+                  "name": "Atelier-galerie J.-J. Hofstetter",
+                  "text": "A combined studio and gallery space featuring the works of Jean-Jacques Hofstetter.",
+                  "category": "museum",
+                  "coords": [
+                        7.161889,
+                        46.805725
+                  ]
+            },
+            {
+                  "name": "Pilone ancien cable télédynamique",
+                  "text": "A historic pylon remains from an old teledynamic cable system.",
+                  "category": "historical",
+                  "coords": [
+                        7.164047,
+                        46.798249
+                  ]
+            },
+            {
+                  "name": "Nouveau Monde",
+                  "text": "A vibrant cultural center hosting theatre, music, and various artistic performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.150247,
+                        46.802025
+                  ]
+            },
+            {
+                  "name": "Théâtre de la Cité de Fribourg",
+                  "text": "A local theatre offering a variety of plays and stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.161716,
+                        46.803947
+                  ]
+            },
+            {
+                  "name": "Nuithonie",
+                  "text": "A modern performing arts center located in Villars-sur-Glâne near Freiburg.",
+                  "category": "cultural",
+                  "coords": [
+                        7.132126,
+                        46.79476
+                  ]
+            },
+            {
+                  "name": "Café-Théâtre Le Bilboquet",
+                  "text": "An intimate cafe-theatre known for comedy and small-scale performances.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153603,
+                        46.794306
+                  ]
+            },
+            {
+                  "name": "Aula du Collège de Gambach",
+                  "text": "An auditorium used for theatre performances and school events at Gambach College.",
+                  "category": "cultural",
+                  "coords": [
+                        7.149843,
+                        46.807499
+                  ]
+            },
+            {
+                  "name": "Théatre équilibre",
+                  "text": "A striking modern theatre building hosting large-scale international productions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.153727,
+                        46.803305
+                  ]
+            },
+            {
+                  "name": "Aula du Cycle d'Orientation de Pérolles",
+                  "text": "A multifunctional hall used for various cultural and educational events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.158165,
+                        46.794999
+                  ]
+            },
+            {
+                  "name": "Lac de Pérolles",
+                  "text": "A beautiful nature reserve around a lake formed by a dam on the Sarine river.",
+                  "category": "natural",
+                  "coords": [
+                        7.157342,
+                        46.791539
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [7.1619, 46.8064],
@@ -1220,7 +20408,952 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-sion",
+    id: "city-sion", "sights": {
+      "de": [
+            {
+                  "name": "Château de Montorge",
+                  "text": "Die Ruine einer mittelalterlichen Höhenburg oberhalb von Sitten.",
+                  "category": "castle",
+                  "coords": [
+                        7.334639,
+                        46.230607
+                  ]
+            },
+            {
+                  "name": "Musée de l'Evêché",
+                  "text": "Ein Museum in Sitten, das sich im ehemaligen Bischofspalast befindet.",
+                  "category": "museum",
+                  "coords": [
+                        7.35834,
+                        46.233432
+                  ]
+            },
+            {
+                  "name": "Chateau de la Soie",
+                  "text": "Die Überreste einer ehemaligen Burg auf einem Hügel in der Nähe von Sitten.",
+                  "category": "castle",
+                  "coords": [
+                        7.326847,
+                        46.24353
+                  ]
+            },
+            {
+                  "name": "La Majorie",
+                  "text": "Ein historisches Gebäudeensemble in Sitten, das heute Teil des Kunstmuseums ist.",
+                  "category": "historical",
+                  "coords": [
+                        7.361705,
+                        46.234638
+                  ]
+            },
+            {
+                  "name": "Château de Tourbillon",
+                  "text": "Eine markante Burgruine auf einem Felskopf über der Stadt Sitten.",
+                  "category": "castle",
+                  "coords": [
+                        7.367183,
+                        46.236492
+                  ]
+            },
+            {
+                  "name": "Nécropole du Petit-Chasseur",
+                  "text": "Eine bedeutende prähistorische Fundstätte mit Megalithgräbern in Sitten.",
+                  "category": "historical",
+                  "coords": [
+                        7.351409,
+                        46.231814
+                  ]
+            },
+            {
+                  "name": "Le Pénitencier",
+                  "text": "Ein Ausstellungszentrum in Sitten, das in einem ehemaligen Gefängnis untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        7.36353,
+                        46.234762
+                  ]
+            },
+            {
+                  "name": "Théâtre Indocile",
+                  "text": "Ein lokales Theater in Sitten für zeitgenössische Bühnenkunst.",
+                  "category": "cultural",
+                  "coords": [
+                        7.368453,
+                        46.221533
+                  ]
+            },
+            {
+                  "name": "Theatro Comico",
+                  "text": "Ein kleines Theater in Sitten, das auf Comedy und Unterhaltung spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        7.358992,
+                        46.235191
+                  ]
+            },
+            {
+                  "name": "Maison du Diable",
+                  "text": "Ein historisches Haus in Sitten, in dem sich die Kinostiftung Fellini befindet.",
+                  "category": "museum",
+                  "coords": [
+                        7.358401,
+                        46.228725
+                  ]
+            },
+            {
+                  "name": "Centre pédagogique pour la prévention en cas de séismes (CPPS)",
+                  "text": "Ein Bildungszentrum in Sitten zur Prävention und Information über Erdbeben.",
+                  "category": "museum",
+                  "coords": [
+                        7.363319,
+                        46.227265
+                  ]
+            },
+            {
+                  "name": "le Spot → Petithéâtre",
+                  "text": "Eine Bühne des Spot-Theaters in Sitten für Kleinkunst und kleinere Produktionen.",
+                  "category": "cultural",
+                  "coords": [
+                        7.361647,
+                        46.233582
+                  ]
+            },
+            {
+                  "name": "Maison de la nature Montorge",
+                  "text": "Ein Naturzentrum am Montorge-See in Sitten, das Ausstellungen zur Biodiversität bietet.",
+                  "category": "museum",
+                  "coords": [
+                        7.338935,
+                        46.233108
+                  ]
+            },
+            {
+                  "name": "Maison Supersaxo",
+                  "text": "Ein Renaissance-Haus in Sitten, bekannt für seine prächtige geschnitzte Holzdecke.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359921,
+                        46.233197
+                  ]
+            },
+            {
+                  "name": "Real Fly",
+                  "text": "Eine Freizeitanlage in Sitten, die Indoor-Skydiving in einem Windkanal anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35185,
+                        46.21977
+                  ]
+            },
+            {
+                  "name": "RLC Totem",
+                  "text": "Ein Jugend- und Kulturzentrum in Sitten mit verschiedenen Freizeitangeboten.",
+                  "category": "cultural",
+                  "coords": [
+                        7.362685,
+                        46.238143
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "Ein historisches Jagdflugzeug vom Typ Hawker Hunter, das in Sitten ausgestellt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        7.335401,
+                        46.219537
+                  ]
+            },
+            {
+                  "name": "De Havilland Hunter",
+                  "text": "Ein ausgestelltes De Havilland Hunter Flugzeug als Denkmal in Sitten.",
+                  "category": "landmark",
+                  "coords": [
+                        7.347779,
+                        46.218697
+                  ]
+            },
+            {
+                  "name": "Pôle Musique",
+                  "text": "Ein Kompetenzzentrum und Proberaum für Musikschaffende in Sitten.",
+                  "category": "cultural",
+                  "coords": [
+                        7.359279,
+                        46.240699
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Le Baladin",
+                  "text": "Das Kulturzentrum 'Le Baladin' in Savièse bei Sitten für verschiedene Anlässe.",
+                  "category": "cultural",
+                  "coords": [
+                        7.351892,
+                        46.24863
+                  ]
+            },
+            {
+                  "name": "Chapelle de Vissigen",
+                  "text": "Eine kleine Kapelle im Ortsteil Vissigen in der Stadt Sitten.",
+                  "category": "religious",
+                  "coords": [
+                        7.374185,
+                        46.229828
+                  ]
+            },
+            {
+                  "name": "Saint-Guérin",
+                  "text": "Eine traditionelle christliche Gebetsstätte in der Stadt Sitten.",
+                  "category": "religious",
+                  "coords": [
+                        7.349567,
+                        46.230785
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "Diese Kirche ist eine dem Heiligsten Herzen Jesu gewidmete Gebetsstätte.",
+                  "category": "religious",
+                  "coords": [
+                        7.361719,
+                        46.230191
+                  ]
+            },
+            {
+                  "name": "Chapelle de Tous les Saints",
+                  "text": "Eine historische Kapelle in Sitten, die allen Heiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        7.365204,
+                        46.234655
+                  ]
+            },
+            {
+                  "name": "Tour des Sorciers",
+                  "text": "Ein historischer Turm, der einst Teil der mittelalterlichen Stadtbefestigung von Sitten war.",
+                  "category": "tower",
+                  "coords": [
+                        7.357647,
+                        46.234896
+                  ]
+            },
+            {
+                  "name": "Eglise de St-Germain",
+                  "text": "Eine historische Kirche im Stadtteil St-Germain von Sitten.",
+                  "category": "religious",
+                  "coords": [
+                        7.349594,
+                        46.250667
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château de Montorge",
+                  "text": "Középkori hegyi vár romja Sitten felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.334639,
+                        46.230607
+                  ]
+            },
+            {
+                  "name": "Musée de l'Evêché",
+                  "text": "Sitteni múzeum, amely az egykori püspöki palotában kapott helyet.",
+                  "category": "museum",
+                  "coords": [
+                        7.35834,
+                        46.233432
+                  ]
+            },
+            {
+                  "name": "Chateau de la Soie",
+                  "text": "Egy egykori vár maradványai egy dombon Sitten közelében.",
+                  "category": "castle",
+                  "coords": [
+                        7.326847,
+                        46.24353
+                  ]
+            },
+            {
+                  "name": "La Majorie",
+                  "text": "Történelmi épületegyüttes Sittenben, amely ma a művészeti múzeum része.",
+                  "category": "historical",
+                  "coords": [
+                        7.361705,
+                        46.234638
+                  ]
+            },
+            {
+                  "name": "Château de Tourbillon",
+                  "text": "Jellegzetes várrom egy sziklán Sitten városa felett.",
+                  "category": "castle",
+                  "coords": [
+                        7.367183,
+                        46.236492
+                  ]
+            },
+            {
+                  "name": "Nécropole du Petit-Chasseur",
+                  "text": "Jelentős őskori lelőhely megalitikus sírokkal Sittenben.",
+                  "category": "historical",
+                  "coords": [
+                        7.351409,
+                        46.231814
+                  ]
+            },
+            {
+                  "name": "Le Pénitencier",
+                  "text": "Sitteni kiállítóhely, amely egy egykori börtön épületében működik.",
+                  "category": "museum",
+                  "coords": [
+                        7.36353,
+                        46.234762
+                  ]
+            },
+            {
+                  "name": "Théâtre Indocile",
+                  "text": "Helyi színház Sittenben kortárs előadóművészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.368453,
+                        46.221533
+                  ]
+            },
+            {
+                  "name": "Theatro Comico",
+                  "text": "Kisméretű színház Sittenben, amely vígjátékokra és szórakoztatásra szakosodott.",
+                  "category": "cultural",
+                  "coords": [
+                        7.358992,
+                        46.235191
+                  ]
+            },
+            {
+                  "name": "Maison du Diable",
+                  "text": "Történelmi ház Sittenben, amely a Fellini Alapítvány mozijának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        7.358401,
+                        46.228725
+                  ]
+            },
+            {
+                  "name": "Centre pédagogique pour la prévention en cas de séismes (CPPS)",
+                  "text": "Sitteni oktatási központ a földrengés-megelőzésről és tájékoztatásról.",
+                  "category": "museum",
+                  "coords": [
+                        7.363319,
+                        46.227265
+                  ]
+            },
+            {
+                  "name": "le Spot → Petithéâtre",
+                  "text": "A sitteni Spot színház színpada kabaré és kisebb produkciók számára.",
+                  "category": "cultural",
+                  "coords": [
+                        7.361647,
+                        46.233582
+                  ]
+            },
+            {
+                  "name": "Maison de la nature Montorge",
+                  "text": "Természetvédelmi központ a Montorge-tónál Sittenben, biodiverzitás kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        7.338935,
+                        46.233108
+                  ]
+            },
+            {
+                  "name": "Maison Supersaxo",
+                  "text": "Reneszánsz ház Sittenben, amely híres díszes faragott fagerendás mennyezetéről.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359921,
+                        46.233197
+                  ]
+            },
+            {
+                  "name": "Real Fly",
+                  "text": "Szabadidős létesítmény Sittenben, amely beltéri szabadesést kínál szélcsatornában.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35185,
+                        46.21977
+                  ]
+            },
+            {
+                  "name": "RLC Totem",
+                  "text": "Ifjúsági és kulturális központ Sittenben különféle szabadidős lehetőségekkel.",
+                  "category": "cultural",
+                  "coords": [
+                        7.362685,
+                        46.238143
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "Sittenben kiállított történelmi Hawker Hunter típusú vadászrepülőgép.",
+                  "category": "landmark",
+                  "coords": [
+                        7.335401,
+                        46.219537
+                  ]
+            },
+            {
+                  "name": "De Havilland Hunter",
+                  "text": "Kiállított De Havilland Hunter repülőgép mint emlékmű Sittenben.",
+                  "category": "landmark",
+                  "coords": [
+                        7.347779,
+                        46.218697
+                  ]
+            },
+            {
+                  "name": "Pôle Musique",
+                  "text": "Zenei kompetenciaközpont és próbaterem zenészek számára Sittenben.",
+                  "category": "cultural",
+                  "coords": [
+                        7.359279,
+                        46.240699
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Le Baladin",
+                  "text": "A Sitten közeli Savièse-ben található 'Le Baladin' kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        7.351892,
+                        46.24863
+                  ]
+            },
+            {
+                  "name": "Chapelle de Vissigen",
+                  "text": "Kis kápolna Sitten városának Vissigen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        7.374185,
+                        46.229828
+                  ]
+            },
+            {
+                  "name": "Saint-Guérin",
+                  "text": "Hagyományos keresztény imaház Sitten városában.",
+                  "category": "religious",
+                  "coords": [
+                        7.349567,
+                        46.230785
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "Ez a templom Jézus Szent Szívének szentelt imaház.",
+                  "category": "religious",
+                  "coords": [
+                        7.361719,
+                        46.230191
+                  ]
+            },
+            {
+                  "name": "Chapelle de Tous les Saints",
+                  "text": "Sitten egyik történelmi kápolnája, amelyet Mindenszentek tiszteletére emeltek.",
+                  "category": "religious",
+                  "coords": [
+                        7.365204,
+                        46.234655
+                  ]
+            },
+            {
+                  "name": "Tour des Sorciers",
+                  "text": "Történelmi torony, amely egykor Sitten középkori városfalának része volt.",
+                  "category": "tower",
+                  "coords": [
+                        7.357647,
+                        46.234896
+                  ]
+            },
+            {
+                  "name": "Eglise de St-Germain",
+                  "text": "Történelmi templom Sitten St-Germain negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        7.349594,
+                        46.250667
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château de Montorge",
+                  "text": "Ruina unui castel medieval situat pe un deal deasupra orașului Sion.",
+                  "category": "castle",
+                  "coords": [
+                        7.334639,
+                        46.230607
+                  ]
+            },
+            {
+                  "name": "Musée de l'Evêché",
+                  "text": "Un muzeu în Sion situat în fostul palat episcopal.",
+                  "category": "museum",
+                  "coords": [
+                        7.35834,
+                        46.233432
+                  ]
+            },
+            {
+                  "name": "Chateau de la Soie",
+                  "text": "Rămășițele unui fost castel pe un deal din apropiere de Sion.",
+                  "category": "castle",
+                  "coords": [
+                        7.326847,
+                        46.24353
+                  ]
+            },
+            {
+                  "name": "La Majorie",
+                  "text": "Un ansamblu istoric de clădiri în Sion, care astăzi face parte din muzeul de artă.",
+                  "category": "historical",
+                  "coords": [
+                        7.361705,
+                        46.234638
+                  ]
+            },
+            {
+                  "name": "Château de Tourbillon",
+                  "text": "O ruină impunătoare de castel pe o stâncă deasupra orașului Sion.",
+                  "category": "castle",
+                  "coords": [
+                        7.367183,
+                        46.236492
+                  ]
+            },
+            {
+                  "name": "Nécropole du Petit-Chasseur",
+                  "text": "Un sit preistoric important cu morminte megalitice în Sion.",
+                  "category": "historical",
+                  "coords": [
+                        7.351409,
+                        46.231814
+                  ]
+            },
+            {
+                  "name": "Le Pénitencier",
+                  "text": "Un centru de expoziții în Sion, găzduit într-o fostă închisoare.",
+                  "category": "museum",
+                  "coords": [
+                        7.36353,
+                        46.234762
+                  ]
+            },
+            {
+                  "name": "Théâtre Indocile",
+                  "text": "Un teatru local în Sion pentru artă scenică contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        7.368453,
+                        46.221533
+                  ]
+            },
+            {
+                  "name": "Theatro Comico",
+                  "text": "Un teatru mic în Sion, specializat în comedie și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        7.358992,
+                        46.235191
+                  ]
+            },
+            {
+                  "name": "Maison du Diable",
+                  "text": "O casă istorică în Sion, unde se află fundația cinematografică Fellini.",
+                  "category": "museum",
+                  "coords": [
+                        7.358401,
+                        46.228725
+                  ]
+            },
+            {
+                  "name": "Centre pédagogique pour la prévention en cas de séismes (CPPS)",
+                  "text": "Un centru educațional în Sion pentru prevenirea și informarea despre cutremure.",
+                  "category": "museum",
+                  "coords": [
+                        7.363319,
+                        46.227265
+                  ]
+            },
+            {
+                  "name": "le Spot → Petithéâtre",
+                  "text": "O scenă a teatrului Spot din Sion pentru spectacole mici și producții restrânse.",
+                  "category": "cultural",
+                  "coords": [
+                        7.361647,
+                        46.233582
+                  ]
+            },
+            {
+                  "name": "Maison de la nature Montorge",
+                  "text": "Un centru al naturii la lacul Montorge din Sion, oferind expoziții despre biodiversitate.",
+                  "category": "museum",
+                  "coords": [
+                        7.338935,
+                        46.233108
+                  ]
+            },
+            {
+                  "name": "Maison Supersaxo",
+                  "text": "O casă renascentistă în Sion, cunoscută pentru tavanul său sculptat în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359921,
+                        46.233197
+                  ]
+            },
+            {
+                  "name": "Real Fly",
+                  "text": "O facilitate de agrement din Sion care oferă parașutism în interior într-un tunel de vânt.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35185,
+                        46.21977
+                  ]
+            },
+            {
+                  "name": "RLC Totem",
+                  "text": "Un centru de tineret și cultură în Sion, cu diverse oferte de agrement.",
+                  "category": "cultural",
+                  "coords": [
+                        7.362685,
+                        46.238143
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "Un avion de vânătoare istoric de tip Hawker Hunter expus în Sion.",
+                  "category": "landmark",
+                  "coords": [
+                        7.335401,
+                        46.219537
+                  ]
+            },
+            {
+                  "name": "De Havilland Hunter",
+                  "text": "Un avion De Havilland Hunter expus ca monument în Sion.",
+                  "category": "landmark",
+                  "coords": [
+                        7.347779,
+                        46.218697
+                  ]
+            },
+            {
+                  "name": "Pôle Musique",
+                  "text": "Un centru de competență și sală de repetiții pentru muzicieni în Sion.",
+                  "category": "cultural",
+                  "coords": [
+                        7.359279,
+                        46.240699
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Le Baladin",
+                  "text": "Centrul cultural „Le Baladin” din Savièse, lângă Sion, pentru diverse evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        7.351892,
+                        46.24863
+                  ]
+            },
+            {
+                  "name": "Chapelle de Vissigen",
+                  "text": "O mică chapelă în cartierul Vissigen din orașul Sion.",
+                  "category": "religious",
+                  "coords": [
+                        7.374185,
+                        46.229828
+                  ]
+            },
+            {
+                  "name": "Saint-Guérin",
+                  "text": "Un lăcaș de cult creștin tradițional din orașul Sion.",
+                  "category": "religious",
+                  "coords": [
+                        7.349567,
+                        46.230785
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "Această biserică este un lăcaș de cult dedicat Inimii Preasfinte a lui Isus.",
+                  "category": "religious",
+                  "coords": [
+                        7.361719,
+                        46.230191
+                  ]
+            },
+            {
+                  "name": "Chapelle de Tous les Saints",
+                  "text": "O capelă istorică din Sion, dedicată Tuturor Sfinților.",
+                  "category": "religious",
+                  "coords": [
+                        7.365204,
+                        46.234655
+                  ]
+            },
+            {
+                  "name": "Tour des Sorciers",
+                  "text": "Un turn istoric care a făcut parte din fortificațiile medievale ale orașului Sion.",
+                  "category": "tower",
+                  "coords": [
+                        7.357647,
+                        46.234896
+                  ]
+            },
+            {
+                  "name": "Eglise de St-Germain",
+                  "text": "O biserică istorică aflată în cartierul St-Germain din Sion.",
+                  "category": "religious",
+                  "coords": [
+                        7.349594,
+                        46.250667
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château de Montorge",
+                  "text": "The ruins of a medieval hilltop castle above Sion.",
+                  "category": "castle",
+                  "coords": [
+                        7.334639,
+                        46.230607
+                  ]
+            },
+            {
+                  "name": "Musée de l'Evêché",
+                  "text": "A museum in Sion located in the former episcopal palace.",
+                  "category": "museum",
+                  "coords": [
+                        7.35834,
+                        46.233432
+                  ]
+            },
+            {
+                  "name": "Chateau de la Soie",
+                  "text": "The remains of a former castle on a hill near Sion.",
+                  "category": "castle",
+                  "coords": [
+                        7.326847,
+                        46.24353
+                  ]
+            },
+            {
+                  "name": "La Majorie",
+                  "text": "A historic building complex in Sion that is now part of the art museum.",
+                  "category": "historical",
+                  "coords": [
+                        7.361705,
+                        46.234638
+                  ]
+            },
+            {
+                  "name": "Château de Tourbillon",
+                  "text": "A prominent castle ruin on a rocky hill overlooking the city of Sion.",
+                  "category": "castle",
+                  "coords": [
+                        7.367183,
+                        46.236492
+                  ]
+            },
+            {
+                  "name": "Nécropole du Petit-Chasseur",
+                  "text": "An important prehistoric site with megalithic tombs in Sion.",
+                  "category": "historical",
+                  "coords": [
+                        7.351409,
+                        46.231814
+                  ]
+            },
+            {
+                  "name": "Le Pénitencier",
+                  "text": "An exhibition center in Sion housed in a former prison.",
+                  "category": "museum",
+                  "coords": [
+                        7.36353,
+                        46.234762
+                  ]
+            },
+            {
+                  "name": "Théâtre Indocile",
+                  "text": "A local theatre in Sion for contemporary performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        7.368453,
+                        46.221533
+                  ]
+            },
+            {
+                  "name": "Theatro Comico",
+                  "text": "A small theatre in Sion specializing in comedy and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        7.358992,
+                        46.235191
+                  ]
+            },
+            {
+                  "name": "Maison du Diable",
+                  "text": "A historic house in Sion that houses the Fellini Foundation cinema.",
+                  "category": "museum",
+                  "coords": [
+                        7.358401,
+                        46.228725
+                  ]
+            },
+            {
+                  "name": "Centre pédagogique pour la prévention en cas de séismes (CPPS)",
+                  "text": "An educational center in Sion for earthquake prevention and information.",
+                  "category": "museum",
+                  "coords": [
+                        7.363319,
+                        46.227265
+                  ]
+            },
+            {
+                  "name": "le Spot → Petithéâtre",
+                  "text": "A stage of the Spot theatre in Sion for cabaret and smaller productions.",
+                  "category": "cultural",
+                  "coords": [
+                        7.361647,
+                        46.233582
+                  ]
+            },
+            {
+                  "name": "Maison de la nature Montorge",
+                  "text": "A nature center by Lake Montorge in Sion offering exhibitions on biodiversity.",
+                  "category": "museum",
+                  "coords": [
+                        7.338935,
+                        46.233108
+                  ]
+            },
+            {
+                  "name": "Maison Supersaxo",
+                  "text": "A Renaissance house in Sion known for its magnificent carved wooden ceiling.",
+                  "category": "landmark",
+                  "coords": [
+                        7.359921,
+                        46.233197
+                  ]
+            },
+            {
+                  "name": "Real Fly",
+                  "text": "A leisure facility in Sion offering indoor skydiving in a wind tunnel.",
+                  "category": "landmark",
+                  "coords": [
+                        7.35185,
+                        46.21977
+                  ]
+            },
+            {
+                  "name": "RLC Totem",
+                  "text": "A youth and cultural center in Sion with various leisure activities.",
+                  "category": "cultural",
+                  "coords": [
+                        7.362685,
+                        46.238143
+                  ]
+            },
+            {
+                  "name": "Hawker Hunter",
+                  "text": "A historic Hawker Hunter fighter jet on display in Sion.",
+                  "category": "landmark",
+                  "coords": [
+                        7.335401,
+                        46.219537
+                  ]
+            },
+            {
+                  "name": "De Havilland Hunter",
+                  "text": "A De Havilland Hunter aircraft on display as a monument in Sion.",
+                  "category": "landmark",
+                  "coords": [
+                        7.347779,
+                        46.218697
+                  ]
+            },
+            {
+                  "name": "Pôle Musique",
+                  "text": "A competence center and rehearsal space for musicians in Sion.",
+                  "category": "cultural",
+                  "coords": [
+                        7.359279,
+                        46.240699
+                  ]
+            },
+            {
+                  "name": "Centre Culturel Le Baladin",
+                  "text": "The 'Le Baladin' cultural center in Savièse near Sion for various events.",
+                  "category": "cultural",
+                  "coords": [
+                        7.351892,
+                        46.24863
+                  ]
+            },
+            {
+                  "name": "Chapelle de Vissigen",
+                  "text": "A small chapel in the Vissigen district of the city of Sion.",
+                  "category": "religious",
+                  "coords": [
+                        7.374185,
+                        46.229828
+                  ]
+            },
+            {
+                  "name": "Saint-Guérin",
+                  "text": "A traditional Christian place of worship in the city of Sion.",
+                  "category": "religious",
+                  "coords": [
+                        7.349567,
+                        46.230785
+                  ]
+            },
+            {
+                  "name": "Église du Sacré-Coeur",
+                  "text": "This church is a place of worship dedicated to the Sacred Heart of Jesus.",
+                  "category": "religious",
+                  "coords": [
+                        7.361719,
+                        46.230191
+                  ]
+            },
+            {
+                  "name": "Chapelle de Tous les Saints",
+                  "text": "A historic chapel in Sion dedicated to All Saints.",
+                  "category": "religious",
+                  "coords": [
+                        7.365204,
+                        46.234655
+                  ]
+            },
+            {
+                  "name": "Tour des Sorciers",
+                  "text": "A historic tower that was once part of the medieval city fortifications of Sion.",
+                  "category": "tower",
+                  "coords": [
+                        7.357647,
+                        46.234896
+                  ]
+            },
+            {
+                  "name": "Eglise de St-Germain",
+                  "text": "A historic church located in the St-Germain district of Sion.",
+                  "category": "religious",
+                  "coords": [
+                        7.349594,
+                        46.250667
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [7.3589, 46.2331],
@@ -1293,7 +21426,592 @@ export const switzerlandCities: POI[] = [
     },
   },
   {
-    id: "city-montreux",
+    id: "city-montreux", "sights": {
+      "de": [
+            {
+                  "name": "Château du Châtelard",
+                  "text": "Ein historisches Schloss in Montreux, das über den Weinbergen liegt.",
+                  "category": "castle",
+                  "coords": [
+                        6.89917,
+                        46.447482
+                  ]
+            },
+            {
+                  "name": "Théâtre Montreux Riviera",
+                  "text": "Ein Theater in Montreux, das kulturelle Aufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        6.914962,
+                        46.43416
+                  ]
+            },
+            {
+                  "name": "Fort de Chillon",
+                  "text": "Eine ehemalige Militärfestung bei Montreux, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        6.92885,
+                        46.414456
+                  ]
+            },
+            {
+                  "name": "Musée de Montreux",
+                  "text": "Ein Museum in Montreux, das die lokale Geschichte und Traditionen dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.913726,
+                        46.434104
+                  ]
+            },
+            {
+                  "name": "Sallauscex",
+                  "text": "Ein Aussichtspunkt bei Montreux mit Panoramablick auf den Genfersee.",
+                  "category": "natural",
+                  "coords": [
+                        6.922183,
+                        46.450128
+                  ]
+            },
+            {
+                  "name": "Le Cubly",
+                  "text": "Ein Aussichtsgipfel oberhalb von Montreux mit Blick auf den Genfersee.",
+                  "category": "natural",
+                  "coords": [
+                        6.924776,
+                        46.45311
+                  ]
+            },
+            {
+                  "name": "Queen - The Studio Experience",
+                  "text": "Eine Ausstellung in den ehemaligen Mountain Studios, die der Band Queen gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        6.912032,
+                        46.429668
+                  ]
+            },
+            {
+                  "name": "Museum LV",
+                  "text": "Eine Kunstgalerie in Montreux, die zeitgenössische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        6.909023,
+                        46.43645
+                  ]
+            },
+            {
+                  "name": "Janus Gallery",
+                  "text": "Ein Ausstellungsraum für Kunst in der Stadt Montreux.",
+                  "category": "museum",
+                  "coords": [
+                        6.907506,
+                        46.437883
+                  ]
+            },
+            {
+                  "name": "Laurentmarthaler",
+                  "text": "Eine Galerie in Montreux, die sich auf moderne Kunst spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        6.906293,
+                        46.438844
+                  ]
+            },
+            {
+                  "name": "Freddie Tours",
+                  "text": "Geführte Rundgänge in Montreux auf den Spuren von Freddie Mercury.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909756,
+                        46.432037
+                  ]
+            },
+            {
+                  "name": "Ste-Thérèse",
+                  "text": "Eine katholische Kirche im Stadtgebiet von Montreux.",
+                  "category": "religious",
+                  "coords": [
+                        6.892495,
+                        46.441976
+                  ]
+            },
+            {
+                  "name": "Saint-John",
+                  "text": "Eine anglikanische Kirche in Montreux, die für die örtliche Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.923176,
+                        46.426798
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Vincent",
+                  "text": "Eine historische reformierte Kirche mit Blick über Montreux und den See.",
+                  "category": "religious",
+                  "coords": [
+                        6.918868,
+                        46.431343
+                  ]
+            },
+            {
+                  "name": "Sacré-Coeur",
+                  "text": "Ein religiöses Gebäude in Montreux, das der Verehrung dient.",
+                  "category": "religious",
+                  "coords": [
+                        6.912792,
+                        46.430739
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "Das Kirchengebäude der Neuapostolischen Gemeinde in Montreux.",
+                  "category": "religious",
+                  "coords": [
+                        6.904261,
+                        46.4401
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Château du Châtelard",
+                  "text": "Történelmi kastély Montreux-ben, amely a szőlőültetvények felett található.",
+                  "category": "castle",
+                  "coords": [
+                        6.89917,
+                        46.447482
+                  ]
+            },
+            {
+                  "name": "Théâtre Montreux Riviera",
+                  "text": "Montreux-i színház, amely kulturális előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        6.914962,
+                        46.43416
+                  ]
+            },
+            {
+                  "name": "Fort de Chillon",
+                  "text": "Egykori katonai erőd Montreux közelében, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        6.92885,
+                        46.414456
+                  ]
+            },
+            {
+                  "name": "Musée de Montreux",
+                  "text": "Montreux-i múzeum, amely a helyi történelmet és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        6.913726,
+                        46.434104
+                  ]
+            },
+            {
+                  "name": "Sallauscex",
+                  "text": "Kilátóhely Montreux közelében, panorámás kilátással a Genfi-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        6.922183,
+                        46.450128
+                  ]
+            },
+            {
+                  "name": "Le Cubly",
+                  "text": "Kilátóhely Montreux felett, kilátással a Genfi-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        6.924776,
+                        46.45311
+                  ]
+            },
+            {
+                  "name": "Queen - The Studio Experience",
+                  "text": "A Queen együttesnek szentelt kiállítás a korábbi Mountain Studios helyén.",
+                  "category": "landmark",
+                  "coords": [
+                        6.912032,
+                        46.429668
+                  ]
+            },
+            {
+                  "name": "Museum LV",
+                  "text": "Kortárs műveket bemutató művészeti galéria Montreux-ben.",
+                  "category": "museum",
+                  "coords": [
+                        6.909023,
+                        46.43645
+                  ]
+            },
+            {
+                  "name": "Janus Gallery",
+                  "text": "Művészeti kiállítótér Montreux városában.",
+                  "category": "museum",
+                  "coords": [
+                        6.907506,
+                        46.437883
+                  ]
+            },
+            {
+                  "name": "Laurentmarthaler",
+                  "text": "Modern művészetre szakosodott galéria Montreux-ben.",
+                  "category": "museum",
+                  "coords": [
+                        6.906293,
+                        46.438844
+                  ]
+            },
+            {
+                  "name": "Freddie Tours",
+                  "text": "Freddie Mercury nyomait követő vezetett séták Montreux-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909756,
+                        46.432037
+                  ]
+            },
+            {
+                  "name": "Ste-Thérèse",
+                  "text": "Katolikus templom Montreux városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        6.892495,
+                        46.441976
+                  ]
+            },
+            {
+                  "name": "Saint-John",
+                  "text": "Anglikán templom Montreux-ben, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        6.923176,
+                        46.426798
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Vincent",
+                  "text": "Történelmi református templom, kilátással Montreux-re és a tóra.",
+                  "category": "religious",
+                  "coords": [
+                        6.918868,
+                        46.431343
+                  ]
+            },
+            {
+                  "name": "Sacré-Coeur",
+                  "text": "Vallási épület Montreux-ben, amely az istentisztelet helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        6.912792,
+                        46.430739
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "Az Újaposztolikus Egyház templomépülete Montreux-ben.",
+                  "category": "religious",
+                  "coords": [
+                        6.904261,
+                        46.4401
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Château du Châtelard",
+                  "text": "Un castel istoric din Montreux, situat deasupra podgoriilor.",
+                  "category": "castle",
+                  "coords": [
+                        6.89917,
+                        46.447482
+                  ]
+            },
+            {
+                  "name": "Théâtre Montreux Riviera",
+                  "text": "Un teatru din Montreux care oferă spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        6.914962,
+                        46.43416
+                  ]
+            },
+            {
+                  "name": "Fort de Chillon",
+                  "text": "O fostă fortăreață militară de lângă Montreux, care astăzi servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        6.92885,
+                        46.414456
+                  ]
+            },
+            {
+                  "name": "Musée de Montreux",
+                  "text": "Un muzeu din Montreux care documentează istoria și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        6.913726,
+                        46.434104
+                  ]
+            },
+            {
+                  "name": "Sallauscex",
+                  "text": "Un punct de observație lângă Montreux, cu o vedere panoramică asupra lacului Geneva.",
+                  "category": "natural",
+                  "coords": [
+                        6.922183,
+                        46.450128
+                  ]
+            },
+            {
+                  "name": "Le Cubly",
+                  "text": "Un vârf de munte deasupra orașului Montreux, cu vedere spre Lacul Geneva.",
+                  "category": "natural",
+                  "coords": [
+                        6.924776,
+                        46.45311
+                  ]
+            },
+            {
+                  "name": "Queen - The Studio Experience",
+                  "text": "O expoziție dedicată formației Queen, situată în fostele studiouri Mountain Studios.",
+                  "category": "landmark",
+                  "coords": [
+                        6.912032,
+                        46.429668
+                  ]
+            },
+            {
+                  "name": "Museum LV",
+                  "text": "O galerie de artă din Montreux care prezintă lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        6.909023,
+                        46.43645
+                  ]
+            },
+            {
+                  "name": "Janus Gallery",
+                  "text": "Un spațiu expoziționar de artă în orașul Montreux.",
+                  "category": "museum",
+                  "coords": [
+                        6.907506,
+                        46.437883
+                  ]
+            },
+            {
+                  "name": "Laurentmarthaler",
+                  "text": "O galerie din Montreux specializată în artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        6.906293,
+                        46.438844
+                  ]
+            },
+            {
+                  "name": "Freddie Tours",
+                  "text": "Tururi ghidate în Montreux pe urmele lui Freddie Mercury.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909756,
+                        46.432037
+                  ]
+            },
+            {
+                  "name": "Ste-Thérèse",
+                  "text": "O biserică catolică din zona urbană a orașului Montreux.",
+                  "category": "religious",
+                  "coords": [
+                        6.892495,
+                        46.441976
+                  ]
+            },
+            {
+                  "name": "Saint-John",
+                  "text": "O biserică anglicană din Montreux care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        6.923176,
+                        46.426798
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Vincent",
+                  "text": "O biserică reformată istorică, cu vedere spre Montreux și lac.",
+                  "category": "religious",
+                  "coords": [
+                        6.918868,
+                        46.431343
+                  ]
+            },
+            {
+                  "name": "Sacré-Coeur",
+                  "text": "Un edificiu religios din Montreux destinat cultului.",
+                  "category": "religious",
+                  "coords": [
+                        6.912792,
+                        46.430739
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "Clădirea bisericii Comunității Nou-Apostolice din Montreux.",
+                  "category": "religious",
+                  "coords": [
+                        6.904261,
+                        46.4401
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Château du Châtelard",
+                  "text": "A historic castle in Montreux overlooking the vineyards.",
+                  "category": "castle",
+                  "coords": [
+                        6.89917,
+                        46.447482
+                  ]
+            },
+            {
+                  "name": "Théâtre Montreux Riviera",
+                  "text": "A theatre in Montreux offering cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        6.914962,
+                        46.43416
+                  ]
+            },
+            {
+                  "name": "Fort de Chillon",
+                  "text": "A former military fortress near Montreux that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        6.92885,
+                        46.414456
+                  ]
+            },
+            {
+                  "name": "Musée de Montreux",
+                  "text": "A museum in Montreux documenting the local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        6.913726,
+                        46.434104
+                  ]
+            },
+            {
+                  "name": "Sallauscex",
+                  "text": "A viewpoint near Montreux offering panoramic views of Lake Geneva.",
+                  "category": "natural",
+                  "coords": [
+                        6.922183,
+                        46.450128
+                  ]
+            },
+            {
+                  "name": "Le Cubly",
+                  "text": "A mountain peak above Montreux offering views of Lake Geneva.",
+                  "category": "natural",
+                  "coords": [
+                        6.924776,
+                        46.45311
+                  ]
+            },
+            {
+                  "name": "Queen - The Studio Experience",
+                  "text": "An exhibition dedicated to the band Queen, located in the former Mountain Studios.",
+                  "category": "landmark",
+                  "coords": [
+                        6.912032,
+                        46.429668
+                  ]
+            },
+            {
+                  "name": "Museum LV",
+                  "text": "An art gallery in Montreux showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        6.909023,
+                        46.43645
+                  ]
+            },
+            {
+                  "name": "Janus Gallery",
+                  "text": "An art exhibition space located in the city of Montreux.",
+                  "category": "museum",
+                  "coords": [
+                        6.907506,
+                        46.437883
+                  ]
+            },
+            {
+                  "name": "Laurentmarthaler",
+                  "text": "A gallery in Montreux specializing in modern art.",
+                  "category": "museum",
+                  "coords": [
+                        6.906293,
+                        46.438844
+                  ]
+            },
+            {
+                  "name": "Freddie Tours",
+                  "text": "Guided walking tours in Montreux following the footsteps of Freddie Mercury.",
+                  "category": "landmark",
+                  "coords": [
+                        6.909756,
+                        46.432037
+                  ]
+            },
+            {
+                  "name": "Ste-Thérèse",
+                  "text": "A Catholic church located within the urban area of Montreux.",
+                  "category": "religious",
+                  "coords": [
+                        6.892495,
+                        46.441976
+                  ]
+            },
+            {
+                  "name": "Saint-John",
+                  "text": "An Anglican church in Montreux serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        6.923176,
+                        46.426798
+                  ]
+            },
+            {
+                  "name": "Temple Saint-Vincent",
+                  "text": "A historic reformed church overlooking Montreux and the lake.",
+                  "category": "religious",
+                  "coords": [
+                        6.918868,
+                        46.431343
+                  ]
+            },
+            {
+                  "name": "Sacré-Coeur",
+                  "text": "A religious building in Montreux used for worship.",
+                  "category": "religious",
+                  "coords": [
+                        6.912792,
+                        46.430739
+                  ]
+            },
+            {
+                  "name": "Église Néo-Apostolique",
+                  "text": "The church building of the New Apostolic community in Montreux.",
+                  "category": "religious",
+                  "coords": [
+                        6.904261,
+                        46.4401
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-switzerland",
     coords: [6.9108, 46.4312],

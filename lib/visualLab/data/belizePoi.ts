@@ -44,7 +44,448 @@ export const belizeCities: POI[] = [
     historyYear: 1970,
     historyPeriod: "Modern", image: "/poi-images/bz-belmopan.webp"},
   { 
-    id: "bz-belizecity", 
+    id: "bz-belizecity", "sights": {
+      "de": [
+            {
+                  "name": "Baron Bliss Lighthouse",
+                  "text": "Leuchtturm, der zum Gedenken an den Wohltäter Baron Bliss errichtet wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.181417,
+                        17.49141
+                  ]
+            },
+            {
+                  "name": "Museum of Belize",
+                  "text": "Museum, das die Geschichte und Kultur von Belize präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -88.183471,
+                        17.498086
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Kulturmuseum im ehemaligen Regierungsgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        -88.187088,
+                        17.488591
+                  ]
+            },
+            {
+                  "name": "Krooman Public Reserve",
+                  "text": "Geschütztes Naturgebiet in der Nähe von Belize City.",
+                  "category": "natural",
+                  "coords": [
+                        -88.21259,
+                        17.497958
+                  ]
+            },
+            {
+                  "name": "National Flags Monument",
+                  "text": "Denkmal, das die Nationalflaggen von Belize zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -88.196351,
+                        17.504275
+                  ]
+            },
+            {
+                  "name": "BELIZE sign",
+                  "text": "Farbenfroher Schriftzug, der die Identität der Stadt für Besucher darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.210166,
+                        17.514883
+                  ]
+            },
+            {
+                  "name": "Terminal 1",
+                  "text": "Moderner Ankunfts- und Abfahrtspunkt für Kreuzfahrtpassagiere.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.183097,
+                        17.492722
+                  ]
+            },
+            {
+                  "name": "Fred West",
+                  "text": "Denkmal zu Ehren von Fred West in der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -88.1889,
+                        17.488612
+                  ]
+            },
+            {
+                  "name": "Bliss Institute for Performing Arts",
+                  "text": "Kulturzentrum für Theater und darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.186053,
+                        17.493398
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Galerie, die lokale Kunstwerke in Belize City ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -88.198881,
+                        17.512907
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer Cathedral",
+                  "text": "Bedeutende katholische Kathedrale und historisches Wahrzeichen.",
+                  "category": "religious",
+                  "coords": [
+                        -88.187047,
+                        17.496349
+                  ]
+            },
+            {
+                  "name": "St. Martin de Porres Catholic Church",
+                  "text": "Lokale katholische Pfarrkirche, die der Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -88.201084,
+                        17.498934
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baron Bliss Lighthouse",
+                  "text": "A jótevő Baron Bliss emlékére emelt világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.181417,
+                        17.49141
+                  ]
+            },
+            {
+                  "name": "Museum of Belize",
+                  "text": "Belize történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -88.183471,
+                        17.498086
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Kulturális múzeum az egykori kormányzati épületben.",
+                  "category": "museum",
+                  "coords": [
+                        -88.187088,
+                        17.488591
+                  ]
+            },
+            {
+                  "name": "Krooman Public Reserve",
+                  "text": "Védett természeti terület Belize City közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -88.21259,
+                        17.497958
+                  ]
+            },
+            {
+                  "name": "National Flags Monument",
+                  "text": "Belize nemzeti zászlóit bemutató emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -88.196351,
+                        17.504275
+                  ]
+            },
+            {
+                  "name": "BELIZE sign",
+                  "text": "Színes felirat, amely a város identitását jelképezi a látogatók számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.210166,
+                        17.514883
+                  ]
+            },
+            {
+                  "name": "Terminal 1",
+                  "text": "Modern érkezési és indulási pont hajós turisták számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.183097,
+                        17.492722
+                  ]
+            },
+            {
+                  "name": "Fred West",
+                  "text": "Fred West tiszteletére emelt emlékmű a városban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.1889,
+                        17.488612
+                  ]
+            },
+            {
+                  "name": "Bliss Institute for Performing Arts",
+                  "text": "Színházi és előadó-művészeti kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.186053,
+                        17.493398
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Helyi műalkotásokat bemutató galéria Belize Cityben.",
+                  "category": "museum",
+                  "coords": [
+                        -88.198881,
+                        17.512907
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer Cathedral",
+                  "text": "Fontos katolikus székesegyház és történelmi jelentőségű épület.",
+                  "category": "religious",
+                  "coords": [
+                        -88.187047,
+                        17.496349
+                  ]
+            },
+            {
+                  "name": "St. Martin de Porres Catholic Church",
+                  "text": "A helyi közösséget kiszolgáló katolikus plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        -88.201084,
+                        17.498934
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baron Bliss Lighthouse",
+                  "text": "Far construit în memoria binefăcătorului Baron Bliss.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.181417,
+                        17.49141
+                  ]
+            },
+            {
+                  "name": "Museum of Belize",
+                  "text": "Muzeu care prezintă istoria și cultura statului Belize.",
+                  "category": "museum",
+                  "coords": [
+                        -88.183471,
+                        17.498086
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Muzeu cultural situat în fostul sediu al guvernului.",
+                  "category": "museum",
+                  "coords": [
+                        -88.187088,
+                        17.488591
+                  ]
+            },
+            {
+                  "name": "Krooman Public Reserve",
+                  "text": "Rezervație naturală protejată în apropiere de Belize City.",
+                  "category": "natural",
+                  "coords": [
+                        -88.21259,
+                        17.497958
+                  ]
+            },
+            {
+                  "name": "National Flags Monument",
+                  "text": "Monument care expune steagurile naționale ale statului Belize.",
+                  "category": "historical",
+                  "coords": [
+                        -88.196351,
+                        17.504275
+                  ]
+            },
+            {
+                  "name": "BELIZE sign",
+                  "text": "Inscripție colorată care reprezintă identitatea orașului pentru vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.210166,
+                        17.514883
+                  ]
+            },
+            {
+                  "name": "Terminal 1",
+                  "text": "Punct modern de sosire și plecare pentru pasagerii de croazieră.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.183097,
+                        17.492722
+                  ]
+            },
+            {
+                  "name": "Fred West",
+                  "text": "Monument în onoarea lui Fred West în oraș.",
+                  "category": "historical",
+                  "coords": [
+                        -88.1889,
+                        17.488612
+                  ]
+            },
+            {
+                  "name": "Bliss Institute for Performing Arts",
+                  "text": "Centru cultural pentru teatru și arte spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.186053,
+                        17.493398
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Galerie care expune opere de artă locale în Belize City.",
+                  "category": "museum",
+                  "coords": [
+                        -88.198881,
+                        17.512907
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer Cathedral",
+                  "text": "Importantă catedrală catolică și monument istoric.",
+                  "category": "religious",
+                  "coords": [
+                        -88.187047,
+                        17.496349
+                  ]
+            },
+            {
+                  "name": "St. Martin de Porres Catholic Church",
+                  "text": "Biserică parohială catolică locală care deservește comunitatea.",
+                  "category": "religious",
+                  "coords": [
+                        -88.201084,
+                        17.498934
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baron Bliss Lighthouse",
+                  "text": "Lighthouse built in memory of the benefactor Baron Bliss.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.181417,
+                        17.49141
+                  ]
+            },
+            {
+                  "name": "Museum of Belize",
+                  "text": "Museum showcasing the history and culture of Belize.",
+                  "category": "museum",
+                  "coords": [
+                        -88.183471,
+                        17.498086
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Cultural museum located in the former Government House.",
+                  "category": "museum",
+                  "coords": [
+                        -88.187088,
+                        17.488591
+                  ]
+            },
+            {
+                  "name": "Krooman Public Reserve",
+                  "text": "Protected natural area near Belize City.",
+                  "category": "natural",
+                  "coords": [
+                        -88.21259,
+                        17.497958
+                  ]
+            },
+            {
+                  "name": "National Flags Monument",
+                  "text": "Monument displaying the national flags of Belize.",
+                  "category": "historical",
+                  "coords": [
+                        -88.196351,
+                        17.504275
+                  ]
+            },
+            {
+                  "name": "BELIZE sign",
+                  "text": "Colorful sign representing the city's identity for visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.210166,
+                        17.514883
+                  ]
+            },
+            {
+                  "name": "Terminal 1",
+                  "text": "Modern arrival and departure point for cruise passengers.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.183097,
+                        17.492722
+                  ]
+            },
+            {
+                  "name": "Fred West",
+                  "text": "Monument honoring Fred West in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -88.1889,
+                        17.488612
+                  ]
+            },
+            {
+                  "name": "Bliss Institute for Performing Arts",
+                  "text": "Cultural center for theatre and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -88.186053,
+                        17.493398
+                  ]
+            },
+            {
+                  "name": "Art Center",
+                  "text": "Gallery showcasing local artworks in Belize City.",
+                  "category": "museum",
+                  "coords": [
+                        -88.198881,
+                        17.512907
+                  ]
+            },
+            {
+                  "name": "Holy Redeemer Cathedral",
+                  "text": "Important Catholic cathedral and historic landmark.",
+                  "category": "religious",
+                  "coords": [
+                        -88.187047,
+                        17.496349
+                  ]
+            },
+            {
+                  "name": "St. Martin de Porres Catholic Church",
+                  "text": "Local Catholic parish church serving the community.",
+                  "category": "religious",
+                  "coords": [
+                        -88.201084,
+                        17.498934
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "BZ", 
     coords: [-88.1976, 17.4995], 
@@ -80,7 +521,304 @@ export const belizeCities: POI[] = [
     historyYear: 1638,
     historyPeriod: "Colonial", image: "/poi-images/bz-belizecity.webp"},
   { 
-    id: "bz-sanignacio", 
+    id: "bz-sanignacio", "sights": {
+      "de": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "Das Cahal Pech Archaeological Reserve ist eine bedeutende archäologische Stätte der Maya in San Ignacio.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "Das Belize Natural History Archive ist ein lokales Museum in San Ignacio.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "Das Cahal Pech Visitor Center dient als Museum in San Ignacio.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "Das Soul Project ist ein lokales Kunstzentrum in San Ignacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "Das Green Iguana Conservation Project ist eine beliebte lokale Attraktion in San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "Ajaw Chocolate ist eine lokale Attraktion in San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "Der El Cayó Boardwalk ist eine lokale Touristenattraktion in San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "Die St. Andrew's Church ist ein bedeutendes anglikanisches Gotteshaus in San Ignacio.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "A Cahal Pech régészeti rezervátum egy nevezetes maja régészeti lelőhely San Ignacióban.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "A Belize-i Természettörténeti Archívum egy helyi múzeum San Ignacióban.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "A Cahal Pech Látogatóközpont múzeumként működik San Ignacióban.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "A Soul Project egy helyi művészeti központ San Ignacióban.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "A Green Iguana Conservation Project egy népszerű helyi látványosság San Ignacióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "Az Ajaw Chocolate egy helyi látványosság San Ignacióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "Az El Cayó Boardwalk egy helyi turisztikai látványosság San Ignacióban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "A St. Andrew's Church egy nevezetes anglikán istentiszteleti hely San Ignacióban.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "Rezervația arheologică Cahal Pech este un sit arheologic mayaș notabil în San Ignacio.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "Arhiva de Istorie Naturală din Belize este un muzeu local situat în San Ignacio.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "Centrul de vizitatori Cahal Pech funcționează ca muzeu în San Ignacio.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "Soul Project este un centru de arte local situat în San Ignacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "Proiectul de conservare a iguanelor verzi este o atracție locală în San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "Ajaw Chocolate este o atracție locală din San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "El Cayó Boardwalk este o atracție turistică locală în San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "Biserica Sf. Andrei este un lăcaș de cult anglican notabil din San Ignacio.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "Cahal Pech Archaeological Reserve is a notable ancient Maya archaeological site in San Ignacio.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "The Belize Natural History Archive is a local museum located in San Ignacio.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "The Cahal Pech Visitor Center operates as a museum in San Ignacio.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "The Soul Project is a local arts centre located in San Ignacio.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "The Green Iguana Conservation Project is a popular local attraction in San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "Ajaw Chocolate is a local attraction found in San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "El Cayó Boardwalk is a local tourist attraction in San Ignacio.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "St. Andrew's Church is a notable Anglican place of worship in San Ignacio.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "BZ", 
     coords: [-89.0806, 17.1525], 
@@ -115,7 +853,160 @@ export const belizeCities: POI[] = [
     },
     historyYear: 1850, image: "/poi-images/bz-sanignacio.webp"},
   { 
-    id: "bz-dangriga", 
+    id: "bz-dangriga", "sights": {
+      "de": [
+            {
+                  "name": "Gulisi Garifuna Museum",
+                  "text": "Museum in Dangriga, das der Kultur und Geschichte des Garifuna-Volkes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -88.240761,
+                        16.962571
+                  ]
+            },
+            {
+                  "name": "Carib Reserve",
+                  "text": "Ein Naturschutzgebiet bei Dangriga, das die lokale Flora und Fauna schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -88.249854,
+                        16.949519
+                  ]
+            },
+            {
+                  "name": "Dangriga sign",
+                  "text": "Ein dekoratives Stadtschild, das als Orientierungspunkt für Besucher in Dangriga dient.",
+                  "category": "historical",
+                  "coords": [
+                        -88.218712,
+                        16.965488
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Catholic Church",
+                  "text": "Eine katholische Kirche in Dangriga, die als Ort des Gebets und der Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -88.222413,
+                        16.972137
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gulisi Garifuna Museum",
+                  "text": "A garifuna nép kultúráját és történelmét bemutató múzeum Dangrigában.",
+                  "category": "museum",
+                  "coords": [
+                        -88.240761,
+                        16.962571
+                  ]
+            },
+            {
+                  "name": "Carib Reserve",
+                  "text": "Természetvédelmi terület Dangriga közelében, amely a helyi élővilágot mutatja be.",
+                  "category": "natural",
+                  "coords": [
+                        -88.249854,
+                        16.949519
+                  ]
+            },
+            {
+                  "name": "Dangriga sign",
+                  "text": "Dekoratív városfelirat, amely népszerű fotópont a Dangrigába látogatóknak.",
+                  "category": "historical",
+                  "coords": [
+                        -88.218712,
+                        16.965488
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Catholic Church",
+                  "text": "Katolikus templom Dangrigában, amely a helyi hitélet központja.",
+                  "category": "religious",
+                  "coords": [
+                        -88.222413,
+                        16.972137
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gulisi Garifuna Museum",
+                  "text": "Muzeu din Dangriga dedicat culturii și istoriei poporului Garifuna.",
+                  "category": "museum",
+                  "coords": [
+                        -88.240761,
+                        16.962571
+                  ]
+            },
+            {
+                  "name": "Carib Reserve",
+                  "text": "O rezervație naturală lângă Dangriga care protejează flora și fauna locală.",
+                  "category": "natural",
+                  "coords": [
+                        -88.249854,
+                        16.949519
+                  ]
+            },
+            {
+                  "name": "Dangriga sign",
+                  "text": "O inscripție decorativă cu numele orașului, fiind un punct de reper pentru turiști.",
+                  "category": "historical",
+                  "coords": [
+                        -88.218712,
+                        16.965488
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Catholic Church",
+                  "text": "O biserică catolică din Dangriga, servind drept loc de rugăciune și comuniune.",
+                  "category": "religious",
+                  "coords": [
+                        -88.222413,
+                        16.972137
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gulisi Garifuna Museum",
+                  "text": "Museum in Dangriga dedicated to the culture and history of the Garifuna people.",
+                  "category": "museum",
+                  "coords": [
+                        -88.240761,
+                        16.962571
+                  ]
+            },
+            {
+                  "name": "Carib Reserve",
+                  "text": "A nature reserve near Dangriga protecting the local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -88.249854,
+                        16.949519
+                  ]
+            },
+            {
+                  "name": "Dangriga sign",
+                  "text": "A decorative city sign serving as a landmark for visitors in Dangriga.",
+                  "category": "historical",
+                  "coords": [
+                        -88.218712,
+                        16.965488
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Catholic Church",
+                  "text": "A Catholic church in Dangriga serving as a place of worship and community.",
+                  "category": "religious",
+                  "coords": [
+                        -88.222413,
+                        16.972137
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "BZ", 
     coords: [-88.2321, 16.9692], 
@@ -150,7 +1041,232 @@ export const belizeCities: POI[] = [
     },
     historyYear: 1802, image: "/poi-images/bz-dangriga.webp"},
   { 
-    id: "bz-sanpedro", 
+    id: "bz-sanpedro", "sights": {
+      "de": [
+            {
+                  "name": "Mahogany Bay Beach club private beach",
+                  "text": "Exklusiver privater Strandabschnitt zur Entspannung an der Küste.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.990218,
+                        17.933747
+                  ]
+            },
+            {
+                  "name": "Green Iguana Sanctuary",
+                  "text": "Schutzgebiet, das der Erhaltung der grünen Leguane gewidmet ist.",
+                  "category": "natural",
+                  "coords": [
+                        -87.962135,
+                        17.922234
+                  ]
+            },
+            {
+                  "name": "Belize sign",
+                  "text": "Kultiges Schild für Fotoaufnahmen in San Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.964271,
+                        17.916392
+                  ]
+            },
+            {
+                  "name": "Aruna Community",
+                  "text": "Küstenresort, das inseltypische Gastfreundschaft bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.971395,
+                        17.937632
+                  ]
+            },
+            {
+                  "name": "San Pedro House of Culture",
+                  "text": "Kulturzentrum zur Förderung des lokalen Erbes in San Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.963337,
+                        17.918999
+                  ]
+            },
+            {
+                  "name": "Aruna Resort",
+                  "text": "Urlaubsziel mit Unterkünften und Zugang zum Strand.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.972417,
+                        17.936814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mahogany Bay Beach club private beach",
+                  "text": "Exkluzív magánstrand a tengerparti pihenéshez.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.990218,
+                        17.933747
+                  ]
+            },
+            {
+                  "name": "Green Iguana Sanctuary",
+                  "text": "A zöld leguánok védelmére létrehozott menedékhely.",
+                  "category": "natural",
+                  "coords": [
+                        -87.962135,
+                        17.922234
+                  ]
+            },
+            {
+                  "name": "Belize sign",
+                  "text": "Ikonikus felirat fotózáshoz San Pedróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.964271,
+                        17.916392
+                  ]
+            },
+            {
+                  "name": "Aruna Community",
+                  "text": "Tengerparti üdülőhely, amely szigeti vendégszeretetet kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.971395,
+                        17.937632
+                  ]
+            },
+            {
+                  "name": "San Pedro House of Culture",
+                  "text": "Kulturális központ a helyi örökség népszerűsítésére San Pedróban.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.963337,
+                        17.918999
+                  ]
+            },
+            {
+                  "name": "Aruna Resort",
+                  "text": "Üdülőhely szállással és strandolási lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.972417,
+                        17.936814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mahogany Bay Beach club private beach",
+                  "text": "Zonă exclusivistă de plajă privată pentru relaxare pe coastă.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.990218,
+                        17.933747
+                  ]
+            },
+            {
+                  "name": "Green Iguana Sanctuary",
+                  "text": "Sanctuar dedicat conservării iguanelor verzi.",
+                  "category": "natural",
+                  "coords": [
+                        -87.962135,
+                        17.922234
+                  ]
+            },
+            {
+                  "name": "Belize sign",
+                  "text": "Inscripție iconică pentru fotografii în San Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.964271,
+                        17.916392
+                  ]
+            },
+            {
+                  "name": "Aruna Community",
+                  "text": "Stațiune de coastă ce oferă ospitalitate specifică insulelor.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.971395,
+                        17.937632
+                  ]
+            },
+            {
+                  "name": "San Pedro House of Culture",
+                  "text": "Centru cultural care promovează patrimoniul local în San Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.963337,
+                        17.918999
+                  ]
+            },
+            {
+                  "name": "Aruna Resort",
+                  "text": "Destinație de vacanță care oferă cazare și acces la plajă.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.972417,
+                        17.936814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mahogany Bay Beach club private beach",
+                  "text": "Exclusive private beach area for relaxation on the coast.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.990218,
+                        17.933747
+                  ]
+            },
+            {
+                  "name": "Green Iguana Sanctuary",
+                  "text": "Sanctuary dedicated to the conservation of green iguanas.",
+                  "category": "natural",
+                  "coords": [
+                        -87.962135,
+                        17.922234
+                  ]
+            },
+            {
+                  "name": "Belize sign",
+                  "text": "Iconic sign for photo opportunities in San Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.964271,
+                        17.916392
+                  ]
+            },
+            {
+                  "name": "Aruna Community",
+                  "text": "Coastal resort area offering island hospitality.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.971395,
+                        17.937632
+                  ]
+            },
+            {
+                  "name": "San Pedro House of Culture",
+                  "text": "Cultural center promoting local heritage in San Pedro.",
+                  "category": "landmark",
+                  "coords": [
+                        -87.963337,
+                        17.918999
+                  ]
+            },
+            {
+                  "name": "Aruna Resort",
+                  "text": "Resort destination providing accommodation and beach access.",
+                  "category": "recreational",
+                  "coords": [
+                        -87.972417,
+                        17.936814
+                  ]
+            }
+      ]
+}, 
     type: "city", 
     parent: "BZ", 
     coords: [-87.9658, 17.9214], 

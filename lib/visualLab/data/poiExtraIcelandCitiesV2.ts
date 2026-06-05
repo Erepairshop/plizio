@@ -149,6 +149,393 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.942814,
                         64.147512
                   ]
+            },
+            {
+                  "name": "Listasafn Reykjavíkur",
+                  "text": "Islands größtes Kunstmuseum, das auf drei Standorte in Reykjavík verteilt ist.",
+                  "category": "museum",
+                  "coords": [
+                        -21.940444,
+                        64.149065
+                  ]
+            },
+            {
+                  "name": "Ljósmyndasafn Reykjavíkur",
+                  "text": "Ein Museum in Reykjavík, das isländische und internationale Fotografie präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -21.941393,
+                        64.149466
+                  ]
+            },
+            {
+                  "name": "Listasafn Íslands",
+                  "text": "Die führende Kunstgalerie des Landes in Reykjavík mit Schwerpunkt auf isländischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -21.939219,
+                        64.144107
+                  ]
+            },
+            {
+                  "name": "Hið Íslenzka Reðasafn",
+                  "text": "Ein weltweit einzigartiges Museum in Reykjavík, das sich der Fortpflanzungsorgane von Säugetieren widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.93576,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Víkin",
+                  "text": "Dieses maritime Museum in Reykjavík widmet sich der isländischen Schifffahrtsgeschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94888,
+                        64.153187
+                  ]
+            },
+            {
+                  "name": "Listasafn Sigurjóns Ólafssonar",
+                  "text": "Dieses Museum zeigt das Werk und das Atelier des isländischen Bildhauers Sigurjón Ólafsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.887028,
+                        64.153121
+                  ]
+            },
+            {
+                  "name": "Safnahúsið",
+                  "text": "Ein bedeutendes Kulturzentrum in Reykjavík, das isländisches Kulturerbe und Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932163,
+                        64.147309
+                  ]
+            },
+            {
+                  "name": "Listasafn Einars Jónssonar",
+                  "text": "Das Museum beherbergt die Skulpturen von Einar Jónsson in einem markanten Gebäude mit Skulpturengarten.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928897,
+                        64.141881
+                  ]
+            },
+            {
+                  "name": "Hvalasýningin",
+                  "text": "Ein Museum in Reykjavík, das lebensgroße Modelle der rund um Island vorkommenden Walarten zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94884,
+                        64.155708
+                  ]
+            },
+            {
+                  "name": "Ráðhús Reykjavíkur",
+                  "text": "Das Rathaus von Reykjavík liegt am Ufer des Tjörnin-Sees und beherbergt eine große Reliefkarte von Island.",
+                  "category": "historical",
+                  "coords": [
+                        -21.942266,
+                        64.146064
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "Das Stadttheater von Reykjavík ist eine der wichtigsten kulturellen Spielstätten der isländischen Hauptstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "Þjóðleikhúsið",
+                  "text": "Das Nationaltheater von Island ist eine führende Institution für darstellende Künste in Reykjavík.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.931153,
+                        64.147279
+                  ]
+            },
+            {
+                  "name": "Dómkirkjan",
+                  "text": "Die Domkirche von Reykjavík ist der Sitz des lutherischen Bischofs von Island.",
+                  "category": "religious",
+                  "coords": [
+                        -21.939331,
+                        64.146644
+                  ]
+            },
+            {
+                  "name": "Christ-König-Basilika",
+                  "text": "Die Basilika Christi König ist die römisch-katholische Kathedrale von Island.",
+                  "category": "religious",
+                  "coords": [
+                        -21.948546,
+                        64.147469
+                  ]
+            },
+            {
+                  "name": "Háteigskirkja",
+                  "text": "Eine markante lutherische Kirche in Reykjavík, bekannt für ihre moderne Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.905875,
+                        64.138816
+                  ]
+            },
+            {
+                  "name": "Reykjavíkurhöfn",
+                  "text": "Der alte Hafen von Reykjavík ist ein lebendiger Ort mit Bootstouren, Restaurants und Museen.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.937134,
+                        64.152722
+                  ]
+            },
+            {
+                  "name": "Steinbryggjan",
+                  "text": "Ein historischer Steinpier im alten Hafen von Reykjavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.93798,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Óðinn",
+                  "text": "Óðinn ist ein ehemaliges Schiff der isländischen Küstenwache, das heute als Museumsschiff dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.947098,
+                        64.153238
+                  ]
+            },
+            {
+                  "name": "Klambratún",
+                  "text": "Ein öffentlicher Stadtpark in Reykjavík, der häufig für Kunstausstellungen und Freizeit genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Hljómskálagarðurinn",
+                  "text": "Dieser beliebte Park liegt am Tjörnin-See im Stadtzentrum von Reykjavík.",
+                  "category": "park",
+                  "coords": [
+                        -21.941753,
+                        64.14149
+                  ]
+            },
+            {
+                  "name": "Kænugarður",
+                  "text": "Ein öffentlicher Platz in Reykjavík, der nach der ukrainischen Hauptstadt Kiew benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -21.944359,
+                        64.14765
+                  ]
+            },
+            {
+                  "name": "Arnarhóll",
+                  "text": "Ein geschichtsträchtiger Hügel im Zentrum von Reykjavík mit einer Statue von Ingólfur Arnarson.",
+                  "category": "park",
+                  "coords": [
+                        -21.93329,
+                        64.148093
+                  ]
+            },
+            {
+                  "name": "Landakotstún",
+                  "text": "Ein öffentlicher Park in Reykjavík, der in der Nähe der katholischen Kathedrale liegt.",
+                  "category": "park",
+                  "coords": [
+                        -21.947326,
+                        64.147189
+                  ]
+            },
+            {
+                  "name": "Ásmundarsafn",
+                  "text": "Ein Museum, das dem Werk des isländischen Bildhauers Ásmundur Sveinsson gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -21.885263,
+                        64.141566
+                  ]
+            },
+            {
+                  "name": "Saga Museum",
+                  "text": "Ein Museum in Reykjavík, das die isländische Geschichte mit realistischen Wachsfiguren zum Leben erweckt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.951277,
+                        64.152564
+                  ]
+            },
+            {
+                  "name": "Seltjarnarneskirkja",
+                  "text": "Eine moderne Kirche in Seltjarnarnes, einem Vorort von Reykjavík.",
+                  "category": "religious",
+                  "coords": [
+                        -21.990098,
+                        64.152949
+                  ]
+            },
+            {
+                  "name": "Neskirkja",
+                  "text": "Eine lutherische Kirche in Reykjavík, die für ihre markante Betonarchitektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -21.957483,
+                        64.14141
+                  ]
+            },
+            {
+                  "name": "Laugarneskirkja",
+                  "text": "Eine lokale lutherische Kirche im Stadtteil Laugarnes in Reykjavík.",
+                  "category": "religious",
+                  "coords": [
+                        -21.888339,
+                        64.144515
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "Eine Kirche in Reykjavík, die sich in der Nähe des Fossvogur-Tals befindet.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Rauðarárvík",
+                  "text": "Eine kleine Bucht an der Küste von Reykjavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.915944,
+                        64.147977
+                  ]
+            },
+            {
+                  "name": "Tónlistarsafn Íslands",
+                  "text": "Das Musikmuseum Islands bewahrt und präsentiert das musikalische Erbe des Landes.",
+                  "category": "museum",
+                  "coords": [
+                        -21.950647,
+                        64.142672
+                  ]
+            },
+            {
+                  "name": "Icelandic Punk Museum",
+                  "text": "Dieses Museum in Reykjavík dokumentiert die Geschichte und den Einfluss des Punks in Island.",
+                  "category": "museum",
+                  "coords": [
+                        -21.935909,
+                        64.147028
+                  ]
+            },
+            {
+                  "name": "Aurora Reykjavik Northern Lights Center",
+                  "text": "Ein Informationszentrum in Reykjavík, das sich dem Phänomen des Nordlichts widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.944686,
+                        64.156384
+                  ]
+            },
+            {
+                  "name": "Listasafn ASÍ",
+                  "text": "Ein Kunstmuseum in Reykjavík, das vom isländischen Gewerkschaftsbund ASÍ betrieben wird.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928339,
+                        64.140885
+                  ]
+            },
+            {
+                  "name": "Safn Ásgríms Jónssonar",
+                  "text": "Das ehemalige Wohnhaus und Atelier des isländischen Malers Ásgrímur Jónsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.933,
+                        64.139973
+                  ]
+            },
+            {
+                  "name": "Arctic Photo",
+                  "text": "Eine Galerie in Reykjavík, die sich auf arktische Natur- und Landschaftsfotografie spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        -21.921719,
+                        64.144168
+                  ]
+            },
+            {
+                  "name": "Fiskhöllin",
+                  "text": "Eine Kunstgalerie in Reykjavík, die wechselnde Ausstellungen lokaler Künstler präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -21.943639,
+                        64.150247
+                  ]
+            },
+            {
+                  "name": "Gallerí Fold",
+                  "text": "Eine etablierte Galerie in Reykjavík, die eine breite Auswahl an isländischer Kunst zum Verkauf anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.914285,
+                        64.142433
+                  ]
+            },
+            {
+                  "name": "Mink Viking Portrait Studio",
+                  "text": "Eine Galerie in Reykjavík, die Wikinger-Porträtfotografie in traditionellen Kostümen anbietet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.931155,
+                        64.14627
+                  ]
+            },
+            {
+                  "name": "Art Gallery 101",
+                  "text": "Eine lokale Kunstgalerie im Stadtzentrum von Reykjavík.",
+                  "category": "museum",
+                  "coords": [
+                        -21.924788,
+                        64.144758
+                  ]
+            },
+            {
+                  "name": "Kaolin Keramik Gallery",
+                  "text": "Diese Galerie in Reykjavík ist auf handgefertigte isländische Keramikkunst spezialisiert.",
+                  "category": "museum",
+                  "coords": [
+                        -21.930326,
+                        64.14424
+                  ]
+            },
+            {
+                  "name": "Art Ceramic Studio Gallery",
+                  "text": "Eine Galerie in Reykjavík, die zeitgenössische isländische Keramik und Studiokunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928082,
+                        64.142924
+                  ]
+            },
+            {
+                  "name": "Marshallhúsið",
+                  "text": "Ein ehemaliges Industriegebäude im Hafenviertel, das heute mehrere Kunstgalerien beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.938979,
+                        64.156131
+                  ]
             }
       ],
       "hu": [
@@ -250,6 +637,393 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                   "coords": [
                         -21.942814,
                         64.147512
+                  ]
+            },
+            {
+                  "name": "Listasafn Reykjavíkur",
+                  "text": "Izland legnagyobb művészeti múzeuma, amely Reykjavík három különböző helyszínén található.",
+                  "category": "museum",
+                  "coords": [
+                        -21.940444,
+                        64.149065
+                  ]
+            },
+            {
+                  "name": "Ljósmyndasafn Reykjavíkur",
+                  "text": "Reykjavíki múzeum, amely izlandi és nemzetközi fotóművészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.941393,
+                        64.149466
+                  ]
+            },
+            {
+                  "name": "Listasafn Íslands",
+                  "text": "Az ország vezető művészeti galériája Reykjavíkban, amely az izlandi művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -21.939219,
+                        64.144107
+                  ]
+            },
+            {
+                  "name": "Hið Íslenzka Reðasafn",
+                  "text": "Világszerte egyedülálló reykjavíki múzeum, amely az emlősök szaporítószerveinek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.93576,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Víkin",
+                  "text": "Ez a reykjavíki tengerészeti múzeum Izland hajózási múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94888,
+                        64.153187
+                  ]
+            },
+            {
+                  "name": "Listasafn Sigurjóns Ólafssonar",
+                  "text": "Ez a múzeum Sigurjón Ólafsson izlandi szobrász munkásságát és műtermét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.887028,
+                        64.153121
+                  ]
+            },
+            {
+                  "name": "Safnahúsið",
+                  "text": "Jelentős kulturális központ Reykjavíkban, amely izlandi örökséget és művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932163,
+                        64.147309
+                  ]
+            },
+            {
+                  "name": "Listasafn Einars Jónssonar",
+                  "text": "A múzeum Einar Jónsson szobrait mutatja be egy jellegzetes épületben és szoborkertben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928897,
+                        64.141881
+                  ]
+            },
+            {
+                  "name": "Hvalasýningin",
+                  "text": "Reykjavíki múzeum, amely az Izland körül élő bálnafajok életnagyságú modelljeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94884,
+                        64.155708
+                  ]
+            },
+            {
+                  "name": "Ráðhús Reykjavíkur",
+                  "text": "Reykjavík városháza a Tjörnin-tó partján található, és egy nagy Izland-domborműtérképnek ad otthont.",
+                  "category": "historical",
+                  "coords": [
+                        -21.942266,
+                        64.146064
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "Reykjavík városi színháza az izlandi főváros egyik legfontosabb kulturális helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "Þjóðleikhúsið",
+                  "text": "Az Izlandi Nemzeti Színház a színművészet vezető intézménye Reykjavíkban.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.931153,
+                        64.147279
+                  ]
+            },
+            {
+                  "name": "Dómkirkjan",
+                  "text": "Reykjavík székesegyháza az izlandi evangélikus püspök székhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -21.939331,
+                        64.146644
+                  ]
+            },
+            {
+                  "name": "Landakotskirkja",
+                  "text": "A Krisztus Király-bazilika Izland római katolikus székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        -21.948546,
+                        64.147469
+                  ]
+            },
+            {
+                  "name": "Háteigskirkja",
+                  "text": "Jellegzetes evangélikus templom Reykjavíkban, amely modern építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -21.905875,
+                        64.138816
+                  ]
+            },
+            {
+                  "name": "Reykjavíkurhöfn",
+                  "text": "Reykjavík régi kikötője egy élettel teli hely hajótúrákkal, éttermekkel és múzeumokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.937134,
+                        64.152722
+                  ]
+            },
+            {
+                  "name": "Steinbryggjan",
+                  "text": "Történelmi kőmóló Reykjavík régi kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.93798,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Óðinn",
+                  "text": "Az Óðinn az izlandi parti őrség egykori hajója, amely ma múzeumhajóként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.947098,
+                        64.153238
+                  ]
+            },
+            {
+                  "name": "Klambratún",
+                  "text": "Reykjavíki nyilvános városi park, amelyet gyakran használnak művészeti kiállításokra és kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Hljómskálagarðurinn",
+                  "text": "Ez a népszerű park a Tjörnin-tó mellett található Reykjavík városközpontjában.",
+                  "category": "park",
+                  "coords": [
+                        -21.941753,
+                        64.14149
+                  ]
+            },
+            {
+                  "name": "Kænugarður",
+                  "text": "Reykjavíki közterület, amelyet az ukrán fővárosról, Kijevről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -21.944359,
+                        64.14765
+                  ]
+            },
+            {
+                  "name": "Arnarhóll",
+                  "text": "Történelmi domb Reykjavík központjában, Ingólfur Arnarson szobrával.",
+                  "category": "park",
+                  "coords": [
+                        -21.93329,
+                        64.148093
+                  ]
+            },
+            {
+                  "name": "Landakotstún",
+                  "text": "Reykjavíki nyilvános park a katolikus székesegyház közelében.",
+                  "category": "park",
+                  "coords": [
+                        -21.947326,
+                        64.147189
+                  ]
+            },
+            {
+                  "name": "Ásmundarsafn",
+                  "text": "Ásmundur Sveinsson izlandi szobrász munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -21.885263,
+                        64.141566
+                  ]
+            },
+            {
+                  "name": "Saga Museum",
+                  "text": "Reykjavíki múzeum, amely élethű viaszfigurákkal kelti életre az izlandi történelmet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.951277,
+                        64.152564
+                  ]
+            },
+            {
+                  "name": "Seltjarnarneskirkja",
+                  "text": "Modern templom Seltjarnarnesben, Reykjavík egyik külvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        -21.990098,
+                        64.152949
+                  ]
+            },
+            {
+                  "name": "Neskirkja",
+                  "text": "Reykjavíki evangélikus templom, amely jellegzetes betonépítészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -21.957483,
+                        64.14141
+                  ]
+            },
+            {
+                  "name": "Laugarneskirkja",
+                  "text": "Helyi evangélikus templom Reykjavík Laugarnes negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        -21.888339,
+                        64.144515
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "Reykjavíki templom, amely a Fossvogur-völgy közelében található.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Rauðarárvík",
+                  "text": "Kis öböl Reykjavík tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.915944,
+                        64.147977
+                  ]
+            },
+            {
+                  "name": "Tónlistarsafn Íslands",
+                  "text": "Izland zenemúzeuma az ország zenei örökségét őrzi és mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.950647,
+                        64.142672
+                  ]
+            },
+            {
+                  "name": "Icelandic Punk Museum",
+                  "text": "Ez a reykjavíki múzeum az izlandi punk történetét és hatását dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -21.935909,
+                        64.147028
+                  ]
+            },
+            {
+                  "name": "Aurora Reykjavik Northern Lights Center",
+                  "text": "Reykjavíki információs központ, amely az északi fény jelenségének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -21.944686,
+                        64.156384
+                  ]
+            },
+            {
+                  "name": "Listasafn ASÍ",
+                  "text": "Reykjavíki művészeti múzeum, amelyet az izlandi szakszervezeti szövetség (ASÍ) tart fenn.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928339,
+                        64.140885
+                  ]
+            },
+            {
+                  "name": "Safn Ásgríms Jónssonar",
+                  "text": "Ásgrímur Jónsson izlandi festő egykori lakóháza és műterme.",
+                  "category": "museum",
+                  "coords": [
+                        -21.933,
+                        64.139973
+                  ]
+            },
+            {
+                  "name": "Arctic Photo",
+                  "text": "Reykjavíki galéria, amely sarkvidéki természet- és tájfotózásra specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        -21.921719,
+                        64.144168
+                  ]
+            },
+            {
+                  "name": "Fiskhöllin",
+                  "text": "Reykjavíki művészeti galéria, amely helyi művészek időszaki kiállításait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.943639,
+                        64.150247
+                  ]
+            },
+            {
+                  "name": "Gallerí Fold",
+                  "text": "Reykjavíki galéria, amely izlandi műalkotások széles választékát kínálja eladásra.",
+                  "category": "museum",
+                  "coords": [
+                        -21.914285,
+                        64.142433
+                  ]
+            },
+            {
+                  "name": "Mink Viking Portrait Studio",
+                  "text": "Reykjavíki galéria, amely viking portréfotózást kínál hagyományos jelmezekben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.931155,
+                        64.14627
+                  ]
+            },
+            {
+                  "name": "Art Gallery 101",
+                  "text": "Helyi művészeti galéria Reykjavík városközpontjában.",
+                  "category": "museum",
+                  "coords": [
+                        -21.924788,
+                        64.144758
+                  ]
+            },
+            {
+                  "name": "Kaolin Keramik Gallery",
+                  "text": "Ez a reykjavíki galéria kézzel készített izlandi kerámiaművészetre specializálódott.",
+                  "category": "museum",
+                  "coords": [
+                        -21.930326,
+                        64.14424
+                  ]
+            },
+            {
+                  "name": "Art Ceramic Studio Gallery",
+                  "text": "Reykjavíki galéria, amely kortárs izlandi kerámiákat és stúdióművészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928082,
+                        64.142924
+                  ]
+            },
+            {
+                  "name": "Marshallhúsið",
+                  "text": "Egykori ipari épület a kikötőben, amely ma több művészeti galériának ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -21.938979,
+                        64.156131
                   ]
             }
       ],
@@ -353,6 +1127,393 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.942814,
                         64.147512
                   ]
+            },
+            {
+                  "name": "Listasafn Reykjavíkur",
+                  "text": "Cel mai mare muzeu de artă din Islanda, situat în trei locații diferite din Reykjavík.",
+                  "category": "museum",
+                  "coords": [
+                        -21.940444,
+                        64.149065
+                  ]
+            },
+            {
+                  "name": "Ljósmyndasafn Reykjavíkur",
+                  "text": "Un muzeu din Reykjavík care prezintă fotografii islandeze și internaționale.",
+                  "category": "museum",
+                  "coords": [
+                        -21.941393,
+                        64.149466
+                  ]
+            },
+            {
+                  "name": "Listasafn Íslands",
+                  "text": "Galeria de artă principală a țării din Reykjavík, axată pe arta islandeză.",
+                  "category": "museum",
+                  "coords": [
+                        -21.939219,
+                        64.144107
+                  ]
+            },
+            {
+                  "name": "Hið Íslenzka Reðasafn",
+                  "text": "Un muzeu unic în lume din Reykjavík, dedicat organelor reproducătoare ale mamiferelor.",
+                  "category": "museum",
+                  "coords": [
+                        -21.93576,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Víkin",
+                  "text": "Acest muzeu maritim din Reykjavík este dedicat istoriei navale a Islandei.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94888,
+                        64.153187
+                  ]
+            },
+            {
+                  "name": "Listasafn Sigurjóns Ólafssonar",
+                  "text": "Acest muzeu prezintă opera și atelierul sculptorului islandez Sigurjón Ólafsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.887028,
+                        64.153121
+                  ]
+            },
+            {
+                  "name": "Safnahúsið",
+                  "text": "Un centru cultural important din Reykjavík, care expune patrimoniul și arta islandeză.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932163,
+                        64.147309
+                  ]
+            },
+            {
+                  "name": "Listasafn Einars Jónssonar",
+                  "text": "Muzeul adăpostește sculpturile lui Einar Jónsson într-o clădire distinctivă cu o grădină de sculpturi.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928897,
+                        64.141881
+                  ]
+            },
+            {
+                  "name": "Hvalasýningin",
+                  "text": "Un muzeu din Reykjavík care prezintă modele în mărime naturală ale speciilor de balene din jurul Islandei.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94884,
+                        64.155708
+                  ]
+            },
+            {
+                  "name": "Ráðhús Reykjavíkur",
+                  "text": "Primăria din Reykjavík este situată pe malul lacului Tjörnin și găzduiește o hartă în relief a Islandei.",
+                  "category": "historical",
+                  "coords": [
+                        -21.942266,
+                        64.146064
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "Teatrul municipal din Reykjavík este una dintre cele mai importante locații culturale din capitala islandeză.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "Þjóðleikhúsið",
+                  "text": "Teatrul Național al Islandei este o instituție de top pentru artele spectacolului din Reykjavík.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.931153,
+                        64.147279
+                  ]
+            },
+            {
+                  "name": "Dómkirkjan",
+                  "text": "Catedrala din Reykjavík este sediul episcopului lutheran al Islandei.",
+                  "category": "religious",
+                  "coords": [
+                        -21.939331,
+                        64.146644
+                  ]
+            },
+            {
+                  "name": "Landakotskirkja",
+                  "text": "Bazilica Cristos Rege este catedrala romano-catolică a Islandei.",
+                  "category": "religious",
+                  "coords": [
+                        -21.948546,
+                        64.147469
+                  ]
+            },
+            {
+                  "name": "Háteigskirkja",
+                  "text": "O biserică lutherană distinctivă din Reykjavík, cunoscută pentru arhitectura sa modernă.",
+                  "category": "religious",
+                  "coords": [
+                        -21.905875,
+                        64.138816
+                  ]
+            },
+            {
+                  "name": "Reykjavíkurhöfn",
+                  "text": "Portul vechi din Reykjavík este un loc plin de viață, cu tururi cu barca, restaurante și muzee.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.937134,
+                        64.152722
+                  ]
+            },
+            {
+                  "name": "Steinbryggjan",
+                  "text": "Un debarcader istoric din piatră situat în portul vechi din Reykjavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.93798,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Óðinn",
+                  "text": "Óðinn este o fostă navă a pazei de coastă islandeze, care servește acum ca navă-muzeu.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.947098,
+                        64.153238
+                  ]
+            },
+            {
+                  "name": "Klambratún",
+                  "text": "Un parc public urban din Reykjavík, folosit frecvent pentru expoziții de artă și recreere.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Hljómskálagarðurinn",
+                  "text": "Acest parc popular este situat lângă lacul Tjörnin, în centrul orașului Reykjavík.",
+                  "category": "park",
+                  "coords": [
+                        -21.941753,
+                        64.14149
+                  ]
+            },
+            {
+                  "name": "Kænugarður",
+                  "text": "O piață publică din Reykjavík numită după capitala Ucrainei, Kiev.",
+                  "category": "park",
+                  "coords": [
+                        -21.944359,
+                        64.14765
+                  ]
+            },
+            {
+                  "name": "Arnarhóll",
+                  "text": "Un deal istoric din centrul orașului Reykjavík, cu o statuie a lui Ingólfur Arnarson.",
+                  "category": "park",
+                  "coords": [
+                        -21.93329,
+                        64.148093
+                  ]
+            },
+            {
+                  "name": "Landakotstún",
+                  "text": "Un parc public din Reykjavík situat în apropierea catedralei catolice.",
+                  "category": "park",
+                  "coords": [
+                        -21.947326,
+                        64.147189
+                  ]
+            },
+            {
+                  "name": "Ásmundarsafn",
+                  "text": "Un muzeu dedicat operei sculptorului islandez Ásmundur Sveinsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.885263,
+                        64.141566
+                  ]
+            },
+            {
+                  "name": "Saga Museum",
+                  "text": "Un muzeu din Reykjavík care aduce la viață istoria islandeză prin figuri de ceară realiste.",
+                  "category": "museum",
+                  "coords": [
+                        -21.951277,
+                        64.152564
+                  ]
+            },
+            {
+                  "name": "Seltjarnarneskirkja",
+                  "text": "O biserică modernă în Seltjarnarnes, o suburbie a orașului Reykjavík.",
+                  "category": "religious",
+                  "coords": [
+                        -21.990098,
+                        64.152949
+                  ]
+            },
+            {
+                  "name": "Neskirkja",
+                  "text": "O biserică lutherană din Reykjavík, cunoscută pentru arhitectura sa distinctivă din beton.",
+                  "category": "religious",
+                  "coords": [
+                        -21.957483,
+                        64.14141
+                  ]
+            },
+            {
+                  "name": "Laugarneskirkja",
+                  "text": "O biserică lutherană locală din cartierul Laugarnes din Reykjavík.",
+                  "category": "religious",
+                  "coords": [
+                        -21.888339,
+                        64.144515
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "O biserică din Reykjavík situată în apropierea văii Fossvogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Rauðarárvík",
+                  "text": "Un mic golf situat pe coasta orașului Reykjavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.915944,
+                        64.147977
+                  ]
+            },
+            {
+                  "name": "Tónlistarsafn Íslands",
+                  "text": "Muzeul muzicii din Islanda păstrează și prezintă moștenirea muzicală a țării.",
+                  "category": "museum",
+                  "coords": [
+                        -21.950647,
+                        64.142672
+                  ]
+            },
+            {
+                  "name": "Icelandic Punk Museum",
+                  "text": "Acest muzeu din Reykjavík documentează istoria și influența mișcării punk în Islanda.",
+                  "category": "museum",
+                  "coords": [
+                        -21.935909,
+                        64.147028
+                  ]
+            },
+            {
+                  "name": "Aurora Reykjavik Northern Lights Center",
+                  "text": "Un centru de informare din Reykjavík dedicat fenomenului aurorei boreale.",
+                  "category": "museum",
+                  "coords": [
+                        -21.944686,
+                        64.156384
+                  ]
+            },
+            {
+                  "name": "Listasafn ASÍ",
+                  "text": "Un muzeu de artă din Reykjavík operat de confederația sindicală islandeză ASÍ.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928339,
+                        64.140885
+                  ]
+            },
+            {
+                  "name": "Safn Ásgríms Jónssonar",
+                  "text": "Fosta locuință și atelier al pictorului islandez Ásgrímur Jónsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.933,
+                        64.139973
+                  ]
+            },
+            {
+                  "name": "Arctic Photo",
+                  "text": "O galerie din Reykjavík specializată în fotografie de natură și peisaj arctic.",
+                  "category": "museum",
+                  "coords": [
+                        -21.921719,
+                        64.144168
+                  ]
+            },
+            {
+                  "name": "Fiskhöllin",
+                  "text": "O galerie de artă din Reykjavík care prezintă expoziții temporare ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -21.943639,
+                        64.150247
+                  ]
+            },
+            {
+                  "name": "Gallerí Fold",
+                  "text": "O galerie consacrată din Reykjavík care oferă spre vânzare o selecție largă de artă islandeză.",
+                  "category": "museum",
+                  "coords": [
+                        -21.914285,
+                        64.142433
+                  ]
+            },
+            {
+                  "name": "Mink Viking Portrait Studio",
+                  "text": "O galerie din Reykjavík care oferă servicii de fotografie de portret în stil viking, cu costume tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        -21.931155,
+                        64.14627
+                  ]
+            },
+            {
+                  "name": "Art Gallery 101",
+                  "text": "O galerie de artă locală situată în centrul orașului Reykjavík.",
+                  "category": "museum",
+                  "coords": [
+                        -21.924788,
+                        64.144758
+                  ]
+            },
+            {
+                  "name": "Kaolin Keramik Gallery",
+                  "text": "Această galerie din Reykjavík este specializată în artă ceramică islandeză lucrată manual.",
+                  "category": "museum",
+                  "coords": [
+                        -21.930326,
+                        64.14424
+                  ]
+            },
+            {
+                  "name": "Art Ceramic Studio Gallery",
+                  "text": "O galerie din Reykjavík care expune ceramică islandeză contemporană și artă de atelier.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928082,
+                        64.142924
+                  ]
+            },
+            {
+                  "name": "Marshallhúsið",
+                  "text": "O fostă clădire industrială din zona portului, care găzduiește acum mai multe galerii de artă.",
+                  "category": "museum",
+                  "coords": [
+                        -21.938979,
+                        64.156131
+                  ]
             }
       ],
       "en": [
@@ -455,11 +1616,1415 @@ imageHint: "Reykjavik skyline with Hallgrimskirkja church",
                         -21.942814,
                         64.147512
                   ]
+            },
+            {
+                  "name": "Reykjavik Art Museum",
+                  "text": "Iceland's largest art museum, distributed across three locations in Reykjavík.",
+                  "category": "museum",
+                  "coords": [
+                        -21.940444,
+                        64.149065
+                  ]
+            },
+            {
+                  "name": "Reykjavik Museum of Photography",
+                  "text": "A museum in Reykjavík showcasing Icelandic and international photography.",
+                  "category": "museum",
+                  "coords": [
+                        -21.941393,
+                        64.149466
+                  ]
+            },
+            {
+                  "name": "National Gallery of Iceland",
+                  "text": "The country's leading art gallery in Reykjavík focusing on Icelandic art.",
+                  "category": "museum",
+                  "coords": [
+                        -21.939219,
+                        64.144107
+                  ]
+            },
+            {
+                  "name": "The Icelandic Phallological Museum",
+                  "text": "A world-unique museum in Reykjavík dedicated to the reproductive organs of mammals.",
+                  "category": "museum",
+                  "coords": [
+                        -21.93576,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Víkin",
+                  "text": "This maritime museum in Reykjavík is dedicated to Iceland's nautical history.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94888,
+                        64.153187
+                  ]
+            },
+            {
+                  "name": "Sigurjón Ólafsson Museum",
+                  "text": "This museum displays the work and studio of the Icelandic sculptor Sigurjón Ólafsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.887028,
+                        64.153121
+                  ]
+            },
+            {
+                  "name": "The Culture House",
+                  "text": "A prominent cultural center in Reykjavík exhibiting Icelandic heritage and art.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932163,
+                        64.147309
+                  ]
+            },
+            {
+                  "name": "Einar Jónsson Museum",
+                  "text": "The museum houses the sculptures of Einar Jónsson in a distinctive building with a sculpture garden.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928897,
+                        64.141881
+                  ]
+            },
+            {
+                  "name": "Whales of Iceland",
+                  "text": "A museum in Reykjavík featuring life-sized models of whale species found around Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -21.94884,
+                        64.155708
+                  ]
+            },
+            {
+                  "name": "Reykjavik City Hall",
+                  "text": "Reykjavík's town hall is located on the shores of Lake Tjörnin and houses a large relief map of Iceland.",
+                  "category": "historical",
+                  "coords": [
+                        -21.942266,
+                        64.146064
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "The city theatre of Reykjavík is one of the most important cultural venues in the Icelandic capital.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "National Theatre of Iceland",
+                  "text": "The National Theatre of Iceland is a leading institution for performing arts in Reykjavík.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.931153,
+                        64.147279
+                  ]
+            },
+            {
+                  "name": "Reykjavík Cathedral",
+                  "text": "Reykjavík Cathedral is the seat of the Lutheran Bishop of Iceland.",
+                  "category": "religious",
+                  "coords": [
+                        -21.939331,
+                        64.146644
+                  ]
+            },
+            {
+                  "name": "Landakotskirkja",
+                  "text": "The Basilica of Christ the King is the Roman Catholic cathedral of Iceland.",
+                  "category": "religious",
+                  "coords": [
+                        -21.948546,
+                        64.147469
+                  ]
+            },
+            {
+                  "name": "Háteigskirkja",
+                  "text": "A distinctive Lutheran church in Reykjavík, known for its modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -21.905875,
+                        64.138816
+                  ]
+            },
+            {
+                  "name": "Reykjavíkurhöfn",
+                  "text": "Reykjavík's old harbour is a vibrant area featuring boat tours, restaurants, and museums.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.937134,
+                        64.152722
+                  ]
+            },
+            {
+                  "name": "Steinbryggjan",
+                  "text": "A historic stone pier located in Reykjavík's old harbour.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.93798,
+                        64.148468
+                  ]
+            },
+            {
+                  "name": "Óðinn",
+                  "text": "Óðinn is a former Icelandic Coast Guard ship that now serves as a museum vessel.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.947098,
+                        64.153238
+                  ]
+            },
+            {
+                  "name": "Klambratún Public Park",
+                  "text": "A public city park in Reykjavík frequently used for art exhibitions and recreation.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Hljomskalagardurinn Park",
+                  "text": "This popular park is located by Lake Tjörnin in the city center of Reykjavík.",
+                  "category": "park",
+                  "coords": [
+                        -21.941753,
+                        64.14149
+                  ]
+            },
+            {
+                  "name": "Kyiv Square",
+                  "text": "A public square in Reykjavík named after the Ukrainian capital, Kyiv.",
+                  "category": "park",
+                  "coords": [
+                        -21.944359,
+                        64.14765
+                  ]
+            },
+            {
+                  "name": "Arnarhóll",
+                  "text": "A historic hill in central Reykjavík featuring a statue of Ingólfur Arnarson.",
+                  "category": "park",
+                  "coords": [
+                        -21.93329,
+                        64.148093
+                  ]
+            },
+            {
+                  "name": "Landakotstún",
+                  "text": "A public park in Reykjavík located near the Catholic cathedral.",
+                  "category": "park",
+                  "coords": [
+                        -21.947326,
+                        64.147189
+                  ]
+            },
+            {
+                  "name": "Ásmundarsafn",
+                  "text": "A museum dedicated to the work of the Icelandic sculptor Ásmundur Sveinsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.885263,
+                        64.141566
+                  ]
+            },
+            {
+                  "name": "Saga Museum",
+                  "text": "A museum in Reykjavík that brings Icelandic history to life with realistic wax figures.",
+                  "category": "museum",
+                  "coords": [
+                        -21.951277,
+                        64.152564
+                  ]
+            },
+            {
+                  "name": "Seltjarnarneskirkja",
+                  "text": "A modern church in Seltjarnarnes, a suburb of Reykjavík.",
+                  "category": "religious",
+                  "coords": [
+                        -21.990098,
+                        64.152949
+                  ]
+            },
+            {
+                  "name": "Neskirkja",
+                  "text": "A Lutheran church in Reykjavík known for its striking concrete architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -21.957483,
+                        64.14141
+                  ]
+            },
+            {
+                  "name": "Laugarneskirkja",
+                  "text": "A local Lutheran church in the Laugarnes district of Reykjavík.",
+                  "category": "religious",
+                  "coords": [
+                        -21.888339,
+                        64.144515
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "A church in Reykjavík located near the Fossvogur valley.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Rauðarárvík",
+                  "text": "A small bay located on the coast of Reykjavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.915944,
+                        64.147977
+                  ]
+            },
+            {
+                  "name": "Tónlistarsafn Íslands",
+                  "text": "The Music Museum of Iceland preserves and presents the country's musical heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -21.950647,
+                        64.142672
+                  ]
+            },
+            {
+                  "name": "Icelandic Punk Museum",
+                  "text": "This museum in Reykjavík documents the history and impact of punk in Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -21.935909,
+                        64.147028
+                  ]
+            },
+            {
+                  "name": "Aurora Reykjavik Northern Lights Center",
+                  "text": "An information center in Reykjavík dedicated to the phenomenon of the northern lights.",
+                  "category": "museum",
+                  "coords": [
+                        -21.944686,
+                        64.156384
+                  ]
+            },
+            {
+                  "name": "Listasafn ASÍ",
+                  "text": "An art museum in Reykjavík operated by the Icelandic confederation of labour (ASÍ).",
+                  "category": "museum",
+                  "coords": [
+                        -21.928339,
+                        64.140885
+                  ]
+            },
+            {
+                  "name": "Safn Ásgríms Jónssonar",
+                  "text": "The former home and studio of the Icelandic painter Ásgrímur Jónsson.",
+                  "category": "museum",
+                  "coords": [
+                        -21.933,
+                        64.139973
+                  ]
+            },
+            {
+                  "name": "Arctic Photo",
+                  "text": "A gallery in Reykjavík specializing in Arctic nature and landscape photography.",
+                  "category": "museum",
+                  "coords": [
+                        -21.921719,
+                        64.144168
+                  ]
+            },
+            {
+                  "name": "Fiskhöllin",
+                  "text": "An art gallery in Reykjavík presenting rotating exhibitions by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -21.943639,
+                        64.150247
+                  ]
+            },
+            {
+                  "name": "Gallerí Fold",
+                  "text": "An established gallery in Reykjavík offering a wide selection of Icelandic art for sale.",
+                  "category": "museum",
+                  "coords": [
+                        -21.914285,
+                        64.142433
+                  ]
+            },
+            {
+                  "name": "Mink Viking Portrait Studio",
+                  "text": "A gallery in Reykjavík offering Viking portrait photography in traditional costumes.",
+                  "category": "museum",
+                  "coords": [
+                        -21.931155,
+                        64.14627
+                  ]
+            },
+            {
+                  "name": "Art Gallery 101",
+                  "text": "A local art gallery located in the city center of Reykjavík.",
+                  "category": "museum",
+                  "coords": [
+                        -21.924788,
+                        64.144758
+                  ]
+            },
+            {
+                  "name": "Kaolin Keramik Gallery",
+                  "text": "This gallery in Reykjavík specializes in handmade Icelandic ceramic art.",
+                  "category": "museum",
+                  "coords": [
+                        -21.930326,
+                        64.14424
+                  ]
+            },
+            {
+                  "name": "Art Ceramic Studio Gallery",
+                  "text": "A gallery in Reykjavík exhibiting contemporary Icelandic ceramics and studio art.",
+                  "category": "museum",
+                  "coords": [
+                        -21.928082,
+                        64.142924
+                  ]
+            },
+            {
+                  "name": "The Marshall House",
+                  "text": "A former industrial building in the harbour area now housing several art galleries.",
+                  "category": "museum",
+                  "coords": [
+                        -21.938979,
+                        64.156131
+                  ]
             }
       ]
 }
   },  {
-    id: "iceland-kopavogur-cities-v2",
+    id: "iceland-kopavogur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Das Naturkundemuseum von Kópavogur zeigt die isländische Flora und Fauna.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Dieses Museum in Kópavogur konzentriert sich auf isländisches Design und angewandte Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "Ein bedeutendes Theater in der Region Kópavogur für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "Ein Naturschutzgebiet in Kópavogur, bekannt für seine geologischen Formationen.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Víghólar",
+                  "text": "Ein geschütztes Naturgebiet in Kópavogur mit kultureller Bedeutung.",
+                  "category": "natural",
+                  "coords": [
+                        -21.882482,
+                        64.110768
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Ein lokales Theatergebäude in Kópavogur für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "Eine Einrichtung des Isländischen Nationalmuseums in Kópavogur zur Bewahrung von Kulturgütern.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Eine archäologische Stätte in Kópavogur mit Überresten aus der Wikingerzeit.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Álfhóll",
+                  "text": "Ein kleiner Hügel und Naturschutzgebiet in Kópavogur, verbunden mit isländischen Elfensagen.",
+                  "category": "natural",
+                  "coords": [
+                        -21.870234,
+                        64.11118
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Ein weitläufiges Lavafeld und Naturschutzgebiet in der Nähe von Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Ein Naturschutzgebiet in Kópavogur, das lokale Landschaften bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Fossvogsbakkar",
+                  "text": "Geschützte Küstenstreifen am Fossvogur-Fjord in Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.913142,
+                        64.119574
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "Ein Naturschutzgebiet auf der Halbinsel in der Nähe von Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Öskjuhlíð",
+                  "text": "Ein bewaldeter Hügel in Kópavogur, Standort des berühmten Perlan-Gebäudes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91871,
+                        64.12919
+                  ]
+            },
+            {
+                  "name": "Sky Lagoon",
+                  "text": "Ein geothermisches Spa in Kópavogur mit Blick auf den Nordatlantik.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.946435,
+                        64.116465
+                  ]
+            },
+            {
+                  "name": "Klambratún",
+                  "text": "Ein öffentlicher Park in Kópavogur, der für Freizeitaktivitäten und Kunst im Freien genutzt wird.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Ein kleiner Park in Kópavogur, benannt nach einer historischen Persönlichkeit.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Gallery 16C",
+                  "text": "Ein Kulturzentrum in Kópavogur, das lokale Kunst und Ausstellungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871314,
+                        64.10536
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "Eine lokale Attraktion in Kópavogur, oft von Familien besucht.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Howitzer Hill",
+                  "text": "Überreste historischer Befestigungen oder Strukturen in Kópavogur.",
+                  "category": "historical",
+                  "coords": [
+                        -21.923619,
+                        64.130233
+                  ]
+            },
+            {
+                  "name": "Art Gallerí",
+                  "text": "Eine Kunstgalerie in Kópavogur, die verschiedene künstlerische Werke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -21.876029,
+                        64.134587
+                  ]
+            },
+            {
+                  "name": "Wat Thai Island",
+                  "text": "Ein thailändisches buddhistisches Kloster und Tempel in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.884805,
+                        64.110804
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Eine moderne lutherische Kirche in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Bústaðakirkja",
+                  "text": "Eine markante Kirche in Kópavogur mit moderner Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.859489,
+                        64.121099
+                  ]
+            },
+            {
+                  "name": "Grensáskirkja",
+                  "text": "Eine lokale Gemeindekirche in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.887313,
+                        64.129167
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "Eine Kirche in Kópavogur, die sich in der Nähe des Fossvogur-Tals befindet.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Hjallakirkja",
+                  "text": "Eine lutherische Pfarrkirche in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.866068,
+                        64.110005
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "Eine moderne Kirche in Kópavogur, die der Digranes-Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Kópavogur természettudományi múzeuma Izland növény- és állatvilágát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Ez a kópavoguri múzeum az izlandi dizájnra és iparművészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "Kópavogur régiójának jelentős színháza az előadóművészetek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "Természetvédelmi terület Kópavogurban, amely geológiai képződményeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Víghólar",
+                  "text": "Védett természeti terület Kópavogurban, kulturális jelentőséggel.",
+                  "category": "natural",
+                  "coords": [
+                        -21.882482,
+                        64.110768
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Helyi színházépület Kópavogurban különböző előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "Az Izlandi Nemzeti Múzeum kópavoguri létesítménye a műtárgyak megőrzésére.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Régészeti lelőhely Kópavogurban viking kori maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Álfhóll",
+                  "text": "Kisebb domb és természetvédelmi terület Kópavogurban, amely az izlandi tündérmesékhez kötődik.",
+                  "category": "natural",
+                  "coords": [
+                        -21.870234,
+                        64.11118
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Kiterjedt lávamező és természetvédelmi terület Kópavogur közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Természetvédelmi terület Kópavogurban, amely a helyi tájat őrzi.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Fossvogsbakkar",
+                  "text": "Védett tengerparti sávok a Fossvogur-fjord mentén Kópavogurban.",
+                  "category": "natural",
+                  "coords": [
+                        -21.913142,
+                        64.119574
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "Természetvédelmi terület a félszigeten Kópavogur közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Öskjuhlíð",
+                  "text": "Erdős domb Kópavogurban, ahol a híres Perlan épület található.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91871,
+                        64.12919
+                  ]
+            },
+            {
+                  "name": "Sky Lagoon",
+                  "text": "Geotermikus gyógyfürdő Kópavogurban, kilátással az Atlanti-óceánra.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.946435,
+                        64.116465
+                  ]
+            },
+            {
+                  "name": "Klambratún",
+                  "text": "Nyilvános park Kópavogurban, amelyet szabadidős tevékenységekre és szabadtéri művészetre használnak.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Kisebb park Kópavogurban, amelyet egy történelmi személyről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Gallery 16C",
+                  "text": "Kulturális központ Kópavogurban, amely a helyi művészetet és kiállításokat támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871314,
+                        64.10536
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "Helyi látványosság Kópavogurban, amelyet gyakran látogatnak családok.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Howitzer Hill",
+                  "text": "Történelmi erődítmények vagy építmények maradványai Kópavogurban.",
+                  "category": "historical",
+                  "coords": [
+                        -21.923619,
+                        64.130233
+                  ]
+            },
+            {
+                  "name": "Art Gallerí",
+                  "text": "Művészeti galéria Kópavogurban, amely különböző alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.876029,
+                        64.134587
+                  ]
+            },
+            {
+                  "name": "Wat Thai Island",
+                  "text": "Thaiföldi buddhista kolostor és templom Kópavogurban.",
+                  "category": "religious",
+                  "coords": [
+                        -21.884805,
+                        64.110804
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Modern evangélikus templom Kópavogurban.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Bústaðakirkja",
+                  "text": "Jellegzetes, modern építészetű templom Kópavogurban.",
+                  "category": "religious",
+                  "coords": [
+                        -21.859489,
+                        64.121099
+                  ]
+            },
+            {
+                  "name": "Grensáskirkja",
+                  "text": "Helyi közösségi templom Kópavogurban.",
+                  "category": "religious",
+                  "coords": [
+                        -21.887313,
+                        64.129167
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "Templom Kópavogurban, a Fossvogur-völgy közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Hjallakirkja",
+                  "text": "Evangélikus plébániatemplom Kópavogurban.",
+                  "category": "religious",
+                  "coords": [
+                        -21.866068,
+                        64.110005
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "Modern templom Kópavogurban, amely a Digranes egyházközséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Muzeul de istorie naturală din Kópavogur prezintă flora și fauna islandeză.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Acest muzeu din Kópavogur se concentrează pe designul și arta aplicată islandeză.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "Un teatru important din regiunea Kópavogur pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "O rezervație naturală în Kópavogur, cunoscută pentru formațiunile sale geologice.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Víghólar",
+                  "text": "O zonă naturală protejată în Kópavogur cu semnificație culturală.",
+                  "category": "natural",
+                  "coords": [
+                        -21.882482,
+                        64.110768
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "O clădire de teatru locală în Kópavogur pentru diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "O facilitate a Muzeului Național al Islandei din Kópavogur pentru conservarea artefactelor.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Un sit arheologic în Kópavogur cu vestigii din epoca vikingă.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Álfhóll",
+                  "text": "O mică colină și rezervație naturală în Kópavogur, legată de legendele islandeze cu elfi.",
+                  "category": "natural",
+                  "coords": [
+                        -21.870234,
+                        64.11118
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Un câmp de lavă extins și rezervație naturală lângă Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "O rezervație naturală în Kópavogur care conservă peisajele locale.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Fossvogsbakkar",
+                  "text": "Fâșii de coastă protejate de-a lungul fiordului Fossvogur în Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.913142,
+                        64.119574
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "O rezervație naturală pe peninsula de lângă Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Öskjuhlíð",
+                  "text": "O colină împădurită în Kópavogur, locul unde se află celebra clădire Perlan.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91871,
+                        64.12919
+                  ]
+            },
+            {
+                  "name": "Sky Lagoon",
+                  "text": "Un centru balnear geotermal în Kópavogur cu vedere la Oceanul Atlantic.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.946435,
+                        64.116465
+                  ]
+            },
+            {
+                  "name": "Klambratún",
+                  "text": "Un parc public în Kópavogur utilizat pentru activități recreative și artă în aer liber.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Un parc mic în Kópavogur, numit după o personalitate istorică.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Gallery 16C",
+                  "text": "Un centru de artă în Kópavogur care promovează arta locală și expozițiile.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871314,
+                        64.10536
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "O atracție locală în Kópavogur, frecvent vizitată de familii.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Howitzer Hill",
+                  "text": "Vestigii ale unor fortificații sau structuri istorice în Kópavogur.",
+                  "category": "historical",
+                  "coords": [
+                        -21.923619,
+                        64.130233
+                  ]
+            },
+            {
+                  "name": "Art Gallerí",
+                  "text": "O galerie de artă în Kópavogur care prezintă diverse lucrări artistice.",
+                  "category": "museum",
+                  "coords": [
+                        -21.876029,
+                        64.134587
+                  ]
+            },
+            {
+                  "name": "Wat Thai Island",
+                  "text": "O mănăstire și un templu budist thailandez în Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.884805,
+                        64.110804
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "O biserică luterană modernă în Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Bústaðakirkja",
+                  "text": "O biserică distinctivă în Kópavogur cu arhitectură modernă.",
+                  "category": "religious",
+                  "coords": [
+                        -21.859489,
+                        64.121099
+                  ]
+            },
+            {
+                  "name": "Grensáskirkja",
+                  "text": "O biserică comunitară locală în Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.887313,
+                        64.129167
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "O biserică în Kópavogur situată lângă valea Fossvogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Hjallakirkja",
+                  "text": "O biserică parohială luterană în Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.866068,
+                        64.110005
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "O biserică modernă în Kópavogur care servește comunitatea Digranes.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Kópavogur's natural history museum showcasing Icelandic flora and fauna.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Museum Of Design And Applied Art",
+                  "text": "This museum in Kópavogur focuses on Icelandic design and applied art.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgarleikhúsið",
+                  "text": "A major theatre in the Kópavogur area for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.896395,
+                        64.12901
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "A nature reserve in Kópavogur known for its geological formations.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Víghólar",
+                  "text": "A protected natural area in Kópavogur with cultural significance.",
+                  "category": "natural",
+                  "coords": [
+                        -21.882482,
+                        64.110768
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "A local theatre building in Kópavogur for various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "A facility of the National Museum of Iceland in Kópavogur for artifact preservation.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "An archaeological site in Kópavogur featuring Viking Age remains.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Álfhóll",
+                  "text": "A small hill and nature reserve in Kópavogur associated with Icelandic elf folklore.",
+                  "category": "natural",
+                  "coords": [
+                        -21.870234,
+                        64.11118
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "An extensive lava field and nature reserve near Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "A nature reserve in Kópavogur preserving local landscapes.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Fossvogsbakkar",
+                  "text": "Protected coastal strips along the Fossvogur fjord in Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.913142,
+                        64.119574
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "A nature reserve on the peninsula near Kópavogur.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Öskjuhlíð",
+                  "text": "A forested hill in Kópavogur, home to the famous Perlan building.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91871,
+                        64.12919
+                  ]
+            },
+            {
+                  "name": "Sky Lagoon",
+                  "text": "A geothermal spa in Kópavogur overlooking the North Atlantic Ocean.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.946435,
+                        64.116465
+                  ]
+            },
+            {
+                  "name": "Klambratún Public Park",
+                  "text": "A public park in Kópavogur used for recreation and outdoor art.",
+                  "category": "park",
+                  "coords": [
+                        -21.913372,
+                        64.137085
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "A small park in Kópavogur named after a historical figure.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Gallery 16C",
+                  "text": "An arts centre in Kópavogur promoting local art and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871314,
+                        64.10536
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "A local attraction in Kópavogur, often visited by families.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Howitzer Hill",
+                  "text": "Remains of historical fortifications or structures in Kópavogur.",
+                  "category": "historical",
+                  "coords": [
+                        -21.923619,
+                        64.130233
+                  ]
+            },
+            {
+                  "name": "Art Gallerí",
+                  "text": "An art gallery in Kópavogur presenting various artistic works.",
+                  "category": "museum",
+                  "coords": [
+                        -21.876029,
+                        64.134587
+                  ]
+            },
+            {
+                  "name": "Wat Thai Island",
+                  "text": "A Thai Buddhist monastery and temple in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.884805,
+                        64.110804
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "A modern Lutheran church in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Bústaðakirkja",
+                  "text": "A distinctive church in Kópavogur with modern architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -21.859489,
+                        64.121099
+                  ]
+            },
+            {
+                  "name": "Grensáskirkja",
+                  "text": "A local community church in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.887313,
+                        64.129167
+                  ]
+            },
+            {
+                  "name": "Fossvogskirkja",
+                  "text": "A church in Kópavogur located near the Fossvogur valley.",
+                  "category": "religious",
+                  "coords": [
+                        -21.908873,
+                        64.125392
+                  ]
+            },
+            {
+                  "name": "Hjallakirkja",
+                  "text": "A Lutheran parish church in Kópavogur.",
+                  "category": "religious",
+                  "coords": [
+                        -21.866068,
+                        64.110005
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "A modern church in Kópavogur serving the Digranes parish.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "city",
     name: { de: "Kópavogur", hu: "Kópavogur", ro: "Kópavogur", en: "Kópavogur"},
@@ -551,7 +3116,664 @@ imageHint: "Hafnarfjordur harbor and colorful houses",
     },
     image: "/poi-images/iceland-hafnarfjordur-cities-v2.webp",
 },  {
-    id: "iceland-akureyri-cities-v2",
+    id: "iceland-akureyri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Minjasafnið á Akureyri",
+                  "text": "Das Stadtmuseum von Akureyri beleuchtet die Geschichte und Kultur Nordislands.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086254,
+                        65.666466
+                  ]
+            },
+            {
+                  "name": "Leikfélag Akureyrar",
+                  "text": "Das Stadttheater von Akureyri, eine wichtige kulturelle Institution im Norden.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.089752,
+                        65.677116
+                  ]
+            },
+            {
+                  "name": "Mótorhjólasafn Íslands",
+                  "text": "Ein Museum in Akureyri, das der Geschichte der Motorräder in Island gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081173,
+                        65.661255
+                  ]
+            },
+            {
+                  "name": "Davíðshús",
+                  "text": "Ein Museum in Akureyri, das im ehemaligen Wohnhaus des Dichters Davíð Stefánsson untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -18.097731,
+                        65.682968
+                  ]
+            },
+            {
+                  "name": "Iðnaðarsafn",
+                  "text": "Dieses Museum dokumentiert die Industriegeschichte und das Handwerk der Region Akureyri.",
+                  "category": "museum",
+                  "coords": [
+                        -18.08221,
+                        65.661629
+                  ]
+            },
+            {
+                  "name": "Friðbjarnarhús",
+                  "text": "Ein charmantes Museum in Akureyri, das eine Sammlung historischer Spielzeuge zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086002,
+                        65.667974
+                  ]
+            },
+            {
+                  "name": "Norðurslóð",
+                  "text": "Ein Museum in Akureyri, das sich mit der Geschichte und Kultur der Arktis befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -18.079547,
+                        65.685755
+                  ]
+            },
+            {
+                  "name": "Lystigarður Akureyrar",
+                  "text": "Einer der nördlichsten botanischen Gärten der Welt mit einer großen Sammlung arktischer Pflanzen.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.094339,
+                        65.6751
+                  ]
+            },
+            {
+                  "name": "Listasafnið á Akureyri",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in Akureyri, untergebracht in einer ehemaligen Molkerei.",
+                  "category": "museum",
+                  "coords": [
+                        -18.091928,
+                        65.680436
+                  ]
+            },
+            {
+                  "name": "Helgi magri og Þórunn hyrna",
+                  "text": "Ein Denkmal in Akureyri, das die ersten Siedler der Region ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -18.098238,
+                        65.686499
+                  ]
+            },
+            {
+                  "name": "Ævintýragarðurinn",
+                  "text": "Eine Galerie in Akureyri, die künstlerische Märchenfiguren und Skulpturen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -18.094157,
+                        65.681477
+                  ]
+            },
+            {
+                  "name": "Read heart in Trafic lights",
+                  "text": "Eine Besonderheit in Akureyri, bei der die roten Ampelmännchen die Form von Herzen haben.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.08735,
+                        65.68245
+                  ]
+            },
+            {
+                  "name": "Samkomubrúin",
+                  "text": "Eine markante Fußgängerbrücke und Sehenswürdigkeit in der Stadt Akureyri.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.087658,
+                        65.676996
+                  ]
+            },
+            {
+                  "name": "Þúfa",
+                  "text": "Eine kleine Galerie in Akureyri, die lokale Kunstwerke und Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081069,
+                        65.686483
+                  ]
+            },
+            {
+                  "name": "Menningarhúsið Hof",
+                  "text": "Das moderne Kultur- und Kongresszentrum von Akureyri direkt am Hafen.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.087414,
+                        65.683357
+                  ]
+            },
+            {
+                  "name": "Péturskirkja",
+                  "text": "Eine kleine katholische Kirche und Ort der geistlichen Besinnung in Akureyri.",
+                  "category": "religious",
+                  "coords": [
+                        -18.093055,
+                        65.677545
+                  ]
+            },
+            {
+                  "name": "Akureyrarkirkja",
+                  "text": "Die markante lutherische Hauptkirche von Akureyri, entworfen vom Architekten Guðjón Samúelsson.",
+                  "category": "religious",
+                  "coords": [
+                        -18.090968,
+                        65.679835
+                  ]
+            },
+            {
+                  "name": "Glerárkirkja",
+                  "text": "Eine moderne lutherische Kirche in Akureyri, bekannt für ihre zeitgenössische Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -18.133204,
+                        65.692584
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Minjasafnið á Akureyri",
+                  "text": "Akureyri városi múzeuma Észak-Izland történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086254,
+                        65.666466
+                  ]
+            },
+            {
+                  "name": "Leikfélag Akureyrar",
+                  "text": "Akureyri városi színháza, amely az északi régió fontos kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.089752,
+                        65.677116
+                  ]
+            },
+            {
+                  "name": "Mótorhjólasafn Íslands",
+                  "text": "Izlandi motorkerékpárok történetét bemutató múzeum Akureyriben.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081173,
+                        65.661255
+                  ]
+            },
+            {
+                  "name": "Davíðshús",
+                  "text": "Davíð Stefánsson költő egykori otthonában berendezett múzeum Akureyriben.",
+                  "category": "museum",
+                  "coords": [
+                        -18.097731,
+                        65.682968
+                  ]
+            },
+            {
+                  "name": "Iðnaðarsafn",
+                  "text": "Ez a múzeum Akureyri ipartörténetét és kézművességét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -18.08221,
+                        65.661629
+                  ]
+            },
+            {
+                  "name": "Friðbjarnarhús",
+                  "text": "Bájos játékkiállítás Akureyriben, amely történelmi játékokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086002,
+                        65.667974
+                  ]
+            },
+            {
+                  "name": "Norðurslóð",
+                  "text": "Az Arktisz történelmével és kultúrájával foglalkozó múzeum Akureyriben.",
+                  "category": "museum",
+                  "coords": [
+                        -18.079547,
+                        65.685755
+                  ]
+            },
+            {
+                  "name": "Lystigarður Akureyrar",
+                  "text": "A világ egyik legészakibb botanikus kertje, sarkvidéki növények gazdag gyűjteményével.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.094339,
+                        65.6751
+                  ]
+            },
+            {
+                  "name": "Listasafnið á Akureyri",
+                  "text": "Akureyri kortárs művészeti központja, amely egy egykori tejüzem épületében működik.",
+                  "category": "museum",
+                  "coords": [
+                        -18.091928,
+                        65.680436
+                  ]
+            },
+            {
+                  "name": "Helgi magri og Þórunn hyrna",
+                  "text": "Emlékmű Akureyriben, amely a térség első telepeseinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -18.098238,
+                        65.686499
+                  ]
+            },
+            {
+                  "name": "Ævintýragarðurinn",
+                  "text": "Mesealakokat és szobrokat bemutató galéria Akureyriben.",
+                  "category": "museum",
+                  "coords": [
+                        -18.094157,
+                        65.681477
+                  ]
+            },
+            {
+                  "name": "Read heart in Trafic lights",
+                  "text": "Akureyri különlegessége, ahol a piros jelzőlámpák szív alakúak.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.08735,
+                        65.68245
+                  ]
+            },
+            {
+                  "name": "Samkomubrúin",
+                  "text": "Jellegzetes gyalogoshíd és látnivaló Akureyri városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.087658,
+                        65.676996
+                  ]
+            },
+            {
+                  "name": "Þúfa",
+                  "text": "Kisméretű galéria Akureyriben, amely helyi művészeti alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081069,
+                        65.686483
+                  ]
+            },
+            {
+                  "name": "Menningarhúsið Hof",
+                  "text": "Akureyri modern kulturális és konferenciaközpontja közvetlenül a kikötőben.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.087414,
+                        65.683357
+                  ]
+            },
+            {
+                  "name": "Péturskirkja",
+                  "text": "Kisméretű katolikus templom és lelki helyszín Akureyriben.",
+                  "category": "religious",
+                  "coords": [
+                        -18.093055,
+                        65.677545
+                  ]
+            },
+            {
+                  "name": "Akureyrarkirkja",
+                  "text": "Akureyri jellegzetes evangélikus főtemploma, amelyet Guðjón Samúelsson építész tervezett.",
+                  "category": "religious",
+                  "coords": [
+                        -18.090968,
+                        65.679835
+                  ]
+            },
+            {
+                  "name": "Glerárkirkja",
+                  "text": "Modern evangélikus templom Akureyriben, amely kortárs építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -18.133204,
+                        65.692584
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Minjasafnið á Akureyri",
+                  "text": "Muzeul orașului Akureyri prezintă istoria și cultura Islandei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086254,
+                        65.666466
+                  ]
+            },
+            {
+                  "name": "Leikfélag Akureyrar",
+                  "text": "Teatrul orășenesc din Akureyri, o instituție culturală importantă din nord.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.089752,
+                        65.677116
+                  ]
+            },
+            {
+                  "name": "Mótorhjólasafn Íslands",
+                  "text": "Un muzeu din Akureyri dedicat istoriei motocicletelor din Islanda.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081173,
+                        65.661255
+                  ]
+            },
+            {
+                  "name": "Davíðshús",
+                  "text": "Un muzeu din Akureyri situat în fosta casă a poetului Davíð Stefánsson.",
+                  "category": "museum",
+                  "coords": [
+                        -18.097731,
+                        65.682968
+                  ]
+            },
+            {
+                  "name": "Iðnaðarsafn",
+                  "text": "Acest muzeu documentează istoria industrială și meșteșugurile din regiunea Akureyri.",
+                  "category": "museum",
+                  "coords": [
+                        -18.08221,
+                        65.661629
+                  ]
+            },
+            {
+                  "name": "Friðbjarnarhús",
+                  "text": "Un muzeu fermecător din Akureyri care expune o colecție de jucării istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086002,
+                        65.667974
+                  ]
+            },
+            {
+                  "name": "Norðurslóð",
+                  "text": "Un muzeu din Akureyri axat pe istoria și cultura regiunii arctice.",
+                  "category": "museum",
+                  "coords": [
+                        -18.079547,
+                        65.685755
+                  ]
+            },
+            {
+                  "name": "Lystigarður Akureyrar",
+                  "text": "Una dintre cele mai nordice grădini botanice din lume, cu o colecție bogată de plante arctice.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.094339,
+                        65.6751
+                  ]
+            },
+            {
+                  "name": "Listasafnið á Akureyri",
+                  "text": "Un centru de artă contemporană din Akureyri, situat într-o fostă lăptărie.",
+                  "category": "museum",
+                  "coords": [
+                        -18.091928,
+                        65.680436
+                  ]
+            },
+            {
+                  "name": "Helgi magri og Þórunn hyrna",
+                  "text": "Un monument din Akureyri care îi onorează pe primii coloniști ai regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -18.098238,
+                        65.686499
+                  ]
+            },
+            {
+                  "name": "Ævintýragarðurinn",
+                  "text": "O galerie din Akureyri care prezintă figuri de basm și sculpturi artistice.",
+                  "category": "museum",
+                  "coords": [
+                        -18.094157,
+                        65.681477
+                  ]
+            },
+            {
+                  "name": "Read heart in Trafic lights",
+                  "text": "O particularitate din Akureyri, unde semafoarele roșii au formă de inimă.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.08735,
+                        65.68245
+                  ]
+            },
+            {
+                  "name": "Samkomubrúin",
+                  "text": "Un pod pietonal distinctiv și un punct de atracție în orașul Akureyri.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.087658,
+                        65.676996
+                  ]
+            },
+            {
+                  "name": "Þúfa",
+                  "text": "O mică galerie în Akureyri care expune opere de artă și expoziții locale.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081069,
+                        65.686483
+                  ]
+            },
+            {
+                  "name": "Menningarhúsið Hof",
+                  "text": "Centrul cultural și de conferințe modern din Akureyri, situat lângă port.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.087414,
+                        65.683357
+                  ]
+            },
+            {
+                  "name": "Péturskirkja",
+                  "text": "O mică biserică catolică și loc de reculegere spirituală în Akureyri.",
+                  "category": "religious",
+                  "coords": [
+                        -18.093055,
+                        65.677545
+                  ]
+            },
+            {
+                  "name": "Akureyrarkirkja",
+                  "text": "Biserica luterană principală din Akureyri, proiectată de arhitectul Guðjón Samúelsson.",
+                  "category": "religious",
+                  "coords": [
+                        -18.090968,
+                        65.679835
+                  ]
+            },
+            {
+                  "name": "Glerárkirkja",
+                  "text": "O biserică luterană modernă în Akureyri, cunoscută pentru arhitectura sa contemporană.",
+                  "category": "religious",
+                  "coords": [
+                        -18.133204,
+                        65.692584
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akureyri Museum",
+                  "text": "The Akureyri City Museum highlights the history and culture of North Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086254,
+                        65.666466
+                  ]
+            },
+            {
+                  "name": "Leikfélag Akureyrar",
+                  "text": "The Akureyri City Theatre, a key cultural institution in the north.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.089752,
+                        65.677116
+                  ]
+            },
+            {
+                  "name": "The Motorcycle Museum of Iceland",
+                  "text": "A museum in Akureyri dedicated to the history of motorcycles in Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081173,
+                        65.661255
+                  ]
+            },
+            {
+                  "name": "David's House",
+                  "text": "A museum in Akureyri located in the former home of poet Davíð Stefánsson.",
+                  "category": "museum",
+                  "coords": [
+                        -18.097731,
+                        65.682968
+                  ]
+            },
+            {
+                  "name": "Industry Museum",
+                  "text": "This museum documents the industrial history and craftsmanship of the Akureyri region.",
+                  "category": "museum",
+                  "coords": [
+                        -18.08221,
+                        65.661629
+                  ]
+            },
+            {
+                  "name": "Akureyri Toy Museum",
+                  "text": "A charming museum in Akureyri showcasing a collection of historical toys.",
+                  "category": "museum",
+                  "coords": [
+                        -18.086002,
+                        65.667974
+                  ]
+            },
+            {
+                  "name": "Into the Arctic",
+                  "text": "A museum in Akureyri focused on the history and culture of the Arctic.",
+                  "category": "museum",
+                  "coords": [
+                        -18.079547,
+                        65.685755
+                  ]
+            },
+            {
+                  "name": "Akureyri Botanical Garden",
+                  "text": "One of the northernmost botanical gardens in the world, featuring a vast collection of Arctic plants.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.094339,
+                        65.6751
+                  ]
+            },
+            {
+                  "name": "Akureyri Art Museum",
+                  "text": "A contemporary art center in Akureyri, housed in a former dairy building.",
+                  "category": "museum",
+                  "coords": [
+                        -18.091928,
+                        65.680436
+                  ]
+            },
+            {
+                  "name": "Helgi magri og Þórunn hyrna",
+                  "text": "A monument in Akureyri honoring the first settlers of the region.",
+                  "category": "historical",
+                  "coords": [
+                        -18.098238,
+                        65.686499
+                  ]
+            },
+            {
+                  "name": "Fairytale Figures",
+                  "text": "A gallery in Akureyri presenting artistic fairytale figures and sculptures.",
+                  "category": "museum",
+                  "coords": [
+                        -18.094157,
+                        65.681477
+                  ]
+            },
+            {
+                  "name": "Read heart in Trafic lights",
+                  "text": "A unique feature in Akureyri where the red traffic lights are shaped like hearts.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.08735,
+                        65.68245
+                  ]
+            },
+            {
+                  "name": "Samkomubrúin",
+                  "text": "A distinctive pedestrian bridge and attraction in the city of Akureyri.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.087658,
+                        65.676996
+                  ]
+            },
+            {
+                  "name": "Þúfa",
+                  "text": "A small gallery in Akureyri showcasing local artworks and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        -18.081069,
+                        65.686483
+                  ]
+            },
+            {
+                  "name": "Menningarhúsið Hof",
+                  "text": "Akureyri's modern cultural and conference center located by the harbor.",
+                  "category": "cultural",
+                  "coords": [
+                        -18.087414,
+                        65.683357
+                  ]
+            },
+            {
+                  "name": "Church of St. Peter",
+                  "text": "A small Catholic church and place of worship in Akureyri.",
+                  "category": "religious",
+                  "coords": [
+                        -18.093055,
+                        65.677545
+                  ]
+            },
+            {
+                  "name": "Akureyrarkirkja",
+                  "text": "The prominent Lutheran church of Akureyri, designed by architect Guðjón Samúelsson.",
+                  "category": "religious",
+                  "coords": [
+                        -18.090968,
+                        65.679835
+                  ]
+            },
+            {
+                  "name": "Glerárkirkja",
+                  "text": "A modern Lutheran church in Akureyri, known for its contemporary architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -18.133204,
+                        65.692584
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "city",
     name: { de: "Akureyri", hu: "Akureyri", ro: "Akureyri", en: "Akureyri"},
@@ -643,7 +3865,988 @@ imageHint: "Keflavik harbor and rocky coastline",
     },
     image: "/poi-images/iceland-keflavik-cities-v2.webp",
 },  {
-    id: "iceland-gardabaer-cities-v2",
+    id: "iceland-gardabaer-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Ein Naturkundemuseum in Kópavogur, das die lokale Fauna zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Das isländische Museum für Design und angewandte Kunst in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "Ein Naturschutzgebiet und Hügel mit historischer Bedeutung in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Ein lokales Theater für Aufführungen in der Region Garðabær.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Ein Museum, das die Geschichte und das Erbe von Hafnarfjörður bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "Ein Standort des Nationalmuseums für die Erhaltung isländischer Kulturgüter.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Eine archäologische Fundstelle eines Wikinger-Langhauses in Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Die Ruinen eines alten Gehöfts in der Region Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "Ein historisches Gebäude in Garðabær, das als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Ein weitläufiges Lavafeld und Naturschutzgebiet bei Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Ein markantes Lavafeld mit Wanderwegen und Küstenblick.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "Ein raues Lavagebiet, das Teil der Naturlandschaft von Garðabær ist.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "Ein durch vulkanische Aktivität geformtes Naturschutzgebiet.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Ein malerischer See und Naturschutzgebiet in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Ein Naturschutzgebiet mit vulkanischen Hügeln in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "Ein Naturschutzgebiet auf einer Halbinsel bei Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Vitinn við Vitastíg",
+                  "text": "Ein markanter Leuchtturm an der Küste von Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "Ein Kulturzentrum und Kunstmuseum in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "Ein charmanter Park in Garðabær, bekannt für seine Lavaformationen.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Ein öffentlicher Stadtpark in Garðabær.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "Ein Aussichtspunkt auf einer Klippe in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "Eine lokale Attraktion in Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "Eine lokale Sehenswürdigkeit in Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Eine moderne Kirche in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "Eine Freikirche in der Region Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "Eine lokale Kirche in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "Eine moderne Kirche in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Természettudományi múzeum Kópavogurban, a helyi élővilág bemutatásával.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Izlandi design- és iparművészeti múzeum Garðabærben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "Természetvédelmi terület és történelmi jelentőségű domb Garðabærben.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Helyi színház előadások számára Garðabær környékén.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Hafnarfjörður történelmét és örökségét őrző múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "A Nemzeti Múzeum izlandi kulturális javakat őrző központja.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Viking kori hosszúház régészeti lelőhelye Garðabærben.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Egy régi tanya romjai Garðabær környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "Múzeumként működő történelmi épület Garðabærben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Kiterjedt lávamező és természetvédelmi terület Garðabær mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Jellegzetes lávamező túraútvonalakkal és tengerparti kilátással.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "Garðabær természeti tájának részét képező vad lávaterület.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "Vulkanikus tevékenység által formált természetvédelmi terület.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Festői tó és természetvédelmi terület Garðabærben.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "Vulkanikus dombokkal teli természetvédelmi terület Garðabærben.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "Természetvédelmi terület egy félszigeten Garðabærnél.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Vitinn við Vitastíg",
+                  "text": "Jellegzetes világítótorony Garðabær partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "Kulturális központ és művészeti múzeum Garðabærben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "Bájos park Garðabærben, amely lávaformációiról ismert.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Nyilvános városi park Garðabærben.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "Sziklára épült kilátópont Garðabærben.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "Helyi látványosság Garðabærben.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "Helyi nevezetesség Garðabærben.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "Modern templom Garðabærben.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "Szabadtemplom Garðabær környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "Helyi templom Garðabærben.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "Modern templom Garðabærben.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "Un muzeu de istorie naturală în Kópavogur, care prezintă fauna locală.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Hönnunarsafn Íslands",
+                  "text": "Muzeul islandez de design și artă aplicată din Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "O rezervație naturală și un deal cu semnificație istorică în Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "Un teatru local pentru spectacole în regiunea Garðabær.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "Un muzeu care păstrează istoria și moștenirea orașului Hafnarfjörður.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "O locație a Muzeului Național pentru conservarea patrimoniului islandez.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "Un sit arheologic ce cuprinde o casă lungă din epoca vikingă în Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "Ruinele unei vechi ferme în regiunea Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "O clădire istorică în Garðabær care servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "Un câmp de lavă extins și rezervație naturală lângă Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "Un câmp de lavă distinctiv cu trasee de drumeție și vedere la coastă.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "O zonă de lavă aspră, parte a peisajului natural din Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "O rezervație naturală formată prin activitate vulcanică.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "Un lac pitoresc și o rezervație naturală în Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "O rezervație naturală cu dealuri vulcanice în Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "O rezervație naturală pe o peninsulă lângă Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "Vitinn við Vitastíg",
+                  "text": "Un far distinctiv pe coasta din Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "Un centru cultural și muzeu de artă în Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "Un parc fermecător în Garðabær, cunoscut pentru formațiunile sale de lavă.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "Un parc public urban în Garðabær.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "Un punct de observație pe o stâncă în Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "O atracție locală în Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "O atracție locală în Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "O biserică modernă în Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "O biserică liberă în regiunea Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "O biserică locală în Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "O biserică modernă în Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Náttúrufræðistofa Kópavogs",
+                  "text": "A natural history museum in Kópavogur showcasing local wildlife.",
+                  "category": "museum",
+                  "coords": [
+                        -21.909306,
+                        64.111693
+                  ]
+            },
+            {
+                  "name": "Museum Of Design And Applied Art",
+                  "text": "The Icelandic Museum of Design and Applied Art in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.920556,
+                        64.08905
+                  ]
+            },
+            {
+                  "name": "Borgir",
+                  "text": "A nature reserve and hill with historical significance in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.91304,
+                        64.112296
+                  ]
+            },
+            {
+                  "name": "Leikhúsið",
+                  "text": "A local theatre for performances in the Garðabær area.",
+                  "category": "cultural",
+                  "coords": [
+                        -21.871931,
+                        64.097152
+                  ]
+            },
+            {
+                  "name": "Byggðasafn Hafnarfjarðar",
+                  "text": "A museum preserving the history and heritage of Hafnarfjörður.",
+                  "category": "museum",
+                  "coords": [
+                        -21.959471,
+                        64.070136
+                  ]
+            },
+            {
+                  "name": "Þjóðminjasafn Íslands - varðveisla",
+                  "text": "A National Museum site dedicated to the preservation of Icelandic heritage.",
+                  "category": "museum",
+                  "coords": [
+                        -21.932393,
+                        64.114692
+                  ]
+            },
+            {
+                  "name": "Hofsstaðir",
+                  "text": "An archaeological site of a Viking-age longhouse in Garðabær.",
+                  "category": "historical",
+                  "coords": [
+                        -21.914971,
+                        64.087878
+                  ]
+            },
+            {
+                  "name": "Setbergsrústin",
+                  "text": "The ruins of an ancient farmstead in the Garðabær area.",
+                  "category": "historical",
+                  "coords": [
+                        -21.928581,
+                        64.067187
+                  ]
+            },
+            {
+                  "name": "Bookless Bungalow",
+                  "text": "A historical building in Garðabær serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -21.964997,
+                        64.070648
+                  ]
+            },
+            {
+                  "name": "Garðahraun - neðra",
+                  "text": "An extensive lava field and nature reserve near Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.957393,
+                        64.088825
+                  ]
+            },
+            {
+                  "name": "Gálgahraun",
+                  "text": "A distinctive lava field featuring hiking trails and coastal views.",
+                  "category": "natural",
+                  "coords": [
+                        -21.964706,
+                        64.095334
+                  ]
+            },
+            {
+                  "name": "Stekkjarhraun",
+                  "text": "A rugged lava area that is part of the natural landscape of Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.930557,
+                        64.061734
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðahraun",
+                  "text": "A nature reserve shaped by volcanic activity near Vífilsstaðir.",
+                  "category": "natural",
+                  "coords": [
+                        -21.896227,
+                        64.077008
+                  ]
+            },
+            {
+                  "name": "Vífilsstaðavatn",
+                  "text": "A scenic lake and nature reserve in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.866162,
+                        64.07406
+                  ]
+            },
+            {
+                  "name": "Hádegishólar",
+                  "text": "A nature reserve featuring volcanic hills in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.868228,
+                        64.094178
+                  ]
+            },
+            {
+                  "name": "Bessastaðanes",
+                  "text": "A nature reserve located on a peninsula near Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.978092,
+                        64.108267
+                  ]
+            },
+            {
+                  "name": "The Lighthouse at Vitastígur",
+                  "text": "A distinctive lighthouse on the coast of Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.951409,
+                        64.068893
+                  ]
+            },
+            {
+                  "name": "Hafnarborg",
+                  "text": "A cultural centre and art museum located in Garðabær.",
+                  "category": "museum",
+                  "coords": [
+                        -21.955259,
+                        64.067694
+                  ]
+            },
+            {
+                  "name": "Hellisgerði",
+                  "text": "A charming park in Garðabær known for its lava formations.",
+                  "category": "park",
+                  "coords": [
+                        -21.958206,
+                        64.071518
+                  ]
+            },
+            {
+                  "name": "Rútstún",
+                  "text": "A public city park located in Garðabær.",
+                  "category": "park",
+                  "coords": [
+                        -21.916816,
+                        64.109794
+                  ]
+            },
+            {
+                  "name": "Hamarinn",
+                  "text": "A viewpoint situated on a cliff in Garðabær.",
+                  "category": "natural",
+                  "coords": [
+                        -21.95025,
+                        64.065877
+                  ]
+            },
+            {
+                  "name": "Leikskólalundur",
+                  "text": "A local attraction in Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.884813,
+                        64.107093
+                  ]
+            },
+            {
+                  "name": "Álfaborg",
+                  "text": "A local attraction in Garðabær.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.940722,
+                        64.078614
+                  ]
+            },
+            {
+                  "name": "Lindakirkja",
+                  "text": "A modern church in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.863846,
+                        64.094495
+                  ]
+            },
+            {
+                  "name": "Fríkirkjan í Hafnarfirði",
+                  "text": "A free church in the Garðabær area.",
+                  "category": "religious",
+                  "coords": [
+                        -21.954826,
+                        64.069329
+                  ]
+            },
+            {
+                  "name": "Víðistaðakirkja",
+                  "text": "A local church in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.96087,
+                        64.075566
+                  ]
+            },
+            {
+                  "name": "Digraneskirkja",
+                  "text": "A modern church in Garðabær.",
+                  "category": "religious",
+                  "coords": [
+                        -21.886374,
+                        64.107817
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Garðabær", hu: "Garðabær", ro: "Garðabær", en: "Garðabær"},
@@ -2153,7 +6356,268 @@ imageHint: "Grindavik harbor with fishing boats",
     },
     image: "/poi-images/iceland-grindavik-cities-v2.webp",
 },  {
-    id: "iceland-isafjordur-cities-v2",
+    id: "iceland-isafjordur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Byggðasafn Vestfjarða",
+                  "text": "Das Regionalmuseum der Westfjorde in Ísafjörður, untergebracht in historischen Lagerhäusern.",
+                  "category": "museum",
+                  "coords": [
+                        -23.127457,
+                        66.068119
+                  ]
+            },
+            {
+                  "name": "Þrívíddargangbraut",
+                  "text": "Ein optisch täuschender Zebrastreifen in Ísafjörður, der dreidimensional zu schweben scheint.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.12094,
+                        66.074052
+                  ]
+            },
+            {
+                  "name": "Hannes Hafstein",
+                  "text": "Ein Denkmal für Hannes Hafstein, den ersten isländischen Ministerpräsidenten, in Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.122718,
+                        66.074729
+                  ]
+            },
+            {
+                  "name": "Brúarnesti",
+                  "text": "Historische Überreste und Ruinen in der Nähe von Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.174413,
+                        66.063563
+                  ]
+            },
+            {
+                  "name": "Harpa hafsins",
+                  "text": "Eine Skulptur in Ísafjörður, die der maritimen Geschichte und dem Meer gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -23.139721,
+                        66.071355
+                  ]
+            },
+            {
+                  "name": "Jónsgarður",
+                  "text": "Ein lokales Denkmal in einem öffentlichen Park in Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.129083,
+                        66.075813
+                  ]
+            },
+            {
+                  "name": "Ísafjarðarkirkja",
+                  "text": "Die moderne Hauptkirche von Ísafjörður mit ihrer markanten, wellenförmigen Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        -23.124299,
+                        66.075413
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Byggðasafn Vestfjarða",
+                  "text": "A Nyugati-fjordok regionális múzeuma Ísafjörðurban, történelmi raktárépületekben.",
+                  "category": "museum",
+                  "coords": [
+                        -23.127457,
+                        66.068119
+                  ]
+            },
+            {
+                  "name": "Þrívíddargangbraut",
+                  "text": "Optikai csalódást keltő gyalogátkelőhely Ísafjörðurban, amely háromdimenziósnak tűnik.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.12094,
+                        66.074052
+                  ]
+            },
+            {
+                  "name": "Hannes Hafstein",
+                  "text": "Hannes Hafstein, az első izlandi miniszterelnök emlékműve Ísafjörðurban.",
+                  "category": "historical",
+                  "coords": [
+                        -23.122718,
+                        66.074729
+                  ]
+            },
+            {
+                  "name": "Brúarnesti",
+                  "text": "Történelmi maradványok és romok Ísafjörður közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -23.174413,
+                        66.063563
+                  ]
+            },
+            {
+                  "name": "Harpa hafsins",
+                  "text": "Ísafjörður tengerészeti múltjának és a tengernek szentelt szobor.",
+                  "category": "historical",
+                  "coords": [
+                        -23.139721,
+                        66.071355
+                  ]
+            },
+            {
+                  "name": "Jónsgarður",
+                  "text": "Helyi emlékmű Ísafjörður egyik nyilvános parkjában.",
+                  "category": "historical",
+                  "coords": [
+                        -23.129083,
+                        66.075813
+                  ]
+            },
+            {
+                  "name": "Ísafjarðarkirkja",
+                  "text": "Ísafjörður modern főtemploma, amely jellegzetes, hullámos építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -23.124299,
+                        66.075413
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Byggðasafn Vestfjarða",
+                  "text": "Muzeul regional al fiordurilor de vest din Ísafjörður, situat în depozite istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -23.127457,
+                        66.068119
+                  ]
+            },
+            {
+                  "name": "Þrívíddargangbraut",
+                  "text": "O trecere de pietoni din Ísafjörður care creează o iluzie optică tridimensională.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.12094,
+                        66.074052
+                  ]
+            },
+            {
+                  "name": "Hannes Hafstein",
+                  "text": "Un monument dedicat lui Hannes Hafstein, primul prim-ministru al Islandei, în Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.122718,
+                        66.074729
+                  ]
+            },
+            {
+                  "name": "Brúarnesti",
+                  "text": "Rămășițe istorice și ruine situate în apropiere de Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.174413,
+                        66.063563
+                  ]
+            },
+            {
+                  "name": "Harpa hafsins",
+                  "text": "O sculptură în Ísafjörður dedicată istoriei maritime și mării.",
+                  "category": "historical",
+                  "coords": [
+                        -23.139721,
+                        66.071355
+                  ]
+            },
+            {
+                  "name": "Jónsgarður",
+                  "text": "Un monument local situat într-un parc public din Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.129083,
+                        66.075813
+                  ]
+            },
+            {
+                  "name": "Ísafjarðarkirkja",
+                  "text": "Biserica principală modernă din Ísafjörður, cu o arhitectură distinctivă în formă de valuri.",
+                  "category": "religious",
+                  "coords": [
+                        -23.124299,
+                        66.075413
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heritage Museum Westfjords",
+                  "text": "The regional museum of the Westfjords in Ísafjörður, housed in historical warehouses.",
+                  "category": "museum",
+                  "coords": [
+                        -23.127457,
+                        66.068119
+                  ]
+            },
+            {
+                  "name": "Þrívíddargangbraut",
+                  "text": "An optically elusive pedestrian crossing in Ísafjörður that appears to be three-dimensional.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.12094,
+                        66.074052
+                  ]
+            },
+            {
+                  "name": "Hannes Hafstein",
+                  "text": "A monument to Hannes Hafstein, Iceland's first Prime Minister, in Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.122718,
+                        66.074729
+                  ]
+            },
+            {
+                  "name": "Brúarnesti",
+                  "text": "Historical remains and ruins located near Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.174413,
+                        66.063563
+                  ]
+            },
+            {
+                  "name": "Harpa hafsins",
+                  "text": "A sculpture in Ísafjörður dedicated to maritime history and the sea.",
+                  "category": "historical",
+                  "coords": [
+                        -23.139721,
+                        66.071355
+                  ]
+            },
+            {
+                  "name": "Jónsgarður",
+                  "text": "A local monument located in a public park in Ísafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.129083,
+                        66.075813
+                  ]
+            },
+            {
+                  "name": "Ísafjarðarkirkja",
+                  "text": "The modern main church of Ísafjörður, featuring distinctive wave-like architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -23.124299,
+                        66.075413
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Ísafjörður", hu: "Ísafjörður", ro: "Ísafjörður", en: "Ísafjörður"},
@@ -2199,7 +6663,124 @@ imageHint: "Isafjordur town view from above the fjord",
     },
     image: "/poi-images/iceland-isafjordur-cities-v2.webp",
 },  {
-    id: "iceland-saudarkrokur-cities-v2",
+    id: "iceland-saudarkrokur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "1238 The Battle of Iceland",
+                  "text": "Ein Museum in Sauðárkrókur über eine historische Schlacht der isländischen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -19.651716,
+                        65.75242
+                  ]
+            },
+            {
+                  "name": "Ernan (Wrack)",
+                  "text": "Die Überreste eines Schiffswracks in der Nähe von Sauðárkrókur.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.609374,
+                        65.744353
+                  ]
+            },
+            {
+                  "name": "Hannesarskjól",
+                  "text": "Eine lokale Attraktion oder ein Rastplatz in Sauðárkrókur.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.651481,
+                        65.748015
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "1238 The Battle of Iceland",
+                  "text": "Múzeum Sauðárkrókurban az izlandi történelem egyik történelmi csatájáról.",
+                  "category": "museum",
+                  "coords": [
+                        -19.651716,
+                        65.75242
+                  ]
+            },
+            {
+                  "name": "Ernan (skipsflak)",
+                  "text": "Egy hajóroncs maradványai Sauðárkrókur közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.609374,
+                        65.744353
+                  ]
+            },
+            {
+                  "name": "Hannesarskjól",
+                  "text": "Helyi látványosság vagy pihenőhely Sauðárkrókurban.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.651481,
+                        65.748015
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "1238 The Battle of Iceland",
+                  "text": "Un muzeu în Sauðárkrókur despre o bătălie istorică din istoria Islandei.",
+                  "category": "museum",
+                  "coords": [
+                        -19.651716,
+                        65.75242
+                  ]
+            },
+            {
+                  "name": "Ernan (skipsflak)",
+                  "text": "Rămășițele unei epave lângă Sauðárkrókur.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.609374,
+                        65.744353
+                  ]
+            },
+            {
+                  "name": "Hannesarskjól",
+                  "text": "O atracție locală sau un loc de recreere în Sauðárkrókur.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.651481,
+                        65.748015
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "1238 The Battle of Iceland",
+                  "text": "A museum in Sauðárkrókur about a historical battle in Icelandic history.",
+                  "category": "museum",
+                  "coords": [
+                        -19.651716,
+                        65.75242
+                  ]
+            },
+            {
+                  "name": "Ernan (Shipwreck)",
+                  "text": "The remains of a shipwreck near Sauðárkrókur.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.609374,
+                        65.744353
+                  ]
+            },
+            {
+                  "name": "Hannesarskjól",
+                  "text": "A local attraction or recreational spot in Sauðárkrókur.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.651481,
+                        65.748015
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Sauðárkrókur", hu: "Sauðárkrókur", ro: "Sauðárkrókur", en: "Sauðárkrókur"},
@@ -2245,7 +6826,124 @@ imageHint: "Saudarkrokur town and the fjord",
     },
     image: "/poi-images/iceland-saudarkrokur-cities-v2.webp",
 },  {
-    id: "iceland-hveragerdi-cities-v2",
+    id: "iceland-hveragerdi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Listasafn Árnesinga",
+                  "text": "Ein Kunstmuseum in Hveragerði.",
+                  "category": "museum",
+                  "coords": [
+                        -21.185016,
+                        63.996384
+                  ]
+            },
+            {
+                  "name": "Leirgerður",
+                  "text": "Eine lokale Attraktion in Hveragerði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.180823,
+                        64.007136
+                  ]
+            },
+            {
+                  "name": "Hverasvæði",
+                  "text": "Eine geothermische Attraktion in Hveragerði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.188641,
+                        64.000987
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Listasafn Árnesinga",
+                  "text": "Művészeti múzeum Hveragerðiben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.185016,
+                        63.996384
+                  ]
+            },
+            {
+                  "name": "Leirgerður",
+                  "text": "Helyi látványosság Hveragerðiben.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.180823,
+                        64.007136
+                  ]
+            },
+            {
+                  "name": "Hverasvæði",
+                  "text": "Geotermikus látványosság Hveragerðiben.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.188641,
+                        64.000987
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Listasafn Árnesinga",
+                  "text": "Un muzeu de artă în Hveragerði.",
+                  "category": "museum",
+                  "coords": [
+                        -21.185016,
+                        63.996384
+                  ]
+            },
+            {
+                  "name": "Leirgerður",
+                  "text": "O atracție locală în Hveragerði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.180823,
+                        64.007136
+                  ]
+            },
+            {
+                  "name": "Hverasvæði",
+                  "text": "O atracție geotermală în Hveragerði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.188641,
+                        64.000987
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "LA Art Museum",
+                  "text": "An art museum in Hveragerði.",
+                  "category": "museum",
+                  "coords": [
+                        -21.185016,
+                        63.996384
+                  ]
+            },
+            {
+                  "name": "Leirgerður",
+                  "text": "A local attraction in Hveragerði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.180823,
+                        64.007136
+                  ]
+            },
+            {
+                  "name": "Eternity Geysir",
+                  "text": "A geothermal attraction in Hveragerði.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.188641,
+                        64.000987
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Hveragerði", hu: "Hveragerði", ro: "Hveragerði", en: "Hveragerði"},
@@ -3232,7 +7930,124 @@ imageHint: "Thorlakshofn harbor and black sand beach",
     },
     image: "/poi-images/iceland-thorlakshofn-cities-v2.webp",
 },  {
-    id: "iceland-dalvik-cities-v2",
+    id: "iceland-dalvik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hvoll",
+                  "text": "Ein Heimatmuseum in Dalvík.",
+                  "category": "museum",
+                  "coords": [
+                        -18.532794,
+                        65.974028
+                  ]
+            },
+            {
+                  "name": "Böggvistaðafjall",
+                  "text": "Ein Berg und Naturschutzgebiet bei Dalvík.",
+                  "category": "natural",
+                  "coords": [
+                        -18.568784,
+                        65.969713
+                  ]
+            },
+            {
+                  "name": "Svarfaðardalur",
+                  "text": "Ein Naturschutzgebiet in einem Tal bei Dalvík.",
+                  "category": "natural",
+                  "coords": [
+                        -18.526118,
+                        65.944493
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hvoll",
+                  "text": "Helytörténeti múzeum Dalvíkban.",
+                  "category": "museum",
+                  "coords": [
+                        -18.532794,
+                        65.974028
+                  ]
+            },
+            {
+                  "name": "Böggvistaðafjall",
+                  "text": "Hegy és természetvédelmi terület Dalvík közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -18.568784,
+                        65.969713
+                  ]
+            },
+            {
+                  "name": "Svarfaðardalur",
+                  "text": "Természetvédelmi terület egy völgyben Dalvík közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -18.526118,
+                        65.944493
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hvoll",
+                  "text": "Un muzeu de istorie locală în Dalvík.",
+                  "category": "museum",
+                  "coords": [
+                        -18.532794,
+                        65.974028
+                  ]
+            },
+            {
+                  "name": "Böggvistaðafjall",
+                  "text": "Un munte și o rezervație naturală lângă Dalvík.",
+                  "category": "natural",
+                  "coords": [
+                        -18.568784,
+                        65.969713
+                  ]
+            },
+            {
+                  "name": "Svarfaðardalur",
+                  "text": "O rezervație naturală într-o vale lângă Dalvík.",
+                  "category": "natural",
+                  "coords": [
+                        -18.526118,
+                        65.944493
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hvoll",
+                  "text": "A local folk museum in Dalvík.",
+                  "category": "museum",
+                  "coords": [
+                        -18.532794,
+                        65.974028
+                  ]
+            },
+            {
+                  "name": "Böggvistaðafjall",
+                  "text": "A mountain and nature reserve near Dalvík.",
+                  "category": "natural",
+                  "coords": [
+                        -18.568784,
+                        65.969713
+                  ]
+            },
+            {
+                  "name": "Svarfaðardalur",
+                  "text": "A nature reserve in a valley near Dalvík.",
+                  "category": "natural",
+                  "coords": [
+                        -18.526118,
+                        65.944493
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Dalvík", hu: "Dalvík", ro: "Dalvík", en: "Dalvík"},
@@ -3641,7 +8456,52 @@ imageHint: "Seydisfjordur rainbow road and blue church",
     },
     image: "/poi-images/iceland-seydisfjordur-cities-v2.webp",
 },  {
-    id: "iceland-vogar-cities-v2",
+    id: "iceland-vogar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hólmabúðir",
+                  "text": "Eine archäologische Stätte in Vogar mit historischen Siedlungsspuren.",
+                  "category": "historical",
+                  "coords": [
+                        -22.403322,
+                        63.972537
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hólmabúðir",
+                  "text": "Régészeti lelőhely Vogarban, történelmi településnyomokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -22.403322,
+                        63.972537
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hólmabúðir",
+                  "text": "Un sit arheologic în Vogar, cu urme de așezări istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -22.403322,
+                        63.972537
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hólmabúðir",
+                  "text": "An archaeological site in Vogar featuring historical settlement traces.",
+                  "category": "historical",
+                  "coords": [
+                        -22.403322,
+                        63.972537
+                  ]
+            }
+      ]
+},
     parent: "IS",
     type: "town",
     name: { de: "Vogar", hu: "Vogar", ro: "Vogar", en: "Vogar"},
@@ -3734,7 +8594,88 @@ imageHint: "Vogar coastline and residential houses",
   }
 ,
   {
-    id: "iceland-vopnafjordur-cities-v2",
+    id: "iceland-vopnafjordur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Múlastofa",
+                  "text": "Ein Museum in Vopnafjörður.",
+                  "category": "museum",
+                  "coords": [
+                        -14.826434,
+                        65.753518
+                  ]
+            },
+            {
+                  "name": "Kolbeinstangi",
+                  "text": "Ein Leuchtturm in Vopnafjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.792272,
+                        65.768911
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Múlastofa",
+                  "text": "Múzeum Vopnafjörðurban.",
+                  "category": "museum",
+                  "coords": [
+                        -14.826434,
+                        65.753518
+                  ]
+            },
+            {
+                  "name": "Kolbeinstangi",
+                  "text": "Világítótorony Vopnafjörðurban.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.792272,
+                        65.768911
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Múlastofa",
+                  "text": "Un muzeu în Vopnafjörður.",
+                  "category": "museum",
+                  "coords": [
+                        -14.826434,
+                        65.753518
+                  ]
+            },
+            {
+                  "name": "Kolbeinstangi",
+                  "text": "Un far în Vopnafjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.792272,
+                        65.768911
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Múlastofa",
+                  "text": "A museum in Vopnafjörður.",
+                  "category": "museum",
+                  "coords": [
+                        -14.826434,
+                        65.753518
+                  ]
+            },
+            {
+                  "name": "Kolbeinstangi",
+                  "text": "A lighthouse in Vopnafjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -14.792272,
+                        65.768911
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Vopnafjörður", hu: "Vopnafjörður", ro: "Vopnafjörður", en: "Vopnafjörður" },
@@ -3905,7 +8846,304 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-hvolsvollur-cities-v2.webp",
   },
   {
-    id: "iceland-vik-i-myrdal-cities-v2",
+    id: "iceland-vik-i-myrdal-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kötlusetur - Katla visitor centre",
+                  "text": "Ein Informationszentrum in Vík í Mýrdal über den Vulkan Katla.",
+                  "category": "museum",
+                  "coords": [
+                        -19.014137,
+                        63.417576
+                  ]
+            },
+            {
+                  "name": "Reynisfjall",
+                  "text": "Ein markanter Berg bei Vík í Mýrdal, bekannt für seine Vogelklippen.",
+                  "category": "natural",
+                  "coords": [
+                        -19.032672,
+                        63.435868
+                  ]
+            },
+            {
+                  "name": "Hálsanefshellir",
+                  "text": "Eine Meereshöhle am schwarzen Sandstrand in der Nähe von Vík í Mýrdal.",
+                  "category": "natural",
+                  "coords": [
+                        -19.039993,
+                        63.402628
+                  ]
+            },
+            {
+                  "name": "Icelandic Lava Show",
+                  "text": "Eine Ausstellung in Vík í Mýrdal, bei der Besucher echte geschmolzene Lava sehen können.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.010237,
+                        63.418407
+                  ]
+            },
+            {
+                  "name": "Black Beach Riding Tours",
+                  "text": "Reittouren, die entlang der berühmten schwarzen Sandstrände von Vík í Mýrdal angeboten werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.996524,
+                        63.416791
+                  ]
+            },
+            {
+                  "name": "Hatta",
+                  "text": "Ein Aussichtspunkt mit Panoramablick über Vík í Mýrdal und die Küste.",
+                  "category": "natural",
+                  "coords": [
+                        -19.007873,
+                        63.440757
+                  ]
+            },
+            {
+                  "name": "Svarta ströndin í Vík í Mýrdal",
+                  "text": "Ein berühmter Vulkanstrand, der für seinen dunklen Sand und seine dramatischen Felsformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -19.015814,
+                        63.413562
+                  ]
+            },
+            {
+                  "name": "Víkurkirkja",
+                  "text": "Eine malerische Holzkirche, die über dem Dorf Vík í Mýrdal thront.",
+                  "category": "religious",
+                  "coords": [
+                        -19.002935,
+                        63.420516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kötlusetur - Katla visitor centre",
+                  "text": "Információs központ Vík í Mýrdalban a Katla-vulkánról.",
+                  "category": "museum",
+                  "coords": [
+                        -19.014137,
+                        63.417576
+                  ]
+            },
+            {
+                  "name": "Reynisfjall",
+                  "text": "Jellegzetes hegy Vík í Mýrdal közelében, amely madárszikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -19.032672,
+                        63.435868
+                  ]
+            },
+            {
+                  "name": "Hálsanefshellir",
+                  "text": "Egy tengeri barlang a fekete homokos tengerparton, Vík í Mýrdal közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -19.039993,
+                        63.402628
+                  ]
+            },
+            {
+                  "name": "Icelandic Lava Show",
+                  "text": "Egy kiállítás Vík í Mýrdalban, ahol a látogatók valódi izzó lávát láthatnak.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.010237,
+                        63.418407
+                  ]
+            },
+            {
+                  "name": "Black Beach Riding Tours",
+                  "text": "Lovaglási lehetőség Vík í Mýrdal híres fekete homokos partjainál.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.996524,
+                        63.416791
+                  ]
+            },
+            {
+                  "name": "Hatta",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Vík í Mýrdalra és a partvidékre.",
+                  "category": "natural",
+                  "coords": [
+                        -19.007873,
+                        63.440757
+                  ]
+            },
+            {
+                  "name": "Svarta ströndin í Vík í Mýrdal",
+                  "text": "Híres vulkáni tengerpart, amely sötét homjáról és különleges sziklaalakzatairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -19.015814,
+                        63.413562
+                  ]
+            },
+            {
+                  "name": "Víkurkirkja",
+                  "text": "Egy festői fatemplom, amely Vík í Mýrdal faluja fölé magasodik.",
+                  "category": "religious",
+                  "coords": [
+                        -19.002935,
+                        63.420516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kötlusetur - Katla visitor centre",
+                  "text": "Un centru de informare în Vík í Mýrdal despre vulcanul Katla.",
+                  "category": "museum",
+                  "coords": [
+                        -19.014137,
+                        63.417576
+                  ]
+            },
+            {
+                  "name": "Reynisfjall",
+                  "text": "Un munte distinctiv lângă Vík í Mýrdal, cunoscut pentru coloniile de păsări de pe stânci.",
+                  "category": "natural",
+                  "coords": [
+                        -19.032672,
+                        63.435868
+                  ]
+            },
+            {
+                  "name": "Hálsanefshellir",
+                  "text": "O peșteră marină situată pe plaja cu nisip negru de lângă Vík í Mýrdal.",
+                  "category": "natural",
+                  "coords": [
+                        -19.039993,
+                        63.402628
+                  ]
+            },
+            {
+                  "name": "Icelandic Lava Show",
+                  "text": "O expoziție în Vík í Mýrdal unde vizitatorii pot vedea lavă topită reală.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.010237,
+                        63.418407
+                  ]
+            },
+            {
+                  "name": "Black Beach Riding Tours",
+                  "text": "Tururi de echitație oferite de-a lungul celebrelor plaje cu nisip negru din Vík í Mýrdal.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.996524,
+                        63.416791
+                  ]
+            },
+            {
+                  "name": "Hatta",
+                  "text": "Un punct de observație care oferă vederi panoramice asupra Vík í Mýrdal și a coastei.",
+                  "category": "natural",
+                  "coords": [
+                        -19.007873,
+                        63.440757
+                  ]
+            },
+            {
+                  "name": "Svarta ströndin í Vík í Mýrdal",
+                  "text": "O faimoasă plajă vulcanică cunoscută pentru nisipul său negru și formațiunile stâncoase dramatice.",
+                  "category": "natural",
+                  "coords": [
+                        -19.015814,
+                        63.413562
+                  ]
+            },
+            {
+                  "name": "Víkurkirkja",
+                  "text": "O biserică de lemn pitorească ce domină satul Vík í Mýrdal.",
+                  "category": "religious",
+                  "coords": [
+                        -19.002935,
+                        63.420516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kötlusetur - Katla visitor centre",
+                  "text": "An information centre in Vík í Mýrdal about the Katla volcano.",
+                  "category": "museum",
+                  "coords": [
+                        -19.014137,
+                        63.417576
+                  ]
+            },
+            {
+                  "name": "Reynisfjall",
+                  "text": "A prominent mountain near Vík í Mýrdal known for its bird cliffs.",
+                  "category": "natural",
+                  "coords": [
+                        -19.032672,
+                        63.435868
+                  ]
+            },
+            {
+                  "name": "Hálsanefshellir",
+                  "text": "A sea cave located on the black sand beach near Vík í Mýrdal.",
+                  "category": "natural",
+                  "coords": [
+                        -19.039993,
+                        63.402628
+                  ]
+            },
+            {
+                  "name": "Icelandic Lava Show",
+                  "text": "An exhibition in Vík í Mýrdal where visitors can see real molten lava.",
+                  "category": "landmark",
+                  "coords": [
+                        -19.010237,
+                        63.418407
+                  ]
+            },
+            {
+                  "name": "Black Beach Riding Tours",
+                  "text": "Horse riding tours offered along the famous black sand beaches of Vík í Mýrdal.",
+                  "category": "landmark",
+                  "coords": [
+                        -18.996524,
+                        63.416791
+                  ]
+            },
+            {
+                  "name": "Hatta",
+                  "text": "A scenic viewpoint offering panoramic views over Vík í Mýrdal and the coast.",
+                  "category": "natural",
+                  "coords": [
+                        -19.007873,
+                        63.440757
+                  ]
+            },
+            {
+                  "name": "Black sand beach Vík í Mýrdal",
+                  "text": "A famous volcanic beach known for its dark sand and dramatic rock formations.",
+                  "category": "natural",
+                  "coords": [
+                        -19.015814,
+                        63.413562
+                  ]
+            },
+            {
+                  "name": "Víkurkirkja",
+                  "text": "A picturesque wooden church overlooking the village of Vík í Mýrdal.",
+                  "category": "religious",
+                  "coords": [
+                        -19.002935,
+                        63.420516
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Vík í Mýrdal", hu: "Vík í Mýrdal", ro: "Vík í Mýrdal", en: "Vík í Mýrdal" },
@@ -3995,7 +9233,52 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-olafsvik-cities-v2.webp",
   },
   {
-    id: "iceland-blonduos-cities-v2",
+    id: "iceland-blonduos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heimilisiðnaðarsafnið Textile Museum",
+                  "text": "Ein Textilmuseum in Blönduós, das eine umfangreiche Sammlung isländischer Handwerkskunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -20.293213,
+                        65.661912
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heimilisiðnaðarsafnið Textile Museum",
+                  "text": "Textilmúzeum Blönduósban, amely az izlandi kézművesség gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -20.293213,
+                        65.661912
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heimilisiðnaðarsafnið Textile Museum",
+                  "text": "Un muzeu textil în Blönduós, care expune o colecție vastă de meșteșuguri islandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -20.293213,
+                        65.661912
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heimilisiðnaðarsafnið Textile Museum",
+                  "text": "A textile museum in Blönduós showcasing an extensive collection of Icelandic handiwork.",
+                  "category": "museum",
+                  "coords": [
+                        -20.293213,
+                        65.661912
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Blönduós", hu: "Blönduós", ro: "Blönduós", en: "Blönduós" },
@@ -4040,7 +9323,160 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-blonduos-cities-v2.webp",
   },
   {
-    id: "iceland-grundarfjordur-cities-v2",
+    id: "iceland-grundarfjordur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Grundarfjörður",
+                  "text": "Ein Leuchtturm, der das Küstengebiet von Grundarfjörður bedient.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.249375,
+                        64.926628
+                  ]
+            },
+            {
+                  "name": "Kirkjufell",
+                  "text": "Einer der meistfotografierten Berge Islands, bekannt für seine markante Form.",
+                  "category": "natural",
+                  "coords": [
+                        -23.285604,
+                        64.922092
+                  ]
+            },
+            {
+                  "name": "Kirkjufellsfoss",
+                  "text": "Ein malerischer Wasserfall in der Nähe des ikonischen Berges Kirkjufell.",
+                  "category": "natural",
+                  "coords": [
+                        -23.307377,
+                        64.927157
+                  ]
+            },
+            {
+                  "name": "Kirkjufell Viewpoint",
+                  "text": "Ein beliebter Ort mit dem besten Blick auf den Berg Kirkjufell und den Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        -23.204286,
+                        64.934961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Grundarfjörður",
+                  "text": "Grundarfjörður parti területét kiszolgáló világítótorony.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.249375,
+                        64.926628
+                  ]
+            },
+            {
+                  "name": "Kirkjufell",
+                  "text": "Izland egyik legtöbbet fényképezett hegye, amely jellegzetes alakjáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -23.285604,
+                        64.922092
+                  ]
+            },
+            {
+                  "name": "Kirkjufellsfoss",
+                  "text": "Festői vízesés az ikonikus Kirkjufell-hegy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.307377,
+                        64.927157
+                  ]
+            },
+            {
+                  "name": "Kirkjufell Viewpoint",
+                  "text": "Népszerű hely, ahonnan a legjobb kilátás nyílik a Kirkjufell-hegyre és a vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -23.204286,
+                        64.934961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Grundarfjörður",
+                  "text": "Un far care deservește zona de coastă din Grundarfjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.249375,
+                        64.926628
+                  ]
+            },
+            {
+                  "name": "Kirkjufell",
+                  "text": "Unul dintre cei mai fotografiați munți din Islanda, cunoscut pentru forma sa distinctă.",
+                  "category": "natural",
+                  "coords": [
+                        -23.285604,
+                        64.922092
+                  ]
+            },
+            {
+                  "name": "Kirkjufellsfoss",
+                  "text": "O cascadă pitorească situată lângă emblematicul munte Kirkjufell.",
+                  "category": "natural",
+                  "coords": [
+                        -23.307377,
+                        64.927157
+                  ]
+            },
+            {
+                  "name": "Kirkjufell Viewpoint",
+                  "text": "Un loc popular care oferă cele mai bune vederi ale muntelui Kirkjufell și ale cascadei.",
+                  "category": "natural",
+                  "coords": [
+                        -23.204286,
+                        64.934961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Grundarfjörður",
+                  "text": "A lighthouse serving the coastal area of Grundarfjörður.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.249375,
+                        64.926628
+                  ]
+            },
+            {
+                  "name": "Kirkjufell",
+                  "text": "One of Iceland's most photographed mountains, known for its distinct shape.",
+                  "category": "natural",
+                  "coords": [
+                        -23.285604,
+                        64.922092
+                  ]
+            },
+            {
+                  "name": "Kirkjufellsfoss",
+                  "text": "A scenic waterfall located near the iconic Kirkjufell mountain.",
+                  "category": "natural",
+                  "coords": [
+                        -23.307377,
+                        64.927157
+                  ]
+            },
+            {
+                  "name": "Kirkjufell Viewpoint",
+                  "text": "A popular spot offering the best views of the Kirkjufell mountain and waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -23.204286,
+                        64.934961
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Grundarfjörður", hu: "Grundarfjörður", ro: "Grundarfjörður", en: "Grundarfjörður" },
@@ -4130,7 +9566,124 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-patreksfjordur-cities-v2.webp",
   },
   {
-    id: "iceland-stokksheiri-cities-v2",
+    id: "iceland-stokksheiri-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Geisterzentrum",
+                  "text": "Ein Museum in Stokkseyri, das sich isländischen Geistergeschichten und Sagen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -21.064398,
+                        63.836333
+                  ]
+            },
+            {
+                  "name": "Veiðisafnið",
+                  "text": "Ein Jagdmuseum in Stokkseyri mit einer Sammlung präparierter Tiere und Jagdausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        -21.071951,
+                        63.83887
+                  ]
+            },
+            {
+                  "name": "Þuríðarbúð",
+                  "text": "Ein kleines Museum in Stokkseyri, das eine nachgebaute historische Fischerhütte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -21.059839,
+                        63.834428
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Draugasetrið",
+                  "text": "Izlandi kísértettörténeteknek és legendáknak szentelt múzeum Stokkseyriben.",
+                  "category": "museum",
+                  "coords": [
+                        -21.064398,
+                        63.836333
+                  ]
+            },
+            {
+                  "name": "Veiðisafnið",
+                  "text": "Vadászmúzeum Stokkseyriben, kitömött állatokkal és vadászati eszközökkel.",
+                  "category": "museum",
+                  "coords": [
+                        -21.071951,
+                        63.83887
+                  ]
+            },
+            {
+                  "name": "Þuríðarbúð",
+                  "text": "Kisméretű múzeum Stokkseyriben, amely egy rekonstruált történelmi halászkunyhót mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -21.059839,
+                        63.834428
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Draugasetrið",
+                  "text": "Un muzeu în Stokkseyri dedicat poveștilor cu fantome și legendelor islandeze.",
+                  "category": "museum",
+                  "coords": [
+                        -21.064398,
+                        63.836333
+                  ]
+            },
+            {
+                  "name": "Veiðisafnið",
+                  "text": "Un muzeu de vânătoare în Stokkseyri, cu o colecție de animale împăiate și echipament de vânătoare.",
+                  "category": "museum",
+                  "coords": [
+                        -21.071951,
+                        63.83887
+                  ]
+            },
+            {
+                  "name": "Þuríðarbúð",
+                  "text": "Un mic muzeu în Stokkseyri care prezintă o colibă de pescar istorică reconstruită.",
+                  "category": "museum",
+                  "coords": [
+                        -21.059839,
+                        63.834428
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Ghost Centre",
+                  "text": "A museum in Stokkseyri dedicated to Icelandic ghost stories and legends.",
+                  "category": "museum",
+                  "coords": [
+                        -21.064398,
+                        63.836333
+                  ]
+            },
+            {
+                  "name": "Veiðisafnið",
+                  "text": "A hunting museum in Stokkseyri featuring a collection of taxidermy and hunting gear.",
+                  "category": "museum",
+                  "coords": [
+                        -21.071951,
+                        63.83887
+                  ]
+            },
+            {
+                  "name": "Þuríðarbúð",
+                  "text": "A small museum in Stokkseyri featuring a reconstructed historical fisherman's hut.",
+                  "category": "museum",
+                  "coords": [
+                        -21.059839,
+                        63.834428
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Stokkseyri", hu: "Stokkseyri", ro: "Stokkseyri", en: "Stokkseyri" },
@@ -4220,7 +9773,232 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-hofsos-cities-v2.webp",
   },
   {
-    id: "iceland-arnarstapi-cities-v2",
+    id: "iceland-arnarstapi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Arnarstapi",
+                  "text": "Ein kleiner Leuchtturm in Arnarstapi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.61616,
+                        64.768707
+                  ]
+            },
+            {
+                  "name": "Bárðarlaug",
+                  "text": "Ein Naturschutzgebiet mit einem alten Kratersee in Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.680268,
+                        64.758925
+                  ]
+            },
+            {
+                  "name": "Ströndin við Stapa og Hellna",
+                  "text": "Ein malerisches Naturschutzgebiet an der Küste von Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.629479,
+                        64.763215
+                  ]
+            },
+            {
+                  "name": "Stapafell",
+                  "text": "Ein markanter Berggipfel bei Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.657833,
+                        64.77325
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "Ein berühmter natürlicher Steinbogen an der Küste von Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.621889,
+                        64.765519
+                  ]
+            },
+            {
+                  "name": "Eystrigjá",
+                  "text": "Eine natürliche Attraktion in Arnarstapi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.617764,
+                        64.768761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Arnarstapi",
+                  "text": "Kisméretű világítótorony Arnarstapiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.61616,
+                        64.768707
+                  ]
+            },
+            {
+                  "name": "Bárðarlaug",
+                  "text": "Természetvédelmi terület egy ősi krátertóval Arnarstapiban.",
+                  "category": "natural",
+                  "coords": [
+                        -23.680268,
+                        64.758925
+                  ]
+            },
+            {
+                  "name": "Ströndin við Stapa og Hellna",
+                  "text": "Festői tengerparti természetvédelmi terület Arnarstapiban.",
+                  "category": "natural",
+                  "coords": [
+                        -23.629479,
+                        64.763215
+                  ]
+            },
+            {
+                  "name": "Stapafell",
+                  "text": "Jellegzetes hegycsúcs Arnarstapi közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -23.657833,
+                        64.77325
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "Híres természetes kőív Arnarstapi partjainál.",
+                  "category": "natural",
+                  "coords": [
+                        -23.621889,
+                        64.765519
+                  ]
+            },
+            {
+                  "name": "Eystrigjá",
+                  "text": "Természeti látványosság Arnarstapiban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.617764,
+                        64.768761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Arnarstapi",
+                  "text": "Un far mic în Arnarstapi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.61616,
+                        64.768707
+                  ]
+            },
+            {
+                  "name": "Bárðarlaug",
+                  "text": "O rezervație naturală cu un vechi lac de crater în Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.680268,
+                        64.758925
+                  ]
+            },
+            {
+                  "name": "Ströndin við Stapa og Hellna",
+                  "text": "O rezervație naturală de coastă pitorească în Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.629479,
+                        64.763215
+                  ]
+            },
+            {
+                  "name": "Stapafell",
+                  "text": "Un vârf muntos proeminent lângă Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.657833,
+                        64.77325
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "O faimoasă arcadă naturală de piatră pe coasta din Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.621889,
+                        64.765519
+                  ]
+            },
+            {
+                  "name": "Eystrigjá",
+                  "text": "O atracție naturală în Arnarstapi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.617764,
+                        64.768761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Arnarstapi",
+                  "text": "A small lighthouse in Arnarstapi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.61616,
+                        64.768707
+                  ]
+            },
+            {
+                  "name": "Bárðarlaug",
+                  "text": "A nature reserve featuring an ancient crater pool in Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.680268,
+                        64.758925
+                  ]
+            },
+            {
+                  "name": "Ströndin við Stapa og Hellna",
+                  "text": "A scenic coastal nature reserve in Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.629479,
+                        64.763215
+                  ]
+            },
+            {
+                  "name": "Stapafell",
+                  "text": "A prominent mountain peak near Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.657833,
+                        64.77325
+                  ]
+            },
+            {
+                  "name": "Gatklettur",
+                  "text": "A famous natural stone arch on the coast of Arnarstapi.",
+                  "category": "natural",
+                  "coords": [
+                        -23.621889,
+                        64.765519
+                  ]
+            },
+            {
+                  "name": "Eystrigjá",
+                  "text": "A natural attraction in Arnarstapi.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.617764,
+                        64.768761
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Arnarstapi", hu: "Arnarstapi", ro: "Arnarstapi", en: "Arnarstapi" },
@@ -4265,7 +10043,160 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-arnarstapi-cities-v2.webp",
   },
   {
-    id: "iceland-holmavik-cities-v2",
+    id: "iceland-holmavik-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hólmavík",
+                  "text": "Ein kleiner Leuchtturm, der die Schifffahrt vor der Küste von Hólmavík unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.674611,
+                        65.705171
+                  ]
+            },
+            {
+                  "name": "Galdrasýning á Ströndum",
+                  "text": "Ein faszinierendes Museum in Hólmavík über die Geschichte von Magie und Hexerei in Island.",
+                  "category": "museum",
+                  "coords": [
+                        -21.66539,
+                        65.706535
+                  ]
+            },
+            {
+                  "name": "Borgarvarða",
+                  "text": "Ein Aussichtspunkt in Hólmavík, der einen weiten Blick über den Fjord bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -21.67577,
+                        65.711647
+                  ]
+            },
+            {
+                  "name": "Hólmavíkurkirkja",
+                  "text": "Die lutherische Kirche von Hólmavík, die markant auf einem Hügel über dem Ort thront.",
+                  "category": "religious",
+                  "coords": [
+                        -21.669915,
+                        65.706407
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hólmavík",
+                  "text": "Hólmavík partjainál található kis világítótorony, amely a hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.674611,
+                        65.705171
+                  ]
+            },
+            {
+                  "name": "Galdrasýning á Ströndum",
+                  "text": "Látványos múzeum Hólmavíkban az izlandi mágia és boszorkányság történetéről.",
+                  "category": "museum",
+                  "coords": [
+                        -21.66539,
+                        65.706535
+                  ]
+            },
+            {
+                  "name": "Borgarvarða",
+                  "text": "Kilátópont Hólmavíkban, ahonnan szép kilátás nyílik a fjorda.",
+                  "category": "natural",
+                  "coords": [
+                        -21.67577,
+                        65.711647
+                  ]
+            },
+            {
+                  "name": "Hólmavíkurkirkja",
+                  "text": "Hólmavík evangélikus temploma, amely jellegzetesen emelkedik a település fölé.",
+                  "category": "religious",
+                  "coords": [
+                        -21.669915,
+                        65.706407
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hólmavík",
+                  "text": "Un mic far care asistă navigația în largul coastei Hólmavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.674611,
+                        65.705171
+                  ]
+            },
+            {
+                  "name": "Galdrasýning á Ströndum",
+                  "text": "Un muzeu fascinant în Hólmavík despre istoria magiei și vrăjitoriei în Islanda.",
+                  "category": "museum",
+                  "coords": [
+                        -21.66539,
+                        65.706535
+                  ]
+            },
+            {
+                  "name": "Borgarvarða",
+                  "text": "Un punct de belvedere în Hólmavík, oferind o vedere panoramică asupra fiordului.",
+                  "category": "natural",
+                  "coords": [
+                        -21.67577,
+                        65.711647
+                  ]
+            },
+            {
+                  "name": "Hólmavíkurkirkja",
+                  "text": "Biserica luterană din Hólmavík, situată proeminent pe un deal deasupra localității.",
+                  "category": "religious",
+                  "coords": [
+                        -21.669915,
+                        65.706407
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hólmavík",
+                  "text": "A small lighthouse assisting navigation off the coast of Hólmavík.",
+                  "category": "landmark",
+                  "coords": [
+                        -21.674611,
+                        65.705171
+                  ]
+            },
+            {
+                  "name": "Museum of Sorcery and Witchcraft",
+                  "text": "A fascinating museum in Hólmavík about the history of magic and witchcraft in Iceland.",
+                  "category": "museum",
+                  "coords": [
+                        -21.66539,
+                        65.706535
+                  ]
+            },
+            {
+                  "name": "Borgarvarða",
+                  "text": "A viewpoint in Hólmavík offering a wide view over the fjord.",
+                  "category": "natural",
+                  "coords": [
+                        -21.67577,
+                        65.711647
+                  ]
+            },
+            {
+                  "name": "Hólmavíkurkirkja",
+                  "text": "The Lutheran church of Hólmavík, situated prominently on a hill overlooking the town.",
+                  "category": "religious",
+                  "coords": [
+                        -21.669915,
+                        65.706407
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Hólmavík", hu: "Hólmavík", ro: "Hólmavík", en: "Hólmavík" },
@@ -4310,7 +10241,52 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-holmavik-cities-v2.webp",
   },
   {
-    id: "iceland-skagastrond-cities-v2",
+    id: "iceland-skagastrond-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Spákonuhof",
+                  "text": "Ein Museum in Skagaströnd, das Prophezeiungen und der Geschichte der Seherin Thordis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -20.305409,
+                        65.823003
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Spákonuhof",
+                  "text": "Skagaströnd múzeuma, amely a jóslatoknak és Thordis jósnő történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -20.305409,
+                        65.823003
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Spákonuhof",
+                  "text": "Un muzeu în Skagaströnd dedicat profețiilor și istoriei prorociței Thordis.",
+                  "category": "museum",
+                  "coords": [
+                        -20.305409,
+                        65.823003
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Museum of Prophecies",
+                  "text": "A museum in Skagaströnd dedicated to prophecies and the history of Thordis the prophetess.",
+                  "category": "museum",
+                  "coords": [
+                        -20.305409,
+                        65.823003
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Skagaströnd", hu: "Skagaströnd", ro: "Skagaströnd", en: "Skagaströnd" },
@@ -4355,7 +10331,124 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-skagastrond-cities-v2.webp",
   },
     {
-    id: "iceland-hellissandur-cities-v2",
+    id: "iceland-hellissandur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sjóminjasafnið á Hellissandi",
+                  "text": "Ein Schifffahrtsmuseum in Hellissandur.",
+                  "category": "museum",
+                  "coords": [
+                        -23.885506,
+                        64.914121
+                  ]
+            },
+            {
+                  "name": "Fish huts",
+                  "text": "Historische Fischerhütten in Hellissandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.930857,
+                        64.900947
+                  ]
+            },
+            {
+                  "name": "Hellissandur street art",
+                  "text": "Farbenfrohe Wandmalereien in Hellissandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.885119,
+                        64.918549
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sjóminjasafnið á Hellissandi",
+                  "text": "Tengerészeti múzeum Hellissandurban.",
+                  "category": "museum",
+                  "coords": [
+                        -23.885506,
+                        64.914121
+                  ]
+            },
+            {
+                  "name": "Fish huts",
+                  "text": "Történelmi halászkunyhók Hellissandurban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.930857,
+                        64.900947
+                  ]
+            },
+            {
+                  "name": "Hellissandur street art",
+                  "text": "Színes falfestmények Hellissandurban.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.885119,
+                        64.918549
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sjóminjasafnið á Hellissandi",
+                  "text": "Un muzeu maritim în Hellissandur.",
+                  "category": "museum",
+                  "coords": [
+                        -23.885506,
+                        64.914121
+                  ]
+            },
+            {
+                  "name": "Fish huts",
+                  "text": "Colibe de pescari istorice în Hellissandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.930857,
+                        64.900947
+                  ]
+            },
+            {
+                  "name": "Hellissandur street art",
+                  "text": "Picturi murale colorate în Hellissandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.885119,
+                        64.918549
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sjóminjasafnið á Hellissandi",
+                  "text": "A maritime museum in Hellissandur.",
+                  "category": "museum",
+                  "coords": [
+                        -23.885506,
+                        64.914121
+                  ]
+            },
+            {
+                  "name": "Fish huts",
+                  "text": "Historic fishing huts in Hellissandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.930857,
+                        64.900947
+                  ]
+            },
+            {
+                  "name": "Hellissandur street art",
+                  "text": "Colorful street art murals in Hellissandur.",
+                  "category": "landmark",
+                  "coords": [
+                        -23.885119,
+                        64.918549
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Hellissandur", hu: "Hellissandur", ro: "Hellissandur", en: "Hellissandur" },
@@ -4679,7 +10772,52 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-reykholar-cities-v2.webp",
   },
   {
-    id: "iceland-vigur-village-cities-v2",
+    id: "iceland-vigur-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sigurður Bjarnason frá Vigur",
+                  "text": "Ein Denkmal für einen Politiker auf der Insel Vigur.",
+                  "category": "historical",
+                  "coords": [
+                        -22.830801,
+                        66.048051
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sigurður Bjarnason frá Vigur",
+                  "text": "Egy politikus tiszteletére emelt emlékmű Vigur szigetén.",
+                  "category": "historical",
+                  "coords": [
+                        -22.830801,
+                        66.048051
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sigurður Bjarnason frá Vigur",
+                  "text": "Un monument dedicat unui politician pe insula Vigur.",
+                  "category": "historical",
+                  "coords": [
+                        -22.830801,
+                        66.048051
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sigurður Bjarnason frá Vigur",
+                  "text": "A monument dedicated to a politician on the island of Vigur.",
+                  "category": "historical",
+                  "coords": [
+                        -22.830801,
+                        66.048051
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Vigur", hu: "Vigur", ro: "Vigur", en: "Vigur" },
@@ -4724,7 +10862,52 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-vigur-village-cities-v2.webp",
   },
   {
-    id: "iceland-kaldrananes-cities-v2",
+    id: "iceland-kaldrananes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bæjarfell",
+                  "text": "Ein Gipfel in der Region Kaldrananes, beliebt bei Wanderern für seine Aussicht.",
+                  "category": "natural",
+                  "coords": [
+                        -21.453316,
+                        65.710288
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bæjarfell",
+                  "text": "Csúcs Kaldrananes régiójában, amely népszerű a túrázók körében a kilátás miatt.",
+                  "category": "natural",
+                  "coords": [
+                        -21.453316,
+                        65.710288
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bæjarfell",
+                  "text": "Un vârf în regiunea Kaldrananes, popular printre drumeți pentru priveliștile sale.",
+                  "category": "natural",
+                  "coords": [
+                        -21.453316,
+                        65.710288
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bæjarfell",
+                  "text": "A peak in the Kaldrananes region, popular with hikers for its views.",
+                  "category": "natural",
+                  "coords": [
+                        -21.453316,
+                        65.710288
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Kaldrananes", hu: "Kaldrananes", ro: "Kaldrananes", en: "Kaldrananes" },
@@ -4769,7 +10952,88 @@ imageHint: "Vogar coastline and residential houses",
     image: "/poi-images/iceland-kaldrananes-cities-v2.webp",
   },
   {
-    id: "iceland-talgnafjordur-cities-v2",
+    id: "iceland-talgnafjordur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hvalstöðin Suðureyri",
+                  "text": "Die Überreste einer alten Walfangstation in der Nähe von Tálknafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.931996,
+                        65.639405
+                  ]
+            },
+            {
+                  "name": "Tálknafjarðarkirkja",
+                  "text": "Die örtliche Pfarrkirche der Gemeinde Tálknafjörður.",
+                  "category": "religious",
+                  "coords": [
+                        -23.833011,
+                        65.627422
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hvalstöðin Suðureyri",
+                  "text": "Egy régi bálnavadász állomás maradványai Tálknafjörður közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -23.931996,
+                        65.639405
+                  ]
+            },
+            {
+                  "name": "Tálknafjarðarkirkja",
+                  "text": "Tálknafjörður közösségének helyi plébániatemploma.",
+                  "category": "religious",
+                  "coords": [
+                        -23.833011,
+                        65.627422
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hvalstöðin Suðureyri",
+                  "text": "Ruinele unei vechi stații de vânătoare de balene situată lângă Tálknafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.931996,
+                        65.639405
+                  ]
+            },
+            {
+                  "name": "Tálknafjarðarkirkja",
+                  "text": "Biserica parohială locală care deservește comunitatea din Tálknafjörður.",
+                  "category": "religious",
+                  "coords": [
+                        -23.833011,
+                        65.627422
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hvalstöðin Suðureyri",
+                  "text": "The remains of an old whaling station located near Tálknafjörður.",
+                  "category": "historical",
+                  "coords": [
+                        -23.931996,
+                        65.639405
+                  ]
+            },
+            {
+                  "name": "Tálknafjarðarkirkja",
+                  "text": "The local parish church serving the community of Tálknafjörður.",
+                  "category": "religious",
+                  "coords": [
+                        -23.833011,
+                        65.627422
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IS",
     name: { de: "Tálknafjörður", hu: "Tálknafjörður", ro: "Tálknafjörður", en: "Tálknafjörður" },

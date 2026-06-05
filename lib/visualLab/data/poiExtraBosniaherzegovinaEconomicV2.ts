@@ -1078,7 +1078,88 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-vitez-business-zone-economic-v2",
+    id: "bosniaherzegovina-vitez-business-zone-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kazalište",
+                  "text": "Ein Theater in der Gewerbezone von Vitez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.791445,
+                        44.151316
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "Ein beliebter Wasserpark für Freizeitaktivitäten in Vitez.",
+                  "category": "recreational",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kazalište",
+                  "text": "Színház Vitez ipari negyedében.",
+                  "category": "cultural",
+                  "coords": [
+                        17.791445,
+                        44.151316
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "Népszerű vízi park Vitez városában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kazalište",
+                  "text": "Un teatru în zona industrială din Vitez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.791445,
+                        44.151316
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "Un parc acvatic popular în Vitez.",
+                  "category": "recreational",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Theatre",
+                  "text": "A theatre located in the commercial zone of Vitez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.791445,
+                        44.151316
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Ribica\"",
+                  "text": "A popular water park for recreation in Vitez.",
+                  "category": "recreational",
+                  "coords": [
+                        17.778318,
+                        44.164849
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Gewerbezone PC-96 Vitez", hu: "Vitezi PC-96 Üzleti Zóna", ro: "Zona de Afaceri PC-96 Vitez", en: "Vitez PC-96 Business Zone"},
@@ -1313,7 +1394,1240 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-banja-luka-business-district-economic-v2",
+    id: "bosniaherzegovina-banja-luka-business-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Dieses Museum in Banja Luka präsentiert zeitgenössische Kunst in einem ehemaligen Bahnhofsgebäude.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "Das Haupttheater der Republik Srpska in Banja Luka, das bedeutende kulturelle Aufführungen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kastel",
+                  "text": "Eine historische Festung am Ufer des Vrbas, deren Wurzeln bis in die Römerzeit zurückreichen.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Ein Museum in Banja Luka, das sich der Geschichte und dem Erbe der Region widmet.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "Ein spezialisiertes Theater in Banja Luka mit Aufführungen für ein jüngeres Publikum.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "Ein städtisches Theater in Banja Luka, das moderne Bühnenstücke und Kulturprogramme anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica",
+                  "text": "Ein Freilufttheater in Banja Luka für kulturelle Veranstaltungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "Eine studentische Theaterbühne in Banja Luka für junge Talente und kreative Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Ein Museum in Banja Luka, das die sportlichen Erfolge und die Geschichte der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Freizeitbad Aquana",
+                  "text": "Ein großer Wasserpark in Banja Luka mit verschiedenen Pools und Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "Der Bischofspalast in Banja Luka, Sitz der Eparchie von Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "Die offizielle Residenz und Verwaltung des katholischen Bischofs in Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "Ein beliebter Strandabschnitt am Fluss Vrbas für Erholung und Freizeit in Banja Luka.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "Eine Kunstgalerie in Banja Luka, die Werke lokaler und regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "Ein religiöses Denkmal in Banja Luka, das eine Christusstatue darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "Eine Freizeitanlage am Flussufer in Banja Luka, die zum Baden und Entspannen einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "Ein Anlegeplatz für die traditionellen Dajak-Boote am Ufer des Flusses Vrbas.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "Ein lokales Kultur- und Kunstzentrum in Banja Luka für verschiedene kreative Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "Ein Denkmal zu Ehren der gefallenen Mitglieder des Innenministeriums der Republik Srpska.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "Ein Kulturzentrum in Banja Luka, das sich der Klaviermusik und Ausbildung widmet.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "Eine Galerie in Banja Luka, die moderne Kunstwerke und wechselnde Ausstellungen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "Ein Sport- und Veranstaltungszentrum in Banja Luka für verschiedene Attraktionen.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "Die Überreste eines historischen Brunnens aus dem Mittelalter in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Ostaci hrama Sv. Trojice porušenog 1941",
+                  "text": "Ein Denkmal, das an die zerstörte Kirche der Heiligen Dreifaltigkeit in Banja Luka erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "Die historischen Überreste der ehemaligen Residenz der Familie Levi in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "Ein orthodoxes Gotteshaus in Banja Luka, gewidmet der Geburt der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "Eine historische Moschee im Stadtteil Stupnica, bekannt als Hadži Saliha Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "Eine traditionelle Moschee in Banja Luka, benannt nach Gazanfer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "Eine lokale Moschee in Banja Luka, die ein wichtiges religiöses Zentrum für die Gemeinde darstellt.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "Die Potočka-Moschee ist ein historisches islamisches Gebetshaus im Herzen von Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "Eine historische Moschee in Banja Luka, die nach Sefer-beg benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "Ein bedeutendes islamisches Denkmal und Gebetshaus im Stadtteil Dolac von Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "Eine wiederaufgebaute historische Moschee in Banja Luka, ein Juwel osmanischer Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "Die Talih-Moschee ist ein traditionelles religiöses Bauwerk in Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Ez a Banja Luka-i múzeum kortárs művészeti alkotásokat mutat be egy egykori vasútállomás épületében.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "A Szerb Köztársaság fő színháza Banja Lukában, amely jelentős kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kastel",
+                  "text": "Történelmi erőd az Orbász partján, melynek gyökerei a római korig nyúlnak vissza.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Banja Luka-i múzeum, amely a régió történelmének és örökségének bemutatására összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "Speciális színház Banja Lukában, amely a fiatalabb közönség számára kínál előadásokat.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "Banja Luka-i városi színház, amely modern darabokat és kulturális programokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica",
+                  "text": "Szabadtéri színház Banja Lukában, amely szabadtéri kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "Egyetemi színpad Banja Lukában fiatal tehetségek és kreatív projektek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Banja Luka-i múzeum, amely a város sporteredményeit és sporttörténetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "Nagy vízipark Banja Lukában, különféle medencékkel és szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "Püspöki palota Banja Lukában, a Banja Luka-i eparchia székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "A katolikus püspök hivatalos rezidenciája és hivatala Banja Lukában.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "Népszerű strand szakasz az Orbász folyó partján pihenésre és kikapcsolódásra Banja Lukában.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "Művészeti galéria Banja Lukában, amely helyi és regionális művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "Krisztus-szobrot ábrázoló vallási emlékmű Banja Lukában.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "Folyóparti üdülőhely Banja Lukában, amely fürdésre és pihenésre hívogat.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "Kikötő a hagyományos Dajak-csónakok számára az Orbász folyó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "Helyi kulturális és művészeti központ Banja Lukában különféle kreatív tevékenységekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "A Szerb Köztársaság Belügyminisztériuma elesett tagjainak tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "Banja Luka-i kulturális központ, amely a zongoramuzsikának és az oktatásnak szenteli magát.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "Banja Luka-i galéria, amely modern művészeti alkotásokat és időszaki kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "Banja Luka-i sport- és rendezvényközpont különféle látnivalók és események számára.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "Egy középkori történelmi kút maradványai Banja Luka városában.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Ostaci hrama Sv. Trojice porušenog 1941",
+                  "text": "A lerombolt Szentháromság-templom emlékére állított emlékmű Banja Lukában.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "A Levi család egykori lakóházának történelmi maradványai Banja Lukában.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "Ortodox templom Banja Lukában, Szűz Mária születésének szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "Történelmi mecset a Stupnica negyedben, más néven Hadži Saliha mecset.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "Hagyományos mecset Banja Lukában, Gazanfer bég után elnevezve.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "Helyi mecset Banja Lukában, amely a közösség fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "A Potočka-mecset egy történelmi iszlám imaház Banja Luka szívében.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "Történelmi mecset Banja Lukában, amely Sefer bég nevét viseli.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "Jelentős iszlám emlékmű és imaház Banja Luka Dolac negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "Banja Luka újjáépített történelmi mecsetje, az oszmán építészet gyöngyszeme.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "A Talih-mecset egy hagyományos vallási épület Banja Luka városában.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "Acest muzeu din Banja Luka prezintă artă contemporană în clădirea unei foste gări.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "Teatrul principal al Republicii Srpska din Banja Luka, care găzduiește spectacole culturale importante.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Tvrđava Kastel",
+                  "text": "O cetate istorică pe malul râului Vrbas, cu rădăcini care datează din epoca romană.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "Un muzeu în Banja Luka dedicat istoriei și moștenirii culturale a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "Un teatru specializat din Banja Luka, cu spectacole dedicate publicului tânăr.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "Un teatru orășenesc în Banja Luka, oferind piese moderne și programe culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Ljetna pozornica",
+                  "text": "Un teatru în aer liber din Banja Luka pentru evenimente culturale exterioare.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "O scenă teatrală studențească în Banja Luka pentru tineri talentați și proiecte creative.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "Un muzeu în Banja Luka care documentează realizările și istoria sportivă a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "Un parc acvatic mare în Banja Luka, cu diverse piscine și facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "Palatul episcopal din Banja Luka, sediul Eparhiei de Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "Reședința oficială și administrația episcopului catolic din Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "O porțiune populară de plajă pe malul râului Vrbas pentru recreere în Banja Luka.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "O galerie de artă în Banja Luka, care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "Un monument religios în Banja Luka, reprezentând o statuie a lui Hristos.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "O zonă de agrement pe malul râului în Banja Luka, ideală pentru scăldat și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "Un debarcader pentru bărcile tradiționale Dajak pe malul râului Vrbas.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "Un centru local de cultură și artă în Banja Luka pentru diverse activități creative.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "Un monument în onoarea membrilor decedați ai Ministerului de Interne al Republicii Srpska.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "Un centru cultural în Banja Luka dedicat muzicii de pian și educației muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "O galerie în Banja Luka care prezintă opere de artă modernă și expoziții temporare.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "Un centru de sport și evenimente în Banja Luka pentru diverse atracții.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "Rămășițele unei fântâni istorice din perioada medievală în Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Ostaci hrama Sv. Trojice porušenog 1941",
+                  "text": "Un monument care comemorează biserica distrusă a Sfintei Treimi din Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "Rămășițele istorice ale fostei reședințe a familiei Levi în Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "O biserică ortodoxă din Banja Luka, dedicată Nașterii Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "O moschee istorică în cartierul Stupnica, cunoscută și sub numele de Moscheea Hadži Saliha.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "O moschee tradițională din Banja Luka, numită după Gazanfer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "O moschee locală din Banja Luka, reprezentând un centru religios important pentru comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "Moscheea Potočka este un lăcaș de cult islamic istoric în inima orașului Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "O moschee istorică din Banja Luka, numită după Sefer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "Un monument islamic și lăcaș de cult important în cartierul Dolac din Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "O moschee istorică reconstruită în Banja Luka, o bijuterie a arhitecturii otomane.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "Moscheea Talih este o structură religioasă tradițională din Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Muzej savremene umjetnosti Repubike Srpske",
+                  "text": "This museum in Banja Luka showcases contemporary art in a former railway station building.",
+                  "category": "museum",
+                  "coords": [
+                        17.189647,
+                        44.772263
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Republike Srpske",
+                  "text": "The main theatre of Republika Srpska in Banja Luka, hosting major cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193333,
+                        44.774011
+                  ]
+            },
+            {
+                  "name": "Kastel fortress",
+                  "text": "A historic fortress on the banks of the Vrbas river, with roots dating back to Roman times.",
+                  "category": "castle",
+                  "coords": [
+                        17.190786,
+                        44.766456
+                  ]
+            },
+            {
+                  "name": "Muzej Republike Srpske",
+                  "text": "A museum in Banja Luka dedicated to the history and heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        17.191816,
+                        44.769195
+                  ]
+            },
+            {
+                  "name": "Dječije pozorište Republike Srpske",
+                  "text": "A specialized theatre in Banja Luka offering performances for younger audiences.",
+                  "category": "cultural",
+                  "coords": [
+                        17.190867,
+                        44.768983
+                  ]
+            },
+            {
+                  "name": "Gradsko pozorište Jazavac",
+                  "text": "A city theatre in Banja Luka offering modern plays and cultural programs.",
+                  "category": "cultural",
+                  "coords": [
+                        17.191146,
+                        44.764243
+                  ]
+            },
+            {
+                  "name": "Outdoor theatre",
+                  "text": "An outdoor theatre in Banja Luka for open-air cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        17.189757,
+                        44.766946
+                  ]
+            },
+            {
+                  "name": "Banjalučko studentsko pozorište",
+                  "text": "A student theatre stage in Banja Luka for young talents and creative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        17.19148,
+                        44.771275
+                  ]
+            },
+            {
+                  "name": "Muzej sporta",
+                  "text": "A museum in Banja Luka documenting the city's sporting achievements and history.",
+                  "category": "museum",
+                  "coords": [
+                        17.202164,
+                        44.773716
+                  ]
+            },
+            {
+                  "name": "Vodeni park \"Akvana\"",
+                  "text": "A large water park in Banja Luka with various pools and leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        17.205799,
+                        44.773739
+                  ]
+            },
+            {
+                  "name": "Eparhija banjalučka",
+                  "text": "The Bishop's palace in Banja Luka, seat of the Eparchy of Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195654,
+                        44.77434
+                  ]
+            },
+            {
+                  "name": "Biskupski ordinarijat Banja Luka",
+                  "text": "The official residence and administration of the Catholic Bishop in Banja Luka.",
+                  "category": "castle",
+                  "coords": [
+                        17.195478,
+                        44.775373
+                  ]
+            },
+            {
+                  "name": "Zlajina plaža",
+                  "text": "A popular beach stretch on the Vrbas river for recreation and leisure in Banja Luka.",
+                  "category": "recreational",
+                  "coords": [
+                        17.181611,
+                        44.758893
+                  ]
+            },
+            {
+                  "name": "Galerija Kević",
+                  "text": "An art gallery in Banja Luka exhibiting works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        17.200575,
+                        44.775198
+                  ]
+            },
+            {
+                  "name": "Kristov kip",
+                  "text": "A religious monument in Banja Luka depicting a statue of Christ.",
+                  "category": "historical",
+                  "coords": [
+                        17.194531,
+                        44.775223
+                  ]
+            },
+            {
+                  "name": "Abacija",
+                  "text": "A riverside recreational area in Banja Luka, popular for swimming and relaxing.",
+                  "category": "recreational",
+                  "coords": [
+                        17.184376,
+                        44.761569
+                  ]
+            },
+            {
+                  "name": "Dajak pristanište",
+                  "text": "A pier for the traditional Dajak boats on the banks of the Vrbas river.",
+                  "category": "landmark",
+                  "coords": [
+                        17.18684,
+                        44.763727
+                  ]
+            },
+            {
+                  "name": "Kult Art",
+                  "text": "A local arts and culture centre in Banja Luka for various creative activities.",
+                  "category": "cultural",
+                  "coords": [
+                        17.193167,
+                        44.758636
+                  ]
+            },
+            {
+                  "name": "Spomen obilježje poginulim pripadnicima MUP-a Republike Srpske",
+                  "text": "A monument honoring the fallen members of the Ministry of Interior of Republika Srpska.",
+                  "category": "historical",
+                  "coords": [
+                        17.20698,
+                        44.764654
+                  ]
+            },
+            {
+                  "name": "Banjalučki klavirski atelje",
+                  "text": "A cultural centre in Banja Luka dedicated to piano music and education.",
+                  "category": "cultural",
+                  "coords": [
+                        17.18703,
+                        44.767251
+                  ]
+            },
+            {
+                  "name": "Galerija plus",
+                  "text": "A gallery in Banja Luka presenting modern artworks and temporary exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        17.192689,
+                        44.771299
+                  ]
+            },
+            {
+                  "name": "Banjalučka arena",
+                  "text": "A sports and event centre in Banja Luka for various attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        17.203854,
+                        44.778915
+                  ]
+            },
+            {
+                  "name": "Srednjovijekovni bunar",
+                  "text": "The remains of a historic well from the Middle Ages in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.188309,
+                        44.767742
+                  ]
+            },
+            {
+                  "name": "Destroyed temple of Holy Trinity",
+                  "text": "A monument commemorating the destroyed temple of the Holy Trinity in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.191931,
+                        44.77257
+                  ]
+            },
+            {
+                  "name": "Kuća Levi",
+                  "text": "The historic remains of the former Levi family residence in Banja Luka.",
+                  "category": "historical",
+                  "coords": [
+                        17.193965,
+                        44.771048
+                  ]
+            },
+            {
+                  "name": "Hram rođenja Presvete Bogorodice",
+                  "text": "An Orthodox place of worship in Banja Luka, dedicated to the Nativity of the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        17.210224,
+                        44.766538
+                  ]
+            },
+            {
+                  "name": "Stupnička / hadži Saliha džamija",
+                  "text": "A historic mosque in the Stupnica district, also known as the Hadži Saliha Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        17.184255,
+                        44.758797
+                  ]
+            },
+            {
+                  "name": "Gazanferija / Gazanfer-begova džamija",
+                  "text": "A traditional mosque in Banja Luka, named after Gazanfer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.188746,
+                        44.7627
+                  ]
+            },
+            {
+                  "name": "Hisečka / Mehdi-begova džamija",
+                  "text": "A local mosque in Banja Luka, serving as an important religious centre for the community.",
+                  "category": "religious",
+                  "coords": [
+                        17.177223,
+                        44.756264
+                  ]
+            },
+            {
+                  "name": "Potočka / Hadži-Pervizova džamija",
+                  "text": "The Potočka Mosque is a historic Islamic place of worship in the heart of Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.18981,
+                        44.758323
+                  ]
+            },
+            {
+                  "name": "Potpećinska / Sefer-begova džamija",
+                  "text": "A historic mosque in Banja Luka, named after Sefer-beg.",
+                  "category": "religious",
+                  "coords": [
+                        17.177978,
+                        44.765791
+                  ]
+            },
+            {
+                  "name": "Dolačka / Hadži Omerova džamija",
+                  "text": "A significant Islamic monument and place of worship in the Dolac district of Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.193888,
+                        44.767212
+                  ]
+            },
+            {
+                  "name": "Arnaudija",
+                  "text": "A reconstructed historic mosque in Banja Luka, a jewel of Ottoman architecture.",
+                  "category": "religious",
+                  "coords": [
+                        17.181941,
+                        44.770001
+                  ]
+            },
+            {
+                  "name": "Talih / Hadži Osmanbega džamija",
+                  "text": "The Talih Mosque is a traditional religious structure in Banja Luka.",
+                  "category": "religious",
+                  "coords": [
+                        17.17894,
+                        44.769948
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Geschäftsviertel Banja Luka", hu: "Banja Luka-i Üzleti Negyed", ro: "Districtul de Afaceri Banja Luka", en: "Banja Luka Business District"},
@@ -1359,7 +2673,1564 @@ export const bosniaherzegovinaEconomicV2: POI[] = [
     }
   },
   {
-    id: "bosniaherzegovina-sarajevo-stock-exchange-economic-v2",
+    id: "bosniaherzegovina-sarajevo-stock-exchange-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Muzej Jevreja BiH",
+                  "text": "Ein Museum in Sarajevo, das sich in der ehemaligen Neuen Synagoge befindet und die jüdische Geschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.427806,
+                        43.859782
+                  ]
+            },
+            {
+                  "name": "Historijski Muzej Bosne i Hercegovine",
+                  "text": "Das Historische Museum in Sarajevo bewahrt Zeugnisse der Geschichte von Bosnien und Herzegowina auf.",
+                  "category": "museum",
+                  "coords": [
+                        18.400869,
+                        43.854975
+                  ]
+            },
+            {
+                  "name": "Brusa Bezistan",
+                  "text": "Ein ehemaliger gedeckter Basar in Sarajevo, der heute als Museum zur Stadtgeschichte dient.",
+                  "category": "museum",
+                  "coords": [
+                        18.430386,
+                        43.858803
+                  ]
+            },
+            {
+                  "name": "Despića kuća",
+                  "text": "Ein Museum in Sarajevo, das ein erhaltenes Wohnhaus einer wohlhabenden Familie aus dem 19. Jahrhundert zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        18.427373,
+                        43.857633
+                  ]
+            },
+            {
+                  "name": "Muzej Sarajevo 1878-1918",
+                  "text": "Dieses Museum in Sarajevo befasst sich mit der Zeit der österreichisch-ungarischen Verwaltung von 1878 bis 1918.",
+                  "category": "museum",
+                  "coords": [
+                        18.428988,
+                        43.857981
+                  ]
+            },
+            {
+                  "name": "Museum of Sarajevo",
+                  "text": "Das Hauptmuseum von Sarajevo, das an verschiedenen Standorten die vielfältige Geschichte der Stadt präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        18.427578,
+                        43.860871
+                  ]
+            },
+            {
+                  "name": "Svrzina kuća",
+                  "text": "Ein gut erhaltenes Beispiel eines traditionellen osmanischen Wohnhauses aus dem 18. Jahrhundert in Sarajevo.",
+                  "category": "museum",
+                  "coords": [
+                        18.429323,
+                        43.862452
+                  ]
+            },
+            {
+                  "name": "Zgrada željezničke stanice Bistrik",
+                  "text": "Das historische Bahnhofsgebäude von Bistrik in Sarajevo wurde zu einem Museum umgebaut.",
+                  "category": "museum",
+                  "coords": [
+                        18.432781,
+                        43.852725
+                  ]
+            },
+            {
+                  "name": "Saburina kuća",
+                  "text": "Ein historisches Wohnhaus in Sarajevo, das für seine traditionelle osmanische Architektur bekannt ist.",
+                  "category": "museum",
+                  "coords": [
+                        18.435811,
+                        43.863806
+                  ]
+            },
+            {
+                  "name": "Umjetnička galerija Bosne i Hercegovine",
+                  "text": "Die bedeutendste Kunstgalerie in Bosnien und Herzegowina, die eine große Sammlung moderner Kunst beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        18.424458,
+                        43.857796
+                  ]
+            },
+            {
+                  "name": "Tašlihan",
+                  "text": "Die archäologischen Überreste einer ehemaligen Karawanserei aus dem 15. Jahrhundert im Zentrum von Sarajevo.",
+                  "category": "historical",
+                  "coords": [
+                        18.42788,
+                        43.85861
+                  ]
+            },
+            {
+                  "name": "Vijećnica",
+                  "text": "Das imposante Rathaus von Sarajevo, die Vijećnica, ist ein Symbol der Stadt und ein architektonisches Meisterwerk.",
+                  "category": "historical",
+                  "coords": [
+                        18.433385,
+                        43.859166
+                  ]
+            },
+            {
+                  "name": "Kamerni Teatar 55",
+                  "text": "Ein bekanntes Kammertheater in Sarajevo, das für seine innovativen und intimen Aufführungen geschätzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        18.42127,
+                        43.858604
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Sarajevo",
+                  "text": "Das Nationaltheater von Sarajevo ist das älteste und bedeutendste Theaterhaus des Landes.",
+                  "category": "cultural",
+                  "coords": [
+                        18.420729,
+                        43.856874
+                  ]
+            },
+            {
+                  "name": "Bosanski kulturni centar",
+                  "text": "Ein bedeutendes Kulturzentrum in Sarajevo, das in einer ehemaligen Synagoge untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        18.422041,
+                        43.857108
+                  ]
+            },
+            {
+                  "name": "Kirche St. Joseph",
+                  "text": "Eine katholische Kirche in Sarajevo, die im neugotischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        18.406965,
+                        43.856501
+                  ]
+            },
+            {
+                  "name": "Hram Preobraženja Gospodnjeg",
+                  "text": "Eine orthodoxe Kirche in Sarajevo, die durch ihre markante runde Architektur auffällt.",
+                  "category": "religious",
+                  "coords": [
+                        18.390957,
+                        43.853329
+                  ]
+            },
+            {
+                  "name": "Stara pravoslavna crkva",
+                  "text": "Eine der ältesten Kirchen in Sarajevo, die für ihr bedeutendes Museum mit Ikonen bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.429996,
+                        43.860256
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Vinka Paulskoga",
+                  "text": "Eine katholische Kirche in Sarajevo, die zum Vinzentinerorden gehört.",
+                  "category": "religious",
+                  "coords": [
+                        18.418858,
+                        43.858672
+                  ]
+            },
+            {
+                  "name": "Džamija Hasan Čoban Zade",
+                  "text": "Diese Moschee, auch als Čobanija-Moschee bekannt, wurde im 16. Jahrhundert in Sarajevo errichtet.",
+                  "category": "religious",
+                  "coords": [
+                        18.420906,
+                        43.855273
+                  ]
+            },
+            {
+                  "name": "Hadžijska džamija",
+                  "text": "Eine der ältesten Moscheen in Sarajevo, die traditionell von Pilgern vor ihrer Reise besucht wurde.",
+                  "category": "religious",
+                  "coords": [
+                        18.434766,
+                        43.858495
+                  ]
+            },
+            {
+                  "name": "Kekeki-Sinanova džamija",
+                  "text": "Eine Moschee in Sarajevo, die auch unter dem Namen Bakarevića-Moschee bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.431117,
+                        43.855078
+                  ]
+            },
+            {
+                  "name": "Čekrekčijina",
+                  "text": "Eine markante Moschee am Rande des Basars Baščaršija in Sarajevo aus dem 16. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        18.431916,
+                        43.859884
+                  ]
+            },
+            {
+                  "name": "Careva džamija",
+                  "text": "Die Kaisermoschee ist die erste nach der osmanischen Eroberung in Sarajevo erbaute Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        18.430672,
+                        43.857435
+                  ]
+            },
+            {
+                  "name": "Alipašina džamija",
+                  "text": "Eine elegante Moschee in Sarajevo, die als eines der schönsten Beispiele osmanischer Architektur im Land gilt.",
+                  "category": "religious",
+                  "coords": [
+                        18.412763,
+                        43.857952
+                  ]
+            },
+            {
+                  "name": "Kapela Vidovdanskih heroja",
+                  "text": "Eine Kapelle in Sarajevo, die den Mitgliedern von Mlada Bosna gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        18.411502,
+                        43.866809
+                  ]
+            },
+            {
+                  "name": "Gazi Husrev-Beg Moschee",
+                  "text": "Die Gazi-Husrev-Beg-Moschee ist die größte und wichtigste Moschee in Bosnien und Herzegowina.",
+                  "category": "religious",
+                  "coords": [
+                        18.429026,
+                        43.859147
+                  ]
+            },
+            {
+                  "name": "Synagoge",
+                  "text": "Die aschkenasische Synagoge in Sarajevo ist die einzige heute noch aktive Synagoge der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42508,
+                        43.856314
+                  ]
+            },
+            {
+                  "name": "Herz-Jesu-Kathedrale",
+                  "text": "Die Herz-Jesu-Kathedrale ist die größte Kathedrale in Bosnien und Herzegowina und Sitz des Erzbistums Sarajevo.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425362,
+                        43.859422
+                  ]
+            },
+            {
+                  "name": "Kuća Alije Đerzeleza",
+                  "text": "Ein historisches Wohnhaus in Sarajevo, das ein bedeutendes Beispiel osmanischer Architektur darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.429602,
+                        43.86443
+                  ]
+            },
+            {
+                  "name": "Hum Tower",
+                  "text": "Ein markanter Fernsehturm auf dem Hügel Hum über Sarajevo, der weithin sichtbar ist.",
+                  "category": "tower",
+                  "coords": [
+                        18.386368,
+                        43.872476
+                  ]
+            },
+            {
+                  "name": "Eiffelov most",
+                  "text": "Eine Eisenbrücke in Sarajevo, die volkstümlich mit dem Büro von Gustave Eiffel in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414263,
+                        43.856179
+                  ]
+            },
+            {
+                  "name": "Festina lente",
+                  "text": "Eine moderne Fußgängerbrücke in Sarajevo mit einer markanten Schleife in der Mitte.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417643,
+                        43.856301
+                  ]
+            },
+            {
+                  "name": "Most Suade Dilberović i Olge Sučić",
+                  "text": "Diese Brücke erinnert an die ersten Opfer der Belagerung von Sarajevo im Jahr 1992.",
+                  "category": "landmark",
+                  "coords": [
+                        18.406536,
+                        43.853298
+                  ]
+            },
+            {
+                  "name": "Drvenija most",
+                  "text": "Eine bekannte Holzbrücke in Sarajevo, die ein beliebter Übergang für Fußgänger ist.",
+                  "category": "landmark",
+                  "coords": [
+                        18.423759,
+                        43.856555
+                  ]
+            },
+            {
+                  "name": "Ars Aevi Bridge",
+                  "text": "Eine von Renzo Piano entworfene Brücke, die zum Museum für zeitgenössische Kunst Ars Aevi führt.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400913,
+                        43.853499
+                  ]
+            },
+            {
+                  "name": "Gedenkpark Vraca",
+                  "text": "Ein Gedenkpark in Sarajevo, der an den Widerstand und die Opfer des Zweiten Weltkriegs erinnert.",
+                  "category": "park",
+                  "coords": [
+                        18.399097,
+                        43.843537
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "Dieser Zoo in Sarajevo bietet Besuchern die Möglichkeit, verschiedene Tierarten in einer natürlichen Umgebung zu sehen.",
+                  "category": "recreational",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "Ratni muzej",
+                  "text": "Dieses Museum in Sarajevo dokumentiert die Ereignisse und die Geschichte des Krieges von 1992.",
+                  "category": "museum",
+                  "coords": [
+                        18.434944,
+                        43.856316
+                  ]
+            },
+            {
+                  "name": "Palež kula",
+                  "text": "Dieses historische Fort in Sarajevo ist ein Beispiel für die ehemalige Verteidigungsarchitektur der Region.",
+                  "category": "fortress",
+                  "coords": [
+                        18.426471,
+                        43.83818
+                  ]
+            },
+            {
+                  "name": "Kula Širokac",
+                  "text": "Dieses ehemalige Stadttor in Sarajevo ist ein bedeutendes Überbleibsel der historischen Stadtmauer.",
+                  "category": "fortress",
+                  "coords": [
+                        18.437062,
+                        43.862331
+                  ]
+            },
+            {
+                  "name": "Višegradska kapija",
+                  "text": "Dieses historische Stadttor war einst Teil des Befestigungssystems von Sarajevo.",
+                  "category": "fortress",
+                  "coords": [
+                        18.445762,
+                        43.861882
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "Diese Kirche in Sarajevo ist ein bedeutendes sakrales Gebäude für die lokale Glaubensgemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        18.382638,
+                        43.852599
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Muzej Jevreja BiH",
+                  "text": "Múzeum Szarajevóban, amely az egykori Új zsinagógában található és a zsidó történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.427806,
+                        43.859782
+                  ]
+            },
+            {
+                  "name": "Historijski Muzej Bosne i Hercegovine",
+                  "text": "A szarajevói Történeti Múzeum Bosznia-Hercegovina történelmének emlékeit őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        18.400869,
+                        43.854975
+                  ]
+            },
+            {
+                  "name": "Brusa Bezistan",
+                  "text": "Egykori fedett bazár Szarajevóban, amely ma a város történetét bemutató múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        18.430386,
+                        43.858803
+                  ]
+            },
+            {
+                  "name": "Despića kuća",
+                  "text": "Múzeum Szarajevóban, amely egy jómódú család 19. századi lakóházát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.427373,
+                        43.857633
+                  ]
+            },
+            {
+                  "name": "Muzej Sarajevo 1878-1918",
+                  "text": "Ez a szarajevói múzeum az 1878 és 1918 közötti osztrák-magyar fennhatóság idejét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        18.428988,
+                        43.857981
+                  ]
+            },
+            {
+                  "name": "Museum of Sarajevo",
+                  "text": "Szarajevó fő múzeuma, amely több helyszínen mutatja be a város sokszínű történelmét.",
+                  "category": "museum",
+                  "coords": [
+                        18.427578,
+                        43.860871
+                  ]
+            },
+            {
+                  "name": "Svrzina kuća",
+                  "text": "Egy 18. századi, hagyományos oszmán lakóház kiválóan megőrzött példája Szarajevóban.",
+                  "category": "museum",
+                  "coords": [
+                        18.429323,
+                        43.862452
+                  ]
+            },
+            {
+                  "name": "Zgrada željezničke stanice Bistrik",
+                  "text": "Szarajevó történelmi bisztriki vasútállomásának épülete, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        18.432781,
+                        43.852725
+                  ]
+            },
+            {
+                  "name": "Saburina kuća",
+                  "text": "Történelmi lakóház Szarajevóban, amely hagyományos oszmán építészetéről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        18.435811,
+                        43.863806
+                  ]
+            },
+            {
+                  "name": "Umjetnička galerija Bosne i Hercegovine",
+                  "text": "Bosznia-Hercegovina legjelentősebb művészeti galériája, amely modern művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        18.424458,
+                        43.857796
+                  ]
+            },
+            {
+                  "name": "Tašlihan",
+                  "text": "Egy 15. századi egykori karavánszeráj régészeti maradványai Szarajevó központjában.",
+                  "category": "historical",
+                  "coords": [
+                        18.42788,
+                        43.85861
+                  ]
+            },
+            {
+                  "name": "Vijećnica",
+                  "text": "Szarajevó impozáns városházája, a Vijećnica, a város szimbóluma és építészeti remekműve.",
+                  "category": "historical",
+                  "coords": [
+                        18.433385,
+                        43.859166
+                  ]
+            },
+            {
+                  "name": "Kamerni Teatar 55",
+                  "text": "Szarajevó híres kamaraszínháza, amelyet innovatív és bensőséges előadásaiért kedvelnek.",
+                  "category": "cultural",
+                  "coords": [
+                        18.42127,
+                        43.858604
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Sarajevo",
+                  "text": "A Szarajevói Nemzeti Színház az ország legrégebbi és legjelentősebb színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        18.420729,
+                        43.856874
+                  ]
+            },
+            {
+                  "name": "Bosanski kulturni centar",
+                  "text": "Szarajevó egyik jelentős kulturális központja, amely egy egykori zsinagógában kapott helyet.",
+                  "category": "cultural",
+                  "coords": [
+                        18.422041,
+                        43.857108
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Josipa",
+                  "text": "Római katolikus templom Szarajevóban, amely neogótikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        18.406965,
+                        43.856501
+                  ]
+            },
+            {
+                  "name": "Hram Preobraženja Gospodnjeg",
+                  "text": "Ortodox templom Szarajevóban, amely jellegzetes kerek építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        18.390957,
+                        43.853329
+                  ]
+            },
+            {
+                  "name": "Stara pravoslavna crkva",
+                  "text": "Szarajevó egyik legrégebbi temploma, amely jelentős ikonmúzeumáról is nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        18.429996,
+                        43.860256
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Vinka Paulskoga",
+                  "text": "Római katolikus templom Szarajevóban, amely a lazarista rendhez tartozik.",
+                  "category": "religious",
+                  "coords": [
+                        18.418858,
+                        43.858672
+                  ]
+            },
+            {
+                  "name": "Džamija Hasan Čoban Zade",
+                  "text": "Ez a mecset, más néven Čobanija-mecset, a 16. században épült Szarajevóban.",
+                  "category": "religious",
+                  "coords": [
+                        18.420906,
+                        43.855273
+                  ]
+            },
+            {
+                  "name": "Hadžijska džamija",
+                  "text": "Szarajevó egyik legrégebbi mecsete, amelyet hagyományosan a zarándokok látogattak útjuk előtt.",
+                  "category": "religious",
+                  "coords": [
+                        18.434766,
+                        43.858495
+                  ]
+            },
+            {
+                  "name": "Kekeki-Sinanova džamija",
+                  "text": "Egy mecset Szarajevóban, amely Bakarevića-mecset néven is ismert.",
+                  "category": "religious",
+                  "coords": [
+                        18.431117,
+                        43.855078
+                  ]
+            },
+            {
+                  "name": "Čekrekčijina",
+                  "text": "Szarajevó Baščaršija negyedének szélén álló, jellegzetes 16. századi mecset.",
+                  "category": "religious",
+                  "coords": [
+                        18.431916,
+                        43.859884
+                  ]
+            },
+            {
+                  "name": "Careva džamija",
+                  "text": "A Császár-mecset az első mecset, amelyet az oszmán hódítás után építettek Szarajevóban.",
+                  "category": "religious",
+                  "coords": [
+                        18.430672,
+                        43.857435
+                  ]
+            },
+            {
+                  "name": "Alipašina džamija",
+                  "text": "Elegáns mecset Szarajevóban, amelyet az oszmán építészet egyik legszebb hazai példájaként tartanak számon.",
+                  "category": "religious",
+                  "coords": [
+                        18.412763,
+                        43.857952
+                  ]
+            },
+            {
+                  "name": "Kapela Vidovdanskih heroja",
+                  "text": "Kápolna Szarajevóban, amelyet az Ifjú Bosznia (Mlada Bosna) tagjainak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        18.411502,
+                        43.866809
+                  ]
+            },
+            {
+                  "name": "Gazi Husrev-begova džamija",
+                  "text": "A Gázi Husrev bég mecset Bosznia-Hercegovina legnagyobb és legfontosabb mecsete.",
+                  "category": "religious",
+                  "coords": [
+                        18.429026,
+                        43.859147
+                  ]
+            },
+            {
+                  "name": "Aškenaška sinagoga",
+                  "text": "A szarajevói askenázi zsinagóga a város egyetlen ma is működő zsinagógája.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42508,
+                        43.856314
+                  ]
+            },
+            {
+                  "name": "Katedrala Srca Isusova",
+                  "text": "A Jézus Szíve-székesegyház Bosznia-Hercegovina legnagyobb katedrálisa és a szarajevói érsekség székhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425362,
+                        43.859422
+                  ]
+            },
+            {
+                  "name": "Kuća Alije Đerzeleza",
+                  "text": "Történelmi lakóház Szarajevóban, amely az oszmán építészet egyik jelentős példája.",
+                  "category": "landmark",
+                  "coords": [
+                        18.429602,
+                        43.86443
+                  ]
+            },
+            {
+                  "name": "Hum Tower",
+                  "text": "Jellegzetes tévétorony a Szarajevó feletti Hum-dombon, amely messziről is jól látható.",
+                  "category": "tower",
+                  "coords": [
+                        18.386368,
+                        43.872476
+                  ]
+            },
+            {
+                  "name": "Eiffelov most",
+                  "text": "Vashíd Szarajevóban, amelyet a néphagyomány Gustave Eiffel irodájával hoz összefüggésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414263,
+                        43.856179
+                  ]
+            },
+            {
+                  "name": "Festina lente",
+                  "text": "Modern gyalogoshíd Szarajevóban, amelynek közepén egy jellegzetes hurok található.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417643,
+                        43.856301
+                  ]
+            },
+            {
+                  "name": "Most Suade Dilberović i Olge Sučić",
+                  "text": "Ez a híd Szarajevó 1992-es ostromának első áldozataira emlékeztet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.406536,
+                        43.853298
+                  ]
+            },
+            {
+                  "name": "Drvenija most",
+                  "text": "Ismert fahíd Szarajevóban, amely a gyalogosok kedvelt átkelőhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        18.423759,
+                        43.856555
+                  ]
+            },
+            {
+                  "name": "Ars Aevi Bridge",
+                  "text": "Renzo Piano által tervezett híd, amely az Ars Aevi Kortárs Művészeti Múzeumhoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400913,
+                        43.853499
+                  ]
+            },
+            {
+                  "name": "Spomen-park Vraca",
+                  "text": "Emlékpark Szarajevóban, amely a második világháború ellenállásának és áldozatainak állít emléket.",
+                  "category": "park",
+                  "coords": [
+                        18.399097,
+                        43.843537
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "Ez a szarajevói állatkert különféle állatfajok megtekintését teszi lehetővé természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "Ratni muzej",
+                  "text": "Ez a szarajevói múzeum az 1992-es háború eseményeit és történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        18.434944,
+                        43.856316
+                  ]
+            },
+            {
+                  "name": "Palež kula",
+                  "text": "Ez a történelmi erőd Szarajevóban a régió egykori védelmi építészetének egyik példája.",
+                  "category": "fortress",
+                  "coords": [
+                        18.426471,
+                        43.83818
+                  ]
+            },
+            {
+                  "name": "Kula Širokac",
+                  "text": "Ez az egykori városkapu Szarajevóban a történelmi városfal egyik jelentős maradványa.",
+                  "category": "fortress",
+                  "coords": [
+                        18.437062,
+                        43.862331
+                  ]
+            },
+            {
+                  "name": "Višegradska kapija",
+                  "text": "Ez a történelmi városkapu egykor Szarajevó erődrendszerének részét képezte.",
+                  "category": "fortress",
+                  "coords": [
+                        18.445762,
+                        43.861882
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "Ez a szarajevói templom a helyi vallási közösség jelentős szakrális épülete.",
+                  "category": "religious",
+                  "coords": [
+                        18.382638,
+                        43.852599
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Muzej Jevreja BiH",
+                  "text": "Un muzeu din Sarajevo, situat în fosta Sinagogă Nouă, care documentează istoria evreiască.",
+                  "category": "museum",
+                  "coords": [
+                        18.427806,
+                        43.859782
+                  ]
+            },
+            {
+                  "name": "Historijski Muzej Bosne i Hercegovine",
+                  "text": "Muzeul de Istorie din Sarajevo păstrează mărturii ale istoriei Bosniei și Herțegovinei.",
+                  "category": "museum",
+                  "coords": [
+                        18.400869,
+                        43.854975
+                  ]
+            },
+            {
+                  "name": "Brusa Bezistan",
+                  "text": "Un fost bazar acoperit din Sarajevo, care astăzi servește ca muzeu al istoriei orașului.",
+                  "category": "museum",
+                  "coords": [
+                        18.430386,
+                        43.858803
+                  ]
+            },
+            {
+                  "name": "Despića kuća",
+                  "text": "Un muzeu din Sarajevo care prezintă casa unei familii înstărite din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        18.427373,
+                        43.857633
+                  ]
+            },
+            {
+                  "name": "Muzej Sarajevo 1878-1918",
+                  "text": "Acest muzeu din Sarajevo se concentrează pe perioada administrației austro-ungare între 1878 și 1918.",
+                  "category": "museum",
+                  "coords": [
+                        18.428988,
+                        43.857981
+                  ]
+            },
+            {
+                  "name": "Museum of Sarajevo",
+                  "text": "Muzeul principal din Sarajevo, care prezintă istoria diversă a orașului în mai multe locații.",
+                  "category": "museum",
+                  "coords": [
+                        18.427578,
+                        43.860871
+                  ]
+            },
+            {
+                  "name": "Svrzina kuća",
+                  "text": "Un exemplu bine conservat al unei case de locuit otomane tradiționale din secolul al XVIII-lea în Sarajevo.",
+                  "category": "museum",
+                  "coords": [
+                        18.429323,
+                        43.862452
+                  ]
+            },
+            {
+                  "name": "Zgrada željezničke stanice Bistrik",
+                  "text": "Clădirea istorică a gării Bistrik din Sarajevo a fost transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        18.432781,
+                        43.852725
+                  ]
+            },
+            {
+                  "name": "Saburina kuća",
+                  "text": "O casă istorică din Sarajevo, cunoscută pentru arhitectura sa otomană tradițională.",
+                  "category": "museum",
+                  "coords": [
+                        18.435811,
+                        43.863806
+                  ]
+            },
+            {
+                  "name": "Umjetnička galerija Bosne i Hercegovine",
+                  "text": "Cea mai importantă galerie de artă din Bosnia și Herțegovina, care găzduiește o colecție vastă de artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        18.424458,
+                        43.857796
+                  ]
+            },
+            {
+                  "name": "Tašlihan",
+                  "text": "Rămășițele arheologice ale unui fost caravanserai din secolul al XV-lea în centrul orașului Sarajevo.",
+                  "category": "historical",
+                  "coords": [
+                        18.42788,
+                        43.85861
+                  ]
+            },
+            {
+                  "name": "Vijećnica",
+                  "text": "Impunătoarea primărie din Sarajevo, Vijećnica, este un simbol al orașului și o capodoperă arhitecturală.",
+                  "category": "historical",
+                  "coords": [
+                        18.433385,
+                        43.859166
+                  ]
+            },
+            {
+                  "name": "Kamerni Teatar 55",
+                  "text": "Un cunoscut teatru de cameră din Sarajevo, apreciat pentru spectacolele sale inovatoare și intime.",
+                  "category": "cultural",
+                  "coords": [
+                        18.42127,
+                        43.858604
+                  ]
+            },
+            {
+                  "name": "Narodno pozorište Sarajevo",
+                  "text": "Teatrul Național din Sarajevo este cea mai veche și mai importantă instituție teatrală din țară.",
+                  "category": "cultural",
+                  "coords": [
+                        18.420729,
+                        43.856874
+                  ]
+            },
+            {
+                  "name": "Bosanski kulturni centar",
+                  "text": "Un centru cultural important din Sarajevo, situat în clădirea unei foste sinagogi.",
+                  "category": "cultural",
+                  "coords": [
+                        18.422041,
+                        43.857108
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Josipa",
+                  "text": "O biserică romano-catolică din Sarajevo, construită în stil neogotic.",
+                  "category": "religious",
+                  "coords": [
+                        18.406965,
+                        43.856501
+                  ]
+            },
+            {
+                  "name": "Hram Preobraženja Gospodnjeg",
+                  "text": "O biserică ortodoxă din Sarajevo, care se remarcă prin arhitectura sa circulară distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        18.390957,
+                        43.853329
+                  ]
+            },
+            {
+                  "name": "Stara pravoslavna crkva",
+                  "text": "Una dintre cele mai vechi biserici din Sarajevo, cunoscută pentru muzeul său important de icoane.",
+                  "category": "religious",
+                  "coords": [
+                        18.429996,
+                        43.860256
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Vinka Paulskoga",
+                  "text": "O biserică romano-catolică din Sarajevo, aparținând ordinului vincențian.",
+                  "category": "religious",
+                  "coords": [
+                        18.418858,
+                        43.858672
+                  ]
+            },
+            {
+                  "name": "Džamija Hasan Čoban Zade",
+                  "text": "Această moschee, cunoscută și sub numele de Moscheea Čobanija, a fost construită în secolul al XVI-lea în Sarajevo.",
+                  "category": "religious",
+                  "coords": [
+                        18.420906,
+                        43.855273
+                  ]
+            },
+            {
+                  "name": "Hadžijska džamija",
+                  "text": "Una dintre cele mai vechi moschei din Sarajevo, vizitată tradițional de pelerini înainte de călătoria lor.",
+                  "category": "religious",
+                  "coords": [
+                        18.434766,
+                        43.858495
+                  ]
+            },
+            {
+                  "name": "Kekeki-Sinanova džamija",
+                  "text": "O moschee din Sarajevo, cunoscută și sub numele de Moscheea Bakarevića.",
+                  "category": "religious",
+                  "coords": [
+                        18.431117,
+                        43.855078
+                  ]
+            },
+            {
+                  "name": "Čekrekčijina",
+                  "text": "O moschee distinctivă de la marginea bazarului Baščaršija din Sarajevo, datând din secolul al XVI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        18.431916,
+                        43.859884
+                  ]
+            },
+            {
+                  "name": "Careva džamija",
+                  "text": "Moscheea Împăratului este prima moschee construită în Sarajevo după cucerirea otomană.",
+                  "category": "religious",
+                  "coords": [
+                        18.430672,
+                        43.857435
+                  ]
+            },
+            {
+                  "name": "Alipašina džamija",
+                  "text": "O moschee elegantă din Sarajevo, considerată unul dintre cele mai frumoase exemple de arhitectură otomană din țară.",
+                  "category": "religious",
+                  "coords": [
+                        18.412763,
+                        43.857952
+                  ]
+            },
+            {
+                  "name": "Kapela Vidovdanskih heroja",
+                  "text": "O capelă din Sarajevo dedicată membrilor organizației Mlada Bosna.",
+                  "category": "religious",
+                  "coords": [
+                        18.411502,
+                        43.866809
+                  ]
+            },
+            {
+                  "name": "Gazi Husrev-begova džamija",
+                  "text": "Moscheea Gazi Husrev-beg este cea mai mare și mai importantă moschee din Bosnia și Herțegovina.",
+                  "category": "religious",
+                  "coords": [
+                        18.429026,
+                        43.859147
+                  ]
+            },
+            {
+                  "name": "Aškenaška sinagoga",
+                  "text": "Sinagoga așkenază din Sarajevo este singura sinagogă încă activă din oraș astăzi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42508,
+                        43.856314
+                  ]
+            },
+            {
+                  "name": "Katedrala Srca Isusova",
+                  "text": "Catedrala Inima lui Iisus este cea mai mare catedrală din Bosnia și Herțegovina și sediul Arhiepiscopiei de Sarajevo.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425362,
+                        43.859422
+                  ]
+            },
+            {
+                  "name": "Kuća Alije Đerzeleza",
+                  "text": "O casă istorică din Sarajevo, care reprezintă un exemplu semnificativ de arhitectură otomană.",
+                  "category": "landmark",
+                  "coords": [
+                        18.429602,
+                        43.86443
+                  ]
+            },
+            {
+                  "name": "Hum Tower",
+                  "text": "Un turn de televiziune distinctiv pe dealul Hum deasupra orașului Sarajevo, vizibil de la distanță.",
+                  "category": "tower",
+                  "coords": [
+                        18.386368,
+                        43.872476
+                  ]
+            },
+            {
+                  "name": "Eiffelov most",
+                  "text": "Un pod de fier din Sarajevo, asociat popular cu biroul lui Gustave Eiffel.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414263,
+                        43.856179
+                  ]
+            },
+            {
+                  "name": "Festina lente",
+                  "text": "Un pod pietonal modern din Sarajevo, cu o buclă distinctivă în mijloc.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417643,
+                        43.856301
+                  ]
+            },
+            {
+                  "name": "Most Suade Dilberović i Olge Sučić",
+                  "text": "Acest pod comemorează primele victime ale asediului orașului Sarajevo din 1992.",
+                  "category": "landmark",
+                  "coords": [
+                        18.406536,
+                        43.853298
+                  ]
+            },
+            {
+                  "name": "Drvenija most",
+                  "text": "Un pod de lemn cunoscut din Sarajevo, fiind o trecere populară pentru pietoni.",
+                  "category": "landmark",
+                  "coords": [
+                        18.423759,
+                        43.856555
+                  ]
+            },
+            {
+                  "name": "Ars Aevi Bridge",
+                  "text": "Un pod proiectat de Renzo Piano, care duce către Muzeul de Artă Contemporană Ars Aevi.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400913,
+                        43.853499
+                  ]
+            },
+            {
+                  "name": "Spomen-park Vraca",
+                  "text": "Un parc memorial din Sarajevo care comemorează rezistența și victimele celui de-al Doilea Război Mondial.",
+                  "category": "park",
+                  "coords": [
+                        18.399097,
+                        43.843537
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "Această grădină zoologică din Sarajevo oferă vizitatorilor ocazia de a vedea diverse specii de animale într-un mediu natural.",
+                  "category": "recreational",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "Ratni muzej",
+                  "text": "Acest muzeu din Sarajevo documentează evenimentele și istoria războiului din 1992.",
+                  "category": "museum",
+                  "coords": [
+                        18.434944,
+                        43.856316
+                  ]
+            },
+            {
+                  "name": "Palež kula",
+                  "text": "Această fortăreață istorică din Sarajevo este un exemplu de arhitectură defensivă a regiunii.",
+                  "category": "fortress",
+                  "coords": [
+                        18.426471,
+                        43.83818
+                  ]
+            },
+            {
+                  "name": "Kula Širokac",
+                  "text": "Această fostă poartă a orașului din Sarajevo este o rămășiță importantă a zidului istoric al cetății.",
+                  "category": "fortress",
+                  "coords": [
+                        18.437062,
+                        43.862331
+                  ]
+            },
+            {
+                  "name": "Višegradska kapija",
+                  "text": "Această poartă istorică a orașului a făcut odată parte din sistemul de fortificații din Sarajevo.",
+                  "category": "fortress",
+                  "coords": [
+                        18.445762,
+                        43.861882
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "Această biserică din Sarajevo este un edificiu sacru important pentru comunitatea religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        18.382638,
+                        43.852599
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum of the Jews of Bosnia and Herzegovina",
+                  "text": "A museum in Sarajevo located in the former New Synagogue, documenting Jewish history.",
+                  "category": "museum",
+                  "coords": [
+                        18.427806,
+                        43.859782
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Bosnia & Herzegovina",
+                  "text": "The Historical Museum in Sarajevo preserves testimonies of the history of Bosnia and Herzegovina.",
+                  "category": "museum",
+                  "coords": [
+                        18.400869,
+                        43.854975
+                  ]
+            },
+            {
+                  "name": "The Brusa Bezistan",
+                  "text": "A former covered bazaar in Sarajevo that now serves as a museum of city history.",
+                  "category": "museum",
+                  "coords": [
+                        18.430386,
+                        43.858803
+                  ]
+            },
+            {
+                  "name": "The Despić House",
+                  "text": "A museum in Sarajevo showcasing a preserved 19th-century residential house of a wealthy family.",
+                  "category": "museum",
+                  "coords": [
+                        18.427373,
+                        43.857633
+                  ]
+            },
+            {
+                  "name": "Museum of Sarajevo 1878-1918",
+                  "text": "This museum in Sarajevo focuses on the period of Austro-Hungarian administration from 1878 to 1918.",
+                  "category": "museum",
+                  "coords": [
+                        18.428988,
+                        43.857981
+                  ]
+            },
+            {
+                  "name": "Museum of Sarajevo",
+                  "text": "The main museum of Sarajevo, presenting the city's diverse history across several locations.",
+                  "category": "museum",
+                  "coords": [
+                        18.427578,
+                        43.860871
+                  ]
+            },
+            {
+                  "name": "Svrzo's House",
+                  "text": "A well-preserved example of a traditional 18th-century Ottoman residential house in Sarajevo.",
+                  "category": "museum",
+                  "coords": [
+                        18.429323,
+                        43.862452
+                  ]
+            },
+            {
+                  "name": "Zgrada željezničke stanice Bistrik",
+                  "text": "The historic Bistrik railway station building in Sarajevo has been converted into a museum.",
+                  "category": "museum",
+                  "coords": [
+                        18.432781,
+                        43.852725
+                  ]
+            },
+            {
+                  "name": "Saburina kuća",
+                  "text": "A historic residential house in Sarajevo known for its traditional Ottoman architecture.",
+                  "category": "museum",
+                  "coords": [
+                        18.435811,
+                        43.863806
+                  ]
+            },
+            {
+                  "name": "Umjetnička galerija Bosne i Hercegovine",
+                  "text": "The most important art gallery in Bosnia and Herzegovina, housing a large collection of modern art.",
+                  "category": "museum",
+                  "coords": [
+                        18.424458,
+                        43.857796
+                  ]
+            },
+            {
+                  "name": "Tašlihan",
+                  "text": "The archaeological remains of a former 15th-century caravansary in the center of Sarajevo.",
+                  "category": "historical",
+                  "coords": [
+                        18.42788,
+                        43.85861
+                  ]
+            },
+            {
+                  "name": "City Hall",
+                  "text": "The imposing City Hall of Sarajevo, known as Vijećnica, is a symbol of the city and an architectural masterpiece.",
+                  "category": "historical",
+                  "coords": [
+                        18.433385,
+                        43.859166
+                  ]
+            },
+            {
+                  "name": "Kamerni Teatar 55",
+                  "text": "A well-known chamber theatre in Sarajevo appreciated for its innovative and intimate performances.",
+                  "category": "cultural",
+                  "coords": [
+                        18.42127,
+                        43.858604
+                  ]
+            },
+            {
+                  "name": "Sarajevo National Theatre",
+                  "text": "The Sarajevo National Theatre is the oldest and most prominent theatre house in the country.",
+                  "category": "cultural",
+                  "coords": [
+                        18.420729,
+                        43.856874
+                  ]
+            },
+            {
+                  "name": "Bosanski kulturni centar",
+                  "text": "A significant cultural center in Sarajevo located in a former synagogue building.",
+                  "category": "cultural",
+                  "coords": [
+                        18.422041,
+                        43.857108
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Josipa",
+                  "text": "A Roman Catholic church in Sarajevo built in the Neo-Gothic style.",
+                  "category": "religious",
+                  "coords": [
+                        18.406965,
+                        43.856501
+                  ]
+            },
+            {
+                  "name": "Hram Preobraženja Gospodnjeg",
+                  "text": "An Orthodox church in Sarajevo known for its striking circular architecture.",
+                  "category": "religious",
+                  "coords": [
+                        18.390957,
+                        43.853329
+                  ]
+            },
+            {
+                  "name": "Old Orthodox Church",
+                  "text": "One of the oldest churches in Sarajevo, known for its significant museum of icons.",
+                  "category": "religious",
+                  "coords": [
+                        18.429996,
+                        43.860256
+                  ]
+            },
+            {
+                  "name": "Crkva svetog Vinka Paulskoga",
+                  "text": "A Roman Catholic church in Sarajevo belonging to the Vincentian order.",
+                  "category": "religious",
+                  "coords": [
+                        18.418858,
+                        43.858672
+                  ]
+            },
+            {
+                  "name": "Džamija Hasan Čoban Zade",
+                  "text": "This mosque, also known as the Čobanija Mosque, was built in the 16th century in Sarajevo.",
+                  "category": "religious",
+                  "coords": [
+                        18.420906,
+                        43.855273
+                  ]
+            },
+            {
+                  "name": "Hadžijska džamija",
+                  "text": "One of the oldest mosques in Sarajevo, traditionally visited by pilgrims before their journey.",
+                  "category": "religious",
+                  "coords": [
+                        18.434766,
+                        43.858495
+                  ]
+            },
+            {
+                  "name": "Kekeki-Sinanova džamija",
+                  "text": "A mosque in Sarajevo also known as the Bakarevića Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        18.431117,
+                        43.855078
+                  ]
+            },
+            {
+                  "name": "Čekrekčijina",
+                  "text": "A striking 16th-century mosque located at the edge of the Baščaršija bazaar in Sarajevo.",
+                  "category": "religious",
+                  "coords": [
+                        18.431916,
+                        43.859884
+                  ]
+            },
+            {
+                  "name": "Careva džamija",
+                  "text": "The Emperor's Mosque is the first mosque built in Sarajevo after the Ottoman conquest.",
+                  "category": "religious",
+                  "coords": [
+                        18.430672,
+                        43.857435
+                  ]
+            },
+            {
+                  "name": "Alipašina džamija",
+                  "text": "An elegant mosque in Sarajevo considered one of the finest examples of Ottoman architecture in the country.",
+                  "category": "religious",
+                  "coords": [
+                        18.412763,
+                        43.857952
+                  ]
+            },
+            {
+                  "name": "Kapela Vidovdanskih heroja",
+                  "text": "A chapel in Sarajevo dedicated to the members of the Mlada Bosna movement.",
+                  "category": "religious",
+                  "coords": [
+                        18.411502,
+                        43.866809
+                  ]
+            },
+            {
+                  "name": "Gazi Husrev-beg Mosque",
+                  "text": "The Gazi Husrev-beg Mosque is the largest and most important mosque in Bosnia and Herzegovina.",
+                  "category": "religious",
+                  "coords": [
+                        18.429026,
+                        43.859147
+                  ]
+            },
+            {
+                  "name": "Ashkenazi Synagogue",
+                  "text": "The Ashkenazi Synagogue in Sarajevo is the only active synagogue in the city today.",
+                  "category": "landmark",
+                  "coords": [
+                        18.42508,
+                        43.856314
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Cathedral",
+                  "text": "The Sacred Heart Cathedral is the largest cathedral in Bosnia and Herzegovina and the seat of the Archdiocese of Sarajevo.",
+                  "category": "landmark",
+                  "coords": [
+                        18.425362,
+                        43.859422
+                  ]
+            },
+            {
+                  "name": "Kuća Alije Đerzeleza",
+                  "text": "A historic residential house in Sarajevo representing a significant example of Ottoman architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        18.429602,
+                        43.86443
+                  ]
+            },
+            {
+                  "name": "Hum Tower",
+                  "text": "A prominent television tower on Hum hill above Sarajevo, visible from afar.",
+                  "category": "tower",
+                  "coords": [
+                        18.386368,
+                        43.872476
+                  ]
+            },
+            {
+                  "name": "Eiffelov most",
+                  "text": "An iron bridge in Sarajevo popularly associated with the office of Gustave Eiffel.",
+                  "category": "landmark",
+                  "coords": [
+                        18.414263,
+                        43.856179
+                  ]
+            },
+            {
+                  "name": "Festina lente",
+                  "text": "A modern pedestrian bridge in Sarajevo featuring a striking loop in the middle.",
+                  "category": "landmark",
+                  "coords": [
+                        18.417643,
+                        43.856301
+                  ]
+            },
+            {
+                  "name": "Most Suade Dilberović i Olge Sučić",
+                  "text": "This bridge commemorates the first victims of the siege of Sarajevo in 1992.",
+                  "category": "landmark",
+                  "coords": [
+                        18.406536,
+                        43.853298
+                  ]
+            },
+            {
+                  "name": "Drvenija most",
+                  "text": "A well-known wooden bridge in Sarajevo, which is a popular crossing point for pedestrians.",
+                  "category": "landmark",
+                  "coords": [
+                        18.423759,
+                        43.856555
+                  ]
+            },
+            {
+                  "name": "Ars Aevi Bridge",
+                  "text": "A bridge designed by Renzo Piano leading to the Ars Aevi Museum of Contemporary Art.",
+                  "category": "landmark",
+                  "coords": [
+                        18.400913,
+                        43.853499
+                  ]
+            },
+            {
+                  "name": "Vraca Memorial Park",
+                  "text": "A memorial park in Sarajevo commemorating the resistance and victims of World War II.",
+                  "category": "park",
+                  "coords": [
+                        18.399097,
+                        43.843537
+                  ]
+            },
+            {
+                  "name": "Zoološki vrt Pionirska dolina",
+                  "text": "This zoo in Sarajevo offers visitors the chance to see various animal species in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        18.412204,
+                        43.879453
+                  ]
+            },
+            {
+                  "name": "War museum 1992 Sarajevo",
+                  "text": "This museum in Sarajevo documents the events and history of the 1992 war.",
+                  "category": "museum",
+                  "coords": [
+                        18.434944,
+                        43.856316
+                  ]
+            },
+            {
+                  "name": "Palež kula",
+                  "text": "This historic fort in Sarajevo is an example of the region's former defensive architecture.",
+                  "category": "fortress",
+                  "coords": [
+                        18.426471,
+                        43.83818
+                  ]
+            },
+            {
+                  "name": "Kula Širokac",
+                  "text": "This former city gate in Sarajevo is a significant remnant of the historical city wall.",
+                  "category": "fortress",
+                  "coords": [
+                        18.437062,
+                        43.862331
+                  ]
+            },
+            {
+                  "name": "Višegradska kapija",
+                  "text": "This historic city gate was once part of Sarajevo's fortification system.",
+                  "category": "fortress",
+                  "coords": [
+                        18.445762,
+                        43.861882
+                  ]
+            },
+            {
+                  "name": "Crkva Presvetog Trojstva",
+                  "text": "This church in Sarajevo is an important sacred building for the local religious community.",
+                  "category": "religious",
+                  "coords": [
+                        18.382638,
+                        43.852599
+                  ]
+            }
+      ]
+},
     parent: "BA",
     type: "city",
     name: { de: "Börse Sarajevo (SASE)", hu: "Szarajevói Tőzsde (SASE)", ro: "Bursa de Valori Sarajevo (SASE)", en: "Sarajevo Stock Exchange (SASE)"},

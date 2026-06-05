@@ -3,7 +3,520 @@ import type { POI } from "./poi";
 
 export const poiExtraIrelandCities: POI[] = [
   {
-    id: "city-drogheda-extra",
+    id: "city-drogheda-extra", "sights": {
+      "de": [
+            {
+                  "name": "Millmount Museum",
+                  "text": "Ein Museum in einem Martello-Turm, das die Geschichte von Drogheda zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.349499,
+                        53.711632
+                  ]
+            },
+            {
+                  "name": "Funtasia",
+                  "text": "Ein großer Indoor-Themenpark und Wasserpark für Familien in Drogheda.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.363657,
+                        53.705348
+                  ]
+            },
+            {
+                  "name": "Magdalene Tower",
+                  "text": "Ein imposanter Glockenturm, der Überrest eines Dominikanerklosters aus dem 13. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        -6.351048,
+                        53.71823
+                  ]
+            },
+            {
+                  "name": "Old Drogheda Gaol",
+                  "text": "Eine archäologische Stätte an der Stelle des ehemaligen Gefängnisses von Drogheda.",
+                  "category": "historical",
+                  "coords": [
+                        -6.346738,
+                        53.715712
+                  ]
+            },
+            {
+                  "name": "Droichead Arts Centre",
+                  "text": "Ein multidisziplinäres Kunstzentrum und Theater in Drogheda.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.352817,
+                        53.714237
+                  ]
+            },
+            {
+                  "name": "Beaubec",
+                  "text": "Eine archäologische Ausgrabungsstätte einer mittelalterlichen Klosteranlage in Drogheda.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341757,
+                        53.694533
+                  ]
+            },
+            {
+                  "name": "Tommy Leddy Theatre",
+                  "text": "Ein lokales Theater in Drogheda für Musik und darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.372388,
+                        53.699655
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church of Ireland",
+                  "text": "Eine historische anglikanische Kirche mit beeindruckender Architektur in Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350256,
+                        53.716803
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Eine traditionsreiche christliche Kultstätte in der Stadt Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347457,
+                        53.712792
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Lourdes Church",
+                  "text": "Eine bedeutende katholische Kirche in Drogheda, die Unserer Lieben Frau gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350802,
+                        53.721515
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalen's Catholic Church",
+                  "text": "Eine katholische Kirche in Drogheda, die nach der heiligen Maria Magdalena benannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.355119,
+                        53.714297
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Eine dem heiligen Marien geweihte Kirche, ein Ort der Besinnung in Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347345,
+                        53.710437
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's",
+                  "text": "Eine dem heiligen Augustinus geweihte Kirche im Stadtgebiet von Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.349481,
+                        53.714525
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "Eine neugotische Kirche, in der das Haupt des Märtyrers Oliver Plunkett aufbewahrt wird.",
+                  "category": "religious",
+                  "coords": [
+                        -6.352425,
+                        53.715361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Millmount Museum",
+                  "text": "Drogheda történelmét bemutató múzeum egy Martello-toronyban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.349499,
+                        53.711632
+                  ]
+            },
+            {
+                  "name": "Funtasia",
+                  "text": "Nagy fedett élménypark és vízipark családoknak Droghedában.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.363657,
+                        53.705348
+                  ]
+            },
+            {
+                  "name": "Magdalene Tower",
+                  "text": "Egy 13. századi dominikánus kolostor fennmaradt harangtornya.",
+                  "category": "castle",
+                  "coords": [
+                        -6.351048,
+                        53.71823
+                  ]
+            },
+            {
+                  "name": "Old Drogheda Gaol",
+                  "text": "Régészeti terület Drogheda egykori börtönének helyén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.346738,
+                        53.715712
+                  ]
+            },
+            {
+                  "name": "Droichead Arts Centre",
+                  "text": "Többfunkciós művészeti központ és színház Droghedában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.352817,
+                        53.714237
+                  ]
+            },
+            {
+                  "name": "Beaubec",
+                  "text": "Középkori kolostori birtok régészeti lelőhelye Droghedában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341757,
+                        53.694533
+                  ]
+            },
+            {
+                  "name": "Tommy Leddy Theatre",
+                  "text": "Helyi színház Droghedában zenei és előadóművészeti esteknek.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.372388,
+                        53.699655
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church of Ireland",
+                  "text": "Történelmi anglikán templom lenyűgöző építészettel Droghedában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350256,
+                        53.716803
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Hagyományőrző keresztény vallási hely Drogheda városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347457,
+                        53.712792
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Lourdes Church",
+                  "text": "Jelentős katolikus templom Droghedában, Szűz Máriának szentelve.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350802,
+                        53.721515
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalen's Catholic Church",
+                  "text": "Szent Mária Magdolnáról elnevezett katolikus templom Droghedában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.355119,
+                        53.714297
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Szűz Máriának szentelt templom, az áhítat helye Droghedában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347345,
+                        53.710437
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's",
+                  "text": "Szent Ágostonnak szentelt templom Drogheda területén.",
+                  "category": "religious",
+                  "coords": [
+                        -6.349481,
+                        53.714525
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "Neogótikus templom, ahol Szent Oliver Plunkett ereklyéjét őrzik.",
+                  "category": "religious",
+                  "coords": [
+                        -6.352425,
+                        53.715361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Millmount Museum",
+                  "text": "Un muzeu situat într-un turn Martello, prezentând istoria orașului Drogheda.",
+                  "category": "museum",
+                  "coords": [
+                        -6.349499,
+                        53.711632
+                  ]
+            },
+            {
+                  "name": "Funtasia",
+                  "text": "Un parc tematic de interior și parc acvatic mare pentru familii în Drogheda.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.363657,
+                        53.705348
+                  ]
+            },
+            {
+                  "name": "Magdalene Tower",
+                  "text": "Un turn clopotniță impresionant, vestigiu al unei mănăstiri dominicane din secolul al XIII-lea.",
+                  "category": "castle",
+                  "coords": [
+                        -6.351048,
+                        53.71823
+                  ]
+            },
+            {
+                  "name": "Old Drogheda Gaol",
+                  "text": "Un sit arheologic pe locul fostei închisori din Drogheda.",
+                  "category": "historical",
+                  "coords": [
+                        -6.346738,
+                        53.715712
+                  ]
+            },
+            {
+                  "name": "Droichead Arts Centre",
+                  "text": "Un centru de artă multidisciplinar și teatru în Drogheda.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.352817,
+                        53.714237
+                  ]
+            },
+            {
+                  "name": "Beaubec",
+                  "text": "Un sit arheologic al unei foste moșii monahale medievale din Drogheda.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341757,
+                        53.694533
+                  ]
+            },
+            {
+                  "name": "Tommy Leddy Theatre",
+                  "text": "Un teatru local din Drogheda pentru muzică și arte spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.372388,
+                        53.699655
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church of Ireland",
+                  "text": "O biserică anglicană istorică cu o arhitectură impresionantă în Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350256,
+                        53.716803
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Un lăcaș de cult creștin cu tradiție în orașul Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347457,
+                        53.712792
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Lourdes Church",
+                  "text": "O biserică catolică importantă din Drogheda, dedicată Maicii Domnului.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350802,
+                        53.721515
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalen's Catholic Church",
+                  "text": "Biserica catolică numită după Sfânta Maria Magdalena din Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.355119,
+                        53.714297
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Biserica dedicată Sfintei Maria, un loc de rugăciune în Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347345,
+                        53.710437
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's",
+                  "text": "Biserica dedicată Sfântului Augustin în zona orașului Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.349481,
+                        53.714525
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "O biserică neogotică unde se păstrează moaștele Sfântului Oliver Plunkett.",
+                  "category": "religious",
+                  "coords": [
+                        -6.352425,
+                        53.715361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Millmount Museum",
+                  "text": "A museum housed in a Martello tower, showcasing the history of Drogheda.",
+                  "category": "museum",
+                  "coords": [
+                        -6.349499,
+                        53.711632
+                  ]
+            },
+            {
+                  "name": "Funtasia",
+                  "text": "A large indoor theme park and water park for families in Drogheda.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.363657,
+                        53.705348
+                  ]
+            },
+            {
+                  "name": "Magdalene Tower",
+                  "text": "An imposing bell tower, the remains of a 13th-century Dominican friary.",
+                  "category": "castle",
+                  "coords": [
+                        -6.351048,
+                        53.71823
+                  ]
+            },
+            {
+                  "name": "Old Drogheda Gaol",
+                  "text": "An archaeological site on the location of the former Drogheda jail.",
+                  "category": "historical",
+                  "coords": [
+                        -6.346738,
+                        53.715712
+                  ]
+            },
+            {
+                  "name": "Droichead Arts Centre",
+                  "text": "A multidisciplinary arts center and theater in Drogheda.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.352817,
+                        53.714237
+                  ]
+            },
+            {
+                  "name": "Beaubec",
+                  "text": "An archaeological excavation site of a medieval monastic estate in Drogheda.",
+                  "category": "historical",
+                  "coords": [
+                        -6.341757,
+                        53.694533
+                  ]
+            },
+            {
+                  "name": "Tommy Leddy Theatre",
+                  "text": "A local theater in Drogheda for music and performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.372388,
+                        53.699655
+                  ]
+            },
+            {
+                  "name": "Saint Peter's Church of Ireland",
+                  "text": "A historic Anglican church with impressive architecture in Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350256,
+                        53.716803
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "A traditional Christian place of worship in the town of Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347457,
+                        53.712792
+                  ]
+            },
+            {
+                  "name": "Our Lady Of Lourdes Church",
+                  "text": "A significant Catholic church in Drogheda dedicated to Our Lady.",
+                  "category": "religious",
+                  "coords": [
+                        -6.350802,
+                        53.721515
+                  ]
+            },
+            {
+                  "name": "Saint Mary Magdalen's Catholic Church",
+                  "text": "A Catholic church in Drogheda named after Saint Mary Magdalen.",
+                  "category": "religious",
+                  "coords": [
+                        -6.355119,
+                        53.714297
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A church dedicated to Saint Mary, a place of worship in Drogheda.",
+                  "category": "religious",
+                  "coords": [
+                        -6.347345,
+                        53.710437
+                  ]
+            },
+            {
+                  "name": "Saint Augustine's",
+                  "text": "A church dedicated to Saint Augustine in the Drogheda town area.",
+                  "category": "religious",
+                  "coords": [
+                        -6.349481,
+                        53.714525
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "A Neo-Gothic church housing the shrine of the martyr Saint Oliver Plunkett.",
+                  "category": "religious",
+                  "coords": [
+                        -6.352425,
+                        53.715361
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE-L",
     coords: [-6.3503, 53.7139],
@@ -64,6 +577,195 @@ export const poiExtraIrelandCities: POI[] = [
                         -6.087687,
                         53.195863
                   ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "Ballyman Glen ist ein Naturschutzgebiet in Bray.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "Das Mermaid County Wicklow Arts Centre ist ein Theater in Bray.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "Oldcourt Castle ist ein Schloss in Bray.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "Bray Head ist ein markanter Gipfel und ein bekanntes Wahrzeichen in Bray.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "Kilruddery House and Gardens ist eine Attraktion in Bray.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "Lord Meath's Lodge besteht aus Ruinen in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "Die Proclamation of the Irish Republic ist ein Denkmal in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Die Old Connaught Church umfasst Ruinen in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "Beauchamp ist ein Herrenhaus in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church ist eine lokale Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "Queen of Peace ist eine Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "St Fergal's ist eine religiöse Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "Die Saint Brigid's Church ist eine lokale Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "Most Holy Redeemer ist eine Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "St Peter's ist eine lokale religiöse Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's ist eine Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "Die Bray Methodist Church ist eine Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "St Andrew's ist eine lokale Kultstätte in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "Raheen-a-Cluig ist eine bemerkenswerte historische Kirche in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "Die Kilcroney Church ist ein bemerkenswertes Kirchengebäude in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "Martello No 2 Bray Beach ist ein Martello-Turm in der Stadt Bray.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
+                  ]
             }
       ],
       "hu": [
@@ -83,6 +785,195 @@ export const poiExtraIrelandCities: POI[] = [
                   "coords": [
                         -6.087687,
                         53.195863
+                  ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "A Ballyman Glen egy természetvédelmi terület Bray közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "A Mermaid County Wicklow Arts Centre egy színház Bray-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "Az Oldcourt Castle egy kastély Bray városában.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "A Bray Head egy kiemelkedő hegycsúcs és ismert tájékozódási pont Bray-ben.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "A Kilruddery House and Gardens egy látványosság Bray-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "A Lord Meath's Lodge romokból áll Bray városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "A Proclamation of the Irish Republic egy emlékmű Bray-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Az Old Connaught Church történelmi romokat foglal magában Bray-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "A Beauchamp egy kúria Bray városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Christ Church egy helyi istentiszteleti hely Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "A Queen of Peace egy vallási épület Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "A St Fergal's egy vallási istentiszteleti hely Bray városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "A Saint Brigid's Church egy helyi vallási épület Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "A Most Holy Redeemer egy istentiszteleti hely Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "A St Peter's egy helyi istentiszteleti hely Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "A St Paul's egy vallási épület Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "A Bray Methodist Church egy istentiszteleti hely Bray városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "A St Andrew's egy helyi vallási épület Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "A Raheen-a-Cluig egy jelentős történelmi templom Bray városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "A Kilcroney Church egy jelentős történelmi templomépület Bray-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "A Martello No 2 Bray Beach egy Martello-torony Bray városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
                   ]
             }
       ],
@@ -104,6 +995,195 @@ export const poiExtraIrelandCities: POI[] = [
                         -6.087687,
                         53.195863
                   ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "Ballyman Glen este o rezervație naturală lângă Bray.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "Mermaid County Wicklow Arts Centre este un teatru în Bray.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "Oldcourt Castle este un castel situat în orașul Bray.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "Bray Head este un vârf proeminent și un punct de reper bine cunoscut în Bray.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "Kilruddery House and Gardens este o atracție în Bray.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "Lord Meath's Lodge constă din ruine în Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "Proclamația Republicii Irlandeze este un monument în Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Biserica Old Connaught prezintă ruine din Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "Beauchamp este un conac situat în Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Biserica Christ Church este un lăcaș de cult local în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "Queen of Peace este un lăcaș de cult în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "St Fergal's este un lăcaș de cult religios în orașul Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "Biserica Sfânta Brigid este un lăcaș de cult local din Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "Most Holy Redeemer este un lăcaș de cult situat în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "St Peter's este un lăcaș de cult local din Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's este un lăcaș de cult în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "Biserica Metodistă din Bray este un lăcaș de cult în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "St Andrew's este un lăcaș de cult local situat în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "Raheen-a-Cluig este o biserică istorică notabilă situată în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "Biserica Kilcroney este o structură de biserică notabilă în Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "Martello No 2 Bray Beach este un turn Martello situat în orașul Bray.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
+                  ]
             }
       ],
       "en": [
@@ -123,6 +1203,195 @@ export const poiExtraIrelandCities: POI[] = [
                   "coords": [
                         -6.087687,
                         53.195863
+                  ]
+            },
+            {
+                  "name": "Ballyman Glen",
+                  "text": "Ballyman Glen is a nature reserve located near Bray.",
+                  "category": "natural",
+                  "coords": [
+                        -6.154788,
+                        53.204721
+                  ]
+            },
+            {
+                  "name": "Mermaid County Wicklow Arts Centre",
+                  "text": "Mermaid County Wicklow Arts Centre is a theatre in Bray.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.109118,
+                        53.201571
+                  ]
+            },
+            {
+                  "name": "Oldcourt Castle",
+                  "text": "Oldcourt Castle is a castle structure located in the town of Bray.",
+                  "category": "castle",
+                  "coords": [
+                        -6.115112,
+                        53.193371
+                  ]
+            },
+            {
+                  "name": "Bray Head",
+                  "text": "Bray Head is a prominent peak and well-known landmark in Bray.",
+                  "category": "natural",
+                  "coords": [
+                        -6.083745,
+                        53.190472
+                  ]
+            },
+            {
+                  "name": "Kilruddery House and Gardens",
+                  "text": "Kilruddery House and Gardens is an attraction in Bray.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.102299,
+                        53.184657
+                  ]
+            },
+            {
+                  "name": "Lord Meath's Lodge",
+                  "text": "Lord Meath's Lodge consists of ruins located in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.079953,
+                        53.191268
+                  ]
+            },
+            {
+                  "name": "Proclamation of the Irish Republic",
+                  "text": "Proclamation of the Irish Republic is a monument in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.114686,
+                        53.20499
+                  ]
+            },
+            {
+                  "name": "Old Connaught Church",
+                  "text": "Old Connaught Church features ruins of a religious site in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.131187,
+                        53.209048
+                  ]
+            },
+            {
+                  "name": "Beauchamp",
+                  "text": "Beauchamp is a manor house situated in Bray.",
+                  "category": "historical",
+                  "coords": [
+                        -6.121962,
+                        53.219758
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Christ Church is a local place of worship located in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.112428,
+                        53.197038
+                  ]
+            },
+            {
+                  "name": "Queen of Peace",
+                  "text": "Queen of Peace is a place of worship in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.10461,
+                        53.193053
+                  ]
+            },
+            {
+                  "name": "St Fergal's",
+                  "text": "St Fergal's is a religious place of worship situated in the town of Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.125608,
+                        53.188844
+                  ]
+            },
+            {
+                  "name": "Saint Brigid's Church",
+                  "text": "Saint Brigid's Church is a local place of worship in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.1377,
+                        53.188086
+                  ]
+            },
+            {
+                  "name": "Most Holy Redeemer",
+                  "text": "Most Holy Redeemer is a place of worship located in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110324,
+                        53.20359
+                  ]
+            },
+            {
+                  "name": "St Peter's",
+                  "text": "St Peter's is a local religious facility and place of worship in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.116658,
+                        53.209035
+                  ]
+            },
+            {
+                  "name": "St Paul's",
+                  "text": "St Paul's is a place of worship serving residents in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.110096,
+                        53.204884
+                  ]
+            },
+            {
+                  "name": "Bray Methodist Church",
+                  "text": "Bray Methodist Church is a place of worship located in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106562,
+                        53.203418
+                  ]
+            },
+            {
+                  "name": "St Andrew's",
+                  "text": "St Andrew's is a local place of worship situated in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.106874,
+                        53.204444
+                  ]
+            },
+            {
+                  "name": "Raheen-a-Cluig",
+                  "text": "Raheen-a-Cluig is a notable historical church located in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.090531,
+                        53.193797
+                  ]
+            },
+            {
+                  "name": "Kilcroney Church",
+                  "text": "Kilcroney Church is a notable historical church structure situated in Bray.",
+                  "category": "religious",
+                  "coords": [
+                        -6.138802,
+                        53.186162
+                  ]
+            },
+            {
+                  "name": "Martello No 2 Bray Beach",
+                  "text": "Martello No 2 Bray Beach is a martello tower located in the city of Bray.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.1017,
+                        53.206828
                   ]
             }
       ]

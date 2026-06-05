@@ -52,7 +52,1528 @@ export const cubaCities: POI[] = [
     historyYear: 1519,
     area: 728.26, image: "/poi-images/cu-havana.webp"},
   {
-    id: "cu-santiago",
+    id: "cu-santiago", "sights": {
+      "de": [
+            {
+                  "name": "Museo Provincial \"Emilio Bacardí Moreau\"",
+                  "text": "Das Museum Emilio Bacardí Moreau ist eines der ältesten Museen Kubas in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827849,
+                        20.021516
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Santiago de Cuba",
+                  "text": "Der Zoo von Santiago de Cuba ist ein öffentlicher Tierpark, der verschiedene Tierarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.801545,
+                        20.021306
+                  ]
+            },
+            {
+                  "name": "Monumento a Francisco Vicente Aguilera",
+                  "text": "Dieses Denkmal in Santiago de Cuba ist Francisco Vicente Aguilera gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        -75.826135,
+                        20.021782
+                  ]
+            },
+            {
+                  "name": "Santa Ifigenia",
+                  "text": "Santa Ifigenia ist eine historische Attraktion in der Stadt Santiago de Cuba.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.840797,
+                        20.035899
+                  ]
+            },
+            {
+                  "name": "Plaza de Marte",
+                  "text": "Die Plaza de Marte ist ein Park im Herzen von Santiago de Cuba.",
+                  "category": "park",
+                  "coords": [
+                        -75.8218,
+                        20.022277
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Hermanos País",
+                  "text": "Die Casa Natal de Hermanos País ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827814,
+                        20.026973
+                  ]
+            },
+            {
+                  "name": "Museo de la Imagen",
+                  "text": "Das Museo de la Imagen ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805657,
+                        20.024979
+                  ]
+            },
+            {
+                  "name": "Casa Memorial Vilma Espín Guillois",
+                  "text": "Das Casa Memorial Vilma Espín Guillois ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.826329,
+                        20.02366
+                  ]
+            },
+            {
+                  "name": "Museo Arquidiocesano",
+                  "text": "Das Museo Arquidiocesano ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829352,
+                        20.020673
+                  ]
+            },
+            {
+                  "name": "Museo Histórico 26 de Julio",
+                  "text": "Das Museo Histórico 26 de Julio ist ein Geschichtsmuseum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.81906,
+                        20.025835
+                  ]
+            },
+            {
+                  "name": "Casa Dranguet",
+                  "text": "Casa Dranguet ist ein Museum in der Stadt Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.021295
+                  ]
+            },
+            {
+                  "name": "Geburtshaus von Antonio Maceo",
+                  "text": "Die Casa Natal de Antonio Maceo ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.027752
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Museo \"Emilio Bacardí\"",
+                  "text": "Die Sala de Arte ist ein Museum der Emilio Bacardí Stiftung in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829116,
+                        20.021593
+                  ]
+            },
+            {
+                  "name": "Museo del Zoo",
+                  "text": "Das Museo del Zoo ist ein Museum in der Stadt Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802669,
+                        20.022409
+                  ]
+            },
+            {
+                  "name": "Museo del Ron",
+                  "text": "Das Museo del Ron ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827649,
+                        20.020394
+                  ]
+            },
+            {
+                  "name": "Museo de la Lucha Clandestina",
+                  "text": "Das Museo de la Lucha Clandestina ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.832452,
+                        20.019225
+                  ]
+            },
+            {
+                  "name": "Museo Abel Santamaría",
+                  "text": "Das Museo Abel Santamaría ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.821951,
+                        20.02652
+                  ]
+            },
+            {
+                  "name": "Museo de la Música",
+                  "text": "Das Museo de la Música ist ein Museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805698,
+                        20.026552
+                  ]
+            },
+            {
+                  "name": "Galería René Valdés Cedeño",
+                  "text": "Die Galería René Valdés Cedeño ist eine Galerie in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802906,
+                        20.027119
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Universal",
+                  "text": "Die Galería de Arte Universal ist eine lokale Galerie in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.808844,
+                        20.028402
+                  ]
+            },
+            {
+                  "name": "Galería Bayate",
+                  "text": "Die Galería Bayate ist eine Kunstgalerie in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829427,
+                        20.023578
+                  ]
+            },
+            {
+                  "name": "Bosque de los Héroes",
+                  "text": "Der Bosque de los Héroes ist ein bedeutendes Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.809792,
+                        20.02805
+                  ]
+            },
+            {
+                  "name": "Loma de San Juan",
+                  "text": "Loma de San Juan ist als Denkmal in Santiago de Cuba anerkannt.",
+                  "category": "historical",
+                  "coords": [
+                        -75.79843,
+                        20.020237
+                  ]
+            },
+            {
+                  "name": "Árbol de la Paz",
+                  "text": "Der Árbol de la Paz steht als Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.801118,
+                        20.022676
+                  ]
+            },
+            {
+                  "name": "Orologio",
+                  "text": "Orologio ist ein öffentliches Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.835238,
+                        20.021459
+                  ]
+            },
+            {
+                  "name": "Fortín de Yarayó",
+                  "text": "Das Fortín de Yarayó ist ein Denkmal in der Stadt Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.832133,
+                        20.033334
+                  ]
+            },
+            {
+                  "name": "Miguel Matamoros",
+                  "text": "Miguel Matamoros ist ein etabliertes Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.827735,
+                        20.022689
+                  ]
+            },
+            {
+                  "name": "Antonio Maceo",
+                  "text": "Antonio Maceo ist ein markantes Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.815681,
+                        20.038842
+                  ]
+            },
+            {
+                  "name": "CUBA Letters for Pictures",
+                  "text": "CUBA Letters for Pictures ist ein beliebtes Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.836343,
+                        20.02088
+                  ]
+            },
+            {
+                  "name": "El Diablo Rojo",
+                  "text": "El Diablo Rojo ist ein lokales Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833939,
+                        20.015161
+                  ]
+            },
+            {
+                  "name": "Monumento a Abel Santamaría",
+                  "text": "Das Monumento a Abel Santamaría ist ein Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.82097,
+                        20.025829
+                  ]
+            },
+            {
+                  "name": "Monumento a José Maceo Grajales",
+                  "text": "Das Monumento a José Maceo Grajales ist ein anerkanntes Denkmal in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.828902,
+                        20.031433
+                  ]
+            },
+            {
+                  "name": "Antiguo Matadero de la ciudad",
+                  "text": "Antiguo Matadero de la ciudad umfasst historische Ruinen in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833934,
+                        20.032228
+                  ]
+            },
+            {
+                  "name": "Columnas Antiguo Ferrocarril",
+                  "text": "Die Columnas Antiguo Ferrocarril bestehen aus bedeutenden Ruinen in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.842134,
+                        20.003525
+                  ]
+            },
+            {
+                  "name": "Mausoleo a José Martí",
+                  "text": "Das Jose Martí Mausoleum ist eine monumentale Stätte in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.839495,
+                        20.035659
+                  ]
+            },
+            {
+                  "name": "Teatro del 8 plantas",
+                  "text": "Das Teatro del 8 plantas ist ein Aufführungstheater in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.837883,
+                        20.038762
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Mariana Grajales",
+                  "text": "Das Anfiteatro Mariana Grajales ist ein Amphitheater in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.822943,
+                        20.044501
+                  ]
+            },
+            {
+                  "name": "Oriente",
+                  "text": "Oriente ist ein lokales Theater in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.831808,
+                        20.022784
+                  ]
+            },
+            {
+                  "name": "Teatro Martí",
+                  "text": "Das Teatro Martí dient als Theaterraum in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.829184,
+                        20.026071
+                  ]
+            },
+            {
+                  "name": "Estudio Teatro Macubá",
+                  "text": "Das Estudio Teatro Macubá ist ein Theater für darstellende Kunst in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.83016,
+                        20.017284
+                  ]
+            },
+            {
+                  "name": "Teatro El Quijote",
+                  "text": "Das Teatro El Quijote ist ein Theater in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810675,
+                        20.024578
+                  ]
+            },
+            {
+                  "name": "Teatro Docente Frank País García",
+                  "text": "Das Teatro Docente Frank País García ist ein pädagogisches Theater in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.81066,
+                        20.030554
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Provincial \"Emilio Bacardí Moreau\"",
+                  "text": "Az Emilio Bacardí Moreau Múzeum Kuba egyik legrégebbi múzeuma Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827849,
+                        20.021516
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Santiago de Cuba",
+                  "text": "A Santiago de Cuba Állatkert egy nyilvános park, amely különféle állatfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.801545,
+                        20.021306
+                  ]
+            },
+            {
+                  "name": "Monumento a Francisco Vicente Aguilera",
+                  "text": "Ez a Santiago de Cuba-i emlékmű Francisco Vicente Aguilera tiszteletére épült.",
+                  "category": "historical",
+                  "coords": [
+                        -75.826135,
+                        20.021782
+                  ]
+            },
+            {
+                  "name": "Santa Ifigenia",
+                  "text": "Santa Ifigenia egy történelmi látványosság Santiago de Cuba városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.840797,
+                        20.035899
+                  ]
+            },
+            {
+                  "name": "Plaza de Marte",
+                  "text": "A Plaza de Marte egy tágas park Santiago de Cuba szívében.",
+                  "category": "park",
+                  "coords": [
+                        -75.8218,
+                        20.022277
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Hermanos País",
+                  "text": "A Casa Natal de Hermanos País egy múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827814,
+                        20.026973
+                  ]
+            },
+            {
+                  "name": "Museo de la Imagen",
+                  "text": "A Museo de la Imagen egy múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805657,
+                        20.024979
+                  ]
+            },
+            {
+                  "name": "Casa Memorial Vilma Espín Guillois",
+                  "text": "A Casa Memorial Vilma Espín Guillois egy múzeum Santiago de Cuba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.826329,
+                        20.02366
+                  ]
+            },
+            {
+                  "name": "Museo Arquidiocesano",
+                  "text": "A Museo Arquidiocesano egy múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829352,
+                        20.020673
+                  ]
+            },
+            {
+                  "name": "Museo Histórico 26 de Julio",
+                  "text": "A Museo Histórico 26 de Julio egy történelmi múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.81906,
+                        20.025835
+                  ]
+            },
+            {
+                  "name": "Casa Dranguet",
+                  "text": "A Casa Dranguet egy múzeum Santiago de Cuba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.021295
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Antonio Maceo",
+                  "text": "A Casa Natal de Antonio Maceo egy múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.027752
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Museo \"Emilio Bacardí\"",
+                  "text": "A Sala de Arte egy múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829116,
+                        20.021593
+                  ]
+            },
+            {
+                  "name": "Museo del Zoo",
+                  "text": "A Museo del Zoo egy múzeum Santiago de Cuba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802669,
+                        20.022409
+                  ]
+            },
+            {
+                  "name": "Museo del Ron",
+                  "text": "A Museo del Ron egy múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827649,
+                        20.020394
+                  ]
+            },
+            {
+                  "name": "Museo de la Lucha Clandestina",
+                  "text": "A Museo de la Lucha Clandestina egy múzeum Santiago de Cubában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.832452,
+                        20.019225
+                  ]
+            },
+            {
+                  "name": "Museo Abel Santamaría",
+                  "text": "A Museo Abel Santamaría egy múzeum Santiago de Cuba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.821951,
+                        20.02652
+                  ]
+            },
+            {
+                  "name": "Museo de la Música",
+                  "text": "A Museo de la Música egy múzeum Santiago de Cuba területén.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805698,
+                        20.026552
+                  ]
+            },
+            {
+                  "name": "Galería René Valdés Cedeño",
+                  "text": "A Galería René Valdés Cedeño egy galéria Santiago de Cuba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802906,
+                        20.027119
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Universal",
+                  "text": "A Galería de Arte Universal egy helyi galéria Santiago de Cuba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.808844,
+                        20.028402
+                  ]
+            },
+            {
+                  "name": "Galería Bayate",
+                  "text": "A Galería Bayate egy művészeti galéria Santiago de Cuba városában.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829427,
+                        20.023578
+                  ]
+            },
+            {
+                  "name": "Bosque de los Héroes",
+                  "text": "A Bosque de los Héroes egy nevezetes emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.809792,
+                        20.02805
+                  ]
+            },
+            {
+                  "name": "Loma de San Juan",
+                  "text": "A Loma de San Juan egy elismert emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.79843,
+                        20.020237
+                  ]
+            },
+            {
+                  "name": "Árbol de la Paz",
+                  "text": "Az Árbol de la Paz egy emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.801118,
+                        20.022676
+                  ]
+            },
+            {
+                  "name": "Orologio",
+                  "text": "Az Orologio egy nyilvános emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.835238,
+                        20.021459
+                  ]
+            },
+            {
+                  "name": "Fortín de Yarayó",
+                  "text": "A Fortín de Yarayó egy emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.832133,
+                        20.033334
+                  ]
+            },
+            {
+                  "name": "Miguel Matamoros",
+                  "text": "A Miguel Matamoros egy emlékmű Santiago de Cuba területén.",
+                  "category": "historical",
+                  "coords": [
+                        -75.827735,
+                        20.022689
+                  ]
+            },
+            {
+                  "name": "Antonio Maceo",
+                  "text": "Az Antonio Maceo egy kiemelkedő emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.815681,
+                        20.038842
+                  ]
+            },
+            {
+                  "name": "CUBA Letters for Pictures",
+                  "text": "A CUBA Letters for Pictures egy népszerű emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.836343,
+                        20.02088
+                  ]
+            },
+            {
+                  "name": "El Diablo Rojo",
+                  "text": "Az El Diablo Rojo egy helyi emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833939,
+                        20.015161
+                  ]
+            },
+            {
+                  "name": "Monumento a Abel Santamaría",
+                  "text": "A Monumento a Abel Santamaría egy dedikált emlékmű Santiago de Cuba területén.",
+                  "category": "historical",
+                  "coords": [
+                        -75.82097,
+                        20.025829
+                  ]
+            },
+            {
+                  "name": "Monumento a José Maceo Grajales",
+                  "text": "A Monumento a José Maceo Grajales egy elismert emlékmű Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.828902,
+                        20.031433
+                  ]
+            },
+            {
+                  "name": "Antiguo Matadero de la ciudad",
+                  "text": "Az Antiguo Matadero de la ciudad történelmi romokat kínál Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833934,
+                        20.032228
+                  ]
+            },
+            {
+                  "name": "Columnas Antiguo Ferrocarril",
+                  "text": "A Columnas Antiguo Ferrocarril figyelemre méltó romokat alkot Santiago de Cuba területén.",
+                  "category": "historical",
+                  "coords": [
+                        -75.842134,
+                        20.003525
+                  ]
+            },
+            {
+                  "name": "Mausoleo a José Martí",
+                  "text": "A Jose Martí Mausoleum egy monumentális helyszín Santiago de Cuba városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.839495,
+                        20.035659
+                  ]
+            },
+            {
+                  "name": "Teatro del 8 plantas",
+                  "text": "A Teatro del 8 plantas egy előadószínház Santiago de Cuba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.837883,
+                        20.038762
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Mariana Grajales",
+                  "text": "Az Anfiteatro Mariana Grajales egy színházi amfiteátrum Santiago de Cuba területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.822943,
+                        20.044501
+                  ]
+            },
+            {
+                  "name": "Oriente",
+                  "text": "Az Oriente egy helyi színház Santiago de Cuba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.831808,
+                        20.022784
+                  ]
+            },
+            {
+                  "name": "Teatro Martí",
+                  "text": "A Teatro Martí színházi térként működik Santiago de Cuba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.829184,
+                        20.026071
+                  ]
+            },
+            {
+                  "name": "Estudio Teatro Macubá",
+                  "text": "Az Estudio Teatro Macubá egy előadóművészeti színház Santiago de Cuba területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.83016,
+                        20.017284
+                  ]
+            },
+            {
+                  "name": "Teatro El Quijote",
+                  "text": "A Teatro El Quijote egy színház Santiago de Cuba városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810675,
+                        20.024578
+                  ]
+            },
+            {
+                  "name": "Teatro Docente Frank País García",
+                  "text": "A Teatro Docente Frank País García egy oktatási színház Santiago de Cuba területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.81066,
+                        20.030554
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Provincial \"Emilio Bacardí Moreau\"",
+                  "text": "Muzeul Emilio Bacardí Moreau este unul dintre cele mai vechi muzee din Cuba, situat în Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827849,
+                        20.021516
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Santiago de Cuba",
+                  "text": "Grădina Zoologică din Santiago de Cuba este un parc zoologic public care expune diverse specii de animale.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.801545,
+                        20.021306
+                  ]
+            },
+            {
+                  "name": "Monumento a Francisco Vicente Aguilera",
+                  "text": "Acest monument din Santiago de Cuba îi este dedicat lui Francisco Vicente Aguilera.",
+                  "category": "historical",
+                  "coords": [
+                        -75.826135,
+                        20.021782
+                  ]
+            },
+            {
+                  "name": "Santa Ifigenia",
+                  "text": "Santa Ifigenia este o atracție istorică situată în orașul Santiago de Cuba.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.840797,
+                        20.035899
+                  ]
+            },
+            {
+                  "name": "Plaza de Marte",
+                  "text": "Plaza de Marte este un parc spațios situat în orașul Santiago de Cuba.",
+                  "category": "park",
+                  "coords": [
+                        -75.8218,
+                        20.022277
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Hermanos País",
+                  "text": "Casa Natal de Hermanos País este un muzeu din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827814,
+                        20.026973
+                  ]
+            },
+            {
+                  "name": "Museo de la Imagen",
+                  "text": "Museo de la Imagen este un muzeu din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805657,
+                        20.024979
+                  ]
+            },
+            {
+                  "name": "Casa Memorial Vilma Espín Guillois",
+                  "text": "Casa Memorial Vilma Espín Guillois este un muzeu memorial situat în Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.826329,
+                        20.02366
+                  ]
+            },
+            {
+                  "name": "Museo Arquidiocesano",
+                  "text": "Museo Arquidiocesano este un muzeu din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829352,
+                        20.020673
+                  ]
+            },
+            {
+                  "name": "Museo Histórico 26 de Julio",
+                  "text": "Museo Histórico 26 de Julio este un muzeu de istorie din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.81906,
+                        20.025835
+                  ]
+            },
+            {
+                  "name": "Casa Dranguet",
+                  "text": "Casa Dranguet este un muzeu situat în orașul Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.021295
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Antonio Maceo",
+                  "text": "Casa Natal de Antonio Maceo este un muzeu din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.027752
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Museo \"Emilio Bacardí\"",
+                  "text": "Sala de Arte este un muzeu din orașul Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829116,
+                        20.021593
+                  ]
+            },
+            {
+                  "name": "Museo del Zoo",
+                  "text": "Museo del Zoo este un muzeu situat în Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802669,
+                        20.022409
+                  ]
+            },
+            {
+                  "name": "Museo del Ron",
+                  "text": "Museo del Ron este un muzeu din orașul Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827649,
+                        20.020394
+                  ]
+            },
+            {
+                  "name": "Museo de la Lucha Clandestina",
+                  "text": "Museo de la Lucha Clandestina este un muzeu din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.832452,
+                        20.019225
+                  ]
+            },
+            {
+                  "name": "Museo Abel Santamaría",
+                  "text": "Museo Abel Santamaría este un muzeu situat în Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.821951,
+                        20.02652
+                  ]
+            },
+            {
+                  "name": "Museo de la Música",
+                  "text": "Museo de la Música este un muzeu localizat în Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805698,
+                        20.026552
+                  ]
+            },
+            {
+                  "name": "Galería René Valdés Cedeño",
+                  "text": "Galería René Valdés Cedeño este o galerie din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802906,
+                        20.027119
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Universal",
+                  "text": "Galería de Arte Universal este o galerie locală din Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.808844,
+                        20.028402
+                  ]
+            },
+            {
+                  "name": "Galería Bayate",
+                  "text": "Galería Bayate este o galerie de artă în Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829427,
+                        20.023578
+                  ]
+            },
+            {
+                  "name": "Bosque de los Héroes",
+                  "text": "Bosque de los Héroes este un monument notabil din Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.809792,
+                        20.02805
+                  ]
+            },
+            {
+                  "name": "Loma de San Juan",
+                  "text": "Loma de San Juan este recunoscut ca monument în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.79843,
+                        20.020237
+                  ]
+            },
+            {
+                  "name": "Árbol de la Paz",
+                  "text": "Árbol de la Paz este un monument aflat în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.801118,
+                        20.022676
+                  ]
+            },
+            {
+                  "name": "Orologio",
+                  "text": "Orologio este un monument public situat în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.835238,
+                        20.021459
+                  ]
+            },
+            {
+                  "name": "Fortín de Yarayó",
+                  "text": "Fortín de Yarayó este un monument situat în orașul Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.832133,
+                        20.033334
+                  ]
+            },
+            {
+                  "name": "Miguel Matamoros",
+                  "text": "Miguel Matamoros este un monument stabilit în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.827735,
+                        20.022689
+                  ]
+            },
+            {
+                  "name": "Antonio Maceo",
+                  "text": "Antonio Maceo este un monument proeminent aflat în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.815681,
+                        20.038842
+                  ]
+            },
+            {
+                  "name": "CUBA Letters for Pictures",
+                  "text": "CUBA Letters for Pictures este un monument popular din Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.836343,
+                        20.02088
+                  ]
+            },
+            {
+                  "name": "El Diablo Rojo",
+                  "text": "El Diablo Rojo este un monument localizat în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833939,
+                        20.015161
+                  ]
+            },
+            {
+                  "name": "Monumento a Abel Santamaría",
+                  "text": "Monumento a Abel Santamaría este un monument dedicat în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.82097,
+                        20.025829
+                  ]
+            },
+            {
+                  "name": "Monumento a José Maceo Grajales",
+                  "text": "Monumento a José Maceo Grajales este un monument recunoscut din Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.828902,
+                        20.031433
+                  ]
+            },
+            {
+                  "name": "Antiguo Matadero de la ciudad",
+                  "text": "Antiguo Matadero de la ciudad prezintă ruine istorice în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833934,
+                        20.032228
+                  ]
+            },
+            {
+                  "name": "Columnas Antiguo Ferrocarril",
+                  "text": "Columnas Antiguo Ferrocarril constă din ruine notabile în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.842134,
+                        20.003525
+                  ]
+            },
+            {
+                  "name": "Mausoleo a José Martí",
+                  "text": "Jose Martí Mausoleum este un sit monumental în Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.839495,
+                        20.035659
+                  ]
+            },
+            {
+                  "name": "Teatro del 8 plantas",
+                  "text": "Teatro del 8 plantas este un teatru de spectacole din Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.837883,
+                        20.038762
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Mariana Grajales",
+                  "text": "Anfiteatro Mariana Grajales este un amfiteatru teatral în Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.822943,
+                        20.044501
+                  ]
+            },
+            {
+                  "name": "Oriente",
+                  "text": "Oriente este un teatru local din Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.831808,
+                        20.022784
+                  ]
+            },
+            {
+                  "name": "Teatro Martí",
+                  "text": "Teatro Martí servește drept spațiu teatral în Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.829184,
+                        20.026071
+                  ]
+            },
+            {
+                  "name": "Estudio Teatro Macubá",
+                  "text": "Estudio Teatro Macubá este un teatru de arte performative din Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.83016,
+                        20.017284
+                  ]
+            },
+            {
+                  "name": "Teatro El Quijote",
+                  "text": "Teatro El Quijote este un teatru situat în Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810675,
+                        20.024578
+                  ]
+            },
+            {
+                  "name": "Teatro Docente Frank País García",
+                  "text": "Teatro Docente Frank País García este un teatru educațional din Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.81066,
+                        20.030554
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Provincial \"Emilio Bacardí Moreau\"",
+                  "text": "The Emilio Bacardí Moreau Museum is one of Cuba's oldest museums, located in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827849,
+                        20.021516
+                  ]
+            },
+            {
+                  "name": "Parque Zoológico de Santiago de Cuba",
+                  "text": "The Santiago de Cuba Zoo is a public zoological park displaying various animal species.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.801545,
+                        20.021306
+                  ]
+            },
+            {
+                  "name": "Monumento a Francisco Vicente Aguilera",
+                  "text": "This monument in Santiago de Cuba is dedicated to Francisco Vicente Aguilera.",
+                  "category": "historical",
+                  "coords": [
+                        -75.826135,
+                        20.021782
+                  ]
+            },
+            {
+                  "name": "Santa Ifigenia",
+                  "text": "Santa Ifigenia is a historic attraction located in the city of Santiago de Cuba.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.840797,
+                        20.035899
+                  ]
+            },
+            {
+                  "name": "Plaza de Marte",
+                  "text": "Plaza de Marte is a spacious park situated in Santiago de Cuba.",
+                  "category": "park",
+                  "coords": [
+                        -75.8218,
+                        20.022277
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Hermanos País",
+                  "text": "The Casa Natal de Hermanos País is a historic house museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827814,
+                        20.026973
+                  ]
+            },
+            {
+                  "name": "Museo de la Imagen",
+                  "text": "The Museo de la Imagen is a museum dedicated to imagery in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805657,
+                        20.024979
+                  ]
+            },
+            {
+                  "name": "Casa Memorial Vilma Espín Guillois",
+                  "text": "The Casa Memorial Vilma Espín Guillois is a memorial museum located in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.826329,
+                        20.02366
+                  ]
+            },
+            {
+                  "name": "Museo Arquidiocesano",
+                  "text": "The Museo Arquidiocesano is a museum situated in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829352,
+                        20.020673
+                  ]
+            },
+            {
+                  "name": "Museo Histórico 26 de Julio",
+                  "text": "The Museo Histórico 26 de Julio is a history museum located in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.81906,
+                        20.025835
+                  ]
+            },
+            {
+                  "name": "Casa Dranguet",
+                  "text": "Casa Dranguet is a cultural museum located in the city of Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.021295
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Antonio Maceo",
+                  "text": "The Casa Natal de Antonio Maceo is a museum dedicated to Antonio Maceo.",
+                  "category": "museum",
+                  "coords": [
+                        -75.830437,
+                        20.027752
+                  ]
+            },
+            {
+                  "name": "Sala de Arte Museo \"Emilio Bacardí\"",
+                  "text": "The Sala de Arte is an art museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829116,
+                        20.021593
+                  ]
+            },
+            {
+                  "name": "Museo del Zoo",
+                  "text": "The Museo del Zoo is an animal-themed museum situated in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802669,
+                        20.022409
+                  ]
+            },
+            {
+                  "name": "Museo del Ron",
+                  "text": "The Museo del Ron is a museum located in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.827649,
+                        20.020394
+                  ]
+            },
+            {
+                  "name": "Museo de la Lucha Clandestina",
+                  "text": "The Museo de la Lucha Clandestina is a history museum in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.832452,
+                        20.019225
+                  ]
+            },
+            {
+                  "name": "Museo Abel Santamaría",
+                  "text": "The Museo Abel Santamaría is a museum located in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.821951,
+                        20.02652
+                  ]
+            },
+            {
+                  "name": "Museo de la Música",
+                  "text": "The Museo de la Música is a museum situated in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.805698,
+                        20.026552
+                  ]
+            },
+            {
+                  "name": "Galería René Valdés Cedeño",
+                  "text": "Galería René Valdés Cedeño is a gallery space in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.802906,
+                        20.027119
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Universal",
+                  "text": "Galería de Arte Universal is a local gallery in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.808844,
+                        20.028402
+                  ]
+            },
+            {
+                  "name": "Galería Bayate",
+                  "text": "Galería Bayate serves as an art gallery in Santiago de Cuba.",
+                  "category": "museum",
+                  "coords": [
+                        -75.829427,
+                        20.023578
+                  ]
+            },
+            {
+                  "name": "Bosque de los Héroes",
+                  "text": "Bosque de los Héroes is a notable monument located in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.809792,
+                        20.02805
+                  ]
+            },
+            {
+                  "name": "Loma de San Juan",
+                  "text": "Loma de San Juan is recognized as a monument in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.79843,
+                        20.020237
+                  ]
+            },
+            {
+                  "name": "Árbol de la Paz",
+                  "text": "Árbol de la Paz stands as a monument in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.801118,
+                        20.022676
+                  ]
+            },
+            {
+                  "name": "Orologio",
+                  "text": "Orologio is a public monument situated in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.835238,
+                        20.021459
+                  ]
+            },
+            {
+                  "name": "Fortín de Yarayó",
+                  "text": "Fortín de Yarayó is a monument located in the city of Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.832133,
+                        20.033334
+                  ]
+            },
+            {
+                  "name": "Miguel Matamoros",
+                  "text": "Miguel Matamoros is an established monument in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.827735,
+                        20.022689
+                  ]
+            },
+            {
+                  "name": "Antonio Maceo",
+                  "text": "Antonio Maceo is a prominent monument found in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.815681,
+                        20.038842
+                  ]
+            },
+            {
+                  "name": "CUBA Letters for Pictures",
+                  "text": "CUBA Letters for Pictures is a popular monument in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.836343,
+                        20.02088
+                  ]
+            },
+            {
+                  "name": "El Diablo Rojo",
+                  "text": "El Diablo Rojo is a localized monument in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833939,
+                        20.015161
+                  ]
+            },
+            {
+                  "name": "Monumento a Abel Santamaría",
+                  "text": "Monumento a Abel Santamaría is a dedicated monument in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.82097,
+                        20.025829
+                  ]
+            },
+            {
+                  "name": "Monumento a José Maceo Grajales",
+                  "text": "Monumento a José Maceo Grajales is a recognized monument in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.828902,
+                        20.031433
+                  ]
+            },
+            {
+                  "name": "Antiguo Matadero de la ciudad",
+                  "text": "Antiguo Matadero de la ciudad features historical ruins in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.833934,
+                        20.032228
+                  ]
+            },
+            {
+                  "name": "Columnas Antiguo Ferrocarril",
+                  "text": "Columnas Antiguo Ferrocarril consists of notable ruins in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.842134,
+                        20.003525
+                  ]
+            },
+            {
+                  "name": "Jose Martí Mausoleum",
+                  "text": "Jose Martí Mausoleum is a monumental site in Santiago de Cuba.",
+                  "category": "historical",
+                  "coords": [
+                        -75.839495,
+                        20.035659
+                  ]
+            },
+            {
+                  "name": "Teatro del 8 plantas",
+                  "text": "Teatro del 8 plantas is a performance theatre in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.837883,
+                        20.038762
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Mariana Grajales",
+                  "text": "Anfiteatro Mariana Grajales is a theatrical amphitheatre in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.822943,
+                        20.044501
+                  ]
+            },
+            {
+                  "name": "Oriente",
+                  "text": "Oriente is a local theatre found in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.831808,
+                        20.022784
+                  ]
+            },
+            {
+                  "name": "Teatro Martí",
+                  "text": "Teatro Martí serves as a theatre space in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.829184,
+                        20.026071
+                  ]
+            },
+            {
+                  "name": "Estudio Teatro Macubá",
+                  "text": "Estudio Teatro Macubá is a performing arts theatre in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.83016,
+                        20.017284
+                  ]
+            },
+            {
+                  "name": "Teatro El Quijote",
+                  "text": "Teatro El Quijote is a theatre venue situated in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.810675,
+                        20.024578
+                  ]
+            },
+            {
+                  "name": "Teatro Docente Frank País García",
+                  "text": "Teatro Docente Frank País García is an educational theatre in Santiago de Cuba.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.81066,
+                        20.030554
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU",
     coords: [-75.8212, 20.0208],
@@ -139,7 +1660,880 @@ export const cubaCities: POI[] = [
     },
     length: 20000, image: "/poi-images/cu-varadero.webp"},
   {
-    id: "cu-vinales",
+    id: "cu-vinales", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal de Viñales Adela Azcuy Labrador",
+                  "text": "Städtisches Museum, das die lokale Geschichte und Kultur von Viñales dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -83.710772,
+                        22.614953
+                  ]
+            },
+            {
+                  "name": "Casa del campesino",
+                  "text": "Museum, das das traditionelle bäuerliche Leben in der Region veranschaulicht.",
+                  "category": "museum",
+                  "coords": [
+                        -83.714622,
+                        22.612736
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Casa del Veguero",
+                  "text": "Kulturzentrum, das sich auf die Geschichte des Tabakanbaus konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -83.712133,
+                        22.607937
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Viñales",
+                  "text": "Ein UNESCO-Weltkulturerbe, das für seine einzigartige Karstlandschaft und Mogotes bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -83.78713,
+                        22.586541
+                  ]
+            },
+            {
+                  "name": "Rancho Alegre",
+                  "text": "Eine lokale Attraktion, die traditionelle Erlebnisse in der Region Viñales bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.699732,
+                        22.633284
+                  ]
+            },
+            {
+                  "name": "Escogida",
+                  "text": "Eine Einrichtung, in der Tabakblätter sortiert und für die Zigarrenherstellung verarbeitet werden.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706278,
+                        22.625989
+                  ]
+            },
+            {
+                  "name": "Mural de la Prehistoria",
+                  "text": "Ein riesiges Wandgemälde an einer Felswand, das die prähistorische Entwicklung darstellt.",
+                  "category": "natural",
+                  "coords": [
+                        -83.740396,
+                        22.618552
+                  ]
+            },
+            {
+                  "name": "Vega Tabaco Juan Luis",
+                  "text": "Eine traditionelle Tabakfarm in Viñales, die Einblicke in den lokalen Anbau bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700699,
+                        22.63286
+                  ]
+            },
+            {
+                  "name": "Vega de Tabaco",
+                  "text": "Eine typische Plantage in der Region, auf der hochwertiger kubanischer Tabak angebaut wird.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.702484,
+                        22.623223
+                  ]
+            },
+            {
+                  "name": "Alquiler de caballos",
+                  "text": "Ein lokaler Anbieter für Reitausflüge durch das malerische Tal von Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706121,
+                        22.618478
+                  ]
+            },
+            {
+                  "name": "Pferde reiten",
+                  "text": "Ein beliebter Ausgangspunkt für geführte Reittouren durch die Natur von Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.70617,
+                        22.630796
+                  ]
+            },
+            {
+                  "name": "Domingo Ramos Enríquez",
+                  "text": "Ein lokales Denkmal zu Ehren von Domingo Ramos Enríquez in Viñales.",
+                  "category": "historical",
+                  "coords": [
+                        -83.72359,
+                        22.595997
+                  ]
+            },
+            {
+                  "name": "Alquiler y Monta de Caballos",
+                  "text": "Eine Station für die Vermietung von Pferden für Ausflüge in die Umgebung.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.708914,
+                        22.631781
+                  ]
+            },
+            {
+                  "name": "Tobacco origins",
+                  "text": "Ein informativer Ort, der sich mit der Geschichte und den Ursprüngen des Tabaks befasst.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711402,
+                        22.611197
+                  ]
+            },
+            {
+                  "name": "Bega de tabaco Coco Solo",
+                  "text": "Eine familiengeführte Tabakfarm, die den traditionellen Prozess der Tabakherstellung zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.697272,
+                        22.62656
+                  ]
+            },
+            {
+                  "name": "Caballos de los Mogotes",
+                  "text": "Ein Reitservice, der Ausflüge zu den berühmten Mogote-Felsen anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.719429,
+                        22.613787
+                  ]
+            },
+            {
+                  "name": "Punto de encuentro con JMCVINALESAVENTURA",
+                  "text": "Ein Treffpunkt für geführte Abenteuertouren in der Region Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.707266,
+                        22.6182
+                  ]
+            },
+            {
+                  "name": "Paseo a Caballo Viñales",
+                  "text": "Ein Anbieter für geführte Ausritte durch die Landschaft von Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711819,
+                        22.615486
+                  ]
+            },
+            {
+                  "name": "La Ermita",
+                  "text": "Ein Aussichtspunkt bei der gleichnamigen Ermita, der einen weiten Blick über das Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -83.699567,
+                        22.611783
+                  ]
+            },
+            {
+                  "name": "Finca El Romero",
+                  "text": "Eine ökologische Farm, die für ihre nachhaltige Landwirtschaft und Naturverbundenheit bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.704074,
+                        22.636136
+                  ]
+            },
+            {
+                  "name": "Finca de Tabaco de Gerardo",
+                  "text": "Eine lokale Tabakplantage, die Einblicke in den Alltag kubanischer Bauern bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.716673,
+                        22.620619
+                  ]
+            },
+            {
+                  "name": "Viñales Bike Tour, una mirada diferente",
+                  "text": "Ein lokaler Fahrradverleih für Erkundungstouren durch die Umgebung von Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.709611,
+                        22.611883
+                  ]
+            },
+            {
+                  "name": "Mirador del Porri",
+                  "text": "Ein Aussichtspunkt, der eine beeindruckende Perspektive auf die Mogotes bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700842,
+                        22.629248
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "Ein privater botanischer Garten mit einer Vielzahl an tropischen Pflanzenarten.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706257,
+                        22.619613
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal de Viñales Adela Azcuy Labrador",
+                  "text": "Városi múzeum, amely Viñales helyi történelmét és kultúráját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -83.710772,
+                        22.614953
+                  ]
+            },
+            {
+                  "name": "Casa del campesino",
+                  "text": "Múzeum, amely a régió hagyományos paraszti életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -83.714622,
+                        22.612736
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Casa del Veguero",
+                  "text": "Kulturális központ, amely a dohánytermesztés történetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -83.712133,
+                        22.607937
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Viñales",
+                  "text": "Az UNESCO világörökség része, amely egyedülálló karsztvidékéről és mogote szikláiról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -83.78713,
+                        22.586541
+                  ]
+            },
+            {
+                  "name": "Rancho Alegre",
+                  "text": "Helyi látványosság, amely hagyományos élményeket kínál Viñales régiójában.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.699732,
+                        22.633284
+                  ]
+            },
+            {
+                  "name": "Escogida",
+                  "text": "Egy üzem, ahol a dohányleveleket válogatják és előkészítik a szivarkészítéshez.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706278,
+                        22.625989
+                  ]
+            },
+            {
+                  "name": "Mural de la Prehistoria",
+                  "text": "Egy hatalmas sziklafalfestmény, amely a történelem előtti fejlődést ábrázolja.",
+                  "category": "natural",
+                  "coords": [
+                        -83.740396,
+                        22.618552
+                  ]
+            },
+            {
+                  "name": "Vega Tabaco Juan Luis",
+                  "text": "Hagyományos dohányfarm Viñalesben, amely betekintést nyújt a helyi termesztésbe.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700699,
+                        22.63286
+                  ]
+            },
+            {
+                  "name": "Vega de Tabaco",
+                  "text": "A régió egyik tipikus ültetvénye, ahol kiváló minőségű kubai dohányt termesztenek.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.702484,
+                        22.623223
+                  ]
+            },
+            {
+                  "name": "Alquiler de caballos",
+                  "text": "Lovastúrákat kínáló helyi szolgáltató Viñales festői völgyében.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706121,
+                        22.618478
+                  ]
+            },
+            {
+                  "name": "Paseos a caballo en Viñales",
+                  "text": "Népszerű kiindulópont a Viñales természetvédelmi területén zajló vezetett lovastúrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.70617,
+                        22.630796
+                  ]
+            },
+            {
+                  "name": "Domingo Ramos Enríquez",
+                  "text": "Helyi emlékmű Domingo Ramos Enríquez tiszteletére Viñalesben.",
+                  "category": "historical",
+                  "coords": [
+                        -83.72359,
+                        22.595997
+                  ]
+            },
+            {
+                  "name": "Alquiler y Monta de Caballos",
+                  "text": "Lovas kirándulásokhoz lovakat kölcsönző állomás a környéken.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.708914,
+                        22.631781
+                  ]
+            },
+            {
+                  "name": "Tobacco origins",
+                  "text": "Informatív helyszín, amely a dohány történetével és eredetével foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711402,
+                        22.611197
+                  ]
+            },
+            {
+                  "name": "Bega de tabaco Coco Solo",
+                  "text": "Családi dohányfarm, amely a dohánykészítés hagyományos folyamatát mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.697272,
+                        22.62656
+                  ]
+            },
+            {
+                  "name": "Caballos de los Mogotes",
+                  "text": "Lovas szolgáltatás, amely kirándulásokat kínál a híres mogote sziklákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.719429,
+                        22.613787
+                  ]
+            },
+            {
+                  "name": "Punto de encuentro con JMCVINALESAVENTURA",
+                  "text": "Találkozási pont a Viñales régióban zajló vezetett kalandtúrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.707266,
+                        22.6182
+                  ]
+            },
+            {
+                  "name": "Paseo a Caballo Viñales",
+                  "text": "Lovastúrákat kínáló szolgáltató Viñales vidékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711819,
+                        22.615486
+                  ]
+            },
+            {
+                  "name": "La Ermita",
+                  "text": "Kilátópont a hasonló nevű remetelaknál, amely tágas kilátást nyújt a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        -83.699567,
+                        22.611783
+                  ]
+            },
+            {
+                  "name": "Finca El Romero",
+                  "text": "Ökológiai farm, amely fenntartható mezőgazdaságáról és természetközeliségéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.704074,
+                        22.636136
+                  ]
+            },
+            {
+                  "name": "Finca de Tabaco de Gerardo",
+                  "text": "Helyi dohányültetvény, amely betekintést nyújt a kubai gazdák mindennapjaiba.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.716673,
+                        22.620619
+                  ]
+            },
+            {
+                  "name": "Viñales Bike Tour, una mirada diferente",
+                  "text": "Helyi kerékpárkölcsönző Viñales környékének felfedezéséhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.709611,
+                        22.611883
+                  ]
+            },
+            {
+                  "name": "Mirador del Porri",
+                  "text": "Kilátóhely, amely lenyűgöző perspektívát kínál a mogote sziklákra.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700842,
+                        22.629248
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "Magán botanikus kert számos trópusi növényfajjal.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706257,
+                        22.619613
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal de Viñales Adela Azcuy Labrador",
+                  "text": "Muzeu municipal care documentează istoria și cultura locală din Viñales.",
+                  "category": "museum",
+                  "coords": [
+                        -83.710772,
+                        22.614953
+                  ]
+            },
+            {
+                  "name": "Casa del campesino",
+                  "text": "Muzeu care ilustrează viața țărănească tradițională din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -83.714622,
+                        22.612736
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Casa del Veguero",
+                  "text": "Centru cultural concentrat pe istoria cultivării tutunului.",
+                  "category": "museum",
+                  "coords": [
+                        -83.712133,
+                        22.607937
+                  ]
+            },
+            {
+                  "name": "Parque Nacional Viñales",
+                  "text": "Un sit din patrimoniul mondial UNESCO, cunoscut pentru peisajul carstic unic și formațiunile mogotes.",
+                  "category": "natural",
+                  "coords": [
+                        -83.78713,
+                        22.586541
+                  ]
+            },
+            {
+                  "name": "Rancho Alegre",
+                  "text": "O atracție locală care oferă experiențe tradiționale în regiunea Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.699732,
+                        22.633284
+                  ]
+            },
+            {
+                  "name": "Escogida",
+                  "text": "O facilitate unde frunzele de tutun sunt sortate și procesate pentru fabricarea trabucurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706278,
+                        22.625989
+                  ]
+            },
+            {
+                  "name": "Mural de la Prehistoria",
+                  "text": "O pictură murală masivă pe o stâncă, reprezentând evoluția preistorică.",
+                  "category": "natural",
+                  "coords": [
+                        -83.740396,
+                        22.618552
+                  ]
+            },
+            {
+                  "name": "Vega Tabaco Juan Luis",
+                  "text": "O fermă tradițională de tutun din Viñales, care oferă informații despre cultivarea locală.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700699,
+                        22.63286
+                  ]
+            },
+            {
+                  "name": "Vega de Tabaco",
+                  "text": "O plantație tipică din regiune unde se cultivă tutun cubanez de înaltă calitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.702484,
+                        22.623223
+                  ]
+            },
+            {
+                  "name": "Alquiler de caballos",
+                  "text": "Un furnizor local de excursii călare prin valea pitorească din Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706121,
+                        22.618478
+                  ]
+            },
+            {
+                  "name": "Paseos a caballo en Viñales",
+                  "text": "Un punct de plecare popular pentru tururi ghidate călare prin natura din Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.70617,
+                        22.630796
+                  ]
+            },
+            {
+                  "name": "Domingo Ramos Enríquez",
+                  "text": "Un monument local în cinstea lui Domingo Ramos Enríquez din Viñales.",
+                  "category": "historical",
+                  "coords": [
+                        -83.72359,
+                        22.595997
+                  ]
+            },
+            {
+                  "name": "Alquiler y Monta de Caballos",
+                  "text": "O stație de închiriere a cailor pentru excursii în împrejurimi.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.708914,
+                        22.631781
+                  ]
+            },
+            {
+                  "name": "Tobacco origins",
+                  "text": "Un loc informativ care prezintă istoria și originile tutunului.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711402,
+                        22.611197
+                  ]
+            },
+            {
+                  "name": "Bega de tabaco Coco Solo",
+                  "text": "O fermă de tutun administrată de o familie, care prezintă procesul tradițional de producție.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.697272,
+                        22.62656
+                  ]
+            },
+            {
+                  "name": "Caballos de los Mogotes",
+                  "text": "Un serviciu de echitație care oferă excursii către faimoasele stânci mogote.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.719429,
+                        22.613787
+                  ]
+            },
+            {
+                  "name": "Punto de encuentro con JMCVINALESAVENTURA",
+                  "text": "Un punct de întâlnire pentru tururi de aventură ghidate în regiunea Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.707266,
+                        22.6182
+                  ]
+            },
+            {
+                  "name": "Paseo a Caballo Viñales",
+                  "text": "Un furnizor de plimbări călare prin peisajul din Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711819,
+                        22.615486
+                  ]
+            },
+            {
+                  "name": "La Ermita",
+                  "text": "Un punct de observație lângă ermitul cu același nume, oferind o vedere largă asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        -83.699567,
+                        22.611783
+                  ]
+            },
+            {
+                  "name": "Finca El Romero",
+                  "text": "O fermă ecologică cunoscută pentru agricultura durabilă și apropierea de natură.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.704074,
+                        22.636136
+                  ]
+            },
+            {
+                  "name": "Finca de Tabaco de Gerardo",
+                  "text": "O plantație locală de tutun care oferă o perspectivă asupra vieții de zi cu zi a fermierilor cubanezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.716673,
+                        22.620619
+                  ]
+            },
+            {
+                  "name": "Viñales Bike Tour, una mirada diferente",
+                  "text": "Un serviciu local de închiriere de biciclete pentru explorarea împrejurimilor din Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.709611,
+                        22.611883
+                  ]
+            },
+            {
+                  "name": "Mirador del Porri",
+                  "text": "Un punct de observație care oferă o perspectivă impresionantă asupra formațiunilor mogotes.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700842,
+                        22.629248
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "O grădină botanică privată cu o varietate de specii de plante tropicale.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706257,
+                        22.619613
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal de Viñales Adela Azcuy Labrador",
+                  "text": "Municipal museum documenting the local history and culture of Viñales.",
+                  "category": "museum",
+                  "coords": [
+                        -83.710772,
+                        22.614953
+                  ]
+            },
+            {
+                  "name": "Casa del campesino",
+                  "text": "Museum illustrating the traditional rural life of farmers in the region.",
+                  "category": "museum",
+                  "coords": [
+                        -83.714622,
+                        22.612736
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Casa del Veguero",
+                  "text": "Cultural center focused on the history of tobacco farming.",
+                  "category": "museum",
+                  "coords": [
+                        -83.712133,
+                        22.607937
+                  ]
+            },
+            {
+                  "name": "Viñales National Park",
+                  "text": "A UNESCO World Heritage site known for its unique karst landscape and mogotes.",
+                  "category": "natural",
+                  "coords": [
+                        -83.78713,
+                        22.586541
+                  ]
+            },
+            {
+                  "name": "Rancho Alegre",
+                  "text": "A local attraction offering traditional experiences in the Viñales region.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.699732,
+                        22.633284
+                  ]
+            },
+            {
+                  "name": "Escogida",
+                  "text": "A facility where tobacco leaves are sorted and processed for cigar making.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706278,
+                        22.625989
+                  ]
+            },
+            {
+                  "name": "Mural de la Prehistoria",
+                  "text": "A massive mural painted on a mogote cliff depicting prehistoric evolution.",
+                  "category": "natural",
+                  "coords": [
+                        -83.740396,
+                        22.618552
+                  ]
+            },
+            {
+                  "name": "Vega Tabaco Juan Luis",
+                  "text": "A traditional tobacco farm in Viñales offering insights into local cultivation.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700699,
+                        22.63286
+                  ]
+            },
+            {
+                  "name": "Tobacco Farm",
+                  "text": "A typical plantation in the region where high-quality Cuban tobacco is grown.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.702484,
+                        22.623223
+                  ]
+            },
+            {
+                  "name": "Alquiler de caballos",
+                  "text": "A local provider of horseback riding tours through the scenic Viñales Valley.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706121,
+                        22.618478
+                  ]
+            },
+            {
+                  "name": "Horseback riding viñales",
+                  "text": "A popular starting point for guided horseback riding tours through the nature of Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.70617,
+                        22.630796
+                  ]
+            },
+            {
+                  "name": "Domingo Ramos Enríquez",
+                  "text": "A local monument dedicated to Domingo Ramos Enríquez in Viñales.",
+                  "category": "historical",
+                  "coords": [
+                        -83.72359,
+                        22.595997
+                  ]
+            },
+            {
+                  "name": "rent and amount of horses",
+                  "text": "A station for renting horses for excursions in the surrounding area.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.708914,
+                        22.631781
+                  ]
+            },
+            {
+                  "name": "Tobacco origins",
+                  "text": "An informative site dedicated to the history and origins of tobacco.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711402,
+                        22.611197
+                  ]
+            },
+            {
+                  "name": "Coco solo tobacco farm",
+                  "text": "A family-run tobacco farm showing the traditional process of tobacco production.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.697272,
+                        22.62656
+                  ]
+            },
+            {
+                  "name": "Caballos de los Mogotes",
+                  "text": "A horseback riding service offering excursions to the famous mogote rock formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.719429,
+                        22.613787
+                  ]
+            },
+            {
+                  "name": "Meeting point with JMCVINALESAVENTURA",
+                  "text": "A meeting point for guided adventure tours in the Viñales region.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.707266,
+                        22.6182
+                  ]
+            },
+            {
+                  "name": "Horse ride Vinales",
+                  "text": "A provider of guided horseback rides through the Viñales countryside.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.711819,
+                        22.615486
+                  ]
+            },
+            {
+                  "name": "La Ermita",
+                  "text": "A viewpoint near the namesake hermitage offering a wide view over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        -83.699567,
+                        22.611783
+                  ]
+            },
+            {
+                  "name": "Finca El Romero",
+                  "text": "An ecological farm known for its sustainable agriculture and connection to nature.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.704074,
+                        22.636136
+                  ]
+            },
+            {
+                  "name": "Finca de Tabaco de Gerardo",
+                  "text": "A local tobacco plantation offering insight into the daily lives of Cuban farmers.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.716673,
+                        22.620619
+                  ]
+            },
+            {
+                  "name": "Viñales Bike Tour, una mirada diferente",
+                  "text": "A local bike tour service for exploring the surroundings of Viñales.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.709611,
+                        22.611883
+                  ]
+            },
+            {
+                  "name": "Mirador del Porri",
+                  "text": "A lookout point offering an impressive perspective of the mogote formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.700842,
+                        22.629248
+                  ]
+            },
+            {
+                  "name": "Jardín Botánico",
+                  "text": "A private botanical garden featuring a variety of tropical plant species.",
+                  "category": "landmark",
+                  "coords": [
+                        -83.706257,
+                        22.619613
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU",
     coords: [-83.7145, 22.6121],
@@ -183,7 +2577,880 @@ export const cubaCities: POI[] = [
     historyYear: 1878,
     area: 704, image: "/poi-images/cu-vinales.webp"},
   {
-    id: "cu-trinidad",
+    id: "cu-trinidad", "sights": {
+      "de": [
+            {
+                  "name": "Área Protegida Topes de Collantes",
+                  "text": "Das Área Protegida Topes de Collantes ist ein geschütztes Naturschutzgebiet in Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -80.034865,
+                        21.896798
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Lucha Contra Bandidos",
+                  "text": "Das Museo Nacional de la Lucha Contra Bandidos ist ein historisches Museum in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984831,
+                        21.806167
+                  ]
+            },
+            {
+                  "name": "Casa de Los Mártires",
+                  "text": "Die Casa de Los Mártires ist ein Museum in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.985741,
+                        21.802525
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Guamuhaya",
+                  "text": "Das Museo de Arqueología Guamuhaya ist ein archäologisches Museum in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984875,
+                        21.805152
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Casa de Cultura",
+                  "text": "Das Anfiteatro de la Casa de Cultura ist ein Theaterraum in Trinidad.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.984108,
+                        21.804055
+                  ]
+            },
+            {
+                  "name": "Zoológico de Trinidad",
+                  "text": "Der Zoológico de Trinidad ist ein Zoo mit Tierausstellungen in Trinidad.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.980099,
+                        21.796503
+                  ]
+            },
+            {
+                  "name": "Alameda de Concha",
+                  "text": "Alameda de Concha ist eine Touristenattraktion in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986543,
+                        21.796529
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Candelaria de la Popa",
+                  "text": "Die Iglesia de Nuestra Señora de la Candelaria de la Popa umfasst historische Ruinen in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.981531,
+                        21.807149
+                  ]
+            },
+            {
+                  "name": "Maqueta de la Ciudad de Trinidad",
+                  "text": "Die Maqueta de la Ciudad de Trinidad ist eine Attraktion, die ein Stadtmodell in Trinidad zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.984308,
+                        21.802226
+                  ]
+            },
+            {
+                  "name": "Tienda del Pueblo",
+                  "text": "Die Tienda del Pueblo besteht aus baulichen Ruinen in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97602,
+                        21.822185
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "Ein Denkmal für José Martí in der Stadt Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.984435,
+                        21.800457
+                  ]
+            },
+            {
+                  "name": "Monumento Alberto Delgado",
+                  "text": "Das Monumento Alberto Delgado ist eine lokale Sehenswürdigkeit in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.011183,
+                        21.808745
+                  ]
+            },
+            {
+                  "name": "Galería Taller Yudit Vidal Faife",
+                  "text": "Galería Taller Yudit Vidal Faife ist eine Kunstgalerie in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.986841,
+                        21.803183
+                  ]
+            },
+            {
+                  "name": "Solflor farm",
+                  "text": "Eine Sonnenblumenfarm, die als malerische Attraktion in Trinidad dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988751,
+                        21.813634
+                  ]
+            },
+            {
+                  "name": "Tirolesa - Casa del Árbol",
+                  "text": "Das Zipline - Treehouse bietet einen einzigartigen Aussichtspunkt über Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -80.001092,
+                        21.810188
+                  ]
+            },
+            {
+                  "name": "Mojitos",
+                  "text": "Mojitos ist eine bekannte lokale Attraktion in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.989048,
+                        21.804532
+                  ]
+            },
+            {
+                  "name": "Belvedere de la Loma",
+                  "text": "Belvedere de la Loma ist ein malerischer Aussichtspunkt in Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -79.976562,
+                        21.814141
+                  ]
+            },
+            {
+                  "name": "Gio's Cuba Photo Tours",
+                  "text": "Gio's Cuba Photo Tours ist eine auf Fotografie ausgerichtete Attraktion in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988944,
+                        21.811315
+                  ]
+            },
+            {
+                  "name": "La Mano del Negro",
+                  "text": "La Mano del Negro ist eine Attraktion, die man bei einem Besuch in Trinidad erkunden kann.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.973191,
+                        21.802367
+                  ]
+            },
+            {
+                  "name": "Excursión a caballo a Salto El Pilón",
+                  "text": "Dieser Reitausflug zum Salto El Pilón ist eine beliebte Attraktion in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986353,
+                        21.804894
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "Die Ruinen der Ermita de Santa Ana sind eine historische Stätte in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.978779,
+                        21.802899
+                  ]
+            },
+            {
+                  "name": "Revolutionsplatz",
+                  "text": "Der Platz der Revolution ist ein bedeutendes Denkmal in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97568,
+                        21.793364
+                  ]
+            },
+            {
+                  "name": "Fábrica de Tabacos",
+                  "text": "Die Fábrica de Tabacos ist eine Zigarrenfabrik-Attraktion in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986962,
+                        21.797735
+                  ]
+            },
+            {
+                  "name": "Idea",
+                  "text": "Idea ist eine Kunstgalerie in der Stadt Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.983767,
+                        21.798826
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Protegida Topes de Collantes",
+                  "text": "Az Área Protegida Topes de Collantes egy védett természetvédelmi terület Trinidad városában.",
+                  "category": "natural",
+                  "coords": [
+                        -80.034865,
+                        21.896798
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Lucha Contra Bandidos",
+                  "text": "A Museo Nacional de la Lucha Contra Bandidos egy történelmi múzeum Trinidad városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984831,
+                        21.806167
+                  ]
+            },
+            {
+                  "name": "Casa de Los Mártires",
+                  "text": "A Casa de Los Mártires egy múzeum Trinidad területén.",
+                  "category": "museum",
+                  "coords": [
+                        -79.985741,
+                        21.802525
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Guamuhaya",
+                  "text": "A Museo de Arqueología Guamuhaya egy régészeti múzeum Trinidad városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984875,
+                        21.805152
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Casa de Cultura",
+                  "text": "Az Anfiteatro de la Casa de Cultura egy színházi tér Trinidad városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.984108,
+                        21.804055
+                  ]
+            },
+            {
+                  "name": "Zoológico de Trinidad",
+                  "text": "A Zoológico de Trinidad egy állatkert Trinidad városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.980099,
+                        21.796503
+                  ]
+            },
+            {
+                  "name": "Alameda de Concha",
+                  "text": "Az Alameda de Concha egy turisztikai látványosság Trinidad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986543,
+                        21.796529
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Candelaria de la Popa",
+                  "text": "Az Iglesia de Nuestra Señora de la Candelaria de la Popa történelmi romokat mutat be Trinidad területén.",
+                  "category": "historical",
+                  "coords": [
+                        -79.981531,
+                        21.807149
+                  ]
+            },
+            {
+                  "name": "Maqueta de la Ciudad de Trinidad",
+                  "text": "A Maqueta de la Ciudad de Trinidad egy városmakettet bemutató látványosság Trinidad városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.984308,
+                        21.802226
+                  ]
+            },
+            {
+                  "name": "Tienda del Pueblo",
+                  "text": "A Tienda del Pueblo szerkezeti romokból áll Trinidad városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97602,
+                        21.822185
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "José Martí emlékműve Trinidad városában.",
+                  "category": "historical",
+                  "coords": [
+                        -79.984435,
+                        21.800457
+                  ]
+            },
+            {
+                  "name": "Monumento Alberto Delgado",
+                  "text": "A Monumento Alberto Delgado egy helyi látványosság Trinidadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.011183,
+                        21.808745
+                  ]
+            },
+            {
+                  "name": "Galería Taller Yudit Vidal Faife",
+                  "text": "A Galería Taller Yudit Vidal Faife egy művészeti galéria Trinidadban.",
+                  "category": "museum",
+                  "coords": [
+                        -79.986841,
+                        21.803183
+                  ]
+            },
+            {
+                  "name": "Solflor farm",
+                  "text": "Egy napraforgófarm, amely festői látványosságként szolgál Trinidadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988751,
+                        21.813634
+                  ]
+            },
+            {
+                  "name": "Tirolesa - Casa del Árbol",
+                  "text": "A Zipline - Treehouse egyedi kilátópontot kínál Trinidad felett.",
+                  "category": "natural",
+                  "coords": [
+                        -80.001092,
+                        21.810188
+                  ]
+            },
+            {
+                  "name": "Mojitos",
+                  "text": "A Mojitos egy ismert helyi látványosság Trinidadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.989048,
+                        21.804532
+                  ]
+            },
+            {
+                  "name": "Belvedere de la Loma",
+                  "text": "A Belvedere de la Loma egy festői kilátópont Trinidadban.",
+                  "category": "natural",
+                  "coords": [
+                        -79.976562,
+                        21.814141
+                  ]
+            },
+            {
+                  "name": "Gio's Cuba Photo Tours",
+                  "text": "A Gio's Cuba Photo Tours egy fotózásra fókuszáló látványosság Trinidadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988944,
+                        21.811315
+                  ]
+            },
+            {
+                  "name": "La Mano del Negro",
+                  "text": "A La Mano del Negro egy látványosság, amelyet érdemes felfedezni Trinidadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.973191,
+                        21.802367
+                  ]
+            },
+            {
+                  "name": "Excursión a caballo a Salto El Pilón",
+                  "text": "Ez a lovas kirándulás a Salto El Pilónhoz egy népszerű látványosság Trinidadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986353,
+                        21.804894
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "Az Ermita de Santa Ana romjai egy történelmi helyszín Trinidadban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.978779,
+                        21.802899
+                  ]
+            },
+            {
+                  "name": "Plaza de la Revolución Primero de Mayo",
+                  "text": "A Forradalom tere egy kiemelkedő emlékmű Trinidadban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97568,
+                        21.793364
+                  ]
+            },
+            {
+                  "name": "Fábrica de Tabacos",
+                  "text": "A Fábrica de Tabacos egy szivargyár-látványosság Trinidadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986962,
+                        21.797735
+                  ]
+            },
+            {
+                  "name": "Idea",
+                  "text": "Az Idea egy művészeti galéria Trinidad városában.",
+                  "category": "museum",
+                  "coords": [
+                        -79.983767,
+                        21.798826
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Protegida Topes de Collantes",
+                  "text": "Área Protegida Topes de Collantes este o rezervație naturală protejată din Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -80.034865,
+                        21.896798
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Lucha Contra Bandidos",
+                  "text": "Museo Nacional de la Lucha Contra Bandidos este un muzeu istoric din Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984831,
+                        21.806167
+                  ]
+            },
+            {
+                  "name": "Casa de Los Mártires",
+                  "text": "Casa de Los Mártires este un muzeu situat în Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.985741,
+                        21.802525
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Guamuhaya",
+                  "text": "Museo de Arqueología Guamuhaya este un muzeu arheologic din Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984875,
+                        21.805152
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Casa de Cultura",
+                  "text": "Anfiteatro de la Casa de Cultura este un spațiu teatral din Trinidad.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.984108,
+                        21.804055
+                  ]
+            },
+            {
+                  "name": "Zoológico de Trinidad",
+                  "text": "Zoológico de Trinidad este o grădină zoologică ce oferă expoziții de animale în Trinidad.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.980099,
+                        21.796503
+                  ]
+            },
+            {
+                  "name": "Alameda de Concha",
+                  "text": "Alameda de Concha este o atracție turistică situată în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986543,
+                        21.796529
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Candelaria de la Popa",
+                  "text": "Iglesia de Nuestra Señora de la Candelaria de la Popa prezintă ruine istorice în Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.981531,
+                        21.807149
+                  ]
+            },
+            {
+                  "name": "Maqueta de la Ciudad de Trinidad",
+                  "text": "Maqueta de la Ciudad de Trinidad este o atracție care prezintă o machetă a orașului în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.984308,
+                        21.802226
+                  ]
+            },
+            {
+                  "name": "Tienda del Pueblo",
+                  "text": "Tienda del Pueblo constă din ruine structurale situate în Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97602,
+                        21.822185
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "Un monument dedicat lui José Martí, situat în orașul Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.984435,
+                        21.800457
+                  ]
+            },
+            {
+                  "name": "Monumento Alberto Delgado",
+                  "text": "Monumento Alberto Delgado este o atracție locală situată în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.011183,
+                        21.808745
+                  ]
+            },
+            {
+                  "name": "Galería Taller Yudit Vidal Faife",
+                  "text": "Galería Taller Yudit Vidal Faife este o galerie de artă situată în Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.986841,
+                        21.803183
+                  ]
+            },
+            {
+                  "name": "Solflor farm",
+                  "text": "O fermă de floarea-soarelui care servește ca atracție pitorească în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988751,
+                        21.813634
+                  ]
+            },
+            {
+                  "name": "Tirolesa - Casa del Árbol",
+                  "text": "Zipline - Treehouse oferă un punct de belvedere unic asupra Trinidadului.",
+                  "category": "natural",
+                  "coords": [
+                        -80.001092,
+                        21.810188
+                  ]
+            },
+            {
+                  "name": "Mojitos",
+                  "text": "Mojitos este o atracție locală cunoscută situată în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.989048,
+                        21.804532
+                  ]
+            },
+            {
+                  "name": "Belvedere de la Loma",
+                  "text": "Belvedere de la Loma este un punct de belvedere pitoresc în Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -79.976562,
+                        21.814141
+                  ]
+            },
+            {
+                  "name": "Gio's Cuba Photo Tours",
+                  "text": "Gio's Cuba Photo Tours este o atracție axată pe fotografie în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988944,
+                        21.811315
+                  ]
+            },
+            {
+                  "name": "La Mano del Negro",
+                  "text": "La Mano del Negro este o atracție de explorat în timpul vizitei în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.973191,
+                        21.802367
+                  ]
+            },
+            {
+                  "name": "Excursión a caballo a Salto El Pilón",
+                  "text": "Această excursie călare la Salto El Pilón este o atracție populară în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986353,
+                        21.804894
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "Ruinele Ermita de Santa Ana reprezintă un sit istoric în Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.978779,
+                        21.802899
+                  ]
+            },
+            {
+                  "name": "Plaza de la Revolución Primero de Mayo",
+                  "text": "Piața Revoluției este un monument proeminent situat în Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97568,
+                        21.793364
+                  ]
+            },
+            {
+                  "name": "Fábrica de Tabacos",
+                  "text": "Fábrica de Tabacos este o atracție reprezentată de o fabrică de trabucuri în Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986962,
+                        21.797735
+                  ]
+            },
+            {
+                  "name": "Idea",
+                  "text": "Idea este o galerie de artă situată în orașul Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.983767,
+                        21.798826
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Protegida Topes de Collantes",
+                  "text": "Área Protegida Topes de Collantes is a protected nature reserve in Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -80.034865,
+                        21.896798
+                  ]
+            },
+            {
+                  "name": "Museo Nacional de la Lucha Contra Bandidos",
+                  "text": "Museo Nacional de la Lucha Contra Bandidos is a historical museum in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984831,
+                        21.806167
+                  ]
+            },
+            {
+                  "name": "Casa de Los Mártires",
+                  "text": "Casa de Los Mártires is a museum situated in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.985741,
+                        21.802525
+                  ]
+            },
+            {
+                  "name": "Museo de Arqueología Guamuhaya",
+                  "text": "Museo de Arqueología Guamuhaya is an archaeological museum in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.984875,
+                        21.805152
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Casa de Cultura",
+                  "text": "Anfiteatro de la Casa de Cultura is a theatre space in Trinidad.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.984108,
+                        21.804055
+                  ]
+            },
+            {
+                  "name": "Zoológico de Trinidad",
+                  "text": "Zoológico de Trinidad is a zoo providing animal exhibits in Trinidad.",
+                  "category": "recreational",
+                  "coords": [
+                        -79.980099,
+                        21.796503
+                  ]
+            },
+            {
+                  "name": "Alameda de Concha",
+                  "text": "Alameda de Concha is a tourist attraction located in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986543,
+                        21.796529
+                  ]
+            },
+            {
+                  "name": "Iglesia de Nuestra Señora de la Candelaria de la Popa",
+                  "text": "Iglesia de Nuestra Señora de la Candelaria de la Popa features historic ruins in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.981531,
+                        21.807149
+                  ]
+            },
+            {
+                  "name": "Maqueta de la Ciudad de Trinidad",
+                  "text": "Maqueta de la Ciudad de Trinidad is an attraction showing a city model in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.984308,
+                        21.802226
+                  ]
+            },
+            {
+                  "name": "Tienda del Pueblo",
+                  "text": "Tienda del Pueblo consists of structural ruins located in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97602,
+                        21.822185
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "A monument dedicated to José Martí located in the city of Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.984435,
+                        21.800457
+                  ]
+            },
+            {
+                  "name": "Monumento Alberto Delgado",
+                  "text": "The Monumento Alberto Delgado is a local attraction situated in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.011183,
+                        21.808745
+                  ]
+            },
+            {
+                  "name": "Galería Taller Yudit Vidal Faife",
+                  "text": "Galería Taller Yudit Vidal Faife is an art gallery located in Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.986841,
+                        21.803183
+                  ]
+            },
+            {
+                  "name": "Sunflower farm",
+                  "text": "A sunflower farm serving as a scenic attraction in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988751,
+                        21.813634
+                  ]
+            },
+            {
+                  "name": "Zipline - Treehouse",
+                  "text": "The Zipline - Treehouse offers a unique viewpoint over Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -80.001092,
+                        21.810188
+                  ]
+            },
+            {
+                  "name": "Mojitos",
+                  "text": "Mojitos is a known local attraction situated in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.989048,
+                        21.804532
+                  ]
+            },
+            {
+                  "name": "Belvedere de la Loma",
+                  "text": "Belvedere de la Loma is a scenic viewpoint offering vistas in Trinidad.",
+                  "category": "natural",
+                  "coords": [
+                        -79.976562,
+                        21.814141
+                  ]
+            },
+            {
+                  "name": "Gio's Cuba Photo Tours",
+                  "text": "Gio's Cuba Photo Tours is a photography-focused attraction in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.988944,
+                        21.811315
+                  ]
+            },
+            {
+                  "name": "La Mano del Negro",
+                  "text": "La Mano del Negro is an attraction to explore while visiting Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.973191,
+                        21.802367
+                  ]
+            },
+            {
+                  "name": "Excursión a caballo a Salto El Pilón",
+                  "text": "This horseback riding excursion to Salto El Pilón is a popular attraction in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986353,
+                        21.804894
+                  ]
+            },
+            {
+                  "name": "Ermita de Santa Ana",
+                  "text": "The ruins of Ermita de Santa Ana are a historical site in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.978779,
+                        21.802899
+                  ]
+            },
+            {
+                  "name": "Revolution Square",
+                  "text": "Revolution Square is a prominent monument located in Trinidad.",
+                  "category": "historical",
+                  "coords": [
+                        -79.97568,
+                        21.793364
+                  ]
+            },
+            {
+                  "name": "Fábrica de Tabacos",
+                  "text": "The Fábrica de Tabacos is a cigar factory attraction in Trinidad.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.986962,
+                        21.797735
+                  ]
+            },
+            {
+                  "name": "Idea",
+                  "text": "Idea is an art gallery situated in the city of Trinidad.",
+                  "category": "museum",
+                  "coords": [
+                        -79.983767,
+                        21.798826
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU",
     coords: [-79.9835, 21.8045],
@@ -227,7 +3494,808 @@ export const cubaCities: POI[] = [
     historyYear: 1514,
     area: 1155, image: "/poi-images/cu-trinidad.webp"},
   {
-    id: "cu-cienfuegos",
+    id: "cu-cienfuegos", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Tomás Terry",
+                  "text": "Ein prachtvolles neoklassizistisches Theater in Cienfuegos aus dem 19. Jahrhundert.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45271,
+                        22.146646
+                  ]
+            },
+            {
+                  "name": "Palacio de Valle",
+                  "text": "Ein markanter Palast in Cienfuegos mit eklektischer Architektur und maurischen Einflüssen.",
+                  "category": "castle",
+                  "coords": [
+                        -80.451475,
+                        22.121347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Ein Marinemuseum in Cienfuegos, das die Seefahrtsgeschichte Kubas dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -80.455414,
+                        22.150237
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Julio Antonio Mella",
+                  "text": "Ein Kulturzentrum in Cienfuegos für Theater, Musik und lokale Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45068,
+                        22.123911
+                  ]
+            },
+            {
+                  "name": "Centro dramático de Cienfuegos. Sala Aida Conde",
+                  "text": "Ein lokaler Theatersaal in Cienfuegos, benannt nach Aida Conde.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.449814,
+                        22.146029
+                  ]
+            },
+            {
+                  "name": "Museo Provincial",
+                  "text": "Provinzialmuseum in Cienfuegos mit Schwerpunkt auf Möbeln.",
+                  "category": "museum",
+                  "coords": [
+                        -80.452959,
+                        22.145346
+                  ]
+            },
+            {
+                  "name": "Playa Alegre",
+                  "text": "Ein Strand in der Stadt Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.442708,
+                        22.12525
+                  ]
+            },
+            {
+                  "name": "Punta del Medio",
+                  "text": "Ein lokaler Strand in Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.453187,
+                        22.123833
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "Ein Museum in Cienfuegos, das der Eisenbahngeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -80.457334,
+                        22.145478
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Freilichttheater in Cienfuegos.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.433133,
+                        22.154984
+                  ]
+            },
+            {
+                  "name": "Ceferino A. Méndez",
+                  "text": "Ein Denkmal für Ceferino A. Méndez in Cienfuegos.",
+                  "category": "historical",
+                  "coords": [
+                        -80.44856,
+                        22.143332
+                  ]
+            },
+            {
+                  "name": "Benny Moré",
+                  "text": "Ein Denkmal in Cienfuegos für den berühmten Sänger Benny Moré.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448347,
+                        22.144946
+                  ]
+            },
+            {
+                  "name": "Casa de Los Leones",
+                  "text": "Eine lokale Attraktion in Cienfuegos, bekannt als das Haus der Löwen.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.447928,
+                        22.147041
+                  ]
+            },
+            {
+                  "name": "Mirador Palacio Ferrer",
+                  "text": "Ein Aussichtspunkt im Palacio Ferrer mit Blick über Cienfuegos.",
+                  "category": "natural",
+                  "coords": [
+                        -80.454078,
+                        22.145782
+                  ]
+            },
+            {
+                  "name": "Marlin Marina Cienfuegos",
+                  "text": "Der Jachthafen von Cienfuegos für wassersportliche Aktivitäten.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.452163,
+                        22.124826
+                  ]
+            },
+            {
+                  "name": "Cienfuegos honra a sus Mártires",
+                  "text": "Ein Denkmal in Cienfuegos zu Ehren der Märtyrer der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448873,
+                        22.140721
+                  ]
+            },
+            {
+                  "name": "Árboles",
+                  "text": "Eine Attraktion mit Bäumen in Cienfuegos.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.45172,
+                        22.142132
+                  ]
+            },
+            {
+                  "name": "Casa-Taller Santiago Hermes",
+                  "text": "Eine Kunstgalerie und Werkstatt von Santiago Hermes in Cienfuegos.",
+                  "category": "museum",
+                  "coords": [
+                        -80.443422,
+                        22.148099
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "Eine malerische Uferpromenade in Cienfuegos.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.449648,
+                        22.135504
+                  ]
+            },
+            {
+                  "name": "Busto de Fray Bartolomé de las Casas",
+                  "text": "Ein Denkmal mit der Büste von Fray Bartolomé de las Casas in Cienfuegos.",
+                  "category": "historical",
+                  "coords": [
+                        -80.442335,
+                        22.146397
+                  ]
+            },
+            {
+                  "name": "Cementerio de la Reina",
+                  "text": "Ein historischer Friedhof in Cienfuegos, bekannt für seine Marmorskulpturen.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.464075,
+                        22.145681
+                  ]
+            },
+            {
+                  "name": "Catetral de Nuestra Señora de la Purísima Concepción",
+                  "text": "Die katholische Hauptkathedrale von Cienfuegos.",
+                  "category": "religious",
+                  "coords": [
+                        -80.451769,
+                        22.146035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Tomás Terry",
+                  "text": "Pompás, 19. századi neoklasszicista színház Cienfuegosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45271,
+                        22.146646
+                  ]
+            },
+            {
+                  "name": "Palacio de Valle",
+                  "text": "Jellegzetes palota Cienfuegosban, eklektikus építészettel és mór hatásokkal.",
+                  "category": "castle",
+                  "coords": [
+                        -80.451475,
+                        22.121347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Cienfuegosi tengerészeti múzeum, amely Kuba hajózási történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -80.455414,
+                        22.150237
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Julio Antonio Mella",
+                  "text": "Cienfuegosi kulturális központ színházi, zenei és helyi rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45068,
+                        22.123911
+                  ]
+            },
+            {
+                  "name": "Centro dramático de Cienfuegos. Sala Aida Conde",
+                  "text": "Helyi színházterem Cienfuegosban, amelyet Aida Condéról neveztek el.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.449814,
+                        22.146029
+                  ]
+            },
+            {
+                  "name": "Museo Provincial",
+                  "text": "Tartományi múzeum Cienfuegosban, amely bútorokra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        -80.452959,
+                        22.145346
+                  ]
+            },
+            {
+                  "name": "Playa Alegre",
+                  "text": "Egy strand Cienfuegos városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.442708,
+                        22.12525
+                  ]
+            },
+            {
+                  "name": "Punta del Medio",
+                  "text": "Egy helyi strand Cienfuegosban.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.453187,
+                        22.123833
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "A vasúttörténetnek szentelt múzeum Cienfuegosban.",
+                  "category": "museum",
+                  "coords": [
+                        -80.457334,
+                        22.145478
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Egy szabadtéri színház Cienfuegosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.433133,
+                        22.154984
+                  ]
+            },
+            {
+                  "name": "Ceferino A. Méndez",
+                  "text": "Ceferino A. Méndez emlékműve Cienfuegosban.",
+                  "category": "historical",
+                  "coords": [
+                        -80.44856,
+                        22.143332
+                  ]
+            },
+            {
+                  "name": "Benny Moré",
+                  "text": "Emlékmű Cienfuegosban a híres énekes, Benny Moré tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448347,
+                        22.144946
+                  ]
+            },
+            {
+                  "name": "Casa de Los Leones",
+                  "text": "Helyi látványosság Cienfuegosban, az Oroszlánok háza néven ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.447928,
+                        22.147041
+                  ]
+            },
+            {
+                  "name": "Mirador Palacio Ferrer",
+                  "text": "Kilátópont a Cienfuegos-i Palacio Ferrerből.",
+                  "category": "natural",
+                  "coords": [
+                        -80.454078,
+                        22.145782
+                  ]
+            },
+            {
+                  "name": "Marlin Marina Cienfuegos",
+                  "text": "Cienfuegos kikötője csónakázáshoz és tengeri tevékenységekhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.452163,
+                        22.124826
+                  ]
+            },
+            {
+                  "name": "Cienfuegos honra a sus Mártires",
+                  "text": "Emlékmű Cienfuegosban a város mártírjainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448873,
+                        22.140721
+                  ]
+            },
+            {
+                  "name": "Árboles",
+                  "text": "Fákat bemutató látványosság Cienfuegosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.45172,
+                        22.142132
+                  ]
+            },
+            {
+                  "name": "Casa-Taller Santiago Hermes",
+                  "text": "Santiago Hermes művészeti galériája és műhelye Cienfuegosban.",
+                  "category": "museum",
+                  "coords": [
+                        -80.443422,
+                        22.148099
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "Festői vízparti sétány Cienfuegosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.449648,
+                        22.135504
+                  ]
+            },
+            {
+                  "name": "Busto de Fray Bartolomé de las Casas",
+                  "text": "Fray Bartolomé de las Casas mellszobrát ábrázoló emlékmű Cienfuegosban.",
+                  "category": "historical",
+                  "coords": [
+                        -80.442335,
+                        22.146397
+                  ]
+            },
+            {
+                  "name": "Cementerio de la Reina",
+                  "text": "Történelmi temető Cienfuegosban, amely márványszobrairol ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.464075,
+                        22.145681
+                  ]
+            },
+            {
+                  "name": "Catetral de Nuestra Señora de la Purísima Concepción",
+                  "text": "Cienfuegos fő katolikus székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        -80.451769,
+                        22.146035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Tomás Terry",
+                  "text": "Un teatru neoclasic splendid din secolul al XIX-lea în Cienfuegos.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45271,
+                        22.146646
+                  ]
+            },
+            {
+                  "name": "Palacio de Valle",
+                  "text": "Un palat remarcabil din Cienfuegos, cu arhitectură eclectică și influențe maure.",
+                  "category": "castle",
+                  "coords": [
+                        -80.451475,
+                        22.121347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "Un muzeu naval din Cienfuegos, documentând istoria maritimă a Cubei.",
+                  "category": "museum",
+                  "coords": [
+                        -80.455414,
+                        22.150237
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Julio Antonio Mella",
+                  "text": "Centru cultural din Cienfuegos destinat teatrului, muzicii și evenimentelor locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45068,
+                        22.123911
+                  ]
+            },
+            {
+                  "name": "Centro dramático de Cienfuegos. Sala Aida Conde",
+                  "text": "O sală de teatru locală din Cienfuegos, numită după Aida Conde.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.449814,
+                        22.146029
+                  ]
+            },
+            {
+                  "name": "Museo Provincial",
+                  "text": "Muzeu provincial din Cienfuegos, axat pe mobilier.",
+                  "category": "museum",
+                  "coords": [
+                        -80.452959,
+                        22.145346
+                  ]
+            },
+            {
+                  "name": "Playa Alegre",
+                  "text": "O plajă situată în orașul Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.442708,
+                        22.12525
+                  ]
+            },
+            {
+                  "name": "Punta del Medio",
+                  "text": "O plajă locală în Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.453187,
+                        22.123833
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "Un muzeu dedicat istoriei feroviare din Cienfuegos.",
+                  "category": "museum",
+                  "coords": [
+                        -80.457334,
+                        22.145478
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un teatru în aer liber din Cienfuegos.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.433133,
+                        22.154984
+                  ]
+            },
+            {
+                  "name": "Ceferino A. Méndez",
+                  "text": "Un monument dedicat lui Ceferino A. Méndez în Cienfuegos.",
+                  "category": "historical",
+                  "coords": [
+                        -80.44856,
+                        22.143332
+                  ]
+            },
+            {
+                  "name": "Benny Moré",
+                  "text": "Un monument în Cienfuegos dedicat celebrului cântăreț Benny Moré.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448347,
+                        22.144946
+                  ]
+            },
+            {
+                  "name": "Casa de Los Leones",
+                  "text": "O atracție locală din Cienfuegos, cunoscută sub numele de Casa Leilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.447928,
+                        22.147041
+                  ]
+            },
+            {
+                  "name": "Mirador Palacio Ferrer",
+                  "text": "Un punct de belvedere care oferă panorame de la Palacio Ferrer din Cienfuegos.",
+                  "category": "natural",
+                  "coords": [
+                        -80.454078,
+                        22.145782
+                  ]
+            },
+            {
+                  "name": "Marlin Marina Cienfuegos",
+                  "text": "Marina din Cienfuegos pentru navigație și activități maritime.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.452163,
+                        22.124826
+                  ]
+            },
+            {
+                  "name": "Cienfuegos honra a sus Mártires",
+                  "text": "Un monument din Cienfuegos care onorează martirii orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448873,
+                        22.140721
+                  ]
+            },
+            {
+                  "name": "Árboles",
+                  "text": "O atracție cu arbori în Cienfuegos.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.45172,
+                        22.142132
+                  ]
+            },
+            {
+                  "name": "Casa-Taller Santiago Hermes",
+                  "text": "O galerie de artă și atelier aparținând lui Santiago Hermes din Cienfuegos.",
+                  "category": "museum",
+                  "coords": [
+                        -80.443422,
+                        22.148099
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "O faleză pitorească în Cienfuegos.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.449648,
+                        22.135504
+                  ]
+            },
+            {
+                  "name": "Busto de Fray Bartolomé de las Casas",
+                  "text": "Un monument cu bustul lui Fray Bartolomé de las Casas în Cienfuegos.",
+                  "category": "historical",
+                  "coords": [
+                        -80.442335,
+                        22.146397
+                  ]
+            },
+            {
+                  "name": "Cementerio de la Reina",
+                  "text": "Un cimitir istoric din Cienfuegos, cunoscut pentru sculpturile sale în marmură.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.464075,
+                        22.145681
+                  ]
+            },
+            {
+                  "name": "Catetral de Nuestra Señora de la Purísima Concepción",
+                  "text": "Principala catedrală catolică din Cienfuegos.",
+                  "category": "religious",
+                  "coords": [
+                        -80.451769,
+                        22.146035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Tomás Terry",
+                  "text": "A grand 19th-century neoclassical theatre in Cienfuegos.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45271,
+                        22.146646
+                  ]
+            },
+            {
+                  "name": "Palacio de Valle",
+                  "text": "A striking palace in Cienfuegos with eclectic architecture and Moorish influences.",
+                  "category": "castle",
+                  "coords": [
+                        -80.451475,
+                        22.121347
+                  ]
+            },
+            {
+                  "name": "Museo Histórico Naval",
+                  "text": "A naval museum in Cienfuegos documenting Cuba's maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        -80.455414,
+                        22.150237
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Julio Antonio Mella",
+                  "text": "Cultural center in Cienfuegos for theatre, music, and local events.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.45068,
+                        22.123911
+                  ]
+            },
+            {
+                  "name": "Centro dramático de Cienfuegos. Sala Aida Conde",
+                  "text": "A local theatre hall in Cienfuegos named after Aida Conde.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.449814,
+                        22.146029
+                  ]
+            },
+            {
+                  "name": "Museo Provincial (furniture)",
+                  "text": "Provincial museum in Cienfuegos focusing on furniture.",
+                  "category": "museum",
+                  "coords": [
+                        -80.452959,
+                        22.145346
+                  ]
+            },
+            {
+                  "name": "Playa Alegre",
+                  "text": "A beach located in the city of Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.442708,
+                        22.12525
+                  ]
+            },
+            {
+                  "name": "Punta del Medio",
+                  "text": "A local beach in Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -80.453187,
+                        22.123833
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "A museum dedicated to railway history in Cienfuegos.",
+                  "category": "museum",
+                  "coords": [
+                        -80.457334,
+                        22.145478
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An outdoor theatre in Cienfuegos.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.433133,
+                        22.154984
+                  ]
+            },
+            {
+                  "name": "Ceferino A. Méndez",
+                  "text": "A monument dedicated to Ceferino A. Méndez in Cienfuegos.",
+                  "category": "historical",
+                  "coords": [
+                        -80.44856,
+                        22.143332
+                  ]
+            },
+            {
+                  "name": "Benny Moré",
+                  "text": "A monument in Cienfuegos dedicated to the famous singer Benny Moré.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448347,
+                        22.144946
+                  ]
+            },
+            {
+                  "name": "Casa de Los Leones",
+                  "text": "A local attraction in Cienfuegos known as the House of Lions.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.447928,
+                        22.147041
+                  ]
+            },
+            {
+                  "name": "Mirador Palacio Ferrer",
+                  "text": "A viewpoint offering panoramas from the Palacio Ferrer in Cienfuegos.",
+                  "category": "natural",
+                  "coords": [
+                        -80.454078,
+                        22.145782
+                  ]
+            },
+            {
+                  "name": "Marlin Marina Cienfuegos",
+                  "text": "The marina in Cienfuegos for boating and maritime activities.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.452163,
+                        22.124826
+                  ]
+            },
+            {
+                  "name": "Cienfuegos honra a sus Mártires",
+                  "text": "A monument in Cienfuegos honoring the city's martyrs.",
+                  "category": "historical",
+                  "coords": [
+                        -80.448873,
+                        22.140721
+                  ]
+            },
+            {
+                  "name": "Trees",
+                  "text": "An attraction featuring trees in Cienfuegos.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.45172,
+                        22.142132
+                  ]
+            },
+            {
+                  "name": "Casa-Taller Santiago Hermes",
+                  "text": "An art gallery and workshop by Santiago Hermes in Cienfuegos.",
+                  "category": "museum",
+                  "coords": [
+                        -80.443422,
+                        22.148099
+                  ]
+            },
+            {
+                  "name": "Malecón",
+                  "text": "A scenic waterfront promenade in Cienfuegos.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.449648,
+                        22.135504
+                  ]
+            },
+            {
+                  "name": "Busto de Fray Bartolomé de las Casas",
+                  "text": "A monument featuring the bust of Fray Bartolomé de las Casas in Cienfuegos.",
+                  "category": "historical",
+                  "coords": [
+                        -80.442335,
+                        22.146397
+                  ]
+            },
+            {
+                  "name": "Cementerio de la Reina",
+                  "text": "A historic cemetery in Cienfuegos known for its marble sculptures.",
+                  "category": "landmark",
+                  "coords": [
+                        -80.464075,
+                        22.145681
+                  ]
+            },
+            {
+                  "name": "Catetral de Nuestra Señora de la Purísima Concepción",
+                  "text": "The main Catholic cathedral of Cienfuegos.",
+                  "category": "religious",
+                  "coords": [
+                        -80.451769,
+                        22.146035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU",
     coords: [-80.4500, 22.1467],
@@ -271,7 +4339,1168 @@ export const cubaCities: POI[] = [
     historyYear: 1819,
     area: 333, image: "/poi-images/cu-cienfuegos.webp"},
   {
-    id: "cu-camaguey",
+    id: "cu-camaguey", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Avellaneda",
+                  "text": "Ein bedeutendes Theater in Camagüey, das für seine kulturellen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.916008,
+                        21.382406
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "Ein historisches Gebäude in Camagüey, das heute als Museum und Kulturraum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923117,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "Das Haupttheater der Stadt und ein Zentrum für darstellende Künste in Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.919795,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Quinta Simoni",
+                  "text": "Ein historisches Herrenhaus, das als Museum die lokale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -77.929883,
+                        21.38567
+                  ]
+            },
+            {
+                  "name": "Museo Provincial Ignacio Agramonte",
+                  "text": "Das Provinzmuseum von Camagüey mit Sammlungen zu Kunst, Geschichte und Naturkunde.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916216,
+                        21.39048
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Ignacio Agramonte",
+                  "text": "Das Geburtshaus des Nationalhelden Ignacio Agramonte, heute ein historisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918292,
+                        21.381874
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Carlos J Finlay",
+                  "text": "Ein Museum im Geburtshaus von Carlos J. Finlay, dem Entdecker des Gelbfieber-Überträgers.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919418,
+                        21.37831
+                  ]
+            },
+            {
+                  "name": "Museo de San Juan de Dios",
+                  "text": "Ein Museum in einem ehemaligen Krankenhauskomplex an der historischen Plaza de San Juan de Dios.",
+                  "category": "museum",
+                  "coords": [
+                        -77.91777,
+                        21.375992
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "Ein Museum, das der Geschichte der Eisenbahn in Kuba und der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -77.915735,
+                        21.38918
+                  ]
+            },
+            {
+                  "name": "Teatro Tassende",
+                  "text": "Ein Theater in Camagüey, das regelmäßig verschiedene Bühnenproduktionen zeigt.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.918397,
+                        21.383247
+                  ]
+            },
+            {
+                  "name": "Parque De Diversiones \"Camilo Cienfuegos\"",
+                  "text": "Ein beliebter Freizeitpark in Camagüey, benannt nach dem Revolutionär Camilo Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.915336,
+                        21.36344
+                  ]
+            },
+            {
+                  "name": "Maqueta de la ciudad",
+                  "text": "Ein Museum, das ein detailliertes maßstabsgetreues Modell des historischen Zentrums zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918486,
+                        21.379407
+                  ]
+            },
+            {
+                  "name": "Museo Jesús Suárez Gayol",
+                  "text": "Ein Museum, das dem Leben und Wirken des Revolutionärs Jesús Suárez Gayol gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916049,
+                        21.378227
+                  ]
+            },
+            {
+                  "name": "Museo Casa natal de Nicolás Guillén",
+                  "text": "Das Geburtshaus des berühmten kubanischen Dichters Nicolás Guillén, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919579,
+                        21.38029
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Rafael Pila Pérez",
+                  "text": "Eine kulturelle Einrichtung in Camagüey, die Theateraufführungen und Konzerte anbietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.9306,
+                        21.380883
+                  ]
+            },
+            {
+                  "name": "Sitio Historico \"Asalto al Carro Celular\"",
+                  "text": "Eine historische Stätte, die an ein wichtiges Ereignis der kubanischen Revolution erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        -77.910929,
+                        21.388575
+                  ]
+            },
+            {
+                  "name": "Auditórium Iván Hidalgo Funes",
+                  "text": "Ein großes Auditorium in Camagüey für Versammlungen und kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.913054,
+                        21.375723
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "Ein lokales Aquarium in Camagüey, das verschiedene marine Arten der Region zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.91329,
+                        21.37667
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Freilufttheater in Camagüey für öffentliche Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.91458,
+                        21.367397
+                  ]
+            },
+            {
+                  "name": "Parque de Arena",
+                  "text": "Ein Erholungsbereich mit Sandboden für Kinder und Familien in Camagüey.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.910559,
+                        21.374802
+                  ]
+            },
+            {
+                  "name": "Centro Provincial de las Artes Plásticas",
+                  "text": "Ein Zentrum zur Förderung und Ausstellung zeitgenössischer bildender Kunst in der Provinz.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916709,
+                        21.383706
+                  ]
+            },
+            {
+                  "name": "Parque Japonés",
+                  "text": "Ein im japanischen Stil angelegter Garten innerhalb der städtischen Parkanlagen.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.916607,
+                        21.364217
+                  ]
+            },
+            {
+                  "name": "Obelisco a Joaquín de Agüero",
+                  "text": "Ein Denkmal zu Ehren des Unabhängigkeitskämpfers Joaquín de Agüero.",
+                  "category": "historical",
+                  "coords": [
+                        -77.916421,
+                        21.400389
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Carmen",
+                  "text": "Ein religiöses Denkmal oder Gebäude, das Unserer Lieben Frau vom Berge Karmel gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -77.923666,
+                        21.380024
+                  ]
+            },
+            {
+                  "name": "Galería Deltoro",
+                  "text": "Eine lokale Galerie in Camagüey, die zeitgenössische Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.922613,
+                        21.3798
+                  ]
+            },
+            {
+                  "name": "Monumento a Salvador Cisneros",
+                  "text": "Ein Salvador Cisneros gewidmetes Denkmal in Camagüey.",
+                  "category": "historical",
+                  "coords": [
+                        -77.910951,
+                        21.37602
+                  ]
+            },
+            {
+                  "name": "ESTUDIO Chuli HERRERA",
+                  "text": "Ein lokales Kunststudio und eine Galerie in Camagüey.",
+                  "category": "museum",
+                  "coords": [
+                        -77.913421,
+                        21.393325
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Joaquín de Agüero",
+                  "text": "Ein Kulturzentrum für lokale Künste in Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.917359,
+                        21.391057
+                  ]
+            },
+            {
+                  "name": "Palmares",
+                  "text": "Eine Freizeiteinrichtung und Sehenswürdigkeit in Camagüey.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918634,
+                        21.38511
+                  ]
+            },
+            {
+                  "name": "Institución Sociocultural Proyecto eJo",
+                  "text": "Eine soziokulturelle Institution und ein Kunstzentrum in Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.914968,
+                        21.382669
+                  ]
+            },
+            {
+                  "name": "Antigua Cárcel de Camagüey",
+                  "text": "Die Überreste des historischen Gefängnisses von Camagüey.",
+                  "category": "historical",
+                  "coords": [
+                        -77.913838,
+                        21.388413
+                  ]
+            },
+            {
+                  "name": "Puente de Santa Bárbara",
+                  "text": "Die Santa-Bárbara-Brücke, ein lokales Wahrzeichen in Camagüey.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.940933,
+                        21.387896
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Avellaneda",
+                  "text": "Camagüey jelentős színháza, amely kulturális előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.916008,
+                        21.382406
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "Történelmi épület Camagüeyben, amely ma múzeumként és kulturális térként szolgál.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923117,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "A város főszínháza és az előadóművészetek központja Camagüeyben.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.919795,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Quinta Simoni",
+                  "text": "Történelmi udvarház, amely múzeumként mutatja be a helyi történelmet és kultúrát.",
+                  "category": "museum",
+                  "coords": [
+                        -77.929883,
+                        21.38567
+                  ]
+            },
+            {
+                  "name": "Museo Provincial Ignacio Agramonte",
+                  "text": "Camagüey tartományi múzeuma művészeti, történelmi és természettudományi gyűjteményekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916216,
+                        21.39048
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Ignacio Agramonte",
+                  "text": "Ignacio Agramonte nemzeti hős szülőháza, ma történelmi múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918292,
+                        21.381874
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Carlos J Finlay",
+                  "text": "Múzeum Carlos J. Finlay szülőházában, aki a sárgaláz terjesztőjének felfedezője volt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919418,
+                        21.37831
+                  ]
+            },
+            {
+                  "name": "Museo de San Juan de Dios",
+                  "text": "Múzeum egy egykori kórházkomplexumban, a történelmi Plaza de San Juan de Dios téren.",
+                  "category": "museum",
+                  "coords": [
+                        -77.91777,
+                        21.375992
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "A kubai és a régió vasúttörténetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.915735,
+                        21.38918
+                  ]
+            },
+            {
+                  "name": "Teatro Tassende",
+                  "text": "Camagüey egyik színháza, amely rendszeresen mutat be különféle színpadi produkciókat.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.918397,
+                        21.383247
+                  ]
+            },
+            {
+                  "name": "Parque De Diversiones \"Camilo Cienfuegos\"",
+                  "text": "Népszerű vidámpark Camagüeyben, a forradalmár Camilo Cienfuegosról elnevezve.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.915336,
+                        21.36344
+                  ]
+            },
+            {
+                  "name": "Maqueta de la ciudad",
+                  "text": "Múzeum, amely a történelmi központ részletes méretarányos makettjét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918486,
+                        21.379407
+                  ]
+            },
+            {
+                  "name": "Museo Jesús Suárez Gayol",
+                  "text": "Jesús Suárez Gayol forradalmár életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916049,
+                        21.378227
+                  ]
+            },
+            {
+                  "name": "Museo Casa natal de Nicolás Guillén",
+                  "text": "A híres kubai költő, Nicolás Guillén szülőháza, ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919579,
+                        21.38029
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Rafael Pila Pérez",
+                  "text": "Kulturális intézmény Camagüeyben, amely színházi előadásokat és koncerteket kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.9306,
+                        21.380883
+                  ]
+            },
+            {
+                  "name": "Sitio Historico \"Asalto al Carro Celular\"",
+                  "text": "Történelmi emlékhely, amely a kubai forradalom egyik fontos eseményére emlékeztet.",
+                  "category": "museum",
+                  "coords": [
+                        -77.910929,
+                        21.388575
+                  ]
+            },
+            {
+                  "name": "Auditórium Iván Hidalgo Funes",
+                  "text": "Nagyméretű auditórium Camagüeyben gyűlések és kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.913054,
+                        21.375723
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "Helyi akvárium Camagüeyben, amely a régió különféle tengeri fajait mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.91329,
+                        21.37667
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Szabadtéri színház Camagüeyben nyilvános előadások és rendezvények számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.91458,
+                        21.367397
+                  ]
+            },
+            {
+                  "name": "Parque de Arena",
+                  "text": "Homokos talajú pihenőhely gyermekek és családok számára Camagüeyben.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.910559,
+                        21.374802
+                  ]
+            },
+            {
+                  "name": "Centro Provincial de las Artes Plásticas",
+                  "text": "A tartományi kortárs képzőművészet népszerűsítésére és kiállítására szolgáló központ.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916709,
+                        21.383706
+                  ]
+            },
+            {
+                  "name": "Parque Japonés",
+                  "text": "Japán stílusú kert a városi parkrendszer területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.916607,
+                        21.364217
+                  ]
+            },
+            {
+                  "name": "Obelisco a Joaquín de Agüero",
+                  "text": "Emlékmű Joaquín de Agüero függetlenségi harcos tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -77.916421,
+                        21.400389
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Carmen",
+                  "text": "A Kármel-hegyi Boldogasszonynak szentelt vallási emlékmű vagy épület.",
+                  "category": "historical",
+                  "coords": [
+                        -77.923666,
+                        21.380024
+                  ]
+            },
+            {
+                  "name": "Galería Deltoro",
+                  "text": "Helyi galéria Camagüeyben, amely kortárs műalkotásokat állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        -77.922613,
+                        21.3798
+                  ]
+            },
+            {
+                  "name": "Monumento a Salvador Cisneros",
+                  "text": "Salvador Cisneros emlékére állított emlékmű Camagüeyben.",
+                  "category": "historical",
+                  "coords": [
+                        -77.910951,
+                        21.37602
+                  ]
+            },
+            {
+                  "name": "ESTUDIO Chuli HERRERA",
+                  "text": "Helyi művészeti stúdió és galéria Camagüeyben.",
+                  "category": "museum",
+                  "coords": [
+                        -77.913421,
+                        21.393325
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Joaquín de Agüero",
+                  "text": "Helyi művészeti kulturális központ Camagüeyben.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.917359,
+                        21.391057
+                  ]
+            },
+            {
+                  "name": "Palmares",
+                  "text": "Szabadidős létesítmény és látnivaló Camagüeyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918634,
+                        21.38511
+                  ]
+            },
+            {
+                  "name": "Institución Sociocultural Proyecto eJo",
+                  "text": "Szociokulturális intézmény és művészeti központ Camagüeyben.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.914968,
+                        21.382669
+                  ]
+            },
+            {
+                  "name": "Antigua Cárcel de Camagüey",
+                  "text": "Camagüey történelmi börtönének maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -77.913838,
+                        21.388413
+                  ]
+            },
+            {
+                  "name": "Puente de Santa Bárbara",
+                  "text": "A Santa Bárbara-híd, egy helyi jellegzetesség Camagüeyben.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.940933,
+                        21.387896
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Avellaneda",
+                  "text": "Un teatru important din Camagüey, cunoscut pentru spectacolele sale culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.916008,
+                        21.382406
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "O clădire istorică din Camagüey care servește astăzi ca muzeu și spațiu cultural.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923117,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "Teatrul principal al orașului și un centru pentru artele spectacolului din Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.919795,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Quinta Simoni",
+                  "text": "Un conac istoric care prezintă istoria și cultura locală sub formă de muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -77.929883,
+                        21.38567
+                  ]
+            },
+            {
+                  "name": "Museo Provincial Ignacio Agramonte",
+                  "text": "Muzeul provincial din Camagüey, cu colecții de artă, istorie și științe naturale.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916216,
+                        21.39048
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Ignacio Agramonte",
+                  "text": "Casa natală a eroului național Ignacio Agramonte, astăzi muzeu istoric.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918292,
+                        21.381874
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Carlos J Finlay",
+                  "text": "Un muzeu situat în casa natală a lui Carlos J. Finlay, cel care a descoperit vectorul febrei galbene.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919418,
+                        21.37831
+                  ]
+            },
+            {
+                  "name": "Museo de San Juan de Dios",
+                  "text": "Un muzeu situat într-un fost complex spitalicesc în istorica Piață San Juan de Dios.",
+                  "category": "museum",
+                  "coords": [
+                        -77.91777,
+                        21.375992
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "Un muzeu dedicat istoriei căilor ferate din Cuba și din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -77.915735,
+                        21.38918
+                  ]
+            },
+            {
+                  "name": "Teatro Tassende",
+                  "text": "Un teatru din Camagüey care prezintă în mod regulat diverse producții scenice.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.918397,
+                        21.383247
+                  ]
+            },
+            {
+                  "name": "Parque De Diversiones \"Camilo Cienfuegos\"",
+                  "text": "Un parc de distracții popular din Camagüey, numit după revoluționarul Camilo Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.915336,
+                        21.36344
+                  ]
+            },
+            {
+                  "name": "Maqueta de la ciudad",
+                  "text": "Un muzeu care expune o machetă detaliată la scară a centrului istoric.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918486,
+                        21.379407
+                  ]
+            },
+            {
+                  "name": "Museo Jesús Suárez Gayol",
+                  "text": "Un muzeu dedicat vieții și activității revoluționarului Jesús Suárez Gayol.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916049,
+                        21.378227
+                  ]
+            },
+            {
+                  "name": "Museo Casa natal de Nicolás Guillén",
+                  "text": "Casa natală a celebrului poet cubanez Nicolás Guillén, astăzi muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919579,
+                        21.38029
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Rafael Pila Pérez",
+                  "text": "O instituție culturală din Camagüey care oferă spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.9306,
+                        21.380883
+                  ]
+            },
+            {
+                  "name": "Sitio Historico \"Asalto al Carro Celular\"",
+                  "text": "Un sit istoric care comemorează un eveniment important al revoluției cubaneze.",
+                  "category": "museum",
+                  "coords": [
+                        -77.910929,
+                        21.388575
+                  ]
+            },
+            {
+                  "name": "Auditórium Iván Hidalgo Funes",
+                  "text": "Un auditorium mare în Camagüey pentru adunări și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.913054,
+                        21.375723
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "Un acvariu local din Camagüey care prezintă diverse specii marine din regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.91329,
+                        21.37667
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în aer liber din Camagüey pentru spectacole și evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.91458,
+                        21.367397
+                  ]
+            },
+            {
+                  "name": "Parque de Arena",
+                  "text": "O zonă de recreere cu nisip pentru copii și familii din Camagüey.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.910559,
+                        21.374802
+                  ]
+            },
+            {
+                  "name": "Centro Provincial de las Artes Plásticas",
+                  "text": "Un centru pentru promovarea și expunerea artelor vizuale contemporane în provincie.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916709,
+                        21.383706
+                  ]
+            },
+            {
+                  "name": "Parque Japonés",
+                  "text": "O grădină amenajată în stil japonez în cadrul parcurilor orașului.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.916607,
+                        21.364217
+                  ]
+            },
+            {
+                  "name": "Obelisco a Joaquín de Agüero",
+                  "text": "Un monument în cinstea luptătorului pentru independență Joaquín de Agüero.",
+                  "category": "historical",
+                  "coords": [
+                        -77.916421,
+                        21.400389
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Carmen",
+                  "text": "Un monument sau o clădire religioasă dedicată Maicii Domnului de pe Muntele Carmel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.923666,
+                        21.380024
+                  ]
+            },
+            {
+                  "name": "Galería Deltoro",
+                  "text": "O galerie locală din Camagüey care expune opere de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        -77.922613,
+                        21.3798
+                  ]
+            },
+            {
+                  "name": "Monumento a Salvador Cisneros",
+                  "text": "Un monument dedicat lui Salvador Cisneros în Camagüey.",
+                  "category": "historical",
+                  "coords": [
+                        -77.910951,
+                        21.37602
+                  ]
+            },
+            {
+                  "name": "ESTUDIO Chuli HERRERA",
+                  "text": "Un studio de artă și galerie locală în Camagüey.",
+                  "category": "museum",
+                  "coords": [
+                        -77.913421,
+                        21.393325
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Joaquín de Agüero",
+                  "text": "Un centru cultural pentru artele locale în Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.917359,
+                        21.391057
+                  ]
+            },
+            {
+                  "name": "Palmares",
+                  "text": "O facilitate de recreere și atracție în Camagüey.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918634,
+                        21.38511
+                  ]
+            },
+            {
+                  "name": "Institución Sociocultural Proyecto eJo",
+                  "text": "O instituție socioculturală și centru de artă în Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.914968,
+                        21.382669
+                  ]
+            },
+            {
+                  "name": "Antigua Cárcel de Camagüey",
+                  "text": "Rămășițele închisorii istorice din Camagüey.",
+                  "category": "historical",
+                  "coords": [
+                        -77.913838,
+                        21.388413
+                  ]
+            },
+            {
+                  "name": "Puente de Santa Bárbara",
+                  "text": "Podul Santa Bárbara, un punct de reper local în Camagüey.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.940933,
+                        21.387896
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Avellaneda",
+                  "text": "A significant theatre in Camagüey known for its cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.916008,
+                        21.382406
+                  ]
+            },
+            {
+                  "name": "Iglesia de Santa Ana",
+                  "text": "A historic building in Camagüey that now serves as a museum and cultural space.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923117,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Teatro Principal",
+                  "text": "The city's main theatre and a hub for performing arts in Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.919795,
+                        21.38363
+                  ]
+            },
+            {
+                  "name": "Quinta Simoni",
+                  "text": "A historic manor house that presents local history and culture as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.929883,
+                        21.38567
+                  ]
+            },
+            {
+                  "name": "Museo Provincial Ignacio Agramonte",
+                  "text": "The provincial museum of Camagüey featuring collections of art, history, and natural science.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916216,
+                        21.39048
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Ignacio Agramonte",
+                  "text": "The birthplace of national hero Ignacio Agramonte, now a historical museum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918292,
+                        21.381874
+                  ]
+            },
+            {
+                  "name": "Casa Natal de Carlos J Finlay",
+                  "text": "A museum located in the birthplace of Carlos J. Finlay, the discoverer of the yellow fever vector.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919418,
+                        21.37831
+                  ]
+            },
+            {
+                  "name": "Museo de San Juan de Dios",
+                  "text": "A museum located in a former hospital complex at the historic Plaza de San Juan de Dios.",
+                  "category": "museum",
+                  "coords": [
+                        -77.91777,
+                        21.375992
+                  ]
+            },
+            {
+                  "name": "Museo del Ferrocarril",
+                  "text": "A museum dedicated to the history of the railway in Cuba and the region.",
+                  "category": "museum",
+                  "coords": [
+                        -77.915735,
+                        21.38918
+                  ]
+            },
+            {
+                  "name": "Teatro Tassende",
+                  "text": "A theatre in Camagüey that regularly hosts various stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.918397,
+                        21.383247
+                  ]
+            },
+            {
+                  "name": "Luna Park Camillo Cienfuegos",
+                  "text": "A popular amusement park in Camagüey named after the revolutionary Camilo Cienfuegos.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.915336,
+                        21.36344
+                  ]
+            },
+            {
+                  "name": "Maqueta de la ciudad",
+                  "text": "A museum displaying a detailed scale model of the city's historic center.",
+                  "category": "museum",
+                  "coords": [
+                        -77.918486,
+                        21.379407
+                  ]
+            },
+            {
+                  "name": "Museo Jesús Suárez Gayol",
+                  "text": "A museum dedicated to the life and work of the revolutionary Jesús Suárez Gayol.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916049,
+                        21.378227
+                  ]
+            },
+            {
+                  "name": "Museo Casa natal de Nicolás Guillén",
+                  "text": "The birthplace of the famous Cuban poet Nicolás Guillén, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.919579,
+                        21.38029
+                  ]
+            },
+            {
+                  "name": "Teatro Dr. Rafael Pila Pérez",
+                  "text": "A cultural institution in Camagüey offering theatre performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.9306,
+                        21.380883
+                  ]
+            },
+            {
+                  "name": "Sitio Historico \"Asalto al Carro Celular\"",
+                  "text": "A historical site commemorating an important event of the Cuban Revolution.",
+                  "category": "museum",
+                  "coords": [
+                        -77.910929,
+                        21.388575
+                  ]
+            },
+            {
+                  "name": "Auditórium Iván Hidalgo Funes",
+                  "text": "A large auditorium in Camagüey used for assemblies and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.913054,
+                        21.375723
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "A local aquarium in Camagüey showcasing various marine species of the region.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.91329,
+                        21.37667
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "An open-air theatre in Camagüey used for public performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.91458,
+                        21.367397
+                  ]
+            },
+            {
+                  "name": "playground - Parque de Arena",
+                  "text": "A recreational area with sandy ground for children and families in Camagüey.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.910559,
+                        21.374802
+                  ]
+            },
+            {
+                  "name": "Centro Provincial de las Artes Plásticas",
+                  "text": "A center for the promotion and exhibition of contemporary visual arts in the province.",
+                  "category": "museum",
+                  "coords": [
+                        -77.916709,
+                        21.383706
+                  ]
+            },
+            {
+                  "name": "Parque Japonés",
+                  "text": "A Japanese-style garden located within the city's park system.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.916607,
+                        21.364217
+                  ]
+            },
+            {
+                  "name": "Obelisco a Joaquín de Agüero",
+                  "text": "A monument dedicated to the independence fighter Joaquín de Agüero.",
+                  "category": "historical",
+                  "coords": [
+                        -77.916421,
+                        21.400389
+                  ]
+            },
+            {
+                  "name": "Nuestra Sra del Carmen",
+                  "text": "A religious monument or building dedicated to Our Lady of Mount Carmel.",
+                  "category": "historical",
+                  "coords": [
+                        -77.923666,
+                        21.380024
+                  ]
+            },
+            {
+                  "name": "Galería Deltoro",
+                  "text": "A local gallery in Camagüey exhibiting contemporary works of art.",
+                  "category": "museum",
+                  "coords": [
+                        -77.922613,
+                        21.3798
+                  ]
+            },
+            {
+                  "name": "Monumento a Salvador Cisneros",
+                  "text": "A monument dedicated to Salvador Cisneros in Camagüey.",
+                  "category": "historical",
+                  "coords": [
+                        -77.910951,
+                        21.37602
+                  ]
+            },
+            {
+                  "name": "Chuli HERRERA STUDIO",
+                  "text": "A local art studio and gallery in Camagüey.",
+                  "category": "museum",
+                  "coords": [
+                        -77.913421,
+                        21.393325
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Joaquín de Agüero",
+                  "text": "A cultural center for local arts in Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.917359,
+                        21.391057
+                  ]
+            },
+            {
+                  "name": "Palmares",
+                  "text": "A recreational facility and attraction in Camagüey.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918634,
+                        21.38511
+                  ]
+            },
+            {
+                  "name": "Institución Sociocultural Proyecto eJo",
+                  "text": "A sociocultural institution and arts center in Camagüey.",
+                  "category": "cultural",
+                  "coords": [
+                        -77.914968,
+                        21.382669
+                  ]
+            },
+            {
+                  "name": "Antigua Cárcel de Camagüey",
+                  "text": "The remains of the historic prison of Camagüey.",
+                  "category": "historical",
+                  "coords": [
+                        -77.913838,
+                        21.388413
+                  ]
+            },
+            {
+                  "name": "Puente de Santa Bárbara",
+                  "text": "The Santa Bárbara bridge, a local landmark in Camagüey.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.940933,
+                        21.387896
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU",
     coords: [-77.9167, 21.3833],
@@ -315,7 +5544,556 @@ export const cubaCities: POI[] = [
     historyYear: 1514,
     area: 1106, image: "/poi-images/cu-camaguey.webp"},
   {
-    id: "cu-holguin",
+    id: "cu-holguin", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Eddy Suñol",
+                  "text": "Das Teatro Eddy Suñol ist eine bedeutende Kultur- und Theaterinstitution in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.258912,
+                        20.886222
+                  ]
+            },
+            {
+                  "name": "La Periquera",
+                  "text": "La Periquera ist ein historisches Museum in der Stadt Holguín.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259574,
+                        20.887672
+                  ]
+            },
+            {
+                  "name": "Museo de la clandestinidad",
+                  "text": "Das Museo de la clandestinidad ist ein Museum in Holguín, das der lokalen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -76.256891,
+                        20.883024
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "Das Acuario ist ein lokales Aquarium in Holguín.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.261598,
+                        20.892637
+                  ]
+            },
+            {
+                  "name": "Teatro de la UCMHo",
+                  "text": "Das Teatro de la UCMHo ist ein Theater in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.26887,
+                        20.886217
+                  ]
+            },
+            {
+                  "name": "Teatro Ismaelillo",
+                  "text": "Das Teatro Ismaelillo ist ein bekanntes Theater in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.257239,
+                        20.881175
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Loma de la Cruz",
+                  "text": "Das Anfiteatro Loma de la Cruz ist ein Freilichttheater in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.264615,
+                        20.897584
+                  ]
+            },
+            {
+                  "name": "Loma de la Cruz",
+                  "text": "Loma de la Cruz ist ein berühmter Aussichtspunkt mit Panoramablick über Holguín.",
+                  "category": "natural",
+                  "coords": [
+                        -76.265613,
+                        20.900004
+                  ]
+            },
+            {
+                  "name": "Monumento de las seis columnas",
+                  "text": "Das Monumento de las seis columnas ist ein bemerkenswertes Denkmal in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.293419,
+                        20.878809
+                  ]
+            },
+            {
+                  "name": "Hacha de Holguín",
+                  "text": "Die Hacha de Holguín ist ein ikonisches Denkmal, das die Stadt Holguín symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24324,
+                        20.88906
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Holguín",
+                  "text": "Die Galería de Arte Holguín ist eine bedeutende Kunstgalerie in Holguín.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259691,
+                        20.889402
+                  ]
+            },
+            {
+                  "name": "Maximo Gómez",
+                  "text": "Ein Denkmal für Maximo Gómez in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.242665,
+                        20.884835
+                  ]
+            },
+            {
+                  "name": "Ruinas de Antiguo Fuerte español",
+                  "text": "Die Ruinas de Antiguo Fuerte español sind die Überreste eines alten spanischen Forts in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.261843,
+                        20.877178
+                  ]
+            },
+            {
+                  "name": "Monumento a Calixto García",
+                  "text": "Das Monumento a Calixto García steht als Hommage in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24051,
+                        20.891572
+                  ]
+            },
+            {
+                  "name": "San Isidoro",
+                  "text": "San Isidoro ist ein historisches Gotteshaus in der Stadt Holguín.",
+                  "category": "religious",
+                  "coords": [
+                        -76.257707,
+                        20.8855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Eddy Suñol",
+                  "text": "A Teatro Eddy Suñol egy jelentős kulturális és színházi intézmény Holguínban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.258912,
+                        20.886222
+                  ]
+            },
+            {
+                  "name": "La Periquera",
+                  "text": "A La Periquera egy történelmi múzeum Holguín városában.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259574,
+                        20.887672
+                  ]
+            },
+            {
+                  "name": "Museo de la clandestinidad",
+                  "text": "A Museo de la clandestinidad a helyi történelemnek szentelt múzeum Holguínban.",
+                  "category": "museum",
+                  "coords": [
+                        -76.256891,
+                        20.883024
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "Az Acuario egy helyi akvárium Holguínban.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.261598,
+                        20.892637
+                  ]
+            },
+            {
+                  "name": "Teatro de la UCMHo",
+                  "text": "A Teatro de la UCMHo egy színház Holguínban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.26887,
+                        20.886217
+                  ]
+            },
+            {
+                  "name": "Teatro Ismaelillo",
+                  "text": "A Teatro Ismaelillo egy jól ismert színház Holguínban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.257239,
+                        20.881175
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Loma de la Cruz",
+                  "text": "Az Anfiteatro Loma de la Cruz egy szabadtéri színház Holguínban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.264615,
+                        20.897584
+                  ]
+            },
+            {
+                  "name": "Loma de la Cruz",
+                  "text": "A Loma de la Cruz egy híres kilátópont, ahonnan panorámás kilátás nyílik Holguínra.",
+                  "category": "natural",
+                  "coords": [
+                        -76.265613,
+                        20.900004
+                  ]
+            },
+            {
+                  "name": "Monumento de las seis columnas",
+                  "text": "A Monumento de las seis columnas egy nevezetes emlékmű Holguínban.",
+                  "category": "historical",
+                  "coords": [
+                        -76.293419,
+                        20.878809
+                  ]
+            },
+            {
+                  "name": "Hacha de Holguín",
+                  "text": "A Hacha de Holguín egy ikonikus emlékmű, amely Holguín városát szimbolizálja.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24324,
+                        20.88906
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Holguín",
+                  "text": "A Galería de Arte Holguín egy kiemelkedő művészeti galéria Holguínban.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259691,
+                        20.889402
+                  ]
+            },
+            {
+                  "name": "Maximo Gómez",
+                  "text": "Maximo Gómez emlékműve Holguínban.",
+                  "category": "historical",
+                  "coords": [
+                        -76.242665,
+                        20.884835
+                  ]
+            },
+            {
+                  "name": "Ruinas de Antiguo Fuerte español",
+                  "text": "A Ruinas de Antiguo Fuerte español egy régi spanyol erőd romjai Holguínban.",
+                  "category": "historical",
+                  "coords": [
+                        -76.261843,
+                        20.877178
+                  ]
+            },
+            {
+                  "name": "Monumento a Calixto García",
+                  "text": "A Monumento a Calixto García tiszteletadásként áll Holguínban.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24051,
+                        20.891572
+                  ]
+            },
+            {
+                  "name": "San Isidoro",
+                  "text": "A San Isidoro egy történelmi istentiszteleti hely Holguín városában.",
+                  "category": "religious",
+                  "coords": [
+                        -76.257707,
+                        20.8855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Eddy Suñol",
+                  "text": "Teatro Eddy Suñol este o importantă instituție culturală și teatrală din Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.258912,
+                        20.886222
+                  ]
+            },
+            {
+                  "name": "La Periquera",
+                  "text": "La Periquera este un muzeu istoric situat în orașul Holguín.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259574,
+                        20.887672
+                  ]
+            },
+            {
+                  "name": "Museo de la clandestinidad",
+                  "text": "Museo de la clandestinidad este un muzeu din Holguín dedicat istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        -76.256891,
+                        20.883024
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "Acuario este un acvariu local situat în Holguín.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.261598,
+                        20.892637
+                  ]
+            },
+            {
+                  "name": "Teatro de la UCMHo",
+                  "text": "Teatro de la UCMHo este un teatru situat în Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.26887,
+                        20.886217
+                  ]
+            },
+            {
+                  "name": "Teatro Ismaelillo",
+                  "text": "Teatro Ismaelillo este un teatru bine cunoscut situat în Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.257239,
+                        20.881175
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Loma de la Cruz",
+                  "text": "Anfiteatro Loma de la Cruz este un amfiteatru în aer liber în Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.264615,
+                        20.897584
+                  ]
+            },
+            {
+                  "name": "Loma de la Cruz",
+                  "text": "Loma de la Cruz este un punct de belvedere renumit care oferă vederi panoramice asupra Holguínului.",
+                  "category": "natural",
+                  "coords": [
+                        -76.265613,
+                        20.900004
+                  ]
+            },
+            {
+                  "name": "Monumento de las seis columnas",
+                  "text": "Monumento de las seis columnas este un monument remarcabil situat în Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.293419,
+                        20.878809
+                  ]
+            },
+            {
+                  "name": "Hacha de Holguín",
+                  "text": "Hacha de Holguín este un monument simbolic al orașului Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24324,
+                        20.88906
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Holguín",
+                  "text": "Galería de Arte Holguín este o galerie de artă proeminentă situată în Holguín.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259691,
+                        20.889402
+                  ]
+            },
+            {
+                  "name": "Maximo Gómez",
+                  "text": "Un monument dedicat lui Maximo Gómez situat în Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.242665,
+                        20.884835
+                  ]
+            },
+            {
+                  "name": "Ruinas de Antiguo Fuerte español",
+                  "text": "Ruinas de Antiguo Fuerte español sunt rămășițele unui vechi fort spaniol din Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.261843,
+                        20.877178
+                  ]
+            },
+            {
+                  "name": "Monumento a Calixto García",
+                  "text": "Monumento a Calixto García se ridică ca un tribut în Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24051,
+                        20.891572
+                  ]
+            },
+            {
+                  "name": "San Isidoro",
+                  "text": "San Isidoro este un lăcaș de cult istoric situat în orașul Holguín.",
+                  "category": "religious",
+                  "coords": [
+                        -76.257707,
+                        20.8855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Eddy Suñol",
+                  "text": "Teatro Eddy Suñol is a major cultural and theatrical institution located in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.258912,
+                        20.886222
+                  ]
+            },
+            {
+                  "name": "La Periquera",
+                  "text": "La Periquera is a historical museum located in the city of Holguín.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259574,
+                        20.887672
+                  ]
+            },
+            {
+                  "name": "Museo de la clandestinidad",
+                  "text": "Museo de la clandestinidad is a museum in Holguín dedicated to local history.",
+                  "category": "museum",
+                  "coords": [
+                        -76.256891,
+                        20.883024
+                  ]
+            },
+            {
+                  "name": "Acuario",
+                  "text": "The Acuario is a local aquarium located in Holguín.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.261598,
+                        20.892637
+                  ]
+            },
+            {
+                  "name": "Teatro de la UCMHo",
+                  "text": "Teatro de la UCMHo is a theatre venue situated in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.26887,
+                        20.886217
+                  ]
+            },
+            {
+                  "name": "Teatro Ismaelillo",
+                  "text": "Teatro Ismaelillo is a well-known theatre located in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.257239,
+                        20.881175
+                  ]
+            },
+            {
+                  "name": "Anfiteatro Loma de la Cruz",
+                  "text": "Anfiteatro Loma de la Cruz is an open-air theatre venue in Holguín.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.264615,
+                        20.897584
+                  ]
+            },
+            {
+                  "name": "Loma de la Cruz",
+                  "text": "Loma de la Cruz is a famous viewpoint offering panoramic views over Holguín.",
+                  "category": "natural",
+                  "coords": [
+                        -76.265613,
+                        20.900004
+                  ]
+            },
+            {
+                  "name": "Monumento de las seis columnas",
+                  "text": "Monumento de las seis columnas is a notable monument located in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.293419,
+                        20.878809
+                  ]
+            },
+            {
+                  "name": "Hacha de Holguín",
+                  "text": "Hacha de Holguín is an iconic monument symbolizing the city of Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24324,
+                        20.88906
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Holguín",
+                  "text": "Galería de Arte Holguín is a prominent art gallery located in Holguín.",
+                  "category": "museum",
+                  "coords": [
+                        -76.259691,
+                        20.889402
+                  ]
+            },
+            {
+                  "name": "Maximo Gómez",
+                  "text": "A monument dedicated to Maximo Gómez located in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.242665,
+                        20.884835
+                  ]
+            },
+            {
+                  "name": "Ruinas de Antiguo Fuerte español",
+                  "text": "The Ruinas de Antiguo Fuerte español are the remains of an old Spanish fort in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.261843,
+                        20.877178
+                  ]
+            },
+            {
+                  "name": "Monumento a Calixto García",
+                  "text": "The Monumento a Calixto García stands as a tribute in Holguín.",
+                  "category": "historical",
+                  "coords": [
+                        -76.24051,
+                        20.891572
+                  ]
+            },
+            {
+                  "name": "San Isidoro",
+                  "text": "San Isidoro is a historical place of worship located in the city of Holguín.",
+                  "category": "religious",
+                  "coords": [
+                        -76.257707,
+                        20.8855
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU",
     coords: [-76.2667, 20.8833],

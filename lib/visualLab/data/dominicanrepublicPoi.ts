@@ -52,7 +52,628 @@ export const dominicanrepublicCities: POI[] = [
     historyYear: 1496,
     area: 104.44, image: "/poi-images/do-santodomingo.webp"},
   {
-    id: "do-santiago",
+    id: "do-santiago", "sights": {
+      "de": [
+            {
+                  "name": "Museo Folklorico Don Tomas Morel",
+                  "text": "Das Museo Folklorico Don Tomas Morel ist ein Kulturmuseum in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.707886,
+                        19.453073
+                  ]
+            },
+            {
+                  "name": "Casa Del Arte",
+                  "text": "Casa Del Arte ist ein ansprechendes Museum in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706731,
+                        19.452772
+                  ]
+            },
+            {
+                  "name": "Iglesia Embrujo I",
+                  "text": "Iglesia Embrujo I dient als einzigartiges Museum in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.675342,
+                        19.440472
+                  ]
+            },
+            {
+                  "name": "Boreal Televisión",
+                  "text": "Boreal Televisión ist ein bekannter Theaterort in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.693503,
+                        19.449567
+                  ]
+            },
+            {
+                  "name": "Scream Land",
+                  "text": "Scream Land ist ein unterhaltsamer Freizeitpark in Santiago de los Caballeros.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.68652,
+                        19.457077
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Santiago",
+                  "text": "Das Centro de la Cultura Santiago ist ein bemerkenswertes Theater in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.707381,
+                        19.451114
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Eduardo León Jimenes",
+                  "text": "Das Centro Cultural Eduardo León Jimenes ist ein lehrreiches Museum in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.670646,
+                        19.463274
+                  ]
+            },
+            {
+                  "name": "Gran Teatro del Cibao",
+                  "text": "Das Gran Teatro del Cibao ist eine große Theatereinrichtung in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.692391,
+                        19.451223
+                  ]
+            },
+            {
+                  "name": "Anfiteatro PUCMM",
+                  "text": "Das Anfiteatro PUCMM ist ein Freilufttheater in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.685111,
+                        19.442203
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de la Restauración",
+                  "text": "Das Monumento a los Héroes de la Restauración ist eine markante Sehenswürdigkeit und ein bedeutendes Denkmal in Santiago de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694742,
+                        19.450898
+                  ]
+            },
+            {
+                  "name": "HP&H  Abogados",
+                  "text": "HP&H Abogados ist ein ausgewiesenes Denkmal in der Stadt Santiago de los Caballeros.",
+                  "category": "historical",
+                  "coords": [
+                        -70.690944,
+                        19.462214
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Las Carreras",
+                  "text": "Die Galería de Arte Las Carreras ist eine Kunstgalerie in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.698067,
+                        19.453478
+                  ]
+            },
+            {
+                  "name": "Paintball Club",
+                  "text": "Der Paintball Club ist eine Freizeitattraktion in Santiago de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.684059,
+                        19.459979
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "Das Monumento a los Maestros ist ein Gedenkmonument in Santiago de los Caballeros.",
+                  "category": "historical",
+                  "coords": [
+                        -70.693123,
+                        19.465249
+                  ]
+            },
+            {
+                  "name": "Fantasy Design",
+                  "text": "Fantasy Design ist ein kreatives Kunstzentrum in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.696218,
+                        19.471387
+                  ]
+            },
+            {
+                  "name": "Arte Milagros",
+                  "text": "Arte Milagros ist eine engagierte Kunstgalerie in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.703529,
+                        19.452045
+                  ]
+            },
+            {
+                  "name": "Galería Artística García",
+                  "text": "Die Galería Artística García ist eine Galerie für bildende Kunst in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.699661,
+                        19.45152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Folklorico Don Tomas Morel",
+                  "text": "A Museo Folklorico Don Tomas Morel egy kulturális múzeum Santiago de los Caballeros városában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.707886,
+                        19.453073
+                  ]
+            },
+            {
+                  "name": "Casa Del Arte",
+                  "text": "A Casa Del Arte egy magával ragadó múzeum Santiago de los Caballerosban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706731,
+                        19.452772
+                  ]
+            },
+            {
+                  "name": "Iglesia Embrujo I",
+                  "text": "Az Iglesia Embrujo I egyedülálló múzeumként szolgál Santiago de los Caballerosban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.675342,
+                        19.440472
+                  ]
+            },
+            {
+                  "name": "Boreal Televisión",
+                  "text": "A Boreal Televisión egy kiemelkedő színházi helyszín Santiago de los Caballerosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.693503,
+                        19.449567
+                  ]
+            },
+            {
+                  "name": "Scream Land",
+                  "text": "A Scream Land egy szórakoztató vidámpark Santiago de los Caballeros városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.68652,
+                        19.457077
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Santiago",
+                  "text": "A Centro de la Cultura Santiago egy nevezetes színház Santiago de los Caballerosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.707381,
+                        19.451114
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Eduardo León Jimenes",
+                  "text": "A Centro Cultural Eduardo León Jimenes egy oktatási múzeum Santiago de los Caballeros városában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.670646,
+                        19.463274
+                  ]
+            },
+            {
+                  "name": "Gran Teatro del Cibao",
+                  "text": "A Gran Teatro del Cibao egy jelentős színházi létesítmény Santiago de los Caballerosban.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.692391,
+                        19.451223
+                  ]
+            },
+            {
+                  "name": "Anfiteatro PUCMM",
+                  "text": "Az Anfiteatro PUCMM egy szabadtéri színházi helyszín Santiago de los Caballeros városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.685111,
+                        19.442203
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de la Restauración",
+                  "text": "A Monumento a los Héroes de la Restauración egy kiemelkedő látványosság és nevezetes emlékmű Santiago de los Caballerosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694742,
+                        19.450898
+                  ]
+            },
+            {
+                  "name": "HP&H  Abogados",
+                  "text": "A HP&H Abogados egy kijelölt emlékmű Santiago de los Caballeros városában.",
+                  "category": "historical",
+                  "coords": [
+                        -70.690944,
+                        19.462214
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Las Carreras",
+                  "text": "A Galería de Arte Las Carreras egy művészeti galéria Santiago de los Caballerosban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.698067,
+                        19.453478
+                  ]
+            },
+            {
+                  "name": "Paintball Club",
+                  "text": "A Paintball Club egy szabadidős látványosság Santiago de los Caballeros városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.684059,
+                        19.459979
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "A Monumento a los Maestros egy emlékhely Santiago de los Caballerosban.",
+                  "category": "historical",
+                  "coords": [
+                        -70.693123,
+                        19.465249
+                  ]
+            },
+            {
+                  "name": "Fantasy Design",
+                  "text": "A Fantasy Design egy kreatív művészeti központ Santiago de los Caballeros városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.696218,
+                        19.471387
+                  ]
+            },
+            {
+                  "name": "Arte Milagros",
+                  "text": "Az Arte Milagros egy dedikált művészeti galéria Santiago de los Caballeros városában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.703529,
+                        19.452045
+                  ]
+            },
+            {
+                  "name": "Galería Artística García",
+                  "text": "A Galería Artística García egy képzőművészeti galéria Santiago de los Caballerosban.",
+                  "category": "museum",
+                  "coords": [
+                        -70.699661,
+                        19.45152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Folklorico Don Tomas Morel",
+                  "text": "Museo Folklorico Don Tomas Morel este un muzeu cultural situat în Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.707886,
+                        19.453073
+                  ]
+            },
+            {
+                  "name": "Casa Del Arte",
+                  "text": "Casa Del Arte este un muzeu captivant situat în Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706731,
+                        19.452772
+                  ]
+            },
+            {
+                  "name": "Iglesia Embrujo I",
+                  "text": "Iglesia Embrujo I servește ca un muzeu unic în Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.675342,
+                        19.440472
+                  ]
+            },
+            {
+                  "name": "Boreal Televisión",
+                  "text": "Boreal Televisión este o locație de teatru proeminentă din Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.693503,
+                        19.449567
+                  ]
+            },
+            {
+                  "name": "Scream Land",
+                  "text": "Scream Land este un parc tematic distractiv situat în Santiago de los Caballeros.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.68652,
+                        19.457077
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Santiago",
+                  "text": "Centro de la Cultura Santiago este un teatru notabil din Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.707381,
+                        19.451114
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Eduardo León Jimenes",
+                  "text": "Centro Cultural Eduardo León Jimenes este un muzeu educațional cu sediul în Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.670646,
+                        19.463274
+                  ]
+            },
+            {
+                  "name": "Gran Teatro del Cibao",
+                  "text": "Gran Teatro del Cibao este o instituție de teatru majoră situată în Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.692391,
+                        19.451223
+                  ]
+            },
+            {
+                  "name": "Anfiteatro PUCMM",
+                  "text": "Anfiteatro PUCMM este o locație de teatru în aer liber situată în Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.685111,
+                        19.442203
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de la Restauración",
+                  "text": "Monumento a los Héroes de la Restauración este o atracție proeminentă și un monument notabil în Santiago de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694742,
+                        19.450898
+                  ]
+            },
+            {
+                  "name": "HP&H  Abogados",
+                  "text": "HP&H Abogados este un monument desemnat situat în orașul Santiago de los Caballeros.",
+                  "category": "historical",
+                  "coords": [
+                        -70.690944,
+                        19.462214
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Las Carreras",
+                  "text": "Galería de Arte Las Carreras este o galerie de artă aflată în Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.698067,
+                        19.453478
+                  ]
+            },
+            {
+                  "name": "Paintball Club",
+                  "text": "Paintball Club este o atracție de agrement situată în Santiago de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.684059,
+                        19.459979
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "Monumento a los Maestros este un monument comemorativ situat în Santiago de los Caballeros.",
+                  "category": "historical",
+                  "coords": [
+                        -70.693123,
+                        19.465249
+                  ]
+            },
+            {
+                  "name": "Fantasy Design",
+                  "text": "Fantasy Design este un centru de arte creative care funcționează în Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.696218,
+                        19.471387
+                  ]
+            },
+            {
+                  "name": "Arte Milagros",
+                  "text": "Arte Milagros este o galerie de artă dedicată situată în Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.703529,
+                        19.452045
+                  ]
+            },
+            {
+                  "name": "Galería Artística García",
+                  "text": "Galería Artística García este o galerie de arte vizuale situată în Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.699661,
+                        19.45152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Folklorico Don Tomas Morel",
+                  "text": "Museo Folklorico Don Tomas Morel is a cultural museum located in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.707886,
+                        19.453073
+                  ]
+            },
+            {
+                  "name": "Casa Del Arte",
+                  "text": "Casa Del Arte is an engaging museum situated in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.706731,
+                        19.452772
+                  ]
+            },
+            {
+                  "name": "Iglesia Embrujo I",
+                  "text": "Iglesia Embrujo I serves as a unique museum in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.675342,
+                        19.440472
+                  ]
+            },
+            {
+                  "name": "Boreal Televisión",
+                  "text": "Boreal Televisión is a prominent theatre venue found in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.693503,
+                        19.449567
+                  ]
+            },
+            {
+                  "name": "Scream Land",
+                  "text": "Scream Land is an entertaining theme park located in Santiago de los Caballeros.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.68652,
+                        19.457077
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Santiago",
+                  "text": "Centro de la Cultura Santiago is a notable theatre in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.707381,
+                        19.451114
+                  ]
+            },
+            {
+                  "name": "Centro Cultural Eduardo León Jimenes",
+                  "text": "Centro Cultural Eduardo León Jimenes is an educational museum based in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.670646,
+                        19.463274
+                  ]
+            },
+            {
+                  "name": "Gran Teatro del Cibao",
+                  "text": "Gran Teatro del Cibao is a major theatre establishment situated in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.692391,
+                        19.451223
+                  ]
+            },
+            {
+                  "name": "Anfiteatro PUCMM",
+                  "text": "Anfiteatro PUCMM is an open-air theatre venue located in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.685111,
+                        19.442203
+                  ]
+            },
+            {
+                  "name": "Monumento a los Héroes de la Restauración",
+                  "text": "Monumento a los Héroes de la Restauración is a prominent attraction and notable monument in Santiago de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694742,
+                        19.450898
+                  ]
+            },
+            {
+                  "name": "HP&H  Abogados",
+                  "text": "HP&H Abogados is a designated monument located in the city of Santiago de los Caballeros.",
+                  "category": "historical",
+                  "coords": [
+                        -70.690944,
+                        19.462214
+                  ]
+            },
+            {
+                  "name": "Galería de Arte Las Carreras",
+                  "text": "Galería de Arte Las Carreras is an art gallery found in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.698067,
+                        19.453478
+                  ]
+            },
+            {
+                  "name": "Paintball Club",
+                  "text": "Paintball Club is a recreational attraction situated in Santiago de los Caballeros.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.684059,
+                        19.459979
+                  ]
+            },
+            {
+                  "name": "Monumento a los Maestros",
+                  "text": "Monumento a los Maestros is a commemorative monument located in Santiago de los Caballeros.",
+                  "category": "historical",
+                  "coords": [
+                        -70.693123,
+                        19.465249
+                  ]
+            },
+            {
+                  "name": "Fantasy Design",
+                  "text": "Fantasy Design is a creative arts centre operating in Santiago de los Caballeros.",
+                  "category": "cultural",
+                  "coords": [
+                        -70.696218,
+                        19.471387
+                  ]
+            },
+            {
+                  "name": "Arte Milagros",
+                  "text": "Arte Milagros is a dedicated art gallery situated in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.703529,
+                        19.452045
+                  ]
+            },
+            {
+                  "name": "Galería Artística García",
+                  "text": "Galería Artística García is a visual arts gallery located in Santiago de los Caballeros.",
+                  "category": "museum",
+                  "coords": [
+                        -70.699661,
+                        19.45152
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO",
     coords: [-70.6970, 19.4517],
@@ -96,7 +717,88 @@ export const dominicanrepublicCities: POI[] = [
     historyYear: 1495,
     area: 524, image: "/poi-images/do-santiago.webp"},
   {
-    id: "do-puntacana",
+    id: "do-puntacana", "sights": {
+      "de": [
+            {
+                  "name": "Anfiteatro Blue Mall",
+                  "text": "Ein Freilicht-Amphitheater in der Blue Mall in Punta Cana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.383161,
+                        18.558478
+                  ]
+            },
+            {
+                  "name": "Squalo Tours",
+                  "text": "Ein Reiseveranstalter für Bootstouren und Wasseraktivitäten in Punta Cana.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.369104,
+                        18.558218
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anfiteatro Blue Mall",
+                  "text": "Szabadtéri amfiteátrum a Blue Mall bevásárlóközpontban, Punta Canában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.383161,
+                        18.558478
+                  ]
+            },
+            {
+                  "name": "Squalo Tours",
+                  "text": "Hajókirándulásokat és vízi programokat kínáló iroda Punta Canában.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.369104,
+                        18.558218
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anfiteatro Blue Mall",
+                  "text": "Un amfiteatru în aer liber la Blue Mall în Punta Cana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.383161,
+                        18.558478
+                  ]
+            },
+            {
+                  "name": "Squalo Tours",
+                  "text": "Un operator turistic care oferă excursii cu barca și activități acvatice în Punta Cana.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.369104,
+                        18.558218
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anfiteatro Blue Mall",
+                  "text": "An outdoor amphitheater at the Blue Mall in Punta Cana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.383161,
+                        18.558478
+                  ]
+            },
+            {
+                  "name": "Squalo Tours",
+                  "text": "A tour operator offering boat trips and water activities in Punta Cana.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.369104,
+                        18.558218
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO",
     coords: [-68.3745, 18.5820],
@@ -139,7 +841,376 @@ export const dominicanrepublicCities: POI[] = [
     },
     area: 475, image: "/poi-images/do-puntacana.webp"},
   {
-    id: "do-puertoplata",
+    id: "do-puertoplata", "sights": {
+      "de": [
+            {
+                  "name": "Fortaleza de San Felipe",
+                  "text": "Eine historische spanische Festung aus dem 16. Jahrhundert zum Schutz der Bucht.",
+                  "category": "castle",
+                  "coords": [
+                        -70.695858,
+                        19.804112
+                  ]
+            },
+            {
+                  "name": "Museo masonico",
+                  "text": "Ein kleines Museum in Puerto Plata, das der Geschichte der Freimaurerei gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691237,
+                        19.79982
+                  ]
+            },
+            {
+                  "name": "Casa Museo Gregorio Luperón",
+                  "text": "Ein Museum im Geburtshaus des Generals Gregorio Luperón, eines Nationalhelden.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691282,
+                        19.798313
+                  ]
+            },
+            {
+                  "name": "Museo del Ámbar",
+                  "text": "Es beherbergt eine bedeutende Sammlung dominikanischen Bernsteins und seltener Fossilien.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692177,
+                        19.796374
+                  ]
+            },
+            {
+                  "name": "Playa Long Beach",
+                  "text": "Ein beliebter Sandstrand an der Uferpromenade Malecón von Puerto Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.671648,
+                        19.789856
+                  ]
+            },
+            {
+                  "name": "Playa Longbichito",
+                  "text": "Ein kleinerer Strandabschnitt in Puerto Plata, ideal für ruhige Momente am Meer.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.678075,
+                        19.7937
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Loma Isabel de Torres",
+                  "text": "Ein Naturschutzgebiet auf dem Berg Isabel de Torres, erreichbar mit einer Seilbahn.",
+                  "category": "natural",
+                  "coords": [
+                        -70.705378,
+                        19.768769
+                  ]
+            },
+            {
+                  "name": "Paseo de Doña Blanca",
+                  "text": "Eine charmante Gasse in Puerto Plata, bekannt für ihre viktorianische Architektur.",
+                  "category": "natural",
+                  "coords": [
+                        -70.693647,
+                        19.798502
+                  ]
+            },
+            {
+                  "name": "Puerto Plaza sign (photo spot)",
+                  "text": "Ein farbenfroher Schriftzug am Hafen, der ein beliebtes Fotomotiv für Touristen ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.692914,
+                        19.801383
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Puerto Plata",
+                  "text": "Ein modernes Freiluft-Amphitheater direkt an der Küste von Puerto Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694651,
+                        19.80358
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fortaleza de San Felipe",
+                  "text": "16. századi spanyol erődítmény, amelyet az öböl védelmére építettek.",
+                  "category": "castle",
+                  "coords": [
+                        -70.695858,
+                        19.804112
+                  ]
+            },
+            {
+                  "name": "Museo masonico",
+                  "text": "Puerto Plata-i kis múzeum, amely a szabadkőművesség történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691237,
+                        19.79982
+                  ]
+            },
+            {
+                  "name": "Casa Museo Gregorio Luperón",
+                  "text": "Múzeum Gregorio Luperón tábornok, nemzeti hős szülőházában.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691282,
+                        19.798313
+                  ]
+            },
+            {
+                  "name": "Museo del Ámbar",
+                  "text": "Jelentős dominikai borostyánkő-gyűjteménynek és ritka fosszíliáknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692177,
+                        19.796374
+                  ]
+            },
+            {
+                  "name": "Playa Long Beach",
+                  "text": "Népszerű homokos strand Puerto Plata tengerparti sétánya, a Malecón mentén.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.671648,
+                        19.789856
+                  ]
+            },
+            {
+                  "name": "Playa Longbichito",
+                  "text": "Kisebb tengerparti szakasz Puerto Platában, ideális a tengerparti nyugalomhoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.678075,
+                        19.7937
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Loma Isabel de Torres",
+                  "text": "Természetvédelmi terület az Isabel de Torres-hegyen, amely felvonóval érhető el.",
+                  "category": "natural",
+                  "coords": [
+                        -70.705378,
+                        19.768769
+                  ]
+            },
+            {
+                  "name": "Paseo de Doña Blanca",
+                  "text": "Bájos köz Puerto Platában, amely viktoriánus építészetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -70.693647,
+                        19.798502
+                  ]
+            },
+            {
+                  "name": "Puerto Plaza sign (photo spot)",
+                  "text": "Színes felirat a kikötőben, amely a turisták népszerű fotóhelyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.692914,
+                        19.801383
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Puerto Plata",
+                  "text": "Modern szabadtéri amfiteátrum Puerto Plata tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694651,
+                        19.80358
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fortaleza de San Felipe",
+                  "text": "O fortăreață spaniolă istorică din secolul al XVI-lea, construită pentru a proteja golful.",
+                  "category": "castle",
+                  "coords": [
+                        -70.695858,
+                        19.804112
+                  ]
+            },
+            {
+                  "name": "Museo masonico",
+                  "text": "Un mic muzeu din Puerto Plata dedicat istoriei francmasoneriei.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691237,
+                        19.79982
+                  ]
+            },
+            {
+                  "name": "Casa Museo Gregorio Luperón",
+                  "text": "Un muzeu situat în casa natală a generalului Gregorio Luperón, un erou național.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691282,
+                        19.798313
+                  ]
+            },
+            {
+                  "name": "Museo del Ámbar",
+                  "text": "Găzduiește o colecție importantă de chihlimbar dominican și fosile rare.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692177,
+                        19.796374
+                  ]
+            },
+            {
+                  "name": "Playa Long Beach",
+                  "text": "O plajă de nisip populară situată de-a lungul promenadei Malecón din Puerto Plata.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.671648,
+                        19.789856
+                  ]
+            },
+            {
+                  "name": "Playa Longbichito",
+                  "text": "O secțiune de plajă mai mică în Puerto Plata, ideală pentru momente de liniște la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.678075,
+                        19.7937
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Loma Isabel de Torres",
+                  "text": "O rezervație naturală pe muntele Isabel de Torres, accesibilă cu telecabina.",
+                  "category": "natural",
+                  "coords": [
+                        -70.705378,
+                        19.768769
+                  ]
+            },
+            {
+                  "name": "Paseo de Doña Blanca",
+                  "text": "O străduță fermecătoare din Puerto Plata, cunoscută pentru arhitectura sa victoriană.",
+                  "category": "natural",
+                  "coords": [
+                        -70.693647,
+                        19.798502
+                  ]
+            },
+            {
+                  "name": "Puerto Plaza sign (photo spot)",
+                  "text": "Un semn colorat în port, care reprezintă un loc popular de fotografiat pentru turiști.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.692914,
+                        19.801383
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Puerto Plata",
+                  "text": "Un amfiteatru modern în aer liber, situat pe coasta orașului Puerto Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694651,
+                        19.80358
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortaleza de San Felipe",
+                  "text": "A historic 16th-century Spanish fortress built to protect the bay.",
+                  "category": "castle",
+                  "coords": [
+                        -70.695858,
+                        19.804112
+                  ]
+            },
+            {
+                  "name": "Museo masonico",
+                  "text": "A small museum in Puerto Plata dedicated to the history of Freemasonry.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691237,
+                        19.79982
+                  ]
+            },
+            {
+                  "name": "Museo Gregorio Luperon",
+                  "text": "A museum located in the birthplace of General Gregorio Luperón, a national hero.",
+                  "category": "museum",
+                  "coords": [
+                        -70.691282,
+                        19.798313
+                  ]
+            },
+            {
+                  "name": "Museo del Ámbar",
+                  "text": "It houses a significant collection of Dominican amber and rare fossils.",
+                  "category": "museum",
+                  "coords": [
+                        -70.692177,
+                        19.796374
+                  ]
+            },
+            {
+                  "name": "Playa Long Beach",
+                  "text": "A popular sandy beach located along Puerto Plata's Malecón waterfront.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.671648,
+                        19.789856
+                  ]
+            },
+            {
+                  "name": "Playa Longbichito",
+                  "text": "A smaller beach section in Puerto Plata, ideal for quiet moments by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -70.678075,
+                        19.7937
+                  ]
+            },
+            {
+                  "name": "Monumento Natural Loma Isabel de Torres",
+                  "text": "A nature reserve on Mount Isabel de Torres, accessible by cable car.",
+                  "category": "natural",
+                  "coords": [
+                        -70.705378,
+                        19.768769
+                  ]
+            },
+            {
+                  "name": "Paseo de Doña Blanca",
+                  "text": "A charming alley in Puerto Plata known for its Victorian architecture.",
+                  "category": "natural",
+                  "coords": [
+                        -70.693647,
+                        19.798502
+                  ]
+            },
+            {
+                  "name": "Puerto Plaza sign (photo spot)",
+                  "text": "A colorful sign at the plaza that is a popular photo spot for tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.692914,
+                        19.801383
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de Puerto Plata",
+                  "text": "A modern open-air amphitheater located on the coast of Puerto Plata.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.694651,
+                        19.80358
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO",
     coords: [-70.6867, 19.7934],
@@ -183,7 +1254,232 @@ export const dominicanrepublicCities: POI[] = [
     historyYear: 1502,
     area: 509, image: "/poi-images/do-puertoplata.webp"},
   {
-    id: "do-laromana",
+    id: "do-laromana", "sights": {
+      "de": [
+            {
+                  "name": "Puerto La Romana",
+                  "text": "Puerto La Romana ist ein schiffbarer Leuchtturm in der Stadt La Romana.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.958433,
+                        18.415088
+                  ]
+            },
+            {
+                  "name": "Bellas Artes - Casa de La Cultura",
+                  "text": "Bellas Artes - Casa de La Cultura ist ein kultureller Theaterort in La Romana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.963896,
+                        18.421986
+                  ]
+            },
+            {
+                  "name": "Playa Caletón",
+                  "text": "Playa Caletón ist ein malerischer öffentlicher Strand in La Romana.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.953108,
+                        18.415206
+                  ]
+            },
+            {
+                  "name": "Monumento a la Biblia",
+                  "text": "Das Monumento a la Biblia ist ein symbolisches Denkmal in der Stadt La Romana.",
+                  "category": "historical",
+                  "coords": [
+                        -68.984729,
+                        18.430819
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Abreu",
+                  "text": "Das Monumento al Padre Abreu ist ein Gedenkmonument in La Romana.",
+                  "category": "historical",
+                  "coords": [
+                        -68.987936,
+                        18.43217
+                  ]
+            },
+            {
+                  "name": "Aldea Cultural Santa Rosa de Lima",
+                  "text": "Die Aldea Cultural Santa Rosa de Lima ist ein inspirierendes Kunstzentrum in La Romana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.961495,
+                        18.41913
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puerto La Romana",
+                  "text": "A Puerto La Romana egy navigációs világítótorony La Romana városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.958433,
+                        18.415088
+                  ]
+            },
+            {
+                  "name": "Bellas Artes - Casa de La Cultura",
+                  "text": "A Bellas Artes - Casa de La Cultura egy kulturális színházi helyszín La Romanában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.963896,
+                        18.421986
+                  ]
+            },
+            {
+                  "name": "Playa Caletón",
+                  "text": "A Playa Caletón egy festői nyilvános strand La Romanában.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.953108,
+                        18.415206
+                  ]
+            },
+            {
+                  "name": "Monumento a la Biblia",
+                  "text": "A Monumento a la Biblia egy szimbolikus emlékmű La Romana városában.",
+                  "category": "historical",
+                  "coords": [
+                        -68.984729,
+                        18.430819
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Abreu",
+                  "text": "A Monumento al Padre Abreu egy emlékhely La Romanában.",
+                  "category": "historical",
+                  "coords": [
+                        -68.987936,
+                        18.43217
+                  ]
+            },
+            {
+                  "name": "Aldea Cultural Santa Rosa de Lima",
+                  "text": "Az Aldea Cultural Santa Rosa de Lima egy inspiráló művészeti központ La Romanában.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.961495,
+                        18.41913
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puerto La Romana",
+                  "text": "Puerto La Romana este un far de navigație situat în orașul La Romana.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.958433,
+                        18.415088
+                  ]
+            },
+            {
+                  "name": "Bellas Artes - Casa de La Cultura",
+                  "text": "Bellas Artes - Casa de La Cultura este o locație de teatru cultural situată în La Romana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.963896,
+                        18.421986
+                  ]
+            },
+            {
+                  "name": "Playa Caletón",
+                  "text": "Playa Caletón este o plajă publică pitorească situată în La Romana.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.953108,
+                        18.415206
+                  ]
+            },
+            {
+                  "name": "Monumento a la Biblia",
+                  "text": "Monumento a la Biblia este un monument simbolic aflat în orașul La Romana.",
+                  "category": "historical",
+                  "coords": [
+                        -68.984729,
+                        18.430819
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Abreu",
+                  "text": "Monumento al Padre Abreu este un monument comemorativ situat în La Romana.",
+                  "category": "historical",
+                  "coords": [
+                        -68.987936,
+                        18.43217
+                  ]
+            },
+            {
+                  "name": "Aldea Cultural Santa Rosa de Lima",
+                  "text": "Aldea Cultural Santa Rosa de Lima este un centru de arte inspirațional cu sediul în La Romana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.961495,
+                        18.41913
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puerto La Romana",
+                  "text": "Puerto La Romana is a navigational lighthouse located in the city of La Romana.",
+                  "category": "landmark",
+                  "coords": [
+                        -68.958433,
+                        18.415088
+                  ]
+            },
+            {
+                  "name": "Bellas Artes - Casa de La Cultura",
+                  "text": "Bellas Artes - Casa de La Cultura is a cultural theatre venue situated in La Romana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.963896,
+                        18.421986
+                  ]
+            },
+            {
+                  "name": "Playa Caletón",
+                  "text": "Playa Caletón is a scenic public beach located in La Romana.",
+                  "category": "recreational",
+                  "coords": [
+                        -68.953108,
+                        18.415206
+                  ]
+            },
+            {
+                  "name": "Monumento a la Biblia",
+                  "text": "Monumento a la Biblia is a symbolic monument found in the city of La Romana.",
+                  "category": "historical",
+                  "coords": [
+                        -68.984729,
+                        18.430819
+                  ]
+            },
+            {
+                  "name": "Monumento al Padre Abreu",
+                  "text": "Monumento al Padre Abreu is a commemorative monument situated in La Romana.",
+                  "category": "historical",
+                  "coords": [
+                        -68.987936,
+                        18.43217
+                  ]
+            },
+            {
+                  "name": "Aldea Cultural Santa Rosa de Lima",
+                  "text": "Aldea Cultural Santa Rosa de Lima is an inspiring arts centre based in La Romana.",
+                  "category": "cultural",
+                  "coords": [
+                        -68.961495,
+                        18.41913
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO",
     coords: [-68.9667, 18.4333],
@@ -227,7 +1523,88 @@ export const dominicanrepublicCities: POI[] = [
     historyYear: 1897,
     area: 185, image: "/poi-images/do-laromana.webp"},
   {
-    id: "do-bani",
+    id: "do-bani", "sights": {
+      "de": [
+            {
+                  "name": "Casa natal de Máximo Gómez Báez",
+                  "text": "Das Geburtshaus von General Máximo Gómez, heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330326,
+                        18.280559
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Bani",
+                  "text": "Ein beliebter Fotopunkt mit dem Stadtnamen in Baní.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.313086,
+                        18.277534
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa natal de Máximo Gómez Báez",
+                  "text": "Máximo Gómez tábornok szülőháza, amely ma múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330326,
+                        18.280559
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Bani",
+                  "text": "Népszerű fotópont a város nevével Baníban.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.313086,
+                        18.277534
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa natal de Máximo Gómez Báez",
+                  "text": "Casa natală a generalului Máximo Gómez, astăzi transformată în muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330326,
+                        18.280559
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Bani",
+                  "text": "Un punct foto popular care prezintă numele orașului în Baní.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.313086,
+                        18.277534
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa natal de Máximo Gómez Báez",
+                  "text": "The birthplace of General Máximo Gómez, now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -70.330326,
+                        18.280559
+                  ]
+            },
+            {
+                  "name": "Parador fotografico Bani",
+                  "text": "A popular photo spot featuring the city name in Baní.",
+                  "category": "landmark",
+                  "coords": [
+                        -70.313086,
+                        18.277534
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO",
     coords: [-70.3333, 18.2833],
@@ -271,7 +1648,196 @@ export const dominicanrepublicCities: POI[] = [
     historyYear: 1764,
     area: 542, image: "/poi-images/do-bani.webp"},
   {
-    id: "do-samana",
+    id: "do-samana", "sights": {
+      "de": [
+            {
+                  "name": "Museo de las Ballenas",
+                  "text": "Ein Museum in Samaná, das der Erforschung und dem Schutz von Buckelwalen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -69.338554,
+                        19.199834
+                  ]
+            },
+            {
+                  "name": "Playa Nandy",
+                  "text": "Ein Strandabschnitt in Samaná, der zum Entspannen am Meer einlädt.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.311423,
+                        19.196544
+                  ]
+            },
+            {
+                  "name": "Santana",
+                  "text": "Eine Sehenswürdigkeit in der Region Samaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336589,
+                        19.203733
+                  ]
+            },
+            {
+                  "name": "Playa Cayacoa",
+                  "text": "Ein Strandabschnitt und Ausflugsziel in Samaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336753,
+                        19.196996
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ballena",
+                  "text": "Ein Denkmal in Samaná zu Ehren der Buckelwale, die die Region besuchen.",
+                  "category": "historical",
+                  "coords": [
+                        -69.33726,
+                        19.20253
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de las Ballenas",
+                  "text": "Samaná múzeuma, amely a hosszúszárnyú bálnák bemutatásának és védelmének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -69.338554,
+                        19.199834
+                  ]
+            },
+            {
+                  "name": "Playa Nandy",
+                  "text": "Tengerparti szakasz Samaná városában, amely pihenésre alkalmas.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.311423,
+                        19.196544
+                  ]
+            },
+            {
+                  "name": "Santana",
+                  "text": "Turisztikai látványosság Samaná környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336589,
+                        19.203733
+                  ]
+            },
+            {
+                  "name": "Playa Cayacoa",
+                  "text": "Tengerparti terület és látnivaló Samaná városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336753,
+                        19.196996
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ballena",
+                  "text": "A régiót látogató bálnák tiszteletére emelt emlékmű Samaná városában.",
+                  "category": "historical",
+                  "coords": [
+                        -69.33726,
+                        19.20253
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de las Ballenas",
+                  "text": "Un muzeu în Samaná dedicat studiului și conservării balenelor cu cocoș.",
+                  "category": "museum",
+                  "coords": [
+                        -69.338554,
+                        19.199834
+                  ]
+            },
+            {
+                  "name": "Playa Nandy",
+                  "text": "O zonă de plajă în Samaná, ideală pentru relaxare la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.311423,
+                        19.196544
+                  ]
+            },
+            {
+                  "name": "Santana",
+                  "text": "O atracție turistică în regiunea Samaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336589,
+                        19.203733
+                  ]
+            },
+            {
+                  "name": "Playa Cayacoa",
+                  "text": "O zonă de plajă și punct de interes în Samaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336753,
+                        19.196996
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ballena",
+                  "text": "Un monument în Samaná ridicat în cinstea balenelor care vizitează regiunea.",
+                  "category": "historical",
+                  "coords": [
+                        -69.33726,
+                        19.20253
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Whale Museum of Samana",
+                  "text": "A museum in Samaná dedicated to the study and conservation of humpback whales.",
+                  "category": "museum",
+                  "coords": [
+                        -69.338554,
+                        19.199834
+                  ]
+            },
+            {
+                  "name": "Playa Nandy",
+                  "text": "A beach area in Samaná, suitable for relaxation by the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -69.311423,
+                        19.196544
+                  ]
+            },
+            {
+                  "name": "Santana",
+                  "text": "A tourist attraction located in the Samaná region.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336589,
+                        19.203733
+                  ]
+            },
+            {
+                  "name": "Playa Cayacoa",
+                  "text": "A beach area and local attraction in Samaná.",
+                  "category": "landmark",
+                  "coords": [
+                        -69.336753,
+                        19.196996
+                  ]
+            },
+            {
+                  "name": "Monumento a la Ballena",
+                  "text": "A monument in Samaná honoring the whales that visit the region.",
+                  "category": "historical",
+                  "coords": [
+                        -69.33726,
+                        19.20253
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DO",
     coords: [-69.3361, 19.2056],

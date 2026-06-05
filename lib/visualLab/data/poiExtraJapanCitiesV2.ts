@@ -132,7 +132,160 @@ export const poiExtraJapanCitiesV2: POI[] = [
       en: ["World Record: The Chiba Monorail holds the Guinness record for longest suspended monorail.", "Makuhari Messe: It offers 72,000 square meters of exhibition space.", "Population: Chiba is home to approximately 975,000 residents.", "History: The Chiba family crest (the moon and star) is still seen in the city.", "Inage Beach: The beach was created using sand from the seabed of Tokyo Bay.", "Port Traffic: It ranks top in Japan for the import of crude oil and iron ore.", "Baseball: The Lotte Marines won the Japan Series in 2005 and 2010.", "Monorail Height: Trains run at heights up to 15 meters above the ground."],
     }, image: "/poi-images/chiba-cities-v2.webp"},
   {
-    id: "kitakyushu-cities-v2",
+    id: "kitakyushu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "北九州市漫画ミュージアム",
+                  "text": "Ein Museum, das der Kunst der japanischen Comics gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "小倉城",
+                  "text": "Eine rekonstruierte japanische Burg mit einem Museum und Park.",
+                  "category": "castle",
+                  "coords": [
+                        130.874167,
+                        33.884495
+                  ]
+            },
+            {
+                  "name": "TOTOミュージアム",
+                  "text": "Ein Museum, das die Geschichte der Sanitätstechnik und Design zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        130.872087,
+                        33.872426
+                  ]
+            },
+            {
+                  "name": "ゼンリンミュージアム",
+                  "text": "Ein Museum, das sich mit der Geschichte der Kartografie befasst.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "北九州市漫画ミュージアム",
+                  "text": "A japán képregények művészetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "小倉城",
+                  "text": "Rekonstruált japán várkastély múzeummal és parkkal.",
+                  "category": "castle",
+                  "coords": [
+                        130.874167,
+                        33.884495
+                  ]
+            },
+            {
+                  "name": "TOTOミュージアム",
+                  "text": "A szanitertechnika és a design történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        130.872087,
+                        33.872426
+                  ]
+            },
+            {
+                  "name": "ゼンリンミュージアム",
+                  "text": "A térképészet történetével foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "北九州市漫画ミュージアム",
+                  "text": "Un muzeu dedicat artei benzilor desenate japoneze.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "小倉城",
+                  "text": "Un castel japonez reconstituit, care găzduiește un muzeu și un parc.",
+                  "category": "castle",
+                  "coords": [
+                        130.874167,
+                        33.884495
+                  ]
+            },
+            {
+                  "name": "TOTOミュージアム",
+                  "text": "Un muzeu care prezintă istoria tehnologiei sanitare și a designului.",
+                  "category": "museum",
+                  "coords": [
+                        130.872087,
+                        33.872426
+                  ]
+            },
+            {
+                  "name": "ゼンリンミュージアム",
+                  "text": "Un muzeu axat pe istoria cartografiei.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kita-Kyushu Manga Museum",
+                  "text": "A museum dedicated to the art of Japanese comics.",
+                  "category": "museum",
+                  "coords": [
+                        130.884731,
+                        33.887543
+                  ]
+            },
+            {
+                  "name": "Kokura Castle",
+                  "text": "A reconstructed Japanese castle featuring a museum and park.",
+                  "category": "castle",
+                  "coords": [
+                        130.874167,
+                        33.884495
+                  ]
+            },
+            {
+                  "name": "TOTO Museum",
+                  "text": "A museum showcasing the history of sanitary technology and design.",
+                  "category": "museum",
+                  "coords": [
+                        130.872087,
+                        33.872426
+                  ]
+            },
+            {
+                  "name": "ZENRIN Museum",
+                  "text": "A museum focusing on the history of cartography.",
+                  "category": "museum",
+                  "coords": [
+                        130.875985,
+                        33.885895
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JP-40",
     coords: [130.875, 33.883],
@@ -337,7 +490,628 @@ export const poiExtraJapanCitiesV2: POI[] = [
       en: ["Kagoshima is located at 31.5960° N, 130.5580° E, on the shores of Kagoshima Bay.", "The Sakurajima volcano has three main peaks: Kita-dake, Naka-dake, and Minami-dake.", "The city was a major target during the British Bombardment of Kagoshima in 1863.", "The Sakurajima Komikan orange can be as small as 3 centimeters in diameter.", "Kagoshima Main Station is a terminus for the Kyushu Shinkansen bullet train.", "The city's namesake prefecture includes the world's northernmost mangroves.", "St. Francis Xavier arrived in Kagoshima in 1549, introducing Christianity to Japan.", "The local dialect, Satsuma-ben, is famous for being unintelligible to other Japanese speakers."],
     }, image: "/poi-images/kagoshima-cities-v2.webp"},
   {
-    id: "himeji-cities-v2",
+    id: "himeji-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "兵庫県立歴史博物館",
+                  "text": "Ein Museum in Himeji, das der Geschichte und Kultur der Präfektur Hyogo gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        134.696872,
+                        34.841115
+                  ]
+            },
+            {
+                  "name": "姫路市立美術館",
+                  "text": "Ein Kunstmuseum in einem ehemaligen roten Backsteingebäude des Militärs in Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.696476,
+                        34.839376
+                  ]
+            },
+            {
+                  "name": "姫路文学館",
+                  "text": "Ein von Tadao Ando entworfenes Literaturmuseum in Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.688401,
+                        34.841566
+                  ]
+            },
+            {
+                  "name": "Himeji-jō",
+                  "text": "Ein UNESCO-Weltkulturerbe, bekannt als die „Burg des weißen Reihers“.",
+                  "category": "castle",
+                  "coords": [
+                        134.69402,
+                        34.839331
+                  ]
+            },
+            {
+                  "name": "姫路市平和資料館",
+                  "text": "Ein Museum zum Gedenken an die Luftangriffe auf Himeji im Zweiten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        134.674165,
+                        34.821872
+                  ]
+            },
+            {
+                  "name": "竪濠",
+                  "text": "Überreste einer historischen Befestigungsanlage in Himeji.",
+                  "category": "historical",
+                  "coords": [
+                        134.694486,
+                        34.838351
+                  ]
+            },
+            {
+                  "name": "合坂",
+                  "text": "Die japanische Bezeichnung für die berühmte Burg Himeji.",
+                  "category": "castle",
+                  "coords": [
+                        134.695431,
+                        34.838669
+                  ]
+            },
+            {
+                  "name": "Himeji Zoo",
+                  "text": "Ein Tiergarten auf dem Gelände der Burg Himeji.",
+                  "category": "recreational",
+                  "coords": [
+                        134.695796,
+                        34.837496
+                  ]
+            },
+            {
+                  "name": "Western Bailey Corridor",
+                  "text": "Ein historischer Korridor und Ausstellungsbereich in der Burg Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.691349,
+                        34.838311
+                  ]
+            },
+            {
+                  "name": "好古園歴史展示室",
+                  "text": "Eine historische Ausstellung im Koko-en-Garten in Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.68986,
+                        34.837632
+                  ]
+            },
+            {
+                  "name": "姫路市埋蔵文化財センター",
+                  "text": "Ein Museum für Archäologie und Kulturerbe in Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.719868,
+                        34.816768
+                  ]
+            },
+            {
+                  "name": "手柄山",
+                  "text": "Ein markanter Berg in Himeji mit Parkanlagen und Aussichtspunkten.",
+                  "category": "natural",
+                  "coords": [
+                        134.675012,
+                        34.823048
+                  ]
+            },
+            {
+                  "name": "手柄山温室植物園",
+                  "text": "Botanischer Garten in Himeji, bekannt für seine Gewächshäuser und Pflanzensammlungen.",
+                  "category": "landmark",
+                  "coords": [
+                        134.675456,
+                        34.818913
+                  ]
+            },
+            {
+                  "name": "キャッスルビュー",
+                  "text": "Ein Aussichtspunkt in Himeji, der einen Panoramablick auf die berühmte Burg bietet.",
+                  "category": "natural",
+                  "coords": [
+                        134.690217,
+                        34.827435
+                  ]
+            },
+            {
+                  "name": "北勢隠門跡",
+                  "text": "Historische Ruinen einer Toranlage in der Stadt Himeji.",
+                  "category": "historical",
+                  "coords": [
+                        134.692501,
+                        34.840656
+                  ]
+            },
+            {
+                  "name": "兵庫縣姫路護國神社",
+                  "text": "Ein Shinto-Schrein in Himeji, der den Gefallenen der Präfektur Hyogo gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        134.694608,
+                        34.835709
+                  ]
+            },
+            {
+                  "name": "長壁神社",
+                  "text": "Ein historischer Schrein, der sich innerhalb des Geländes der Burg Himeji befindet.",
+                  "category": "religious",
+                  "coords": [
+                        134.689949,
+                        34.831467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "兵庫県立歴史博物館",
+                  "text": "Himeji múzeuma, amely Hjógo prefektúra történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        134.696872,
+                        34.841115
+                  ]
+            },
+            {
+                  "name": "姫路市立美術館",
+                  "text": "Művészeti múzeum Himejiben egy egykori katonai téglaépületben.",
+                  "category": "museum",
+                  "coords": [
+                        134.696476,
+                        34.839376
+                  ]
+            },
+            {
+                  "name": "姫路文学館",
+                  "text": "Tadao Ando által tervezett irodalmi múzeum Himejiben.",
+                  "category": "museum",
+                  "coords": [
+                        134.688401,
+                        34.841566
+                  ]
+            },
+            {
+                  "name": "姫路城",
+                  "text": "UNESCO világörökségi helyszín, „Fehér Kócsag vára” néven ismert.",
+                  "category": "castle",
+                  "coords": [
+                        134.69402,
+                        34.839331
+                  ]
+            },
+            {
+                  "name": "姫路市平和資料館",
+                  "text": "A második világháborús himeji légitámadásoknak emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        134.674165,
+                        34.821872
+                  ]
+            },
+            {
+                  "name": "竪濠",
+                  "text": "Történelmi erődítményrendszer maradványai Himejiben.",
+                  "category": "historical",
+                  "coords": [
+                        134.694486,
+                        34.838351
+                  ]
+            },
+            {
+                  "name": "合坂",
+                  "text": "A híres himeji vár japán elnevezése.",
+                  "category": "castle",
+                  "coords": [
+                        134.695431,
+                        34.838669
+                  ]
+            },
+            {
+                  "name": "Himeji Zoo",
+                  "text": "Állatkert a himeji vár területén.",
+                  "category": "recreational",
+                  "coords": [
+                        134.695796,
+                        34.837496
+                  ]
+            },
+            {
+                  "name": "Western Bailey Corridor",
+                  "text": "Történelmi folyosó és kiállítótér a himeji várban.",
+                  "category": "museum",
+                  "coords": [
+                        134.691349,
+                        34.838311
+                  ]
+            },
+            {
+                  "name": "好古園歴史展示室",
+                  "text": "Történelmi kiállítás a himeji Koko-en kertben.",
+                  "category": "museum",
+                  "coords": [
+                        134.68986,
+                        34.837632
+                  ]
+            },
+            {
+                  "name": "姫路市埋蔵文化財センター",
+                  "text": "Régészeti és kulturális örökségi múzeum Himejiben.",
+                  "category": "museum",
+                  "coords": [
+                        134.719868,
+                        34.816768
+                  ]
+            },
+            {
+                  "name": "手柄山",
+                  "text": "Himeji egyik kiemelkedő hegye parkokkal és kilátókkal.",
+                  "category": "natural",
+                  "coords": [
+                        134.675012,
+                        34.823048
+                  ]
+            },
+            {
+                  "name": "手柄山温室植物園",
+                  "text": "Himeji botanikus kertje, amely üvegházairól és növénygyűjteményéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        134.675456,
+                        34.818913
+                  ]
+            },
+            {
+                  "name": "キャッスルビュー",
+                  "text": "Himeji egyik kilátópontja, amely panorámás kilátást nyújt a híres várra.",
+                  "category": "natural",
+                  "coords": [
+                        134.690217,
+                        34.827435
+                  ]
+            },
+            {
+                  "name": "北勢隠門跡",
+                  "text": "Egy történelmi kapu romjai Himeji városában.",
+                  "category": "historical",
+                  "coords": [
+                        134.692501,
+                        34.840656
+                  ]
+            },
+            {
+                  "name": "兵庫縣姫路護國神社",
+                  "text": "Himeji sintó szentélye, amelyet Hyogo prefektúra elesettjeinek emlékére emeltek.",
+                  "category": "religious",
+                  "coords": [
+                        134.694608,
+                        34.835709
+                  ]
+            },
+            {
+                  "name": "長壁神社",
+                  "text": "Történelmi szentély, amely a Himeji vár területén belül található.",
+                  "category": "religious",
+                  "coords": [
+                        134.689949,
+                        34.831467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "兵庫県立歴史博物館",
+                  "text": "Un muzeu în Himeji dedicat istoriei și culturii prefecturii Hyogo.",
+                  "category": "museum",
+                  "coords": [
+                        134.696872,
+                        34.841115
+                  ]
+            },
+            {
+                  "name": "姫路市立美術館",
+                  "text": "Un muzeu de artă din Himeji, situat într-o fostă clădire militară din cărămidă roșie.",
+                  "category": "museum",
+                  "coords": [
+                        134.696476,
+                        34.839376
+                  ]
+            },
+            {
+                  "name": "姫路文学館",
+                  "text": "Un muzeu al literaturii din Himeji, proiectat de Tadao Ando.",
+                  "category": "museum",
+                  "coords": [
+                        134.688401,
+                        34.841566
+                  ]
+            },
+            {
+                  "name": "姫路城",
+                  "text": "Sit din patrimoniul mondial UNESCO, cunoscut sub numele de „Castelul Egretei Albe”.",
+                  "category": "castle",
+                  "coords": [
+                        134.69402,
+                        34.839331
+                  ]
+            },
+            {
+                  "name": "姫路市平和資料館",
+                  "text": "Un muzeu care comemorează raidurile aeriene asupra orașului Himeji din cel de-al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        134.674165,
+                        34.821872
+                  ]
+            },
+            {
+                  "name": "竪濠",
+                  "text": "Rămășițele unui sistem de fortificații istoric în Himeji.",
+                  "category": "historical",
+                  "coords": [
+                        134.694486,
+                        34.838351
+                  ]
+            },
+            {
+                  "name": "合坂",
+                  "text": "Denumirea japoneză a celebrului castel Himeji.",
+                  "category": "castle",
+                  "coords": [
+                        134.695431,
+                        34.838669
+                  ]
+            },
+            {
+                  "name": "Himeji Zoo",
+                  "text": "O grădină zoologică situată în incinta castelului Himeji.",
+                  "category": "recreational",
+                  "coords": [
+                        134.695796,
+                        34.837496
+                  ]
+            },
+            {
+                  "name": "Western Bailey Corridor",
+                  "text": "Un coridor istoric și zonă de expoziție în castelul Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.691349,
+                        34.838311
+                  ]
+            },
+            {
+                  "name": "好古園歴史展示室",
+                  "text": "O expoziție istorică în grădina Koko-en din Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.68986,
+                        34.837632
+                  ]
+            },
+            {
+                  "name": "姫路市埋蔵文化財センター",
+                  "text": "Un muzeu de arheologie și patrimoniu cultural în Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.719868,
+                        34.816768
+                  ]
+            },
+            {
+                  "name": "手柄山",
+                  "text": "Un vârf muntos proeminent în Himeji, cu parcuri și puncte de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        134.675012,
+                        34.823048
+                  ]
+            },
+            {
+                  "name": "手柄山温室植物園",
+                  "text": "Grădină botanică în Himeji, cunoscută pentru serele și colecțiile sale de plante.",
+                  "category": "landmark",
+                  "coords": [
+                        134.675456,
+                        34.818913
+                  ]
+            },
+            {
+                  "name": "キャッスルビュー",
+                  "text": "Un punct de observație în Himeji ce oferă o vedere panoramică asupra faimosului castel.",
+                  "category": "natural",
+                  "coords": [
+                        134.690217,
+                        34.827435
+                  ]
+            },
+            {
+                  "name": "北勢隠門跡",
+                  "text": "Ruinele istorice ale unei porți în orașul Himeji.",
+                  "category": "historical",
+                  "coords": [
+                        134.692501,
+                        34.840656
+                  ]
+            },
+            {
+                  "name": "兵庫縣姫路護國神社",
+                  "text": "Un altar shintoist în Himeji, dedicat eroilor căzuți din prefectura Hyogo.",
+                  "category": "religious",
+                  "coords": [
+                        134.694608,
+                        34.835709
+                  ]
+            },
+            {
+                  "name": "長壁神社",
+                  "text": "Un altar istoric situat în incinta complexului Castelului Himeji.",
+                  "category": "religious",
+                  "coords": [
+                        134.689949,
+                        34.831467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hyogo Perfectural Museum of History",
+                  "text": "A museum in Himeji dedicated to the history and culture of Hyogo Prefecture.",
+                  "category": "museum",
+                  "coords": [
+                        134.696872,
+                        34.841115
+                  ]
+            },
+            {
+                  "name": "Himeji City Museum of Art",
+                  "text": "An art museum in Himeji located in a former military red-brick building.",
+                  "category": "museum",
+                  "coords": [
+                        134.696476,
+                        34.839376
+                  ]
+            },
+            {
+                  "name": "Himeji City Museum of Literature",
+                  "text": "A museum of literature in Himeji designed by Tadao Ando.",
+                  "category": "museum",
+                  "coords": [
+                        134.688401,
+                        34.841566
+                  ]
+            },
+            {
+                  "name": "Himeji Castle",
+                  "text": "A UNESCO World Heritage site known as the 'White Heron Castle'.",
+                  "category": "castle",
+                  "coords": [
+                        134.69402,
+                        34.839331
+                  ]
+            },
+            {
+                  "name": "Himeji Historical Peace Center",
+                  "text": "A museum commemorating the air raids on Himeji during WWII.",
+                  "category": "museum",
+                  "coords": [
+                        134.674165,
+                        34.821872
+                  ]
+            },
+            {
+                  "name": "Moat",
+                  "text": "Remains of a historic fortification system in Himeji.",
+                  "category": "historical",
+                  "coords": [
+                        134.694486,
+                        34.838351
+                  ]
+            },
+            {
+                  "name": "Himeji-jo",
+                  "text": "The Japanese name for the famous Himeji Castle.",
+                  "category": "castle",
+                  "coords": [
+                        134.695431,
+                        34.838669
+                  ]
+            },
+            {
+                  "name": "Himeji Zoo",
+                  "text": "A zoo located within the grounds of Himeji Castle.",
+                  "category": "recreational",
+                  "coords": [
+                        134.695796,
+                        34.837496
+                  ]
+            },
+            {
+                  "name": "Western Bailey Corridor",
+                  "text": "A historic corridor and exhibit area within Himeji Castle.",
+                  "category": "museum",
+                  "coords": [
+                        134.691349,
+                        34.838311
+                  ]
+            },
+            {
+                  "name": "Koko-en History Exhibit",
+                  "text": "A history exhibit located in the Koko-en garden in Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.68986,
+                        34.837632
+                  ]
+            },
+            {
+                  "name": "Himeji City Buried Cultural Properties Center",
+                  "text": "A museum for archaeology and cultural heritage in Himeji.",
+                  "category": "museum",
+                  "coords": [
+                        134.719868,
+                        34.816768
+                  ]
+            },
+            {
+                  "name": "Tegarayama",
+                  "text": "A prominent hill in Himeji featuring parks and observation points.",
+                  "category": "natural",
+                  "coords": [
+                        134.675012,
+                        34.823048
+                  ]
+            },
+            {
+                  "name": "Himeji City Tegarayama Botanical Garden",
+                  "text": "Botanical garden in Himeji known for its greenhouses and plant collections.",
+                  "category": "landmark",
+                  "coords": [
+                        134.675456,
+                        34.818913
+                  ]
+            },
+            {
+                  "name": "Castle View",
+                  "text": "An observation point in Himeji offering panoramic views of the famous castle.",
+                  "category": "natural",
+                  "coords": [
+                        134.690217,
+                        34.827435
+                  ]
+            },
+            {
+                  "name": "Kita-Segakushi-Mon Site",
+                  "text": "Historical ruins of a gate site in the city of Himeji.",
+                  "category": "historical",
+                  "coords": [
+                        134.692501,
+                        34.840656
+                  ]
+            },
+            {
+                  "name": "Hyogo-ken Himeji Gokoku Shrine",
+                  "text": "A Shinto shrine in Himeji dedicated to the war dead of Hyogo Prefecture.",
+                  "category": "religious",
+                  "coords": [
+                        134.694608,
+                        34.835709
+                  ]
+            },
+            {
+                  "name": "Osakabe Shrine",
+                  "text": "A historical shrine located within the grounds of Himeji Castle.",
+                  "category": "religious",
+                  "coords": [
+                        134.689949,
+                        34.831467
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JP-28",
     coords: [134.69, 34.815],

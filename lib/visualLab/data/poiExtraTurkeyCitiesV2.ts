@@ -105,7 +105,1960 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "bursa-cities-v2",
+    id: "bursa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bursa Kent Müzesi",
+                  "text": "Bursa City Museum ist ein bemerkenswertes Museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.066437,
+                        40.182387
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "Atatürk Müzesi ist ein bemerkenswertes Museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.039873,
+                        40.195127
+                  ]
+            },
+            {
+                  "name": "Bursa Arkeoloji Müzesi",
+                  "text": "Bursa Arkeoloji Müzesi ist ein bemerkenswertes Museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.041197,
+                        40.195895
+                  ]
+            },
+            {
+                  "name": "Panorama 1326",
+                  "text": "Panorama 1326 ist ein bemerkenswertes Museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.075091,
+                        40.186384
+                  ]
+            },
+            {
+                  "name": "Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası",
+                  "text": "Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası ist ein historisches Rathaus in Bursa.",
+                  "category": "historical",
+                  "coords": [
+                        29.064578,
+                        40.183835
+                  ]
+            },
+            {
+                  "name": "Yıldırım Beyazıt Camii",
+                  "text": "Yıldırım Beyazıt Camii ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.082431,
+                        40.187475
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Camii",
+                  "text": "Emir Sultan Camii ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.081031,
+                        40.18114
+                  ]
+            },
+            {
+                  "name": "Somuncu Baba Camii",
+                  "text": "Somuncu Baba Camii ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.058886,
+                        40.177754
+                  ]
+            },
+            {
+                  "name": "Şehreküstü Cami",
+                  "text": "Şehreküstü Cami ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.060724,
+                        40.187643
+                  ]
+            },
+            {
+                  "name": "Kanberler Cami",
+                  "text": "Kanberler Cami ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.073199,
+                        40.18586
+                  ]
+            },
+            {
+                  "name": "Kara Timurpaşa Cami",
+                  "text": "Kara Timurpaşa Cami ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.0719,
+                        40.188119
+                  ]
+            },
+            {
+                  "name": "Muradiye Camii",
+                  "text": "Muradiye Camii ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.046501,
+                        40.191015
+                  ]
+            },
+            {
+                  "name": "Şekerhoca Camii",
+                  "text": "Şekerhoca Camii ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061929,
+                        40.182926
+                  ]
+            },
+            {
+                  "name": "Veledi Yaniç Cami",
+                  "text": "Veledi Yaniç Cami ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.056449,
+                        40.185031
+                  ]
+            },
+            {
+                  "name": "Namazgah Camii",
+                  "text": "Namazgah Camii ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.075648,
+                        40.177788
+                  ]
+            },
+            {
+                  "name": "Ertuğrul Bey Camii",
+                  "text": "Ertuğrul Bey Camii ist ein historisches Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.062894,
+                        40.185687
+                  ]
+            },
+            {
+                  "name": "Ulu Cami",
+                  "text": "Ulu Cami ist eine historische Moschee in Bursa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.061882,
+                        40.183923
+                  ]
+            },
+            {
+                  "name": "Bursa Saat Kulesi",
+                  "text": "Bursa Clock tower ist ein historischer Turm in Bursa.",
+                  "category": "tower",
+                  "coords": [
+                        29.057576,
+                        40.187587
+                  ]
+            },
+            {
+                  "name": "Şehadet Camii",
+                  "text": "Şehadet Camii ist eine historische Moschee in Bursa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.055982,
+                        40.186318
+                  ]
+            },
+            {
+                  "name": "Reşat Oyal Kultur Park",
+                  "text": "Reşat Oyal Cultural Park ist ein bemerkenswerter Park in Bursa.",
+                  "category": "park",
+                  "coords": [
+                        29.043381,
+                        40.195649
+                  ]
+            },
+            {
+                  "name": "Merinos Parkı",
+                  "text": "Merinos Parkı ist ein bemerkenswerter Park in Bursa.",
+                  "category": "park",
+                  "coords": [
+                        29.053162,
+                        40.199293
+                  ]
+            },
+            {
+                  "name": "Mücelliddin Camii",
+                  "text": "Mücelliddin Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.080953,
+                        40.184737
+                  ]
+            },
+            {
+                  "name": "Hayrettin Paşa Camii",
+                  "text": "Hayrettin Paşa Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.066789,
+                        40.18517
+                  ]
+            },
+            {
+                  "name": "Üftade Camii",
+                  "text": "Üftade Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057758,
+                        40.182961
+                  ]
+            },
+            {
+                  "name": "Şeyh Konevi Camii",
+                  "text": "Şeyh Konevi Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057262,
+                        40.178722
+                  ]
+            },
+            {
+                  "name": "Üç Kuzular Camii",
+                  "text": "Üç Kuzular Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.056597,
+                        40.177109
+                  ]
+            },
+            {
+                  "name": "Kiremitçi Sinan Bey Cami",
+                  "text": "Kiremitçi Sinan Bey Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063587,
+                        40.191654
+                  ]
+            },
+            {
+                  "name": "Yeni Bezzaz Camii",
+                  "text": "Yeni Bezzaz Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063712,
+                        40.186673
+                  ]
+            },
+            {
+                  "name": "Piremir Sultan Camii",
+                  "text": "Piremir Sultan Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.085391,
+                        40.175592
+                  ]
+            },
+            {
+                  "name": "Alaadin bey camii",
+                  "text": "Alaadin bey camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.049968,
+                        40.185212
+                  ]
+            },
+            {
+                  "name": "Selimiye Camii",
+                  "text": "Selimiye Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.053411,
+                        40.191601
+                  ]
+            },
+            {
+                  "name": "Veledi Saray Cami",
+                  "text": "Veledi Saray Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.058648,
+                        40.188237
+                  ]
+            },
+            {
+                  "name": "Tuzpazarı Camii",
+                  "text": "Tuzpazarı Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.065683,
+                        40.184958
+                  ]
+            },
+            {
+                  "name": "Şehabettin Paşa Camii",
+                  "text": "Şehabettin Paşa Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057373,
+                        40.188736
+                  ]
+            },
+            {
+                  "name": "Şerafettin Paşa Camii",
+                  "text": "Şerafettin Paşa Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.068009,
+                        40.184269
+                  ]
+            },
+            {
+                  "name": "Arap Mehmet Cami",
+                  "text": "Arap Mehmet Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061385,
+                        40.180812
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Cami",
+                  "text": "Ali Paşa Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.059496,
+                        40.179654
+                  ]
+            },
+            {
+                  "name": "Veled-i Habib Cami",
+                  "text": "Veled-i Habib Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061672,
+                        40.179424
+                  ]
+            },
+            {
+                  "name": "Duhter-i Vezir Camii",
+                  "text": "Duhter-i Vezir Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.059915,
+                        40.181764
+                  ]
+            },
+            {
+                  "name": "Altıparmak Camii",
+                  "text": "Altıparmak Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.051044,
+                        40.189357
+                  ]
+            },
+            {
+                  "name": "Ebu İshak Camii",
+                  "text": "Ebu İshak Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.070772,
+                        40.185366
+                  ]
+            },
+            {
+                  "name": "Acem Reis Cami",
+                  "text": "Acem Reis Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.07356,
+                        40.187494
+                  ]
+            },
+            {
+                  "name": "Kefen Süzen Cami",
+                  "text": "Kefen Süzen Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.064988,
+                        40.189244
+                  ]
+            },
+            {
+                  "name": "Sivasiler Camii",
+                  "text": "Sivasiler Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.064854,
+                        40.178783
+                  ]
+            },
+            {
+                  "name": "Zeyniler Camii",
+                  "text": "Zeyniler Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.083706,
+                        40.180828
+                  ]
+            },
+            {
+                  "name": "Abdal Cami",
+                  "text": "Abdal Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.068119,
+                        40.18671
+                  ]
+            },
+            {
+                  "name": "Ahmet Dai Cami",
+                  "text": "Ahmet Dai Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.072599,
+                        40.184729
+                  ]
+            },
+            {
+                  "name": "Kayhan Cami",
+                  "text": "Kayhan Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.070452,
+                        40.183693
+                  ]
+            },
+            {
+                  "name": "Bedrettin Cami",
+                  "text": "Bedrettin Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.071617,
+                        40.183331
+                  ]
+            },
+            {
+                  "name": "Hocataşkın Cami",
+                  "text": "Hocataşkın Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.077839,
+                        40.180765
+                  ]
+            },
+            {
+                  "name": "Selçuk Hatun Camii",
+                  "text": "Selçuk Hatun Camii ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.06998,
+                        40.182325
+                  ]
+            },
+            {
+                  "name": "Akbıyık Cami",
+                  "text": "Akbıyık Cami ist ein Gotteshaus in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.062938,
+                        40.181544
+                  ]
+            },
+            {
+                  "name": "Nalbantoğlu Cami",
+                  "text": "Nalbantoğlu Cami ist eine Andachtsstätte in der Stadt Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063877,
+                        40.182323
+                  ]
+            },
+            {
+                  "name": "Tatarlar Camii",
+                  "text": "Tatarlar Camii ist eine lokale Andachtsstätte in der Stadt Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.076214,
+                        40.184864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bursa Kent Müzesi",
+                  "text": "A Bursa City Museum egy jelentős múzeum Bursában.",
+                  "category": "museum",
+                  "coords": [
+                        29.066437,
+                        40.182387
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "Az Atatürk Müzesi egy jelentős múzeum Bursában.",
+                  "category": "museum",
+                  "coords": [
+                        29.039873,
+                        40.195127
+                  ]
+            },
+            {
+                  "name": "Bursa Arkeoloji Müzesi",
+                  "text": "A Bursa Arkeoloji Müzesi egy jelentős múzeum Bursában.",
+                  "category": "museum",
+                  "coords": [
+                        29.041197,
+                        40.195895
+                  ]
+            },
+            {
+                  "name": "Panorama 1326",
+                  "text": "A Panorama 1326 egy jelentős múzeum Bursában.",
+                  "category": "museum",
+                  "coords": [
+                        29.075091,
+                        40.186384
+                  ]
+            },
+            {
+                  "name": "Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası",
+                  "text": "A Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası egy történelmi városháza Bursában.",
+                  "category": "historical",
+                  "coords": [
+                        29.064578,
+                        40.183835
+                  ]
+            },
+            {
+                  "name": "Yıldırım Beyazıt Camii",
+                  "text": "A Yıldırım Beyazıt Camii egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.082431,
+                        40.187475
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Camii",
+                  "text": "Az Emir Sultan Camii egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.081031,
+                        40.18114
+                  ]
+            },
+            {
+                  "name": "Somuncu Baba Camii",
+                  "text": "A Somuncu Baba Camii egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.058886,
+                        40.177754
+                  ]
+            },
+            {
+                  "name": "Şehreküstü Cami",
+                  "text": "A Şehreküstü Cami egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.060724,
+                        40.187643
+                  ]
+            },
+            {
+                  "name": "Kanberler Cami",
+                  "text": "A Kanberler Cami egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.073199,
+                        40.18586
+                  ]
+            },
+            {
+                  "name": "Kara Timurpaşa Cami",
+                  "text": "A Kara Timurpaşa Cami egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.0719,
+                        40.188119
+                  ]
+            },
+            {
+                  "name": "Muradiye Camii",
+                  "text": "A Muradiye Camii egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.046501,
+                        40.191015
+                  ]
+            },
+            {
+                  "name": "Şekerhoca Camii",
+                  "text": "A Şekerhoca Camii egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.061929,
+                        40.182926
+                  ]
+            },
+            {
+                  "name": "Veledi Yaniç Cami",
+                  "text": "A Veledi Yaniç Cami egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.056449,
+                        40.185031
+                  ]
+            },
+            {
+                  "name": "Namazgah Camii",
+                  "text": "A Namazgah Camii egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.075648,
+                        40.177788
+                  ]
+            },
+            {
+                  "name": "Ertuğrul Bey Camii",
+                  "text": "Az Ertuğrul Bey Camii egy történelmi istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.062894,
+                        40.185687
+                  ]
+            },
+            {
+                  "name": "Ulu Cami",
+                  "text": "Az Ulu Cami egy történelmi mecset Bursában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.061882,
+                        40.183923
+                  ]
+            },
+            {
+                  "name": "Bursa Saat Kulesi",
+                  "text": "A Bursa Clock tower egy történelmi torony Bursában.",
+                  "category": "tower",
+                  "coords": [
+                        29.057576,
+                        40.187587
+                  ]
+            },
+            {
+                  "name": "Şehadet Camii",
+                  "text": "A Şehadet Camii egy történelmi mecset Bursában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.055982,
+                        40.186318
+                  ]
+            },
+            {
+                  "name": "Reşat Oyal Kültür Parkı",
+                  "text": "A Reşat Oyal Cultural Park egy jelentős park Bursában.",
+                  "category": "park",
+                  "coords": [
+                        29.043381,
+                        40.195649
+                  ]
+            },
+            {
+                  "name": "Merinos Parkı",
+                  "text": "A Merinos Parkı egy jelentős park Bursában.",
+                  "category": "park",
+                  "coords": [
+                        29.053162,
+                        40.199293
+                  ]
+            },
+            {
+                  "name": "Mücelliddin Camii",
+                  "text": "A Mücelliddin Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.080953,
+                        40.184737
+                  ]
+            },
+            {
+                  "name": "Hayrettin Paşa Camii",
+                  "text": "A Hayrettin Paşa Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.066789,
+                        40.18517
+                  ]
+            },
+            {
+                  "name": "Üftade Camii",
+                  "text": "Az Üftade Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.057758,
+                        40.182961
+                  ]
+            },
+            {
+                  "name": "Şeyh Konevi Camii",
+                  "text": "A Şeyh Konevi Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.057262,
+                        40.178722
+                  ]
+            },
+            {
+                  "name": "Üç Kuzular Camii",
+                  "text": "Az Üç Kuzular Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.056597,
+                        40.177109
+                  ]
+            },
+            {
+                  "name": "Kiremitçi Sinan Bey Cami",
+                  "text": "A Kiremitçi Sinan Bey Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.063587,
+                        40.191654
+                  ]
+            },
+            {
+                  "name": "Yeni Bezzaz Camii",
+                  "text": "A Yeni Bezzaz Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.063712,
+                        40.186673
+                  ]
+            },
+            {
+                  "name": "Piremir Sultan Camii",
+                  "text": "A Piremir Sultan Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.085391,
+                        40.175592
+                  ]
+            },
+            {
+                  "name": "Alaadin bey camii",
+                  "text": "Az Alaadin bey camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.049968,
+                        40.185212
+                  ]
+            },
+            {
+                  "name": "Selimiye Camii",
+                  "text": "A Selimiye Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.053411,
+                        40.191601
+                  ]
+            },
+            {
+                  "name": "Veledi Saray Cami",
+                  "text": "A Veledi Saray Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.058648,
+                        40.188237
+                  ]
+            },
+            {
+                  "name": "Tuzpazarı Camii",
+                  "text": "A Tuzpazarı Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.065683,
+                        40.184958
+                  ]
+            },
+            {
+                  "name": "Şehabettin Paşa Camii",
+                  "text": "A Şehabettin Paşa Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.057373,
+                        40.188736
+                  ]
+            },
+            {
+                  "name": "Şerafettin Paşa Camii",
+                  "text": "A Şerafettin Paşa Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.068009,
+                        40.184269
+                  ]
+            },
+            {
+                  "name": "Arap Mehmet Cami",
+                  "text": "Az Arap Mehmet Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.061385,
+                        40.180812
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Cami",
+                  "text": "Az Ali Paşa Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.059496,
+                        40.179654
+                  ]
+            },
+            {
+                  "name": "Veled-i Habib Cami",
+                  "text": "A Veled-i Habib Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.061672,
+                        40.179424
+                  ]
+            },
+            {
+                  "name": "Duhter-i Vezir Camii",
+                  "text": "A Duhter-i Vezir Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.059915,
+                        40.181764
+                  ]
+            },
+            {
+                  "name": "Altıparmak Camii",
+                  "text": "Az Altıparmak Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.051044,
+                        40.189357
+                  ]
+            },
+            {
+                  "name": "Ebu İshak Camii",
+                  "text": "Az Ebu İshak Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.070772,
+                        40.185366
+                  ]
+            },
+            {
+                  "name": "Acem Reis Cami",
+                  "text": "Az Acem Reis Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.07356,
+                        40.187494
+                  ]
+            },
+            {
+                  "name": "Kefen Süzen Cami",
+                  "text": "A Kefen Süzen Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.064988,
+                        40.189244
+                  ]
+            },
+            {
+                  "name": "Sivasiler Camii",
+                  "text": "A Sivasiler Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.064854,
+                        40.178783
+                  ]
+            },
+            {
+                  "name": "Zeyniler Camii",
+                  "text": "A Zeyniler Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.083706,
+                        40.180828
+                  ]
+            },
+            {
+                  "name": "Abdal Cami",
+                  "text": "Az Abdal Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.068119,
+                        40.18671
+                  ]
+            },
+            {
+                  "name": "Ahmet Dai Cami",
+                  "text": "Az Ahmet Dai Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.072599,
+                        40.184729
+                  ]
+            },
+            {
+                  "name": "Kayhan Cami",
+                  "text": "A Kayhan Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.070452,
+                        40.183693
+                  ]
+            },
+            {
+                  "name": "Bedrettin Cami",
+                  "text": "A Bedrettin Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.071617,
+                        40.183331
+                  ]
+            },
+            {
+                  "name": "Hocataşkın Cami",
+                  "text": "A Hocataşkın Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.077839,
+                        40.180765
+                  ]
+            },
+            {
+                  "name": "Selçuk Hatun Camii",
+                  "text": "A Selçuk Hatun Camii egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.06998,
+                        40.182325
+                  ]
+            },
+            {
+                  "name": "Akbıyık Cami",
+                  "text": "Az Akbıyık Cami egy istentiszteleti hely Bursában.",
+                  "category": "religious",
+                  "coords": [
+                        29.062938,
+                        40.181544
+                  ]
+            },
+            {
+                  "name": "Nalbantoğlu Cami",
+                  "text": "A Nalbantoğlu Cami egy istentiszteleti hely Bursa városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.063877,
+                        40.182323
+                  ]
+            },
+            {
+                  "name": "Tatarlar Camii",
+                  "text": "A Tatarlar Camii egy helyi istentiszteleti hely Bursa városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.076214,
+                        40.184864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bursa Kent Müzesi",
+                  "text": "Bursa City Museum este un muzeu notabil din Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.066437,
+                        40.182387
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "Atatürk Müzesi este un muzeu notabil din Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.039873,
+                        40.195127
+                  ]
+            },
+            {
+                  "name": "Bursa Arkeoloji Müzesi",
+                  "text": "Bursa Arkeoloji Müzesi este un muzeu notabil din Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.041197,
+                        40.195895
+                  ]
+            },
+            {
+                  "name": "Panorama 1326",
+                  "text": "Panorama 1326 este un muzeu notabil din Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.075091,
+                        40.186384
+                  ]
+            },
+            {
+                  "name": "Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası",
+                  "text": "Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası este o primărie istorică din Bursa.",
+                  "category": "historical",
+                  "coords": [
+                        29.064578,
+                        40.183835
+                  ]
+            },
+            {
+                  "name": "Yıldırım Beyazıt Camii",
+                  "text": "Yıldırım Beyazıt Camii este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.082431,
+                        40.187475
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Camii",
+                  "text": "Emir Sultan Camii este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.081031,
+                        40.18114
+                  ]
+            },
+            {
+                  "name": "Somuncu Baba Camii",
+                  "text": "Somuncu Baba Camii este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.058886,
+                        40.177754
+                  ]
+            },
+            {
+                  "name": "Şehreküstü Cami",
+                  "text": "Şehreküstü Cami este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.060724,
+                        40.187643
+                  ]
+            },
+            {
+                  "name": "Kanberler Cami",
+                  "text": "Kanberler Cami este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.073199,
+                        40.18586
+                  ]
+            },
+            {
+                  "name": "Kara Timurpaşa Cami",
+                  "text": "Kara Timurpaşa Cami este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.0719,
+                        40.188119
+                  ]
+            },
+            {
+                  "name": "Muradiye Camii",
+                  "text": "Muradiye Camii este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.046501,
+                        40.191015
+                  ]
+            },
+            {
+                  "name": "Şekerhoca Camii",
+                  "text": "Şekerhoca Camii este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061929,
+                        40.182926
+                  ]
+            },
+            {
+                  "name": "Veledi Yaniç Cami",
+                  "text": "Veledi Yaniç Cami este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.056449,
+                        40.185031
+                  ]
+            },
+            {
+                  "name": "Namazgah Camii",
+                  "text": "Namazgah Camii este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.075648,
+                        40.177788
+                  ]
+            },
+            {
+                  "name": "Ertuğrul Bey Camii",
+                  "text": "Ertuğrul Bey Camii este un lăcaș de cult istoric în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.062894,
+                        40.185687
+                  ]
+            },
+            {
+                  "name": "Ulu Cami",
+                  "text": "Ulu Cami este o moschee istorică în Bursa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.061882,
+                        40.183923
+                  ]
+            },
+            {
+                  "name": "Bursa Saat Kulesi",
+                  "text": "Bursa Clock tower este un turn istoric din Bursa.",
+                  "category": "tower",
+                  "coords": [
+                        29.057576,
+                        40.187587
+                  ]
+            },
+            {
+                  "name": "Şehadet Camii",
+                  "text": "Şehadet Camii este o moschee istorică în Bursa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.055982,
+                        40.186318
+                  ]
+            },
+            {
+                  "name": "Reşat Oyal Kültür Parkı",
+                  "text": "Reşat Oyal Cultural Park este un parc notabil din Bursa.",
+                  "category": "park",
+                  "coords": [
+                        29.043381,
+                        40.195649
+                  ]
+            },
+            {
+                  "name": "Merinos Parkı",
+                  "text": "Merinos Parkı este un parc notabil din Bursa.",
+                  "category": "park",
+                  "coords": [
+                        29.053162,
+                        40.199293
+                  ]
+            },
+            {
+                  "name": "Mücelliddin Camii",
+                  "text": "Mücelliddin Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.080953,
+                        40.184737
+                  ]
+            },
+            {
+                  "name": "Hayrettin Paşa Camii",
+                  "text": "Hayrettin Paşa Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.066789,
+                        40.18517
+                  ]
+            },
+            {
+                  "name": "Üftade Camii",
+                  "text": "Üftade Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057758,
+                        40.182961
+                  ]
+            },
+            {
+                  "name": "Şeyh Konevi Camii",
+                  "text": "Şeyh Konevi Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057262,
+                        40.178722
+                  ]
+            },
+            {
+                  "name": "Üç Kuzular Camii",
+                  "text": "Üç Kuzular Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.056597,
+                        40.177109
+                  ]
+            },
+            {
+                  "name": "Kiremitçi Sinan Bey Cami",
+                  "text": "Kiremitçi Sinan Bey Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063587,
+                        40.191654
+                  ]
+            },
+            {
+                  "name": "Yeni Bezzaz Camii",
+                  "text": "Yeni Bezzaz Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063712,
+                        40.186673
+                  ]
+            },
+            {
+                  "name": "Piremir Sultan Camii",
+                  "text": "Piremir Sultan Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.085391,
+                        40.175592
+                  ]
+            },
+            {
+                  "name": "Alaadin bey camii",
+                  "text": "Alaadin bey camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.049968,
+                        40.185212
+                  ]
+            },
+            {
+                  "name": "Selimiye Camii",
+                  "text": "Selimiye Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.053411,
+                        40.191601
+                  ]
+            },
+            {
+                  "name": "Veledi Saray Cami",
+                  "text": "Veledi Saray Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.058648,
+                        40.188237
+                  ]
+            },
+            {
+                  "name": "Tuzpazarı Camii",
+                  "text": "Tuzpazarı Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.065683,
+                        40.184958
+                  ]
+            },
+            {
+                  "name": "Şehabettin Paşa Camii",
+                  "text": "Şehabettin Paşa Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057373,
+                        40.188736
+                  ]
+            },
+            {
+                  "name": "Şerafettin Paşa Camii",
+                  "text": "Şerafettin Paşa Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.068009,
+                        40.184269
+                  ]
+            },
+            {
+                  "name": "Arap Mehmet Cami",
+                  "text": "Arap Mehmet Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061385,
+                        40.180812
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Cami",
+                  "text": "Ali Paşa Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.059496,
+                        40.179654
+                  ]
+            },
+            {
+                  "name": "Veled-i Habib Cami",
+                  "text": "Veled-i Habib Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061672,
+                        40.179424
+                  ]
+            },
+            {
+                  "name": "Duhter-i Vezir Camii",
+                  "text": "Duhter-i Vezir Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.059915,
+                        40.181764
+                  ]
+            },
+            {
+                  "name": "Altıparmak Camii",
+                  "text": "Altıparmak Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.051044,
+                        40.189357
+                  ]
+            },
+            {
+                  "name": "Ebu İshak Camii",
+                  "text": "Ebu İshak Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.070772,
+                        40.185366
+                  ]
+            },
+            {
+                  "name": "Acem Reis Cami",
+                  "text": "Acem Reis Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.07356,
+                        40.187494
+                  ]
+            },
+            {
+                  "name": "Kefen Süzen Cami",
+                  "text": "Kefen Süzen Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.064988,
+                        40.189244
+                  ]
+            },
+            {
+                  "name": "Sivasiler Camii",
+                  "text": "Sivasiler Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.064854,
+                        40.178783
+                  ]
+            },
+            {
+                  "name": "Zeyniler Camii",
+                  "text": "Zeyniler Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.083706,
+                        40.180828
+                  ]
+            },
+            {
+                  "name": "Abdal Cami",
+                  "text": "Abdal Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.068119,
+                        40.18671
+                  ]
+            },
+            {
+                  "name": "Ahmet Dai Cami",
+                  "text": "Ahmet Dai Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.072599,
+                        40.184729
+                  ]
+            },
+            {
+                  "name": "Kayhan Cami",
+                  "text": "Kayhan Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.070452,
+                        40.183693
+                  ]
+            },
+            {
+                  "name": "Bedrettin Cami",
+                  "text": "Bedrettin Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.071617,
+                        40.183331
+                  ]
+            },
+            {
+                  "name": "Hocataşkın Cami",
+                  "text": "Hocataşkın Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.077839,
+                        40.180765
+                  ]
+            },
+            {
+                  "name": "Selçuk Hatun Camii",
+                  "text": "Selçuk Hatun Camii este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.06998,
+                        40.182325
+                  ]
+            },
+            {
+                  "name": "Akbıyık Cami",
+                  "text": "Akbıyık Cami este un lăcaș de cult în Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.062938,
+                        40.181544
+                  ]
+            },
+            {
+                  "name": "Nalbantoğlu Cami",
+                  "text": "Nalbantoğlu Cami este un lăcaș de cult situat în orașul Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063877,
+                        40.182323
+                  ]
+            },
+            {
+                  "name": "Tatarlar Camii",
+                  "text": "Tatarlar Camii este un lăcaș de cult local situat în orașul Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.076214,
+                        40.184864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bursa City Museum",
+                  "text": "Bursa City Museum is a notable museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.066437,
+                        40.182387
+                  ]
+            },
+            {
+                  "name": "Atatürk Müzesi",
+                  "text": "Atatürk Müzesi is a notable museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.039873,
+                        40.195127
+                  ]
+            },
+            {
+                  "name": "Bursa Arkeoloji Müzesi",
+                  "text": "Bursa Arkeoloji Müzesi is a notable museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.041197,
+                        40.195895
+                  ]
+            },
+            {
+                  "name": "Panorama 1326",
+                  "text": "Panorama 1326 is a notable museum in Bursa.",
+                  "category": "museum",
+                  "coords": [
+                        29.075091,
+                        40.186384
+                  ]
+            },
+            {
+                  "name": "Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası",
+                  "text": "Bursa Büyükşehir Belediyesi Tarihi Hizmet Binası is a historic town hall in Bursa.",
+                  "category": "historical",
+                  "coords": [
+                        29.064578,
+                        40.183835
+                  ]
+            },
+            {
+                  "name": "Yıldırım Beyazıt Camii",
+                  "text": "Yıldırım Beyazıt Camii is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.082431,
+                        40.187475
+                  ]
+            },
+            {
+                  "name": "Emir Sultan Camii",
+                  "text": "Emir Sultan Camii is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.081031,
+                        40.18114
+                  ]
+            },
+            {
+                  "name": "Somuncu Baba Camii",
+                  "text": "Somuncu Baba Camii is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.058886,
+                        40.177754
+                  ]
+            },
+            {
+                  "name": "Şehreküstü Cami",
+                  "text": "Şehreküstü Cami is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.060724,
+                        40.187643
+                  ]
+            },
+            {
+                  "name": "Kanberler Cami",
+                  "text": "Kanberler Cami is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.073199,
+                        40.18586
+                  ]
+            },
+            {
+                  "name": "Kara Timurpaşa Cami",
+                  "text": "Kara Timurpaşa Cami is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.0719,
+                        40.188119
+                  ]
+            },
+            {
+                  "name": "Muradiye Camii",
+                  "text": "Muradiye Camii is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.046501,
+                        40.191015
+                  ]
+            },
+            {
+                  "name": "Şekerhoca Camii",
+                  "text": "Şekerhoca Camii is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061929,
+                        40.182926
+                  ]
+            },
+            {
+                  "name": "Veledi Yaniç Cami",
+                  "text": "Veledi Yaniç Cami is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.056449,
+                        40.185031
+                  ]
+            },
+            {
+                  "name": "Namazgah Camii",
+                  "text": "Namazgah Camii is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.075648,
+                        40.177788
+                  ]
+            },
+            {
+                  "name": "Ertuğrul Bey Camii",
+                  "text": "Ertuğrul Bey Camii is a historic place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.062894,
+                        40.185687
+                  ]
+            },
+            {
+                  "name": "Ulu Cami",
+                  "text": "Ulu Cami is a historic mosque in Bursa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.061882,
+                        40.183923
+                  ]
+            },
+            {
+                  "name": "Bursa Clock tower",
+                  "text": "Bursa Clock tower is a historic tower in Bursa.",
+                  "category": "tower",
+                  "coords": [
+                        29.057576,
+                        40.187587
+                  ]
+            },
+            {
+                  "name": "Şehadet Camii",
+                  "text": "Şehadet Camii is a historic mosque in Bursa.",
+                  "category": "landmark",
+                  "coords": [
+                        29.055982,
+                        40.186318
+                  ]
+            },
+            {
+                  "name": "Reşat Oyal Cultural Park",
+                  "text": "Reşat Oyal Cultural Park is a notable park in Bursa.",
+                  "category": "park",
+                  "coords": [
+                        29.043381,
+                        40.195649
+                  ]
+            },
+            {
+                  "name": "Merinos Parkı",
+                  "text": "Merinos Parkı is a notable park in Bursa.",
+                  "category": "park",
+                  "coords": [
+                        29.053162,
+                        40.199293
+                  ]
+            },
+            {
+                  "name": "Mücelliddin Camii",
+                  "text": "Mücelliddin Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.080953,
+                        40.184737
+                  ]
+            },
+            {
+                  "name": "Hayrettin Paşa Camii",
+                  "text": "Hayrettin Paşa Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.066789,
+                        40.18517
+                  ]
+            },
+            {
+                  "name": "Üftade Camii",
+                  "text": "Üftade Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057758,
+                        40.182961
+                  ]
+            },
+            {
+                  "name": "Şeyh Konevi Camii",
+                  "text": "Şeyh Konevi Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057262,
+                        40.178722
+                  ]
+            },
+            {
+                  "name": "Üç Kuzular Camii",
+                  "text": "Üç Kuzular Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.056597,
+                        40.177109
+                  ]
+            },
+            {
+                  "name": "Kiremitçi Sinan Bey Cami",
+                  "text": "Kiremitçi Sinan Bey Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063587,
+                        40.191654
+                  ]
+            },
+            {
+                  "name": "Yeni Bezzaz Camii",
+                  "text": "Yeni Bezzaz Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063712,
+                        40.186673
+                  ]
+            },
+            {
+                  "name": "Piremir Sultan Camii",
+                  "text": "Piremir Sultan Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.085391,
+                        40.175592
+                  ]
+            },
+            {
+                  "name": "Alaadin bey camii",
+                  "text": "Alaadin bey camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.049968,
+                        40.185212
+                  ]
+            },
+            {
+                  "name": "Selimiye Camii",
+                  "text": "Selimiye Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.053411,
+                        40.191601
+                  ]
+            },
+            {
+                  "name": "Veledi Saray Cami",
+                  "text": "Veledi Saray Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.058648,
+                        40.188237
+                  ]
+            },
+            {
+                  "name": "Tuzpazarı Camii",
+                  "text": "Tuzpazarı Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.065683,
+                        40.184958
+                  ]
+            },
+            {
+                  "name": "Şehabettin Paşa Camii",
+                  "text": "Şehabettin Paşa Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.057373,
+                        40.188736
+                  ]
+            },
+            {
+                  "name": "Şerafettin Paşa Camii",
+                  "text": "Şerafettin Paşa Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.068009,
+                        40.184269
+                  ]
+            },
+            {
+                  "name": "Arap Mehmet Cami",
+                  "text": "Arap Mehmet Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061385,
+                        40.180812
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Cami",
+                  "text": "Ali Paşa Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.059496,
+                        40.179654
+                  ]
+            },
+            {
+                  "name": "Veled-i Habib Cami",
+                  "text": "Veled-i Habib Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.061672,
+                        40.179424
+                  ]
+            },
+            {
+                  "name": "Duhter-i Vezir Camii",
+                  "text": "Duhter-i Vezir Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.059915,
+                        40.181764
+                  ]
+            },
+            {
+                  "name": "Altıparmak Camii",
+                  "text": "Altıparmak Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.051044,
+                        40.189357
+                  ]
+            },
+            {
+                  "name": "Ebu İshak Camii",
+                  "text": "Ebu İshak Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.070772,
+                        40.185366
+                  ]
+            },
+            {
+                  "name": "Acem Reis Cami",
+                  "text": "Acem Reis Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.07356,
+                        40.187494
+                  ]
+            },
+            {
+                  "name": "Kefen Süzen Cami",
+                  "text": "Kefen Süzen Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.064988,
+                        40.189244
+                  ]
+            },
+            {
+                  "name": "Sivasiler Camii",
+                  "text": "Sivasiler Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.064854,
+                        40.178783
+                  ]
+            },
+            {
+                  "name": "Zeyniler Camii",
+                  "text": "Zeyniler Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.083706,
+                        40.180828
+                  ]
+            },
+            {
+                  "name": "Abdal Cami",
+                  "text": "Abdal Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.068119,
+                        40.18671
+                  ]
+            },
+            {
+                  "name": "Ahmet Dai Cami",
+                  "text": "Ahmet Dai Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.072599,
+                        40.184729
+                  ]
+            },
+            {
+                  "name": "Kayhan Cami",
+                  "text": "Kayhan Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.070452,
+                        40.183693
+                  ]
+            },
+            {
+                  "name": "Bedrettin Cami",
+                  "text": "Bedrettin Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.071617,
+                        40.183331
+                  ]
+            },
+            {
+                  "name": "Hocataşkın Cami",
+                  "text": "Hocataşkın Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.077839,
+                        40.180765
+                  ]
+            },
+            {
+                  "name": "Selçuk Hatun Camii",
+                  "text": "Selçuk Hatun Camii is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.06998,
+                        40.182325
+                  ]
+            },
+            {
+                  "name": "Akbıyık Cami",
+                  "text": "Akbıyık Cami is a place of worship in Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.062938,
+                        40.181544
+                  ]
+            },
+            {
+                  "name": "Nalbantoğlu Cami",
+                  "text": "Nalbantoğlu Cami is a place of worship located in the city of Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.063877,
+                        40.182323
+                  ]
+            },
+            {
+                  "name": "Tatarlar Camii",
+                  "text": "Tatarlar Camii is a local place of worship situated in the city of Bursa.",
+                  "category": "religious",
+                  "coords": [
+                        29.076214,
+                        40.184864
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-16",
     coords: [29.0610, 40.1826],
@@ -169,6 +2122,222 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         35.337813,
                         36.995297
                   ]
+            },
+            {
+                  "name": "Adana Müzesi",
+                  "text": "Archäologisches Museum mit Exponaten aus der Region Kilikien.",
+                  "category": "museum",
+                  "coords": [
+                        35.31315,
+                        36.995052
+                  ]
+            },
+            {
+                  "name": "Adana Devlet Tiyatrosu",
+                  "text": "Staatliches Theatergebäude in Adana für verschiedene Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.331312,
+                        36.990655
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Sinema Müzesi",
+                  "text": "Museum zur Geschichte des Kinos und der türkischen Filmindustrie in Adana.",
+                  "category": "museum",
+                  "coords": [
+                        35.331931,
+                        36.988456
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Bülent Ecevit Müzesi",
+                  "text": "Lokales Museum in Adana, benannt nach dem ehemaligen türkischen Premierminister.",
+                  "category": "museum",
+                  "coords": [
+                        35.330823,
+                        36.988542
+                  ]
+            },
+            {
+                  "name": "Seyhan Belediyesi Kahve Müzesi",
+                  "text": "Museum in Adana zur Geschichte und Kultur des Kaffees.",
+                  "category": "museum",
+                  "coords": [
+                        35.329269,
+                        36.98842
+                  ]
+            },
+            {
+                  "name": "Tepebağ Höyük",
+                  "text": "Antiker Siedlungshügel, der den historischen Kern von Adana darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        35.328144,
+                        36.988345
+                  ]
+            },
+            {
+                  "name": "Hamam Müzesi",
+                  "text": "Museum in Adana zur Tradition und Architektur türkischer Bäder.",
+                  "category": "museum",
+                  "coords": [
+                        35.329242,
+                        36.981027
+                  ]
+            },
+            {
+                  "name": "Aqua Land",
+                  "text": "Wasserfreizeitpark in Adana mit Schwimmbecken und Rutschen.",
+                  "category": "recreational",
+                  "coords": [
+                        35.339637,
+                        37.001134
+                  ]
+            },
+            {
+                  "name": "Yuzarsif Kale2",
+                  "text": "Historische Burg oder Festungsanlage in der Region Adana.",
+                  "category": "castle",
+                  "coords": [
+                        35.345312,
+                        36.999612
+                  ]
+            },
+            {
+                  "name": "park Tiyatro",
+                  "text": "Freilichtbühne oder Veranstaltungsort in einem Park in Adana.",
+                  "category": "cultural",
+                  "coords": [
+                        35.32988,
+                        37.017318
+                  ]
+            },
+            {
+                  "name": "Merkez Park Amfitiyatro",
+                  "text": "Amphitheater im Zentralpark von Adana für öffentliche Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        35.335337,
+                        37.000436
+                  ]
+            },
+            {
+                  "name": "Taș Köprü",
+                  "text": "Antike römische Brücke über den Seyhan, eine der ältesten noch genutzten Brücken.",
+                  "category": "landmark",
+                  "coords": [
+                        35.335032,
+                        36.986269
+                  ]
+            },
+            {
+                  "name": "Çetinel Apartmanı",
+                  "text": "Bemerkenswertes historisches Gebäude oder Denkmal in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.315069,
+                        37.000939
+                  ]
+            },
+            {
+                  "name": "Büyük Saat Kulesi",
+                  "text": "Höchster historischer Uhrturm der Türkei, gelegen in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.330177,
+                        36.983865
+                  ]
+            },
+            {
+                  "name": "Tuz Pazarı",
+                  "text": "Historischer Salzmarkt und Denkmal in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.331189,
+                        36.984078
+                  ]
+            },
+            {
+                  "name": "Tarihi Kız Lisesi",
+                  "text": "Historisches Gebäude, das früher als Mädchengymnasium in Adana diente.",
+                  "category": "historical",
+                  "coords": [
+                        35.333641,
+                        36.984514
+                  ]
+            },
+            {
+                  "name": "Arasta- Kapalı Çarşı",
+                  "text": "Historischer Abschnitt des überdachten Basars in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.329179,
+                        36.983975
+                  ]
+            },
+            {
+                  "name": "Bebekli Kilise",
+                  "text": "Historische römisch-katholische Kirche in Adana, dem Heiligen Paul gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        35.325864,
+                        36.987536
+                  ]
+            },
+            {
+                  "name": "Akça Mescit",
+                  "text": "Kleine historische Moschee oder Gebetsraum in Adana.",
+                  "category": "religious",
+                  "coords": [
+                        35.330351,
+                        36.985419
+                  ]
+            },
+            {
+                  "name": "Şeyh Zülfo Camii",
+                  "text": "Lokale Moschee in Adana, die für den islamischen Gottesdienst genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        35.329164,
+                        36.979981
+                  ]
+            },
+            {
+                  "name": "Mestanzade Camii",
+                  "text": "Historische Moschee in der Region Adana.",
+                  "category": "religious",
+                  "coords": [
+                        35.331385,
+                        36.980834
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Historische osmanische Moschee in Adana, auch bekannt als Neue Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        35.323685,
+                        36.988406
+                  ]
+            },
+            {
+                  "name": "Yağ Camii",
+                  "text": "Historische Moschee in Adana, ursprünglich als Kirche erbaut.",
+                  "category": "religious",
+                  "coords": [
+                        35.327137,
+                        36.983652
+                  ]
+            },
+            {
+                  "name": "Ali Dede Camii",
+                  "text": "Moschee in Adana, benannt nach einer lokalen religiösen Persönlichkeit.",
+                  "category": "religious",
+                  "coords": [
+                        35.326417,
+                        36.981482
+                  ]
             }
       ],
       "hu": [
@@ -197,6 +2366,222 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         35.337813,
                         36.995297
+                  ]
+            },
+            {
+                  "name": "Adana Müzesi",
+                  "text": "Régészeti múzeum, amely a kilikiai régió leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        35.31315,
+                        36.995052
+                  ]
+            },
+            {
+                  "name": "Adana Devlet Tiyatrosu",
+                  "text": "Állami színházépület Adanában, amely különféle előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        35.331312,
+                        36.990655
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Sinema Müzesi",
+                  "text": "A mozi és a török filmipar történetének szentelt múzeum Adanában.",
+                  "category": "museum",
+                  "coords": [
+                        35.331931,
+                        36.988456
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Bülent Ecevit Müzesi",
+                  "text": "Helyi múzeum Adanában, amelyet a volt török miniszterelnökről neveztek el.",
+                  "category": "museum",
+                  "coords": [
+                        35.330823,
+                        36.988542
+                  ]
+            },
+            {
+                  "name": "Seyhan Belediyesi Kahve Müzesi",
+                  "text": "A kávé történetét és kultúráját bemutató múzeum Adanában.",
+                  "category": "museum",
+                  "coords": [
+                        35.329269,
+                        36.98842
+                  ]
+            },
+            {
+                  "name": "Tepebağ Höyük",
+                  "text": "Ókori településhalom, amely Adana történelmi magját jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        35.328144,
+                        36.988345
+                  ]
+            },
+            {
+                  "name": "Hamam Müzesi",
+                  "text": "A török fürdők hagyományát és építészetét bemutató múzeum Adanában.",
+                  "category": "museum",
+                  "coords": [
+                        35.329242,
+                        36.981027
+                  ]
+            },
+            {
+                  "name": "Aqua Land",
+                  "text": "Vízi vidámpark Adanában medencékkel és csúszdákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        35.339637,
+                        37.001134
+                  ]
+            },
+            {
+                  "name": "Yuzarsif Kale2",
+                  "text": "Történelmi vár vagy erődítmény az adanai régióban.",
+                  "category": "castle",
+                  "coords": [
+                        35.345312,
+                        36.999612
+                  ]
+            },
+            {
+                  "name": "park Tiyatro",
+                  "text": "Szabadtéri színház vagy előadótér egy adanai parkban.",
+                  "category": "cultural",
+                  "coords": [
+                        35.32988,
+                        37.017318
+                  ]
+            },
+            {
+                  "name": "Merkez Park Amfitiyatro",
+                  "text": "Amfiteátrum Adana Központi Parkjában nyilvános események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        35.335337,
+                        37.000436
+                  ]
+            },
+            {
+                  "name": "Taș Köprü",
+                  "text": "Ókori római híd a Seyhan folyón, az egyik legrégebbi, ma is használt híd.",
+                  "category": "landmark",
+                  "coords": [
+                        35.335032,
+                        36.986269
+                  ]
+            },
+            {
+                  "name": "Çetinel Apartmanı",
+                  "text": "Nevezetes történelmi épület vagy emlékmű Adanában.",
+                  "category": "historical",
+                  "coords": [
+                        35.315069,
+                        37.000939
+                  ]
+            },
+            {
+                  "name": "Büyük Saat Kulesi",
+                  "text": "Törökország legmagasabb történelmi óratornya Adanában.",
+                  "category": "historical",
+                  "coords": [
+                        35.330177,
+                        36.983865
+                  ]
+            },
+            {
+                  "name": "Tuz Pazarı",
+                  "text": "Történelmi sós piac és műemlék Adanában.",
+                  "category": "historical",
+                  "coords": [
+                        35.331189,
+                        36.984078
+                  ]
+            },
+            {
+                  "name": "Tarihi Kız Lisesi",
+                  "text": "Történelmi épület Adanában, amely korábban leánygimnáziumként működött.",
+                  "category": "historical",
+                  "coords": [
+                        35.333641,
+                        36.984514
+                  ]
+            },
+            {
+                  "name": "Arasta- Kapalı Çarşı",
+                  "text": "Az adanai fedett bazár történelmi része.",
+                  "category": "historical",
+                  "coords": [
+                        35.329179,
+                        36.983975
+                  ]
+            },
+            {
+                  "name": "Bebekli Kilise",
+                  "text": "Szent Pálnak szentelt történelmi római katolikus templom Adanában.",
+                  "category": "religious",
+                  "coords": [
+                        35.325864,
+                        36.987536
+                  ]
+            },
+            {
+                  "name": "Akça Mescit",
+                  "text": "Kisméretű történelmi mecset vagy imaház Adanában.",
+                  "category": "religious",
+                  "coords": [
+                        35.330351,
+                        36.985419
+                  ]
+            },
+            {
+                  "name": "Şeyh Zülfo Camii",
+                  "text": "Helyi mecset Adanában, az iszlám hitélet helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        35.329164,
+                        36.979981
+                  ]
+            },
+            {
+                  "name": "Mestanzade Camii",
+                  "text": "Történelmi mecset az adanai régióban.",
+                  "category": "religious",
+                  "coords": [
+                        35.331385,
+                        36.980834
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Történelmi oszmán mecset Adanában, más néven Új Mecset.",
+                  "category": "religious",
+                  "coords": [
+                        35.323685,
+                        36.988406
+                  ]
+            },
+            {
+                  "name": "Yağ Camii",
+                  "text": "Történelmi mecset Adanában, amely eredetileg templomnak épült.",
+                  "category": "religious",
+                  "coords": [
+                        35.327137,
+                        36.983652
+                  ]
+            },
+            {
+                  "name": "Ali Dede Camii",
+                  "text": "Egy helyi vallási alakról elnevezett mecset Adanában.",
+                  "category": "religious",
+                  "coords": [
+                        35.326417,
+                        36.981482
                   ]
             }
       ],
@@ -227,6 +2612,222 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         35.337813,
                         36.995297
                   ]
+            },
+            {
+                  "name": "Adana Müzesi",
+                  "text": "Muzeu de arheologie care expune artefacte din regiunea Cilicia.",
+                  "category": "museum",
+                  "coords": [
+                        35.31315,
+                        36.995052
+                  ]
+            },
+            {
+                  "name": "Adana Devlet Tiyatrosu",
+                  "text": "Clădirea teatrului de stat din Adana, care găzduiește diverse spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        35.331312,
+                        36.990655
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Sinema Müzesi",
+                  "text": "Muzeu dedicat istoriei cinematografiei și industriei filmului turcesc din Adana.",
+                  "category": "museum",
+                  "coords": [
+                        35.331931,
+                        36.988456
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Bülent Ecevit Müzesi",
+                  "text": "Muzeu local din Adana, numit după fostul prim-ministru turc.",
+                  "category": "museum",
+                  "coords": [
+                        35.330823,
+                        36.988542
+                  ]
+            },
+            {
+                  "name": "Seyhan Belediyesi Kahve Müzesi",
+                  "text": "Muzeu din Adana care explorează istoria și cultura cafelei.",
+                  "category": "museum",
+                  "coords": [
+                        35.329269,
+                        36.98842
+                  ]
+            },
+            {
+                  "name": "Tepebağ Höyük",
+                  "text": "Tumul antic care reprezintă nucleul istoric al orașului Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.328144,
+                        36.988345
+                  ]
+            },
+            {
+                  "name": "Hamam Müzesi",
+                  "text": "Muzeu din Adana care prezintă tradiția și arhitectura băilor turcești.",
+                  "category": "museum",
+                  "coords": [
+                        35.329242,
+                        36.981027
+                  ]
+            },
+            {
+                  "name": "Aqua Land",
+                  "text": "Parc acvatic de agrement în Adana, cu piscine și tobogane.",
+                  "category": "recreational",
+                  "coords": [
+                        35.339637,
+                        37.001134
+                  ]
+            },
+            {
+                  "name": "Yuzarsif Kale2",
+                  "text": "Castel istoric sau sit de fortificație în regiunea Adana.",
+                  "category": "castle",
+                  "coords": [
+                        35.345312,
+                        36.999612
+                  ]
+            },
+            {
+                  "name": "park Tiyatro",
+                  "text": "Teatru în aer liber sau spațiu de spectacol situat într-un parc din Adana.",
+                  "category": "cultural",
+                  "coords": [
+                        35.32988,
+                        37.017318
+                  ]
+            },
+            {
+                  "name": "Merkez Park Amfitiyatro",
+                  "text": "Amfiteatru situat în Parcul Central din Adana pentru evenimente publice.",
+                  "category": "cultural",
+                  "coords": [
+                        35.335337,
+                        37.000436
+                  ]
+            },
+            {
+                  "name": "Taș Köprü",
+                  "text": "Pod roman antic peste râul Seyhan, unul dintre cele mai vechi încă în uz.",
+                  "category": "landmark",
+                  "coords": [
+                        35.335032,
+                        36.986269
+                  ]
+            },
+            {
+                  "name": "Çetinel Apartmanı",
+                  "text": "Clădire istorică sau monument remarcabil în Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.315069,
+                        37.000939
+                  ]
+            },
+            {
+                  "name": "Büyük Saat Kulesi",
+                  "text": "Cel mai înalt turn cu ceas istoric din Turcia, situat în Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.330177,
+                        36.983865
+                  ]
+            },
+            {
+                  "name": "Tuz Pazarı",
+                  "text": "Zonă istorică a pieței de sare și monument în Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.331189,
+                        36.984078
+                  ]
+            },
+            {
+                  "name": "Tarihi Kız Lisesi",
+                  "text": "Clădire istorică care a servit anterior ca liceu de fete în Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.333641,
+                        36.984514
+                  ]
+            },
+            {
+                  "name": "Arasta- Kapalı Çarşı",
+                  "text": "Secțiune istorică a bazarului acoperit din Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.329179,
+                        36.983975
+                  ]
+            },
+            {
+                  "name": "Bebekli Kilise",
+                  "text": "Biserică romano-catolică istorică din Adana dedicată Sfântului Paul.",
+                  "category": "religious",
+                  "coords": [
+                        35.325864,
+                        36.987536
+                  ]
+            },
+            {
+                  "name": "Akça Mescit",
+                  "text": "Mică moschee istorică sau sală de rugăciune în Adana.",
+                  "category": "religious",
+                  "coords": [
+                        35.330351,
+                        36.985419
+                  ]
+            },
+            {
+                  "name": "Şeyh Zülfo Camii",
+                  "text": "Moschee locală în Adana utilizată pentru cultul islamic.",
+                  "category": "religious",
+                  "coords": [
+                        35.329164,
+                        36.979981
+                  ]
+            },
+            {
+                  "name": "Mestanzade Camii",
+                  "text": "Moschee istorică situată în regiunea Adana.",
+                  "category": "religious",
+                  "coords": [
+                        35.331385,
+                        36.980834
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Moschee otomană istorică din Adana, cunoscută și sub numele de Noua Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        35.323685,
+                        36.988406
+                  ]
+            },
+            {
+                  "name": "Yağ Camii",
+                  "text": "Moschee istorică în Adana, construită inițial ca biserică și convertită ulterior.",
+                  "category": "religious",
+                  "coords": [
+                        35.327137,
+                        36.983652
+                  ]
+            },
+            {
+                  "name": "Ali Dede Camii",
+                  "text": "Moschee în Adana numită după o figură religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        35.326417,
+                        36.981482
+                  ]
             }
       ],
       "en": [
@@ -255,6 +2856,222 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         35.337813,
                         36.995297
+                  ]
+            },
+            {
+                  "name": "Museum of Adana",
+                  "text": "Archaeological museum showcasing artifacts from the Cilicia region.",
+                  "category": "museum",
+                  "coords": [
+                        35.31315,
+                        36.995052
+                  ]
+            },
+            {
+                  "name": "Adana Devlet Tiyatrosu",
+                  "text": "State theater building in Adana hosting various performances.",
+                  "category": "cultural",
+                  "coords": [
+                        35.331312,
+                        36.990655
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Sinema Müzesi",
+                  "text": "Museum dedicated to the history of cinema and Turkish film industry in Adana.",
+                  "category": "museum",
+                  "coords": [
+                        35.331931,
+                        36.988456
+                  ]
+            },
+            {
+                  "name": "Adana Büyükşehir Belediyesi Bülent Ecevit Müzesi",
+                  "text": "Local museum in Adana named after the former Turkish prime minister.",
+                  "category": "museum",
+                  "coords": [
+                        35.330823,
+                        36.988542
+                  ]
+            },
+            {
+                  "name": "Seyhan Belediyesi Kahve Müzesi",
+                  "text": "Museum in Adana exploring the history and culture of coffee.",
+                  "category": "museum",
+                  "coords": [
+                        35.329269,
+                        36.98842
+                  ]
+            },
+            {
+                  "name": "Tepebağ Höyük",
+                  "text": "Ancient settlement mound representing the historical core of Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.328144,
+                        36.988345
+                  ]
+            },
+            {
+                  "name": "Hamam Müzesi",
+                  "text": "Museum in Adana showcasing the tradition and architecture of Turkish baths.",
+                  "category": "museum",
+                  "coords": [
+                        35.329242,
+                        36.981027
+                  ]
+            },
+            {
+                  "name": "Aqua Land",
+                  "text": "Recreational water park in Adana with pools and slides.",
+                  "category": "recreational",
+                  "coords": [
+                        35.339637,
+                        37.001134
+                  ]
+            },
+            {
+                  "name": "Yuzarsif Kale2",
+                  "text": "Historical castle or fortification site in the Adana region.",
+                  "category": "castle",
+                  "coords": [
+                        35.345312,
+                        36.999612
+                  ]
+            },
+            {
+                  "name": "park Tiyatro",
+                  "text": "Outdoor theater or performance space located in a park in Adana.",
+                  "category": "cultural",
+                  "coords": [
+                        35.32988,
+                        37.017318
+                  ]
+            },
+            {
+                  "name": "Merkez Park Amfitiyatro",
+                  "text": "Amphitheater located in Adana's Central Park for public events.",
+                  "category": "cultural",
+                  "coords": [
+                        35.335337,
+                        37.000436
+                  ]
+            },
+            {
+                  "name": "Taș Köprü",
+                  "text": "Ancient Roman bridge across the Seyhan River, one of the oldest still in use.",
+                  "category": "landmark",
+                  "coords": [
+                        35.335032,
+                        36.986269
+                  ]
+            },
+            {
+                  "name": "Çetinel Apartmanı",
+                  "text": "Notable historical building or monument in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.315069,
+                        37.000939
+                  ]
+            },
+            {
+                  "name": "Büyük Saat Kulesi",
+                  "text": "Tallest historical clock tower in Turkey, located in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.330177,
+                        36.983865
+                  ]
+            },
+            {
+                  "name": "Tuz Pazarı",
+                  "text": "Historical salt market area and monument in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.331189,
+                        36.984078
+                  ]
+            },
+            {
+                  "name": "Tarihi Kız Lisesi",
+                  "text": "Historical building that formerly served as a girls' high school in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.333641,
+                        36.984514
+                  ]
+            },
+            {
+                  "name": "Arasta- Kapalı Çarşı",
+                  "text": "Historical section of the covered bazaar in Adana.",
+                  "category": "historical",
+                  "coords": [
+                        35.329179,
+                        36.983975
+                  ]
+            },
+            {
+                  "name": "Saint Paul",
+                  "text": "Historical Roman Catholic church in Adana dedicated to Saint Paul.",
+                  "category": "religious",
+                  "coords": [
+                        35.325864,
+                        36.987536
+                  ]
+            },
+            {
+                  "name": "Akça Mescit",
+                  "text": "Small historical mosque or prayer room in Adana.",
+                  "category": "religious",
+                  "coords": [
+                        35.330351,
+                        36.985419
+                  ]
+            },
+            {
+                  "name": "Şeyh Zülfo Camii",
+                  "text": "Local mosque in Adana used for Islamic worship.",
+                  "category": "religious",
+                  "coords": [
+                        35.329164,
+                        36.979981
+                  ]
+            },
+            {
+                  "name": "Mestanzade Camii",
+                  "text": "Historical mosque located in the Adana region.",
+                  "category": "religious",
+                  "coords": [
+                        35.331385,
+                        36.980834
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Historical Ottoman mosque in Adana, also known as the New Mosque.",
+                  "category": "religious",
+                  "coords": [
+                        35.323685,
+                        36.988406
+                  ]
+            },
+            {
+                  "name": "Yağ Camii",
+                  "text": "Historical mosque in Adana, originally built as a church and later converted.",
+                  "category": "religious",
+                  "coords": [
+                        35.327137,
+                        36.983652
+                  ]
+            },
+            {
+                  "name": "Ali Dede Camii",
+                  "text": "Mosque in Adana named after a local religious figure.",
+                  "category": "religious",
+                  "coords": [
+                        35.326417,
+                        36.981482
                   ]
             }
       ]
@@ -294,7 +3111,1420 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "gaziantep-cities-v2",
+    id: "gaziantep-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Devr-i Alem Para Müzesi",
+                  "text": "Ein numismatisches Museum in Gaziantep, das eine vielfältige Münzsammlung aus verschiedenen Epochen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        37.381903,
+                        37.064597
+                  ]
+            },
+            {
+                  "name": "Gaziantep Kalesi",
+                  "text": "Eine historische Festung auf einem Hügel im Zentrum von Gaziantep, die ursprünglich aus der Römerzeit stammt.",
+                  "category": "castle",
+                  "coords": [
+                        37.383218,
+                        37.066481
+                  ]
+            },
+            {
+                  "name": "Zeugma-Mosaik-Museum",
+                  "text": "Eines der weltweit größten Mosaikmuseen mit spektakulären römischen Mosaiken aus der antiken Stadt Zeugma.",
+                  "category": "museum",
+                  "coords": [
+                        37.385903,
+                        37.075617
+                  ]
+            },
+            {
+                  "name": "Gaziantep Oyun ve Oyuncak Müzesi",
+                  "text": "Ein Spielzeugmuseum in Gaziantep, das eine große Sammlung von Spielzeug aus verschiedenen historischen Epochen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        37.377131,
+                        37.061317
+                  ]
+            },
+            {
+                  "name": "Gaziantep Müzesi",
+                  "text": "Ein archäologisches Museum in Gaziantep, das Artefakte aus der langen Geschichte der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        37.37856,
+                        37.069028
+                  ]
+            },
+            {
+                  "name": "Onat Kutlar Şehir Tiyatrosu",
+                  "text": "Ein bedeutendes städtisches Theater in Gaziantep, in dem eine Vielzahl von Bühnenaufführungen stattfindet.",
+                  "category": "cultural",
+                  "coords": [
+                        37.372998,
+                        37.065969
+                  ]
+            },
+            {
+                  "name": "Panorama Müzesi",
+                  "text": "Ein Museum in Gaziantep mit Panoramadarstellungen des historischen Widerstands der Stadt während des Unabhängigkeitskrieges.",
+                  "category": "museum",
+                  "coords": [
+                        37.379879,
+                        37.066153
+                  ]
+            },
+            {
+                  "name": "İslam Bilim Tarihi Müzesi",
+                  "text": "Ein Museum in Gaziantep, das der Geschichte der Wissenschaft und Technologie in der islamischen Welt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        37.363294,
+                        37.056962
+                  ]
+            },
+            {
+                  "name": "Gaziantep Mevlevihanesi Vakıf Müzesi",
+                  "text": "Ein Museum in einem ehemaligen Mevlevi-Kloster in Gaziantep, das die Sufi-Kultur und Artefakte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        37.388808,
+                        37.06082
+                  ]
+            },
+            {
+                  "name": "Zeytin değirmenleri",
+                  "text": "Archäologische Überreste antiker Olivenmühlen, die die landwirtschaftliche Geschichte der Region in Gaziantep widerspiegeln.",
+                  "category": "historical",
+                  "coords": [
+                        37.383177,
+                        37.065413
+                  ]
+            },
+            {
+                  "name": "Şahinbey Milli Mücadele Müzesi",
+                  "text": "Ein Museum in Gaziantep, das sich mit dem lokalen Kampf während des türkischen Befreiungskrieges befasst.",
+                  "category": "museum",
+                  "coords": [
+                        37.39098,
+                        37.057945
+                  ]
+            },
+            {
+                  "name": "Masal Parkı",
+                  "text": "Ein märchenhafter öffentlicher Park in Gaziantep mit Statuen beliebter Figuren.",
+                  "category": "park",
+                  "coords": [
+                        37.356817,
+                        37.063867
+                  ]
+            },
+            {
+                  "name": "Kırkayak Parkı",
+                  "text": "Ein zentraler Stadtpark in Gaziantep, der den Bewohnern Grünflächen und Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        37.370048,
+                        37.062702
+                  ]
+            },
+            {
+                  "name": "Kamil Ocak Millet Bahçesi",
+                  "text": "Ein großer öffentlicher Park in Gaziantep, der auf dem Gelände eines ehemaligen Stadions errichtet wurde und weitläufige Grünflächen bietet.",
+                  "category": "park",
+                  "coords": [
+                        37.3771,
+                        37.067551
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "Eine markante Statue von Mustafa Kemal Atatürk in der Stadt Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.37968,
+                        37.06272
+                  ]
+            },
+            {
+                  "name": "Bakircilar Çarsisi",
+                  "text": "Ein historischer Basar in Gaziantep, der für seine traditionelle Kupferhandwerkskunst und Werkstätten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        37.386421,
+                        37.06225
+                  ]
+            },
+            {
+                  "name": "Bayazhan Gaziantep Kent Müzesi",
+                  "text": "Eine restaurierte historische Karawanserei in Gaziantep, die heute als kultureller und sozialer Treffpunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        37.370839,
+                        37.061489
+                  ]
+            },
+            {
+                  "name": "Gaziantep Yazisi",
+                  "text": "Eine lokale Sehenswürdigkeit in Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.38191,
+                        37.067315
+                  ]
+            },
+            {
+                  "name": "Şeyh Fethullah Kasteli",
+                  "text": "Ein historisches Kastel-Wasserbauwerk in Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.391326,
+                        37.059556
+                  ]
+            },
+            {
+                  "name": "Bişirici (Pişirici) Kasteli",
+                  "text": "Ein historisches Wasserverteilungssystem in Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.389066,
+                        37.059444
+                  ]
+            },
+            {
+                  "name": "Demokrasi Meydanı",
+                  "text": "Ein zentraler öffentlicher Platz im Herzen von Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.377382,
+                        37.065407
+                  ]
+            },
+            {
+                  "name": "Nuri Mehmet Paşa Camii",
+                  "text": "Ein islamisches Gotteshaus in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.381382,
+                        37.062998
+                  ]
+            },
+            {
+                  "name": "Karagöz Camii",
+                  "text": "Eine historische Moschee in der Stadt Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.383865,
+                        37.063389
+                  ]
+            },
+            {
+                  "name": "Alaüddevle Cami",
+                  "text": "Eine bedeutende historische Moschee aus der Dulkadiriden-Ära.",
+                  "category": "religious",
+                  "coords": [
+                        37.384965,
+                        37.063398
+                  ]
+            },
+            {
+                  "name": "Ömeriye Cami",
+                  "text": "Eine der ältesten und bedeutendsten Moscheen in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.380096,
+                        37.063737
+                  ]
+            },
+            {
+                  "name": "Şirvani Cami",
+                  "text": "Eine markante Moschee in Gaziantep, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        37.38179,
+                        37.065946
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Camii",
+                  "text": "Eine ehemalige Kirche, die heute als Moschee in Gaziantep dient.",
+                  "category": "religious",
+                  "coords": [
+                        37.37562,
+                        37.060249
+                  ]
+            },
+            {
+                  "name": "Bustancı Camii",
+                  "text": "Eine traditionelle Moschee in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.386982,
+                        37.067568
+                  ]
+            },
+            {
+                  "name": "Ayşe Bacı Camii",
+                  "text": "Ein lokales islamisches Gotteshaus in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.37374,
+                        37.056513
+                  ]
+            },
+            {
+                  "name": "Kozanlı Camii",
+                  "text": "Ein religiöses Bauwerk in der Stadt Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.376463,
+                        37.057742
+                  ]
+            },
+            {
+                  "name": "Alabey Cami",
+                  "text": "Eine Moschee mit historischer Bedeutung in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.383054,
+                        37.060857
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "Ein historischer Ort des Gebets in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.384977,
+                        37.060614
+                  ]
+            },
+            {
+                  "name": "Ahmet Çelebi Camii",
+                  "text": "Eine bedeutende Moschee in der Stadt Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.392798,
+                        37.056332
+                  ]
+            },
+            {
+                  "name": "Hacı Nasır Camii",
+                  "text": "Eine traditionelle Moschee in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.386554,
+                        37.061179
+                  ]
+            },
+            {
+                  "name": "Tahtani Cami",
+                  "text": "Ein religiöses Zentrum und Gebetshaus in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.384774,
+                        37.06504
+                  ]
+            },
+            {
+                  "name": "Eyüpoğlu Camii",
+                  "text": "Eine bedeutende Moschee im Stadtviertel Eyüpoğlu.",
+                  "category": "religious",
+                  "coords": [
+                        37.378177,
+                        37.06083
+                  ]
+            },
+            {
+                  "name": "Boyacı Camii",
+                  "text": "Eine der ältesten Moscheen in Gaziantep mit einer beweglichen Kanzel.",
+                  "category": "religious",
+                  "coords": [
+                        37.388482,
+                        37.061959
+                  ]
+            },
+            {
+                  "name": "Ömer Şeyh Camii",
+                  "text": "Ein islamisches Gotteshaus in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.390022,
+                        37.067346
+                  ]
+            },
+            {
+                  "name": "Bekir Bey Camii",
+                  "text": "Eine historische Moschee in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.391469,
+                        37.063629
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Devr-i Alem Para Müzesi",
+                  "text": "Numizmatikai múzeum Gaziantepben, amely különböző korszakokból származó érmék változatos gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        37.381903,
+                        37.064597
+                  ]
+            },
+            {
+                  "name": "Gaziantep Kalesi",
+                  "text": "Gaziantep központjában, egy dombon épült történelmi erőd, amely eredetileg a római korból származik.",
+                  "category": "castle",
+                  "coords": [
+                        37.383218,
+                        37.066481
+                  ]
+            },
+            {
+                  "name": "Zeugma Mozaik Müzesi",
+                  "text": "A világ egyik legnagyobb mozaikmúzeuma, amely az ókori Zeugma városából származó látványos római mozaikokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        37.385903,
+                        37.075617
+                  ]
+            },
+            {
+                  "name": "Gaziantep Oyun ve Oyuncak Müzesi",
+                  "text": "Játékmúzeum Gaziantepben, amely különböző történelmi korszakokból származó játékok nagy gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        37.377131,
+                        37.061317
+                  ]
+            },
+            {
+                  "name": "Gaziantep Müzesi",
+                  "text": "Régészeti múzeum Gaziantepben, amely a régió hosszú történelméből származó műtárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        37.37856,
+                        37.069028
+                  ]
+            },
+            {
+                  "name": "Onat Kutlar Şehir Tiyatrosu",
+                  "text": "Gaziantep jelentős városi színháza, amely változatos színpadi előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        37.372998,
+                        37.065969
+                  ]
+            },
+            {
+                  "name": "Panorama Müzesi",
+                  "text": "Múzeum Gaziantepben, amely a város függetlenségi háború alatti történelmi ellenállását mutatja be panorámaképeken.",
+                  "category": "museum",
+                  "coords": [
+                        37.379879,
+                        37.066153
+                  ]
+            },
+            {
+                  "name": "İslam Bilim Tarihi Müzesi",
+                  "text": "Az iszlám világ tudomány- és technikatörténetének szentelt múzeum Gaziantepben.",
+                  "category": "museum",
+                  "coords": [
+                        37.363294,
+                        37.056962
+                  ]
+            },
+            {
+                  "name": "Gaziantep Mevlevihanesi Vakıf Müzesi",
+                  "text": "Egy egykori mevlevi dervisrendi kolostorban található múzeum Gaziantepben, amely a szúfi kultúrát és tárgyi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        37.388808,
+                        37.06082
+                  ]
+            },
+            {
+                  "name": "Zeytin değirmenleri",
+                  "text": "Ókori olajütők régészeti maradványai, amelyek a régió mezőgazdasági múltját tükrözik Gaziantepben.",
+                  "category": "historical",
+                  "coords": [
+                        37.383177,
+                        37.065413
+                  ]
+            },
+            {
+                  "name": "Şahinbey Milli Mücadele Müzesi",
+                  "text": "Gaziantepi múzeum, amely a török függetlenségi háború alatti helyi küzdelmekre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        37.39098,
+                        37.057945
+                  ]
+            },
+            {
+                  "name": "Masal Parkı",
+                  "text": "Mesetémájú közpark Gaziantepben, népszerű karakterek szobraival.",
+                  "category": "park",
+                  "coords": [
+                        37.356817,
+                        37.063867
+                  ]
+            },
+            {
+                  "name": "Kırkayak Parkı",
+                  "text": "Központi városi park Gaziantepben, amely zöldfelületet és kikapcsolódást nyújt a lakóknak.",
+                  "category": "park",
+                  "coords": [
+                        37.370048,
+                        37.062702
+                  ]
+            },
+            {
+                  "name": "Kamil Ocak Millet Bahçesi",
+                  "text": "Gaziantep nagy közparkja, amely egy korábbi stadion helyén épült, és kiterjedt zöldfelületeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        37.3771,
+                        37.067551
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "Mustafa Kemal Atatürk jelentős szobra Gaziantep városában.",
+                  "category": "historical",
+                  "coords": [
+                        37.37968,
+                        37.06272
+                  ]
+            },
+            {
+                  "name": "Bakircilar Çarsisi",
+                  "text": "Gaziantep történelmi bazárja, amely hagyományos rézművességéről és műhelyeiről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        37.386421,
+                        37.06225
+                  ]
+            },
+            {
+                  "name": "Bayazhan Gaziantep Kent Müzesi",
+                  "text": "Restaurált történelmi karavánszeráj Gaziantepben, amely ma kulturális és közösségi helyszínként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        37.370839,
+                        37.061489
+                  ]
+            },
+            {
+                  "name": "Gaziantep Yazisi",
+                  "text": "Helyi látnivaló Gaziantep városában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.38191,
+                        37.067315
+                  ]
+            },
+            {
+                  "name": "Şeyh Fethullah Kasteli",
+                  "text": "Történelmi kastel vízellátó építmény Gaziantepben.",
+                  "category": "landmark",
+                  "coords": [
+                        37.391326,
+                        37.059556
+                  ]
+            },
+            {
+                  "name": "Bişirici (Pişirici) Kasteli",
+                  "text": "Történelmi vízelosztó rendszer Gaziantep városában.",
+                  "category": "landmark",
+                  "coords": [
+                        37.389066,
+                        37.059444
+                  ]
+            },
+            {
+                  "name": "Demokrasi Meydanı",
+                  "text": "Központi közterület Gaziantep szívében.",
+                  "category": "historical",
+                  "coords": [
+                        37.377382,
+                        37.065407
+                  ]
+            },
+            {
+                  "name": "Nuri Mehmet Paşa Camii",
+                  "text": "Iszlám istentiszteleti hely Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.381382,
+                        37.062998
+                  ]
+            },
+            {
+                  "name": "Karagöz Camii",
+                  "text": "Történelmi mecset Gaziantep városában.",
+                  "category": "religious",
+                  "coords": [
+                        37.383865,
+                        37.063389
+                  ]
+            },
+            {
+                  "name": "Alaüddevle Cami",
+                  "text": "Jelentős történelmi mecset a Dulkadir-időszakból.",
+                  "category": "religious",
+                  "coords": [
+                        37.384965,
+                        37.063398
+                  ]
+            },
+            {
+                  "name": "Ömeriye Cami",
+                  "text": "Gaziantep egyik legrégebbi és legjelentősebb mecsetje.",
+                  "category": "religious",
+                  "coords": [
+                        37.380096,
+                        37.063737
+                  ]
+            },
+            {
+                  "name": "Şirvani Cami",
+                  "text": "Jellegzetes mecset Gaziantepben, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        37.38179,
+                        37.065946
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Camii",
+                  "text": "Egykori templom, amely ma mecsetként működik Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.37562,
+                        37.060249
+                  ]
+            },
+            {
+                  "name": "Bustancı Camii",
+                  "text": "Hagyományos mecset Gaziantep városában.",
+                  "category": "religious",
+                  "coords": [
+                        37.386982,
+                        37.067568
+                  ]
+            },
+            {
+                  "name": "Ayşe Bacı Camii",
+                  "text": "Helyi iszlám istentiszteleti hely Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.37374,
+                        37.056513
+                  ]
+            },
+            {
+                  "name": "Kozanlı Camii",
+                  "text": "Vallási épület Gaziantep városában.",
+                  "category": "religious",
+                  "coords": [
+                        37.376463,
+                        37.057742
+                  ]
+            },
+            {
+                  "name": "Alabey Cami",
+                  "text": "Történelmi jelentőségű mecset Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.383054,
+                        37.060857
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "Történelmi imádkozóhely Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.384977,
+                        37.060614
+                  ]
+            },
+            {
+                  "name": "Ahmet Çelebi Camii",
+                  "text": "Jelentős mecset Gaziantep városában.",
+                  "category": "religious",
+                  "coords": [
+                        37.392798,
+                        37.056332
+                  ]
+            },
+            {
+                  "name": "Hacı Nasır Camii",
+                  "text": "Hagyományos mecset Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.386554,
+                        37.061179
+                  ]
+            },
+            {
+                  "name": "Tahtani Cami",
+                  "text": "Vallási központ és imaház Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.384774,
+                        37.06504
+                  ]
+            },
+            {
+                  "name": "Eyüpoğlu Camii",
+                  "text": "Jelentős mecset az Eyüpoğlu negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        37.378177,
+                        37.06083
+                  ]
+            },
+            {
+                  "name": "Boyacı Camii",
+                  "text": "Gaziantep egyik legrégebbi mecsetje mozgatható szószékkel.",
+                  "category": "religious",
+                  "coords": [
+                        37.388482,
+                        37.061959
+                  ]
+            },
+            {
+                  "name": "Ömer Şeyh Camii",
+                  "text": "Iszlám istentiszteleti hely Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.390022,
+                        37.067346
+                  ]
+            },
+            {
+                  "name": "Bekir Bey Camii",
+                  "text": "Történelmi mecset Gaziantepben.",
+                  "category": "religious",
+                  "coords": [
+                        37.391469,
+                        37.063629
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Devr-i Alem Para Müzesi",
+                  "text": "Un muzeu numismatic din Gaziantep care expune o colecție diversă de monede din diferite epoci.",
+                  "category": "museum",
+                  "coords": [
+                        37.381903,
+                        37.064597
+                  ]
+            },
+            {
+                  "name": "Gaziantep Kalesi",
+                  "text": "O fortăreață istorică construită pe un deal în centrul orașului Gaziantep, datând inițial din perioada romană.",
+                  "category": "castle",
+                  "coords": [
+                        37.383218,
+                        37.066481
+                  ]
+            },
+            {
+                  "name": "Zeugma Mozaik Müzesi",
+                  "text": "Unul dintre cele mai mari muzee de mozaic din lume, prezentând mozaicuri romane spectaculoase din orașul antic Zeugma.",
+                  "category": "museum",
+                  "coords": [
+                        37.385903,
+                        37.075617
+                  ]
+            },
+            {
+                  "name": "Gaziantep Oyun ve Oyuncak Müzesi",
+                  "text": "Un muzeu al jucăriilor din Gaziantep care expune o colecție mare de jucării din diverse perioade istorice.",
+                  "category": "museum",
+                  "coords": [
+                        37.377131,
+                        37.061317
+                  ]
+            },
+            {
+                  "name": "Gaziantep Müzesi",
+                  "text": "Un muzeu arheologic din Gaziantep care păstrează artefacte din istoria lungă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        37.37856,
+                        37.069028
+                  ]
+            },
+            {
+                  "name": "Onat Kutlar Şehir Tiyatrosu",
+                  "text": "Un teatru municipal proeminent din Gaziantep, care găzduiește o varietate de spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        37.372998,
+                        37.065969
+                  ]
+            },
+            {
+                  "name": "Panorama Müzesi",
+                  "text": "Un muzeu din Gaziantep care prezintă reprezentări panoramice ale rezistenței istorice a orașului în timpul Războiului de Independență.",
+                  "category": "museum",
+                  "coords": [
+                        37.379879,
+                        37.066153
+                  ]
+            },
+            {
+                  "name": "İslam Bilim Tarihi Müzesi",
+                  "text": "Un muzeu din Gaziantep dedicat istoriei științei și tehnologiei în lumea islamică.",
+                  "category": "museum",
+                  "coords": [
+                        37.363294,
+                        37.056962
+                  ]
+            },
+            {
+                  "name": "Gaziantep Mevlevihanesi Vakıf Müzesi",
+                  "text": "Un muzeu situat într-o fostă lojă Mevlevi din Gaziantep, care prezintă cultura și artefactele sufi.",
+                  "category": "museum",
+                  "coords": [
+                        37.388808,
+                        37.06082
+                  ]
+            },
+            {
+                  "name": "Zeytin değirmenleri",
+                  "text": "Vestigii arheologice ale unor vechi prese de măsline, reflectând istoria agricolă a regiunii în Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.383177,
+                        37.065413
+                  ]
+            },
+            {
+                  "name": "Şahinbey Milli Mücadele Müzesi",
+                  "text": "Un muzeu din Gaziantep axat pe lupta locală din timpul Războiului de Independență al Turciei.",
+                  "category": "museum",
+                  "coords": [
+                        37.39098,
+                        37.057945
+                  ]
+            },
+            {
+                  "name": "Masal Parkı",
+                  "text": "Un parc public cu tematică de basm din Gaziantep, cu statui ale unor personaje populare.",
+                  "category": "park",
+                  "coords": [
+                        37.356817,
+                        37.063867
+                  ]
+            },
+            {
+                  "name": "Kırkayak Parkı",
+                  "text": "Un parc urban central din Gaziantep, care oferă spațiu verde și recreere pentru rezidenți.",
+                  "category": "park",
+                  "coords": [
+                        37.370048,
+                        37.062702
+                  ]
+            },
+            {
+                  "name": "Kamil Ocak Millet Bahçesi",
+                  "text": "Un parc public mare din Gaziantep, construit pe locul unui fost stadion, oferind zone verzi extinse.",
+                  "category": "park",
+                  "coords": [
+                        37.3771,
+                        37.067551
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "O statuie proeminentă a lui Mustafa Kemal Atatürk situată în orașul Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.37968,
+                        37.06272
+                  ]
+            },
+            {
+                  "name": "Bakircilar Çarsisi",
+                  "text": "Un bazar istoric din Gaziantep, renumit pentru măiestria tradițională a cuprului și atelierele sale.",
+                  "category": "landmark",
+                  "coords": [
+                        37.386421,
+                        37.06225
+                  ]
+            },
+            {
+                  "name": "Bayazhan Gaziantep Kent Müzesi",
+                  "text": "Un caravanserai istoric restaurat din Gaziantep, care servește acum ca loc de desfășurare culturală și socială.",
+                  "category": "landmark",
+                  "coords": [
+                        37.370839,
+                        37.061489
+                  ]
+            },
+            {
+                  "name": "Gaziantep Yazisi",
+                  "text": "O atracție locală în orașul Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.38191,
+                        37.067315
+                  ]
+            },
+            {
+                  "name": "Şeyh Fethullah Kasteli",
+                  "text": "O structură istorică de apă tip kastel în Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.391326,
+                        37.059556
+                  ]
+            },
+            {
+                  "name": "Bişirici (Pişirici) Kasteli",
+                  "text": "Un sistem istoric de distribuție a apei în Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.389066,
+                        37.059444
+                  ]
+            },
+            {
+                  "name": "Demokrasi Meydanı",
+                  "text": "O piață publică centrală în inima orașului Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.377382,
+                        37.065407
+                  ]
+            },
+            {
+                  "name": "Nuri Mehmet Paşa Camii",
+                  "text": "Un lăcaș de cult islamic în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.381382,
+                        37.062998
+                  ]
+            },
+            {
+                  "name": "Karagöz Camii",
+                  "text": "O moschee istorică în orașul Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.383865,
+                        37.063389
+                  ]
+            },
+            {
+                  "name": "Alaüddevle Cami",
+                  "text": "O moschee istorică importantă din epoca Dulkadirid.",
+                  "category": "religious",
+                  "coords": [
+                        37.384965,
+                        37.063398
+                  ]
+            },
+            {
+                  "name": "Ömeriye Cami",
+                  "text": "Una dintre cele mai vechi și importante moschei din Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.380096,
+                        37.063737
+                  ]
+            },
+            {
+                  "name": "Şirvani Cami",
+                  "text": "O moschee distinctivă în Gaziantep, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        37.38179,
+                        37.065946
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Camii",
+                  "text": "O fostă biserică ce servește astăzi ca moschee în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.37562,
+                        37.060249
+                  ]
+            },
+            {
+                  "name": "Bustancı Camii",
+                  "text": "O moschee tradițională în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.386982,
+                        37.067568
+                  ]
+            },
+            {
+                  "name": "Ayşe Bacı Camii",
+                  "text": "Un lăcaș de cult islamic local în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.37374,
+                        37.056513
+                  ]
+            },
+            {
+                  "name": "Kozanlı Camii",
+                  "text": "O structură religioasă în orașul Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.376463,
+                        37.057742
+                  ]
+            },
+            {
+                  "name": "Alabey Cami",
+                  "text": "O moschee cu semnificație istorică în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.383054,
+                        37.060857
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "Un loc istoric de rugăciune în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.384977,
+                        37.060614
+                  ]
+            },
+            {
+                  "name": "Ahmet Çelebi Camii",
+                  "text": "O moschee importantă în orașul Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.392798,
+                        37.056332
+                  ]
+            },
+            {
+                  "name": "Hacı Nasır Camii",
+                  "text": "O moschee tradițională în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.386554,
+                        37.061179
+                  ]
+            },
+            {
+                  "name": "Tahtani Cami",
+                  "text": "Un centru religios și casă de rugăciune în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.384774,
+                        37.06504
+                  ]
+            },
+            {
+                  "name": "Eyüpoğlu Camii",
+                  "text": "O moschee importantă în cartierul Eyüpoğlu.",
+                  "category": "religious",
+                  "coords": [
+                        37.378177,
+                        37.06083
+                  ]
+            },
+            {
+                  "name": "Boyacı Camii",
+                  "text": "Una dintre cele mai vechi moschei din Gaziantep, cu un amvon mobil.",
+                  "category": "religious",
+                  "coords": [
+                        37.388482,
+                        37.061959
+                  ]
+            },
+            {
+                  "name": "Ömer Şeyh Camii",
+                  "text": "Un lăcaș de cult islamic în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.390022,
+                        37.067346
+                  ]
+            },
+            {
+                  "name": "Bekir Bey Camii",
+                  "text": "O moschee istorică în Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.391469,
+                        37.063629
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Devr-i Alem Para Müzesi",
+                  "text": "A numismatic museum in Gaziantep showcasing a diverse collection of coins from different eras.",
+                  "category": "museum",
+                  "coords": [
+                        37.381903,
+                        37.064597
+                  ]
+            },
+            {
+                  "name": "Gaziantep Castle",
+                  "text": "A historic fortress built atop a hill in the centre of Gaziantep, originally dating back to the Roman period.",
+                  "category": "castle",
+                  "coords": [
+                        37.383218,
+                        37.066481
+                  ]
+            },
+            {
+                  "name": "Zeugma Mosaic Museum",
+                  "text": "One of the world's largest mosaic museums, featuring spectacular Roman mosaics from the ancient city of Zeugma.",
+                  "category": "museum",
+                  "coords": [
+                        37.385903,
+                        37.075617
+                  ]
+            },
+            {
+                  "name": "Gaziantep Oyun ve Oyuncak Müzesi",
+                  "text": "A toy museum in Gaziantep displaying a large collection of toys from various historical periods.",
+                  "category": "museum",
+                  "coords": [
+                        37.377131,
+                        37.061317
+                  ]
+            },
+            {
+                  "name": "Gaziantep Müzesi",
+                  "text": "An archaeological museum in Gaziantep preserving artefacts from the region's long history.",
+                  "category": "museum",
+                  "coords": [
+                        37.37856,
+                        37.069028
+                  ]
+            },
+            {
+                  "name": "Onat Kutlar Şehir Tiyatrosu",
+                  "text": "A prominent municipal theatre in Gaziantep hosting a variety of stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        37.372998,
+                        37.065969
+                  ]
+            },
+            {
+                  "name": "Panorama Müzesi",
+                  "text": "A museum in Gaziantep featuring panoramic depictions of the city's historical resistance during the War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        37.379879,
+                        37.066153
+                  ]
+            },
+            {
+                  "name": "İslam Bilim Tarihi Müzesi",
+                  "text": "A museum in Gaziantep dedicated to the history of science and technology in the Islamic world.",
+                  "category": "museum",
+                  "coords": [
+                        37.363294,
+                        37.056962
+                  ]
+            },
+            {
+                  "name": "Gaziantep Mevlevihanesi Vakıf Müzesi",
+                  "text": "A museum located in a former Mevlevi lodge in Gaziantep, showcasing Sufi culture and artefacts.",
+                  "category": "museum",
+                  "coords": [
+                        37.388808,
+                        37.06082
+                  ]
+            },
+            {
+                  "name": "Zeytin değirmenleri",
+                  "text": "Archaeological remains of ancient olive mills reflecting the region's agricultural history in Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.383177,
+                        37.065413
+                  ]
+            },
+            {
+                  "name": "Şahinbey Milli Mücadele Müzesi",
+                  "text": "A museum in Gaziantep focused on the local struggle during the Turkish War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        37.39098,
+                        37.057945
+                  ]
+            },
+            {
+                  "name": "Masal Parkı",
+                  "text": "A fairy-tale themed public park in Gaziantep featuring statues of popular characters.",
+                  "category": "park",
+                  "coords": [
+                        37.356817,
+                        37.063867
+                  ]
+            },
+            {
+                  "name": "Kırkayak Parkı",
+                  "text": "A central urban park in Gaziantep providing green space and recreation for residents.",
+                  "category": "park",
+                  "coords": [
+                        37.370048,
+                        37.062702
+                  ]
+            },
+            {
+                  "name": "Kamil Ocak Millet Bahçesi",
+                  "text": "A large public park in Gaziantep built on the site of a former stadium, offering extensive green areas.",
+                  "category": "park",
+                  "coords": [
+                        37.3771,
+                        37.067551
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "A prominent statue of Mustafa Kemal Atatürk located in the city of Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.37968,
+                        37.06272
+                  ]
+            },
+            {
+                  "name": "Bakircilar Çarsisi",
+                  "text": "A historic bazaar in Gaziantep famous for its traditional copper craftsmanship and workshops.",
+                  "category": "landmark",
+                  "coords": [
+                        37.386421,
+                        37.06225
+                  ]
+            },
+            {
+                  "name": "Bayazhan",
+                  "text": "A restored historic caravanserai in Gaziantep now serving as a cultural and social venue.",
+                  "category": "landmark",
+                  "coords": [
+                        37.370839,
+                        37.061489
+                  ]
+            },
+            {
+                  "name": "Gaziantep Yazisi",
+                  "text": "A local attraction located in Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.38191,
+                        37.067315
+                  ]
+            },
+            {
+                  "name": "Şeyh Fethullah Kasteli",
+                  "text": "A historical kastel water structure in Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.391326,
+                        37.059556
+                  ]
+            },
+            {
+                  "name": "Bişirici (Pişirici) Kasteli",
+                  "text": "A historical water distribution system in Gaziantep.",
+                  "category": "landmark",
+                  "coords": [
+                        37.389066,
+                        37.059444
+                  ]
+            },
+            {
+                  "name": "Demokrasi Meydanı",
+                  "text": "A central public square in the heart of Gaziantep.",
+                  "category": "historical",
+                  "coords": [
+                        37.377382,
+                        37.065407
+                  ]
+            },
+            {
+                  "name": "Nuri Mehmet Paşa Camii",
+                  "text": "An Islamic place of worship in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.381382,
+                        37.062998
+                  ]
+            },
+            {
+                  "name": "Karagöz Camii",
+                  "text": "A historical mosque in the city of Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.383865,
+                        37.063389
+                  ]
+            },
+            {
+                  "name": "Alaüddevle Cami",
+                  "text": "A significant historical mosque from the Dulkadirid era.",
+                  "category": "religious",
+                  "coords": [
+                        37.384965,
+                        37.063398
+                  ]
+            },
+            {
+                  "name": "Ömeriye Cami",
+                  "text": "One of the oldest and most important mosques in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.380096,
+                        37.063737
+                  ]
+            },
+            {
+                  "name": "Şirvani Cami",
+                  "text": "A distinctive mosque in Gaziantep, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        37.38179,
+                        37.065946
+                  ]
+            },
+            {
+                  "name": "Liberation Mosquee",
+                  "text": "A former church that now serves as a mosque in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.37562,
+                        37.060249
+                  ]
+            },
+            {
+                  "name": "Bustancı Camii",
+                  "text": "A traditional mosque in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.386982,
+                        37.067568
+                  ]
+            },
+            {
+                  "name": "Ayşe Bacı Camii",
+                  "text": "A local Islamic place of worship in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.37374,
+                        37.056513
+                  ]
+            },
+            {
+                  "name": "Kozanlı Camii",
+                  "text": "A religious structure in the city of Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.376463,
+                        37.057742
+                  ]
+            },
+            {
+                  "name": "Alabey Cami",
+                  "text": "A mosque with historical significance in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.383054,
+                        37.060857
+                  ]
+            },
+            {
+                  "name": "Hüseyin Paşa Camii",
+                  "text": "A historical place of prayer in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.384977,
+                        37.060614
+                  ]
+            },
+            {
+                  "name": "Ahmet Çelebi Camii",
+                  "text": "An important mosque in the city of Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.392798,
+                        37.056332
+                  ]
+            },
+            {
+                  "name": "Hacı Nasır Camii",
+                  "text": "A traditional mosque in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.386554,
+                        37.061179
+                  ]
+            },
+            {
+                  "name": "Tahtani Cami",
+                  "text": "A religious center and house of prayer in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.384774,
+                        37.06504
+                  ]
+            },
+            {
+                  "name": "Eyüpoğlu Camii",
+                  "text": "An important mosque in the Eyüpoğlu district.",
+                  "category": "religious",
+                  "coords": [
+                        37.378177,
+                        37.06083
+                  ]
+            },
+            {
+                  "name": "Boyacı Mosque",
+                  "text": "One of the oldest mosques in Gaziantep, featuring a movable pulpit.",
+                  "category": "religious",
+                  "coords": [
+                        37.388482,
+                        37.061959
+                  ]
+            },
+            {
+                  "name": "Ömer Şeyh Camii",
+                  "text": "An Islamic place of worship in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.390022,
+                        37.067346
+                  ]
+            },
+            {
+                  "name": "Bekir Bey Camii",
+                  "text": "A historical mosque in Gaziantep.",
+                  "category": "religious",
+                  "coords": [
+                        37.391469,
+                        37.063629
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-27",
     coords: [37.3833, 37.0662],
@@ -483,7 +4713,628 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "mersin-cities-v2",
+    id: "mersin-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kent Tarihi Müzesi",
+                  "text": "Das Kent Tarihi Müzesi in Mersin ist ein Museum, das der Stadtgeschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        34.628213,
+                        36.800125
+                  ]
+            },
+            {
+                  "name": "Mersin Deniz Feneri",
+                  "text": "Mersin Deniz Feneri ist ein bekannter Leuchtturm in der Küstenstadt Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.618668,
+                        36.784605
+                  ]
+            },
+            {
+                  "name": "Yumuktepe",
+                  "text": "Yumuktepe ist eine bedeutende archäologische Stätte in Mersin, die eine der ältesten bekannten Siedlungen der Region darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        34.604149,
+                        36.801211
+                  ]
+            },
+            {
+                  "name": "Mersin Kongre ve Sergi Sarayı",
+                  "text": "Mersin Kongre ve Sergi Sarayı ist ein wichtiges Kongress- und Ausstellungszentrum, das als Veranstaltungsort in Mersin dient.",
+                  "category": "cultural",
+                  "coords": [
+                        34.633848,
+                        36.798999
+                  ]
+            },
+            {
+                  "name": "Mersin Arkeoloji Müzesi",
+                  "text": "Das Mersin Archaeological Museum stellt historische Artefakte aus der umliegenden Region Mersin aus.",
+                  "category": "museum",
+                  "coords": [
+                        34.601268,
+                        36.78147
+                  ]
+            },
+            {
+                  "name": "Mersin Deniz Müzesi",
+                  "text": "Das Mersin Naval Museum in Mersin widmet sich der maritimen Geschichte und dem Marineerbe der Türkei.",
+                  "category": "museum",
+                  "coords": [
+                        34.600106,
+                        36.781345
+                  ]
+            },
+            {
+                  "name": "Akdeniz Belediyesi Sanat Parkı",
+                  "text": "Akdeniz Belediyesi Sanat Parkı ist ein lokaler Themenpark und ein Erholungsgebiet in Mersin.",
+                  "category": "recreational",
+                  "coords": [
+                        34.626783,
+                        36.795181
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "Amfitiyatro ist ein Theater und Veranstaltungsort in der Stadt Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.632325,
+                        36.797497
+                  ]
+            },
+            {
+                  "name": "Kurtuluş",
+                  "text": "Kurtuluş ist ein Denkmal in der Stadt Mersin.",
+                  "category": "historical",
+                  "coords": [
+                        34.636187,
+                        36.801717
+                  ]
+            },
+            {
+                  "name": "İçel Sanat Klubü",
+                  "text": "İçel Sanat Klubü fungiert als Kunstzentrum in der Stadt Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.629703,
+                        36.799289
+                  ]
+            },
+            {
+                  "name": "Nacar Evi",
+                  "text": "Nacar Evi ist eine Touristenattraktion in Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.623836,
+                        36.792145
+                  ]
+            },
+            {
+                  "name": "Kuş Besleme Odağı",
+                  "text": "Kuş Besleme Odağı ist eine Sehenswürdigkeit in der Stadt Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.63007,
+                        36.797027
+                  ]
+            },
+            {
+                  "name": "Tahtalı Avniye Cami",
+                  "text": "Tahtalı Avniye Cami ist eine Andachtsstätte in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.621463,
+                        36.793441
+                  ]
+            },
+            {
+                  "name": "Eski Camii",
+                  "text": "Eski Camii, auch bekannt als die Alte Moschee, ist eine historische Andachtsstätte in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.630217,
+                        36.79838
+                  ]
+            },
+            {
+                  "name": "Mağribi Cami",
+                  "text": "Mağribi Cami ist eine lokale Andachtsstätte in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.62818,
+                        36.802455
+                  ]
+            },
+            {
+                  "name": "Müftü Camii",
+                  "text": "Müftü Camii ist eine bekannte Andachtsstätte in der Stadt Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.615958,
+                        36.788586
+                  ]
+            },
+            {
+                  "name": "Seyidna Hıdır Aleyselam Türbesi",
+                  "text": "Seyidna Hıdır Aleyselam Türbesi ist eine Andachtsstätte und ein Grabmal in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.619256,
+                        36.795045
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kent Tarihi Müzesi",
+                  "text": "A mersini Kent Tarihi Müzesi a város történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        34.628213,
+                        36.800125
+                  ]
+            },
+            {
+                  "name": "Mersin Deniz Feneri",
+                  "text": "A Mersin Deniz Feneri egy jelentős világítótorony a part menti Mersin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.618668,
+                        36.784605
+                  ]
+            },
+            {
+                  "name": "Yumuktepe",
+                  "text": "A Yumuktepe egy jelentős régészeti lelőhely Mersinben, a régió egyik legrégebbi ismert települése.",
+                  "category": "historical",
+                  "coords": [
+                        34.604149,
+                        36.801211
+                  ]
+            },
+            {
+                  "name": "Mersin Kongre ve Sergi Sarayı",
+                  "text": "A Mersin Kongre ve Sergi Sarayı egy jelentős kongresszusi és kiállítási központ, amely kulturális helyszínként működik Mersinben.",
+                  "category": "cultural",
+                  "coords": [
+                        34.633848,
+                        36.798999
+                  ]
+            },
+            {
+                  "name": "Mersin Arkeoloji Müzesi",
+                  "text": "A Mersin Archaeological Museum a környező régió történelmi leleteit mutatja be Mersinben.",
+                  "category": "museum",
+                  "coords": [
+                        34.601268,
+                        36.78147
+                  ]
+            },
+            {
+                  "name": "Mersin Deniz Müzesi",
+                  "text": "A mersini Mersin Naval Museum Törökország tengerészeti történetének és haditengerészeti örökségének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        34.600106,
+                        36.781345
+                  ]
+            },
+            {
+                  "name": "Akdeniz Belediyesi Sanat Parkı",
+                  "text": "Az Akdeniz Belediyesi Sanat Parkı egy helyi vidámpark és rekreációs terület Mersinben.",
+                  "category": "recreational",
+                  "coords": [
+                        34.626783,
+                        36.795181
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "Az Amfitiyatro egy színházi helyszín Mersin városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.632325,
+                        36.797497
+                  ]
+            },
+            {
+                  "name": "Kurtuluş",
+                  "text": "A Kurtuluş egy emlékmű Mersin városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.636187,
+                        36.801717
+                  ]
+            },
+            {
+                  "name": "İçel Sanat Klubü",
+                  "text": "Az İçel Sanat Klubü művészeti központként működik Mersin városában.",
+                  "category": "cultural",
+                  "coords": [
+                        34.629703,
+                        36.799289
+                  ]
+            },
+            {
+                  "name": "Nacar Evi",
+                  "text": "A Nacar Evi egy turisztikai látványosság Mersinben.",
+                  "category": "landmark",
+                  "coords": [
+                        34.623836,
+                        36.792145
+                  ]
+            },
+            {
+                  "name": "Kuş Besleme Odağı",
+                  "text": "A Kuş Besleme Odağı egy látványosság Mersin városában.",
+                  "category": "landmark",
+                  "coords": [
+                        34.63007,
+                        36.797027
+                  ]
+            },
+            {
+                  "name": "Tahtalı Avniye Cami",
+                  "text": "A Tahtalı Avniye Cami egy istentiszteleti hely Mersinben.",
+                  "category": "religious",
+                  "coords": [
+                        34.621463,
+                        36.793441
+                  ]
+            },
+            {
+                  "name": "Eski Camii",
+                  "text": "Az Eski Camii, más néven az Öreg mecset, egy történelmi istentiszteleti hely Mersinben.",
+                  "category": "religious",
+                  "coords": [
+                        34.630217,
+                        36.79838
+                  ]
+            },
+            {
+                  "name": "Mağribi Cami",
+                  "text": "A Mağribi Cami egy helyi istentiszteleti hely Mersinben.",
+                  "category": "religious",
+                  "coords": [
+                        34.62818,
+                        36.802455
+                  ]
+            },
+            {
+                  "name": "Müftü Camii",
+                  "text": "A Müftü Camii egy jelentős istentiszteleti hely Mersin városában.",
+                  "category": "religious",
+                  "coords": [
+                        34.615958,
+                        36.788586
+                  ]
+            },
+            {
+                  "name": "Seyidna Hıdır Aleyselam Türbesi",
+                  "text": "A Seyidna Hıdır Aleyselam Türbesi egy istentiszteleti hely és síremlék Mersinben.",
+                  "category": "religious",
+                  "coords": [
+                        34.619256,
+                        36.795045
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kent Tarihi Müzesi",
+                  "text": "Kent Tarihi Müzesi din Mersin este un muzeu dedicat istoriei urbane a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        34.628213,
+                        36.800125
+                  ]
+            },
+            {
+                  "name": "Mersin Deniz Feneri",
+                  "text": "Mersin Deniz Feneri este un far important care deservește orașul de coastă Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.618668,
+                        36.784605
+                  ]
+            },
+            {
+                  "name": "Yumuktepe",
+                  "text": "Yumuktepe este un sit arheologic semnificativ situat în Mersin, reprezentând una dintre cele mai vechi așezări cunoscute din regiune.",
+                  "category": "historical",
+                  "coords": [
+                        34.604149,
+                        36.801211
+                  ]
+            },
+            {
+                  "name": "Mersin Kongre ve Sergi Sarayı",
+                  "text": "Mersin Kongre ve Sergi Sarayı este un centru major de congrese și expoziții care funcționează ca un spațiu cultural în Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.633848,
+                        36.798999
+                  ]
+            },
+            {
+                  "name": "Mersin Arkeoloji Müzesi",
+                  "text": "Mersin Archaeological Museum expune artefacte istorice din regiunea înconjurătoare a orașului Mersin.",
+                  "category": "museum",
+                  "coords": [
+                        34.601268,
+                        36.78147
+                  ]
+            },
+            {
+                  "name": "Mersin Deniz Müzesi",
+                  "text": "Mersin Naval Museum este dedicat istoriei maritime și moștenirii navale a Turciei, fiind situat în Mersin.",
+                  "category": "museum",
+                  "coords": [
+                        34.600106,
+                        36.781345
+                  ]
+            },
+            {
+                  "name": "Akdeniz Belediyesi Sanat Parkı",
+                  "text": "Akdeniz Belediyesi Sanat Parkı este un parc tematic local și o zonă de recreere în Mersin.",
+                  "category": "recreational",
+                  "coords": [
+                        34.626783,
+                        36.795181
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "Amfitiyatro este un teatru care deservește orașul Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.632325,
+                        36.797497
+                  ]
+            },
+            {
+                  "name": "Kurtuluş",
+                  "text": "Kurtuluş este un monument situat în orașul Mersin.",
+                  "category": "historical",
+                  "coords": [
+                        34.636187,
+                        36.801717
+                  ]
+            },
+            {
+                  "name": "İçel Sanat Klubü",
+                  "text": "İçel Sanat Klubü funcționează ca un centru de artă în orașul Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.629703,
+                        36.799289
+                  ]
+            },
+            {
+                  "name": "Nacar Evi",
+                  "text": "Nacar Evi este o atracție turistică situată în Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.623836,
+                        36.792145
+                  ]
+            },
+            {
+                  "name": "Kuş Besleme Odağı",
+                  "text": "Kuş Besleme Odağı este o atracție care se găsește în orașul Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.63007,
+                        36.797027
+                  ]
+            },
+            {
+                  "name": "Tahtalı Avniye Cami",
+                  "text": "Tahtalı Avniye Cami este un lăcaș de cult situat în Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.621463,
+                        36.793441
+                  ]
+            },
+            {
+                  "name": "Eski Camii",
+                  "text": "Eski Camii, cunoscută și sub numele de Moscheea Veche, este un lăcaș de cult istoric din Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.630217,
+                        36.79838
+                  ]
+            },
+            {
+                  "name": "Mağribi Cami",
+                  "text": "Mağribi Cami este un lăcaș de cult local situat în Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.62818,
+                        36.802455
+                  ]
+            },
+            {
+                  "name": "Müftü Camii",
+                  "text": "Müftü Camii este un lăcaș de cult important situat în orașul Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.615958,
+                        36.788586
+                  ]
+            },
+            {
+                  "name": "Seyidna Hıdır Aleyselam Türbesi",
+                  "text": "Seyidna Hıdır Aleyselam Türbesi este un lăcaș de cult și mormânt situat în Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.619256,
+                        36.795045
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kent Tarihi Müzesi",
+                  "text": "The Kent Tarihi Müzesi in Mersin is a museum dedicated to the city's urban history.",
+                  "category": "museum",
+                  "coords": [
+                        34.628213,
+                        36.800125
+                  ]
+            },
+            {
+                  "name": "Mersin Deniz Feneri",
+                  "text": "Mersin Deniz Feneri is a notable lighthouse serving the coastal city of Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.618668,
+                        36.784605
+                  ]
+            },
+            {
+                  "name": "Yumuktepe",
+                  "text": "Yumuktepe is a significant archaeological site located in Mersin, representing one of the oldest known settlements in the region.",
+                  "category": "historical",
+                  "coords": [
+                        34.604149,
+                        36.801211
+                  ]
+            },
+            {
+                  "name": "Mersin Kongre ve Sergi Sarayı",
+                  "text": "Mersin Kongre ve Sergi Sarayı is a major congress and exhibition center functioning as a cultural venue in Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.633848,
+                        36.798999
+                  ]
+            },
+            {
+                  "name": "Mersin Archaeological Museum",
+                  "text": "The Mersin Archaeological Museum exhibits historical artifacts from the surrounding region of Mersin.",
+                  "category": "museum",
+                  "coords": [
+                        34.601268,
+                        36.78147
+                  ]
+            },
+            {
+                  "name": "Mersin Naval Museum",
+                  "text": "The Mersin Naval Museum is dedicated to the maritime history and naval heritage of Turkey, located in Mersin.",
+                  "category": "museum",
+                  "coords": [
+                        34.600106,
+                        36.781345
+                  ]
+            },
+            {
+                  "name": "Akdeniz Belediyesi Sanat Parkı",
+                  "text": "Akdeniz Belediyesi Sanat Parkı is a local theme park and recreational area in Mersin.",
+                  "category": "recreational",
+                  "coords": [
+                        34.626783,
+                        36.795181
+                  ]
+            },
+            {
+                  "name": "Amfitiyatro",
+                  "text": "Amfitiyatro is a theatre venue serving the city of Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.632325,
+                        36.797497
+                  ]
+            },
+            {
+                  "name": "Kurtuluş",
+                  "text": "Kurtuluş is a monument situated in the city of Mersin.",
+                  "category": "historical",
+                  "coords": [
+                        34.636187,
+                        36.801717
+                  ]
+            },
+            {
+                  "name": "İçel Sanat Klubü",
+                  "text": "İçel Sanat Klubü functions as an arts centre within the city of Mersin.",
+                  "category": "cultural",
+                  "coords": [
+                        34.629703,
+                        36.799289
+                  ]
+            },
+            {
+                  "name": "Nacar Evi",
+                  "text": "Nacar Evi is a tourist attraction located in Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.623836,
+                        36.792145
+                  ]
+            },
+            {
+                  "name": "Kuş Besleme Odağı",
+                  "text": "Kuş Besleme Odağı is an attraction found in the city of Mersin.",
+                  "category": "landmark",
+                  "coords": [
+                        34.63007,
+                        36.797027
+                  ]
+            },
+            {
+                  "name": "Tahtalı Avniye Cami",
+                  "text": "Tahtalı Avniye Cami is a place of worship situated in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.621463,
+                        36.793441
+                  ]
+            },
+            {
+                  "name": "Eski Camii",
+                  "text": "Eski Camii, also known as the Old Mosque, is a historic place of worship in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.630217,
+                        36.79838
+                  ]
+            },
+            {
+                  "name": "Mağribi Cami",
+                  "text": "Mağribi Cami is a local place of worship located in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.62818,
+                        36.802455
+                  ]
+            },
+            {
+                  "name": "Müftü Camii",
+                  "text": "Müftü Camii is a notable place of worship located in the city of Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.615958,
+                        36.788586
+                  ]
+            },
+            {
+                  "name": "Seyidna Hıdır Aleyselam Türbesi",
+                  "text": "Seyidna Hıdır Aleyselam Türbesi is a place of worship and tomb located in Mersin.",
+                  "category": "religious",
+                  "coords": [
+                        34.619256,
+                        36.795045
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-33",
     coords: [34.6167, 36.8000],
@@ -519,7 +5370,808 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "eskisehir-cities-v2",
+    id: "eskisehir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Çağdaş Cam Sanatları Müzesi",
+                  "text": "Museum in Eskişehir, das der zeitgenössischen Glaskunst gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        30.521873,
+                        39.76515
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "Museum in Eskişehir, das den türkischen Befreiungskrieg dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        30.523572,
+                        39.764696
+                  ]
+            },
+            {
+                  "name": "Dorylaion",
+                  "text": "Archäologische Stätte der antiken Stadt Dorylaeum bei Eskişehir.",
+                  "category": "historical",
+                  "coords": [
+                        30.536007,
+                        39.799634
+                  ]
+            },
+            {
+                  "name": "Çağdaş Sanatlar Müzesi",
+                  "text": "Museum in Eskişehir, das Werke der zeitgenössischen Kunst ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        30.497317,
+                        39.790603
+                  ]
+            },
+            {
+                  "name": "Yunus Emre Etnografya Müzesi",
+                  "text": "Ethnographisches Museum in Eskişehir, dem Dichter Yunus Emre gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        30.526673,
+                        39.763107
+                  ]
+            },
+            {
+                  "name": "Odunpazarı Ahşap Eserler Müzesi",
+                  "text": "Museum für Holzkunstwerke im historischen Viertel Odunpazarı.",
+                  "category": "museum",
+                  "coords": [
+                        30.524891,
+                        39.763295
+                  ]
+            },
+            {
+                  "name": "Tayfun Talipoglu Daktilo Galerisi",
+                  "text": "Eine Galerie in Eskişehir, die eine Sammlung historischer Schreibmaschinen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        30.524834,
+                        39.762052
+                  ]
+            },
+            {
+                  "name": "İmren Erşen Coya müzesi",
+                  "text": "Ein Kunst- und Puppenmuseum in der Stadt Eskişehir.",
+                  "category": "museum",
+                  "coords": [
+                        30.525652,
+                        39.764256
+                  ]
+            },
+            {
+                  "name": "Devrim Arabaları Müzesi",
+                  "text": "Museum, das das erste türkische Auto, den Devrim, ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        30.501159,
+                        39.774467
+                  ]
+            },
+            {
+                  "name": "TÜRASAŞ Revolution Cars Museum",
+                  "text": "Ein Technikmuseum, das die Geschichte der Devrim-Automobile zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        30.502353,
+                        39.774515
+                  ]
+            },
+            {
+                  "name": "Eti Arkeoloji Müzesi",
+                  "text": "Ein Museum, das archäologische Funde aus der Region Eskişehir präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        30.513208,
+                        39.76578
+                  ]
+            },
+            {
+                  "name": "Kılıç Lunapark",
+                  "text": "Ein beliebter Vergnügungspark für Familien in Eskişehir.",
+                  "category": "recreational",
+                  "coords": [
+                        30.504542,
+                        39.784098
+                  ]
+            },
+            {
+                  "name": "Kent Park",
+                  "text": "Ein großer Stadtpark in Eskişehir mit Erholungsflächen und einem künstlichen Strand.",
+                  "category": "park",
+                  "coords": [
+                        30.550108,
+                        39.773552
+                  ]
+            },
+            {
+                  "name": "Özgürlük Tepesi",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über die Stadt Eskişehir bietet.",
+                  "category": "natural",
+                  "coords": [
+                        30.540672,
+                        39.758412
+                  ]
+            },
+            {
+                  "name": "Lületaşı Sanat Merkezi",
+                  "text": "Ein Kunstzentrum, das auf die Verarbeitung von Meerschaum spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        30.519728,
+                        39.775285
+                  ]
+            },
+            {
+                  "name": "Atatürk Kültür ve Sanat Merkezi",
+                  "text": "Ein bedeutendes Kulturzentrum für Kunst und Veranstaltungen in Eskişehir.",
+                  "category": "cultural",
+                  "coords": [
+                        30.499943,
+                        39.791187
+                  ]
+            },
+            {
+                  "name": "Taşbaşı Caddesi",
+                  "text": "Eine belebte Straße in Eskişehir, bekannt als Zentrum für Handel und Shopping.",
+                  "category": "landmark",
+                  "coords": [
+                        30.51848,
+                        39.773268
+                  ]
+            },
+            {
+                  "name": "Reşadiye Cami",
+                  "text": "Eine große moderne Moschee in Eskişehir, die im klassischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        30.516875,
+                        39.771292
+                  ]
+            },
+            {
+                  "name": "Alaaddin Camii",
+                  "text": "Eine historische Moschee aus der Seldschuken-Ära im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        30.523977,
+                        39.766731
+                  ]
+            },
+            {
+                  "name": "Akoğlan Cami",
+                  "text": "Ein lokales muslimisches Gotteshaus in Eskişehir.",
+                  "category": "religious",
+                  "coords": [
+                        30.530396,
+                        39.766259
+                  ]
+            },
+            {
+                  "name": "Ak Camii",
+                  "text": "Eine kleine Moschee für das tägliche Gebet in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        30.526612,
+                        39.765053
+                  ]
+            },
+            {
+                  "name": "Alanönü Camii",
+                  "text": "Eine Moschee für die Bewohner des Alanönü-Viertels.",
+                  "category": "religious",
+                  "coords": [
+                        30.529346,
+                        39.76412
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Çağdaş Cam Sanatları Müzesi",
+                  "text": "A kortárs üvegművészetnek szentelt múzeum Eskişehirben.",
+                  "category": "museum",
+                  "coords": [
+                        30.521873,
+                        39.76515
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "A török függetlenségi háborút dokumentáló múzeum Eskişehirben.",
+                  "category": "museum",
+                  "coords": [
+                        30.523572,
+                        39.764696
+                  ]
+            },
+            {
+                  "name": "Şarhöyük",
+                  "text": "Az ókori Dorylaeum városának régészeti lelőhelye Eskişehir közelében.",
+                  "category": "historical",
+                  "coords": [
+                        30.536007,
+                        39.799634
+                  ]
+            },
+            {
+                  "name": "Çağdaş Sanatlar Müzesi",
+                  "text": "Kortárs művészeti alkotásokat bemutató múzeum Eskişehirben.",
+                  "category": "museum",
+                  "coords": [
+                        30.497317,
+                        39.790603
+                  ]
+            },
+            {
+                  "name": "Yunus Emre Etnografya Müzesi",
+                  "text": "Yunus Emre költőnek szentelt néprajzi múzeum Eskişehirben.",
+                  "category": "museum",
+                  "coords": [
+                        30.526673,
+                        39.763107
+                  ]
+            },
+            {
+                  "name": "Odunpazarı Ahşap Eserler Müzesi",
+                  "text": "Fából készült műalkotások múzeuma a történelmi Odunpazarı negyedben.",
+                  "category": "museum",
+                  "coords": [
+                        30.524891,
+                        39.763295
+                  ]
+            },
+            {
+                  "name": "Tayfun Talipoglu Daktilo Galerisi",
+                  "text": "Eskişehiri galéria, amely történelmi írógépeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        30.524834,
+                        39.762052
+                  ]
+            },
+            {
+                  "name": "İmren Erşen Coya müzesi",
+                  "text": "Művészeti és bábmúzeum Eskişehir városában.",
+                  "category": "museum",
+                  "coords": [
+                        30.525652,
+                        39.764256
+                  ]
+            },
+            {
+                  "name": "Devrim Arabaları Müzesi",
+                  "text": "Múzeum, ahol Törökország első saját gyártású autója, a Devrim látható.",
+                  "category": "museum",
+                  "coords": [
+                        30.501159,
+                        39.774467
+                  ]
+            },
+            {
+                  "name": "TÜRASAŞ Revolution Cars Museum",
+                  "text": "Technikai múzeum, amely a Devrim autók történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        30.502353,
+                        39.774515
+                  ]
+            },
+            {
+                  "name": "Eti Arkeoloji Müzesi",
+                  "text": "Eskişehir környékének régészeti leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        30.513208,
+                        39.76578
+                  ]
+            },
+            {
+                  "name": "Kılıç Lunapark",
+                  "text": "Népszerű vidámpark családok számára Eskişehirben.",
+                  "category": "recreational",
+                  "coords": [
+                        30.504542,
+                        39.784098
+                  ]
+            },
+            {
+                  "name": "Kent Park",
+                  "text": "Eskişehir nagy városi parkja pihenőhelyekkel és mesterséges stranddal.",
+                  "category": "park",
+                  "coords": [
+                        30.550108,
+                        39.773552
+                  ]
+            },
+            {
+                  "name": "Özgürlük Tepesi",
+                  "text": "Kilátópont, ahonnan panorámás kilátás nyílik Eskişehir városára.",
+                  "category": "natural",
+                  "coords": [
+                        30.540672,
+                        39.758412
+                  ]
+            },
+            {
+                  "name": "Lületaşı Sanat Merkezi",
+                  "text": "Művészeti központ, amely a tajtékkő megmunkálására specializálódott.",
+                  "category": "cultural",
+                  "coords": [
+                        30.519728,
+                        39.775285
+                  ]
+            },
+            {
+                  "name": "Atatürk Kültür ve Sanat Merkezi",
+                  "text": "Eskişehir jelentős kulturális és művészeti központja.",
+                  "category": "cultural",
+                  "coords": [
+                        30.499943,
+                        39.791187
+                  ]
+            },
+            {
+                  "name": "Taşbaşı Caddesi",
+                  "text": "Forgalmas utca Eskişehirben, amely kereskedelmi és bevásárlóközpont.",
+                  "category": "landmark",
+                  "coords": [
+                        30.51848,
+                        39.773268
+                  ]
+            },
+            {
+                  "name": "Reşadiye Cami",
+                  "text": "Nagy, modern mecset Eskişehirben, amely klasszikus stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        30.516875,
+                        39.771292
+                  ]
+            },
+            {
+                  "name": "Alaaddin Camii",
+                  "text": "Történelmi szeldzsuk kori mecset a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        30.523977,
+                        39.766731
+                  ]
+            },
+            {
+                  "name": "Akoğlan Cami",
+                  "text": "Helyi muszlim imaház Eskişehirben.",
+                  "category": "religious",
+                  "coords": [
+                        30.530396,
+                        39.766259
+                  ]
+            },
+            {
+                  "name": "Ak Camii",
+                  "text": "Kisebb mecset a napi imádságokhoz a városban.",
+                  "category": "religious",
+                  "coords": [
+                        30.526612,
+                        39.765053
+                  ]
+            },
+            {
+                  "name": "Alanönü Camii",
+                  "text": "Az Alanönü negyed lakói számára fenntartott mecset.",
+                  "category": "religious",
+                  "coords": [
+                        30.529346,
+                        39.76412
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Çağdaş Cam Sanatları Müzesi",
+                  "text": "Muzeu din Eskişehir dedicat artei contemporane în sticlă.",
+                  "category": "museum",
+                  "coords": [
+                        30.521873,
+                        39.76515
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "Muzeu din Eskişehir care documentează Războiul de Independență al Turciei.",
+                  "category": "museum",
+                  "coords": [
+                        30.523572,
+                        39.764696
+                  ]
+            },
+            {
+                  "name": "Şarhöyük",
+                  "text": "Situl arheologic al orașului antic Dorylaeum, lângă Eskişehir.",
+                  "category": "historical",
+                  "coords": [
+                        30.536007,
+                        39.799634
+                  ]
+            },
+            {
+                  "name": "Çağdaş Sanatlar Müzesi",
+                  "text": "Muzeu din Eskişehir care expune lucrări de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        30.497317,
+                        39.790603
+                  ]
+            },
+            {
+                  "name": "Yunus Emre Etnografya Müzesi",
+                  "text": "Muzeu de etnografie din Eskişehir dedicat poetului Yunus Emre.",
+                  "category": "museum",
+                  "coords": [
+                        30.526673,
+                        39.763107
+                  ]
+            },
+            {
+                  "name": "Odunpazarı Ahşap Eserler Müzesi",
+                  "text": "Muzeu de obiecte din lemn situat în cartierul istoric Odunpazarı.",
+                  "category": "museum",
+                  "coords": [
+                        30.524891,
+                        39.763295
+                  ]
+            },
+            {
+                  "name": "Tayfun Talipoglu Daktilo Galerisi",
+                  "text": "O galerie din Eskişehir care prezintă o colecție de mașini de scris istorice.",
+                  "category": "museum",
+                  "coords": [
+                        30.524834,
+                        39.762052
+                  ]
+            },
+            {
+                  "name": "İmren Erşen Coya müzesi",
+                  "text": "Un muzeu de artă și păpuși din orașul Eskişehir.",
+                  "category": "museum",
+                  "coords": [
+                        30.525652,
+                        39.764256
+                  ]
+            },
+            {
+                  "name": "Devrim Arabaları Müzesi",
+                  "text": "Muzeu care expune prima mașină autohtonă a Turciei, Devrim.",
+                  "category": "museum",
+                  "coords": [
+                        30.501159,
+                        39.774467
+                  ]
+            },
+            {
+                  "name": "TÜRASAŞ Revolution Cars Museum",
+                  "text": "Un muzeu tehnic care prezintă istoria automobilelor Devrim.",
+                  "category": "museum",
+                  "coords": [
+                        30.502353,
+                        39.774515
+                  ]
+            },
+            {
+                  "name": "Eti Arkeoloji Müzesi",
+                  "text": "Un muzeu care prezintă descoperiri arheologice din regiunea Eskişehir.",
+                  "category": "museum",
+                  "coords": [
+                        30.513208,
+                        39.76578
+                  ]
+            },
+            {
+                  "name": "Kılıç Lunapark",
+                  "text": "Un parc de distracții popular pentru familii în Eskişehir.",
+                  "category": "recreational",
+                  "coords": [
+                        30.504542,
+                        39.784098
+                  ]
+            },
+            {
+                  "name": "Kent Park",
+                  "text": "Un parc urban mare din Eskişehir, cu spații de recreere și o plajă artificială.",
+                  "category": "park",
+                  "coords": [
+                        30.550108,
+                        39.773552
+                  ]
+            },
+            {
+                  "name": "Özgürlük Tepesi",
+                  "text": "Un punct de observație care oferă o vedere panoramică asupra orașului Eskişehir.",
+                  "category": "natural",
+                  "coords": [
+                        30.540672,
+                        39.758412
+                  ]
+            },
+            {
+                  "name": "Lületaşı Sanat Merkezi",
+                  "text": "Un centru de artă specializat în prelucrarea spumei de mare (lületaşı).",
+                  "category": "cultural",
+                  "coords": [
+                        30.519728,
+                        39.775285
+                  ]
+            },
+            {
+                  "name": "Atatürk Kültür ve Sanat Merkezi",
+                  "text": "Un important centru cultural pentru artă și evenimente din Eskişehir.",
+                  "category": "cultural",
+                  "coords": [
+                        30.499943,
+                        39.791187
+                  ]
+            },
+            {
+                  "name": "Taşbaşı Caddesi",
+                  "text": "O stradă animată din Eskişehir, cunoscută ca centru comercial.",
+                  "category": "landmark",
+                  "coords": [
+                        30.51848,
+                        39.773268
+                  ]
+            },
+            {
+                  "name": "Reşadiye Cami",
+                  "text": "O moschee mare și modernă din Eskişehir, construită în stil clasic.",
+                  "category": "religious",
+                  "coords": [
+                        30.516875,
+                        39.771292
+                  ]
+            },
+            {
+                  "name": "Alaaddin Camii",
+                  "text": "O moschee istorică din epoca selgiucidă situată în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        30.523977,
+                        39.766731
+                  ]
+            },
+            {
+                  "name": "Akoğlan Cami",
+                  "text": "Un lăcaș de cult musulman local în Eskişehir.",
+                  "category": "religious",
+                  "coords": [
+                        30.530396,
+                        39.766259
+                  ]
+            },
+            {
+                  "name": "Ak Camii",
+                  "text": "O moschee mică pentru rugăciunile zilnice din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        30.526612,
+                        39.765053
+                  ]
+            },
+            {
+                  "name": "Alanönü Camii",
+                  "text": "O moschee pentru locuitorii cartierului Alanönü.",
+                  "category": "religious",
+                  "coords": [
+                        30.529346,
+                        39.76412
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Çağdaş Cam Sanatları Müzesi",
+                  "text": "Museum in Eskişehir dedicated to contemporary glass art.",
+                  "category": "museum",
+                  "coords": [
+                        30.521873,
+                        39.76515
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "Museum in Eskişehir documenting the Turkish War of Independence.",
+                  "category": "museum",
+                  "coords": [
+                        30.523572,
+                        39.764696
+                  ]
+            },
+            {
+                  "name": "Dorylaeum",
+                  "text": "Archaeological site of the ancient city of Dorylaeum near Eskişehir.",
+                  "category": "historical",
+                  "coords": [
+                        30.536007,
+                        39.799634
+                  ]
+            },
+            {
+                  "name": "Çağdaş Sanatlar Müzesi",
+                  "text": "Museum in Eskişehir showcasing contemporary art works.",
+                  "category": "museum",
+                  "coords": [
+                        30.497317,
+                        39.790603
+                  ]
+            },
+            {
+                  "name": "Yunus Emre Etnografya Müzesi",
+                  "text": "Ethnography museum in Eskişehir dedicated to the poet Yunus Emre.",
+                  "category": "museum",
+                  "coords": [
+                        30.526673,
+                        39.763107
+                  ]
+            },
+            {
+                  "name": "Odunpazarı Ahşap Eserler Müzesi",
+                  "text": "Museum of wooden artworks located in the historic Odunpazarı district.",
+                  "category": "museum",
+                  "coords": [
+                        30.524891,
+                        39.763295
+                  ]
+            },
+            {
+                  "name": "Tayfun Talipoglu Daktilo Galerisi",
+                  "text": "A gallery in Eskişehir showcasing a collection of historic typewriters.",
+                  "category": "museum",
+                  "coords": [
+                        30.524834,
+                        39.762052
+                  ]
+            },
+            {
+                  "name": "İmren Erşen Coya müzesi",
+                  "text": "An art and doll museum located in the city of Eskişehir.",
+                  "category": "museum",
+                  "coords": [
+                        30.525652,
+                        39.764256
+                  ]
+            },
+            {
+                  "name": "Devrim Automobiles Museum",
+                  "text": "Museum exhibiting Turkey's first domestic car, the Devrim.",
+                  "category": "museum",
+                  "coords": [
+                        30.501159,
+                        39.774467
+                  ]
+            },
+            {
+                  "name": "TÜRASAŞ Revolution Cars Museum",
+                  "text": "A technical museum showcasing the history of the Devrim automobiles.",
+                  "category": "museum",
+                  "coords": [
+                        30.502353,
+                        39.774515
+                  ]
+            },
+            {
+                  "name": "Eti Arkeoloji Müzesi",
+                  "text": "A museum presenting archaeological finds from the Eskişehir region.",
+                  "category": "museum",
+                  "coords": [
+                        30.513208,
+                        39.76578
+                  ]
+            },
+            {
+                  "name": "Kılıç Lunapark",
+                  "text": "A popular amusement park for families in Eskişehir.",
+                  "category": "recreational",
+                  "coords": [
+                        30.504542,
+                        39.784098
+                  ]
+            },
+            {
+                  "name": "Kent Park",
+                  "text": "A large city park in Eskişehir featuring recreational areas and an artificial beach.",
+                  "category": "park",
+                  "coords": [
+                        30.550108,
+                        39.773552
+                  ]
+            },
+            {
+                  "name": "Özgürlük Tepesi",
+                  "text": "A viewpoint offering panoramic views over the city of Eskişehir.",
+                  "category": "natural",
+                  "coords": [
+                        30.540672,
+                        39.758412
+                  ]
+            },
+            {
+                  "name": "Lületaşı Sanat Merkezi",
+                  "text": "An arts centre specialized in the carving of meerschaum (lületaşı).",
+                  "category": "cultural",
+                  "coords": [
+                        30.519728,
+                        39.775285
+                  ]
+            },
+            {
+                  "name": "Atatürk Kültür ve Sanat Merkezi",
+                  "text": "An important cultural center for arts and events in Eskişehir.",
+                  "category": "cultural",
+                  "coords": [
+                        30.499943,
+                        39.791187
+                  ]
+            },
+            {
+                  "name": "Taşbaşı Caddesi",
+                  "text": "A busy street in Eskişehir known as a commercial and shopping hub.",
+                  "category": "landmark",
+                  "coords": [
+                        30.51848,
+                        39.773268
+                  ]
+            },
+            {
+                  "name": "Reşadiye Cami",
+                  "text": "A large modern mosque in Eskişehir built in the classical style.",
+                  "category": "religious",
+                  "coords": [
+                        30.516875,
+                        39.771292
+                  ]
+            },
+            {
+                  "name": "Alaaddin Camii",
+                  "text": "A historic Seljuk-era mosque located in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        30.523977,
+                        39.766731
+                  ]
+            },
+            {
+                  "name": "Akoğlan Cami",
+                  "text": "A local Muslim place of worship in Eskişehir.",
+                  "category": "religious",
+                  "coords": [
+                        30.530396,
+                        39.766259
+                  ]
+            },
+            {
+                  "name": "Ak Camii",
+                  "text": "A small mosque for daily prayers in the city.",
+                  "category": "religious",
+                  "coords": [
+                        30.526612,
+                        39.765053
+                  ]
+            },
+            {
+                  "name": "Alanönü Camii",
+                  "text": "A mosque serving the residents of the Alanönü district.",
+                  "category": "religious",
+                  "coords": [
+                        30.529346,
+                        39.76412
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-26",
     coords: [30.5256, 39.7767],
@@ -555,7 +6207,1384 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "diyarbakir-cities-v2",
+    id: "diyarbakir-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Keçi Burcu",
+                  "text": "Ein markanter Turm der historischen Stadtmauer von Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.236874,
+                        37.905454
+                  ]
+            },
+            {
+                  "name": "Gazi Köşkü",
+                  "text": "Ein historisches Herrenhaus, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        40.228655,
+                        37.89509
+                  ]
+            },
+            {
+                  "name": "Cahit Sıtkı Tarancı Müzesi",
+                  "text": "Ein Museum im ehemaligen Wohnhaus des berühmten Dichters Tarancı.",
+                  "category": "museum",
+                  "coords": [
+                        40.235659,
+                        37.913228
+                  ]
+            },
+            {
+                  "name": "Arkeoloji Müzesi",
+                  "text": "Ein Museum mit Artefakten aus der langen Geschichte der Region.",
+                  "category": "museum",
+                  "coords": [
+                        40.242706,
+                        37.915483
+                  ]
+            },
+            {
+                  "name": "Benu-Sen (Ulu Beden-Evli Beden) Burcu",
+                  "text": "Teil der beeindruckenden Befestigungsanlagen von Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.226532,
+                        37.906675
+                  ]
+            },
+            {
+                  "name": "Yedi Kardeş Burcu",
+                  "text": "Ein historischer Turm der Stadtmauern von Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.230497,
+                        37.904533
+                  ]
+            },
+            {
+                  "name": "Diyarbakır Cezaevi Kent Müzesi",
+                  "text": "Ein ehemaliges Gefängnis, das in ein Stadtmuseum umgewandelt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        40.241743,
+                        37.916069
+                  ]
+            },
+            {
+                  "name": "Amida Höyüğü",
+                  "text": "Ein Siedlungshügel mit Überresten früher Zivilisationen in Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.240775,
+                        37.915589
+                  ]
+            },
+            {
+                  "name": "Şehir Tiyatroları",
+                  "text": "Ein kulturelles Zentrum für darstellende Künste in Diyarbakır.",
+                  "category": "cultural",
+                  "coords": [
+                        40.224438,
+                        37.91222
+                  ]
+            },
+            {
+                  "name": "Dengbêj Evi",
+                  "text": "Ein Ort zur Pflege der kurdischen Dengbêj-Erzähltradition.",
+                  "category": "landmark",
+                  "coords": [
+                        40.234176,
+                        37.909998
+                  ]
+            },
+            {
+                  "name": "Koşuyolu Parkı",
+                  "text": "Ein öffentlicher Park für Erholung und Freizeit in Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.214476,
+                        37.923642
+                  ]
+            },
+            {
+                  "name": "Anıt Park",
+                  "text": "Ein Stadtpark mit Denkmälern in Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.224231,
+                        37.916679
+                  ]
+            },
+            {
+                  "name": "Sümer pak",
+                  "text": "Eine Grünanlage im Stadtgebiet von Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.218522,
+                        37.911588
+                  ]
+            },
+            {
+                  "name": "Deva Hamamı",
+                  "text": "Die Ruinen eines historischen Badehauses in Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.235918,
+                        37.909132
+                  ]
+            },
+            {
+                  "name": "Dört Ayaklı Minare",
+                  "text": "Ein einzigartiges Minarett, das auf vier Säulen steht.",
+                  "category": "landmark",
+                  "coords": [
+                        40.237782,
+                        37.910697
+                  ]
+            },
+            {
+                  "name": "Sevgi Anıtı",
+                  "text": "Ein lokales Denkmal in der Stadt Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.236752,
+                        37.911038
+                  ]
+            },
+            {
+                  "name": "Cam Teras",
+                  "text": "Eine Aussichtsplattform in Diyarbakır.",
+                  "category": "natural",
+                  "coords": [
+                        40.244161,
+                        37.91464
+                  ]
+            },
+            {
+                  "name": "can go up, but very dirty and dangerous (better do not climb)",
+                  "text": "Historische Überreste in Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.230969,
+                        37.914819
+                  ]
+            },
+            {
+                  "name": "Harabeler",
+                  "text": "Historische Ruinen in der Umgebung von Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.243366,
+                        37.911031
+                  ]
+            },
+            {
+                  "name": "Jungfrau-Maria-Kirche",
+                  "text": "Eine alte syrisch-orthodoxe Kirche in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.230646,
+                        37.908916
+                  ]
+            },
+            {
+                  "name": "Surp Sarkis Ermeni Ortodoks Kilisesi",
+                  "text": "Eine bedeutende armenische Kirche im historischen Viertel von Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.232638,
+                        37.9074
+                  ]
+            },
+            {
+                  "name": "St.-Giragos-Kathedrale",
+                  "text": "Eine bedeutende historische armenisch-apostolische Kirche in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.238716,
+                        37.910826
+                  ]
+            },
+            {
+                  "name": "Mervani Mescidi",
+                  "text": "Ein kleines historisches Gebetshaus in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.2367,
+                        37.916252
+                  ]
+            },
+            {
+                  "name": "Parlı Safa Camii",
+                  "text": "Eine elegante historische Moschee, bekannt für ihre feinen Steinmetzarbeiten.",
+                  "category": "religious",
+                  "coords": [
+                        40.232391,
+                        37.911518
+                  ]
+            },
+            {
+                  "name": "Melek Ahmed Paşa Camii",
+                  "text": "Eine beeindruckende osmanische Moschee aus dem 16. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        40.230324,
+                        37.91082
+                  ]
+            },
+            {
+                  "name": "Nebî Camii",
+                  "text": "Eine historische Moschee in der Nähe der alten Stadtmauern.",
+                  "category": "religious",
+                  "coords": [
+                        40.236494,
+                        37.915127
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "Die erste osmanische Moschee der Stadt, bekannt für ihre bleigedeckten Kuppeln.",
+                  "category": "religious",
+                  "coords": [
+                        40.241432,
+                        37.91161
+                  ]
+            },
+            {
+                  "name": "İskender Paşa Camii",
+                  "text": "Eine im 16. Jahrhundert für den Gouverneur İskender Pasha errichtete Moschee.",
+                  "category": "religious",
+                  "coords": [
+                        40.23326,
+                        37.913492
+                  ]
+            },
+            {
+                  "name": "Nasuh Paşa Cami",
+                  "text": "Eine historische osmanische Moschee aus dem 17. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        40.241701,
+                        37.913438
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii",
+                  "text": "Eine klassische osmanische Moschee, die im 16. Jahrhundert erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        40.23067,
+                        37.905756
+                  ]
+            },
+            {
+                  "name": "Kadı Camii",
+                  "text": "Ein historisches religiöses Bauwerk im Viertel Sur.",
+                  "category": "religious",
+                  "coords": [
+                        40.238586,
+                        37.912397
+                  ]
+            },
+            {
+                  "name": "Arap Şeyh Camii",
+                  "text": "Ein lokales islamisches Gotteshaus in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.243459,
+                        37.909403
+                  ]
+            },
+            {
+                  "name": "Ayn Minare Cami",
+                  "text": "Eine historische Moschee, benannt nach ihrem markanten Minarett.",
+                  "category": "religious",
+                  "coords": [
+                        40.23411,
+                        37.908077
+                  ]
+            },
+            {
+                  "name": "Hançeri Güzar Camii",
+                  "text": "Eine traditionelle Moschee im historischen Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        40.229531,
+                        37.908439
+                  ]
+            },
+            {
+                  "name": "Sinoğlu Camii",
+                  "text": "Eine kleine historische Moschee mit traditioneller lokaler Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        40.234863,
+                        37.911215
+                  ]
+            },
+            {
+                  "name": "Ömer Şeddat Camii",
+                  "text": "Eine historische Moschee, die zum kulturellen Erbe der Stadt gehört.",
+                  "category": "religious",
+                  "coords": [
+                        40.235279,
+                        37.906511
+                  ]
+            },
+            {
+                  "name": "İbrahim Bey Camii",
+                  "text": "Ein traditionelles Gotteshaus in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.239735,
+                        37.912621
+                  ]
+            },
+            {
+                  "name": "Hacı Büzrük Camii",
+                  "text": "Ein historisches religiöses Denkmal in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.237804,
+                        37.914347
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Keçi Burcu",
+                  "text": "Diyarbakır történelmi városfalának egyik jellegzetes bástyája.",
+                  "category": "castle",
+                  "coords": [
+                        40.236874,
+                        37.905454
+                  ]
+            },
+            {
+                  "name": "Gazi Köşkü",
+                  "text": "Történelmi kúria, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        40.228655,
+                        37.89509
+                  ]
+            },
+            {
+                  "name": "Cahit Sıtkı Tarancı Müzesi",
+                  "text": "Múzeum a híres költő, Tarancı egykori lakóházában.",
+                  "category": "museum",
+                  "coords": [
+                        40.235659,
+                        37.913228
+                  ]
+            },
+            {
+                  "name": "Arkeoloji Müzesi",
+                  "text": "A régió hosszú történelmének emlékeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        40.242706,
+                        37.915483
+                  ]
+            },
+            {
+                  "name": "Benu-Sen (Ulu Beden-Evli Beden) Burcu",
+                  "text": "Diyarbakır lenyűgöző erődrendszerének része.",
+                  "category": "castle",
+                  "coords": [
+                        40.226532,
+                        37.906675
+                  ]
+            },
+            {
+                  "name": "Yedi Kardeş Burcu",
+                  "text": "Diyarbakır városfalának egyik történelmi bástyája.",
+                  "category": "castle",
+                  "coords": [
+                        40.230497,
+                        37.904533
+                  ]
+            },
+            {
+                  "name": "Diyarbakır Cezaevi Kent Müzesi",
+                  "text": "Városi múzeummá alakított egykori börtön.",
+                  "category": "museum",
+                  "coords": [
+                        40.241743,
+                        37.916069
+                  ]
+            },
+            {
+                  "name": "Amida Höyüğü",
+                  "text": "Korai civilizációk maradványait őrző településhalom Diyarbakırban.",
+                  "category": "historical",
+                  "coords": [
+                        40.240775,
+                        37.915589
+                  ]
+            },
+            {
+                  "name": "Şehir Tiyatroları",
+                  "text": "Előadóművészeti kulturális központ Diyarbakırban.",
+                  "category": "cultural",
+                  "coords": [
+                        40.224438,
+                        37.91222
+                  ]
+            },
+            {
+                  "name": "Dengbêj Evi",
+                  "text": "A kurd Dengbêj mesemondó hagyomány ápolásának helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        40.234176,
+                        37.909998
+                  ]
+            },
+            {
+                  "name": "Koşuyolu Parkı",
+                  "text": "Nyilvános park pihenésre és kikapcsolódásra Diyarbakırban.",
+                  "category": "park",
+                  "coords": [
+                        40.214476,
+                        37.923642
+                  ]
+            },
+            {
+                  "name": "Anıt Park",
+                  "text": "Városi park emlékművekkel Diyarbakırban.",
+                  "category": "park",
+                  "coords": [
+                        40.224231,
+                        37.916679
+                  ]
+            },
+            {
+                  "name": "Sümer pak",
+                  "text": "Zöldövezet Diyarbakır városi területén.",
+                  "category": "park",
+                  "coords": [
+                        40.218522,
+                        37.911588
+                  ]
+            },
+            {
+                  "name": "Deva Hamamı",
+                  "text": "Egy történelmi fürdőház romjai Diyarbakırban.",
+                  "category": "historical",
+                  "coords": [
+                        40.235918,
+                        37.909132
+                  ]
+            },
+            {
+                  "name": "Dört Ayaklı Minare",
+                  "text": "Egyedülálló minaret, amely négy oszlopon áll.",
+                  "category": "landmark",
+                  "coords": [
+                        40.237782,
+                        37.910697
+                  ]
+            },
+            {
+                  "name": "Sevgi Anıtı",
+                  "text": "Helyi emlékmű Diyarbakır városában.",
+                  "category": "historical",
+                  "coords": [
+                        40.236752,
+                        37.911038
+                  ]
+            },
+            {
+                  "name": "Cam Teras",
+                  "text": "Kilátóterasz Diyarbakırban.",
+                  "category": "natural",
+                  "coords": [
+                        40.244161,
+                        37.91464
+                  ]
+            },
+            {
+                  "name": "can go up, but very dirty and dangerous (better do not climb)",
+                  "text": "Történelmi maradványok Diyarbakırban.",
+                  "category": "historical",
+                  "coords": [
+                        40.230969,
+                        37.914819
+                  ]
+            },
+            {
+                  "name": "Harabeler",
+                  "text": "Történelmi romok Diyarbakır környékén.",
+                  "category": "historical",
+                  "coords": [
+                        40.243366,
+                        37.911031
+                  ]
+            },
+            {
+                  "name": "Meryem Ana Kilisesi",
+                  "text": "Ősi szír-ortodox templom Diyarbakırban.",
+                  "category": "religious",
+                  "coords": [
+                        40.230646,
+                        37.908916
+                  ]
+            },
+            {
+                  "name": "Surp Sarkis Ermeni Ortodoks Kilisesi",
+                  "text": "Jelentős örmény templom Diyarbakır történelmi negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        40.232638,
+                        37.9074
+                  ]
+            },
+            {
+                  "name": "Surp Giragos Kilisesi",
+                  "text": "Egy jelentős történelmi örmény apostoli templom Diyarbakırban.",
+                  "category": "religious",
+                  "coords": [
+                        40.238716,
+                        37.910826
+                  ]
+            },
+            {
+                  "name": "Mervani Mescidi",
+                  "text": "Egy kis történelmi imaház Diyarbakırban.",
+                  "category": "religious",
+                  "coords": [
+                        40.2367,
+                        37.916252
+                  ]
+            },
+            {
+                  "name": "Parlı Safa Camii",
+                  "text": "Egy elegáns történelmi mecset, amely finom kőfaragásairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        40.232391,
+                        37.911518
+                  ]
+            },
+            {
+                  "name": "Melek Ahmed Paşa Camii",
+                  "text": "Egy lenyűgöző 16. századi oszmán mecset.",
+                  "category": "religious",
+                  "coords": [
+                        40.230324,
+                        37.91082
+                  ]
+            },
+            {
+                  "name": "Nebî Camii",
+                  "text": "Egy történelmi mecset a régi városfalak közelében.",
+                  "category": "religious",
+                  "coords": [
+                        40.236494,
+                        37.915127
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "A város első oszmán mecsetje, amely ólommal borított kupoláiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        40.241432,
+                        37.91161
+                  ]
+            },
+            {
+                  "name": "İskender Paşa Camii",
+                  "text": "Egy a 16. században İskender pasa kormányzó számára épült mecset.",
+                  "category": "religious",
+                  "coords": [
+                        40.23326,
+                        37.913492
+                  ]
+            },
+            {
+                  "name": "Nasuh Paşa Cami",
+                  "text": "Egy történelmi 17. századi oszmán mecset.",
+                  "category": "religious",
+                  "coords": [
+                        40.241701,
+                        37.913438
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii",
+                  "text": "Egy klasszikus oszmán mecset, amely a 16. században épült.",
+                  "category": "religious",
+                  "coords": [
+                        40.23067,
+                        37.905756
+                  ]
+            },
+            {
+                  "name": "Kadı Camii",
+                  "text": "Egy történelmi vallási épület a Sur negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        40.238586,
+                        37.912397
+                  ]
+            },
+            {
+                  "name": "Arap Şeyh Camii",
+                  "text": "Egy helyi iszlám istentiszteleti hely Diyarbakırban.",
+                  "category": "religious",
+                  "coords": [
+                        40.243459,
+                        37.909403
+                  ]
+            },
+            {
+                  "name": "Ayn Minare Cami",
+                  "text": "Egy történelmi mecset, amely jellegzetes minaretjéről kapta a nevét.",
+                  "category": "religious",
+                  "coords": [
+                        40.23411,
+                        37.908077
+                  ]
+            },
+            {
+                  "name": "Hançeri Güzar Camii",
+                  "text": "Egy hagyományos mecset a történelmi központban.",
+                  "category": "religious",
+                  "coords": [
+                        40.229531,
+                        37.908439
+                  ]
+            },
+            {
+                  "name": "Sinoğlu Camii",
+                  "text": "Egy kis történelmi mecset hagyományos helyi építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        40.234863,
+                        37.911215
+                  ]
+            },
+            {
+                  "name": "Ömer Şeddat Camii",
+                  "text": "Egy történelmi mecset, amely a város kulturális örökségének része.",
+                  "category": "religious",
+                  "coords": [
+                        40.235279,
+                        37.906511
+                  ]
+            },
+            {
+                  "name": "İbrahim Bey Camii",
+                  "text": "Egy hagyományos istentiszteleti hely Diyarbakırban.",
+                  "category": "religious",
+                  "coords": [
+                        40.239735,
+                        37.912621
+                  ]
+            },
+            {
+                  "name": "Hacı Büzrük Camii",
+                  "text": "Egy történelmi vallási műemlék Diyarbakırban.",
+                  "category": "religious",
+                  "coords": [
+                        40.237804,
+                        37.914347
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Keçi Burcu",
+                  "text": "Un bastion distinctiv al zidurilor istorice ale orașului Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.236874,
+                        37.905454
+                  ]
+            },
+            {
+                  "name": "Gazi Köşkü",
+                  "text": "Un conac istoric care funcționează astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        40.228655,
+                        37.89509
+                  ]
+            },
+            {
+                  "name": "Cahit Sıtkı Tarancı Müzesi",
+                  "text": "Un muzeu aflat în fosta casă a celebrului poet Tarancı.",
+                  "category": "museum",
+                  "coords": [
+                        40.235659,
+                        37.913228
+                  ]
+            },
+            {
+                  "name": "Arkeoloji Müzesi",
+                  "text": "Un muzeu care expune artefacte din istoria lungă a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        40.242706,
+                        37.915483
+                  ]
+            },
+            {
+                  "name": "Benu-Sen (Ulu Beden-Evli Beden) Burcu",
+                  "text": "Parte a fortificațiilor impresionante din Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.226532,
+                        37.906675
+                  ]
+            },
+            {
+                  "name": "Yedi Kardeş Burcu",
+                  "text": "Un bastion istoric al zidurilor orașului Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.230497,
+                        37.904533
+                  ]
+            },
+            {
+                  "name": "Diyarbakır Cezaevi Kent Müzesi",
+                  "text": "O fostă închisoare transformată în muzeu al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        40.241743,
+                        37.916069
+                  ]
+            },
+            {
+                  "name": "Amida Höyüğü",
+                  "text": "Un sit arheologic cu vestigii ale civilizațiilor timpurii din Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.240775,
+                        37.915589
+                  ]
+            },
+            {
+                  "name": "Şehir Tiyatroları",
+                  "text": "Un centru cultural pentru artele spectacolului în Diyarbakır.",
+                  "category": "cultural",
+                  "coords": [
+                        40.224438,
+                        37.91222
+                  ]
+            },
+            {
+                  "name": "Dengbêj Evi",
+                  "text": "Un loc dedicat păstrării tradiției kurde de povestire Dengbêj.",
+                  "category": "landmark",
+                  "coords": [
+                        40.234176,
+                        37.909998
+                  ]
+            },
+            {
+                  "name": "Koşuyolu Parkı",
+                  "text": "Un parc public pentru recreere și petrecerea timpului liber în Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.214476,
+                        37.923642
+                  ]
+            },
+            {
+                  "name": "Anıt Park",
+                  "text": "Un parc urban cu monumente în Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.224231,
+                        37.916679
+                  ]
+            },
+            {
+                  "name": "Sümer pak",
+                  "text": "O zonă verde în zona urbană a orașului Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.218522,
+                        37.911588
+                  ]
+            },
+            {
+                  "name": "Deva Hamamı",
+                  "text": "Ruinele unei băi istorice în Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.235918,
+                        37.909132
+                  ]
+            },
+            {
+                  "name": "Dört Ayaklı Minare",
+                  "text": "Un minaret unic, sprijinit pe patru coloane.",
+                  "category": "landmark",
+                  "coords": [
+                        40.237782,
+                        37.910697
+                  ]
+            },
+            {
+                  "name": "Sevgi Anıtı",
+                  "text": "Un monument local în orașul Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.236752,
+                        37.911038
+                  ]
+            },
+            {
+                  "name": "Cam Teras",
+                  "text": "O terasă panoramică în Diyarbakır.",
+                  "category": "natural",
+                  "coords": [
+                        40.244161,
+                        37.91464
+                  ]
+            },
+            {
+                  "name": "can go up, but very dirty and dangerous (better do not climb)",
+                  "text": "Vestigii istorice în Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.230969,
+                        37.914819
+                  ]
+            },
+            {
+                  "name": "Harabeler",
+                  "text": "Ruine istorice în împrejurimile orașului Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.243366,
+                        37.911031
+                  ]
+            },
+            {
+                  "name": "Meryem Ana Kilisesi",
+                  "text": "O veche biserică siriacă ortodoxă în Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.230646,
+                        37.908916
+                  ]
+            },
+            {
+                  "name": "Surp Sarkis Ermeni Ortodoks Kilisesi",
+                  "text": "O biserică armeană importantă în cartierul istoric din Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.232638,
+                        37.9074
+                  ]
+            },
+            {
+                  "name": "Surp Giragos Kilisesi",
+                  "text": "O importantă biserică apostolică armeană istorică din Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.238716,
+                        37.910826
+                  ]
+            },
+            {
+                  "name": "Mervani Mescidi",
+                  "text": "O mică casă de rugăciune istorică din Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.2367,
+                        37.916252
+                  ]
+            },
+            {
+                  "name": "Parlı Safa Camii",
+                  "text": "O moschee istorică elegantă, cunoscută pentru sculpturile sale fine în piatră.",
+                  "category": "religious",
+                  "coords": [
+                        40.232391,
+                        37.911518
+                  ]
+            },
+            {
+                  "name": "Melek Ahmed Paşa Camii",
+                  "text": "O moschee otomană impresionantă din secolul al XVI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        40.230324,
+                        37.91082
+                  ]
+            },
+            {
+                  "name": "Nebî Camii",
+                  "text": "O moschee istorică situată lângă vechile ziduri ale orașului.",
+                  "category": "religious",
+                  "coords": [
+                        40.236494,
+                        37.915127
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "Prima moschee otomană din oraș, cunoscută pentru cupolele sale acoperite cu plumb.",
+                  "category": "religious",
+                  "coords": [
+                        40.241432,
+                        37.91161
+                  ]
+            },
+            {
+                  "name": "İskender Paşa Camii",
+                  "text": "O moschee construită în secolul al XVI-lea pentru guvernatorul İskender Pașa.",
+                  "category": "religious",
+                  "coords": [
+                        40.23326,
+                        37.913492
+                  ]
+            },
+            {
+                  "name": "Nasuh Paşa Cami",
+                  "text": "O moschee otomană istorică din secolul al XVII-lea.",
+                  "category": "religious",
+                  "coords": [
+                        40.241701,
+                        37.913438
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii",
+                  "text": "O moschee otomană clasică, construită în secolul al XVI-lea.",
+                  "category": "religious",
+                  "coords": [
+                        40.23067,
+                        37.905756
+                  ]
+            },
+            {
+                  "name": "Kadı Camii",
+                  "text": "O structură religioasă istorică din cartierul Sur.",
+                  "category": "religious",
+                  "coords": [
+                        40.238586,
+                        37.912397
+                  ]
+            },
+            {
+                  "name": "Arap Şeyh Camii",
+                  "text": "Un lăcaș de cult islamic local din Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.243459,
+                        37.909403
+                  ]
+            },
+            {
+                  "name": "Ayn Minare Cami",
+                  "text": "O moschee istorică numită după minaretul său distinctiv.",
+                  "category": "religious",
+                  "coords": [
+                        40.23411,
+                        37.908077
+                  ]
+            },
+            {
+                  "name": "Hançeri Güzar Camii",
+                  "text": "O moschee tradițională din centrul istoric.",
+                  "category": "religious",
+                  "coords": [
+                        40.229531,
+                        37.908439
+                  ]
+            },
+            {
+                  "name": "Sinoğlu Camii",
+                  "text": "O mică moschee istorică cu arhitectură locală tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        40.234863,
+                        37.911215
+                  ]
+            },
+            {
+                  "name": "Ömer Şeddat Camii",
+                  "text": "O moschee istorică ce face parte din moștenirea culturală a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        40.235279,
+                        37.906511
+                  ]
+            },
+            {
+                  "name": "İbrahim Bey Camii",
+                  "text": "Un lăcaș de cult tradițional din Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.239735,
+                        37.912621
+                  ]
+            },
+            {
+                  "name": "Hacı Büzrük Camii",
+                  "text": "Un monument religios istoric din Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.237804,
+                        37.914347
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Keçi Burcu",
+                  "text": "A distinctive bastion of the historical city walls of Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.236874,
+                        37.905454
+                  ]
+            },
+            {
+                  "name": "Gazi Pavillion",
+                  "text": "A historical mansion that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        40.228655,
+                        37.89509
+                  ]
+            },
+            {
+                  "name": "Cahit Sıtkı Tarancı Museum",
+                  "text": "A museum located in the former home of the famous poet Tarancı.",
+                  "category": "museum",
+                  "coords": [
+                        40.235659,
+                        37.913228
+                  ]
+            },
+            {
+                  "name": "Diyarbakır Archaeological Museum",
+                  "text": "A museum displaying artifacts from the long history of the region.",
+                  "category": "museum",
+                  "coords": [
+                        40.242706,
+                        37.915483
+                  ]
+            },
+            {
+                  "name": "Benu-Sen (Ulu Beden-Evli Beden) Burcu",
+                  "text": "Part of the impressive fortifications of Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.226532,
+                        37.906675
+                  ]
+            },
+            {
+                  "name": "Yedi Kardeş Burcu",
+                  "text": "A historical bastion of the city walls of Diyarbakır.",
+                  "category": "castle",
+                  "coords": [
+                        40.230497,
+                        37.904533
+                  ]
+            },
+            {
+                  "name": "Diyarbakır Cezaevi Kent Müzesi",
+                  "text": "A former prison converted into a city museum.",
+                  "category": "museum",
+                  "coords": [
+                        40.241743,
+                        37.916069
+                  ]
+            },
+            {
+                  "name": "Amida Mound",
+                  "text": "A settlement mound with remains of early civilizations in Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.240775,
+                        37.915589
+                  ]
+            },
+            {
+                  "name": "Şehir Tiyatroları",
+                  "text": "A cultural center for performing arts in Diyarbakır.",
+                  "category": "cultural",
+                  "coords": [
+                        40.224438,
+                        37.91222
+                  ]
+            },
+            {
+                  "name": "Dengbêj Evi",
+                  "text": "A place dedicated to the Kurdish Dengbêj storytelling tradition.",
+                  "category": "landmark",
+                  "coords": [
+                        40.234176,
+                        37.909998
+                  ]
+            },
+            {
+                  "name": "Koşuyolu Parkı",
+                  "text": "A public park for recreation and leisure in Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.214476,
+                        37.923642
+                  ]
+            },
+            {
+                  "name": "Anıt Park",
+                  "text": "An urban park featuring monuments in Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.224231,
+                        37.916679
+                  ]
+            },
+            {
+                  "name": "Sümer pak",
+                  "text": "A green area in the urban area of Diyarbakır.",
+                  "category": "park",
+                  "coords": [
+                        40.218522,
+                        37.911588
+                  ]
+            },
+            {
+                  "name": "Deva Hamamı",
+                  "text": "The ruins of a historical bathhouse in Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.235918,
+                        37.909132
+                  ]
+            },
+            {
+                  "name": "Dört Ayaklı Minare",
+                  "text": "A unique minaret standing on four columns.",
+                  "category": "landmark",
+                  "coords": [
+                        40.237782,
+                        37.910697
+                  ]
+            },
+            {
+                  "name": "Sevgi Anıtı",
+                  "text": "A local monument in the city of Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.236752,
+                        37.911038
+                  ]
+            },
+            {
+                  "name": "Cam Teras",
+                  "text": "An observation deck in Diyarbakır.",
+                  "category": "natural",
+                  "coords": [
+                        40.244161,
+                        37.91464
+                  ]
+            },
+            {
+                  "name": "can go up, but very dirty and dangerous (better do not climb)",
+                  "text": "Historical remains in Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.230969,
+                        37.914819
+                  ]
+            },
+            {
+                  "name": "Harabeler",
+                  "text": "Historical ruins in the vicinity of Diyarbakır.",
+                  "category": "historical",
+                  "coords": [
+                        40.243366,
+                        37.911031
+                  ]
+            },
+            {
+                  "name": "Virgin Mary Syriac Church",
+                  "text": "An ancient Syriac Orthodox church in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.230646,
+                        37.908916
+                  ]
+            },
+            {
+                  "name": "Surp Sarkis Ermeni Ortodoks Kilisesi",
+                  "text": "An important Armenian church in the historical district of Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.232638,
+                        37.9074
+                  ]
+            },
+            {
+                  "name": "Surp Giragos Church",
+                  "text": "A significant historic Armenian Apostolic church in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.238716,
+                        37.910826
+                  ]
+            },
+            {
+                  "name": "Mervani Mescidi",
+                  "text": "A small historic house of prayer in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.2367,
+                        37.916252
+                  ]
+            },
+            {
+                  "name": "Parli Safa Mosque",
+                  "text": "An elegant historic mosque known for its fine stonework.",
+                  "category": "religious",
+                  "coords": [
+                        40.232391,
+                        37.911518
+                  ]
+            },
+            {
+                  "name": "Melek Ahmed Pasha Mosque",
+                  "text": "An impressive 16th-century Ottoman mosque.",
+                  "category": "religious",
+                  "coords": [
+                        40.230324,
+                        37.91082
+                  ]
+            },
+            {
+                  "name": "Nebî Camii",
+                  "text": "A historic mosque located near the old city walls.",
+                  "category": "religious",
+                  "coords": [
+                        40.236494,
+                        37.915127
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "The city's first Ottoman mosque, known for its lead-covered domes.",
+                  "category": "religious",
+                  "coords": [
+                        40.241432,
+                        37.91161
+                  ]
+            },
+            {
+                  "name": "İskender Paşa Camii",
+                  "text": "A mosque built in the 16th century for Governor İskender Pasha.",
+                  "category": "religious",
+                  "coords": [
+                        40.23326,
+                        37.913492
+                  ]
+            },
+            {
+                  "name": "Nasuh Paşa Cami",
+                  "text": "A historic 17th-century Ottoman mosque.",
+                  "category": "religious",
+                  "coords": [
+                        40.241701,
+                        37.913438
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Mosque",
+                  "text": "A classic Ottoman mosque built in the 16th century.",
+                  "category": "religious",
+                  "coords": [
+                        40.23067,
+                        37.905756
+                  ]
+            },
+            {
+                  "name": "Kadı Camii",
+                  "text": "A historic religious structure in the Sur district.",
+                  "category": "religious",
+                  "coords": [
+                        40.238586,
+                        37.912397
+                  ]
+            },
+            {
+                  "name": "Arap Şeyh Camii",
+                  "text": "A local Islamic place of worship in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.243459,
+                        37.909403
+                  ]
+            },
+            {
+                  "name": "Ayn Minare Cami",
+                  "text": "A historic mosque named after its distinctive minaret.",
+                  "category": "religious",
+                  "coords": [
+                        40.23411,
+                        37.908077
+                  ]
+            },
+            {
+                  "name": "Hançeri Güzar Camii",
+                  "text": "A traditional mosque in the historic center.",
+                  "category": "religious",
+                  "coords": [
+                        40.229531,
+                        37.908439
+                  ]
+            },
+            {
+                  "name": "Sinoğlu Camii",
+                  "text": "A small historic mosque with traditional local architecture.",
+                  "category": "religious",
+                  "coords": [
+                        40.234863,
+                        37.911215
+                  ]
+            },
+            {
+                  "name": "Ömer Şeddat Camii",
+                  "text": "A historic mosque that is part of the city's cultural heritage.",
+                  "category": "religious",
+                  "coords": [
+                        40.235279,
+                        37.906511
+                  ]
+            },
+            {
+                  "name": "İbrahim Bey Camii",
+                  "text": "A traditional place of worship in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.239735,
+                        37.912621
+                  ]
+            },
+            {
+                  "name": "Hacı Büzrük Camii",
+                  "text": "A historic religious monument in Diyarbakır.",
+                  "category": "religious",
+                  "coords": [
+                        40.237804,
+                        37.914347
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-21",
     coords: [40.2306, 37.9144],
@@ -610,6 +7639,159 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         36.337192,
                         41.315656
                   ]
+            },
+            {
+                  "name": "Gazi Müzesi",
+                  "text": "Gazi Müzesi ist ein Museum in Samsun, das dem Gründer der modernen Türkei, Mustafa Kemal Atatürk, gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        36.332389,
+                        41.290167
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Aquapark ist ein Wasser- und Freizeitpark in der Stadt Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.354017,
+                        41.281317
+                  ]
+            },
+            {
+                  "name": "Museum of Samsun",
+                  "text": "Das Museum of Samsun ist ein Museum in der Stadt Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.337592,
+                        41.29102
+                  ]
+            },
+            {
+                  "name": "Samsun Kent Müzesi",
+                  "text": "Samsun Kent Müzesi ist ein Museum, das sich mit der Stadtgeschichte von Samsun befasst.",
+                  "category": "museum",
+                  "coords": [
+                        36.339829,
+                        41.286453
+                  ]
+            },
+            {
+                  "name": "Samsun Müzesi",
+                  "text": "Samsun Müzesi ist ein Kulturmuseum in der Stadt Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.334285,
+                        41.306848
+                  ]
+            },
+            {
+                  "name": "Millet Bahçesi",
+                  "text": "Millet Bahçesi ist ein öffentlicher Park mit Grünflächen in der Stadt Samsun.",
+                  "category": "park",
+                  "coords": [
+                        36.356011,
+                        41.26998
+                  ]
+            },
+            {
+                  "name": "Tütün İskelesi",
+                  "text": "Tütün İskelesi ist ein historischer Pier und eine lokale Sehenswürdigkeit in Samsun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.340475,
+                        41.293001
+                  ]
+            },
+            {
+                  "name": "Sonart Akademi",
+                  "text": "Sonart Akademi ist ein Kunst- und Kulturzentrum in Samsun.",
+                  "category": "cultural",
+                  "coords": [
+                        36.314812,
+                        41.310076
+                  ]
+            },
+            {
+                  "name": "Site Camii",
+                  "text": "Site Camii ist eine bekannte Andachtsstätte in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.334666,
+                        41.288345
+                  ]
+            },
+            {
+                  "name": "Büyük Camii",
+                  "text": "Büyük Camii, auch bekannt als die Große Moschee, ist eine bedeutende historische Andachtsstätte in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.332657,
+                        41.294383
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "Kurşunlu Camii ist eine lokale Andachtsstätte in der Stadt Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.328935,
+                        41.293315
+                  ]
+            },
+            {
+                  "name": "Kılıçdede Camii",
+                  "text": "Kılıçdede Camii ist eine Andachtsstätte in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.348905,
+                        41.27978
+                  ]
+            },
+            {
+                  "name": "Yalı Camii",
+                  "text": "Yalı Camii ist eine Andachtsstätte in der Stadt Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.332056,
+                        41.29654
+                  ]
+            },
+            {
+                  "name": "Pazar Cami",
+                  "text": "Pazar Cami ist eine bekannte Andachtsstätte im Zentrum von Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.331182,
+                        41.294621
+                  ]
+            },
+            {
+                  "name": "Hançerli Camii",
+                  "text": "Hançerli Camii ist eine aktive und historisch bedeutsame Andachtsstätte in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.330403,
+                        41.297186
+                  ]
+            },
+            {
+                  "name": "İsa Baba Cami",
+                  "text": "İsa Baba Cami ist eine Andachtsstätte in der Stadt Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.330852,
+                        41.30736
+                  ]
+            },
+            {
+                  "name": "Seyyid Kutbiddi Camii",
+                  "text": "Seyyid Kutbiddi Camii ist eine lokale Andachtsstätte in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.32628,
+                        41.294625
+                  ]
             }
       ],
       "hu": [
@@ -629,6 +7811,159 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         36.337192,
                         41.315656
+                  ]
+            },
+            {
+                  "name": "Gazi Müzesi",
+                  "text": "A Gazi Müzesi a modern Törökország alapítójának, Mustafa Kemal Atatürknek szentelt múzeum Samsunban.",
+                  "category": "museum",
+                  "coords": [
+                        36.332389,
+                        41.290167
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Az Aquapark egy szórakoztató vízi park Samsun városában.",
+                  "category": "recreational",
+                  "coords": [
+                        36.354017,
+                        41.281317
+                  ]
+            },
+            {
+                  "name": "Museum of Samsun",
+                  "text": "A Museum of Samsun egy múzeum Samsun városában.",
+                  "category": "museum",
+                  "coords": [
+                        36.337592,
+                        41.29102
+                  ]
+            },
+            {
+                  "name": "Samsun Kent Müzesi",
+                  "text": "A Samsun Kent Müzesi Samsun város történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        36.339829,
+                        41.286453
+                  ]
+            },
+            {
+                  "name": "Samsun Müzesi",
+                  "text": "A Samsun Müzesi egy kulturális múzeum Samsun városában.",
+                  "category": "museum",
+                  "coords": [
+                        36.334285,
+                        41.306848
+                  ]
+            },
+            {
+                  "name": "Millet Bahçesi",
+                  "text": "A Millet Bahçesi egy közpark zöldövezettel Samsun városában.",
+                  "category": "park",
+                  "coords": [
+                        36.356011,
+                        41.26998
+                  ]
+            },
+            {
+                  "name": "Tütün İskelesi",
+                  "text": "A Tütün İskelesi egy történelmi móló és helyi látványosság Samsunban.",
+                  "category": "landmark",
+                  "coords": [
+                        36.340475,
+                        41.293001
+                  ]
+            },
+            {
+                  "name": "Sonart Akademi",
+                  "text": "A Sonart Akademi egy művészeti és kulturális központ Samsunban.",
+                  "category": "cultural",
+                  "coords": [
+                        36.314812,
+                        41.310076
+                  ]
+            },
+            {
+                  "name": "Site Camii",
+                  "text": "A Site Camii egy jól ismert istentiszteleti hely Samsunban.",
+                  "category": "religious",
+                  "coords": [
+                        36.334666,
+                        41.288345
+                  ]
+            },
+            {
+                  "name": "Büyük Camii",
+                  "text": "A Büyük Camii, vagyis a Nagymecset, egy kiemelkedő történelmi istentiszteleti hely Samsunban.",
+                  "category": "religious",
+                  "coords": [
+                        36.332657,
+                        41.294383
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "A Kurşunlu Camii egy helyi istentiszteleti hely Samsun városában.",
+                  "category": "religious",
+                  "coords": [
+                        36.328935,
+                        41.293315
+                  ]
+            },
+            {
+                  "name": "Kılıçdede Camii",
+                  "text": "A Kılıçdede Camii egy istentiszteleti hely Samsunban.",
+                  "category": "religious",
+                  "coords": [
+                        36.348905,
+                        41.27978
+                  ]
+            },
+            {
+                  "name": "Yalı Camii",
+                  "text": "A Yalı Camii egy istentiszteleti hely Samsun városában.",
+                  "category": "religious",
+                  "coords": [
+                        36.332056,
+                        41.29654
+                  ]
+            },
+            {
+                  "name": "Pazar Cami",
+                  "text": "A Pazar Cami egy jelentős istentiszteleti hely Samsun központjában.",
+                  "category": "religious",
+                  "coords": [
+                        36.331182,
+                        41.294621
+                  ]
+            },
+            {
+                  "name": "Hançerli Camii",
+                  "text": "A Hançerli Camii egy aktív és történelmileg jelentős istentiszteleti hely Samsunban.",
+                  "category": "religious",
+                  "coords": [
+                        36.330403,
+                        41.297186
+                  ]
+            },
+            {
+                  "name": "İsa Baba Cami",
+                  "text": "Az İsa Baba Cami egy istentiszteleti hely Samsun városában.",
+                  "category": "religious",
+                  "coords": [
+                        36.330852,
+                        41.30736
+                  ]
+            },
+            {
+                  "name": "Seyyid Kutbiddi Camii",
+                  "text": "A Seyyid Kutbiddi Camii egy helyi istentiszteleti hely Samsunban.",
+                  "category": "religious",
+                  "coords": [
+                        36.32628,
+                        41.294625
                   ]
             }
       ],
@@ -650,6 +7985,159 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         36.337192,
                         41.315656
                   ]
+            },
+            {
+                  "name": "Gazi Müzesi",
+                  "text": "Gazi Müzesi este un muzeu din Samsun dedicat fondatorului Turciei moderne, Mustafa Kemal Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        36.332389,
+                        41.290167
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Aquapark este un parc acvatic de agrement situat în orașul Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.354017,
+                        41.281317
+                  ]
+            },
+            {
+                  "name": "Museum of Samsun",
+                  "text": "Museum of Samsun este un muzeu situat în orașul Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.337592,
+                        41.29102
+                  ]
+            },
+            {
+                  "name": "Samsun Kent Müzesi",
+                  "text": "Samsun Kent Müzesi este un muzeu axat pe istoria urbană a orașului Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.339829,
+                        41.286453
+                  ]
+            },
+            {
+                  "name": "Samsun Müzesi",
+                  "text": "Samsun Müzesi este un muzeu cultural situat în orașul Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.334285,
+                        41.306848
+                  ]
+            },
+            {
+                  "name": "Millet Bahçesi",
+                  "text": "Millet Bahçesi este un parc public care oferă spații verzi în orașul Samsun.",
+                  "category": "park",
+                  "coords": [
+                        36.356011,
+                        41.26998
+                  ]
+            },
+            {
+                  "name": "Tütün İskelesi",
+                  "text": "Tütün İskelesi este un debarcader istoric și o atracție locală în Samsun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.340475,
+                        41.293001
+                  ]
+            },
+            {
+                  "name": "Sonart Akademi",
+                  "text": "Sonart Akademi este un centru de arte și cultură situat în Samsun.",
+                  "category": "cultural",
+                  "coords": [
+                        36.314812,
+                        41.310076
+                  ]
+            },
+            {
+                  "name": "Site Camii",
+                  "text": "Site Camii este un cunoscut lăcaș de cult situat în Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.334666,
+                        41.288345
+                  ]
+            },
+            {
+                  "name": "Büyük Camii",
+                  "text": "Büyük Camii, cunoscută și sub numele de Marea Moschee, este un lăcaș de cult istoric proeminent din Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.332657,
+                        41.294383
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "Kurşunlu Camii este un lăcaș de cult local din orașul Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.328935,
+                        41.293315
+                  ]
+            },
+            {
+                  "name": "Kılıçdede Camii",
+                  "text": "Kılıçdede Camii este un lăcaș de cult situat în Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.348905,
+                        41.27978
+                  ]
+            },
+            {
+                  "name": "Yalı Camii",
+                  "text": "Yalı Camii este un lăcaș de cult situat în orașul Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.332056,
+                        41.29654
+                  ]
+            },
+            {
+                  "name": "Pazar Cami",
+                  "text": "Pazar Cami este un lăcaș de cult important situat central în Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.331182,
+                        41.294621
+                  ]
+            },
+            {
+                  "name": "Hançerli Camii",
+                  "text": "Hançerli Camii este un lăcaș de cult activ și cu semnificație istorică din Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.330403,
+                        41.297186
+                  ]
+            },
+            {
+                  "name": "İsa Baba Cami",
+                  "text": "İsa Baba Cami este un lăcaș de cult situat în orașul Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.330852,
+                        41.30736
+                  ]
+            },
+            {
+                  "name": "Seyyid Kutbiddi Camii",
+                  "text": "Seyyid Kutbiddi Camii este un lăcaș de cult local din Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.32628,
+                        41.294625
+                  ]
             }
       ],
       "en": [
@@ -669,6 +8157,159 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         36.337192,
                         41.315656
+                  ]
+            },
+            {
+                  "name": "Gazi Müzesi",
+                  "text": "Gazi Müzesi is a museum in Samsun dedicated to the founder of modern Turkey, Mustafa Kemal Atatürk.",
+                  "category": "museum",
+                  "coords": [
+                        36.332389,
+                        41.290167
+                  ]
+            },
+            {
+                  "name": "Aquapark",
+                  "text": "Aquapark is a recreational water park located in the city of Samsun.",
+                  "category": "recreational",
+                  "coords": [
+                        36.354017,
+                        41.281317
+                  ]
+            },
+            {
+                  "name": "Museum of Samsun",
+                  "text": "The Museum of Samsun is a museum situated in the city of Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.337592,
+                        41.29102
+                  ]
+            },
+            {
+                  "name": "Samsun Kent Müzesi",
+                  "text": "Samsun Kent Müzesi is a museum focused on the urban history of Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.339829,
+                        41.286453
+                  ]
+            },
+            {
+                  "name": "Samsun Müzesi",
+                  "text": "Samsun Müzesi is a cultural museum located in the city of Samsun.",
+                  "category": "museum",
+                  "coords": [
+                        36.334285,
+                        41.306848
+                  ]
+            },
+            {
+                  "name": "Millet Bahçesi",
+                  "text": "Millet Bahçesi is a public park offering green spaces in the city of Samsun.",
+                  "category": "park",
+                  "coords": [
+                        36.356011,
+                        41.26998
+                  ]
+            },
+            {
+                  "name": "Tütün İskelesi",
+                  "text": "Tütün İskelesi is a historic pier and local attraction in Samsun.",
+                  "category": "landmark",
+                  "coords": [
+                        36.340475,
+                        41.293001
+                  ]
+            },
+            {
+                  "name": "Sonart Akademi",
+                  "text": "Sonart Akademi is a center for arts and culture situated in Samsun.",
+                  "category": "cultural",
+                  "coords": [
+                        36.314812,
+                        41.310076
+                  ]
+            },
+            {
+                  "name": "Site Camii",
+                  "text": "Site Camii is a well-known place of worship located in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.334666,
+                        41.288345
+                  ]
+            },
+            {
+                  "name": "Büyük Camii",
+                  "text": "Büyük Camii, also known as the Great Mosque, is a prominent historic place of worship in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.332657,
+                        41.294383
+                  ]
+            },
+            {
+                  "name": "Kurşunlu Camii",
+                  "text": "Kurşunlu Camii is a local place of worship in the city of Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.328935,
+                        41.293315
+                  ]
+            },
+            {
+                  "name": "Kılıçdede Camii",
+                  "text": "Kılıçdede Camii is a place of worship located in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.348905,
+                        41.27978
+                  ]
+            },
+            {
+                  "name": "Yalı Camii",
+                  "text": "Yalı Camii is a place of worship situated in the city of Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.332056,
+                        41.29654
+                  ]
+            },
+            {
+                  "name": "Pazar Cami",
+                  "text": "Pazar Cami is a notable place of worship centrally located in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.331182,
+                        41.294621
+                  ]
+            },
+            {
+                  "name": "Hançerli Camii",
+                  "text": "Hançerli Camii is an active and historically significant place of worship in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.330403,
+                        41.297186
+                  ]
+            },
+            {
+                  "name": "İsa Baba Cami",
+                  "text": "İsa Baba Cami is a place of worship located in the city of Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.330852,
+                        41.30736
+                  ]
+            },
+            {
+                  "name": "Seyyid Kutbiddi Camii",
+                  "text": "Seyyid Kutbiddi Camii is a local place of worship in Samsun.",
+                  "category": "religious",
+                  "coords": [
+                        36.32628,
+                        41.294625
                   ]
             }
       ]
@@ -708,7 +8349,376 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "denizli-cities-v2",
+    id: "denizli-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Atatürk ve Etnografya Müzesi",
+                  "text": "Museum im ehemaligen Wohnhaus Atatürks, das lokale Kultur und Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        29.085058,
+                        37.783011
+                  ]
+            },
+            {
+                  "name": "Denizli Müzik ve Sahne Sanatları Derneği (DEMSAD)",
+                  "text": "Ein Veranstaltungsort für Musik- und Theateraufführungen in Denizli.",
+                  "category": "cultural",
+                  "coords": [
+                        29.090999,
+                        37.762541
+                  ]
+            },
+            {
+                  "name": "Yılmazlar Lunapark",
+                  "text": "Ein lokaler Freizeitpark mit Attraktionen für Kinder in Denizli.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107072,
+                        37.760117
+                  ]
+            },
+            {
+                  "name": "Çatalçeşme Oda Tiyatrosu",
+                  "text": "Ein Kammertheater in Denizli, das lokale Schauspielkunst präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        29.086584,
+                        37.771247
+                  ]
+            },
+            {
+                  "name": "Ziya Tıkıroğlu Sanat Merkezi",
+                  "text": "Ein Kulturzentrum in Denizli für künstlerische Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        29.084807,
+                        37.751466
+                  ]
+            },
+            {
+                  "name": "DBB Turan Bahadır Sergi Salonu",
+                  "text": "Eine städtische Galerie, die wechselnde Kunstausstellungen in Denizli zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        29.086427,
+                        37.773291
+                  ]
+            },
+            {
+                  "name": "Orhun Abideleri",
+                  "text": "Ein Denkmal in Denizli, das den antiken Orchon-Runen gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        29.099068,
+                        37.761131
+                  ]
+            },
+            {
+                  "name": "Allı Cami",
+                  "text": "Eine kleine Moschee für Gläubige in der Stadt Denizli.",
+                  "category": "religious",
+                  "coords": [
+                        29.093591,
+                        37.768815
+                  ]
+            },
+            {
+                  "name": "Denizli Ulu Cami",
+                  "text": "Die Hauptmoschee von Denizli, ein zentraler Ort des Gebets.",
+                  "category": "religious",
+                  "coords": [
+                        29.086371,
+                        37.782858
+                  ]
+            },
+            {
+                  "name": "Bayramyeri Cami",
+                  "text": "Eine Moschee im belebten Viertel Bayramyeri in Denizli.",
+                  "category": "religious",
+                  "coords": [
+                        29.083659,
+                        37.784728
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Atatürk ve Etnografya Müzesi",
+                  "text": "Atatürk egykori lakóházában berendezett múzeum, amely a helyi kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        29.085058,
+                        37.783011
+                  ]
+            },
+            {
+                  "name": "Denizli Müzik ve Sahne Sanatları Derneği (DEMSAD)",
+                  "text": "Zenei és színházi előadások helyszíne Denizliben.",
+                  "category": "cultural",
+                  "coords": [
+                        29.090999,
+                        37.762541
+                  ]
+            },
+            {
+                  "name": "Yılmazlar Lunapark",
+                  "text": "Helyi vidámpark gyermekjátékokkal Denizliben.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107072,
+                        37.760117
+                  ]
+            },
+            {
+                  "name": "Çatalçeşme Oda Tiyatrosu",
+                  "text": "Kamaraszínház Denizliben, amely helyi darabokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        29.086584,
+                        37.771247
+                  ]
+            },
+            {
+                  "name": "Ziya Tıkıroğlu Sanat Merkezi",
+                  "text": "Művészeti központ Denizliben, kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        29.084807,
+                        37.751466
+                  ]
+            },
+            {
+                  "name": "DBB Turan Bahadır Sergi Salonu",
+                  "text": "Városi galéria, amely időszaki művészeti kiállításoknak ad otthont Denizliben.",
+                  "category": "museum",
+                  "coords": [
+                        29.086427,
+                        37.773291
+                  ]
+            },
+            {
+                  "name": "Orhun Abideleri",
+                  "text": "Az ősi Orhon-feliratoknak szentelt emlékmű Denizliben.",
+                  "category": "historical",
+                  "coords": [
+                        29.099068,
+                        37.761131
+                  ]
+            },
+            {
+                  "name": "Allı Cami",
+                  "text": "Kisebb mecset a hívők számára Denizli városában.",
+                  "category": "religious",
+                  "coords": [
+                        29.093591,
+                        37.768815
+                  ]
+            },
+            {
+                  "name": "Denizli Ulu Cami",
+                  "text": "Denizli központi nagymecsetje, a hitélet fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        29.086371,
+                        37.782858
+                  ]
+            },
+            {
+                  "name": "Bayramyeri Cami",
+                  "text": "Mecset Denizli forgalmas Bayramyeri negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        29.083659,
+                        37.784728
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Atatürk ve Etnografya Müzesi",
+                  "text": "Muzeu situat în fosta reședință a lui Atatürk, prezentând cultura și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        29.085058,
+                        37.783011
+                  ]
+            },
+            {
+                  "name": "Denizli Müzik ve Sahne Sanatları Derneği (DEMSAD)",
+                  "text": "O locație pentru spectacole de muzică și teatru în Denizli.",
+                  "category": "cultural",
+                  "coords": [
+                        29.090999,
+                        37.762541
+                  ]
+            },
+            {
+                  "name": "Yılmazlar Lunapark",
+                  "text": "Un parc de distracții local cu atracții pentru copii în Denizli.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107072,
+                        37.760117
+                  ]
+            },
+            {
+                  "name": "Çatalçeşme Oda Tiyatrosu",
+                  "text": "Un teatru de cameră din Denizli care prezintă piese locale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.086584,
+                        37.771247
+                  ]
+            },
+            {
+                  "name": "Ziya Tıkıroğlu Sanat Merkezi",
+                  "text": "Un centru de artă din Denizli pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        29.084807,
+                        37.751466
+                  ]
+            },
+            {
+                  "name": "DBB Turan Bahadır Sergi Salonu",
+                  "text": "O galerie municipală care găzduiește expoziții de artă temporare în Denizli.",
+                  "category": "museum",
+                  "coords": [
+                        29.086427,
+                        37.773291
+                  ]
+            },
+            {
+                  "name": "Orhun Abideleri",
+                  "text": "Un monument din Denizli dedicat inscripțiilor antice din Orhon.",
+                  "category": "historical",
+                  "coords": [
+                        29.099068,
+                        37.761131
+                  ]
+            },
+            {
+                  "name": "Allı Cami",
+                  "text": "O moschee mică pentru credincioși în orașul Denizli.",
+                  "category": "religious",
+                  "coords": [
+                        29.093591,
+                        37.768815
+                  ]
+            },
+            {
+                  "name": "Denizli Ulu Cami",
+                  "text": "Marea moschee din Denizli, un loc central de rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        29.086371,
+                        37.782858
+                  ]
+            },
+            {
+                  "name": "Bayramyeri Cami",
+                  "text": "O moschee situată în cartierul animat Bayramyeri din Denizli.",
+                  "category": "religious",
+                  "coords": [
+                        29.083659,
+                        37.784728
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Atatürk ve Etnografya Müzesi",
+                  "text": "Museum housed in Atatürk's former residence, showcasing local culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        29.085058,
+                        37.783011
+                  ]
+            },
+            {
+                  "name": "Denizli Müzik ve Sahne Sanatları Derneği (DEMSAD)",
+                  "text": "A venue for music and performing arts in Denizli.",
+                  "category": "cultural",
+                  "coords": [
+                        29.090999,
+                        37.762541
+                  ]
+            },
+            {
+                  "name": "Yılmazlar Lunapark",
+                  "text": "A local amusement park with attractions for children in Denizli.",
+                  "category": "recreational",
+                  "coords": [
+                        29.107072,
+                        37.760117
+                  ]
+            },
+            {
+                  "name": "Çatalçeşme Oda Tiyatrosu",
+                  "text": "A chamber theater in Denizli presenting local plays.",
+                  "category": "cultural",
+                  "coords": [
+                        29.086584,
+                        37.771247
+                  ]
+            },
+            {
+                  "name": "Ziya Tıkıroğlu Sanat Merkezi",
+                  "text": "An arts center in Denizli for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        29.084807,
+                        37.751466
+                  ]
+            },
+            {
+                  "name": "DBB Turan Bahadır Sergi Salonu",
+                  "text": "A municipal gallery hosting rotating art exhibitions in Denizli.",
+                  "category": "museum",
+                  "coords": [
+                        29.086427,
+                        37.773291
+                  ]
+            },
+            {
+                  "name": "Orhun Abideleri",
+                  "text": "A monument in Denizli dedicated to the ancient Orkhon inscriptions.",
+                  "category": "historical",
+                  "coords": [
+                        29.099068,
+                        37.761131
+                  ]
+            },
+            {
+                  "name": "Allı Cami",
+                  "text": "A small mosque for worshippers in the city of Denizli.",
+                  "category": "religious",
+                  "coords": [
+                        29.093591,
+                        37.768815
+                  ]
+            },
+            {
+                  "name": "Denizli Ulu Cami",
+                  "text": "The grand mosque of Denizli, a central place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        29.086371,
+                        37.782858
+                  ]
+            },
+            {
+                  "name": "Bayramyeri Cami",
+                  "text": "A mosque located in the busy Bayramyeri district of Denizli.",
+                  "category": "religious",
+                  "coords": [
+                        29.083659,
+                        37.784728
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-20",
     coords: [29.0886, 37.7765],
@@ -780,7 +8790,232 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "adapazari-cities-v2",
+    id: "adapazari-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Deprem Müzesi",
+                  "text": "Deprem Müzesi ist ein Museum in Adapazarı, das sich dem Bewusstsein für Erdbeben und der regionalen seismischen Geschichte widmet.",
+                  "category": "museum",
+                  "coords": [
+                        30.402418,
+                        40.77719
+                  ]
+            },
+            {
+                  "name": "Orhan Camii",
+                  "text": "Orhan Camii ist eine bekannte historische Andachtsstätte in Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.400426,
+                        40.779028
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Yeni Cami ist eine Andachtsstätte in der Stadt Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.4042,
+                        40.77289
+                  ]
+            },
+            {
+                  "name": "Ağa Camii",
+                  "text": "Ağa Camii ist eine lokale Andachtsstätte in Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.400591,
+                        40.780693
+                  ]
+            },
+            {
+                  "name": "Şerefiye Camii",
+                  "text": "Şerefiye Camii ist eine Andachtsstätte in Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.395735,
+                        40.777749
+                  ]
+            },
+            {
+                  "name": "Orta Camii",
+                  "text": "Orta Camii fungiert als Andachtsstätte in der Stadt Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.401496,
+                        40.779586
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Deprem Müzesi",
+                  "text": "A Deprem Müzesi egy földrengésekkel és a regionális szeizmikus történelemmel foglalkozó múzeum Adapazarıban.",
+                  "category": "museum",
+                  "coords": [
+                        30.402418,
+                        40.77719
+                  ]
+            },
+            {
+                  "name": "Orhan Camii",
+                  "text": "Az Orhan Camii egy jelentős történelmi istentiszteleti hely Adapazarıban.",
+                  "category": "religious",
+                  "coords": [
+                        30.400426,
+                        40.779028
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "A Yeni Cami egy istentiszteleti hely Adapazarı városában.",
+                  "category": "religious",
+                  "coords": [
+                        30.4042,
+                        40.77289
+                  ]
+            },
+            {
+                  "name": "Ağa Camii",
+                  "text": "Az Ağa Camii egy helyi istentiszteleti hely Adapazarıban.",
+                  "category": "religious",
+                  "coords": [
+                        30.400591,
+                        40.780693
+                  ]
+            },
+            {
+                  "name": "Şerefiye Camii",
+                  "text": "A Şerefiye Camii egy istentiszteleti hely Adapazarıban.",
+                  "category": "religious",
+                  "coords": [
+                        30.395735,
+                        40.777749
+                  ]
+            },
+            {
+                  "name": "Orta Camii",
+                  "text": "Az Orta Camii istentiszteleti helyként működik Adapazarı városában.",
+                  "category": "religious",
+                  "coords": [
+                        30.401496,
+                        40.779586
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Deprem Müzesi",
+                  "text": "Deprem Müzesi este un muzeu din Adapazarı dedicat conștientizării cutremurelor și istoriei seismice regionale.",
+                  "category": "museum",
+                  "coords": [
+                        30.402418,
+                        40.77719
+                  ]
+            },
+            {
+                  "name": "Orhan Camii",
+                  "text": "Orhan Camii este un lăcaș de cult istoric important situat în Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.400426,
+                        40.779028
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Yeni Cami este un lăcaș de cult situat în orașul Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.4042,
+                        40.77289
+                  ]
+            },
+            {
+                  "name": "Ağa Camii",
+                  "text": "Ağa Camii este un lăcaș de cult local din Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.400591,
+                        40.780693
+                  ]
+            },
+            {
+                  "name": "Şerefiye Camii",
+                  "text": "Şerefiye Camii este un lăcaș de cult situat în Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.395735,
+                        40.777749
+                  ]
+            },
+            {
+                  "name": "Orta Camii",
+                  "text": "Orta Camii funcționează ca un lăcaș de cult în orașul Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.401496,
+                        40.779586
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Deprem Müzesi",
+                  "text": "Deprem Müzesi is a museum in Adapazarı dedicated to earthquake awareness and regional seismic history.",
+                  "category": "museum",
+                  "coords": [
+                        30.402418,
+                        40.77719
+                  ]
+            },
+            {
+                  "name": "Orhan Camii",
+                  "text": "Orhan Camii is a notable historic place of worship located in Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.400426,
+                        40.779028
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Yeni Cami is a place of worship situated in the city of Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.4042,
+                        40.77289
+                  ]
+            },
+            {
+                  "name": "Ağa Camii",
+                  "text": "Ağa Camii is a local place of worship in Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.400591,
+                        40.780693
+                  ]
+            },
+            {
+                  "name": "Şerefiye Camii",
+                  "text": "Şerefiye Camii is a place of worship located in Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.395735,
+                        40.777749
+                  ]
+            },
+            {
+                  "name": "Orta Camii",
+                  "text": "Orta Camii functions as a place of worship in the city of Adapazarı.",
+                  "category": "religious",
+                  "coords": [
+                        30.401496,
+                        40.779586
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-54",
     coords: [30.4056, 40.7811],
@@ -852,7 +9087,844 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "kahramanmaras-cities-v2",
+    id: "kahramanmaras-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kahramanmaraş Kalesi",
+                  "text": "Eine antike Festung auf einem Hügel mit Panoramablick über die Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        36.925424,
+                        37.586979
+                  ]
+            },
+            {
+                  "name": "Edebiyat Müzesi",
+                  "text": "Ein Museum, das dem reichen literarischen Erbe von Kahramanmaraş gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        36.929642,
+                        37.593938
+                  ]
+            },
+            {
+                  "name": "Dondurma Müzesi",
+                  "text": "Ein Museum, das der berühmten traditionellen Speiseeis-Spezialität der Stadt gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        36.92702,
+                        37.584134
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "Ein Museum, das an den Unabhängigkeitskrieg der Stadt erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        36.926936,
+                        37.588858
+                  ]
+            },
+            {
+                  "name": "Germanica",
+                  "text": "Ein Museum, das beeindruckende antike römische Mosaike präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        36.945756,
+                        37.576143
+                  ]
+            },
+            {
+                  "name": "Taş Medrese",
+                  "text": "Eine historische islamische Schule aus Stein mit kunstvoller Architektur.",
+                  "category": "historical",
+                  "coords": [
+                        36.926477,
+                        37.585104
+                  ]
+            },
+            {
+                  "name": "Gölge Sanat Kahramanmaraş",
+                  "text": "Ein lokales Zentrum für darstellende und bildende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        36.930512,
+                        37.577086
+                  ]
+            },
+            {
+                  "name": "Tarihi Çukur Hamamı",
+                  "text": "Ein historisches türkisches Bad, das traditionelle Badekultur bewahrt.",
+                  "category": "landmark",
+                  "coords": [
+                        36.925546,
+                        37.585655
+                  ]
+            },
+            {
+                  "name": "Kahramanmaraş Büyükşehir Belediyesi",
+                  "text": "Das Verwaltungszentrum und Rathaus von Kahramanmaraş.",
+                  "category": "historical",
+                  "coords": [
+                        36.926873,
+                        37.576663
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "Eine moderne und geräumige Moschee in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.924413,
+                        37.580674
+                  ]
+            },
+            {
+                  "name": "Beyazıtlı Cami",
+                  "text": "Ein lokaler Ort des Gebets in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.925149,
+                        37.590025
+                  ]
+            },
+            {
+                  "name": "Divanlı Cami",
+                  "text": "Eine traditionelle Moschee in einem der historischen Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        36.932626,
+                        37.585441
+                  ]
+            },
+            {
+                  "name": "Arasa Cami",
+                  "text": "Eine kleine Moschee im Herzen des Marktviertels.",
+                  "category": "religious",
+                  "coords": [
+                        36.926401,
+                        37.581811
+                  ]
+            },
+            {
+                  "name": "Şeyh Cami",
+                  "text": "Eine traditionelle Moschee, die dem lokalen Gemeindeleben dient.",
+                  "category": "religious",
+                  "coords": [
+                        36.931048,
+                        37.585081
+                  ]
+            },
+            {
+                  "name": "Nakıp Cami",
+                  "text": "Eine ruhige Nachbarschaftsmoschee in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.929102,
+                        37.584948
+                  ]
+            },
+            {
+                  "name": "Çukuroba Cami",
+                  "text": "Ein lokales Zentrum für Gebet und Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        36.930832,
+                        37.587344
+                  ]
+            },
+            {
+                  "name": "Restebaiye Camii",
+                  "text": "Eine kleine Moschee mit regionalem Baustil.",
+                  "category": "religious",
+                  "coords": [
+                        36.927616,
+                        37.590124
+                  ]
+            },
+            {
+                  "name": "Boğazkesen Cami",
+                  "text": "Ein historisches religiöses Gebäude in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.927159,
+                        37.586175
+                  ]
+            },
+            {
+                  "name": "Nuh Cami",
+                  "text": "Eine einfache und friedliche Moschee in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        36.932299,
+                        37.584027
+                  ]
+            },
+            {
+                  "name": "Duraklı Cami",
+                  "text": "Ein lokales islamisches Gotteshaus in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.937225,
+                        37.584477
+                  ]
+            },
+            {
+                  "name": "Şekerli Cami",
+                  "text": "Eine traditionelle Moschee, die für die Anwohner von Bedeutung ist.",
+                  "category": "religious",
+                  "coords": [
+                        36.930839,
+                        37.583398
+                  ]
+            },
+            {
+                  "name": "Hacı Veli Bey Cami",
+                  "text": "Ein historisches Gebetshaus in der Stadt Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.92623,
+                        37.590929
+                  ]
+            },
+            {
+                  "name": "Haznedarlı Cami",
+                  "text": "Eine lokale Moschee mit klassischer Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        36.943325,
+                        37.583789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kahramanmaraş Kalesi",
+                  "text": "Egy dombtetőn lévő ősi erőd, ahonnan panorámás kilátás nyílik a városra.",
+                  "category": "castle",
+                  "coords": [
+                        36.925424,
+                        37.586979
+                  ]
+            },
+            {
+                  "name": "Edebiyat Müzesi",
+                  "text": "Kahramanmaraş gazdag irodalmi örökségének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        36.929642,
+                        37.593938
+                  ]
+            },
+            {
+                  "name": "Dondurma Müzesi",
+                  "text": "A város híres hagyományos fagylaltkülönlegességének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        36.92702,
+                        37.584134
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "A város függetlenségi harcának emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        36.926936,
+                        37.588858
+                  ]
+            },
+            {
+                  "name": "Germanica",
+                  "text": "Lenyűgöző ókori római mozaikokat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        36.945756,
+                        37.576143
+                  ]
+            },
+            {
+                  "name": "Taş Medrese",
+                  "text": "Egy történelmi kőből épült iszlám iskola díszes építészettel.",
+                  "category": "historical",
+                  "coords": [
+                        36.926477,
+                        37.585104
+                  ]
+            },
+            {
+                  "name": "Gölge Sanat Kahramanmaraş",
+                  "text": "Az előadó- és képzőművészetek helyi központja.",
+                  "category": "cultural",
+                  "coords": [
+                        36.930512,
+                        37.577086
+                  ]
+            },
+            {
+                  "name": "Tarihi Çukur Hamamı",
+                  "text": "Egy történelmi törökfürdő, amely őrzi a hagyományos fürdőkultúrát.",
+                  "category": "landmark",
+                  "coords": [
+                        36.925546,
+                        37.585655
+                  ]
+            },
+            {
+                  "name": "Kahramanmaraş Büyükşehir Belediyesi",
+                  "text": "Kahramanmaraş adminisztratív központja és városházája.",
+                  "category": "historical",
+                  "coords": [
+                        36.926873,
+                        37.576663
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "Egy modern és tágas mecset Kahramanmaraşban.",
+                  "category": "religious",
+                  "coords": [
+                        36.924413,
+                        37.580674
+                  ]
+            },
+            {
+                  "name": "Beyazıtlı Cami",
+                  "text": "Egy helyi imádságos hely Kahramanmaraşban.",
+                  "category": "religious",
+                  "coords": [
+                        36.925149,
+                        37.590025
+                  ]
+            },
+            {
+                  "name": "Divanlı Cami",
+                  "text": "Egy hagyományos mecset az egyik történelmi negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        36.932626,
+                        37.585441
+                  ]
+            },
+            {
+                  "name": "Arasa Cami",
+                  "text": "Egy kis mecset a piaci negyed szívében.",
+                  "category": "religious",
+                  "coords": [
+                        36.926401,
+                        37.581811
+                  ]
+            },
+            {
+                  "name": "Şeyh Cami",
+                  "text": "Egy hagyományos mecset, amely a helyi közösségi életet szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        36.931048,
+                        37.585081
+                  ]
+            },
+            {
+                  "name": "Nakıp Cami",
+                  "text": "Egy csendes szomszédsági mecset Kahramanmaraşban.",
+                  "category": "religious",
+                  "coords": [
+                        36.929102,
+                        37.584948
+                  ]
+            },
+            {
+                  "name": "Çukuroba Cami",
+                  "text": "Az imádság és a közösség helyi központja.",
+                  "category": "religious",
+                  "coords": [
+                        36.930832,
+                        37.587344
+                  ]
+            },
+            {
+                  "name": "Restebaiye Camii",
+                  "text": "Egy kis mecset regionális építészeti stílussal.",
+                  "category": "religious",
+                  "coords": [
+                        36.927616,
+                        37.590124
+                  ]
+            },
+            {
+                  "name": "Boğazkesen Cami",
+                  "text": "Egy történelmi vallási épület Kahramanmaraşban.",
+                  "category": "religious",
+                  "coords": [
+                        36.927159,
+                        37.586175
+                  ]
+            },
+            {
+                  "name": "Nuh Cami",
+                  "text": "Egy egyszerű és békés mecset a városban.",
+                  "category": "religious",
+                  "coords": [
+                        36.932299,
+                        37.584027
+                  ]
+            },
+            {
+                  "name": "Duraklı Cami",
+                  "text": "Egy helyi iszlám istentiszteleti hely Kahramanmaraşban.",
+                  "category": "religious",
+                  "coords": [
+                        36.937225,
+                        37.584477
+                  ]
+            },
+            {
+                  "name": "Şekerli Cami",
+                  "text": "Egy hagyományos mecset, amely fontos a helyi lakosok számára.",
+                  "category": "religious",
+                  "coords": [
+                        36.930839,
+                        37.583398
+                  ]
+            },
+            {
+                  "name": "Hacı Veli Bey Cami",
+                  "text": "Egy történelmi imaház Kahramanmaraş városában.",
+                  "category": "religious",
+                  "coords": [
+                        36.92623,
+                        37.590929
+                  ]
+            },
+            {
+                  "name": "Haznedarlı Cami",
+                  "text": "Egy helyi mecset klasszikus belső berendezéssel.",
+                  "category": "religious",
+                  "coords": [
+                        36.943325,
+                        37.583789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kahramanmaraş Kalesi",
+                  "text": "O cetate antică situată pe un deal, oferind o vedere panoramică asupra orașului.",
+                  "category": "castle",
+                  "coords": [
+                        36.925424,
+                        37.586979
+                  ]
+            },
+            {
+                  "name": "Edebiyat Müzesi",
+                  "text": "Un muzeu dedicat bogatei moșteniri literare din Kahramanmaraş.",
+                  "category": "museum",
+                  "coords": [
+                        36.929642,
+                        37.593938
+                  ]
+            },
+            {
+                  "name": "Dondurma Müzesi",
+                  "text": "Un muzeu dedicat celebrei specialități de înghețată tradițională a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        36.92702,
+                        37.584134
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "Un muzeu care comemorează războiul de independență al orașului.",
+                  "category": "museum",
+                  "coords": [
+                        36.926936,
+                        37.588858
+                  ]
+            },
+            {
+                  "name": "Germanica",
+                  "text": "Un muzeu care prezintă mozaicuri romane antice impresionante.",
+                  "category": "museum",
+                  "coords": [
+                        36.945756,
+                        37.576143
+                  ]
+            },
+            {
+                  "name": "Taş Medrese",
+                  "text": "O școală islamică istorică din piatră, cu o arhitectură elaborată.",
+                  "category": "historical",
+                  "coords": [
+                        36.926477,
+                        37.585104
+                  ]
+            },
+            {
+                  "name": "Gölge Sanat Kahramanmaraş",
+                  "text": "Un centru local pentru artele spectacolului și artele vizuale.",
+                  "category": "cultural",
+                  "coords": [
+                        36.930512,
+                        37.577086
+                  ]
+            },
+            {
+                  "name": "Tarihi Çukur Hamamı",
+                  "text": "O baie turcească istorică ce păstrează cultura tradițională a băii.",
+                  "category": "landmark",
+                  "coords": [
+                        36.925546,
+                        37.585655
+                  ]
+            },
+            {
+                  "name": "Kahramanmaraş Büyükşehir Belediyesi",
+                  "text": "Centrul administrativ și primăria din Kahramanmaraş.",
+                  "category": "historical",
+                  "coords": [
+                        36.926873,
+                        37.576663
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "O moschee modernă și spațioasă din Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.924413,
+                        37.580674
+                  ]
+            },
+            {
+                  "name": "Beyazıtlı Cami",
+                  "text": "Un loc local de rugăciune din Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.925149,
+                        37.590025
+                  ]
+            },
+            {
+                  "name": "Divanlı Cami",
+                  "text": "O moschee tradițională într-unul dintre cartierele istorice.",
+                  "category": "religious",
+                  "coords": [
+                        36.932626,
+                        37.585441
+                  ]
+            },
+            {
+                  "name": "Arasa Cami",
+                  "text": "O mică moschee în inima zonei comerciale.",
+                  "category": "religious",
+                  "coords": [
+                        36.926401,
+                        37.581811
+                  ]
+            },
+            {
+                  "name": "Şeyh Cami",
+                  "text": "O moschee tradițională care deservește viața comunității locale.",
+                  "category": "religious",
+                  "coords": [
+                        36.931048,
+                        37.585081
+                  ]
+            },
+            {
+                  "name": "Nakıp Cami",
+                  "text": "O moschee de cartier liniștită din Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.929102,
+                        37.584948
+                  ]
+            },
+            {
+                  "name": "Çukuroba Cami",
+                  "text": "Un centru local pentru rugăciune și comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        36.930832,
+                        37.587344
+                  ]
+            },
+            {
+                  "name": "Restebaiye Camii",
+                  "text": "O mică moschee cu stil arhitectural regional.",
+                  "category": "religious",
+                  "coords": [
+                        36.927616,
+                        37.590124
+                  ]
+            },
+            {
+                  "name": "Boğazkesen Cami",
+                  "text": "O clădire religioasă istorică din Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.927159,
+                        37.586175
+                  ]
+            },
+            {
+                  "name": "Nuh Cami",
+                  "text": "O moschee simplă și liniștită din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        36.932299,
+                        37.584027
+                  ]
+            },
+            {
+                  "name": "Duraklı Cami",
+                  "text": "Un lăcaș de cult islamic local din Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.937225,
+                        37.584477
+                  ]
+            },
+            {
+                  "name": "Şekerli Cami",
+                  "text": "O moschee tradițională, importantă pentru locuitorii zonei.",
+                  "category": "religious",
+                  "coords": [
+                        36.930839,
+                        37.583398
+                  ]
+            },
+            {
+                  "name": "Hacı Veli Bey Cami",
+                  "text": "O casă de rugăciune istorică din orașul Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.92623,
+                        37.590929
+                  ]
+            },
+            {
+                  "name": "Haznedarlı Cami",
+                  "text": "O moschee locală cu decor interior clasic.",
+                  "category": "religious",
+                  "coords": [
+                        36.943325,
+                        37.583789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kahramanmaraş Kalesi",
+                  "text": "An ancient hilltop fortress offering panoramic views of the city.",
+                  "category": "castle",
+                  "coords": [
+                        36.925424,
+                        37.586979
+                  ]
+            },
+            {
+                  "name": "Edebiyat Müzesi",
+                  "text": "A museum dedicated to the rich literary heritage of Kahramanmaraş.",
+                  "category": "museum",
+                  "coords": [
+                        36.929642,
+                        37.593938
+                  ]
+            },
+            {
+                  "name": "Dondurma Müzesi",
+                  "text": "A museum dedicated to the city's famous traditional ice cream specialty.",
+                  "category": "museum",
+                  "coords": [
+                        36.92702,
+                        37.584134
+                  ]
+            },
+            {
+                  "name": "Kurtuluş Müzesi",
+                  "text": "A museum commemorating the city's war of independence.",
+                  "category": "museum",
+                  "coords": [
+                        36.926936,
+                        37.588858
+                  ]
+            },
+            {
+                  "name": "Germanica",
+                  "text": "A museum showcasing impressive ancient Roman mosaics.",
+                  "category": "museum",
+                  "coords": [
+                        36.945756,
+                        37.576143
+                  ]
+            },
+            {
+                  "name": "Taş Medrese",
+                  "text": "A historic stone Islamic school with ornate architecture.",
+                  "category": "historical",
+                  "coords": [
+                        36.926477,
+                        37.585104
+                  ]
+            },
+            {
+                  "name": "Gölge Sanat Kahramanmaraş",
+                  "text": "A local center for performing and visual arts.",
+                  "category": "cultural",
+                  "coords": [
+                        36.930512,
+                        37.577086
+                  ]
+            },
+            {
+                  "name": "Tarihi Çukur Hamamı",
+                  "text": "A historic Turkish bath preserving traditional bathing culture.",
+                  "category": "landmark",
+                  "coords": [
+                        36.925546,
+                        37.585655
+                  ]
+            },
+            {
+                  "name": "Kahramanmaraş Büyükşehir Belediyesi",
+                  "text": "The administrative center and town hall of Kahramanmaraş.",
+                  "category": "historical",
+                  "coords": [
+                        36.926873,
+                        37.576663
+                  ]
+            },
+            {
+                  "name": "Şazibey Camii",
+                  "text": "A modern and spacious mosque in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.924413,
+                        37.580674
+                  ]
+            },
+            {
+                  "name": "Beyazıtlı Cami",
+                  "text": "A local place of prayer in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.925149,
+                        37.590025
+                  ]
+            },
+            {
+                  "name": "Divanlı Cami",
+                  "text": "A traditional mosque in one of the historic neighborhoods.",
+                  "category": "religious",
+                  "coords": [
+                        36.932626,
+                        37.585441
+                  ]
+            },
+            {
+                  "name": "Arasa Cami",
+                  "text": "A small mosque in the heart of the market district.",
+                  "category": "religious",
+                  "coords": [
+                        36.926401,
+                        37.581811
+                  ]
+            },
+            {
+                  "name": "Şeyh Cami",
+                  "text": "A traditional mosque serving the local community life.",
+                  "category": "religious",
+                  "coords": [
+                        36.931048,
+                        37.585081
+                  ]
+            },
+            {
+                  "name": "Nakıp Cami",
+                  "text": "A quiet neighborhood mosque in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.929102,
+                        37.584948
+                  ]
+            },
+            {
+                  "name": "Çukuroba Cami",
+                  "text": "A local center for prayer and community.",
+                  "category": "religious",
+                  "coords": [
+                        36.930832,
+                        37.587344
+                  ]
+            },
+            {
+                  "name": "Restebaiye Camii",
+                  "text": "A small mosque with a regional architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        36.927616,
+                        37.590124
+                  ]
+            },
+            {
+                  "name": "Boğazkesen Cami",
+                  "text": "A historic religious building in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.927159,
+                        37.586175
+                  ]
+            },
+            {
+                  "name": "Nuh Cami",
+                  "text": "A simple and peaceful mosque in the city.",
+                  "category": "religious",
+                  "coords": [
+                        36.932299,
+                        37.584027
+                  ]
+            },
+            {
+                  "name": "Duraklı Cami",
+                  "text": "A local Islamic place of worship in Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.937225,
+                        37.584477
+                  ]
+            },
+            {
+                  "name": "Şekerli Cami",
+                  "text": "A traditional mosque important to the local residents.",
+                  "category": "religious",
+                  "coords": [
+                        36.930839,
+                        37.583398
+                  ]
+            },
+            {
+                  "name": "Hacı Veli Bey Cami",
+                  "text": "A historic house of prayer in the city of Kahramanmaraş.",
+                  "category": "religious",
+                  "coords": [
+                        36.92623,
+                        37.590929
+                  ]
+            },
+            {
+                  "name": "Haznedarlı Cami",
+                  "text": "A local mosque with classic interior decoration.",
+                  "category": "religious",
+                  "coords": [
+                        36.943325,
+                        37.583789
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-46",
     coords: [36.9372, 37.5847],
@@ -888,7 +9960,1168 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "erzurum-cities-v2",
+    id: "erzurum-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Erzurum Kongre Binası",
+                  "text": "Erzurum Kongre Binası ist ein historisches Museum in der Stadt Erzurum.",
+                  "category": "museum",
+                  "coords": [
+                        41.276996,
+                        39.915046
+                  ]
+            },
+            {
+                  "name": "Mecidiye Tabyası",
+                  "text": "Mecidiye Tabyası ist eine bedeutende historische Festungsanlage, die Teil der Erzurum-Schanzen ist.",
+                  "category": "fortress",
+                  "coords": [
+                        41.297248,
+                        39.916475
+                  ]
+            },
+            {
+                  "name": "Yakutiye Medresesi",
+                  "text": "Yakutiye Medrese ist eine historische Madrasa aus dem 14. Jahrhundert in Erzurum, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        41.272073,
+                        39.90641
+                  ]
+            },
+            {
+                  "name": "Erzurum Muzesi",
+                  "text": "Erzurum Muzesi ist ein archäologisches Museum, das die reiche Geschichte der Region Erzurum präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        41.277533,
+                        39.903446
+                  ]
+            },
+            {
+                  "name": "Ahali Tabyası",
+                  "text": "Ahali (People's) Redoubt ist eine historische militärische Befestigungsanlage zur Verteidigung der Stadt Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.303731,
+                        39.900118
+                  ]
+            },
+            {
+                  "name": "Büyük Kiremitlik Tabyası",
+                  "text": "Big Kiremitlik Redoubt ist Teil der bekannten historischen Befestigungsanlagen in Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.257309,
+                        39.892714
+                  ]
+            },
+            {
+                  "name": "Küçük Kiremitlik Tabyası",
+                  "text": "Small Kiremitlik Redoubt ist eine der historischen Verteidigungsfestungen, die in Erzurum errichtet wurden.",
+                  "category": "fortress",
+                  "coords": [
+                        41.264318,
+                        39.895012
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi",
+                  "text": "Atatürk House ist eine Touristenattraktion in der Stadt Erzurum.",
+                  "category": "landmark",
+                  "coords": [
+                        41.268789,
+                        39.906716
+                  ]
+            },
+            {
+                  "name": "Saray hamami bayanlara",
+                  "text": "Saray hamami bayanlara ist eine lokale Sehenswürdigkeit in Erzurum.",
+                  "category": "landmark",
+                  "coords": [
+                        41.279811,
+                        39.904542
+                  ]
+            },
+            {
+                  "name": "Aziziye Anıtı",
+                  "text": "Aziziye Anıtı ist ein Denkmal in der Stadt Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.258838,
+                        39.904263
+                  ]
+            },
+            {
+                  "name": "Bilim Anıtı",
+                  "text": "Bilim Anıtı ist ein lokales Denkmal in Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.247916,
+                        39.900392
+                  ]
+            },
+            {
+                  "name": "Ullu Cami",
+                  "text": "Ullu Cami ist eine bedeutende historische Moschee und Andachtsstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.277724,
+                        39.906034
+                  ]
+            },
+            {
+                  "name": "Caferiye Cami",
+                  "text": "Caferiye Cami ist eine anerkannte Andachtsstätte im Zentrum von Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275418,
+                        39.906421
+                  ]
+            },
+            {
+                  "name": "Murat Paşa Camii",
+                  "text": "Murat Paşa Camii ist eine Andachtsstätte in der Stadt Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.270246,
+                        39.904404
+                  ]
+            },
+            {
+                  "name": "Cennetzade Camii",
+                  "text": "Die Cennetzade Camii ist eine Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275899,
+                        39.904168
+                  ]
+            },
+            {
+                  "name": "Narmanlı cami",
+                  "text": "Die Narmanlı cami ist eine bemerkenswerte Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.279736,
+                        39.905972
+                  ]
+            },
+            {
+                  "name": "Derviş Ağa Camii",
+                  "text": "Die Derviş Ağa Camii ist eine bekannte Kultstätte in der Stadt Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.278857,
+                        39.910137
+                  ]
+            },
+            {
+                  "name": "Gürcükapı Camii",
+                  "text": "Die Gürcükapı Camii ist eine anerkannte Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.273938,
+                        39.911176
+                  ]
+            },
+            {
+                  "name": "Bakırcı Camii",
+                  "text": "Die Bakırcı Camii ist eine bemerkenswerte Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.272605,
+                        39.909034
+                  ]
+            },
+            {
+                  "name": "Şeyhler Camii",
+                  "text": "Die Şeyhler Camii ist eine Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.27329,
+                        39.903256
+                  ]
+            },
+            {
+                  "name": "Vani Efendi Camii",
+                  "text": "Die Vani Efendi Camii ist eine Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.271863,
+                        39.903333
+                  ]
+            },
+            {
+                  "name": "Erzurum Büyükşehir Belediyesi",
+                  "text": "Erzurum Büyükşehir Belediyesi dient als das wichtigste Rathaus der Stadt Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.261674,
+                        39.904599
+                  ]
+            },
+            {
+                  "name": "Hacı İbrahim Baba",
+                  "text": "Hacı İbrahim Baba ist eine lokale Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.277837,
+                        39.899701
+                  ]
+            },
+            {
+                  "name": "Lalapaşa Cami",
+                  "text": "Lalapaşa Cami ist eine Kultstätte in der Stadt Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.273198,
+                        39.906334
+                  ]
+            },
+            {
+                  "name": "Boyahane Camii",
+                  "text": "Die Boyahane Camii ist eine bemerkenswerte Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.272327,
+                        39.907987
+                  ]
+            },
+            {
+                  "name": "Aşağı Mumcu Camii",
+                  "text": "Die Aşağı Mumcu Camii ist eine Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.27003,
+                        39.908406
+                  ]
+            },
+            {
+                  "name": "Sıvırcık Camii",
+                  "text": "Die Sıvırcık Camii dient als Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.281269,
+                        39.905287
+                  ]
+            },
+            {
+                  "name": "Yukarı Habib Efendi Camii",
+                  "text": "Die Yukarı Habib Efendi Camii ist eine Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.28365,
+                        39.90614
+                  ]
+            },
+            {
+                  "name": "Aşağı Habib Efendi Camii",
+                  "text": "Die Aşağı Habib Efendi Camii ist eine Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.280804,
+                        39.906792
+                  ]
+            },
+            {
+                  "name": "Taş Mescit",
+                  "text": "Taş Mescit ist eine Kultstätte in der Stadt Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.282441,
+                        39.907512
+                  ]
+            },
+            {
+                  "name": "Ayazpaşa Camii",
+                  "text": "Die Ayazpaşa Camii ist eine bemerkenswerte historische Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275557,
+                        39.909847
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii, Erzurum",
+                  "text": "Die Ali Paşa Camii ist eine Kultstätte in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.276692,
+                        39.912705
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Erzurum Kongre Binası",
+                  "text": "Az Erzurum Kongre Binası egy történelmi múzeum Erzurum városában.",
+                  "category": "museum",
+                  "coords": [
+                        41.276996,
+                        39.915046
+                  ]
+            },
+            {
+                  "name": "Mecidiye Tabyası",
+                  "text": "A Mecidiye Tabyası egy jelentős történelmi erődítmény, amely az erzurumi redutok része.",
+                  "category": "fortress",
+                  "coords": [
+                        41.297248,
+                        39.916475
+                  ]
+            },
+            {
+                  "name": "Yakutiye Medresesi",
+                  "text": "A Yakutiye Medrese egy történelmi 14. századi medresze Erzurumban, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        41.272073,
+                        39.90641
+                  ]
+            },
+            {
+                  "name": "Erzurum Muzesi",
+                  "text": "Az Erzurum Muzesi egy régészeti múzeum, amely az Erzurum régió gazdag történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        41.277533,
+                        39.903446
+                  ]
+            },
+            {
+                  "name": "Ahali Tabyası",
+                  "text": "Az Ahali (People's) Redoubt egy történelmi katonai erődítmény, amelyet Erzurum városának védelmére építettek.",
+                  "category": "fortress",
+                  "coords": [
+                        41.303731,
+                        39.900118
+                  ]
+            },
+            {
+                  "name": "Büyük Kiremitlik Tabyası",
+                  "text": "A Big Kiremitlik Redoubt az Erzurumban található jelentős történelmi erődítmények része.",
+                  "category": "fortress",
+                  "coords": [
+                        41.257309,
+                        39.892714
+                  ]
+            },
+            {
+                  "name": "Küçük Kiremitlik Tabyası",
+                  "text": "A Small Kiremitlik Redoubt egyike az Erzurumban épített történelmi védelmi erődöknek.",
+                  "category": "fortress",
+                  "coords": [
+                        41.264318,
+                        39.895012
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi",
+                  "text": "Az Atatürk House egy turisztikai látványosság Erzurum városában.",
+                  "category": "landmark",
+                  "coords": [
+                        41.268789,
+                        39.906716
+                  ]
+            },
+            {
+                  "name": "Saray hamami bayanlara",
+                  "text": "A Saray hamami bayanlara egy helyi látványosság Erzurumban.",
+                  "category": "landmark",
+                  "coords": [
+                        41.279811,
+                        39.904542
+                  ]
+            },
+            {
+                  "name": "Aziziye Anıtı",
+                  "text": "Az Aziziye Anıtı egy emlékmű Erzurum városában.",
+                  "category": "historical",
+                  "coords": [
+                        41.258838,
+                        39.904263
+                  ]
+            },
+            {
+                  "name": "Bilim Anıtı",
+                  "text": "A Bilim Anıtı egy helyi emlékmű Erzurumban.",
+                  "category": "historical",
+                  "coords": [
+                        41.247916,
+                        39.900392
+                  ]
+            },
+            {
+                  "name": "Ullu Cami",
+                  "text": "Az Ullu Cami egy kiemelkedő történelmi mecset és istentiszteleti hely Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.277724,
+                        39.906034
+                  ]
+            },
+            {
+                  "name": "Caferiye Cami",
+                  "text": "A Caferiye Cami egy elismert istentiszteleti hely Erzurum központjában.",
+                  "category": "religious",
+                  "coords": [
+                        41.275418,
+                        39.906421
+                  ]
+            },
+            {
+                  "name": "Murat Paşa Camii",
+                  "text": "A Murat Paşa Camii egy istentiszteleti hely Erzurum városában.",
+                  "category": "religious",
+                  "coords": [
+                        41.270246,
+                        39.904404
+                  ]
+            },
+            {
+                  "name": "Cennetzade Camii",
+                  "text": "A Cennetzade Camii egy vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.275899,
+                        39.904168
+                  ]
+            },
+            {
+                  "name": "Narmanlı cami",
+                  "text": "A Narmanlı cami egy ismert mecset Erzurum városában.",
+                  "category": "religious",
+                  "coords": [
+                        41.279736,
+                        39.905972
+                  ]
+            },
+            {
+                  "name": "Derviş Ağa Camii",
+                  "text": "A Derviş Ağa Camii egy jelentős vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.278857,
+                        39.910137
+                  ]
+            },
+            {
+                  "name": "Gürcükapı Camii",
+                  "text": "A Gürcükapı Camii egy ismert istentiszteleti hely Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.273938,
+                        39.911176
+                  ]
+            },
+            {
+                  "name": "Bakırcı Camii",
+                  "text": "A Bakırcı Camii egy jelentős vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.272605,
+                        39.909034
+                  ]
+            },
+            {
+                  "name": "Şeyhler Camii",
+                  "text": "A Şeyhler Camii egy vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.27329,
+                        39.903256
+                  ]
+            },
+            {
+                  "name": "Vani Efendi Camii",
+                  "text": "A Vani Efendi Camii egy vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.271863,
+                        39.903333
+                  ]
+            },
+            {
+                  "name": "Erzurum Büyükşehir Belediyesi",
+                  "text": "Az Erzurum Büyükşehir Belediyesi Erzurum városának jelentős városházaként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        41.261674,
+                        39.904599
+                  ]
+            },
+            {
+                  "name": "Hacı İbrahim Baba",
+                  "text": "A Hacı İbrahim Baba egy helyi vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.277837,
+                        39.899701
+                  ]
+            },
+            {
+                  "name": "Lalapaşa Cami",
+                  "text": "A Lalapaşa Cami egy vallási hely Erzurum városában.",
+                  "category": "religious",
+                  "coords": [
+                        41.273198,
+                        39.906334
+                  ]
+            },
+            {
+                  "name": "Boyahane Camii",
+                  "text": "A Boyahane Camii egy ismert vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.272327,
+                        39.907987
+                  ]
+            },
+            {
+                  "name": "Aşağı Mumcu Camii",
+                  "text": "Az Aşağı Mumcu Camii egy vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.27003,
+                        39.908406
+                  ]
+            },
+            {
+                  "name": "Sıvırcık Camii",
+                  "text": "A Sıvırcık Camii vallási célokat szolgáló épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.281269,
+                        39.905287
+                  ]
+            },
+            {
+                  "name": "Yukarı Habib Efendi Camii",
+                  "text": "A Yukarı Habib Efendi Camii egy vallási épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.28365,
+                        39.90614
+                  ]
+            },
+            {
+                  "name": "Aşağı Habib Efendi Camii",
+                  "text": "Az Aşağı Habib Efendi Camii egy vallási célokat szolgáló épület Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.280804,
+                        39.906792
+                  ]
+            },
+            {
+                  "name": "Taş Mescit",
+                  "text": "A Taş Mescit egy vallási épület Erzurum városában.",
+                  "category": "religious",
+                  "coords": [
+                        41.282441,
+                        39.907512
+                  ]
+            },
+            {
+                  "name": "Ayazpaşa Camii",
+                  "text": "Az Ayazpaşa Camii egy ismert történelmi mecset Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.275557,
+                        39.909847
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii, Erzurum",
+                  "text": "Az Ali Paşa Camii egy vallási helyszín Erzurumban.",
+                  "category": "religious",
+                  "coords": [
+                        41.276692,
+                        39.912705
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Erzurum Kongre Binası",
+                  "text": "Erzurum Kongre Binası este un muzeu istoric situat în orașul Erzurum.",
+                  "category": "museum",
+                  "coords": [
+                        41.276996,
+                        39.915046
+                  ]
+            },
+            {
+                  "name": "Mecidiye Tabyası",
+                  "text": "Mecidiye Tabyası este o fortificație istorică semnificativă care face parte din redutele Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.297248,
+                        39.916475
+                  ]
+            },
+            {
+                  "name": "Yakutiye Medresesi",
+                  "text": "Yakutiye Medrese este o madrasa istorică din secolul al XIV-lea din Erzurum, care acum servește drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        41.272073,
+                        39.90641
+                  ]
+            },
+            {
+                  "name": "Erzurum Muzesi",
+                  "text": "Erzurum Muzesi este un muzeu arheologic care prezintă istoria bogată a regiunii Erzurum.",
+                  "category": "museum",
+                  "coords": [
+                        41.277533,
+                        39.903446
+                  ]
+            },
+            {
+                  "name": "Ahali Tabyası",
+                  "text": "Ahali (People's) Redoubt este o fortificație militară istorică construită pentru a apăra orașul Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.303731,
+                        39.900118
+                  ]
+            },
+            {
+                  "name": "Büyük Kiremitlik Tabyası",
+                  "text": "Big Kiremitlik Redoubt face parte din fortificațiile istorice notabile situate în Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.257309,
+                        39.892714
+                  ]
+            },
+            {
+                  "name": "Küçük Kiremitlik Tabyası",
+                  "text": "Small Kiremitlik Redoubt este unul dintre forturile de apărare istorice construite în Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.264318,
+                        39.895012
+                  ]
+            },
+            {
+                  "name": "Atatürk Evi",
+                  "text": "Atatürk House este o atracție turistică situată în orașul Erzurum.",
+                  "category": "landmark",
+                  "coords": [
+                        41.268789,
+                        39.906716
+                  ]
+            },
+            {
+                  "name": "Saray hamami bayanlara",
+                  "text": "Saray hamami bayanlara este o atracție locală situată în Erzurum.",
+                  "category": "landmark",
+                  "coords": [
+                        41.279811,
+                        39.904542
+                  ]
+            },
+            {
+                  "name": "Aziziye Anıtı",
+                  "text": "Aziziye Anıtı este un monument situat în orașul Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.258838,
+                        39.904263
+                  ]
+            },
+            {
+                  "name": "Bilim Anıtı",
+                  "text": "Bilim Anıtı este un monument local situat în Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.247916,
+                        39.900392
+                  ]
+            },
+            {
+                  "name": "Ullu Cami",
+                  "text": "Ullu Cami este o moschee istorică proeminentă și un lăcaș de cult în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.277724,
+                        39.906034
+                  ]
+            },
+            {
+                  "name": "Caferiye Cami",
+                  "text": "Caferiye Cami este un lăcaș de cult recunoscut, situat central în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275418,
+                        39.906421
+                  ]
+            },
+            {
+                  "name": "Murat Paşa Camii",
+                  "text": "Murat Paşa Camii este un lăcaș de cult situat în orașul Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.270246,
+                        39.904404
+                  ]
+            },
+            {
+                  "name": "Cennetzade Camii",
+                  "text": "Cennetzade Camii este un lăcaș de cult situat în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275899,
+                        39.904168
+                  ]
+            },
+            {
+                  "name": "Narmanlı cami",
+                  "text": "Narmanlı cami este un lăcaș de cult notabil din Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.279736,
+                        39.905972
+                  ]
+            },
+            {
+                  "name": "Derviş Ağa Camii",
+                  "text": "Derviş Ağa Camii este un lăcaș de cult recunoscut din orașul Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.278857,
+                        39.910137
+                  ]
+            },
+            {
+                  "name": "Gürcükapı Camii",
+                  "text": "Gürcükapı Camii este un lăcaș de cult recunoscut în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.273938,
+                        39.911176
+                  ]
+            },
+            {
+                  "name": "Bakırcı Camii",
+                  "text": "Bakırcı Camii este un lăcaș de cult notabil aflat în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.272605,
+                        39.909034
+                  ]
+            },
+            {
+                  "name": "Şeyhler Camii",
+                  "text": "Şeyhler Camii este un lăcaș de cult din Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.27329,
+                        39.903256
+                  ]
+            },
+            {
+                  "name": "Vani Efendi Camii",
+                  "text": "Vani Efendi Camii este un lăcaș de cult situat în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.271863,
+                        39.903333
+                  ]
+            },
+            {
+                  "name": "Erzurum Büyükşehir Belediyesi",
+                  "text": "Erzurum Büyükşehir Belediyesi servește drept principala primărie a orașului Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.261674,
+                        39.904599
+                  ]
+            },
+            {
+                  "name": "Hacı İbrahim Baba",
+                  "text": "Hacı İbrahim Baba este un lăcaș de cult local din Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.277837,
+                        39.899701
+                  ]
+            },
+            {
+                  "name": "Lalapaşa Cami",
+                  "text": "Lalapaşa Cami este un lăcaș de cult aflat în orașul Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.273198,
+                        39.906334
+                  ]
+            },
+            {
+                  "name": "Boyahane Camii",
+                  "text": "Boyahane Camii este un lăcaș de cult notabil din Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.272327,
+                        39.907987
+                  ]
+            },
+            {
+                  "name": "Aşağı Mumcu Camii",
+                  "text": "Aşağı Mumcu Camii este un lăcaș de cult situat în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.27003,
+                        39.908406
+                  ]
+            },
+            {
+                  "name": "Sıvırcık Camii",
+                  "text": "Sıvırcık Camii funcționează ca lăcaș de cult în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.281269,
+                        39.905287
+                  ]
+            },
+            {
+                  "name": "Yukarı Habib Efendi Camii",
+                  "text": "Yukarı Habib Efendi Camii este un lăcaș de cult din Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.28365,
+                        39.90614
+                  ]
+            },
+            {
+                  "name": "Aşağı Habib Efendi Camii",
+                  "text": "Aşağı Habib Efendi Camii este un lăcaș de cult situat în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.280804,
+                        39.906792
+                  ]
+            },
+            {
+                  "name": "Taş Mescit",
+                  "text": "Taş Mescit este un lăcaș de cult din orașul Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.282441,
+                        39.907512
+                  ]
+            },
+            {
+                  "name": "Ayazpaşa Camii",
+                  "text": "Ayazpaşa Camii este un lăcaș de cult istoric notabil din Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275557,
+                        39.909847
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii, Erzurum",
+                  "text": "Ali Paşa Camii este un lăcaș de cult în Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.276692,
+                        39.912705
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Erzurum Kongre Binası",
+                  "text": "Erzurum Kongre Binası is a historic museum located in the city of Erzurum.",
+                  "category": "museum",
+                  "coords": [
+                        41.276996,
+                        39.915046
+                  ]
+            },
+            {
+                  "name": "Mecidiye Tabyası",
+                  "text": "Mecidiye Tabyası is a significant historical fortification forming part of the Erzurum redoubts.",
+                  "category": "fortress",
+                  "coords": [
+                        41.297248,
+                        39.916475
+                  ]
+            },
+            {
+                  "name": "Yakutiye Medrese",
+                  "text": "Yakutiye Medrese is a historic 14th-century madrasa in Erzurum that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        41.272073,
+                        39.90641
+                  ]
+            },
+            {
+                  "name": "Erzurum Muzesi",
+                  "text": "Erzurum Muzesi is an archaeological museum showcasing the rich history of the Erzurum region.",
+                  "category": "museum",
+                  "coords": [
+                        41.277533,
+                        39.903446
+                  ]
+            },
+            {
+                  "name": "Ahali (People's) Redoubt",
+                  "text": "Ahali (People's) Redoubt is a historical military fortification built to defend the city of Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.303731,
+                        39.900118
+                  ]
+            },
+            {
+                  "name": "Big Kiremitlik Redoubt",
+                  "text": "Big Kiremitlik Redoubt is part of the notable historical fortifications located in Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.257309,
+                        39.892714
+                  ]
+            },
+            {
+                  "name": "Small Kiremitlik Redoubt",
+                  "text": "Small Kiremitlik Redoubt is one of the historic defensive forts constructed in Erzurum.",
+                  "category": "fortress",
+                  "coords": [
+                        41.264318,
+                        39.895012
+                  ]
+            },
+            {
+                  "name": "Atatürk House",
+                  "text": "Atatürk House is a tourist attraction situated in the city of Erzurum.",
+                  "category": "landmark",
+                  "coords": [
+                        41.268789,
+                        39.906716
+                  ]
+            },
+            {
+                  "name": "Saray hamami bayanlara",
+                  "text": "Saray hamami bayanlara is a local attraction located in Erzurum.",
+                  "category": "landmark",
+                  "coords": [
+                        41.279811,
+                        39.904542
+                  ]
+            },
+            {
+                  "name": "Aziziye Anıtı",
+                  "text": "Aziziye Anıtı is a monument standing in the city of Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.258838,
+                        39.904263
+                  ]
+            },
+            {
+                  "name": "Bilim Anıtı",
+                  "text": "Bilim Anıtı is a local monument located in Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.247916,
+                        39.900392
+                  ]
+            },
+            {
+                  "name": "Ullu Cami",
+                  "text": "Ullu Cami is a prominent historic mosque and place of worship in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.277724,
+                        39.906034
+                  ]
+            },
+            {
+                  "name": "Caferiye Cami",
+                  "text": "Caferiye Cami is a recognized place of worship centrally located in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275418,
+                        39.906421
+                  ]
+            },
+            {
+                  "name": "Murat Paşa Camii",
+                  "text": "Murat Paşa Camii is a place of worship situated in the city of Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.270246,
+                        39.904404
+                  ]
+            },
+            {
+                  "name": "Cennetzade Camii",
+                  "text": "Cennetzade Camii is a place of worship located in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275899,
+                        39.904168
+                  ]
+            },
+            {
+                  "name": "Narmanlı cami",
+                  "text": "Narmanlı cami is a notable place of worship located in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.279736,
+                        39.905972
+                  ]
+            },
+            {
+                  "name": "Derviş Ağa Camii",
+                  "text": "Derviş Ağa Camii is a notable place of worship situated in the city of Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.278857,
+                        39.910137
+                  ]
+            },
+            {
+                  "name": "Gürcükapı Camii",
+                  "text": "Gürcükapı Camii is a recognized place of worship in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.273938,
+                        39.911176
+                  ]
+            },
+            {
+                  "name": "Bakırcı Camii",
+                  "text": "Bakırcı Camii is a notable place of worship found in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.272605,
+                        39.909034
+                  ]
+            },
+            {
+                  "name": "Şeyhler Camii",
+                  "text": "Şeyhler Camii is a place of worship located in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.27329,
+                        39.903256
+                  ]
+            },
+            {
+                  "name": "Vani Efendi Camii",
+                  "text": "Vani Efendi Camii is a place of worship situated in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.271863,
+                        39.903333
+                  ]
+            },
+            {
+                  "name": "Erzurum Büyükşehir Belediyesi",
+                  "text": "Erzurum Büyükşehir Belediyesi serves as the main town hall for the city of Erzurum.",
+                  "category": "historical",
+                  "coords": [
+                        41.261674,
+                        39.904599
+                  ]
+            },
+            {
+                  "name": "Hacı İbrahim Baba",
+                  "text": "Hacı İbrahim Baba is a local place of worship in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.277837,
+                        39.899701
+                  ]
+            },
+            {
+                  "name": "Lalapaşa Cami",
+                  "text": "Lalapaşa Cami is a place of worship situated in the city of Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.273198,
+                        39.906334
+                  ]
+            },
+            {
+                  "name": "Boyahane Camii",
+                  "text": "Boyahane Camii is a notable place of worship located in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.272327,
+                        39.907987
+                  ]
+            },
+            {
+                  "name": "Aşağı Mumcu Camii",
+                  "text": "Aşağı Mumcu Camii is a place of worship in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.27003,
+                        39.908406
+                  ]
+            },
+            {
+                  "name": "Sıvırcık Camii",
+                  "text": "Sıvırcık Camii functions as a place of worship in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.281269,
+                        39.905287
+                  ]
+            },
+            {
+                  "name": "Yukarı Habib Efendi Camii",
+                  "text": "Yukarı Habib Efendi Camii is a place of worship located in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.28365,
+                        39.90614
+                  ]
+            },
+            {
+                  "name": "Aşağı Habib Efendi Camii",
+                  "text": "Aşağı Habib Efendi Camii is a place of worship situated in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.280804,
+                        39.906792
+                  ]
+            },
+            {
+                  "name": "Taş Mescit",
+                  "text": "Taş Mescit is a place of worship located in the city of Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.282441,
+                        39.907512
+                  ]
+            },
+            {
+                  "name": "Ayazpaşa Camii",
+                  "text": "Ayazpaşa Camii is a notable historic place of worship in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.275557,
+                        39.909847
+                  ]
+            },
+            {
+                  "name": "Ali Paşa Camii, Erzurum",
+                  "text": "Ali Paşa Camii is a place of worship in Erzurum.",
+                  "category": "religious",
+                  "coords": [
+                        41.276692,
+                        39.912705
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-25",
     coords: [41.2689, 39.9043],
@@ -924,7 +11157,412 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "van-cities-v2",
+    id: "van-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eski Van",
+                  "text": "Eine massive Steinfestung aus der Zeit des antiken Reiches Urartu.",
+                  "category": "historical",
+                  "coords": [
+                        43.338326,
+                        38.501462
+                  ]
+            },
+            {
+                  "name": "Van Kalesi",
+                  "text": "Historische Burgruine, die auf einem Felsen über der Stadt Van thront.",
+                  "category": "castle",
+                  "coords": [
+                        43.340543,
+                        38.502933
+                  ]
+            },
+            {
+                  "name": "Rusahinili",
+                  "text": "Archäologische Ausgrabungsstätte einer antiken urartäischen Festungsstadt.",
+                  "category": "historical",
+                  "coords": [
+                        43.406135,
+                        38.509662
+                  ]
+            },
+            {
+                  "name": "Van Müzesi",
+                  "text": "Ein Museum in Van, das bedeutende Artefakte der urartäischen Zivilisation ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        43.343652,
+                        38.503938
+                  ]
+            },
+            {
+                  "name": "Van Devlet Tiyatrosu",
+                  "text": "Das staatliche Theater in Van, ein Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        43.398508,
+                        38.497764
+                  ]
+            },
+            {
+                  "name": "KEDİ EVİ",
+                  "text": "Ein Schutzzentrum für die berühmten Van-Katzen mit ihren verschiedenfarbigen Augen.",
+                  "category": "landmark",
+                  "coords": [
+                        43.351036,
+                        38.502082
+                  ]
+            },
+            {
+                  "name": "Kahvalti Sokak",
+                  "text": "Eine berühmte Straße in Van, bekannt für ihre traditionellen Frühstückshäuser.",
+                  "category": "landmark",
+                  "coords": [
+                        43.395031,
+                        38.501363
+                  ]
+            },
+            {
+                  "name": "Meher kapi",
+                  "text": "Ein urartäisches Felsdenkmal mit Keilschriftinschriften in der Nähe von Van.",
+                  "category": "landmark",
+                  "coords": [
+                        43.38907,
+                        38.517097
+                  ]
+            },
+            {
+                  "name": "Nuda sanat merkezi",
+                  "text": "Ein lokales Kultur- und Kunstzentrum in der Stadt Van.",
+                  "category": "cultural",
+                  "coords": [
+                        43.397081,
+                        38.480412
+                  ]
+            },
+            {
+                  "name": "Վան Քաղաքամեջ",
+                  "text": "Überreste der historischen Altstadt von Van am Fuße der Festung.",
+                  "category": "historical",
+                  "coords": [
+                        43.340012,
+                        38.500406
+                  ]
+            },
+            {
+                  "name": "Şeyh Abdurrahman Gazi Camii",
+                  "text": "Ein religiöser Komplex mit einer Moschee, die einem lokalen Heiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        43.34476,
+                        38.502235
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eski Van",
+                  "text": "Hatalmas kőerőd az egykori Urartu Királyság idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        43.338326,
+                        38.501462
+                  ]
+            },
+            {
+                  "name": "Van vár",
+                  "text": "Történelmi várrom, amely a város feletti sziklán magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        43.340543,
+                        38.502933
+                  ]
+            },
+            {
+                  "name": "Rusahinili",
+                  "text": "Egy ősi urartui erődváros régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        43.406135,
+                        38.509662
+                  ]
+            },
+            {
+                  "name": "Van Müzesi",
+                  "text": "Vani múzeum, amely az urartui civilizáció jelentős leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        43.343652,
+                        38.503938
+                  ]
+            },
+            {
+                  "name": "Van Devlet Tiyatrosu",
+                  "text": "Vani állami színház, a helyi művészeti élet központja.",
+                  "category": "cultural",
+                  "coords": [
+                        43.398508,
+                        38.497764
+                  ]
+            },
+            {
+                  "name": "KEDİ EVİ",
+                  "text": "A különleges, felemás szemű vani macskák védelmére létrehozott központ.",
+                  "category": "landmark",
+                  "coords": [
+                        43.351036,
+                        38.502082
+                  ]
+            },
+            {
+                  "name": "Kahvalti Sokak",
+                  "text": "Híres utca Vanban, amely hagyományos reggelizőhelyeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        43.395031,
+                        38.501363
+                  ]
+            },
+            {
+                  "name": "Meher kapi",
+                  "text": "Urartui sziklaemlékmű ékírásos feliratokkal Van közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        43.38907,
+                        38.517097
+                  ]
+            },
+            {
+                  "name": "Nuda sanat merkezi",
+                  "text": "Helyi kulturális és művészeti központ Van városában.",
+                  "category": "cultural",
+                  "coords": [
+                        43.397081,
+                        38.480412
+                  ]
+            },
+            {
+                  "name": "Վան Քաղաքամեջ",
+                  "text": "Van történelmi óvárosának maradványai a vár lábánál.",
+                  "category": "historical",
+                  "coords": [
+                        43.340012,
+                        38.500406
+                  ]
+            },
+            {
+                  "name": "Şeyh Abdurrahman Gazi Camii",
+                  "text": "Egy helyi szentnek szentelt mecset és vallási komplexum.",
+                  "category": "religious",
+                  "coords": [
+                        43.34476,
+                        38.502235
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eski Van",
+                  "text": "O fortăreață masivă de piatră din perioada vechiului regat Urartu.",
+                  "category": "historical",
+                  "coords": [
+                        43.338326,
+                        38.501462
+                  ]
+            },
+            {
+                  "name": "Van Kalesi",
+                  "text": "Ruinele unei cetăți istorice situate pe o stâncă deasupra orașului Van.",
+                  "category": "castle",
+                  "coords": [
+                        43.340543,
+                        38.502933
+                  ]
+            },
+            {
+                  "name": "Rusahinili",
+                  "text": "Sit arheologic al unei vechi cetăți urartiene.",
+                  "category": "historical",
+                  "coords": [
+                        43.406135,
+                        38.509662
+                  ]
+            },
+            {
+                  "name": "Van Müzesi",
+                  "text": "Un muzeu din Van care expune artefacte importante ale civilizației urartiene.",
+                  "category": "museum",
+                  "coords": [
+                        43.343652,
+                        38.503938
+                  ]
+            },
+            {
+                  "name": "Van Devlet Tiyatrosu",
+                  "text": "Teatrul de stat din Van, un centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        43.398508,
+                        38.497764
+                  ]
+            },
+            {
+                  "name": "KEDİ EVİ",
+                  "text": "Un centru de protecție pentru faimoasele pisici de Van cu ochi de culori diferite.",
+                  "category": "landmark",
+                  "coords": [
+                        43.351036,
+                        38.502082
+                  ]
+            },
+            {
+                  "name": "Kahvalti Sokak",
+                  "text": "O stradă faimoasă din Van, cunoscută pentru casele de mic dejun tradiționale.",
+                  "category": "landmark",
+                  "coords": [
+                        43.395031,
+                        38.501363
+                  ]
+            },
+            {
+                  "name": "Meher kapi",
+                  "text": "Un monument în stâncă urartian cu inscripții cuneiforme lângă Van.",
+                  "category": "landmark",
+                  "coords": [
+                        43.38907,
+                        38.517097
+                  ]
+            },
+            {
+                  "name": "Nuda sanat merkezi",
+                  "text": "Un centru local de cultură și artă în orașul Van.",
+                  "category": "cultural",
+                  "coords": [
+                        43.397081,
+                        38.480412
+                  ]
+            },
+            {
+                  "name": "Վան Քաղաքամեջ",
+                  "text": "Rămășițele vechiului oraș istoric Van, situate la poalele cetății.",
+                  "category": "historical",
+                  "coords": [
+                        43.340012,
+                        38.500406
+                  ]
+            },
+            {
+                  "name": "Şeyh Abdurrahman Gazi Camii",
+                  "text": "Un complex religios cu o moschee dedicată unui sfânt local.",
+                  "category": "religious",
+                  "coords": [
+                        43.34476,
+                        38.502235
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Van Fortress",
+                  "text": "A massive stone fortress dating back to the ancient Urartian Empire.",
+                  "category": "historical",
+                  "coords": [
+                        43.338326,
+                        38.501462
+                  ]
+            },
+            {
+                  "name": "Van Castle",
+                  "text": "Historic castle ruins perched on a rock overlooking the city of Van.",
+                  "category": "castle",
+                  "coords": [
+                        43.340543,
+                        38.502933
+                  ]
+            },
+            {
+                  "name": "Rusahinili",
+                  "text": "Archaeological site of an ancient Urartian fortress city.",
+                  "category": "historical",
+                  "coords": [
+                        43.406135,
+                        38.509662
+                  ]
+            },
+            {
+                  "name": "Van Museum",
+                  "text": "A museum in Van exhibiting significant artifacts from the Urartian civilization.",
+                  "category": "museum",
+                  "coords": [
+                        43.343652,
+                        38.503938
+                  ]
+            },
+            {
+                  "name": "Van National Theatre",
+                  "text": "The state theatre in Van, a center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        43.398508,
+                        38.497764
+                  ]
+            },
+            {
+                  "name": "KEDİ EVİ",
+                  "text": "A protection center for the famous Van cats known for their odd-colored eyes.",
+                  "category": "landmark",
+                  "coords": [
+                        43.351036,
+                        38.502082
+                  ]
+            },
+            {
+                  "name": "Breakfast street",
+                  "text": "A famous street in Van known for its traditional breakfast houses.",
+                  "category": "landmark",
+                  "coords": [
+                        43.395031,
+                        38.501363
+                  ]
+            },
+            {
+                  "name": "Meher kapi",
+                  "text": "An Urartian rock monument with cuneiform inscriptions near Van.",
+                  "category": "landmark",
+                  "coords": [
+                        43.38907,
+                        38.517097
+                  ]
+            },
+            {
+                  "name": "Nuda sanat merkezi",
+                  "text": "A local cultural and arts center in the city of Van.",
+                  "category": "cultural",
+                  "coords": [
+                        43.397081,
+                        38.480412
+                  ]
+            },
+            {
+                  "name": "Van-K'aghaghak'amej",
+                  "text": "Remains of the historical old city of Van at the foot of the fortress.",
+                  "category": "historical",
+                  "coords": [
+                        43.340012,
+                        38.500406
+                  ]
+            },
+            {
+                  "name": "Şeyh Abdurrahman Gazi Camii",
+                  "text": "A religious complex including a mosque dedicated to a local saint.",
+                  "category": "religious",
+                  "coords": [
+                        43.34476,
+                        38.502235
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-65",
     coords: [43.3764, 38.4946],
@@ -960,7 +11598,232 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "batman-cities-v2",
+    id: "batman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Batman Arkeoloji Müzesi",
+                  "text": "Ein Museum, das archäologische Funde aus der Region Batman zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        41.141075,
+                        37.898867
+                  ]
+            },
+            {
+                  "name": "Uğur Akvaryum",
+                  "text": "Ein lokales Aquarium, das verschiedene Fischarten präsentiert.",
+                  "category": "recreational",
+                  "coords": [
+                        41.125311,
+                        37.879912
+                  ]
+            },
+            {
+                  "name": "Deniz Akvaryum",
+                  "text": "Eine Freizeiteinrichtung mit einer Vielfalt an Meereslebewesen.",
+                  "category": "recreational",
+                  "coords": [
+                        41.126823,
+                        37.884933
+                  ]
+            },
+            {
+                  "name": "Yunus Akvaryum",
+                  "text": "Ein Ort in Batman, um die Unterwasserwelt zu entdecken.",
+                  "category": "recreational",
+                  "coords": [
+                        41.14022,
+                        37.892164
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykelli",
+                  "text": "Ein Denkmal zu Ehren von Mustafa Kemal Atatürk, dem Gründer der Türkei.",
+                  "category": "historical",
+                  "coords": [
+                        41.124106,
+                        37.879545
+                  ]
+            },
+            {
+                  "name": "Bilim ve Sanat Merkezi",
+                  "text": "Ein Bildungszentrum für Kinder und Jugendliche in Batman.",
+                  "category": "cultural",
+                  "coords": [
+                        41.130547,
+                        37.902759
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Batman Arkeoloji Müzesi",
+                  "text": "A Batman régióból származó régészeti leleteket bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        41.141075,
+                        37.898867
+                  ]
+            },
+            {
+                  "name": "Uğur Akvaryum",
+                  "text": "Egy helyi akvárium, amely különféle halfajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        41.125311,
+                        37.879912
+                  ]
+            },
+            {
+                  "name": "Deniz Akvaryum",
+                  "text": "Szabadidős létesítmény különféle tengeri élőlényekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        41.126823,
+                        37.884933
+                  ]
+            },
+            {
+                  "name": "Yunus Akvaryum",
+                  "text": "Egy hely Batmanben a vízi világ felfedezésére.",
+                  "category": "recreational",
+                  "coords": [
+                        41.14022,
+                        37.892164
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykelli",
+                  "text": "Emlékmű Mustafa Kemal Atatürk, Törökország alapítója tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        41.124106,
+                        37.879545
+                  ]
+            },
+            {
+                  "name": "Bilim ve Sanat Merkezi",
+                  "text": "Oktatási központ gyerekeknek és fiataloknak Batmanben.",
+                  "category": "cultural",
+                  "coords": [
+                        41.130547,
+                        37.902759
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Batman Arkeoloji Müzesi",
+                  "text": "Un muzeu care expune descoperiri arheologice din regiunea Batman.",
+                  "category": "museum",
+                  "coords": [
+                        41.141075,
+                        37.898867
+                  ]
+            },
+            {
+                  "name": "Uğur Akvaryum",
+                  "text": "Un acvariu local care prezintă diverse specii de pești.",
+                  "category": "recreational",
+                  "coords": [
+                        41.125311,
+                        37.879912
+                  ]
+            },
+            {
+                  "name": "Deniz Akvaryum",
+                  "text": "O facilitate de agrement cu o varietate de viețuitoare marine.",
+                  "category": "recreational",
+                  "coords": [
+                        41.126823,
+                        37.884933
+                  ]
+            },
+            {
+                  "name": "Yunus Akvaryum",
+                  "text": "Un loc din Batman pentru a descoperi lumea acvatică.",
+                  "category": "recreational",
+                  "coords": [
+                        41.14022,
+                        37.892164
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykelli",
+                  "text": "Un monument în onoarea lui Mustafa Kemal Atatürk, fondatorul Turciei.",
+                  "category": "historical",
+                  "coords": [
+                        41.124106,
+                        37.879545
+                  ]
+            },
+            {
+                  "name": "Bilim ve Sanat Merkezi",
+                  "text": "Un centru educațional pentru copii și tineri din Batman.",
+                  "category": "cultural",
+                  "coords": [
+                        41.130547,
+                        37.902759
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Batman Arkeoloji Müzesi",
+                  "text": "A museum showcasing archaeological finds from the Batman region.",
+                  "category": "museum",
+                  "coords": [
+                        41.141075,
+                        37.898867
+                  ]
+            },
+            {
+                  "name": "Uğur Akvaryum",
+                  "text": "A local aquarium presenting various species of fish.",
+                  "category": "recreational",
+                  "coords": [
+                        41.125311,
+                        37.879912
+                  ]
+            },
+            {
+                  "name": "Deniz Akvaryum",
+                  "text": "A leisure facility featuring a variety of marine life.",
+                  "category": "recreational",
+                  "coords": [
+                        41.126823,
+                        37.884933
+                  ]
+            },
+            {
+                  "name": "Yunus Akvaryum",
+                  "text": "A place in Batman to discover the aquatic world.",
+                  "category": "recreational",
+                  "coords": [
+                        41.14022,
+                        37.892164
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykelli",
+                  "text": "A monument honoring Mustafa Kemal Atatürk, the founder of Turkey.",
+                  "category": "historical",
+                  "coords": [
+                        41.124106,
+                        37.879545
+                  ]
+            },
+            {
+                  "name": "Bilim ve Sanat Merkezi",
+                  "text": "An educational center for children and youth in Batman.",
+                  "category": "cultural",
+                  "coords": [
+                        41.130547,
+                        37.902759
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-72",
     coords: [41.1322, 37.8812],
@@ -996,7 +11859,232 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "elazig-cities-v2",
+    id: "elazig-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Elazığ Arkeoloji ve Etnografya Müzesi",
+                  "text": "Das Elazığ Archaeology and Ethnography Museum ist ein bedeutendes Museum zur Lokalgeschichte in Elazığ.",
+                  "category": "museum",
+                  "coords": [
+                        39.190113,
+                        38.673016
+                  ]
+            },
+            {
+                  "name": "Elazığ Devlet Tiyatrosu",
+                  "text": "Das Elazığ Devlet Tiyatrosu ist ein Theater in Elazığ.",
+                  "category": "cultural",
+                  "coords": [
+                        39.194126,
+                        38.670291
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Der Lunapark ist ein Freizeitpark mit Fahrgeschäften in Elazığ.",
+                  "category": "recreational",
+                  "coords": [
+                        39.231099,
+                        38.679833
+                  ]
+            },
+            {
+                  "name": "Elazığ Kültür Parkı",
+                  "text": "Der Elazığ Culture Park ist ein bedeutender öffentlicher Park in Elazığ.",
+                  "category": "park",
+                  "coords": [
+                        39.204061,
+                        38.671355
+                  ]
+            },
+            {
+                  "name": "Armenische Evangelische Kirche",
+                  "text": "Die Ruinen der Armenian Evangelical Church sind eine bemerkenswerte historische Stätte in Elazığ.",
+                  "category": "historical",
+                  "coords": [
+                        39.224384,
+                        38.677315
+                  ]
+            },
+            {
+                  "name": "İzzet Paşa Camii",
+                  "text": "Die İzzet Pasha Mosque ist eine bekannte Kultstätte in Elazığ.",
+                  "category": "religious",
+                  "coords": [
+                        39.22396,
+                        38.674993
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Elazığ Arkeoloji ve Etnografya Müzesi",
+                  "text": "Az Elazığ Archaeology and Ethnography Museum egy ismert, helyi történelmet bemutató múzeum Elazığban.",
+                  "category": "museum",
+                  "coords": [
+                        39.190113,
+                        38.673016
+                  ]
+            },
+            {
+                  "name": "Elazığ Devlet Tiyatrosu",
+                  "text": "Az Elazığ Devlet Tiyatrosu egy színház Elazığ városában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.194126,
+                        38.670291
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "A Lunapark egy vidámpark Elazığ városában.",
+                  "category": "recreational",
+                  "coords": [
+                        39.231099,
+                        38.679833
+                  ]
+            },
+            {
+                  "name": "Elazığ Kültür Parkı",
+                  "text": "Az Elazığ Culture Park egy jelentős közpark Elazığban.",
+                  "category": "park",
+                  "coords": [
+                        39.204061,
+                        38.671355
+                  ]
+            },
+            {
+                  "name": "Ermeni Protestan Kilisesi",
+                  "text": "Az Armenian Evangelical Church romjai ismert történelmi látványosságot jelentenek Elazığban.",
+                  "category": "historical",
+                  "coords": [
+                        39.224384,
+                        38.677315
+                  ]
+            },
+            {
+                  "name": "İzzet Paşa Camii",
+                  "text": "Az İzzet Pasha Mosque egy jól ismert mecset Elazığban.",
+                  "category": "religious",
+                  "coords": [
+                        39.22396,
+                        38.674993
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Elazığ Arkeoloji ve Etnografya Müzesi",
+                  "text": "Elazığ Archaeology and Ethnography Museum este un muzeu notabil ce expune istoria locală în Elazığ.",
+                  "category": "museum",
+                  "coords": [
+                        39.190113,
+                        38.673016
+                  ]
+            },
+            {
+                  "name": "Elazığ Devlet Tiyatrosu",
+                  "text": "Elazığ Devlet Tiyatrosu este un teatru situat în Elazığ.",
+                  "category": "cultural",
+                  "coords": [
+                        39.194126,
+                        38.670291
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Lunapark este un parc de distracții situat în orașul Elazığ.",
+                  "category": "recreational",
+                  "coords": [
+                        39.231099,
+                        38.679833
+                  ]
+            },
+            {
+                  "name": "Elazığ Kültür Parkı",
+                  "text": "Elazığ Culture Park este un parc public important situat în Elazığ.",
+                  "category": "park",
+                  "coords": [
+                        39.204061,
+                        38.671355
+                  ]
+            },
+            {
+                  "name": "Ermeni Protestan Kilisesi",
+                  "text": "Ruinele Armenian Evangelical Church sunt un sit istoric notabil din Elazığ.",
+                  "category": "historical",
+                  "coords": [
+                        39.224384,
+                        38.677315
+                  ]
+            },
+            {
+                  "name": "İzzet Paşa Camii",
+                  "text": "İzzet Pasha Mosque este un lăcaș de cult renumit aflat în Elazığ.",
+                  "category": "religious",
+                  "coords": [
+                        39.22396,
+                        38.674993
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Elazığ Archaeology and Ethnography Museum",
+                  "text": "Elazığ Archaeology and Ethnography Museum is a notable museum exhibiting local history in Elazığ.",
+                  "category": "museum",
+                  "coords": [
+                        39.190113,
+                        38.673016
+                  ]
+            },
+            {
+                  "name": "Elazığ Devlet Tiyatrosu",
+                  "text": "Elazığ Devlet Tiyatrosu is a theatre located in Elazığ.",
+                  "category": "cultural",
+                  "coords": [
+                        39.194126,
+                        38.670291
+                  ]
+            },
+            {
+                  "name": "Lunapark",
+                  "text": "Lunapark is a theme park offering amusement rides in Elazığ.",
+                  "category": "recreational",
+                  "coords": [
+                        39.231099,
+                        38.679833
+                  ]
+            },
+            {
+                  "name": "Elazığ Culture Park",
+                  "text": "Elazığ Culture Park is a significant public park located in Elazığ.",
+                  "category": "park",
+                  "coords": [
+                        39.204061,
+                        38.671355
+                  ]
+            },
+            {
+                  "name": "Armenian Evangelical Church",
+                  "text": "The ruins of the Armenian Evangelical Church are a notable historical site in Elazığ.",
+                  "category": "historical",
+                  "coords": [
+                        39.224384,
+                        38.677315
+                  ]
+            },
+            {
+                  "name": "İzzet Pasha Mosque",
+                  "text": "İzzet Pasha Mosque is a well-known place of worship situated in Elazığ.",
+                  "category": "religious",
+                  "coords": [
+                        39.22396,
+                        38.674993
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-23",
     coords: [39.2230, 38.6743],
@@ -1104,7 +12192,556 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "sivas-cities-v2",
+    id: "sivas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sivas Arkeoloji Müzesi",
+                  "text": "Das Sivas Archaeology Museum ist ein lokales Museum in Sivas.",
+                  "category": "museum",
+                  "coords": [
+                        37.011048,
+                        39.755389
+                  ]
+            },
+            {
+                  "name": "Sivas Kalesi",
+                  "text": "Sivas Kalesi ist eine archäologische Stätte in Sivas.",
+                  "category": "historical",
+                  "coords": [
+                        37.015298,
+                        39.745695
+                  ]
+            },
+            {
+                  "name": "Gök Medrese",
+                  "text": "Die Gök Medrese dient als Museum in der Stadt Sivas.",
+                  "category": "museum",
+                  "coords": [
+                        37.016804,
+                        39.74432
+                  ]
+            },
+            {
+                  "name": "Sivas Devlet Tiyatrosu",
+                  "text": "Das Sivas Devlet Tiyatrosu ist ein Theater in Sivas.",
+                  "category": "cultural",
+                  "coords": [
+                        37.010909,
+                        39.74361
+                  ]
+            },
+            {
+                  "name": "Fidan Yazıcıoğlu Kültür Merkezi",
+                  "text": "Das Fidan Yazıcıoğlu Kültür Merkezi ist ein Theater und Kulturzentrum in Sivas.",
+                  "category": "cultural",
+                  "coords": [
+                        37.009183,
+                        39.74541
+                  ]
+            },
+            {
+                  "name": "Yukarı Tekke Cami",
+                  "text": "Die Yukarı Tekke Cami ist eine Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.033164,
+                        39.757374
+                  ]
+            },
+            {
+                  "name": "İmaret Cami",
+                  "text": "Die İmaret Cami ist eine Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.022778,
+                        39.74202
+                  ]
+            },
+            {
+                  "name": "Ali Ağa Camii",
+                  "text": "Die Ali Ağa Camii ist eine Kultstätte in der Stadt Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.016662,
+                        39.751147
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "Die Ulu Camii ist eine historische und bedeutende Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.017617,
+                        39.747164
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Die Yeni Cami ist eine Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.019139,
+                        39.748389
+                  ]
+            },
+            {
+                  "name": "Sivas Meydan Camii",
+                  "text": "Die Sivas Meydan Camii ist eine Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.020429,
+                        39.749447
+                  ]
+            },
+            {
+                  "name": "Uzun Hacıoğlu Camii",
+                  "text": "Die Uzun Hacıoğlu Camii ist eine lokale Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.010365,
+                        39.747093
+                  ]
+            },
+            {
+                  "name": "Aydoğan Camii",
+                  "text": "Die Aydoğan Camii ist eine Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.007801,
+                        39.749284
+                  ]
+            },
+            {
+                  "name": "Sarızade Mehmet Paşa Camii",
+                  "text": "Die Sarızade Mehmet Paşa Camii ist eine Kultstätte in der Stadt Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.010827,
+                        39.751002
+                  ]
+            },
+            {
+                  "name": "Alibaba Camii",
+                  "text": "Die Alibaba Camii ist eine Kultstätte in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.024332,
+                        39.757509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sivas Arkeoloji Müzesi",
+                  "text": "A Sivas Archaeology Museum egy helyi múzeum Sivas városában.",
+                  "category": "museum",
+                  "coords": [
+                        37.011048,
+                        39.755389
+                  ]
+            },
+            {
+                  "name": "Sivas Kalesi",
+                  "text": "A Sivas Kalesi egy régészeti lelőhely Sivasban.",
+                  "category": "historical",
+                  "coords": [
+                        37.015298,
+                        39.745695
+                  ]
+            },
+            {
+                  "name": "Gök Medrese",
+                  "text": "A Gök Medrese múzeumként működik Sivas városában.",
+                  "category": "museum",
+                  "coords": [
+                        37.016804,
+                        39.74432
+                  ]
+            },
+            {
+                  "name": "Sivas Devlet Tiyatrosu",
+                  "text": "A Sivas Devlet Tiyatrosu egy színház Sivasban.",
+                  "category": "cultural",
+                  "coords": [
+                        37.010909,
+                        39.74361
+                  ]
+            },
+            {
+                  "name": "Fidan Yazıcıoğlu Kültür Merkezi",
+                  "text": "A Fidan Yazıcıoğlu Kültür Merkezi egy színház és kulturális központ Sivasban.",
+                  "category": "cultural",
+                  "coords": [
+                        37.009183,
+                        39.74541
+                  ]
+            },
+            {
+                  "name": "Yukarı Tekke Cami",
+                  "text": "A Yukarı Tekke Cami egy vallási épület Sivasban.",
+                  "category": "religious",
+                  "coords": [
+                        37.033164,
+                        39.757374
+                  ]
+            },
+            {
+                  "name": "İmaret Cami",
+                  "text": "Az İmaret Cami egy vallási célokat szolgáló épület Sivasban.",
+                  "category": "religious",
+                  "coords": [
+                        37.022778,
+                        39.74202
+                  ]
+            },
+            {
+                  "name": "Ali Ağa Camii",
+                  "text": "Az Ali Ağa Camii egy vallási épület Sivas városában.",
+                  "category": "religious",
+                  "coords": [
+                        37.016662,
+                        39.751147
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "Az Ulu Camii egy történelmi jelentőségű vallási épület Sivasban.",
+                  "category": "religious",
+                  "coords": [
+                        37.017617,
+                        39.747164
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "A Yeni Cami egy istentiszteleti hely Sivasban.",
+                  "category": "religious",
+                  "coords": [
+                        37.019139,
+                        39.748389
+                  ]
+            },
+            {
+                  "name": "Sivas Meydan Camii",
+                  "text": "A Sivas Meydan Camii egy vallási épület Sivas városában.",
+                  "category": "religious",
+                  "coords": [
+                        37.020429,
+                        39.749447
+                  ]
+            },
+            {
+                  "name": "Uzun Hacıoğlu Camii",
+                  "text": "Az Uzun Hacıoğlu Camii egy helyi istentiszteleti épület Sivasban.",
+                  "category": "religious",
+                  "coords": [
+                        37.010365,
+                        39.747093
+                  ]
+            },
+            {
+                  "name": "Aydoğan Camii",
+                  "text": "Az Aydoğan Camii egy vallási épület Sivasban.",
+                  "category": "religious",
+                  "coords": [
+                        37.007801,
+                        39.749284
+                  ]
+            },
+            {
+                  "name": "Sarızade Mehmet Paşa Camii",
+                  "text": "A Sarızade Mehmet Paşa Camii egy vallási hely Sivas városában.",
+                  "category": "religious",
+                  "coords": [
+                        37.010827,
+                        39.751002
+                  ]
+            },
+            {
+                  "name": "Alibaba Camii",
+                  "text": "Az Alibaba Camii egy istentiszteleti hely Sivasban.",
+                  "category": "religious",
+                  "coords": [
+                        37.024332,
+                        39.757509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sivas Arkeoloji Müzesi",
+                  "text": "Sivas Archaeology Museum este un muzeu local situat în Sivas.",
+                  "category": "museum",
+                  "coords": [
+                        37.011048,
+                        39.755389
+                  ]
+            },
+            {
+                  "name": "Sivas Kalesi",
+                  "text": "Sivas Kalesi este un sit arheologic aflat în Sivas.",
+                  "category": "historical",
+                  "coords": [
+                        37.015298,
+                        39.745695
+                  ]
+            },
+            {
+                  "name": "Gök Medrese",
+                  "text": "Gök Medrese funcționează ca muzeu în orașul Sivas.",
+                  "category": "museum",
+                  "coords": [
+                        37.016804,
+                        39.74432
+                  ]
+            },
+            {
+                  "name": "Sivas Devlet Tiyatrosu",
+                  "text": "Sivas Devlet Tiyatrosu este un teatru din Sivas.",
+                  "category": "cultural",
+                  "coords": [
+                        37.010909,
+                        39.74361
+                  ]
+            },
+            {
+                  "name": "Fidan Yazıcıoğlu Kültür Merkezi",
+                  "text": "Fidan Yazıcıoğlu Kültür Merkezi este un teatru și centru cultural în Sivas.",
+                  "category": "cultural",
+                  "coords": [
+                        37.009183,
+                        39.74541
+                  ]
+            },
+            {
+                  "name": "Yukarı Tekke Cami",
+                  "text": "Yukarı Tekke Cami este un lăcaș de cult din Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.033164,
+                        39.757374
+                  ]
+            },
+            {
+                  "name": "İmaret Cami",
+                  "text": "İmaret Cami este un lăcaș de cult situat în Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.022778,
+                        39.74202
+                  ]
+            },
+            {
+                  "name": "Ali Ağa Camii",
+                  "text": "Ali Ağa Camii este un lăcaș de cult aflat în orașul Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.016662,
+                        39.751147
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "Ulu Camii este un lăcaș de cult istoric și important din Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.017617,
+                        39.747164
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Yeni Cami este un lăcaș de cult situat în Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.019139,
+                        39.748389
+                  ]
+            },
+            {
+                  "name": "Sivas Meydan Camii",
+                  "text": "Sivas Meydan Camii este un lăcaș de cult din Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.020429,
+                        39.749447
+                  ]
+            },
+            {
+                  "name": "Uzun Hacıoğlu Camii",
+                  "text": "Uzun Hacıoğlu Camii este un lăcaș de cult local din Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.010365,
+                        39.747093
+                  ]
+            },
+            {
+                  "name": "Aydoğan Camii",
+                  "text": "Aydoğan Camii este un lăcaș de cult situat în Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.007801,
+                        39.749284
+                  ]
+            },
+            {
+                  "name": "Sarızade Mehmet Paşa Camii",
+                  "text": "Sarızade Mehmet Paşa Camii este un lăcaș de cult din orașul Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.010827,
+                        39.751002
+                  ]
+            },
+            {
+                  "name": "Alibaba Camii",
+                  "text": "Alibaba Camii este un lăcaș de cult din Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.024332,
+                        39.757509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sivas Archaeology Museum",
+                  "text": "Sivas Archaeology Museum is a local museum situated in Sivas.",
+                  "category": "museum",
+                  "coords": [
+                        37.011048,
+                        39.755389
+                  ]
+            },
+            {
+                  "name": "Sivas Kalesi",
+                  "text": "Sivas Kalesi is an archaeological site located in Sivas.",
+                  "category": "historical",
+                  "coords": [
+                        37.015298,
+                        39.745695
+                  ]
+            },
+            {
+                  "name": "Gök Medrese",
+                  "text": "Gök Medrese functions as a museum in the city of Sivas.",
+                  "category": "museum",
+                  "coords": [
+                        37.016804,
+                        39.74432
+                  ]
+            },
+            {
+                  "name": "Sivas Devlet Tiyatrosu",
+                  "text": "Sivas Devlet Tiyatrosu is a theatre located in Sivas.",
+                  "category": "cultural",
+                  "coords": [
+                        37.010909,
+                        39.74361
+                  ]
+            },
+            {
+                  "name": "Fidan Yazıcıoğlu Kültür Merkezi",
+                  "text": "Fidan Yazıcıoğlu Kültür Merkezi is a theatre and cultural center in Sivas.",
+                  "category": "cultural",
+                  "coords": [
+                        37.009183,
+                        39.74541
+                  ]
+            },
+            {
+                  "name": "Yukarı Tekke Cami",
+                  "text": "Yukarı Tekke Cami is a place of worship in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.033164,
+                        39.757374
+                  ]
+            },
+            {
+                  "name": "İmaret Cami",
+                  "text": "İmaret Cami is a place of worship situated in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.022778,
+                        39.74202
+                  ]
+            },
+            {
+                  "name": "Ali Ağa Camii",
+                  "text": "Ali Ağa Camii is a place of worship located in the city of Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.016662,
+                        39.751147
+                  ]
+            },
+            {
+                  "name": "Ulu Camii",
+                  "text": "Ulu Camii is a historic and significant place of worship in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.017617,
+                        39.747164
+                  ]
+            },
+            {
+                  "name": "Yeni Cami",
+                  "text": "Yeni Cami is a place of worship situated in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.019139,
+                        39.748389
+                  ]
+            },
+            {
+                  "name": "Sivas Meydan Camii",
+                  "text": "Sivas Meydan Camii is a place of worship located in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.020429,
+                        39.749447
+                  ]
+            },
+            {
+                  "name": "Uzun Hacıoğlu Camii",
+                  "text": "Uzun Hacıoğlu Camii is a local place of worship in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.010365,
+                        39.747093
+                  ]
+            },
+            {
+                  "name": "Aydoğan Camii",
+                  "text": "Aydoğan Camii is a place of worship located in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.007801,
+                        39.749284
+                  ]
+            },
+            {
+                  "name": "Sarızade Mehmet Paşa Camii",
+                  "text": "Sarızade Mehmet Paşa Camii is a place of worship in the city of Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.010827,
+                        39.751002
+                  ]
+            },
+            {
+                  "name": "Alibaba Camii",
+                  "text": "Alibaba Camii is a place of worship located in Sivas.",
+                  "category": "religious",
+                  "coords": [
+                        37.024332,
+                        39.757509
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-58",
     coords: [37.0167, 39.7500],
@@ -1186,6 +12823,321 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         39.698193,
                         41.006883
                   ]
+            },
+            {
+                  "name": "Güzelhisar Kalesi",
+                  "text": "Eine historische Befestigungsanlage in Trabzon, die heute als Park dient.",
+                  "category": "castle",
+                  "coords": [
+                        39.734673,
+                        41.007758
+                  ]
+            },
+            {
+                  "name": "Atatürk Köşkü",
+                  "text": "Ein historisches Herrenhaus, in dem Atatürk während seiner Besuche in Trabzon wohnte.",
+                  "category": "museum",
+                  "coords": [
+                        39.697482,
+                        40.979784
+                  ]
+            },
+            {
+                  "name": "Trabzon-Museum",
+                  "text": "Ein archäologisches und ethnographisches Museum in einem prächtigen Herrenhaus.",
+                  "category": "museum",
+                  "coords": [
+                        39.726552,
+                        41.00501
+                  ]
+            },
+            {
+                  "name": "Trabzon Edebiyat Müzesi",
+                  "text": "Ein Museum, das die Literaturgeschichte der Region Trabzon dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        39.718766,
+                        41.004533
+                  ]
+            },
+            {
+                  "name": "Trabzon Şehir Müzesi",
+                  "text": "Ein Museum, das der lokalen Geschichte und Kultur von Trabzon gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        39.728054,
+                        41.005964
+                  ]
+            },
+            {
+                  "name": "Trabzon Akvaryum",
+                  "text": "Ein öffentliches Aquarium in Trabzon, das verschiedene Meeresarten zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        39.717717,
+                        41.000605
+                  ]
+            },
+            {
+                  "name": "Trabzon Haluk Ongan Devlet Tiyatrosu",
+                  "text": "Ein bedeutendes staatliches Theater für darstellende Künste in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.717047,
+                        41.003045
+                  ]
+            },
+            {
+                  "name": "Trabzon Ortahisar Tarih Müzesi",
+                  "text": "Ein Museum, das das historische Erbe des Bezirks Ortahisar in Trabzon ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        39.721144,
+                        41.004977
+                  ]
+            },
+            {
+                  "name": "Zağnos Paşa Kulesi",
+                  "text": "Ein historischer Verteidigungsturm innerhalb der Stadtbefestigung von Trabzon.",
+                  "category": "castle",
+                  "coords": [
+                        39.71687,
+                        41.004552
+                  ]
+            },
+            {
+                  "name": "Trabzon Zaman Tüneli",
+                  "text": "Ein Museum in Trabzon, das einen chronologischen Blick auf die Vergangenheit der Stadt bietet.",
+                  "category": "museum",
+                  "coords": [
+                        39.708475,
+                        41.004149
+                  ]
+            },
+            {
+                  "name": "Alacahan",
+                  "text": "Ein Kultur- und Kunstzentrum in einem historischen Gebäude in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.724595,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Çok Amaçı Salon (St. John Kilisesi)",
+                  "text": "Ein vielseitiger Kulturort in einem ehemaligen Kirchengebäude in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.715027,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Nemlioğlu Konağı",
+                  "text": "Ein historisches Herrenhaus in Trabzon, das die traditionelle osmanische Architektur widerspiegelt.",
+                  "category": "historical",
+                  "coords": [
+                        39.728057,
+                        41.00168
+                  ]
+            },
+            {
+                  "name": "Hacı Arif Hamamı",
+                  "text": "Die historischen Überreste eines traditionellen türkischen Badehauses in Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.720679,
+                        41.007683
+                  ]
+            },
+            {
+                  "name": "Statue von Suleiman dem Prächtigen",
+                  "text": "Ein Denkmal für Sultan Süleyman den Prächtigen in seinem Geburtsort Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.73014,
+                        41.009159
+                  ]
+            },
+            {
+                  "name": "Der Unbekannte Soldat Denkmal",
+                  "text": "Ein Denkmal für die im Militärdienst gefallenen unbekannten Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        39.690459,
+                        41.002386
+                  ]
+            },
+            {
+                  "name": "Trabzon Yazısı",
+                  "text": "Ein beliebtes dekoratives Stadtschild und Fotopunkt für Besucher in Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.731506,
+                        40.998198
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "Eine Statue für Mustafa Kemal Atatürk, den Gründer der modernen Türkei.",
+                  "category": "historical",
+                  "coords": [
+                        39.712107,
+                        41.005826
+                  ]
+            },
+            {
+                  "name": "Boztepe Volkan Konak Seyir Platformu ve Gezinti Yolu",
+                  "text": "Eine hochgelegene Plattform und Promenade mit weitem Blick über Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.730292,
+                        40.998612
+                  ]
+            },
+            {
+                  "name": "Hamamizade İhsanbey Kültür Merkezi",
+                  "text": "Ein zentraler Ort für kulturelle Veranstaltungen, Aufführungen und Ausstellungen in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.731071,
+                        41.006354
+                  ]
+            },
+            {
+                  "name": "Hüseyin Kazaz Kültür Merkezi",
+                  "text": "Ein Kulturort in Trabzon, der verschiedene künstlerische Aktivitäten und Gemeinschaftsveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        39.720454,
+                        41.003997
+                  ]
+            },
+            {
+                  "name": "Kızlar Manastırı",
+                  "text": "Ein historisches byzantinisches Nonnenkloster mit Blick auf die Stadt Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.728963,
+                        40.998542
+                  ]
+            },
+            {
+                  "name": "Ayasofya Camii ve Müzesi",
+                  "text": "Eine ehemalige byzantinische Kirche und Museum, die heute als Moschee dient und für ihre Architektur und Fresken bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        39.69611,
+                        41.00309
+                  ]
+            },
+            {
+                  "name": "Ahi Evren Dede Cami",
+                  "text": "Eine historische Moschee und Grabkomplex in Trabzon, gewidmet Ahi Evren.",
+                  "category": "religious",
+                  "coords": [
+                        39.73516,
+                        40.99668
+                  ]
+            },
+            {
+                  "name": "Musa Paşa Camii",
+                  "text": "Eine traditionelle osmanische Moschee im historischen Zentrum von Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.720382,
+                        41.003068
+                  ]
+            },
+            {
+                  "name": "Tabakhane Cami",
+                  "text": "Eine bedeutende historische Moschee in der Nähe der Stadtmauer von Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.722692,
+                        41.00509
+                  ]
+            },
+            {
+                  "name": "Çarşı Camii",
+                  "text": "Eine historische Moschee im Herzen des traditionellen Basarviertels von Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.723513,
+                        41.007508
+                  ]
+            },
+            {
+                  "name": "Hızırbey Cami",
+                  "text": "Eine historische Moschee in Trabzon aus der osmanischen Ära.",
+                  "category": "religious",
+                  "coords": [
+                        39.71363,
+                        41.00672
+                  ]
+            },
+            {
+                  "name": "Hacı Yahya Cami",
+                  "text": "Eine kleine historische Moschee im Stadtgebiet von Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.722326,
+                        41.008128
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche der Heiligen Maria",
+                  "text": "Eine katholische Kirche aus dem 19. Jahrhundert für die kleine christliche Gemeinde in Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.73209,
+                        41.007189
+                  ]
+            },
+            {
+                  "name": "Yeni Cuma Cami",
+                  "text": "Eine historische Moschee in Trabzon, ursprünglich eine byzantinische Kirche, die dem heiligen Eugenius gewidmet war.",
+                  "category": "religious",
+                  "coords": [
+                        39.722141,
+                        41.001038
+                  ]
+            },
+            {
+                  "name": "Hoca Halil Cami",
+                  "text": "Ein lokales Gotteshaus in Trabzon mit historischer Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        39.717729,
+                        41.007883
+                  ]
+            },
+            {
+                  "name": "Tekke Mosque",
+                  "text": "Eine Moschee in Trabzon, die historisch mit einer Derwischloge oder Tekke verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        39.729346,
+                        41.003772
+                  ]
+            },
+            {
+                  "name": "Erdoğdu Bey Cami",
+                  "text": "Eine Moschee aus der osmanischen Zeit im Stadtteil Erdoğdu von Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.712309,
+                        41.000898
+                  ]
+            },
+            {
+                  "name": "Hamza Paşa Cami",
+                  "text": "Eine historische Moschee, erbaut von Hamza Pascha in der Stadt Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.71278,
+                        41.004298
+                  ]
             }
       ],
       "hu": [
@@ -1196,6 +13148,321 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         39.698193,
                         41.006883
+                  ]
+            },
+            {
+                  "name": "Güzelhisar Kalesi",
+                  "text": "Egy történelmi erődítmény Trabzonban, amely ma parkként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        39.734673,
+                        41.007758
+                  ]
+            },
+            {
+                  "name": "Atatürk Köşkü",
+                  "text": "Egy történelmi kastély, ahol Atatürk megszállt trabzoni látogatásai során.",
+                  "category": "museum",
+                  "coords": [
+                        39.697482,
+                        40.979784
+                  ]
+            },
+            {
+                  "name": "Trabzon Müzesi",
+                  "text": "Régészeti és néprajzi múzeum egy pompás kastélyban.",
+                  "category": "museum",
+                  "coords": [
+                        39.726552,
+                        41.00501
+                  ]
+            },
+            {
+                  "name": "Trabzon Edebiyat Müzesi",
+                  "text": "A Trabzon régió irodalomtörténetét dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        39.718766,
+                        41.004533
+                  ]
+            },
+            {
+                  "name": "Trabzon Şehir Müzesi",
+                  "text": "Trabzon helytörténeti és kulturális emlékeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        39.728054,
+                        41.005964
+                  ]
+            },
+            {
+                  "name": "Trabzon Akvaryum",
+                  "text": "Nyilvános akvárium Trabzonban, amely különféle tengeri fajokat mutat be.",
+                  "category": "recreational",
+                  "coords": [
+                        39.717717,
+                        41.000605
+                  ]
+            },
+            {
+                  "name": "Trabzon Haluk Ongan Devlet Tiyatrosu",
+                  "text": "Trabzon jelentős állami színháza, amely előadóművészeti produkcióknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        39.717047,
+                        41.003045
+                  ]
+            },
+            {
+                  "name": "Trabzon Ortahisar Tarih Müzesi",
+                  "text": "Trabzon Ortahisar negyedének történelmi örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        39.721144,
+                        41.004977
+                  ]
+            },
+            {
+                  "name": "Zağnos Paşa Kulesi",
+                  "text": "Történelmi védműtorony Trabzon városfalai között.",
+                  "category": "castle",
+                  "coords": [
+                        39.71687,
+                        41.004552
+                  ]
+            },
+            {
+                  "name": "Trabzon Zaman Tüneli",
+                  "text": "Trabzon múltját időrendben bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        39.708475,
+                        41.004149
+                  ]
+            },
+            {
+                  "name": "Alacahan",
+                  "text": "Kulturális és művészeti központ egy történelmi épületben Trabzonban.",
+                  "category": "cultural",
+                  "coords": [
+                        39.724595,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Çok Amaçı Salon (St. John Kilisesi)",
+                  "text": "Sokoldalú kulturális helyszín egy egykori templomépületben, Trabzonban.",
+                  "category": "cultural",
+                  "coords": [
+                        39.715027,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Nemlioğlu Konağı",
+                  "text": "Történelmi kúria Trabzonban, amely a hagyományos oszmán építészetet tükrözi.",
+                  "category": "historical",
+                  "coords": [
+                        39.728057,
+                        41.00168
+                  ]
+            },
+            {
+                  "name": "Hacı Arif Hamamı",
+                  "text": "Egy hagyományos török fürdő történelmi maradványai Trabzonban.",
+                  "category": "historical",
+                  "coords": [
+                        39.720679,
+                        41.007683
+                  ]
+            },
+            {
+                  "name": "Kanuni Sultan Süleyman Heykeli",
+                  "text": "I. Szulejmán szultán emlékére állított emlékmű szülővárosában, Trabzonban.",
+                  "category": "historical",
+                  "coords": [
+                        39.73014,
+                        41.009159
+                  ]
+            },
+            {
+                  "name": "Meçhul Asker Anıtı",
+                  "text": "Az ismeretlen katonák emlékére állított emlékmű Trabzonban.",
+                  "category": "historical",
+                  "coords": [
+                        39.690459,
+                        41.002386
+                  ]
+            },
+            {
+                  "name": "Trabzon Yazısı",
+                  "text": "Népszerű városfelirat és fotóhelyszín Trabzon látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        39.731506,
+                        40.998198
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "Mustafa Kemal Atatürknek, a modern Törökország alapítójának szentelt szobor.",
+                  "category": "historical",
+                  "coords": [
+                        39.712107,
+                        41.005826
+                  ]
+            },
+            {
+                  "name": "Boztepe Volkan Konak Seyir Platformu ve Gezinti Yolu",
+                  "text": "Magasan fekvő kilátóterasz és sétány, ahonnan pazar kilátás nyílik Trabzonra.",
+                  "category": "landmark",
+                  "coords": [
+                        39.730292,
+                        40.998612
+                  ]
+            },
+            {
+                  "name": "Hamamizade İhsanbey Kültür Merkezi",
+                  "text": "Trabzon kulturális eseményeinek, előadásainak és kiállításainak központi helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        39.731071,
+                        41.006354
+                  ]
+            },
+            {
+                  "name": "Hüseyin Kazaz Kültür Merkezi",
+                  "text": "Trabzoni kulturális helyszín, amely különféle művészeti és közösségi eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        39.720454,
+                        41.003997
+                  ]
+            },
+            {
+                  "name": "Kızlar Manastırı",
+                  "text": "Történelmi, bizánci korszakból származó apácakolostor Trabzon városa felett.",
+                  "category": "religious",
+                  "coords": [
+                        39.728963,
+                        40.998542
+                  ]
+            },
+            {
+                  "name": "Ayasofya Camii ve Müzesi",
+                  "text": "Egykori bizánci templom és múzeum, amely ma mecsetként működik, építészetéről és freskóiról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        39.69611,
+                        41.00309
+                  ]
+            },
+            {
+                  "name": "Ahi Evren Dede Cami",
+                  "text": "Történelmi mecset és sírkomplexum Trabzonban, amelyet Ahi Evrennek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        39.73516,
+                        40.99668
+                  ]
+            },
+            {
+                  "name": "Musa Paşa Camii",
+                  "text": "Hagyományos oszmán stílusú mecset Trabzon történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        39.720382,
+                        41.003068
+                  ]
+            },
+            {
+                  "name": "Tabakhane Cami",
+                  "text": "Jelentős történelmi mecset Trabzon városfalainak közelében.",
+                  "category": "religious",
+                  "coords": [
+                        39.722692,
+                        41.00509
+                  ]
+            },
+            {
+                  "name": "Çarşı Camii",
+                  "text": "Történelmi mecset Trabzon hagyományos bazárnegyedének szívében.",
+                  "category": "religious",
+                  "coords": [
+                        39.723513,
+                        41.007508
+                  ]
+            },
+            {
+                  "name": "Hızırbey Cami",
+                  "text": "Történelmi mecset Trabzonban az oszmán korból.",
+                  "category": "religious",
+                  "coords": [
+                        39.71363,
+                        41.00672
+                  ]
+            },
+            {
+                  "name": "Hacı Yahya Cami",
+                  "text": "Kis történelmi mecset Trabzon városi területén.",
+                  "category": "religious",
+                  "coords": [
+                        39.722326,
+                        41.008128
+                  ]
+            },
+            {
+                  "name": "Szent Mária-Katolikus Templom",
+                  "text": "19. századi katolikus templom, amely Trabzon kis keresztény közösségét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        39.73209,
+                        41.007189
+                  ]
+            },
+            {
+                  "name": "Yeni Cuma Cami",
+                  "text": "Történelmi mecset Trabzonban, eredetileg Szent Eugeniosznak szentelt bizánci templom.",
+                  "category": "religious",
+                  "coords": [
+                        39.722141,
+                        41.001038
+                  ]
+            },
+            {
+                  "name": "Hoca Halil Cami",
+                  "text": "Történelmi jelentőségű helyi imaház Trabzonban.",
+                  "category": "religious",
+                  "coords": [
+                        39.717729,
+                        41.007883
+                  ]
+            },
+            {
+                  "name": "Tekke Mosque",
+                  "text": "Trabzoni mecset, amely történelmileg egy dervisrenddel (tekke) állt kapcsolatban.",
+                  "category": "religious",
+                  "coords": [
+                        39.729346,
+                        41.003772
+                  ]
+            },
+            {
+                  "name": "Erdoğdu Bey Cami",
+                  "text": "Oszmán kori mecset Trabzon Erdoğdu negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        39.712309,
+                        41.000898
+                  ]
+            },
+            {
+                  "name": "Hamza Paşa Cami",
+                  "text": "Történelmi mecset Trabzonban, amelyet Hamza pasa építtetett.",
+                  "category": "religious",
+                  "coords": [
+                        39.71278,
+                        41.004298
                   ]
             }
       ],
@@ -1208,6 +13475,321 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         39.698193,
                         41.006883
                   ]
+            },
+            {
+                  "name": "Güzelhisar Kalesi",
+                  "text": "O fortificație istorică din Trabzon care servește astăzi ca parc.",
+                  "category": "castle",
+                  "coords": [
+                        39.734673,
+                        41.007758
+                  ]
+            },
+            {
+                  "name": "Atatürk Köşkü",
+                  "text": "Un conac istoric unde a locuit Atatürk în timpul vizitelor sale la Trabzon.",
+                  "category": "museum",
+                  "coords": [
+                        39.697482,
+                        40.979784
+                  ]
+            },
+            {
+                  "name": "Trabzon Müzesi",
+                  "text": "Un muzeu arheologic și etnografic situat într-un conac splendid.",
+                  "category": "museum",
+                  "coords": [
+                        39.726552,
+                        41.00501
+                  ]
+            },
+            {
+                  "name": "Trabzon Edebiyat Müzesi",
+                  "text": "Un muzeu care documentează istoria literară a regiunii Trabzon.",
+                  "category": "museum",
+                  "coords": [
+                        39.718766,
+                        41.004533
+                  ]
+            },
+            {
+                  "name": "Trabzon Şehir Müzesi",
+                  "text": "Un muzeu dedicat istoriei și culturii locale din Trabzon.",
+                  "category": "museum",
+                  "coords": [
+                        39.728054,
+                        41.005964
+                  ]
+            },
+            {
+                  "name": "Trabzon Akvaryum",
+                  "text": "Un acvariu public din Trabzon care prezintă diverse specii marine.",
+                  "category": "recreational",
+                  "coords": [
+                        39.717717,
+                        41.000605
+                  ]
+            },
+            {
+                  "name": "Trabzon Haluk Ongan Devlet Tiyatrosu",
+                  "text": "Un important teatru de stat pentru arte spectacolului din Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.717047,
+                        41.003045
+                  ]
+            },
+            {
+                  "name": "Trabzon Ortahisar Tarih Müzesi",
+                  "text": "Un muzeu care expune moștenirea istorică a districtului Ortahisar din Trabzon.",
+                  "category": "museum",
+                  "coords": [
+                        39.721144,
+                        41.004977
+                  ]
+            },
+            {
+                  "name": "Zağnos Paşa Kulesi",
+                  "text": "Un turn defensiv istoric situat în cadrul fortificațiilor orașului Trabzon.",
+                  "category": "castle",
+                  "coords": [
+                        39.71687,
+                        41.004552
+                  ]
+            },
+            {
+                  "name": "Trabzon Zaman Tüneli",
+                  "text": "Un muzeu din Trabzon care oferă o perspectivă cronologică asupra trecutului orașului.",
+                  "category": "museum",
+                  "coords": [
+                        39.708475,
+                        41.004149
+                  ]
+            },
+            {
+                  "name": "Alacahan",
+                  "text": "Un centru cultural și de artă găzduit într-o clădire istorică din Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.724595,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Çok Amaçı Salon (St. John Kilisesi)",
+                  "text": "Un loc cultural versatil situat într-o fostă clădire de biserică din Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.715027,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Nemlioğlu Konağı",
+                  "text": "Un conac istoric care reflectă arhitectura tradițională otomană din Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.728057,
+                        41.00168
+                  ]
+            },
+            {
+                  "name": "Hacı Arif Hamamı",
+                  "text": "Vestigiile istorice ale unei băi turcești tradiționale din Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.720679,
+                        41.007683
+                  ]
+            },
+            {
+                  "name": "Kanuni Sultan Süleyman Heykeli",
+                  "text": "Un monument dedicat sultanului Suleiman Magnificul în locul său de naștere, Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.73014,
+                        41.009159
+                  ]
+            },
+            {
+                  "name": "Meçhul Asker Anıtı",
+                  "text": "Un monument dedicat soldaților necunoscuți care au murit în serviciul militar.",
+                  "category": "historical",
+                  "coords": [
+                        39.690459,
+                        41.002386
+                  ]
+            },
+            {
+                  "name": "Trabzon Yazısı",
+                  "text": "Un semn decorativ popular al orașului și un loc de fotografiat pentru vizitatorii din Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.731506,
+                        40.998198
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "O statuie dedicată lui Mustafa Kemal Atatürk, fondatorul Turciei moderne.",
+                  "category": "historical",
+                  "coords": [
+                        39.712107,
+                        41.005826
+                  ]
+            },
+            {
+                  "name": "Boztepe Volkan Konak Seyir Platformu ve Gezinti Yolu",
+                  "text": "O platformă de belvedere și o promenadă situată la înălțime, oferind vederi largi asupra Trabzonului.",
+                  "category": "landmark",
+                  "coords": [
+                        39.730292,
+                        40.998612
+                  ]
+            },
+            {
+                  "name": "Hamamizade İhsanbey Kültür Merkezi",
+                  "text": "Un centru important pentru evenimente culturale, spectacole și expoziții în Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.731071,
+                        41.006354
+                  ]
+            },
+            {
+                  "name": "Hüseyin Kazaz Kültür Merkezi",
+                  "text": "Un loc cultural din Trabzon care găzduiește diverse activități artistice și evenimente comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        39.720454,
+                        41.003997
+                  ]
+            },
+            {
+                  "name": "Kızlar Manastırı",
+                  "text": "O mănăstire istorică din epoca bizantină pentru călugărițe, cu vedere la orașul Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.728963,
+                        40.998542
+                  ]
+            },
+            {
+                  "name": "Ayasofya Camii ve Müzesi",
+                  "text": "O fostă biserică bizantină și muzeu, care acum servește drept moschee, cunoscută pentru arhitectura și frescele sale.",
+                  "category": "religious",
+                  "coords": [
+                        39.69611,
+                        41.00309
+                  ]
+            },
+            {
+                  "name": "Ahi Evren Dede Cami",
+                  "text": "O moschee istorică și un complex funerar dedicat lui Ahi Evren în Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.73516,
+                        40.99668
+                  ]
+            },
+            {
+                  "name": "Musa Paşa Camii",
+                  "text": "O moschee tradițională în stil otoman situată în centrul istoric al Trabzonului.",
+                  "category": "religious",
+                  "coords": [
+                        39.720382,
+                        41.003068
+                  ]
+            },
+            {
+                  "name": "Tabakhane Cami",
+                  "text": "O moschee istorică notabilă situată lângă zidurile orașului Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.722692,
+                        41.00509
+                  ]
+            },
+            {
+                  "name": "Çarşı Camii",
+                  "text": "O moschee istorică situată în inima districtului tradițional al bazarului din Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.723513,
+                        41.007508
+                  ]
+            },
+            {
+                  "name": "Hızırbey Cami",
+                  "text": "O moschee istorică din Trabzon care datează din epoca otomană.",
+                  "category": "religious",
+                  "coords": [
+                        39.71363,
+                        41.00672
+                  ]
+            },
+            {
+                  "name": "Hacı Yahya Cami",
+                  "text": "O mică moschee istorică situată în zona urbană a Trabzonului.",
+                  "category": "religious",
+                  "coords": [
+                        39.722326,
+                        41.008128
+                  ]
+            },
+            {
+                  "name": "Santa Maria Katolik Kilisesi",
+                  "text": "O biserică catolică din secolul al XIX-lea care deservește mica comunitate creștină din Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.73209,
+                        41.007189
+                  ]
+            },
+            {
+                  "name": "Yeni Cuma Cami",
+                  "text": "O moschee istorică din Trabzon, inițial o biserică bizantină dedicată Sfântului Eugen.",
+                  "category": "religious",
+                  "coords": [
+                        39.722141,
+                        41.001038
+                  ]
+            },
+            {
+                  "name": "Hoca Halil Cami",
+                  "text": "Un lăcaș de cult local din Trabzon cu semnificație istorică.",
+                  "category": "religious",
+                  "coords": [
+                        39.717729,
+                        41.007883
+                  ]
+            },
+            {
+                  "name": "Tekke Mosque",
+                  "text": "O moschee din Trabzon asociată istoric cu o lojă de derviși sau tekke.",
+                  "category": "religious",
+                  "coords": [
+                        39.729346,
+                        41.003772
+                  ]
+            },
+            {
+                  "name": "Erdoğdu Bey Cami",
+                  "text": "O moschee din epoca otomană situată în districtul Erdoğdu din Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.712309,
+                        41.000898
+                  ]
+            },
+            {
+                  "name": "Hamza Paşa Cami",
+                  "text": "O moschee istorică construită de Hamza Pașa în orașul Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.71278,
+                        41.004298
+                  ]
             }
       ],
       "en": [
@@ -1218,6 +13800,321 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         39.698193,
                         41.006883
+                  ]
+            },
+            {
+                  "name": "Guzelhisar Castle",
+                  "text": "A historic fortification in Trabzon that now serves as a park.",
+                  "category": "castle",
+                  "coords": [
+                        39.734673,
+                        41.007758
+                  ]
+            },
+            {
+                  "name": "Ataturk Pavilion Museum",
+                  "text": "A historic mansion where Atatürk stayed during his visits to Trabzon.",
+                  "category": "museum",
+                  "coords": [
+                        39.697482,
+                        40.979784
+                  ]
+            },
+            {
+                  "name": "Trabzon Museum",
+                  "text": "An archaeological and ethnographic museum housed in a splendid mansion.",
+                  "category": "museum",
+                  "coords": [
+                        39.726552,
+                        41.00501
+                  ]
+            },
+            {
+                  "name": "Trabzon Literature Museum",
+                  "text": "A museum documenting the literary history of the Trabzon region.",
+                  "category": "museum",
+                  "coords": [
+                        39.718766,
+                        41.004533
+                  ]
+            },
+            {
+                  "name": "Trabzon City Museum",
+                  "text": "A museum dedicated to the local history and culture of Trabzon.",
+                  "category": "museum",
+                  "coords": [
+                        39.728054,
+                        41.005964
+                  ]
+            },
+            {
+                  "name": "Trabzon Aquarium",
+                  "text": "A public aquarium in Trabzon showcasing various marine species.",
+                  "category": "recreational",
+                  "coords": [
+                        39.717717,
+                        41.000605
+                  ]
+            },
+            {
+                  "name": "Trabzon Haluk Ongan State Theatre",
+                  "text": "A prominent state-run theater venue for performing arts in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.717047,
+                        41.003045
+                  ]
+            },
+            {
+                  "name": "Trabzon Ortahisar History Museum",
+                  "text": "A museum exhibiting the historical heritage of the Ortahisar district in Trabzon.",
+                  "category": "museum",
+                  "coords": [
+                        39.721144,
+                        41.004977
+                  ]
+            },
+            {
+                  "name": "Zaganos Pasha Tower",
+                  "text": "A historic defensive tower located within the city fortifications of Trabzon.",
+                  "category": "castle",
+                  "coords": [
+                        39.71687,
+                        41.004552
+                  ]
+            },
+            {
+                  "name": "Trabzon Zaman Tüneli",
+                  "text": "A museum in Trabzon that offers a chronological look at the city's past.",
+                  "category": "museum",
+                  "coords": [
+                        39.708475,
+                        41.004149
+                  ]
+            },
+            {
+                  "name": "Alacahan",
+                  "text": "A cultural and arts center housed in a historic building in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.724595,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Multi-Purpose Hall (St. John's Church)",
+                  "text": "A versatile cultural venue located in a former church building in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.715027,
+                        41.007871
+                  ]
+            },
+            {
+                  "name": "Nemlioğlu Konağı",
+                  "text": "A historic mansion reflecting traditional Ottoman architecture in Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.728057,
+                        41.00168
+                  ]
+            },
+            {
+                  "name": "Hajji Arif Turkish Bath",
+                  "text": "The historical remains of a traditional Turkish bathhouse in Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.720679,
+                        41.007683
+                  ]
+            },
+            {
+                  "name": "Statue of Suleiman The Magnificent",
+                  "text": "A monument dedicated to Sultan Suleiman the Magnificent in his birthplace, Trabzon.",
+                  "category": "historical",
+                  "coords": [
+                        39.73014,
+                        41.009159
+                  ]
+            },
+            {
+                  "name": "The Unknown Soldier Monument",
+                  "text": "A memorial dedicated to unidentified soldiers who died in military service.",
+                  "category": "historical",
+                  "coords": [
+                        39.690459,
+                        41.002386
+                  ]
+            },
+            {
+                  "name": "Trabzon Sign",
+                  "text": "A popular decorative city sign and photo spot for visitors in Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.731506,
+                        40.998198
+                  ]
+            },
+            {
+                  "name": "Atatürk Heykeli",
+                  "text": "A statue dedicated to Mustafa Kemal Atatürk, the founder of modern Turkey.",
+                  "category": "historical",
+                  "coords": [
+                        39.712107,
+                        41.005826
+                  ]
+            },
+            {
+                  "name": "Boztepe Viewing Platform and Promenade",
+                  "text": "A high-altitude platform and walking area offering expansive views of Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.730292,
+                        40.998612
+                  ]
+            },
+            {
+                  "name": "Hamamizade Ihsanbey Cultural Center",
+                  "text": "A central hub for cultural events, performances, and exhibitions in Trabzon.",
+                  "category": "cultural",
+                  "coords": [
+                        39.731071,
+                        41.006354
+                  ]
+            },
+            {
+                  "name": "Hüseyin Kazaz Cultural Center",
+                  "text": "A cultural venue in Trabzon hosting various artistic activities and community events.",
+                  "category": "cultural",
+                  "coords": [
+                        39.720454,
+                        41.003997
+                  ]
+            },
+            {
+                  "name": "Kızlar Manastırı",
+                  "text": "A historic Byzantine-era monastery for nuns overlooking the city of Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.728963,
+                        40.998542
+                  ]
+            },
+            {
+                  "name": "Hagia Sophia Mosque",
+                  "text": "A former Byzantine church and museum, now serving as a mosque, known for its architecture and frescoes.",
+                  "category": "religious",
+                  "coords": [
+                        39.69611,
+                        41.00309
+                  ]
+            },
+            {
+                  "name": "Ahi Evren Dede Cami",
+                  "text": "A historic mosque and tomb complex dedicated to Ahi Evren in Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.73516,
+                        40.99668
+                  ]
+            },
+            {
+                  "name": "Musa Paşa Camii",
+                  "text": "A traditional Ottoman-style mosque located in the historic center of Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.720382,
+                        41.003068
+                  ]
+            },
+            {
+                  "name": "Tabakhane Mosque",
+                  "text": "A notable historic mosque situated near the city walls of Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.722692,
+                        41.00509
+                  ]
+            },
+            {
+                  "name": "Carsi (Bazaar) Mosque",
+                  "text": "A historic mosque located in the heart of the traditional bazaar district of Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.723513,
+                        41.007508
+                  ]
+            },
+            {
+                  "name": "Hızırbey Cami",
+                  "text": "A historical mosque in Trabzon dating back to the Ottoman era.",
+                  "category": "religious",
+                  "coords": [
+                        39.71363,
+                        41.00672
+                  ]
+            },
+            {
+                  "name": "Hadji Yahya Mosque",
+                  "text": "A small historical mosque located within the urban area of Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.722326,
+                        41.008128
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Saint Mary",
+                  "text": "A 19th-century Catholic church serving the small Christian community in Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.73209,
+                        41.007189
+                  ]
+            },
+            {
+                  "name": "Yeni Cuma Mosque",
+                  "text": "A historic mosque in Trabzon, originally a Byzantine church dedicated to Saint Eugenius.",
+                  "category": "religious",
+                  "coords": [
+                        39.722141,
+                        41.001038
+                  ]
+            },
+            {
+                  "name": "Hoca Halil Mosque",
+                  "text": "A local place of worship in Trabzon with historical significance.",
+                  "category": "religious",
+                  "coords": [
+                        39.717729,
+                        41.007883
+                  ]
+            },
+            {
+                  "name": "Tekke Mosque",
+                  "text": "A mosque in Trabzon historically associated with a dervish lodge or tekke.",
+                  "category": "religious",
+                  "coords": [
+                        39.729346,
+                        41.003772
+                  ]
+            },
+            {
+                  "name": "Erdogdu Bey Mosque",
+                  "text": "An Ottoman-era mosque located in the Erdoğdu district of Trabzon.",
+                  "category": "landmark",
+                  "coords": [
+                        39.712309,
+                        41.000898
+                  ]
+            },
+            {
+                  "name": "Hamza Paşa Cami",
+                  "text": "A historic mosque built by Hamza Pasha in the city of Trabzon.",
+                  "category": "religious",
+                  "coords": [
+                        39.71278,
+                        41.004298
                   ]
             }
       ]
@@ -1267,6 +14164,78 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         27.559063,
                         40.980787
                   ]
+            },
+            {
+                  "name": "Rakoczi Müzesi",
+                  "text": "Das Rakoczi Müzesi ist ein anerkanntes Museum in Tekirdağ, das historische Ereignisse beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        27.50995,
+                        40.974119
+                  ]
+            },
+            {
+                  "name": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+                  "text": "Das Tekirdağ Arkeoloji ve Etnografya Müzesi ist ein bedeutendes Museum für regionale Archäologie und Kultur in Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.512678,
+                        40.975802
+                  ]
+            },
+            {
+                  "name": "İbrahim Balaban Müzesi",
+                  "text": "Das İbrahim Balaban Müzesi ist ein Museum in Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.511166,
+                        40.976401
+                  ]
+            },
+            {
+                  "name": "Namık Kemal Evi",
+                  "text": "Namık Kemal Evi dient als Museum in der Stadt Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.516718,
+                        40.979025
+                  ]
+            },
+            {
+                  "name": "Şehitler Anıtı",
+                  "text": "Şehitler Anıtı ist ein lokales Denkmal in Tekirdağ.",
+                  "category": "historical",
+                  "coords": [
+                        27.537842,
+                        40.98311
+                  ]
+            },
+            {
+                  "name": "Eski Camii",
+                  "text": "Die Eski Mosque ist eine Kultstätte in Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.513272,
+                        40.977874
+                  ]
+            },
+            {
+                  "name": "Rüstem Paşa Camii",
+                  "text": "Die Rüstem Paşa Mosque ist eine Kultstätte in Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.516269,
+                        40.977807
+                  ]
+            },
+            {
+                  "name": "Orta Camii",
+                  "text": "Die Orta Mosque ist eine Kultstätte in der Stadt Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.514708,
+                        40.978218
+                  ]
             }
       ],
       "hu": [
@@ -1277,6 +14246,78 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         27.559063,
                         40.980787
+                  ]
+            },
+            {
+                  "name": "Rakoczi Müzesi",
+                  "text": "A Rakoczi Müzesi egy ismert történelmi múzeum Tekirdağ városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.50995,
+                        40.974119
+                  ]
+            },
+            {
+                  "name": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+                  "text": "A Tekirdağ Arkeoloji ve Etnografya Müzesi egy jelentős regionális régészeti és kulturális múzeum Tekirdağban.",
+                  "category": "museum",
+                  "coords": [
+                        27.512678,
+                        40.975802
+                  ]
+            },
+            {
+                  "name": "İbrahim Balaban Müzesi",
+                  "text": "Az İbrahim Balaban Müzesi egy múzeum Tekirdağban.",
+                  "category": "museum",
+                  "coords": [
+                        27.511166,
+                        40.976401
+                  ]
+            },
+            {
+                  "name": "Namık Kemal Evi",
+                  "text": "A Namık Kemal Evi múzeumként működik Tekirdağ városában.",
+                  "category": "museum",
+                  "coords": [
+                        27.516718,
+                        40.979025
+                  ]
+            },
+            {
+                  "name": "Şehitler Anıtı",
+                  "text": "A Şehitler Anıtı egy helyi emlékmű Tekirdağ városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.537842,
+                        40.98311
+                  ]
+            },
+            {
+                  "name": "Eski Camii",
+                  "text": "Az Eski Mosque egy vallási épület Tekirdağban.",
+                  "category": "religious",
+                  "coords": [
+                        27.513272,
+                        40.977874
+                  ]
+            },
+            {
+                  "name": "Rüstem Paşa Camii",
+                  "text": "A Rüstem Paşa Mosque egy istentiszteleti hely Tekirdağban.",
+                  "category": "religious",
+                  "coords": [
+                        27.516269,
+                        40.977807
+                  ]
+            },
+            {
+                  "name": "Orta Camii",
+                  "text": "Az Orta Mosque egy vallási hely Tekirdağ városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.514708,
+                        40.978218
                   ]
             }
       ],
@@ -1289,6 +14330,78 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                         27.559063,
                         40.980787
                   ]
+            },
+            {
+                  "name": "Rakoczi Müzesi",
+                  "text": "Rakoczi Müzesi este un muzeu recunoscut ce explorează istoria din Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.50995,
+                        40.974119
+                  ]
+            },
+            {
+                  "name": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+                  "text": "Tekirdağ Arkeoloji ve Etnografya Müzesi este un muzeu notabil care expune arheologia și cultura regională în Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.512678,
+                        40.975802
+                  ]
+            },
+            {
+                  "name": "İbrahim Balaban Müzesi",
+                  "text": "İbrahim Balaban Müzesi este un muzeu din Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.511166,
+                        40.976401
+                  ]
+            },
+            {
+                  "name": "Namık Kemal Evi",
+                  "text": "Namık Kemal Evi funcționează ca muzeu în orașul Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.516718,
+                        40.979025
+                  ]
+            },
+            {
+                  "name": "Şehitler Anıtı",
+                  "text": "Şehitler Anıtı este un monument local din Tekirdağ.",
+                  "category": "historical",
+                  "coords": [
+                        27.537842,
+                        40.98311
+                  ]
+            },
+            {
+                  "name": "Eski Camii",
+                  "text": "Eski Mosque este un lăcaș de cult din Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.513272,
+                        40.977874
+                  ]
+            },
+            {
+                  "name": "Rüstem Paşa Camii",
+                  "text": "Rüstem Paşa Mosque este un lăcaș de cult situat în Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.516269,
+                        40.977807
+                  ]
+            },
+            {
+                  "name": "Orta Camii",
+                  "text": "Orta Mosque este un lăcaș de cult aflat în orașul Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.514708,
+                        40.978218
+                  ]
             }
       ],
       "en": [
@@ -1299,6 +14412,78 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
                   "coords": [
                         27.559063,
                         40.980787
+                  ]
+            },
+            {
+                  "name": "Rakoczi Müzesi",
+                  "text": "Rakoczi Müzesi is a recognized museum exploring historical events in Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.50995,
+                        40.974119
+                  ]
+            },
+            {
+                  "name": "Tekirdağ Arkeoloji ve Etnografya Müzesi",
+                  "text": "Tekirdağ Arkeoloji ve Etnografya Müzesi is a notable museum showcasing regional archaeology and culture in Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.512678,
+                        40.975802
+                  ]
+            },
+            {
+                  "name": "İbrahim Balaban Müzesi",
+                  "text": "İbrahim Balaban Müzesi is a museum located in Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.511166,
+                        40.976401
+                  ]
+            },
+            {
+                  "name": "Namık Kemal Evi",
+                  "text": "Namık Kemal Evi functions as a museum in the city of Tekirdağ.",
+                  "category": "museum",
+                  "coords": [
+                        27.516718,
+                        40.979025
+                  ]
+            },
+            {
+                  "name": "Şehitler Anıtı",
+                  "text": "Şehitler Anıtı is a local monument in Tekirdağ.",
+                  "category": "historical",
+                  "coords": [
+                        27.537842,
+                        40.98311
+                  ]
+            },
+            {
+                  "name": "Eski Mosque",
+                  "text": "Eski Mosque is a place of worship located in Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.513272,
+                        40.977874
+                  ]
+            },
+            {
+                  "name": "Rüstem Paşa Mosque",
+                  "text": "Rüstem Paşa Mosque is a place of worship situated in Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.516269,
+                        40.977807
+                  ]
+            },
+            {
+                  "name": "Orta Mosque",
+                  "text": "Orta Mosque is a place of worship found in the city of Tekirdağ.",
+                  "category": "religious",
+                  "coords": [
+                        27.514708,
+                        40.978218
                   ]
             }
       ]
@@ -1338,7 +14523,232 @@ export const poiExtraTurkeyCitiesV2: POI[] = [
     },
   },
   {
-    id: "osmaniye-cities-v2",
+    id: "osmaniye-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Osmaniye Müzesi",
+                  "text": "Ein Museum, das die Geschichte und Archäologie der Provinz Osmaniye dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        36.22303,
+                        37.054657
+                  ]
+            },
+            {
+                  "name": "Hayal Park",
+                  "text": "Ein Freizeit- und Vergnügungspark für die Bewohner von Osmaniye.",
+                  "category": "recreational",
+                  "coords": [
+                        36.229117,
+                        37.0642
+                  ]
+            },
+            {
+                  "name": "2023 Açıkhava Müzesi",
+                  "text": "Ein Freilichtmuseum in Osmaniye, das historische Fundstücke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        36.249108,
+                        37.075568
+                  ]
+            },
+            {
+                  "name": "Fıstık Müzesi",
+                  "text": "Ein Museum, das der für die Region bedeutenden Erdnussproduktion gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        36.230686,
+                        37.053821
+                  ]
+            },
+            {
+                  "name": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahası",
+                  "text": "Ein Naturschutzgebiet im Hochland von Osmaniye zur Erhaltung der Tierwelt.",
+                  "category": "natural",
+                  "coords": [
+                        36.302225,
+                        37.009618
+                  ]
+            },
+            {
+                  "name": "Sancaklı Camii",
+                  "text": "Eine Moschee für die Gläubigen in der Stadt Osmaniye.",
+                  "category": "religious",
+                  "coords": [
+                        36.267758,
+                        37.057026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Osmaniye Müzesi",
+                  "text": "Osmaniye tartomány történelmét és régészetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        36.22303,
+                        37.054657
+                  ]
+            },
+            {
+                  "name": "Hayal Park",
+                  "text": "Szabadidős és vidámpark Osmaniye lakói számára.",
+                  "category": "recreational",
+                  "coords": [
+                        36.229117,
+                        37.0642
+                  ]
+            },
+            {
+                  "name": "2023 Açıkhava Müzesi",
+                  "text": "Szabadtéri múzeum Osmaniye városában, ahol történelmi leletek láthatók.",
+                  "category": "museum",
+                  "coords": [
+                        36.249108,
+                        37.075568
+                  ]
+            },
+            {
+                  "name": "Fıstık Müzesi",
+                  "text": "A régió számára jelentős mogyorótermesztésnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        36.230686,
+                        37.053821
+                  ]
+            },
+            {
+                  "name": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahası",
+                  "text": "Természetvédelmi terület Osmaniye felföldjén a vadvilág megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        36.302225,
+                        37.009618
+                  ]
+            },
+            {
+                  "name": "Sancaklı Camii",
+                  "text": "Mecset a hívők számára Osmaniye városában.",
+                  "category": "religious",
+                  "coords": [
+                        36.267758,
+                        37.057026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Osmaniye Müzesi",
+                  "text": "Un muzeu care documentează istoria și arheologia provinciei Osmaniye.",
+                  "category": "museum",
+                  "coords": [
+                        36.22303,
+                        37.054657
+                  ]
+            },
+            {
+                  "name": "Hayal Park",
+                  "text": "Un parc de recreere și distracții pentru locuitorii din Osmaniye.",
+                  "category": "recreational",
+                  "coords": [
+                        36.229117,
+                        37.0642
+                  ]
+            },
+            {
+                  "name": "2023 Açıkhava Müzesi",
+                  "text": "Un muzeu în aer liber din Osmaniye care prezintă descoperiri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        36.249108,
+                        37.075568
+                  ]
+            },
+            {
+                  "name": "Fıstık Müzesi",
+                  "text": "Un muzeu dedicat producției de alune, importantă pentru regiune.",
+                  "category": "museum",
+                  "coords": [
+                        36.230686,
+                        37.053821
+                  ]
+            },
+            {
+                  "name": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahası",
+                  "text": "O rezervație naturală în zonele înalte din Osmaniye pentru conservarea faunei sălbatice.",
+                  "category": "natural",
+                  "coords": [
+                        36.302225,
+                        37.009618
+                  ]
+            },
+            {
+                  "name": "Sancaklı Camii",
+                  "text": "O moschee pentru credincioși în orașul Osmaniye.",
+                  "category": "religious",
+                  "coords": [
+                        36.267758,
+                        37.057026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Osmaniye Müzesi",
+                  "text": "A museum documenting the history and archaeology of the Osmaniye province.",
+                  "category": "museum",
+                  "coords": [
+                        36.22303,
+                        37.054657
+                  ]
+            },
+            {
+                  "name": "Hayal Park",
+                  "text": "A recreation and amusement park for the residents of Osmaniye.",
+                  "category": "recreational",
+                  "coords": [
+                        36.229117,
+                        37.0642
+                  ]
+            },
+            {
+                  "name": "2023 Açıkhava Müzesi",
+                  "text": "An open-air museum in Osmaniye presenting historical findings.",
+                  "category": "museum",
+                  "coords": [
+                        36.249108,
+                        37.075568
+                  ]
+            },
+            {
+                  "name": "Fıstık Müzesi",
+                  "text": "A museum dedicated to the peanut production that is significant for the region.",
+                  "category": "museum",
+                  "coords": [
+                        36.230686,
+                        37.053821
+                  ]
+            },
+            {
+                  "name": "Osmaniye Zorkun Yaylası Yaban Hayatı Geliştirme Sahası",
+                  "text": "A nature reserve in the highlands of Osmaniye for wildlife conservation.",
+                  "category": "natural",
+                  "coords": [
+                        36.302225,
+                        37.009618
+                  ]
+            },
+            {
+                  "name": "Sancaklı Camii",
+                  "text": "A mosque for worshippers in the city of Osmaniye.",
+                  "category": "religious",
+                  "coords": [
+                        36.267758,
+                        37.057026
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TR-80",
     coords: [36.2500, 37.0667],

@@ -2179,10 +2179,122 @@ export const poiExtraHungaryCitiesV3: POI[] = [
     "imageHint": "Kerepestarcsa Hungary aerial",
     "image": "/poi-images/kerepestarcsa-extra.webp",
     "sights": {
-      "de": [],
-      "hu": [],
-      "ro": [],
-      "en": []
+      "de": [
+            {
+                  "name": "Csigaház",
+                  "text": "Ein Kulturhaus und Veranstaltungsort in Kerepestarcsa.",
+                  "category": "cultural",
+                  "coords": [
+                        19.260343,
+                        47.547385
+                  ]
+            },
+            {
+                  "name": "Rózsafüzér királynője templom",
+                  "text": "Eine katholische Kirche in Kerepestarcsa, die der Königin des Rosenkranzes gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.268887,
+                        47.54135
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "Die St. Anna-Kirche ist ein sakrales Bauwerk in Kerepestarcsa.",
+                  "category": "religious",
+                  "coords": [
+                        19.290201,
+                        47.563886
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Csigaház",
+                  "text": "Kulturális központ és rendezvényhelyszín Kerepestarcsán.",
+                  "category": "cultural",
+                  "coords": [
+                        19.260343,
+                        47.547385
+                  ]
+            },
+            {
+                  "name": "Rózsafüzér királynője templom",
+                  "text": "A Rózsafüzér királynőjének szentelt katolikus templom Kerepestarcsán.",
+                  "category": "religious",
+                  "coords": [
+                        19.268887,
+                        47.54135
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "A Szent Anna-templom Kerepestarcsa egyik szakrális építménye.",
+                  "category": "religious",
+                  "coords": [
+                        19.290201,
+                        47.563886
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Csigaház",
+                  "text": "O casă de cultură și loc de evenimente în Kerepestarcsa.",
+                  "category": "cultural",
+                  "coords": [
+                        19.260343,
+                        47.547385
+                  ]
+            },
+            {
+                  "name": "Rózsafüzér királynője templom",
+                  "text": "O biserică catolică din Kerepestarcsa dedicată Reginei Rozariului.",
+                  "category": "religious",
+                  "coords": [
+                        19.268887,
+                        47.54135
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "Biserica Sfânta Ana este un lăcaș de cult din Kerepestarcsa.",
+                  "category": "religious",
+                  "coords": [
+                        19.290201,
+                        47.563886
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Csigaház",
+                  "text": "A cultural center and venue in Kerepestarcsa.",
+                  "category": "cultural",
+                  "coords": [
+                        19.260343,
+                        47.547385
+                  ]
+            },
+            {
+                  "name": "Rózsafüzér királynője templom",
+                  "text": "A Catholic church in Kerepestarcsa dedicated to the Queen of the Rosary.",
+                  "category": "religious",
+                  "coords": [
+                        19.268887,
+                        47.54135
+                  ]
+            },
+            {
+                  "name": "Szent Anna-templom",
+                  "text": "Saint Anne's Church is a religious building in Kerepestarcsa.",
+                  "category": "religious",
+                  "coords": [
+                        19.290201,
+                        47.563886
+                  ]
+            }
+      ]
 },
     descriptionAdvanced: {
       de: "Kerepestarcsa ist eine historisch bedeutsame Stadt im Komitat Pest, die unmittelbar an die östliche Stadtgrenze von Budapest grenzt und Teil der Agglomeration der Hauptstadt ist. Die Siedlung entstand ursprünglich im Jahr 1978 durch den Zusammenschluss der beiden eigenständigen Gemeinden Kerepes und Kistarcsa, doch diese Verbindung wurde im Jahr 1994 nach dem Systemwechsel wieder gelöst, woraufhin beide Orte ihre Unabhängigkeit zurückerhielten. Heute ist der Name Kerepestarcsa vor allem ein Begriff für die gemeinsame administrative Vergangenheit und die eng miteinander verwobene Infrastruktur in der Gödöllő-Hügellandschaft. Ein dunkles Kapitel der lokalen Geschichte stellt das berüchtigte Internierungslager von Kistarcsa dar, das insbesondere während der Rákosi-Ära in den 1950er Jahren als Ort politischer Repression diente und heute als Mahnmal für die Schrecken der totalitären Systeme gilt. Geografisch liegt das Gebiet im Tal des Szilas-Bachs, geprägt von sanften Hügeln, die der Region einen naturnahen Charakter verleihen, trotz der massiven industriellen und wohnwirtschaftlichen Entwicklung der letzten Jahrzehnte. Die verkehrstechnische Anbindung durch die Vorortbahn HÉV H8 spielt eine entscheidende Rolle für das tägliche Leben der Bewohner, da ein Großteil der Bevölkerung zur Arbeit nach Budapest pendelt. In den letzten Jahren hat sich das Stadtbild durch zahlreiche Neubauprojekte stark gewandelt, wobei der Kontrast zwischen alten dörflichen Strukturen und modernen Wohnparks das soziale Gefüge der Region heute maßgeblich definiert.",

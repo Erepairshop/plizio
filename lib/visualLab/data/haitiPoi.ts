@@ -96,7 +96,556 @@ export const haitiCities: POI[] = [
     historyYear: 1670,
     area: 53.5, image: "/poi-images/ht-caphaitien.webp"},
   {
-    id: "ht-jacmel",
+    id: "ht-jacmel", "sights": {
+      "de": [
+            {
+                  "name": "maison de tourisme",
+                  "text": "Ein Museum in Jacmel, das Informationen zur lokalen Tourismusgeschichte bietet.",
+                  "category": "museum",
+                  "coords": [
+                        -72.53875,
+                        18.239377
+                  ]
+            },
+            {
+                  "name": "plage de lasaline",
+                  "text": "Ein malerischer Strand in Jacmel, bekannt für seinen entspannten Küstencharme.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.526925,
+                        18.223744
+                  ]
+            },
+            {
+                  "name": "plage publique de lasaline",
+                  "text": "Ein öffentlicher Strandabschnitt in Jacmel, der für alle Besucher zugänglich ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.524194,
+                        18.221688
+                  ]
+            },
+            {
+                  "name": "mella pepiniere",
+                  "text": "Ein Naturschutzgebiet in Jacmel, das sich auf lokale Pflanzenarten konzentriert.",
+                  "category": "natural",
+                  "coords": [
+                        -72.517751,
+                        18.253593
+                  ]
+            },
+            {
+                  "name": "hector production plantule",
+                  "text": "Eine Baumschule und ein Naturschutzgebiet zur Förderung der lokalen Flora in Jacmel.",
+                  "category": "natural",
+                  "coords": [
+                        -72.51946,
+                        18.247667
+                  ]
+            },
+            {
+                  "name": "Lakou New York",
+                  "text": "Ein Küstenbereich in Jacmel, der oft für Freizeitaktivitäten am Meer genutzt wird.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.538504,
+                        18.232291
+                  ]
+            },
+            {
+                  "name": "Baie De Jacmel",
+                  "text": "Die Bucht von Jacmel, ein markantes geografisches Merkmal der Stadt an der Südküste.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.542944,
+                        18.221193
+                  ]
+            },
+            {
+                  "name": "Maison Du Tourisme Association du Sud-Est d'Haiti",
+                  "text": "Ein Kunstzentrum in Jacmel, das den Tourismus und die Kultur des Südostens Haitis fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537992,
+                        18.234794
+                  ]
+            },
+            {
+                  "name": "shop des artisans",
+                  "text": "Ein Kunstzentrum in Jacmel, in dem lokale Handwerker ihre Werke ausstellen.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.539988,
+                        18.233427
+                  ]
+            },
+            {
+                  "name": "God's Power",
+                  "text": "Ein kultureller Ort in Jacmel, der lokales Kunsthandwerk und Kreativität vereint.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537492,
+                        18.238214
+                  ]
+            },
+            {
+                  "name": "Atelier Artisanat",
+                  "text": "Ein Workshop und Zentrum für traditionelles Kunsthandwerk in Jacmel.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.535139,
+                        18.236257
+                  ]
+            },
+            {
+                  "name": "Art Creation Fondation For Children (ACFFC)",
+                  "text": "Eine Stiftung in Jacmel, die Kindern durch Kunst und Kreativität neue Möglichkeiten bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.527819,
+                        18.231999
+                  ]
+            },
+            {
+                  "name": "ecole de danse folchlorique",
+                  "text": "Ein Zentrum in Jacmel, das der Bewahrung und Lehre folkloristischer Tänze gewidmet ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.508618,
+                        18.231673
+                  ]
+            },
+            {
+                  "name": "FOSAJ",
+                  "text": "Eine Kunstschule und Galerie in Jacmel zur Förderung lokaler Künstler.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.536263,
+                        18.233125
+                  ]
+            },
+            {
+                  "name": "shop artisanat",
+                  "text": "Ein Ausstellungsraum für traditionelles Kunsthandwerk in Jacmel.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.538776,
+                        18.233265
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "maison de tourisme",
+                  "text": "Jacmel turisztikai múzeuma a helyi idegenforgalom múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -72.53875,
+                        18.239377
+                  ]
+            },
+            {
+                  "name": "plage de lasaline",
+                  "text": "Jacmel festői tengerpartja, amely nyugodt hangulatáról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.526925,
+                        18.223744
+                  ]
+            },
+            {
+                  "name": "plage publique de lasaline",
+                  "text": "Jacmel nyilvános strandja, amely minden látogató számára szabadon elérhető.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.524194,
+                        18.221688
+                  ]
+            },
+            {
+                  "name": "mella pepiniere",
+                  "text": "Természetvédelmi terület Jacmelben, amely a helyi növényvilágra összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        -72.517751,
+                        18.253593
+                  ]
+            },
+            {
+                  "name": "hector production plantule",
+                  "text": "Jacmeli faiskola és védett terület a helyi flóra támogatására.",
+                  "category": "natural",
+                  "coords": [
+                        -72.51946,
+                        18.247667
+                  ]
+            },
+            {
+                  "name": "Lakou New York",
+                  "text": "Jacmel tengerparti része, amely közkedvelt a tengerparti kikapcsolódáshoz.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.538504,
+                        18.232291
+                  ]
+            },
+            {
+                  "name": "Baie De Jacmel",
+                  "text": "Jacmel öble, a déli parti város egyik legfontosabb földrajzi eleme.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.542944,
+                        18.221193
+                  ]
+            },
+            {
+                  "name": "Maison Du Tourisme Association du Sud-Est d'Haiti",
+                  "text": "Délkelet-Haiti turizmusát és kultúráját támogató művészeti központ Jacmelben.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537992,
+                        18.234794
+                  ]
+            },
+            {
+                  "name": "shop des artisans",
+                  "text": "Jacmel művészeti központja, ahol helyi kézművesek mutatják be alkotásaikat.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.539988,
+                        18.233427
+                  ]
+            },
+            {
+                  "name": "God's Power",
+                  "text": "Jacmel egyik kulturális központja, amely a helyi kézművességet és kreativitást ötvözi.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537492,
+                        18.238214
+                  ]
+            },
+            {
+                  "name": "Atelier Artisanat",
+                  "text": "Jacmel hagyományos kézművességének és műhelymunkájának központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.535139,
+                        18.236257
+                  ]
+            },
+            {
+                  "name": "Art Creation Fondation For Children (ACFFC)",
+                  "text": "Jacmeli alapítvány, amely a művészeten keresztül segíti a gyermekek fejlődését.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.527819,
+                        18.231999
+                  ]
+            },
+            {
+                  "name": "ecole de danse folchlorique",
+                  "text": "Jacmel központja, amely a néptánc tanításának és megőrzésének szentelt hely.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.508618,
+                        18.231673
+                  ]
+            },
+            {
+                  "name": "FOSAJ",
+                  "text": "Jacmeli művészeti iskola és galéria a helyi alkotók támogatására.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.536263,
+                        18.233125
+                  ]
+            },
+            {
+                  "name": "shop artisanat",
+                  "text": "Hagyományos kézműves termékek bemutatóhelye Jacmel városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.538776,
+                        18.233265
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "maison de tourisme",
+                  "text": "Un muzeu din Jacmel care oferă informații despre istoria turismului local.",
+                  "category": "museum",
+                  "coords": [
+                        -72.53875,
+                        18.239377
+                  ]
+            },
+            {
+                  "name": "plage de lasaline",
+                  "text": "O plajă pitorească din Jacmel, cunoscută pentru farmecul său de coastă relaxant.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.526925,
+                        18.223744
+                  ]
+            },
+            {
+                  "name": "plage publique de lasaline",
+                  "text": "O secțiune de plajă publică din Jacmel, accesibilă tuturor vizitatorilor.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.524194,
+                        18.221688
+                  ]
+            },
+            {
+                  "name": "mella pepiniere",
+                  "text": "O rezervație naturală din Jacmel care se concentrează pe speciile de plante locale.",
+                  "category": "natural",
+                  "coords": [
+                        -72.517751,
+                        18.253593
+                  ]
+            },
+            {
+                  "name": "hector production plantule",
+                  "text": "O pepinieră și rezervație naturală pentru promovarea florei locale în Jacmel.",
+                  "category": "natural",
+                  "coords": [
+                        -72.51946,
+                        18.247667
+                  ]
+            },
+            {
+                  "name": "Lakou New York",
+                  "text": "O zonă de coastă din Jacmel, utilizată adesea pentru activități recreative la malul mării.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.538504,
+                        18.232291
+                  ]
+            },
+            {
+                  "name": "Baie De Jacmel",
+                  "text": "Golful Jacmel, o trăsătură geografică distinctivă a orașului de pe coasta de sud.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.542944,
+                        18.221193
+                  ]
+            },
+            {
+                  "name": "Maison Du Tourisme Association du Sud-Est d'Haiti",
+                  "text": "Un centru cultural din Jacmel care promovează turismul și cultura din sud-estul Haiti.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537992,
+                        18.234794
+                  ]
+            },
+            {
+                  "name": "shop des artisans",
+                  "text": "Un centru de artă din Jacmel unde artizanii locali își expun lucrările.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.539988,
+                        18.233427
+                  ]
+            },
+            {
+                  "name": "God's Power",
+                  "text": "Un spațiu cultural din Jacmel care îmbină meșteșugurile locale și creativitatea.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537492,
+                        18.238214
+                  ]
+            },
+            {
+                  "name": "Atelier Artisanat",
+                  "text": "Un atelier și centru pentru meșteșuguri tradiționale în Jacmel.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.535139,
+                        18.236257
+                  ]
+            },
+            {
+                  "name": "Art Creation Fondation For Children (ACFFC)",
+                  "text": "O fundație din Jacmel care oferă oportunități copiilor prin artă și creativitate.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.527819,
+                        18.231999
+                  ]
+            },
+            {
+                  "name": "ecole de danse folchlorique",
+                  "text": "Un centru din Jacmel dedicat păstrării și predării dansurilor folclorice.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.508618,
+                        18.231673
+                  ]
+            },
+            {
+                  "name": "FOSAJ",
+                  "text": "O școală de artă și galerie din Jacmel pentru susținerea artiștilor locali.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.536263,
+                        18.233125
+                  ]
+            },
+            {
+                  "name": "shop artisanat",
+                  "text": "Un spațiu de expunere pentru meșteșuguri tradiționale în Jacmel.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.538776,
+                        18.233265
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "maison de tourisme",
+                  "text": "A museum in Jacmel providing information on local tourism history.",
+                  "category": "museum",
+                  "coords": [
+                        -72.53875,
+                        18.239377
+                  ]
+            },
+            {
+                  "name": "plage de lasaline",
+                  "text": "A picturesque beach in Jacmel known for its relaxed coastal charm.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.526925,
+                        18.223744
+                  ]
+            },
+            {
+                  "name": "plage publique de lasaline",
+                  "text": "A public beach section in Jacmel accessible to all visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.524194,
+                        18.221688
+                  ]
+            },
+            {
+                  "name": "mella pepiniere",
+                  "text": "A nature reserve in Jacmel focusing on local plant species.",
+                  "category": "natural",
+                  "coords": [
+                        -72.517751,
+                        18.253593
+                  ]
+            },
+            {
+                  "name": "hector production plantule",
+                  "text": "A plant nursery and nature reserve promoting local flora in Jacmel.",
+                  "category": "natural",
+                  "coords": [
+                        -72.51946,
+                        18.247667
+                  ]
+            },
+            {
+                  "name": "Lakou New York",
+                  "text": "A coastal area in Jacmel often used for seaside leisure activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -72.538504,
+                        18.232291
+                  ]
+            },
+            {
+                  "name": "Baie De Jacmel",
+                  "text": "The Bay of Jacmel, a prominent geographical feature of the southern coastal city.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.542944,
+                        18.221193
+                  ]
+            },
+            {
+                  "name": "Maison Du Tourisme Association du Sud-Est d'Haiti",
+                  "text": "An arts centre in Jacmel promoting tourism and culture in southeast Haiti.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537992,
+                        18.234794
+                  ]
+            },
+            {
+                  "name": "shop des artisans",
+                  "text": "An arts centre in Jacmel where local artisans display their works.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.539988,
+                        18.233427
+                  ]
+            },
+            {
+                  "name": "God's Power",
+                  "text": "A cultural spot in Jacmel combining local crafts and creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.537492,
+                        18.238214
+                  ]
+            },
+            {
+                  "name": "Atelier Artisanat",
+                  "text": "A workshop and centre for traditional handicrafts in Jacmel.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.535139,
+                        18.236257
+                  ]
+            },
+            {
+                  "name": "Art Creation Fondation For Children (ACFFC)",
+                  "text": "A foundation in Jacmel providing opportunities for children through art and creativity.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.527819,
+                        18.231999
+                  ]
+            },
+            {
+                  "name": "ecole de danse folchlorique",
+                  "text": "A centre in Jacmel dedicated to the preservation and teaching of folkloric dance.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.508618,
+                        18.231673
+                  ]
+            },
+            {
+                  "name": "FOSAJ",
+                  "text": "An art school and gallery in Jacmel supporting local artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.536263,
+                        18.233125
+                  ]
+            },
+            {
+                  "name": "shop artisanat",
+                  "text": "A display space for traditional handicrafts in Jacmel.",
+                  "category": "cultural",
+                  "coords": [
+                        -72.538776,
+                        18.233265
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HT",
     coords: [-72.5333, 18.2333],
@@ -184,7 +733,304 @@ export const haitiCities: POI[] = [
     historyYear: 1786,
     area: 219, image: "/poi-images/ht-lescayes.webp"},
   {
-    id: "ht-gonaives",
+    id: "ht-gonaives", "sights": {
+      "de": [
+            {
+                  "name": "espace fleur",
+                  "text": "Espace fleur ist ein Naturschutzgebiet in Gonaïves.",
+                  "category": "natural",
+                  "coords": [
+                        -72.675193,
+                        19.46423
+                  ]
+            },
+            {
+                  "name": "Baie Des Gonaives",
+                  "text": "Die Baie Des Gonaives ist eine Bucht bei Gonaïves.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.703107,
+                        19.444724
+                  ]
+            },
+            {
+                  "name": "Morne Biénac",
+                  "text": "Der Morne Biénac ist ein Berggipfel in Gonaïves.",
+                  "category": "natural",
+                  "coords": [
+                        -72.68581,
+                        19.471093
+                  ]
+            },
+            {
+                  "name": "Croix Jubilée",
+                  "text": "Die Croix Jubilée ist ein Denkmal in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.69097,
+                        19.442238
+                  ]
+            },
+            {
+                  "name": "Statut madan kolo",
+                  "text": "Statut madan kolo ist ein Denkmal in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.689227,
+                        19.446091
+                  ]
+            },
+            {
+                  "name": "Pere Marcel sainte marie, clerc de saint viateur, 1928-1986",
+                  "text": "Dies ist ein Denkmal für Pere Marcel Sainte Marie in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.685723,
+                        19.450163
+                  ]
+            },
+            {
+                  "name": "monument",
+                  "text": "Dies ist ein Denkmal in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.675444,
+                        19.458261
+                  ]
+            },
+            {
+                  "name": "Petion",
+                  "text": "Petion ist ein Denkmal in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.682751,
+                        19.44445
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "espace fleur",
+                  "text": "Az espace fleur egy természetvédelmi terület Gonaïves városában.",
+                  "category": "natural",
+                  "coords": [
+                        -72.675193,
+                        19.46423
+                  ]
+            },
+            {
+                  "name": "Baie Des Gonaives",
+                  "text": "A Baie Des Gonaives egy öböl Gonaïves városánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.703107,
+                        19.444724
+                  ]
+            },
+            {
+                  "name": "Morne Biénac",
+                  "text": "A Morne Biénac egy hegycsúcs Gonaïves városában.",
+                  "category": "natural",
+                  "coords": [
+                        -72.68581,
+                        19.471093
+                  ]
+            },
+            {
+                  "name": "Croix Jubilée",
+                  "text": "A Croix Jubilée egy emlékmű Gonaïves városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.69097,
+                        19.442238
+                  ]
+            },
+            {
+                  "name": "Statut madan kolo",
+                  "text": "A Statut madan kolo egy emlékmű Gonaïves városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.689227,
+                        19.446091
+                  ]
+            },
+            {
+                  "name": "Pere Marcel sainte marie, clerc de saint viateur, 1928-1986",
+                  "text": "Ez egy emlékmű Pere Marcel Sainte Marie tiszteletére Gonaïves városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.685723,
+                        19.450163
+                  ]
+            },
+            {
+                  "name": "monument",
+                  "text": "Ez egy emlékmű Gonaïves városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.675444,
+                        19.458261
+                  ]
+            },
+            {
+                  "name": "Petion",
+                  "text": "A Petion egy emlékmű Gonaïves városában.",
+                  "category": "historical",
+                  "coords": [
+                        -72.682751,
+                        19.44445
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "espace fleur",
+                  "text": "Espace fleur este o rezervație naturală în Gonaïves.",
+                  "category": "natural",
+                  "coords": [
+                        -72.675193,
+                        19.46423
+                  ]
+            },
+            {
+                  "name": "Baie Des Gonaives",
+                  "text": "Baie Des Gonaives este un golf din Gonaïves.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.703107,
+                        19.444724
+                  ]
+            },
+            {
+                  "name": "Morne Biénac",
+                  "text": "Morne Biénac este un vârf montan din Gonaïves.",
+                  "category": "natural",
+                  "coords": [
+                        -72.68581,
+                        19.471093
+                  ]
+            },
+            {
+                  "name": "Croix Jubilée",
+                  "text": "Croix Jubilée este un monument situat în Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.69097,
+                        19.442238
+                  ]
+            },
+            {
+                  "name": "Statut madan kolo",
+                  "text": "Statut madan kolo este un monument în Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.689227,
+                        19.446091
+                  ]
+            },
+            {
+                  "name": "Pere Marcel sainte marie, clerc de saint viateur, 1928-1986",
+                  "text": "Acesta este un monument dedicat lui Pere Marcel Sainte Marie în Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.685723,
+                        19.450163
+                  ]
+            },
+            {
+                  "name": "monument",
+                  "text": "Acesta este un monument în Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.675444,
+                        19.458261
+                  ]
+            },
+            {
+                  "name": "Petion",
+                  "text": "Petion este un monument situat în Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.682751,
+                        19.44445
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "espace fleur",
+                  "text": "Espace fleur is a nature reserve in Gonaïves.",
+                  "category": "natural",
+                  "coords": [
+                        -72.675193,
+                        19.46423
+                  ]
+            },
+            {
+                  "name": "Baie Des Gonaives",
+                  "text": "Baie Des Gonaives is a bay located in Gonaïves.",
+                  "category": "landmark",
+                  "coords": [
+                        -72.703107,
+                        19.444724
+                  ]
+            },
+            {
+                  "name": "Morne Biénac",
+                  "text": "Morne Biénac is a peak in Gonaïves.",
+                  "category": "natural",
+                  "coords": [
+                        -72.68581,
+                        19.471093
+                  ]
+            },
+            {
+                  "name": "Croix Jubilée",
+                  "text": "Croix Jubilée is a monument located in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.69097,
+                        19.442238
+                  ]
+            },
+            {
+                  "name": "Statut madan kolo",
+                  "text": "Statut madan kolo is a monument in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.689227,
+                        19.446091
+                  ]
+            },
+            {
+                  "name": "Pere Marcel sainte marie, clerc de saint viateur, 1928-1986",
+                  "text": "This is a monument dedicated to Pere Marcel Sainte Marie in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.685723,
+                        19.450163
+                  ]
+            },
+            {
+                  "name": "monument",
+                  "text": "This is a monument in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.675444,
+                        19.458261
+                  ]
+            },
+            {
+                  "name": "Petion",
+                  "text": "Petion is a monument located in Gonaïves.",
+                  "category": "historical",
+                  "coords": [
+                        -72.682751,
+                        19.44445
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HT",
     coords: [-72.6797, 19.4503],

@@ -48,7 +48,1852 @@ export const switzerlandEconomicV2: POI[] = [
     image: "/poi-images/switzerland-biotech-park-basel-economic-v2.webp",
   },
   {
-    id: "switzerland-zurich-west-district-economic-v2",
+    id: "switzerland-zurich-west-district-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Führendes Schweizer Museum für Design und visuelle Kommunikation.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "Einzigartiges Museum in einem Bunker über den Zivilschutz.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "Umfangreiche Sammlung historischer Zeitmesser und Uhren.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "Museum für konstruktive, konkrete und konzeptionelle Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "Museum mit einer großen Sammlung zoologischer Präparate.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Sammlung antiker Artefakte der Universität Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "Interaktives Museum für Geowissenschaften der ETH Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "Öffentlich zugängliches Lager des Designmuseums mit Tausenden Objekten.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "Interaktives Museum zur Geschichte und Faszination des Weltfussballs.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Schweizer Finanzmuseum",
+                  "text": "Museum zur Geschichte und Bedeutung des Schweizer Finanzplatzes.",
+                  "category": "museum",
+                  "coords": [
+                        8.506839,
+                        47.391516
+                  ]
+            },
+            {
+                  "name": "Kraftwerk Höngg",
+                  "text": "Ehemaliges Wasserkraftwerk, das heute als Ausstellungsraum dient.",
+                  "category": "museum",
+                  "coords": [
+                        8.486698,
+                        47.40166
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "Privates Museum mit einer bedeutenden Sammlung historischer Uhren.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "Einzigartige Sammlung medizinischer Wachsabdrücke von Hautkrankheiten.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "Museum der Universität Zürich zur Erforschung außereuropäischer Kulturen.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "International renommierte Galerie für moderne und zeitgenössische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Bürgli",
+                  "text": "Historisches Landhaus und Baudenkmal im Westen von Zürich.",
+                  "category": "historical",
+                  "coords": [
+                        8.528729,
+                        47.362115
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "Bekanntes Theaterhaus für zeitgenössische Inszenierungen in der Altstadt.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "Legendärer Geburtsort der Dada-Bewegung im Jahr 1916.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Kulturzentrum und Treffpunkt für Jugendkultur direkt an der Limmat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "Ökumenischer Ort der Stille und Besinnung im Hauptbahnhof Zürich.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Bedeutende katholische Kirche mit neugotischer Architektur nahe dem Zentrum.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "Evangelisch-reformierte Kirche am belebten Stauffacherplatz.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Historische Kirche mit dem größten Kirchturmzifferblatt Europas.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "Moderne katholische Kirche, die den Stadtheiligen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Reformierte Kirche im Quartier Wiedikon mit markanter Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "Ehemalige Dominikanerkirche mit dem höchsten Kirchturm der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "Reformierte Kirche im Sihlfeld-Quartier für die lokale Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Allerheiligen",
+                  "text": "Katholische Pfarrkirche im nördlichen Stadtteil Neuaffoltern.",
+                  "category": "religious",
+                  "coords": [
+                        8.529405,
+                        47.409074
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Reformierte Kirche im ehemaligen Industriequartier von Zürich.",
+                  "category": "religious",
+                  "coords": [
+                        8.533444,
+                        47.383802
+                  ]
+            },
+            {
+                  "name": "Fraumünster",
+                  "text": "Berühmte Kirche mit den beeindruckenden Glasfenstern von Marc Chagall.",
+                  "category": "religious",
+                  "coords": [
+                        8.541203,
+                        47.369714
+                  ]
+            },
+            {
+                  "name": "Kirche Unterstrass",
+                  "text": "Reformierte Kirche im Quartier Unterstrass mit aktiven Gemeindeleben.",
+                  "category": "religious",
+                  "coords": [
+                        8.541946,
+                        47.387379
+                  ]
+            },
+            {
+                  "name": "Kirche Oberstrass",
+                  "text": "Evangelische Kirche im Zürcher Stadtkreis Oberstrass.",
+                  "category": "religious",
+                  "coords": [
+                        8.546811,
+                        47.38391
+                  ]
+            },
+            {
+                  "name": "Wasserkirche",
+                  "text": "Spätgotische Kirche auf einer ehemaligen Insel in der Limmat.",
+                  "category": "religious",
+                  "coords": [
+                        8.5432,
+                        47.369631
+                  ]
+            },
+            {
+                  "name": "Herz Jesu Wiedikon",
+                  "text": "Große katholische Kirche im neugotischen Stil in Wiedikon.",
+                  "category": "religious",
+                  "coords": [
+                        8.514238,
+                        47.372681
+                  ]
+            },
+            {
+                  "name": "Grossmünsterkapelle",
+                  "text": "Kapelle beim Grossmünster, die für Gottesdienste und Konzerte genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        8.544852,
+                        47.3703
+                  ]
+            },
+            {
+                  "name": "Kirche Altstetten",
+                  "text": "Moderner Kirchenbau als Zentrum der reformierten Gemeinde Altstetten.",
+                  "category": "religious",
+                  "coords": [
+                        8.484556,
+                        47.386607
+                  ]
+            },
+            {
+                  "name": "Kirche Albisrieden",
+                  "text": "Reformierte Kirche im Quartier Albisrieden mit ländlichem Charme.",
+                  "category": "religious",
+                  "coords": [
+                        8.492271,
+                        47.376162
+                  ]
+            },
+            {
+                  "name": "Kirche Höngg",
+                  "text": "Historische Kirche auf einem Hügel mit weitem Blick über Höngg.",
+                  "category": "religious",
+                  "coords": [
+                        8.496889,
+                        47.401542
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "Historischer Wehrturm und Standort des ehemaligen Fussballstadions.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Rudolf-Brun-Brücke",
+                  "text": "Zentrale Brücke über die Limmat, benannt nach dem ersten Bürgermeister.",
+                  "category": "landmark",
+                  "coords": [
+                        8.542375,
+                        47.374406
+                  ]
+            },
+            {
+                  "name": "Wipkingerbrücke",
+                  "text": "Wichtige Verkehrsbrücke, die das Quartier Wipkingen erschliesst.",
+                  "category": "landmark",
+                  "coords": [
+                        8.52338,
+                        47.391633
+                  ]
+            },
+            {
+                  "name": "Kornhausbrücke",
+                  "text": "Hochbrücke über die Limmat mit Blick auf die industrielle Seite der Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53348,
+                        47.385946
+                  ]
+            },
+            {
+                  "name": "Freitag Tower",
+                  "text": "Origineller Turm aus Frachtcontainern und Flagship-Store der Marke Freitag.",
+                  "category": "tower",
+                  "coords": [
+                        8.519404,
+                        47.385668
+                  ]
+            },
+            {
+                  "name": "Hardbrücke",
+                  "text": "Markante Verkehrsbrücke und Lebensader des Trendquartiers Zürich-West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519478,
+                        47.387842
+                  ]
+            },
+            {
+                  "name": "Aussersihler Viadukt",
+                  "text": "Eisenbahnviadukt, dessen Bögen heute Läden und Restaurants beherbergen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.523988,
+                        47.385613
+                  ]
+            },
+            {
+                  "name": "Chäferberg",
+                  "text": "Bewaldeter Hügel und Naherholungsgebiet mit Blick auf die Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        8.516005,
+                        47.404432
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "Kleiner Aussichtspunkt in einer Parkanlage im Stadtkreis 6.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "Historische Parkanlage am Zusammenfluss von Limmat und Sihl.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "Beliebter Quartierpark im Kreis 4 mit grosser Spielwiese.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "Weitläufiger Landschaftspark auf dem Campus der Universität Zürich.",
+                  "category": "park",
+                  "coords": [
+                        8.544503,
+                        47.398097
+                  ]
+            },
+            {
+                  "name": "Heilig Geist",
+                  "text": "Katholische Kirche in Höngg mit moderner Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        8.502994,
+                        47.401287
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Svájc vezető design- és vizuális kommunikációs múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "Egyedülálló múzeum egy bunkerben a polgári védelemről.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "Történelmi időmérők és órák átfogó gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "Konstruktív, konkrét és konceptuális művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "Múzeum nagy zoológiai preparátumgyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "A Zürichi Egyetem ókori leleteinek gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "Az ETH Zürich interaktív földtudományi múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "A designmúzeum nyilvánosan látogatható raktára több ezer tárggyal.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "Interaktív múzeum a világfutball történelméről és vonzerejéről.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Schweizer Finanzmuseum",
+                  "text": "A svájci pénzügyi piac történetét és működését bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        8.506839,
+                        47.391516
+                  ]
+            },
+            {
+                  "name": "Kraftwerk Höngg",
+                  "text": "Korábbi vízerőmű, amely ma kiállítótérként és múzeumként üzemel.",
+                  "category": "museum",
+                  "coords": [
+                        8.486698,
+                        47.40166
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "Magánmúzeum jelentős történelmi óragyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "Bőrbetegségeket ábrázoló orvosi viaszmodellek egyedülálló gyűjteménye.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "A Zürichi Egyetem múzeuma, amely Európán kívüli kultúrákat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "Nemzetközileg elismert modern és kortárs művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Bürgli",
+                  "text": "Történelmi udvarház és műemlék épület Zürich nyugati részén.",
+                  "category": "historical",
+                  "coords": [
+                        8.528729,
+                        47.362115
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "Kortárs darabokról ismert színház Zürich óvárosának közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "A dadaista művészeti mozgalom legendás bölcsője 1916-ból.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Ifjúsági kulturális központ és találkozóhely közvetlenül a Limmat partján.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "Ökumenikus csendes szoba és templom a zürichi főpályaudvaron.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Jelentős katolikus templom neogótikus stílusban a központ közelében.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "Evangélikus-református templom a forgalmas Stauffacher téren.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Történelmi templom, amely Európa legnagyobb toronyóra-számlapjával büszkélkedhet.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "Modern katolikus templom, amelyet a város védőszentjeinek szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Református templom Wiedikon negyedben, jellegzetes építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "Egykori dominikánus templom a város legmagasabb templomtornyával.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "Református templom a Sihlfeld negyed helyi közössége számára.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Allerheiligen",
+                  "text": "Katolikus plébániatemplom Neuaffoltern északi városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        8.529405,
+                        47.409074
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Református templom Zürich egykori ipari negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        8.533444,
+                        47.383802
+                  ]
+            },
+            {
+                  "name": "Fraumünster",
+                  "text": "Híres templom Marc Chagall lenyűgöző üvegablakaival.",
+                  "category": "religious",
+                  "coords": [
+                        8.541203,
+                        47.369714
+                  ]
+            },
+            {
+                  "name": "Kirche Unterstrass",
+                  "text": "Református templom Unterstrass negyedben, élénk közösségi élettel.",
+                  "category": "religious",
+                  "coords": [
+                        8.541946,
+                        47.387379
+                  ]
+            },
+            {
+                  "name": "Kirche Oberstrass",
+                  "text": "Evangélikus templom Zürich Oberstrass városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        8.546811,
+                        47.38391
+                  ]
+            },
+            {
+                  "name": "Wasserkirche",
+                  "text": "Késő gótikus templom a Limmat folyó egykori szigetén.",
+                  "category": "religious",
+                  "coords": [
+                        8.5432,
+                        47.369631
+                  ]
+            },
+            {
+                  "name": "Herz Jesu Wiedikon",
+                  "text": "Nagy neogótikus stílusú katolikus templom Wiedikonban.",
+                  "category": "religious",
+                  "coords": [
+                        8.514238,
+                        47.372681
+                  ]
+            },
+            {
+                  "name": "Grossmünsterkapelle",
+                  "text": "A Grossmünsterhez tartozó kápolna, amelyet istentiszteletekre és koncertekre használnak.",
+                  "category": "religious",
+                  "coords": [
+                        8.544852,
+                        47.3703
+                  ]
+            },
+            {
+                  "name": "Kirche Altstetten",
+                  "text": "Modern templomépület, az altstetteni református közösség központja.",
+                  "category": "religious",
+                  "coords": [
+                        8.484556,
+                        47.386607
+                  ]
+            },
+            {
+                  "name": "Kirche Albisrieden",
+                  "text": "Vidékies hangulatú református templom Albisrieden negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        8.492271,
+                        47.376162
+                  ]
+            },
+            {
+                  "name": "Kirche Höngg",
+                  "text": "Történelmi templom egy dombon, szép kilátással Höngg városrészre.",
+                  "category": "religious",
+                  "coords": [
+                        8.496889,
+                        47.401542
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "Történelmi bástya és az egykori labdarúgó-stadion helyszíne.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Rudolf-Brun-Brücke",
+                  "text": "Központi híd a Limmat felett, a város első polgármesteréről elnevezve.",
+                  "category": "landmark",
+                  "coords": [
+                        8.542375,
+                        47.374406
+                  ]
+            },
+            {
+                  "name": "Wipkingerbrücke",
+                  "text": "Fontos közúti híd, amely Wipkingen negyedet köti össze a várossal.",
+                  "category": "landmark",
+                  "coords": [
+                        8.52338,
+                        47.391633
+                  ]
+            },
+            {
+                  "name": "Kornhausbrücke",
+                  "text": "Magas híd a Limmat felett, kilátással a város ipari területeire.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53348,
+                        47.385946
+                  ]
+            },
+            {
+                  "name": "Freitag Tower",
+                  "text": "Teherautó-konténerekből épült különleges torony és a Freitag márka mintaboltja.",
+                  "category": "tower",
+                  "coords": [
+                        8.519404,
+                        47.385668
+                  ]
+            },
+            {
+                  "name": "Hardbrücke",
+                  "text": "Jelentős közúti híd és a modern Zürich-West negyed ütőere.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519478,
+                        47.387842
+                  ]
+            },
+            {
+                  "name": "Aussersihler Viadukt",
+                  "text": "Vasúti viadukt, amelynek boltívei alatt ma üzletek és éttermek működnek.",
+                  "category": "landmark",
+                  "coords": [
+                        8.523988,
+                        47.385613
+                  ]
+            },
+            {
+                  "name": "Chäferberg",
+                  "text": "Erdős domb és kirándulóhely, ahonnan remek kilátás nyílik Zürichre.",
+                  "category": "natural",
+                  "coords": [
+                        8.516005,
+                        47.404432
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "Kis kilátópont egy parkosított területen a 6. kerületben.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "Történelmi park a Limmat és a Sihl folyók találkozásánál.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "Népszerű lakótelepi park a 4. kerületben, tágas játszótérrel.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "Kiterjedt tájképi park a Zürichi Egyetem campusának területén.",
+                  "category": "park",
+                  "coords": [
+                        8.544503,
+                        47.398097
+                  ]
+            },
+            {
+                  "name": "Heilig Geist",
+                  "text": "Katolikus templom Höngg negyedben, modern építészeti megoldásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        8.502994,
+                        47.401287
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Principalul muzeu elvețian de design și comunicare vizuală.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "Muzeu unic într-un buncăr despre protecția civilă.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "Colecție vastă de ceasuri și instrumente de măsurat timpul.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "Muzeu pentru artă constructivă, concretă și conceptuală.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "Muzeu cu o colecție mare de preparate zoologice.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Colecția de artefacte antice a Universității din Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "Muzeu interactiv de științe ale pământului al ETH Zürich.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "Depozitul vizitabil al muzeului de design cu mii de obiecte.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "Muzeu interactiv despre istoria și fascinația fotbalului mondial.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Schweizer Finanzmuseum",
+                  "text": "Muzeu dedicat istoriei și importanței pieței financiare elvețiene.",
+                  "category": "museum",
+                  "coords": [
+                        8.506839,
+                        47.391516
+                  ]
+            },
+            {
+                  "name": "Kraftwerk Höngg",
+                  "text": "Fostă hidrocentrală care servește astăzi drept spațiu expozițional.",
+                  "category": "museum",
+                  "coords": [
+                        8.486698,
+                        47.40166
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "Muzeu privat ce deține o colecție valoroasă de ceasuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "Colecție unică de mulaje medicale din ceară reprezentând boli de piele.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "Muzeul Universității din Zürich dedicat culturilor din afara Europei.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "Galerie de artă modernă și contemporană de renume internațional.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Bürgli",
+                  "text": "Conac istoric și monument de arhitectură în partea de vest a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        8.528729,
+                        47.362115
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "Teatru cunoscut pentru producții contemporane în centrul vechi.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "Locul legendar de naștere al mișcării artistice Dada, fondat în 1916.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Centru cultural pentru tineret situat chiar pe malul râului Limmat.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "Spațiu ecumenic de liniște și rugăciune în Gara Centrală din Zürich.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Biserică catolică importantă cu arhitectură neogotică lângă centru.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "Biserică evanghelică reformată situată în animata piață Stauffacher.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Biserică istorică având cel mai mare cadran de ceas de turn din Europa.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "Biserică catolică modernă dedicată sfinților patroni ai orașului.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Biserică reformată din cartierul Wiedikon cu o arhitectură distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "Fostă biserică dominicană cu cel mai înalt turn de biserică din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "Biserică reformată ce deservește comunitatea locală din Sihlfeld.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Allerheiligen",
+                  "text": "Biserică parohială catolică în districtul Neuaffoltern din nord.",
+                  "category": "religious",
+                  "coords": [
+                        8.529405,
+                        47.409074
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Biserică reformată în fostul cartier industrial al Zürich-ului.",
+                  "category": "religious",
+                  "coords": [
+                        8.533444,
+                        47.383802
+                  ]
+            },
+            {
+                  "name": "Fraumünster",
+                  "text": "Biserică celebră pentru vitraliile impresionante create de Marc Chagall.",
+                  "category": "religious",
+                  "coords": [
+                        8.541203,
+                        47.369714
+                  ]
+            },
+            {
+                  "name": "Kirche Unterstrass",
+                  "text": "Biserică reformată din cartierul Unterstrass cu o viață comunitară activă.",
+                  "category": "religious",
+                  "coords": [
+                        8.541946,
+                        47.387379
+                  ]
+            },
+            {
+                  "name": "Kirche Oberstrass",
+                  "text": "Biserică evanghelică situată în districtul Oberstrass din Zürich.",
+                  "category": "religious",
+                  "coords": [
+                        8.546811,
+                        47.38391
+                  ]
+            },
+            {
+                  "name": "Wasserkirche",
+                  "text": "Biserică în stil gotic târziu pe o fostă insulă de pe râul Limmat.",
+                  "category": "religious",
+                  "coords": [
+                        8.5432,
+                        47.369631
+                  ]
+            },
+            {
+                  "name": "Herz Jesu Wiedikon",
+                  "text": "Biserică catolică impunătoare în stil neogotic din zona Wiedikon.",
+                  "category": "religious",
+                  "coords": [
+                        8.514238,
+                        47.372681
+                  ]
+            },
+            {
+                  "name": "Grossmünsterkapelle",
+                  "text": "Capelă aflată lângă Grossmünster, folosită pentru slujbe și concerte.",
+                  "category": "religious",
+                  "coords": [
+                        8.544852,
+                        47.3703
+                  ]
+            },
+            {
+                  "name": "Kirche Altstetten",
+                  "text": "Edificiu religios modern, centrul comunității reformate din Altstetten.",
+                  "category": "religious",
+                  "coords": [
+                        8.484556,
+                        47.386607
+                  ]
+            },
+            {
+                  "name": "Kirche Albisrieden",
+                  "text": "Biserică reformată din cartierul Albisrieden cu un farmec rural.",
+                  "category": "religious",
+                  "coords": [
+                        8.492271,
+                        47.376162
+                  ]
+            },
+            {
+                  "name": "Kirche Höngg",
+                  "text": "Biserică istorică pe un deal, oferind o vedere panoramică asupra Höngg.",
+                  "category": "religious",
+                  "coords": [
+                        8.496889,
+                        47.401542
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "Turn istoric de apărare și fostul amplasament al stadionului de fotbal.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Rudolf-Brun-Brücke",
+                  "text": "Pod central peste Limmat, numit după primul primar al orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        8.542375,
+                        47.374406
+                  ]
+            },
+            {
+                  "name": "Wipkingerbrücke",
+                  "text": "Pod rutier important care asigură accesul către cartierul Wipkingen.",
+                  "category": "landmark",
+                  "coords": [
+                        8.52338,
+                        47.391633
+                  ]
+            },
+            {
+                  "name": "Kornhausbrücke",
+                  "text": "Pod înalt peste Limmat cu vedere spre zona industrială a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53348,
+                        47.385946
+                  ]
+            },
+            {
+                  "name": "Freitag Tower",
+                  "text": "Turn inedit din containere maritime și magazin reprezentativ al mărcii Freitag.",
+                  "category": "tower",
+                  "coords": [
+                        8.519404,
+                        47.385668
+                  ]
+            },
+            {
+                  "name": "Hardbrücke",
+                  "text": "Pod rutier major și arteră vitală a cartierului modern Zürich-West.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519478,
+                        47.387842
+                  ]
+            },
+            {
+                  "name": "Aussersihler Viadukt",
+                  "text": "Viaduct feroviar ale cărui arcade adăpostesc astăzi magazine și restaurante.",
+                  "category": "landmark",
+                  "coords": [
+                        8.523988,
+                        47.385613
+                  ]
+            },
+            {
+                  "name": "Chäferberg",
+                  "text": "Deal împădurit și zonă de recreere cu vedere spre oraș.",
+                  "category": "natural",
+                  "coords": [
+                        8.516005,
+                        47.404432
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "Mic punct de observație situat într-un parc din districtul 6.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "Parcat istoric la confluența râurilor Limmat și Sihl.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "Parc popular de cartier în districtul 4, cu o zonă mare de joacă.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "Parc peisajistic vast situat în campusul Universității din Zürich.",
+                  "category": "park",
+                  "coords": [
+                        8.544503,
+                        47.398097
+                  ]
+            },
+            {
+                  "name": "Heilig Geist",
+                  "text": "Biserică catolică în Höngg cu un design arhitectural modern.",
+                  "category": "religious",
+                  "coords": [
+                        8.502994,
+                        47.401287
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museum für Gestaltung",
+                  "text": "Leading Swiss museum for design and visual communication.",
+                  "category": "museum",
+                  "coords": [
+                        8.535799,
+                        47.382982
+                  ]
+            },
+            {
+                  "name": "Zivilschutzmuseum",
+                  "text": "Unique museum in a bunker about civil defense.",
+                  "category": "museum",
+                  "coords": [
+                        8.526978,
+                        47.391959
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum Beyer Zürich",
+                  "text": "Extensive collection of historical timepieces and clocks.",
+                  "category": "museum",
+                  "coords": [
+                        8.538542,
+                        47.370925
+                  ]
+            },
+            {
+                  "name": "Haus Konstruktiv",
+                  "text": "Museum for constructive, concrete, and conceptual art.",
+                  "category": "museum",
+                  "coords": [
+                        8.525269,
+                        47.38913
+                  ]
+            },
+            {
+                  "name": "Naturhistorisches Museum",
+                  "text": "Museum with a large collection of zoological specimens.",
+                  "category": "museum",
+                  "coords": [
+                        8.54796,
+                        47.375177
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Collection of ancient artifacts from the University of Zurich.",
+                  "category": "museum",
+                  "coords": [
+                        8.548913,
+                        47.375349
+                  ]
+            },
+            {
+                  "name": "Focus Terra",
+                  "text": "Interactive earth sciences museum of ETH Zurich.",
+                  "category": "museum",
+                  "coords": [
+                        8.547457,
+                        47.378357
+                  ]
+            },
+            {
+                  "name": "Museum für Gestaltung - Schaudepot",
+                  "text": "Visible storage of the design museum with thousands of objects.",
+                  "category": "museum",
+                  "coords": [
+                        8.512069,
+                        47.390229
+                  ]
+            },
+            {
+                  "name": "FIFA Museum",
+                  "text": "Interactive museum about the history and fascination of world football.",
+                  "category": "museum",
+                  "coords": [
+                        8.531519,
+                        47.363579
+                  ]
+            },
+            {
+                  "name": "Swiss Finance Museum",
+                  "text": "Museum showcasing the history and significance of the Swiss financial center.",
+                  "category": "museum",
+                  "coords": [
+                        8.506839,
+                        47.391516
+                  ]
+            },
+            {
+                  "name": "Kraftwerk Höngg",
+                  "text": "Former hydroelectric power station now serving as an exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        8.486698,
+                        47.40166
+                  ]
+            },
+            {
+                  "name": "Uhrenmuseum zum Rösli",
+                  "text": "Private museum featuring a significant collection of historical timepieces.",
+                  "category": "museum",
+                  "coords": [
+                        8.54436,
+                        47.390144
+                  ]
+            },
+            {
+                  "name": "Moulagenmuseum",
+                  "text": "Unique collection of medical wax moulages depicting skin diseases.",
+                  "category": "museum",
+                  "coords": [
+                        8.5486,
+                        47.38042
+                  ]
+            },
+            {
+                  "name": "Völkerkundemuseum der Universität Zürich",
+                  "text": "University of Zurich museum focused on non-European cultures and art.",
+                  "category": "museum",
+                  "coords": [
+                        8.534364,
+                        47.370826
+                  ]
+            },
+            {
+                  "name": "Galerie Gmurzynska",
+                  "text": "Internationally renowned gallery for modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        8.538949,
+                        47.369446
+                  ]
+            },
+            {
+                  "name": "Bürgli",
+                  "text": "Historic country house and architectural landmark in western Zurich.",
+                  "category": "historical",
+                  "coords": [
+                        8.528729,
+                        47.362115
+                  ]
+            },
+            {
+                  "name": "Theater am Neumarkt",
+                  "text": "Well-known theatre house for contemporary productions in the Old Town.",
+                  "category": "cultural",
+                  "coords": [
+                        8.545755,
+                        47.372645
+                  ]
+            },
+            {
+                  "name": "cabaret voltaire",
+                  "text": "Legendary birthplace of the Dada art movement, founded in 1916.",
+                  "category": "cultural",
+                  "coords": [
+                        8.543931,
+                        47.371609
+                  ]
+            },
+            {
+                  "name": "Dynamo",
+                  "text": "Youth culture center and meeting point directly on the Limmat river.",
+                  "category": "cultural",
+                  "coords": [
+                        8.539338,
+                        47.383313
+                  ]
+            },
+            {
+                  "name": "Bahnhofkirche",
+                  "text": "Ecumenical place of silence and reflection in Zurich Main Station.",
+                  "category": "religious",
+                  "coords": [
+                        8.540286,
+                        47.378043
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Important Catholic church with Neogothic architecture near the center.",
+                  "category": "religious",
+                  "coords": [
+                        8.545067,
+                        47.379598
+                  ]
+            },
+            {
+                  "name": "St. Jakob",
+                  "text": "Protestant Reformed church located at the busy Stauffacher square.",
+                  "category": "religious",
+                  "coords": [
+                        8.529008,
+                        47.373966
+                  ]
+            },
+            {
+                  "name": "St. Peter",
+                  "text": "Historic church featuring Europe's largest church tower clock face.",
+                  "category": "religious",
+                  "coords": [
+                        8.540745,
+                        47.371088
+                  ]
+            },
+            {
+                  "name": "Katholische Kirche St. Felix und Regula",
+                  "text": "Modern Catholic church dedicated to the city's patron saints.",
+                  "category": "religious",
+                  "coords": [
+                        8.513588,
+                        47.381053
+                  ]
+            },
+            {
+                  "name": "Pauluskirche",
+                  "text": "Reformed church in the Wiedikon district with striking architecture.",
+                  "category": "religious",
+                  "coords": [
+                        8.543277,
+                        47.394179
+                  ]
+            },
+            {
+                  "name": "Predigerkirche",
+                  "text": "Former Dominican church featuring the city's tallest church tower.",
+                  "category": "religious",
+                  "coords": [
+                        8.545494,
+                        47.37389
+                  ]
+            },
+            {
+                  "name": "Andreaskirche",
+                  "text": "Reformed church serving the local community in the Sihlfeld area.",
+                  "category": "religious",
+                  "coords": [
+                        8.501689,
+                        47.378736
+                  ]
+            },
+            {
+                  "name": "Allerheiligen",
+                  "text": "Catholic parish church in the northern district of Neuaffoltern.",
+                  "category": "religious",
+                  "coords": [
+                        8.529405,
+                        47.409074
+                  ]
+            },
+            {
+                  "name": "Johanneskirche",
+                  "text": "Reformed church in the former industrial quarter of Zurich.",
+                  "category": "religious",
+                  "coords": [
+                        8.533444,
+                        47.383802
+                  ]
+            },
+            {
+                  "name": "Fraumünster",
+                  "text": "Famous church featuring the stunning stained glass windows by Marc Chagall.",
+                  "category": "religious",
+                  "coords": [
+                        8.541203,
+                        47.369714
+                  ]
+            },
+            {
+                  "name": "Kirche Unterstrass",
+                  "text": "Reformed church in the Unterstrass district with active community life.",
+                  "category": "religious",
+                  "coords": [
+                        8.541946,
+                        47.387379
+                  ]
+            },
+            {
+                  "name": "Kirche Oberstrass",
+                  "text": "Protestant church located in Zurich's Oberstrass district.",
+                  "category": "religious",
+                  "coords": [
+                        8.546811,
+                        47.38391
+                  ]
+            },
+            {
+                  "name": "Wasserkirche",
+                  "text": "Late Gothic church situated on a former island in the Limmat river.",
+                  "category": "religious",
+                  "coords": [
+                        8.5432,
+                        47.369631
+                  ]
+            },
+            {
+                  "name": "Herz Jesu Wiedikon",
+                  "text": "Large Neogothic Catholic church in the Wiedikon area.",
+                  "category": "religious",
+                  "coords": [
+                        8.514238,
+                        47.372681
+                  ]
+            },
+            {
+                  "name": "Grossmünsterkapelle",
+                  "text": "Chapel near the Grossmünster, used for services and concerts.",
+                  "category": "religious",
+                  "coords": [
+                        8.544852,
+                        47.3703
+                  ]
+            },
+            {
+                  "name": "Kirche Altstetten",
+                  "text": "Modern church building serving as the center for the Altstetten reform community.",
+                  "category": "religious",
+                  "coords": [
+                        8.484556,
+                        47.386607
+                  ]
+            },
+            {
+                  "name": "Kirche Albisrieden",
+                  "text": "Reformed church in the Albisrieden district with a rural charm.",
+                  "category": "religious",
+                  "coords": [
+                        8.492271,
+                        47.376162
+                  ]
+            },
+            {
+                  "name": "Kirche Höngg",
+                  "text": "Historic church on a hill with broad views over the Höngg area.",
+                  "category": "religious",
+                  "coords": [
+                        8.496889,
+                        47.401542
+                  ]
+            },
+            {
+                  "name": "Hardturm",
+                  "text": "Historic defensive tower and former site of the football stadium.",
+                  "category": "tower",
+                  "coords": [
+                        8.513749,
+                        47.394022
+                  ]
+            },
+            {
+                  "name": "Rudolf-Brun-Brücke",
+                  "text": "Central bridge over the Limmat, named after Zurich's first mayor.",
+                  "category": "landmark",
+                  "coords": [
+                        8.542375,
+                        47.374406
+                  ]
+            },
+            {
+                  "name": "Wipkingerbrücke",
+                  "text": "Important road bridge providing access to the Wipkingen district.",
+                  "category": "landmark",
+                  "coords": [
+                        8.52338,
+                        47.391633
+                  ]
+            },
+            {
+                  "name": "Kornhausbrücke",
+                  "text": "High bridge over the Limmat with views of the city's industrial side.",
+                  "category": "landmark",
+                  "coords": [
+                        8.53348,
+                        47.385946
+                  ]
+            },
+            {
+                  "name": "Freitag Tower",
+                  "text": "Unique tower made of shipping containers and flagship store for Freitag bags.",
+                  "category": "tower",
+                  "coords": [
+                        8.519404,
+                        47.385668
+                  ]
+            },
+            {
+                  "name": "Hardbrücke",
+                  "text": "Major road bridge and a central artery of the trendy Zurich-West district.",
+                  "category": "landmark",
+                  "coords": [
+                        8.519478,
+                        47.387842
+                  ]
+            },
+            {
+                  "name": "Aussersihler Viadukt",
+                  "text": "Railway viaduct whose arches now house various shops and restaurants.",
+                  "category": "landmark",
+                  "coords": [
+                        8.523988,
+                        47.385613
+                  ]
+            },
+            {
+                  "name": "Chäferberg",
+                  "text": "Wooded hill and recreation area with views over the city.",
+                  "category": "natural",
+                  "coords": [
+                        8.516005,
+                        47.404432
+                  ]
+            },
+            {
+                  "name": "Monte Diggelmann",
+                  "text": "Small viewpoint located in a landscaped park in the 6th district.",
+                  "category": "natural",
+                  "coords": [
+                        8.549539,
+                        47.393256
+                  ]
+            },
+            {
+                  "name": "Platzpromenade",
+                  "text": "Historic parkland at the confluence of the Limmat and Sihl rivers.",
+                  "category": "park",
+                  "coords": [
+                        8.540016,
+                        47.380847
+                  ]
+            },
+            {
+                  "name": "Bäckeranlage",
+                  "text": "Popular neighborhood park in the 4th district with a large play area.",
+                  "category": "park",
+                  "coords": [
+                        8.523613,
+                        47.377816
+                  ]
+            },
+            {
+                  "name": "Irchelpark",
+                  "text": "Extensive landscape park on the University of Zurich Irchel campus.",
+                  "category": "park",
+                  "coords": [
+                        8.544503,
+                        47.398097
+                  ]
+            },
+            {
+                  "name": "Heilig Geist",
+                  "text": "Catholic church in Höngg featuring modern architectural design.",
+                  "category": "religious",
+                  "coords": [
+                        8.502994,
+                        47.401287
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CH",
     name: { de: "Zürich-West", hu: "Zürich-West", ro: "Zürich-West", en: "Zurich-West" },

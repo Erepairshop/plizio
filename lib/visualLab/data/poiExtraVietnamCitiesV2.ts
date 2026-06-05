@@ -3,7 +3,700 @@ import type { POI } from "./poi";
 
 export const poiExtraVietnamCitiesV2: POI[] = [
     {
-    id: "ho-chi-minh-city-cities-v2",
+    id: "ho-chi-minh-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo Tàng FITO",
+                  "text": "Ein Museum in Ho-Chi-Minh-Stadt, das der traditionellen vietnamesischen Medizin gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        106.671968,
+                        10.776283
+                  ]
+            },
+            {
+                  "name": "Nhà hát Hòa Bình",
+                  "text": "Das Hoa Binh Theater ist eines der größten und bekanntesten Theater in Ho-Chi-Minh-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673828,
+                        10.772324
+                  ]
+            },
+            {
+                  "name": "Công viên nước Đại Thế Giới",
+                  "text": "Ein großer Wasserpark in Ho-Chi-Minh-Stadt mit zahlreichen Attraktionen für alle Altersgruppen.",
+                  "category": "recreational",
+                  "coords": [
+                        106.668778,
+                        10.751467
+                  ]
+            },
+            {
+                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
+                  "text": "Ein Zentrum für Zirkuskunst und vielseitige Aufführungen in Ho-Chi-Minh-Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        106.654987,
+                        10.770172
+                  ]
+            },
+            {
+                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
+                  "text": "Eine historische Gedenkstätte im ehemaligen Gefängnis des Cho Quan Krankenhauses.",
+                  "category": "museum",
+                  "coords": [
+                        106.67929,
+                        10.753267
+                  ]
+            },
+            {
+                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "Ein Gedenkmuseum in Ho-Chi-Minh-Stadt, das dem Leben von Präsident Ho Chi Minh gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        106.658895,
+                        10.75115
+                  ]
+            },
+            {
+                  "name": "Nhà hát Nghệ thuật Phương Nam",
+                  "text": "Ein Theater in Ho-Chi-Minh-Stadt, das sich auf die darstellenden Künste Südvietnams konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        106.668771,
+                        10.753642
+                  ]
+            },
+            {
+                  "name": "Công viên Hòa Bình",
+                  "text": "Ein weitläufiger Stadtpark in Ho-Chi-Minh-Stadt, der Ruhe und Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        106.673803,
+                        10.760568
+                  ]
+            },
+            {
+                  "name": "Tượng đài Công Nông Binh",
+                  "text": "Ein Denkmal in Ho-Chi-Minh-Stadt, das die Einheit von Arbeitern, Bauern und Soldaten symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        106.674395,
+                        10.767687
+                  ]
+            },
+            {
+                  "name": "គុយទាវ Hong Phat",
+                  "text": "Ein bekanntes kulinarisches Ziel in Ho-Chi-Minh-Stadt, berühmt für seine Nudelsuppe.",
+                  "category": "landmark",
+                  "coords": [
+                        106.683335,
+                        10.771466
+                  ]
+            },
+            {
+                  "name": "Cầu Đi Bộ Số 7",
+                  "text": "Eine Fußgängerbrücke in Ho-Chi-Minh-Stadt, die Teile der Stadt miteinander verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.654333,
+                        10.745829
+                  ]
+            },
+            {
+                  "name": "Bia Truyền thống Vườn Lài",
+                  "text": "Eine Gedenkstele in Ho-Chi-Minh-Stadt, die an lokale Traditionen und Geschichte erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        106.672707,
+                        10.764974
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thánh Jeanne d'Arc",
+                  "text": "Eine katholische Kirche in Ho-Chi-Minh-Stadt, gewidmet der Heiligen Jeanne d'Arc.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667369,
+                        10.757041
+                  ]
+            },
+            {
+                  "name": "Nhà đèn Chợ Quán",
+                  "text": "Die Überreste des historischen Elektrizitätswerks Cho Quan in Ho-Chi-Minh-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        106.685909,
+                        10.753281
+                  ]
+            },
+            {
+                  "name": "Hội quán Nghĩa Nhuận",
+                  "text": "Eine traditionelle Versammlungshalle in Ho-Chi-Minh-Stadt, die als religiöse Stätte dient.",
+                  "category": "religious",
+                  "coords": [
+                        106.654387,
+                        10.749372
+                  ]
+            },
+            {
+                  "name": "Chùa Ấn Quang",
+                  "text": "Eine bedeutende buddhistische Pagode in Ho-Chi-Minh-Stadt mit historischer Wichtigkeit.",
+                  "category": "religious",
+                  "coords": [
+                        106.671678,
+                        10.765834
+                  ]
+            },
+            {
+                  "name": "Hội quán Nhị Phủ",
+                  "text": "Eine kunstvolle Versammlungshalle in Ho-Chi-Minh-Stadt, ein Zeugnis der chinesischen Kultur.",
+                  "category": "religious",
+                  "coords": [
+                        106.65726,
+                        10.751397
+                  ]
+            },
+            {
+                  "name": "Hội quán Phước An",
+                  "text": "Diese Versammlungshalle in Ho-Chi-Minh-Stadt ist für ihre beeindruckende Architektur bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        106.658867,
+                        10.754999
+                  ]
+            },
+            {
+                  "name": "Cầu Chánh Hưng",
+                  "text": "Eine wichtige Brücke in Ho-Chi-Minh-Stadt, die den Verkehr über einen Kanal leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        106.66892,
+                        10.743849
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo Tàng FITO",
+                  "text": "Múzeum Ho Si Minh-városban, amelyet a hagyományos vietnámi orvoslásnak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        106.671968,
+                        10.776283
+                  ]
+            },
+            {
+                  "name": "Nhà hát Hòa Bình",
+                  "text": "A Hoa Binh Színház Ho Si Minh-város egyik legnagyobb és legismertebb színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673828,
+                        10.772324
+                  ]
+            },
+            {
+                  "name": "Công viên nước Đại Thế Giới",
+                  "text": "Nagy vízipark Ho Si Minh-városban, számos látnivalóval minden korosztály számára.",
+                  "category": "recreational",
+                  "coords": [
+                        106.668778,
+                        10.751467
+                  ]
+            },
+            {
+                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
+                  "text": "Cirkuszművészeti és sokoldalú előadások központja Ho Si Minh-városban.",
+                  "category": "cultural",
+                  "coords": [
+                        106.654987,
+                        10.770172
+                  ]
+            },
+            {
+                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
+                  "text": "Történelmi emlékhely a Cho Quan kórház egykori börtönében.",
+                  "category": "museum",
+                  "coords": [
+                        106.67929,
+                        10.753267
+                  ]
+            },
+            {
+                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "Emlékmúzeum Ho Si Minh-városban, amelyet Ho Si Minh elnök életének szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        106.658895,
+                        10.75115
+                  ]
+            },
+            {
+                  "name": "Nhà hát Nghệ thuật Phương Nam",
+                  "text": "Színház Ho Si Minh-városban, amely Dél-Vietnám előadó-művészetére összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        106.668771,
+                        10.753642
+                  ]
+            },
+            {
+                  "name": "Công viên Hòa Bình",
+                  "text": "Kiterjedt városi park Ho Si Minh-városban, amely nyugalmat és kikapcsolódást kínál.",
+                  "category": "park",
+                  "coords": [
+                        106.673803,
+                        10.760568
+                  ]
+            },
+            {
+                  "name": "Tượng đài Công Nông Binh",
+                  "text": "Emlékmű Ho Si Minh-városban, amely a munkások, parasztok és katonák egységét jelképezi.",
+                  "category": "historical",
+                  "coords": [
+                        106.674395,
+                        10.767687
+                  ]
+            },
+            {
+                  "name": "គុយទាវ Hong Phat",
+                  "text": "Ismert gasztronómiai célpont Ho Si Minh-városban, amely tésztaleveséről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        106.683335,
+                        10.771466
+                  ]
+            },
+            {
+                  "name": "Cầu Đi Bộ Số 7",
+                  "text": "Gyalogos híd Ho Si Minh-városban, amely a város részeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        106.654333,
+                        10.745829
+                  ]
+            },
+            {
+                  "name": "Bia Truyền thống Vườn Lài",
+                  "text": "Emlékoszlop Ho Si Minh-városban, amely a helyi hagyományokra és történelemre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        106.672707,
+                        10.764974
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thánh Jeanne d'Arc",
+                  "text": "Katolikus templom Ho Si Minh-városban, amelyet Szent Johanna tiszteletére szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667369,
+                        10.757041
+                  ]
+            },
+            {
+                  "name": "Nhà đèn Chợ Quán",
+                  "text": "A történelmi Cho Quan villamosmű maradványai Ho Si Minh-városban.",
+                  "category": "historical",
+                  "coords": [
+                        106.685909,
+                        10.753281
+                  ]
+            },
+            {
+                  "name": "Hội quán Nghĩa Nhuận",
+                  "text": "Hagyományos gyülekezeti csarnok Ho Si Minh-városban, amely vallási helyszínként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        106.654387,
+                        10.749372
+                  ]
+            },
+            {
+                  "name": "Chùa Ấn Quang",
+                  "text": "Jelentős buddhista pagoda Ho Si Minh-városban, amely történelmi fontossággal bír.",
+                  "category": "religious",
+                  "coords": [
+                        106.671678,
+                        10.765834
+                  ]
+            },
+            {
+                  "name": "Hội quán Nhị Phủ",
+                  "text": "Díszes gyülekezeti csarnok Ho Si Minh-városban, a kínai kultúra tanúbizonysága.",
+                  "category": "religious",
+                  "coords": [
+                        106.65726,
+                        10.751397
+                  ]
+            },
+            {
+                  "name": "Hội quán Phước An",
+                  "text": "Ez a Ho Si Minh-városi gyülekezeti csarnok lenyűgöző építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        106.658867,
+                        10.754999
+                  ]
+            },
+            {
+                  "name": "Cầu Chánh Hưng",
+                  "text": "Fontos híd Ho Si Minh-városban, amely egy csatorna felett vezeti át a forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        106.66892,
+                        10.743849
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo Tàng FITO",
+                  "text": "Un muzeu din Ho Chi Minh City dedicat medicinei tradiționale vietnameze.",
+                  "category": "museum",
+                  "coords": [
+                        106.671968,
+                        10.776283
+                  ]
+            },
+            {
+                  "name": "Nhà hát Hòa Bình",
+                  "text": "Teatrul Hoa Binh este unul dintre cele mai mari și mai cunoscute teatre din Ho Chi Minh City.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673828,
+                        10.772324
+                  ]
+            },
+            {
+                  "name": "Công viên nước Đại Thế Giới",
+                  "text": "Un parc acvatic mare în Ho Chi Minh City, cu numeroase atracții pentru toate vârstele.",
+                  "category": "recreational",
+                  "coords": [
+                        106.668778,
+                        10.751467
+                  ]
+            },
+            {
+                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
+                  "text": "Un centru pentru arta circului și spectacole versatile în Ho Chi Minh City.",
+                  "category": "cultural",
+                  "coords": [
+                        106.654987,
+                        10.770172
+                  ]
+            },
+            {
+                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
+                  "text": "Un sit memorial istoric aflat în fosta închisoare a spitalului Cho Quan.",
+                  "category": "museum",
+                  "coords": [
+                        106.67929,
+                        10.753267
+                  ]
+            },
+            {
+                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "Un muzeu memorial în Ho Chi Minh City, dedicat vieții președintelui Ho Chi Minh.",
+                  "category": "museum",
+                  "coords": [
+                        106.658895,
+                        10.75115
+                  ]
+            },
+            {
+                  "name": "Nhà hát Nghệ thuật Phương Nam",
+                  "text": "Un teatru din Ho Chi Minh City axat pe artele spectacolului din sudul Vietnamului.",
+                  "category": "cultural",
+                  "coords": [
+                        106.668771,
+                        10.753642
+                  ]
+            },
+            {
+                  "name": "Công viên Hòa Bình",
+                  "text": "Un parc urban întins în Ho Chi Minh City, care oferă liniște și recreere.",
+                  "category": "park",
+                  "coords": [
+                        106.673803,
+                        10.760568
+                  ]
+            },
+            {
+                  "name": "Tượng đài Công Nông Binh",
+                  "text": "Un monument în Ho Chi Minh City care simbolizează unitatea muncitorilor, țăranilor și soldaților.",
+                  "category": "historical",
+                  "coords": [
+                        106.674395,
+                        10.767687
+                  ]
+            },
+            {
+                  "name": "គុយទាវ Hong Phat",
+                  "text": "O destinație culinară cunoscută în Ho Chi Minh City, celebră pentru supa sa de tăieței.",
+                  "category": "landmark",
+                  "coords": [
+                        106.683335,
+                        10.771466
+                  ]
+            },
+            {
+                  "name": "Cầu Đi Bộ Số 7",
+                  "text": "O punte pietonală în Ho Chi Minh City, care face legătura între părți ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        106.654333,
+                        10.745829
+                  ]
+            },
+            {
+                  "name": "Bia Truyền thống Vườn Lài",
+                  "text": "O stelă memorială în Ho Chi Minh City, care amintește de tradițiile și istoria locală.",
+                  "category": "historical",
+                  "coords": [
+                        106.672707,
+                        10.764974
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Thánh Jeanne d'Arc",
+                  "text": "O biserică catolică în Ho Chi Minh City, dedicată Sfintei Ioana d'Arc.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667369,
+                        10.757041
+                  ]
+            },
+            {
+                  "name": "Nhà đèn Chợ Quán",
+                  "text": "Vestigiile istoricei centrale electrice Cho Quan din Ho Chi Minh City.",
+                  "category": "historical",
+                  "coords": [
+                        106.685909,
+                        10.753281
+                  ]
+            },
+            {
+                  "name": "Hội quán Nghĩa Nhuận",
+                  "text": "O sală de adunare tradițională în Ho Chi Minh City, care servește ca lăcaș de cult.",
+                  "category": "religious",
+                  "coords": [
+                        106.654387,
+                        10.749372
+                  ]
+            },
+            {
+                  "name": "Chùa Ấn Quang",
+                  "text": "O pagodă budistă importantă din Ho Chi Minh City, cu semnificație istorică.",
+                  "category": "religious",
+                  "coords": [
+                        106.671678,
+                        10.765834
+                  ]
+            },
+            {
+                  "name": "Hội quán Nhị Phủ",
+                  "text": "O sală de adunare bogat decorată în Ho Chi Minh City, o dovadă a culturii chineze.",
+                  "category": "religious",
+                  "coords": [
+                        106.65726,
+                        10.751397
+                  ]
+            },
+            {
+                  "name": "Hội quán Phước An",
+                  "text": "Această sală de adunare din Ho Chi Minh City este cunoscută pentru arhitectura sa impresionantă.",
+                  "category": "religious",
+                  "coords": [
+                        106.658867,
+                        10.754999
+                  ]
+            },
+            {
+                  "name": "Cầu Chánh Hưng",
+                  "text": "Un pod important în Ho Chi Minh City, care direcționează traficul peste un canal.",
+                  "category": "landmark",
+                  "coords": [
+                        106.66892,
+                        10.743849
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "FITO Museum of traditional Vietnamese medicine",
+                  "text": "A museum in Ho Chi Minh City dedicated to traditional Vietnamese medicine.",
+                  "category": "museum",
+                  "coords": [
+                        106.671968,
+                        10.776283
+                  ]
+            },
+            {
+                  "name": "Nhà hát Hòa Bình",
+                  "text": "Hoa Binh Theatre is one of the largest and best-known theatres in Ho Chi Minh City.",
+                  "category": "cultural",
+                  "coords": [
+                        106.673828,
+                        10.772324
+                  ]
+            },
+            {
+                  "name": "Công viên nước Đại Thế Giới",
+                  "text": "A large water park in Ho Chi Minh City with numerous attractions for all ages.",
+                  "category": "recreational",
+                  "coords": [
+                        106.668778,
+                        10.751467
+                  ]
+            },
+            {
+                  "name": "Rạp Xiếc và Biểu diễn đa năng Phú Thọ",
+                  "text": "A centre for circus arts and versatile performances in Ho Chi Minh City.",
+                  "category": "cultural",
+                  "coords": [
+                        106.654987,
+                        10.770172
+                  ]
+            },
+            {
+                  "name": "Di tích Khu tạm giam Bệnh viện Chợ Quán",
+                  "text": "A historical memorial site located in the former prison of Cho Quan Hospital.",
+                  "category": "museum",
+                  "coords": [
+                        106.67929,
+                        10.753267
+                  ]
+            },
+            {
+                  "name": "Di tích lưu niệm Chủ tịch Hồ Chí Minh",
+                  "text": "A memorial museum in Ho Chi Minh City dedicated to the life of President Ho Chi Minh.",
+                  "category": "museum",
+                  "coords": [
+                        106.658895,
+                        10.75115
+                  ]
+            },
+            {
+                  "name": "Nhà hát Nghệ thuật Phương Nam",
+                  "text": "A theatre in Ho Chi Minh City focusing on the performing arts of Southern Vietnam.",
+                  "category": "cultural",
+                  "coords": [
+                        106.668771,
+                        10.753642
+                  ]
+            },
+            {
+                  "name": "Công viên Hòa Bình",
+                  "text": "A spacious city park in Ho Chi Minh City offering peace and recreation.",
+                  "category": "park",
+                  "coords": [
+                        106.673803,
+                        10.760568
+                  ]
+            },
+            {
+                  "name": "Tượng đài Công Nông Binh",
+                  "text": "A monument in Ho Chi Minh City symbolizing the unity of workers, peasants, and soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        106.674395,
+                        10.767687
+                  ]
+            },
+            {
+                  "name": "គុយទាវ Hong Phat",
+                  "text": "A well-known culinary destination in Ho Chi Minh City, famous for its noodle soup.",
+                  "category": "landmark",
+                  "coords": [
+                        106.683335,
+                        10.771466
+                  ]
+            },
+            {
+                  "name": "Foot Bridge",
+                  "text": "A foot bridge in Ho Chi Minh City connecting parts of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        106.654333,
+                        10.745829
+                  ]
+            },
+            {
+                  "name": "Bia Truyền thống Vườn Lài",
+                  "text": "A memorial stele in Ho Chi Minh City commemorating local traditions and history.",
+                  "category": "historical",
+                  "coords": [
+                        106.672707,
+                        10.764974
+                  ]
+            },
+            {
+                  "name": "Church of St Joan of Arc",
+                  "text": "A Catholic church in Ho Chi Minh City dedicated to Saint Joan of Arc.",
+                  "category": "landmark",
+                  "coords": [
+                        106.667369,
+                        10.757041
+                  ]
+            },
+            {
+                  "name": "Nhà đèn Chợ Quán",
+                  "text": "The remains of the historical Cho Quan power station in Ho Chi Minh City.",
+                  "category": "historical",
+                  "coords": [
+                        106.685909,
+                        10.753281
+                  ]
+            },
+            {
+                  "name": "Nghia Nhuan Assembly Hall",
+                  "text": "A traditional assembly hall in Ho Chi Minh City serving as a place of worship.",
+                  "category": "religious",
+                  "coords": [
+                        106.654387,
+                        10.749372
+                  ]
+            },
+            {
+                  "name": "An Quang Pagoda",
+                  "text": "A significant Buddhist pagoda in Ho Chi Minh City with historical importance.",
+                  "category": "religious",
+                  "coords": [
+                        106.671678,
+                        10.765834
+                  ]
+            },
+            {
+                  "name": "Hội quán Nhị Phủ",
+                  "text": "An ornate assembly hall in Ho Chi Minh City, a testament to Chinese culture.",
+                  "category": "religious",
+                  "coords": [
+                        106.65726,
+                        10.751397
+                  ]
+            },
+            {
+                  "name": "Phuoc An Assembly Hall",
+                  "text": "This assembly hall in Ho Chi Minh City is known for its impressive architecture.",
+                  "category": "religious",
+                  "coords": [
+                        106.658867,
+                        10.754999
+                  ]
+            },
+            {
+                  "name": "Cầu Chánh Hưng",
+                  "text": "An important bridge in Ho Chi Minh City directing traffic over a canal.",
+                  "category": "landmark",
+                  "coords": [
+                        106.66892,
+                        10.743849
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-SG",
     coords: [106.66667, 10.75],
@@ -51,7 +744,304 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "bac-ninh-cities-v2",
+    id: "bac-ninh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng Bắc Ninh",
+                  "text": "Das Bac Ninh Museum ist eine Einrichtung, die sich der Erhaltung und Ausstellung der lokalen Geschichte von Bắc Ninh widmet.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "Das Lý Thái Tổ-Denkmal ist ein bedeutendes historisches Denkmal, das in Bắc Ninh errichtet wurde.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "Nhà tưởng niệm liệt sĩ Thị Cầu ist ein lokales Denkmal in Bắc Ninh.",
+                  "category": "historical",
+                  "coords": [
+                        106.088221,
+                        21.19365
+                  ]
+            },
+            {
+                  "name": "Đình Đọ Xá",
+                  "text": "Do Xa Village Temple ist eine lokale Sehenswürdigkeit in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.061812,
+                        21.178599
+                  ]
+            },
+            {
+                  "name": "Đình Yên Mẫn",
+                  "text": "Đình Yên Mẫn ist eine Sehenswürdigkeit in der Stadt Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.057301,
+                        21.189558
+                  ]
+            },
+            {
+                  "name": "Đình Y Na",
+                  "text": "Đình Y Na ist eine lokale Sehenswürdigkeit in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.067242,
+                        21.188608
+                  ]
+            },
+            {
+                  "name": "Cầu Như Nguyệt",
+                  "text": "Nhu Nguyet Bridge ist eine Brücke über den Fluss Cau in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100127,
+                        21.203659
+                  ]
+            },
+            {
+                  "name": "Cầu Thị Cầu",
+                  "text": "Thi Cau Bridge ist eine bemerkenswerte Brückeninfrastruktur in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091992,
+                        21.205661
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng Bắc Ninh",
+                  "text": "A Bac Ninh Múzeum Bắc Ninh helytörténetének megőrzésével és bemutatásával foglalkozó intézmény.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "A Lý Thái Tổ emlékmű egy jelentős történelmi emlékmű Bắc Ninh városában.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "A Nhà tưởng niệm liệt sĩ Thị Cầu egy helyi emlékmű Bắc Ninh városában.",
+                  "category": "historical",
+                  "coords": [
+                        106.088221,
+                        21.19365
+                  ]
+            },
+            {
+                  "name": "Đình Đọ Xá",
+                  "text": "A Do Xa Village Temple egy helyi látványosság Bắc Ninh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.061812,
+                        21.178599
+                  ]
+            },
+            {
+                  "name": "Đình Yên Mẫn",
+                  "text": "A Đình Yên Mẫn egy látványosság Bắc Ninh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.057301,
+                        21.189558
+                  ]
+            },
+            {
+                  "name": "Đình Y Na",
+                  "text": "A Đình Y Na egy helyi látványosság Bắc Ninh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.067242,
+                        21.188608
+                  ]
+            },
+            {
+                  "name": "Cầu Như Nguyệt",
+                  "text": "A Nhu Nguyet Bridge egy híd, amely a Cau folyón ível át Bắc Ninh területén.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100127,
+                        21.203659
+                  ]
+            },
+            {
+                  "name": "Cầu Thị Cầu",
+                  "text": "A Thi Cau Bridge egy figyelemre méltó híd Bắc Ninh városában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091992,
+                        21.205661
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng Bắc Ninh",
+                  "text": "Muzeul Bac Ninh este o instituție dedicată conservării și expunerii istoriei locale din Bắc Ninh.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "Monumentul Ly Thai To este un monument istoric semnificativ ridicat în Bắc Ninh.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "Nhà tưởng niệm liệt sĩ Thị Cầu este un monument local situat în Bắc Ninh.",
+                  "category": "historical",
+                  "coords": [
+                        106.088221,
+                        21.19365
+                  ]
+            },
+            {
+                  "name": "Đình Đọ Xá",
+                  "text": "Do Xa Village Temple este o atracție locală din Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.061812,
+                        21.178599
+                  ]
+            },
+            {
+                  "name": "Đình Yên Mẫn",
+                  "text": "Đình Yên Mẫn este o atracție situată în orașul Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.057301,
+                        21.189558
+                  ]
+            },
+            {
+                  "name": "Đình Y Na",
+                  "text": "Đình Y Na este o atracție locală situată în Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.067242,
+                        21.188608
+                  ]
+            },
+            {
+                  "name": "Cầu Như Nguyệt",
+                  "text": "Nhu Nguyet Bridge este un pod peste râul Cau în Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100127,
+                        21.203659
+                  ]
+            },
+            {
+                  "name": "Cầu Thị Cầu",
+                  "text": "Thi Cau Bridge este un pod notabil situat în Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091992,
+                        21.205661
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bac Ninh Museum",
+                  "text": "The Bac Ninh Museum is an institution dedicated to preserving and exhibiting the local history of Bắc Ninh.",
+                  "category": "museum",
+                  "coords": [
+                        106.074738,
+                        21.184123
+                  ]
+            },
+            {
+                  "name": "Tượng đài Lý Thái Tổ",
+                  "text": "The Tượng đài Lý Thái Tổ is a significant historical monument erected in Bắc Ninh.",
+                  "category": "historical",
+                  "coords": [
+                        106.076388,
+                        21.184545
+                  ]
+            },
+            {
+                  "name": "Nhà tưởng niệm liệt sĩ Thị Cầu",
+                  "text": "Nhà tưởng niệm liệt sĩ Thị Cầu is a local monument situated in Bắc Ninh.",
+                  "category": "historical",
+                  "coords": [
+                        106.088221,
+                        21.19365
+                  ]
+            },
+            {
+                  "name": "Do Xa Village Temple",
+                  "text": "Do Xa Village Temple is a local attraction found in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.061812,
+                        21.178599
+                  ]
+            },
+            {
+                  "name": "Đình Yên Mẫn",
+                  "text": "Đình Yên Mẫn is an attraction located in the city of Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.057301,
+                        21.189558
+                  ]
+            },
+            {
+                  "name": "Đình Y Na",
+                  "text": "Đình Y Na is a local attraction situated in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.067242,
+                        21.188608
+                  ]
+            },
+            {
+                  "name": "Nhu Nguyet Bridge",
+                  "text": "Nhu Nguyet Bridge is a bridge crossing the Cau River in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.100127,
+                        21.203659
+                  ]
+            },
+            {
+                  "name": "Thi Cau Bridge",
+                  "text": "Thi Cau Bridge is a notable bridge infrastructure located in Bắc Ninh.",
+                  "category": "landmark",
+                  "coords": [
+                        106.091992,
+                        21.205661
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-56",
     coords: [106.076, 21.186],
@@ -99,7 +1089,52 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "hai-duong-cities-v2",
+    id: "hai-duong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng tỉnh Hải Dương",
+                  "text": "Ein Museum in Hải Dương, das die Geschichte und Kultur der Provinz zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        106.329841,
+                        20.943165
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng tỉnh Hải Dương",
+                  "text": "Múzeum Hải Dươngban, amely a tartomány történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        106.329841,
+                        20.943165
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng tỉnh Hải Dương",
+                  "text": "Un muzeu în Hải Dương care prezintă istoria și cultura provinciei.",
+                  "category": "museum",
+                  "coords": [
+                        106.329841,
+                        20.943165
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng tỉnh Hải Dương",
+                  "text": "A museum in Hải Dương showcasing the history and culture of the province.",
+                  "category": "museum",
+                  "coords": [
+                        106.329841,
+                        20.943165
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-61",
     coords: [106.303, 20.938],
@@ -147,7 +1182,88 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "vinh-yen-cities-v2",
+    id: "vinh-yen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng Vĩnh Phúc",
+                  "text": "Das Provinzmuseum von Vinh Phuc in Vinh Yen zeigt regionale Geschichte und Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        105.593006,
+                        21.305748
+                  ]
+            },
+            {
+                  "name": "Nhà hát Vĩnh Phúc",
+                  "text": "Ein modernes Theater in Vinh Yen, das als Zentrum für darstellende Künste dient.",
+                  "category": "cultural",
+                  "coords": [
+                        105.613408,
+                        21.309797
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng Vĩnh Phúc",
+                  "text": "Vinh Phuc tartományi múzeuma Vinh Yenben a regionális történelmet és művészetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        105.593006,
+                        21.305748
+                  ]
+            },
+            {
+                  "name": "Nhà hát Vĩnh Phúc",
+                  "text": "Modern színház Vinh Yenben, amely az előadó-művészetek központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        105.613408,
+                        21.309797
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng Vĩnh Phúc",
+                  "text": "Muzeul provincial Vinh Phuc din Vinh Yen expune istoria și arta regională.",
+                  "category": "museum",
+                  "coords": [
+                        105.593006,
+                        21.305748
+                  ]
+            },
+            {
+                  "name": "Nhà hát Vĩnh Phúc",
+                  "text": "Un teatru modern în Vinh Yen, care servește ca centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        105.613408,
+                        21.309797
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng Vĩnh Phúc",
+                  "text": "The provincial museum of Vinh Phuc in Vinh Yen showcases regional history and art.",
+                  "category": "museum",
+                  "coords": [
+                        105.593006,
+                        21.305748
+                  ]
+            },
+            {
+                  "name": "Vinh Phuc Theatre",
+                  "text": "A modern theatre in Vinh Yen serving as a hub for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        105.613408,
+                        21.309797
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-70",
     coords: [105.604, 21.309],
@@ -195,7 +1311,52 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "thai-binh-cities-v2",
+    id: "thai-binh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng tỉnh Hưng Yên - cơ sở 2",
+                  "text": "Bảo tàng tỉnh Hưng Yên - cơ sở 2 ist eine Museumseinrichtung in Thái Bình.",
+                  "category": "museum",
+                  "coords": [
+                        106.348325,
+                        20.452986
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng tỉnh Hưng Yên - cơ sở 2",
+                  "text": "A Bảo tàng tỉnh Hưng Yên - cơ sở 2 egy múzeumi intézmény Thái Bình városában.",
+                  "category": "museum",
+                  "coords": [
+                        106.348325,
+                        20.452986
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng tỉnh Hưng Yên - cơ sở 2",
+                  "text": "Bảo tàng tỉnh Hưng Yên - cơ sở 2 este o instituție muzeală situată în Thái Bình.",
+                  "category": "museum",
+                  "coords": [
+                        106.348325,
+                        20.452986
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng tỉnh Hưng Yên - cơ sở 2",
+                  "text": "Bảo tàng tỉnh Hưng Yên - cơ sở 2 is a museum institution situated in Thái Bình.",
+                  "category": "museum",
+                  "coords": [
+                        106.348325,
+                        20.452986
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-66",
     coords: [106.339, 20.447],
@@ -243,7 +1404,52 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "phu-ly-cities-v2",
+    id: "phu-ly-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
+                  "text": "Eine Zweigstelle des Provinzmuseums von Ninh Bình in Phủ Lý.",
+                  "category": "museum",
+                  "coords": [
+                        105.903998,
+                        20.541239
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
+                  "text": "A Ninh Bình tartományi múzeum egyik részlege Phủ Lýban.",
+                  "category": "museum",
+                  "coords": [
+                        105.903998,
+                        20.541239
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
+                  "text": "O filială a muzeului provincial Ninh Bình situată în Phủ Lý.",
+                  "category": "museum",
+                  "coords": [
+                        105.903998,
+                        20.541239
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng tỉnh Ninh Bình (cơ sở 3)",
+                  "text": "A branch of the Ninh Bình provincial museum located in Phủ Lý.",
+                  "category": "museum",
+                  "coords": [
+                        105.903998,
+                        20.541239
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-64",
     coords: [105.912, 20.539],
@@ -291,7 +1497,232 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "ninh-binh-cities-v2",
+    id: "ninh-binh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cau Lim",
+                  "text": "Die Lim-Brücke ist eine markante Konstruktion in der Stadt Ninh Binh.",
+                  "category": "landmark",
+                  "coords": [
+                        105.975103,
+                        20.250406
+                  ]
+            },
+            {
+                  "name": "Chua Dau Long",
+                  "text": "Ein lokaler Tempel in Ninh Binh, der einen Einblick in die religiösen Traditionen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        105.966436,
+                        20.25985
+                  ]
+            },
+            {
+                  "name": "Bruecke",
+                  "text": "Eine Brücke in Ninh Binh, die als lokaler Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        105.967611,
+                        20.264771
+                  ]
+            },
+            {
+                  "name": "To Quoc Ghi Cong",
+                  "text": "Ein Denkmal in Ninh Binh, das an wichtige Ereignisse oder Persönlichkeiten erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        105.981039,
+                        20.260956
+                  ]
+            },
+            {
+                  "name": "Làng mộc Phúc Lộc",
+                  "text": "Ein traditionelles Dorf in Ninh Binh, das für sein Kunsthandwerk und seine Holzschnitzerei bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.981361,
+                        20.23346
+                  ]
+            },
+            {
+                  "name": "Rock pile",
+                  "text": "Ein Steindenkmal in Ninh Binh, das als markantes lokales Wahrzeichen gilt.",
+                  "category": "historical",
+                  "coords": [
+                        105.981611,
+                        20.260005
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cau Lim",
+                  "text": "A Lim-híd Ninh Binh városának egyik jellegzetes építménye.",
+                  "category": "landmark",
+                  "coords": [
+                        105.975103,
+                        20.250406
+                  ]
+            },
+            {
+                  "name": "Chua Dau Long",
+                  "text": "Helyi templom Ninh Binhben, amely betekintést nyújt a vallási hagyományokba.",
+                  "category": "landmark",
+                  "coords": [
+                        105.966436,
+                        20.25985
+                  ]
+            },
+            {
+                  "name": "Bruecke",
+                  "text": "Híd Ninh Binhben, amely helyi tájékozódási pontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        105.967611,
+                        20.264771
+                  ]
+            },
+            {
+                  "name": "To Quoc Ghi Cong",
+                  "text": "Emlékmű Ninh Binhben, amely fontos eseményekre vagy személyiségekre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        105.981039,
+                        20.260956
+                  ]
+            },
+            {
+                  "name": "Làng mộc Phúc Lộc",
+                  "text": "Hagyományos falu Ninh Binhben, amely kézművességéről és fafaragásáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        105.981361,
+                        20.23346
+                  ]
+            },
+            {
+                  "name": "Rock pile",
+                  "text": "Kőemlékmű Ninh Binhben, amely jellegzetes helyi látnivalónak számít.",
+                  "category": "historical",
+                  "coords": [
+                        105.981611,
+                        20.260005
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cau Lim",
+                  "text": "Podul Lim este o construcție distinctivă din orașul Ninh Binh.",
+                  "category": "landmark",
+                  "coords": [
+                        105.975103,
+                        20.250406
+                  ]
+            },
+            {
+                  "name": "Chua Dau Long",
+                  "text": "Un templu local din Ninh Binh, care oferă o imagine asupra tradițiilor religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        105.966436,
+                        20.25985
+                  ]
+            },
+            {
+                  "name": "Bruecke",
+                  "text": "Un pod în Ninh Binh care servește ca punct de reper local.",
+                  "category": "landmark",
+                  "coords": [
+                        105.967611,
+                        20.264771
+                  ]
+            },
+            {
+                  "name": "To Quoc Ghi Cong",
+                  "text": "Un monument în Ninh Binh, care amintește de evenimente sau personalități importante.",
+                  "category": "historical",
+                  "coords": [
+                        105.981039,
+                        20.260956
+                  ]
+            },
+            {
+                  "name": "Làng mộc Phúc Lộc",
+                  "text": "Un sat tradițional din Ninh Binh, cunoscut pentru meșteșugurile sale și sculptura în lemn.",
+                  "category": "landmark",
+                  "coords": [
+                        105.981361,
+                        20.23346
+                  ]
+            },
+            {
+                  "name": "Rock pile",
+                  "text": "Un monument din piatră în Ninh Binh, considerat un punct de reper local distinctiv.",
+                  "category": "historical",
+                  "coords": [
+                        105.981611,
+                        20.260005
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lim Bridge",
+                  "text": "The Lim Bridge is a distinctive structure in the city of Ninh Binh.",
+                  "category": "landmark",
+                  "coords": [
+                        105.975103,
+                        20.250406
+                  ]
+            },
+            {
+                  "name": "Dau Long Temple",
+                  "text": "A local temple in Ninh Binh offering insight into religious traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        105.966436,
+                        20.25985
+                  ]
+            },
+            {
+                  "name": "Bruecke",
+                  "text": "A bridge in Ninh Binh serving as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        105.967611,
+                        20.264771
+                  ]
+            },
+            {
+                  "name": "Monument",
+                  "text": "A monument in Ninh Binh commemorating important events or personalities.",
+                  "category": "historical",
+                  "coords": [
+                        105.981039,
+                        20.260956
+                  ]
+            },
+            {
+                  "name": "Làng mộc Phúc Lộc",
+                  "text": "A traditional village in Ninh Binh known for its handicrafts and wood carving.",
+                  "category": "landmark",
+                  "coords": [
+                        105.981361,
+                        20.23346
+                  ]
+            },
+            {
+                  "name": "Rock pile",
+                  "text": "A stone monument in Ninh Binh considered a distinctive local landmark.",
+                  "category": "historical",
+                  "coords": [
+                        105.981611,
+                        20.260005
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-19",
     coords: [105.975, 20.252],
@@ -339,7 +1770,124 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "bac-giang-cities-v2",
+    id: "bac-giang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng tỉnh Bắc Giang",
+                  "text": "Bảo tàng tỉnh Bắc Giang ist ein regionales Museum in Bắc Giang.",
+                  "category": "museum",
+                  "coords": [
+                        106.193787,
+                        21.277233
+                  ]
+            },
+            {
+                  "name": "Nhà hát Chèo tỉnh Bắc Giang",
+                  "text": "Nhà hát Chèo tỉnh Bắc Giang ist ein lokales Theater in Bắc Giang.",
+                  "category": "cultural",
+                  "coords": [
+                        106.215126,
+                        21.290864
+                  ]
+            },
+            {
+                  "name": "Công viên Ngô Gia Tự ( Ngo Gia Tu Park )",
+                  "text": "Der Ngo Gia Tu Park ist eine öffentliche Erholungsanlage in Bắc Giang.",
+                  "category": "landmark",
+                  "coords": [
+                        106.19306,
+                        21.275648
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng tỉnh Bắc Giang",
+                  "text": "A Bảo tàng tỉnh Bắc Giang egy regionális múzeum Bắc Giang városában.",
+                  "category": "museum",
+                  "coords": [
+                        106.193787,
+                        21.277233
+                  ]
+            },
+            {
+                  "name": "Nhà hát Chèo tỉnh Bắc Giang",
+                  "text": "A Nhà hát Chèo tỉnh Bắc Giang egy helyi színház Bắc Giang városában.",
+                  "category": "cultural",
+                  "coords": [
+                        106.215126,
+                        21.290864
+                  ]
+            },
+            {
+                  "name": "Công viên Ngô Gia Tự ( Ngo Gia Tu Park )",
+                  "text": "A Ngo Gia Tu Park egy nyilvános rekreációs látványosság Bắc Giang városában.",
+                  "category": "landmark",
+                  "coords": [
+                        106.19306,
+                        21.275648
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng tỉnh Bắc Giang",
+                  "text": "Bảo tàng tỉnh Bắc Giang este un muzeu regional situat în Bắc Giang.",
+                  "category": "museum",
+                  "coords": [
+                        106.193787,
+                        21.277233
+                  ]
+            },
+            {
+                  "name": "Nhà hát Chèo tỉnh Bắc Giang",
+                  "text": "Nhà hát Chèo tỉnh Bắc Giang este un teatru local situat în Bắc Giang.",
+                  "category": "cultural",
+                  "coords": [
+                        106.215126,
+                        21.290864
+                  ]
+            },
+            {
+                  "name": "Công viên Ngô Gia Tự ( Ngo Gia Tu Park )",
+                  "text": "Ngo Gia Tu Park este o atracție recreativă publică situată în Bắc Giang.",
+                  "category": "landmark",
+                  "coords": [
+                        106.19306,
+                        21.275648
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng tỉnh Bắc Giang",
+                  "text": "Bảo tàng tỉnh Bắc Giang is a regional museum located in Bắc Giang.",
+                  "category": "museum",
+                  "coords": [
+                        106.193787,
+                        21.277233
+                  ]
+            },
+            {
+                  "name": "Nhà hát Chèo tỉnh Bắc Giang",
+                  "text": "Nhà hát Chèo tỉnh Bắc Giang is a local theatre located in Bắc Giang.",
+                  "category": "cultural",
+                  "coords": [
+                        106.215126,
+                        21.290864
+                  ]
+            },
+            {
+                  "name": "Ngo Gia Tu Park (Cong Vien Ngo Gia Tu)",
+                  "text": "Ngo Gia Tu Park is a public recreational attraction situated in Bắc Giang.",
+                  "category": "landmark",
+                  "coords": [
+                        106.19306,
+                        21.275648
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-54",
     coords: [106.195, 21.272],
@@ -387,7 +1935,124 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "mong-cai-cities-v2",
+    id: "mong-cai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "Ein Vergnügungs- und Wasserpark in der Stadt Móng Cái.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974285,
+                        21.522459
+                  ]
+            },
+            {
+                  "name": "Cầu Bắc Luân - 北仑桥",
+                  "text": "Eine Brücke und Sehenswürdigkeit in der Grenzstadt Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968596,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Đền Xã Tắc",
+                  "text": "Ein Tempel und eine kulturelle Sehenswürdigkeit in Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965281,
+                        21.533804
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "Szórakoztató- és vízipark Móng Cái városában.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974285,
+                        21.522459
+                  ]
+            },
+            {
+                  "name": "Cầu Bắc Luân - 北仑桥",
+                  "text": "Híd és látnivaló Móng Cái határvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968596,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Đền Xã Tắc",
+                  "text": "Templom és kulturális látnivaló Móng Cái városában.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965281,
+                        21.533804
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "Un parc de distracții și acvatic în orașul Móng Cái.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974285,
+                        21.522459
+                  ]
+            },
+            {
+                  "name": "Cầu Bắc Luân - 北仑桥",
+                  "text": "Un pod și o atracție în orașul de frontieră Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968596,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Đền Xã Tắc",
+                  "text": "Un templu și o atracție culturală în Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965281,
+                        21.533804
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Trung tâm Vui chơi giải trí Móng Cái",
+                  "text": "An amusement and water park in the city of Móng Cái.",
+                  "category": "recreational",
+                  "coords": [
+                        107.974285,
+                        21.522459
+                  ]
+            },
+            {
+                  "name": "Beilun Bridge",
+                  "text": "A bridge and attraction in the border city of Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.968596,
+                        21.5373
+                  ]
+            },
+            {
+                  "name": "Xa Tac Temple",
+                  "text": "A temple and cultural attraction in Móng Cái.",
+                  "category": "landmark",
+                  "coords": [
+                        107.965281,
+                        21.533804
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-14",
     coords: [107.97, 21.52],
@@ -435,7 +2100,88 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "lao-cai-cities-v2",
+    id: "lao-cai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "Ein Museum in Lào Cai, das die lokale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
+                  "text": "Ein Denkmal in Lào Cai zu Ehren der gefallenen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "Lào Cai történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
+                  "text": "A háborús hősök emlékére emelt emlékmű Lào Cai városában.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "Un muzeu din Lào Cai care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Đài Tưởng Niệm Liệt Sỹ Lào Cai",
+                  "text": "Un monument în Lào Cai dedicat memoriei soldaților căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng Lào Cai",
+                  "text": "A museum in Lào Cai showcasing local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        103.962958,
+                        22.489586
+                  ]
+            },
+            {
+                  "name": "Lao Cai Martyrs Memorial",
+                  "text": "A memorial in Lào Cai honoring fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        103.96846,
+                        22.491593
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-02",
     coords: [103.96, 22.48],
@@ -531,7 +2277,124 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "son-la-cities-v2",
+    id: "son-la-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Di tích Nhà tù Sơn La",
+                  "text": "Ein Museum, das in einem ehemaligen Gefängnis in Sơn La untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        103.907908,
+                        21.331064
+                  ]
+            },
+            {
+                  "name": "Văn Bia Quế Lâm ngự chế",
+                  "text": "Ein historisches Denkmal und eine Gedenkstätte in Sơn La.",
+                  "category": "historical",
+                  "coords": [
+                        103.909909,
+                        21.347175
+                  ]
+            },
+            {
+                  "name": "Nghĩa trang Liệt sỹ Nhà Tù Sơn La",
+                  "text": "Ein Friedhof und Denkmal für die Märtyrer des Gefängnisses von Sơn La.",
+                  "category": "historical",
+                  "coords": [
+                        103.906416,
+                        21.330748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Di tích Nhà tù Sơn La",
+                  "text": "Múzeum, amely egy egykori börtön épületében található Sơn Lában.",
+                  "category": "museum",
+                  "coords": [
+                        103.907908,
+                        21.331064
+                  ]
+            },
+            {
+                  "name": "Văn Bia Quế Lâm ngự chế",
+                  "text": "Történelmi emlékmű és emlékhely Sơn Lában.",
+                  "category": "historical",
+                  "coords": [
+                        103.909909,
+                        21.347175
+                  ]
+            },
+            {
+                  "name": "Nghĩa trang Liệt sỹ Nhà Tù Sơn La",
+                  "text": "A Sơn La-i börtön mártírjainak temetője és emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        103.906416,
+                        21.330748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Di tích Nhà tù Sơn La",
+                  "text": "Un muzeu situat într-o fostă închisoare din Sơn La.",
+                  "category": "museum",
+                  "coords": [
+                        103.907908,
+                        21.331064
+                  ]
+            },
+            {
+                  "name": "Văn Bia Quế Lâm ngự chế",
+                  "text": "Un monument istoric și loc memorial în Sơn La.",
+                  "category": "historical",
+                  "coords": [
+                        103.909909,
+                        21.347175
+                  ]
+            },
+            {
+                  "name": "Nghĩa trang Liệt sỹ Nhà Tù Sơn La",
+                  "text": "Un cimitir și monument dedicat martirilor închisorii din Sơn La.",
+                  "category": "historical",
+                  "coords": [
+                        103.906416,
+                        21.330748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Di tích Nhà tù Sơn La",
+                  "text": "A museum housed in a former prison in Sơn La.",
+                  "category": "museum",
+                  "coords": [
+                        103.907908,
+                        21.331064
+                  ]
+            },
+            {
+                  "name": "Văn Bia Quế Lâm ngự chế",
+                  "text": "A historic monument and memorial site in Sơn La.",
+                  "category": "historical",
+                  "coords": [
+                        103.909909,
+                        21.347175
+                  ]
+            },
+            {
+                  "name": "Nghĩa trang Liệt sỹ Nhà Tù Sơn La",
+                  "text": "A cemetery and monument dedicated to the martyrs of the Sơn La prison.",
+                  "category": "historical",
+                  "coords": [
+                        103.906416,
+                        21.330748
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-05",
     coords: [103.92, 21.33],
@@ -579,7 +2442,196 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "ben-tre-cities-v2",
+    id: "ben-tre-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "nhà cổ bên kia cầu",
+                  "text": "Ein historisches Haus in Bến Tre, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        106.370783,
+                        10.234146
+                  ]
+            },
+            {
+                  "name": "Phường 8 Thành phố Bến Tre",
+                  "text": "Eine kulturelle Einrichtung oder ein Museum im Bezirk 8 von Bến Tre.",
+                  "category": "museum",
+                  "coords": [
+                        106.387027,
+                        10.23595
+                  ]
+            },
+            {
+                  "name": "PPC hall",
+                  "text": "Ein historisches Bauwerk im Stil einer Burg in Bến Tre.",
+                  "category": "castle",
+                  "coords": [
+                        106.373315,
+                        10.235574
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh",
+                  "text": "Das Provinzmuseum von Bến Tre zeigt regionale Exponate.",
+                  "category": "museum",
+                  "coords": [
+                        106.374226,
+                        10.23506
+                  ]
+            },
+            {
+                  "name": "Công Viên Nước TTC",
+                  "text": "Ein moderner Wasserpark in Bến Tre für Freizeitaktivitäten.",
+                  "category": "recreational",
+                  "coords": [
+                        106.39798,
+                        10.236267
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "nhà cổ bên kia cầu",
+                  "text": "Történelmi ház Bến Tre városában, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        106.370783,
+                        10.234146
+                  ]
+            },
+            {
+                  "name": "Phường 8 Thành phố Bến Tre",
+                  "text": "Kulturális intézmény vagy múzeum Bến Tre 8. kerületében.",
+                  "category": "museum",
+                  "coords": [
+                        106.387027,
+                        10.23595
+                  ]
+            },
+            {
+                  "name": "PPC hall",
+                  "text": "Történelmi, kastélyszerű épület Bến Tre városában.",
+                  "category": "castle",
+                  "coords": [
+                        106.373315,
+                        10.235574
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh",
+                  "text": "Bến Tre tartományi múzeuma regionális kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        106.374226,
+                        10.23506
+                  ]
+            },
+            {
+                  "name": "Công Viên Nước TTC",
+                  "text": "Modern vízi park Bến Tre városában szabadidős tevékenységekhez.",
+                  "category": "recreational",
+                  "coords": [
+                        106.39798,
+                        10.236267
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "nhà cổ bên kia cầu",
+                  "text": "O casă istorică din Bến Tre, care servește astăzi drept muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        106.370783,
+                        10.234146
+                  ]
+            },
+            {
+                  "name": "Phường 8 Thành phố Bến Tre",
+                  "text": "O instituție culturală sau muzeu în sectorul 8 din Bến Tre.",
+                  "category": "museum",
+                  "coords": [
+                        106.387027,
+                        10.23595
+                  ]
+            },
+            {
+                  "name": "PPC hall",
+                  "text": "O construcție istorică în stil de castel din Bến Tre.",
+                  "category": "castle",
+                  "coords": [
+                        106.373315,
+                        10.235574
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh",
+                  "text": "Muzeul provincial din Bến Tre, cu exponate regionale.",
+                  "category": "museum",
+                  "coords": [
+                        106.374226,
+                        10.23506
+                  ]
+            },
+            {
+                  "name": "Công Viên Nước TTC",
+                  "text": "Un parc acvatic modern în Bến Tre pentru activități recreative.",
+                  "category": "recreational",
+                  "coords": [
+                        106.39798,
+                        10.236267
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "nhà cổ bên kia cầu",
+                  "text": "A historic house in Bến Tre that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        106.370783,
+                        10.234146
+                  ]
+            },
+            {
+                  "name": "Phường 8 Thành phố Bến Tre",
+                  "text": "A cultural institution or museum located in Ward 8 of Bến Tre.",
+                  "category": "museum",
+                  "coords": [
+                        106.387027,
+                        10.23595
+                  ]
+            },
+            {
+                  "name": "PPC hall",
+                  "text": "A historic castle-like building located in Bến Tre.",
+                  "category": "castle",
+                  "coords": [
+                        106.373315,
+                        10.235574
+                  ]
+            },
+            {
+                  "name": "Bảo tàng tỉnh",
+                  "text": "The provincial museum of Bến Tre featuring regional exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        106.374226,
+                        10.23506
+                  ]
+            },
+            {
+                  "name": "Công Viên Nước TTC",
+                  "text": "A modern water park in Bến Tre for recreational activities.",
+                  "category": "recreational",
+                  "coords": [
+                        106.39798,
+                        10.236267
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-50",
     coords: [106.38, 10.24],
@@ -675,7 +2727,232 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "vinh-long-cities-v2",
+    id: "vinh-long-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nhà",
+                  "text": "Ein Theater und kultureller Veranstaltungsort in Vĩnh Long.",
+                  "category": "cultural",
+                  "coords": [
+                        105.964784,
+                        10.254175
+                  ]
+            },
+            {
+                  "name": "Di tích Khám lớn Vĩnh Long",
+                  "text": "Museum in Vĩnh Long, das sich in einem ehemaligen Gefängnis befindet.",
+                  "category": "museum",
+                  "coords": [
+                        105.972037,
+                        10.25693
+                  ]
+            },
+            {
+                  "name": "Văn Thánh Miếu Vĩnh Long",
+                  "text": "Ein Tempelkomplex in Vĩnh Long, der dem Konfuzianismus gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        105.985027,
+                        10.242889
+                  ]
+            },
+            {
+                  "name": "Khu Du Lịch Vinh Sang",
+                  "text": "Ein beliebtes Ausflugsziel mit Natur und Unterhaltung in Vĩnh Long.",
+                  "category": "landmark",
+                  "coords": [
+                        105.953657,
+                        10.270408
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Mậu Thân",
+                  "text": "Ein Denkmal in Vĩnh Long, das an ein historisches Ereignis erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        105.964475,
+                        10.234002
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Chánh toà Giáo phận Vĩnh Long",
+                  "text": "Die bedeutende katholische Kathedrale der Diözese Vĩnh Long.",
+                  "category": "religious",
+                  "coords": [
+                        105.963905,
+                        10.252924
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhà",
+                  "text": "Színház és kulturális helyszín Vĩnh Longban.",
+                  "category": "cultural",
+                  "coords": [
+                        105.964784,
+                        10.254175
+                  ]
+            },
+            {
+                  "name": "Di tích Khám lớn Vĩnh Long",
+                  "text": "Múzeum Vĩnh Longban, amely egy egykori börtönben található.",
+                  "category": "museum",
+                  "coords": [
+                        105.972037,
+                        10.25693
+                  ]
+            },
+            {
+                  "name": "Văn Thánh Miếu Vĩnh Long",
+                  "text": "Konfuciusznak szentelt templomkomplexum Vĩnh Longban.",
+                  "category": "landmark",
+                  "coords": [
+                        105.985027,
+                        10.242889
+                  ]
+            },
+            {
+                  "name": "Khu Du Lịch Vinh Sang",
+                  "text": "Népszerű kirándulóhely természettel és szórakozási lehetőségekkel Vĩnh Longban.",
+                  "category": "landmark",
+                  "coords": [
+                        105.953657,
+                        10.270408
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Mậu Thân",
+                  "text": "Egy történelmi eseményre emlékező emlékmű Vĩnh Longban.",
+                  "category": "historical",
+                  "coords": [
+                        105.964475,
+                        10.234002
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Chánh toà Giáo phận Vĩnh Long",
+                  "text": "A Vĩnh Long-i egyházmegye jelentős katolikus székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        105.963905,
+                        10.252924
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhà",
+                  "text": "Un teatru și loc de desfășurare a evenimentelor culturale în Vĩnh Long.",
+                  "category": "cultural",
+                  "coords": [
+                        105.964784,
+                        10.254175
+                  ]
+            },
+            {
+                  "name": "Di tích Khám lớn Vĩnh Long",
+                  "text": "Muzeu din Vĩnh Long, situat într-o fostă închisoare.",
+                  "category": "museum",
+                  "coords": [
+                        105.972037,
+                        10.25693
+                  ]
+            },
+            {
+                  "name": "Văn Thánh Miếu Vĩnh Long",
+                  "text": "Un complex de temple în Vĩnh Long dedicat confucianismului.",
+                  "category": "landmark",
+                  "coords": [
+                        105.985027,
+                        10.242889
+                  ]
+            },
+            {
+                  "name": "Khu Du Lịch Vinh Sang",
+                  "text": "O destinație turistică populară cu natură și divertisment în Vĩnh Long.",
+                  "category": "landmark",
+                  "coords": [
+                        105.953657,
+                        10.270408
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Mậu Thân",
+                  "text": "Un monument din Vĩnh Long care comemorează un eveniment istoric.",
+                  "category": "historical",
+                  "coords": [
+                        105.964475,
+                        10.234002
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Chánh toà Giáo phận Vĩnh Long",
+                  "text": "Catedrala catolică principală a Diecezei de Vĩnh Long.",
+                  "category": "religious",
+                  "coords": [
+                        105.963905,
+                        10.252924
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "nha",
+                  "text": "A theatre and cultural venue in Vĩnh Long.",
+                  "category": "cultural",
+                  "coords": [
+                        105.964784,
+                        10.254175
+                  ]
+            },
+            {
+                  "name": "Di tích Khám lớn Vĩnh Long",
+                  "text": "Museum in Vĩnh Long located in a former prison.",
+                  "category": "museum",
+                  "coords": [
+                        105.972037,
+                        10.25693
+                  ]
+            },
+            {
+                  "name": "Văn Thánh Miếu Vĩnh Long",
+                  "text": "A temple complex in Vĩnh Long dedicated to Confucianism.",
+                  "category": "landmark",
+                  "coords": [
+                        105.985027,
+                        10.242889
+                  ]
+            },
+            {
+                  "name": "Khu Du Lịch Vinh Sang",
+                  "text": "A popular tourist destination with nature and entertainment in Vĩnh Long.",
+                  "category": "landmark",
+                  "coords": [
+                        105.953657,
+                        10.270408
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Mậu Thân",
+                  "text": "A monument in Vĩnh Long commemorating a historical event.",
+                  "category": "historical",
+                  "coords": [
+                        105.964475,
+                        10.234002
+                  ]
+            },
+            {
+                  "name": "Nhà thờ Chánh toà Giáo phận Vĩnh Long",
+                  "text": "The principal Catholic cathedral of the Diocese of Vĩnh Long.",
+                  "category": "religious",
+                  "coords": [
+                        105.963905,
+                        10.252924
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-49",
     coords: [105.97, 10.25],
@@ -723,7 +3000,52 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "cao-lanh-cities-v2",
+    id: "cao-lanh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Bảo tàng Đồng Tháp",
+                  "text": "Ein Museum in Cao Lãnh, das der Geschichte der Provinz Đồng Tháp gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        105.632563,
+                        10.453
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bảo tàng Đồng Tháp",
+                  "text": "Cao Lãnh városában található múzeum, amely Đồng Tháp tartomány történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        105.632563,
+                        10.453
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bảo tàng Đồng Tháp",
+                  "text": "Un muzeu din Cao Lãnh dedicat istoriei provinciei Đồng Tháp.",
+                  "category": "museum",
+                  "coords": [
+                        105.632563,
+                        10.453
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bảo tàng Đồng Tháp",
+                  "text": "A museum in Cao Lãnh dedicated to the history of Đồng Tháp province.",
+                  "category": "museum",
+                  "coords": [
+                        105.632563,
+                        10.453
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-45",
     coords: [105.63, 10.46],
@@ -819,7 +3141,304 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "ha-tien-cities-v2",
+    id: "ha-tien-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Phù Dung cổ tự",
+                  "text": "Ein historischer Tempelkomplex und eine bedeutende religiöse Stätte in Hà Tiên.",
+                  "category": "museum",
+                  "coords": [
+                        104.482774,
+                        10.388533
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Đà佛陀寺",
+                  "text": "Eine buddhistische Tempelanlage in Hà Tiên, die zur Einkehr einlädt.",
+                  "category": "museum",
+                  "coords": [
+                        104.48359,
+                        10.386779
+                  ]
+            },
+            {
+                  "name": "Tháp 7 tầng",
+                  "text": "Ein markantes siebenstöckiges Bauwerk in Hà Tiên.",
+                  "category": "museum",
+                  "coords": [
+                        104.480559,
+                        10.387975
+                  ]
+            },
+            {
+                  "name": "Chùa mộ bà cô",
+                  "text": "Eine religiöse Stätte in Hà Tiên, die dem Gedenken gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        104.479698,
+                        10.38567
+                  ]
+            },
+            {
+                  "name": "NƠI AN NGHỈ  BÀ PHỐI SƯ CAO KIM ĐƠN",
+                  "text": "Eine bedeutende historische Grabstätte in Hà Tiên.",
+                  "category": "castle",
+                  "coords": [
+                        104.49719,
+                        10.377498
+                  ]
+            },
+            {
+                  "name": "Lăng Mạc Cửu忠义祠",
+                  "text": "Eine monumentale Gedenkstätte zu Ehren von Mạc Cửu in Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.48316,
+                        10.385254
+                  ]
+            },
+            {
+                  "name": "Trân Vǎn Án",
+                  "text": "Ein Denkmal zu Ehren einer bedeutenden Persönlichkeit in Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.489365,
+                        10.376156
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Eine Buddha-Statue, die als religiöses Denkmal in Hà Tiên dient.",
+                  "category": "historical",
+                  "coords": [
+                        104.486857,
+                        10.385346
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phù Dung cổ tự",
+                  "text": "Történelmi templomkomplexum és jelentős vallási helyszín Hà Tiênben.",
+                  "category": "museum",
+                  "coords": [
+                        104.482774,
+                        10.388533
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Đà佛陀寺",
+                  "text": "Buddhista templom Hà Tiênben, amely elcsendesedésre hív.",
+                  "category": "museum",
+                  "coords": [
+                        104.48359,
+                        10.386779
+                  ]
+            },
+            {
+                  "name": "Tháp 7 tầng",
+                  "text": "Jellegzetes hétszintes építmény Hà Tiênben.",
+                  "category": "museum",
+                  "coords": [
+                        104.480559,
+                        10.387975
+                  ]
+            },
+            {
+                  "name": "Chùa mộ bà cô",
+                  "text": "Emlékhely és vallási helyszín Hà Tiênben.",
+                  "category": "museum",
+                  "coords": [
+                        104.479698,
+                        10.38567
+                  ]
+            },
+            {
+                  "name": "NƠI AN NGHỈ  BÀ PHỐI SƯ CAO KIM ĐƠN",
+                  "text": "Jelentős történelmi nyughely Hà Tiênben.",
+                  "category": "castle",
+                  "coords": [
+                        104.49719,
+                        10.377498
+                  ]
+            },
+            {
+                  "name": "Lăng Mạc Cửu忠义祠",
+                  "text": "Monumentális emlékhely Mạc Cửu tiszteletére Hà Tiênben.",
+                  "category": "historical",
+                  "coords": [
+                        104.48316,
+                        10.385254
+                  ]
+            },
+            {
+                  "name": "Trân Vǎn Án",
+                  "text": "Egy jelentős személyiség tiszteletére emelt emlékmű Hà Tiênben.",
+                  "category": "historical",
+                  "coords": [
+                        104.489365,
+                        10.376156
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "Vallási emlékműként szolgáló Buddha-szobor Hà Tiênben.",
+                  "category": "historical",
+                  "coords": [
+                        104.486857,
+                        10.385346
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phù Dung cổ tự",
+                  "text": "Un complex istoric de temple și un sit religios important în Hà Tiên.",
+                  "category": "museum",
+                  "coords": [
+                        104.482774,
+                        10.388533
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Đà佛陀寺",
+                  "text": "Un templu budist în Hà Tiên, care invită la meditație.",
+                  "category": "museum",
+                  "coords": [
+                        104.48359,
+                        10.386779
+                  ]
+            },
+            {
+                  "name": "Tháp 7 tầng",
+                  "text": "O structură distinctivă cu șapte etaje în Hà Tiên.",
+                  "category": "museum",
+                  "coords": [
+                        104.480559,
+                        10.387975
+                  ]
+            },
+            {
+                  "name": "Chùa mộ bà cô",
+                  "text": "Un sit religios în Hà Tiên dedicat memoriei.",
+                  "category": "museum",
+                  "coords": [
+                        104.479698,
+                        10.38567
+                  ]
+            },
+            {
+                  "name": "NƠI AN NGHỈ  BÀ PHỐI SƯ CAO KIM ĐƠN",
+                  "text": "Un loc de odihnă istoric important în Hà Tiên.",
+                  "category": "castle",
+                  "coords": [
+                        104.49719,
+                        10.377498
+                  ]
+            },
+            {
+                  "name": "Lăng Mạc Cửu忠义祠",
+                  "text": "Un memorial monumental în cinstea lui Mạc Cửu în Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.48316,
+                        10.385254
+                  ]
+            },
+            {
+                  "name": "Trân Vǎn Án",
+                  "text": "Un monument ridicat în cinstea unei personalități importante din Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.489365,
+                        10.376156
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "O statuie a lui Buddha care servește ca monument religios în Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.486857,
+                        10.385346
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phù Dung cổ tự",
+                  "text": "A historic temple complex and significant religious site in Hà Tiên.",
+                  "category": "museum",
+                  "coords": [
+                        104.482774,
+                        10.388533
+                  ]
+            },
+            {
+                  "name": "Chùa Phật Đà佛陀寺",
+                  "text": "A Buddhist temple in Hà Tiên that invites contemplation.",
+                  "category": "museum",
+                  "coords": [
+                        104.48359,
+                        10.386779
+                  ]
+            },
+            {
+                  "name": "Tháp 7 tầng",
+                  "text": "A distinctive seven-story structure in Hà Tiên.",
+                  "category": "museum",
+                  "coords": [
+                        104.480559,
+                        10.387975
+                  ]
+            },
+            {
+                  "name": "Chùa mộ bà cô",
+                  "text": "A religious site in Hà Tiên dedicated to memory.",
+                  "category": "museum",
+                  "coords": [
+                        104.479698,
+                        10.38567
+                  ]
+            },
+            {
+                  "name": "MASTER's RESTING PLACE CAO KIM DON",
+                  "text": "A significant historic resting place in Hà Tiên.",
+                  "category": "castle",
+                  "coords": [
+                        104.49719,
+                        10.377498
+                  ]
+            },
+            {
+                  "name": "Lăng Mạc Cửu忠义祠",
+                  "text": "A monumental memorial honoring Mạc Cửu in Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.48316,
+                        10.385254
+                  ]
+            },
+            {
+                  "name": "Trân Vǎn Án",
+                  "text": "A monument honoring a significant person in Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.489365,
+                        10.376156
+                  ]
+            },
+            {
+                  "name": "Buddha",
+                  "text": "A Buddha statue serving as a religious monument in Hà Tiên.",
+                  "category": "historical",
+                  "coords": [
+                        104.486857,
+                        10.385346
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-47",
     coords: [104.49, 10.38],
@@ -867,7 +3486,88 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "bac-lieu-cities-v2",
+    id: "bac-lieu-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nhà hát Cao Văn Lầu",
+                  "text": "Ein markantes Theater in Bạc Liêu, bekannt für seine moderne Architektur.",
+                  "category": "cultural",
+                  "coords": [
+                        105.726104,
+                        9.294075
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Bạc Liêu",
+                  "text": "Ein Denkmal in Bạc Liêu zur Erinnerung an historische Siege.",
+                  "category": "historical",
+                  "coords": [
+                        105.719933,
+                        9.312482
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhà hát Cao Văn Lầu",
+                  "text": "Jellegzetes színház Bạc Liêu-ban, amely egyedi modern építészetéről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        105.726104,
+                        9.294075
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Bạc Liêu",
+                  "text": "Történelmi győzelmek emlékére állított emlékmű Bạc Liêu-ban.",
+                  "category": "historical",
+                  "coords": [
+                        105.719933,
+                        9.312482
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhà hát Cao Văn Lầu",
+                  "text": "Un teatru distinctiv în Bạc Liêu, cunoscut pentru arhitectura sa modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        105.726104,
+                        9.294075
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Bạc Liêu",
+                  "text": "Un monument în Bạc Liêu care comemorează victorii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        105.719933,
+                        9.312482
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nhà hát Cao Văn Lầu",
+                  "text": "A distinctive theatre in Bạc Liêu, known for its unique modern architecture.",
+                  "category": "cultural",
+                  "coords": [
+                        105.726104,
+                        9.294075
+                  ]
+            },
+            {
+                  "name": "Tượng đài Chiến thắng Bạc Liêu",
+                  "text": "A monument in Bạc Liêu commemorating historical victories.",
+                  "category": "historical",
+                  "coords": [
+                        105.719933,
+                        9.312482
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-55",
     coords: [105.73, 9.29],
@@ -963,7 +3663,88 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "gia-nghia-cities-v2",
+    id: "gia-nghia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nhà truyền thống LLVT tỉnh Đăk Nông",
+                  "text": "Ein Museum in Gia Nghĩa, das die Traditionen der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        107.70236,
+                        11.997272
+                  ]
+            },
+            {
+                  "name": "Tổ quốc ghi công",
+                  "text": "Ein Denkmal in Gia Nghĩa, das dem Vaterland und seinen Helden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        107.676551,
+                        12.002879
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nhà truyền thống LLVT tỉnh Đăk Nông",
+                  "text": "Gia Nghĩa-i múzeum, amely a régió hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        107.70236,
+                        11.997272
+                  ]
+            },
+            {
+                  "name": "Tổ quốc ghi công",
+                  "text": "A hazának és hőseinek szentelt emlékmű Gia Nghĩában.",
+                  "category": "historical",
+                  "coords": [
+                        107.676551,
+                        12.002879
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nhà truyền thống LLVT tỉnh Đăk Nông",
+                  "text": "Un muzeu din Gia Nghĩa care prezintă tradițiile regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        107.70236,
+                        11.997272
+                  ]
+            },
+            {
+                  "name": "Tổ quốc ghi công",
+                  "text": "Un monument din Gia Nghĩa dedicat patriei și eroilor săi.",
+                  "category": "historical",
+                  "coords": [
+                        107.676551,
+                        12.002879
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nhà truyền thống LLVT tỉnh Đăk Nông",
+                  "text": "A museum in Gia Nghĩa showcasing the traditions of the region.",
+                  "category": "museum",
+                  "coords": [
+                        107.70236,
+                        11.997272
+                  ]
+            },
+            {
+                  "name": "Tổ quốc ghi công",
+                  "text": "A monument in Gia Nghĩa dedicated to the fatherland and its heroes.",
+                  "category": "historical",
+                  "coords": [
+                        107.676551,
+                        12.002879
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-72",
     coords: [107.69, 12.01],
@@ -1011,7 +3792,52 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "bao-loc-cities-v2",
+    id: "bao-loc-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "điểm 1",
+                  "text": "Ein Veranstaltungsort für Theateraufführungen in Bảo Lộc.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "điểm 1",
+                  "text": "Színházi előadások helyszíne Bảo Lộc városában.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "điểm 1",
+                  "text": "O locație pentru spectacole de teatru în Bảo Lộc.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "điểm 1",
+                  "text": "A venue for theatrical performances located in Bảo Lộc.",
+                  "category": "cultural",
+                  "coords": [
+                        107.805016,
+                        11.543639
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-35",
     coords: [107.80, 11.54],
@@ -1059,7 +3885,52 @@ export const poiExtraVietnamCitiesV2: POI[] = [
     },
   },
   {
-    id: "dong-xoai-cities-v2",
+    id: "dong-xoai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tượng đài Chiến thắng",
+                  "text": "Tượng đài Chiến thắng ist ein Denkmal in Đồng Xoài.",
+                  "category": "historical",
+                  "coords": [
+                        106.896076,
+                        11.537317
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tượng đài Chiến thắng",
+                  "text": "A Tượng đài Chiến thắng egy emlékmű Đồng Xoài városában.",
+                  "category": "historical",
+                  "coords": [
+                        106.896076,
+                        11.537317
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tượng đài Chiến thắng",
+                  "text": "Tượng đài Chiến thắng este un monument comemorativ situat în Đồng Xoài.",
+                  "category": "historical",
+                  "coords": [
+                        106.896076,
+                        11.537317
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tượng đài Chiến thắng",
+                  "text": "Tượng đài Chiến thắng is a memorial monument located in Đồng Xoài.",
+                  "category": "historical",
+                  "coords": [
+                        106.896076,
+                        11.537317
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "VN-58",
     coords: [106.92, 11.53],

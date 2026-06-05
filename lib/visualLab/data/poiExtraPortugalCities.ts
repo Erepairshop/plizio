@@ -3,7 +3,1744 @@ import type { POI } from "./poi";
 
 export const poiExtraPortugalCities: POI[] = [
   {
-    id: "city-lisbon",
+    id: "city-lisbon", "sights": {
+      "de": [
+            {
+                  "name": "Museu Geológico",
+                  "text": "Ein Museum in Lissabon mit umfangreichen geologischen und archäologischen Sammlungen.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149755,
+                        38.713107
+                  ]
+            },
+            {
+                  "name": "Museu da Marioneta",
+                  "text": "Ein Museum in Lissabon, das der Geschichte und Kunst des Puppenspiels gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.155793,
+                        38.708004
+                  ]
+            },
+            {
+                  "name": "Museu do Aljube - Resistência e Liberdade",
+                  "text": "Ein Museum in einem ehemaligen Gefängnis, das an den Widerstand gegen die Diktatur erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.132553,
+                        38.71018
+                  ]
+            },
+            {
+                  "name": "Museu Maçónico Português",
+                  "text": "Ein Museum in Lissabon, das die Geschichte der Freimaurerei in Portugal dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -9.144723,
+                        38.713192
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico do Carmo",
+                  "text": "Ein archäologisches Museum in den Ruinen des beim Erdbeben von 1755 zerstörten Carmo-Konvents.",
+                  "category": "museum",
+                  "coords": [
+                        -9.140586,
+                        38.712006
+                  ]
+            },
+            {
+                  "name": "Museu Nacional do Desporto",
+                  "text": "Portugals Nationalmuseum, das der Geschichte des Sports gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.142174,
+                        38.715562
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Mestre João da Silva",
+                  "text": "Ein Hausmuseum in Lissabon, das dem Werk des Bildhauers João da Silva gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.154515,
+                        38.718288
+                  ]
+            },
+            {
+                  "name": "Casa Fernando Pessoa",
+                  "text": "Das ehemalige Wohnhaus des berühmten Dichters Fernando Pessoa, heute ein Kulturzentrum.",
+                  "category": "museum",
+                  "coords": [
+                        -9.162451,
+                        38.716645
+                  ]
+            },
+            {
+                  "name": "Apothekenmuseum",
+                  "text": "Ein Museum in Lissabon, das die Geschichte der Pharmazie und Medizin zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.147247,
+                        38.710068
+                  ]
+            },
+            {
+                  "name": "Museu das Comunicações",
+                  "text": "Ein Museum in Lissabon, das sich mit der Geschichte der Post und Telekommunikation befasst.",
+                  "category": "museum",
+                  "coords": [
+                        -9.150365,
+                        38.707825
+                  ]
+            },
+            {
+                  "name": "Museu Medeiros e Almeida",
+                  "text": "Ein Museum in einem prachtvollen Herrenhaus mit einer bedeutenden privaten Kunstsammlung.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149145,
+                        38.72168
+                  ]
+            },
+            {
+                  "name": "Casa do Alentejo",
+                  "text": "Ein ehemaliger Adelspalast in Lissabon, bekannt für seine prächtige Innenausstattung im maurischen Stil.",
+                  "category": "castle",
+                  "coords": [
+                        -9.139859,
+                        38.715933
+                  ]
+            },
+            {
+                  "name": "Museum für Moderne Kunst",
+                  "text": "Das Nationalmuseum für zeitgenössische Kunst im Chiado-Viertel von Lissabon.",
+                  "category": "museum",
+                  "coords": [
+                        -9.141107,
+                        38.708871
+                  ]
+            },
+            {
+                  "name": "Palácio Quintela",
+                  "text": "Ein historischer Palast in Lissabon, der heute als Kultur- und Gastronomieraum genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142915,
+                        38.70967
+                  ]
+            },
+            {
+                  "name": "Muralha Fernandina",
+                  "text": "Überreste der mittelalterlichen Stadtmauer von Lissabon aus dem 14. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        -9.142589,
+                        38.711427
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Apolónia",
+                  "text": "Historische Überreste einer alten Festungsanlage in Lissabon.",
+                  "category": "historical",
+                  "coords": [
+                        -9.116769,
+                        38.723527
+                  ]
+            },
+            {
+                  "name": "Galerias Romanas",
+                  "text": "Unterirdische römische Gänge unter der Rua da Prata, die nur selten geöffnet sind.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136666,
+                        38.709746
+                  ]
+            },
+            {
+                  "name": "Arco do Triunfo da Rua Augusta",
+                  "text": "Ein monumentaler Triumphbogen, der den Zugang vom Tejo zum Praça do Comércio bildet.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136817,
+                        38.708438
+                  ]
+            },
+            {
+                  "name": "Arco do Rosário",
+                  "text": "Ein historisches Stadttor in Lissabon, Teil der ehemaligen Stadtbefestigung.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.129365,
+                        38.710062
+                  ]
+            },
+            {
+                  "name": "Teatro Maria Matos",
+                  "text": "Ein städtisches Theater in Lissabon mit einem vielfältigen Programm für zeitgenössische Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.138526,
+                        38.745956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional Dona Maria II",
+                  "text": "Das prachtvolle Nationaltheater Portugals am Rossio-Platz in Lissabon.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.139771,
+                        38.714779
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "Ein bekanntes Theater in Lissabon, berühmt für seine Musicalaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.141059,
+                        38.716527
+                  ]
+            },
+            {
+                  "name": "Dominikanerkirche",
+                  "text": "Eine historische Kirche, deren Innenraum noch Spuren großer Brände und Erdbeben zeigt.",
+                  "category": "religious",
+                  "coords": [
+                        -9.138234,
+                        38.714637
+                  ]
+            },
+            {
+                  "name": "Igreja da Madalena",
+                  "text": "Die Igreja da Madalena ist eine bedeutende Kirche im historischen Zentrum von Lissabon.",
+                  "category": "religious",
+                  "coords": [
+                        -9.13482,
+                        38.710107
+                  ]
+            },
+            {
+                  "name": "Igreja da Conceição Velha",
+                  "text": "Diese Kirche in Lissabon ist bekannt für ihre prachtvolle manuelinische Fassade.",
+                  "category": "religious",
+                  "coords": [
+                        -9.134196,
+                        38.70889
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora dos Mártires",
+                  "text": "Eine historische Basilika im Stadtteil Chiado, die an die Rückeroberung Lissabons erinnert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.141383,
+                        38.710337
+                  ]
+            },
+            {
+                  "name": "Tipuana",
+                  "text": "Ein markanter Baum oder eine botanische Sehenswürdigkeit in Lissabon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.154559,
+                        38.706899
+                  ]
+            },
+            {
+                  "name": "Panteão Nacional",
+                  "text": "Das Nationaldenkmal in der ehemaligen Kirche Santa Engrácia beherbergt Gräber berühmter Portugiesen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.124683,
+                        38.714978
+                  ]
+            },
+            {
+                  "name": "Reservatório da Mãe d'Água das Amoreiras",
+                  "text": "Ein historisches Wasserreservoir und Teil des Aqueduto das Águas Livres in Lissabon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155687,
+                        38.721266
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António de Lisboa",
+                  "text": "Diese Kirche wurde an der Geburtsstätte des Heiligen Antonius von Lissabon errichtet.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.133663,
+                        38.709975
+                  ]
+            },
+            {
+                  "name": "Basílica da Estrela",
+                  "text": "Eine monumentale Basilika mit einer markanten Kuppel im Stadtviertel Estrela.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.160553,
+                        38.713174
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Catarina",
+                  "text": "Eine barocke Kirche in Lissabon, bekannt für ihre prachtvolle Innenausstattung.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148317,
+                        38.711444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Lisboa",
+                  "text": "Ein historischer Pranger auf dem Praça do Município, der die städtische Gerichtsbarkeit symbolisiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.139196,
+                        38.708036
+                  ]
+            },
+            {
+                  "name": "Mercado da Ribeira",
+                  "text": "Die Haupthalle der Stadt mit einem großen Lebensmittelmarkt und einem Gastronomiebereich.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.145693,
+                        38.707061
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Pedro de Alcântara",
+                  "text": "Ein beliebter Aussichtspunkt mit Panoramablick über das Zentrum von Lissabon und die Burg.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144048,
+                        38.715437
+                  ]
+            },
+            {
+                  "name": "Miradouro do Torel",
+                  "text": "Ein ruhiger Aussichtspunkt in einer Gartenanlage mit Blick auf die Avenida da Liberdade.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14141,
+                        38.718738
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "Ein malerischer Aussichtspunkt in Alfama mit Blick auf den Tejo und typischen Azulejos.",
+                  "category": "natural",
+                  "coords": [
+                        -9.130216,
+                        38.711741
+                  ]
+            },
+            {
+                  "name": "Jardim Alfredo Keil",
+                  "text": "Ein kleiner, ruhiger Park am Praça da Alegria in Lissabon.",
+                  "category": "park",
+                  "coords": [
+                        -9.145285,
+                        38.717861
+                  ]
+            },
+            {
+                  "name": "Jardim Sá da Bandeira",
+                  "text": "Eine Grünanlage in Lissabon, die nach einem portugiesischen Staatsmann benannt ist.",
+                  "category": "park",
+                  "coords": [
+                        -9.146732,
+                        38.707068
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten von Lissabon",
+                  "text": "Ein wissenschaftlicher Garten mit einer großen Vielfalt an exotischen Pflanzenarten.",
+                  "category": "park",
+                  "coords": [
+                        -9.148894,
+                        38.718513
+                  ]
+            },
+            {
+                  "name": "Jardim Cesário Verde",
+                  "text": "Ein kleiner Stadtpark in Lissabon, benannt nach dem Dichter Cesário Verde.",
+                  "category": "park",
+                  "coords": [
+                        -9.140751,
+                        38.732616
+                  ]
+            },
+            {
+                  "name": "Figueira-da-Austrália",
+                  "text": "Ein monumentaler australischer Feigenbaum, der als Naturdenkmal in Lissabon gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148909,
+                        38.716679
+                  ]
+            },
+            {
+                  "name": "Bela-sombra",
+                  "text": "Ein großer, schattenspendender Baum der Art Phytolacca dioica in Lissabon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.129373,
+                        38.725883
+                  ]
+            },
+            {
+                  "name": "Museu Arpad Szenes - Vieira da Silva",
+                  "text": "Ein Museum, das dem Werk des Künstlerpaares Arpad Szenes und Maria Helena Vieira da Silva gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15577,
+                        38.722237
+                  ]
+            },
+            {
+                  "name": "Museu João de Deus",
+                  "text": "Ein Museum in Lissabon, das dem Leben und Werk des Dichters und Pädagogen João de Deus gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.1583,
+                        38.715848
+                  ]
+            },
+            {
+                  "name": "Casa Ásia – Coleção Francisco Capelo",
+                  "text": "Ein Museum, das eine bedeutende Sammlung asiatischer Kunst in Lissabon beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        -9.14376,
+                        38.713175
+                  ]
+            },
+            {
+                  "name": "Palacete Nunes Correia",
+                  "text": "Ein historisches Herrenhaus in Lissabon mit architektonischer Bedeutung.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142364,
+                        38.717399
+                  ]
+            },
+            {
+                  "name": "Palacete Alenquer",
+                  "text": "Ein kleines Palais in Lissabon, das durch seine charakteristische Bauweise auffällt.",
+                  "category": "castle",
+                  "coords": [
+                        -9.148003,
+                        38.715842
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Geológico",
+                  "text": "Lisszaboni múzeum gazdag földtani és régészeti gyűjteménnyel.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149755,
+                        38.713107
+                  ]
+            },
+            {
+                  "name": "Museu da Marioneta",
+                  "text": "Lisszaboni múzeum, amely a bábművészet történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.155793,
+                        38.708004
+                  ]
+            },
+            {
+                  "name": "Museu do Aljube - Resistência e Liberdade",
+                  "text": "Egykori börtönben kialakított múzeum, amely a diktatúra elleni ellenállásnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        -9.132553,
+                        38.71018
+                  ]
+            },
+            {
+                  "name": "Museu Maçónico Português",
+                  "text": "Lisszaboni múzeum, amely a portugál szabadkőművesség történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -9.144723,
+                        38.713192
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico do Carmo",
+                  "text": "Régészeti múzeum az 1755-ös földrengésben romba dőlt Carmo-kolostor falai között.",
+                  "category": "museum",
+                  "coords": [
+                        -9.140586,
+                        38.712006
+                  ]
+            },
+            {
+                  "name": "Museu Nacional do Desporto",
+                  "text": "Portugália nemzeti sportmúzeuma, amely a sport történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.142174,
+                        38.715562
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Mestre João da Silva",
+                  "text": "Emlékmúzeum Lisszabonban João da Silva szobrászművész munkásságának.",
+                  "category": "museum",
+                  "coords": [
+                        -9.154515,
+                        38.718288
+                  ]
+            },
+            {
+                  "name": "Casa Fernando Pessoa",
+                  "text": "Fernando Pessoa híres költő egykori lakóháza, ma kulturális központ.",
+                  "category": "museum",
+                  "coords": [
+                        -9.162451,
+                        38.716645
+                  ]
+            },
+            {
+                  "name": "Museu da Farmácia Lisboa",
+                  "text": "Lisszaboni múzeum, amely a gyógyszerészet és az orvostudomány történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.147247,
+                        38.710068
+                  ]
+            },
+            {
+                  "name": "Museu das Comunicações",
+                  "text": "Lisszaboni múzeum, amely a posta és a távközlés történetével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        -9.150365,
+                        38.707825
+                  ]
+            },
+            {
+                  "name": "Museu Medeiros e Almeida",
+                  "text": "Múzeum egy pompás úriházban, amely jelentős magán művészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149145,
+                        38.72168
+                  ]
+            },
+            {
+                  "name": "Casa do Alentejo",
+                  "text": "Egykori nemesi palota Lisszabonban, amely pazar mór stílusú belső teréről nevezetes.",
+                  "category": "castle",
+                  "coords": [
+                        -9.139859,
+                        38.715933
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Arte Contemporânea - Museu do Chiado",
+                  "text": "Lisszabon Chiado negyedében található nemzeti kortárs művészeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -9.141107,
+                        38.708871
+                  ]
+            },
+            {
+                  "name": "Palácio Quintela",
+                  "text": "Történelmi palota Lisszabonban, amely ma kulturális és gasztronómiai helyszín.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142915,
+                        38.70967
+                  ]
+            },
+            {
+                  "name": "Muralha Fernandina",
+                  "text": "Lisszabon 14. századi középkori városfalának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -9.142589,
+                        38.711427
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Apolónia",
+                  "text": "Egy régi erődítmény történelmi maradványai Lisszabonban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.116769,
+                        38.723527
+                  ]
+            },
+            {
+                  "name": "Galerias Romanas",
+                  "text": "A Rua da Prata alatti földalatti római járatok, amelyek csak ritkán látogathatók.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136666,
+                        38.709746
+                  ]
+            },
+            {
+                  "name": "Arco do Triunfo da Rua Augusta",
+                  "text": "Monumentális diadalív, amely a Tejo felől nyit utat a Praça do Comércio felé.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136817,
+                        38.708438
+                  ]
+            },
+            {
+                  "name": "Arco do Rosário",
+                  "text": "Történelmi városkapu Lisszabonban, az egykori erődrendszer része.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.129365,
+                        38.710062
+                  ]
+            },
+            {
+                  "name": "Teatro Maria Matos",
+                  "text": "Lisszaboni városi színház változatos kortárs művészeti programokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.138526,
+                        38.745956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional Dona Maria II",
+                  "text": "Portugália impozáns nemzeti színháza Lisszabonban, a Rossio téren.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.139771,
+                        38.714779
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "Népszerű lisszaboni színház, amely zenés darabjairól és musicaljeiről híres.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.141059,
+                        38.716527
+                  ]
+            },
+            {
+                  "name": "Igreja de São Domingos",
+                  "text": "Történelmi templom, amelynek belseje máig őrzi nagy tüzek és földrengések nyomait.",
+                  "category": "religious",
+                  "coords": [
+                        -9.138234,
+                        38.714637
+                  ]
+            },
+            {
+                  "name": "Igreja da Madalena",
+                  "text": "Az Igreja da Madalena egy jelentős templom Lisszabon történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -9.13482,
+                        38.710107
+                  ]
+            },
+            {
+                  "name": "Igreja da Conceição Velha",
+                  "text": "Ez a lisszaboni templom a pompás manuéli stílusú homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.134196,
+                        38.70889
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora dos Mártires",
+                  "text": "Történelmi bazilika a Chiado negyedben, amely Lisszabon visszavételére emlékeztet.",
+                  "category": "religious",
+                  "coords": [
+                        -9.141383,
+                        38.710337
+                  ]
+            },
+            {
+                  "name": "Tipuana",
+                  "text": "Egy jellegzetes fa vagy botanikai látnivaló Lisszabonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.154559,
+                        38.706899
+                  ]
+            },
+            {
+                  "name": "Panteão Nacional",
+                  "text": "A nemzeti panteon a korábbi Santa Engrácia-templomban híres portugál személyiségek sírhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.124683,
+                        38.714978
+                  ]
+            },
+            {
+                  "name": "Reservatório da Mãe d'Água das Amoreiras",
+                  "text": "Történelmi víztározó, amely a lisszaboni Águas Livres akvadukt része.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155687,
+                        38.721266
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António de Lisboa",
+                  "text": "Ez a templom Páduai Szent Antal szülőhelyén épült Lisszabonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.133663,
+                        38.709975
+                  ]
+            },
+            {
+                  "name": "Basílica da Estrela",
+                  "text": "Monumentális bazilika jellegzetes kupolával az Estrela negyedben.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.160553,
+                        38.713174
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Catarina",
+                  "text": "Barokk templom Lisszabonban, amely pazar belső díszítéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148317,
+                        38.711444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Lisboa",
+                  "text": "Történelmi szégyenoszlop a Praça do Município téren, amely a városi igazságszolgáltatást jelképezi.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.139196,
+                        38.708036
+                  ]
+            },
+            {
+                  "name": "Mercado da Ribeira",
+                  "text": "A város fő piaccsarnoka, amely nagy élelmiszerpiacnak és étkezőknek ad otthont.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.145693,
+                        38.707061
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Pedro de Alcântara",
+                  "text": "Népszerű kilátó panorámás kilátással Lisszabon központjára és a várra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144048,
+                        38.715437
+                  ]
+            },
+            {
+                  "name": "Miradouro do Torel",
+                  "text": "Nyugodt kilátó egy kertben, kilátással az Avenida da Liberdade sugárútra.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14141,
+                        38.718738
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "Festői kilátó az Alfama negyedben, kilátással a Tajo folyóra és jellegzetes azulejo csempékkel.",
+                  "category": "natural",
+                  "coords": [
+                        -9.130216,
+                        38.711741
+                  ]
+            },
+            {
+                  "name": "Jardim Alfredo Keil",
+                  "text": "Egy kicsi, csendes park a lisszaboni Praça da Alegria téren.",
+                  "category": "park",
+                  "coords": [
+                        -9.145285,
+                        38.717861
+                  ]
+            },
+            {
+                  "name": "Jardim Sá da Bandeira",
+                  "text": "Egy lisszaboni zöldterület, amelyet egy portugál államférfiról neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        -9.146732,
+                        38.707068
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico de Lisboa",
+                  "text": "Tudományos kert egzotikus növényfajok nagy választékával.",
+                  "category": "park",
+                  "coords": [
+                        -9.148894,
+                        38.718513
+                  ]
+            },
+            {
+                  "name": "Jardim Cesário Verde",
+                  "text": "Kicsi városi park Lisszabonban, Cesário Verde költőről elnevezve.",
+                  "category": "park",
+                  "coords": [
+                        -9.140751,
+                        38.732616
+                  ]
+            },
+            {
+                  "name": "Figueira-da-Austrália",
+                  "text": "Egy monumentális ausztrál fügefa, amely természeti emlékként ismert Lisszabonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148909,
+                        38.716679
+                  ]
+            },
+            {
+                  "name": "Bela-sombra",
+                  "text": "Egy nagy, árnyékot adó Phytolacca dioica fafajta Lisszabonban.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.129373,
+                        38.725883
+                  ]
+            },
+            {
+                  "name": "Museu Arpad Szenes - Vieira da Silva",
+                  "text": "Arpad Szenes és Maria Helena Vieira da Silva művészpáros munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15577,
+                        38.722237
+                  ]
+            },
+            {
+                  "name": "Museu João de Deus",
+                  "text": "Lisszaboni múzeum, amely João de Deus költő és pedagógus életének és munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -9.1583,
+                        38.715848
+                  ]
+            },
+            {
+                  "name": "Casa Ásia – Coleção Francisco Capelo",
+                  "text": "Múzeum, amely jelentős ázsiai művészeti gyűjteménynek ad otthont Lisszabonban.",
+                  "category": "museum",
+                  "coords": [
+                        -9.14376,
+                        38.713175
+                  ]
+            },
+            {
+                  "name": "Palacete Nunes Correia",
+                  "text": "Történelmi udvarház Lisszabonban, amely építészeti jelentőséggel bír.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142364,
+                        38.717399
+                  ]
+            },
+            {
+                  "name": "Palacete Alenquer",
+                  "text": "Egy kis palota Lisszabonban, amely jellegzetes építésmódjával tűnik ki.",
+                  "category": "castle",
+                  "coords": [
+                        -9.148003,
+                        38.715842
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Geológico",
+                  "text": "Un muzeu din Lisabona cu colecții bogate de geologie și arheologie.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149755,
+                        38.713107
+                  ]
+            },
+            {
+                  "name": "Museu da Marioneta",
+                  "text": "Un muzeu din Lisabona dedicat istoriei și artei marionetelor.",
+                  "category": "museum",
+                  "coords": [
+                        -9.155793,
+                        38.708004
+                  ]
+            },
+            {
+                  "name": "Museu do Aljube - Resistência e Liberdade",
+                  "text": "Un muzeu într-o fostă închisoare, dedicat rezistenței împotriva dictaturii.",
+                  "category": "museum",
+                  "coords": [
+                        -9.132553,
+                        38.71018
+                  ]
+            },
+            {
+                  "name": "Museu Maçónico Português",
+                  "text": "Un muzeu din Lisabona care documentează istoria masoneriei în Portugalia.",
+                  "category": "museum",
+                  "coords": [
+                        -9.144723,
+                        38.713192
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico do Carmo",
+                  "text": "Un muzeu arheologic situat în ruinele mănăstirii Carmo, distrusă de cutremurul din 1755.",
+                  "category": "museum",
+                  "coords": [
+                        -9.140586,
+                        38.712006
+                  ]
+            },
+            {
+                  "name": "Museu Nacional do Desporto",
+                  "text": "Muzeul național al Portugaliei dedicat istoriei sportului.",
+                  "category": "museum",
+                  "coords": [
+                        -9.142174,
+                        38.715562
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Mestre João da Silva",
+                  "text": "O casă-muzeu din Lisabona dedicată operei sculptorului João da Silva.",
+                  "category": "museum",
+                  "coords": [
+                        -9.154515,
+                        38.718288
+                  ]
+            },
+            {
+                  "name": "Casa Fernando Pessoa",
+                  "text": "Fosta locuință a celebrului poet Fernando Pessoa, astăzi un centru cultural.",
+                  "category": "museum",
+                  "coords": [
+                        -9.162451,
+                        38.716645
+                  ]
+            },
+            {
+                  "name": "Museu da Farmácia Lisboa",
+                  "text": "Un muzeu din Lisabona care prezintă istoria farmaciei și a medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        -9.147247,
+                        38.710068
+                  ]
+            },
+            {
+                  "name": "Museu das Comunicações",
+                  "text": "Un muzeu din Lisabona dedicat istoriei poștei și a telecomunicațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        -9.150365,
+                        38.707825
+                  ]
+            },
+            {
+                  "name": "Museu Medeiros e Almeida",
+                  "text": "Un muzeu într-un conac splendid ce găzduiește o colecție privată de artă importantă.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149145,
+                        38.72168
+                  ]
+            },
+            {
+                  "name": "Casa do Alentejo",
+                  "text": "Un fost palat nobiliar din Lisabona, cunoscut pentru interiorul său splendid în stil maur.",
+                  "category": "castle",
+                  "coords": [
+                        -9.139859,
+                        38.715933
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Arte Contemporânea - Museu do Chiado",
+                  "text": "Muzeul național de artă contemporană situat în cartierul Chiado din Lisabona.",
+                  "category": "museum",
+                  "coords": [
+                        -9.141107,
+                        38.708871
+                  ]
+            },
+            {
+                  "name": "Palácio Quintela",
+                  "text": "Un palat istoric din Lisabona, utilizat astăzi ca spațiu cultural și gastronomic.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142915,
+                        38.70967
+                  ]
+            },
+            {
+                  "name": "Muralha Fernandina",
+                  "text": "Vestigii ale zidului medieval al orașului Lisabona, datând din secolul al XIV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -9.142589,
+                        38.711427
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Apolónia",
+                  "text": "Rămășițe istorice ale unei vechi fortificații din Lisabona.",
+                  "category": "historical",
+                  "coords": [
+                        -9.116769,
+                        38.723527
+                  ]
+            },
+            {
+                  "name": "Galerias Romanas",
+                  "text": "Galerii romane subterane sub Rua da Prata, deschise vizitării doar ocazional.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136666,
+                        38.709746
+                  ]
+            },
+            {
+                  "name": "Arco do Triunfo da Rua Augusta",
+                  "text": "Un arc de triumf monumental care marchează intrarea în Praça do Comércio dinspre Tejo.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136817,
+                        38.708438
+                  ]
+            },
+            {
+                  "name": "Arco do Rosário",
+                  "text": "O poartă istorică a orașului Lisabona, parte a vechilor fortificații.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.129365,
+                        38.710062
+                  ]
+            },
+            {
+                  "name": "Teatro Maria Matos",
+                  "text": "Un teatru municipal din Lisabona cu un program divers de artă contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.138526,
+                        38.745956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional Dona Maria II",
+                  "text": "Impozantul teatru național al Portugaliei situat în Piața Rossio din Lisabona.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.139771,
+                        38.714779
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "Un teatru cunoscut din Lisabona, faimos pentru spectacolele sale muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.141059,
+                        38.716527
+                  ]
+            },
+            {
+                  "name": "Igreja de São Domingos",
+                  "text": "O biserică istorică al cărei interior poartă încă urmele marilor incendii și cutremure.",
+                  "category": "religious",
+                  "coords": [
+                        -9.138234,
+                        38.714637
+                  ]
+            },
+            {
+                  "name": "Igreja da Madalena",
+                  "text": "Igreja da Madalena este o biserică importantă situată în centrul istoric al Lisabonei.",
+                  "category": "religious",
+                  "coords": [
+                        -9.13482,
+                        38.710107
+                  ]
+            },
+            {
+                  "name": "Igreja da Conceição Velha",
+                  "text": "Această biserică din Lisabona este cunoscută pentru fațada sa splendidă în stil manuelin.",
+                  "category": "religious",
+                  "coords": [
+                        -9.134196,
+                        38.70889
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora dos Mártires",
+                  "text": "O bazilică istorică în cartierul Chiado, care comemorează recucerirea Lisabonei.",
+                  "category": "religious",
+                  "coords": [
+                        -9.141383,
+                        38.710337
+                  ]
+            },
+            {
+                  "name": "Tipuana",
+                  "text": "Un arbore distinctiv sau o atracție botanică în Lisabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.154559,
+                        38.706899
+                  ]
+            },
+            {
+                  "name": "Panteão Nacional",
+                  "text": "Panteonul Național, situat în fosta biserică Santa Engrácia, adăpostește mormintele unor personalități portugheze.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.124683,
+                        38.714978
+                  ]
+            },
+            {
+                  "name": "Reservatório da Mãe d'Água das Amoreiras",
+                  "text": "Un rezervor istoric de apă, parte a apeductului Águas Livres din Lisabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155687,
+                        38.721266
+                  ]
+            },
+            {
+                  "name": "Igreja de Santo António de Lisboa",
+                  "text": "Această biserică a fost construită pe locul unde s-a născut Sfântul Anton de Lisabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.133663,
+                        38.709975
+                  ]
+            },
+            {
+                  "name": "Basílica da Estrela",
+                  "text": "O bazilică monumentală cu o cupolă distinctivă în cartierul Estrela.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.160553,
+                        38.713174
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Catarina",
+                  "text": "O biserică barocă din Lisabona, cunoscută pentru interiorul său bogat decorat.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148317,
+                        38.711444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Lisboa",
+                  "text": "Un stâlp al infamiei istoric în Praça do Município, simbolizând jurisdicția municipală.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.139196,
+                        38.708036
+                  ]
+            },
+            {
+                  "name": "Mercado da Ribeira",
+                  "text": "Principala piață a orașului, care găzduiește o piață alimentară mare și o zonă gastronomică.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.145693,
+                        38.707061
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Pedro de Alcântara",
+                  "text": "Un punct de belvedere popular, cu vedere panoramică asupra centrului Lisabonei și a castelului.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144048,
+                        38.715437
+                  ]
+            },
+            {
+                  "name": "Miradouro do Torel",
+                  "text": "Un punct de belvedere liniștit situat într-o grădină, cu vedere spre Avenida da Liberdade.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14141,
+                        38.718738
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "Un punct de belvedere pitoresc în Alfama, cu vedere spre fluviul Tajo și plăcuțe de azulejos tipice.",
+                  "category": "natural",
+                  "coords": [
+                        -9.130216,
+                        38.711741
+                  ]
+            },
+            {
+                  "name": "Jardim Alfredo Keil",
+                  "text": "Un parc mic și liniștit situat în Praça da Alegria din Lisabona.",
+                  "category": "park",
+                  "coords": [
+                        -9.145285,
+                        38.717861
+                  ]
+            },
+            {
+                  "name": "Jardim Sá da Bandeira",
+                  "text": "Un spațiu verde din Lisabona, numit după un om de stat portughez.",
+                  "category": "park",
+                  "coords": [
+                        -9.146732,
+                        38.707068
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico de Lisboa",
+                  "text": "O grădină științifică cu o mare varietate de specii de plante exotice.",
+                  "category": "park",
+                  "coords": [
+                        -9.148894,
+                        38.718513
+                  ]
+            },
+            {
+                  "name": "Jardim Cesário Verde",
+                  "text": "Un mic parc urban din Lisabona, numit după poetul Cesário Verde.",
+                  "category": "park",
+                  "coords": [
+                        -9.140751,
+                        38.732616
+                  ]
+            },
+            {
+                  "name": "Figueira-da-Austrália",
+                  "text": "Un smochin australian monumental, considerat monument natural în Lisabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148909,
+                        38.716679
+                  ]
+            },
+            {
+                  "name": "Bela-sombra",
+                  "text": "Un arbore mare care oferă umbră, din specia Phytolacca dioica, în Lisabona.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.129373,
+                        38.725883
+                  ]
+            },
+            {
+                  "name": "Museu Arpad Szenes - Vieira da Silva",
+                  "text": "Un muzeu dedicat operei cuplului de artiști Arpad Szenes și Maria Helena Vieira da Silva.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15577,
+                        38.722237
+                  ]
+            },
+            {
+                  "name": "Museu João de Deus",
+                  "text": "Un muzeu din Lisabona dedicat vieții și operei poetului și pedagogului João de Deus.",
+                  "category": "museum",
+                  "coords": [
+                        -9.1583,
+                        38.715848
+                  ]
+            },
+            {
+                  "name": "Casa Ásia – Coleção Francisco Capelo",
+                  "text": "Un muzeu care găzduiește o colecție importantă de artă asiatică în Lisabona.",
+                  "category": "museum",
+                  "coords": [
+                        -9.14376,
+                        38.713175
+                  ]
+            },
+            {
+                  "name": "Palacete Nunes Correia",
+                  "text": "Un conac istoric din Lisabona cu importanță arhitecturală.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142364,
+                        38.717399
+                  ]
+            },
+            {
+                  "name": "Palacete Alenquer",
+                  "text": "Un mic palat din Lisabona care se remarcă prin stilul său arhitectural caracteristic.",
+                  "category": "castle",
+                  "coords": [
+                        -9.148003,
+                        38.715842
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Geológico",
+                  "text": "A museum in Lisbon with extensive geological and archaeological collections.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149755,
+                        38.713107
+                  ]
+            },
+            {
+                  "name": "Museu da Marioneta",
+                  "text": "A museum in Lisbon dedicated to the history and art of puppetry.",
+                  "category": "museum",
+                  "coords": [
+                        -9.155793,
+                        38.708004
+                  ]
+            },
+            {
+                  "name": "Museu do Aljube - Resistência e Liberdade",
+                  "text": "A museum in a former prison dedicated to the resistance against the dictatorship.",
+                  "category": "museum",
+                  "coords": [
+                        -9.132553,
+                        38.71018
+                  ]
+            },
+            {
+                  "name": "Museu Maçónico Português",
+                  "text": "A museum in Lisbon documenting the history of Freemasonry in Portugal.",
+                  "category": "museum",
+                  "coords": [
+                        -9.144723,
+                        38.713192
+                  ]
+            },
+            {
+                  "name": "Museu Arqueológico do Carmo",
+                  "text": "An archaeological museum located in the ruins of the Carmo Convent destroyed in 1755.",
+                  "category": "museum",
+                  "coords": [
+                        -9.140586,
+                        38.712006
+                  ]
+            },
+            {
+                  "name": "Museu Nacional do Desporto",
+                  "text": "Portugal's national museum dedicated to the history of sports.",
+                  "category": "museum",
+                  "coords": [
+                        -9.142174,
+                        38.715562
+                  ]
+            },
+            {
+                  "name": "Casa-Museu Mestre João da Silva",
+                  "text": "A house-museum in Lisbon dedicated to the work of the sculptor João da Silva.",
+                  "category": "museum",
+                  "coords": [
+                        -9.154515,
+                        38.718288
+                  ]
+            },
+            {
+                  "name": "Casa Fernando Pessoa",
+                  "text": "The former home of the famous poet Fernando Pessoa, now a cultural center.",
+                  "category": "museum",
+                  "coords": [
+                        -9.162451,
+                        38.716645
+                  ]
+            },
+            {
+                  "name": "Museu da Farmácia Lisboa",
+                  "text": "A museum in Lisbon showcasing the history of pharmacy and medicine.",
+                  "category": "museum",
+                  "coords": [
+                        -9.147247,
+                        38.710068
+                  ]
+            },
+            {
+                  "name": "Museu das Comunicações",
+                  "text": "A museum in Lisbon focusing on the history of post and telecommunications.",
+                  "category": "museum",
+                  "coords": [
+                        -9.150365,
+                        38.707825
+                  ]
+            },
+            {
+                  "name": "Museu Medeiros e Almeida",
+                  "text": "A museum in a grand mansion housing a significant private art collection.",
+                  "category": "museum",
+                  "coords": [
+                        -9.149145,
+                        38.72168
+                  ]
+            },
+            {
+                  "name": "Casa do Alentejo",
+                  "text": "A former noble palace in Lisbon, famous for its grand Moorish-style interior.",
+                  "category": "castle",
+                  "coords": [
+                        -9.139859,
+                        38.715933
+                  ]
+            },
+            {
+                  "name": "Museu Nacional de Arte Contemporânea - Museu do Chiado",
+                  "text": "The national museum of contemporary art located in the Chiado district of Lisbon.",
+                  "category": "museum",
+                  "coords": [
+                        -9.141107,
+                        38.708871
+                  ]
+            },
+            {
+                  "name": "Palácio Quintela",
+                  "text": "A historical palace in Lisbon, now used as a cultural and gastronomic space.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142915,
+                        38.70967
+                  ]
+            },
+            {
+                  "name": "Muralha Fernandina",
+                  "text": "Remnants of Lisbon's 14th-century medieval city walls.",
+                  "category": "historical",
+                  "coords": [
+                        -9.142589,
+                        38.711427
+                  ]
+            },
+            {
+                  "name": "Forte de Santa Apolónia",
+                  "text": "Historical remnants of an old fortification in Lisbon.",
+                  "category": "historical",
+                  "coords": [
+                        -9.116769,
+                        38.723527
+                  ]
+            },
+            {
+                  "name": "Galerias Romanas",
+                  "text": "Underground Roman passages beneath Rua da Prata, opened only occasionally for visitors.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136666,
+                        38.709746
+                  ]
+            },
+            {
+                  "name": "Rua Augusta Arch",
+                  "text": "A monumental triumphal arch providing entry to Praça do Comércio from the Tagus river.",
+                  "category": "historical",
+                  "coords": [
+                        -9.136817,
+                        38.708438
+                  ]
+            },
+            {
+                  "name": "Arco do Rosário",
+                  "text": "A historical city gate in Lisbon, part of the former city fortifications.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.129365,
+                        38.710062
+                  ]
+            },
+            {
+                  "name": "Teatro Maria Matos",
+                  "text": "A municipal theater in Lisbon with a diverse program of contemporary arts.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.138526,
+                        38.745956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional Dona Maria II",
+                  "text": "The grand national theater of Portugal located in Rossio Square, Lisbon.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.139771,
+                        38.714779
+                  ]
+            },
+            {
+                  "name": "Teatro Politeama",
+                  "text": "A well-known theater in Lisbon, famous for its musical productions.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.141059,
+                        38.716527
+                  ]
+            },
+            {
+                  "name": "Igreja de São Domingos",
+                  "text": "A historic church whose interior still bears the marks of major fires and earthquakes.",
+                  "category": "religious",
+                  "coords": [
+                        -9.138234,
+                        38.714637
+                  ]
+            },
+            {
+                  "name": "Igreja da Madalena",
+                  "text": "The Igreja da Madalena is a significant church located in the historic center of Lisbon.",
+                  "category": "religious",
+                  "coords": [
+                        -9.13482,
+                        38.710107
+                  ]
+            },
+            {
+                  "name": "Igreja da Conceição Velha",
+                  "text": "This church in Lisbon is well-known for its magnificent Manueline facade.",
+                  "category": "religious",
+                  "coords": [
+                        -9.134196,
+                        38.70889
+                  ]
+            },
+            {
+                  "name": "Basilica of Our Lady of the Martyrs",
+                  "text": "A historic basilica in the Chiado district, commemorating the reconquest of Lisbon.",
+                  "category": "religious",
+                  "coords": [
+                        -9.141383,
+                        38.710337
+                  ]
+            },
+            {
+                  "name": "Tipuana",
+                  "text": "A distinctive tree or botanical attraction in Lisbon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.154559,
+                        38.706899
+                  ]
+            },
+            {
+                  "name": "Panteão Nacional",
+                  "text": "The National Pantheon, housed in the former Church of Santa Engrácia, holds the tombs of famous Portuguese personalities.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.124683,
+                        38.714978
+                  ]
+            },
+            {
+                  "name": "Reservatório da Mãe d'Água das Amoreiras",
+                  "text": "A historic water reservoir and part of the Águas Livres Aqueduct in Lisbon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.155687,
+                        38.721266
+                  ]
+            },
+            {
+                  "name": "Saint Anthony's Church",
+                  "text": "This church was built on the birthplace of Saint Anthony of Lisbon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.133663,
+                        38.709975
+                  ]
+            },
+            {
+                  "name": "Estrela Basilica of the Sacred Heart",
+                  "text": "A monumental basilica with a distinctive dome in the Estrela district.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.160553,
+                        38.713174
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Catarina",
+                  "text": "A Baroque church in Lisbon, known for its lavish interior decoration.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148317,
+                        38.711444
+                  ]
+            },
+            {
+                  "name": "Pelourinho de Lisboa",
+                  "text": "A historic pillory in Praça do Município, symbolizing municipal jurisdiction.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.139196,
+                        38.708036
+                  ]
+            },
+            {
+                  "name": "Mercado da Ribeira",
+                  "text": "The city's main market hall, home to a large food market and a gastronomic area.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.145693,
+                        38.707061
+                  ]
+            },
+            {
+                  "name": "Miradouro de São Pedro de Alcântara",
+                  "text": "A popular viewpoint offering panoramic views over central Lisbon and the castle.",
+                  "category": "natural",
+                  "coords": [
+                        -9.144048,
+                        38.715437
+                  ]
+            },
+            {
+                  "name": "Miradouro do Torel",
+                  "text": "A quiet viewpoint located in a garden, overlooking Avenida da Liberdade.",
+                  "category": "natural",
+                  "coords": [
+                        -9.14141,
+                        38.718738
+                  ]
+            },
+            {
+                  "name": "Miradouro de Santa Luzia",
+                  "text": "A picturesque viewpoint in Alfama with views over the Tagus river and typical azulejo tiles.",
+                  "category": "natural",
+                  "coords": [
+                        -9.130216,
+                        38.711741
+                  ]
+            },
+            {
+                  "name": "Jardim Alfredo Keil",
+                  "text": "A small, quiet park located in Praça da Alegria in Lisbon.",
+                  "category": "park",
+                  "coords": [
+                        -9.145285,
+                        38.717861
+                  ]
+            },
+            {
+                  "name": "Jardim Sá da Bandeira",
+                  "text": "A green space in Lisbon named after a Portuguese statesman.",
+                  "category": "park",
+                  "coords": [
+                        -9.146732,
+                        38.707068
+                  ]
+            },
+            {
+                  "name": "Jardim Botânico de Lisboa",
+                  "text": "A scientific garden featuring a large variety of exotic plant species.",
+                  "category": "park",
+                  "coords": [
+                        -9.148894,
+                        38.718513
+                  ]
+            },
+            {
+                  "name": "Jardim Cesário Verde",
+                  "text": "A small urban park in Lisbon named after the poet Cesário Verde.",
+                  "category": "park",
+                  "coords": [
+                        -9.140751,
+                        38.732616
+                  ]
+            },
+            {
+                  "name": "Figueira-da-Austrália",
+                  "text": "A monumental Australian fig tree, known as a natural monument in Lisbon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.148909,
+                        38.716679
+                  ]
+            },
+            {
+                  "name": "Bela-sombra",
+                  "text": "A large, shade-providing tree of the species Phytolacca dioica in Lisbon.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.129373,
+                        38.725883
+                  ]
+            },
+            {
+                  "name": "Museu Arpad Szenes - Vieira da Silva",
+                  "text": "A museum dedicated to the work of the artist couple Arpad Szenes and Maria Helena Vieira da Silva.",
+                  "category": "museum",
+                  "coords": [
+                        -9.15577,
+                        38.722237
+                  ]
+            },
+            {
+                  "name": "Museu João de Deus",
+                  "text": "A museum in Lisbon dedicated to the life and work of the poet and educator João de Deus.",
+                  "category": "museum",
+                  "coords": [
+                        -9.1583,
+                        38.715848
+                  ]
+            },
+            {
+                  "name": "Casa Ásia – Coleção Francisco Capelo",
+                  "text": "A museum housing a significant collection of Asian art in Lisbon.",
+                  "category": "museum",
+                  "coords": [
+                        -9.14376,
+                        38.713175
+                  ]
+            },
+            {
+                  "name": "Palacete Nunes Correia",
+                  "text": "A historic mansion in Lisbon with architectural significance.",
+                  "category": "castle",
+                  "coords": [
+                        -9.142364,
+                        38.717399
+                  ]
+            },
+            {
+                  "name": "Palacete Alenquer",
+                  "text": "A small palace in Lisbon that stands out for its characteristic architectural style.",
+                  "category": "castle",
+                  "coords": [
+                        -9.148003,
+                        38.715842
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-9.1393, 38.7223],
@@ -55,7 +1792,1672 @@ export const poiExtraPortugalCities: POI[] = [
     image: "/geo-images/portugal/lisbon.webp",
   },
   {
-    id: "city-porto",
+    id: "city-porto", "sights": {
+      "de": [
+            {
+                  "name": "Casa-Museu Marta Ortigão Sampaio",
+                  "text": "Das Casa-Museu Marta Ortigão Sampaio ist ein Museum in Porto, das Kunst und persönliche Sammlungen ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625505,
+                        41.159427
+                  ]
+            },
+            {
+                  "name": "Palácio da Bolsa - Bolsapalast",
+                  "text": "Der Palácio da Bolsa ist ein historisches Gebäude und Museum in Porto, bekannt für seinen reich verzierten Arabischen Saal.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615729,
+                        41.141411
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Numismática",
+                  "text": "Das Museu Municipal de Numismática ist ein Museum in Porto, das sich Münzen und Währungen widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615343,
+                        41.148924
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea de Serralves",
+                  "text": "Das Serralves Museum ist ein Museum für zeitgenössische Kunst in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.659406,
+                        41.159132
+                  ]
+            },
+            {
+                  "name": "Centro Português de Fotografia",
+                  "text": "Das portugiesische Fotografiezentrum ist ein Museum in Porto, das in einem ehemaligen Gefängnisgebäude untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615892,
+                        41.144717
+                  ]
+            },
+            {
+                  "name": "Antigo Local do Castelo de Gaia",
+                  "text": "Antigo Local do Castelo de Gaia ist die historische Stätte einer ehemaligen Burg in der Region Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.624408,
+                        41.139645
+                  ]
+            },
+            {
+                  "name": "Galeria da Biodiversidade",
+                  "text": "Die Galeria da Biodiversidade ist ein Naturkunde- und Wissenschaftsmuseum in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.642456,
+                        41.153623
+                  ]
+            },
+            {
+                  "name": "Casa de Serralves",
+                  "text": "Die Serralves Villa ist ein bedeutendes Art-Déco-Museum und architektonisches Wahrzeichen in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.656338,
+                        41.159606
+                  ]
+            },
+            {
+                  "name": "Casa da Câmara",
+                  "text": "Die Casa da Câmara ist ein historisches Gemeindegebäude und Museum in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.611645,
+                        41.143031
+                  ]
+            },
+            {
+                  "name": "Museu do Vinho do Porto",
+                  "text": "Das Museu do Vinho do Porto ist ein Museum in Porto, das der Geschichte des Portweins gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.6153,
+                        41.14011
+                  ]
+            },
+            {
+                  "name": "Palacete de Belomonte",
+                  "text": "Das Palacete de Belomonte ist ein historisches Palastgebäude und schlossähnliches Wahrzeichen in Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.616207,
+                        41.142515
+                  ]
+            },
+            {
+                  "name": "Palácio de São João Novo",
+                  "text": "Der Palácio de São João Novo ist ein beeindruckender historischer Palast und ein schlossartiges Bauwerk in Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.617734,
+                        41.142514
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes e Comunicações",
+                  "text": "Das Museu dos Transportes e Comunicações ist ein Museum in Porto, das die Geschichte von Verkehr und Kommunikation beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        -8.621009,
+                        41.14262
+                  ]
+            },
+            {
+                  "name": "Arca de Água de Mijavelhas",
+                  "text": "Arca de Água de Mijavelhas ist eine historische Wasserinfrastruktur und eine archäologische Stätte in Porto.",
+                  "category": "historical",
+                  "coords": [
+                        -8.598566,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Arqueossítio da Rua de Dom Hugo",
+                  "text": "Das Arqueossítio da Rua de Dom Hugo ist eine archäologische Stätte in Porto, die Schichten der alten Stadtgeschichte offenbart.",
+                  "category": "historical",
+                  "coords": [
+                        -8.610589,
+                        41.142936
+                  ]
+            },
+            {
+                  "name": "Teatro Sá da Bandeira",
+                  "text": "Das Teatro Sá da Bandeira ist ein bedeutendes historisches Theater in Porto.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.608734,
+                        41.146646
+                  ]
+            },
+            {
+                  "name": "Coliseu do Porto",
+                  "text": "Das Coliseu do Porto ist ein bedeutendes Theater und Konzerthaus in Porto, das für sein Art-Déco-Design bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.605311,
+                        41.147152
+                  ]
+            },
+            {
+                  "name": "Igreja da Serra do Pilar",
+                  "text": "Die Igreja da Serra do Pilar ist eine einzigartige Rundkirche und ein Klosterkomplex mit Blick auf den Fluss Douro in der Nähe von Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.608113,
+                        41.138187
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Die Igreja da Lapa ist eine bemerkenswerte Kirche in Porto, die das Herz von König Peter IV. von Portugal beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        -8.612018,
+                        41.157173
+                  ]
+            },
+            {
+                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
+                  "text": "Die Capela Carlos Alberto ist eine lutherische Kultstätte in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626912,
+                        41.146012
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho de Cedofeita",
+                  "text": "Die Igreja de São Martinho de Cedofeita ist eine alte romanische Kirche in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.621676,
+                        41.155783
+                  ]
+            },
+            {
+                  "name": "Igreja do Corpo Santo de Massarelos",
+                  "text": "Die Igreja do Corpo Santo de Massarelos ist eine Kultstätte und die Pfarrkirche von Massarelos in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630491,
+                        41.145904
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora das Verdades",
+                  "text": "Die Capela de Nossa Senhora das Verdades ist eine historische Kapelle und Kultstätte in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61136,
+                        41.141662
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "Die Igreja da Misericórdia ist eine bedeutende historische Kirche und Kultstätte in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.614697,
+                        41.143564
+                  ]
+            },
+            {
+                  "name": "Igreja e Torre dos Clérigos",
+                  "text": "Die Clérigos-Kirche und ihr Turm sind ein berühmter Barockkomplex und ein ikonisches Symbol von Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61425,
+                        41.145771
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro de Miragaia",
+                  "text": "Die Igreja de São Pedro de Miragaia ist eine traditionelle Kultstätte in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.619684,
+                        41.142887
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Esperança",
+                  "text": "Die Igreja de Nossa Senhora da Esperança ist eine bemerkenswerte historische Kirche und Kultstätte in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.602421,
+                        41.145365
+                  ]
+            },
+            {
+                  "name": "Igreja do Santíssimo Sacramento",
+                  "text": "Die Igreja do Santíssimo Sacramento ist eine Kultstätte der katholischen Gemeinde in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.635737,
+                        41.157971
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "Die Igreja de Nossa Senhora da Conceição ist eine große Kultstätte und Kirche in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.605847,
+                        41.161407
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Die Igreja do Carmo ist eine bekannte Kirche in Porto, berühmt für ihre prächtige Azulejo-Fliesenfassade.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616255,
+                        41.147474
+                  ]
+            },
+            {
+                  "name": "Farol dos Três Bicos",
+                  "text": "Der Farol dos Três Bicos, auch als Farolim das Sobreiras bekannt, ist ein historischer Leuchtturm in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.660315,
+                        41.14821
+                  ]
+            },
+            {
+                  "name": "Barcos Rabelo",
+                  "text": "Rabelo-Boote sind traditionelle portugiesische Holzfrachtschiffe, die jahrhundertelang für den Transport von Portwein in Porto verwendet wurden.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.612381,
+                        41.138265
+                  ]
+            },
+            {
+                  "name": "Livraria Lello & Irmão",
+                  "text": "Die Buchhandlung Lello & Irmão ist eine atemberaubende neugotische Buchhandlung in Porto, bekannt für ihre spektakuläre rote Treppe.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.614849,
+                        41.146832
+                  ]
+            },
+            {
+                  "name": "Funicular dos Guindais",
+                  "text": "Der Funicular dos Guindais ist eine Standseilbahn in Porto, die schnellen Transport und malerische Ausblicke auf die Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609512,
+                        41.140956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional São João",
+                  "text": "Das Teatro Nacional São João ist ein erstklassiges Nationaltheater und eine großartige architektonische Attraktion in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607537,
+                        41.14456
+                  ]
+            },
+            {
+                  "name": "Capela dos Alfaiates",
+                  "text": "Die Capela dos Alfaiates ist eine kleine historische Kapelle und architektonische Attraktion in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607438,
+                        41.143236
+                  ]
+            },
+            {
+                  "name": "Chafariz da Colher",
+                  "text": "Der Chafariz da Colher ist ein historischer Brunnen und eine bemerkenswerte Attraktion in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621606,
+                        41.143716
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Rivoli",
+                  "text": "Das Teatro Municipal Rivoli ist ein bedeutendes städtisches Theater und eine kulturelle Attraktion in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609998,
+                        41.14782
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Die Igreja de Santa Clara ist eine Attraktion in Porto, die für ihr spektakuläres vergoldetes Holzschnitt-Interieur berühmt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609199,
+                        41.142511
+                  ]
+            },
+            {
+                  "name": "Fonte das Virtudes",
+                  "text": "Die Fonte das Virtudes ist ein reich verzierter historischer Brunnen und eine lokale Attraktion in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.618961,
+                        41.144652
+                  ]
+            },
+            {
+                  "name": "Mercado do Bom Sucesso",
+                  "text": "Der Mercado do Bom Sucesso ist ein modernisierter überdachter Marktplatz in Porto mit Lebensmittelständen und Geschäften.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.629054,
+                        41.155817
+                  ]
+            },
+            {
+                  "name": "Jardins do Palácio de Cristal",
+                  "text": "Die Jardins do Palácio de Cristal sind ein landschaftlich gestalteter Garten in Porto, der malerische Ausblicke auf den Fluss Douro bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626508,
+                        41.147032
+                  ]
+            },
+            {
+                  "name": "Jardim da Praça de Mouzinho de Albuquerque",
+                  "text": "Jardim da Praça de Mouzinho de Albuquerque ist ein zentraler Park und Kreisverkehr in Porto, auch bekannt als Rotunda da Boavista.",
+                  "category": "park",
+                  "coords": [
+                        -8.629109,
+                        41.157919
+                  ]
+            },
+            {
+                  "name": "Parque de Serralves",
+                  "text": "Der Serralves-Park ist eine weitläufige Parkanlage in Porto, die das Museum für zeitgenössische Kunst und die Art-Déco-Villa umgibt.",
+                  "category": "park",
+                  "coords": [
+                        -8.6578,
+                        41.157289
+                  ]
+            },
+            {
+                  "name": "Jardim de Arca d'Água",
+                  "text": "Jardim de Arca d'Água ist eine angenehme grüne Parkanlage in Porto.",
+                  "category": "park",
+                  "coords": [
+                        -8.611964,
+                        41.171849
+                  ]
+            },
+            {
+                  "name": "Parque do Covelo",
+                  "text": "Parque do Covelo ist ein bekannter Park in der Stadt Porto.",
+                  "category": "park",
+                  "coords": [
+                        -8.604625,
+                        41.16738
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa-Museu Marta Ortigão Sampaio",
+                  "text": "A Casa-Museu Marta Ortigão Sampaio egy múzeum Portóban, amely művészeti és személyes gyűjteményeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625505,
+                        41.159427
+                  ]
+            },
+            {
+                  "name": "Palácio da Bolsa",
+                  "text": "A Palácio da Bolsa egy történelmi épület és múzeum Portóban, amely a díszes Arab terméről ismert.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615729,
+                        41.141411
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Numismática",
+                  "text": "A Museu Municipal de Numismática egy érméknek és fizetőeszközöknek szentelt múzeum Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615343,
+                        41.148924
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea de Serralves",
+                  "text": "A Serralves Múzeum egy kortárs művészeti múzeum Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.659406,
+                        41.159132
+                  ]
+            },
+            {
+                  "name": "Centro Português de Fotografia",
+                  "text": "A Portugál Fotográfiai Központ egy egykori börtönépületben működő múzeum Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615892,
+                        41.144717
+                  ]
+            },
+            {
+                  "name": "Antigo Local do Castelo de Gaia",
+                  "text": "Az Antigo Local do Castelo de Gaia egy egykori vár történelmi helyszíne Porto területén.",
+                  "category": "castle",
+                  "coords": [
+                        -8.624408,
+                        41.139645
+                  ]
+            },
+            {
+                  "name": "Galeria da Biodiversidade",
+                  "text": "A Galeria da Biodiversidade egy természettudományi és tudományos múzeum Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.642456,
+                        41.153623
+                  ]
+            },
+            {
+                  "name": "Casa de Serralves",
+                  "text": "A Serralves-villa egy jelentős art deco múzeum és építészeti nevezetesség Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.656338,
+                        41.159606
+                  ]
+            },
+            {
+                  "name": "Casa da Câmara",
+                  "text": "A Casa da Câmara egy történelmi önkormányzati épület és múzeum Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.611645,
+                        41.143031
+                  ]
+            },
+            {
+                  "name": "Museu do Vinho do Porto",
+                  "text": "A Museu do Vinho do Porto egy portói bor történetének szentelt múzeum Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.6153,
+                        41.14011
+                  ]
+            },
+            {
+                  "name": "Palacete de Belomonte",
+                  "text": "A Palacete de Belomonte egy történelmi palotaépület, amely kastélyszerű nevezetességként szolgál Portóban.",
+                  "category": "castle",
+                  "coords": [
+                        -8.616207,
+                        41.142515
+                  ]
+            },
+            {
+                  "name": "Palácio de São João Novo",
+                  "text": "A Palácio de São João Novo egy lenyűgöző történelmi palota és kastélyszerű építmény Portóban.",
+                  "category": "castle",
+                  "coords": [
+                        -8.617734,
+                        41.142514
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes e Comunicações",
+                  "text": "A Museu dos Transportes e Comunicações egy közlekedés- és hírkölés-történeti múzeum Portóban.",
+                  "category": "museum",
+                  "coords": [
+                        -8.621009,
+                        41.14262
+                  ]
+            },
+            {
+                  "name": "Arca de Água de Mijavelhas",
+                  "text": "Az Arca de Água de Mijavelhas egy történelmi vízügyi infrastruktúra és régészeti lelőhely Portóban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.598566,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Arqueossítio da Rua de Dom Hugo",
+                  "text": "Az Arqueossítio da Rua de Dom Hugo egy régészeti lelőhely Portóban, amely a város ókori történelmének rétegeit tárja fel.",
+                  "category": "historical",
+                  "coords": [
+                        -8.610589,
+                        41.142936
+                  ]
+            },
+            {
+                  "name": "Teatro Sá da Bandeira",
+                  "text": "A Teatro Sá da Bandeira egy jelentős történelmi színház Portóban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.608734,
+                        41.146646
+                  ]
+            },
+            {
+                  "name": "Coliseu do Porto",
+                  "text": "A Coliseu do Porto egy jelentős színház- és koncertterem Portóban, amely art deco dizájnjáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.605311,
+                        41.147152
+                  ]
+            },
+            {
+                  "name": "Igreja da Serra do Pilar",
+                  "text": "Az Igreja da Serra do Pilar egy egyedülálló, kör alakú templom és kolostoregyüttes a Douro folyó felett, Porto közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.608113,
+                        41.138187
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Az Igreja da Lapa egy jelentős templom Portóban, amely IV. Péter portugál király szívét őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        -8.612018,
+                        41.157173
+                  ]
+            },
+            {
+                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
+                  "text": "A Capela Carlos Alberto egy lutheránus istentiszteleti hely Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626912,
+                        41.146012
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho de Cedofeita",
+                  "text": "Az Igreja de São Martinho de Cedofeita egy ősi román stílusú templom Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.621676,
+                        41.155783
+                  ]
+            },
+            {
+                  "name": "Igreja do Corpo Santo de Massarelos",
+                  "text": "Az Igreja do Corpo Santo de Massarelos egy istentiszteleti hely és Massarelos plébániatemploma Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630491,
+                        41.145904
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora das Verdades",
+                  "text": "A Capela de Nossa Senhora das Verdades egy történelmi kápolna és istentiszteleti hely Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61136,
+                        41.141662
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "Az Igreja da Misericórdia egy jelentős történelmi templom és istentiszteleti hely Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.614697,
+                        41.143564
+                  ]
+            },
+            {
+                  "name": "Igreja e Torre dos Clérigos",
+                  "text": "A Clérigos templom és torony egy híres barokk komplexum és Porto ikonikus szimbóluma.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61425,
+                        41.145771
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro de Miragaia",
+                  "text": "Az Igreja de São Pedro de Miragaia egy hagyományos istentiszteleti hely Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.619684,
+                        41.142887
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Esperança",
+                  "text": "Az Igreja de Nossa Senhora da Esperança egy figyelemre méltó történelmi templom és istentiszteleti hely Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.602421,
+                        41.145365
+                  ]
+            },
+            {
+                  "name": "Igreja do Santíssimo Sacramento",
+                  "text": "Az Igreja do Santíssimo Sacramento a portói katolikus közösséget szolgáló istentiszteleti hely.",
+                  "category": "religious",
+                  "coords": [
+                        -8.635737,
+                        41.157971
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "Az Igreja de Nossa Senhora da Conceição egy hatalmas istentiszteleti hely és templom Portóban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.605847,
+                        41.161407
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Az Igreja do Carmo egy jól ismert templom Portóban, amely lenyűgöző azulejo csempés homlokzatáról híres.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616255,
+                        41.147474
+                  ]
+            },
+            {
+                  "name": "Farol dos Três Bicos",
+                  "text": "A Farol dos Três Bicos, más néven Farolim das Sobreiras egy történelmi világítótorony Portóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.660315,
+                        41.14821
+                  ]
+            },
+            {
+                  "name": "Barcos Rabelo",
+                  "text": "A Rabelo csónakok hagyományos portugál fa teherhajók, amelyeket évszázadokon át portói bor szállítására használtak Portóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.612381,
+                        41.138265
+                  ]
+            },
+            {
+                  "name": "Livraria Lello & Irmão",
+                  "text": "A Lello & Irmão könyvesbolt egy lenyűgöző neogótikus könyvesbolt Portóban, amely látványos piros lépcsőjéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.614849,
+                        41.146832
+                  ]
+            },
+            {
+                  "name": "Funicular dos Guindais",
+                  "text": "A Funicular dos Guindais egy sikló Portóban, amely gyors közlekedést és festői kilátást nyújt a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609512,
+                        41.140956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional São João",
+                  "text": "A Teatro Nacional São João egy kiemelkedő nemzeti színház és nagyszerű építészeti látványosság Portóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607537,
+                        41.14456
+                  ]
+            },
+            {
+                  "name": "Capela dos Alfaiates",
+                  "text": "A Capela dos Alfaiates egy kis történelmi kápolna és építészeti látványosság Portóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607438,
+                        41.143236
+                  ]
+            },
+            {
+                  "name": "Chafariz da Colher",
+                  "text": "A Chafariz da Colher egy történelmi szökőkút és jelentős látványosság Portóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621606,
+                        41.143716
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Rivoli",
+                  "text": "A Teatro Municipal Rivoli egy kiemelkedő városi színház és kulturális látványosság Portóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609998,
+                        41.14782
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Az Igreja de Santa Clara egy látványosság Portóban, amely látványos aranyozott fafaragásos belső teréről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609199,
+                        41.142511
+                  ]
+            },
+            {
+                  "name": "Fonte das Virtudes",
+                  "text": "A Fonte das Virtudes egy gazdagon díszített történelmi szökőkút és helyi látványosság Portóban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.618961,
+                        41.144652
+                  ]
+            },
+            {
+                  "name": "Mercado do Bom Sucesso",
+                  "text": "A Mercado do Bom Sucesso egy modernizált fedett piac Portóban, amely ételstandokat és üzleteket kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.629054,
+                        41.155817
+                  ]
+            },
+            {
+                  "name": "Jardins do Palácio de Cristal",
+                  "text": "A Jardins do Palácio de Cristal egy parkosított kert Portóban, amely festői kilátást nyújt a Douro folyóra.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626508,
+                        41.147032
+                  ]
+            },
+            {
+                  "name": "Jardim da Praça de Mouzinho de Albuquerque",
+                  "text": "A Jardim da Praça de Mouzinho de Albuquerque egy központi park és körforgalom Portóban, más néven Rotunda da Boavista.",
+                  "category": "park",
+                  "coords": [
+                        -8.629109,
+                        41.157919
+                  ]
+            },
+            {
+                  "name": "Parque de Serralves",
+                  "text": "A Serralves-park egy kiterjedt park Portóban a kortárs művészeti múzeum és az art deco villa mellett.",
+                  "category": "park",
+                  "coords": [
+                        -8.6578,
+                        41.157289
+                  ]
+            },
+            {
+                  "name": "Jardim de Arca d'Água",
+                  "text": "A Jardim de Arca d'Água egy kellemes, zöldellő park Portóban.",
+                  "category": "park",
+                  "coords": [
+                        -8.611964,
+                        41.171849
+                  ]
+            },
+            {
+                  "name": "Parque do Covelo",
+                  "text": "A Parque do Covelo egy ismert park Porto városában.",
+                  "category": "park",
+                  "coords": [
+                        -8.604625,
+                        41.16738
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa-Museu Marta Ortigão Sampaio",
+                  "text": "Casa-Museu Marta Ortigão Sampaio este un muzeu din Porto care expune artă și colecții personale.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625505,
+                        41.159427
+                  ]
+            },
+            {
+                  "name": "Palácio da Bolsa",
+                  "text": "Palácio da Bolsa este o clădire istorică și un muzeu în Porto, renumită pentru Sala Arabă bogat ornamentată.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615729,
+                        41.141411
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Numismática",
+                  "text": "Museu Municipal de Numismática este un muzeu din Porto dedicat monedelor și bancnotelor.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615343,
+                        41.148924
+                  ]
+            },
+            {
+                  "name": "Museu de Arte Contemporânea de Serralves",
+                  "text": "Muzeul Serralves este un muzeu de artă contemporană situat în Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.659406,
+                        41.159132
+                  ]
+            },
+            {
+                  "name": "Centro Português de Fotografia",
+                  "text": "Centrul Portughez de Fotografie este un muzeu din Porto, găzduit într-o fostă clădire de închisoare.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615892,
+                        41.144717
+                  ]
+            },
+            {
+                  "name": "Antigo Local do Castelo de Gaia",
+                  "text": "Antigo Local do Castelo de Gaia este situl istoric al unui fost castel din zona Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.624408,
+                        41.139645
+                  ]
+            },
+            {
+                  "name": "Galeria da Biodiversidade",
+                  "text": "Galeria da Biodiversidade este un muzeu de istorie naturală și știință din Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.642456,
+                        41.153623
+                  ]
+            },
+            {
+                  "name": "Casa de Serralves",
+                  "text": "Vila Serralves este un muzeu Art Deco notabil și un reper arhitectural în Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.656338,
+                        41.159606
+                  ]
+            },
+            {
+                  "name": "Casa da Câmara",
+                  "text": "Casa da Câmara este o clădire municipală istorică și un muzeu din Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.611645,
+                        41.143031
+                  ]
+            },
+            {
+                  "name": "Museu do Vinho do Porto",
+                  "text": "Museu do Vinho do Porto este un muzeu din Porto dedicat istoriei vinului de Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.6153,
+                        41.14011
+                  ]
+            },
+            {
+                  "name": "Palacete de Belomonte",
+                  "text": "Palacete de Belomonte este o clădire palat istorică care funcționează ca un reper asemănător unui castel în Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.616207,
+                        41.142515
+                  ]
+            },
+            {
+                  "name": "Palácio de São João Novo",
+                  "text": "Palácio de São João Novo este un palat istoric impresionant și o structură asemănătoare unui castel din Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.617734,
+                        41.142514
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes e Comunicações",
+                  "text": "Museu dos Transportes e Comunicações este un muzeu din Porto care explorează istoria transporturilor și comunicațiilor.",
+                  "category": "museum",
+                  "coords": [
+                        -8.621009,
+                        41.14262
+                  ]
+            },
+            {
+                  "name": "Arca de Água de Mijavelhas",
+                  "text": "Arca de Água de Mijavelhas este o infrastructură istorică de apă și un sit arheologic din Porto.",
+                  "category": "historical",
+                  "coords": [
+                        -8.598566,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Arqueossítio da Rua de Dom Hugo",
+                  "text": "Arqueossítio da Rua de Dom Hugo este un sit arheologic din Porto care dezvăluie straturi ale istoriei antice a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -8.610589,
+                        41.142936
+                  ]
+            },
+            {
+                  "name": "Teatro Sá da Bandeira",
+                  "text": "Teatro Sá da Bandeira este un teatru istoric proeminent situat în Porto.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.608734,
+                        41.146646
+                  ]
+            },
+            {
+                  "name": "Coliseu do Porto",
+                  "text": "Coliseu do Porto este un teatru major și o sală de concerte din Porto, cunoscută pentru designul său Art Deco.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.605311,
+                        41.147152
+                  ]
+            },
+            {
+                  "name": "Igreja da Serra do Pilar",
+                  "text": "Igreja da Serra do Pilar este o biserică circulară unică și un complex de mănăstire cu vedere la râul Douro, lângă Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.608113,
+                        41.138187
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Igreja da Lapa este o biserică notabilă din Porto care adăpostește inima regelui Pedro al IV-lea al Portugaliei.",
+                  "category": "religious",
+                  "coords": [
+                        -8.612018,
+                        41.157173
+                  ]
+            },
+            {
+                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
+                  "text": "Capela Carlos Alberto este un lăcaș de cult luteran situat în Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626912,
+                        41.146012
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho de Cedofeita",
+                  "text": "Igreja de São Martinho de Cedofeita este o veche biserică romanică situată în Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.621676,
+                        41.155783
+                  ]
+            },
+            {
+                  "name": "Igreja do Corpo Santo de Massarelos",
+                  "text": "Igreja do Corpo Santo de Massarelos este un lăcaș de cult și biserica parohială din Massarelos în Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630491,
+                        41.145904
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora das Verdades",
+                  "text": "Capela de Nossa Senhora das Verdades este o capelă istorică și un lăcaș de cult din Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61136,
+                        41.141662
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "Igreja da Misericórdia este o biserică istorică importantă și un lăcaș de cult din Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.614697,
+                        41.143564
+                  ]
+            },
+            {
+                  "name": "Igreja e Torre dos Clérigos",
+                  "text": "Biserica și Turnul Clérigos este un faimos complex baroc și un simbol iconic al orașului Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61425,
+                        41.145771
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro de Miragaia",
+                  "text": "Igreja de São Pedro de Miragaia este un lăcaș de cult tradițional situat în Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.619684,
+                        41.142887
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Esperança",
+                  "text": "Igreja de Nossa Senhora da Esperança este o biserică istorică notabilă și un lăcaș de cult din Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.602421,
+                        41.145365
+                  ]
+            },
+            {
+                  "name": "Igreja do Santíssimo Sacramento",
+                  "text": "Igreja do Santíssimo Sacramento este un lăcaș de cult care deservește comunitatea catolică din Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.635737,
+                        41.157971
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "Igreja de Nossa Senhora da Conceição este un lăcaș de cult impunător și o biserică situată în Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.605847,
+                        41.161407
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Igreja do Carmo este o biserică binecunoscută din Porto, faimoasă pentru fațada sa magnifică din plăci de azulejo.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616255,
+                        41.147474
+                  ]
+            },
+            {
+                  "name": "Farol dos Três Bicos",
+                  "text": "Farol dos Três Bicos, cunoscut și sub numele de Farolim das Sobreiras, este un far istoric din Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.660315,
+                        41.14821
+                  ]
+            },
+            {
+                  "name": "Barcos Rabelo",
+                  "text": "Bărcile Rabelo sunt bărci tradiționale portugheze din lemn pentru marfă, folosite de secole pentru a transporta vin de Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.612381,
+                        41.138265
+                  ]
+            },
+            {
+                  "name": "Livraria Lello & Irmão",
+                  "text": "Librăria Lello & Irmão este o uimitoare librărie neogotică din Porto, cunoscută pentru spectaculoasa sa scară roșie.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.614849,
+                        41.146832
+                  ]
+            },
+            {
+                  "name": "Funicular dos Guindais",
+                  "text": "Funicular dos Guindais este un funicular în Porto, oferind transport rapid și vederi pitorești ale orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609512,
+                        41.140956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional São João",
+                  "text": "Teatro Nacional São João este un teatru național de prim rang și o mare atracție arhitecturală din Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607537,
+                        41.14456
+                  ]
+            },
+            {
+                  "name": "Capela dos Alfaiates",
+                  "text": "Capela dos Alfaiates este o mică capelă istorică și atracție arhitecturală în Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607438,
+                        41.143236
+                  ]
+            },
+            {
+                  "name": "Chafariz da Colher",
+                  "text": "Chafariz da Colher este o fântână istorică și o atracție notabilă situată în Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621606,
+                        41.143716
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Rivoli",
+                  "text": "Teatro Municipal Rivoli este un teatru municipal proeminent și o atracție culturală în Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609998,
+                        41.14782
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Igreja de Santa Clara este o atracție din Porto, renumită pentru interiorul său spectaculos din lemn aurit.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609199,
+                        41.142511
+                  ]
+            },
+            {
+                  "name": "Fonte das Virtudes",
+                  "text": "Fonte das Virtudes este o fântână istorică foarte decorată și o atracție locală din Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.618961,
+                        41.144652
+                  ]
+            },
+            {
+                  "name": "Mercado do Bom Sucesso",
+                  "text": "Mercado do Bom Sucesso este o piață interioară modernizată din Porto, care oferă tarabe cu mâncare și magazine.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.629054,
+                        41.155817
+                  ]
+            },
+            {
+                  "name": "Jardins do Palácio de Cristal",
+                  "text": "Jardins do Palácio de Cristal este o grădină peisagistică de referință din Porto, care oferă vederi pitorești la râul Douro.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626508,
+                        41.147032
+                  ]
+            },
+            {
+                  "name": "Jardim da Praça de Mouzinho de Albuquerque",
+                  "text": "Jardim da Praça de Mouzinho de Albuquerque este un parc central și un sens giratoriu din Porto, cunoscut și sub numele de Rotunda da Boavista.",
+                  "category": "park",
+                  "coords": [
+                        -8.629109,
+                        41.157919
+                  ]
+            },
+            {
+                  "name": "Parque de Serralves",
+                  "text": "Parcul Serralves este un parc întins din Porto care însoțește muzeul de artă contemporană și vila Art Deco.",
+                  "category": "park",
+                  "coords": [
+                        -8.6578,
+                        41.157289
+                  ]
+            },
+            {
+                  "name": "Jardim de Arca d'Água",
+                  "text": "Jardim de Arca d'Água este un parc verde plăcut situat în Porto.",
+                  "category": "park",
+                  "coords": [
+                        -8.611964,
+                        41.171849
+                  ]
+            },
+            {
+                  "name": "Parque do Covelo",
+                  "text": "Parque do Covelo este un parc cunoscut situat în orașul Porto.",
+                  "category": "park",
+                  "coords": [
+                        -8.604625,
+                        41.16738
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa-Museu Marta Ortigão Sampaio",
+                  "text": "Casa-Museu Marta Ortigão Sampaio is a museum in Porto that exhibits art and personal collections.",
+                  "category": "museum",
+                  "coords": [
+                        -8.625505,
+                        41.159427
+                  ]
+            },
+            {
+                  "name": "Palácio da Bolsa",
+                  "text": "Palácio da Bolsa is a historical building and museum in Porto, renowned for its ornate Arab Room.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615729,
+                        41.141411
+                  ]
+            },
+            {
+                  "name": "Museu Municipal de Numismática",
+                  "text": "Museu Municipal de Numismática is a museum in Porto dedicated to coins and currency.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615343,
+                        41.148924
+                  ]
+            },
+            {
+                  "name": "Serralves Museum",
+                  "text": "Serralves Museum is a contemporary art museum located in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.659406,
+                        41.159132
+                  ]
+            },
+            {
+                  "name": "Portuguese Photography Centre",
+                  "text": "The Portuguese Photography Centre is a museum in Porto housed in a former prison building.",
+                  "category": "museum",
+                  "coords": [
+                        -8.615892,
+                        41.144717
+                  ]
+            },
+            {
+                  "name": "Antigo Local do Castelo de Gaia",
+                  "text": "Antigo Local do Castelo de Gaia is the historical site of a former castle located in the Porto area.",
+                  "category": "castle",
+                  "coords": [
+                        -8.624408,
+                        41.139645
+                  ]
+            },
+            {
+                  "name": "Galeria da Biodiversidade",
+                  "text": "Galeria da Biodiversidade is a natural history and science museum in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.642456,
+                        41.153623
+                  ]
+            },
+            {
+                  "name": "Serralves Villa",
+                  "text": "Serralves Villa is a notable Art Deco museum and architectural landmark in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.656338,
+                        41.159606
+                  ]
+            },
+            {
+                  "name": "Casa da Câmara",
+                  "text": "Casa da Câmara is a historical municipal building and museum located in Porto.",
+                  "category": "museum",
+                  "coords": [
+                        -8.611645,
+                        41.143031
+                  ]
+            },
+            {
+                  "name": "Museu do Vinho do Porto",
+                  "text": "Museu do Vinho do Porto is a museum in Porto dedicated to the history of Port wine.",
+                  "category": "museum",
+                  "coords": [
+                        -8.6153,
+                        41.14011
+                  ]
+            },
+            {
+                  "name": "Palacete de Belomonte",
+                  "text": "Palacete de Belomonte is a historical palatial building functioning as a castle-like landmark in Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.616207,
+                        41.142515
+                  ]
+            },
+            {
+                  "name": "Palácio de São João Novo",
+                  "text": "Palácio de São João Novo is an impressive historical palace and castle-like structure in Porto.",
+                  "category": "castle",
+                  "coords": [
+                        -8.617734,
+                        41.142514
+                  ]
+            },
+            {
+                  "name": "Museu dos Transportes e Comunicações",
+                  "text": "Museu dos Transportes e Comunicações is a museum in Porto exploring the history of transport and communication.",
+                  "category": "museum",
+                  "coords": [
+                        -8.621009,
+                        41.14262
+                  ]
+            },
+            {
+                  "name": "Arca de Água de Mijavelhas",
+                  "text": "Arca de Água de Mijavelhas is a historical water infrastructure and archaeological site in Porto.",
+                  "category": "historical",
+                  "coords": [
+                        -8.598566,
+                        41.148625
+                  ]
+            },
+            {
+                  "name": "Arqueossítio da Rua de Dom Hugo",
+                  "text": "Arqueossítio da Rua de Dom Hugo is an archaeological site in Porto revealing layers of the city's ancient history.",
+                  "category": "historical",
+                  "coords": [
+                        -8.610589,
+                        41.142936
+                  ]
+            },
+            {
+                  "name": "Teatro Sá da Bandeira",
+                  "text": "Teatro Sá da Bandeira is a prominent historic theatre located in Porto.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.608734,
+                        41.146646
+                  ]
+            },
+            {
+                  "name": "Coliseu do Porto",
+                  "text": "Coliseu do Porto is a major theatre and concert venue in Porto known for its Art Deco design.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.605311,
+                        41.147152
+                  ]
+            },
+            {
+                  "name": "Igreja da Serra do Pilar",
+                  "text": "Igreja da Serra do Pilar is a unique circular church and monastery complex overlooking the Douro River near Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.608113,
+                        41.138187
+                  ]
+            },
+            {
+                  "name": "Igreja da Lapa",
+                  "text": "Igreja da Lapa is a notable church in Porto that houses the heart of King Pedro IV of Portugal.",
+                  "category": "religious",
+                  "coords": [
+                        -8.612018,
+                        41.157173
+                  ]
+            },
+            {
+                  "name": "Capela Carlos Alberto: Igreja Luterana do Porto",
+                  "text": "Capela Carlos Alberto is a Lutheran place of worship located in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.626912,
+                        41.146012
+                  ]
+            },
+            {
+                  "name": "Igreja de São Martinho de Cedofeita",
+                  "text": "Igreja de São Martinho de Cedofeita is an ancient Romanesque church located in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.621676,
+                        41.155783
+                  ]
+            },
+            {
+                  "name": "Igreja do Corpo Santo de Massarelos",
+                  "text": "Igreja do Corpo Santo de Massarelos is a place of worship and the parish church of Massarelos in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.630491,
+                        41.145904
+                  ]
+            },
+            {
+                  "name": "Capela de Nossa Senhora das Verdades",
+                  "text": "Capela de Nossa Senhora das Verdades is a historic chapel and place of worship in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61136,
+                        41.141662
+                  ]
+            },
+            {
+                  "name": "Igreja da Misericórdia",
+                  "text": "Igreja da Misericórdia is a significant historic church and place of worship in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.614697,
+                        41.143564
+                  ]
+            },
+            {
+                  "name": "Clérigos Church and Tower",
+                  "text": "The Clérigos Church and Tower is a famous Baroque complex and an iconic symbol of Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.61425,
+                        41.145771
+                  ]
+            },
+            {
+                  "name": "Igreja de São Pedro de Miragaia",
+                  "text": "Igreja de São Pedro de Miragaia is a traditional place of worship situated in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.619684,
+                        41.142887
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Esperança",
+                  "text": "Igreja de Nossa Senhora da Esperança is a notable historical church and place of worship in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.602421,
+                        41.145365
+                  ]
+            },
+            {
+                  "name": "Igreja do Santíssimo Sacramento",
+                  "text": "Igreja do Santíssimo Sacramento is a place of worship serving the Catholic community in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.635737,
+                        41.157971
+                  ]
+            },
+            {
+                  "name": "Igreja de Nossa Senhora da Conceição",
+                  "text": "Igreja de Nossa Senhora da Conceição is a grand place of worship and church located in Porto.",
+                  "category": "religious",
+                  "coords": [
+                        -8.605847,
+                        41.161407
+                  ]
+            },
+            {
+                  "name": "Igreja do Carmo",
+                  "text": "Igreja do Carmo is a well-known church in Porto, famous for its magnificent azulejo tile facade.",
+                  "category": "religious",
+                  "coords": [
+                        -8.616255,
+                        41.147474
+                  ]
+            },
+            {
+                  "name": "Farol dos Três Bicos",
+                  "text": "Farol dos Três Bicos, also known as Farolim das Sobreiras, is a historic lighthouse in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.660315,
+                        41.14821
+                  ]
+            },
+            {
+                  "name": "Rabelo boats",
+                  "text": "Rabelo boats are traditional Portuguese wooden cargo boats used for centuries to transport Port wine in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.612381,
+                        41.138265
+                  ]
+            },
+            {
+                  "name": "Lello & Irmao Bookstore",
+                  "text": "Lello & Irmão Bookstore is a stunning neo-Gothic bookshop in Porto known for its spectacular red staircase.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.614849,
+                        41.146832
+                  ]
+            },
+            {
+                  "name": "Funicular dos Guindais",
+                  "text": "Funicular dos Guindais is a cliff railway in Porto offering quick transport and scenic views of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609512,
+                        41.140956
+                  ]
+            },
+            {
+                  "name": "Teatro Nacional São João",
+                  "text": "Teatro Nacional São João is a premier national theatre and grand architectural attraction in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607537,
+                        41.14456
+                  ]
+            },
+            {
+                  "name": "Capela dos Alfaiates",
+                  "text": "Capela dos Alfaiates is a small historic chapel and architectural attraction in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.607438,
+                        41.143236
+                  ]
+            },
+            {
+                  "name": "Chafariz da Colher",
+                  "text": "Chafariz da Colher is a historical fountain and notable attraction located in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.621606,
+                        41.143716
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal Rivoli",
+                  "text": "Teatro Municipal Rivoli is a prominent municipal theatre and cultural attraction in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609998,
+                        41.14782
+                  ]
+            },
+            {
+                  "name": "Igreja de Santa Clara",
+                  "text": "Igreja de Santa Clara is an attraction in Porto famed for its spectacular gilded woodwork interior.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.609199,
+                        41.142511
+                  ]
+            },
+            {
+                  "name": "Fonte das Virtudes",
+                  "text": "Fonte das Virtudes is a highly decorated historic fountain and local attraction in Porto.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.618961,
+                        41.144652
+                  ]
+            },
+            {
+                  "name": "Mercado do Bom Sucesso",
+                  "text": "Mercado do Bom Sucesso is a modernised indoor marketplace in Porto offering food stalls and shops.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.629054,
+                        41.155817
+                  ]
+            },
+            {
+                  "name": "Jardins do Palácio de Cristal",
+                  "text": "Jardins do Palácio de Cristal is a landscaped garden landmark in Porto offering scenic views of the Douro River.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.626508,
+                        41.147032
+                  ]
+            },
+            {
+                  "name": "Jardim da Praça de Mouzinho de Albuquerque",
+                  "text": "Jardim da Praça de Mouzinho de Albuquerque is a central park and roundabout in Porto, also known as Rotunda da Boavista.",
+                  "category": "park",
+                  "coords": [
+                        -8.629109,
+                        41.157919
+                  ]
+            },
+            {
+                  "name": "Serralves Park",
+                  "text": "Serralves Park is an extensive parkland in Porto accompanying the contemporary art museum and Art Deco villa.",
+                  "category": "park",
+                  "coords": [
+                        -8.6578,
+                        41.157289
+                  ]
+            },
+            {
+                  "name": "Jardim de Arca d'Água",
+                  "text": "Jardim de Arca d'Água is a pleasant green park space located in Porto.",
+                  "category": "park",
+                  "coords": [
+                        -8.611964,
+                        41.171849
+                  ]
+            },
+            {
+                  "name": "Parque do Covelo",
+                  "text": "Parque do Covelo is a prominent park located in the city of Porto.",
+                  "category": "park",
+                  "coords": [
+                        -8.604625,
+                        41.16738
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "portugal",
     coords: [-8.6291, 41.1579],

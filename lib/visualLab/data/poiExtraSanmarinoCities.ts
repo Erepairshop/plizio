@@ -4,7 +4,448 @@ import type { POI } from "./poi";
 export const poiExtraSanmarinoCities: POI[] = [
   // Castello di Acquaviva (SM-008)
   {
-    id: "city-gualdicciolo-extra",
+    id: "city-gualdicciolo-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Ein Museum in San Marino, das eine umfangreiche Sammlung moderner Waffen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Ein Museum, das historische Folterinstrumente und deren Geschichte ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Die Guaita-Festung ist der älteste der drei Türme auf dem Monte Titano in San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Castello De La Fratta",
+                  "text": "Der Cesta-Turm, auch De la Fratta genannt, befindet sich auf dem höchsten Punkt des Monte Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.451383,
+                        43.932629
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein Kletter- und Erlebnispark in San Marino mit verschiedenen Parcours.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Die Nationalgalerie zeigt eine Sammlung moderner und zeitgenössischer Kunstwerke in San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Oasi WWF Cà Brigida",
+                  "text": "Ein von der WWF verwaltetes Naturschutzgebiet in der Nähe von San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.423729,
+                        43.970753
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Eine kuriose lokale Attraktion, die ein Modell eines Panzers zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Ein Denkmal in Form eines Pferdes in San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "Überreste des Eisenbahnviadukts der ehemaligen Strecke Rimini-Novafeltria.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "Historische Überreste einer Brücke in der Umgebung von Gualdicciolo.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Ein religiöses Heiligtum in San Marino, das der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "San Marinó-i múzeum, amely modern fegyverek széles gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Történelmi kínzóeszközöket és azok történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "A Guaita-erőd a legidősebb a San Marinó-i Monte Titano három tornya közül.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Castello De La Fratta",
+                  "text": "A Cesta-torony, más néven De la Fratta, a Monte Titano legmagasabb pontján található.",
+                  "category": "castle",
+                  "coords": [
+                        12.451383,
+                        43.932629
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marinó-i kalandpark különböző nehézségi szintű kötélpályákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "A nemzeti galéria modern és kortárs műalkotások gyűjteményét mutatja be San Marinóban.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Oasi WWF Cà Brigida",
+                  "text": "A WWF által kezelt természetvédelmi terület San Marino közelében.",
+                  "category": "natural",
+                  "coords": [
+                        12.423729,
+                        43.970753
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Különleges helyi látnivaló, amely egy tankmodellt mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Lószobor formájú emlékmű San Marinóban.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "Az egykori Rimini-Novafeltria vasútvonal viaduktjának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "Egy híd történelmi maradványai Gualdicciolo környékén.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Szűz Máriának szentelt vallási szentély San Marinóban.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Un muzeu în San Marino care prezintă o colecție vastă de arme moderne.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Un muzeu care expune instrumente istorice de tortură și istoria acestora.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Cetatea Guaita este cel mai vechi dintre cele trei turnuri de pe muntele Titano din San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Castello De La Fratta",
+                  "text": "Turnul Cesta, numit și De la Fratta, se află pe cel mai înalt punct al muntelui Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.451383,
+                        43.932629
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Un parc de aventură în San Marino cu diverse trasee de cățărare.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Galeria Națională prezintă o colecție de opere de artă modernă și contemporană în San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Oasi WWF Cà Brigida",
+                  "text": "O rezervație naturală administrată de WWF în apropiere de San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.423729,
+                        43.970753
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "O atracție locală inedită care prezintă un model de tanc.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Un monument sub formă de cal în San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "Ruinele viaductului feroviar al fostei linii Rimini-Novafeltria.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "Resturile istorice ale unui pod în zona Gualdicciolo.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Un sanctuar religios în San Marino dedicat Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "A museum in San Marino showcasing an extensive collection of modern weapons.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A museum exhibiting historical instruments of torture and their history.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Guaita Castle",
+                  "text": "Guaita Fortress is the oldest of the three towers on Mount Titano in San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "De La Fratta Castle",
+                  "text": "The Cesta tower, also known as De la Fratta, is located on the highest peak of Mount Titano.",
+                  "category": "castle",
+                  "coords": [
+                        12.451383,
+                        43.932629
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "An adventure park in San Marino featuring various climbing courses.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "National Gallery of Modern and Contemporary Art",
+                  "text": "The National Gallery displays a collection of modern and contemporary artworks in San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Oasi WWF Cà Brigida",
+                  "text": "A nature reserve managed by the WWF located near San Marino.",
+                  "category": "natural",
+                  "coords": [
+                        12.423729,
+                        43.970753
+                  ]
+            },
+            {
+                  "name": "Tank from plasticine",
+                  "text": "A curious local attraction featuring a model of a tank.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "A monument in the shape of a horse in San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "Remains of the railway viaduct of the former Rimini-Novafeltria line.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "Historical remains of a bridge in the Gualdicciolo area.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "A religious sanctuary in San Marino dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM-008",
     coords: [12.418, 43.945],
@@ -37,7 +478,304 @@ export const poiExtraSanmarinoCities: POI[] = [
     image: "/poi-images/city-gualdicciolo-extra.webp",
   },
   {
-    id: "city-la-serra-extra",
+    id: "city-la-serra-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Ein Museum in San Marino, das eine Sammlung moderner Waffen aus verschiedenen Kriegen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Ein Museum, das historische Folterinstrumente und deren Geschichte dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein Abenteuerpark mit Kletterparcours und Outdoor-Aktivitäten für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Ein Museum für moderne Kunst, das Werke san-marinesischer und internationaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "Überreste eines historischen Viadukts der ehemaligen Eisenbahnlinie zwischen Rimini und Novafeltria.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "Die Überreste einer historischen Brücke in San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Eine religiöse Stätte in San Marino, die der Jungfrau Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Eine Kirche oder ein religiöses Gebäude in San Marino.",
+                  "category": "religious",
+                  "coords": [
+                        12.377645,
+                        43.951309
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "San Marinó-i múzeum, amely különböző háborúkból származó modern fegyverek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Múzeum, amely történelmi kínzóeszközöket és azok történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Kalandpark mászópályákkal és szabadtéri tevékenységekkel családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Modern művészeti múzeum, amely San Marinó-i és nemzetközi művészek alkotásait állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "A Rimini és Novafeltria közötti egykori vasútvonal történelmi viaduktjának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "Egy történelmi híd maradványai San Marinóban.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "San Marinó-i vallási helyszín, amelyet Szűz Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "Templom vagy vallási épület San Marinóban.",
+                  "category": "religious",
+                  "coords": [
+                        12.377645,
+                        43.951309
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Un muzeu din San Marino care expune o colecție de arme moderne din diferite războaie.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Un muzeu care documentează instrumente de tortură istorice și istoria acestora.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Un parc de aventură cu trasee de cățărare și activități în aer liber pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Un muzeu de artă modernă care expune lucrări ale artiștilor sanmarinezi și internaționali.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "Vestigii ale unui viaduct istoric al fostei linii de cale ferată dintre Rimini și Novafeltria.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "Vestigiile unui pod istoric din San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Un lăcaș de cult din San Marino, dedicat Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "O biserică sau o clădire religioasă din San Marino.",
+                  "category": "religious",
+                  "coords": [
+                        12.377645,
+                        43.951309
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "A museum in San Marino displaying a collection of modern weapons from various wars.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A museum documenting historical torture instruments and their history.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "An adventure park with climbing courses and outdoor activities for families.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "National Gallery of Modern and Contemporary Art",
+                  "text": "A modern art museum exhibiting works by San Marinese and international artists.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Rovine del viadotto della ferrovia Rimini-Novafeltria",
+                  "text": "Remains of a historic viaduct from the former railway line between Rimini and Novafeltria.",
+                  "category": "historical",
+                  "coords": [
+                        12.388098,
+                        43.956516
+                  ]
+            },
+            {
+                  "name": "Resti del ponte",
+                  "text": "The remains of a historic bridge in San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.401476,
+                        43.95885
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "A religious site in San Marino dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            },
+            {
+                  "name": "San Domenico",
+                  "text": "A church or religious building in San Marino.",
+                  "category": "religious",
+                  "coords": [
+                        12.377645,
+                        43.951309
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM-008",
     coords: [12.413, 43.944],
@@ -70,7 +808,484 @@ export const poiExtraSanmarinoCities: POI[] = [
 
   // Castello di Borgo Maggiore (SM-009)
   {
-    id: "city-ca-melone-extra",
+    id: "city-ca-melone-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Das Museo Armi Moderne ist ein bedeutendes Museum für moderne Waffen in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Das Sammarinese Museum of Ancient Arms ist ein Museum in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Das Museo della Tortura ist ein Museum in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Die Burg Guaita, auch als Erste Turm bekannt, ist eine bedeutende historische Burg in Cà Melone.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Der Torre del Montale ist eine berühmte Burg und fungiert als der Dritte Turm von Cà Melone.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures ist ein Freizeitpark in Cà Melone.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Die National Gallery of Modern and Contemporary Art ist ein Museum in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Tank from plasticine ist eine Sehenswürdigkeit in Cà Melone.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Cavallo ist ein Denkmal in Cà Melone.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "L’elettromotrice \"AB-03\" ist eine Sehenswürdigkeit in Cà Melone.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Der Kursaal Sala Congressi ist ein Kunstzentrum in Cà Melone.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Der Sanmarino Shinto Shrine ist eine Kultstätte in Cà Melone.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Das Santuario della Beata Vergine della Consolazione ist eine Kultstätte in Cà Melone.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "A Museo Armi Moderne egy jelentős, modern fegyvereket bemutató múzeum Cà Melone városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "A Sammarinese Museum of Ancient Arms egy múzeum Cà Melone városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A Museo della Tortura egy múzeum Cà Melone városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "A Guaita-vár, más néven az Első Torony, egy kiemelkedő történelmi vár Cà Melone területén.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "A Torre del Montale egy híres vár, amely Cà Melone harmadik tornyaként ismert.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "A San Marino Adventures egy vidámpark Cà Melone területén.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "A National Gallery of Modern and Contemporary Art egy múzeum Cà Melone városában.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "A Tank from plasticine egy látványosság Cà Melone városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "A Cavallo egy emlékmű Cà Melone városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "A L’elettromotrice \"AB-03\" egy látványosság Cà Melone városában.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "A Kursaal Sala Congressi egy művészeti központ Cà Melone városában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "A Sanmarino Shinto Shrine egy istentiszteleti hely Cà Melone városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "A Santuario della Beata Vergine della Consolazione egy istentiszteleti hely Cà Melone városában.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Museo Armi Moderne este un muzeu important de arme moderne situat în Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Sammarinese Museum of Ancient Arms este un muzeu situat în Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Museo della Tortura este un muzeu situat în Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Castelul Guaita, cunoscut și sub numele de Primul Turn, este un important castel istoric din Cà Melone.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Torre del Montale este un castel renumit, care funcționează ca al Treilea Turn din Cà Melone.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures este un parc tematic situat în Cà Melone.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "National Gallery of Modern and Contemporary Art este un muzeu situat în Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Tank from plasticine este o atracție situată în Cà Melone.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Cavallo este un monument situat în Cà Melone.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "L’elettromotrice „AB-03” este o atracție situată în Cà Melone.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Kursaal Sala Congressi este un centru de arte situat în Cà Melone.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Sanmarino Shinto Shrine este un lăcaș de cult situat în Cà Melone.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Santuario della Beata Vergine della Consolazione este un lăcaș de cult situat în Cà Melone.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Museo Armi Moderne is a notable museum of modern weapons located in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Sammarinese Museum of Ancient Arms",
+                  "text": "The Sammarinese Museum of Ancient Arms is a museum located in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Museo della Tortura is a museum located in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Guaita Castle",
+                  "text": "Guaita Castle, also known as the First Tower, is a prominent historical castle in Cà Melone.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Torre del Montale is a renowned castle, functioning as the Third Tower of Cà Melone.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "San Marino Adventures is a theme park located in Cà Melone.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "National Gallery of Modern and Contemporary Art",
+                  "text": "The National Gallery of Modern and Contemporary Art is a museum situated in Cà Melone.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Tank from plasticine",
+                  "text": "Tank from plasticine is an attraction located in Cà Melone.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Cavallo is a monument situated in Cà Melone.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "L’elettromotrice \"AB-03\" is an attraction situated in Cà Melone.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Kursaal Sala Congressi is an arts centre situated in Cà Melone.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Sanmarino Shinto Shrine",
+                  "text": "Sanmarino Shinto Shrine is a place of worship located in Cà Melone.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Santuario della Beata Vergine della Consolazione is a place of worship located in Cà Melone.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM-009",
     coords: [12.453, 43.944],
@@ -95,7 +1310,520 @@ export const poiExtraSanmarinoCities: POI[] = [
     image: "/poi-images/city-ca-melone-extra.webp",
   },
   {
-    id: "city-ca-rigo-extra",
+    id: "city-ca-rigo-extra", "sights": {
+      "de": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Dieses Museum in San Marino stellt eine umfangreiche Sammlung moderner Waffen aus.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Das Museum zeigt eine Sammlung historischer und antiker Waffen in San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Ein Museum, das sich der Geschichte der Folter und ihren Instrumenten widmet.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Der älteste der drei Festungstürme auf dem Monte Titano in San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Der kleinste der drei Türme von San Marino, der früher als Gefängnis diente.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Ein Abenteuerpark in San Marino mit verschiedenen Kletterparcours im Freien.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Die staatliche Galerie für moderne und zeitgenössische Kunst in San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Eine lokale Sehenswürdigkeit in San Marino, die ein Modell aus Knete zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Ein Denkmal in Form eines Pferdes in der Stadt San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Ein historischer Elektrotriebwagen, der als Denkmal an die ehemalige Bahnstrecke erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Ein modernes Kongresszentrum und Veranstaltungsort für kulturelle Events in San Marino.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "Eine religiöse Stätte und christliches Gotteshaus in der Region.",
+                  "category": "religious",
+                  "coords": [
+                        12.478782,
+                        43.969137
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Ein Shinto-Schrein in San Marino, der erste seiner Art in Europa.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Ein katholisches Heiligtum und Wallfahrtsort in San Marino.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "San Marino-i múzeum, amely modern fegyverek gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "San Marino-i múzeum, amely történelmi és ősi fegyvereket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A kínzás történetének és eszközeinek szentelt múzeum San Marinóban.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "San Marino három vártornya közül a legrégebbi a Monte Titano csúcsán.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "San Marino három tornya közül a legkisebb, amely korábban börtönként is szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Kalandpark San Marinóban, különféle szabadtéri kötélpályákkal.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "San Marino állami modern és kortárs művészeti galériája.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "Helyi látványosság San Marinóban, amely egy gyurmából készült modellt mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Lószobrot ábrázoló emlékmű San Marino városában.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Történelmi villamos motorkocsi, amely a korábbi vasútvonal emlékét őrzi.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Modern kongresszusi központ és kulturális események helyszíne San Marinóban.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "Vallási helyszín és keresztény templom a környéken.",
+                  "category": "religious",
+                  "coords": [
+                        12.478782,
+                        43.969137
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Sintoista szentély San Marinóban, az első a maga nemében Európában.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Római katolikus szentély és zarándokhely San Marinóban.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "Muzeu din San Marino care expune o colecție de arme moderne.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Museo delle Armi Antiche",
+                  "text": "Muzeul prezintă o colecție de arme istorice și antice în San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "Un muzeu dedicat istoriei torturii și instrumentelor sale în San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Castello della Guaita",
+                  "text": "Cel mai vechi dintre cele trei turnuri ale cetății de pe Muntele Titano din San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "Cel mai mic dintre cele trei turnuri din San Marino, folosit în trecut ca închisoare.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "Un parc de aventură în San Marino, cu diverse trasee de cățărare în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "Museo d'Arte Contemporanea di San Marino",
+                  "text": "Galeria națională de artă modernă și contemporană din San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Serbatoio da plastilina",
+                  "text": "O atracție locală din San Marino care prezintă un model din plastilină.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "Un monument sub formă de cal în orașul San Marino.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "Un automotor electric istoric, păstrat ca monument al fostei linii ferate.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "Un centru de congrese modern și loc de desfășurare a evenimentelor culturale în San Marino.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "Un site religios și lăcaș de cult creștin în regiune.",
+                  "category": "religious",
+                  "coords": [
+                        12.478782,
+                        43.969137
+                  ]
+            },
+            {
+                  "name": "San Marino Jinja",
+                  "text": "Un altar shintoist în San Marino, primul de acest fel din Europa.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "Un sanctuar catolic și loc de pelerinaj în San Marino.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Armi Moderne",
+                  "text": "A museum in San Marino displaying a collection of modern weapons.",
+                  "category": "museum",
+                  "coords": [
+                        12.446959,
+                        43.936655
+                  ]
+            },
+            {
+                  "name": "Sammarinese Museum of Ancient Arms",
+                  "text": "The museum showcases a collection of historical and ancient weapons in San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.451417,
+                        43.932533
+                  ]
+            },
+            {
+                  "name": "Museo della Tortura",
+                  "text": "A museum dedicated to the history of torture and its instruments in San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.446905,
+                        43.935249
+                  ]
+            },
+            {
+                  "name": "Guaita Castle",
+                  "text": "The oldest of the three fortress towers located on Monte Titano in San Marino.",
+                  "category": "castle",
+                  "coords": [
+                        12.449286,
+                        43.935224
+                  ]
+            },
+            {
+                  "name": "Torre del Montale",
+                  "text": "The smallest of the three towers of San Marino, which served as a prison in the past.",
+                  "category": "castle",
+                  "coords": [
+                        12.452474,
+                        43.92999
+                  ]
+            },
+            {
+                  "name": "San Marino Adventures",
+                  "text": "An adventure park in San Marino featuring various outdoor climbing courses.",
+                  "category": "recreational",
+                  "coords": [
+                        12.429577,
+                        43.941831
+                  ]
+            },
+            {
+                  "name": "National Gallery of Modern and Contemporary Art",
+                  "text": "The national gallery of modern and contemporary art in San Marino.",
+                  "category": "museum",
+                  "coords": [
+                        12.445734,
+                        43.937153
+                  ]
+            },
+            {
+                  "name": "Tank from plasticine",
+                  "text": "A local attraction in San Marino featuring a model made from plasticine.",
+                  "category": "landmark",
+                  "coords": [
+                        12.450535,
+                        43.933568
+                  ]
+            },
+            {
+                  "name": "Cavallo",
+                  "text": "A monument in the form of a horse in San Marino City.",
+                  "category": "historical",
+                  "coords": [
+                        12.448703,
+                        43.931899
+                  ]
+            },
+            {
+                  "name": "L’elettromotrice \"AB-03\"",
+                  "text": "A historical electric railcar preserved as a monument to the former railway line.",
+                  "category": "landmark",
+                  "coords": [
+                        12.45034,
+                        43.930147
+                  ]
+            },
+            {
+                  "name": "Kursaal Sala Congressi",
+                  "text": "A modern congress center and venue for cultural events in San Marino.",
+                  "category": "cultural",
+                  "coords": [
+                        12.452055,
+                        43.928347
+                  ]
+            },
+            {
+                  "name": "Chiesa Sant'Andrea",
+                  "text": "A religious site and Christian house of worship in the area.",
+                  "category": "religious",
+                  "coords": [
+                        12.478782,
+                        43.969137
+                  ]
+            },
+            {
+                  "name": "Sanmarino Shinto Shrine",
+                  "text": "A Shinto shrine in San Marino, the first of its kind in Europe.",
+                  "category": "religious",
+                  "coords": [
+                        12.48213,
+                        43.958113
+                  ]
+            },
+            {
+                  "name": "Santuario della Beata Vergine della Consolazione",
+                  "text": "A Catholic sanctuary and place of pilgrimage in San Marino.",
+                  "category": "religious",
+                  "coords": [
+                        12.447424,
+                        43.940522
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "SM-009",
     coords: [12.452, 43.952],

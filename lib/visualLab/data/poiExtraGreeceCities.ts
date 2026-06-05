@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraGreeceCities: POI[] = [
   {
-    id: "city-pygos-extra",
+    id: "city-pygos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Δημοτικο Μουσειο Πυργου",
+                  "text": "Dieses Museum in Pyrgos zeigt bedeutende archäologische Funde aus der Region Elis.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι",
+                  "text": "Ein kleines Freilufttheater in Pyrgos für lokale kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Θεατρο Απολων",
+                  "text": "Ein historisches neoklassizistisches Theatergebäude im Zentrum von Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "θεατράκι 4ου Γυμνασίου",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Λαμπετίου",
+                  "text": "Ein Museum, das sich der Bewahrung der Volkskunst und Traditionen von Lampeti widmet.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Αγαλμα",
+                  "text": "Eine öffentliche Statue in Pyrgos, die eine lokale oder historische Figur darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "Η Δραχμή",
+                  "text": "Ein Denkmal in Pyrgos, das der ehemaligen griechischen Währung, der Drachme, gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Δημοτικο Μουσειο Πυργου",
+                  "text": "Pürgoszi múzeum, amely Élisz régió jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι",
+                  "text": "Kis szabadtéri színház Pürgoszban helyi kulturális eseményekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Θεατρο Απολων",
+                  "text": "Történelmi neoklasszicista színházépület Pürgosz központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "θεατράκι 4ου Γυμνασίου",
+                  "text": "Színházi előadások helyi helyszíne Pürgoszban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Λαμπετίου",
+                  "text": "Lampeti népművészetének és hagyományainak megőrzésére szakosodott múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Αγαλμα",
+                  "text": "Köztéri szobor Pürgoszban, amely helyi vagy történelmi alakot ábrázol.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "Η Δραχμή",
+                  "text": "Emlékmű Pürgoszban, amelyet a korábbi görög pénznemnek, a drachmának szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Δημοτικο Μουσειο Πυργου",
+                  "text": "Acest muzeu din Pyrgos expune descoperiri arheologice importante din regiunea Elis.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι",
+                  "text": "Un mic teatru în aer liber în Pyrgos pentru evenimente culturale locale.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Θεατρο Απολων",
+                  "text": "O clădire istorică de teatru în stil neoclasic din centrul orașului Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "θεατράκι 4ου Γυμνασίου",
+                  "text": "Un loc local pentru spectacole de teatru în Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Λαμπετίου",
+                  "text": "Un muzeu dedicat păstrării artei populare și tradițiilor din Lampeti.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Αγαλμα",
+                  "text": "O statuie publică din Pyrgos reprezentând o figură locală sau istorică.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "Η Δραχμή",
+                  "text": "Un monument din Pyrgos dedicat fostei monede grecești, drahma.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaelogical Museum of Pyrgos",
+                  "text": "This museum in Pyrgos displays significant archaeological finds from the Elis region.",
+                  "category": "museum",
+                  "coords": [
+                        21.440582,
+                        37.671263
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι",
+                  "text": "A small open-air theatre in Pyrgos for local cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        21.43334,
+                        37.66903
+                  ]
+            },
+            {
+                  "name": "Θεατρο Απολων",
+                  "text": "A historical neoclassical theatre building in the center of Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.439255,
+                        37.672807
+                  ]
+            },
+            {
+                  "name": "θεατράκι 4ου Γυμνασίου",
+                  "text": "A local venue for theatrical performances in Pyrgos.",
+                  "category": "cultural",
+                  "coords": [
+                        21.443529,
+                        37.664325
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Λαμπετίου",
+                  "text": "A museum dedicated to preserving the folk art and traditions of Lampeti.",
+                  "category": "museum",
+                  "coords": [
+                        21.451956,
+                        37.682944
+                  ]
+            },
+            {
+                  "name": "Αγαλμα",
+                  "text": "A public statue in Pyrgos representing a local or historical figure.",
+                  "category": "historical",
+                  "coords": [
+                        21.439124,
+                        37.670888
+                  ]
+            },
+            {
+                  "name": "Η Δραχμή",
+                  "text": "A monument in Pyrgos dedicated to the former Greek currency, the drachma.",
+                  "category": "historical",
+                  "coords": [
+                        21.43656,
+                        37.671536
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-G",
     coords: [21.4404, 37.6753],
@@ -45,7 +306,304 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Pyrgos doit son nom à une tour de défense construite en 1512.", "En 1882, la ville fut le point de départ du premier chemin de fer régional vers Katakolo.", "Le musée archéologique de Pyrgos est installé dans un ancien marché conçu par Ernst Ziller.", "Pyrgos se trouve à environ 19 kilomètres à l'ouest du site antique mondialement connu d'Olympie.", "Le port de Katakolo est aujourd'hui l'un des ports de croisière les plus importants de Grèce.", "En 1993, un grave séisme a causé des dommages importants aux bâtiments de la ville."],
     }, image: "/poi-images/city-pygos-extra.webp"},
   {
-    id: "city-corinth-extra",
+    id: "city-corinth-extra", "sights": {
+      "de": [
+            {
+                  "name": "Λαογραφικό Μουσείο",
+                  "text": "Das Folklore Museum ist ein wichtiges Museum in der Stadt Korinth. Es bewahrt und präsentiert traditionelle regionale Trachten und historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        22.935514,
+                        37.940246
+                  ]
+            },
+            {
+                  "name": "Κανταρέ",
+                  "text": "Cantare ist ein schöner Strand in der Stadt Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        22.900031,
+                        37.932645
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Κορίνθου",
+                  "text": "Δημοτικό Θέατρο Κορίνθου ist ein Theater in der Stadt Korinth.",
+                  "category": "cultural",
+                  "coords": [
+                        22.933534,
+                        37.941272
+                  ]
+            },
+            {
+                  "name": "Αρχαία Δίολκος",
+                  "text": "Ancient Diolkos ist eine archäologische Stätte in der Stadt Korinth.",
+                  "category": "historical",
+                  "coords": [
+                        22.961846,
+                        37.949798
+                  ]
+            },
+            {
+                  "name": "Καλάμια",
+                  "text": "Kalamia ist ein schöner Strand in der Stadt Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        22.916084,
+                        37.938546
+                  ]
+            },
+            {
+                  "name": "Kanal von Korinth",
+                  "text": "Der Corinth Canal ist eine bedeutende Touristenattraktion in Korinth. Diese beeindruckende Wasserstraße verbindet den Golf von Korinth mit dem Saronischen Golf.",
+                  "category": "landmark",
+                  "coords": [
+                        22.984717,
+                        37.934158
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη",
+                  "text": "Δημοτική Πινακοθήκη ist eine Kunstgalerie in der Stadt Korinth.",
+                  "category": "museum",
+                  "coords": [
+                        22.932638,
+                        37.940253
+                  ]
+            },
+            {
+                  "name": "Απόστολος Παύλος",
+                  "text": "Απόστολος Παύλος ist eine Kultstätte in der Stadt Korinth.",
+                  "category": "religious",
+                  "coords": [
+                        22.928184,
+                        37.938312
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λαογραφικό Μουσείο",
+                  "text": "A Folklore Museum egy fontos múzeum Korinth városában. Hagyományos regionális viseleteket és történelmi tárgyakat őriz és mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.935514,
+                        37.940246
+                  ]
+            },
+            {
+                  "name": "Κανταρέ",
+                  "text": "A Cantare egy gyönyörű strand Korinth városában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.900031,
+                        37.932645
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Κορίνθου",
+                  "text": "A Δημοτικό Θέατρο Κορίνθου egy színház Korinth városában.",
+                  "category": "cultural",
+                  "coords": [
+                        22.933534,
+                        37.941272
+                  ]
+            },
+            {
+                  "name": "Αρχαία Δίολκος",
+                  "text": "Az Ancient Diolkos egy régészeti lelőhely Korinth városában.",
+                  "category": "historical",
+                  "coords": [
+                        22.961846,
+                        37.949798
+                  ]
+            },
+            {
+                  "name": "Καλάμια",
+                  "text": "A Kalamia egy gyönyörű strand Korinth városában.",
+                  "category": "recreational",
+                  "coords": [
+                        22.916084,
+                        37.938546
+                  ]
+            },
+            {
+                  "name": "Korinthoszi-csatorna",
+                  "text": "A Corinth Canal egy jelentős turisztikai látványosság Korinth városában. Ez a lenyűgöző vízi út köti össze a Korinthoszi-öblöt a Szaróni-öböllel.",
+                  "category": "landmark",
+                  "coords": [
+                        22.984717,
+                        37.934158
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη",
+                  "text": "A Δημοτική Πινακοθήκη egy művészeti galéria Korinth városában.",
+                  "category": "museum",
+                  "coords": [
+                        22.932638,
+                        37.940253
+                  ]
+            },
+            {
+                  "name": "Απόστολος Παύλος",
+                  "text": "Az Απόστολος Παύλος egy istentiszteleti hely Korinth városában.",
+                  "category": "religious",
+                  "coords": [
+                        22.928184,
+                        37.938312
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λαογραφικό Μουσείο",
+                  "text": "Folklore Museum este un muzeu important situat în orașul Korinth. Acesta conservă și expune costume tradiționale regionale și artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        22.935514,
+                        37.940246
+                  ]
+            },
+            {
+                  "name": "Κανταρέ",
+                  "text": "Cantare este o plajă situată în orașul Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        22.900031,
+                        37.932645
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Κορίνθου",
+                  "text": "Δημοτικό Θέατρο Κορίνθου este un teatru situat în orașul Korinth.",
+                  "category": "cultural",
+                  "coords": [
+                        22.933534,
+                        37.941272
+                  ]
+            },
+            {
+                  "name": "Αρχαία Δίολκος",
+                  "text": "Ancient Diolkos este un sit arheologic situat în orașul Korinth.",
+                  "category": "historical",
+                  "coords": [
+                        22.961846,
+                        37.949798
+                  ]
+            },
+            {
+                  "name": "Καλάμια",
+                  "text": "Kalamia este o plajă situată în orașul Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        22.916084,
+                        37.938546
+                  ]
+            },
+            {
+                  "name": "Διώρυγα Κορίνθου",
+                  "text": "Corinth Canal este o atracție turistică majoră situată în Korinth. Această cale navigabilă impresionantă conectează Golful Corint cu Golful Saronic.",
+                  "category": "landmark",
+                  "coords": [
+                        22.984717,
+                        37.934158
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη",
+                  "text": "Δημοτική Πινακοθήκη este o galerie de artă situată în orașul Korinth.",
+                  "category": "museum",
+                  "coords": [
+                        22.932638,
+                        37.940253
+                  ]
+            },
+            {
+                  "name": "Απόστολος Παύλος",
+                  "text": "Απόστολος Παύλος este un lăcaș de cult situat în orașul Korinth.",
+                  "category": "religious",
+                  "coords": [
+                        22.928184,
+                        37.938312
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Folklore Museum",
+                  "text": "The Folklore Museum is an important museum located in the city of Korinth. It preserves and displays traditional regional costumes and historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        22.935514,
+                        37.940246
+                  ]
+            },
+            {
+                  "name": "Cantare",
+                  "text": "Cantare is a beach located in the city of Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        22.900031,
+                        37.932645
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Κορίνθου",
+                  "text": "Δημοτικό Θέατρο Κορίνθου is a theatre located in the city of Korinth.",
+                  "category": "cultural",
+                  "coords": [
+                        22.933534,
+                        37.941272
+                  ]
+            },
+            {
+                  "name": "Ancient Diolkos",
+                  "text": "Ancient Diolkos is an archaeological site located in the city of Korinth.",
+                  "category": "historical",
+                  "coords": [
+                        22.961846,
+                        37.949798
+                  ]
+            },
+            {
+                  "name": "Kalamia",
+                  "text": "Kalamia is a beach located in the city of Korinth.",
+                  "category": "recreational",
+                  "coords": [
+                        22.916084,
+                        37.938546
+                  ]
+            },
+            {
+                  "name": "Corinth Canal",
+                  "text": "The Corinth Canal is a major tourist attraction located in Korinth. This impressive waterway connects the Gulf of Corinth with the Saronic Gulf.",
+                  "category": "landmark",
+                  "coords": [
+                        22.984717,
+                        37.934158
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη",
+                  "text": "Δημοτική Πινακοθήκη is an art gallery located in the city of Korinth.",
+                  "category": "museum",
+                  "coords": [
+                        22.932638,
+                        37.940253
+                  ]
+            },
+            {
+                  "name": "Απόστολος Παύλος",
+                  "text": "Απόστολος Παύλος is a place of worship located in the city of Korinth.",
+                  "category": "religious",
+                  "coords": [
+                        22.928184,
+                        37.938312
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-H",
     coords: [22.9371, 37.9322],
@@ -87,7 +645,484 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le canal de Corinthe a été officiellement inauguré le 25 juillet 1893 après onze ans de travaux.", "Le temple antique d'Apollon possède encore aujourd'hui sept colonnes monolithiques debout.", "Corinthe a été presque entièrement détruite par de violents séismes en 1858 et à nouveau en 1928.", "L'Acrocorinthe est située à 575 mètres d'altitude et était l'acropole de la cité antique.", "Dans l'Antiquité, les Jeux Isthmiques en l'honneur de Poséidon, dieu de la mer, s'y déroulaient.", "L'apôtre Paul a vécu et œuvré à Corinthe pendant 18 mois au Ier siècle apr. J.-C."],
     }, image: "/poi-images/city-corinth-extra.webp"},
   {
-    id: "city-aigio-extra",
+    id: "city-aigio-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αιγίου",
+                  "text": "Archäologisches Museum in Aigio, das Funde aus der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Αλυκή (Αιγίου)",
+                  "text": "Naturschutzgebiet Aliki bei Aigio, bekannt für seine Lagune.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Φάρος Αιγίου",
+                  "text": "Historischer Leuchtturm im Hafen von Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Ιστορικό και Λαογραφικό Μουσείο Αιγίου",
+                  "text": "Museum in Aigio, das der lokalen Geschichte und Folklore gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Παναγιωτόπουλου",
+                  "text": "Archäologische Stätte des Panagiotopoulos-Herrenhauses in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Aνοιχτό Aμφιθέατρο",
+                  "text": "Offenes Amphitheater für kulturelle Veranstaltungen in Aigio.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Οικία Κλασικών Χρόνων",
+                  "text": "Archäologische Ausgrabung eines Hauses aus der klassischen Zeit in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Beliebter Strand in der Nähe des Naturschutzgebiets Aliki in Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κουλούρας",
+                  "text": "Volkskundemuseum im Viertel Kouloura in Aigio.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Υδροβιότοπος Αλυκής",
+                  "text": "Naturschutzgebiet Aliki in der Nähe von Aigio.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "Οι Δώδεκα Βρύσες",
+                  "text": "Die 12 Quellen, eine lokale Sehenswürdigkeit in Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Παλιές Αποθήκες σταφίδας Αιγίου",
+                  "text": "Ruinen der alten Korinthenlagerhäuser in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Παναγία Τρυπητή",
+                  "text": "Eine in einen Felsen gebaute Kirche in Aigio, gewidmet der Jungfrau Maria.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αιγίου",
+                  "text": "Régészeti múzeum Aigióban, amely a régió leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Αλυκή (Αιγίου)",
+                  "text": "Aliki természetvédelmi terület Aigió mellett, amely lagúnájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Φάρος Αιγίου",
+                  "text": "Történelmi világítótorony Aigió kikötőjében.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Ιστορικό και Λαογραφικό Μουσείο Αιγίου",
+                  "text": "Helytörténeti és néprajzi múzeum Aigióban.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Παναγιωτόπουλου",
+                  "text": "A Panagiotopoulos-kúria régészeti helyszíne Aigióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Aνοιχτό Aμφιθέατρο",
+                  "text": "Szabadtéri amfiteátrum kulturális eseményekhez Aigióban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Οικία Κλασικών Χρόνων",
+                  "text": "Klasszikus kori ház régészeti lelőhelye Aigióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Népszerű tengerpart az Aliki természetvédelmi terület közelében, Aigióban.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κουλούρας",
+                  "text": "Néprajzi múzeum Kouloura negyedében, Aigióban.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Υδροβιότοπος Αλυκής",
+                  "text": "Aliki természetvédelmi terület Aigió közelében.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "Οι Δώδεκα Βρύσες",
+                  "text": "A 12 forrás, egy helyi látványosság Aigióban.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Παλιές Αποθήκες σταφίδας Αιγίου",
+                  "text": "A régi mazsolaraktárak romjai Aigióban.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Παναγία Τρυπητή",
+                  "text": "Egy sziklába épült templom Aigióban, amelyet Szűz Máriának szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αιγίου",
+                  "text": "Muzeu arheologic din Aigio, care expune descoperiri din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Αλυκή (Αιγίου)",
+                  "text": "Rezervația naturală Aliki de lângă Aigio, cunoscută pentru laguna sa.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Φάρος Αιγίου",
+                  "text": "Far istoric situat în portul din Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Ιστορικό και Λαογραφικό Μουσείο Αιγίου",
+                  "text": "Muzeu din Aigio dedicat istoriei și folclorului local.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Παναγιωτόπουλου",
+                  "text": "Situl arheologic al conacului Panagiotopoulos din Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Aνοιχτό Aμφιθέατρο",
+                  "text": "Amfiteatru în aer liber pentru evenimente culturale în Aigio.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Οικία Κλασικών Χρόνων",
+                  "text": "Sit arheologic al unei case din perioada clasică în Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Plajă populară lângă rezervația naturală Aliki din Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κουλούρας",
+                  "text": "Muzeu de folclor în cartierul Kouloura din Aigio.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Υδροβιότοπος Αλυκής",
+                  "text": "Rezervația naturală Aliki din apropiere de Aigio.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "Οι Δώδεκα Βρύσες",
+                  "text": "Cele 12 izvoare, o atracție locală în Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Παλιές Αποθήκες σταφίδας Αιγίου",
+                  "text": "Ruinele vechilor depozite de stafide din Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Παναγία Τρυπητή",
+                  "text": "O biserică construită într-o stâncă în Aigio, dedicată Fecioarei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αιγίου",
+                  "text": "Archaeological museum in Aigio exhibiting finds from the local region.",
+                  "category": "museum",
+                  "coords": [
+                        22.08781,
+                        38.252695
+                  ]
+            },
+            {
+                  "name": "Aliki (Aigio)",
+                  "text": "Aliki nature reserve near Aigio, known for its lagoon and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        22.110609,
+                        38.261091
+                  ]
+            },
+            {
+                  "name": "Φάρος Αιγίου",
+                  "text": "Historic lighthouse located in the port of Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.083189,
+                        38.254349
+                  ]
+            },
+            {
+                  "name": "The Municipal, Historical and Folklore Museum of Egion",
+                  "text": "Museum in Aigio dedicated to local history and folklore.",
+                  "category": "museum",
+                  "coords": [
+                        22.085442,
+                        38.251966
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Παναγιωτόπουλου",
+                  "text": "Archaeological site of the Panagiotopoulos mansion in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.086528,
+                        38.25124
+                  ]
+            },
+            {
+                  "name": "Aνοιχτό Aμφιθέατρο",
+                  "text": "Open amphitheatre for cultural events in Aigio.",
+                  "category": "cultural",
+                  "coords": [
+                        22.08063,
+                        38.251953
+                  ]
+            },
+            {
+                  "name": "Οικία Κλασικών Χρόνων",
+                  "text": "Archaeological site of a house from the classical period in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.080523,
+                        38.249207
+                  ]
+            },
+            {
+                  "name": "Παραλία Αλυκή",
+                  "text": "Popular beach located near the Aliki nature reserve in Aigio.",
+                  "category": "recreational",
+                  "coords": [
+                        22.100685,
+                        38.260759
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κουλούρας",
+                  "text": "Folklore museum located in the Kouloura district of Aigio.",
+                  "category": "museum",
+                  "coords": [
+                        22.086656,
+                        38.241062
+                  ]
+            },
+            {
+                  "name": "Aliki",
+                  "text": "Aliki nature reserve located near Aigio.",
+                  "category": "natural",
+                  "coords": [
+                        22.107573,
+                        38.263968
+                  ]
+            },
+            {
+                  "name": "The 12 Springs",
+                  "text": "The 12 Springs, a local tourist attraction in Aigio.",
+                  "category": "landmark",
+                  "coords": [
+                        22.086188,
+                        38.253931
+                  ]
+            },
+            {
+                  "name": "Παλιές Αποθήκες σταφίδας Αιγίου",
+                  "text": "Ruins of the old raisin warehouses in Aigio.",
+                  "category": "historical",
+                  "coords": [
+                        22.088082,
+                        38.253993
+                  ]
+            },
+            {
+                  "name": "Panagia Trypiti",
+                  "text": "A church built into a cliffside in Aigio, dedicated to the Virgin Mary.",
+                  "category": "religious",
+                  "coords": [
+                        22.077794,
+                        38.253279
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-G",
     coords: [22.0831, 38.2536],
@@ -129,7 +1164,196 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Aigio était dans l'Antiquité le centre religieux de la Ligue achéenne.", "L'église Panagia Tripiti est construite dans une paroi rocheuse de 30 mètres de haut.", "Le platane sur le port est considéré comme l'un des plus vieux arbres de la région.", "En 1817, la ville fut presque entièrement détruite par un tremblement de terre.", "Aigio est le principal point d'exportation pour le raisin de Corinthe de qualité 'Vostizza'.", "La ville possède l'un des ports naturels les plus profonds du golfe de Corinthe."],
     }, image: "/poi-images/city-aigio-extra.webp"},
   {
-    id: "city-megara-extra",
+    id: "city-megara-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μνημείο Βασιλιά Καρός",
+                  "text": "Eine antike Grabstätte in der Region Megara, die mit der Figur des Kar verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        23.330689,
+                        37.978373
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Μεγάρων",
+                  "text": "Ein Museum mit archäologischen Exponaten aus der antiken Stadt Megara.",
+                  "category": "museum",
+                  "coords": [
+                        23.345752,
+                        37.997249
+                  ]
+            },
+            {
+                  "name": "Λόφος Παλαιόκαστρο",
+                  "text": "Ein Hügel bei Megara mit archäologischen Überresten antiker Befestigungsanlagen.",
+                  "category": "historical",
+                  "coords": [
+                        23.354545,
+                        37.978485
+                  ]
+            },
+            {
+                  "name": "Κρήνη Θεαγένους",
+                  "text": "Die Ruinen eines bedeutenden antiken Brunnenhauses aus dem 5. Jahrhundert v. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        23.343996,
+                        37.998632
+                  ]
+            },
+            {
+                  "name": "Στρατουδάκειο Πολιτιστικό Κέντρο",
+                  "text": "Ein lokales Kulturzentrum in Megara für Ausstellungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        23.351355,
+                        37.999048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μνημείο Βασιλιά Καρός",
+                  "text": "Ókori sírhely Megara régiójában, amely Kar alakjához kötődik.",
+                  "category": "historical",
+                  "coords": [
+                        23.330689,
+                        37.978373
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Μεγάρων",
+                  "text": "Megara ókori városának régészeti leleteit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.345752,
+                        37.997249
+                  ]
+            },
+            {
+                  "name": "Λόφος Παλαιόκαστρο",
+                  "text": "Megara melletti domb ókori erődítmények régészeti maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        23.354545,
+                        37.978485
+                  ]
+            },
+            {
+                  "name": "Κρήνη Θεαγένους",
+                  "text": "Egy jelentős, i. e. 5. századi ókori kutas ház romjai.",
+                  "category": "historical",
+                  "coords": [
+                        23.343996,
+                        37.998632
+                  ]
+            },
+            {
+                  "name": "Στρατουδάκειο Πολιτιστικό Κέντρο",
+                  "text": "Megara helyi kulturális központja kiállítások és események számára.",
+                  "category": "cultural",
+                  "coords": [
+                        23.351355,
+                        37.999048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μνημείο Βασιλιά Καρός",
+                  "text": "Un sit funerar antic în regiunea Megara, asociat cu figura lui Kar.",
+                  "category": "historical",
+                  "coords": [
+                        23.330689,
+                        37.978373
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Μεγάρων",
+                  "text": "Un muzeu care găzduiește exponate arheologice din orașul antic Megara.",
+                  "category": "museum",
+                  "coords": [
+                        23.345752,
+                        37.997249
+                  ]
+            },
+            {
+                  "name": "Λόφος Παλαιόκαστρο",
+                  "text": "Un deal lângă Megara cu vestigii arheologice ale fortificațiilor antice.",
+                  "category": "historical",
+                  "coords": [
+                        23.354545,
+                        37.978485
+                  ]
+            },
+            {
+                  "name": "Κρήνη Θεαγένους",
+                  "text": "Ruinele unei importante fântâni antice datând din secolul al V-lea î.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        23.343996,
+                        37.998632
+                  ]
+            },
+            {
+                  "name": "Στρατουδάκειο Πολιτιστικό Κέντρο",
+                  "text": "Un centru cultural local din Megara pentru expoziții și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        23.351355,
+                        37.999048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tomb of Kar (Megarid)",
+                  "text": "An ancient burial site in the Megara region, associated with the figure of Kar.",
+                  "category": "historical",
+                  "coords": [
+                        23.330689,
+                        37.978373
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Μεγάρων",
+                  "text": "A museum housing archaeological exhibits from the ancient city of Megara.",
+                  "category": "museum",
+                  "coords": [
+                        23.345752,
+                        37.997249
+                  ]
+            },
+            {
+                  "name": "Λόφος Παλαιόκαστρο",
+                  "text": "A hill near Megara featuring archaeological remains of ancient fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        23.354545,
+                        37.978485
+                  ]
+            },
+            {
+                  "name": "Theagenes Fountain",
+                  "text": "The ruins of a significant ancient fountain house dating from the 5th century BC.",
+                  "category": "historical",
+                  "coords": [
+                        23.343996,
+                        37.998632
+                  ]
+            },
+            {
+                  "name": "Στρατουδάκειο Πολιτιστικό Κέντρο",
+                  "text": "A local cultural center in Megara for exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        23.351355,
+                        37.999048
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-I",
     coords: [23.3422, 37.9958],
@@ -171,7 +1395,1384 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Des colons de Mégare fondèrent la ville de Byzance vers 667 av. J.-C.", "L'aqueduc de Théagène, datant du Ve siècle av. J.-C., est encore partiellement visible.", "Mégare possède deux ports sur deux bras de mer différents.", "La ville est l'un des plus grands producteurs d'œufs de toute la Grèce.", "Le philosophe Euclide de Mégare était un disciple important de Socrate.", "Pachi est le pittoresque port de pêche de Mégare surplombant le golfe Saronique."],
     }, image: "/poi-images/city-megara-extra.webp"},
   {
-    id: "city-chalcis-extra",
+    id: "city-chalcis-extra", "sights": {
+      "de": [
+            {
+                  "name": "Υψηλή Γέφυρα Ευρίπου",
+                  "text": "Υψηλή Γέφυρα Ευρίπου ist eine markante Brücke in der Stadt Chalkida. Es handelt sich um eine bekannte Schrägseilbrücke über die Euripos-Straße.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας",
+                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας ist ein Museum in der Stadt Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Χαλκίδας",
+                  "text": "Λαογραφικό Μουσείο Χαλκίδας ist ein Museum in der Stadt Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Κάστρο Καράμπαμπα",
+                  "text": "Castle Karampampas ist eine Burg in der Stadt Chalkida.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "Die Sirena of Chalkida ist ein Denkmal in der Stadt Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Νικόλαου Σελέντη",
+                  "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη ist ein Denkmal in der Stadt Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Δημαρχείο Χαλκίδας",
+                  "text": "Δημαρχείο Χαλκίδας ist ein Rathaus in der Stadt Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα»",
+                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» ist ein Museum in der Stadt Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Κάστρο Καράμπαμπα (Συλλογή Γλυπτών)",
+                  "text": "Die Festung Karababa beherbergt eine Skulpturensammlung in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη \"Δημήτρης Μυταράς\"",
+                  "text": "Die Städtische Kunstgalerie Dimitris Mytaras ist eine kulturelle Einrichtung in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Γυμνάσιο ή Ρωμαϊκή Παλαίστρα",
+                  "text": "Diese archäologische Stätte zeigt die Überreste eines antiken Gymnasiums oder einer römischen Palästra.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Αρχαία λαξευτή κλίμακα της Αρέθουσας",
+                  "text": "Die antike, in den Fels gehauene Treppe der Arethusa ist eine bemerkenswerte historische Stätte in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Τάφος Γιάννη Σκαρίμπα",
+                  "text": "Dieses Denkmal markiert die Ruhestätte des griechischen Schriftstellers Giannis Skarimpas.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Άγαλμα Λέλα Καραγιάννη",
+                  "text": "Diese Statue ehrt Lela Karagianni, eine herausragende Figur des griechischen Widerstands.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "Die Gedenkfackel ist ein öffentliches Denkmal in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Οθωμανική Πηγή",
+                  "text": "Dieser historische osmanische Brunnen ist ein erhaltenes Denkmal aus der Vergangenheit Chalkidas.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Αγία Παρασκευή",
+                  "text": "Agia Paraskevi ist ein bedeutendes historisches Denkmal und eine Kirche in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Μνημείο Υποσμηναγού Ιωακείμ Παντελάκη",
+                  "text": "Dieses Denkmal ist dem Gedenken an den Oberleutnant Ioakeim Pantelakis gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Παντελεήμων Κριεζής",
+                  "text": "Dieses Denkmal erinnert an den griechischen Seehelden und Politiker Pantoleon Kriezis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Όσιος Δαυίδ",
+                  "text": "Dieses Denkmal in Chalkida ist dem verehrten Heiligen David gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Προτομή του Σαραφιανιού Κ. Σαραφιανού",
+                  "text": "Diese skulpturale Büste erinnert an Sarafianos K. Sarafianos.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Μέγαρο Λυκείου των Ελληνίδων",
+                  "text": "Das Gebäude des Lyzeums der griechischen Frauen ist ein anerkanntes historisches Denkmal in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "Ο Τάφος του Μπαταριά",
+                  "text": "Dieses Denkmal markiert das historische Grab von Batarias in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Προτομή",
+                  "text": "Diese skulpturale Büste ist ein öffentliches Denkmal in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Προτομή Θεόδωρου Κολοκοτρώνη",
+                  "text": "Dieses Denkmal zeigt eine Büste des berühmten griechischen Generals Theodoros Kolokotronis.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Χριστόφ.Σταματιάδη",
+                  "text": "Diese Büste gedenkt des Metropoliten Christoforos Stamatiadis in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Μνημείο Μικρασιατικής Καταστροφής 1922",
+                  "text": "Dieses Denkmal ist dem Gedenken an die kleinasiatische Katastrophe von 1922 gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "θέατρο Κωτσόπουλου",
+                  "text": "Das Kotsopoulos-Theater bietet kulturelle Aufführungen und Veranstaltungen in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Θέατρο Παπαδημητρίου",
+                  "text": "Das Papadimitriou-Theater ist ein zentraler Veranstaltungsort für darstellende Künste in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Όρμος Μικρό Βαθύ",
+                  "text": "Ormos Mikro Vathy dient als malerischer Veranstaltungsort an der Bucht in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Φάρος \"Κακιάς Κεφαλής\"",
+                  "text": "Der Leuchtturm Kakia Kefali ist ein historisches Seezeichen für Schiffe in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαλκίδας",
+                  "text": "Die Promenade von Chalkida ist eine lebhafte Küstenattraktion, die bei Einheimischen und Besuchern beliebt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "Diese Holzbrücke ist eine malerische Attraktion, die Teile von Chalkida verbindet.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Ξυλοφάναρο",
+                  "text": "Die Holzlaterne ist eine einzigartig gestaltete lokale Attraktion in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Προβλήτα Κύκνου",
+                  "text": "Der Kyknos-Pier bietet einen ruhigen Aussichtspunkt über die Gewässer von Chalkida.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "Plaz Asteria ist ein beliebter Küstenstrand zum Schwimmen und Entspannen in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Σουβάλα",
+                  "text": "Souvala ist ein entspannender lokaler Strand an der Küste von Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Παραλία Φάρου",
+                  "text": "Der Leuchtturm-Strand bietet einen malerischen Ort am Meer für Besucher in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Υψηλή Γέφυρα Ευρίπου",
+                  "text": "A Υψηλή Γέφυρα Ευρίπου egy kiemelkedő híd Chalkida városában. Ez egy jól ismert ferdekábeles híd, amely az Euripusz-szoroson ível át.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας",
+                  "text": "A Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας egy múzeum Chalkida városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Χαλκίδας",
+                  "text": "A Λαογραφικό Μουσείο Χαλκίδας egy múzeum Chalkida városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Κάστρο Καράμπαμπα",
+                  "text": "A Castle Karampampas egy kastély Chalkida városában.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "A Sirena of Chalkida egy emlékmű Chalkida városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Νικόλαου Σελέντη",
+                  "text": "A Προτομή Μητροπολίτη Νικόλαου Σελέντη egy emlékmű Chalkida városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Δημαρχείο Χαλκίδας",
+                  "text": "A Δημαρχείο Χαλκίδας egy városháza Chalkida városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα»",
+                  "text": "Az Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» egy múzeum Chalkida városában.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Κάστρο Καράμπαμπα (Συλλογή Γλυπτών)",
+                  "text": "A Karababa-erőd egy szoborgyűjteménynek ad otthont Halkídában.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη \"Δημήτρης Μυταράς\"",
+                  "text": "A Dimitrisz Mytarasz Városi Művészeti Galéria egy kulturális intézmény Halkídában.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Γυμνάσιο ή Ρωμαϊκή Παλαίστρα",
+                  "text": "Ez a régészeti lelőhely egy ókori gümnaszion vagy római palaestra romjait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Αρχαία λαξευτή κλίμακα της Αρέθουσας",
+                  "text": "Arethusza ókori, faragott lépcsője egy figyelemre méltó történelmi helyszín Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Τάφος Γιάννη Σκαρίμπα",
+                  "text": "Ez az emlékmű a görög író, Giannisz Szkarimbasz végső nyughelyét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Άγαλμα Λέλα Καραγιάννη",
+                  "text": "Ez a szobor Lela Karajáni, a görög ellenállás kiemelkedő alakja előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "Az Emlékláng egy köztéri emlékmű Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Οθωμανική Πηγή",
+                  "text": "Ez a történelmi oszmán kút egy fennmaradt műemlék Halkída múltjából.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Αγία Παρασκευή",
+                  "text": "Az Agia Paraszkevi egy jelentős történelmi műemlék és templom Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Μνημείο Υποσμηναγού Ιωακείμ Παντελάκη",
+                  "text": "Ezt az emlékművet Joakim Pantelakisz repülő főhadnagy emlékének szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Παντελεήμων Κριεζής",
+                  "text": "Ez az emlékmű a görög tengerészeti hős és politikus, Pantoleon Kriezisz emléke előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Όσιος Δαυίδ",
+                  "text": "Ez a halkídai emlékmű a tiszteletreméltó Szent Dávidnak van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Προτομή του Σαραφιανιού Κ. Σαραφιανού",
+                  "text": "Ez a szobor Szarafianosz K. Szarafianosz emléke előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Μέγαρο Λυκείου των Ελληνίδων",
+                  "text": "A Görög Nők Líceumi Klubjának épülete egy elismert történelmi műemlék Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "Ο Τάφος του Μπαταριά",
+                  "text": "Ez az emlékmű a történelmi Batariasz-sírt jelöli Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Προτομή",
+                  "text": "Ez a faragott mellszobor egy köztéri emlékmű Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Προτομή Θεόδωρου Κολοκοτρώνη",
+                  "text": "Ez az emlékmű a híres görög tábornok, Theodorosz Kolokotronisz mellszobrát ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Χριστόφ.Σταματιάδη",
+                  "text": "Ez a mellszobor Hrisztoforosz Sztamatiadisz metropolita emléke előtt tiszteleg Halkídában.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Μνημείο Μικρασιατικής Καταστροφής 1922",
+                  "text": "Ezt az emlékművet az 1922-es kisázsiai katasztrófa emlékének szentelték.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "θέατρο Κωτσόπουλου",
+                  "text": "A Kotszopulosz Színház kulturális előadásokat és rendezvényeket kínál Halkídában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Θέατρο Παπαδημητρίου",
+                  "text": "A Papadimitriu Színház az előadóművészetek központi helyszíne Halkídában.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Όρμος Μικρό Βαθύ",
+                  "text": "Az Ormosz Mikro Vathi egy festői rendezvényhelyszínként szolgál a halkídai öbölben.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Φάρος \"Κακιάς Κεφαλής\"",
+                  "text": "A Kakia Kefali világítótorony egy történelmi tengerészeti jelzőfény, amely hajókat irányít Halkídában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαλκίδας",
+                  "text": "A halkídai sétány egy nyüzsgő tengerparti látványosság, amely népszerű a helyiek és a látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "Ez a fahíd egy festői látványosság, amely Halkída részeit köti össze.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Ξυλοφάναρο",
+                  "text": "A Falámpa egy egyedi tervezésű helyi látványosság Halkídában.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Προβλήτα Κύκνου",
+                  "text": "A Kiknosz móló nyugodt kilátást nyújt Halkída vizeire.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "A Plaz Asteria egy népszerű tengerparti strand fürdőzéshez és pihenéshez Halkídában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Σουβάλα",
+                  "text": "A Szouvala egy pihentető helyi strand, amely Halkída partvidékén fekszik.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Παραλία Φάρου",
+                  "text": "A Világítótorony-strand festői tengerparti helyszínt kínál a látogatóknak Halkídában.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Υψηλή Γέφυρα Ευρίπου",
+                  "text": "Υψηλή Γέφυρα Ευρίπου este un pod proeminent situat în Chalkida. Este un pod hobanat bine-cunoscut care traversează strâmtoarea Euripus.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας",
+                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας este un muzeu situat în orașul Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Χαλκίδας",
+                  "text": "Λαογραφικό Μουσείο Χαλκίδας este un muzeu situat în orașul Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Κάστρο Καράμπαμπα",
+                  "text": "Castle Karampampas este un castel situat în orașul Chalkida.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "Sirena of Chalkida este un monument situat în orașul Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Νικόλαου Σελέντη",
+                  "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη este un monument situat în orașul Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Δημαρχείο Χαλκίδας",
+                  "text": "Δημαρχείο Χαλκίδας este o primărie situată în orașul Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα»",
+                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» este un muzeu situat în orașul Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Κάστρο Καράμπαμπα (Συλλογή Γλυπτών)",
+                  "text": "Castelul Karababa găzduiește o colecție de sculpturi în Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη \"Δημήτρης Μυταράς\"",
+                  "text": "Galeria de Artă Municipală Dimitris Mytaras este o instituție culturală din Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Γυμνάσιο ή Ρωμαϊκή Παλαίστρα",
+                  "text": "Acest sit arheologic prezintă ruinele unui vechi gimnaziu sau ale unei palestre romane.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Αρχαία λαξευτή κλίμακα της Αρέθουσας",
+                  "text": "Scara antică sculptată din Arethusa este un sit istoric notabil din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Τάφος Γιάννη Σκαρίμπα",
+                  "text": "Acest monument marchează locul de veci al scriitorului grec Giannis Skarimpas.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Άγαλμα Λέλα Καραγιάννη",
+                  "text": "Această statuie o onorează pe Lela Karagianni, o figură proeminentă a rezistenței elene.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "Torța Memorială este un monument public comemorativ situat în Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Οθωμανική Πηγή",
+                  "text": "Această fântână otomană istorică este un monument care a supraviețuit din trecutul orașului Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Αγία Παρασκευή",
+                  "text": "Agia Paraskevi este un monument istoric și o biserică importantă din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Μνημείο Υποσμηναγού Ιωακείμ Παντελάκη",
+                  "text": "Acest monument este dedicat memoriei locotenentului de aviație Ioakeim Pantelakis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Παντελεήμων Κριεζής",
+                  "text": "Acest monument îl comemorează pe eroul naval și politicianul grec Pantoleon Kriezis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Όσιος Δαυίδ",
+                  "text": "Acest monument din Chalkida este dedicat veneratului Sfânt David.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Προτομή του Σαραφιανιού Κ. Σαραφιανού",
+                  "text": "Acest bust sculptural îl comemorează pe Sarafianos K. Sarafianos.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Μέγαρο Λυκείου των Ελληνίδων",
+                  "text": "Clădirea Clubului Liceului Femeilor Elene este un monument istoric recunoscut din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "Ο Τάφος του Μπαταριά",
+                  "text": "Acest monument marchează mormântul istoric al lui Batarias din Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Προτομή",
+                  "text": "Acest bust sculptural este un monument public situat în Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Προτομή Θεόδωρου Κολοκοτρώνη",
+                  "text": "Acest monument prezintă un bust al celebrului general grec Theodoros Kolokotronis.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Χριστόφ.Σταματιάδη",
+                  "text": "Acest bust îl comemorează pe Mitropolitul Christoforos Stamatiadis în Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Μνημείο Μικρασιατικής Καταστροφής 1922",
+                  "text": "Acest monument este dedicat memoriei Dezastrului din Asia Mică din 1922.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "θέατρο Κωτσόπουλου",
+                  "text": "Teatrul Kotsopoulos oferă spectacole și evenimente culturale în Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Θέατρο Παπαδημητρίου",
+                  "text": "Teatrul Papadimitriou este un loc central pentru artele spectacolului în Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Όρμος Μικρό Βαθύ",
+                  "text": "Ormos Mikro Vathy servește ca un loc pitoresc pentru evenimente lângă golful din Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Φάρος \"Κακιάς Κεφαλής\"",
+                  "text": "Farul Kakia Kefali este un far maritim istoric care ghidează navele din Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαλκίδας",
+                  "text": "Faleza din Chalkida este o atracție de coastă plină de viață, populară printre localnici și vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "Această punte din lemn este o atracție pitorească ce conectează părți din Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Ξυλοφάναρο",
+                  "text": "Lanterna de Lemn este o atracție locală cu un design unic în Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Προβλήτα Κύκνου",
+                  "text": "Debarcaderul Kyknos oferă un punct de belvedere liniștit asupra apelor din Chalkida.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "Plaz Asteria este o plajă de coastă populară pentru înot și relaxare în Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Σουβάλα",
+                  "text": "Souvala este o plajă locală relaxantă situată de-a lungul coastei din Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Παραλία Φάρου",
+                  "text": "Plaja Farului oferă un loc pitoresc la malul mării pentru vizitatorii din Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Υψηλή Γέφυρα Ευρίπου",
+                  "text": "Υψηλή Γέφυρα Ευρίπου is a prominent bridge located in Chalkida. It is a well-known cable-stayed bridge that crosses the Euripus Strait.",
+                  "category": "landmark",
+                  "coords": [
+                        23.590874,
+                        38.444937
+                  ]
+            },
+            {
+                  "name": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας",
+                  "text": "Παλαιό Αρχαιολογικό Μουσείο Χαλκίδας is a museum located in the city of Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.59401,
+                        38.462964
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Χαλκίδας",
+                  "text": "Λαογραφικό Μουσείο Χαλκίδας is a museum located in the city of Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.593375,
+                        38.459899
+                  ]
+            },
+            {
+                  "name": "Castle Karampampas",
+                  "text": "Castle Karampampas is a castle located in the city of Chalkida.",
+                  "category": "castle",
+                  "coords": [
+                        23.584352,
+                        38.465192
+                  ]
+            },
+            {
+                  "name": "Sirena of Chalkida",
+                  "text": "The Sirena of Chalkida is a monument located in the city of Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.596686,
+                        38.463314
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Νικόλαου Σελέντη",
+                  "text": "Προτομή Μητροπολίτη Νικόλαου Σελέντη is a monument located in the city of Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594285,
+                        38.465351
+                  ]
+            },
+            {
+                  "name": "Δημαρχείο Χαλκίδας",
+                  "text": "Δημαρχείο Χαλκίδας is a town hall located in the city of Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.592638,
+                        38.465053
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα»",
+                  "text": "Αρχαιολογικό Μουσείο Χαλκίδας «Αρέθουσα» is a museum located in the city of Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.610305,
+                        38.457472
+                  ]
+            },
+            {
+                  "name": "Karababa Castle (Sculpture Collection)",
+                  "text": "Karababa Castle houses a sculpture collection in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.583184,
+                        38.465288
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη \"Δημήτρης Μυταράς\"",
+                  "text": "The Dimitris Mytaras Municipal Art Gallery is a cultural institution in Chalkida.",
+                  "category": "museum",
+                  "coords": [
+                        23.590324,
+                        38.460028
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Γυμνάσιο ή Ρωμαϊκή Παλαίστρα",
+                  "text": "This archaeological site features the remains of an ancient gymnasium or Roman palaestra.",
+                  "category": "historical",
+                  "coords": [
+                        23.604558,
+                        38.460752
+                  ]
+            },
+            {
+                  "name": "Αρχαία λαξευτή κλίμακα της Αρέθουσας",
+                  "text": "The ancient carved staircase of Arethusa is a notable historical site in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.613512,
+                        38.453238
+                  ]
+            },
+            {
+                  "name": "Τάφος Γιάννη Σκαρίμπα",
+                  "text": "This monument marks the resting place of the Greek writer Giannis Skarimpas.",
+                  "category": "historical",
+                  "coords": [
+                        23.585592,
+                        38.464836
+                  ]
+            },
+            {
+                  "name": "Άγαλμα Λέλα Καραγιάννη",
+                  "text": "This statue honors Lela Karagianni, a prominent figure in the Greek resistance.",
+                  "category": "historical",
+                  "coords": [
+                        23.592964,
+                        38.466235
+                  ]
+            },
+            {
+                  "name": "Memorial Torch",
+                  "text": "The Memorial Torch is a commemorative public monument located in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.58977,
+                        38.461888
+                  ]
+            },
+            {
+                  "name": "Οθωμανική Πηγή",
+                  "text": "This historic Ottoman fountain is a surviving monument from Chalkida's past.",
+                  "category": "historical",
+                  "coords": [
+                        23.591376,
+                        38.46147
+                  ]
+            },
+            {
+                  "name": "Αγία Παρασκευή",
+                  "text": "Agia Paraskevi is a significant historical monument and church in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588794,
+                        38.462858
+                  ]
+            },
+            {
+                  "name": "Μνημείο Υποσμηναγού Ιωακείμ Παντελάκη",
+                  "text": "This monument is dedicated to the memory of Flight Lieutenant Ioakeim Pantelakis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591303,
+                        38.474224
+                  ]
+            },
+            {
+                  "name": "Παντελεήμων Κριεζής",
+                  "text": "This monument commemorates the Greek naval hero and politician Pantoleon Kriezis.",
+                  "category": "historical",
+                  "coords": [
+                        23.591445,
+                        38.460306
+                  ]
+            },
+            {
+                  "name": "Όσιος Δαυίδ",
+                  "text": "This monument in Chalkida is dedicated to the revered Saint David.",
+                  "category": "historical",
+                  "coords": [
+                        23.599365,
+                        38.469223
+                  ]
+            },
+            {
+                  "name": "Προτομή του Σαραφιανιού Κ. Σαραφιανού",
+                  "text": "This sculptural bust commemorates Sarafianos K. Sarafianos.",
+                  "category": "historical",
+                  "coords": [
+                        23.596684,
+                        38.464346
+                  ]
+            },
+            {
+                  "name": "Μέγαρο Λυκείου των Ελληνίδων",
+                  "text": "The Lyceum Club of Greek Women building is a recognized historic monument in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.594307,
+                        38.468114
+                  ]
+            },
+            {
+                  "name": "Ο Τάφος του Μπαταριά",
+                  "text": "This monument marks the historic tomb of Batarias in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.603116,
+                        38.454676
+                  ]
+            },
+            {
+                  "name": "Προτομή",
+                  "text": "This sculptural bust is a public monument located in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.598464,
+                        38.464357
+                  ]
+            },
+            {
+                  "name": "Προτομή Θεόδωρου Κολοκοτρώνη",
+                  "text": "This monument features a bust of the famous Greek general Theodoros Kolokotronis.",
+                  "category": "historical",
+                  "coords": [
+                        23.609704,
+                        38.471405
+                  ]
+            },
+            {
+                  "name": "Προτομή Μητροπολίτη Χριστόφ.Σταματιάδη",
+                  "text": "This bust commemorates Metropolitan Christoforos Stamatiadis in Chalkida.",
+                  "category": "historical",
+                  "coords": [
+                        23.588325,
+                        38.468895
+                  ]
+            },
+            {
+                  "name": "Μνημείο Μικρασιατικής Καταστροφής 1922",
+                  "text": "This monument is dedicated to the memory of the 1922 Asia Minor Disaster.",
+                  "category": "historical",
+                  "coords": [
+                        23.601751,
+                        38.468042
+                  ]
+            },
+            {
+                  "name": "θέατρο Κωτσόπουλου",
+                  "text": "The Kotsopoulos Theatre offers cultural performances and events in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.596754,
+                        38.469508
+                  ]
+            },
+            {
+                  "name": "Θέατρο Παπαδημητρίου",
+                  "text": "The Papadimitriou Theatre is a central venue for performing arts in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.594119,
+                        38.46113
+                  ]
+            },
+            {
+                  "name": "Όρμος Μικρό Βαθύ",
+                  "text": "Ormos Mikro Vathy serves as a scenic venue for events by the bay in Chalkida.",
+                  "category": "cultural",
+                  "coords": [
+                        23.595819,
+                        38.435549
+                  ]
+            },
+            {
+                  "name": "Φάρος \"Κακιάς Κεφαλής\"",
+                  "text": "The Kakia Kefali Lighthouse is a historic maritime beacon guiding ships in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.603713,
+                        38.476658
+                  ]
+            },
+            {
+                  "name": "Παραλία Χαλκίδας",
+                  "text": "The Chalkida Promenade is a lively coastal attraction popular with locals and visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591106,
+                        38.463803
+                  ]
+            },
+            {
+                  "name": "Wooden Bridge",
+                  "text": "This wooden bridge is a picturesque attraction connecting parts of Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587058,
+                        38.467188
+                  ]
+            },
+            {
+                  "name": "Ξυλοφάναρο",
+                  "text": "The Wooden Lantern is a uniquely designed local attraction in Chalkida.",
+                  "category": "landmark",
+                  "coords": [
+                        23.591685,
+                        38.472876
+                  ]
+            },
+            {
+                  "name": "Προβλήτα Κύκνου",
+                  "text": "The Kyknos Pier provides a tranquil viewpoint over the waters of Chalkida.",
+                  "category": "natural",
+                  "coords": [
+                        23.588655,
+                        38.464651
+                  ]
+            },
+            {
+                  "name": "Plaz \"Asteria\"",
+                  "text": "Plaz Asteria is a popular coastal beach for swimming and relaxation in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.588182,
+                        38.466392
+                  ]
+            },
+            {
+                  "name": "Souvala",
+                  "text": "Souvala is a relaxing local beach situated along the coast of Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.595615,
+                        38.468705
+                  ]
+            },
+            {
+                  "name": "Παραλία Φάρου",
+                  "text": "Lighthouse Beach offers a scenic seaside spot for visitors in Chalkida.",
+                  "category": "recreational",
+                  "coords": [
+                        23.602951,
+                        38.473927
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-H",
     coords: [23.5960, 38.4626],
@@ -213,7 +2814,304 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le courant dans le canal de l'Euripe atteint des vitesses allant jusqu'à 12 km/h.", "Le pont moderne de Chalcis a été inauguré en 1993.", "Chalcis a fondé la ville de Naxos en Sicile au VIIIe siècle av. J.-C.", "La forteresse de Karababa a été construite en 1684 par les Ottomans pour se défendre contre les Vénitiens.", "Aristote serait mort à Chalcis alors qu'il étudiait le phénomène de l'Euripe.", "L'ancien pont au centre est un type rare de pont roulant ou coulissant."],
     }, image: "/poi-images/city-chalcis-extra.webp"},
   {
-    id: "city-thebes-extra",
+    id: "city-thebes-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Θηβών",
+                  "text": "Eines der bedeutendsten archäologischen Museen Griechenlands in Theben.",
+                  "category": "museum",
+                  "coords": [
+                        23.317215,
+                        38.323829
+                  ]
+            },
+            {
+                  "name": "Μεσαιωνικά τείχη Θήβας",
+                  "text": "Reste der mittelalterlichen Befestigungsanlagen von Theben.",
+                  "category": "castle",
+                  "coords": [
+                        23.317615,
+                        38.317301
+                  ]
+            },
+            {
+                  "name": "Οιδιπόδεια Κρήνη",
+                  "text": "Ödipus-Quelle, eine archäologische Stätte mit mythologischer Bedeutung in Theben.",
+                  "category": "historical",
+                  "coords": [
+                        23.324318,
+                        38.32428
+                  ]
+            },
+            {
+                  "name": "Τάφος του Ζύθου και του Αμφίονα",
+                  "text": "Archäologische Stätte, die als Grab der mythischen Gründer Thébens gilt.",
+                  "category": "historical",
+                  "coords": [
+                        23.31739,
+                        38.325442
+                  ]
+            },
+            {
+                  "name": "Μεγάλο Καστέλι",
+                  "text": "Archäologische Stätte Megalo Kastelli in der Stadt Theben.",
+                  "category": "historical",
+                  "coords": [
+                        23.32226,
+                        38.321243
+                  ]
+            },
+            {
+                  "name": "Θέατρο Μοσχοποδίου \"Μελίνα Μερκούρη\"",
+                  "text": "Freilichttheater Melina Mercouri in Moschopodi bei Theben.",
+                  "category": "cultural",
+                  "coords": [
+                        23.341186,
+                        38.312535
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo Ismenios",
+                  "text": "Ruinen des antiken Heiligtums des Apollo Ismenios in Theben.",
+                  "category": "historical",
+                  "coords": [
+                        23.322464,
+                        38.316476
+                  ]
+            },
+            {
+                  "name": "Κρήνη της Δίρκης",
+                  "text": "Überreste der antiken Dirke-Quelle in Theben.",
+                  "category": "historical",
+                  "coords": [
+                        23.314296,
+                        38.318289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Θηβών",
+                  "text": "Görögország egyik legfontosabb régészeti múzeuma Thébában.",
+                  "category": "museum",
+                  "coords": [
+                        23.317215,
+                        38.323829
+                  ]
+            },
+            {
+                  "name": "Μεσαιωνικά τείχη Θήβας",
+                  "text": "Théba középkori erődítményeinek maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        23.317615,
+                        38.317301
+                  ]
+            },
+            {
+                  "name": "Οιδιπόδεια Κρήνη",
+                  "text": "Oidipusz-kút, mitológiai jelentőségű régészeti helyszín Thébában.",
+                  "category": "historical",
+                  "coords": [
+                        23.324318,
+                        38.32428
+                  ]
+            },
+            {
+                  "name": "Τάφος του Ζύθου και του Αμφίονα",
+                  "text": "Théba mitikus alapítóinak sírjaként számon tartott régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        23.31739,
+                        38.325442
+                  ]
+            },
+            {
+                  "name": "Μεγάλο Καστέλι",
+                  "text": "Megalo Kastelli régészeti lelőhely Théba városában.",
+                  "category": "historical",
+                  "coords": [
+                        23.32226,
+                        38.321243
+                  ]
+            },
+            {
+                  "name": "Θέατρο Μοσχοποδίου \"Μελίνα Μερκούρη\"",
+                  "text": "Melina Mercouri szabadtéri színház Moschopodiban, Théba közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        23.341186,
+                        38.312535
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo Ismenios",
+                  "text": "Az Iszméniosz Apollón ókori szentélyének romjai Thébában.",
+                  "category": "historical",
+                  "coords": [
+                        23.322464,
+                        38.316476
+                  ]
+            },
+            {
+                  "name": "Κρήνη της Δίρκης",
+                  "text": "Az ókori Dirké-forrás maradványai Thébában.",
+                  "category": "historical",
+                  "coords": [
+                        23.314296,
+                        38.318289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Θηβών",
+                  "text": "Unul dintre cele mai importante muzee arheologice din Grecia, situat în Teba.",
+                  "category": "museum",
+                  "coords": [
+                        23.317215,
+                        38.323829
+                  ]
+            },
+            {
+                  "name": "Μεσαιωνικά τείχη Θήβας",
+                  "text": "Rămășițele fortificațiilor medievale ale Tebei.",
+                  "category": "castle",
+                  "coords": [
+                        23.317615,
+                        38.317301
+                  ]
+            },
+            {
+                  "name": "Οιδιπόδεια Κρήνη",
+                  "text": "Fântâna lui Oedip, un sit arheologic cu semnificație mitologică în Teba.",
+                  "category": "historical",
+                  "coords": [
+                        23.324318,
+                        38.32428
+                  ]
+            },
+            {
+                  "name": "Τάφος του Ζύθου και του Αμφίονα",
+                  "text": "Sit arheologic considerat mormântul fondatorilor mitici ai Tebei.",
+                  "category": "historical",
+                  "coords": [
+                        23.31739,
+                        38.325442
+                  ]
+            },
+            {
+                  "name": "Μεγάλο Καστέλι",
+                  "text": "Situl arheologic Megalo Kastelli din orașul Teba.",
+                  "category": "historical",
+                  "coords": [
+                        23.32226,
+                        38.321243
+                  ]
+            },
+            {
+                  "name": "Θέατρο Μοσχοποδίου \"Μελίνα Μερκούρη\"",
+                  "text": "Teatrul în aer liber Melina Mercouri din Moschopodi, lângă Teba.",
+                  "category": "cultural",
+                  "coords": [
+                        23.341186,
+                        38.312535
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo Ismenios",
+                  "text": "Ruinele vechiului sanctuar al lui Apollo Ismenios din Teba.",
+                  "category": "historical",
+                  "coords": [
+                        23.322464,
+                        38.316476
+                  ]
+            },
+            {
+                  "name": "Κρήνη της Δίρκης",
+                  "text": "Rămășițele vechii fântâni a lui Dirke din Teba.",
+                  "category": "historical",
+                  "coords": [
+                        23.314296,
+                        38.318289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Thebes",
+                  "text": "One of the most important archaeological museums in Greece, located in Thebes.",
+                  "category": "museum",
+                  "coords": [
+                        23.317215,
+                        38.323829
+                  ]
+            },
+            {
+                  "name": "Medieval walls of Thebes",
+                  "text": "Remains of the medieval defensive walls of Thebes.",
+                  "category": "castle",
+                  "coords": [
+                        23.317615,
+                        38.317301
+                  ]
+            },
+            {
+                  "name": "Οιδιπόδεια Κρήνη",
+                  "text": "Oedipus Fountain, an archaeological site with mythological significance in Thebes.",
+                  "category": "historical",
+                  "coords": [
+                        23.324318,
+                        38.32428
+                  ]
+            },
+            {
+                  "name": "Tomb of “Amphion and Zethos”",
+                  "text": "Archaeological site regarded as the tomb of the mythical founders of Thebes.",
+                  "category": "historical",
+                  "coords": [
+                        23.31739,
+                        38.325442
+                  ]
+            },
+            {
+                  "name": "Μεγάλο Καστέλι",
+                  "text": "Megalo Kastelli archaeological site in the city of Thebes.",
+                  "category": "historical",
+                  "coords": [
+                        23.32226,
+                        38.321243
+                  ]
+            },
+            {
+                  "name": "Θέατρο Μοσχοποδίου \"Μελίνα Μερκούρη\"",
+                  "text": "Melina Mercouri open-air theatre in Moschopodi, near Thebes.",
+                  "category": "cultural",
+                  "coords": [
+                        23.341186,
+                        38.312535
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo Ismenios",
+                  "text": "Ruins of the ancient sanctuary of Apollo Ismenios in Thebes.",
+                  "category": "historical",
+                  "coords": [
+                        23.322464,
+                        38.316476
+                  ]
+            },
+            {
+                  "name": "Fountain of Dirke",
+                  "text": "Remains of the ancient Fountain of Dirke in Thebes.",
+                  "category": "historical",
+                  "coords": [
+                        23.314296,
+                        38.318289
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-H",
     coords: [23.3167, 38.3167],
@@ -255,7 +3153,304 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Selon le mythe, Thèbes fut fondée par Cadmos, qui apporta l'alphabet en Grèce.", "La ville possédait sept portes dans l'Antiquité, d'où son surnom d''Heptapyle'.", "Le musée archéologique de Thiva compte parmi les trois plus importants de Grèce.", "La bataille de Leuctres en 371 av. J.-C. mit fin à l'hégémonie spartiate.", "Alexandre le Grand détruisit presque entièrement la ville en 335 av. J.-C.", "On trouve à Thèbes l'église de l'évangéliste Luc, qui y serait décédé."],
     }, image: "/poi-images/city-thebes-extra.webp"},
   {
-    id: "city-livadeia-extra",
+    id: "city-livadeia-extra", "sights": {
+      "de": [
+            {
+                  "name": "Μαντείο Τροφωνίου",
+                  "text": "Die archäologische Stätte eines antiken Orakels, das dem Heros Trophonios gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        22.874892,
+                        38.431564
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Λιβαδειάς",
+                  "text": "Das Haupttheater von Livadeia für verschiedene Bühnenaufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.874041,
+                        38.438792
+                  ]
+            },
+            {
+                  "name": "Μουσείο εικονικής πραγματικότητας Μαντείου Τροφωνείου",
+                  "text": "Ein digitales Museum, das die Geschichte des Orakels von Trophonios mittels VR erläutert.",
+                  "category": "museum",
+                  "coords": [
+                        22.875081,
+                        38.433445
+                  ]
+            },
+            {
+                  "name": "Αμφιθέατρο Κρύας",
+                  "text": "Ein malerisches Freiluft-Amphitheater in der Nähe der Krya-Quellen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.875378,
+                        38.429685
+                  ]
+            },
+            {
+                  "name": "Κάστρο Λιβαδειάς",
+                  "text": "Eine mittelalterliche Festung, die über der Stadt Livadeia thront.",
+                  "category": "castle",
+                  "coords": [
+                        22.87335,
+                        38.430668
+                  ]
+            },
+            {
+                  "name": "Γαρδαβίτσα-Προφ. Ηλίας (Λεβαδέων-Λαφυστίου-Αγ. Γεωργίου)",
+                  "text": "Ein Naturgebiet bei Livadeia, das sich ideal zum Wandern und zur Naturbeobachtung eignet.",
+                  "category": "natural",
+                  "coords": [
+                        22.89088,
+                        38.416154
+                  ]
+            },
+            {
+                  "name": "Ναος του Βασιλέως Διός",
+                  "text": "Die Überreste eines antiken Tempels, der Zeus Basileus geweiht war.",
+                  "category": "historical",
+                  "coords": [
+                        22.860474,
+                        38.43034
+                  ]
+            },
+            {
+                  "name": "Τρίχινο γεφύρι",
+                  "text": "Eine historische Steinbrücke, die eine lokale Sehenswürdigkeit in Livadeia darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        22.870308,
+                        38.426528
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μαντείο Τροφωνίου",
+                  "text": "Trofoniosz hérosznak szentelt ókori jóshely régészeti lelőhelye.",
+                  "category": "historical",
+                  "coords": [
+                        22.874892,
+                        38.431564
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Λιβαδειάς",
+                  "text": "Livadiá fő színháza különféle színpadi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        22.874041,
+                        38.438792
+                  ]
+            },
+            {
+                  "name": "Μουσείο εικονικής πραγματικότητας Μαντείου Τροφωνείου",
+                  "text": "Digitális múzeum, amely VR technológiával mutatja be a Trofoniosz-jósda történetét.",
+                  "category": "museum",
+                  "coords": [
+                        22.875081,
+                        38.433445
+                  ]
+            },
+            {
+                  "name": "Αμφιθέατρο Κρύας",
+                  "text": "Festői szabadtéri amfiteátrum a Krüa-források közelében.",
+                  "category": "cultural",
+                  "coords": [
+                        22.875378,
+                        38.429685
+                  ]
+            },
+            {
+                  "name": "Κάστρο Λιβαδειάς",
+                  "text": "Középkori erődítmény, amely Livadiá városa fölé magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        22.87335,
+                        38.430668
+                  ]
+            },
+            {
+                  "name": "Γαρδαβίτσα-Προφ. Ηλίας (Λεβαδέων-Λαφυστίου-Αγ. Γεωργίου)",
+                  "text": "Természeti terület Livadiá mellett, amely ideális túrázásra és természetjárásra.",
+                  "category": "natural",
+                  "coords": [
+                        22.89088,
+                        38.416154
+                  ]
+            },
+            {
+                  "name": "Ναος του Βασιλέως Διός",
+                  "text": "Zeusz Baszileusznak szentelt ókori templom maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        22.860474,
+                        38.43034
+                  ]
+            },
+            {
+                  "name": "Τρίχινο γεφύρι",
+                  "text": "Történelmi kőhíd, amely Livadiá egyik helyi látványossága.",
+                  "category": "landmark",
+                  "coords": [
+                        22.870308,
+                        38.426528
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μαντείο Τροφωνίου",
+                  "text": "Situl arheologic al unui fost oracol antic dedicat eroului Trophonius.",
+                  "category": "historical",
+                  "coords": [
+                        22.874892,
+                        38.431564
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Λιβαδειάς",
+                  "text": "Principalul teatru din Livadeia pentru diverse spectacole de scenă.",
+                  "category": "cultural",
+                  "coords": [
+                        22.874041,
+                        38.438792
+                  ]
+            },
+            {
+                  "name": "Μουσείο εικονικής πραγματικότητας Μαντείου Τροφωνείου",
+                  "text": "Un muzeu digital care explică istoria oracolului lui Trophonius prin VR.",
+                  "category": "museum",
+                  "coords": [
+                        22.875081,
+                        38.433445
+                  ]
+            },
+            {
+                  "name": "Αμφιθέατρο Κρύας",
+                  "text": "Un amfiteatru pitoresc în aer liber situat lângă izvoarele Krya.",
+                  "category": "cultural",
+                  "coords": [
+                        22.875378,
+                        38.429685
+                  ]
+            },
+            {
+                  "name": "Κάστρο Λιβαδειάς",
+                  "text": "O fortăreață medievală care domină orașul Livadeia.",
+                  "category": "castle",
+                  "coords": [
+                        22.87335,
+                        38.430668
+                  ]
+            },
+            {
+                  "name": "Γαρδαβίτσα-Προφ. Ηλίας (Λεβαδέων-Λαφυστίου-Αγ. Γεωργίου)",
+                  "text": "O zonă naturală lângă Livadeia, ideală pentru drumeții și observarea naturii.",
+                  "category": "natural",
+                  "coords": [
+                        22.89088,
+                        38.416154
+                  ]
+            },
+            {
+                  "name": "Ναος του Βασιλέως Διός",
+                  "text": "Rămășițele unui templu antic dedicat lui Zeus Basileus.",
+                  "category": "historical",
+                  "coords": [
+                        22.860474,
+                        38.43034
+                  ]
+            },
+            {
+                  "name": "Τρίχινο γεφύρι",
+                  "text": "Un pod istoric de piatră, un punct de atracție local în Livadeia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.870308,
+                        38.426528
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Manteio Trofoniou",
+                  "text": "The archaeological site of an ancient oracle dedicated to the hero Trophonius.",
+                  "category": "historical",
+                  "coords": [
+                        22.874892,
+                        38.431564
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Λιβαδειάς",
+                  "text": "The main theatre of Livadeia for various stage performances.",
+                  "category": "cultural",
+                  "coords": [
+                        22.874041,
+                        38.438792
+                  ]
+            },
+            {
+                  "name": "Μουσείο εικονικής πραγματικότητας Μαντείου Τροφωνείου",
+                  "text": "A digital museum explaining the history of the Oracle of Trophonius using VR.",
+                  "category": "museum",
+                  "coords": [
+                        22.875081,
+                        38.433445
+                  ]
+            },
+            {
+                  "name": "Αμφιθέατρο Κρύας",
+                  "text": "A scenic open-air amphitheatre located near the Krya springs.",
+                  "category": "cultural",
+                  "coords": [
+                        22.875378,
+                        38.429685
+                  ]
+            },
+            {
+                  "name": "Castle of Livadia",
+                  "text": "A medieval fortress overlooking the city of Livadeia.",
+                  "category": "castle",
+                  "coords": [
+                        22.87335,
+                        38.430668
+                  ]
+            },
+            {
+                  "name": "Γαρδαβίτσα-Προφ. Ηλίας (Λεβαδέων-Λαφυστίου-Αγ. Γεωργίου)",
+                  "text": "A natural area near Livadeia ideal for hiking and nature observation.",
+                  "category": "natural",
+                  "coords": [
+                        22.89088,
+                        38.416154
+                  ]
+            },
+            {
+                  "name": "Temple of Zeus at Lebadea",
+                  "text": "The remains of an ancient temple dedicated to Zeus Basileus.",
+                  "category": "historical",
+                  "coords": [
+                        22.860474,
+                        38.43034
+                  ]
+            },
+            {
+                  "name": "Trichino bridge",
+                  "text": "A historic stone bridge, a local attraction in Livadeia.",
+                  "category": "landmark",
+                  "coords": [
+                        22.870308,
+                        38.426528
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-H",
     coords: [22.8753, 38.4358],
@@ -297,7 +3492,376 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Livadiá fut au XIVe siècle l'un des quatre bastions catalans en Grèce.", "La rivière Erkyna prend sa source aux sources de Krya, au cœur de la zone urbaine.", "L'oracle antique de Trophonios était considéré comme une étape préalable à la visite de Delphes.", "L'indépendance de la Béotie vis-à-vis des Ottomans fut proclamée à Livadiá en 1821.", "La ville est aujourd'hui un centre majeur de la production grecque de coton.", "Les sources de Krya abritent un théâtre de plein air et de nombreux moulins à eau historiques."],
     }, image: "/poi-images/city-livadeia-extra.webp"},
   {
-    id: "city-lamia-extra",
+    id: "city-lamia-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λαμίας",
+                  "text": "Das im Schloss der Stadt gelegene Archäologische Museum von Lamia zeigt regionale Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ραδιοφώνου",
+                  "text": "Das Radiomuseum in Lamia stellt eine einzigartige Sammlung alter Rundfunkgeräte aus.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "Β' Σκηνή Δημοτικού Θεάτρου Λαμίας",
+                  "text": "Die Zweite Bühne des Stadttheaters veranstaltet verschiedene kulturelle Aufführungen in Lamia.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "Dieses Museum in Lamia bewahrt die Geschichte des griechischen Nationalen Widerstands.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "ΔΗΜΟΤΙΚΟ ΘΕΑΤΡΟ",
+                  "text": "Das Stadttheater von Lamia ist ein wichtiger Veranstaltungsort für lokale darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο",
+                  "text": "Das Folkloremuseum von Lamia präsentiert traditionelle Artefakte und regionales Erbe.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Μουσείο Νεότερης Ελληνικής Ιστορίας",
+                  "text": "Das Museum für moderne griechische Geschichte in Lamia dokumentiert die jüngste Vergangenheit der Nation.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Αθανασίος Διάκος",
+                  "text": "Dieses Denkmal erinnert an den griechischen Unabhängigkeitshelden Athanasios Diakos in Lamia.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "ΦΙΛΑΡΜΟΝΙΚΗ ΛΑΜΙΑΣ",
+                  "text": "Die Philharmonie von Lamia ist ein kulturelles Kunstzentrum in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Μνημείο Γενοκτονίας Ποντίων",
+                  "text": "Dieses Denkmal in Lamia erinnert an die historischen Ereignisse der Pontosgriechen.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λαμίας",
+                  "text": "A város várában található lamiai Régészeti Múzeum regionális leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ραδιοφώνου",
+                  "text": "A lamiai Rádiómúzeum régi műsorszóró berendezések egyedülálló gyűjteményét állítja ki.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "Β' Σκηνή Δημοτικού Θεάτρου Λαμίας",
+                  "text": "A Városi Színház Második Színpada különféle kulturális előadásoknak ad otthont Lamiában.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "Ez a lamiai múzeum a görög nemzeti ellenállás történetét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "ΔΗΜΟΤΙΚΟ ΘΕΑΤΡΟ",
+                  "text": "A lamiai Városi Színház a helyi előadóművészetek elsődleges helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο",
+                  "text": "A lamiai Néprajzi Múzeum hagyományos tárgyakat és regionális örökséget mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Μουσείο Νεότερης Ελληνικής Ιστορίας",
+                  "text": "A lamiai Modern Görög Történeti Múzeum a nemzet közelmúltját dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Αθανασίος Διάκος",
+                  "text": "Ez az emlékmű a görög szabadságharc hőse, Athanasziosz Diakosz előtt tiszteleg Lamiában.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "ΦΙΛΑΡΜΟΝΙΚΗ ΛΑΜΙΑΣ",
+                  "text": "A Lamia Filharmonikusok egy kulturális művészeti központ a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Μνημείο Γενοκτονίας Ποντίων",
+                  "text": "Ez a lamiai emlékmű a pontoszi görögök történelmi eseményeinek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λαμίας",
+                  "text": "Situat în castelul orașului, Muzeul Arheologic din Lamia expune artefacte regionale.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Μουσείο Ραδιοφώνου",
+                  "text": "Muzeul Radioului din Lamia expune o colecție unică de echipamente de difuzare de epocă.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "Β' Σκηνή Δημοτικού Θεάτρου Λαμίας",
+                  "text": "A Doua Scenă a Teatrului Municipal găzduiește diverse spectacole culturale în Lamia.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "Acest muzeu din Lamia păstrează istoria Rezistenței Naționale Grecești.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "ΔΗΜΟΤΙΚΟ ΘΕΑΤΡΟ",
+                  "text": "Teatrul Municipal din Lamia este un loc principal pentru artele spectacolului local.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο",
+                  "text": "Muzeul de Folclor din Lamia prezintă artefacte tradiționale și patrimoniul regional.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Μουσείο Νεότερης Ελληνικής Ιστορίας",
+                  "text": "Muzeul de Istorie Modernă a Greciei din Lamia documentează trecutul recent al națiunii.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Αθανασίος Διάκος",
+                  "text": "Acest monument îl comemorează pe eroul independenței elene Athanasios Diakos în Lamia.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "ΦΙΛΑΡΜΟΝΙΚΗ ΛΑΜΙΑΣ",
+                  "text": "Filarmonica din Lamia este un centru de arte culturale din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Μνημείο Γενοκτονίας Ποντίων",
+                  "text": "Acest monument din Lamia comemorează evenimentele istorice ale grecilor pontici.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Lamia",
+                  "text": "Located in the city's castle, the Archaeological Museum of Lamia displays regional artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        22.435174,
+                        38.904517
+                  ]
+            },
+            {
+                  "name": "Radio Museum",
+                  "text": "The Radio Museum in Lamia exhibits a unique collection of vintage broadcasting equipment.",
+                  "category": "museum",
+                  "coords": [
+                        22.426226,
+                        38.892595
+                  ]
+            },
+            {
+                  "name": "Β' Σκηνή Δημοτικού Θεάτρου Λαμίας",
+                  "text": "The Second Stage of the Municipal Theatre hosts various cultural performances in Lamia.",
+                  "category": "cultural",
+                  "coords": [
+                        22.42417,
+                        38.920446
+                  ]
+            },
+            {
+                  "name": "Μουσείο Εθνικής Αντίστασης",
+                  "text": "This museum in Lamia preserves the history of the Greek National Resistance.",
+                  "category": "museum",
+                  "coords": [
+                        22.430453,
+                        38.910731
+                  ]
+            },
+            {
+                  "name": "ΔΗΜΟΤΙΚΟ ΘΕΑΤΡΟ",
+                  "text": "The Municipal Theatre of Lamia is a primary venue for local performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431731,
+                        38.90423
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο",
+                  "text": "The Folklore Museum of Lamia showcases traditional artifacts and regional heritage.",
+                  "category": "museum",
+                  "coords": [
+                        22.433403,
+                        38.901244
+                  ]
+            },
+            {
+                  "name": "Μουσείο Νεότερης Ελληνικής Ιστορίας",
+                  "text": "The Museum of Modern Greek History in Lamia documents the nation's recent past.",
+                  "category": "museum",
+                  "coords": [
+                        22.437682,
+                        38.900937
+                  ]
+            },
+            {
+                  "name": "Athanasios Diakos",
+                  "text": "This monument commemorates the Greek independence hero Athanasios Diakos in Lamia.",
+                  "category": "historical",
+                  "coords": [
+                        22.431297,
+                        38.899467
+                  ]
+            },
+            {
+                  "name": "ΦΙΛΑΡΜΟΝΙΚΗ ΛΑΜΙΑΣ",
+                  "text": "The Philharmonic of Lamia is a cultural arts centre in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        22.431668,
+                        38.903047
+                  ]
+            },
+            {
+                  "name": "Μνημείο Γενοκτονίας Ποντίων",
+                  "text": "This monument in Lamia commemorates the historical events of the Pontic Greeks.",
+                  "category": "historical",
+                  "coords": [
+                        22.437945,
+                        38.892497
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-H",
     coords: [22.4333, 38.9000],
@@ -339,7 +3903,124 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le château de Lamia a été construit sur les fondations de l'ancienne acropole.", "La guerre lamiaque fut la dernière tentative majeure des Grecs pour secouer la domination macédonienne.", "Lamia se trouve à seulement 15 kilomètres au nord du célèbre champ de bataille des Thermopyles.", "La ville doit son nom à Lamia, fille de Poséidon dans la mythologie grecque.", "En 1833, Lamia fit partie du Royaume de Grèce nouvellement créé.", "Le monument d'Athanasios Diakos sur la place Eleftherias commémore un héros de la révolution."],
     }, image: "/poi-images/city-lamia-extra.webp"},
   {
-    id: "city-karditsa-extra",
+    id: "city-karditsa-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογκό Μουσείο Καρδίτσας",
+                  "text": "Archäologisches Museum von Karditsa mit Exponaten aus der Region.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κινηματοθέατρο",
+                  "text": "Städtisches Kino und Theater in der Stadt Karditsa.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Ζωοδόχου Πηγής",
+                  "text": "Orthodoxe Kirche Zoodochou Pigis im Viertel Kaminades in Karditsa.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογκό Μουσείο Καρδίτσας",
+                  "text": "Karditsza régészeti múzeuma a környék leleteivel.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κινηματοθέατρο",
+                  "text": "Városi mozi és színház Karditsza városában.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Ζωοδόχου Πηγής",
+                  "text": "Zoodochou Pigis ortodox templom Karditsza Kaminades negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογκό Μουσείο Καρδίτσας",
+                  "text": "Muzeul arheologic din Karditsa, care prezintă exponate din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κινηματοθέατρο",
+                  "text": "Cinematograf și teatru municipal din orașul Karditsa.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Ιερός Ναός Ζωοδόχου Πηγής",
+                  "text": "Biserica ortodoxă Zoodochou Pigis din cartierul Kaminades, Karditsa.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Αρχαιολογκό Μουσείο Καρδίτσας",
+                  "text": "Archaeological Museum of Karditsa, featuring exhibits from the local region.",
+                  "category": "museum",
+                  "coords": [
+                        21.918211,
+                        39.363175
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κινηματοθέατρο",
+                  "text": "Municipal cinema and theatre located in the city of Karditsa.",
+                  "category": "cultural",
+                  "coords": [
+                        21.922434,
+                        39.365983
+                  ]
+            },
+            {
+                  "name": "Church of Zoodochou Pigis Kaminadon",
+                  "text": "Zoodochou Pigis Orthodox church in the Kaminades district of Karditsa.",
+                  "category": "religious",
+                  "coords": [
+                        21.927115,
+                        39.369232
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [21.9225, 39.3644],
@@ -442,6 +4123,150 @@ export const poiExtraGreeceCities: POI[] = [
                         20.733261,
                         38.948042
                   ]
+            },
+            {
+                  "name": "Προμαχώνας Βρυσούλας",
+                  "text": "Die Bastion von Vrysoula ist eine historische Festungsanlage in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Pantokrator Burg",
+                  "text": "Das Pantokrator-Schloss ist eine Küstenbefestigung in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Φρούριο Ακτίου",
+                  "text": "Die Festung von Actium ist eine markante Burganlage in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίου Γεωργίου",
+                  "text": "Die Burg des Heiligen Georg ist eine bedeutende Festung in Preveza, die ursprünglich von den Osmanen erbaut wurde, um die lokalen Meerengen zu kontrollieren.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίου Ανδρέα",
+                  "text": "Die St. Andrews Burg ist eine bemerkenswerte historische Befestigungsanlage in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι πυροβολικού",
+                  "text": "Dieses Freilufttheater in Preveza bietet einen Veranstaltungsort für verschiedene kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Ναός Ακτίου Απόλλωνα",
+                  "text": "Der Tempel des Apollon Aktios ist eine antike archäologische Stätte in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Φρούριο Αγίου Ανδρέα",
+                  "text": "Die Festung Agios Andreas ist eine historische Verteidigungsburg in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Φανός Διαύλου Αμβρακικού Κόλπου (εκτός λειτουργίας)",
+                  "text": "Dieser außer Betrieb befindliche Leuchtturm in Preveza leitete einst den Seeverkehr durch den lokalen Kanal.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κηποθέατρο",
+                  "text": "Das städtische Gartentheater ist ein Freiluft-Veranstaltungsort in Preveza.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "ΓΟΡΓΟΝΑ-MERMAID",
+                  "text": "Das Meerjungfrauen-Denkmal ist ein markantes skulpturales Wahrzeichen in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "„I Love Preveza“ ist eine beliebte Fotoattraktion, die den Namen der Stadt zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Άγιος Νικόλαος",
+                  "text": "Agios Nikolaos ist eine ruhige Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Άγ. Ιωάννης",
+                  "text": "Agios Ioannis dient als lokale religiöse Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Άγιος Αθανάσιος",
+                  "text": "Agios Athanasios ist eine traditionelle Kirche und Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Agios Charalampos ist eine markante Kultstätte in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
+                  ]
             }
       ],
       "hu": [
@@ -461,6 +4286,150 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.733261,
                         38.948042
+                  ]
+            },
+            {
+                  "name": "Προμαχώνας Βρυσούλας",
+                  "text": "A Vrysoula bástya egy történelmi várkastély szerkezet Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παντοκράτορα",
+                  "text": "A Pantokrator kastély egy tengerparti erődítmény Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Φρούριο Ακτίου",
+                  "text": "Az Actium erőd egy kiemelkedő várkastély Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίου Γεωργίου",
+                  "text": "A Szent György-kastély egy jelentős vár Prevezában, amelyet eredetileg az oszmánok építettek a helyi tengerszorosok ellenőrzésére.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίου Ανδρέα",
+                  "text": "A Szent András kastély egy figyelemre méltó történelmi erődítmény Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι πυροβολικού",
+                  "text": "Ez a prevezai szabadtéri színház különféle kulturális előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Ναός Ακτίου Απόλλωνα",
+                  "text": "Az Actiumi Apollón-templom egy ősi régészeti lelőhely Prevezában.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Φρούριο Αγίου Ανδρέα",
+                  "text": "Az Agios Andreas erőd egy történelmi védelmi vár Prevezában.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Φανός Διαύλου Αμβρακικού Κόλπου (εκτός λειτουργίας)",
+                  "text": "Ez a prevezai használaton kívüli világítótorony egykor a helyi csatornán irányította a tengeri forgalmat.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κηποθέατρο",
+                  "text": "A Városi Kertszínház egy szabadtéri előadótér Prevezában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "ΓΟΡΓΟΝΑ-MERMAID",
+                  "text": "A sellő emlékmű egy jellegzetes szobrászati látványosság Prevezában.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "Az „I Love Preveza” egy népszerű fotózkodási látványosság, amely a város nevét mutatja.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Άγιος Νικόλαος",
+                  "text": "Az Agios Nikolaos egy békés istentiszteleti hely Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Άγ. Ιωάννης",
+                  "text": "Az Agios Ioannis helyi vallási istentiszteleti helyként szolgál Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Άγιος Αθανάσιος",
+                  "text": "Az Agios Athanasios egy hagyományos templom és istentiszteleti hely Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Az Agios Charalampos egy kiemelkedő istentiszteleti hely Prevezában.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
                   ]
             }
       ],
@@ -482,6 +4451,150 @@ export const poiExtraGreeceCities: POI[] = [
                         20.733261,
                         38.948042
                   ]
+            },
+            {
+                  "name": "Προμαχώνας Βρυσούλας",
+                  "text": "Bastionul Vrysoula este o structură istorică de castel situată în Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Κάστρο Παντοκράτορα",
+                  "text": "Castelul Pantocrator este o fortificație de coastă situată în Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Φρούριο Ακτίου",
+                  "text": "Fortăreața Actium este o structură importantă de castel situată în Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίου Γεωργίου",
+                  "text": "Castelul Sfântului Gheorghe este un castel important din Preveza, construit inițial de otomani pentru a controla strâmtorile locale.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίου Ανδρέα",
+                  "text": "Castelul Sf. Andrei este o fortificație istorică notabilă din Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι πυροβολικού",
+                  "text": "Acest teatru în aer liber din Preveza oferă un loc pentru diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Ναός Ακτίου Απόλλωνα",
+                  "text": "Templul lui Apollo Actius este un sit arheologic antic situat în Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Φρούριο Αγίου Ανδρέα",
+                  "text": "Fortăreața Agios Andreas este un castel defensiv istoric din Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Φανός Διαύλου Αμβρακικού Κόλπου (εκτός λειτουργίας)",
+                  "text": "Acest far scos din funcțiune din Preveza a ghidat odată traficul maritim prin canalul local.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κηποθέατρο",
+                  "text": "Teatrul Municipal de Vară este un spațiu de spectacole în aer liber din Preveza.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "ΓΟΡΓΟΝΑ-MERMAID",
+                  "text": "Monumentul Sirenei este un reper sculptural distinctiv din Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "„I Love Preveza” este o atracție foto populară care afișează numele orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Άγιος Νικόλαος",
+                  "text": "Agios Nikolaos este un lăcaș de cult liniștit situat în Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Άγ. Ιωάννης",
+                  "text": "Agios Ioannis servește ca lăcaș de cult religios local în Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Άγιος Αθανάσιος",
+                  "text": "Agios Athanasios este o biserică tradițională și un lăcaș de cult din Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Agios Charalampos este un lăcaș de cult important situat în Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
+                  ]
             }
       ],
       "en": [
@@ -501,6 +4614,150 @@ export const poiExtraGreeceCities: POI[] = [
                   "coords": [
                         20.733261,
                         38.948042
+                  ]
+            },
+            {
+                  "name": "Bastion of Vrysoula",
+                  "text": "The Bastion of Vrysoula is a historic castle structure located in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.755591,
+                        38.965052
+                  ]
+            },
+            {
+                  "name": "Pantocrator Castle",
+                  "text": "Pantocrator Castle is a coastal fortification situated in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.738809,
+                        38.945083
+                  ]
+            },
+            {
+                  "name": "Fortress of Actium",
+                  "text": "The Fortress of Actium is a prominent castle structure located in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.761084,
+                        38.945482
+                  ]
+            },
+            {
+                  "name": "Castle of Saint George",
+                  "text": "The Castle of Saint George is a significant castle in Preveza, originally built by the Ottomans to control the local straits.",
+                  "category": "castle",
+                  "coords": [
+                        20.749852,
+                        38.948835
+                  ]
+            },
+            {
+                  "name": "St. Andrews Castle",
+                  "text": "St. Andrews Castle is a notable historical fortification in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753135,
+                        38.960302
+                  ]
+            },
+            {
+                  "name": "Ανοιχτό θεατράκι πυροβολικού",
+                  "text": "This open-air theatre in Preveza provides a venue for various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        20.747535,
+                        38.957678
+                  ]
+            },
+            {
+                  "name": "Ναός Ακτίου Απόλλωνα",
+                  "text": "The Temple of Apollo Actius is an ancient archaeological site located in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.768316,
+                        38.950871
+                  ]
+            },
+            {
+                  "name": "Fortress of Agios Andreas",
+                  "text": "The Fortress of Agios Andreas is a historic defensive castle in Preveza.",
+                  "category": "castle",
+                  "coords": [
+                        20.753746,
+                        38.95891
+                  ]
+            },
+            {
+                  "name": "Φανός Διαύλου Αμβρακικού Κόλπου (εκτός λειτουργίας)",
+                  "text": "This out-of-operation lighthouse in Preveza once guided maritime traffic through the local channel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.761189,
+                        38.944399
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Κηποθέατρο",
+                  "text": "The Municipal Garden Theatre is an outdoor performance space in Preveza.",
+                  "category": "cultural",
+                  "coords": [
+                        20.754386,
+                        38.950999
+                  ]
+            },
+            {
+                  "name": "ΓΟΡΓΟΝΑ-MERMAID",
+                  "text": "The Mermaid monument is a distinctive sculptural landmark in Preveza.",
+                  "category": "historical",
+                  "coords": [
+                        20.755228,
+                        38.954615
+                  ]
+            },
+            {
+                  "name": "I Love Preveza",
+                  "text": "\"I Love Preveza\" is a popular photo-op attraction displaying the city's name.",
+                  "category": "landmark",
+                  "coords": [
+                        20.755058,
+                        38.958769
+                  ]
+            },
+            {
+                  "name": "Άγιος Νικόλαος",
+                  "text": "Agios Nikolaos is a serene place of worship located in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752601,
+                        38.952653
+                  ]
+            },
+            {
+                  "name": "Άγ. Ιωάννης",
+                  "text": "Agios Ioannis serves as a local religious place of worship in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753445,
+                        38.955271
+                  ]
+            },
+            {
+                  "name": "Άγιος Αθανάσιος",
+                  "text": "Agios Athanasios is a traditional church and place of worship in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.752472,
+                        38.957399
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Agios Charalampos is a prominent place of worship situated in Preveza.",
+                  "category": "religious",
+                  "coords": [
+                        20.753734,
+                        38.957225
                   ]
             }
       ]
@@ -546,7 +4803,736 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["La bataille navale d'Actium eut lieu en 31 av. J.-C. juste au large de Préveza.", "Le tunnel sous-marin Aktio-Préveza mesure 910 mètres et a été inauguré en 2002.", "Les ruines de Nicopolis, la 'cité de la victoire', se trouvent à 7 km au nord du centre-ville.", "Préveza n'est passée sous souveraineté grecque qu'en 1912 après les guerres balkaniques.", "Le château Agios Andreas fut construit à l'origine au XVIIIe siècle par les Ottomans.", "Le golfe d'Ambracie abrite environ 150 grands dauphins et plus de 250 espèces d'oiseaux."],
     }, image: "/poi-images/city-preveza-extra.webp"},
   {
-    id: "city-lefkada-extra",
+    id: "city-lefkada-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λευκάδας",
+                  "text": "Museum in Lefkada-Stadt, das archäologische Funde der Insel präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίας Μαύρας",
+                  "text": "Eine imposante mittelalterliche Festung am Eingang der Insel Lefkada.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φωνογράφου",
+                  "text": "Kleines Privatmuseum für Grammophone und Raritäten in Lefkada-Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Γύρα (Άννα)",
+                  "text": "Ein langer Sandstrand in der Nähe von Lefkada-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Beliebter Strand bei Lefkada-Stadt, bekannt für seine Windmühlen und zum Kitesurfen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Leuchtturm in der Gegend von Lefkada-Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Οχυρό Κωνσταντίνος",
+                  "text": "Überreste der Festung Konstantinos in Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Λευκάδας",
+                  "text": "Ruinen des antiken Theaters von Nirikos bei Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Erhaltene Abschnitte der antiken Stadtmauer von Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Κάστρο",
+                  "text": "Strand in unmittelbarer Nähe der Festung Agia Mavra in Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Μουσείο «Άγγελος Σικελιανός»",
+                  "text": "Museum gewidmet dem Dichter Angelos Sikelianos in seinem Geburtshaus in Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Αρχαίος Οικισμος Λευκάδας",
+                  "text": "Ausgrabungen der antiken Siedlung von Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ερείπια Αγ.Γωργίου",
+                  "text": "Ruinen der Kirche St. Georg in Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Αγγλικανική Εκκλησία Λευκάδος",
+                  "text": "Überreste der ehemaligen anglikanischen Kirche in Lefkada-Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ερείπια αρχαιας πολης",
+                  "text": "Ruinen der antiken Stadt Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Archäologische Stätte der antiken Stadt Nirikos auf Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Orthodoxe Kirche Agios Charalambos in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Παντοκράτορας",
+                  "text": "Historische Kirche Pantokrator in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Άγιος Μηνάς",
+                  "text": "Orthodoxe Kirche Agios Minas mit barocken Einflüssen in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Άγιοι Ανάργυροι",
+                  "text": "Ein religiöses Gebäude und Ort der Andacht in Lefkada-Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λευκάδας",
+                  "text": "Lefkada városának múzeuma, amely a sziget régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίας Μαύρας",
+                  "text": "Impozáns középkori erődítmény Lefkada szigetének bejáratánál.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φωνογράφου",
+                  "text": "Kis magánmúzeum gramofonokkal és ritkaságokkal Lefkada városában.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Γύρα (Άννα)",
+                  "text": "Hosszú homokos tengerpart Lefkada városa közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Άγιος Ιωάννης",
+                  "text": "Népszerű tengerpart Lefkada városánál, szélmalmairól és kiteszörfözésről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Világítótorony Lefkada városa környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Οχυρό Κωνσταντίνος",
+                  "text": "Konsztandinosz erődjének maradványai Lefkada városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Λευκάδας",
+                  "text": "Az ókori Nirikosz színházának romjai Lefkada városa közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Lefkada ókori városfalának megmaradt szakaszai.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Κάστρο",
+                  "text": "Tengerpart közvetlenül az Agia Mavra erőd mellett Lefkadán.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Μουσείο «Άγγελος Σικελιανός»",
+                  "text": "Angelos Szikelianosz költőnek szentelt múzeum szülőházában, Lefkadán.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Αρχαίος Οικισμος Λευκάδας",
+                  "text": "Lefkada ókori településének régészeti feltárásai.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ερείπια Αγ.Γωργίου",
+                  "text": "Szent György-templom romjai Lefkada városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Αγγλικανική Εκκλησία Λευκάδος",
+                  "text": "Az egykori anglikán templom maradványai Lefkada városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ερείπια αρχαιας πολης",
+                  "text": "Lefkada ókori városának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Nirikosz ókori városának régészeti helyszíne Lefkadán.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Agios Charalambos ortodox templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Παντοκράτορας",
+                  "text": "Történelmi Pantokrator-templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Άγιος Μηνάς",
+                  "text": "Barokk hatásokat mutató Agios Minas ortodox templom Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Άγιοι Ανάργυροι",
+                  "text": "Vallási épület és istentiszteleti hely Lefkada városában.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Λευκάδας",
+                  "text": "Muzeu din orașul Lefkada, care prezintă descoperiri arheologice de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Κάστρο Αγίας Μαύρας",
+                  "text": "O fortăreață medievală impunătoare la intrarea pe insula Lefkada.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φωνογράφου",
+                  "text": "Mic muzeu privat de fonografe și rarități din orașul Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Γύρα (Άννα)",
+                  "text": "O plajă lungă de nisip situată în apropiere de orașul Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Plajă populară lângă orașul Lefkada, cunoscută pentru morile de vânt și kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Far situat în zona orașului Lefkada.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Οχυρό Κωνσταντίνος",
+                  "text": "Rămășițele fortificației Konstantinos din orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Αρχαίο Θέατρο Λευκάδας",
+                  "text": "Ruinele teatrului antic din Nirikos, lângă orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Secțiuni conservate ale zidului antic al orașului Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Κάστρο",
+                  "text": "Plajă aflată în imediata apropiere a cetății Agia Mavra din Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Μουσείο «Άγγελος Σικελιανός»",
+                  "text": "Muzeu dedicat poetului Angelos Sikelianos în casa sa natală din Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Αρχαίος Οικισμος Λευκάδας",
+                  "text": "Săpături arheologice ale așezării antice din Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ερείπια Αγ.Γωργίου",
+                  "text": "Ruinele bisericii Sfântul Gheorghe din orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Αγγλικανική Εκκλησία Λευκάδος",
+                  "text": "Rămășițele fostei biserici anglicane din orașul Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ερείπια αρχαιας πολης",
+                  "text": "Ruinele orașului antic Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Situl arheologic al orașului antic Nirikos de pe insula Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Biserica ortodoxă Agios Charalambos din orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Παντοκράτορας",
+                  "text": "Biserica istorică Pantokrator din orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Άγιος Μηνάς",
+                  "text": "Biserica ortodoxă Agios Minas cu influențe baroce din orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Άγιοι Ανάργυροι",
+                  "text": "O clădire religioasă și loc de cult în orașul Lefkada.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Lefkada",
+                  "text": "Museum in Lefkada Town presenting archaeological finds from across the island.",
+                  "category": "museum",
+                  "coords": [
+                        20.704042,
+                        38.835034
+                  ]
+            },
+            {
+                  "name": "Agia Mavra Castle",
+                  "text": "An impressive medieval fortress located at the entrance to Lefkada island.",
+                  "category": "castle",
+                  "coords": [
+                        20.719758,
+                        38.844633
+                  ]
+            },
+            {
+                  "name": "Μουσείο Φωνογράφου",
+                  "text": "Small private museum of phonographs and memorabilia in Lefkada Town.",
+                  "category": "museum",
+                  "coords": [
+                        20.708019,
+                        38.833503
+                  ]
+            },
+            {
+                  "name": "Gyra (Anna)",
+                  "text": "A long sandy beach located near Lefkada Town.",
+                  "category": "recreational",
+                  "coords": [
+                        20.701049,
+                        38.849331
+                  ]
+            },
+            {
+                  "name": "Agios Ioannis",
+                  "text": "Popular beach near Lefkada Town, known for its windmills and kitesurfing.",
+                  "category": "recreational",
+                  "coords": [
+                        20.680637,
+                        38.841876
+                  ]
+            },
+            {
+                  "name": "Faros",
+                  "text": "Lighthouse located in the area of Lefkada Town.",
+                  "category": "landmark",
+                  "coords": [
+                        20.720679,
+                        38.84785
+                  ]
+            },
+            {
+                  "name": "Οχυρό Κωνσταντίνος",
+                  "text": "Remains of the Konstantinos fortification in Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.722099,
+                        38.813235
+                  ]
+            },
+            {
+                  "name": "Nirikos Ancient Theatre",
+                  "text": "Ruins of the ancient theatre of Nirikos near Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.712453,
+                        38.808029
+                  ]
+            },
+            {
+                  "name": "Part of ancient city wall",
+                  "text": "Preserved sections of the ancient city wall of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.708416,
+                        38.806946
+                  ]
+            },
+            {
+                  "name": "Kastro",
+                  "text": "Beach located in the immediate vicinity of the Agia Mavra fortress in Lefkada.",
+                  "category": "recreational",
+                  "coords": [
+                        20.718024,
+                        38.847106
+                  ]
+            },
+            {
+                  "name": "Μουσείο «Άγγελος Σικελιανός»",
+                  "text": "Museum dedicated to the poet Angelos Sikelianos in his birthplace in Lefkada.",
+                  "category": "museum",
+                  "coords": [
+                        20.707023,
+                        38.833576
+                  ]
+            },
+            {
+                  "name": "Αρχαίος Οικισμος Λευκάδας",
+                  "text": "Archaeological excavations of the ancient settlement of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.717529,
+                        38.807288
+                  ]
+            },
+            {
+                  "name": "Ερείπια Αγ.Γωργίου",
+                  "text": "Ruins of the St. George church in Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.718058,
+                        38.811536
+                  ]
+            },
+            {
+                  "name": "Αγγλικανική Εκκλησία Λευκάδος",
+                  "text": "Remains of the former Anglican church in Lefkada Town.",
+                  "category": "historical",
+                  "coords": [
+                        20.703254,
+                        38.828804
+                  ]
+            },
+            {
+                  "name": "Ancient City Ruins",
+                  "text": "Ruins of the ancient city of Lefkada.",
+                  "category": "historical",
+                  "coords": [
+                        20.718238,
+                        38.812496
+                  ]
+            },
+            {
+                  "name": "Ancient Nirikos",
+                  "text": "Archaeological site of the ancient city of Nirikos on Lefkada island.",
+                  "category": "historical",
+                  "coords": [
+                        20.709975,
+                        38.810708
+                  ]
+            },
+            {
+                  "name": "Άγιος Χαράλαμπος",
+                  "text": "Agios Charalambos Orthodox church in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.710228,
+                        38.833425
+                  ]
+            },
+            {
+                  "name": "Παντοκράτορας",
+                  "text": "Historic Pantokrator church in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.706408,
+                        38.832402
+                  ]
+            },
+            {
+                  "name": "Άγιος Μηνάς",
+                  "text": "Agios Minas Orthodox church featuring Baroque influences in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.704439,
+                        38.830702
+                  ]
+            },
+            {
+                  "name": "Άγιοι Ανάργυροι",
+                  "text": "A religious building and place of worship in Lefkada Town.",
+                  "category": "religious",
+                  "coords": [
+                        20.705688,
+                        38.833355
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [20.7107, 38.8310],
@@ -588,7 +5574,916 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le pont flottant mobile reliant Lefkada au continent mesure environ 50 mètres de long.", "La forteresse de Santa Maura fut construite en 1300 par Giovanni Orsini.", "Après le séisme de 1948, de nombreuses maisons furent revêtues de tôle ondulée colorée.", "Le Festival international de folklore de Lefkada fut fondé en 1962, le premier du genre en Grèce.", "La lagune de Lefkada fait partie du réseau Natura 2000 pour la protection de la nature.", "La marina de Lefkada est l'une des plus modernes de Méditerranée avec 620 places à quai."],
     }, image: "/poi-images/city-lefkada-extra.webp"},
   {
-    id: "city-argostoli-extra",
+    id: "city-argostoli-extra", "sights": {
+      "de": [
+            {
+                  "name": "Κοργιαλένειο Ιστορικό και Λαογραφικό Μουσείο Αργοστολίου",
+                  "text": "Dieses Museum bewahrt die reiche Volkskunst und Geschichte von Kefalonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αργοστολίου",
+                  "text": "Es beherbergt archäologische Schätze von der mykenischen bis zur römischen Zeit.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Platis Gialos",
+                  "text": "Ein beliebter, weitläufiger Sandstrand mit kristallklarem Wasser in der Nähe von Argostoli.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Παλιοσταφίδα",
+                  "text": "Ein ruhiger und malerischer Sandstrand, ideal zum Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Φάρος Αγίων Θεοδώρων",
+                  "text": "Ein markanter kreisförmiger Leuchtturm mit dorischen Säulen auf einer Halbinsel.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Αρχαία Κράνη",
+                  "text": "Die Ruinen einer der vier antiken Städte der Insel Kefalonia.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Οικία Κοσμετάτου",
+                  "text": "Ein Museum, das Möbel und Artefakte aus der Zeit vor dem großen Erdbeben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "θεατράκι στο μπαστούνι",
+                  "text": "Ein kleiner Veranstaltungsort für Aufführungen unter freiem Himmel am Hafen.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Βαρδιόλα κτήματος Πινιατώρου",
+                  "text": "Die Überreste eines historischen venezianischen Wachturms.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Άσπρος Βράχος",
+                  "text": "Ein Küstenabschnitt, der für seinen markanten weißen Felsen und klares Wasser bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Γραδάκια",
+                  "text": "Ein familienfreundlicher Sandstrand mit flachem Wasser in der Nähe der Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Καλάμια",
+                  "text": "Ein Kiesstrand mit sehr klarem Wasser, umgeben von Felsen.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Παραλία Κόλπος Κορμοράνων",
+                  "text": "Ein abgelegener Strand in einer kleinen Bucht, der Ruhe bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Προτομή του Κάρολου Νάπιερ",
+                  "text": "Ein Denkmal für Sir Charles Napier, einen ehemaligen britischen Gouverneur der Insel.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Μνημείο Ριζοσπαστών",
+                  "text": "Ein Denkmal zur Ehrung der Radikalen, die gegen die britische Herrschaft kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Πύργος του Ρολογιού",
+                  "text": "Ein markanter Uhrturm auf dem Bell-Platz, der nach dem Erdbeben wiederaufgebaut wurde.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "Eine ehemalige Wassermühle am Meer, heute eine historische Sehenswürdigkeit.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "Οβελίσκος Γέφυρα Δεβοσέτου",
+                  "text": "Ein Obelisk auf der historischen De-Bosset-Brücke, der längsten Steinbrücke über dem Meer.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "Καταβόθρες",
+                  "text": "Ein seltenes geologisches Phänomen, bei dem Meerwasser unterirdisch in Dolinen verschwindet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο-Ερμιτάζ Αγίου Γερασίμου",
+                  "text": "Eine spirituelle Einsiedelei in einer Höhle nahe Argostoli, die dem Schutzpatron der Insel gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli",
+                  "text": "Ein moderner Jachthafen in Argostoli, der Liegeplätze und Dienstleistungen für Segler bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "Ein beliebter Fotopunkt in Argostoli mit einem markanten Schild, das die Liebe zur Insel Kefalonia feiert.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Archäologische Überreste der antiken Stadt Krane in der Nähe von Argostoli.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "Άγιος Σπυρίδωνας",
+                  "text": "Eine orthodoxe Kirche in Argostoli, die dem Heiligen Spyridon gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Μητρόπολη Αργοστολίου",
+                  "text": "Die griechisch-orthodoxe Kathedrale von Argostoli, ein wichtiges religiöses Zentrum der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Κοργιαλένειο Ιστορικό και Λαογραφικό Μουσείο Αργοστολίου",
+                  "text": "A múzeum Kefalónia gazdag népművészetét és történelmét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αργοστολίου",
+                  "text": "Régészeti kincseket mutat be a mükénéi kortól a római korig.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Πλατύς Γιαλός",
+                  "text": "Népszerű, tágas homokos strand kristálytiszta vízzel Argostoli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Παλιοσταφίδα",
+                  "text": "Csendes és festői homokos tengerpart, ideális a kikapcsolódásra.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Φάρος Αγίων Θεοδώρων",
+                  "text": "Jellegzetes kör alakú világítótorony dór oszlopokkal egy félszigeten.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Αρχαία Κράνη",
+                  "text": "Kefalónia szigetének négy ókori városa egyikének romjai.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Οικία Κοσμετάτου",
+                  "text": "A nagy földrengés előtti időkből származó bútorokat és tárgyakat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "θεατράκι στο μπαστούνι",
+                  "text": "Kisméretű szabadtéri előadóhely a kikötőnél.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Βαρδιόλα κτήματος Πινιατώρου",
+                  "text": "Egy történelmi velencei őrtorony maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Άσπρος Βράχος",
+                  "text": "Jellegzetes fehér sziklájáról és tiszta vizéről ismert tengerparti rész.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Γραδάκια",
+                  "text": "Családbarát homokos strand sekély vízzel a város közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Καλάμια",
+                  "text": "Kavicsos strand nagyon tiszta vízzel, sziklákkal körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Παραλία Κόλπος Κορμοράνων",
+                  "text": "Eldugott strand egy kis öbölben, amely nyugalmat kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Προτομή του Κάρολου Νάπιερ",
+                  "text": "Emlékmű Sir Charles Napiernek, a sziget egykori brit kormányzójának.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Μνημείο Ριζοσπαστών",
+                  "text": "A brit uralom ellen küzdő radikálisok tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Πύργος του Ρολογιού",
+                  "text": "Jellegzetes óratorony a Bell téren, amelyet a földrengés után újjáépítettek.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "Egykori tengeri vízimalom, amely ma történelmi látványosság.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "Οβελίσκος Γέφυρα Δεβοσέτου",
+                  "text": "Obeliszk a történelmi De Bosset hídon, a leghosszabb tenger feletti kőhídon.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "Καταβόθρες",
+                  "text": "Ritka geológiai jelenség, ahol a tengervíz a föld alatt víznyelőkben tűnik el.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο-Ερμιτάζ Αγίου Γερασίμου",
+                  "text": "Spirituális barlangi remetelak Argostoli közelében, amelyet a sziget védőszentjének szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli",
+                  "text": "Modern jachtkikötő Argostoliban, amely horgonyzóhelyeket és szolgáltatásokat kínál a hajósoknak.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "Népszerű fotópont Argostoliban egy jellegzetes felirattal, amely a Kefalónia iránti szeretetet hirdeti.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Az ókori Krane városának régészeti maradványai Argostoli közelében.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "Άγιος Σπυρίδωνας",
+                  "text": "Szent Szpiridon tiszteletére szentelt ortodox templom Argostoliban.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Μητρόπολη Αργοστολίου",
+                  "text": "Argostoli görög ortodox katedrálisa, a város fontos vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Κοργιαλένειο Ιστορικό και Λαογραφικό Μουσείο Αργοστολίου",
+                  "text": "Acest muzeu păstrează bogata artă populară și istoria insulei Kefalonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Αργοστολίου",
+                  "text": "Găzduiește comori arheologice din perioada miceniană până în cea romană.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Πλατύς Γιαλός",
+                  "text": "O plajă de nisip populară și spațioasă, cu ape cristaline, lângă Argostoli.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Παλιοσταφίδα",
+                  "text": "O plajă de nisip liniștită și pitorească, ideală pentru relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Φάρος Αγίων Θεοδώρων",
+                  "text": "Un far circular distinctiv cu coloane dorice, situat pe o peninsulă.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Αρχαία Κράνη",
+                  "text": "Ruinele unuia dintre cele patru orașe antice de pe insula Kefalonia.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Οικία Κοσμετάτου",
+                  "text": "Un muzeu care expune mobilier și artefacte din perioada de dinaintea marelui cutremur.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "θεατράκι στο μπαστούνι",
+                  "text": "Un mic spațiu pentru spectacole în aer liber situat în port.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Βαρδιόλα κτήματος Πινιατώρου",
+                  "text": "Rămășițele unui turn de veghe venețian istoric.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Άσπρος Βράχος",
+                  "text": "O porțiune de coastă cunoscută pentru stânca sa albă distinctivă și apa limpede.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Γραδάκια",
+                  "text": "O plajă de nisip potrivită pentru familii, cu ape puțin adânci, lângă oraș.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Καλάμια",
+                  "text": "O plajă cu pietriș și apă foarte limpede, înconjurată de stânci.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Παραλία Κόλπος Κορμοράνων",
+                  "text": "O plajă retrasă într-un mic golf, oferind liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Προτομή του Κάρολου Νάπιερ",
+                  "text": "Un monument dedicat lui Sir Charles Napier, fost guvernator britanic al insulei.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Μνημείο Ριζοσπαστών",
+                  "text": "Un monument în cinstea radicalilor care au luptat împotriva stăpânirii britanice.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Πύργος του Ρολογιού",
+                  "text": "Un turn cu ceas distinctiv în piața Bell, reconstruit după cutremur.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "O fostă moară de apă de mare, astăzi un obiectiv istoric.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "Οβελίσκος Γέφυρα Δεβοσέτου",
+                  "text": "Un obelisc pe podul istoric De Bosset, cel mai lung pod de piatră peste mare.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "Καταβόθρες",
+                  "text": "Un fenomen geologic rar în care apa mării dispare subteran în doline.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο-Ερμιτάζ Αγίου Γερασίμου",
+                  "text": "O sihăstrie spirituală într-o peșteră lângă Argostoli, dedicată sfântului patron al insulei.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli",
+                  "text": "Un port modern pentru iahturi în Argostoli, oferind locuri de acostare și servicii pentru navigatori.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "Un punct foto popular în Argostoli, cu un semn distinctiv care celebrează dragostea pentru insula Kefalonia.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Rămășițele arheologice ale orașului antic Krane, situate în apropiere de Argostoli.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "Άγιος Σπυρίδωνας",
+                  "text": "O biserică ortodoxă din Argostoli dedicată Sfântului Spiridon.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Μητρόπολη Αργοστολίου",
+                  "text": "Catedrala ortodoxă greacă din Argostoli, un centru religios important al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Korgialeneio Historic and Folklore Museum of Argostoli",
+                  "text": "This museum preserves the rich folk art and history of Cephalonia.",
+                  "category": "museum",
+                  "coords": [
+                        20.486927,
+                        38.176773
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Argostoli",
+                  "text": "It houses archaeological treasures from the Mycenaean to the Roman period.",
+                  "category": "museum",
+                  "coords": [
+                        20.488182,
+                        38.177635
+                  ]
+            },
+            {
+                  "name": "Platis Gialos Beach",
+                  "text": "A popular, spacious sandy beach with crystal clear waters near Argostoli.",
+                  "category": "recreational",
+                  "coords": [
+                        20.48437,
+                        38.15171
+                  ]
+            },
+            {
+                  "name": "Παλιοσταφίδα",
+                  "text": "A quiet and picturesque sandy beach, ideal for relaxation.",
+                  "category": "recreational",
+                  "coords": [
+                        20.478687,
+                        38.16044
+                  ]
+            },
+            {
+                  "name": "Lighthouse Agion Theodoron",
+                  "text": "A distinctive circular lighthouse with Doric columns located on a peninsula.",
+                  "category": "landmark",
+                  "coords": [
+                        20.4678,
+                        38.191397
+                  ]
+            },
+            {
+                  "name": "Αρχαία Κράνη",
+                  "text": "The ruins of one of the four ancient cities of the island of Cephalonia.",
+                  "category": "historical",
+                  "coords": [
+                        20.516507,
+                        38.167606
+                  ]
+            },
+            {
+                  "name": "Kosmetatos' House",
+                  "text": "A museum displaying furniture and artifacts from before the great earthquake.",
+                  "category": "museum",
+                  "coords": [
+                        20.486761,
+                        38.181032
+                  ]
+            },
+            {
+                  "name": "θεατράκι στο μπαστούνι",
+                  "text": "A small outdoor performance space located at the harbor.",
+                  "category": "cultural",
+                  "coords": [
+                        20.486387,
+                        38.185068
+                  ]
+            },
+            {
+                  "name": "Vardiola at Piniatoros’ property",
+                  "text": "The remains of a historical Venetian watchtower.",
+                  "category": "castle",
+                  "coords": [
+                        20.476206,
+                        38.178624
+                  ]
+            },
+            {
+                  "name": "Άσπρος Βράχος",
+                  "text": "A coastal spot known for its distinctive white rock and clear water.",
+                  "category": "recreational",
+                  "coords": [
+                        20.484767,
+                        38.149374
+                  ]
+            },
+            {
+                  "name": "Γραδάκια",
+                  "text": "A family-friendly sandy beach with shallow waters near the city.",
+                  "category": "recreational",
+                  "coords": [
+                        20.479768,
+                        38.164503
+                  ]
+            },
+            {
+                  "name": "Καλάμια",
+                  "text": "A pebbly beach with very clear water, surrounded by rocks.",
+                  "category": "recreational",
+                  "coords": [
+                        20.481101,
+                        38.171214
+                  ]
+            },
+            {
+                  "name": "Kormoranon Bay Beach",
+                  "text": "A secluded beach in a small bay, offering tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        20.470235,
+                        38.188601
+                  ]
+            },
+            {
+                  "name": "Bust of Sir Charles Napier",
+                  "text": "A monument to Sir Charles Napier, a former British governor of the island.",
+                  "category": "historical",
+                  "coords": [
+                        20.48579,
+                        38.178088
+                  ]
+            },
+            {
+                  "name": "Radical's Memorial",
+                  "text": "A monument honoring the Radicals who fought against British rule.",
+                  "category": "historical",
+                  "coords": [
+                        20.486176,
+                        38.183469
+                  ]
+            },
+            {
+                  "name": "Bell Tower",
+                  "text": "A distinctive clock tower in Bell Square, rebuilt after the earthquake.",
+                  "category": "historical",
+                  "coords": [
+                        20.489974,
+                        38.173951
+                  ]
+            },
+            {
+                  "name": "The Thalassomilos",
+                  "text": "A former sea water mill, now a historical landmark.",
+                  "category": "historical",
+                  "coords": [
+                        20.47784,
+                        38.192512
+                  ]
+            },
+            {
+                  "name": "De Bosset Bridge Obelisk",
+                  "text": "An obelisk on the historic De Bosset Bridge, the longest stone bridge over sea.",
+                  "category": "historical",
+                  "coords": [
+                        20.495698,
+                        38.175226
+                  ]
+            },
+            {
+                  "name": "The Katavothres Sea Mills",
+                  "text": "A rare geological phenomenon where sea water disappears underground into sinkholes.",
+                  "category": "landmark",
+                  "coords": [
+                        20.474115,
+                        38.19417
+                  ]
+            },
+            {
+                  "name": "Cave-Hermitage St. Gerasimos",
+                  "text": "A spiritual cave hermitage near Argostoli dedicated to the patron saint of the island.",
+                  "category": "landmark",
+                  "coords": [
+                        20.486276,
+                        38.159986
+                  ]
+            },
+            {
+                  "name": "Argostoli Marina",
+                  "text": "A modern marina in Argostoli offering berths and services for sailors.",
+                  "category": "landmark",
+                  "coords": [
+                        20.49631,
+                        38.181002
+                  ]
+            },
+            {
+                  "name": "I Love Kefalonia",
+                  "text": "A popular photo spot in Argostoli with a prominent sign celebrating the love for Kefalonia island.",
+                  "category": "landmark",
+                  "coords": [
+                        20.489704,
+                        38.177561
+                  ]
+            },
+            {
+                  "name": "Krane",
+                  "text": "Archaeological remains of the ancient city of Krane located near Argostoli.",
+                  "category": "historical",
+                  "coords": [
+                        20.521948,
+                        38.171383
+                  ]
+            },
+            {
+                  "name": "St Spyridon",
+                  "text": "An Orthodox church in Argostoli dedicated to Saint Spyridon.",
+                  "category": "religious",
+                  "coords": [
+                        20.489073,
+                        38.17665
+                  ]
+            },
+            {
+                  "name": "Μητρόπολη Αργοστολίου",
+                  "text": "The Greek Orthodox cathedral of Argostoli, an important religious center of the city.",
+                  "category": "religious",
+                  "coords": [
+                        20.488832,
+                        38.174732
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [20.4897, 38.1738],
@@ -630,7 +6525,592 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Avec 689 mètres, le pont De Bosset est le plus long pont de pierre sur mer au monde.", "En août 1953, Argostoli a été presque entièrement détruite par un séisme de magnitude 7,2.", "Le port naturel d'Argostoli a une profondeur d'environ 20 mètres à son point le plus bas.", "Le musée Korgialenios conserve l'histoire de l'île avant le séisme de 1953.", "Aux Katavothres, environ 30 000 mètres cubes d'eau de mer s'écoulent quotidiennement dans le système karstique.", "La ville a été déclarée capitale de Céphalonie en 1757, remplaçant le château d'Agios Georgios."],
     }, image: "/poi-images/city-argostoli-extra.webp"},
   {
-    id: "city-zakynthos-extra",
+    id: "city-zakynthos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Βαρδιόλα στο Ακρωτήρι",
+                  "text": "Vardiola bei Akrotiri ist ein historischer Verteidigungsvorposten in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri ist ein malerischer lokaler Leuchtturm in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Кул. слой Классического периода",
+                  "text": "Die Schicht aus der klassischen Periode ist eine faszinierende archäologische Stätte in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Φρούριο Ζακύνθου",
+                  "text": "Die Festung von Zakynthos ist eine große historische Burganlage mit Blick auf die Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "Die Burg von Zakynthos ist eine markante historische Festungsanlage in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Meeres-Nationalpark Zakynthos",
+                  "text": "Der Meeresnationalpark von Zakynthos ist ein wunderschönes Naturschutzgebiet, das die lokale Unterwasserwelt schützt.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "Dieses Museum in Zakynthos Stadt stellt eine reichhaltige Sammlung postbyzantinischer Kunst aus.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Dieses lokale Amphitheater dient als lebendiger Veranstaltungsort für Theateraufführungen in Zakynthos Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "Das Dionysios-Solomos-Museum widmet sich den berühmten lokalen Persönlichkeiten und der Geschichte in Zakynthos Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "Die Bastione di St. Marco ist eine bemerkenswerte historische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "Die Kirche von Sotiras ist eine verfallene historische Kultstätte in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "Rivellino Ambrosio Bembo ist eine faszinierende historische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "Rivellino dell' Aguilla ist eine faszinierende historische Sehenswürdigkeit in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "Die Solomos-Statue ist ein markantes Denkmal, das einer bedeutenden Persönlichkeit in Zakynthos Stadt gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Γέφυρα Αργασίου",
+                  "text": "Die steinerne Argassi-Brücke ist eine interessante historische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "Der Vourderis-Bogen ist eine markante architektonische Attraktion in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Βαρδιόλα στο Ακρωτήρι",
+                  "text": "Az akrotiri Vardiola egy történelmi védelmi előőrs szerkezet Zákinthosz városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri egy festői helyi világítótorony Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Кул. слой Классического периода",
+                  "text": "A klasszikus kori réteg egy érdekes régészeti lelőhely Zákinthosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Φρούριο Ζακύνθου",
+                  "text": "A zákinthoszi erőd egy jelentős történelmi várkomplexum, amely a városra néz.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "Zákinthosz vára egy kiemelkedő történelmi erődítmény Zákinthosz városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Εθνικό Θαλάσσιο Πάρκο Ζακύνθου",
+                  "text": "A Zákinthosz Nemzeti Tengeri Park egy gyönyörű természetvédelmi terület, amely a helyi tengeri élővilágot védi.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "Ez a Zákinthosz városában található múzeum a posztbizánci művészet gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Ez a helyi amfiteátrum élénk helyszínként szolgál színházi előadásokhoz Zákinthosz városában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "A Dionysios Solomos Múzeum Zákinthosz városa híres helyi személyiségeinek és történelmének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "A Bastione di St. Marco egy figyelemre méltó történelmi látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "A Sotiras templom egy romos történelmi istentiszteleti hely Zákinthosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "A Rivellino Ambrosio Bembo egy lenyűgöző történelmi látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "A Rivellino dell' Aguilla egy lenyűgöző történelmi látnivaló Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "A Solomos-szobor egy kiemelkedő emlékmű, amelyet egy jelentős személyiségnek szenteltek Zákinthosz városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Γέφυρα Αργασίου",
+                  "text": "Az Argassi kőhíd egy érdekes történelmi látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "A Vourderis-ív egy különleges építészeti látványosság Zákinthosz városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Βαρδιόλα στο Ακρωτήρι",
+                  "text": "Vardiola la Akrotiri este o structură istorică de avanpost defensiv din Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri este un far local pitoresc situat în Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Кул. слой Классического периода",
+                  "text": "Stratul Perioadei Clasice este un sit arheologic intrigant din Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Φρούριο Ζακύνθου",
+                  "text": "Fortăreața din Zakynthos este un complex de castele istoric major, cu vedere la oraș.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "Castelul din Zakynthos este o fortificație istorică importantă situată în Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Εθνικό Θαλάσσιο Πάρκο Ζακύνθου",
+                  "text": "Parcul Național Marin Zakynthos este o rezervație naturală frumoasă care protejează viața marină locală.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "Acest muzeu din Zakynthos Stadt expune o colecție bogată de artă post-bizantină.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "Acest amfiteatru local servește drept un loc vibrant pentru spectacole teatrale în Zakynthos Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "Muzeul Dionysios Solomos este dedicat figurilor locale renumite și istoriei din Zakynthos Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "Bastione di St. Marco este o atracție istorică notabilă din Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "Biserica Sotiras este un lăcaș de cult istoric în ruină situat în Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "Rivellino Ambrosio Bembo este o atracție istorică captivantă situată în Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "Rivellino dell' Aguilla este un punct de interes istoric fascinant din Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "Statuia Solomos este un monument important dedicat unei figuri semnificative din Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Γέφυρα Αργασίου",
+                  "text": "Podul de piatră Argassi este o atracție istorică interesantă din Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "Arcul Vourderis este o atracție arhitecturală distinctă situată în Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Vardiola at Akrotiri",
+                  "text": "Vardiola at Akrotiri is a historic defensive outpost structure in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.901159,
+                        37.806028
+                  ]
+            },
+            {
+                  "name": "Krioneri",
+                  "text": "Krioneri is a scenic local lighthouse situated in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.904195,
+                        37.80277
+                  ]
+            },
+            {
+                  "name": "Classical Period Layer",
+                  "text": "The Classical Period Layer is an intriguing archaeological site in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.891177,
+                        37.789166
+                  ]
+            },
+            {
+                  "name": "Fortress of Zakynthos",
+                  "text": "The Fortress of Zakynthos is a major historic castle complex overlooking the city.",
+                  "category": "castle",
+                  "coords": [
+                        20.892358,
+                        37.789388
+                  ]
+            },
+            {
+                  "name": "Castle of Zakynthos",
+                  "text": "The Castle of Zakynthos is a prominent historic fortification located in Zakynthos Stadt.",
+                  "category": "castle",
+                  "coords": [
+                        20.891057,
+                        37.78824
+                  ]
+            },
+            {
+                  "name": "Zakynthos National Marine Park",
+                  "text": "The Zakynthos National Marine Park is a beautiful nature reserve protecting local marine life.",
+                  "category": "natural",
+                  "coords": [
+                        20.898311,
+                        37.706761
+                  ]
+            },
+            {
+                  "name": "Museum of Post Byzantine Art",
+                  "text": "This museum in Zakynthos Stadt exhibits a rich collection of post-Byzantine art.",
+                  "category": "museum",
+                  "coords": [
+                        20.899548,
+                        37.787322
+                  ]
+            },
+            {
+                  "name": "Amphitheatre",
+                  "text": "This local amphitheatre serves as a vibrant venue for theatrical performances in Zakynthos Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        20.896579,
+                        37.790757
+                  ]
+            },
+            {
+                  "name": "Dionysios Solomos Museum",
+                  "text": "The Dionysios Solomos Museum is dedicated to the renowned local figures and history in Zakynthos Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        20.898656,
+                        37.788503
+                  ]
+            },
+            {
+                  "name": "Bastione di St. Marco",
+                  "text": "The Bastione di St. Marco is a notable historic attraction in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.889458,
+                        37.786315
+                  ]
+            },
+            {
+                  "name": "Church of Sotiras",
+                  "text": "The Church of Sotiras is a ruined historical place of worship located in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.889544,
+                        37.789038
+                  ]
+            },
+            {
+                  "name": "Rivellino Ambrosio Bembo",
+                  "text": "Rivellino Ambrosio Bembo is a captivating historic attraction situated in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.890659,
+                        37.78709
+                  ]
+            },
+            {
+                  "name": "Rivellino dell' Aguilla",
+                  "text": "Rivellino dell' Aguilla is a fascinating historical point of interest in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.888977,
+                        37.78788
+                  ]
+            },
+            {
+                  "name": "Solomos Statue",
+                  "text": "The Solomos Statue is a prominent monument dedicated to a significant figure in Zakynthos Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        20.890315,
+                        37.796939
+                  ]
+            },
+            {
+                  "name": "Argassi Stone Bridge",
+                  "text": "The Argassi Stone Bridge is an interesting historical attraction in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.921396,
+                        37.766707
+                  ]
+            },
+            {
+                  "name": "Vourderis Arch",
+                  "text": "The Vourderis Arch is a distinct architectural attraction located in Zakynthos Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        20.917479,
+                        37.760404
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-F",
     coords: [20.9045, 37.7850],
@@ -672,7 +7152,520 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le séisme du 12 août 1953 a détruit environ 95 % des bâtiments de Zante-ville.", "Le clocher de l'église Agios Dionysios est inspiré du Campanile de Saint-Marc à Venise.", "Dionysios Solomos, l'auteur de l'hymne national grec, est né dans cette ville en 1798.", "La forteresse vénitienne sur la colline de Bohali date initialement du XVe siècle.", "Zante fut la première ville grecque à célébrer l'union des îles Ioniennes avec la Grèce en 1864.", "Le musée byzantin abrite des fresques murales sauvées des églises détruites en 1953."],
     }, image: "/poi-images/city-zakynthos-extra.webp"},
   {
-    id: "city-hermoupolis-extra",
+    id: "city-hermoupolis-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σύρου",
+                  "text": "Das 1834 gegründete Museum zeigt bedeutende archäologische Funde der Insel Syros.",
+                  "category": "museum",
+                  "coords": [
+                        24.94238,
+                        37.445141
+                  ]
+            },
+            {
+                  "name": "Βιομηχανικό Μουσείο Ερμούπολης",
+                  "text": "Ein Museum in Ermoupoli, das sich der Industriegeschichte der Insel widmet.",
+                  "category": "museum",
+                  "coords": [
+                        24.93465,
+                        37.437928
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο",
+                  "text": "Ein Museum in Ermoupoli, das kirchliche Kunst und Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.944495,
+                        37.44603
+                  ]
+            },
+            {
+                  "name": "Έκθεση Μάρκου Βαμβακάρη Ενθυμήματα",
+                  "text": "Ein Museum in Ermoupoli, das dem berühmten Musiker Markos Vamvakaris gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        24.935466,
+                        37.44927
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Μουσείο Ερμούπολης",
+                  "text": "Ein Museum, das die Stadtgeschichte und Entwicklung von Ermoupoli dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        24.947059,
+                        37.447294
+                  ]
+            },
+            {
+                  "name": "Βαθύ Γιαλούδι",
+                  "text": "Ein Küstenabschnitt und Strandbereich bei Ermoupoli.",
+                  "category": "recreational",
+                  "coords": [
+                        24.950189,
+                        37.430068
+                  ]
+            },
+            {
+                  "name": "Πνευματικό Κέντρο Ερμούπολης",
+                  "text": "Ein Zentrum für kulturelle Veranstaltungen und Kunst in Ermoupoli.",
+                  "category": "cultural",
+                  "coords": [
+                        24.94344,
+                        37.445266
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Φερεκύδη (καλοκαίρι)",
+                  "text": "Ein natürlicher Ort in Ermoupoli, der mit dem antiken Philosophen verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938046,
+                        37.468956
+                  ]
+            },
+            {
+                  "name": "Πινακοθήκη Κυκλάδων",
+                  "text": "Eine Kunstgalerie in Ermoupoli, die Werke kykladischer Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.945446,
+                        37.4414
+                  ]
+            },
+            {
+                  "name": "Sara-J",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Ermoupoli.",
+                  "category": "museum",
+                  "coords": [
+                        24.944444,
+                        37.443743
+                  ]
+            },
+            {
+                  "name": "ΚΟΙΜΗΤΗΡΙΟ ΤΩΝ ΑΓΓΕΛΩΝ",
+                  "text": "Ein lokaler Ort von Interesse und Sehenswürdigkeit in Ermoupoli.",
+                  "category": "landmark",
+                  "coords": [
+                        24.934122,
+                        37.453327
+                  ]
+            },
+            {
+                  "name": "μνημείο μικρασιατικής καταστροφής",
+                  "text": "Ein Denkmal in Ermoupoli zur Erinnerung an die kleinasiatische Katastrophe.",
+                  "category": "historical",
+                  "coords": [
+                        24.936605,
+                        37.44596
+                  ]
+            },
+            {
+                  "name": "Δημοτική μουσική Ερμούπολης",
+                  "text": "Ein städtisches Zentrum für Musik und Kunst in Ermoupoli.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944516,
+                        37.444669
+                  ]
+            },
+            {
+                  "name": "Αναστάσεως του Σωτήρος",
+                  "text": "Eine imposante orthodoxe Kirche, die auf einem Hügel über Ermoupoli thront.",
+                  "category": "religious",
+                  "coords": [
+                        24.941287,
+                        37.448628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σύρου",
+                  "text": "Az 1834-ben alapított múzeum Szírosz szigetének régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.94238,
+                        37.445141
+                  ]
+            },
+            {
+                  "name": "Βιομηχανικό Μουσείο Ερμούπολης",
+                  "text": "Ermúpoli múzeuma, amely a sziget ipari történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.93465,
+                        37.437928
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο",
+                  "text": "Egyházi művészetet és történelmet bemutató múzeum Ermúpoliban.",
+                  "category": "museum",
+                  "coords": [
+                        24.944495,
+                        37.44603
+                  ]
+            },
+            {
+                  "name": "Έκθεση Μάρκου Βαμβακάρη Ενθυμήματα",
+                  "text": "Ermúpoli múzeuma, amelyet a híres zenésznek, Markosz Vamvakaridzisznak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        24.935466,
+                        37.44927
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Μουσείο Ερμούπολης",
+                  "text": "Ermúpoli várostörténetét és fejlődését dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        24.947059,
+                        37.447294
+                  ]
+            },
+            {
+                  "name": "Βαθύ Γιαλούδι",
+                  "text": "Tengerparti szakasz és strand Ermúpoli közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        24.950189,
+                        37.430068
+                  ]
+            },
+            {
+                  "name": "Πνευματικό Κέντρο Ερμούπολης",
+                  "text": "Kulturális rendezvények és művészetek központja Ermúpoliban.",
+                  "category": "cultural",
+                  "coords": [
+                        24.94344,
+                        37.445266
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Φερεκύδη (καλοκαίρι)",
+                  "text": "Ermúpoli természeti helyszíne, amely az ókori filozófushoz kötődik.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938046,
+                        37.468956
+                  ]
+            },
+            {
+                  "name": "Πινακοθήκη Κυκλάδων",
+                  "text": "Művészeti galéria Ermúpoliban, amely kükládi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.945446,
+                        37.4414
+                  ]
+            },
+            {
+                  "name": "Sara-J",
+                  "text": "Kortárs művészeti galéria Ermúpoliban.",
+                  "category": "museum",
+                  "coords": [
+                        24.944444,
+                        37.443743
+                  ]
+            },
+            {
+                  "name": "ΚΟΙΜΗΤΗΡΙΟ ΤΩΝ ΑΓΓΕΛΩΝ",
+                  "text": "Helyi érdekesség és látnivaló Ermúpoliban.",
+                  "category": "landmark",
+                  "coords": [
+                        24.934122,
+                        37.453327
+                  ]
+            },
+            {
+                  "name": "μνημείο μικρασιατικής καταστροφής",
+                  "text": "Ermúpoli emlékműve a kis-ázsiai katasztrófa emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        24.936605,
+                        37.44596
+                  ]
+            },
+            {
+                  "name": "Δημοτική μουσική Ερμούπολης",
+                  "text": "Ermúpoli városi zenei és művészeti központja.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944516,
+                        37.444669
+                  ]
+            },
+            {
+                  "name": "Αναστάσεως του Σωτήρος",
+                  "text": "Impozáns ortodox templom, amely egy dombon magasodik Ermúpoli felett.",
+                  "category": "religious",
+                  "coords": [
+                        24.941287,
+                        37.448628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Σύρου",
+                  "text": "Fondat în 1834, muzeul expune descoperiri arheologice importante de pe insula Syros.",
+                  "category": "museum",
+                  "coords": [
+                        24.94238,
+                        37.445141
+                  ]
+            },
+            {
+                  "name": "Βιομηχανικό Μουσείο Ερμούπολης",
+                  "text": "Un muzeu din Ermoupoli dedicat istoriei industriale a insulei.",
+                  "category": "museum",
+                  "coords": [
+                        24.93465,
+                        37.437928
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Μουσείο",
+                  "text": "Un muzeu din Ermoupoli care prezintă artă și istorie bisericească.",
+                  "category": "museum",
+                  "coords": [
+                        24.944495,
+                        37.44603
+                  ]
+            },
+            {
+                  "name": "Έκθεση Μάρκου Βαμβακάρη Ενθυμήματα",
+                  "text": "Un muzeu din Ermoupoli dedicat celebrului muzician Markos Vamvakaris.",
+                  "category": "museum",
+                  "coords": [
+                        24.935466,
+                        37.44927
+                  ]
+            },
+            {
+                  "name": "Ιστορικό Μουσείο Ερμούπολης",
+                  "text": "Un muzeu care documentează istoria orașului și dezvoltarea localității Ermoupoli.",
+                  "category": "museum",
+                  "coords": [
+                        24.947059,
+                        37.447294
+                  ]
+            },
+            {
+                  "name": "Βαθύ Γιαλούδι",
+                  "text": "O secțiune de coastă și o zonă de plajă lângă Ermoupoli.",
+                  "category": "recreational",
+                  "coords": [
+                        24.950189,
+                        37.430068
+                  ]
+            },
+            {
+                  "name": "Πνευματικό Κέντρο Ερμούπολης",
+                  "text": "Un centru pentru evenimente culturale și arte în Ermoupoli.",
+                  "category": "cultural",
+                  "coords": [
+                        24.94344,
+                        37.445266
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Φερεκύδη (καλοκαίρι)",
+                  "text": "Un sit natural din Ermoupoli asociat cu filosoful antic.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938046,
+                        37.468956
+                  ]
+            },
+            {
+                  "name": "Πινακοθήκη Κυκλάδων",
+                  "text": "O galerie de artă din Ermoupoli care expune lucrările artiștilor cicladici.",
+                  "category": "museum",
+                  "coords": [
+                        24.945446,
+                        37.4414
+                  ]
+            },
+            {
+                  "name": "Sara-J",
+                  "text": "O galerie de artă contemporană în Ermoupoli.",
+                  "category": "museum",
+                  "coords": [
+                        24.944444,
+                        37.443743
+                  ]
+            },
+            {
+                  "name": "ΚΟΙΜΗΤΗΡΙΟ ΤΩΝ ΑΓΓΕΛΩΝ",
+                  "text": "Un punct de interes local și atracție în Ermoupoli.",
+                  "category": "landmark",
+                  "coords": [
+                        24.934122,
+                        37.453327
+                  ]
+            },
+            {
+                  "name": "μνημείο μικρασιατικής καταστροφής",
+                  "text": "Un monument din Ermoupoli care comemorează catastrofa din Asia Mică.",
+                  "category": "historical",
+                  "coords": [
+                        24.936605,
+                        37.44596
+                  ]
+            },
+            {
+                  "name": "Δημοτική μουσική Ερμούπολης",
+                  "text": "Un centru municipal pentru muzică și artă în Ermoupoli.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944516,
+                        37.444669
+                  ]
+            },
+            {
+                  "name": "Αναστάσεως του Σωτήρος",
+                  "text": "O biserică ortodoxă impunătoare care domină orașul Ermoupoli de pe un deal.",
+                  "category": "religious",
+                  "coords": [
+                        24.941287,
+                        37.448628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Syros Archaeological Museum",
+                  "text": "Founded in 1834, the museum houses significant archaeological finds from the island of Syros.",
+                  "category": "museum",
+                  "coords": [
+                        24.94238,
+                        37.445141
+                  ]
+            },
+            {
+                  "name": "Industrial Museum of Hermoupolis",
+                  "text": "A museum in Ermoupoli dedicated to the industrial history of the island.",
+                  "category": "museum",
+                  "coords": [
+                        24.93465,
+                        37.437928
+                  ]
+            },
+            {
+                  "name": "Church's Museum",
+                  "text": "A museum in Ermoupoli showcasing ecclesiastical art and history.",
+                  "category": "museum",
+                  "coords": [
+                        24.944495,
+                        37.44603
+                  ]
+            },
+            {
+                  "name": "Έκθεση Μάρκου Βαμβακάρη Ενθυμήματα",
+                  "text": "A museum in Ermoupoli dedicated to the famous musician Markos Vamvakaris.",
+                  "category": "museum",
+                  "coords": [
+                        24.935466,
+                        37.44927
+                  ]
+            },
+            {
+                  "name": "Historical Museum of Hermoupolis",
+                  "text": "A museum documenting the urban history and development of Ermoupoli.",
+                  "category": "museum",
+                  "coords": [
+                        24.947059,
+                        37.447294
+                  ]
+            },
+            {
+                  "name": "Βαθύ Γιαλούδι",
+                  "text": "A coastal stretch and beach area near Ermoupoli.",
+                  "category": "recreational",
+                  "coords": [
+                        24.950189,
+                        37.430068
+                  ]
+            },
+            {
+                  "name": "Cultural Center",
+                  "text": "A center for cultural events and arts in Ermoupoli.",
+                  "category": "cultural",
+                  "coords": [
+                        24.94344,
+                        37.445266
+                  ]
+            },
+            {
+                  "name": "Pherecydes' cave",
+                  "text": "A natural site in Ermoupoli associated with the ancient philosopher.",
+                  "category": "landmark",
+                  "coords": [
+                        24.938046,
+                        37.468956
+                  ]
+            },
+            {
+                  "name": "Πινακοθήκη Κυκλάδων",
+                  "text": "An art gallery in Ermoupoli exhibiting works by Cycladic artists.",
+                  "category": "museum",
+                  "coords": [
+                        24.945446,
+                        37.4414
+                  ]
+            },
+            {
+                  "name": "Sara-J",
+                  "text": "A contemporary art gallery in Ermoupoli.",
+                  "category": "museum",
+                  "coords": [
+                        24.944444,
+                        37.443743
+                  ]
+            },
+            {
+                  "name": "ΚΟΙΜΗΤΗΡΙΟ ΤΩΝ ΑΓΓΕΛΩΝ",
+                  "text": "A local point of interest and attraction in Ermoupoli.",
+                  "category": "landmark",
+                  "coords": [
+                        24.934122,
+                        37.453327
+                  ]
+            },
+            {
+                  "name": "μνημείο μικρασιατικής καταστροφής",
+                  "text": "A monument in Ermoupoli commemorating the Asia Minor catastrophe.",
+                  "category": "historical",
+                  "coords": [
+                        24.936605,
+                        37.44596
+                  ]
+            },
+            {
+                  "name": "Δημοτική μουσική Ερμούπολης",
+                  "text": "A municipal center for music and arts in Ermoupoli.",
+                  "category": "cultural",
+                  "coords": [
+                        24.944516,
+                        37.444669
+                  ]
+            },
+            {
+                  "name": "Αναστάσεως του Σωτήρος",
+                  "text": "An imposing Orthodox church standing on a hill overlooking Ermoupoli.",
+                  "category": "religious",
+                  "coords": [
+                        24.941287,
+                        37.448628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-L",
     coords: [24.9431, 37.4449],
@@ -714,7 +7707,844 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Ermoupoli a été fondée en 1826 et nommée d'après Hermès, le dieu du commerce.", "L'hôtel de ville d'Ermoupoli sur la place Miaoulis a été officiellement inauguré en 1898.", "Le théâtre Apollon a été construit en 1864 et est une copie réduite de la Scala de Milan.", "Syros possédait au XIXe siècle le premier chantier naval moderne de Grèce.", "La ville abrite l'Université de l'Égée avec le département de design de produits.", "L'église Agios Nikolaos dans le quartier de Vaporia possède un dôme bleu distinctif et des sculptures en marbre."],
     }, image: "/poi-images/city-hermoupolis-extra.webp"},
   {
-    id: "city-mytilene-extra",
+    id: "city-mytilene-extra", "sights": {
+      "de": [
+            {
+                  "name": "Leuchtturm FYKIOTRYPA",
+                  "text": "Ein markanter Leuchtturm in Mytilini, der die Schifffahrt an der Küste leitet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.567117,
+                        39.111726
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή ιχθυοδεξαμενή",
+                  "text": "Antike, in den Fels gehauene Becken in Mytilini, die vermutlich als römische Fischteiche dienten.",
+                  "category": "historical",
+                  "coords": [
+                        26.555144,
+                        39.099197
+                  ]
+            },
+            {
+                  "name": "Castle of Mytilini",
+                  "text": "Eine der größten Burgen im Mittelmeerraum, die über der Stadt Mytilini thront.",
+                  "category": "castle",
+                  "coords": [
+                        26.562435,
+                        39.11145
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο",
+                  "text": "Ein modernes Museum in Mytilini, das bedeutende archäologische Funde der Insel Lesbos ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.561546,
+                        39.106835
+                  ]
+            },
+            {
+                  "name": "Εμπορική στοά Ελληνιστικών χρόνων στην Επάνω Σκάλα",
+                  "text": "Ruinen einer antiken Markthalle aus der hellenistischen Zeit im Viertel Epano Skala in Mytilini.",
+                  "category": "historical",
+                  "coords": [
+                        26.555857,
+                        39.111944
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη Χαλίμ Μπέη",
+                  "text": "Eine städtische Galerie in Mytilini, die in einem historischen Herrenhaus untergebracht ist und lokale Kunst präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.55959,
+                        39.110756
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος οδού Νικομηδείας",
+                  "text": "Ein Ausgrabungsgelände in Mytilini mit Überresten antiker Gebäude und Strukturen.",
+                  "category": "historical",
+                  "coords": [
+                        26.557838,
+                        39.111454
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο",
+                  "text": "Ein bedeutendes Kulturzentrum in Mytilini, das Theateraufführungen und Konzerte beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        26.555359,
+                        39.103741
+                  ]
+            },
+            {
+                  "name": "Τσαρσί Χαμάμ",
+                  "text": "Ein ehemaliges osmanisches Bad in Mytilini, das heute als Ausstellungsraum genutzt wird.",
+                  "category": "museum",
+                  "coords": [
+                        26.557078,
+                        39.110449
+                  ]
+            },
+            {
+                  "name": "Αρχαίο θέατρο Μυτιλήνης",
+                  "text": "Die Überreste eines antiken griechischen Theaters in Mytilini, bekannt für seine hervorragende Akustik.",
+                  "category": "historical",
+                  "coords": [
+                        26.547001,
+                        39.11051
+                  ]
+            },
+            {
+                  "name": "ΤΟΥΡΚΙΚΟ ΤΖΑΜΙ",
+                  "text": "Ein archäologischer Fundort in Mytilini, der die Grundrisse eines antiken römischen Wohnhauses zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        26.554105,
+                        39.111889
+                  ]
+            },
+            {
+                  "name": "ανοιχτό θέατρο",
+                  "text": "Ein Freilufttheater in Mytilini, das regelmäßig für kulturelle Veranstaltungen im Freien genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        26.557178,
+                        39.096789
+                  ]
+            },
+            {
+                  "name": "Φυκιότρυπα",
+                  "text": "Ein kleiner Strandabschnitt in Mytilini, der bei Einheimischen für ein schnelles Bad beliebt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        26.565934,
+                        39.111976
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Βυζαντινό Μουσείο",
+                  "text": "Ein Museum in Mytilini, das religiöse Kunst und byzantinische Ikonen der Region bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        26.554193,
+                        39.105169
+                  ]
+            },
+            {
+                  "name": "Άστεγοι",
+                  "text": "Ein Kulturraum und Theater in Mytilini, der sich auf zeitgenössische Kunst konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        26.553434,
+                        39.106164
+                  ]
+            },
+            {
+                  "name": "Ιερό Μαλέοντος Απόλλωνος",
+                  "text": "Eine archäologische Stätte in Mytilini, die den Ruinen eines Heiligtums des Gottes Apollon entspricht.",
+                  "category": "historical",
+                  "coords": [
+                        26.555948,
+                        39.11078
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Έπαυλη",
+                  "text": "Gut erhaltene Überreste einer römischen Villa in Mytilini mit historischen Bodenstrukturen.",
+                  "category": "historical",
+                  "coords": [
+                        26.553429,
+                        39.110732
+                  ]
+            },
+            {
+                  "name": "Ιερό Δήμητρας και Κόρης",
+                  "text": "Eine antike Kultstätte in Mytilini, die Demeter und ihrer Tochter Kore gewidmet war.",
+                  "category": "historical",
+                  "coords": [
+                        26.563371,
+                        39.111239
+                  ]
+            },
+            {
+                  "name": "Οικία Μενάνδρου",
+                  "text": "Ein historischer Ort in Mytilini, der mit dem antiken Dichter Menander in Verbindung gebracht wird.",
+                  "category": "historical",
+                  "coords": [
+                        26.553408,
+                        39.109045
+                  ]
+            },
+            {
+                  "name": "Τμήμα ρωμαϊκού υδραγωγείου",
+                  "text": "Überreste eines antiken römischen Aquädukts in Mytilini, das einst die Stadt mit Wasser versorgte.",
+                  "category": "historical",
+                  "coords": [
+                        26.550485,
+                        39.106514
+                  ]
+            },
+            {
+                  "name": "ΕΠΙΜΕΛΗΤΗΡΙΟ",
+                  "text": "Ein denkmalgeschütztes Gebäude in Mytilini, das für seine architektonische Bedeutung bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.558824,
+                        39.105748
+                  ]
+            },
+            {
+                  "name": "Tsamakia Strand",
+                  "text": "Ein beliebter organisierter Strandabschnitt in Mytilini mit verschiedenen Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        26.564508,
+                        39.107894
+                  ]
+            },
+            {
+                  "name": "Πύργος Λοράντα",
+                  "text": "Ruinen eines historischen Turms in Mytilini, der Teil der ehemaligen Verteidigungsanlagen war.",
+                  "category": "historical",
+                  "coords": [
+                        26.560471,
+                        39.113704
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "φάρος ΦΥΚΙΟΤΡΥΠΑ",
+                  "text": "Jellegzetes világítótorony Mitilíniben, amely a tengeri közlekedést segíti a part mentén.",
+                  "category": "landmark",
+                  "coords": [
+                        26.567117,
+                        39.111726
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή ιχθυοδεξαμενή",
+                  "text": "Sziklába vájt ókori medencék Mitilíniben, amelyeket feltehetően római halkeltetőként használtak.",
+                  "category": "historical",
+                  "coords": [
+                        26.555144,
+                        39.099197
+                  ]
+            },
+            {
+                  "name": "Κάστρο Μυτιλήνης",
+                  "text": "A Földközi-tenger egyik legnagyobb vára, amely Mitilíni városa felett magasodik.",
+                  "category": "castle",
+                  "coords": [
+                        26.562435,
+                        39.11145
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο",
+                  "text": "Modern múzeum Mitilíniben, amely Leszbosz szigetének jelentős régészeti leleteit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.561546,
+                        39.106835
+                  ]
+            },
+            {
+                  "name": "Εμπορική στοά Ελληνιστικών χρόνων στην Επάνω Σκάλα",
+                  "text": "Hellenisztikus kori ókori kereskedelmi csarnok romjai Mitilíni Epano Skala negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        26.555857,
+                        39.111944
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη Χαλίμ Μπέη",
+                  "text": "Városi galéria Mitilíniben, amely egy történelmi kúriában kapott helyet és helyi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.55959,
+                        39.110756
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος οδού Νικομηδείας",
+                  "text": "Régészeti lelőhely Mitilíniben ókori épületek és építmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        26.557838,
+                        39.111454
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο",
+                  "text": "Fontos kulturális központ Mitilíniben, amely színházi előadásoknak és koncerteknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        26.555359,
+                        39.103741
+                  ]
+            },
+            {
+                  "name": "Τσαρσί Χαμάμ",
+                  "text": "Egykori oszmán fürdő Mitilíniben, amely ma kiállítótérként működik.",
+                  "category": "museum",
+                  "coords": [
+                        26.557078,
+                        39.110449
+                  ]
+            },
+            {
+                  "name": "Αρχαίο θέατρο Μυτιλήνης",
+                  "text": "Egy ókori görög színház maradványai Mitilíniben, amely kiváló akusztikájáról ismert.",
+                  "category": "historical",
+                  "coords": [
+                        26.547001,
+                        39.11051
+                  ]
+            },
+            {
+                  "name": "ΤΟΥΡΚΙΚΟ ΤΖΑΜΙ",
+                  "text": "Régészeti lelőhely Mitilíniben, amely egy ókori római lakóház alaprajzait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        26.554105,
+                        39.111889
+                  ]
+            },
+            {
+                  "name": "ανοιχτό θέατρο",
+                  "text": "Szabadtéri színház Mitilíniben, amelyet rendszeresen használnak szabadtéri kulturális eseményekre.",
+                  "category": "cultural",
+                  "coords": [
+                        26.557178,
+                        39.096789
+                  ]
+            },
+            {
+                  "name": "Φυκιότρυπα",
+                  "text": "Kisebb tengerparti szakasz Mitilíniben, amely népszerű a helyiek körében egy gyors fürdőzésre.",
+                  "category": "recreational",
+                  "coords": [
+                        26.565934,
+                        39.111976
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Βυζαντινό Μουσείο",
+                  "text": "Múzeum Mitilíniben, amely a régió vallási művészetét és bizánci ikonjait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        26.554193,
+                        39.105169
+                  ]
+            },
+            {
+                  "name": "Άστεγοι",
+                  "text": "Kulturális tér és színház Mitilíniben, amely a kortárs művészetre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        26.553434,
+                        39.106164
+                  ]
+            },
+            {
+                  "name": "Ιερό Μαλέοντος Απόλλωνος",
+                  "text": "Régészeti lelőhely Mitilíniben, amely Apollón isten egyik szentélyének romjait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        26.555948,
+                        39.11078
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Έπαυλη",
+                  "text": "Római villa jó állapotban fennmaradt maradványai Mitilíniben, történelmi padlószerkezetekkel.",
+                  "category": "historical",
+                  "coords": [
+                        26.553429,
+                        39.110732
+                  ]
+            },
+            {
+                  "name": "Ιερό Δήμητρας και Κόρης",
+                  "text": "Ókori kultikus hely Mitilíniben, amelyet Démétérnek és lányának, Korénak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        26.563371,
+                        39.111239
+                  ]
+            },
+            {
+                  "name": "Οικία Μενάνδρου",
+                  "text": "Történelmi helyszín Mitilíniben, amelyet az ókori költővel, Menandrosszal hoznak összefüggésbe.",
+                  "category": "historical",
+                  "coords": [
+                        26.553408,
+                        39.109045
+                  ]
+            },
+            {
+                  "name": "Τμήμα ρωμαϊκού υδραγωγείου",
+                  "text": "Ókori római vízvezeték maradványai Mitilíniben, amely egykor a város vízellátását biztosította.",
+                  "category": "historical",
+                  "coords": [
+                        26.550485,
+                        39.106514
+                  ]
+            },
+            {
+                  "name": "ΕΠΙΜΕΛΗΤΗΡΙΟ",
+                  "text": "Műemlék épület Mitilíniben, amely építészeti jelentőségéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        26.558824,
+                        39.105748
+                  ]
+            },
+            {
+                  "name": "Ακτή Τσαμάκια",
+                  "text": "Népszerű, kiépített tengerparti rész Mitilíniben, különféle szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        26.564508,
+                        39.107894
+                  ]
+            },
+            {
+                  "name": "Πύργος Λοράντα",
+                  "text": "Történelmi torony romjai Mitilíniben, amely az egykori védelmi rendszer része volt.",
+                  "category": "historical",
+                  "coords": [
+                        26.560471,
+                        39.113704
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "φάρος ΦΥΚΙΟΤΡΥΠΑ",
+                  "text": "Un far distinctiv în Mytilini, care ghidează navigația de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        26.567117,
+                        39.111726
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή ιχθυοδεξαμενή",
+                  "text": "Bazine antice săpate în stâncă în Mytilini, folosite probabil ca bazine romane pentru pești.",
+                  "category": "historical",
+                  "coords": [
+                        26.555144,
+                        39.099197
+                  ]
+            },
+            {
+                  "name": "Κάστρο Μυτιλήνης",
+                  "text": "Una dintre cele mai mari cetăți din Marea Mediterană, care domină orașul Mytilini.",
+                  "category": "castle",
+                  "coords": [
+                        26.562435,
+                        39.11145
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο",
+                  "text": "Un muzeu modern în Mytilini, care expune descoperiri arheologice importante de pe insula Lesbos.",
+                  "category": "museum",
+                  "coords": [
+                        26.561546,
+                        39.106835
+                  ]
+            },
+            {
+                  "name": "Εμπορική στοά Ελληνιστικών χρόνων στην Επάνω Σκάλα",
+                  "text": "Ruinele unei hale comerciale antice din perioada elenistică în cartierul Epano Skala din Mytilini.",
+                  "category": "historical",
+                  "coords": [
+                        26.555857,
+                        39.111944
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη Χαλίμ Μπέη",
+                  "text": "O galerie de artă municipală în Mytilini, găzduită într-un conac istoric, prezentând arta locală.",
+                  "category": "museum",
+                  "coords": [
+                        26.55959,
+                        39.110756
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικός χώρος οδού Νικομηδείας",
+                  "text": "Un sit arheologic în Mytilini, care conține resturi de clădiri și structuri antice.",
+                  "category": "historical",
+                  "coords": [
+                        26.557838,
+                        39.111454
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο",
+                  "text": "Un centru cultural important în Mytilini, care găzduiește spectacole de teatru și concerte.",
+                  "category": "cultural",
+                  "coords": [
+                        26.555359,
+                        39.103741
+                  ]
+            },
+            {
+                  "name": "Τσαρσί Χαμάμ",
+                  "text": "O fostă baie otomană în Mytilini, utilizată în prezent ca spațiu expozițional.",
+                  "category": "museum",
+                  "coords": [
+                        26.557078,
+                        39.110449
+                  ]
+            },
+            {
+                  "name": "Αρχαίο θέατρο Μυτιλήνης",
+                  "text": "Rămășițele unui teatru grec antic în Mytilini, cunoscut pentru acustica sa excelentă.",
+                  "category": "historical",
+                  "coords": [
+                        26.547001,
+                        39.11051
+                  ]
+            },
+            {
+                  "name": "ΤΟΥΡΚΙΚΟ ΤΖΑΜΙ",
+                  "text": "Un sit arheologic în Mytilini care prezintă planul unei case romane antice.",
+                  "category": "historical",
+                  "coords": [
+                        26.554105,
+                        39.111889
+                  ]
+            },
+            {
+                  "name": "ανοιχτό θέατρο",
+                  "text": "Un teatru în aer liber în Mytilini, utilizat regulat pentru evenimente culturale exterioare.",
+                  "category": "cultural",
+                  "coords": [
+                        26.557178,
+                        39.096789
+                  ]
+            },
+            {
+                  "name": "Φυκιότρυπα",
+                  "text": "O mică secțiune de plajă în Mytilini, populară printre localnici pentru o baie rapidă.",
+                  "category": "recreational",
+                  "coords": [
+                        26.565934,
+                        39.111976
+                  ]
+            },
+            {
+                  "name": "Εκκλησιαστικό Βυζαντινό Μουσείο",
+                  "text": "Un muzeu în Mytilini care păstrează arta religioasă și icoanele bizantine din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        26.554193,
+                        39.105169
+                  ]
+            },
+            {
+                  "name": "Άστεγοι",
+                  "text": "Un spațiu cultural și teatru în Mytilini, concentrat pe arta contemporană.",
+                  "category": "cultural",
+                  "coords": [
+                        26.553434,
+                        39.106164
+                  ]
+            },
+            {
+                  "name": "Ιερό Μαλέοντος Απόλλωνος",
+                  "text": "Un sit arheologic în Mytilini, reprezentând ruinele unui sanctuar al zeului Apollo.",
+                  "category": "historical",
+                  "coords": [
+                        26.555948,
+                        39.11078
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Έπαυλη",
+                  "text": "Rămășițe bine conservate ale unei vile romane în Mytilini, cu structuri de podea istorice.",
+                  "category": "historical",
+                  "coords": [
+                        26.553429,
+                        39.110732
+                  ]
+            },
+            {
+                  "name": "Ιερό Δήμητρας και Κόρης",
+                  "text": "Un loc de cult antic în Mytilini dedicat lui Demeter și fiicei sale Kore.",
+                  "category": "historical",
+                  "coords": [
+                        26.563371,
+                        39.111239
+                  ]
+            },
+            {
+                  "name": "Οικία Μενάνδρου",
+                  "text": "Un loc istoric în Mytilini asociat cu poetul antic Menandru.",
+                  "category": "historical",
+                  "coords": [
+                        26.553408,
+                        39.109045
+                  ]
+            },
+            {
+                  "name": "Τμήμα ρωμαϊκού υδραγωγείου",
+                  "text": "Rămășițele unui apeduct roman antic în Mytilini, care asigura odinioară alimentarea cu apă a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        26.550485,
+                        39.106514
+                  ]
+            },
+            {
+                  "name": "ΕΠΙΜΕΛΗΤΗΡΙΟ",
+                  "text": "O clădire monument în Mytilini, cunoscută pentru importanța sa arhitecturală.",
+                  "category": "historical",
+                  "coords": [
+                        26.558824,
+                        39.105748
+                  ]
+            },
+            {
+                  "name": "Ακτή Τσαμάκια",
+                  "text": "O secțiune de plajă organizată populară în Mytilini, cu diverse facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        26.564508,
+                        39.107894
+                  ]
+            },
+            {
+                  "name": "Πύργος Λοράντα",
+                  "text": "Ruinele unui turn istoric în Mytilini, care a făcut parte din fostele fortificații.",
+                  "category": "historical",
+                  "coords": [
+                        26.560471,
+                        39.113704
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "φάρος ΦΥΚΙΟΤΡΥΠΑ",
+                  "text": "A prominent lighthouse in Mytilini guiding maritime navigation along the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        26.567117,
+                        39.111726
+                  ]
+            },
+            {
+                  "name": "Roman fish tank",
+                  "text": "Ancient rock-cut basins in Mytilini, likely used as Roman fish tanks.",
+                  "category": "historical",
+                  "coords": [
+                        26.555144,
+                        39.099197
+                  ]
+            },
+            {
+                  "name": "Castle of Mytilene",
+                  "text": "One of the largest castles in the Mediterranean, overlooking the city of Mytilini.",
+                  "category": "castle",
+                  "coords": [
+                        26.562435,
+                        39.11145
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum - New Building",
+                  "text": "A modern museum in Mytilini exhibiting significant archaeological finds from Lesbos island.",
+                  "category": "museum",
+                  "coords": [
+                        26.561546,
+                        39.106835
+                  ]
+            },
+            {
+                  "name": "Commercial stoa of the Hellenistic Period in Epano Skala",
+                  "text": "Ruins of an ancient commercial stoa from the Hellenistic period in the Epano Skala district of Mytilini.",
+                  "category": "historical",
+                  "coords": [
+                        26.555857,
+                        39.111944
+                  ]
+            },
+            {
+                  "name": "Halim Bey Municipal Art Gallery",
+                  "text": "A municipal art gallery in Mytilini housed in a historical mansion, showcasing local art.",
+                  "category": "museum",
+                  "coords": [
+                        26.55959,
+                        39.110756
+                  ]
+            },
+            {
+                  "name": "Archaeological site of Nikomedeias St.",
+                  "text": "An archaeological site in Mytilini featuring remains of ancient buildings and structures.",
+                  "category": "historical",
+                  "coords": [
+                        26.557838,
+                        39.111454
+                  ]
+            },
+            {
+                  "name": "Municipal Theater",
+                  "text": "A significant cultural center in Mytilini hosting theatrical performances and concerts.",
+                  "category": "cultural",
+                  "coords": [
+                        26.555359,
+                        39.103741
+                  ]
+            },
+            {
+                  "name": "Τσαρσί Χαμάμ",
+                  "text": "A former Ottoman bath in Mytilini, now functioning as an exhibition space.",
+                  "category": "museum",
+                  "coords": [
+                        26.557078,
+                        39.110449
+                  ]
+            },
+            {
+                  "name": "Αρχαίο θέατρο Μυτιλήνης",
+                  "text": "The remains of an ancient Greek theater in Mytilini, known for its excellent acoustics.",
+                  "category": "historical",
+                  "coords": [
+                        26.547001,
+                        39.11051
+                  ]
+            },
+            {
+                  "name": "Roman House",
+                  "text": "An archaeological site in Mytilini showing the floor plans of an ancient Roman residential house.",
+                  "category": "historical",
+                  "coords": [
+                        26.554105,
+                        39.111889
+                  ]
+            },
+            {
+                  "name": "open air theater",
+                  "text": "An open-air theater in Mytilini regularly used for outdoor cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        26.557178,
+                        39.096789
+                  ]
+            },
+            {
+                  "name": "Fikiotripa",
+                  "text": "A small beach area in Mytilini, popular among locals for a quick swim.",
+                  "category": "recreational",
+                  "coords": [
+                        26.565934,
+                        39.111976
+                  ]
+            },
+            {
+                  "name": "Ecclesiastical Byzantine Museum of Mytilene",
+                  "text": "A museum in Mytilini preserving religious art and Byzantine icons from the region.",
+                  "category": "museum",
+                  "coords": [
+                        26.554193,
+                        39.105169
+                  ]
+            },
+            {
+                  "name": "Astegoi",
+                  "text": "A cultural space and theatre in Mytilini focusing on contemporary arts.",
+                  "category": "cultural",
+                  "coords": [
+                        26.553434,
+                        39.106164
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Apollo Maloeis",
+                  "text": "An archaeological site in Mytilini representing the ruins of a sanctuary of god Apollo.",
+                  "category": "historical",
+                  "coords": [
+                        26.555948,
+                        39.11078
+                  ]
+            },
+            {
+                  "name": "Ρωμαϊκή Έπαυλη",
+                  "text": "Well-preserved remains of a Roman villa in Mytilini featuring historical floor structures.",
+                  "category": "historical",
+                  "coords": [
+                        26.553429,
+                        39.110732
+                  ]
+            },
+            {
+                  "name": "Sanctuary of Demeter and Kore",
+                  "text": "An ancient cult site in Mytilini dedicated to Demeter and her daughter Kore.",
+                  "category": "historical",
+                  "coords": [
+                        26.563371,
+                        39.111239
+                  ]
+            },
+            {
+                  "name": "The house of Menander",
+                  "text": "A historical site in Mytilini associated with the ancient poet Menander.",
+                  "category": "historical",
+                  "coords": [
+                        26.553408,
+                        39.109045
+                  ]
+            },
+            {
+                  "name": "Τμήμα ρωμαϊκού υδραγωγείου",
+                  "text": "Remains of an ancient Roman aqueduct in Mytilini that once supplied the city with water.",
+                  "category": "historical",
+                  "coords": [
+                        26.550485,
+                        39.106514
+                  ]
+            },
+            {
+                  "name": "ΕΠΙΜΕΛΗΤΗΡΙΟ",
+                  "text": "A monument building in Mytilini known for its architectural significance.",
+                  "category": "historical",
+                  "coords": [
+                        26.558824,
+                        39.105748
+                  ]
+            },
+            {
+                  "name": "Tsamakia beach",
+                  "text": "A popular organized beach area in Mytilini with various leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        26.564508,
+                        39.107894
+                  ]
+            },
+            {
+                  "name": "Loranda tower",
+                  "text": "Ruins of a historical tower in Mytilini that was part of the former fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        26.560471,
+                        39.113704
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-L",
     coords: [26.5569, 39.1103],
@@ -756,7 +8586,484 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le château de Mytilène s'étend sur 60 hectares, ce qui en fait l'un des plus grands d'Europe.", "Mytilène fut fondée dès le XIe siècle av. J.-C. par les Éoliens.", "Le théâtre antique de la ville, de l'époque hellénistique, pouvait accueillir 10 000 spectateurs.", "La ville abrite le musée d'art moderne - Stratis Eleftheriadis (Tériade).", "Mytilène est le centre mondial de production d'ouzo, notamment de la région de Plomari.", "La statue de la Liberté dans le port de Mytilène est une réplique plus petite de celle de New York."],
     }, image: "/poi-images/city-mytilene-extra.webp"},
   {
-    id: "city-chios-extra",
+    id: "city-chios-extra", "sights": {
+      "de": [
+            {
+                  "name": "Marinemuseum",
+                  "text": "Das Schifffahrtsmuseum von Chios präsentiert die reiche Marinegeschichte und die Traditionen von Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Byzantinisches Museum",
+                  "text": "Das Byzantinische Museum in Chios Stadt ist in einer alten osmanischen Moschee untergebracht und zeigt historische Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Archäologisches Museum",
+                  "text": "Das Archäologische Museum von Chios stellt zahlreiche antike Funde aus der ganzen Insel aus.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Ottomanisches Badhaus (Hammam)",
+                  "text": "Die osmanischen Bäder dienen als faszinierendes Museum für historische Hammam-Architektur in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη Χιου",
+                  "text": "Ein Kunstmuseum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "Ein malerischer Strand in Chios Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Korais Bibliothek und Museum",
+                  "text": "Ein Museum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Κάστρο Χίου",
+                  "text": "Eine historische Festung in Chios Stadt, die sich im nördlichen Teil des Stadtzentrums befindet.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "ΜΝΗΜΕΙΟ ΠΑΝΑΓΥΦΤΟΠΟΥΛΟΥ ΣΤΥΛΙΑΝΟΥ",
+                  "text": "Ein Denkmal in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Μπαϊρακλή Τζαμί",
+                  "text": "Ein historisches Denkmal in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "Eine historische Sehenswürdigkeit in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmühlen von Tampakika",
+                  "text": "Historische Windmühlen und eine lokale Attraktion in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Ιερός Καθολικός Καθεδρικός Ναός Αγίου Νικολάου",
+                  "text": "Eine religiöse Kultstätte in Chios Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ναυτικό Μουσείο Χίου",
+                  "text": "A Híoszi Tengerészeti Múzeum Híosz városa gazdag tengerészeti történelmét és hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Μουσείο Χίου",
+                  "text": "A Híosz városában található Bizánci Múzeum egy régi oszmán mecsetben kapott helyet, és történelmi műtárgyakat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χίου",
+                  "text": "A Híoszi Régészeti Múzeum számos ókori leletet állít ki a sziget minden tájáról.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Οθωμανικό Λουτρό (Χαμάμ)",
+                  "text": "Az oszmán fürdők a történelmi hammam építészet lenyűgöző múzeumaként szolgálnak Híosz városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη Χιου",
+                  "text": "Egy művészeti múzeum Chios Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "Egy festői strand Chios Stadt városában.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Βιβλιοθήκη Χίου “Κοραής”",
+                  "text": "Egy múzeum Chios Stadt városában.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Κάστρο Χίου",
+                  "text": "Egy történelmi erődítmény Chios Stadt városában, amely a városközpont északi részén található.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "ΜΝΗΜΕΙΟ ΠΑΝΑΓΥΦΤΟΠΟΥΛΟΥ ΣΤΥΛΙΑΝΟΥ",
+                  "text": "Egy emlékmű Chios Stadt városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Μπαϊρακλή Τζαμί",
+                  "text": "Egy történelmi emlékmű Chios Stadt városában.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "Egy történelmi látványosság Chios Stadt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmills of Tampakika",
+                  "text": "Történelmi szélmalmok és helyi látványosság Chios Stadt városában.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Ιερός Καθολικός Καθεδρικός Ναός Αγίου Νικολάου",
+                  "text": "Egy vallási istentiszteleti hely Chios Stadt városában.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ναυτικό Μουσείο Χίου",
+                  "text": "Muzeul Maritim din Chios prezintă istoria și tradițiile navale bogate ale orașului Chios.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Μουσείο Χίου",
+                  "text": "Muzeul Bizantin din Chios Stadt este găzduit într-o veche moschee otomană și prezintă artefacte istorice.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Χίου",
+                  "text": "Muzeul Arheologic din Chios expune numeroase descoperiri antice de pe insulă.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Οθωμανικό Λουτρό (Χαμάμ)",
+                  "text": "Băile otomane servesc drept un muzeu intrigant al arhitecturii istorice a hamamului în Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη Χιου",
+                  "text": "Un muzeu de artă în Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "O plajă pitorească în Chios Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Βιβλιοθήκη Χίου “Κοραής”",
+                  "text": "Un muzeu în Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Κάστρο Χίου",
+                  "text": "O fortăreață istorică din Chios Stadt, situată în partea de nord a centrului orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "ΜΝΗΜΕΙΟ ΠΑΝΑΓΥΦΤΟΠΟΥΛΟΥ ΣΤΥΛΙΑΝΟΥ",
+                  "text": "Un monument în Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Μπαϊρακλή Τζαμί",
+                  "text": "Un monument istoric în Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "O atracție istorică în Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmills of Tampakika",
+                  "text": "Mori de vânt istorice și o atracție locală în Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Ιερός Καθολικός Καθεδρικός Ναός Αγίου Νικολάου",
+                  "text": "Un lăcaș de cult religios în Chios Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Chios Maritime Museum",
+                  "text": "The Chios Maritime Museum showcases the rich naval history and traditions of Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.133857,
+                        38.367067
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "The Byzantine Museum in Chios Stadt is housed in an old Ottoman mosque and features historical artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        26.136251,
+                        38.370493
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of Chios",
+                  "text": "The Archaeological Museum of Chios exhibits numerous ancient finds from across the island.",
+                  "category": "museum",
+                  "coords": [
+                        26.139028,
+                        38.365054
+                  ]
+            },
+            {
+                  "name": "Ottoman Baths (Hammam)",
+                  "text": "The Ottoman Baths serve as an intriguing museum of historic hammam architecture in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.137254,
+                        38.375183
+                  ]
+            },
+            {
+                  "name": "Δημοτική Πινακοθήκη Χιου",
+                  "text": "An art museum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.135197,
+                        38.370329
+                  ]
+            },
+            {
+                  "name": "Bella Vista",
+                  "text": "A scenic beach in Chios Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.143668,
+                        38.362898
+                  ]
+            },
+            {
+                  "name": "Korais Library",
+                  "text": "A museum in Chios Stadt.",
+                  "category": "museum",
+                  "coords": [
+                        26.136963,
+                        38.367672
+                  ]
+            },
+            {
+                  "name": "Castle of Chios",
+                  "text": "A historic fortress in Chios Stadt, located in the northern part of the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        26.136215,
+                        38.373721
+                  ]
+            },
+            {
+                  "name": "ΜΝΗΜΕΙΟ ΠΑΝΑΓΥΦΤΟΠΟΥΛΟΥ ΣΤΥΛΙΑΝΟΥ",
+                  "text": "A monument in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.143404,
+                        38.359278
+                  ]
+            },
+            {
+                  "name": "Μπαϊρακλή Τζαμί",
+                  "text": "A historic monument in Chios Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        26.136187,
+                        38.372814
+                  ]
+            },
+            {
+                  "name": "Leper-Hospital",
+                  "text": "A historical attraction in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.118835,
+                        38.384538
+                  ]
+            },
+            {
+                  "name": "Windmills of Tampakika",
+                  "text": "Historic windmills and a local attraction in Chios Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.138262,
+                        38.382361
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Nicholas",
+                  "text": "A religious place of worship in Chios Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.131688,
+                        38.372697
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-L",
     coords: [26.1364, 38.3681],
@@ -798,7 +9105,88 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Le château de Chios s'étend sur une surface d'environ 40 000 mètres carrés.", "La bibliothèque Korais est la troisième plus grande de Grèce avec plus de 250 000 volumes.", "En 1822, la ville a subi un terrible massacre pendant la guerre d'indépendance grecque.", "L'île de Chios est considérée comme l'un des lieux de naissance possibles du poète Homère.", "La domination génoise sur la ville a duré de 1346 à 1566.", "Le musée byzantin de la ville est installé dans une mosquée ottomane du XIXe siècle."],
     }, image: "/poi-images/city-chios-extra.webp"},
   {
-    id: "city-samos-extra",
+    id: "city-samos-extra", "sights": {
+      "de": [
+            {
+                  "name": "Λιβαδάκι",
+                  "text": "Ein kleiner, ruhiger Strand in der Nähe von Samos-Stadt.",
+                  "category": "recreational",
+                  "coords": [
+                        26.984778,
+                        37.794448
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "Ein beliebter Strandbereich in Samos-Stadt (Vathy).",
+                  "category": "recreational",
+                  "coords": [
+                        26.964741,
+                        37.765259
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Λιβαδάκι",
+                  "text": "Kicsi, csendes strand Szamosz városának közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.984778,
+                        37.794448
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "Népszerű strandterület Szamosz városában (Vathi).",
+                  "category": "recreational",
+                  "coords": [
+                        26.964741,
+                        37.765259
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Λιβαδάκι",
+                  "text": "O plajă mică și liniștită lângă orașul Samos.",
+                  "category": "recreational",
+                  "coords": [
+                        26.984778,
+                        37.794448
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "O zonă de plajă populară în orașul Samos (Vathy).",
+                  "category": "recreational",
+                  "coords": [
+                        26.964741,
+                        37.765259
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Livadaki",
+                  "text": "A small, quiet beach located near Samos Town.",
+                  "category": "recreational",
+                  "coords": [
+                        26.984778,
+                        37.794448
+                  ]
+            },
+            {
+                  "name": "Γάγγου",
+                  "text": "A popular beach area in Samos Town (Vathy).",
+                  "category": "recreational",
+                  "coords": [
+                        26.964741,
+                        37.765259
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-L",
     coords: [26.9725, 37.7897],
@@ -924,7 +9312,232 @@ export const poiExtraGreeceCities: POI[] = [
       fr: ["Capitale du district régional de Chalcidique depuis le XIXe siècle.", "Située à 560 mètres d'altitude au pied du mont Cholomon.", "Début de la révolution grecque en Chalcidique le 17 mai 1821.", "Abrite un musée archéologique avec des découvertes d'Olynthe.", "Centre économique pour la production des olives de Chalcidique.", "La distance jusqu'à la métropole Thessalonique est d'environ 70 kilomètres."],
     }, image: "/poi-images/city-polygyros-extra.webp"},
   {
-    id: "city-kilkis-extra",
+    id: "city-kilkis-extra", "sights": {
+      "de": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Κιλκίς",
+                  "text": "Dieses Museum beherbergt bedeutende Funde aus der antiken Geschichte der Region Kilkis.",
+                  "category": "museum",
+                  "coords": [
+                        22.877608,
+                        40.997642
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κιλκίς",
+                  "text": "Ein Museum, das die Volkskultur und Traditionen von Kilkis zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        22.88051,
+                        40.997331
+                  ]
+            },
+            {
+                  "name": "Στρατιωτικό Μουσείο Κιλκίς",
+                  "text": "Ein Museum, das an die Balkankriege und die Schlacht von Kilkis erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        22.852127,
+                        40.977872
+                  ]
+            },
+            {
+                  "name": "Θέατρο Λόφου",
+                  "text": "Ein lokales Theater für kulturelle Darbietungen in Kilkis.",
+                  "category": "cultural",
+                  "coords": [
+                        22.873522,
+                        40.999136
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Αγίου Γεωργίου",
+                  "text": "Eine zweistöckige Höhle in Kilkis, die für ihre Tropfsteinformationen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        22.870336,
+                        40.99978
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Αγίου Γεωργίου",
+                  "text": "Ein orthodoxes Kloster und Ort der Andacht in Kilkis.",
+                  "category": "religious",
+                  "coords": [
+                        22.874623,
+                        41.00154
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Κιλκίς",
+                  "text": "Ez a múzeum Kilkisz régiójának ókori történelméből származó fontos leleteket őriz.",
+                  "category": "museum",
+                  "coords": [
+                        22.877608,
+                        40.997642
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κιλκίς",
+                  "text": "Kilkisz népi kultúráját és hagyományait bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.88051,
+                        40.997331
+                  ]
+            },
+            {
+                  "name": "Στρατιωτικό Μουσείο Κιλκίς",
+                  "text": "A balkáni háborúknak és a kilkiszi csatának emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        22.852127,
+                        40.977872
+                  ]
+            },
+            {
+                  "name": "Θέατρο Λόφου",
+                  "text": "Helyi színház kulturális előadások számára Kilkiszben.",
+                  "category": "cultural",
+                  "coords": [
+                        22.873522,
+                        40.999136
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Αγίου Γεωργίου",
+                  "text": "Kétszintes barlang Kilkiszben, amely cseppkőképződményeiről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        22.870336,
+                        40.99978
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Αγίου Γεωργίου",
+                  "text": "Ortodox kolostor és istentiszteleti hely Kilkiszben.",
+                  "category": "religious",
+                  "coords": [
+                        22.874623,
+                        41.00154
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Αρχαιολογικό Μουσείο Κιλκίς",
+                  "text": "Acest muzeu adăpostește descoperiri importante din istoria antică a regiunii Kilkis.",
+                  "category": "museum",
+                  "coords": [
+                        22.877608,
+                        40.997642
+                  ]
+            },
+            {
+                  "name": "Λαογραφικό Μουσείο Κιλκίς",
+                  "text": "Un muzeu care prezintă cultura populară și tradițiile din Kilkis.",
+                  "category": "museum",
+                  "coords": [
+                        22.88051,
+                        40.997331
+                  ]
+            },
+            {
+                  "name": "Στρατιωτικό Μουσείο Κιλκίς",
+                  "text": "Un muzeu care comemorează războaiele balcanice și bătălia de la Kilkis.",
+                  "category": "museum",
+                  "coords": [
+                        22.852127,
+                        40.977872
+                  ]
+            },
+            {
+                  "name": "Θέατρο Λόφου",
+                  "text": "Un teatru local pentru spectacole culturale în Kilkis.",
+                  "category": "cultural",
+                  "coords": [
+                        22.873522,
+                        40.999136
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Αγίου Γεωργίου",
+                  "text": "O peșteră cu două etaje în Kilkis, cunoscută pentru formațiunile sale de stalactite.",
+                  "category": "natural",
+                  "coords": [
+                        22.870336,
+                        40.99978
+                  ]
+            },
+            {
+                  "name": "Ιερά Μονή Αγίου Γεωργίου",
+                  "text": "O mănăstire ortodoxă și loc de cult în Kilkis.",
+                  "category": "religious",
+                  "coords": [
+                        22.874623,
+                        41.00154
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Archaeological Museum of Kilkis",
+                  "text": "This museum houses significant finds from the ancient history of the Kilkis region.",
+                  "category": "museum",
+                  "coords": [
+                        22.877608,
+                        40.997642
+                  ]
+            },
+            {
+                  "name": "Folklore Museum of Kilkis",
+                  "text": "A museum showcasing the folk culture and traditions of Kilkis.",
+                  "category": "museum",
+                  "coords": [
+                        22.88051,
+                        40.997331
+                  ]
+            },
+            {
+                  "name": "Military Museum of Kilkis",
+                  "text": "A museum commemorating the Balkan Wars and the Battle of Kilkis.",
+                  "category": "museum",
+                  "coords": [
+                        22.852127,
+                        40.977872
+                  ]
+            },
+            {
+                  "name": "Lofou Theatre",
+                  "text": "A local theater for cultural performances in Kilkis.",
+                  "category": "cultural",
+                  "coords": [
+                        22.873522,
+                        40.999136
+                  ]
+            },
+            {
+                  "name": "Σπήλαιο Αγίου Γεωργίου",
+                  "text": "A two-story cave in Kilkis known for its stalactite formations.",
+                  "category": "natural",
+                  "coords": [
+                        22.870336,
+                        40.99978
+                  ]
+            },
+            {
+                  "name": "Monastery of Agios Georgios",
+                  "text": "An Orthodox monastery and place of worship in Kilkis.",
+                  "category": "religious",
+                  "coords": [
+                        22.874623,
+                        41.00154
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GR-C",
     coords: [22.8736, 40.9950],

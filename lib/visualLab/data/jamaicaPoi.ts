@@ -52,7 +52,376 @@ export const jamaicaCities: POI[] = [
     historyYear: 1692,
     area: 480, image: "/poi-images/jm-kingston.webp"},
   {
-    id: "jm-montego",
+    id: "jm-montego", "sights": {
+      "de": [
+            {
+                  "name": "Institute of Jamaica Museum",
+                  "text": "Ein Museum in Montego Bay, das Kunst und Geschichte Jamaikas zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923371,
+                        18.473589
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Resort Au Natural Beach",
+                  "text": "Ein privater Strandabschnitt eines Resorts in Montego Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.943548,
+                        18.465684
+                  ]
+            },
+            {
+                  "name": "Dead End Beach",
+                  "text": "Ein beliebter öffentlicher Strand in der Nähe des Flughafens von Montego Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.925232,
+                        18.496553
+                  ]
+            },
+            {
+                  "name": "Doctors Cave Beach",
+                  "text": "Ein berühmter Strandclub in Montego Bay, bekannt für sein klares Wasser.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.92881,
+                        18.488201
+                  ]
+            },
+            {
+                  "name": "World War I Monument",
+                  "text": "Ein Denkmal in Montego Bay zu Ehren der Gefallenen des Ersten Weltkriegs.",
+                  "category": "historical",
+                  "coords": [
+                        -77.921839,
+                        18.472458
+                  ]
+            },
+            {
+                  "name": "Hip Strip (Gloucester Ave)",
+                  "text": "Das belebte touristische Zentrum von Montego Bay mit Geschäften und Bars.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.929091,
+                        18.486048
+                  ]
+            },
+            {
+                  "name": "Old Montego Fort",
+                  "text": "Überreste einer historischen Befestigungsanlage zum Schutz der Bucht von Montego Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926141,
+                        18.478425
+                  ]
+            },
+            {
+                  "name": "Margaritaville",
+                  "text": "Ein beliebtes Freizeitzentrum am Meer mit Restaurant und Unterhaltungsmöglichkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.930356,
+                        18.483799
+                  ]
+            },
+            {
+                  "name": "The Creek Dome",
+                  "text": "Ein markantes kuppelförmiges Gebäude über einer ehemaligen Wasserquelle.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918864,
+                        18.471547
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Cathedral",
+                  "text": "Die katholische Kathedrale von Montego Bay, ein bedeutendes religiöses Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        -77.923621,
+                        18.477531
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Institute of Jamaica Museum",
+                  "text": "Montego Bay-i múzeum, amely Jamaica művészetét és történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923371,
+                        18.473589
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Resort Au Natural Beach",
+                  "text": "Egy üdülőhely privát tengerparti szakasza Montego Bay-ben.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.943548,
+                        18.465684
+                  ]
+            },
+            {
+                  "name": "Dead End Beach",
+                  "text": "Népszerű nyilvános strand Montego Bay repülőterének közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.925232,
+                        18.496553
+                  ]
+            },
+            {
+                  "name": "Doctors Cave Beach",
+                  "text": "Híres strandklub Montego Bay-ben, tiszta vizéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.92881,
+                        18.488201
+                  ]
+            },
+            {
+                  "name": "World War I Monument",
+                  "text": "Emlékmű Montego Bay-ben az első világháború áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -77.921839,
+                        18.472458
+                  ]
+            },
+            {
+                  "name": "Hip Strip (Gloucester Ave)",
+                  "text": "Montego Bay nyüzsgő turisztikai központja üzletekkel és bárokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.929091,
+                        18.486048
+                  ]
+            },
+            {
+                  "name": "Old Montego Fort",
+                  "text": "Montego Bay öblét védő történelmi erőd maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926141,
+                        18.478425
+                  ]
+            },
+            {
+                  "name": "Margaritaville",
+                  "text": "Népszerű tengerparti szórakoztató központ étteremmel és kikapcsolódási lehetőségekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.930356,
+                        18.483799
+                  ]
+            },
+            {
+                  "name": "The Creek Dome",
+                  "text": "Jellegzetes kupolás épület egy egykori vízforrás felett.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918864,
+                        18.471547
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Cathedral",
+                  "text": "Montego Bay katolikus székesegyháza, a város jelentős vallási épülete.",
+                  "category": "religious",
+                  "coords": [
+                        -77.923621,
+                        18.477531
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Institute of Jamaica Museum",
+                  "text": "Un muzeu în Montego Bay ce expune arta și istoria Jamaicăi.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923371,
+                        18.473589
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Resort Au Natural Beach",
+                  "text": "O secțiune privată de plajă a unui complex din Montego Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.943548,
+                        18.465684
+                  ]
+            },
+            {
+                  "name": "Dead End Beach",
+                  "text": "O plajă publică populară situată lângă aeroportul din Montego Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.925232,
+                        18.496553
+                  ]
+            },
+            {
+                  "name": "Doctors Cave Beach",
+                  "text": "Un club de plajă faimos în Montego Bay, cunoscut pentru apele sale limpezi.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.92881,
+                        18.488201
+                  ]
+            },
+            {
+                  "name": "World War I Monument",
+                  "text": "Un monument în Montego Bay în onoarea celor căzuți în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        -77.921839,
+                        18.472458
+                  ]
+            },
+            {
+                  "name": "Hip Strip (Gloucester Ave)",
+                  "text": "Centrul turistic animat din Montego Bay, cu magazine și baruri.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.929091,
+                        18.486048
+                  ]
+            },
+            {
+                  "name": "Old Montego Fort",
+                  "text": "Rămășițele unei fortificații istorice construite pentru a proteja golful Montego Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926141,
+                        18.478425
+                  ]
+            },
+            {
+                  "name": "Margaritaville",
+                  "text": "Un centru de divertisment popular la malul mării, cu restaurant și facilități de recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.930356,
+                        18.483799
+                  ]
+            },
+            {
+                  "name": "The Creek Dome",
+                  "text": "O clădire distinctivă în formă de cupolă, ridicată peste o fostă sursă de apă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918864,
+                        18.471547
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Cathedral",
+                  "text": "Catedrala catolică din Montego Bay, un edificiu religios important.",
+                  "category": "religious",
+                  "coords": [
+                        -77.923621,
+                        18.477531
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Institute of Jamaica Museum",
+                  "text": "A museum in Montego Bay exhibiting Jamaican art and history.",
+                  "category": "museum",
+                  "coords": [
+                        -77.923371,
+                        18.473589
+                  ]
+            },
+            {
+                  "name": "Sunset Beach Resort Au Natural Beach",
+                  "text": "A private beach section of a resort in Montego Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.943548,
+                        18.465684
+                  ]
+            },
+            {
+                  "name": "Dead End Beach",
+                  "text": "A popular public beach located near the airport in Montego Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.925232,
+                        18.496553
+                  ]
+            },
+            {
+                  "name": "Doctors Cave Beach",
+                  "text": "A famous beach club in Montego Bay known for its clear waters.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.92881,
+                        18.488201
+                  ]
+            },
+            {
+                  "name": "World War I Monument",
+                  "text": "A monument in Montego Bay honoring those who served in World War I.",
+                  "category": "historical",
+                  "coords": [
+                        -77.921839,
+                        18.472458
+                  ]
+            },
+            {
+                  "name": "Hip Strip (Gloucester Ave)",
+                  "text": "The vibrant tourist hub of Montego Bay featuring shops and bars.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.929091,
+                        18.486048
+                  ]
+            },
+            {
+                  "name": "Old Montego Fort",
+                  "text": "Remains of a historic fort built to protect the bay of Montego Bay.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.926141,
+                        18.478425
+                  ]
+            },
+            {
+                  "name": "Margaritaville",
+                  "text": "A popular seaside entertainment hub featuring a restaurant and recreational facilities.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.930356,
+                        18.483799
+                  ]
+            },
+            {
+                  "name": "The Creek Dome",
+                  "text": "A distinctive dome-shaped building constructed over a former water source.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.918864,
+                        18.471547
+                  ]
+            },
+            {
+                  "name": "Blessed Sacrament Cathedral",
+                  "text": "The Catholic cathedral of Montego Bay, a significant religious landmark.",
+                  "category": "religious",
+                  "coords": [
+                        -77.923621,
+                        18.477531
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JM",
     coords: [-77.9167, 18.4714],
@@ -96,7 +465,484 @@ export const jamaicaCities: POI[] = [
     historyYear: 1494,
     area: 43, image: "/poi-images/jm-montego.webp"},
   {
-    id: "jm-ochorios",
+    id: "jm-ochorios", "sights": {
+      "de": [
+            {
+                  "name": "Old Fort",
+                  "text": "Old Fort ist eine archäologische Stätte in der Stadt Ocho Rios.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117793,
+                        18.410543
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach ist ein Strand in der Stadt Ocho Rios.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.10719,
+                        18.409872
+                  ]
+            },
+            {
+                  "name": "Mallards Bay Beach",
+                  "text": "Mallards Bay Beach ist ein Strand in der Stadt Ocho Rios.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.096931,
+                        18.413216
+                  ]
+            },
+            {
+                  "name": "Mallards Bay",
+                  "text": "Mallards Bay ist eine Bucht in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.099744,
+                        18.414216
+                  ]
+            },
+            {
+                  "name": "Shaw Park Gardens",
+                  "text": "Shaw Park Gardens ist eine Attraktion in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.112925,
+                        18.40061
+                  ]
+            },
+            {
+                  "name": "The Turtle River Falls & Gardens",
+                  "text": "The Turtle River Falls & Gardens ist eine Attraktion in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111484,
+                        18.402626
+                  ]
+            },
+            {
+                  "name": "James Bond Pier",
+                  "text": "Der James Bond Pier ist eine Attraktion in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.114744,
+                        18.410694
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "Der Clocktower ist eine Attraktion in der Stadt Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.102563,
+                        18.410303
+                  ]
+            },
+            {
+                  "name": "Ocho Rios Cruise Pier",
+                  "text": "Der Ocho Rios Cruise Pier ist eine Attraktion in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111124,
+                        18.410021
+                  ]
+            },
+            {
+                  "name": "Ysassis Lookout",
+                  "text": "Das Ysassis Lookout ist ein Aussichtspunkt in Ocho Rios.",
+                  "category": "natural",
+                  "coords": [
+                        -77.105445,
+                        18.397713
+                  ]
+            },
+            {
+                  "name": "Island Village",
+                  "text": "Das Island Village ist eine Attraktion in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.110671,
+                        18.406333
+                  ]
+            },
+            {
+                  "name": "Jamaica Bobsleigh",
+                  "text": "Jamaica Bobsleigh ist eine Attraktion in der Stadt Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.120652,
+                        18.408944
+                  ]
+            },
+            {
+                  "name": "Mystic Mountain",
+                  "text": "Mystic Mountain ist eine Attraktion in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.127166,
+                        18.414676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Old Fort",
+                  "text": "Az Old Fort egy régészeti lelőhely Ocho Rios városában.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117793,
+                        18.410543
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "A Turtle Beach egy strand Ocho Rios városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.10719,
+                        18.409872
+                  ]
+            },
+            {
+                  "name": "Mallards Bay Beach",
+                  "text": "A Mallards Bay Beach egy strand Ocho Rios városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.096931,
+                        18.413216
+                  ]
+            },
+            {
+                  "name": "Mallards Bay",
+                  "text": "A Mallards Bay egy öböl Ocho Riosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.099744,
+                        18.414216
+                  ]
+            },
+            {
+                  "name": "Shaw Park Gardens",
+                  "text": "A Shaw Park Gardens egy látványosság Ocho Riosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.112925,
+                        18.40061
+                  ]
+            },
+            {
+                  "name": "The Turtle River Falls & Gardens",
+                  "text": "A The Turtle River Falls & Gardens egy attrakció Ocho Riosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111484,
+                        18.402626
+                  ]
+            },
+            {
+                  "name": "James Bond Pier",
+                  "text": "A James Bond Pier egy látványosság Ocho Riosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.114744,
+                        18.410694
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "Az Óratorony egy látványosság Ocho Rios városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.102563,
+                        18.410303
+                  ]
+            },
+            {
+                  "name": "Ocho Rios Cruise Pier",
+                  "text": "Az Ocho Rios Cruise Pier egy attrakció Ocho Riosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111124,
+                        18.410021
+                  ]
+            },
+            {
+                  "name": "Ysassis Lookout",
+                  "text": "A Ysassis Lookout egy kilátóhely Ocho Riosban.",
+                  "category": "natural",
+                  "coords": [
+                        -77.105445,
+                        18.397713
+                  ]
+            },
+            {
+                  "name": "Island Village",
+                  "text": "Az Island Village egy látványosság Ocho Riosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.110671,
+                        18.406333
+                  ]
+            },
+            {
+                  "name": "Jamaica Bobsleigh",
+                  "text": "A Jamaica Bobsleigh egy attrakció Ocho Rios városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.120652,
+                        18.408944
+                  ]
+            },
+            {
+                  "name": "Mystic Mountain",
+                  "text": "A Mystic Mountain egy látványosság Ocho Riosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.127166,
+                        18.414676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Old Fort",
+                  "text": "Old Fort este un sit arheologic situat în orașul Ocho Rios.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117793,
+                        18.410543
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach este o plajă situată în orașul Ocho Rios.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.10719,
+                        18.409872
+                  ]
+            },
+            {
+                  "name": "Mallards Bay Beach",
+                  "text": "Mallards Bay Beach este o plajă din orașul Ocho Rios.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.096931,
+                        18.413216
+                  ]
+            },
+            {
+                  "name": "Mallards Bay",
+                  "text": "Mallards Bay este un golf situat în Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.099744,
+                        18.414216
+                  ]
+            },
+            {
+                  "name": "Shaw Park Gardens",
+                  "text": "Grădinile Shaw Park reprezintă o atracție situată în Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.112925,
+                        18.40061
+                  ]
+            },
+            {
+                  "name": "The Turtle River Falls & Gardens",
+                  "text": "The Turtle River Falls & Gardens este o atracție în Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111484,
+                        18.402626
+                  ]
+            },
+            {
+                  "name": "James Bond Pier",
+                  "text": "Digul James Bond este o atracție situată în Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.114744,
+                        18.410694
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "Turnul cu ceas este o atracție în orașul Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.102563,
+                        18.410303
+                  ]
+            },
+            {
+                  "name": "Ocho Rios Cruise Pier",
+                  "text": "Debarcaderul de croazieră Ocho Rios este o atracție din Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111124,
+                        18.410021
+                  ]
+            },
+            {
+                  "name": "Ysassis Lookout",
+                  "text": "Punctul de belvedere Ysassis este un loc pitoresc în Ocho Rios.",
+                  "category": "natural",
+                  "coords": [
+                        -77.105445,
+                        18.397713
+                  ]
+            },
+            {
+                  "name": "Island Village",
+                  "text": "Island Village este o atracție situată în Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.110671,
+                        18.406333
+                  ]
+            },
+            {
+                  "name": "Jamaica Bobsleigh",
+                  "text": "Bobul Jamaica este o atracție situată în orașul Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.120652,
+                        18.408944
+                  ]
+            },
+            {
+                  "name": "Mystic Mountain",
+                  "text": "Muntele Mistic este o atracție situată în Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.127166,
+                        18.414676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Old Fort",
+                  "text": "Old Fort is an archaeological site located in the city of Ocho Rios.",
+                  "category": "historical",
+                  "coords": [
+                        -77.117793,
+                        18.410543
+                  ]
+            },
+            {
+                  "name": "Turtle Beach",
+                  "text": "Turtle Beach is a beach situated in Ocho Rios.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.10719,
+                        18.409872
+                  ]
+            },
+            {
+                  "name": "Mallards Bay Beach",
+                  "text": "Mallards Bay Beach is a beach location in the city of Ocho Rios.",
+                  "category": "recreational",
+                  "coords": [
+                        -77.096931,
+                        18.413216
+                  ]
+            },
+            {
+                  "name": "Mallards Bay",
+                  "text": "Mallards Bay is a bay located in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.099744,
+                        18.414216
+                  ]
+            },
+            {
+                  "name": "Shaw Park Gardens",
+                  "text": "Shaw Park Gardens is an attraction situated in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.112925,
+                        18.40061
+                  ]
+            },
+            {
+                  "name": "The Turtle River Falls & Gardens",
+                  "text": "The Turtle River Falls & Gardens is an attraction in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111484,
+                        18.402626
+                  ]
+            },
+            {
+                  "name": "James Bond Pier",
+                  "text": "James Bond Pier is an attraction located in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.114744,
+                        18.410694
+                  ]
+            },
+            {
+                  "name": "Clocktower",
+                  "text": "The Clocktower is an attraction in the city of Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.102563,
+                        18.410303
+                  ]
+            },
+            {
+                  "name": "Ocho Rios Cruise Pier",
+                  "text": "Ocho Rios Cruise Pier is an attraction in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.111124,
+                        18.410021
+                  ]
+            },
+            {
+                  "name": "Ysassis Lookout",
+                  "text": "Ysassis Lookout is a viewpoint offering vistas over Ocho Rios.",
+                  "category": "natural",
+                  "coords": [
+                        -77.105445,
+                        18.397713
+                  ]
+            },
+            {
+                  "name": "Island Village",
+                  "text": "Island Village is an attraction located in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.110671,
+                        18.406333
+                  ]
+            },
+            {
+                  "name": "Jamaica Bobsleigh",
+                  "text": "Jamaica Bobsleigh is an attraction situated in the city of Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.120652,
+                        18.408944
+                  ]
+            },
+            {
+                  "name": "Mystic Mountain",
+                  "text": "Mystic Mountain is an attraction located in Ocho Rios.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.127166,
+                        18.414676
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JM",
     coords: [-77.1045, 18.4068],
@@ -139,7 +985,232 @@ export const jamaicaCities: POI[] = [
     },
     historyYear: 1960, image: "/poi-images/jm-ochorios.webp"},
   {
-    id: "jm-negril",
+    id: "jm-negril", "sights": {
+      "de": [
+            {
+                  "name": "Seven Mile Beach",
+                  "text": "Ein berühmter langer Sandstrand an der Westküste Jamaikas bei Negril.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.341135,
+                        18.307386
+                  ]
+            },
+            {
+                  "name": "PCJ Royal Palm Reserve",
+                  "text": "Ein Naturschutzgebiet bei Negril, das dem Schutz lokaler Palmenarten dient.",
+                  "category": "natural",
+                  "coords": [
+                        -78.318588,
+                        18.292533
+                  ]
+            },
+            {
+                  "name": "Providence Mountain",
+                  "text": "Ein markanter Hügel oder Berg in der Region um Negril.",
+                  "category": "natural",
+                  "coords": [
+                        -78.352361,
+                        18.249952
+                  ]
+            },
+            {
+                  "name": "Craft Market",
+                  "text": "Ein lokaler Markt für traditionelles Kunsthandwerk in Negril.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.346148,
+                        18.280305
+                  ]
+            },
+            {
+                  "name": "Alfred's Ocean Place Stage",
+                  "text": "Ein Veranstaltungsort für Musik und Unterhaltung in Negril.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.339781,
+                        18.292553
+                  ]
+            },
+            {
+                  "name": "Palm Grove Mannor",
+                  "text": "Ein historisches Herrenhaus oder Anwesen in der Gegend von Negril.",
+                  "category": "historical",
+                  "coords": [
+                        -78.33889,
+                        18.289201
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Seven Mile Beach",
+                  "text": "Híres, hosszú homokos tengerpart Jamaica nyugati részén, Negrilnél.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.341135,
+                        18.307386
+                  ]
+            },
+            {
+                  "name": "PCJ Royal Palm Reserve",
+                  "text": "Természetvédelmi terület Negril közelében a helyi pálmafajok megőrzésére.",
+                  "category": "natural",
+                  "coords": [
+                        -78.318588,
+                        18.292533
+                  ]
+            },
+            {
+                  "name": "Providence Mountain",
+                  "text": "Jellegzetes hegy vagy domb Negril környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -78.352361,
+                        18.249952
+                  ]
+            },
+            {
+                  "name": "Craft Market",
+                  "text": "Hagyományos kézműves termékek helyi piaca Negrilben.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.346148,
+                        18.280305
+                  ]
+            },
+            {
+                  "name": "Alfred's Ocean Place Stage",
+                  "text": "Zenei és szórakoztató rendezvények helyszíne Negrilben.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.339781,
+                        18.292553
+                  ]
+            },
+            {
+                  "name": "Palm Grove Mannor",
+                  "text": "Történelmi kúria vagy birtok Negril környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -78.33889,
+                        18.289201
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Seven Mile Beach",
+                  "text": "O celebră plajă lungă cu nisip pe coasta de vest a Jamaicăi, lângă Negril.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.341135,
+                        18.307386
+                  ]
+            },
+            {
+                  "name": "PCJ Royal Palm Reserve",
+                  "text": "O rezervație naturală lângă Negril, dedicată protejării speciilor locale de palmiere.",
+                  "category": "natural",
+                  "coords": [
+                        -78.318588,
+                        18.292533
+                  ]
+            },
+            {
+                  "name": "Providence Mountain",
+                  "text": "Un deal sau munte proeminent în regiunea Negril.",
+                  "category": "natural",
+                  "coords": [
+                        -78.352361,
+                        18.249952
+                  ]
+            },
+            {
+                  "name": "Craft Market",
+                  "text": "O piață locală pentru artizanat tradițional în Negril.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.346148,
+                        18.280305
+                  ]
+            },
+            {
+                  "name": "Alfred's Ocean Place Stage",
+                  "text": "Un loc pentru evenimente muzicale și divertisment în Negril.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.339781,
+                        18.292553
+                  ]
+            },
+            {
+                  "name": "Palm Grove Mannor",
+                  "text": "Un conac sau domeniu istoric în zona Negril.",
+                  "category": "historical",
+                  "coords": [
+                        -78.33889,
+                        18.289201
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Seven Mile Beach",
+                  "text": "A famous long sandy beach on the west coast of Jamaica near Negril.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.341135,
+                        18.307386
+                  ]
+            },
+            {
+                  "name": "PCJ Royal Palm Reserve",
+                  "text": "A nature reserve near Negril dedicated to preserving local palm species.",
+                  "category": "natural",
+                  "coords": [
+                        -78.318588,
+                        18.292533
+                  ]
+            },
+            {
+                  "name": "Providence Mountain",
+                  "text": "A prominent hill or mountain in the Negril region.",
+                  "category": "natural",
+                  "coords": [
+                        -78.352361,
+                        18.249952
+                  ]
+            },
+            {
+                  "name": "Craft Market",
+                  "text": "A local market for traditional crafts and handiwork in Negril.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.346148,
+                        18.280305
+                  ]
+            },
+            {
+                  "name": "Alfred's Ocean Place Stage",
+                  "text": "A venue for music and entertainment performances in Negril.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.339781,
+                        18.292553
+                  ]
+            },
+            {
+                  "name": "Palm Grove Mannor",
+                  "text": "A historic manor or estate in the Negril area.",
+                  "category": "historical",
+                  "coords": [
+                        -78.33889,
+                        18.289201
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JM",
     coords: [-78.3333, 18.2667],
@@ -181,7 +1252,448 @@ export const jamaicaCities: POI[] = [
       fr: ["Le nom vient de 'Negrillo', donné par les Espagnols à cause des falaises sombres", "À Negril, aucun bâtiment ne peut dépasser la hauteur du plus grand palmier", "Les falaises du West End sont un site mondialement connu pour les plongeurs de l'extrême"],
     }, image: "/poi-images/jm-negril.webp"},
   {
-    id: "jm-portantonio",
+    id: "jm-portantonio", "sights": {
+      "de": [
+            {
+                  "name": "Folly Point Lighthouse",
+                  "text": "Ein historischer Leuchtturm an der Küste von Port Antonio.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.443134,
+                        18.188827
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Ein kleiner Sandstrand in Port Antonio, ideal zum Schwimmen und Entspannen.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.45308,
+                        18.183184
+                  ]
+            },
+            {
+                  "name": "ShanShy Beach",
+                  "text": "Ein lokaler Strand in Port Antonio, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.467026,
+                        18.188734
+                  ]
+            },
+            {
+                  "name": "Bryan's Bay Fishing Beach",
+                  "text": "Ein von Fischern genutzter Strandabschnitt in der Bryan's Bay bei Port Antonio.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.460265,
+                        18.183213
+                  ]
+            },
+            {
+                  "name": "Daniels Harbour",
+                  "text": "Eine malerische Bucht in der Nähe von Port Antonio.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426488,
+                        18.185053
+                  ]
+            },
+            {
+                  "name": "West Harbour",
+                  "text": "Ein natürlicher Hafen in Port Antonio an der Nordküste Jamaikas.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.455435,
+                        18.182225
+                  ]
+            },
+            {
+                  "name": "Cenotaph",
+                  "text": "Ein Denkmal in Port Antonio zur Ehre der Gefallenen der Weltkriege.",
+                  "category": "historical",
+                  "coords": [
+                        -76.452173,
+                        18.178719
+                  ]
+            },
+            {
+                  "name": "Fort George, 1729",
+                  "text": "Ruinen einer englischen Festung aus dem Jahr 1729 zum Schutz des Hafens.",
+                  "category": "historical",
+                  "coords": [
+                        -76.448993,
+                        18.184417
+                  ]
+            },
+            {
+                  "name": "Christ Church (1840)",
+                  "text": "Eine historische anglikanische Kirche in Port Antonio aus dem Jahr 1840.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.449868,
+                        18.177121
+                  ]
+            },
+            {
+                  "name": "Builder's Depot",
+                  "text": "Überreste eines ehemaligen Industriebaus in Port Antonio.",
+                  "category": "historical",
+                  "coords": [
+                        -76.462364,
+                        18.183514
+                  ]
+            },
+            {
+                  "name": "Folly Ruins (1905)",
+                  "text": "Die Ruinen eines prachtvollen Herrenhauses aus dem frühen 20. Jahrhundert.",
+                  "category": "historical",
+                  "coords": [
+                        -76.440349,
+                        18.185913
+                  ]
+            },
+            {
+                  "name": "Freemason's Building",
+                  "text": "Historische Überreste eines Gebäudes der Freimaurer in Port Antonio.",
+                  "category": "historical",
+                  "coords": [
+                        -76.461451,
+                        18.182758
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Folly Point Lighthouse",
+                  "text": "Történelmi világítótorony Port Antonio tengerpartján.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.443134,
+                        18.188827
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "Kis homokos strand Port Antonio-ban, amely alkalmas úszásra és pihenésre.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.45308,
+                        18.183184
+                  ]
+            },
+            {
+                  "name": "ShanShy Beach",
+                  "text": "Helyi strand Port Antonio-ban, amely nyugodt légköréről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.467026,
+                        18.188734
+                  ]
+            },
+            {
+                  "name": "Bryan's Bay Fishing Beach",
+                  "text": "Halászok által használt tengerparti szakasz a Port Antonio melletti Bryan's-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.460265,
+                        18.183213
+                  ]
+            },
+            {
+                  "name": "Daniels Harbour",
+                  "text": "Glefestő öböl Port Antonio közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426488,
+                        18.185053
+                  ]
+            },
+            {
+                  "name": "West Harbour",
+                  "text": "Természetes kikötő Port Antonio-ban, Jamaica északi partján.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.455435,
+                        18.182225
+                  ]
+            },
+            {
+                  "name": "Cenotaph",
+                  "text": "Emlékmű Port Antonio-ban a világháborúk áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -76.452173,
+                        18.178719
+                  ]
+            },
+            {
+                  "name": "Fort George, 1729",
+                  "text": "Egy 1729-es angol erőd romjai, amely a kikötő védelmére épült.",
+                  "category": "historical",
+                  "coords": [
+                        -76.448993,
+                        18.184417
+                  ]
+            },
+            {
+                  "name": "Christ Church (1840)",
+                  "text": "Történelmi anglikán templom Port Antonio-ban, amely 1840-ben épült.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.449868,
+                        18.177121
+                  ]
+            },
+            {
+                  "name": "Builder's Depot",
+                  "text": "Egy egykori ipari épület maradványai Port Antonio-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -76.462364,
+                        18.183514
+                  ]
+            },
+            {
+                  "name": "Folly Ruins (1905)",
+                  "text": "Egy kora 20. századi impozáns udvarház romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -76.440349,
+                        18.185913
+                  ]
+            },
+            {
+                  "name": "Freemason's Building",
+                  "text": "Egy szabadkőműves épület történelmi maradványai Port Antonio-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -76.461451,
+                        18.182758
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Folly Point Lighthouse",
+                  "text": "Un far istoric situat pe coasta orașului Port Antonio.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.443134,
+                        18.188827
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "O mică plajă cu nisip în Port Antonio, ideală pentru înot și relaxare.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.45308,
+                        18.183184
+                  ]
+            },
+            {
+                  "name": "ShanShy Beach",
+                  "text": "O plajă locală din Port Antonio, cunoscută pentru atmosfera sa relaxată.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.467026,
+                        18.188734
+                  ]
+            },
+            {
+                  "name": "Bryan's Bay Fishing Beach",
+                  "text": "O porțiune de plajă utilizată de pescari în golful Bryan's Bay de lângă Port Antonio.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.460265,
+                        18.183213
+                  ]
+            },
+            {
+                  "name": "Daniels Harbour",
+                  "text": "Un golf pitoresc situat în apropiere de Port Antonio.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426488,
+                        18.185053
+                  ]
+            },
+            {
+                  "name": "West Harbour",
+                  "text": "Un port natural în Port Antonio, pe coasta de nord a Jamaicăi.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.455435,
+                        18.182225
+                  ]
+            },
+            {
+                  "name": "Cenotaph",
+                  "text": "Un monument în Port Antonio ridicat în onoarea victimelor războaielor mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        -76.452173,
+                        18.178719
+                  ]
+            },
+            {
+                  "name": "Fort George, 1729",
+                  "text": "Ruinele unui fort englez din 1729, construit pentru a proteja portul.",
+                  "category": "historical",
+                  "coords": [
+                        -76.448993,
+                        18.184417
+                  ]
+            },
+            {
+                  "name": "Christ Church (1840)",
+                  "text": "O biserică anglicană istorică din Port Antonio, construită în 1840.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.449868,
+                        18.177121
+                  ]
+            },
+            {
+                  "name": "Builder's Depot",
+                  "text": "Rămășițele unei foste clădiri industriale din Port Antonio.",
+                  "category": "historical",
+                  "coords": [
+                        -76.462364,
+                        18.183514
+                  ]
+            },
+            {
+                  "name": "Folly Ruins (1905)",
+                  "text": "Ruinele unui conac grandios de la începutul secolului al XX-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -76.440349,
+                        18.185913
+                  ]
+            },
+            {
+                  "name": "Freemason's Building",
+                  "text": "Rămășițele istorice ale unei clădiri a masonilor din Port Antonio.",
+                  "category": "historical",
+                  "coords": [
+                        -76.461451,
+                        18.182758
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Folly Point Lighthouse",
+                  "text": "A historic lighthouse located on the coast of Port Antonio.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.443134,
+                        18.188827
+                  ]
+            },
+            {
+                  "name": "Bikini Beach",
+                  "text": "A small sandy beach in Port Antonio, suitable for swimming and relaxing.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.45308,
+                        18.183184
+                  ]
+            },
+            {
+                  "name": "ShanShy Beach",
+                  "text": "A local beach in Port Antonio known for its relaxed atmosphere.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.467026,
+                        18.188734
+                  ]
+            },
+            {
+                  "name": "Bryan's Bay Fishing Beach",
+                  "text": "A beach area used by fishermen in Bryan's Bay near Port Antonio.",
+                  "category": "recreational",
+                  "coords": [
+                        -76.460265,
+                        18.183213
+                  ]
+            },
+            {
+                  "name": "Daniels Harbour",
+                  "text": "A picturesque bay located near Port Antonio.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426488,
+                        18.185053
+                  ]
+            },
+            {
+                  "name": "West Harbour",
+                  "text": "A natural harbor in Port Antonio on the north coast of Jamaica.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.455435,
+                        18.182225
+                  ]
+            },
+            {
+                  "name": "Cenotaph",
+                  "text": "A monument in Port Antonio honoring those who fell in the world wars.",
+                  "category": "historical",
+                  "coords": [
+                        -76.452173,
+                        18.178719
+                  ]
+            },
+            {
+                  "name": "Fort George, 1729",
+                  "text": "Ruins of an English fort built in 1729 to protect the harbor.",
+                  "category": "historical",
+                  "coords": [
+                        -76.448993,
+                        18.184417
+                  ]
+            },
+            {
+                  "name": "Christ Church (1840)",
+                  "text": "A historic Anglican church in Port Antonio dating from 1840.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.449868,
+                        18.177121
+                  ]
+            },
+            {
+                  "name": "Builder's Depot",
+                  "text": "The remains of a former industrial building in Port Antonio.",
+                  "category": "historical",
+                  "coords": [
+                        -76.462364,
+                        18.183514
+                  ]
+            },
+            {
+                  "name": "Folly Ruins (1905)",
+                  "text": "The ruins of a grand mansion built in the early 20th century.",
+                  "category": "historical",
+                  "coords": [
+                        -76.440349,
+                        18.185913
+                  ]
+            },
+            {
+                  "name": "Freemason's Building",
+                  "text": "Historic remains of a Freemasons' building in Port Antonio.",
+                  "category": "historical",
+                  "coords": [
+                        -76.461451,
+                        18.182758
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "JM",
     coords: [-76.4509, 18.1770],

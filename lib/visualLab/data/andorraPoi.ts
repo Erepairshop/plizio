@@ -119,7 +119,1132 @@ export const andorraCountry: POI = {
 
 export const andorraCities: POI[] = [
   {
-    id: "city-andorra-la-vella",
+    id: "city-andorra-la-vella", "sights": {
+      "de": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "Dieses Kunstmuseum in Andorra la Vella beherbergt Werke aus der Privatsammlung Thyssen-Bornemisza.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Ein Museum in einem traditionellen andorranischen Haus, das das ländliche Leben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Ein historisches Herrenhaus und ehemaliger Sitz des andorranischen Parlaments.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Ein Museum, das den romanischen Wandmalereien der Kirche Santa Coloma gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "Ein UNESCO-Weltnaturerbe, das ein wunderschönes Gletschertal in Andorra umfasst.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Ein modernes Zentrum für kulturelle Veranstaltungen, Theater und Konferenzen in Andorra la Vella.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Ein Freilichtmuseum, das die geologische Vielfalt der Gesteine Andorras präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "Ein Museum, das die Geschichte der Stromerzeugung und Elektrifizierung in Andorra zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Dieses Museum erkundet die Geschichte und Kultur der Parfümherstellung.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Ein Berggipfel bei Andorra la Vella, der einen Panoramablick über das Tal bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Der Pic de Padern ist ein Berggipfel in Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Der Pont de Paris ist eine markante Brücke und Sehenswürdigkeit in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Der Roc dels Corbs ist ein Berggipfel in der Nähe von Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "Der Mirador Coll de Jou bietet einen weiten Ausblick über das Tal von Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "Die Collada de la Caülla ist eine landschaftlich reizvolle Sehenswürdigkeit in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "Der Mirador del Roc de Palomera ist ein Aussichtspunkt in Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Diese Via Ferrata bei Sant Vicenç d'Enclar ist ein Ziel für Kletterer in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Der Mirador del Roc dels Senders ist ein Aussichtspunkt über Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Der Aussichtspunkt Mirador del Bosc Negre bietet Blick auf die bewaldeten Hänge von Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Die Pica Romana auf 1727 m Höhe ist ein markanter Aussichtspunkt in Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "Der Mirador del Roc de Solobre bietet ein Panorama über das Umland von Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Serradora ist ein Denkmal in Andorra la Vella.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "Diese Galerie in Andorra la Vella widmet sich der Bedeutung des Wassers und des Madriu-Tals.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Die Torre de Caldea ist das markante Hochhaus des berühmten Thermalbads in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Die Font de Ferrús ist eine natürliche Quelle in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Sant Andreu ist eine kleine romanische Kapelle in Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Diese präromanische Kirche liegt im Ortsteil Vilars in Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "Diese historische Kirche in Andorra la Vella ist für ihren runden Glockenturm bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Diese kleine Kapelle liegt an einer alten Brücke bei Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "Diese romanische Kirche befindet sich auf einem Hügel über Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Sant Jaume d'Engordany ist ein Gotteshaus im Ortsteil Engordany von Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "Ez az andorra la vellai művészeti múzeum a Thyssen-Bornemisza magángyűjtemény műveinek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Múzeum egy hagyományos andorrai házban, amely a vidéki életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Történelmi kúria és az andorrai parlament egykori székhelye.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "A Santa Coloma-templom román kori falfestményeinek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "Az UNESCO világörökség része, amely egy gyönyörű gleccservölgyet foglal magában Andorrában.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Kulturális eseményeknek, színháznak és konferenciáknak helyet adó modern központ Andorra la Vellában.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Szabadtéri múzeum, amely Andorra kőzeteinek geológiai sokféleségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "Múzeum, amely az andorrai áramtermelés és villamosítás történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Ez a múzeum a parfümkészítés történetét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Andorra la Vella közeli hegycsúcs, ahonnan panorámás kilátás nyílik a völgyre.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "A Pic de Padern egy hegycsúcs Andorra la Vella területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "A Pont de Paris egy jellegzetes híd és látnivaló Andorra la Vella városában.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "A Roc dels Corbs egy hegycsúcs Andorra la Vella közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "A Mirador Coll de Jou széles kilátást nyújt Andorra la Vella völgyére.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "A Collada de la Caülla egy festői látnivaló Andorra la Vella területén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "A Mirador del Roc de Palomera egy kilátóhely Andorra la Vella területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Ez a Sant Vicenç d'Enclar melletti vasalt út a sziklamászók célpontja Andorra la Vella közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "A Mirador del Roc dels Senders egy kilátópont Andorra la Vella felett.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "A Mirador del Bosc Negre kilátóhely Andorra la Vella erdős lejtőire nyújt kilátást.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Az 1727 méter magasan fekvő Pica Romana egy jellegzetes kilátóhely Andorra la Vella területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "A Mirador del Roc de Solobre panorámát nyújt Andorra la Vella környékére.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Serradora egy emlékmű Andorra la Vella területén.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "Ez az Andorra la Vella-i galéria a víz és a Madriu-völgy jelentőségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "A Torre de Caldea a híres Andorra la Vella-i termálfürdő jellegzetes toronyépülete.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "A Font de Ferrús egy természetes forrás Andorra la Vella területén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Sant Andreu egy kis román stílusú kápolna Andorra la Vella városában.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Ez a preromán stílusú templom Andorra la Vella Vilars negyedében található.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "Ez a történelmi templom Andorra la Vella területén kerek harangtornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Ez a kis kápolna egy régi híd mellett található Andorra la Vella közelében.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "Ez a román stílusú templom egy dombon található Andorra la Vella felett.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Sant Jaume d'Engordany egy templom Andorra la Vella Engordany városrészében.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "Acest muzeu de artă din Andorra la Vella găzduiește lucrări din colecția privată Thyssen-Bornemisza.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "Un muzeu situat într-o casă tradițională andorrană, care prezintă viața rurală.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Un conac istoric și fost sediu al parlamentului andorran.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "Un muzeu dedicat picturilor murale romanice ale bisericii Santa Coloma.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "Un sit al patrimoniului mondial UNESCO care cuprinde o vale glaciară superbă din Andorra.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Un centru modern pentru evenimente culturale, teatru și conferințe în Andorra la Vella.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Un muzeu în aer liber care prezintă diversitatea geologică a rocilor din Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "Un muzeu care prezintă istoria producției de energie electrică și a electrificării în Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Acest muzeu explorează istoria și cultura fabricării parfumurilor.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "Un vârf muntos lângă Andorra la Vella, oferind o vedere panoramică asupra văii.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Pic de Padern este un vârf montan în Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Pont de Paris este un pod simbolic și o atracție în Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Roc dels Corbs este un vârf montan în apropiere de Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "Mirador Coll de Jou oferă o vedere panoramică asupra văii din Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "Collada de la Caülla este o atracție pitorească în Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "Mirador del Roc de Palomera este un punct de belvedere în Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "Această via ferrata de lângă Sant Vicenç d'Enclar este o destinație pentru alpiniști în Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Mirador del Roc dels Senders este un punct de belvedere deasupra orașului Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Punctul de belvedere Mirador del Bosc Negre oferă vedere spre versanții împăduriți din Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Pica Romana, situată la 1727 m altitudine, este un punct de belvedere marcant în Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "Mirador del Roc de Solobre oferă o panoramă asupra împrejurimilor orașului Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Serradora este un monument în Andorra la Vella.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "Această galerie din Andorra la Vella este dedicată importanței apei și văii Madriu.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Torre de Caldea este clădirea înaltă emblematică a faimoaselor băi termale din Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Font de Ferrús este un izvor natural în Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Sant Andreu este o mică capelă romanică în Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Această biserică preromanică se află în cartierul Vilars din Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "Această biserică istorică din Andorra la Vella este cunoscută pentru clopotnița sa rotundă.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Această mică capelă este situată lângă un pod vechi de lângă Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "Această biserică romanică se află pe un deal deasupra orașului Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Sant Jaume d'Engordany este un lăcaș de cult în cartierul Engordany din Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "This art museum in Andorra la Vella hosts works from the Thyssen-Bornemisza private collection.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Museu Casa Rull",
+                  "text": "A museum set in a traditional Andorran house, showcasing rural life and architecture.",
+                  "category": "museum",
+                  "coords": [
+                        1.514213,
+                        42.532358
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "A historic manor house and the former seat of the General Council of Andorra.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Espai Columba",
+                  "text": "A museum dedicated to the Romanesque mural paintings of the Santa Coloma church.",
+                  "category": "museum",
+                  "coords": [
+                        1.498667,
+                        42.494567
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "A UNESCO World Heritage site comprising a stunning glacial valley in Andorra.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Congress centre of Andorra la Vella",
+                  "text": "A modern venue for cultural events, theatre, and conferences in Andorra la Vella.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "An open-air museum showcasing the geological diversity of Andorra's rocks.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "A museum showcasing the history of electricity production and electrification in Andorra.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "This museum explores the history and culture of perfume making and its evolution.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic Carroi",
+                  "text": "A mountain peak near Andorra la Vella offering panoramic views over the valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.494336,
+                        42.514314
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Pic de Padern is a mountain peak in Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "The Pont de Paris is a prominent bridge and attraction in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Roc dels Corbs is a mountain peak near Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "Mirador Coll de Jou offers a wide view over the Andorra la Vella valley.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Collada de la Caülla",
+                  "text": "Collada de la Caülla is a scenic attraction in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.531904,
+                        42.480756
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Palomera",
+                  "text": "Mirador del Roc de Palomera is a viewpoint in Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.515744,
+                        42.488977
+                  ]
+            },
+            {
+                  "name": "Via ferrada de Sant Vicenç d'Enclar",
+                  "text": "This via ferrata near Sant Vicenç d'Enclar is a destination for climbers in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.495505,
+                        42.495396
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Mirador del Roc dels Senders is a viewpoint overlooking Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Mirador del Bosc Negre viewpoint offers views of the forested slopes of Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Pica Romana 1727 m",
+                  "text": "Pica Romana, at 1727 m, is a prominent viewpoint in Andorra la Vella.",
+                  "category": "natural",
+                  "coords": [
+                        1.51006,
+                        42.48429
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc de Solobre",
+                  "text": "Mirador del Roc de Solobre provides a panorama over the Andorra la Vella surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        1.510515,
+                        42.49335
+                  ]
+            },
+            {
+                  "name": "Serradora",
+                  "text": "Serradora is a monument in Andorra la Vella.",
+                  "category": "historical",
+                  "coords": [
+                        1.503853,
+                        42.495672
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "This gallery in Andorra la Vella is dedicated to the importance of water and the Madriu Valley.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Torre de Caldea is the landmark high-rise of the famous thermal spa in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Font de Ferrús is a natural spring in Andorra la Vella.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Sant Andreu is a small Romanesque chapel in Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "This pre-Romanesque church is located in the Vilars district of Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Església de Santa Coloma",
+                  "text": "This historic church in Andorra la Vella is known for its circular bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        1.497548,
+                        42.49415
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "This small chapel is located by an old bridge near Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Vicenç d'Enclar",
+                  "text": "This Romanesque church is located on a hill above Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.493759,
+                        42.495739
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Sant Jaume d'Engordany is a place of worship in the Engordany district of Andorra la Vella.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-andorra",
     coords: [1.5218, 42.5063],
@@ -187,7 +1312,952 @@ export const andorraCities: POI[] = [
     image: "/geo-images/europe/andorra-la-vella-city-view.webp"
   },
   {
-    id: "city-escaldes-engordany",
+    id: "city-escaldes-engordany", "sights": {
+      "de": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "Das Museu Carmen Thyssen ist ein Kunstmuseum in Escaldes-Engordany, das Werke aus der Sammlung Carmen Thyssen-Bornemisza zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Casa de la Vall ist ein historisches Gebäude in Escaldes-Engordany, das früher als Parlamentssitz von Andorra diente.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "Vall del Madriu-Perafita-Claror ist ein atemberaubendes Gletschertal-Naturschutzgebiet in Escaldes-Engordany, das als UNESCO-Weltkulturerbe anerkannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Das Kongresszentrum von Andorra la Vella ist ein wichtiges Theater und Veranstaltungsort in Escaldes-Engordany.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Dieses geologische Freilichtmuseum in Escaldes-Engordany zeigt verschiedene Gesteine direkt auf den Straßen.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "Das MW Museu de l'Electricitat ist ein informatives Museum, das die Geschichte der Elektrizität in Escaldes-Engordany erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Das Museu del Perfum ist ein faszinierendes Museum, das der Kunst und Geschichte der Parfümerie in Escaldes-Engordany gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Pic de Padern ist ein markanter Berggipfel, der Naturlandschaften rund um Escaldes-Engordany bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Pont de Paris ist eine interessante architektonische Brückenattraktion in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Roc dels Corbs ist ein markanter Berggipfel und ein natürliches Wahrzeichen in Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "Der Mirador Coll de Jou ist ein schöner Aussichtspunkt, der einen weiten Blick über Escaldes-Engordany bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Agulles d'Engolasters",
+                  "text": "Agulles d'Engolasters ist eine besondere Naturattraktion in der Nähe der Stadt Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.573293,
+                        42.516083
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu Perafita Claror",
+                  "text": "Das Madriu Perafita Claror Tal ist eine herrliche Naturattraktion in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.56172,
+                        42.497879
+                  ]
+            },
+            {
+                  "name": "Mirador del circuit de les fonts",
+                  "text": "Dieser Aussichtspunkt entlang des Circuit de les fonts bietet eine wunderschöne Landschaft von Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.567092,
+                        42.514086
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Mirador del Roc dels Senders ist ein malerischer Aussichtspunkt, ideal für Besichtigungen in Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Der Mirador del Bosc Negre bietet einen einzigartigen Aussichtspunkt über die Landschaften von Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Els Jocs d'aigua",
+                  "text": "Els Jocs d'aigua ist eine ansprechende Wasserattraktion in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570915,
+                        42.521751
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "Das CIAM ist eine pädagogische Galerie, die sich den Wasserressourcen der Region und dem Madriu-Tal in Escaldes-Engordany widmet.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Die Torre de Caldea ist eine markante architektonische Attraktion, die in Escaldes-Engordany herausragt.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de les Ordigues",
+                  "text": "Font de les Ordigues ist eine ruhige natürliche Quelle in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570374,
+                        42.515727
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Font de Ferrús ist eine lokale natürliche Quelle in der wunderschönen Gegend von Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Sant Andreu ist eine historische romanische Kultstätte in Escaldes-Engordany.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Esglèsia de Sant Romà dels Vilars ist eine bemerkenswerte präromanische Kirche in Escaldes-Engordany aus dem 10. Jahrhundert.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Esglesia de Sant Miquel d'Engolasters",
+                  "text": "Die Esglesia de Sant Miquel d'Engolasters ist eine romanische Kirche in Escaldes-Engordany, die für ihren historischen Glockenturm bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        1.560474,
+                        42.511459
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Sant Antoni de la Grella ist eine einzigartige Kultstätte in Escaldes-Engordany, die direkt in den Bergfelsen gebaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Sant Jaume d'Engordany ist eine lokale Kultstätte, die Besucher in Escaldes-Engordany willkommen heißt.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "A Museu Carmen Thyssen egy művészeti múzeum Escaldes-Engordanyban, amely a Carmen Thyssen-Bornemisza gyűjtemény műveit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "A Casa de la Vall egy történelmi épület Escaldes-Engordanyban, amely korábban Andorra parlamenti székhelyeként szolgált.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "A Vall del Madriu-Perafita-Claror egy lenyűgöző gleccservölgyi természetvédelmi terület Escaldes-Engordanyban, amelyet az UNESCO világörökségként tartanak számon.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Az Andorra la Vella-i Kongresszusi Központ egy jelentős színház és rendezvényközpont Escaldes-Engordanyban.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Ez a szabadtéri geológiai múzeum Escaldes-Engordanyban különböző kőzeteket mutat be közvetlenül az utcákon.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "Az MW Museu de l'Electricitat egy informatív múzeum, amely a villamos energia történetét mutatja be Escaldes-Engordanyban.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "A Museu del Perfum az illatszerkészítés művészetének és történetének szentelt lenyűgöző múzeum Escaldes-Engordanyban.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "A Pic de Padern egy kiemelkedő hegycsúcs, amely természeti tájat kínál Escaldes-Engordany környékén.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "A Pont de Paris egy érdekes építészeti híd látványosság Escaldes-Engordanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "A Roc dels Corbs egy lenyűgöző hegycsúcs és természeti tájékozódási pont Escaldes-Engordanyban.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "A Mirador Coll de Jou egy szép kilátó, ahonnan tágas kilátás nyílik Escaldes-Engordanyra.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Agulles d'Engolasters",
+                  "text": "Az Agulles d'Engolasters egy különleges természeti látványosság Escaldes-Engordany városa közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        1.573293,
+                        42.516083
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu Perafita Claror",
+                  "text": "A Madriu Perafita Claror-völgy egy csodálatos természeti látványosság Escaldes-Engordanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.56172,
+                        42.497879
+                  ]
+            },
+            {
+                  "name": "Mirador del circuit de les fonts",
+                  "text": "Ez a kilátó a circuit de les fonts mentén gyönyörű tájat kínál Escaldes-Engordanyban.",
+                  "category": "natural",
+                  "coords": [
+                        1.567092,
+                        42.514086
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "A Mirador del Roc dels Senders egy festői kilátó, amely ideális a városnézéshez Escaldes-Engordanyban.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "A Mirador del Bosc Negre egyedülálló kilátást nyújt Escaldes-Engordany tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Els Jocs d'aigua",
+                  "text": "Az Els Jocs d'aigua egy vonzó, vízzel kapcsolatos látványosság Escaldes-Engordanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570915,
+                        42.521751
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "A CIAM egy oktatási galéria, amely a régió vízkészleteinek és a Madriu-völgynek szenteli magát Escaldes-Engordanyban.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "A Torre de Caldea egy lenyűgöző építészeti látványosság, amely kiemelkedik Escaldes-Engordanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de les Ordigues",
+                  "text": "A Font de les Ordigues egy békés természetes forrás Escaldes-Engordanyban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570374,
+                        42.515727
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "A Font de Ferrús egy helyi természetes forrás, amely Escaldes-Engordany gyönyörű területén található.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "A Sant Andreu egy történelmi román stílusú istentiszteleti hely Escaldes-Engordanyban.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Az Esglèsia de Sant Romà dels Vilars egy jelentős preromán stílusú templom Escaldes-Engordanyban, amely a 10. századból származik.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Esglesia de Sant Miquel d'Engolasters",
+                  "text": "Az Esglesia de Sant Miquel d'Engolasters egy román stílusú templom Escaldes-Engordanyban, amely történelmi harangtornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        1.560474,
+                        42.511459
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "A Sant Antoni de la Grella egy egyedülálló istentiszteleti hely Escaldes-Engordanyban, amelyet közvetlenül a hegy sziklájába építettek.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "A Sant Jaume d'Engordany egy helyi istentiszteleti hely, amely várja a látogatókat Escaldes-Engordanyban.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "Museu Carmen Thyssen este un muzeu de artă din Escaldes-Engordany care expune lucrări din colecția Carmen Thyssen-Bornemisza.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Casa de la Vall este o clădire istorică din Escaldes-Engordany care a servit anterior drept sediu parlamentar al Andorrei.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "Vall del Madriu-Perafita-Claror este o rezervație naturală uimitoare pe o vale glaciară din Escaldes-Engordany, recunoscută ca sit al Patrimoniului Mondial UNESCO.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Centre de Congressos d’Andorra la Vella",
+                  "text": "Centrul de congrese din Andorra la Vella este un teatru major și o locație pentru evenimente situată în Escaldes-Engordany.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "Acest muzeu de geologie în aer liber din Escaldes-Engordany expune diverse roci direct pe străzi.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "MW Museu de l'Electricitat este un muzeu informativ care explorează istoria electricității în Escaldes-Engordany.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "Museu del Perfum este un muzeu fascinant dedicat artei și istoriei parfumeriei în Escaldes-Engordany.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Pic de Padern este un vârf de munte proeminent care oferă peisaje naturale în jurul localității Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Pont de Paris este o atracție arhitecturală interesantă sub formă de pod, situată în Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Roc dels Corbs este un vârf de munte impresionant și un punct de reper natural în Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "Mirador Coll de Jou este un punct de belvedere minunat care oferă priveliști vaste asupra Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Agulles d'Engolasters",
+                  "text": "Agulles d'Engolasters este o atracție naturală distinctă în apropierea orașului Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.573293,
+                        42.516083
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu Perafita Claror",
+                  "text": "Valea Madriu Perafita Claror este o atracție naturală magnifică situată în Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.56172,
+                        42.497879
+                  ]
+            },
+            {
+                  "name": "Mirador del circuit de les fonts",
+                  "text": "Acest punct de belvedere de-a lungul circuit de les fonts oferă peisaje frumoase din Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.567092,
+                        42.514086
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Mirador del Roc dels Senders este un punct de belvedere pitoresc, ideal pentru vizitarea obiectivelor turistice din Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "Mirador del Bosc Negre oferă un punct de observație unic asupra peisajelor din Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Els Jocs d'aigua",
+                  "text": "Els Jocs d'aigua este o atracție captivantă bazată pe apă situată în Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570915,
+                        42.521751
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "CIAM este o galerie educațională dedicată resurselor de apă ale regiunii și văii Madriu din Escaldes-Engordany.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "Torre de Caldea este o atracție arhitecturală izbitoare care se evidențiază în Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de les Ordigues",
+                  "text": "Font de les Ordigues este un izvor natural liniștit situat în Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570374,
+                        42.515727
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Font de Ferrús este un izvor natural local situat în frumoasa zonă a Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Sant Andreu este un lăcaș de cult istoric în stil romanic din Escaldes-Engordany.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Esglèsia de Sant Romà dels Vilars este o notabilă biserică preromanică din Escaldes-Engordany ce datează din secolul al X-lea.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Esglesia de Sant Miquel d'Engolasters",
+                  "text": "Esglesia de Sant Miquel d'Engolasters este o biserică romanică din Escaldes-Engordany, cunoscută pentru clopotnița sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        1.560474,
+                        42.511459
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Sant Antoni de la Grella este un lăcaș de cult unic în Escaldes-Engordany, construit direct în stânca muntelui.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Sant Jaume d'Engordany este un lăcaș de cult local care întâmpină vizitatorii în Escaldes-Engordany.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museu Carmen Thyssen",
+                  "text": "The Museu Carmen Thyssen is an art museum in Escaldes-Engordany displaying works from the Carmen Thyssen-Bornemisza collection.",
+                  "category": "museum",
+                  "coords": [
+                        1.542006,
+                        42.50876
+                  ]
+            },
+            {
+                  "name": "Casa de la Vall",
+                  "text": "Casa de la Vall is a historical building in Escaldes-Engordany that previously served as the parliamentary seat of Andorra.",
+                  "category": "castle",
+                  "coords": [
+                        1.520508,
+                        42.506608
+                  ]
+            },
+            {
+                  "name": "Vall del Madriu-Perafita-Claror",
+                  "text": "Vall del Madriu-Perafita-Claror is a stunning glacial valley nature reserve in Escaldes-Engordany recognized as a UNESCO World Heritage site.",
+                  "category": "natural",
+                  "coords": [
+                        1.607178,
+                        42.479634
+                  ]
+            },
+            {
+                  "name": "Congress centre of Andorra la Vella",
+                  "text": "The Congress centre of Andorra la Vella is a major theatre and events venue located in Escaldes-Engordany.",
+                  "category": "cultural",
+                  "coords": [
+                        1.52251,
+                        42.506918
+                  ]
+            },
+            {
+                  "name": "Museu Obert de Geologia. Roques al Carrer",
+                  "text": "This open-air geology museum in Escaldes-Engordany displays various rocks directly on the streets.",
+                  "category": "museum",
+                  "coords": [
+                        1.525262,
+                        42.506144
+                  ]
+            },
+            {
+                  "name": "MW Museu de l'Electricitat",
+                  "text": "The MW Museu de l'Electricitat is an informative museum exploring the history of electricity in Escaldes-Engordany.",
+                  "category": "museum",
+                  "coords": [
+                        1.553474,
+                        42.514674
+                  ]
+            },
+            {
+                  "name": "Museu del Perfum",
+                  "text": "The Museu del Perfum is a fascinating museum dedicated to the art and history of perfumery in Escaldes-Engordany.",
+                  "category": "museum",
+                  "coords": [
+                        1.53483,
+                        42.508386
+                  ]
+            },
+            {
+                  "name": "Pic de Padern",
+                  "text": "Pic de Padern is a prominent mountain peak offering natural scenery around Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.546048,
+                        42.523797
+                  ]
+            },
+            {
+                  "name": "Pont de Paris",
+                  "text": "Pont de Paris is an interesting architectural bridge attraction located in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.53065,
+                        42.509241
+                  ]
+            },
+            {
+                  "name": "Roc dels Corbs",
+                  "text": "Roc dels Corbs is a striking mountain peak and natural landmark in Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.513862,
+                        42.507687
+                  ]
+            },
+            {
+                  "name": "Mirador Coll de Jou",
+                  "text": "Mirador Coll de Jou is a lovely viewpoint offering expansive vistas over Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.548871,
+                        42.514373
+                  ]
+            },
+            {
+                  "name": "Agulles d'Engolasters",
+                  "text": "Agulles d'Engolasters is a distinct natural attraction near the town of Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.573293,
+                        42.516083
+                  ]
+            },
+            {
+                  "name": "Madriu Perafita Claror Valley",
+                  "text": "The Madriu Perafita Claror Valley is a magnificent natural attraction located in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.56172,
+                        42.497879
+                  ]
+            },
+            {
+                  "name": "Mirador del circuit de les fonts",
+                  "text": "This viewpoint along the circuit de les fonts provides beautiful scenery of Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.567092,
+                        42.514086
+                  ]
+            },
+            {
+                  "name": "Mirador del Roc dels Senders",
+                  "text": "Mirador del Roc dels Senders is a picturesque viewpoint ideal for sightseeing in Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.523478,
+                        42.502328
+                  ]
+            },
+            {
+                  "name": "Mirador del Bosc Negre",
+                  "text": "The Mirador del Bosc Negre offers a unique vantage point over the landscapes of Escaldes-Engordany.",
+                  "category": "natural",
+                  "coords": [
+                        1.52546,
+                        42.492294
+                  ]
+            },
+            {
+                  "name": "Els Jocs d'aigua",
+                  "text": "Els Jocs d'aigua is an engaging water-based attraction located within Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570915,
+                        42.521751
+                  ]
+            },
+            {
+                  "name": "Centre d'Interpretació de l'Agua i del Madriu (CIAM)",
+                  "text": "The CIAM is an educational gallery dedicated to the region's water resources and the Madriu valley in Escaldes-Engordany.",
+                  "category": "museum",
+                  "coords": [
+                        1.54404,
+                        42.509178
+                  ]
+            },
+            {
+                  "name": "Torre de Caldea",
+                  "text": "The Torre de Caldea is a striking architectural attraction that stands out in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.537256,
+                        42.51166
+                  ]
+            },
+            {
+                  "name": "Font de les Ordigues",
+                  "text": "Font de les Ordigues is a serene natural spring situated in Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.570374,
+                        42.515727
+                  ]
+            },
+            {
+                  "name": "Font de Ferrús",
+                  "text": "Font de Ferrús is a local natural spring found in the beautiful area of Escaldes-Engordany.",
+                  "category": "landmark",
+                  "coords": [
+                        1.510141,
+                        42.507438
+                  ]
+            },
+            {
+                  "name": "Sant Andreu",
+                  "text": "Sant Andreu is a historical Romanesque place of worship in Escaldes-Engordany.",
+                  "category": "religious",
+                  "coords": [
+                        1.530763,
+                        42.510322
+                  ]
+            },
+            {
+                  "name": "Esglèsia de Sant Romà dels Vilars",
+                  "text": "Esglèsia de Sant Romà dels Vilars is a notable pre-Romanesque church in Escaldes-Engordany dating back to the 10th century.",
+                  "category": "religious",
+                  "coords": [
+                        1.534799,
+                        42.514822
+                  ]
+            },
+            {
+                  "name": "Esglesia de Sant Miquel d'Engolasters",
+                  "text": "The Esglesia de Sant Miquel d'Engolasters is a Romanesque church in Escaldes-Engordany known for its historic bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        1.560474,
+                        42.511459
+                  ]
+            },
+            {
+                  "name": "Sant Antoni de la Grella",
+                  "text": "Sant Antoni de la Grella is a unique place of worship in Escaldes-Engordany, built directly into the mountain rock.",
+                  "category": "religious",
+                  "coords": [
+                        1.520702,
+                        42.527607
+                  ]
+            },
+            {
+                  "name": "Sant Jaume d'Engordany",
+                  "text": "Sant Jaume d'Engordany is a local place of worship welcoming visitors in Escaldes-Engordany.",
+                  "category": "religious",
+                  "coords": [
+                        1.539947,
+                        42.513037
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-andorra",
     coords: [1.5401, 42.5093],
@@ -275,7 +2345,520 @@ export const andorraCities: POI[] = [
     image: "/geo-images/europe/encamp-funicamp-gondola.webp"
   },
   {
-    id: "city-la-massana",
+    id: "city-la-massana", "sights": {
+      "de": [
+            {
+                  "name": "la Força de Tor",
+                  "text": "Die Überreste einer historischen Befestigungsanlage in der Nähe von La Massana.",
+                  "category": "castle",
+                  "coords": [
+                        1.39805,
+                        42.571592
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "Ein markanter Berggipfel in den Pyrenäen, der spektakuläre Aussichten bietet.",
+                  "category": "natural",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Cap de l'Ovella",
+                  "text": "Ein Berggipfel in der Region La Massana, beliebt bei Wanderern und Naturliebhabern.",
+                  "category": "natural",
+                  "coords": [
+                        1.427987,
+                        42.55907
+                  ]
+            },
+            {
+                  "name": "Pic de Gerri",
+                  "text": "Ein Gipfel in den andorranischen Pyrenäen mit Panoramablick auf die umliegenden Täler.",
+                  "category": "natural",
+                  "coords": [
+                        1.394247,
+                        42.597527
+                  ]
+            },
+            {
+                  "name": "Roc de la Meda",
+                  "text": "Dieser Gipfel bietet eine beeindruckende Aussicht auf die Hochgebirgslandschaft von Andorra.",
+                  "category": "natural",
+                  "coords": [
+                        1.39525,
+                        42.57201
+                  ]
+            },
+            {
+                  "name": "lo Pilar",
+                  "text": "Ein markanter Berggipfel in den andorranischen Pyrenäen bei La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.402189,
+                        42.586083
+                  ]
+            },
+            {
+                  "name": "Pic de Vallpeguera",
+                  "text": "Ein hoher Gipfel an der Grenze zwischen Andorra und Spanien, ideal für Bergwanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        1.42153,
+                        42.592738
+                  ]
+            },
+            {
+                  "name": "Pic d'Escorbes",
+                  "text": "Ein Berggipfel in der Gemeinde La Massana mit weitem Blick über die Pyrenäen.",
+                  "category": "natural",
+                  "coords": [
+                        1.411291,
+                        42.598383
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "Ein Gipfel in der Region La Massana, bekannt für seine unberührte Natur.",
+                  "category": "natural",
+                  "coords": [
+                        1.401859,
+                        42.59422
+                  ]
+            },
+            {
+                  "name": "Roc de Llumeneres",
+                  "text": "Ein Felsgipfel in den Pyrenäen, der zur beeindruckenden Bergkulisse von Andorra gehört.",
+                  "category": "natural",
+                  "coords": [
+                        1.408095,
+                        42.560767
+                  ]
+            },
+            {
+                  "name": "Pic del Port Vell",
+                  "text": "Ein Berggipfel nahe der spanischen Grenze mit Blick auf den Port Vell-Pass.",
+                  "category": "natural",
+                  "coords": [
+                        1.443389,
+                        42.571925
+                  ]
+            },
+            {
+                  "name": "Pic de Sanfons",
+                  "text": "Ein Gipfel in den Pyrenäen an der Grenze zwischen Andorra, Spanien und Frankreich.",
+                  "category": "natural",
+                  "coords": [
+                        1.42766,
+                        42.587467
+                  ]
+            },
+            {
+                  "name": "Sant Pere de Tor",
+                  "text": "Eine kleine, historische Kapelle in der malerischen Umgebung von Tor.",
+                  "category": "religious",
+                  "coords": [
+                        1.398737,
+                        42.570662
+                  ]
+            },
+            {
+                  "name": "Sant Ambròs",
+                  "text": "Ein historisches Gotteshaus in der Bergregion bei La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.409221,
+                        42.577049
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "la Força de Tor",
+                  "text": "Egy történelmi erődítmény maradványai La Massana közelében.",
+                  "category": "castle",
+                  "coords": [
+                        1.39805,
+                        42.571592
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "Jellegzetes hegycsúcs a Pireneusokban, amely látványos kilátást nyújt.",
+                  "category": "natural",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Cap de l'Ovella",
+                  "text": "Hegycsúcs La Massana régiójában, amely népszerű a túrázók és a természetkedvelők körében.",
+                  "category": "natural",
+                  "coords": [
+                        1.427987,
+                        42.55907
+                  ]
+            },
+            {
+                  "name": "Pic de Gerri",
+                  "text": "Hegycsúcs az andorrai Pireneusokban, panorámás kilátással a környező völgyekre.",
+                  "category": "natural",
+                  "coords": [
+                        1.394247,
+                        42.597527
+                  ]
+            },
+            {
+                  "name": "Roc de la Meda",
+                  "text": "Ez a csúcs lenyűgöző kilátást nyújt Andorra magashegyi tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        1.39525,
+                        42.57201
+                  ]
+            },
+            {
+                  "name": "lo Pilar",
+                  "text": "Jellegzetes hegycsúcs az andorrai Pireneusokban, La Massana közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.402189,
+                        42.586083
+                  ]
+            },
+            {
+                  "name": "Pic de Vallpeguera",
+                  "text": "Magas csúcs az andorrai-spanyol határon, ideális hegyi túrázáshoz.",
+                  "category": "natural",
+                  "coords": [
+                        1.42153,
+                        42.592738
+                  ]
+            },
+            {
+                  "name": "Pic d'Escorbes",
+                  "text": "Hegycsúcs La Massana községben, széles kilátással a Pireneusokra.",
+                  "category": "natural",
+                  "coords": [
+                        1.411291,
+                        42.598383
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "Hegycsúcs La Massana régiójában, amely érintetlen természetéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        1.401859,
+                        42.59422
+                  ]
+            },
+            {
+                  "name": "Roc de Llumeneres",
+                  "text": "Sziklacsúcs a Pireneusokban, amely Andorra lenyűgöző hegyi díszletéhez tartozik.",
+                  "category": "natural",
+                  "coords": [
+                        1.408095,
+                        42.560767
+                  ]
+            },
+            {
+                  "name": "Pic del Port Vell",
+                  "text": "Hegycsúcs a spanyol határ közelében, kilátással a Port Vell-hágóra.",
+                  "category": "natural",
+                  "coords": [
+                        1.443389,
+                        42.571925
+                  ]
+            },
+            {
+                  "name": "Pic de Sanfons",
+                  "text": "Hegycsúcs a Pireneusokban, az andorrai, spanyol és francia határ közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.42766,
+                        42.587467
+                  ]
+            },
+            {
+                  "name": "Sant Pere de Tor",
+                  "text": "Kisméretű, történelmi kápolna Tor festői környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        1.398737,
+                        42.570662
+                  ]
+            },
+            {
+                  "name": "Sant Ambròs",
+                  "text": "Történelmi templom La Massana környéki hegyvidéken.",
+                  "category": "religious",
+                  "coords": [
+                        1.409221,
+                        42.577049
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "la Força de Tor",
+                  "text": "Rămășițele unei fortificații istorice din apropiere de La Massana.",
+                  "category": "castle",
+                  "coords": [
+                        1.39805,
+                        42.571592
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "Un vârf montan distinctiv din Pirinei, care oferă vederi spectaculoase.",
+                  "category": "natural",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Cap de l'Ovella",
+                  "text": "Un vârf montan din regiunea La Massana, popular printre drumeți și iubitorii de natură.",
+                  "category": "natural",
+                  "coords": [
+                        1.427987,
+                        42.55907
+                  ]
+            },
+            {
+                  "name": "Pic de Gerri",
+                  "text": "Un vârf din Pirineii andorrani, cu vedere panoramică asupra văilor înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        1.394247,
+                        42.597527
+                  ]
+            },
+            {
+                  "name": "Roc de la Meda",
+                  "text": "Acest vârf oferă o vedere impresionantă asupra peisajului montan înalt din Andorra.",
+                  "category": "natural",
+                  "coords": [
+                        1.39525,
+                        42.57201
+                  ]
+            },
+            {
+                  "name": "lo Pilar",
+                  "text": "Un vârf montan distinctiv din Pirineii andorrani de lângă La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.402189,
+                        42.586083
+                  ]
+            },
+            {
+                  "name": "Pic de Vallpeguera",
+                  "text": "Un vârf înalt la granița dintre Andorra și Spania, ideal pentru drumeții montane.",
+                  "category": "natural",
+                  "coords": [
+                        1.42153,
+                        42.592738
+                  ]
+            },
+            {
+                  "name": "Pic d'Escorbes",
+                  "text": "Un vârf montan din parohia La Massana, cu o vedere largă asupra Pirineilor.",
+                  "category": "natural",
+                  "coords": [
+                        1.411291,
+                        42.598383
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "Un vârf din regiunea La Massana, cunoscut pentru natura sa curată.",
+                  "category": "natural",
+                  "coords": [
+                        1.401859,
+                        42.59422
+                  ]
+            },
+            {
+                  "name": "Roc de Llumeneres",
+                  "text": "Un vârf stâncos din Pirinei, parte a peisajului montan impresionant al Andorrei.",
+                  "category": "natural",
+                  "coords": [
+                        1.408095,
+                        42.560767
+                  ]
+            },
+            {
+                  "name": "Pic del Port Vell",
+                  "text": "Un vârf montan lângă granița cu Spania, cu vedere spre pasul Port Vell.",
+                  "category": "natural",
+                  "coords": [
+                        1.443389,
+                        42.571925
+                  ]
+            },
+            {
+                  "name": "Pic de Sanfons",
+                  "text": "Un vârf din Pirinei, la granița dintre Andorra, Spania și Franța.",
+                  "category": "natural",
+                  "coords": [
+                        1.42766,
+                        42.587467
+                  ]
+            },
+            {
+                  "name": "Sant Pere de Tor",
+                  "text": "O mică chapelă istorică în împrejurimile pitorești din Tor.",
+                  "category": "religious",
+                  "coords": [
+                        1.398737,
+                        42.570662
+                  ]
+            },
+            {
+                  "name": "Sant Ambròs",
+                  "text": "Un lăcaș de cult istoric în regiunea montană de lângă La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.409221,
+                        42.577049
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "la Força de Tor",
+                  "text": "The remains of a historical fortification near La Massana.",
+                  "category": "castle",
+                  "coords": [
+                        1.39805,
+                        42.571592
+                  ]
+            },
+            {
+                  "name": "Agulla de Baiau",
+                  "text": "A prominent mountain peak in the Pyrenees offering spectacular views.",
+                  "category": "natural",
+                  "coords": [
+                        1.434174,
+                        42.590256
+                  ]
+            },
+            {
+                  "name": "Cap de l'Ovella",
+                  "text": "A mountain peak in the La Massana region, popular with hikers and nature lovers.",
+                  "category": "natural",
+                  "coords": [
+                        1.427987,
+                        42.55907
+                  ]
+            },
+            {
+                  "name": "Pic de Gerri",
+                  "text": "A peak in the Andorran Pyrenees with panoramic views of the surrounding valleys.",
+                  "category": "natural",
+                  "coords": [
+                        1.394247,
+                        42.597527
+                  ]
+            },
+            {
+                  "name": "Roc de la Meda",
+                  "text": "This peak offers an impressive view of the high mountain landscape of Andorra.",
+                  "category": "natural",
+                  "coords": [
+                        1.39525,
+                        42.57201
+                  ]
+            },
+            {
+                  "name": "lo Pilar",
+                  "text": "A prominent mountain peak in the Andorran Pyrenees near La Massana.",
+                  "category": "natural",
+                  "coords": [
+                        1.402189,
+                        42.586083
+                  ]
+            },
+            {
+                  "name": "Pic de Vallpeguera",
+                  "text": "A high peak on the border between Andorra and Spain, ideal for mountain hiking.",
+                  "category": "natural",
+                  "coords": [
+                        1.42153,
+                        42.592738
+                  ]
+            },
+            {
+                  "name": "Pic d'Escorbes",
+                  "text": "A mountain peak in the La Massana parish with wide views over the Pyrenees.",
+                  "category": "natural",
+                  "coords": [
+                        1.411291,
+                        42.598383
+                  ]
+            },
+            {
+                  "name": "Pic de Palomer",
+                  "text": "A peak in the La Massana region, known for its pristine nature.",
+                  "category": "natural",
+                  "coords": [
+                        1.401859,
+                        42.59422
+                  ]
+            },
+            {
+                  "name": "Roc de Llumeneres",
+                  "text": "A rocky peak in the Pyrenees, part of the impressive mountain scenery of Andorra.",
+                  "category": "natural",
+                  "coords": [
+                        1.408095,
+                        42.560767
+                  ]
+            },
+            {
+                  "name": "Pic del Port Vell",
+                  "text": "A mountain peak near the Spanish border with views over the Port Vell pass.",
+                  "category": "natural",
+                  "coords": [
+                        1.443389,
+                        42.571925
+                  ]
+            },
+            {
+                  "name": "Pic de Sanfons",
+                  "text": "A peak in the Pyrenees on the border between Andorra, Spain, and France.",
+                  "category": "natural",
+                  "coords": [
+                        1.42766,
+                        42.587467
+                  ]
+            },
+            {
+                  "name": "Sant Pere de Tor",
+                  "text": "A small, historic chapel in the scenic surroundings of Tor.",
+                  "category": "religious",
+                  "coords": [
+                        1.398737,
+                        42.570662
+                  ]
+            },
+            {
+                  "name": "Sant Ambròs",
+                  "text": "A historic place of worship in the mountain region near La Massana.",
+                  "category": "religious",
+                  "coords": [
+                        1.409221,
+                        42.577049
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-andorra",
     coords: [1.4131, 42.5755],
@@ -363,7 +2946,664 @@ export const andorraCities: POI[] = [
     image: "/geo-images/europe/ordino-village-summer.webp"
   },
   {
-    id: "city-canillo",
+    id: "city-canillo", "sights": {
+      "de": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "Diese archäologische Fundstätte bei Canillo ist für ihre prähistorischen Felsgravuren bekannt.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "Das Museu de la Moto in Canillo stellt eine bedeutende Sammlung historischer Motorräder aus.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "Der Pic d'Encampadana ist ein Berggipfel in der Gemeinde Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "Der Pic dels Maians ist ein Gipfel in der Region Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "Dies sind die Überreste des ursprünglichen Heiligtums von Meritxell in Canillo.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "Die Santa Creu de Canillo ist ein kleines religiöses Denkmal in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "Dieser Aussichtspunkt in Canillo bietet eine spektakuläre Plattform über dem Abgrund.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Toll Bullidor",
+                  "text": "Der Toll Bullidor ist ein Wasserfall und Naturziel in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.590847,
+                        42.547991
+                  ]
+            },
+            {
+                  "name": "Coll d'Ordino",
+                  "text": "Der Coll d'Ordino ist ein Bergpass und Aussichtspunkt in der Nähe von Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.572221,
+                        42.554968
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "Die Via Ferrata Canal del Grau ist ein Kletterpfad in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Cascada del Riu d'Urina",
+                  "text": "Die Cascada del Riu d'Urina ist ein Wasserfall in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.583905,
+                        42.559267
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Der Mirador 1 ist ein Aussichtspunkt in der Gemeinde Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "Die Pont Tibetà de Canillo ist eine der längsten Hängebrücken ihrer Art.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cap de Rep",
+                  "text": "Der Cap de Rep ist ein Aussichtspunkt in Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.609917,
+                        42.543832
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "Die Cruz de Meritxell ist ein religiöses Denkmal in Canillo.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Bolet gegant",
+                  "text": "Bolet gegant ist eine auffällige Sehenswürdigkeit in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.576732,
+                        42.558023
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "Sant Joan de Caselles ist eine bedeutende romanische Kirche aus dem 12. Jahrhundert in Canillo.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "Sant Miquel de Prats ist eine kleine romanische Kirche in Canillo.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "Ez a Canillo melletti régészeti lelőhely őskori sziklarajzairól ismert.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "A canillói Museu de la Moto történelmi motorkerékpárok jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "A Pic d'Encampadana egy hegycsúcs Canillo községben.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "A Pic dels Maians egy hegycsúcs Canillo régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "Ez a canillói Meritxell eredeti szentélyének maradványa.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "A Santa Creu de Canillo egy kis vallási emlékmű Canillóban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "Ez a canillói kilátó egy látványos platformot kínál a szakadék felett.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Toll Bullidor",
+                  "text": "A Toll Bullidor egy vízesés és természeti látnivaló Canillóban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.590847,
+                        42.547991
+                  ]
+            },
+            {
+                  "name": "Coll d'Ordino",
+                  "text": "A Coll d'Ordino egy hágó és kilátóhely Canillo közelében.",
+                  "category": "natural",
+                  "coords": [
+                        1.572221,
+                        42.554968
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "A Via ferrada Canal del Grau egy kiépített mászóút Canillóban.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Cascada del Riu d'Urina",
+                  "text": "A Cascada del Riu d'Urina egy vízesés Canillo területén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.583905,
+                        42.559267
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "A Mirador 1 egy kilátóhely Canillo községben.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "A Pont Tibetà de Canillo a világ egyik leghosszabb gyalogos függőhídja.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cap de Rep",
+                  "text": "A Cap de Rep egy kilátóhely Canillo területén.",
+                  "category": "natural",
+                  "coords": [
+                        1.609917,
+                        42.543832
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "A Cruz de Meritxell egy vallási emlékmű Canillóban.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Bolet gegant",
+                  "text": "A Bolet gegant egy feltűnő látnivaló Canillo területén.",
+                  "category": "landmark",
+                  "coords": [
+                        1.576732,
+                        42.558023
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "A Sant Joan de Caselles egy jelentős 12. századi román stílusú templom Canillóban.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "Sant Miquel de Prats egy kis román stílusú templom Canillóban.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "Acest sit arheologic de lângă Canillo este cunoscut pentru gravurile sale rupestre preistorice.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "Museu de la Moto din Canillo expune o colecție importantă de motociclete istorice.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "Pic d'Encampadana este un vârf montan în comuna Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "Pic dels Maians este un vârf în regiunea Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "Acestea sunt rămășițele sanctuarului original din Meritxell, Canillo.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "Santa Creu de Canillo este un mic monument religios în Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "Acest punct de belvedere din Canillo oferă o platformă spectaculoasă deasupra prăpastiei.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Toll Bullidor",
+                  "text": "Toll Bullidor este o cascadă și o destinație naturală în Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.590847,
+                        42.547991
+                  ]
+            },
+            {
+                  "name": "Coll d'Ordino",
+                  "text": "Coll d'Ordino este o trecătoare montană și un punct de belvedere lângă Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.572221,
+                        42.554968
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "Via ferrata Canal del Grau este un traseu de alpinism în Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Cascada del Riu d'Urina",
+                  "text": "Cascada del Riu d'Urina este o cascadă în Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.583905,
+                        42.559267
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Mirador 1 este un punct de belvedere în comuna Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "Pont Tibetà de Canillo este unul dintre cele mai lungi poduri suspendate de acest tip.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cap de Rep",
+                  "text": "Cap de Rep este un punct de belvedere în Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.609917,
+                        42.543832
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "Cruz de Meritxell este un monument religios în Canillo.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Bolet gegant",
+                  "text": "Bolet gegant este o atracție neobișnuită în Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.576732,
+                        42.558023
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "Sant Joan de Caselles este o biserică romanică importantă din secolul al XII-lea în Canillo.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "Sant Miquel de Prats este o mică biserică romanică în Canillo.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roc de les Bruixes",
+                  "text": "This archaeological site near Canillo is known for its prehistoric rock engravings.",
+                  "category": "historical",
+                  "coords": [
+                        1.596624,
+                        42.554187
+                  ]
+            },
+            {
+                  "name": "Museu de la Moto",
+                  "text": "The Museu de la Moto in Canillo exhibits a significant collection of historic motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        1.601206,
+                        42.565871
+                  ]
+            },
+            {
+                  "name": "Pic d'Encampadana",
+                  "text": "Pic d'Encampadana is a mountain peak in the municipality of Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.633134,
+                        42.557171
+                  ]
+            },
+            {
+                  "name": "Pic dels Maians",
+                  "text": "Pic dels Maians is a peak in the Canillo region.",
+                  "category": "natural",
+                  "coords": [
+                        1.627799,
+                        42.552383
+                  ]
+            },
+            {
+                  "name": "Santuari vell de Meritxell",
+                  "text": "These are the remains of the original sanctuary of Meritxell in Canillo.",
+                  "category": "historical",
+                  "coords": [
+                        1.590784,
+                        42.555198
+                  ]
+            },
+            {
+                  "name": "Santa Creu de Canillo",
+                  "text": "Santa Creu de Canillo is a small religious monument in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.599751,
+                        42.565846
+                  ]
+            },
+            {
+                  "name": "Mirador Roc del Quer",
+                  "text": "This viewpoint in Canillo features a spectacular platform suspended over the abyss.",
+                  "category": "natural",
+                  "coords": [
+                        1.591038,
+                        42.567153
+                  ]
+            },
+            {
+                  "name": "Toll Bullidor",
+                  "text": "Toll Bullidor is a waterfall and natural attraction in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.590847,
+                        42.547991
+                  ]
+            },
+            {
+                  "name": "Coll d'Ordino",
+                  "text": "Coll d'Ordino is a mountain pass and viewpoint near Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.572221,
+                        42.554968
+                  ]
+            },
+            {
+                  "name": "Via ferrada Canal del Grau",
+                  "text": "Via ferrata Canal del Grau is a climbing route in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.588518,
+                        42.563777
+                  ]
+            },
+            {
+                  "name": "Cascada del Riu d'Urina",
+                  "text": "Cascada del Riu d'Urina is a waterfall in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.583905,
+                        42.559267
+                  ]
+            },
+            {
+                  "name": "Mirador 1",
+                  "text": "Mirador 1 is a viewpoint in the municipality of Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.589435,
+                        42.568341
+                  ]
+            },
+            {
+                  "name": "Pont Tibetà de Canillo",
+                  "text": "Pont Tibetà de Canillo is one of the longest pedestrian suspension bridges of its kind.",
+                  "category": "landmark",
+                  "coords": [
+                        1.610302,
+                        42.576704
+                  ]
+            },
+            {
+                  "name": "Cap de Rep",
+                  "text": "Cap de Rep is a viewpoint in Canillo.",
+                  "category": "natural",
+                  "coords": [
+                        1.609917,
+                        42.543832
+                  ]
+            },
+            {
+                  "name": "Cruz de Meritxell",
+                  "text": "Cruz de Meritxell is a religious monument in Canillo.",
+                  "category": "historical",
+                  "coords": [
+                        1.591693,
+                        42.557215
+                  ]
+            },
+            {
+                  "name": "Bolet gegant",
+                  "text": "Bolet gegant is a striking attraction in Canillo.",
+                  "category": "landmark",
+                  "coords": [
+                        1.576732,
+                        42.558023
+                  ]
+            },
+            {
+                  "name": "Sant Joan de Caselles",
+                  "text": "Sant Joan de Caselles is a significant 12th-century Romanesque church in Canillo.",
+                  "category": "religious",
+                  "coords": [
+                        1.607785,
+                        42.570832
+                  ]
+            },
+            {
+                  "name": "Sant Miquel de Prats",
+                  "text": "Sant Miquel de Prats is a small Romanesque church in Canillo.",
+                  "category": "religious",
+                  "coords": [
+                        1.59398,
+                        42.560361
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "country-andorra",
     coords: [1.5997, 42.5667],

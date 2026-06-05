@@ -220,6 +220,60 @@ export const irelandCitiesV2: POI[] = [
                         -8.575212,
                         51.897112
                   ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "Eine historische Burg in Ballincollig.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "Eine Burgruine aus dem 14. Jahrhundert in Ballincollig.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Ruinen einer historischen Schießpulverfabrik in Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "Ruinen eines alten Mühlentunnels in Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "Eine Kirche in Ballincollig.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "Eine Kirche in Ballincollig.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
+                  ]
             }
       ],
       "hu": [
@@ -230,6 +284,60 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.575212,
                         51.897112
+                  ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "Történelmi vár Ballincolligban.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "14. századi várrom Ballincolligban.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Egy történelmi lőporgyár romjai Ballincolligban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "Egy régi malomcsatorna-alagút romjai Ballincolligban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "Templom Ballincolligban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "Templom Ballincolligban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
                   ]
             }
       ],
@@ -242,6 +350,60 @@ export const irelandCitiesV2: POI[] = [
                         -8.575212,
                         51.897112
                   ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "Un castel istoric în Ballincollig.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "O ruină de castel din secolul al XIV-lea în Ballincollig.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Ruinele unei fabrici istorice de praf de pușcă în Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "Ruinele unui vechi tunel de moară în Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "O biserică în Ballincollig.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "O biserică în Ballincollig.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
+                  ]
             }
       ],
       "en": [
@@ -252,6 +414,60 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -8.575212,
                         51.897112
+                  ]
+            },
+            {
+                  "name": "Carrigrohane Castle",
+                  "text": "A historic castle in Ballincollig.",
+                  "category": "castle",
+                  "coords": [
+                        -8.559893,
+                        51.896444
+                  ]
+            },
+            {
+                  "name": "Ballincollig Castle",
+                  "text": "A 14th-century castle ruin in Ballincollig.",
+                  "category": "castle",
+                  "coords": [
+                        -8.599873,
+                        51.8793
+                  ]
+            },
+            {
+                  "name": "Gunpowder Mills",
+                  "text": "Ruins of a historic gunpowder factory in Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.592219,
+                        51.89403
+                  ]
+            },
+            {
+                  "name": "Old Mill Race Tunnel",
+                  "text": "Ruins of an old mill race tunnel in Ballincollig.",
+                  "category": "historical",
+                  "coords": [
+                        -8.561996,
+                        51.89616
+                  ]
+            },
+            {
+                  "name": "St. Marys and St. Johns Church",
+                  "text": "A church in Ballincollig.",
+                  "category": "religious",
+                  "coords": [
+                        -8.590433,
+                        51.885899
+                  ]
+            },
+            {
+                  "name": "Saint Peter's",
+                  "text": "A church in Ballincollig.",
+                  "category": "religious",
+                  "coords": [
+                        -8.558566,
+                        51.894902
                   ]
             }
       ]
@@ -300,7 +516,340 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-ballincollig-cities-v2.webp",
   },
   {
-    id: "ireland-ballymena-cities-v2",
+    id: "ireland-ballymena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mid-Antrim Museum",
+                  "text": "Ein Museum in Ballymena, das die Geschichte von Mid-Antrim präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.27671,
+                        54.863793
+                  ]
+            },
+            {
+                  "name": "Harryville Mote and Bailey",
+                  "text": "Eine archäologische Stätte in Ballymena, die Überreste einer mittelalterlichen Motte zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -6.268843,
+                        54.858841
+                  ]
+            },
+            {
+                  "name": "Galgorm Castle",
+                  "text": "Ein historisches Schloss bei Ballymena, umgeben von einem Anwesen und Golfplatz.",
+                  "category": "castle",
+                  "coords": [
+                        -6.316928,
+                        54.857239
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Ein beliebter öffentlicher Park in Ballymena mit Freizeitanlagen und Gärten.",
+                  "category": "park",
+                  "coords": [
+                        -6.281346,
+                        54.872013
+                  ]
+            },
+            {
+                  "name": "Wishing Well",
+                  "text": "Ein traditioneller Wunschbrunnen und lokales Ausflugsziel in Ballymena.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.2843,
+                        54.8773
+                  ]
+            },
+            {
+                  "name": "ECOS Centre",
+                  "text": "Ein Umwelt- und Freizeitzentrum in Ballymena mit Fokus auf Natur und Nachhaltigkeit.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.258121,
+                        54.866692
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "Das Verwaltungszentrum des County Antrim in Ballymena.",
+                  "category": "historical",
+                  "coords": [
+                        -6.309585,
+                        54.856106
+                  ]
+            },
+            {
+                  "name": "St Patrick's Parish Church",
+                  "text": "Eine bedeutende anglikanische Kirche im Zentrum von Ballymena.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273281,
+                        54.862758
+                  ]
+            },
+            {
+                  "name": "Ballymena Methodist Church",
+                  "text": "Ein Ort der christlichen Anbetung der methodistischen Gemeinde in Ballymena.",
+                  "category": "religious",
+                  "coords": [
+                        -6.280343,
+                        54.867395
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mid-Antrim Museum",
+                  "text": "Ballymena múzeuma, amely Mid-Antrim történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.27671,
+                        54.863793
+                  ]
+            },
+            {
+                  "name": "Harryville Mote and Bailey",
+                  "text": "Régészeti lelőhely Ballymenában, amely egy középkori várhely maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -6.268843,
+                        54.858841
+                  ]
+            },
+            {
+                  "name": "Galgorm Castle",
+                  "text": "Történelmi kastély Ballymena közelében, birtokkal és golfpályával körülvéve.",
+                  "category": "castle",
+                  "coords": [
+                        -6.316928,
+                        54.857239
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Népszerű nyilvános park Ballymenában szabadidős létesítményekkel és kertekkel.",
+                  "category": "park",
+                  "coords": [
+                        -6.281346,
+                        54.872013
+                  ]
+            },
+            {
+                  "name": "Wishing Well",
+                  "text": "Hagyományos kívánságkút és helyi látnivaló Ballymenában.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.2843,
+                        54.8773
+                  ]
+            },
+            {
+                  "name": "ECOS Centre",
+                  "text": "Környezetvédelmi és szabadidős központ Ballymenában, a természetre és fenntarthatóságra összpontosítva.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.258121,
+                        54.866692
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "Antrim megye adminisztratív központja Ballymenában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.309585,
+                        54.856106
+                  ]
+            },
+            {
+                  "name": "St Patrick's Parish Church",
+                  "text": "Jelentős anglikán templom Ballymena központjában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273281,
+                        54.862758
+                  ]
+            },
+            {
+                  "name": "Ballymena Methodist Church",
+                  "text": "A metodista közösség keresztény istentiszteleti helye Ballymenában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.280343,
+                        54.867395
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mid-Antrim Museum",
+                  "text": "Un muzeu în Ballymena care prezintă istoria regiunii Mid-Antrim.",
+                  "category": "museum",
+                  "coords": [
+                        -6.27671,
+                        54.863793
+                  ]
+            },
+            {
+                  "name": "Harryville Mote and Bailey",
+                  "text": "Un sit arheologic în Ballymena, care prezintă rămășițele unei fortificații medievale.",
+                  "category": "historical",
+                  "coords": [
+                        -6.268843,
+                        54.858841
+                  ]
+            },
+            {
+                  "name": "Galgorm Castle",
+                  "text": "Un castel istoric lângă Ballymena, înconjurat de o moșie și un teren de golf.",
+                  "category": "castle",
+                  "coords": [
+                        -6.316928,
+                        54.857239
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Un parc public popular în Ballymena, cu facilități de recreere și grădini.",
+                  "category": "park",
+                  "coords": [
+                        -6.281346,
+                        54.872013
+                  ]
+            },
+            {
+                  "name": "Wishing Well",
+                  "text": "O fântână tradițională a dorințelor și o atracție locală în Ballymena.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.2843,
+                        54.8773
+                  ]
+            },
+            {
+                  "name": "ECOS Centre",
+                  "text": "Un centru de mediu și recreere în Ballymena, axat pe natură și sustenabilitate.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.258121,
+                        54.866692
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "Centrul administrativ al comitatului Antrim în Ballymena.",
+                  "category": "historical",
+                  "coords": [
+                        -6.309585,
+                        54.856106
+                  ]
+            },
+            {
+                  "name": "St Patrick's Parish Church",
+                  "text": "O biserică anglicană importantă situată în centrul orașului Ballymena.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273281,
+                        54.862758
+                  ]
+            },
+            {
+                  "name": "Ballymena Methodist Church",
+                  "text": "Un loc de cult creștin al comunității metodiste din Ballymena.",
+                  "category": "religious",
+                  "coords": [
+                        -6.280343,
+                        54.867395
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mid-Antrim Museum",
+                  "text": "A museum in Ballymena showcasing the history of Mid-Antrim.",
+                  "category": "museum",
+                  "coords": [
+                        -6.27671,
+                        54.863793
+                  ]
+            },
+            {
+                  "name": "Harryville Mote and Bailey",
+                  "text": "An archaeological site in Ballymena showing the remains of a medieval motte and bailey.",
+                  "category": "historical",
+                  "coords": [
+                        -6.268843,
+                        54.858841
+                  ]
+            },
+            {
+                  "name": "Galgorm Castle",
+                  "text": "A historical castle near Ballymena, surrounded by an estate and golf course.",
+                  "category": "castle",
+                  "coords": [
+                        -6.316928,
+                        54.857239
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "A popular public park in Ballymena featuring recreational facilities and gardens.",
+                  "category": "park",
+                  "coords": [
+                        -6.281346,
+                        54.872013
+                  ]
+            },
+            {
+                  "name": "Wishing Well",
+                  "text": "A traditional wishing well and local attraction in Ballymena.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.2843,
+                        54.8773
+                  ]
+            },
+            {
+                  "name": "ECOS Centre",
+                  "text": "An environmental and leisure center in Ballymena focused on nature and sustainability.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.258121,
+                        54.866692
+                  ]
+            },
+            {
+                  "name": "County Hall",
+                  "text": "The administrative center for County Antrim located in Ballymena.",
+                  "category": "historical",
+                  "coords": [
+                        -6.309585,
+                        54.856106
+                  ]
+            },
+            {
+                  "name": "St Patrick's Parish Church",
+                  "text": "A significant Anglican church located in the center of Ballymena.",
+                  "category": "religious",
+                  "coords": [
+                        -6.273281,
+                        54.862758
+                  ]
+            },
+            {
+                  "name": "Ballymena Methodist Church",
+                  "text": "A place of Christian worship for the Methodist community in Ballymena.",
+                  "category": "religious",
+                  "coords": [
+                        -6.280343,
+                        54.867395
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Ballymena", hu: "Ballymena", ro: "Ballymena", en: "Ballymena" },
@@ -1074,7 +1623,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-birr-cities-v2.webp",
   },
   {
-    id: "ireland-carrickfergus-cities-v2",
+    id: "ireland-carrickfergus-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Carrickfergus Museum",
+                  "text": "Ein Museum, das die lange und vielfältige Geschichte der Stadt Carrickfergus dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806049,
+                        54.716338
+                  ]
+            },
+            {
+                  "name": "US Rangers Centre",
+                  "text": "Ein Museum, das der ersten US-Rangers-Einheit gewidmet ist, die 1942 in Carrickfergus aufgestellt wurde.",
+                  "category": "museum",
+                  "coords": [
+                        -5.783118,
+                        54.722727
+                  ]
+            },
+            {
+                  "name": "Kilcreggan Urban Farm",
+                  "text": "Ein gemeinschaftlich betriebener städtischer Bauernhof und Tierpark in Carrickfergus.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.795213,
+                        54.720558
+                  ]
+            },
+            {
+                  "name": "King William III Monument",
+                  "text": "Ein Denkmal in Carrickfergus, das an die Landung von König Wilhelm III. im Jahr 1690 erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -5.807289,
+                        54.713569
+                  ]
+            },
+            {
+                  "name": "Burning Bush",
+                  "text": "Ein Denkmal in Carrickfergus, das die Presbyterianische Kirche symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        -5.804235,
+                        54.71638
+                  ]
+            },
+            {
+                  "name": "Lauryn James",
+                  "text": "Eine Kunstgalerie in Carrickfergus, die zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806853,
+                        54.714806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Carrickfergus Museum",
+                  "text": "Carrickfergus városának hosszú és változatos történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806049,
+                        54.716338
+                  ]
+            },
+            {
+                  "name": "US Rangers Centre",
+                  "text": "Az 1942-ben Carrickfergusban megalakult első amerikai Ranger-egységnek szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -5.783118,
+                        54.722727
+                  ]
+            },
+            {
+                  "name": "Kilcreggan Urban Farm",
+                  "text": "Közösségi fenntartású városi farm és állatpark Carrickfergusban.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.795213,
+                        54.720558
+                  ]
+            },
+            {
+                  "name": "King William III Monument",
+                  "text": "Carrickfergus emlékműve, amely III. Vilmos király 1690-es partraszállásának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -5.807289,
+                        54.713569
+                  ]
+            },
+            {
+                  "name": "Burning Bush",
+                  "text": "A presbiteriánus egyházat jelképező emlékmű Carrickfergusban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.804235,
+                        54.71638
+                  ]
+            },
+            {
+                  "name": "Lauryn James",
+                  "text": "Kortárs művészeti alkotásokat bemutató galéria Carrickfergus városában.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806853,
+                        54.714806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Carrickfergus Museum",
+                  "text": "Un muzeu care detaliază istoria lungă și diversă a orașului Carrickfergus.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806049,
+                        54.716338
+                  ]
+            },
+            {
+                  "name": "US Rangers Centre",
+                  "text": "Un muzeu dedicat primei unități de Rangers din SUA, activată în Carrickfergus în 1942.",
+                  "category": "museum",
+                  "coords": [
+                        -5.783118,
+                        54.722727
+                  ]
+            },
+            {
+                  "name": "Kilcreggan Urban Farm",
+                  "text": "O fermă urbană și un centru de animale administrat de comunitate în Carrickfergus.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.795213,
+                        54.720558
+                  ]
+            },
+            {
+                  "name": "King William III Monument",
+                  "text": "Un monument în Carrickfergus care comemorează debarcarea regelui William al III-lea în 1690.",
+                  "category": "historical",
+                  "coords": [
+                        -5.807289,
+                        54.713569
+                  ]
+            },
+            {
+                  "name": "Burning Bush",
+                  "text": "Un monument care simbolizează Biserica Presbyteriană, situat în Carrickfergus.",
+                  "category": "historical",
+                  "coords": [
+                        -5.804235,
+                        54.71638
+                  ]
+            },
+            {
+                  "name": "Lauryn James",
+                  "text": "O galerie de artă care prezintă lucrări contemporane în orașul Carrickfergus.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806853,
+                        54.714806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Carrickfergus Museum",
+                  "text": "A museum detailing the long and diverse history of the town of Carrickfergus.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806049,
+                        54.716338
+                  ]
+            },
+            {
+                  "name": "US Rangers Centre",
+                  "text": "A museum dedicated to the first US Rangers unit activated in Carrickfergus in 1942.",
+                  "category": "museum",
+                  "coords": [
+                        -5.783118,
+                        54.722727
+                  ]
+            },
+            {
+                  "name": "Kilcreggan Urban Farm",
+                  "text": "A community-run urban farm and animal center in Carrickfergus.",
+                  "category": "recreational",
+                  "coords": [
+                        -5.795213,
+                        54.720558
+                  ]
+            },
+            {
+                  "name": "King William III Monument",
+                  "text": "A monument in Carrickfergus commemorating the landing of King William III in 1690.",
+                  "category": "historical",
+                  "coords": [
+                        -5.807289,
+                        54.713569
+                  ]
+            },
+            {
+                  "name": "Burning Bush",
+                  "text": "A monument symbolizing the Presbyterian Church, located in Carrickfergus.",
+                  "category": "historical",
+                  "coords": [
+                        -5.804235,
+                        54.71638
+                  ]
+            },
+            {
+                  "name": "Lauryn James",
+                  "text": "An art gallery showcasing contemporary works in the town of Carrickfergus.",
+                  "category": "museum",
+                  "coords": [
+                        -5.806853,
+                        54.714806
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Carrickfergus", hu: "Carrickfergus", ro: "Carrickfergus", en: "Carrickfergus" },
@@ -1605,7 +2379,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-cashel-cities-v2.webp",
   },
   {
-    id: "ireland-castlebar-cities-v2",
+    id: "ireland-castlebar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Royal Theatre",
+                  "text": "Ein großes Theater- und Veranstaltungszentrum in Castlebar.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.30441,
+                        53.853238
+                  ]
+            },
+            {
+                  "name": "Funster Playcentre",
+                  "text": "Ein Indoor-Spielplatz und Freizeitzentrum für Familien in Castlebar.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.282391,
+                        53.848403
+                  ]
+            },
+            {
+                  "name": "Black Fort",
+                  "text": "Eine archäologische Stätte bei Castlebar mit Überresten historischer Befestigungen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.313373,
+                        53.852909
+                  ]
+            },
+            {
+                  "name": "Barry Castle",
+                  "text": "Ruinen einer alten Burg in Castlebar.",
+                  "category": "historical",
+                  "coords": [
+                        -9.31493,
+                        53.852931
+                  ]
+            },
+            {
+                  "name": "The Linen Hall",
+                  "text": "Ein bedeutendes Kulturzentrum in Castlebar, das verschiedene Kunstveranstaltungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.297449,
+                        53.858236
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Ein lokales christliches Gotteshaus in Castlebar.",
+                  "category": "religious",
+                  "coords": [
+                        -9.300031,
+                        53.854414
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Royal Theatre",
+                  "text": "Nagy színház és rendezvényközpont Castlebarban.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.30441,
+                        53.853238
+                  ]
+            },
+            {
+                  "name": "Funster Playcentre",
+                  "text": "Fedett játszóház és családi szabadidőközpont Castlebarban.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.282391,
+                        53.848403
+                  ]
+            },
+            {
+                  "name": "Black Fort",
+                  "text": "Régészeti lelőhely Castlebar közelében, történelmi erődítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        -9.313373,
+                        53.852909
+                  ]
+            },
+            {
+                  "name": "Barry Castle",
+                  "text": "Egy régi vár romjai Castlebarban.",
+                  "category": "historical",
+                  "coords": [
+                        -9.31493,
+                        53.852931
+                  ]
+            },
+            {
+                  "name": "The Linen Hall",
+                  "text": "Jelentős művészeti központ Castlebarban, amely számos kulturális eseménynek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.297449,
+                        53.858236
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Helyi keresztény templom Castlebarban.",
+                  "category": "religious",
+                  "coords": [
+                        -9.300031,
+                        53.854414
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Royal Theatre",
+                  "text": "Un teatru mare și centru de evenimente în Castlebar.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.30441,
+                        53.853238
+                  ]
+            },
+            {
+                  "name": "Funster Playcentre",
+                  "text": "Un centru de joacă interior și de recreere pentru familii în Castlebar.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.282391,
+                        53.848403
+                  ]
+            },
+            {
+                  "name": "Black Fort",
+                  "text": "Un sit arheologic lângă Castlebar, cu rămășițe ale unor fortificații istorice.",
+                  "category": "historical",
+                  "coords": [
+                        -9.313373,
+                        53.852909
+                  ]
+            },
+            {
+                  "name": "Barry Castle",
+                  "text": "Ruinele unui vechi castel situat în Castlebar.",
+                  "category": "historical",
+                  "coords": [
+                        -9.31493,
+                        53.852931
+                  ]
+            },
+            {
+                  "name": "The Linen Hall",
+                  "text": "Un centru de artă important din Castlebar care găzduiește diverse evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.297449,
+                        53.858236
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Un lăcaș de cult creștin local în Castlebar.",
+                  "category": "religious",
+                  "coords": [
+                        -9.300031,
+                        53.854414
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Theatre",
+                  "text": "A large theatre and events venue in Castlebar.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.30441,
+                        53.853238
+                  ]
+            },
+            {
+                  "name": "Funster Playcentre",
+                  "text": "An indoor play centre and leisure facility for families in Castlebar.",
+                  "category": "recreational",
+                  "coords": [
+                        -9.282391,
+                        53.848403
+                  ]
+            },
+            {
+                  "name": "Black Fort",
+                  "text": "An archaeological site near Castlebar featuring remains of historical fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        -9.313373,
+                        53.852909
+                  ]
+            },
+            {
+                  "name": "Barry Castle",
+                  "text": "Ruins of an old castle located in Castlebar.",
+                  "category": "historical",
+                  "coords": [
+                        -9.31493,
+                        53.852931
+                  ]
+            },
+            {
+                  "name": "The Linen Hall",
+                  "text": "A prominent arts centre in Castlebar hosting various cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.297449,
+                        53.858236
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A local Christian place of worship in Castlebar.",
+                  "category": "religious",
+                  "coords": [
+                        -9.300031,
+                        53.854414
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Castlebar", hu: "Castlebar", ro: "Castlebar", en: "Castlebar" },
@@ -1857,7 +2856,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-coleraine-cities-v2.webp",
   },
   {
-    id: "ireland-cratloe-cities-v2",
+    id: "ireland-cratloe-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Shooting Range",
+                  "text": "Ein Themenpark und eine Freizeiteinrichtung in Cratloe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.724239,
+                        52.708593
+                  ]
+            },
+            {
+                  "name": "Woodcock Hill Airsoft & Adventure Centre",
+                  "text": "Ein Abenteuerzentrum in Cratloe, das Airsoft und Outdoor-Aktivitäten anbietet.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.725788,
+                        52.709546
+                  ]
+            },
+            {
+                  "name": "Church of St. John",
+                  "text": "Historische Kirche in Cratloe, bekannt für ihre einzigartige Holzkonstruktion.",
+                  "category": "religious",
+                  "coords": [
+                        -8.755522,
+                        52.698004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Shooting Range",
+                  "text": "Vidámpark és szabadidős létesítmény Cratloe-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.724239,
+                        52.708593
+                  ]
+            },
+            {
+                  "name": "Woodcock Hill Airsoft & Adventure Centre",
+                  "text": "Kalandközpont Cratloe-ban, amely airsoftot és szabadtéri tevékenységeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.725788,
+                        52.709546
+                  ]
+            },
+            {
+                  "name": "Church of St. John",
+                  "text": "Történelmi templom Cratloe-ban, amely egyedülálló faépítészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -8.755522,
+                        52.698004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Shooting Range",
+                  "text": "Un parc tematic și o facilitate de recreere în Cratloe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.724239,
+                        52.708593
+                  ]
+            },
+            {
+                  "name": "Woodcock Hill Airsoft & Adventure Centre",
+                  "text": "Un centru de aventură din Cratloe care oferă airsoft și activități în aer liber.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.725788,
+                        52.709546
+                  ]
+            },
+            {
+                  "name": "Church of St. John",
+                  "text": "Biserică istorică din Cratloe, cunoscută pentru arhitectura sa unică din lemn.",
+                  "category": "religious",
+                  "coords": [
+                        -8.755522,
+                        52.698004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Shooting Range",
+                  "text": "A theme park and recreational facility in Cratloe.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.724239,
+                        52.708593
+                  ]
+            },
+            {
+                  "name": "Woodcock Hill Airsoft & Adventure Centre",
+                  "text": "An adventure centre in Cratloe offering airsoft and outdoor activities.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.725788,
+                        52.709546
+                  ]
+            },
+            {
+                  "name": "Church of St. John",
+                  "text": "A historic church in Cratloe, known for its unique wooden architecture.",
+                  "category": "religious",
+                  "coords": [
+                        -8.755522,
+                        52.698004
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Cratloe", hu: "Cratloe", ro: "Cratloe", en: "Cratloe" },
@@ -2145,7 +3261,484 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-donegal-cities-v2.webp",
   },
   {
-    id: "ireland-downpatrick-cities-v2",
+    id: "ireland-downpatrick-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Down County Museum",
+                  "text": "Ein Museum in Downpatrick, das die Geschichte der Grafschaft Down dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -5.720256,
+                        54.328732
+                  ]
+            },
+            {
+                  "name": "St. Patricks Visitor Centre",
+                  "text": "Ein Museum in Downpatrick, das dem Leben und Erbe des Heiligen Patrick gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -5.719037,
+                        54.327551
+                  ]
+            },
+            {
+                  "name": "Inch Abbey",
+                  "text": "Ruinen einer Zisterzienserabtei aus dem 12. Jahrhundert in der Nähe von Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.730177,
+                        54.336235
+                  ]
+            },
+            {
+                  "name": "Old Ship",
+                  "text": "Eine archäologische Fundstätte in Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.700071,
+                        54.345147
+                  ]
+            },
+            {
+                  "name": "Carriage Gallery",
+                  "text": "Ein Museum in Downpatrick mit einer Sammlung historischer Kutschen.",
+                  "category": "museum",
+                  "coords": [
+                        -5.723347,
+                        54.325318
+                  ]
+            },
+            {
+                  "name": "Mound of Down",
+                  "text": "Eine antike archäologische Stätte und Erdanlage in Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.72168,
+                        54.331953
+                  ]
+            },
+            {
+                  "name": "Hollymount Forest nature reserve",
+                  "text": "Ein malerisches Naturschutzgebiet in der Nähe von Downpatrick.",
+                  "category": "natural",
+                  "coords": [
+                        -5.7516,
+                        54.319967
+                  ]
+            },
+            {
+                  "name": "Quoile Pondage Basin nature reserve",
+                  "text": "Ein Naturschutzgebiet in Downpatrick, bekannt für seine Feuchtgebiete und Vogelwelt.",
+                  "category": "natural",
+                  "coords": [
+                        -5.687795,
+                        54.357521
+                  ]
+            },
+            {
+                  "name": "Downpatrick ASAI",
+                  "text": "Eine archäologische Ausgrabungsstätte in Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.735345,
+                        54.332553
+                  ]
+            },
+            {
+                  "name": "Struell Wells",
+                  "text": "Alte heilige Quellen und Ruinen in der Nähe von Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.677293,
+                        54.324093
+                  ]
+            },
+            {
+                  "name": "Finnebrogue House",
+                  "text": "Ein historisches Herrenhaus in der Gegend von Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722719,
+                        54.35215
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Grave",
+                  "text": "Eine bedeutende Stätte in Downpatrick, die als Grabstätte des Heiligen Patrick gilt.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.721849,
+                        54.327213
+                  ]
+            },
+            {
+                  "name": "Quoile Castle",
+                  "text": "Eine Burgruine am Ufer des Flusses Quoile in Downpatrick.",
+                  "category": "tower",
+                  "coords": [
+                        -5.699458,
+                        54.349864
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Down County Museum",
+                  "text": "Múzeum Downpatrickben, amely Down megye történelmét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.720256,
+                        54.328732
+                  ]
+            },
+            {
+                  "name": "St. Patricks Visitor Centre",
+                  "text": "Szent Patrik életének és örökségének szentelt múzeum Downpatrickben.",
+                  "category": "museum",
+                  "coords": [
+                        -5.719037,
+                        54.327551
+                  ]
+            },
+            {
+                  "name": "Inch Abbey",
+                  "text": "Egy 12. századi ciszterci apátság romjai Downpatrick közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.730177,
+                        54.336235
+                  ]
+            },
+            {
+                  "name": "Old Ship",
+                  "text": "Régészeti lelőhely Downpatrickben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.700071,
+                        54.345147
+                  ]
+            },
+            {
+                  "name": "Carriage Gallery",
+                  "text": "Múzeum Downpatrickben, amely történelmi kocsik gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.723347,
+                        54.325318
+                  ]
+            },
+            {
+                  "name": "Mound of Down",
+                  "text": "Ősi régészeti lelőhely és földvár Downpatrickben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.72168,
+                        54.331953
+                  ]
+            },
+            {
+                  "name": "Hollymount Forest nature reserve",
+                  "text": "Festői természetvédelmi terület Downpatrick közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -5.7516,
+                        54.319967
+                  ]
+            },
+            {
+                  "name": "Quoile Pondage Basin nature reserve",
+                  "text": "Természetvédelmi terület Downpatrickben, amely vizes élőhelyeiről és madárvilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -5.687795,
+                        54.357521
+                  ]
+            },
+            {
+                  "name": "Downpatrick ASAI",
+                  "text": "Régészeti lelőhely Downpatrickben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.735345,
+                        54.332553
+                  ]
+            },
+            {
+                  "name": "Struell Wells",
+                  "text": "Ősi szent kutak és romok Downpatrick közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -5.677293,
+                        54.324093
+                  ]
+            },
+            {
+                  "name": "Finnebrogue House",
+                  "text": "Történelmi kúria Downpatrick környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722719,
+                        54.35215
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Grave",
+                  "text": "Jelentős helyszín Downpatrickben, amelyet Szent Patrik sírhelyének tartanak.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.721849,
+                        54.327213
+                  ]
+            },
+            {
+                  "name": "Quoile Castle",
+                  "text": "Várrom a Quoile-folyó partján Downpatrickben.",
+                  "category": "tower",
+                  "coords": [
+                        -5.699458,
+                        54.349864
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Down County Museum",
+                  "text": "Un muzeu din Downpatrick care prezintă istoria comitatului Down.",
+                  "category": "museum",
+                  "coords": [
+                        -5.720256,
+                        54.328732
+                  ]
+            },
+            {
+                  "name": "St. Patricks Visitor Centre",
+                  "text": "Un muzeu în Downpatrick dedicat vieții și moștenirii Sfântului Patrick.",
+                  "category": "museum",
+                  "coords": [
+                        -5.719037,
+                        54.327551
+                  ]
+            },
+            {
+                  "name": "Inch Abbey",
+                  "text": "Ruinele unei abații cisterciene din secolul al XII-lea de lângă Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.730177,
+                        54.336235
+                  ]
+            },
+            {
+                  "name": "Old Ship",
+                  "text": "Un sit arheologic în Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.700071,
+                        54.345147
+                  ]
+            },
+            {
+                  "name": "Carriage Gallery",
+                  "text": "Un muzeu din Downpatrick care expune o colecție de trăsuri istorice.",
+                  "category": "museum",
+                  "coords": [
+                        -5.723347,
+                        54.325318
+                  ]
+            },
+            {
+                  "name": "Mound of Down",
+                  "text": "Un sit arheologic antic și fortificație de pământ în Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.72168,
+                        54.331953
+                  ]
+            },
+            {
+                  "name": "Hollymount Forest nature reserve",
+                  "text": "O rezervație naturală pitorească situată lângă Downpatrick.",
+                  "category": "natural",
+                  "coords": [
+                        -5.7516,
+                        54.319967
+                  ]
+            },
+            {
+                  "name": "Quoile Pondage Basin nature reserve",
+                  "text": "O rezervație naturală din Downpatrick cunoscută pentru zonele umede și păsări.",
+                  "category": "natural",
+                  "coords": [
+                        -5.687795,
+                        54.357521
+                  ]
+            },
+            {
+                  "name": "Downpatrick ASAI",
+                  "text": "Un sit arheologic în Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.735345,
+                        54.332553
+                  ]
+            },
+            {
+                  "name": "Struell Wells",
+                  "text": "Vechi izvoare sfinte și ruine lângă Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.677293,
+                        54.324093
+                  ]
+            },
+            {
+                  "name": "Finnebrogue House",
+                  "text": "Un conac istoric în zona Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722719,
+                        54.35215
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Grave",
+                  "text": "Un sit semnificativ din Downpatrick, considerat a fi locul de înmormântare al Sfântului Patrick.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.721849,
+                        54.327213
+                  ]
+            },
+            {
+                  "name": "Quoile Castle",
+                  "text": "Ruinele unui castel pe malul râului Quoile în Downpatrick.",
+                  "category": "tower",
+                  "coords": [
+                        -5.699458,
+                        54.349864
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Down County Museum",
+                  "text": "A museum in Downpatrick showcasing the history of County Down.",
+                  "category": "museum",
+                  "coords": [
+                        -5.720256,
+                        54.328732
+                  ]
+            },
+            {
+                  "name": "St. Patricks Visitor Centre",
+                  "text": "A museum in Downpatrick dedicated to the life and legacy of Saint Patrick.",
+                  "category": "museum",
+                  "coords": [
+                        -5.719037,
+                        54.327551
+                  ]
+            },
+            {
+                  "name": "Inch Abbey",
+                  "text": "Ruins of a 12th-century Cistercian abbey near Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.730177,
+                        54.336235
+                  ]
+            },
+            {
+                  "name": "Old Ship",
+                  "text": "An archaeological site in Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.700071,
+                        54.345147
+                  ]
+            },
+            {
+                  "name": "Carriage Gallery",
+                  "text": "A museum in Downpatrick featuring a collection of historical carriages.",
+                  "category": "museum",
+                  "coords": [
+                        -5.723347,
+                        54.325318
+                  ]
+            },
+            {
+                  "name": "Mound of Down",
+                  "text": "An ancient archaeological site and earthwork in Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.72168,
+                        54.331953
+                  ]
+            },
+            {
+                  "name": "Hollymount Forest nature reserve",
+                  "text": "A scenic nature reserve located near Downpatrick.",
+                  "category": "natural",
+                  "coords": [
+                        -5.7516,
+                        54.319967
+                  ]
+            },
+            {
+                  "name": "Quoile Pondage Basin nature reserve",
+                  "text": "A nature reserve in Downpatrick known for its wetland habitat and birdlife.",
+                  "category": "natural",
+                  "coords": [
+                        -5.687795,
+                        54.357521
+                  ]
+            },
+            {
+                  "name": "Downpatrick ASAI",
+                  "text": "An archaeological site in Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.735345,
+                        54.332553
+                  ]
+            },
+            {
+                  "name": "Struell Wells",
+                  "text": "Ancient holy wells and ruins near Downpatrick.",
+                  "category": "historical",
+                  "coords": [
+                        -5.677293,
+                        54.324093
+                  ]
+            },
+            {
+                  "name": "Finnebrogue House",
+                  "text": "A historic manor house in the Downpatrick area.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722719,
+                        54.35215
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Grave",
+                  "text": "A significant site in Downpatrick believed to be the burial place of Saint Patrick.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.721849,
+                        54.327213
+                  ]
+            },
+            {
+                  "name": "Quoile Castle",
+                  "text": "A ruined tower house located on the banks of the River Quoile in Downpatrick.",
+                  "category": "tower",
+                  "coords": [
+                        -5.699458,
+                        54.349864
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Downpatrick", hu: "Downpatrick", ro: "Downpatrick", en: "Downpatrick" },
@@ -2190,7 +3783,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-downpatrick-cities-v2.webp",
   },
   {
-    id: "ireland-edenderry-cities-v2",
+    id: "ireland-edenderry-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Killane Old Church Site",
+                  "text": "Die archäologischen Überreste einer alten Kirchenstätte in der Nähe von Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.068733,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Blundell Castle",
+                  "text": "Die Ruinen einer Burg aus dem 15. Jahrhundert, die den Ort Edenderry überblicken.",
+                  "category": "historical",
+                  "coords": [
+                        -7.051164,
+                        53.339441
+                  ]
+            },
+            {
+                  "name": "Edenderry Town Hall",
+                  "text": "Das Verwaltungsgebäude und historische Rathaus von Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.049037,
+                        53.343346
+                  ]
+            },
+            {
+                  "name": "St Marys Church",
+                  "text": "Eine örtliche Kirche, die der Gemeinde in Edenderry dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.061289,
+                        53.337933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Killane Old Church Site",
+                  "text": "Egy ősi templomhely régészeti maradványai Edenderry közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -7.068733,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Blundell Castle",
+                  "text": "Egy 15. századi vár romjai, amelyek Edenderry városára néznek.",
+                  "category": "historical",
+                  "coords": [
+                        -7.051164,
+                        53.339441
+                  ]
+            },
+            {
+                  "name": "Edenderry Town Hall",
+                  "text": "Edenderry közigazgatási épülete és történelmi városházája.",
+                  "category": "historical",
+                  "coords": [
+                        -7.049037,
+                        53.343346
+                  ]
+            },
+            {
+                  "name": "St Marys Church",
+                  "text": "Edenderry egyházközségét kiszolgáló helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        -7.061289,
+                        53.337933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Killane Old Church Site",
+                  "text": "Vestigiile arheologice ale unui vechi sit bisericesc de lângă Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.068733,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Blundell Castle",
+                  "text": "Ruinele unui castel din secolul al XV-lea care domină orașul Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.051164,
+                        53.339441
+                  ]
+            },
+            {
+                  "name": "Edenderry Town Hall",
+                  "text": "Clădirea administrativă și primăria istorică din Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.049037,
+                        53.343346
+                  ]
+            },
+            {
+                  "name": "St Marys Church",
+                  "text": "O biserică locală care deservește comunitatea parohială din Edenderry.",
+                  "category": "religious",
+                  "coords": [
+                        -7.061289,
+                        53.337933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Killane Old Church Site",
+                  "text": "The archaeological remains of an ancient church site near Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.068733,
+                        53.333094
+                  ]
+            },
+            {
+                  "name": "Blundell Castle",
+                  "text": "The ruins of a 15th-century castle overlooking the town of Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.051164,
+                        53.339441
+                  ]
+            },
+            {
+                  "name": "Edenderry Town Hall",
+                  "text": "The administrative building and historic town hall of Edenderry.",
+                  "category": "historical",
+                  "coords": [
+                        -7.049037,
+                        53.343346
+                  ]
+            },
+            {
+                  "name": "St Marys Church",
+                  "text": "A local church serving the parish community in Edenderry.",
+                  "category": "religious",
+                  "coords": [
+                        -7.061289,
+                        53.337933
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Edenderry", hu: "Edenderry", ro: "Edenderry", en: "Edenderry" },
@@ -2280,7 +4026,412 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-enos-cities-v2.webp",
   },
   {
-    id: "ireland-fermoy-cities-v2",
+    id: "ireland-fermoy-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fermoy Leasure Center",
+                  "text": "Ein Wasserpark und eine Freizeiteinrichtung in Fermoy.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277824,
+                        52.140628
+                  ]
+            },
+            {
+                  "name": "Carntierna",
+                  "text": "Eine archäologische Stätte und ein Ringfort in der Nähe von Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.282938,
+                        52.114972
+                  ]
+            },
+            {
+                  "name": "Castlehyde House",
+                  "text": "Ein großes Herrenhaus in Fermoy, das historisch mit der Familie Hyde verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -8.315558,
+                        52.1378
+                  ]
+            },
+            {
+                  "name": "Coolmuckee Woods",
+                  "text": "Ein Aussichtspunkt mit malerischem Blick in der Nähe von Fermoy.",
+                  "category": "natural",
+                  "coords": [
+                        -8.319017,
+                        52.123942
+                  ]
+            },
+            {
+                  "name": "Old Railway Viaduct",
+                  "text": "Ein Aussichtspunkt an einer historischen Eisenbahnstruktur in Fermoy.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256111,
+                        52.144328
+                  ]
+            },
+            {
+                  "name": "Fermoy House",
+                  "text": "Die Ruinen eines alten Hauses in Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279485,
+                        52.140472
+                  ]
+            },
+            {
+                  "name": "Ruined Tower House",
+                  "text": "Die Ruinen eines historischen Turmhauses in Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.25511,
+                        52.144132
+                  ]
+            },
+            {
+                  "name": "Christchurch Church of Ireland",
+                  "text": "Ein lokales Gotteshaus der Church of Ireland in Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.276408,
+                        52.142237
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Ein Gotteshaus für die presbyterianische Gemeinde in Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.274145,
+                        52.142139
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Eine dem Heiligen Patrick gewidmete Kirche in Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.279815,
+                        52.136502
+                  ]
+            },
+            {
+                  "name": "Kent Bridge",
+                  "text": "Eine Brücke über den Fluss Blackwater in Fermoy.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.275465,
+                        52.139026
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fermoy Leasure Center",
+                  "text": "Vízipark és szabadidős létesítmény Fermoyban.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277824,
+                        52.140628
+                  ]
+            },
+            {
+                  "name": "Carntierna",
+                  "text": "Régészeti lelőhely és dombvár Fermoy közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.282938,
+                        52.114972
+                  ]
+            },
+            {
+                  "name": "Castlehyde House",
+                  "text": "Nagy kúria Fermoyban, amely történelmileg a Hyde családdal áll kapcsolatban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.315558,
+                        52.1378
+                  ]
+            },
+            {
+                  "name": "Coolmuckee Woods",
+                  "text": "Kilátóhely festői panorámával Fermoy közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -8.319017,
+                        52.123942
+                  ]
+            },
+            {
+                  "name": "Old Railway Viaduct",
+                  "text": "Kilátópont egy történelmi vasúti építménynél Fermoyban.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256111,
+                        52.144328
+                  ]
+            },
+            {
+                  "name": "Fermoy House",
+                  "text": "Egy régi ház romjai Fermoyban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279485,
+                        52.140472
+                  ]
+            },
+            {
+                  "name": "Ruined Tower House",
+                  "text": "Egy történelmi toronyház romjai Fermoyban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.25511,
+                        52.144132
+                  ]
+            },
+            {
+                  "name": "Christchurch Church of Ireland",
+                  "text": "Az ír egyház helyi temploma Fermoyban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.276408,
+                        52.142237
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "A presbiteriánus közösség temploma Fermoyban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.274145,
+                        52.142139
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Szent Patrik tiszteletére szentelt templom Fermoyban.",
+                  "category": "religious",
+                  "coords": [
+                        -8.279815,
+                        52.136502
+                  ]
+            },
+            {
+                  "name": "Kent Bridge",
+                  "text": "Híd a Blackwater-folyón Fermoyban.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.275465,
+                        52.139026
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fermoy Leasure Center",
+                  "text": "Un parc acvatic și o facilitate de recreere în Fermoy.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277824,
+                        52.140628
+                  ]
+            },
+            {
+                  "name": "Carntierna",
+                  "text": "Un sit arheologic și o fortificație de deal lângă Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.282938,
+                        52.114972
+                  ]
+            },
+            {
+                  "name": "Castlehyde House",
+                  "text": "O casă boierească grandioasă din Fermoy, asociată istoric cu familia Hyde.",
+                  "category": "historical",
+                  "coords": [
+                        -8.315558,
+                        52.1378
+                  ]
+            },
+            {
+                  "name": "Coolmuckee Woods",
+                  "text": "Un punct de belvedere care oferă vederi pitorești lângă Fermoy.",
+                  "category": "natural",
+                  "coords": [
+                        -8.319017,
+                        52.123942
+                  ]
+            },
+            {
+                  "name": "Old Railway Viaduct",
+                  "text": "Un punct de belvedere situat la o structură feroviară istorică în Fermoy.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256111,
+                        52.144328
+                  ]
+            },
+            {
+                  "name": "Fermoy House",
+                  "text": "Ruinele unei vechi case în Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279485,
+                        52.140472
+                  ]
+            },
+            {
+                  "name": "Ruined Tower House",
+                  "text": "Ruinele unei case turn istorice în Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.25511,
+                        52.144132
+                  ]
+            },
+            {
+                  "name": "Christchurch Church of Ireland",
+                  "text": "Un lăcaș de cult local al Bisericii Irlandei în Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.276408,
+                        52.142237
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "Un lăcaș de cult pentru comunitatea presbiteriană în Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.274145,
+                        52.142139
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "O biserică dedicată Sfântului Patrick în Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.279815,
+                        52.136502
+                  ]
+            },
+            {
+                  "name": "Kent Bridge",
+                  "text": "Un pod peste râul Blackwater în Fermoy.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.275465,
+                        52.139026
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fermoy Leisure Centre",
+                  "text": "A water park and recreational facility in Fermoy.",
+                  "category": "recreational",
+                  "coords": [
+                        -8.277824,
+                        52.140628
+                  ]
+            },
+            {
+                  "name": "Carntierna",
+                  "text": "An archaeological site and hillfort near Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.282938,
+                        52.114972
+                  ]
+            },
+            {
+                  "name": "Castlehyde House",
+                  "text": "A grand manor house in Fermoy, historically associated with the Hyde family.",
+                  "category": "historical",
+                  "coords": [
+                        -8.315558,
+                        52.1378
+                  ]
+            },
+            {
+                  "name": "Coolmuckee",
+                  "text": "A viewpoint offering scenic vistas near Fermoy.",
+                  "category": "natural",
+                  "coords": [
+                        -8.319017,
+                        52.123942
+                  ]
+            },
+            {
+                  "name": "Old Railway Viaduct",
+                  "text": "A viewpoint located at a historical railway structure in Fermoy.",
+                  "category": "natural",
+                  "coords": [
+                        -8.256111,
+                        52.144328
+                  ]
+            },
+            {
+                  "name": "Fermoy House",
+                  "text": "The ruins of an old house in Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.279485,
+                        52.140472
+                  ]
+            },
+            {
+                  "name": "Ruined Tower House",
+                  "text": "The ruins of a historical tower house in Fermoy.",
+                  "category": "historical",
+                  "coords": [
+                        -8.25511,
+                        52.144132
+                  ]
+            },
+            {
+                  "name": "Christchurch Church of Ireland",
+                  "text": "A local Church of Ireland place of worship in Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.276408,
+                        52.142237
+                  ]
+            },
+            {
+                  "name": "Presbyterian Church",
+                  "text": "A place of worship for the Presbyterian community in Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.274145,
+                        52.142139
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "A local church dedicated to Saint Patrick in Fermoy.",
+                  "category": "religious",
+                  "coords": [
+                        -8.279815,
+                        52.136502
+                  ]
+            },
+            {
+                  "name": "Kent Bridge",
+                  "text": "A bridge crossing the River Blackwater in Fermoy.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.275465,
+                        52.139026
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Fermoy", hu: "Fermoy", ro: "Fermoy", en: "Fermoy" },
@@ -2325,7 +4476,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-fermoy-cities-v2.webp",
   },
   {
-    id: "ireland-gort-cities-v2",
+    id: "ireland-gort-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gort Castle",
+                  "text": "Der Standort einer ehemaligen Befestigungsanlage in der Stadt Gort.",
+                  "category": "historical",
+                  "coords": [
+                        -8.817103,
+                        53.067076
+                  ]
+            },
+            {
+                  "name": "Beagh Church",
+                  "text": "Die Ruinen einer alten Kirche in der Umgebung von Gort.",
+                  "category": "historical",
+                  "coords": [
+                        -8.795014,
+                        53.052977
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gort Castle",
+                  "text": "Egy egykori erődítmény helyszíne Gort városában.",
+                  "category": "historical",
+                  "coords": [
+                        -8.817103,
+                        53.067076
+                  ]
+            },
+            {
+                  "name": "Beagh Church",
+                  "text": "Egy régi templom romjai Gort környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.795014,
+                        53.052977
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gort Castle",
+                  "text": "Situl unei foste fortificații situate în orașul Gort.",
+                  "category": "historical",
+                  "coords": [
+                        -8.817103,
+                        53.067076
+                  ]
+            },
+            {
+                  "name": "Beagh Church",
+                  "text": "Ruinele unei vechi biserici situate în vecinătatea orașului Gort.",
+                  "category": "historical",
+                  "coords": [
+                        -8.795014,
+                        53.052977
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gort Castle",
+                  "text": "The site of a former fortification located in the town of Gort.",
+                  "category": "historical",
+                  "coords": [
+                        -8.817103,
+                        53.067076
+                  ]
+            },
+            {
+                  "name": "Beagh Church",
+                  "text": "The ruins of an old church situated in the vicinity of Gort.",
+                  "category": "historical",
+                  "coords": [
+                        -8.795014,
+                        53.052977
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Gort", hu: "Gort", ro: "Gort", en: "Gort" },
@@ -4170,7 +6402,376 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-howth-cities-v2.webp",
   },
   {
-    id: "ireland-kenmare-cities-v2",
+    id: "ireland-kenmare-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunkerron Castle",
+                  "text": "Der Sitz der O'Sullivan Mór Dynastie aus dem 13. Jahrhundert in der Nähe von Kenmare.",
+                  "category": "castle",
+                  "coords": [
+                        -9.621001,
+                        51.875679
+                  ]
+            },
+            {
+                  "name": "Kenmare Stone Circle",
+                  "text": "Einer der größten Steinkreise im Südwesten Irlands, in der Nähe von Kenmare gelegen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.588207,
+                        51.878437
+                  ]
+            },
+            {
+                  "name": "Mucksna Nature Reserve",
+                  "text": "Ein Naturschutzgebiet bei Kenmare, bekannt für seine Wälder und Artenvielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -9.589883,
+                        51.868491
+                  ]
+            },
+            {
+                  "name": "Strickeen",
+                  "text": "Ein Berggipfel mit herrlichem Blick auf den Gap of Dunloe und die Gegend um Kenmare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.585443,
+                        51.89976
+                  ]
+            },
+            {
+                  "name": "The Three Musicians",
+                  "text": "Eine Skulptur in Kenmare, die traditionelle irische Musiker darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582845,
+                        51.871654
+                  ]
+            },
+            {
+                  "name": "Hutchin's Folly",
+                  "text": "Die Ruinen eines unvollendeten Herrenhauses aus dem 19. Jahrhundert bei Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582179,
+                        51.881303
+                  ]
+            },
+            {
+                  "name": "bench",
+                  "text": "Ein einfacher Ruheplatz in Kenmare, der einen ruhigen Blick auf die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -9.617511,
+                        51.868171
+                  ]
+            },
+            {
+                  "name": "Killowen Church",
+                  "text": "Die Überreste einer historischen Kirche im Viertel Killowen in Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.568508,
+                        51.884071
+                  ]
+            },
+            {
+                  "name": "Holy Cross Church",
+                  "text": "Eine bedeutende katholische Kirche in Kenmare, bekannt für ihre Innenausstattung.",
+                  "category": "religious",
+                  "coords": [
+                        -9.583308,
+                        51.881749
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Eine christliche Kultstätte, die der Gemeinde in Kenmare dient.",
+                  "category": "religious",
+                  "coords": [
+                        -9.582981,
+                        51.877048
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunkerron Castle",
+                  "text": "Az O'Sullivan Mór dinasztia 13. századi székhelye Kenmare közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.621001,
+                        51.875679
+                  ]
+            },
+            {
+                  "name": "Kenmare Stone Circle",
+                  "text": "Délnyugat-Írország egyik legnagyobb kőköre, amely Kenmare közelében található.",
+                  "category": "historical",
+                  "coords": [
+                        -9.588207,
+                        51.878437
+                  ]
+            },
+            {
+                  "name": "Mucksna Nature Reserve",
+                  "text": "Kenmare közeli természetvédelmi terület, amely erdőiről és élővilágáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -9.589883,
+                        51.868491
+                  ]
+            },
+            {
+                  "name": "Strickeen",
+                  "text": "Hegycsúcs, ahonnan festői kilátás nyílik a Gap of Dunloe-ra és Kenmare környékére.",
+                  "category": "natural",
+                  "coords": [
+                        -9.585443,
+                        51.89976
+                  ]
+            },
+            {
+                  "name": "The Three Musicians",
+                  "text": "Tradicionális ír zenészeket ábrázoló szobor Kenmare-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582845,
+                        51.871654
+                  ]
+            },
+            {
+                  "name": "Hutchin's Folly",
+                  "text": "Egy befejezetlen 19. századi udvarház romjai Kenmare közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582179,
+                        51.881303
+                  ]
+            },
+            {
+                  "name": "bench",
+                  "text": "Egyszerű pihenőhely Kenmare-ben, ahonnan nyugodt kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -9.617511,
+                        51.868171
+                  ]
+            },
+            {
+                  "name": "Killowen Church",
+                  "text": "Egy történelmi templom maradványai Kenmare Killowen negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        -9.568508,
+                        51.884071
+                  ]
+            },
+            {
+                  "name": "Holy Cross Church",
+                  "text": "Kenmare jelentős katolikus temploma, amely belső díszítéséről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -9.583308,
+                        51.881749
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Kenmare közösségét kiszolgáló keresztény templom.",
+                  "category": "religious",
+                  "coords": [
+                        -9.582981,
+                        51.877048
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunkerron Castle",
+                  "text": "Reședința din secolul al XIII-lea a dinastiei O'Sullivan Mór, lângă Kenmare.",
+                  "category": "castle",
+                  "coords": [
+                        -9.621001,
+                        51.875679
+                  ]
+            },
+            {
+                  "name": "Kenmare Stone Circle",
+                  "text": "Unul dintre cele mai mari cercuri de piatră din sud-vestul Irlandei, situat lângă Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.588207,
+                        51.878437
+                  ]
+            },
+            {
+                  "name": "Mucksna Nature Reserve",
+                  "text": "O arie naturală protejată lângă Kenmare, cunoscută pentru pădurile și biodiversitatea sa.",
+                  "category": "natural",
+                  "coords": [
+                        -9.589883,
+                        51.868491
+                  ]
+            },
+            {
+                  "name": "Strickeen",
+                  "text": "Un vârf montan care oferă vederi pitorești asupra Gap of Dunloe și zonei Kenmare.",
+                  "category": "natural",
+                  "coords": [
+                        -9.585443,
+                        51.89976
+                  ]
+            },
+            {
+                  "name": "The Three Musicians",
+                  "text": "O sculptură în Kenmare care înfățișează muzicieni tradiționali irlandezi.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582845,
+                        51.871654
+                  ]
+            },
+            {
+                  "name": "Hutchin's Folly",
+                  "text": "Ruinele unui conac neterminat din secolul al XIX-lea de lângă Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582179,
+                        51.881303
+                  ]
+            },
+            {
+                  "name": "bench",
+                  "text": "Un simplu loc de odihnă în Kenmare, care oferă o vedere liniștită asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -9.617511,
+                        51.868171
+                  ]
+            },
+            {
+                  "name": "Killowen Church",
+                  "text": "Rămășițele unei biserici istorice situate în zona Killowen din Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.568508,
+                        51.884071
+                  ]
+            },
+            {
+                  "name": "Holy Cross Church",
+                  "text": "O biserică catolică importantă din Kenmare, cunoscută pentru decorațiunile sale interioare.",
+                  "category": "religious",
+                  "coords": [
+                        -9.583308,
+                        51.881749
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "Un lăcaș de cult creștin care deservește comunitatea din Kenmare.",
+                  "category": "religious",
+                  "coords": [
+                        -9.582981,
+                        51.877048
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunkerron Castle",
+                  "text": "The 13th-century seat of the O'Sullivan Mór dynasty near Kenmare.",
+                  "category": "castle",
+                  "coords": [
+                        -9.621001,
+                        51.875679
+                  ]
+            },
+            {
+                  "name": "Kenmare Stone Circle",
+                  "text": "One of the largest stone circles in southwest Ireland, located near Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.588207,
+                        51.878437
+                  ]
+            },
+            {
+                  "name": "Mucksna Nature Reserve",
+                  "text": "A protected natural area near Kenmare known for its woods and biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -9.589883,
+                        51.868491
+                  ]
+            },
+            {
+                  "name": "Strickeen",
+                  "text": "A mountain peak offering scenic views of the Gap of Dunloe and the Kenmare area.",
+                  "category": "natural",
+                  "coords": [
+                        -9.585443,
+                        51.89976
+                  ]
+            },
+            {
+                  "name": "The Three Musicians",
+                  "text": "A sculpture in Kenmare depicting traditional Irish musicians.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582845,
+                        51.871654
+                  ]
+            },
+            {
+                  "name": "Hutchin's Folly",
+                  "text": "The ruins of an unfinished 19th-century mansion near Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.582179,
+                        51.881303
+                  ]
+            },
+            {
+                  "name": "bench",
+                  "text": "A simple resting spot in Kenmare offering a quiet view of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -9.617511,
+                        51.868171
+                  ]
+            },
+            {
+                  "name": "Killowen Church",
+                  "text": "The remains of a historic church located in the Killowen area of Kenmare.",
+                  "category": "historical",
+                  "coords": [
+                        -9.568508,
+                        51.884071
+                  ]
+            },
+            {
+                  "name": "Holy Cross Church",
+                  "text": "A significant Catholic church in Kenmare known for its internal decoration.",
+                  "category": "religious",
+                  "coords": [
+                        -9.583308,
+                        51.881749
+                  ]
+            },
+            {
+                  "name": "Saint Patrick's Church",
+                  "text": "A place of Christian worship serving the community in Kenmare.",
+                  "category": "religious",
+                  "coords": [
+                        -9.582981,
+                        51.877048
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Kenmare", hu: "Kenmare", ro: "Kenmare", en: "Kenmare" },
@@ -4305,7 +6906,340 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-larne-cities-v2.webp",
   },
   {
-    id: "ireland-limavady-cities-v2",
+    id: "ireland-limavady-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Limavady Museum",
+                  "text": "Ein Museum, das die lokale Geschichte und das Erbe von Limavady erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        -6.952483,
+                        55.051973
+                  ]
+            },
+            {
+                  "name": "Green Lane Museum",
+                  "text": "Ein Museum in Limavady, das sich auf das ländliche Leben und die Industrie des 19. Jahrhunderts konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        -6.939683,
+                        55.023839
+                  ]
+            },
+            {
+                  "name": "Drenagh",
+                  "text": "Ein herrschaftliches georgianisches Haus und Anwesen bei Limavady, das als Veranstaltungsort genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        -6.923269,
+                        55.054826
+                  ]
+            },
+            {
+                  "name": "Tamlaght Old Church",
+                  "text": "Die archäologische Stätte einer alten Kirche in der Region Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.980557,
+                        55.040153
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Fort",
+                  "text": "Die historische Stätte eines Forts des O'Cahan-Clans in Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.941991,
+                        55.026268
+                  ]
+            },
+            {
+                  "name": "Mullagh Hill Site of the Convention of Drumceatt",
+                  "text": "Eine Stätte in Limavady, bekannt für eine wichtige Versammlung von Königen im Jahr 575 n. Chr.",
+                  "category": "historical",
+                  "coords": [
+                        -6.958011,
+                        55.037987
+                  ]
+            },
+            {
+                  "name": "Rough Fort",
+                  "text": "Ein gut erhaltenes Erdwerk und ein altes Ringfort in der Nähe von Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970506,
+                        55.050279
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Rock",
+                  "text": "Eine malerische Felsformation im Roe Valley Park mit Blick auf den Fluss.",
+                  "category": "natural",
+                  "coords": [
+                        -6.945734,
+                        55.027096
+                  ]
+            },
+            {
+                  "name": "Beetling Mill",
+                  "text": "Die Ruinen einer traditionellen Leinenveredelungsmühle bei Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.938207,
+                        55.024483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Limavady Museum",
+                  "text": "Limavady helytörténetét és örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -6.952483,
+                        55.051973
+                  ]
+            },
+            {
+                  "name": "Green Lane Museum",
+                  "text": "A 19. századi vidéki életet és helyi ipart bemutató múzeum Limavadyban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.939683,
+                        55.023839
+                  ]
+            },
+            {
+                  "name": "Drenagh",
+                  "text": "Előkelő georgiánus stílusú ház és birtok Limavady közelében, amely rendezvényhelyszínként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        -6.923269,
+                        55.054826
+                  ]
+            },
+            {
+                  "name": "Tamlaght Old Church",
+                  "text": "Egy ősi templom régészeti lelőhelye Limavady térségében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.980557,
+                        55.040153
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Fort",
+                  "text": "Az O'Cahan klán egykori erődjének történelmi helyszíne Limavadyban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.941991,
+                        55.026268
+                  ]
+            },
+            {
+                  "name": "Mullagh Hill Site of the Convention of Drumceatt",
+                  "text": "Limavady-i helyszín, amely egy fontos, 575-ben tartott királyi gyűlésről híres.",
+                  "category": "historical",
+                  "coords": [
+                        -6.958011,
+                        55.037987
+                  ]
+            },
+            {
+                  "name": "Rough Fort",
+                  "text": "Jó állapotban megmaradt földvár és ősi gyűrűsvár Limavady közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970506,
+                        55.050279
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Rock",
+                  "text": "Festői sziklaalakzat a Roe Valley Parkban, kilátással a folyóra.",
+                  "category": "natural",
+                  "coords": [
+                        -6.945734,
+                        55.027096
+                  ]
+            },
+            {
+                  "name": "Beetling Mill",
+                  "text": "Egy hagyományos vászonkikészítő malom romjai Limavady közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.938207,
+                        55.024483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Limavady Museum",
+                  "text": "Un muzeu care explorează istoria locală și patrimoniul din Limavady.",
+                  "category": "museum",
+                  "coords": [
+                        -6.952483,
+                        55.051973
+                  ]
+            },
+            {
+                  "name": "Green Lane Museum",
+                  "text": "Un muzeu din Limavady axat pe viața rurală și industria locală din secolul al XIX-lea.",
+                  "category": "museum",
+                  "coords": [
+                        -6.939683,
+                        55.023839
+                  ]
+            },
+            {
+                  "name": "Drenagh",
+                  "text": "O casă georgiană impunătoare și o proprietate lângă Limavady, folosită ca loc de desfășurare a evenimentelor.",
+                  "category": "castle",
+                  "coords": [
+                        -6.923269,
+                        55.054826
+                  ]
+            },
+            {
+                  "name": "Tamlaght Old Church",
+                  "text": "Situl arheologic al unei vechi biserici din regiunea Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.980557,
+                        55.040153
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Fort",
+                  "text": "Situl istoric al unui fort care a aparținut clanului O'Cahan în Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.941991,
+                        55.026268
+                  ]
+            },
+            {
+                  "name": "Mullagh Hill Site of the Convention of Drumceatt",
+                  "text": "Un sit din Limavady faimos pentru găzduirea unei importante adunări de regi în anul 575 d.Hr.",
+                  "category": "historical",
+                  "coords": [
+                        -6.958011,
+                        55.037987
+                  ]
+            },
+            {
+                  "name": "Rough Fort",
+                  "text": "O lucrare de pământ bine conservată și un vechi ringfort situat lângă Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970506,
+                        55.050279
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Rock",
+                  "text": "O formațiune stâncoasă pitorească în Roe Valley Park, care oferă vedere la râu.",
+                  "category": "natural",
+                  "coords": [
+                        -6.945734,
+                        55.027096
+                  ]
+            },
+            {
+                  "name": "Beetling Mill",
+                  "text": "Ruinele unei mori tradiționale de finisare a inului de lângă Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.938207,
+                        55.024483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Limavady Museum",
+                  "text": "A museum exploring the local history and heritage of Limavady.",
+                  "category": "museum",
+                  "coords": [
+                        -6.952483,
+                        55.051973
+                  ]
+            },
+            {
+                  "name": "Green Lane Museum",
+                  "text": "A museum in Limavady focused on 19th-century rural life and local industry.",
+                  "category": "museum",
+                  "coords": [
+                        -6.939683,
+                        55.023839
+                  ]
+            },
+            {
+                  "name": "Drenagh",
+                  "text": "A stately Georgian house and estate near Limavady, used as an event venue.",
+                  "category": "castle",
+                  "coords": [
+                        -6.923269,
+                        55.054826
+                  ]
+            },
+            {
+                  "name": "Tamlaght Old Church",
+                  "text": "The archaeological site of an ancient church in the Limavady region.",
+                  "category": "historical",
+                  "coords": [
+                        -6.980557,
+                        55.040153
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Fort",
+                  "text": "The historical site of a fort belonging to the O'Cahan clan in Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.941991,
+                        55.026268
+                  ]
+            },
+            {
+                  "name": "Mullagh Hill Site of the Convention of Drumceatt",
+                  "text": "A site in Limavady famous for hosting an important assembly of kings in 575 AD.",
+                  "category": "historical",
+                  "coords": [
+                        -6.958011,
+                        55.037987
+                  ]
+            },
+            {
+                  "name": "Rough Fort",
+                  "text": "A well-preserved earthwork and ancient ringfort located near Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.970506,
+                        55.050279
+                  ]
+            },
+            {
+                  "name": "O'Cahan's Rock",
+                  "text": "A scenic rock formation in Roe Valley Park offering views of the river.",
+                  "category": "natural",
+                  "coords": [
+                        -6.945734,
+                        55.027096
+                  ]
+            },
+            {
+                  "name": "Beetling Mill",
+                  "text": "The ruins of a traditional linen finishing mill near Limavady.",
+                  "category": "historical",
+                  "coords": [
+                        -6.938207,
+                        55.024483
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Limavady", hu: "Limavady", ro: "Limavady", en: "Limavady" },
@@ -4350,7 +7284,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-limavady-cities-v2.webp",
   },
   {
-    id: "ireland-listowel-cities-v2",
+    id: "ireland-listowel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lartigue Monorail",
+                  "text": "Ein einzigartiges Museum in Listowel, das der Geschichte der Einschienenbahn gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -9.490496,
+                        52.449662
+                  ]
+            },
+            {
+                  "name": "Listowel Castle",
+                  "text": "Eine gut erhaltene Burg aus dem 15. Jahrhundert im Herzen von Listowel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.486974,
+                        52.444461
+                  ]
+            },
+            {
+                  "name": "Lisheennagaurlagh",
+                  "text": "Eine antike archäologische Stätte mit historischen Spuren in Listowel.",
+                  "category": "historical",
+                  "coords": [
+                        -9.439726,
+                        52.444876
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lartigue Monorail",
+                  "text": "Listowel különleges múzeuma, amely a függővasút történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.490496,
+                        52.449662
+                  ]
+            },
+            {
+                  "name": "Listowel Castle",
+                  "text": "Listowel szívében található, jól megőrzött 15. századi vár.",
+                  "category": "castle",
+                  "coords": [
+                        -9.486974,
+                        52.444461
+                  ]
+            },
+            {
+                  "name": "Lisheennagaurlagh",
+                  "text": "Ősi régészeti lelőhely történelmi emlékekkel Listowelben.",
+                  "category": "historical",
+                  "coords": [
+                        -9.439726,
+                        52.444876
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lartigue Monorail",
+                  "text": "Un muzeu unic în Listowel, dedicat istoriei monoraiului.",
+                  "category": "museum",
+                  "coords": [
+                        -9.490496,
+                        52.449662
+                  ]
+            },
+            {
+                  "name": "Listowel Castle",
+                  "text": "Un castel bine conservat din secolul al XV-lea în inima orașului Listowel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.486974,
+                        52.444461
+                  ]
+            },
+            {
+                  "name": "Lisheennagaurlagh",
+                  "text": "Un sit arheologic antic cu urme istorice în Listowel.",
+                  "category": "historical",
+                  "coords": [
+                        -9.439726,
+                        52.444876
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lartigue Monorail",
+                  "text": "A unique museum in Listowel dedicated to the history of the monorail.",
+                  "category": "museum",
+                  "coords": [
+                        -9.490496,
+                        52.449662
+                  ]
+            },
+            {
+                  "name": "Listowel Castle",
+                  "text": "A well-preserved 15th-century castle in the heart of Listowel.",
+                  "category": "castle",
+                  "coords": [
+                        -9.486974,
+                        52.444461
+                  ]
+            },
+            {
+                  "name": "Lisheennagaurlagh",
+                  "text": "An ancient archaeological site with historical traces in Listowel.",
+                  "category": "historical",
+                  "coords": [
+                        -9.439726,
+                        52.444876
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Listowel", hu: "Listowel", ro: "Listowel", en: "Listowel" },
@@ -4440,7 +7491,376 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-longford-cities-v2.webp",
   },
   {
-    id: "ireland-loughrea-cities-v2",
+    id: "ireland-loughrea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Seven Monuments",
+                  "text": "Eine Gruppe alter ritueller Denkmäler in der Gegend von Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.531162,
+                        53.188408
+                  ]
+            },
+            {
+                  "name": "Tonaroasty Deserted Village",
+                  "text": "Die Überreste einer mittelalterlichen Siedlung, die einst ein Dorf bei Loughrea war.",
+                  "category": "historical",
+                  "coords": [
+                        -8.54634,
+                        53.193418
+                  ]
+            },
+            {
+                  "name": "Lisduff",
+                  "text": "Eine antike archäologische Stätte mit historischen Erdwällen bei Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.571322,
+                        53.176705
+                  ]
+            },
+            {
+                  "name": "Knockaunebin Fort",
+                  "text": "Der Standort eines alten Ringforts in der Umgebung von Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.585491,
+                        53.180394
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Abbey",
+                  "text": "Die Ruinen eines mittelalterlichen Ordenshauses in Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.570014,
+                        53.199887
+                  ]
+            },
+            {
+                  "name": "Field System, Earlspark",
+                  "text": "Spuren alter landwirtschaftlicher Felder und Strukturen in Earlspark bei Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.542008,
+                        53.172504
+                  ]
+            },
+            {
+                  "name": "Earlspark Deerpark",
+                  "text": "Die Ruinen eines alten Mauergeheges für die Hirschhaltung bei Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.545549,
+                        53.181309
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "Ein traditioneller heiliger Brunnen, der der heiligen Brigida gewidmet ist, in der Gegend von Loughrea.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.560541,
+                        53.199854
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Cathedral",
+                  "text": "Eine katholische Kathedrale in Loughrea, bekannt für ihre prachtvolle Ausstattung im Arts-and-Crafts-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        -8.566764,
+                        53.196885
+                  ]
+            },
+            {
+                  "name": "Parish Church of St. Dymphna and St. Brendan Killeenadeema",
+                  "text": "Eine örtliche Pfarrkirche für die Gemeinde Killeenadeema bei Loughrea.",
+                  "category": "religious",
+                  "coords": [
+                        -8.574252,
+                        53.164583
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Seven Monuments",
+                  "text": "Régi rituális műemlékek csoportja Loughrea környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.531162,
+                        53.188408
+                  ]
+            },
+            {
+                  "name": "Tonaroasty Deserted Village",
+                  "text": "Egy középkori település maradványai, amely egykor falu volt Loughrea közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.54634,
+                        53.193418
+                  ]
+            },
+            {
+                  "name": "Lisduff",
+                  "text": "Ősi régészeti lelőhely történelmi földvárakkal Loughrea közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.571322,
+                        53.176705
+                  ]
+            },
+            {
+                  "name": "Knockaunebin Fort",
+                  "text": "Egy ősi gyűrűsvár helyszíne Loughrea környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.585491,
+                        53.180394
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Abbey",
+                  "text": "Egy középkori rendház romjai Loughrea-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.570014,
+                        53.199887
+                  ]
+            },
+            {
+                  "name": "Field System, Earlspark",
+                  "text": "Ősi mezőgazdasági területek és építmények nyomai a Loughrea melletti Earlsparkban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.542008,
+                        53.172504
+                  ]
+            },
+            {
+                  "name": "Earlspark Deerpark",
+                  "text": "Egy régi, szarvasok tartására használt falazott bekerítés romjai Loughrea közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.545549,
+                        53.181309
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "Szent Brigittának szentelt hagyományos szent kút Loughrea környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.560541,
+                        53.199854
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Cathedral",
+                  "text": "Loughrea katolikus székesegyháza, amely híres Arts and Crafts stílusú belső teréről.",
+                  "category": "religious",
+                  "coords": [
+                        -8.566764,
+                        53.196885
+                  ]
+            },
+            {
+                  "name": "Parish Church of St. Dymphna and St. Brendan Killeenadeema",
+                  "text": "Killeenadeema közösségét kiszolgáló helyi plébániatemplom Loughrea közelében.",
+                  "category": "religious",
+                  "coords": [
+                        -8.574252,
+                        53.164583
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Seven Monuments",
+                  "text": "Un grup de monumente ritualice antice situate în zona Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.531162,
+                        53.188408
+                  ]
+            },
+            {
+                  "name": "Tonaroasty Deserted Village",
+                  "text": "Rămășițele unei așezări medievale care a fost odată un sat lângă Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.54634,
+                        53.193418
+                  ]
+            },
+            {
+                  "name": "Lisduff",
+                  "text": "Un sit arheologic antic care prezintă terasamente istorice lângă Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.571322,
+                        53.176705
+                  ]
+            },
+            {
+                  "name": "Knockaunebin Fort",
+                  "text": "Situl unui vechi ringfort situat în vecinătatea orașului Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.585491,
+                        53.180394
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Abbey",
+                  "text": "Ruinele unei case religioase medievale situate în Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.570014,
+                        53.199887
+                  ]
+            },
+            {
+                  "name": "Field System, Earlspark",
+                  "text": "Urme de câmpuri agricole și structuri antice în Earlspark, lângă Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.542008,
+                        53.172504
+                  ]
+            },
+            {
+                  "name": "Earlspark Deerpark",
+                  "text": "Ruinele unei vechi incinte zidite folosite pentru creșterea căprioarelor lângă Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.545549,
+                        53.181309
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "O fântână sfântă tradițională dedicată Sfintei Bridget în zona Loughrea.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.560541,
+                        53.199854
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Cathedral",
+                  "text": "O catedrală catolică din Loughrea renumită pentru interiorul său bogat în stil Arts and Crafts.",
+                  "category": "religious",
+                  "coords": [
+                        -8.566764,
+                        53.196885
+                  ]
+            },
+            {
+                  "name": "Parish Church of St. Dymphna and St. Brendan Killeenadeema",
+                  "text": "O biserică parohială locală care deservește comunitatea din Killeenadeema, lângă Loughrea.",
+                  "category": "religious",
+                  "coords": [
+                        -8.574252,
+                        53.164583
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Seven Monuments",
+                  "text": "A group of ancient ritual monuments located in the Loughrea area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.531162,
+                        53.188408
+                  ]
+            },
+            {
+                  "name": "Tonaroasty Deserted Village",
+                  "text": "The remains of a medieval settlement that was once a village near Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.54634,
+                        53.193418
+                  ]
+            },
+            {
+                  "name": "Lisduff",
+                  "text": "An ancient archaeological site featuring historic earthworks near Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.571322,
+                        53.176705
+                  ]
+            },
+            {
+                  "name": "Knockaunebin Fort",
+                  "text": "The site of an ancient ringfort located in the Loughrea vicinity.",
+                  "category": "historical",
+                  "coords": [
+                        -8.585491,
+                        53.180394
+                  ]
+            },
+            {
+                  "name": "Saint Mary’s Abbey",
+                  "text": "The ruins of a medieval religious house located in Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.570014,
+                        53.199887
+                  ]
+            },
+            {
+                  "name": "Field System, Earlspark",
+                  "text": "Traces of ancient agricultural fields and structures in Earlspark near Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.542008,
+                        53.172504
+                  ]
+            },
+            {
+                  "name": "Earlspark Deerpark",
+                  "text": "The ruins of an old walled enclosure used for keeping deer near Loughrea.",
+                  "category": "historical",
+                  "coords": [
+                        -8.545549,
+                        53.181309
+                  ]
+            },
+            {
+                  "name": "St Bridget's Well",
+                  "text": "A traditional holy well dedicated to Saint Bridget in the Loughrea area.",
+                  "category": "landmark",
+                  "coords": [
+                        -8.560541,
+                        53.199854
+                  ]
+            },
+            {
+                  "name": "St. Brendan's Cathedral",
+                  "text": "A Catholic cathedral in Loughrea renowned for its extensive Arts and Crafts interior.",
+                  "category": "religious",
+                  "coords": [
+                        -8.566764,
+                        53.196885
+                  ]
+            },
+            {
+                  "name": "Parish Church of St. Dymphna and St. Brendan Killeenadeema",
+                  "text": "A local parish church serving the community of Killeenadeema near Loughrea.",
+                  "category": "religious",
+                  "coords": [
+                        -8.574252,
+                        53.164583
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Loughrea", hu: "Loughrea", ro: "Loughrea", en: "Loughrea" },
@@ -4485,7 +7905,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-loughrea-cities-v2.webp",
   },
   {
-    id: "ireland-lurgan-cities-v2",
+    id: "ireland-lurgan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ogle's Fort",
+                  "text": "Eine archäologische Fundstätte in Lurgan, die auf frühe Siedlungen hinweist.",
+                  "category": "historical",
+                  "coords": [
+                        -6.298858,
+                        54.444526
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ogle's Fort",
+                  "text": "Régészeti lelőhely Lurganban, amely korai települések nyomait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        -6.298858,
+                        54.444526
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ogle's Fort",
+                  "text": "Un sit arheologic în Lurgan, care indică așezări timpurii.",
+                  "category": "historical",
+                  "coords": [
+                        -6.298858,
+                        54.444526
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ogle's Fort",
+                  "text": "An archaeological site in Lurgan indicating early settlements.",
+                  "category": "historical",
+                  "coords": [
+                        -6.298858,
+                        54.444526
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Lurgan", hu: "Lurgan", ro: "Lurgan", en: "Lurgan" },
@@ -5322,7 +8787,1132 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-maynooth-cities-v2.webp",
   },
   {
-    id: "ireland-monkstown-cities-v2",
+    id: "ireland-monkstown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "Ein Leuchtturm an der Ostmole von Dun Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "Ein Leuchtturm an der Westmole von Dun Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "Das Museum präsentiert die Seefahrtsgeschichte Irlands in einer ehemaligen Kirche.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "Ein bekanntes Puppentheater in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "Eine mittelalterliche Turmburg in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "Eine historische Burgruine in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "Ein lokales Theater für kulturelle Veranstaltungen in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "Ein aufblasbarer Wasserpark im Hafen von Dun Laoghaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Ein beliebter kleiner Sandstrand in der Nähe von Dun Laoghaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "Ein Naturschutzgebiet mit Wanderwegen und Aussichtspunkten.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "Ein bekannter Badeort mit Strand und Martello-Turm.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Ein viktorianischer Park mit Gärten und einem wöchentlichen Markt.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "Die Überreste einer einst beliebten öffentlichen Badeanstalt.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "Ein berühmter historischer Badeplatz im Meer bei Sandycove.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "Ein Aussichtspunkt, der Richtungen zu geografischen Merkmalen anzeigt.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "Ein Denkmal zur Erinnerung an den Besuch von König Georg IV.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "Eine historische Kanone aus dem Krimkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "Ein Denkmal zum Gedenken an den Osteraufstand von 1916.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "Eine Kunstgalerie in Blackrock, die zeitgenössische Werke zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "Ein markantes Schild des Institute of Art, Design and Technology.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "Ein Denkmal auf einem Friedhof zur Erinnerung an irische Republikaner.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "Gedenktafel oder Stätte zu Ehren des Erfinders von Sudocrem.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "Ein Gedenkort für den ehemaligen irischen Premierminister Sean Lemass.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "Ein Gedenkort für den ehemaligen irischen Premierminister John A. Costello.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "Ein Zentrum für traditionelle irische Musik und Kultur.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "Ein markanter Obelisk in Stillorgan, der als Denkmal dient.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "Eine kleine Kapelle mit kunstvollen keltischen Verzierungen.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "Eine historische religiöse Stätte und ehemalige Pfarrei.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "Eine markante katholische Kirche im Viertel Blackrock.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "Die Überreste einer alten mittelalterlichen Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "Ein gut erhaltener Martello-Turm an der Küste von Seapoint.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "Világítótorony Dun Laoghaire keleti mólójánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "Világítótorony Dun Laoghaire nyugati mólójánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "Írország tengerészeti történelmét bemutató múzeum egy egykori templomban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "Ismert bábszínház Monkstownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "Középkori toronyvár Monkstownban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "Történelmi várrom Monkstownban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "Helyi színház kulturális események számára Monkstownban.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "Felfújható vízipark Dun Laoghaire kikötőjében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "Népszerű kis homokos strand Dun Laoghaire közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "Természetvédelmi terület sétautakkal és kilátópontokkal.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "Ismert fürdőhely stranddal és Martello-toronnyal.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Viktoriánus park kertekkel és heti piaccal.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "Egy egykor népszerű nyilvános fürdő maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "Híres történelmi tengeri fürdőhely Sandycove-nál.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "Kilátópont, amely földrajzi nevezetességek irányát mutatja.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "IV. György király látogatásának emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "Történelmi ágyú a krími háborúból.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "Az 1916-os húsvéti felkelés emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "Kortárs műveket bemutató művészeti galéria Blackrockban.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "Az IADT (művészeti és technológiai intézet) jellegzetes felirata.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "Ír republikánusok emlékére állított emlékmű egy temetőben.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "A Sudocrem feltalálójának tiszteletére állított emlékhely.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "Sean Lemass egykori ír miniszterelnök emlékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "John A. Costello egykori ír miniszterelnök emlékhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "Hagyományos ír zenei és kulturális központ.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "Jellegzetes obeliszk Stillorganban, amely emlékműként szolgál.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "Apró kápolna bonyolult kelta díszítésekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "Történelmi vallási helyszín és egykori egyházközség.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "Jellegzetes katolikus templom Blackrock negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "Egy régi középkori templom maradványai.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "Jó állapotban lévő Martello-torony Seapoint partjánál.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "Un far situat pe digul de est din Dun Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "Un far situat pe digul de vest din Dun Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "Muzeul prezintă istoria maritimă a Irlandei într-o fostă biserică.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "Un teatru de păpuși cunoscut în Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "Un castel medieval tip turn în Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "O ruină istorică de castel în Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "Un teatru local pentru evenimente culturale în Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "Un parc acvatic gonflabil în portul Dun Laoghaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "O plajă mică și populară lângă Dun Laoghaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "O rezervație naturală cu poteci și puncte de belvedere.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "O zonă de scăldat cunoscută, cu plajă și un turn Martello.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "Un parc victorian cu grădini și o piață săptămânală.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "Rămășițele unei foste băi publice populare.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "Un loc istoric celebru pentru scăldat în mare la Sandycove.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "Un punct de belvedere care indică direcțiile către diverse repere geografice.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "Un monument ridicat în memoria vizitei regelui George al IV-lea.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "Un tun istoric din timpul Războiului Crimeii.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "Un monument comemorativ pentru Revolta de Paște din 1916.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "O galerie de artă din Blackrock care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "O firmă proeminentă a Institutului de Artă, Design și Tehnologie.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "Un monument situat într-un cimitir în memoria republicanilor irlandezi.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "Un loc memorial în onoarea inventatorului cremei Sudocrem.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "Un loc memorial dedicat fostului premier irlandez Sean Lemass.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "Un loc memorial dedicat fostului premier irlandez John A. Costello.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "Un centru pentru muzică și cultură tradițională irlandeză.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "Un obelisc proeminent în Stillorgan care servește drept monument.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "O capelă mică cu decorațiuni celtice elaborate.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "Un sit religios istoric și fostă parohie.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "O biserică catolică proeminentă în zona Blackrock.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "Rămășițele unei vechi biserici medievale.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "Un turn Martello bine conservat pe coasta din Seapoint.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dun Laoghaire East Lighthouse",
+                  "text": "A lighthouse located on the east pier of Dun Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.127055,
+                        53.302425
+                  ]
+            },
+            {
+                  "name": "Dun Laoghaire West Lighthouse",
+                  "text": "A lighthouse located on the west pier of Dun Laoghaire.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.130866,
+                        53.303248
+                  ]
+            },
+            {
+                  "name": "National Maritime Museum of Ireland",
+                  "text": "This museum showcases Ireland's maritime history within a former church building.",
+                  "category": "museum",
+                  "coords": [
+                        -6.131741,
+                        53.292145
+                  ]
+            },
+            {
+                  "name": "Lambert Puppet Theatre",
+                  "text": "A well-known puppet theatre located in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.154733,
+                        53.294562
+                  ]
+            },
+            {
+                  "name": "Archbold's Castle",
+                  "text": "A medieval tower house located in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.106433,
+                        53.277912
+                  ]
+            },
+            {
+                  "name": "Monkstown Castle",
+                  "text": "A historic castle ruin located in Monkstown.",
+                  "category": "castle",
+                  "coords": [
+                        -6.150511,
+                        53.288995
+                  ]
+            },
+            {
+                  "name": "Pavilion Theatre",
+                  "text": "A local theatre for cultural events in Monkstown.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.133892,
+                        53.29392
+                  ]
+            },
+            {
+                  "name": "Harbour Splash",
+                  "text": "An inflatable water park located in Dun Laoghaire Harbour.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.14342,
+                        53.296982
+                  ]
+            },
+            {
+                  "name": "Sandycove Beach",
+                  "text": "A popular small sandy beach located near Dun Laoghaire.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.114499,
+                        53.288565
+                  ]
+            },
+            {
+                  "name": "Roche's Hill",
+                  "text": "A nature reserve featuring walking paths and viewpoints.",
+                  "category": "natural",
+                  "coords": [
+                        -6.121487,
+                        53.264937
+                  ]
+            },
+            {
+                  "name": "Seapoint",
+                  "text": "A well-known bathing area featuring a beach and a Martello tower.",
+                  "category": "recreational",
+                  "coords": [
+                        -6.158681,
+                        53.297211
+                  ]
+            },
+            {
+                  "name": "People's Park",
+                  "text": "A Victorian park featuring landscaped gardens and a weekly market.",
+                  "category": "park",
+                  "coords": [
+                        -6.128397,
+                        53.290032
+                  ]
+            },
+            {
+                  "name": "Blackrock Baths (closed)",
+                  "text": "The remains of a once-popular public sea swimming facility.",
+                  "category": "historical",
+                  "coords": [
+                        -6.178559,
+                        53.303166
+                  ]
+            },
+            {
+                  "name": "Forty Foot",
+                  "text": "A famous historic deep-sea swimming spot at Sandycove.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.113699,
+                        53.289486
+                  ]
+            },
+            {
+                  "name": "Geographic Pointer",
+                  "text": "A viewpoint indicating directions to various geographical features.",
+                  "category": "natural",
+                  "coords": [
+                        -6.12847,
+                        53.293855
+                  ]
+            },
+            {
+                  "name": "King George IV Monument",
+                  "text": "A monument commemorating the visit of King George IV.",
+                  "category": "historical",
+                  "coords": [
+                        -6.1318,
+                        53.293815
+                  ]
+            },
+            {
+                  "name": "Crimean War cannon",
+                  "text": "A historic cannon from the Crimean War period.",
+                  "category": "historical",
+                  "coords": [
+                        -6.129449,
+                        53.292933
+                  ]
+            },
+            {
+                  "name": "1916 Monument",
+                  "text": "A monument commemorating the Easter Rising of 1916.",
+                  "category": "historical",
+                  "coords": [
+                        -6.165958,
+                        53.281784
+                  ]
+            },
+            {
+                  "name": "Blackrock Fine Art",
+                  "text": "An art gallery in Blackrock showcasing contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        -6.178332,
+                        53.300541
+                  ]
+            },
+            {
+                  "name": "IADT Sign",
+                  "text": "A prominent sign for the Institute of Art, Design and Technology.",
+                  "category": "historical",
+                  "coords": [
+                        -6.15382,
+                        53.281357
+                  ]
+            },
+            {
+                  "name": "Republican Plot",
+                  "text": "A memorial plot in a cemetery commemorating Irish Republicans.",
+                  "category": "historical",
+                  "coords": [
+                        -6.16783,
+                        53.280319
+                  ]
+            },
+            {
+                  "name": "Thomas Joseph Smith (Sudocrem)",
+                  "text": "A memorial or site honoring the inventor of Sudocrem.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.170054,
+                        53.281343
+                  ]
+            },
+            {
+                  "name": "Sean Lemass",
+                  "text": "A memorial site for the former Irish Taoiseach Sean Lemass.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.16923,
+                        53.282305
+                  ]
+            },
+            {
+                  "name": "John A. Costelloe",
+                  "text": "A memorial site for the former Irish Taoiseach John A. Costello.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.167962,
+                        53.282762
+                  ]
+            },
+            {
+                  "name": "Cultúrlann na hÉireann",
+                  "text": "A centre for traditional Irish music and culture.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.162232,
+                        53.295372
+                  ]
+            },
+            {
+                  "name": "Stillorgan Obelisk",
+                  "text": "A prominent obelisk in Stillorgan serving as a monument.",
+                  "category": "historical",
+                  "coords": [
+                        -6.181309,
+                        53.286624
+                  ]
+            },
+            {
+                  "name": "The Oratory",
+                  "text": "A small chapel featuring intricate Celtic-style decorations.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.139952,
+                        53.292526
+                  ]
+            },
+            {
+                  "name": "Kill o' the Grange",
+                  "text": "A historic religious site and former parish location.",
+                  "category": "religious",
+                  "coords": [
+                        -6.162455,
+                        53.27865
+                  ]
+            },
+            {
+                  "name": "St John the Baptist Church",
+                  "text": "A prominent Catholic church located in the Blackrock area.",
+                  "category": "religious",
+                  "coords": [
+                        -6.175005,
+                        53.300137
+                  ]
+            },
+            {
+                  "name": "Grange Church (ruins)",
+                  "text": "The remains of an ancient medieval church.",
+                  "category": "religious",
+                  "coords": [
+                        -6.16099,
+                        53.281368
+                  ]
+            },
+            {
+                  "name": "Martello Tower No.14 - Seapoint",
+                  "text": "A well-preserved Martello tower on the Seapoint coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -6.159849,
+                        53.297855
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Monkstown", hu: "Monkstown", ro: "Monkstown", en: "Monkstown" },
@@ -5367,7 +9957,52 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-monkstown-cities-v2.webp",
   },
   {
-    id: "ireland-mountmellick-cities-v2",
+    id: "ireland-mountmellick-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Community Arts Centre",
+                  "text": "Ein lokaler Veranstaltungsort in Mountmellick für Kunstveranstaltungen und Ausstellungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.324335,
+                        53.115553
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Community Arts Centre",
+                  "text": "Mountmellick-i közösségi helyszín, amely művészeti eseményeknek és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.324335,
+                        53.115553
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Community Arts Centre",
+                  "text": "Un centru local în Mountmellick care găzduiește evenimente artistice și expoziții comunitare.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.324335,
+                        53.115553
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Community Arts Centre",
+                  "text": "A local venue in Mountmellick hosting community art events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.324335,
+                        53.115553
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Mountmellick", hu: "Mountmellick", ro: "Mountmellick", en: "Mountmellick" },
@@ -5412,7 +10047,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-mountmellick-cities-v2.webp",
   },
   {
-    id: "ireland-muine-bheag-cities-v2",
+    id: "ireland-muine-bheag-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dunleckny Manor",
+                  "text": "Ein beeindruckendes Schlossgebäude mit weitläufiger Geschichte in Muine Bheag.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938699,
+                        52.713573
+                  ]
+            },
+            {
+                  "name": "Idrone Moat",
+                  "text": "Eine historische Erdbefestigung und archäologische Stätte in Muine Bheag.",
+                  "category": "historical",
+                  "coords": [
+                        -6.933095,
+                        52.707417
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Ein Sakralbau der örtlichen Gemeinde in Muine Bheag.",
+                  "category": "religious",
+                  "coords": [
+                        -6.959078,
+                        52.70032
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "Eine Kirche in Muine Bheag, die der religiösen Tradition gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.956081,
+                        52.701676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dunleckny Manor",
+                  "text": "Lenyűgöző kastélyépület jelentős történelemmel Muine Bheagban.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938699,
+                        52.713573
+                  ]
+            },
+            {
+                  "name": "Idrone Moat",
+                  "text": "Történelmi földvár és régészeti lelőhely Muine Bheagban.",
+                  "category": "historical",
+                  "coords": [
+                        -6.933095,
+                        52.707417
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "A helyi közösség egyházi épülete Muine Bheagban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.959078,
+                        52.70032
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "A vallási hagyományoknak szentelt templom Muine Bheagban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.956081,
+                        52.701676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dunleckny Manor",
+                  "text": "O clădire impresionantă de castel cu o istorie bogată în Muine Bheag.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938699,
+                        52.713573
+                  ]
+            },
+            {
+                  "name": "Idrone Moat",
+                  "text": "O fortificație istorică de pământ și sit arheologic în Muine Bheag.",
+                  "category": "historical",
+                  "coords": [
+                        -6.933095,
+                        52.707417
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "Un lăcaș de cult al comunității locale din Muine Bheag.",
+                  "category": "religious",
+                  "coords": [
+                        -6.959078,
+                        52.70032
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "O biserică în Muine Bheag dedicată tradiției religioase.",
+                  "category": "religious",
+                  "coords": [
+                        -6.956081,
+                        52.701676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dunleckny Manor",
+                  "text": "An impressive castle building with an extensive history in Muine Bheag.",
+                  "category": "castle",
+                  "coords": [
+                        -6.938699,
+                        52.713573
+                  ]
+            },
+            {
+                  "name": "Idrone Moat",
+                  "text": "A historical earthwork fortification and archaeological site in Muine Bheag.",
+                  "category": "historical",
+                  "coords": [
+                        -6.933095,
+                        52.707417
+                  ]
+            },
+            {
+                  "name": "Saint Mary's",
+                  "text": "A place of worship serving the local community in Muine Bheag.",
+                  "category": "religious",
+                  "coords": [
+                        -6.959078,
+                        52.70032
+                  ]
+            },
+            {
+                  "name": "Saint Andrew's",
+                  "text": "A church in Muine Bheag dedicated to religious tradition.",
+                  "category": "religious",
+                  "coords": [
+                        -6.956081,
+                        52.701676
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Muine Bheag", hu: "Muine Bheag", ro: "Muine Bheag", en: "Muine Bheag" },
@@ -5457,7 +10245,556 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-muine-bheag-cities-v2.webp",
   },
   {
-    id: "ireland-nena-cities-v2",
+    id: "ireland-nena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nenagh Castle",
+                  "text": "Eine beeindruckende mittelalterliche Burg mit einem runden Bergfried.",
+                  "category": "castle",
+                  "coords": [
+                        -8.198148,
+                        52.865019
+                  ]
+            },
+            {
+                  "name": "Tullahedy Castle",
+                  "text": "Eine historische Burgruine in der Nähe von Nenagh.",
+                  "category": "castle",
+                  "coords": [
+                        -8.230771,
+                        52.851951
+                  ]
+            },
+            {
+                  "name": "Nenagh Heritage Centre",
+                  "text": "Ein Heimatmuseum, das in einem ehemaligen Gefängnis untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        -8.200714,
+                        52.865671
+                  ]
+            },
+            {
+                  "name": "Rathmartin",
+                  "text": "Eine archäologische Ausgrabungsstätte in Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177542,
+                        52.857721
+                  ]
+            },
+            {
+                  "name": "Lissatunny",
+                  "text": "Eine archäologische Stätte in der Umgebung von Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.173175,
+                        52.845583
+                  ]
+            },
+            {
+                  "name": "Rathnaleen Castle",
+                  "text": "Die Überreste einer historischen Turmburg.",
+                  "category": "castle",
+                  "coords": [
+                        -8.171988,
+                        52.873381
+                  ]
+            },
+            {
+                  "name": "Old Barracks",
+                  "text": "Die Ruinen einer ehemaligen Militärkaserne in Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.194767,
+                        52.867215
+                  ]
+            },
+            {
+                  "name": "Andersons Well",
+                  "text": "Historische Überreste eines alten Brunnens.",
+                  "category": "historical",
+                  "coords": [
+                        -8.195275,
+                        52.861372
+                  ]
+            },
+            {
+                  "name": "Franciscan Friary",
+                  "text": "Die Überreste eines mittelalterlichen Franziskanerklosters.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196699,
+                        52.862905
+                  ]
+            },
+            {
+                  "name": "Nenagh Arts Centre",
+                  "text": "Ein lokaler Veranstaltungsort für Kunst und Theater in Nenagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.199433,
+                        52.865023
+                  ]
+            },
+            {
+                  "name": "Shannaclogh",
+                  "text": "Historische Ruinen in der Nähe von Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.234699,
+                        52.850525
+                  ]
+            },
+            {
+                  "name": "Solsborough House",
+                  "text": "Die Ruinen einer ehemaligen Herrenhauses.",
+                  "category": "historical",
+                  "coords": [
+                        -8.230531,
+                        52.863894
+                  ]
+            },
+            {
+                  "name": "Nenagh Church",
+                  "text": "Die Ruinen einer alten Kirche in Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196964,
+                        52.861124
+                  ]
+            },
+            {
+                  "name": "Lisbunny Castle",
+                  "text": "Eine historische Burgruine in Lisbunny.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161844,
+                        52.864939
+                  ]
+            },
+            {
+                  "name": "Saint Mary's of the Rosary",
+                  "text": "Ein bedeutendes religiöses Gebäude in Nenagh.",
+                  "category": "religious",
+                  "coords": [
+                        -8.198758,
+                        52.866182
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nenagh Castle",
+                  "text": "Impreszív középkori vár kerek öregtoronnyal.",
+                  "category": "castle",
+                  "coords": [
+                        -8.198148,
+                        52.865019
+                  ]
+            },
+            {
+                  "name": "Tullahedy Castle",
+                  "text": "Történelmi várrom Nenagh közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -8.230771,
+                        52.851951
+                  ]
+            },
+            {
+                  "name": "Nenagh Heritage Centre",
+                  "text": "Helytörténeti múzeum egy egykori börtön épületében.",
+                  "category": "museum",
+                  "coords": [
+                        -8.200714,
+                        52.865671
+                  ]
+            },
+            {
+                  "name": "Rathmartin",
+                  "text": "Régészeti lelőhely Nenagh-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177542,
+                        52.857721
+                  ]
+            },
+            {
+                  "name": "Lissatunny",
+                  "text": "Régészeti lelőhely Nenagh környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -8.173175,
+                        52.845583
+                  ]
+            },
+            {
+                  "name": "Rathnaleen Castle",
+                  "text": "Egy történelmi toronyvár maradványai.",
+                  "category": "castle",
+                  "coords": [
+                        -8.171988,
+                        52.873381
+                  ]
+            },
+            {
+                  "name": "Old Barracks",
+                  "text": "Egy egykori katonai laktanya romjai Nenagh-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.194767,
+                        52.867215
+                  ]
+            },
+            {
+                  "name": "Andersons Well",
+                  "text": "Egy régi kút történelmi maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -8.195275,
+                        52.861372
+                  ]
+            },
+            {
+                  "name": "Franciscan Friary",
+                  "text": "Egy középkori ferences kolostor maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196699,
+                        52.862905
+                  ]
+            },
+            {
+                  "name": "Nenagh Arts Centre",
+                  "text": "Helyi művészeti és színházi központ Nenagh-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.199433,
+                        52.865023
+                  ]
+            },
+            {
+                  "name": "Shannaclogh",
+                  "text": "Történelmi romok Nenagh közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.234699,
+                        52.850525
+                  ]
+            },
+            {
+                  "name": "Solsborough House",
+                  "text": "Egy egykori udvarház romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -8.230531,
+                        52.863894
+                  ]
+            },
+            {
+                  "name": "Nenagh Church",
+                  "text": "Egy régi templom romjai Nenagh-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196964,
+                        52.861124
+                  ]
+            },
+            {
+                  "name": "Lisbunny Castle",
+                  "text": "Történelmi várrom Lisbunnyban.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161844,
+                        52.864939
+                  ]
+            },
+            {
+                  "name": "Saint Mary's of the Rosary",
+                  "text": "Jelentős vallási helyszín Nenagh városában.",
+                  "category": "religious",
+                  "coords": [
+                        -8.198758,
+                        52.866182
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nenagh Castle",
+                  "text": "Un castel medieval impresionant cu un turn principal rotund.",
+                  "category": "castle",
+                  "coords": [
+                        -8.198148,
+                        52.865019
+                  ]
+            },
+            {
+                  "name": "Tullahedy Castle",
+                  "text": "O ruină istorică de castel lângă Nenagh.",
+                  "category": "castle",
+                  "coords": [
+                        -8.230771,
+                        52.851951
+                  ]
+            },
+            {
+                  "name": "Nenagh Heritage Centre",
+                  "text": "Un muzeu de istorie locală găzduit într-o fostă închisoare.",
+                  "category": "museum",
+                  "coords": [
+                        -8.200714,
+                        52.865671
+                  ]
+            },
+            {
+                  "name": "Rathmartin",
+                  "text": "Un sit arheologic în Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177542,
+                        52.857721
+                  ]
+            },
+            {
+                  "name": "Lissatunny",
+                  "text": "Un sit arheologic în zona Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.173175,
+                        52.845583
+                  ]
+            },
+            {
+                  "name": "Rathnaleen Castle",
+                  "text": "Rămășițele unui castel istoric tip turn.",
+                  "category": "castle",
+                  "coords": [
+                        -8.171988,
+                        52.873381
+                  ]
+            },
+            {
+                  "name": "Old Barracks",
+                  "text": "Ruinele unei foste cazărmi militare în Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.194767,
+                        52.867215
+                  ]
+            },
+            {
+                  "name": "Andersons Well",
+                  "text": "Rămășițele istorice ale unei fântâni vechi.",
+                  "category": "historical",
+                  "coords": [
+                        -8.195275,
+                        52.861372
+                  ]
+            },
+            {
+                  "name": "Franciscan Friary",
+                  "text": "Rămășițele unei mănăstiri franciscane medievale.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196699,
+                        52.862905
+                  ]
+            },
+            {
+                  "name": "Nenagh Arts Centre",
+                  "text": "Un centru local pentru artă și teatru în Nenagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.199433,
+                        52.865023
+                  ]
+            },
+            {
+                  "name": "Shannaclogh",
+                  "text": "Ruine istorice în apropiere de Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.234699,
+                        52.850525
+                  ]
+            },
+            {
+                  "name": "Solsborough House",
+                  "text": "Ruinele unui fost conac.",
+                  "category": "historical",
+                  "coords": [
+                        -8.230531,
+                        52.863894
+                  ]
+            },
+            {
+                  "name": "Nenagh Church",
+                  "text": "Ruinele unei vechi biserici în Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196964,
+                        52.861124
+                  ]
+            },
+            {
+                  "name": "Lisbunny Castle",
+                  "text": "O ruină istorică de castel în Lisbunny.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161844,
+                        52.864939
+                  ]
+            },
+            {
+                  "name": "Saint Mary's of the Rosary",
+                  "text": "Un important lăcaș de cult situat în Nenagh.",
+                  "category": "religious",
+                  "coords": [
+                        -8.198758,
+                        52.866182
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nenagh Castle",
+                  "text": "An impressive medieval castle featuring a circular keep.",
+                  "category": "castle",
+                  "coords": [
+                        -8.198148,
+                        52.865019
+                  ]
+            },
+            {
+                  "name": "Tullahedy Castle",
+                  "text": "A historic castle ruin located near Nenagh.",
+                  "category": "castle",
+                  "coords": [
+                        -8.230771,
+                        52.851951
+                  ]
+            },
+            {
+                  "name": "Nenagh Heritage Centre",
+                  "text": "A local heritage museum housed in a former gaol building.",
+                  "category": "museum",
+                  "coords": [
+                        -8.200714,
+                        52.865671
+                  ]
+            },
+            {
+                  "name": "Rathmartin",
+                  "text": "An archaeological site located in Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.177542,
+                        52.857721
+                  ]
+            },
+            {
+                  "name": "Lissatunny",
+                  "text": "An archaeological site located in the Nenagh area.",
+                  "category": "historical",
+                  "coords": [
+                        -8.173175,
+                        52.845583
+                  ]
+            },
+            {
+                  "name": "Rathnaleen Castle",
+                  "text": "The remains of a historic tower house castle.",
+                  "category": "castle",
+                  "coords": [
+                        -8.171988,
+                        52.873381
+                  ]
+            },
+            {
+                  "name": "Old Barracks",
+                  "text": "The ruins of a former military barracks in Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.194767,
+                        52.867215
+                  ]
+            },
+            {
+                  "name": "Andersons Well",
+                  "text": "Historic remains of an old well.",
+                  "category": "historical",
+                  "coords": [
+                        -8.195275,
+                        52.861372
+                  ]
+            },
+            {
+                  "name": "Franciscan Friary",
+                  "text": "The remains of a medieval Franciscan friary.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196699,
+                        52.862905
+                  ]
+            },
+            {
+                  "name": "Nenagh Arts Centre",
+                  "text": "A local venue for arts and theatre in Nenagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.199433,
+                        52.865023
+                  ]
+            },
+            {
+                  "name": "Shannaclogh",
+                  "text": "Historic ruins located near Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.234699,
+                        52.850525
+                  ]
+            },
+            {
+                  "name": "Solsborough House",
+                  "text": "The ruins of a former country house.",
+                  "category": "historical",
+                  "coords": [
+                        -8.230531,
+                        52.863894
+                  ]
+            },
+            {
+                  "name": "Nenagh Church",
+                  "text": "The ruins of an old church in Nenagh.",
+                  "category": "historical",
+                  "coords": [
+                        -8.196964,
+                        52.861124
+                  ]
+            },
+            {
+                  "name": "Lisbunny Castle",
+                  "text": "A historic castle ruin located in Lisbunny.",
+                  "category": "historical",
+                  "coords": [
+                        -8.161844,
+                        52.864939
+                  ]
+            },
+            {
+                  "name": "Saint Mary's of the Rosary",
+                  "text": "A prominent religious building located in Nenagh.",
+                  "category": "religious",
+                  "coords": [
+                        -8.198758,
+                        52.866182
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Nenagh", hu: "Nenagh", ro: "Nenagh", en: "Nenagh" },
@@ -5502,7 +10839,808 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-nena-cities-v2.webp",
   },
   {
-    id: "ireland-newtownards-cities-v2",
+    id: "ireland-newtownards-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Scrabo Tower",
+                  "text": "Ein Aussichtsturm aus dem 19. Jahrhundert, der ein markantes Wahrzeichen von Newtownards ist.",
+                  "category": "castle",
+                  "coords": [
+                        -5.715446,
+                        54.580282
+                  ]
+            },
+            {
+                  "name": "Somme Heritage Centre",
+                  "text": "Ein Museum in Newtownards, das die Geschichte des Ersten Weltkriegs erforscht.",
+                  "category": "museum",
+                  "coords": [
+                        -5.681928,
+                        54.614532
+                  ]
+            },
+            {
+                  "name": "Priory of Saint Columba",
+                  "text": "Die Ruinen eines Dominikanerklosters aus dem 13. Jahrhundert in Newtownards.",
+                  "category": "religious",
+                  "coords": [
+                        -5.692124,
+                        54.591014
+                  ]
+            },
+            {
+                  "name": "Ards Arts Centre",
+                  "text": "Ein Kulturzentrum in Newtownards mit Kunstgalerien und kreativen Räumen.",
+                  "category": "museum",
+                  "coords": [
+                        -5.695997,
+                        54.593692
+                  ]
+            },
+            {
+                  "name": "Web Theatre",
+                  "text": "Ein lokales Theater in Newtownards für verschiedene Aufführungen und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.695082,
+                        54.595169
+                  ]
+            },
+            {
+                  "name": "South Quarry",
+                  "text": "Eine archäologische Stätte in Newtownards im Zusammenhang mit historischem Steinbruchbetrieb.",
+                  "category": "historical",
+                  "coords": [
+                        -5.714517,
+                        54.578301
+                  ]
+            },
+            {
+                  "name": "Kiltonga Nature Reserve",
+                  "text": "Ein geschütztes Naturgebiet in Newtownards, bekannt für seine Tierwelt und Teiche.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717074,
+                        54.596835
+                  ]
+            },
+            {
+                  "name": "War Years Remembered",
+                  "text": "Ein Museum in Newtownards, das der Militärgeschichte und Kriegserinnerungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -5.706433,
+                        54.599702
+                  ]
+            },
+            {
+                  "name": "Movilla Abbey",
+                  "text": "Die historischen Ruinen einer alten Klosteranlage in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.674505,
+                        54.595913
+                  ]
+            },
+            {
+                  "name": "Windmill Stump",
+                  "text": "Die Überreste einer historischen Windmühle in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.688735,
+                        54.614416
+                  ]
+            },
+            {
+                  "name": "Old Market Cross",
+                  "text": "Ein historisches Steindenkmal im Zentrum von Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693126,
+                        54.592507
+                  ]
+            },
+            {
+                  "name": "Miles Aircraft Factory",
+                  "text": "Die Ruinen einer ehemaligen Flugzeugfabrik in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.694503,
+                        54.58251
+                  ]
+            },
+            {
+                  "name": "Paupers' Graveyard",
+                  "text": "Eine historische Grabstätte in Newtownards mit bedeutendem lokalem Erbe.",
+                  "category": "historical",
+                  "coords": [
+                        -5.712413,
+                        54.599823
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "Ein Denkmal zur Bewahrung der Geschichte der Belfast and County Down Railway.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690328,
+                        54.597709
+                  ]
+            },
+            {
+                  "name": "Old Rock Crusher",
+                  "text": "Historische Überreste einer Industriemaschine zum Zerkleinern von Gestein in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.691339,
+                        54.601638
+                  ]
+            },
+            {
+                  "name": "Column of BCDR Railway Bridge",
+                  "text": "Die baulichen Überreste einer Säule einer historischen Eisenbahnbrücke.",
+                  "category": "historical",
+                  "coords": [
+                        -5.709433,
+                        54.595917
+                  ]
+            },
+            {
+                  "name": "South Shaft Chimney",
+                  "text": "Die Ruine eines Industrieschornsteins aus der Zeit des Bergbaus in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690618,
+                        54.612833
+                  ]
+            },
+            {
+                  "name": "Corry's Crag",
+                  "text": "Ein malerischer Aussichtspunkt in Newtownards mit Blick auf die lokale Landschaft.",
+                  "category": "natural",
+                  "coords": [
+                        -5.693402,
+                        54.613265
+                  ]
+            },
+            {
+                  "name": "WW2 Rifle Firing Butts",
+                  "text": "Historische Überreste von militärischen Übungsanlagen aus dem Zweiten Weltkrieg.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693292,
+                        54.577759
+                  ]
+            },
+            {
+                  "name": "Scrabo Railway Bridge",
+                  "text": "Die Ruinen einer Brücke, die Teil der historischen Scrabo-Eisenbahnlinie war.",
+                  "category": "historical",
+                  "coords": [
+                        -5.720506,
+                        54.585886
+                  ]
+            },
+            {
+                  "name": "Killysuggan Graveyard",
+                  "text": "Die Ruinen eines alten Friedhofs in Newtownards mit historischer Bedeutung.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722678,
+                        54.599747
+                  ]
+            },
+            {
+                  "name": "Bog Shaft Engine House",
+                  "text": "Die industriellen Ruinen eines Maschinenhauses, das einst im Bergbau genutzt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        -5.689433,
+                        54.609392
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Scrabo Tower",
+                  "text": "19. századi kilátótorony, amely Newtownards egyik legismertebb nevezetessége.",
+                  "category": "castle",
+                  "coords": [
+                        -5.715446,
+                        54.580282
+                  ]
+            },
+            {
+                  "name": "Somme Heritage Centre",
+                  "text": "Newtownards-i múzeum, amely az első világháború történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -5.681928,
+                        54.614532
+                  ]
+            },
+            {
+                  "name": "Priory of Saint Columba",
+                  "text": "Egy 13. században alapított dominikánus kolostor romjai Newtownards-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -5.692124,
+                        54.591014
+                  ]
+            },
+            {
+                  "name": "Ards Arts Centre",
+                  "text": "Newtownards-i kulturális központ művészeti galériákkal és alkotói terekkel.",
+                  "category": "museum",
+                  "coords": [
+                        -5.695997,
+                        54.593692
+                  ]
+            },
+            {
+                  "name": "Web Theatre",
+                  "text": "Newtownards-i színház, amely különféle előadásoknak és rendezvényeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.695082,
+                        54.595169
+                  ]
+            },
+            {
+                  "name": "South Quarry",
+                  "text": "Newtownards-i régészeti lelőhely, amely történelmi kőfejtő tevékenységekhez kapcsolódik.",
+                  "category": "historical",
+                  "coords": [
+                        -5.714517,
+                        54.578301
+                  ]
+            },
+            {
+                  "name": "Kiltonga Nature Reserve",
+                  "text": "Védett természeti terület Newtownards-ban, amely vadvilágáról és tavairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717074,
+                        54.596835
+                  ]
+            },
+            {
+                  "name": "War Years Remembered",
+                  "text": "Newtownards-i múzeum, amely a hadtörténetnek és háborús emlékeknek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -5.706433,
+                        54.599702
+                  ]
+            },
+            {
+                  "name": "Movilla Abbey",
+                  "text": "Egy ősi kolostor történelmi romjai Newtownards-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.674505,
+                        54.595913
+                  ]
+            },
+            {
+                  "name": "Windmill Stump",
+                  "text": "Egy történelmi szélmalom maradványai Newtownards-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.688735,
+                        54.614416
+                  ]
+            },
+            {
+                  "name": "Old Market Cross",
+                  "text": "Történelmi kőemlékmű Newtownards központjában.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693126,
+                        54.592507
+                  ]
+            },
+            {
+                  "name": "Miles Aircraft Factory",
+                  "text": "Egy egykori repülőgépgyár romjai Newtownards-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.694503,
+                        54.58251
+                  ]
+            },
+            {
+                  "name": "Paupers' Graveyard",
+                  "text": "Történelmi temetkezési hely Newtownards-ban, jelentős helyi örökséggel.",
+                  "category": "historical",
+                  "coords": [
+                        -5.712413,
+                        54.599823
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "A Belfast and County Down Railway történetét őrző emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690328,
+                        54.597709
+                  ]
+            },
+            {
+                  "name": "Old Rock Crusher",
+                  "text": "Newtownards-i ipari kőzetzúzó gép történelmi maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.691339,
+                        54.601638
+                  ]
+            },
+            {
+                  "name": "Column of BCDR Railway Bridge",
+                  "text": "Egy történelmi vasúti híd oszlopának maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.709433,
+                        54.595917
+                  ]
+            },
+            {
+                  "name": "South Shaft Chimney",
+                  "text": "Egy történelmi bányászathoz kapcsolódó ipari kémény romja Newtownards-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690618,
+                        54.612833
+                  ]
+            },
+            {
+                  "name": "Corry's Crag",
+                  "text": "Festői kilátóhely Newtownards-ban, ahonnan kilátás nyílik a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        -5.693402,
+                        54.613265
+                  ]
+            },
+            {
+                  "name": "WW2 Rifle Firing Butts",
+                  "text": "Második világháborús katonai kiképző építmények történelmi maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693292,
+                        54.577759
+                  ]
+            },
+            {
+                  "name": "Scrabo Railway Bridge",
+                  "text": "A történelmi Scrabo vasútvonal részét képező híd romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.720506,
+                        54.585886
+                  ]
+            },
+            {
+                  "name": "Killysuggan Graveyard",
+                  "text": "Egy régi, történelmi jelentőségű temető romjai Newtownards-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722678,
+                        54.599747
+                  ]
+            },
+            {
+                  "name": "Bog Shaft Engine House",
+                  "text": "Egy egykor bányászati tevékenységhez használt gépház ipari romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.689433,
+                        54.609392
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Scrabo Tower",
+                  "text": "Un turn de observație din secolul al XIX-lea, care este un punct de reper proeminent în Newtownards.",
+                  "category": "castle",
+                  "coords": [
+                        -5.715446,
+                        54.580282
+                  ]
+            },
+            {
+                  "name": "Somme Heritage Centre",
+                  "text": "Un muzeu în Newtownards care explorează istoria Primului Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        -5.681928,
+                        54.614532
+                  ]
+            },
+            {
+                  "name": "Priory of Saint Columba",
+                  "text": "Ruinele unei mănăstiri dominicane fondate în secolul al XIII-lea în Newtownards.",
+                  "category": "religious",
+                  "coords": [
+                        -5.692124,
+                        54.591014
+                  ]
+            },
+            {
+                  "name": "Ards Arts Centre",
+                  "text": "Un centru cultural în Newtownards care cuprinde galerii de artă și spații creative.",
+                  "category": "museum",
+                  "coords": [
+                        -5.695997,
+                        54.593692
+                  ]
+            },
+            {
+                  "name": "Web Theatre",
+                  "text": "Un teatru local în Newtownards care găzduiește diverse spectacole și evenimente.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.695082,
+                        54.595169
+                  ]
+            },
+            {
+                  "name": "South Quarry",
+                  "text": "Un sit arheologic în Newtownards legat de activitățile istorice de exploatare a pietrei.",
+                  "category": "historical",
+                  "coords": [
+                        -5.714517,
+                        54.578301
+                  ]
+            },
+            {
+                  "name": "Kiltonga Nature Reserve",
+                  "text": "O arie naturală protejată în Newtownards, cunoscută pentru fauna sălbatică și iazuri.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717074,
+                        54.596835
+                  ]
+            },
+            {
+                  "name": "War Years Remembered",
+                  "text": "Un muzeu în Newtownards dedicat istoriei militare și suvenirurilor de război.",
+                  "category": "museum",
+                  "coords": [
+                        -5.706433,
+                        54.599702
+                  ]
+            },
+            {
+                  "name": "Movilla Abbey",
+                  "text": "Ruinele istorice ale unui vechi sit monastic din Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.674505,
+                        54.595913
+                  ]
+            },
+            {
+                  "name": "Windmill Stump",
+                  "text": "Rămășițele unei mori de vânt istorice situate în Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.688735,
+                        54.614416
+                  ]
+            },
+            {
+                  "name": "Old Market Cross",
+                  "text": "Un monument istoric din piatră situat în centrul orașului Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693126,
+                        54.592507
+                  ]
+            },
+            {
+                  "name": "Miles Aircraft Factory",
+                  "text": "Ruinele unei foste fabrici de avioane în Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.694503,
+                        54.58251
+                  ]
+            },
+            {
+                  "name": "Paupers' Graveyard",
+                  "text": "Un cimitir istoric în Newtownards, cu o moștenire locală semnificativă.",
+                  "category": "historical",
+                  "coords": [
+                        -5.712413,
+                        54.599823
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "Un monument care conservă istoria căii ferate Belfast and County Down Railway.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690328,
+                        54.597709
+                  ]
+            },
+            {
+                  "name": "Old Rock Crusher",
+                  "text": "Rămășițele istorice ale unui utilaj industrial folosit pentru zdrobirea roccilor în Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.691339,
+                        54.601638
+                  ]
+            },
+            {
+                  "name": "Column of BCDR Railway Bridge",
+                  "text": "Rămășițele structurale ale unei coloane de la un pod de cale ferată istoric.",
+                  "category": "historical",
+                  "coords": [
+                        -5.709433,
+                        54.595917
+                  ]
+            },
+            {
+                  "name": "South Shaft Chimney",
+                  "text": "Ruina unui coș de fum industrial asociat cu mineritul istoric din Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690618,
+                        54.612833
+                  ]
+            },
+            {
+                  "name": "Corry's Crag",
+                  "text": "Un punct de observație pitoresc în Newtownards, oferind vedere asupra peisajului local.",
+                  "category": "natural",
+                  "coords": [
+                        -5.693402,
+                        54.613265
+                  ]
+            },
+            {
+                  "name": "WW2 Rifle Firing Butts",
+                  "text": "Rămășițele istorice ale unor structuri de antrenament militar din al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693292,
+                        54.577759
+                  ]
+            },
+            {
+                  "name": "Scrabo Railway Bridge",
+                  "text": "Ruinele unui pod care făcea parte din linia ferată istorică Scrabo.",
+                  "category": "historical",
+                  "coords": [
+                        -5.720506,
+                        54.585886
+                  ]
+            },
+            {
+                  "name": "Killysuggan Graveyard",
+                  "text": "Ruinele unui vechi cimitir din Newtownards, cu semnificație istorică.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722678,
+                        54.599747
+                  ]
+            },
+            {
+                  "name": "Bog Shaft Engine House",
+                  "text": "Ruinele industriale ale unei case a mașinilor folosită odinioară în activități miniere.",
+                  "category": "historical",
+                  "coords": [
+                        -5.689433,
+                        54.609392
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scrabo Tower",
+                  "text": "A 19th-century lookout tower that is a prominent landmark in Newtownards.",
+                  "category": "castle",
+                  "coords": [
+                        -5.715446,
+                        54.580282
+                  ]
+            },
+            {
+                  "name": "Somme Heritage Centre",
+                  "text": "A museum in Newtownards exploring the history of the First World War.",
+                  "category": "museum",
+                  "coords": [
+                        -5.681928,
+                        54.614532
+                  ]
+            },
+            {
+                  "name": "Priory of Saint Columba",
+                  "text": "The ruins of a Dominican priory founded in the 13th century in Newtownards.",
+                  "category": "religious",
+                  "coords": [
+                        -5.692124,
+                        54.591014
+                  ]
+            },
+            {
+                  "name": "Ards Arts Centre",
+                  "text": "A cultural centre in Newtownards featuring art galleries and creative spaces.",
+                  "category": "museum",
+                  "coords": [
+                        -5.695997,
+                        54.593692
+                  ]
+            },
+            {
+                  "name": "Web Theatre",
+                  "text": "A local theatre in Newtownards hosting various performances and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -5.695082,
+                        54.595169
+                  ]
+            },
+            {
+                  "name": "South Quarry",
+                  "text": "An archaeological site in Newtownards related to historical quarrying activities.",
+                  "category": "historical",
+                  "coords": [
+                        -5.714517,
+                        54.578301
+                  ]
+            },
+            {
+                  "name": "Kiltonga Nature Reserve",
+                  "text": "A protected natural area in Newtownards known for its wildlife and ponds.",
+                  "category": "natural",
+                  "coords": [
+                        -5.717074,
+                        54.596835
+                  ]
+            },
+            {
+                  "name": "War Years Remembered",
+                  "text": "A museum in Newtownards dedicated to military history and wartime memorabilia.",
+                  "category": "museum",
+                  "coords": [
+                        -5.706433,
+                        54.599702
+                  ]
+            },
+            {
+                  "name": "Movilla Abbey",
+                  "text": "The historic ruins of an ancient monastic site in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.674505,
+                        54.595913
+                  ]
+            },
+            {
+                  "name": "Windmill Stump",
+                  "text": "The remains of a historic windmill located in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.688735,
+                        54.614416
+                  ]
+            },
+            {
+                  "name": "Old Market Cross",
+                  "text": "A historic stone monument located in the centre of Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693126,
+                        54.592507
+                  ]
+            },
+            {
+                  "name": "Miles Aircraft Factory",
+                  "text": "The ruins of a former aircraft manufacturing facility in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.694503,
+                        54.58251
+                  ]
+            },
+            {
+                  "name": "Paupers' Graveyard",
+                  "text": "A historic burial site in Newtownards with significant local heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -5.712413,
+                        54.599823
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "A monument preserving the history of the Belfast and County Down Railway.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690328,
+                        54.597709
+                  ]
+            },
+            {
+                  "name": "Old Rock Crusher",
+                  "text": "Historic remains of industrial machinery used for crushing rocks in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.691339,
+                        54.601638
+                  ]
+            },
+            {
+                  "name": "Column of BCDR Railway Bridge",
+                  "text": "The structural remains of a column from a historic railway bridge.",
+                  "category": "historical",
+                  "coords": [
+                        -5.709433,
+                        54.595917
+                  ]
+            },
+            {
+                  "name": "South Shaft Chimney",
+                  "text": "The ruin of an industrial chimney associated with historical mining in Newtownards.",
+                  "category": "historical",
+                  "coords": [
+                        -5.690618,
+                        54.612833
+                  ]
+            },
+            {
+                  "name": "Corry's Crag",
+                  "text": "A scenic viewpoint in Newtownards offering views of the local landscape.",
+                  "category": "natural",
+                  "coords": [
+                        -5.693402,
+                        54.613265
+                  ]
+            },
+            {
+                  "name": "WW2 Rifle Firing Butts",
+                  "text": "Historical remains of military training structures from the Second World War.",
+                  "category": "historical",
+                  "coords": [
+                        -5.693292,
+                        54.577759
+                  ]
+            },
+            {
+                  "name": "Scrabo Railway Bridge",
+                  "text": "The ruins of a bridge that was part of the historic Scrabo railway line.",
+                  "category": "historical",
+                  "coords": [
+                        -5.720506,
+                        54.585886
+                  ]
+            },
+            {
+                  "name": "Killysuggan Graveyard",
+                  "text": "The ruins of an old graveyard in Newtownards with historical significance.",
+                  "category": "historical",
+                  "coords": [
+                        -5.722678,
+                        54.599747
+                  ]
+            },
+            {
+                  "name": "Bog Shaft Engine House",
+                  "text": "The industrial ruins of an engine house once used in local mining activities.",
+                  "category": "historical",
+                  "coords": [
+                        -5.689433,
+                        54.609392
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Newtownards", hu: "Newtownards", ro: "Newtownards", en: "Newtownards" },
@@ -5547,7 +11685,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-newtownards-cities-v2.webp",
   },
   {
-    id: "ireland-omagh-cities-v2",
+    id: "ireland-omagh-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dún Uladh",
+                  "text": "Ein Zentrum für traditionelle irische Musik und Kultur in Omagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254444,
+                        54.600391
+                  ]
+            },
+            {
+                  "name": "Strule Arts Centre",
+                  "text": "Ein modernes Kunstzentrum für Ausstellungen und Aufführungen in Omagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.30331,
+                        54.600769
+                  ]
+            },
+            {
+                  "name": "Omagh Gaol",
+                  "text": "Die Ruinen des historischen Gefängnisses von Omagh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.307227,
+                        54.60292
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dún Uladh",
+                  "text": "A hagyományos ír zene és kultúra központja Omagh-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254444,
+                        54.600391
+                  ]
+            },
+            {
+                  "name": "Strule Arts Centre",
+                  "text": "Modern művészeti központ kiállításoknak és előadásoknak Omagh-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.30331,
+                        54.600769
+                  ]
+            },
+            {
+                  "name": "Omagh Gaol",
+                  "text": "Az egykori történelmi börtön romjai Omagh-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.307227,
+                        54.60292
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dún Uladh",
+                  "text": "Un centru pentru muzica și cultura tradițională irlandeză în Omagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254444,
+                        54.600391
+                  ]
+            },
+            {
+                  "name": "Strule Arts Centre",
+                  "text": "Un centru de artă modern pentru expoziții și spectacole în Omagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.30331,
+                        54.600769
+                  ]
+            },
+            {
+                  "name": "Omagh Gaol",
+                  "text": "Ruinele închisorii istorice din Omagh.",
+                  "category": "historical",
+                  "coords": [
+                        -7.307227,
+                        54.60292
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dún Uladh",
+                  "text": "A centre for traditional Irish music and culture in Omagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.254444,
+                        54.600391
+                  ]
+            },
+            {
+                  "name": "Strule Arts Centre",
+                  "text": "A modern arts centre for exhibitions and performances in Omagh.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.30331,
+                        54.600769
+                  ]
+            },
+            {
+                  "name": "Omagh Gaol",
+                  "text": "The ruins of the historic Omagh gaol.",
+                  "category": "historical",
+                  "coords": [
+                        -7.307227,
+                        54.60292
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Omagh", hu: "Omagh", ro: "Omagh", en: "Omagh" },
@@ -5817,7 +12072,412 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-rosslare-cities-v2.webp",
   },
   {
-    id: "ireland-skibbereen-cities-v2",
+    id: "ireland-skibbereen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Heritage Centre",
+                  "text": "Ein Museum in Skibbereen, das das Erbe und die lokale Geschichte der Stadt erkundet.",
+                  "category": "museum",
+                  "coords": [
+                        -9.272135,
+                        51.550964
+                  ]
+            },
+            {
+                  "name": "Coolngrane Fairy Fort",
+                  "text": "Eine alte Erdfestung in der Gegend von Skibbereen, die mit der lokalen Folklore verbunden ist.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.251565,
+                        51.563263
+                  ]
+            },
+            {
+                  "name": "Fairy Fort",
+                  "text": "Eine archäologische Stätte in Skibbereen, bestehend aus einem alten Ringfort.",
+                  "category": "historical",
+                  "coords": [
+                        -9.253518,
+                        51.549771
+                  ]
+            },
+            {
+                  "name": "Lettertinlish Castle (Ruins)",
+                  "text": "Die Ruinen einer historischen Burg in der Nähe der Stadt Skibbereen.",
+                  "category": "castle",
+                  "coords": [
+                        -9.223674,
+                        51.551938
+                  ]
+            },
+            {
+                  "name": "Rea Lios",
+                  "text": "Eine historische archäologische Stätte in Skibbereen mit alten Strukturen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.222546,
+                        51.53619
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "Die Ruinen einer traditionellen Windmühle in der Region Skibbereen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.263035,
+                        51.549611
+                  ]
+            },
+            {
+                  "name": "West Cork Arts Centre",
+                  "text": "Ein Zentrum für zeitgenössische Kunst in Skibbereen mit Ausstellungen und Workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.267582,
+                        51.54877
+                  ]
+            },
+            {
+                  "name": "Irish Sky Garden",
+                  "text": "Eine großformatige Landschaftskunstinstallation in der Nähe von Skibbereen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.254733,
+                        51.528428
+                  ]
+            },
+            {
+                  "name": "Skibbereen Town Hall",
+                  "text": "Das historische Verwaltungsgebäude und Gemeinschaftszentrum von Skibbereen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.265804,
+                        51.5493
+                  ]
+            },
+            {
+                  "name": "Abbeystrewry Church of Ireland",
+                  "text": "Eine Gebetsstätte der Church of Ireland in Skibbereen.",
+                  "category": "religious",
+                  "coords": [
+                        -9.270435,
+                        51.549148
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Cathedral",
+                  "text": "Eine markante Kathedrale, die als Gebetsstätte in Skibbereen dient.",
+                  "category": "religious",
+                  "coords": [
+                        -9.26373,
+                        51.552054
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Heritage Centre",
+                  "text": "Skibbereen-i múzeum, amely a város örökségét és helytörténetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -9.272135,
+                        51.550964
+                  ]
+            },
+            {
+                  "name": "Coolngrane Fairy Fort",
+                  "text": "Ősi földvár Skibbereen környékén, amely a helyi folklórhoz kapcsolódik.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.251565,
+                        51.563263
+                  ]
+            },
+            {
+                  "name": "Fairy Fort",
+                  "text": "Skibbereen-i régészeti lelőhely, amely egy ősi körsáncból áll.",
+                  "category": "historical",
+                  "coords": [
+                        -9.253518,
+                        51.549771
+                  ]
+            },
+            {
+                  "name": "Lettertinlish Castle (Ruins)",
+                  "text": "Egy történelmi vár romjai Skibbereen városa közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.223674,
+                        51.551938
+                  ]
+            },
+            {
+                  "name": "Rea Lios",
+                  "text": "Történelmi régészeti lelőhely Skibbereenben, ősi építményekkel.",
+                  "category": "historical",
+                  "coords": [
+                        -9.222546,
+                        51.53619
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "Egy hagyományos szélmalom romjai Skibbereen régiójában.",
+                  "category": "historical",
+                  "coords": [
+                        -9.263035,
+                        51.549611
+                  ]
+            },
+            {
+                  "name": "West Cork Arts Centre",
+                  "text": "Kortárs művészeti központ Skibbereenben, kiállításokkal és műhelyfoglalkozásokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.267582,
+                        51.54877
+                  ]
+            },
+            {
+                  "name": "Irish Sky Garden",
+                  "text": "Nagyszabású tájművészeti alkotás Skibbereen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.254733,
+                        51.528428
+                  ]
+            },
+            {
+                  "name": "Skibbereen Town Hall",
+                  "text": "Skibbereen történelmi közigazgatási épülete és közösségi központja.",
+                  "category": "historical",
+                  "coords": [
+                        -9.265804,
+                        51.5493
+                  ]
+            },
+            {
+                  "name": "Abbeystrewry Church of Ireland",
+                  "text": "Az ír egyház (Church of Ireland) temploma Skibbereenben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.270435,
+                        51.549148
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Cathedral",
+                  "text": "Jelentős katedrális és vallási helyszín Skibbereenben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.26373,
+                        51.552054
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Heritage Centre",
+                  "text": "Un muzeu în Skibbereen care explorează moștenirea și istoria locală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -9.272135,
+                        51.550964
+                  ]
+            },
+            {
+                  "name": "Coolngrane Fairy Fort",
+                  "text": "Un vechi fort de pământ în zona Skibbereen, asociat cu folclorul local.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.251565,
+                        51.563263
+                  ]
+            },
+            {
+                  "name": "Fairy Fort",
+                  "text": "Un sit arheologic în Skibbereen, constând dintr-un vechi fort circular.",
+                  "category": "historical",
+                  "coords": [
+                        -9.253518,
+                        51.549771
+                  ]
+            },
+            {
+                  "name": "Lettertinlish Castle (Ruins)",
+                  "text": "Ruinele unui castel istoric situat lângă orașul Skibbereen.",
+                  "category": "castle",
+                  "coords": [
+                        -9.223674,
+                        51.551938
+                  ]
+            },
+            {
+                  "name": "Rea Lios",
+                  "text": "Un sit arheologic istoric în Skibbereen care prezintă structuri antice.",
+                  "category": "historical",
+                  "coords": [
+                        -9.222546,
+                        51.53619
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "Ruinele unei mori de vânt tradiționale în regiunea Skibbereen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.263035,
+                        51.549611
+                  ]
+            },
+            {
+                  "name": "West Cork Arts Centre",
+                  "text": "Un centru de artă contemporană în Skibbereen care oferă expoziții și workshop-uri.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.267582,
+                        51.54877
+                  ]
+            },
+            {
+                  "name": "Irish Sky Garden",
+                  "text": "O instalație artistică peisagistică la scară largă situată lângă Skibbereen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.254733,
+                        51.528428
+                  ]
+            },
+            {
+                  "name": "Skibbereen Town Hall",
+                  "text": "Clădirea administrativă istorică și centrul comunitar din Skibbereen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.265804,
+                        51.5493
+                  ]
+            },
+            {
+                  "name": "Abbeystrewry Church of Ireland",
+                  "text": "Un lăcaș de cult al Bisericii Irlandei situat în Skibbereen.",
+                  "category": "religious",
+                  "coords": [
+                        -9.270435,
+                        51.549148
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Cathedral",
+                  "text": "O catedrală proeminentă care servește ca loc de cult în Skibbereen.",
+                  "category": "religious",
+                  "coords": [
+                        -9.26373,
+                        51.552054
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Heritage Centre",
+                  "text": "A museum in Skibbereen exploring the heritage and local history of the town.",
+                  "category": "museum",
+                  "coords": [
+                        -9.272135,
+                        51.550964
+                  ]
+            },
+            {
+                  "name": "Coolngrane Fairy Fort",
+                  "text": "An ancient earthen fort in the Skibbereen area associated with local folklore.",
+                  "category": "fortress",
+                  "coords": [
+                        -9.251565,
+                        51.563263
+                  ]
+            },
+            {
+                  "name": "Fairy Fort",
+                  "text": "An archaeological site in Skibbereen consisting of an ancient ringfort.",
+                  "category": "historical",
+                  "coords": [
+                        -9.253518,
+                        51.549771
+                  ]
+            },
+            {
+                  "name": "Lettertinlish Castle (Ruins)",
+                  "text": "The ruins of a historic castle located near the town of Skibbereen.",
+                  "category": "castle",
+                  "coords": [
+                        -9.223674,
+                        51.551938
+                  ]
+            },
+            {
+                  "name": "Rea Lios",
+                  "text": "A historic archaeological site in Skibbereen featuring ancient structures.",
+                  "category": "historical",
+                  "coords": [
+                        -9.222546,
+                        51.53619
+                  ]
+            },
+            {
+                  "name": "Windmill",
+                  "text": "The ruins of a traditional windmill in the Skibbereen region.",
+                  "category": "historical",
+                  "coords": [
+                        -9.263035,
+                        51.549611
+                  ]
+            },
+            {
+                  "name": "West Cork Arts Centre",
+                  "text": "A contemporary arts centre in Skibbereen featuring exhibitions and workshops.",
+                  "category": "cultural",
+                  "coords": [
+                        -9.267582,
+                        51.54877
+                  ]
+            },
+            {
+                  "name": "Irish Sky Garden",
+                  "text": "A large-scale landscape art installation located near Skibbereen.",
+                  "category": "landmark",
+                  "coords": [
+                        -9.254733,
+                        51.528428
+                  ]
+            },
+            {
+                  "name": "Skibbereen Town Hall",
+                  "text": "The historic administrative building and community hub of Skibbereen.",
+                  "category": "historical",
+                  "coords": [
+                        -9.265804,
+                        51.5493
+                  ]
+            },
+            {
+                  "name": "Abbeystrewry Church of Ireland",
+                  "text": "A Church of Ireland place of worship located in Skibbereen.",
+                  "category": "religious",
+                  "coords": [
+                        -9.270435,
+                        51.549148
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Cathedral",
+                  "text": "A prominent cathedral serving as a place of worship in Skibbereen.",
+                  "category": "religious",
+                  "coords": [
+                        -9.26373,
+                        51.552054
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Skibbereen", hu: "Skibbereen", ro: "Skibbereen", en: "Skibbereen" },
@@ -5907,7 +12567,124 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-strabane-cities-v2.webp",
   },
   {
-    id: "ireland-swinford-cities-v2",
+    id: "ireland-swinford-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballylahan Castle",
+                  "text": "Eine historische Burgruine in der Nähe von Swinford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.104966,
+                        53.934564
+                  ]
+            },
+            {
+                  "name": "Carranarah",
+                  "text": "Ein Berggipfel in der Region Swinford.",
+                  "category": "natural",
+                  "coords": [
+                        -9.08879,
+                        53.970541
+                  ]
+            },
+            {
+                  "name": "Burren Hill",
+                  "text": "Eine Anhöhe in der Nähe von Swinford.",
+                  "category": "natural",
+                  "coords": [
+                        -9.116702,
+                        53.94837
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballylahan Castle",
+                  "text": "Történelmi várrom Swinford közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -9.104966,
+                        53.934564
+                  ]
+            },
+            {
+                  "name": "Carranarah",
+                  "text": "Egy hegycsúcs Swinford környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -9.08879,
+                        53.970541
+                  ]
+            },
+            {
+                  "name": "Burren Hill",
+                  "text": "Egy domb Swinford közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -9.116702,
+                        53.94837
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballylahan Castle",
+                  "text": "O ruină istorică de castel situată lângă Swinford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.104966,
+                        53.934564
+                  ]
+            },
+            {
+                  "name": "Carranarah",
+                  "text": "Un vârf montan situat în regiunea Swinford.",
+                  "category": "natural",
+                  "coords": [
+                        -9.08879,
+                        53.970541
+                  ]
+            },
+            {
+                  "name": "Burren Hill",
+                  "text": "O colină situată lângă Swinford.",
+                  "category": "natural",
+                  "coords": [
+                        -9.116702,
+                        53.94837
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballylahan Castle",
+                  "text": "A historic ruined castle located near Swinford.",
+                  "category": "castle",
+                  "coords": [
+                        -9.104966,
+                        53.934564
+                  ]
+            },
+            {
+                  "name": "Carranarah",
+                  "text": "A mountain peak located in the Swinford area.",
+                  "category": "natural",
+                  "coords": [
+                        -9.08879,
+                        53.970541
+                  ]
+            },
+            {
+                  "name": "Burren Hill",
+                  "text": "A hill located near Swinford.",
+                  "category": "natural",
+                  "coords": [
+                        -9.116702,
+                        53.94837
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Swinford", hu: "Swinford", ro: "Swinford", en: "Swinford" },
@@ -5952,7 +12729,196 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-swinford-cities-v2.webp",
   },
   {
-    id: "ireland-templemore-cities-v2",
+    id: "ireland-templemore-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cloone Castle (site)",
+                  "text": "Die archäologische Stätte einer ehemaligen Burg in der Gegend von Templemore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.815408,
+                        52.778157
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Eine historische heilige Quelle in der Stadt Templemore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795607,
+                        52.769784
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Eine Kirche in Templemore, die der lokalen Religionsgemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        -7.827201,
+                        52.796841
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Eine historische Gebetsstätte in der Gegend von Templemore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.829874,
+                        52.800142
+                  ]
+            },
+            {
+                  "name": "St. John The Baptist Church",
+                  "text": "Eine dem heiligen Johannes dem Täufer gewidmete Kirche in Templemore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.790686,
+                        52.78603
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cloone Castle (site)",
+                  "text": "Egy egykori vár régészeti lelőhelye Templemore környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.815408,
+                        52.778157
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Történelmi szent forrás Templemore városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795607,
+                        52.769784
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "Templemore-i templom, amely a helyi vallási közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -7.827201,
+                        52.796841
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Történelmi vallási helyszín Templemore környékén.",
+                  "category": "religious",
+                  "coords": [
+                        -7.829874,
+                        52.800142
+                  ]
+            },
+            {
+                  "name": "St. John The Baptist Church",
+                  "text": "Keresztelő Szent Jánosnak szentelt templom Templemore-ban.",
+                  "category": "religious",
+                  "coords": [
+                        -7.790686,
+                        52.78603
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cloone Castle (site)",
+                  "text": "Situl arheologic al unui fost castel din zona Templemore.",
+                  "category": "historical",
+                  "coords": [
+                        -7.815408,
+                        52.778157
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Un izvor sfânt istoric situat în orașul Templemore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795607,
+                        52.769784
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "O biserică din Templemore care deservește comunitatea religioasă locală.",
+                  "category": "religious",
+                  "coords": [
+                        -7.827201,
+                        52.796841
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Un lăcaș de cult istoric situat în zona Templemore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.829874,
+                        52.800142
+                  ]
+            },
+            {
+                  "name": "St. John The Baptist Church",
+                  "text": "O biserică dedicată Sfântului Ioan Botezătorul în Templemore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.790686,
+                        52.78603
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cloone Castle (site)",
+                  "text": "The archaeological site of a former castle in the Templemore area.",
+                  "category": "historical",
+                  "coords": [
+                        -7.815408,
+                        52.778157
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A historic holy spring located in the town of Templemore.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795607,
+                        52.769784
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A church in Templemore serving the local religious community.",
+                  "category": "religious",
+                  "coords": [
+                        -7.827201,
+                        52.796841
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A historic place of worship located in the Templemore area.",
+                  "category": "religious",
+                  "coords": [
+                        -7.829874,
+                        52.800142
+                  ]
+            },
+            {
+                  "name": "St. John The Baptist Church",
+                  "text": "A church dedicated to Saint John the Baptist in Templemore.",
+                  "category": "religious",
+                  "coords": [
+                        -7.790686,
+                        52.78603
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Templemore", hu: "Templemore", ro: "Templemore", en: "Templemore" },
@@ -5997,7 +12963,376 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-templemore-cities-v2.webp",
   },
   {
-    id: "ireland-thurles-cities-v2",
+    id: "ireland-thurles-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Famine & War Museum",
+                  "text": "Ein Museum in Thurles, das an die Große Hungersnot erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        -7.806542,
+                        52.68035
+                  ]
+            },
+            {
+                  "name": "The Source",
+                  "text": "Ein zeitgenössisches Theater und Kulturzentrum in Thurles.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.809562,
+                        52.679375
+                  ]
+            },
+            {
+                  "name": "Lár na Páirce",
+                  "text": "Ein Museum in Thurles, das dem Erbe des gälischen Sports gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -7.813023,
+                        52.678246
+                  ]
+            },
+            {
+                  "name": "St. Mary's Famine and War Museum",
+                  "text": "Gedenkstätte und Museum zur lokalen Geschichte der Hungersnot in Thurles.",
+                  "category": "museum",
+                  "coords": [
+                        -7.803822,
+                        52.680782
+                  ]
+            },
+            {
+                  "name": "Thurles Drama Group",
+                  "text": "Ein Zentrum für lokale Theaterproduktionen und Schauspielkunst in Thurles.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.819145,
+                        52.678409
+                  ]
+            },
+            {
+                  "name": "Killahilla",
+                  "text": "Eine Stätte mit archäologischen Funden aus der Vergangenheit von Thurles.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797972,
+                        52.675661
+                  ]
+            },
+            {
+                  "name": "Brittas Castle",
+                  "text": "Die Überreste einer historischen Burgbefestigung in Thurles.",
+                  "category": "castle",
+                  "coords": [
+                        -7.814123,
+                        52.704494
+                  ]
+            },
+            {
+                  "name": "Lime kiln",
+                  "text": "Ruinen eines historischen Kalkofens, der die Industriegeschichte von Thurles zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        -7.805456,
+                        52.657894
+                  ]
+            },
+            {
+                  "name": "Manor Mills",
+                  "text": "Die Überreste historischer Mühlen in der Umgebung von Thurles.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797107,
+                        52.665067
+                  ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "Eine lokale Sehenswürdigkeit mit historischem Hintergrund in Thurles.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815218,
+                        52.679012
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Famine & War Museum",
+                  "text": "Thurles múzeuma, amely az éhínség és a háborúk emlékét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -7.806542,
+                        52.68035
+                  ]
+            },
+            {
+                  "name": "The Source",
+                  "text": "Kortárs színház és kulturális központ Thurles-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.809562,
+                        52.679375
+                  ]
+            },
+            {
+                  "name": "Lár na Páirce",
+                  "text": "A gael sportok örökségének szentelt múzeum Thurles-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -7.813023,
+                        52.678246
+                  ]
+            },
+            {
+                  "name": "St. Mary's Famine and War Museum",
+                  "text": "Emlékhely és múzeum az éhínség helyi történetéről Thurles-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -7.803822,
+                        52.680782
+                  ]
+            },
+            {
+                  "name": "Thurles Drama Group",
+                  "text": "A helyi színjátszás és drámaprodukciók központja Thurles-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.819145,
+                        52.678409
+                  ]
+            },
+            {
+                  "name": "Killahilla",
+                  "text": "Thurles múltjából származó leleteket őrző régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797972,
+                        52.675661
+                  ]
+            },
+            {
+                  "name": "Brittas Castle",
+                  "text": "Egy történelmi várerődítmény maradványai Thurles-ben.",
+                  "category": "castle",
+                  "coords": [
+                        -7.814123,
+                        52.704494
+                  ]
+            },
+            {
+                  "name": "Lime kiln",
+                  "text": "Történelmi mészégető romjai, amely Thurles ipartörténetét idézi.",
+                  "category": "historical",
+                  "coords": [
+                        -7.805456,
+                        52.657894
+                  ]
+            },
+            {
+                  "name": "Manor Mills",
+                  "text": "Történelmi malmok maradványai Thurles környékén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797107,
+                        52.665067
+                  ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "Történelmi hátterű helyi látványosság Thurles-ben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815218,
+                        52.679012
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Famine & War Museum",
+                  "text": "Un muzeu în Thurles dedicat foametei și războiului.",
+                  "category": "museum",
+                  "coords": [
+                        -7.806542,
+                        52.68035
+                  ]
+            },
+            {
+                  "name": "The Source",
+                  "text": "Un teatru contemporan și centru cultural în Thurles.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.809562,
+                        52.679375
+                  ]
+            },
+            {
+                  "name": "Lár na Páirce",
+                  "text": "Un muzeu în Thurles dedicat moștenirii sporturilor gaelice.",
+                  "category": "museum",
+                  "coords": [
+                        -7.813023,
+                        52.678246
+                  ]
+            },
+            {
+                  "name": "St. Mary's Famine and War Museum",
+                  "text": "Loc memorial și muzeu privind istoria locală a foametei în Thurles.",
+                  "category": "museum",
+                  "coords": [
+                        -7.803822,
+                        52.680782
+                  ]
+            },
+            {
+                  "name": "Thurles Drama Group",
+                  "text": "Un centru pentru producții teatrale locale și arta dramatică în Thurles.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.819145,
+                        52.678409
+                  ]
+            },
+            {
+                  "name": "Killahilla",
+                  "text": "Un sit cu descoperiri arheologice din trecutul orașului Thurles.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797972,
+                        52.675661
+                  ]
+            },
+            {
+                  "name": "Brittas Castle",
+                  "text": "Rămășițele unei fortificații istorice de tip castel în Thurles.",
+                  "category": "castle",
+                  "coords": [
+                        -7.814123,
+                        52.704494
+                  ]
+            },
+            {
+                  "name": "Lime kiln",
+                  "text": "Ruinele unui cuptor de var istoric, reflectând istoria industrială din Thurles.",
+                  "category": "historical",
+                  "coords": [
+                        -7.805456,
+                        52.657894
+                  ]
+            },
+            {
+                  "name": "Manor Mills",
+                  "text": "Rămășițele unor mori istorice în zona Thurles.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797107,
+                        52.665067
+                  ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "O atracție locală cu fundal istoric în Thurles.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815218,
+                        52.679012
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Famine & War Museum",
+                  "text": "A museum in Thurles commemorating the Great Famine and war history.",
+                  "category": "museum",
+                  "coords": [
+                        -7.806542,
+                        52.68035
+                  ]
+            },
+            {
+                  "name": "The Source",
+                  "text": "A contemporary theatre and cultural hub in Thurles.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.809562,
+                        52.679375
+                  ]
+            },
+            {
+                  "name": "Lár na Páirce",
+                  "text": "A museum in Thurles dedicated to the heritage of Gaelic games.",
+                  "category": "museum",
+                  "coords": [
+                        -7.813023,
+                        52.678246
+                  ]
+            },
+            {
+                  "name": "St. Mary's Famine and War Museum",
+                  "text": "Memorial site and museum regarding the local history of the famine in Thurles.",
+                  "category": "museum",
+                  "coords": [
+                        -7.803822,
+                        52.680782
+                  ]
+            },
+            {
+                  "name": "Thurles Drama Group",
+                  "text": "A hub for local theatrical productions and drama in Thurles.",
+                  "category": "cultural",
+                  "coords": [
+                        -7.819145,
+                        52.678409
+                  ]
+            },
+            {
+                  "name": "Killahilla",
+                  "text": "A site containing archaeological findings from Thurles's past.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797972,
+                        52.675661
+                  ]
+            },
+            {
+                  "name": "Brittas Castle",
+                  "text": "The remains of a historical castle fortification in Thurles.",
+                  "category": "castle",
+                  "coords": [
+                        -7.814123,
+                        52.704494
+                  ]
+            },
+            {
+                  "name": "Lime kiln",
+                  "text": "Ruins of a historic lime kiln reflecting Thurles's industrial past.",
+                  "category": "historical",
+                  "coords": [
+                        -7.805456,
+                        52.657894
+                  ]
+            },
+            {
+                  "name": "Manor Mills",
+                  "text": "The remains of historic mills in the Thurles area.",
+                  "category": "historical",
+                  "coords": [
+                        -7.797107,
+                        52.665067
+                  ]
+            },
+            {
+                  "name": "Black Castle",
+                  "text": "A local attraction with a historical background in Thurles.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.815218,
+                        52.679012
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Thurles", hu: "Thurles", ro: "Thurles", en: "Thurles" },
@@ -6222,7 +13557,196 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-tulla-cities-v2.webp",
   },
   {
-    id: "ireland-warrenpoint-cities-v2",
+    id: "ireland-warrenpoint-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Narrow Water Castle",
+                  "text": "Ein Turmhaus aus dem 16. Jahrhundert mit befestigtem Hof bei Warrenpoint.",
+                  "category": "castle",
+                  "coords": [
+                        -6.282616,
+                        54.114668
+                  ]
+            },
+            {
+                  "name": "Narrow Water Keep",
+                  "text": "Der historische steinerne Bergfried, der Teil des Narrow Water Castle-Komplexes ist.",
+                  "category": "castle",
+                  "coords": [
+                        -6.279742,
+                        54.111193
+                  ]
+            },
+            {
+                  "name": "Donaghaguy Rath",
+                  "text": "Ein altes Ringfort aus Erde und eine archäologische Stätte bei Warrenpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -6.257666,
+                        54.116109
+                  ]
+            },
+            {
+                  "name": "Clann MacGuinness Coronation Stone",
+                  "text": "Ein historischer Stein, der eine traditionelle Stätte von Clan-Krönungen markiert.",
+                  "category": "historical",
+                  "coords": [
+                        -6.262501,
+                        54.110325
+                  ]
+            },
+            {
+                  "name": "Rathturret",
+                  "text": "Eine historische archäologische Stätte in Warrenpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -6.235322,
+                        54.106607
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Narrow Water Castle",
+                  "text": "16. századi toronyház és várfal Warrenpoint közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -6.282616,
+                        54.114668
+                  ]
+            },
+            {
+                  "name": "Narrow Water Keep",
+                  "text": "A Narrow Water Castle épületegyüttes részét képező történelmi kőtorony.",
+                  "category": "castle",
+                  "coords": [
+                        -6.279742,
+                        54.111193
+                  ]
+            },
+            {
+                  "name": "Donaghaguy Rath",
+                  "text": "Ősi földvár és régészeti lelőhely Warrenpoint közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -6.257666,
+                        54.116109
+                  ]
+            },
+            {
+                  "name": "Clann MacGuinness Coronation Stone",
+                  "text": "Történelmi kő, amely a kláni koronázások hagyományos helyszínét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        -6.262501,
+                        54.110325
+                  ]
+            },
+            {
+                  "name": "Rathturret",
+                  "text": "Történelmi régészeti lelőhely Warrenpoint településén.",
+                  "category": "historical",
+                  "coords": [
+                        -6.235322,
+                        54.106607
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Narrow Water Castle",
+                  "text": "O casă-turn din secolul al XVI-lea cu o curte fortificată, situată lângă Warrenpoint.",
+                  "category": "castle",
+                  "coords": [
+                        -6.282616,
+                        54.114668
+                  ]
+            },
+            {
+                  "name": "Narrow Water Keep",
+                  "text": "Turnul de piatră istoric care face parte din complexul Castelului Narrow Water.",
+                  "category": "castle",
+                  "coords": [
+                        -6.279742,
+                        54.111193
+                  ]
+            },
+            {
+                  "name": "Donaghaguy Rath",
+                  "text": "Un vechi fort circular de pământ și sit arheologic lângă Warrenpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -6.257666,
+                        54.116109
+                  ]
+            },
+            {
+                  "name": "Clann MacGuinness Coronation Stone",
+                  "text": "O piatră istorică ce marchează un loc tradițional de încoronare a clanurilor.",
+                  "category": "historical",
+                  "coords": [
+                        -6.262501,
+                        54.110325
+                  ]
+            },
+            {
+                  "name": "Rathturret",
+                  "text": "Un sit arheologic istoric situat în Warrenpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -6.235322,
+                        54.106607
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Narrow Water Castle",
+                  "text": "A 16th-century tower house and bawn located near Warrenpoint.",
+                  "category": "castle",
+                  "coords": [
+                        -6.282616,
+                        54.114668
+                  ]
+            },
+            {
+                  "name": "Narrow Water Keep",
+                  "text": "The historic stone keep that is part of the Narrow Water Castle complex.",
+                  "category": "castle",
+                  "coords": [
+                        -6.279742,
+                        54.111193
+                  ]
+            },
+            {
+                  "name": "Donaghaguy Rath",
+                  "text": "An ancient earthen ringfort and archaeological site near Warrenpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -6.257666,
+                        54.116109
+                  ]
+            },
+            {
+                  "name": "Clann MacGuinness Coronation Stone",
+                  "text": "A historic stone marking a traditional site of clan coronations.",
+                  "category": "historical",
+                  "coords": [
+                        -6.262501,
+                        54.110325
+                  ]
+            },
+            {
+                  "name": "Rathturret",
+                  "text": "A historic archaeological site located in Warrenpoint.",
+                  "category": "historical",
+                  "coords": [
+                        -6.235322,
+                        54.106607
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Warrenpoint", hu: "Warrenpoint", ro: "Warrenpoint", en: "Warrenpoint" },
@@ -6789,7 +14313,196 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-youghal-cities-v2.webp",
   },
   {
-    id: "ireland-abbeyleix-cities-v2",
+    id: "ireland-abbeyleix-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "Ein Museum, das die Geschichte und das Erbe von Abbeyleix zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "Eine archäologische Ausgrabungsstätte in Abbeyleix.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "Eine Kunstgalerie in Abbeyleix.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "Eine christliche Kirche in Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "Ein Ort der Anbetung in Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "Abbeyleix történelmét és örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "Régészeti lelőhely Abbeyleix területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "Egy művészeti galéria Abbeyleixben.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "Keresztény templom Abbeyleixben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "Vallási helyszín Abbeyleix városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "Un muzeu care prezintă istoria și patrimoniul local din Abbeyleix.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "Un sit arheologic situat în Abbeyleix.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "O galerie de artă situată în Abbeyleix.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "O biserică creștină situată în Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "Un lăcaș de cult situat în Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbeyleix Heritage Centre",
+                  "text": "A museum showcasing the history and heritage of Abbeyleix.",
+                  "category": "museum",
+                  "coords": [
+                        -7.34618,
+                        52.917478
+                  ]
+            },
+            {
+                  "name": "Mount Thomas",
+                  "text": "An archaeological site located in Abbeyleix.",
+                  "category": "historical",
+                  "coords": [
+                        -7.387678,
+                        52.916113
+                  ]
+            },
+            {
+                  "name": "Bramley",
+                  "text": "An art gallery located in Abbeyleix.",
+                  "category": "museum",
+                  "coords": [
+                        -7.349137,
+                        52.912987
+                  ]
+            },
+            {
+                  "name": "Saint Michael and All Angels' Church",
+                  "text": "A Christian church located in Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.354695,
+                        52.910456
+                  ]
+            },
+            {
+                  "name": "Church of the Most Holy Rosary",
+                  "text": "A place of worship located in Abbeyleix.",
+                  "category": "religious",
+                  "coords": [
+                        -7.345847,
+                        52.914668
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Abbeyleix", hu: "Abbeyleix", ro: "Abbeyleix", en: "Abbeyleix" },
@@ -7095,7 +14808,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-ballybunion-cities-v2.webp",
   },
   {
-    id: "ireland-ballymoney-cities-v2",
+    id: "ireland-ballymoney-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ballymoney Museum",
+                  "text": "Ein Museum, das die lokale Geschichte und das Erbe von Ballymoney zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.518332,
+                        55.071676
+                  ]
+            },
+            {
+                  "name": "The Village Gallery",
+                  "text": "Eine Galerie in Ballymoney, die Kunstwerke der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.549244,
+                        55.04793
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ballymoney Museum",
+                  "text": "Ballymoney helyi történetét és örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -6.518332,
+                        55.071676
+                  ]
+            },
+            {
+                  "name": "The Village Gallery",
+                  "text": "Galéria Ballymoney-ban, amely a régió műalkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -6.549244,
+                        55.04793
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ballymoney Museum",
+                  "text": "Un muzeu care prezintă istoria locală și moștenirea din Ballymoney.",
+                  "category": "museum",
+                  "coords": [
+                        -6.518332,
+                        55.071676
+                  ]
+            },
+            {
+                  "name": "The Village Gallery",
+                  "text": "O galerie în Ballymoney care expune opere de artă din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -6.549244,
+                        55.04793
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ballymoney Museum",
+                  "text": "A museum showcasing the local history and heritage of Ballymoney.",
+                  "category": "museum",
+                  "coords": [
+                        -6.518332,
+                        55.071676
+                  ]
+            },
+            {
+                  "name": "The Village Gallery",
+                  "text": "A gallery in Ballymoney exhibiting artworks from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -6.549244,
+                        55.04793
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "IE",
     name: { de: "Ballymoney", hu: "Ballymoney", ro: "Ballymoney", en: "Ballymoney" },
@@ -7140,7 +14934,232 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-ballymoney-cities-v2.webp",
   },
   {
-    id: "ireland-banagher-cities-v2",
+    id: "ireland-banagher-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cromwell's Castle",
+                  "text": "Eine historische Festung in Banagher.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.993992,
+                        53.193942
+                  ]
+            },
+            {
+                  "name": "Fort Eliza",
+                  "text": "Die Überreste einer Verteidigungsanlage in Banagher.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996135,
+                        53.190585
+                  ]
+            },
+            {
+                  "name": "Banagher Marina",
+                  "text": "Ein Jachthafen am Fluss Shannon in Banagher.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989488,
+                        53.194169
+                  ]
+            },
+            {
+                  "name": "Fort Falkland",
+                  "text": "Historische Ruinen einer Befestigung in Banagher.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991719,
+                        53.192094
+                  ]
+            },
+            {
+                  "name": "Lusmagh Church",
+                  "text": "Eine Kirche im ländlichen Gebiet von Lusmagh bei Banagher.",
+                  "category": "religious",
+                  "coords": [
+                        -8.020451,
+                        53.172659
+                  ]
+            },
+            {
+                  "name": "St. Rynagh’s Church",
+                  "text": "Ein religiöses Bauwerk in Banagher.",
+                  "category": "religious",
+                  "coords": [
+                        -7.981269,
+                        53.186318
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cromwell's Castle",
+                  "text": "Történelmi erődítmény Banagherben.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.993992,
+                        53.193942
+                  ]
+            },
+            {
+                  "name": "Fort Eliza",
+                  "text": "Egy egykori védelmi építmény romjai Banagherben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996135,
+                        53.190585
+                  ]
+            },
+            {
+                  "name": "Banagher Marina",
+                  "text": "Kikötő a Shannon folyón Banagherben.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989488,
+                        53.194169
+                  ]
+            },
+            {
+                  "name": "Fort Falkland",
+                  "text": "Egy erődítmény történelmi romjai Banagherben.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991719,
+                        53.192094
+                  ]
+            },
+            {
+                  "name": "Lusmagh Church",
+                  "text": "Templom a Banagher melletti Lusmagh vidéki területén.",
+                  "category": "religious",
+                  "coords": [
+                        -8.020451,
+                        53.172659
+                  ]
+            },
+            {
+                  "name": "St. Rynagh’s Church",
+                  "text": "Vallási épület Banagherben.",
+                  "category": "religious",
+                  "coords": [
+                        -7.981269,
+                        53.186318
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cromwell's Castle",
+                  "text": "O fortăreață istorică situată în Banagher.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.993992,
+                        53.193942
+                  ]
+            },
+            {
+                  "name": "Fort Eliza",
+                  "text": "Ruinele unei vechi fortificații în Banagher.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996135,
+                        53.190585
+                  ]
+            },
+            {
+                  "name": "Banagher Marina",
+                  "text": "Un port de agrement pe râul Shannon în Banagher.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989488,
+                        53.194169
+                  ]
+            },
+            {
+                  "name": "Fort Falkland",
+                  "text": "Ruinele istorice ale unei fortificații din Banagher.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991719,
+                        53.192094
+                  ]
+            },
+            {
+                  "name": "Lusmagh Church",
+                  "text": "O biserică situată în zona rurală Lusmagh de lângă Banagher.",
+                  "category": "religious",
+                  "coords": [
+                        -8.020451,
+                        53.172659
+                  ]
+            },
+            {
+                  "name": "St. Rynagh’s Church",
+                  "text": "Un lăcaș de cult situat în Banagher.",
+                  "category": "religious",
+                  "coords": [
+                        -7.981269,
+                        53.186318
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cromwell's Castle",
+                  "text": "A historic fortification located in Banagher.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.993992,
+                        53.193942
+                  ]
+            },
+            {
+                  "name": "Fort Eliza",
+                  "text": "The ruins of a defensive fortification in Banagher.",
+                  "category": "historical",
+                  "coords": [
+                        -7.996135,
+                        53.190585
+                  ]
+            },
+            {
+                  "name": "Banagher Marina",
+                  "text": "A marina located on the River Shannon in Banagher.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.989488,
+                        53.194169
+                  ]
+            },
+            {
+                  "name": "Fort Falkland",
+                  "text": "Historic ruins of a fortification in Banagher.",
+                  "category": "historical",
+                  "coords": [
+                        -7.991719,
+                        53.192094
+                  ]
+            },
+            {
+                  "name": "Lusmagh Church",
+                  "text": "A church located in the rural Lusmagh area near Banagher.",
+                  "category": "religious",
+                  "coords": [
+                        -8.020451,
+                        53.172659
+                  ]
+            },
+            {
+                  "name": "St. Rynagh’s Church",
+                  "text": "A religious building located in Banagher.",
+                  "category": "religious",
+                  "coords": [
+                        -7.981269,
+                        53.186318
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Banagher", hu: "Banagher", ro: "Banagher", en: "Banagher" },
@@ -7222,6 +15241,69 @@ export const irelandCitiesV2: POI[] = [
                         -7.477271,
                         55.144559
                   ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "Eine napoleonische Festung aus dem 19. Jahrhundert in Buncrana.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "Ein historisches Schloss aus dem Jahr 1718 in Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "Ein befestigter Wohnturm aus dem 14. Jahrhundert in Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Eine antike Grabstätte oder archäologische Stätte in Buncrana.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "Ein lokaler Berggipfel mit Aussicht in Buncrana.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Eine christliche Kirche und Gebetsstätte in Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "Ein katholisches Oratorium und Gebetsstätte in Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
+                  ]
             }
       ],
       "hu": [
@@ -7259,6 +15341,69 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.477271,
                         55.144559
+                  ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "19. századi napóleoni erőd Buncrana városában.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "1718-ban épült történelmi kastély Buncrana városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "14. századi lakótorony Buncrana területén.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Ősi temetkezési hely vagy régészeti lelőhely Buncrana területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "Helyi hegycsúcs kilátással Buncrana környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Keresztény templom és istentiszteleti hely Buncrana városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "Katolikus oratórium és istentiszteleti hely Buncrana városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
                   ]
             }
       ],
@@ -7298,6 +15443,69 @@ export const irelandCitiesV2: POI[] = [
                         -7.477271,
                         55.144559
                   ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "O fortăreață napoleoniană din secolul al XIX-lea în Buncrana.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "Un castel istoric construit în 1718 în Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "Un turn fortificat din secolul al XIV-lea în Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "Un sit arheologic sau mormânt antic în Buncrana.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "Un vârf montan local cu vedere în Buncrana.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "O biserică creștină și loc de cult în Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "Un oratoriu catolic și loc de cult în Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
+                  ]
             }
       ],
       "en": [
@@ -7335,6 +15543,69 @@ export const irelandCitiesV2: POI[] = [
                   "coords": [
                         -7.477271,
                         55.144559
+                  ]
+            },
+            {
+                  "name": "Neds Point Fort",
+                  "text": "A 19th-century Napoleonic fort located in Buncrana.",
+                  "category": "fortress",
+                  "coords": [
+                        -7.474693,
+                        55.141126
+                  ]
+            },
+            {
+                  "name": "Buncrana Castle",
+                  "text": "A historic castle built in 1718 in Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.464125,
+                        55.139637
+                  ]
+            },
+            {
+                  "name": "O'Doherty's Keep",
+                  "text": "A 14th-century keep located in Buncrana.",
+                  "category": "castle",
+                  "coords": [
+                        -7.462777,
+                        55.139804
+                  ]
+            },
+            {
+                  "name": "Dermot & Grania's Bed",
+                  "text": "An ancient burial site or archaeological site in Buncrana.",
+                  "category": "historical",
+                  "coords": [
+                        -7.439063,
+                        55.114054
+                  ]
+            },
+            {
+                  "name": "Mouldy Hill",
+                  "text": "A local mountain peak with views in Buncrana.",
+                  "category": "natural",
+                  "coords": [
+                        -7.446171,
+                        55.106088
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A Christian church and place of worship in Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.453916,
+                        55.134732
+                  ]
+            },
+            {
+                  "name": "St Mary's Oratory",
+                  "text": "A Catholic oratory and place of worship in Buncrana.",
+                  "category": "religious",
+                  "coords": [
+                        -7.455958,
+                        55.133374
                   ]
             }
       ]
@@ -7518,7 +15789,88 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-castlewellan-cities-v2.webp",
   },
   {
-    id: "ireland-charleville-cities-v2",
+    id: "ireland-charleville-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "The Schoolyard Theatre",
+                  "text": "Ein lokales Theater und Veranstaltungsort für darstellende Künste in Charleville.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.683218,
+                        52.357864
+                  ]
+            },
+            {
+                  "name": "Ballyhay Church",
+                  "text": "Die historischen Ruinen einer alten Kirche in der Nähe von Charleville.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659452,
+                        52.328216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "The Schoolyard Theatre",
+                  "text": "Helyi előadó-művészeti központ és színház Charleville-ben.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.683218,
+                        52.357864
+                  ]
+            },
+            {
+                  "name": "Ballyhay Church",
+                  "text": "Egy régi templom történelmi romjai Charleville közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659452,
+                        52.328216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "The Schoolyard Theatre",
+                  "text": "Un teatru local și loc de desfășurare a artelor spectacolului situat în Charleville.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.683218,
+                        52.357864
+                  ]
+            },
+            {
+                  "name": "Ballyhay Church",
+                  "text": "Ruinele istorice ale unei vechi biserici situate lângă Charleville.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659452,
+                        52.328216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The Schoolyard Theatre",
+                  "text": "A local performing arts venue and theatre located in Charleville.",
+                  "category": "cultural",
+                  "coords": [
+                        -8.683218,
+                        52.357864
+                  ]
+            },
+            {
+                  "name": "Ballyhay Church",
+                  "text": "The historic ruins of an old church situated near Charleville.",
+                  "category": "historical",
+                  "coords": [
+                        -8.659452,
+                        52.328216
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Charleville", hu: "Charleville", ro: "Charleville", en: "Charleville" },
@@ -7608,7 +15960,340 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-clara-cities-v2.webp",
   },
   {
-    id: "ireland-clifden-cities-v2",
+    id: "ireland-clifden-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Abbeyglen Castle Hotel",
+                  "text": "Ein luxuriöses Schlosshotel in Clifden.",
+                  "category": "castle",
+                  "coords": [
+                        -10.031671,
+                        53.488269
+                  ]
+            },
+            {
+                  "name": "Station House Museum",
+                  "text": "Ein Museum im ehemaligen Bahnhofsgebäude von Clifden.",
+                  "category": "museum",
+                  "coords": [
+                        -10.018149,
+                        53.488366
+                  ]
+            },
+            {
+                  "name": "Letterdeen Standing Stone",
+                  "text": "Ein prähistorischer Menhir in der Nähe von Clifden.",
+                  "category": "historical",
+                  "coords": [
+                        -10.040639,
+                        53.506127
+                  ]
+            },
+            {
+                  "name": "Clifden Castle",
+                  "text": "Ein neugotisches Herrenhaus aus dem 19. Jahrhundert in Trümmern bei Clifden.",
+                  "category": "castle",
+                  "coords": [
+                        -10.056696,
+                        53.491775
+                  ]
+            },
+            {
+                  "name": "Station House Theatre",
+                  "text": "Ein lokaler Veranstaltungsort für Theateraufführungen in Clifden.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.017055,
+                        53.488377
+                  ]
+            },
+            {
+                  "name": "The Whitehorn Gallery",
+                  "text": "Eine Kunstgalerie, die lokale Werke in Clifden ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -10.021029,
+                        53.489076
+                  ]
+            },
+            {
+                  "name": "Monument Hill",
+                  "text": "Ein Denkmal auf einem Hügel mit Blick auf Clifden.",
+                  "category": "historical",
+                  "coords": [
+                        -10.032849,
+                        53.486998
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Eine historische anglikanische Kirche in Clifden.",
+                  "category": "religious",
+                  "coords": [
+                        -10.024449,
+                        53.488945
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "Eine katholische Kirche und Gebetsstätte in Clifden.",
+                  "category": "religious",
+                  "coords": [
+                        -10.019377,
+                        53.489647
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Abbeyglen Castle Hotel",
+                  "text": "Luxus kastélyszálló Clifden városában.",
+                  "category": "castle",
+                  "coords": [
+                        -10.031671,
+                        53.488269
+                  ]
+            },
+            {
+                  "name": "Station House Museum",
+                  "text": "Clifden egykori vasútállomásának épületében berendezett múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -10.018149,
+                        53.488366
+                  ]
+            },
+            {
+                  "name": "Letterdeen Standing Stone",
+                  "text": "Prehisztorikus állókő Clifden közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -10.040639,
+                        53.506127
+                  ]
+            },
+            {
+                  "name": "Clifden Castle",
+                  "text": "19. századi neogótikus udvarház romjai Clifden mellett.",
+                  "category": "castle",
+                  "coords": [
+                        -10.056696,
+                        53.491775
+                  ]
+            },
+            {
+                  "name": "Station House Theatre",
+                  "text": "Helyi színházi előadások helyszíne Clifden városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.017055,
+                        53.488377
+                  ]
+            },
+            {
+                  "name": "The Whitehorn Gallery",
+                  "text": "Helyi alkotásokat bemutató művészeti galéria Clifdenben.",
+                  "category": "museum",
+                  "coords": [
+                        -10.021029,
+                        53.489076
+                  ]
+            },
+            {
+                  "name": "Monument Hill",
+                  "text": "Emlékmű egy dombtetőn, kilátással Clifden városára.",
+                  "category": "historical",
+                  "coords": [
+                        -10.032849,
+                        53.486998
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "Történelmi anglikán templom Clifden városában.",
+                  "category": "religious",
+                  "coords": [
+                        -10.024449,
+                        53.488945
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "Katolikus templom és istentiszteleti hely Clifden városában.",
+                  "category": "religious",
+                  "coords": [
+                        -10.019377,
+                        53.489647
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Abbeyglen Castle Hotel",
+                  "text": "Un hotel de lux într-un castel din Clifden.",
+                  "category": "castle",
+                  "coords": [
+                        -10.031671,
+                        53.488269
+                  ]
+            },
+            {
+                  "name": "Station House Museum",
+                  "text": "Un muzeu situat în fosta clădire a gării din Clifden.",
+                  "category": "museum",
+                  "coords": [
+                        -10.018149,
+                        53.488366
+                  ]
+            },
+            {
+                  "name": "Letterdeen Standing Stone",
+                  "text": "O piatră preistorică ridicată lângă Clifden.",
+                  "category": "historical",
+                  "coords": [
+                        -10.040639,
+                        53.506127
+                  ]
+            },
+            {
+                  "name": "Clifden Castle",
+                  "text": "Ruinele unui conac neogotic din secolul al XIX-lea lângă Clifden.",
+                  "category": "castle",
+                  "coords": [
+                        -10.056696,
+                        53.491775
+                  ]
+            },
+            {
+                  "name": "Station House Theatre",
+                  "text": "Un loc local pentru spectacole de teatru în Clifden.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.017055,
+                        53.488377
+                  ]
+            },
+            {
+                  "name": "The Whitehorn Gallery",
+                  "text": "O galerie de artă care expune lucrări locale în Clifden.",
+                  "category": "museum",
+                  "coords": [
+                        -10.021029,
+                        53.489076
+                  ]
+            },
+            {
+                  "name": "Monument Hill",
+                  "text": "Un monument pe un deal cu vedere spre Clifden.",
+                  "category": "historical",
+                  "coords": [
+                        -10.032849,
+                        53.486998
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "O biserică anglicană istorică în Clifden.",
+                  "category": "religious",
+                  "coords": [
+                        -10.024449,
+                        53.488945
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "O biserică catolică și loc de cult în Clifden.",
+                  "category": "religious",
+                  "coords": [
+                        -10.019377,
+                        53.489647
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Abbeyglen Castle Hotel",
+                  "text": "A luxury castle hotel located in Clifden.",
+                  "category": "castle",
+                  "coords": [
+                        -10.031671,
+                        53.488269
+                  ]
+            },
+            {
+                  "name": "Station House Museum",
+                  "text": "A museum housed in the old railway station building of Clifden.",
+                  "category": "museum",
+                  "coords": [
+                        -10.018149,
+                        53.488366
+                  ]
+            },
+            {
+                  "name": "Letterdeen Standing Stone",
+                  "text": "A prehistoric standing stone located near Clifden.",
+                  "category": "historical",
+                  "coords": [
+                        -10.040639,
+                        53.506127
+                  ]
+            },
+            {
+                  "name": "Clifden Castle",
+                  "text": "The ruins of a 19th-century Gothic Revival manor house near Clifden.",
+                  "category": "castle",
+                  "coords": [
+                        -10.056696,
+                        53.491775
+                  ]
+            },
+            {
+                  "name": "Station House Theatre",
+                  "text": "A local venue for theatrical performances in Clifden.",
+                  "category": "cultural",
+                  "coords": [
+                        -10.017055,
+                        53.488377
+                  ]
+            },
+            {
+                  "name": "The Whitehorn Gallery",
+                  "text": "An art gallery exhibiting local works in Clifden.",
+                  "category": "museum",
+                  "coords": [
+                        -10.021029,
+                        53.489076
+                  ]
+            },
+            {
+                  "name": "Monument Hill",
+                  "text": "A monument on a hill overlooking Clifden.",
+                  "category": "historical",
+                  "coords": [
+                        -10.032849,
+                        53.486998
+                  ]
+            },
+            {
+                  "name": "Christ Church",
+                  "text": "A historic Anglican church in Clifden.",
+                  "category": "religious",
+                  "coords": [
+                        -10.024449,
+                        53.488945
+                  ]
+            },
+            {
+                  "name": "St. Joseph's",
+                  "text": "A Catholic church and place of worship in Clifden.",
+                  "category": "religious",
+                  "coords": [
+                        -10.019377,
+                        53.489647
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Clifden", hu: "Clifden", ro: "Clifden", en: "Clifden" },
@@ -7653,7 +16338,196 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-clifden-cities-v2.webp",
   },
   {
-    id: "ireland-donaghadee-cities-v2",
+    id: "ireland-donaghadee-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Donaghadee Lighthouse",
+                  "text": "Ein markanter Leuchtturm aus dem 19. Jahrhundert, der den Hafen von Donaghadee kennzeichnet.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.530921,
+                        54.645047
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "Eine historische Motte und archäologische Stätte mit Blick über Donaghadee.",
+                  "category": "historical",
+                  "coords": [
+                        -5.540606,
+                        54.64396
+                  ]
+            },
+            {
+                  "name": "Store House",
+                  "text": "Ein Museum in Donaghadee, das der lokalen Geschichte und dem Erbe gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -5.555682,
+                        54.607463
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "Die Ruinen einer Eisenbahnbrücke der Belfast and County Down Railway.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531514,
+                        54.635924
+                  ]
+            },
+            {
+                  "name": "BCDR Crane",
+                  "text": "Ein historischer Eisenbahnkran, der als Denkmal in Donaghadee erhalten ist.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531986,
+                        54.643692
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Donaghadee Lighthouse",
+                  "text": "Egy jellegzetes 19. századi világítótorony, amely Donaghadee kikötőjét jelzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.530921,
+                        54.645047
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "Történelmi várhalom és régészeti lelőhely, amely kilátást nyújt Donaghadee-ra.",
+                  "category": "historical",
+                  "coords": [
+                        -5.540606,
+                        54.64396
+                  ]
+            },
+            {
+                  "name": "Store House",
+                  "text": "A helyi történelemnek és örökségnek szentelt múzeum Donaghadee-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -5.555682,
+                        54.607463
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "A Belfast and County Down Railway egykori vasúti hídjának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531514,
+                        54.635924
+                  ]
+            },
+            {
+                  "name": "BCDR Crane",
+                  "text": "Történelmi vasúti daru, amely emlékműként maradt fenn Donaghadee-ben.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531986,
+                        54.643692
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Donaghadee Lighthouse",
+                  "text": "Un far iconic din secolul al XIX-lea care marchează portul din Donaghadee.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.530921,
+                        54.645047
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "O movilă istorică și sit arheologic care oferă vedere panoramică asupra Donaghadee.",
+                  "category": "historical",
+                  "coords": [
+                        -5.540606,
+                        54.64396
+                  ]
+            },
+            {
+                  "name": "Store House",
+                  "text": "Un muzeu dedicat istoriei și patrimoniului local din Donaghadee.",
+                  "category": "museum",
+                  "coords": [
+                        -5.555682,
+                        54.607463
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "Ruinele unui pod feroviar care a aparținut căii ferate Belfast and County Down Railway.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531514,
+                        54.635924
+                  ]
+            },
+            {
+                  "name": "BCDR Crane",
+                  "text": "O macara feroviară istorică păstrată ca monument în Donaghadee.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531986,
+                        54.643692
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Donaghadee Lighthouse",
+                  "text": "An iconic nineteenth-century lighthouse marking the harbor in Donaghadee.",
+                  "category": "landmark",
+                  "coords": [
+                        -5.530921,
+                        54.645047
+                  ]
+            },
+            {
+                  "name": "The Moat",
+                  "text": "A historic motte and archaeological site offering views over Donaghadee.",
+                  "category": "historical",
+                  "coords": [
+                        -5.540606,
+                        54.64396
+                  ]
+            },
+            {
+                  "name": "Store House",
+                  "text": "A museum dedicated to local history and heritage in Donaghadee.",
+                  "category": "museum",
+                  "coords": [
+                        -5.555682,
+                        54.607463
+                  ]
+            },
+            {
+                  "name": "BCDR Railway Bridge",
+                  "text": "The ruins of a railway bridge belonging to the Belfast and County Down Railway.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531514,
+                        54.635924
+                  ]
+            },
+            {
+                  "name": "BCDR Crane",
+                  "text": "A historic railway crane preserved as a monument in Donaghadee.",
+                  "category": "historical",
+                  "coords": [
+                        -5.531986,
+                        54.643692
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Donaghadee", hu: "Donaghadee", ro: "Donaghadee", en: "Donaghadee" },
@@ -7743,7 +16617,160 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-dungloe-cities-v2.webp",
   },
   {
-    id: "ireland-dunmanway-cities-v2",
+    id: "ireland-dunmanway-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Mohona Enclosure",
+                  "text": "Eine antike archäologische Einfriedung in Dunmanway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.10154,
+                        51.699925
+                  ]
+            },
+            {
+                  "name": "Mount Gunnery",
+                  "text": "Ein lokaler Berggipfel in der Gegend von Dunmanway.",
+                  "category": "natural",
+                  "coords": [
+                        -9.115385,
+                        51.743175
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Eine christliche Kirche in Dunmanway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.110371,
+                        51.72218
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Eine dem heiligen Patrick geweihte Kirche in Dunmanway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.105062,
+                        51.726352
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Mohona Enclosure",
+                  "text": "Ősi régészeti bekerített terület Dunmanway településén.",
+                  "category": "historical",
+                  "coords": [
+                        -9.10154,
+                        51.699925
+                  ]
+            },
+            {
+                  "name": "Mount Gunnery",
+                  "text": "Helyi hegycsúcs Dunmanway környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -9.115385,
+                        51.743175
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "Keresztény templom Dunmanway településén.",
+                  "category": "religious",
+                  "coords": [
+                        -9.110371,
+                        51.72218
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "Szent Patrik tiszteletére szentelt templom Dunmanway-ben.",
+                  "category": "religious",
+                  "coords": [
+                        -9.105062,
+                        51.726352
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Mohona Enclosure",
+                  "text": "O incintă arheologică antică în Dunmanway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.10154,
+                        51.699925
+                  ]
+            },
+            {
+                  "name": "Mount Gunnery",
+                  "text": "Un vârf montan local în zona Dunmanway.",
+                  "category": "natural",
+                  "coords": [
+                        -9.115385,
+                        51.743175
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "O biserică creștină în Dunmanway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.110371,
+                        51.72218
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "O biserică dedicată Sfântului Patrick în Dunmanway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.105062,
+                        51.726352
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Mohona Enclosure",
+                  "text": "An ancient archaeological enclosure in Dunmanway.",
+                  "category": "historical",
+                  "coords": [
+                        -9.10154,
+                        51.699925
+                  ]
+            },
+            {
+                  "name": "Mount Gunnery",
+                  "text": "A local mountain peak in the Dunmanway area.",
+                  "category": "natural",
+                  "coords": [
+                        -9.115385,
+                        51.743175
+                  ]
+            },
+            {
+                  "name": "St. Mary's Church",
+                  "text": "A Christian church in Dunmanway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.110371,
+                        51.72218
+                  ]
+            },
+            {
+                  "name": "St. Patrick's Church",
+                  "text": "A church dedicated to St. Patrick in Dunmanway.",
+                  "category": "religious",
+                  "coords": [
+                        -9.105062,
+                        51.726352
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Dunmanway", hu: "Dunmanway", ro: "Dunmanway", en: "Dunmanway" },
@@ -8193,7 +17220,412 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-muin-bheag-cities-v2.webp",
   },
   {
-    id: "ireland-new-ross-cities-v2",
+    id: "ireland-new-ross-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "St. Michael's Theatre",
+                  "text": "Ein Zentrum für darstellende Künste in New Ross.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.945319,
+                        52.394193
+                  ]
+            },
+            {
+                  "name": "Friary",
+                  "text": "Überreste einer historischen Klosteranlage in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.947265,
+                        52.392207
+                  ]
+            },
+            {
+                  "name": "Annaghs Castle",
+                  "text": "Eine historische Burgruine in der Nähe von New Ross.",
+                  "category": "castle",
+                  "coords": [
+                        -6.967245,
+                        52.374147
+                  ]
+            },
+            {
+                  "name": "Camlin Hill",
+                  "text": "Ein lokaler Hügel oder Gipfel bei New Ross.",
+                  "category": "natural",
+                  "coords": [
+                        -6.955127,
+                        52.369999
+                  ]
+            },
+            {
+                  "name": "Daubney Fountain",
+                  "text": "Ein dekorativer Brunnen und Denkmal in New Ross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.949625,
+                        52.391093
+                  ]
+            },
+            {
+                  "name": "Ros Tapestry Exhibition",
+                  "text": "Eine Galerie, die großformatige Wandteppiche zur irischen Geschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -6.947494,
+                        52.393405
+                  ]
+            },
+            {
+                  "name": "Mountgarrett Castle",
+                  "text": "Die Ruinen einer mittelalterlichen Burg in New Ross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.935068,
+                        52.411975
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Eine historische Kirche, die der Heiligen Maria gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        -6.940867,
+                        52.396239
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary and St. Michael",
+                  "text": "Ein religiöses Gebäude und Gebetsstätte in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.943629,
+                        52.392698
+                  ]
+            },
+            {
+                  "name": "Augustinian Church",
+                  "text": "Eine Kirche der Augustiner in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.942544,
+                        52.396
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Eine katholische Marienkirche in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.953958,
+                        52.398245
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "St. Michael's Theatre",
+                  "text": "Előadóművészeti központ New Ross városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.945319,
+                        52.394193
+                  ]
+            },
+            {
+                  "name": "Friary",
+                  "text": "Történelmi kolostoregyüttes maradványai New Rossban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.947265,
+                        52.392207
+                  ]
+            },
+            {
+                  "name": "Annaghs Castle",
+                  "text": "Történelmi várkastély romja New Ross közelében.",
+                  "category": "castle",
+                  "coords": [
+                        -6.967245,
+                        52.374147
+                  ]
+            },
+            {
+                  "name": "Camlin Hill",
+                  "text": "Helyi domb vagy csúcs New Ross mellett.",
+                  "category": "natural",
+                  "coords": [
+                        -6.955127,
+                        52.369999
+                  ]
+            },
+            {
+                  "name": "Daubney Fountain",
+                  "text": "Díszes szökőkút és emlékmű New Ross városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.949625,
+                        52.391093
+                  ]
+            },
+            {
+                  "name": "Ros Tapestry Exhibition",
+                  "text": "Írország történelmét bemutató nagyméretű falikárpitok kiállítása.",
+                  "category": "museum",
+                  "coords": [
+                        -6.947494,
+                        52.393405
+                  ]
+            },
+            {
+                  "name": "Mountgarrett Castle",
+                  "text": "Középkori várrom New Ross városában.",
+                  "category": "historical",
+                  "coords": [
+                        -6.935068,
+                        52.411975
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "Szűz Máriának szentelt történelmi templom.",
+                  "category": "religious",
+                  "coords": [
+                        -6.940867,
+                        52.396239
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary and St. Michael",
+                  "text": "Vallási épület és istentiszteleti hely New Rossban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.943629,
+                        52.392698
+                  ]
+            },
+            {
+                  "name": "Augustinian Church",
+                  "text": "Ágoston-rendi templom New Ross városában.",
+                  "category": "religious",
+                  "coords": [
+                        -6.942544,
+                        52.396
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "Mária mennybevétele katolikus templom New Rossban.",
+                  "category": "religious",
+                  "coords": [
+                        -6.953958,
+                        52.398245
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "St. Michael's Theatre",
+                  "text": "Un centru pentru artele spectacolului în New Ross.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.945319,
+                        52.394193
+                  ]
+            },
+            {
+                  "name": "Friary",
+                  "text": "Rămășițele unei mănăstiri istorice în New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.947265,
+                        52.392207
+                  ]
+            },
+            {
+                  "name": "Annaghs Castle",
+                  "text": "O ruină de castel istoric lângă New Ross.",
+                  "category": "castle",
+                  "coords": [
+                        -6.967245,
+                        52.374147
+                  ]
+            },
+            {
+                  "name": "Camlin Hill",
+                  "text": "Un deal sau vârf local lângă New Ross.",
+                  "category": "natural",
+                  "coords": [
+                        -6.955127,
+                        52.369999
+                  ]
+            },
+            {
+                  "name": "Daubney Fountain",
+                  "text": "O fântână decorativă și monument în New Ross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.949625,
+                        52.391093
+                  ]
+            },
+            {
+                  "name": "Ros Tapestry Exhibition",
+                  "text": "O galerie care expune tapiserii de mari dimensiuni despre istoria Irlandei.",
+                  "category": "museum",
+                  "coords": [
+                        -6.947494,
+                        52.393405
+                  ]
+            },
+            {
+                  "name": "Mountgarrett Castle",
+                  "text": "Ruinele unui castel medieval în New Ross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.935068,
+                        52.411975
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "O biserică istorică dedicată Sfintei Maria.",
+                  "category": "religious",
+                  "coords": [
+                        -6.940867,
+                        52.396239
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary and St. Michael",
+                  "text": "O clădire religioasă și loc de cult în New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.943629,
+                        52.392698
+                  ]
+            },
+            {
+                  "name": "Augustinian Church",
+                  "text": "O biserică augustiniană în New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.942544,
+                        52.396
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "O biserică catolică dedicată Adormirii Maicii Domnului în New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.953958,
+                        52.398245
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "St. Michael's Theatre",
+                  "text": "A performing arts center in New Ross.",
+                  "category": "cultural",
+                  "coords": [
+                        -6.945319,
+                        52.394193
+                  ]
+            },
+            {
+                  "name": "Friary",
+                  "text": "Remains of a historic monastery complex in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.947265,
+                        52.392207
+                  ]
+            },
+            {
+                  "name": "Annaghs Castle",
+                  "text": "A historic castle ruin near New Ross.",
+                  "category": "castle",
+                  "coords": [
+                        -6.967245,
+                        52.374147
+                  ]
+            },
+            {
+                  "name": "Camlin Hill",
+                  "text": "A local hill or peak near New Ross.",
+                  "category": "natural",
+                  "coords": [
+                        -6.955127,
+                        52.369999
+                  ]
+            },
+            {
+                  "name": "Daubney Fountain",
+                  "text": "A decorative fountain and monument in New Ross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.949625,
+                        52.391093
+                  ]
+            },
+            {
+                  "name": "Ros Tapestry Exhibition",
+                  "text": "A gallery displaying large-scale tapestries depicting Irish history.",
+                  "category": "museum",
+                  "coords": [
+                        -6.947494,
+                        52.393405
+                  ]
+            },
+            {
+                  "name": "Mountgarrett Castle",
+                  "text": "The ruins of a medieval castle in New Ross.",
+                  "category": "historical",
+                  "coords": [
+                        -6.935068,
+                        52.411975
+                  ]
+            },
+            {
+                  "name": "Saint Mary's Church",
+                  "text": "A historic church dedicated to Saint Mary.",
+                  "category": "religious",
+                  "coords": [
+                        -6.940867,
+                        52.396239
+                  ]
+            },
+            {
+                  "name": "Church of St. Mary and St. Michael",
+                  "text": "A religious building and place of worship in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.943629,
+                        52.392698
+                  ]
+            },
+            {
+                  "name": "Augustinian Church",
+                  "text": "An Augustinian church located in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.942544,
+                        52.396
+                  ]
+            },
+            {
+                  "name": "Church of the Assumption",
+                  "text": "A Catholic church of the Assumption in New Ross.",
+                  "category": "religious",
+                  "coords": [
+                        -6.953958,
+                        52.398245
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "New Ross", hu: "New Ross", ro: "New Ross", en: "New Ross" },
@@ -8328,7 +17760,340 @@ export const irelandCitiesV2: POI[] = [
     image: "/poi-images/ireland-rathdrum-cities-v2.webp",
   },
   {
-    id: "ireland-roscrea-cities-v2",
+    id: "ireland-roscrea-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roscrea Castle",
+                  "text": "Eine steinerne Burg aus dem 13. Jahrhundert in Roscrea.",
+                  "category": "castle",
+                  "coords": [
+                        -7.798048,
+                        52.954945
+                  ]
+            },
+            {
+                  "name": "Roscrea Abbey",
+                  "text": "Ein franziskanisches Kloster aus dem 15. Jahrhundert in Roscrea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.799669,
+                        52.952554
+                  ]
+            },
+            {
+                  "name": "Roscrea Church",
+                  "text": "Historische Kirchenruinen in der Stadt Roscrea.",
+                  "category": "historical",
+                  "coords": [
+                        -7.79566,
+                        52.955578
+                  ]
+            },
+            {
+                  "name": "Roscrea Petty Sessions House",
+                  "text": "Ein historisches Gebäude in Roscrea, das früher als Gericht diente.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795996,
+                        52.953325
+                  ]
+            },
+            {
+                  "name": "1916 Bench",
+                  "text": "Ein Denkmal in Roscrea zum Gedenken an den Osteraufstand von 1916.",
+                  "category": "historical",
+                  "coords": [
+                        -7.786618,
+                        52.96599
+                  ]
+            },
+            {
+                  "name": "Ashbury Sign",
+                  "text": "Ein lokales Denkmal oder Wegweiser in Roscrea.",
+                  "category": "historical",
+                  "coords": [
+                        -7.787742,
+                        52.964926
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Ein methodistisches Kirchengebäude in Roscrea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797815,
+                        52.953969
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Eine traditionelle heilige Quelle in Roscrea.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.829148,
+                        52.963082
+                  ]
+            },
+            {
+                  "name": "St. Cronan's Church",
+                  "text": "Eine Kirche in Roscrea, bekannt für ihre romanische Westfront.",
+                  "category": "religious",
+                  "coords": [
+                        -7.794743,
+                        52.955497
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roscrea Castle",
+                  "text": "13. századi kővár Roscrea városában.",
+                  "category": "castle",
+                  "coords": [
+                        -7.798048,
+                        52.954945
+                  ]
+            },
+            {
+                  "name": "Roscrea Abbey",
+                  "text": "15. századi ferences kolostor Roscrea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.799669,
+                        52.952554
+                  ]
+            },
+            {
+                  "name": "Roscrea Church",
+                  "text": "Történelmi templomromok Roscrea városában.",
+                  "category": "historical",
+                  "coords": [
+                        -7.79566,
+                        52.955578
+                  ]
+            },
+            {
+                  "name": "Roscrea Petty Sessions House",
+                  "text": "Történelmi épület Roscrea-ban, amely egykor bíróságként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795996,
+                        52.953325
+                  ]
+            },
+            {
+                  "name": "1916 Bench",
+                  "text": "Az 1916-os húsvéti felkelés emlékére állított pad Roscrea-ban.",
+                  "category": "historical",
+                  "coords": [
+                        -7.786618,
+                        52.96599
+                  ]
+            },
+            {
+                  "name": "Ashbury Sign",
+                  "text": "Helyi emlékmű vagy jelzőtábla Roscrea területén.",
+                  "category": "historical",
+                  "coords": [
+                        -7.787742,
+                        52.964926
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "Metodista templomépület Roscrea városában.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797815,
+                        52.953969
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Hagyományos szent kút Roscrea területén.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.829148,
+                        52.963082
+                  ]
+            },
+            {
+                  "name": "St. Cronan's Church",
+                  "text": "Roscreai templom, amely román stílusú nyugati homlokzatáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        -7.794743,
+                        52.955497
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roscrea Castle",
+                  "text": "Un castel de piatră din secolul al XIII-lea în Roscrea.",
+                  "category": "castle",
+                  "coords": [
+                        -7.798048,
+                        52.954945
+                  ]
+            },
+            {
+                  "name": "Roscrea Abbey",
+                  "text": "O mănăstire franciscană din secolul al XV-lea în Roscrea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.799669,
+                        52.952554
+                  ]
+            },
+            {
+                  "name": "Roscrea Church",
+                  "text": "Ruine istorice de biserică în orașul Roscrea.",
+                  "category": "historical",
+                  "coords": [
+                        -7.79566,
+                        52.955578
+                  ]
+            },
+            {
+                  "name": "Roscrea Petty Sessions House",
+                  "text": "O clădire istorică în Roscrea care a servit drept tribunal.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795996,
+                        52.953325
+                  ]
+            },
+            {
+                  "name": "1916 Bench",
+                  "text": "O bancă memorială în Roscrea dedicată revoltei de Paște din 1916.",
+                  "category": "historical",
+                  "coords": [
+                        -7.786618,
+                        52.96599
+                  ]
+            },
+            {
+                  "name": "Ashbury Sign",
+                  "text": "Un monument sau semn local în Roscrea.",
+                  "category": "historical",
+                  "coords": [
+                        -7.787742,
+                        52.964926
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "O clădire a bisericii metodiste în Roscrea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797815,
+                        52.953969
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "Un izvor sfânt tradițional în Roscrea.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.829148,
+                        52.963082
+                  ]
+            },
+            {
+                  "name": "St. Cronan's Church",
+                  "text": "O biserică în Roscrea, cunoscută pentru fațada sa vestică în stil romanic.",
+                  "category": "religious",
+                  "coords": [
+                        -7.794743,
+                        52.955497
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roscrea Castle",
+                  "text": "A 13th-century stone castle in Roscrea.",
+                  "category": "castle",
+                  "coords": [
+                        -7.798048,
+                        52.954945
+                  ]
+            },
+            {
+                  "name": "Roscrea Abbey",
+                  "text": "A 15th-century Franciscan friary in Roscrea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.799669,
+                        52.952554
+                  ]
+            },
+            {
+                  "name": "Roscrea Church",
+                  "text": "Historic church ruins in the town of Roscrea.",
+                  "category": "historical",
+                  "coords": [
+                        -7.79566,
+                        52.955578
+                  ]
+            },
+            {
+                  "name": "Roscrea Petty Sessions House",
+                  "text": "A historic building in Roscrea formerly used as a courthouse.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.795996,
+                        52.953325
+                  ]
+            },
+            {
+                  "name": "1916 Bench",
+                  "text": "A memorial bench in Roscrea commemorating the 1916 Easter Rising.",
+                  "category": "historical",
+                  "coords": [
+                        -7.786618,
+                        52.96599
+                  ]
+            },
+            {
+                  "name": "Ashbury Sign",
+                  "text": "A local monument or sign in Roscrea.",
+                  "category": "historical",
+                  "coords": [
+                        -7.787742,
+                        52.964926
+                  ]
+            },
+            {
+                  "name": "Methodist Church",
+                  "text": "A Methodist church building in Roscrea.",
+                  "category": "religious",
+                  "coords": [
+                        -7.797815,
+                        52.953969
+                  ]
+            },
+            {
+                  "name": "Lady's Well",
+                  "text": "A traditional holy well or spring in Roscrea.",
+                  "category": "landmark",
+                  "coords": [
+                        -7.829148,
+                        52.963082
+                  ]
+            },
+            {
+                  "name": "St. Cronan's Church",
+                  "text": "A church in Roscrea known for its Romanesque west front.",
+                  "category": "religious",
+                  "coords": [
+                        -7.794743,
+                        52.955497
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "IE",
     name: { de: "Roscrea", hu: "Roscrea", ro: "Roscrea", en: "Roscrea" },

@@ -3,7 +3,1672 @@ import { POI } from './poi';
 export const cyprusCitiesV2: POI[] = [
 
   {
-    id: "cyprus-strovolos-cities-v2",
+    id: "cyprus-strovolos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Ιστορικής Μοτοσικλέτας Κύπρου",
+                  "text": "Ein Museum in Strovolos, das eine umfangreiche Sammlung klassischer Motorräder zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Χατζηγεωργάκη Κορνέσιου",
+                  "text": "Ein historisches Herrenhaus aus dem 18. Jahrhundert, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Ein ethnographisches Museum in einem restaurierten osmanischen Herrenhaus.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "Eine bedeutende Kunstgalerie in Nicosia mit Werken europäischer und zypriotischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Λευκωσίας",
+                  "text": "Das wichtigste Theatergebäude der Stadt, ein Zentrum für darstellende Künste.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Τζαμί Μπαϊρακτάρη",
+                  "text": "Eine bedeutende Moschee auf der Bairaktar-Bastion der venezianischen Mauern.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Eine römisch-katholische Kirche in der Nähe des Paphos-Tors.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "Ein historisches türkisches Bad in einem ehemaligen mittelalterlichen Kirchengebäude.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "Ein traditioneller Marktplatz in der Altstadt von Nicosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Λαϊκή Γειτονιά",
+                  "text": "Ein restauriertes Viertel mit traditioneller Architektur und Handwerksläden.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Zypernmuseum",
+                  "text": "Das größte und älteste archäologische Museum Zyperns.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Μουσείο Αστυνομίας Κύπρου",
+                  "text": "Ein Museum, das sich der Geschichte der zypriotischen Polizei widmet.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Φυλακισμένα Μνήματα",
+                  "text": "Ein Denkmal und Friedhof für während des Unabhängigkeitskampfes hingerichtete Kämpfer.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "Eine mittelalterliche Halle, die heute als Kultur- und Ausstellungszentrum genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Φανερωμένης",
+                  "text": "Eine bedeutende orthodoxe Kirche im Herzen der Altstadt von Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "Eine historische armenisch-apostolische Kirche in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Άγιος Αντώνιος",
+                  "text": "Eine dem Heiligen Antonius gewidmete Kirche in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Αρχάγγελος Μιχαήλ Τρυπιώτης",
+                  "text": "Eine byzantinische Kirche mit beeindruckenden Schnitzereien und Ikonen.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Λευκωσίας",
+                  "text": "Die größte öffentliche Parkanlage in Nicosia, ideal zur Erholung.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Die nationale Kunstgalerie, die Werke bedeutender zypriotischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Tower Museum & Observatory",
+                  "text": "Ein Observatorium mit Museum, das einen Panoramablick über Nicosia bietet.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Μουσείο Νερού",
+                  "text": "Ein Freilichtmuseum, das sich mit der Geschichte der Wasserwirtschaft befasst.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "ΜΟΥΣΕΙΟ ΕΘΝΟΜΑΡΤΥΡΑ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΥΠΡΙΑΝΟΥ",
+                  "text": "Ein Museum zu Ehren des Erzbischofs Kyprianos, einem nationalen Märtyrer.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Κέντρο Κυπριακής Χειροτεχνίας",
+                  "text": "Ein Zentrum zur Bewahrung und Ausstellung traditioneller zypriotischer Handwerkskunst.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Μουσείο",
+                  "text": "Ein Museum mit einer reichen Sammlung byzantinischer Kunst und Ikonen.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "Νέο Κυπριακό Μουσείο",
+                  "text": "Das Projekt für ein neues, modernes archäologisches Nationalmuseum in Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "Eine Galerie, die zeitgenössische und moderne Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "Eine spezialisierte Kunstgalerie in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "Eine Galerie, die verschiedene Kunstsammlungen und Ausstellungen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "Ein Ausstellungsraum für moderne Kunst in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "Ein kreativer Raum für Ausstellungen zeitgenössischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "Eine Galerie, die Werke des Künstlers Nicholas Ladommatos präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "Eine private Kunstgalerie in der Gegend von Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "Eine Galerie für zeitgenössische Kunst und kulturelle Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Κυκλαδες",
+                  "text": "Eine Galerie in Strovolos, benannt nach den Kykladen.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "Eine Kunstgalerie, die sich auf hochwertige zeitgenössische Werke spezialisiert hat.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "Eine archäologische Stätte, die Überreste der antiken Stadt Ledroi zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "Ein archäologischer Park an der Stelle des alten Rathauses von Nicosia.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "Ein Denkmal in Strovolos, das dem zyprischen EOKA-Helden Markos Drakos gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "ΨΗΦΙΣΜΑ",
+                  "text": "Ein Denkmal in Strovolos, das dem Thema Frieden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Ζοδια - Επιστροφη Συλλοροσ Αποφοιτον",
+                  "text": "Ein lokales Denkmal der Zodia Alumni Association in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "Ein Denkmal in Strovolos zu Ehren des kubanischen Nationalhelden José Martí.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "ΑΘΛΗΤΙΚΟ ΚΕΝΤΡΟ ΚΩΣΤΑΣ ΠΑΠΑΕΛΛΗΝΑΣ",
+                  "text": "Ein Denkmal am Kostas Papellinas Sportzentrum in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "Ein Denkmal in Strovolos für die Gefallenen und Vermissten.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Ein Kulturzentrum und Veranstaltungsort in Strovolos, der die russische Kultur fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "Ein Freiluft-Amphitheater in Strovolos, benannt nach Erzbischof Makarios III.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Ιστορικής Μοτοσικλέτας Κύπρου",
+                  "text": "Klasszikus motorkerékpárok gyűjteményét bemutató múzeum Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Χατζηγεωργάκη Κορνέσιου",
+                  "text": "18. századi történelmi kúria, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Néprajzi múzeum egy restaurált oszmán kori kúriában.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "Jelentős művészeti galéria Nicosiában, európai és ciprusi művészek alkotásaival.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Λευκωσίας",
+                  "text": "A város legfontosabb színházépülete, az előadóművészetek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Τζαμί Μπαϊρακτάρη",
+                  "text": "Fontos mecset a velencei falak Bayraktar-bástyáján.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "Római katolikus templom a Paphos-kapu közelében.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "Történelmi törökfürdő egy egykori középkori templomépületben.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "Hagyományos piactér Nicosia óvárosában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Λαϊκή Γειτονιά",
+                  "text": "Hagyományos építészetű, restaurált negyed kézműves boltokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Κυπριακό Μουσείο",
+                  "text": "Ciprus legnagyobb és legrégebbi régészeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Μουσείο Αστυνομίας Κύπρου",
+                  "text": "A ciprusi rendőrség történetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Φυλακισμένα Μνήματα",
+                  "text": "Emlékmű és temető a függetlenségi harc során kivégzett harcosoknak.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "Középkori csarnok, amelyet ma kulturális és kiállítási központként használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Φανερωμένης",
+                  "text": "Jelentős ortodox templom Nicosia óvárosának szívében.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "Történelmi örmény apostoli templom Nicosiában.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Άγιος Αντώνιος",
+                  "text": "Szent Antalnak szentelt templom a városban.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Αρχάγγελος Μιχαήλ Τρυπιώτης",
+                  "text": "Bizánci templom lenyűgöző faragványokkal és ikonokkal.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Λευκωσίας",
+                  "text": "Nicosia legnagyobb közparkja, ideális kikapcsolódásra.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "A nemzeti művészeti galéria, amely jelentős ciprusi művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "Csillagvizsgáló és múzeum, amely panorámás kilátást nyújt Nicosiára.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Μουσείο Νερού",
+                  "text": "A vízgazdálkodás történetével foglalkozó szabadtéri múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "ΜΟΥΣΕΙΟ ΕΘΝΟΜΑΡΤΥΡΑ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΥΠΡΙΑΝΟΥ",
+                  "text": "Kyprianos érseknek, a nemzeti mártírnak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Κέντρο Κυπριακής Χειροτεχνίας",
+                  "text": "A hagyományos ciprusi kézművesség megőrzésére és bemutatására szolgáló központ.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Μουσείο",
+                  "text": "Bizánci művészeti alkotások és ikonok gazdag gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "Νέο Κυπριακό Μουσείο",
+                  "text": "Egy új, modern nemzeti régészeti múzeum projektje Nicosiában.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "Kortárs és modern művészeti alkotásokat bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "Speciális művészeti galéria Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "Különféle művészeti gyűjteményeket és kiállításokat bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "Modern művészeti kiállítótér Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "Kreatív tér kortárs művészeti kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "Nicholas Ladommatos művész alkotásait bemutató galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "Magán művészeti galéria Nicosia környékén.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "Kortárs művészeti galéria és kulturális rendezvények helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Κυκλαδες",
+                  "text": "A Kükládokról elnevezett galéria Strovolosban.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "Kiváló minőségű kortárs művekre szakosodott művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "Régészeti lelőhely, amely az ókori Ledroi város maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "Régészeti park Nicosia régi városházájának helyén.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "Markos Drakos EOKA-hősnek szentelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "ΨΗΦΙΣΜΑ",
+                  "text": "A békének szentelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Ζοδια - Επιστροφη Συλλοροσ Αποφοιτον",
+                  "text": "A Zodia Öregdiák Szövetség helyi emlékműve Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "José Martí kubai nemzeti hős tiszteletére emelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "ΑΘΛΗΤΙΚΟ ΚΕΝΤΡΟ ΚΩΣΤΑΣ ΠΑΠΑΕΛΛΗΝΑΣ",
+                  "text": "Emlékmű a Kostas Papellinas Sportközpontnál Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "Az elesetteknek és eltűnteknek szentelt emlékmű Strovolosban.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Orosz kultúrát népszerűsítő kulturális központ és színház Strovolosban.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "III. Makariosz érsekről elnevezett szabadtéri amfiteátrum Strovolosban.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Ιστορικής Μοτοσικλέτας Κύπρου",
+                  "text": "Un muzeu din Strovolos care expune o colecție vastă de motociclete clasice.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Αρχοντικό Χατζηγεωργάκη Κορνέσιου",
+                  "text": "Un conac istoric din secolul al XVIII-lea care servește acum ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Derviş Paşa Konağı",
+                  "text": "Un muzeu etnografic situat într-un conac otoman restaurat.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "O galerie de artă importantă din Nicosia, cu lucrări ale artiștilor europeni și ciprioți.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Θέατρο Λευκωσίας",
+                  "text": "Cea mai importantă clădire de teatru din oraș, un centru pentru artele spectacolului.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Τζαμί Μπαϊρακτάρη",
+                  "text": "O moschee importantă situată pe bastionul Bayraktar al zidurilor venețiene.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "O biserică romano-catolică situată lângă Poarta Paphos.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "O baie turcească istorică situată într-o fostă clădire de biserică medievală.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Belediye Pazarı",
+                  "text": "O piață tradițională situată în orașul vechi al Nicosiei.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Λαϊκή Γειτονιά",
+                  "text": "Un cartier restaurat cu arhitectură tradițională și magazine de meșteșuguri.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Κυπριακό Μουσείο",
+                  "text": "Cel mai mare și mai vechi muzeu arheologic din Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Μουσείο Αστυνομίας Κύπρου",
+                  "text": "Un muzeu dedicat istoriei poliției cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "Φυλακισμένα Μνήματα",
+                  "text": "Un monument și cimitir pentru luptătorii executați în timpul luptei pentru independență.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "O sală medievală utilizată astăzi ca centru cultural și de expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Εκκλησία Φανερωμένης",
+                  "text": "O biserică ortodoxă importantă în inima orașului vechi din Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Biserica armeană „Sourp Asdvadzadzin” Nicosia",
+                  "text": "O biserică apostolică armeană istorică din Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Άγιος Αντώνιος",
+                  "text": "O biserică dedicată Sfântului Antonie situată în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Αρχάγγελος Μιχαήλ Τρυπιώτης",
+                  "text": "O biserică bizantină cu sculpturi și icoane impresionante.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Λευκωσίας",
+                  "text": "Cel mai mare parc public din Nicosia, ideal pentru recreere.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "Galeria națională de artă, care expune lucrări ale unor importanți artiști ciprioți.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "Un observator și muzeu care oferă o vedere panoramică asupra Nicosiei.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Υπαίθριο Μουσείο Νερού",
+                  "text": "Un muzeu în aer liber care se ocupă de istoria gestionării apei.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "ΜΟΥΣΕΙΟ ΕΘΝΟΜΑΡΤΥΡΑ ΑΡΧΙΕΠΙΣΚΟΠΟΥ ΚΥΠΡΙΑΝΟΥ",
+                  "text": "Un muzeu în onoarea arhiepiscopului Kyprianos, un martir național.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Κέντρο Κυπριακής Χειροτεχνίας",
+                  "text": "Un centru pentru conservarea și expunerea meșteșugurilor tradiționale cipriote.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Βυζαντινό Μουσείο",
+                  "text": "Un muzeu cu o bogată colecție de artă bizantină și icoane.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "Νέο Κυπριακό Μουσείο",
+                  "text": "Proiectul pentru un nou muzeu arheologic național modern în Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "O galerie care prezintă opere de artă contemporană și modernă.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "O galerie de artă specializată situată în Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "O galerie care prezintă diverse colecții de artă și expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "Un spațiu de expoziție pentru artă modernă în Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "Un spațiu creativ pentru expoziții de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "O galerie care prezintă lucrările artistului Nicholas Ladommatos.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "O galerie de artă privată în zona Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "O galerie pentru artă contemporană și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Κυκλαδες",
+                  "text": "O galerie din Strovolos numită după Ciclade.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "O galerie de artă specializată în lucrări contemporane de înaltă calitate.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "Un sit arheologic care prezintă vestigii ale vechiului oraș Ledroi.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "Un parc arheologic situat pe locul vechii primării din Nicosia.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "Un monument în Strovolos dedicat eroului cipriot EOKA Markos Drakos.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "ΨΗΦΙΣΜΑ",
+                  "text": "Un monument în Strovolos dedicat păcii.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Ζοδια - Επιστροφη Συλλοροσ Αποφοιτον",
+                  "text": "Un monument local al Asociației foștilor elevi din Zodia în Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "Un monument în Strovolos ridicat în onoarea eroului național cubanez José Martí.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "ΑΘΛΗΤΙΚΟ ΚΕΝΤΡΟ ΚΩΣΤΑΣ ΠΑΠΑΕΛΛΗΝΑΣ",
+                  "text": "Un monument la Centrul Sportiv Kostas Papellinas din Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "Un monument în Strovolos dedicat celor căzuți și dispăruți.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "Un centru cultural și teatru în Strovolos care promovează cultura rusă.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "Un amfiteatru în aer liber din Strovolos, numit după Arhiepiscopul Makarios al III-lea.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyprus Classic Motorcycle Museum",
+                  "text": "A museum in Strovolos displaying an extensive collection of classic motorcycles.",
+                  "category": "museum",
+                  "coords": [
+                        33.358387,
+                        35.172869
+                  ]
+            },
+            {
+                  "name": "Hadjigeorgakis Kornesios Mansion",
+                  "text": "An 18th-century historic mansion that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        33.366766,
+                        35.171871
+                  ]
+            },
+            {
+                  "name": "Dervish Pasha Mansion",
+                  "text": "An ethnographic museum housed in a restored Ottoman mansion.",
+                  "category": "museum",
+                  "coords": [
+                        33.358505,
+                        35.176372
+                  ]
+            },
+            {
+                  "name": "A.G Leventis Gallery",
+                  "text": "A major art gallery in Nicosia featuring works by European and Cypriot artists.",
+                  "category": "museum",
+                  "coords": [
+                        33.358391,
+                        35.169311
+                  ]
+            },
+            {
+                  "name": "Nicosia Municipal Theater",
+                  "text": "The city's primary theater building, a center for performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        33.35507,
+                        35.172637
+                  ]
+            },
+            {
+                  "name": "Bairaktar Mosque",
+                  "text": "An important mosque located on the Bayraktar bastion of the Venetian walls.",
+                  "category": "religious",
+                  "coords": [
+                        33.365424,
+                        35.169057
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Cross",
+                  "text": "A Roman Catholic church situated near the Paphos Gate.",
+                  "category": "religious",
+                  "coords": [
+                        33.357419,
+                        35.174328
+                  ]
+            },
+            {
+                  "name": "Büyük Hamam",
+                  "text": "A historic Turkish bath located in a former medieval church building.",
+                  "category": "landmark",
+                  "coords": [
+                        33.361678,
+                        35.176765
+                  ]
+            },
+            {
+                  "name": "Municipal Market",
+                  "text": "A traditional marketplace located in the old town of Nicosia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.364634,
+                        35.175412
+                  ]
+            },
+            {
+                  "name": "Λαϊκή Γειτονιά",
+                  "text": "A restored neighborhood with traditional architecture and craft shops.",
+                  "category": "landmark",
+                  "coords": [
+                        33.362253,
+                        35.169854
+                  ]
+            },
+            {
+                  "name": "Cyprus Museum",
+                  "text": "The largest and oldest archaeological museum in Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        33.355753,
+                        35.171733
+                  ]
+            },
+            {
+                  "name": "Cyprus Police Museum",
+                  "text": "A museum dedicated to the history of the Cypriot police.",
+                  "category": "museum",
+                  "coords": [
+                        33.374292,
+                        35.144751
+                  ]
+            },
+            {
+                  "name": "The Imprisoned Graves",
+                  "text": "A monument and cemetery for fighters executed during the struggle for independence.",
+                  "category": "historical",
+                  "coords": [
+                        33.343707,
+                        35.180405
+                  ]
+            },
+            {
+                  "name": "Casteliotissa Medieval Hall",
+                  "text": "A medieval hall now used as a cultural and exhibition center.",
+                  "category": "cultural",
+                  "coords": [
+                        33.357433,
+                        35.173411
+                  ]
+            },
+            {
+                  "name": "Faneroumeni Church",
+                  "text": "A major Orthodox church in the heart of Nicosia's old town.",
+                  "category": "religious",
+                  "coords": [
+                        33.362508,
+                        35.173481
+                  ]
+            },
+            {
+                  "name": "Sourp Asdvadzadzin",
+                  "text": "A historic Armenian Apostolic church in Nicosia.",
+                  "category": "religious",
+                  "coords": [
+                        33.367166,
+                        35.152416
+                  ]
+            },
+            {
+                  "name": "Άγιος Αντώνιος",
+                  "text": "A church dedicated to Saint Anthony located in the city.",
+                  "category": "religious",
+                  "coords": [
+                        33.367897,
+                        35.171692
+                  ]
+            },
+            {
+                  "name": "Αρχάγγελος Μιχαήλ Τρυπιώτης",
+                  "text": "A Byzantine church featuring impressive carvings and icons.",
+                  "category": "religious",
+                  "coords": [
+                        33.362623,
+                        35.171312
+                  ]
+            },
+            {
+                  "name": "Nicosia Municipal Gardens",
+                  "text": "The largest public park in Nicosia, ideal for recreation.",
+                  "category": "park",
+                  "coords": [
+                        33.353981,
+                        35.17292
+                  ]
+            },
+            {
+                  "name": "National Art Gallery",
+                  "text": "The national art gallery exhibiting works by prominent Cypriot artists.",
+                  "category": "museum",
+                  "coords": [
+                        33.365661,
+                        35.167944
+                  ]
+            },
+            {
+                  "name": "Shacolas Observatory",
+                  "text": "An observatory and museum offering panoramic views over Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.361525,
+                        35.171852
+                  ]
+            },
+            {
+                  "name": "Outdoor Water Museum",
+                  "text": "An outdoor museum dealing with the history of water management.",
+                  "category": "museum",
+                  "coords": [
+                        33.357653,
+                        35.146021
+                  ]
+            },
+            {
+                  "name": "MUSEUM OF ETHNOMARTYR ARCHBISHOP KYPRIANOS",
+                  "text": "A museum honoring Archbishop Kyprianos, a national martyr.",
+                  "category": "museum",
+                  "coords": [
+                        33.340049,
+                        35.146191
+                  ]
+            },
+            {
+                  "name": "Cyprus Handicrafts Centre",
+                  "text": "A center for preserving and exhibiting traditional Cypriot handicrafts.",
+                  "category": "museum",
+                  "coords": [
+                        33.373207,
+                        35.140212
+                  ]
+            },
+            {
+                  "name": "Byzantine Museum",
+                  "text": "A museum with a rich collection of Byzantine art and icons.",
+                  "category": "museum",
+                  "coords": [
+                        33.367273,
+                        35.173349
+                  ]
+            },
+            {
+                  "name": "New Cyprus Museum",
+                  "text": "The project for a new, modern national archaeological museum in Nicosia.",
+                  "category": "museum",
+                  "coords": [
+                        33.353167,
+                        35.171494
+                  ]
+            },
+            {
+                  "name": "Modern Gallery",
+                  "text": "A gallery showcasing contemporary and modern artworks.",
+                  "category": "museum",
+                  "coords": [
+                        33.317684,
+                        35.161833
+                  ]
+            },
+            {
+                  "name": "Iron Art Gallery",
+                  "text": "A specialized art gallery located in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.3378,
+                        35.140808
+                  ]
+            },
+            {
+                  "name": "The Collection Gallery",
+                  "text": "A gallery displaying various art collections and exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        33.374932,
+                        35.152099
+                  ]
+            },
+            {
+                  "name": "Out of Limits",
+                  "text": "An exhibition space for modern art in Strovolos.",
+                  "category": "museum",
+                  "coords": [
+                        33.353954,
+                        35.157792
+                  ]
+            },
+            {
+                  "name": "ARUCAD Art Space",
+                  "text": "A creative space for contemporary art exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        33.35989,
+                        35.177294
+                  ]
+            },
+            {
+                  "name": "Nicholas Ladommatos",
+                  "text": "A gallery presenting the works of artist Nicholas Ladommatos.",
+                  "category": "museum",
+                  "coords": [
+                        33.336016,
+                        35.168797
+                  ]
+            },
+            {
+                  "name": "Vartan",
+                  "text": "A private art gallery in the Nicosia area.",
+                  "category": "museum",
+                  "coords": [
+                        33.351157,
+                        35.148854
+                  ]
+            },
+            {
+                  "name": "Marginalia",
+                  "text": "A gallery for contemporary art and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        33.344131,
+                        35.150156
+                  ]
+            },
+            {
+                  "name": "Κυκλαδες",
+                  "text": "A gallery in Strovolos named after the Cyclades.",
+                  "category": "museum",
+                  "coords": [
+                        33.36026,
+                        35.172965
+                  ]
+            },
+            {
+                  "name": "Golden Gallery",
+                  "text": "An art gallery specializing in high-quality contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        33.360811,
+                        35.166344
+                  ]
+            },
+            {
+                  "name": "Agios Georgios Archaeological site - Ledroi",
+                  "text": "An archaeological site showing remains of the ancient city of Ledroi.",
+                  "category": "historical",
+                  "coords": [
+                        33.35592,
+                        35.164898
+                  ]
+            },
+            {
+                  "name": "Archaeological Park of the old Nicosia town hall",
+                  "text": "An archaeological park located at the site of the old Nicosia town hall.",
+                  "category": "historical",
+                  "coords": [
+                        33.366066,
+                        35.17355
+                  ]
+            },
+            {
+                  "name": "Markos Drakos Statue",
+                  "text": "A monument in Strovolos dedicated to the Cypriot EOKA hero Markos Drakos.",
+                  "category": "historical",
+                  "coords": [
+                        33.356012,
+                        35.173617
+                  ]
+            },
+            {
+                  "name": "Peace",
+                  "text": "A monument in Strovolos dedicated to the theme of peace.",
+                  "category": "historical",
+                  "coords": [
+                        33.361433,
+                        35.174427
+                  ]
+            },
+            {
+                  "name": "Zodia Alumni Association",
+                  "text": "A local monument of the Zodia Alumni Association in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.358872,
+                        35.140944
+                  ]
+            },
+            {
+                  "name": "José Martí 1853-1895 National Hero of the Republic of Cuba",
+                  "text": "A monument in Strovolos honoring the Cuban national hero José Martí.",
+                  "category": "historical",
+                  "coords": [
+                        33.367276,
+                        35.16844
+                  ]
+            },
+            {
+                  "name": "Kostas Papellinas Sports Center",
+                  "text": "A monument located at the Kostas Papellinas Sports Center in Strovolos.",
+                  "category": "historical",
+                  "coords": [
+                        33.339588,
+                        35.151333
+                  ]
+            },
+            {
+                  "name": "Monument to the Fallen and Missing",
+                  "text": "A monument in Strovolos dedicated to the fallen and missing.",
+                  "category": "historical",
+                  "coords": [
+                        33.358618,
+                        35.142425
+                  ]
+            },
+            {
+                  "name": "Russian Cultural Centre",
+                  "text": "A cultural centre and theatre in Strovolos promoting Russian culture.",
+                  "category": "cultural",
+                  "coords": [
+                        33.362758,
+                        35.160891
+                  ]
+            },
+            {
+                  "name": "Makarios III Amphitheatre",
+                  "text": "An open-air amphitheatre in Strovolos named after Archbishop Makarios III.",
+                  "category": "cultural",
+                  "coords": [
+                        33.355611,
+                        35.150226
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Strovolos", hu: "Sztrovólosz", ro: "Strovolos", en: "Strovolos" },
@@ -93,7 +1758,160 @@ export const cyprusCitiesV2: POI[] = [
     image: "/poi-images/cyprus-latsia-cities-v2.webp",
   },
   {
-    id: "cyprus-kato-polemidia-cities-v2",
+    id: "cyprus-kato-polemidia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μουσείο Ιστορικού και Κλασσικού Αυτοκινήτου",
+                  "text": "Ein Museum in Kato Polemidia, das historische und klassische Kraftfahrzeuge ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        32.993014,
+                        34.665609
+                  ]
+            },
+            {
+                  "name": "Ιατρικό Μουσείο Κύπρου",
+                  "text": "Dieses Museum in Kato Polemidia widmet sich der Geschichte der Medizin in Zypern.",
+                  "category": "museum",
+                  "coords": [
+                        32.998175,
+                        34.692959
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "Ein dekorativer Brunnen mit einer Delfinstatue in Kato Polemidia.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Άγιος Σίλας",
+                  "text": "Antike Ruinen an der Stätte von Agias Silas in Kato Polemidia.",
+                  "category": "historical",
+                  "coords": [
+                        32.967389,
+                        34.699486
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μουσείο Ιστορικού και Κλασσικού Αυτοκινήτου",
+                  "text": "Történelmi és klasszikus gépjárműveket bemutató múzeum Kato Polemidiában.",
+                  "category": "museum",
+                  "coords": [
+                        32.993014,
+                        34.665609
+                  ]
+            },
+            {
+                  "name": "Ιατρικό Μουσείο Κύπρου",
+                  "text": "Ez a kato polemidiai múzeum Ciprus orvostudományi történetének szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        32.998175,
+                        34.692959
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "Delfinszoborral díszített szökőkút Kato Polemidia városában.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Άγιος Σίλας",
+                  "text": "Ókori romok Agias Silas helyszínén, Kato Polemidiában.",
+                  "category": "historical",
+                  "coords": [
+                        32.967389,
+                        34.699486
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μουσείο Ιστορικού και Κλασσικού Αυτοκινήτου",
+                  "text": "Un muzeu în Kato Polemidia care expune autovehicule istorice și clasice.",
+                  "category": "museum",
+                  "coords": [
+                        32.993014,
+                        34.665609
+                  ]
+            },
+            {
+                  "name": "Ιατρικό Μουσείο Κύπρου",
+                  "text": "Acest muzeu din Kato Polemidia este dedicat istoriei medicinei în Cipru.",
+                  "category": "museum",
+                  "coords": [
+                        32.998175,
+                        34.692959
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "O fântână decorativă cu o statuie de delfin în Kato Polemidia.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Άγιος Σίλας",
+                  "text": "Ruine antice la situl Agias Silas din Kato Polemidia.",
+                  "category": "historical",
+                  "coords": [
+                        32.967389,
+                        34.699486
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cyprus Historic & Classic Motor Museum",
+                  "text": "A museum in Kato Polemidia exhibiting historic and classic motor vehicles.",
+                  "category": "museum",
+                  "coords": [
+                        32.993014,
+                        34.665609
+                  ]
+            },
+            {
+                  "name": "Cyprus Medical Museum",
+                  "text": "This museum in Kato Polemidia is dedicated to the medical history of Cyprus.",
+                  "category": "museum",
+                  "coords": [
+                        32.998175,
+                        34.692959
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "A decorative fountain featuring a dolphin statue in Kato Polemidia.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Agias Silas",
+                  "text": "Ancient ruins at the site of Agias Silas in Kato Polemidia.",
+                  "category": "historical",
+                  "coords": [
+                        32.967389,
+                        34.699486
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Kato Polemidia", hu: "Kátó Polemídia", ro: "Kato Polemidia", en: "Kato Polemidia" },
@@ -138,7 +1956,1168 @@ export const cyprusCitiesV2: POI[] = [
     image: "/poi-images/cyprus-kato-polemidia-cities-v2.webp",
   },
   {
-    id: "cyprus-mesa-geitonia-cities-v2",
+    id: "cyprus-mesa-geitonia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Rialto",
+                  "text": "Ein bekanntes Theater in Mesa Geitonia für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        33.045788,
+                        34.679552
+                  ]
+            },
+            {
+                  "name": "Limassol Zoo",
+                  "text": "Ein kleiner Zoo im Stadtgarten von Limassol mit verschiedenen Tierarten.",
+                  "category": "recreational",
+                  "coords": [
+                        33.055905,
+                        34.683179
+                  ]
+            },
+            {
+                  "name": "Kastell von Limassol",
+                  "text": "Eine historische Burg in Limassol, in der Richard Löwenherz Berengaria von Navarra geheiratet haben soll.",
+                  "category": "castle",
+                  "coords": [
+                        33.041671,
+                        34.672254
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Επαρχίας Λεμεσού",
+                  "text": "Ein Museum in Mesa Geitonia, das archäologische Funde aus der Region Limassol ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.054407,
+                        34.685333
+                  ]
+            },
+            {
+                  "name": "Theatro Ena",
+                  "text": "Ein zeitgenössisches Theater in Mesa Geitonia, das für moderne Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042695,
+                        34.672812
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Ein Museum in Mesa Geitonia mit Sammlungen von historischer und kultureller Bedeutung.",
+                  "category": "museum",
+                  "coords": [
+                        33.022427,
+                        34.706855
+                  ]
+            },
+            {
+                  "name": "E.N.A.F",
+                  "text": "Ein lokaler Theaterstandort in Mesa Geitonia für kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        33.022799,
+                        34.713652
+                  ]
+            },
+            {
+                  "name": "Μουσείο στρατηγού Γεωργίου Γρίβα-Διγενή",
+                  "text": "Ein Museum in Mesa Geitonia, das dem Leben von General Georgios Grivas-Digenis gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.062186,
+                        34.691429
+                  ]
+            },
+            {
+                  "name": "Cyprus Theatre Museum",
+                  "text": "Ein Museum in Mesa Geitonia, das die Geschichte des zyprischen Theaters dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.049844,
+                        34.682367
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Μουσείο Λαικης Τεχνης",
+                  "text": "Ein Museum in Mesa Geitonia, das traditionelle Volkskunst und Handwerk ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.049043,
+                        34.67892
+                  ]
+            },
+            {
+                  "name": "Limassol Art Museum",
+                  "text": "Ein Museum in Mesa Geitonia, das Kunstwerke aus der Region Limassol präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.057736,
+                        34.683659
+                  ]
+            },
+            {
+                  "name": "Pattihio Municipal Theatre",
+                  "text": "Ein wichtiges Stadttheater in Mesa Geitonia für Konzerte und Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        33.043891,
+                        34.681293
+                  ]
+            },
+            {
+                  "name": "Laniteio Theatre",
+                  "text": "Ein Theater in Mesa Geitonia, das mit der Laniteio-Schule verbunden ist.",
+                  "category": "cultural",
+                  "coords": [
+                        33.040832,
+                        34.688711
+                  ]
+            },
+            {
+                  "name": "Molos Lemesos",
+                  "text": "Die beliebte Küstenpromenade von Limassol mit Gärten und Skulpturen.",
+                  "category": "park",
+                  "coords": [
+                        33.048115,
+                        34.67529
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Λεμεσού",
+                  "text": "Ein öffentlicher Park in Mesa Geitonia, der Erholung und einen kleinen Zoo bietet.",
+                  "category": "park",
+                  "coords": [
+                        33.054757,
+                        34.683361
+                  ]
+            },
+            {
+                  "name": "Shark's teeth",
+                  "text": "Ein einzigartiges Denkmal in Mesa Geitonia, bekannt als Haifischzähne.",
+                  "category": "historical",
+                  "coords": [
+                        33.051819,
+                        34.678511
+                  ]
+            },
+            {
+                  "name": "\"My Love\"",
+                  "text": "Ein Denkmal in Mesa Geitonia mit dem Titel My Love.",
+                  "category": "historical",
+                  "coords": [
+                        33.066879,
+                        34.687578
+                  ]
+            },
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "Ein beliebter Strandort in Mesa Geitonia mit Freizeiteinrichtungen.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            },
+            {
+                  "name": "Stin Agonizomeni Mathitiosa Neolaia",
+                  "text": "Ein Denkmal in Mesa Geitonia, das der kämpfenden studentischen Jugend gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        33.038771,
+                        34.687122
+                  ]
+            },
+            {
+                  "name": "Makarious III",
+                  "text": "Ein Denkmal in Mesa Geitonia zu Ehren von Erzbischof Makarios III.",
+                  "category": "historical",
+                  "coords": [
+                        33.036191,
+                        34.686764
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "Ein familienfreundlicher Vergnügungspark und Attraktion in Mesa Geitonia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.035658,
+                        34.671704
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "Ein Zierbrunnen mit einer Delphinstatue in Mesa Geitonia.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "Ein Kunstzentrum in Mesa Geitonia, das kulturelle Ausstellungen und Veranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        33.06438,
+                        34.690515
+                  ]
+            },
+            {
+                  "name": "NeMe Arts Centre",
+                  "text": "Ein zeitgenössisches Kunstzentrum in Mesa Geitonia für innovative Projekte.",
+                  "category": "cultural",
+                  "coords": [
+                        33.041613,
+                        34.676104
+                  ]
+            },
+            {
+                  "name": "Diatehnon Arts & Culture",
+                  "text": "Ein Zentrum für Kunst und Kultur in Mesa Geitonia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042951,
+                        34.676451
+                  ]
+            },
+            {
+                  "name": "Lellos point arts & events",
+                  "text": "Eine Galerie in Mesa Geitonia, die Kunstausstellungen und Veranstaltungen ausrichtet.",
+                  "category": "museum",
+                  "coords": [
+                        33.047731,
+                        34.676659
+                  ]
+            },
+            {
+                  "name": "Cornado Fine Arts Centre",
+                  "text": "Eine Kunstgalerie in Mesa Geitonia, die feine Kunstwerke präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        33.036635,
+                        34.672468
+                  ]
+            },
+            {
+                  "name": "Art Strokes Gallery",
+                  "text": "Eine Galerie in Mesa Geitonia, die auf zeitgenössische Malerei spezialisiert ist.",
+                  "category": "museum",
+                  "coords": [
+                        33.030088,
+                        34.680874
+                  ]
+            },
+            {
+                  "name": "The Gallery 45",
+                  "text": "Ein zeitgenössischer Kunstraum in Mesa Geitonia für Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        33.043765,
+                        34.673882
+                  ]
+            },
+            {
+                  "name": "Eins Gallery",
+                  "text": "Eine moderne Kunstgalerie in Mesa Geitonia, die lokale Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        33.04554,
+                        34.675743
+                  ]
+            },
+            {
+                  "name": "Limassol Water Tower",
+                  "text": "Ein historischer Wasserturm in Mesa Geitonia, der als Wahrzeichen dient.",
+                  "category": "landmark",
+                  "coords": [
+                        33.038382,
+                        34.67811
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Catholic Church",
+                  "text": "Eine römisch-katholische Kirche in Limassol, die der Heiligen Katharina gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        33.051856,
+                        34.679467
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Rialto",
+                  "text": "Kulturális eseményeknek otthont adó ismert színház Mesa Geitonia területén.",
+                  "category": "cultural",
+                  "coords": [
+                        33.045788,
+                        34.679552
+                  ]
+            },
+            {
+                  "name": "Limassol Zoo",
+                  "text": "Limassol városi kertjében található kis állatkert különféle állatfajokkal.",
+                  "category": "recreational",
+                  "coords": [
+                        33.055905,
+                        34.683179
+                  ]
+            },
+            {
+                  "name": "Μεσαιωνικό Κάστρο Λεμεσού",
+                  "text": "Történelmi vár Limassolban, ahol a hagyomány szerint Oroszlánszívű Richárd feleségül vette Navarrai Berengáriát.",
+                  "category": "castle",
+                  "coords": [
+                        33.041671,
+                        34.672254
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Επαρχίας Λεμεσού",
+                  "text": "A limassoli körzet régészeti leleteit bemutató múzeum Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.054407,
+                        34.685333
+                  ]
+            },
+            {
+                  "name": "Theatro Ena",
+                  "text": "Modern előadásairól ismert kortárs színház Mesa Geitoniában.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042695,
+                        34.672812
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Történelmi és kulturális jelentőségű gyűjteményekkel rendelkező múzeum Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.022427,
+                        34.706855
+                  ]
+            },
+            {
+                  "name": "E.N.A.F",
+                  "text": "Helyi színházi helyszín Mesa Geitoniában kulturális előadásokhoz.",
+                  "category": "cultural",
+                  "coords": [
+                        33.022799,
+                        34.713652
+                  ]
+            },
+            {
+                  "name": "Μουσείο στρατηγού Γεωργίου Γρίβα-Διγενή",
+                  "text": "Georgios Grivas-Digenis tábornok életének szentelt múzeum Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.062186,
+                        34.691429
+                  ]
+            },
+            {
+                  "name": "Cyprus Theatre Museum",
+                  "text": "A ciprusi színház történetét bemutató múzeum Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.049844,
+                        34.682367
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Μουσείο Λαικης Τεχνης",
+                  "text": "Hagyományos népművészetet és mesterségeket bemutató múzeum Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.049043,
+                        34.67892
+                  ]
+            },
+            {
+                  "name": "Limassol Art Museum",
+                  "text": "A limassoli régió műalkotásait bemutató múzeum Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.057736,
+                        34.683659
+                  ]
+            },
+            {
+                  "name": "Pattihio Municipal Theatre",
+                  "text": "Fontos városi színház Mesa Geitoniában koncertek és előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        33.043891,
+                        34.681293
+                  ]
+            },
+            {
+                  "name": "Laniteio Theatre",
+                  "text": "A Laniteio iskolához kapcsolódó színház Mesa Geitoniában.",
+                  "category": "cultural",
+                  "coords": [
+                        33.040832,
+                        34.688711
+                  ]
+            },
+            {
+                  "name": "Molos Lemesos",
+                  "text": "Limassol népszerű tengerparti sétánya kertekkel és szobrokkal.",
+                  "category": "park",
+                  "coords": [
+                        33.048115,
+                        34.67529
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Λεμεσού",
+                  "text": "Közpark Mesa Geitoniában, amely kikapcsolódást és egy kis állatkertet kínál.",
+                  "category": "park",
+                  "coords": [
+                        33.054757,
+                        34.683361
+                  ]
+            },
+            {
+                  "name": "Shark's teeth",
+                  "text": "Cápafogakként ismert egyedi emlékmű Mesa Geitoniában.",
+                  "category": "historical",
+                  "coords": [
+                        33.051819,
+                        34.678511
+                  ]
+            },
+            {
+                  "name": "\"My Love\"",
+                  "text": "„My Love” című emlékmű Mesa Geitonia területén.",
+                  "category": "historical",
+                  "coords": [
+                        33.066879,
+                        34.687578
+                  ]
+            },
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "Népszerű strandhelyszín Mesa Geitoniában szabadidős létesítményekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            },
+            {
+                  "name": "Stin Agonizomeni Mathitiosa Neolaia",
+                  "text": "A küzdő diákságnak szentelt emlékmű Mesa Geitoniában.",
+                  "category": "historical",
+                  "coords": [
+                        33.038771,
+                        34.687122
+                  ]
+            },
+            {
+                  "name": "Makarious III",
+                  "text": "III. Makariosz érsek tiszteletére emelt emlékmű Mesa Geitoniában.",
+                  "category": "historical",
+                  "coords": [
+                        33.036191,
+                        34.686764
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "Családbarát vidámpark és látványosság Mesa Geitoniában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.035658,
+                        34.671704
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "Delfinszoborral díszített szökőkút Mesa Geitoniában.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "Kulturális kiállításokat és eseményeket támogató művészeti központ Mesa Geitoniában.",
+                  "category": "cultural",
+                  "coords": [
+                        33.06438,
+                        34.690515
+                  ]
+            },
+            {
+                  "name": "NeMe Arts Centre",
+                  "text": "Kortárs művészeti központ Mesa Geitoniában innovatív projektek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        33.041613,
+                        34.676104
+                  ]
+            },
+            {
+                  "name": "Diatehnon Arts & Culture",
+                  "text": "Művészeti és kulturális központ Mesa Geitoniában.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042951,
+                        34.676451
+                  ]
+            },
+            {
+                  "name": "Lellos point arts & events",
+                  "text": "Művészeti kiállításoknak és eseményeknek otthont adó galéria Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.047731,
+                        34.676659
+                  ]
+            },
+            {
+                  "name": "Cornado Fine Arts Centre",
+                  "text": "Szépművészeti alkotásokat bemutató művészeti galéria Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.036635,
+                        34.672468
+                  ]
+            },
+            {
+                  "name": "Art Strokes Gallery",
+                  "text": "Kortárs festményekre szakosodott galéria Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.030088,
+                        34.680874
+                  ]
+            },
+            {
+                  "name": "The Gallery 45",
+                  "text": "Kortárs művészeti tér Mesa Geitoniában kiállítások számára.",
+                  "category": "museum",
+                  "coords": [
+                        33.043765,
+                        34.673882
+                  ]
+            },
+            {
+                  "name": "Eins Gallery",
+                  "text": "Helyi művészeket bemutató modern művészeti galéria Mesa Geitoniában.",
+                  "category": "museum",
+                  "coords": [
+                        33.04554,
+                        34.675743
+                  ]
+            },
+            {
+                  "name": "Limassol Water Tower",
+                  "text": "Tájékozódási pontként szolgáló történelmi víztorony Mesa Geitoniában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.038382,
+                        34.67811
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Catholic Church",
+                  "text": "Limassolban található, Szent Katalinnak szentelt római katolikus templom.",
+                  "category": "religious",
+                  "coords": [
+                        33.051856,
+                        34.679467
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Rialto",
+                  "text": "Un teatru cunoscut din Mesa Geitonia pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        33.045788,
+                        34.679552
+                  ]
+            },
+            {
+                  "name": "Limassol Zoo",
+                  "text": "O mică grădină zoologică situată în grădinile municipale din Limassol, cu diverse specii.",
+                  "category": "recreational",
+                  "coords": [
+                        33.055905,
+                        34.683179
+                  ]
+            },
+            {
+                  "name": "Μεσαιωνικό Κάστρο Λεμεσού",
+                  "text": "Un castel istoric din Limassol unde se spune că Richard Inimă de Leu s-ar fi căsătorit cu Berengaria de Navarra.",
+                  "category": "castle",
+                  "coords": [
+                        33.041671,
+                        34.672254
+                  ]
+            },
+            {
+                  "name": "Αρχαιολογικό Μουσείο Επαρχίας Λεμεσού",
+                  "text": "Un muzeu în Mesa Geitonia care expune descoperiri arheologice din districtul Limassol.",
+                  "category": "museum",
+                  "coords": [
+                        33.054407,
+                        34.685333
+                  ]
+            },
+            {
+                  "name": "Theatro Ena",
+                  "text": "Un teatru contemporan din Mesa Geitonia, cunoscut pentru spectacole moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042695,
+                        34.672812
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Un muzeu în Mesa Geitonia cu colecții de importanță istorică și culturală.",
+                  "category": "museum",
+                  "coords": [
+                        33.022427,
+                        34.706855
+                  ]
+            },
+            {
+                  "name": "E.N.A.F",
+                  "text": "O locație locală de teatru în Mesa Geitonia pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        33.022799,
+                        34.713652
+                  ]
+            },
+            {
+                  "name": "Μουσείο στρατηγού Γεωργίου Γρίβα-Διγενή",
+                  "text": "Un muzeu în Mesa Geitonia dedicat vieții generalului Georgios Grivas-Digenis.",
+                  "category": "museum",
+                  "coords": [
+                        33.062186,
+                        34.691429
+                  ]
+            },
+            {
+                  "name": "Cyprus Theatre Museum",
+                  "text": "Un muzeu în Mesa Geitonia care documentează istoria teatrului cipriot.",
+                  "category": "museum",
+                  "coords": [
+                        33.049844,
+                        34.682367
+                  ]
+            },
+            {
+                  "name": "Δημοτικό Μουσείο Λαικης Τεχνης",
+                  "text": "Un muzeu în Mesa Geitonia care expune artă populară și meșteșuguri tradiționale.",
+                  "category": "museum",
+                  "coords": [
+                        33.049043,
+                        34.67892
+                  ]
+            },
+            {
+                  "name": "Limassol Art Museum",
+                  "text": "Un muzeu în Mesa Geitonia care prezintă opere de artă din regiunea Limassol.",
+                  "category": "museum",
+                  "coords": [
+                        33.057736,
+                        34.683659
+                  ]
+            },
+            {
+                  "name": "Pattihio Municipal Theatre",
+                  "text": "Un teatru municipal important din Mesa Geitonia pentru concerte și spectacole.",
+                  "category": "cultural",
+                  "coords": [
+                        33.043891,
+                        34.681293
+                  ]
+            },
+            {
+                  "name": "Laniteio Theatre",
+                  "text": "Un teatru din Mesa Geitonia asociat cu școala Laniteio.",
+                  "category": "cultural",
+                  "coords": [
+                        33.040832,
+                        34.688711
+                  ]
+            },
+            {
+                  "name": "Molos Lemesos",
+                  "text": "Populara promenadă de pe malul mării din Limassol, cu grădini și sculpturi.",
+                  "category": "park",
+                  "coords": [
+                        33.048115,
+                        34.67529
+                  ]
+            },
+            {
+                  "name": "Δημοτικός Κήπος Λεμεσού",
+                  "text": "Un parc public din Mesa Geitonia care oferă recreere și o mică grădină zoologică.",
+                  "category": "park",
+                  "coords": [
+                        33.054757,
+                        34.683361
+                  ]
+            },
+            {
+                  "name": "Shark's teeth",
+                  "text": "Un monument unic în Mesa Geitonia, cunoscut sub numele de Dinții de Rechin.",
+                  "category": "historical",
+                  "coords": [
+                        33.051819,
+                        34.678511
+                  ]
+            },
+            {
+                  "name": "\"My Love\"",
+                  "text": "Un monument din Mesa Geitonia intitulat „My Love”.",
+                  "category": "historical",
+                  "coords": [
+                        33.066879,
+                        34.687578
+                  ]
+            },
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "O stațiune populară de plajă din Mesa Geitonia, cu facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            },
+            {
+                  "name": "Stin Agonizomeni Mathitiosa Neolaia",
+                  "text": "Un monument în Mesa Geitonia dedicat tineretului studios luptător.",
+                  "category": "historical",
+                  "coords": [
+                        33.038771,
+                        34.687122
+                  ]
+            },
+            {
+                  "name": "Makarious III",
+                  "text": "Un monument în Mesa Geitonia ridicat în onoarea Arhiepiscopului Makarios al III-lea.",
+                  "category": "historical",
+                  "coords": [
+                        33.036191,
+                        34.686764
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "Un parc de distracții pentru familii și atracție în Mesa Geitonia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.035658,
+                        34.671704
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "O fântână ornamentală cu o statuie de delfin în Mesa Geitonia.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "Un centru de artă din Mesa Geitonia care promovează expoziții și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        33.06438,
+                        34.690515
+                  ]
+            },
+            {
+                  "name": "NeMe Arts Centre",
+                  "text": "Un centru de artă contemporană din Mesa Geitonia pentru proiecte inovatoare.",
+                  "category": "cultural",
+                  "coords": [
+                        33.041613,
+                        34.676104
+                  ]
+            },
+            {
+                  "name": "Diatehnon Arts & Culture",
+                  "text": "Un centru pentru artă și cultură din Mesa Geitonia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042951,
+                        34.676451
+                  ]
+            },
+            {
+                  "name": "Lellos point arts & events",
+                  "text": "O galerie din Mesa Geitonia care găzduiește expoziții de artă și evenimente.",
+                  "category": "museum",
+                  "coords": [
+                        33.047731,
+                        34.676659
+                  ]
+            },
+            {
+                  "name": "Cornado Fine Arts Centre",
+                  "text": "O galerie de artă din Mesa Geitonia care prezintă opere de artă frumoase.",
+                  "category": "museum",
+                  "coords": [
+                        33.036635,
+                        34.672468
+                  ]
+            },
+            {
+                  "name": "Art Strokes Gallery",
+                  "text": "O galerie din Mesa Geitonia specializată în pictură contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        33.030088,
+                        34.680874
+                  ]
+            },
+            {
+                  "name": "The Gallery 45",
+                  "text": "Un spațiu de artă contemporană din Mesa Geitonia pentru expoziții.",
+                  "category": "museum",
+                  "coords": [
+                        33.043765,
+                        34.673882
+                  ]
+            },
+            {
+                  "name": "Eins Gallery",
+                  "text": "O galerie de artă modernă din Mesa Geitonia care expune artiști locali.",
+                  "category": "museum",
+                  "coords": [
+                        33.04554,
+                        34.675743
+                  ]
+            },
+            {
+                  "name": "Limassol Water Tower",
+                  "text": "Un turn de apă istoric din Mesa Geitonia care servește drept punct de reper.",
+                  "category": "landmark",
+                  "coords": [
+                        33.038382,
+                        34.67811
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Catholic Church",
+                  "text": "O biserică romano-catolică din Limassol dedicată Sfintei Ecaterina.",
+                  "category": "religious",
+                  "coords": [
+                        33.051856,
+                        34.679467
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rialto",
+                  "text": "A well-known theatre in Mesa Geitonia for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        33.045788,
+                        34.679552
+                  ]
+            },
+            {
+                  "name": "Limassol Zoo",
+                  "text": "A small zoo located in the municipal gardens of Limassol featuring various species.",
+                  "category": "recreational",
+                  "coords": [
+                        33.055905,
+                        34.683179
+                  ]
+            },
+            {
+                  "name": "Limassol Medieval Castle",
+                  "text": "A historic castle in Limassol where Richard the Lionheart reportedly married Berengaria of Navarre.",
+                  "category": "castle",
+                  "coords": [
+                        33.041671,
+                        34.672254
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum of the Limassol District",
+                  "text": "A museum in Mesa Geitonia displaying archaeological finds from the Limassol district.",
+                  "category": "museum",
+                  "coords": [
+                        33.054407,
+                        34.685333
+                  ]
+            },
+            {
+                  "name": "Theatro Ena",
+                  "text": "A contemporary theatre in Mesa Geitonia known for modern performances.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042695,
+                        34.672812
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "A museum in Mesa Geitonia featuring collections of historical and cultural significance.",
+                  "category": "museum",
+                  "coords": [
+                        33.022427,
+                        34.706855
+                  ]
+            },
+            {
+                  "name": "E.N.A.F",
+                  "text": "A local theatre venue in Mesa Geitonia for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        33.022799,
+                        34.713652
+                  ]
+            },
+            {
+                  "name": "Museum of General Georgios Grivas-Digenis",
+                  "text": "A museum in Mesa Geitonia dedicated to the life of General Georgios Grivas-Digenis.",
+                  "category": "museum",
+                  "coords": [
+                        33.062186,
+                        34.691429
+                  ]
+            },
+            {
+                  "name": "Cyprus Theatre Museum",
+                  "text": "A museum in Mesa Geitonia documenting the history of Cypriot theatre.",
+                  "category": "museum",
+                  "coords": [
+                        33.049844,
+                        34.682367
+                  ]
+            },
+            {
+                  "name": "Municipal Museum of Folk Art",
+                  "text": "A museum in Mesa Geitonia exhibiting traditional folk art and crafts.",
+                  "category": "museum",
+                  "coords": [
+                        33.049043,
+                        34.67892
+                  ]
+            },
+            {
+                  "name": "Limassol Art Museum",
+                  "text": "A museum in Mesa Geitonia showcasing artworks from the Limassol region.",
+                  "category": "museum",
+                  "coords": [
+                        33.057736,
+                        34.683659
+                  ]
+            },
+            {
+                  "name": "Pattihio Municipal Theatre",
+                  "text": "A major municipal theatre in Mesa Geitonia for concerts and performances.",
+                  "category": "cultural",
+                  "coords": [
+                        33.043891,
+                        34.681293
+                  ]
+            },
+            {
+                  "name": "Laniteio Theatre",
+                  "text": "A theatre in Mesa Geitonia associated with the Laniteio school.",
+                  "category": "cultural",
+                  "coords": [
+                        33.040832,
+                        34.688711
+                  ]
+            },
+            {
+                  "name": "Molos Lemesos",
+                  "text": "The popular seaside promenade of Limassol featuring gardens and sculptures.",
+                  "category": "park",
+                  "coords": [
+                        33.048115,
+                        34.67529
+                  ]
+            },
+            {
+                  "name": "Limassol Municipal Garden",
+                  "text": "A public park in Mesa Geitonia offering recreation and a small zoo.",
+                  "category": "park",
+                  "coords": [
+                        33.054757,
+                        34.683361
+                  ]
+            },
+            {
+                  "name": "Shark's teeth",
+                  "text": "A unique monument in Mesa Geitonia known as Shark's teeth.",
+                  "category": "historical",
+                  "coords": [
+                        33.051819,
+                        34.678511
+                  ]
+            },
+            {
+                  "name": "\"My Love\"",
+                  "text": "A monument in Mesa Geitonia titled \"My Love\".",
+                  "category": "historical",
+                  "coords": [
+                        33.066879,
+                        34.687578
+                  ]
+            },
+            {
+                  "name": "Akti Olympion Beach",
+                  "text": "A popular beach resort in Mesa Geitonia with leisure facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        33.053556,
+                        34.680034
+                  ]
+            },
+            {
+                  "name": "Stin Agonizomeni Mathitiosa Neolaia",
+                  "text": "A monument in Mesa Geitonia dedicated to the struggling student youth.",
+                  "category": "historical",
+                  "coords": [
+                        33.038771,
+                        34.687122
+                  ]
+            },
+            {
+                  "name": "Makarious III",
+                  "text": "A monument in Mesa Geitonia honoring Archbishop Makarios III.",
+                  "category": "historical",
+                  "coords": [
+                        33.036191,
+                        34.686764
+                  ]
+            },
+            {
+                  "name": "Bubble Park",
+                  "text": "A family-friendly amusement park and attraction in Mesa Geitonia.",
+                  "category": "landmark",
+                  "coords": [
+                        33.035658,
+                        34.671704
+                  ]
+            },
+            {
+                  "name": "Dolphin Statue Fountain",
+                  "text": "An ornamental fountain featuring a dolphin statue in Mesa Geitonia.",
+                  "category": "historical",
+                  "coords": [
+                        33.01843,
+                        34.686263
+                  ]
+            },
+            {
+                  "name": "Angara",
+                  "text": "An arts centre in Mesa Geitonia promoting cultural exhibitions and events.",
+                  "category": "cultural",
+                  "coords": [
+                        33.06438,
+                        34.690515
+                  ]
+            },
+            {
+                  "name": "NeMe Arts Centre",
+                  "text": "A contemporary arts centre in Mesa Geitonia for innovative projects.",
+                  "category": "cultural",
+                  "coords": [
+                        33.041613,
+                        34.676104
+                  ]
+            },
+            {
+                  "name": "Diatehnon Arts & Culture",
+                  "text": "A centre for arts and culture located in Mesa Geitonia.",
+                  "category": "cultural",
+                  "coords": [
+                        33.042951,
+                        34.676451
+                  ]
+            },
+            {
+                  "name": "Lellos point arts & events",
+                  "text": "A gallery in Mesa Geitonia hosting art exhibitions and events.",
+                  "category": "museum",
+                  "coords": [
+                        33.047731,
+                        34.676659
+                  ]
+            },
+            {
+                  "name": "Cornado Fine Arts Centre",
+                  "text": "A fine arts gallery in Mesa Geitonia showcasing various artworks.",
+                  "category": "museum",
+                  "coords": [
+                        33.036635,
+                        34.672468
+                  ]
+            },
+            {
+                  "name": "Art Strokes Gallery",
+                  "text": "A gallery in Mesa Geitonia specializing in contemporary painting.",
+                  "category": "museum",
+                  "coords": [
+                        33.030088,
+                        34.680874
+                  ]
+            },
+            {
+                  "name": "The Gallery 45",
+                  "text": "A contemporary art space in Mesa Geitonia for exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        33.043765,
+                        34.673882
+                  ]
+            },
+            {
+                  "name": "Eins Gallery",
+                  "text": "A modern art gallery in Mesa Geitonia exhibiting local artists.",
+                  "category": "museum",
+                  "coords": [
+                        33.04554,
+                        34.675743
+                  ]
+            },
+            {
+                  "name": "Limassol Water Tower",
+                  "text": "A historic water tower in Mesa Geitonia serving as a local landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        33.038382,
+                        34.67811
+                  ]
+            },
+            {
+                  "name": "St. Catherine's Catholic Church",
+                  "text": "A Roman Catholic church in Limassol dedicated to Saint Catherine.",
+                  "category": "religious",
+                  "coords": [
+                        33.051856,
+                        34.679467
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Mesa Geitonia", hu: "Mésza Geitónia", ro: "Mesa Geitonia", en: "Mesa Geitonia" },
@@ -183,7 +3162,88 @@ export const cyprusCitiesV2: POI[] = [
     image: "/poi-images/cyprus-mesa-geitonia-cities-v2.webp",
   },
   {
-    id: "cyprus-agi-trimithia-cities-v2",
+    id: "cyprus-agi-trimithia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Μέλιος",
+                  "text": "Ein Zoo in Agioi Trimithias, der verschiedene Tierarten in einer natürlichen Umgebung zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Unterirdische Gänge in Agioi Trimithias, die als historische Sehenswürdigkeit dienen.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Μέλιος",
+                  "text": "Állatkert Agioi Trimithiasban, amely különféle állatfajokat mutat be természetes környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Földalatti járatok Agioi Trimithiasban, amelyek történelmi látványosságként szolgálnak.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Μέλιος",
+                  "text": "O grădină zoologică în Agioi Trimithias care prezintă diverse specii de animale într-un mediu natural.",
+                  "category": "recreational",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Tuneluri subterane în Agioi Trimithias care servesc ca atracție istorică.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Melios Zoo",
+                  "text": "A zoo in Agioi Trimithias showing various animal species in a natural environment.",
+                  "category": "recreational",
+                  "coords": [
+                        33.242694,
+                        35.124514
+                  ]
+            },
+            {
+                  "name": "Tunnels",
+                  "text": "Underground tunnels in Agioi Trimithias serving as a historical attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        33.227908,
+                        35.165124
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CY",
     name: { de: "Agioi Trimithias", hu: "Áji Trimithiás", ro: "Agioi Trimithias", en: "Agioi Trimithias" },

@@ -7840,6 +7840,132 @@ export const romaniaCities: POI[] = [
                         25.45649,
                         44.929666
                   ]
+            },
+            {
+                  "name": "Casa - Atelier \"Gheorghe Petrașcu\"",
+                  "text": "Das \"Gheorghe Petrașcu\" Haus und Atelier ist ein Museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.452197,
+                        44.933592
+                  ]
+            },
+            {
+                  "name": "Muzeul Eparhial din Cadrul Mănăstirii Stelea",
+                  "text": "Das Diözesanmuseum im Kloster Stelea ist ein Museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.462232,
+                        44.929023
+                  ]
+            },
+            {
+                  "name": "Complexul Mitropoliei",
+                  "text": "Der Metropoliekomplex ist ein Museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.45963,
+                        44.925673
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunității Bulgarilor",
+                  "text": "Das Museum der bulgarischen Gemeinde ist ein Museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.490323,
+                        44.915425
+                  ]
+            },
+            {
+                  "name": "Muzeul Scriitorilor Damboviteni",
+                  "text": "Das Museum der Schriftsteller der Region Dambovita ist ein Museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.463926,
+                        44.929879
+                  ]
+            },
+            {
+                  "name": "Galeriile Stelea",
+                  "text": "Die Stelea Kunstgalerien sind ein Museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.461324,
+                        44.928786
+                  ]
+            },
+            {
+                  "name": "Centrul Județean de Cultură \"Vasile Cârlova\"",
+                  "text": "Das Kreiskulturzentrum \"Vasile Cârlova\" ist ein Theater in Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.45933,
+                        44.92895
+                  ]
+            },
+            {
+                  "name": "Muzeul Revoluției",
+                  "text": "Das Muzeul Revoluției ist ein Museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.455982,
+                        44.917106
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Târgoviște",
+                  "text": "Der zoologische Garten von Târgoviște ist ein Zoo in der rumänischen Stadt Târgoviște.",
+                  "category": "recreational",
+                  "coords": [
+                        25.457043,
+                        44.935695
+                  ]
+            },
+            {
+                  "name": "Teatrul Toni Bulandra",
+                  "text": "Das Teatrul Toni Bulandra ist ein Theater in Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456632,
+                        44.918962
+                  ]
+            },
+            {
+                  "name": "Teatru de vară",
+                  "text": "Das Teatru de vară ist ein Theater in Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456349,
+                        44.933916
+                  ]
+            },
+            {
+                  "name": "Poșta Veche",
+                  "text": "Die Poșta Veche ist eine Sehenswürdigkeit in Târgoviște.",
+                  "category": "landmark",
+                  "coords": [
+                        25.458255,
+                        44.929372
+                  ]
+            },
+            {
+                  "name": "Constantin Basarab Brâncoveanu și fiii săi",
+                  "text": "Das Denkmal für Constantin Basarab Brâncoveanu und seine Söhne ist ein Denkmal in Târgoviște.",
+                  "category": "historical",
+                  "coords": [
+                        25.458312,
+                        44.927532
+                  ]
+            },
+            {
+                  "name": "Primăria Muncipiului Târgoviște",
+                  "text": "Das Rathaus von Târgoviște ist der Sitz der städtischen Verwaltung in Târgoviște.",
+                  "category": "historical",
+                  "coords": [
+                        25.457279,
+                        44.927045
+                  ]
             }
       ],
       "hu": [
@@ -7941,6 +8067,132 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.45649,
                         44.929666
+                  ]
+            },
+            {
+                  "name": "Casa - Atelier \"Gheorghe Petrașcu\"",
+                  "text": "A \"Gheorghe Petrașcu\" Ház és Műterem egy múzeum Târgoviște városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.452197,
+                        44.933592
+                  ]
+            },
+            {
+                  "name": "Muzeul Eparhial din Cadrul Mănăstirii Stelea",
+                  "text": "A Stelea Kolostor Egyházmegyei Múzeuma egy múzeum Târgoviște városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.462232,
+                        44.929023
+                  ]
+            },
+            {
+                  "name": "Complexul Mitropoliei",
+                  "text": "A Metropólia Komplexum egy múzeum Târgoviște városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.45963,
+                        44.925673
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunității Bulgarilor",
+                  "text": "A Bolgár Közösség Múzeuma egy múzeum Târgoviște városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.490323,
+                        44.915425
+                  ]
+            },
+            {
+                  "name": "Muzeul Scriitorilor Damboviteni",
+                  "text": "A Dâmbovița Régió Íróinak Múzeuma egy múzeum Târgoviște városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.463926,
+                        44.929879
+                  ]
+            },
+            {
+                  "name": "Galeriile Stelea",
+                  "text": "A Stelea Művészeti Galériák egy múzeum Târgoviște városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.461324,
+                        44.928786
+                  ]
+            },
+            {
+                  "name": "Centrul Județean de Cultură \"Vasile Cârlova\"",
+                  "text": "A \"Vasile Cârlova\" Megyei Kulturális Központ egy színház Târgoviște városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.45933,
+                        44.92895
+                  ]
+            },
+            {
+                  "name": "Muzeul Revoluției",
+                  "text": "A Muzeul Revoluției egy múzeum Târgoviște városában.",
+                  "category": "museum",
+                  "coords": [
+                        25.455982,
+                        44.917106
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Târgoviște",
+                  "text": "A Târgoviștei Állatkert egy állatkert Târgoviște városában.",
+                  "category": "recreational",
+                  "coords": [
+                        25.457043,
+                        44.935695
+                  ]
+            },
+            {
+                  "name": "Teatrul Toni Bulandra",
+                  "text": "A Teatrul Toni Bulandra egy színház Târgoviște városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456632,
+                        44.918962
+                  ]
+            },
+            {
+                  "name": "Teatru de vară",
+                  "text": "A Teatru de vară egy színház Târgoviște városában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456349,
+                        44.933916
+                  ]
+            },
+            {
+                  "name": "Poșta Veche",
+                  "text": "A Poșta Veche egy látványosság Târgoviște városában.",
+                  "category": "landmark",
+                  "coords": [
+                        25.458255,
+                        44.929372
+                  ]
+            },
+            {
+                  "name": "Constantin Basarab Brâncoveanu și fiii săi",
+                  "text": "A Constantin Basarab Brâncoveanu és fiai emlékmű egy emlékmű Târgoviște városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.458312,
+                        44.927532
+                  ]
+            },
+            {
+                  "name": "Primăria Muncipiului Târgoviște",
+                  "text": "Târgoviște polgármesteri hivatala a városvezetés székhelye Târgoviște városában.",
+                  "category": "historical",
+                  "coords": [
+                        25.457279,
+                        44.927045
                   ]
             }
       ],
@@ -8044,6 +8296,132 @@ export const romaniaCities: POI[] = [
                         25.45649,
                         44.929666
                   ]
+            },
+            {
+                  "name": "Casa - Atelier \"Gheorghe Petrașcu\"",
+                  "text": "Casa și Atelierul \"Gheorghe Petrașcu\" este un muzeu din Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.452197,
+                        44.933592
+                  ]
+            },
+            {
+                  "name": "Muzeul Eparhial din Cadrul Mănăstirii Stelea",
+                  "text": "Muzeul Eparhial din Mănăstirea Stelea este un muzeu din Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.462232,
+                        44.929023
+                  ]
+            },
+            {
+                  "name": "Complexul Mitropoliei",
+                  "text": "Complexul Mitropoliei este un muzeu din Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.45963,
+                        44.925673
+                  ]
+            },
+            {
+                  "name": "Muzeul Comunității Bulgarilor",
+                  "text": "Muzeul Comunității Bulgare este un muzeu din Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.490323,
+                        44.915425
+                  ]
+            },
+            {
+                  "name": "Muzeul Scriitorilor Damboviteni",
+                  "text": "Muzeul Scriitorilor Dâmbovițeni este un muzeu din Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.463926,
+                        44.929879
+                  ]
+            },
+            {
+                  "name": "Galeriile Stelea",
+                  "text": "Galeriile de Artă Stelea sunt un muzeu din Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.461324,
+                        44.928786
+                  ]
+            },
+            {
+                  "name": "Centrul Județean de Cultură \"Vasile Cârlova\"",
+                  "text": "Centrul Județean de Cultură \"Vasile Cârlova\" este un teatru din Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.45933,
+                        44.92895
+                  ]
+            },
+            {
+                  "name": "Muzeul Revoluției",
+                  "text": "Muzeul Revoluției este un muzeu din Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.455982,
+                        44.917106
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Târgoviște",
+                  "text": "Grădina Zoologică din Târgoviște este un parc zoologic din orașul Târgoviște.",
+                  "category": "recreational",
+                  "coords": [
+                        25.457043,
+                        44.935695
+                  ]
+            },
+            {
+                  "name": "Teatrul Toni Bulandra",
+                  "text": "Teatrul Toni Bulandra este un teatru din Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456632,
+                        44.918962
+                  ]
+            },
+            {
+                  "name": "Teatru de vară",
+                  "text": "Teatrul de vară este un teatru din Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456349,
+                        44.933916
+                  ]
+            },
+            {
+                  "name": "Poșta Veche",
+                  "text": "Poșta Veche este o atracție din Târgoviște.",
+                  "category": "landmark",
+                  "coords": [
+                        25.458255,
+                        44.929372
+                  ]
+            },
+            {
+                  "name": "Constantin Basarab Brâncoveanu și fiii săi",
+                  "text": "Monumentul lui Constantin Basarab Brâncoveanu și fiii săi este un monument din Târgoviște.",
+                  "category": "historical",
+                  "coords": [
+                        25.458312,
+                        44.927532
+                  ]
+            },
+            {
+                  "name": "Primăria Muncipiului Târgoviște",
+                  "text": "Primăria Municipiului Târgoviște este sediul administrației locale din oraș.",
+                  "category": "historical",
+                  "coords": [
+                        25.457279,
+                        44.927045
+                  ]
             }
       ],
       "en": [
@@ -8145,6 +8523,132 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.45649,
                         44.929666
+                  ]
+            },
+            {
+                  "name": "\"Gheorghe Petrașcu\" House and Workshop",
+                  "text": "The \"Gheorghe Petrașcu\" House and Workshop is a museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.452197,
+                        44.933592
+                  ]
+            },
+            {
+                  "name": "Diocese Museum in Stelea Monastery",
+                  "text": "The Diocese Museum in Stelea Monastery is a museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.462232,
+                        44.929023
+                  ]
+            },
+            {
+                  "name": "Metropolitan Bishopric' Complex",
+                  "text": "The Metropolitan Bishopric' Complex is a museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.45963,
+                        44.925673
+                  ]
+            },
+            {
+                  "name": "Museum of Bulgarian Community",
+                  "text": "The Museum of Bulgarian Community is a museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.490323,
+                        44.915425
+                  ]
+            },
+            {
+                  "name": "Museum of Dambovita Region the Writers",
+                  "text": "The Museum of Dambovita Region the Writers is a museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.463926,
+                        44.929879
+                  ]
+            },
+            {
+                  "name": "Stelea Art Galleries",
+                  "text": "The Stelea Art Galleries is a museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.461324,
+                        44.928786
+                  ]
+            },
+            {
+                  "name": "Centrul Județean de Cultură \"Vasile Cârlova\"",
+                  "text": "The \"Vasile Cârlova\" County Cultural Center is a theatre in Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.45933,
+                        44.92895
+                  ]
+            },
+            {
+                  "name": "Muzeul Revoluției",
+                  "text": "The Muzeul Revoluției is a museum in Târgoviște.",
+                  "category": "museum",
+                  "coords": [
+                        25.455982,
+                        44.917106
+                  ]
+            },
+            {
+                  "name": "Targoviste Zoological Garden",
+                  "text": "The Targoviste Zoological Garden is a zoo located in Târgoviște.",
+                  "category": "recreational",
+                  "coords": [
+                        25.457043,
+                        44.935695
+                  ]
+            },
+            {
+                  "name": "Teatrul Toni Bulandra",
+                  "text": "The Teatrul Toni Bulandra is a theatre in Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456632,
+                        44.918962
+                  ]
+            },
+            {
+                  "name": "Teatru de vară",
+                  "text": "The Teatru de vară is a theatre in Târgoviște.",
+                  "category": "cultural",
+                  "coords": [
+                        25.456349,
+                        44.933916
+                  ]
+            },
+            {
+                  "name": "Poșta Veche",
+                  "text": "The Poșta Veche is an attraction in Târgoviște.",
+                  "category": "landmark",
+                  "coords": [
+                        25.458255,
+                        44.929372
+                  ]
+            },
+            {
+                  "name": "Constantin Basarab Brâncoveanu și fiii săi",
+                  "text": "The Constantin Basarab Brâncoveanu and his sons is a monument in Târgoviște.",
+                  "category": "historical",
+                  "coords": [
+                        25.458312,
+                        44.927532
+                  ]
+            },
+            {
+                  "name": "Primăria Muncipiului Târgoviște",
+                  "text": "The Târgoviște City Hall is the seat of the local government in Târgoviște.",
+                  "category": "historical",
+                  "coords": [
+                        25.457279,
+                        44.927045
                   ]
             }
       ]
@@ -8692,6 +9196,105 @@ export const romaniaCities: POI[] = [
                         22.644094,
                         44.622109
                   ]
+            },
+            {
+                  "name": "Termele romane",
+                  "text": "Die Ruinen der antiken römischen Badeanlagen von Drobeta.",
+                  "category": "historical",
+                  "coords": [
+                        22.663836,
+                        44.623575
+                  ]
+            },
+            {
+                  "name": "Каструм Понтес",
+                  "text": "Ein Hilfskastell zum Schutz der römischen Brücke über die Donau.",
+                  "category": "historical",
+                  "coords": [
+                        22.66913,
+                        44.613206
+                  ]
+            },
+            {
+                  "name": "Ruinele castrului roman Drobeta",
+                  "text": "Die archäologische Ausgrabungsstätte des römischen Lagers Drobeta.",
+                  "category": "historical",
+                  "coords": [
+                        22.668107,
+                        44.624867
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul roman",
+                  "text": "Die erst kürzlich freigelegten Ruinen eines römischen Amphitheaters.",
+                  "category": "historical",
+                  "coords": [
+                        22.665486,
+                        44.62421
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Ein Kunstmuseum in Drobeta-Turnu Severin, das regionale Kunstwerke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        22.655817,
+                        44.625174
+                  ]
+            },
+            {
+                  "name": "Cremma Sunny Beach",
+                  "text": "Ein Wasserpark in Drobeta-Turnu Severin, der Freizeit- und Erholungsmöglichkeiten bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        22.648646,
+                        44.636134
+                  ]
+            },
+            {
+                  "name": "Macheta podului lui Traian",
+                  "text": "Ein Modell der historischen Trajansbrücke in Drobeta-Turnu Severin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.638291,
+                        44.62405
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Ein Kulturzentrum in Drobeta-Turnu Severin für Jugend- und Kunstveranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        22.65044,
+                        44.633848
+                  ]
+            },
+            {
+                  "name": "Catedrala Severin",
+                  "text": "Die Hauptkathedrale von Drobeta-Turnu Severin, ein bedeutendes religiöses Bauwerk.",
+                  "category": "religious",
+                  "coords": [
+                        22.653821,
+                        44.627404
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "Eine römisch-katholische Kirche, die der örtlichen Gemeinde in Drobeta-Turnu Severin dient.",
+                  "category": "religious",
+                  "coords": [
+                        22.646936,
+                        44.624367
+                  ]
+            },
+            {
+                  "name": "Biserica Maioreasa",
+                  "text": "Eine historische orthodoxe Kirche im Zentrum von Drobeta-Turnu Severin.",
+                  "category": "religious",
+                  "coords": [
+                        22.658627,
+                        44.625391
+                  ]
             }
       ],
       "hu": [
@@ -8773,6 +9376,105 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         22.644094,
                         44.622109
+                  ]
+            },
+            {
+                  "name": "Termele romane",
+                  "text": "Drobeta ókori római fürdőinek maradványai.",
+                  "category": "historical",
+                  "coords": [
+                        22.663836,
+                        44.623575
+                  ]
+            },
+            {
+                  "name": "Каструм Понтес",
+                  "text": "A Dunán átívelő római híd védelmére emelt segéderőd.",
+                  "category": "historical",
+                  "coords": [
+                        22.66913,
+                        44.613206
+                  ]
+            },
+            {
+                  "name": "Ruinele castrului roman Drobeta",
+                  "text": "A drobetai római katonai tábor régészeti ásatási területe.",
+                  "category": "historical",
+                  "coords": [
+                        22.668107,
+                        44.624867
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul roman",
+                  "text": "Egy nemrégiben feltárt római amfiteátrum romjai.",
+                  "category": "historical",
+                  "coords": [
+                        22.665486,
+                        44.62421
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Szépművészeti múzeum Drobeta-Turnu Severinben, amely regionális alkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.655817,
+                        44.625174
+                  ]
+            },
+            {
+                  "name": "Cremma Sunny Beach",
+                  "text": "Vízi vidámpark Drobeta-Turnu Severinben, amely szabadidős és kikapcsolódási lehetőségeket kínál.",
+                  "category": "recreational",
+                  "coords": [
+                        22.648646,
+                        44.636134
+                  ]
+            },
+            {
+                  "name": "Macheta podului lui Traian",
+                  "text": "A történelmi Traianus híd makettje Drobeta-Turnu Severinben.",
+                  "category": "landmark",
+                  "coords": [
+                        22.638291,
+                        44.62405
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Kulturális központ Drobeta-Turnu Severinben ifjúsági és művészeti eseményeknek.",
+                  "category": "cultural",
+                  "coords": [
+                        22.65044,
+                        44.633848
+                  ]
+            },
+            {
+                  "name": "Catedrala Severin",
+                  "text": "Drobeta-Turnu Severin főszékesegyháza, jelentős vallási épület.",
+                  "category": "religious",
+                  "coords": [
+                        22.653821,
+                        44.627404
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "Római katolikus templom Drobeta-Turnu Severinben, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        22.646936,
+                        44.624367
+                  ]
+            },
+            {
+                  "name": "Biserica Maioreasa",
+                  "text": "Történelmi ortodox templom Drobeta-Turnu Severin központjában.",
+                  "category": "religious",
+                  "coords": [
+                        22.658627,
+                        44.625391
                   ]
             }
       ],
@@ -8856,6 +9558,105 @@ export const romaniaCities: POI[] = [
                         22.644094,
                         44.622109
                   ]
+            },
+            {
+                  "name": "Termele romane",
+                  "text": "Ruinele vechilor băi romane din Drobeta.",
+                  "category": "historical",
+                  "coords": [
+                        22.663836,
+                        44.623575
+                  ]
+            },
+            {
+                  "name": "Каструм Понтес",
+                  "text": "Un castru auxiliar ridicat pentru protecția podului roman peste Dunăre.",
+                  "category": "historical",
+                  "coords": [
+                        22.66913,
+                        44.613206
+                  ]
+            },
+            {
+                  "name": "Ruinele castrului roman Drobeta",
+                  "text": "Situl arheologic al castrului roman de la Drobeta.",
+                  "category": "historical",
+                  "coords": [
+                        22.668107,
+                        44.624867
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul roman",
+                  "text": "Ruinele unui amfiteatru roman descoperite recent.",
+                  "category": "historical",
+                  "coords": [
+                        22.665486,
+                        44.62421
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Un muzeu de artă în Drobeta-Turnu Severin care expune lucrări de artă regională.",
+                  "category": "museum",
+                  "coords": [
+                        22.655817,
+                        44.625174
+                  ]
+            },
+            {
+                  "name": "Cremma Sunny Beach",
+                  "text": "Un parc acvatic în Drobeta-Turnu Severin care oferă facilități de recreere.",
+                  "category": "recreational",
+                  "coords": [
+                        22.648646,
+                        44.636134
+                  ]
+            },
+            {
+                  "name": "Macheta podului lui Traian",
+                  "text": "O machetă a podului istoric al lui Traian în Drobeta-Turnu Severin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.638291,
+                        44.62405
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "Un centru cultural în Drobeta-Turnu Severin pentru activități de tineret și artă.",
+                  "category": "cultural",
+                  "coords": [
+                        22.65044,
+                        44.633848
+                  ]
+            },
+            {
+                  "name": "Catedrala Severin",
+                  "text": "Catedrala principală din Drobeta-Turnu Severin, un edificiu religios important.",
+                  "category": "religious",
+                  "coords": [
+                        22.653821,
+                        44.627404
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "O biserică romano-catolică ce deservește comunitatea locală din Drobeta-Turnu Severin.",
+                  "category": "religious",
+                  "coords": [
+                        22.646936,
+                        44.624367
+                  ]
+            },
+            {
+                  "name": "Biserica Maioreasa",
+                  "text": "O biserică ortodoxă istorică situată în centrul orașului Drobeta-Turnu Severin.",
+                  "category": "religious",
+                  "coords": [
+                        22.658627,
+                        44.625391
+                  ]
             }
       ],
       "en": [
@@ -8937,6 +9738,105 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         22.644094,
                         44.622109
+                  ]
+            },
+            {
+                  "name": "Termele romane",
+                  "text": "The ruins of the ancient Roman baths of Drobeta.",
+                  "category": "historical",
+                  "coords": [
+                        22.663836,
+                        44.623575
+                  ]
+            },
+            {
+                  "name": "Каструм Понтес",
+                  "text": "An auxiliary fort built for the protection of the Roman bridge over the Danube.",
+                  "category": "historical",
+                  "coords": [
+                        22.66913,
+                        44.613206
+                  ]
+            },
+            {
+                  "name": "Castra of Drobeta",
+                  "text": "The archaeological excavation site of the Drobeta Roman fort.",
+                  "category": "historical",
+                  "coords": [
+                        22.668107,
+                        44.624867
+                  ]
+            },
+            {
+                  "name": "Amfiteatrul roman",
+                  "text": "The recently uncovered ruins of a Roman amphitheatre.",
+                  "category": "historical",
+                  "coords": [
+                        22.665486,
+                        44.62421
+                  ]
+            },
+            {
+                  "name": "Art Museum",
+                  "text": "An art museum in Drobeta-Turnu Severin exhibiting regional artworks.",
+                  "category": "museum",
+                  "coords": [
+                        22.655817,
+                        44.625174
+                  ]
+            },
+            {
+                  "name": "Cremma Sunny Beach",
+                  "text": "A water park in Drobeta-Turnu Severin offering leisure and recreation facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        22.648646,
+                        44.636134
+                  ]
+            },
+            {
+                  "name": "Macheta podului lui Traian",
+                  "text": "A model of the historic Trajan's Bridge in Drobeta-Turnu Severin.",
+                  "category": "landmark",
+                  "coords": [
+                        22.638291,
+                        44.62405
+                  ]
+            },
+            {
+                  "name": "Casa Tineretului",
+                  "text": "A cultural center in Drobeta-Turnu Severin for youth and arts events.",
+                  "category": "cultural",
+                  "coords": [
+                        22.65044,
+                        44.633848
+                  ]
+            },
+            {
+                  "name": "Catedrala Severin",
+                  "text": "The main cathedral of Drobeta-Turnu Severin, an important religious building.",
+                  "category": "religious",
+                  "coords": [
+                        22.653821,
+                        44.627404
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică",
+                  "text": "A Roman Catholic church serving the local community in Drobeta-Turnu Severin.",
+                  "category": "religious",
+                  "coords": [
+                        22.646936,
+                        44.624367
+                  ]
+            },
+            {
+                  "name": "Biserica Maioreasa",
+                  "text": "A historic Orthodox church located in the center of Drobeta-Turnu Severin.",
+                  "category": "religious",
+                  "coords": [
+                        22.658627,
+                        44.625391
                   ]
             }
       ]
@@ -9346,6 +10246,384 @@ export const romaniaCities: POI[] = [
                         26.079612,
                         44.470805
                   ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Das Muzeul George Severeanu ist ein Museum in der Nähe des Herăstrău-Parks in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Das Kunstsammlungsmuseum ist ein Museum für Kunstsammlungen in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "Das Nationalmuseum für historische Karten und alte Bücher befindet sich in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Das Museum des rumänischen Bauern ist ein bedeutendes Museum in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul \"K. H. Zambaccian\"",
+                  "text": "Das K.H. Zambaccian Museum ist ein Kunstmuseum in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Das Naturhistorische Museum Grigore Antipa ist ein Museum für Naturgeschichte in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Das Nationale Geologiemuseum befindet sich in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Muzeul Nicolae Minovici",
+                  "text": "Das Museum für Volkskunst „Prof. Dr. Nicolae Minovici“ ist ein Museum in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Frühlingspalast",
+                  "text": "Der Palatul Primăverii ist eine ehemalige Residenz in Bukarest, die heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Das Astronomische Observatorium „Amiral Vasile Urseanu“ ist ein Observatorium und Museum in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Aviației Române",
+                  "text": "Das Nationale Luftfahrtmuseum von Rumänien ist ein Museum in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "Das Museum der Rumänischen Eisenbahn ist ein Eisenbahnmuseum in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "Die Fântâna Modura ist ein Denkmal im Herăstrău-Park in Bukarest.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "Das Denkmal für die Helden der Luft ist ein Fliegerdenkmal in Bukarest.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Monumentul Aripi",
+                  "text": "Das Monumentul Luptei Anticomuniste ist ein Denkmal in Bukarest.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "Casa Nanu-Muscel",
+                  "text": "Die Casa Nanu-Muscel ist ein historisches Herrenhaus in Bukarest.",
+                  "category": "historical",
+                  "coords": [
+                        26.097253,
+                        44.447357
+                  ]
+            },
+            {
+                  "name": "Primăria Sectorului 1",
+                  "text": "Das Rathaus des 1. Bezirks ist der Sitz der Lokalverwaltung des Sektor 1 in Bukarest.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "Der Metropolitan-Zirkus Bukarest ist ein Zirkus und Veranstaltungsort in Bukarest.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "Die Capela Sfânta Ecaterina ist eine religiöse Stätte in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "Die Kirche des Heiligen Georg Grivița ist ein Gotteshaus in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "Die Kathedrale des Heiligen Basilius des Großen ist eine rumänisch-griechisch-katholische Kathedrale in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Die Kirche Sfântul Vasile cel Mare aus der Calea Victoriei ist ein religiöses Gebäude in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "Die alte Kirche St. Visarion ist ein Kirchengebäude in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "Die Aero L-29 Delfín ist ein tschechoslowakisches militärisches Schulflugzeug.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "Ein historischer öffentlicher Park in Herăstrău-Park.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Ein Stadtpark mit einem See, der für seine seltenen ägyptischen Lotusblumen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"George Călinescu\"",
+                  "text": "Ein Museum, das dem Leben und Werk des rumänischen Schriftstellers George Călinescu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "Muzeul Național \"George Enescu\"",
+                  "text": "Museum im Cantacuzino-Palast, das dem Erbe des Komponisten George Enescu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "Eine restaurierte aristokratische Residenz mit Ausstellungen zur Geschichte von Bukarest.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "Ein privates Museum für zeitgenössische rumänische Kunst ab dem Jahr 1965.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "Eine historische Villa und ein architektonisches Wahrzeichen im Viertel Herăstrău-Park.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "Ein beliebter öffentlicher Park im nördlichen Teil der Stadt.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Constantin Joja\"",
+                  "text": "Gedenkmuseum für den rumänischen Architekten und Historiker Constantin Joja.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Muzeul Sportului",
+                  "text": "Ein Museum, das die Geschichte und die Erfolge des rumänischen Sports präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "Museum mit einer einzigartigen Sammlung von Parfüms und historischen Flakons.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "MINA",
+                  "text": "Ein moderner Kulturraum für immersive digitale Kunst und neue Medien.",
+                  "category": "museum",
+                  "coords": [
+                        26.117253,
+                        44.479014
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Politehnice",
+                  "text": "Museum über das technische Erbe und die Geschichte der Polytechnischen Universität.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Casa Maria Lahovary",
+                  "text": "Ein historisches Gebäude und architektonisches Denkmal.",
+                  "category": "castle",
+                  "coords": [
+                        26.098552,
+                        44.448847
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "Ein historisches Gebäude, das für seine architektonische Bedeutung bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Galeria Romană",
+                  "text": "Eine Kunstgalerie mit Ausstellungen zeitgenössischer und moderner rumänischer Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        26.095969,
+                        44.44698
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "Ein spezieller Raum für Kunstausstellungen und kulturelle Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "Eine Kunstgalerie, die mit der Nationalen Universität der Künste verbunden ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
+                  ]
             }
       ],
       "hu": [
@@ -9417,6 +10695,384 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.079612,
                         44.470805
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "A Muzeul George Severeanu egy múzeum Bukarestben, a Herăstrău park közelében.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "A Művészeti Gyűjtemények Múzeuma egy képzőművészeti múzeum Bukarestben.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "A Történelmi Térképek és Régi Könyvek Nemzeti Múzeuma Bukarestben található.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "A Román Paraszt Múzeuma egy jelentős múzeum Bukarestben.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul \"K. H. Zambaccian\"",
+                  "text": "A K.H. Zambaccian Múzeum egy művészeti múzeum Bukarestben.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "A Grigore Antipa Nemzeti Természettudományi Múzeum Bukarestben található.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "A Nemzeti Geológiai Múzeum Bukarestben található.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Muzeul Nicolae Minovici",
+                  "text": "A „Prof. Dr. Nicolae Minovici” Népművészeti Múzeum Bukarestben található.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
+                  "text": "A Palatul Primăverii egy korábbi bukaresti rezidencia, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Az „Amiral Vasile Urseanu” Csillagvizsgáló egy obszervatórium és múzeum Bukarestben.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Aviației Române",
+                  "text": "A Román Nemzeti Repülési Múzeum Bukarestben található.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "A Román Vasúti Múzeum egy vasúttörténeti múzeum Bukarestben.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "A Fântâna Modura egy műemlék a bukaresti Herăstrău parkban.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "A Levegő Hőseinek Emlékműve egy repülős emlékmű Bukarestben.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Monumentul Aripi",
+                  "text": "A Monumentul Luptei Anticomuniste egy emlékmű Bukarestben.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "Casa Nanu-Muscel",
+                  "text": "A Casa Nanu-Muscel egy történelmi udvarház Bukarestben.",
+                  "category": "historical",
+                  "coords": [
+                        26.097253,
+                        44.447357
+                  ]
+            },
+            {
+                  "name": "Primăria Sectorului 1",
+                  "text": "Az 1. kerület polgármesteri hivatala a helyi önkormányzat székhelye Bukarest 1-es szektorában.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "A Bukaresti Fővárosi Cirkusz egy cirkusz és rendezvényhelyszín Bukarestben.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "A Capela Sfânta Ecaterina egy vallási helyszín Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "A Szent György Grivița-templom egy vallási helyszín Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "A Nagy Szent Vazul-székesegyház egy román görögkatolikus katedrális Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "A Calea Victoriein található Szent Vazul-templom egy vallási épület Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "A régi Szent Visszárión-templom egy egyházi épület Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "Az Aero L-29 Delfín egy csehszlovák katonai kiképző repülőgép.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "Egy történelmi közpark a Herăstrău-parkban.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Városi park, amely taváról és a benne található ritka egyiptomi lótuszokról ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"George Călinescu\"",
+                  "text": "George Călinescu román író életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "Muzeul Național \"George Enescu\"",
+                  "text": "A Cantacuzino-palotában található múzeum, amely George Enescu zeneszerző örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "Restaurált nemesi rezidencia, amely Bukarest történetét bemutató kiállításoknak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "Magánmúzeum, amely 1965-től napjainkig a kortárs román művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "Történelmi villa és építészeti nevezetesség a Herăstrău-park környékén.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "Népszerű közpark a város északi részén.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Constantin Joja\"",
+                  "text": "Constantin Joja román építész és történész emlékére létrehozott múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Muzeul Sportului",
+                  "text": "A román sport történetét és eredményeit bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "Múzeum, amely parfümök és történelmi illatszeres üvegek egyedülálló gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "MINA",
+                  "text": "Immerzív digitális művészetnek és új médiának szentelt modern kulturális tér.",
+                  "category": "museum",
+                  "coords": [
+                        26.117253,
+                        44.479014
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Politehnice",
+                  "text": "A Politechnikai Egyetem műszaki örökségét és történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Casa Maria Lahovary",
+                  "text": "Történelmi épület és építészeti műemlék.",
+                  "category": "castle",
+                  "coords": [
+                        26.098552,
+                        44.448847
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "Történelmi épület, amely építészeti jelentőségéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Galeria Romană",
+                  "text": "Kortárs és modern román művészek kiállításainak otthont adó művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        26.095969,
+                        44.44698
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "Művészeti kiállításoknak és kulturális eseményeknek szentelt helyszín.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "A Nemzeti Művészeti Egyetemhez kapcsolódó művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
                   ]
             }
       ],
@@ -9490,6 +11146,384 @@ export const romaniaCities: POI[] = [
                         26.079612,
                         44.470805
                   ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Muzeul George Severeanu este un muzeu situat în apropierea Parcului Herăstrău din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Muzeul Colecțiilor de Artă este un muzeu de artă din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "Muzeul Național al Hărților și Cărții Vechi este un muzeu din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Muzeul Național al Țăranului Român este un muzeu important din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul \"K. H. Zambaccian\"",
+                  "text": "Muzeul „Zambaccian” este un muzeu de artă din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Muzeul Național de Istorie Naturală „Grigore Antipa” este un muzeu din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Muzeul Național de Geologie este un muzeu din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Muzeul Nicolae Minovici",
+                  "text": "Muzeul de Artă Populară „Prof. Dr. Nicolae Minovici” este un muzeu din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
+                  "text": "Palatul Primăverii este o fostă reședință din București, devenită muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Observatorul Astronomic „Amiral Vasile Urseanu” este un observator și muzeu din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Aviației Române",
+                  "text": "Muzeul Național al Aviației Române este un muzeu din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "Muzeul Căilor Ferate Române este un muzeu din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "Fântâna Modura este un monument situat în Parcul Herăstrău din București.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "Monumentul Eroilor Aerului este un monument din București dedicat aviatorilor români.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Monumentul Aripi",
+                  "text": "Monumentul Luptei Anticomuniste este un monument situat în București.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "Casa Nanu-Muscel",
+                  "text": "Casa Nanu-Muscel este un conac istoric din București.",
+                  "category": "historical",
+                  "coords": [
+                        26.097253,
+                        44.447357
+                  ]
+            },
+            {
+                  "name": "Primăria Sector 1",
+                  "text": "Primăria Sectorului 1 este sediul administrației locale pentru acest sector din București.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "Circul Metropolitan București este un circ și o sală de spectacole din București.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "Capela Sfânta Ecaterina este un lăcaș de cult din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "Biserica Sfântul Gheorghe - Grivița este un lăcaș de cult din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "Catedrala Sfântul Vasile cel Mare este o catedrală greco-catolică din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Biserica Sfântul Vasile cel Mare din Calea Victoriei este un lăcaș de cult din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "Biserica „Sf. Visarion Vechi“ este un lăcaș de cult din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "Aero L-29 Delfín este un avion militar de antrenament de producție cehoslovacă.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "Un parc public istoric situat în Herăstrău-Park.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Un parc public cu un lac cunoscut pentru lotușii egipteni rari.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"George Călinescu\"",
+                  "text": "Un muzeu dedicat vieții și operei scriitorului român George Călinescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "Muzeul Național \"George Enescu\"",
+                  "text": "Muzeu situat în Palatul Cantacuzino, dedicat moștenirii compozitorului George Enescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "O reședință aristocratică restaurată care găzduiește expoziții despre istoria Bucureștiului.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "Un muzeu privat axat pe arta românească contemporană din 1965 până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "O vilă istorică și un reper arhitectural în zona Herăstrău-Park.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "Un parc public popular situat în partea de nord a orașului.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Constantin Joja\"",
+                  "text": "Muzeu memorial dedicat arhitectului și istoricului român Constantin Joja.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Muzeul Sportului",
+                  "text": "Un muzeu care prezintă istoria și realizările sportului românesc.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "Un muzeu care expune o colecție unică de parfumuri și flacoane istorice.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "MINA",
+                  "text": "Un spațiu cultural modern dedicat artei digitale imersive și noilor medii.",
+                  "category": "museum",
+                  "coords": [
+                        26.117253,
+                        44.479014
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Politehnice",
+                  "text": "Muzeu care prezintă moștenirea tehnică și istoria Universității Politehnica.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Casa Maria Lahovary",
+                  "text": "O casă istorică și un monument de arhitectură.",
+                  "category": "castle",
+                  "coords": [
+                        26.098552,
+                        44.448847
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "O clădire istorică cunoscută pentru semnificația sa arhitecturală.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Galeria Romană",
+                  "text": "O galerie de artă care găzduiește expoziții ale artiștilor români contemporani și moderni.",
+                  "category": "museum",
+                  "coords": [
+                        26.095969,
+                        44.44698
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "Un spațiu dedicat expozițiilor de artă și evenimentelor culturale.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "O galerie de artă asociată cu Universitatea Națională de Arte.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
+                  ]
             }
       ],
       "en": [
@@ -9562,6 +11596,384 @@ export const romaniaCities: POI[] = [
                         26.079612,
                         44.470805
                   ]
+            },
+            {
+                  "name": "\"Maria and Dr. George Severeanu\" Collection",
+                  "text": "The \"Maria and Dr. George Severeanu\" Collection is a museum near Herăstrău Park in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Art Collections Museum",
+                  "text": "The Art Collections Museum is an art museum in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "National Museum of Maps and Rare Books",
+                  "text": "The National Museum of Maps and Rare Books is a museum located in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "National Museum of the Romanian Peasant",
+                  "text": "The National Museum of the Romanian Peasant is a prominent museum in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "The \"K.H. Zambaccian\" Museum",
+                  "text": "The \"K.H. Zambaccian\" Museum is an art museum in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "\"Grigore Antipa\" Natural History National Museum",
+                  "text": "The \"Grigore Antipa\" Natural History National Museum is located in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "National Geological Museum",
+                  "text": "The National Geological Museum is located in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Nicolae Minovici Folk Art Museum",
+                  "text": "The Nicolae Minovici Folk Art Museum is located in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Spring Palace",
+                  "text": "The Spring Palace is a former residence in Bucharest, now operating as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
+                  "text": "The \"Admiral Vasile Urseanu\" Bucharest City Observatory is a museum and observatory in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "National Museum of Romanian Aviation",
+                  "text": "The National Museum of Romanian Aviation is a museum in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Romanian Railway Museum",
+                  "text": "The Romanian Railway Museum is located in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "The Fântâna Modura is a monument in Herăstrău Park, Bucharest.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "The Monument to the Heroes of the Air is an aviation monument in Bucharest.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Wings Monument",
+                  "text": "The Wings Monument is a monument located in Bucharest.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "Casa Nanu-Muscel",
+                  "text": "The Casa Nanu-Muscel is a historic manor in Bucharest.",
+                  "category": "historical",
+                  "coords": [
+                        26.097253,
+                        44.447357
+                  ]
+            },
+            {
+                  "name": "District 1 City Hall",
+                  "text": "The District 1 City Hall is the local government building for Sector 1 in Bucharest.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "The Bucharest Metropolitan Circus is a circus and performance venue in Bucharest.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "The Capela Sfânta Ecaterina is a place of worship in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "The Orthodox Church \"Sfântul Gheorghe Grivița\" is a place of worship in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Basil the Great",
+                  "text": "The Saint Basil the Great Cathedral is a Romanian Greek Catholic cathedral in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "The Orthodox Church Sfântul Vasile cel Mare - Victoria is a place of worship in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "The Old St. Visarion Church is a church in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "The Aero L-29 Delfín is a military jet trainer aircraft developed in Czechoslovakia.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "A historic public park located in Herăstrău-Park.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "A public park featuring a lake known for its rare Egyptian lotuses.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "\"George Calinescu\" Memorial Museum",
+                  "text": "A museum dedicated to the life and work of the Romanian writer George Călinescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "\"George Enescu\" National Museum",
+                  "text": "A museum showcasing the heritage of the composer George Enescu, located in the Cantacuzino Palace.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "A restored aristocratic residence housing exhibitions about the history of Bucharest.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "A private museum focused on contemporary Romanian art from 1965 to the present.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "A historic villa and an architectural landmark in the Herăstrău-Park area.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "A popular public park located in the northern part of the city.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "\"Constantin Joja\" Memorial House",
+                  "text": "A memorial museum dedicated to the Romanian architect and historian Constantin Joja.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Museum of Sports Romania",
+                  "text": "A museum presenting the history and achievements of Romanian sports.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "A museum showcasing a unique collection of perfumes and historical fragrance bottles.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "Museum of Immersive New Art",
+                  "text": "A modern cultural space dedicated to immersive digital art and new media.",
+                  "category": "museum",
+                  "coords": [
+                        26.117253,
+                        44.479014
+                  ]
+            },
+            {
+                  "name": "Museum of Polytechnical University",
+                  "text": "A museum showcasing the technical heritage and history of the Polytechnic University.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Casa Maria Lahovary",
+                  "text": "A historic house and an architectural monument.",
+                  "category": "castle",
+                  "coords": [
+                        26.098552,
+                        44.448847
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "A historic building known for its architectural significance.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Galeria Romană",
+                  "text": "An art gallery hosting exhibitions of contemporary and modern Romanian artists.",
+                  "category": "museum",
+                  "coords": [
+                        26.095969,
+                        44.44698
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "A dedicated space for art exhibitions and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "An art gallery associated with the National University of Arts.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
+                  ]
             }
       ]
 }
@@ -9620,6 +12032,393 @@ export const romaniaCities: POI[] = [
                         26.056352,
                         44.489578
                   ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "Ein Museum mit einer wertvollen Sammlung historischer Karten und seltener Drucke.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Ein bedeutendes Museum in Bukarest, das der Kultur und Kunst des rumänischen Bauernstandes gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul \"K. H. Zambaccian\"",
+                  "text": "Ein Kunstmuseum, das die bedeutende Privatsammlung von Krikor Zambaccian beherbergt.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Ein großes Naturkundemuseum mit vielfältigen Exponaten zur rumänischen und globalen Artenvielfalt.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Ein Museum, das sich mit der geologischen Geschichte und der Mineralogie Rumäniens befasst.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Muzeul Nicolae Minovici",
+                  "text": "Ein Museum für Volkskunst, das in der ehemaligen Villa des Arztes Nicolae Minovici untergebracht ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Frühlingspalast",
+                  "text": "Die ehemalige luxuriöse Residenz der Familie Ceaușescu, heute als Museum für Besucher geöffnet.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Das einzige öffentliche astronomische Observatorium in Bukarest, benannt nach Admiral Vasile Urseanu.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Elisabeta",
+                  "text": "Ein Palast in Bukarest, der als offizielle Residenz der rumänischen Königsfamilie dient.",
+                  "category": "castle",
+                  "coords": [
+                        26.079606,
+                        44.470705
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Aviației Române",
+                  "text": "Ein Museum, das die Entwicklung der Luftfahrt in Rumänien anhand historischer Flugzeuge dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "Ein Museum in Bukarest, das die Geschichte des rumänischen Schienenverkehrs präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "Ein dekorativer Brunnen im Herăstrău-Park, der eine symbolische Figur der rumänischen Folklore darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "Ein hohes Denkmal in Bukarest zu Ehren der gefallenen rumänischen Militärflieger.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Monumentul Aripi",
+                  "text": "Ein monumentales Denkmal zum Gedenken an den Kampf gegen den Kommunismus in Rumänien.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "Primăria Sectorului 1",
+                  "text": "Das Verwaltungsgebäude der Stadtverwaltung des 1. Bezirks in Bukarest.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "Eine religiöse Kapelle in Bukarest, die der Heiligen Katharina gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "Eine rumänisch-orthodoxe Kirche im Grivița-Viertel von Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Eine orthodoxe Kirche in der Nähe der Calea Victoriei in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "Eine historische Kirche in Bukarest, die für ihre traditionelle Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "Ein tschechoslowakisches Strahltrainingsflugzeug, das als Museumsexponat dient.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "Ein historischer Park in Bukarest, der für seine ruhigen Alleen und Statuen bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Ein Stadtpark in Bukarest, bekannt für seinen malerischen See und die Nähe zum staatlichen Zirkus.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"George Călinescu\"",
+                  "text": "Ein Gedenkmuseum, das dem Leben und Werk des bedeutenden rumänischen Schriftstellers George Călinescu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "Muzeul Național \"George Enescu\"",
+                  "text": "Ein Museum, das dem Leben des berühmten rumänischen Komponisten George Enescu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "Ein historisches Herrenhaus, das Ausstellungen zur Geschichte der Stadt Bukarest beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "Ein Museum in Bukarest, das sich auf zeitgenössische und neuere rumänische Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "Ein elegantes historisches Gebäude in Bukarest, das für seine architektonische Bedeutung bekannt ist.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Biserica Dămăroaia",
+                  "text": "Eine lokale orthodoxe Kirche im Stadtteil Dămăroaia von Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.053328,
+                        44.488558
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "Ein Park im Norden von Bukarest, der verschiedene Sport- und Erholungsmöglichkeiten bietet.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Constantin Joja\"",
+                  "text": "Das Constantin Joja Gedenkhaus ist ein Museum im Nationalen Dorfmuseum.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Muzeul Sportului",
+                  "text": "Das Museum dokumentiert die Geschichte und Erfolge des rumänischen Sports.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "Das Parfümmuseum präsentiert eine private Sammlung historischer Flakons und Düfte.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Satului Dimitrie Gusti",
+                  "text": "Dieses berühmte Freilichtmuseum zeigt traditionelle rumänische Bauernhäuser aus dem ganzen Land.",
+                  "category": "museum",
+                  "coords": [
+                        26.076627,
+                        44.472389
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Politehnice",
+                  "text": "Dieses Museum zeigt die technologische Entwicklung und Geschichte der Polytechnischen Universität.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "Eine historische Schlossanlage im Bereich des Nationalen Dorfmuseums.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "Ein zeitgenössischer Kunstraum für Ausstellungen und kulturelle Projekte.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "Eine Kunstgalerie, die Werke moderner und zeitgenössischer rumänischer Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
+                  ]
+            },
+            {
+                  "name": "The Institute",
+                  "text": "Ein kulturelles Zentrum, das die rumänische Design- und Kreativwirtschaft fördert.",
+                  "category": "museum",
+                  "coords": [
+                        26.064075,
+                        44.483646
+                  ]
+            },
+            {
+                  "name": "Crucea Secolului",
+                  "text": "Ein Denkmal in Kreuzform, das an historische Ereignisse erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        26.088027,
+                        44.472712
+                  ]
+            },
+            {
+                  "name": "Constantin Brâncuși",
+                  "text": "Ein Denkmal zu Ehren des weltberühmten rumänischen Bildhauers Constantin Brâncuși.",
+                  "category": "historical",
+                  "coords": [
+                        26.094081,
+                        44.459738
+                  ]
+            },
+            {
+                  "name": "Monumentul Aerului",
+                  "text": "Ein Denkmal, das der rumänischen Luftfahrt und ihren Pionieren gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.091268,
+                        44.457031
+                  ]
+            },
+            {
+                  "name": "Monumentul Soldatului Sovietic",
+                  "text": "Ein Denkmal zur Erinnerung an die im Zweiten Weltkrieg gefallenen sowjetischen Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        26.097362,
+                        44.47881
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Piloți de Vânătoare",
+                  "text": "Ein Denkmal für die rumänischen Jagdfliegerhelden der Weltkriege.",
+                  "category": "historical",
+                  "coords": [
+                        26.093286,
+                        44.465233
+                  ]
             }
       ],
       "hu": [
@@ -9650,6 +12449,393 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.056352,
                         44.489578
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "Értékes történelmi térképek és ritka nyomatok gyűjteményét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Jelentős múzeum Bukarestben, amely a román paraszti kultúrának és művészetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul \"K. H. Zambaccian\"",
+                  "text": "Művészeti múzeum, amely Krikor Zambaccian jelentős magángyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Nagy természettudományi múzeum a román és a globális élővilágot bemutató változatos kiállításokkal.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Románia földtani történetével és ásványtanával foglalkozó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Muzeul Nicolae Minovici",
+                  "text": "Népművészeti múzeum, amely Dr. Nicolae Minovici orvos egykori villájában található.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
+                  "text": "A Ceaușescu család egykori fényűző rezidenciája, amely ma múzeumként látogatható.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Bukarest egyetlen nyilvános csillagvizsgálója, amely Vasile Urseanu tengernagyról kapta nevét.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Elisabeta",
+                  "text": "Palota Bukarestben, amely a román királyi család hivatalos rezidenciája.",
+                  "category": "castle",
+                  "coords": [
+                        26.079606,
+                        44.470705
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Aviației Române",
+                  "text": "A román repülés fejlődését történelmi repülőgépeken keresztül bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "Múzeum Bukarestben, amely a román vasúti közlekedés történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "Díszes szökőkút a Herăstrău parkban, amely a román folklór egyik szimbolikus alakját ábrázolja.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "Magas emlékmű Bukarestben az elesett román katonai repülők tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Monumentul Aripi",
+                  "text": "Monumentális emlékmű a romániai kommunizmus elleni harc emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "Primăria Sectorului 1",
+                  "text": "Bukarest 1. kerületi polgármesteri hivatalának adminisztratív épülete.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "Szent Katalinnak szentelt vallási kápolna Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "Román ortodox templom Bukarest Grivița negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Ortodox templom Bukarestben, a Calea Victoriei közelében.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "Történelmi templom Bukarestben, amely hagyományos építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "Csehszlovák sugárhajtású gyakorló repülőgép, amely múzeumi tárgyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "Történelmi park Bukarestben, amely nyugodt sugárútjairól és szobrairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Bukaresti városi park, amely festői taváról és az Állami Cirkusz közelségéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"George Călinescu\"",
+                  "text": "George Călinescu jelentős román író életének és munkásságának szentelt emlékmúzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "Muzeul Național \"George Enescu\"",
+                  "text": "A híres román zeneszerző, George Enescu életének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "Történelmi kúria, amely Bukarest városának történetét bemutató kiállításoknak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "Bukaresti múzeum, amely a kortárs és újabb román művészetre összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "Elegáns történelmi épület Bukarestben, amely építészeti jelentőségéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Biserica Dămăroaia",
+                  "text": "Helyi ortodox templom Bukarest Dămăroaia negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        26.053328,
+                        44.488558
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "Bukarest északi részén található park, amely különféle sportolási és kikapcsolódási lehetőségeket kínál.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Constantin Joja\"",
+                  "text": "A Constantin Joja emlékház egy múzeum a Nemzeti Falumúzeumban.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Muzeul Sportului",
+                  "text": "A múzeum a román sport történetét és sikereit dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "A parfümmúzeum történelmi üvegcsék és illatok magángyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Satului Dimitrie Gusti",
+                  "text": "Ez a híres szabadtéri múzeum hagyományos román parasztházakat mutat be az egész országból.",
+                  "category": "museum",
+                  "coords": [
+                        26.076627,
+                        44.472389
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Politehnice",
+                  "text": "Ez a múzeum a Politechnikai Egyetem technológiai fejlődését és történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "Egy történelmi kastélyépület a Nemzeti Falumúzeum területén.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "Kortárs művészeti tér kiállítások és kulturális projektek számára.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "Modern és kortárs román művészek alkotásait bemutató művészeti galéria.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
+                  ]
+            },
+            {
+                  "name": "The Institute",
+                  "text": "Kulturális központ, amely a román designt és kreatív iparágakat népszerűsíti.",
+                  "category": "museum",
+                  "coords": [
+                        26.064075,
+                        44.483646
+                  ]
+            },
+            {
+                  "name": "Crucea Secolului",
+                  "text": "Kereszt alakú emlékmű, amely történelmi eseményeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        26.088027,
+                        44.472712
+                  ]
+            },
+            {
+                  "name": "Constantin Brâncuși",
+                  "text": "Emlékmű a világhírű román szobrász, Constantin Brâncuși tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.094081,
+                        44.459738
+                  ]
+            },
+            {
+                  "name": "Monumentul Aerului",
+                  "text": "A román repülésnek és úttörőinek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        26.091268,
+                        44.457031
+                  ]
+            },
+            {
+                  "name": "Monumentul Soldatului Sovietic",
+                  "text": "A második világháborúban elesett szovjet katonák emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        26.097362,
+                        44.47881
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Piloți de Vânătoare",
+                  "text": "Emlékmű a világháborúk román vadászpilóta-hőseinek tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        26.093286,
+                        44.465233
                   ]
             }
       ],
@@ -9682,6 +12868,393 @@ export const romaniaCities: POI[] = [
                         26.056352,
                         44.489578
                   ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "Un muzeu care expune o colecție valoroasă de hărți istorice și stampe rare.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Un muzeu important din București dedicat culturii și artei țăranului român.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul \"K. H. Zambaccian\"",
+                  "text": "Un muzeu de artă care găzduiește importanta colecție privată a lui Krikor Zambaccian.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Un mare muzeu de istorie naturală cu exponate diverse despre biodiversitatea românească și globală.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Un muzeu care se ocupă de istoria geologică și mineralogia României.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Muzeul Nicolae Minovici",
+                  "text": "Un muzeu de artă populară situat în fosta vilă a doctorului Nicolae Minovici.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Palatul Primăverii (fosta locuință a lui Nicolae Ceaușescu)",
+                  "text": "Fosta reședință de lux a familiei Ceaușescu, astăzi deschisă vizitatorilor ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Singurul observator astronomic public din București, numit după amiralul Vasile Urseanu.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Elisabeta",
+                  "text": "Un palat din București care servește drept reședință oficială a Familiei Regale a României.",
+                  "category": "castle",
+                  "coords": [
+                        26.079606,
+                        44.470705
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Aviației Române",
+                  "text": "Un muzeu care documentează evoluția aviației în România prin aeronave istorice.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "Un muzeu din București care prezintă istoria transportului feroviar românesc.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "O fântână decorativă din Parcul Herăstrău, reprezentând o figură simbolică a folclorului românesc.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "Un monument înalt din București ridicat în onoarea aviatorilor militari români căzuți la datorie.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Monumentul Aripi",
+                  "text": "Un monument monumental dedicat luptei împotriva comunismului în România.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "Primăria Sector 1",
+                  "text": "Clădirea administrativă a Primăriei Sectorului 1 din București.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "O capelă religioasă din București dedicată Sfintei Ecaterina.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "O biserică ortodoxă română situată în cartierul Grivița din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "O biserică ortodoxă din București, situată în apropierea Căii Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "O biserică istorică din București, cunoscută pentru arhitectura sa tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "Un avion de antrenament cu reacție cehoslovac care servește drept piesă de muzeu.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "Un parc istoric din București, cunoscut pentru aleile sale liniștite și statui.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Un parc orășenesc din București, cunoscut pentru lacul său pitoresc și proximitatea față de Circul de Stat.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"George Călinescu\"",
+                  "text": "Un muzeu memorial dedicat vieții și operei importantului scriitor român George Călinescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "Muzeul Național \"George Enescu\"",
+                  "text": "Un muzeu dedicat vieții celebrului compozitor român George Enescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "Un conac istoric care găzduiește expoziții despre istoria orașului București.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "Un muzeu din București care se concentrează pe arta românească contemporană și recentă.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "O clădire istorică elegantă din București, cunoscută pentru importanța sa arhitecturală.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Biserica Dămăroaia",
+                  "text": "O biserică ortodoxă locală situată în cartierul Dămăroaia din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.053328,
+                        44.488558
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "Un parc situat în nordul Bucureștiului, oferind diverse facilități sportive și de recreere.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Constantin Joja\"",
+                  "text": "Casa Memorială „Constantin Joja” este un muzeu situat în Muzeul Național al Satului.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Muzeul Sportului",
+                  "text": "Muzeul documentează istoria și succesele sportului românesc.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "Muzeul Parfumurilor prezintă o colecție privată de flacoane și esențe istorice.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Satului Dimitrie Gusti",
+                  "text": "Acest celebru muzeu în aer liber prezintă gospodării tradiționale românești din întreaga țară.",
+                  "category": "museum",
+                  "coords": [
+                        26.076627,
+                        44.472389
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Politehnice",
+                  "text": "Acest muzeu prezintă evoluția tehnologică și istoria Universității Politehnica.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "O structură istorică tip castel situată în zona Muzeului Național al Satului.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "Un spațiu de artă contemporană destinat expozițiilor și proiectelor culturale.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "O galerie de artă ce expune lucrări ale artiștilor români moderni și contemporani.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
+                  ]
+            },
+            {
+                  "name": "The Institute",
+                  "text": "Un centru cultural ce promovează designul și industriile creative din România.",
+                  "category": "museum",
+                  "coords": [
+                        26.064075,
+                        44.483646
+                  ]
+            },
+            {
+                  "name": "Crucea Secolului",
+                  "text": "Un monument în formă de cruce ce comemorează evenimente istorice.",
+                  "category": "historical",
+                  "coords": [
+                        26.088027,
+                        44.472712
+                  ]
+            },
+            {
+                  "name": "Constantin Brâncuși",
+                  "text": "Un monument ridicat în cinstea celebrului sculptor român Constantin Brâncuși.",
+                  "category": "historical",
+                  "coords": [
+                        26.094081,
+                        44.459738
+                  ]
+            },
+            {
+                  "name": "Monumentul Aerului",
+                  "text": "Un monument dedicat aviației române și pionierilor acesteia.",
+                  "category": "historical",
+                  "coords": [
+                        26.091268,
+                        44.457031
+                  ]
+            },
+            {
+                  "name": "Monumentul Soldatului Sovietic",
+                  "text": "Un monument ridicat în memoria soldaților sovietici căzuți în Al Doilea Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        26.097362,
+                        44.47881
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Piloți de Vânătoare",
+                  "text": "Un monument dedicat eroilor piloți de vânătoare români din războaiele mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        26.093286,
+                        44.465233
+                  ]
             }
       ],
       "en": [
@@ -9712,6 +13285,393 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.056352,
                         44.489578
+                  ]
+            },
+            {
+                  "name": "National Museum of Maps and Rare Books",
+                  "text": "A museum showcasing a valuable collection of historical maps and rare prints.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "National Museum of the Romanian Peasant",
+                  "text": "A major museum in Bucharest dedicated to the culture and art of the Romanian peasant.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "The \"K.H. Zambaccian\" Museum",
+                  "text": "An art museum housing the significant private collection of Krikor Zambaccian.",
+                  "category": "museum",
+                  "coords": [
+                        26.090939,
+                        44.460871
+                  ]
+            },
+            {
+                  "name": "\"Grigore Antipa\" Natural History National Museum",
+                  "text": "A large natural history museum with diverse exhibits on Romanian and global biodiversity.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "National Geological Museum",
+                  "text": "A museum dealing with the geological history and mineralogy of Romania.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Nicolae Minovici Folk Art Museum",
+                  "text": "A folk art museum located in the former villa of doctor Nicolae Minovici.",
+                  "category": "museum",
+                  "coords": [
+                        26.075301,
+                        44.484299
+                  ]
+            },
+            {
+                  "name": "Spring Palace",
+                  "text": "The former luxurious residence of the Ceaușescu family, now open to visitors as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.092324,
+                        44.468877
+                  ]
+            },
+            {
+                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
+                  "text": "The only public astronomical observatory in Bucharest, named after Admiral Vasile Urseanu.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Elisabeta",
+                  "text": "A palace in Bucharest serving as the official residence of the Romanian Royal Family.",
+                  "category": "castle",
+                  "coords": [
+                        26.079606,
+                        44.470705
+                  ]
+            },
+            {
+                  "name": "National Museum of Romanian Aviation",
+                  "text": "A museum documenting the development of aviation in Romania through historic aircraft.",
+                  "category": "museum",
+                  "coords": [
+                        26.110927,
+                        44.477554
+                  ]
+            },
+            {
+                  "name": "Romanian Railway Museum",
+                  "text": "A museum in Bucharest presenting the history of Romanian railway transport.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Fântâna Modura",
+                  "text": "A decorative fountain in Herăstrău Park representing a symbolic figure of Romanian folklore.",
+                  "category": "historical",
+                  "coords": [
+                        26.084806,
+                        44.467998
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Aerului",
+                  "text": "A tall monument in Bucharest honoring fallen Romanian military aviators.",
+                  "category": "historical",
+                  "coords": [
+                        26.086078,
+                        44.45977
+                  ]
+            },
+            {
+                  "name": "Wings Monument",
+                  "text": "A monumental monument commemorating the struggle against communism in Romania.",
+                  "category": "historical",
+                  "coords": [
+                        26.072233,
+                        44.478924
+                  ]
+            },
+            {
+                  "name": "District 1 City Hall",
+                  "text": "The administrative building of the District 1 City Hall in Bucharest.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Capela Sfânta Ecaterina",
+                  "text": "A religious chapel in Bucharest dedicated to Saint Catherine.",
+                  "category": "religious",
+                  "coords": [
+                        26.075672,
+                        44.46694
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Gheorghe Grivița\"",
+                  "text": "A Romanian Orthodox church located in the Grivița neighborhood of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.055986,
+                        44.464175
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "An Orthodox church in Bucharest, located near Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica „Sf. Visarion Vechi“",
+                  "text": "A historic church in Bucharest known for its traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.095411,
+                        44.448538
+                  ]
+            },
+            {
+                  "name": "Aero L-29 Delfin",
+                  "text": "A Czechoslovak jet trainer aircraft serving as a museum exhibit.",
+                  "category": "landmark",
+                  "coords": [
+                        26.110699,
+                        44.478709
+                  ]
+            },
+            {
+                  "name": "Parcul Kiseleff",
+                  "text": "A historic park in Bucharest known for its quiet avenues and statues.",
+                  "category": "park",
+                  "coords": [
+                        26.083375,
+                        44.457403
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "A city park in Bucharest known for its scenic lake and proximity to the State Circus.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "\"George Calinescu\" Memorial Museum",
+                  "text": "A memorial museum dedicated to the life and work of the prominent Romanian writer George Călinescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.099546,
+                        44.462162
+                  ]
+            },
+            {
+                  "name": "\"George Enescu\" National Museum",
+                  "text": "A museum dedicated to the life of the famous Romanian composer George Enescu.",
+                  "category": "museum",
+                  "coords": [
+                        26.088338,
+                        44.448711
+                  ]
+            },
+            {
+                  "name": "Casa Filipescu-Cesianu",
+                  "text": "A historic mansion that houses exhibitions on the history of the city of Bucharest.",
+                  "category": "castle",
+                  "coords": [
+                        26.087126,
+                        44.450264
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Recentă",
+                  "text": "A museum in Bucharest focusing on contemporary and recent Romanian art.",
+                  "category": "museum",
+                  "coords": [
+                        26.089054,
+                        44.467901
+                  ]
+            },
+            {
+                  "name": "Vila Filipescu-Brâncoveanu",
+                  "text": "An elegant historic building in Bucharest known for its architectural significance.",
+                  "category": "castle",
+                  "coords": [
+                        26.086887,
+                        44.456912
+                  ]
+            },
+            {
+                  "name": "Biserica Dămăroaia",
+                  "text": "A local Orthodox church in the Dămăroaia district of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.053328,
+                        44.488558
+                  ]
+            },
+            {
+                  "name": "Parcul Floreasca",
+                  "text": "A park in northern Bucharest offering various sports and recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        26.097977,
+                        44.46467
+                  ]
+            },
+            {
+                  "name": "\"Constantin Joja\" Memorial House",
+                  "text": "The Constantin Joja Memorial House is a museum located within the National Village Museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.096448,
+                        44.450317
+                  ]
+            },
+            {
+                  "name": "Museum of Sports Romania",
+                  "text": "The museum documents the history and achievements of Romanian sports.",
+                  "category": "museum",
+                  "coords": [
+                        26.076375,
+                        44.467913
+                  ]
+            },
+            {
+                  "name": "Muzeul Parfumurilor",
+                  "text": "The Perfume Museum presents a private collection of historical bottles and fragrances.",
+                  "category": "museum",
+                  "coords": [
+                        26.094466,
+                        44.461595
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Satului Dimitrie Gusti",
+                  "text": "This famous open-air museum showcases traditional Romanian peasant houses from across the country.",
+                  "category": "museum",
+                  "coords": [
+                        26.076627,
+                        44.472389
+                  ]
+            },
+            {
+                  "name": "Museum of Polytechnical University",
+                  "text": "This museum showcases the technological evolution and history of the Polytechnical University.",
+                  "category": "museum",
+                  "coords": [
+                        26.078633,
+                        44.449061
+                  ]
+            },
+            {
+                  "name": "Prințesele lui Tata",
+                  "text": "A historic castle-style structure located in the area of the National Village Museum.",
+                  "category": "castle",
+                  "coords": [
+                        26.086275,
+                        44.449252
+                  ]
+            },
+            {
+                  "name": "Spațiu Elena Scutaru",
+                  "text": "A contemporary art space hosting exhibitions and cultural projects.",
+                  "category": "museum",
+                  "coords": [
+                        26.061857,
+                        44.483915
+                  ]
+            },
+            {
+                  "name": "Una Galeria",
+                  "text": "An art gallery exhibiting works by modern and contemporary Romanian artists.",
+                  "category": "museum",
+                  "coords": [
+                        26.062926,
+                        44.484324
+                  ]
+            },
+            {
+                  "name": "The Institute",
+                  "text": "A cultural hub promoting Romanian design and creative industries.",
+                  "category": "museum",
+                  "coords": [
+                        26.064075,
+                        44.483646
+                  ]
+            },
+            {
+                  "name": "Crucea Secolului",
+                  "text": "A cross-shaped monument commemorating historical events.",
+                  "category": "historical",
+                  "coords": [
+                        26.088027,
+                        44.472712
+                  ]
+            },
+            {
+                  "name": "Constantin Brâncuși",
+                  "text": "A monument honoring the world-renowned Romanian sculptor Constantin Brâncuși.",
+                  "category": "historical",
+                  "coords": [
+                        26.094081,
+                        44.459738
+                  ]
+            },
+            {
+                  "name": "Monumentul Aerului",
+                  "text": "A monument dedicated to Romanian aviation and its pioneers.",
+                  "category": "historical",
+                  "coords": [
+                        26.091268,
+                        44.457031
+                  ]
+            },
+            {
+                  "name": "Monumentul Soldatului Sovietic",
+                  "text": "A monument commemorating Soviet soldiers who fell during World War II.",
+                  "category": "historical",
+                  "coords": [
+                        26.097362,
+                        44.47881
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Piloți de Vânătoare",
+                  "text": "A monument dedicated to Romanian fighter pilot heroes of the world wars.",
+                  "category": "historical",
+                  "coords": [
+                        26.093286,
+                        44.465233
                   ]
             }
       ]
@@ -9792,6 +13752,231 @@ export const romaniaCities: POI[] = [
                         25.587839,
                         45.640786
                   ]
+            },
+            {
+                  "name": "Muzeul de Artă Brașov",
+                  "text": "Das Kunstmuseum von Brașov zeigt eine bedeutende Sammlung rumänischer Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        25.593788,
+                        45.645004
+                  ]
+            },
+            {
+                  "name": "Cetățuia de pe Strajă",
+                  "text": "Eine historische Festung auf einem Hügel mit Blick auf die Stadt Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.591839,
+                        45.649351
+                  ]
+            },
+            {
+                  "name": "Weberbastei",
+                  "text": "Eine mittelalterliche Bastion in Brașov, die heute ein Museum beherbergt.",
+                  "category": "fortress",
+                  "coords": [
+                        25.588993,
+                        45.636929
+                  ]
+            },
+            {
+                  "name": "Teatrul Sică Alexandrescu",
+                  "text": "Das Haupttheater von Brașov, benannt nach dem Regisseur Sică Alexandrescu.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598604,
+                        45.645792
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Reduta",
+                  "text": "Ein bedeutendes Kultur- und Theaterzentrum im historischen Zentrum von Brașov.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589285,
+                        45.640831
+                  ]
+            },
+            {
+                  "name": "Schwarzer Turm",
+                  "text": "Ein mittelalterlicher Wehrturm in Brașov, der Teil der äußeren Stadtbefestigung ist.",
+                  "category": "castle",
+                  "coords": [
+                        25.58564,
+                        45.641281
+                  ]
+            },
+            {
+                  "name": "Graftbastei",
+                  "text": "Eine Bastion in Brașov, die über dem Graft-Kanal errichtet wurde, um die Stadtmauer zu verstärken.",
+                  "category": "fortress",
+                  "coords": [
+                        25.587385,
+                        45.642526
+                  ]
+            },
+            {
+                  "name": "Museum: \"Die erste Rumänische Schule\"",
+                  "text": "Ein historisches Gebäude in Brașov, in dem der erste rumänischsprachige Unterricht stattfand.",
+                  "category": "museum",
+                  "coords": [
+                        25.581213,
+                        45.635868
+                  ]
+            },
+            {
+                  "name": "Tuchmacherbastei",
+                  "text": "Eine der sieben Bastionen der mittelalterlichen Festung von Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.597646,
+                        45.642218
+                  ]
+            },
+            {
+                  "name": "Seilerbastei",
+                  "text": "Eine gut erhaltene Bastion in Brașov, die von der Seilerzunft unterhalten wurde.",
+                  "category": "fortress",
+                  "coords": [
+                        25.592635,
+                        45.639666
+                  ]
+            },
+            {
+                  "name": "Cetatea Brassovia",
+                  "text": "Ruinen einer alten Zitadelle auf dem Berg Tâmpa bei Brașov.",
+                  "category": "historical",
+                  "coords": [
+                        25.59198,
+                        45.633044
+                  ]
+            },
+            {
+                  "name": "Teatrul Liric",
+                  "text": "Ein Opern- und Operettentheater in Brașov, das verschiedene Musikaufführungen bietet.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589978,
+                        45.654339
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Ștefan Baciu\"",
+                  "text": "Ein Gedenkmuseum in Brașov, das dem Leben des Schriftstellers Ștefan Baciu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        25.586365,
+                        45.637719
+                  ]
+            },
+            {
+                  "name": "Galeria Metaxa Brașov",
+                  "text": "Ein Museum oder eine Galerie in Brașov, die Kunstwerke in einem historischen Rahmen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.590861,
+                        45.641162
+                  ]
+            },
+            {
+                  "name": "Rezervația Naturală Warthe",
+                  "text": "Ein Naturschutzgebiet bei Brașov, bekannt für seine Wanderwege und Flora.",
+                  "category": "natural",
+                  "coords": [
+                        25.572715,
+                        45.646759
+                  ]
+            },
+            {
+                  "name": "Zinne",
+                  "text": "Ein Berg direkt bei Brașov, der einen Panoramablick auf die Stadt bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        25.59291,
+                        45.634169
+                  ]
+            },
+            {
+                  "name": "Gesprengberg",
+                  "text": "Ein Hügel in Brașov mit Überresten alter Befestigungsanlagen.",
+                  "category": "natural",
+                  "coords": [
+                        25.576128,
+                        45.661576
+                  ]
+            },
+            {
+                  "name": "Kirche von Bartholomae",
+                  "text": "Die älteste Kirche von Brașov, ein bedeutendes Denkmal der sächsischen Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        25.577396,
+                        45.662714
+                  ]
+            },
+            {
+                  "name": "Parcul Nicolae Titulescu",
+                  "text": "Ein zentraler Park in Brașov, der zur Entspannung im Stadtzentrum einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593295,
+                        45.64599
+                  ]
+            },
+            {
+                  "name": "Școala de Arte \"Tiberiu Brediceanu\"",
+                  "text": "Ein Kunst- und Bildungszentrum in Brașov für kreative Ausbildung.",
+                  "category": "cultural",
+                  "coords": [
+                        25.588943,
+                        45.647053
+                  ]
+            },
+            {
+                  "name": "belvedere",
+                  "text": "Ein Aussichtspunkt in Brașov mit weitem Blick über die Stadt und die Berge.",
+                  "category": "natural",
+                  "coords": [
+                        25.564829,
+                        45.633927
+                  ]
+            },
+            {
+                  "name": "Belvedere Colina Universității",
+                  "text": "Ein Aussichtspunkt auf dem Universitätsgelände von Brașov mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        25.597485,
+                        45.653701
+                  ]
+            },
+            {
+                  "name": "Poarta Ecaterinei",
+                  "text": "Das einzige erhaltene Stadttor aus dem Mittelalter in Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.586098,
+                        45.639516
+                  ]
+            },
+            {
+                  "name": "Biserica reformată Belvárosi",
+                  "text": "Eine reformierte Kirche im Zentrum von Brașov, die der ungarischen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        25.583509,
+                        45.639129
+                  ]
+            },
+            {
+                  "name": "Casa Speranței",
+                  "text": "Ein Ort der Anbetung und ein Gemeindezentrum im historischen Teil von Brașov.",
+                  "category": "religious",
+                  "coords": [
+                        25.606625,
+                        45.656967
+                  ]
             }
       ],
       "hu": [
@@ -9843,6 +14028,231 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.587839,
                         45.640786
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă Brașov",
+                  "text": "A Brassói Művészeti Múzeum a román művészet jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        25.593788,
+                        45.645004
+                  ]
+            },
+            {
+                  "name": "Cetățuia de pe Strajă",
+                  "text": "Történelmi erőd egy dombon, ahonnan kilátás nyílik Brassó városára.",
+                  "category": "fortress",
+                  "coords": [
+                        25.591839,
+                        45.649351
+                  ]
+            },
+            {
+                  "name": "Takácsok bástyája",
+                  "text": "Középkori bástya Brassóban, amely ma múzeumnak ad otthont.",
+                  "category": "fortress",
+                  "coords": [
+                        25.588993,
+                        45.636929
+                  ]
+            },
+            {
+                  "name": "Teatrul Sică Alexandrescu",
+                  "text": "Brassó fő színháza, Sică Alexandrescu rendezőről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598604,
+                        45.645792
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Reduta",
+                  "text": "Jelentős kulturális és színházi központ Brassó történelmi belvárosában.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589285,
+                        45.640831
+                  ]
+            },
+            {
+                  "name": "Fekete torony",
+                  "text": "Középkori védőtorony Brassóban, amely a külső városfal része.",
+                  "category": "castle",
+                  "coords": [
+                        25.58564,
+                        45.641281
+                  ]
+            },
+            {
+                  "name": "Graft-bástya",
+                  "text": "A Graft-csatorna fölé épített bástya Brassóban, amely a városfalat erősítette.",
+                  "category": "fortress",
+                  "coords": [
+                        25.587385,
+                        45.642526
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Prima Școală Românească\"",
+                  "text": "Történelmi épület Brassóban, ahol az első román nyelvű oktatás zajlott.",
+                  "category": "museum",
+                  "coords": [
+                        25.581213,
+                        45.635868
+                  ]
+            },
+            {
+                  "name": "Szövetkészítők bástyája",
+                  "text": "Brassó középkori várának hét bástyájának egyike.",
+                  "category": "fortress",
+                  "coords": [
+                        25.597646,
+                        45.642218
+                  ]
+            },
+            {
+                  "name": "Kötélverők bástyája",
+                  "text": "Jó állapotban fennmaradt bástya Brassóban, amelyet a kötélverők céhe tartott fenn.",
+                  "category": "fortress",
+                  "coords": [
+                        25.592635,
+                        45.639666
+                  ]
+            },
+            {
+                  "name": "Cetatea Brassovia",
+                  "text": "Egy ősi fellegvár romjai a Brassó melletti Cenk-hegyen.",
+                  "category": "historical",
+                  "coords": [
+                        25.59198,
+                        45.633044
+                  ]
+            },
+            {
+                  "name": "Teatrul Liric",
+                  "text": "Opera- és operettszínház Brassóban, amely különféle zenei előadásokat kínál.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589978,
+                        45.654339
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Ștefan Baciu\"",
+                  "text": "Emlékmúzeum Brassóban, amely Ștefan Baciu író életének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        25.586365,
+                        45.637719
+                  ]
+            },
+            {
+                  "name": "Galeria Metaxa Brașov",
+                  "text": "Múzeum vagy galéria Brassóban, amely műalkotásokat mutat be történelmi környezetben.",
+                  "category": "museum",
+                  "coords": [
+                        25.590861,
+                        45.641162
+                  ]
+            },
+            {
+                  "name": "Rezervația Naturală Warthe",
+                  "text": "Természetvédelmi terület Brassó közelében, amely túraútvonalairól és flórájáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        25.572715,
+                        45.646759
+                  ]
+            },
+            {
+                  "name": "Cenk",
+                  "text": "Hegy közvetlenül Brassó mellett, ahonnan panorámás kilátás nyílik a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        25.59291,
+                        45.634169
+                  ]
+            },
+            {
+                  "name": "Fortyogó-hegy",
+                  "text": "Hegy Brassóban egy ősi erődítmény maradványaival.",
+                  "category": "natural",
+                  "coords": [
+                        25.576128,
+                        45.661576
+                  ]
+            },
+            {
+                  "name": "Biserica Bartolomeu",
+                  "text": "Brassó legrégebbi temploma, a szász építészet jelentős műemléke.",
+                  "category": "landmark",
+                  "coords": [
+                        25.577396,
+                        45.662714
+                  ]
+            },
+            {
+                  "name": "Parcul Nicolae Titulescu",
+                  "text": "Központi park Brassóban, amely kikapcsolódást kínál a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593295,
+                        45.64599
+                  ]
+            },
+            {
+                  "name": "Școala de Arte \"Tiberiu Brediceanu\"",
+                  "text": "Művészeti és oktatási központ Brassóban kreatív képzéseknek.",
+                  "category": "cultural",
+                  "coords": [
+                        25.588943,
+                        45.647053
+                  ]
+            },
+            {
+                  "name": "belvedere",
+                  "text": "Kilátópont Brassóban, ahonnan pazar kilátás nyílik a városra és a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        25.564829,
+                        45.633927
+                  ]
+            },
+            {
+                  "name": "Belvedere Colina Universității",
+                  "text": "Kilátópont a Brassói Egyetem területén, rálátással a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        25.597485,
+                        45.653701
+                  ]
+            },
+            {
+                  "name": "Katalin-kapu",
+                  "text": "Az egyetlen épségben maradt középkori városkapu Brassóban.",
+                  "category": "fortress",
+                  "coords": [
+                        25.586098,
+                        45.639516
+                  ]
+            },
+            {
+                  "name": "Belvárosi református templom",
+                  "text": "Brassó belvárosi református temploma, amely a magyar közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        25.583509,
+                        45.639129
+                  ]
+            },
+            {
+                  "name": "Reménység Háza",
+                  "text": "Imaház és közösségi központ Brassó történelmi részén.",
+                  "category": "religious",
+                  "coords": [
+                        25.606625,
+                        45.656967
                   ]
             }
       ],
@@ -9896,6 +14306,231 @@ export const romaniaCities: POI[] = [
                         25.587839,
                         45.640786
                   ]
+            },
+            {
+                  "name": "Muzeul de Artă Brașov",
+                  "text": "Muzeul de Artă din Brașov găzduiește o colecție importantă de artă românească.",
+                  "category": "museum",
+                  "coords": [
+                        25.593788,
+                        45.645004
+                  ]
+            },
+            {
+                  "name": "Cetățuia de pe Strajă",
+                  "text": "O cetate istorică situată pe un deal, oferind o panoramă asupra orașului Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.591839,
+                        45.649351
+                  ]
+            },
+            {
+                  "name": "Bastionul Țesătorilor",
+                  "text": "Un bastion medieval în Brașov care găzduiește astăzi un muzeu.",
+                  "category": "fortress",
+                  "coords": [
+                        25.588993,
+                        45.636929
+                  ]
+            },
+            {
+                  "name": "Teatrul Sică Alexandrescu",
+                  "text": "Teatrul principal din Brașov, numit după regizorul Sică Alexandrescu.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598604,
+                        45.645792
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Reduta",
+                  "text": "Un centru cultural și teatral important situat în centrul istoric al Brașovului.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589285,
+                        45.640831
+                  ]
+            },
+            {
+                  "name": "Turnul Negru",
+                  "text": "Un turn medieval de apărare din Brașov, parte a fortificațiilor exterioare ale orașului.",
+                  "category": "castle",
+                  "coords": [
+                        25.58564,
+                        45.641281
+                  ]
+            },
+            {
+                  "name": "Bastionul Graft",
+                  "text": "Un bastion din Brașov construit deasupra canalului Graft pentru a întări zidul cetății.",
+                  "category": "fortress",
+                  "coords": [
+                        25.587385,
+                        45.642526
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Prima Școală Românească\"",
+                  "text": "O clădire istorică din Brașov unde s-au ținut primele cursuri în limba română.",
+                  "category": "museum",
+                  "coords": [
+                        25.581213,
+                        45.635868
+                  ]
+            },
+            {
+                  "name": "Bastionul Postăvarilor",
+                  "text": "Unul dintre cele șapte bastioane ale cetății medievale a Brașovului.",
+                  "category": "fortress",
+                  "coords": [
+                        25.597646,
+                        45.642218
+                  ]
+            },
+            {
+                  "name": "Bastionul Funarilor",
+                  "text": "Un bastion bine conservat din Brașov, întreținut odinioară de breasla funarilor.",
+                  "category": "fortress",
+                  "coords": [
+                        25.592635,
+                        45.639666
+                  ]
+            },
+            {
+                  "name": "Cetatea Brassovia",
+                  "text": "Ruinele unei vechi cetăți situate pe muntele Tâmpa, lângă Brașov.",
+                  "category": "historical",
+                  "coords": [
+                        25.59198,
+                        45.633044
+                  ]
+            },
+            {
+                  "name": "Teatrul Liric",
+                  "text": "Un teatru de operă și operetă din Brașov care oferă diverse spectacole muzicale.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589978,
+                        45.654339
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"Ștefan Baciu\"",
+                  "text": "Un muzeu memorial în Brașov dedicat vieții scriitorului Ștefan Baciu.",
+                  "category": "museum",
+                  "coords": [
+                        25.586365,
+                        45.637719
+                  ]
+            },
+            {
+                  "name": "Galeria Metaxa Brașov",
+                  "text": "Un muzeu sau o galerie din Brașov care prezintă opere de artă într-un cadru istoric.",
+                  "category": "museum",
+                  "coords": [
+                        25.590861,
+                        45.641162
+                  ]
+            },
+            {
+                  "name": "Rezervația Naturală Warthe",
+                  "text": "O rezervație naturală lângă Brașov, cunoscută pentru traseele sale și floră.",
+                  "category": "natural",
+                  "coords": [
+                        25.572715,
+                        45.646759
+                  ]
+            },
+            {
+                  "name": "Tâmpa",
+                  "text": "Un munte situat chiar lângă Brașov, oferind o vedere panoramică asupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.59291,
+                        45.634169
+                  ]
+            },
+            {
+                  "name": "Dealul Șprenghi",
+                  "text": "Un deal în Brașov pe care se află vestigiile unei vechi fortificații.",
+                  "category": "natural",
+                  "coords": [
+                        25.576128,
+                        45.661576
+                  ]
+            },
+            {
+                  "name": "Biserica Bartolomeu",
+                  "text": "Cea mai veche biserică din Brașov, un monument important al arhitecturii săsești.",
+                  "category": "landmark",
+                  "coords": [
+                        25.577396,
+                        45.662714
+                  ]
+            },
+            {
+                  "name": "Parcul Nicolae Titulescu",
+                  "text": "Un parc central din Brașov, ideal pentru relaxare în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593295,
+                        45.64599
+                  ]
+            },
+            {
+                  "name": "Școala de Arte \"Tiberiu Brediceanu\"",
+                  "text": "Un centru de artă și educație din Brașov pentru formare creativă.",
+                  "category": "cultural",
+                  "coords": [
+                        25.588943,
+                        45.647053
+                  ]
+            },
+            {
+                  "name": "belvedere",
+                  "text": "Un punct de observație în Brașov care oferă o vedere largă asupra orașului și munților.",
+                  "category": "natural",
+                  "coords": [
+                        25.564829,
+                        45.633927
+                  ]
+            },
+            {
+                  "name": "Belvedere Colina Universității",
+                  "text": "Un punct de belvedere situat pe dealul universității din Brașov.",
+                  "category": "natural",
+                  "coords": [
+                        25.597485,
+                        45.653701
+                  ]
+            },
+            {
+                  "name": "Poarta Ecaterinei",
+                  "text": "Singura poartă a orașului din perioada medievală care s-a păstrat în Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.586098,
+                        45.639516
+                  ]
+            },
+            {
+                  "name": "Biserica reformată Belvárosi",
+                  "text": "Biserica reformată din centrul Brașovului care deservește comunitatea maghiară.",
+                  "category": "religious",
+                  "coords": [
+                        25.583509,
+                        45.639129
+                  ]
+            },
+            {
+                  "name": "Casa Speranței",
+                  "text": "Un lăcaș de cult și centru comunitar situat în partea istorică a Brașovului.",
+                  "category": "religious",
+                  "coords": [
+                        25.606625,
+                        45.656967
+                  ]
             }
       ],
       "en": [
@@ -9948,6 +14583,231 @@ export const romaniaCities: POI[] = [
                         25.587839,
                         45.640786
                   ]
+            },
+            {
+                  "name": "Brasov Art Museum",
+                  "text": "The Brașov Art Museum houses an important collection of Romanian art.",
+                  "category": "museum",
+                  "coords": [
+                        25.593788,
+                        45.645004
+                  ]
+            },
+            {
+                  "name": "Cetățuia de pe Strajă",
+                  "text": "A historic fortress situated on a hill overlooking the city of Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.591839,
+                        45.649351
+                  ]
+            },
+            {
+                  "name": "Weavers' Bastion",
+                  "text": "A medieval bastion in Brașov that now houses a museum.",
+                  "category": "fortress",
+                  "coords": [
+                        25.588993,
+                        45.636929
+                  ]
+            },
+            {
+                  "name": "Teatrul Sică Alexandrescu",
+                  "text": "The main theatre of Brașov, named after the director Sică Alexandrescu.",
+                  "category": "cultural",
+                  "coords": [
+                        25.598604,
+                        45.645792
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Reduta",
+                  "text": "An important cultural and theatre center located in the historic center of Brașov.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589285,
+                        45.640831
+                  ]
+            },
+            {
+                  "name": "Black Tower",
+                  "text": "A medieval defensive tower in Brașov, part of the city's outer fortifications.",
+                  "category": "castle",
+                  "coords": [
+                        25.58564,
+                        45.641281
+                  ]
+            },
+            {
+                  "name": "Graft Bastion",
+                  "text": "A bastion in Brașov built over the Graft canal to reinforce the city wall.",
+                  "category": "fortress",
+                  "coords": [
+                        25.587385,
+                        45.642526
+                  ]
+            },
+            {
+                  "name": "\"The First Romanian School\" Museum",
+                  "text": "A historic building in Brașov where the first Romanian-language classes were held.",
+                  "category": "museum",
+                  "coords": [
+                        25.581213,
+                        45.635868
+                  ]
+            },
+            {
+                  "name": "Drapers' Bastion",
+                  "text": "One of the seven bastions of the medieval fortress of Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.597646,
+                        45.642218
+                  ]
+            },
+            {
+                  "name": "Ropers' Bastion",
+                  "text": "A well-preserved bastion in Brașov that was maintained by the ropers' guild.",
+                  "category": "fortress",
+                  "coords": [
+                        25.592635,
+                        45.639666
+                  ]
+            },
+            {
+                  "name": "Brașovia Citadel",
+                  "text": "Ruins of an ancient citadel located on Tâmpa Mountain near Brașov.",
+                  "category": "historical",
+                  "coords": [
+                        25.59198,
+                        45.633044
+                  ]
+            },
+            {
+                  "name": "Teatrul Liric",
+                  "text": "An opera and operetta theatre in Brașov offering various musical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        25.589978,
+                        45.654339
+                  ]
+            },
+            {
+                  "name": "\"Ştefan Baciu\" Memorial House",
+                  "text": "A memorial museum in Brașov dedicated to the life of the writer Ștefan Baciu.",
+                  "category": "museum",
+                  "coords": [
+                        25.586365,
+                        45.637719
+                  ]
+            },
+            {
+                  "name": "Galeria Metaxa Brașov",
+                  "text": "A museum or gallery in Brașov presenting artworks in a historical setting.",
+                  "category": "museum",
+                  "coords": [
+                        25.590861,
+                        45.641162
+                  ]
+            },
+            {
+                  "name": "Rezervația Naturală Warthe",
+                  "text": "A nature reserve near Brașov, known for its trails and flora.",
+                  "category": "natural",
+                  "coords": [
+                        25.572715,
+                        45.646759
+                  ]
+            },
+            {
+                  "name": "Tâmpa",
+                  "text": "A mountain located right by Brașov, offering panoramic views of the city.",
+                  "category": "landmark",
+                  "coords": [
+                        25.59291,
+                        45.634169
+                  ]
+            },
+            {
+                  "name": "Dealul Șprenghi",
+                  "text": "A hill in Brașov featuring the remains of an ancient fortification.",
+                  "category": "natural",
+                  "coords": [
+                        25.576128,
+                        45.661576
+                  ]
+            },
+            {
+                  "name": "Biserica Bartolomeu",
+                  "text": "The oldest church in Brașov, an important monument of Saxon architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        25.577396,
+                        45.662714
+                  ]
+            },
+            {
+                  "name": "Parcul Nicolae Titulescu",
+                  "text": "A central park in Brașov, ideal for relaxation in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        25.593295,
+                        45.64599
+                  ]
+            },
+            {
+                  "name": "Școala de Arte \"Tiberiu Brediceanu\"",
+                  "text": "An arts and education center in Brașov for creative training.",
+                  "category": "cultural",
+                  "coords": [
+                        25.588943,
+                        45.647053
+                  ]
+            },
+            {
+                  "name": "belvedere",
+                  "text": "A viewpoint in Brașov offering a wide view over the city and the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        25.564829,
+                        45.633927
+                  ]
+            },
+            {
+                  "name": "Belvedere Colina Universității",
+                  "text": "A viewpoint located on the university hill in Brașov with views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        25.597485,
+                        45.653701
+                  ]
+            },
+            {
+                  "name": "Catherine's Gate",
+                  "text": "The only city gate from the medieval period that has survived in Brașov.",
+                  "category": "fortress",
+                  "coords": [
+                        25.586098,
+                        45.639516
+                  ]
+            },
+            {
+                  "name": "Biserica reformată Belvárosi",
+                  "text": "A Reformed church in the center of Brașov serving the Hungarian community.",
+                  "category": "religious",
+                  "coords": [
+                        25.583509,
+                        45.639129
+                  ]
+            },
+            {
+                  "name": "Casa Speranței",
+                  "text": "A place of worship and community center located in the historic part of Brașov.",
+                  "category": "religious",
+                  "coords": [
+                        25.606625,
+                        45.656967
+                  ]
             }
       ]
 }
@@ -9987,6 +14847,501 @@ export const romaniaCities: POI[] = [
                         26.09789,
                         44.42406
                   ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Der wichtigste botanische Garten in Bukarest, verwaltet von der Universität Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Teatrului Naţional",
+                  "text": "Museum zur Dokumentation der Geschichte und Entwicklung des Nationaltheaters.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Rumäniens Nationalmuseum für Militärgeschichte und Ausrüstung.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Museum mit einer wertvollen Sammlung von Münzen und archäologischen Gegenständen.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Theodor Pallady\"",
+                  "text": "Museum im Melik-Haus, einem der ältesten der Stadt, mit Werken von Theodor Pallady.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Museum für Kunstsammlungen, die dem rumänischen Staat gespendet wurden.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Das wichtigste Kunstmuseum des Landes im ehemaligen Königspalast.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum für zeitgenössische Kunst",
+                  "text": "Museum für zeitgenössische Kunst im Parlamentspalast.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie",
+                  "text": "Nationalmuseum zur Geschichte Rumäniens von der Urzeit bis zur Gegenwart.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "Palatul Bursei de Valori",
+                  "text": "Das historische Gebäude der ehemaligen Börse, in dem heute die Nationalbibliothek untergebracht ist.",
+                  "category": "castle",
+                  "coords": [
+                        26.10069,
+                        44.433568
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Ein historischer Palast in der Nähe des Cișmigiu-Parks, bekannt für seine elegante Architektur.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Das einzige öffentliche astronomische Observatorium in Bukarest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "Ein prächtiger historischer Palast und Veranstaltungsort aus dem frühen 20. Jahrhundert.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Denkmal zur Erinnerung an die Opfer der rumänischen Revolution von 1989.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "Denkmal für die Infanterie-Helden der rumänischen Armee.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Denkmal zu Ehren der rumänischen Artilleriesoldaten.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Memorialul Eroilor Neamului",
+                  "text": "Ein monumentales Bauwerk im Carol-Park, ursprünglich zu Ehren kommunistischer Führer errichtet.",
+                  "category": "historical",
+                  "coords": [
+                        26.096864,
+                        44.411237
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "Ein moderner Theaterraum, bekannt für sein vielfältiges Repertoire.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "Nationaloper",
+                  "text": "Das wichtigste Opern- und Balletthaus Rumäniens.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Eines der ältesten Klöster Bukarests, das in den 1980er Jahren verlegt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Teatrul Evreiesc de Stat",
+                  "text": "Ein Staatstheater, das Stücke auf Jiddisch und Rumänisch aufführt.",
+                  "category": "cultural",
+                  "coords": [
+                        26.110702,
+                        44.429426
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Historischer Klosterkomplex, bekannt für seine Architektur und kulturelle Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "Eine orthodoxe Kirche, die den Heiligen Konstantin und Helena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Die römisch-katholische Hauptkathedrale von Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "Eine historische orthodoxe Kirche im Viertel Tabaci.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "Eine große orthodoxe Kirche, bekannt als eine der geräumigsten der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "Historische orthodoxe Kirche auf einem kleinen Hügel im Stadtzentrum.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "Eine orthodoxe Kirche mit einer langen Geschichte in der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "Eine historische orthodoxe Kirche in der Bukarester Innenstadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "Eine orthodoxe Kirche im Zentrum von Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "Eine markante orthodoxe Kirche in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "Eine geschichtsträchtige orthodoxe Kirche in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "Eine traditionelle orthodoxe Kirche in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "Eine historische Kirche, die Teil des Colțea-Krankenhauskomplexes ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "Eine kleine, historische orthodoxe Kirche in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "Eine imposante orthodoxe Kirche im Stadtteil Cotroceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "Eine berühmte Klosterkirche im Brâncovenesc-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "Eine bekannte orthodoxe Kirche in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "Eine orthodoxe Kirche im Bukarester Plevna-Viertel.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Eine elegante orthodoxe Kirche an der Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Domnița Bălașa",
+                  "text": "Eine prächtige orthodoxe Kirche in der Nähe des Unirii-Platzes.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "Die Kathedrale der rumänischen griechisch-katholischen Kirche in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Templul Unirea Sfântă",
+                  "text": "Eine ehemalige Synagoge, die heute das Jüdische Geschichtsmuseum beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        26.108038,
+                        44.428328
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Eine kleine orthodoxe Kirche an der Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "Ein Denkmalensemble mit Büsten rumänischer Schriftsteller im Cișmigiu-Park.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Rumänisches Atheneum",
+                  "text": "Ein prachtvolles Konzerthaus und ein kulturelles Wahrzeichen Bukarests.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Sinagoga Mare",
+                  "text": "Ein bedeutendes jüdisches Gotteshaus in Bukarest.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108611,
+                        44.429559
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "Ein städtisches Naturschutzgebiet, bekannt als das „Delta von Bukarest“.",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Ein Hügel in Bukarest, auf dem sich heute der Parlamentspalast befindet.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Carol-Park",
+                  "text": "Ein öffentlicher Park mit Monumenten und weitläufigen Alleen.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Ein großer öffentlicher Park in der Nähe des Parlamentspalastes.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Ein weitläufiger Erholungspark im Süden von Bukarest.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Cișmigiu-Park",
+                  "text": "Der älteste öffentliche Park im Zentrum von Bukarest.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "Ein kleiner, ruhiger Park im Zentrum von Bukarest.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "Ein gemütlicher öffentlicher Park in einem historischen Viertel.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
+                  ]
             }
       ],
       "hu": [
@@ -9998,6 +15353,501 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.09789,
                         44.42406
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Bukarest fő botanikus kertje, amelyet a Bukaresti Egyetem kezel.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Teatrului Naţional",
+                  "text": "A Nemzeti Színház történetét és fejlődését dokumentáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Románia hadtörténeti és katonai felszereléseket bemutató nemzeti múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Értékes numizmatikai és régészeti gyűjteménynek otthont adó múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Theodor Pallady\"",
+                  "text": "A város egyik legrégebbi épületében, a Melik-házban található múzeum Theodor Pallady műveivel.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Román államnak adományozott számos egyéni művészeti gyűjteményt bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Az ország elsőszámú művészeti múzeuma az egykori királyi palotában.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă Contemporană",
+                  "text": "A kortárs művészetnek szentelt múzeum a Parlament palotájában.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie",
+                  "text": "Románia történelmét az őskortól napjainkig bemutató nemzeti múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "Palatul Bursei de Valori",
+                  "text": "Az egykori tőzsde történelmi épülete, amely ma a Nemzeti Könyvtárnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        26.10069,
+                        44.433568
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Történelmi palota a Cișmigiu-park közelében, amely elegáns építészetéről ismert.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Bukarest egyetlen nyilvános csillagvizsgálója.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "Impozáns történelmi palota és rendezvényhelyszín a 20. század elejéről.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Az 1989-es romániai forradalom áldozatainak emléket állító emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "A román hadsereg gyalogsági hőseinek szentelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "A román tüzérségi katonák tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Memorialul Eroilor Neamului",
+                  "text": "Monumentális építmény a Carol-parkban, amelyet eredetileg a kommunista vezetők tiszteletére emeltek.",
+                  "category": "historical",
+                  "coords": [
+                        26.096864,
+                        44.411237
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "Modern színházi helyszín, amely változatos repertoárjáról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "Opera Națională",
+                  "text": "Románia elsőszámú opera- és balettháza.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Bukarest egyik legrégebbi kolostora, amelyet az 1980-as években helyeztek át.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Teatrul Evreiesc de Stat",
+                  "text": "Jiddis és román nyelvű előadásokat tartó állami színház.",
+                  "category": "cultural",
+                  "coords": [
+                        26.110702,
+                        44.429426
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Történelmi kolostoregyüttes, amely építészetéről és kulturális jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "A Szent Konstantin és Heléna tiszteletére szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Bukarest fő római katolikus székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "Történelmi ortodox templom a Tabaci negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "Nagyméretű ortodox templom, amely a város egyik legtágasabb templomaként ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "Történelmi ortodox templom egy kis dombon a városközpontban.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "Hosszú múltra visszatekintő ortodox templom a városban.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "Történelmi ortodox templom Bukarest belvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "Ortodox templom Bukarest központjában.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "Jellegzetes ortodox templom Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "Nagy múltú ortodox templom Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "Hagyományos ortodox templom Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "A Colțea kórházkomplexumhoz tartozó történelmi templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "Kisméretű, történelmi ortodox templom Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "Impozáns ortodox templom a Cotroceni negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "Híres kolostortemplom a Brâncovenesc-stílus jegyében.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "Ismert ortodox templom Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "Ortodox templom Bukarest Plevna negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Elegáns ortodox templom a Calea Victoriei sugárúton.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Domnița Bălașa",
+                  "text": "Pompás ortodox templom az Unirii tér közelében.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "A román görögkatolikus egyház székesegyháza Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Templul Unirea Sfântă",
+                  "text": "Egykori zsinagóga, amely ma a Zsidó Történeti Múzeumnak ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        26.108038,
+                        44.428328
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Kis ortodox templom a Calea Victoriei sugárúton.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "Román írók mellszobraiból álló emlékmű a Cișmigiu parkban.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Román Atheneum",
+                  "text": "Bukarest lenyűgöző hangversenyterme és kulturális jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Sinagoga Mare",
+                  "text": "Bukarest egyik jelentős zsidó imaháza.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108611,
+                        44.429559
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "Városi természetvédelmi terület, amelyet „Bukarest-deltaként” is ismernek.",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Bukaresti domb, amelyen ma a Parlamenti Palota áll.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Parcul Carol",
+                  "text": "Közpark emlékművekkel és tágas sétányokkal.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Nagy közpark a Parlamenti Palota közelében.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Kiterjedt pihenőpark Bukarest déli részén.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Parcul Cișmigiu",
+                  "text": "Bukarest központjának legrégebbi közparkja.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "Kicsi, csendes park Bukarest központjában.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "Hangulatos közpark egy történelmi negyedben.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
                   ]
             }
       ],
@@ -10011,6 +15861,501 @@ export const romaniaCities: POI[] = [
                         26.09789,
                         44.42406
                   ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Grădina botanică principală din București, administrată de Universitatea din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Teatrului Naţional",
+                  "text": "Muzeu care documentează istoria și evoluția Teatrului Național.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Muzeul național al României pentru istorie și echipament militar.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Muzeu care găzduiește o valoroasă colecție de numismatică și obiecte arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Theodor Pallady\"",
+                  "text": "Muzeu situat în Casa Melik, una dintre cele mai vechi din oraș, ce expune lucrări de Theodor Pallady.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Muzeu care expune numeroase colecții de artă individuale donate statului român.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Principalul muzeu de artă al țării, situat în fostul Palat Regal.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă Contemporană",
+                  "text": "Muzeu dedicat artei postbelice și contemporane, situat în Palatul Parlamentului.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie",
+                  "text": "Muzeul național care prezintă istoria României din preistorie până în prezent.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "Palatul Bursei de Valori",
+                  "text": "Clădirea istorică a fostei Burse, care găzduiește în prezent Biblioteca Națională.",
+                  "category": "castle",
+                  "coords": [
+                        26.10069,
+                        44.433568
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Un palat istoric situat lângă Grădina Cișmigiu, cunoscut pentru arhitectura sa elegantă.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Singurul observator astronomic public din București.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "Un mare palat istoric și loc de evenimente construit la începutul secolului al XX-lea.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Un monument care comemorează victimele Revoluției Române din 1989.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "Un monument dedicat eroilor infanteriști ai Armatei Române.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Un monument în cinstea soldaților artileriști români.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Memorialul Eroilor Neamului",
+                  "text": "O structură monumentală în Parcul Carol, construită inițial în onoarea liderilor comuniști.",
+                  "category": "historical",
+                  "coords": [
+                        26.096864,
+                        44.411237
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "O sală de teatru modernă, cunoscută pentru repertoriul său diversificat.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "Opera Națională",
+                  "text": "Principala casă de operă și balet din România.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Una dintre cele mai vechi mănăstiri din București, mutată în anii 1980.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Teatrul Evreiesc de Stat",
+                  "text": "Un teatru de stat care prezintă spectacole în idiș și română.",
+                  "category": "cultural",
+                  "coords": [
+                        26.110702,
+                        44.429426
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Un complex mănăstiresc istoric, cunoscut pentru arhitectura sa și importanța culturală.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "O biserică ortodoxă dedicată Sfinților Împărați Constantin și Elena.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Principala catedrală romano-catolică din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "O biserică ortodoxă istorică situată în cartierul Tabaci.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "O biserică ortodoxă mare, cunoscută ca fiind una dintre cele mai spațioase din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "O biserică ortodoxă istorică construită pe o mică colină din centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "O biserică ortodoxă cu o istorie îndelungată în oraș.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "O biserică ortodoxă istorică situată în centrul Bucureștiului.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "O biserică ortodoxă situată în centrul Capitalei.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "O biserică ortodoxă reprezentativă din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "O biserică ortodoxă încărcată de istorie din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "O biserică ortodoxă tradițională din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "O biserică istorică ce face parte din complexul spitalului Colțea.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "O biserică ortodoxă istorică de dimensiuni mici din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "O biserică ortodoxă impunătoare situată în cartierul Cotroceni.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "O renumită biserică de mănăstire în stil brâncovenesc.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "O cunoscută biserică ortodoxă din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "O biserică ortodoxă situată în cartierul Plevna din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "O biserică ortodoxă elegantă situată pe Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica  Domnița Bălașa",
+                  "text": "O biserică ortodoxă monumentală situată în apropierea Pieței Unirii.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "Catedrala greco-catolică situată în București.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Templul Unirea Sfântă",
+                  "text": "O fostă sinagogă care găzduiește astăzi Muzeul de Istorie a Evreilor.",
+                  "category": "religious",
+                  "coords": [
+                        26.108038,
+                        44.428328
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "O mică biserică ortodoxă situată pe Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "Un ansamblu de busturi ale scriitorilor români din Parcul Cișmigiu.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Ateneul Român",
+                  "text": "O sală de concerte spectaculoasă și un simbol cultural al Bucureștiului.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Sinagoga Mare",
+                  "text": "Un lăcaș de cult evreiesc important din București.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108611,
+                        44.429559
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "O rezervație naturală urbană, cunoscută sub numele de „Delta Văcărești”.",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Un deal din București pe care se află astăzi Palatul Parlamentului.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Parcul Carol",
+                  "text": "Un parc public cu monumente și alei largi.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Un parc public mare situat în apropierea Palatului Parlamentului.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Un parc de recreere vast situat în sudul Bucureștiului.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Parcul Cișmigiu",
+                  "text": "Cel mai vechi parc public din centrul Bucureștiului.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "Un parc mic și liniștit situat în centrul Bucureștiului.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "Un parc public primitor situat într-un cartier istoric.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
+                  ]
             }
       ],
       "en": [
@@ -10022,6 +16367,501 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.09789,
                         44.42406
+                  ]
+            },
+            {
+                  "name": "\"Dimitrie Brandza\" Botanic Garden",
+                  "text": "The main botanical garden of Bucharest, managed by the University of Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "National Theatre Bucharest Museum",
+                  "text": "A museum documenting the history and evolution of the National Theatre.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "\"King Ferdinand I\" National Military Museum",
+                  "text": "Romania's national museum for military history and equipment.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "\"Maria and Dr. George Severeanu\" Collection",
+                  "text": "A museum housing a valuable collection of numismatics and archaeological items.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "\"Theodor Pallady\" Museum",
+                  "text": "A museum featuring the Melik House, one of the oldest in the city, and works by Theodor Pallady.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Art Collections Museum",
+                  "text": "A museum exhibiting numerous individual art collections donated to the Romanian state.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "National Museum of Art of Romania",
+                  "text": "The country's primary art museum, located in the former Royal Palace.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "National Museum of Contemporary Art",
+                  "text": "A museum dedicated to post-war and contemporary art, located in the Palace of the Parliament.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "National History Museum",
+                  "text": "The national museum displaying the history of Romania from prehistoric times to the present.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "Palatul Bursei de Valori",
+                  "text": "The historic building of the former Stock Exchange, now housing the National Library.",
+                  "category": "castle",
+                  "coords": [
+                        26.10069,
+                        44.433568
+                  ]
+            },
+            {
+                  "name": "Kretzulescu Palace",
+                  "text": "A historic palace located near the Cișmigiu Gardens, known for its elegant architecture.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
+                  "text": "The only public astronomical observatory in Bucharest.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "A grand historic palace and event venue built in the early 20th century.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Memorial of Rebirth",
+                  "text": "A monument commemorating the victims of the 1989 Romanian Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "A monument dedicated to the infantry heroes of the Romanian Army.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "A monument honoring the Romanian artillery soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Carol Park Mausoleum",
+                  "text": "A monumental structure in Carol Park, initially built to honor communist leaders.",
+                  "category": "historical",
+                  "coords": [
+                        26.096864,
+                        44.411237
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "A modern theatre venue known for its diverse repertoire.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "National Opera",
+                  "text": "The main opera and ballet house in Romania.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "One of the oldest monasteries in Bucharest, moved in the 1980s.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "The Jewish Theatre",
+                  "text": "A state theatre performing plays in Yiddish and Romanian.",
+                  "category": "cultural",
+                  "coords": [
+                        26.110702,
+                        44.429426
+                  ]
+            },
+            {
+                  "name": "Antim Monastery",
+                  "text": "A historic monastery complex known for its architecture and cultural importance.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "An Orthodox church dedicated to Saints Constantine and Helen.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "The main Roman Catholic cathedral in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "A historic Orthodox church located in the Tabaci neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "A large Orthodox church, known for being one of the most spacious in the city.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "A historic Orthodox church built on a small hill in the city center.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "An Orthodox church with a long history in the city.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "A historic Orthodox church located in central Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "An Orthodox church located in the center of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "A prominent Orthodox church in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "A historic Orthodox church in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "A traditional Orthodox church in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "A historic church that is part of the Colțea hospital complex.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "A small, historic Orthodox church in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "An impressive Orthodox church located in the Cotroceni neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "A famous monastery church built in the Brâncovenesc style.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "A well-known Orthodox church in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "An Orthodox church located in the Plevna area of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "An elegant Orthodox church located on Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Domnița Bălașa Church",
+                  "text": "A magnificent Orthodox church located near Unirii Square.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Basil the Great",
+                  "text": "The Greek Catholic cathedral located in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Templul Unirea Sfântă",
+                  "text": "A former synagogue that now houses the Jewish History Museum.",
+                  "category": "religious",
+                  "coords": [
+                        26.108038,
+                        44.428328
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "A small Orthodox church located on Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "A collection of busts of Romanian writers in Cișmigiu Park.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Romanian Atheneum",
+                  "text": "A magnificent concert hall and a cultural landmark of Bucharest.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Great Synagogue",
+                  "text": "A significant Jewish place of worship in Bucharest.",
+                  "category": "landmark",
+                  "coords": [
+                        26.108611,
+                        44.429559
+                  ]
+            },
+            {
+                  "name": "Parcul Natural Văcărești",
+                  "text": "An urban nature reserve known as the \"Văcărești Delta\".",
+                  "category": "natural",
+                  "coords": [
+                        26.133574,
+                        44.399413
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "A hill in Bucharest where the Palace of the Parliament is located.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Carol Park",
+                  "text": "A public park featuring monuments and wide avenues.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Izvor Park",
+                  "text": "A large public park located near the Palace of the Parliament.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "A large recreational park located in the southern part of Bucharest.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Cișmigiu Gardens",
+                  "text": "The oldest public park in central Bucharest.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "A small, peaceful park in the center of Bucharest.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "A cozy public park located in a historic neighborhood.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
                   ]
             }
       ]
@@ -10197,6 +17037,492 @@ export const romaniaCities: POI[] = [
                         26.088291,
                         44.438328
                   ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Der Botanische Garten „Dimitrie Brandza“ ist eine große Grünanlage in Bukarest mit zahlreichen Pflanzenarten.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Dieses Nationalmuseum präsentiert die Militärgeschichte Rumäniens anhand verschiedener Exponate und Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Dieses Museum beherbergt eine wertvolle Sammlung von Numismatik und archäologischen Artefakten.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Das Museum für Kunstsammlungen stellt verschiedene private Kunstschenkungen in einem historischen Palast aus.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Dieses im ehemaligen Königspalast untergebrachte Museum zeigt bedeutende rumänische und europäische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum für zeitgenössische Kunst",
+                  "text": "Dieses im Parlamentspalast untergebrachte Museum widmet sich der modernen und zeitgenössischen Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Dieses Museum zeigt eine reiche Sammlung traditioneller rumänischer Volkskunst und kultureller Artefakte.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie",
+                  "text": "Das Museum präsentiert die Geschichte Rumäniens von der Urgeschichte bis in die Moderne.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Dies ist eines der beliebtesten Museen in Bukarest, das der Naturgeschichte und Biodiversität gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Das Museum stellt umfangreiche Sammlungen von Mineralien, Gesteinen und Fossilien aus Rumänien aus.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Dieser historische Palast ist ein architektonisches Wahrzeichen in der Nähe des Cișmigiu-Parks.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Dies ist das einzige öffentliche astronomische Observatorium in Bukarest, das für Himmelsbeobachtungen geöffnet ist.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "Ein beeindruckender architektonischer Komplex im eklektischen Stil, der für kulturelle Veranstaltungen genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "Ein historischer Palast an der Calea Victoriei, ein wichtiges Beispiel für das adelige Erbe Bukarests.",
+                  "category": "castle",
+                  "coords": [
+                        26.091763,
+                        44.443727
+                  ]
+            },
+            {
+                  "name": "Grand Hotel Continental",
+                  "text": "Ein denkmalgeschütztes historisches Gebäude und Luxushotel im Herzen von Bukarest.",
+                  "category": "castle",
+                  "coords": [
+                        26.098159,
+                        44.437022
+                  ]
+            },
+            {
+                  "name": "Palatul Nunțiaturii Apostolice a Sfântului Scaun din București",
+                  "text": "Dieses historische Gebäude dient als offizielle Residenz und Sitz des Vertreters des Heiligen Stuhls in Rumänien.",
+                  "category": "castle",
+                  "coords": [
+                        26.085942,
+                        44.43913
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "Das Museum präsentiert die Geschichte und technische Entwicklung des Eisenbahnnetzes in Rumänien.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Palatul Băncii Marmorosch Blank",
+                  "text": "Ein prächtiges historisches Gebäude in der Altstadt, einst der Sitz einer bedeutenden Bank.",
+                  "category": "castle",
+                  "coords": [
+                        26.098915,
+                        44.433634
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Dieses Denkmal erinnert an die Opfer der rumänischen Revolution von 1989.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "Eine Bronzestatue, die den im Ersten Weltkrieg kämpfenden Infanteriesoldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Dieses Denkmal ehrt den Heroismus der Artilleriesoldaten in der rumänischen Militärgeschichte.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Monumentul Trupelor de Geniu (Leul)",
+                  "text": "Dieses als „Der Löwe“ bekannte Denkmal ist den Genietruppen der rumänischen Armee gewidmet.",
+                  "category": "historical",
+                  "coords": [
+                        26.05875,
+                        44.434297
+                  ]
+            },
+            {
+                  "name": "Centrul de Recreere și Dezvoltare Personală \"Conacul Golescu Grant\"",
+                  "text": "Ein historisches Herrenhaus, das heute als lokales Gemeinschafts- und Kulturzentrum dient.",
+                  "category": "historical",
+                  "coords": [
+                        26.053899,
+                        44.449609
+                  ]
+            },
+            {
+                  "name": "Primăria Sectorului 1",
+                  "text": "Der Verwaltungssitz für den ersten Bezirk von Bukarest, untergebracht in einem markanten Gebäude.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului București",
+                  "text": "Der Sitz des Bukarester Rathauses, untergebracht in einem monumentalen historischen Palast.",
+                  "category": "historical",
+                  "coords": [
+                        26.093167,
+                        44.434277
+                  ]
+            },
+            {
+                  "name": "Nationaloper",
+                  "text": "Rumäniens führendes Opern- und Balletthaus, bekannt für seine hochkarätigen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Eine der ältesten erhaltenen Kirchen in Bukarest, die in den 1980er Jahren von ihrem ursprünglichen Standort verlegt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Teatrul Odeon",
+                  "text": "Ein bedeutendes Theater in Bukarest, das in einem historischen Gebäude an der Calea Victoriei untergebracht ist.",
+                  "category": "cultural",
+                  "coords": [
+                        26.098947,
+                        44.435998
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Ein historischer Klosterkomplex, der für seine einzigartige Architektur und religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "Eine den Heiligen Konstantin und Helena gewidmete orthodoxe Kirche in der Hauptstadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Das wichtigste römisch-katholische Gotteshaus in Bukarest und ein bemerkenswertes Baudenkmal.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "Eine historische orthodoxe Kirche auf einem kleinen Hügel, bekannt für ihre spirituelle Atmosphäre.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "Eine im Zentrum von Bukarest versteckte orthodoxe Kirche aus dem 17. Jahrhundert, bekannt für ihre feinen Steinmetzarbeiten.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "Eine markante orthodoxe Kirche in Bukarest, die sich im Bereich des Amzei-Marktes befindet.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "Eine kleine, historische Kirche aus dem 18. Jahrhundert, die den traditionellen walachischen Stil repräsentiert.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "Eine imposante orthodoxe Kirche im Stadtteil Cotroceni, bekannt für ihre Architektur im byzantinischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "Diese kleine Kirche ist ein Juwel der Brâncoveanu-Architektur und berühmt für ihre kunstvollen Stein- und Holzschnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "Eine dem heiligen Georg gewidmete orthodoxe Kirche in Bukarest, die der örtlichen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Sie ist als „Weiße Kirche“ bekannt und ein bedeutendes orthodoxes Wahrzeichen an der Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Eine historische orthodoxe Kirche an der Calea Victoriei, die dem heiligen Basilius dem Großen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica Belvedere",
+                  "text": "Ein orthodoxes Gotteshaus im Bukarester Stadtteil Belvedere.",
+                  "category": "religious",
+                  "coords": [
+                        26.055299,
+                        44.447755
+                  ]
+            },
+            {
+                  "name": "Biserica Luterană",
+                  "text": "Das wichtigste Gotteshaus der deutschsprachigen lutherischen Gemeinde in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.093236,
+                        44.440581
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Boteanu-Ienii\"",
+                  "text": "Eine orthodoxe Kirche im Zentrum von Bukarest, bekannt für ihre spirituelle Rolle und ihre Aktivitäten in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        26.09909,
+                        44.440307
+                  ]
+            },
+            {
+                  "name": "Nationalkathedrale",
+                  "text": "Sie ist auch als Kathedrale der Erlösung des Volkes bekannt und die größte orthodoxe Kirche Rumäniens.",
+                  "category": "religious",
+                  "coords": [
+                        26.08229,
+                        44.425918
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Dumitru\" - Poștă",
+                  "text": "Eine historische Kirche in der Altstadt, die sich in der Nähe des ehemaligen Hauptpostamtes befindet.",
+                  "category": "religious",
+                  "coords": [
+                        26.09877,
+                        44.430832
+                  ]
+            },
+            {
+                  "name": "Sinagoga Eșua Tova",
+                  "text": "Die älteste Synagoge in Bukarest, die als Zentrum für die örtliche jüdische Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        26.097409,
+                        44.444453
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "Eine kreisförmige Allee im Cișmigiu-Park mit Büsten prominenter rumänischer Schriftsteller.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Rumänisches Atheneum",
+                  "text": "Bukarests renommiertester Konzertsaal und ein Symbol der rumänischen Kultur.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Sala Palatului",
+                  "text": "Ein großer Konferenz- und Konzertsaal hinter dem Nationalen Kunstmuseum.",
+                  "category": "landmark",
+                  "coords": [
+                        26.095105,
+                        44.4391
+                  ]
+            },
+            {
+                  "name": "Universitätsplatz",
+                  "text": "Ein zentrales Wahrzeichen in Bukarest, bekannt für seine historischen Gebäude und als Ort für soziale Zusammenkünfte.",
+                  "category": "landmark",
+                  "coords": [
+                        26.100897,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Blocul Adriatica-Trieste",
+                  "text": "Ein beeindruckendes modernistisches Gebäude im Zentrum von Bukarest, früher der Sitz einer Versicherungsgesellschaft.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097087,
+                        44.43024
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Ein historischer Hügel in Bukarest, auf dem sich heute der Parlamentspalast befindet.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Ein weitläufiger öffentlicher Park im Zentrum von Bukarest, nahe dem Parlamentspalast.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Cișmigiu-Park",
+                  "text": "Der älteste öffentliche Garten Bukarests, bekannt für seinen See und seine Alleen.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
             }
       ],
       "hu": [
@@ -10228,6 +17554,492 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.088291,
                         44.438328
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "A „Dimitrie Brandza” Botanikus Kert egy tágas zöldterület Bukarestben, amely számos növényfajnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Ez a nemzeti múzeum Románia hadtörténetét mutatja be különböző kiállítási tárgyakon keresztül.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Ez a múzeum értékes numizmatikai és régészeti gyűjteménynek ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "A Művészeti Gyűjtemények Múzeuma különböző magánművészeti adományokat mutat be egy történelmi palotában.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "A korábbi királyi palotában található múzeum jelentős román és európai műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă Contemporană",
+                  "text": "Ez a Parlament Palotájában található múzeum a modern és kortárs művészetnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Ez a múzeum a hagyományos román népművészet és kulturális tárgyak gazdag gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie",
+                  "text": "A múzeum Románia történelmét mutatja be a prehisztorikus időktől a modern korig.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Ez Bukarest egyik legnépszerűbb múzeuma, amely a természetrajznak és a biológiai sokféleségnek szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "A múzeum ásványok, kőzetek és fosszíliák széleskörű gyűjteményét mutatja be Romániából.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Ez a történelmi palota egy építészeti mérföldkő a Cișmigiu-kert közelében.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Ez az egyetlen nyilvános csillagászati obszervatórium Bukarestben, amely nyitva áll az égi megfigyelések előtt.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "Egy lenyűgöző, eklektikus stílusban épült építészeti komplexum, amelyet kulturális eseményekre használnak.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "Egy történelmi palota a Calea Victoriei úton, amely Bukarest nemesi örökségének fontos példája.",
+                  "category": "castle",
+                  "coords": [
+                        26.091763,
+                        44.443727
+                  ]
+            },
+            {
+                  "name": "Grand Hotel Continental",
+                  "text": "Egy patinás történelmi épület és luxusszálloda Bukarest szívében.",
+                  "category": "castle",
+                  "coords": [
+                        26.098159,
+                        44.437022
+                  ]
+            },
+            {
+                  "name": "Palatul Nunțiaturii Apostolice a Sfântului Scaun din București",
+                  "text": "Ez a történelmi épület a Szentszék romániai képviselőjének hivatalos rezidenciájaként és irodájaként szolgál.",
+                  "category": "castle",
+                  "coords": [
+                        26.085942,
+                        44.43913
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "A múzeum a romániai vasúthálózat történetét és technikai fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Palatul Băncii Marmorosch Blank",
+                  "text": "Egy pompás történelmi épület az óvárosban, amely egykor egy neves bank székháza volt.",
+                  "category": "castle",
+                  "coords": [
+                        26.098915,
+                        44.433634
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Ez az emlékmű az 1989-es romániai forradalom áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "Egy bronzszobor, amelyet az első világháborúban harcoló gyalogos katonáknak szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Ez az emlékmű a tüzér katonák hősiessége előtt tiszteleg a román hadtörténelemben.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Monumentul Trupelor de Geniu (Leul)",
+                  "text": "A „Oroszlán” néven ismert emlékmű a román hadsereg műszaki csapatainak van szentelve.",
+                  "category": "historical",
+                  "coords": [
+                        26.05875,
+                        44.434297
+                  ]
+            },
+            {
+                  "name": "Centrul de Recreere și Dezvoltare Personală \"Conacul Golescu Grant\"",
+                  "text": "Egy történelmi kúria, amely ma helyi közösségi és kulturális központként működik.",
+                  "category": "historical",
+                  "coords": [
+                        26.053899,
+                        44.449609
+                  ]
+            },
+            {
+                  "name": "Primăria Sectorului 1",
+                  "text": "Bukarest első kerületének adminisztratív központja, amely egy nevezetes épületben található.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului București",
+                  "text": "Bukarest polgármesteri hivatalának székhelye, amely egy monumentális történelmi palotában található.",
+                  "category": "historical",
+                  "coords": [
+                        26.093167,
+                        44.434277
+                  ]
+            },
+            {
+                  "name": "Opera Națională",
+                  "text": "Románia vezető opera- és balettháza, amely színvonalas előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Bukarest egyik legrégebbi fennmaradt temploma, amelyet az 1980-as években helyeztek át eredeti helyéről.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Teatrul Odeon",
+                  "text": "Bukarest egyik neves színháza, amely egy történelmi épületben található a Calea Victoriei úton.",
+                  "category": "cultural",
+                  "coords": [
+                        26.098947,
+                        44.435998
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Egy történelmi kolostorkomplexum, amely egyedülálló építészetéről és vallási jelentőségéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "Egy Szent Konstantin és Ilona tiszteletére szentelt ortodox templom a fővárosban.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Bukarest legfőbb római katolikus temploma és jelentős építészeti műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "Egy kis dombra épült történelmi ortodox templom, amely spirituális légköréről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "Egy 17. századi ortodox templom Bukarest központjában, amely finom kőfaragványairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "Egy jellegzetes ortodox templom Bukarestben, az Amzei piac környékén.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "Egy kicsi, 18. századi történelmi templom, amely a hagyományos havasalföldi stílust képviseli.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "Egy impozáns ortodox templom a Cotroceni negyedben, amely bizánci stílusú építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "A brâncovenești építészet egyik gyöngyszeme, ez a kis templom bonyolult kő- és fafaragásairól híres.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "Szent György tiszteletére szentelt ortodox templom Bukarestben, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "A „Fehér templom” néven ismert épület a Calea Victoriei úton található fontos ortodox műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "Egy Szent Vazulnak szentelt történelmi ortodox templom a Calea Victoriei úton.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica Belvedere",
+                  "text": "Egy ortodox templom Bukarest Belvedere negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        26.055299,
+                        44.447755
+                  ]
+            },
+            {
+                  "name": "Biserica Luterană",
+                  "text": "A bukaresti német nyelvű evangélikus közösség legfontosabb temploma.",
+                  "category": "religious",
+                  "coords": [
+                        26.093236,
+                        44.440581
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Boteanu-Ienii\"",
+                  "text": "Bukarest központjában található ortodox templom, amely hitéleti szerepéről és közösségi tevékenységéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.09909,
+                        44.440307
+                  ]
+            },
+            {
+                  "name": "Nemzeti Székesegyház",
+                  "text": "A Nemzet Megváltása-székesegyház néven is ismert épület Románia legnagyobb ortodox temploma.",
+                  "category": "religious",
+                  "coords": [
+                        26.08229,
+                        44.425918
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Dumitru\" - Poștă",
+                  "text": "Egy történelmi templom az óvárosban, a korábbi központi posta közelében.",
+                  "category": "religious",
+                  "coords": [
+                        26.09877,
+                        44.430832
+                  ]
+            },
+            {
+                  "name": "Sinagoga Eșua Tova",
+                  "text": "Bukarest legrégebbi zsinagógája, amely a helyi zsidó közösség központjaként működik.",
+                  "category": "religious",
+                  "coords": [
+                        26.097409,
+                        44.444453
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "A Cișmigiu-kertben található kör alakú sétány, amely neves román írók mellszobrait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Román Atheneum",
+                  "text": "Bukarest legrangosabb hangversenyterme és a román kultúra szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Sala Palatului",
+                  "text": "Egy nagy konferencia- és hangversenyterem a Nemzeti Művészeti Múzeum mögött.",
+                  "category": "landmark",
+                  "coords": [
+                        26.095105,
+                        44.4391
+                  ]
+            },
+            {
+                  "name": "Egyetem tér",
+                  "text": "Bukarest központi helyszíne, amely történelmi épületeiről és társadalmi események helyszíneként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        26.100897,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Blocul Adriatica-Trieste",
+                  "text": "Impozáns modernista épület Bukarest központjában, amely egykor egy biztosítótársaság székháza volt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097087,
+                        44.43024
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Történelmi domb Bukarestben, ahol ma a Parlament Palotája található.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Tágas közpark Bukarest központjában, a Parlamenti Palota közelében.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Cișmigiu",
+                  "text": "Bukarest legrégebbi közparkja, amely taváról és sétányairól ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
                   ]
             }
       ],
@@ -10261,6 +18073,492 @@ export const romaniaCities: POI[] = [
                         26.088291,
                         44.438328
                   ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Grădina Botanică „Dimitrie Brandza” este un spațiu verde vast din București, adăpostind numeroase specii de plante.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Acest muzeu național prezintă istoria militară a României prin diverse exponate și artefacte.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Acest muzeu găzduiește o valoroasă colecție de numismatică și artefacte arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Muzeul Colecțiilor de Artă expune diverse donații private de artă într-un palat istoric.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Situat în fostul Palat Regal, acest muzeu deține colecții importante de artă românească și europeană.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă Contemporană",
+                  "text": "Acest muzeu, situat în Palatul Parlamentului, este dedicat artei moderne și contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Acest muzeu expune o bogată colecție de artă populară și obiecte culturale tradiționale românești.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie",
+                  "text": "Muzeul prezintă istoria României din timpurile preistorice până în epoca modernă.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Acesta este unul dintre cele mai populare muzee din București, dedicat istoriei naturale și biodiversității.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Muzeul expune colecții vaste de minerale, roci și fosile din România.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Acest palat istoric este un reper arhitectural situat în apropierea Grădinii Cișmigiu.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Acesta este singurul observator astronomic public din București, deschis pentru observații cerești.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "Un complex arhitectural impresionant construit în stil eclectic, utilizat pentru evenimente culturale.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "Un palat istoric de pe Calea Victoriei, reprezentând un exemplu important al moștenirii nobiliare a Bucureștiului.",
+                  "category": "castle",
+                  "coords": [
+                        26.091763,
+                        44.443727
+                  ]
+            },
+            {
+                  "name": "Grand Hotel Continental",
+                  "text": "O clădire istorică emblematică și un hotel de lux situat în inima Bucureștiului.",
+                  "category": "castle",
+                  "coords": [
+                        26.098159,
+                        44.437022
+                  ]
+            },
+            {
+                  "name": "Palatul Nunțiaturii Apostolice a Sfântului Scaun din București",
+                  "text": "Această clădire istorică servește drept reședință oficială și sediu al reprezentantului Sfântului Scaun în România.",
+                  "category": "castle",
+                  "coords": [
+                        26.085942,
+                        44.43913
+                  ]
+            },
+            {
+                  "name": "Muzeul CFR",
+                  "text": "Muzeul prezintă istoria și dezvoltarea tehnică a rețelei feroviare din România.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Palatul Băncii Marmorosch Blank",
+                  "text": "O clădire istorică impunătoare din Centrul Vechi, fost sediu al unei bănci renumite.",
+                  "category": "castle",
+                  "coords": [
+                        26.098915,
+                        44.433634
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Acest monument comemorează victimele Revoluției Române din 1989.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "O statuie de bronz dedicată soldaților de infanterie care au luptat în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Acest monument onorează eroismul soldaților artileriști din istoria militară a României.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Monumentul Trupelor de Geniu (Leul)",
+                  "text": "Cunoscut sub numele de „Leul”, acest monument este dedicat trupelor de geniu ale armatei române.",
+                  "category": "historical",
+                  "coords": [
+                        26.05875,
+                        44.434297
+                  ]
+            },
+            {
+                  "name": "Centrul de Recreere și Dezvoltare Personală \"Conacul Golescu Grant\"",
+                  "text": "Un conac istoric care servește în prezent drept centru cultural și comunitar local.",
+                  "category": "historical",
+                  "coords": [
+                        26.053899,
+                        44.449609
+                  ]
+            },
+            {
+                  "name": "Primăria Sector 1",
+                  "text": "Sediul administrativ al primului sector din București, găzduit într-o clădire remarcabilă.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului București",
+                  "text": "Sediul Primăriei Municipiului București, situat într-un palat istoric monumental.",
+                  "category": "historical",
+                  "coords": [
+                        26.093167,
+                        44.434277
+                  ]
+            },
+            {
+                  "name": "Opera Națională",
+                  "text": "Principala scenă de operă și balet a României, cunoscută pentru spectacolele sale de înaltă calitate.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Una dintre cele mai vechi biserici supraviețuitoare din București, mutată de pe amplasamentul original în anii '80.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Teatrul Odeon",
+                  "text": "Un teatru de renume din București, situat într-o clădire istorică pe Calea Victoriei.",
+                  "category": "cultural",
+                  "coords": [
+                        26.098947,
+                        44.435998
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Un complex monahal istoric cunoscut pentru arhitectura sa unică și semnificația religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "O biserică ortodoxă dedicată Sfinților Constantin și Elena, situată în capitală.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Principalul lăcaș de cult romano-catolic din București și un monument arhitectural remarcabil.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "O biserică ortodoxă istorică construită pe o mică colină, cunoscută pentru atmosfera sa spirituală.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "O biserică ortodoxă din secolul al XVII-lea ascunsă în centrul Bucureștiului, cunoscută pentru sculpturile fine în piatră.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "O biserică ortodoxă emblematică din București, situată în zona Pieței Amzei.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "O biserică mică și istorică din secolul al XVIII-lea, reprezentând stilul tradițional muntenesc.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "O biserică ortodoxă impunătoare din cartierul Cotroceni, cunoscută pentru arhitectura sa în stil bizantin.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "O bijuterie a arhitecturii brâncovenești, această mică biserică este celebră pentru sculpturile sale detaliate în piatră și lemn.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "O biserică ortodoxă din București dedicată Sfântului Gheorghe, care servește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Cunoscută sub numele de „Biserica Albă”, este un reper ortodox important de pe Calea Victoriei.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "O biserică ortodoxă istorică de pe Calea Victoriei, dedicată Sfântului Vasile cel Mare.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica Belvedere",
+                  "text": "Un lăcaș de cult ortodox situat în cartierul Belvedere din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.055299,
+                        44.447755
+                  ]
+            },
+            {
+                  "name": "Biserica Luterană",
+                  "text": "Principalul lăcaș de cult al comunității luterane de limbă germană din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.093236,
+                        44.440581
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Boteanu-Ienii\"",
+                  "text": "O biserică ortodoxă din centrul Bucureștiului, cunoscută pentru rolul său spiritual și activitățile comunitare.",
+                  "category": "religious",
+                  "coords": [
+                        26.09909,
+                        44.440307
+                  ]
+            },
+            {
+                  "name": "Catedrala Națională",
+                  "text": "Cunoscută și sub numele de Catedrala Mântuirii Neamului, este cea mai mare biserică ortodoxă din România.",
+                  "category": "religious",
+                  "coords": [
+                        26.08229,
+                        44.425918
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Dumitru\" - Poștă",
+                  "text": "O biserică istorică din zona Centrului Vechi, situată lângă fostul Palat al Poștelor.",
+                  "category": "religious",
+                  "coords": [
+                        26.09877,
+                        44.430832
+                  ]
+            },
+            {
+                  "name": "Sinagoga Eșua Tova",
+                  "text": "Cea mai veche sinagogă din București, servind drept centru pentru comunitatea evreiască locală.",
+                  "category": "religious",
+                  "coords": [
+                        26.097409,
+                        44.444453
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "O alee circulară din Grădina Cișmigiu care cuprinde busturile unor scriitori români proeminenți.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Ateneul Român",
+                  "text": "Cea mai prestigioasă sală de concerte din București și un simbol al culturii române.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Sala Palatului",
+                  "text": "O sală mare de conferințe și concerte situată în spatele Muzeului Național de Artă.",
+                  "category": "landmark",
+                  "coords": [
+                        26.095105,
+                        44.4391
+                  ]
+            },
+            {
+                  "name": "Piața Universității",
+                  "text": "Un reper central din București, cunoscut pentru clădirile sale istorice și ca loc de adunare socială.",
+                  "category": "landmark",
+                  "coords": [
+                        26.100897,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Blocul Adriatica-Trieste",
+                  "text": "O clădire modernistă impresionantă din centrul Bucureștiului, fost sediu al unei companii de asigurări.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097087,
+                        44.43024
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Un deal istoric din București pe care se află în prezent Palatul Parlamentului.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Un parc public spațios din centrul Bucureștiului, situat lângă Palatul Parlamentului.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Cișmigiu",
+                  "text": "Cea mai veche grădină publică din București, cunoscută pentru lacul și aleile sale.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
             }
       ],
       "en": [
@@ -10292,6 +18590,492 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.088291,
                         44.438328
+                  ]
+            },
+            {
+                  "name": "\"Dimitrie Brandza\" Botanic Garden",
+                  "text": "The \"Dimitrie Brandza\" Botanic Garden is a large green space in Bucharest featuring numerous plant species.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "\"King Ferdinand I\" National Military Museum",
+                  "text": "This national museum presents Romania's military history through various exhibits and artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "\"Maria and Dr. George Severeanu\" Collection",
+                  "text": "This museum houses a valuable collection of numismatics and archaeological artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Art Collections Museum",
+                  "text": "The Art Collections Museum exhibits diverse private art donations in a historic palace.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "National Museum of Art of Romania",
+                  "text": "Located in the former Royal Palace, this museum features significant Romanian and European art.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "National Museum of Contemporary Art",
+                  "text": "This museum, located in the Palace of the Parliament, is dedicated to modern and contemporary art.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "National Museum of the Romanian Peasant",
+                  "text": "This museum displays a rich collection of traditional Romanian folk art and cultural artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "National History Museum",
+                  "text": "The museum showcases the history of Romania from prehistoric times to the modern era.",
+                  "category": "museum",
+                  "coords": [
+                        26.097209,
+                        44.431488
+                  ]
+            },
+            {
+                  "name": "\"Grigore Antipa\" Natural History National Museum",
+                  "text": "This is one of the most popular museums in Bucharest, dedicated to natural history and biodiversity.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "National Geological Museum",
+                  "text": "The museum displays extensive collections of minerals, rocks, and fossils from Romania.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Kretzulescu Palace",
+                  "text": "This historic palace is an architectural landmark located near the Cismigiu Gardens.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
+                  "text": "This is the only public astronomical observatory in Bucharest, open for celestial observations.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Palatul Bragadiru",
+                  "text": "An impressive architectural complex built in the eclectic style, used for cultural events.",
+                  "category": "castle",
+                  "coords": [
+                        26.087123,
+                        44.421534
+                  ]
+            },
+            {
+                  "name": "Palatul Știrbei",
+                  "text": "A historic palace on Victory Avenue, representing an important example of Bucharest's noble heritage.",
+                  "category": "castle",
+                  "coords": [
+                        26.091763,
+                        44.443727
+                  ]
+            },
+            {
+                  "name": "Grand Hotel Continental",
+                  "text": "A landmark historic building and luxury hotel located in the heart of Bucharest.",
+                  "category": "castle",
+                  "coords": [
+                        26.098159,
+                        44.437022
+                  ]
+            },
+            {
+                  "name": "Palatul Nunțiaturii Apostolice a Sfântului Scaun din București",
+                  "text": "This historic building serves as the official residence and office of the Holy See's representative in Romania.",
+                  "category": "castle",
+                  "coords": [
+                        26.085942,
+                        44.43913
+                  ]
+            },
+            {
+                  "name": "Romanian Railway Museum",
+                  "text": "The museum presents the history and technical development of the railway network in Romania.",
+                  "category": "museum",
+                  "coords": [
+                        26.072999,
+                        44.448306
+                  ]
+            },
+            {
+                  "name": "Palatul Băncii Marmorosch Blank",
+                  "text": "A magnificent historic building in the Old Town, once the headquarters of a prominent bank.",
+                  "category": "castle",
+                  "coords": [
+                        26.098915,
+                        44.433634
+                  ]
+            },
+            {
+                  "name": "Memorial of Rebirth",
+                  "text": "This monument commemorates the victims of the 1989 Romanian Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "A bronze statue dedicated to the infantry soldiers who fought in World War I.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "This monument honors the heroism of artillery soldiers in the Romanian military history.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Monumentul Trupelor de Geniu (Leul)",
+                  "text": "Known as \"The Lion,\" this monument is dedicated to the military engineers of the Romanian army.",
+                  "category": "historical",
+                  "coords": [
+                        26.05875,
+                        44.434297
+                  ]
+            },
+            {
+                  "name": "Golescu Grant Community center",
+                  "text": "A historic manor house that now serves as a local community and cultural center.",
+                  "category": "historical",
+                  "coords": [
+                        26.053899,
+                        44.449609
+                  ]
+            },
+            {
+                  "name": "District 1 City Hall",
+                  "text": "The administrative headquarters for the first district of Bucharest, housed in a notable building.",
+                  "category": "historical",
+                  "coords": [
+                        26.073845,
+                        44.453843
+                  ]
+            },
+            {
+                  "name": "Primăria Municipiului București",
+                  "text": "The headquarters of the Bucharest City Hall, located in a monumental historic palace.",
+                  "category": "historical",
+                  "coords": [
+                        26.093167,
+                        44.434277
+                  ]
+            },
+            {
+                  "name": "National Opera",
+                  "text": "Romania's leading opera and ballet house, known for its high-quality performances.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "One of the oldest surviving churches in Bucharest, moved from its original site in the 1980s.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Odeon Teathre",
+                  "text": "A prominent theater in Bucharest, located in a historic building on Victory Avenue.",
+                  "category": "cultural",
+                  "coords": [
+                        26.098947,
+                        44.435998
+                  ]
+            },
+            {
+                  "name": "Antim Monastery",
+                  "text": "A historic monastic complex known for its unique architecture and religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "An Orthodox church dedicated to Saints Constantine and Helen, located in the capital.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "The main Roman Catholic place of worship in Bucharest and a notable architectural monument.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "A historic Orthodox church built on a small hill, known for its spiritual atmosphere.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "A 17th-century Orthodox church tucked away in central Bucharest, known for its fine stone carvings.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "A landmark Orthodox church in Bucharest, located in the Amzei Market area.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "A small, historic 18th-century church representing the traditional Wallachian style.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "An imposing Orthodox church in the Cotroceni neighborhood, known for its Byzantine-style architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Mănăstirii \"Stavropoleos\"",
+                  "text": "A gem of Brancovenesc architecture, this small church is famous for its intricate stone and wood carvings.",
+                  "category": "religious",
+                  "coords": [
+                        26.098827,
+                        44.431785
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "An Orthodox church in Bucharest dedicated to Saint George, serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Known as \"The White Church,\" it is a significant Orthodox landmark on Victory Avenue.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Vasile cel Mare - Victoria",
+                  "text": "A historic Orthodox church on Victory Avenue dedicated to Saint Basil the Great.",
+                  "category": "religious",
+                  "coords": [
+                        26.089334,
+                        44.448881
+                  ]
+            },
+            {
+                  "name": "Biserica Belvedere",
+                  "text": "An Orthodox place of worship in the Belvedere neighborhood of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.055299,
+                        44.447755
+                  ]
+            },
+            {
+                  "name": "Biserica Luterană",
+                  "text": "The main place of worship for the German-speaking Lutheran community in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.093236,
+                        44.440581
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Boteanu-Ienii\"",
+                  "text": "An Orthodox church in central Bucharest known for its spiritual role and community activities.",
+                  "category": "religious",
+                  "coords": [
+                        26.09909,
+                        44.440307
+                  ]
+            },
+            {
+                  "name": "National Cathedral",
+                  "text": "Also known as the People's Salvation Cathedral, it is the largest Orthodox church in Romania.",
+                  "category": "religious",
+                  "coords": [
+                        26.08229,
+                        44.425918
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Dumitru\" - Poștă",
+                  "text": "A historic church in the Old Town area, located near the former Central Post Office.",
+                  "category": "religious",
+                  "coords": [
+                        26.09877,
+                        44.430832
+                  ]
+            },
+            {
+                  "name": "Yeshua Tova Synagogue",
+                  "text": "The oldest synagogue in Bucharest, serving as a center for the local Jewish community.",
+                  "category": "religious",
+                  "coords": [
+                        26.097409,
+                        44.444453
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "A circular alley in Cismigiu Gardens featuring busts of prominent Romanian writers.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Romanian Atheneum",
+                  "text": "Bucharest's most prestigious concert hall and a symbol of Romanian culture.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Sala Palatului",
+                  "text": "A large conference and concert hall located behind the National Museum of Art.",
+                  "category": "landmark",
+                  "coords": [
+                        26.095105,
+                        44.4391
+                  ]
+            },
+            {
+                  "name": "University Square",
+                  "text": "A central landmark in Bucharest, known for its historic buildings and as a site for social gatherings.",
+                  "category": "landmark",
+                  "coords": [
+                        26.100897,
+                        44.434976
+                  ]
+            },
+            {
+                  "name": "Blocul Adriatica-Trieste",
+                  "text": "An impressive modernist building in central Bucharest, formerly an insurance company headquarters.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097087,
+                        44.43024
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "A historic hill in Bucharest where the Palace of the Parliament is currently located.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Izvor Park",
+                  "text": "A spacious public park in central Bucharest, located near the Palace of the Parliament.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Cișmigiu Gardens",
+                  "text": "The oldest public garden in Bucharest, known for its lake and walking paths.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
                   ]
             }
       ]
@@ -10332,6 +19116,42 @@ export const romaniaCities: POI[] = [
                         26.085665,
                         44.604274
                   ]
+            },
+            {
+                  "name": "Therme București",
+                  "text": "Ein großer Wellness- und Wasserparkkomplex in der Nähe von Bukarest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085421,
+                        44.605558
+                  ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "Ein historisches Herrenhaus in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "Ein modernes Technologiezentrum und eine Attraktion.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
+                  ]
+            },
+            {
+                  "name": "Biserica Preoțești",
+                  "text": "Eine lokale orthodoxe Kirche.",
+                  "category": "religious",
+                  "coords": [
+                        26.090542,
+                        44.618646
+                  ]
             }
       ],
       "hu": [
@@ -10343,6 +19163,42 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.085665,
                         44.604274
+                  ]
+            },
+            {
+                  "name": "Therme București",
+                  "text": "Hatalmas wellness- és élményfürdő Bukarest közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085421,
+                        44.605558
+                  ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "Történelmi udvarház a környéken.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "Modern technológiai központ és látványosság.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
+                  ]
+            },
+            {
+                  "name": "Biserica Preoțești",
+                  "text": "Helyi ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        26.090542,
+                        44.618646
                   ]
             }
       ],
@@ -10356,6 +19212,42 @@ export const romaniaCities: POI[] = [
                         26.085665,
                         44.604274
                   ]
+            },
+            {
+                  "name": "Therme București",
+                  "text": "Un complex vast de wellness și parc acvatic situat lângă București.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085421,
+                        44.605558
+                  ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "Un conac istoric situat în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "Un centru tehnologic modern și punct de atracție.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
+                  ]
+            },
+            {
+                  "name": "Biserica Preoțești",
+                  "text": "O biserică ortodoxă locală.",
+                  "category": "religious",
+                  "coords": [
+                        26.090542,
+                        44.618646
+                  ]
             }
       ],
       "en": [
@@ -10367,6 +19259,42 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.085665,
                         44.604274
+                  ]
+            },
+            {
+                  "name": "Therme București",
+                  "text": "A large wellness and water park complex located near Bucharest.",
+                  "category": "recreational",
+                  "coords": [
+                        26.085421,
+                        44.605558
+                  ]
+            },
+            {
+                  "name": "Conacul Bujoiu",
+                  "text": "A historic manor house located in the region.",
+                  "category": "historical",
+                  "coords": [
+                        26.086719,
+                        44.618646
+                  ]
+            },
+            {
+                  "name": "IQM TechnoPark",
+                  "text": "A modern technology park and attraction.",
+                  "category": "landmark",
+                  "coords": [
+                        26.064001,
+                        44.587984
+                  ]
+            },
+            {
+                  "name": "Biserica Preoțești",
+                  "text": "A local Orthodox church.",
+                  "category": "religious",
+                  "coords": [
+                        26.090542,
+                        44.618646
                   ]
             }
       ]
@@ -10562,6 +19490,42 @@ export const romaniaCities: POI[] = [
                         24.146649,
                         45.792452
                   ]
+            },
+            {
+                  "name": "Muzeul Civilizației Populare Tradiționale \"ASTRA\"",
+                  "text": "Ein bedeutendes Freilichtmuseum in Sibiu, das die traditionelle rumänische Volkskultur zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        24.114588,
+                        45.753939
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Sibiu",
+                  "text": "Der zoologische Garten in Sibiu beherbergt zahlreiche Tierarten in naturnaher Umgebung.",
+                  "category": "recreational",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Amfiteatru",
+                  "text": "Ein Freilichttheater auf dem Gelände des ASTRA-Museums für kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        24.11292,
+                        45.756026
+                  ]
+            },
+            {
+                  "name": "Muzeul Astra Sibiu",
+                  "text": "Eine kulturelle Sehenswürdigkeit in Sibiu, die Teil des ASTRA-Museumskomplexes ist.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116125,
+                        45.755186
+                  ]
             }
       ],
       "hu": [
@@ -10573,6 +19537,42 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.146649,
                         45.792452
+                  ]
+            },
+            {
+                  "name": "Muzeul Civilizației Populare Tradiționale \"ASTRA\"",
+                  "text": "Nagyszabású szabadtéri múzeum Nagyszebenben, amely a hagyományos román népi kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        24.114588,
+                        45.753939
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Sibiu",
+                  "text": "A nagyszebeni állatkert számos állatfajnak ad otthont természetközeli környezetben.",
+                  "category": "recreational",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Amfiteatru",
+                  "text": "Szabadtéri színház az ASTRA Múzeum területén, kulturális előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        24.11292,
+                        45.756026
+                  ]
+            },
+            {
+                  "name": "Muzeul Astra Sibiu",
+                  "text": "Nagyszebeni kulturális látnivaló, az ASTRA múzeumi komplexum része.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116125,
+                        45.755186
                   ]
             }
       ],
@@ -10586,6 +19586,42 @@ export const romaniaCities: POI[] = [
                         24.146649,
                         45.792452
                   ]
+            },
+            {
+                  "name": "Muzeul Civilizației Populare Tradiționale \"ASTRA\"",
+                  "text": "Un muzeu în aer liber important din Sibiu, care prezintă cultura populară tradițională românească.",
+                  "category": "museum",
+                  "coords": [
+                        24.114588,
+                        45.753939
+                  ]
+            },
+            {
+                  "name": "Grădina Zoologică Sibiu",
+                  "text": "Grădina zoologică din Sibiu găzduiește numeroase specii de animale într-un cadru natural.",
+                  "category": "recreational",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Amfiteatru",
+                  "text": "Un amfiteatru în aer liber situat în incinta Muzeului ASTRA, utilizat pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        24.11292,
+                        45.756026
+                  ]
+            },
+            {
+                  "name": "Muzeul Astra Sibiu",
+                  "text": "O atracție culturală din Sibiu, parte a complexului muzeal ASTRA.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116125,
+                        45.755186
+                  ]
             }
       ],
       "en": [
@@ -10597,6 +19633,42 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         24.146649,
                         45.792452
+                  ]
+            },
+            {
+                  "name": "\"ASTRA\" Museum of Traditional Folk Civilization",
+                  "text": "A major open-air museum in Sibiu showcasing traditional Romanian folk civilization.",
+                  "category": "museum",
+                  "coords": [
+                        24.114588,
+                        45.753939
+                  ]
+            },
+            {
+                  "name": "Sibiu Zoological Garden",
+                  "text": "The zoological garden in Sibiu hosts numerous animal species in a natural setting.",
+                  "category": "recreational",
+                  "coords": [
+                        24.123293,
+                        45.762374
+                  ]
+            },
+            {
+                  "name": "Amfiteatru",
+                  "text": "An open-air amphitheater within the ASTRA Museum used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        24.11292,
+                        45.756026
+                  ]
+            },
+            {
+                  "name": "Muzeul Astra Sibiu",
+                  "text": "A cultural attraction in Sibiu, part of the ASTRA museum complex.",
+                  "category": "landmark",
+                  "coords": [
+                        24.116125,
+                        45.755186
                   ]
             }
       ]
@@ -10637,6 +19709,375 @@ export const romaniaCities: POI[] = [
                         23.587004,
                         46.760299
                   ]
+            },
+            {
+                  "name": "Ethnographisches Museum von Siebenbürgen",
+                  "text": "Ein bedeutendes Museum zur Kultur und Tradition Siebenbürgens.",
+                  "category": "museum",
+                  "coords": [
+                        23.58661,
+                        46.769224
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Ein Kunstmuseum im prachtvollen Bánffy-Palais in Cluj-Napoca.",
+                  "category": "museum",
+                  "coords": [
+                        23.590342,
+                        46.770599
+                  ]
+            },
+            {
+                  "name": "Turnul Pompierilor",
+                  "text": "Ein historischer Wachturm, der heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        23.590942,
+                        46.773368
+                  ]
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "Eine Statue in Cluj-Napoca, die an die lateinischen Wurzeln erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        23.592289,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Lucian Blaga Nationaltheater",
+                  "text": "Ein bedeutendes Theatergebäude am Avram-Iancu-Platz.",
+                  "category": "cultural",
+                  "coords": [
+                        23.597483,
+                        46.77014
+                  ]
+            },
+            {
+                  "name": "Sankt Peter",
+                  "text": "Eine historische katholische Kirche in Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.607382,
+                        46.776742
+                  ]
+            },
+            {
+                  "name": "Mariä Himmelfahrt Orthodoxe Kathedrale",
+                  "text": "Die orthodoxe Hauptkathedrale von Cluj-Napoca im byzantinischen Stil.",
+                  "category": "religious",
+                  "coords": [
+                        23.596345,
+                        46.771893
+                  ]
+            },
+            {
+                  "name": "Unitarische Kirche",
+                  "text": "Eine historische Kirche des Unitarismus im Zentrum von Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.591849,
+                        46.771886
+                  ]
+            },
+            {
+                  "name": "Reformierte Kirche in der Wolfsgasse",
+                  "text": "Eine monumentale gotische reformierte Kirche in Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.595862,
+                        46.768144
+                  ]
+            },
+            {
+                  "name": "Zentralfriedhof",
+                  "text": "Ein historischer Friedhof, auch bekannt als Hajongard-Friedhof.",
+                  "category": "landmark",
+                  "coords": [
+                        23.594727,
+                        46.762477
+                  ]
+            },
+            {
+                  "name": "Franziskanerkirche",
+                  "text": "Eine der ältesten Kirchen in Cluj-Napoca mit einem Franziskanerkloster.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587991,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Matthias Corvinus",
+                  "text": "Ein berühmtes Monument zu Ehren des Königs Matthias Corvinus.",
+                  "category": "landmark",
+                  "coords": [
+                        23.589817,
+                        46.769539
+                  ]
+            },
+            {
+                  "name": "Stadtpark",
+                  "text": "Der wichtigste öffentliche Park in der Innenstadt von Cluj-Napoca.",
+                  "category": "park",
+                  "coords": [
+                        23.579093,
+                        46.769887
+                  ]
+            },
+            {
+                  "name": "Parcul Etnografic „Romulus Vuia”",
+                  "text": "Ein Freilichtmuseum, das die traditionelle Architektur Siebenbürgens zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        23.556109,
+                        46.778176
+                  ]
+            },
+            {
+                  "name": "Ungarisches Staatstheater",
+                  "text": "Ein bedeutendes Kulturinstitut für ungarischsprachige darstellende Kunst.",
+                  "category": "cultural",
+                  "coords": [
+                        23.584289,
+                        46.772615
+                  ]
+            },
+            {
+                  "name": "Kalvarienkirche",
+                  "text": "Eine historische Kirche auf einem Hügel im Stadtteil Mănăștur.",
+                  "category": "religious",
+                  "coords": [
+                        23.55793,
+                        46.761265
+                  ]
+            },
+            {
+                  "name": "Auferstehung des Herrn Griechisch-Katholische Kirche (Bob Kirche)",
+                  "text": "Die älteste griechisch-katholische Kirche in Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.587814,
+                        46.768625
+                  ]
+            },
+            {
+                  "name": "Piaristenkirche",
+                  "text": "Eine barocke Kirche im Zentrum von Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.59062,
+                        46.767845
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată-Calvină din Orașul de Jos",
+                  "text": "Eine reformierte Kirche im Stadtteil „Orașul de Jos“.",
+                  "category": "religious",
+                  "coords": [
+                        23.597526,
+                        46.77385
+                  ]
+            },
+            {
+                  "name": "Hahnenkirche",
+                  "text": "Eine markante reformierte Kirche in Cluj-Napoca mit einem Hahn auf dem Turm.",
+                  "category": "religious",
+                  "coords": [
+                        23.575376,
+                        46.765194
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn din Chiraleș",
+                  "text": "Eine traditionelle Holzkirche, die in den Ethnografischen Park verlegt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        23.554675,
+                        46.778051
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn din Cizer",
+                  "text": "Eine kunstvoll gearbeitete Holzkirche aus der Region Sălaj.",
+                  "category": "religious",
+                  "coords": [
+                        23.557903,
+                        46.77776
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum für Siebenbürgische Geschichte",
+                  "text": "Ein Museum zur Geschichte der Region Siebenbürgen.",
+                  "category": "museum",
+                  "coords": [
+                        23.58629,
+                        46.771637
+                  ]
+            },
+            {
+                  "name": "Reformierte Synagoge",
+                  "text": "Diese neologe Synagoge ist ein bedeutendes religiöses und architektonisches Denkmal in Klausenburg.",
+                  "category": "religious",
+                  "coords": [
+                        23.586739,
+                        46.777122
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Babeș-Bolyai",
+                  "text": "Das Museum zeigt die Geschichte und das akademische Erbe der Universität Babeș-Bolyai.",
+                  "category": "museum",
+                  "coords": [
+                        23.592161,
+                        46.767352
+                  ]
+            },
+            {
+                  "name": "Vivariul Universității Babeș-Bolyai",
+                  "text": "Das Vivarium zeigt eine interessante Ausstellung lebender kleiner Tiere und Reptilien.",
+                  "category": "museum",
+                  "coords": [
+                        23.580027,
+                        46.763941
+                  ]
+            },
+            {
+                  "name": "Muzeul Botanic al Universității „Babeș-Bolyai”",
+                  "text": "Das Museum befindet sich im Botanischen Garten und dokumentiert die lokale Pflanzenwelt.",
+                  "category": "museum",
+                  "coords": [
+                        23.587758,
+                        46.762198
+                  ]
+            },
+            {
+                  "name": "Muzeul memorial David Prodan",
+                  "text": "Dieses Gedenkmuseum ist dem Leben und Werk des Historikers David Prodan gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        23.588496,
+                        46.780685
+                  ]
+            },
+            {
+                  "name": "Muzeon",
+                  "text": "Muzeon ist ein modernes Museum, das die jüdische Geschichte und Kultur der Region beleuchtet.",
+                  "category": "museum",
+                  "coords": [
+                        23.587461,
+                        46.770886
+                  ]
+            },
+            {
+                  "name": "Steampunk Transylvania",
+                  "text": "Dieses interaktive Museum widmet sich der fantastischen Welt des Steampunks.",
+                  "category": "museum",
+                  "coords": [
+                        23.590188,
+                        46.772158
+                  ]
+            },
+            {
+                  "name": "Casa Muzeu Corneliu Radu Zăvoiu",
+                  "text": "Dieses Museumshaus ist dem Werk und dem Andenken von Corneliu Radu Zăvoiu gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        23.585301,
+                        46.776191
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Doina Cornea",
+                  "text": "Das Haus erinnert an das Leben der Dissidentin und Menschenrechtlerin Doina Cornea.",
+                  "category": "museum",
+                  "coords": [
+                        23.597597,
+                        46.76403
+                  ]
+            },
+            {
+                  "name": "Galeria Arte",
+                  "text": "Die Galeria Arte zeigt wechselnde Ausstellungen lokaler und nationaler Künstler.",
+                  "category": "museum",
+                  "coords": [
+                        23.583954,
+                        46.768372
+                  ]
+            },
+            {
+                  "name": "IAGA Contemporary Art",
+                  "text": "Diese Galerie konzentriert sich auf internationale zeitgenössische Kunstströmungen.",
+                  "category": "museum",
+                  "coords": [
+                        23.588566,
+                        46.77739
+                  ]
+            },
+            {
+                  "name": "Unirea Open Studios",
+                  "text": "Ein kreativer Raum, der Einblicke in die Arbeit lokaler Künstler in ihren Ateliers bietet.",
+                  "category": "museum",
+                  "coords": [
+                        23.600663,
+                        46.786952
+                  ]
+            },
+            {
+                  "name": "SABOT",
+                  "text": "SABOT ist eine renommierte Galerie für zeitgenössische Kunst in der Pinselfabrik.",
+                  "category": "museum",
+                  "coords": [
+                        23.608365,
+                        46.784059
+                  ]
+            },
+            {
+                  "name": "MATCA artspace",
+                  "text": "MATCA artspace ist ein von Künstlern geführter Raum für Experimente und Dialog.",
+                  "category": "museum",
+                  "coords": [
+                        23.599029,
+                        46.766053
+                  ]
+            },
+            {
+                  "name": "Zina Project Space",
+                  "text": "Zina Project Space ist ein Ort für zeitgenössische Kunstprojekte und Forschung.",
+                  "category": "museum",
+                  "coords": [
+                        23.584554,
+                        46.770952
+                  ]
+            },
+            {
+                  "name": "Zina",
+                  "text": "Ein Ausstellungsraum für zeitgenössische Kunst und kulturelle Veranstaltungen.",
+                  "category": "museum",
+                  "coords": [
+                        23.608341,
+                        46.763372
+                  ]
+            },
+            {
+                  "name": "The Cosmic House",
+                  "text": "The Cosmic House ist ein interdisziplinäres Zentrum für Kunst und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        23.566466,
+                        46.773727
+                  ]
+            },
+            {
+                  "name": "Expoziție permanentă de sculpturi Szervátiusz Jenő",
+                  "text": "Diese Dauerausstellung würdigt das bildhauerische Werk von Jenő Szervátiusz.",
+                  "category": "museum",
+                  "coords": [
+                        23.588268,
+                        46.769709
+                  ]
             }
       ],
       "hu": [
@@ -10648,6 +20089,375 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.587004,
                         46.760299
+                  ]
+            },
+            {
+                  "name": "Erdélyi Néprajzi Múzeum",
+                  "text": "Erdély kultúráját és hagyományait bemutató jelentős múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.58661,
+                        46.769224
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Művészeti múzeum a kolozsvári Bánffy-palotában.",
+                  "category": "museum",
+                  "coords": [
+                        23.590342,
+                        46.770599
+                  ]
+            },
+            {
+                  "name": "Tűzoltótorony",
+                  "text": "Történelmi őrtorony, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        23.590942,
+                        46.773368
+                  ]
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "Kolozsvári szobor, amely a latin gyökerekre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        23.592289,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Lucian Blaga Nemzeti Színház",
+                  "text": "Jelentős színházépület az Avram Iancu téren.",
+                  "category": "cultural",
+                  "coords": [
+                        23.597483,
+                        46.77014
+                  ]
+            },
+            {
+                  "name": "Szent Péter és Pál apostolok-templom",
+                  "text": "Történelmi katolikus templom Kolozsváron.",
+                  "category": "religious",
+                  "coords": [
+                        23.607382,
+                        46.776742
+                  ]
+            },
+            {
+                  "name": "Ortodox katedrális",
+                  "text": "Kolozsvár bizánci stílusú ortodox székesegyháza.",
+                  "category": "religious",
+                  "coords": [
+                        23.596345,
+                        46.771893
+                  ]
+            },
+            {
+                  "name": "Unitárius templom",
+                  "text": "Az unitárius vallás történelmi temploma Kolozsvár központjában.",
+                  "category": "religious",
+                  "coords": [
+                        23.591849,
+                        46.771886
+                  ]
+            },
+            {
+                  "name": "Farkas utcai református templom",
+                  "text": "Monumentális gótikus református templom Kolozsváron.",
+                  "category": "religious",
+                  "coords": [
+                        23.595862,
+                        46.768144
+                  ]
+            },
+            {
+                  "name": "Házsongárdi temető",
+                  "text": "Történelmi temető, más néven Házsongárdi temető.",
+                  "category": "landmark",
+                  "coords": [
+                        23.594727,
+                        46.762477
+                  ]
+            },
+            {
+                  "name": "Havas Boldogasszony-templom",
+                  "text": "Kolozsvár egyik legrégebbi temploma ferences kolostorral.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587991,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Hunyadi Mátyás emlékmű",
+                  "text": "Híres emlékmű Mátyás király tiszteletére Kolozsvár főterén.",
+                  "category": "landmark",
+                  "coords": [
+                        23.589817,
+                        46.769539
+                  ]
+            },
+            {
+                  "name": "Sétatér",
+                  "text": "Kolozsvár belvárosának legfontosabb közparkja.",
+                  "category": "park",
+                  "coords": [
+                        23.579093,
+                        46.769887
+                  ]
+            },
+            {
+                  "name": "Parcul Etnografic „Romulus Vuia”",
+                  "text": "Szabadtéri múzeum, amely Erdély hagyományos építészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.556109,
+                        46.778176
+                  ]
+            },
+            {
+                  "name": "Állami Magyar Színház",
+                  "text": "A magyar nyelvű színjátszás jelentős kulturális intézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        23.584289,
+                        46.772615
+                  ]
+            },
+            {
+                  "name": "Kolozsmonostori apátság",
+                  "text": "Történelmi templom a monostori negyed egyik dombján.",
+                  "category": "religious",
+                  "coords": [
+                        23.55793,
+                        46.761265
+                  ]
+            },
+            {
+                  "name": "Bob utcai templom",
+                  "text": "Kolozsvár legrégebbi görögkatolikus temploma (Bob-templom).",
+                  "category": "religious",
+                  "coords": [
+                        23.587814,
+                        46.768625
+                  ]
+            },
+            {
+                  "name": "Piarista templom",
+                  "text": "Barokk templom Kolozsvár központjában.",
+                  "category": "religious",
+                  "coords": [
+                        23.59062,
+                        46.767845
+                  ]
+            },
+            {
+                  "name": "Alsóvárosi református templom",
+                  "text": "Református templom az alsóvárosi negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        23.597526,
+                        46.77385
+                  ]
+            },
+            {
+                  "name": "Kakasos templom",
+                  "text": "Jellegzetes kolozsvári református templom kakassal a tornyán.",
+                  "category": "religious",
+                  "coords": [
+                        23.575376,
+                        46.765194
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn din Chiraleș",
+                  "text": "Hagyományos fatemplom, amelyet a néprajzi parkba szállítottak.",
+                  "category": "religious",
+                  "coords": [
+                        23.554675,
+                        46.778051
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn din Cizer",
+                  "text": "Művészien kidolgozott fatemplom Szilágy megyéből.",
+                  "category": "religious",
+                  "coords": [
+                        23.557903,
+                        46.77776
+                  ]
+            },
+            {
+                  "name": "Erdély Nemzeti Történelmi Múzeum",
+                  "text": "Erdély történelmét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        23.58629,
+                        46.771637
+                  ]
+            },
+            {
+                  "name": "Neológ zsinagóga",
+                  "text": "Ez a neológ zsinagóga Kolozsvár egyik jelentős vallási és építészeti emléke.",
+                  "category": "religious",
+                  "coords": [
+                        23.586739,
+                        46.777122
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Babeș-Bolyai",
+                  "text": "A múzeum a Babeș-Bolyai Tudományegyetem történetét és akadémiai örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.592161,
+                        46.767352
+                  ]
+            },
+            {
+                  "name": "Vivariul Universității Babeș-Bolyai",
+                  "text": "A vivárium élő kisállatok és hüllők érdekes gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.580027,
+                        46.763941
+                  ]
+            },
+            {
+                  "name": "Muzeul Botanic al Universității „Babeș-Bolyai”",
+                  "text": "A múzeum a Botanikus Kertben található, és a helyi növényvilágot dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        23.587758,
+                        46.762198
+                  ]
+            },
+            {
+                  "name": "Muzeul memorial David Prodan",
+                  "text": "Ez az emlékmúzeum David Prodan történész életének és munkásságának állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        23.588496,
+                        46.780685
+                  ]
+            },
+            {
+                  "name": "Muzeon",
+                  "text": "A Muzeon egy modern múzeum, amely a régió zsidó történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.587461,
+                        46.770886
+                  ]
+            },
+            {
+                  "name": "Steampunk Transylvania",
+                  "text": "Ez az interaktív múzeum a steampunk fantasztikus világának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        23.590188,
+                        46.772158
+                  ]
+            },
+            {
+                  "name": "Casa Muzeu Corneliu Radu Zăvoiu",
+                  "text": "Ez a múzeumház Corneliu Radu Zăvoiu munkásságának és emlékének van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        23.585301,
+                        46.776191
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Doina Cornea",
+                  "text": "A ház Doina Cornea disszidens és emberi jogi aktivista életének állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        23.597597,
+                        46.76403
+                  ]
+            },
+            {
+                  "name": "Galeria Arte",
+                  "text": "A Galeria Arte helyi és országos művészek időszaki kiállításainak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        23.583954,
+                        46.768372
+                  ]
+            },
+            {
+                  "name": "IAGA Contemporary Art",
+                  "text": "A galéria a nemzetközi kortárs művészeti irányzatokra összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        23.588566,
+                        46.77739
+                  ]
+            },
+            {
+                  "name": "Unirea Open Studios",
+                  "text": "Kreatív tér, amely betekintést nyújt a helyi művészek műtermi munkájába.",
+                  "category": "museum",
+                  "coords": [
+                        23.600663,
+                        46.786952
+                  ]
+            },
+            {
+                  "name": "SABOT",
+                  "text": "A SABOT egy neves kortárs művészeti galéria az Ecsetgyárban.",
+                  "category": "museum",
+                  "coords": [
+                        23.608365,
+                        46.784059
+                  ]
+            },
+            {
+                  "name": "MATCA artspace",
+                  "text": "A MATCA artspace egy művészek által vezetett kísérleti és párbeszéd-tér.",
+                  "category": "museum",
+                  "coords": [
+                        23.599029,
+                        46.766053
+                  ]
+            },
+            {
+                  "name": "Zina Project Space",
+                  "text": "A Zina Project Space kortárs művészeti projektek és kutatások helyszíne.",
+                  "category": "museum",
+                  "coords": [
+                        23.584554,
+                        46.770952
+                  ]
+            },
+            {
+                  "name": "Zina",
+                  "text": "Kiállítótér kortárs művészeti és kulturális események számára.",
+                  "category": "museum",
+                  "coords": [
+                        23.608341,
+                        46.763372
+                  ]
+            },
+            {
+                  "name": "The Cosmic House",
+                  "text": "The Cosmic House egy interdiszciplináris művészeti és kulturális központ.",
+                  "category": "museum",
+                  "coords": [
+                        23.566466,
+                        46.773727
+                  ]
+            },
+            {
+                  "name": "Expoziție permanentă de sculpturi Szervátiusz Jenő",
+                  "text": "Ez az állandó kiállítás Szervátiusz Jenő szobrászati munkássága előtt tiszteleg.",
+                  "category": "museum",
+                  "coords": [
+                        23.588268,
+                        46.769709
                   ]
             }
       ],
@@ -10661,6 +20471,375 @@ export const romaniaCities: POI[] = [
                         23.587004,
                         46.760299
                   ]
+            },
+            {
+                  "name": "Muzeul Etnografic al Transilvaniei",
+                  "text": "Un muzeu important dedicat culturii și tradițiilor din Transilvania.",
+                  "category": "museum",
+                  "coords": [
+                        23.58661,
+                        46.769224
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "Un muzeu de artă găzduit în spectaculosul Palat Bánffy din Cluj-Napoca.",
+                  "category": "museum",
+                  "coords": [
+                        23.590342,
+                        46.770599
+                  ]
+            },
+            {
+                  "name": "Turnul Pompierilor",
+                  "text": "Un turn de veghe istoric care funcționează astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        23.590942,
+                        46.773368
+                  ]
+            },
+            {
+                  "name": "Lupa Capitolina",
+                  "text": "O statuie din Cluj-Napoca ce amintește de rădăcinile latine.",
+                  "category": "historical",
+                  "coords": [
+                        23.592289,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Teatrul Național Lucian Blaga - Opera Națională Română",
+                  "text": "O clădire teatrală importantă situată în Piața Avram Iancu.",
+                  "category": "cultural",
+                  "coords": [
+                        23.597483,
+                        46.77014
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Petru",
+                  "text": "O biserică catolică istorică din Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.607382,
+                        46.776742
+                  ]
+            },
+            {
+                  "name": "Catedrala Ortodoxă „Adormirea Maicii Domnului”",
+                  "text": "Catedrala ortodoxă principală din Cluj-Napoca, în stil bizantin.",
+                  "category": "religious",
+                  "coords": [
+                        23.596345,
+                        46.771893
+                  ]
+            },
+            {
+                  "name": "Biserica Unitariană",
+                  "text": "O biserică unitariană istorică din centrul municipiului Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.591849,
+                        46.771886
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată de pe Ulița Lupilor",
+                  "text": "O biserică reformată monumentală în stil gotic din Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.595862,
+                        46.768144
+                  ]
+            },
+            {
+                  "name": "Cimitirul Central",
+                  "text": "Un cimitir istoric, cunoscut și sub numele de Cimitirul Hajongard.",
+                  "category": "landmark",
+                  "coords": [
+                        23.594727,
+                        46.762477
+                  ]
+            },
+            {
+                  "name": "Mănăstirea și Biserica Franciscană",
+                  "text": "Una dintre cele mai vechi biserici din Cluj-Napoca, cu o mănăstire franciscană.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587991,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Statuia lui Matei Corvin",
+                  "text": "Un monument faimos dedicat regelui Matia Corvin în piața centrală.",
+                  "category": "landmark",
+                  "coords": [
+                        23.589817,
+                        46.769539
+                  ]
+            },
+            {
+                  "name": "Parcul Central Simion Bărnuțiu",
+                  "text": "Cel mai important parc public din centrul orașului Cluj-Napoca.",
+                  "category": "park",
+                  "coords": [
+                        23.579093,
+                        46.769887
+                  ]
+            },
+            {
+                  "name": "Parcul Etnografic „Romulus Vuia”",
+                  "text": "Un muzeu în aer liber ce prezintă arhitectura tradițională a Transilvaniei.",
+                  "category": "museum",
+                  "coords": [
+                        23.556109,
+                        46.778176
+                  ]
+            },
+            {
+                  "name": "Teatrul Maghiar de Stat - Opera Maghiară de Stat",
+                  "text": "O instituție culturală importantă pentru artele spectacolului în limba maghiară.",
+                  "category": "cultural",
+                  "coords": [
+                        23.584289,
+                        46.772615
+                  ]
+            },
+            {
+                  "name": "Biserica Calvaria",
+                  "text": "O biserică istorică situată pe un deal în cartierul Mănăștur.",
+                  "category": "religious",
+                  "coords": [
+                        23.55793,
+                        46.761265
+                  ]
+            },
+            {
+                  "name": "Biserica Greco-Catolică „Învierea Domnului” (Biserica Bob)",
+                  "text": "Cea mai veche biserică greco-catolică din Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.587814,
+                        46.768625
+                  ]
+            },
+            {
+                  "name": "Biserica Piariștilor",
+                  "text": "O biserică barocă situată în centrul Clujului.",
+                  "category": "religious",
+                  "coords": [
+                        23.59062,
+                        46.767845
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată-Calvină din Orașul de Jos",
+                  "text": "O biserică reformată situată în cartierul Orașul de Jos.",
+                  "category": "religious",
+                  "coords": [
+                        23.597526,
+                        46.77385
+                  ]
+            },
+            {
+                  "name": "Biserica cu Cocoș",
+                  "text": "O biserică reformată distinctivă din Cluj-Napoca, având un cocoș pe turn.",
+                  "category": "religious",
+                  "coords": [
+                        23.575376,
+                        46.765194
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn din Chiraleș",
+                  "text": "O biserică de lemn tradițională strămutată în parcul etnografic.",
+                  "category": "religious",
+                  "coords": [
+                        23.554675,
+                        46.778051
+                  ]
+            },
+            {
+                  "name": "Biserica de lemn din Cizer",
+                  "text": "O biserică de lemn cu detalii artistice provenind din județul Sălaj.",
+                  "category": "religious",
+                  "coords": [
+                        23.557903,
+                        46.77776
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie a Transilvaniei",
+                  "text": "Un muzeu dedicat istoriei regiunii Transilvania.",
+                  "category": "museum",
+                  "coords": [
+                        23.58629,
+                        46.771637
+                  ]
+            },
+            {
+                  "name": "Sinagoga Neologă",
+                  "text": "Această sinagogă neologă este un monument religios și arhitectural important din Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.586739,
+                        46.777122
+                  ]
+            },
+            {
+                  "name": "Muzeul Universității Babeș-Bolyai",
+                  "text": "Muzeul prezintă istoria și moștenirea academică a Universității Babeș-Bolyai.",
+                  "category": "museum",
+                  "coords": [
+                        23.592161,
+                        46.767352
+                  ]
+            },
+            {
+                  "name": "Vivariul Universității Babeș-Bolyai",
+                  "text": "Vivariul prezintă o expoziție interesantă de animale mici și reptile vii.",
+                  "category": "museum",
+                  "coords": [
+                        23.580027,
+                        46.763941
+                  ]
+            },
+            {
+                  "name": "Muzeul Botanic al Universității „Babeș-Bolyai”",
+                  "text": "Muzeul este situat în Grădina Botanică și documentează flora locală.",
+                  "category": "museum",
+                  "coords": [
+                        23.587758,
+                        46.762198
+                  ]
+            },
+            {
+                  "name": "Muzeul memorial David Prodan",
+                  "text": "Acest muzeu memorial este dedicat vieții și operei istoricului David Prodan.",
+                  "category": "museum",
+                  "coords": [
+                        23.588496,
+                        46.780685
+                  ]
+            },
+            {
+                  "name": "Muzeon",
+                  "text": "Muzeon este un muzeu modern care prezintă istoria și cultura evreiască din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        23.587461,
+                        46.770886
+                  ]
+            },
+            {
+                  "name": "Steampunk Transylvania",
+                  "text": "Acest muzeu interactiv este dedicat lumii fantastice a steampunk-ului.",
+                  "category": "museum",
+                  "coords": [
+                        23.590188,
+                        46.772158
+                  ]
+            },
+            {
+                  "name": "Casa Muzeu Corneliu Radu Zăvoiu",
+                  "text": "Această casă muzeu este dedicată operei și amintirii lui Corneliu Radu Zăvoiu.",
+                  "category": "museum",
+                  "coords": [
+                        23.585301,
+                        46.776191
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Doina Cornea",
+                  "text": "Casa memorială amintește de viața disidentei și activistei pentru drepturile omului Doina Cornea.",
+                  "category": "museum",
+                  "coords": [
+                        23.597597,
+                        46.76403
+                  ]
+            },
+            {
+                  "name": "Galeria Arte",
+                  "text": "Galeria Arte găzduiește expoziții temporare ale artiștilor locali și naționali.",
+                  "category": "museum",
+                  "coords": [
+                        23.583954,
+                        46.768372
+                  ]
+            },
+            {
+                  "name": "IAGA Contemporary Art",
+                  "text": "Această galerie se concentrează pe curentele internaționale de artă contemporană.",
+                  "category": "museum",
+                  "coords": [
+                        23.588566,
+                        46.77739
+                  ]
+            },
+            {
+                  "name": "Unirea Open Studios",
+                  "text": "Un spațiu creativ care oferă perspective asupra muncii artiștilor locali în studiourile lor.",
+                  "category": "museum",
+                  "coords": [
+                        23.600663,
+                        46.786952
+                  ]
+            },
+            {
+                  "name": "SABOT",
+                  "text": "SABOT este o galerie de artă contemporană renumită situată în Fabrica de Pensule.",
+                  "category": "museum",
+                  "coords": [
+                        23.608365,
+                        46.784059
+                  ]
+            },
+            {
+                  "name": "MATCA artspace",
+                  "text": "MATCA artspace este un spațiu coordonat de artiști pentru experimente și dialog.",
+                  "category": "museum",
+                  "coords": [
+                        23.599029,
+                        46.766053
+                  ]
+            },
+            {
+                  "name": "Zina Project Space",
+                  "text": "Zina Project Space este un loc pentru proiecte de artă contemporană și cercetare.",
+                  "category": "museum",
+                  "coords": [
+                        23.584554,
+                        46.770952
+                  ]
+            },
+            {
+                  "name": "Zina",
+                  "text": "Un spațiu de expoziție pentru artă contemporană și evenimente culturale.",
+                  "category": "museum",
+                  "coords": [
+                        23.608341,
+                        46.763372
+                  ]
+            },
+            {
+                  "name": "The Cosmic House",
+                  "text": "The Cosmic House este un centru interdisciplinar pentru artă și cultură.",
+                  "category": "museum",
+                  "coords": [
+                        23.566466,
+                        46.773727
+                  ]
+            },
+            {
+                  "name": "Expoziție permanentă de sculpturi Szervátiusz Jenő",
+                  "text": "Această expoziție permanentă onorează opera sculpturală a lui Jenő Szervátiusz.",
+                  "category": "museum",
+                  "coords": [
+                        23.588268,
+                        46.769709
+                  ]
             }
       ],
       "en": [
@@ -10672,6 +20851,375 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         23.587004,
                         46.760299
+                  ]
+            },
+            {
+                  "name": "Ethnographic Museum of Transylvania",
+                  "text": "A major museum dedicated to the culture and traditions of Transylvania.",
+                  "category": "museum",
+                  "coords": [
+                        23.58661,
+                        46.769224
+                  ]
+            },
+            {
+                  "name": "Muzeul de Artă",
+                  "text": "An art museum housed in the magnificent Bánffy Palace in Cluj-Napoca.",
+                  "category": "museum",
+                  "coords": [
+                        23.590342,
+                        46.770599
+                  ]
+            },
+            {
+                  "name": "Firemen's Tower",
+                  "text": "A historic watchtower that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        23.590942,
+                        46.773368
+                  ]
+            },
+            {
+                  "name": "Capitoline Wolf",
+                  "text": "A statue in Cluj-Napoca commemorating Latin heritage.",
+                  "category": "historical",
+                  "coords": [
+                        23.592289,
+                        46.769709
+                  ]
+            },
+            {
+                  "name": "Lucian Blaga National Theatre",
+                  "text": "A prominent theatre building located on Avram Iancu Square.",
+                  "category": "cultural",
+                  "coords": [
+                        23.597483,
+                        46.77014
+                  ]
+            },
+            {
+                  "name": "Saint Peter",
+                  "text": "A historic Catholic church in Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.607382,
+                        46.776742
+                  ]
+            },
+            {
+                  "name": "Dormition of the Theotokos Orthodox Cathedral",
+                  "text": "The main Orthodox cathedral of Cluj-Napoca, built in Byzantine style.",
+                  "category": "religious",
+                  "coords": [
+                        23.596345,
+                        46.771893
+                  ]
+            },
+            {
+                  "name": "Unitarian Church",
+                  "text": "A historic Unitarian church in the center of Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.591849,
+                        46.771886
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată de pe Ulița Lupilor",
+                  "text": "A monumental Gothic Reformed church in Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.595862,
+                        46.768144
+                  ]
+            },
+            {
+                  "name": "Central Cemetery",
+                  "text": "A historic cemetery, also known as the Hajongard Cemetery.",
+                  "category": "landmark",
+                  "coords": [
+                        23.594727,
+                        46.762477
+                  ]
+            },
+            {
+                  "name": "Cluj-Napoca Franciscan Church",
+                  "text": "One of the oldest churches in Cluj-Napoca, featuring a Franciscan monastery.",
+                  "category": "landmark",
+                  "coords": [
+                        23.587991,
+                        46.771959
+                  ]
+            },
+            {
+                  "name": "Statue of Matthias Corvinus",
+                  "text": "A famous monument honoring King Matthias Corvinus in the central square.",
+                  "category": "landmark",
+                  "coords": [
+                        23.589817,
+                        46.769539
+                  ]
+            },
+            {
+                  "name": "Parcul Central Simion Bărnuțiu",
+                  "text": "The main public park in the city center of Cluj-Napoca.",
+                  "category": "park",
+                  "coords": [
+                        23.579093,
+                        46.769887
+                  ]
+            },
+            {
+                  "name": "Romulus Vuia Ethnographic Park",
+                  "text": "An open-air museum showcasing the traditional architecture of Transylvania.",
+                  "category": "museum",
+                  "coords": [
+                        23.556109,
+                        46.778176
+                  ]
+            },
+            {
+                  "name": "Hungarian State Theatre",
+                  "text": "A major cultural institution for Hungarian-language performing arts.",
+                  "category": "cultural",
+                  "coords": [
+                        23.584289,
+                        46.772615
+                  ]
+            },
+            {
+                  "name": "Calvaria Church",
+                  "text": "A historic church located on a hill in the Mănăștur neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        23.55793,
+                        46.761265
+                  ]
+            },
+            {
+                  "name": "Resurrection Church (Bob Church)",
+                  "text": "The oldest Greek Catholic church in Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.587814,
+                        46.768625
+                  ]
+            },
+            {
+                  "name": "Piarist Church",
+                  "text": "A Baroque church located in the center of Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.59062,
+                        46.767845
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată-Calvină din Orașul de Jos",
+                  "text": "A Reformed church located in the lower town area.",
+                  "category": "religious",
+                  "coords": [
+                        23.597526,
+                        46.77385
+                  ]
+            },
+            {
+                  "name": "Biserica cu Cocoș",
+                  "text": "A distinctive Reformed church in Cluj-Napoca with a rooster on its tower.",
+                  "category": "religious",
+                  "coords": [
+                        23.575376,
+                        46.765194
+                  ]
+            },
+            {
+                  "name": "Wooden church from Chiraleș",
+                  "text": "A traditional wooden church relocated to the ethnographic park.",
+                  "category": "religious",
+                  "coords": [
+                        23.554675,
+                        46.778051
+                  ]
+            },
+            {
+                  "name": "Wooden church from Cizer",
+                  "text": "An artistically crafted wooden church from the Sălaj region.",
+                  "category": "religious",
+                  "coords": [
+                        23.557903,
+                        46.77776
+                  ]
+            },
+            {
+                  "name": "National Museum of Transylvanian History",
+                  "text": "A museum dedicated to the history of the Transylvania region.",
+                  "category": "museum",
+                  "coords": [
+                        23.58629,
+                        46.771637
+                  ]
+            },
+            {
+                  "name": "Sinagoga Neologă",
+                  "text": "This Neologue synagogue is a significant religious and architectural landmark in Cluj-Napoca.",
+                  "category": "religious",
+                  "coords": [
+                        23.586739,
+                        46.777122
+                  ]
+            },
+            {
+                  "name": "\"Babes-Bolyai\" University Museum",
+                  "text": "The museum showcases the history and academic heritage of the Babeș-Bolyai University.",
+                  "category": "museum",
+                  "coords": [
+                        23.592161,
+                        46.767352
+                  ]
+            },
+            {
+                  "name": "Vivarium of the Babeș-Bolyai University",
+                  "text": "The vivarium features an interesting exhibition of live small animals and reptiles.",
+                  "category": "museum",
+                  "coords": [
+                        23.580027,
+                        46.763941
+                  ]
+            },
+            {
+                  "name": "Muzeul Botanic al Universității „Babeș-Bolyai”",
+                  "text": "The museum is located within the Botanical Garden and documents local plant life.",
+                  "category": "museum",
+                  "coords": [
+                        23.587758,
+                        46.762198
+                  ]
+            },
+            {
+                  "name": "Muzeul memorial David Prodan",
+                  "text": "This memorial museum is dedicated to the life and work of historian David Prodan.",
+                  "category": "museum",
+                  "coords": [
+                        23.588496,
+                        46.780685
+                  ]
+            },
+            {
+                  "name": "Muzeon",
+                  "text": "Muzeon is a modern museum highlighting the Jewish history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        23.587461,
+                        46.770886
+                  ]
+            },
+            {
+                  "name": "Steampunk Transylvania",
+                  "text": "This interactive museum is dedicated to the fantastic world of steampunk.",
+                  "category": "museum",
+                  "coords": [
+                        23.590188,
+                        46.772158
+                  ]
+            },
+            {
+                  "name": "Casa Muzeu Corneliu Radu Zăvoiu",
+                  "text": "This museum house is dedicated to the work and memory of Corneliu Radu Zăvoiu.",
+                  "category": "museum",
+                  "coords": [
+                        23.585301,
+                        46.776191
+                  ]
+            },
+            {
+                  "name": "Casa Memorială Doina Cornea",
+                  "text": "The memorial house commemorates the life of dissident and human rights activist Doina Cornea.",
+                  "category": "museum",
+                  "coords": [
+                        23.597597,
+                        46.76403
+                  ]
+            },
+            {
+                  "name": "Galeria Arte",
+                  "text": "Galeria Arte hosts rotating exhibitions of local and national artists.",
+                  "category": "museum",
+                  "coords": [
+                        23.583954,
+                        46.768372
+                  ]
+            },
+            {
+                  "name": "IAGA Contemporary Art",
+                  "text": "This gallery focuses on international contemporary art movements.",
+                  "category": "museum",
+                  "coords": [
+                        23.588566,
+                        46.77739
+                  ]
+            },
+            {
+                  "name": "Unirea Open Studios",
+                  "text": "A creative space offering insights into the work of local artists in their studios.",
+                  "category": "museum",
+                  "coords": [
+                        23.600663,
+                        46.786952
+                  ]
+            },
+            {
+                  "name": "SABOT",
+                  "text": "SABOT is a renowned contemporary art gallery located in the Paintbrush Factory.",
+                  "category": "museum",
+                  "coords": [
+                        23.608365,
+                        46.784059
+                  ]
+            },
+            {
+                  "name": "MATCA artspace",
+                  "text": "MATCA artspace is an artist-run space for experimentation and dialogue.",
+                  "category": "museum",
+                  "coords": [
+                        23.599029,
+                        46.766053
+                  ]
+            },
+            {
+                  "name": "Zina Project Space",
+                  "text": "Zina Project Space is a venue for contemporary art projects and research.",
+                  "category": "museum",
+                  "coords": [
+                        23.584554,
+                        46.770952
+                  ]
+            },
+            {
+                  "name": "Zina",
+                  "text": "An exhibition space for contemporary art and cultural events.",
+                  "category": "museum",
+                  "coords": [
+                        23.608341,
+                        46.763372
+                  ]
+            },
+            {
+                  "name": "The Cosmic House",
+                  "text": "The Cosmic House is an interdisciplinary center for art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        23.566466,
+                        46.773727
+                  ]
+            },
+            {
+                  "name": "Expoziție permanentă de sculpturi Szervátiusz Jenő",
+                  "text": "This permanent exhibition honors the sculptural work of Jenő Szervátiusz.",
+                  "category": "museum",
+                  "coords": [
+                        23.588268,
+                        46.769709
                   ]
             }
       ]
@@ -10732,6 +21280,357 @@ export const romaniaCities: POI[] = [
                         27.586888,
                         47.159031
                   ]
+            },
+            {
+                  "name": "Bojdeuca Ion Creangă",
+                  "text": "Das kleine Bauernhaus war das Heim des berühmten rumänischen Schriftstellers Ion Creangă.",
+                  "category": "museum",
+                  "coords": [
+                        27.582983,
+                        47.175073
+                  ]
+            },
+            {
+                  "name": "Obeliscul Leilor",
+                  "text": "Der Obelisk mit den vier Löwen ist eines der ältesten öffentlichen Denkmäler Rumäniens.",
+                  "category": "historical",
+                  "coords": [
+                        27.566927,
+                        47.178529
+                  ]
+            },
+            {
+                  "name": "Monumentul Unirii",
+                  "text": "Das Denkmal erinnert an die Vereinigung der rumänischen Fürstentümer.",
+                  "category": "historical",
+                  "coords": [
+                        27.583883,
+                        47.167538
+                  ]
+            },
+            {
+                  "name": "Mahnmal für die Opfer des Pogroms",
+                  "text": "Ein Mahnmal zum Gedenken an die Opfer des Pogroms von Iași im Jahr 1941.",
+                  "category": "historical",
+                  "coords": [
+                        27.592325,
+                        47.165397
+                  ]
+            },
+            {
+                  "name": "Grupul Statuar al Voievozilor",
+                  "text": "Eine Statuengruppe, die bedeutende Herrscher der moldauischen Geschichte darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        27.576641,
+                        47.17071
+                  ]
+            },
+            {
+                  "name": "Statuia Grigore Ghica Vodă",
+                  "text": "Eine Statue zu Ehren von Grigore III. Ghica, dem Fürsten der Moldau.",
+                  "category": "historical",
+                  "coords": [
+                        27.594778,
+                        47.159988
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Diviziei a Doua Cavalerie",
+                  "text": "Ein Denkmal für die Kavalleristen der zweiten Division, die im Ersten Weltkrieg kämpften.",
+                  "category": "historical",
+                  "coords": [
+                        27.568693,
+                        47.17937
+                  ]
+            },
+            {
+                  "name": "Primăria Iași",
+                  "text": "Das Rathaus von Iași befindet sich im prachtvollen Roznovanu-Palast.",
+                  "category": "historical",
+                  "coords": [
+                        27.584201,
+                        47.161753
+                  ]
+            },
+            {
+                  "name": "Teatrul Național „Vasile Alecsandri”",
+                  "text": "Eines der ältesten und schönsten Theatergebäude Rumäniens, entworfen von Fellner & Helmer.",
+                  "category": "cultural",
+                  "coords": [
+                        27.585245,
+                        47.163433
+                  ]
+            },
+            {
+                  "name": "Palatul Braunstein",
+                  "text": "Ein prächtiges historisches Gebäude im Zentrum, das heute als Kulturzentrum dient.",
+                  "category": "cultural",
+                  "coords": [
+                        27.580628,
+                        47.165387
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfinții Trei Ierarhi”",
+                  "text": "Berühmt für die einzigartigen, wie Spitze in Stein gemeißelten Außenverzierungen.",
+                  "category": "religious",
+                  "coords": [
+                        27.58443,
+                        47.159691
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Banu”",
+                  "text": "Eine historische orthodoxe Kirche in Iași, bekannt für ihre Architektur und Ikonostase.",
+                  "category": "religious",
+                  "coords": [
+                        27.578007,
+                        47.167664
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Sfântul Siluan Athonitul",
+                  "text": "Ein ruhiges Kloster, das dem Heiligen Siluan vom Athos gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.578287,
+                        47.165456
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Galata",
+                  "text": "Eine befestigte Klosteranlage aus dem 16. Jahrhundert mit weitem Blick über die Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        27.569003,
+                        47.14635
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Sava\"",
+                  "text": "Eine der ältesten Kirchen der Stadt mit bedeutenden Wandmalereien.",
+                  "category": "religious",
+                  "coords": [
+                        27.588573,
+                        47.16174
+                  ]
+            },
+            {
+                  "name": "Catedrala Catolică Sfânta Fecioară Maria, Regină",
+                  "text": "Die moderne katholische Kathedrale von Iași fällt durch ihre markante runde Architektur auf.",
+                  "category": "religious",
+                  "coords": [
+                        27.582886,
+                        47.160381
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon”",
+                  "text": "Diese Kirche war einst Teil eines historischen Krankenhauses und besitzt einen beeindruckenden Turm.",
+                  "category": "religious",
+                  "coords": [
+                        27.582544,
+                        47.168163
+                  ]
+            },
+            {
+                  "name": "Biserica lipovenească „Adormirea Maicii Domnului” Iași",
+                  "text": "Die Kirche der Lipowaner-Gemeinde in Iași pflegt die Traditionen der Altgläubigen.",
+                  "category": "religious",
+                  "coords": [
+                        27.586268,
+                        47.153229
+                  ]
+            },
+            {
+                  "name": "Catedrala Mitropolitană din Iaşi",
+                  "text": "Die monumentale Kathedrale beherbergt die Reliquien der Heiligen Parascheva.",
+                  "category": "religious",
+                  "coords": [
+                        27.582045,
+                        47.161517
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Buna Vestire”",
+                  "text": "Eine historische orthodoxe Kirche, bekannt für ihre religiöse Bedeutung in der Gemeinde.",
+                  "category": "religious",
+                  "coords": [
+                        27.580721,
+                        47.171715
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfânta Cuvioasă Parascheva”",
+                  "text": "Eine der Heiligen Parascheva gewidmete Kirche in der Stadt Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.574797,
+                        47.170458
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Frumoasa",
+                  "text": "Das Kloster Frumoasa beeindruckt durch seine Architektur und den gepflegten Garten.",
+                  "category": "religious",
+                  "coords": [
+                        27.587384,
+                        47.139273
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Lazăr",
+                  "text": "Eine kleine historische Kirche in der Nähe des Kulturpalastes.",
+                  "category": "religious",
+                  "coords": [
+                        27.591353,
+                        47.158659
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Ein orthodoxes Gotteshaus, das der Heiligen Dreifaltigkeit gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        27.550811,
+                        47.173796
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Mihail Kogălniceanu\"",
+                  "text": "Das Museum befindet sich im ehemaligen Wohnhaus des Staatsmannes Mihail Kogălniceanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "Muzeul Literaturii Române",
+                  "text": "Museum in Iași, das das reiche rumänische Literaturerbe präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Kunst- und Kulturzentrum in Iași für kulturelle Aktivitäten und Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        27.592665,
+                        47.145959
+                  ]
+            },
+            {
+                  "name": "Biserica Mitocul Maicilor",
+                  "text": "Historische orthodoxe Kirche im Mitoc-Viertel von Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.580008,
+                        47.167758
+                  ]
+            },
+            {
+                  "name": "Biserica Curelari",
+                  "text": "Traditionelle orthodoxe Gebetsstätte in der Stadt Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.590841,
+                        47.166535
+                  ]
+            },
+            {
+                  "name": "Biserica Zlataust",
+                  "text": "Historische orthodoxe Kirche in Iași, bekannt für ihre architektonischen Details.",
+                  "category": "religious",
+                  "coords": [
+                        27.597266,
+                        47.159676
+                  ]
+            },
+            {
+                  "name": "Biserica Toma Cozma",
+                  "text": "Orthodoxe Kirche und historisches Denkmal in Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.564612,
+                        47.173356
+                  ]
+            },
+            {
+                  "name": "Biserica Nicoriță",
+                  "text": "Historische religiöse Stätte und Gebetsstätte in Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.602387,
+                        47.161664
+                  ]
+            },
+            {
+                  "name": "Biserica Bărboi",
+                  "text": "Orthodoxe Kirche in Iași, bekannt für ihren markanten Glockenturm.",
+                  "category": "religious",
+                  "coords": [
+                        27.592984,
+                        47.1628
+                  ]
+            },
+            {
+                  "name": "Biserica Vulpe",
+                  "text": "Historische Gebetsstätte in Iași mit einer einzigartigen Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        27.587983,
+                        47.169365
+                  ]
+            },
+            {
+                  "name": "Turnul Goliei",
+                  "text": "Markanter Turm des Golia-Klosters, der einen weiten Blick über Iași bietet.",
+                  "category": "tower",
+                  "coords": [
+                        27.589443,
+                        47.164276
+                  ]
+            },
+            {
+                  "name": "Turn clopotniță",
+                  "text": "Traditioneller Glockenturm, der zu einem religiösen Gebäudekomplex in Iași gehört.",
+                  "category": "tower",
+                  "coords": [
+                        27.59314,
+                        47.159998
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"George Topârceanu\"",
+                  "text": "Gedenkhaus in Iași, das dem rumänischen Dichter George Topârceanu gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.578217,
+                        47.174901
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Mihai Codreanu\"",
+                  "text": "Museum in Iași, das an das Leben und Werk von Mihai Codreanu erinnert.",
+                  "category": "museum",
+                  "coords": [
+                        27.587099,
+                        47.167777
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Nicolae Gane\"",
+                  "text": "Museum in Iași, das dem Schriftsteller und Politiker Nicolae Gane gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        27.578157,
+                        47.171643
+                  ]
             }
       ],
       "hu": [
@@ -10763,6 +21662,357 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.586888,
                         47.159031
+                  ]
+            },
+            {
+                  "name": "Bojdeuca Ion Creangă",
+                  "text": "Ez a kis parasztház volt a híres román író, Ion Creangă otthona.",
+                  "category": "museum",
+                  "coords": [
+                        27.582983,
+                        47.175073
+                  ]
+            },
+            {
+                  "name": "Obeliscul Leilor",
+                  "text": "A négy oroszlánnal díszített obeliszk Románia egyik legrégebbi köztéri emlékműve.",
+                  "category": "historical",
+                  "coords": [
+                        27.566927,
+                        47.178529
+                  ]
+            },
+            {
+                  "name": "Monumentul Unirii",
+                  "text": "Az emlékmű a román fejedelemségek egyesülésének állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        27.583883,
+                        47.167538
+                  ]
+            },
+            {
+                  "name": "Monumentul Victimelor Pogromului din 1941",
+                  "text": "Emlékmű az 1941-es iași-i pogrom áldozatainak emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        27.592325,
+                        47.165397
+                  ]
+            },
+            {
+                  "name": "Grupul Statuar al Voievozilor",
+                  "text": "Moldva történelmének jelentős uralkodóit ábrázoló szoborcsoport.",
+                  "category": "historical",
+                  "coords": [
+                        27.576641,
+                        47.17071
+                  ]
+            },
+            {
+                  "name": "Statuia Grigore Ghica Vodă",
+                  "text": "Grigore III. Ghica moldvai fejedelem tiszteletére állított szobor.",
+                  "category": "historical",
+                  "coords": [
+                        27.594778,
+                        47.159988
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Diviziei a Doua Cavalerie",
+                  "text": "Emlékmű az első világháborúban harcoló második lovashadosztály katonáinak.",
+                  "category": "historical",
+                  "coords": [
+                        27.568693,
+                        47.17937
+                  ]
+            },
+            {
+                  "name": "Primăria Iași",
+                  "text": "Iași polgármesteri hivatala a pompás Roznovanu-palotában működik.",
+                  "category": "historical",
+                  "coords": [
+                        27.584201,
+                        47.161753
+                  ]
+            },
+            {
+                  "name": "Teatrul Național „Vasile Alecsandri”",
+                  "text": "Románia egyik legrégebbi és legszebb színházépülete, a Fellner & Helmer cég tervezte.",
+                  "category": "cultural",
+                  "coords": [
+                        27.585245,
+                        47.163433
+                  ]
+            },
+            {
+                  "name": "Palatul Braunstein",
+                  "text": "Pompás történelmi épület a belvárosban, amely ma kulturális központként működik.",
+                  "category": "cultural",
+                  "coords": [
+                        27.580628,
+                        47.165387
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfinții Trei Ierarhi”",
+                  "text": "Híres az egyedülálló, kőbe faragott csipkeszerű külső díszítéseiről.",
+                  "category": "religious",
+                  "coords": [
+                        27.58443,
+                        47.159691
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Banu”",
+                  "text": "Történelmi ortodox templom Iași-ban, amely építészetéről és ikonosztázáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        27.578007,
+                        47.167664
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Sfântul Siluan Athonitul",
+                  "text": "Egy csendes kolostor, amelyet Athoszi Szent Sziluánnak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        27.578287,
+                        47.165456
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Galata",
+                  "text": "16. századi erődített kolostor, ahonnan pazar kilátás nyílik a városra.",
+                  "category": "religious",
+                  "coords": [
+                        27.569003,
+                        47.14635
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Sava\"",
+                  "text": "A város egyik legrégebbi temploma, jelentős falfestményekkel.",
+                  "category": "religious",
+                  "coords": [
+                        27.588573,
+                        47.16174
+                  ]
+            },
+            {
+                  "name": "Catedrala Catolică Sfânta Fecioară Maria, Regină",
+                  "text": "Iași modern katolikus székesegyháza jellegzetes kerek építészetével tűnik ki.",
+                  "category": "religious",
+                  "coords": [
+                        27.582886,
+                        47.160381
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon”",
+                  "text": "Ez a templom egykor egy történelmi kórház része volt, és lenyűgöző toronnyal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        27.582544,
+                        47.168163
+                  ]
+            },
+            {
+                  "name": "Biserica lipovenească „Adormirea Maicii Domnului” Iași",
+                  "text": "A iași-i lipován közösség temploma, amely az óhitűek hagyományait őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        27.586268,
+                        47.153229
+                  ]
+            },
+            {
+                  "name": "Catedrala Mitropolitană din Iaşi",
+                  "text": "A monumentális székesegyházban őrzik Szent Paraszkeva ereklyéit.",
+                  "category": "religious",
+                  "coords": [
+                        27.582045,
+                        47.161517
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Buna Vestire”",
+                  "text": "Történelmi ortodox templom, amely vallási jelentőségéről ismert a közösségben.",
+                  "category": "religious",
+                  "coords": [
+                        27.580721,
+                        47.171715
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfânta Cuvioasă Parascheva”",
+                  "text": "Szent Paraszkevának szentelt templom Iași városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.574797,
+                        47.170458
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Frumoasa",
+                  "text": "A Frumoasa-kolostor lenyűgöző építészetével és gondozott kertjével várja a látogatókat.",
+                  "category": "religious",
+                  "coords": [
+                        27.587384,
+                        47.139273
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Lazăr",
+                  "text": "Kisméretű történelmi templom a Kultúrpalota közelében.",
+                  "category": "religious",
+                  "coords": [
+                        27.591353,
+                        47.158659
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "A Szentháromságnak szentelt ortodox templom.",
+                  "category": "religious",
+                  "coords": [
+                        27.550811,
+                        47.173796
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Mihail Kogălniceanu\"",
+                  "text": "A múzeum Mihail Kogălniceanu államférfi egykori lakóházában található.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "Muzeul Literaturii Române",
+                  "text": "Jászvásári múzeum, amely a román irodalmi örökséget mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Művészeti és kulturális központ Jászvásáron kulturális tevékenységekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        27.592665,
+                        47.145959
+                  ]
+            },
+            {
+                  "name": "Biserica Mitocul Maicilor",
+                  "text": "Történelmi ortodox templom Jászvásár Mitoc negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        27.580008,
+                        47.167758
+                  ]
+            },
+            {
+                  "name": "Biserica Curelari",
+                  "text": "Hagyományos ortodox templom Jászvásár városában.",
+                  "category": "religious",
+                  "coords": [
+                        27.590841,
+                        47.166535
+                  ]
+            },
+            {
+                  "name": "Biserica Zlataust",
+                  "text": "Történelmi ortodox templom Jászvásáron, amely építészeti részleteiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        27.597266,
+                        47.159676
+                  ]
+            },
+            {
+                  "name": "Biserica Toma Cozma",
+                  "text": "Ortodox templom és történelmi műemlék Jászvásáron.",
+                  "category": "religious",
+                  "coords": [
+                        27.564612,
+                        47.173356
+                  ]
+            },
+            {
+                  "name": "Biserica Nicoriță",
+                  "text": "Történelmi vallási helyszín és templom Jászvásáron.",
+                  "category": "religious",
+                  "coords": [
+                        27.602387,
+                        47.161664
+                  ]
+            },
+            {
+                  "name": "Biserica Bărboi",
+                  "text": "Ortodox templom Jászvásáron, amely jellegzetes harangtornyáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        27.592984,
+                        47.1628
+                  ]
+            },
+            {
+                  "name": "Biserica Vulpe",
+                  "text": "Történelmi templom Jászvásáron, egyedi építészeti megjelenéssel.",
+                  "category": "religious",
+                  "coords": [
+                        27.587983,
+                        47.169365
+                  ]
+            },
+            {
+                  "name": "Turnul Goliei",
+                  "text": "A jászvásári Golia-kolostor jellegzetes tornya, amely kilátást nyújt a városra.",
+                  "category": "tower",
+                  "coords": [
+                        27.589443,
+                        47.164276
+                  ]
+            },
+            {
+                  "name": "Turn clopotniță",
+                  "text": "Hagyományos harangtorony egy jászvásári vallási épületegyüttes részeként.",
+                  "category": "tower",
+                  "coords": [
+                        27.59314,
+                        47.159998
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"George Topârceanu\"",
+                  "text": "Emlékház Jászvásáron, amely George Topârceanu román költőnek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        27.578217,
+                        47.174901
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Mihai Codreanu\"",
+                  "text": "Jászvásári múzeum, amely Mihai Codreanu életét és munkásságát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.587099,
+                        47.167777
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Nicolae Gane\"",
+                  "text": "Jászvásári múzeum, amely Nicolae Gane írónak és politikusnak állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        27.578157,
+                        47.171643
                   ]
             }
       ],
@@ -10796,6 +22046,357 @@ export const romaniaCities: POI[] = [
                         27.586888,
                         47.159031
                   ]
+            },
+            {
+                  "name": "Bojdeuca Ion Creangă",
+                  "text": "Această mică casă țărănească a fost locuința celebrului scriitor român Ion Creangă.",
+                  "category": "museum",
+                  "coords": [
+                        27.582983,
+                        47.175073
+                  ]
+            },
+            {
+                  "name": "Obeliscul Leilor",
+                  "text": "Obeliscul cu lei este unul dintre cele mai vechi monumente publice din România.",
+                  "category": "historical",
+                  "coords": [
+                        27.566927,
+                        47.178529
+                  ]
+            },
+            {
+                  "name": "Monumentul Unirii",
+                  "text": "Monumentul comemorează Unirea Principatelor Române.",
+                  "category": "historical",
+                  "coords": [
+                        27.583883,
+                        47.167538
+                  ]
+            },
+            {
+                  "name": "Monumentul Victimelor Pogromului din 1941",
+                  "text": "Un monument ridicat în memoria victimelor pogromului de la Iași din 1941.",
+                  "category": "historical",
+                  "coords": [
+                        27.592325,
+                        47.165397
+                  ]
+            },
+            {
+                  "name": "Grupul Statuar al Voievozilor",
+                  "text": "Un grup statuar ce reprezintă voievozi de seamă din istoria Moldovei.",
+                  "category": "historical",
+                  "coords": [
+                        27.576641,
+                        47.17071
+                  ]
+            },
+            {
+                  "name": "Statuia Grigore Ghica Vodă",
+                  "text": "O statuie ridicată în onoarea lui Grigore al III-lea Ghica, domnitor al Moldovei.",
+                  "category": "historical",
+                  "coords": [
+                        27.594778,
+                        47.159988
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Diviziei a Doua Cavalerie",
+                  "text": "Un monument dedicat cavaleristilor diviziei a doua care au luptat în Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        27.568693,
+                        47.17937
+                  ]
+            },
+            {
+                  "name": "Primăria Iași",
+                  "text": "Primăria municipiului Iași își are sediul în somptuosul Palat Roznovanu.",
+                  "category": "historical",
+                  "coords": [
+                        27.584201,
+                        47.161753
+                  ]
+            },
+            {
+                  "name": "Teatrul Național „Vasile Alecsandri”",
+                  "text": "Una dintre cele mai vechi și frumoase clădiri de teatru din România, proiectată de Fellner & Helmer.",
+                  "category": "cultural",
+                  "coords": [
+                        27.585245,
+                        47.163433
+                  ]
+            },
+            {
+                  "name": "Palatul Braunstein",
+                  "text": "O clădire istorică impresionantă din centru, servind astăzi ca centru cultural.",
+                  "category": "cultural",
+                  "coords": [
+                        27.580628,
+                        47.165387
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfinții Trei Ierarhi”",
+                  "text": "Mănăstirea este faimoasă pentru dantelăria în piatră ce îi împodobește zidurile exterioare.",
+                  "category": "religious",
+                  "coords": [
+                        27.58443,
+                        47.159691
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Banu”",
+                  "text": "O biserică ortodoxă istorică din Iași, cunoscută pentru arhitectura și catapeteasma sa.",
+                  "category": "religious",
+                  "coords": [
+                        27.578007,
+                        47.167664
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Sfântul Siluan Athonitul",
+                  "text": "O mănăstire liniștită dedicată Sfântului Siluan Athonitul.",
+                  "category": "religious",
+                  "coords": [
+                        27.578287,
+                        47.165456
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Galata",
+                  "text": "O mănăstire fortificată din secolul al XVI-lea, oferind o panoramă frumoasă asupra orașului.",
+                  "category": "religious",
+                  "coords": [
+                        27.569003,
+                        47.14635
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Sava\"",
+                  "text": "Una dintre cele mai vechi biserici din oraș, cu picturi murale importante.",
+                  "category": "religious",
+                  "coords": [
+                        27.588573,
+                        47.16174
+                  ]
+            },
+            {
+                  "name": "Catedrala Catolică Sfânta Fecioară Maria, Regină",
+                  "text": "Catedrala catolică modernă din Iași se remarcă prin arhitectura sa circulară distinctivă.",
+                  "category": "religious",
+                  "coords": [
+                        27.582886,
+                        47.160381
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon”",
+                  "text": "Această biserică a făcut parte dintr-un spital istoric și are un turn impresionant.",
+                  "category": "religious",
+                  "coords": [
+                        27.582544,
+                        47.168163
+                  ]
+            },
+            {
+                  "name": "Biserica lipovenească „Adormirea Maicii Domnului” Iași",
+                  "text": "Biserica comunității de lipoveni din Iași, păstrătoare a tradițiilor de rit vechi.",
+                  "category": "religious",
+                  "coords": [
+                        27.586268,
+                        47.153229
+                  ]
+            },
+            {
+                  "name": "Catedrala Mitropolitană din Iaşi",
+                  "text": "Catedrala monumentală adăpostește moaștele Sfintei Cuvioase Parascheva.",
+                  "category": "religious",
+                  "coords": [
+                        27.582045,
+                        47.161517
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Buna Vestire”",
+                  "text": "O biserică ortodoxă istorică, cunoscută pentru importanța sa religioasă în comunitate.",
+                  "category": "religious",
+                  "coords": [
+                        27.580721,
+                        47.171715
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfânta Cuvioasă Parascheva”",
+                  "text": "O biserică din Iași purtând hramul Sfintei Cuvioase Parascheva.",
+                  "category": "religious",
+                  "coords": [
+                        27.574797,
+                        47.170458
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Frumoasa",
+                  "text": "Mănăstirea Frumoasa impresionează prin arhitectura sa și grădina bine îngrijită.",
+                  "category": "religious",
+                  "coords": [
+                        27.587384,
+                        47.139273
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Lazăr",
+                  "text": "O mică biserică istorică situată în apropierea Palatului Culturii.",
+                  "category": "religious",
+                  "coords": [
+                        27.591353,
+                        47.158659
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "Un lăcaș de cult ortodox dedicat Sfintei Treimi.",
+                  "category": "religious",
+                  "coords": [
+                        27.550811,
+                        47.173796
+                  ]
+            },
+            {
+                  "name": "Muzeul Memorial \"Mihail Kogălniceanu\"",
+                  "text": "Muzeul este situat în fosta locuință a omului de stat Mihail Kogălniceanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "Muzeul Literaturii Române",
+                  "text": "Muzeu din Iași care prezintă moștenirea literară românească.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Centru de artă și cultură din Iași pentru activități și evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        27.592665,
+                        47.145959
+                  ]
+            },
+            {
+                  "name": "Biserica Mitocul Maicilor",
+                  "text": "Biserică ortodoxă istorică situată în cartierul Mitoc din Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.580008,
+                        47.167758
+                  ]
+            },
+            {
+                  "name": "Biserica Curelari",
+                  "text": "Lăcaș de cult ortodox tradițional din orașul Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.590841,
+                        47.166535
+                  ]
+            },
+            {
+                  "name": "Biserica Zlataust",
+                  "text": "Biserică ortodoxă istorică din Iași, cunoscută pentru detaliile sale arhitecturale.",
+                  "category": "religious",
+                  "coords": [
+                        27.597266,
+                        47.159676
+                  ]
+            },
+            {
+                  "name": "Biserica Toma Cozma",
+                  "text": "Biserică ortodoxă și monument istoric din Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.564612,
+                        47.173356
+                  ]
+            },
+            {
+                  "name": "Biserica Nicoriță",
+                  "text": "Sit religios istoric și lăcaș de cult din Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.602387,
+                        47.161664
+                  ]
+            },
+            {
+                  "name": "Biserica Bărboi",
+                  "text": "Biserică ortodoxă din Iași, cunoscută pentru turnul său clopotniță impresionant.",
+                  "category": "religious",
+                  "coords": [
+                        27.592984,
+                        47.1628
+                  ]
+            },
+            {
+                  "name": "Biserica Vulpe",
+                  "text": "Lăcaș de cult istoric din Iași, cu o prezență arhitecturală unică.",
+                  "category": "religious",
+                  "coords": [
+                        27.587983,
+                        47.169365
+                  ]
+            },
+            {
+                  "name": "Turnul Goliei",
+                  "text": "Turnul proeminent al Mănăstirii Golia din Iași, oferind o vedere panoramică.",
+                  "category": "tower",
+                  "coords": [
+                        27.589443,
+                        47.164276
+                  ]
+            },
+            {
+                  "name": "Turn clopotniță",
+                  "text": "Turn clopotniță tradițional asociat unui complex religios din Iași.",
+                  "category": "tower",
+                  "coords": [
+                        27.59314,
+                        47.159998
+                  ]
+            },
+            {
+                  "name": "Casa Memorială \"George Topârceanu\"",
+                  "text": "Casă memorială din Iași dedicată poetului român George Topârceanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.578217,
+                        47.174901
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Mihai Codreanu\"",
+                  "text": "Muzeu din Iași care comemorează viața și opera lui Mihai Codreanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.587099,
+                        47.167777
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Nicolae Gane\"",
+                  "text": "Muzeu din Iași dedicat scriitorului și politicianului Nicolae Gane.",
+                  "category": "museum",
+                  "coords": [
+                        27.578157,
+                        47.171643
+                  ]
             }
       ],
       "en": [
@@ -10827,6 +22428,357 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         27.586888,
                         47.159031
+                  ]
+            },
+            {
+                  "name": "Bojdeuca Ion Creangă",
+                  "text": "This small peasant house was the home of the famous Romanian writer Ion Creangă.",
+                  "category": "museum",
+                  "coords": [
+                        27.582983,
+                        47.175073
+                  ]
+            },
+            {
+                  "name": "Obeliscul Leilor",
+                  "text": "The Obelisk with Lions is one of the oldest public monuments in Romania.",
+                  "category": "historical",
+                  "coords": [
+                        27.566927,
+                        47.178529
+                  ]
+            },
+            {
+                  "name": "Monumentul Unirii",
+                  "text": "The monument commemorates the Union of the Romanian Principalities.",
+                  "category": "historical",
+                  "coords": [
+                        27.583883,
+                        47.167538
+                  ]
+            },
+            {
+                  "name": "Monument to the victims of the Iași pogrom",
+                  "text": "A memorial dedicated to the victims of the 1941 Iași pogrom.",
+                  "category": "historical",
+                  "coords": [
+                        27.592325,
+                        47.165397
+                  ]
+            },
+            {
+                  "name": "Grupul Statuar al Voievozilor",
+                  "text": "A statuary group depicting prominent rulers from Moldavian history.",
+                  "category": "historical",
+                  "coords": [
+                        27.576641,
+                        47.17071
+                  ]
+            },
+            {
+                  "name": "Statuia Grigore Ghica Vodă",
+                  "text": "A statue honoring Grigore III Ghica, Prince of Moldavia.",
+                  "category": "historical",
+                  "coords": [
+                        27.594778,
+                        47.159988
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Diviziei a Doua Cavalerie",
+                  "text": "A monument to the cavalrymen of the second division who fought in World War I.",
+                  "category": "historical",
+                  "coords": [
+                        27.568693,
+                        47.17937
+                  ]
+            },
+            {
+                  "name": "Primăria Iași",
+                  "text": "The Iași City Hall is located in the magnificent Roznovanu Palace.",
+                  "category": "historical",
+                  "coords": [
+                        27.584201,
+                        47.161753
+                  ]
+            },
+            {
+                  "name": "Teatrul Național „Vasile Alecsandri”",
+                  "text": "One of Romania's oldest and most beautiful theatres, designed by Fellner & Helmer.",
+                  "category": "cultural",
+                  "coords": [
+                        27.585245,
+                        47.163433
+                  ]
+            },
+            {
+                  "name": "Palatul Braunstein",
+                  "text": "A magnificent historic building in the city center, now serving as an arts centre.",
+                  "category": "cultural",
+                  "coords": [
+                        27.580628,
+                        47.165387
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Ortodoxă „Sfinții Trei Ierarhi”",
+                  "text": "Famous for its unique stone carvings that cover the exterior walls like lace.",
+                  "category": "religious",
+                  "coords": [
+                        27.58443,
+                        47.159691
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Banu”",
+                  "text": "A historic Orthodox church in Iași, known for its architecture and iconostasis.",
+                  "category": "religious",
+                  "coords": [
+                        27.578007,
+                        47.167664
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Sfântul Siluan Athonitul",
+                  "text": "A peaceful monastery dedicated to Saint Silouan the Athonite.",
+                  "category": "religious",
+                  "coords": [
+                        27.578287,
+                        47.165456
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Galata",
+                  "text": "A 16th-century fortified monastery offering a panoramic view of the city.",
+                  "category": "religious",
+                  "coords": [
+                        27.569003,
+                        47.14635
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Sfântul Sava\"",
+                  "text": "One of the oldest churches in the city, featuring significant murals.",
+                  "category": "religious",
+                  "coords": [
+                        27.588573,
+                        47.16174
+                  ]
+            },
+            {
+                  "name": "Catedrala Catolică Sfânta Fecioară Maria, Regină",
+                  "text": "The modern Catholic cathedral of Iași stands out with its distinctive circular architecture.",
+                  "category": "religious",
+                  "coords": [
+                        27.582886,
+                        47.160381
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon”",
+                  "text": "This church was once part of a historic hospital and features an impressive tower.",
+                  "category": "religious",
+                  "coords": [
+                        27.582544,
+                        47.168163
+                  ]
+            },
+            {
+                  "name": "Biserica lipovenească „Adormirea Maicii Domnului” Iași",
+                  "text": "The church of the Lipovan community in Iași, preserving Old Believer traditions.",
+                  "category": "religious",
+                  "coords": [
+                        27.586268,
+                        47.153229
+                  ]
+            },
+            {
+                  "name": "Metropolitan Cathedral",
+                  "text": "The monumental cathedral houses the holy relics of Saint Parascheva.",
+                  "category": "religious",
+                  "coords": [
+                        27.582045,
+                        47.161517
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Buna Vestire”",
+                  "text": "A historic Orthodox church known for its religious significance within the community.",
+                  "category": "religious",
+                  "coords": [
+                        27.580721,
+                        47.171715
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfânta Cuvioasă Parascheva”",
+                  "text": "A church in Iași dedicated to Saint Parascheva.",
+                  "category": "religious",
+                  "coords": [
+                        27.574797,
+                        47.170458
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Frumoasa",
+                  "text": "The Frumoasa Monastery is noted for its beautiful architecture and well-kept garden.",
+                  "category": "religious",
+                  "coords": [
+                        27.587384,
+                        47.139273
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Lazăr",
+                  "text": "A small historic church located near the Palace of Culture.",
+                  "category": "religious",
+                  "coords": [
+                        27.591353,
+                        47.158659
+                  ]
+            },
+            {
+                  "name": "Biserica Sfânta Treime",
+                  "text": "An Orthodox place of worship dedicated to the Holy Trinity.",
+                  "category": "religious",
+                  "coords": [
+                        27.550811,
+                        47.173796
+                  ]
+            },
+            {
+                  "name": "\"Mihail Kogalniceanu\" Memorial Museum",
+                  "text": "The museum is located in the former residence of the statesman Mihail Kogălniceanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.580547,
+                        47.17343
+                  ]
+            },
+            {
+                  "name": "Museum of Romanian Literature",
+                  "text": "Museum in Iași showcasing Romanian literary heritage.",
+                  "category": "museum",
+                  "coords": [
+                        27.576257,
+                        47.172048
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Arts and cultural center in Iași for cultural activities and events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.592665,
+                        47.145959
+                  ]
+            },
+            {
+                  "name": "Biserica Mitocul Maicilor",
+                  "text": "Historic Orthodox church located in the Mitoc district of Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.580008,
+                        47.167758
+                  ]
+            },
+            {
+                  "name": "Biserica Curelari",
+                  "text": "Traditional Orthodox place of worship in the city of Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.590841,
+                        47.166535
+                  ]
+            },
+            {
+                  "name": "Biserica Zlataust",
+                  "text": "Historic Orthodox church in Iași known for its architectural details.",
+                  "category": "religious",
+                  "coords": [
+                        27.597266,
+                        47.159676
+                  ]
+            },
+            {
+                  "name": "Toma Cozma Church",
+                  "text": "Orthodox church and historic monument in Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.564612,
+                        47.173356
+                  ]
+            },
+            {
+                  "name": "Biserica Nicoriță",
+                  "text": "Historic religious site and place of worship in Iași.",
+                  "category": "religious",
+                  "coords": [
+                        27.602387,
+                        47.161664
+                  ]
+            },
+            {
+                  "name": "Biserica Bărboi",
+                  "text": "Orthodox church in Iași known for its impressive bell tower.",
+                  "category": "religious",
+                  "coords": [
+                        27.592984,
+                        47.1628
+                  ]
+            },
+            {
+                  "name": "Biserica Vulpe",
+                  "text": "Historic place of worship in Iași with a unique architectural presence.",
+                  "category": "religious",
+                  "coords": [
+                        27.587983,
+                        47.169365
+                  ]
+            },
+            {
+                  "name": "Turnul Goliei",
+                  "text": "Notable tower of the Golia Monastery complex in Iași.",
+                  "category": "tower",
+                  "coords": [
+                        27.589443,
+                        47.164276
+                  ]
+            },
+            {
+                  "name": "Turn clopotniță",
+                  "text": "Traditional bell tower associated with a religious complex in Iași.",
+                  "category": "tower",
+                  "coords": [
+                        27.59314,
+                        47.159998
+                  ]
+            },
+            {
+                  "name": "\"George Toparceanu\" Memorial House",
+                  "text": "Memorial house in Iași dedicated to the Romanian poet George Topârceanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.578217,
+                        47.174901
+                  ]
+            },
+            {
+                  "name": "\"Mihai Codreanu\" Museum",
+                  "text": "Museum in Iași commemorating the life and work of Mihai Codreanu.",
+                  "category": "museum",
+                  "coords": [
+                        27.587099,
+                        47.167777
+                  ]
+            },
+            {
+                  "name": "\"Nicolae Gane\" Museum",
+                  "text": "Museum in Iași dedicated to the writer and politician Nicolae Gane.",
+                  "category": "museum",
+                  "coords": [
+                        27.578157,
+                        47.171643
                   ]
             }
       ]
@@ -11052,6 +23004,483 @@ export const romaniaCities: POI[] = [
                         26.0965,
                         44.432
                   ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Der Botanische Garten in Bukarest beherbergt Tausende von Pflanzenarten und ein botanisches Museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Teatrului Naţional",
+                  "text": "Das Museum dokumentiert die reiche Geschichte des rumänischen Theaters.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Es ist das größte Militärmuseum des Landes und zeigt die Entwicklung der rumänischen Armee.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Das Museum zeigt eine bedeutende Sammlung antiker Münzen und archäologischer Funde.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Theodor Pallady\"",
+                  "text": "Das Museum befindet sich im historischen Melik-Haus und ist dem Maler Theodor Pallady gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Das Museum beherbergt zahlreiche private Kunstsammlungen, die dem Staat geschenkt wurden.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Das im ehemaligen Königspalast untergebrachte Museum zeigt bedeutende rumänische und europäische Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Nationalmuseum für zeitgenössische Kunst",
+                  "text": "Das Museum befindet sich in einem Flügel des Parlamentspalastes und zeigt moderne Kunst.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "Es zeigt eine beeindruckende Sammlung alter Karten und seltener Bücher.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Das Museum widmet sich der traditionellen Kultur und dem ländlichen Leben in Rumänien.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Dieses bekannte Museum bietet umfangreiche Ausstellungen zur Flora und Fauna weltweit.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Das Museum zeigt eine beeindruckende Vielfalt an Gesteinen, Mineralien und Fossilien.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Das Kretzulescu-Palais ist ein prächtiges historisches Gebäude im Zentrum von Bukarest.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Die Sternwarte bietet der Öffentlichkeit die Möglichkeit zur astronomischen Beobachtung.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Dieses Denkmal erinnert an die Opfer der rumänischen Revolution von 1989.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "Das Denkmal ehrt die rumänischen Infanteristen für ihren Einsatz in den Weltkriegen.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Ein Monument zur Erinnerung an die im Dienst gefallenen Artillerie-Helden.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "Ein modernes Theater in Bukarest, bekannt für seine vielfältigen Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "Nationaloper",
+                  "text": "Die Nationaloper ist die führende Institution für Oper und Ballett in Rumänien.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "Der Globus-Zirkus ist eine traditionsreiche Stätte für Artistik und Unterhaltung.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Dieses historische Kloster wurde in den 1980er Jahren auf Schienen an seinen heutigen Standort verschoben.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Das Kloster wurde im 18. Jahrhundert erbaut und ist für seine reiche Architektur bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "Eine orthodoxe Kirche in der Bukarester Altstadt, die den Heiligen Konstantin und Helena gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Die bedeutende römisch-katholische Kathedrale in der Bukarester Altstadt ist ein architektonisches Denkmal.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "Eine historische orthodoxe Kirche im Tabaci-Viertel der Bukarester Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "Diese orthodoxe Kirche in Bukarest ist für ihre beeindruckende Größe und Architektur bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "Eine auf einem kleinen Hügel gelegene orthodoxe Kirche in der Bukarester Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "Eine charmante orthodoxe Kirche in Bukarest mit historischer Bedeutung.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "Eine von einer Fürstin gestiftete historische orthodoxe Kirche in der Bukarester Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "Eine orthodoxe Kirche in Bukarest, die nach einem lokalen Priester benannt wurde.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "Eine markante orthodoxe Kirche im Amzei-Viertel von Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "Die Kirche ist nach einer wundertätigen Ikone benannt und liegt in der Bukarester Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "Eine historische orthodoxe Kirche in Bukarest, die für ihre religiöse Tradition bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "Teil des Colțea-Krankenhauskomplexes, ist diese Kirche ein Meisterwerk des Brâncoveanu-Stils.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "Die alte Kirche Sfântul Elefterie ist ein kleines, historisches Juwel in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "Eine große, modernere orthodoxe Kirche in Bukarest, nahe dem Opernhaus.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "Eine orthodoxe Kirche in Bukarest, die mit Legenden und lokaler Geschichte verbunden ist.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "Eine orthodoxe Kirche im Plevna-Viertel von Bukarest, dem Heiligen Georg gewidmet.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Die 'Weiße Kirche' ist ein elegantes religiöses Denkmal an der Calea Victoriei in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Domnița Bălașa",
+                  "text": "Diese prächtige Kirche in Bukarest wurde von einer Prinzessin der Familie Brâncoveanu gestiftet.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "Die Kathedrale des Heiligen Basilius ist die erste griechisch-katholische Kirche in Bukarest.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "Ein Denkmal im Cișmigiu-Park, das Büsten berühmter rumänischer Schriftsteller zeigt.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Rumänisches Atheneum",
+                  "text": "Das Wahrzeichen Bukarests ist ein prachtvolles Konzerthaus und ein Symbol der rumänischen Kultur.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Ein historischer Hügel in Bukarest, auf dem sich heute der Parlamentspalast befindet.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Dealul Mitropoliei",
+                  "text": "Der Hügel ist das spirituelle Zentrum Bukarests mit der patriarchalen Kathedrale.",
+                  "category": "natural",
+                  "coords": [
+                        26.097617,
+                        44.424384
+                  ]
+            },
+            {
+                  "name": "Carol-Park",
+                  "text": "Ein eleganter öffentlicher Park in Bukarest, der ein monumentales Mausoleum beherbergt.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Ein zentraler Park in Bukarest, der direkt gegenüber dem Parlamentspalast liegt.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Ein weitläufiger Park im Süden Bukarests mit einem großen See und Freizeitanlagen.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Cișmigiu-Park",
+                  "text": "Der älteste öffentliche Park in Bukarest, bekannt für seinen romantischen See und die Gärten.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Ein Park in Bukarest, der für seinen kreisförmigen See und den staatlichen Zirkus bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Parcul Obor",
+                  "text": "Ein lokaler Park in Bukarest nahe dem Obor-Markt, ideal für kurze Spaziergänge.",
+                  "category": "park",
+                  "coords": [
+                        26.126789,
+                        44.448239
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "Ein kleiner, ruhiger Park in Bukarest, benannt nach einem berühmten rumänischen Musiker.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "Ein historischer Garten in Bukarest, der für seine entspannte Atmosphäre bekannt ist.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
+                  ]
             }
       ],
       "hu": [
@@ -11133,6 +23562,483 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.0965,
                         44.432
+                  ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "A bukaresti botanikus kert több ezer növényfajnak és egy botanikai múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Teatrului Naţional",
+                  "text": "A múzeum a román színjátszás gazdag történelmét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Ez az ország legnagyobb hadtörténeti múzeuma, amely a román hadsereg fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "A múzeum ókori érmék és régészeti leletek jelentős gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Theodor Pallady\"",
+                  "text": "A múzeum a történelmi Melik-házban található, és Theodor Pallady festőnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "A múzeum számos magánműgyűjteménynek ad otthont, amelyeket az államnak adományoztak.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Az egykori királyi palotában helyet kapott múzeum jelentős román és európai műalkotásokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă Contemporană",
+                  "text": "A múzeum a Parlamenti Palota egyik szárnyában található, és modern művészetet mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "A múzeum régi térképek és ritka könyvek lenyűgöző gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "A múzeum a romániai hagyományos kultúrának és vidéki életnek van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Ez az ismert múzeum a világ növény- és állatvilágát bemutató kiterjedt kiállításokat kínál.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "A múzeum kőzetek, ásványok és fosszíliák lenyűgöző választékát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "A Kretzulescu-palota egy pompás történelmi épület Bukarest központjában.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "A csillagvizsgáló lehetőséget nyújt a nagyközönség számára csillagászati megfigyelésekre.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Ez az emlékmű az 1989-es romániai forradalom áldozatainak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "Az emlékmű a román gyalogos katonák előtt tiszteleg a világháborúkban tanúsított helytállásukért.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Emlékmű a szolgálatteljesítés közben elesett tüzér hősök emlékére.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "Egy modern bukaresti színház, amely változatos előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "Opera Națională",
+                  "text": "A Nemzeti Opera Románia vezető opera- és balettintézménye.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "A Globusz Cirkusz az artisztika és a szórakoztatás nagy múltú helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Ezt a történelmi kolostort az 1980-as években síneken tolták át jelenlegi helyére.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "A kolostor a 18. században épült, és gazdag építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "A bukaresti óváros egyik ortodox temploma, amelyet Szent Konstantin és Heléna tiszteletére szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Bukarest legfontosabb római katolikus székesegyháza az óváros közelében, jelentős építészeti műemlék.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "Történelmi ortodox templom Bukarest óvárosában, a Tabaci negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "Bukarest egyik legnagyobb ortodox temploma, amely figyelemre méltó építészeti stílussal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "Egy kis dombon épült ortodox templom Bukarest történelmi központjában.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "Bájos ortodox templom Bukarestben, amely jelentős történelmi múlttal rendelkezik.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "Egy hercegnő által alapított történelmi ortodox templom Bukarest óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "Egy helyi papról elnevezett ortodox templom Bukarest központjában.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "Jellegzetes ortodox templom Bukarest Amzei negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "A templom egy csodatévő ikonról kapta a nevét, Bukarest óvárosában található.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "Történelmi ortodox templom Bukarestben, amely vallási hagyományairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "A Colțea kórházkomplexum része, a templom a Brâncoveanu-stílus egyik remekműve.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "A régi Szent Elefterie-templom egy kis történelmi ékszerdoboz Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "Nagy méretű, modernebb ortodox templom Bukarestben, az Operaház közelében.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "Legendákkal és helyi történelemmel övezett ortodox templom Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "Szent Györgynek szentelt ortodox templom Bukarest Plevna negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "A 'Fehér templom' egy elegáns vallási műemlék Bukarestben, a Calea Victoriei úton.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica Domnița Bălașa",
+                  "text": "Ezt a pompás bukaresti templomot a Brâncoveanu család egyik hercegnője alapította.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "A Szent Vazul-székesegyház az első görögkatolikus templom Bukarestben.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "Emlékmű a Cișmigiu parkban, amely híres román írók mellszobrait mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Román Atheneum",
+                  "text": "Bukarest jelképe, egy pompás hangversenyterem és a román kultúra szimbóluma.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Történelmi domb Bukarestben, ahol ma a Parlamenti Palota található.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Dealul Mitropoliei",
+                  "text": "A domb Bukarest spirituális központja, itt található a patriarkális székesegyház.",
+                  "category": "natural",
+                  "coords": [
+                        26.097617,
+                        44.424384
+                  ]
+            },
+            {
+                  "name": "Parcul Carol",
+                  "text": "Elegáns bukaresti közpark, amely egy monumentális mauzóleumnak ad helyet.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Bukarest központi parkja, amely közvetlenül a Parlamenti Palotával szemben található.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Kiterjedt park Bukarest déli részén, nagy tóval és szabadidős létesítményekkel.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Parcul Cișmigiu",
+                  "text": "Bukarest legrégebbi közparkja, amely romantikus taváról és kertjeiről ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Bukaresti park, amely kör alakú taváról és az Állami Cirkusz épületéről ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Parcul Obor",
+                  "text": "Helyi park Bukarestben az Obor piac közelében, ideális rövid sétákhoz.",
+                  "category": "park",
+                  "coords": [
+                        26.126789,
+                        44.448239
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "Kicsi, csendes park Bukarestben, amelyet egy híres román zenészről neveztek el.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "Történelmi kert Bukarestben, amely pihentető hangulatáról ismert.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
                   ]
             }
       ],
@@ -11216,6 +24122,483 @@ export const romaniaCities: POI[] = [
                         26.0965,
                         44.432
                   ]
+            },
+            {
+                  "name": "Grădina Botanică",
+                  "text": "Grădina Botanică din București găzduiește mii de specii de plante și un muzeu botanic.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "Muzeul Teatrului Naţional",
+                  "text": "Muzeul documentează istoria bogată a teatrului românesc.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "Muzeul Militar Național \"Regele Ferdinand I\"",
+                  "text": "Este cel mai mare muzeu militar din țară, prezentând evoluția armatei române.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "Colecția \"Maria și Dr. George Severeanu\"",
+                  "text": "Muzeul expune o colecție importantă de monede antice și descoperiri arheologice.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "Muzeul \"Theodor Pallady\"",
+                  "text": "Muzeul este situat în casa istorică Melik și este dedicat pictorului Theodor Pallady.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Muzeul Colecțiilor de Artă",
+                  "text": "Muzeul adăpostește numeroase colecții de artă private donate statului.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă al României",
+                  "text": "Găzduit în fostul palat regal, muzeul expune artă românească și europeană importantă.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Artă Contemporană",
+                  "text": "Muzeul este situat într-o aripă a Palatului Parlamentului și prezintă artă modernă.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Hărților și Cărții Vechi",
+                  "text": "Muzeul prezintă o colecție impresionantă de hărți vechi și cărți rare.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "Muzeul Național al Țăranului Român",
+                  "text": "Muzeul este dedicat culturii tradiționale și vieții rurale din România.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "Muzeul Național de Istorie Naturală \"Grigore Antipa\"",
+                  "text": "Acest muzeu cunoscut oferă expoziții vaste despre flora și fauna din întreaga lume.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "Muzeul Național Geologic",
+                  "text": "Muzeul prezintă o varietate impresionantă de roci, minerale și fosile.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Palatul Crețulescu",
+                  "text": "Palatul Crețulescu este o clădire istorică impunătoare din centrul Bucureștiului.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "Observatorul Astronomic Municipal \"Amiral Vasile Urseanu\" Bucuresti",
+                  "text": "Observatorul oferă publicului posibilitatea de a face observații astronomice.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Memorialul Renașterii",
+                  "text": "Acest monument comemorează victimele revoluției române din 1989.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "Monumentul onorează infanteriștii români pentru sacrificiul lor în războaiele mondiale.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "Un monument în memoria eroilor artileriști căzuți la datorie.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "Un teatru modern din București, cunoscut pentru spectacolele sale diverse.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "Opera Națională",
+                  "text": "Opera Națională este principala instituție de operă și balet din România.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "Circul Globus este un loc cu tradiție pentru arta circului și divertisment.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "Această mănăstire istorică a fost mutată pe șine în anii '80 pe locul unde se află astăzi.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Antim",
+                  "text": "Mănăstirea a fost construită în secolul al XVIII-lea și este cunoscută pentru arhitectura sa bogată.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "O biserică ortodoxă situată în centrul vechi al Bucureștiului, dedicată Sfinților Împărați Constantin și Elena.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "Catedrala romano-catolică din București este un monument istoric și principalul lăcaș de cult catolic din oraș.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "O biserică ortodoxă istorică situată în zona centrală a Bucureștiului, în fostul cartier al tăbăcarilor.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "Biserica Sfântul Spiridon Nou este una dintre cele mai mari și impunătoare biserici ortodoxe din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "O biserică ortodoxă situată pe colina Gorgani, cunoscută pentru amplasarea sa pitorească în centrul orașului.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "Biserica Foișor este un lăcaș de cult ortodox din București, apreciat pentru arhitectura sa tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "O biserică istorică din centrul Bucureștiului, ctitorită de doamna Maria, soția lui Șerban Cantacuzino.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "Biserica Popa Chițu este un lăcaș de cult ortodox din București, purtând numele ctitorului său.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "Biserica Amzei este un reper spiritual și arhitectural important situat în apropierea Pieței Amzei din București.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "Biserica Icoanei este cunoscută pentru icoana făcătoare de minuni pe care o adăpostește în centrul Bucureștiului.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "Biserica Dobroteasa este un vechi lăcaș de cult ortodox din București, cu o istorie bogată.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "Biserica Colțea face parte din ansamblul spitalului omonim și este un monument de artă brâncovenească.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "Biserica Sfântul Elefterie Vechi este un lăcaș de cult istoric, remarcabil prin arhitectura sa armonioasă.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "Biserica Sfântul Elefterie Nou este un lăcaș de cult impunător, situat în apropierea Operei Naționale.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "Biserica Mântuleasa este un lăcaș de cult legendar din București, evocat adesea în literatura română.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "Biserica Sfântul Gheorghe - Plevna este un lăcaș de cult ortodox situat în zona central-vestică a capitalei.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "Biserica Albă este un monument religios elegant situat pe Calea Victoriei, renumit pentru pictura sa interioară.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Biserica  Domnița Bălașa",
+                  "text": "Biserica Domnița Bălașa este un lăcaș de cult impunător, ctitorit de a șasea fiică a lui Constantin Brâncoveanu.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Catedrala greco-catolică „Sfântul Vasile cel Mare”",
+                  "text": "Catedrala Sfântul Vasile cel Mare este prima biserică greco-catolică ridicată în București.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "Rotonda Scriitorilor este un ansamblu de busturi ale marilor scriitori români, situat în Parcul Cișmigiu.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Ateneul Român",
+                  "text": "Ateneul Român este o clădire emblematică a Bucureștiului, servind drept principală sală de concerte a orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "Dealul Arsenalului este locul unde a fost ridicat Palatul Parlamentului, transformând radical peisajul urban.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Dealul Mitropoliei",
+                  "text": "Dealul Mitropoliei este centrul spiritual al ortodoxiei române, găzduind Catedrala Patriarhală.",
+                  "category": "natural",
+                  "coords": [
+                        26.097617,
+                        44.424384
+                  ]
+            },
+            {
+                  "name": "Parcul Carol",
+                  "text": "Parcul Carol I este un parc istoric din București, amenajat în stil francez, dominat de Mausoleu.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Parcul Izvor",
+                  "text": "Parcul Izvor este un spațiu verde generos situat în imediata vecinătate a Palatului Parlamentului.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "Parcul Tineretului este unul dintre cele mai mari parcuri din București, oferind numeroase zone de recreere.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Parcul Cișmigiu",
+                  "text": "Grădina Cișmigiu este cel mai vechi parc din București, fiind o oază de liniște în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "Parcul Circului este amenajat în jurul unui lac cu lotuși, având ca reper clădirea Circului de Stat.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Parcul Obor",
+                  "text": "Parcul Obor este un spațiu verde situat în sectorul 2, în apropierea pieței istorice Obor.",
+                  "category": "park",
+                  "coords": [
+                        26.126789,
+                        44.448239
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "Parcul Ion Voicu, cunoscut și sub numele de Parcul Ioanid, este o grădină publică elegantă în centrul orașului.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "Grădina Icoanei este un parc pitoresc situat în centrul Bucureștiului, în apropierea bisericii omonime.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
+                  ]
             }
       ],
       "en": [
@@ -11297,6 +24680,483 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         26.0965,
                         44.432
+                  ]
+            },
+            {
+                  "name": "\"Dimitrie Brandza\" Botanic Garden",
+                  "text": "The Bucharest Botanic Garden houses thousands of plant species and a botanical museum.",
+                  "category": "museum",
+                  "coords": [
+                        26.066362,
+                        44.4369
+                  ]
+            },
+            {
+                  "name": "National Theatre Bucharest Museum",
+                  "text": "The museum documents the rich history of Romanian theatre.",
+                  "category": "museum",
+                  "coords": [
+                        26.103626,
+                        44.43763
+                  ]
+            },
+            {
+                  "name": "\"King Ferdinand I\" National Military Museum",
+                  "text": "It is the largest military museum in the country, showcasing the evolution of the Romanian army.",
+                  "category": "museum",
+                  "coords": [
+                        26.076483,
+                        44.441392
+                  ]
+            },
+            {
+                  "name": "\"Maria and Dr. George Severeanu\" Collection",
+                  "text": "The museum displays an important collection of ancient coins and archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        26.092928,
+                        44.447424
+                  ]
+            },
+            {
+                  "name": "\"Theodor Pallady\" Museum",
+                  "text": "The museum is located in the historic Melik House and is dedicated to painter Theodor Pallady.",
+                  "category": "museum",
+                  "coords": [
+                        26.113545,
+                        44.439129
+                  ]
+            },
+            {
+                  "name": "Art Collections Museum",
+                  "text": "The museum houses numerous private art collections donated to the state.",
+                  "category": "museum",
+                  "coords": [
+                        26.091422,
+                        44.444637
+                  ]
+            },
+            {
+                  "name": "National Museum of Art of Romania",
+                  "text": "Housed in the former Royal Palace, the museum displays important Romanian and European art.",
+                  "category": "museum",
+                  "coords": [
+                        26.095788,
+                        44.440074
+                  ]
+            },
+            {
+                  "name": "National Museum of Contemporary Art",
+                  "text": "The museum is located in a wing of the Palace of the Parliament and displays modern art.",
+                  "category": "museum",
+                  "coords": [
+                        26.086631,
+                        44.428136
+                  ]
+            },
+            {
+                  "name": "National Museum of Maps and Rare Books",
+                  "text": "The museum displays an impressive collection of old maps and rare books.",
+                  "category": "museum",
+                  "coords": [
+                        26.092772,
+                        44.456966
+                  ]
+            },
+            {
+                  "name": "National Museum of the Romanian Peasant",
+                  "text": "The museum is dedicated to traditional culture and rural life in Romania.",
+                  "category": "museum",
+                  "coords": [
+                        26.083983,
+                        44.454423
+                  ]
+            },
+            {
+                  "name": "\"Grigore Antipa\" Natural History National Museum",
+                  "text": "This well-known museum offers extensive exhibitions on flora and fauna worldwide.",
+                  "category": "museum",
+                  "coords": [
+                        26.084627,
+                        44.453096
+                  ]
+            },
+            {
+                  "name": "National Geological Museum",
+                  "text": "The museum presents an impressive variety of rocks, minerals, and fossils.",
+                  "category": "museum",
+                  "coords": [
+                        26.085221,
+                        44.454817
+                  ]
+            },
+            {
+                  "name": "Kretzulescu Palace",
+                  "text": "Crețulescu Palace is a magnificent historic building in the center of Bucharest.",
+                  "category": "castle",
+                  "coords": [
+                        26.088721,
+                        44.439531
+                  ]
+            },
+            {
+                  "name": "\"Admiral Vasile Urseanu\" Bucharest City Observatory",
+                  "text": "The observatory offers the public the opportunity for astronomical observation.",
+                  "category": "museum",
+                  "coords": [
+                        26.092891,
+                        44.448526
+                  ]
+            },
+            {
+                  "name": "Memorial of Rebirth",
+                  "text": "This monument commemorates the victims of the 1989 Romanian Revolution.",
+                  "category": "historical",
+                  "coords": [
+                        26.097454,
+                        44.438889
+                  ]
+            },
+            {
+                  "name": "Monumentul Infanteristului",
+                  "text": "The monument honors Romanian infantrymen for their sacrifice in the world wars.",
+                  "category": "historical",
+                  "coords": [
+                        26.069317,
+                        44.438194
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor Artileriști",
+                  "text": "A monument in memory of the artillery heroes who fell in the line of duty.",
+                  "category": "historical",
+                  "coords": [
+                        26.07236,
+                        44.43456
+                  ]
+            },
+            {
+                  "name": "Metropolis Teatrul",
+                  "text": "A modern theater in Bucharest, known for its diverse performances.",
+                  "category": "cultural",
+                  "coords": [
+                        26.108795,
+                        44.447378
+                  ]
+            },
+            {
+                  "name": "National Opera",
+                  "text": "The National Opera is the leading institution for opera and ballet in Romania.",
+                  "category": "cultural",
+                  "coords": [
+                        26.079552,
+                        44.436065
+                  ]
+            },
+            {
+                  "name": "Circul Globus",
+                  "text": "Globus Circus is a traditional venue for circus arts and entertainment.",
+                  "category": "cultural",
+                  "coords": [
+                        26.109527,
+                        44.45656
+                  ]
+            },
+            {
+                  "name": "Mănăstirea Mihai Vodă",
+                  "text": "This historic monastery was moved on rails to its current location in the 1980s.",
+                  "category": "religious",
+                  "coords": [
+                        26.093308,
+                        44.431554
+                  ]
+            },
+            {
+                  "name": "Antim Monastery",
+                  "text": "The monastery was built in the 18th century and is known for its rich architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.093471,
+                        44.426009
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfinții Împărați Constantin și Elena",
+                  "text": "An Orthodox church in Bucharest's Old Town, dedicated to Saints Constantine and Helen.",
+                  "category": "religious",
+                  "coords": [
+                        26.084835,
+                        44.436278
+                  ]
+            },
+            {
+                  "name": "Catedrala romano-catolică Sfântul Iosif",
+                  "text": "The main Roman Catholic cathedral in Bucharest, serving as an important historical and religious landmark.",
+                  "category": "religious",
+                  "coords": [
+                        26.091383,
+                        44.442105
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Apostol din Tabaci",
+                  "text": "A historic Orthodox church located in the Tabaci district of Bucharest's Old Town.",
+                  "category": "religious",
+                  "coords": [
+                        26.113996,
+                        44.418804
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Sfântul Spiridon Nou”",
+                  "text": "One of the largest Orthodox churches in Bucharest, known for its impressive scale and architecture.",
+                  "category": "religious",
+                  "coords": [
+                        26.1035,
+                        44.42388
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfântul Ilie” - Gorgani",
+                  "text": "An Orthodox church built on a small hill in the historical center of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.09123,
+                        44.433997
+                  ]
+            },
+            {
+                  "name": "Biserica Foișor",
+                  "text": "A charming Orthodox church in Bucharest with significant historical value.",
+                  "category": "religious",
+                  "coords": [
+                        26.123168,
+                        44.414777
+                  ]
+            },
+            {
+                  "name": "Biserica Doamnei",
+                  "text": "A historic Orthodox church in Bucharest's Old Town, founded by a Romanian princess.",
+                  "category": "religious",
+                  "coords": [
+                        26.098946,
+                        44.434535
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Popa Chițu”",
+                  "text": "An Orthodox church in Bucharest named after a local priest, known for its community history.",
+                  "category": "religious",
+                  "coords": [
+                        26.111424,
+                        44.44244
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă \"Amzei\"",
+                  "text": "A prominent Orthodox church located in the Amzei district of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.09385,
+                        44.444414
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Icoanei”",
+                  "text": "Named after a miraculous icon, this church is a spiritual center in the heart of Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.106517,
+                        44.442964
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă „Dobroteasa”",
+                  "text": "A historic Orthodox church in Bucharest, well-known for its long-standing religious traditions.",
+                  "category": "religious",
+                  "coords": [
+                        26.112374,
+                        44.422533
+                  ]
+            },
+            {
+                  "name": "Biserica Sfinții Trei Ierarhi - Coltea Colțea",
+                  "text": "Part of the Colțea Hospital complex, this church is a masterpiece of the Brâncovenesc architectural style.",
+                  "category": "religious",
+                  "coords": [
+                        26.103375,
+                        44.434668
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Vechi\"",
+                  "text": "The Old Saint Elefterie Church is a small, historic architectural gem in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.074547,
+                        44.433093
+                  ]
+            },
+            {
+                  "name": "Biserica \"Sfântul Elefterie Nou\"",
+                  "text": "A large, more modern Orthodox church in Bucharest, located near the National Opera.",
+                  "category": "religious",
+                  "coords": [
+                        26.077077,
+                        44.433488
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Mântuleasa",
+                  "text": "An Orthodox church in Bucharest often mentioned in Romanian literature and local legends.",
+                  "category": "religious",
+                  "coords": [
+                        26.1134,
+                        44.435186
+                  ]
+            },
+            {
+                  "name": "Biserica Ortodoxă Sfântul Gheorghe - Plevna",
+                  "text": "An Orthodox church in the Plevna area of Bucharest, dedicated to Saint George.",
+                  "category": "religious",
+                  "coords": [
+                        26.072921,
+                        44.440976
+                  ]
+            },
+            {
+                  "name": "Biserica Albă",
+                  "text": "The 'White Church' is an elegant religious monument on Bucharest's Calea Victoriei, known for its murals.",
+                  "category": "religious",
+                  "coords": [
+                        26.094866,
+                        44.442076
+                  ]
+            },
+            {
+                  "name": "Domnița Bălașa Church",
+                  "text": "This grand church in Bucharest was founded by a princess of the Brâncoveanu family.",
+                  "category": "religious",
+                  "coords": [
+                        26.100247,
+                        44.428241
+                  ]
+            },
+            {
+                  "name": "Cathedral of Saint Basil the Great",
+                  "text": "Saint Basil the Great Cathedral is the first Greek Catholic church built in Bucharest.",
+                  "category": "religious",
+                  "coords": [
+                        26.103812,
+                        44.449542
+                  ]
+            },
+            {
+                  "name": "Rotonda Scriitorilor",
+                  "text": "A circular monument in Cișmigiu Gardens featuring busts of famous Romanian writers.",
+                  "category": "landmark",
+                  "coords": [
+                        26.089158,
+                        44.436757
+                  ]
+            },
+            {
+                  "name": "Romanian Atheneum",
+                  "text": "The Romanian Athenaeum is an iconic concert hall and a major symbol of Romanian culture.",
+                  "category": "landmark",
+                  "coords": [
+                        26.097361,
+                        44.441368
+                  ]
+            },
+            {
+                  "name": "Dealul Arsenalului",
+                  "text": "A historic hill in Bucharest, now the site of the massive Palace of the Parliament.",
+                  "category": "natural",
+                  "coords": [
+                        26.078037,
+                        44.425748
+                  ]
+            },
+            {
+                  "name": "Dealul Mitropoliei",
+                  "text": "The spiritual heart of Bucharest, home to the Romanian Patriarchal Cathedral.",
+                  "category": "natural",
+                  "coords": [
+                        26.097617,
+                        44.424384
+                  ]
+            },
+            {
+                  "name": "Carol Park",
+                  "text": "An elegant public park in Bucharest featuring a monumental mausoleum and French-style gardens.",
+                  "category": "park",
+                  "coords": [
+                        26.096467,
+                        44.413988
+                  ]
+            },
+            {
+                  "name": "Izvor Park",
+                  "text": "A central park in Bucharest located directly across from the Palace of the Parliament.",
+                  "category": "park",
+                  "coords": [
+                        26.087567,
+                        44.431811
+                  ]
+            },
+            {
+                  "name": "Parcul Tineretului",
+                  "text": "A vast park in southern Bucharest featuring a large lake and extensive recreational facilities.",
+                  "category": "park",
+                  "coords": [
+                        26.109343,
+                        44.406294
+                  ]
+            },
+            {
+                  "name": "Cișmigiu Gardens",
+                  "text": "The oldest public park in Bucharest, famous for its romantic lake and English-style gardens.",
+                  "category": "park",
+                  "coords": [
+                        26.090355,
+                        44.437217
+                  ]
+            },
+            {
+                  "name": "Parcul Circului",
+                  "text": "A park in Bucharest known for its lotus-filled lake and the State Circus building.",
+                  "category": "park",
+                  "coords": [
+                        26.110516,
+                        44.457203
+                  ]
+            },
+            {
+                  "name": "Parcul Obor",
+                  "text": "A neighborhood park in Bucharest located near the historic Obor Market.",
+                  "category": "park",
+                  "coords": [
+                        26.126789,
+                        44.448239
+                  ]
+            },
+            {
+                  "name": "Parcul Ion Voicu",
+                  "text": "A small, peaceful park in Bucharest named after a famous Romanian musician.",
+                  "category": "park",
+                  "coords": [
+                        26.104768,
+                        44.445591
+                  ]
+            },
+            {
+                  "name": "Grădina Icoanei",
+                  "text": "A historic garden in Bucharest known for its picturesque setting and relaxed atmosphere.",
+                  "category": "park",
+                  "coords": [
+                        26.103709,
+                        44.443503
                   ]
             }
       ]
@@ -11452,6 +25312,24 @@ export const romaniaCities: POI[] = [
                         25.941146,
                         47.636975
                   ]
+            },
+            {
+                  "name": "Ștrand apă sărată",
+                  "text": "Ein Freibad mit Salzwasser in der Nähe des Salzbergwerks Cacica.",
+                  "category": "recreational",
+                  "coords": [
+                        25.897004,
+                        47.635266
+                  ]
+            },
+            {
+                  "name": "Sunny Days - piscină cu apă sărată",
+                  "text": "Ein moderner Freizeitkomplex mit Salzwasserpool in Cacica.",
+                  "category": "recreational",
+                  "coords": [
+                        25.905796,
+                        47.637783
+                  ]
             }
       ],
       "hu": [
@@ -11463,6 +25341,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.941146,
                         47.636975
+                  ]
+            },
+            {
+                  "name": "Ștrand apă sărată",
+                  "text": "Sós vizű szabadtéri strand a kacikai sóbánya közelében.",
+                  "category": "recreational",
+                  "coords": [
+                        25.897004,
+                        47.635266
+                  ]
+            },
+            {
+                  "name": "Sunny Days - piscină cu apă sărată",
+                  "text": "Modern szabadidős központ sós vizű medencével Kacikán.",
+                  "category": "recreational",
+                  "coords": [
+                        25.905796,
+                        47.637783
                   ]
             }
       ],
@@ -11476,6 +25372,24 @@ export const romaniaCities: POI[] = [
                         25.941146,
                         47.636975
                   ]
+            },
+            {
+                  "name": "Ștrand apă sărată",
+                  "text": "Un ștrand cu apă sărată situat în apropierea salinei Cacica.",
+                  "category": "recreational",
+                  "coords": [
+                        25.897004,
+                        47.635266
+                  ]
+            },
+            {
+                  "name": "Sunny Days - piscină cu apă sărată",
+                  "text": "Un complex modern de agrement cu piscină cu apă sărată în Cacica.",
+                  "category": "recreational",
+                  "coords": [
+                        25.905796,
+                        47.637783
+                  ]
             }
       ],
       "en": [
@@ -11487,6 +25401,24 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.941146,
                         47.636975
+                  ]
+            },
+            {
+                  "name": "Ștrand apă sărată",
+                  "text": "An outdoor salt-water swimming pool located near the Cacica salt mine.",
+                  "category": "recreational",
+                  "coords": [
+                        25.897004,
+                        47.635266
+                  ]
+            },
+            {
+                  "name": "Sunny Days - piscină cu apă sărată",
+                  "text": "A modern leisure complex featuring a salt-water pool in Cacica.",
+                  "category": "recreational",
+                  "coords": [
+                        25.905796,
+                        47.637783
                   ]
             }
       ]
@@ -11557,6 +25489,33 @@ export const romaniaCities: POI[] = [
                         25.465705,
                         45.591726
                   ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "Ein kleines Museum innerhalb des Dino Parc Râșnov, das über prähistorische Zeiten informiert.",
+                  "category": "landmark",
+                  "coords": [
+                        25.467831,
+                        45.590554
+                  ]
+            },
+            {
+                  "name": "Capela de jos",
+                  "text": "Historische Überreste einer Kapelle in der Nähe der Festung von Râșnov.",
+                  "category": "historical",
+                  "coords": [
+                        25.470573,
+                        45.590733
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae vechi",
+                  "text": "Eine alte orthodoxe Kirche in Râșnov, die dem Heiligen Nikolaus gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        25.463391,
+                        45.583597
+                  ]
             }
       ],
       "hu": [
@@ -11598,6 +25557,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.465705,
                         45.591726
+                  ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "Egy kis múzeum a barcarozsnyói Dino Parc területén, amely a történelem előtti időkről nyújt tájékoztatást.",
+                  "category": "landmark",
+                  "coords": [
+                        25.467831,
+                        45.590554
+                  ]
+            },
+            {
+                  "name": "Capela de jos",
+                  "text": "Egy kápolna történelmi maradványai a barcarozsnyói vár közelében.",
+                  "category": "historical",
+                  "coords": [
+                        25.470573,
+                        45.590733
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae vechi",
+                  "text": "Szent Miklósnak szentelt régi ortodox templom Barcarozsnyón.",
+                  "category": "religious",
+                  "coords": [
+                        25.463391,
+                        45.583597
                   ]
             }
       ],
@@ -11641,6 +25627,33 @@ export const romaniaCities: POI[] = [
                         25.465705,
                         45.591726
                   ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "O secție muzeală situată în cadrul Dino Parc Râșnov, dedicată paleontologiei.",
+                  "category": "landmark",
+                  "coords": [
+                        25.467831,
+                        45.590554
+                  ]
+            },
+            {
+                  "name": "Capela de jos",
+                  "text": "Ruinele unei capele istorice situate în zona cetății medievale a Râșnovului.",
+                  "category": "historical",
+                  "coords": [
+                        25.470573,
+                        45.590733
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae vechi",
+                  "text": "Biserica Sfântul Nicolae din Râșnov este un vechi monument ortodox, îmbinând elemente bizantine și gotice.",
+                  "category": "religious",
+                  "coords": [
+                        25.463391,
+                        45.583597
+                  ]
             }
       ],
       "en": [
@@ -11682,6 +25695,33 @@ export const romaniaCities: POI[] = [
                   "coords": [
                         25.465705,
                         45.591726
+                  ]
+            },
+            {
+                  "name": "Muzeu",
+                  "text": "A small museum located within Dino Parc Râșnov, providing information on prehistoric eras.",
+                  "category": "landmark",
+                  "coords": [
+                        25.467831,
+                        45.590554
+                  ]
+            },
+            {
+                  "name": "Lower Chapel",
+                  "text": "The historical ruins of a chapel located near the medieval fortress of Râșnov.",
+                  "category": "historical",
+                  "coords": [
+                        25.470573,
+                        45.590733
+                  ]
+            },
+            {
+                  "name": "Biserica Sfântul Nicolae vechi",
+                  "text": "An ancient Orthodox church in Râșnov, dedicated to Saint Nicholas.",
+                  "category": "religious",
+                  "coords": [
+                        25.463391,
+                        45.583597
                   ]
             }
       ]
@@ -16157,6 +30197,51 @@ export const romaniaExtraPois: POI[] = [
                         22.414455,
                         44.87967
                   ]
+            },
+            {
+                  "name": "Muzeul Stațiunii Băile Herculane",
+                  "text": "Museum in Herkulesbad, das die Geschichte des Ortes als Kurort präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        22.424937,
+                        44.887984
+                  ]
+            },
+            {
+                  "name": "Tourismuscenter und Parkverwaltung Nationalpark Domogled-Valea Cernei",
+                  "text": "Besucherzentrum und Museum für den Nationalpark Domogled-Valea Cernei bei Herkulesbad.",
+                  "category": "museum",
+                  "coords": [
+                        22.430088,
+                        44.901661
+                  ]
+            },
+            {
+                  "name": "Casa de la Podul Roșu",
+                  "text": "Lokales Museum oder kulturelle Stätte im Kurort Herkulesbad.",
+                  "category": "museum",
+                  "coords": [
+                        22.41515,
+                        44.88191
+                  ]
+            },
+            {
+                  "name": "Stanca lui Sisi",
+                  "text": "Aussichtspunkt bei Herkulesbad, der einen weiten Blick über die Landschaft bietet.",
+                  "category": "natural",
+                  "coords": [
+                        22.42672,
+                        44.8983
+                  ]
+            },
+            {
+                  "name": "Vila Elisabeta",
+                  "text": "Historische Villa in Herkulesbad, die mit Kaiserin Elisabeth (Sisi) verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        22.423736,
+                        44.888922
+                  ]
             }
       ],
       "hu": [
@@ -16198,6 +30283,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         22.414455,
                         44.87967
+                  ]
+            },
+            {
+                  "name": "Muzeul Stațiunii Băile Herculane",
+                  "text": "Herkulesfürdői múzeum, amely a település fürdővárosi múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        22.424937,
+                        44.887984
+                  ]
+            },
+            {
+                  "name": "Administrația Parcului Național Domogled-Valea Cernei",
+                  "text": "A Domogled-Cserna-völgy Nemzeti Park látogatóközpontja és múzeuma Herkulesfürdőnél.",
+                  "category": "museum",
+                  "coords": [
+                        22.430088,
+                        44.901661
+                  ]
+            },
+            {
+                  "name": "Casa de la Podul Roșu",
+                  "text": "Helyi múzeum vagy kulturális helyszín Herkulesfürdő városában.",
+                  "category": "museum",
+                  "coords": [
+                        22.41515,
+                        44.88191
+                  ]
+            },
+            {
+                  "name": "Sissi-kilátó",
+                  "text": "Kilátóhely Herkulesfürdőnél, ahonnan panorámás kilátás nyílik a tájra.",
+                  "category": "natural",
+                  "coords": [
+                        22.42672,
+                        44.8983
+                  ]
+            },
+            {
+                  "name": "Erzsébet villa",
+                  "text": "Történelmi villa Herkulesfürdőn, amely Erzsébet királyné (Sisi) nevéhez fűződik.",
+                  "category": "landmark",
+                  "coords": [
+                        22.423736,
+                        44.888922
                   ]
             }
       ],
@@ -16241,6 +30371,51 @@ export const romaniaExtraPois: POI[] = [
                         22.414455,
                         44.87967
                   ]
+            },
+            {
+                  "name": "Muzeul Stațiunii Băile Herculane",
+                  "text": "Muzeu din Băile Herculane care prezintă istoria localității ca stațiune balneară.",
+                  "category": "museum",
+                  "coords": [
+                        22.424937,
+                        44.887984
+                  ]
+            },
+            {
+                  "name": "Administrația Parcului Național Domogled-Valea Cernei",
+                  "text": "Centru de vizitare și muzeu al Parcului Național Domogled-Valea Cernei, lângă Băile Herculane.",
+                  "category": "museum",
+                  "coords": [
+                        22.430088,
+                        44.901661
+                  ]
+            },
+            {
+                  "name": "Casa de la Podul Roșu",
+                  "text": "Muzeu local sau sit cultural în orașul stațiune Băile Herculane.",
+                  "category": "museum",
+                  "coords": [
+                        22.41515,
+                        44.88191
+                  ]
+            },
+            {
+                  "name": "Stanca lui Sisi",
+                  "text": "Punct de belvedere lângă Băile Herculane, oferind vederi panoramice asupra peisajului.",
+                  "category": "natural",
+                  "coords": [
+                        22.42672,
+                        44.8983
+                  ]
+            },
+            {
+                  "name": "Vila Elisabeta",
+                  "text": "Vilă istorică din Băile Herculane asociată cu împărăteasa Elisabeta (Sisi).",
+                  "category": "landmark",
+                  "coords": [
+                        22.423736,
+                        44.888922
+                  ]
             }
       ],
       "en": [
@@ -16282,6 +30457,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         22.414455,
                         44.87967
+                  ]
+            },
+            {
+                  "name": "Herculane Spa Museum",
+                  "text": "Museum in Herkulesbad showcasing the town's history as a spa resort.",
+                  "category": "museum",
+                  "coords": [
+                        22.424937,
+                        44.887984
+                  ]
+            },
+            {
+                  "name": "Administrația Parcului Național Domogled-Valea Cernei",
+                  "text": "Visitor center and museum for the Domogled-Valea Cernei National Park near Herkulesbad.",
+                  "category": "museum",
+                  "coords": [
+                        22.430088,
+                        44.901661
+                  ]
+            },
+            {
+                  "name": "Casa de la Podul Roșu",
+                  "text": "Local museum or cultural site in the spa town of Herkulesbad.",
+                  "category": "museum",
+                  "coords": [
+                        22.41515,
+                        44.88191
+                  ]
+            },
+            {
+                  "name": "Stanca lui Sisi",
+                  "text": "Viewpoint near Herkulesbad offering panoramic views of the landscape.",
+                  "category": "natural",
+                  "coords": [
+                        22.42672,
+                        44.8983
+                  ]
+            },
+            {
+                  "name": "Vila Elisabeta",
+                  "text": "Historic villa in Herkulesbad associated with Empress Elisabeth (Sisi).",
+                  "category": "landmark",
+                  "coords": [
+                        22.423736,
+                        44.888922
                   ]
             }
       ]
@@ -16411,6 +30631,87 @@ export const romaniaExtraPois: POI[] = [
                         25.810221,
                         45.863256
                   ]
+            },
+            {
+                  "name": "Teatrul Tamási Áron, Sala Kamara",
+                  "text": "Die Studiobühne des Tamási-Áron-Theaters für experimentelle und kleinere Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783099,
+                        45.86256
+                  ]
+            },
+            {
+                  "name": "Muzeul Spiritualității Românești",
+                  "text": "Ein Museum, das das religiöse und kulturelle Erbe der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        25.787392,
+                        45.864489
+                  ]
+            },
+            {
+                  "name": "Teatrul Andrei Mureșanu",
+                  "text": "Das rumänischsprachige Stadttheater von Sfântu Gheorghe.",
+                  "category": "cultural",
+                  "coords": [
+                        25.788395,
+                        45.867856
+                  ]
+            },
+            {
+                  "name": "Expoziția Cinegetică a Ținutului Secuiesc",
+                  "text": "Eine bedeutende Sammlung zur Jagdkultur und Fauna des Szeklerlandes.",
+                  "category": "museum",
+                  "coords": [
+                        25.789213,
+                        45.864638
+                  ]
+            },
+            {
+                  "name": "Cetatea Cocostârcului",
+                  "text": "Eine archäologische Fundstätte mit Überresten historischer Befestigungen.",
+                  "category": "historical",
+                  "coords": [
+                        25.762583,
+                        45.875709
+                  ]
+            },
+            {
+                  "name": "Őrkő",
+                  "text": "Eine bedeutende prähistorische archäologische Ausgrabungsstätte.",
+                  "category": "historical",
+                  "coords": [
+                        25.762894,
+                        45.869578
+                  ]
+            },
+            {
+                  "name": "Dózsa György klub",
+                  "text": "Ein lokales Kulturzentrum und Veranstaltungsort für Theateraufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783218,
+                        45.859609
+                  ]
+            },
+            {
+                  "name": "Vártemplom",
+                  "text": "Eine historische reformierte Wehrkirche, ein Wahrzeichen von Sfântu Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785965,
+                        45.873127
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică \"Sfântul Iosif\"",
+                  "text": "Die römisch-katholische Hauptkirche der Stadt Sfântu Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        25.785883,
+                        45.863765
+                  ]
             }
       ],
       "hu": [
@@ -16482,6 +30783,87 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.810221,
                         45.863256
+                  ]
+            },
+            {
+                  "name": "Tamási Áron Színház, Kamaraterem",
+                  "text": "A Tamási Áron Színház kamaraterme kísérleti és kisebb lélegzetű előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783099,
+                        45.86256
+                  ]
+            },
+            {
+                  "name": "Muzeul Spiritualității Românești",
+                  "text": "A régió vallási és kulturális örökségét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        25.787392,
+                        45.864489
+                  ]
+            },
+            {
+                  "name": "Andrei Mureșanu Színház",
+                  "text": "Sepsiszentgyörgy román nyelvű állami színháza.",
+                  "category": "cultural",
+                  "coords": [
+                        25.788395,
+                        45.867856
+                  ]
+            },
+            {
+                  "name": "Székelyföldi Vadászati Kiállítás",
+                  "text": "A Székelyföld vadászati kultúráját és faunáját bemutató jelentős gyűjtemény.",
+                  "category": "museum",
+                  "coords": [
+                        25.789213,
+                        45.864638
+                  ]
+            },
+            {
+                  "name": "Gémvára",
+                  "text": "Régészeti lelőhely történelmi erődítmények maradványaival.",
+                  "category": "historical",
+                  "coords": [
+                        25.762583,
+                        45.875709
+                  ]
+            },
+            {
+                  "name": "Őrkő",
+                  "text": "Jelentős őskori régészeti lelőhely.",
+                  "category": "historical",
+                  "coords": [
+                        25.762894,
+                        45.869578
+                  ]
+            },
+            {
+                  "name": "Dózsa György klub",
+                  "text": "Helyi kulturális központ és színházi előadások helyszíne.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783218,
+                        45.859609
+                  ]
+            },
+            {
+                  "name": "Vártemplom",
+                  "text": "Történelmi református vártemplom, Sepsiszentgyörgy egyik jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785965,
+                        45.873127
+                  ]
+            },
+            {
+                  "name": "Szent József római katolikus templom",
+                  "text": "Sepsiszentgyörgy városának fő római katolikus temploma.",
+                  "category": "religious",
+                  "coords": [
+                        25.785883,
+                        45.863765
                   ]
             }
       ],
@@ -16555,6 +30937,87 @@ export const romaniaExtraPois: POI[] = [
                         25.810221,
                         45.863256
                   ]
+            },
+            {
+                  "name": "Teatrul Tamási Áron, Sala Kamara",
+                  "text": "Sala studio a Teatrului Tamási Áron, destinată spectacolelor experimentale și intime.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783099,
+                        45.86256
+                  ]
+            },
+            {
+                  "name": "Muzeul Spiritualității Românești",
+                  "text": "Un muzeu care prezintă moștenirea religioasă și culturală a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        25.787392,
+                        45.864489
+                  ]
+            },
+            {
+                  "name": "Teatrul Andrei Mureșanu",
+                  "text": "Teatrul de stat în limba română din Sfântu Gheorghe.",
+                  "category": "cultural",
+                  "coords": [
+                        25.788395,
+                        45.867856
+                  ]
+            },
+            {
+                  "name": "Expoziția Cinegetică a Ținutului Secuiesc",
+                  "text": "O colecție importantă dedicată cinegeticii și faunei din Ținutul Secuiesc.",
+                  "category": "museum",
+                  "coords": [
+                        25.789213,
+                        45.864638
+                  ]
+            },
+            {
+                  "name": "Cetatea Cocostârcului",
+                  "text": "Un sit arheologic ce cuprinde vestigii ale unor fortificații istorice.",
+                  "category": "historical",
+                  "coords": [
+                        25.762583,
+                        45.875709
+                  ]
+            },
+            {
+                  "name": "Őrkő",
+                  "text": "Un sit arheologic preistoric de o importanță deosebită.",
+                  "category": "historical",
+                  "coords": [
+                        25.762894,
+                        45.869578
+                  ]
+            },
+            {
+                  "name": "Dózsa György klub",
+                  "text": "Un centru cultural local și loc de desfășurare a spectacolelor de teatru.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783218,
+                        45.859609
+                  ]
+            },
+            {
+                  "name": "Cetatea Biserica Reformată",
+                  "text": "O biserică reformată fortificată istorică, monument reprezentativ al orașului Sfântu Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785965,
+                        45.873127
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică \"Sfântul Iosif\"",
+                  "text": "Biserica romano-catolică principală din Sfântu Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        25.785883,
+                        45.863765
+                  ]
             }
       ],
       "en": [
@@ -16626,6 +31089,87 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         25.810221,
                         45.863256
+                  ]
+            },
+            {
+                  "name": "Teatrul Tamási Áron, Sala Kamara",
+                  "text": "The studio stage of the Tamási Áron Theatre for experimental and smaller performances.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783099,
+                        45.86256
+                  ]
+            },
+            {
+                  "name": "Museum of Romanian Spirituality",
+                  "text": "A museum presenting the religious and cultural heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        25.787392,
+                        45.864489
+                  ]
+            },
+            {
+                  "name": "Teatrul Andrei Mureșanu",
+                  "text": "The Romanian-language state theatre of Sfântu Gheorghe.",
+                  "category": "cultural",
+                  "coords": [
+                        25.788395,
+                        45.867856
+                  ]
+            },
+            {
+                  "name": "Expoziția Cinegetică a Ținutului Secuiesc",
+                  "text": "A significant collection dedicated to the hunting culture and fauna of the Szeklerland.",
+                  "category": "museum",
+                  "coords": [
+                        25.789213,
+                        45.864638
+                  ]
+            },
+            {
+                  "name": "Cetatea Cocostârcului",
+                  "text": "An archaeological site containing remains of historical fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        25.762583,
+                        45.875709
+                  ]
+            },
+            {
+                  "name": "Őrkő",
+                  "text": "A significant prehistoric archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        25.762894,
+                        45.869578
+                  ]
+            },
+            {
+                  "name": "Dózsa György klub",
+                  "text": "A local cultural center and venue for theatrical performances.",
+                  "category": "cultural",
+                  "coords": [
+                        25.783218,
+                        45.859609
+                  ]
+            },
+            {
+                  "name": "Vártemplom",
+                  "text": "A historic fortified Reformed church, a landmark of Sfântu Gheorghe.",
+                  "category": "landmark",
+                  "coords": [
+                        25.785965,
+                        45.873127
+                  ]
+            },
+            {
+                  "name": "Biserica Romano-Catolică \"Sfântul Iosif\"",
+                  "text": "The main Roman Catholic church in Sfântu Gheorghe.",
+                  "category": "religious",
+                  "coords": [
+                        25.785883,
+                        45.863765
                   ]
             }
       ]
@@ -17013,6 +31557,51 @@ export const romaniaExtraPois: POI[] = [
                         27.375709,
                         44.562357
                   ]
+            },
+            {
+                  "name": "Sala Europa",
+                  "text": "Ein kultureller Veranstaltungsort in Slobozia für Theateraufführungen und Konzerte.",
+                  "category": "cultural",
+                  "coords": [
+                        27.360492,
+                        44.562923
+                  ]
+            },
+            {
+                  "name": "Eroul Necunoscut",
+                  "text": "Ein Denkmal in Slobozia, das den unbekannten Helden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        27.35896,
+                        44.556314
+                  ]
+            },
+            {
+                  "name": "Sala pentru festivități",
+                  "text": "Ein Zentrum für Kunst und Kultur in Slobozia, das für verschiedene Veranstaltungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        27.3661,
+                        44.562736
+                  ]
+            },
+            {
+                  "name": "Replică Turnul Eiffel",
+                  "text": "Eine verkleinerte Nachbildung des Eiffelturms in Slobozia.",
+                  "category": "landmark",
+                  "coords": [
+                        27.333129,
+                        44.557519
+                  ]
+            },
+            {
+                  "name": "Catedrala Episcopală Ortodoxă a Sloboziei și Călărașilor",
+                  "text": "Die orthodoxe Kathedrale ist der religiöse Mittelpunkt von Slobozia.",
+                  "category": "religious",
+                  "coords": [
+                        27.359966,
+                        44.55733
+                  ]
             }
       ],
       "hu": [
@@ -17064,6 +31653,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         27.375709,
                         44.562357
+                  ]
+            },
+            {
+                  "name": "Sala Europa",
+                  "text": "Kulturális helyszín Sloboziában színházi előadásokhoz és koncertekhez.",
+                  "category": "cultural",
+                  "coords": [
+                        27.360492,
+                        44.562923
+                  ]
+            },
+            {
+                  "name": "Eroul Necunoscut",
+                  "text": "Sloboziai emlékmű, amelyet az ismeretlen hősöknek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        27.35896,
+                        44.556314
+                  ]
+            },
+            {
+                  "name": "Sala pentru festivități",
+                  "text": "Művészeti és kulturális központ Sloboziában, amelyet különféle rendezvényekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        27.3661,
+                        44.562736
+                  ]
+            },
+            {
+                  "name": "Replică Turnul Eiffel",
+                  "text": "Az Eiffel-torony kicsinyített másolata Sloboziában.",
+                  "category": "landmark",
+                  "coords": [
+                        27.333129,
+                        44.557519
+                  ]
+            },
+            {
+                  "name": "Catedrala Episcopală Ortodoxă a Sloboziei și Călărașilor",
+                  "text": "Az ortodox székesegyház Slobozia vallási központja.",
+                  "category": "religious",
+                  "coords": [
+                        27.359966,
+                        44.55733
                   ]
             }
       ],
@@ -17117,6 +31751,51 @@ export const romaniaExtraPois: POI[] = [
                         27.375709,
                         44.562357
                   ]
+            },
+            {
+                  "name": "Sala Europa",
+                  "text": "Sala Europa este un spațiu cultural din Slobozia destinat spectacolelor și evenimentelor publice.",
+                  "category": "cultural",
+                  "coords": [
+                        27.360492,
+                        44.562923
+                  ]
+            },
+            {
+                  "name": "Eroul Necunoscut",
+                  "text": "Monumentul Eroului Necunoscut din Slobozia onorează sacrificiul soldaților români.",
+                  "category": "historical",
+                  "coords": [
+                        27.35896,
+                        44.556314
+                  ]
+            },
+            {
+                  "name": "Sala pentru festivități",
+                  "text": "Un centru local dedicat activităților artistice și festivităților comunității din Slobozia.",
+                  "category": "cultural",
+                  "coords": [
+                        27.3661,
+                        44.562736
+                  ]
+            },
+            {
+                  "name": "Replică Turnul Eiffel",
+                  "text": "O replică la scară redusă a celebrului Turn Eiffel, situată în Slobozia.",
+                  "category": "landmark",
+                  "coords": [
+                        27.333129,
+                        44.557519
+                  ]
+            },
+            {
+                  "name": "Catedrala Episcopală Ortodoxă a Sloboziei și Călărașilor",
+                  "text": "Catedrala Episcopală Înălțarea Domnului este principalul lăcaș de cult ortodox din Slobozia.",
+                  "category": "religious",
+                  "coords": [
+                        27.359966,
+                        44.55733
+                  ]
             }
       ],
       "en": [
@@ -17168,6 +31847,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         27.375709,
                         44.562357
+                  ]
+            },
+            {
+                  "name": "Sala Europa",
+                  "text": "A cultural venue in Slobozia used for theatrical performances, concerts, and public events.",
+                  "category": "cultural",
+                  "coords": [
+                        27.360492,
+                        44.562923
+                  ]
+            },
+            {
+                  "name": "Eroul Necunoscut",
+                  "text": "A monument in Slobozia dedicated to the memory of the Unknown Hero.",
+                  "category": "historical",
+                  "coords": [
+                        27.35896,
+                        44.556314
+                  ]
+            },
+            {
+                  "name": "Sala pentru festivități",
+                  "text": "An arts and cultural center in Slobozia used for various community events and celebrations.",
+                  "category": "cultural",
+                  "coords": [
+                        27.3661,
+                        44.562736
+                  ]
+            },
+            {
+                  "name": "Replică Turnul Eiffel",
+                  "text": "A small-scale replica of the famous Eiffel Tower located in Slobozia.",
+                  "category": "landmark",
+                  "coords": [
+                        27.333129,
+                        44.557519
+                  ]
+            },
+            {
+                  "name": "Catedrala Episcopală Ortodoxă a Sloboziei și Călărașilor",
+                  "text": "The Orthodox Cathedral serves as the main religious center of Slobozia.",
+                  "category": "religious",
+                  "coords": [
+                        27.359966,
+                        44.55733
                   ]
             }
       ]
@@ -17516,6 +32240,69 @@ export const romaniaExtraPois: POI[] = [
                         24.375453,
                         44.427493
                   ]
+            },
+            {
+                  "name": "Centrul Militar Slatina",
+                  "text": "Militärhistorisches Museum oder Ausstellungszentrum in Slatina.",
+                  "category": "museum",
+                  "coords": [
+                        24.353989,
+                        44.429885
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Tineretului",
+                  "text": "Theater und Kulturstätte für Jugendveranstaltungen in Slatina.",
+                  "category": "cultural",
+                  "coords": [
+                        24.376951,
+                        44.426066
+                  ]
+            },
+            {
+                  "name": "Parc Pitești",
+                  "text": "Zentraler Stadtpark in Slatina, der Raum für Erholung im Grünen bietet.",
+                  "category": "park",
+                  "coords": [
+                        24.364925,
+                        44.432519
+                  ]
+            },
+            {
+                  "name": "Atelierul Albanez",
+                  "text": "Traditionelles lokales Geschäft oder Werkstatt und eine Sehenswürdigkeit in Slatina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.357716,
+                        44.430353
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Victoria",
+                  "text": "Kunstzentrum in Slatina, das verschiedene kulturelle Veranstaltungen und Ausstellungen beherbergt.",
+                  "category": "cultural",
+                  "coords": [
+                        24.356527,
+                        44.428816
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați”",
+                  "text": "Historische orthodoxe Kirche in Slatina, die den Heiligen Kaisern gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        24.363469,
+                        44.43171
+                  ]
+            },
+            {
+                  "name": "Catedrala Slatina",
+                  "text": "Die orthodoxe Hauptkathedrale und ein markantes Wahrzeichen von Slatina.",
+                  "category": "religious",
+                  "coords": [
+                        24.354213,
+                        44.430837
+                  ]
             }
       ],
       "hu": [
@@ -17607,6 +32394,69 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.375453,
                         44.427493
+                  ]
+            },
+            {
+                  "name": "Centrul Militar Slatina",
+                  "text": "Hadtörténeti múzeum vagy kiállítási központ Szlatinán.",
+                  "category": "museum",
+                  "coords": [
+                        24.353989,
+                        44.429885
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Tineretului",
+                  "text": "Színház és kulturális helyszín ifjúsági rendezvények számára Szlatinán.",
+                  "category": "cultural",
+                  "coords": [
+                        24.376951,
+                        44.426066
+                  ]
+            },
+            {
+                  "name": "Parc Pitești",
+                  "text": "Szlatinai központi közpark, amely zöldterületet kínál a kikapcsolódáshoz.",
+                  "category": "park",
+                  "coords": [
+                        24.364925,
+                        44.432519
+                  ]
+            },
+            {
+                  "name": "Atelierul Albanez",
+                  "text": "Hagyományos helyi üzlet vagy műhely, amely Szlatina egyik nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        24.357716,
+                        44.430353
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Victoria",
+                  "text": "Művészeti központ Szlatinán, amely különféle kulturális eseményeknek és kiállításoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        24.356527,
+                        44.428816
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați”",
+                  "text": "Történelmi ortodox templom Szlatinán, amelyet a Szent Császároknak szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        24.363469,
+                        44.43171
+                  ]
+            },
+            {
+                  "name": "Catedrala Slatina",
+                  "text": "Szlatina fő ortodox székesegyháza és a város egyik meghatározó jelképe.",
+                  "category": "religious",
+                  "coords": [
+                        24.354213,
+                        44.430837
                   ]
             }
       ],
@@ -17700,6 +32550,69 @@ export const romaniaExtraPois: POI[] = [
                         24.375453,
                         44.427493
                   ]
+            },
+            {
+                  "name": "Centrul Militar Slatina",
+                  "text": "Muzeu de istorie militară sau centru expozițional din Slatina.",
+                  "category": "museum",
+                  "coords": [
+                        24.353989,
+                        44.429885
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Tineretului",
+                  "text": "Teatru și spațiu cultural pentru evenimente dedicate tineretului din Slatina.",
+                  "category": "cultural",
+                  "coords": [
+                        24.376951,
+                        44.426066
+                  ]
+            },
+            {
+                  "name": "Parc Pitești",
+                  "text": "Parc public central din Slatina, oferind spațiu verde pentru relaxare.",
+                  "category": "park",
+                  "coords": [
+                        24.364925,
+                        44.432519
+                  ]
+            },
+            {
+                  "name": "Atelierul Albanez",
+                  "text": "Atelier local tradițional și o atracție în orașul Slatina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.357716,
+                        44.430353
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Victoria",
+                  "text": "Centru de artă din Slatina care găzduiește diverse evenimente culturale și expoziții.",
+                  "category": "cultural",
+                  "coords": [
+                        24.356527,
+                        44.428816
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați”",
+                  "text": "Biserică ortodoxă istorică din Slatina, dedicată Sfinților Împărați Constantin și Elena.",
+                  "category": "religious",
+                  "coords": [
+                        24.363469,
+                        44.43171
+                  ]
+            },
+            {
+                  "name": "Catedrala Slatina",
+                  "text": "Catedrala ortodoxă principală și un reper major al orașului Slatina.",
+                  "category": "religious",
+                  "coords": [
+                        24.354213,
+                        44.430837
+                  ]
             }
       ],
       "en": [
@@ -17791,6 +32704,69 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         24.375453,
                         44.427493
+                  ]
+            },
+            {
+                  "name": "Centrul Militar Slatina",
+                  "text": "Military history museum or exhibition center in Slatina.",
+                  "category": "museum",
+                  "coords": [
+                        24.353989,
+                        44.429885
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Tineretului",
+                  "text": "Theatre and cultural venue for youth events in Slatina.",
+                  "category": "cultural",
+                  "coords": [
+                        24.376951,
+                        44.426066
+                  ]
+            },
+            {
+                  "name": "Parc Pitești",
+                  "text": "Central public park in Slatina offering green space for relaxation.",
+                  "category": "park",
+                  "coords": [
+                        24.364925,
+                        44.432519
+                  ]
+            },
+            {
+                  "name": "Atelierul Albanez",
+                  "text": "Traditional local workshop and an attraction in the city of Slatina.",
+                  "category": "landmark",
+                  "coords": [
+                        24.357716,
+                        44.430353
+                  ]
+            },
+            {
+                  "name": "Centrul Cultural Victoria",
+                  "text": "Arts center in Slatina hosting various cultural events and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        24.356527,
+                        44.428816
+                  ]
+            },
+            {
+                  "name": "Biserica „Sfinții Împărați”",
+                  "text": "Historic Orthodox church in Slatina dedicated to the Holy Emperors.",
+                  "category": "religious",
+                  "coords": [
+                        24.363469,
+                        44.43171
+                  ]
+            },
+            {
+                  "name": "Catedrala Slatina",
+                  "text": "The main Orthodox cathedral and a major landmark of Slatina.",
+                  "category": "religious",
+                  "coords": [
+                        24.354213,
+                        44.430837
                   ]
             }
       ]
@@ -17938,6 +32914,51 @@ export const romaniaExtraPois: POI[] = [
                         23.052794,
                         47.180851
                   ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Artă. Secția de Artă \"Ioan Sima\"",
+                  "text": "Ein Kunstmuseum in Zalău, das die Werke des Malers Ioan Sima ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        23.065609,
+                        47.169235
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Artă",
+                  "text": "Das Kreismuseum für Geschichte und Kunst in Zalău zeigt das Erbe der Region Sălaj.",
+                  "category": "museum",
+                  "coords": [
+                        23.053833,
+                        47.179028
+                  ]
+            },
+            {
+                  "name": "Dafermann Zalău",
+                  "text": "Ein Denkmal in Zalău zur Erinnerung an bedeutende lokale Persönlichkeiten.",
+                  "category": "historical",
+                  "coords": [
+                        23.04466,
+                        47.215491
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Ein Kulturzentrum in Zalău für öffentliche Veranstaltungen und Theater.",
+                  "category": "cultural",
+                  "coords": [
+                        23.054273,
+                        47.182134
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată-Calvină Zalău",
+                  "text": "Eine markante reformierte Kirche im Zentrum von Zalău.",
+                  "category": "religious",
+                  "coords": [
+                        23.057299,
+                        47.1801
+                  ]
             }
       ],
       "hu": [
@@ -18029,6 +33050,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         23.052794,
                         47.180851
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Artă. Secția de Artă \"Ioan Sima\"",
+                  "text": "Zilah művészeti múzeuma, amely Ioan Sima festőművész alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.065609,
+                        47.169235
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Artă",
+                  "text": "A zilahi Megyei Történelmi és Művészeti Múzeum Szilágy megye örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        23.053833,
+                        47.179028
+                  ]
+            },
+            {
+                  "name": "Dafermann Zalău",
+                  "text": "Zilahi emlékmű, amely helyi jelentőségű személyiségeknek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        23.04466,
+                        47.215491
+                  ]
+            },
+            {
+                  "name": "Művelődési Ház",
+                  "text": "Zilahi kulturális központ közösségi események és színházi előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        23.054273,
+                        47.182134
+                  ]
+            },
+            {
+                  "name": "Zilah- Belvárosi Református Templom",
+                  "text": "Zilah központjának meghatározó református temploma.",
+                  "category": "religious",
+                  "coords": [
+                        23.057299,
+                        47.1801
                   ]
             }
       ],
@@ -18122,6 +33188,51 @@ export const romaniaExtraPois: POI[] = [
                         23.052794,
                         47.180851
                   ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Artă. Secția de Artă \"Ioan Sima\"",
+                  "text": "Un muzeu de artă din Zalău care expune lucrările pictorului Ioan Sima.",
+                  "category": "museum",
+                  "coords": [
+                        23.065609,
+                        47.169235
+                  ]
+            },
+            {
+                  "name": "Muzeul Județean de Istorie și Artă",
+                  "text": "Muzeul Județean de Istorie și Artă din Zalău prezintă patrimoniul regiunii Sălaj.",
+                  "category": "museum",
+                  "coords": [
+                        23.053833,
+                        47.179028
+                  ]
+            },
+            {
+                  "name": "Dafermann Zalău",
+                  "text": "Un monument din Zalău dedicat unor personalități locale importante.",
+                  "category": "historical",
+                  "coords": [
+                        23.04466,
+                        47.215491
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "Un centru cultural din Zalău destinat evenimentelor publice și teatrului.",
+                  "category": "cultural",
+                  "coords": [
+                        23.054273,
+                        47.182134
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată-Calvină Zalău",
+                  "text": "O biserică reformată impunătoare situată în centrul orașului Zalău.",
+                  "category": "religious",
+                  "coords": [
+                        23.057299,
+                        47.1801
+                  ]
             }
       ],
       "en": [
@@ -18213,6 +33324,51 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         23.052794,
                         47.180851
+                  ]
+            },
+            {
+                  "name": "History and Art County Museum. \"Ioan Sima\" Art Museum",
+                  "text": "An art museum in Zalău exhibiting the works of painter Ioan Sima.",
+                  "category": "museum",
+                  "coords": [
+                        23.065609,
+                        47.169235
+                  ]
+            },
+            {
+                  "name": "History and Art County Museum",
+                  "text": "The County Museum of History and Art in Zalău showcases the heritage of the Sălaj region.",
+                  "category": "museum",
+                  "coords": [
+                        23.053833,
+                        47.179028
+                  ]
+            },
+            {
+                  "name": "Dafermann Zalău",
+                  "text": "A monument in Zalău commemorating significant local figures.",
+                  "category": "historical",
+                  "coords": [
+                        23.04466,
+                        47.215491
+                  ]
+            },
+            {
+                  "name": "Casa de Cultură a Sindicatelor",
+                  "text": "A cultural center in Zalău for public events and theatre.",
+                  "category": "cultural",
+                  "coords": [
+                        23.054273,
+                        47.182134
+                  ]
+            },
+            {
+                  "name": "Biserica Reformată-Calvină Zalău",
+                  "text": "A prominent Reformed church located in the center of Zalău.",
+                  "category": "religious",
+                  "coords": [
+                        23.057299,
+                        47.1801
                   ]
             }
       ]
@@ -18770,6 +33926,69 @@ export const romaniaExtraPois: POI[] = [
                         27.169444,
                         45.700833
                   ]
+            },
+            {
+                  "name": "Muzeul Vrancei",
+                  "text": "Regionalmuseum in Focșani, das die lokale Geschichte und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        27.177023,
+                        45.69859
+                  ]
+            },
+            {
+                  "name": "Muzeul Viei si Vinului",
+                  "text": "Museum in Focșani, das die Weinbautraditionen der Region Vrancea zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        27.189278,
+                        45.696877
+                  ]
+            },
+            {
+                  "name": "Ateneul Popular „Maior Gheorghe Pastia”",
+                  "text": "Bedeutendes Theater und kulturelles Wahrzeichen in der Stadt Focșani.",
+                  "category": "cultural",
+                  "coords": [
+                        27.185202,
+                        45.69555
+                  ]
+            },
+            {
+                  "name": "Snackbar",
+                  "text": "Lokales Denkmal oder Wahrzeichen in der Stadt Focșani.",
+                  "category": "historical",
+                  "coords": [
+                        27.19639,
+                        45.683525
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Denkmal für die gefallenen Soldaten und lokalen Helden in Focșani.",
+                  "category": "historical",
+                  "coords": [
+                        27.181144,
+                        45.711214
+                  ]
+            },
+            {
+                  "name": "Monumentul Rușilor",
+                  "text": "Denkmal in Focșani zum Gedenken an russische Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        27.181103,
+                        45.71253
+                  ]
+            },
+            {
+                  "name": "Mausoleul Eroilor Sud",
+                  "text": "Südmausoleum in Focșani, das den Helden des Ersten Weltkriegs gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        27.182734,
+                        45.680937
+                  ]
             }
       ],
       "hu": [
@@ -18831,6 +34050,69 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         27.188564,
                         45.6992
+                  ]
+            },
+            {
+                  "name": "Muzeul Vrancei",
+                  "text": "Focșani-i regionális múzeum, amely a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.177023,
+                        45.69859
+                  ]
+            },
+            {
+                  "name": "Muzeul Viei si Vinului",
+                  "text": "Focșani-i múzeum, amely Vrancea régió szőlészeti és borászati hagyományait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        27.189278,
+                        45.696877
+                  ]
+            },
+            {
+                  "name": "Ateneul Popular „Maior Gheorghe Pastia”",
+                  "text": "Jelentős színház és kulturális nevezetesség Focșani városában.",
+                  "category": "cultural",
+                  "coords": [
+                        27.185202,
+                        45.69555
+                  ]
+            },
+            {
+                  "name": "Snackbar",
+                  "text": "Helyi emlékmű vagy jellegzetes pont Focșani városában.",
+                  "category": "historical",
+                  "coords": [
+                        27.19639,
+                        45.683525
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Az elesett katonák és helyi hősök emlékműve Focșaniban.",
+                  "category": "historical",
+                  "coords": [
+                        27.181144,
+                        45.711214
+                  ]
+            },
+            {
+                  "name": "Monumentul Rușilor",
+                  "text": "Orosz katonák emlékére állított emlékmű Focșaniban.",
+                  "category": "historical",
+                  "coords": [
+                        27.181103,
+                        45.71253
+                  ]
+            },
+            {
+                  "name": "Mausoleul Eroilor Sud",
+                  "text": "Focșani déli mauzóleuma, amelyet az első világháború hőseinek szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        27.182734,
+                        45.680937
                   ]
             }
       ],
@@ -18904,6 +34186,69 @@ export const romaniaExtraPois: POI[] = [
                         27.169444,
                         45.700833
                   ]
+            },
+            {
+                  "name": "Muzeul Vrancei",
+                  "text": "Muzeu regional din Focșani care prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        27.177023,
+                        45.69859
+                  ]
+            },
+            {
+                  "name": "Muzeul Viei si Vinului",
+                  "text": "Muzeu din Focșani care prezintă tradițiile viticole și de vinificație din Vrancea.",
+                  "category": "museum",
+                  "coords": [
+                        27.189278,
+                        45.696877
+                  ]
+            },
+            {
+                  "name": "Ateneul Popular „Maior Gheorghe Pastia”",
+                  "text": "Teatru notabil și reper cultural din orașul Focșani.",
+                  "category": "cultural",
+                  "coords": [
+                        27.185202,
+                        45.69555
+                  ]
+            },
+            {
+                  "name": "Snackbar",
+                  "text": "Monument sau reper local din orașul Focșani.",
+                  "category": "historical",
+                  "coords": [
+                        27.19639,
+                        45.683525
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monument dedicat soldaților căzuți și eroilor locali din Focșani.",
+                  "category": "historical",
+                  "coords": [
+                        27.181144,
+                        45.711214
+                  ]
+            },
+            {
+                  "name": "Monumentul Rușilor",
+                  "text": "Monument din Focșani dedicat memoriei soldaților ruși.",
+                  "category": "historical",
+                  "coords": [
+                        27.181103,
+                        45.71253
+                  ]
+            },
+            {
+                  "name": "Mausoleul Eroilor Sud",
+                  "text": "Mausoleul Eroilor Sud din Focșani, dedicat eroilor din Primul Război Mondial.",
+                  "category": "historical",
+                  "coords": [
+                        27.182734,
+                        45.680937
+                  ]
             }
       ],
       "en": [
@@ -18975,6 +34320,69 @@ export const romaniaExtraPois: POI[] = [
                   "coords": [
                         27.169444,
                         45.700833
+                  ]
+            },
+            {
+                  "name": "Museum of Vrancea",
+                  "text": "Regional museum in Focșani showcasing local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        27.177023,
+                        45.69859
+                  ]
+            },
+            {
+                  "name": "Muzeul Viei si Vinului",
+                  "text": "Museum in Focșani showcasing the viticulture and wine-making traditions of Vrancea.",
+                  "category": "museum",
+                  "coords": [
+                        27.189278,
+                        45.696877
+                  ]
+            },
+            {
+                  "name": "Ateneul Popular „Maior Gheorghe Pastia”",
+                  "text": "Notable theatre and cultural landmark in the city of Focșani.",
+                  "category": "cultural",
+                  "coords": [
+                        27.185202,
+                        45.69555
+                  ]
+            },
+            {
+                  "name": "Snackbar",
+                  "text": "Local monument or landmark in the city of Focșani.",
+                  "category": "historical",
+                  "coords": [
+                        27.19639,
+                        45.683525
+                  ]
+            },
+            {
+                  "name": "Monumentul Eroilor",
+                  "text": "Monument dedicated to fallen soldiers and local heroes in Focșani.",
+                  "category": "historical",
+                  "coords": [
+                        27.181144,
+                        45.711214
+                  ]
+            },
+            {
+                  "name": "Monumentul Rușilor",
+                  "text": "Monument in Focșani commemorating Russian soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        27.181103,
+                        45.71253
+                  ]
+            },
+            {
+                  "name": "Mausoleul Eroilor Sud",
+                  "text": "South Mausoleum in Focșani dedicated to the heroes of World War I.",
+                  "category": "historical",
+                  "coords": [
+                        27.182734,
+                        45.680937
                   ]
             }
       ]

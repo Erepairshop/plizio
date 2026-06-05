@@ -47,7 +47,520 @@ export const thailandRegions: POI[] = [];
 
 export const thailandCities: POI[] = [
       {
-    id: "th-phuket",
+    id: "th-phuket", "sights": {
+      "de": [
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "Ein Museum in einem schönen historischen Schulgebäude, das der Geschichte der chinesischen Minderheit in Phuket gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        98.386868,
+                        7.885603
+                  ]
+            },
+            {
+                  "name": "Phuket Trickeye Museum",
+                  "text": "Ein interaktives 3D-Kunstmuseum mit lustigen optischen Täuschungen und Fotomöglichkeiten.",
+                  "category": "museum",
+                  "coords": [
+                        98.392607,
+                        7.883384
+                  ]
+            },
+            {
+                  "name": "บ้านชินประชา",
+                  "text": "Ein gut erhaltenes sino-portugiesisches Herrenhaus, das den Lebensstil einer wohlhabenden Familie aus Phuket zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "พลับพลาที่ประทับกรมหลวงชุมพรเขตอุดมศักดิ์ สะพานหิน",
+                  "text": "Ein Denkmal und Museum für Prinz Abhakara Kiartivongse, den Begründer der thailändischen Marine.",
+                  "category": "museum",
+                  "coords": [
+                        98.397788,
+                        7.865968
+                  ]
+            },
+            {
+                  "name": "Thavorn Phuket Museum",
+                  "text": "Eine einzigartige Sammlung von Antiquitäten und historischen Gegenständen im Thavorn Hotel.",
+                  "category": "museum",
+                  "coords": [
+                        98.390248,
+                        7.882919
+                  ]
+            },
+            {
+                  "name": "เมืองเก่าภูเก็ต",
+                  "text": "Das historische Viertel von Phuket, das für seine gut erhaltene sino-portugiesische Architektur bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเขารัง",
+                  "text": "Ein beliebter Aussichtspunkt auf einem Hügel mit Panoramablick über Phuket-Stadt.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเขาโต๊ะแซะ",
+                  "text": "Ein Aussichtspunkt in Phuket, der für seine weite Aussicht und die dort lebenden Affen bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        98.395087,
+                        7.896472
+                  ]
+            },
+            {
+                  "name": "อนุสรณ์เรือขุดแร่",
+                  "text": "Ein Denkmal in Phuket, das an die bedeutende Bergbaugeschichte der Insel erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        98.396002,
+                        7.868483
+                  ]
+            },
+            {
+                  "name": "จุดให้อาหารลิง",
+                  "text": "Eine lokale Attraktion in Phuket, an der Besucher Makaken beobachten und füttern können.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "Ein lebhafter Ort für Straßenessen in Phuket, der eine große Auswahl an lokalen Köstlichkeiten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366272,
+                        7.880452
+                  ]
+            },
+            {
+                  "name": "วงเวียนสุรินทร์",
+                  "text": "Ein bekannter Kreisverkehr in Phuket, der oft als Treffpunkt im Stadtzentrum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392219,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "สวนสาธารณะเฉลิมพระเกียรติ",
+                  "text": "Ein öffentlicher Park in Phuket, der Raum für Erholung und Freizeitaktivitäten bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        98.374658,
+                        7.875352
+                  ]
+            },
+            {
+                  "name": "วัดมงคลนิมิตร",
+                  "text": "Ein bedeutender buddhistischer Tempel in Phuket-Stadt, der als wichtiges religiöses Zentrum dient.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "Egy gyönyörű történelmi iskolaépületben elhelyezett múzeum, amely Phuket kínai közösségének történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        98.386868,
+                        7.885603
+                  ]
+            },
+            {
+                  "name": "Phuket Trickeye Museum",
+                  "text": "Interaktív 3D művészeti múzeum szórakoztató optikai csalódásokkal és fotózási lehetőségekkel.",
+                  "category": "museum",
+                  "coords": [
+                        98.392607,
+                        7.883384
+                  ]
+            },
+            {
+                  "name": "บ้านชินประชา",
+                  "text": "Jól megőrzött sino-portugál kúria, amely egy tehetős phuketi család életmódját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "พลับพลาที่ประทับกรมหลวงชุมพรเขตอุดมศักดิ์ สะพานหิน",
+                  "text": "Emlékmű és múzeum, amelyet Abhakara Kiartivongse hercegnek, a thaiföldi haditengerészet alapítójának szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        98.397788,
+                        7.865968
+                  ]
+            },
+            {
+                  "name": "Thavorn Phuket Museum",
+                  "text": "Régiségek és történelmi tárgyak egyedülálló gyűjteménye a Thavorn Hotelben.",
+                  "category": "museum",
+                  "coords": [
+                        98.390248,
+                        7.882919
+                  ]
+            },
+            {
+                  "name": "เมืองเก่าภูเก็ต",
+                  "text": "Phuket történelmi negyede, amely jól megőrzött kínai-portugál építészetéről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเขารัง",
+                  "text": "Népszerű dombtetői kilátó, amely panorámás kilátást nyújt Phuket városára.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเขาโต๊ะแซะ",
+                  "text": "Phuketi kilátóhely, amely tágas kilátásáról és az ott élő majmokról nevezetes.",
+                  "category": "natural",
+                  "coords": [
+                        98.395087,
+                        7.896472
+                  ]
+            },
+            {
+                  "name": "อนุสรณ์เรือขุดแร่",
+                  "text": "Emlékmű Phuketben, amely a sziget jelentős bányászati múltjának állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        98.396002,
+                        7.868483
+                  ]
+            },
+            {
+                  "name": "จุดให้อาหารลิง",
+                  "text": "Helyi látványosság Phuketben, ahol a látogatók makákókat figyelhetnek meg és etethetnek.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "Phuket élénk utcai ételhelyszíne, amely helyi finomságok széles választékát kínálja.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366272,
+                        7.880452
+                  ]
+            },
+            {
+                  "name": "วงเวียนสุรินทร์",
+                  "text": "Ismert körforgalom Phuketben, amely gyakran találkozóhelyként szolgál a városközpontban.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392219,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "สวนสาธารณะเฉลิมพระเกียรติ",
+                  "text": "Publikus park Phuketben, amely pihenési és szabadidős tevékenységekre kínál lehetőséget.",
+                  "category": "landmark",
+                  "coords": [
+                        98.374658,
+                        7.875352
+                  ]
+            },
+            {
+                  "name": "วัดมงคลนิมิตร",
+                  "text": "Jelentős buddhista templom Phuket városában, amely fontos vallási központként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "Un muzeu găzduit într-o frumoasă clădire școlară istorică, dedicat istoriei chinezilor din Phuket.",
+                  "category": "museum",
+                  "coords": [
+                        98.386868,
+                        7.885603
+                  ]
+            },
+            {
+                  "name": "Phuket Trickeye Museum",
+                  "text": "Un muzeu de artă 3D interactiv, cu iluzii optice distractive și oportunități pentru fotografii.",
+                  "category": "museum",
+                  "coords": [
+                        98.392607,
+                        7.883384
+                  ]
+            },
+            {
+                  "name": "บ้านชินประชา",
+                  "text": "Un conac sino-portughez bine conservat, care prezintă stilul de viață al unei familii bogate din Phuket.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "พลับพลาที่ประทับกรมหลวงชุมพรเขตอุดมศักดิ์ สะพานหิน",
+                  "text": "Un monument și muzeu dedicat Prințului Abhakara Kiartivongse, fondatorul marinei thailandeze.",
+                  "category": "museum",
+                  "coords": [
+                        98.397788,
+                        7.865968
+                  ]
+            },
+            {
+                  "name": "Thavorn Phuket Museum",
+                  "text": "O colecție unică de antichități și obiecte istorice situată în interiorul Hotelului Thavorn.",
+                  "category": "museum",
+                  "coords": [
+                        98.390248,
+                        7.882919
+                  ]
+            },
+            {
+                  "name": "เมืองเก่าภูเก็ต",
+                  "text": "Cartierul istoric din Phuket, cunoscut pentru arhitectura sa sino-portugheză bine conservată.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเขารัง",
+                  "text": "Un punct de belvedere popular pe deal, care oferă vedere panoramică asupra orașului Phuket.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเขาโต๊ะแซะ",
+                  "text": "Un punct de belvedere din Phuket cunoscut pentru vederile sale largi și maimuțele rezidente.",
+                  "category": "natural",
+                  "coords": [
+                        98.395087,
+                        7.896472
+                  ]
+            },
+            {
+                  "name": "อนุสรณ์เรือขุดแร่",
+                  "text": "Un monument din Phuket care comemorează istoria minieră semnificativă a insulei.",
+                  "category": "historical",
+                  "coords": [
+                        98.396002,
+                        7.868483
+                  ]
+            },
+            {
+                  "name": "จุดให้อาหารลิง",
+                  "text": "O atracție locală din Phuket unde vizitatorii pot observa și hrăni macaci.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "O locație vibrantă de mâncare stradală din Phuket, care oferă o varietate de delicatese locale.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366272,
+                        7.880452
+                  ]
+            },
+            {
+                  "name": "วงเวียนสุรินทร์",
+                  "text": "Un sens giratoriu cunoscut din Phuket, care servește adesea ca punct de întâlnire în centrul orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392219,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "สวนสาธารณะเฉลิมพระเกียรติ",
+                  "text": "Un parc public din Phuket care oferă spațiu pentru recreere și activități de petrecere a timpului liber.",
+                  "category": "landmark",
+                  "coords": [
+                        98.374658,
+                        7.875352
+                  ]
+            },
+            {
+                  "name": "วัดมงคลนิมิตร",
+                  "text": "Un templu budist semnificativ din orașul Phuket, care servește drept centru religios important.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phuket Thai Hua School",
+                  "text": "A museum housed in a beautiful historic school building dedicated to Phuket's ethnic Chinese history.",
+                  "category": "museum",
+                  "coords": [
+                        98.386868,
+                        7.885603
+                  ]
+            },
+            {
+                  "name": "Phuket Trickeye Museum",
+                  "text": "An interactive 3D art museum featuring fun optical illusions and photo opportunities.",
+                  "category": "museum",
+                  "coords": [
+                        98.392607,
+                        7.883384
+                  ]
+            },
+            {
+                  "name": "Baan Chinpracha",
+                  "text": "A well-preserved Sino-Portuguese mansion showcasing the lifestyle of a wealthy Phuket family.",
+                  "category": "museum",
+                  "coords": [
+                        98.38394,
+                        7.885778
+                  ]
+            },
+            {
+                  "name": "Father of the Royal Thai Navy",
+                  "text": "A monument and museum dedicated to Prince Abhakara Kiartivongse, the founder of the Royal Thai Navy.",
+                  "category": "museum",
+                  "coords": [
+                        98.397788,
+                        7.865968
+                  ]
+            },
+            {
+                  "name": "Thavorn Phuket Museum",
+                  "text": "A unique collection of antiques and historic items located inside the Thavorn Hotel.",
+                  "category": "museum",
+                  "coords": [
+                        98.390248,
+                        7.882919
+                  ]
+            },
+            {
+                  "name": "Phuket Old Town",
+                  "text": "The historic district of Phuket, known for its well-preserved Sino-Portuguese architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        98.389221,
+                        7.884777
+                  ]
+            },
+            {
+                  "name": "Khao Rang Viewpoint",
+                  "text": "A popular hilltop viewpoint offering panoramic views over Phuket City.",
+                  "category": "natural",
+                  "coords": [
+                        98.380192,
+                        7.892383
+                  ]
+            },
+            {
+                  "name": "Khao To Sae view point",
+                  "text": "A viewpoint in Phuket known for its wide views and resident monkeys.",
+                  "category": "natural",
+                  "coords": [
+                        98.395087,
+                        7.896472
+                  ]
+            },
+            {
+                  "name": "Saphan Hin Mining Monument",
+                  "text": "A monument in Phuket commemorating the island's significant mining history.",
+                  "category": "historical",
+                  "coords": [
+                        98.396002,
+                        7.868483
+                  ]
+            },
+            {
+                  "name": "Monkey feeding",
+                  "text": "A local attraction in Phuket where visitors can observe and feed macaques.",
+                  "category": "landmark",
+                  "coords": [
+                        98.379509,
+                        7.893805
+                  ]
+            },
+            {
+                  "name": "Naka Street food",
+                  "text": "A vibrant street food location in Phuket offering a wide variety of local delicacies.",
+                  "category": "landmark",
+                  "coords": [
+                        98.366272,
+                        7.880452
+                  ]
+            },
+            {
+                  "name": "Surin Roundabout",
+                  "text": "A well-known roundabout in Phuket that often serves as a meeting point in the city center.",
+                  "category": "landmark",
+                  "coords": [
+                        98.392219,
+                        7.880413
+                  ]
+            },
+            {
+                  "name": "Chaloem Phrakiat Park",
+                  "text": "A public park in Phuket providing space for recreation and leisure activities.",
+                  "category": "landmark",
+                  "coords": [
+                        98.374658,
+                        7.875352
+                  ]
+            },
+            {
+                  "name": "Wat Mongkol Nimit",
+                  "text": "A significant Buddhist temple in Phuket City serving as an important religious center.",
+                  "category": "religious",
+                  "coords": [
+                        98.389094,
+                        7.886334
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH",
     coords: [98.3923, 7.8804],

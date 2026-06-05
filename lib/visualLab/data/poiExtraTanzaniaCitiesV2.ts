@@ -35,7 +35,196 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-dar-es-salaam-cities-v2",
+    id: "tz-dar-es-salaam-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "Ein Kunst- und Kulturzentrum in Daressalam, das lokale Kreativität und Zusammenarbeit fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "Ein Zentrum für bildende Kunst und Kunsthandwerk in Daressalam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "Ein lokales Denkmal im Stadtteil Sinza von Daressalam.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "Ein Ort in Daressalam, der für seine schöne Aussicht auf die Umgebung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "Ein bewaldetes Gebiet in Daressalam, das als natürlicher Erholungsraum dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "Művészeti és kulturális központ Dar es-Salaamban, amely a helyi kreativitást és együttműködést támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "Képzőművészeti és kézműves központ Dar es-Salaamban.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "Helyi emlékmű Dar es-Salaam Sinza negyedében.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "Kilátóhely Dar es-Salaamban, amely a környező területre nyíló szép kilátásáról ismert.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "Erdős terület Dar es-Salaamban, amely természetes pihenőhelyként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "Un centru de artă și cultură în Dar es Salaam care promovează creativitatea și cooperarea locală.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "Un centru pentru arte vizuale și meșteșuguri în Dar es Salaam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "Un monument local în cartierul Sinza din Dar es Salaam.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "Un loc în Dar es Salaam cunoscut pentru vederea frumoasă asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "O zonă împădurită în Dar es Salaam care servește ca spațiu natural de recreere.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sherehe Arts Association Saccoss Ltd",
+                  "text": "An arts and culture center in Dar es Salaam promoting local creativity and cooperation.",
+                  "category": "cultural",
+                  "coords": [
+                        39.218945,
+                        -6.793696
+                  ]
+            },
+            {
+                  "name": "Dhahabu Arts Centre",
+                  "text": "A center for visual arts and crafts in Dar es Salaam.",
+                  "category": "cultural",
+                  "coords": [
+                        39.221148,
+                        -6.792505
+                  ]
+            },
+            {
+                  "name": "Sinza near wanyama hotel",
+                  "text": "A local monument in the Sinza district of Dar es Salaam.",
+                  "category": "historical",
+                  "coords": [
+                        39.232767,
+                        -6.781377
+                  ]
+            },
+            {
+                  "name": "Uzuri",
+                  "text": "A location in Dar es Salaam known for its scenic views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        39.233241,
+                        -6.794246
+                  ]
+            },
+            {
+                  "name": "Forest",
+                  "text": "A forested area in Dar es Salaam serving as a natural recreation space.",
+                  "category": "landmark",
+                  "coords": [
+                        39.203405,
+                        -6.784806
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-07",
     coords: [39.2083, -6.7924],
@@ -71,7 +260,160 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-mwanza-cities-v2",
+    id: "tz-mwanza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Ein lokal bekanntes Museum in Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "Eine markante Felsformation im Victoriasee bei Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "Eine Galerie für zeitgenössische Kunst in Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Ein Ausstellungsraum für lokale Kunstwerke in Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Helyi múzeum Mwanza városában.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "Jellegzetes sziklaképződmény a Viktória-tóban, Mwanza közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "Kortárs művészeti galéria Mwanza városában.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Helyi művészeti alkotások kiállítóhelye Mwanzában.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "Un muzeu local situat în Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "O formațiune stâncoasă distinctivă în Lacul Victoria, lângă Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "O galerie de artă contemporană din Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "Un spațiu de expoziție pentru opere de artă locale în Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Akimi Sports Bar and Grill",
+                  "text": "A local museum located in Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.90127,
+                        -2.494334
+                  ]
+            },
+            {
+                  "name": "Bismarck Rock",
+                  "text": "A prominent rock formation in Lake Victoria near Mwanza.",
+                  "category": "landmark",
+                  "coords": [
+                        32.89472,
+                        -2.518853
+                  ]
+            },
+            {
+                  "name": "Total",
+                  "text": "A gallery for contemporary art in Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.899182,
+                        -2.517676
+                  ]
+            },
+            {
+                  "name": "Art gallery",
+                  "text": "An exhibition space for local artworks in Mwanza.",
+                  "category": "museum",
+                  "coords": [
+                        32.901304,
+                        -2.516116
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-19",
     coords: [32.9, -2.5167],
@@ -215,7 +557,196 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-tanga-cities-v2",
+    id: "tz-tanga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "Ein historischer Uhrturm aus dem Jahr 1901 in der Stadt Tanga.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Askari Monument",
+                  "text": "Ein Denkmal in Tanga, das den Askari-Soldaten gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Leuchtturm",
+                  "text": "Ein Leuchtturm, der als Wahrzeichen und Sehenswürdigkeit in Tanga dient.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "Ein Kunstzentrum in Tanga, das lokale kreative Werke präsentiert.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "Ein Veranstaltungsort für Kunst- und Kulturereignisse in Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "Egy 1901-ben épült történelmi óratorony Tanga városában.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Askari Monument",
+                  "text": "Az aszkári katonáknak szentelt emlékmű Tangában.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Világítótorony",
+                  "text": "Világítótorony, amely Tanga egyik nevezetessége.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "Helyi alkotásokat bemutató művészeti központ Tangában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "Művészeti és kulturális események helyszíne Tangában.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "Un turn cu ceas istoric construit în 1901, situat în orașul Tanga.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Askari Monument",
+                  "text": "Un monument din Tanga dedicat soldaților Askari.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Lighthouse",
+                  "text": "Un far care servește drept punct de reper și atracție în Tanga.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "Un centru de artă care prezintă lucrări creative locale în Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "Un spațiu pentru evenimente artistice și culturale în Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Clock Tower 1901",
+                  "text": "A historic clock tower built in 1901 located in the city of Tanga.",
+                  "category": "historical",
+                  "coords": [
+                        39.102517,
+                        -5.070135
+                  ]
+            },
+            {
+                  "name": "Askari Monument",
+                  "text": "A monument in Tanga dedicated to the Askari soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        39.106687,
+                        -5.071792
+                  ]
+            },
+            {
+                  "name": "Lighthouse",
+                  "text": "A lighthouse serving as a landmark and attraction in Tanga.",
+                  "category": "landmark",
+                  "coords": [
+                        39.121423,
+                        -5.054619
+                  ]
+            },
+            {
+                  "name": "Wachoraji",
+                  "text": "An arts centre showcasing local creative works in Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.093074,
+                        -5.083917
+                  ]
+            },
+            {
+                  "name": "Regal Hall",
+                  "text": "A venue for arts and cultural events in Tanga.",
+                  "category": "cultural",
+                  "coords": [
+                        39.104777,
+                        -5.07097
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-04",
     coords: [39.1, -5.0667],
@@ -359,7 +890,196 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-kigoma-cities-v2",
+    id: "tz-kigoma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "Ein Informationszentrum in Kigoma für Besucher der Nationalparks Gombe und Mahale.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "Ein Veranstaltungsort in Kigoma, der für Versammlungen und soziale Events genutzt wird.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "Das Verwaltungsgebäude der Hafenleitung am Tanganjikasee in Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "Ein markantes Gebäude aus der deutschen Kolonialzeit im Stadtzentrum von Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "Ein historisches Passagierschiff auf dem Tanganjikasee, das ursprünglich im Ersten Weltkrieg gebaut wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "Információs központ Kigomában a Gombe és Mahale Nemzeti Parkok látogatói számára.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "Rendezvényhelyszín Kigomában, amelyet gyűlésekre és közösségi eseményekre használnak.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "A kikötői igazgatóság adminisztratív épülete a Tanganyika-tónál, Kigomában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "Jellegzetes épület a német gyarmati időszakból Kigoma városközpontjában.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "Történelmi utasszállító hajó a Tanganyika-tavon, amelyet eredetileg az első világháborúban építettek.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "Un centru de informare în Kigoma pentru vizitatorii parcurilor naționale Gombe și Mahale.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "Un loc de evenimente în Kigoma, utilizat pentru adunări și evenimente sociale.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "Clădirea administrativă a managementului portuar de la lacul Tanganyika din Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "O clădire distinctivă din perioada colonială germană în centrul orașului Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "O navă istorică de pasageri pe lacul Tanganyika, construită inițial în timpul Primului Război Mondial.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gombe/Mahale Visitors Information Centre",
+                  "text": "An information center in Kigoma for visitors to the Gombe and Mahale National Parks.",
+                  "category": "landmark",
+                  "coords": [
+                        29.636279,
+                        -4.88329
+                  ]
+            },
+            {
+                  "name": "Kibi Reception Hall",
+                  "text": "An event venue in Kigoma used for gatherings and social events.",
+                  "category": "landmark",
+                  "coords": [
+                        29.631591,
+                        -4.884484
+                  ]
+            },
+            {
+                  "name": "Port operations manager",
+                  "text": "The administrative office of the port management at Lake Tanganyika in Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.627807,
+                        -4.87686
+                  ]
+            },
+            {
+                  "name": "Kaiser House",
+                  "text": "A prominent building from the German colonial era in the city center of Kigoma.",
+                  "category": "landmark",
+                  "coords": [
+                        29.625415,
+                        -4.882295
+                  ]
+            },
+            {
+                  "name": "MV Liemba",
+                  "text": "A historic passenger ship on Lake Tanganyika, originally built during World War I.",
+                  "category": "landmark",
+                  "coords": [
+                        29.62463,
+                        -4.877078
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-16",
     coords: [29.6333, -4.8833],
@@ -539,7 +1259,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-musoma-cities-v2",
+    id: "tz-musoma-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyasho Garden",
+                  "text": "Ein öffentlicher Garten und eine Sehenswürdigkeit in Musoma.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805639,
+                        -1.510084
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyasho Garden",
+                  "text": "Nyilvános kert és látnivaló Musoma városában.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805639,
+                        -1.510084
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyasho Garden",
+                  "text": "O grădină publică și atracție situată în Musoma.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805639,
+                        -1.510084
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyasho Garden",
+                  "text": "A public garden and attraction located in Musoma.",
+                  "category": "landmark",
+                  "coords": [
+                        33.805639,
+                        -1.510084
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-20",
     coords: [33.8, -1.5],
@@ -575,7 +1340,88 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-shinyanga-cities-v2",
+    id: "tz-shinyanga-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "Ein beliebter lokaler Treffpunkt in Shinyanga, bekannt für Gastronomie und Fischgerichte.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Mazingira centre",
+                  "text": "Ein lokales Zentrum in Shinyanga, das sich Umwelt- und Gemeindeaktivitäten widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "Népszerű helyi találkozóhely Shinyangában, amely gasztronómiájáról és halételeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Mazingira centre",
+                  "text": "Helyi központ Shinyangában, amely környezetvédelmi és közösségi tevékenységekkel foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "Un loc popular de întâlnire local în Shinyanga, cunoscut pentru gastronomie și preparate din pește.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Mazingira centre",
+                  "text": "Un centru local în Shinyanga dedicat activităților ecologice și comunitare.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ibinzamata Fishi point",
+                  "text": "A popular local spot in Shinyanga known for its food and fish dishes.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426625,
+                        -3.676248
+                  ]
+            },
+            {
+                  "name": "Mazingira centre",
+                  "text": "A local center in Shinyanga dedicated to environmental and community activities.",
+                  "category": "landmark",
+                  "coords": [
+                        33.426101,
+                        -3.668138
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-17",
     coords: [33.4167, -3.6667],
@@ -611,7 +1457,160 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-iringa-cities-v2",
+    id: "tz-iringa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "Ein Museum zur Geschichte und Kultur der Region Iringa.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "Eine historische Stätte mit Tiergehegen in Iringa.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687513,
+                        -7.750649
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "Eine Felsformation bei Iringa mit weitem Ausblick über die Stadt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Ruaha river",
+                  "text": "Ein bedeutender Fluss in Tansania, bekannt für seine vielfältige Tierwelt.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787827
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "Az Iringa régió történelmét és kultúráját bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "Történelmi helyszín állatkifutókkal Iringában.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687513,
+                        -7.750649
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "Sziklaképződmény Iringa közelében, kilátással a városra.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Ruaha river",
+                  "text": "Fontos folyó Tanzániában, amely gazdag vadvilágáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787827
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "Un muzeu dedicat istoriei și culturii regiunii Iringa.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "Un sit istoric cu incinte pentru animale în Iringa.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687513,
+                        -7.750649
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "O formațiune stâncoasă lângă Iringa, oferind o panoramă asupra orașului.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Ruaha river",
+                  "text": "Un râu important din Tanzania, cunoscut pentru fauna sa diversă.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787827
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Iringa Boma Regional Museum and Cultural Center",
+                  "text": "A museum dedicated to the history and culture of the Iringa region.",
+                  "category": "museum",
+                  "coords": [
+                        35.697024,
+                        -7.779707
+                  ]
+            },
+            {
+                  "name": "Mkwawa Magic Site",
+                  "text": "A historic site with animal enclosures in Iringa.",
+                  "category": "recreational",
+                  "coords": [
+                        35.687513,
+                        -7.750649
+                  ]
+            },
+            {
+                  "name": "Gangilonga Rock",
+                  "text": "A rock formation near Iringa offering wide views over the city.",
+                  "category": "landmark",
+                  "coords": [
+                        35.712419,
+                        -7.769723
+                  ]
+            },
+            {
+                  "name": "Ruaha river",
+                  "text": "A significant river in Tanzania known for its diverse wildlife.",
+                  "category": "landmark",
+                  "coords": [
+                        35.691735,
+                        -7.787827
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-11",
     coords: [35.7, -7.7667],
@@ -827,7 +1826,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-mpanda-cities-v2",
+    id: "tz-mpanda-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Open space-Mascania",
+                  "text": "Eine öffentliche Grünfläche für Freizeitaktivitäten in Mpanda.",
+                  "category": "landmark",
+                  "coords": [
+                        31.067506,
+                        -6.349499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Open space-Mascania",
+                  "text": "Nyilvános zöldterület szabadidős tevékenységekhez Mpanda városában.",
+                  "category": "landmark",
+                  "coords": [
+                        31.067506,
+                        -6.349499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Open space-Mascania",
+                  "text": "Un spațiu verde public pentru activități recreative în Mpanda.",
+                  "category": "landmark",
+                  "coords": [
+                        31.067506,
+                        -6.349499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Open space-Mascania",
+                  "text": "A public green space for recreational activities in Mpanda.",
+                  "category": "landmark",
+                  "coords": [
+                        31.067506,
+                        -6.349499
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-23",
     coords: [31.0667, -6.3333],
@@ -1115,7 +2159,88 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-geita-cities-v2",
+    id: "tz-geita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "Eine römisch-katholische Einrichtung im Stadtteil Nyankumbu von Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "Ein lokales Hotel und markanter Orientierungspunkt in der Stadt Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "Római katolikus intézmény Geita Nyankumbu negyedében.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "Helyi szálloda és jellegzetes tájékozódási pont Geita városában.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "O instituție romano-catolică în cartierul Nyankumbu din Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "Un hotel local și un punct de reper distinctiv în orașul Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Roman Catholic Nyankumbu",
+                  "text": "A Roman Catholic institution in the Nyankumbu area of Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.236685,
+                        -2.881556
+                  ]
+            },
+            {
+                  "name": "KB Hotel",
+                  "text": "A local hotel and prominent landmark in the city of Geita.",
+                  "category": "landmark",
+                  "coords": [
+                        32.247855,
+                        -2.87216
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-25",
     coords: [32.2333, -2.8667],
@@ -1151,7 +2276,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-tarime-cities-v2",
+    id: "tz-tarime-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyamisangura Airtel Monument",
+                  "text": "Ein lokales Denkmal in der Stadt Tarime.",
+                  "category": "historical",
+                  "coords": [
+                        34.374302,
+                        -1.328243
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyamisangura Airtel Monument",
+                  "text": "Helyi emlékmű Tarime városában.",
+                  "category": "historical",
+                  "coords": [
+                        34.374302,
+                        -1.328243
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyamisangura Airtel Monument",
+                  "text": "Un monument local situat în orașul Tarime.",
+                  "category": "historical",
+                  "coords": [
+                        34.374302,
+                        -1.328243
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyamisangura Airtel Monument",
+                  "text": "A local monument located in the town of Tarime.",
+                  "category": "historical",
+                  "coords": [
+                        34.374302,
+                        -1.328243
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-20",
     coords: [34.3667, -1.35],
@@ -1259,7 +2429,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-chake-chake-cities-v2",
+    id: "tz-chake-chake-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "Ein Museum auf der Insel Pemba, das die lokale Seefahrtsgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "Múzeum Pemba szigetén, amely a helyi tengerészeti történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "Un muzeu pe insula Pemba, prezentând istoria maritimă locală.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Pemba History Museum",
+                  "text": "A museum on Pemba Island showcasing local maritime history.",
+                  "category": "museum",
+                  "coords": [
+                        39.765653,
+                        -5.247636
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-53",
     coords: [39.7667, -5.2458],
@@ -1403,7 +2618,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-same-cities-v2",
+    id: "tz-same-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Nyumba ya Mungu Janction",
+                  "text": "Ein bekannter Knotenpunkt und eine Sehenswürdigkeit in der Gegend von Same.",
+                  "category": "landmark",
+                  "coords": [
+                        37.729583,
+                        -4.067499
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Nyumba ya Mungu Janction",
+                  "text": "Nevezetes csomópont és látnivaló Same környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        37.729583,
+                        -4.067499
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Nyumba ya Mungu Janction",
+                  "text": "O intersecție notabilă și atracție în zona Same.",
+                  "category": "landmark",
+                  "coords": [
+                        37.729583,
+                        -4.067499
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nyumba ya Mungu Janction",
+                  "text": "A notable junction and attraction in the Same area.",
+                  "category": "landmark",
+                  "coords": [
+                        37.729583,
+                        -4.067499
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-03",
     coords: [37.7333, -4.0667],
@@ -1583,7 +2843,340 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-bagamoyo-cities-v2",
+    id: "tz-bagamoyo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Performance Hall",
+                  "text": "Ein Veranstaltungsort für kulturelle Aufführungen in Bagamoyo.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "Ein Museum zur Geschichte der katholischen Mission in Bagamoyo.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "Eine historische Stätte in Bagamoyo, die mit dem Sklavenhandel verbunden ist.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "German Boma",
+                  "text": "Ein Verwaltungsgebäude aus der deutschen Kolonialzeit in Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.909634,
+                        -6.443145
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "Ein Friedhof mit Gräbern aus der deutschen Kolonialgeschichte.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "Ein historischer Gedenkort für Ereignisse der Kolonialzeit in Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "Ein historischer Rastplatz für Karawanen in Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Art Market;Bagamoyo Art Market",
+                  "text": "Ein Zentrum für lokales Kunsthandwerk in Bagamoyo.",
+                  "category": "cultural",
+                  "coords": [
+                        38.908462,
+                        -6.441703
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "Ein historisches Steingebäude im alten Zentrum von Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904833,
+                        -6.441965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Performance Hall",
+                  "text": "Kulturális előadások helyszíne Bagamoyóban.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "A bagamoyói katolikus misszió történetét bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "Történelmi helyszín Bagamoyóban, amely a rabszolga-kereskedelemhez kapcsolódik.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "German Boma",
+                  "text": "Közigazgatási épület a német gyarmati időkből Bagamoyóban.",
+                  "category": "landmark",
+                  "coords": [
+                        38.909634,
+                        -6.443145
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "Temető a német gyarmati korszakból származó sírokkal.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "Történelmi emlékhely a gyarmati korszak eseményeihez kapcsolódóan Bagamoyóban.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "Történelmi pihenőhely karavánok számára Bagamoyóban.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Art Market;Bagamoyo Art Market",
+                  "text": "Helyi kézműves alkotások központja Bagamoyóban.",
+                  "category": "cultural",
+                  "coords": [
+                        38.908462,
+                        -6.441703
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "Történelmi kőépület Bagamoyo régi központjában.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904833,
+                        -6.441965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Performance Hall",
+                  "text": "Un loc de desfășurare pentru spectacole culturale în Bagamoyo.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "Un muzeu dedicat istoriei misiunii catolice din Bagamoyo.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "Un sit istoric din Bagamoyo, legat de comerțul cu sclavi.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "German Boma",
+                  "text": "O clădire administrativă din perioada colonială germană în Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.909634,
+                        -6.443145
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "Un cimitir cu morminte din perioada colonială germană.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "Un loc istoric de comemorare a evenimentelor din epoca colonială în Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "Un loc istoric de popas pentru caravane în Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Art Market;Bagamoyo Art Market",
+                  "text": "Un centru pentru meșteșuguri locale în Bagamoyo.",
+                  "category": "cultural",
+                  "coords": [
+                        38.908462,
+                        -6.441703
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "O clădire istorică din piatră în centrul vechi al orașului Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904833,
+                        -6.441965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Performance Hall",
+                  "text": "A venue for cultural performances in Bagamoyo.",
+                  "category": "cultural",
+                  "coords": [
+                        38.913473,
+                        -6.446481
+                  ]
+            },
+            {
+                  "name": "Roman Catholic Museum",
+                  "text": "A museum documenting the history of the Catholic mission in Bagamoyo.",
+                  "category": "museum",
+                  "coords": [
+                        38.898488,
+                        -6.434685
+                  ]
+            },
+            {
+                  "name": "Fortress/Slave Prison",
+                  "text": "A historic site in Bagamoyo associated with the slave trade.",
+                  "category": "landmark",
+                  "coords": [
+                        38.91081,
+                        -6.444502
+                  ]
+            },
+            {
+                  "name": "German Boma",
+                  "text": "An administrative building from the German colonial era in Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.909634,
+                        -6.443145
+                  ]
+            },
+            {
+                  "name": "German Cemetery( Historical)",
+                  "text": "A cemetery containing graves from the German colonial period.",
+                  "category": "landmark",
+                  "coords": [
+                        38.913327,
+                        -6.445243
+                  ]
+            },
+            {
+                  "name": "Hanging Place",
+                  "text": "A historic site of remembrance for colonial-era events in Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.911748,
+                        -6.443768
+                  ]
+            },
+            {
+                  "name": "Cavaran Serai",
+                  "text": "A historic resting place for caravans in Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.906273,
+                        -6.444554
+                  ]
+            },
+            {
+                  "name": "Art Market;Bagamoyo Art Market",
+                  "text": "A center for local arts and crafts in Bagamoyo.",
+                  "category": "cultural",
+                  "coords": [
+                        38.908462,
+                        -6.441703
+                  ]
+            },
+            {
+                  "name": "The Block House",
+                  "text": "A historic stone building in the old center of Bagamoyo.",
+                  "category": "landmark",
+                  "coords": [
+                        38.904833,
+                        -6.441965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-06",
     coords: [38.9, -6.4333],
@@ -1907,7 +3500,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-chunya-cities-v2",
+    id: "tz-chunya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ujenzi-Chunya",
+                  "text": "Ein Aussichtspunkt mit Blick über die Region Chunya.",
+                  "category": "natural",
+                  "coords": [
+                        33.422433,
+                        -8.525269
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ujenzi-Chunya",
+                  "text": "Kilátópont, ahonnan kilátás nyílik a Chunya régióra.",
+                  "category": "natural",
+                  "coords": [
+                        33.422433,
+                        -8.525269
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ujenzi-Chunya",
+                  "text": "Un punct de observație cu vedere asupra regiunii Chunya.",
+                  "category": "natural",
+                  "coords": [
+                        33.422433,
+                        -8.525269
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ujenzi-Chunya",
+                  "text": "A viewpoint offering vistas over the Chunya region.",
+                  "category": "natural",
+                  "coords": [
+                        33.422433,
+                        -8.525269
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-12",
     coords: [33.4167, -8.5333],
@@ -2015,7 +3653,304 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-lushoto-cities-v2",
+    id: "tz-lushoto-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Irente Farm",
+                  "text": "Ein Bauernhof in den Usambara-Bergen, bekannt für seine Milchprodukte.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "Ein Aussichtspunkt im Magamba-Naturreservat bei Lushoto.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "Der Ausgangspunkt für Wanderwege in der Nähe von Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "Ein Rastplatz für Wanderer mit Aussicht auf die Berge.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Kwenashu trail head",
+                  "text": "Ein Startpunkt für Bergwanderungen im Usambara-Gebirge.",
+                  "category": "natural",
+                  "coords": [
+                        38.281812,
+                        -4.76757
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "Ein markierter Wegbeginn für Naturerkundungen bei Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.289571,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "Ein von Eukalyptusbäumen umgebener Wanderstartpunkt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "Das Tourismusbüro für Informationen über die Region Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Irente Farm",
+                  "text": "Farm az Usambara-hegységben, amely tejtermékeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "Kilátópont a Magamba természetvédelmi területen, Lushoto közelében.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "Túraútvonalak kiindulópontja Lushoto közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "Pihenőhely túrázók számára, kilátással a hegyekre.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Kwenashu trail head",
+                  "text": "Hegyi túrák kiindulópontja az Usambara-hegységben.",
+                  "category": "natural",
+                  "coords": [
+                        38.281812,
+                        -4.76757
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "Jelzett útvonal kezdőpontja természeti felfedezésekhez Lushoto közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        38.289571,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "Eukaliptuszfákkal körülvett túraútvonal kezdőpontja.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "Turisztikai iroda a Lushoto régióval kapcsolatos információkért.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Irente Farm",
+                  "text": "O fermă în Munții Usambara, cunoscută pentru produsele sale lactate.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "Un punct de observație în Rezervația Naturală Magamba, lângă Lushoto.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "Punctul de plecare pentru trasee de drumeție lângă Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "Un loc de popas pentru drumeți, cu vedere spre munți.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Kwenashu trail head",
+                  "text": "Un punct de plecare pentru drumeții montane în Munții Usambara.",
+                  "category": "natural",
+                  "coords": [
+                        38.281812,
+                        -4.76757
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "Un început de traseu marcat pentru explorări naturale lângă Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.289571,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "Un punct de plecare pentru drumeții, înconjurat de arbori de eucalipt.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "Biroul de turism pentru informații despre regiunea Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Irente Farm",
+                  "text": "A farm in the Usambara Mountains known for its dairy products.",
+                  "category": "landmark",
+                  "coords": [
+                        38.265372,
+                        -4.793933
+                  ]
+            },
+            {
+                  "name": "magamba",
+                  "text": "A viewpoint in the Magamba Nature Reserve near Lushoto.",
+                  "category": "natural",
+                  "coords": [
+                        38.281143,
+                        -4.770589
+                  ]
+            },
+            {
+                  "name": "Main trail head",
+                  "text": "The starting point for hiking trails near Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.295136,
+                        -4.759979
+                  ]
+            },
+            {
+                  "name": "New viewpoint and campsite",
+                  "text": "A resting spot for hikers with views of the mountains.",
+                  "category": "natural",
+                  "coords": [
+                        38.279237,
+                        -4.76635
+                  ]
+            },
+            {
+                  "name": "Kwenashu trail head",
+                  "text": "A starting point for mountain hikes in the Usambara Mountains.",
+                  "category": "natural",
+                  "coords": [
+                        38.281812,
+                        -4.76757
+                  ]
+            },
+            {
+                  "name": "Anzo maji trailhead",
+                  "text": "A marked trail beginning for nature explorations near Lushoto.",
+                  "category": "landmark",
+                  "coords": [
+                        38.289571,
+                        -4.75867
+                  ]
+            },
+            {
+                  "name": "Eucalyptus trailhead",
+                  "text": "A hiking starting point surrounded by eucalyptus trees.",
+                  "category": "landmark",
+                  "coords": [
+                        38.284966,
+                        -4.763592
+                  ]
+            },
+            {
+                  "name": "Tayodea Tourist office",
+                  "text": "The tourist office for information about the Lushoto region.",
+                  "category": "landmark",
+                  "coords": [
+                        38.291335,
+                        -4.793954
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-04",
     coords: [38.2833, -4.7833],
@@ -2051,7 +3986,88 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-makunduchi-cities-v2",
+    id: "tz-makunduchi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kuumbi Cave",
+                  "text": "Eine bedeutende archäologische Höhle in der Nähe von Makunduchi auf Sansibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.542398,
+                        -6.361081
+                  ]
+            },
+            {
+                  "name": "Tongoni Ruins",
+                  "text": "Ruinen einer Swahili-Siedlung aus dem 15. Jahrhundert in der Region.",
+                  "category": "historical",
+                  "coords": [
+                        39.549964,
+                        -6.383172
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kuumbi Cave",
+                  "text": "Fontos régészeti barlang Makunduchi közelében, Zanzibáron.",
+                  "category": "historical",
+                  "coords": [
+                        39.542398,
+                        -6.361081
+                  ]
+            },
+            {
+                  "name": "Tongoni Ruins",
+                  "text": "Egy 15. századi szuahéli település romjai a régióban.",
+                  "category": "historical",
+                  "coords": [
+                        39.549964,
+                        -6.383172
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kuumbi Cave",
+                  "text": "Un sit arheologic important într-o peșteră de lângă Makunduchi, în Zanzibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.542398,
+                        -6.361081
+                  ]
+            },
+            {
+                  "name": "Tongoni Ruins",
+                  "text": "Ruinele unei așezări Swahili din secolul al XV-lea situate în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        39.549964,
+                        -6.383172
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kuumbi Cave",
+                  "text": "An important archaeological cave site near Makunduchi on Zanzibar.",
+                  "category": "historical",
+                  "coords": [
+                        39.542398,
+                        -6.361081
+                  ]
+            },
+            {
+                  "name": "Tongoni Ruins",
+                  "text": "Ruins of a 15th-century Swahili settlement located in the region.",
+                  "category": "historical",
+                  "coords": [
+                        39.549964,
+                        -6.383172
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-53",
     coords: [39.5333, -6.3833],
@@ -2087,7 +4103,52 @@ export const poiExtraTanzaniaCitiesV2: POI[] = [
     },
   },
   {
-    id: "tz-muheza-cities-v2",
+    id: "tz-muheza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Scouting Memorial",
+                  "text": "Ein Denkmal in Muheza, das der Pfadfinderbewegung und ihrer Geschichte gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        38.766255,
+                        -5.149712
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Scouting Memorial",
+                  "text": "Emlékmű Muhezában, amelyet a cserkészmozgalomnak és történelmének szenteltek.",
+                  "category": "historical",
+                  "coords": [
+                        38.766255,
+                        -5.149712
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Scouting Memorial",
+                  "text": "Un monument în Muheza dedicat mișcării cercetașilor și istoriei acesteia.",
+                  "category": "historical",
+                  "coords": [
+                        38.766255,
+                        -5.149712
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Scouting Memorial",
+                  "text": "A monument in Muheza dedicated to the scouting movement and its history.",
+                  "category": "historical",
+                  "coords": [
+                        38.766255,
+                        -5.149712
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TZ-04",
     coords: [38.7833, -5.1667],

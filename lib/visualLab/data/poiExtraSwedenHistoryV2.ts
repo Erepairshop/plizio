@@ -2271,7 +2271,196 @@ imageHint: "Stockholm Royal Palace facade",
     image: "/poi-images/sweden-tuna-church-history-v2.webp",
   },
   {
-    id: "sweden-nora-town-history-v2",
+    id: "sweden-nora-town-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fibbetorpsskogen",
+                  "text": "Ein Naturschutzgebiet mit Wald in der Nähe von Nora.",
+                  "category": "natural",
+                  "coords": [
+                        15.001665,
+                        59.521934
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "Ein stadtnahes Waldgebiet und Naturschutzgebiet in Nora.",
+                  "category": "natural",
+                  "coords": [
+                        15.023568,
+                        59.536561
+                  ]
+            },
+            {
+                  "name": "Trollstigen",
+                  "text": "Eine lokale Attraktion in der Stadt Nora.",
+                  "category": "landmark",
+                  "coords": [
+                        15.056489,
+                        59.517067
+                  ]
+            },
+            {
+                  "name": "Bryggeriet Konst AB",
+                  "text": "Ein Kunstzentrum in einer ehemaligen Brauerei in Nora.",
+                  "category": "cultural",
+                  "coords": [
+                        15.029595,
+                        59.519861
+                  ]
+            },
+            {
+                  "name": "Nora kyrka",
+                  "text": "Eine große neugotische Kirche in der Stadt Nora.",
+                  "category": "religious",
+                  "coords": [
+                        15.040566,
+                        59.519579
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fibbetorpsskogen",
+                  "text": "Erdős természetvédelmi terület Nora közelében.",
+                  "category": "natural",
+                  "coords": [
+                        15.001665,
+                        59.521934
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "Városközeli erdő és természetvédelmi terület Norában.",
+                  "category": "natural",
+                  "coords": [
+                        15.023568,
+                        59.536561
+                  ]
+            },
+            {
+                  "name": "Trollstigen",
+                  "text": "Helyi látnivaló Nora városában.",
+                  "category": "landmark",
+                  "coords": [
+                        15.056489,
+                        59.517067
+                  ]
+            },
+            {
+                  "name": "Bryggeriet Konst AB",
+                  "text": "Művészeti központ egy egykori sörgyárban, Norában.",
+                  "category": "cultural",
+                  "coords": [
+                        15.029595,
+                        59.519861
+                  ]
+            },
+            {
+                  "name": "Nora kyrka",
+                  "text": "Nagy neogótikus templom Nora városában.",
+                  "category": "religious",
+                  "coords": [
+                        15.040566,
+                        59.519579
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fibbetorpsskogen",
+                  "text": "O rezervație naturală cu pădure lângă Nora.",
+                  "category": "natural",
+                  "coords": [
+                        15.001665,
+                        59.521934
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "O zonă forestieră și rezervație naturală lângă orașul Nora.",
+                  "category": "natural",
+                  "coords": [
+                        15.023568,
+                        59.536561
+                  ]
+            },
+            {
+                  "name": "Trollstigen",
+                  "text": "O atracție locală în orașul Nora.",
+                  "category": "landmark",
+                  "coords": [
+                        15.056489,
+                        59.517067
+                  ]
+            },
+            {
+                  "name": "Bryggeriet Konst AB",
+                  "text": "Un centru de artă situat într-o fostă berărie din Nora.",
+                  "category": "cultural",
+                  "coords": [
+                        15.029595,
+                        59.519861
+                  ]
+            },
+            {
+                  "name": "Nora kyrka",
+                  "text": "O biserică neogotică mare în orașul Nora.",
+                  "category": "religious",
+                  "coords": [
+                        15.040566,
+                        59.519579
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fibbetorpsskogen",
+                  "text": "A nature reserve featuring forest land near Nora.",
+                  "category": "natural",
+                  "coords": [
+                        15.001665,
+                        59.521934
+                  ]
+            },
+            {
+                  "name": "Stadsskogen",
+                  "text": "A forest area and nature reserve near the town of Nora.",
+                  "category": "natural",
+                  "coords": [
+                        15.023568,
+                        59.536561
+                  ]
+            },
+            {
+                  "name": "Trollstigen",
+                  "text": "A local attraction in the town of Nora.",
+                  "category": "landmark",
+                  "coords": [
+                        15.056489,
+                        59.517067
+                  ]
+            },
+            {
+                  "name": "Bryggeriet Konst AB",
+                  "text": "An arts centre located in a former brewery in Nora.",
+                  "category": "cultural",
+                  "coords": [
+                        15.029595,
+                        59.519861
+                  ]
+            },
+            {
+                  "name": "Nora kyrka",
+                  "text": "A large Neo-Gothic church in the town of Nora.",
+                  "category": "religious",
+                  "coords": [
+                        15.040566,
+                        59.519579
+                  ]
+            }
+      ]
+},
     type: "town",
     parent: "SE",
     name: { de: "Stadt Nora", hu: "Nora város", ro: "Orașul Nora", en: "Nora Town" },

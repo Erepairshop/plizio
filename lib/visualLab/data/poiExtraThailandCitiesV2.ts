@@ -44,7 +44,1816 @@ export const poiExtraThailandCitiesV2: POI[] = [
       en: ["The full ceremonial name of Bangkok has 168 letters and is listed as the longest place name by Guinness World Records.", "Bangkok is sinking at a rate of about 2 to 3 centimeters per year due to groundwater extraction.", "The city's Chinatown (Yaowarat) is one of the largest and oldest Chinatowns in the world.", "Bangkok has the highest number of air-conditioned malls per capita in Southeast Asia.", "The Victory Monument marks the center of the city and serves as a major transportation hub.", "Thailand's currency, the Baht, is minted in Bangkok and all coins feature icons of the city's temples.", "The Chao Phraya River is a tidal river, meaning its level changes based on the tides of the Gulf of Thailand.", "The city's Mahanakhon building features a 'pixelated' facade and a glass skywalk at 314 meters."],
     }, image: "/poi-images/bangkok-cities-v2.webp"},
   {
-    id: "chiang-mai-cities-v2",
+    id: "chiang-mai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "มัสยิดอัตตักวา",
+                  "text": "Ein Gebetshaus für die lokale muslimische Gemeinschaft in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "มัสยิดบ้านฮ่อ",
+                  "text": "Eine der größten Moscheen in Chiang Mai, erbaut von den Chin Haw.",
+                  "category": "religious",
+                  "coords": [
+                        99.001476,
+                        18.786737
+                  ]
+            },
+            {
+                  "name": "วัดเจดีย์หลวงวรวิหาร",
+                  "text": "Ein historischer buddhistischer Tempel, der für seine massive, ruinierte Pagode bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.986857,
+                        18.786973
+                  ]
+            },
+            {
+                  "name": "วัดโลกโมฬี",
+                  "text": "Einer der ältesten buddhistischen Tempel in Chiang Mai mit kunstvollen Holzschnitzereien.",
+                  "category": "religious",
+                  "coords": [
+                        98.982569,
+                        18.796415
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์แห่งชาติ จังหวัดเชียงใหม่",
+                  "text": "Ein Nationalmuseum, das die Geschichte und Kultur Nordthailands präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        98.976425,
+                        18.811607
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์สามกษัตริย์",
+                  "text": "Ein Denkmal im alten Stadtzentrum, das an die Gründer von Chiang Mai erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        98.987352,
+                        18.79023
+                  ]
+            },
+            {
+                  "name": "วัดเชียงยืน",
+                  "text": "Ein buddhistischer Tempel in Chiang Mai, der für seine große weiße Chedi bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "Eine orthodoxe Kirche, die der Gemeinde in Chiang Mai dient.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "Wat Phra Singh",
+                  "text": "Ein bedeutender Tempelkomplex, der das verehrte Phra-Buddha-Sihing-Bild beherbergt.",
+                  "category": "religious",
+                  "coords": [
+                        98.981382,
+                        18.788585
+                  ]
+            },
+            {
+                  "name": "อาสนวิหารพระหฤทัย",
+                  "text": "Eine katholische Kirche und ein Gebetshaus in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.003123,
+                        18.775066
+                  ]
+            },
+            {
+                  "name": "วัดชมพู",
+                  "text": "Ein buddhistischer Tempel mit einer goldenen Pagode, die dem Wat Phra That Doi Suthep ähnelt.",
+                  "category": "religious",
+                  "coords": [
+                        98.99455,
+                        18.791206
+                  ]
+            },
+            {
+                  "name": "วัดผาบ่อง",
+                  "text": "Ein friedlicher buddhistischer Tempel in der Altstadt von Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.982064,
+                        18.789756
+                  ]
+            },
+            {
+                  "name": "Massage für 120B",
+                  "text": "Eine traditionelle Tempelanlage für buddhistische Praxis in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.983877,
+                        18.788125
+                  ]
+            },
+            {
+                  "name": "วัดชัยพระเกียรติ",
+                  "text": "Ein buddhistischer Tempel in Chiang Mai, der für seine kunstvolle Versammlungshalle bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.985891,
+                        18.788755
+                  ]
+            },
+            {
+                  "name": "วัดทรายมูล (พม่า)",
+                  "text": "Ein buddhistischer Tempel im birmanischen Stil für die Gemeinde in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.991232,
+                        18.782162
+                  ]
+            },
+            {
+                  "name": "วัดทรายมูลเมือง",
+                  "text": "Ein lokaler buddhistischer Tempel, der Raum für Gebet und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        98.992431,
+                        18.782625
+                  ]
+            },
+            {
+                  "name": "เทพมณเฑียร",
+                  "text": "Ein hinduistischer Tempel und Gebetshaus für die lokale Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        98.990491,
+                        18.799147
+                  ]
+            },
+            {
+                  "name": "วัดหม้อคำตวง",
+                  "text": "Ein traditioneller buddhistischer Tempel im nördlichen Teil von Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795012
+                  ]
+            },
+            {
+                  "name": "วัดแสนเมืองมาหลวง",
+                  "text": "Ein beeindruckender Tempelkomplex mit kunstvoller Architektur im Lanna-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        98.986356,
+                        18.794009
+                  ]
+            },
+            {
+                  "name": "วัดบุพพาราม",
+                  "text": "Ein historischer Tempel, der für seine kleine Teakholzkapelle und die weiße Chedi bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.998156,
+                        18.787907
+                  ]
+            },
+            {
+                  "name": "วัดดวงดี",
+                  "text": "Ein ruhiger buddhistischer Tempel in der Altstadt, dessen Name „viel Glück“ bedeutet.",
+                  "category": "religious",
+                  "coords": [
+                        98.988499,
+                        18.789488
+                  ]
+            },
+            {
+                  "name": "วัดล่ามช้าง",
+                  "text": "Ein Tempel in Chiang Mai, in dem früher Elefanten gehalten wurden.",
+                  "category": "religious",
+                  "coords": [
+                        98.990519,
+                        18.793059
+                  ]
+            },
+            {
+                  "name": "วัดเจ็ดลิน",
+                  "text": "Ein buddhistischer Tempel mit einem großen Teich und traditionellen Lanna-Gebäuden.",
+                  "category": "religious",
+                  "coords": [
+                        98.987883,
+                        18.783812
+                  ]
+            },
+            {
+                  "name": "วัดแสนฝาง",
+                  "text": "Ein schöner Tempel, bekannt für seine birmanisch beeinflusste Architektur und rote Mauern.",
+                  "category": "religious",
+                  "coords": [
+                        98.998766,
+                        18.789096
+                  ]
+            },
+            {
+                  "name": "วัดศรีสุพรรณ",
+                  "text": "Aufgrund seiner einzigartigen silberfarbenen Dekoration als „Silberner Tempel“ bekannt.",
+                  "category": "religious",
+                  "coords": [
+                        98.983349,
+                        18.778648
+                  ]
+            },
+            {
+                  "name": "Wat Suan Dok",
+                  "text": "Ein Tempel, der „Monk Chat“-Sitzungen für den kulturellen Austausch mit Besuchern anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        98.967783,
+                        18.788156
+                  ]
+            },
+            {
+                  "name": "วัดหมื่นล้าน",
+                  "text": "Ein lokaler Tempel in Chiang Mai, bekannt für seine traditionellen buddhistischen Bauwerke.",
+                  "category": "religious",
+                  "coords": [
+                        98.992086,
+                        18.788116
+                  ]
+            },
+            {
+                  "name": "วัดหมื่นตุม",
+                  "text": "Ein kleiner und friedlicher buddhistischer Tempel innerhalb der Stadtmauern.",
+                  "category": "religious",
+                  "coords": [
+                        98.989099,
+                        18.784139
+                  ]
+            },
+            {
+                  "name": "วัดชัยศรีภูมิ",
+                  "text": "Ein traditionelles Gebetshaus für die lokale buddhistische Gemeinschaft.",
+                  "category": "religious",
+                  "coords": [
+                        98.994159,
+                        18.794368
+                  ]
+            },
+            {
+                  "name": "วัดปราสาท",
+                  "text": "Ein historischer Tempel mit einem klassischen hölzernen Viharn im Lanna-Stil.",
+                  "category": "religious",
+                  "coords": [
+                        98.981023,
+                        18.78981
+                  ]
+            },
+            {
+                  "name": "วัดป้านปิง",
+                  "text": "Ein charmanter buddhistischer Tempel im Herzen der Altstadt.",
+                  "category": "religious",
+                  "coords": [
+                        98.990527,
+                        18.789661
+                  ]
+            },
+            {
+                  "name": "วัดหัวฝาย",
+                  "text": "Ein ruhiger Nachbarschaftstempel, der Raum für lokales Gebet bietet.",
+                  "category": "religious",
+                  "coords": [
+                        98.993585,
+                        18.773568
+                  ]
+            },
+            {
+                  "name": "มูลนิธิเชียงใหม่สามัคคีการกุศล",
+                  "text": "Eine Wohltätigkeitsstiftung und ein Gebetshaus in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.001433,
+                        18.78344
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Ein beliebter Tempel am Ufer des Ping-Flusses.",
+                  "category": "religious",
+                  "coords": [
+                        99.004624,
+                        18.78067
+                  ]
+            },
+            {
+                  "name": "วัดป่าพร้าวใน",
+                  "text": "Ein traditioneller buddhistischer Tempel in einer ruhigen Gegend der Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        98.980598,
+                        18.793288
+                  ]
+            },
+            {
+                  "name": "วัดพวกแต้ม",
+                  "text": "Ein Tempel, der für seine historische Verbindung zur Metallverarbeitung und zum Handwerk bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.983075,
+                        18.782435
+                  ]
+            },
+            {
+                  "name": "วัดเกตการาม",
+                  "text": "Ein historischer Tempel am Flussufer mit einem Gemeinschaftsmuseum.",
+                  "category": "religious",
+                  "coords": [
+                        99.002695,
+                        18.792474
+                  ]
+            },
+            {
+                  "name": "วัดควรค่าม้า",
+                  "text": "Ein buddhistischer Tempel in Chiang Mai, bekannt für seine einzigartigen Pferdestatuen.",
+                  "category": "religious",
+                  "coords": [
+                        98.98371,
+                        18.795171
+                  ]
+            },
+            {
+                  "name": "วัดกู่เต้า",
+                  "text": "Bekannt für seine einzigartige Pagode in Form von gestapelten Wassermelonen.",
+                  "category": "religious",
+                  "coords": [
+                        98.988636,
+                        18.802565
+                  ]
+            },
+            {
+                  "name": "วัดยางกวง",
+                  "text": "Ein historischer buddhistischer Tempel, der vor kurzem restauriert wurde.",
+                  "category": "religious",
+                  "coords": [
+                        98.989084,
+                        18.775809
+                  ]
+            },
+            {
+                  "name": "วัดสำเภา",
+                  "text": "Ein charmanter buddhistischer Tempel in der Altstadt von Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.99058,
+                        18.788241
+                  ]
+            },
+            {
+                  "name": "Chiang Mai Night Bazaar",
+                  "text": "Eine bedeutende Einkaufsattraktion in Chiang Mai, berühmt für ihre Abendmärkte.",
+                  "category": "landmark",
+                  "coords": [
+                        99.001093,
+                        18.785306
+                  ]
+            },
+            {
+                  "name": "วัดเจ็ดยอด",
+                  "text": "Ein Tempel aus dem 15. Jahrhundert, der vom Mahabodhi-Tempel in Indien inspiriert wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        98.972168,
+                        18.809062
+                  ]
+            },
+            {
+                  "name": "สวนบวกหาด",
+                  "text": "Ein gepflegter öffentlicher Park in der südwestlichen Ecke der Altstadt.",
+                  "category": "park",
+                  "coords": [
+                        98.979272,
+                        18.782289
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
+                  "text": "Postmuseum in Chiang Mai, das thailändische Briefmarken und Postgeschichte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        99.002038,
+                        18.78919
+                  ]
+            },
+            {
+                  "name": "คุ้มเจ้าบุรีรัตน์",
+                  "text": "Ein historisches Haus und Museum, das die Lanna-Architektur in Chiang Mai präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        98.988325,
+                        18.787897
+                  ]
+            },
+            {
+                  "name": "หอนิทรรศการศิลปวัฒนธรรม มหาวิทยาลัยเชียงใหม่",
+                  "text": "Ein Kunstzentrum der Universität Chiang Mai, das zeitgenössische Werke ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        98.963253,
+                        18.791527
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
+                  "text": "Ein privates Museum in Chiang Mai mit einer großen Sammlung von Insekten und Fossilien.",
+                  "category": "museum",
+                  "coords": [
+                        98.970645,
+                        18.796128
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เรือนโบราณล้านนา มช.",
+                  "text": "Ein Freilichtmuseum in Chiang Mai, das traditionelle Lanna-Häuser bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        98.961693,
+                        18.791662
+                  ]
+            },
+            {
+                  "name": "Mai Space",
+                  "text": "Eine Galerie für zeitgenössische Kunst und Ausstellungsraum in Chiang Mai.",
+                  "category": "museum",
+                  "coords": [
+                        99.00303,
+                        18.785567
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "มัสยิดอัตตักวา",
+                  "text": "A helyi muszlim közösség temploma Csiangmajban.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "มัสยิดบ้านฮ่อ",
+                  "text": "Csiangmaj egyik legnagyobb mecsetje, amelyet a csin-hók építettek.",
+                  "category": "religious",
+                  "coords": [
+                        99.001476,
+                        18.786737
+                  ]
+            },
+            {
+                  "name": "วัดเจดีย์หลวงวรวิหาร",
+                  "text": "Történelmi buddhista templom, amely hatalmas, romos pagodájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.986857,
+                        18.786973
+                  ]
+            },
+            {
+                  "name": "วัดโลกโมฬี",
+                  "text": "Csiangmaj egyik legrégebbi buddhista temploma díszes fafaragásokkal.",
+                  "category": "religious",
+                  "coords": [
+                        98.982569,
+                        18.796415
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์แห่งชาติ จังหวัดเชียงใหม่",
+                  "text": "Nemzeti múzeum, amely Észak-Thaiföld történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        98.976425,
+                        18.811607
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์สามกษัตริย์",
+                  "text": "Az óváros központjában található emlékmű, amely Csiangmaj alapítóinak állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        98.987352,
+                        18.79023
+                  ]
+            },
+            {
+                  "name": "วัดเชียงยืน",
+                  "text": "Buddhista templom Csiangmajban, amely nagy, fehér csedijéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "Ortodox templom, amely a csiangmaji közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "วัดพระสิงห์",
+                  "text": "Jelentős templomkomplexum, amely a tisztelt Phra Buddha Sihing szobrot őrzi.",
+                  "category": "religious",
+                  "coords": [
+                        98.981382,
+                        18.788585
+                  ]
+            },
+            {
+                  "name": "อาสนวิหารพระหฤทัย",
+                  "text": "Katolikus templom és imaház Csiangmajban.",
+                  "category": "religious",
+                  "coords": [
+                        99.003123,
+                        18.775066
+                  ]
+            },
+            {
+                  "name": "วัดชมพู",
+                  "text": "Buddhista templom arany pagodával, amely hasonlít a Wat Phra That Doi Suthep-hez.",
+                  "category": "religious",
+                  "coords": [
+                        98.99455,
+                        18.791206
+                  ]
+            },
+            {
+                  "name": "วัดผาบ่อง",
+                  "text": "Békés buddhista templom Csiangmaj óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        98.982064,
+                        18.789756
+                  ]
+            },
+            {
+                  "name": "วัดศรีเกิด",
+                  "text": "Hagyományos buddhista templomhelyszín Csiangmajban.",
+                  "category": "religious",
+                  "coords": [
+                        98.983877,
+                        18.788125
+                  ]
+            },
+            {
+                  "name": "วัดชัยพระเกียรติ",
+                  "text": "Buddhista templom Csiangmajban, amely díszes gyülekezeti csarnokáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.985891,
+                        18.788755
+                  ]
+            },
+            {
+                  "name": "วัดทรายมูล (พม่า)",
+                  "text": "Burmai stílusú buddhista templom Csiangmajban.",
+                  "category": "religious",
+                  "coords": [
+                        98.991232,
+                        18.782162
+                  ]
+            },
+            {
+                  "name": "วัดทรายมูลเมือง",
+                  "text": "Helyi buddhista templom, amely helyet biztosít az imádságnak és az elmélkedésnek.",
+                  "category": "religious",
+                  "coords": [
+                        98.992431,
+                        18.782625
+                  ]
+            },
+            {
+                  "name": "เทพมณเฑียร",
+                  "text": "Hindu templom és imaház a helyi közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        98.990491,
+                        18.799147
+                  ]
+            },
+            {
+                  "name": "วัดหม้อคำตวง",
+                  "text": "Hagyományos buddhista templom Csiangmaj északi részén.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795012
+                  ]
+            },
+            {
+                  "name": "วัดแสนเมืองมาหลวง",
+                  "text": "Lenyűgöző templomkomplexum bonyolult Lanna-stílusú építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        98.986356,
+                        18.794009
+                  ]
+            },
+            {
+                  "name": "วัดบุพพาราม",
+                  "text": "Történelmi templom, amely kis teakfa kápolnájáról és fehér csedijéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.998156,
+                        18.787907
+                  ]
+            },
+            {
+                  "name": "วัดดวงดี",
+                  "text": "Csendes buddhista templom az óvárosban, amelynek neve „jó szerencsét” jelent.",
+                  "category": "religious",
+                  "coords": [
+                        98.988499,
+                        18.789488
+                  ]
+            },
+            {
+                  "name": "วัดล่ามช้าง",
+                  "text": "Egy templom Csiangmajban, ahol egykor elefántokat tartottak.",
+                  "category": "religious",
+                  "coords": [
+                        98.990519,
+                        18.793059
+                  ]
+            },
+            {
+                  "name": "วัดเจ็ดลิน",
+                  "text": "Buddhista templom nagy tóval és hagyományos Lanna épületekkel.",
+                  "category": "religious",
+                  "coords": [
+                        98.987883,
+                        18.783812
+                  ]
+            },
+            {
+                  "name": "วัดแสนฝาง",
+                  "text": "Gyönyörű templom, amely burmai hatású építészetéről és vörös falairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.998766,
+                        18.789096
+                  ]
+            },
+            {
+                  "name": "วัดศรีสุพรรณ",
+                  "text": "Egyedülálló ezüstszínű díszítése miatt „Ezüsttemplomként” ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.983349,
+                        18.778648
+                  ]
+            },
+            {
+                  "name": "วัดสวนดอก",
+                  "text": "Templom, amely „szerzetesi csevegést” kínál a látogatókkal való kulturális eszmecsere céljából.",
+                  "category": "religious",
+                  "coords": [
+                        98.967783,
+                        18.788156
+                  ]
+            },
+            {
+                  "name": "วัดหมื่นล้าน",
+                  "text": "Helyi templom Csiangmajban, amely hagyományos buddhista építményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.992086,
+                        18.788116
+                  ]
+            },
+            {
+                  "name": "วัดหมื่นตุม",
+                  "text": "Kicsi és békés buddhista templom a városfalakon belül.",
+                  "category": "religious",
+                  "coords": [
+                        98.989099,
+                        18.784139
+                  ]
+            },
+            {
+                  "name": "วัดชัยศรีภูมิ",
+                  "text": "Hagyományos imaház a helyi buddhista közösség számára.",
+                  "category": "religious",
+                  "coords": [
+                        98.994159,
+                        18.794368
+                  ]
+            },
+            {
+                  "name": "วัดปราสาท",
+                  "text": "Történelmi templom klasszikus Lanna-stílusú fa viharnnal.",
+                  "category": "religious",
+                  "coords": [
+                        98.981023,
+                        18.78981
+                  ]
+            },
+            {
+                  "name": "วัดป้านปิง",
+                  "text": "Bájos buddhista templom az óváros szívében.",
+                  "category": "religious",
+                  "coords": [
+                        98.990527,
+                        18.789661
+                  ]
+            },
+            {
+                  "name": "วัดหัวฝาย",
+                  "text": "Csendes környékbeli templom, amely helyet biztosít a helyi hitéletnek.",
+                  "category": "religious",
+                  "coords": [
+                        98.993585,
+                        18.773568
+                  ]
+            },
+            {
+                  "name": "มูลนิธิเชียงใหม่สามัคคีการกุศล",
+                  "text": "Jótékonysági alapítvány és imaház Csiangmajban.",
+                  "category": "religious",
+                  "coords": [
+                        99.001433,
+                        18.78344
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Népszerű templom a Ping-folyó partján.",
+                  "category": "religious",
+                  "coords": [
+                        99.004624,
+                        18.78067
+                  ]
+            },
+            {
+                  "name": "วัดป่าพร้าวใน",
+                  "text": "Hagyományos buddhista templom a város egyik csendes részén.",
+                  "category": "religious",
+                  "coords": [
+                        98.980598,
+                        18.793288
+                  ]
+            },
+            {
+                  "name": "วัดพวกแต้ม",
+                  "text": "A fémmegmunkálással és a kézművességgel való történelmi kapcsolatáról ismert templom.",
+                  "category": "religious",
+                  "coords": [
+                        98.983075,
+                        18.782435
+                  ]
+            },
+            {
+                  "name": "วัดเกตการาม",
+                  "text": "Történelmi templom a folyóparton, közösségi múzeummal.",
+                  "category": "religious",
+                  "coords": [
+                        99.002695,
+                        18.792474
+                  ]
+            },
+            {
+                  "name": "วัดควรค่าม้า",
+                  "text": "Buddhista templom Csiangmajban, amely egyedülálló lószobrairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.98371,
+                        18.795171
+                  ]
+            },
+            {
+                  "name": "วัดกู่เต้า",
+                  "text": "Egyedülálló, egymásra rakott görögdinnyékre emlékeztető pagodájáról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        98.988636,
+                        18.802565
+                  ]
+            },
+            {
+                  "name": "วัดยางกวง",
+                  "text": "Történelmi buddhista templom, amely a közelmúltban restauráláson esett át.",
+                  "category": "religious",
+                  "coords": [
+                        98.989084,
+                        18.775809
+                  ]
+            },
+            {
+                  "name": "วัดสำเภา",
+                  "text": "Bájos buddhistatemplom Csiangmaj óvárosában.",
+                  "category": "religious",
+                  "coords": [
+                        98.99058,
+                        18.788241
+                  ]
+            },
+            {
+                  "name": "Chiang Mai Night Bazaar",
+                  "text": "Jelentős bevásárlóhely Csiangmajban, amely esti piacairól híres.",
+                  "category": "landmark",
+                  "coords": [
+                        99.001093,
+                        18.785306
+                  ]
+            },
+            {
+                  "name": "วัดเจ็ดยอด",
+                  "text": "15. századi templom, amelyet az indiai Mahabodhi-templom ihletett.",
+                  "category": "landmark",
+                  "coords": [
+                        98.972168,
+                        18.809062
+                  ]
+            },
+            {
+                  "name": "สวนบวกหาด",
+                  "text": "Gondozott közpark az óváros délnyugati sarkában.",
+                  "category": "park",
+                  "coords": [
+                        98.979272,
+                        18.782289
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
+                  "text": "Postamúzeum Chiang Maiban, amely a thai bélyegeket és postatörténetet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.002038,
+                        18.78919
+                  ]
+            },
+            {
+                  "name": "คุ้มเจ้าบุรีรัตน์",
+                  "text": "Történelmi ház és múzeum, amely a lanna építészetet mutatja be Chiang Maiban.",
+                  "category": "museum",
+                  "coords": [
+                        98.988325,
+                        18.787897
+                  ]
+            },
+            {
+                  "name": "หอนิทรรศการศิลปวัฒนธรรม มหาวิทยาลัยเชียงใหม่",
+                  "text": "A Chiang Mai Egyetem művészeti központja, amely kortárs műveket állít ki.",
+                  "category": "museum",
+                  "coords": [
+                        98.963253,
+                        18.791527
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
+                  "text": "Magánmúzeum Chiang Maiban, rovarok és fosszíliák nagy gyűjteményével.",
+                  "category": "museum",
+                  "coords": [
+                        98.970645,
+                        18.796128
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เรือนโบราณล้านนา มช.",
+                  "text": "Szabadtéri múzeum Chiang Maiban, amely hagyományos lanna házakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        98.961693,
+                        18.791662
+                  ]
+            },
+            {
+                  "name": "Mai Space",
+                  "text": "Kortárs művészeti galéria és kiállítótér Chiang Maiban.",
+                  "category": "museum",
+                  "coords": [
+                        99.00303,
+                        18.785567
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "มัสยิดอัตตักวา",
+                  "text": "Un lăcaș de cult pentru comunitatea musulmană locală din Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "มัสยิดบ้านฮ่อ",
+                  "text": "Una dintre cele mai mari moschei din Chiang Mai, construită de poporul Chin Haw.",
+                  "category": "religious",
+                  "coords": [
+                        99.001476,
+                        18.786737
+                  ]
+            },
+            {
+                  "name": "วัดเจดีย์หลวงวรวิหาร",
+                  "text": "Un templu budist istoric cunoscut pentru pagoda sa masivă în ruină.",
+                  "category": "religious",
+                  "coords": [
+                        98.986857,
+                        18.786973
+                  ]
+            },
+            {
+                  "name": "วัดโลกโมฬี",
+                  "text": "Unul dintre cele mai vechi temple budiste din Chiang Mai, cu sculpturi ornamentate în lemn.",
+                  "category": "religious",
+                  "coords": [
+                        98.982569,
+                        18.796415
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์แห่งชาติ จังหวัดเชียงใหม่",
+                  "text": "Un muzeu național care prezintă istoria și cultura Thailandei de Nord.",
+                  "category": "museum",
+                  "coords": [
+                        98.976425,
+                        18.811607
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์สามกษัตริย์",
+                  "text": "Un monument din centrul vechi al orașului care îi comemorează pe fondatorii orașului Chiang Mai.",
+                  "category": "historical",
+                  "coords": [
+                        98.987352,
+                        18.79023
+                  ]
+            },
+            {
+                  "name": "วัดเชียงยืน",
+                  "text": "Un templu budist din Chiang Mai cunoscut pentru marea sa chedi albă.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "Un lăcaș de cult ortodox care deservește comunitatea din Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "วัดพระสิงห์",
+                  "text": "Un complex de temple semnificativ care adăpostește venerata imagine Phra Buddha Sihing.",
+                  "category": "religious",
+                  "coords": [
+                        98.981382,
+                        18.788585
+                  ]
+            },
+            {
+                  "name": "อาสนวิหารพระหฤทัย",
+                  "text": "O biserică catolică și lăcaș de cult situat în Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.003123,
+                        18.775066
+                  ]
+            },
+            {
+                  "name": "วัดชมพู",
+                  "text": "Un templu budist cu o pagodă aurie similară cu Wat Phra That Doi Suthep.",
+                  "category": "religious",
+                  "coords": [
+                        98.99455,
+                        18.791206
+                  ]
+            },
+            {
+                  "name": "วัดผาบ่อง",
+                  "text": "Un templu budist liniștit situat în orașul vechi din Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.982064,
+                        18.789756
+                  ]
+            },
+            {
+                  "name": "วัดศรีเกิด",
+                  "text": "Un sit de templu tradițional pentru practica budistă în Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.983877,
+                        18.788125
+                  ]
+            },
+            {
+                  "name": "วัดชัยพระเกียรติ",
+                  "text": "Un templu budist din Chiang Mai cunoscut pentru sala sa de adunare ornamentată.",
+                  "category": "religious",
+                  "coords": [
+                        98.985891,
+                        18.788755
+                  ]
+            },
+            {
+                  "name": "วัดทรายมูล (พม่า)",
+                  "text": "Un templu budist în stil birmanez care deservește comunitatea din Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.991232,
+                        18.782162
+                  ]
+            },
+            {
+                  "name": "วัดทรายมูลเมือง",
+                  "text": "Un templu budist local care oferă un loc de închinare și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        98.992431,
+                        18.782625
+                  ]
+            },
+            {
+                  "name": "เทพมณเฑียร",
+                  "text": "Un templu hindu și lăcaș de cult pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        98.990491,
+                        18.799147
+                  ]
+            },
+            {
+                  "name": "วัดหม้อคำตวง",
+                  "text": "Un templu budist tradițional situat în partea de nord a orașului Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795012
+                  ]
+            },
+            {
+                  "name": "วัดแสนเมืองมาหลวง",
+                  "text": "Un complex de temple uimitor cu arhitectură complicată în stil Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        98.986356,
+                        18.794009
+                  ]
+            },
+            {
+                  "name": "วัดบุพพาราม",
+                  "text": "Un templu istoric cunoscut pentru mica sa capelă din lemn de tec și chedi albă.",
+                  "category": "religious",
+                  "coords": [
+                        98.998156,
+                        18.787907
+                  ]
+            },
+            {
+                  "name": "วัดดวงดี",
+                  "text": "Un templu budist liniștit din orașul vechi, al cărui nume înseamnă „noroc”.",
+                  "category": "religious",
+                  "coords": [
+                        98.988499,
+                        18.789488
+                  ]
+            },
+            {
+                  "name": "วัดล่ามช้าง",
+                  "text": "Un templu din Chiang Mai unde în trecut erau ținuți elefanți.",
+                  "category": "religious",
+                  "coords": [
+                        98.990519,
+                        18.793059
+                  ]
+            },
+            {
+                  "name": "วัดเจ็ดลิน",
+                  "text": "Un templu budist cu un iaz mare și clădiri tradiționale Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        98.987883,
+                        18.783812
+                  ]
+            },
+            {
+                  "name": "วัดแสนฝาง",
+                  "text": "Un templu frumos cunoscut pentru arhitectura sa cu influențe birmaneze și pereții roșii.",
+                  "category": "religious",
+                  "coords": [
+                        98.998766,
+                        18.789096
+                  ]
+            },
+            {
+                  "name": "วัดศรีสุพรรณ",
+                  "text": "Cunoscut sub numele de „Templul de Argint” pentru decorul său unic de culoare argintie.",
+                  "category": "religious",
+                  "coords": [
+                        98.983349,
+                        18.778648
+                  ]
+            },
+            {
+                  "name": "วัดสวนดอก",
+                  "text": "Un templu care oferă sesiuni de „dialog cu călugării” pentru schimb cultural cu vizitatorii.",
+                  "category": "religious",
+                  "coords": [
+                        98.967783,
+                        18.788156
+                  ]
+            },
+            {
+                  "name": "วัดหมื่นล้าน",
+                  "text": "Un templu local din Chiang Mai cunoscut pentru structurile sale budiste tradiționale.",
+                  "category": "religious",
+                  "coords": [
+                        98.992086,
+                        18.788116
+                  ]
+            },
+            {
+                  "name": "วัดหมื่นตุม",
+                  "text": "Un templu budist mic și liniștit situat în interiorul zidurilor orașului.",
+                  "category": "religious",
+                  "coords": [
+                        98.989099,
+                        18.784139
+                  ]
+            },
+            {
+                  "name": "วัดชัยศรีภูมิ",
+                  "text": "Un lăcaș de cult tradițional pentru comunitatea budistă locală.",
+                  "category": "religious",
+                  "coords": [
+                        98.994159,
+                        18.794368
+                  ]
+            },
+            {
+                  "name": "วัดปราสาท",
+                  "text": "Un templu istoric cu un viharn clasic din lemn în stil Lanna.",
+                  "category": "religious",
+                  "coords": [
+                        98.981023,
+                        18.78981
+                  ]
+            },
+            {
+                  "name": "วัดป้านปิง",
+                  "text": "Un templu budist fermecător situat în inima orașului vechi.",
+                  "category": "religious",
+                  "coords": [
+                        98.990527,
+                        18.789661
+                  ]
+            },
+            {
+                  "name": "วัดหัวฝาย",
+                  "text": "Un templu de cartier liniștit care oferă un spațiu pentru închinarea locală.",
+                  "category": "religious",
+                  "coords": [
+                        98.993585,
+                        18.773568
+                  ]
+            },
+            {
+                  "name": "มูลนิธิเชียงใหม่สามัคคีการกุศล",
+                  "text": "O fundație caritabilă și lăcaș de cult în Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.001433,
+                        18.78344
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Un templu popular situat pe malul râului Ping.",
+                  "category": "religious",
+                  "coords": [
+                        99.004624,
+                        18.78067
+                  ]
+            },
+            {
+                  "name": "วัดป่าพร้าวใน",
+                  "text": "Un templu budist tradițional situat într-o zonă liniștită a orașului.",
+                  "category": "religious",
+                  "coords": [
+                        98.980598,
+                        18.793288
+                  ]
+            },
+            {
+                  "name": "วัดพวกแต้ม",
+                  "text": "Un templu cunoscut pentru asocierea sa istorică cu prelucrarea metalelor și meșteșugurile.",
+                  "category": "religious",
+                  "coords": [
+                        98.983075,
+                        18.782435
+                  ]
+            },
+            {
+                  "name": "วัดเกตการาม",
+                  "text": "Un templu istoric de pe malul râului, care găzduiește un muzeu comunitar.",
+                  "category": "religious",
+                  "coords": [
+                        99.002695,
+                        18.792474
+                  ]
+            },
+            {
+                  "name": "วัดควรค่าม้า",
+                  "text": "Un templu budist din Chiang Mai cunoscut pentru statuile sale unice de cai.",
+                  "category": "religious",
+                  "coords": [
+                        98.98371,
+                        18.795171
+                  ]
+            },
+            {
+                  "name": "วัดกู่เต้า",
+                  "text": "Cunoscut pentru pagoda sa unică în formă de pepeni verzi stivuiți.",
+                  "category": "religious",
+                  "coords": [
+                        98.988636,
+                        18.802565
+                  ]
+            },
+            {
+                  "name": "วัดยางกวง",
+                  "text": "Un templu budist istoric care a fost restaurat recent.",
+                  "category": "religious",
+                  "coords": [
+                        98.989084,
+                        18.775809
+                  ]
+            },
+            {
+                  "name": "วัดสำเภา",
+                  "text": "Un templu budist fermecător situat în orașul vechi din Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.99058,
+                        18.788241
+                  ]
+            },
+            {
+                  "name": "Chiang Mai Night Bazaar",
+                  "text": "O atracție majoră pentru cumpărături din Chiang Mai, faimoasă pentru piețele sale de seară.",
+                  "category": "landmark",
+                  "coords": [
+                        99.001093,
+                        18.785306
+                  ]
+            },
+            {
+                  "name": "วัดเจ็ดยอด",
+                  "text": "Un templu din secolul al XV-lea inspirat de templul Mahabodhi din India.",
+                  "category": "landmark",
+                  "coords": [
+                        98.972168,
+                        18.809062
+                  ]
+            },
+            {
+                  "name": "สวนบวกหาด",
+                  "text": "Un parc public bine întreținut în colțul de sud-vest al orașului vechi.",
+                  "category": "park",
+                  "coords": [
+                        98.979272,
+                        18.782289
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ตราไปรษณียากร เชียงใหม่",
+                  "text": "Muzeul filatelic din Chiang Mai, care expune timbre și istoria poștală a Thailandei.",
+                  "category": "museum",
+                  "coords": [
+                        99.002038,
+                        18.78919
+                  ]
+            },
+            {
+                  "name": "คุ้มเจ้าบุรีรัตน์",
+                  "text": "O casă istorică și un muzeu care prezintă arhitectura Lanna în Chiang Mai.",
+                  "category": "museum",
+                  "coords": [
+                        98.988325,
+                        18.787897
+                  ]
+            },
+            {
+                  "name": "หอนิทรรศการศิลปวัฒนธรรม มหาวิทยาลัยเชียงใหม่",
+                  "text": "Un centru de artă al Universității Chiang Mai care expune lucrări contemporane.",
+                  "category": "museum",
+                  "coords": [
+                        98.963253,
+                        18.791527
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์แมลงโลกและสิ่งมหัศจรรย์ธรรมชาติ",
+                  "text": "Un muzeu privat din Chiang Mai cu o colecție bogată de insecte și fosile.",
+                  "category": "museum",
+                  "coords": [
+                        98.970645,
+                        18.796128
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เรือนโบราณล้านนา มช.",
+                  "text": "Un muzeu în aer liber din Chiang Mai care conservă case tradiționale Lanna.",
+                  "category": "museum",
+                  "coords": [
+                        98.961693,
+                        18.791662
+                  ]
+            },
+            {
+                  "name": "Mai Space",
+                  "text": "O galerie de artă contemporană și spațiu de expoziție în Chiang Mai.",
+                  "category": "museum",
+                  "coords": [
+                        99.00303,
+                        18.785567
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "San Pa Koi Mosque",
+                  "text": "A place of worship for the local Muslim community in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.007032,
+                        18.792073
+                  ]
+            },
+            {
+                  "name": "Baan Haw Mosque",
+                  "text": "One of the largest mosques in Chiang Mai, built by the Chin Haw people.",
+                  "category": "religious",
+                  "coords": [
+                        99.001476,
+                        18.786737
+                  ]
+            },
+            {
+                  "name": "Wat Chedi Luang",
+                  "text": "A historic Buddhist temple known for its massive ruined pagoda.",
+                  "category": "religious",
+                  "coords": [
+                        98.986857,
+                        18.786973
+                  ]
+            },
+            {
+                  "name": "Wat Lok Molee",
+                  "text": "One of the oldest Buddhist temples in Chiang Mai, featuring ornate wooden carvings.",
+                  "category": "religious",
+                  "coords": [
+                        98.982569,
+                        18.796415
+                  ]
+            },
+            {
+                  "name": "Chiang Mai National Museum",
+                  "text": "A national museum showcasing the history and culture of Northern Thailand.",
+                  "category": "museum",
+                  "coords": [
+                        98.976425,
+                        18.811607
+                  ]
+            },
+            {
+                  "name": "Three Kings Monument",
+                  "text": "A monument in the old city centre commemorating the founders of Chiang Mai.",
+                  "category": "historical",
+                  "coords": [
+                        98.987352,
+                        18.79023
+                  ]
+            },
+            {
+                  "name": "Wat Chiang Yuen",
+                  "text": "A Buddhist temple in Chiang Mai known for its large white chedi.",
+                  "category": "religious",
+                  "coords": [
+                        98.98878,
+                        18.796325
+                  ]
+            },
+            {
+                  "name": "Saint Vladimir Orthodox Church",
+                  "text": "An Orthodox place of worship serving the community in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.997269,
+                        18.773503
+                  ]
+            },
+            {
+                  "name": "Wat Phra Singh",
+                  "text": "A significant temple complex housing the revered Phra Buddha Sihing image.",
+                  "category": "religious",
+                  "coords": [
+                        98.981382,
+                        18.788585
+                  ]
+            },
+            {
+                  "name": "Sacred Heart Church",
+                  "text": "A Catholic church and place of worship located in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.003123,
+                        18.775066
+                  ]
+            },
+            {
+                  "name": "Wat Chomphu",
+                  "text": "A Buddhist temple featuring a golden pagoda similar to Wat Phra That Doi Suthep.",
+                  "category": "religious",
+                  "coords": [
+                        98.99455,
+                        18.791206
+                  ]
+            },
+            {
+                  "name": "Wat Pha Bong",
+                  "text": "A peaceful Buddhist temple located in the old city of Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.982064,
+                        18.789756
+                  ]
+            },
+            {
+                  "name": "Wat Si Koet",
+                  "text": "A traditional temple site for Buddhist practice in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.983877,
+                        18.788125
+                  ]
+            },
+            {
+                  "name": "Wat Chai Phrakiat",
+                  "text": "A Buddhist temple in Chiang Mai known for its ornate assembly hall.",
+                  "category": "religious",
+                  "coords": [
+                        98.985891,
+                        18.788755
+                  ]
+            },
+            {
+                  "name": "Wat Sai Moon Myanmar",
+                  "text": "A Burmese-style Buddhist temple serving the community in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.991232,
+                        18.782162
+                  ]
+            },
+            {
+                  "name": "Wat Saimoonmuang",
+                  "text": "A local Buddhist temple providing a place for worship and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        98.992431,
+                        18.782625
+                  ]
+            },
+            {
+                  "name": "Thep Montien",
+                  "text": "A Hindu temple and place of worship for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        98.990491,
+                        18.799147
+                  ]
+            },
+            {
+                  "name": "Wat Mo Kham Tuang",
+                  "text": "A traditional Buddhist temple located in the northern part of Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.985358,
+                        18.795012
+                  ]
+            },
+            {
+                  "name": "Wat Saen Mueang Ma Luang",
+                  "text": "A stunning temple complex featuring intricate Lanna-style architecture.",
+                  "category": "religious",
+                  "coords": [
+                        98.986356,
+                        18.794009
+                  ]
+            },
+            {
+                  "name": "Wat Bupparam",
+                  "text": "A historic temple known for its small teak wood chapel and white chedi.",
+                  "category": "religious",
+                  "coords": [
+                        98.998156,
+                        18.787907
+                  ]
+            },
+            {
+                  "name": "Wat Duang Di",
+                  "text": "A quiet Buddhist temple in the old city, whose name means \"good luck\".",
+                  "category": "religious",
+                  "coords": [
+                        98.988499,
+                        18.789488
+                  ]
+            },
+            {
+                  "name": "Wat Lam Chang",
+                  "text": "A temple in Chiang Mai where elephants used to be kept in the past.",
+                  "category": "religious",
+                  "coords": [
+                        98.990519,
+                        18.793059
+                  ]
+            },
+            {
+                  "name": "Wat Chet Lin - Wat Jedlin",
+                  "text": "A Buddhist temple featuring a large pond and traditional Lanna buildings.",
+                  "category": "religious",
+                  "coords": [
+                        98.987883,
+                        18.783812
+                  ]
+            },
+            {
+                  "name": "Wat Saen Fang",
+                  "text": "A beautiful temple known for its Burmese-influenced architecture and red walls.",
+                  "category": "religious",
+                  "coords": [
+                        98.998766,
+                        18.789096
+                  ]
+            },
+            {
+                  "name": "Wat Sri Suphan",
+                  "text": "Known as the \"Silver Temple\" for its unique silver-colored decoration.",
+                  "category": "religious",
+                  "coords": [
+                        98.983349,
+                        18.778648
+                  ]
+            },
+            {
+                  "name": "Wat Suan Dok Monk Chat",
+                  "text": "A temple offering \"monk chat\" sessions for cultural exchange with visitors.",
+                  "category": "religious",
+                  "coords": [
+                        98.967783,
+                        18.788156
+                  ]
+            },
+            {
+                  "name": "Wat Muen Larn",
+                  "text": "A local temple in Chiang Mai known for its traditional Buddhist structures.",
+                  "category": "religious",
+                  "coords": [
+                        98.992086,
+                        18.788116
+                  ]
+            },
+            {
+                  "name": "Wat Muentoom",
+                  "text": "A small and peaceful Buddhist temple located within the city walls.",
+                  "category": "religious",
+                  "coords": [
+                        98.989099,
+                        18.784139
+                  ]
+            },
+            {
+                  "name": "Wat Chai Sri Phoon",
+                  "text": "A traditional place of worship for the local Buddhist community.",
+                  "category": "religious",
+                  "coords": [
+                        98.994159,
+                        18.794368
+                  ]
+            },
+            {
+                  "name": "Wat Prasat",
+                  "text": "A historic temple featuring a classic Lanna-style wooden viharn.",
+                  "category": "religious",
+                  "coords": [
+                        98.981023,
+                        18.78981
+                  ]
+            },
+            {
+                  "name": "Wat Panping",
+                  "text": "A charming Buddhist temple located in the heart of the old city.",
+                  "category": "religious",
+                  "coords": [
+                        98.990527,
+                        18.789661
+                  ]
+            },
+            {
+                  "name": "Wat Hua Fai",
+                  "text": "A quiet neighborhood temple offering a space for local worship.",
+                  "category": "religious",
+                  "coords": [
+                        98.993585,
+                        18.773568
+                  ]
+            },
+            {
+                  "name": "Chiangmai Samakkee Charity Foundation",
+                  "text": "Chiangmai Samakkee Charity Foundation is a charitable foundation and place of worship in Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        99.001433,
+                        18.78344
+                  ]
+            },
+            {
+                  "name": "Wat Chaimongkol",
+                  "text": "A popular temple located on the banks of the Ping River.",
+                  "category": "religious",
+                  "coords": [
+                        99.004624,
+                        18.78067
+                  ]
+            },
+            {
+                  "name": "Wat Pa Phrao Nai",
+                  "text": "A traditional Buddhist temple located in a peaceful area of the city.",
+                  "category": "religious",
+                  "coords": [
+                        98.980598,
+                        18.793288
+                  ]
+            },
+            {
+                  "name": "Wat Phuak Taem",
+                  "text": "A temple known for its historical association with metalworking and crafts.",
+                  "category": "religious",
+                  "coords": [
+                        98.983075,
+                        18.782435
+                  ]
+            },
+            {
+                  "name": "Wat Ket Karam",
+                  "text": "A historic temple on the riverbank featuring a community museum.",
+                  "category": "religious",
+                  "coords": [
+                        99.002695,
+                        18.792474
+                  ]
+            },
+            {
+                  "name": "Wat Khuan Kama",
+                  "text": "A Buddhist temple in Chiang Mai known for its unique horse statues.",
+                  "category": "religious",
+                  "coords": [
+                        98.98371,
+                        18.795171
+                  ]
+            },
+            {
+                  "name": "Wat Ku Tao",
+                  "text": "Known for its unique pagoda shaped like stacked watermelons.",
+                  "category": "religious",
+                  "coords": [
+                        98.988636,
+                        18.802565
+                  ]
+            },
+            {
+                  "name": "Wat Yang Kuang",
+                  "text": "A historic Buddhist temple that has undergone recent restoration.",
+                  "category": "religious",
+                  "coords": [
+                        98.989084,
+                        18.775809
+                  ]
+            },
+            {
+                  "name": "Wat Sam Pao",
+                  "text": "A charming Buddhist temple located in the old city of Chiang Mai.",
+                  "category": "religious",
+                  "coords": [
+                        98.99058,
+                        18.788241
+                  ]
+            },
+            {
+                  "name": "Chiang Mai Night Bazaar",
+                  "text": "A major shopping attraction in Chiang Mai famous for its evening markets.",
+                  "category": "landmark",
+                  "coords": [
+                        99.001093,
+                        18.785306
+                  ]
+            },
+            {
+                  "name": "Wat Jed Yod",
+                  "text": "A 15th-century temple inspired by the Mahabodhi temple in India.",
+                  "category": "landmark",
+                  "coords": [
+                        98.972168,
+                        18.809062
+                  ]
+            },
+            {
+                  "name": "Nong Buak Haad Park",
+                  "text": "A well-maintained public park in the southwest corner of the old city.",
+                  "category": "park",
+                  "coords": [
+                        98.979272,
+                        18.782289
+                  ]
+            },
+            {
+                  "name": "Chiang Mai Philatelic Museum",
+                  "text": "Philatelic museum in Chiang Mai displaying Thai stamps and postal history.",
+                  "category": "museum",
+                  "coords": [
+                        99.002038,
+                        18.78919
+                  ]
+            },
+            {
+                  "name": "Khum Chao Burirat House",
+                  "text": "A historic house and museum showcasing Lanna architecture in Chiang Mai.",
+                  "category": "museum",
+                  "coords": [
+                        98.988325,
+                        18.787897
+                  ]
+            },
+            {
+                  "name": "Art Center Chiang Mai University",
+                  "text": "An art center at Chiang Mai University exhibiting contemporary works.",
+                  "category": "museum",
+                  "coords": [
+                        98.963253,
+                        18.791527
+                  ]
+            },
+            {
+                  "name": "Museum of World Insects and Natural Wonders",
+                  "text": "A private museum in Chiang Mai featuring a large collection of insects and fossils.",
+                  "category": "museum",
+                  "coords": [
+                        98.970645,
+                        18.796128
+                  ]
+            },
+            {
+                  "name": "Lanna Traditional House Museum CMU.",
+                  "text": "An open-air museum in Chiang Mai preserving traditional Lanna houses.",
+                  "category": "museum",
+                  "coords": [
+                        98.961693,
+                        18.791662
+                  ]
+            },
+            {
+                  "name": "Mai Space",
+                  "text": "A contemporary art gallery and exhibition space in Chiang Mai.",
+                  "category": "museum",
+                  "coords": [
+                        99.00303,
+                        18.785567
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-50",
     coords: [98.9853, 18.7883],
@@ -138,7 +1947,880 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Phuket-Stadt est la capitale de la province insulaire de Phuket, connue pour sa vieille ville à l'architecture sino-portugaise.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothaï et d'Ayutthaya."],
     }, image: "/poi-images/phuket-city-cities-v2.webp"},
   {
-    id: "pattaya-cities-v2",
+    id: "pattaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Kids ATV's",
+                  "text": "Eine Freizeitanlage in Pattaya mit Quads für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        100.883141,
+                        12.906244
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "Ein Museum mit kuriosen Exponaten und interaktiven Attraktionen.",
+                  "category": "museum",
+                  "coords": [
+                        100.878571,
+                        12.928761
+                  ]
+            },
+            {
+                  "name": "International Snake Show",
+                  "text": "Eine Anlage in Pattaya, die verschiedene Schlangenarten und Vorführungen zeigt.",
+                  "category": "recreational",
+                  "coords": [
+                        100.907308,
+                        12.9349
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Museum",
+                  "text": "Ein Museum in Pattaya mit einer großen Sammlung von Teddybären.",
+                  "category": "museum",
+                  "coords": [
+                        100.885038,
+                        12.946648
+                  ]
+            },
+            {
+                  "name": "Tuxedo Illusion Hall",
+                  "text": "Ein Theater in Pattaya, das auf Zaubershows und Illusionen spezialisiert ist.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889754,
+                        12.946925
+                  ]
+            },
+            {
+                  "name": "D'Luck Cinematic Theatre",
+                  "text": "Ein modernes Theater für aufwendige Bühnenshows und Filme.",
+                  "category": "cultural",
+                  "coords": [
+                        100.878076,
+                        12.907177
+                  ]
+            },
+            {
+                  "name": "The bottle museum",
+                  "text": "Ein Museum, das kunstvolle Modelle und Szenen in Flaschen zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        100.90008,
+                        12.929072
+                  ]
+            },
+            {
+                  "name": "หาดพัทยา",
+                  "text": "Ein bekannter Strandabschnitt in Pattaya mit zahlreichen Freizeitmöglichkeiten.",
+                  "category": "recreational",
+                  "coords": [
+                        100.879526,
+                        12.938916
+                  ]
+            },
+            {
+                  "name": "Alcazar Cabaret Show",
+                  "text": "Ein berühmtes Varieté-Theater in Pattaya mit aufwendigen Kostümshows.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889002,
+                        12.943005
+                  ]
+            },
+            {
+                  "name": "หาดเอเชีย",
+                  "text": "Ein ruhigerer Sandstrand im Süden von Pattaya.",
+                  "category": "recreational",
+                  "coords": [
+                        100.856814,
+                        12.915334
+                  ]
+            },
+            {
+                  "name": "Art in Paradise",
+                  "text": "Ein interaktives Museum für optische Täuschungen und 3D-Bilder.",
+                  "category": "museum",
+                  "coords": [
+                        100.889885,
+                        12.948239
+                  ]
+            },
+            {
+                  "name": "Tiffany's Show",
+                  "text": "Ein renommiertes Theater in Pattaya, bekannt für seine Cabaret-Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        100.887591,
+                        12.94901
+                  ]
+            },
+            {
+                  "name": "Amazing Art",
+                  "text": "Ein Museum mit interaktiven 3D-Kunstwerken zum Fotografieren.",
+                  "category": "museum",
+                  "coords": [
+                        100.897032,
+                        12.944936
+                  ]
+            },
+            {
+                  "name": "Colosseum Show Pattaya",
+                  "text": "Ein großes Theater in Pattaya, das für seine aufwendigen Kabarett-Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        100.877496,
+                        12.90468
+                  ]
+            },
+            {
+                  "name": "หาดนาเกลือ",
+                  "text": "Ein ruhigerer Sandstrand im Norden von Pattaya.",
+                  "category": "recreational",
+                  "coords": [
+                        100.88272,
+                        12.953664
+                  ]
+            },
+            {
+                  "name": "สนุกปาร์ค",
+                  "text": "Ein Freizeitpark in Pattaya mit verschiedenen Attraktionen für Besucher.",
+                  "category": "recreational",
+                  "coords": [
+                        100.884853,
+                        12.899834
+                  ]
+            },
+            {
+                  "name": "ถนนพัทยาสายหนึ่ง",
+                  "text": "Eine belebte Straße in Pattaya, die für ihre Geschäfte und Unterhaltungsmöglichkeiten bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.871466,
+                        12.926024
+                  ]
+            },
+            {
+                  "name": "พัทยาปาร์คทาวเวอร์",
+                  "text": "Ein markanter Turm in Pattaya mit Aussichtsplattform und Drehrestaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        100.863164,
+                        12.906274
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเมืองพัทยา",
+                  "text": "Ein beliebter Aussichtspunkt, der einen Panoramablick über die Bucht von Pattaya bietet.",
+                  "category": "natural",
+                  "coords": [
+                        100.866082,
+                        12.922263
+                  ]
+            },
+            {
+                  "name": "ป้าย Pattaya City",
+                  "text": "Das ikonische Stadtschild von Pattaya auf einem Hügel über der Bucht.",
+                  "category": "landmark",
+                  "coords": [
+                        100.864446,
+                        12.925658
+                  ]
+            },
+            {
+                  "name": "สวนน้ำพัทยาปาร์ค",
+                  "text": "Ein Wasserpark in Pattaya mit verschiedenen Rutschen und Pools.",
+                  "category": "landmark",
+                  "coords": [
+                        100.860978,
+                        12.905677
+                  ]
+            },
+            {
+                  "name": "Walking Street",
+                  "text": "Pattayas berühmte Unterhaltungsmeile mit zahlreichen Bars und Nachtclubs.",
+                  "category": "landmark",
+                  "coords": [
+                        100.874646,
+                        12.927417
+                  ]
+            },
+            {
+                  "name": "The View Pattaya",
+                  "text": "Ein Ort in Pattaya, der für seine Aussicht oder als Treffpunkt bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.886867,
+                        12.942842
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Ein bedeutender buddhistischer Tempel im Zentrum von Pattaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.877243,
+                        12.925944
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kids ATV's",
+                  "text": "Szabadidős létesítmény Pattayában, kvadokkal gyerekeknek.",
+                  "category": "recreational",
+                  "coords": [
+                        100.883141,
+                        12.906244
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "Különös tárgyakat és interaktív attrakciókat bemutató múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        100.878571,
+                        12.928761
+                  ]
+            },
+            {
+                  "name": "International Snake Show",
+                  "text": "Pattayai létesítmény, ahol különböző kígyófajokat és bemutatókat láthatunk.",
+                  "category": "recreational",
+                  "coords": [
+                        100.907308,
+                        12.9349
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Museum",
+                  "text": "Múzeum Pattayában, amely mackók nagy gyűjteményét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        100.885038,
+                        12.946648
+                  ]
+            },
+            {
+                  "name": "Tuxedo Illusion Hall",
+                  "text": "Bűvészműsorokra és illúziókra szakosodott színház Pattayában.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889754,
+                        12.946925
+                  ]
+            },
+            {
+                  "name": "D'Luck Cinematic Theatre",
+                  "text": "Modern színház látványos színpadi előadások és filmek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        100.878076,
+                        12.907177
+                  ]
+            },
+            {
+                  "name": "The bottle museum",
+                  "text": "Múzeum, amely művészi modelleket és jeleneteket mutat be palackokban.",
+                  "category": "museum",
+                  "coords": [
+                        100.90008,
+                        12.929072
+                  ]
+            },
+            {
+                  "name": "หาดพัทยา",
+                  "text": "Ismert tengerparti szakasz Pattayában, számos szabadidős lehetőséggel.",
+                  "category": "recreational",
+                  "coords": [
+                        100.879526,
+                        12.938916
+                  ]
+            },
+            {
+                  "name": "Alcazar Cabaret Show",
+                  "text": "Híres varieté-színház Pattayában, látványos kosztümös műsorokkal.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889002,
+                        12.943005
+                  ]
+            },
+            {
+                  "name": "หาดเอเชีย",
+                  "text": "Csendesebb homokos tengerpart Pattaya déli részén.",
+                  "category": "recreational",
+                  "coords": [
+                        100.856814,
+                        12.915334
+                  ]
+            },
+            {
+                  "name": "Art in Paradise",
+                  "text": "Interaktív múzeum optikai csalódásokkal és 3D képekkel.",
+                  "category": "museum",
+                  "coords": [
+                        100.889885,
+                        12.948239
+                  ]
+            },
+            {
+                  "name": "Tiffany's Show",
+                  "text": "Neves színház Pattayában, amely kabaré-előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        100.887591,
+                        12.94901
+                  ]
+            },
+            {
+                  "name": "Amazing Art",
+                  "text": "Múzeum interaktív 3D-s műalkotásokkal, amelyekkel fotózkodni lehet.",
+                  "category": "museum",
+                  "coords": [
+                        100.897032,
+                        12.944936
+                  ]
+            },
+            {
+                  "name": "Colosseum Show Pattaya",
+                  "text": "Pattaya egyik nagy színháza, amely látványos kabaré-előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        100.877496,
+                        12.90468
+                  ]
+            },
+            {
+                  "name": "หาดนาเกลือ",
+                  "text": "Egy nyugodtabb homokos tengerpart Pattaya északi részén.",
+                  "category": "recreational",
+                  "coords": [
+                        100.88272,
+                        12.953664
+                  ]
+            },
+            {
+                  "name": "สนุกปาร์ค",
+                  "text": "Vidámpark Pattayán, amely különféle attrakciókat kínál a látogatóknak.",
+                  "category": "recreational",
+                  "coords": [
+                        100.884853,
+                        12.899834
+                  ]
+            },
+            {
+                  "name": "ถนนพัทยาสายหนึ่ง",
+                  "text": "Pattaya egyik forgalmas útja, amely üzleteiről és szórakozási lehetőségeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.871466,
+                        12.926024
+                  ]
+            },
+            {
+                  "name": "พัทยาปาร์คทาวเวอร์",
+                  "text": "Pattaya jellegzetes tornya kilátóval és forgó étteremmel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.863164,
+                        12.906274
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเมืองพัทยา",
+                  "text": "Népszerű kilátóhely, ahonnan panorámás kilátás nyílik a Pattaya-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        100.866082,
+                        12.922263
+                  ]
+            },
+            {
+                  "name": "ป้าย Pattaya City",
+                  "text": "Pattaya ikonikus városfelirata egy dombon, az öböl felett.",
+                  "category": "landmark",
+                  "coords": [
+                        100.864446,
+                        12.925658
+                  ]
+            },
+            {
+                  "name": "สวนน้ำพัทยาปาร์ค",
+                  "text": "Vízipark Pattayán különféle csúszdákkal és medencékkel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.860978,
+                        12.905677
+                  ]
+            },
+            {
+                  "name": "Walking Street",
+                  "text": "Pattaya híres szórakozónegyede számos bárral és éjszakai klubbal.",
+                  "category": "landmark",
+                  "coords": [
+                        100.874646,
+                        12.927417
+                  ]
+            },
+            {
+                  "name": "The View Pattaya",
+                  "text": "Pattaya egyik helyszíne, amely kilátásáról vagy találkozóhelyként ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.886867,
+                        12.942842
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Fontos buddhista templom Pattaya központjában.",
+                  "category": "religious",
+                  "coords": [
+                        100.877243,
+                        12.925944
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kids ATV's",
+                  "text": "O facilitate de agrement în Pattaya cu ATV-uri pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        100.883141,
+                        12.906244
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "Un muzeu cu exponate curioase și atracții interactive.",
+                  "category": "museum",
+                  "coords": [
+                        100.878571,
+                        12.928761
+                  ]
+            },
+            {
+                  "name": "International Snake Show",
+                  "text": "O facilitate din Pattaya care prezintă diverse specii de șerpi și spectacole.",
+                  "category": "recreational",
+                  "coords": [
+                        100.907308,
+                        12.9349
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Museum",
+                  "text": "Un muzeu din Pattaya cu o colecție mare de urși de pluș.",
+                  "category": "museum",
+                  "coords": [
+                        100.885038,
+                        12.946648
+                  ]
+            },
+            {
+                  "name": "Tuxedo Illusion Hall",
+                  "text": "Un teatru din Pattaya specializat în spectacole de magie și iluzionism.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889754,
+                        12.946925
+                  ]
+            },
+            {
+                  "name": "D'Luck Cinematic Theatre",
+                  "text": "Un teatru modern pentru spectacole de scenă elaborate și filme.",
+                  "category": "cultural",
+                  "coords": [
+                        100.878076,
+                        12.907177
+                  ]
+            },
+            {
+                  "name": "The bottle museum",
+                  "text": "Un muzeu care expune modele și scene artistice în sticle.",
+                  "category": "museum",
+                  "coords": [
+                        100.90008,
+                        12.929072
+                  ]
+            },
+            {
+                  "name": "หาดพัทยา",
+                  "text": "O porțiune de plajă cunoscută în Pattaya, cu numeroase facilități de agrement.",
+                  "category": "recreational",
+                  "coords": [
+                        100.879526,
+                        12.938916
+                  ]
+            },
+            {
+                  "name": "Alcazar Cabaret Show",
+                  "text": "Un celebru teatru de varietăți în Pattaya, cu spectacole de costume elaborate.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889002,
+                        12.943005
+                  ]
+            },
+            {
+                  "name": "หาดเอเชีย",
+                  "text": "O plajă de nisip mai liniștită în partea de sud a orașului Pattaya.",
+                  "category": "recreational",
+                  "coords": [
+                        100.856814,
+                        12.915334
+                  ]
+            },
+            {
+                  "name": "Art in Paradise",
+                  "text": "Un muzeu interactiv pentru iluzii optice și imagini 3D.",
+                  "category": "museum",
+                  "coords": [
+                        100.889885,
+                        12.948239
+                  ]
+            },
+            {
+                  "name": "Tiffany's Show",
+                  "text": "Un teatru de renume în Pattaya, cunoscut pentru spectacolele sale de cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        100.887591,
+                        12.94901
+                  ]
+            },
+            {
+                  "name": "Amazing Art",
+                  "text": "Un muzeu cu opere de artă 3D interactive, ideale pentru fotografii.",
+                  "category": "museum",
+                  "coords": [
+                        100.897032,
+                        12.944936
+                  ]
+            },
+            {
+                  "name": "Colosseum Show Pattaya",
+                  "text": "Un teatru mare din Pattaya, cunoscut pentru spectacolele sale elaborate de cabaret.",
+                  "category": "cultural",
+                  "coords": [
+                        100.877496,
+                        12.90468
+                  ]
+            },
+            {
+                  "name": "หาดนาเกลือ",
+                  "text": "O plajă de nisip mai liniștită situată în nordul orașului Pattaya.",
+                  "category": "recreational",
+                  "coords": [
+                        100.88272,
+                        12.953664
+                  ]
+            },
+            {
+                  "name": "สนุกปาร์ค",
+                  "text": "Un parc de distracții din Pattaya, oferind diverse atracții pentru vizitatori.",
+                  "category": "recreational",
+                  "coords": [
+                        100.884853,
+                        12.899834
+                  ]
+            },
+            {
+                  "name": "ถนนพัทยาสายหนึ่ง",
+                  "text": "O stradă aglomerată din Pattaya, cunoscută pentru magazinele și opțiunile de divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        100.871466,
+                        12.926024
+                  ]
+            },
+            {
+                  "name": "พัทยาปาร์คทาวเวอร์",
+                  "text": "Un turn proeminent din Pattaya, dotat cu o platformă de observație și un restaurant rotitor.",
+                  "category": "landmark",
+                  "coords": [
+                        100.863164,
+                        12.906274
+                  ]
+            },
+            {
+                  "name": "จุดชมวิวเมืองพัทยา",
+                  "text": "Un punct de belvedere popular care oferă o vedere panoramică asupra golfului Pattaya.",
+                  "category": "natural",
+                  "coords": [
+                        100.866082,
+                        12.922263
+                  ]
+            },
+            {
+                  "name": "ป้าย Pattaya City",
+                  "text": "Semnul iconic al orașului Pattaya, situat pe un deal deasupra golfului.",
+                  "category": "landmark",
+                  "coords": [
+                        100.864446,
+                        12.925658
+                  ]
+            },
+            {
+                  "name": "สวนน้ำพัทยาปาร์ค",
+                  "text": "Un parc acvatic din Pattaya, dotat cu diverse tobogane și piscine.",
+                  "category": "landmark",
+                  "coords": [
+                        100.860978,
+                        12.905677
+                  ]
+            },
+            {
+                  "name": "Walking Street",
+                  "text": "Slavenul cartier de divertisment din Pattaya, cu numeroase baruri și cluburi de noapte.",
+                  "category": "landmark",
+                  "coords": [
+                        100.874646,
+                        12.927417
+                  ]
+            },
+            {
+                  "name": "The View Pattaya",
+                  "text": "O locație din Pattaya cunoscută pentru priveliștea sa sau ca punct de întâlnire.",
+                  "category": "landmark",
+                  "coords": [
+                        100.886867,
+                        12.942842
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Un templu budist important situat în centrul orașului Pattaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.877243,
+                        12.925944
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kids ATV's",
+                  "text": "A recreational facility in Pattaya featuring ATVs for children.",
+                  "category": "recreational",
+                  "coords": [
+                        100.883141,
+                        12.906244
+                  ]
+            },
+            {
+                  "name": "Ripley's Believe it or not",
+                  "text": "A museum featuring odd exhibits and interactive attractions.",
+                  "category": "museum",
+                  "coords": [
+                        100.878571,
+                        12.928761
+                  ]
+            },
+            {
+                  "name": "International Snake Show",
+                  "text": "A facility in Pattaya showing various snake species and performances.",
+                  "category": "recreational",
+                  "coords": [
+                        100.907308,
+                        12.9349
+                  ]
+            },
+            {
+                  "name": "Teddy Bear Museum",
+                  "text": "A museum in Pattaya showcasing a large collection of teddy bears.",
+                  "category": "museum",
+                  "coords": [
+                        100.885038,
+                        12.946648
+                  ]
+            },
+            {
+                  "name": "Tuxedo Illusion Hall",
+                  "text": "A theatre in Pattaya specialized in magic shows and illusions.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889754,
+                        12.946925
+                  ]
+            },
+            {
+                  "name": "D'Luck Cinematic Theatre",
+                  "text": "A modern theatre for elaborate stage shows and films.",
+                  "category": "cultural",
+                  "coords": [
+                        100.878076,
+                        12.907177
+                  ]
+            },
+            {
+                  "name": "The bottle museum",
+                  "text": "A museum displaying artistic models and scenes inside bottles.",
+                  "category": "museum",
+                  "coords": [
+                        100.90008,
+                        12.929072
+                  ]
+            },
+            {
+                  "name": "Pattaya Beach",
+                  "text": "A well-known beach area in Pattaya with numerous recreational facilities.",
+                  "category": "recreational",
+                  "coords": [
+                        100.879526,
+                        12.938916
+                  ]
+            },
+            {
+                  "name": "Alcazar Cabaret Show",
+                  "text": "A famous variety theatre in Pattaya with elaborate costume shows.",
+                  "category": "cultural",
+                  "coords": [
+                        100.889002,
+                        12.943005
+                  ]
+            },
+            {
+                  "name": "Asia Beach",
+                  "text": "A quieter sandy beach in the southern part of Pattaya.",
+                  "category": "recreational",
+                  "coords": [
+                        100.856814,
+                        12.915334
+                  ]
+            },
+            {
+                  "name": "Art in Paradise",
+                  "text": "An interactive museum for optical illusions and 3D paintings.",
+                  "category": "museum",
+                  "coords": [
+                        100.889885,
+                        12.948239
+                  ]
+            },
+            {
+                  "name": "Tiffany's Show",
+                  "text": "A renowned theatre in Pattaya known for its cabaret performances.",
+                  "category": "cultural",
+                  "coords": [
+                        100.887591,
+                        12.94901
+                  ]
+            },
+            {
+                  "name": "Amazing Art",
+                  "text": "A museum with interactive 3D artworks designed for photography.",
+                  "category": "museum",
+                  "coords": [
+                        100.897032,
+                        12.944936
+                  ]
+            },
+            {
+                  "name": "Colosseum Show Pattaya",
+                  "text": "A large theatre in Pattaya known for its elaborate cabaret performances.",
+                  "category": "cultural",
+                  "coords": [
+                        100.877496,
+                        12.90468
+                  ]
+            },
+            {
+                  "name": "Naklua Beach",
+                  "text": "A quieter sandy beach located in the northern part of Pattaya.",
+                  "category": "recreational",
+                  "coords": [
+                        100.88272,
+                        12.953664
+                  ]
+            },
+            {
+                  "name": "Sanook Park",
+                  "text": "A theme park in Pattaya offering various attractions for visitors.",
+                  "category": "recreational",
+                  "coords": [
+                        100.884853,
+                        12.899834
+                  ]
+            },
+            {
+                  "name": "Pattaya Sai Nueng Road",
+                  "text": "A busy road in Pattaya known for its shops and entertainment options.",
+                  "category": "landmark",
+                  "coords": [
+                        100.871466,
+                        12.926024
+                  ]
+            },
+            {
+                  "name": "Pattaya Park Tower",
+                  "text": "A prominent tower in Pattaya featuring an observation deck and a revolving restaurant.",
+                  "category": "landmark",
+                  "coords": [
+                        100.863164,
+                        12.906274
+                  ]
+            },
+            {
+                  "name": "Pattaya view point",
+                  "text": "A popular viewpoint offering panoramic views over Pattaya Bay.",
+                  "category": "natural",
+                  "coords": [
+                        100.866082,
+                        12.922263
+                  ]
+            },
+            {
+                  "name": "Pattaya City Sign",
+                  "text": "The iconic Pattaya city sign located on a hill overlooking the bay.",
+                  "category": "landmark",
+                  "coords": [
+                        100.864446,
+                        12.925658
+                  ]
+            },
+            {
+                  "name": "Pattaya Water Park",
+                  "text": "A water park in Pattaya featuring various slides and pools.",
+                  "category": "landmark",
+                  "coords": [
+                        100.860978,
+                        12.905677
+                  ]
+            },
+            {
+                  "name": "Walking Street",
+                  "text": "Pattaya's famous entertainment street with numerous bars and nightclubs.",
+                  "category": "landmark",
+                  "coords": [
+                        100.874646,
+                        12.927417
+                  ]
+            },
+            {
+                  "name": "The View Pattaya",
+                  "text": "A location in Pattaya known for its view or as a gathering spot.",
+                  "category": "landmark",
+                  "coords": [
+                        100.886867,
+                        12.942842
+                  ]
+            },
+            {
+                  "name": "Wat Chaimongkron",
+                  "text": "An important Buddhist temple located in the center of Pattaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.877243,
+                        12.925944
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-21",
     coords: [100.8825, 12.9236],
@@ -232,7 +2914,232 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Nonthaburi est une ville et une province au nord de Bangkok, faisant partie de l'agglomération.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothaï et d'Ayutthaya."],
     }, image: "/poi-images/nonthaburi-cities-v2.webp"},
   {
-    id: "udon-thani-cities-v2",
+    id: "udon-thani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑ์เมืองอุดรธานี",
+                  "text": "Ein Museum, das die Geschichte, Archäologie und Kultur der Provinz Udon Thani präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        102.781984,
+                        17.41234
+                  ]
+            },
+            {
+                  "name": "YoYoland Udon",
+                  "text": "Ein Indoor-Freizeitpark in Udon Thani mit verschiedenen Attraktionen für Kinder.",
+                  "category": "recreational",
+                  "coords": [
+                        102.800373,
+                        17.406078
+                  ]
+            },
+            {
+                  "name": "เป็ดเหลืองยักษ์",
+                  "text": "Eine große aufblasbare gelbe Ente im Nong Prajak Park, ein bekanntes Wahrzeichen von Udon Thani.",
+                  "category": "landmark",
+                  "coords": [
+                        102.784341,
+                        17.414104
+                  ]
+            },
+            {
+                  "name": "กรมหลวง ประจักษ์ ศิลปาคม",
+                  "text": "Ein Denkmal zu Ehren des Gründers von Udon Thani, Prinz Prajak Srilapakorn.",
+                  "category": "historical",
+                  "coords": [
+                        102.794755,
+                        17.400835
+                  ]
+            },
+            {
+                  "name": "วัดโพธิสมภรณ์",
+                  "text": "Ein bedeutender buddhistischer Tempel königlichen Ranges im Zentrum von Udon Thani.",
+                  "category": "religious",
+                  "coords": [
+                        102.778943,
+                        17.413207
+                  ]
+            },
+            {
+                  "name": "วัดมัชฌิมาวาส",
+                  "text": "Ein alter buddhistischer Tempel in Udon Thani, der für seine Buddha-Statue Phra Phuttha Phokhasattaya bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        102.790719,
+                        17.41568
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑ์เมืองอุดรธานี",
+                  "text": "Múzeum, amely bemutatja Udon Thani tartomány történelmét, régészetét és kultúráját.",
+                  "category": "museum",
+                  "coords": [
+                        102.781984,
+                        17.41234
+                  ]
+            },
+            {
+                  "name": "YoYoland Udon",
+                  "text": "Fedett vidámpark Udon Thaniban, különféle látványosságokkal gyermekek számára.",
+                  "category": "recreational",
+                  "coords": [
+                        102.800373,
+                        17.406078
+                  ]
+            },
+            {
+                  "name": "เป็ดเหลืองยักษ์",
+                  "text": "Hatalmas felfújható sárga kacsa a Nong Prajak parkban, Udon Thani egyik legismertebb jelképe.",
+                  "category": "landmark",
+                  "coords": [
+                        102.784341,
+                        17.414104
+                  ]
+            },
+            {
+                  "name": "กรมหลวง ประจักษ์ ศิลปาคม",
+                  "text": "Emlékmű Udon Thani alapítója, Prajak Srilapakorn herceg tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        102.794755,
+                        17.400835
+                  ]
+            },
+            {
+                  "name": "วัดโพธิสมภรณ์",
+                  "text": "Jelentős, királyi rangú buddhista templom Udon Thani központjában.",
+                  "category": "religious",
+                  "coords": [
+                        102.778943,
+                        17.413207
+                  ]
+            },
+            {
+                  "name": "วัดมัชฌิมาวาส",
+                  "text": "Régi buddhista templom Udon Thaniban, amely Phra Phuttha Phokhasattaya szobráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        102.790719,
+                        17.41568
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑ์เมืองอุดรธานี",
+                  "text": "Un muzeu care prezintă istoria, arheologia și cultura provinciei Udon Thani.",
+                  "category": "museum",
+                  "coords": [
+                        102.781984,
+                        17.41234
+                  ]
+            },
+            {
+                  "name": "YoYoland Udon",
+                  "text": "Un parc de distracții interior în Udon Thani, cu diverse atracții pentru copii.",
+                  "category": "recreational",
+                  "coords": [
+                        102.800373,
+                        17.406078
+                  ]
+            },
+            {
+                  "name": "เป็ดเหลืองยักษ์",
+                  "text": "O rață galbenă gonflabilă uriașă în parcul Nong Prajak, un simbol cunoscut al orașului Udon Thani.",
+                  "category": "landmark",
+                  "coords": [
+                        102.784341,
+                        17.414104
+                  ]
+            },
+            {
+                  "name": "กรมหลวง ประจักษ์ ศิลปาคม",
+                  "text": "Un monument în onoarea fondatorului orașului Udon Thani, prințul Prajak Srilapakorn.",
+                  "category": "historical",
+                  "coords": [
+                        102.794755,
+                        17.400835
+                  ]
+            },
+            {
+                  "name": "วัดโพธิสมภรณ์",
+                  "text": "Un templu budist important de rang regal în centrul orașului Udon Thani.",
+                  "category": "religious",
+                  "coords": [
+                        102.778943,
+                        17.413207
+                  ]
+            },
+            {
+                  "name": "วัดมัชฌิมาวาส",
+                  "text": "Un vechi templu budist în Udon Thani, cunoscut pentru statuia sa Buddha Phra Phuttha Phokhasattaya.",
+                  "category": "religious",
+                  "coords": [
+                        102.790719,
+                        17.41568
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Udon Thani Provincial Museum",
+                  "text": "A museum showcasing the history, archaeology, and culture of Udon Thani province.",
+                  "category": "museum",
+                  "coords": [
+                        102.781984,
+                        17.41234
+                  ]
+            },
+            {
+                  "name": "YoYoland Udon",
+                  "text": "An indoor theme park in Udon Thani featuring various attractions for children.",
+                  "category": "recreational",
+                  "coords": [
+                        102.800373,
+                        17.406078
+                  ]
+            },
+            {
+                  "name": "Giant Rubber Duck",
+                  "text": "A giant inflatable yellow duck in Nong Prajak Park, a famous landmark of Udon Thani.",
+                  "category": "landmark",
+                  "coords": [
+                        102.784341,
+                        17.414104
+                  ]
+            },
+            {
+                  "name": "Prince Prajak Srilapakorn",
+                  "text": "A monument honoring the founder of Udon Thani, Prince Prajak Srilapakorn.",
+                  "category": "historical",
+                  "coords": [
+                        102.794755,
+                        17.400835
+                  ]
+            },
+            {
+                  "name": "Wat Pothisomphon",
+                  "text": "A significant Buddhist temple of royal rank in the center of Udon Thani.",
+                  "category": "religious",
+                  "coords": [
+                        102.778943,
+                        17.413207
+                  ]
+            },
+            {
+                  "name": "Wat Matchimawat",
+                  "text": "An ancient Buddhist temple in Udon Thani known for its Buddha statue, Phra Phuttha Phokhasattaya.",
+                  "category": "religious",
+                  "coords": [
+                        102.790719,
+                        17.41568
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-41",
     coords: [102.784, 17.4138],
@@ -326,7 +3233,88 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Nakhon Ratchasima, souvent appelée Korat, est l'une des plus grandes villes de la région nord-est de l'Isan.", "Située sur le territoire du royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/nakhon-ratchasima-cities-v2.webp"},
   {
-    id: "hat-yai-cities-v2",
+    id: "hat-yai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Princess Maha Chakri Sirindhorn Natural History Museum",
+                  "text": "Ein Naturkundemuseum an der Prince of Songkla Universität in Hat Yai.",
+                  "category": "museum",
+                  "coords": [
+                        100.497257,
+                        7.007657
+                  ]
+            },
+            {
+                  "name": "ลานพระบิดา",
+                  "text": "Ein Denkmal zu Ehren von Prinz Mahidol Adulyadej in Hat Yai.",
+                  "category": "historical",
+                  "coords": [
+                        100.496954,
+                        7.009286
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Princess Maha Chakri Sirindhorn Natural History Museum",
+                  "text": "Természettudományi múzeum a Prince of Songkla Egyetemen, Hat Yaiban.",
+                  "category": "museum",
+                  "coords": [
+                        100.497257,
+                        7.007657
+                  ]
+            },
+            {
+                  "name": "ลานพระบิดา",
+                  "text": "Mahidol Adulyadej herceg tiszteletére emelt emlékmű Hat Yaiban.",
+                  "category": "historical",
+                  "coords": [
+                        100.496954,
+                        7.009286
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Princess Maha Chakri Sirindhorn Natural History Museum",
+                  "text": "Un muzeu de istorie naturală la Universitatea Prince of Songkla din Hat Yai.",
+                  "category": "museum",
+                  "coords": [
+                        100.497257,
+                        7.007657
+                  ]
+            },
+            {
+                  "name": "ลานพระบิดา",
+                  "text": "Un monument ridicat în onoarea prințului Mahidol Adulyadej în Hat Yai.",
+                  "category": "historical",
+                  "coords": [
+                        100.496954,
+                        7.009286
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Princess Maha Chakri Sirindhorn Natural History Museum",
+                  "text": "A natural history museum located at Prince of Songkla University in Hat Yai.",
+                  "category": "museum",
+                  "coords": [
+                        100.497257,
+                        7.007657
+                  ]
+            },
+            {
+                  "name": "Prince Mahidol Monument",
+                  "text": "A monument honoring Prince Mahidol Adulyadej in Hat Yai.",
+                  "category": "historical",
+                  "coords": [
+                        100.496954,
+                        7.009286
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-90",
     coords: [100.4743, 7.0055],
@@ -373,7 +3361,1996 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Hat Yai est la plus grande ville de la province de Songkhla et un centre important de commerce, de logistique et de communication dans le sud de la Thaïlande.", "Situé sur le territoire du royaume de Thaïlande.", "Caractérisé par le climat de mousson de l'Asie du Sud-Est.", "Lié à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/hat-yai-cities-v2.webp"},
   {
-    id: "ayutthaya-cities-v2",
+    id: "ayutthaya-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "วัดราชพลี",
+                  "text": "Eine archäologische Stätte in Ayutthaya, die Überreste eines historischen buddhistischen Tempels umfasst.",
+                  "category": "historical",
+                  "coords": [
+                        100.543292,
+                        14.34933
+                  ]
+            },
+            {
+                  "name": "วัดพระศรีสรรเพชญ์",
+                  "text": "Der wichtigste Tempel des ehemaligen königlichen Palastes in Ayutthaya, bekannt für seine drei großen Chedis.",
+                  "category": "historical",
+                  "coords": [
+                        100.558515,
+                        14.355926
+                  ]
+            },
+            {
+                  "name": "วัดราชบูรณะ",
+                  "text": "Ein Tempel aus dem 15. Jahrhundert in Ayutthaya, berühmt für die in seiner Krypta entdeckten Goldschätze.",
+                  "category": "historical",
+                  "coords": [
+                        100.567292,
+                        14.358739
+                  ]
+            },
+            {
+                  "name": "วัดมหาธาตุ",
+                  "text": "Ein historischer Tempel in Ayutthaya, bekannt für den im Wurzelwerk eines Baumes eingewachsenen Buddha-Kopf.",
+                  "category": "historical",
+                  "coords": [
+                        100.567484,
+                        14.357001
+                  ]
+            },
+            {
+                  "name": "วิหารแกลบ",
+                  "text": "Eine archäologische Ausgrabungsstätte in Ayutthaya mit Ruinen eines antiken religiösen Gebäudes.",
+                  "category": "historical",
+                  "coords": [
+                        100.559432,
+                        14.354903
+                  ]
+            },
+            {
+                  "name": "วัดใหญ่ชัยมงคลวรวิหาร",
+                  "text": "Ein beeindruckender Tempel in Ayutthaya mit einem großen liegenden Buddha und einem markanten Chedi.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593899,
+                        14.344313
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+                  "text": "Dieses Nationalmuseum in Ayutthaya beherbergt bedeutende Goldfunde und Artefakte aus der Geschichte des Königreichs.",
+                  "category": "museum",
+                  "coords": [
+                        100.56182,
+                        14.351189
+                  ]
+            },
+            {
+                  "name": "วัดบรมพุทธาราม",
+                  "text": "Diese historische Stätte in Ayutthaya bewahrt die architektonischen Überreste eines ehemaligen buddhistischen Tempels.",
+                  "category": "historical",
+                  "coords": [
+                        100.561267,
+                        14.347677
+                  ]
+            },
+            {
+                  "name": "วัดชัยภูมิ",
+                  "text": "Eine antike Ruinenstätte in Ayutthaya, die Teil des reichen archäologischen Erbes der ehemaligen Hauptstadt ist.",
+                  "category": "historical",
+                  "coords": [
+                        100.570088,
+                        14.357272
+                  ]
+            },
+            {
+                  "name": "วัดวังชัย",
+                  "text": "Überreste einer historischen Tempelanlage in der alten Königsstadt Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.549169,
+                        14.342113
+                  ]
+            },
+            {
+                  "name": "วัดพลับพลาไชย",
+                  "text": "Eine archäologische Stätte in Ayutthaya, die Einblicke in die sakrale Architektur der Vergangenheit bietet.",
+                  "category": "historical",
+                  "coords": [
+                        100.568114,
+                        14.360404
+                  ]
+            },
+            {
+                  "name": "วัดลายสอ",
+                  "text": "Historische Ruinen eines ehemaligen Tempels in der archäologischen Zone von Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.560681,
+                        14.367205
+                  ]
+            },
+            {
+                  "name": "วัดเตว็ด",
+                  "text": "Eine weitere bedeutende archäologische Stätte, die zum historischen Stadtbild von Ayutthaya gehört.",
+                  "category": "historical",
+                  "coords": [
+                        100.562889,
+                        14.337276
+                  ]
+            },
+            {
+                  "name": "ป้อมเพชร",
+                  "text": "Diese historische Festung in Ayutthaya diente einst dem Schutz der alten thailändischen Hauptstadt.",
+                  "category": "fortress",
+                  "coords": [
+                        100.576284,
+                        14.346284
+                  ]
+            },
+            {
+                  "name": "วัดนักบุญยอแซฟ",
+                  "text": "Eine historische katholische Kirche am Flussufer, die von der frühen europäischen Präsenz in Ayutthaya zeugt.",
+                  "category": "religious",
+                  "coords": [
+                        100.550499,
+                        14.338682
+                  ]
+            },
+            {
+                  "name": "วิหารพระมงคลบพิตร",
+                  "text": "Diese prächtige Gebetshalle beherbergt eine der größten bronzenen Buddha-Statuen Thailands.",
+                  "category": "religious",
+                  "coords": [
+                        100.55771,
+                        14.354864
+                  ]
+            },
+            {
+                  "name": "วัดอินทาราม",
+                  "text": "Ein buddhistischer Tempel in Ayutthaya, der als Ort der Ruhe und des Gebets dient.",
+                  "category": "religious",
+                  "coords": [
+                        100.567875,
+                        14.365353
+                  ]
+            },
+            {
+                  "name": "วัดพิชัยสงคราม",
+                  "text": "Diese aktive religiöse Stätte in Ayutthaya ist ein Zentrum für lokale gläubige Buddhisten.",
+                  "category": "religious",
+                  "coords": [
+                        100.582197,
+                        14.353948
+                  ]
+            },
+            {
+                  "name": "วัดธรรมนิยม",
+                  "text": "Ein traditioneller thailändischer Tempel, der die religiöse Vielfalt der Stadt Ayutthaya widerspiegelt.",
+                  "category": "religious",
+                  "coords": [
+                        100.582032,
+                        14.359135
+                  ]
+            },
+            {
+                  "name": "วัดป่าโค",
+                  "text": "Diese religiöse Anlage in Ayutthaya bietet Besuchern einen Einblick in die lokale buddhistische Praxis.",
+                  "category": "religious",
+                  "coords": [
+                        100.581431,
+                        14.374999
+                  ]
+            },
+            {
+                  "name": "ตลาดน้ำอโยธยา",
+                  "text": "Ein lebhafter schwimmender Markt in Ayutthaya, der traditionelles Kunsthandwerk, Speisen und kulturelle Vorführungen bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593163,
+                        14.35891
+                  ]
+            },
+            {
+                  "name": "วัดธรรมิกราช",
+                  "text": "Ein bedeutender historischer Tempel in Ayutthaya, der für seine liegende Buddha-Statue bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.561671,
+                        14.358726
+                  ]
+            },
+            {
+                  "name": "วัดญาณเสน",
+                  "text": "Eine sehenswerte Anlage in Ayutthaya mit einer charakteristischen Architektur und religiösen Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.563981,
+                        14.359634
+                  ]
+            },
+            {
+                  "name": "วัดสุวรรณดารารามราชวรวิหาร",
+                  "text": "Dieser königliche Tempel in Ayutthaya ist berühmt für seine feinen Wandmalereien und die klassische Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        100.578394,
+                        14.348149
+                  ]
+            },
+            {
+                  "name": "วัดกษัตราธิราชวรวิหาร",
+                  "text": "Ein beeindruckender Tempel am Westufer des Chao Phraya Flusses mit einer markanten weißen Prang.",
+                  "category": "landmark",
+                  "coords": [
+                        100.544187,
+                        14.352051
+                  ]
+            },
+            {
+                  "name": "วัดเสนาสนารามราชวรวิหาร",
+                  "text": "Ein bedeutender Tempel in Ayutthaya, der für seine eleganten Gebäude und religiösen Schätze bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57315,
+                        14.363082
+                  ]
+            },
+            {
+                  "name": "วัดศาลาปูนวรวิหาร",
+                  "text": "Dieser Tempel ist eine wichtige religiöse Stätte in Ayutthaya und zeigt klassische thailändische Kunst.",
+                  "category": "landmark",
+                  "coords": [
+                        100.549187,
+                        14.360495
+                  ]
+            },
+            {
+                  "name": "วัดเชิงท่า",
+                  "text": "Ein historischer Tempel in Ayutthaya, der direkt am Fluss liegt und eine friedliche Atmosphäre bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.555631,
+                        14.361956
+                  ]
+            },
+            {
+                  "name": "วัดหน้าพระเมรุราชิการาม",
+                  "text": "Dieser Tempel ist berühmt dafür, dass er die Zerstörung Ayutthayas fast unbeschadet überstanden hat.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558773,
+                        14.363129
+                  ]
+            },
+            {
+                  "name": "วัดพรหมนิวาสวรวิหาร",
+                  "text": "Ein ruhiger Tempelkomplex in Ayutthaya, der zum Verweilen und zur Besinnung einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.548403,
+                        14.35954
+                  ]
+            },
+            {
+                  "name": "วัดพนมยงค์",
+                  "text": "Diese religiöse Stätte in Ayutthaya zeichnet sich durch ihre traditionelle Architektur und lokale Bedeutung aus.",
+                  "category": "landmark",
+                  "coords": [
+                        100.551841,
+                        14.361982
+                  ]
+            },
+            {
+                  "name": "วัดสามวิหาร",
+                  "text": "Ein Tempel in Ayutthaya, der für seine historischen Gebäude und die spirituelle Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.572771,
+                        14.370081
+                  ]
+            },
+            {
+                  "name": "วัดราชประดิษฐาน",
+                  "text": "Ein weiterer sehenswerter Tempelkomplex, der das kulturelle Erbe von Ayutthaya bereichert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.568938,
+                        14.362322
+                  ]
+            },
+            {
+                  "name": "วัดดุสิดาราม",
+                  "text": "Dieser Tempel in Ayutthaya ist ein schönes Beispiel für die sakrale Baukunst der Region.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589041,
+                        14.370821
+                  ]
+            },
+            {
+                  "name": "วัดขุนพรหม",
+                  "text": "Eine religiöse Anlage in Ayutthaya, die sowohl für Gläubige als auch für Touristen von Interesse ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57056,
+                        14.346344
+                  ]
+            },
+            {
+                  "name": "วัดประดู่ทรงธรรม",
+                  "text": "Dieser Tempel in Ayutthaya ist bekannt für seine historischen Wandmalereien und religiösen Zeremonien.",
+                  "category": "landmark",
+                  "coords": [
+                        100.587355,
+                        14.364019
+                  ]
+            },
+            {
+                  "name": "วัดบางกะจะ",
+                  "text": "Ein atmosphärischer Tempel an der Mündung zweier Flüsse in Ayutthaya.",
+                  "category": "landmark",
+                  "coords": [
+                        100.574862,
+                        14.344695
+                  ]
+            },
+            {
+                  "name": "วัดท่าการ้อง",
+                  "text": "Dieser Tempel in Ayutthaya ist ein beliebtes Ziel für Besucher, die die lokale thailändische Kultur erleben möchten.",
+                  "category": "landmark",
+                  "coords": [
+                        100.54308,
+                        14.357977
+                  ]
+            },
+            {
+                  "name": "วัดพุทไธศวรรย์",
+                  "text": "Ein historisch bedeutender Tempel mit einer markanten weißen Pagode am Ufer des Chao Phraya.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558441,
+                        14.338946
+                  ]
+            },
+            {
+                  "name": "วัดอโยธยา",
+                  "text": "Eine sehenswerte religiöse Stätte, die Teil der reichen Geschichte von Ayutthaya ist.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589533,
+                        14.36812
+                  ]
+            },
+            {
+                  "name": "วัดสมณโกฏฐาราม",
+                  "text": "Dieser Tempelkomplex in Ayutthaya besticht durch seine historische Architektur und spirituelle Bedeutung.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590408,
+                        14.361252
+                  ]
+            },
+            {
+                  "name": "วัดมณฑป",
+                  "text": "Eine weitere kulturelle Attraktion in Ayutthaya, die Einblicke in die thailändische Tempelkultur bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575239,
+                        14.367428
+                  ]
+            },
+            {
+                  "name": "Geschichtspark Ayutthaya",
+                  "text": "Dieser UNESCO-Weltkulturerbe-Park umfasst die beeindruckenden Ruinen der ehemaligen thailändischen Hauptstadt.",
+                  "category": "park",
+                  "coords": [
+                        100.55918,
+                        14.353589
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ จันทรเกษม",
+                  "text": "Ein ehemaliger Palast in Ayutthaya, der heute ein Nationalmuseum mit wertvollen Exponaten beherbergt.",
+                  "category": "castle",
+                  "coords": [
+                        100.574628,
+                        14.365092
+                  ]
+            },
+            {
+                  "name": "บ้านฮอลันดา",
+                  "text": "Dieses Museum in Ayutthaya dokumentiert die Geschichte der niederländischen Handelsbeziehungen in Thailand.",
+                  "category": "museum",
+                  "coords": [
+                        100.577299,
+                        14.340601
+                  ]
+            },
+            {
+                  "name": "หมู่บ้านญี่ปุ่น",
+                  "text": "Ein Museum an der Stelle der ehemaligen japanischen Siedlung in Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.577421,
+                        14.332888
+                  ]
+            },
+            {
+                  "name": "ศูนย์ข้อมูลการอนุรักษ์นครประวัติศาสตร์พระนครศรีอยุธยา",
+                  "text": "Dieses Zentrum informiert über den Erhalt und die Geschichte der historischen Stadt Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.557709,
+                        14.350669
+                  ]
+            },
+            {
+                  "name": "ศูนย์ท่องเที่ยวอยุธยา",
+                  "text": "Ein Touristenzentrum in Ayutthaya, das kulturelle Informationen und Museumsexponate für Besucher bereithält.",
+                  "category": "museum",
+                  "coords": [
+                        100.559407,
+                        14.349601
+                  ]
+            },
+            {
+                  "name": "ศูนย์ศึกษาประวัติศาสตร์อยุธยา",
+                  "text": "Dieses Zentrum widmet sich der wissenschaftlichen Erforschung und Dokumentation der Geschichte von Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.565534,
+                        14.349486
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์สมเด็จพระสุริโยทัย",
+                  "text": "Ein Museum in Ayutthaya, das der berühmten thailändischen Königin Suriyothai gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        100.547449,
+                        14.351959
+                  ]
+            },
+            {
+                  "name": "ตำหนักเพนียด",
+                  "text": "Ein historisches Gebäude in Ayutthaya, das früher als königlicher Elefantenkraal genutzt wurde.",
+                  "category": "castle",
+                  "coords": [
+                        100.571075,
+                        14.376295
+                  ]
+            },
+            {
+                  "name": "อนุสรณ์สถาน ปรีดี พนมยงค์",
+                  "text": "Ein Gedenkmuseum für Pridi Banomyong, eine bedeutende Persönlichkeit der thailändischen Geschichte, in Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.552144,
+                        14.36029
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เรือไทย",
+                  "text": "Ein spezialisiertes Museum in Ayutthaya, das die Geschichte des thailändischen Bootsbaus dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        100.571963,
+                        14.35656
+                  ]
+            },
+            {
+                  "name": "วัดขุนเมืองใจ",
+                  "text": "Eine archäologische Fundstätte in Ayutthaya mit den Überresten historischer Baukunst.",
+                  "category": "historical",
+                  "coords": [
+                        100.570702,
+                        14.351252
+                  ]
+            },
+            {
+                  "name": "วัดชุมแสง",
+                  "text": "Historische Ruinen in Ayutthaya, die von der einstigen Größe der Stadt zeugen.",
+                  "category": "historical",
+                  "coords": [
+                        100.564682,
+                        14.358021
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "วัดราชพลี",
+                  "text": "Régészeti lelőhely Ayutthayában, amely egy történelmi buddhista templom maradványait foglalja magában.",
+                  "category": "historical",
+                  "coords": [
+                        100.543292,
+                        14.34933
+                  ]
+            },
+            {
+                  "name": "วัดพระศรีสรรเพชญ์",
+                  "text": "Az egykori királyi palota legfontosabb temploma Ayutthayában, három hatalmas csedijéről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        100.558515,
+                        14.355926
+                  ]
+            },
+            {
+                  "name": "วัดราชบูรณะ",
+                  "text": "15. századi templom Ayutthayában, amely a kriptájában talált aranykincsekről híres.",
+                  "category": "historical",
+                  "coords": [
+                        100.567292,
+                        14.358739
+                  ]
+            },
+            {
+                  "name": "วัดมหาธาตุ",
+                  "text": "Történelmi templom Ayutthayában, amely a fagyökerek közé szorult Buddha-fejről híres.",
+                  "category": "historical",
+                  "coords": [
+                        100.567484,
+                        14.357001
+                  ]
+            },
+            {
+                  "name": "วิหารแกลบ",
+                  "text": "Régészeti lelőhely Ayutthayában egy ókori vallási épület romjaival.",
+                  "category": "historical",
+                  "coords": [
+                        100.559432,
+                        14.354903
+                  ]
+            },
+            {
+                  "name": "วัดใหญ่ชัยมงคลวรวิหาร",
+                  "text": "Impozáns templom Ayutthayában egy hatalmas fekvő Buddhával és egy jellegzetes csedivel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593899,
+                        14.344313
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+                  "text": "Ez az ajutthajai nemzeti múzeum jelentős aranykincseket és a királyság történetéből származó műtárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        100.56182,
+                        14.351189
+                  ]
+            },
+            {
+                  "name": "วัดบรมพุทธาราม",
+                  "text": "Ez a történelmi helyszín Ajutthajában egy egykori buddhista templom építészeti maradványait őrzi.",
+                  "category": "historical",
+                  "coords": [
+                        100.561267,
+                        14.347677
+                  ]
+            },
+            {
+                  "name": "วัดชัยภูมิ",
+                  "text": "Egy ősi romterület Ajutthajában, amely az egykori főváros gazdag régészeti örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        100.570088,
+                        14.357272
+                  ]
+            },
+            {
+                  "name": "วัดวังชัย",
+                  "text": "Egy történelmi templomkomplexum maradványai az ősi királyi városban, Ajutthajában.",
+                  "category": "historical",
+                  "coords": [
+                        100.549169,
+                        14.342113
+                  ]
+            },
+            {
+                  "name": "วัดพลับพลาไชย",
+                  "text": "Régészeti lelőhely Ajutthajában, amely betekintést nyújt a múlt szakrális építészetébe.",
+                  "category": "historical",
+                  "coords": [
+                        100.568114,
+                        14.360404
+                  ]
+            },
+            {
+                  "name": "วัดลายสอ",
+                  "text": "Egy egykori templom történelmi romjai Ajutthaja régészeti övezetében.",
+                  "category": "historical",
+                  "coords": [
+                        100.560681,
+                        14.367205
+                  ]
+            },
+            {
+                  "name": "วัดเตว็ด",
+                  "text": "Egy másik jelentős régészeti lelőhely, amely Ajutthaja történelmi városképéhez tartozik.",
+                  "category": "historical",
+                  "coords": [
+                        100.562889,
+                        14.337276
+                  ]
+            },
+            {
+                  "name": "ป้อมเพชร",
+                  "text": "Ez a történelmi erőd Ajutthajában egykor az ősi thai főváros védelmét szolgálta.",
+                  "category": "fortress",
+                  "coords": [
+                        100.576284,
+                        14.346284
+                  ]
+            },
+            {
+                  "name": "วัดนักบุญยอแซฟ",
+                  "text": "Egy történelmi katolikus templom a folyóparton, amely a korai európai jelenlétről tanúskodik Ajutthajában.",
+                  "category": "religious",
+                  "coords": [
+                        100.550499,
+                        14.338682
+                  ]
+            },
+            {
+                  "name": "วิหารพระมงคลบพิตร",
+                  "text": "Ez a pompás imacsarnok Thaiföld egyik legnagyobb bronz Buddha-szobrának ad otthont.",
+                  "category": "religious",
+                  "coords": [
+                        100.55771,
+                        14.354864
+                  ]
+            },
+            {
+                  "name": "วัดอินทาราม",
+                  "text": "Egy buddhista templom Ajutthajában, amely a nyugalom és az ima helyszíneként szolgál.",
+                  "category": "religious",
+                  "coords": [
+                        100.567875,
+                        14.365353
+                  ]
+            },
+            {
+                  "name": "วัดพิชัยสงคราม",
+                  "text": "Ez az aktív vallási helyszín Ajutthajában a helyi hívő buddhisták egyik központja.",
+                  "category": "religious",
+                  "coords": [
+                        100.582197,
+                        14.353948
+                  ]
+            },
+            {
+                  "name": "วัดธรรมนิยม",
+                  "text": "Egy hagyományos thai templom, amely Ajutthaja városának vallási sokszínűségét tükrözi.",
+                  "category": "religious",
+                  "coords": [
+                        100.582032,
+                        14.359135
+                  ]
+            },
+            {
+                  "name": "วัดป่าโค",
+                  "text": "Ez a vallási építmény Ajutthajában betekintést nyújt a látogatóknak a helyi buddhista gyakorlatokba.",
+                  "category": "religious",
+                  "coords": [
+                        100.581431,
+                        14.374999
+                  ]
+            },
+            {
+                  "name": "ตลาดน้ำอโยธยา",
+                  "text": "Egy élénk úszó piac Ajutthajában, amely hagyományos kézműves termékeket, ételeket és kulturális bemutatókat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593163,
+                        14.35891
+                  ]
+            },
+            {
+                  "name": "วัดธรรมิกราช",
+                  "text": "Fontos történelmi templom Ajutthajában, amely a fekvő Buddha-szobráról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.561671,
+                        14.358726
+                  ]
+            },
+            {
+                  "name": "วัดญาณเสน",
+                  "text": "Egy látványos ajutthajai helyszín, amely jellegzetes építészettel és vallási jelentőséggel bír.",
+                  "category": "landmark",
+                  "coords": [
+                        100.563981,
+                        14.359634
+                  ]
+            },
+            {
+                  "name": "วัดสุวรรณดารารามราชวรวิหาร",
+                  "text": "Ez a királyi templom Ajutthajában finom falfestményeiről és klasszikus építészetéről híres.",
+                  "category": "landmark",
+                  "coords": [
+                        100.578394,
+                        14.348149
+                  ]
+            },
+            {
+                  "name": "วัดกษัตราธิราชวรวิหาร",
+                  "text": "Egy lenyűgöző templom a Chao Phraya folyó nyugati partján, jellegzetes fehér pranggal.",
+                  "category": "landmark",
+                  "coords": [
+                        100.544187,
+                        14.352051
+                  ]
+            },
+            {
+                  "name": "วัดเสนาสนารามราชวรวิหาร",
+                  "text": "Fontos templom Ajutthajában, amely elegáns épületeiről és vallási kincseiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57315,
+                        14.363082
+                  ]
+            },
+            {
+                  "name": "วัดศาลาปูนวรวิหาร",
+                  "text": "Ez a templom fontos vallási helyszín Ajutthajában, amely klasszikus thai művészetet mutat be.",
+                  "category": "landmark",
+                  "coords": [
+                        100.549187,
+                        14.360495
+                  ]
+            },
+            {
+                  "name": "วัดเชิงท่า",
+                  "text": "Egy történelmi templom Ajutthajában, amely közvetlenül a folyóparton fekszik és békés hangulatot áraszt.",
+                  "category": "landmark",
+                  "coords": [
+                        100.555631,
+                        14.361956
+                  ]
+            },
+            {
+                  "name": "วัดหน้าพระเมรุราชิการาม",
+                  "text": "Ez a templom arról híres, hogy szinte sértetlenül vészelte át Ajutthaja pusztulását.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558773,
+                        14.363129
+                  ]
+            },
+            {
+                  "name": "วัดพรหมนิวาสวรวิหาร",
+                  "text": "Egy csendes templomkomplexum Ajutthajában, amely pihenésre és elmélkedésre hív.",
+                  "category": "landmark",
+                  "coords": [
+                        100.548403,
+                        14.35954
+                  ]
+            },
+            {
+                  "name": "วัดพนมยงค์",
+                  "text": "Ez a vallási helyszín Ajutthajában hagyományos építészetével és helyi jelentőségével tűnik ki.",
+                  "category": "landmark",
+                  "coords": [
+                        100.551841,
+                        14.361982
+                  ]
+            },
+            {
+                  "name": "วัดสามวิหาร",
+                  "text": "Templom Ajutthajában, amely történelmi épületeiről és spirituális hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.572771,
+                        14.370081
+                  ]
+            },
+            {
+                  "name": "วัดราชประดิษฐาน",
+                  "text": "Egy másik érdemes templomkomplexum, amely Ajutthaja kulturális örökségét gazdagítja.",
+                  "category": "landmark",
+                  "coords": [
+                        100.568938,
+                        14.362322
+                  ]
+            },
+            {
+                  "name": "วัดดุสิดาราม",
+                  "text": "Ez az ajutthajai templom a régió szakrális építészetének szép példája.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589041,
+                        14.370821
+                  ]
+            },
+            {
+                  "name": "วัดขุนพรหม",
+                  "text": "Vallási építmény Ajutthajában, amely mind a hívők, mind a turisták számára érdekes.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57056,
+                        14.346344
+                  ]
+            },
+            {
+                  "name": "วัดประดู่ทรงธรรม",
+                  "text": "Ez a templom Ajutthajában történelmi falfestményeiről és vallási szertartásairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        100.587355,
+                        14.364019
+                  ]
+            },
+            {
+                  "name": "วัดบางกะจะ",
+                  "text": "Egy hangulatos templom két folyó találkozásánál Ajutthajában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.574862,
+                        14.344695
+                  ]
+            },
+            {
+                  "name": "วัดท่าการ้อง",
+                  "text": "Ez az ajutthajai templom népszerű célpont a helyi thai kultúrát megismerni vágyó látogatók körében.",
+                  "category": "landmark",
+                  "coords": [
+                        100.54308,
+                        14.357977
+                  ]
+            },
+            {
+                  "name": "วัดพุทไธศวรรย์",
+                  "text": "Történelmileg jelentős templom jellegzetes fehér pagodával a Chao Phraya partján.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558441,
+                        14.338946
+                  ]
+            },
+            {
+                  "name": "วัดอโยธยา",
+                  "text": "Látványos vallási helyszín, amely Ajutthaja gazdag történelmének része.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589533,
+                        14.36812
+                  ]
+            },
+            {
+                  "name": "วัดสมณโกฏฐาราม",
+                  "text": "Ez az ajutthajai templomkomplexum történelmi építészetével és spirituális jelentőségével hódít.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590408,
+                        14.361252
+                  ]
+            },
+            {
+                  "name": "วัดมณฑป",
+                  "text": "Egy másik kulturális látnivaló Ajutthajában, amely betekintést nyújt a thai templomi kultúrába.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575239,
+                        14.367428
+                  ]
+            },
+            {
+                  "name": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
+                  "text": "Ez az UNESCO Világörökség részét képező park az egykori thai főváros lenyűgöző romjait foglalja magában.",
+                  "category": "park",
+                  "coords": [
+                        100.55918,
+                        14.353589
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ จันทรเกษม",
+                  "text": "Egy egykori palota Ajutthajában, amely ma értékes kiállítási tárgyakat bemutató nemzeti múzeumnak ad otthont.",
+                  "category": "castle",
+                  "coords": [
+                        100.574628,
+                        14.365092
+                  ]
+            },
+            {
+                  "name": "บ้านฮอลันดา",
+                  "text": "Ez az ajutthajai múzeum a holland kereskedelmi kapcsolatok történetét dokumentálja Thaiföldön.",
+                  "category": "museum",
+                  "coords": [
+                        100.577299,
+                        14.340601
+                  ]
+            },
+            {
+                  "name": "หมู่บ้านญี่ปุ่น",
+                  "text": "Múzeum az egykori japán település helyén Ajutthajában.",
+                  "category": "museum",
+                  "coords": [
+                        100.577421,
+                        14.332888
+                  ]
+            },
+            {
+                  "name": "ศูนย์ข้อมูลการอนุรักษ์นครประวัติศาสตร์พระนครศรีอยุธยา",
+                  "text": "Ez a központ Ajutthaja történelmi városának megőrzéséről és történetéről nyújt tájékoztatást.",
+                  "category": "museum",
+                  "coords": [
+                        100.557709,
+                        14.350669
+                  ]
+            },
+            {
+                  "name": "ศูนย์ท่องเที่ยวอยุธยา",
+                  "text": "Turisztikai központ Ajutthajában, amely kulturális információkat és múzeumi kiállításokat kínál a látogatóknak.",
+                  "category": "museum",
+                  "coords": [
+                        100.559407,
+                        14.349601
+                  ]
+            },
+            {
+                  "name": "ศูนย์ศึกษาประวัติศาสตร์อยุธยา",
+                  "text": "Ez a központ Ajutthaja történelmének tudományos kutatásával és dokumentálásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        100.565534,
+                        14.349486
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์สมเด็จพระสุริโยทัย",
+                  "text": "Múzeum Ajutthajában, amelyet a híres thai királynőnek, Szurijothainak szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        100.547449,
+                        14.351959
+                  ]
+            },
+            {
+                  "name": "ตำหนักเพนียด",
+                  "text": "Történelmi épület Ajutthajában, amelyet korábban királyi elefántkarámként használtak.",
+                  "category": "castle",
+                  "coords": [
+                        100.571075,
+                        14.376295
+                  ]
+            },
+            {
+                  "name": "อนุสรณ์สถาน ปรีดี พนมยงค์",
+                  "text": "Emlékmúzeum Pridi Banomyongnak, a thai történelem kiemelkedő alakjának Ajutthajában.",
+                  "category": "museum",
+                  "coords": [
+                        100.552144,
+                        14.36029
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เรือไทย",
+                  "text": "Speciális múzeum Ajutthajában, amely a thai hajóépítés történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        100.571963,
+                        14.35656
+                  ]
+            },
+            {
+                  "name": "วัดขุนเมืองใจ",
+                  "text": "Régészeti lelőhely Ajutthajában történelmi építészeti maradványokkal.",
+                  "category": "historical",
+                  "coords": [
+                        100.570702,
+                        14.351252
+                  ]
+            },
+            {
+                  "name": "วัดชุมแสง",
+                  "text": "Történelmi romok Ajutthajában, amelyek a város egykori nagyságáról tanúskodnak.",
+                  "category": "historical",
+                  "coords": [
+                        100.564682,
+                        14.358021
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "วัดราชพลี",
+                  "text": "Un sit arheologic în Ayutthaya, cuprinzând vestigiile unui templu budist istoric.",
+                  "category": "historical",
+                  "coords": [
+                        100.543292,
+                        14.34933
+                  ]
+            },
+            {
+                  "name": "วัดพระศรีสรรเพชญ์",
+                  "text": "Cel mai important templu al fostului palat regal din Ayutthaya, cunoscut pentru cele trei mari chedi-uri ale sale.",
+                  "category": "historical",
+                  "coords": [
+                        100.558515,
+                        14.355926
+                  ]
+            },
+            {
+                  "name": "วัดราชบูรณะ",
+                  "text": "Un templu din secolul al XV-lea în Ayutthaya, faimos pentru comorile de aur descoperite în cripta sa.",
+                  "category": "historical",
+                  "coords": [
+                        100.567292,
+                        14.358739
+                  ]
+            },
+            {
+                  "name": "วัดมหาธาตุ",
+                  "text": "Un templu istoric în Ayutthaya, cunoscut pentru capul de Buddha încastrat în rădăcinile unui copac.",
+                  "category": "historical",
+                  "coords": [
+                        100.567484,
+                        14.357001
+                  ]
+            },
+            {
+                  "name": "วิหารแกลบ",
+                  "text": "Un sit arheologic în Ayutthaya cu ruinele unei vechi clădiri religioase.",
+                  "category": "historical",
+                  "coords": [
+                        100.559432,
+                        14.354903
+                  ]
+            },
+            {
+                  "name": "วัดใหญ่ชัยมงคลวรวิหาร",
+                  "text": "Un templu impresionant în Ayutthaya cu un mare Buddha culcat și un chedi proeminent.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593899,
+                        14.344313
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ เจ้าสามพระยา",
+                  "text": "Acest muzeu național din Ayutthaya găzduiește importante comori de aur și artefacte din istoria regatului.",
+                  "category": "museum",
+                  "coords": [
+                        100.56182,
+                        14.351189
+                  ]
+            },
+            {
+                  "name": "วัดบรมพุทธาราม",
+                  "text": "Acest sit istoric din Ayutthaya păstrează vestigiile arhitecturale ale unui fost templu budist.",
+                  "category": "historical",
+                  "coords": [
+                        100.561267,
+                        14.347677
+                  ]
+            },
+            {
+                  "name": "วัดชัยภูมิ",
+                  "text": "Un sit antic de ruine din Ayutthaya, care face parte din bogata moștenire arheologică a fostei capitale.",
+                  "category": "historical",
+                  "coords": [
+                        100.570088,
+                        14.357272
+                  ]
+            },
+            {
+                  "name": "วัดวังชัย",
+                  "text": "Rămășițele unui complex istoric de temple din vechiul oraș regal Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.549169,
+                        14.342113
+                  ]
+            },
+            {
+                  "name": "วัดพลับพลาไชย",
+                  "text": "Un sit arheologic din Ayutthaya care oferă o perspectivă asupra arhitecturii sacre din trecut.",
+                  "category": "historical",
+                  "coords": [
+                        100.568114,
+                        14.360404
+                  ]
+            },
+            {
+                  "name": "วัดลายสอ",
+                  "text": "Ruinele istorice ale unui fost templu în zona arheologică din Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.560681,
+                        14.367205
+                  ]
+            },
+            {
+                  "name": "วัดเตว็ด",
+                  "text": "Un alt sit arheologic important care aparține peisajului urban istoric din Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.562889,
+                        14.337276
+                  ]
+            },
+            {
+                  "name": "ป้อมเพชร",
+                  "text": "Această fortăreață istorică din Ayutthaya a servit odată la protejarea vechii capitale thailandeze.",
+                  "category": "fortress",
+                  "coords": [
+                        100.576284,
+                        14.346284
+                  ]
+            },
+            {
+                  "name": "วัดนักบุญยอแซฟ",
+                  "text": "O biserică catolică istorică de pe malul râului, care atestă prezența europeană timpurie în Ayutthaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.550499,
+                        14.338682
+                  ]
+            },
+            {
+                  "name": "วิหารพระมงคลบพิตร",
+                  "text": "Această sală de rugăciune magnifică adăpostește una dintre cele mai mari statui de bronz ale lui Buddha din Thailanda.",
+                  "category": "religious",
+                  "coords": [
+                        100.55771,
+                        14.354864
+                  ]
+            },
+            {
+                  "name": "วัดอินทาราม",
+                  "text": "Un templu budist din Ayutthaya care servește ca loc de liniște și rugăciune.",
+                  "category": "religious",
+                  "coords": [
+                        100.567875,
+                        14.365353
+                  ]
+            },
+            {
+                  "name": "วัดพิชัยสงคราม",
+                  "text": "Acest sit religios activ din Ayutthaya este un centru pentru credincioșii budiști locali.",
+                  "category": "religious",
+                  "coords": [
+                        100.582197,
+                        14.353948
+                  ]
+            },
+            {
+                  "name": "วัดธรรมนิยม",
+                  "text": "Un templu thailandez tradițional care reflectă diversitatea religioasă a orașului Ayutthaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.582032,
+                        14.359135
+                  ]
+            },
+            {
+                  "name": "วัดป่าโค",
+                  "text": "Acest complex religios din Ayutthaya oferă vizitatorilor o perspectivă asupra practicii budiste locale.",
+                  "category": "religious",
+                  "coords": [
+                        100.581431,
+                        14.374999
+                  ]
+            },
+            {
+                  "name": "ตลาดน้ำอโยธยา",
+                  "text": "O piață plutitoare plină de viață din Ayutthaya, care oferă meșteșuguri tradiționale, mâncare și spectacole culturale.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593163,
+                        14.35891
+                  ]
+            },
+            {
+                  "name": "วัดธรรมิกราช",
+                  "text": "Un templu istoric important din Ayutthaya, cunoscut pentru statuia sa cu Buddha culcat.",
+                  "category": "landmark",
+                  "coords": [
+                        100.561671,
+                        14.358726
+                  ]
+            },
+            {
+                  "name": "วัดญาณเสน",
+                  "text": "O atracție din Ayutthaya cu o arhitectură caracteristică și semnificație religioasă.",
+                  "category": "landmark",
+                  "coords": [
+                        100.563981,
+                        14.359634
+                  ]
+            },
+            {
+                  "name": "วัดสุวรรณดารารามราชวรวิหาร",
+                  "text": "Acest templu regal din Ayutthaya este faimos pentru picturile sale murale fine și arhitectura clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        100.578394,
+                        14.348149
+                  ]
+            },
+            {
+                  "name": "วัดกษัตราธิราชวรวิหาร",
+                  "text": "Un templu impresionant de pe malul de vest al râului Chao Phraya, cu un prang alb distinctiv.",
+                  "category": "landmark",
+                  "coords": [
+                        100.544187,
+                        14.352051
+                  ]
+            },
+            {
+                  "name": "วัดเสนาสนารามราชวรวิหาร",
+                  "text": "Un templu important din Ayutthaya, cunoscut pentru clădirile sale elegante și comorile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57315,
+                        14.363082
+                  ]
+            },
+            {
+                  "name": "วัดศาลาปูนวรวิหาร",
+                  "text": "Acest templu este un sit religios important din Ayutthaya și prezintă artă thailandeză clasică.",
+                  "category": "landmark",
+                  "coords": [
+                        100.549187,
+                        14.360495
+                  ]
+            },
+            {
+                  "name": "วัดเชิงท่า",
+                  "text": "Un templu istoric din Ayutthaya, situat direct pe malul râului, oferind o atmosferă liniștită.",
+                  "category": "landmark",
+                  "coords": [
+                        100.555631,
+                        14.361956
+                  ]
+            },
+            {
+                  "name": "วัดหน้าพระเมรุราชิการาม",
+                  "text": "Acest templu este faimos pentru faptul că a supraviețuit distrugerii orașului Ayutthaya aproape intact.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558773,
+                        14.363129
+                  ]
+            },
+            {
+                  "name": "วัดพรหมนิวาสวรวิหาร",
+                  "text": "Un complex de temple liniștit din Ayutthaya, care invită la relaxare și reflecție.",
+                  "category": "landmark",
+                  "coords": [
+                        100.548403,
+                        14.35954
+                  ]
+            },
+            {
+                  "name": "วัดพนมยงค์",
+                  "text": "Acest sit religios din Ayutthaya se remarcă prin arhitectura sa tradițională și semnificația locală.",
+                  "category": "landmark",
+                  "coords": [
+                        100.551841,
+                        14.361982
+                  ]
+            },
+            {
+                  "name": "วัดสามวิหาร",
+                  "text": "Un templu din Ayutthaya cunoscut pentru clădirile sale istorice și atmosfera spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        100.572771,
+                        14.370081
+                  ]
+            },
+            {
+                  "name": "วัดราชประดิษฐาน",
+                  "text": "Un alt complex de temple care merită vizitat și care îmbogățește moștenirea culturală a Ayutthayei.",
+                  "category": "landmark",
+                  "coords": [
+                        100.568938,
+                        14.362322
+                  ]
+            },
+            {
+                  "name": "วัดดุสิดาราม",
+                  "text": "Acest templu din Ayutthaya este un exemplu frumos de arhitectură sacră din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589041,
+                        14.370821
+                  ]
+            },
+            {
+                  "name": "วัดขุนพรหม",
+                  "text": "Un complex religios din Ayutthaya, care prezintă interes atât pentru credincioși, cât și pentru turiști.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57056,
+                        14.346344
+                  ]
+            },
+            {
+                  "name": "วัดประดู่ทรงธรรม",
+                  "text": "Acest templu din Ayutthaya este cunoscut pentru picturile sale murale istorice și ceremoniile religioase.",
+                  "category": "landmark",
+                  "coords": [
+                        100.587355,
+                        14.364019
+                  ]
+            },
+            {
+                  "name": "วัดบางกะจะ",
+                  "text": "Un templu atmosferic situat la confluența a două râuri în Ayutthaya.",
+                  "category": "landmark",
+                  "coords": [
+                        100.574862,
+                        14.344695
+                  ]
+            },
+            {
+                  "name": "วัดท่าการ้อง",
+                  "text": "Acest templu din Ayutthaya este o destinație populară pentru vizitatorii care doresc să experimenteze cultura thailandeză locală.",
+                  "category": "landmark",
+                  "coords": [
+                        100.54308,
+                        14.357977
+                  ]
+            },
+            {
+                  "name": "วัดพุทไธศวรรย์",
+                  "text": "Un templu important din punct de vedere istoric, cu o pagodă albă distinctivă pe malul râului Chao Phraya.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558441,
+                        14.338946
+                  ]
+            },
+            {
+                  "name": "วัดอโยธยา",
+                  "text": "Un sit religios care merită vizitat, făcând parte din istoria bogată a Ayutthayei.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589533,
+                        14.36812
+                  ]
+            },
+            {
+                  "name": "วัดสมณโกฏฐาราม",
+                  "text": "Acest complex de temple din Ayutthaya impresionează prin arhitectura sa istorică și semnificația spirituală.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590408,
+                        14.361252
+                  ]
+            },
+            {
+                  "name": "วัดมณฑป",
+                  "text": "O altă atracție culturală din Ayutthaya care oferă perspective asupra culturii templiere thailandeze.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575239,
+                        14.367428
+                  ]
+            },
+            {
+                  "name": "อุทยานประวัติศาสตร์พระนครศรีอยุธยา",
+                  "text": "Acest parc din patrimoniul mondial UNESCO cuprinde ruinele impresionante ale fostei capitale thailandeze.",
+                  "category": "park",
+                  "coords": [
+                        100.55918,
+                        14.353589
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ จันทรเกษม",
+                  "text": "Un fost palat din Ayutthaya care astăzi găzduiește un muzeu național cu exponate valoroase.",
+                  "category": "castle",
+                  "coords": [
+                        100.574628,
+                        14.365092
+                  ]
+            },
+            {
+                  "name": "บ้านฮอลันดา",
+                  "text": "Acest muzeu din Ayutthaya documentează istoria relațiilor comerciale olandeze în Thailanda.",
+                  "category": "museum",
+                  "coords": [
+                        100.577299,
+                        14.340601
+                  ]
+            },
+            {
+                  "name": "หมู่บ้านญี่ปุ่น",
+                  "text": "Un muzeu situat pe locul fostei așezări japoneze din Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.577421,
+                        14.332888
+                  ]
+            },
+            {
+                  "name": "ศูนย์ข้อมูลการอนุรักษ์นครประวัติศาสตร์พระนครศรีอยุธยา",
+                  "text": "Acest centru oferă informații despre conservarea și istoria orașului istoric Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.557709,
+                        14.350669
+                  ]
+            },
+            {
+                  "name": "ศูนย์ท่องเที่ยวอยุธยา",
+                  "text": "Un centru turistic din Ayutthaya care oferă informații culturale și exponate de muzeu pentru vizitatori.",
+                  "category": "museum",
+                  "coords": [
+                        100.559407,
+                        14.349601
+                  ]
+            },
+            {
+                  "name": "ศูนย์ศึกษาประวัติศาสตร์อยุธยา",
+                  "text": "Acest centru este dedicat cercetării științifice și documentării istoriei orașului Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.565534,
+                        14.349486
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์สมเด็จพระสุริโยทัย",
+                  "text": "Un muzeu din Ayutthaya dedicat celebrei regine thailandeze Suriyothai.",
+                  "category": "museum",
+                  "coords": [
+                        100.547449,
+                        14.351959
+                  ]
+            },
+            {
+                  "name": "ตำหนักเพนียด",
+                  "text": "O clădire istorică din Ayutthaya, folosită anterior ca țarc regal pentru elefanți.",
+                  "category": "castle",
+                  "coords": [
+                        100.571075,
+                        14.376295
+                  ]
+            },
+            {
+                  "name": "อนุสรณ์สถาน ปรีดี พนมยงค์",
+                  "text": "Un muzeu memorial dedicat lui Pridi Banomyong, o figură importantă din istoria Thailandei, în Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.552144,
+                        14.36029
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เรือไทย",
+                  "text": "Un muzeu specializat din Ayutthaya care documentează istoria construcției de bărci thailandeze.",
+                  "category": "museum",
+                  "coords": [
+                        100.571963,
+                        14.35656
+                  ]
+            },
+            {
+                  "name": "วัดขุนเมืองใจ",
+                  "text": "Un sit arheologic din Ayutthaya cu rămășițe ale arhitecturii istorice.",
+                  "category": "historical",
+                  "coords": [
+                        100.570702,
+                        14.351252
+                  ]
+            },
+            {
+                  "name": "วัดชุมแสง",
+                  "text": "Ruine istorice din Ayutthaya care atestă măreția de odinioară a orașului.",
+                  "category": "historical",
+                  "coords": [
+                        100.564682,
+                        14.358021
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat Ratchaphli",
+                  "text": "An archaeological site in Ayutthaya comprising the remains of a historic Buddhist temple.",
+                  "category": "historical",
+                  "coords": [
+                        100.543292,
+                        14.34933
+                  ]
+            },
+            {
+                  "name": "Wat Phra Si Sanphet",
+                  "text": "The most important temple of the former royal palace in Ayutthaya, famous for its three large chedis.",
+                  "category": "historical",
+                  "coords": [
+                        100.558515,
+                        14.355926
+                  ]
+            },
+            {
+                  "name": "Wat Ratchaburana",
+                  "text": "A 15th-century temple in Ayutthaya, famous for the gold treasures discovered in its crypt.",
+                  "category": "historical",
+                  "coords": [
+                        100.567292,
+                        14.358739
+                  ]
+            },
+            {
+                  "name": "Wat Maha That",
+                  "text": "A historic temple in Ayutthaya, famous for the Buddha head entwined in tree roots.",
+                  "category": "historical",
+                  "coords": [
+                        100.567484,
+                        14.357001
+                  ]
+            },
+            {
+                  "name": "Wihan Klaep",
+                  "text": "An archaeological site in Ayutthaya featuring the ruins of an ancient religious building.",
+                  "category": "historical",
+                  "coords": [
+                        100.559432,
+                        14.354903
+                  ]
+            },
+            {
+                  "name": "Wat Yai Chai Mongkhon Worawihan",
+                  "text": "An impressive temple in Ayutthaya featuring a large reclining Buddha and a prominent chedi.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593899,
+                        14.344313
+                  ]
+            },
+            {
+                  "name": "Chao Sam Phraya National Museum",
+                  "text": "This national museum in Ayutthaya houses significant gold treasures and artifacts from the kingdom's history.",
+                  "category": "museum",
+                  "coords": [
+                        100.56182,
+                        14.351189
+                  ]
+            },
+            {
+                  "name": "Wat Borom Phuttharam",
+                  "text": "This historical site in Ayutthaya preserves the architectural remains of a former Buddhist temple.",
+                  "category": "historical",
+                  "coords": [
+                        100.561267,
+                        14.347677
+                  ]
+            },
+            {
+                  "name": "Wat Chaiyaphum",
+                  "text": "An ancient ruin site in Ayutthaya that is part of the former capital's rich archaeological heritage.",
+                  "category": "historical",
+                  "coords": [
+                        100.570088,
+                        14.357272
+                  ]
+            },
+            {
+                  "name": "Wat Wang Chai",
+                  "text": "Remains of a historical temple complex in the ancient royal city of Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.549169,
+                        14.342113
+                  ]
+            },
+            {
+                  "name": "Wat Phlapphla Chai",
+                  "text": "An archaeological site in Ayutthaya providing insight into the sacred architecture of the past.",
+                  "category": "historical",
+                  "coords": [
+                        100.568114,
+                        14.360404
+                  ]
+            },
+            {
+                  "name": "Wat Lai So",
+                  "text": "Historical ruins of a former temple in the archaeological zone of Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.560681,
+                        14.367205
+                  ]
+            },
+            {
+                  "name": "Wat Tawet",
+                  "text": "Another significant archaeological site belonging to the historical cityscape of Ayutthaya.",
+                  "category": "historical",
+                  "coords": [
+                        100.562889,
+                        14.337276
+                  ]
+            },
+            {
+                  "name": "Phet Fort",
+                  "text": "This historical fort in Ayutthaya once served to protect the ancient Thai capital.",
+                  "category": "fortress",
+                  "coords": [
+                        100.576284,
+                        14.346284
+                  ]
+            },
+            {
+                  "name": "Catholic Church of Saint Joseph",
+                  "text": "A historic Catholic church on the riverbank, testifying to the early European presence in Ayutthaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.550499,
+                        14.338682
+                  ]
+            },
+            {
+                  "name": "Wihan Phra Mongkhon Bophit",
+                  "text": "This magnificent prayer hall houses one of Thailand's largest bronze Buddha statues.",
+                  "category": "religious",
+                  "coords": [
+                        100.55771,
+                        14.354864
+                  ]
+            },
+            {
+                  "name": "Wat Intharam",
+                  "text": "A Buddhist temple in Ayutthaya serving as a place of tranquility and prayer.",
+                  "category": "religious",
+                  "coords": [
+                        100.567875,
+                        14.365353
+                  ]
+            },
+            {
+                  "name": "Wat Phichai Songkhram",
+                  "text": "This active religious site in Ayutthaya is a center for local devout Buddhists.",
+                  "category": "religious",
+                  "coords": [
+                        100.582197,
+                        14.353948
+                  ]
+            },
+            {
+                  "name": "Wat Tham Niyom",
+                  "text": "A traditional Thai temple reflecting the religious diversity of the city of Ayutthaya.",
+                  "category": "religious",
+                  "coords": [
+                        100.582032,
+                        14.359135
+                  ]
+            },
+            {
+                  "name": "Wat Pa Kho",
+                  "text": "This religious complex in Ayutthaya offers visitors an insight into local Buddhist practice.",
+                  "category": "religious",
+                  "coords": [
+                        100.581431,
+                        14.374999
+                  ]
+            },
+            {
+                  "name": "Ayothaya Floating Market",
+                  "text": "A lively floating market in Ayutthaya offering traditional crafts, food, and cultural performances.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593163,
+                        14.35891
+                  ]
+            },
+            {
+                  "name": "Wat Thammikarat",
+                  "text": "A significant historical temple in Ayutthaya known for its reclining Buddha statue.",
+                  "category": "landmark",
+                  "coords": [
+                        100.561671,
+                        14.358726
+                  ]
+            },
+            {
+                  "name": "Wat Yannasen",
+                  "text": "A noteworthy site in Ayutthaya with characteristic architecture and religious significance.",
+                  "category": "landmark",
+                  "coords": [
+                        100.563981,
+                        14.359634
+                  ]
+            },
+            {
+                  "name": "Wat Suwan Dararam Ratchaworawihan",
+                  "text": "This royal temple in Ayutthaya is famous for its fine murals and classic architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.578394,
+                        14.348149
+                  ]
+            },
+            {
+                  "name": "Wat Kasattrathirat Worawihan",
+                  "text": "An impressive temple on the west bank of the Chao Phraya River with a prominent white prang.",
+                  "category": "landmark",
+                  "coords": [
+                        100.544187,
+                        14.352051
+                  ]
+            },
+            {
+                  "name": "Wat Senatsanaram Ratchaworawihan",
+                  "text": "A significant temple in Ayutthaya known for its elegant buildings and religious treasures.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57315,
+                        14.363082
+                  ]
+            },
+            {
+                  "name": "Wat Sala Pun Worawihan",
+                  "text": "This temple is an important religious site in Ayutthaya and showcases classic Thai art.",
+                  "category": "landmark",
+                  "coords": [
+                        100.549187,
+                        14.360495
+                  ]
+            },
+            {
+                  "name": "Wat Choeng Tha",
+                  "text": "A historical temple in Ayutthaya located right on the riverbank, offering a peaceful atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        100.555631,
+                        14.361956
+                  ]
+            },
+            {
+                  "name": "Wat Na Phra Men Rachikaram",
+                  "text": "This temple is famous for having survived the destruction of Ayutthaya almost intact.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558773,
+                        14.363129
+                  ]
+            },
+            {
+                  "name": "Wat Phrom Niwat Worawihan",
+                  "text": "A quiet temple complex in Ayutthaya that invites lingering and reflection.",
+                  "category": "landmark",
+                  "coords": [
+                        100.548403,
+                        14.35954
+                  ]
+            },
+            {
+                  "name": "Wat Phanom Yong",
+                  "text": "This religious site in Ayutthaya stands out for its traditional architecture and local significance.",
+                  "category": "landmark",
+                  "coords": [
+                        100.551841,
+                        14.361982
+                  ]
+            },
+            {
+                  "name": "Wat Sam Wihan",
+                  "text": "A temple in Ayutthaya known for its historical buildings and spiritual atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        100.572771,
+                        14.370081
+                  ]
+            },
+            {
+                  "name": "Wat Ratchapraditsathan",
+                  "text": "Another noteworthy temple complex enriching the cultural heritage of Ayutthaya.",
+                  "category": "landmark",
+                  "coords": [
+                        100.568938,
+                        14.362322
+                  ]
+            },
+            {
+                  "name": "Wat Dusidaram",
+                  "text": "This temple in Ayutthaya is a beautiful example of the region's sacred architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589041,
+                        14.370821
+                  ]
+            },
+            {
+                  "name": "Wat Khun Phrom",
+                  "text": "A religious complex in Ayutthaya of interest to both devotees and tourists.",
+                  "category": "landmark",
+                  "coords": [
+                        100.57056,
+                        14.346344
+                  ]
+            },
+            {
+                  "name": "Wat Pradu Song Tham",
+                  "text": "This temple in Ayutthaya is known for its historical murals and religious ceremonies.",
+                  "category": "landmark",
+                  "coords": [
+                        100.587355,
+                        14.364019
+                  ]
+            },
+            {
+                  "name": "Wat Bang Kacha",
+                  "text": "An atmospheric temple located at the confluence of two rivers in Ayutthaya.",
+                  "category": "landmark",
+                  "coords": [
+                        100.574862,
+                        14.344695
+                  ]
+            },
+            {
+                  "name": "Wat Tha Ka Rong",
+                  "text": "This temple in Ayutthaya is a popular destination for visitors wishing to experience local Thai culture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.54308,
+                        14.357977
+                  ]
+            },
+            {
+                  "name": "Wat Phutthaisawan",
+                  "text": "A historically significant temple with a striking white pagoda on the banks of the Chao Phraya.",
+                  "category": "landmark",
+                  "coords": [
+                        100.558441,
+                        14.338946
+                  ]
+            },
+            {
+                  "name": "Wat Ayothaya",
+                  "text": "A religious site worth visiting that is part of Ayutthaya's rich history.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589533,
+                        14.36812
+                  ]
+            },
+            {
+                  "name": "Wat Samanakottharam",
+                  "text": "This temple complex in Ayutthaya impresses with its historical architecture and spiritual significance.",
+                  "category": "landmark",
+                  "coords": [
+                        100.590408,
+                        14.361252
+                  ]
+            },
+            {
+                  "name": "Wat Mondop",
+                  "text": "Another cultural attraction in Ayutthaya providing insights into Thai temple culture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.575239,
+                        14.367428
+                  ]
+            },
+            {
+                  "name": "Ayutthaya Historical Park",
+                  "text": "This UNESCO World Heritage park encompasses the impressive ruins of the former Thai capital.",
+                  "category": "park",
+                  "coords": [
+                        100.55918,
+                        14.353589
+                  ]
+            },
+            {
+                  "name": "Chantharakasem National Museum",
+                  "text": "A former palace in Ayutthaya that now houses a national museum with valuable exhibits.",
+                  "category": "castle",
+                  "coords": [
+                        100.574628,
+                        14.365092
+                  ]
+            },
+            {
+                  "name": "Baan Hollanda",
+                  "text": "This museum in Ayutthaya documents the history of Dutch trade relations in Thailand.",
+                  "category": "museum",
+                  "coords": [
+                        100.577299,
+                        14.340601
+                  ]
+            },
+            {
+                  "name": "Japanese Village",
+                  "text": "A museum on the site of the former Japanese settlement in Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.577421,
+                        14.332888
+                  ]
+            },
+            {
+                  "name": "Ayutthaya Historic City Conservation Information Center",
+                  "text": "This center provides information on the conservation and history of the historic city of Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.557709,
+                        14.350669
+                  ]
+            },
+            {
+                  "name": "Ayutthaya Tourist Center",
+                  "text": "A tourist center in Ayutthaya that provides cultural information and museum exhibits for visitors.",
+                  "category": "museum",
+                  "coords": [
+                        100.559407,
+                        14.349601
+                  ]
+            },
+            {
+                  "name": "Ayutthaya Historical Study Centre",
+                  "text": "This center is dedicated to the scientific study and documentation of Ayutthaya's history.",
+                  "category": "museum",
+                  "coords": [
+                        100.565534,
+                        14.349486
+                  ]
+            },
+            {
+                  "name": "Queen Suriyothai Museum",
+                  "text": "A museum in Ayutthaya dedicated to the famous Thai queen Suriyothai.",
+                  "category": "museum",
+                  "coords": [
+                        100.547449,
+                        14.351959
+                  ]
+            },
+            {
+                  "name": "Tamnak Phaniat",
+                  "text": "A historical building in Ayutthaya formerly used as a royal elephant kraal.",
+                  "category": "castle",
+                  "coords": [
+                        100.571075,
+                        14.376295
+                  ]
+            },
+            {
+                  "name": "Pridi Banomyong Memorial",
+                  "text": "A memorial museum for Pridi Banomyong, a significant figure in Thai history, located in Ayutthaya.",
+                  "category": "museum",
+                  "coords": [
+                        100.552144,
+                        14.36029
+                  ]
+            },
+            {
+                  "name": "Thai Boat Museum",
+                  "text": "A specialized museum in Ayutthaya documenting the history of Thai boat building.",
+                  "category": "museum",
+                  "coords": [
+                        100.571963,
+                        14.35656
+                  ]
+            },
+            {
+                  "name": "Wat Khun Mueang Chai",
+                  "text": "An archaeological site in Ayutthaya with remains of historical architecture.",
+                  "category": "historical",
+                  "coords": [
+                        100.570702,
+                        14.351252
+                  ]
+            },
+            {
+                  "name": "Wat Chum Saeng",
+                  "text": "Historical ruins in Ayutthaya testifying to the former greatness of the city.",
+                  "category": "historical",
+                  "coords": [
+                        100.564682,
+                        14.358021
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-14",
     coords: [100.5693, 14.353],
@@ -420,7 +5397,340 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Phra Nakhon Si Ayutthaya est une ville qui abrite les ruines de l'ancienne capitale du royaume de Siam.", "Situé sur le territoire du royaume de Thaïlande.", "Caractérisé par le climat de mousson de l'Asie du Sud-Est.", "Lié à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/ayutthaya-cities-v2.webp"},
   {
-    id: "khon-kaen-cities-v2",
+    id: "khon-kaen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+                  "text": "Ein Museum in Khon Kaen, das archäologische und historische Artefakte der Region zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        102.838659,
+                        16.446143
+                  ]
+            },
+            {
+                  "name": "หอศิลปวัฒนธรรมมหาวิทยาลัยขอนแก่น",
+                  "text": "Ein Universitätsmuseum in Khon Kaen, das sich der Kunst und Kultur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        102.814523,
+                        16.445115
+                  ]
+            },
+            {
+                  "name": "โฮงมูนมังเมืองขอนแกน",
+                  "text": "Das Stadtmuseum von Khon Kaen, das die Geschichte und Entwicklung der Stadt dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        102.839061,
+                        16.419611
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ประวัติศาสตร์ธรรมชาติ มหาวิทยาลัยขอนแก่น",
+                  "text": "Ein Museum an der Universität Khon Kaen, das naturgeschichtliche Exponate zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        102.810914,
+                        16.445818
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ จอมพลสฤษดิ์ ธนรัชต์",
+                  "text": "Ein Denkmal in Khon Kaen zu Ehren des ehemaligen thailändischen Premierministers Sarit Thanarat.",
+                  "category": "historical",
+                  "coords": [
+                        102.83552,
+                        16.439051
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ประชาธิปไตย",
+                  "text": "Ein Monument in Khon Kaen, das demokratische Werte symbolisiert.",
+                  "category": "historical",
+                  "coords": [
+                        102.829227,
+                        16.431132
+                  ]
+            },
+            {
+                  "name": "Hugz Mall",
+                  "text": "Ein Einkaufs- und Lifestyle-Zentrum in Khon Kaen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.830842,
+                        16.431521
+                  ]
+            },
+            {
+                  "name": "วัดป่าวิเวกธรรม",
+                  "text": "Ein lokaler Tempel in Khon Kaen, der als Ort der religiösen Andacht dient.",
+                  "category": "religious",
+                  "coords": [
+                        102.846252,
+                        16.426088
+                  ]
+            },
+            {
+                  "name": "พระธาตุศิโรดมขอนแก่น",
+                  "text": "Ein religiöser Stupa in Khon Kaen, der oft für spirituelle Zwecke besucht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        102.835737,
+                        16.440636
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+                  "text": "Múzeum Khon Kaenben, amely a régió régészeti és történelmi emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        102.838659,
+                        16.446143
+                  ]
+            },
+            {
+                  "name": "หอศิลปวัฒนธรรมมหาวิทยาลัยขอนแก่น",
+                  "text": "Egyetemi múzeum Khon Kaenben, amely a művészetnek és kultúrának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        102.814523,
+                        16.445115
+                  ]
+            },
+            {
+                  "name": "โฮงมูนมังเมืองขอนแกน",
+                  "text": "Khon Kaen városi múzeuma, amely a város történelmét és fejlődését mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        102.839061,
+                        16.419611
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ประวัติศาสตร์ธรรมชาติ มหาวิทยาลัยขอนแก่น",
+                  "text": "A Khon Kaen Egyetem múzeuma, amely természetrajzi kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        102.810914,
+                        16.445818
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ จอมพลสฤษดิ์ ธนรัชต์",
+                  "text": "Emlékmű Khon Kaenben a korábbi thaiföldi miniszterelnök, Sarit Thanarat tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        102.83552,
+                        16.439051
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ประชาธิปไตย",
+                  "text": "A demokratikus értékeket jelképező emlékmű Khon Kaenben.",
+                  "category": "historical",
+                  "coords": [
+                        102.829227,
+                        16.431132
+                  ]
+            },
+            {
+                  "name": "Hugz Mall",
+                  "text": "Bevásárló- és életmódközpont Khon Kaenben.",
+                  "category": "landmark",
+                  "coords": [
+                        102.830842,
+                        16.431521
+                  ]
+            },
+            {
+                  "name": "วัดป่าวิเวกธรรม",
+                  "text": "Helyi templom Khon Kaenben, amely vallási szertartások helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        102.846252,
+                        16.426088
+                  ]
+            },
+            {
+                  "name": "พระธาตุศิโรดมขอนแก่น",
+                  "text": "Vallási sztúpa Khon Kaenben, amelyet gyakran látogatnak hitéleti célból.",
+                  "category": "landmark",
+                  "coords": [
+                        102.835737,
+                        16.440636
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ ขอนแก่น",
+                  "text": "Un muzeu din Khon Kaen care expune artefacte arheologice și istorice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        102.838659,
+                        16.446143
+                  ]
+            },
+            {
+                  "name": "หอศิลปวัฒนธรรมมหาวิทยาลัยขอนแก่น",
+                  "text": "Un muzeu universitar din Khon Kaen dedicat artei și culturii.",
+                  "category": "museum",
+                  "coords": [
+                        102.814523,
+                        16.445115
+                  ]
+            },
+            {
+                  "name": "โฮงมูนมังเมืองขอนแกน",
+                  "text": "Muzeul orașului Khon Kaen, care documentează istoria și dezvoltarea orașului.",
+                  "category": "museum",
+                  "coords": [
+                        102.839061,
+                        16.419611
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ประวัติศาสตร์ธรรมชาติ มหาวิทยาลัยขอนแก่น",
+                  "text": "Un muzeu din cadrul Universității Khon Kaen care prezintă exponate de istorie naturală.",
+                  "category": "museum",
+                  "coords": [
+                        102.810914,
+                        16.445818
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ จอมพลสฤษดิ์ ธนรัชต์",
+                  "text": "Un monument în Khon Kaen ridicat în onoarea fostului prim-ministru thailandez Sarit Thanarat.",
+                  "category": "historical",
+                  "coords": [
+                        102.83552,
+                        16.439051
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ประชาธิปไตย",
+                  "text": "Un monument în Khon Kaen care simbolizează valorile democratice.",
+                  "category": "historical",
+                  "coords": [
+                        102.829227,
+                        16.431132
+                  ]
+            },
+            {
+                  "name": "Hugz Mall",
+                  "text": "Un centru comercial și de lifestyle situat în Khon Kaen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.830842,
+                        16.431521
+                  ]
+            },
+            {
+                  "name": "วัดป่าวิเวกธรรม",
+                  "text": "Un templu local din Khon Kaen care servește ca loc de cult religios.",
+                  "category": "religious",
+                  "coords": [
+                        102.846252,
+                        16.426088
+                  ]
+            },
+            {
+                  "name": "พระธาตุศิโรดมขอนแก่น",
+                  "text": "O stupă religioasă din Khon Kaen, vizitată adesea în scopuri spirituale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.835737,
+                        16.440636
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Khon Kaen National Museum",
+                  "text": "A museum in Khon Kaen showcasing archaeological and historical artifacts of the region.",
+                  "category": "museum",
+                  "coords": [
+                        102.838659,
+                        16.446143
+                  ]
+            },
+            {
+                  "name": "Art and Culture University Museum",
+                  "text": "A university museum in Khon Kaen dedicated to art and culture.",
+                  "category": "museum",
+                  "coords": [
+                        102.814523,
+                        16.445115
+                  ]
+            },
+            {
+                  "name": "Hong Mun Mang Khon Kaen City Museum",
+                  "text": "Khon Kaen City Museum, documenting the history and development of the city.",
+                  "category": "museum",
+                  "coords": [
+                        102.839061,
+                        16.419611
+                  ]
+            },
+            {
+                  "name": "Natural History Museum Khon Kaen University",
+                  "text": "A museum at Khon Kaen University showcasing natural history exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        102.810914,
+                        16.445818
+                  ]
+            },
+            {
+                  "name": "Marshal Sarit Thanarat Monument",
+                  "text": "A monument in Khon Kaen honoring the former Thai Prime Minister Sarit Thanarat.",
+                  "category": "historical",
+                  "coords": [
+                        102.83552,
+                        16.439051
+                  ]
+            },
+            {
+                  "name": "Democracy Monument",
+                  "text": "A monument in Khon Kaen symbolizing democratic values.",
+                  "category": "historical",
+                  "coords": [
+                        102.829227,
+                        16.431132
+                  ]
+            },
+            {
+                  "name": "Hugz Mall",
+                  "text": "A shopping and lifestyle mall located in Khon Kaen.",
+                  "category": "landmark",
+                  "coords": [
+                        102.830842,
+                        16.431521
+                  ]
+            },
+            {
+                  "name": "Wiwektham Temple",
+                  "text": "A local temple in Khon Kaen serving as a place of religious worship.",
+                  "category": "religious",
+                  "coords": [
+                        102.846252,
+                        16.426088
+                  ]
+            },
+            {
+                  "name": "Phra That Sirodom  Kham Kaen",
+                  "text": "A religious stupa in Khon Kaen often visited for spiritual purposes.",
+                  "category": "landmark",
+                  "coords": [
+                        102.835737,
+                        16.440636
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-40",
     coords: [102.833, 16.433],
@@ -561,7 +5871,232 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Chiang Rai est la plus grande ville du nord de la Thaïlande et a servi de capitale au royaume de Lan Na.", "Situé sur le territoire du royaume de Thaïlande.", "Caractérisé par le climat de mousson de l'Asie du Sud-Est.", "Lié à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/chiang-rai-cities-v2.webp"},
   {
-    id: "rayong-cities-v2",
+    id: "rayong-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ประภาคารระยอง",
+                  "text": "Ein Leuchtturm in Rayong, der als Orientierungshilfe an der Küste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        101.276254,
+                        12.656237
+                  ]
+            },
+            {
+                  "name": "Rayong Floating Market",
+                  "text": "Ein Markt in Rayong, auf dem Waren traditionell am Wasser verkauft werden.",
+                  "category": "landmark",
+                  "coords": [
+                        101.266488,
+                        12.695458
+                  ]
+            },
+            {
+                  "name": "Yomjinda street",
+                  "text": "Eine historische Straße in Rayong, die für ihre alte Architektur und lokale Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        101.277473,
+                        12.6801
+                  ]
+            },
+            {
+                  "name": "วัดโขด",
+                  "text": "Ein buddhistischer Tempel in Rayong, der der lokalen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        101.273055,
+                        12.679337
+                  ]
+            },
+            {
+                  "name": "วัดป่าประดู่",
+                  "text": "Ein Tempel in Rayong, der für seine große liegende Buddha-Statue bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.279366,
+                        12.682855
+                  ]
+            },
+            {
+                  "name": "วัดลุ่มมหาชัยชุมพล",
+                  "text": "Ein bedeutender Tempel in Rayong, der König Taksin dem Großen gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        101.282655,
+                        12.679274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ประภาคารระยอง",
+                  "text": "Világítótorony Rayongban, amely tengeri jelzőfényként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        101.276254,
+                        12.656237
+                  ]
+            },
+            {
+                  "name": "Rayong Floating Market",
+                  "text": "Piac Rayongban, ahol hagyományosan a víz mellett árulják a portékákat.",
+                  "category": "landmark",
+                  "coords": [
+                        101.266488,
+                        12.695458
+                  ]
+            },
+            {
+                  "name": "Yomjinda street",
+                  "text": "Történelmi utca Rayongban, amely régi építészetéről és helyi hangulatáról ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        101.277473,
+                        12.6801
+                  ]
+            },
+            {
+                  "name": "วัดโขด",
+                  "text": "Buddhista templom Rayongban, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        101.273055,
+                        12.679337
+                  ]
+            },
+            {
+                  "name": "วัดป่าประดู่",
+                  "text": "Rayongi templom, amely a nagy fekvő Buddha-szobráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        101.279366,
+                        12.682855
+                  ]
+            },
+            {
+                  "name": "วัดลุ่มมหาชัยชุมพล",
+                  "text": "Fontos templom Rayongban, amelyet Taksin király tiszteletére emeltek.",
+                  "category": "religious",
+                  "coords": [
+                        101.282655,
+                        12.679274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ประภาคารระยอง",
+                  "text": "Un far în Rayong care servește ca reper pentru navigație pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.276254,
+                        12.656237
+                  ]
+            },
+            {
+                  "name": "Rayong Floating Market",
+                  "text": "O piață în Rayong unde mărfurile sunt vândute tradițional lângă apă.",
+                  "category": "landmark",
+                  "coords": [
+                        101.266488,
+                        12.695458
+                  ]
+            },
+            {
+                  "name": "Yomjinda street",
+                  "text": "O stradă istorică din Rayong, cunoscută pentru arhitectura veche și atmosfera locală.",
+                  "category": "landmark",
+                  "coords": [
+                        101.277473,
+                        12.6801
+                  ]
+            },
+            {
+                  "name": "วัดโขด",
+                  "text": "Un templu budist din Rayong care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        101.273055,
+                        12.679337
+                  ]
+            },
+            {
+                  "name": "วัดป่าประดู่",
+                  "text": "Un templu din Rayong cunoscut pentru statuia sa mare a lui Buddha culcat.",
+                  "category": "religious",
+                  "coords": [
+                        101.279366,
+                        12.682855
+                  ]
+            },
+            {
+                  "name": "วัดลุ่มมหาชัยชุมพล",
+                  "text": "Un templu important din Rayong dedicat regelui Taksin cel Mare.",
+                  "category": "religious",
+                  "coords": [
+                        101.282655,
+                        12.679274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Rayong Lighthouse",
+                  "text": "A lighthouse in Rayong serving as a navigational aid on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        101.276254,
+                        12.656237
+                  ]
+            },
+            {
+                  "name": "Rayong Floating Market",
+                  "text": "A market in Rayong where goods are traditionally sold by the water.",
+                  "category": "landmark",
+                  "coords": [
+                        101.266488,
+                        12.695458
+                  ]
+            },
+            {
+                  "name": "Yomjinda street",
+                  "text": "A historic street in Rayong known for its old architecture and local atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        101.277473,
+                        12.6801
+                  ]
+            },
+            {
+                  "name": "Wat Khot",
+                  "text": "A Buddhist temple in Rayong serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        101.273055,
+                        12.679337
+                  ]
+            },
+            {
+                  "name": "Wat Pa Pradu",
+                  "text": "A temple in Rayong famous for its large reclining Buddha statue.",
+                  "category": "religious",
+                  "coords": [
+                        101.279366,
+                        12.682855
+                  ]
+            },
+            {
+                  "name": "Wat Lum Mahachai Chumphon",
+                  "text": "A significant temple in Rayong dedicated to King Taksin the Great.",
+                  "category": "religious",
+                  "coords": [
+                        101.282655,
+                        12.679274
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-21",
     coords: [101.277, 12.678],
@@ -608,7 +6143,160 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Rayong est une ville sur la côte du golfe de Thaïlande, connue pour ses plages et comme centre de l'industrie pétrochimique.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothaï et d'Ayutthaya."],
     }, image: "/poi-images/rayong-cities-v2.webp"},
   {
-    id: "ubon-ratchathani-cities-v2",
+    id: "ubon-ratchathani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Ubonratchathani Nationalmuseum",
+                  "text": "Ein Nationalmuseum in Ubon Ratchathani, das die regionale Geschichte und Kunst zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        104.857763,
+                        15.22768
+                  ]
+            },
+            {
+                  "name": "วัดศรีอุบลรัตนาราม (วัดศรีทอง) พระแก้วบุษราคัม",
+                  "text": "Ein buddhistischer Tempel in Ubon Ratchathani, bekannt für sein heiliges Buddha-Bildnis.",
+                  "category": "religious",
+                  "coords": [
+                        104.856169,
+                        15.227504
+                  ]
+            },
+            {
+                  "name": "วัดทุ่งศรีเมือง",
+                  "text": "Ein bedeutender Tempel in Ubon Ratchathani mit einer hölzernen Bibliothek auf Stelzen.",
+                  "category": "religious",
+                  "coords": [
+                        104.86081,
+                        15.230026
+                  ]
+            },
+            {
+                  "name": "วัดมหาวนาราม",
+                  "text": "Ein verehrter buddhistischer Tempel und spirituelles Zentrum in Ubon Ratchathani.",
+                  "category": "religious",
+                  "coords": [
+                        104.863395,
+                        15.234761
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Ubonratchathani National Museum",
+                  "text": "Nemzeti múzeum Ubonratcsathaniban, amely a régió történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        104.857763,
+                        15.22768
+                  ]
+            },
+            {
+                  "name": "วัดศรีอุบลรัตนาราม (วัดศรีทอง) พระแก้วบุษราคัม",
+                  "text": "Buddhista templom Ubonratcsathaniban, amely szent Buddha-szobráról ismert.",
+                  "category": "religious",
+                  "coords": [
+                        104.856169,
+                        15.227504
+                  ]
+            },
+            {
+                  "name": "วัดทุ่งศรีเมือง",
+                  "text": "Jelentős templom Ubonratcsathaniban, cölöpökön álló fa könyvtárral.",
+                  "category": "religious",
+                  "coords": [
+                        104.86081,
+                        15.230026
+                  ]
+            },
+            {
+                  "name": "วัดมหาวนาราม",
+                  "text": "Tisztelt buddhista templom és spirituális központ Ubonratcsathaniban.",
+                  "category": "religious",
+                  "coords": [
+                        104.863395,
+                        15.234761
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Ubonratchathani National Museum",
+                  "text": "Un muzeu național în Ubon Ratchathani, care prezintă istoria și arta regională.",
+                  "category": "museum",
+                  "coords": [
+                        104.857763,
+                        15.22768
+                  ]
+            },
+            {
+                  "name": "วัดศรีอุบลรัตนาราม (วัดศรีทอง) พระแก้วบุษราคัม",
+                  "text": "Un templu budist în Ubon Ratchathani, cunoscut pentru imaginea sa sacră a lui Buddha.",
+                  "category": "religious",
+                  "coords": [
+                        104.856169,
+                        15.227504
+                  ]
+            },
+            {
+                  "name": "วัดทุ่งศรีเมือง",
+                  "text": "Un templu important în Ubon Ratchathani, cu o bibliotecă de lemn pe piloni.",
+                  "category": "religious",
+                  "coords": [
+                        104.86081,
+                        15.230026
+                  ]
+            },
+            {
+                  "name": "วัดมหาวนาราม",
+                  "text": "Un templu budist venerat și centru spiritual în Ubon Ratchathani.",
+                  "category": "religious",
+                  "coords": [
+                        104.863395,
+                        15.234761
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Ubonratchathani National Museum",
+                  "text": "A national museum in Ubon Ratchathani showcasing regional history and art.",
+                  "category": "museum",
+                  "coords": [
+                        104.857763,
+                        15.22768
+                  ]
+            },
+            {
+                  "name": "Wat Sri Ubon Ratanaram (Wat Si Thong)",
+                  "text": "A Buddhist temple in Ubon Ratchathani known for its sacred Buddha image.",
+                  "category": "religious",
+                  "coords": [
+                        104.856169,
+                        15.227504
+                  ]
+            },
+            {
+                  "name": "Wat Thung Si Muang",
+                  "text": "An important temple in Ubon Ratchathani featuring a wooden library on stilts.",
+                  "category": "religious",
+                  "coords": [
+                        104.86081,
+                        15.230026
+                  ]
+            },
+            {
+                  "name": "Wat Mahawanaram",
+                  "text": "A revered Buddhist temple and spiritual center in Ubon Ratchathani.",
+                  "category": "religious",
+                  "coords": [
+                        104.863395,
+                        15.234761
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-34",
     coords: [104.858, 15.228],
@@ -655,7 +6343,268 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Ubon Ratchathani est l'une des quatre plus grandes villes d'Isan et est connue pour son festival annuel des bougies.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothai et Ayutthaya."],
     }, image: "/poi-images/ubon-ratchathani-cities-v2.webp"},
   {
-    id: "nakhon-sawan-cities-v2",
+    id: "nakhon-sawan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wat",
+                  "text": "Ein Museum in Nakhon Sawan, das Besuchern Einblicke in die regionale Geschichte und Kultur bietet.",
+                  "category": "museum",
+                  "coords": [
+                        100.127036,
+                        15.711945
+                  ]
+            },
+            {
+                  "name": "หอวัฒนธรรม จังหวัดนครสวรรค์",
+                  "text": "Die Kulturhalle von Nakhon Sawan präsentiert Ausstellungen zur Tradition und Geschichte der Provinz.",
+                  "category": "museum",
+                  "coords": [
+                        100.108149,
+                        15.688579
+                  ]
+            },
+            {
+                  "name": "ต้นแม่น้ำเจ้าพระยา",
+                  "text": "Dieser Aussichtspunkt markiert die Stelle, an der die Flüsse Ping und Nan zusammenfließen und den Chao Phraya bilden.",
+                  "category": "natural",
+                  "coords": [
+                        100.142094,
+                        15.700989
+                  ]
+            },
+            {
+                  "name": "วัดคีรีวงศ์",
+                  "text": "Ein markanter Tempel auf einem Hügel in Nakhon Sawan mit weitem Blick über die Stadt.",
+                  "category": "religious",
+                  "coords": [
+                        100.124718,
+                        15.71872
+                  ]
+            },
+            {
+                  "name": "วัดโพธิ์ธาราม",
+                  "text": "Ein buddhistischer Tempel in Nakhon Sawan, der ein wichtiger Ort für die lokale Gemeinschaft ist.",
+                  "category": "religious",
+                  "coords": [
+                        100.140503,
+                        15.704702
+                  ]
+            },
+            {
+                  "name": "วัดนครสวรรค์ พระอารามหลวง",
+                  "text": "Dieser bedeutende königliche Tempel ist ein religiöses Zentrum in der Stadt Nakhon Sawan.",
+                  "category": "religious",
+                  "coords": [
+                        100.13515,
+                        15.701339
+                  ]
+            },
+            {
+                  "name": "สะพานเดชาติวงศ์",
+                  "text": "Die Dechatiwong Bridge ist eine bekannte Brücke in Nakhon Sawan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.123542,
+                        15.688611
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wat",
+                  "text": "Egy múzeum Nakhon Sawanban, amely betekintést nyújt a látogatóknak a regionális történelembe és kultúrába.",
+                  "category": "museum",
+                  "coords": [
+                        100.127036,
+                        15.711945
+                  ]
+            },
+            {
+                  "name": "หอวัฒนธรรม จังหวัดนครสวรรค์",
+                  "text": "A Nakhon Sawan-i kulturális csarnok a tartomány hagyományait és történelmét bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        100.108149,
+                        15.688579
+                  ]
+            },
+            {
+                  "name": "ต้นแม่น้ำเจ้าพระยา",
+                  "text": "Ez a kilátópont azt a helyet jelöli, ahol a Ping és Nan folyók találkoznak, létrehozva a Chao Phrayát.",
+                  "category": "natural",
+                  "coords": [
+                        100.142094,
+                        15.700989
+                  ]
+            },
+            {
+                  "name": "วัดคีรีวงศ์",
+                  "text": "Jellegzetes dombtetői templom Nakhon Sawanban, széles kilátással a városra.",
+                  "category": "religious",
+                  "coords": [
+                        100.124718,
+                        15.71872
+                  ]
+            },
+            {
+                  "name": "วัดโพธิ์ธาราม",
+                  "text": "Buddhista templom Nakhon Sawanban, amely a helyi közösség fontos helyszíne.",
+                  "category": "religious",
+                  "coords": [
+                        100.140503,
+                        15.704702
+                  ]
+            },
+            {
+                  "name": "วัดนครสวรรค์ พระอารามหลวง",
+                  "text": "Ez a jelentős királyi templom vallási központ Nakhon Sawan városában.",
+                  "category": "religious",
+                  "coords": [
+                        100.13515,
+                        15.701339
+                  ]
+            },
+            {
+                  "name": "สะพานเดชาติวงศ์",
+                  "text": "A Dechatiwong Bridge egy ismert híd Nakhon Sawan városában.",
+                  "category": "landmark",
+                  "coords": [
+                        100.123542,
+                        15.688611
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wat",
+                  "text": "Un muzeu din Nakhon Sawan care oferă vizitatorilor o perspectivă asupra istoriei și culturii regionale.",
+                  "category": "museum",
+                  "coords": [
+                        100.127036,
+                        15.711945
+                  ]
+            },
+            {
+                  "name": "หอวัฒนธรรม จังหวัดนครสวรรค์",
+                  "text": "Sala culturală din Nakhon Sawan găzduiește expoziții despre tradiția și istoria provinciei.",
+                  "category": "museum",
+                  "coords": [
+                        100.108149,
+                        15.688579
+                  ]
+            },
+            {
+                  "name": "ต้นแม่น้ำเจ้าพระยา",
+                  "text": "Acest punct de belvedere marchează locul unde râurile Ping și Nan se unesc pentru a forma Chao Phraya.",
+                  "category": "natural",
+                  "coords": [
+                        100.142094,
+                        15.700989
+                  ]
+            },
+            {
+                  "name": "วัดคีรีวงศ์",
+                  "text": "Un templu distinctiv pe un deal din Nakhon Sawan, cu o vedere panoramică asupra orașului.",
+                  "category": "religious",
+                  "coords": [
+                        100.124718,
+                        15.71872
+                  ]
+            },
+            {
+                  "name": "วัดโพธิ์ธาราม",
+                  "text": "Un templu budist din Nakhon Sawan, care este un loc important pentru comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        100.140503,
+                        15.704702
+                  ]
+            },
+            {
+                  "name": "วัดนครสวรรค์ พระอารามหลวง",
+                  "text": "Acest templu regal important este un centru religios în orașul Nakhon Sawan.",
+                  "category": "religious",
+                  "coords": [
+                        100.13515,
+                        15.701339
+                  ]
+            },
+            {
+                  "name": "สะพานเดชาติวงศ์",
+                  "text": "Dechatiwong Bridge este un pod cunoscut situat în Nakhon Sawan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.123542,
+                        15.688611
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wat",
+                  "text": "A museum in Nakhon Sawan offering visitors insight into regional history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        100.127036,
+                        15.711945
+                  ]
+            },
+            {
+                  "name": "Cultural Hall of Nakhon Sawan",
+                  "text": "The Cultural Hall of Nakhon Sawan hosts exhibitions on the tradition and history of the province.",
+                  "category": "museum",
+                  "coords": [
+                        100.108149,
+                        15.688579
+                  ]
+            },
+            {
+                  "name": "Origin of Chao Phraya river",
+                  "text": "This viewpoint marks the spot where the Ping and Nan rivers converge to form the Chao Phraya.",
+                  "category": "natural",
+                  "coords": [
+                        100.142094,
+                        15.700989
+                  ]
+            },
+            {
+                  "name": "Wat Khiri Wong",
+                  "text": "A prominent hilltop temple in Nakhon Sawan with sweeping views over the city.",
+                  "category": "religious",
+                  "coords": [
+                        100.124718,
+                        15.71872
+                  ]
+            },
+            {
+                  "name": "Wat Photharam",
+                  "text": "A Buddhist temple in Nakhon Sawan that is an important site for the local community.",
+                  "category": "religious",
+                  "coords": [
+                        100.140503,
+                        15.704702
+                  ]
+            },
+            {
+                  "name": "Wat Nakhon Sawan Phra Aram Luang",
+                  "text": "This significant royal temple is a religious center in the city of Nakhon Sawan.",
+                  "category": "religious",
+                  "coords": [
+                        100.13515,
+                        15.701339
+                  ]
+            },
+            {
+                  "name": "Dechatiwong Bridge",
+                  "text": "Dechatiwong Bridge is a notable bridge located in Nakhon Sawan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.123542,
+                        15.688611
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-60",
     coords: [100.119, 15.707],
@@ -702,7 +6651,232 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Nakhon Sawan, aussi appelée 'Pak Nam Pho', est la ville où les rivières Ping et Nan confluent pour former le fleuve Chao Phraya.", "Située sur le territoire du royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/nakhon-sawan-cities-v2.webp"},
   {
-    id: "nakhon-si-thammarat-cities-v2",
+    id: "nakhon-si-thammarat-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑ์หนังตะลุง สุชาติ ทรัพย์สิน",
+                  "text": "Ein Museum in Nakhon Si Thammarat, das thailändische Schattenpuppen-Traditionen bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        99.968755,
+                        8.414435
+                  ]
+            },
+            {
+                  "name": "วัดพระมหาธาตุ วรมหาวิหาร",
+                  "text": "Einer der wichtigsten buddhistischen Tempel Thailands mit einer markanten Reliquien-Stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        99.966434,
+                        8.411091
+                  ]
+            },
+            {
+                  "name": "ศาลหลักเมือง",
+                  "text": "Der Stadtschrein von Nakhon Si Thammarat, ein Ort für lokale Rituale.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962178,
+                        8.430382
+                  ]
+            },
+            {
+                  "name": "สวนสาธารณะศรีธรรมาโศกราช",
+                  "text": "Ein Denkmal zu Ehren des Gründers von Nakhon Si Thammarat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962637,
+                        8.427288
+                  ]
+            },
+            {
+                  "name": "หอพระนารายณ์",
+                  "text": "Ein historischer Schrein in Nakhon Si Thammarat, der der hinduistischen Gottheit Narai gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.964309,
+                        8.424336
+                  ]
+            },
+            {
+                  "name": "บ้านท่านขุน",
+                  "text": "Ein historisches Haus oder eine Attraktion in Nakhon Si Thammarat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.967593,
+                        8.409614
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑ์หนังตะลุง สุชาติ ทรัพย์สิน",
+                  "text": "Múzeum Nakhon Si Thammaratban, amely a thaiföldi árnybábozás hagyományait őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        99.968755,
+                        8.414435
+                  ]
+            },
+            {
+                  "name": "วัดพระมหาธาตุ วรมหาวิหาร",
+                  "text": "Thaiföld egyik legfontosabb buddhista temploma jellegzetes ereklyetartó sztúpával.",
+                  "category": "landmark",
+                  "coords": [
+                        99.966434,
+                        8.411091
+                  ]
+            },
+            {
+                  "name": "ศาลหลักเมือง",
+                  "text": "Nakhon Si Thammarat városi szentélye, helyi rituálék helyszíne.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962178,
+                        8.430382
+                  ]
+            },
+            {
+                  "name": "สวนสาธารณะศรีธรรมาโศกราช",
+                  "text": "Emlékmű Nakhon Si Thammarat alapítójának tiszteletére.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962637,
+                        8.427288
+                  ]
+            },
+            {
+                  "name": "หอพระนารายณ์",
+                  "text": "Történelmi szentély Nakhon Si Thammaratban, amelyet Narai hindu istenségnek szenteltek.",
+                  "category": "landmark",
+                  "coords": [
+                        99.964309,
+                        8.424336
+                  ]
+            },
+            {
+                  "name": "บ้านท่านขุน",
+                  "text": "Történelmi ház vagy attrakció Nakhon Si Thammaratban.",
+                  "category": "landmark",
+                  "coords": [
+                        99.967593,
+                        8.409614
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑ์หนังตะลุง สุชาติ ทรัพย์สิน",
+                  "text": "Un muzeu din Nakhon Si Thammarat care păstrează tradițiile teatrului de umbre thailandez.",
+                  "category": "museum",
+                  "coords": [
+                        99.968755,
+                        8.414435
+                  ]
+            },
+            {
+                  "name": "วัดพระมหาธาตุ วรมหาวิหาร",
+                  "text": "Unul dintre cele mai importante temple budiste din Thailanda, având o stupă proeminentă cu relicve.",
+                  "category": "landmark",
+                  "coords": [
+                        99.966434,
+                        8.411091
+                  ]
+            },
+            {
+                  "name": "ศาลหลักเมือง",
+                  "text": "Sanctuarul orașului Nakhon Si Thammarat, un loc pentru ritualuri locale.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962178,
+                        8.430382
+                  ]
+            },
+            {
+                  "name": "สวนสาธารณะศรีธรรมาโศกราช",
+                  "text": "Un monument ridicat în onoarea fondatorului orașului Nakhon Si Thammarat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962637,
+                        8.427288
+                  ]
+            },
+            {
+                  "name": "หอพระนารายณ์",
+                  "text": "Un sanctuar istoric din Nakhon Si Thammarat dedicat zeității hinduse Narai.",
+                  "category": "landmark",
+                  "coords": [
+                        99.964309,
+                        8.424336
+                  ]
+            },
+            {
+                  "name": "บ้านท่านขุน",
+                  "text": "O casă istorică sau o atracție din Nakhon Si Thammarat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.967593,
+                        8.409614
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Suchart Subsin's Shadow Puppet Museum",
+                  "text": "A museum in Nakhon Si Thammarat preserving Thai shadow puppet traditions.",
+                  "category": "museum",
+                  "coords": [
+                        99.968755,
+                        8.414435
+                  ]
+            },
+            {
+                  "name": "Wat Phra Mahathat Voramahavihan",
+                  "text": "One of Thailand's most important Buddhist temples, featuring a prominent relic stupa.",
+                  "category": "landmark",
+                  "coords": [
+                        99.966434,
+                        8.411091
+                  ]
+            },
+            {
+                  "name": "City Shrine",
+                  "text": "The city shrine of Nakhon Si Thammarat, a site for local rituals.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962178,
+                        8.430382
+                  ]
+            },
+            {
+                  "name": "King Sri Dhammasokaraja Monument",
+                  "text": "A monument honoring the founder of Nakhon Si Thammarat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.962637,
+                        8.427288
+                  ]
+            },
+            {
+                  "name": "Ho Phra Narai",
+                  "text": "A historic shrine in Nakhon Si Thammarat dedicated to the Hindu deity Narai.",
+                  "category": "landmark",
+                  "coords": [
+                        99.964309,
+                        8.424336
+                  ]
+            },
+            {
+                  "name": "Baan Than Khun",
+                  "text": "A historical house or attraction in Nakhon Si Thammarat.",
+                  "category": "landmark",
+                  "coords": [
+                        99.967593,
+                        8.409614
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-80",
     coords: [99.962, 8.435],
@@ -796,7 +6970,268 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Phitsanulok est une ville historiquement importante dans le bas nord de la Thaïlande, lieu de naissance du roi Naresuan le Grand.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothaï et d'Ayutthaya."],
     }, image: "/poi-images/phitsanulok-cities-v2.webp"},
   {
-    id: "kanchanaburi-cities-v2",
+    id: "kanchanaburi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑ์อักษะเชลยศึก",
+                  "text": "Das JEATH War Museum ist ein bedeutendes Museum in Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.5306,
+                        14.016302
+                  ]
+            },
+            {
+                  "name": "Death Railway Museum and Research Centre",
+                  "text": "Das Death Railway Museum and Research Centre ist ein bekanntes Museum in Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.524785,
+                        14.032334
+                  ]
+            },
+            {
+                  "name": "โรงงานกระดาษไทย",
+                  "text": "Thai Paper Mill ist ein Museum in Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.532027,
+                        14.018297
+                  ]
+            },
+            {
+                  "name": "Lokomotive",
+                  "text": "Lokomotive ist eine Attraktion in Kanchanaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524895,
+                        14.033459
+                  ]
+            },
+            {
+                  "name": "จุดชมวิว เขากระชาย กาญจนบุรี",
+                  "text": "Khao Krachai Viewpoint ist ein Aussichtspunkt in Kanchanaburi.",
+                  "category": "natural",
+                  "coords": [
+                        99.545836,
+                        14.041244
+                  ]
+            },
+            {
+                  "name": "West Wonder waterpark",
+                  "text": "Der West wonder waterpark ist eine Attraktion in Kanchanaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.515779,
+                        14.029541
+                  ]
+            },
+            {
+                  "name": "วัดไชยชุมพลชนะสงคราม",
+                  "text": "Wat Chaichumphon Chanasongkhram ist eine bekannte Kultstätte in Kanchanaburi.",
+                  "category": "religious",
+                  "coords": [
+                        99.531503,
+                        14.014957
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑ์อักษะเชลยศึก",
+                  "text": "A JEATH War Museum egy jelentős múzeum Kanchanaburi városában.",
+                  "category": "museum",
+                  "coords": [
+                        99.5306,
+                        14.016302
+                  ]
+            },
+            {
+                  "name": "Death Railway Museum and Research Centre",
+                  "text": "A Death Railway Museum and Research Centre egy ismert múzeum Kanchanaburiban.",
+                  "category": "museum",
+                  "coords": [
+                        99.524785,
+                        14.032334
+                  ]
+            },
+            {
+                  "name": "โรงงานกระดาษไทย",
+                  "text": "A Thai Paper Mill egy múzeum Kanchanaburiban.",
+                  "category": "museum",
+                  "coords": [
+                        99.532027,
+                        14.018297
+                  ]
+            },
+            {
+                  "name": "Lokomotive",
+                  "text": "A Lokomotive egy látványosság Kanchanaburi városában.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524895,
+                        14.033459
+                  ]
+            },
+            {
+                  "name": "จุดชมวิว เขากระชาย กาญจนบุรี",
+                  "text": "A Khao Krachai Viewpoint egy kilátó Kanchanaburiban.",
+                  "category": "natural",
+                  "coords": [
+                        99.545836,
+                        14.041244
+                  ]
+            },
+            {
+                  "name": "West Wonder waterpark",
+                  "text": "A West wonder waterpark egy látványosság Kanchanaburiban.",
+                  "category": "landmark",
+                  "coords": [
+                        99.515779,
+                        14.029541
+                  ]
+            },
+            {
+                  "name": "วัดไชยชุมพลชนะสงคราม",
+                  "text": "A Wat Chaichumphon Chanasongkhram egy ismert istentiszteleti hely Kanchanaburiban.",
+                  "category": "religious",
+                  "coords": [
+                        99.531503,
+                        14.014957
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑ์อักษะเชลยศึก",
+                  "text": "JEATH War Museum este un muzeu important situat în Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.5306,
+                        14.016302
+                  ]
+            },
+            {
+                  "name": "Death Railway Museum and Research Centre",
+                  "text": "Death Railway Museum and Research Centre este un muzeu cunoscut situat în Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.524785,
+                        14.032334
+                  ]
+            },
+            {
+                  "name": "โรงงานกระดาษไทย",
+                  "text": "Thai Paper Mill este un muzeu situat în Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.532027,
+                        14.018297
+                  ]
+            },
+            {
+                  "name": "Lokomotive",
+                  "text": "Lokomotive este o atracție situată în Kanchanaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524895,
+                        14.033459
+                  ]
+            },
+            {
+                  "name": "จุดชมวิว เขากระชาย กาญจนบุรี",
+                  "text": "Khao Krachai Viewpoint este un punct de belvedere situat în Kanchanaburi.",
+                  "category": "natural",
+                  "coords": [
+                        99.545836,
+                        14.041244
+                  ]
+            },
+            {
+                  "name": "West Wonder waterpark",
+                  "text": "West wonder waterpark este o atracție situată în Kanchanaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.515779,
+                        14.029541
+                  ]
+            },
+            {
+                  "name": "วัดไชยชุมพลชนะสงคราม",
+                  "text": "Wat Chaichumphon Chanasongkhram este un lăcaș de cult cunoscut situat în Kanchanaburi.",
+                  "category": "religious",
+                  "coords": [
+                        99.531503,
+                        14.014957
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "The JEATH War Museum",
+                  "text": "The JEATH War Museum is a notable museum located in Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.5306,
+                        14.016302
+                  ]
+            },
+            {
+                  "name": "Death Railway Museum and Research Centre",
+                  "text": "The Death Railway Museum and Research Centre is a notable museum located in Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.524785,
+                        14.032334
+                  ]
+            },
+            {
+                  "name": "Thai Paper Mill",
+                  "text": "Thai Paper Mill is a museum located in Kanchanaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.532027,
+                        14.018297
+                  ]
+            },
+            {
+                  "name": "Lokomotive",
+                  "text": "Lokomotive is an attraction located in Kanchanaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.524895,
+                        14.033459
+                  ]
+            },
+            {
+                  "name": "Khao Krachai Viewpoint",
+                  "text": "Khao Krachai Viewpoint is a viewpoint located in Kanchanaburi.",
+                  "category": "natural",
+                  "coords": [
+                        99.545836,
+                        14.041244
+                  ]
+            },
+            {
+                  "name": "West wonder waterpark",
+                  "text": "West wonder waterpark is an attraction located in Kanchanaburi.",
+                  "category": "landmark",
+                  "coords": [
+                        99.515779,
+                        14.029541
+                  ]
+            },
+            {
+                  "name": "Wat Chaichumphon Chanasongkhram",
+                  "text": "Wat Chaichumphon Chanasongkhram is a notable place of worship located in Kanchanaburi.",
+                  "category": "religious",
+                  "coords": [
+                        99.531503,
+                        14.014957
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-71",
     coords: [99.534, 14.022],
@@ -843,7 +7278,340 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Kanchanaburi est une ville dans l'ouest de la Thaïlande, connue pour son lien avec le chemin de fer de la mort durant la Seconde Guerre mondiale.", "Située sur le territoire du royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothai et d'Ayutthaya."],
     }, image: "/poi-images/kanchanaburi-cities-v2.webp"},
   {
-    id: "songkhla-cities-v2",
+    id: "songkhla-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ สงขลา",
+                  "text": "Ein Nationalmuseum in Songkhla, das die Geschichte und Kunst der Region Südthailand präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        100.588944,
+                        7.202397
+                  ]
+            },
+            {
+                  "name": "Khao Tangkuan Lighthouse",
+                  "text": "Ein historischer Leuchtturm auf dem Hügel Khao Tangkuan in Songkhla.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589312,
+                        7.210439
+                  ]
+            },
+            {
+                  "name": "บ้านนครใน เมืองสงขลา",
+                  "text": "Ein Museum in Songkhla, das sich in einem architektonisch interessanten Gebäude befindet.",
+                  "category": "museum",
+                  "coords": [
+                        100.589121,
+                        7.197218
+                  ]
+            },
+            {
+                  "name": "แหลมสมิลา",
+                  "text": "Ein berühmter Strand in Songkhla, bekannt für seine goldene Meerjungfrau-Statue.",
+                  "category": "recreational",
+                  "coords": [
+                        100.600798,
+                        7.206642
+                  ]
+            },
+            {
+                  "name": "Chaloem Thong Songkhla Theater",
+                  "text": "Ein historisches Theatergebäude in Songkhla.",
+                  "category": "cultural",
+                  "coords": [
+                        100.593388,
+                        7.201508
+                  ]
+            },
+            {
+                  "name": "The sculpture of serpent",
+                  "text": "Eine markante Skulptur einer Schlange am Ufer des Songkhla-Sees.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588474,
+                        7.212529
+                  ]
+            },
+            {
+                  "name": "Songkhla Old Town",
+                  "text": "Der historische Stadtkern von Songkhla mit gut erhaltener Architektur.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589874,
+                        7.195362
+                  ]
+            },
+            {
+                  "name": "Khao Noi Palace",
+                  "text": "Ein historisches Gebäude in Songkhla, das früher als offizielle Residenz diente.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593307,
+                        7.208628
+                  ]
+            },
+            {
+                  "name": "วัดยางทอง",
+                  "text": "Ein buddhistischer Tempel in Songkhla, bekannt für seine religiöse Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        100.589799,
+                        7.198281
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ สงขลา",
+                  "text": "Nemzeti múzeum Songkhlában, amely Dél-Thaiföld történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        100.588944,
+                        7.202397
+                  ]
+            },
+            {
+                  "name": "Khao Tangkuan Lighthouse",
+                  "text": "Történelmi világítótorony a songkhlai Khao Tangkuan dombon.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589312,
+                        7.210439
+                  ]
+            },
+            {
+                  "name": "บ้านนครใน เมืองสงขลา",
+                  "text": "Építészetileg érdekes épületben elhelyezett múzeum Songkhlában.",
+                  "category": "museum",
+                  "coords": [
+                        100.589121,
+                        7.197218
+                  ]
+            },
+            {
+                  "name": "แหลมสมิลา",
+                  "text": "Songkhla híres tengerpartja, amely az arany sellőszobráról ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        100.600798,
+                        7.206642
+                  ]
+            },
+            {
+                  "name": "Chaloem Thong Songkhla Theater",
+                  "text": "Történelmi színházépület Songkhlában.",
+                  "category": "cultural",
+                  "coords": [
+                        100.593388,
+                        7.201508
+                  ]
+            },
+            {
+                  "name": "The sculpture of serpent",
+                  "text": "Egy jellegzetes kígyószobor a Songkhla-tó partján.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588474,
+                        7.212529
+                  ]
+            },
+            {
+                  "name": "Songkhla Old Town",
+                  "text": "Songkhla történelmi városmagja jól megőrzött építészettel.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589874,
+                        7.195362
+                  ]
+            },
+            {
+                  "name": "Khao Noi Palace",
+                  "text": "Történelmi épület Songkhlában, amely korábban hivatalos rezidenciaként szolgált.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593307,
+                        7.208628
+                  ]
+            },
+            {
+                  "name": "วัดยางทอง",
+                  "text": "Buddhista templom Songkhlában, amely vallási építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        100.589799,
+                        7.198281
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑสถานแห่งชาติ สงขลา",
+                  "text": "Un muzeu național din Songkhla care prezintă istoria și arta regiunii de sud a Thailandei.",
+                  "category": "museum",
+                  "coords": [
+                        100.588944,
+                        7.202397
+                  ]
+            },
+            {
+                  "name": "Khao Tangkuan Lighthouse",
+                  "text": "Un far istoric situat pe dealul Khao Tangkuan din Songkhla.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589312,
+                        7.210439
+                  ]
+            },
+            {
+                  "name": "บ้านนครใน เมืองสงขลา",
+                  "text": "Un muzeu din Songkhla găzduit într-o clădire cu arhitectură interesantă.",
+                  "category": "museum",
+                  "coords": [
+                        100.589121,
+                        7.197218
+                  ]
+            },
+            {
+                  "name": "แหลมสมิลา",
+                  "text": "O plajă celebră din Songkhla, cunoscută pentru statuia sa cu sirena de aur.",
+                  "category": "recreational",
+                  "coords": [
+                        100.600798,
+                        7.206642
+                  ]
+            },
+            {
+                  "name": "Chaloem Thong Songkhla Theater",
+                  "text": "O clădire istorică de teatru din Songkhla.",
+                  "category": "cultural",
+                  "coords": [
+                        100.593388,
+                        7.201508
+                  ]
+            },
+            {
+                  "name": "The sculpture of serpent",
+                  "text": "O sculptură proeminentă a unui șarpe pe malul lacului Songkhla.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588474,
+                        7.212529
+                  ]
+            },
+            {
+                  "name": "Songkhla Old Town",
+                  "text": "Centrul istoric al orașului Songkhla, cu arhitectură bine conservată.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589874,
+                        7.195362
+                  ]
+            },
+            {
+                  "name": "Khao Noi Palace",
+                  "text": "O clădire istorică din Songkhla care a servit anterior ca reședință oficială.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593307,
+                        7.208628
+                  ]
+            },
+            {
+                  "name": "วัดยางทอง",
+                  "text": "Un templu budist din Songkhla, cunoscut pentru arhitectura sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        100.589799,
+                        7.198281
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Songkhla National Museum",
+                  "text": "A national museum in Songkhla showcasing the history and art of southern Thailand.",
+                  "category": "museum",
+                  "coords": [
+                        100.588944,
+                        7.202397
+                  ]
+            },
+            {
+                  "name": "Khao Tangkuan Lighthouse",
+                  "text": "A historic lighthouse located on Khao Tangkuan hill in Songkhla.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589312,
+                        7.210439
+                  ]
+            },
+            {
+                  "name": "Nakhon Nai Museum",
+                  "text": "A museum in Songkhla housed in an architecturally interesting building.",
+                  "category": "museum",
+                  "coords": [
+                        100.589121,
+                        7.197218
+                  ]
+            },
+            {
+                  "name": "Samila Beach",
+                  "text": "A famous beach in Songkhla known for its golden mermaid statue.",
+                  "category": "recreational",
+                  "coords": [
+                        100.600798,
+                        7.206642
+                  ]
+            },
+            {
+                  "name": "Chaloem Thong Songkhla Theater",
+                  "text": "A historic theatre building located in Songkhla.",
+                  "category": "cultural",
+                  "coords": [
+                        100.593388,
+                        7.201508
+                  ]
+            },
+            {
+                  "name": "The sculpture of serpent",
+                  "text": "A prominent sculpture of a serpent on the shore of Songkhla Lake.",
+                  "category": "landmark",
+                  "coords": [
+                        100.588474,
+                        7.212529
+                  ]
+            },
+            {
+                  "name": "Songkhla Old Town",
+                  "text": "The historic core of Songkhla featuring well-preserved architecture.",
+                  "category": "landmark",
+                  "coords": [
+                        100.589874,
+                        7.195362
+                  ]
+            },
+            {
+                  "name": "Khao Noi Palace",
+                  "text": "A historic building in Songkhla that formerly served as an official residence.",
+                  "category": "landmark",
+                  "coords": [
+                        100.593307,
+                        7.208628
+                  ]
+            },
+            {
+                  "name": "Wat Yang Thong",
+                  "text": "A Buddhist temple in Songkhla known for its religious architecture.",
+                  "category": "religious",
+                  "coords": [
+                        100.589799,
+                        7.198281
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-90",
     coords: [100.595, 7.202],
@@ -890,7 +7658,52 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Songkhla est une ville portuaire sur le golfe de Thaïlande et la capitale de la province de Songkhla.", "Située sur le territoire du Royaume de Thaïlande.", "Marquée par le climat de mousson de l'Asie du Sud-Est.", "Liée à l'héritage de Sukhothaï et d'Ayutthaya."],
     }, image: "/poi-images/songkhla-cities-v2.webp"},
   {
-    id: "chonburi-cities-v2",
+    id: "chonburi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Golden Buddha",
+                  "text": "Eine große Buddha-Statue und ein religiöses Wahrzeichen in Chonburi.",
+                  "category": "historical",
+                  "coords": [
+                        101.00121,
+                        13.377231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Golden Buddha",
+                  "text": "Egy nagy Buddha-szobor és vallási nevezetesség Csonburiban.",
+                  "category": "historical",
+                  "coords": [
+                        101.00121,
+                        13.377231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Golden Buddha",
+                  "text": "O statuie mare a lui Buddha și un reper religios în Chonburi.",
+                  "category": "historical",
+                  "coords": [
+                        101.00121,
+                        13.377231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Golden Buddha",
+                  "text": "A large Buddha statue and religious landmark in Chonburi.",
+                  "category": "historical",
+                  "coords": [
+                        101.00121,
+                        13.377231
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-20",
     coords: [100.984, 13.361],
@@ -984,7 +7797,412 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Célèbre pour son porc rôti et ses gâteaux.", "Porte d'entrée vers de nombreuses îles vierges.", "Possède une charmante gare de style colonial."],
     }, image: "/poi-images/trang-cities-v2.webp"},
   {
-    id: "lampang-cities-v2",
+    id: "lampang-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "บ้านเสานัก",
+                  "text": "Ein historisches Teakholzhaus in Lampang, das heute als Privatmuseum dient.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เซรามิค ธนบดี",
+                  "text": "Ein Museum in Lampang, das die Geschichte der berühmten Keramikproduktion der Stadt zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "หอปูมละกอน",
+                  "text": "Ein lokales Museum in Lampang, das sich mit der Stadtgeschichte befasst.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "มิวเซียมลำปาง",
+                  "text": "Das städtische Museum von Lampang, das kulturelle Exponate der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ธนาคารไทย สาขาลำปาง",
+                  "text": "Ein Museum in Lampang, das die Geschichte des Bankwesens in Thailand dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์สถานลานนา",
+                  "text": "Ein Museum in Lampang, das sich der Kunst und Kultur des Lanna-Reiches widmet.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "ห้าแยกหอนาฬิกา",
+                  "text": "Ein markanter Uhrturm im Zentrum von Lampang.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "Ein historisches Gebäude in Lampang mit kolonialem Architekturstil.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Ein Zentrum für zeitgenössische Kunst und kulturelle Aktivitäten in Lampang.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "วัดศรีรองเมือง",
+                  "text": "Ein Tempel in Lampang, der für seine feinen Schnitzereien im birmanischen Stil bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "วัดปงสนุกใต้",
+                  "text": "Ein ausgezeichneter Tempel in Lampang, der für die Erhaltung seines historischen Erbes bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "บ้านเสานัก",
+                  "text": "Történelmi tikfa ház Lampangban, amely ma magánmúzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เซรามิค ธนบดี",
+                  "text": "Múzeum Lampangban, amely a város híres kerámiagyártásának történetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "หอปูมละกอน",
+                  "text": "Helyi múzeum Lampangban, amely a város történelmével foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "มิวเซียมลำปาง",
+                  "text": "Lampang városi múzeuma, amely a régió kulturális emlékeit mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ธนาคารไทย สาขาลำปาง",
+                  "text": "Múzeum Lampangban, amely a thaiföldi bankrendszer történetét dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์สถานลานนา",
+                  "text": "Múzeum Lampangban, amely a Lanna királyság művészetének és kultúrájának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "ห้าแยกหอนาฬิกา",
+                  "text": "Jellegzetes óratorony Lampang központjában.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "Történelmi épület Lampangban gyarmati építészeti stílusban.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Kortárs művészeti központ és kulturális helyszín Lampangban.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "วัดศรีรองเมือง",
+                  "text": "Lampangi templom, amely finom, burmai stílusú faragványairól ismert.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "วัดปงสนุกใต้",
+                  "text": "Díjnyertes templom Lampangban, amely történelmi örökségének megőrzéséről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "บ้านเสานัก",
+                  "text": "O casă istorică din lemn de tec din Lampang, care servește acum ca muzeu privat.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์เซรามิค ธนบดี",
+                  "text": "Un muzeu din Lampang care prezintă istoria faimoasei producții de ceramică a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "หอปูมละกอน",
+                  "text": "Un muzeu local din Lampang care se ocupă de istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "มิวเซียมลำปาง",
+                  "text": "Muzeul orașului Lampang, care prezintă exponate culturale din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ธนาคารไทย สาขาลำปาง",
+                  "text": "Un muzeu din Lampang care documentează istoria sistemului bancar din Thailanda.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์สถานลานนา",
+                  "text": "Un muzeu din Lampang dedicat artei și culturii regatului Lanna.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "ห้าแยกหอนาฬิกา",
+                  "text": "Un turn cu ceas proeminent situat în centrul orașului Lampang.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "O clădire istorică din Lampang cu stil arhitectural colonial.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "Un centru pentru artă contemporană și activități culturale din Lampang.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "วัดศรีรองเมือง",
+                  "text": "Un templu din Lampang cunoscut pentru sculpturile sale fine în stil birmanez.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "วัดปงสนุกใต้",
+                  "text": "Un templu premiat din Lampang, cunoscut pentru conservarea patrimoniului său istoric.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baan Sao Nak",
+                  "text": "A historic teak house in Lampang that now serves as a private museum.",
+                  "category": "museum",
+                  "coords": [
+                        99.508035,
+                        18.294137
+                  ]
+            },
+            {
+                  "name": "Dhanabadee Ceramic Museum",
+                  "text": "A museum in Lampang showcasing the history of the city's famous ceramic production.",
+                  "category": "museum",
+                  "coords": [
+                        99.51282,
+                        18.280356
+                  ]
+            },
+            {
+                  "name": "Phum La Kon Museum",
+                  "text": "A local museum in Lampang focusing on the city's history.",
+                  "category": "museum",
+                  "coords": [
+                        99.489788,
+                        18.288679
+                  ]
+            },
+            {
+                  "name": "Lampang Museum",
+                  "text": "Lampang's municipal museum presenting cultural exhibits from the region.",
+                  "category": "museum",
+                  "coords": [
+                        99.503304,
+                        18.29017
+                  ]
+            },
+            {
+                  "name": "Thai Bank Museum",
+                  "text": "A museum in Lampang documenting the history of banking in Thailand.",
+                  "category": "museum",
+                  "coords": [
+                        99.484661,
+                        18.284856
+                  ]
+            },
+            {
+                  "name": "Lanna Museum",
+                  "text": "A museum in Lampang dedicated to the art and culture of the Lanna kingdom.",
+                  "category": "museum",
+                  "coords": [
+                        99.509602,
+                        18.300975
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A prominent clock tower located in the center of Lampang.",
+                  "category": "historical",
+                  "coords": [
+                        99.490904,
+                        18.288876
+                  ]
+            },
+            {
+                  "name": "MoungNgwazin Building",
+                  "text": "A historic building in Lampang featuring colonial architectural style.",
+                  "category": "historical",
+                  "coords": [
+                        99.498226,
+                        18.290974
+                  ]
+            },
+            {
+                  "name": "Lampang Arts Center",
+                  "text": "A center for contemporary art and cultural activities in Lampang.",
+                  "category": "cultural",
+                  "coords": [
+                        99.496485,
+                        18.290762
+                  ]
+            },
+            {
+                  "name": "Wat Si Rong Mueang",
+                  "text": "A temple in Lampang known for its fine Burmese-style carvings.",
+                  "category": "religious",
+                  "coords": [
+                        99.48081,
+                        18.290422
+                  ]
+            },
+            {
+                  "name": "Wat Pong Sanuk",
+                  "text": "An award-winning temple in Lampang known for the preservation of its historical heritage.",
+                  "category": "landmark",
+                  "coords": [
+                        99.496993,
+                        18.294678
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-52",
     coords: [99.492, 18.292],
@@ -1031,7 +8249,520 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["La seule ville en Thaïlande où circulent encore des calèches.", "Célèbre pour sa céramique.", "Possède de nombreuses maisons en bois bien préservées."],
     }, image: "/poi-images/lampang-cities-v2.webp"},
   {
-    id: "samut-prakan-cities-v2",
+    id: "samut-prakan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "ป้อมผีเสื้อสมุทร",
+                  "text": "Eine historische Festung auf einer Insel im Chao Phraya Fluss in Samut Prakan.",
+                  "category": "fortress",
+                  "coords": [
+                        100.587555,
+                        13.595354
+                  ]
+            },
+            {
+                  "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
+                  "text": "Eine der weltweit größten Krokodilfarmen mit täglichen Shows in Samut Prakan.",
+                  "category": "recreational",
+                  "coords": [
+                        100.596211,
+                        13.571218
+                  ]
+            },
+            {
+                  "name": "lee",
+                  "text": "Ein Museum in Samut Prakan, das lokale Exponate und Kultur präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        100.607944,
+                        13.579147
+                  ]
+            },
+            {
+                  "name": "หอชมเมืองสมุทรปราการ",
+                  "text": "Ein markanter Aussichtsturm mit Blick über den Chao Phraya und Samut Prakan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.598982,
+                        13.598233
+                  ]
+            },
+            {
+                  "name": "วัดบางนางเกรง",
+                  "text": "Ein buddhistischer Tempel in Samut Prakan, der der lokalen Gemeinschaft dient.",
+                  "category": "religious",
+                  "coords": [
+                        100.587969,
+                        13.612801
+                  ]
+            },
+            {
+                  "name": "วัดไตรมิตรวราราม",
+                  "text": "Ein buddhistischer Ort der Verehrung in Samut Prakan mit traditioneller Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        100.577922,
+                        13.5815
+                  ]
+            },
+            {
+                  "name": "วัดทองคง",
+                  "text": "Ein lokaler buddhistischer Tempel in der Provinz Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.595616,
+                        13.574161
+                  ]
+            },
+            {
+                  "name": "วัดมหาวงษ์",
+                  "text": "Ein Tempel in Samut Prakan, der für seine religiöse Bedeutung bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        100.596032,
+                        13.60331
+                  ]
+            },
+            {
+                  "name": "วัดบางปิ้ง",
+                  "text": "Ein Tempel in Samut Prakan, ein Zentrum für buddhistische Zeremonien.",
+                  "category": "religious",
+                  "coords": [
+                        100.622423,
+                        13.607054
+                  ]
+            },
+            {
+                  "name": "วัดกลางวรวิหาร",
+                  "text": "Ein königlicher Tempel zweiter Klasse mit schöner Architektur in Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.599417,
+                        13.59242
+                  ]
+            },
+            {
+                  "name": "วัดในสองวิหาร",
+                  "text": "Ein buddhistischer Tempel in Samut Prakan, der für religiöse Praktiken genutzt wird.",
+                  "category": "religious",
+                  "coords": [
+                        100.604773,
+                        13.592904
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Ein buddhistischer Tempel in Samut Prakan, der Ruhe und Besinnung bietet.",
+                  "category": "religious",
+                  "coords": [
+                        100.604747,
+                        13.591321
+                  ]
+            },
+            {
+                  "name": "วัดพุทธภาวนาราม",
+                  "text": "Ein Tempel in Samut Prakan, der der buddhistischen Lehre und Meditation gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        100.610845,
+                        13.575887
+                  ]
+            },
+            {
+                  "name": "วัดพระสมุทรเจดีย์",
+                  "text": "Ein ikonischer Tempel am Fluss mit einer markanten weißen Pagode in Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.584805,
+                        13.600039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "ป้อมผีเสื้อสมุทร",
+                  "text": "Történelmi erőd a Csaofraja folyó egyik szigetén, Szamutprakánban.",
+                  "category": "fortress",
+                  "coords": [
+                        100.587555,
+                        13.595354
+                  ]
+            },
+            {
+                  "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
+                  "text": "A világ egyik legnagyobb krokodilfarmja napi bemutatókkal Szamutprakánban.",
+                  "category": "recreational",
+                  "coords": [
+                        100.596211,
+                        13.571218
+                  ]
+            },
+            {
+                  "name": "lee",
+                  "text": "Múzeum Szamutprakánban, amely helyi kiállításokat és kultúrát mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        100.607944,
+                        13.579147
+                  ]
+            },
+            {
+                  "name": "หอชมเมืองสมุทรปราการ",
+                  "text": "Jellegzetes kilátótorony, ahonnan panoráma nyílik a Csaofraja folyóra és Szamutprakánra.",
+                  "category": "landmark",
+                  "coords": [
+                        100.598982,
+                        13.598233
+                  ]
+            },
+            {
+                  "name": "วัดบางนางเกรง",
+                  "text": "Buddhista templom Szamutprakánban, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        100.587969,
+                        13.612801
+                  ]
+            },
+            {
+                  "name": "วัดไตรมิตรวราราม",
+                  "text": "Buddhista istentiszteleti hely Szamutprakánban, hagyományos építészettel.",
+                  "category": "religious",
+                  "coords": [
+                        100.577922,
+                        13.5815
+                  ]
+            },
+            {
+                  "name": "วัดทองคง",
+                  "text": "Helyi buddhista templom Szamutprakán tartományban.",
+                  "category": "religious",
+                  "coords": [
+                        100.595616,
+                        13.574161
+                  ]
+            },
+            {
+                  "name": "วัดมหาวงษ์",
+                  "text": "Vallási jelentőségéről ismert templom Szamutprakánban.",
+                  "category": "religious",
+                  "coords": [
+                        100.596032,
+                        13.60331
+                  ]
+            },
+            {
+                  "name": "วัดบางปิ้ง",
+                  "text": "Templom Szamutprakánban, buddhista szertartások központja.",
+                  "category": "religious",
+                  "coords": [
+                        100.622423,
+                        13.607054
+                  ]
+            },
+            {
+                  "name": "วัดกลางวรวิหาร",
+                  "text": "Másodosztályú királyi templom gyönyörű építészettel Szamutprakánban.",
+                  "category": "religious",
+                  "coords": [
+                        100.599417,
+                        13.59242
+                  ]
+            },
+            {
+                  "name": "วัดในสองวิหาร",
+                  "text": "Vallási gyakorlatokra használt buddhista templom Szamutprakánban.",
+                  "category": "religious",
+                  "coords": [
+                        100.604773,
+                        13.592904
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Nyugalmat és elmélyülést kínáló buddhista templom Szamutprakánban.",
+                  "category": "religious",
+                  "coords": [
+                        100.604747,
+                        13.591321
+                  ]
+            },
+            {
+                  "name": "วัดพุทธภาวนาราม",
+                  "text": "A buddhista tanításoknak és meditációnak szentelt templom Szamutprakánban.",
+                  "category": "religious",
+                  "coords": [
+                        100.610845,
+                        13.575887
+                  ]
+            },
+            {
+                  "name": "วัดพระสมุทรเจดีย์",
+                  "text": "Ikonikus folyóparti templom jellegzetes fehér pagodával Szamutprakánban.",
+                  "category": "religious",
+                  "coords": [
+                        100.584805,
+                        13.600039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "ป้อมผีเสื้อสมุทร",
+                  "text": "O fortăreață istorică situată pe o insulă de pe râul Chao Phraya în Samut Prakan.",
+                  "category": "fortress",
+                  "coords": [
+                        100.587555,
+                        13.595354
+                  ]
+            },
+            {
+                  "name": "ฟาร์มจระเข้และสวนสัตว์สมุทรปราการ",
+                  "text": "Una dintre cele mai mari ferme de crocodili din lume, cu spectacole zilnice în Samut Prakan.",
+                  "category": "recreational",
+                  "coords": [
+                        100.596211,
+                        13.571218
+                  ]
+            },
+            {
+                  "name": "lee",
+                  "text": "Un muzeu în Samut Prakan care prezintă exponate și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        100.607944,
+                        13.579147
+                  ]
+            },
+            {
+                  "name": "หอชมเมืองสมุทรปราการ",
+                  "text": "Un turn de observație proeminent cu vedere peste râul Chao Phraya și Samut Prakan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.598982,
+                        13.598233
+                  ]
+            },
+            {
+                  "name": "วัดบางนางเกรง",
+                  "text": "Un templu budist din Samut Prakan care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        100.587969,
+                        13.612801
+                  ]
+            },
+            {
+                  "name": "วัดไตรมิตรวราราม",
+                  "text": "Un lăcaș de cult budist în Samut Prakan cu arhitectură tradițională.",
+                  "category": "religious",
+                  "coords": [
+                        100.577922,
+                        13.5815
+                  ]
+            },
+            {
+                  "name": "วัดทองคง",
+                  "text": "Un templu budist local din provincia Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.595616,
+                        13.574161
+                  ]
+            },
+            {
+                  "name": "วัดมหาวงษ์",
+                  "text": "Un templu din Samut Prakan cunoscut pentru importanța sa religioasă.",
+                  "category": "religious",
+                  "coords": [
+                        100.596032,
+                        13.60331
+                  ]
+            },
+            {
+                  "name": "วัดบางปิ้ง",
+                  "text": "Un templu din Samut Prakan, centru pentru ceremonii budiste.",
+                  "category": "religious",
+                  "coords": [
+                        100.622423,
+                        13.607054
+                  ]
+            },
+            {
+                  "name": "วัดกลางวรวิหาร",
+                  "text": "Un templu regal de clasa a doua cu o arhitectură frumoasă în Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.599417,
+                        13.59242
+                  ]
+            },
+            {
+                  "name": "วัดในสองวิหาร",
+                  "text": "Un templu budist din Samut Prakan utilizat pentru practici religioase.",
+                  "category": "religious",
+                  "coords": [
+                        100.604773,
+                        13.592904
+                  ]
+            },
+            {
+                  "name": "วัดชัยมงคล",
+                  "text": "Un templu budist din Samut Prakan care oferă liniște și reflecție.",
+                  "category": "religious",
+                  "coords": [
+                        100.604747,
+                        13.591321
+                  ]
+            },
+            {
+                  "name": "วัดพุทธภาวนาราม",
+                  "text": "Un templu din Samut Prakan dedicat învățăturilor budiste și meditației.",
+                  "category": "religious",
+                  "coords": [
+                        100.610845,
+                        13.575887
+                  ]
+            },
+            {
+                  "name": "วัดพระสมุทรเจดีย์",
+                  "text": "Un templu iconic pe malul râului, cu o pagodă albă distinctivă, în Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.584805,
+                        13.600039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Phi Suea Samut Fort",
+                  "text": "A historic fort located on an island in the Chao Phraya River in Samut Prakan.",
+                  "category": "fortress",
+                  "coords": [
+                        100.587555,
+                        13.595354
+                  ]
+            },
+            {
+                  "name": "Samutprakarn Crocodile Farm & Zoo",
+                  "text": "One of the world's largest crocodile farms with daily shows in Samut Prakan.",
+                  "category": "recreational",
+                  "coords": [
+                        100.596211,
+                        13.571218
+                  ]
+            },
+            {
+                  "name": "lee",
+                  "text": "A museum in Samut Prakan showcasing local exhibits and culture.",
+                  "category": "museum",
+                  "coords": [
+                        100.607944,
+                        13.579147
+                  ]
+            },
+            {
+                  "name": "Samut Prakan Observation Tower",
+                  "text": "A prominent observation tower with views over the Chao Phraya River and Samut Prakan.",
+                  "category": "landmark",
+                  "coords": [
+                        100.598982,
+                        13.598233
+                  ]
+            },
+            {
+                  "name": "Wat Bang Nang Kreng",
+                  "text": "A Buddhist temple in Samut Prakan serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        100.587969,
+                        13.612801
+                  ]
+            },
+            {
+                  "name": "Wat Traimit Wararam",
+                  "text": "A Buddhist place of worship in Samut Prakan with traditional architecture.",
+                  "category": "religious",
+                  "coords": [
+                        100.577922,
+                        13.5815
+                  ]
+            },
+            {
+                  "name": "Wat Thong Kong",
+                  "text": "A local Buddhist temple in Samut Prakan province.",
+                  "category": "religious",
+                  "coords": [
+                        100.595616,
+                        13.574161
+                  ]
+            },
+            {
+                  "name": "Wat Mahawong",
+                  "text": "A temple in Samut Prakan known for its religious significance.",
+                  "category": "religious",
+                  "coords": [
+                        100.596032,
+                        13.60331
+                  ]
+            },
+            {
+                  "name": "Wat Bang Ping",
+                  "text": "A temple in Samut Prakan, a center for Buddhist ceremonies.",
+                  "category": "religious",
+                  "coords": [
+                        100.622423,
+                        13.607054
+                  ]
+            },
+            {
+                  "name": "Wat Klang Worawihan",
+                  "text": "A second-class royal temple with beautiful architecture in Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.599417,
+                        13.59242
+                  ]
+            },
+            {
+                  "name": "Wat Nai Song Wihan",
+                  "text": "A Buddhist temple in Samut Prakan used for religious practices.",
+                  "category": "religious",
+                  "coords": [
+                        100.604773,
+                        13.592904
+                  ]
+            },
+            {
+                  "name": "Wat Chai Mongkhon",
+                  "text": "A Buddhist temple in Samut Prakan offering peace and reflection.",
+                  "category": "religious",
+                  "coords": [
+                        100.604747,
+                        13.591321
+                  ]
+            },
+            {
+                  "name": "Wat Phut Phawanaram",
+                  "text": "A temple in Samut Prakan dedicated to Buddhist teachings and meditation.",
+                  "category": "religious",
+                  "coords": [
+                        100.610845,
+                        13.575887
+                  ]
+            },
+            {
+                  "name": "Wat Phra Samut Chedi",
+                  "text": "An iconic riverside temple with a distinctive white pagoda in Samut Prakan.",
+                  "category": "religious",
+                  "coords": [
+                        100.584805,
+                        13.600039
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-11",
     coords: [100.599, 13.599],
@@ -1078,7 +8809,196 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Historiquement connue sous le nom de Pak Nam.", "Siège du musée Erawan.", "Important centre industriel et halieutique."],
     }, image: "/poi-images/samut-prakan-cities-v2.webp"},
   {
-    id: "sakon-nakhon-cities-v2",
+    id: "sakon-nakhon-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑ์หลวงปู่หลุย จันทสาโร",
+                  "text": "Das Luang Pu Lui Chanthasaro Museum ist ein Museum in Sakon Nakhon.",
+                  "category": "museum",
+                  "coords": [
+                        104.138592,
+                        17.15074
+                  ]
+            },
+            {
+                  "name": "สถานแสดงพันธุ์ปลาน้ำจืดภาคอีสาน",
+                  "text": "Das Freshwater Fish Aquarium ist ein Aquarium in Sakon Nakhon.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152418,
+                        17.170549
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ภูพาน",
+                  "text": "Das Phu Phan Museum ist ein Museum in Sakon Nakhon.",
+                  "category": "museum",
+                  "coords": [
+                        104.144884,
+                        17.173129
+                  ]
+            },
+            {
+                  "name": "Phra That Dum",
+                  "text": "Phra That Dum ist eine archäologische Stätte in Sakon Nakhon.",
+                  "category": "historical",
+                  "coords": [
+                        104.1646,
+                        17.144181
+                  ]
+            },
+            {
+                  "name": "วัดพระธาตุเชิงชุมวรวิหาร",
+                  "text": "Der Wat Phra Thad Chaeng Chum Worawihan Temple ist eine Kultstätte in Sakon Nakhon.",
+                  "category": "religious",
+                  "coords": [
+                        104.153453,
+                        17.164455
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑ์หลวงปู่หลุย จันทสาโร",
+                  "text": "A Luang Pu Lui Chanthasaro Museum egy múzeum Sakon Nakhon városában.",
+                  "category": "museum",
+                  "coords": [
+                        104.138592,
+                        17.15074
+                  ]
+            },
+            {
+                  "name": "สถานแสดงพันธุ์ปลาน้ำจืดภาคอีสาน",
+                  "text": "A Freshwater Fish Aquarium egy akvárium Sakon Nakhon városában.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152418,
+                        17.170549
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ภูพาน",
+                  "text": "A Phu Phan Museum egy múzeum Sakon Nakhon városában.",
+                  "category": "museum",
+                  "coords": [
+                        104.144884,
+                        17.173129
+                  ]
+            },
+            {
+                  "name": "Phra That Dum",
+                  "text": "A Phra That Dum egy régészeti lelőhely Sakon Nakhon városában.",
+                  "category": "historical",
+                  "coords": [
+                        104.1646,
+                        17.144181
+                  ]
+            },
+            {
+                  "name": "วัดพระธาตุเชิงชุมวรวิหาร",
+                  "text": "A Wat Phra Thad Chaeng Chum Worawihan Temple egy istentiszteleti hely Sakon Nakhon városában.",
+                  "category": "religious",
+                  "coords": [
+                        104.153453,
+                        17.164455
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑ์หลวงปู่หลุย จันทสาโร",
+                  "text": "Luang Pu Lui Chanthasaro Museum este un muzeu situat în Sakon Nakhon.",
+                  "category": "museum",
+                  "coords": [
+                        104.138592,
+                        17.15074
+                  ]
+            },
+            {
+                  "name": "สถานแสดงพันธุ์ปลาน้ำจืดภาคอีสาน",
+                  "text": "Freshwater Fish Aquarium este un acvariu situat în Sakon Nakhon.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152418,
+                        17.170549
+                  ]
+            },
+            {
+                  "name": "พิพิธภัณฑ์ภูพาน",
+                  "text": "Phu Phan Museum este un muzeu situat în Sakon Nakhon.",
+                  "category": "museum",
+                  "coords": [
+                        104.144884,
+                        17.173129
+                  ]
+            },
+            {
+                  "name": "Phra That Dum",
+                  "text": "Phra That Dum este un sit arheologic situat în Sakon Nakhon.",
+                  "category": "historical",
+                  "coords": [
+                        104.1646,
+                        17.144181
+                  ]
+            },
+            {
+                  "name": "วัดพระธาตุเชิงชุมวรวิหาร",
+                  "text": "Wat Phra Thad Chaeng Chum Worawihan Temple este un lăcaș de cult situat în Sakon Nakhon.",
+                  "category": "religious",
+                  "coords": [
+                        104.153453,
+                        17.164455
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Luang Pu Lui Chanthasaro Museum",
+                  "text": "Luang Pu Lui Chanthasaro Museum is a museum located in Sakon Nakhon.",
+                  "category": "museum",
+                  "coords": [
+                        104.138592,
+                        17.15074
+                  ]
+            },
+            {
+                  "name": "Freshwater Fish Aquarium",
+                  "text": "Freshwater Fish Aquarium is an aquarium located in Sakon Nakhon.",
+                  "category": "recreational",
+                  "coords": [
+                        104.152418,
+                        17.170549
+                  ]
+            },
+            {
+                  "name": "Phu Phan Museum",
+                  "text": "Phu Phan Museum is a museum located in Sakon Nakhon.",
+                  "category": "museum",
+                  "coords": [
+                        104.144884,
+                        17.173129
+                  ]
+            },
+            {
+                  "name": "Phra That Dum",
+                  "text": "Phra That Dum is an archaeological site located in Sakon Nakhon.",
+                  "category": "historical",
+                  "coords": [
+                        104.1646,
+                        17.144181
+                  ]
+            },
+            {
+                  "name": "Wat Phra Thad Chaeng Chum Worawihan Temple",
+                  "text": "Wat Phra Thad Chaeng Chum Worawihan Temple is a place of worship located in Sakon Nakhon.",
+                  "category": "religious",
+                  "coords": [
+                        104.153453,
+                        17.164455
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-47",
     coords: [104.148, 17.159],
@@ -1125,7 +9045,124 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Un centre important pour le bouddhisme de la tradition forestière.", "Organise un célèbre festival de châteaux de cire.", "Le lac est une partie importante de la vie locale."],
     }, image: "/poi-images/sakon-nakhon-cities-v2.webp"},
   {
-    id: "lopburi-cities-v2",
+    id: "lopburi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "สวนสัตว์ลพบุรี",
+                  "text": "Ein lokaler Zoo in Lopburi, der verschiedene Tierarten der Region beherbergt.",
+                  "category": "recreational",
+                  "coords": [
+                        100.636534,
+                        14.803567
+                  ]
+            },
+            {
+                  "name": "Lopburi Provincial Stadium",
+                  "text": "Ein öffentliches Stadion und Parkgelände für Sport und Erholung in Lopburi.",
+                  "category": "park",
+                  "coords": [
+                        100.647774,
+                        14.801077
+                  ]
+            },
+            {
+                  "name": "พระที่นั่งไกรสรสีหราช",
+                  "text": "Ruinen eines ehemaligen königlichen Palastes aus der Zeit von König Narai in Lopburi.",
+                  "category": "historical",
+                  "coords": [
+                        100.645206,
+                        14.812102
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "สวนสัตว์ลพบุรี",
+                  "text": "Helyi állatkert Lopburiban, amely a régió különféle állatfajait mutatja be.",
+                  "category": "recreational",
+                  "coords": [
+                        100.636534,
+                        14.803567
+                  ]
+            },
+            {
+                  "name": "Lopburi Provincial Stadium",
+                  "text": "Nyilvános stadion és parkos terület sportolásra és kikapcsolódásra Lopburiban.",
+                  "category": "park",
+                  "coords": [
+                        100.647774,
+                        14.801077
+                  ]
+            },
+            {
+                  "name": "พระที่นั่งไกรสรสีหราช",
+                  "text": "Egy egykori királyi palota romjai Lopburiban, Narai király idejéből.",
+                  "category": "historical",
+                  "coords": [
+                        100.645206,
+                        14.812102
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "สวนสัตว์ลพบุรี",
+                  "text": "O grădină zoologică locală din Lopburi, care găzduiește diverse specii de animale din regiune.",
+                  "category": "recreational",
+                  "coords": [
+                        100.636534,
+                        14.803567
+                  ]
+            },
+            {
+                  "name": "Lopburi Provincial Stadium",
+                  "text": "Un stadion public și o zonă de parc pentru sport și recreere în Lopburi.",
+                  "category": "park",
+                  "coords": [
+                        100.647774,
+                        14.801077
+                  ]
+            },
+            {
+                  "name": "พระที่นั่งไกรสรสีหราช",
+                  "text": "Ruinele unui fost palat regal din timpul regelui Narai în Lopburi.",
+                  "category": "historical",
+                  "coords": [
+                        100.645206,
+                        14.812102
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lopburi Zoo",
+                  "text": "A local zoo in Lopburi housing various animal species of the region.",
+                  "category": "recreational",
+                  "coords": [
+                        100.636534,
+                        14.803567
+                  ]
+            },
+            {
+                  "name": "Lopburi Provincial Stadium",
+                  "text": "A public stadium and park area for sports and recreation in Lopburi.",
+                  "category": "park",
+                  "coords": [
+                        100.647774,
+                        14.801077
+                  ]
+            },
+            {
+                  "name": "Kraison Siharat Palace",
+                  "text": "Ruins of a former royal palace from the time of King Narai in Lopburi.",
+                  "category": "historical",
+                  "coords": [
+                        100.645206,
+                        14.812102
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-16",
     coords: [100.653, 14.798],
@@ -1172,7 +9209,160 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Célèbre pour ses singes.", "Possède de nombreuses ruines de temples anciens.", "Fut une seconde capitale sous le roi Narai."],
     }, image: "/poi-images/lopburi-cities-v2.webp"},
   {
-    id: "nong-khai-cities-v2",
+    id: "nong-khai-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑ์จังหวัดหนองคาย",
+                  "text": "Ein Museum in Nong Khai, das die Geschichte und Kultur der Region präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "ถนนคนเดิน หนองคาย",
+                  "text": "Eine beliebte Marktstraße am Mekong in Nong Khai mit lokalem Kunsthandwerk.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "ลานวัฒนธรรม หน้าวัดลำดวน จ. หนองคาย",
+                  "text": "Eine Statue, die die mythische Naga-Schlange am Ufer des Mekong in Nong Khai darstellt.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ปราบฮ่อ",
+                  "text": "Ein Denkmal in Nong Khai zum Gedenken an den Sieg über den Haw-Aufstand.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑ์จังหวัดหนองคาย",
+                  "text": "Nong Khai-i múzeum, amely a régió történelmét és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "ถนนคนเดิน หนองคาย",
+                  "text": "Népszerű piaci utca a Mekong mentén Nong Khaiban, helyi kézműves termékekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "ลานวัฒนธรรม หน้าวัดลำดวน จ. หนองคาย",
+                  "text": "A mitikus Naga kígyót ábrázoló szobor a Mekong partján Nong Khaiban.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ปราบฮ่อ",
+                  "text": "A Haw-felkelés feletti győzelem emlékére emelt emlékmű Nong Khaiban.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑ์จังหวัดหนองคาย",
+                  "text": "Un muzeu în Nong Khai care prezintă istoria și cultura regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "ถนนคนเดิน หนองคาย",
+                  "text": "O stradă comercială populară pe malul râului Mekong în Nong Khai, cu produse artizanale locale.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "ลานวัฒนธรรม หน้าวัดลำดวน จ. หนองคาย",
+                  "text": "O statuie care reprezintă șarpele mitic Naga pe malul Mekongului în Nong Khai.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "อนุสาวรีย์ปราบฮ่อ",
+                  "text": "Un monument în Nong Khai care comemorează victoria împotriva insurecției Haw.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Nong Khai Museum",
+                  "text": "A museum in Nong Khai presenting the history and culture of the region.",
+                  "category": "museum",
+                  "coords": [
+                        102.738916,
+                        17.879198
+                  ]
+            },
+            {
+                  "name": "Nong Khai Walking Street",
+                  "text": "A popular market street along the Mekong River in Nong Khai with local crafts.",
+                  "category": "landmark",
+                  "coords": [
+                        102.743504,
+                        17.88421
+                  ]
+            },
+            {
+                  "name": "Naga statue",
+                  "text": "A statue representing the mythical Naga serpent on the banks of the Mekong in Nong Khai.",
+                  "category": "landmark",
+                  "coords": [
+                        102.752801,
+                        17.887761
+                  ]
+            },
+            {
+                  "name": "Prap Ho Monument",
+                  "text": "A monument in Nong Khai commemorating the victory over the Haw uprising.",
+                  "category": "historical",
+                  "coords": [
+                        102.740566,
+                        17.879624
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-43",
     coords: [102.744, 17.881],
@@ -1266,7 +9456,304 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Lieu de vacances prisé de la famille royale thaïlandaise.", "Possède une célèbre gare de style thaïlandais.", "Connue pour ses marchés de nuit et ses fruits de mer."],
     }, image: "/poi-images/hua-hin-cities-v2.webp"},
   {
-    id: "krabi-cities-v2",
+    id: "krabi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "หอศิลป์อันดามัน",
+                  "text": "Ein Kunstmuseum in Krabi, das Werke lokaler und regionaler Künstler ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        98.913867,
+                        8.070762
+                  ]
+            },
+            {
+                  "name": "ถ้ำเขาขนาบน้ำ",
+                  "text": "Zwei markante Kalksteinfelsen am Flussufer, die als Wahrzeichen von Krabi gelten.",
+                  "category": "landmark",
+                  "coords": [
+                        98.921093,
+                        8.078329
+                  ]
+            },
+            {
+                  "name": "ถนนคนเดินกระบี่",
+                  "text": "Ein beliebter Abendmarkt in Krabi mit lokalem Essen, Handwerk und Unterhaltung.",
+                  "category": "landmark",
+                  "coords": [
+                        98.916398,
+                        8.06416
+                  ]
+            },
+            {
+                  "name": "Krabi Lucky Windmill",
+                  "text": "Eine dekorative Windmühle in Krabi, die als lokaler Fotopunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        98.908498,
+                        8.048457
+                  ]
+            },
+            {
+                  "name": "Cro-magnon Man Intersection",
+                  "text": "Eine markante Straßenkreuzung in Krabi, die mit Skulpturen von Frühmenschen geschmückt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        98.915184,
+                        8.064853
+                  ]
+            },
+            {
+                  "name": "Smilodon Intersection",
+                  "text": "Eine bekannte Kreuzung in Krabi mit Statuen prähistorischer Säbelzahntiger.",
+                  "category": "landmark",
+                  "coords": [
+                        98.914737,
+                        8.066991
+                  ]
+            },
+            {
+                  "name": "ทางเดินป่าชายเลน",
+                  "text": "Ein hölzerner Lehrpfad, der durch die Mangrovenwälder von Krabi führt.",
+                  "category": "landmark",
+                  "coords": [
+                        98.918743,
+                        8.07676
+                  ]
+            },
+            {
+                  "name": "Stadtpfeiler",
+                  "text": "Ein religiöser Schrein in Krabi, der dem Schutzgeist der Stadt gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        98.918013,
+                        8.05961
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "หอศิลป์อันดามัน",
+                  "text": "Művészeti múzeum Krabiban, amely helyi és regionális művészek alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        98.913867,
+                        8.070762
+                  ]
+            },
+            {
+                  "name": "ถ้ำเขาขนาบน้ำ",
+                  "text": "Két jellegzetes mészkőszikla a folyóparton, amelyek Krabi jelképének számítanak.",
+                  "category": "landmark",
+                  "coords": [
+                        98.921093,
+                        8.078329
+                  ]
+            },
+            {
+                  "name": "ถนนคนเดินกระบี่",
+                  "text": "Népszerű esti piac Krabiban, helyi ételekkel, kézműves termékekkel és szórakozási lehetőségekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        98.916398,
+                        8.06416
+                  ]
+            },
+            {
+                  "name": "Krabi Lucky Windmill",
+                  "text": "Díszes szélmalom Krabiban, amely népszerű helyi fotópontként szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        98.908498,
+                        8.048457
+                  ]
+            },
+            {
+                  "name": "Cro-magnon Man Intersection",
+                  "text": "Jellegzetes utcai kereszteződés Krabiban, amelyet ősembereket ábrázoló szobrok díszítenek.",
+                  "category": "landmark",
+                  "coords": [
+                        98.915184,
+                        8.064853
+                  ]
+            },
+            {
+                  "name": "Smilodon Intersection",
+                  "text": "Ismert kereszteződés Krabiban, őskori kardfogú tigrisek szobraival.",
+                  "category": "landmark",
+                  "coords": [
+                        98.914737,
+                        8.066991
+                  ]
+            },
+            {
+                  "name": "ทางเดินป่าชายเลน",
+                  "text": "Fából készült tanösvény, amely Krabi mangroveerdein vezet keresztül.",
+                  "category": "landmark",
+                  "coords": [
+                        98.918743,
+                        8.07676
+                  ]
+            },
+            {
+                  "name": "ศาลหลักเมืองกระบี่",
+                  "text": "Vallási szentély Krabiban, amelyet a város védőszellemének szenteltek.",
+                  "category": "religious",
+                  "coords": [
+                        98.918013,
+                        8.05961
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "หอศิลป์อันดามัน",
+                  "text": "Un muzeu de artă din Krabi, care expune lucrări ale artiștilor locali și regionali.",
+                  "category": "museum",
+                  "coords": [
+                        98.913867,
+                        8.070762
+                  ]
+            },
+            {
+                  "name": "ถ้ำเขาขนาบน้ำ",
+                  "text": "Două stânci de calcar distinctive pe malul râului, considerate simbolul orașului Krabi.",
+                  "category": "landmark",
+                  "coords": [
+                        98.921093,
+                        8.078329
+                  ]
+            },
+            {
+                  "name": "ถนนคนเดินกระบี่",
+                  "text": "O piață de seară populară în Krabi, cu mâncare locală, meșteșuguri și divertisment.",
+                  "category": "landmark",
+                  "coords": [
+                        98.916398,
+                        8.06416
+                  ]
+            },
+            {
+                  "name": "Krabi Lucky Windmill",
+                  "text": "O moară de vânt decorativă în Krabi, care servește ca punct local de fotografiere.",
+                  "category": "landmark",
+                  "coords": [
+                        98.908498,
+                        8.048457
+                  ]
+            },
+            {
+                  "name": "Cro-magnon Man Intersection",
+                  "text": "O intersecție rutieră distinctivă în Krabi, decorată cu sculpturi ale oamenilor timpurii.",
+                  "category": "landmark",
+                  "coords": [
+                        98.915184,
+                        8.064853
+                  ]
+            },
+            {
+                  "name": "Smilodon Intersection",
+                  "text": "O intersecție cunoscută din Krabi, cu statui ale tigrilor preistorici cu dinți de sabie.",
+                  "category": "landmark",
+                  "coords": [
+                        98.914737,
+                        8.066991
+                  ]
+            },
+            {
+                  "name": "ทางเดินป่าชายเลน",
+                  "text": "O pasarelă din lemn care traversează pădurile de mangrove din Krabi.",
+                  "category": "landmark",
+                  "coords": [
+                        98.918743,
+                        8.07676
+                  ]
+            },
+            {
+                  "name": "ศาลหลักเมืองกระบี่",
+                  "text": "Un altar religios din Krabi dedicat spiritului protector al orașului.",
+                  "category": "religious",
+                  "coords": [
+                        98.918013,
+                        8.05961
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Andaman Art Museum",
+                  "text": "An art museum in Krabi exhibiting works by local and regional artists.",
+                  "category": "museum",
+                  "coords": [
+                        98.913867,
+                        8.070762
+                  ]
+            },
+            {
+                  "name": "Khao Khanap Nam Cave",
+                  "text": "Two distinctive limestone hills on the riverbank, considered the landmark of Krabi.",
+                  "category": "landmark",
+                  "coords": [
+                        98.921093,
+                        8.078329
+                  ]
+            },
+            {
+                  "name": "Krabi Walking Street",
+                  "text": "A popular evening market in Krabi featuring local food, crafts, and entertainment.",
+                  "category": "landmark",
+                  "coords": [
+                        98.916398,
+                        8.06416
+                  ]
+            },
+            {
+                  "name": "Krabi Lucky Windmill",
+                  "text": "A decorative windmill in Krabi that serves as a local photo spot.",
+                  "category": "landmark",
+                  "coords": [
+                        98.908498,
+                        8.048457
+                  ]
+            },
+            {
+                  "name": "Cro-magnon Man Intersection",
+                  "text": "A distinctive street intersection in Krabi decorated with sculptures of early humans.",
+                  "category": "landmark",
+                  "coords": [
+                        98.915184,
+                        8.064853
+                  ]
+            },
+            {
+                  "name": "Smilodon Intersection",
+                  "text": "A well-known intersection in Krabi featuring statues of prehistoric saber-toothed tigers.",
+                  "category": "landmark",
+                  "coords": [
+                        98.914737,
+                        8.066991
+                  ]
+            },
+            {
+                  "name": "Mangrove Boardwalk",
+                  "text": "A wooden boardwalk trail leading through the mangrove forests of Krabi.",
+                  "category": "landmark",
+                  "coords": [
+                        98.918743,
+                        8.07676
+                  ]
+            },
+            {
+                  "name": "City Pillar Shrine",
+                  "text": "A religious shrine in Krabi dedicated to the city's guardian spirit.",
+                  "category": "religious",
+                  "coords": [
+                        98.918013,
+                        8.05961
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-81",
     coords: [98.906, 8.075],
@@ -1360,7 +9847,124 @@ export const poiExtraThailandCitiesV2: POI[] = [
       fr: ["Historiquement importante pour le commerce avec la Birmanie.", "Accueille le festival Loi Krathong Sai.", "Entourée de paysages montagneux."],
     }, image: "/poi-images/tak-cities-v2.webp"},
   {
-    id: "ratchaburi-cities-v2",
+    id: "ratchaburi-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "พิพิธภัณฑ์ทหารช่าง",
+                  "text": "Das Royal Thai Army Engineer Museum ist ein Museum in Ratchaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.825763,
+                        13.542347
+                  ]
+            },
+            {
+                  "name": "เจดีย์หัก",
+                  "text": "Chedi Hak besteht aus Ruinen in Ratchaburi.",
+                  "category": "historical",
+                  "coords": [
+                        99.798427,
+                        13.543049
+                  ]
+            },
+            {
+                  "name": "วัดมหาธาตุวรวิหาร ราชบุรี",
+                  "text": "Wat Mahathat Worawihan ist eine bekannte Kultstätte in Ratchaburi.",
+                  "category": "religious",
+                  "coords": [
+                        99.81432,
+                        13.547457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "พิพิธภัณฑ์ทหารช่าง",
+                  "text": "A Royal Thai Army Engineer Museum egy múzeum Ratchaburi városában.",
+                  "category": "museum",
+                  "coords": [
+                        99.825763,
+                        13.542347
+                  ]
+            },
+            {
+                  "name": "เจดีย์หัก",
+                  "text": "A Chedi Hak egy romterület Ratchaburi városában.",
+                  "category": "historical",
+                  "coords": [
+                        99.798427,
+                        13.543049
+                  ]
+            },
+            {
+                  "name": "วัดมหาธาตุวรวิหาร ราชบุรี",
+                  "text": "A Wat Mahathat Worawihan egy ismert istentiszteleti hely Ratchaburi városában.",
+                  "category": "religious",
+                  "coords": [
+                        99.81432,
+                        13.547457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "พิพิธภัณฑ์ทหารช่าง",
+                  "text": "Royal Thai Army Engineer Museum este un muzeu situat în Ratchaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.825763,
+                        13.542347
+                  ]
+            },
+            {
+                  "name": "เจดีย์หัก",
+                  "text": "Chedi Hak constă în ruine situate în Ratchaburi.",
+                  "category": "historical",
+                  "coords": [
+                        99.798427,
+                        13.543049
+                  ]
+            },
+            {
+                  "name": "วัดมหาธาตุวรวิหาร ราชบุรี",
+                  "text": "Wat Mahathat Worawihan este un lăcaș de cult cunoscut situat în Ratchaburi.",
+                  "category": "religious",
+                  "coords": [
+                        99.81432,
+                        13.547457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Royal Thai Army Engineer Museum",
+                  "text": "Royal Thai Army Engineer Museum is a museum located in Ratchaburi.",
+                  "category": "museum",
+                  "coords": [
+                        99.825763,
+                        13.542347
+                  ]
+            },
+            {
+                  "name": "Chedi Hak",
+                  "text": "Chedi Hak consists of ruins located in Ratchaburi.",
+                  "category": "historical",
+                  "coords": [
+                        99.798427,
+                        13.543049
+                  ]
+            },
+            {
+                  "name": "Wat Mahathat Worawihan",
+                  "text": "Wat Mahathat Worawihan is a notable place of worship located in Ratchaburi.",
+                  "category": "religious",
+                  "coords": [
+                        99.81432,
+                        13.547457
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "TH-70",
     coords: [99.815, 13.535],

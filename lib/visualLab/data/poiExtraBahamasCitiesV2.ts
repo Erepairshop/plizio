@@ -70,7 +70,88 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     }
   },
   {
-    id: "freetown-cities-v2",
+    id: "freetown-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Lucayan National Park",
+                  "text": "Ein Nationalpark auf den Bahamas, bekannt für sein ausgedehntes Unterwasserhöhlensystem.",
+                  "category": "natural",
+                  "coords": [
+                        -78.401539,
+                        26.604294
+                  ]
+            },
+            {
+                  "name": "Gold Rock Beach",
+                  "text": "Ein malerischer Sandstrand im Lucayan-Nationalpark auf den Bahamas.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.404359,
+                        26.599965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Lucayan National Park",
+                  "text": "Nemzeti park a Bahamákon, amely kiterjedt víz alatti barlangrendszeréről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -78.401539,
+                        26.604294
+                  ]
+            },
+            {
+                  "name": "Gold Rock Beach",
+                  "text": "Gleccserfehér homokos strand a bahamai Lucayan Nemzeti Parkban.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.404359,
+                        26.599965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Lucayan National Park",
+                  "text": "Un parc național în Bahamas, cunoscut pentru sistemul său extins de peșteri subacvatice.",
+                  "category": "natural",
+                  "coords": [
+                        -78.401539,
+                        26.604294
+                  ]
+            },
+            {
+                  "name": "Gold Rock Beach",
+                  "text": "O plajă pitorească cu nisip în Parcul Național Lucayan din Bahamas.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.404359,
+                        26.599965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Lucayan National Park",
+                  "text": "A national park in the Bahamas known for its extensive underwater cave system.",
+                  "category": "natural",
+                  "coords": [
+                        -78.401539,
+                        26.604294
+                  ]
+            },
+            {
+                  "name": "Gold Rock Beach",
+                  "text": "A picturesque sandy beach located within the Lucayan National Park in the Bahamas.",
+                  "category": "recreational",
+                  "coords": [
+                        -78.404359,
+                        26.599965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BS-EG",
     coords: [-78.4167, 26.5833],
@@ -376,7 +457,52 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     }
   },
   {
-    id: "mortimers-cities-v2",
+    id: "mortimers-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "o’zone house",
+                  "text": "Eine lokale Sehenswürdigkeit in Mortimer's, die Besucher anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.338546,
+                        23.63203
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "o’zone house",
+                  "text": "Helyi látnivaló Mortimer's településén, amely vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.338546,
+                        23.63203
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "o’zone house",
+                  "text": "O atracție locală în Mortimer's care atrage vizitatorii.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.338546,
+                        23.63203
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "o’zone house",
+                  "text": "A local point of interest in Mortimer's that attracts visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.338546,
+                        23.63203
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BS-LI",
     coords: [-75.3167, 23.6333],
@@ -412,7 +538,52 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     }
   },
   {
-    id: "congo-town-cities-v2",
+    id: "congo-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "End of Blue Holes hiking trail",
+                  "text": "Das Ziel eines Wanderwegs, der zu natürlichen Blue Holes im Kongo führt.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.585598,
+                        24.174327
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "End of Blue Holes hiking trail",
+                  "text": "Egy túraútvonal célpontja, amely a Kongó természetes kék lyukaihoz vezet.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.585598,
+                        24.174327
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "End of Blue Holes hiking trail",
+                  "text": "Destinația unei poteci de drumeție care duce la găurile albastre naturale din Congo.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.585598,
+                        24.174327
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "End of Blue Holes hiking trail",
+                  "text": "The end of a hiking trail leading to natural blue holes in Congo.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.585598,
+                        24.174327
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BS-SO",
     coords: [-77.5833, 24.15],
@@ -1119,7 +1290,124 @@ export const poiExtraBahamasCitiesV2: POI[] = [
     },
   },
   {
-    id: "stewart-manor-cities-v2",
+    id: "stewart-manor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jolly Hall",
+                  "text": "Ein malerischer Strandabschnitt für Erholung in Stewart Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.787411,
+                        23.522767
+                  ]
+            },
+            {
+                  "name": "Hoppers Bay",
+                  "text": "Eine Bucht und lokale Attraktion in der Nähe von Stewart Manor.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.80559,
+                        23.530224
+                  ]
+            },
+            {
+                  "name": "Wenshua Art Gallary",
+                  "text": "Eine Kunstgalerie, die Werke lokaler Künstler in Stewart Manor zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -75.792321,
+                        23.525188
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jolly Hall",
+                  "text": "Festői tengerparti szakasz a kikapcsolódáshoz Stewart Manorban.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.787411,
+                        23.522767
+                  ]
+            },
+            {
+                  "name": "Hoppers Bay",
+                  "text": "Öböl és helyi látványosság Stewart Manor közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.80559,
+                        23.530224
+                  ]
+            },
+            {
+                  "name": "Wenshua Art Gallary",
+                  "text": "Művészeti galéria, amely helyi művészek alkotásait mutatja be Stewart Manorban.",
+                  "category": "museum",
+                  "coords": [
+                        -75.792321,
+                        23.525188
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jolly Hall",
+                  "text": "O secțiune de plajă pitorească pentru recreere în Stewart Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.787411,
+                        23.522767
+                  ]
+            },
+            {
+                  "name": "Hoppers Bay",
+                  "text": "Un golf și o atracție locală în apropiere de Stewart Manor.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.80559,
+                        23.530224
+                  ]
+            },
+            {
+                  "name": "Wenshua Art Gallary",
+                  "text": "O galerie de artă care prezintă lucrările artiștilor locali în Stewart Manor.",
+                  "category": "museum",
+                  "coords": [
+                        -75.792321,
+                        23.525188
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jolly Hall",
+                  "text": "A picturesque stretch of beach for recreation in Stewart Manor.",
+                  "category": "recreational",
+                  "coords": [
+                        -75.787411,
+                        23.522767
+                  ]
+            },
+            {
+                  "name": "Hoppers Bay",
+                  "text": "A bay and local attraction near Stewart Manor.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.80559,
+                        23.530224
+                  ]
+            },
+            {
+                  "name": "Wenshua Art Gallary",
+                  "text": "An art gallery displaying works by local artists in Stewart Manor.",
+                  "category": "museum",
+                  "coords": [
+                        -75.792321,
+                        23.525188
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BS-EX",
     coords: [-75.8167, 23.5167],

@@ -47,7 +47,88 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "consolacion-del-sur-cities-v2",
+    id: "consolacion-del-sur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro del PCC",
+                  "text": "Ein lokales Theater in Consolación del Sur, das für kulturelle Aufführungen genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.507581,
+                        22.51479
+                  ]
+            },
+            {
+                  "name": "Miguel Cabañas",
+                  "text": "Ein Denkmal zu Ehren von Miguel Cabañas in Consolación del Sur.",
+                  "category": "historical",
+                  "coords": [
+                        -83.515632,
+                        22.503391
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro del PCC",
+                  "text": "Helyi színház Consolación del Surban, amelyet kulturális előadásokra használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.507581,
+                        22.51479
+                  ]
+            },
+            {
+                  "name": "Miguel Cabañas",
+                  "text": "Miguel Cabañas tiszteletére emelt emlékmű Consolación del Surban.",
+                  "category": "historical",
+                  "coords": [
+                        -83.515632,
+                        22.503391
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro del PCC",
+                  "text": "Un teatru local în Consolación del Sur, utilizat pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.507581,
+                        22.51479
+                  ]
+            },
+            {
+                  "name": "Miguel Cabañas",
+                  "text": "Un monument dedicat lui Miguel Cabañas în Consolación del Sur.",
+                  "category": "historical",
+                  "coords": [
+                        -83.515632,
+                        22.503391
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro del PCC",
+                  "text": "A local theatre in Consolación del Sur used for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.507581,
+                        22.51479
+                  ]
+            },
+            {
+                  "name": "Miguel Cabañas",
+                  "text": "A monument honoring Miguel Cabañas in Consolación del Sur.",
+                  "category": "historical",
+                  "coords": [
+                        -83.515632,
+                        22.503391
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-01",
     coords: [-83.5136, 22.5036],
@@ -188,7 +269,88 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "guira-de-melena-cities-v2",
+    id: "guira-de-melena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Obelisco a Antonio Maceo y Máximo Gómez",
+                  "text": "Ein Obelisk zu Ehren von Antonio Maceo und Máximo Gómez in Güira de Melena.",
+                  "category": "historical",
+                  "coords": [
+                        -82.502209,
+                        22.787888
+                  ]
+            },
+            {
+                  "name": "Mausoleo José Manuel Seguí",
+                  "text": "Das Mausoleum von José Manuel Seguí in Güira de Melena.",
+                  "category": "historical",
+                  "coords": [
+                        -82.505782,
+                        22.794625
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Obelisco a Antonio Maceo y Máximo Gómez",
+                  "text": "Antonio Maceo és Máximo Gómez tiszteletére emelt obeliszk Güira de Melenában.",
+                  "category": "historical",
+                  "coords": [
+                        -82.502209,
+                        22.787888
+                  ]
+            },
+            {
+                  "name": "Mausoleo José Manuel Seguí",
+                  "text": "José Manuel Seguí mauzóleuma Güira de Melenában.",
+                  "category": "historical",
+                  "coords": [
+                        -82.505782,
+                        22.794625
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Obelisco a Antonio Maceo y Máximo Gómez",
+                  "text": "Un obelisc în Güira de Melena ridicat în cinstea lui Antonio Maceo și Máximo Gómez.",
+                  "category": "historical",
+                  "coords": [
+                        -82.502209,
+                        22.787888
+                  ]
+            },
+            {
+                  "name": "Mausoleo José Manuel Seguí",
+                  "text": "Mausoleul lui José Manuel Seguí din Güira de Melena.",
+                  "category": "historical",
+                  "coords": [
+                        -82.505782,
+                        22.794625
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Obelisco a Antonio Maceo y Máximo Gómez",
+                  "text": "An obelisk honoring Antonio Maceo and Máximo Gómez in Güira de Melena.",
+                  "category": "historical",
+                  "coords": [
+                        -82.502209,
+                        22.787888
+                  ]
+            },
+            {
+                  "name": "Mausoleo José Manuel Seguí",
+                  "text": "The mausoleum of José Manuel Seguí in Güira de Melena.",
+                  "category": "historical",
+                  "coords": [
+                        -82.505782,
+                        22.794625
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-15",
     coords: [-82.505, 22.802],
@@ -422,7 +584,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "santa-clara-cities-v2",
+    id: "santa-clara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Área Natural Protegida La Joya - Sisimico (Barranca de Sisimico)",
+                  "text": "Ein Naturschutzgebiet in Santa Clara, das für seine ökologische Bedeutung bekannt ist.",
+                  "category": "natural",
+                  "coords": [
+                        -88.726562,
+                        13.646111
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Área Natural Protegida La Joya - Sisimico (Barranca de Sisimico)",
+                  "text": "Természetvédelmi terület Santa Clarában, amely ökológiai jelentőségéről ismert.",
+                  "category": "natural",
+                  "coords": [
+                        -88.726562,
+                        13.646111
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Área Natural Protegida La Joya - Sisimico (Barranca de Sisimico)",
+                  "text": "O rezervație naturală în Santa Clara, cunoscută pentru importanța sa ecologică.",
+                  "category": "natural",
+                  "coords": [
+                        -88.726562,
+                        13.646111
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Área Natural Protegida La Joya - Sisimico (Barranca de Sisimico)",
+                  "text": "A nature reserve in Santa Clara known for its ecological significance.",
+                  "category": "natural",
+                  "coords": [
+                        -88.726562,
+                        13.646111
+                  ]
+            }
+      ]
+},
     type: "state-capital",
     parent: "CU-05",
     coords: [-79.965, 22.405],
@@ -571,7 +778,196 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "remedios-cities-v2",
+    id: "remedios-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de la Música Alejandro García Caturla",
+                  "text": "Das Museum ist dem Leben und Werk des kubanischen Komponisten Alejandro García Caturla gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544484,
+                        22.495399
+                  ]
+            },
+            {
+                  "name": "Teatro Rubén Martínez Villena",
+                  "text": "Ein historisches Theater in Remedios, benannt nach dem Schriftsteller Rubén Martínez Villena.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.54428,
+                        22.493951
+                  ]
+            },
+            {
+                  "name": "Museo de Historia.",
+                  "text": "Ein Museum in Remedios, das die lokale Geschichte und das kulturelle Erbe der Stadt bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544782,
+                        22.492714
+                  ]
+            },
+            {
+                  "name": "Union der Schriftsteller und Künstler Kubas",
+                  "text": "Ein Kunstzentrum in Remedios, das als Treffpunkt für kubanische Schriftsteller und Künstler dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545703,
+                        22.493983
+                  ]
+            },
+            {
+                  "name": "Zigarrenfabrik",
+                  "text": "Eine traditionelle Tabakfabrik in Remedios, die Einblicke in die Zigarrenherstellung bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545757,
+                        22.49284
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de la Música Alejandro García Caturla",
+                  "text": "A múzeum Alejandro García Caturla kubai zeneszerző életének és munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544484,
+                        22.495399
+                  ]
+            },
+            {
+                  "name": "Teatro Rubén Martínez Villena",
+                  "text": "Történelmi színház Remediosban, amely Rubén Martínez Villena íróról kapta a nevét.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.54428,
+                        22.493951
+                  ]
+            },
+            {
+                  "name": "Museo de Historia.",
+                  "text": "Remediosi múzeum, amely a város helyi történelmét és kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544782,
+                        22.492714
+                  ]
+            },
+            {
+                  "name": "UNEAC",
+                  "text": "Művészeti központ Remediosban, amely a kubai írók és művészek találkozóhelyeként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545703,
+                        22.493983
+                  ]
+            },
+            {
+                  "name": "Fábrica de Tabaco \"El Vaquerito\"",
+                  "text": "Hagyományos dohánygyár Remediosban, amely betekintést nyújt a szivarkészítés folyamatába.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545757,
+                        22.49284
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de la Música Alejandro García Caturla",
+                  "text": "Muzeul este dedicat vieții și operei compozitorului cubanez Alejandro García Caturla.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544484,
+                        22.495399
+                  ]
+            },
+            {
+                  "name": "Teatro Rubén Martínez Villena",
+                  "text": "Un teatru istoric din Remedios, numit după scriitorul Rubén Martínez Villena.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.54428,
+                        22.493951
+                  ]
+            },
+            {
+                  "name": "Museo de Historia.",
+                  "text": "Un muzeu în Remedios care conservă istoria locală și moștenirea culturală a orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544782,
+                        22.492714
+                  ]
+            },
+            {
+                  "name": "UNEAC",
+                  "text": "Un centru de artă din Remedios care servește ca loc de întâlnire pentru scriitorii și artiștii cubanezi.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545703,
+                        22.493983
+                  ]
+            },
+            {
+                  "name": "Fábrica de Tabaco \"El Vaquerito\"",
+                  "text": "O fabrică tradițională de tutun din Remedios care oferă perspective asupra fabricării trabucurilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545757,
+                        22.49284
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de la Música Alejandro García Caturla",
+                  "text": "The museum is dedicated to the life and work of the Cuban composer Alejandro García Caturla.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544484,
+                        22.495399
+                  ]
+            },
+            {
+                  "name": "Teatro Rubén Martínez Villena",
+                  "text": "A historical theatre in Remedios named after the writer Rubén Martínez Villena.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.54428,
+                        22.493951
+                  ]
+            },
+            {
+                  "name": "Museo de Historia.",
+                  "text": "A museum in Remedios preserving the local history and cultural heritage of the town.",
+                  "category": "museum",
+                  "coords": [
+                        -79.544782,
+                        22.492714
+                  ]
+            },
+            {
+                  "name": "UNEAC - Writers and Artists Associations of Cuba",
+                  "text": "An arts centre in Remedios serving as a meeting point for Cuban writers and artists.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.545703,
+                        22.493983
+                  ]
+            },
+            {
+                  "name": "Fábrica de Tabaco \"El Vaquerito\"",
+                  "text": "A traditional tobacco factory in Remedios offering insights into cigar manufacturing.",
+                  "category": "landmark",
+                  "coords": [
+                        -79.545757,
+                        22.49284
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-05",
     coords: [-79.544, 22.493],
@@ -753,7 +1149,160 @@ export const poiExtraCubaCitiesV2: POI[] = [
       fr: ["Situation centrale à Cuba", "Centre agricole pour les ananas et les agrumes"],
     }, image: "/poi-images/ciego-de-avila-cities-v2.webp"},
   {
-    id: "moron-cities-v2",
+    id: "moron-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caonabo",
+                  "text": "Ein städtisches Museum in Morón, benannt nach dem Kaziken Caonabo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.626943,
+                        22.108022
+                  ]
+            },
+            {
+                  "name": "Teatro Reguero",
+                  "text": "Ein traditionsreiches Theatergebäude in der Stadt Morón.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.626176,
+                        22.11903
+                  ]
+            },
+            {
+                  "name": "Antiguo Hotel Ritz",
+                  "text": "Das Gebäude des ehemaligen Hotels Ritz in Morón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.626669,
+                        22.106267
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Ein Kulturzentrum in Morón für lokale künstlerische Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.627088,
+                        22.113295
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caonabo",
+                  "text": "Caonabo főnökről elnevezett városi múzeum Morónban.",
+                  "category": "museum",
+                  "coords": [
+                        -78.626943,
+                        22.108022
+                  ]
+            },
+            {
+                  "name": "Teatro Reguero",
+                  "text": "Nagy múltú színházépület Morón városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.626176,
+                        22.11903
+                  ]
+            },
+            {
+                  "name": "Antiguo Hotel Ritz",
+                  "text": "Az egykori Hotel Ritz épülete Morónban.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.626669,
+                        22.106267
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Kulturális központ Morónban helyi művészeti tevékenységek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.627088,
+                        22.113295
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caonabo",
+                  "text": "Muzeul municipal din Morón, numit după căpetenia Caonabo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.626943,
+                        22.108022
+                  ]
+            },
+            {
+                  "name": "Teatro Reguero",
+                  "text": "O clădire de teatru cu tradiție în orașul Morón.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.626176,
+                        22.11903
+                  ]
+            },
+            {
+                  "name": "Antiguo Hotel Ritz",
+                  "text": "Clădirea fostului hotel Ritz din Morón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.626669,
+                        22.106267
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Un centru cultural în Morón destinat activităților artistice locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.627088,
+                        22.113295
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caonabo",
+                  "text": "A municipal museum in Morón named after the cacique Caonabo.",
+                  "category": "museum",
+                  "coords": [
+                        -78.626943,
+                        22.108022
+                  ]
+            },
+            {
+                  "name": "Teatro Reguero",
+                  "text": "A traditional theatre building in the city of Morón.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.626176,
+                        22.11903
+                  ]
+            },
+            {
+                  "name": "Antiguo Hotel Ritz",
+                  "text": "The building of the former Ritz Hotel in Morón.",
+                  "category": "landmark",
+                  "coords": [
+                        -78.626669,
+                        22.106267
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A cultural centre in Morón for local artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -78.627088,
+                        22.113295
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-08",
     coords: [-78.627, 22.109],
@@ -2122,7 +2671,160 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "banes-cities-v2",
+    id: "banes-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salón de reuniones",
+                  "text": "Ein lokaler Veranstaltungsort in Banes für Versammlungen und kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.722855,
+                        20.963956
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Indocubano \"Baní\"",
+                  "text": "Dieses Museum in Banes beherbergt eine bedeutende Sammlung präkolumbianischer archäologischer Funde.",
+                  "category": "museum",
+                  "coords": [
+                        -75.720495,
+                        20.963991
+                  ]
+            },
+            {
+                  "name": "Palacio de los Matrimonios",
+                  "text": "Ein markantes historisches Gebäude in Banes, das oft für zeremonielle Zwecke genutzt wird.",
+                  "category": "castle",
+                  "coords": [
+                        -75.71687,
+                        20.965211
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Ein Zentrum in Banes, das die lokale Kultur und künstlerische Talente fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.721426,
+                        20.964097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salón de reuniones",
+                  "text": "Helyi rendezvényhelyszín Banesben gyűlések és kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.722855,
+                        20.963956
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Indocubano \"Baní\"",
+                  "text": "Ez a banesi múzeum jelentős kolumbusz előtti régészeti leletek gyűjteményének ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        -75.720495,
+                        20.963991
+                  ]
+            },
+            {
+                  "name": "Palacio de los Matrimonios",
+                  "text": "Jellegzetes történelmi épület Banesben, amelyet gyakran ceremoniális célokra használnak.",
+                  "category": "castle",
+                  "coords": [
+                        -75.71687,
+                        20.965211
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Banesi központ, amely a helyi kultúrát és művészeti tehetségeket támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.721426,
+                        20.964097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salón de reuniones",
+                  "text": "Un loc de evenimente locale în Banes pentru adunări și spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.722855,
+                        20.963956
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Indocubano \"Baní\"",
+                  "text": "Acest muzeu din Banes adăpostește o colecție importantă de descoperiri arheologice precolumbiene.",
+                  "category": "museum",
+                  "coords": [
+                        -75.720495,
+                        20.963991
+                  ]
+            },
+            {
+                  "name": "Palacio de los Matrimonios",
+                  "text": "O clădire istorică distinctivă din Banes, utilizată adesea în scopuri ceremoniale.",
+                  "category": "castle",
+                  "coords": [
+                        -75.71687,
+                        20.965211
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Un centru din Banes care promovează cultura locală și talentele artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.721426,
+                        20.964097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salón de reuniones",
+                  "text": "A local venue in Banes for meetings and cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.722855,
+                        20.963956
+                  ]
+            },
+            {
+                  "name": "Museo Arqueológico Indocubano \"Baní\"",
+                  "text": "This museum in Banes houses a significant collection of pre-Columbian archaeological finds.",
+                  "category": "museum",
+                  "coords": [
+                        -75.720495,
+                        20.963991
+                  ]
+            },
+            {
+                  "name": "Palacio de los Matrimonios",
+                  "text": "A distinctive historical building in Banes, often used for ceremonial purposes.",
+                  "category": "castle",
+                  "coords": [
+                        -75.71687,
+                        20.965211
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A center in Banes promoting local culture and artistic talents.",
+                  "category": "cultural",
+                  "coords": [
+                        -75.721426,
+                        20.964097
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-11",
     coords: [-75.72, 20.97],
@@ -2314,7 +3016,376 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "cardenas-city-cities-v2",
+    id: "cardenas-city-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Cárdenas",
+                  "text": "Ein historisches Theatergebäude im Zentrum der kubanischen Stadt Cárdenas.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.205057,
+                        23.036978
+                  ]
+            },
+            {
+                  "name": "Museo Batalla de Ideas",
+                  "text": "Ein Museum, das der zeitgenössischen kubanischen Geschichte und sozialen Bewegungen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -81.201861,
+                        23.037163
+                  ]
+            },
+            {
+                  "name": "Tio Loco",
+                  "text": "Ein Freizeitpark für Familien und Kinder in Cárdenas.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.212939,
+                        23.029019
+                  ]
+            },
+            {
+                  "name": "Fuerte de Rojas",
+                  "text": "Überreste einer historischen Befestigungsanlage zum Schutz der Stadt.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.214482,
+                        23.027937
+                  ]
+            },
+            {
+                  "name": "Casa Natal de José Antonio Echeverría",
+                  "text": "Das Geburtshaus und Museum des kubanischen Studentenführers José Antonio Echeverría.",
+                  "category": "museum",
+                  "coords": [
+                        -81.203164,
+                        23.037402
+                  ]
+            },
+            {
+                  "name": "Fuerte de la Fábrica de Gas",
+                  "text": "Eine historische Verteidigungsanlage in der Nähe des alten Gaswerks.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.203628,
+                        23.045684
+                  ]
+            },
+            {
+                  "name": "Fuerte de Jagüey",
+                  "text": "Ein historisches Fort, das Teil des Verteidigungssystems von Cárdenas war.",
+                  "category": "castle",
+                  "coords": [
+                        -81.21355,
+                        23.045911
+                  ]
+            },
+            {
+                  "name": "Monumento a los Coches",
+                  "text": "Ein Denkmal zu Ehren der Tradition der Pferdekutschen in Cárdenas.",
+                  "category": "historical",
+                  "coords": [
+                        -81.208528,
+                        23.041036
+                  ]
+            },
+            {
+                  "name": "Gonzalo Roig",
+                  "text": "Eine Galerie, die dem Erbe des Musikers Gonzalo Roig gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -81.204174,
+                        23.038294
+                  ]
+            },
+            {
+                  "name": "Donde se enarbola por primera vez la bandera cubana",
+                  "text": "Ein historisches Denkmal in Cárdenas, das an das erste Hissen der kubanischen Flagge erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -81.196382,
+                        23.046271
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Cárdenas",
+                  "text": "Történelmi színházépület a kubai Cárdenas város központjában.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.205057,
+                        23.036978
+                  ]
+            },
+            {
+                  "name": "Museo Batalla de Ideas",
+                  "text": "A kortárs kubai történelemnek és társadalmi mozgalmaknak szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        -81.201861,
+                        23.037163
+                  ]
+            },
+            {
+                  "name": "Tio Loco",
+                  "text": "Családok és gyermekek számára kialakított szabadidőpark Cárdenasban.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.212939,
+                        23.029019
+                  ]
+            },
+            {
+                  "name": "Fuerte de Rojas",
+                  "text": "A várost védő történelmi erődítmény maradványai.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.214482,
+                        23.027937
+                  ]
+            },
+            {
+                  "name": "Casa Natal de José Antonio Echeverría",
+                  "text": "José Antonio Echeverría kubai diákvezér szülőháza és múzeuma.",
+                  "category": "museum",
+                  "coords": [
+                        -81.203164,
+                        23.037402
+                  ]
+            },
+            {
+                  "name": "Fuerte de la Fábrica de Gas",
+                  "text": "Történelmi védmű a régi gázgyár közelében.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.203628,
+                        23.045684
+                  ]
+            },
+            {
+                  "name": "Fuerte de Jagüey",
+                  "text": "Történelmi erőd, amely Cárdenas védelmi rendszerének része volt.",
+                  "category": "castle",
+                  "coords": [
+                        -81.21355,
+                        23.045911
+                  ]
+            },
+            {
+                  "name": "Monumento a los Coches",
+                  "text": "Emlékmű a cárdenasi lovaskocsi-hagyomány tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -81.208528,
+                        23.041036
+                  ]
+            },
+            {
+                  "name": "Gonzalo Roig",
+                  "text": "Gonzalo Roig zenész örökségének szentelt galéria.",
+                  "category": "museum",
+                  "coords": [
+                        -81.204174,
+                        23.038294
+                  ]
+            },
+            {
+                  "name": "Donde se enarbola por primera vez la bandera cubana",
+                  "text": "Történelmi emlékmű Cárdenasban, amely a kubai zászló első felvonásának helyszínét jelöli.",
+                  "category": "historical",
+                  "coords": [
+                        -81.196382,
+                        23.046271
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Cárdenas",
+                  "text": "O clădire istorică de teatru din centrul orașului cubanez Cárdenas.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.205057,
+                        23.036978
+                  ]
+            },
+            {
+                  "name": "Museo Batalla de Ideas",
+                  "text": "Un muzeu dedicat istoriei cubaneze contemporane și mișcărilor sociale.",
+                  "category": "museum",
+                  "coords": [
+                        -81.201861,
+                        23.037163
+                  ]
+            },
+            {
+                  "name": "Tio Loco",
+                  "text": "Un parc de distracții pentru familii și copii în Cárdenas.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.212939,
+                        23.029019
+                  ]
+            },
+            {
+                  "name": "Fuerte de Rojas",
+                  "text": "Rămășițele unei fortificații istorice construite pentru apărarea orașului.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.214482,
+                        23.027937
+                  ]
+            },
+            {
+                  "name": "Casa Natal de José Antonio Echeverría",
+                  "text": "Casa natală și muzeul liderului studențesc cubanez José Antonio Echeverría.",
+                  "category": "museum",
+                  "coords": [
+                        -81.203164,
+                        23.037402
+                  ]
+            },
+            {
+                  "name": "Fuerte de la Fábrica de Gas",
+                  "text": "O structură defensivă istorică situată în apropierea vechii fabrici de gaz.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.203628,
+                        23.045684
+                  ]
+            },
+            {
+                  "name": "Fuerte de Jagüey",
+                  "text": "O fortăreață istorică ce făcea parte din sistemul de apărare al orașului Cárdenas.",
+                  "category": "castle",
+                  "coords": [
+                        -81.21355,
+                        23.045911
+                  ]
+            },
+            {
+                  "name": "Monumento a los Coches",
+                  "text": "Un monument dedicat tradiției trăsurilor cu cai din Cárdenas.",
+                  "category": "historical",
+                  "coords": [
+                        -81.208528,
+                        23.041036
+                  ]
+            },
+            {
+                  "name": "Gonzalo Roig",
+                  "text": "O galerie dedicată moștenirii muzicianului Gonzalo Roig.",
+                  "category": "museum",
+                  "coords": [
+                        -81.204174,
+                        23.038294
+                  ]
+            },
+            {
+                  "name": "Donde se enarbola por primera vez la bandera cubana",
+                  "text": "Un monument istoric în Cárdenas care marchează locul unde a fost înălțat pentru prima dată steagul cubanez.",
+                  "category": "historical",
+                  "coords": [
+                        -81.196382,
+                        23.046271
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Cárdenas",
+                  "text": "A historic theater building in the center of the Cuban city of Cárdenas.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.205057,
+                        23.036978
+                  ]
+            },
+            {
+                  "name": "Museo Batalla de Ideas",
+                  "text": "A museum dedicated to contemporary Cuban history and social movements.",
+                  "category": "museum",
+                  "coords": [
+                        -81.201861,
+                        23.037163
+                  ]
+            },
+            {
+                  "name": "Tio Loco",
+                  "text": "A recreational park designed for families and children in Cárdenas.",
+                  "category": "recreational",
+                  "coords": [
+                        -81.212939,
+                        23.029019
+                  ]
+            },
+            {
+                  "name": "Fuerte de Rojas",
+                  "text": "Remains of a historic fortification built for the city's defense.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.214482,
+                        23.027937
+                  ]
+            },
+            {
+                  "name": "Casa Natal de José Antonio Echeverría",
+                  "text": "The birthplace and museum of the Cuban student leader José Antonio Echeverría.",
+                  "category": "museum",
+                  "coords": [
+                        -81.203164,
+                        23.037402
+                  ]
+            },
+            {
+                  "name": "Fuerte de la Fábrica de Gas",
+                  "text": "A historic defensive structure located near the old gas factory.",
+                  "category": "fortress",
+                  "coords": [
+                        -81.203628,
+                        23.045684
+                  ]
+            },
+            {
+                  "name": "Fuerte de Jagüey",
+                  "text": "A historic fort that was part of the defense system of Cárdenas.",
+                  "category": "castle",
+                  "coords": [
+                        -81.21355,
+                        23.045911
+                  ]
+            },
+            {
+                  "name": "Monumento a los Coches",
+                  "text": "A monument honoring the tradition of horse-drawn carriages in Cárdenas.",
+                  "category": "historical",
+                  "coords": [
+                        -81.208528,
+                        23.041036
+                  ]
+            },
+            {
+                  "name": "Gonzalo Roig",
+                  "text": "A gallery dedicated to the legacy of the musician Gonzalo Roig.",
+                  "category": "museum",
+                  "coords": [
+                        -81.204174,
+                        23.038294
+                  ]
+            },
+            {
+                  "name": "Donde se enarbola por primera vez la bandera cubana",
+                  "text": "A historic monument in Cárdenas marking the spot where the Cuban flag was first raised.",
+                  "category": "historical",
+                  "coords": [
+                        -81.196382,
+                        23.046271
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-04",
     coords: [-81.20, 23.03],
@@ -2362,7 +3433,124 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "placetas-cities-v2",
+    id: "placetas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "José Martí",
+                  "text": "Ein Denkmal für den kubanischen Nationalhelden José Martí in Placetas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.651514,
+                        22.314132
+                  ]
+            },
+            {
+                  "name": "Casa de Martí",
+                  "text": "Eine Gedenkstätte oder ein mit José Martí verbundenes Haus in Placetas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.652422,
+                        22.311115
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Das Kulturhaus der Stadt Placetas.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.654013,
+                        22.314168
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "José Martí",
+                  "text": "José Martí kubai nemzeti hős emlékműve Placetasban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.651514,
+                        22.314132
+                  ]
+            },
+            {
+                  "name": "Casa de Martí",
+                  "text": "José Martíval kapcsolatos emlékhely vagy ház Placetasban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.652422,
+                        22.311115
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Placetas városának művelődési háza.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.654013,
+                        22.314168
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "José Martí",
+                  "text": "Un monument dedicat eroului național cubanez José Martí în Placetas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.651514,
+                        22.314132
+                  ]
+            },
+            {
+                  "name": "Casa de Martí",
+                  "text": "O casă memorială legată de José Martí în Placetas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.652422,
+                        22.311115
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Casa de cultură din orașul Placetas.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.654013,
+                        22.314168
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "José Martí",
+                  "text": "A monument to the Cuban national hero José Martí in Placetas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.651514,
+                        22.314132
+                  ]
+            },
+            {
+                  "name": "Casa de Martí",
+                  "text": "A memorial house or site related to José Martí in Placetas.",
+                  "category": "historical",
+                  "coords": [
+                        -79.652422,
+                        22.311115
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura",
+                  "text": "The cultural house of the city of Placetas.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.654013,
+                        22.314168
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-05",
     coords: [-79.65, 22.31],
@@ -2410,7 +3598,124 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "santo-domingo-cities-v2",
+    id: "santo-domingo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal Santo Domingo",
+                  "text": "Ein städtisches Museum, das die lokale Geschichte und das Erbe von Santo Domingo präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -80.242052,
+                        22.584695
+                  ]
+            },
+            {
+                  "name": "Pedro Julio Marcelo",
+                  "text": "Ein Theater in Santo Domingo, das als kulturelles Zentrum für die Gemeinde dient.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.242451,
+                        22.585672
+                  ]
+            },
+            {
+                  "name": "Puente Lambada",
+                  "text": "Ein Aussichtspunkt in Santo Domingo, der einen weiten Blick über die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -80.232978,
+                        22.58831
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal Santo Domingo",
+                  "text": "Városi múzeum, amely Santo Domingo helyi történelmét és örökségét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -80.242052,
+                        22.584695
+                  ]
+            },
+            {
+                  "name": "Pedro Julio Marcelo",
+                  "text": "Színház Santo Domingóban, amely a közösség kulturális központjaként szolgál.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.242451,
+                        22.585672
+                  ]
+            },
+            {
+                  "name": "Puente Lambada",
+                  "text": "Kilátópont Santo Domingóban, amely széles kilátást nyújt a környező területre.",
+                  "category": "natural",
+                  "coords": [
+                        -80.232978,
+                        22.58831
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal Santo Domingo",
+                  "text": "Un muzeu municipal care prezintă istoria locală și moștenirea din Santo Domingo.",
+                  "category": "museum",
+                  "coords": [
+                        -80.242052,
+                        22.584695
+                  ]
+            },
+            {
+                  "name": "Pedro Julio Marcelo",
+                  "text": "Un teatru din Santo Domingo care servește ca centru cultural pentru comunitate.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.242451,
+                        22.585672
+                  ]
+            },
+            {
+                  "name": "Puente Lambada",
+                  "text": "Un punct de observare în Santo Domingo care oferă o vedere panoramică asupra zonei înconjurătoare.",
+                  "category": "natural",
+                  "coords": [
+                        -80.232978,
+                        22.58831
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal Santo Domingo",
+                  "text": "A municipal museum showcasing the local history and heritage of Santo Domingo.",
+                  "category": "museum",
+                  "coords": [
+                        -80.242052,
+                        22.584695
+                  ]
+            },
+            {
+                  "name": "Pedro Julio Marcelo",
+                  "text": "A theatre in Santo Domingo serving as a cultural hub for the community.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.242451,
+                        22.585672
+                  ]
+            },
+            {
+                  "name": "Puente Lambada",
+                  "text": "A viewpoint in Santo Domingo offering a wide view over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -80.232978,
+                        22.58831
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-05",
     coords: [-80.24, 22.58],
@@ -2506,7 +3811,124 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "cabaiguan-cities-v2",
+    id: "cabaiguan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal General de Cabaiguán",
+                  "text": "Das städtische Museum von Cabaiguán mit regionalen Exponaten.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503744,
+                        22.081987
+                  ]
+            },
+            {
+                  "name": "Familia Valle, Inguanzo, Díaz, Monteagudo, Romero",
+                  "text": "Ein Denkmal für bedeutende Familien in Cabaiguán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.475835,
+                        22.062636
+                  ]
+            },
+            {
+                  "name": "Monumento de Faustino Pérez",
+                  "text": "Ein Denkmal für den Revolutionär Faustino Pérez in Cabaiguán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.499787,
+                        22.079937
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal General de Cabaiguán",
+                  "text": "Cabaiguán városi múzeuma helyi kiállítási tárgyakkal.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503744,
+                        22.081987
+                  ]
+            },
+            {
+                  "name": "Familia Valle, Inguanzo, Díaz, Monteagudo, Romero",
+                  "text": "Cabaiguán jelentős családjainak tiszteletére emelt emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -79.475835,
+                        22.062636
+                  ]
+            },
+            {
+                  "name": "Monumento de Faustino Pérez",
+                  "text": "Faustino Pérez forradalmár emlékműve Cabaiguánban.",
+                  "category": "historical",
+                  "coords": [
+                        -79.499787,
+                        22.079937
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal General de Cabaiguán",
+                  "text": "Muzeul municipal din Cabaiguán, cu exponate regionale.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503744,
+                        22.081987
+                  ]
+            },
+            {
+                  "name": "Familia Valle, Inguanzo, Díaz, Monteagudo, Romero",
+                  "text": "Un monument în Cabaiguán dedicat unor familii locale importante.",
+                  "category": "historical",
+                  "coords": [
+                        -79.475835,
+                        22.062636
+                  ]
+            },
+            {
+                  "name": "Monumento de Faustino Pérez",
+                  "text": "Un monument dedicat revoluționarului Faustino Pérez în Cabaiguán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.499787,
+                        22.079937
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal General de Cabaiguán",
+                  "text": "The municipal museum of Cabaiguán featuring regional exhibits.",
+                  "category": "museum",
+                  "coords": [
+                        -79.503744,
+                        22.081987
+                  ]
+            },
+            {
+                  "name": "Familia Valle, Inguanzo, Díaz, Monteagudo, Romero",
+                  "text": "A monument in Cabaiguán dedicated to prominent local families.",
+                  "category": "historical",
+                  "coords": [
+                        -79.475835,
+                        22.062636
+                  ]
+            },
+            {
+                  "name": "Monumento de Faustino Pérez",
+                  "text": "A monument to the revolutionary Faustino Pérez in Cabaiguán.",
+                  "category": "historical",
+                  "coords": [
+                        -79.499787,
+                        22.079937
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-07",
     coords: [-79.49, 22.08],
@@ -2698,7 +4120,160 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "jiguani-cities-v2",
+    id: "jiguani-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Fuerte Español de Jiguaní",
+                  "text": "Eine historische Festungsanlage in Jiguaní zum Schutz der Region.",
+                  "category": "fortress",
+                  "coords": [
+                        -76.423535,
+                        20.371305
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Jiguaní",
+                  "text": "Das Stadtmuseum von Jiguaní bewahrt Artefakte zur Geschichte der Stadt auf.",
+                  "category": "museum",
+                  "coords": [
+                        -76.425766,
+                        20.371372
+                  ]
+            },
+            {
+                  "name": "Paseo de Jiguaní",
+                  "text": "Ein beliebter Ort für Spaziergänge und lokale Freizeitaktivitäten in Jiguaní.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426807,
+                        20.370525
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Das Kulturhaus in Jiguaní ist ein Treffpunkt für lokale Kunst und Bildung.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.426899,
+                        20.371457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Fuerte Español de Jiguaní",
+                  "text": "Történelmi erődítmény Jiguaníban a régió védelmére.",
+                  "category": "fortress",
+                  "coords": [
+                        -76.423535,
+                        20.371305
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Jiguaní",
+                  "text": "Jiguaní városi múzeuma a város történelmével kapcsolatos műtárgyakat őriz.",
+                  "category": "museum",
+                  "coords": [
+                        -76.425766,
+                        20.371372
+                  ]
+            },
+            {
+                  "name": "Paseo de Jiguaní",
+                  "text": "Népszerű hely sétákhoz és helyi szabadidős tevékenységekhez Jiguaníban.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426807,
+                        20.370525
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Jiguaní művelődési háza a helyi művészet és oktatás találkozóhelye.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.426899,
+                        20.371457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Fuerte Español de Jiguaní",
+                  "text": "O fortificație istorică în Jiguaní pentru protecția regiunii.",
+                  "category": "fortress",
+                  "coords": [
+                        -76.423535,
+                        20.371305
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Jiguaní",
+                  "text": "Muzeul municipal din Jiguaní păstrează artefacte legate de istoria orașului.",
+                  "category": "museum",
+                  "coords": [
+                        -76.425766,
+                        20.371372
+                  ]
+            },
+            {
+                  "name": "Paseo de Jiguaní",
+                  "text": "Un loc popular pentru plimbări și activități recreative locale în Jiguaní.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426807,
+                        20.370525
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Casa de cultură din Jiguaní este un loc de întâlnire pentru arta și educația locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.426899,
+                        20.371457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jiguani Fort",
+                  "text": "A historical fortification in Jiguaní for the protection of the region.",
+                  "category": "fortress",
+                  "coords": [
+                        -76.423535,
+                        20.371305
+                  ]
+            },
+            {
+                  "name": "Museo Municipal Jiguaní",
+                  "text": "The municipal museum of Jiguaní preserves artifacts related to the city's history.",
+                  "category": "museum",
+                  "coords": [
+                        -76.425766,
+                        20.371372
+                  ]
+            },
+            {
+                  "name": "Paseo de Jiguaní",
+                  "text": "A popular spot for walks and local leisure activities in Jiguaní.",
+                  "category": "landmark",
+                  "coords": [
+                        -76.426807,
+                        20.370525
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "The culture house in Jiguaní is a meeting point for local art and education.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.426899,
+                        20.371457
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-12",
     coords: [-76.42, 20.37],
@@ -2842,7 +4417,88 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "media-luna-cities-v2",
+    id: "media-luna-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa Natal de Celia Sánchez Manduley",
+                  "text": "Das Geburtshaus der Revolutionsheldin Celia Sánchez in Media Luna ist heute ein Museum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.434445,
+                        20.14218
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Das Stadtmuseum von Media Luna zeigt Exponate zur regionalen Geschichte.",
+                  "category": "museum",
+                  "coords": [
+                        -77.436154,
+                        20.147965
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa Natal de Celia Sánchez Manduley",
+                  "text": "Celia Sánchez forradalmi hős szülőháza Media Lunában ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -77.434445,
+                        20.14218
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Media Luna városi múzeuma a regionális történelemhez kapcsolódó kiállításokat mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.436154,
+                        20.147965
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa Natal de Celia Sánchez Manduley",
+                  "text": "Casa natală a eroinei revoluționare Celia Sánchez din Media Luna este astăzi un muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -77.434445,
+                        20.14218
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Muzeul municipal din Media Luna prezintă exponate referitoare la istoria regională.",
+                  "category": "museum",
+                  "coords": [
+                        -77.436154,
+                        20.147965
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa Natal de Celia Sánchez Manduley",
+                  "text": "The birthplace of revolutionary hero Celia Sánchez in Media Luna is now a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -77.434445,
+                        20.14218
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "The municipal museum of Media Luna presents exhibits related to regional history.",
+                  "category": "museum",
+                  "coords": [
+                        -77.436154,
+                        20.147965
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-12",
     coords: [-77.43, 20.14],
@@ -2890,7 +4546,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "sagua-de-tanamo-cities-v2",
+    id: "sagua-de-tanamo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento",
+                  "text": "Ein lokales Denkmal in der Stadt Sagua de Tánamo.",
+                  "category": "historical",
+                  "coords": [
+                        -75.25109,
+                        20.587789
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento",
+                  "text": "Helyi emlékmű Sagua de Tánamo városában.",
+                  "category": "historical",
+                  "coords": [
+                        -75.25109,
+                        20.587789
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento",
+                  "text": "Un monument local situat în orașul Sagua de Tánamo.",
+                  "category": "historical",
+                  "coords": [
+                        -75.25109,
+                        20.587789
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento",
+                  "text": "A local monument located in the city of Sagua de Tánamo.",
+                  "category": "historical",
+                  "coords": [
+                        -75.25109,
+                        20.587789
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-11",
     coords: [-75.24, 20.58],
@@ -2938,7 +4639,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "urbano-noris-cities-v2",
+    id: "urbano-noris-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de Cultura Rubén Martínez Villena",
+                  "text": "Ein nach Rubén Martínez Villena benanntes Kulturhaus in Urbano Noris.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.133161,
+                        20.600095
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Cultura Rubén Martínez Villena",
+                  "text": "Rubén Martínez Villenáról elnevezett művelődési ház Urbano Norisban.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.133161,
+                        20.600095
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Cultura Rubén Martínez Villena",
+                  "text": "Casa de cultură Rubén Martínez Villena din Urbano Noris.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.133161,
+                        20.600095
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de Cultura Rubén Martínez Villena",
+                  "text": "The Rubén Martínez Villena cultural house in Urbano Noris.",
+                  "category": "cultural",
+                  "coords": [
+                        -76.133161,
+                        20.600095
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-11",
     coords: [-76.13, 20.6],
@@ -3082,7 +4828,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "el-salvador-cities-v2",
+    id: "el-salvador-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "villa la Lupe",
+                  "text": "Eine touristische Anlage namens La Lupe in El Salvador.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.230092,
+                        20.189542
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "villa la Lupe",
+                  "text": "Egy Villa la Lupe nevű turisztikai létesítmény El Salvadorban.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.230092,
+                        20.189542
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "villa la Lupe",
+                  "text": "Un complex turistic sau vilă numită La Lupe în El Salvador.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.230092,
+                        20.189542
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "villa la Lupe",
+                  "text": "A tourist complex or villa named La Lupe in El Salvador.",
+                  "category": "landmark",
+                  "coords": [
+                        -75.230092,
+                        20.189542
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-14",
     coords: [-75.22, 20.21],
@@ -3130,7 +4921,124 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "santa-cruz-del-sur-cities-v2",
+    id: "santa-cruz-del-sur-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Faro de Santa Cruz del Sur",
+                  "text": "Ein Leuchtturm in Santa Cruz del Sur, der als Navigationshilfe an der Küste dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.981748,
+                        20.703552
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Dieses Museum dokumentiert die Geschichte und Entwicklung von Santa Cruz del Sur.",
+                  "category": "museum",
+                  "coords": [
+                        -77.997429,
+                        20.714892
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "Ein Denkmal in Santa Cruz del Sur, das an ein bedeutendes lokales Ereignis erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -77.996333,
+                        20.71588
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Faro de Santa Cruz del Sur",
+                  "text": "Világítótorony Santa Cruz del Surban, amely navigációs segítségként szolgál a tengerparton.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.981748,
+                        20.703552
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Ez a múzeum Santa Cruz del Sur történelmét és fejlődését dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -77.997429,
+                        20.714892
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "Emlékmű Santa Cruz del Surban, amely egy jelentős helyi eseményre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -77.996333,
+                        20.71588
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Faro de Santa Cruz del Sur",
+                  "text": "Un far în Santa Cruz del Sur care servește ca ajutor de navigație pe coastă.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.981748,
+                        20.703552
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "Acest muzeu documentează istoria și dezvoltarea orașului Santa Cruz del Sur.",
+                  "category": "museum",
+                  "coords": [
+                        -77.997429,
+                        20.714892
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "Un monument în Santa Cruz del Sur care comemorează un eveniment local semnificativ.",
+                  "category": "historical",
+                  "coords": [
+                        -77.996333,
+                        20.71588
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Faro de Santa Cruz del Sur",
+                  "text": "A lighthouse in Santa Cruz del Sur serving as a navigational aid on the coast.",
+                  "category": "landmark",
+                  "coords": [
+                        -77.981748,
+                        20.703552
+                  ]
+            },
+            {
+                  "name": "Museo Municipal",
+                  "text": "This museum documents the history and development of Santa Cruz del Sur.",
+                  "category": "museum",
+                  "coords": [
+                        -77.997429,
+                        20.714892
+                  ]
+            },
+            {
+                  "name": "Monumento",
+                  "text": "A monument in Santa Cruz del Sur commemorating a significant local event.",
+                  "category": "historical",
+                  "coords": [
+                        -77.996333,
+                        20.71588
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-09",
     coords: [-77.98, 20.71],
@@ -3178,7 +5086,88 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "guaimaro-cities-v2",
+    id: "guaimaro-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal",
+                  "text": "Das städtische Museum von Guáimaro zeigt lokale Geschichte und Kultur.",
+                  "category": "museum",
+                  "coords": [
+                        -77.350232,
+                        21.053419
+                  ]
+            },
+            {
+                  "name": "Calixto García",
+                  "text": "Ein Denkmal zu Ehren des kubanischen Patrioten Calixto García in Guáimaro.",
+                  "category": "historical",
+                  "coords": [
+                        -77.349411,
+                        21.05433
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal",
+                  "text": "Guáimaro városi múzeuma a helyi történelmet és kultúrát mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -77.350232,
+                        21.053419
+                  ]
+            },
+            {
+                  "name": "Calixto García",
+                  "text": "Calixto García kubai hazafi tiszteletére emelt emlékmű Guáimaro városában.",
+                  "category": "historical",
+                  "coords": [
+                        -77.349411,
+                        21.05433
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal",
+                  "text": "Muzeul municipal din Guáimaro prezintă istoria și cultura locală.",
+                  "category": "museum",
+                  "coords": [
+                        -77.350232,
+                        21.053419
+                  ]
+            },
+            {
+                  "name": "Calixto García",
+                  "text": "Un monument dedicat patriotului cubanez Calixto García în Guáimaro.",
+                  "category": "historical",
+                  "coords": [
+                        -77.349411,
+                        21.05433
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal",
+                  "text": "The municipal museum of Guáimaro showcases local history and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -77.350232,
+                        21.053419
+                  ]
+            },
+            {
+                  "name": "Calixto García",
+                  "text": "A monument dedicated to the Cuban patriot Calixto García in Guáimaro.",
+                  "category": "historical",
+                  "coords": [
+                        -77.349411,
+                        21.05433
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-09",
     coords: [-77.35, 21.05],
@@ -3370,7 +5359,160 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "jaguey-grande-cities-v2",
+    id: "jaguey-grande-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Anfiteatro",
+                  "text": "Ein Amphitheater in Jagüey Grande für Veranstaltungen im Freien.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.129299,
+                        22.526322
+                  ]
+            },
+            {
+                  "name": "Ceiba 300 años",
+                  "text": "Ein über 300 Jahre alter Ceiba-Baum in Jagüey Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.13737,
+                        22.502665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Rolando Tomás Escardó",
+                  "text": "Ein Kulturzentrum in Jagüey Grande, benannt nach Rolando Tomás Escardó.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.127968,
+                        22.52657
+                  ]
+            },
+            {
+                  "name": "Comandancia de Fidel",
+                  "text": "Eine historische Kommandostelle von Fidel Castro in Jagüey Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.134312,
+                        22.502264
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anfiteatro",
+                  "text": "Szabadtéri rendezvényeknek otthont adó amfiteátrum Jagüey Grandéban.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.129299,
+                        22.526322
+                  ]
+            },
+            {
+                  "name": "Ceiba 300 años",
+                  "text": "Egy több mint 300 éves ceiba-fa Jagüey Grandéban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.13737,
+                        22.502665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Rolando Tomás Escardó",
+                  "text": "Rolando Tomás Escardóról elnevezett kulturális központ Jagüey Grandéban.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.127968,
+                        22.52657
+                  ]
+            },
+            {
+                  "name": "Comandancia de Fidel",
+                  "text": "Fidel Castro egykori történelmi parancsnoksága Jagüey Grandéban.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.134312,
+                        22.502264
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anfiteatro",
+                  "text": "Un amfiteatru în Jagüey Grande destinat evenimentelor în aer liber.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.129299,
+                        22.526322
+                  ]
+            },
+            {
+                  "name": "Ceiba 300 años",
+                  "text": "Un arbore ceiba vechi de peste 300 de ani în Jagüey Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.13737,
+                        22.502665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Rolando Tomás Escardó",
+                  "text": "Centrul cultural Rolando Tomás Escardó din Jagüey Grande.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.127968,
+                        22.52657
+                  ]
+            },
+            {
+                  "name": "Comandancia de Fidel",
+                  "text": "Un fost punct de comandă istoric al lui Fidel Castro în Jagüey Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.134312,
+                        22.502264
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anfiteatro",
+                  "text": "An amphitheatre in Jagüey Grande for outdoor events.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.129299,
+                        22.526322
+                  ]
+            },
+            {
+                  "name": "Ceiba 300 años",
+                  "text": "A ceiba tree over 300 years old in Jagüey Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.13737,
+                        22.502665
+                  ]
+            },
+            {
+                  "name": "Casa de Cultura Rolando Tomás Escardó",
+                  "text": "The Rolando Tomás Escardó cultural centre in Jagüey Grande.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.127968,
+                        22.52657
+                  ]
+            },
+            {
+                  "name": "Comandancia de Fidel",
+                  "text": "A historical command post of Fidel Castro in Jagüey Grande.",
+                  "category": "landmark",
+                  "coords": [
+                        -81.134312,
+                        22.502264
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-04",
     coords: [-81.13, 22.52],
@@ -3466,7 +5608,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "cruces-cities-v2",
+    id: "cruces-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Raúl Gómez García",
+                  "text": "Das Raúl Gómez García Theater ist eine wichtige kulturelle Einrichtung in Cruces.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.273468,
+                        22.342516
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Raúl Gómez García",
+                  "text": "A Raúl Gómez García Színház fontos kulturális intézmény Cruces városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.273468,
+                        22.342516
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Raúl Gómez García",
+                  "text": "Teatrul Raúl Gómez García este o instituție culturală importantă din Cruces.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.273468,
+                        22.342516
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Raúl Gómez García",
+                  "text": "The Raúl Gómez García Theatre is a key cultural institution in Cruces.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.273468,
+                        22.342516
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-06",
     coords: [-80.27, 22.34],
@@ -3514,7 +5701,124 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "cumanayagua-cities-v2",
+    id: "cumanayagua-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Napoleón",
+                  "text": "Ein Museum in Cumanayagua, das der napoleonischen Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -80.201441,
+                        22.146649
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "Ein Denkmal zu Ehren des kubanischen Nationalhelden José Martí in Cumanayagua.",
+                  "category": "historical",
+                  "coords": [
+                        -80.202848,
+                        22.152946
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "Ein lokales Kulturzentrum in Cumanayagua für künstlerische Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.200808,
+                        22.150076
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Napoleón",
+                  "text": "Napóleoni történelemmel foglalkozó múzeum Cumanayagua városában.",
+                  "category": "museum",
+                  "coords": [
+                        -80.201441,
+                        22.146649
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "José Martí kubai nemzeti hős tiszteletére emelt emlékmű Cumanayaguában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.202848,
+                        22.152946
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "Helyi kulturális központ Cumanayaguában művészeti tevékenységek számára.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.200808,
+                        22.150076
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Napoleón",
+                  "text": "Un muzeu din Cumanayagua dedicat istoriei napoleoniene.",
+                  "category": "museum",
+                  "coords": [
+                        -80.201441,
+                        22.146649
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "Un monument dedicat eroului național cubanez José Martí în Cumanayagua.",
+                  "category": "historical",
+                  "coords": [
+                        -80.202848,
+                        22.152946
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "Un centru cultural local din Cumanayagua pentru activități artistice.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.200808,
+                        22.150076
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Napoleón",
+                  "text": "A museum in Cumanayagua dedicated to Napoleonic history.",
+                  "category": "museum",
+                  "coords": [
+                        -80.201441,
+                        22.146649
+                  ]
+            },
+            {
+                  "name": "José Martí",
+                  "text": "A monument honoring the Cuban national hero José Martí in Cumanayagua.",
+                  "category": "historical",
+                  "coords": [
+                        -80.202848,
+                        22.152946
+                  ]
+            },
+            {
+                  "name": "Casa de La Cultura",
+                  "text": "A local cultural center in Cumanayagua for artistic activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -80.200808,
+                        22.150076
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-06",
     coords: [-80.2, 22.15],
@@ -3562,7 +5866,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "taguasco-cities-v2",
+    id: "taguasco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Ein Kulturzentrum in Taguasco, das künstlerischen Austausch und Veranstaltungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.368476,
+                        21.99621
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Kulturális központ Taguascóban, amely elősegíti a művészeti cserét és rendezvényeket.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.368476,
+                        21.99621
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "Un centru cultural în Taguasco care promovează schimbul artistic și evenimentele.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.368476,
+                        21.99621
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de Cultura",
+                  "text": "A cultural center in Taguasco promoting artistic exchange and events.",
+                  "category": "cultural",
+                  "coords": [
+                        -79.368476,
+                        21.99621
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-07",
     coords: [-79.36, 22.0],
@@ -3797,7 +6146,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "yara-cities-v2",
+    id: "yara-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Monumento al indio Hatuey",
+                  "text": "Ein Denkmal in Yara, das dem indigenen Anführer Hatuey gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -76.953033,
+                        20.271801
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Monumento al indio Hatuey",
+                  "text": "Hatuey indián törzsfőnök tiszteletére emelt emlékmű Yara városában.",
+                  "category": "historical",
+                  "coords": [
+                        -76.953033,
+                        20.271801
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Monumento al indio Hatuey",
+                  "text": "Un monument în Yara dedicat căpeteniei indigene Hatuey.",
+                  "category": "historical",
+                  "coords": [
+                        -76.953033,
+                        20.271801
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Monumento al indio Hatuey",
+                  "text": "A monument in Yara dedicated to the indigenous leader Hatuey.",
+                  "category": "historical",
+                  "coords": [
+                        -76.953033,
+                        20.271801
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-12",
     coords: [-76.95, 20.27],
@@ -4032,7 +6426,88 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "guanajay-cities-v2",
+    id: "guanajay-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal de Guanajay",
+                  "text": "Dieses Museum in Guanajay bewahrt das kulturelle Erbe der Gemeinde.",
+                  "category": "museum",
+                  "coords": [
+                        -82.689765,
+                        22.926978
+                  ]
+            },
+            {
+                  "name": "Teatro Vicente Mora",
+                  "text": "Ein historisches Theater in Guanajay, benannt nach Vicente Mora.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.688709,
+                        22.927217
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal de Guanajay",
+                  "text": "Ez a guanajayi múzeum a település kulturális örökségét őrzi.",
+                  "category": "museum",
+                  "coords": [
+                        -82.689765,
+                        22.926978
+                  ]
+            },
+            {
+                  "name": "Teatro Vicente Mora",
+                  "text": "Vicente Moráról elnevezett történelmi színház Guanajay városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.688709,
+                        22.927217
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal de Guanajay",
+                  "text": "Acest muzeu din Guanajay păstrează moștenirea culturală a municipalității.",
+                  "category": "museum",
+                  "coords": [
+                        -82.689765,
+                        22.926978
+                  ]
+            },
+            {
+                  "name": "Teatro Vicente Mora",
+                  "text": "Un teatru istoric din Guanajay, numit după Vicente Mora.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.688709,
+                        22.927217
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal de Guanajay",
+                  "text": "This museum in Guanajay preserves the cultural heritage of the municipality.",
+                  "category": "museum",
+                  "coords": [
+                        -82.689765,
+                        22.926978
+                  ]
+            },
+            {
+                  "name": "Teatro Vicente Mora",
+                  "text": "A historic theatre in Guanajay, named after Vicente Mora.",
+                  "category": "cultural",
+                  "coords": [
+                        -82.688709,
+                        22.927217
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-15",
     coords: [-82.68, 22.92],
@@ -4079,7 +6554,88 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "mariel-cities-v2",
+    id: "mariel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo de Rubens",
+                  "text": "Eine historische Festungsanlage in der Stadt Mariel.",
+                  "category": "castle",
+                  "coords": [
+                        -82.748823,
+                        22.991238
+                  ]
+            },
+            {
+                  "name": "Agustín Parla",
+                  "text": "Ein Denkmal in Mariel zu Ehren des kubanischen Fliegers Agustín Parla.",
+                  "category": "historical",
+                  "coords": [
+                        -82.757201,
+                        22.991506
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo de Rubens",
+                  "text": "Történelmi erődítmény Mariel városában.",
+                  "category": "castle",
+                  "coords": [
+                        -82.748823,
+                        22.991238
+                  ]
+            },
+            {
+                  "name": "Agustín Parla",
+                  "text": "Agustín Parla kubai pilóta tiszteletére emelt emlékmű Marielben.",
+                  "category": "historical",
+                  "coords": [
+                        -82.757201,
+                        22.991506
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo de Rubens",
+                  "text": "O fortificație istorică situată în orașul Mariel.",
+                  "category": "castle",
+                  "coords": [
+                        -82.748823,
+                        22.991238
+                  ]
+            },
+            {
+                  "name": "Agustín Parla",
+                  "text": "Un monument în Mariel dedicat aviatorului cubanez Agustín Parla.",
+                  "category": "historical",
+                  "coords": [
+                        -82.757201,
+                        22.991506
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo de Rubens",
+                  "text": "A historic fortification located in the city of Mariel.",
+                  "category": "castle",
+                  "coords": [
+                        -82.748823,
+                        22.991238
+                  ]
+            },
+            {
+                  "name": "Agustín Parla",
+                  "text": "A monument in Mariel honoring the Cuban aviator Agustín Parla.",
+                  "category": "historical",
+                  "coords": [
+                        -82.757201,
+                        22.991506
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-15",
     coords: [-82.75, 22.99],
@@ -4220,7 +6776,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "perico-cities-v2",
+    id: "perico-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Ein Zentrum für Kunst und Kultur in Perico.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.019858,
+                        22.772891
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Művészeti és kulturális központ Perico városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.019858,
+                        22.772891
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "Un centru pentru artă și cultură în Perico.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.019858,
+                        22.772891
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Casa de la Cultura",
+                  "text": "A center for arts and culture in Perico.",
+                  "category": "cultural",
+                  "coords": [
+                        -81.019858,
+                        22.772891
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-04",
     coords: [-81.01, 22.76],
@@ -4314,7 +6915,52 @@ export const poiExtraCubaCitiesV2: POI[] = [
     
   },
   {
-    id: "quemado-de-guines-cities-v2",
+    id: "quemado-de-guines-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Maceo",
+                  "text": "Ein Denkmal zu Ehren von Maceo in Quemado de Güines.",
+                  "category": "historical",
+                  "coords": [
+                        -80.251007,
+                        22.787513
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Maceo",
+                  "text": "Maceo tiszteletére emelt emlékmű Quemado de Güines városában.",
+                  "category": "historical",
+                  "coords": [
+                        -80.251007,
+                        22.787513
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Maceo",
+                  "text": "Un monument dedicat lui Maceo în Quemado de Güines.",
+                  "category": "historical",
+                  "coords": [
+                        -80.251007,
+                        22.787513
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Maceo",
+                  "text": "A monument dedicated to Maceo in Quemado de Güines.",
+                  "category": "historical",
+                  "coords": [
+                        -80.251007,
+                        22.787513
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CU-05",
     coords: [-80.25, 22.78],

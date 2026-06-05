@@ -381,7 +381,340 @@ export const poiExtraUaeCitiesV2: POI[] = [
     },
   },
   {
-    id: "uae-al-ain-cities-v2",
+    id: "uae-al-ain-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "حديقة العين للحيوانات",
+                  "text": "Der Al Ain Zoo ist ein bekannter zoologischer Park in Al Ain.",
+                  "category": "recreational",
+                  "coords": [
+                        55.733765,
+                        24.173282
+                  ]
+            },
+            {
+                  "name": "Al Ain Sheikh Zayed Palace Museum",
+                  "text": "Das Al Ain Sheikh Zayed Palace Museum ist eine historische Schlossanlage in Al Ain.",
+                  "category": "castle",
+                  "coords": [
+                        55.760892,
+                        24.214959
+                  ]
+            },
+            {
+                  "name": "AAN2564",
+                  "text": "AAN2564 ist ein malerischer Aussichtspunkt in Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.761645,
+                        24.191641
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "AAN2291 ist ein Aussichtspunkt in Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "Ein malerischer Aussichtspunkt in der Stadt Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "In Touch with Nature",
+                  "text": "Eine Touristenattraktion in Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740123,
+                        24.180994
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "Eine Ausstellungsgalerie in Al Ain.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "واحة العين",
+                  "text": "Eine bekannte Touristenattraktion in Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.769508,
+                        24.214742
+                  ]
+            },
+            {
+                  "name": "Viewing Platform",
+                  "text": "Eine Aussichtsplattform mit malerischem Blick in Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.750394,
+                        24.175094
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "حديقة العين للحيوانات",
+                  "text": "Az Al Ain Zoo egy elismert állatkert Al Ain városában.",
+                  "category": "recreational",
+                  "coords": [
+                        55.733765,
+                        24.173282
+                  ]
+            },
+            {
+                  "name": "Al Ain Sheikh Zayed Palace Museum",
+                  "text": "Az Al Ain Sheikh Zayed Palace Museum egy történelmi kastélyépület Al Ainban.",
+                  "category": "castle",
+                  "coords": [
+                        55.760892,
+                        24.214959
+                  ]
+            },
+            {
+                  "name": "AAN2564",
+                  "text": "Az AAN2564 egy festői kilátóhely Al Ain városában.",
+                  "category": "natural",
+                  "coords": [
+                        55.761645,
+                        24.191641
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "Az AAN2291 egy kilátópont Al Ainban.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "Egy festői kilátó Al Ain városában.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "In Touch with Nature",
+                  "text": "Egy turisztikai látványosság Al Ainban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740123,
+                        24.180994
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "Egy kiállítógaléria Al Ain városában.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "واحة العين",
+                  "text": "Egy kiemelkedő turisztikai látványosság Al Ainban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.769508,
+                        24.214742
+                  ]
+            },
+            {
+                  "name": "Viewing Platform",
+                  "text": "Egy festői kilátást nyújtó kilátóterasz Al Ainban.",
+                  "category": "natural",
+                  "coords": [
+                        55.750394,
+                        24.175094
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "حديقة العين للحيوانات",
+                  "text": "Al Ain Zoo este un parc zoologic renumit situat în Al Ain.",
+                  "category": "recreational",
+                  "coords": [
+                        55.733765,
+                        24.173282
+                  ]
+            },
+            {
+                  "name": "Al Ain Sheikh Zayed Palace Museum",
+                  "text": "Al Ain Sheikh Zayed Palace Museum este un castel istoric din Al Ain.",
+                  "category": "castle",
+                  "coords": [
+                        55.760892,
+                        24.214959
+                  ]
+            },
+            {
+                  "name": "AAN2564",
+                  "text": "AAN2564 este un punct de belvedere situat în Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.761645,
+                        24.191641
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "AAN2291 este un punct de observare din Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "Un punct de belvedere pitoresc situat în orașul Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "In Touch with Nature",
+                  "text": "O atracție turistică situată în Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740123,
+                        24.180994
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "O galerie expozițională situată în Al Ain.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "واحة العين",
+                  "text": "O atracție turistică importantă din Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.769508,
+                        24.214742
+                  ]
+            },
+            {
+                  "name": "Viewing Platform",
+                  "text": "O platformă de observare care oferă priveliști pitorești în Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.750394,
+                        24.175094
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Al Ain Zoo",
+                  "text": "Al Ain Zoo is a renowned zoological park located in Al Ain.",
+                  "category": "recreational",
+                  "coords": [
+                        55.733765,
+                        24.173282
+                  ]
+            },
+            {
+                  "name": "Al Ain Sheikh Zayed Palace Museum",
+                  "text": "Al Ain Sheikh Zayed Palace Museum is a historic castle structure in Al Ain.",
+                  "category": "castle",
+                  "coords": [
+                        55.760892,
+                        24.214959
+                  ]
+            },
+            {
+                  "name": "AAN2564",
+                  "text": "AAN2564 is a scenic viewpoint located in Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.761645,
+                        24.191641
+                  ]
+            },
+            {
+                  "name": "AAN2291",
+                  "text": "AAN2291 is a viewpoint offering scenery in Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.7575,
+                        24.19934
+                  ]
+            },
+            {
+                  "name": "AAN2059",
+                  "text": "A scenic viewpoint located in the city of Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.76464,
+                        24.19464
+                  ]
+            },
+            {
+                  "name": "In Touch with Nature",
+                  "text": "A tourist attraction situated in Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.740123,
+                        24.180994
+                  ]
+            },
+            {
+                  "name": "Mubarak bin London Exhibition",
+                  "text": "An exhibition gallery located in Al Ain.",
+                  "category": "museum",
+                  "coords": [
+                        55.752229,
+                        24.216462
+                  ]
+            },
+            {
+                  "name": "Al Ain Oasis",
+                  "text": "A prominent tourist attraction in Al Ain.",
+                  "category": "landmark",
+                  "coords": [
+                        55.769508,
+                        24.214742
+                  ]
+            },
+            {
+                  "name": "Viewing Platform",
+                  "text": "A viewing platform offering scenic vistas in Al Ain.",
+                  "category": "natural",
+                  "coords": [
+                        55.750394,
+                        24.175094
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AE-AZ",
     coords: [55.7605, 24.1916],
@@ -921,7 +1254,88 @@ export const poiExtraUaeCitiesV2: POI[] = [
     },
   },
   {
-    id: "uae-jebel-ali-cities-v2",
+    id: "uae-jebel-ali-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "BK gulf office",
+                  "text": "Ein Aussichtspunkt in Dschabal Ali.",
+                  "category": "natural",
+                  "coords": [
+                        55.108277,
+                        24.995259
+                  ]
+            },
+            {
+                  "name": "Karcher FZE",
+                  "text": "Eine lokale Sehenswürdigkeit in Dschabal Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        55.09467,
+                        24.961248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "BK gulf office",
+                  "text": "Egy kilátó Dzsabal Aliban.",
+                  "category": "natural",
+                  "coords": [
+                        55.108277,
+                        24.995259
+                  ]
+            },
+            {
+                  "name": "Karcher FZE",
+                  "text": "Egy helyi érdekes pont Dzsabal Aliban.",
+                  "category": "landmark",
+                  "coords": [
+                        55.09467,
+                        24.961248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "BK gulf office",
+                  "text": "Un punct de belvedere situat în Dschabal Ali.",
+                  "category": "natural",
+                  "coords": [
+                        55.108277,
+                        24.995259
+                  ]
+            },
+            {
+                  "name": "Karcher FZE",
+                  "text": "Un punct de interes local situat în Dschabal Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        55.09467,
+                        24.961248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "BK gulf office",
+                  "text": "A viewpoint located in Dschabal Ali.",
+                  "category": "natural",
+                  "coords": [
+                        55.108277,
+                        24.995259
+                  ]
+            },
+            {
+                  "name": "Karcher FZE",
+                  "text": "A local point of interest situated in Dschabal Ali.",
+                  "category": "landmark",
+                  "coords": [
+                        55.09467,
+                        24.961248
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AE-DU",
     coords: [55.0834, 24.9833],
@@ -981,7 +1395,88 @@ export const poiExtraUaeCitiesV2: POI[] = [
     },
   },
   {
-    id: "uae-khor-fakkan-cities-v2",
+    id: "uae-khor-fakkan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "Eine bedeutende archäologische Ausgrabungsstätte in Khor Fakkan.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "Ein Denkmal in Khor Fakkan, das an den lokalen Widerstand erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320678
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "Jelentős régészeti lelőhely Khor Fakkanban.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "A helyi ellenállásnak emléket állító emlékmű Khor Fakkanban.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320678
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "Un sit arheologic important în Khor Fakkan.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "Un monument în Khor Fakkan care comemorează rezistența locală.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320678
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadi Shi Archaeological Site",
+                  "text": "A significant archaeological site in Khor Fakkan.",
+                  "category": "historical",
+                  "coords": [
+                        56.326718,
+                        25.34696
+                  ]
+            },
+            {
+                  "name": "Resistance Monument",
+                  "text": "A monument in Khor Fakkan commemorating local resistance.",
+                  "category": "historical",
+                  "coords": [
+                        56.340602,
+                        25.320678
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AE-SH",
     coords: [56.3458, 25.3371],
@@ -1041,7 +1536,88 @@ export const poiExtraUaeCitiesV2: POI[] = [
     },
   },
   {
-    id: "uae-kalba-cities-v2",
+    id: "uae-kalba-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Culture Centre",
+                  "text": "Ein lokales Kulturzentrum und Museum in der Stadt Kalba.",
+                  "category": "museum",
+                  "coords": [
+                        56.365698,
+                        25.03098
+                  ]
+            },
+            {
+                  "name": "مركز كلباء للفنون",
+                  "text": "Ein Kunstzentrum in Kalba, das regionale kreative Werke ausstellt.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Culture Centre",
+                  "text": "Helyi kulturális központ és múzeum Kalba városában.",
+                  "category": "museum",
+                  "coords": [
+                        56.365698,
+                        25.03098
+                  ]
+            },
+            {
+                  "name": "مركز كلباء للفنون",
+                  "text": "Kalba művészeti központja, amely regionális alkotásokat mutat be.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Culture Centre",
+                  "text": "Un centru cultural și muzeu local din orașul Kalba.",
+                  "category": "museum",
+                  "coords": [
+                        56.365698,
+                        25.03098
+                  ]
+            },
+            {
+                  "name": "مركز كلباء للفنون",
+                  "text": "Un centru de artă din Kalba care expune lucrări creative regionale.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Culture Centre",
+                  "text": "A local cultural center and museum in the city of Kalba.",
+                  "category": "museum",
+                  "coords": [
+                        56.365698,
+                        25.03098
+                  ]
+            },
+            {
+                  "name": "Kalba Art Centre",
+                  "text": "An arts centre in Kalba showcasing regional creative works.",
+                  "category": "cultural",
+                  "coords": [
+                        56.361097,
+                        25.051682
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AE-SH",
     coords: [56.3497, 25.0483],
@@ -1281,7 +1857,52 @@ export const poiExtraUaeCitiesV2: POI[] = [
     },
   },
   {
-    id: "uae-manama-ajman-cities-v2",
+    id: "uae-manama-ajman-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "وادي النسيم",
+                  "text": "Ein Naturschutzgebiet in Manama.",
+                  "category": "natural",
+                  "coords": [
+                        55.988921,
+                        25.331561
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "وادي النسيم",
+                  "text": "Egy természetvédelmi terület Manamában.",
+                  "category": "natural",
+                  "coords": [
+                        55.988921,
+                        25.331561
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "وادي النسيم",
+                  "text": "O rezervație naturală situată în Manama.",
+                  "category": "natural",
+                  "coords": [
+                        55.988921,
+                        25.331561
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Wadi Al Naseem",
+                  "text": "A nature reserve preserving the local environment in Manama.",
+                  "category": "natural",
+                  "coords": [
+                        55.988921,
+                        25.331561
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AE-AJ",
     coords: [56.0126, 25.3267],
@@ -1641,7 +2262,124 @@ export const poiExtraUaeCitiesV2: POI[] = [
     },
   },
   {
-    id: "uae-dibba-al-fujairah-cities-v2",
+    id: "uae-dibba-al-fujairah-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dibba Hisn Publlic Beach",
+                  "text": "Ein öffentlicher Strand in Dibba Al-Fujairah.",
+                  "category": "recreational",
+                  "coords": [
+                        56.273337,
+                        25.622652
+                  ]
+            },
+            {
+                  "name": "Dibba Hisn Public Beach+",
+                  "text": "Ein Strandbereich in Dibba Al-Fujairah.",
+                  "category": "recreational",
+                  "coords": [
+                        56.272263,
+                        25.624153
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "Ein lokales Theater in Dibba Al-Fujairah.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276505,
+                        25.601916
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dibba Hisn Publlic Beach",
+                  "text": "Egy nyilvános strand Dibba Al-Fujairah-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        56.273337,
+                        25.622652
+                  ]
+            },
+            {
+                  "name": "Dibba Hisn Public Beach+",
+                  "text": "Egy strandterület Dibba Al-Fujairah-ban.",
+                  "category": "recreational",
+                  "coords": [
+                        56.272263,
+                        25.624153
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "Egy helyi színház Dibba Al-Fujairah-ban.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276505,
+                        25.601916
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dibba Hisn Publlic Beach",
+                  "text": "O plajă publică situată în Dibba Al-Fujairah.",
+                  "category": "recreational",
+                  "coords": [
+                        56.273337,
+                        25.622652
+                  ]
+            },
+            {
+                  "name": "Dibba Hisn Public Beach+",
+                  "text": "O zonă de plajă situată în Dibba Al-Fujairah.",
+                  "category": "recreational",
+                  "coords": [
+                        56.272263,
+                        25.624153
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "Un teatru local situat în Dibba Al-Fujairah.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276505,
+                        25.601916
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dibba Hisn Publlic Beach",
+                  "text": "A public beach located in Dibba Al-Fujairah.",
+                  "category": "recreational",
+                  "coords": [
+                        56.273337,
+                        25.622652
+                  ]
+            },
+            {
+                  "name": "Dibba Hisn Public Beach+",
+                  "text": "A beach area situated in Dibba Al-Fujairah.",
+                  "category": "recreational",
+                  "coords": [
+                        56.272263,
+                        25.624153
+                  ]
+            },
+            {
+                  "name": "Dibba Theater",
+                  "text": "A local theater venue located in Dibba Al-Fujairah.",
+                  "category": "cultural",
+                  "coords": [
+                        56.276505,
+                        25.601916
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "AE-FU",
     coords: [56.2626, 25.6025],

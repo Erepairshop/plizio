@@ -678,7 +678,268 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-vranje-textile-industry-economic-v2.webp",
   },
   {
-    id: "serbia-sombor-agricultural-hub-economic-v2",
+    id: "serbia-sombor-agricultural-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Народно позориште Сомбор",
+                  "text": "Ein bedeutendes Theatergebäude in Sombor, bekannt für seine lange kulturelle Tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Препарандија",
+                  "text": "Ein historisches Museumsgebäude in Sombor, das ehemals als Lehrerbildungsanstalt diente.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Галерија Милан Коњовић",
+                  "text": "Diese Galerie ist dem Werk des berühmten serbischen Malers Milan Konjović gewidmet.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Културни центар ”Лаза Костић”",
+                  "text": "Ein Zentrum für kulturelle Aktivitäten, Ausstellungen und künstlerische Darbietungen in Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Црква Пресветог Тројства",
+                  "text": "Eine bedeutende römisch-katholische Kirche im Herzen von Sombor, bekannt für ihre Architektur.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Црква Светог Георгија",
+                  "text": "Eine wichtige serbisch-orthodoxe Kathedrale, die für ihre historische Architektur bekannt ist.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            },
+            {
+                  "name": "Манастир Светог Архиђакона Стефана",
+                  "text": "Ein serbisch-orthodoxes Kloster, das sich am Rande der Stadt Sombor befindet.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Народно позориште Сомбор",
+                  "text": "Sombor jelentős színházépülete, amely hosszú kulturális hagyományairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Препарандија",
+                  "text": "Történelmi múzeumépület Somborban, amely korábban tanítóképzőként működött.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Галерија Милан Коњовић",
+                  "text": "Ez a galéria Milan Konjović híres szerb festőművész munkásságának van szentelve.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Културни центар ”Лаза Костић”",
+                  "text": "Kulturális tevékenységek, kiállítások és művészeti előadások központja Zomborban.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Црква Пресветог Тројства",
+                  "text": "Zombor szívében található jelentős római katolikus templom, amely építészetéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Црква Светог Георгија",
+                  "text": "Fontos szerb ortodox székesegyház, amely történelmi építészetéről nevezetes.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            },
+            {
+                  "name": "Манастир Светог Архиђакона Стефана",
+                  "text": "Zombor városának szélén található szerb ortodox kolostor.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Народно позориште Сомбор",
+                  "text": "O clădire teatrală importantă din Sombor, cunoscută pentru lunga sa tradiție culturală.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Препарандија",
+                  "text": "O clădire muzeală istorică din Sombor, care a servit în trecut ca instituție de formare a profesorilor.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Галерија Милан Коњовић",
+                  "text": "Această galerie este dedicată operei celebrului pictor sârb Milan Konjović.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Културни центар ”Лаза Костић”",
+                  "text": "Un centru pentru activități culturale, expoziții și spectacole artistice în Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Црква Пресветог Тројства",
+                  "text": "O importantă biserică romano-catolică situată în inima orașului Sombor, cunoscută pentru arhitectura sa.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Црква Светог Георгија",
+                  "text": "O importantă catedrală ortodoxă sârbă, cunoscută pentru arhitectura sa istorică.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            },
+            {
+                  "name": "Манастир Светог Архиђакона Стефана",
+                  "text": "O mănăstire ortodoxă sârbă situată la marginea orașului Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Народно позориште Сомбор",
+                  "text": "An important theatre building in Sombor, known for its long cultural tradition.",
+                  "category": "cultural",
+                  "coords": [
+                        19.112174,
+                        45.77232
+                  ]
+            },
+            {
+                  "name": "Препарандија",
+                  "text": "A historic museum building in Sombor, formerly used as a teacher training college.",
+                  "category": "museum",
+                  "coords": [
+                        19.113753,
+                        45.774696
+                  ]
+            },
+            {
+                  "name": "Галерија Милан Коњовић",
+                  "text": "This gallery is dedicated to the work of the famous Serbian painter Milan Konjović.",
+                  "category": "museum",
+                  "coords": [
+                        19.113573,
+                        45.77212
+                  ]
+            },
+            {
+                  "name": "Културни центар ”Лаза Костић”",
+                  "text": "A hub for cultural activities, exhibitions, and artistic performances in Sombor.",
+                  "category": "cultural",
+                  "coords": [
+                        19.109652,
+                        45.772969
+                  ]
+            },
+            {
+                  "name": "Црква Пресветог Тројства",
+                  "text": "A significant Roman Catholic church located in the heart of Sombor, known for its architecture.",
+                  "category": "religious",
+                  "coords": [
+                        19.1134,
+                        45.773367
+                  ]
+            },
+            {
+                  "name": "Црква Светог Георгија",
+                  "text": "An important Serbian Orthodox cathedral known for its historic architecture.",
+                  "category": "religious",
+                  "coords": [
+                        19.115042,
+                        45.773927
+                  ]
+            },
+            {
+                  "name": "Манастир Светог Архиђакона Стефана",
+                  "text": "A Serbian Orthodox monastery located on the outskirts of the city of Sombor.",
+                  "category": "religious",
+                  "coords": [
+                        19.133855,
+                        45.778146
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Agrarzentrum Sombor", hu: "Zombori agrárközpont", ro: "Centrul agricol Sombor", en: "Sombor Agricultural Hub" },
@@ -993,7 +1254,448 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-krusevac-manufacturing-hub-economic-v2.webp",
   },
   {
-    id: "serbia-zajecar-industrial-hub-economic-v2",
+    id: "serbia-zajecar-industrial-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Источна тврђава",
+                  "text": "Eine historische Festungsanlage zum Schutz der Stadt Zaječar.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Народно позориште Тимочке Крајине „Зоран Радмиловић”",
+                  "text": "Das professionelle Theater der Stadt, benannt nach dem berühmten Schauspieler Zoran Radmilović.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Музеј града Зајечара",
+                  "text": "Das Nationalmuseum in Zaječar präsentiert lokale archäologische und historische Funde.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Радул-бегов конак",
+                  "text": "Ein historisches Gebäude im balkanischen Stil, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Историјски архив „Тимочка Крајина”",
+                  "text": "Ein Archiv, das bedeutende historische Dokumente der Region Timok-Tal bewahrt.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Споменик Зорану Радмиловићу",
+                  "text": "Ein Denkmal zu Ehren des berühmten serbischen Schauspielers Zoran Radmilović.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Спомен парк-шума „Краљевица”",
+                  "text": "Ein weitläufiger Waldpark und Gedenkstätte am Rande von Zaječar.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Споменик стрељаним жртвама Тимочке буне",
+                  "text": "Ein Denkmal zur Erinnerung an den Timoker Aufstand von 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Споменик Николи Пашићу",
+                  "text": "Denkmal für den bedeutenden serbischen Staatsmann Nikola Pašić, der in Zaječar geboren wurde.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Ein Denkmal für Hajduk Veljko Petrović, einen Helden des Ersten Serbischen Aufstands.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Попова плажа",
+                  "text": "Ein beliebtes Sport- und Erholungszentrum am Ufer des Flusses Timok.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Споменик Вешала",
+                  "text": "Eine Gedenkstätte für die Opfer des Zweiten Weltkriegs in Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Источна тврђава",
+                  "text": "Zaječar városának védelmére épült történelmi erődrendszer része.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Народно позориште Тимочке Крајине „Зоран Радмиловић”",
+                  "text": "A város szakmai színháza, amely Zoran Radmilović híres színész nevét viseli.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Музеј града Зајечара",
+                  "text": "A zaječari nemzeti múzeum helyi régészeti és történelmi leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Радул-бегов конак",
+                  "text": "Egy patinás, balkáni stílusú épület, amely ma múzeumnak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Историјски архив „Тимочка Крајина”",
+                  "text": "A Timok-völgy régiójának jelentős történelmi dokumentumait őrző archívum.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Споменик Зорану Радмиловићу",
+                  "text": "Emlékmű a híres szerb színész, Zoran Radmilović tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Спомен парк-шума „Краљевица”",
+                  "text": "Egy kiterjedt erdőpark és emlékhely Zaječar szélén.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Споменик стрељаним жртвама Тимочке буне",
+                  "text": "Az 1883-as timoki lázadás emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Споменик Николи Пашићу",
+                  "text": "Emlékmű Nikola Pašić neves szerb államférfi tiszteletére, aki Zaječarban született.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Emlékmű Hajduk Veljko Petrović, az első szerb felkelés hősének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Попова плажа",
+                  "text": "Népszerű sport- és szabadidőközpont a Timok-folyó partján.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Споменик Вешала",
+                  "text": "Emlékhely a második világháború zaječari áldozatainak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Источна тврђава",
+                  "text": "O fortificație istorică ce face parte din sistemul de apărare al orașului Zaječar.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Народно позориште Тимочке Крајине „Зоран Радмиловић”",
+                  "text": "Teatrul profesionist al orașului, numit după celebrul actor Zoran Radmilović.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Музеј града Зајечара",
+                  "text": "Muzeul Național din Zaječar prezintă descoperiri arheologice și istorice locale.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Радул-бегов конак",
+                  "text": "O clădire istorică în stil balcanic, care servește astăzi ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Историјски архив „Тимочка Крајина”",
+                  "text": "Un arhivă care păstrează documente istorice importante ale regiunii Valea Timocului.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Споменик Зорану Радмиловићу",
+                  "text": "Un monument ridicat în cinstea celebrului actor sârb Zoran Radmilović.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Спомен парк-шума „Краљевица”",
+                  "text": "Un parc forestier extins și loc memorial situat la marginea orașului Zaječar.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Споменик стрељаним жртвама Тимочке буне",
+                  "text": "Un monument dedicat amintirii revoltei din Timoc din anul 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Споменик Николи Пашићу",
+                  "text": "Monument dedicat omului de stat sârb Nikola Pašić, care s-a născut la Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "Un monument închinat lui Hajduk Veljko Petrović, un erou al primei răscoale sârbe.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Попова плажа",
+                  "text": "Un popular centru sportiv și de recreere situat pe malul râului Timoc.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "Споменик Вешала",
+                  "text": "Un monument memorial dedicat victimelor celui de-al Doilea Război Mondial din Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zaječar Eastern Fortress",
+                  "text": "A historical fortification part of the defensive system of Zaječar.",
+                  "category": "fortress",
+                  "coords": [
+                        22.28581,
+                        43.893945
+                  ]
+            },
+            {
+                  "name": "Zoran Radmilović National Theater of Timok Valley",
+                  "text": "The city's professional theater, named after the famous actor Zoran Radmilović.",
+                  "category": "cultural",
+                  "coords": [
+                        22.274761,
+                        43.901099
+                  ]
+            },
+            {
+                  "name": "Музеј града Зајечара",
+                  "text": "The National Museum in Zaječar presents local archaeological and historical findings.",
+                  "category": "museum",
+                  "coords": [
+                        22.278768,
+                        43.903485
+                  ]
+            },
+            {
+                  "name": "Radul-Bey's Residence",
+                  "text": "A historical building in Balkan style that now serves as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        22.279295,
+                        43.902007
+                  ]
+            },
+            {
+                  "name": "Timok Valley Historical Archive",
+                  "text": "An archive preserving important historical documents of the Timok Valley region.",
+                  "category": "museum",
+                  "coords": [
+                        22.270801,
+                        43.902638
+                  ]
+            },
+            {
+                  "name": "Zoran Radmilović Monument",
+                  "text": "A monument dedicated to the famous Serbian actor Zoran Radmilović.",
+                  "category": "historical",
+                  "coords": [
+                        22.276525,
+                        43.901381
+                  ]
+            },
+            {
+                  "name": "Kraljevica Memorial Park and Forest",
+                  "text": "A spacious forest park and memorial site located on the outskirts of Zaječar.",
+                  "category": "park",
+                  "coords": [
+                        22.273296,
+                        43.885183
+                  ]
+            },
+            {
+                  "name": "Monument to the Timok Rebellion",
+                  "text": "A monument commemorating the Timok Rebellion of 1883.",
+                  "category": "historical",
+                  "coords": [
+                        22.278652,
+                        43.89467
+                  ]
+            },
+            {
+                  "name": "Monument to Nikola Pašić",
+                  "text": "Monument to the prominent Serbian statesman Nikola Pašić, who was born in Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.276144,
+                        43.903331
+                  ]
+            },
+            {
+                  "name": "Hajduk Veljko",
+                  "text": "A monument to Hajduk Veljko Petrović, a hero of the First Serbian Uprising.",
+                  "category": "historical",
+                  "coords": [
+                        22.286917,
+                        43.90703
+                  ]
+            },
+            {
+                  "name": "Попова плажа",
+                  "text": "A popular sports and recreational center on the banks of the Timok River.",
+                  "category": "recreational",
+                  "coords": [
+                        22.276548,
+                        43.909344
+                  ]
+            },
+            {
+                  "name": "The Gallows Monument",
+                  "text": "A memorial site dedicated to the victims of World War II in Zaječar.",
+                  "category": "historical",
+                  "coords": [
+                        22.264806,
+                        43.889121
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Industriezentrum Zaječar", hu: "Zaječari ipari központ", ro: "Centrul industrial Zaječar", en: "Zajecar Industrial Hub" },
@@ -1128,7 +1830,160 @@ export const serbiaEconomicV2: POI[] = [
     image: "/poi-images/serbia-novi-sad-industrial-zone-economic-v2.webp",
   },
   {
-    id: "serbia-prokuplje-industry-economic-v2",
+    id: "serbia-prokuplje-industry-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Римско купатило",
+                  "text": "Archäologische Stätte, die Überreste eines antiken römischen Bades zeigt.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Споменик Топличанима",
+                  "text": "Ein Denkmal für die Gefallenen der Region Toplica in den Kriegen von 1912 bis 1918.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Хамам",
+                  "text": "Überreste eines historischen türkischen Bades aus der osmanischen Zeit.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Др Зоран Ђинђић",
+                  "text": "Ein Denkmal zu Ehren des ermordeten serbischen Premierministers Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Римско купатило",
+                  "text": "Régészeti lelőhely, amely egy ókori római fürdő maradványait mutatja be.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Споменик Топличанима",
+                  "text": "Emlékmű a Toplica régió 1912 és 1918 közötti háborúkban elesett hőseinek.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Хамам",
+                  "text": "Egy történelmi török fürdő maradványai az oszmán korból.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Др Зоран Ђинђић",
+                  "text": "Emlékmű a meggyilkolt szerb miniszterelnök, Zoran Đinđić tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Римско купатило",
+                  "text": "Sit arheologic care prezintă rămășițele unei băi romane antice.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Споменик Топличанима",
+                  "text": "Un monument dedicat celor căzuți din regiunea Toplica în războaiele dintre 1912 și 1918.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Хамам",
+                  "text": "Rămășițele unei băi turcești istorice din perioada otomană.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Др Зоран Ђинђић",
+                  "text": "Un monument ridicat în onoarea premierului sârb asasinat, Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Римско купатило",
+                  "text": "Archaeological site showing the remains of an ancient Roman bath.",
+                  "category": "historical",
+                  "coords": [
+                        21.583413,
+                        43.230182
+                  ]
+            },
+            {
+                  "name": "Споменик Топличанима",
+                  "text": "A monument to the fallen of the Toplica region in the wars from 1912 to 1918.",
+                  "category": "historical",
+                  "coords": [
+                        21.587342,
+                        43.234496
+                  ]
+            },
+            {
+                  "name": "Хамам",
+                  "text": "Remains of a historic Turkish bath from the Ottoman period.",
+                  "category": "historical",
+                  "coords": [
+                        21.588825,
+                        43.232299
+                  ]
+            },
+            {
+                  "name": "Др Зоран Ђинђић",
+                  "text": "A monument in honor of the assassinated Serbian Prime Minister Zoran Đinđić.",
+                  "category": "historical",
+                  "coords": [
+                        21.60424,
+                        43.237676
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "RS",
     name: { de: "Industriezentrum Prokuplje", hu: "Prokupljei ipari központ", ro: "Centrul industrial Prokuplje", en: "Prokuplje Industrial Center" },

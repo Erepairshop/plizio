@@ -45,7 +45,124 @@ export const trinidadCities: POI[] = [
       pt: ["Elevada ao status de cidade em 1988", "Porta de entrada para o cinturão de petróleo do sul", "Com o Harris Promenade", "Centro histórico do comércio de açúcar"],
       fr: ["A obtenu le statut de ville en 1988", "Porte d'entrée de la ceinture pétrolière sud", "Abrite la Harris Promenade", "Centre historique du commerce du sucre"],
     }, area: 18, historyYear: 1784, image: "/poi-images/tt-sanfernando.webp"},
-  { id: "tt-arima", type: "city", parent: "TT", coords: [-61.2833, 10.6333], name: { de: "Arima", hu: "Arima", ro: "Arima", en: "Arima" }, description: { de: "Ein bedeutendes Geschäftszentrum im Osten von Trinidad.", hu: "Jelentős kereskedelmi központ Kelet-Trinidadban.", ro: "Un important centru comercial în estul Trinidadului.", en: "A major commercial hub in eastern Trinidad." , es: "Un importante centro comercial en el este de Trinidad.", pt: "Um importante centro comercial no leste de Trinidad.", fr: "Un centre commercial important dans l'est de Trinidad."},
+  { id: "tt-arima", "sights": {
+      "de": [
+            {
+                  "name": "Amerindian Display",
+                  "text": "Eine Ausstellung in Arima, die der indigenen Kultur und Geschichte gewidmet ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.299346,
+                        10.631228
+                  ]
+            },
+            {
+                  "name": "Loveday House",
+                  "text": "Ein Ort in Arima, der einen weiten Blick über die Umgebung bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -61.274853,
+                        10.611364
+                  ]
+            },
+            {
+                  "name": "Emmanus Center",
+                  "text": "Ein Gemeindezentrum und Ausflugsziel in Arima.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.278613,
+                        10.645919
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Amerindian Display",
+                  "text": "Az őslakos kultúrának és történelemnek szentelt kiállítás Arimában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.299346,
+                        10.631228
+                  ]
+            },
+            {
+                  "name": "Loveday House",
+                  "text": "Egy hely Arimában, amely széles kilátást nyújt a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -61.274853,
+                        10.611364
+                  ]
+            },
+            {
+                  "name": "Emmanus Center",
+                  "text": "Közösségi központ és látogatható helyszín Arimában.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.278613,
+                        10.645919
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Amerindian Display",
+                  "text": "O expoziție în Arima dedicată culturii și istoriei indigene.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.299346,
+                        10.631228
+                  ]
+            },
+            {
+                  "name": "Loveday House",
+                  "text": "Un loc din Arima care oferă o vedere panoramică asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -61.274853,
+                        10.611364
+                  ]
+            },
+            {
+                  "name": "Emmanus Center",
+                  "text": "Un centru comunitar și punct de interes din Arima.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.278613,
+                        10.645919
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Amerindian Display",
+                  "text": "An exhibition in Arima dedicated to indigenous culture and history.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.299346,
+                        10.631228
+                  ]
+            },
+            {
+                  "name": "Loveday House",
+                  "text": "A location in Arima offering broad views over the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -61.274853,
+                        10.611364
+                  ]
+            },
+            {
+                  "name": "Emmanus Center",
+                  "text": "A community center and point of interest in Arima.",
+                  "category": "landmark",
+                  "coords": [
+                        -61.278613,
+                        10.645919
+                  ]
+            }
+      ]
+}, type: "city", parent: "TT", coords: [-61.2833, 10.6333], name: { de: "Arima", hu: "Arima", ro: "Arima", en: "Arima" }, description: { de: "Ein bedeutendes Geschäftszentrum im Osten von Trinidad.", hu: "Jelentős kereskedelmi központ Kelet-Trinidadban.", ro: "Un important centru comercial în estul Trinidadului.", en: "A major commercial hub in eastern Trinidad." , es: "Un importante centro comercial en el este de Trinidad.", pt: "Um importante centro comercial no leste de Trinidad.", fr: "Un centre commercial important dans l'est de Trinidad."},
     descriptionAdvanced: {
       de: "Arima ist die drittgrößte Stadt von Trinidad und Tobago und liegt strategisch am Fuße der Northern Range im Osten der Insel Trinidad. Die Stadt besitzt eine einzigartige historische Bedeutung, da sie 1757 als spanische Mission für die indigenen Amerindianer vom Stamm der Nepuyo gegründet wurde, um die Ureinwohner an einem Ort zu konzentrieren. Bis heute ist Arima der offizielle Sitz der Santa Rosa First Peoples Community, der einzigen staatlich anerkannten Organisation, die das Erbe und die Rechte der Nachfahren der Ureinwohner vertritt. Jedes Jahr im August feiert die Stadt das Santa Rosa Festival, eine prachtvolle Zeremonie mit religiösen Prozessionen und traditionellen Riten, die die indigenen Wurzeln der Region ehren. Geografisch fungiert Arima als wichtiges Tor zu den östlichen Gebieten der Insel und als lebhaftes Handelszentrum für die umliegenden landwirtschaftlichen Gemeinden. Die Nähe zum internationalen Flughafen Piarco hat Arima zudem zu einem bedeutenden logistischen Knotenpunkt und Standort für Industrie und Gewerbe gemacht.",
       hu: "Arima Trinidad és Tobago harmadik legnagyobb városa, amely Trinidad szigetének keleti részén, a Northern Range hegység erdős lábánál fekszik. A település különleges történelmi jelentőséggel bír, mivel 1757-ben spanyol misszióként alapították az őslakos indiánok (nepuyo törzs) számára, akiket a gyarmatosítók a sziget más részeiről telepítettek ide. Arima ma is a Santa Rosa First Peoples Community székhelye, amely az ország egyetlen hivatalosan elismert szervezete az őslakosok leszármazottai számára, ápolva őseik hagyományait. Minden év augusztusában megrendezik a Santa Rosa Fesztivált, amely látványos vallási körmenetekkel és tradicionális indián rituálékkal tiszteleg a város alapítói előtt. Földrajzi elhelyezkedése révén a város fontos kereskedelmi kapu a sziget keleti régiói felé, és központi piacot biztosít a környező mezőgazdasági területeknek. A Piarco nemzetközi repülőtér közelsége révén Arima az ország egyik legfontosabb logisztikai és közlekedési csomópontjává vált az elmúlt évtizedekben.",

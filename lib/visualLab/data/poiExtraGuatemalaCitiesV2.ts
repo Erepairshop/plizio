@@ -288,7 +288,124 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Santa Lucía Cotzumalguapa se trouve à environ 90 kilomètres au sud de la ville de Guatemala.", "Le site archéologique de Bilbao est célèbre pour ses bas-reliefs en pierre.", "À El Baúl se dresse une stèle importante portant une date de l'an 37 après J.-C.", "La ville est l'un des plus grands employeurs de l'agro-industrie régionale.", "Le volcan Fuego est souvent clairement visible depuis la ville.", "Santa Lucía Cotzumalguapa fête sa fête principale en décembre en l'honneur de Sainte-Lucie."],
     }, image: "/poi-images/gt-santa-lucia-cotzumalguapa-cities-v2.webp"},
   {
-    id: "gt-puerto-san-jose-cities-v2",
+    id: "gt-puerto-san-jose-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Playa Pública Puerto San José",
+                  "text": "Ein öffentlicher Strand in Puerto San José, beliebt bei Einheimischen und Touristen.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.813114,
+                        13.916879
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "Ein Wasserpark in Puerto San José mit verschiedenen Rutschen und Pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.817704,
+                        13.918659
+                  ]
+            },
+            {
+                  "name": "Monumento al Comando Base Naval del Pacífico",
+                  "text": "Ein Denkmal in Puerto San José zu Ehren des Marinekommandos des Pazifiks.",
+                  "category": "historical",
+                  "coords": [
+                        -90.803083,
+                        13.928942
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Playa Pública Puerto San José",
+                  "text": "Puerto San José nyilvános strandja, amely a helyiek és a turisták körében is népszerű.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.813114,
+                        13.916879
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "Vízi park Puerto San Joséban, különféle csúszdákkal és medencékkel.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.817704,
+                        13.918659
+                  ]
+            },
+            {
+                  "name": "Monumento al Comando Base Naval del Pacífico",
+                  "text": "Emlékmű Puerto San Joséban a Csendes-óceáni Tengerészeti Parancsnokság tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -90.803083,
+                        13.928942
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Playa Pública Puerto San José",
+                  "text": "O plajă publică în Puerto San José, populară printre localnici și turiști.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.813114,
+                        13.916879
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "Un parc acvatic în Puerto San José, cu diverse tobogane și piscine.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.817704,
+                        13.918659
+                  ]
+            },
+            {
+                  "name": "Monumento al Comando Base Naval del Pacífico",
+                  "text": "Un monument în Puerto San José dedicat Comandamentului Naval al Pacificului.",
+                  "category": "historical",
+                  "coords": [
+                        -90.803083,
+                        13.928942
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Playa Pública Puerto San José",
+                  "text": "A public beach in Puerto San José, popular with locals and tourists.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.813114,
+                        13.916879
+                  ]
+            },
+            {
+                  "name": "Aqua Magic",
+                  "text": "A water park in Puerto San José featuring various slides and pools.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.817704,
+                        13.918659
+                  ]
+            },
+            {
+                  "name": "Monumento al Comando Base Naval del Pacífico",
+                  "text": "A monument in Puerto San José honoring the Pacific Naval Command.",
+                  "category": "historical",
+                  "coords": [
+                        -90.803083,
+                        13.928942
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-ES",
     coords: [-90.8253, 13.9264],
@@ -357,7 +474,124 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       en: ["Totonicapán is located at an elevation of 2,495 meters (8,186 feet).", "The city was officially established on July 13, 1544.", "It was the site of the 1820 indigenous revolt, the most significant in the region's history.", "The '48 Cantones' governing body is recognized as a constitutional entity.", "It is the primary center for traditional ceremonial mask carving in Guatemala.", "The municipality serves as the departmental capital of Totonicapán.", "St. Michael the Archangel is the patron saint, celebrated every September 29th.", "The climate is temperate-cold, with frost occurring frequently from November to January."],
     }, image: "/poi-images/gt-totonicapan-cities-v2.webp"},
   {
-    id: "gt-coatepeque-cities-v2",
+    id: "gt-coatepeque-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Capri",
+                  "text": "Ein lokales Theater für kulturelle Aufführungen in Coatepeque.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.862117,
+                        14.702905
+                  ]
+            },
+            {
+                  "name": "Las Conchitas",
+                  "text": "Ein Naturschutzgebiet, das die lokale Flora und Fauna in Coatepeque bewahrt.",
+                  "category": "natural",
+                  "coords": [
+                        -91.866074,
+                        14.704961
+                  ]
+            },
+            {
+                  "name": "SAnta Ilaria",
+                  "text": "Historische Ruinen einer alten Anlage in Coatepeque.",
+                  "category": "historical",
+                  "coords": [
+                        -91.864865,
+                        14.700017
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Capri",
+                  "text": "Helyi színház kulturális előadások számára Coatepeque városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.862117,
+                        14.702905
+                  ]
+            },
+            {
+                  "name": "Las Conchitas",
+                  "text": "Természetvédelmi terület, amely a helyi élővilágot őrzi Coatepeque közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -91.866074,
+                        14.704961
+                  ]
+            },
+            {
+                  "name": "SAnta Ilaria",
+                  "text": "Egy régi építmény történelmi romjai Coatepeque területén.",
+                  "category": "historical",
+                  "coords": [
+                        -91.864865,
+                        14.700017
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Capri",
+                  "text": "Un teatru local pentru spectacole culturale în Coatepeque.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.862117,
+                        14.702905
+                  ]
+            },
+            {
+                  "name": "Las Conchitas",
+                  "text": "O rezervație naturală care protejează flora și fauna locală în Coatepeque.",
+                  "category": "natural",
+                  "coords": [
+                        -91.866074,
+                        14.704961
+                  ]
+            },
+            {
+                  "name": "SAnta Ilaria",
+                  "text": "Ruinele istorice ale unei vechi structuri în Coatepeque.",
+                  "category": "historical",
+                  "coords": [
+                        -91.864865,
+                        14.700017
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Capri",
+                  "text": "A local theatre for cultural performances in Coatepeque.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.862117,
+                        14.702905
+                  ]
+            },
+            {
+                  "name": "Las Conchitas",
+                  "text": "A nature reserve preserving local flora and fauna in Coatepeque.",
+                  "category": "natural",
+                  "coords": [
+                        -91.866074,
+                        14.704961
+                  ]
+            },
+            {
+                  "name": "SAnta Ilaria",
+                  "text": "Historical ruins of an ancient structure in Coatepeque.",
+                  "category": "historical",
+                  "coords": [
+                        -91.864865,
+                        14.700017
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-QZ",
     coords: [-91.8667, 14.7000],
@@ -384,7 +618,52 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Appartient au département de Quetzaltenango.", "Connue comme la cité-jardin du sud.", "Centre important pour la production de café et de caoutchouc.", "Carrefour stratégique sur la route vers le Mexique.", "Le chemin de fer a atteint la ville en 1887.", "La Feria de Verano annuelle a lieu en mars."],
     }, image: "/poi-images/gt-coatepeque-cities-v2.webp"},
   {
-    id: "gt-san-pedro-carcha-cities-v2",
+    id: "gt-san-pedro-carcha-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Puente Antiguo Chixtún",
+                  "text": "Eine historische Brücke in San Pedro Carchá, Guatemala.",
+                  "category": "historical",
+                  "coords": [
+                        -90.308832,
+                        15.48067
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Puente Antiguo Chixtún",
+                  "text": "Történelmi híd San Pedro Carchá településen, Guatemalában.",
+                  "category": "historical",
+                  "coords": [
+                        -90.308832,
+                        15.48067
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Puente Antiguo Chixtún",
+                  "text": "Un pod istoric situat în San Pedro Carchá, Guatemala.",
+                  "category": "historical",
+                  "coords": [
+                        -90.308832,
+                        15.48067
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Puente Antiguo Chixtún",
+                  "text": "A historical bridge in San Pedro Carchá, Guatemala.",
+                  "category": "historical",
+                  "coords": [
+                        -90.308832,
+                        15.48067
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-AV",
     coords: [-90.2833, 15.4833],
@@ -459,7 +738,232 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Située dans le département de Santa Rosa.", "Nœud important sur la route panaméricaine.", "Près du pont historique Los Esclavos (1592).", "Centre de production de café dans le sud du Guatemala.", "Climat chaud et tempéré.", "Essentielle pour le commerce avec le Salvador."],
     }, image: "/poi-images/gt-barberena-cities-v2.webp"},
   {
-    id: "gt-jacaltenango-cities-v2",
+    id: "gt-jacaltenango-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "EUPHORIA JAKAL",
+                  "text": "Ein Veranstaltungsort für darstellende Künste in Jacaltenango.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.709986,
+                        15.664134
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Bosque Tz'ahab' Tonh",
+                  "text": "Ein regionales Naturschutzgebiet mit geschützten Waldflächen in Jacaltenango.",
+                  "category": "natural",
+                  "coords": [
+                        -91.700982,
+                        15.641955
+                  ]
+            },
+            {
+                  "name": "Puente Viejo del Rio Azul",
+                  "text": "Ein historisches Brückendenkmal über den Rio Azul in Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.697949,
+                        15.66729
+                  ]
+            },
+            {
+                  "name": "El Monumento",
+                  "text": "Ein lokales Denkmal zu Ehren der Geschichte von Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708313,
+                        15.661856
+                  ]
+            },
+            {
+                  "name": "Plazita de",
+                  "text": "Ein kleines Denkmal an einem öffentlichen Platz in Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708107,
+                        15.666416
+                  ]
+            },
+            {
+                  "name": "Río Azul (Jacaltenango)",
+                  "text": "Ein malerischer Flussabschnitt und Ausflugsziel in Jacaltenango.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.694418,
+                        15.665316
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "EUPHORIA JAKAL",
+                  "text": "Előadó-művészeti helyszín Jacaltenango városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.709986,
+                        15.664134
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Bosque Tz'ahab' Tonh",
+                  "text": "Regionális természetvédelmi terület védett erdőkkel Jacaltenango környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -91.700982,
+                        15.641955
+                  ]
+            },
+            {
+                  "name": "Puente Viejo del Rio Azul",
+                  "text": "Történelmi híd-emlékmű a Rio Azul felett Jacaltenango városában.",
+                  "category": "historical",
+                  "coords": [
+                        -91.697949,
+                        15.66729
+                  ]
+            },
+            {
+                  "name": "El Monumento",
+                  "text": "Helyi emlékmű Jacaltenango történelmének tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708313,
+                        15.661856
+                  ]
+            },
+            {
+                  "name": "Plazita de",
+                  "text": "Kisméretű emlékmű egy nyilvános téren Jacaltenango városában.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708107,
+                        15.666416
+                  ]
+            },
+            {
+                  "name": "Río Azul (Jacaltenango)",
+                  "text": "Gleccserfolyó-szakasz és kedvelt kirándulóhely Jacaltenango környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.694418,
+                        15.665316
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "EUPHORIA JAKAL",
+                  "text": "Un spațiu pentru artele spectacolului în Jacaltenango.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.709986,
+                        15.664134
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Bosque Tz'ahab' Tonh",
+                  "text": "O rezervație naturală regională cu zone împădurite protejate în Jacaltenango.",
+                  "category": "natural",
+                  "coords": [
+                        -91.700982,
+                        15.641955
+                  ]
+            },
+            {
+                  "name": "Puente Viejo del Rio Azul",
+                  "text": "Un monument istoric reprezentat de un pod peste Rio Azul în Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.697949,
+                        15.66729
+                  ]
+            },
+            {
+                  "name": "El Monumento",
+                  "text": "Un monument local în cinstea istoriei orașului Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708313,
+                        15.661856
+                  ]
+            },
+            {
+                  "name": "Plazita de",
+                  "text": "Un mic monument situat într-o piață publică din Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708107,
+                        15.666416
+                  ]
+            },
+            {
+                  "name": "Río Azul (Jacaltenango)",
+                  "text": "O porțiune pitorească de râu și atracție turistică în Jacaltenango.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.694418,
+                        15.665316
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "EUPHORIA JAKAL",
+                  "text": "A venue for performing arts in Jacaltenango.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.709986,
+                        15.664134
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Bosque Tz'ahab' Tonh",
+                  "text": "A regional nature reserve featuring protected forest areas in Jacaltenango.",
+                  "category": "natural",
+                  "coords": [
+                        -91.700982,
+                        15.641955
+                  ]
+            },
+            {
+                  "name": "Puente Viejo del Rio Azul",
+                  "text": "A historical bridge monument spanning the Rio Azul in Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.697949,
+                        15.66729
+                  ]
+            },
+            {
+                  "name": "El Monumento",
+                  "text": "A local monument honoring the history of Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708313,
+                        15.661856
+                  ]
+            },
+            {
+                  "name": "Plazita de",
+                  "text": "A small monument located in a public plaza in Jacaltenango.",
+                  "category": "historical",
+                  "coords": [
+                        -91.708107,
+                        15.666416
+                  ]
+            },
+            {
+                  "name": "Río Azul (Jacaltenango)",
+                  "text": "A scenic river section and popular attraction in Jacaltenango.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.694418,
+                        15.665316
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-HU",
     coords: [-91.7167, 15.6667],
@@ -486,7 +990,124 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Centre du peuple maya Jakaltek (Popti').", "Fait partie du département de Huehuetenango.", "Située dans la Sierra de los Cuchumatanes.", "Connue pour son café d'altitude de premier choix.", "Célèbre la Vierge de Candelaria en février.", "Préserve des traditions musicales indigènes uniques."],
     }, image: "/poi-images/gt-jacaltenango-cities-v2.webp"},
   {
-    id: "gt-momostenango-cities-v2",
+    id: "gt-momostenango-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Municipalidad de Momostenango",
+                  "text": "Das Verwaltungsgebäude und ein lokaler Treffpunkt in Momostenango.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.408663,
+                        15.045265
+                  ]
+            },
+            {
+                  "name": "Parque nacional Riscos de Momostenango",
+                  "text": "Ein Nationalpark, bekannt für seine beeindruckenden Sandsteinformationen.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.403124,
+                        15.043792
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Pala Chiquito",
+                  "text": "Ein Erholungszentrum mit Bade- und Freizeitmöglichkeiten in Momostenango.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.38888,
+                        15.059194
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Municipalidad de Momostenango",
+                  "text": "Momostenango közigazgatási épülete és helyi találkozóhelye.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.408663,
+                        15.045265
+                  ]
+            },
+            {
+                  "name": "Parque nacional Riscos de Momostenango",
+                  "text": "Lenyűgöző homokkő képződményeiről ismert nemzeti park.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.403124,
+                        15.043792
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Pala Chiquito",
+                  "text": "Fürdési és szabadidős lehetőségeket kínáló rekreációs központ Momostenangóban.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.38888,
+                        15.059194
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Municipalidad de Momostenango",
+                  "text": "Clădirea administrativă și un loc de întâlnire local în Momostenango.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.408663,
+                        15.045265
+                  ]
+            },
+            {
+                  "name": "Parque nacional Riscos de Momostenango",
+                  "text": "Un parc național cunoscut pentru formațiunile sale impresionante de gresie.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.403124,
+                        15.043792
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Pala Chiquito",
+                  "text": "Un centru recreativ cu facilități pentru scăldat și petrecere a timpului liber în Momostenango.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.38888,
+                        15.059194
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Municipalidad de Momostenango",
+                  "text": "The administrative building and a local meeting point in Momostenango.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.408663,
+                        15.045265
+                  ]
+            },
+            {
+                  "name": "Parque nacional Riscos de Momostenango",
+                  "text": "A national park known for its impressive sandstone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.403124,
+                        15.043792
+                  ]
+            },
+            {
+                  "name": "Centro Recreativo Pala Chiquito",
+                  "text": "A recreation center with swimming and leisure facilities in Momostenango.",
+                  "category": "recreational",
+                  "coords": [
+                        -91.38888,
+                        15.059194
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-TO",
     coords: [-91.4083, 15.0458],
@@ -534,7 +1155,376 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       en: ["Sololá is situated at an elevation of 2,114 meters (6,936 feet).", "The city was founded on October 30, 1547, by Spanish authorities.", "It sits on a cliff 400 meters (1,300 feet) above Lake Atitlán.", "The Indigenous Mayor's Office is a key institution for Maya self-governance.", "Major market days occur every Tuesday and Friday, attracting thousands.", "The population is primarily Kaqchikel Maya, preserving ancient weaving techniques.", "Sololá serves as the administrative capital of the Sololá department.", "The city's climate is temperate-cold, often experiencing dense mountain fog."],
     }, image: "/poi-images/gt-solola-cities-v2.webp"},
   {
-    id: "gt-panajachel-cities-v2",
+    id: "gt-panajachel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Natural Atitlán",
+                  "text": "Ein Naturschutzgebiet bei Panajachel mit Wanderwegen und einer Schmetterlingsfarm.",
+                  "category": "natural",
+                  "coords": [
+                        -91.165817,
+                        14.750844
+                  ]
+            },
+            {
+                  "name": "Museo Lacustre Atitlán",
+                  "text": "Ein Museum in Panajachel, das archäologische Funde aus dem Atitlán-See ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -91.16078,
+                        14.739203
+                  ]
+            },
+            {
+                  "name": "Casa Cakchiquel",
+                  "text": "Ein historisches Haus in Panajachel, das heute als Kulturzentrum und Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -91.158181,
+                        14.741385
+                  ]
+            },
+            {
+                  "name": "Azul Maya Archaeological Museum",
+                  "text": "Ein Museum in Panajachel, das sich der Maya-Archäologie und Kultur widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -91.160263,
+                        14.741096
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago Atitlán",
+                  "text": "Ein Aussichtspunkt, der einen weiten Blick über den Atitlán-See bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -91.176616,
+                        14.75369
+                  ]
+            },
+            {
+                  "name": "Mirador la catarata",
+                  "text": "Ein Aussichtspunkt in Panajachel mit Blick auf einen lokalen Wasserfall.",
+                  "category": "natural",
+                  "coords": [
+                        -91.161866,
+                        14.756276
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Ein allgemeiner Aussichtspunkt in Panajachel für Panoramablicke auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -91.170291,
+                        14.751951
+                  ]
+            },
+            {
+                  "name": "Mi lugarcito laguna Panajachel",
+                  "text": "Ein lokaler Ort am Seeufer von Panajachel, der Besucher anzieht.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.147645,
+                        14.73271
+                  ]
+            },
+            {
+                  "name": "Nahual Panajachel Tours, $25",
+                  "text": "Ein lokaler Anbieter für Touren und Ausflüge in der Region Panajachel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.153955,
+                        14.739863
+                  ]
+            },
+            {
+                  "name": "Playa Pública Vista 3 Volcanes",
+                  "text": "Ein Strandabschnitt mit direktem Blick auf die drei Vulkane am Atitlán-See.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.150081,
+                        14.73274
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural Atitlán",
+                  "text": "Természetvédelmi terület Panajachel közelében, túraútvonalakkal és lepkehazzal.",
+                  "category": "natural",
+                  "coords": [
+                        -91.165817,
+                        14.750844
+                  ]
+            },
+            {
+                  "name": "Museo Lacustre Atitlán",
+                  "text": "Múzeum Panajachelben, amely az Atitlán-tóból származó régészeti leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -91.16078,
+                        14.739203
+                  ]
+            },
+            {
+                  "name": "Casa Cakchiquel",
+                  "text": "Történelmi ház Panajachelben, amely ma kulturális központként és múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -91.158181,
+                        14.741385
+                  ]
+            },
+            {
+                  "name": "Azul Maya Archaeological Museum",
+                  "text": "Panajacheli múzeum, amely a maja régészetnek és kultúrának szentelt.",
+                  "category": "museum",
+                  "coords": [
+                        -91.160263,
+                        14.741096
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago Atitlán",
+                  "text": "Kilátópont, amely széles körpanorámát kínál az Atitlán-tóra.",
+                  "category": "natural",
+                  "coords": [
+                        -91.176616,
+                        14.75369
+                  ]
+            },
+            {
+                  "name": "Mirador la catarata",
+                  "text": "Kilátóhely Panajachelben, rálátással egy helyi vízesésre.",
+                  "category": "natural",
+                  "coords": [
+                        -91.161866,
+                        14.756276
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Általános kilátóhely Panajachelben a környező táj megtekintésére.",
+                  "category": "natural",
+                  "coords": [
+                        -91.170291,
+                        14.751951
+                  ]
+            },
+            {
+                  "name": "Mi lugarcito laguna Panajachel",
+                  "text": "Helyi tóparti helyszín Panajachelben, amely vonzza a látogatókat.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.147645,
+                        14.73271
+                  ]
+            },
+            {
+                  "name": "Nahual Panajachel Tours, $25",
+                  "text": "Helyi túraszervező Panajachel környékén, kirándulásokat kínálva.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.153955,
+                        14.739863
+                  ]
+            },
+            {
+                  "name": "Playa Pública Vista 3 Volcanes",
+                  "text": "Tengerparti szakasz, ahonnan közvetlen kilátás nyílik az Atitlán-tó három vulkánjára.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.150081,
+                        14.73274
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural Atitlán",
+                  "text": "O rezervație naturală lângă Panajachel, cu trasee de drumeție și o fermă de fluturi.",
+                  "category": "natural",
+                  "coords": [
+                        -91.165817,
+                        14.750844
+                  ]
+            },
+            {
+                  "name": "Museo Lacustre Atitlán",
+                  "text": "Un muzeu în Panajachel care expune descoperiri arheologice din Lacul Atitlán.",
+                  "category": "museum",
+                  "coords": [
+                        -91.16078,
+                        14.739203
+                  ]
+            },
+            {
+                  "name": "Casa Cakchiquel",
+                  "text": "O casă istorică în Panajachel, care servește acum ca centru cultural și muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -91.158181,
+                        14.741385
+                  ]
+            },
+            {
+                  "name": "Azul Maya Archaeological Museum",
+                  "text": "Un muzeu din Panajachel dedicat arheologiei și culturii mayașe.",
+                  "category": "museum",
+                  "coords": [
+                        -91.160263,
+                        14.741096
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago Atitlán",
+                  "text": "Un punct de belvedere care oferă o vedere panoramică asupra Lacului Atitlán.",
+                  "category": "natural",
+                  "coords": [
+                        -91.176616,
+                        14.75369
+                  ]
+            },
+            {
+                  "name": "Mirador la catarata",
+                  "text": "Un punct de observație în Panajachel cu vedere la o cascadă locală.",
+                  "category": "natural",
+                  "coords": [
+                        -91.161866,
+                        14.756276
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Un punct de belvedere general în Panajachel pentru vederi panoramice ale zonei.",
+                  "category": "natural",
+                  "coords": [
+                        -91.170291,
+                        14.751951
+                  ]
+            },
+            {
+                  "name": "Mi lugarcito laguna Panajachel",
+                  "text": "Un loc local pe malul lacului în Panajachel, popular printre vizitatori.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.147645,
+                        14.73271
+                  ]
+            },
+            {
+                  "name": "Nahual Panajachel Tours, $25",
+                  "text": "Un furnizor local de tururi și excursii în regiunea Panajachel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.153955,
+                        14.739863
+                  ]
+            },
+            {
+                  "name": "Playa Pública Vista 3 Volcanes",
+                  "text": "O porțiune de plajă cu vedere directă la cei trei vulcani de la Lacul Atitlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.150081,
+                        14.73274
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Natural Atitlán",
+                  "text": "A nature reserve near Panajachel featuring hiking trails and a butterfly farm.",
+                  "category": "natural",
+                  "coords": [
+                        -91.165817,
+                        14.750844
+                  ]
+            },
+            {
+                  "name": "Museo Lacustre Atitlán",
+                  "text": "A museum in Panajachel displaying archaeological finds from Lake Atitlán.",
+                  "category": "museum",
+                  "coords": [
+                        -91.16078,
+                        14.739203
+                  ]
+            },
+            {
+                  "name": "Casa Cakchiquel",
+                  "text": "A historic house in Panajachel that now serves as a cultural center and museum.",
+                  "category": "museum",
+                  "coords": [
+                        -91.158181,
+                        14.741385
+                  ]
+            },
+            {
+                  "name": "Azul Maya Archaeological Museum",
+                  "text": "A museum in Panajachel dedicated to Mayan archaeology and culture.",
+                  "category": "museum",
+                  "coords": [
+                        -91.160263,
+                        14.741096
+                  ]
+            },
+            {
+                  "name": "Mirador del Lago Atitlán",
+                  "text": "A viewpoint offering a panoramic vista over Lake Atitlán.",
+                  "category": "natural",
+                  "coords": [
+                        -91.176616,
+                        14.75369
+                  ]
+            },
+            {
+                  "name": "Mirador la catarata",
+                  "text": "An observation point in Panajachel with a view of a local waterfall.",
+                  "category": "natural",
+                  "coords": [
+                        -91.161866,
+                        14.756276
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "A general viewpoint in Panajachel for panoramic views of the surroundings.",
+                  "category": "natural",
+                  "coords": [
+                        -91.170291,
+                        14.751951
+                  ]
+            },
+            {
+                  "name": "Mi lugarcito laguna Panajachel",
+                  "text": "A local lakeside spot in Panajachel that attracts visitors.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.147645,
+                        14.73271
+                  ]
+            },
+            {
+                  "name": "Nahual Panajachel Tours, $25",
+                  "text": "A local provider for tours and excursions in the Panajachel area.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.153955,
+                        14.739863
+                  ]
+            },
+            {
+                  "name": "Playa Pública Vista 3 Volcanes",
+                  "text": "A beach area with a direct view of the three volcanoes at Lake Atitlán.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.150081,
+                        14.73274
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-SO",
     coords: [-91.1575, 14.7431],
@@ -663,7 +1653,196 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Située à une altitude de 1370 mètres.", "La ville est un centre de la culture Maya Poqomchi'.", "La lagune de Chichoj se trouve directement sur le territoire urbain.", "Fondée officiellement en 1575.", "Appartient au département d'Alta Verapaz.", "Les principaux produits sont le café, le cuir et les textiles."],
     }, image: "/poi-images/gt-san-cristobal-verapaz-cities-v2.webp"},
   {
-    id: "gt-esquipulas-cities-v2",
+    id: "gt-esquipulas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Acueducto de Esquipulas",
+                  "text": "Historische Überreste eines alten Aquädukts in Esquipulas.",
+                  "category": "historical",
+                  "coords": [
+                        -89.356984,
+                        14.573916
+                  ]
+            },
+            {
+                  "name": "Turicentro La Planta",
+                  "text": "Ein familienfreundlicher Wasserpark für Freizeitaktivitäten in Esquipulas.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.336828,
+                        14.545319
+                  ]
+            },
+            {
+                  "name": "Finca de los Girasoles",
+                  "text": "Ein beliebtes Ausflugsziel, bekannt für seine weiten Sonnenblumenfelder in Esquipulas.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.341795,
+                        14.578547
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "Ein Denkmal in Esquipulas, das dem Frieden gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.34955,
+                        14.56431
+                  ]
+            },
+            {
+                  "name": "Basílica de Esquipulas",
+                  "text": "Ein bedeutender Wallfahrtsort und eine prachtvolle Basilika in Esquipulas.",
+                  "category": "religious",
+                  "coords": [
+                        -89.350784,
+                        14.561745
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Acueducto de Esquipulas",
+                  "text": "Egy régi vízvezeték történelmi maradványai Esquipulas városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.356984,
+                        14.573916
+                  ]
+            },
+            {
+                  "name": "Turicentro La Planta",
+                  "text": "Családbarát vízi élménypark Esquipulas területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.336828,
+                        14.545319
+                  ]
+            },
+            {
+                  "name": "Finca de los Girasoles",
+                  "text": "Népszerű látnivaló, amely hatalmas napraforgómezőiről ismert Esquipulasban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.341795,
+                        14.578547
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "A békének szentelt emlékmű Esquipulas városában.",
+                  "category": "historical",
+                  "coords": [
+                        -89.34955,
+                        14.56431
+                  ]
+            },
+            {
+                  "name": "Basílica de Esquipulas",
+                  "text": "Fontos zarándokhely és pompás bazilika Esquipulas városában.",
+                  "category": "religious",
+                  "coords": [
+                        -89.350784,
+                        14.561745
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Acueducto de Esquipulas",
+                  "text": "Vestigiile istorice ale unui vechi apeduct în Esquipulas.",
+                  "category": "historical",
+                  "coords": [
+                        -89.356984,
+                        14.573916
+                  ]
+            },
+            {
+                  "name": "Turicentro La Planta",
+                  "text": "Un parc acvatic pentru familii și activități recreative în Esquipulas.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.336828,
+                        14.545319
+                  ]
+            },
+            {
+                  "name": "Finca de los Girasoles",
+                  "text": "O atracție populară cunoscută pentru câmpurile sale întinse de floarea-soarelui în Esquipulas.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.341795,
+                        14.578547
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "Un monument în Esquipulas dedicat păcii.",
+                  "category": "historical",
+                  "coords": [
+                        -89.34955,
+                        14.56431
+                  ]
+            },
+            {
+                  "name": "Basílica de Esquipulas",
+                  "text": "Un important loc de pelerinaj și o bazilică magnifică în Esquipulas.",
+                  "category": "religious",
+                  "coords": [
+                        -89.350784,
+                        14.561745
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Acueducto de Esquipulas",
+                  "text": "Historical remains of an ancient aqueduct in Esquipulas.",
+                  "category": "historical",
+                  "coords": [
+                        -89.356984,
+                        14.573916
+                  ]
+            },
+            {
+                  "name": "Turicentro La Planta",
+                  "text": "A family-friendly water park for recreational activities in Esquipulas.",
+                  "category": "recreational",
+                  "coords": [
+                        -89.336828,
+                        14.545319
+                  ]
+            },
+            {
+                  "name": "Finca de los Girasoles",
+                  "text": "A popular attraction known for its vast sunflower fields in Esquipulas.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.341795,
+                        14.578547
+                  ]
+            },
+            {
+                  "name": "Monumento a la Paz",
+                  "text": "A monument in Esquipulas dedicated to peace.",
+                  "category": "historical",
+                  "coords": [
+                        -89.34955,
+                        14.56431
+                  ]
+            },
+            {
+                  "name": "Basílica de Esquipulas",
+                  "text": "A major pilgrimage site and magnificent basilica in Esquipulas.",
+                  "category": "religious",
+                  "coords": [
+                        -89.350784,
+                        14.561745
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-CQ",
     coords: [-89.3528, 14.5639],
@@ -880,7 +2059,124 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gt-asuncion-mita-cities-v2",
+    id: "gt-asuncion-mita-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro La Ahorcada",
+                  "text": "Ein markanter Berggipfel in der Nähe von Asunción Mita.",
+                  "category": "natural",
+                  "coords": [
+                        -89.702676,
+                        14.308109
+                  ]
+            },
+            {
+                  "name": "Cerro Tultepeque",
+                  "text": "Ein Gipfel in der Region Asunción Mita, beliebt für Wanderungen.",
+                  "category": "natural",
+                  "coords": [
+                        -89.720152,
+                        14.324754
+                  ]
+            },
+            {
+                  "name": "Cerro El Platanillo",
+                  "text": "Ein lokaler Berg bei Asunción Mita mit natürlicher Vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -89.730868,
+                        14.315152
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro La Ahorcada",
+                  "text": "Jellegzetes hegycsúcs Asunción Mita közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -89.702676,
+                        14.308109
+                  ]
+            },
+            {
+                  "name": "Cerro Tultepeque",
+                  "text": "Hegycsúcs Asunción Mita régiójában, amely népszerű a túrázók körében.",
+                  "category": "natural",
+                  "coords": [
+                        -89.720152,
+                        14.324754
+                  ]
+            },
+            {
+                  "name": "Cerro El Platanillo",
+                  "text": "Helyi hegy Asunción Mita mellett, természetes növényzettel.",
+                  "category": "natural",
+                  "coords": [
+                        -89.730868,
+                        14.315152
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro La Ahorcada",
+                  "text": "Un vârf montan proeminent situat lângă Asunción Mita.",
+                  "category": "natural",
+                  "coords": [
+                        -89.702676,
+                        14.308109
+                  ]
+            },
+            {
+                  "name": "Cerro Tultepeque",
+                  "text": "Un vârf în regiunea Asunción Mita, popular pentru drumeții.",
+                  "category": "natural",
+                  "coords": [
+                        -89.720152,
+                        14.324754
+                  ]
+            },
+            {
+                  "name": "Cerro El Platanillo",
+                  "text": "Un munte local lângă Asunción Mita, cu vegetație naturală.",
+                  "category": "natural",
+                  "coords": [
+                        -89.730868,
+                        14.315152
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro La Ahorcada",
+                  "text": "A prominent mountain peak located near Asunción Mita.",
+                  "category": "natural",
+                  "coords": [
+                        -89.702676,
+                        14.308109
+                  ]
+            },
+            {
+                  "name": "Cerro Tultepeque",
+                  "text": "A peak in the Asunción Mita region, popular for hiking.",
+                  "category": "natural",
+                  "coords": [
+                        -89.720152,
+                        14.324754
+                  ]
+            },
+            {
+                  "name": "Cerro El Platanillo",
+                  "text": "A local mountain near Asunción Mita with natural vegetation.",
+                  "category": "natural",
+                  "coords": [
+                        -89.730868,
+                        14.315152
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-JU",
     coords: [-89.7111, 14.3306],
@@ -934,7 +2230,52 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Gualán est un centre d'exportation de premier plan pour les melons et les fruits tropicaux.", "La ville se trouve dans la vallée chaude du Motagua, dans l'est du Guatemala.", "Elle fut historiquement un carrefour important pour le transport fluvial et ferroviaire.", "La production de tabac est un pilier essentiel de l'économie locale."],
     }, image: "/poi-images/gt-gualan-cities-v2.webp"},
   {
-    id: "gt-la-democracia-cities-v2",
+    id: "gt-la-democracia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo Rubén Chevez Vandorne",
+                  "text": "Museum in La Democracia, das archäologische Funde der Region ausstellt.",
+                  "category": "museum",
+                  "coords": [
+                        -90.947736,
+                        14.229805
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Rubén Chevez Vandorne",
+                  "text": "A régió régészeti leleteit bemutató múzeum La Democracia településen.",
+                  "category": "museum",
+                  "coords": [
+                        -90.947736,
+                        14.229805
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Rubén Chevez Vandorne",
+                  "text": "Muzeu din La Democracia care expune descoperiri arheologice din regiune.",
+                  "category": "museum",
+                  "coords": [
+                        -90.947736,
+                        14.229805
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Rubén Chevez Vandorne",
+                  "text": "Museum in La Democracia displaying archaeological finds from the region.",
+                  "category": "museum",
+                  "coords": [
+                        -90.947736,
+                        14.229805
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-ES",
     coords: [-90.9500, 14.2333],
@@ -1070,7 +2411,88 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gt-sayaxche-cities-v2",
+    id: "gt-sayaxche-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Nacional el Rosario",
+                  "text": "Ein geschütztes Naturgebiet mit vielfältiger Biodiversität in Sayaxché.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.135354,
+                        16.507487
+                  ]
+            },
+            {
+                  "name": "Cruze",
+                  "text": "Ein lokaler Orientierungspunkt und Sehenswürdigkeit in Sayaxché.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.123935,
+                        16.500508
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Nacional el Rosario",
+                  "text": "Védett természeti terület gazdag élővilággal Sayaxché környékén.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.135354,
+                        16.507487
+                  ]
+            },
+            {
+                  "name": "Cruze",
+                  "text": "Helyi tájékozódási pont és látnivaló Sayaxché városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.123935,
+                        16.500508
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Nacional el Rosario",
+                  "text": "O zonă naturală protejată cu o biodiversitate bogată în Sayaxché.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.135354,
+                        16.507487
+                  ]
+            },
+            {
+                  "name": "Cruze",
+                  "text": "Un punct de reper local și o atracție în Sayaxché.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.123935,
+                        16.500508
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Nacional el Rosario",
+                  "text": "A protected natural area with rich biodiversity in Sayaxché.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.135354,
+                        16.507487
+                  ]
+            },
+            {
+                  "name": "Cruze",
+                  "text": "A local landmark and point of interest in Sayaxché.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.123935,
+                        16.500508
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-PE",
     coords: [-90.1333, 16.5167],
@@ -1125,7 +2547,124 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gt-san-andres-xecul-cities-v2",
+    id: "gt-san-andres-xecul-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "Ein historisch anmutendes Gebäude oder Schloss in San Andrés Xecul.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Lagunita - 10Q",
+                  "text": "Eine kleine lokale Attraktion in der Gemeinde San Andrés Xecul.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.459123,
+                        14.882987
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cementerio",
+                  "text": "Ein Aussichtspunkt in der Nähe des Friedhofs von San Andrés Xecul.",
+                  "category": "natural",
+                  "coords": [
+                        -91.463021,
+                        14.877634
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "Történelmi jellegű épület vagy kastély San Andrés Xeculban.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Lagunita - 10Q",
+                  "text": "Kisméretű helyi látványosság San Andrés Xecul közösségében.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.459123,
+                        14.882987
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cementerio",
+                  "text": "Kilátóhely a San Andrés Xecul-i temető közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -91.463021,
+                        14.877634
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "O clădire cu aspect istoric sau castel în San Andrés Xecul.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Lagunita - 10Q",
+                  "text": "O mică atracție locală în comunitatea San Andrés Xecul.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.459123,
+                        14.882987
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cementerio",
+                  "text": "Un punct de belvedere situat lângă cimitirul din San Andrés Xecul.",
+                  "category": "natural",
+                  "coords": [
+                        -91.463021,
+                        14.877634
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "A historic-style building or castle in San Andrés Xecul.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Lagunita - 10Q",
+                  "text": "A small local attraction in the San Andrés Xecul community.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.459123,
+                        14.882987
+                  ]
+            },
+            {
+                  "name": "Mirador Del Cementerio",
+                  "text": "A viewpoint located near the cemetery of San Andrés Xecul.",
+                  "category": "natural",
+                  "coords": [
+                        -91.463021,
+                        14.877634
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-TO",
     coords: [-91.4833, 14.8833],
@@ -1152,7 +2691,52 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["L'église de San Andrés Xecul possède l'une des façades les plus colorées au monde.", "La ville est un exemple remarquable du syncrétisme religieux au Guatemala.", "C'est un centre important de textiles tissés à la main dans les hautes terres.", "Sa situation à flanc de montagne offre une vue imprenable sur la vallée de Quetzaltenango."],
     }, image: "/poi-images/gt-san-andres-xecul-cities-v2.webp"},
   {
-    id: "gt-el-estor-cities-v2",
+    id: "gt-el-estor-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Central",
+                  "text": "Der zentrale Park als Treffpunkt im Herzen von El Estor.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.335676,
+                        15.524197
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Central",
+                  "text": "A város központi parkja és találkozóhelye El Estor szívében.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.335676,
+                        15.524197
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Central",
+                  "text": "Parcul central și locul de întâlnire principal în inima orașului El Estor.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.335676,
+                        15.524197
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Central",
+                  "text": "The central park and main gathering spot in the heart of El Estor.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.335676,
+                        15.524197
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-IZ",
     coords: [-89.3500, 15.5333],
@@ -1207,7 +2791,88 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gt-san-cristobal-totonicapan-cities-v2",
+    id: "gt-san-cristobal-totonicapan-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "Ein architektonisch interessantes Bauwerk in San Cristóbal Totonicapán.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Nice view of Santa Maria volcano",
+                  "text": "Ein Standort, der eine gute Sicht auf den Vulkan Santa Maria bietet.",
+                  "category": "natural",
+                  "coords": [
+                        -91.408991,
+                        14.863509
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "Építészetileg érdekes építmény San Cristóbal Totonicapánban.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Nice view of Santa Maria volcano",
+                  "text": "Helyszín, ahonnan kiváló kilátás nyílik a Santa Maria vulkánra.",
+                  "category": "natural",
+                  "coords": [
+                        -91.408991,
+                        14.863509
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "O structură interesantă din punct de vedere arhitectural în San Cristóbal Totonicapán.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Nice view of Santa Maria volcano",
+                  "text": "Un loc care oferă o vedere bună asupra vulcanului Santa Maria.",
+                  "category": "natural",
+                  "coords": [
+                        -91.408991,
+                        14.863509
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Castillo El Carmen",
+                  "text": "An architecturally interesting structure in San Cristóbal Totonicapán.",
+                  "category": "castle",
+                  "coords": [
+                        -91.458183,
+                        14.87565
+                  ]
+            },
+            {
+                  "name": "Nice view of Santa Maria volcano",
+                  "text": "A location offering a clear view of the Santa Maria volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -91.408991,
+                        14.863509
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-TO",
     coords: [-91.4333, 14.8667],
@@ -1472,7 +3137,124 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["San Antonio Suchitepéquez est un carrefour commercial majeur sur la côte sud.", "La ville est un centre pour le négoce de produits agricoles tropicaux.", "Elle connaît une croissance démographique rapide et une expansion urbaine.", "La région est l'une des principales productrices de caoutchouc et de canne à sucre."],
     }, image: "/poi-images/gt-san-antonio-suchitepequez-cities-v2.webp"},
   {
-    id: "gt-san-jose-pinula-cities-v2",
+    id: "gt-san-jose-pinula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Jersey ACJ",
+                  "text": "Ein kleiner Zoo oder Tierpark in San José Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.418193,
+                        14.547266
+                  ]
+            },
+            {
+                  "name": "La Finka",
+                  "text": "Ein Freizeit- oder Themenpark in San José Pinula für Familien.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.421464,
+                        14.543054
+                  ]
+            },
+            {
+                  "name": "Casa Club Condominio Montecristo",
+                  "text": "Ein Clubhaus und Attraktion innerhalb einer Wohnanlage in San José Pinula.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.401783,
+                        14.560814
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Jersey ACJ",
+                  "text": "Kisméretű állatkert vagy vadaspark San José Pinulában.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.418193,
+                        14.547266
+                  ]
+            },
+            {
+                  "name": "La Finka",
+                  "text": "Szórakoztató- vagy élménypark San José Pinulában családok számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.421464,
+                        14.543054
+                  ]
+            },
+            {
+                  "name": "Casa Club Condominio Montecristo",
+                  "text": "Klubház és közösségi helyszín egy San José Pinula-i lakóparkban.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.401783,
+                        14.560814
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Jersey ACJ",
+                  "text": "O mică grădină zoologică sau parc de animale în San José Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.418193,
+                        14.547266
+                  ]
+            },
+            {
+                  "name": "La Finka",
+                  "text": "Un parc de distracții sau tematic în San José Pinula pentru familii.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.421464,
+                        14.543054
+                  ]
+            },
+            {
+                  "name": "Casa Club Condominio Montecristo",
+                  "text": "O casă de club și atracție în cadrul unui complex rezidențial din San José Pinula.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.401783,
+                        14.560814
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Jersey ACJ",
+                  "text": "A small zoo or animal park in San José Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.418193,
+                        14.547266
+                  ]
+            },
+            {
+                  "name": "La Finka",
+                  "text": "A recreational or theme park in San José Pinula for families.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.421464,
+                        14.543054
+                  ]
+            },
+            {
+                  "name": "Casa Club Condominio Montecristo",
+                  "text": "A clubhouse and attraction within a residential complex in San José Pinula.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.401783,
+                        14.560814
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-GU",
     coords: [-90.4167, 14.5500],
@@ -1499,7 +3281,304 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["San José Pinula est l'une des communes à la croissance la plus rapide près de la capitale.", "La ville est connue pour son climat agréable et frais.", "L'économie locale est marquée par un mélange de construction résidentielle et d'agriculture.", "Elle sert de centre important pour l'approvisionnement en légumes frais."],
     }, image: "/poi-images/gt-san-jose-pinula-cities-v2.webp"},
   {
-    id: "gt-santa-catarina-pinula-cities-v2",
+    id: "gt-santa-catarina-pinula-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Los Niños",
+                  "text": "Ein interaktives Museum für Kinder in Santa Catarina Pinula.",
+                  "category": "museum",
+                  "coords": [
+                        -90.496353,
+                        14.56666
+                  ]
+            },
+            {
+                  "name": "Parque Lotificación La Montaña",
+                  "text": "Ein Freizeitpark mit verschiedenen Attraktionen in Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.478859,
+                        14.594689
+                  ]
+            },
+            {
+                  "name": "Parque La Villa de Guadalupe",
+                  "text": "Ein Park für Familienerholung und Freizeitgestaltung in Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.505462,
+                        14.589345
+                  ]
+            },
+            {
+                  "name": "Anfiteatro municipal",
+                  "text": "Ein städtisches Amphitheater für öffentliche Veranstaltungen in Santa Catarina Pinula.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.499238,
+                        14.572586
+                  ]
+            },
+            {
+                  "name": "Auditorio J.H. Wilson",
+                  "text": "Ein Auditorium für Konzerte und Vorträge in Santa Catarina Pinula.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.491958,
+                        14.60534
+                  ]
+            },
+            {
+                  "name": "Akua",
+                  "text": "Ein moderner Wasserpark mit Rutschen und Pools in Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.482805,
+                        14.609755
+                  ]
+            },
+            {
+                  "name": "Acueducto de Pinula",
+                  "text": "Ein historisches Bauwerk zur Wasserversorgung in Santa Catarina Pinula.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.511674,
+                        14.589966
+                  ]
+            },
+            {
+                  "name": "Templo de la Ciudad de Guatemala",
+                  "text": "Ein markanter Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage.",
+                  "category": "religious",
+                  "coords": [
+                        -90.485576,
+                        14.583344
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Los Niños",
+                  "text": "Interaktív gyermekmúzeum Santa Catarina Pinula területén.",
+                  "category": "museum",
+                  "coords": [
+                        -90.496353,
+                        14.56666
+                  ]
+            },
+            {
+                  "name": "Parque Lotificación La Montaña",
+                  "text": "Szórakoztató park különféle attrakciókkal Santa Catarina Pinula városában.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.478859,
+                        14.594689
+                  ]
+            },
+            {
+                  "name": "Parque La Villa de Guadalupe",
+                  "text": "Családi pihenésre és kikapcsolódásra alkalmas park Santa Catarina Pinulában.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.505462,
+                        14.589345
+                  ]
+            },
+            {
+                  "name": "Anfiteatro municipal",
+                  "text": "Városi amfiteátrum nyilvános események számára Santa Catarina Pinulában.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.499238,
+                        14.572586
+                  ]
+            },
+            {
+                  "name": "Auditorio J.H. Wilson",
+                  "text": "Koncerteknek és előadásoknak otthont adó auditórium Santa Catarina Pinulában.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.491958,
+                        14.60534
+                  ]
+            },
+            {
+                  "name": "Akua",
+                  "text": "Modern vízi park csúszdákkal és medencékkel Santa Catarina Pinula területén.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.482805,
+                        14.609755
+                  ]
+            },
+            {
+                  "name": "Acueducto de Pinula",
+                  "text": "Történelmi vízellátó építmény Santa Catarina Pinula városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.511674,
+                        14.589966
+                  ]
+            },
+            {
+                  "name": "Templo de la Ciudad de Guatemala",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának jellegzetes temploma.",
+                  "category": "religious",
+                  "coords": [
+                        -90.485576,
+                        14.583344
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Los Niños",
+                  "text": "Un muzeu interactiv pentru copii în Santa Catarina Pinula.",
+                  "category": "museum",
+                  "coords": [
+                        -90.496353,
+                        14.56666
+                  ]
+            },
+            {
+                  "name": "Parque Lotificación La Montaña",
+                  "text": "Un parc de distracții cu diverse atracții în Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.478859,
+                        14.594689
+                  ]
+            },
+            {
+                  "name": "Parque La Villa de Guadalupe",
+                  "text": "Un parc pentru recreere în familie și timp liber în Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.505462,
+                        14.589345
+                  ]
+            },
+            {
+                  "name": "Anfiteatro municipal",
+                  "text": "Un amfiteatru municipal pentru evenimente publice în Santa Catarina Pinula.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.499238,
+                        14.572586
+                  ]
+            },
+            {
+                  "name": "Auditorio J.H. Wilson",
+                  "text": "Un auditoriu pentru concerte și conferințe în Santa Catarina Pinula.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.491958,
+                        14.60534
+                  ]
+            },
+            {
+                  "name": "Akua",
+                  "text": "Un parc acvatic modern cu tobogane și piscine în Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.482805,
+                        14.609755
+                  ]
+            },
+            {
+                  "name": "Acueducto de Pinula",
+                  "text": "O structură istorică pentru alimentarea cu apă în Santa Catarina Pinula.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.511674,
+                        14.589966
+                  ]
+            },
+            {
+                  "name": "Templo de la Ciudad de Guatemala",
+                  "text": "Un templu distinctiv al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă.",
+                  "category": "religious",
+                  "coords": [
+                        -90.485576,
+                        14.583344
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Los Niños",
+                  "text": "An interactive museum for children in Santa Catarina Pinula.",
+                  "category": "museum",
+                  "coords": [
+                        -90.496353,
+                        14.56666
+                  ]
+            },
+            {
+                  "name": "Parque Lotificación La Montaña",
+                  "text": "A theme park offering various attractions in Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.478859,
+                        14.594689
+                  ]
+            },
+            {
+                  "name": "Parque La Villa de Guadalupe",
+                  "text": "A park for family recreation and leisure in Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.505462,
+                        14.589345
+                  ]
+            },
+            {
+                  "name": "Anfiteatro municipal",
+                  "text": "A municipal amphitheatre for public events in Santa Catarina Pinula.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.499238,
+                        14.572586
+                  ]
+            },
+            {
+                  "name": "Auditorio J.H. Wilson",
+                  "text": "An auditorium for concerts and lectures in Santa Catarina Pinula.",
+                  "category": "cultural",
+                  "coords": [
+                        -90.491958,
+                        14.60534
+                  ]
+            },
+            {
+                  "name": "Akua",
+                  "text": "A modern water park with slides and pools in Santa Catarina Pinula.",
+                  "category": "recreational",
+                  "coords": [
+                        -90.482805,
+                        14.609755
+                  ]
+            },
+            {
+                  "name": "Pinula Aqueduct",
+                  "text": "A historical structure for water supply in Santa Catarina Pinula.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.511674,
+                        14.589966
+                  ]
+            },
+            {
+                  "name": "Guatemala City Guatemala Temple",
+                  "text": "A prominent temple of The Church of Jesus Christ of Latter-day Saints.",
+                  "category": "religious",
+                  "coords": [
+                        -90.485576,
+                        14.583344
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-GU",
     coords: [-90.4833, 14.5833],
@@ -1580,7 +3659,52 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Fraijanes produit certaines des meilleures variétés de café du Guatemala.", "La ville est un lieu de résidence prisé pour la classe supérieure de la capitale.", "La région se distingue par un climat tempéré agréable.", "De nombreux établissements d'enseignement de rang national y ont leur siège."],
     }, image: "/poi-images/gt-fraijanes-cities-v2.webp"},
   {
-    id: "gt-osti-calco-cities-v2",
+    id: "gt-osti-calco-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Ein streng geschütztes Naturschutzgebiet am Vulkan Siete Orejas.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Szigorúan védett természetvédelmi terület a Siete Orejas vulkánnál.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "O rezervație naturală strict protejată la vulcanul Siete Orejas.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "A strictly protected nature reserve at the Siete Orejas volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-QZ",
     coords: [-91.6167, 14.8167],
@@ -1607,7 +3731,160 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Ostuncalco est un centre important de la culture maya Mam dans l'ouest.", "Le marché dominical de la ville est l'un des plus importants de la région.", "La ville est célèbre pour son artisanat de meubles de qualité et la fabrication de marimbas.", "La langue Mam est omniprésente dans la vie quotidienne des habitants."],
     }, image: "/poi-images/gt-osti-calco-cities-v2.webp"},
   {
-    id: "gt-la-esperanza-cities-v2",
+    id: "gt-la-esperanza-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das städtische Theater von La Esperanza für kulturelle Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.592289,
+                        14.858367
+                  ]
+            },
+            {
+                  "name": "Seminario San Jose",
+                  "text": "Ein Naturschutzgebiet in der Region La Esperanza.",
+                  "category": "natural",
+                  "coords": [
+                        -91.548271,
+                        14.851869
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Schutzgebiet am Vulkan Siete Orejas mit vielfältiger Flora und Fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "Quetzaltenango Guatemala Temple",
+                  "text": "Ein Tempel der Kirche Jesu Christi der Heiligen der Letzten Tage in Quetzaltenango.",
+                  "category": "religious",
+                  "coords": [
+                        -91.542593,
+                        14.846452
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "La Esperanza városi színháza, amely kulturális eseményeknek ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.592289,
+                        14.858367
+                  ]
+            },
+            {
+                  "name": "Seminario San Jose",
+                  "text": "Természetvédelmi terület La Esperanza régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -91.548271,
+                        14.851869
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Védett terület a Siete Orejas vulkánnál, változatos növény- és állatvilággal.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "Quetzaltenango Guatemala Temple",
+                  "text": "Az Utolsó Napi Szentek Jézus Krisztus Egyházának temploma Quetzaltenangóban.",
+                  "category": "religious",
+                  "coords": [
+                        -91.542593,
+                        14.846452
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatrul municipal din La Esperanza pentru evenimente culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.592289,
+                        14.858367
+                  ]
+            },
+            {
+                  "name": "Seminario San Jose",
+                  "text": "O rezervație naturală în regiunea La Esperanza.",
+                  "category": "natural",
+                  "coords": [
+                        -91.548271,
+                        14.851869
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Zonă protejată la vulcanul Siete Orejas, cu floră și faună diversă.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "Quetzaltenango Guatemala Temple",
+                  "text": "Un templu al Bisericii lui Isus Hristos a Sfinților din Zilele din Urmă din Quetzaltenango.",
+                  "category": "religious",
+                  "coords": [
+                        -91.542593,
+                        14.846452
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Teatro Municipal",
+                  "text": "The municipal theatre of La Esperanza for cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.592289,
+                        14.858367
+                  ]
+            },
+            {
+                  "name": "Seminario San Jose",
+                  "text": "A nature reserve in the La Esperanza region.",
+                  "category": "natural",
+                  "coords": [
+                        -91.548271,
+                        14.851869
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Protected area at the Siete Orejas volcano with diverse flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "Quetzaltenango Guatemala Temple",
+                  "text": "A temple of The Church of Jesus Christ of Latter-day Saints in Quetzaltenango.",
+                  "category": "religious",
+                  "coords": [
+                        -91.542593,
+                        14.846452
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-QZ",
     coords: [-91.5667, 14.8500],
@@ -1634,7 +3911,196 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["La Esperanza est une banlieue en pleine croissance de la métropole de Quetzaltenango.", "La ville offre un mélange attrayant de zones résidentielles et commerciales.", "Elle est située à plus de 2 400 mètres d'altitude dans les hauts plateaux frais.", "La commune est un élément important du tissu économique de l'ouest du Guatemala."],
     }, image: "/poi-images/gt-la-esperanza-cities-v2.webp"},
   {
-    id: "gt-cantel-cities-v2",
+    id: "gt-cantel-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "Ein kommunales Naturschutzgebiet in Cantel, das die lokale Flora schützt.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "Ein Berggipfel in der Nähe von Cantel, beliebt für lokale Erkundungen.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "Ein markanter Gipfel in der bergigen Region von Cantel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Ein weiterer Berggipfel in der Umgebung von Cantel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "Eine lokale Sehenswürdigkeit oder Einrichtung in der Stadt Cantel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "Önkormányzati természetvédelmi terület Cantelben, a helyi flóra védelmére.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "Hegycsúcs Cantel közelében, kedvelt helyi kirándulóhely.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "Jellegzetes csúcs Cantel hegyvidéki régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Egy másik hegycsúcs Cantel környékén.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "Helyi látnivaló vagy létesítmény Cantel városában.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "O rezervație naturală municipală în Cantel, protejând flora locală.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "Un vârf montan lângă Cantel, popular pentru explorări locale.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "Un vârf proeminent în regiunea muntoasă din Cantel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Un alt vârf montan în împrejurimile orașului Cantel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "O atracție locală sau facilitate în orașul Cantel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Regional Municipal Zunil",
+                  "text": "A municipal nature reserve in Cantel protecting local flora.",
+                  "category": "natural",
+                  "coords": [
+                        -91.470067,
+                        14.74316
+                  ]
+            },
+            {
+                  "name": "Cerro Jolom",
+                  "text": "A mountain peak near Cantel, popular for local exploration.",
+                  "category": "natural",
+                  "coords": [
+                        -91.435282,
+                        14.79907
+                  ]
+            },
+            {
+                  "name": "Cerro Chuicham",
+                  "text": "A prominent peak in the mountainous region of Cantel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.434711,
+                        14.785065
+                  ]
+            },
+            {
+                  "name": "Cerro Chonajtajuyub",
+                  "text": "Another mountain peak in the surroundings of Cantel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.446516,
+                        14.784874
+                  ]
+            },
+            {
+                  "name": "copavic",
+                  "text": "A local attraction or facility in the town of Cantel.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.447903,
+                        14.806815
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-QZ",
     coords: [-91.4500, 14.8000],
@@ -1688,7 +4154,88 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["Tactic est célèbre pour ses travaux d'orfèvrerie d'argent fins et ses textiles.", "La ville est un cœur de la culture maya Poqomchi' dans l'Alta Verapaz.", "Le climat est marqué par des températures fraîches et un brouillard fréquent.", "La région est un producteur important de pêches et d'autres fruits de climat froid."],
     }, image: "/poi-images/gt-tactic-cities-v2.webp"},
   {
-    id: "gt-chisec-cities-v2",
+    id: "gt-chisec-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parkplatz Bombil Pek Höhlen",
+                  "text": "Ausgangspunkt für Erkundungen der Bombil Pek Höhlen in Chisec.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.287177,
+                        15.835121
+                  ]
+            },
+            {
+                  "name": "Cueva Jul Iq'",
+                  "text": "Eine natürliche Höhlenformation und Sehenswürdigkeit in Chisec.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.274998,
+                        15.835816
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Estacionamiento Cuevas Bombil Pek",
+                  "text": "A Chisecben található Bombil Pek barlangok felfedezésének kiindulópontja.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.287177,
+                        15.835121
+                  ]
+            },
+            {
+                  "name": "Cueva Jul Iq'",
+                  "text": "Természetes barlangképződmény és látnivaló Chisecben.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.274998,
+                        15.835816
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Estacionamiento Cuevas Bombil Pek",
+                  "text": "Punctul de plecare pentru explorarea peșterilor Bombil Pek din Chisec.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.287177,
+                        15.835121
+                  ]
+            },
+            {
+                  "name": "Cueva Jul Iq'",
+                  "text": "O formațiune naturală de peșteră și punct de atracție în Chisec.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.274998,
+                        15.835816
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parking Bombil Pek Caves",
+                  "text": "Starting point for exploring the Bombil Pek caves in Chisec.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.287177,
+                        15.835121
+                  ]
+            },
+            {
+                  "name": "Cueva Jul Iq'",
+                  "text": "A natural cave formation and attraction in Chisec.",
+                  "category": "landmark",
+                  "coords": [
+                        -90.274998,
+                        15.835816
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-AV",
     coords: [-90.2833, 15.8167],
@@ -1716,7 +4263,52 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     },
   },
   {
-    id: "gt-el-palmar-cities-v2",
+    id: "gt-el-palmar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Reserva Natural Privada Finca Patrocinio",
+                  "text": "Ein privates Naturschutzgebiet in El Palmar mit Fokus auf biologische Vielfalt.",
+                  "category": "natural",
+                  "coords": [
+                        -91.607363,
+                        14.664893
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Reserva Natural Privada Finca Patrocinio",
+                  "text": "Magán természetvédelmi terület El Palmarban, a biodiverzitásra összpontosítva.",
+                  "category": "natural",
+                  "coords": [
+                        -91.607363,
+                        14.664893
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Reserva Natural Privada Finca Patrocinio",
+                  "text": "O rezervație naturală privată în El Palmar, axată pe biodiversitate.",
+                  "category": "natural",
+                  "coords": [
+                        -91.607363,
+                        14.664893
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Reserva Natural Privada Finca Patrocinio",
+                  "text": "A private nature reserve in El Palmar focused on biodiversity.",
+                  "category": "natural",
+                  "coords": [
+                        -91.607363,
+                        14.664893
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-QZ",
     coords: [-91.5833, 14.6500],
@@ -1797,7 +4389,52 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
       fr: ["La Libertad est l'un des centres les plus importants pour l'élevage bovin dans le Petén.", "La commune couvre l'une des plus grandes superficies du Guatemala.", "L'industrie pétrolière est un facteur économique majeur pour la région.", "Les vastes savanes offrent des conditions idéales pour l'agriculture à grande échelle."],
     }, image: "/poi-images/gt-la-libertad-p-cities-v2.webp"},
   {
-    id: "gt-la-libertad-h-cities-v2",
+    id: "gt-la-libertad-h-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Piscina Poza del Sol",
+                  "text": "Ein öffentlicher oder privater Pool als Freizeitattraktion in La Libertad.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.919476,
+                        15.643749
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Piscina Poza del Sol",
+                  "text": "Nyilvános vagy magánúszómedence mint szabadidős helyszín La Libertadban.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.919476,
+                        15.643749
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Piscina Poza del Sol",
+                  "text": "O piscină publică sau privată ca atracție de agrement în La Libertad.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.919476,
+                        15.643749
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Swimming Pool",
+                  "text": "A public or private swimming pool as a recreational attraction in La Libertad.",
+                  "category": "landmark",
+                  "coords": [
+                        -91.919476,
+                        15.643749
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-HU",
     coords: [-91.9167, 15.6667],
@@ -1809,7 +4446,340 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     factsAdvanced: { de: ["La Libertad ist für den Anbau von qualitativ hochwertigem Bergkaffee bekannt.", "Die Gemeinde liegt in einer geografisch herausfordernden Hochlandzone.", "Die Mam- und Popti'-Maya-Kulturen prägen das soziale Gefüge der Stadt.", "Traditionelle Landwirtschaft bestimmt den Rhythmus des täglichen Lebens."], hu: ["La Libertad ismert a kiváló minőségű hegyi kávé termesztéséről.", "Az önkormányzat földrajzilag kihívást jelentő felföldi zónában fekszik.", "A mam és popti' maja kultúrák határozzák meg a város társadalmi szövetét.", "A hagyományos mezőgazdaság szabja meg a mindennapi élet ritmusát.", "Az elszigeteltség megőrizte az ősi életmódokat.", "A textilkészítés fontos kézműves tevékenység."], ro: ["La Libertad este renumit pentru cultivarea cafelei de munte de înaltă calitate.", "Comunitatea se află într-o zonă montană dificilă din punct de vedere geografic.", "Culturile maya mam și popti' modelează structura socială a orașului.", "Agricultura tradițională determină ritmul vieții de zi cu zi.", "Izolarea a păstrat modurile ancestrale de viață.", "Țesutul tradițional este o activitate artizanală importantă."], en: ["La Libertad is known for growing high quality mountain coffee.", "Die Gemeinde liegt in einer geografisch herausfordernden Hochlandzone.", "Die Mam- und Popti'-Maya-Kulturen prägen das soziale Gefüge der Stadt.", "Traditionelle Landwirtschaft bestimmt den Rhythmus des täglichen Lebens."] , es: ["La Libertad es conocida por el cultivo de café de montaña de alta calidad.", "El municipio se encuentra en una zona de tierras altas geográficamente desafiante.", "Las culturas mayas mam y popti' definen el tejido social de la ciudad.", "La agricultura tradicional determina el ritmo de la vida diaria."], pt: ["La Libertad é conhecida pelo cultivo de café de montanha de alta qualidade.", "O município está localizado numa zona de terras altas geograficamente desafiadora.", "As culturas maias mam e popti' definem a estrutura social da cidade.", "A agricultura tradicional determina o ritmo da vida quotidiana."], fr: ["La Libertad est réputée pour la culture d'un café de montagne de haute qualité.", "La commune est située dans une zone de hauts plateaux géographiquement difficile.", "Les cultures Mayas Mam et Popti' façonnent le tissu social de la ville.", "L'agriculture traditionnelle rythme la vie quotidienne."]}
   },
   {
-    id: "gt-melchor-de-mencos-cities-v2",
+    id: "gt-melchor-de-mencos-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xunantunich",
+                  "text": "Eine bedeutende archäologische Stätte der Maya mit beeindruckenden Pyramiden.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "Ein Kulturzentrum, das die lokale Geschichte und Kunst in Benque präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "Informationszentrum für Besucher der Ausgrabungsstätte Xunantunich.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "Ein Park, der bedeutende Maya-Ruinen in Benque bewahrt.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Centro de Salud",
+                  "text": "Ein lokales Gesundheitszentrum, das als Orientierungspunkt dient.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "Weitere archäologische Überreste der antiken Maya-Zivilisation.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "Überwachsene Ruinen der Gruppe C in Melchor de Mencos.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "Ein Zentrum für lokale Kunst und sportliche Aktivitäten.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "Ein Denkmal zu Ehren der traditionellen Kaugummi-Sammler.",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xunantunich",
+                  "text": "Jelentős maja régészeti lelőhely lenyűgöző piramisokkal.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "A helyi történelmet és művészetet bemutató kulturális központ Benque-ben.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "Látogatóközpont a Xunantunich régészeti lelőhelyhez.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "Jelentős maja romokat őrző régészeti park Benque területén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Centro de Salud",
+                  "text": "Helyi egészségügyi központ, amely tájékozódási pontként is szolgál.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "Az ősi maja civilizáció további régészeti maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "A C-csoport növényzettel benőtt romjai Melchor de Mencosban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "Helyi művészeti és sporttevékenységek központja.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "Emlékmű a hagyományos gumigyűjtők (chicleros) tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xunantunich",
+                  "text": "Un sit arheologic maya important, cu piramide impresionante.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "Un centru cultural care prezintă istoria și arta locală în Benque.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "Centru de informații pentru vizitatorii sitului arheologic Xunantunich.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "Un parc arheologic care păstrează ruine maya importante în Benque.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Centro de Salud",
+                  "text": "Un centru de sănătate local care servește ca punct de reper.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "Alte vestigii arheologice ale vechii civilizații mayașe.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "Ruinele acoperite de vegetație ale Grupului C din Melchor de Mencos.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "Un centru pentru activități artistice și sportive locale.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "Un monument dedicat culegătorilor tradiționali de gumă (chicleros).",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xunantunich",
+                  "text": "An important ancient Maya archaeological site with impressive pyramids.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "A culture house showcasing local history and arts in Benque.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "Visitor information center for the Xunantunich archaeological site.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "An archaeological park preserving significant Maya ruins in Benque.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Health Centre",
+                  "text": "A local health centre that serves as a landmark.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "Further archaeological remains of the ancient Maya civilization.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "The overgrown ruins of Group C in Melchor de Mencos.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "A centre for local arts and community sporting activities.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "A monument honoring the traditional gum collectors (chicleros).",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-PE",
     coords: [-89.1500, 17.0667],
@@ -1914,7 +4884,160 @@ export const poiExtraGuatemalaCitiesV2: POI[] = [
     descriptionAdvanced: { de: "Cubulco ist eine traditionsreiche Gemeinde im Departement Baja Verapaz, die am westlichen Rand des Achi-Maya-Gebiets liegt. Die Stadt ist bekannt für ihre lebhaften religiösen Feste, insbesondere den Tanz des „Palo Volador“, der hier mit großer Hingabe praktiziert wird. Die Wirtschaft von Cubulco ist primär landwirtschaftlich geprägt, wobei der Anbau von Mais, Bohnen und verschiedenen Obstsorten in den sonnigen Tälern überwiegt. Die Stadt bewahrt eine ruhige und authentische Atmosphäre, die weitgehend unberührt vom Massentourismus geblieben ist. Die Bewohner pflegen ihre Achi-Identität durch Sprache, traditionelle Webkunst und gemeinschaftliche Rituale. Die umliegende Landschaft bietet reizvolle Wandermöglichkeiten in einer abwechslungsreichen Hügelwelt.", hu: "Cubulco egy hagyományokban gazdag önkormányzat Baja Verapaz megyében, az achi maja terület nyugati szélén. A város élénk vallási ünnepeiről ismert, különösen a „Palo Volador” táncról, amelyet itt nagy odaadással gyakorolnak. Cubulco gazdasága elsősorban mezőgazdasági jellegű, ahol a kukorica, a bab és a különféle gyümölcsök termesztése uralja a napsütötte völgyeket. A város nyugodt és hiteles hangulatot őriz, amely nagyrészt érintetlen maradt a tömegturizmustól. A lakók nyelvükkel, hagyományos szövőművészetükkel és közösségi szertartásaikkal ápolják achi identitásukat. A környező táj vonzó túralehetőségeket kínál a változatos dombvilágban, és a Szent Jakab tiszteletére rendezett városi ünnep a régió egyik legszínesebbje.", ro: "Cubulco este o municipalitate cu tradiții bogate din departamentul Baja Verapaz, situată la marginea vestică a teritoriului maya achi. Orașul este renumit pentru sărbătorile sale religioase animate, în special pentru dansul „Palo Volador”, care este practicat aici cu mare devotament. Economia Cubulco este caracterizată în principal de agricultură, predominând cultivarea porumbului, fasolei și a diverselor fructe în văile însorite. Orașul păstrează o atmosferă liniștită și autentică, rămasă în mare parte neatinsă de turismul de masă. Locuitorii își cultivă identitatea achi prin limbă, arta tradițională a țesutului și ritualuri comunitare. Peisajul înconjurător oferă posibilități atractive de drumeție într-o lume deluroasă variată, iar sărbătoarea orașului în onoarea Sfântului Iacov este una dintre cele mai colorate din regiune.", en: "Cubulco ist eine traditionsreiche Gemeinde im Departement Baja Verapaz, die am westlichen Rand des Achi-Maya-Gebiets liegt. Die Stadt ist bekannt für ihre lebhaften religiösen Feste, insbesondere den Tanz des „Palo Volador“, der hier mit großer Hingabe praktiziert wird. Die Wirtschaft von Cubulco ist primär landwirtschaftlich geprägt, wobei der Anbau von Mais, Bohnen und verschiedenen Obstsorten in den sonnigen Tälern überwiegt. Die Stadt bewahrt eine ruhige und authentische Atmosphäre, die weitgehend unberührt vom Massentourismus geblieben ist. Die Bewohner pflegen ihre Achi-Identität durch Sprache, traditionelle Webkunst und gemeinschaftliche Rituale. Die umliegende Landschaft bietet reizvolle Wandermöglichkeiten in einer abwechslungsreichen Hügelwelt." , es: "Cubulco es un municipio rico en tradiciones en el departamento de Baja Verapaz, situado en el extremo occidental del área maya Achi. La ciudad es conocida por sus vibrantes festivales religiosos, especialmente la danza del 'Palo Volador', que se practica aquí con gran devoción. La economía de Cubulco es principalmente agrícola, predominando el cultivo de maíz, frijoles y diversas frutas en los valles soleados. La ciudad conserva una atmósfera tranquila y auténtica, permaneciendo en gran medida al margen del turismo de masas. Los habitantes mantienen su identidad Achi a través del idioma, el arte tradicional del tejido y los rituales comunitarios. El paisaje circundante ofrece atractivas posibilidades de senderismo en un mundo de colinas variado.", pt: "Cubulco é um município rico em tradições no departamento de Baja Verapaz, situado na extremidade ocidental da área Maia Achi. A cidade é conhecida pelos seus vibrantes festivais religiosos, especialmente a dança do 'Palo Volador', que é praticada aqui com grande devoção. A economia de Cubulco é primariamente agrícola, predominando o cultivo de milho, feijão e diversas frutas nos vales ensolarados. A cidade preserva uma atmosfera tranquila e autêntica, permanecendo em grande parte intocada pelo turismo de massas. Os habitantes mantêm a sua identidade Achi através da língua, da tecelagem tradicional e de rituais comunitários. A paisagem circundante oferece atraentes possibilidades de caminhadas num mundo de colinas variado.", fr: "Cubulco est une commune riche en traditions du département de Baja Verapaz, située à la lisière ouest de la zone Maya Achi. La ville est réputée pour ses festivals religieux animés, en particulier la danse du 'Palo Volador', pratiquée ici avec une grande dévotion. L'économie de Cubulco est principalement agricole, avec une prédominance de la culture du maïs, des haricots et de divers fruits dans les vallées ensoleillées. La ville conserve une atmosphère calme et authentique, restant largement à l'écart du tourisme de masse. Les habitants entretiennent leur identité Achi à travers la langue, le tissage traditionnel et les rituels communautaires. Le paysage environnant offre d'agréables possibilités de randonnée dans un relief vallonné varié."},
     factsAdvanced: { de: ["Cubulco ist ein wichtiges Zentrum für den traditionellen „Palo Volador“-Tanz.", "Die Stadt ist fest in der Kultur der Achi-Maya verwurzelt.", "Die Landwirtschaft bestimmt den Lebensrhythmus der friedlichen Gemeinde.", "Das Stadtfest zu Ehren des Heiligen Jakobus gehört zu den buntesten der Region."], hu: ["Cubulco a hagyományos „Palo Volador” tánc fontos központja.", "A város szilárdan az achi maja kultúrában gyökerezik.", "A mezőgazdaság szabja meg a békés közösség életritmusát.", "A Szent Jakab tiszteletére rendezett városi ünnep a régió egyik legszínesebbje.", "Achi maja közösség őrzi nyelvét és hagyományait.", "Kukorica- és babtermesztés meghatározó."], ro: ["Cubulco este un centru important pentru dansul tradițional „Palo Volador”.", "Orașul este ferm înrădăcinat în cultura maya achi.", "Agricultura determină ritmul de viață al comunității pașnice.", "Sărbătoarea orașului în cinstea Sfântului Iacov este una dintre cele mai colorate din regiune.", "Comunitatea maya achi își păstrează limba și tradițiile.", "Cultivarea porumbului și a fasolei este predominantă."], en: ["Cubulco ist ein wichtiges Zentrum für den traditionellen „Palo Volador“-Tanz.", "Die Stadt ist fest in der Kultur der Achi-Maya verwurzelt.", "Die Landwirtschaft bestimmt den Lebensrhythmus der friedlichen Gemeinde.", "The city festival in honor of Saint James is one of the most colorful in the region."] , es: ["Cubulco es un centro importante para la danza tradicional del 'Palo Volador'.", "La ciudad está profundamente arraigada en la cultura maya Achi.", "La agricultura marca el ritmo de vida de esta comunidad pacífica.", "La fiesta patronal en honor a Santiago Apóstol es una de las más coloridas de la región."], pt: ["Cubulco é um centro importante para a dança tradicional do 'Palo Volador'.", "A cidade está profundamente enraizada na cultura Maia Achi.", "A agricultura determina o ritmo de vida da comunidade pacífica.", "A festa da cidade em honra de Santiago Apóstolo é uma das mais coloridas da região."], fr: ["Cubulco est un centre majeur pour la danse traditionnelle du 'Palo Volador'.", "La ville est profondément enracinée dans la culture Maya Achi.", "L'agriculture rythme la vie de cette communauté paisible.", "La fête patronale en l'honneur de Saint Jacques est l'une des plus colorées de la région."]}, image: "/poi-images/gt-cubulco-cities-v2.webp"},
   {
-    id: "gt-concepcion-chiquirichapa-cities-v2",
+    id: "gt-concepcion-chiquirichapa-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Parque Regional Municipal San Juan Ostuncalco",
+                  "text": "Ein regionales Naturschutzgebiet, das von der Gemeinde San Juan Ostuncalco verwaltet wird.",
+                  "category": "natural",
+                  "coords": [
+                        -91.637567,
+                        14.861178
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Concepcion Chiquirichapa",
+                  "text": "Ein Naturschutzgebiet zur Erhaltung der natürlichen Ressourcen in Concepción Chiquirichapa.",
+                  "category": "natural",
+                  "coords": [
+                        -91.64088,
+                        14.843578
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Ein streng geschütztes Naturgebiet rund um den Vulkan Siete Orejas.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "centro cultural de san juan ostuncalco",
+                  "text": "Ein lokales Kulturzentrum für Kunst und Veranstaltungen in Concepción Chiquirichapa.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.622245,
+                        14.868748
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Parque Regional Municipal San Juan Ostuncalco",
+                  "text": "Regionális természetvédelmi terület, amelyet San Juan Ostuncalco önkormányzata kezel.",
+                  "category": "natural",
+                  "coords": [
+                        -91.637567,
+                        14.861178
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Concepcion Chiquirichapa",
+                  "text": "Természetvédelmi terület a természeti erőforrások megőrzésére Concepción Chiquirichapában.",
+                  "category": "natural",
+                  "coords": [
+                        -91.64088,
+                        14.843578
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "Szigorúan védett természeti terület a Siete Orejas vulkán körül.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "centro cultural de san juan ostuncalco",
+                  "text": "Helyi kulturális központ Concepción Chiquirichapa városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.622245,
+                        14.868748
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Parque Regional Municipal San Juan Ostuncalco",
+                  "text": "O rezervație naturală regională administrată de municipalitatea San Juan Ostuncalco.",
+                  "category": "natural",
+                  "coords": [
+                        -91.637567,
+                        14.861178
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Concepcion Chiquirichapa",
+                  "text": "O rezervație naturală pentru conservarea resurselor naturale în Concepción Chiquirichapa.",
+                  "category": "natural",
+                  "coords": [
+                        -91.64088,
+                        14.843578
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "O zonă naturală strict protejată în jurul vulcanului Siete Orejas.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "centro cultural de san juan ostuncalco",
+                  "text": "Un centru cultural local pentru artă și evenimente în Concepción Chiquirichapa.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.622245,
+                        14.868748
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Parque Regional Municipal San Juan Ostuncalco",
+                  "text": "A regional nature reserve managed by the municipality of San Juan Ostuncalco.",
+                  "category": "natural",
+                  "coords": [
+                        -91.637567,
+                        14.861178
+                  ]
+            },
+            {
+                  "name": "Parque Regional Municipal Concepcion Chiquirichapa",
+                  "text": "A nature reserve for the conservation of natural resources in Concepción Chiquirichapa.",
+                  "category": "natural",
+                  "coords": [
+                        -91.64088,
+                        14.843578
+                  ]
+            },
+            {
+                  "name": "Zona de Veda Definitiva Volcán Siete Orejas",
+                  "text": "A strictly protected natural area surrounding the Siete Orejas volcano.",
+                  "category": "natural",
+                  "coords": [
+                        -91.602208,
+                        14.792039
+                  ]
+            },
+            {
+                  "name": "centro cultural de san juan ostuncalco",
+                  "text": "A local cultural centre for arts and events in Concepción Chiquirichapa.",
+                  "category": "cultural",
+                  "coords": [
+                        -91.622245,
+                        14.868748
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "GT-QZ",
     coords: [-91.6333, 14.8500],

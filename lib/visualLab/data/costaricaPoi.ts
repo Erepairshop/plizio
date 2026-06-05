@@ -43,7 +43,448 @@ export const costaricaCities: POI[] = [
     },
     historyYear: 1823, image: "/poi-images/cr-sanjose.webp"},
   {
-    id: "cr-alajuela",
+    id: "cr-alajuela", "sights": {
+      "de": [
+            {
+                  "name": "Anfiteatro UTN",
+                  "text": "Ein Amphitheater an der Nationalen Technischen Universität in Alajuela.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.215294,
+                        10.006274
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Das Stadttheater von Alajuela bietet Raum für verschiedene kulturelle Darbietungen.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.213909,
+                        10.015385
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacto del Jocote",
+                  "text": "Denkmal zur Erinnerung an den Pakt von Jocote in Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.239896,
+                        10.008718
+                  ]
+            },
+            {
+                  "name": "Monumento al Agricultor",
+                  "text": "Ein Denkmal in Alajuela, das die Arbeit der costa-ricanischen Bauern ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198797,
+                        9.999904
+                  ]
+            },
+            {
+                  "name": "Juan Santamaría Rodríguez",
+                  "text": "Eine Statue des Nationalhelden Juan Santamaría in seiner Geburtsstadt Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.203031,
+                        9.999185
+                  ]
+            },
+            {
+                  "name": "Monumento a Timoleón Morera Soto",
+                  "text": "Denkmal in Alajuela für den bedeutenden lokalen Bürger Timoleón Morera Soto.",
+                  "category": "historical",
+                  "coords": [
+                        -84.214549,
+                        10.031281
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico San José de Alajuela",
+                  "text": "Ein beliebter Ort für Erinnerungsfotos mit dem Namen der Stadt Alajuela.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.241756,
+                        10.01197
+                  ]
+            },
+            {
+                  "name": "Club de Leones de Alajuela",
+                  "text": "Ein Denkmal oder Gebäude in Alajuela, das mit dem Lions Club verbunden ist.",
+                  "category": "historical",
+                  "coords": [
+                        -84.218648,
+                        10.016839
+                  ]
+            },
+            {
+                  "name": "Aduana Las Cañas",
+                  "text": "Überreste des ehemaligen Zollgebäudes in Las Cañas bei Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.200576,
+                        10.00451
+                  ]
+            },
+            {
+                  "name": "Antiguo Moto Partes Molina",
+                  "text": "Die Ruinen eines ehemaligen Geschäftshauses für Motorradteile in Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198031,
+                        10.000978
+                  ]
+            },
+            {
+                  "name": "Hotel de Paso Infinity",
+                  "text": "Ruinen eines ehemaligen Hotels in der Umgebung von Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.241539,
+                        10.010324
+                  ]
+            },
+            {
+                  "name": "Plaza Oeste",
+                  "text": "Überreste oder Ruinen eines ehemaligen Platzes im Westen von Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.238442,
+                        10.011004
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Anfiteatro UTN",
+                  "text": "Amfiteátrum az Alajuelai Nemzeti Műszaki Egyetem területén.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.215294,
+                        10.006274
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Alajuela városi színháza, amely különféle kulturális előadásoknak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.213909,
+                        10.015385
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacto del Jocote",
+                  "text": "Az Alajuelában kötött Jocote-paktum emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -84.239896,
+                        10.008718
+                  ]
+            },
+            {
+                  "name": "Monumento al Agricultor",
+                  "text": "Alajuelai emlékmű, amely a costa rica-i földművesek munkája előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198797,
+                        9.999904
+                  ]
+            },
+            {
+                  "name": "Juan Santamaría Rodríguez",
+                  "text": "Juan Santamaría nemzeti hős szobra szülővárosában, Alajuelában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.203031,
+                        9.999185
+                  ]
+            },
+            {
+                  "name": "Monumento a Timoleón Morera Soto",
+                  "text": "Emlékmű Alajuelában Timoleón Morera Soto helyi jelentőségű személy tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -84.214549,
+                        10.031281
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico San José de Alajuela",
+                  "text": "Népszerű fotópont Alajuela városfeliratával a turisták számára.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.241756,
+                        10.01197
+                  ]
+            },
+            {
+                  "name": "Club de Leones de Alajuela",
+                  "text": "A helyi Lions Clubhoz kapcsolódó emlékmű vagy épület Alajuelában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.218648,
+                        10.016839
+                  ]
+            },
+            {
+                  "name": "Aduana Las Cañas",
+                  "text": "Az egykori vámház romjai Las Cañas környékén, Alajuelában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.200576,
+                        10.00451
+                  ]
+            },
+            {
+                  "name": "Antiguo Moto Partes Molina",
+                  "text": "Egy egykori motorkerékpár-alkatrész kereskedés romjai Alajuelában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198031,
+                        10.000978
+                  ]
+            },
+            {
+                  "name": "Hotel de Paso Infinity",
+                  "text": "Egy egykori szálláshely romjai Alajuela közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -84.241539,
+                        10.010324
+                  ]
+            },
+            {
+                  "name": "Plaza Oeste",
+                  "text": "Egy egykori tér maradványai vagy romjai Alajuela nyugati részén.",
+                  "category": "historical",
+                  "coords": [
+                        -84.238442,
+                        10.011004
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Anfiteatro UTN",
+                  "text": "Un amfiteatru la Universitatea Tehnică Națională din Alajuela.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.215294,
+                        10.006274
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "Teatrul municipal din Alajuela găzduiește diverse spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.213909,
+                        10.015385
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacto del Jocote",
+                  "text": "Monument ce comemorează Pactul de la Jocote, situat în Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.239896,
+                        10.008718
+                  ]
+            },
+            {
+                  "name": "Monumento al Agricultor",
+                  "text": "Un monument în Alajuela care onorează munca agricultorilor costaricani.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198797,
+                        9.999904
+                  ]
+            },
+            {
+                  "name": "Juan Santamaría Rodríguez",
+                  "text": "O statuie a eroului național Juan Santamaría în orașul său natal, Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.203031,
+                        9.999185
+                  ]
+            },
+            {
+                  "name": "Monumento a Timoleón Morera Soto",
+                  "text": "Monument în Alajuela dedicat personalității locale Timoleón Morera Soto.",
+                  "category": "historical",
+                  "coords": [
+                        -84.214549,
+                        10.031281
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico San José de Alajuela",
+                  "text": "Un loc popular pentru fotografii cu numele orașului Alajuela.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.241756,
+                        10.01197
+                  ]
+            },
+            {
+                  "name": "Club de Leones de Alajuela",
+                  "text": "Un monument sau clădire din Alajuela asociată cu clubul local Lions.",
+                  "category": "historical",
+                  "coords": [
+                        -84.218648,
+                        10.016839
+                  ]
+            },
+            {
+                  "name": "Aduana Las Cañas",
+                  "text": "Vestigiile fostei clădiri a vămii din Las Cañas, lângă Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.200576,
+                        10.00451
+                  ]
+            },
+            {
+                  "name": "Antiguo Moto Partes Molina",
+                  "text": "Ruinele unei foste clădiri comerciale de piese moto din Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198031,
+                        10.000978
+                  ]
+            },
+            {
+                  "name": "Hotel de Paso Infinity",
+                  "text": "Ruinele unei foste unități de cazare din zona Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.241539,
+                        10.010324
+                  ]
+            },
+            {
+                  "name": "Plaza Oeste",
+                  "text": "Vestigiile sau ruinele unei foste piețe din vestul orașului Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.238442,
+                        10.011004
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Anfiteatro UTN",
+                  "text": "An amphitheater at the National Technical University in Alajuela.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.215294,
+                        10.006274
+                  ]
+            },
+            {
+                  "name": "Teatro Municipal",
+                  "text": "The municipal theatre of Alajuela hosts various cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.213909,
+                        10.015385
+                  ]
+            },
+            {
+                  "name": "Monumento al Pacto del Jocote",
+                  "text": "Monument commemorating the Pact of Jocote in Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.239896,
+                        10.008718
+                  ]
+            },
+            {
+                  "name": "Monumento al Agricultor",
+                  "text": "A monument in Alajuela honoring the work of Costa Rican farmers.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198797,
+                        9.999904
+                  ]
+            },
+            {
+                  "name": "Juan Santamaría Rodríguez",
+                  "text": "A statue of the national hero Juan Santamaría in his hometown Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.203031,
+                        9.999185
+                  ]
+            },
+            {
+                  "name": "Monumento a Timoleón Morera Soto",
+                  "text": "Monument in Alajuela dedicated to the prominent local figure Timoleón Morera Soto.",
+                  "category": "historical",
+                  "coords": [
+                        -84.214549,
+                        10.031281
+                  ]
+            },
+            {
+                  "name": "Parador Fotográfico San José de Alajuela",
+                  "text": "A popular photo spot with the name of the city Alajuela.",
+                  "category": "landmark",
+                  "coords": [
+                        -84.241756,
+                        10.01197
+                  ]
+            },
+            {
+                  "name": "Club de Leones de Alajuela",
+                  "text": "A monument or building in Alajuela associated with the local Lions Club.",
+                  "category": "historical",
+                  "coords": [
+                        -84.218648,
+                        10.016839
+                  ]
+            },
+            {
+                  "name": "Aduana Las Cañas",
+                  "text": "Remains of the former customs building in Las Cañas, Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.200576,
+                        10.00451
+                  ]
+            },
+            {
+                  "name": "Antiguo Moto Partes Molina",
+                  "text": "The ruins of a former motorcycle parts business in Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.198031,
+                        10.000978
+                  ]
+            },
+            {
+                  "name": "Hotel de Paso Infinity",
+                  "text": "Ruins of a former lodging establishment in the Alajuela area.",
+                  "category": "historical",
+                  "coords": [
+                        -84.241539,
+                        10.010324
+                  ]
+            },
+            {
+                  "name": "Plaza Oeste",
+                  "text": "Remains or ruins of a former plaza in the west of Alajuela.",
+                  "category": "historical",
+                  "coords": [
+                        -84.238442,
+                        10.011004
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CR",
     coords: [-84.2167, 10.0167],
@@ -78,7 +519,304 @@ export const costaricaCities: POI[] = [
     },
     historyYear: 1782, image: "/poi-images/cr-alajuela.webp"},
   {
-    id: "cr-cartago",
+    id: "cr-cartago", "sights": {
+      "de": [
+            {
+                  "name": "Museo Municipal de Cartago",
+                  "text": "Städtisches Museum, das die Geschichte und Kunst der Stadt Cartago präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -83.919875,
+                        9.866926
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Independencia",
+                  "text": "Freilufttheater, das für kulturelle Veranstaltungen und Feierlichkeiten genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.927404,
+                        9.864915
+                  ]
+            },
+            {
+                  "name": "Casa Familia Jiménez Sancho",
+                  "text": "Historisches Wohnhaus und architektonisches Erbe der Familie Jiménez Sancho.",
+                  "category": "historical",
+                  "coords": [
+                        -83.919337,
+                        9.863121
+                  ]
+            },
+            {
+                  "name": "Cruz de Caravaca",
+                  "text": "Historisches Kreuzmonument an einem wichtigen Punkt der Stadt.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911679,
+                        9.868283
+                  ]
+            },
+            {
+                  "name": "Estatua de Confucio",
+                  "text": "Statue zu Ehren des chinesischen Philosophen Konfuzius in Cartago.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911235,
+                        9.857478
+                  ]
+            },
+            {
+                  "name": "Monumento a La Independencia",
+                  "text": "Denkmal zur Erinnerung an die Unabhängigkeit Costa Ricas.",
+                  "category": "historical",
+                  "coords": [
+                        -83.920702,
+                        9.864312
+                  ]
+            },
+            {
+                  "name": "Casita de Arte",
+                  "text": "Kleines Kunstzentrum, das lokale Kreativität und Ausstellungen fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.914509,
+                        9.863192
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de Los Ángeles",
+                  "text": "Bedeutende Basilika und wichtigster Wallfahrtsort in Costa Rica.",
+                  "category": "religious",
+                  "coords": [
+                        -83.912884,
+                        9.864104
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo Municipal de Cartago",
+                  "text": "Városi múzeum, amely Cartago történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -83.919875,
+                        9.866926
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Independencia",
+                  "text": "Szabadtéri színház, amelyet kulturális eseményekre és ünnepségekre használnak.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.927404,
+                        9.864915
+                  ]
+            },
+            {
+                  "name": "Casa Familia Jiménez Sancho",
+                  "text": "A Jiménez Sancho család történelmi lakóháza és építészeti öröksége.",
+                  "category": "historical",
+                  "coords": [
+                        -83.919337,
+                        9.863121
+                  ]
+            },
+            {
+                  "name": "Cruz de Caravaca",
+                  "text": "Történelmi kereszt emlékmű a város egy fontos pontján.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911679,
+                        9.868283
+                  ]
+            },
+            {
+                  "name": "Estatua de Confucio",
+                  "text": "Konfuciusz kínai filozófus tiszteletére állított szobor Cartagóban.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911235,
+                        9.857478
+                  ]
+            },
+            {
+                  "name": "Monumento a La Independencia",
+                  "text": "Costa Rica függetlenségének emlékére állított emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -83.920702,
+                        9.864312
+                  ]
+            },
+            {
+                  "name": "Casita de Arte",
+                  "text": "Kis művészeti központ, amely a helyi kreativitást és kiállításokat támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.914509,
+                        9.863192
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de Los Ángeles",
+                  "text": "Jelentős bazilika és Costa Rica legfontosabb zarándokhelye.",
+                  "category": "religious",
+                  "coords": [
+                        -83.912884,
+                        9.864104
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo Municipal de Cartago",
+                  "text": "Muzeu municipal care prezintă istoria și arta orașului Cartago.",
+                  "category": "museum",
+                  "coords": [
+                        -83.919875,
+                        9.866926
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Independencia",
+                  "text": "Amfiteatru în aer liber utilizat pentru evenimente culturale și celebrări.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.927404,
+                        9.864915
+                  ]
+            },
+            {
+                  "name": "Casa Familia Jiménez Sancho",
+                  "text": "Casă istorică și moștenire arhitecturală a familiei Jiménez Sancho.",
+                  "category": "historical",
+                  "coords": [
+                        -83.919337,
+                        9.863121
+                  ]
+            },
+            {
+                  "name": "Cruz de Caravaca",
+                  "text": "Monument istoric sub formă de cruce situat într-un punct important al orașului.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911679,
+                        9.868283
+                  ]
+            },
+            {
+                  "name": "Estatua de Confucio",
+                  "text": "Statuie ridicată în cinstea filozofului chinez Confucius în Cartago.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911235,
+                        9.857478
+                  ]
+            },
+            {
+                  "name": "Monumento a La Independencia",
+                  "text": "Monument care comemorează independența Costa Ricăi.",
+                  "category": "historical",
+                  "coords": [
+                        -83.920702,
+                        9.864312
+                  ]
+            },
+            {
+                  "name": "Casita de Arte",
+                  "text": "Mic centru de artă care promovează creativitatea locală și expozițiile.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.914509,
+                        9.863192
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de Los Ángeles",
+                  "text": "Bazilică importantă și cel mai însemnat loc de pelerinaj din Costa Rica.",
+                  "category": "religious",
+                  "coords": [
+                        -83.912884,
+                        9.864104
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo Municipal de Cartago",
+                  "text": "Municipal museum presenting the history and art of Cartago.",
+                  "category": "museum",
+                  "coords": [
+                        -83.919875,
+                        9.866926
+                  ]
+            },
+            {
+                  "name": "Anfiteatro de la Independencia",
+                  "text": "Outdoor amphitheater used for cultural events and celebrations.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.927404,
+                        9.864915
+                  ]
+            },
+            {
+                  "name": "Casa Familia Jiménez Sancho",
+                  "text": "Historic residence and architectural heritage of the Jiménez Sancho family.",
+                  "category": "historical",
+                  "coords": [
+                        -83.919337,
+                        9.863121
+                  ]
+            },
+            {
+                  "name": "Cruz de Caravaca",
+                  "text": "Historic cross monument located at an important point in the city.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911679,
+                        9.868283
+                  ]
+            },
+            {
+                  "name": "Estatua de Confucio",
+                  "text": "Statue honoring the Chinese philosopher Confucius in Cartago.",
+                  "category": "historical",
+                  "coords": [
+                        -83.911235,
+                        9.857478
+                  ]
+            },
+            {
+                  "name": "Monumento a La Independencia",
+                  "text": "Monument commemorating the independence of Costa Rica.",
+                  "category": "historical",
+                  "coords": [
+                        -83.920702,
+                        9.864312
+                  ]
+            },
+            {
+                  "name": "Casita de Arte",
+                  "text": "Small arts center promoting local creativity and exhibitions.",
+                  "category": "cultural",
+                  "coords": [
+                        -83.914509,
+                        9.863192
+                  ]
+            },
+            {
+                  "name": "Basílica de Nuestra Señora de Los Ángeles",
+                  "text": "Significant basilica and the most important pilgrimage site in Costa Rica.",
+                  "category": "religious",
+                  "coords": [
+                        -83.912884,
+                        9.864104
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CR",
     coords: [-83.9167, 9.8667],
@@ -113,7 +851,700 @@ export const costaricaCities: POI[] = [
     },
     historyYear: 1563, image: "/poi-images/cr-cartago.webp"},
   {
-    id: "cr-heredia",
+    id: "cr-heredia", "sights": {
+      "de": [
+            {
+                  "name": "Museo de Cultura Popular",
+                  "text": "Das Museo de Cultura Popular ist ein Museum in Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.114857,
+                        10.017264
+                  ]
+            },
+            {
+                  "name": "Castillo de Mercedes",
+                  "text": "Das Castillo de Mercedes ist ein schlossartiges Gebäude in der Stadt Heredia.",
+                  "category": "castle",
+                  "coords": [
+                        -84.118846,
+                        10.009676
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Clodomiro Picado\"",
+                  "text": "Das Auditorio „Clodomiro Picado“ ist ein Veranstaltungsort für Theateraufführungen in Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.109581,
+                        9.99961
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Das Anfiteatro ist ein Theater in der Stadt Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.122005,
+                        9.991283
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Alfredo González Flores",
+                  "text": "Die Casa de la Cultura Alfredo González Flores ist ein Museum in Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.116556,
+                        9.998976
+                  ]
+            },
+            {
+                  "name": "Teatro Ataualpa del Ciopo",
+                  "text": "Das Teatro Ataualpa del Ciopo ist ein Theater für darstellende Künste in Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.1062,
+                        10.000436
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Herediana Omar Dengo",
+                  "text": "Das Centro de la Cultura Herediana Omar Dengo ist ein Museum in Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.117809,
+                        9.999177
+                  ]
+            },
+            {
+                  "name": "Planta La Joya",
+                  "text": "Planta La Joya ist eine Anlage, die als Museum in Heredia dient.",
+                  "category": "museum",
+                  "coords": [
+                        -84.109513,
+                        10.008363
+                  ]
+            },
+            {
+                  "name": "Teatro Heredia",
+                  "text": "Das Teatro Heredia ist ein lokales Theater in der Stadt.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.114666,
+                        10.00103
+                  ]
+            },
+            {
+                  "name": "Arraigo",
+                  "text": "Arraigo ist ein lokales Denkmal in der Stadt Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.10996,
+                        9.985002
+                  ]
+            },
+            {
+                  "name": "San Antonio María Claret",
+                  "text": "Das Denkmal von San Antonio María Claret ist ein Wahrzeichen in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.130503,
+                        10.008271
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Carmen",
+                  "text": "Die Gruta Virgen del Carmen ist ein Denkmal in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.114711,
+                        9.996583
+                  ]
+            },
+            {
+                  "name": "Piedra La Terraza",
+                  "text": "Piedra La Terraza ist ein steinernes Denkmal in der Stadt Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.102745,
+                        10.015507
+                  ]
+            },
+            {
+                  "name": "Casa de Exposición Artística de Jimenez Deredia",
+                  "text": "Diese Galerie zeigt künstlerische Ausstellungen in der Stadt Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.100454,
+                        10.002845
+                  ]
+            },
+            {
+                  "name": "Baviera",
+                  "text": "Baviera ist ein Kunstzentrum in der Stadt Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.111474,
+                        9.98464
+                  ]
+            },
+            {
+                  "name": "Monumento Piedra Grande",
+                  "text": "Das Monumento Piedra Grande ist ein Denkmal in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.099816,
+                        10.014962
+                  ]
+            },
+            {
+                  "name": "Condominio Abandonado Reina del Café",
+                  "text": "Das verlassene Condominio Reina del Café ist eine Ruine in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.123492,
+                        9.988988
+                  ]
+            },
+            {
+                  "name": "Estudio Arte Leo Yang",
+                  "text": "Das Estudio Arte Leo Yang ist ein Kunstzentrum in Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.134187,
+                        9.990487
+                  ]
+            },
+            {
+                  "name": "Parroquia San Bartolomé",
+                  "text": "Die Parroquia San Bartolomé ist ein Gotteshaus für die Einwohner von Heredia.",
+                  "category": "religious",
+                  "coords": [
+                        -84.123338,
+                        10.02089
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo de Cultura Popular",
+                  "text": "A Museo de Cultura Popular egy múzeum Heredia városában.",
+                  "category": "museum",
+                  "coords": [
+                        -84.114857,
+                        10.017264
+                  ]
+            },
+            {
+                  "name": "Castillo de Mercedes",
+                  "text": "A Castillo de Mercedes egy kastély stílusú épület Heredia városában.",
+                  "category": "castle",
+                  "coords": [
+                        -84.118846,
+                        10.009676
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Clodomiro Picado\"",
+                  "text": "A \"Clodomiro Picado\" Auditórium egy színházi előadóterem Herediában.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.109581,
+                        9.99961
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Az Anfiteatro egy színház Heredia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.122005,
+                        9.991283
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Alfredo González Flores",
+                  "text": "A Casa de la Cultura Alfredo González Flores egy múzeum Herediában.",
+                  "category": "museum",
+                  "coords": [
+                        -84.116556,
+                        9.998976
+                  ]
+            },
+            {
+                  "name": "Teatro Ataualpa del Ciopo",
+                  "text": "A Teatro Ataualpa del Ciopo egy színház Herediában.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.1062,
+                        10.000436
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Herediana Omar Dengo",
+                  "text": "A Centro de la Cultura Herediana Omar Dengo egy múzeum Herediában.",
+                  "category": "museum",
+                  "coords": [
+                        -84.117809,
+                        9.999177
+                  ]
+            },
+            {
+                  "name": "Planta La Joya",
+                  "text": "A Planta La Joya egy ipari létesítményből kialakított múzeum Herediában.",
+                  "category": "museum",
+                  "coords": [
+                        -84.109513,
+                        10.008363
+                  ]
+            },
+            {
+                  "name": "Teatro Heredia",
+                  "text": "A Teatro Heredia egy helyi színház a városban.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.114666,
+                        10.00103
+                  ]
+            },
+            {
+                  "name": "Arraigo",
+                  "text": "Az Arraigo egy helyi emlékmű Heredia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.10996,
+                        9.985002
+                  ]
+            },
+            {
+                  "name": "San Antonio María Claret",
+                  "text": "A San Antonio María Claret egy emlékmű Heredia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.130503,
+                        10.008271
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Carmen",
+                  "text": "A Gruta Virgen del Carmen egy emlékmű Herediában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.114711,
+                        9.996583
+                  ]
+            },
+            {
+                  "name": "Piedra La Terraza",
+                  "text": "A Piedra La Terraza egy emlékmű Heredia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.102745,
+                        10.015507
+                  ]
+            },
+            {
+                  "name": "Casa de Exposición Artística de Jimenez Deredia",
+                  "text": "Ez a galéria művészeti kiállításokat mutat be Heredia városában.",
+                  "category": "museum",
+                  "coords": [
+                        -84.100454,
+                        10.002845
+                  ]
+            },
+            {
+                  "name": "Baviera",
+                  "text": "A Baviera egy művészeti központ Heredia városában.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.111474,
+                        9.98464
+                  ]
+            },
+            {
+                  "name": "Monumento Piedra Grande",
+                  "text": "A Monumento Piedra Grande egy emlékmű Heredia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.099816,
+                        10.014962
+                  ]
+            },
+            {
+                  "name": "Condominio Abandonado Reina del Café",
+                  "text": "Az elhagyatott Reina del Café társasház egy rom Heredia városában.",
+                  "category": "historical",
+                  "coords": [
+                        -84.123492,
+                        9.988988
+                  ]
+            },
+            {
+                  "name": "Estudio Arte Leo Yang",
+                  "text": "Az Estudio Arte Leo Yang egy művészeti központ Herediában.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.134187,
+                        9.990487
+                  ]
+            },
+            {
+                  "name": "Parroquia San Bartolomé",
+                  "text": "A Parroquia San Bartolomé egy istentiszteleti hely Heredia lakói számára.",
+                  "category": "religious",
+                  "coords": [
+                        -84.123338,
+                        10.02089
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo de Cultura Popular",
+                  "text": "Museo de Cultura Popular este un muzeu din orașul Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.114857,
+                        10.017264
+                  ]
+            },
+            {
+                  "name": "Castillo de Mercedes",
+                  "text": "Castillo de Mercedes este o clădire în stil de castel situată în orașul Heredia.",
+                  "category": "castle",
+                  "coords": [
+                        -84.118846,
+                        10.009676
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Clodomiro Picado\"",
+                  "text": "Auditorio „Clodomiro Picado” este un spațiu pentru spectacole de teatru în Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.109581,
+                        9.99961
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "Anfiteatro este un teatru situat în orașul Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.122005,
+                        9.991283
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Alfredo González Flores",
+                  "text": "Casa de la Cultura Alfredo González Flores este un muzeu situat în Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.116556,
+                        9.998976
+                  ]
+            },
+            {
+                  "name": "Teatro Ataualpa del Ciopo",
+                  "text": "Teatro Ataualpa del Ciopo este un teatru situat în Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.1062,
+                        10.000436
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Herediana Omar Dengo",
+                  "text": "Centro de la Cultura Herediana Omar Dengo este un muzeu din Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.117809,
+                        9.999177
+                  ]
+            },
+            {
+                  "name": "Planta La Joya",
+                  "text": "Planta La Joya este un muzeu situat în Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.109513,
+                        10.008363
+                  ]
+            },
+            {
+                  "name": "Teatro Heredia",
+                  "text": "Teatro Heredia este un teatru local din oraș.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.114666,
+                        10.00103
+                  ]
+            },
+            {
+                  "name": "Arraigo",
+                  "text": "Arraigo este un monument local aflat în orașul Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.10996,
+                        9.985002
+                  ]
+            },
+            {
+                  "name": "San Antonio María Claret",
+                  "text": "Monumentul San Antonio María Claret este un reper situat în Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.130503,
+                        10.008271
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Carmen",
+                  "text": "Gruta Virgen del Carmen este un monument situat în Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.114711,
+                        9.996583
+                  ]
+            },
+            {
+                  "name": "Piedra La Terraza",
+                  "text": "Piedra La Terraza este un monument aflat în orașul Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.102745,
+                        10.015507
+                  ]
+            },
+            {
+                  "name": "Casa de Exposición Artística de Jimenez Deredia",
+                  "text": "Această galerie găzduiește expoziții de artă în orașul Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.100454,
+                        10.002845
+                  ]
+            },
+            {
+                  "name": "Baviera",
+                  "text": "Baviera este un centru de artă din Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.111474,
+                        9.98464
+                  ]
+            },
+            {
+                  "name": "Monumento Piedra Grande",
+                  "text": "Monumento Piedra Grande este un monument situat în Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.099816,
+                        10.014962
+                  ]
+            },
+            {
+                  "name": "Condominio Abandonado Reina del Café",
+                  "text": "Condominio Abandonado Reina del Café este o ruină din Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.123492,
+                        9.988988
+                  ]
+            },
+            {
+                  "name": "Estudio Arte Leo Yang",
+                  "text": "Estudio Arte Leo Yang este un centru de artă situat în Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.134187,
+                        9.990487
+                  ]
+            },
+            {
+                  "name": "Parroquia San Bartolomé",
+                  "text": "Parroquia San Bartolomé este un lăcaș de cult pentru locuitorii din Heredia.",
+                  "category": "religious",
+                  "coords": [
+                        -84.123338,
+                        10.02089
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo de Cultura Popular",
+                  "text": "The Museo de Cultura Popular is a museum dedicated to culture in Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.114857,
+                        10.017264
+                  ]
+            },
+            {
+                  "name": "Castillo de Mercedes",
+                  "text": "Castillo de Mercedes is a castle-style building located in the city of Heredia.",
+                  "category": "castle",
+                  "coords": [
+                        -84.118846,
+                        10.009676
+                  ]
+            },
+            {
+                  "name": "Auditorio \"Clodomiro Picado\"",
+                  "text": "Auditorio \"Clodomiro Picado\" is a venue for theatrical performances in Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.109581,
+                        9.99961
+                  ]
+            },
+            {
+                  "name": "Anfiteatro",
+                  "text": "The Anfiteatro is a theatre venue located in Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.122005,
+                        9.991283
+                  ]
+            },
+            {
+                  "name": "Casa de la Cultura Alfredo González Flores",
+                  "text": "Casa de la Cultura Alfredo González Flores is a cultural museum situated in Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.116556,
+                        9.998976
+                  ]
+            },
+            {
+                  "name": "Teatro Ataualpa del Ciopo",
+                  "text": "Teatro Ataualpa del Ciopo is a performing arts theatre located in Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.1062,
+                        10.000436
+                  ]
+            },
+            {
+                  "name": "Centro de la Cultura Herediana Omar Dengo",
+                  "text": "Centro de la Cultura Herediana Omar Dengo is a museum located in Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.117809,
+                        9.999177
+                  ]
+            },
+            {
+                  "name": "Planta La Joya",
+                  "text": "Planta La Joya is a site operating as a museum in Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.109513,
+                        10.008363
+                  ]
+            },
+            {
+                  "name": "Teatro Heredia",
+                  "text": "Teatro Heredia is a local theatre hosting performances in the city.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.114666,
+                        10.00103
+                  ]
+            },
+            {
+                  "name": "Arraigo",
+                  "text": "Arraigo is a local monument standing in the city of Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.10996,
+                        9.985002
+                  ]
+            },
+            {
+                  "name": "San Antonio María Claret",
+                  "text": "The San Antonio María Claret monument is a landmark situated in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.130503,
+                        10.008271
+                  ]
+            },
+            {
+                  "name": "Gruta Virgen del Carmen",
+                  "text": "Gruta Virgen del Carmen is a monument located in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.114711,
+                        9.996583
+                  ]
+            },
+            {
+                  "name": "Piedra La Terraza",
+                  "text": "Piedra La Terraza is a monument found in the city of Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.102745,
+                        10.015507
+                  ]
+            },
+            {
+                  "name": "Casa de Exposición Artística de Jimenez Deredia",
+                  "text": "This gallery showcases artistic exhibitions in the city of Heredia.",
+                  "category": "museum",
+                  "coords": [
+                        -84.100454,
+                        10.002845
+                  ]
+            },
+            {
+                  "name": "Baviera",
+                  "text": "Baviera is an arts centre serving the community of Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.111474,
+                        9.98464
+                  ]
+            },
+            {
+                  "name": "Monumento Piedra Grande",
+                  "text": "Monumento Piedra Grande is a monument located in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.099816,
+                        10.014962
+                  ]
+            },
+            {
+                  "name": "Condominio Abandonado Reina del Café",
+                  "text": "The Abandoned Reina del Café Condominium is a ruined structure in Heredia.",
+                  "category": "historical",
+                  "coords": [
+                        -84.123492,
+                        9.988988
+                  ]
+            },
+            {
+                  "name": "Estudio Arte Leo Yang",
+                  "text": "Estudio Arte Leo Yang is a creative arts centre situated in Heredia.",
+                  "category": "cultural",
+                  "coords": [
+                        -84.134187,
+                        9.990487
+                  ]
+            },
+            {
+                  "name": "Parroquia San Bartolomé",
+                  "text": "Parroquia San Bartolomé is a place of worship serving the residents of Heredia.",
+                  "category": "religious",
+                  "coords": [
+                        -84.123338,
+                        10.02089
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CR",
     coords: [-84.1167, 10.0000],
@@ -148,7 +1579,124 @@ export const costaricaCities: POI[] = [
     },
     historyYear: 1706, image: "/poi-images/cr-heredia.webp"},
   {
-    id: "cr-liberia",
+    id: "cr-liberia", "sights": {
+      "de": [
+            {
+                  "name": "Museo del Sabanero",
+                  "text": "Ein Museum in Liberia, das dem Leben der costa-ricanischen Cowboys gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -85.435971,
+                        10.627136
+                  ]
+            },
+            {
+                  "name": "Antigua Gobernación",
+                  "text": "Ein historisches Regierungsgebäude in Liberia, das heute als Museum dient.",
+                  "category": "museum",
+                  "coords": [
+                        -85.437538,
+                        10.629384
+                  ]
+            },
+            {
+                  "name": "Al Sabanero",
+                  "text": "Ein Denkmal in Liberia, das die Tradition der Sabanero-Cowboys ehrt.",
+                  "category": "historical",
+                  "coords": [
+                        -85.441549,
+                        10.627684
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo del Sabanero",
+                  "text": "Liberiai múzeum, amely a costa rica-i cowboyok (sabaneros) életét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -85.435971,
+                        10.627136
+                  ]
+            },
+            {
+                  "name": "Antigua Gobernación",
+                  "text": "Történelmi kormányzati épület Liberiában, amely ma múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        -85.437538,
+                        10.629384
+                  ]
+            },
+            {
+                  "name": "Al Sabanero",
+                  "text": "Liberiai emlékmű, amely a helyi cowboy-hagyományok előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        -85.441549,
+                        10.627684
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo del Sabanero",
+                  "text": "Un muzeu din Liberia dedicat vieții cowboy-ilor costaricani (sabaneros).",
+                  "category": "museum",
+                  "coords": [
+                        -85.435971,
+                        10.627136
+                  ]
+            },
+            {
+                  "name": "Antigua Gobernación",
+                  "text": "O clădire guvernamentală istorică din Liberia, care acum servește ca muzeu.",
+                  "category": "museum",
+                  "coords": [
+                        -85.437538,
+                        10.629384
+                  ]
+            },
+            {
+                  "name": "Al Sabanero",
+                  "text": "Un monument în Liberia care onorează tradiția cowboy-ilor sabanero.",
+                  "category": "historical",
+                  "coords": [
+                        -85.441549,
+                        10.627684
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo del Sabanero",
+                  "text": "A museum in Liberia dedicated to the life of Costa Rican cowboys (sabaneros).",
+                  "category": "museum",
+                  "coords": [
+                        -85.435971,
+                        10.627136
+                  ]
+            },
+            {
+                  "name": "Antigua Gobernación",
+                  "text": "A historic government building in Liberia, now serving as a museum.",
+                  "category": "museum",
+                  "coords": [
+                        -85.437538,
+                        10.629384
+                  ]
+            },
+            {
+                  "name": "Al Sabanero",
+                  "text": "A monument in Liberia honoring the sabanero cowboy tradition.",
+                  "category": "historical",
+                  "coords": [
+                        -85.441549,
+                        10.627684
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CR",
     coords: [-85.4333, 10.6333],
@@ -603,7 +2151,196 @@ export const costaricaLandmarks: POI[] = [
       fr: ["Abrite les 4 espèces de singes du CR", "Site important pour les jaguars", "Accessible uniquement avec un guide"],
     }, image: "/poi-images/cr-corcovado.webp"},
   {
-    id: "cr-tamarindo",
+    id: "cr-tamarindo", "sights": {
+      "de": [
+            {
+                  "name": "Bahía Tamarindo",
+                  "text": "Malerische Bucht, bekannt für ihre Strände und Wassersportmöglichkeiten.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.84791,
+                        10.307172
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Aussichtspunkt mit schönem Blick über die Bucht von Tamarindo.",
+                  "category": "natural",
+                  "coords": [
+                        -85.836024,
+                        10.299717
+                  ]
+            },
+            {
+                  "name": "Tamarindo Art Gallery",
+                  "text": "Kunstgalerie, die zeitgenössische Werke lokaler Künstler zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -85.822207,
+                        10.309782
+                  ]
+            },
+            {
+                  "name": "street art Gallery",
+                  "text": "Galerie im Freien, die sich der lokalen Straßenkunst widmet.",
+                  "category": "museum",
+                  "coords": [
+                        -85.840913,
+                        10.29999
+                  ]
+            },
+            {
+                  "name": "Art Gallery Cafe Junior Rodriguez",
+                  "text": "Kombination aus Kunstgalerie und Café in Tamarindo.",
+                  "category": "museum",
+                  "coords": [
+                        -85.841465,
+                        10.297496
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Bahía Tamarindo",
+                  "text": "Gleccseröböl, amely strandjairól és vízisport-lehetőségeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.84791,
+                        10.307172
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Kilátópont szép kilátással a Tamarindo-öbölre.",
+                  "category": "natural",
+                  "coords": [
+                        -85.836024,
+                        10.299717
+                  ]
+            },
+            {
+                  "name": "Tamarindo Art Gallery",
+                  "text": "Művészeti galéria, amely helyi művészek kortárs alkotásait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -85.822207,
+                        10.309782
+                  ]
+            },
+            {
+                  "name": "street art Gallery",
+                  "text": "Szabadtéri galéria, amelyet a helyi utcai művészetnek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        -85.840913,
+                        10.29999
+                  ]
+            },
+            {
+                  "name": "Art Gallery Cafe Junior Rodriguez",
+                  "text": "Művészeti galéria és kávézó kombinációja Tamarindóban.",
+                  "category": "museum",
+                  "coords": [
+                        -85.841465,
+                        10.297496
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Bahía Tamarindo",
+                  "text": "Golf pitoresc, cunoscut pentru plajele sale și posibilitățile de sporturi nautice.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.84791,
+                        10.307172
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Punct de observație cu o vedere frumoasă asupra golfului Tamarindo.",
+                  "category": "natural",
+                  "coords": [
+                        -85.836024,
+                        10.299717
+                  ]
+            },
+            {
+                  "name": "Tamarindo Art Gallery",
+                  "text": "Galerie de artă care expune lucrări contemporane ale artiștilor locali.",
+                  "category": "museum",
+                  "coords": [
+                        -85.822207,
+                        10.309782
+                  ]
+            },
+            {
+                  "name": "street art Gallery",
+                  "text": "Galerie în aer liber dedicată artei stradale locale.",
+                  "category": "museum",
+                  "coords": [
+                        -85.840913,
+                        10.29999
+                  ]
+            },
+            {
+                  "name": "Art Gallery Cafe Junior Rodriguez",
+                  "text": "Combinație de galerie de artă și cafenea în Tamarindo.",
+                  "category": "museum",
+                  "coords": [
+                        -85.841465,
+                        10.297496
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Bahía Tamarindo",
+                  "text": "Scenic bay known for its beaches and water sports opportunities.",
+                  "category": "landmark",
+                  "coords": [
+                        -85.84791,
+                        10.307172
+                  ]
+            },
+            {
+                  "name": "Mirador",
+                  "text": "Viewpoint with a beautiful view over the Tamarindo bay.",
+                  "category": "natural",
+                  "coords": [
+                        -85.836024,
+                        10.299717
+                  ]
+            },
+            {
+                  "name": "Tamarindo Art Gallery",
+                  "text": "Art gallery showcasing contemporary works by local artists.",
+                  "category": "museum",
+                  "coords": [
+                        -85.822207,
+                        10.309782
+                  ]
+            },
+            {
+                  "name": "street art Gallery",
+                  "text": "Outdoor gallery dedicated to local street art.",
+                  "category": "museum",
+                  "coords": [
+                        -85.840913,
+                        10.29999
+                  ]
+            },
+            {
+                  "name": "Art Gallery Cafe Junior Rodriguez",
+                  "text": "Combination of an art gallery and a cafe in Tamarindo.",
+                  "category": "museum",
+                  "coords": [
+                        -85.841465,
+                        10.297496
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "CR",
     coords: [-85.8333, 10.3000],

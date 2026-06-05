@@ -499,6 +499,42 @@ export const montenegroEconomicV2: POI[] = [
                         19.242207,
                         41.909014
                   ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "Ein kleiner Tierpark oder Streichelzoo in der Region Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "Ein kleiner Vergnügungspark für Familien in der Gegend von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Ein felsiger Küstenabschnitt bei Ulcinj, umgeben von Pinienwäldern.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "Eine Ferienanlage mit Strandzugang in der Küstenregion von Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
+                  ]
             }
       ],
       "hu": [
@@ -545,6 +581,42 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.242207,
                         41.909014
+                  ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "Kisebb állatpark vagy állatsimogató Ulcinj régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "Kisebb vidámpark családok számára Ulcinj környékén.",
+                  "category": "recreational",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "Sziklás tengerparti szakasz Ulcinj közelében, fenyőerdőkkel körülvéve.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "Üdülőhely strandkapcsolattal Ulcinj tengerparti régiójában.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
                   ]
             }
       ],
@@ -593,6 +665,42 @@ export const montenegroEconomicV2: POI[] = [
                         19.242207,
                         41.909014
                   ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "Un mic parc zoologic sau grădină zoologică cu animale de mângâiat în regiunea Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "Un mic parc de distracții pentru familii în zona Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "O secțiune de coastă stâncoasă lângă Ulcinj, înconjurată de păduri de pini.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "O stațiune de vacanță cu acces la plajă în regiunea de coastă a Ulcinjului.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
+                  ]
             }
       ],
       "en": [
@@ -639,6 +747,42 @@ export const montenegroEconomicV2: POI[] = [
                   "coords": [
                         19.242207,
                         41.909014
+                  ]
+            },
+            {
+                  "name": "Lopa Davas",
+                  "text": "A small animal park or petting zoo in the Ulcinj region.",
+                  "category": "recreational",
+                  "coords": [
+                        19.237519,
+                        41.928057
+                  ]
+            },
+            {
+                  "name": "Lutovac Amusement Park",
+                  "text": "A small amusement park for families in the Ulcinj area.",
+                  "category": "recreational",
+                  "coords": [
+                        19.239722,
+                        41.915022
+                  ]
+            },
+            {
+                  "name": "Albatros beach",
+                  "text": "A rocky coastal stretch near Ulcinj, surrounded by pine forests.",
+                  "category": "recreational",
+                  "coords": [
+                        19.215013,
+                        41.91869
+                  ]
+            },
+            {
+                  "name": "Azul Beach Resort",
+                  "text": "A holiday resort with beach access in the coastal region of Ulcinj.",
+                  "category": "recreational",
+                  "coords": [
+                        19.244719,
+                        41.90912
                   ]
             }
       ]
@@ -1128,7 +1272,88 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-podgorica-airport-economic-v2.webp",
   },
   {
-    id: "montenegro-zupa-niksic-agri-economic-v2",
+    id: "montenegro-zupa-niksic-agri-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Daznik",
+                  "text": "Daznik ist ein Berggipfel in der Region Župa.",
+                  "category": "natural",
+                  "coords": [
+                        19.074727,
+                        42.835461
+                  ]
+            },
+            {
+                  "name": "Đurkovo brdo",
+                  "text": "Đurkovo brdo ist ein Berggipfel in der Region Župa.",
+                  "category": "natural",
+                  "coords": [
+                        19.078299,
+                        42.823495
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Daznik",
+                  "text": "A Daznik egy hegycsúcs Župa régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        19.074727,
+                        42.835461
+                  ]
+            },
+            {
+                  "name": "Đurkovo brdo",
+                  "text": "A Đurkovo brdo egy hegycsúcs Župa régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        19.078299,
+                        42.823495
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Daznik",
+                  "text": "Daznik este un vârf montan din regiunea Župa.",
+                  "category": "natural",
+                  "coords": [
+                        19.074727,
+                        42.835461
+                  ]
+            },
+            {
+                  "name": "Đurkovo brdo",
+                  "text": "Đurkovo brdo este un vârf montan din regiunea Župa.",
+                  "category": "natural",
+                  "coords": [
+                        19.078299,
+                        42.823495
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Daznik",
+                  "text": "Daznik is a mountain peak in the Region Župa.",
+                  "category": "natural",
+                  "coords": [
+                        19.074727,
+                        42.835461
+                  ]
+            },
+            {
+                  "name": "Đurkovo brdo",
+                  "text": "Đurkovo brdo is a mountain peak in the Region Župa.",
+                  "category": "natural",
+                  "coords": [
+                        19.078299,
+                        42.823495
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "ME",
     name: { de: "Region Župa", hu: "Župa régió", ro: "Regiunea Župa", en: "Župa Region" },
@@ -1173,7 +1398,52 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-zupa-niksic-agri-economic-v2.webp",
   },
   {
-    id: "montenegro-tuzi-agri-economic-v2",
+    id: "montenegro-tuzi-agri-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Ein Berggipfel in der Region Tuzi, der Wanderern eine gute Aussicht bietet.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Hegycsúcs Tuzi régiójában, amely jó kilátást nyújt a túrázóknak.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Šipčanička gora",
+                  "text": "Un vârf montan în regiunea Tuzi, care oferă drumeților o vedere frumoasă.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Šipčanička gora",
+                  "text": "A mountain peak in the Tuzi region offering hikers a good view.",
+                  "category": "natural",
+                  "coords": [
+                        19.318599,
+                        42.373329
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "ME",
     name: { de: "Agrarregion Tuzi", hu: "Tuzi mezőgazdasági régió", ro: "Regiunea agricolă Tuzi", en: "Tuzi Agricultural Region" },
@@ -1263,7 +1533,340 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-glava-zete-hydro-economic-v2.webp",
   },
   {
-    id: "montenegro-perucica-agri-economic-v2",
+    id: "montenegro-perucica-agri-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Volujak",
+                  "text": "Ein hoher Gipfel an der Grenze zwischen Bosnien und Herzegowina und Montenegro, Teil der Dinarischen Alpen.",
+                  "category": "natural",
+                  "coords": [
+                        18.717141,
+                        43.231779
+                  ]
+            },
+            {
+                  "name": "Trnovački Durmitor",
+                  "text": "Eine Bergspitze in der Nähe des Trnovačko-Sees im Gebiet Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.718999,
+                        43.242639
+                  ]
+            },
+            {
+                  "name": "Trzivka",
+                  "text": "Ein Gipfel in der schroffen Gebirgslandschaft der Region Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.735063,
+                        43.240188
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "Eine Bergspitze innerhalb des Landwirtschafts- und Naturgebiets Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.761235,
+                        43.23335
+                  ]
+            },
+            {
+                  "name": "Kom",
+                  "text": "Einer der Gipfel im bergigen Gelände in der Nähe des Perućica-Waldes.",
+                  "category": "natural",
+                  "coords": [
+                        18.749333,
+                        43.248814
+                  ]
+            },
+            {
+                  "name": "Gredelj",
+                  "text": "Ein Gipfel, der eine Aussicht auf die umliegenden Gebirgsketten im Gebiet Perućica bietet.",
+                  "category": "natural",
+                  "coords": [
+                        18.762741,
+                        43.242976
+                  ]
+            },
+            {
+                  "name": "Carev Do",
+                  "text": "Ein Aussichtspunkt mit weitem Blick über die Täler und Gipfel der Region Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.737102,
+                        43.259355
+                  ]
+            },
+            {
+                  "name": "Raskrsnica",
+                  "text": "Ein malerischer Aussichtspunkt an einer Kreuzung in den Bergen von Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.753013,
+                        43.237327
+                  ]
+            },
+            {
+                  "name": "Valley path GenShtab",
+                  "text": "Ein Aussichtspunkt entlang eines Talpfades in Perućica, bekannt für seine strategischen Ausblicke.",
+                  "category": "natural",
+                  "coords": [
+                        18.772716,
+                        43.232248
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Volujak",
+                  "text": "Magas hegycsúcs Bosznia-Hercegovina és Montenegró határán, a Dinári-Alpok része.",
+                  "category": "natural",
+                  "coords": [
+                        18.717141,
+                        43.231779
+                  ]
+            },
+            {
+                  "name": "Trnovački Durmitor",
+                  "text": "Hegycsúcs a Perućica-vidéken, a Trnovačko-tó közelében.",
+                  "category": "natural",
+                  "coords": [
+                        18.718999,
+                        43.242639
+                  ]
+            },
+            {
+                  "name": "Trzivka",
+                  "text": "Egy hegycsúcs a Perućica régió zord hegyi táján.",
+                  "category": "natural",
+                  "coords": [
+                        18.735063,
+                        43.240188
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "Hegycsúcs a Perućica mezőgazdasági és természeti területén belül.",
+                  "category": "natural",
+                  "coords": [
+                        18.761235,
+                        43.23335
+                  ]
+            },
+            {
+                  "name": "Kom",
+                  "text": "A Perućica-erdő közelében lévő hegyvidéki terület egyik csúcsa.",
+                  "category": "natural",
+                  "coords": [
+                        18.749333,
+                        43.248814
+                  ]
+            },
+            {
+                  "name": "Gredelj",
+                  "text": "Hegycsúcs, ahonnan kilátás nyílik a környező hegyláncokra a Perućica-vidéken.",
+                  "category": "natural",
+                  "coords": [
+                        18.762741,
+                        43.242976
+                  ]
+            },
+            {
+                  "name": "Carev Do",
+                  "text": "Kilátó, ahonnan tágas kilátás nyílik a Perućica régió völgyeire és csúcsaira.",
+                  "category": "natural",
+                  "coords": [
+                        18.737102,
+                        43.259355
+                  ]
+            },
+            {
+                  "name": "Raskrsnica",
+                  "text": "Festői kilátó egy útkereszteződésnél Perućica hegyeiben.",
+                  "category": "natural",
+                  "coords": [
+                        18.753013,
+                        43.237327
+                  ]
+            },
+            {
+                  "name": "Valley path GenShtab",
+                  "text": "Kilátó egy völgyi ösvény mentén Perućicában, amely stratégiai kilátásairól ismert.",
+                  "category": "natural",
+                  "coords": [
+                        18.772716,
+                        43.232248
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Volujak",
+                  "text": "Un vârf înalt la granița dintre Bosnia și Herțegovina și Muntenegru, parte a Alpilor Dinari.",
+                  "category": "natural",
+                  "coords": [
+                        18.717141,
+                        43.231779
+                  ]
+            },
+            {
+                  "name": "Trnovački Durmitor",
+                  "text": "Un vârf montan situat lângă lacul Trnovačko în zona Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.718999,
+                        43.242639
+                  ]
+            },
+            {
+                  "name": "Trzivka",
+                  "text": "Un vârf în peisajul montan accidentat al regiunii Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.735063,
+                        43.240188
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "Un vârf montan în cadrul zonei agricole și naturale Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.761235,
+                        43.23335
+                  ]
+            },
+            {
+                  "name": "Kom",
+                  "text": "Unul dintre vârfurile terenului muntos de lângă pădurea Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.749333,
+                        43.248814
+                  ]
+            },
+            {
+                  "name": "Gredelj",
+                  "text": "Un vârf care oferă o vedere asupra lanțurilor muntoase din jur în zona Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.762741,
+                        43.242976
+                  ]
+            },
+            {
+                  "name": "Carev Do",
+                  "text": "Un punct de vedere care oferă vederi ample asupra văilor și vârfurilor din regiunea Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.737102,
+                        43.259355
+                  ]
+            },
+            {
+                  "name": "Raskrsnica",
+                  "text": "Un punct de vedere pitoresc situat la o răscruce de drumuri în munții din Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.753013,
+                        43.237327
+                  ]
+            },
+            {
+                  "name": "Valley path GenShtab",
+                  "text": "Un punct de vedere de-a lungul unei poteci de vale din Perućica, cunoscut pentru vederile sale strategice.",
+                  "category": "natural",
+                  "coords": [
+                        18.772716,
+                        43.232248
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Volujak",
+                  "text": "A high peak on the border of Bosnia and Herzegovina and Montenegro, part of the Dinaric Alps.",
+                  "category": "natural",
+                  "coords": [
+                        18.717141,
+                        43.231779
+                  ]
+            },
+            {
+                  "name": "Trnovački Durmitor",
+                  "text": "A mountain peak located near the Trnovačko Lake in the Perućica area.",
+                  "category": "natural",
+                  "coords": [
+                        18.718999,
+                        43.242639
+                  ]
+            },
+            {
+                  "name": "Trzivka",
+                  "text": "A peak in the rugged mountainous landscape of the Perućica region.",
+                  "category": "natural",
+                  "coords": [
+                        18.735063,
+                        43.240188
+                  ]
+            },
+            {
+                  "name": "Bubreg",
+                  "text": "A mountain peak within the Perućica agricultural and natural area.",
+                  "category": "natural",
+                  "coords": [
+                        18.761235,
+                        43.23335
+                  ]
+            },
+            {
+                  "name": "Kom",
+                  "text": "One of the peaks in the mountainous terrain near the Perućica forest.",
+                  "category": "natural",
+                  "coords": [
+                        18.749333,
+                        43.248814
+                  ]
+            },
+            {
+                  "name": "Gredelj",
+                  "text": "A peak offering a view of the surrounding mountain ranges in the Perućica area.",
+                  "category": "natural",
+                  "coords": [
+                        18.762741,
+                        43.242976
+                  ]
+            },
+            {
+                  "name": "Carev Do",
+                  "text": "A viewpoint providing expansive views of the valleys and peaks in the Perućica region.",
+                  "category": "natural",
+                  "coords": [
+                        18.737102,
+                        43.259355
+                  ]
+            },
+            {
+                  "name": "Raskrsnica",
+                  "text": "A scenic viewpoint located at a crossroads in the mountains of Perućica.",
+                  "category": "natural",
+                  "coords": [
+                        18.753013,
+                        43.237327
+                  ]
+            },
+            {
+                  "name": "Valley path GenShtab",
+                  "text": "A viewpoint along a valley path in Perućica, known for its strategic vistas.",
+                  "category": "natural",
+                  "coords": [
+                        18.772716,
+                        43.232248
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "ME",
     name: { de: "Perućica Agrargebiet", hu: "Perućica mezőgazdasági terület", ro: "Zona agricolă Perućica", en: "Perućica Agricultural Area" },
@@ -1488,7 +2091,52 @@ export const montenegroEconomicV2: POI[] = [
     image: "/poi-images/montenegro-andrijevica-agri-economic-v2.webp",
   },
   {
-    id: "montenegro-savnik-agri-economic-v2",
+    id: "montenegro-savnik-agri-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Biovski manastir",
+                  "text": "Ein orthodoxes Kloster in der ländlichen Umgebung von Šavnik.",
+                  "category": "religious",
+                  "coords": [
+                        19.100415,
+                        42.940285
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Biovski manastir",
+                  "text": "Ortodox kolostor Šavnik vidéki környezetében.",
+                  "category": "religious",
+                  "coords": [
+                        19.100415,
+                        42.940285
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Biovski manastir",
+                  "text": "O mănăstire ortodoxă în împrejurimile rurale ale localității Šavnik.",
+                  "category": "religious",
+                  "coords": [
+                        19.100415,
+                        42.940285
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Biovski manastir",
+                  "text": "An Orthodox monastery in the rural surroundings of Šavnik.",
+                  "category": "religious",
+                  "coords": [
+                        19.100415,
+                        42.940285
+                  ]
+            }
+      ]
+},
     type: "village",
     parent: "ME",
     name: { de: "Šavnik Landwirtschaft", hu: "Šavnik mezőgazdaság", ro: "Agricultura Šavnik", en: "Šavnik Agriculture" },

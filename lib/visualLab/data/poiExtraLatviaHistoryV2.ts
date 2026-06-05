@@ -363,7 +363,52 @@ export const latviaHistoryV2: POI[] = [
     image: "/poi-images/latvia-vilaka-castle-ruins-history-v2.webp",
   },
   {
-    id: "latvia-seda-historical-settlement-history-v2",
+    id: "latvia-seda-historical-settlement-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "Eine lutherische Kirche in Strenči.",
+                  "category": "religious",
+                  "coords": [
+                        25.689633,
+                        57.630169
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "Evangélikus templom Strenči városában.",
+                  "category": "religious",
+                  "coords": [
+                        25.689633,
+                        57.630169
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "O biserică luterană în Strenči.",
+                  "category": "religious",
+                  "coords": [
+                        25.689633,
+                        57.630169
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Strenču luterāņu baznīca",
+                  "text": "A Lutheran church located in Strenči.",
+                  "category": "religious",
+                  "coords": [
+                        25.689633,
+                        57.630169
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "LV",
     name: { de: "Historische Siedlung Seda", hu: "Seda történelmi település", ro: "Așezarea istorică Seda", en: "Seda Historical Settlement" },

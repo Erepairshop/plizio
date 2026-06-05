@@ -986,7 +986,808 @@ export const moldovaHistoryV2: POI[] = [
     },
   },
   {
-    id: "moldova-butuceni-village-history-v2",
+    id: "moldova-butuceni-village-history-v2", "sights": {
+      "de": [
+            {
+                  "name": "Orheiul Vechi",
+                  "text": "Ein einzigartiger historischer und archäologischer Komplex mit Höhlenklöstern und antiken Ruinen bei Butuceni.",
+                  "category": "historical",
+                  "coords": [
+                        28.974868,
+                        47.305712
+                  ]
+            },
+            {
+                  "name": "Scena de Vară",
+                  "text": "Eine Sommerbühne im historischen Dorf Butuceni für kulturelle Aufführungen.",
+                  "category": "cultural",
+                  "coords": [
+                        28.959592,
+                        47.30719
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie Butuceni",
+                  "text": "Ein Museum in Butuceni, das das traditionelle moldauische Landleben und lokale Artefakte zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        28.968556,
+                        47.301327
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Etnografie",
+                  "text": "Dieses Museum in Butuceni bewahrt die archäologischen Funde und das ethnografische Erbe der Region.",
+                  "category": "museum",
+                  "coords": [
+                        28.970229,
+                        47.300405
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Antropologie",
+                  "text": "Eine lokale Einrichtung in Butuceni, die der Erforschung der alten Menschheitsgeschichte der Region gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        28.964124,
+                        47.308104
+                  ]
+            },
+            {
+                  "name": "Baile Tataresti",
+                  "text": "Ruinen eines Badehauses aus dem 14. Jahrhundert aus der Zeit der Goldenen Horde im Orheiul Vechi-Komplex.",
+                  "category": "historical",
+                  "coords": [
+                        28.987643,
+                        47.308248
+                  ]
+            },
+            {
+                  "name": "Vestigiile Palatului Parcalabului",
+                  "text": "Ruinen der mittelalterlichen Festung und des Verwaltungspalastes der Gouverneure von Orhei.",
+                  "category": "historical",
+                  "coords": [
+                        28.973341,
+                        47.309426
+                  ]
+            },
+            {
+                  "name": "Gospodărie Tradițională Țărănească",
+                  "text": "Ein erhaltenes traditionelles Bauernhaus in Butuceni, das die regionale Architektur und Lebensweise veranschaulicht.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966716,
+                        47.302172
+                  ]
+            },
+            {
+                  "name": "Mănăstirea lui Bosie Pârcălab",
+                  "text": "Ein altes orthodoxes Höhlenkloster, das in die Kalksteinfelsen über dem Fluss Răut gehauen wurde.",
+                  "category": "landmark",
+                  "coords": [
+                        28.979527,
+                        47.301331
+                  ]
+            },
+            {
+                  "name": "Mănăstirea rupestră a pârcălabului Albu",
+                  "text": "Ein historisches Höhlenkloster in Butuceni, das mit dem mittelalterlichen Gouverneur Albu in Verbindung gebracht wird.",
+                  "category": "landmark",
+                  "coords": [
+                        28.967502,
+                        47.298674
+                  ]
+            },
+            {
+                  "name": "Epoca de Piatră",
+                  "text": "Eine Kulturstätte in Butuceni, die prähistorische Siedlungen in der Region beleuchtet.",
+                  "category": "landmark",
+                  "coords": [
+                        28.936824,
+                        47.312512
+                  ]
+            },
+            {
+                  "name": "Vedere spre Trebujeni",
+                  "text": "Ein malerischer Aussichtspunkt in Butuceni mit Panoramablick auf das Dorf Trebujeni.",
+                  "category": "natural",
+                  "coords": [
+                        28.957596,
+                        47.325049
+                  ]
+            },
+            {
+                  "name": "Un chip sculptat în piatră (sec.XI)",
+                  "text": "Ein bemerkenswertes, in den Fels gehauenes Gesicht aus dem 11. Jahrhundert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.975178,
+                        47.309673
+                  ]
+            },
+            {
+                  "name": "Porțiune de pavaj vechi",
+                  "text": "Ruinen einer alten gepflasterten Straße, die in der archäologischen Stätte Orheiul Vechi entdeckt wurde.",
+                  "category": "historical",
+                  "coords": [
+                        28.985204,
+                        47.307775
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "Eine Naturschlucht bei Butuceni, die für ihre beeindruckenden Kalksteinformationen bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        28.99856,
+                        47.30605
+                  ]
+            },
+            {
+                  "name": "Un șir de mine abandonate",
+                  "text": "Eine Reihe alter, verlassener Kalksteinminen, die entlang der Klippen in Butuceni zu sehen sind.",
+                  "category": "landmark",
+                  "coords": [
+                        28.991548,
+                        47.306367
+                  ]
+            },
+            {
+                  "name": "Stâlpul lui Iordache Guruțenco (1745)",
+                  "text": "Eine historische Steinsäule aus dem Jahr 1745 im Dorf Butuceni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.960922,
+                        47.306979
+                  ]
+            },
+            {
+                  "name": "Vestigiile Moscheii (sec. XIV)",
+                  "text": "Archäologische Reste einer mittelalterlichen Moschee aus der Zeit der Goldenen Horde in Orheiul Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        28.97801,
+                        47.306855
+                  ]
+            },
+            {
+                  "name": "Vestigiile Citadelei si Sanctuarului Geto-Dace",
+                  "text": "Antike Ruinen einer Festung und eines Heiligtums, die von den geto-dakischen Stämmen in der Region errichtet wurden.",
+                  "category": "historical",
+                  "coords": [
+                        28.971746,
+                        47.30107
+                  ]
+            },
+            {
+                  "name": "Vestigiile Bisericii Medievale",
+                  "text": "Fundamente und Ruinen einer Kirche aus dem Mittelalter in Butuceni.",
+                  "category": "historical",
+                  "coords": [
+                        28.979191,
+                        47.306028
+                  ]
+            },
+            {
+                  "name": "Valul de apărare a cetățuei getice",
+                  "text": "Überreste der alten Verteidigungswälle aus Erde der getischen Festung.",
+                  "category": "landmark",
+                  "coords": [
+                        28.994587,
+                        47.306146
+                  ]
+            },
+            {
+                  "name": "Val de apărare medieval",
+                  "text": "Historische mittelalterliche Verteidigungsanlagen im Gebiet von Orheiul Vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966006,
+                        47.309725
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Orheiul Vechi",
+                  "text": "Egyedülálló történelmi és régészeti komplexum barlangkolostorokkal és ősi romokkal Butuceni közelében.",
+                  "category": "historical",
+                  "coords": [
+                        28.974868,
+                        47.305712
+                  ]
+            },
+            {
+                  "name": "Scena de Vară",
+                  "text": "Szabadtéri nyári színpad Butuceni történelmi falujában kulturális előadások számára.",
+                  "category": "cultural",
+                  "coords": [
+                        28.959592,
+                        47.30719
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie Butuceni",
+                  "text": "Butuceni múzeuma, amely a hagyományos moldovai falusi életet és helyi leleteket mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        28.968556,
+                        47.301327
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Etnografie",
+                  "text": "Ez a butuceni múzeum őrzi a régió régészeti leleteit és néprajzi örökségét.",
+                  "category": "museum",
+                  "coords": [
+                        28.970229,
+                        47.300405
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Antropologie",
+                  "text": "Helyi intézmény Butuceniben, amely a terület ősi emberi történelmének tanulmányozásával foglalkozik.",
+                  "category": "museum",
+                  "coords": [
+                        28.964124,
+                        47.308104
+                  ]
+            },
+            {
+                  "name": "Baile Tataresti",
+                  "text": "14. századi fürdő romjai az Arany Horda idejéből az Orheiul Vechi komplexumban.",
+                  "category": "historical",
+                  "coords": [
+                        28.987643,
+                        47.308248
+                  ]
+            },
+            {
+                  "name": "Vestigiile Palatului Parcalabului",
+                  "text": "Az orhei kormányzók középkori erődjének és közigazgatási palotájának romjai.",
+                  "category": "historical",
+                  "coords": [
+                        28.973341,
+                        47.309426
+                  ]
+            },
+            {
+                  "name": "Gospodărie Tradițională Țărănească",
+                  "text": "Megőrzött hagyományos parasztház Butuceniben, amely a régió építészetét és életmódját szemlélteti.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966716,
+                        47.302172
+                  ]
+            },
+            {
+                  "name": "Mănăstirea lui Bosie Pârcălab",
+                  "text": "Ősi ortodox barlangkolostor a Răut folyóra néző mészkősziklákba vájva.",
+                  "category": "landmark",
+                  "coords": [
+                        28.979527,
+                        47.301331
+                  ]
+            },
+            {
+                  "name": "Mănăstirea rupestră a pârcălabului Albu",
+                  "text": "Történelmi barlangkolostor Butuceniben, amely Albu középkori kormányzóhoz köthető.",
+                  "category": "landmark",
+                  "coords": [
+                        28.967502,
+                        47.298674
+                  ]
+            },
+            {
+                  "name": "Epoca de Piatră",
+                  "text": "Kulturális helyszín Butuceniben, amely a régió őskori településeit mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        28.936824,
+                        47.312512
+                  ]
+            },
+            {
+                  "name": "Vedere spre Trebujeni",
+                  "text": "Festői kilátó Butuceniben, ahonnan panorámás kilátás nyílik Trebujeni falura.",
+                  "category": "natural",
+                  "coords": [
+                        28.957596,
+                        47.325049
+                  ]
+            },
+            {
+                  "name": "Un chip sculptat în piatră (sec.XI)",
+                  "text": "Egy figyelemre méltó, sziklába faragott arc a 11. századból.",
+                  "category": "landmark",
+                  "coords": [
+                        28.975178,
+                        47.309673
+                  ]
+            },
+            {
+                  "name": "Porțiune de pavaj vechi",
+                  "text": "Egy ősi kövezett út romjai az Orheiul Vechi régészeti lelőhelyen.",
+                  "category": "historical",
+                  "coords": [
+                        28.985204,
+                        47.307775
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "Butuceni melletti természetes szurdok, amely lenyűgöző mészkőképződményeiről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        28.99856,
+                        47.30605
+                  ]
+            },
+            {
+                  "name": "Un șir de mine abandonate",
+                  "text": "Régi, elhagyatott mészkőbányák sora, amelyek Butuceni sziklái mentén láthatók.",
+                  "category": "landmark",
+                  "coords": [
+                        28.991548,
+                        47.306367
+                  ]
+            },
+            {
+                  "name": "Stâlpul lui Iordache Guruțenco (1745)",
+                  "text": "1745-ben emelt történelmi kőoszlop Butuceni faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        28.960922,
+                        47.306979
+                  ]
+            },
+            {
+                  "name": "Vestigiile Moscheii (sec. XIV)",
+                  "text": "Egy középkori mecset régészeti maradványai az Arany Horda idejéből Orheiul Vechiben.",
+                  "category": "historical",
+                  "coords": [
+                        28.97801,
+                        47.306855
+                  ]
+            },
+            {
+                  "name": "Vestigiile Citadelei si Sanctuarului Geto-Dace",
+                  "text": "Egy erőd és szentély ősi romjai, amelyeket a régió geto-dák törzsei építettek.",
+                  "category": "historical",
+                  "coords": [
+                        28.971746,
+                        47.30107
+                  ]
+            },
+            {
+                  "name": "Vestigiile Bisericii Medievale",
+                  "text": "Egy középkori templom alapjai és romjai Butuceniben.",
+                  "category": "historical",
+                  "coords": [
+                        28.979191,
+                        47.306028
+                  ]
+            },
+            {
+                  "name": "Valul de apărare a cetățuei getice",
+                  "text": "A geta erőd egykori védelmi sáncainak maradványai.",
+                  "category": "landmark",
+                  "coords": [
+                        28.994587,
+                        47.306146
+                  ]
+            },
+            {
+                  "name": "Val de apărare medieval",
+                  "text": "Történelmi középkori védelmi erődítmények Orheiul Vechi területén.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966006,
+                        47.309725
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Orheiul Vechi",
+                  "text": "Un complex istoric și arheologic unic, cu mănăstiri rupestre și ruine antice lângă Butuceni.",
+                  "category": "historical",
+                  "coords": [
+                        28.974868,
+                        47.305712
+                  ]
+            },
+            {
+                  "name": "Scena de Vară",
+                  "text": "O scenă de vară în aer liber în satul istoric Butuceni pentru spectacole culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        28.959592,
+                        47.30719
+                  ]
+            },
+            {
+                  "name": "Muzeul de Etnografie Butuceni",
+                  "text": "Un muzeu din Butuceni care prezintă viața rurală tradițională moldovenească și artefacte locale.",
+                  "category": "museum",
+                  "coords": [
+                        28.968556,
+                        47.301327
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Etnografie",
+                  "text": "Acest muzeu din Butuceni păstrează descoperirile arheologice și moștenirea etnografică a regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        28.970229,
+                        47.300405
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Antropologie",
+                  "text": "O instituție locală din Butuceni dedicată studiului istoriei umane antice a zonei.",
+                  "category": "museum",
+                  "coords": [
+                        28.964124,
+                        47.308104
+                  ]
+            },
+            {
+                  "name": "Baile Tataresti",
+                  "text": "Ruinele unei băi din secolul al XIV-lea din perioada Hoardei de Aur, în complexul Orheiul Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        28.987643,
+                        47.308248
+                  ]
+            },
+            {
+                  "name": "Vestigiile Palatului Parcalabului",
+                  "text": "Ruinele cetății medievale și ale palatului administrativ al pârcălabilor de Orhei.",
+                  "category": "historical",
+                  "coords": [
+                        28.973341,
+                        47.309426
+                  ]
+            },
+            {
+                  "name": "Gospodărie Tradițională Țărănească",
+                  "text": "O casă țărănească tradițională păstrată în Butuceni, ilustrând arhitectura și stilul de viață regional.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966716,
+                        47.302172
+                  ]
+            },
+            {
+                  "name": "Mănăstirea lui Bosie Pârcălab",
+                  "text": "O veche mănăstire rupestră ortodoxă săpată în stâncile de calcar de deasupra râului Răut.",
+                  "category": "landmark",
+                  "coords": [
+                        28.979527,
+                        47.301331
+                  ]
+            },
+            {
+                  "name": "Mănăstirea rupestră a pârcălabului Albu",
+                  "text": "O mănăstire rupestră istorică din Butuceni, asociată cu pârcălabul medieval Albu.",
+                  "category": "landmark",
+                  "coords": [
+                        28.967502,
+                        47.298674
+                  ]
+            },
+            {
+                  "name": "Epoca de Piatră",
+                  "text": "Un sit cultural din Butuceni care evidențiază așezările preistorice din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        28.936824,
+                        47.312512
+                  ]
+            },
+            {
+                  "name": "Vedere spre Trebujeni",
+                  "text": "Un punct de vedere pitoresc în Butuceni care oferă vederi panoramice spre satul Trebujeni.",
+                  "category": "natural",
+                  "coords": [
+                        28.957596,
+                        47.325049
+                  ]
+            },
+            {
+                  "name": "Un chip sculptat în piatră (sec.XI)",
+                  "text": "Un chip remarcabil sculptat în piatră în secolul al XI-lea.",
+                  "category": "landmark",
+                  "coords": [
+                        28.975178,
+                        47.309673
+                  ]
+            },
+            {
+                  "name": "Porțiune de pavaj vechi",
+                  "text": "Ruinele unei vechi porțiuni de drum pavat descoperite în situl arheologic Orheiul Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        28.985204,
+                        47.307775
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "Un defileu natural lângă Butuceni, cunoscut pentru formațiunile sale impresionante de calcar.",
+                  "category": "landmark",
+                  "coords": [
+                        28.99856,
+                        47.30605
+                  ]
+            },
+            {
+                  "name": "Un șir de mine abandonate",
+                  "text": "O serie de mine de calcar abandonate care pot fi văzute de-a lungul stâncilor din Butuceni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.991548,
+                        47.306367
+                  ]
+            },
+            {
+                  "name": "Stâlpul lui Iordache Guruțenco (1745)",
+                  "text": "Un stâlp istoric de piatră ridicat în 1745, situat în satul Butuceni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.960922,
+                        47.306979
+                  ]
+            },
+            {
+                  "name": "Vestigiile Moscheii (sec. XIV)",
+                  "text": "Rămășițele arheologice ale unei moschei medievale din perioada Hoardei de Aur la Orheiul Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        28.97801,
+                        47.306855
+                  ]
+            },
+            {
+                  "name": "Vestigiile Citadelei si Sanctuarului Geto-Dace",
+                  "text": "Ruinele antice ale unei cetăți și ale unui sanctuar construite de triburile geto-dace în regiune.",
+                  "category": "historical",
+                  "coords": [
+                        28.971746,
+                        47.30107
+                  ]
+            },
+            {
+                  "name": "Vestigiile Bisericii Medievale",
+                  "text": "Fundațiile și ruinele unei biserici care datează din perioada medievală în Butuceni.",
+                  "category": "historical",
+                  "coords": [
+                        28.979191,
+                        47.306028
+                  ]
+            },
+            {
+                  "name": "Valul de apărare a cetățuei getice",
+                  "text": "Rămășițele vechilor valuri de apărare din pământ ale cetății getice.",
+                  "category": "landmark",
+                  "coords": [
+                        28.994587,
+                        47.306146
+                  ]
+            },
+            {
+                  "name": "Val de apărare medieval",
+                  "text": "Fortificații defensive medievale istorice găsite în zona Orheiul Vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966006,
+                        47.309725
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Orheiul Vechi",
+                  "text": "A unique historical and archaeological complex featuring cave monasteries and ancient ruins near Butuceni.",
+                  "category": "historical",
+                  "coords": [
+                        28.974868,
+                        47.305712
+                  ]
+            },
+            {
+                  "name": "Scena de Vară",
+                  "text": "An outdoor summer stage in the historical village of Butuceni for cultural performances.",
+                  "category": "cultural",
+                  "coords": [
+                        28.959592,
+                        47.30719
+                  ]
+            },
+            {
+                  "name": "Butuceni Ethnography Museum",
+                  "text": "A museum in Butuceni showcasing traditional Moldovan rural life and local artifacts.",
+                  "category": "museum",
+                  "coords": [
+                        28.968556,
+                        47.301327
+                  ]
+            },
+            {
+                  "name": "Muzeul de Arheologie și Etnografie",
+                  "text": "This museum in Butuceni preserves the archaeological findings and ethnographic heritage of the region.",
+                  "category": "museum",
+                  "coords": [
+                        28.970229,
+                        47.300405
+                  ]
+            },
+            {
+                  "name": "Museum of Acheology and Antropology",
+                  "text": "A local institution in Butuceni dedicated to the study of the area's ancient human history.",
+                  "category": "museum",
+                  "coords": [
+                        28.964124,
+                        47.308104
+                  ]
+            },
+            {
+                  "name": "Tatar Bath",
+                  "text": "Ruins of a 14th-century bathhouse from the Golden Horde period in the Orheiul Vechi complex.",
+                  "category": "historical",
+                  "coords": [
+                        28.987643,
+                        47.308248
+                  ]
+            },
+            {
+                  "name": "Remains of the Governor Palace",
+                  "text": "Ruins of the medieval fortress and administrative palace of the governors of Orhei.",
+                  "category": "historical",
+                  "coords": [
+                        28.973341,
+                        47.309426
+                  ]
+            },
+            {
+                  "name": "Traditional Peasant House",
+                  "text": "A preserved traditional farmhouse in Butuceni illustrating regional architecture and lifestyle.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966716,
+                        47.302172
+                  ]
+            },
+            {
+                  "name": "Monastery of Bosie",
+                  "text": "An ancient Orthodox cave monastery carved into the limestone cliffs overlooking the Răut River.",
+                  "category": "landmark",
+                  "coords": [
+                        28.979527,
+                        47.301331
+                  ]
+            },
+            {
+                  "name": "Mănăstirea rupestră a pârcălabului Albu",
+                  "text": "A historic cave monastery in Butuceni associated with the medieval governor Albu.",
+                  "category": "landmark",
+                  "coords": [
+                        28.967502,
+                        47.298674
+                  ]
+            },
+            {
+                  "name": "Epoca de Piatră",
+                  "text": "Un sit cultural din Butuceni care evidențiază așezările preistorice din regiune.",
+                  "category": "landmark",
+                  "coords": [
+                        28.936824,
+                        47.312512
+                  ]
+            },
+            {
+                  "name": "Vedere spre Trebujeni",
+                  "text": "A scenic viewpoint in Butuceni offering panoramic vistas toward the village of Trebujeni.",
+                  "category": "natural",
+                  "coords": [
+                        28.957596,
+                        47.325049
+                  ]
+            },
+            {
+                  "name": "Un chip sculptat în piatră (sec.XI)",
+                  "text": "A remarkable face carved into the stone cliff, dating back to the 11th century.",
+                  "category": "landmark",
+                  "coords": [
+                        28.975178,
+                        47.309673
+                  ]
+            },
+            {
+                  "name": "Porțiune de pavaj vechi",
+                  "text": "Ruins of an ancient paved road discovered within the Orheiul Vechi archaeological site.",
+                  "category": "historical",
+                  "coords": [
+                        28.985204,
+                        47.307775
+                  ]
+            },
+            {
+                  "name": "Defileul Morovaia",
+                  "text": "A natural gorge near Butuceni known for its impressive limestone formations.",
+                  "category": "landmark",
+                  "coords": [
+                        28.99856,
+                        47.30605
+                  ]
+            },
+            {
+                  "name": "Un șir de mine abandonate",
+                  "text": "A series of old abandoned limestone mines that can be seen along the cliffs in Butuceni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.991548,
+                        47.306367
+                  ]
+            },
+            {
+                  "name": "Stâlpul lui Iordache Guruțenco (1745)",
+                  "text": "A historical stone pillar erected in 1745, located in the village of Butuceni.",
+                  "category": "landmark",
+                  "coords": [
+                        28.960922,
+                        47.306979
+                  ]
+            },
+            {
+                  "name": "Remains of the Mosque",
+                  "text": "Archaeological remains of a medieval mosque from the period of the Golden Horde in Orheiul Vechi.",
+                  "category": "historical",
+                  "coords": [
+                        28.97801,
+                        47.306855
+                  ]
+            },
+            {
+                  "name": "Remains of the Geto-Dacian Fortress and Sanctuary",
+                  "text": "Ancient ruins of a fortress and sanctuary built by the Geto-Dacian tribes in the region.",
+                  "category": "historical",
+                  "coords": [
+                        28.971746,
+                        47.30107
+                  ]
+            },
+            {
+                  "name": "Remains of the Medieval Church",
+                  "text": "Foundations and ruins of a church dating back to the medieval period in Butuceni.",
+                  "category": "historical",
+                  "coords": [
+                        28.979191,
+                        47.306028
+                  ]
+            },
+            {
+                  "name": "Valul de apărare a cetățuei getice",
+                  "text": "Remains of the ancient defensive earthen walls of the Getic fortress.",
+                  "category": "landmark",
+                  "coords": [
+                        28.994587,
+                        47.306146
+                  ]
+            },
+            {
+                  "name": "Val de apărare medieval",
+                  "text": "Historical medieval defensive fortifications found in the area of Orheiul Vechi.",
+                  "category": "landmark",
+                  "coords": [
+                        28.966006,
+                        47.309725
+                  ]
+            }
+      ]
+},
     parent: "MD",
     type: "village",
     name: { de: "Historisches Dorf Butuceni", hu: "Butuceni történelmi falu", ro: "Satul istoric Butuceni", en: "Butuceni Historical Village"},

@@ -538,7 +538,52 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       fr: ["La Lima a été élevée au rang de municipalité le 13 novembre 1981.", "Le surnom « Oro Verde » représente l'industrie bananière.", "La ville est le siège de la fondation de recherche FHIA.", "La Lima est située juste à côté de l'aéroport Ramón Villeda Morales.", "Le fleuve Chamelecón traverse les zones urbaines de la ville.", "Lima Nueva a été initialement conçue comme une ville d'entreprise."],
     }, image: "/poi-images/la-lima-cities-v2.webp"},
   {
-    id: "olanchito-cities-v2",
+    id: "olanchito-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Museo",
+                  "text": "Ein Museum in Olanchito, das der lokalen Kultur und Geschichte gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        -86.56599,
+                        15.484899
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Museo",
+                  "text": "Olanchito múzeuma, amely a helyi kultúrát és történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -86.56599,
+                        15.484899
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Museo",
+                  "text": "Un muzeu în Olanchito dedicat culturii și istoriei locale.",
+                  "category": "museum",
+                  "coords": [
+                        -86.56599,
+                        15.484899
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Museo",
+                  "text": "A museum in Olanchito dedicated to local culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        -86.56599,
+                        15.484899
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HN-YO",
     coords: [-86.5731, 15.4806],
@@ -1149,7 +1194,52 @@ export const poiExtraHondurasCitiesV2: POI[] = [
       fr: [],}
   },
   {
-    id: "sabanagrande-cities-v2",
+    id: "sabanagrande-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cerro El Bobo",
+                  "text": "Ein Berggipfel in der Nähe von Sabanagrande mit weitem Ausblick.",
+                  "category": "natural",
+                  "coords": [
+                        -87.26032,
+                        13.815483
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cerro El Bobo",
+                  "text": "Hegycsúcs Sabanagrande közelében, ahonnan messzire el lehet látni.",
+                  "category": "natural",
+                  "coords": [
+                        -87.26032,
+                        13.815483
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cerro El Bobo",
+                  "text": "Un vârf montan lângă Sabanagrande, oferind o panoramă largă.",
+                  "category": "natural",
+                  "coords": [
+                        -87.26032,
+                        13.815483
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cerro El Bobo",
+                  "text": "A mountain peak near Sabanagrande offering wide views.",
+                  "category": "natural",
+                  "coords": [
+                        -87.26032,
+                        13.815483
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HN-FM",
     coords: [-87.25, 13.8],
@@ -2166,7 +2256,52 @@ ro: ["Comunitate rurală", "Cultivarea cafelei", "Cascade în apropiere", "Mediu
     },
   },
   {
-    id: "san-nicolas-cities-v2",
+    id: "san-nicolas-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Paseo Turistico",
+                  "text": "Ein Aussichtspunkt in San Nicolás mit Blick auf die Umgebung.",
+                  "category": "natural",
+                  "coords": [
+                        -88.326082,
+                        14.942189
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Paseo Turistico",
+                  "text": "Kilátóhely San Nicolásban, ahonnan kilátás nyílik a környékre.",
+                  "category": "natural",
+                  "coords": [
+                        -88.326082,
+                        14.942189
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Paseo Turistico",
+                  "text": "Un punct de belvedere în San Nicolás, oferind vedere asupra împrejurimilor.",
+                  "category": "natural",
+                  "coords": [
+                        -88.326082,
+                        14.942189
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Paseo Turistico",
+                  "text": "A viewpoint in San Nicolás offering views of the surrounding area.",
+                  "category": "natural",
+                  "coords": [
+                        -88.326082,
+                        14.942189
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "HN-SB",
     coords: [-88.3167, 14.9333],

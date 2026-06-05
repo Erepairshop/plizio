@@ -3,7 +3,268 @@ import type { POI } from "./poi";
 
 export const poiExtraBelizeCitiesV2: POI[] = [
   {
-    id: "corozal-town-cities-v2",
+    id: "corozal-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Ruinen einer antiken Maya-Siedlung in Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Ein Museum in Corozal, das die lokale Kultur und Geschichte präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "Ein Sandstrand am Karibischen Meer in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Ein beliebter Küstenabschnitt in Corozal Town.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "Ein Strandresort für Urlauber in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "Die historischen Überreste einer Befestigung in Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "Eine Unterkunft mit Strandzugang in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Egy ősi maja település romjai Corozal Townban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Múzeum Corozalban, amely a helyi kultúrát és történelmet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "Homokos tengerpart a Karib-tengernél Corozalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "Népszerű tengerparti szakasz Corozal Townban.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "Tengerparti üdülőhely Corozalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "Egy erődítmény történelmi maradványai Corozal Townban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "Szálláshely közvetlen tengerparti kapcsolattal Corozalban.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Ruinele unei așezări mayașe antice în Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "Un muzeu în Corozal care prezintă cultura și istoria locală.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "O plajă cu nisip la Marea Caraibilor în Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "O secțiune de coastă populară în Corozal Town.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "O stațiune de plajă pentru turiști în Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "Rămășițele istorice ale unei fortificații în Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "Unitate de cazare cu acces la plajă în Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Santa Rita Archaeological Site",
+                  "text": "Ruins of an ancient Maya settlement in Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.395049,
+                        18.402299
+                  ]
+            },
+            {
+                  "name": "House of Culture",
+                  "text": "A museum in Corozal showcasing local culture and history.",
+                  "category": "museum",
+                  "coords": [
+                        -88.386447,
+                        18.389752
+                  ]
+            },
+            {
+                  "name": "Maya Beach",
+                  "text": "A sandy beach on the Caribbean Sea in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.393045,
+                        18.384816
+                  ]
+            },
+            {
+                  "name": "Miami Beach",
+                  "text": "A popular coastal stretch in Corozal Town.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.390545,
+                        18.385784
+                  ]
+            },
+            {
+                  "name": "Tilt-a-Dock Resort",
+                  "text": "A beach resort for vacationers in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.371538,
+                        18.396917
+                  ]
+            },
+            {
+                  "name": "Fort Barlee",
+                  "text": "The historical remains of a fortification in Corozal Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.387253,
+                        18.392294
+                  ]
+            },
+            {
+                  "name": "Tony's Inn & Beach Resort",
+                  "text": "Accommodation with beach access in Corozal.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.397187,
+                        18.381035
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CZL",
     coords: [-88.3885, 18.3927],
@@ -46,7 +307,304 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Située à environ 15 kilomètres de la frontière mexicaine.", "Fondée en 1849 par des réfugiés de la guerre des Castes au Yucatan.", "La ville a été presque entièrement détruite par l'ouragan Janet en 1955.", "L'hôtel de ville de Corozal est un monument architectural.", "Le marché local est réputé pour ses produits frais et son artisanat.", "La population compte environ 10 000 habitants."],
     }, image: "/poi-images/corozal-town-cities-v2.webp"},
   {
-    id: "orange-walk-town-cities-v2",
+    id: "orange-walk-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "Ein Kulturzentrum und Museum, das die Geschichte und Kunst von Orange Walk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "Ein Denkmal für den „Vater der Nation“ von Belize in Orange Walk Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai ruins",
+                  "text": "Ein beliebter Ausgangspunkt für Flussbootstouren zu den alten Maya-Ruinen von Lamanai.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.55443,
+                        18.070695
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Flusstransportdienst, der Zugang zur archäologischen Stätte Lamanai bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "Ein lokaler Point of Interest und eine Attraktion in Orange Walk Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Ein Denkmal in Orange Walk Town zu Ehren des Maya-Anführers Marcus Canul.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "Ein Wahrzeichen-Denkmal, das das Erbe der Zuckerindustrie von Orange Walk Town darstellt.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Ein Informationszentrum, das Besuchern in Orange Walk Town Beratung und Tipps bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "Kulturális központ és múzeum, amely Orange Walk történelmét és művészetét mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "Belize „nemzetatyjának” szentelt emlékmű Orange Walk Townban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai ruins",
+                  "text": "Népszerű kiindulópont a Lamanai maja romokhoz induló folyami hajótúrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.55443,
+                        18.070695
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Folyami közlekedési szolgáltatás, amely hozzáférést biztosít a Lamanai régészeti lelőhelyhez.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "Helyi érdekesség és látnivaló Orange Walk Townban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Marcus Canul maja vezető tiszteletére emelt emlékmű Orange Walk Townban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "Orange Walk Town cukoripari örökségét jelképező emlékmű.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Információs központ, amely útmutatást és tippeket nyújt az Orange Walk Townba látogatóknak.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "Un centru cultural și muzeu care prezintă istoria și arta din Orange Walk.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "Un monument dedicat „Tatălui Națiunii” din Belize, în Orange Walk Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai ruins",
+                  "text": "Un punct de plecare popular pentru tururi cu barca pe râu către vechile ruine mayașe de la Lamanai.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.55443,
+                        18.070695
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Serviciu de transport pe râu care oferă acces la situl arheologic Lamanai.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "Un punct de interes local și o atracție în Orange Walk Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Un monument din Orange Walk Town care îl onorează pe liderul mayaș Marcus Canul.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "Un monument emblematic care reprezintă moștenirea industriei zahărului din Orange Walk Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Un centru de informare care oferă îndrumări și sfaturi pentru vizitatorii din Orange Walk Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "A cultural center and museum showcasing the history and art of Orange Walk.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "A monument dedicated to the \"Father of the Nation\" of Belize in Orange Walk Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai ruins",
+                  "text": "A popular starting point for river boat tours to the ancient Mayan ruins of Lamanai.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.55443,
+                        18.070695
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "River transport service providing access to the Lamanai archaeological site.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "A local point of interest and attraction in Orange Walk Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "A monument in Orange Walk Town honoring the Maya leader Marcus Canul.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "A landmark monument representing the sugar industry heritage of Orange Walk Town.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "An information center providing guidance and tips for visitors in Orange Walk Town.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-OW",
     coords: [-88.563, 18.080],
@@ -89,7 +647,124 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Deuxième plus grande ville du Belize par sa population.", "Les environs produisent la majeure partie du sucre au Belize.", "Le New River permet d'accéder aux ruines mayas de Lamanai.", "Fondée au XIXe siècle comme colonie de bûcherons.", "La ville possède un climat de savane tropicale marqué.", "Site important pour la transformation des produits agricoles."],
     }, image: "/poi-images/orange-walk-town-cities-v2.webp"},
   {
-    id: "punta-gorda-town-cities-v2",
+    id: "punta-gorda-town-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Warasa Garifuna Drum School",
+                  "text": "Eine Schule in Punta Gorda, die die traditionelle Trommelkunst der Garifuna lehrt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.816677,
+                        16.108575
+                  ]
+            },
+            {
+                  "name": "Flames of Independence",
+                  "text": "Ein Denkmal in Punta Gorda, das an den Kampf um die Unabhängigkeit erinnert.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804075,
+                        16.100216
+                  ]
+            },
+            {
+                  "name": "Maroon Creole Drum School",
+                  "text": "Ein Kulturzentrum in Punta Gorda, das sich auf die kreolische Trommeltradition spezialisiert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.805342,
+                        16.111933
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Warasa Garifuna Drum School",
+                  "text": "Egy iskola Punta Gordában, ahol a hagyományos garifuna dobzenét oktatják.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.816677,
+                        16.108575
+                  ]
+            },
+            {
+                  "name": "Flames of Independence",
+                  "text": "Emlékmű Punta Gordában, amely a függetlenségi harcnak állít emléket.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804075,
+                        16.100216
+                  ]
+            },
+            {
+                  "name": "Maroon Creole Drum School",
+                  "text": "Kulturális központ Punta Gordában, amely a kreol dobhagyományokra összpontosít.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.805342,
+                        16.111933
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Warasa Garifuna Drum School",
+                  "text": "O școală în Punta Gorda care predă arta tradițională a tobelor Garifuna.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.816677,
+                        16.108575
+                  ]
+            },
+            {
+                  "name": "Flames of Independence",
+                  "text": "Un monument în Punta Gorda care comemorează lupta pentru independență.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804075,
+                        16.100216
+                  ]
+            },
+            {
+                  "name": "Maroon Creole Drum School",
+                  "text": "Un centru cultural în Punta Gorda specializat în tradiția tobelor creole.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.805342,
+                        16.111933
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Warasa Garifuna Drum School",
+                  "text": "A school in Punta Gorda teaching traditional Garifuna drumming.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.816677,
+                        16.108575
+                  ]
+            },
+            {
+                  "name": "Flames of Independence",
+                  "text": "A monument in Punta Gorda commemorating the struggle for independence.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804075,
+                        16.100216
+                  ]
+            },
+            {
+                  "name": "Maroon Creole Drum School",
+                  "text": "A cultural centre in Punta Gorda specializing in Creole drumming traditions.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.805342,
+                        16.111933
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-TOL",
     coords: [-88.800, 16.100],
@@ -132,7 +807,376 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["La ville est surnommée la porte d'entrée du district maya.", "Le marché hebdomadaire attire des gens de toute la région.", "Fondée vers 1823 par des colons Garifunas venus du Honduras.", "Le port sert de point d'escale pour les bateaux en provenance du Guatemala.", "La ville est située sur la côte caraïbe avec accès à la barrière de corail.", "Centre du festival annuel du cacao de Toledo (Toledo Cacao Fest)."],
     }, image: "/poi-images/punta-gorda-town-cities-v2.webp"},
   {
-    id: "benque-viejo-del-carmen-cities-v2",
+    id: "benque-viejo-del-carmen-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Xunantunich",
+                  "text": "Bedeutende Maya-Ruinen mit einer großen Pyramide in der Nähe von Benque Viejo.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "Ein Kulturzentrum in Benque Viejo del Carmen, das lokale Traditionen pflegt.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "Informationszentrum für Besucher der Maya-Stätte Xunantunich in Benque Viejo del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "Ein archäologischer Park mit Maya-Ruinen in Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Mayan Ruins unexcavated",
+                  "text": "Nicht ausgegrabene Überreste alter Maya-Strukturen in Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.130236,
+                        17.046325
+                  ]
+            },
+            {
+                  "name": "Centro de Salud",
+                  "text": "Ein lokales Gesundheitszentrum in Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "Weitere archäologische Ruinen in Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "Überwachsene Ruinen der Gruppe C in Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "Ein Zentrum für Kunst und Kultur in Benque Viejo del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "Ein Denkmal zu Ehren der Chicleros in Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Xunantunich",
+                  "text": "Jelentős maja romok nagy piramissal Benque Viejo közelében.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "Kulturális központ Benque Viejo del Carmenben, amely a helyi hagyományokat ápolja.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "A Xunantunich maja régészeti lelőhely látogatóközpontja Benque Viejo del Carmenben.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "Maja romokat bemutató régészeti park Benque Viejo del Carmenben.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Mayan Ruins unexcavated",
+                  "text": "Feltáratlan ősi maja romok Benque Viejo del Carmen területén.",
+                  "category": "historical",
+                  "coords": [
+                        -89.130236,
+                        17.046325
+                  ]
+            },
+            {
+                  "name": "Centro de Salud",
+                  "text": "Helyi egészségügyi központ Benque Viejo del Carmenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "További régészeti romok Benque Viejo del Carmenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "A C csoport benőtt romjai Benque Viejo del Carmenben.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "Művészeti és kulturális központ Benque Viejo del Carmenben.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "A chiclerók tiszteletére emelt emlékmű Benque Viejo del Carmenben.",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Xunantunich",
+                  "text": "Ruine mayașe importante cu o piramidă mare lângă Benque Viejo.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "Un centru cultural în Benque Viejo del Carmen care promovează tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "Centrul de vizitatori pentru situl arheologic Xunantunich din Benque Viejo del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "Un parc arheologic care prezintă ruine mayașe în Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Mayan Ruins unexcavated",
+                  "text": "Ruine mayașe neexcavate situate în Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.130236,
+                        17.046325
+                  ]
+            },
+            {
+                  "name": "Centro de Salud",
+                  "text": "Un centru de sănătate local în Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "Alte ruine arheologice în Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "Ruinele grupului C, acoperite de vegetație, în Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "Un centru cultural și de artă în Benque Viejo del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "Un monument dedicat culegătorilor de gumă (chicleros) din Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Xunantunich",
+                  "text": "Major Maya ruins featuring a large pyramid near Benque Viejo.",
+                  "category": "historical",
+                  "coords": [
+                        -89.141777,
+                        17.08972
+                  ]
+            },
+            {
+                  "name": "Benque House of Culture",
+                  "text": "A cultural centre in Benque Viejo del Carmen promoting local traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140344,
+                        17.072797
+                  ]
+            },
+            {
+                  "name": "Xunantunich Visitor's Center",
+                  "text": "Visitor's center for the Xunantunich archaeological site in Benque Viejo del Carmen.",
+                  "category": "museum",
+                  "coords": [
+                        -89.140193,
+                        17.089304
+                  ]
+            },
+            {
+                  "name": "Benque Archaeological Park",
+                  "text": "An archaeological park featuring Mayan ruins in Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.14238,
+                        17.070891
+                  ]
+            },
+            {
+                  "name": "Mayan Ruins unexcavated",
+                  "text": "Unexcavated remains of ancient Mayan structures in Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.130236,
+                        17.046325
+                  ]
+            },
+            {
+                  "name": "Health Centre",
+                  "text": "A local health center in Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.157589,
+                        17.067412
+                  ]
+            },
+            {
+                  "name": "More ruins",
+                  "text": "Additional archaeological ruins in Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.142824,
+                        17.090174
+                  ]
+            },
+            {
+                  "name": "Group C ruins (overgrown)",
+                  "text": "Overgrown ruins of Group C in Benque Viejo del Carmen.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.141626,
+                        17.088773
+                  ]
+            },
+            {
+                  "name": "Marshallek Cancha",
+                  "text": "An arts and culture center in Benque Viejo del Carmen.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.138644,
+                        17.073257
+                  ]
+            },
+            {
+                  "name": "Monumento al Chiclero",
+                  "text": "A monument dedicated to the chicleros in Benque Viejo del Carmen.",
+                  "category": "historical",
+                  "coords": [
+                        -89.154183,
+                        17.066404
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-89.133, 17.067],
@@ -218,7 +1262,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["L'établissement a été fondé dans les années 1950 par des Mennonites.", "La principale branche économique est la culture des céréales et la production de farine.", "La communauté préserve largement les dialectes allemands traditionnels.", "Le paysage est marqué par une agriculture systématique.", "L'infrastructure est principalement entretenue par la communauté elle-même.", "Fournisseur important de machines agricoles dans le nord du Belize."],
     }, image: "/poi-images/shipyard-cities-v2.webp"},
   {
-    id: "spanish-lookout-cities-v2",
+    id: "spanish-lookout-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stones",
+                  "text": "Ein lokales Monument in Spanish Lookout, das aus großen Steinen besteht.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stones",
+                  "text": "Helyi emlékmű Spanish Lookoutban, amely nagy kövekből áll.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stones",
+                  "text": "Un monument local în Spanish Lookout format din pietre mari.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stones",
+                  "text": "A local monument in Spanish Lookout consisting of large stones.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-88.967, 17.267],
@@ -348,7 +1437,304 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Conçu à l'origine comme camp pour les sans-abri.", "Idéalement situé sur l'axe routier ouest (George Price Highway).", "Est passé d'un établissement provisoire à un lieu de résidence permanent.", "La communauté est réputée pour son fort sentiment de solidarité.", "Sert aujourd'hui de nœud routier important pour le trafic vers l'intérieur du pays."],
     }, image: "/poi-images/hattieville-cities-v2.webp"},
   {
-    id: "santa-elena-cities-v2",
+    id: "santa-elena-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "Eine Ruine einer Maya-Siedlung in Santa Elena, die für ihre Palastanlagen bekannt ist.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "Ein Archiv und Museum in Santa Elena, das die Naturgeschichte von Belize dokumentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "Informationszentrum für Besucher der archäologischen Stätte Cahal Pech in Santa Elena.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "Ein kulturelles Zentrum in Santa Elena, das lokale Kunst und Musik fördert.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "Ein Schutzprojekt in Santa Elena, das sich dem Erhalt des Grünen Leguans widmet.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "Ein Ort in Santa Elena, der über die traditionelle Herstellung von Maya-Schokolade informiert.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "Eine beliebte Promenade am Flussufer in Santa Elena.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "Eine anglikanische Kirche in Santa Elena, die der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "Egy maja település romjai Santa Elenában, amely palotaegyütteseiről ismert.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "Levéltár és múzeum Santa Elenában, amely Belize természetrajzát dokumentálja.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "Látogatóközpont a Santa Elena-i Cahal Pech régészeti lelőhelyhez.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "Kulturális központ Santa Elenában, amely a helyi művészetet és zenét támogatja.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "Természetvédelmi projekt Santa Elenában, amely a zöld leguánok megőrzésével foglalkozik.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "Helyszín Santa Elenában, amely a hagyományos maja csokoládékészítést mutatja be.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "Népszerű folyóparti sétány Santa Elenában.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "Anglikán templom Santa Elena városában, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "Ruinele unei așezări mayașe în Santa Elena, cunoscută pentru complexele sale palatiale.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "O arhivă și un muzeu în Santa Elena care documentează istoria naturală a Belizei.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "Centru de vizitare pentru situl arheologic Cahal Pech din Santa Elena.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "Un centru cultural în Santa Elena care promovează arta și muzica locală.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "Un proiect de conservare în Santa Elena dedicat protejării iguanei verzi.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "Un loc în Santa Elena care oferă informații despre fabricarea tradițională a ciocolatei mayașe.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "O promenadă populară pe malul râului în Santa Elena.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "O biserică anglicană din Santa Elena, care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Cahal Pech Archaeological Reserve",
+                  "text": "Ruins of a Maya settlement in Santa Elena, known for its palace complexes.",
+                  "category": "historical",
+                  "coords": [
+                        -89.073858,
+                        17.145446
+                  ]
+            },
+            {
+                  "name": "Belize Natural History Archive",
+                  "text": "An archive and museum in Santa Elena documenting the natural history of Belize.",
+                  "category": "museum",
+                  "coords": [
+                        -89.060392,
+                        17.170105
+                  ]
+            },
+            {
+                  "name": "Cahal Pech Visitor Center",
+                  "text": "Information center for visitors to the Cahal Pech archaeological site in Santa Elena.",
+                  "category": "museum",
+                  "coords": [
+                        -89.07473,
+                        17.147249
+                  ]
+            },
+            {
+                  "name": "Soul Project",
+                  "text": "A cultural centre in Santa Elena promoting local art and music.",
+                  "category": "cultural",
+                  "coords": [
+                        -89.069683,
+                        17.155961
+                  ]
+            },
+            {
+                  "name": "Green Iguana Conservation Project",
+                  "text": "A conservation project in Santa Elena dedicated to preserving the green iguana.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068382,
+                        17.153615
+                  ]
+            },
+            {
+                  "name": "Ajaw Chocolate",
+                  "text": "A site in Santa Elena providing information on traditional Maya chocolate making.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.071334,
+                        17.154756
+                  ]
+            },
+            {
+                  "name": "El Cayó Boardwalk",
+                  "text": "A popular riverside boardwalk in Santa Elena.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.068157,
+                        17.159735
+                  ]
+            },
+            {
+                  "name": "St. Andrew's Church",
+                  "text": "An Anglican church in Santa Elena serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        -89.07023,
+                        17.159377
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-89.067, 17.167],
@@ -477,7 +1863,340 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Le célèbre 'Sidewalk' mesure environ un mètre à son point le plus étroit.", "Situé sur une longue et étroite péninsule dans le district de Stann Creek.", "Le site offre un accès aux plus belles plages du Belize.", "Point de départ pour des excursions vers les îles Laughing Bird Caye.", "L'économie locale dépend presque entièrement du tourisme.", "Propose une large gamme d'hébergements, du bungalow au complexe hôtelier."],
     }, image: "/poi-images/placencia-village-cities-v2.webp"},
   {
-    id: "caye-caulker-village-cities-v2",
+    id: "caye-caulker-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "Ein kleines Naturschutzgebiet auf Caye Caulker, das sich dem Erhalt der lokalen Flora und Fauna widmet.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "Ein beliebter Ort auf Caye Caulker, um Tarpune in ihrem natürlichen Lebensraum zu beobachten.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "Eine lokale Attraktion auf Caye Caulker, die für ihre entspannte Atmosphäre bekannt ist.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "Ein Wassertaxi-Dienst auf Caye Caulker, der Verbindungen zu benachbarten Inseln bietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "Ein Fahrkartenschalter für Express-Bootstransporte auf Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "Ein wichtiger Wassertaxi-Terminal auf Caye Caulker für Reisen zum Festland und zu anderen Inseln.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "Ein Strandbereich auf Caye Caulker, der zum Verweilen am Meer einlädt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "Eine charmante lokale Sehenswürdigkeit auf der Insel Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "Ein markantes lokales Gebäude und Orientierungspunkt auf Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "Egy kis természetvédelmi terület Caye Caulkeren, amely a helyi növeĺny- és állatvilág megőrzésére összpontosít.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "Népszerű hely Caye Caulkeren a tarponhalak megfigyelésére természetes környezetükben.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "Helyi látványosság Caye Caulkeren, amely nyugodt légköréről ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "Vízi taxi szolgáltatás Caye Caulkeren, amely összeköttetést biztosít a szomszédos szigetekkel.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "Expressz hajójáratok jegyértékesítő pontja Caye Caulkeren.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "Fontos vízi taxi terminál Caye Caulkeren a szárazföldre és más szigetekre irányuló utazásokhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "Strandterület Caye Caulkeren, amely tengerparti kikapcsolódást kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "Bájos helyi látványosság Caye Caulker szigetén.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "Jellegzetes helyi épület és tájékozódási pont Caye Caulkeren.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "O mică rezervație naturală pe Caye Caulker, dedicată conservării florei și faunei locale.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "Un loc popular pe Caye Caulker pentru a observa peștii tarpon în habitatul lor natural.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "O atracție locală pe Caye Caulker, cunoscută pentru atmosfera sa relaxată.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "Un serviciu de taxi pe apă în Caye Caulker, care oferă conexiuni către insulele învecinate.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "Un punct de ticketing pentru transportul rapid cu barca în Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "Un terminal important de taxi pe apă în Caye Caulker pentru călătorii către continent și alte insule.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "O zonă de plajă pe Caye Caulker, care oferă relaxare la malul mării.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "O atracție locală fermecătoare pe insula Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "O clădire locală distinctivă și un punct de reper pe Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Caye Caulker BTIA Mini Reserve",
+                  "text": "A small nature reserve on Caye Caulker focused on preserving local flora and fauna.",
+                  "category": "natural",
+                  "coords": [
+                        -88.027483,
+                        17.735579
+                  ]
+            },
+            {
+                  "name": "Tarpon viewing",
+                  "text": "A popular spot on Caye Caulker for observing tarpon fish in their natural habitat.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024888,
+                        17.747202
+                  ]
+            },
+            {
+                  "name": "Ras Creek",
+                  "text": "A local attraction on Caye Caulker known for its relaxed atmosphere.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.024704,
+                        17.75009
+                  ]
+            },
+            {
+                  "name": "Caribbean Sprinter Water Taxi",
+                  "text": "A water taxi service in Caye Caulker providing connections to neighboring islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023235,
+                        17.742602
+                  ]
+            },
+            {
+                  "name": "S. P. Express ticketing",
+                  "text": "A ticketing point for express boat transportation on Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.0242,
+                        17.743768
+                  ]
+            },
+            {
+                  "name": "San Pedro Belize Express",
+                  "text": "A key water taxi terminal on Caye Caulker for travel to the mainland and other islands.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023071,
+                        17.74354
+                  ]
+            },
+            {
+                  "name": "Playa Del Nino",
+                  "text": "A beach area on Caye Caulker offering relaxation by the sea.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.023443,
+                        17.74564
+                  ]
+            },
+            {
+                  "name": "Caballito de Mar",
+                  "text": "A charming local attraction on Caye Caulker island.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.025647,
+                        17.745598
+                  ]
+            },
+            {
+                  "name": "Willian house",
+                  "text": "A distinctive local building and landmark on Caye Caulker.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.02594,
+                        17.739772
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-BZ",
     coords: [-88.025, 17.742],
@@ -520,7 +2239,196 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["La devise officielle de l'île est 'Go Slow'.", "Le 'Split' est une zone célèbre divisant l'île en deux parties.", "Aucune voiture sur l'île, uniquement des voiturettes de golf et des vélos.", "Un haut lieu pour la plongée et le snorkeling sur la barrière de corail.", "Fondée au XIXe siècle comme refuge pendant la guerre des Castes.", "Lieu de rencontre prisé par les jeunes voyageurs du monde entier."],
     }, image: "/poi-images/caye-caulker-village-cities-v2.webp"},
   {
-    id: "hopkins-village-cities-v2",
+    id: "hopkins-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hawai'i",
+                  "text": "Ein Strandabschnitt namens Hawai'i in Hopkins.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Happy Go Luckie Tours",
+                  "text": "Ein lokaler Anbieter für Touren und Ausflüge in Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.28334,
+                        16.861618
+                  ]
+            },
+            {
+                  "name": "Seemore Adventures Dive Shop",
+                  "text": "Ein Tauchgeschäft und Anbieter von Abenteuertouren in Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.280054,
+                        16.853426
+                  ]
+            },
+            {
+                  "name": "Toronto Transit Commission (TTC) Bus Stop Pole",
+                  "text": "Eine ungewöhnliche Bushaltestelle-Attraktion in Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.281372,
+                        16.857555
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "Ein Strandresort in der Bucht von Hopkins.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hawai'i",
+                  "text": "Hawai'i elnevezésű tengerparti szakasz Hopkinsban.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Happy Go Luckie Tours",
+                  "text": "Helyi túra- és kirándulásszervező Hopkinsban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.28334,
+                        16.861618
+                  ]
+            },
+            {
+                  "name": "Seemore Adventures Dive Shop",
+                  "text": "Búvárbolt és kalandtúra-szervező Hopkinsban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.280054,
+                        16.853426
+                  ]
+            },
+            {
+                  "name": "Toronto Transit Commission (TTC) Bus Stop Pole",
+                  "text": "Egy különleges buszmegálló-látványosság Hopkinsban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.281372,
+                        16.857555
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "Tengerparti üdülőhely a Hopkins-öbölben.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hawai'i",
+                  "text": "O porțiune de plajă numită Hawai'i în Hopkins.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Happy Go Luckie Tours",
+                  "text": "Un operator local de tururi și excursii în Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.28334,
+                        16.861618
+                  ]
+            },
+            {
+                  "name": "Seemore Adventures Dive Shop",
+                  "text": "Un magazin de scufundări și organizator de tururi de aventură în Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.280054,
+                        16.853426
+                  ]
+            },
+            {
+                  "name": "Toronto Transit Commission (TTC) Bus Stop Pole",
+                  "text": "O stație de autobuz transformată în atracție în Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.281372,
+                        16.857555
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "O stațiune de coastă în golful Hopkins.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hawai'i",
+                  "text": "A beach area known as Hawai'i in Hopkins.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Happy Go Luckie Tours",
+                  "text": "A local tour and excursion operator in Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.28334,
+                        16.861618
+                  ]
+            },
+            {
+                  "name": "Seemore Adventures Dive Shop",
+                  "text": "A dive shop and adventure tour provider in Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.280054,
+                        16.853426
+                  ]
+            },
+            {
+                  "name": "Toronto Transit Commission Bus Stop",
+                  "text": "A unique bus stop attraction in Hopkins.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.281372,
+                        16.857555
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "A beach resort located at Hopkins Bay.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-SC",
     coords: [-88.283, 16.867],
@@ -821,7 +2729,88 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["La localité est située dans le district de Toledo.", "Réputée pour ses réseaux de grottes et ses cascades spectaculaires.", "Située au cœur d'un environnement de forêt tropicale luxuriante.", "La zone est un point fort pour le tourisme d'aventure durable.", "Culturellement marqué par les communautés mayas environnantes.", "Un lieu alliant calme et nature grandiose."],
     }, image: "/poi-images/blue-creek-village-cities-v2.webp"},
   {
-    id: "san-antonio-cayo-cities-v2",
+    id: "san-antonio-cayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Slate Creek Overlook",
+                  "text": "Ein Aussichtspunkt mit Panoramablick in der Nähe von San Antonio im Cayo District.",
+                  "category": "natural",
+                  "coords": [
+                        -88.966761,
+                        17.078357
+                  ]
+            },
+            {
+                  "name": "Pacbitun Farm",
+                  "text": "Ein Lehrbauernhof und eine Attraktion in der Nähe der antiken Stätte Pacbitun.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.987459,
+                        17.089914
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Slate Creek Overlook",
+                  "text": "Panorámás kilátást nyújtó kilátóhely San Antonio közelében, Cayo körzetében.",
+                  "category": "natural",
+                  "coords": [
+                        -88.966761,
+                        17.078357
+                  ]
+            },
+            {
+                  "name": "Pacbitun Farm",
+                  "text": "Oktatási célú farm és látnivaló Pacbitun ősi lelőhelyének közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.987459,
+                        17.089914
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Slate Creek Overlook",
+                  "text": "Un punct de observație care oferă vederi panoramice lângă San Antonio, în districtul Cayo.",
+                  "category": "natural",
+                  "coords": [
+                        -88.966761,
+                        17.078357
+                  ]
+            },
+            {
+                  "name": "Pacbitun Farm",
+                  "text": "O fermă educațională și atracție situată lângă situl antic Pacbitun.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.987459,
+                        17.089914
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Slate Creek Overlook",
+                  "text": "A scenic viewpoint offering panoramic views near San Antonio in the Cayo District.",
+                  "category": "natural",
+                  "coords": [
+                        -88.966761,
+                        17.078357
+                  ]
+            },
+            {
+                  "name": "Pacbitun Farm",
+                  "text": "An educational farm and attraction located near the ancient site of Pacbitun.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.987459,
+                        17.089914
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-88.983, 17.067],
@@ -994,7 +2983,88 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Situé dans le district septentrional de Corozal.", "L'économie est étroitement liée à l'industrie de la canne à sucre.", "Fortes influences culturelles de la région voisine du Mexique.", "La vie au village est rythmée par les cycles agricoles.", "Un lieu qui raconte l'histoire des régions frontalières.", "Les habitants s'engagent activement dans la vie communale."],
     }, image: "/poi-images/san-narciso-cities-v2.webp"},
   {
-    id: "san-pedro-columbia-cities-v2",
+    id: "san-pedro-columbia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "Ein interaktives Erlebnis in San Pedro Columbia, das in die Welt der Schokoladenherstellung einführt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "Ein ökologischer Park und Gästehaus, das sich auf den Schutz von Schmetterlingen spezialisiert hat.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "Interaktív élmény San Pedro Columbiában, amely bevezet a csokoládékészítés világába.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "Ökológiai park és vendégház, amely a pillangók védelmére szakosodott.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "O experiență interactivă în San Pedro Columbia, care introduce vizitatorii în lumea producției de ciocolată.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "Un parc ecologic și pensiune, specializată în protejarea fluturilor.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "An interactive experience in San Pedro Columbia that introduces visitors to the world of chocolate making.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "An ecological park and guesthouse specializing in butterfly conservation.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-TOL",
     coords: [-88.950, 16.250],
@@ -1037,7 +3107,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Une communauté maya riche en traditions à Toledo.", "D'importantes ruines archéologiques se trouvent à proximité.", "La communauté villageoise préserve ses racines culturelles.", "Situé dans un environnement vallonné avec de nombreuses sources d'eau.", "Un lieu important pour la préservation de la culture maya.", "Les habitants attachent de l'importance à une vie communautaire durable."],
     }, image: "/poi-images/san-pedro-columbia-cities-v2.webp"},
   {
-    id: "seine-bight-cities-v2",
+    id: "seine-bight-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Naia Resort",
+                  "text": "Das Naia Resort, ein Erholungsziel in Seine Bight.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358117,
+                        16.589231
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Naia Resort",
+                  "text": "A Naia Resort, egy pihenőhely Seine Bightban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358117,
+                        16.589231
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Naia Resort",
+                  "text": "Naia Resort, o destinație de vacanță în Seine Bight.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358117,
+                        16.589231
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Naia Resort",
+                  "text": "Naia Resort, a vacation destination in Seine Bight.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.358117,
+                        16.589231
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-SC",
     coords: [-88.350, 16.567],
@@ -1080,7 +3195,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Un charmant village Garifuna sur la péninsule de Placencia.", "Offre une alternative calme à la ville touristique de Placencia.", "La culture Garifuna y est vécue activement.", "Accès direct à de magnifiques sections de la côte caraïbe.", "Des événements culturels attirent des visiteurs intéressés.", "Un lieu qui allie tradition et potentiel touristique."],
     }, image: "/poi-images/seine-bight-cities-v2.webp"},
   {
-    id: "bullet-tree-falls-cities-v2",
+    id: "bullet-tree-falls-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Salvador Fernández Bridge",
+                  "text": "Eine bemerkenswerte Brücke über den Mopan-Fluss im Dorf Bullet Tree Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.113299,
+                        17.169575
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Salvador Fernández Bridge",
+                  "text": "A Mopan-folyón átívelő jelentős híd Bullet Tree Falls faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.113299,
+                        17.169575
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Salvador Fernández Bridge",
+                  "text": "Un pod notabil care traversează râul Mopan în satul Bullet Tree Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.113299,
+                        17.169575
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Salvador Fernández Bridge",
+                  "text": "A notable bridge spanning the Mopan River in the village of Bullet Tree Falls.",
+                  "category": "landmark",
+                  "coords": [
+                        -89.113299,
+                        17.169575
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-89.117, 17.183],
@@ -1123,7 +3283,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Le village est situé à environ 5 kilomètres à l'ouest de San Ignacio.", "Destination prisée pour le tubing sur la rivière Mopan.", "Le site archéologique d'El Pilar se trouve à proximité.", "La population est un mélange coloré de différentes ethnies.", "Le village abrite plusieurs éco-lodges renommés.", "Le nom provient d'un arbre localement appelé 'Bullet Tree'.", "Accessible par une route pittoresque longeant la rivière.", "Considéré comme l'un des villages les plus sûrs et calmes de la région."],
     }, image: "/poi-images/bullet-tree-falls-cities-v2.webp"},
   {
-    id: "sittee-river-village-cities-v2",
+    id: "sittee-river-village-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Sittee Point Lighthouse",
+                  "text": "Ein Leuchtturm im Sittee River Village, der die Schifffahrt an der Küste unterstützt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.24938,
+                        16.805128
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Sittee Point Lighthouse",
+                  "text": "Világítótorony Sittee River Village-ben, amely a part menti hajózást segíti.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.24938,
+                        16.805128
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Sittee Point Lighthouse",
+                  "text": "Un far în Sittee River Village, care sprijină navigația de-a lungul coastei.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.24938,
+                        16.805128
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Sittee Point Lighthouse",
+                  "text": "A lighthouse in Sittee River Village supporting coastal navigation.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.24938,
+                        16.805128
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-SC",
     coords: [-88.267, 16.817],
@@ -1166,7 +3371,232 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Sittee River Village est situé sur l'une des rivières les plus profondes du Belize.", "Le village abrite certains des plus vieux acajous du pays.", "C'est un point de départ idéal pour des excursions vers l'atoll de Glover's Reef.", "On trouve une forte densité d'iguanes et d'oiseaux tropicaux dans les environs.", "Le village dispose d'une petite marina et de plusieurs maisons d'hôtes.", "La population est principalement d'origine créole.", "Sittee River est situé à environ 30 kilomètres au sud de Dangriga.", "La rivière est connue pour ses excursions nocturnes d'observation des crocodiles."],
     }, image: "/poi-images/sittee-river-village-cities-v2.webp"},
   {
-    id: "san-jose-palmar-cities-v2",
+    id: "san-jose-palmar-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "George Price Monument",
+                  "text": "Ein Denkmal für George Price in San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Anlegestelle für Bootsfahrten zur Maya-Stätte Lamanai in San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "Cunil, eine lokale Sehenswürdigkeit in San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Ein Denkmal für Marcus Canul in San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "Shuga City, ein lokales Monument in San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Ein Informationsstand für Touristen in San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "George Price Monument",
+                  "text": "George Price tiszteletére emelt emlékmű San Jose Palmarban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Hajók indulási helye Lamanai maja romjaihoz San Jose Palmarból.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "Cunil, egy helyi látnivaló San Jose Palmarban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Marcus Canul emlékműve San Jose Palmarban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "Shuga City, egy helyi emlékmű San Jose Palmarban.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Turisztikai információs bódé San Jose Palmarban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "George Price Monument",
+                  "text": "Un monument dedicat lui George Price în San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Punct de plecare pentru bărcile către situl Lamanai din San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "Cunil, o atracție locală în San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Monumentul lui Marcus Canul din San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "Shuga City, un monument local în San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Un chioșc de informații turistice în San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "George Price Monument",
+                  "text": "A monument dedicated to George Price in San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Departure point for boat trips to the Lamanai Mayan ruins in San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Cunil",
+                  "text": "Cunil, a local attraction in San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.569503,
+                        18.061795
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "A monument honoring Marcus Canul in San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Shuga City",
+                  "text": "Shuga City, a local monument in San Jose Palmar.",
+                  "category": "historical",
+                  "coords": [
+                        -88.565557,
+                        18.055205
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "A tourist information booth in San Jose Palmar.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-OW",
     coords: [-88.583, 18.067],
@@ -1252,7 +3682,196 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Yo Creek se situe à environ 15 kilomètres à l'ouest d'Orange Walk Town.", "La population est d'environ 1 500 habitants.", "La canne à sucre est le principal produit commercial du village.", "Le site archéologique de Cuello se trouve à proximité immédiate.", "Le nom 'Yo Creek' provient probablement d'une langue maya.", "Le village est réputé pour son équipe de football active.", "La plupart des habitants parlent à la fois espagnol et anglais.", "Les coopératives agricoles jouent un rôle majeur dans la vie du village."],
     }, image: "/poi-images/yo-creek-cities-v2.webp"},
   {
-    id: "trial-farm-cities-v2",
+    id: "trial-farm-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "Ein Kulturhaus und Museum in Trial Farm, das die lokale Geschichte und Traditionen präsentiert.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "Ein Denkmal zu Ehren von George Price, dem Vater der Unabhängigkeit von Belize.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Ein Abfahrtsort in Trial Farm für Bootstouren zur antiken Maya-Stätte Lamanai.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Ein Denkmal in Trial Farm, das an den Maya-Anführer Marcus Canul erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Ein Informationsstand in Trial Farm, der Besuchern Auskunft über lokale Sehenswürdigkeiten gibt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "Kulturális központ és múzeum Trial Farmban, amely a helyi történelmet és hagyományokat mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "Emlékmű George Price, Belize függetlenségi atyjának tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Indulási pont Trial Farmban a Lamanai maja régészeti lelőhelyhez induló hajótúrákhoz.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Emlékmű Trial Farmban, amely Marcus Canul maja vezetőnek állít emléket.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Információs pult Trial Farmban, amely tájékoztatást nyújt a látogatóknak a helyi látnivalókról.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "O casă de cultură și muzeu în Trial Farm, care prezintă istoria și tradițiile locale.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "Un monument în onoarea lui George Price, tatăl independenței statului Belize.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "Un punct de plecare în Trial Farm pentru tururile cu barca spre situl arheologic mayaș Lamanai.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "Un monument în Trial Farm care îl comemorează pe liderul mayaș Marcus Canul.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "Un punct de informare în Trial Farm care oferă vizitatorilor detalii despre atracțiile locale.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Banquitas House of Culture",
+                  "text": "A cultural house and museum in Trial Farm showcasing local history and traditions.",
+                  "category": "museum",
+                  "coords": [
+                        -88.558947,
+                        18.083337
+                  ]
+            },
+            {
+                  "name": "George Price Monument",
+                  "text": "A monument honoring George Price, the father of Belize's independence.",
+                  "category": "historical",
+                  "coords": [
+                        -88.567718,
+                        18.08473
+                  ]
+            },
+            {
+                  "name": "Boats to Lamanai",
+                  "text": "A departure point in Trial Farm for boat tours to the ancient Maya site of Lamanai.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.557129,
+                        18.07707
+                  ]
+            },
+            {
+                  "name": "Marcus Canul Monument",
+                  "text": "A monument in Trial Farm commemorating the Maya leader Marcus Canul.",
+                  "category": "historical",
+                  "coords": [
+                        -88.5618,
+                        18.07927
+                  ]
+            },
+            {
+                  "name": "Tourist Info Booth",
+                  "text": "An information booth in Trial Farm providing visitors with details about local attractions.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.561141,
+                        18.080173
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-OW",
     coords: [-88.567, 18.100],
@@ -1864,7 +4483,124 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Consejo est l'établissement habité le plus au nord du Belize.", "Il est situé à environ 13 kilomètres au nord-est de Corozal Town.", "La ville de Chetumal au Mexique n'est qu'à environ 3 kilomètres par voie maritime.", "Consejo abrite une importante communauté d'expatriés des États-Unis et du Canada.", "La région est connue pour son faible taux de criminalité.", "Il y a une petite marina et un terrain de golf à proximité.", "La promenade de bord de mer est idéale pour les balades et l'observation des oiseaux.", "Consejo est considéré comme l'un des meilleurs endroits pour la retraite au Belize."],
     }, image: "/poi-images/consejo-cities-v2.webp"},
   {
-    id: "santa-familia-cities-v2",
+    id: "santa-familia-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Baking Pot",
+                  "text": "Eine bedeutende archäologische Stätte der Maya im Cayo-Distrikt von Belize.",
+                  "category": "historical",
+                  "coords": [
+                        -88.951677,
+                        17.211058
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "Ein historisches Monument in Santa Familia, das Teil des kulturellen Erbes der Region ist.",
+                  "category": "historical",
+                  "coords": [
+                        -88.950064,
+                        17.213797
+                  ]
+            },
+            {
+                  "name": "Timber Cube Gallery",
+                  "text": "Eine Kunstgalerie in Santa Familia, die zeitgenössische Werke und lokales Handwerk zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        -88.942217,
+                        17.208809
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Baking Pot",
+                  "text": "Jelentős maja régészeti lelőhely Belize Cayo körzetében.",
+                  "category": "historical",
+                  "coords": [
+                        -88.951677,
+                        17.211058
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "Történelmi emlékmű Santa Familiában, amely a régió kulturális örökségének része.",
+                  "category": "historical",
+                  "coords": [
+                        -88.950064,
+                        17.213797
+                  ]
+            },
+            {
+                  "name": "Timber Cube Gallery",
+                  "text": "Művészeti galéria Santa Familiában, amely kortárs műveket és helyi kézműves termékeket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        -88.942217,
+                        17.208809
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Baking Pot",
+                  "text": "Un sit arheologic mayaș important în districtul Cayo din Belize.",
+                  "category": "historical",
+                  "coords": [
+                        -88.951677,
+                        17.211058
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "Un monument istoric în Santa Familia, care face parte din moștenirea culturală a regiunii.",
+                  "category": "historical",
+                  "coords": [
+                        -88.950064,
+                        17.213797
+                  ]
+            },
+            {
+                  "name": "Timber Cube Gallery",
+                  "text": "O galerie de artă în Santa Familia, care expune lucrări contemporane și obiecte de artizanat local.",
+                  "category": "museum",
+                  "coords": [
+                        -88.942217,
+                        17.208809
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Baking Pot",
+                  "text": "A significant Maya archaeological site located in the Cayo District of Belize.",
+                  "category": "historical",
+                  "coords": [
+                        -88.951677,
+                        17.211058
+                  ]
+            },
+            {
+                  "name": "Palace",
+                  "text": "A historical monument in Santa Familia that is part of the region's cultural heritage.",
+                  "category": "historical",
+                  "coords": [
+                        -88.950064,
+                        17.213797
+                  ]
+            },
+            {
+                  "name": "Timber Cube Gallery",
+                  "text": "An art gallery in Santa Familia showcasing contemporary works and local crafts.",
+                  "category": "museum",
+                  "coords": [
+                        -88.942217,
+                        17.208809
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-88.9333, 17.2167],
@@ -2037,7 +4773,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Jalacte se situe directement sur la frontière entre le Belize et le Guatemala.", "La population est composée presque exclusivement de Mayas Kekchi.", "Le village est un point important pour le commerce transfrontalier informel.", "Il appartient aux colonies les plus reculées du district de Toledo.", "Les habitants pratiquent l'agriculture traditionnelle pour leur propre consommation.", "La cardamome est un produit commercial important de la région.", "Le village possède sa propre école primaire pour les enfants mayas.", "L'infrastructure s'est améliorée ces dernières années grâce à l'aménagement des chemins frontaliers."],
     }, image: "/poi-images/jalacte-cities-v2.webp"},
   {
-    id: "san-roman-cayo-cities-v2",
+    id: "san-roman-cayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Tapir Mountain Nature Reserve",
+                  "text": "Das Naturschutzgebiet Tapir Mountain bei San Roman (Cayo).",
+                  "category": "natural",
+                  "coords": [
+                        -88.886739,
+                        17.13192
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Tapir Mountain Nature Reserve",
+                  "text": "A Tapir Mountain természetvédelmi terület San Roman (Cayo) közelében.",
+                  "category": "natural",
+                  "coords": [
+                        -88.886739,
+                        17.13192
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Tapir Mountain Nature Reserve",
+                  "text": "Rezervația naturală Tapir Mountain din San Roman (Cayo).",
+                  "category": "natural",
+                  "coords": [
+                        -88.886739,
+                        17.13192
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Tapir Mountain Nature Reserve",
+                  "text": "The Tapir Mountain Nature Reserve in San Roman (Cayo).",
+                  "category": "natural",
+                  "coords": [
+                        -88.886739,
+                        17.13192
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-88.9, 17.1167],
@@ -2339,7 +5120,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Le village est situé directement sur la rive ouest de la Progresso Lagoon.", "Il est réputé pour ses excellentes possibilités de pêche au bar et au vivaneau.", "La lagune est un lieu de repos important pour les oiseaux migrateurs.", "Lagoon Village se trouve à environ 20 kilomètres au sud de Corozal Town.", "Il existe une petite communauté d'expatriés qui vivent ici.", "L'environnement est marqué par des cocotiers et une végétation tropicale.", "Le calme du lieu le rend idéal pour l'écotourisme.", "Le village est accessible par une route de gravier bien entretenue."],
     }, image: "/poi-images/lagoon-village-cities-v2.webp"},
   {
-    id: "santa-clara-czl-cities-v2",
+    id: "santa-clara-czl-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "XAIBE",
+                  "text": "Das XAIBE Monument in Santa Clara (Corozal).",
+                  "category": "historical",
+                  "coords": [
+                        -88.433609,
+                        18.386504
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "XAIBE",
+                  "text": "A XAIBE emlékmű Santa Clara (Corozal) településen.",
+                  "category": "historical",
+                  "coords": [
+                        -88.433609,
+                        18.386504
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "XAIBE",
+                  "text": "Monumentul XAIBE din Santa Clara (Corozal).",
+                  "category": "historical",
+                  "coords": [
+                        -88.433609,
+                        18.386504
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "XAIBE",
+                  "text": "The XAIBE monument in Santa Clara (Corozal).",
+                  "category": "historical",
+                  "coords": [
+                        -88.433609,
+                        18.386504
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CZL",
     coords: [-88.45, 18.4],
@@ -2727,7 +5553,268 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["La Gracia est une communauté purement agricole dans le district de Cayo.", "Le village est réputé pour son élevage de bétail réussi.", "Les habitants sont principalement des métis hispanophones.", "Il est situé dans un paysage vallonné avec de vastes zones de pâturage.", "La Gracia a une densité de population très faible.", "Le village est connu pour son atmosphère calme et sûre.", "La communauté organise régulièrement des marchés fermiers locaux.", "Il n'y a pas de grandes entreprises commerciales dans le village."],
     }, image: "/poi-images/la-gracia-cities-v2.webp"},
   {
-    id: "roaring-creek-cities-v2",
+    id: "roaring-creek-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Belize Bird Rescue",
+                  "text": "Ein Zentrum für den Schutz und die Rettung von Vögeln in Roaring Creek.",
+                  "category": "natural",
+                  "coords": [
+                        -88.801722,
+                        17.247782
+                  ]
+            },
+            {
+                  "name": "Rock Farm",
+                  "text": "Rock Farm, ein Naturschutzgebiet in Roaring Creek.",
+                  "category": "natural",
+                  "coords": [
+                        -88.79955,
+                        17.24788
+                  ]
+            },
+            {
+                  "name": "Belize Monument",
+                  "text": "Das Belize Monument in Roaring Creek.",
+                  "category": "historical",
+                  "coords": [
+                        -88.773055,
+                        17.249868
+                  ]
+            },
+            {
+                  "name": "Evangelical Quest Church",
+                  "text": "Die Evangelical Quest Church, eine Sehenswürdigkeit in Roaring Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804192,
+                        17.259774
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Ein Uhrturm-Denkmal in Roaring Creek.",
+                  "category": "historical",
+                  "coords": [
+                        -88.784767,
+                        17.250388
+                  ]
+            },
+            {
+                  "name": "Christ Lutheran Church",
+                  "text": "Die lutherische Christuskirche in Roaring Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.793811,
+                        17.265418
+                  ]
+            },
+            {
+                  "name": "Our Lady of Guadalupe Cathedral",
+                  "text": "Die Kathedrale Unserer Lieben Frau von Guadalupe in Roaring Creek.",
+                  "category": "religious",
+                  "coords": [
+                        -88.763503,
+                        17.248672
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Belize Bird Rescue",
+                  "text": "Madármentő és védelmi központ Roaring Creekben.",
+                  "category": "natural",
+                  "coords": [
+                        -88.801722,
+                        17.247782
+                  ]
+            },
+            {
+                  "name": "Rock Farm",
+                  "text": "Rock Farm, egy természetvédelmi terület Roaring Creekben.",
+                  "category": "natural",
+                  "coords": [
+                        -88.79955,
+                        17.24788
+                  ]
+            },
+            {
+                  "name": "Belize Monument",
+                  "text": "A Belize emlékmű Roaring Creekben.",
+                  "category": "historical",
+                  "coords": [
+                        -88.773055,
+                        17.249868
+                  ]
+            },
+            {
+                  "name": "Evangelical Quest Church",
+                  "text": "Az Evangelical Quest templom, egy látnivaló Roaring Creekben.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804192,
+                        17.259774
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Egy óratorony emlékmű Roaring Creekben.",
+                  "category": "historical",
+                  "coords": [
+                        -88.784767,
+                        17.250388
+                  ]
+            },
+            {
+                  "name": "Christ Lutheran Church",
+                  "text": "A Krisztus Evangélikus Templom Roaring Creekben.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.793811,
+                        17.265418
+                  ]
+            },
+            {
+                  "name": "Our Lady of Guadalupe Cathedral",
+                  "text": "Guadalupei Miasszonyunk székesegyház Roaring Creekben.",
+                  "category": "religious",
+                  "coords": [
+                        -88.763503,
+                        17.248672
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Belize Bird Rescue",
+                  "text": "Un centru de salvare și protecție a păsărilor în Roaring Creek.",
+                  "category": "natural",
+                  "coords": [
+                        -88.801722,
+                        17.247782
+                  ]
+            },
+            {
+                  "name": "Rock Farm",
+                  "text": "Rock Farm, o rezervație naturală în Roaring Creek.",
+                  "category": "natural",
+                  "coords": [
+                        -88.79955,
+                        17.24788
+                  ]
+            },
+            {
+                  "name": "Belize Monument",
+                  "text": "Monumentul Belize din Roaring Creek.",
+                  "category": "historical",
+                  "coords": [
+                        -88.773055,
+                        17.249868
+                  ]
+            },
+            {
+                  "name": "Evangelical Quest Church",
+                  "text": "Biserica Evangelical Quest, o atracție în Roaring Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804192,
+                        17.259774
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "Un monument sub formă de turn cu ceas în Roaring Creek.",
+                  "category": "historical",
+                  "coords": [
+                        -88.784767,
+                        17.250388
+                  ]
+            },
+            {
+                  "name": "Christ Lutheran Church",
+                  "text": "Biserica Lutherană Christ din Roaring Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.793811,
+                        17.265418
+                  ]
+            },
+            {
+                  "name": "Our Lady of Guadalupe Cathedral",
+                  "text": "Catedrala Maica Domnului de Guadalupe din Roaring Creek.",
+                  "category": "religious",
+                  "coords": [
+                        -88.763503,
+                        17.248672
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Belize Bird Rescue",
+                  "text": "A bird rescue and conservation center in Roaring Creek.",
+                  "category": "natural",
+                  "coords": [
+                        -88.801722,
+                        17.247782
+                  ]
+            },
+            {
+                  "name": "Rock Farm",
+                  "text": "Rock Farm, a nature reserve in Roaring Creek.",
+                  "category": "natural",
+                  "coords": [
+                        -88.79955,
+                        17.24788
+                  ]
+            },
+            {
+                  "name": "Belize Monument",
+                  "text": "The Belize Monument in Roaring Creek.",
+                  "category": "historical",
+                  "coords": [
+                        -88.773055,
+                        17.249868
+                  ]
+            },
+            {
+                  "name": "Evangelical Quest Church",
+                  "text": "The Evangelical Quest Church, an attraction in Roaring Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.804192,
+                        17.259774
+                  ]
+            },
+            {
+                  "name": "Clock Tower",
+                  "text": "A clock tower monument in Roaring Creek.",
+                  "category": "historical",
+                  "coords": [
+                        -88.784767,
+                        17.250388
+                  ]
+            },
+            {
+                  "name": "Christ Lutheran Church",
+                  "text": "Christ Lutheran Church in Roaring Creek.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.793811,
+                        17.265418
+                  ]
+            },
+            {
+                  "name": "Our Lady of Guadalupe Cathedral",
+                  "text": "Our Lady of Guadalupe Cathedral in Roaring Creek.",
+                  "category": "religious",
+                  "coords": [
+                        -88.763503,
+                        17.248672
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-88.7833, 17.2667],
@@ -2942,7 +6029,88 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Riversdale marque l'entrée nord de la péninsule de Placencia.", "Le village dispose de magnifiques plages de sable moins fréquentées.", "C'était à l'origine un centre pour l'expédition de bananes.", "Riversdale est une destination phare pour le développement immobilier dans le sud.", "Un petit aérodrome privé se trouve à proximité.", "Le village offre d'excellentes conditions pour la pêche à la mouche.", "La population est restreinte et se compose de locaux et d'expatriés.", "C'est l'un des endroits les plus calmes de la côte bélizienne."],
     }, image: "/poi-images/riversdale-cities-v2.webp"},
   {
-    id: "san-pablo-toledo-cities-v2",
+    id: "san-pablo-toledo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "Ein Erlebniszentrum in San Pablo, das Touren rund um den Anbau und die Verarbeitung von Kakao anbietet.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "Ein Ökopark in San Pablo, der Besuchern die Vielfalt der lokalen Schmetterlingsarten näherbringt.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "Élményközpont San Pablóban, amely a kakaó termesztésével és feldolgozásával kapcsolatos túrákat kínál.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "Ökopark San Pablóban, amely bemutatja a látogatóknak a helyi pillangófajok sokszínűségét.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "Un centru de experiențe în San Pablo, care oferă tururi despre cultivarea și procesarea cacauei.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "Un parc ecologic în San Pablo, care prezintă vizitatorilor diversitatea speciilor locale de fluturi.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Eladio's chocolate adventure",
+                  "text": "An experiential center in San Pablo offering tours focused on cocoa cultivation and processing.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.956724,
+                        16.273832
+                  ]
+            },
+            {
+                  "name": "The Butterfly Ecopark & Guesthouse",
+                  "text": "An eco-park in San Pablo that introduces visitors to the diversity of local butterfly species.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.946848,
+                        16.27097
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-TOL",
     coords: [-88.9333, 16.2667],
@@ -3333,7 +6501,88 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["Biscayne se situe directement sur la Phillip Goldson Highway.", "Le village appartient à la zone d'influence de Crooked Tree.", "La population est principalement d'origine créole.", "L'économie repose sur le petit élevage et les services.", "Il se trouve à environ 40 kilomètres au nord-ouest de Belize City.", "Réputé pour son paysage de savane paisible.", "Zones humides importantes pour les oiseaux migrateurs à proximité.", "Le village dispose d'une école primaire et d'une communauté paroissiale active."],
     }, image: "/poi-images/biscayne-cities-v2.webp"},
   {
-    id: "silk-grass-cities-v2",
+    id: "silk-grass-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Hawai'i",
+                  "text": "Ein malerischer Strandabschnitt in der Nähe von Silk Grass, ideal für Ruhesuchende.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "Ein Ferienort am Strand von Silk Grass, bekannt für seine entspannte Atmosphäre und Meeresnähe.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Hawai'i",
+                  "text": "Gle festői tengerparti szakasz Silk Grass közelében, ideális a nyugalomra vágyók számára.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "Tengerparti üdülőhely Silk Grassnál, amely nyugodt légköréről és a tenger közelségéről ismert.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Hawai'i",
+                  "text": "O secțiune de plajă pitorească lângă Silk Grass, ideală pentru cei care caută liniște.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "O stațiune de vacanță la plaja din Silk Grass, cunoscută pentru atmosfera relaxată și proximitatea față de mare.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Hawai'i",
+                  "text": "A scenic stretch of beach near Silk Grass, ideal for those seeking tranquility.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.288416,
+                        16.87968
+                  ]
+            },
+            {
+                  "name": "Hopkins Bay",
+                  "text": "A beach resort at Silk Grass known for its relaxed atmosphere and proximity to the sea.",
+                  "category": "recreational",
+                  "coords": [
+                        -88.287817,
+                        16.875494
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-SC",
     coords: [-88.3, 16.9],
@@ -3550,7 +6799,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
       fr: ["San Joaquin est situé directement sur la Phillip Goldson Highway au sud de Corozal.", "La culture de la canne à sucre est la source de revenus primaire des habitants.", "Le village est célèbre pour sa grande fête annuelle.", "La population se compose principalement de métis de langue espagnole.", "San Joaquin dispose de son propre poste de santé et d'une école primaire.", "C'est l'un des plus grands villages du district de Corozal.", "La communauté est connue pour son esprit d'entreprise.", "Il existe plusieurs petites traces archéologiques dans les environs."],
     }, image: "/poi-images/san-joaquin-czl-cities-v2.webp"},
   {
-    id: "teakettle-cities-v2",
+    id: "teakettle-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Da Family Zone",
+                  "text": "Ein familienorientierter Erholungs- und Attraktionsort im Dorf Teakettle.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.819759,
+                        17.24628
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Da Family Zone",
+                  "text": "Családbarát kikapcsolódási és szórakozóhely Teakettle faluban.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.819759,
+                        17.24628
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Da Family Zone",
+                  "text": "Un site de recreere și atracție orientat spre familie în satul Teakettle.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.819759,
+                        17.24628
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Da Family Zone",
+                  "text": "A family-oriented recreation and attraction site in the village of Teakettle.",
+                  "category": "landmark",
+                  "coords": [
+                        -88.819759,
+                        17.24628
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-88.8333, 17.2333],
@@ -3725,7 +7019,52 @@ export const poiExtraBelizeCitiesV2: POI[] = [
     },
   },
   {
-    id: "buena-vista-cayo-cities-v2",
+    id: "buena-vista-cayo-cities-v2", "sights": {
+      "de": [
+            {
+                  "name": "Stones",
+                  "text": "Ein lokales Denkmal in Buena Vista, das an historische Ereignisse oder Persönlichkeiten erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Stones",
+                  "text": "Helyi emlékmű Buena Vistában, amely történelmi eseményekre vagy személyiségekre emlékeztet.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Stones",
+                  "text": "Un monument local în Buena Vista, care comemorează evenimente istorice sau personalități.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Stones",
+                  "text": "A local monument in Buena Vista commemorating historical events or figures.",
+                  "category": "historical",
+                  "coords": [
+                        -88.971013,
+                        17.247689
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "BZ-CYO",
     coords: [-88.9833, 17.2667],

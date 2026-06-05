@@ -138,7 +138,592 @@ export const kosovoPois: POI[] = [
     }, image: "/poi-images/xk-decan-mountains.webp"},
   // XK-002: Đakovica
   {
-    id: "xk-gjakova", type: "city", parent: "XK-002", coords: [20.43, 42.38],
+    id: "xk-gjakova", "sights": {
+      "de": [
+            {
+                  "name": "Kulla e Avdullah Pashe Drenit",
+                  "text": "Die Kulla e Avdullah Pashë Drenit ist ein traditionelles Turmhaus in Gjakova, das heute als Kulturmuseum dient.",
+                  "category": "museum",
+                  "coords": [
+                        20.427762,
+                        42.38316
+                  ]
+            },
+            {
+                  "name": "Shkugeza",
+                  "text": "Shkugeza ist ein wunderschönes Naturschutzgebiet, das einen friedlichen Rückzugsort in der Natur in Gjakova bietet.",
+                  "category": "natural",
+                  "coords": [
+                        20.424219,
+                        42.35794
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Asim Vokshi\"",
+                  "text": "Der Pallati i Kulturës \"Asim Vokshi\" ist ein herausragendes Theater und kulturelles Zentrum in Gjakova.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430415,
+                        42.384619
+                  ]
+            },
+            {
+                  "name": "Kulla e Koshit",
+                  "text": "Der Koshi-Turm ist eine historische schlossähnliche Steinstruktur in Gjakova.",
+                  "category": "castle",
+                  "coords": [
+                        20.426983,
+                        42.381658
+                  ]
+            },
+            {
+                  "name": "SHTEPIA TRADICIONALE E FAMILJES QERKEZI MUZEU HISTORIK 1999",
+                  "text": "Dieses historische Museum in Gjakova bewahrt das traditionelle Zuhause der Familie Qerkezi und ehrt die Ereignisse von 1999.",
+                  "category": "museum",
+                  "coords": [
+                        20.438999,
+                        42.372875
+                  ]
+            },
+            {
+                  "name": "Muzeu i Zejtarisë",
+                  "text": "Das Muzeu i Zejtarisë ist ein interessantes Museum in Gjakova, das dem lokalen Handwerk und Gewerbe gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        20.426917,
+                        42.378463
+                  ]
+            },
+            {
+                  "name": "Kulla e Sylejman Vokshit",
+                  "text": "Die Kulla e Sylejman Vokshit ist ein befestigter Turm, der als historisches Wahrzeichen in Gjakova gilt.",
+                  "category": "castle",
+                  "coords": [
+                        20.429416,
+                        42.382208
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "Das Ethnografische Museum von Gjakova bietet einen aufschlussreichen Einblick in die traditionelle Kultur und Lebensweise der Region.",
+                  "category": "museum",
+                  "coords": [
+                        20.430584,
+                        42.379471
+                  ]
+            },
+            {
+                  "name": "Delfini",
+                  "text": "Delfini ist ein unterhaltsamer Wasserpark, der Freizeitschwimmen und Wasseraktivitäten in Gjakova bietet.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437042,
+                        42.360419
+                  ]
+            },
+            {
+                  "name": "Kulla e Currit",
+                  "text": "Die Kulla e Currit ist ein erhaltener historischer traditioneller Turm, der als wichtiges Denkmal in Gjakova fungiert.",
+                  "category": "historical",
+                  "coords": [
+                        20.425173,
+                        42.383011
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "Sahatkulla ist ein markantes historisches Uhrenturm-Denkmal in Gjakova.",
+                  "category": "historical",
+                  "coords": [
+                        20.428083,
+                        42.380518
+                  ]
+            },
+            {
+                  "name": "Tv Syri Vision",
+                  "text": "Tv Syri Vision ist eine lokale Rundfunkattraktion und ein Medienzentrum in Gjakova.",
+                  "category": "landmark",
+                  "coords": [
+                        20.430431,
+                        42.389716
+                  ]
+            },
+            {
+                  "name": "Ottoman Bridge",
+                  "text": "Die osmanische Brücke ist eine wunderschöne historische Steinbrücke und eine architektonische Attraktion in Gjakova.",
+                  "category": "landmark",
+                  "coords": [
+                        20.420793,
+                        42.370457
+                  ]
+            },
+            {
+                  "name": "Rotary",
+                  "text": "Das Rotary-Denkmal in Gjakova ist ein bemerkenswertes Wahrzeichen, das der lokalen Gemeinschaftsorganisation gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        20.430356,
+                        42.383448
+                  ]
+            },
+            {
+                  "name": "Kroni i Panaxhallës",
+                  "text": "Kroni i Panaxhallës ist ein traditioneller Brunnen, der als historisches Denkmal in Gjakova dient.",
+                  "category": "historical",
+                  "coords": [
+                        20.429425,
+                        42.376573
+                  ]
+            },
+            {
+                  "name": "Kompleksi Memorial i Martirëve në Mejë",
+                  "text": "Dieser Gedenkkomplex in Gjakova dient als feierliches Denkmal zu Ehren der Märtyrer von Meja.",
+                  "category": "historical",
+                  "coords": [
+                        20.395892,
+                        42.376878
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kulla e Avdullah Pashe Drenit",
+                  "text": "A Kulla e Avdullah Pashë Drenit egy hagyományos toronyház Gjakova városában, amely ma kulturális múzeumként működik.",
+                  "category": "museum",
+                  "coords": [
+                        20.427762,
+                        42.38316
+                  ]
+            },
+            {
+                  "name": "Shkugeza",
+                  "text": "A Shkugeza egy gyönyörű természetvédelmi terület, amely békés természeti menedéket kínál Gjakovában.",
+                  "category": "natural",
+                  "coords": [
+                        20.424219,
+                        42.35794
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Asim Vokshi\"",
+                  "text": "A Pallati i Kulturës \"Asim Vokshi\" egy kiemelkedő színház és kulturális központ Gjakovában.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430415,
+                        42.384619
+                  ]
+            },
+            {
+                  "name": "Kulla e Koshit",
+                  "text": "A Koshi-torony egy történelmi kameraszerű kőépítmény Gjakova városában.",
+                  "category": "castle",
+                  "coords": [
+                        20.426983,
+                        42.381658
+                  ]
+            },
+            {
+                  "name": "SHTEPIA TRADICIONALE E FAMILJES QERKEZI MUZEU HISTORIK 1999",
+                  "text": "Ez a történelmi múzeum Gjakovában a Qerkezi család hagyományos otthonát őrzi, és az 1999-es eseményeknek állít emléket.",
+                  "category": "museum",
+                  "coords": [
+                        20.438999,
+                        42.372875
+                  ]
+            },
+            {
+                  "name": "Muzeu i Zejtarisë",
+                  "text": "A Muzeu i Zejtarisë egy érdekes múzeum Gjakovában, amelyet a helyi kézművességnek és mesterségeknek szenteltek.",
+                  "category": "museum",
+                  "coords": [
+                        20.426917,
+                        42.378463
+                  ]
+            },
+            {
+                  "name": "Kulla e Sylejman Vokshit",
+                  "text": "A Kulla e Sylejman Vokshit egy erődített toronyépület, amely történelmi nevezetességként áll Gjakovában.",
+                  "category": "castle",
+                  "coords": [
+                        20.429416,
+                        42.382208
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "A Gjakovai Néprajzi Múzeum betekintést nyújt a régió hagyományos kultúrájába és életmódjába.",
+                  "category": "museum",
+                  "coords": [
+                        20.430584,
+                        42.379471
+                  ]
+            },
+            {
+                  "name": "Delfini",
+                  "text": "A Delfini egy szórakoztató vízi park, amely rekreációs úszást és vízi tevékenységeket kínál Gjakovában.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437042,
+                        42.360419
+                  ]
+            },
+            {
+                  "name": "Kulla e Currit",
+                  "text": "A Kulla e Currit egy fennmaradt történelmi hagyományos torony, amely fontos műemlékként működik Gjakovában.",
+                  "category": "historical",
+                  "coords": [
+                        20.425173,
+                        42.383011
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "A Sahatkulla egy kiemelkedő történelmi óratorony emlékmű Gjakovában.",
+                  "category": "historical",
+                  "coords": [
+                        20.428083,
+                        42.380518
+                  ]
+            },
+            {
+                  "name": "Tv Syri Vision",
+                  "text": "A Tv Syri Vision egy helyi műsorszóró látványosság és médiaközpont Gjakovában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.430431,
+                        42.389716
+                  ]
+            },
+            {
+                  "name": "Ottoman Bridge",
+                  "text": "Az Oszmán híd egy gyönyörű történelmi kőhíd és építészeti látványosság Gjakovában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.420793,
+                        42.370457
+                  ]
+            },
+            {
+                  "name": "Rotary",
+                  "text": "A gjakovai Rotary emlékmű a helyi közösségi szervezetnek szentelt figyelemre méltó nevezetesség.",
+                  "category": "historical",
+                  "coords": [
+                        20.430356,
+                        42.383448
+                  ]
+            },
+            {
+                  "name": "Kroni i Panaxhallës",
+                  "text": "A Kroni i Panaxhallës egy hagyományos szökőkút, amely történelmi műemlékként szolgál Gjakovában.",
+                  "category": "historical",
+                  "coords": [
+                        20.429425,
+                        42.376573
+                  ]
+            },
+            {
+                  "name": "Kompleksi Memorial i Martirëve në Mejë",
+                  "text": "Ez a gjakovai emlékkomplexum ünnepélyes emlékműként szolgál Meja vértanúinak tiszteletére.",
+                  "category": "historical",
+                  "coords": [
+                        20.395892,
+                        42.376878
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kulla e Avdullah Pashe Drenit",
+                  "text": "Kulla e Avdullah Pashë Drenit este o casă-turn tradițională din Gjakova care servește acum ca muzeu cultural.",
+                  "category": "museum",
+                  "coords": [
+                        20.427762,
+                        42.38316
+                  ]
+            },
+            {
+                  "name": "Shkugeza",
+                  "text": "Shkugeza este o rezervație naturală frumoasă, care oferă o evadare pașnică în natură în Gjakova.",
+                  "category": "natural",
+                  "coords": [
+                        20.424219,
+                        42.35794
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Asim Vokshi\"",
+                  "text": "Pallati i Kulturës \"Asim Vokshi\" este un teatru și un centru cultural proeminent din Gjakova.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430415,
+                        42.384619
+                  ]
+            },
+            {
+                  "name": "Kulla e Koshit",
+                  "text": "Turnul Koshi este o structură istorică din piatră, asemănătoare unui castel, situată în Gjakova.",
+                  "category": "castle",
+                  "coords": [
+                        20.426983,
+                        42.381658
+                  ]
+            },
+            {
+                  "name": "SHTEPIA TRADICIONALE E FAMILJES QERKEZI MUZEU HISTORIK 1999",
+                  "text": "Acest muzeu istoric din Gjakova păstrează casa tradițională a familiei Qerkezi și onorează evenimentele din 1999.",
+                  "category": "museum",
+                  "coords": [
+                        20.438999,
+                        42.372875
+                  ]
+            },
+            {
+                  "name": "Muzeu i Zejtarisë",
+                  "text": "Muzeu i Zejtarisë este un muzeu interesant din Gjakova, dedicat meșteșugurilor și meseriilor locale.",
+                  "category": "museum",
+                  "coords": [
+                        20.426917,
+                        42.378463
+                  ]
+            },
+            {
+                  "name": "Kulla e Sylejman Vokshit",
+                  "text": "Kulla e Sylejman Vokshit este un turn fortificat care reprezintă un reper istoric în Gjakova.",
+                  "category": "castle",
+                  "coords": [
+                        20.429416,
+                        42.382208
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "Muzeul Etnografic din Gjakova oferă o privire captivantă asupra culturii și stilului de viață tradițional al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.430584,
+                        42.379471
+                  ]
+            },
+            {
+                  "name": "Delfini",
+                  "text": "Delfini este un parc acvatic plin de distracție, care oferă înot de agrement și activități acvatice în Gjakova.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437042,
+                        42.360419
+                  ]
+            },
+            {
+                  "name": "Kulla e Currit",
+                  "text": "Kulla e Currit este un turn tradițional istoric conservat, care funcționează ca un monument important în Gjakova.",
+                  "category": "historical",
+                  "coords": [
+                        20.425173,
+                        42.383011
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "Sahatkulla este un monument istoric proeminent reprezentând un turn cu ceas, situat în Gjakova.",
+                  "category": "historical",
+                  "coords": [
+                        20.428083,
+                        42.380518
+                  ]
+            },
+            {
+                  "name": "Tv Syri Vision",
+                  "text": "Tv Syri Vision este o atracție locală de radiodifuziune și un centru media situat în Gjakova.",
+                  "category": "landmark",
+                  "coords": [
+                        20.430431,
+                        42.389716
+                  ]
+            },
+            {
+                  "name": "Ottoman Bridge",
+                  "text": "Podul Otoman este un frumos pod de piatră istoric și o atracție arhitecturală în Gjakova.",
+                  "category": "landmark",
+                  "coords": [
+                        20.420793,
+                        42.370457
+                  ]
+            },
+            {
+                  "name": "Rotary",
+                  "text": "Monumentul Rotary din Gjakova este un reper notabil dedicat organizației comunitare locale.",
+                  "category": "historical",
+                  "coords": [
+                        20.430356,
+                        42.383448
+                  ]
+            },
+            {
+                  "name": "Kroni i Panaxhallës",
+                  "text": "Kroni i Panaxhallës este o fântână tradițională care servește drept monument istoric în Gjakova.",
+                  "category": "historical",
+                  "coords": [
+                        20.429425,
+                        42.376573
+                  ]
+            },
+            {
+                  "name": "Kompleksi Memorial i Martirëve në Mejë",
+                  "text": "Acest complex memorial din Gjakova servește ca un monument solemn care onorează martirii din Meja.",
+                  "category": "historical",
+                  "coords": [
+                        20.395892,
+                        42.376878
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Kulla e Avdullah Pashe Drenit",
+                  "text": "Kulla e Avdullah Pashë Drenit is a traditional tower house in Gjakova that now serves as a cultural museum.",
+                  "category": "museum",
+                  "coords": [
+                        20.427762,
+                        42.38316
+                  ]
+            },
+            {
+                  "name": "Shkugeza",
+                  "text": "Shkugeza is a beautiful nature reserve offering a peaceful natural escape in Gjakova.",
+                  "category": "natural",
+                  "coords": [
+                        20.424219,
+                        42.35794
+                  ]
+            },
+            {
+                  "name": "Pallati i Kulturës \"Asim Vokshi\"",
+                  "text": "Pallati i Kulturës \"Asim Vokshi\" is a prominent theatre and cultural hub in Gjakova.",
+                  "category": "cultural",
+                  "coords": [
+                        20.430415,
+                        42.384619
+                  ]
+            },
+            {
+                  "name": "Koshi Tower",
+                  "text": "Koshi Tower is a historic castle-like stone structure located in Gjakova.",
+                  "category": "castle",
+                  "coords": [
+                        20.426983,
+                        42.381658
+                  ]
+            },
+            {
+                  "name": "SHTEPIA TRADICIONALE E FAMILJES QERKEZI MUZEU HISTORIK 1999",
+                  "text": "This historical museum in Gjakova preserves the traditional home of the Qerkezi family and honors events from 1999.",
+                  "category": "museum",
+                  "coords": [
+                        20.438999,
+                        42.372875
+                  ]
+            },
+            {
+                  "name": "Muzeu i Zejtarisë",
+                  "text": "Muzeu i Zejtarisë is an interesting museum in Gjakova dedicated to local crafts and trades.",
+                  "category": "museum",
+                  "coords": [
+                        20.426917,
+                        42.378463
+                  ]
+            },
+            {
+                  "name": "Kulla e Sylejman Vokshit",
+                  "text": "Kulla e Sylejman Vokshit is a fortified tower structure standing as a historical landmark in Gjakova.",
+                  "category": "castle",
+                  "coords": [
+                        20.429416,
+                        42.382208
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnografik",
+                  "text": "The Ethnographic Museum of Gjakova offers an insightful look into the traditional culture and lifestyle of the region.",
+                  "category": "museum",
+                  "coords": [
+                        20.430584,
+                        42.379471
+                  ]
+            },
+            {
+                  "name": "Delfini",
+                  "text": "Delfini is a fun-filled water park providing recreational swimming and water activities in Gjakova.",
+                  "category": "recreational",
+                  "coords": [
+                        20.437042,
+                        42.360419
+                  ]
+            },
+            {
+                  "name": "Kulla e Currit",
+                  "text": "Kulla e Currit is a preserved historic traditional tower functioning as an important monument in Gjakova.",
+                  "category": "historical",
+                  "coords": [
+                        20.425173,
+                        42.383011
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "Sahatkulla is a prominent historical clock tower monument situated in Gjakova.",
+                  "category": "historical",
+                  "coords": [
+                        20.428083,
+                        42.380518
+                  ]
+            },
+            {
+                  "name": "Tv Syri Vision",
+                  "text": "Tv Syri Vision is a local broadcasting attraction and media center located in Gjakova.",
+                  "category": "landmark",
+                  "coords": [
+                        20.430431,
+                        42.389716
+                  ]
+            },
+            {
+                  "name": "Ottoman Bridge",
+                  "text": "The Ottoman Bridge is a beautiful historic stone bridge and architectural attraction in Gjakova.",
+                  "category": "landmark",
+                  "coords": [
+                        20.420793,
+                        42.370457
+                  ]
+            },
+            {
+                  "name": "Rotary",
+                  "text": "The Rotary monument in Gjakova is a notable landmark dedicated to the local community organization.",
+                  "category": "historical",
+                  "coords": [
+                        20.430356,
+                        42.383448
+                  ]
+            },
+            {
+                  "name": "Kroni i Panaxhallës",
+                  "text": "Kroni i Panaxhallës is a traditional water fountain serving as a historic monument in Gjakova.",
+                  "category": "historical",
+                  "coords": [
+                        20.429425,
+                        42.376573
+                  ]
+            },
+            {
+                  "name": "Kompleksi Memorial i Martirëve në Mejë",
+                  "text": "This memorial complex in Gjakova serves as a solemn monument honoring the martyrs of Meja.",
+                  "category": "historical",
+                  "coords": [
+                        20.395892,
+                        42.376878
+                  ]
+            }
+      ]
+}, type: "city", parent: "XK-002", coords: [20.43, 42.38],
     name: { de: "Gjakova", hu: "Gjakova", ro: "Gjakova", en: "Gjakova" },
     description: { de: "Historische Stadt bekannt für ihren alten Basar.", hu: "Történelmi város, amely az öreg bazárjáról ismert.", ro: "Oraș istoric cunoscut pentru vechiul său bazar.", en: "Historic city known for its old bazaar." , es: "Ciudad histórica conocida por su antiguo bazar.", pt: "Cidade histórica conhecida pelo seu antigo bazar.", fr: "Ville historique connue pour son vieux bazar."},
     facts: {
@@ -236,7 +821,196 @@ export const kosovoPois: POI[] = [
     image: "/poi-images/xk-dragash.webp",
   },
   {
-    id: "xk-restelica", type: "city", parent: "XK-003", coords: [20.67, 41.94],
+    id: "xk-restelica", "sights": {
+      "de": [
+            {
+                  "name": "Gemitash",
+                  "text": "Ein Berggipfel in der Nähe von Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.684442,
+                        41.927869
+                  ]
+            },
+            {
+                  "name": "Ovshinec",
+                  "text": "Ein markanter Gipfel im Schar-Gebirge bei Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.68934,
+                        41.959289
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "Ein Aussichtspunkt mit Blick auf die Landschaft von Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.658709,
+                        41.933048
+                  ]
+            },
+            {
+                  "name": "Repetitor",
+                  "text": "Ein Aussichtspunkt in der bergigen Region von Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.668023,
+                        41.939871
+                  ]
+            },
+            {
+                  "name": "Vodenčki Rit",
+                  "text": "Ein lokaler Aussichtspunkt in Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.671333,
+                        41.942289
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Gemitash",
+                  "text": "Hegycsúcs Restelica közelében.",
+                  "category": "natural",
+                  "coords": [
+                        20.684442,
+                        41.927869
+                  ]
+            },
+            {
+                  "name": "Ovshinec",
+                  "text": "Jellegzetes hegycsúcs a Sár-hegységben, Restelica mellett.",
+                  "category": "natural",
+                  "coords": [
+                        20.68934,
+                        41.959289
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "Kilátóhely, ahonnan rálátni Restelica tájaira.",
+                  "category": "natural",
+                  "coords": [
+                        20.658709,
+                        41.933048
+                  ]
+            },
+            {
+                  "name": "Repetitor",
+                  "text": "Kilátóhely Restelica hegyvidéki régiójában.",
+                  "category": "natural",
+                  "coords": [
+                        20.668023,
+                        41.939871
+                  ]
+            },
+            {
+                  "name": "Vodenčki Rit",
+                  "text": "Helyi kilátóhely Restelicában.",
+                  "category": "natural",
+                  "coords": [
+                        20.671333,
+                        41.942289
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Gemitash",
+                  "text": "Un vârf montan în apropiere de Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.684442,
+                        41.927869
+                  ]
+            },
+            {
+                  "name": "Ovshinec",
+                  "text": "Un vârf proeminent în munții Șar, lângă Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.68934,
+                        41.959289
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "Un punct de belvedere cu vedere spre peisajul din Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.658709,
+                        41.933048
+                  ]
+            },
+            {
+                  "name": "Repetitor",
+                  "text": "Un punct de belvedere în regiunea montană din Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.668023,
+                        41.939871
+                  ]
+            },
+            {
+                  "name": "Vodenčki Rit",
+                  "text": "Un punct de belvedere local în Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.671333,
+                        41.942289
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gemitash",
+                  "text": "A mountain peak located near Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.684442,
+                        41.927869
+                  ]
+            },
+            {
+                  "name": "Ovshinec",
+                  "text": "A prominent peak in the Shar Mountains near Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.68934,
+                        41.959289
+                  ]
+            },
+            {
+                  "name": "Megdan",
+                  "text": "A viewpoint overlooking the landscape of Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.658709,
+                        41.933048
+                  ]
+            },
+            {
+                  "name": "Repetitor",
+                  "text": "A viewpoint in the mountainous region of Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.668023,
+                        41.939871
+                  ]
+            },
+            {
+                  "name": "Vodenčki Rit",
+                  "text": "A local viewpoint in Restelica.",
+                  "category": "natural",
+                  "coords": [
+                        20.671333,
+                        41.942289
+                  ]
+            }
+      ]
+}, type: "city", parent: "XK-003", coords: [20.67, 41.94],
     name: { de: "Restelica", hu: "Restelica", ro: "Restelica", en: "Restelica" },
     description: { de: "Eines der höchstgelegenen Dörfer im Kosovo.", hu: "Koszovó egyik legmagasabban fekvő faluja.", ro: "Unul dintre cele mai înalte sate din Kosovo.", en: "One of the highest villages in Kosovo." , es: "Uno de los pueblos más altos de Kosovo.", pt: "Uma das aldeias mais altas do Kosovo.", fr: "L'un des villages les plus élevés du Kosovo."},
     facts: {
@@ -268,7 +1042,592 @@ export const kosovoPois: POI[] = [
     }, image: "/poi-images/xk-restelica.webp"},
   // XK-004: Prizren
   {
-    id: "xk-prizren", type: "city", parent: "XK-004", coords: [20.7397, 42.2138],
+    id: "xk-prizren", "sights": {
+      "de": [
+            {
+                  "name": "Festung von Prizren",
+                  "text": "Die Festung von Prizren ist eine alte historische Burg, die einen Panoramablick über die Stadt bietet.",
+                  "category": "castle",
+                  "coords": [
+                        20.74556,
+                        42.209495
+                  ]
+            },
+            {
+                  "name": "Kompleksi i Lidhjes së Prizrenit",
+                  "text": "Der Prizren League Complex ist ein Museum zum Gedenken an die bedeutende albanische nationalistische Organisation, die 1878 gegründet wurde.",
+                  "category": "museum",
+                  "coords": [
+                        20.743765,
+                        42.21148
+                  ]
+            },
+            {
+                  "name": "Katedralja Katolike e Zojës Ndihmëtare",
+                  "text": "Die Kathedrale Unserer Lieben Frau von der Immerwährenden Hilfe ist eine katholische Kathedrale im Herzen von Prizren.",
+                  "category": "religious",
+                  "coords": [
+                        20.738407,
+                        42.207765
+                  ]
+            },
+            {
+                  "name": "Kalaja e Qikes",
+                  "text": "Die Mädchenfestung ist eine faszinierende historische Burgstruktur in Prizren.",
+                  "category": "castle",
+                  "coords": [
+                        20.761892,
+                        42.199571
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Das Archäologische Museum in Prizren zeigt antike Artefakte und die reiche historische Vergangenheit der Region.",
+                  "category": "museum",
+                  "coords": [
+                        20.736665,
+                        42.211269
+                  ]
+            },
+            {
+                  "name": "Muzeu i Elektroekonomisë (Hidroelektrana)",
+                  "text": "Dieses Museum in Prizren ist in einem alten Wasserkraftwerk untergebracht und beleuchtet die Geschichte der lokalen Energieerzeugung.",
+                  "category": "museum",
+                  "coords": [
+                        20.761924,
+                        42.201667
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnologjik i Prizrenit",
+                  "text": "Das Ethnologische Museum von Prizren bietet einen tiefen Einblick in die traditionellen Bräuche, Kleidung und Lebensweise der Region.",
+                  "category": "museum",
+                  "coords": [
+                        20.739269,
+                        42.211532
+                  ]
+            },
+            {
+                  "name": "St. Nedelja Kirche",
+                  "text": "Die Kirche der Heiligen Nedelja ist eine historische serbisch-orthodoxe Kirche und Attraktion in Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743441,
+                        42.209494
+                  ]
+            },
+            {
+                  "name": "Erzengelkloster",
+                  "text": "Das Kloster der Heiligen Erzengel ist eine bedeutende religiöse Attraktion in der Schlucht bei Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763514,
+                        42.200579
+                  ]
+            },
+            {
+                  "name": "Trungu i Rrapit",
+                  "text": "Trungu i Rrapit ist eine Sehenswürdigkeit in der Stadt Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.745553,
+                        42.212035
+                  ]
+            },
+            {
+                  "name": "Steinbrücke",
+                  "text": "Ura e Gurit ist eine Sehenswürdigkeit in Prizren, bekannt als die Alte Steinbrücke über den Fluss Bistrica.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740615,
+                        42.209568
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Shpëtimtarit",
+                  "text": "Die Church of the Holy Saviour ist eine historische Kirche und Sehenswürdigkeit in Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743301,
+                        42.208123
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Gjergjit",
+                  "text": "Die orthodoxe St.-Georgs-Kathedrale ist eine religiöse Sehenswürdigkeit in der Stadt Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740113,
+                        42.208359
+                  ]
+            },
+            {
+                  "name": "Xhamia e Arastes",
+                  "text": "Die Arasta mosque ist ein Denkmal in Prizren.",
+                  "category": "historical",
+                  "coords": [
+                        20.741949,
+                        42.210356
+                  ]
+            },
+            {
+                  "name": "Parku i Komandant Drinit",
+                  "text": "Parku i Komandant Drinit ist ein Denkmal in der Stadt Prizren.",
+                  "category": "historical",
+                  "coords": [
+                        20.741229,
+                        42.214544
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakhanës",
+                  "text": "Xhamia e Tabakhanës, auch mit der Ahmed-Bey-Moschee verbunden, ist eine Kultstätte in Prizren.",
+                  "category": "religious",
+                  "coords": [
+                        20.732654,
+                        42.21031
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Kalaja e Prizrenit",
+                  "text": "Prizren erődje egy ősi történelmi vár, amely panorámás kilátást nyújt a városra.",
+                  "category": "castle",
+                  "coords": [
+                        20.74556,
+                        42.209495
+                  ]
+            },
+            {
+                  "name": "Kompleksi i Lidhjes së Prizrenit",
+                  "text": "A Prizren Liga Komplexum az 1878-ban alapított jelentős albán nacionalista szervezetnek emléket állító múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        20.743765,
+                        42.21148
+                  ]
+            },
+            {
+                  "name": "Katedralja Katolike e Zojës Ndihmëtare",
+                  "text": "A Mindenkor Segítő Szűzanya katedrális egy katolikus katedrális Prizren szívében.",
+                  "category": "religious",
+                  "coords": [
+                        20.738407,
+                        42.207765
+                  ]
+            },
+            {
+                  "name": "Kalaja e Qikes",
+                  "text": "A Lányok erődje egy lenyűgöző történelmi kastélyépület Prizrenben.",
+                  "category": "castle",
+                  "coords": [
+                        20.761892,
+                        42.199571
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "A prizreni Régészeti Múzeum ókori tárgyakat és a régió gazdag történelmi múltját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        20.736665,
+                        42.211269
+                  ]
+            },
+            {
+                  "name": "Muzeu i Elektroekonomisë (Hidroelektrana)",
+                  "text": "Ez a prizreni múzeum egy régi vízerőműben kapott helyet, amely a helyi energiatermelés történetét emeli ki.",
+                  "category": "museum",
+                  "coords": [
+                        20.761924,
+                        42.201667
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnologjik i Prizrenit",
+                  "text": "A Prizreni Néprajzi Múzeum mélyrepülést kínál a környék hagyományos szokásaiba, ruházatába és életmódjába.",
+                  "category": "museum",
+                  "coords": [
+                        20.739269,
+                        42.211532
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Nedeljës",
+                  "text": "A Szent Nedelja-templom egy történelmi szerb ortodox templom és látványosság Prizrenben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743441,
+                        42.209494
+                  ]
+            },
+            {
+                  "name": "Manastir Svetih Arhangela",
+                  "text": "A Szent Arkangyalok kolostor egy jelentős vallási látványosság a Prizren melletti szurdokban.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763514,
+                        42.200579
+                  ]
+            },
+            {
+                  "name": "Trungu i Rrapit",
+                  "text": "A Trungu i Rrapit egy látványosság Prizren városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.745553,
+                        42.212035
+                  ]
+            },
+            {
+                  "name": "Ura e Gurit",
+                  "text": "Az Ura e Gurit egy látványosság Prizrenben, amely Öreg kőhídként ismert a Bistrica folyó felett.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740615,
+                        42.209568
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Shpëtimtarit",
+                  "text": "A Szent Megváltó temploma egy történelmi templom és látványosság Prizrenben.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743301,
+                        42.208123
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Gjergjit",
+                  "text": "A Szent György ortodox katedrális egy vallási látványosság Prizren városában.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740113,
+                        42.208359
+                  ]
+            },
+            {
+                  "name": "Xhamia e Arastes",
+                  "text": "Az Arasta mosque egy Prizrenben található műemlék.",
+                  "category": "historical",
+                  "coords": [
+                        20.741949,
+                        42.210356
+                  ]
+            },
+            {
+                  "name": "Parku i Komandant Drinit",
+                  "text": "A Parku i Komandant Drinit egy műemlék Prizren városában.",
+                  "category": "historical",
+                  "coords": [
+                        20.741229,
+                        42.214544
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakhanës",
+                  "text": "A Xhamia e Tabakhanës, amely az Ahmed bég mecsethez is kapcsolódik, egy istentiszteleti hely Prizrenben.",
+                  "category": "religious",
+                  "coords": [
+                        20.732654,
+                        42.21031
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Kalaja e Prizrenit",
+                  "text": "Fortăreața din Prizren este un castel istoric antic care oferă vederi panoramice asupra orașului.",
+                  "category": "castle",
+                  "coords": [
+                        20.74556,
+                        42.209495
+                  ]
+            },
+            {
+                  "name": "Kompleksi i Lidhjes së Prizrenit",
+                  "text": "Complexul Ligii de la Prizren este un muzeu care comemorează importanta organizație naționalistă albaneză fondată în 1878.",
+                  "category": "museum",
+                  "coords": [
+                        20.743765,
+                        42.21148
+                  ]
+            },
+            {
+                  "name": "Katedralja Katolike e Zojës Ndihmëtare",
+                  "text": "Catedrala Maicii Domnului a Ajutorului Perpetuu este o catedrală catolică situată în inima orașului Prizren.",
+                  "category": "religious",
+                  "coords": [
+                        20.738407,
+                        42.207765
+                  ]
+            },
+            {
+                  "name": "Kalaja e Qikes",
+                  "text": "Fortăreața Fetelor este o structură de castel istorică fascinantă situată în Prizren.",
+                  "category": "castle",
+                  "coords": [
+                        20.761892,
+                        42.199571
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "Muzeul Arheologic din Prizren prezintă artefacte antice și trecutul istoric bogat al regiunii.",
+                  "category": "museum",
+                  "coords": [
+                        20.736665,
+                        42.211269
+                  ]
+            },
+            {
+                  "name": "Muzeu i Elektroekonomisë (Hidroelektrana)",
+                  "text": "Acest muzeu din Prizren este găzduit într-o veche centrală hidroelectrică, evidențiind istoria producției locale de energie.",
+                  "category": "museum",
+                  "coords": [
+                        20.761924,
+                        42.201667
+                  ]
+            },
+            {
+                  "name": "Muzeu Etnologjik i Prizrenit",
+                  "text": "Muzeul Etnologic din Prizren oferă o incursiune profundă în obiceiurile tradiționale, îmbrăcămintea și stilul de viață din zonă.",
+                  "category": "museum",
+                  "coords": [
+                        20.739269,
+                        42.211532
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Nedeljës",
+                  "text": "Biserica Sfânta Nedelja este o biserică istorică ortodoxă sârbă și o atracție în Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743441,
+                        42.209494
+                  ]
+            },
+            {
+                  "name": "Manastir Svetih Arhangela",
+                  "text": "Mănăstirea Sfinților Arhangheli este o atracție religioasă semnificativă situată în defileul din apropiere de Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763514,
+                        42.200579
+                  ]
+            },
+            {
+                  "name": "Trungu i Rrapit",
+                  "text": "Trungu i Rrapit este o atracție situată în orașul Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.745553,
+                        42.212035
+                  ]
+            },
+            {
+                  "name": "Ura e Gurit",
+                  "text": "Ura e Gurit este o atracție din Prizren, recunoscută ca Vechiul Pod de Piatră peste râul Bistrica.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740615,
+                        42.209568
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Shpëtimtarit",
+                  "text": "Biserica Sfântului Mântuitor este o biserică istorică și o atracție notabilă situată în Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743301,
+                        42.208123
+                  ]
+            },
+            {
+                  "name": "Kisha e Shën Gjergjit",
+                  "text": "Catedrala Ortodoxă Sfântul Gheorghe este o atracție religioasă situată în orașul Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740113,
+                        42.208359
+                  ]
+            },
+            {
+                  "name": "Xhamia e Arastes",
+                  "text": "Arasta mosque este un monument situat în Prizren.",
+                  "category": "historical",
+                  "coords": [
+                        20.741949,
+                        42.210356
+                  ]
+            },
+            {
+                  "name": "Parku i Komandant Drinit",
+                  "text": "Parku i Komandant Drinit este un monument aflat în orașul Prizren.",
+                  "category": "historical",
+                  "coords": [
+                        20.741229,
+                        42.214544
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakhanës",
+                  "text": "Xhamia e Tabakhanës, asociată și cu Moscheea Ahmed Bey, este un lăcaș de cult din Prizren.",
+                  "category": "religious",
+                  "coords": [
+                        20.732654,
+                        42.21031
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Fortress of Prizren",
+                  "text": "The Fortress of Prizren is an ancient historic castle offering panoramic views over the city.",
+                  "category": "castle",
+                  "coords": [
+                        20.74556,
+                        42.209495
+                  ]
+            },
+            {
+                  "name": "Prizren League Complex",
+                  "text": "The Prizren League Complex is a museum commemorating the significant Albanian nationalist organization founded in 1878.",
+                  "category": "museum",
+                  "coords": [
+                        20.743765,
+                        42.21148
+                  ]
+            },
+            {
+                  "name": "Cathedral of Our Lady of Perpetual Succour",
+                  "text": "The Cathedral of Our Lady of Perpetual Succour is a Catholic cathedral located in the heart of Prizren.",
+                  "category": "religious",
+                  "coords": [
+                        20.738407,
+                        42.207765
+                  ]
+            },
+            {
+                  "name": "Girl's fortress",
+                  "text": "The Girl's fortress is a fascinating historical castle structure situated in Prizren.",
+                  "category": "castle",
+                  "coords": [
+                        20.761892,
+                        42.199571
+                  ]
+            },
+            {
+                  "name": "Archaeological Museum",
+                  "text": "The Archaeological Museum in Prizren showcases ancient artifacts and the region's rich historical past.",
+                  "category": "museum",
+                  "coords": [
+                        20.736665,
+                        42.211269
+                  ]
+            },
+            {
+                  "name": "Muzeu i Elektroekonomisë (Hidroelektrana)",
+                  "text": "This museum in Prizren is housed in an old hydroelectric plant, highlighting the history of local energy production.",
+                  "category": "museum",
+                  "coords": [
+                        20.761924,
+                        42.201667
+                  ]
+            },
+            {
+                  "name": "Ethnological Museum of Prizren",
+                  "text": "The Ethnological Museum of Prizren offers a deep dive into the traditional customs, clothing, and lifestyle of the area.",
+                  "category": "museum",
+                  "coords": [
+                        20.739269,
+                        42.211532
+                  ]
+            },
+            {
+                  "name": "St. Nedelja Church",
+                  "text": "St. Nedelja Church is a historical Serbian Orthodox church attraction in Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743441,
+                        42.209494
+                  ]
+            },
+            {
+                  "name": "Monastery of the Holy Archangels",
+                  "text": "The Monastery of the Holy Archangels is a significant religious attraction located in the gorge near Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.763514,
+                        42.200579
+                  ]
+            },
+            {
+                  "name": "Trungu i Rrapit",
+                  "text": "Trungu i Rrapit is an attraction located in the city of Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.745553,
+                        42.212035
+                  ]
+            },
+            {
+                  "name": "Ura e Gurit",
+                  "text": "Ura e Gurit is an attraction in Prizren, known as the Old Stone Bridge crossing the Bistrica river.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740615,
+                        42.209568
+                  ]
+            },
+            {
+                  "name": "Church of the Holy Saviour",
+                  "text": "The Church of the Holy Saviour is a notable historic church and attraction located in Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.743301,
+                        42.208123
+                  ]
+            },
+            {
+                  "name": "Saint George Orthodox Cathedral",
+                  "text": "Saint George Orthodox Cathedral is a religious attraction situated in the city of Prizren.",
+                  "category": "landmark",
+                  "coords": [
+                        20.740113,
+                        42.208359
+                  ]
+            },
+            {
+                  "name": "Arasta mosque",
+                  "text": "The Arasta mosque is a monument situated in Prizren.",
+                  "category": "historical",
+                  "coords": [
+                        20.741949,
+                        42.210356
+                  ]
+            },
+            {
+                  "name": "Parku i Komandant Drinit",
+                  "text": "Parku i Komandant Drinit is a monument located in the city of Prizren.",
+                  "category": "historical",
+                  "coords": [
+                        20.741229,
+                        42.214544
+                  ]
+            },
+            {
+                  "name": "Xhamia e Tabakhanës",
+                  "text": "Xhamia e Tabakhanës, also associated with the Ahmed Bey Mosque, is a place of worship in Prizren.",
+                  "category": "religious",
+                  "coords": [
+                        20.732654,
+                        42.21031
+                  ]
+            }
+      ]
+}, type: "city", parent: "XK-004", coords: [20.7397, 42.2138],
     name: { de: "Prizren", hu: "Prizren", ro: "Prizren", en: "Prizren" },
     description: { de: "Kulturelle Hauptstadt des Kosovo.", hu: "Koszovó kulturális fővárosa.", ro: "Capitala culturală a Kosovo.", en: "Cultural capital of Kosovo." , es: "Capital cultural de Kosovo.", pt: "Capital cultural do Kosovo.", fr: "Capitale culturelle du Kosovo."},
     facts: {
@@ -333,7 +1692,304 @@ export const kosovoPois: POI[] = [
     }, image: "/poi-images/xk-kalaja-prizren.webp"},
   // XK-005: Gnjilane
   {
-    id: "xk-gjilan", type: "city", parent: "XK-005", coords: [21.46, 42.46],
+    id: "xk-gjilan", "sights": {
+      "de": [
+            {
+                  "name": "Teatri i Qytetit të Gjilanit",
+                  "text": "Ein Ort für darstellende Künste und lokale Theateraufführungen in Gjilan.",
+                  "category": "cultural",
+                  "coords": [
+                        21.469338,
+                        42.462591
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Ein Denkmal in Gjilan, das dem Gedenken an die Kriegsopfer gewidmet ist.",
+                  "category": "historical",
+                  "coords": [
+                        21.491384,
+                        42.458678
+                  ]
+            },
+            {
+                  "name": "28 Nëntori '68",
+                  "text": "Ein Gedenkmonument in Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.465322,
+                        42.468907
+                  ]
+            },
+            {
+                  "name": "Bilardo Te Smalovit",
+                  "text": "Ein lokaler Point of Interest in Gjilan.",
+                  "category": "landmark",
+                  "coords": [
+                        21.478725,
+                        42.440215
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "Ein historischen Uhrturm in Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.466137,
+                        42.460152
+                  ]
+            },
+            {
+                  "name": "Permendorja e Avdullah Tahirit",
+                  "text": "Ein Denkmal für Avdullah Tahiri in Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.474463,
+                        42.465952
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Eine Gedenkstätte in Gjilan zu Ehren gefallener Soldaten.",
+                  "category": "historical",
+                  "coords": [
+                        21.45802,
+                        42.457768
+                  ]
+            },
+            {
+                  "name": "Xhamia Medresesë '' Atik Xhamia''",
+                  "text": "Auch als Atik-Moschee bekannt, ist sie eines der ältesten religiösen Gebäude in Gjilan.",
+                  "category": "religious",
+                  "coords": [
+                        21.467761,
+                        42.467784
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Teatri i Qytetit të Gjilanit",
+                  "text": "Előadóművészeti központ és helyi színházi produkciók helyszíne Gjilanban.",
+                  "category": "cultural",
+                  "coords": [
+                        21.469338,
+                        42.462591
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "A háború áldozatainak emlékére állított emlékmű Gjilanban.",
+                  "category": "historical",
+                  "coords": [
+                        21.491384,
+                        42.458678
+                  ]
+            },
+            {
+                  "name": "28 Nëntori '68",
+                  "text": "Megemlékező emlékmű Gjilanban.",
+                  "category": "historical",
+                  "coords": [
+                        21.465322,
+                        42.468907
+                  ]
+            },
+            {
+                  "name": "Bilardo Te Smalovit",
+                  "text": "Helyi érdekeltségű hely Gjilanban.",
+                  "category": "landmark",
+                  "coords": [
+                        21.478725,
+                        42.440215
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "Történelmi óratorony Gjilanban.",
+                  "category": "historical",
+                  "coords": [
+                        21.466137,
+                        42.460152
+                  ]
+            },
+            {
+                  "name": "Permendorja e Avdullah Tahirit",
+                  "text": "Avdullah Tahiri emlékére állított emlékmű Gjilanban.",
+                  "category": "historical",
+                  "coords": [
+                        21.474463,
+                        42.465952
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Emlékhely Gjilanban, amely az elesett katonák előtt tiszteleg.",
+                  "category": "historical",
+                  "coords": [
+                        21.45802,
+                        42.457768
+                  ]
+            },
+            {
+                  "name": "Xhamia Medresesë '' Atik Xhamia''",
+                  "text": "Az Atik-mecsetként is ismert épület Gjilan egyik legrégebbi vallási létesítménye.",
+                  "category": "religious",
+                  "coords": [
+                        21.467761,
+                        42.467784
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Teatri i Qytetit të Gjilanit",
+                  "text": "O locație pentru artele spectacolului și producții teatrale locale din Gjilan.",
+                  "category": "cultural",
+                  "coords": [
+                        21.469338,
+                        42.462591
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "Un monument din Gjilan dedicat amintirii victimelor războiului.",
+                  "category": "historical",
+                  "coords": [
+                        21.491384,
+                        42.458678
+                  ]
+            },
+            {
+                  "name": "28 Nëntori '68",
+                  "text": "Un monument comemorativ în Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.465322,
+                        42.468907
+                  ]
+            },
+            {
+                  "name": "Bilardo Te Smalovit",
+                  "text": "Un punct de interes local din Gjilan.",
+                  "category": "landmark",
+                  "coords": [
+                        21.478725,
+                        42.440215
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "Un turn cu ceas istoric situat în Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.466137,
+                        42.460152
+                  ]
+            },
+            {
+                  "name": "Permendorja e Avdullah Tahirit",
+                  "text": "Un monument dedicat lui Avdullah Tahiri în Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.474463,
+                        42.465952
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "Un sit memorial din Gjilan care onorează soldații căzuți.",
+                  "category": "historical",
+                  "coords": [
+                        21.45802,
+                        42.457768
+                  ]
+            },
+            {
+                  "name": "Xhamia Medresesë '' Atik Xhamia''",
+                  "text": "Cunoscută și sub numele de Moscheea Atik, este una dintre cele mai vechi clădiri religioase din Gjilan.",
+                  "category": "religious",
+                  "coords": [
+                        21.467761,
+                        42.467784
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Gjilan City Theatre",
+                  "text": "A venue for performing arts and local theatrical productions in Gjilan.",
+                  "category": "cultural",
+                  "coords": [
+                        21.469338,
+                        42.462591
+                  ]
+            },
+            {
+                  "name": "War memorial",
+                  "text": "A monument in Gjilan dedicated to remembering the casualties of war.",
+                  "category": "historical",
+                  "coords": [
+                        21.491384,
+                        42.458678
+                  ]
+            },
+            {
+                  "name": "28 Nëntori '68",
+                  "text": "A commemorative monument in Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.465322,
+                        42.468907
+                  ]
+            },
+            {
+                  "name": "Bilardo Te Smalovit",
+                  "text": "A local point of interest in Gjilan.",
+                  "category": "landmark",
+                  "coords": [
+                        21.478725,
+                        42.440215
+                  ]
+            },
+            {
+                  "name": "Sahatkulla",
+                  "text": "A historic clock tower located in Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.466137,
+                        42.460152
+                  ]
+            },
+            {
+                  "name": "Permendorja e Avdullah Tahirit",
+                  "text": "A monument dedicated to Avdullah Tahiri in Gjilan.",
+                  "category": "historical",
+                  "coords": [
+                        21.474463,
+                        42.465952
+                  ]
+            },
+            {
+                  "name": "Varrezat e Dëshmorëve",
+                  "text": "A memorial site in Gjilan honoring fallen soldiers.",
+                  "category": "historical",
+                  "coords": [
+                        21.45802,
+                        42.457768
+                  ]
+            },
+            {
+                  "name": "Mosque of Madrasah",
+                  "text": "Also known as the Atik Mosque, it is one of the oldest religious buildings in Gjilan.",
+                  "category": "religious",
+                  "coords": [
+                        21.467761,
+                        42.467784
+                  ]
+            }
+      ]
+}, type: "city", parent: "XK-005", coords: [21.46, 42.46],
     name: { de: "Gjilan", hu: "Gjilan", ro: "Gjilan", en: "Gjilan" },
     description: { de: "Wirtschaftszentrum im Osten des Kosovo.", hu: "Gazdasági központ Kelet-Koszovóban.", ro: "Centru economic în estul Kosovo.", en: "Economic center in eastern Kosovo." , es: "Centro económico en el este de Kosovo.", pt: "Centro económico no leste do Kosovo.", fr: "Centre économique de l'est du Kosovo."},
     facts: {

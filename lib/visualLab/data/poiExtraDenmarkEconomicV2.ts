@@ -228,7 +228,1996 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-port-hirtshals-economic-v2.webp",
   },
   {
-    id: "denmark-carlsberg-byen-economic-v2",
+    id: "denmark-carlsberg-byen-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Møstings Hus",
+                  "text": "Ein kleiner Ausstellungsraum für zeitgenössische Kunst in einem ehemaligen Landhaus.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Storm P. Museet",
+                  "text": "Ein Museum, das dem Leben und Werk des dänischen Künstlers Robert Storm Petersen gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        12.53197,
+                        55.674424
+                  ]
+            },
+            {
+                  "name": "Alhambra - Museet for humor og satire",
+                  "text": "Ein Museum, das sich auf die Geschichte des dänischen Humors und der satirischen Kunst konzentriert.",
+                  "category": "museum",
+                  "coords": [
+                        12.531562,
+                        55.675452
+                  ]
+            },
+            {
+                  "name": "Københavns Museum",
+                  "text": "Das offizielle Museum zur Geschichte und Entwicklung von Kopenhagen.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "Bakkehusmuseet",
+                  "text": "Ein historisches Hausmuseum zur dänischen Literatur und Kultur des Goldenen Zeitalters.",
+                  "category": "museum",
+                  "coords": [
+                        12.531958,
+                        55.668297
+                  ]
+            },
+            {
+                  "name": "Cisternerne",
+                  "text": "Ein unterirdischer Ausstellungsraum in ehemaligen Wasserreservoirs.",
+                  "category": "museum",
+                  "coords": [
+                        12.52419,
+                        55.669575
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "Ein Technikmuseum, in dessen Zentrum ein gewaltiger historischer Dieselmotor steht.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "Die Ruinen eines mittelalterlichen Turms, der Teil der ehemaligen Kopenhagener Stadtbefestigung war.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "Ein Obelisk, der an die Aufhebung der Leibeigenschaft in Dänemark erinnert.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "Ein Veranstaltungsort für Comedy, Konzerte und verschiedene kulturelle Events in Kopenhagen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Blaagaard Teater",
+                  "text": "Ein lokales Theater, das für seine zeitgenössischen und experimentellen Aufführungen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        12.558683,
+                        55.688499
+                  ]
+            },
+            {
+                  "name": "Tivolis Koncertsal",
+                  "text": "Ein bedeutender Veranstaltungsort im Tivoli-Garten.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568705,
+                        55.672622
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "Ein historisches Rundgebäude, das für Zirkusvorstellungen und Dinnershows genutzt wird.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Glassalen",
+                  "text": "Ein eleganter Konzertsaal mit Glaswänden im Tivoli.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568538,
+                        55.673893
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "Ein Freilufttheater im Tivoli, bekannt für traditionelle Pantomime und Ballett.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
+                  ]
+            },
+            {
+                  "name": "Husets Teater",
+                  "text": "Ein intimes Theater mit Schwerpunkt auf modernen dramatischen Werken.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561428,
+                        55.670178
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "Eines der größten und schönsten Theater Dänemarks, in dem große Musicals aufgeführt werden.",
+                  "category": "cultural",
+                  "coords": [
+                        12.555334,
+                        55.673124
+                  ]
+            },
+            {
+                  "name": "Betty Nansen Teatret",
+                  "text": "Ein historisches Theater an der Frederiksberg Allé, benannt nach einer berühmten dänischen Schauspielerin.",
+                  "category": "cultural",
+                  "coords": [
+                        12.536943,
+                        55.673963
+                  ]
+            },
+            {
+                  "name": "Aveny-T",
+                  "text": "Ein zeitgenössisches Theater mit Fokus auf junges Publikum und neues Drama.",
+                  "category": "cultural",
+                  "coords": [
+                        12.533198,
+                        55.675005
+                  ]
+            },
+            {
+                  "name": "Liebfrauenkirche",
+                  "text": "Der Kopenhagener Dom, bekannt für Bertel Thorvaldsens Statuen von Christus und den Aposteln.",
+                  "category": "religious",
+                  "coords": [
+                        12.572731,
+                        55.679376
+                  ]
+            },
+            {
+                  "name": "Jesuskirken",
+                  "text": "Eine einzigartige Kirche in Valby, bekannt für ihre markante Architektur und Kunstsammlung.",
+                  "category": "religious",
+                  "coords": [
+                        12.522165,
+                        55.665281
+                  ]
+            },
+            {
+                  "name": "Sankt-Markus-Kirche",
+                  "text": "Eine evangelische Kirche für den Kopenhagener Stadtteil Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.552667,
+                        55.679916
+                  ]
+            },
+            {
+                  "name": "Margrethekirken",
+                  "text": "Eine moderne Kirche im Kopenhagener Stadtteil Valby.",
+                  "category": "religious",
+                  "coords": [
+                        12.503368,
+                        55.649823
+                  ]
+            },
+            {
+                  "name": "Johannes Døbers Kirke",
+                  "text": "Eine Kirche in Valby, die Johannes dem Täufer gewidmet ist.",
+                  "category": "religious",
+                  "coords": [
+                        12.519321,
+                        55.66003
+                  ]
+            },
+            {
+                  "name": "Katolsk Apostolisk Kirke",
+                  "text": "Ein Kirchengebäude der Katholisch-Apostolischen Gemeinde in Kopenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.56098,
+                        55.681285
+                  ]
+            },
+            {
+                  "name": "Aalholm Kirke",
+                  "text": "Eine Kirche im Stadtviertel Aalholm in Valby.",
+                  "category": "religious",
+                  "coords": [
+                        12.490389,
+                        55.672083
+                  ]
+            },
+            {
+                  "name": "Timotheus Kirke",
+                  "text": "Eine örtliche Kirche für die Timotheus-Gemeinde in Valby.",
+                  "category": "religious",
+                  "coords": [
+                        12.504253,
+                        55.666195
+                  ]
+            },
+            {
+                  "name": "Sankt Thomas Kirke",
+                  "text": "Eine Kirche an der Frederiksberg Allé.",
+                  "category": "religious",
+                  "coords": [
+                        12.541756,
+                        55.684311
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "Eine moderne Kirche für den Stadtteil Flintholm.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Hellig Kors Kirke",
+                  "text": "Eine neugotische Kirche im Stadtteil Nørrebro.",
+                  "category": "religious",
+                  "coords": [
+                        12.551567,
+                        55.687635
+                  ]
+            },
+            {
+                  "name": "Brorsons Kirke",
+                  "text": "Eine Kirche in Nørrebro, bekannt für ihr soziales Engagement und Musikveranstaltungen.",
+                  "category": "religious",
+                  "coords": [
+                        12.546108,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Mariakirken",
+                  "text": "Eine Kirche im Stadtteil Vesterbro.",
+                  "category": "religious",
+                  "coords": [
+                        12.56022,
+                        55.671644
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "Eine Kirche für den Ortsteil Mariendal in Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "De Døves Kirke",
+                  "text": "Eine spezialisierte Kirche für die Gehörlosengemeinschaft in Kopenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.542582,
+                        55.68681
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "Eine Kirche im Zentrum von Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "Eine Kirche im Frederiksberger Stadtteil Lindevang.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "Eine Kirche im Kopenhagener Stadtteil Islands Brygge.",
+                  "category": "religious",
+                  "coords": [
+                        12.576856,
+                        55.664659
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Eine Kirche für die Gemeinde Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.55116,
+                        55.676671
+                  ]
+            },
+            {
+                  "name": "Bethlehemskirken",
+                  "text": "Eine Kirche im Kopenhagener Stadtteil Nørrebro.",
+                  "category": "religious",
+                  "coords": [
+                        12.556855,
+                        55.683105
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "Eine große Pfarrkirche im Stadtteil Vesterbro.",
+                  "category": "religious",
+                  "coords": [
+                        12.545093,
+                        55.66772
+                  ]
+            },
+            {
+                  "name": "Enghave Kirke",
+                  "text": "Eine Kirche für das Enghave-Viertel in Vesterbro.",
+                  "category": "religious",
+                  "coords": [
+                        12.540484,
+                        55.663914
+                  ]
+            },
+            {
+                  "name": "Martinskirken",
+                  "text": "Eine örtliche Kirche im Raum Kopenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.555624,
+                        55.67987
+                  ]
+            },
+            {
+                  "name": "Evangeliekirken",
+                  "text": "Eine Pfingstkirche im Stadtteil Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.5535,
+                        55.684168
+                  ]
+            },
+            {
+                  "name": "Apostelkirken",
+                  "text": "Die Apostelkirken ist eine bedeutende Kirche im Kopenhagener Stadtteil Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.551133,
+                        55.671691
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "Die Godthaabskirken ist ein markantes religiöses Gebäude in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Die Sankt Lukas Kirke ist eine bekannte Kirche im Bereich von Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Frederiksholm Kirke",
+                  "text": "Die Frederiksholm Kirke dient als lokaler Ort der Verehrung in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.534146,
+                        55.650734
+                  ]
+            },
+            {
+                  "name": "Sankt Matthæus Kirke",
+                  "text": "Die Sankt Matthæus Kirke ist die älteste und größte Kirche im Viertel Vesterbro bei Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.548087,
+                        55.669476
+                  ]
+            },
+            {
+                  "name": "Vigerslev Kirke",
+                  "text": "Die Vigerslev Kirke ist eine evangelisch-lutherische Kirche in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.489351,
+                        55.658768
+                  ]
+            },
+            {
+                  "name": "Eliaskirken",
+                  "text": "Die Eliaskirken ist ein markantes Kirchengebäude am Vesterbros Torv in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.555391,
+                        55.671838
+                  ]
+            },
+            {
+                  "name": "uKirke",
+                  "text": "Die uKirke, auch bekannt als Gethsemane-Kirche, ist ein moderner Jugendkulturraum in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.553545,
+                        55.66769
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "Die Emmauskirken ist ein religiöser Treffpunkt in der Gemeinde Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
+                  ]
+            },
+            {
+                  "name": "Frederiksberg Slotskirke",
+                  "text": "Die Frederiksberg Slotskirke ist die Kapelle des Schlosses Frederiksberg in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.525652,
+                        55.671687
+                  ]
+            },
+            {
+                  "name": "Vartov Valgmenighedskirke",
+                  "text": "Die Vartov Valgmenighedskirke ist eine historische Kirche im Herzen von Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.572587,
+                        55.675548
+                  ]
+            },
+            {
+                  "name": "Alter Markt",
+                  "text": "Der Old Market (Gammeltorv) ist der älteste Platz in Kopenhagen, gelegen bei Carlsberg Byen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.572079,
+                        55.678142
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Møstings Hus",
+                  "text": "Kortárs művészeti kiállítótér egy egykori vidéki házban.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Storm P. Museet",
+                  "text": "Robert Storm Petersen dán művész életének és munkásságának szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.53197,
+                        55.674424
+                  ]
+            },
+            {
+                  "name": "Alhambra - Museet for humor og satire",
+                  "text": "A dán humor és a szatirikus művészet történetére fókuszáló múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.531562,
+                        55.675452
+                  ]
+            },
+            {
+                  "name": "Københavns Museum",
+                  "text": "Koppenhága történetét és fejlődését dokumentáló hivatalos múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "Bakkehusmuseet",
+                  "text": "Történelmi házmúzeum, amely a dán aranykor irodalmát és kultúráját mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        12.531958,
+                        55.668297
+                  ]
+            },
+            {
+                  "name": "Cisternerne",
+                  "text": "Föld alatti kiállítótér egykori víztározókban.",
+                  "category": "museum",
+                  "coords": [
+                        12.52419,
+                        55.669575
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "Hatalmas történelmi dízelmotor köré épült technikai múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "Egy középkori torony romjai, amely Koppenhága egykori erődítményrendszeréhez tartozott.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "A dániai jobbágyság eltörlésének emlékére állított obeliszk.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "Komédia-előadások, koncertek és különféle kulturális események helyszíne Koppenhágában.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Blaagaard Teater",
+                  "text": "Kortárs és kísérleti előadásairól ismert helyi színház.",
+                  "category": "cultural",
+                  "coords": [
+                        12.558683,
+                        55.688499
+                  ]
+            },
+            {
+                  "name": "Tivolis Koncertsal",
+                  "text": "A Tivoli-kertben található jelentős előadóterem.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568705,
+                        55.672622
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "Történelmi körépület, amely cirkuszi előadásoknak és vacsorashow-knak ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Glassalen",
+                  "text": "Elegáns, üvegfalú koncertterem a Tivoliban.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568538,
+                        55.673893
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "Szabadtéri színház a Tivoliban, hagyományos pantomimről és balettről ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
+                  ]
+            },
+            {
+                  "name": "Husets Teater",
+                  "text": "Intim színház, amely a modern drámai művekre összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561428,
+                        55.670178
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "Dánia egyik legnagyobb és legszebb színháza, nagyszabású musicalek otthona.",
+                  "category": "cultural",
+                  "coords": [
+                        12.555334,
+                        55.673124
+                  ]
+            },
+            {
+                  "name": "Betty Nansen Teatret",
+                  "text": "Történelmi színház a Frederiksberg Allén, egy híres dán színésznőről elnevezve.",
+                  "category": "cultural",
+                  "coords": [
+                        12.536943,
+                        55.673963
+                  ]
+            },
+            {
+                  "name": "Aveny-T",
+                  "text": "Kortárs színház, amely a fiatal közönségre és az új drámákra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        12.533198,
+                        55.675005
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Koppenhága katedrálisa, híres Bertel Thorvaldsen Krisztus- és apostolszobrairól.",
+                  "category": "religious",
+                  "coords": [
+                        12.572731,
+                        55.679376
+                  ]
+            },
+            {
+                  "name": "Jesuskirken",
+                  "text": "Egyedülálló templom Valby-ban, jellegzetes építészetéről és művészeti gyűjteményéről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        12.522165,
+                        55.665281
+                  ]
+            },
+            {
+                  "name": "Sankt Markus Kirke",
+                  "text": "Koppenhága Frederiksberg negyedét kiszolgáló plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.552667,
+                        55.679916
+                  ]
+            },
+            {
+                  "name": "Margrethekirken",
+                  "text": "Modern templom Koppenhága Valby negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.503368,
+                        55.649823
+                  ]
+            },
+            {
+                  "name": "Johannes Døbers Kirke",
+                  "text": "Keresztelő Szent Jánosnak szentelt plébániatemplom Valby-ban.",
+                  "category": "religious",
+                  "coords": [
+                        12.519321,
+                        55.66003
+                  ]
+            },
+            {
+                  "name": "Katolsk Apostolisk Kirke",
+                  "text": "A Katolikus Apostoli Egyház templomépülete Koppenhágában.",
+                  "category": "religious",
+                  "coords": [
+                        12.56098,
+                        55.681285
+                  ]
+            },
+            {
+                  "name": "Aalholm Kirke",
+                  "text": "Valby Aalholm negyedében található plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.490389,
+                        55.672083
+                  ]
+            },
+            {
+                  "name": "Timotheus Kirke",
+                  "text": "A valby-i Timóteus-egyházközséget szolgáló helyi templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.504253,
+                        55.666195
+                  ]
+            },
+            {
+                  "name": "Sankt Thomas Kirke",
+                  "text": "A Frederiksberg Allén található plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.541756,
+                        55.684311
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "Modern plébániatemplom Flintholm negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Hellig Kors Kirke",
+                  "text": "Neogótikus plébániatemplom Nørrebro negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.551567,
+                        55.687635
+                  ]
+            },
+            {
+                  "name": "Brorsons Kirke",
+                  "text": "Nørrebrói templom, amely közösségi szerepvállalásáról és zenei eseményeiről ismert.",
+                  "category": "religious",
+                  "coords": [
+                        12.546108,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Mariakirken",
+                  "text": "Vesterbro negyedében található plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.56022,
+                        55.671644
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "Frederiksberg Mariendal területét kiszolgáló plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "De Døves Kirke",
+                  "text": "A koppenhágai siketek közösségét szolgáló speciális templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.542582,
+                        55.68681
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "Frederiksberg központi részét kiszolgáló plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "Frederiksberg Lindevang negyedében található plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "Koppenhága Islands Brygge negyedében található plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.576856,
+                        55.664659
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Frederiksberg közösségét szolgáló templom.",
+                  "category": "religious",
+                  "coords": [
+                        12.55116,
+                        55.676671
+                  ]
+            },
+            {
+                  "name": "Bethlehemskirken",
+                  "text": "Koppenhága Nørrebro negyedében található plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.556855,
+                        55.683105
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "Nagy méretű plébániatemplom Vesterbro negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.545093,
+                        55.66772
+                  ]
+            },
+            {
+                  "name": "Enghave Kirke",
+                  "text": "Vesterbro Enghave negyedét kiszolgáló plébániatemplom.",
+                  "category": "religious",
+                  "coords": [
+                        12.540484,
+                        55.663914
+                  ]
+            },
+            {
+                  "name": "Martinskirken",
+                  "text": "Helyi templom Koppenhága környékén.",
+                  "category": "religious",
+                  "coords": [
+                        12.555624,
+                        55.67987
+                  ]
+            },
+            {
+                  "name": "Evangeliekirken",
+                  "text": "Pünkösdi templom Frederiksberg területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.5535,
+                        55.684168
+                  ]
+            },
+            {
+                  "name": "Apostelkirken",
+                  "text": "Az Apostelkirken egy jelentős templom Koppenhága Carlsberg Byen negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        12.551133,
+                        55.671691
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "A Godthaabskirken egy jellegzetes vallási épület Carlsberg Byen területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "A Sankt Lukas Kirke egy ismert templom Carlsberg Byen környékén.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Frederiksholm Kirke",
+                  "text": "A Frederiksholm Kirke helyi istentiszteleti helyként szolgál Carlsberg Byenben.",
+                  "category": "religious",
+                  "coords": [
+                        12.534146,
+                        55.650734
+                  ]
+            },
+            {
+                  "name": "Sankt Matthæus Kirke",
+                  "text": "A Sankt Matthæus Kirke a legrégebbi és legnagyobb templom a Carlsberg Byen melletti Vesterbro negyedben.",
+                  "category": "religious",
+                  "coords": [
+                        12.548087,
+                        55.669476
+                  ]
+            },
+            {
+                  "name": "Vigerslev Kirke",
+                  "text": "A Vigerslev Kirke egy evangélikus templom Carlsberg Byen területén.",
+                  "category": "religious",
+                  "coords": [
+                        12.489351,
+                        55.658768
+                  ]
+            },
+            {
+                  "name": "Eliaskirken",
+                  "text": "Az Eliaskirken egy jellegzetes templomépület a Vesterbros Torv téren, Carlsberg Byenben.",
+                  "category": "religious",
+                  "coords": [
+                        12.555391,
+                        55.671838
+                  ]
+            },
+            {
+                  "name": "uKirke",
+                  "text": "Az uKirke, más néven Gethsemane-templom, egy modern ifjúsági kulturális tér Carlsberg Byenben.",
+                  "category": "religious",
+                  "coords": [
+                        12.553545,
+                        55.66769
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "Az Emmauskirken egy vallási találkozóhely Carlsberg Byen közösségében.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
+                  ]
+            },
+            {
+                  "name": "Frederiksberg Slotskirke",
+                  "text": "A Frederiksberg Slotskirke a Frederiksberg-kastély kápolnája Carlsberg Byenben.",
+                  "category": "religious",
+                  "coords": [
+                        12.525652,
+                        55.671687
+                  ]
+            },
+            {
+                  "name": "Vartov Valgmenighedskirke",
+                  "text": "A Vartov Valgmenighedskirke egy történelmi templom Carlsberg Byen szívében.",
+                  "category": "religious",
+                  "coords": [
+                        12.572587,
+                        55.675548
+                  ]
+            },
+            {
+                  "name": "Gammeltorv",
+                  "text": "Az Old Market (Gammeltorv) Koppenhága legrégebbi tere, Carlsberg Byen közelében.",
+                  "category": "landmark",
+                  "coords": [
+                        12.572079,
+                        55.678142
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Møstings Hus",
+                  "text": "Un mic spațiu expozițional pentru artă contemporană într-o fostă casă de țară.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Storm P. Museet",
+                  "text": "Un muzeu dedicat vieții și operei artistului danez Robert Storm Petersen.",
+                  "category": "museum",
+                  "coords": [
+                        12.53197,
+                        55.674424
+                  ]
+            },
+            {
+                  "name": "Alhambra - Museet for humor og satire",
+                  "text": "Un muzeu axat pe istoria umorului danez și a artei satirice.",
+                  "category": "museum",
+                  "coords": [
+                        12.531562,
+                        55.675452
+                  ]
+            },
+            {
+                  "name": "Københavns Museum",
+                  "text": "Muzeul oficial care documentează istoria și dezvoltarea orașului Copenhaga.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "Bakkehusmuseet",
+                  "text": "Un muzeu într-o casă istorică ce prezintă literatura și cultura daneză din Epoca de Aur.",
+                  "category": "museum",
+                  "coords": [
+                        12.531958,
+                        55.668297
+                  ]
+            },
+            {
+                  "name": "Cisternerne",
+                  "text": "Un spațiu expozițional subteran situat în foste rezervoare de apă.",
+                  "category": "museum",
+                  "coords": [
+                        12.52419,
+                        55.669575
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "Un muzeu centrat pe un motor diesel istoric masiv.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "Ruinele unui turn medieval care făcea parte din fostele fortificații ale Copenhagăi.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "Un obelisc ce comemorează abolirea iobăgiei în Danemarca.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "O locație pentru comedie, concerte și diverse evenimente culturale în Copenhaga.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Blaagaard Teater",
+                  "text": "Un teatru local cunoscut pentru spectacolele sale contemporane și experimentale.",
+                  "category": "cultural",
+                  "coords": [
+                        12.558683,
+                        55.688499
+                  ]
+            },
+            {
+                  "name": "Tivolis Koncertsal",
+                  "text": "O sală de spectacole majoră situată în Grădinile Tivoli.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568705,
+                        55.672622
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "O clădire circulară istorică folosită pentru spectacole de circ și cine-spectacol.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Glassalen",
+                  "text": "O sală de concerte elegantă cu pereți de sticlă situată în Tivoli.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568538,
+                        55.673893
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "Un teatru în aer liber în Tivoli, cunoscut pentru pantomimă tradițională și balet.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
+                  ]
+            },
+            {
+                  "name": "Husets Teater",
+                  "text": "Un teatru intim axat pe lucrări dramatice moderne.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561428,
+                        55.670178
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "Unul dintre cele mai mari și mai frumoase teatre din Danemarca, găzduind musicaluri majore.",
+                  "category": "cultural",
+                  "coords": [
+                        12.555334,
+                        55.673124
+                  ]
+            },
+            {
+                  "name": "Betty Nansen Teatret",
+                  "text": "Un teatru istoric pe Frederiksberg Allé, numit după o celebră actriță daneză.",
+                  "category": "cultural",
+                  "coords": [
+                        12.536943,
+                        55.673963
+                  ]
+            },
+            {
+                  "name": "Aveny-T",
+                  "text": "O locație de teatru contemporan, cu accent pe publicul tânăr și dramaturgia nouă.",
+                  "category": "cultural",
+                  "coords": [
+                        12.533198,
+                        55.675005
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Catedrala din Copenhaga, celebră pentru statuile lui Bertel Thorvaldsen reprezentându-i pe Hristos și pe apostoli.",
+                  "category": "religious",
+                  "coords": [
+                        12.572731,
+                        55.679376
+                  ]
+            },
+            {
+                  "name": "Jesuskirken",
+                  "text": "O biserică unică în Valby, cunoscută pentru arhitectura sa distinctivă și colecția de artă.",
+                  "category": "religious",
+                  "coords": [
+                        12.522165,
+                        55.665281
+                  ]
+            },
+            {
+                  "name": "Sankt Markus Kirke",
+                  "text": "O biserică parohială care deservește zona Frederiksberg din Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.552667,
+                        55.679916
+                  ]
+            },
+            {
+                  "name": "Margrethekirken",
+                  "text": "O biserică modernă în districtul Valby din Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.503368,
+                        55.649823
+                  ]
+            },
+            {
+                  "name": "Johannes Døbers Kirke",
+                  "text": "O biserică parohială din Valby dedicată Sfântului Ioan Botezătorul.",
+                  "category": "religious",
+                  "coords": [
+                        12.519321,
+                        55.66003
+                  ]
+            },
+            {
+                  "name": "Katolsk Apostolisk Kirke",
+                  "text": "O clădire bisericească a Bisericii Catolice Apostolice din Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.56098,
+                        55.681285
+                  ]
+            },
+            {
+                  "name": "Aalholm Kirke",
+                  "text": "O biserică parohială situată în cartierul Aalholm din Valby.",
+                  "category": "religious",
+                  "coords": [
+                        12.490389,
+                        55.672083
+                  ]
+            },
+            {
+                  "name": "Timotheus Kirke",
+                  "text": "O biserică locală care deservește parohia Timotheus din Valby.",
+                  "category": "religious",
+                  "coords": [
+                        12.504253,
+                        55.666195
+                  ]
+            },
+            {
+                  "name": "Sankt Thomas Kirke",
+                  "text": "O biserică parohială situată pe Frederiksberg Allé.",
+                  "category": "religious",
+                  "coords": [
+                        12.541756,
+                        55.684311
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "O biserică parohială modernă care deservește districtul Flintholm.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Hellig Kors Kirke",
+                  "text": "O biserică parohială neogotică situată în districtul Nørrebro.",
+                  "category": "religious",
+                  "coords": [
+                        12.551567,
+                        55.687635
+                  ]
+            },
+            {
+                  "name": "Brorsons Kirke",
+                  "text": "O biserică din Nørrebro cunoscută pentru implicarea comunității și evenimentele muzicale.",
+                  "category": "religious",
+                  "coords": [
+                        12.546108,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Mariakirken",
+                  "text": "O biserică parohială situată în cartierul Vesterbro.",
+                  "category": "religious",
+                  "coords": [
+                        12.56022,
+                        55.671644
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "O biserică parohială care deservește zona Mariendal din Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "De Døves Kirke",
+                  "text": "O biserică specializată care deservește comunitatea persoanelor surde din Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.542582,
+                        55.68681
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "O biserică parohială care deservește partea centrală a Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "O biserică parohială situată în districtul Lindevang din Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "O biserică parohială din cartierul Islands Brygge din Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.576856,
+                        55.664659
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "O biserică ce deservește comunitatea Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.55116,
+                        55.676671
+                  ]
+            },
+            {
+                  "name": "Bethlehemskirken",
+                  "text": "O biserică parohială situată în districtul Nørrebro din Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.556855,
+                        55.683105
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "O biserică parohială mare situată în districtul Vesterbro.",
+                  "category": "religious",
+                  "coords": [
+                        12.545093,
+                        55.66772
+                  ]
+            },
+            {
+                  "name": "Enghave Kirke",
+                  "text": "O biserică parohială care deservește cartierul Enghave din Vesterbro.",
+                  "category": "religious",
+                  "coords": [
+                        12.540484,
+                        55.663914
+                  ]
+            },
+            {
+                  "name": "Martinskirken",
+                  "text": "Un lăcaș de cult local în zona Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.555624,
+                        55.67987
+                  ]
+            },
+            {
+                  "name": "Evangeliekirken",
+                  "text": "O biserică penticostală situată în zona Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.5535,
+                        55.684168
+                  ]
+            },
+            {
+                  "name": "Apostelkirken",
+                  "text": "Apostelkirken este o biserică importantă din cartierul Carlsberg Byen din Copenhaga.",
+                  "category": "religious",
+                  "coords": [
+                        12.551133,
+                        55.671691
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "Godthaabskirken este un edificiu religios distinctiv din Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Sankt Lukas Kirke este o biserică cunoscută din zona Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Frederiksholm Kirke",
+                  "text": "Frederiksholm Kirke servește ca loc de cult local în Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.534146,
+                        55.650734
+                  ]
+            },
+            {
+                  "name": "Sankt Matthæus Kirke",
+                  "text": "Sankt Matthæus Kirke este cea mai veche și mai mare biserică din cartierul Vesterbro, lângă Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.548087,
+                        55.669476
+                  ]
+            },
+            {
+                  "name": "Vigerslev Kirke",
+                  "text": "Vigerslev Kirke este o biserică evanghelică-luterană din Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.489351,
+                        55.658768
+                  ]
+            },
+            {
+                  "name": "Eliaskirken",
+                  "text": "Eliaskirken este o clădire bisericească distinctivă situată în Vesterbros Torv din Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.555391,
+                        55.671838
+                  ]
+            },
+            {
+                  "name": "uKirke",
+                  "text": "uKirke, cunoscută și sub numele de Biserica Ghetsemani, este un spațiu cultural modern pentru tineret din Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.553545,
+                        55.66769
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "Emmauskirken este un loc de întâlnire religios din comunitatea Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
+                  ]
+            },
+            {
+                  "name": "Frederiksberg Slotskirke",
+                  "text": "Frederiksberg Slotskirke este capela Castelului Frederiksberg din Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.525652,
+                        55.671687
+                  ]
+            },
+            {
+                  "name": "Vartov Valgmenighedskirke",
+                  "text": "Vartov Valgmenighedskirke este o biserică istorică din inima orașului Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.572587,
+                        55.675548
+                  ]
+            },
+            {
+                  "name": "Gammeltorv",
+                  "text": "Piața Veche (Gammeltorv) este cea mai veche piață din Copenhaga, situată lângă Carlsberg Byen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.572079,
+                        55.678142
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Møstings Hus",
+                  "text": "A small exhibition space for contemporary art in a former country house.",
+                  "category": "museum",
+                  "coords": [
+                        12.52776,
+                        55.678374
+                  ]
+            },
+            {
+                  "name": "Storm P. Museet",
+                  "text": "A museum dedicated to the life and work of the Danish artist Robert Storm Petersen.",
+                  "category": "museum",
+                  "coords": [
+                        12.53197,
+                        55.674424
+                  ]
+            },
+            {
+                  "name": "Alhambra - Museet for humor og satire",
+                  "text": "A museum focused on the history of Danish humor and satirical art.",
+                  "category": "museum",
+                  "coords": [
+                        12.531562,
+                        55.675452
+                  ]
+            },
+            {
+                  "name": "Museum of Copenhagen",
+                  "text": "The official museum documenting the history and development of Copenhagen.",
+                  "category": "museum",
+                  "coords": [
+                        12.572485,
+                        55.674382
+                  ]
+            },
+            {
+                  "name": "Bakkehusmuseet",
+                  "text": "A historic house museum showcasing Danish literature and culture from the Golden Age.",
+                  "category": "museum",
+                  "coords": [
+                        12.531958,
+                        55.668297
+                  ]
+            },
+            {
+                  "name": "Cisternerne",
+                  "text": "An underground exhibition space located in former water reservoirs.",
+                  "category": "museum",
+                  "coords": [
+                        12.52419,
+                        55.669575
+                  ]
+            },
+            {
+                  "name": "DieselHouse",
+                  "text": "A museum centered around a massive historic diesel engine.",
+                  "category": "museum",
+                  "coords": [
+                        12.555132,
+                        55.656595
+                  ]
+            },
+            {
+                  "name": "Jarmers Tårn",
+                  "text": "The ruins of a medieval tower that was part of Copenhagen's former fortifications.",
+                  "category": "historical",
+                  "coords": [
+                        12.56568,
+                        55.678815
+                  ]
+            },
+            {
+                  "name": "Frihedsstøtten",
+                  "text": "An obelisk commemorating the abolition of serfdom in Denmark.",
+                  "category": "historical",
+                  "coords": [
+                        12.563294,
+                        55.674203
+                  ]
+            },
+            {
+                  "name": "Bremen Teater",
+                  "text": "A venue for comedy, concerts, and various cultural events in Copenhagen.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561025,
+                        55.676546
+                  ]
+            },
+            {
+                  "name": "Blaagaard Teater",
+                  "text": "A local theater known for its contemporary and experimental performances.",
+                  "category": "cultural",
+                  "coords": [
+                        12.558683,
+                        55.688499
+                  ]
+            },
+            {
+                  "name": "The Concert Hall",
+                  "text": "A major performance venue located within the Tivoli Gardens.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568705,
+                        55.672622
+                  ]
+            },
+            {
+                  "name": "Cirkusbygningen",
+                  "text": "A historic circular building used for circus performances and dinner shows.",
+                  "category": "cultural",
+                  "coords": [
+                        12.565129,
+                        55.676088
+                  ]
+            },
+            {
+                  "name": "Glassalen",
+                  "text": "An elegant glass-walled concert hall situated in Tivoli.",
+                  "category": "cultural",
+                  "coords": [
+                        12.568538,
+                        55.673893
+                  ]
+            },
+            {
+                  "name": "Pantomimeteatret",
+                  "text": "An open-air theater in Tivoli known for its traditional pantomime and ballet.",
+                  "category": "cultural",
+                  "coords": [
+                        12.566564,
+                        55.674506
+                  ]
+            },
+            {
+                  "name": "Husets Teater",
+                  "text": "An intimate theater focusing on modern dramatic works.",
+                  "category": "cultural",
+                  "coords": [
+                        12.561428,
+                        55.670178
+                  ]
+            },
+            {
+                  "name": "Det Ny Teater",
+                  "text": "One of Denmark's largest and most beautiful theaters, hosting major musicals.",
+                  "category": "cultural",
+                  "coords": [
+                        12.555334,
+                        55.673124
+                  ]
+            },
+            {
+                  "name": "Betty Nansen Teatret",
+                  "text": "A historic theater on Frederiksberg Allé named after a famous Danish actress.",
+                  "category": "cultural",
+                  "coords": [
+                        12.536943,
+                        55.673963
+                  ]
+            },
+            {
+                  "name": "Aveny-T",
+                  "text": "A contemporary theater venue with a focus on young audiences and new drama.",
+                  "category": "cultural",
+                  "coords": [
+                        12.533198,
+                        55.675005
+                  ]
+            },
+            {
+                  "name": "Church of Our Lady",
+                  "text": "The cathedral of Copenhagen, famous for Bertel Thorvaldsen's statues of Christ and the Apostles.",
+                  "category": "religious",
+                  "coords": [
+                        12.572731,
+                        55.679376
+                  ]
+            },
+            {
+                  "name": "Jesuskirken",
+                  "text": "A unique church in Valby known for its distinctive architecture and art collection.",
+                  "category": "religious",
+                  "coords": [
+                        12.522165,
+                        55.665281
+                  ]
+            },
+            {
+                  "name": "Saint Mark's Church",
+                  "text": "A parish church serving the Frederiksberg area of Copenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.552667,
+                        55.679916
+                  ]
+            },
+            {
+                  "name": "Margrethekirken",
+                  "text": "A modern church in the Valby district of Copenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.503368,
+                        55.649823
+                  ]
+            },
+            {
+                  "name": "Johannes Døbers Kirke",
+                  "text": "A parish church in Valby dedicated to Saint John the Baptist.",
+                  "category": "religious",
+                  "coords": [
+                        12.519321,
+                        55.66003
+                  ]
+            },
+            {
+                  "name": "Katolsk Apostolisk Kirke",
+                  "text": "A church building of the Catholic Apostolic Church in Copenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.56098,
+                        55.681285
+                  ]
+            },
+            {
+                  "name": "Aalholm Kirke",
+                  "text": "A parish church located in the Aalholm neighborhood of Valby.",
+                  "category": "religious",
+                  "coords": [
+                        12.490389,
+                        55.672083
+                  ]
+            },
+            {
+                  "name": "Timotheus Kirke",
+                  "text": "A local church serving the Timotheus parish in Valby.",
+                  "category": "religious",
+                  "coords": [
+                        12.504253,
+                        55.666195
+                  ]
+            },
+            {
+                  "name": "Sankt Thomas Kirke",
+                  "text": "A parish church located on Frederiksberg Allé.",
+                  "category": "religious",
+                  "coords": [
+                        12.541756,
+                        55.684311
+                  ]
+            },
+            {
+                  "name": "Flintholm Kirke",
+                  "text": "A modern parish church serving the Flintholm district.",
+                  "category": "religious",
+                  "coords": [
+                        12.498971,
+                        55.679041
+                  ]
+            },
+            {
+                  "name": "Hellig Kors Kirke",
+                  "text": "A Neo-Gothic parish church located in the Nørrebro district.",
+                  "category": "religious",
+                  "coords": [
+                        12.551567,
+                        55.687635
+                  ]
+            },
+            {
+                  "name": "Brorsons Kirke",
+                  "text": "A church in Nørrebro known for its community engagement and music events.",
+                  "category": "religious",
+                  "coords": [
+                        12.546108,
+                        55.68753
+                  ]
+            },
+            {
+                  "name": "Mariakirken",
+                  "text": "A parish church located in the Vesterbro neighborhood.",
+                  "category": "religious",
+                  "coords": [
+                        12.56022,
+                        55.671644
+                  ]
+            },
+            {
+                  "name": "Mariendal Kirke",
+                  "text": "A parish church serving the Mariendal area of Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.534422,
+                        55.691951
+                  ]
+            },
+            {
+                  "name": "De Døves Kirke",
+                  "text": "A specialized church serving the deaf community in Copenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.542582,
+                        55.68681
+                  ]
+            },
+            {
+                  "name": "Solbjerg Kirke",
+                  "text": "A parish church serving the central part of Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.528856,
+                        55.679928
+                  ]
+            },
+            {
+                  "name": "Lindevang Kirke",
+                  "text": "A parish church located in the Lindevang district of Frederiksberg.",
+                  "category": "religious",
+                  "coords": [
+                        12.50705,
+                        55.678317
+                  ]
+            },
+            {
+                  "name": "Hans Tausens Kirke",
+                  "text": "A parish church in the Islands Brygge neighborhood of Copenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.576856,
+                        55.664659
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "A church serving the Frederiksberg community.",
+                  "category": "religious",
+                  "coords": [
+                        12.55116,
+                        55.676671
+                  ]
+            },
+            {
+                  "name": "Bethlehemskirken",
+                  "text": "A parish church located in the Nørrebro district of Copenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.556855,
+                        55.683105
+                  ]
+            },
+            {
+                  "name": "Kristkirken",
+                  "text": "A large parish church located in the Vesterbro district.",
+                  "category": "religious",
+                  "coords": [
+                        12.545093,
+                        55.66772
+                  ]
+            },
+            {
+                  "name": "Enghave Kirke",
+                  "text": "A parish church serving the Enghave neighborhood of Vesterbro.",
+                  "category": "religious",
+                  "coords": [
+                        12.540484,
+                        55.663914
+                  ]
+            },
+            {
+                  "name": "Martinskirken",
+                  "text": "A local place of worship in the Copenhagen area.",
+                  "category": "religious",
+                  "coords": [
+                        12.555624,
+                        55.67987
+                  ]
+            },
+            {
+                  "name": "Evangeliekirken",
+                  "text": "A Pentecostal church located in the Frederiksberg area.",
+                  "category": "religious",
+                  "coords": [
+                        12.5535,
+                        55.684168
+                  ]
+            },
+            {
+                  "name": "Apostelkirken",
+                  "text": "Apostelkirken is a notable church located in the Carlsberg Byen district of Copenhagen.",
+                  "category": "religious",
+                  "coords": [
+                        12.551133,
+                        55.671691
+                  ]
+            },
+            {
+                  "name": "Godthaabskirken",
+                  "text": "Godthaabskirken is a distinctive religious building located in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.525993,
+                        55.68375
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Sankt Lukas Kirke is a well-known church in the Carlsberg Byen area.",
+                  "category": "religious",
+                  "coords": [
+                        12.536412,
+                        55.682283
+                  ]
+            },
+            {
+                  "name": "Frederiksholm Kirke",
+                  "text": "Frederiksholm Kirke serves as a local place of worship in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.534146,
+                        55.650734
+                  ]
+            },
+            {
+                  "name": "Sankt Matthæus Kirke",
+                  "text": "Sankt Matthæus Kirke is the oldest and largest church in the Vesterbro district near Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.548087,
+                        55.669476
+                  ]
+            },
+            {
+                  "name": "Vigerslev Kirke",
+                  "text": "Vigerslev Kirke is an Evangelical Lutheran church located in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.489351,
+                        55.658768
+                  ]
+            },
+            {
+                  "name": "Eliaskirken",
+                  "text": "Eliaskirken is a striking church building located at Vesterbros Torv in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.555391,
+                        55.671838
+                  ]
+            },
+            {
+                  "name": "uKirke",
+                  "text": "uKirke, also known as Gethsemane Church, is a modern youth culture space in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.553545,
+                        55.66769
+                  ]
+            },
+            {
+                  "name": "Emmauskirken",
+                  "text": "Emmauskirken is a religious gathering place in the Carlsberg Byen community.",
+                  "category": "religious",
+                  "coords": [
+                        12.519003,
+                        55.678699
+                  ]
+            },
+            {
+                  "name": "Frederiksberg Slotskirke",
+                  "text": "Frederiksberg Slotskirke is the chapel of Frederiksberg Palace in Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.525652,
+                        55.671687
+                  ]
+            },
+            {
+                  "name": "Vartov Valgmenighedskirke",
+                  "text": "Vartov Valgmenighedskirke is a historic church located in the heart of Carlsberg Byen.",
+                  "category": "religious",
+                  "coords": [
+                        12.572587,
+                        55.675548
+                  ]
+            },
+            {
+                  "name": "Old Market",
+                  "text": "The Old Market (Gammeltorv) is the oldest square in Copenhagen, located near Carlsberg Byen.",
+                  "category": "landmark",
+                  "coords": [
+                        12.572079,
+                        55.678142
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Carlsberg Byen", hu: "Carlsberg Byen", ro: "Carlsberg Byen", en: "Carlsberg Byen" },
@@ -813,7 +2802,1888 @@ export const denmarkEconomicV2: POI[] = [
     image: "/poi-images/denmark-danisco-nakskov-economic-v2.webp",
   },
   {
-    id: "denmark-aarhus-tech-hub-economic-v2",
+    id: "denmark-aarhus-tech-hub-economic-v2", "sights": {
+      "de": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "Ein Museum, das der Geschichte und Kunst von Plakaten gewidmet ist.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Kunstmuseum",
+                  "text": "Ein bedeutendes Kunstmuseum, bekannt für seinen regenbogenfarbenen Dachrundweg.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "Das Naturhistorische Museum in Aarhus zeigt Ausstellungen zur Flora und Fauna Dänemarks.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "Dieses Museum in Aarhus zeigt eine Sammlung antiker Kunst und Artefakte aus dem Mittelmeerraum.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "Die Kunsthal Aarhus ist ein Zentrum für zeitgenössische Kunst mit internationalen und lokalen Ausstellungen.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "Den Gamle By",
+                  "text": "Den Gamle By ist ein Freilichtmuseum in Aarhus, das das historische dänische Stadtleben zeigt.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "Das Steno Museum widmet sich der Geschichte der Naturwissenschaften und der Medizin.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "Das Besatzungsmuseum dokumentiert das Leben in Aarhus während der deutschen Besatzung im Zweiten Weltkrieg.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "Das Rathaus von Aarhus ist ein bedeutendes Beispiel funktionalistischer Architektur, entworfen von Arne Jacobsen und Erik Møller.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "Filuren ist ein Theater in Aarhus, das sich hauptsächlich auf Aufführungen für Kinder und Jugendliche konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "Teatret Gruppe 38 ist eine professionelle Theatergruppe in Aarhus, bekannt für zeitgenössisches Puppen- und Schattentheater.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "Das Musikhuset Aarhus ist Skandinaviens größtes Konzerthaus und bietet ein breites Spektrum an musikalischen und kulturellen Veranstaltungen.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "Die St.-Pauls-Kirche ist eine Pfarrkirche in Aarhus, die im neoromanischen Stil erbaut wurde.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "Die St.-Johannes-Kirche ist ein bedeutendes Gotteshaus in der Stadt Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "Die St.-Nikolai-Kirche ist ein religiöses Gebäude in Aarhus, das der lokalen Gemeinde dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Die Frauenkirche ist eine historische katholische Kirche in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "Die Langenæs-Kirche ist ein modernes Gotteshaus im Stadtteil Langenæs in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Die St.-Lukas-Kirche ist eine bedeutende Pfarrkirche in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "Die Christianskirche ist eine religiöse Stätte in Aarhus, die spirituelle Dienste anbietet.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "Die Møllevang-Kirche ist eine Pfarrkirche, die das Gebiet Møllevang in Aarhus bedient.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "Tuesbøl Mølle ist eine historische Windmühle, die Teil des Freilichtmuseums Den Gamle By ist.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "Die St.-Nikolai-Quelle ist eine historische Quelle in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "Die Ringgadebroen ist eine bedeutende Brücke in Aarhus, die die Bahngleise überquert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "Die Frederiks Bro ist eine Brücke im Zentrum von Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "Der Sky Tower ist eine Freifallturm-Attraktion im Vergnügungspark Tivoli Friheden.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "Diese Parkanlage in Aarhus befindet sich an der Stelle der ehemaligen St.-Olav-Kirche.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Der Universitätspark in Aarhus ist eine große Grünanlage, die die Gebäude der Universität Aarhus umgibt.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Der Rathauspark ist eine zentrale Grünanlage in Aarhus direkt neben dem Rathaus.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanischer Garten",
+                  "text": "Der Botanische Garten in Aarhus beherbergt eine Vielzahl von Pflanzenarten und große tropische Gewächshäuser.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "Skanseparken ist einer der ältesten Parks in Aarhus und befindet sich im Viertel Frederiksbjerg.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "Tangkrogen ist eine große Veranstaltungs- und Parkanlage an der Bucht von Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "Mindeparken ist ein Gedenkpark in Aarhus mit Blick auf die Bucht von Aarhus und Schloss Marselisborg.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Der Åparken ist ein Stadtpark entlang des Flusses Aarhus, der Raum für Erholung bietet.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "Tivoli Friheden ist ein Vergnügungspark in Aarhus mit Fahrgeschäften, Konzerten und Gärten.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "Vikingemuseet",
+                  "text": "Dieses Museum in Aarhus zeigt archäologische Funde aus der Wikingerzeit.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj ist eine archäologische Stätte in der Nähe von Aarhus.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "Die Kulbroen ist ein historisches Industriebauwerk in Aarhus, das derzeit umgenutzt wird.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "Svalegangen ist ein Theater in Aarhus, das für seine zeitgenössischen Bühnenproduktionen bekannt ist.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Teater Katapult",
+                  "text": "Theater Catapult ist eine Spielstätte in Aarhus, die sich auf modernes Drama konzentriert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Das Aarhus Teater ist das größte Provinztheater Dänemarks und befindet sich im Herzen von Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Aarhus Bykirke ist eine zeitgenössische christliche Kirche in der Stadt Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Aarhus Valgmenighed ist eine religiöse Gemeinschaft und ein Gebetshaus in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Die Immanuelskirche ist ein Gotteshaus, das der lokalen Gemeinde in Aarhus dient.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "Die Bethlehemkirche ist eine religiöse Stätte in der Stadt Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "Møllestien ist eine malerische historische Straße in Aarhus, bekannt für ihre bunten Häuser.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "Vennelystparken ist ein hügeliger öffentlicher Park in Aarhus in der Nähe der Universität.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Der Åby Park ist eine grüne Erholungsfläche im Stadtteil Åbyhøj in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "Mølleparken ist ein zentraler Park in Aarhus, der am Fluss Aarhus liegt.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "Skovtoften ist ein lokaler Park und Grünanlage in der Stadt Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "Dieser Platz dient als Grünanlage neben der Frauenkirche in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "Cereshaven ist eine Parkanlage auf dem Gelände der ehemaligen Ceres-Brauerei in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "Der Musikhusparken ist eine Parkanlage vor dem Konzerthaus Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ],
+      "hu": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "A plakátok történelmének és művészetének szentelt múzeum.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Kunstmuseum",
+                  "text": "Jelentős művészeti múzeum, amely a szivárványos tetőteraszáról ismert.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "Az aarhusi Természettudományi Múzeum Dánia növény- és állatvilágát bemutató kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "Ez az aarhusi múzeum az ókori mediterrán térség művészeti alkotásait és tárgyait mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "A Kunsthal Aarhus egy kortárs művészeti központ, amely nemzetközi és helyi kiállításoknak ad otthont.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "Den Gamle By",
+                  "text": "A Den Gamle By egy szabadtéri múzeum Aarhusban, amely a történelmi dán városi életet mutatja be.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "A Steno Múzeum a természettudományok és az orvostudomány történetére összpontosít.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "A Megszállási Múzeum az aarhusi életet dokumentálja a második világháborús német megszállás idején.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "Az aarhusi városháza a funkcionalista építészet jelentős példája, amelyet Arne Jacobsen és Erik Møller tervezett.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "A Filuren egy aarhusi színház, amely elsősorban gyermekeknek és fiataloknak szóló előadásokra összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "A Teatret Gruppe 38 egy aarhusi színházi társulat, amely kortárs báb- és árnyékszínházi előadásairól ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "A Musikhuset Aarhus Skandinávia legnagyobb koncertterme, amely zenei és kulturális események széles választékának ad otthont.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "A Szent Pál-templom egy aarhusi plébániatemplom, amely neoromán stílusban épült.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "A Szent János-templom egy jelentős vallási helyszín Aarhus városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "A Szent Miklós-templom egy vallási épület Aarhusban, amely a helyi közösséget szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "A Miasszonyunk-templom egy történelmi katolikus templom Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "A Langenæs-templom egy modern vallási helyszín Aarhus Langenæs negyedében.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "A Szent Lukács-templom egy jelentős plébániatemplom Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "A Christians-templom egy vallási helyszín Aarhusban, amely hitéleti szolgáltatásokat nyújt.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "A Møllevang-templom egy plébániatemplom, amely Aarhus Møllevang területét szolgálja.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "A Tuesbøl Mølle egy történelmi szélmalom, amely a Den Gamle By szabadtéri múzeum része.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "A Szent Miklós-forrás egy történelmi forrás Aarhusban.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "A Ringgadebroen egy jelentős híd Aarhusban, amely a vasúti vágányok felett vezet át.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "A Frederiks Bro egy híd Aarhus központi részén.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "A Sky Tower egy szabadesés-torony attrakció a Tivoli Friheden vidámparkban.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "Ez az aarhusi park az egykori Szent Olaf-templom helyén található.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Az aarhusi Egyetemi Park az Aarhusi Egyetem épületeit körülvevő nagy zöldterület.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "A Városháza park egy központi zöldterület Aarhusban, a városháza mellett.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanisk Have",
+                  "text": "Az aarhusi Botanikus Kert számos növényfajnak és nagy trópusi üvegházaknak ad otthont.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "A Skanseparken Aarhus egyik legrégebbi parkja, amely a Frederiksbjerg negyedben található.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "A Tangkrogen egy nagy rendezvény- és parkterület az Aarhusi-öböl partján.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "A Mindeparken egy emlékpark Aarhusban, kilátással az Aarhusi-öbölre és a Marselisborg-palotára.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Az Åparken egy városi park az Aarhus-folyó mentén, amely kikapcsolódási lehetőséget kínál.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "A Tivoli Friheden egy aarhusi vidámpark játékokkal, koncertekkel és kertekkel.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "Vikingemuseet",
+                  "text": "Ez az aarhusi múzeum a viking korból származó régészeti leleteket mutat be.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj egy régészeti lelőhely Aarhus közelében.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "A Kulbroen egy történelmi ipari építmény Aarhusban, amelyet jelenleg új célra hasznosítanak.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "A Svalegangen egy aarhusi színház, amely kortárs színpadi produkcióiról ismert.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Teater Katapult",
+                  "text": "A Theater Catapult egy aarhusi előadóhely, amely a modern drámára összpontosít.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Az Aarhus Teater Dánia legnagyobb vidéki színháza, amely Aarhus szívében található.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Az Aarhus Bykirke egy kortárs keresztény templom Aarhus városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Az Aarhus Valgmenighed egy vallási közösség és hitéleti helyszín Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Az Immanuel-templom egy vallási helyszín, amely a helyi közösséget szolgálja Aarhusban.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "A Betlehem-templom egy vallási helyszín Aarhus városában.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "A Møllestien egy festői történelmi utca Aarhusban, amely színes házairól ismert.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "A Vennelystparken egy dombos közpark Aarhusban, az egyetem közelében.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Az Åby Park egy zöld kikapcsolódási terület Aarhus Åbyhøj negyedében.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "A Mølleparken egy központi park Aarhusban, az Aarhus-folyó partján.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "A Skovtoften egy helyi park és zöldterület Aarhus városában.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "Ez a tér zöldterületként szolgál az aarhusi Miasszonyunk-templom mellett.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "A Cereshaven egy parkterület az egykori Ceres sörfőzde helyén Aarhusban.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "A Musikhusparken egy park az Aarhusi Koncertház előtt.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ],
+      "ro": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "Un muzeu dedicat istoriei și artei afișelor.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Kunstmuseum",
+                  "text": "Un muzeu de artă major, cunoscut pentru pasarela sa panoramică în culorile curcubeului.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "Muzeul de Istorie Naturală din Aarhus găzduiește expoziții despre flora și fauna Danemarcei.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "Acest muzeu din Aarhus expune o colecție de artă antică și artefacte din regiunea mediteraneeană.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "Kunsthal Aarhus este un centru de artă contemporană care prezintă expoziții internaționale și locale.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "Den Gamle By",
+                  "text": "Den Gamle By este un muzeu în aer liber din Aarhus care prezintă viața urbană istorică daneză.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "Muzeul Steno se concentrează pe istoria științei și a medicinei.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "Muzeul Ocupației documentează viața din Aarhus în timpul ocupației germane din al Doilea Război Mondial.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "Primăria din Aarhus este un exemplu notabil de arhitectură funcționalistă, proiectată de Arne Jacobsen și Erik Møller.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "Filuren este un teatru din Aarhus axat în principal pe spectacole pentru copii și tineri.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "Teatret Gruppe 38 este o trupă de teatru profesionistă din Aarhus, cunoscută pentru spectacolele sale contemporane de păpuși și umbre.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "Musikhuset Aarhus este cea mai mare sală de concerte din Scandinavia, găzduind o gamă largă de evenimente muzicale și culturale.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "Biserica Sfântul Paul este o biserică parohială din Aarhus construită în stil neoromanic.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "Biserica Sfântul Ioan este un lăcaș de cult notabil situat în orașul Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "Biserica Sfântul Nicolae este o clădire religioasă din Aarhus care deservește comunitatea locală.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "Biserica Maicii Domnului este o biserică catolică istorică din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "Biserica Langenæs este un lăcaș de cult modern situat în cartierul Langenæs din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "Biserica Sfântul Luca este o biserică parohială proeminentă din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "Biserica Christians este un sit religios care oferă servicii spirituale în Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "Biserica Møllevang este o biserică parohială care deservește zona Møllevang din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "Tuesbøl Mølle este o moară de vânt istorică care face parte din muzeul în aer liber Den Gamle By.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "Izvorul Sfântul Nicolae este un izvor istoric situat în Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "Ringgadebroen este un pod proeminent din Aarhus care traversează liniile de cale ferată.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "Frederiks Bro este un pod situat în partea centrală a orașului Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "Sky Tower este o atracție de tip turn cu cădere liberă situată în parcul de distracții Tivoli Friheden.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "Această zonă de parc din Aarhus este situată pe locul fostei biserici Sfântul Olaf.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "Parcul Universității din Aarhus este un spațiu verde mare care înconjoară clădirile Universității din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "Parcul Primăriei este un spațiu verde central din Aarhus, situat lângă Primărie.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanisk Have",
+                  "text": "Grădina Botanică din Aarhus prezintă o varietate de specii de plante și sere tropicale mari.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "Skanseparken este unul dintre cele mai vechi parcuri din Aarhus, situat în districtul Frederiksbjerg.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "Tangkrogen este o zonă mare de evenimente și parc situată lângă Golful Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "Mindeparken este un parc memorial din Aarhus, cu vedere la Golful Aarhus și Palatul Marselisborg.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Åparken este un parc urban de-a lungul râului Aarhus care oferă spațiu de recreere.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "Tivoli Friheden este un parc de distracții din Aarhus care oferă atracții, concerte și grădini.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "Vikingemuseet",
+                  "text": "Acest muzeu din Aarhus expune descoperiri arheologice din epoca vikingă.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj este un sit arheologic situat lângă Aarhus.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "Kulbroen este o structură industrială istorică din Aarhus care este în curs de reutilizare.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "Svalegangen este un teatru din Aarhus cunoscut pentru producțiile sale de scenă contemporane.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Teater Katapult",
+                  "text": "Theater Catapult este o locație de spectacol din Aarhus axată pe drama modernă.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Teatrul din Aarhus este cel mai mare teatru provincial din Danemarca, situat în inima orașului Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Aarhus Bykirke este o biserică creștină contemporană din orașul Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Aarhus Valgmenighed este o comunitate religioasă și un lăcaș de cult din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Biserica Emanuel este un lăcaș de cult care deservește comunitatea locală din Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "Biserica Betleem este un sit religios situat în orașul Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "Møllestien este o stradă istorică pitorească din Aarhus, cunoscută pentru casele sale colorate.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "Vennelystparken este un parc public deluros din Aarhus, lângă universitate.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Parcul Åby este o zonă recreativă verde situată în cartierul Åbyhøj din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "Mølleparken este un parc central din Aarhus situat lângă râul Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "Skovtoften este un parc local și spațiu verde din orașul Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "Această piață servește ca spațiu verde lângă Biserica Maicii Domnului din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "Cereshaven este o zonă de parc situată pe locul fostei fabrici de bere Ceres din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "Musikhusparken este un parc situat în fața Sălii de Concerte din Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ],
+      "en": [
+            {
+                  "name": "Dansk Plakatmuseum",
+                  "text": "A museum dedicated to the history and art of posters.",
+                  "category": "museum",
+                  "coords": [
+                        10.193394,
+                        56.158531
+                  ]
+            },
+            {
+                  "name": "ARoS Art Museum",
+                  "text": "A major art museum famous for its rainbow-colored rooftop walkway.",
+                  "category": "museum",
+                  "coords": [
+                        10.199605,
+                        56.153888
+                  ]
+            },
+            {
+                  "name": "Naturhistorisk Museum",
+                  "text": "The Natural History Museum in Aarhus features exhibits on the flora and fauna of Denmark.",
+                  "category": "museum",
+                  "coords": [
+                        10.202907,
+                        56.167411
+                  ]
+            },
+            {
+                  "name": "Antikmuseet",
+                  "text": "This museum in Aarhus displays a collection of ancient art and artifacts from the Mediterranean region.",
+                  "category": "museum",
+                  "coords": [
+                        10.200261,
+                        56.170567
+                  ]
+            },
+            {
+                  "name": "Kunsthal Aarhus",
+                  "text": "Kunsthal Aarhus is a contemporary art center presenting international and local exhibitions.",
+                  "category": "museum",
+                  "coords": [
+                        10.202002,
+                        56.155081
+                  ]
+            },
+            {
+                  "name": "The Old Town, Aarhus",
+                  "text": "Den Gamle By is an open-air museum in Aarhus showcasing historic Danish urban life.",
+                  "category": "museum",
+                  "coords": [
+                        10.19182,
+                        56.158953
+                  ]
+            },
+            {
+                  "name": "Steno Museet",
+                  "text": "The Steno Museum focuses on the history of science and medicine.",
+                  "category": "museum",
+                  "coords": [
+                        10.202904,
+                        56.165376
+                  ]
+            },
+            {
+                  "name": "Besættelsesmuseet",
+                  "text": "The Occupation Museum documents life in Aarhus during the German occupation of World War II.",
+                  "category": "museum",
+                  "coords": [
+                        10.211452,
+                        56.157394
+                  ]
+            },
+            {
+                  "name": "Aarhus Rådhus",
+                  "text": "The Aarhus City Hall is a notable example of functionalist architecture designed by Arne Jacobsen and Erik Møller.",
+                  "category": "historical",
+                  "coords": [
+                        10.202977,
+                        56.152151
+                  ]
+            },
+            {
+                  "name": "Filuren",
+                  "text": "Filuren is a theater in Aarhus primarily focused on performances for children and young people.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199094,
+                        56.151806
+                  ]
+            },
+            {
+                  "name": "Teatret Gruppe 38",
+                  "text": "Teatret Gruppe 38 is a professional theater group based in Aarhus known for its contemporary puppet and shadow theater.",
+                  "category": "cultural",
+                  "coords": [
+                        10.227524,
+                        56.163184
+                  ]
+            },
+            {
+                  "name": "Musikhuset Aarhus",
+                  "text": "Musikhuset Aarhus is Scandinavia's largest concert hall, hosting a wide range of musical and cultural events.",
+                  "category": "cultural",
+                  "coords": [
+                        10.199063,
+                        56.152962
+                  ]
+            },
+            {
+                  "name": "Sankt Pauls Kirke",
+                  "text": "St. Paul's Church is a parish church in Aarhus built in the neo-Romanesque style.",
+                  "category": "religious",
+                  "coords": [
+                        10.203924,
+                        56.146019
+                  ]
+            },
+            {
+                  "name": "Sankt Johannes Kirke",
+                  "text": "St. John's Church is a notable place of worship located in the city of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.210249,
+                        56.169112
+                  ]
+            },
+            {
+                  "name": "Sankt Nikolaj Kirke",
+                  "text": "St. Nicholas Church is a religious building in Aarhus serving the local community.",
+                  "category": "religious",
+                  "coords": [
+                        10.200385,
+                        56.150861
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirke",
+                  "text": "The Church of Our Lady is a historic Catholic church in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.204391,
+                        56.151529
+                  ]
+            },
+            {
+                  "name": "Langenæs Kirke",
+                  "text": "Langenæs Church is a modern place of worship located in the Langenæs district of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.178676,
+                        56.140894
+                  ]
+            },
+            {
+                  "name": "Sankt Lukas Kirke",
+                  "text": "St. Luke's Church is a prominent parish church in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.194082,
+                        56.144777
+                  ]
+            },
+            {
+                  "name": "Christianskirken",
+                  "text": "Christians Church is a religious site providing spiritual services in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.195581,
+                        56.177649
+                  ]
+            },
+            {
+                  "name": "Møllevangskirken",
+                  "text": "Møllevang Church is a parish church serving the Møllevang area of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.182442,
+                        56.165654
+                  ]
+            },
+            {
+                  "name": "Tuesbøl Mølle",
+                  "text": "Tuesbøl Mølle is a historic windmill that is part of the Den Gamle By open-air museum.",
+                  "category": "landmark",
+                  "coords": [
+                        10.193562,
+                        56.159451
+                  ]
+            },
+            {
+                  "name": "Sankt Nicolaus Kilde",
+                  "text": "St. Nicholas Spring is a historic spring located in Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.208086,
+                        56.142633
+                  ]
+            },
+            {
+                  "name": "Ringgadebroen",
+                  "text": "Ringgadebroen is a prominent bridge in Aarhus crossing the railway tracks.",
+                  "category": "landmark",
+                  "coords": [
+                        10.184499,
+                        56.148538
+                  ]
+            },
+            {
+                  "name": "Frederiks Bro",
+                  "text": "Frederiks Bro is a bridge located in the central part of Aarhus.",
+                  "category": "landmark",
+                  "coords": [
+                        10.206893,
+                        56.156731
+                  ]
+            },
+            {
+                  "name": "Sky Tower",
+                  "text": "The Sky Tower is a drop tower attraction located in the Tivoli Friheden amusement park.",
+                  "category": "tower",
+                  "coords": [
+                        10.196953,
+                        56.136183
+                  ]
+            },
+            {
+                  "name": "Sankt Olufs Kirkegård",
+                  "text": "This park area in Aarhus is located at the site of the former St. Olaf's Church.",
+                  "category": "park",
+                  "coords": [
+                        10.212886,
+                        56.158405
+                  ]
+            },
+            {
+                  "name": "Universitetsparken",
+                  "text": "The University Park in Aarhus is a large green space surrounding the Aarhus University buildings.",
+                  "category": "park",
+                  "coords": [
+                        10.20302,
+                        56.168996
+                  ]
+            },
+            {
+                  "name": "Rådhusparken",
+                  "text": "City Hall Park is a central green space in Aarhus located next to the City Hall.",
+                  "category": "park",
+                  "coords": [
+                        10.201526,
+                        56.151841
+                  ]
+            },
+            {
+                  "name": "Botanical Garden",
+                  "text": "The Botanical Garden in Aarhus features a variety of plant species and large tropical greenhouses.",
+                  "category": "park",
+                  "coords": [
+                        10.190786,
+                        56.161446
+                  ]
+            },
+            {
+                  "name": "Skanseparken",
+                  "text": "Skanseparken is one of the oldest parks in Aarhus, located in the Frederiksbjerg district.",
+                  "category": "park",
+                  "coords": [
+                        10.207159,
+                        56.145436
+                  ]
+            },
+            {
+                  "name": "Tangkrogen",
+                  "text": "Tangkrogen is a large event and park area by the Aarhus Bay.",
+                  "category": "park",
+                  "coords": [
+                        10.210277,
+                        56.137598
+                  ]
+            },
+            {
+                  "name": "Mindeparken",
+                  "text": "Mindeparken is a memorial park in Aarhus with views of the Aarhus Bay and Marselisborg Palace.",
+                  "category": "park",
+                  "coords": [
+                        10.20769,
+                        56.128754
+                  ]
+            },
+            {
+                  "name": "Åparken",
+                  "text": "Åparken is a urban park along the Aarhus River providing recreational space.",
+                  "category": "park",
+                  "coords": [
+                        10.194206,
+                        56.155723
+                  ]
+            },
+            {
+                  "name": "Tivoli Friheden",
+                  "text": "Tivoli Friheden is an amusement park in Aarhus featuring rides, concerts, and gardens.",
+                  "category": "recreational",
+                  "coords": [
+                        10.198367,
+                        56.136263
+                  ]
+            },
+            {
+                  "name": "The Viking Museum",
+                  "text": "This museum in Aarhus displays archaeological finds from the Viking Age.",
+                  "category": "museum",
+                  "coords": [
+                        10.2091,
+                        56.15669
+                  ]
+            },
+            {
+                  "name": "Røverhøj",
+                  "text": "Røverhøj is an archaeological site located near Aarhus.",
+                  "category": "historical",
+                  "coords": [
+                        10.206485,
+                        56.136979
+                  ]
+            },
+            {
+                  "name": "Kulbroen",
+                  "text": "Kulbroen is a historic industrial structure in Aarhus currently being repurposed.",
+                  "category": "historical",
+                  "coords": [
+                        10.211314,
+                        56.148812
+                  ]
+            },
+            {
+                  "name": "Svalegangen",
+                  "text": "Svalegangen is a theater in Aarhus known for its contemporary stage productions.",
+                  "category": "cultural",
+                  "coords": [
+                        10.206277,
+                        56.152045
+                  ]
+            },
+            {
+                  "name": "Theater Catapult",
+                  "text": "Theater Catapult is a performance venue in Aarhus focusing on modern drama.",
+                  "category": "cultural",
+                  "coords": [
+                        10.193986,
+                        56.153574
+                  ]
+            },
+            {
+                  "name": "Aarhus Teater",
+                  "text": "Aarhus Theatre is the largest provincial theater in Denmark, located in the heart of Aarhus.",
+                  "category": "cultural",
+                  "coords": [
+                        10.210956,
+                        56.155851
+                  ]
+            },
+            {
+                  "name": "Aarhus Bykirke",
+                  "text": "Aarhus Bykirke is a contemporary Christian church in the city of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202904,
+                        56.147073
+                  ]
+            },
+            {
+                  "name": "Aarhus Valgmenighed",
+                  "text": "Aarhus Valgmenighed is a religious community and place of worship in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.167909,
+                        56.151487
+                  ]
+            },
+            {
+                  "name": "Immanuelskirken",
+                  "text": "Immanuel Church is a place of worship serving the local community in Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.191557,
+                        56.14629
+                  ]
+            },
+            {
+                  "name": "Betlehemskirken",
+                  "text": "Bethlehem Church is a religious site located in the city of Aarhus.",
+                  "category": "religious",
+                  "coords": [
+                        10.202078,
+                        56.161003
+                  ]
+            },
+            {
+                  "name": "Møllestien",
+                  "text": "Møllestien is a picturesque historic street in Aarhus known for its colorful houses.",
+                  "category": "landmark",
+                  "coords": [
+                        10.202273,
+                        56.156707
+                  ]
+            },
+            {
+                  "name": "Vennelystparken",
+                  "text": "Vennelystparken is a hilly public park in Aarhus near the university.",
+                  "category": "park",
+                  "coords": [
+                        10.207871,
+                        56.164258
+                  ]
+            },
+            {
+                  "name": "Åby Park",
+                  "text": "Åby Park is a green recreational area located in the Åbyhøj district of Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.164547,
+                        56.15333
+                  ]
+            },
+            {
+                  "name": "Mølleparken",
+                  "text": "Mølleparken is a central park in Aarhus situated by the Aarhus River.",
+                  "category": "park",
+                  "coords": [
+                        10.200313,
+                        56.156047
+                  ]
+            },
+            {
+                  "name": "Skovtoften",
+                  "text": "Skovtoften is a local park and green space in the city of Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.220901,
+                        56.169838
+                  ]
+            },
+            {
+                  "name": "Vor Frue Kirkeplads",
+                  "text": "This square serves as a green space next to the Church of Our Lady in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.204991,
+                        56.157918
+                  ]
+            },
+            {
+                  "name": "Cereshaven",
+                  "text": "Cereshaven is a park area located at the site of the former Ceres Brewery in Aarhus.",
+                  "category": "park",
+                  "coords": [
+                        10.193228,
+                        56.155598
+                  ]
+            },
+            {
+                  "name": "Musikhusparken",
+                  "text": "Musikhusparken is a park located in front of the Aarhus Concert Hall.",
+                  "category": "park",
+                  "coords": [
+                        10.200528,
+                        56.152457
+                  ]
+            }
+      ]
+},
     type: "city",
     parent: "DK",
     name: { de: "Aarhus Tech-Hub", hu: "Aarhusi Tech-hub", ro: "Aarhus Tech-Hub", en: "Aarhus Tech-Hub" },
